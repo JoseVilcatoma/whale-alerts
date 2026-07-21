@@ -1,23 +1,29 @@
 """
-whale_alert_bot.py
+whale_alert_bot.py — versión en bucle continuo
 
-Revisa el top del ranking de Polymarket, detecta apuestas fuertes de esos
-apostadores, y manda un push por ntfy.sh directo al celular.
+En vez de correr una vez y terminar, se queda revisando sin parar cada
+~20 segundos. Pensado para correr dentro de un solo job de GitHub Actions
+que dura varias horas, y se reinicia solo (via cron) antes de que GitHub
+lo corte.
 
-Pensado para correr en GitHub Actions cada 5 minutos (no necesita servidor propio).
-
-Variables de entorno esperadas (se configuran como Secrets en GitHub):
-  NTFY_TOPIC        - nombre de tu canal de ntfy (obligatorio)
-  WHALE_THRESHOLD   - monto mínimo en USD para avisar (default: 1000)
-  TOP_N             - a cuántos del ranking vigilar (default: 10)
-  LB_CATEGORY       - categoría del ranking: OVERALL, SPORTS, POLITICS,
-                       CRYPTO, ESPORTS, CULTURE, ECONOMICS (default: OVERALL)
-  LB_PERIOD         - DAY, WEEK, MONTH o ALL (default: DAY)
+Variables de entorno (se configuran en el workflow / como Secrets):
+  NTFY_TOPIC                - nombre de tu canal de ntfy (obligatorio)
+  WHALE_THRESHOLD           - monto mínimo en USD para avisar (default: 1000)
+  TOP_N                     - a cuántos del ranking vigilar (default: 10)
+  LB_CATEGORY               - OVERALL, SPORTS, POLITICS, CRYPTO, ESPORTS,
+                               CULTURE, ECONOMICS (default: OVERALL)
+  LB_PERIOD                 - DAY, WEEK, MONTH o ALL (default: MONTH)
+  POLL_SECONDS              - cada cuánto revisa trades nuevos (default: 20)
+  LEADERBOARD_REFRESH_SECONDS - cada cuánto refresca el ranking (default: 900)
+  SAVE_STATE_EVERY_SECONDS  - cada cuánto guarda progreso (default: 300)
+  MAX_RUNTIME_SECONDS       - cuándo cortar solo, antes que lo corte GitHub
+                               (default: 21000 = 5h50m)
 """
 
 import json
 import os
 import sys
+import time
 from pathlib import Path
 
 import requests
@@ -29,7 +35,12 @@ NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
 WHALE_THRESHOLD = float(os.environ.get("WHALE_THRESHOLD", "1000"))
 TOP_N = int(os.environ.get("TOP_N", "10"))
 LB_CATEGORY = os.environ.get("LB_CATEGORY", "OVERALL")
-LB_PERIOD = os.environ.get("LB_PERIOD", "DAY")
+LB_PERIOD = os.environ.get("LB_PERIOD", "MONTH")
+
+POLL_SECONDS = int(os.environ.get("POLL_SECONDS", "20"))
+LEADERBOARD_REFRESH_SECONDS = int(os.environ.get("LEADERBOARD_REFRESH_SECONDS", "900"))
+SAVE_STATE_EVERY_SECONDS = int(os.environ.get("SAVE_STATE_EVERY_SECONDS", "300"))
+MAX_RUNTIME_SECONDS = int(os.environ.get("MAX_RUNTIME_SECONDS", str(5 * 3600 + 50 * 60)))
 
 
 def load_state():
@@ -41,19 +52,19 @@ def load_state():
     return {}
 
 
-def save_state(state):
+def save_and_commit_state(state):
     STATE_FILE.write_text(json.dumps(state, indent=2))
+    os.system('git config user.name "whale-alert-bot"')
+    os.system('git config user.email "actions@github.com"')
+    os.system("git add state.json")
+    os.system('git diff --staged --quiet || git commit -m "actualizar estado"')
+    os.system("git push")
 
 
 def get_leaderboard():
     r = requests.get(
         f"{DATA_API}/v1/leaderboard",
-        params={
-            "category": LB_CATEGORY,
-            "timePeriod": LB_PERIOD,
-            "orderBy": "PNL",
-            "limit": TOP_N,
-        },
+        params={"category": LB_CATEGORY, "timePeriod": LB_PERIOD, "orderBy": "PNL", "limit": TOP_N},
         timeout=15,
     )
     r.raise_for_status()
@@ -61,11 +72,7 @@ def get_leaderboard():
 
 
 def get_recent_trades(wallet):
-    r = requests.get(
-        f"{DATA_API}/trades",
-        params={"user": wallet, "limit": 25},
-        timeout=15,
-    )
+    r = requests.get(f"{DATA_API}/trades", params={"user": wallet, "limit": 25}, timeout=15)
     r.raise_for_status()
     return r.json()
 
@@ -90,56 +97,70 @@ def build_ticket(username, trade, usd, odds):
 
 def send_ntfy(text):
     if not NTFY_TOPIC:
-        print("NTFY_TOPIC no configurado, no se puede avisar.", file=sys.stderr)
+        print("NTFY_TOPIC no configurado.", file=sys.stderr)
         return
     try:
-        # Sin headers extra a propósito: es el formato que ntfy confirma que
-        # siempre funciona, sin depender de nada más.
         requests.post(f"https://ntfy.sh/{NTFY_TOPIC}", data=text.encode("utf-8"), timeout=10)
     except Exception as e:
         print(f"Error mandando a ntfy: {e}", file=sys.stderr)
 
 
+def check_wallet(wallet, username, state):
+    last_seen = state.get(wallet, 0)
+    try:
+        trades = get_recent_trades(wallet)
+    except Exception as e:
+        print(f"Error trayendo trades de {username}: {e}", file=sys.stderr)
+        return
+    new_last_seen = last_seen
+    for trade in sorted(trades, key=lambda t: t.get("timestamp", 0)):
+        ts = trade.get("timestamp", 0)
+        if ts <= last_seen:
+            continue
+        new_last_seen = max(new_last_seen, ts)
+        usd = (trade.get("size") or 0) * (trade.get("price") or 0)
+        if usd < WHALE_THRESHOLD:
+            continue
+        odds = round((trade.get("price") or 0) * 100)
+        print(f"🐋 {username}: ${usd:,.0f} en {trade.get('title')}")
+        send_ntfy(build_ticket(username, trade, usd, odds))
+    state[wallet] = new_last_seen
+
+
 def main():
     state = load_state()
-    try:
-        leaderboard = get_leaderboard()
-    except Exception as e:
-        print(f"Error trayendo el ranking: {e}", file=sys.stderr)
-        return
+    start = time.time()
+    traders = []
+    last_lb_refresh = 0
+    last_state_save = time.time()
 
-    for trader in leaderboard:
-        wallet = trader.get("proxyWallet")
-        username = trader.get("userName", "anon")
-        if not wallet:
-            continue
+    print(f"Arrancando — top {TOP_N} de {LB_PERIOD}/{LB_CATEGORY}, umbral ${WHALE_THRESHOLD:,.0f}, cada {POLL_SECONDS}s")
 
-        last_seen = state.get(wallet, 0)
-        try:
-            trades = get_recent_trades(wallet)
-        except Exception as e:
-            print(f"Error trayendo trades de {username}: {e}", file=sys.stderr)
-            continue
+    while time.time() - start < MAX_RUNTIME_SECONDS:
+        now = time.time()
 
-        new_last_seen = last_seen
-        # de más viejo a más nuevo, para que las notis lleguen en orden
-        for trade in sorted(trades, key=lambda t: t.get("timestamp", 0)):
-            ts = trade.get("timestamp", 0)
-            if ts <= last_seen:
-                continue
-            new_last_seen = max(new_last_seen, ts)
+        if now - last_lb_refresh > LEADERBOARD_REFRESH_SECONDS or not traders:
+            try:
+                traders = get_leaderboard()
+                print(f"Ranking actualizado: {[t.get('userName') for t in traders]}")
+            except Exception as e:
+                print(f"Error trayendo el ranking: {e}", file=sys.stderr)
+            last_lb_refresh = now
 
-            usd = (trade.get("size") or 0) * (trade.get("price") or 0)
-            if usd < WHALE_THRESHOLD:
-                continue
+        for trader in traders:
+            wallet = trader.get("proxyWallet")
+            username = trader.get("userName", "anon")
+            if wallet:
+                check_wallet(wallet, username, state)
 
-            odds = round((trade.get("price") or 0) * 100)
-            print(f"🐋 {username}: ${usd:,.0f} en {trade.get('title')}")
-            send_ntfy(build_ticket(username, trade, usd, odds))
+        if time.time() - last_state_save > SAVE_STATE_EVERY_SECONDS:
+            save_and_commit_state(state)
+            last_state_save = time.time()
 
-        state[wallet] = new_last_seen
+        time.sleep(POLL_SECONDS)
 
-    save_state(state)
+    save_and_commit_state(state)
+    print("Ciclo terminado — GitHub va a arrancar uno nuevo con el cron.")
 
 
 if __name__ == "__main__":
