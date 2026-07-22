@@ -34,5 +34,5 @@ jobs:
           WHALE_THRESHOLD: '1000'
           TOP_N: '10'
           LB_CATEGORY: 'OVERALL'
-          LB_PERIOD: 'MONTH'
+          POLL_SECONDS: '10'
         run: python whale_alert_bot.py
