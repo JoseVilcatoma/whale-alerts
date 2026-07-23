@@ -1,0 +1,185 @@
+{
+  "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
+    "userName": "111111111115",
+    "updated_at": 1784764755.595419,
+    "categories": {
+      "CS2": {
+        "won": 5,
+        "lost": 2
+      },
+      "Esports (otros)": {
+        "won": 0,
+        "lost": 3
+      }
+    }
+  },
+  "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
+    "userName": "Sassy-Bucket",
+    "updated_at": 1784764769.9595776,
+    "categories": {}
+  },
+  "0x93fb8127a1b21a112b11af936361225df0563e4a": {
+    "userName": "LlamaLoco0000",
+    "updated_at": 1784764789.2736542,
+    "categories": {
+      "F\u00fatbol": {
+        "won": 1,
+        "lost": 3
+      }
+    }
+  },
+  "0x3a8aa345d5db7ec5138298c8c4f4540259be7699": {
+    "userName": "TheReturnOfDarthMaul",
+    "updated_at": 1784764801.7534916,
+    "categories": {}
+  },
+  "0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991": {
+    "userName": "foodenjoyer",
+    "updated_at": 1784764814.5457122,
+    "categories": {
+      "MMA / Boxeo": {
+        "won": 1,
+        "lost": 0
+      }
+    }
+  },
+  "0x69c5c6f6a4dda665991c203bc8d5df3e006b1e01": {
+    "userName": "Themsnw",
+    "updated_at": 1784764830.6311634,
+    "categories": {
+      "Esports (otros)": {
+        "won": 1,
+        "lost": 0
+      },
+      "Econom\u00eda": {
+        "won": 1,
+        "lost": 0
+      },
+      "MMA / Boxeo": {
+        "won": 1,
+        "lost": 0
+      }
+    }
+  },
+  "0x9f2fe025f84839ca81dd8e0338892605702d2ca8": {
+    "userName": "surfandturf",
+    "updated_at": 1784764848.5986333,
+    "categories": {
+      "F\u00fatbol": {
+        "won": 1,
+        "lost": 0
+      },
+      "MMA / Boxeo": {
+        "won": 2,
+        "lost": 6
+      }
+    }
+  },
+  "0x547f2917d51f2e63ab382dcf641d4e0240162937": {
+    "userName": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+    "updated_at": 1784764864.9648502,
+    "categories": {}
+  },
+  "0xde7be6d489bce070a959e0cb813128ae659b5f4b": {
+    "userName": "wan123",
+    "updated_at": 1784764877.572288,
+    "categories": {}
+  },
+  "0x4d4f13a12d943faabc0d154fb2d546f649a9e5f3": {
+    "userName": "0x4d4F13a12D943faaBc0d154fb2D546f649A9E5f3-1782312742976",
+    "updated_at": 1784764892.428156,
+    "categories": {
+      "CS2": {
+        "won": 1,
+        "lost": 2
+      }
+    }
+  },
+  "0x204f72f35326db932158cba6adff0b9a1da95e14": {
+    "userName": "swisstony",
+    "updated_at": 1784764909.7188134,
+    "categories": {}
+  },
+  "0x09b428f7c2b469786286214aa5c90dd9015f7320": {
+    "userName": "DEEDDIT",
+    "updated_at": 1784764922.7740293,
+    "categories": {}
+  },
+  "0x476e1322d1a412fa0325527b8c3bc5e707b1396d": {
+    "userName": "asparagus2012",
+    "updated_at": 1784764939.1662774,
+    "categories": {
+      "F\u00fatbol": {
+        "won": 1,
+        "lost": 2
+      }
+    }
+  },
+  "0x2e25b222e2080c377fc1fb2b9f926315f0f4d49e": {
+    "userName": "Sparkling8899",
+    "updated_at": 1784764957.1220737,
+    "categories": {}
+  },
+  "0xe549581668a5751c1972d3ad2d1991d900bd2d54": {
+    "userName": "Allezpapa",
+    "updated_at": 1784764976.465698,
+    "categories": {
+      "F\u00fatbol": {
+        "won": 1,
+        "lost": 3
+      },
+      "MMA / Boxeo": {
+        "won": 1,
+        "lost": 0
+      }
+    }
+  },
+  "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223": {
+    "userName": "Jsram",
+    "updated_at": 1784764992.317309,
+    "categories": {
+      "F\u00fatbol": {
+        "won": 1,
+        "lost": 7
+      },
+      "MMA / Boxeo": {
+        "won": 0,
+        "lost": 1
+      }
+    }
+  },
+  "0x5b4ec9c06b284ee52c41a761974d836992880232": {
+    "userName": "ramadamaramadam",
+    "updated_at": 1784765010.0604744,
+    "categories": {
+      "MMA / Boxeo": {
+        "won": 1,
+        "lost": 0
+      },
+      "F\u00fatbol": {
+        "won": 0,
+        "lost": 1
+      }
+    }
+  },
+  "0x67542c3219b37fd1610aad290676ff91cdbfe3bc": {
+    "userName": "maz26",
+    "updated_at": 1784765025.2162497,
+    "categories": {
+      "MMA / Boxeo": {
+        "won": 0,
+        "lost": 1
+      }
+    }
+  },
+  "0xf0318c32136c2db7fec88b84869aee6a1106c80c": {
+    "userName": "BreakTheBank",
+    "updated_at": 1784765051.8010557,
+    "categories": {
+      "F\u00fatbol": {
+        "won": 2,
+        "lost": 3
+      }
+    }
+  }
+}
