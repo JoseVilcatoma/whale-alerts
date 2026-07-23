@@ -224,5 +224,15 @@
     "userName": "kluckkluck",
     "updated_at": 1784796082.6450555,
     "categories": {}
+  },
+  "0x74471a007ddcc488f6d57b5e86dfb35a8d48a16d": {
+    "userName": "tetrose",
+    "updated_at": 1784838119.813654,
+    "categories": {
+      "F\u00fatbol": {
+        "won": 1,
+        "lost": 0
+      }
+    }
   }
 }
