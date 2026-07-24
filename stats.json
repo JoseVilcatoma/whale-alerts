@@ -87,27 +87,27 @@
   },
   "0x4d4f13a12d943faabc0d154fb2d546f649a9e5f3": {
     "userName": "0x4d4F13a12D943faaBc0d154fb2D546f649A9E5f3-1782312742976",
-    "updated_at": 1784764892.428156,
+    "updated_at": 1784851297.8136775,
     "categories": {
       "CS2": {
-        "won": 1,
+        "won": 0,
         "lost": 2
       }
     }
   },
   "0x204f72f35326db932158cba6adff0b9a1da95e14": {
     "userName": "swisstony",
-    "updated_at": 1784764909.7188134,
+    "updated_at": 1784851321.4009907,
     "categories": {}
   },
   "0x09b428f7c2b469786286214aa5c90dd9015f7320": {
     "userName": "DEEDDIT",
-    "updated_at": 1784764922.7740293,
+    "updated_at": 1784851332.6733224,
     "categories": {}
   },
   "0x476e1322d1a412fa0325527b8c3bc5e707b1396d": {
     "userName": "asparagus2012",
-    "updated_at": 1784764939.1662774,
+    "updated_at": 1784851345.9768667,
     "categories": {
       "F\u00fatbol": {
         "won": 1,
@@ -117,12 +117,12 @@
   },
   "0x2e25b222e2080c377fc1fb2b9f926315f0f4d49e": {
     "userName": "Sparkling8899",
-    "updated_at": 1784764957.1220737,
+    "updated_at": 1784851370.027557,
     "categories": {}
   },
   "0xe549581668a5751c1972d3ad2d1991d900bd2d54": {
     "userName": "Allezpapa",
-    "updated_at": 1784764976.465698,
+    "updated_at": 1784851384.467783,
     "categories": {
       "F\u00fatbol": {
         "won": 1,
@@ -136,7 +136,7 @@
   },
   "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223": {
     "userName": "Jsram",
-    "updated_at": 1784764992.317309,
+    "updated_at": 1784851397.9385386,
     "categories": {
       "F\u00fatbol": {
         "won": 1,
@@ -150,7 +150,7 @@
   },
   "0x5b4ec9c06b284ee52c41a761974d836992880232": {
     "userName": "ramadamaramadam",
-    "updated_at": 1784765010.0604744,
+    "updated_at": 1784851422.3408291,
     "categories": {
       "MMA / Boxeo": {
         "won": 1,
@@ -164,7 +164,7 @@
   },
   "0x67542c3219b37fd1610aad290676ff91cdbfe3bc": {
     "userName": "maz26",
-    "updated_at": 1784765025.2162497,
+    "updated_at": 1784851434.6826859,
     "categories": {
       "MMA / Boxeo": {
         "won": 0,
@@ -174,7 +174,7 @@
   },
   "0xf0318c32136c2db7fec88b84869aee6a1106c80c": {
     "userName": "BreakTheBank",
-    "updated_at": 1784765051.8010557,
+    "updated_at": 1784851459.0007534,
     "categories": {
       "F\u00fatbol": {
         "won": 2,
