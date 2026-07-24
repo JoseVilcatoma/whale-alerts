@@ -199,19 +199,11 @@
   },
   "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563": {
     "userName": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-    "updated_at": 1784770205.8619688,
+    "updated_at": 1784856614.1987016,
     "categories": {
-      "Valorant": {
+      "CS2": {
         "won": 0,
         "lost": 1
-      },
-      "CS2": {
-        "won": 3,
-        "lost": 6
-      },
-      "Esports (otros)": {
-        "won": 1,
-        "lost": 2
       }
     }
   },
