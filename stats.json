@@ -1,26 +1,26 @@
 {
   "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
     "userName": "111111111115",
-    "updated_at": 1784764755.595419,
+    "updated_at": 1784851157.0763385,
     "categories": {
-      "CS2": {
-        "won": 5,
-        "lost": 2
-      },
-      "Esports (otros)": {
+      "Valorant": {
         "won": 0,
-        "lost": 3
+        "lost": 1
+      },
+      "CS2": {
+        "won": 2,
+        "lost": 2
       }
     }
   },
   "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
     "userName": "Sassy-Bucket",
-    "updated_at": 1784764769.9595776,
+    "updated_at": 1784851180.026612,
     "categories": {}
   },
   "0x93fb8127a1b21a112b11af936361225df0563e4a": {
     "userName": "LlamaLoco0000",
-    "updated_at": 1784764789.2736542,
+    "updated_at": 1784851193.234174,
     "categories": {
       "F\u00fatbol": {
         "won": 1,
@@ -30,12 +30,12 @@
   },
   "0x3a8aa345d5db7ec5138298c8c4f4540259be7699": {
     "userName": "TheReturnOfDarthMaul",
-    "updated_at": 1784764801.7534916,
+    "updated_at": 1784851204.2419035,
     "categories": {}
   },
   "0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991": {
     "userName": "foodenjoyer",
-    "updated_at": 1784764814.5457122,
+    "updated_at": 1784851215.647785,
     "categories": {
       "MMA / Boxeo": {
         "won": 1,
@@ -45,7 +45,7 @@
   },
   "0x69c5c6f6a4dda665991c203bc8d5df3e006b1e01": {
     "userName": "Themsnw",
-    "updated_at": 1784764830.6311634,
+    "updated_at": 1784851238.9463801,
     "categories": {
       "Esports (otros)": {
         "won": 1,
@@ -63,7 +63,7 @@
   },
   "0x9f2fe025f84839ca81dd8e0338892605702d2ca8": {
     "userName": "surfandturf",
-    "updated_at": 1784764848.5986333,
+    "updated_at": 1784851252.5015469,
     "categories": {
       "F\u00fatbol": {
         "won": 1,
