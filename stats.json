@@ -236,5 +236,23 @@
     "userName": "0x29b52d98ac9ef9414b04164246c95BC63d7",
     "updated_at": 1784917609.8034732,
     "categories": {}
+  },
+  "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b": {
+    "userName": "skyman44",
+    "updated_at": 1784924869.0246737,
+    "categories": {
+      "Valorant": {
+        "won": 8,
+        "lost": 0
+      },
+      "CS2": {
+        "won": 10,
+        "lost": 5
+      },
+      "Esports (otros)": {
+        "won": 1,
+        "lost": 0
+      }
+    }
   }
 }
