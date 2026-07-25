@@ -1,47 +1,46 @@
 {
   "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
     "userName": "111111111115",
-    "updated_at": 1784851157.0763385,
+    "updated_at": 1784950040.1621985,
     "categories": {
       "Valorant": {
         "won": 0,
+        "lost": 2
+      },
+      "League of Legends": {
+        "won": 1,
         "lost": 1
       },
-      "CS2": {
-        "won": 2,
+      "Esports (otros)": {
+        "won": 0,
         "lost": 2
       }
     }
   },
   "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
     "userName": "Sassy-Bucket",
-    "updated_at": 1784851180.026612,
+    "updated_at": 1784950065.493776,
     "categories": {}
   },
   "0x93fb8127a1b21a112b11af936361225df0563e4a": {
     "userName": "LlamaLoco0000",
-    "updated_at": 1784851193.234174,
+    "updated_at": 1784950081.5612543,
     "categories": {
       "F\u00fatbol": {
-        "won": 1,
-        "lost": 3
+        "won": 0,
+        "lost": 1
       }
     }
   },
   "0x3a8aa345d5db7ec5138298c8c4f4540259be7699": {
     "userName": "TheReturnOfDarthMaul",
-    "updated_at": 1784851204.2419035,
+    "updated_at": 1784950093.297466,
     "categories": {}
   },
   "0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991": {
     "userName": "foodenjoyer",
-    "updated_at": 1784851215.647785,
-    "categories": {
-      "MMA / Boxeo": {
-        "won": 1,
-        "lost": 0
-      }
-    }
+    "updated_at": 1784950104.4765804,
+    "categories": {}
   },
   "0x69c5c6f6a4dda665991c203bc8d5df3e006b1e01": {
     "userName": "Themsnw",
@@ -63,7 +62,7 @@
   },
   "0x9f2fe025f84839ca81dd8e0338892605702d2ca8": {
     "userName": "surfandturf",
-    "updated_at": 1784851252.5015469,
+    "updated_at": 1784950121.8479183,
     "categories": {
       "F\u00fatbol": {
         "won": 1,
@@ -87,7 +86,7 @@
   },
   "0x4d4f13a12d943faabc0d154fb2d546f649a9e5f3": {
     "userName": "0x4d4F13a12D943faaBc0d154fb2D546f649A9E5f3-1782312742976",
-    "updated_at": 1784851297.8136775,
+    "updated_at": 1784950136.7182853,
     "categories": {
       "CS2": {
         "won": 0,
@@ -97,17 +96,17 @@
   },
   "0x204f72f35326db932158cba6adff0b9a1da95e14": {
     "userName": "swisstony",
-    "updated_at": 1784851321.4009907,
+    "updated_at": 1784950151.7267249,
     "categories": {}
   },
   "0x09b428f7c2b469786286214aa5c90dd9015f7320": {
     "userName": "DEEDDIT",
-    "updated_at": 1784851332.6733224,
+    "updated_at": 1784950163.7405727,
     "categories": {}
   },
   "0x476e1322d1a412fa0325527b8c3bc5e707b1396d": {
     "userName": "asparagus2012",
-    "updated_at": 1784851345.9768667,
+    "updated_at": 1784950178.7014496,
     "categories": {
       "F\u00fatbol": {
         "won": 1,
@@ -117,12 +116,12 @@
   },
   "0x2e25b222e2080c377fc1fb2b9f926315f0f4d49e": {
     "userName": "Sparkling8899",
-    "updated_at": 1784851370.027557,
+    "updated_at": 1784950195.609797,
     "categories": {}
   },
   "0xe549581668a5751c1972d3ad2d1991d900bd2d54": {
     "userName": "Allezpapa",
-    "updated_at": 1784851384.467783,
+    "updated_at": 1784950213.9198062,
     "categories": {
       "F\u00fatbol": {
         "won": 1,
@@ -136,7 +135,7 @@
   },
   "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223": {
     "userName": "Jsram",
-    "updated_at": 1784851397.9385386,
+    "updated_at": 1784950228.6780877,
     "categories": {
       "F\u00fatbol": {
         "won": 1,
@@ -150,7 +149,7 @@
   },
   "0x5b4ec9c06b284ee52c41a761974d836992880232": {
     "userName": "ramadamaramadam",
-    "updated_at": 1784851422.3408291,
+    "updated_at": 1784950245.2378821,
     "categories": {
       "MMA / Boxeo": {
         "won": 1,
@@ -164,7 +163,7 @@
   },
   "0x67542c3219b37fd1610aad290676ff91cdbfe3bc": {
     "userName": "maz26",
-    "updated_at": 1784851434.6826859,
+    "updated_at": 1784950259.3038826,
     "categories": {
       "MMA / Boxeo": {
         "won": 0,
@@ -174,7 +173,7 @@
   },
   "0xf0318c32136c2db7fec88b84869aee6a1106c80c": {
     "userName": "BreakTheBank",
-    "updated_at": 1784851459.0007534,
+    "updated_at": 1784950276.249748,
     "categories": {
       "F\u00fatbol": {
         "won": 2,
@@ -229,7 +228,7 @@
   },
   "0xd218e474776403a330142299f7796e8ba32eb5c9": {
     "userName": "cigarettes",
-    "updated_at": 1784863776.846834,
+    "updated_at": 1784950296.5626662,
     "categories": {}
   },
   "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c": {
