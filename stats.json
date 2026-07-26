@@ -203,13 +203,17 @@
   },
   "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563": {
     "userName": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-    "updated_at": 1784960009.3199809,
+    "updated_at": 1785079311.904141,
     "categories": {
-      "Valorant": {
-        "won": 2,
+      "CS2": {
+        "won": 1,
         "lost": 1
       },
-      "CS2": {
+      "MMA / Boxeo": {
+        "won": 1,
+        "lost": 0
+      },
+      "Valorant": {
         "won": 0,
         "lost": 1
       }
