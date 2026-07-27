@@ -402,5 +402,19 @@
         "lost": 1
       }
     }
+  },
+  "0xe291a588ece487f3323736c55c6144f6a99e748e": {
+    "userName": "patient12",
+    "updated_at": 1785147620.4934452,
+    "categories": {
+      "Esports (otros)": {
+        "won": 3,
+        "lost": 2
+      },
+      "CS2": {
+        "won": 0,
+        "lost": 1
+      }
+    }
   }
 }
