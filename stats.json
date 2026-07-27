@@ -384,5 +384,23 @@
         "lost": 2
       }
     }
+  },
+  "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd": {
+    "userName": "TAIWANNUMBERONE",
+    "updated_at": 1785147596.0194194,
+    "categories": {
+      "Esports (otros)": {
+        "won": 5,
+        "lost": 2
+      },
+      "League of Legends": {
+        "won": 1,
+        "lost": 1
+      },
+      "CS2": {
+        "won": 1,
+        "lost": 1
+      }
+    }
   }
 }
