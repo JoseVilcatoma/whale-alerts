@@ -416,5 +416,32 @@
         "lost": 1
       }
     }
+  },
+  "0xe548376f231af12b4d56aff55a7503a88892a9fe": {
+    "userName": "Uniform123",
+    "updated_at": 1785158454.276575,
+    "categories": {
+      "Esports (otros)": {
+        "won": 4,
+        "lost": 5
+      },
+      "F\u00fatbol": {
+        "won": 6,
+        "lost": 2
+      },
+      "Dota 2": {
+        "won": 0,
+        "lost": 4
+      },
+      "CS2": {
+        "won": 0,
+        "lost": 2
+      }
+    }
+  },
+  "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
+    "userName": "RN1",
+    "updated_at": 1785158471.4668415,
+    "categories": {}
   }
 }
