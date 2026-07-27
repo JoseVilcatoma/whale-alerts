@@ -39,12 +39,12 @@
   },
   "0x3a8aa345d5db7ec5138298c8c4f4540259be7699": {
     "userName": "TheReturnOfDarthMaul",
-    "updated_at": 1785037357.1946776,
+    "updated_at": 1785165700.004076,
     "categories": {}
   },
   "0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991": {
     "userName": "foodenjoyer",
-    "updated_at": 1785037368.9092371,
+    "updated_at": 1785165711.7262373,
     "categories": {}
   },
   "0x69c5c6f6a4dda665991c203bc8d5df3e006b1e01": {
@@ -73,7 +73,7 @@
   },
   "0xde7be6d489bce070a959e0cb813128ae659b5f4b": {
     "userName": "wan123",
-    "updated_at": 1784917622.8720176,
+    "updated_at": 1785165685.3666432,
     "categories": {}
   },
   "0x4d4f13a12d943faabc0d154fb2d546f649a9e5f3": {
@@ -190,17 +190,21 @@
   },
   "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563": {
     "userName": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-    "updated_at": 1785079311.904141,
+    "updated_at": 1785165731.8352013,
     "categories": {
-      "CS2": {
-        "won": 1,
-        "lost": 1
-      },
-      "MMA / Boxeo": {
+      "Valorant": {
         "won": 1,
         "lost": 0
       },
-      "Valorant": {
+      "League of Legends": {
+        "won": 0,
+        "lost": 1
+      },
+      "CS2": {
+        "won": 3,
+        "lost": 0
+      },
+      "Esports (otros)": {
         "won": 0,
         "lost": 1
       }
