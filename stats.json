@@ -374,5 +374,15 @@
         "lost": 1
       }
     }
+  },
+  "0x7986576408b65a9805ac85553be33ad0b044baa5": {
+    "userName": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+    "updated_at": 1785140509.390356,
+    "categories": {
+      "Esports (otros)": {
+        "won": 1,
+        "lost": 2
+      }
+    }
   }
 }
