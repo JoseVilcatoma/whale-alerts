@@ -359,5 +359,20 @@
     "userName": "us391",
     "updated_at": 1785129665.2579677,
     "categories": {}
+  },
+  "0x4ab9b54427ec4b7f3646b1a0ef1bed73bc708ebe": {
+    "userName": "RWCS",
+    "updated_at": 1785133272.928343,
+    "categories": {}
+  },
+  "0x3d8a89a20aa73fba0f30d080e8120de9f9555724": {
+    "userName": "Poyo",
+    "updated_at": 1785133290.6568406,
+    "categories": {
+      "League of Legends": {
+        "won": 1,
+        "lost": 1
+      }
+    }
   }
 }
