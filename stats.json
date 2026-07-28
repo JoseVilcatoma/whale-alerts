@@ -457,5 +457,15 @@
     "userName": "Hauchn",
     "updated_at": 1785162086.7057874,
     "categories": {}
+  },
+  "0xa71093cafc0c099b4ccab24c3cb8018d817923c4": {
+    "userName": "Talvez10",
+    "updated_at": 1785198702.663585,
+    "categories": {
+      "MMA / Boxeo": {
+        "won": 4,
+        "lost": 9
+      }
+    }
   }
 }
