@@ -88,17 +88,17 @@
   },
   "0x204f72f35326db932158cba6adff0b9a1da95e14": {
     "userName": "swisstony",
-    "updated_at": 1785124361.4066355,
+    "updated_at": 1785230830.5837443,
     "categories": {}
   },
   "0x09b428f7c2b469786286214aa5c90dd9015f7320": {
     "userName": "DEEDDIT",
-    "updated_at": 1785124373.2161238,
+    "updated_at": 1785230841.9085135,
     "categories": {}
   },
   "0x476e1322d1a412fa0325527b8c3bc5e707b1396d": {
     "userName": "asparagus2012",
-    "updated_at": 1785124386.8046973,
+    "updated_at": 1785230856.4391897,
     "categories": {
       "F\u00fatbol": {
         "won": 1,
@@ -108,12 +108,12 @@
   },
   "0x2e25b222e2080c377fc1fb2b9f926315f0f4d49e": {
     "userName": "Sparkling8899",
-    "updated_at": 1785124400.169874,
+    "updated_at": 1785230872.3607972,
     "categories": {}
   },
   "0xe549581668a5751c1972d3ad2d1991d900bd2d54": {
     "userName": "Allezpapa",
-    "updated_at": 1785124414.569847,
+    "updated_at": 1785230889.6010401,
     "categories": {
       "F\u00fatbol": {
         "won": 1,
@@ -127,7 +127,7 @@
   },
   "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223": {
     "userName": "Jsram",
-    "updated_at": 1785124427.9438221,
+    "updated_at": 1785230904.50343,
     "categories": {
       "F\u00fatbol": {
         "won": 1,
@@ -141,7 +141,7 @@
   },
   "0x5b4ec9c06b284ee52c41a761974d836992880232": {
     "userName": "ramadamaramadam",
-    "updated_at": 1785124442.050451,
+    "updated_at": 1785230919.916081,
     "categories": {
       "MMA / Boxeo": {
         "won": 1,
@@ -155,7 +155,7 @@
   },
   "0x67542c3219b37fd1610aad290676ff91cdbfe3bc": {
     "userName": "maz26",
-    "updated_at": 1785124454.60018,
+    "updated_at": 1785230933.9964442,
     "categories": {
       "MMA / Boxeo": {
         "won": 0,
@@ -165,7 +165,7 @@
   },
   "0xf0318c32136c2db7fec88b84869aee6a1106c80c": {
     "userName": "BreakTheBank",
-    "updated_at": 1785124469.3072472,
+    "updated_at": 1785230950.1568518,
     "categories": {
       "F\u00fatbol": {
         "won": 2,
@@ -288,12 +288,12 @@
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "userName": "wr0ngw4yb3tt0r",
-    "updated_at": 1785124217.9056833,
+    "updated_at": 1785230804.942052,
     "categories": {}
   },
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "userName": "ferrariChampions2026",
-    "updated_at": 1785124248.746798,
+    "updated_at": 1785230817.2521873,
     "categories": {}
   },
   "0xf7429705e25b619338412967f0a70260b6e1e039": {
@@ -492,5 +492,20 @@
     "userName": "monkeymashingkeyboard",
     "updated_at": 1785209561.1158226,
     "categories": {}
+  },
+  "0x1b20a00709dfe648afd26b326394b5e031f83ab0": {
+    "userName": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+    "updated_at": 1785230767.3212166,
+    "categories": {}
+  },
+  "0x27c5c1eee404a07f39fe70078aff815e5a656d61": {
+    "userName": "0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028",
+    "updated_at": 1785230790.6435282,
+    "categories": {
+      "Cripto": {
+        "won": 0,
+        "lost": 1
+      }
+    }
   }
 }
