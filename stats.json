@@ -467,5 +467,25 @@
         "lost": 9
       }
     }
+  },
+  "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654": {
+    "userName": "0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622",
+    "updated_at": 1785202333.7697926,
+    "categories": {
+      "Esports (otros)": {
+        "won": 1,
+        "lost": 0
+      }
+    }
+  },
+  "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa": {
+    "userName": "theowalcott",
+    "updated_at": 1785202348.482794,
+    "categories": {
+      "MMA / Boxeo": {
+        "won": 0,
+        "lost": 1
+      }
+    }
   }
 }
