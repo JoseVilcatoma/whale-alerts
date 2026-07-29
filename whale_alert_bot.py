@@ -24,6 +24,7 @@ import socket
 import sys
 import threading
 import time
+from pathlib import Path
 
 import requests
 import websocket
@@ -36,7 +37,10 @@ def _allowed_gai_family():
 urllib3_cn.allowed_gai_family = _allowed_gai_family
 
 DATA_API = "https://data-api.polymarket.com"
+GAMMA_API = "https://gamma-api.polymarket.com"
 RTDS_URL = "wss://ws-live-data.polymarket.com"
+RESULTS_FILE = Path(__file__).parent / "results.json"
+SUMMARY_FILE = Path(__file__).parent / "results.md"
 
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
 WHALE_THRESHOLD = float(os.environ.get("WHALE_THRESHOLD", "1000"))
@@ -54,6 +58,124 @@ seen_keys = set()      # dedupe de trades ya alertados en esta corrida
 lock = threading.Lock()
 run_start = time.time()
 stop_flag = threading.Event()
+
+results = []           # cada apuesta que alertamos: {..., "status": "pending"/"won"/"lost"}
+results_dirty = False
+_market_cache = {}
+
+
+def load_json(path):
+    if path.exists():
+        try:
+            return json.loads(path.read_text())
+        except Exception:
+            return None
+    return None
+
+
+def get_market(slug):
+    if not slug:
+        return None
+    if slug in _market_cache:
+        return _market_cache[slug]
+    try:
+        r = requests.get(f"{GAMMA_API}/markets/slug/{slug}", timeout=8)
+        m = r.json() if r.ok else None
+    except Exception:
+        m = None
+    _market_cache[slug] = m
+    return m
+
+
+def market_result(market, outcome):
+    """'won' / 'lost' / 'open' / None (todavía no se puede determinar)."""
+    if not market:
+        return None
+    if not market.get("closed"):
+        return "open"
+    try:
+        outcomes = json.loads(market["outcomes"])
+        prices = json.loads(market["outcomePrices"])
+        idx = next((i for i, o in enumerate(outcomes) if (o or "").lower() == (outcome or "").lower()), -1)
+        if idx == -1:
+            return None
+        p = float(prices[idx])
+        if p >= 0.99:
+            return "won"
+        if p <= 0.01:
+            return "lost"
+        return None
+    except Exception:
+        return None
+
+
+def log_result_pending(username, wallet, trade, usd, odds):
+    global results_dirty
+    with lock:
+        results.append({
+            "timestamp": trade.get("timestamp"),
+            "username": username,
+            "wallet": wallet,
+            "slug": trade.get("slug"),
+            "title": trade.get("title"),
+            "outcome": trade.get("outcome"),
+            "side": trade.get("side"),
+            "usd": usd,
+            "odds_at_bet": odds,
+            "status": "pending",
+        })
+        results_dirty = True
+
+
+def resolve_pending_results():
+    """Revisa las pendientes contra Polymarket y marca ganó/perdió si ya resolvieron."""
+    global results_dirty
+    changed = False
+    with lock:
+        pending = [r for r in results if r["status"] == "pending"]
+    for r in pending:
+        market = get_market(r["slug"])
+        outcome = market_result(market, r["outcome"])
+        if outcome in ("won", "lost"):
+            with lock:
+                r["status"] = outcome
+            changed = True
+        time.sleep(0.1)  # prudencia con la API pública
+    if changed:
+        results_dirty = True
+
+
+def build_summary_md():
+    per_wallet = {}
+    for r in results:
+        w = r["wallet"]
+        per_wallet.setdefault(w, {"username": r["username"], "won": 0, "lost": 0, "pending": 0})
+        if r["status"] == "won":
+            per_wallet[w]["won"] += 1
+        elif r["status"] == "lost":
+            per_wallet[w]["lost"] += 1
+        else:
+            per_wallet[w]["pending"] += 1
+
+    rows = []
+    for w, d in per_wallet.items():
+        total_resolved = d["won"] + d["lost"]
+        pct = round(d["won"] / total_resolved * 100) if total_resolved else None
+        rows.append((d["username"], d["won"], d["lost"], d["pending"], pct))
+    rows.sort(key=lambda x: (x[4] is None, -(x[4] or 0)))
+
+    lines = [
+        "# Resultados de las apuestas fuertes alertadas",
+        "",
+        f"Actualizado: {time.strftime('%Y-%m-%d %H:%M:%S UTC', time.gmtime())}",
+        "",
+        "| Apostador | Ganadas | Perdidas | Pendientes | % Acierto |",
+        "|---|---|---|---|---|",
+    ]
+    for username, won, lost, pending, pct in rows:
+        pct_str = f"{pct}%" if pct is not None else "—"
+        lines.append(f"| {username} | {won} | {lost} | {pending} | {pct_str} |")
+    SUMMARY_FILE.write_text("\n".join(lines) + "\n")
 
 
 def get_leaderboard_period(period):
@@ -179,6 +301,7 @@ def on_ws_message(ws, message):
     odds = round((trade.get("price") or 0) * 100)
     print(f"🐋 EN VIVO — {username}: ${usd:,.0f} en {trade.get('title')}")
     send_ntfy(build_ticket(username, trade, usd, odds, wallet))
+    log_result_pending(username, wallet, trade, usd, odds)
 
 
 def on_ws_error(ws, error):
@@ -189,10 +312,25 @@ def on_ws_close(ws, code, msg):
     print("[en vivo] conexión cerrada, reconectando...")
 
 
-# ---------- hilo de fondo: solo actualiza la lista de vigilados ----------
+# ---------- hilo de fondo: vigilados + revisión de resultados ----------
+def save_and_commit_results():
+    global results_dirty
+    with lock:
+        RESULTS_FILE.write_text(json.dumps(results, indent=2))
+        build_summary_md()
+    os.system('git config user.name "whale-alert-bot"')
+    os.system('git config user.email "actions@github.com"')
+    os.system("git add results.json results.md")
+    os.system('git diff --staged --quiet || git commit -m "actualizar resultados"')
+    os.system("git push")
+    results_dirty = False
+
+
 def background_worker():
     last_lb_refresh = 0
     last_heartbeat = time.time()
+    last_resolve_check = 0
+    last_save = time.time()
     while not stop_flag.is_set():
         now = time.time()
         if now - last_lb_refresh > LEADERBOARD_REFRESH_SECONDS or not watched:
@@ -205,10 +343,22 @@ def background_worker():
         if now - last_heartbeat > 120:
             print(f"[heartbeat] mensajes recibidos del chorro hasta ahora: {msg_count}")
             last_heartbeat = now
+        if now - last_resolve_check > 180:
+            resolve_pending_results()
+            last_resolve_check = now
+        if results_dirty and now - last_save > 300:
+            print("[resultados] guardando progreso en el repo...")
+            save_and_commit_results()
+            last_save = now
         time.sleep(5)
 
 
 def main():
+    loaded = load_json(RESULTS_FILE)
+    if loaded:
+        results.extend(loaded)
+        print(f"[resultados] cargados {len(results)} registros anteriores")
+
     if not NTFY_TOPIC:
         print("¡Falta NTFY_TOPIC! No va a poder avisar nada.", file=sys.stderr)
     else:
@@ -233,6 +383,9 @@ def main():
         print("[en vivo] reintentando conexión en 5s...")
         time.sleep(5)
 
+    stop_flag.set()
+    resolve_pending_results()
+    save_and_commit_results()
     print("Ciclo terminado — GitHub va a arrancar uno nuevo con el cron.")
 
 
