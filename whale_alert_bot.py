@@ -129,7 +129,10 @@ def send_ntfy(text):
 # ---------- websocket en vivo ----------
 def on_ws_open(ws):
     print("[en vivo] conectado — escuchando todas las apuestas de Polymarket")
-    ws.send(json.dumps({"subscriptions": [{"topic": "activity", "type": "trades"}]}))
+    ws.send(json.dumps({
+        "action": "subscribe",
+        "subscriptions": [{"topic": "activity", "type": "trades"}]
+    }))
 
 
 def on_ws_message(ws, message):
