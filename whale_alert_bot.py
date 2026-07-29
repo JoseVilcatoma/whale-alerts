@@ -47,7 +47,8 @@ LB_PERIODS = ["WEEK", "MONTH"]
 LEADERBOARD_REFRESH_SECONDS = int(os.environ.get("LEADERBOARD_REFRESH_SECONDS", "900"))
 MAX_RUNTIME_SECONDS = int(os.environ.get("MAX_RUNTIME_SECONDS", str(5 * 3600 + 50 * 60)))
 
-watched = {}          # wallet -> username
+watched = {}          # wallet (minúsculas) -> username
+msg_count = 0
 seen_keys = set()      # dedupe de trades ya alertados en esta corrida
 lock = threading.Lock()
 run_start = time.time()
@@ -121,9 +122,17 @@ def on_ws_message(ws, message):
     if not is_trade:
         return
     trade = msg.get("payload") or msg.get("data") or msg
-    wallet = trade.get("proxyWallet")
+    wallet_raw = trade.get("proxyWallet")
+    wallet = wallet_raw.lower() if wallet_raw else None
+
+    global msg_count
+    msg_count += 1
+    if msg_count % 500 == 0:
+        print(f"[en vivo] {msg_count} trades del chorro global recibidos hasta ahora (siguen llegando)")
+
     if not wallet or wallet not in watched:
         return
+    print(f"[match] {watched.get(wallet)} hizo una apuesta (revisando monto...)")
 
     key = f"{trade.get('transactionHash','')}_{trade.get('timestamp')}_{trade.get('asset')}_{trade.get('size')}"
     if key in seen_keys:
@@ -159,7 +168,7 @@ def background_worker():
             combined = get_combined_leaderboard()
             with lock:
                 watched.clear()
-                watched.update({w: t.get("userName", "anon") for w, t in combined.items()})
+                watched.update({w.lower(): t.get("userName", "anon") for w, t in combined.items()})
             print(f"[ranking] {len(watched)} apostadores vigilados: {list(watched.values())}")
             last_lb_refresh = now
         time.sleep(5)
@@ -168,6 +177,9 @@ def background_worker():
 def main():
     if not NTFY_TOPIC:
         print("¡Falta NTFY_TOPIC! No va a poder avisar nada.", file=sys.stderr)
+    else:
+        print(f"[ntfy] mandando push de prueba al canal '{NTFY_TOPIC}'...")
+        send_ntfy(f"✅ Whale Alerts bot conectado\n\nSi ves este mensaje en tu celular, el canal ntfy '{NTFY_TOPIC}' funciona bien. Las próximas apuestas fuertes de los vigilados van a llegar acá.")
 
     bg = threading.Thread(target=background_worker, daemon=True)
     bg.start()
