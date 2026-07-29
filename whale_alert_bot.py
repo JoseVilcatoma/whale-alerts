@@ -49,6 +49,7 @@ MAX_RUNTIME_SECONDS = int(os.environ.get("MAX_RUNTIME_SECONDS", str(5 * 3600 + 5
 
 watched = {}          # wallet (minúsculas) -> username
 msg_count = 0
+raw_samples_shown = 0
 seen_keys = set()      # dedupe de trades ya alertados en esta corrida
 lock = threading.Lock()
 run_start = time.time()
@@ -134,6 +135,12 @@ def on_ws_open(ws):
 def on_ws_message(ws, message):
     if message == "PONG":
         return
+
+    global raw_samples_shown
+    if raw_samples_shown < 3:
+        raw_samples_shown += 1
+        print(f"[diagnóstico] mensaje crudo #{raw_samples_shown}: {message[:1500]}")
+
     try:
         msg = json.loads(message)
     except Exception:
@@ -182,6 +189,7 @@ def on_ws_close(ws, code, msg):
 # ---------- hilo de fondo: solo actualiza la lista de vigilados ----------
 def background_worker():
     last_lb_refresh = 0
+    last_heartbeat = time.time()
     while not stop_flag.is_set():
         now = time.time()
         if now - last_lb_refresh > LEADERBOARD_REFRESH_SECONDS or not watched:
@@ -191,6 +199,9 @@ def background_worker():
                 watched.update({w.lower(): t.get("userName", "anon") for w, t in combined.items()})
             print(f"[ranking] {len(watched)} apostadores vigilados: {list(watched.values())}")
             last_lb_refresh = now
+        if now - last_heartbeat > 120:
+            print(f"[heartbeat] mensajes recibidos del chorro hasta ahora: {msg_count}")
+            last_heartbeat = now
         time.sleep(5)
 
 
