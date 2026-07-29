@@ -5,6 +5,9 @@ on:
     - cron: '0 */6 * * *'   # arranca una tanda nueva cada 6 horas
   workflow_dispatch:         # para probarlo a mano
 
+permissions:
+  contents: write
+
 concurrency:
   group: whale-alerts
   cancel-in-progress: false  # evita que se solapen dos corridas al mismo tiempo
