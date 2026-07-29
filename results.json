@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1785353587,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-trotter-zink-2026-07-29",
+    "title": "Vancouver: James Kent Trotter vs Tyler Zink",
+    "outcome": "James Kent Trotter",
+    "side": "BUY",
+    "usd": 1631.578947,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785353630,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-mibr-ldp-2026-07-29-game2",
+    "title": "Counter-Strike: MIBR vs largadosypelados - Map 2 Winner",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 1458.9536,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785353659,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "ucl-crv-lar-2026-07-29-total-4pt5",
+    "title": "FK Crvena zvezda vs. Larne FC: O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1587.6,
+    "odds_at_bet": 63,
+    "status": "pending"
+  }
+]
