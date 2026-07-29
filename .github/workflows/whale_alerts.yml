@@ -31,4 +31,4 @@ jobs:
           WHALE_THRESHOLD: '1000'
           TOP_N: '20'
           LB_CATEGORY: 'OVERALL'
-        run: python whale_alert_bot.py
+        run: python -u whale_alert_bot.py
