@@ -3778,5 +3778,41 @@
     "usd": 1755.0075000000002,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785423492,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-ajdukov-feldbau-2026-07-30",
+    "title": "Liberec: Duje Ajdukovic vs Kilian Feldbausch",
+    "outcome": "Kilian Feldbausch",
+    "side": "BUY",
+    "usd": 1045.063862,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785423535,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-ibragim-bronzet-2026-07-29",
+    "title": "Targu Mures: Alevtina Ibragimova vs Lucia Bronzetti",
+    "outcome": "Alevtina Ibragimova",
+    "side": "BUY",
+    "usd": 2091.310344,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785423636,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-basing-kouzmin-2026-07-30",
+    "title": "Samsun: Max Basing vs Constantin Bittoun Kouzmine",
+    "outcome": "Max Basing",
+    "side": "BUY",
+    "usd": 2636.59695,
+    "odds_at_bet": 92,
+    "status": "pending"
   }
 ]
