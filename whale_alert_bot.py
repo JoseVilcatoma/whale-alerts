@@ -169,11 +169,19 @@ def build_summary_md():
         "",
         f"Actualizado: {time.strftime('%Y-%m-%d %H:%M:%S UTC', time.gmtime())}",
         "",
+        "_Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._",
+        "",
         "| Apostador | Ganadas | Perdidas | Pendientes | % Acierto |",
         "|---|---|---|---|---|",
     ]
     for username, won, lost, pending, pct in rows:
-        pct_str = f"{pct}%" if pct is not None else "—"
+        total_resolved = won + lost
+        if pct is None:
+            pct_str = "—"
+        elif total_resolved < 8:
+            pct_str = f"⚠️ {pct}% (muestra chica: {total_resolved})"
+        else:
+            pct_str = f"{pct}%"
         lines.append(f"| {username} | {won} | {lost} | {pending} | {pct_str} |")
     SUMMARY_FILE.write_text("\n".join(lines) + "\n")
 
