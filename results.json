@@ -1822,5 +1822,101 @@
     "usd": 3065.4624,
     "odds_at_bet": 32,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785382840,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 1106.3442000000002,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785382840,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 7755.8816,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785382863,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 1918.0356000000002,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785382863,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 3000.0044,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785382878,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 3196.7246999999998,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785382878,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 5000.0053,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785382924,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-nyy-cws-2026-07-29",
+    "title": "New York Yankees vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 1775.3628600000002,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785382944,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 1434.709999,
+    "odds_at_bet": 41,
+    "status": "pending"
   }
 ]

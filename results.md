@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-30 03:39:37 UTC
+Actualizado: 2026-07-30 03:44:38 UTC
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -10,10 +10,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ferrariChampions2026 | 0 | 0 | 15 | — |
 | swisstony | 0 | 0 | 40 | — |
 | UpTheBlues | 0 | 0 | 10 | — |
-| sbsigner | 0 | 0 | 7 | — |
-| Eztennis | 0 | 0 | 12 | — |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 24 | — |
-| wr0ngw4yb3tt0r | 0 | 0 | 14 | — |
+| sbsigner | 0 | 0 | 9 | — |
+| Eztennis | 0 | 0 | 15 | — |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 25 | — |
+| wr0ngw4yb3tt0r | 0 | 0 | 15 | — |
 | cigarettes | 0 | 0 | 1 | — |
-| 1winstreak1 | 0 | 0 | 12 | — |
+| 1winstreak1 | 0 | 0 | 13 | — |
 | pada | 0 | 0 | 1 | — |
