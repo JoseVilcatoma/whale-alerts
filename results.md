@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-30 07:00:43 UTC
+Actualizado: 2026-07-30 07:21:41 UTC
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -19,5 +19,5 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | pada | 0 | 0 | 1 | — |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 0 | 0 | 4 | — |
 | monkeymashingkeyboard | 0 | 0 | 1 | — |
-| Hauchn | 0 | 0 | 1 | — |
+| Hauchn | 0 | 0 | 2 | — |
 | CentralCasting | 0 | 0 | 1 | — |
