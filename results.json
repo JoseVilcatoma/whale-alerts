@@ -1114,5 +1114,77 @@
     "usd": 1108.889445,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785377647,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-nyy-cws-2026-07-29",
+    "title": "New York Yankees vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 1429.9965,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785377651,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "sud-cie-lan-2026-07-29-cie",
+    "title": "Will CS Cienciano win on 2026-07-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 4595.389998000001,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785377671,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-gsv-phx-2026-07-29",
+    "title": "Golden State Valkyries vs. Phoenix Mercury",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "usd": 3226.9182,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785377710,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-flu-bah-2026-07-29-total-0pt5",
+    "title": "Fluminense FC vs. EC Bahia: O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1135.6480000000001,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785377755,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "sud-bra-cri-2026-07-29-bra",
+    "title": "Will Red Bull Bragantino win on 2026-07-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 3591.179995,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785377817,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-flu-bah-2026-07-29-draw",
+    "title": "Will Fluminense FC vs. EC Bahia end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1218.7898,
+    "odds_at_bet": 31,
+    "status": "pending"
   }
 ]
