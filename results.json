@@ -1570,5 +1570,29 @@
     "usd": 6755.831399999999,
     "odds_at_bet": 69,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785380376,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "mlb-nyy-cws-2026-07-29",
+    "title": "New York Yankees vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 2022.1891199999998,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785380444,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "mlb-nyy-cws-2026-07-29",
+    "title": "New York Yankees vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 2066.05824,
+    "odds_at_bet": 51,
+    "status": "pending"
   }
 ]
