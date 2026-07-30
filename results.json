@@ -2338,5 +2338,17 @@
     "usd": 4164.853,
     "odds_at_bet": 49,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785390380,
+    "username": "Hauchn",
+    "wallet": "0xf0ca28d5b0141f0a8e7b251dea80fd881cb166ed",
+    "slug": "will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-july-31-20260624192749110",
+    "title": "Will NVIDIA be the second-largest company in the world by market cap on July 31?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "usd": 4508.4912,
+    "odds_at_bet": 93,
+    "status": "pending"
   }
 ]
