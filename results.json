@@ -13330,5 +13330,77 @@
     "usd": 2594.6411000000003,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785453923,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "mlb-wsh-atl-2026-07-30",
+    "title": "Washington Nationals vs. Atlanta Braves",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 87860.82800000001,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785453948,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "sud-gre-bol-2026-07-30-bol",
+    "title": "Will Club Bol\u00edvar win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1759.5,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785453959,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-wsh-atl-2026-07-30",
+    "title": "Washington Nationals vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 10557.529936,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785453960,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "mlb-wsh-atl-2026-07-30",
+    "title": "Washington Nationals vs. Atlanta Braves",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 10599.999999,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785453971,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-cin-2026-07-30",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 1056.4956,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785454030,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-cin-2026-07-30",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 1823.4968000000001,
+    "odds_at_bet": 53,
+    "status": "pending"
   }
 ]
