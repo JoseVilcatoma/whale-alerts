@@ -2806,5 +2806,17 @@
     "usd": 5423.25,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785419020,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-jones-bagaric-2026-07-29",
+    "title": "Targu Mures: Francesca Jones vs Lucija Bagaric",
+    "outcome": "Francesca Jones",
+    "side": "BUY",
+    "usd": 21384.789963000003,
+    "odds_at_bet": 81,
+    "status": "pending"
   }
 ]
