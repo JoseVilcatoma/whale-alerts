@@ -6694,5 +6694,29 @@
     "usd": 14176.35,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785433939,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-kc-min-2026-07-30",
+    "title": "Kansas City Royals vs. Minnesota Twins",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "usd": 2284.2399990000004,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785434006,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-liutova-joint-2026-07-29",
+    "title": "The Memphis Classic: Kristina Liutova vs Maya Joint",
+    "outcome": "Kristina Liutova",
+    "side": "BUY",
+    "usd": 2186.4919879999998,
+    "odds_at_bet": 41,
+    "status": "pending"
   }
 ]
