@@ -10,7 +10,7 @@ permissions:
 
 concurrency:
   group: whale-alerts
-  cancel-in-progress: false  # evita que se solapen dos corridas al mismo tiempo
+  cancel-in-progress: true  # evita que se solapen dos corridas al mismo tiempo
 
 jobs:
   watch-whales:
