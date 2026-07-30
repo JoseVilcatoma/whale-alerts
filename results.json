@@ -2650,5 +2650,101 @@
     "usd": 31831.1892,
     "odds_at_bet": 36,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785418188,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-bou-fca-2026-07-30-total-3pt5",
+    "title": "AFC Bournemouth vs. FC Augsburg: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2300.0,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785418234,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-jones-bagaric-2026-07-29",
+    "title": "Targu Mures: Francesca Jones vs Lucija Bagaric",
+    "outcome": "Lucija Bagaric",
+    "side": "BUY",
+    "usd": 2938.0,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785418331,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-barton-bueno-2026-07-30",
+    "title": "Liberec: Hynek Barton vs Gonzalo Bueno",
+    "outcome": "Gonzalo Bueno",
+    "side": "BUY",
+    "usd": 4407.92,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785418331,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-barton-bueno-2026-07-30",
+    "title": "Liberec: Hynek Barton vs Gonzalo Bueno",
+    "outcome": "Gonzalo Bueno",
+    "side": "BUY",
+    "usd": 26100.0,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785418331,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-barton-bueno-2026-07-30",
+    "title": "Liberec: Hynek Barton vs Gonzalo Bueno",
+    "outcome": "Gonzalo Bueno",
+    "side": "BUY",
+    "usd": 4220.37,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785418331,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-barton-bueno-2026-07-30",
+    "title": "Liberec: Hynek Barton vs Gonzalo Bueno",
+    "outcome": "Gonzalo Bueno",
+    "side": "BUY",
+    "usd": 38450.189166000004,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785418331,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-barton-bueno-2026-07-30",
+    "title": "Liberec: Hynek Barton vs Gonzalo Bueno",
+    "outcome": "Gonzalo Bueno",
+    "side": "BUY",
+    "usd": 8111.55,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785418397,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-jones-bagaric-2026-07-29",
+    "title": "Targu Mures: Francesca Jones vs Lucija Bagaric",
+    "outcome": "Francesca Jones",
+    "side": "BUY",
+    "usd": 1208.5676999999998,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
