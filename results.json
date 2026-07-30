@@ -6142,5 +6142,101 @@
     "usd": 2300.0,
     "odds_at_bet": 46,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785431929,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "crict20lpl-jaf-kan-2026-07-30",
+    "title": "T20 Lanka Premier League: Jaffna Kings vs Kandy Royals",
+    "outcome": "Jaffna Kings",
+    "side": "BUY",
+    "usd": 1390.6935999999998,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785431971,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "crict20lpl-jaf-kan-2026-07-30",
+    "title": "T20 Lanka Premier League: Jaffna Kings vs Kandy Royals",
+    "outcome": "Jaffna Kings",
+    "side": "BUY",
+    "usd": 2587.6400000000003,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785431971,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "crict20lpl-jaf-kan-2026-07-30",
+    "title": "T20 Lanka Premier League: Jaffna Kings vs Kandy Royals",
+    "outcome": "Jaffna Kings",
+    "side": "BUY",
+    "usd": 2680.0,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785431973,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "crict20lpl-jaf-kan-2026-07-30",
+    "title": "T20 Lanka Premier League: Jaffna Kings vs Kandy Royals",
+    "outcome": "Jaffna Kings",
+    "side": "BUY",
+    "usd": 2719.552,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785431999,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-bei-aek-2026-07-30-total-2pt5",
+    "title": "MH Beitar Jerusalem vs. AEK L\u00e1rnakas: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1422.4816660000001,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785432006,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-tex-tb-2026-07-30",
+    "title": "Texas Rangers vs. Tampa Bay Rays",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 16605.36,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785432016,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1170.909987,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785432178,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-tex-tb-2026-07-30-total-7pt5",
+    "title": "Texas Rangers vs. Tampa Bay Rays: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1647.4375,
+    "odds_at_bet": 43,
+    "status": "pending"
   }
 ]
