@@ -1654,5 +1654,29 @@
     "usd": 1090.159991,
     "odds_at_bet": 92,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785381269,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-bos-oak-2026-07-29-total-7pt5",
+    "title": "Boston Red Sox vs. Athletics: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1131.02,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785381544,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-gea-zheng-2026-07-29",
+    "title": "Los Cabos Open: Arthur Gea vs Michael Zheng",
+    "outcome": "Michael Zheng",
+    "side": "BUY",
+    "usd": 8504.032766,
+    "odds_at_bet": 82,
+    "status": "pending"
   }
 ]
