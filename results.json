@@ -7042,5 +7042,113 @@
     "usd": 3357.6000000000004,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785435739,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-tjen-kalinsk-2026-07-29",
+    "title": "Mubadala Citi DC Open: Janice Tjen vs Anna Kalinskaya",
+    "outcome": "Anna Kalinskaya",
+    "side": "BUY",
+    "usd": 1339.14,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785435751,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-3dmax-mouz-2026-07-31",
+    "title": "Counter-Strike: 3DMAX vs MOUZ (BO3) - BLAST Bounty Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 2564.2552,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785435847,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "mlb-tex-tb-2026-07-30",
+    "title": "Texas Rangers vs. Tampa Bay Rays",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 23884.1866,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785435847,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-tex-tb-2026-07-30",
+    "title": "Texas Rangers vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 1158.81,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785435849,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-galan-rehberg-2026-07-30",
+    "title": "Bonn: Daniel Galan vs Max Hans Rehberg",
+    "outcome": "Max Hans Rehberg",
+    "side": "BUY",
+    "usd": 1359.7345999999998,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785435851,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "mlb-tex-tb-2026-07-30",
+    "title": "Texas Rangers vs. Tampa Bay Rays",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 4032.7980000000002,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785435851,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-tex-tb-2026-07-30",
+    "title": "Texas Rangers vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 31172.216999999997,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785435952,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-tjen-kalinsk-2026-07-29",
+    "title": "Mubadala Citi DC Open: Janice Tjen vs Anna Kalinskaya",
+    "outcome": "Janice Tjen",
+    "side": "BUY",
+    "usd": 1171.629999,
+    "odds_at_bet": 13,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785436006,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-rodenas-juan-2026-07-30",
+    "title": "ITF Xativa: Pedro Rodenas vs Sergi Fita Juan",
+    "outcome": "Pedro Rodenas",
+    "side": "BUY",
+    "usd": 2002.96909,
+    "odds_at_bet": 78,
+    "status": "pending"
   }
 ]
