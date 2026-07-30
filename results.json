@@ -4258,5 +4258,53 @@
     "usd": 1078.8781,
     "odds_at_bet": 97,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785425811,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-gentzsc-dahlin-2026-07-30",
+    "title": "Bonn: Tom Gentzsch vs Max Dahlin",
+    "outcome": "Tom Gentzsch",
+    "side": "BUY",
+    "usd": 1228.4038,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785425813,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-tex-tb-2026-07-30-total-8pt5",
+    "title": "Texas Rangers vs. Tampa Bay Rays: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 19324.1118,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785425977,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1756.56,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785426059,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-ilv-stj-2026-07-30-total-3pt5",
+    "title": "Ilves Tampere vs. UMF Stjarnan: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1350.8999999999999,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
