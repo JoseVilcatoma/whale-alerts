@@ -1954,5 +1954,53 @@
     "usd": 6669.96,
     "odds_at_bet": 98,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785383453,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "bra-cor1-cap-2026-07-30-spread-away-2pt5",
+    "title": "Spread: CA Paranaense (-2.5)",
+    "outcome": "SC Corinthians Paulista",
+    "side": "BUY",
+    "usd": 5027.44,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785383498,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-gsv-phx-2026-07-29",
+    "title": "Golden State Valkyries vs. Phoenix Mercury",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "usd": 1152.8,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785383610,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 8148.3285000000005,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785383610,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 1577.9985000000001,
+    "odds_at_bet": 39,
+    "status": "pending"
   }
 ]
