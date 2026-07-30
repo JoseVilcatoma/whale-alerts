@@ -4114,5 +4114,101 @@
     "usd": 1204.86,
     "odds_at_bet": 43,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785425290,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-skatov-virtane-2026-07-30",
+    "title": "San Marino: Timofey Skatov vs Otto Virtanen",
+    "outcome": "Timofey Skatov",
+    "side": "BUY",
+    "usd": 2188.7168,
+    "odds_at_bet": 92,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785425348,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-skatov-virtane-2026-07-30",
+    "title": "San Marino: Timofey Skatov vs Otto Virtanen",
+    "outcome": "Timofey Skatov",
+    "side": "BUY",
+    "usd": 1880.0974999999999,
+    "odds_at_bet": 95,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785425398,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-skatov-virtane-2026-07-30",
+    "title": "San Marino: Timofey Skatov vs Otto Virtanen",
+    "outcome": "Timofey Skatov",
+    "side": "BUY",
+    "usd": 11224.049999,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785425414,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col-ilv-stj-2026-07-30-spread-home-1pt5",
+    "title": "Spread: Ilves Tampere (-1.5)",
+    "outcome": "UMF Stjarnan",
+    "side": "BUY",
+    "usd": 2685.0200000000004,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785425418,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col-ilv-stj-2026-07-30-ilv",
+    "title": "Will Ilves Tampere win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2685.06,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785425418,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col-aud-ste-2026-07-30-draw",
+    "title": "Will FK Auda vs. FCSB end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2788.7000000000003,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785425419,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col-pyu-deb-2026-07-30-pyu",
+    "title": "Will Pyunik FA win on 2026-07-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2512.4510000000005,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785425419,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "uel-mta-she-2026-07-30-mta",
+    "title": "Will MH Maccabi Tel Aviv win on 2026-07-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1865.91,
+    "odds_at_bet": 74,
+    "status": "pending"
   }
 ]
