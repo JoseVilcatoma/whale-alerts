@@ -1258,5 +1258,101 @@
     "usd": 1711.9998,
     "odds_at_bet": 63,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785378193,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-hou-laa-2026-07-29",
+    "title": "Houston Astros vs. Los Angeles Angels",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "usd": 2013.7799989999996,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785378194,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-hou-laa-2026-07-29",
+    "title": "Houston Astros vs. Los Angeles Angels",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 1482.9936,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785378198,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "mlb-nyy-cws-2026-07-29",
+    "title": "New York Yankees vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 3523.1768,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785378248,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-hou-laa-2026-07-29",
+    "title": "Houston Astros vs. Los Angeles Angels",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 1400.0000000000002,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785378255,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "mlb-nyy-cws-2026-07-29",
+    "title": "New York Yankees vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 1495.0,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785378310,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "wnba-gsv-phx-2026-07-29-spread-away-3pt5",
+    "title": "Spread: Golden State Valkyries (-3.5)",
+    "outcome": "Phoenix Mercury",
+    "side": "BUY",
+    "usd": 1950.2,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785378311,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "wnba-gsv-phx-2026-07-29-spread-away-5pt5",
+    "title": "Spread: Golden State Valkyries (-5.5)",
+    "outcome": "Phoenix Mercury",
+    "side": "BUY",
+    "usd": 1957.3799999999999,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785378453,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-cerundo-boyer-2026-07-29",
+    "title": "Los Cabos Open: Francisco Cerundolo vs Tristan Boyer",
+    "outcome": "Tristan Boyer",
+    "side": "BUY",
+    "usd": 1685.1059169999999,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
