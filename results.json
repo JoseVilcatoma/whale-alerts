@@ -6238,5 +6238,113 @@
     "usd": 1647.4375,
     "odds_at_bet": 43,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785432204,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-zir-pai-2026-07-30-total-5pt5",
+    "title": "Zir\u0259 FK vs. Paide Linnameeskond: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1087.9,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785432236,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-nakashi-mensik-2026-07-30",
+    "title": "Mubadala Citi DC Open: Brandon Nakashima vs Jakub Mensik",
+    "outcome": "Jakub Mensik",
+    "side": "BUY",
+    "usd": 9212.499999,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785432240,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-nom-she1-2026-07-30-she1",
+    "title": "Will Shelbourne FC win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2124.0,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785432240,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-nakashi-mensik-2026-07-30",
+    "title": "Mubadala Citi DC Open: Brandon Nakashima vs Jakub Mensik",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 2160.0,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785432249,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-nakashi-mensik-2026-07-30",
+    "title": "Mubadala Citi DC Open: Brandon Nakashima vs Jakub Mensik",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 1095.66,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785432249,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-nakashi-mensik-2026-07-30",
+    "title": "Mubadala Citi DC Open: Brandon Nakashima vs Jakub Mensik",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 2186.4461,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785432311,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-pyu-deb-2026-07-30-spread-home-2pt5",
+    "title": "Spread: Pyunik FA (-2.5)",
+    "outcome": "Debreceni VSC",
+    "side": "BUY",
+    "usd": 1327.05,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785432330,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-pao1-dyn-2026-07-30-pao1",
+    "title": "Will PAOK win on 2026-07-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1080.8000000000002,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785432480,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-zal-din1-2026-07-30-spread-away-2pt5",
+    "title": "Spread: SK Dinamo Tbilisi (-2.5)",
+    "outcome": "FK \u017dalgiris Vilnius",
+    "side": "BUY",
+    "usd": 1125.85,
+    "odds_at_bet": 98,
+    "status": "pending"
   }
 ]
