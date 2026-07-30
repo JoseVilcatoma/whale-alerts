@@ -5542,5 +5542,65 @@
     "usd": 1520.6499990000002,
     "odds_at_bet": 49,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785430435,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "crict20lpl-jaf-kan-2026-07-30",
+    "title": "T20 Lanka Premier League: Jaffna Kings vs Kandy Royals",
+    "outcome": "Jaffna Kings",
+    "side": "BUY",
+    "usd": 1360.0,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785430442,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-ben-stg-2026-07-30-team-to-advance",
+    "title": "Sport Lisboa e Benfica vs. FC St. Gallen: Team to Advance",
+    "outcome": "Sport Lisboa e Benfica",
+    "side": "BUY",
+    "usd": 1156.1999999999998,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785430513,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1150.5,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785430526,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-nakashi-mensik-2026-07-30",
+    "title": "Mubadala Citi DC Open: Brandon Nakashima vs Jakub Mensik",
+    "outcome": "Jakub Mensik",
+    "side": "BUY",
+    "usd": 2745.05,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785430536,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "uel-mid-bes-2026-07-30-bes",
+    "title": "Will Be\u015fikta\u015f JK win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2121.4296,
+    "odds_at_bet": 72,
+    "status": "pending"
   }
 ]
