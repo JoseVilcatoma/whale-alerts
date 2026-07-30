@@ -13426,5 +13426,89 @@
     "usd": 3625.821,
     "odds_at_bet": 45,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785454174,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mia-nym-2026-07-30",
+    "title": "Miami Marlins vs. New York Mets",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "usd": 4630.918500000001,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785454174,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mia-nym-2026-07-30",
+    "title": "Miami Marlins vs. New York Mets",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "usd": 5277.762000000001,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785454181,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-stephen-vidmano-2026-07-30",
+    "title": "The Memphis Classic: Sloane Stephens vs Darja Vidmanova",
+    "outcome": "Darja Vidmanova",
+    "side": "BUY",
+    "usd": 2755.2000000000003,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785454185,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ugo Humbert",
+    "side": "BUY",
+    "usd": 1054.912,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785454208,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col1-cab-llf-2026-07-30-cab",
+    "title": "Will CA Bucaramanga win on 2026-07-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2900.0,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785454261,
+    "username": "BreakTheBank",
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "slug": "mlb-bos-oak-2026-07-30",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 1293.564375,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785454263,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 1223.3532,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
