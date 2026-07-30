@@ -706,5 +706,113 @@
     "usd": 2029.58,
     "odds_at_bet": 95,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785375867,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "wnba-atl-dal-2026-07-29-total-178pt5",
+    "title": "Atlanta Dream vs. Dallas Wings: O/U 178.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1021.66946,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785375901,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-flu-bah-2026-07-29-total-0pt5",
+    "title": "Fluminense FC vs. EC Bahia: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1217.52,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785375915,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-flu-bah-2026-07-29-bah",
+    "title": "Will EC Bahia win on 2026-07-29?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1626.3304999999998,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785375915,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-flu-bah-2026-07-29-bah",
+    "title": "Will EC Bahia win on 2026-07-29?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1133.39,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785375949,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "sud-bra-cri-2026-07-29-bra",
+    "title": "Will Red Bull Bragantino win on 2026-07-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1243.0294999999999,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785375975,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-vit-pal-2026-07-29-total-3pt5",
+    "title": "EC Vit\u00f3ria vs. SE Palmeiras: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2185.668,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785375983,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-flu-bah-2026-07-29-total-0pt5",
+    "title": "Fluminense FC vs. EC Bahia: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1273.7102,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785375998,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-flu-bah-2026-07-29-total-1pt5",
+    "title": "Fluminense FC vs. EC Bahia: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1064.07,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785376044,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "sud-cie-lan-2026-07-29-cie",
+    "title": "Will CS Cienciano win on 2026-07-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1549.35,
+    "odds_at_bet": 99,
+    "status": "pending"
   }
 ]
