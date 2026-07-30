@@ -12658,5 +12658,101 @@
     "usd": 1455.18,
     "odds_at_bet": 79,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785452053,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-cor1-cap-2026-07-30-draw",
+    "title": "Will SC Corinthians Paulista vs. CA Paranaense end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1310.715,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785452119,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-cor1-cap-2026-07-30-cor1",
+    "title": "Will SC Corinthians Paulista win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1510.469999,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785452143,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sf-sd-2026-07-30-total-8pt5",
+    "title": "San Francisco Giants vs. San Diego Padres: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 3769.23,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785452145,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sf-sd-2026-07-30-total-8pt5",
+    "title": "San Francisco Giants vs. San Diego Padres: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 30363.75,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785452154,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-atmane-tabilo-2026-07-29",
+    "title": "Mubadala Citi DC Open: Terence Atmane vs Alejandro Tabilo",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 1998.5896,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785452238,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 3024.0,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785452238,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 5426.3279999999995,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785452365,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-oak-2026-07-30-total-10pt5",
+    "title": "Boston Red Sox vs. Athletics: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1119.7199990000001,
+    "odds_at_bet": 45,
+    "status": "pending"
   }
 ]
