@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-30 05:46:24 UTC
+Actualizado: 2026-07-30 05:51:44 UTC
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -12,7 +12,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | UpTheBlues | 0 | 0 | 14 | — |
 | sbsigner | 0 | 0 | 11 | — |
 | Eztennis | 0 | 0 | 17 | — |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 33 | — |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 34 | — |
 | wr0ngw4yb3tt0r | 0 | 0 | 20 | — |
 | cigarettes | 0 | 0 | 1 | — |
 | 1winstreak1 | 0 | 0 | 15 | — |
@@ -20,3 +20,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 0 | 0 | 4 | — |
 | monkeymashingkeyboard | 0 | 0 | 1 | — |
 | Hauchn | 0 | 0 | 1 | — |
+| CentralCasting | 0 | 0 | 1 | — |

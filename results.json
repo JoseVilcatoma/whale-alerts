@@ -2350,5 +2350,29 @@
     "usd": 4508.4912,
     "odds_at_bet": 93,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785390426,
+    "username": "CentralCasting",
+    "wallet": "0x0feb1bf966bc7f954c2da0293ae2fdc572c5db5d",
+    "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+    "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+    "outcome": "No",
+    "side": "SELL",
+    "usd": 21659.971499999996,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785390558,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-norrie-duckwor-2026-07-29",
+    "title": "Los Cabos Open: Cameron Norrie vs James Duckworth",
+    "outcome": "James Duckworth",
+    "side": "BUY",
+    "usd": 1721.4608,
+    "odds_at_bet": 19,
+    "status": "pending"
   }
 ]
