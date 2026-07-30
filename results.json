@@ -2002,5 +2002,17 @@
     "usd": 1577.9985000000001,
     "odds_at_bet": 39,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785383905,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 1101.779999,
+    "odds_at_bet": 44,
+    "status": "pending"
   }
 ]
