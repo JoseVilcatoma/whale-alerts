@@ -6718,5 +6718,41 @@
     "usd": 2186.4919879999998,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785434057,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-csk1-qar-2026-07-30-csk1",
+    "title": "Will PFK CSKA Sofia win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 6300.0,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785434143,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-pao1-dyn-2026-07-30-dyn",
+    "title": "Will FK Dynamo Kyiv win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1259.5500000000002,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785434240,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-minaur-hewitt-2026-07-30",
+    "title": "Mubadala Citi DC Open: Alex de Minaur vs Cruz Hewitt",
+    "outcome": "Alex de Minaur",
+    "side": "BUY",
+    "usd": 2242.3428,
+    "odds_at_bet": 97,
+    "status": "pending"
   }
 ]
