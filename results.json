@@ -3502,5 +3502,17 @@
     "usd": 4247.64,
     "odds_at_bet": 97,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785422155,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-esc-vad-2026-07-30-first-half-total-1pt5",
+    "title": "Atl\u00e9tic Club d'Escaldes vs. FC Vaduz: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2164.1,
+    "odds_at_bet": 67,
+    "status": "pending"
   }
 ]
