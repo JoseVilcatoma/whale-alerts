@@ -11662,5 +11662,77 @@
     "usd": 54999.85999999999,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785448930,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sea-lad-2026-07-30",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 13919.530799999999,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785448930,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sea-lad-2026-07-30",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 8160.289199999999,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785448986,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-prozoro-stearns-2026-07-30",
+    "title": "The Memphis Classic: Tatiana Prozorova vs Peyton Stearns",
+    "outcome": "Peyton Stearns",
+    "side": "BUY",
+    "usd": 2707.172325,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785449063,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-atmane-tabilo-2026-07-29",
+    "title": "Mubadala Citi DC Open: Terence Atmane vs Alejandro Tabilo",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 1006.5431249999999,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785449068,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 4791.773,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785449193,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "atp-atmane-tabilo-2026-07-29",
+    "title": "Mubadala Citi DC Open: Terence Atmane vs Alejandro Tabilo",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 6200.9388,
+    "odds_at_bet": 42,
+    "status": "pending"
   }
 ]
