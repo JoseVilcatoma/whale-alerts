@@ -1,16 +1,16 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-30 20:04:06 UTC
+Actualizado: 2026-07-30 20:09:07 UTC
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 0 | 3 | ⚠️ 100% (muestra chica: 4) |
-| swisstony | 61 | 19 | 113 | 76% |
+| swisstony | 61 | 19 | 118 | 76% |
 | UpTheBlues | 8 | 3 | 34 | 73% |
-| cigarettes | 2 | 1 | 9 | ⚠️ 67% (muestra chica: 3) |
-| RN1 | 81 | 43 | 179 | 65% |
+| cigarettes | 2 | 1 | 19 | ⚠️ 67% (muestra chica: 3) |
+| RN1 | 81 | 43 | 180 | 65% |
 | Eztennis | 18 | 10 | 10 | 64% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 44 | 30 | 28 | 59% |
 | sbsigner | 7 | 5 | 4 | 58% |
@@ -21,4 +21,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | monkeymashingkeyboard | 0 | 0 | 6 | — |
 | Hauchn | 0 | 0 | 3 | — |
 | CentralCasting | 0 | 0 | 1 | — |
-| pleaseplease123 | 0 | 0 | 3 | — |
+| pleaseplease123 | 0 | 0 | 4 | — |
