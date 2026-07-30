@@ -4054,5 +4054,65 @@
     "usd": 1796.76,
     "odds_at_bet": 36,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785425036,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col-it-iba-2026-07-30-total-2pt5",
+    "title": "FC Inter Turku vs. Rams Ba\u015fak\u015fehir FK: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1707.53,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785425036,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-it-iba-2026-07-30-total-2pt5",
+    "title": "FC Inter Turku vs. Rams Ba\u015fak\u015fehir FK: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2150.0,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785425036,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col-it-iba-2026-07-30-total-2pt5",
+    "title": "FC Inter Turku vs. Rams Ba\u015fak\u015fehir FK: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2684.92,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785425041,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col-it-iba-2026-07-30-total-2pt5",
+    "title": "FC Inter Turku vs. Rams Ba\u015fak\u015fehir FK: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2684.92,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785425047,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col-it-iba-2026-07-30-total-2pt5",
+    "title": "FC Inter Turku vs. Rams Ba\u015fak\u015fehir FK: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1204.86,
+    "odds_at_bet": 43,
+    "status": "pending"
   }
 ]
