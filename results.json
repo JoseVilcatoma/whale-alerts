@@ -2266,5 +2266,29 @@
     "usd": 11166.822,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785387808,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1130.47,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785387846,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "wnba-conn-chi-2026-07-30",
+    "title": "Connecticut Sun vs. Chicago Sky",
+    "outcome": "Chicago Sky",
+    "side": "BUY",
+    "usd": 2833.5384000000004,
+    "odds_at_bet": 63,
+    "status": "pending"
   }
 ]
