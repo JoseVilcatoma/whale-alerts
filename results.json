@@ -2242,5 +2242,29 @@
     "usd": 9500.0,
     "odds_at_bet": 95,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785387493,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-svrcina-darderi-2026-07-30",
+    "title": "Los Cabos Open: Dalibor Svrcina vs Luciano Darderi",
+    "outcome": "Dalibor Svrcina",
+    "side": "BUY",
+    "usd": 4602.428,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785387668,
+    "username": "0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028",
+    "wallet": "0x27c5c1eee404a07f39fe70078aff815e5a656d61",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Boston Red Sox",
+    "side": "SELL",
+    "usd": 11166.822,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
