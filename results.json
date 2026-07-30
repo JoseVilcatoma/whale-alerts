@@ -10498,5 +10498,89 @@
     "usd": 88171.9836,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785446257,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-riv1-cah-2026-07-30-first-half-total-1pt5",
+    "title": "CS Independiente Rivadavia vs. CA Hurac\u00e1n: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2086.7000000000003,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785446274,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-riv1-cah-2026-07-30-first-half-total-1pt5",
+    "title": "CS Independiente Rivadavia vs. CA Hurac\u00e1n: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 3349.5,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785446302,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-riv1-cah-2026-07-30-first-half-total-1pt5",
+    "title": "CS Independiente Rivadavia vs. CA Hurac\u00e1n: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2862.8369,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785446303,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-nyy-cws-2026-07-30",
+    "title": "New York Yankees vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 5448.165,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785446321,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-riv1-cah-2026-07-30-first-half-total-1pt5",
+    "title": "CS Independiente Rivadavia vs. CA Hurac\u00e1n: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1886.5,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785446321,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-nyy-cws-2026-07-30",
+    "title": "New York Yankees vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 1333.0599969999998,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785446353,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-riv1-cah-2026-07-30-first-half-total-1pt5",
+    "title": "CS Independiente Rivadavia vs. CA Hurac\u00e1n: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2677.8289999999997,
+    "odds_at_bet": 77,
+    "status": "pending"
   }
 ]
