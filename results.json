@@ -12178,5 +12178,41 @@
     "usd": 1047.0,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785450568,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-kru1-g21-2026-07-30-game2",
+    "title": "Valorant: KR\u00dc Esports vs G2 Esports - Map 2 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 3247.241,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785450678,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-atmane-tabilo-2026-07-29",
+    "title": "Mubadala Citi DC Open: Terence Atmane vs Alejandro Tabilo",
+    "outcome": "Alejandro Tabilo",
+    "side": "BUY",
+    "usd": 1138.4615379999998,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785450796,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-cin-2026-07-30-total-9pt5",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 5753.529999,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]
