@@ -11866,5 +11866,89 @@
     "usd": 3962.5179869999997,
     "odds_at_bet": 95,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785449521,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-dart-preston-2026-07-30",
+    "title": "Vancouver: Harriet Dart vs Taylah Preston",
+    "outcome": "Taylah Preston",
+    "side": "BUY",
+    "usd": 2923.388571,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785449530,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-lajal-shick-2026-07-30",
+    "title": "Vancouver: Mark Lajal vs Braden Shick",
+    "outcome": "Mark Lajal",
+    "side": "BUY",
+    "usd": 2850.48786,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785449566,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sea-lad-2026-07-30",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 2742.3564,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785449681,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-riv1-cah-2026-07-30-first-half-total-2pt5",
+    "title": "CS Independiente Rivadavia vs. CA Hurac\u00e1n: 1st Half O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2890.119982,
+    "odds_at_bet": 95,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785449681,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-riv1-cah-2026-07-30-first-half-total-1pt5",
+    "title": "CS Independiente Rivadavia vs. CA Hurac\u00e1n: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1800.8999990000002,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785449766,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-atmane-tabilo-2026-07-29",
+    "title": "Mubadala Citi DC Open: Terence Atmane vs Alejandro Tabilo",
+    "outcome": "Alejandro Tabilo",
+    "side": "BUY",
+    "usd": 1009.8963,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785449768,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-atmane-tabilo-2026-07-29",
+    "title": "Mubadala Citi DC Open: Terence Atmane vs Alejandro Tabilo",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 1123.2,
+    "odds_at_bet": 36,
+    "status": "pending"
   }
 ]
