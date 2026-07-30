@@ -2086,5 +2086,17 @@
     "usd": 5069.0,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785386191,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "auc-sof-bri-2026-07-30-spread-away-1pt5",
+    "title": "Spread: Brisbane Roar FC (-1.5)",
+    "outcome": "Sydney Olympic FC",
+    "side": "BUY",
+    "usd": 1049.4783,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
