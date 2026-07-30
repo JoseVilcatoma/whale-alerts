@@ -2206,5 +2206,29 @@
     "usd": 4583.9400000000005,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785386972,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 1185.4622000000002,
+    "odds_at_bet": 13,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785387054,
+    "username": "0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028",
+    "wallet": "0x27c5c1eee404a07f39fe70078aff815e5a656d61",
+    "slug": "atp-cerundo-boyer-2026-07-29",
+    "title": "Los Cabos Open: Francisco Cerundolo vs Tristan Boyer",
+    "outcome": "Francisco Cerundolo",
+    "side": "SELL",
+    "usd": 4340.94471,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
