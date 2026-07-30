@@ -10426,5 +10426,29 @@
     "usd": 1093.6200000000001,
     "odds_at_bet": 66,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785445602,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-chc-stl-2026-07-30-total-6pt5",
+    "title": "Chicago Cubs vs. St. Louis Cardinals: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1266.9030000000002,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785445700,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-chc-stl-2026-07-30",
+    "title": "Chicago Cubs vs. St. Louis Cardinals",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 1020.5999999999999,
+    "odds_at_bet": 84,
+    "status": "pending"
   }
 ]
