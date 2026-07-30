@@ -4210,5 +4210,53 @@
     "usd": 1865.91,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785425529,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col-ilv-stj-2026-07-30-ilv",
+    "title": "Will Ilves Tampere win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1233.12,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785425644,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-nakashi-mensik-2026-07-30",
+    "title": "Mubadala Citi DC Open: Brandon Nakashima vs Jakub Mensik",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 1766.2922999999998,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785425656,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-gentzsc-dahlin-2026-07-30",
+    "title": "Bonn: Tom Gentzsch vs Max Dahlin",
+    "outcome": "Tom Gentzsch",
+    "side": "BUY",
+    "usd": 2435.79,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785425752,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "col-esc-vad-2026-07-30-vad",
+    "title": "Will FC Vaduz win on 2026-07-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1078.8781,
+    "odds_at_bet": 97,
+    "status": "pending"
   }
 ]
