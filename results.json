@@ -3562,5 +3562,113 @@
     "usd": 3877.5,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785422606,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1430.27,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785422659,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "col-esc-vad-2026-07-30-team-total-home-1pt5",
+    "title": "Atl\u00e9tic Club d'Escaldes vs. FC Vaduz: Atl\u00e9tic Club d'Escaldes O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1105.0,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785422676,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 2805.88,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785422690,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-tex-tb-2026-07-30",
+    "title": "Texas Rangers vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 2800.0000000000005,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785422690,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-tex-tb-2026-07-30",
+    "title": "Texas Rangers vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 2950.0,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785422690,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-tex-tb-2026-07-30",
+    "title": "Texas Rangers vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 4459.280000000001,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785422690,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-tex-tb-2026-07-30",
+    "title": "Texas Rangers vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 2848.3799999999997,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785422691,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-tex-tb-2026-07-30",
+    "title": "Texas Rangers vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 4053.6600000000003,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785422691,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-gen-flc-2026-07-30-spread-home-1pt5",
+    "title": "Spread: KAA Gent (-1.5)",
+    "outcome": "FK LNZ Cherkasy",
+    "side": "BUY",
+    "usd": 1089.0,
+    "odds_at_bet": 66,
+    "status": "pending"
   }
 ]
