@@ -4810,5 +4810,89 @@
     "usd": 1734.4,
     "odds_at_bet": 64,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785428247,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-nyy-cws-2026-07-30-total-7pt5",
+    "title": "New York Yankees vs. Chicago White Sox: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 7633.22,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785428254,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "cs2-3dmax-mouz-2026-07-31",
+    "title": "Counter-Strike: 3DMAX vs MOUZ (BO3) - BLAST Bounty Playoffs",
+    "outcome": "3DMAX",
+    "side": "BUY",
+    "usd": 1010.5958,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785428281,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "lol-kcb-ijc-2026-07-30",
+    "title": "LoL: Karmine Corp Blue vs Ici Japon Corp. Esport (BO1) - LFL Regular Season",
+    "outcome": "Karmine Corp Blue",
+    "side": "BUY",
+    "usd": 1512.0,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785428401,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "col-noa-zc-2026-07-30-spread-away-2pt5",
+    "title": "Spread: FC Zimbru Chi\u015fin\u0103u (-2.5)",
+    "outcome": "Noah FA",
+    "side": "BUY",
+    "usd": 1235.0,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785428406,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-nyy-cws-2026-07-30-total-7pt5",
+    "title": "New York Yankees vs. Chicago White Sox: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 3202.64,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785428443,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "col-noa-zc-2026-07-30-spread-away-2pt5",
+    "title": "Spread: FC Zimbru Chi\u015fin\u0103u (-2.5)",
+    "outcome": "Noah FA",
+    "side": "BUY",
+    "usd": 1244.989791,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785428470,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "col-noa-zc-2026-07-30-spread-away-2pt5",
+    "title": "Spread: FC Zimbru Chi\u015fin\u0103u (-2.5)",
+    "outcome": "Noah FA",
+    "side": "BUY",
+    "usd": 1237.489902,
+    "odds_at_bet": 99,
+    "status": "pending"
   }
 ]
