@@ -6466,5 +6466,29 @@
     "usd": 2619.6,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785433258,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-csk1-qar-2026-07-30-qar",
+    "title": "Will Qaraba\u011f A\u011fdam FK win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1137.5,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785433261,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-csk1-qar-2026-07-30-qar",
+    "title": "Will Qaraba\u011f A\u011fdam FK win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1046.5,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]
