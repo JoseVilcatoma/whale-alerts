@@ -4378,5 +4378,101 @@
     "usd": 2468.1,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785426799,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-ilv-stj-2026-07-30-total-3pt5",
+    "title": "Ilves Tampere vs. UMF Stjarnan: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2849.9999999999995,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785426805,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-ilv-stj-2026-07-30-total-3pt5",
+    "title": "Ilves Tampere vs. UMF Stjarnan: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2849.9999999999995,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785426809,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-ilv-stj-2026-07-30-total-3pt5",
+    "title": "Ilves Tampere vs. UMF Stjarnan: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2849.9999999999995,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785426814,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-ilv-stj-2026-07-30-total-3pt5",
+    "title": "Ilves Tampere vs. UMF Stjarnan: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2849.9999999999995,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785426817,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-ilv-stj-2026-07-30-total-3pt5",
+    "title": "Ilves Tampere vs. UMF Stjarnan: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2849.9999999999995,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785426835,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-mta-she-2026-07-30-spread-home-1pt5",
+    "title": "Spread: MH Maccabi Tel Aviv (-1.5)",
+    "outcome": "MH Maccabi Tel Aviv",
+    "side": "BUY",
+    "usd": 3570.0,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785426863,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-mta-she-2026-07-30-spread-home-1pt5",
+    "title": "Spread: MH Maccabi Tel Aviv (-1.5)",
+    "outcome": "MH Maccabi Tel Aviv",
+    "side": "BUY",
+    "usd": 1624.2281,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785426925,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-gentzsc-dahlin-2026-07-30",
+    "title": "Bonn: Tom Gentzsch vs Max Dahlin",
+    "outcome": "Max Dahlin",
+    "side": "BUY",
+    "usd": 1253.3301999999999,
+    "odds_at_bet": 94,
+    "status": "pending"
   }
 ]
