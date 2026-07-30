@@ -1918,5 +1918,41 @@
     "usd": 1434.709999,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785383251,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 7207.041,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785383251,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 1599.9976000000001,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785383381,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col-sio-bat-2026-07-30-team-total-away-2pt5",
+    "title": "FC Sion vs. FK BATE Barysa\u016d: FK BATE Barysa\u016d O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 6669.96,
+    "odds_at_bet": 98,
+    "status": "pending"
   }
 ]
