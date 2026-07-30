@@ -2746,5 +2746,65 @@
     "usd": 1208.5676999999998,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785418413,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-bou-fca-2026-07-30-total-3pt5",
+    "title": "AFC Bournemouth vs. FC Augsburg: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1587.0,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785418415,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-bou-fca-2026-07-30-total-3pt5",
+    "title": "AFC Bournemouth vs. FC Augsburg: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1587.0,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785418577,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-jones-bagaric-2026-07-29",
+    "title": "Targu Mures: Francesca Jones vs Lucija Bagaric",
+    "outcome": "Francesca Jones",
+    "side": "BUY",
+    "usd": 5755.5,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785418577,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-jones-bagaric-2026-07-29",
+    "title": "Targu Mures: Francesca Jones vs Lucija Bagaric",
+    "outcome": "Francesca Jones",
+    "side": "BUY",
+    "usd": 22200.0,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785418577,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-jones-bagaric-2026-07-29",
+    "title": "Targu Mures: Francesca Jones vs Lucija Bagaric",
+    "outcome": "Francesca Jones",
+    "side": "BUY",
+    "usd": 5423.25,
+    "odds_at_bet": 75,
+    "status": "pending"
   }
 ]
