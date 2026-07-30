@@ -13858,5 +13858,29 @@
     "usd": 1436.4,
     "odds_at_bet": 38,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785455217,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-wsh-atl-2026-07-30",
+    "title": "Washington Nationals vs. Atlanta Braves",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 4753.091517000001,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785455217,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-wsh-atl-2026-07-30",
+    "title": "Washington Nationals vs. Atlanta Braves",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 1143.0,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
