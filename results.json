@@ -1354,5 +1354,17 @@
     "usd": 1685.1059169999999,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785378480,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-hou-laa-2026-07-29",
+    "title": "Houston Astros vs. Los Angeles Angels",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 1499.9949,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
