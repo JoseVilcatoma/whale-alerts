@@ -1366,5 +1366,29 @@
     "usd": 1499.9949,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785378903,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-chc-stl-2026-07-29",
+    "title": "Chicago Cubs vs. St. Louis Cardinals",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 9900.0,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785378908,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-chc-stl-2026-07-29",
+    "title": "Chicago Cubs vs. St. Louis Cardinals",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 2078.0099999999998,
+    "odds_at_bet": 99,
+    "status": "pending"
   }
 ]
