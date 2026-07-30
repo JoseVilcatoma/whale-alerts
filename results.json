@@ -6406,5 +6406,65 @@
     "usd": 1858.7595999999999,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785432898,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-aud-ste-2026-07-30-aud",
+    "title": "Will FK Auda win on 2026-07-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2070.6,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785432901,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-3dmax-mouz-2026-07-31-game2",
+    "title": "Counter-Strike: 3DMAX vs MOUZ - Map 2 Winner",
+    "outcome": "3DMAX",
+    "side": "BUY",
+    "usd": 3579.8927999999996,
+    "odds_at_bet": 24,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785432906,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-vall-rak-2026-07-30-rak",
+    "title": "Will RKS Rak\u00f3w Cz\u0119stochowa win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1000.0,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785433031,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-pao1-dyn-2026-07-30-first-half-total-1pt5",
+    "title": "PAOK vs. FK Dynamo Kyiv: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2110.43,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785433063,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-pao1-dyn-2026-07-30-first-half-total-1pt5",
+    "title": "PAOK vs. FK Dynamo Kyiv: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2619.6,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
