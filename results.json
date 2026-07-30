@@ -3274,5 +3274,77 @@
     "usd": 3307.94874,
     "odds_at_bet": 90,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785420346,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-nakashi-mensik-2026-07-30",
+    "title": "Mubadala Citi DC Open: Brandon Nakashima vs Jakub Mensik",
+    "outcome": "Jakub Mensik",
+    "side": "BUY",
+    "usd": 22710.0624,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785420445,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-jones-bagaric-2026-07-29",
+    "title": "Targu Mures: Francesca Jones vs Lucija Bagaric",
+    "outcome": "Francesca Jones",
+    "side": "BUY",
+    "usd": 2590.68888,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785420517,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-agwi-leroux-2026-07-30",
+    "title": "ITF Dublin: Michael Agwi vs Jules Leroux",
+    "outcome": "Michael Agwi",
+    "side": "BUY",
+    "usd": 1756.8,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785420523,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-brockma-par-2026-07-30",
+    "title": "ITF Hechingen: Tessa Johanna Brockmann vs Sohyun Park",
+    "outcome": "Sohyun Park",
+    "side": "BUY",
+    "usd": 1121.1200000000001,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785420523,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-brockma-par-2026-07-30",
+    "title": "ITF Hechingen: Tessa Johanna Brockmann vs Sohyun Park",
+    "outcome": "Sohyun Park",
+    "side": "BUY",
+    "usd": 1062.6,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785420524,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-brockma-par-2026-07-30",
+    "title": "ITF Hechingen: Tessa Johanna Brockmann vs Sohyun Park",
+    "outcome": "Sohyun Park",
+    "side": "BUY",
+    "usd": 2904.0,
+    "odds_at_bet": 44,
+    "status": "pending"
   }
 ]
