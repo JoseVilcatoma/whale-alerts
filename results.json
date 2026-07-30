@@ -7354,5 +7354,89 @@
     "usd": 52000.0,
     "odds_at_bet": 52,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785437072,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "col-aja-vns-2026-07-30-total-0pt5",
+    "title": "AFC Ajax vs. FK Vojvodina Novi Sad: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1098.2899980000002,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785437095,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "uel-paf-haj-2026-07-30-paf",
+    "title": "Will P\u00e1fos FC win on 2026-07-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1446.069998,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785437106,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-maestre-varilla-2026-07-30",
+    "title": "San Marino: Francesco Maestrelli vs Juan Pablo Varillas",
+    "outcome": "Juan Pablo Varillas",
+    "side": "BUY",
+    "usd": 2000.8000000000002,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785437106,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-maestre-varilla-2026-07-30",
+    "title": "San Marino: Francesco Maestrelli vs Juan Pablo Varillas",
+    "outcome": "Juan Pablo Varillas",
+    "side": "BUY",
+    "usd": 1903.98,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785437138,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "uel-paf-haj-2026-07-30-total-1pt5",
+    "title": "P\u00e1fos FC vs. HNK Hajduk Split: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1074.79,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785437160,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "uel-paf-haj-2026-07-30-total-4pt5",
+    "title": "P\u00e1fos FC vs. HNK Hajduk Split: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1148.85,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785437199,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-maestre-varilla-2026-07-30",
+    "title": "San Marino: Francesco Maestrelli vs Juan Pablo Varillas",
+    "outcome": "Juan Pablo Varillas",
+    "side": "BUY",
+    "usd": 1750.6999999999998,
+    "odds_at_bet": 35,
+    "status": "pending"
   }
 ]
