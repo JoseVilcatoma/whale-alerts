@@ -3370,5 +3370,41 @@
     "usd": 1641.1890689999998,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785420880,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "uel-mta-she-2026-07-30-spread-home-1pt5",
+    "title": "Spread: MH Maccabi Tel Aviv (-1.5)",
+    "outcome": "FC Sheriff Tiraspol",
+    "side": "BUY",
+    "usd": 2685.2,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785420889,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "uel-mta-she-2026-07-30-spread-home-1pt5",
+    "title": "Spread: MH Maccabi Tel Aviv (-1.5)",
+    "outcome": "FC Sheriff Tiraspol",
+    "side": "BUY",
+    "usd": 2685.2,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785420920,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-tob-pan-2026-07-30-draw",
+    "title": "Will Tobyl FK vs. FK Panev\u0117\u017eys end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1062.8124,
+    "odds_at_bet": 80,
+    "status": "pending"
   }
 ]
