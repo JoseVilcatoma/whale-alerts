@@ -2026,5 +2026,41 @@
     "usd": 1571.9994,
     "odds_at_bet": 46,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785384504,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-jone-brengle-2026-07-29",
+    "title": "Vancouver: Emerson Jones vs Madison Brengle",
+    "outcome": "Madison Brengle",
+    "side": "BUY",
+    "usd": 4797.519999,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785384614,
+    "username": "0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028",
+    "wallet": "0x27c5c1eee404a07f39fe70078aff815e5a656d61",
+    "slug": "atp-cerundo-boyer-2026-07-29",
+    "title": "Los Cabos Open: Francisco Cerundolo vs Tristan Boyer",
+    "outcome": "Francisco Cerundolo",
+    "side": "SELL",
+    "usd": 9902.049579999999,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785384660,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-hou-laa-2026-07-29",
+    "title": "Houston Astros vs. Los Angeles Angels",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 2051.4967,
+    "odds_at_bet": 11,
+    "status": "pending"
   }
 ]
