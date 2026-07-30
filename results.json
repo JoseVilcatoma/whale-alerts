@@ -12910,5 +12910,41 @@
     "usd": 2500.0,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785453166,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "sud-gre-bol-2026-07-30-bol",
+    "title": "Will Club Bol\u00edvar win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1212.1999999999998,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785453191,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-cor1-cap-2026-07-30-cor1",
+    "title": "Will SC Corinthians Paulista win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1085.7,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785453244,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-atmane-tabilo-2026-07-29",
+    "title": "Mubadala Citi DC Open: Terence Atmane vs Alejandro Tabilo",
+    "outcome": "Alejandro Tabilo",
+    "side": "BUY",
+    "usd": 8466.9,
+    "odds_at_bet": 78,
+    "status": "pending"
   }
 ]
