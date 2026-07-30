@@ -5350,5 +5350,89 @@
     "usd": 1796.76,
     "odds_at_bet": 36,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785429464,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "clf-par-are-2026-07-30-spread-away-2pt5",
+    "title": "Spread: SS Arezzo (-2.5)",
+    "outcome": "Parma Calcio",
+    "side": "BUY",
+    "usd": 1498.5,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785429562,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-hra-tro-2026-07-30-tro",
+    "title": "Will Troms\u00f8 IL win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1107.8,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785429627,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-nakashi-mensik-2026-07-30",
+    "title": "Mubadala Citi DC Open: Brandon Nakashima vs Jakub Mensik",
+    "outcome": "Jakub Mensik",
+    "side": "BUY",
+    "usd": 2374.1226,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785429639,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "crict20lpl-jaf-kan-2026-07-30",
+    "title": "T20 Lanka Premier League: Jaffna Kings vs Kandy Royals",
+    "outcome": "Jaffna Kings",
+    "side": "BUY",
+    "usd": 1095.25,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785429674,
+    "username": "0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028",
+    "wallet": "0x27c5c1eee404a07f39fe70078aff815e5a656d61",
+    "slug": "cs2-3dmax-mouz-2026-07-31",
+    "title": "Counter-Strike: 3DMAX vs MOUZ (BO3) - BLAST Bounty Playoffs",
+    "outcome": "3DMAX",
+    "side": "BUY",
+    "usd": 9999.999999,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785429688,
+    "username": "0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028",
+    "wallet": "0x27c5c1eee404a07f39fe70078aff815e5a656d61",
+    "slug": "cs2-3dmax-mouz-2026-07-31",
+    "title": "Counter-Strike: 3DMAX vs MOUZ (BO3) - BLAST Bounty Playoffs",
+    "outcome": "3DMAX",
+    "side": "BUY",
+    "usd": 9999.999999000001,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785429710,
+    "username": "0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028",
+    "wallet": "0x27c5c1eee404a07f39fe70078aff815e5a656d61",
+    "slug": "cs2-3dmax-mouz-2026-07-31",
+    "title": "Counter-Strike: 3DMAX vs MOUZ (BO3) - BLAST Bounty Playoffs",
+    "outcome": "3DMAX",
+    "side": "BUY",
+    "usd": 5346.259999999999,
+    "odds_at_bet": 46,
+    "status": "pending"
   }
 ]
