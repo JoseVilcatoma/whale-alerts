@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-30 06:46:36 UTC
+Actualizado: 2026-07-30 07:00:43 UTC
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -9,7 +9,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RN1 | 2 | 1 | 14 | ⚠️ 67% (muestra chica: 3) |
 | ferrariChampions2026 | 0 | 0 | 15 | — |
 | swisstony | 0 | 0 | 51 | — |
-| UpTheBlues | 0 | 0 | 15 | — |
+| UpTheBlues | 0 | 0 | 16 | — |
 | sbsigner | 0 | 0 | 11 | — |
 | Eztennis | 0 | 0 | 17 | — |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 34 | — |

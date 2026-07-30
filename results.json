@@ -2446,5 +2446,17 @@
     "usd": 1913.1595,
     "odds_at_bet": 35,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785394839,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 2820.69,
+    "odds_at_bet": 93,
+    "status": "pending"
   }
 ]
