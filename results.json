@@ -5602,5 +5602,41 @@
     "usd": 2121.4296,
     "odds_at_bet": 72,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785430816,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-tns-flo-2026-07-30-tns",
+    "title": "Will The New Saints FC win on 2026-07-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1155.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785430833,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-pao1-dyn-2026-07-30-btts",
+    "title": "PAOK vs. FK Dynamo Kyiv: Both Teams to Score",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1694.188898,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785430841,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-3dmax-mouz-2026-07-31-game2",
+    "title": "Counter-Strike: 3DMAX vs MOUZ - Map 2 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 10687.8396,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
