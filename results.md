@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-30 14:19:09 UTC
+Actualizado: 2026-07-30 14:24:20 UTC
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -9,7 +9,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Eztennis | 17 | 0 | 5 | 100% |
 | cigarettes | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| UpTheBlues | 8 | 1 | 12 | 89% |
+| UpTheBlues | 8 | 1 | 13 | 89% |
 | swisstony | 38 | 7 | 14 | 84% |
 | sbsigner | 6 | 5 | 0 | 55% |
 | RN1 | 9 | 8 | 36 | 53% |
