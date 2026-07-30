@@ -2014,5 +2014,17 @@
     "usd": 1101.779999,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785384349,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-gsv-phx-2026-07-29",
+    "title": "Golden State Valkyries vs. Phoenix Mercury",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "usd": 1571.9994,
+    "odds_at_bet": 46,
+    "status": "pending"
   }
 ]

@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-30 03:59:53 UTC
+Actualizado: 2026-07-30 04:05:52 UTC
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -13,7 +13,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | sbsigner | 0 | 0 | 9 | — |
 | Eztennis | 0 | 0 | 17 | — |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 25 | — |
-| wr0ngw4yb3tt0r | 0 | 0 | 18 | — |
+| wr0ngw4yb3tt0r | 0 | 0 | 19 | — |
 | cigarettes | 0 | 0 | 1 | — |
 | 1winstreak1 | 0 | 0 | 13 | — |
 | pada | 0 | 0 | 1 | — |
