@@ -3718,5 +3718,65 @@
     "usd": 3185.0,
     "odds_at_bet": 70,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785423088,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-ngx-vg-2026-07-30-game1",
+    "title": "Dota 2: Nigma Galaxy vs Vici Gaming - Game 1 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "usd": 6070.5408,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785423172,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-pit-cin-2026-07-30",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 1134.618766,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785423185,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col-tob-pan-2026-07-30-draw",
+    "title": "Will Tobyl FK vs. FK Panev\u0117\u017eys end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 3721.8199999999997,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785423230,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-it-iba-2026-07-30-iba",
+    "title": "Will Rams Ba\u015fak\u015fehir FK win on 2026-07-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2600.0,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785423262,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-skatov-virtane-2026-07-30",
+    "title": "San Marino: Timofey Skatov vs Otto Virtanen",
+    "outcome": "Timofey Skatov",
+    "side": "BUY",
+    "usd": 1755.0075000000002,
+    "odds_at_bet": 75,
+    "status": "pending"
   }
 ]
