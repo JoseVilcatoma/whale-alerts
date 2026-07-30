@@ -13714,5 +13714,89 @@
     "usd": 1100.16,
     "odds_at_bet": 64,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785454836,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 1353.3,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785454836,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ugo Humbert",
+    "side": "BUY",
+    "usd": 2107.4524,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785454837,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-stephen-vidmano-2026-07-30",
+    "title": "The Memphis Classic: Sloane Stephens vs Darja Vidmanova",
+    "outcome": "Sloane Stephens",
+    "side": "BUY",
+    "usd": 2343.0,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785454837,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-stephen-vidmano-2026-07-30",
+    "title": "The Memphis Classic: Sloane Stephens vs Darja Vidmanova",
+    "outcome": "Darja Vidmanova",
+    "side": "BUY",
+    "usd": 5178.142393,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785454837,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-stephen-vidmano-2026-07-30",
+    "title": "The Memphis Classic: Sloane Stephens vs Darja Vidmanova",
+    "outcome": "Sloane Stephens",
+    "side": "BUY",
+    "usd": 2378.5599989999996,
+    "odds_at_bet": 31,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785454839,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-stephen-vidmano-2026-07-30",
+    "title": "The Memphis Classic: Sloane Stephens vs Darja Vidmanova",
+    "outcome": "Sloane Stephens",
+    "side": "BUY",
+    "usd": 3688.5199989999996,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785454845,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-100t1-sen-2026-07-30-game1",
+    "title": "Valorant: 100 Thieves vs Sentinels - Map 1 Winner",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 4977.0,
+    "odds_at_bet": 79,
+    "status": "pending"
   }
 ]
