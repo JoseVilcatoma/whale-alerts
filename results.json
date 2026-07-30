@@ -10234,5 +10234,65 @@
     "usd": 6541.24,
     "odds_at_bet": 29,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785444307,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "uel-ben-stg-2026-07-30-total-4pt5",
+    "title": "Sport Lisboa e Benfica vs. FC St. Gallen: O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2822.749998,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785444308,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "uel-ben-stg-2026-07-30-total-4pt5",
+    "title": "Sport Lisboa e Benfica vs. FC St. Gallen: O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1709.369998,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785444522,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-nyy-cws-2026-07-30",
+    "title": "New York Yankees vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 1043.4199999999998,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785444545,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-chc-stl-2026-07-30-total-6pt5",
+    "title": "Chicago Cubs vs. St. Louis Cardinals: O/U 6.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1314.4,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785444551,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-chc-stl-2026-07-30-total-6pt5",
+    "title": "Chicago Cubs vs. St. Louis Cardinals: O/U 6.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1314.4,
+    "odds_at_bet": 62,
+    "status": "pending"
   }
 ]
