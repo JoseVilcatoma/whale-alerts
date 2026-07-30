@@ -2230,5 +2230,17 @@
     "usd": 4340.94471,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785387183,
+    "username": "0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028",
+    "wallet": "0x27c5c1eee404a07f39fe70078aff815e5a656d61",
+    "slug": "atp-gea-zheng-2026-07-29",
+    "title": "Los Cabos Open: Arthur Gea vs Michael Zheng",
+    "outcome": "Arthur Gea",
+    "side": "SELL",
+    "usd": 9500.0,
+    "odds_at_bet": 95,
+    "status": "pending"
   }
 ]
