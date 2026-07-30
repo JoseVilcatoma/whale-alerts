@@ -10582,5 +10582,41 @@
     "usd": 2677.8289999999997,
     "odds_at_bet": 77,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785446645,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-nyy-cws-2026-07-30",
+    "title": "New York Yankees vs. Chicago White Sox",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 25933.543999999998,
+    "odds_at_bet": 8,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785446652,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-nyy-cws-2026-07-30",
+    "title": "New York Yankees vs. Chicago White Sox",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 2000.0,
+    "odds_at_bet": 2,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785446746,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-monteir-pellegr-2026-07-30",
+    "title": "San Marino: Thiago Monteiro vs Andrea Pellegrino",
+    "outcome": "Andrea Pellegrino",
+    "side": "BUY",
+    "usd": 6014.8935,
+    "odds_at_bet": 33,
+    "status": "pending"
   }
 ]

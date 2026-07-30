@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-30 21:21:08 UTC
+Actualizado: 2026-07-30 21:26:08 UTC
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -12,7 +12,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 2 | 1 | 21 | ⚠️ 67% (muestra chica: 3) |
 | RN1 | 81 | 43 | 212 | 65% |
 | Eztennis | 18 | 10 | 10 | 64% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 44 | 30 | 35 | 59% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 44 | 30 | 38 | 59% |
 | sbsigner | 7 | 5 | 4 | 58% |
 | 1winstreak1 | 7 | 9 | 7 | 44% |
 | ferrariChampions2026 | 6 | 9 | 0 | 40% |
