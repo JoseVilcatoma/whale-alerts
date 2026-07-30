@@ -2326,5 +2326,17 @@
     "usd": 1460.0,
     "odds_at_bet": 73,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785389519,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-norrie-duckwor-2026-07-29",
+    "title": "Los Cabos Open: Cameron Norrie vs James Duckworth",
+    "outcome": "James Duckworth",
+    "side": "BUY",
+    "usd": 4164.853,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]
