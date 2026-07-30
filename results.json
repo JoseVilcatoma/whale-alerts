@@ -3214,5 +3214,65 @@
     "usd": 1224.48,
     "odds_at_bet": 96,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785419978,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-tl1-ts7-2026-07-31-game2",
+    "title": "Counter-Strike: Liquid vs Spirit - Map 2 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1566.588648,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785420010,
+    "username": "Hauchn",
+    "wallet": "0xf0ca28d5b0141f0a8e7b251dea80fd881cb166ed",
+    "slug": "will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-july-31-20260624192749110",
+    "title": "Will NVIDIA be the second-largest company in the world by market cap on July 31?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "usd": 6419.34275,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785420012,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 2028.7800000000002,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785420049,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-tl1-ts7-2026-07-31-game2",
+    "title": "Counter-Strike: Liquid vs Spirit - Map 2 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1052.1,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785420060,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-jones-bagaric-2026-07-29",
+    "title": "Targu Mures: Francesca Jones vs Lucija Bagaric",
+    "outcome": "Francesca Jones",
+    "side": "BUY",
+    "usd": 3307.94874,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]
