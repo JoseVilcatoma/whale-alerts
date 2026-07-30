@@ -10174,5 +10174,41 @@
     "usd": 1012.7562200000002,
     "odds_at_bet": 23,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785443705,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-mia-nym-2026-07-30-total-7pt5",
+    "title": "Miami Marlins vs. New York Mets: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1175.8095,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785443878,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-nyy-cws-2026-07-30",
+    "title": "New York Yankees vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 1061.0693999999999,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785443935,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-nyy-cws-2026-07-30-spread-away-1pt5",
+    "title": "Spread: New York Yankees (-1.5)",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 1656.0,
+    "odds_at_bet": 80,
+    "status": "pending"
   }
 ]
