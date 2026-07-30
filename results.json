@@ -12946,5 +12946,29 @@
     "usd": 8466.9,
     "odds_at_bet": 78,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785453259,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-atmane-tabilo-2026-07-29",
+    "title": "Mubadala Citi DC Open: Terence Atmane vs Alejandro Tabilo",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 1025.1284,
+    "odds_at_bet": 23,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785453324,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-wsh-atl-2026-07-30",
+    "title": "Washington Nationals vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 2944.1,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
