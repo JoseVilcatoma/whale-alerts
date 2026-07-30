@@ -7438,5 +7438,101 @@
     "usd": 1750.6999999999998,
     "odds_at_bet": 35,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785437286,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1065.579996,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785437301,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1239.99992,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785437320,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-ben-stg-2026-07-30-spread-home-2pt5",
+    "title": "Spread: Sport Lisboa e Benfica (-2.5)",
+    "outcome": "FC St. Gallen",
+    "side": "BUY",
+    "usd": 5264.926291,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785437338,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "uel-hra-tro-2026-07-30-hra",
+    "title": "Will FC Hradec Kr\u00e1lov\u00e9 win on 2026-07-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 5084.64,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785437339,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "uel-hra-tro-2026-07-30-tro",
+    "title": "Will Troms\u00f8 IL win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 3295.59111,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785437352,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "uel-paf-haj-2026-07-30-total-1pt5",
+    "title": "P\u00e1fos FC vs. HNK Hajduk Split: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1185.31,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785437371,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-ben-stg-2026-07-30-spread-home-2pt5",
+    "title": "Spread: Sport Lisboa e Benfica (-2.5)",
+    "outcome": "FC St. Gallen",
+    "side": "BUY",
+    "usd": 1483.1487660000003,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785437506,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-galan-rehberg-2026-07-30",
+    "title": "Bonn: Daniel Galan vs Max Hans Rehberg",
+    "outcome": "Daniel Galan",
+    "side": "BUY",
+    "usd": 2835.4865,
+    "odds_at_bet": 77,
+    "status": "pending"
   }
 ]
