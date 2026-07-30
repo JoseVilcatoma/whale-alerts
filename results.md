@@ -1,19 +1,19 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-30 17:58:49 UTC
+Actualizado: 2026-07-30 18:07:13 UTC
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
-| Eztennis | 17 | 0 | 9 | 100% |
-| cigarettes | 1 | 0 | 9 | ⚠️ 100% (muestra chica: 1) |
+| Eztennis | 18 | 0 | 8 | 100% |
+| cigarettes | 2 | 0 | 8 | ⚠️ 100% (muestra chica: 2) |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 0 | 3 | ⚠️ 100% (muestra chica: 4) |
-| UpTheBlues | 8 | 1 | 36 | 89% |
-| swisstony | 38 | 7 | 62 | 84% |
+| swisstony | 59 | 15 | 33 | 80% |
+| UpTheBlues | 8 | 2 | 35 | 80% |
+| RN1 | 61 | 36 | 107 | 63% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 39 | 23 | 24 | 63% |
 | sbsigner | 6 | 5 | 5 | 55% |
-| RN1 | 9 | 8 | 181 | 53% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 17 | 52 | 50% |
 | ferrariChampions2026 | 6 | 9 | 0 | 40% |
 | 1winstreak1 | 6 | 9 | 1 | 40% |
 | wr0ngw4yb3tt0r | 4 | 16 | 4 | 20% |
