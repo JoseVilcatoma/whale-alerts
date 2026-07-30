@@ -10450,5 +10450,53 @@
     "usd": 1020.5999999999999,
     "odds_at_bet": 84,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785446051,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-bst-gls1-2026-07-30-map-handicap-away-1pt5",
+    "title": "Map Handicap: BST (-1.5) vs Galorys (+1.5)",
+    "outcome": "Galorys",
+    "side": "BUY",
+    "usd": 1662.0,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785446098,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-chc-stl-2026-07-30",
+    "title": "Chicago Cubs vs. St. Louis Cardinals",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 1121.7738000000002,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785446099,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-chc-stl-2026-07-30",
+    "title": "Chicago Cubs vs. St. Louis Cardinals",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 1735.36,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785446103,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-wsh-atl-2026-07-30",
+    "title": "Washington Nationals vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 88171.9836,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
