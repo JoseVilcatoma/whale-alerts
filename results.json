@@ -10894,5 +10894,77 @@
     "usd": 1785.52,
     "odds_at_bet": 88,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785447585,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-cin-2026-07-30",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 1589.46,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785447652,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-kru1-g21-2026-07-30-game1",
+    "title": "Valorant: KR\u00dc Esports vs G2 Esports - Map 1 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 1950.0,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785447652,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-kru1-g21-2026-07-30-game1",
+    "title": "Valorant: KR\u00dc Esports vs G2 Esports - Map 1 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 1890.0726000000002,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785447654,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-dart-preston-2026-07-30",
+    "title": "Vancouver: Harriet Dart vs Taylah Preston",
+    "outcome": "Taylah Preston",
+    "side": "BUY",
+    "usd": 8947.520400000001,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785447654,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-dart-preston-2026-07-30",
+    "title": "Vancouver: Harriet Dart vs Taylah Preston",
+    "outcome": "Taylah Preston",
+    "side": "BUY",
+    "usd": 5577.0,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785447657,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-prozoro-stearns-2026-07-30",
+    "title": "The Memphis Classic: Tatiana Prozorova vs Peyton Stearns",
+    "outcome": "Peyton Stearns",
+    "side": "BUY",
+    "usd": 2950.5840000000003,
+    "odds_at_bet": 78,
+    "status": "pending"
   }
 ]
