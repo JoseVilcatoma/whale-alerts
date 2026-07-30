@@ -10294,5 +10294,41 @@
     "usd": 1314.4,
     "odds_at_bet": 62,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785444571,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-ben-stg-2026-07-30-total-5pt5",
+    "title": "Sport Lisboa e Benfica vs. FC St. Gallen: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1254.4879999999998,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785444572,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-ben-stg-2026-07-30-total-5pt5",
+    "title": "Sport Lisboa e Benfica vs. FC St. Gallen: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 3024.3896,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785444831,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-prozoro-stearns-2026-07-30",
+    "title": "The Memphis Classic: Tatiana Prozorova vs Peyton Stearns",
+    "outcome": "Peyton Stearns",
+    "side": "BUY",
+    "usd": 1656.6108000000002,
+    "odds_at_bet": 78,
+    "status": "pending"
   }
 ]
