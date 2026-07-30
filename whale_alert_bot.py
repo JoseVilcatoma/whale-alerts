@@ -38,9 +38,18 @@ urllib3_cn.allowed_gai_family = _allowed_gai_family
 
 DATA_API = "https://data-api.polymarket.com"
 GAMMA_API = "https://gamma-api.polymarket.com"
+POLYGON_RPC = "https://polygon-rpc.com"
+# Los tokens que Polymarket usa (o usó hasta hace poco) como "efectivo" del usuario.
+# Sumamos los dos porque la plataforma migró de USDC.e a pUSD recién a fines de abril
+# 2026, así que hay wallets con saldo repartido entre uno y otro.
+STABLE_TOKENS = {
+    "pUSD": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+    "USDC.e": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+}
 RTDS_URL = "wss://ws-live-data.polymarket.com"
 RESULTS_FILE = Path(__file__).parent / "results.json"
 SUMMARY_FILE = Path(__file__).parent / "results.md"
+WATCHED_FILE = Path(__file__).parent / "watched.json"
 
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
 WHALE_THRESHOLD = float(os.environ.get("WHALE_THRESHOLD", "1000"))
@@ -49,9 +58,11 @@ LB_CATEGORY = os.environ.get("LB_CATEGORY", "OVERALL")
 LB_PERIODS = ["WEEK", "MONTH"]
 
 LEADERBOARD_REFRESH_SECONDS = int(os.environ.get("LEADERBOARD_REFRESH_SECONDS", "900"))
+MIN_WATCH_DAYS = float(os.environ.get("MIN_WATCH_DAYS", "7"))
 MAX_RUNTIME_SECONDS = int(os.environ.get("MAX_RUNTIME_SECONDS", str(5 * 3600 + 50 * 60)))
 
 watched = {}          # wallet (minúsculas) -> username
+watched_meta = {}     # wallet -> {"username":..., "added_at": ts} — para el mínimo de 7 días
 msg_count = 0
 last_msg_at = time.time()
 current_ws = None
@@ -216,23 +227,50 @@ def market_url(trade):
     return f"https://polymarket.com/event/{slug}" if slug else "https://polymarket.com"
 
 
-def get_portfolio_value(wallet):
+def get_open_positions_value(wallet):
+    """Suma el valor actual de TODAS las posiciones abiertas — a diferencia de /value
+    (que no puedo confirmar si incluye efectivo sin invertir), esto lo calculamos
+    nosotros mismos con datos que sabemos exactamente qué son."""
     try:
-        r = requests.get(f"{DATA_API}/value", params={"user": wallet}, timeout=8)
-        data = r.json() if r.ok else None
-        if data:
-            return data[0].get("value")
+        r = requests.get(f"{DATA_API}/positions", params={"user": wallet, "limit": 500}, timeout=10)
+        positions = r.json() if r.ok else []
+        return sum((p.get("currentValue") or 0) for p in positions)
     except Exception as e:
-        print(f"Error trayendo portafolio: {e}", file=sys.stderr)
-    return None
+        print(f"Error trayendo posiciones: {e}", file=sys.stderr)
+        return None
+
+
+def get_erc20_balance(wallet, token_address):
+    """Consulta el saldo de un token ERC-20 directo de la blockchain de Polygon (pública,
+    sin necesidad de API key) — es la única forma de saber el efectivo real disponible."""
+    try:
+        data = "0x70a08231" + wallet.lower().replace("0x", "").rjust(64, "0")
+        payload = {"jsonrpc": "2.0", "id": 1, "method": "eth_call", "params": [{"to": token_address, "data": data}, "latest"]}
+        r = requests.post(POLYGON_RPC, json=payload, timeout=8)
+        result = r.json().get("result")
+        if not result or result == "0x":
+            return 0.0
+        return int(result, 16) / 1_000_000  # estos stablecoins usan 6 decimales
+    except Exception as e:
+        print(f"Error consultando balance on-chain: {e}", file=sys.stderr)
+        return 0.0
+
+
+def get_cash_balance(wallet):
+    return sum(get_erc20_balance(wallet, addr) for addr in STABLE_TOKENS.values())
 
 
 def stake_line(usd, wallet):
-    value = get_portfolio_value(wallet)
-    if not value or value <= 0:
+    positions_value = get_open_positions_value(wallet) or 0
+    cash = get_cash_balance(wallet)
+    total = positions_value + cash
+    if total <= 0:
         return ""
-    pct = usd / value * 100
-    return f"💰 Stake: {pct:.1f}% de su portafolio (${value:,.0f} total)\n"
+    pct = usd / total * 100
+    return (
+        f"💰 Esta apuesta es el {pct:.0f}% de su capital total en Polymarket "
+        f"(${total:,.0f} = ${positions_value:,.0f} en posiciones + ${cash:,.0f} en efectivo)\n"
+    )
 
 
 def build_ticket(username, trade, usd, odds, wallet):
@@ -333,10 +371,11 @@ def save_and_commit_results():
     with lock:
         RESULTS_FILE.write_text(json.dumps(results, indent=2))
         build_summary_md()
+        WATCHED_FILE.write_text(json.dumps(watched_meta, indent=2))
     os.system('git config user.name "whale-alert-bot"')
     os.system('git config user.email "actions@github.com"')
-    os.system("git add results.json results.md")
-    os.system('git diff --staged --quiet || git commit -m "actualizar resultados"')
+    os.system("git add results.json results.md watched.json")
+    os.system('git diff --staged --quiet || git commit -m "actualizar resultados y vigilados"')
     os.system("git push")
     results_dirty = False
 
@@ -350,16 +389,32 @@ def background_worker():
     while not stop_flag.is_set():
         now = time.time()
         if now - last_lb_refresh > LEADERBOARD_REFRESH_SECONDS or not watched:
-            combined = get_combined_leaderboard()
+            combined = get_combined_leaderboard()  # wallet original -> trader dict, del top actual
+            cutoff = now - MIN_WATCH_DAYS * 86400
             with lock:
+                added, dropped = 0, 0
+                # sumar / refrescar a los que están en el top ahora
+                for w, t in combined.items():
+                    wl = w.lower()
+                    if wl not in watched_meta:
+                        watched_meta[wl] = {"username": t.get("userName", "anon"), "added_at": now}
+                        added += 1
+                    else:
+                        watched_meta[wl]["username"] = t.get("userName", watched_meta[wl]["username"])
+                current_top_wallets = {w.lower() for w in combined.keys()}
+                # sacar solo a los que YA no están en el top Y ya cumplieron el mínimo de días
+                for wl in list(watched_meta.keys()):
+                    if wl not in current_top_wallets and watched_meta[wl]["added_at"] < cutoff:
+                        del watched_meta[wl]
+                        dropped += 1
                 watched.clear()
-                watched.update({w.lower(): t.get("userName", "anon") for w, t in combined.items()})
-            print(f"[ranking] {len(watched)} apostadores vigilados: {list(watched.values())}")
+                watched.update({wl: m["username"] for wl, m in watched_meta.items()})
+            print(f"[ranking] {len(watched)} vigilados (+{added} nuevos, -{dropped} vencidos tras {MIN_WATCH_DAYS} días): {list(watched.values())}")
             last_lb_refresh = now
         if now - last_heartbeat > 120:
             print(f"[heartbeat] mensajes recibidos del chorro hasta ahora: {msg_count}")
             last_heartbeat = now
-        if now - last_resolve_check > 180:
+        if now - last_resolve_check > 60:
             resolve_pending_results()
             last_resolve_check = now
         if now - last_msg_at > 60 and current_ws is not None:
@@ -369,7 +424,7 @@ def background_worker():
             except Exception:
                 pass
             last_msg_at = time.time()  # evita que se dispare de nuevo mientras reconecta
-        if results_dirty and now - last_save > 300:
+        if results_dirty and now - last_save > 120:
             print("[resultados] guardando progreso en el repo...")
             save_and_commit_results()
             last_save = now
@@ -381,6 +436,13 @@ def main():
     if loaded:
         results.extend(loaded)
         print(f"[resultados] cargados {len(results)} registros anteriores")
+
+    loaded_watched = load_json(WATCHED_FILE)
+    if loaded_watched:
+        watched_meta.update(loaded_watched)
+        with lock:
+            watched.update({wl: m["username"] for wl, m in watched_meta.items()})
+        print(f"[ranking] cargados {len(watched_meta)} vigilados de corridas anteriores")
 
     if not NTFY_TOPIC:
         print("¡Falta NTFY_TOPIC! No va a poder avisar nada.", file=sys.stderr)
