@@ -2098,5 +2098,29 @@
     "usd": 1049.4783,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785386443,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 1782.1199979999997,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785386493,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-gea-zheng-2026-07-29",
+    "title": "Los Cabos Open: Arthur Gea vs Michael Zheng",
+    "outcome": "Michael Zheng",
+    "side": "BUY",
+    "usd": 2066.4442999999997,
+    "odds_at_bet": 47,
+    "status": "pending"
   }
 ]
