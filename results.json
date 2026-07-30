@@ -3346,5 +3346,29 @@
     "usd": 2904.0,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785420676,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-arias-egorova-2026-07-30",
+    "title": "ITF Pergamino: Valentina Mediorreal Arias vs Daria Egorova",
+    "outcome": "Daria Egorova",
+    "side": "BUY",
+    "usd": 1824.0,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785420724,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-sf-sd-2026-07-30",
+    "title": "San Francisco Giants vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 1641.1890689999998,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
