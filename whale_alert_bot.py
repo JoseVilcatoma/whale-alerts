@@ -53,6 +53,8 @@ MAX_RUNTIME_SECONDS = int(os.environ.get("MAX_RUNTIME_SECONDS", str(5 * 3600 + 5
 
 watched = {}          # wallet (minúsculas) -> username
 msg_count = 0
+last_msg_at = time.time()
+current_ws = None
 raw_samples_shown = 0
 seen_keys = set()      # dedupe de trades ya alertados en esta corrida
 lock = threading.Lock()
@@ -258,6 +260,8 @@ def send_ntfy(text):
 
 # ---------- websocket en vivo ----------
 def on_ws_open(ws):
+    global last_msg_at
+    last_msg_at = time.time()
     print("[en vivo] conectado — escuchando todas las apuestas de Polymarket")
     ws.send(json.dumps({
         "action": "subscribe",
@@ -266,6 +270,9 @@ def on_ws_open(ws):
 
 
 def on_ws_message(ws, message):
+    global last_msg_at
+    last_msg_at = time.time()
+
     if message == "PONG":
         return
 
@@ -335,6 +342,7 @@ def save_and_commit_results():
 
 
 def background_worker():
+    global last_msg_at
     last_lb_refresh = 0
     last_heartbeat = time.time()
     last_resolve_check = 0
@@ -354,6 +362,13 @@ def background_worker():
         if now - last_resolve_check > 180:
             resolve_pending_results()
             last_resolve_check = now
+        if now - last_msg_at > 60 and current_ws is not None:
+            print("[en vivo] 60s sin recibir nada — la conexión parece muda, forzando reconexión...")
+            try:
+                current_ws.close()
+            except Exception:
+                pass
+            last_msg_at = time.time()  # evita que se dispare de nuevo mientras reconecta
         if results_dirty and now - last_save > 300:
             print("[resultados] guardando progreso en el repo...")
             save_and_commit_results()
@@ -379,10 +394,13 @@ def main():
     while not watched and time.time() - run_start < 60:
         time.sleep(1)
 
+    global current_ws, last_msg_at
     ws = websocket.WebSocketApp(
         RTDS_URL, on_open=on_ws_open, on_message=on_ws_message,
         on_error=on_ws_error, on_close=on_ws_close,
     )
+    current_ws = ws
+    last_msg_at = time.time()
 
     while time.time() - run_start < MAX_RUNTIME_SECONDS:
         ws.run_forever(ping_interval=30, ping_timeout=10)
