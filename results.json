@@ -586,5 +586,53 @@
     "usd": 11257.1613,
     "odds_at_bet": 63,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785375334,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-sea-lad-2026-07-29",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 3962.6063999999997,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785375451,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 11235.373499999998,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785375451,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 8069.6487,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785375451,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-oak-2026-07-29",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 8162.8253,
+    "odds_at_bet": 41,
+    "status": "pending"
   }
 ]
