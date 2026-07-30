@@ -3814,5 +3814,41 @@
     "usd": 2636.59695,
     "odds_at_bet": 92,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785423790,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-nakashi-mensik-2026-07-30",
+    "title": "Mubadala Citi DC Open: Brandon Nakashima vs Jakub Mensik",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 2046.31,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785423796,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-skatov-virtane-2026-07-30",
+    "title": "San Marino: Timofey Skatov vs Otto Virtanen",
+    "outcome": "Timofey Skatov",
+    "side": "BUY",
+    "usd": 1182.9726,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785423928,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-brockma-par-2026-07-30",
+    "title": "ITF Hechingen: Tessa Johanna Brockmann vs Sohyun Park",
+    "outcome": "Tessa Johanna Brockmann",
+    "side": "BUY",
+    "usd": 3123.6322999999998,
+    "odds_at_bet": 74,
+    "status": "pending"
   }
 ]
