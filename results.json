@@ -1810,5 +1810,17 @@
     "usd": 1099.84905,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785382657,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-bos-oak-2026-07-29-spread-away-1pt5",
+    "title": "Spread: Boston Red Sox (-1.5)",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 3065.4624,
+    "odds_at_bet": 32,
+    "status": "pending"
   }
 ]
