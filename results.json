@@ -898,5 +898,89 @@
     "usd": 3989.9999999999995,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785376732,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-shapova-pacheco-2026-07-29",
+    "title": "Los Cabos Open: Denis Shapovalov vs Rodrigo Pacheco",
+    "outcome": "Rodrigo Pacheco",
+    "side": "BUY",
+    "usd": 1548.7383,
+    "odds_at_bet": 31,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785376747,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 3069.519998,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785376749,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1918.08,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785376785,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1052.8795209999998,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785376870,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-flu-bah-2026-07-29-spread-home-1pt5",
+    "title": "Spread: Fluminense FC (-1.5)",
+    "outcome": "EC Bahia",
+    "side": "BUY",
+    "usd": 1408.339993,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785376916,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "sud-cie-lan-2026-07-29-cie",
+    "title": "Will CS Cienciano win on 2026-07-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2487.4999980000002,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785376923,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-flu-bah-2026-07-29-flu",
+    "title": "Will Fluminense FC win on 2026-07-29?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1101.8700000000001,
+    "odds_at_bet": 63,
+    "status": "pending"
   }
 ]
