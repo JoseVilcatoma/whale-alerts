@@ -2302,5 +2302,17 @@
     "usd": 5657.1818,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785388460,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-svrcina-darderi-2026-07-30",
+    "title": "Los Cabos Open: Dalibor Svrcina vs Luciano Darderi",
+    "outcome": "Luciano Darderi",
+    "side": "BUY",
+    "usd": 4034.528,
+    "odds_at_bet": 32,
+    "status": "pending"
   }
 ]
