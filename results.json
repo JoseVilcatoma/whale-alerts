@@ -9,7 +9,7 @@
     "side": "BUY",
     "usd": 1631.578947,
     "odds_at_bet": 62,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785353630,
@@ -21,7 +21,7 @@
     "side": "BUY",
     "usd": 1458.9536,
     "odds_at_bet": 68,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785353659,
@@ -33,6 +33,54 @@
     "side": "BUY",
     "usd": 1587.6,
     "odds_at_bet": 63,
+    "status": "won"
+  },
+  {
+    "timestamp": 1785373522,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-kc-min-2026-07-29",
+    "title": "Kansas City Royals vs. Minnesota Twins",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "usd": 1346.3632,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785373556,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-flu-bah-2026-07-29-spread-home-1pt5",
+    "title": "Spread: Fluminense FC (-1.5)",
+    "outcome": "EC Bahia",
+    "side": "BUY",
+    "usd": 1333.64,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785373621,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-iac-pla-2026-07-29-pla",
+    "title": "Will CA Platense win on 2026-07-29?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1587.4499999999998,
+    "odds_at_bet": 95,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785373703,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-michels-mannari-2026-07-29",
+    "title": "Mubadala Citi DC Open: Alex Michelsen vs Adrian Mannarino",
+    "outcome": "Adrian Mannarino",
+    "side": "BUY",
+    "usd": 2203.078,
+    "odds_at_bet": 20,
     "status": "pending"
   }
 ]
