@@ -18610,5 +18610,17 @@
     "usd": 2464.88,
     "odds_at_bet": 88,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785482259,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-haita-andrees-2026-07-31",
+    "title": "ITF Pitesti: Stefan Horia Haita vs Stefan Adrian Andreescu",
+    "outcome": "Stefan Horia Haita",
+    "side": "BUY",
+    "usd": 1268.102,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]
