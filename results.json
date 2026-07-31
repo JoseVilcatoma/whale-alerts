@@ -25618,5 +25618,53 @@
     "usd": 1122.24,
     "odds_at_bet": 70,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785511243,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-l1ga-rnx-2026-07-31",
+    "title": "Dota 2: L1ga Team vs REKONIX (BO3) - Games of the Future Group D",
+    "outcome": "REKONIX",
+    "side": "BUY",
+    "usd": 1206.432,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785511264,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-1win-vg-2026-07-31-game2",
+    "title": "Dota 2: 1win vs Vici Gaming - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 2132.7172,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785511289,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-vit-th-2026-07-31-game1",
+    "title": "LoL: Team Vitality vs Team Heretics - Game 1 Winner",
+    "outcome": "Team Heretics",
+    "side": "BUY",
+    "usd": 2370.2376,
+    "odds_at_bet": 24,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785511294,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-l1ga-rnx-2026-07-31",
+    "title": "Dota 2: L1ga Team vs REKONIX (BO3) - Games of the Future Group D",
+    "outcome": "REKONIX",
+    "side": "BUY",
+    "usd": 1078.56,
+    "odds_at_bet": 70,
+    "status": "pending"
   }
 ]
