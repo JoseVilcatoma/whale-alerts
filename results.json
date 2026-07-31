@@ -16870,5 +16870,65 @@
     "usd": 6801.6321,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785463317,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-cor-cru-2026-07-30-draw",
+    "title": "Will Coritiba FBC vs. Cruzeiro EC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1597.3200000000002,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785463331,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-cor-cru-2026-07-30-draw",
+    "title": "Will Coritiba FBC vs. Cruzeiro EC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1594.89,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785463346,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-cor-cru-2026-07-30-cru",
+    "title": "Will Cruzeiro EC win on 2026-07-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2282.436,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785463355,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-cin-2026-07-30",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 1064.0,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785463365,
+    "username": "BreakTheBank",
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "slug": "mlb-sea-lad-2026-07-30",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 1028.3364,
+    "odds_at_bet": 42,
+    "status": "pending"
   }
 ]
