@@ -19078,5 +19078,29 @@
     "usd": 1126.0396,
     "odds_at_bet": 73,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785487669,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31",
+    "title": "LoL: Gen.G vs T1 (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 3263.4,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785487730,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-miyoshi-ursu-2026-07-31",
+    "title": "Samsun: Kenta Miyoshi vs Vadym Ursu",
+    "outcome": "Kenta Miyoshi",
+    "side": "BUY",
+    "usd": 1055.420481,
+    "odds_at_bet": 73,
+    "status": "pending"
   }
 ]
