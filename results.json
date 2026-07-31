@@ -20794,5 +20794,17 @@
     "usd": 2045.9808,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785494519,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-drx-2026-07-31",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1631.5726,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]
