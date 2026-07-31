@@ -20326,5 +20326,17 @@
     "usd": 3103.2032,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785492256,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-we-blg-2026-07-31",
+    "title": "LoL: Team WE vs Bilibili Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 19705.184282000002,
+    "odds_at_bet": 83,
+    "status": "pending"
   }
 ]
