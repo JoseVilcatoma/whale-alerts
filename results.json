@@ -38734,5 +38734,29 @@
     "usd": 1167.0392,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785539978,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-jodar-musetti-2026-07-31",
+    "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
+    "outcome": "Lorenzo Musetti",
+    "side": "BUY",
+    "usd": 2040.0000000000002,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785539983,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-mil-laa-2026-07-31-spread-home-1pt5",
+    "title": "Spread: Los Angeles Angels (-1.5)",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 1145.69,
+    "odds_at_bet": 25,
+    "status": "pending"
   }
 ]
