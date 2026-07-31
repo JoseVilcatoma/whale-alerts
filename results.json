@@ -14542,5 +14542,29 @@
     "usd": 1282.9552170000002,
     "odds_at_bet": 31,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785457522,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-shnaide-potapov-2026-07-30",
+    "title": "Mubadala Citi DC Open: Diana Shnaider vs Anastasia Potapova",
+    "outcome": "Diana Shnaider",
+    "side": "BUY",
+    "usd": 1887.7977899999998,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785457554,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-pit-cin-2026-07-30-total-7pt5",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1902.996,
+    "odds_at_bet": 45,
+    "status": "pending"
   }
 ]
