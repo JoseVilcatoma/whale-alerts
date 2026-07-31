@@ -31714,5 +31714,77 @@
     "usd": 2362.0293,
     "odds_at_bet": 51,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785524575,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-bc-bar-2026-07-31-bar",
+    "title": "Will FC Barcelona win on 2026-07-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1007.7879,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785524589,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-minaur-nakashi-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+    "outcome": "Alex de Minaur",
+    "side": "BUY",
+    "usd": 2539.8545449999997,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785524600,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-ari-cle-2026-07-31-total-8pt5",
+    "title": "Arizona Diamondbacks vs. Cleveland Guardians: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2637.0188,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785524611,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-minaur-nakashi-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+    "outcome": "Alex de Minaur",
+    "side": "BUY",
+    "usd": 2545.454545,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785524619,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-minaur-nakashi-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+    "outcome": "Alex de Minaur",
+    "side": "BUY",
+    "usd": 1350.1040000000003,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785524628,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-minaur-nakashi-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+    "outcome": "Alex de Minaur",
+    "side": "BUY",
+    "usd": 2467.5585450000003,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]

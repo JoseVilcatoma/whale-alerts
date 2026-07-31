@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 14:02:53 (hora de Perú)
+Actualizado: 2026-07-31 14:05:18 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -9,10 +9,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mooseborzoi | 1 | 0 | 6 | ⚠️ 100% (muestra chica: 1) |
 | swisstony | 304 | 59 | 75 | 84% |
 | cigarettes | 21 | 4 | 16 | 84% |
-| RN1 | 415 | 192 | 101 | 68% |
+| RN1 | 415 | 192 | 102 | 68% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 113 | 67 | 38 | 63% |
 | UpTheBlues | 22 | 15 | 36 | 59% |
-| ferrariChampions2026 | 323 | 234 | 317 | 58% |
+| ferrariChampions2026 | 323 | 234 | 321 | 58% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 9 | 7 | 0 | 56% |
 | sbsigner | 9 | 8 | 12 | 53% |
 | Eztennis | 28 | 30 | 0 | 48% |
@@ -20,7 +20,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BreakTheBank | 2 | 3 | 3 | ⚠️ 40% (muestra chica: 5) |
 | 1winstreak1 | 9 | 14 | 0 | 39% |
 | wr0ngw4yb3tt0r | 18 | 30 | 4 | 38% |
-| pleaseplease123 | 2 | 15 | 3 | 12% |
+| pleaseplease123 | 2 | 15 | 4 | 12% |
 | monkeymashingkeyboard | 1 | 11 | 4 | 8% |
 | pada | 0 | 0 | 5 | — |
 | Hauchn | 0 | 0 | 6 | — |
