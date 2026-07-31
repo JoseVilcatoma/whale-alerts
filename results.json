@@ -18850,5 +18850,101 @@
     "usd": 1754.8041,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785486234,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31-game1",
+    "title": "LoL: Gen.G vs T1 - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1200.0,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785486247,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31-game1",
+    "title": "LoL: Gen.G vs T1 - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1411.0154,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785486253,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31-game1",
+    "title": "LoL: Gen.G vs T1 - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1434.1344,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785486314,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31-game1",
+    "title": "LoL: Gen.G vs T1 - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1164.7071999999998,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785486315,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31-game1",
+    "title": "LoL: Gen.G vs T1 - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1164.7131,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785486338,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-ferrari-ghetu-2026-07-31",
+    "title": "ITF Pitesti: Francesco Ferrari vs Gabriel Ghetu",
+    "outcome": "Francesco Ferrari",
+    "side": "BUY",
+    "usd": 1196.85489,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785486344,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31-game1",
+    "title": "LoL: Gen.G vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 1000.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785486345,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31-game1",
+    "title": "LoL: Gen.G vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 1989.3999999999999,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]
