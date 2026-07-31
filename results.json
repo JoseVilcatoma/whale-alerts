@@ -18622,5 +18622,17 @@
     "usd": 1268.102,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785482389,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kumstat-sil-2026-07-31",
+    "title": "Liberec: Jan Kumstat vs Frederico Ferreira Silva",
+    "outcome": "Jan Kumstat",
+    "side": "BUY",
+    "usd": 1320.5024,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
