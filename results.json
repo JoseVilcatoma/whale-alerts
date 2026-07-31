@@ -37510,5 +37510,17 @@
     "usd": 1124.39,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785536448,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Alex Michelsen",
+    "side": "BUY",
+    "usd": 4492.7536230000005,
+    "odds_at_bet": 31,
+    "status": "pending"
   }
 ]
