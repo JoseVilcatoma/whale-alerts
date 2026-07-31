@@ -37762,5 +37762,41 @@
     "usd": 4183.54,
     "odds_at_bet": 40,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785537466,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-c9-loud-2026-07-31-game2",
+    "title": "Valorant: Cloud9 vs LOUD - Map 2 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 1151.7819,
+    "odds_at_bet": 19,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785537466,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-c9-loud-2026-07-31-game2",
+    "title": "Valorant: Cloud9 vs LOUD - Map 2 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 1088.6418,
+    "odds_at_bet": 18,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785537512,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-min-sea-2026-07-31",
+    "title": "Minnesota Twins vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 69662.6222,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
