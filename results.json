@@ -33394,5 +33394,41 @@
     "usd": 1355.7075,
     "odds_at_bet": 31,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785526659,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-bc-bar-2026-07-31-bar",
+    "title": "Will FC Barcelona win on 2026-07-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1733.62,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785526667,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-bc-bar-2026-07-31-bar",
+    "title": "Will FC Barcelona win on 2026-07-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1639.61,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785526679,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-cocciar-osaka-2026-07-31",
+    "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Naomi Osaka",
+    "outcome": "Elisabetta Cocciaretto",
+    "side": "BUY",
+    "usd": 2997.3320000000003,
+    "odds_at_bet": 26,
+    "status": "pending"
   }
 ]
