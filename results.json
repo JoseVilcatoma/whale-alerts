@@ -29278,5 +29278,89 @@
     "usd": 4149.0,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785520276,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-muller-poljica-2026-07-31",
+    "title": "San Marino: Alexandre Muller vs Mili Poljicak",
+    "outcome": "Alexandre Muller",
+    "side": "BUY",
+    "usd": 3352.7000000000003,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785520276,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-muller-poljica-2026-07-31",
+    "title": "San Marino: Alexandre Muller vs Mili Poljicak",
+    "outcome": "Alexandre Muller",
+    "side": "BUY",
+    "usd": 1796.922666,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785520276,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-muller-poljica-2026-07-31",
+    "title": "San Marino: Alexandre Muller vs Mili Poljicak",
+    "outcome": "Alexandre Muller",
+    "side": "BUY",
+    "usd": 7493.330000000001,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785520303,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-acosta-prado-2026-07-30",
+    "title": "San Marino: Facundo Acosta vs Juan Carlos Prado",
+    "outcome": "Facundo Acosta",
+    "side": "BUY",
+    "usd": 4557.6,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785520303,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-acosta-prado-2026-07-30",
+    "title": "San Marino: Facundo Acosta vs Juan Carlos Prado",
+    "outcome": "Facundo Acosta",
+    "side": "BUY",
+    "usd": 3063.6,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785520306,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 1562.3999999999999,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785520337,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-xtreme-lgd-2026-07-31-game1",
+    "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 1 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1102.4564,
+    "odds_at_bet": 50,
+    "status": "pending"
   }
 ]
