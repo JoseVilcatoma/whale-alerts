@@ -16090,5 +16090,17 @@
     "usd": 9852.4265,
     "odds_at_bet": 85,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785461556,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-cor-cru-2026-07-30-total-0pt5",
+    "title": "Coritiba FBC vs. Cruzeiro EC: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1228.5,
+    "odds_at_bet": 75,
+    "status": "pending"
   }
 ]
