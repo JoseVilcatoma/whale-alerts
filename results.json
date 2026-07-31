@@ -14446,5 +14446,41 @@
     "usd": 1397.9399999999998,
     "odds_at_bet": 69,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785456812,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ugo Humbert",
+    "side": "BUY",
+    "usd": 1443.9209999999998,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785456884,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 1604.148948,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785456904,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-cor1-cap-2026-07-30-cor1",
+    "title": "Will SC Corinthians Paulista win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2481.839998,
+    "odds_at_bet": 82,
+    "status": "pending"
   }
 ]
