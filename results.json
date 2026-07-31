@@ -15130,5 +15130,77 @@
     "usd": 1073.8,
     "odds_at_bet": 91,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785459465,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mia-nym-2026-07-30",
+    "title": "Miami Marlins vs. New York Mets",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 1315.2363630000002,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785459476,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ugo Humbert",
+    "side": "BUY",
+    "usd": 2631.91,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785459481,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-regain-cce-2026-07-30",
+    "title": "Counter-Strike: regain vs Chicken Coop Esports (BO3) - StarLadder StarSeries North American Qualifier Playoffs",
+    "outcome": "Chicken Coop Esports",
+    "side": "BUY",
+    "usd": 1096.2,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785459488,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 4204.699998,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785459496,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 4052.4,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785459497,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 1000.035,
+    "odds_at_bet": 71,
+    "status": "pending"
   }
 ]
