@@ -10461,7 +10461,7 @@
     "side": "BUY",
     "usd": 1662.0,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785446098,
@@ -11013,7 +11013,7 @@
     "side": "BUY",
     "usd": 2708.1442999999995,
     "odds_at_bet": 41,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785447727,
@@ -14301,7 +14301,7 @@
     "side": "BUY",
     "usd": 2341.36,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785456251,
@@ -15465,7 +15465,7 @@
     "side": "BUY",
     "usd": 1100.8,
     "odds_at_bet": 86,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785460516,
@@ -16401,7 +16401,7 @@
     "side": "BUY",
     "usd": 7705.6,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785462178,
@@ -16413,7 +16413,7 @@
     "side": "BUY",
     "usd": 8008.3392,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785462184,
@@ -16485,7 +16485,7 @@
     "side": "BUY",
     "usd": 11250.0,
     "odds_at_bet": 75,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785462204,
@@ -16497,7 +16497,7 @@
     "side": "BUY",
     "usd": 9880.4175,
     "odds_at_bet": 75,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785462205,
@@ -16605,7 +16605,7 @@
     "side": "BUY",
     "usd": 1303.5,
     "odds_at_bet": 79,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785462403,
@@ -18021,6 +18021,30 @@
     "side": "BUY",
     "usd": 3796.29036,
     "odds_at_bet": 95,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785471793,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sea-lad-2026-07-30-total-9pt5",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2254.7826,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785471820,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-shapova-svrcina-2026-07-30",
+    "title": "Los Cabos Open: Denis Shapovalov vs Dalibor Svrcina",
+    "outcome": "Dalibor Svrcina",
+    "side": "BUY",
+    "usd": 1231.44,
+    "odds_at_bet": 28,
     "status": "pending"
   }
 ]
