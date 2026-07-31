@@ -23818,5 +23818,29 @@
     "usd": 1029.2,
     "odds_at_bet": 62,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785504658,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "mex-asl-tij-2026-07-31-asl",
+    "title": "Will Atl\u00e9tico San Luis win on 2026-07-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2358.0899999999997,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785504660,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mex-asl-tij-2026-07-31-asl",
+    "title": "Will Atl\u00e9tico San Luis win on 2026-07-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2849.9999999999995,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
