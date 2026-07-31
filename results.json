@@ -30874,5 +30874,65 @@
     "usd": 1716.8704,
     "odds_at_bet": 76,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785523225,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "nor-bog-lil-2026-07-31-total-0pt5",
+    "title": "FK Bod\u00f8/Glimt vs. Lillestr\u00f8m SK: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1890.929992,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785523226,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "nor-bog-lil-2026-07-31-total-0pt5",
+    "title": "FK Bod\u00f8/Glimt vs. Lillestr\u00f8m SK: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2569.599984,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785523230,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game2",
+    "title": "Counter-Strike: paiN vs Astralis - Map 2 Winner",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 1339.58,
+    "odds_at_bet": 22,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785523233,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game2",
+    "title": "Counter-Strike: paiN vs Astralis - Map 2 Winner",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 1041.6792,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785523233,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game2",
+    "title": "Counter-Strike: paiN vs Astralis - Map 2 Winner",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 1307.1014999999998,
+    "odds_at_bet": 69,
+    "status": "pending"
   }
 ]
