@@ -33682,5 +33682,77 @@
     "usd": 1273.25,
     "odds_at_bet": 25,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785527965,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-cocciar-osaka-2026-07-31",
+    "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Naomi Osaka",
+    "outcome": "Naomi Osaka",
+    "side": "BUY",
+    "usd": 1857.2864000000002,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785527974,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mia-nym-2026-07-31",
+    "title": "Miami Marlins vs. New York Mets",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 19405.160300000003,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785528009,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col1-foc-dep-2026-07-31-total-5pt5",
+    "title": "Fortaleza CEIF vs. Deportivo Pereira: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1132.5123199999998,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785528023,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-nyy-chc-2026-07-31",
+    "title": "New York Yankees vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 1800.6264,
+    "odds_at_bet": 17,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785528052,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-cocciar-osaka-2026-07-31",
+    "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Naomi Osaka",
+    "outcome": "Elisabetta Cocciaretto",
+    "side": "BUY",
+    "usd": 1079.6016,
+    "odds_at_bet": 21,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785528063,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mia-nym-2026-07-31-total-8pt5",
+    "title": "Miami Marlins vs. New York Mets: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1637.7630000000001,
+    "odds_at_bet": 51,
+    "status": "pending"
   }
 ]
