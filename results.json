@@ -33670,5 +33670,17 @@
     "usd": 1350.0,
     "odds_at_bet": 90,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785527942,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "clf-bc-bar-2026-07-31-total-2pt5",
+    "title": "Birmingham City vs. FC Barcelona: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1273.25,
+    "odds_at_bet": 25,
+    "status": "pending"
   }
 ]
