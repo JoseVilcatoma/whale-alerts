@@ -14530,5 +14530,17 @@
     "usd": 2861.0252000000005,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785457360,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-stephen-vidmano-2026-07-30",
+    "title": "The Memphis Classic: Sloane Stephens vs Darja Vidmanova",
+    "outcome": "Sloane Stephens",
+    "side": "BUY",
+    "usd": 1282.9552170000002,
+    "odds_at_bet": 31,
+    "status": "pending"
   }
 ]
