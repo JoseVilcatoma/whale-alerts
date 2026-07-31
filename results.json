@@ -16930,5 +16930,29 @@
     "usd": 1028.3364,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785463390,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "sud-ohi-boc-2026-07-30-spread-away-2pt5",
+    "title": "Spread: CA Boca Juniors (-2.5)",
+    "outcome": "O'Higgins FC",
+    "side": "BUY",
+    "usd": 1528.47,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785463504,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "sud-ohi-boc-2026-07-30-btts",
+    "title": "O'Higgins FC vs. CA Boca Juniors: Both Teams to Score",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1071.409998,
+    "odds_at_bet": 72,
+    "status": "pending"
   }
 ]
