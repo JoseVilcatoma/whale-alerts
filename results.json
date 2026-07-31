@@ -28702,5 +28702,53 @@
     "usd": 1986.312,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785519120,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-bb4-liquid-2026-07-31-game2",
+    "title": "Dota 2: BetBoom Team vs Team Liquid - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 1389.586,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785519124,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-bb4-liquid-2026-07-31-game2",
+    "title": "Dota 2: BetBoom Team vs Team Liquid - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 1316.42,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785519141,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-bb4-liquid-2026-07-31-game2",
+    "title": "Dota 2: BetBoom Team vs Team Liquid - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 1157.856,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785519165,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game2",
+    "title": "Counter-Strike: paiN vs Astralis - Map 2 Winner",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 1774.1293329999999,
+    "odds_at_bet": 79,
+    "status": "pending"
   }
 ]
