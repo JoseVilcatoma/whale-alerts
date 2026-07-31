@@ -37354,5 +37354,41 @@
     "usd": 5450.7376,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785535727,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 2639.52,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785535727,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 1544.8512,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785535781,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cws-tb-2026-07-31-total-8pt5",
+    "title": "Chicago White Sox vs. Tampa Bay Rays: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 3510.7099989999997,
+    "odds_at_bet": 51,
+    "status": "pending"
   }
 ]
