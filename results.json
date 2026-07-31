@@ -31006,5 +31006,17 @@
     "usd": 1142.142857,
     "odds_at_bet": 65,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785523433,
+    "username": "0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028",
+    "wallet": "0x27c5c1eee404a07f39fe70078aff815e5a656d61",
+    "slug": "atp-jodar-musetti-2026-07-31",
+    "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
+    "outcome": "Lorenzo Musetti",
+    "side": "BUY",
+    "usd": 9999.999998999998,
+    "odds_at_bet": 37,
+    "status": "pending"
   }
 ]
