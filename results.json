@@ -28270,5 +28270,101 @@
     "usd": 1784.874,
     "odds_at_bet": 93,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785518495,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 1298.0724000000002,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785518505,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-pegula-kalinsk-2026-07-31",
+    "title": "Mubadala Citi DC Open: Jessica Pegula vs Anna Kalinskaya",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "usd": 9344.79,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785518512,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-gm-2026-07-31",
+    "title": "Valorant: BBL Esports vs Gentle Mates (BO3) - VCT EMEA Group Alpha",
+    "outcome": "Gentle Mates",
+    "side": "BUY",
+    "usd": 3791.62,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785518515,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-gm-2026-07-31",
+    "title": "Valorant: BBL Esports vs Gentle Mates (BO3) - VCT EMEA Group Alpha",
+    "outcome": "Gentle Mates",
+    "side": "BUY",
+    "usd": 3740.52,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785518518,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-gm-2026-07-31",
+    "title": "Valorant: BBL Esports vs Gentle Mates (BO3) - VCT EMEA Group Alpha",
+    "outcome": "Gentle Mates",
+    "side": "BUY",
+    "usd": 3740.52,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785518541,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-muller-poljica-2026-07-31",
+    "title": "San Marino: Alexandre Muller vs Mili Poljicak",
+    "outcome": "Alexandre Muller",
+    "side": "BUY",
+    "usd": 7723.9007,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785518563,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game2",
+    "title": "Counter-Strike: paiN vs Astralis - Map 2 Winner",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 5292.0105,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785518569,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 9223.2122,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
