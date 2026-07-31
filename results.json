@@ -32098,5 +32098,65 @@
     "usd": 1026.7215379999998,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785525397,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "hr1-din-sla-2026-08-01-total-2pt5",
+    "title": "GNK Dinamo Zagreb vs. NK Slaven Belupo: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1085.7132,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785525445,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1200.8,
+    "odds_at_bet": 95,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785525517,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-xtreme-lgd-2026-07-31-game2",
+    "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1016.5959999999999,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785525521,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 3800.0,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785525531,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-xtreme-lgd-2026-07-31-game2",
+    "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1034.86,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]

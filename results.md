@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 14:16:22 (hora de Perú)
+Actualizado: 2026-07-31 14:18:53 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -9,10 +9,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mooseborzoi | 1 | 0 | 6 | ⚠️ 100% (muestra chica: 1) |
 | swisstony | 304 | 59 | 78 | 84% |
 | cigarettes | 21 | 4 | 16 | 84% |
-| RN1 | 415 | 192 | 105 | 68% |
+| RN1 | 415 | 192 | 106 | 68% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 113 | 67 | 39 | 63% |
-| UpTheBlues | 22 | 15 | 36 | 59% |
-| ferrariChampions2026 | 323 | 234 | 340 | 58% |
+| UpTheBlues | 22 | 15 | 37 | 59% |
+| ferrariChampions2026 | 323 | 234 | 342 | 58% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 9 | 7 | 0 | 56% |
 | sbsigner | 9 | 8 | 12 | 53% |
 | Eztennis | 28 | 30 | 0 | 48% |
@@ -28,6 +28,6 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | balthazar | 0 | 0 | 17 | — |
 | Sparkling8899 | 0 | 0 | 4 | — |
 | Djdjdjekekek | 0 | 0 | 8 | — |
-| PASSTHEMONEY | 0 | 0 | 4 | — |
+| PASSTHEMONEY | 0 | 0 | 5 | — |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 1 | — |
 | Talvez10 | 0 | 0 | 1 | — |
