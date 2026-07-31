@@ -33886,5 +33886,89 @@
     "usd": 1133.8362,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785528463,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 1880.296214,
+    "odds_at_bet": 33,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785528475,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 1043.28,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785528485,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 1694.8207799999998,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785528507,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-spo-nfo-2026-07-31-spo",
+    "title": "Will Sporting CP win on 2026-07-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1341.8424,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785528509,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-chopra-tudoric-2026-07-31",
+    "title": "ITF Huamantla: Keshav Chopra vs Alvin Nicholas Tudorica",
+    "outcome": "Keshav Chopra",
+    "side": "BUY",
+    "usd": 2445.57,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785528575,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 6016.5723499999995,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785528575,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 10043.77765,
+    "odds_at_bet": 63,
+    "status": "pending"
   }
 ]
