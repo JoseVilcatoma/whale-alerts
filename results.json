@@ -26362,5 +26362,29 @@
     "usd": 6178.55,
     "odds_at_bet": 97,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785514261,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "cricodc-der-gla-2026-07-31",
+    "title": "Metro Bank One Day Cup: Derbyshire vs Glamorgan",
+    "outcome": "Derbyshire",
+    "side": "BUY",
+    "usd": 7954.821428,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785514303,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 1222.628,
+    "odds_at_bet": 44,
+    "status": "pending"
   }
 ]
