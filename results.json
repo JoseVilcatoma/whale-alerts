@@ -17890,5 +17890,17 @@
     "usd": 1225.806451,
     "odds_at_bet": 38,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785470967,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sea-lad-2026-07-30",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 1449.0,
+    "odds_at_bet": 97,
+    "status": "pending"
   }
 ]
