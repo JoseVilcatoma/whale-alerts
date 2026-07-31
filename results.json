@@ -19054,5 +19054,17 @@
     "usd": 1723.733103,
     "odds_at_bet": 71,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785487496,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-miyoshi-ursu-2026-07-31",
+    "title": "Samsun: Kenta Miyoshi vs Vadym Ursu",
+    "outcome": "Kenta Miyoshi",
+    "side": "BUY",
+    "usd": 2250.0,
+    "odds_at_bet": 75,
+    "status": "pending"
   }
 ]
