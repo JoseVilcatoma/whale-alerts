@@ -15454,5 +15454,41 @@
     "usd": 1038.639014,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785460514,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-bst-gls1-2026-07-30",
+    "title": "Counter-Strike: BESTIA vs Galorys (BO3) - StarLadder StarSeries South American Qualifier Playoffs",
+    "outcome": "BESTIA",
+    "side": "BUY",
+    "usd": 1100.8,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785460516,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-wsh-atl-2026-07-30-total-10pt5",
+    "title": "Washington Nationals vs. Atlanta Braves: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1148.3999999999999,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785460516,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-wsh-atl-2026-07-30-total-9pt5",
+    "title": "Washington Nationals vs. Atlanta Braves: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2573.4574500000003,
+    "odds_at_bet": 68,
+    "status": "pending"
   }
 ]
