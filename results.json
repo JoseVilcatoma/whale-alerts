@@ -36130,5 +36130,41 @@
     "usd": 1080.0,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785532363,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 1272.0025629999998,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785532417,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-preston-sawangk-2026-07-31",
+    "title": "Vancouver: Taylah Preston vs Mananchaya Sawangkaew",
+    "outcome": "Mananchaya Sawangkaew",
+    "side": "BUY",
+    "usd": 3182.5909,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785532426,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-chopra-tudoric-2026-07-31",
+    "title": "ITF Huamantla: Keshav Chopra vs Alvin Nicholas Tudorica",
+    "outcome": "Alvin Nicholas Tudorica",
+    "side": "BUY",
+    "usd": 2341.17,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]
