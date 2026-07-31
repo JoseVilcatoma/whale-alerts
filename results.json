@@ -17914,5 +17914,65 @@
     "usd": 1794.4599999999998,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785471202,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-sea-lad-2026-07-30-total-8pt5",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1473.0,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785471202,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sea-lad-2026-07-30-total-8pt5",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 4926.692306999999,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785471202,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-sf-sd-2026-07-30",
+    "title": "San Francisco Giants vs. San Diego Padres",
+    "outcome": "San Francisco Giants",
+    "side": "BUY",
+    "usd": 1095.1,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785471208,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-shapova-svrcina-2026-07-30",
+    "title": "Los Cabos Open: Denis Shapovalov vs Dalibor Svrcina",
+    "outcome": "Dalibor Svrcina",
+    "side": "BUY",
+    "usd": 2216.9371,
+    "odds_at_bet": 31,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785471211,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-shapova-svrcina-2026-07-30",
+    "title": "Los Cabos Open: Denis Shapovalov vs Dalibor Svrcina",
+    "outcome": "Dalibor Svrcina",
+    "side": "BUY",
+    "usd": 1356.8049,
+    "odds_at_bet": 31,
+    "status": "pending"
   }
 ]
