@@ -26266,5 +26266,41 @@
     "usd": 4995.0,
     "odds_at_bet": 90,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785513747,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-muller-poljica-2026-07-31",
+    "title": "San Marino: Alexandre Muller vs Mili Poljicak",
+    "outcome": "Mili Poljicak",
+    "side": "BUY",
+    "usd": 1064.0,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785513805,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "cricodc-der-gla-2026-07-31",
+    "title": "Metro Bank One Day Cup: Derbyshire vs Glamorgan",
+    "outcome": "Derbyshire",
+    "side": "BUY",
+    "usd": 1227.3032799999999,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785513838,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-thomson-kuhar-2026-07-31",
+    "title": "ITF Huamantla: Matthew Thomson vs Matt Kuhar",
+    "outcome": "Matthew Thomson",
+    "side": "BUY",
+    "usd": 1152.82,
+    "odds_at_bet": 50,
+    "status": "pending"
   }
 ]
