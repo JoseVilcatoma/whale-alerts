@@ -20950,5 +20950,29 @@
     "usd": 1691.5,
     "odds_at_bet": 85,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785495305,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kouzmin-manas-2026-07-31",
+    "title": "Samsun: Constantin Bittoun Kouzmine vs Manoj Dhamne Manas",
+    "outcome": "Constantin Bittoun Kouzmine",
+    "side": "BUY",
+    "usd": 2766.7656,
+    "odds_at_bet": 24,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785495305,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-kouzmin-manas-2026-07-31",
+    "title": "Samsun: Constantin Bittoun Kouzmine vs Manoj Dhamne Manas",
+    "outcome": "Constantin Bittoun Kouzmine",
+    "side": "BUY",
+    "usd": 1166.3999999999999,
+    "odds_at_bet": 24,
+    "status": "pending"
   }
 ]
