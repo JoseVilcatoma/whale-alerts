@@ -15118,5 +15118,17 @@
     "usd": 1829.2,
     "odds_at_bet": 40,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785459273,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-wsh-atl-2026-07-30-spread-away-1pt5",
+    "title": "Spread: Washington Nationals (-1.5)",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 1073.8,
+    "odds_at_bet": 91,
+    "status": "pending"
   }
 ]
