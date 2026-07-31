@@ -15058,5 +15058,65 @@
     "usd": 11519.949999,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785459152,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-cin-2026-07-30",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 3523.1,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785459165,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ugo Humbert",
+    "side": "BUY",
+    "usd": 5187.6900000000005,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785459220,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-bonzi-friend-2026-07-30",
+    "title": "Vancouver: Benjamin Bonzi vs Jay Dylan Friend",
+    "outcome": "Benjamin Bonzi",
+    "side": "BUY",
+    "usd": 4362.6688,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785459249,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-100t1-sen-2026-07-30",
+    "title": "Valorant: 100 Thieves vs Sentinels (BO3) - VCT Americas Stage 2 Group Omega",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 1020.0,
+    "odds_at_bet": 20,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785459269,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ugo Humbert",
+    "side": "BUY",
+    "usd": 1829.2,
+    "odds_at_bet": 40,
+    "status": "pending"
   }
 ]
