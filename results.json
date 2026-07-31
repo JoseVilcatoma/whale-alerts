@@ -30538,5 +30538,17 @@
     "usd": 2010.7357829999999,
     "odds_at_bet": 52,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785522336,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-mkoi-shft-2026-07-31-game2",
+    "title": "LoL: Movistar KOI vs Shifters - Game 2 Winner",
+    "outcome": "Shifters",
+    "side": "BUY",
+    "usd": 1568.82,
+    "odds_at_bet": 11,
+    "status": "pending"
   }
 ]
