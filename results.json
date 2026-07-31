@@ -25174,5 +25174,89 @@
     "usd": 1224.137931,
     "odds_at_bet": 71,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785510495,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-l1ga-rnx-2026-07-31",
+    "title": "Dota 2: L1ga Team vs REKONIX (BO3) - Games of the Future Group D",
+    "outcome": "REKONIX",
+    "side": "BUY",
+    "usd": 1344.822222,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510519,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "rou1-fap-fcm-2026-07-31-first-half-total-1pt5",
+    "title": "FC Arge\u0219 Pite\u0219ti vs. FK Cs\u00edkszereda Miercurea Ciuc: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2349.011,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510548,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-gombos-feldbau-2026-07-31",
+    "title": "Liberec: Norbert Gombos vs Kilian Feldbausch",
+    "outcome": "Kilian Feldbausch",
+    "side": "BUY",
+    "usd": 3156.78,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510548,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-gombos-feldbau-2026-07-31",
+    "title": "Liberec: Norbert Gombos vs Kilian Feldbausch",
+    "outcome": "Kilian Feldbausch",
+    "side": "BUY",
+    "usd": 7608.612000000001,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510548,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-gombos-feldbau-2026-07-31",
+    "title": "Liberec: Norbert Gombos vs Kilian Feldbausch",
+    "outcome": "Kilian Feldbausch",
+    "side": "BUY",
+    "usd": 1834.443,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510583,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-1win-vg-2026-07-31-game2",
+    "title": "Dota 2: 1win vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "usd": 1255.968,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510598,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-alexa-artnak-2026-07-31",
+    "title": "ITF Pitesti: Yannick Theodor Alexandrescou vs Bor Artnak",
+    "outcome": "Bor Artnak",
+    "side": "BUY",
+    "usd": 1640.0,
+    "odds_at_bet": 82,
+    "status": "pending"
   }
 ]
