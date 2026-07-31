@@ -23314,5 +23314,17 @@
     "usd": 2124.933333,
     "odds_at_bet": 40,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785501997,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-bb4-mouz-2026-07-31-game2",
+    "title": "Dota 2: BetBoom Team vs MOUZ - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 2010.96,
+    "odds_at_bet": 63,
+    "status": "pending"
   }
 ]
