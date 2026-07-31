@@ -18658,5 +18658,17 @@
     "usd": 1128.0,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785483392,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1212.0579,
+    "odds_at_bet": 87,
+    "status": "pending"
   }
 ]
