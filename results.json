@@ -37894,5 +37894,53 @@
     "usd": 25147.472,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785537767,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-ari-cle-2026-07-31",
+    "title": "Arizona Diamondbacks vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 1654.5454540000003,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785537769,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tex-hou-2026-07-31-total-7pt5",
+    "title": "Texas Rangers vs. Houston Astros: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 15000.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785537837,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-kalieva-stearns-2026-07-31",
+    "title": "The Memphis Classic: Elvina Kalieva vs Peyton Stearns",
+    "outcome": "Elvina Kalieva",
+    "side": "BUY",
+    "usd": 2093.7848,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785537884,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-min-sea-2026-07-31",
+    "title": "Minnesota Twins vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 39603.1581,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
