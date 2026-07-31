@@ -19102,5 +19102,17 @@
     "usd": 1055.420481,
     "odds_at_bet": 73,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785487843,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-papoe-papo-2026-07-31",
+    "title": "ITF Pitesti: Cezar Gabriel Papoe vs Radu Mihai Papoe",
+    "outcome": "Radu Mihai Papoe",
+    "side": "BUY",
+    "usd": 1474.438163,
+    "odds_at_bet": 95,
+    "status": "pending"
   }
 ]
