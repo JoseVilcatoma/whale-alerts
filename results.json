@@ -14482,5 +14482,29 @@
     "usd": 2481.839998,
     "odds_at_bet": 82,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785456941,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-conn-chi-2026-07-30-total-177pt5",
+    "title": "Connecticut Sun vs. Chicago Sky: O/U 177.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1129.7636,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785456955,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-wsh-atl-2026-07-30",
+    "title": "Washington Nationals vs. Atlanta Braves",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 8925.0,
+    "odds_at_bet": 70,
+    "status": "pending"
   }
 ]
