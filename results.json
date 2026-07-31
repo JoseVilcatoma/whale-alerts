@@ -23974,5 +23974,41 @@
     "usd": 2040.8934000000002,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785505480,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "rou1-fap-fcm-2026-07-31-first-half-total-1pt5",
+    "title": "FC Arge\u0219 Pite\u0219ti vs. FK Cs\u00edkszereda Miercurea Ciuc: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2065.1699999999996,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785505507,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30-game2",
+    "title": "Counter-Strike: FaZe vs TheMongolz - Map 2 Winner",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 5547.8944,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785505530,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "rou1-fap-fcm-2026-07-31-first-half-total-1pt5",
+    "title": "FC Arge\u0219 Pite\u0219ti vs. FK Cs\u00edkszereda Miercurea Ciuc: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1384.83,
+    "odds_at_bet": 69,
+    "status": "pending"
   }
 ]
