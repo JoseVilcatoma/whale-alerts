@@ -26122,5 +26122,77 @@
     "usd": 1204.8,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785513397,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-muller-poljica-2026-07-31",
+    "title": "San Marino: Alexandre Muller vs Mili Poljicak",
+    "outcome": "Alexandre Muller",
+    "side": "BUY",
+    "usd": 6801.6321,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785513402,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-muller-poljica-2026-07-31",
+    "title": "San Marino: Alexandre Muller vs Mili Poljicak",
+    "outcome": "Alexandre Muller",
+    "side": "BUY",
+    "usd": 3266.2518,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785513413,
+    "username": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+    "wallet": "0x1b20a00709dfe648afd26b326394b5e031f83ab0",
+    "slug": "mlb-nyy-chc-2026-07-31-total-9pt5",
+    "title": "New York Yankees vs. Chicago Cubs: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 12673.7676,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785513418,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-muller-poljica-2026-07-31",
+    "title": "San Marino: Alexandre Muller vs Mili Poljicak",
+    "outcome": "Alexandre Muller",
+    "side": "BUY",
+    "usd": 2946.2999999999997,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785513427,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "crichundredw-man-tre-2026-07-31",
+    "title": "The Hundred, Women: Manchester Super Giants vs Trent Rockets",
+    "outcome": "Trent Rockets",
+    "side": "BUY",
+    "usd": 2112.0,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785513439,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-pegula-kalinsk-2026-07-31",
+    "title": "Mubadala Citi DC Open: Jessica Pegula vs Anna Kalinskaya",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "usd": 2520.0,
+    "odds_at_bet": 72,
+    "status": "pending"
   }
 ]
