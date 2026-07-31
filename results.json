@@ -23626,5 +23626,53 @@
     "usd": 1673.9130430000002,
     "odds_at_bet": 77,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785503617,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30",
+    "title": "Counter-Strike: FaZe vs TheMongolz (BO3) - BLAST Bounty Playoffs",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 1918.4825000000003,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785503617,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "cs2-faze-mglz-2026-07-30",
+    "title": "Counter-Strike: FaZe vs TheMongolz (BO3) - BLAST Bounty Playoffs",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 2069.5077,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785503627,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30",
+    "title": "Counter-Strike: FaZe vs TheMongolz (BO3) - BLAST Bounty Playoffs",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 6804.010800000001,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785503639,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30-game1",
+    "title": "Counter-Strike: FaZe vs TheMongolz - Map 1 Winner",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 1707.1135319999999,
+    "odds_at_bet": 67,
+    "status": "pending"
   }
 ]
