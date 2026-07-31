@@ -20638,5 +20638,41 @@
     "usd": 1452.3600000000001,
     "odds_at_bet": 65,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785493785,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-we-blg-2026-07-31-game2",
+    "title": "LoL: Team WE vs Bilibili Gaming - Game 2 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 1201.712,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785493835,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-we-blg-2026-07-31",
+    "title": "LoL: Team WE vs Bilibili Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 2210.8536000000004,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785493839,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-we-blg-2026-07-31",
+    "title": "LoL: Team WE vs Bilibili Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 1345.04,
+    "odds_at_bet": 86,
+    "status": "pending"
   }
 ]
