@@ -25798,5 +25798,29 @@
     "usd": 2310.0,
     "odds_at_bet": 66,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785512263,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-l1ga-rnx-2026-07-31",
+    "title": "Dota 2: L1ga Team vs REKONIX (BO3) - Games of the Future Group D",
+    "outcome": "REKONIX",
+    "side": "BUY",
+    "usd": 1249.44,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785512298,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-muller-poljica-2026-07-31",
+    "title": "San Marino: Alexandre Muller vs Mili Poljicak",
+    "outcome": "Alexandre Muller",
+    "side": "BUY",
+    "usd": 2104.0,
+    "odds_at_bet": 40,
+    "status": "pending"
   }
 ]
