@@ -37738,5 +37738,29 @@
     "usd": 1597.9988,
     "odds_at_bet": 38,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785537163,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-rice-lajal-2026-07-31",
+    "title": "Vancouver: Keegan Rice vs Mark Lajal",
+    "outcome": "Mark Lajal",
+    "side": "BUY",
+    "usd": 1406.353548,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785537199,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Alex Michelsen",
+    "side": "BUY",
+    "usd": 4183.54,
+    "odds_at_bet": 40,
+    "status": "pending"
   }
 ]
