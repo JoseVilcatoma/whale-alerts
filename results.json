@@ -22342,5 +22342,29 @@
     "usd": 3642.8571420000003,
     "odds_at_bet": 51,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785498886,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-almeida-gomez-2026-07-31",
+    "title": "Bonn: Matheus Pucinelli de Almeida vs Federico Agustin Gomez",
+    "outcome": "Matheus Pucinelli de Almeida",
+    "side": "BUY",
+    "usd": 2651.94,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785498898,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kouzmin-manas-2026-07-31",
+    "title": "Samsun: Constantin Bittoun Kouzmine vs Manoj Dhamne Manas",
+    "outcome": "Constantin Bittoun Kouzmine",
+    "side": "BUY",
+    "usd": 1469.1,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
