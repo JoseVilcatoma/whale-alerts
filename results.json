@@ -17290,5 +17290,17 @@
     "usd": 9683.6712,
     "odds_at_bet": 84,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785465184,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-mia-nym-2026-07-30",
+    "title": "Miami Marlins vs. New York Mets",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 1022.5500000000001,
+    "odds_at_bet": 51,
+    "status": "pending"
   }
 ]
