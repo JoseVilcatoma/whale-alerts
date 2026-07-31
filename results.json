@@ -37522,5 +37522,41 @@
     "usd": 4492.7536230000005,
     "odds_at_bet": 31,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785536588,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tex-hou-2026-07-31-total-7pt5",
+    "title": "Texas Rangers vs. Houston Astros: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 3551.34,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785536588,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tex-hou-2026-07-31-total-7pt5",
+    "title": "Texas Rangers vs. Houston Astros: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 3551.34,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785536741,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Alex Michelsen",
+    "side": "BUY",
+    "usd": 1551.6378,
+    "odds_at_bet": 43,
+    "status": "pending"
   }
 ]
