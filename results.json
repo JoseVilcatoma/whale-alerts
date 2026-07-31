@@ -23458,5 +23458,65 @@
     "usd": 12200.0,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785502510,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-almeida-gomez-2026-07-31",
+    "title": "Bonn: Matheus Pucinelli de Almeida vs Federico Agustin Gomez",
+    "outcome": "Matheus Pucinelli de Almeida",
+    "side": "BUY",
+    "usd": 6801.6321,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785502559,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-matsuda-debru-2026-07-31",
+    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "side": "BUY",
+    "usd": 1944.4886999999999,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785502568,
+    "username": "Sparkling8899",
+    "wallet": "0x2e25b222e2080c377fc1fb2b9f926315f0f4d49e",
+    "slug": "mex-jua-pum-2026-07-31-total-2pt5",
+    "title": "FC Ju\u00e1rez vs. Pumas de la UNAM: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2519.4912,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785502581,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-almeida-gomez-2026-07-31",
+    "title": "Bonn: Matheus Pucinelli de Almeida vs Federico Agustin Gomez",
+    "outcome": "Matheus Pucinelli de Almeida",
+    "side": "BUY",
+    "usd": 2897.49,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785502581,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-almeida-gomez-2026-07-31",
+    "title": "Bonn: Matheus Pucinelli de Almeida vs Federico Agustin Gomez",
+    "outcome": "Matheus Pucinelli de Almeida",
+    "side": "BUY",
+    "usd": 3140.2821950000002,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
