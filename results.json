@@ -24586,5 +24586,29 @@
     "usd": 1481.492878,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785507506,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-matsuda-debru-2026-07-31",
+    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+    "outcome": "Koki Matsuda",
+    "side": "BUY",
+    "usd": 1885.6778510000001,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785507509,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-michals-zielins-2026-07-31",
+    "title": "ITF Koszalin: Daniel Michalski vs Marcel Zielinski",
+    "outcome": "Daniel Michalski",
+    "side": "BUY",
+    "usd": 1918.842542,
+    "odds_at_bet": 94,
+    "status": "pending"
   }
 ]
