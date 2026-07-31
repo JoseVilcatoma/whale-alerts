@@ -27430,5 +27430,65 @@
     "usd": 4157.177142,
     "odds_at_bet": 72,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785516667,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-tormo-bronzet-2026-07-31",
+    "title": "Targu Mures: Sara Sorribes Tormo vs Lucia Bronzetti",
+    "outcome": "Lucia Bronzetti",
+    "side": "BUY",
+    "usd": 1164.7040000000002,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785516676,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game1",
+    "title": "Counter-Strike: paiN vs Astralis - Map 1 Winner",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 1292.13,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785516676,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game1",
+    "title": "Counter-Strike: paiN vs Astralis - Map 1 Winner",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 1292.13,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785516691,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game1",
+    "title": "Counter-Strike: paiN vs Astralis - Map 1 Winner",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 3205.12,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785516691,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game1",
+    "title": "Counter-Strike: paiN vs Astralis - Map 1 Winner",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 4807.68,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]
