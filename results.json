@@ -15346,5 +15346,29 @@
     "usd": 1100.0,
     "odds_at_bet": 11,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785460009,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-cor-cru-2026-07-30-cor",
+    "title": "Will Coritiba FBC win on 2026-07-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1082.8672000000001,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785460019,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 18761.8736,
+    "odds_at_bet": 94,
+    "status": "pending"
   }
 ]
