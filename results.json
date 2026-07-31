@@ -17782,5 +17782,41 @@
     "usd": 1500.0,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785469398,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-nyl-las-2026-07-30",
+    "title": "New York Liberty vs. Las Vegas Aces",
+    "outcome": "Las Vegas Aces",
+    "side": "BUY",
+    "usd": 4299.9974999999995,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785469436,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sea-lad-2026-07-30",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 4523.8622000000005,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785469436,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-oak-2026-07-30-total-9pt5",
+    "title": "Boston Red Sox vs. Athletics: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 3171.93,
+    "odds_at_bet": 69,
+    "status": "pending"
   }
 ]
