@@ -34138,5 +34138,65 @@
     "usd": 7399.836,
     "odds_at_bet": 97,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785529127,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-phi-bal-2026-07-31-total-8pt5",
+    "title": "Philadelphia Phillies vs. Baltimore Orioles: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 6221.34,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785529144,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-cocciar-osaka-2026-07-31",
+    "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Naomi Osaka",
+    "outcome": "Naomi Osaka",
+    "side": "BUY",
+    "usd": 4181.905,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785529182,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-preston-sawangk-2026-07-31",
+    "title": "Vancouver: Taylah Preston vs Mananchaya Sawangkaew",
+    "outcome": "Taylah Preston",
+    "side": "BUY",
+    "usd": 2220.975,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785529194,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-cocciar-osaka-2026-07-31",
+    "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Naomi Osaka",
+    "outcome": "Naomi Osaka",
+    "side": "BUY",
+    "usd": 1959.2799820000002,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785529199,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-cocciar-osaka-2026-07-31",
+    "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Naomi Osaka",
+    "outcome": "Naomi Osaka",
+    "side": "BUY",
+    "usd": 3700.819979,
+    "odds_at_bet": 97,
+    "status": "pending"
   }
 ]
