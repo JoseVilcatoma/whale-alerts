@@ -30550,5 +30550,17 @@
     "usd": 1568.82,
     "odds_at_bet": 11,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785522478,
+    "username": "Sparkling8899",
+    "wallet": "0x2e25b222e2080c377fc1fb2b9f926315f0f4d49e",
+    "slug": "irl1-dro-sha-2026-07-31-total-2pt5",
+    "title": "Drogheda United FC vs. Shamrock Rovers: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2998.3099999999995,
+    "odds_at_bet": 52,
+    "status": "pending"
   }
 ]
