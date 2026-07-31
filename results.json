@@ -28078,5 +28078,89 @@
     "usd": 1004.4311999999999,
     "odds_at_bet": 76,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785518027,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-gm-2026-07-31",
+    "title": "Valorant: BBL Esports vs Gentle Mates (BO3) - VCT EMEA Group Alpha",
+    "outcome": "BBL Esports",
+    "side": "BUY",
+    "usd": 1640.8028000000002,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785518029,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-bc-bar-2026-07-31-bar",
+    "title": "Will FC Barcelona win on 2026-07-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1850.0,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785518040,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-mkoi-shft-2026-07-31-game1",
+    "title": "LoL: Movistar KOI vs Shifters - Game 1 Winner",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 1874.8,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785518051,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-mkoi-shft-2026-07-31",
+    "title": "LoL: Movistar KOI vs Shifters (BO3) - LEC Regular Season",
+    "outcome": "Shifters",
+    "side": "BUY",
+    "usd": 1067.929253,
+    "odds_at_bet": 33,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785518053,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "rou1-fap-fcm-2026-07-31-fap",
+    "title": "Will FC Arge\u0219 Pite\u0219ti win on 2026-07-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1328.9492,
+    "odds_at_bet": 92,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785518069,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-nyy-chc-2026-07-31-total-9pt5",
+    "title": "New York Yankees vs. Chicago Cubs: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 23283.047200000005,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785518070,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-nyy-chc-2026-07-31-total-9pt5",
+    "title": "New York Yankees vs. Chicago Cubs: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 18232.177600000003,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
