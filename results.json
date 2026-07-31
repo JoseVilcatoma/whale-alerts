@@ -18106,5 +18106,17 @@
     "usd": 3003.5964,
     "odds_at_bet": 84,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785473251,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-sea-lad-2026-07-30-total-8pt5",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 5907.51,
+    "odds_at_bet": 63,
+    "status": "pending"
   }
 ]
