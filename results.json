@@ -23374,5 +23374,29 @@
     "usd": 1000.6200000000001,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785502276,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "chi-hen-ygb-2026-07-31-hen",
+    "title": "Will Henan FC win on 2026-07-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2923.5975,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785502316,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "itf-lene-curmi-2026-07-31",
+    "title": "ITF Gran Canaria: Emma Lene vs Francesca Curmi",
+    "outcome": "Emma Lene",
+    "side": "BUY",
+    "usd": 1015.7400000000001,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
