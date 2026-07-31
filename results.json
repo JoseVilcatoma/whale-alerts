@@ -38650,5 +38650,65 @@
     "usd": 1818.6084,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785539663,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-c9-loud-2026-07-31",
+    "title": "Valorant: Cloud9 vs LOUD (BO3) - VCT Americas Stage 2 Group Omega",
+    "outcome": "LOUD",
+    "side": "BUY",
+    "usd": 1839.2044,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785539668,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-c9-loud-2026-07-31",
+    "title": "Valorant: Cloud9 vs LOUD (BO3) - VCT Americas Stage 2 Group Omega",
+    "outcome": "LOUD",
+    "side": "BUY",
+    "usd": 1839.2044,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785539680,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-c9-loud-2026-07-31",
+    "title": "Valorant: Cloud9 vs LOUD (BO3) - VCT Americas Stage 2 Group Omega",
+    "outcome": "LOUD",
+    "side": "BUY",
+    "usd": 1804.0040999999999,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785539688,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-ldp-bst-2026-07-31-game2",
+    "title": "Counter-Strike: largadosypelados vs BESTIA - Map 2 Winner",
+    "outcome": "BESTIA",
+    "side": "BUY",
+    "usd": 1019.56,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785539760,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-pit-cin-2026-07-31",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 1016.8979999999999,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
