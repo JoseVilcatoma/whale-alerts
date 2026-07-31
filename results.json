@@ -17626,5 +17626,17 @@
     "usd": 1877.1469,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785467437,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-webb-khan-2026-07-31",
+    "title": "ITF Brisbane: Stefani Webb vs Laquisa Khan",
+    "outcome": "Stefani Webb",
+    "side": "BUY",
+    "usd": 1123.3,
+    "odds_at_bet": 47,
+    "status": "pending"
   }
 ]
