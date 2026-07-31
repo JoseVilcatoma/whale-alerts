@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 12:42:11 (hora de Perú)
+Actualizado: 2026-07-31 12:44:18 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -20,7 +20,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BreakTheBank | 2 | 3 | 1 | ⚠️ 40% (muestra chica: 5) |
 | 1winstreak1 | 9 | 14 | 0 | 39% |
 | wr0ngw4yb3tt0r | 18 | 30 | 3 | 38% |
-| pleaseplease123 | 2 | 15 | 0 | 12% |
+| pleaseplease123 | 2 | 15 | 1 | 12% |
 | monkeymashingkeyboard | 1 | 11 | 4 | 8% |
 | pada | 0 | 0 | 5 | — |
 | Hauchn | 0 | 0 | 6 | — |
