@@ -14866,5 +14866,41 @@
     "usd": 5321.935,
     "odds_at_bet": 85,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785458602,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 1886.97,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785458602,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-humbert-shelton-2026-07-30",
+    "title": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 6010.896900000001,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785458614,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-pit-cin-2026-07-30-total-9pt5",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 7920.0,
+    "odds_at_bet": 24,
+    "status": "pending"
   }
 ]
