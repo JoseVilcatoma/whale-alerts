@@ -18634,5 +18634,29 @@
     "usd": 1320.5024,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785483277,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-arystan-zelinsk-2026-07-31",
+    "title": "ITF Astana: Asylzhan Arystanbekova vs Daria Zelinskaya",
+    "outcome": "Daria Zelinskaya",
+    "side": "BUY",
+    "usd": 1189.57,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785483277,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-arystan-zelinsk-2026-07-31",
+    "title": "ITF Astana: Asylzhan Arystanbekova vs Daria Zelinskaya",
+    "outcome": "Daria Zelinskaya",
+    "side": "BUY",
+    "usd": 1128.0,
+    "odds_at_bet": 47,
+    "status": "pending"
   }
 ]
