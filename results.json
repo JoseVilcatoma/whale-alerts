@@ -27598,5 +27598,41 @@
     "usd": 5969.8165420000005,
     "odds_at_bet": 86,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785516898,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game1",
+    "title": "Counter-Strike: paiN vs Astralis - Map 1 Winner",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 1672.4004,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785516909,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-pegula-kalinsk-2026-07-31",
+    "title": "Mubadala Citi DC Open: Jessica Pegula vs Anna Kalinskaya",
+    "outcome": "Anna Kalinskaya",
+    "side": "BUY",
+    "usd": 1083.0400000000002,
+    "odds_at_bet": 14,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785516909,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-pegula-kalinsk-2026-07-31",
+    "title": "Mubadala Citi DC Open: Jessica Pegula vs Anna Kalinskaya",
+    "outcome": "Anna Kalinskaya",
+    "side": "BUY",
+    "usd": 1613.9466000000002,
+    "odds_at_bet": 14,
+    "status": "pending"
   }
 ]
