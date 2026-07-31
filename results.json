@@ -26242,5 +26242,29 @@
     "usd": 1680.0000000000002,
     "odds_at_bet": 28,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785513704,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "crichundredw-man-tre-2026-07-31",
+    "title": "The Hundred, Women: Manchester Super Giants vs Trent Rockets",
+    "outcome": "Trent Rockets",
+    "side": "BUY",
+    "usd": 3645.9,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785513705,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "crichundredw-man-tre-2026-07-31",
+    "title": "The Hundred, Women: Manchester Super Giants vs Trent Rockets",
+    "outcome": "Trent Rockets",
+    "side": "BUY",
+    "usd": 4995.0,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]
