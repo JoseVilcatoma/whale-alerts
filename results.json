@@ -25258,5 +25258,41 @@
     "usd": 1640.0,
     "odds_at_bet": 82,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785510608,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "rou1-fap-fcm-2026-07-31-first-half-total-1pt5",
+    "title": "FC Arge\u0219 Pite\u0219ti vs. FK Cs\u00edkszereda Miercurea Ciuc: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2684.3039999999996,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510625,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-dahlin-galan-2026-07-31",
+    "title": "Bonn: Max Dahlin vs Daniel Galan",
+    "outcome": "Daniel Galan",
+    "side": "BUY",
+    "usd": 2294.0361000000003,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510625,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-dahlin-galan-2026-07-31",
+    "title": "Bonn: Max Dahlin vs Daniel Galan",
+    "outcome": "Daniel Galan",
+    "side": "BUY",
+    "usd": 2725.26,
+    "odds_at_bet": 53,
+    "status": "pending"
   }
 ]
