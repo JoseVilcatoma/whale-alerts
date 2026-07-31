@@ -28846,5 +28846,77 @@
     "usd": 20987.9956,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785519929,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-bb4-liquid-2026-07-31-game2",
+    "title": "Dota 2: BetBoom Team vs Team Liquid - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 2729.4806000000003,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785519943,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game2",
+    "title": "Counter-Strike: paiN vs Astralis - Map 2 Winner",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 2621.6666660000005,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785519956,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "irl1-dro-sha-2026-07-31-sha",
+    "title": "Will Shamrock Rovers win on 2026-07-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2692.92,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785519958,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "irl1-dro-sha-2026-07-31-sha",
+    "title": "Will Shamrock Rovers win on 2026-07-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 5385.96,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785519958,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "irl1-dro-sha-2026-07-31-sha",
+    "title": "Will Shamrock Rovers win on 2026-07-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1048.56,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785519961,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "irl1-dro-sha-2026-07-31-sha",
+    "title": "Will Shamrock Rovers win on 2026-07-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 3487.9296,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
