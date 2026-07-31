@@ -25774,5 +25774,17 @@
     "usd": 1328.599442,
     "odds_at_bet": 67,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785511846,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-gombos-feldbau-2026-07-31",
+    "title": "Liberec: Norbert Gombos vs Kilian Feldbausch",
+    "outcome": "Kilian Feldbausch",
+    "side": "BUY",
+    "usd": 3945.7005,
+    "odds_at_bet": 35,
+    "status": "pending"
   }
 ]
