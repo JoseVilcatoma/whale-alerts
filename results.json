@@ -17554,5 +17554,41 @@
     "usd": 5916.5568,
     "odds_at_bet": 63,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785467027,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-cerundo-gea-2026-07-30",
+    "title": "Los Cabos Open: Francisco Cerundolo vs Arthur Gea",
+    "outcome": "Francisco Cerundolo",
+    "side": "BUY",
+    "usd": 1395.839072,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785467036,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sea-lad-2026-07-30-total-7pt5",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 4256.7065999999995,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785467036,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sea-lad-2026-07-30-total-7pt5",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1387.9212,
+    "odds_at_bet": 46,
+    "status": "pending"
   }
 ]
