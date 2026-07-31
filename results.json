@@ -18502,5 +18502,17 @@
     "usd": 2368.5571,
     "odds_at_bet": 91,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785479548,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-omarkha-zhalga-2026-07-31",
+    "title": "ITF Astana: Amir Omarkhanov vs Damir Zhalgasbay",
+    "outcome": "Damir Zhalgasbay",
+    "side": "BUY",
+    "usd": 1292.038104,
+    "odds_at_bet": 58,
+    "status": "pending"
   }
 ]
