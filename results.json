@@ -20338,5 +20338,29 @@
     "usd": 19705.184282000002,
     "odds_at_bet": 83,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785492262,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kumstat-sil-2026-07-31",
+    "title": "Liberec: Jan Kumstat vs Frederico Ferreira Silva",
+    "outcome": "Frederico Ferreira Silva",
+    "side": "BUY",
+    "usd": 1383.384,
+    "odds_at_bet": 12,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785492372,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-we-blg-2026-07-31",
+    "title": "LoL: Team WE vs Bilibili Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 2075.0,
+    "odds_at_bet": 83,
+    "status": "pending"
   }
 ]
