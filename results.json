@@ -29434,5 +29434,41 @@
     "usd": 2531.9952,
     "odds_at_bet": 63,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785520720,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-muller-poljica-2026-07-31",
+    "title": "San Marino: Alexandre Muller vs Mili Poljicak",
+    "outcome": "Alexandre Muller",
+    "side": "BUY",
+    "usd": 1266.6654,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785520755,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-xtreme-lgd-2026-07-31-game1",
+    "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 1 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1190.3999999999999,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785520783,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-xtreme-lgd-2026-07-31-game1",
+    "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 1 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1153.6799999999998,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
