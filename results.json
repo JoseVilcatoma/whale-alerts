@@ -38710,5 +38710,29 @@
     "usd": 1016.8979999999999,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785539793,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-c9-loud-2026-07-31",
+    "title": "Valorant: Cloud9 vs LOUD (BO3) - VCT Americas Stage 2 Group Omega",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 1713.6034000000002,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785539827,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-jodar-musetti-2026-07-31",
+    "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
+    "outcome": "Lorenzo Musetti",
+    "side": "BUY",
+    "usd": 1167.0392,
+    "odds_at_bet": 74,
+    "status": "pending"
   }
 ]
