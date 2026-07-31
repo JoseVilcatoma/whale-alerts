@@ -19353,7 +19353,7 @@
     "side": "BUY",
     "usd": 2344.0248,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785489654,
@@ -22785,7 +22785,7 @@
     "side": "BUY",
     "usd": 14899.999999999996,
     "odds_at_bet": 39,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785500528,
@@ -22797,7 +22797,7 @@
     "side": "BUY",
     "usd": 10000.0,
     "odds_at_bet": 40,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785500546,
@@ -22809,7 +22809,7 @@
     "side": "BUY",
     "usd": 8979.9,
     "odds_at_bet": 40,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785500605,
@@ -22941,7 +22941,7 @@
     "side": "BUY",
     "usd": 3156.4,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785501220,
@@ -23313,7 +23313,7 @@
     "side": "BUY",
     "usd": 2124.933333,
     "odds_at_bet": 40,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785501997,
@@ -23637,7 +23637,7 @@
     "side": "BUY",
     "usd": 1918.4825000000003,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785503617,
@@ -23649,7 +23649,7 @@
     "side": "BUY",
     "usd": 2069.5077,
     "odds_at_bet": 45,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785503627,
@@ -23661,7 +23661,7 @@
     "side": "BUY",
     "usd": 6804.010800000001,
     "odds_at_bet": 54,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785503639,
@@ -23745,7 +23745,7 @@
     "side": "BUY",
     "usd": 1201.3934000000002,
     "odds_at_bet": 34,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785503944,
@@ -23781,7 +23781,7 @@
     "side": "BUY",
     "usd": 2649.6805000000004,
     "odds_at_bet": 23,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785504302,
@@ -23877,7 +23877,7 @@
     "side": "BUY",
     "usd": 5635.023719999999,
     "odds_at_bet": 35,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785504796,
@@ -23961,7 +23961,7 @@
     "side": "BUY",
     "usd": 2750.0,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785505418,
@@ -24069,7 +24069,7 @@
     "side": "BUY",
     "usd": 1448.7132000000001,
     "odds_at_bet": 66,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785505782,
@@ -24117,7 +24117,7 @@
     "side": "BUY",
     "usd": 2979.9049,
     "odds_at_bet": 61,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785506294,
@@ -24393,7 +24393,7 @@
     "side": "BUY",
     "usd": 1261.119375,
     "odds_at_bet": 36,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785506979,
@@ -24405,7 +24405,7 @@
     "side": "BUY",
     "usd": 2193.351111,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785507162,
@@ -24453,7 +24453,7 @@
     "side": "BUY",
     "usd": 2272.4,
     "odds_at_bet": 92,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785507295,
@@ -24489,7 +24489,7 @@
     "side": "BUY",
     "usd": 4155.81,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785507361,
@@ -24501,7 +24501,7 @@
     "side": "BUY",
     "usd": 1210.798722,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785507382,
@@ -24525,7 +24525,7 @@
     "side": "BUY",
     "usd": 3529.075027,
     "odds_at_bet": 39,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785507444,
@@ -24585,7 +24585,7 @@
     "side": "BUY",
     "usd": 1481.492878,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785507506,
@@ -24645,7 +24645,7 @@
     "side": "BUY",
     "usd": 1185.0,
     "odds_at_bet": 75,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785507658,
@@ -24669,7 +24669,7 @@
     "side": "BUY",
     "usd": 1192.227,
     "odds_at_bet": 34,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785507678,
@@ -24801,7 +24801,7 @@
     "side": "BUY",
     "usd": 6064.22,
     "odds_at_bet": 62,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785508536,
@@ -24813,7 +24813,7 @@
     "side": "BUY",
     "usd": 3635.7146000000002,
     "odds_at_bet": 38,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785508742,
@@ -24849,7 +24849,7 @@
     "side": "BUY",
     "usd": 2388.0,
     "odds_at_bet": 24,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785508972,
@@ -24861,7 +24861,7 @@
     "side": "BUY",
     "usd": 4817.01,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785509212,
@@ -24873,7 +24873,7 @@
     "side": "BUY",
     "usd": 3266.668,
     "odds_at_bet": 40,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785509510,
@@ -24897,7 +24897,7 @@
     "side": "BUY",
     "usd": 1076.6280000000002,
     "odds_at_bet": 28,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785509557,
@@ -24921,7 +24921,7 @@
     "side": "BUY",
     "usd": 10925.6378,
     "odds_at_bet": 77,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785509581,
@@ -24933,7 +24933,7 @@
     "side": "BUY",
     "usd": 3263.5022,
     "odds_at_bet": 23,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785509673,
@@ -24945,7 +24945,7 @@
     "side": "BUY",
     "usd": 8902.0474,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785509673,
@@ -24957,7 +24957,7 @@
     "side": "BUY",
     "usd": 3870.381,
     "odds_at_bet": 31,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785509673,
@@ -24969,7 +24969,7 @@
     "side": "BUY",
     "usd": 2518.5004000000004,
     "odds_at_bet": 26,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785509711,
@@ -24981,7 +24981,7 @@
     "side": "BUY",
     "usd": 2414.6868000000004,
     "odds_at_bet": 68,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785509773,
@@ -25017,7 +25017,7 @@
     "side": "BUY",
     "usd": 4822.207600000001,
     "odds_at_bet": 19,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785510018,
@@ -25029,7 +25029,7 @@
     "side": "BUY",
     "usd": 1093.1544000000001,
     "odds_at_bet": 78,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785510063,
@@ -25065,7 +25065,7 @@
     "side": "BUY",
     "usd": 1272.727272,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785510135,
@@ -25077,7 +25077,7 @@
     "side": "BUY",
     "usd": 1615.7568000000003,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785510196,
@@ -25125,7 +25125,7 @@
     "side": "BUY",
     "usd": 2334.211677,
     "odds_at_bet": 91,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785510433,
@@ -25173,7 +25173,7 @@
     "side": "BUY",
     "usd": 1224.137931,
     "odds_at_bet": 71,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785510495,
@@ -25185,7 +25185,7 @@
     "side": "BUY",
     "usd": 1344.822222,
     "odds_at_bet": 73,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785510519,
@@ -25245,7 +25245,7 @@
     "side": "BUY",
     "usd": 1255.968,
     "odds_at_bet": 30,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785510598,
@@ -25305,7 +25305,7 @@
     "side": "BUY",
     "usd": 1715.464,
     "odds_at_bet": 40,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785510737,
@@ -25317,7 +25317,7 @@
     "side": "BUY",
     "usd": 4260.3016,
     "odds_at_bet": 76,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785510737,
@@ -25341,7 +25341,7 @@
     "side": "BUY",
     "usd": 1964.2831999999999,
     "odds_at_bet": 44,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785510754,
@@ -25353,7 +25353,7 @@
     "side": "BUY",
     "usd": 26978.518000000004,
     "odds_at_bet": 76,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785510774,
@@ -25365,7 +25365,7 @@
     "side": "BUY",
     "usd": 1562.785714,
     "odds_at_bet": 44,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785510863,
@@ -25377,7 +25377,7 @@
     "side": "BUY",
     "usd": 8250.0,
     "odds_at_bet": 66,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785510863,
@@ -25389,7 +25389,7 @@
     "side": "BUY",
     "usd": 1858.2066799999996,
     "odds_at_bet": 88,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785510863,
@@ -25425,7 +25425,7 @@
     "side": "BUY",
     "usd": 4847.6132,
     "odds_at_bet": 66,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785510901,
@@ -25437,7 +25437,7 @@
     "side": "BUY",
     "usd": 14952.2868,
     "odds_at_bet": 66,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785510901,
@@ -25449,7 +25449,7 @@
     "side": "BUY",
     "usd": 7702.693200000001,
     "odds_at_bet": 34,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785510908,
@@ -25461,7 +25461,7 @@
     "side": "BUY",
     "usd": 2640.0,
     "odds_at_bet": 66,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785510908,
@@ -25473,7 +25473,7 @@
     "side": "BUY",
     "usd": 3064.42,
     "odds_at_bet": 34,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785510908,
@@ -25485,7 +25485,7 @@
     "side": "BUY",
     "usd": 1076.7966000000001,
     "odds_at_bet": 66,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785510909,
@@ -25497,7 +25497,7 @@
     "side": "BUY",
     "usd": 4871.7834,
     "odds_at_bet": 66,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785510915,
@@ -25509,7 +25509,7 @@
     "side": "BUY",
     "usd": 1575.798196,
     "odds_at_bet": 39,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785510930,
@@ -25533,7 +25533,7 @@
     "side": "BUY",
     "usd": 4854.5028,
     "odds_at_bet": 84,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785510994,
@@ -25605,7 +25605,7 @@
     "side": "BUY",
     "usd": 1252.9952,
     "odds_at_bet": 32,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785511223,
@@ -25617,7 +25617,7 @@
     "side": "BUY",
     "usd": 1122.24,
     "odds_at_bet": 70,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785511243,
@@ -25629,7 +25629,7 @@
     "side": "BUY",
     "usd": 1206.432,
     "odds_at_bet": 71,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785511264,
@@ -25641,7 +25641,7 @@
     "side": "BUY",
     "usd": 2132.7172,
     "odds_at_bet": 67,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785511289,
@@ -25653,7 +25653,7 @@
     "side": "BUY",
     "usd": 2370.2376,
     "odds_at_bet": 24,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785511294,
@@ -25665,7 +25665,7 @@
     "side": "BUY",
     "usd": 1078.56,
     "odds_at_bet": 70,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785511374,
@@ -25677,7 +25677,7 @@
     "side": "BUY",
     "usd": 1310.6806,
     "odds_at_bet": 74,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785511378,
@@ -25761,7 +25761,7 @@
     "side": "BUY",
     "usd": 3144.3501,
     "odds_at_bet": 79,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785511780,
@@ -25773,7 +25773,7 @@
     "side": "BUY",
     "usd": 1328.599442,
     "odds_at_bet": 67,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785511846,
@@ -25809,7 +25809,7 @@
     "side": "BUY",
     "usd": 1249.44,
     "odds_at_bet": 76,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785512298,
@@ -25821,7 +25821,7 @@
     "side": "BUY",
     "usd": 2104.0,
     "odds_at_bet": 40,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785512497,
@@ -25833,7 +25833,7 @@
     "side": "BUY",
     "usd": 7570.6096,
     "odds_at_bet": 94,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785512497,
@@ -25845,7 +25845,7 @@
     "side": "BUY",
     "usd": 1363.0,
     "odds_at_bet": 94,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785512505,
@@ -25857,7 +25857,7 @@
     "side": "BUY",
     "usd": 1625.5800000000002,
     "odds_at_bet": 66,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785512521,
@@ -25869,7 +25869,7 @@
     "side": "BUY",
     "usd": 5764.1,
     "odds_at_bet": 50,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785512595,
@@ -25881,7 +25881,7 @@
     "side": "BUY",
     "usd": 1304.25,
     "odds_at_bet": 25,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785512623,
@@ -25917,7 +25917,7 @@
     "side": "BUY",
     "usd": 1740.6018,
     "odds_at_bet": 42,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785512756,
@@ -25929,7 +25929,7 @@
     "side": "BUY",
     "usd": 4107.9612,
     "odds_at_bet": 42,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785512756,
@@ -25953,7 +25953,7 @@
     "side": "BUY",
     "usd": 1040.8824,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785512802,
@@ -25965,7 +25965,7 @@
     "side": "BUY",
     "usd": 2415.0645000000004,
     "odds_at_bet": 45,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785512814,
@@ -26001,7 +26001,7 @@
     "side": "BUY",
     "usd": 1036.0,
     "odds_at_bet": 74,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785512942,
@@ -26013,7 +26013,7 @@
     "side": "BUY",
     "usd": 5247.351199999999,
     "odds_at_bet": 49,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785512943,
@@ -26025,7 +26025,7 @@
     "side": "BUY",
     "usd": 1593.433113,
     "odds_at_bet": 49,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785512972,
@@ -26037,7 +26037,7 @@
     "side": "BUY",
     "usd": 1158.84,
     "odds_at_bet": 58,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785513212,
@@ -26049,7 +26049,7 @@
     "side": "BUY",
     "usd": 2025.0000000000002,
     "odds_at_bet": 81,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785513212,
@@ -26061,7 +26061,7 @@
     "side": "BUY",
     "usd": 1626.48,
     "odds_at_bet": 81,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785513212,
@@ -26073,7 +26073,7 @@
     "side": "BUY",
     "usd": 1215.0,
     "odds_at_bet": 81,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785513283,
@@ -26097,7 +26097,7 @@
     "side": "BUY",
     "usd": 1113.2316,
     "odds_at_bet": 78,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785513352,
@@ -26133,7 +26133,7 @@
     "side": "BUY",
     "usd": 6801.6321,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785513402,
@@ -26145,7 +26145,7 @@
     "side": "BUY",
     "usd": 3266.2518,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785513413,
@@ -26169,7 +26169,7 @@
     "side": "BUY",
     "usd": 2946.2999999999997,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785513427,
@@ -26181,7 +26181,7 @@
     "side": "BUY",
     "usd": 2112.0,
     "odds_at_bet": 88,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785513439,
@@ -26193,7 +26193,7 @@
     "side": "BUY",
     "usd": 2520.0,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785513520,
@@ -26205,7 +26205,7 @@
     "side": "BUY",
     "usd": 7293.0,
     "odds_at_bet": 78,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785513522,
@@ -26229,7 +26229,7 @@
     "side": "BUY",
     "usd": 1023.1288999999999,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785513534,
@@ -26253,7 +26253,7 @@
     "side": "BUY",
     "usd": 3645.9,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785513705,
@@ -26265,7 +26265,7 @@
     "side": "BUY",
     "usd": 4995.0,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785513747,
@@ -26277,7 +26277,7 @@
     "side": "BUY",
     "usd": 1064.0,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785513805,
@@ -26289,7 +26289,7 @@
     "side": "BUY",
     "usd": 1227.3032799999999,
     "odds_at_bet": 97,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785513838,
@@ -26313,7 +26313,7 @@
     "side": "BUY",
     "usd": 1452.96,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785513869,
@@ -26325,7 +26325,7 @@
     "side": "BUY",
     "usd": 5302.972000000001,
     "odds_at_bet": 46,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785513869,
@@ -26337,7 +26337,7 @@
     "side": "BUY",
     "usd": 2341.2114,
     "odds_at_bet": 46,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785513963,
@@ -26349,7 +26349,7 @@
     "side": "BUY",
     "usd": 1094.08012,
     "odds_at_bet": 97,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785513963,
@@ -26361,7 +26361,7 @@
     "side": "BUY",
     "usd": 6178.55,
     "odds_at_bet": 97,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785514261,
@@ -26373,7 +26373,7 @@
     "side": "BUY",
     "usd": 7954.821428,
     "odds_at_bet": 96,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785514303,
@@ -26397,7 +26397,7 @@
     "side": "BUY",
     "usd": 1440.0,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785514348,
@@ -26421,7 +26421,7 @@
     "side": "BUY",
     "usd": 1493.32,
     "odds_at_bet": 74,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785514358,
@@ -26457,7 +26457,7 @@
     "side": "BUY",
     "usd": 1733.9439000000002,
     "odds_at_bet": 39,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785514530,
@@ -26481,7 +26481,7 @@
     "side": "BUY",
     "usd": 1215.2043999999999,
     "odds_at_bet": 29,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785514558,
@@ -26517,7 +26517,7 @@
     "side": "BUY",
     "usd": 1018.3755999999998,
     "odds_at_bet": 29,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785514566,
@@ -26529,7 +26529,7 @@
     "side": "BUY",
     "usd": 1872.0920999999998,
     "odds_at_bet": 29,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785514587,
@@ -26565,7 +26565,7 @@
     "side": "BUY",
     "usd": 7859.099999999999,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785514750,
@@ -26577,7 +26577,7 @@
     "side": "BUY",
     "usd": 3530.9,
     "odds_at_bet": 31,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785514960,
@@ -26589,7 +26589,7 @@
     "side": "BUY",
     "usd": 1400.0000000000002,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785515026,
@@ -26613,7 +26613,7 @@
     "side": "BUY",
     "usd": 1404.8828,
     "odds_at_bet": 31,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785515191,
@@ -26625,7 +26625,7 @@
     "side": "BUY",
     "usd": 1258.9196000000002,
     "odds_at_bet": 53,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785515209,
@@ -26661,7 +26661,7 @@
     "side": "BUY",
     "usd": 1156.4092220000002,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785515220,
@@ -26685,7 +26685,7 @@
     "side": "BUY",
     "usd": 1272.727272,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785515248,
@@ -26697,7 +26697,7 @@
     "side": "BUY",
     "usd": 1388.08379,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785515255,
@@ -26709,7 +26709,7 @@
     "side": "BUY",
     "usd": 1357.84629,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785515261,
@@ -26721,7 +26721,7 @@
     "side": "BUY",
     "usd": 1439.0243900000003,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785515262,
@@ -26733,7 +26733,7 @@
     "side": "BUY",
     "usd": 1250.6019900000001,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785515269,
@@ -26745,7 +26745,7 @@
     "side": "BUY",
     "usd": 1500.0,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785515280,
@@ -26769,7 +26769,7 @@
     "side": "BUY",
     "usd": 1144.641047,
     "odds_at_bet": 58,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785515304,
@@ -26781,7 +26781,7 @@
     "side": "BUY",
     "usd": 1156.9062,
     "odds_at_bet": 57,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785515331,
@@ -26793,7 +26793,7 @@
     "side": "BUY",
     "usd": 1474.35,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785515345,
@@ -26805,7 +26805,7 @@
     "side": "BUY",
     "usd": 1353.47439,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785515372,
@@ -26817,7 +26817,7 @@
     "side": "BUY",
     "usd": 1272.727272,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785515377,
@@ -26829,7 +26829,7 @@
     "side": "BUY",
     "usd": 1016.5832720000002,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785515386,
@@ -26841,7 +26841,7 @@
     "side": "BUY",
     "usd": 1208.0444439999997,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785515386,
@@ -26853,7 +26853,7 @@
     "side": "BUY",
     "usd": 1091.73913,
     "odds_at_bet": 54,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785515650,
@@ -26877,7 +26877,7 @@
     "side": "BUY",
     "usd": 5111.6288,
     "odds_at_bet": 32,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785515870,
@@ -26889,7 +26889,7 @@
     "side": "BUY",
     "usd": 1253.4603880000002,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785515903,
@@ -26901,7 +26901,7 @@
     "side": "BUY",
     "usd": 1384.873333,
     "odds_at_bet": 31,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785515958,
@@ -26925,7 +26925,7 @@
     "side": "BUY",
     "usd": 5107.2064,
     "odds_at_bet": 32,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516098,
@@ -26937,7 +26937,7 @@
     "side": "BUY",
     "usd": 2604.1600000000003,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516098,
@@ -26949,7 +26949,7 @@
     "side": "BUY",
     "usd": 2604.1600000000003,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516140,
@@ -26961,7 +26961,7 @@
     "side": "BUY",
     "usd": 6727.384800000001,
     "odds_at_bet": 54,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516149,
@@ -26973,7 +26973,7 @@
     "side": "BUY",
     "usd": 6212.67,
     "odds_at_bet": 87,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516149,
@@ -26985,7 +26985,7 @@
     "side": "BUY",
     "usd": 6730.32,
     "odds_at_bet": 87,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516149,
@@ -26997,7 +26997,7 @@
     "side": "BUY",
     "usd": 18248.283461,
     "odds_at_bet": 87,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516150,
@@ -27009,7 +27009,7 @@
     "side": "BUY",
     "usd": 6807.68,
     "odds_at_bet": 88,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516150,
@@ -27021,7 +27021,7 @@
     "side": "BUY",
     "usd": 1761.75,
     "odds_at_bet": 87,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516170,
@@ -27033,7 +27033,7 @@
     "side": "BUY",
     "usd": 1362.6638289999999,
     "odds_at_bet": 53,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516177,
@@ -27045,7 +27045,7 @@
     "side": "BUY",
     "usd": 1372.922222,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516212,
@@ -27057,7 +27057,7 @@
     "side": "BUY",
     "usd": 1143.1675,
     "odds_at_bet": 25,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516247,
@@ -27069,7 +27069,7 @@
     "side": "BUY",
     "usd": 1455.2,
     "odds_at_bet": 80,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516271,
@@ -27081,7 +27081,7 @@
     "side": "BUY",
     "usd": 1168.1918,
     "odds_at_bet": 83,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516274,
@@ -27093,7 +27093,7 @@
     "side": "BUY",
     "usd": 2604.1600000000003,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516274,
@@ -27105,7 +27105,7 @@
     "side": "BUY",
     "usd": 2578.1652000000004,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516292,
@@ -27117,7 +27117,7 @@
     "side": "BUY",
     "usd": 2500.0,
     "odds_at_bet": 50,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516302,
@@ -27153,7 +27153,7 @@
     "side": "BUY",
     "usd": 1519.8070580000003,
     "odds_at_bet": 49,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516309,
@@ -27165,7 +27165,7 @@
     "side": "BUY",
     "usd": 1298.418367,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516313,
@@ -27177,7 +27177,7 @@
     "side": "BUY",
     "usd": 1224.0,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516319,
@@ -27189,7 +27189,7 @@
     "side": "BUY",
     "usd": 2882.05,
     "odds_at_bet": 25,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516330,
@@ -27201,7 +27201,7 @@
     "side": "BUY",
     "usd": 6458.410400000001,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516342,
@@ -27213,7 +27213,7 @@
     "side": "BUY",
     "usd": 12557.2772,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516358,
@@ -27225,7 +27225,7 @@
     "side": "BUY",
     "usd": 1502.8954999999999,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516361,
@@ -27237,7 +27237,7 @@
     "side": "BUY",
     "usd": 1113.8999999999999,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516367,
@@ -27249,7 +27249,7 @@
     "side": "BUY",
     "usd": 3193.6688,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516384,
@@ -27261,7 +27261,7 @@
     "side": "BUY",
     "usd": 2476.5593999999996,
     "odds_at_bet": 42,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516400,
@@ -27273,7 +27273,7 @@
     "side": "BUY",
     "usd": 3671.25,
     "odds_at_bet": 75,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516429,
@@ -27285,7 +27285,7 @@
     "side": "BUY",
     "usd": 1098.0659999999998,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516436,
@@ -27345,7 +27345,7 @@
     "side": "BUY",
     "usd": 3182.37,
     "odds_at_bet": 61,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516535,
@@ -27357,7 +27357,7 @@
     "side": "BUY",
     "usd": 1964.782222,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516535,
@@ -27369,7 +27369,7 @@
     "side": "BUY",
     "usd": 1177.2032000000002,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516535,
@@ -27381,7 +27381,7 @@
     "side": "BUY",
     "usd": 1373.8496,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516535,
@@ -27393,7 +27393,7 @@
     "side": "BUY",
     "usd": 1373.8432,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516591,
@@ -27405,7 +27405,7 @@
     "side": "BUY",
     "usd": 2668.7006,
     "odds_at_bet": 89,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516594,
@@ -27417,7 +27417,7 @@
     "side": "BUY",
     "usd": 2707.32,
     "odds_at_bet": 44,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516605,
@@ -27429,7 +27429,7 @@
     "side": "BUY",
     "usd": 4157.177142,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516667,
@@ -27441,7 +27441,7 @@
     "side": "BUY",
     "usd": 1164.7040000000002,
     "odds_at_bet": 80,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516676,
@@ -27453,7 +27453,7 @@
     "side": "BUY",
     "usd": 1292.13,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516676,
@@ -27465,7 +27465,7 @@
     "side": "BUY",
     "usd": 1292.13,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516691,
@@ -27477,7 +27477,7 @@
     "side": "BUY",
     "usd": 3205.12,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516691,
@@ -27489,7 +27489,7 @@
     "side": "BUY",
     "usd": 4807.68,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516774,
@@ -27501,7 +27501,7 @@
     "side": "BUY",
     "usd": 5235.211200000001,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516782,
@@ -27513,7 +27513,7 @@
     "side": "BUY",
     "usd": 6795.169599999999,
     "odds_at_bet": 86,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516787,
@@ -27525,7 +27525,7 @@
     "side": "BUY",
     "usd": 3130.2,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516816,
@@ -27549,7 +27549,7 @@
     "side": "BUY",
     "usd": 3004.7999999999997,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516845,
@@ -27561,7 +27561,7 @@
     "side": "BUY",
     "usd": 1901.34,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516845,
@@ -27573,7 +27573,7 @@
     "side": "BUY",
     "usd": 1200.0,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516845,
@@ -27585,7 +27585,7 @@
     "side": "BUY",
     "usd": 1300.338,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516846,
@@ -27597,7 +27597,7 @@
     "side": "BUY",
     "usd": 5969.8165420000005,
     "odds_at_bet": 86,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516898,
@@ -27609,7 +27609,7 @@
     "side": "BUY",
     "usd": 1672.4004,
     "odds_at_bet": 62,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785516909,
@@ -27621,7 +27621,7 @@
     "side": "BUY",
     "usd": 1083.0400000000002,
     "odds_at_bet": 14,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785516909,
@@ -27633,7 +27633,7 @@
     "side": "BUY",
     "usd": 1613.9466000000002,
     "odds_at_bet": 14,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785517195,
@@ -27645,7 +27645,7 @@
     "side": "BUY",
     "usd": 6762.87,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517218,
@@ -27657,7 +27657,7 @@
     "side": "BUY",
     "usd": 1893.33878,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517222,
@@ -27669,7 +27669,7 @@
     "side": "BUY",
     "usd": 1500.4938,
     "odds_at_bet": 94,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517237,
@@ -27681,7 +27681,7 @@
     "side": "BUY",
     "usd": 4015.9800000000005,
     "odds_at_bet": 81,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517238,
@@ -27693,7 +27693,7 @@
     "side": "BUY",
     "usd": 1755.3672000000001,
     "odds_at_bet": 81,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517238,
@@ -27705,7 +27705,7 @@
     "side": "BUY",
     "usd": 3159.852631,
     "odds_at_bet": 81,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517238,
@@ -27717,7 +27717,7 @@
     "side": "BUY",
     "usd": 1432.3554,
     "odds_at_bet": 81,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517238,
@@ -27729,7 +27729,7 @@
     "side": "BUY",
     "usd": 3240.0,
     "odds_at_bet": 81,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517238,
@@ -27741,7 +27741,7 @@
     "side": "BUY",
     "usd": 2938.2993,
     "odds_at_bet": 81,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517239,
@@ -27753,7 +27753,7 @@
     "side": "BUY",
     "usd": 1012.5000000000001,
     "odds_at_bet": 81,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517285,
@@ -27765,7 +27765,7 @@
     "side": "BUY",
     "usd": 1152.8704,
     "odds_at_bet": 92,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517296,
@@ -27777,7 +27777,7 @@
     "side": "BUY",
     "usd": 1288.71,
     "odds_at_bet": 100,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517306,
@@ -27789,7 +27789,7 @@
     "side": "BUY",
     "usd": 2271.5616,
     "odds_at_bet": 96,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517311,
@@ -27801,7 +27801,7 @@
     "side": "BUY",
     "usd": 2994.461538,
     "odds_at_bet": 48,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517346,
@@ -27825,7 +27825,7 @@
     "side": "BUY",
     "usd": 4326.0,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517386,
@@ -27837,7 +27837,7 @@
     "side": "BUY",
     "usd": 6801.6321,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517386,
@@ -27849,7 +27849,7 @@
     "side": "BUY",
     "usd": 1463.9127480000002,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517390,
@@ -27861,7 +27861,7 @@
     "side": "BUY",
     "usd": 5244.286666,
     "odds_at_bet": 88,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517391,
@@ -27873,7 +27873,7 @@
     "side": "BUY",
     "usd": 2510.933333,
     "odds_at_bet": 88,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517393,
@@ -27885,7 +27885,7 @@
     "side": "BUY",
     "usd": 2482.1397810000003,
     "odds_at_bet": 73,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517416,
@@ -27957,7 +27957,7 @@
     "side": "BUY",
     "usd": 2793.6749999999997,
     "odds_at_bet": 96,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517540,
@@ -27969,7 +27969,7 @@
     "side": "BUY",
     "usd": 4705.625088000001,
     "odds_at_bet": 97,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517551,
@@ -27993,7 +27993,7 @@
     "side": "BUY",
     "usd": 4832.82,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517582,
@@ -28005,7 +28005,7 @@
     "side": "BUY",
     "usd": 1123.9437,
     "odds_at_bet": 33,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785517587,
@@ -28029,7 +28029,7 @@
     "side": "BUY",
     "usd": 6213.483000000001,
     "odds_at_bet": 54,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517823,
@@ -28041,7 +28041,7 @@
     "side": "BUY",
     "usd": 2784.899034,
     "odds_at_bet": 54,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785517828,
@@ -28077,7 +28077,7 @@
     "side": "BUY",
     "usd": 1004.4311999999999,
     "odds_at_bet": 76,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785518027,
@@ -28137,7 +28137,7 @@
     "side": "BUY",
     "usd": 1328.9492,
     "odds_at_bet": 92,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785518069,
@@ -28185,7 +28185,7 @@
     "side": "BUY",
     "usd": 2762.9097,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785518119,
@@ -28197,7 +28197,7 @@
     "side": "BUY",
     "usd": 2556.33,
     "odds_at_bet": 49,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785518121,
@@ -28245,7 +28245,7 @@
     "side": "BUY",
     "usd": 1477.71,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785518398,
@@ -28269,7 +28269,7 @@
     "side": "BUY",
     "usd": 1784.874,
     "odds_at_bet": 93,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785518495,
@@ -28293,7 +28293,7 @@
     "side": "BUY",
     "usd": 9344.79,
     "odds_at_bet": 88,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785518512,
@@ -28341,7 +28341,7 @@
     "side": "BUY",
     "usd": 7723.9007,
     "odds_at_bet": 67,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785518563,
@@ -28389,7 +28389,7 @@
     "side": "BUY",
     "usd": 1310.36,
     "odds_at_bet": 94,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785518634,
@@ -28461,7 +28461,7 @@
     "side": "BUY",
     "usd": 3022.92972,
     "odds_at_bet": 97,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785518713,
@@ -28545,7 +28545,7 @@
     "side": "BUY",
     "usd": 2968.2061360000002,
     "odds_at_bet": 53,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785518924,
@@ -28557,7 +28557,7 @@
     "side": "BUY",
     "usd": 6109.940700000001,
     "odds_at_bet": 53,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785518942,
@@ -28593,7 +28593,7 @@
     "side": "BUY",
     "usd": 4927.8,
     "odds_at_bet": 86,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785518949,
@@ -28773,7 +28773,7 @@
     "side": "BUY",
     "usd": 1581.06,
     "odds_at_bet": 78,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785519455,
@@ -28953,7 +28953,7 @@
     "side": "BUY",
     "usd": 1333.3333330000003,
     "odds_at_bet": 40,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785520044,
@@ -29241,7 +29241,7 @@
     "side": "BUY",
     "usd": 1038.699069,
     "odds_at_bet": 57,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785520204,
@@ -29265,7 +29265,7 @@
     "side": "BUY",
     "usd": 6340.510000000001,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785520219,
@@ -29277,7 +29277,7 @@
     "side": "BUY",
     "usd": 4149.0,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785520276,
@@ -29289,7 +29289,7 @@
     "side": "BUY",
     "usd": 3352.7000000000003,
     "odds_at_bet": 65,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785520276,
@@ -29301,7 +29301,7 @@
     "side": "BUY",
     "usd": 1796.922666,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785520276,
@@ -29313,7 +29313,7 @@
     "side": "BUY",
     "usd": 7493.330000000001,
     "odds_at_bet": 65,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785520303,
@@ -29325,7 +29325,7 @@
     "side": "BUY",
     "usd": 4557.6,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785520303,
@@ -29337,7 +29337,7 @@
     "side": "BUY",
     "usd": 3063.6,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785520306,
@@ -29373,7 +29373,7 @@
     "side": "BUY",
     "usd": 6090.909090000001,
     "odds_at_bet": 67,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785520379,
@@ -29385,7 +29385,7 @@
     "side": "BUY",
     "usd": 1415.31,
     "odds_at_bet": 57,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785520627,
@@ -29397,7 +29397,7 @@
     "side": "BUY",
     "usd": 5538.8,
     "odds_at_bet": 61,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785520627,
@@ -29409,7 +29409,7 @@
     "side": "BUY",
     "usd": 3541.2000000000003,
     "odds_at_bet": 39,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785520657,
@@ -29445,7 +29445,7 @@
     "side": "BUY",
     "usd": 1266.6654,
     "odds_at_bet": 38,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785520755,
@@ -29493,7 +29493,7 @@
     "side": "BUY",
     "usd": 2749.349032,
     "odds_at_bet": 38,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785520843,
@@ -29505,7 +29505,7 @@
     "side": "BUY",
     "usd": 1151.4312,
     "odds_at_bet": 12,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785520844,
@@ -29517,7 +29517,7 @@
     "side": "BUY",
     "usd": 8714.024,
     "odds_at_bet": 88,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785520867,
@@ -29565,7 +29565,7 @@
     "side": "BUY",
     "usd": 1768.2944069999999,
     "odds_at_bet": 87,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785520893,
@@ -29577,7 +29577,7 @@
     "side": "BUY",
     "usd": 4487.46,
     "odds_at_bet": 87,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785520893,
@@ -29589,7 +29589,7 @@
     "side": "BUY",
     "usd": 5357.6624,
     "odds_at_bet": 86,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785520893,
@@ -29601,7 +29601,7 @@
     "side": "BUY",
     "usd": 8127.409500000001,
     "odds_at_bet": 87,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785520893,
@@ -29613,7 +29613,7 @@
     "side": "BUY",
     "usd": 4132.3,
     "odds_at_bet": 86,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785520920,
@@ -29625,7 +29625,7 @@
     "side": "BUY",
     "usd": 4556.598199999999,
     "odds_at_bet": 86,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785520921,
@@ -29649,7 +29649,7 @@
     "side": "BUY",
     "usd": 6048.96,
     "odds_at_bet": 96,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785520959,
@@ -29673,7 +29673,7 @@
     "side": "BUY",
     "usd": 1200.0,
     "odds_at_bet": 96,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785520984,
@@ -29697,7 +29697,7 @@
     "side": "BUY",
     "usd": 1447.7540999999999,
     "odds_at_bet": 97,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785521058,
@@ -29769,7 +29769,7 @@
     "side": "BUY",
     "usd": 10559.84036,
     "odds_at_bet": 92,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785521177,
@@ -31413,7 +31413,7 @@
     "side": "BUY",
     "usd": 1966.1100860000001,
     "odds_at_bet": 93,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1785524046,
@@ -31473,7 +31473,7 @@
     "side": "BUY",
     "usd": 3461.8443,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "timestamp": 1785524335,
@@ -33477,6 +33477,114 @@
     "side": "BUY",
     "usd": 1279.314166,
     "odds_at_bet": 25,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785527094,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-minaur-nakashi-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 1116.5,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785527094,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-minaur-nakashi-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 2883.65,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785527101,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-minaur-nakashi-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 1116.5,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785527146,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-minaur-nakashi-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 6225.222600000001,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785527146,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-minaur-nakashi-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 2831.2200000000003,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785527146,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-minaur-nakashi-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 1096.2,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785527157,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-cocciar-osaka-2026-07-31",
+    "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Naomi Osaka",
+    "outcome": "Elisabetta Cocciaretto",
+    "side": "BUY",
+    "usd": 2882.05,
+    "odds_at_bet": 25,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785527221,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-cin-2026-07-31-total-7pt5",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 14642.029999,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785527237,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-xtreme-lgd-2026-07-31-game2",
+    "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1062.7104,
+    "odds_at_bet": 92,
     "status": "pending"
   }
 ]

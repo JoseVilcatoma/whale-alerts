@@ -1,33 +1,33 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 14:43:19 (hora de Perú)
+Actualizado: 2026-07-31 14:48:36 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
 | mooseborzoi | 1 | 0 | 6 | ⚠️ 100% (muestra chica: 1) |
-| swisstony | 304 | 59 | 89 | 84% |
-| cigarettes | 21 | 4 | 16 | 84% |
-| RN1 | 415 | 192 | 140 | 68% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 113 | 67 | 44 | 63% |
+| cigarettes | 31 | 5 | 5 | 86% |
+| swisstony | 316 | 59 | 80 | 84% |
+| RN1 | 450 | 206 | 93 | 69% |
+| sbsigner | 15 | 9 | 6 | 62% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 119 | 72 | 33 | 62% |
+| ferrariChampions2026 | 421 | 291 | 234 | 59% |
 | UpTheBlues | 22 | 15 | 43 | 59% |
-| ferrariChampions2026 | 323 | 234 | 385 | 58% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 9 | 7 | 0 | 56% |
-| sbsigner | 9 | 8 | 13 | 53% |
 | Eztennis | 28 | 30 | 0 | 48% |
-| 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 6 | 5 | 40% |
 | BreakTheBank | 2 | 3 | 3 | ⚠️ 40% (muestra chica: 5) |
 | 1winstreak1 | 9 | 14 | 0 | 39% |
 | wr0ngw4yb3tt0r | 18 | 30 | 4 | 38% |
+| 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 9 | 2 | 31% |
 | pleaseplease123 | 2 | 15 | 8 | 12% |
 | monkeymashingkeyboard | 1 | 11 | 5 | 8% |
+| Djdjdjekekek | 0 | 8 | 5 | 0% |
 | pada | 0 | 0 | 5 | — |
 | Hauchn | 0 | 0 | 6 | — |
 | CentralCasting | 0 | 0 | 1 | — |
 | balthazar | 0 | 0 | 17 | — |
 | Sparkling8899 | 0 | 0 | 4 | — |
-| Djdjdjekekek | 0 | 0 | 13 | — |
 | PASSTHEMONEY | 0 | 0 | 5 | — |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 1 | — |
 | Talvez10 | 0 | 0 | 1 | — |
