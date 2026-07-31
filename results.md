@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 17:53:15 (hora de Perú)
+Actualizado: 2026-07-31 17:55:18 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -9,12 +9,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 1 | 0 | 3 | ⚠️ 100% (muestra chica: 1) |
 | Talvez10 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | cigarettes | 35 | 5 | 2 | 88% |
-| swisstony | 370 | 66 | 56 | 85% |
+| swisstony | 370 | 66 | 57 | 85% |
 | Djdjdjekekek | 40 | 10 | 39 | 80% |
-| RN1 | 515 | 233 | 69 | 69% |
+| RN1 | 515 | 233 | 71 | 69% |
 | UpTheBlues | 29 | 16 | 40 | 64% |
 | sbsigner | 17 | 10 | 3 | 63% |
-| ferrariChampions2026 | 594 | 373 | 94 | 61% |
+| ferrariChampions2026 | 594 | 373 | 95 | 61% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 134 | 91 | 14 | 60% |
 | mooseborzoi | 3 | 2 | 3 | ⚠️ 60% (muestra chica: 5) |
 | BreakTheBank | 4 | 3 | 2 | ⚠️ 57% (muestra chica: 7) |
