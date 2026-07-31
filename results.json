@@ -39526,5 +39526,29 @@
     "usd": 1102.9995999999999,
     "odds_at_bet": 37,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785541889,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-eala-svitoli-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 6455.792000000001,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785541889,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-eala-svitoli-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 4342.8,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
