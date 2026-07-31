@@ -24982,5 +24982,17 @@
     "usd": 2414.6868000000004,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785509773,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-dahlin-galan-2026-07-31",
+    "title": "Bonn: Max Dahlin vs Daniel Galan",
+    "outcome": "Daniel Galan",
+    "side": "BUY",
+    "usd": 1348.7760000000003,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]
