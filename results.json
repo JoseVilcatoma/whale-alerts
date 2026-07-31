@@ -33826,5 +33826,17 @@
     "usd": 1506.5838,
     "odds_at_bet": 81,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785528235,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 3626.678027,
+    "odds_at_bet": 63,
+    "status": "pending"
   }
 ]
