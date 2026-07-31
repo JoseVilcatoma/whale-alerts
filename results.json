@@ -16102,5 +16102,89 @@
     "usd": 1228.5,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785461669,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-ind-new-2026-07-30-new",
+    "title": "Will CA Newell's Old Boys win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2145.2099550000003,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785461696,
+    "username": "BreakTheBank",
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "slug": "mlb-bos-oak-2026-07-30",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 2743.8732,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785461698,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-wsh-atl-2026-07-30",
+    "title": "Washington Nationals vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 1809.75,
+    "odds_at_bet": 95,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785461736,
+    "username": "BreakTheBank",
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "slug": "mlb-sf-sd-2026-07-30",
+    "title": "San Francisco Giants vs. San Diego Padres",
+    "outcome": "San Francisco Giants",
+    "side": "BUY",
+    "usd": 43333.286100000005,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785461740,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-cor-cru-2026-07-30-cor",
+    "title": "Will Coritiba FBC win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1207.68,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785461748,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-sf-sd-2026-07-30-spread-home-1pt5",
+    "title": "Spread: San Diego Padres (-1.5)",
+    "outcome": "San Francisco Giants",
+    "side": "BUY",
+    "usd": 10746.9992,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785461766,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-cerundo-gea-2026-07-30",
+    "title": "Los Cabos Open: Francisco Cerundolo vs Arthur Gea",
+    "outcome": "Francisco Cerundolo",
+    "side": "BUY",
+    "usd": 3276.51,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
