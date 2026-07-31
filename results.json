@@ -37138,5 +37138,89 @@
     "usd": 1489.4299999999998,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785535003,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 1361.7784609999999,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785535009,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 2548.6174,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785535027,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "wnba-sea-atl-2026-07-31-total-179pt5",
+    "title": "Seattle Storm vs. Atlanta Dream: O/U 179.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 5570.240400000001,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785535062,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Alex Michelsen",
+    "side": "BUY",
+    "usd": 2639.52,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785535062,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 20552.5159,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785535067,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 3065.1715,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785535124,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 4256.1548999999995,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
