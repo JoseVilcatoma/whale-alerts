@@ -15418,5 +15418,41 @@
     "usd": 1056.25,
     "odds_at_bet": 65,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785460481,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-sf-sd-2026-07-30-total-8pt5",
+    "title": "San Francisco Giants vs. San Diego Padres: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 6063.9974999999995,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785460481,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sf-sd-2026-07-30-total-8pt5",
+    "title": "San Francisco Giants vs. San Diego Padres: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1131.8535,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785460481,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-sf-sd-2026-07-30-total-8pt5",
+    "title": "San Francisco Giants vs. San Diego Padres: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1038.639014,
+    "odds_at_bet": 44,
+    "status": "pending"
   }
 ]
