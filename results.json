@@ -20866,5 +20866,65 @@
     "usd": 5043.325,
     "odds_at_bet": 90,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785494685,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-drx-2026-07-31",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 1236.2707679999999,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785494746,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-drx-2026-07-31-game1",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX - Game 1 Winner",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 1127.2822,
+    "odds_at_bet": 22,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785494747,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-drx-2026-07-31-game1",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX - Game 1 Winner",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 1178.5223,
+    "odds_at_bet": 23,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785494752,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-pree-rajecki-2026-07-31",
+    "title": "ITF Dublin: Britt Du Pree vs Amelia Rajecki",
+    "outcome": "Amelia Rajecki",
+    "side": "BUY",
+    "usd": 5251.7392,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785494753,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-pree-rajecki-2026-07-31",
+    "title": "ITF Dublin: Britt Du Pree vs Amelia Rajecki",
+    "outcome": "Britt Du Pree",
+    "side": "BUY",
+    "usd": 1152.8208,
+    "odds_at_bet": 18,
+    "status": "pending"
   }
 ]
