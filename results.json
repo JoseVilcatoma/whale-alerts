@@ -23038,5 +23038,65 @@
     "usd": 1475.6699999999998,
     "odds_at_bet": 70,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785501337,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30-game1",
+    "title": "Counter-Strike: FaZe vs TheMongolz - Map 1 Winner",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 1127.310126,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785501379,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-krumich-nagal-2026-07-31",
+    "title": "Liberec: Martin Krumich vs Sumit Nagal",
+    "outcome": "Sumit Nagal",
+    "side": "BUY",
+    "usd": 1220.496363,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785501382,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30-game1",
+    "title": "Counter-Strike: FaZe vs TheMongolz - Map 1 Winner",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 1189.4813,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785501382,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30-game1",
+    "title": "Counter-Strike: FaZe vs TheMongolz - Map 1 Winner",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 2954.72,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785501382,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30-game1",
+    "title": "Counter-Strike: FaZe vs TheMongolz - Map 1 Winner",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 2360.0,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
