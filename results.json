@@ -29878,5 +29878,65 @@
     "usd": 1286.461538,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785521260,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "cze1-asp-fcz-2026-07-31-spread-away-2pt5",
+    "title": "Spread: FC Zl\u00edn (-2.5)",
+    "outcome": "AC Sparta Praha",
+    "side": "BUY",
+    "usd": 1558.44,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785521301,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "cze1-asp-fcz-2026-07-31-spread-away-2pt5",
+    "title": "Spread: FC Zl\u00edn (-2.5)",
+    "outcome": "AC Sparta Praha",
+    "side": "BUY",
+    "usd": 1558.44,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785521312,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game2",
+    "title": "Counter-Strike: paiN vs Astralis - Map 2 Winner",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 1326.963,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785521323,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-pain-ast10-2026-07-30-game2",
+    "title": "Counter-Strike: paiN vs Astralis - Map 2 Winner",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 3786.1600000000003,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785521348,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-mkoi-shft-2026-07-31-game2",
+    "title": "LoL: Movistar KOI vs Shifters - Game 2 Winner",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 3181.5,
+    "odds_at_bet": 70,
+    "status": "pending"
   }
 ]
