@@ -17530,5 +17530,29 @@
     "usd": 1094.113636,
     "odds_at_bet": 45,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785466971,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-bos-oak-2026-07-30-spread-away-1pt5",
+    "title": "Spread: Boston Red Sox (-1.5)",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 1295.3600000000001,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785466971,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-oak-2026-07-30-spread-away-1pt5",
+    "title": "Spread: Boston Red Sox (-1.5)",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 5916.5568,
+    "odds_at_bet": 63,
+    "status": "pending"
   }
 ]
