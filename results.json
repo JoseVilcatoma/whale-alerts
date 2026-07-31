@@ -27346,5 +27346,89 @@
     "usd": 3182.37,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785516535,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game1",
+    "title": "Counter-Strike: paiN vs Astralis - Map 1 Winner",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 1964.782222,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785516535,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game1",
+    "title": "Counter-Strike: paiN vs Astralis - Map 1 Winner",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 1177.2032000000002,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785516535,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game1",
+    "title": "Counter-Strike: paiN vs Astralis - Map 1 Winner",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 1373.8496,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785516535,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game1",
+    "title": "Counter-Strike: paiN vs Astralis - Map 1 Winner",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 1373.8432,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785516591,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-pegula-kalinsk-2026-07-31",
+    "title": "Mubadala Citi DC Open: Jessica Pegula vs Anna Kalinskaya",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "usd": 2668.7006,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785516594,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game1",
+    "title": "Counter-Strike: paiN vs Astralis - Map 1 Winner",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 2707.32,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785516605,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-tormo-bronzet-2026-07-31",
+    "title": "Targu Mures: Sara Sorribes Tormo vs Lucia Bronzetti",
+    "outcome": "Lucia Bronzetti",
+    "side": "BUY",
+    "usd": 4157.177142,
+    "odds_at_bet": 72,
+    "status": "pending"
   }
 ]
