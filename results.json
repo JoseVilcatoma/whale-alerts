@@ -24082,5 +24082,17 @@
     "usd": 3915.6615,
     "odds_at_bet": 81,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785505794,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-enjoy-glyph-2026-07-31-game2",
+    "title": "Dota 2: Enjoy vs GLYPH - Game 2 Winner",
+    "outcome": "Enjoy",
+    "side": "BUY",
+    "usd": 1795.7713999999999,
+    "odds_at_bet": 83,
+    "status": "pending"
   }
 ]
