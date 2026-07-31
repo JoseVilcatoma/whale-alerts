@@ -15370,5 +15370,29 @@
     "usd": 18761.8736,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785460078,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-bonzi-friend-2026-07-30",
+    "title": "Vancouver: Benjamin Bonzi vs Jay Dylan Friend",
+    "outcome": "Benjamin Bonzi",
+    "side": "BUY",
+    "usd": 1689.126792,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785460123,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-cor-cru-2026-07-30-cru",
+    "title": "Will Cruzeiro EC win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1104.8400000000001,
+    "odds_at_bet": 66,
+    "status": "pending"
   }
 ]
