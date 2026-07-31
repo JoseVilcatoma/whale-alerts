@@ -26590,5 +26590,29 @@
     "usd": 1400.0000000000002,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785515026,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-min-sea-2026-07-31-total-7pt5",
+    "title": "Minnesota Twins vs. Seattle Mariners: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 3717.6699989999993,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785515054,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-muller-poljica-2026-07-31",
+    "title": "San Marino: Alexandre Muller vs Mili Poljicak",
+    "outcome": "Alexandre Muller",
+    "side": "BUY",
+    "usd": 1404.8828,
+    "odds_at_bet": 31,
+    "status": "pending"
   }
 ]
