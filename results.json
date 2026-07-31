@@ -22606,5 +22606,29 @@
     "usd": 1339.4999999999998,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785499965,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "hr1-din-sla-2026-08-01-team-total-away-2pt5",
+    "title": "GNK Dinamo Zagreb vs. NK Slaven Belupo: NK Slaven Belupo O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1630.3,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785499965,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "hr1-din-sla-2026-08-01-total-0pt5",
+    "title": "GNK Dinamo Zagreb vs. NK Slaven Belupo: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 5020.029998,
+    "odds_at_bet": 96,
+    "status": "pending"
   }
 ]
