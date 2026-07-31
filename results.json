@@ -26578,5 +26578,17 @@
     "usd": 3530.9,
     "odds_at_bet": 31,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785514960,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-gm-2026-07-31-game2",
+    "title": "Valorant: BBL Esports vs Gentle Mates - Map 2 Winner",
+    "outcome": "Gentle Mates",
+    "side": "BUY",
+    "usd": 1400.0000000000002,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
