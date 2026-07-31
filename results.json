@@ -20362,5 +20362,29 @@
     "usd": 2075.0,
     "odds_at_bet": 83,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785492397,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-we-blg-2026-07-31-game2",
+    "title": "LoL: Team WE vs Bilibili Gaming - Game 2 Winner",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 1697.188,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785492418,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-we-blg-2026-07-31",
+    "title": "LoL: Team WE vs Bilibili Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 2228.6688879999997,
+    "odds_at_bet": 82,
+    "status": "pending"
   }
 ]
