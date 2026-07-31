@@ -22534,5 +22534,53 @@
     "usd": 1173.9114,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785499566,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "chi-hen-ygb-2026-07-31-first-half-total-1pt5",
+    "title": "Henan FC vs. Dalian Yingbo FC: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1018.0300000000001,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785499575,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-kouzmin-manas-2026-07-31",
+    "title": "Samsun: Constantin Bittoun Kouzmine vs Manoj Dhamne Manas",
+    "outcome": "Manoj Dhamne Manas",
+    "side": "BUY",
+    "usd": 1069.2,
+    "odds_at_bet": 22,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785499575,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-kouzmin-manas-2026-07-31",
+    "title": "Samsun: Constantin Bittoun Kouzmine vs Manoj Dhamne Manas",
+    "outcome": "Manoj Dhamne Manas",
+    "side": "BUY",
+    "usd": 1889.7285939999997,
+    "odds_at_bet": 21,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785499575,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kouzmin-manas-2026-07-31",
+    "title": "Samsun: Constantin Bittoun Kouzmine vs Manoj Dhamne Manas",
+    "outcome": "Manoj Dhamne Manas",
+    "side": "BUY",
+    "usd": 2491.1458,
+    "odds_at_bet": 22,
+    "status": "pending"
   }
 ]
