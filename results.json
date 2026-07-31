@@ -22594,5 +22594,17 @@
     "usd": 1083.333333,
     "odds_at_bet": 52,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785499908,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "mex-pue-gua-2026-07-31-total-2pt5",
+    "title": "Club Puebla vs. CD Guadalajara: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1339.4999999999998,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
