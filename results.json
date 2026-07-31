@@ -37222,5 +37222,65 @@
     "usd": 4256.1548999999995,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785535193,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Alex Michelsen",
+    "side": "BUY",
+    "usd": 1355.6340000000002,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785535202,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-shnaide-samsono-2026-07-31",
+    "title": "Mubadala Citi DC Open: Diana Shnaider vs Liudmila Samsonova",
+    "outcome": "Diana Shnaider",
+    "side": "BUY",
+    "usd": 2760.0,
+    "odds_at_bet": 92,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785535202,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 1297.0614,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785535203,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 3554.4136,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785535203,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 3211.869999,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
