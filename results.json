@@ -21730,5 +21730,29 @@
     "usd": 5809.9917,
     "odds_at_bet": 83,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785497746,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-bro2-drx-2026-07-31",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 4645.0199999999995,
+    "odds_at_bet": 24,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785497851,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-krumich-nagal-2026-07-31",
+    "title": "Liberec: Martin Krumich vs Sumit Nagal",
+    "outcome": "Sumit Nagal",
+    "side": "BUY",
+    "usd": 1861.466605,
+    "odds_at_bet": 43,
+    "status": "pending"
   }
 ]
