@@ -36790,5 +36790,29 @@
     "usd": 1074.3732,
     "odds_at_bet": 36,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785533822,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Alex Michelsen",
+    "side": "BUY",
+    "usd": 1827.36,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785533822,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-sea-atl-2026-07-31-total-179pt5",
+    "title": "Seattle Storm vs. Atlanta Dream: O/U 179.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 8701.9982,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]
