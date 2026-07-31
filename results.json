@@ -23326,5 +23326,53 @@
     "usd": 2010.96,
     "odds_at_bet": 63,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785502129,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30-game1",
+    "title": "Counter-Strike: FaZe vs TheMongolz - Map 1 Winner",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 3734.6820000000002,
+    "odds_at_bet": 20,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785502171,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-enjoy-glyph-2026-07-31-game1",
+    "title": "Dota 2: Enjoy vs GLYPH - Game 1 Winner",
+    "outcome": "GLYPH",
+    "side": "BUY",
+    "usd": 1005.1999999999999,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785502171,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-enjoy-glyph-2026-07-31-game1",
+    "title": "Dota 2: Enjoy vs GLYPH - Game 1 Winner",
+    "outcome": "GLYPH",
+    "side": "BUY",
+    "usd": 1152.0,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785502223,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "itf-lene-curmi-2026-07-31",
+    "title": "ITF Gran Canaria: Emma Lene vs Francesca Curmi",
+    "outcome": "Emma Lene",
+    "side": "BUY",
+    "usd": 1000.6200000000001,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
