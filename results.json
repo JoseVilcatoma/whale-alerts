@@ -14338,5 +14338,101 @@
     "usd": 1607.4,
     "odds_at_bet": 76,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785456524,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-cor1-cap-2026-07-30-cor1",
+    "title": "Will SC Corinthians Paulista win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1487.7531999999999,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785456551,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-conn-chi-2026-07-30-total-173pt5",
+    "title": "Connecticut Sun vs. Chicago Sky: O/U 173.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1037.5335,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785456592,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-bonzi-friend-2026-07-30",
+    "title": "Vancouver: Benjamin Bonzi vs Jay Dylan Friend",
+    "outcome": "Benjamin Bonzi",
+    "side": "BUY",
+    "usd": 3660.8324999999995,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785456610,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-cor1-cap-2026-07-30-draw",
+    "title": "Will SC Corinthians Paulista vs. CA Paranaense end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1377.52,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785456627,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-cor1-cap-2026-07-30-draw",
+    "title": "Will SC Corinthians Paulista vs. CA Paranaense end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 5743.979998,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785456646,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-cor1-cap-2026-07-30-total-0pt5",
+    "title": "SC Corinthians Paulista vs. CA Paranaense: O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1146.3725000000002,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785456646,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-cor1-cap-2026-07-30-total-0pt5",
+    "title": "SC Corinthians Paulista vs. CA Paranaense: O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1324.05,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785456646,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-cor1-cap-2026-07-30-total-0pt5",
+    "title": "SC Corinthians Paulista vs. CA Paranaense: O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1135.2832,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]
