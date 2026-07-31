@@ -19042,5 +19042,17 @@
     "usd": 1253.1285,
     "odds_at_bet": 45,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785487007,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-ferrari-ghetu-2026-07-31",
+    "title": "ITF Pitesti: Francesco Ferrari vs Gabriel Ghetu",
+    "outcome": "Francesco Ferrari",
+    "side": "BUY",
+    "usd": 1723.733103,
+    "odds_at_bet": 71,
+    "status": "pending"
   }
 ]
