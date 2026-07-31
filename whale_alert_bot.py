@@ -38,14 +38,6 @@ urllib3_cn.allowed_gai_family = _allowed_gai_family
 
 DATA_API = "https://data-api.polymarket.com"
 GAMMA_API = "https://gamma-api.polymarket.com"
-POLYGON_RPC = "https://polygon-rpc.com"
-# Los tokens que Polymarket usa (o usó hasta hace poco) como "efectivo" del usuario.
-# Sumamos los dos porque la plataforma migró de USDC.e a pUSD recién a fines de abril
-# 2026, así que hay wallets con saldo repartido entre uno y otro.
-STABLE_TOKENS = {
-    "pUSD": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
-    "USDC.e": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-}
 RTDS_URL = "wss://ws-live-data.polymarket.com"
 RESULTS_FILE = Path(__file__).parent / "results.json"
 SUMMARY_FILE = Path(__file__).parent / "results.md"
@@ -240,37 +232,12 @@ def get_open_positions_value(wallet):
         return None
 
 
-def get_erc20_balance(wallet, token_address):
-    """Consulta el saldo de un token ERC-20 directo de la blockchain de Polygon (pública,
-    sin necesidad de API key) — es la única forma de saber el efectivo real disponible."""
-    try:
-        data = "0x70a08231" + wallet.lower().replace("0x", "").rjust(64, "0")
-        payload = {"jsonrpc": "2.0", "id": 1, "method": "eth_call", "params": [{"to": token_address, "data": data}, "latest"]}
-        r = requests.post(POLYGON_RPC, json=payload, timeout=8)
-        result = r.json().get("result")
-        if not result or result == "0x":
-            return 0.0
-        return int(result, 16) / 1_000_000  # estos stablecoins usan 6 decimales
-    except Exception as e:
-        print(f"Error consultando balance on-chain: {e}", file=sys.stderr)
-        return 0.0
-
-
-def get_cash_balance(wallet):
-    return sum(get_erc20_balance(wallet, addr) for addr in STABLE_TOKENS.values())
-
-
 def stake_line(usd, wallet):
-    positions_value = get_open_positions_value(wallet) or 0
-    cash = get_cash_balance(wallet)
-    total = positions_value + cash
-    if total <= 0:
+    value = get_open_positions_value(wallet)
+    if value is None or value <= 0:
         return ""
-    pct = usd / total * 100
-    return (
-        f"💰 Esta apuesta es el {pct:.0f}% de su capital total en Polymarket "
-        f"(${total:,.0f} = ${positions_value:,.0f} en posiciones + ${cash:,.0f} en efectivo)\n"
-    )
+    pct = usd / value * 100
+    return f"📐 Esta apuesta es el {pct:.0f}% de sus posiciones abiertas actuales (${value:,.0f} — no incluye efectivo sin invertir)\n"
 
 
 def build_ticket(username, trade, usd, odds, wallet):
