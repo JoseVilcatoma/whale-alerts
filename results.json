@@ -24610,5 +24610,113 @@
     "usd": 1918.842542,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785507626,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-nyy-chc-2026-07-31-total-8pt5",
+    "title": "New York Yankees vs. Chicago Cubs: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 10794.8146,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785507627,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30-game2",
+    "title": "Counter-Strike: FaZe vs TheMongolz - Map 2 Winner",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 1546.9590770000002,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785507644,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-m05-sah-2026-07-31-total-1pt5",
+    "title": "FSV Mainz vs. Shabab Al Ahli Dubai: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1185.0,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785507658,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30-game2",
+    "title": "Counter-Strike: FaZe vs TheMongolz - Map 2 Winner",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 1183.46129,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785507674,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30",
+    "title": "Counter-Strike: FaZe vs TheMongolz (BO3) - BLAST Bounty Playoffs",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 1192.227,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785507678,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30-game2",
+    "title": "Counter-Strike: FaZe vs TheMongolz - Map 2 Winner",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 6026.459999999999,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785507723,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-nyy-chc-2026-07-31-total-9pt5",
+    "title": "New York Yankees vs. Chicago Cubs: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 13999.999998,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785507734,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-matsuda-debru-2026-07-31",
+    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+    "outcome": "Koki Matsuda",
+    "side": "BUY",
+    "usd": 3650.1384,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785507741,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "mlb-nyy-chc-2026-07-31-total-9pt5",
+    "title": "New York Yankees vs. Chicago Cubs: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1294.3044000000002,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
