@@ -26542,5 +26542,17 @@
     "usd": 39523.7056,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785514701,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "nor-vif-ham-2026-07-31-total-3pt5",
+    "title": "V\u00e5lerenga Fotball vs. Hamarkameratene: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1109.9,
+    "odds_at_bet": 44,
+    "status": "pending"
   }
 ]
