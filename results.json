@@ -21850,5 +21850,29 @@
     "usd": 1498.635,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785497989,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-drx-2026-07-31-game2",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX - Game 2 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1999.2,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785497996,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-drx-2026-07-31-game2",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX - Game 2 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1486.12,
+    "odds_at_bet": 50,
+    "status": "pending"
   }
 ]
