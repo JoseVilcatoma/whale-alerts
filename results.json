@@ -18538,5 +18538,17 @@
     "usd": 6834.4749,
     "odds_at_bet": 99,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785480742,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-biryuko-mitsui-2026-07-31",
+    "title": "ITF Astana: Petr Bar Biryukov vs Shunsuke Mitsui",
+    "outcome": "Petr Bar Biryukov",
+    "side": "BUY",
+    "usd": 3249.3999999999996,
+    "odds_at_bet": 70,
+    "status": "pending"
   }
 ]
