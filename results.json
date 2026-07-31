@@ -36922,5 +36922,17 @@
     "usd": 5995.79,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785534460,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-c9-loud-2026-07-31-game1",
+    "title": "Valorant: Cloud9 vs LOUD - Map 1 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 1265.7382,
+    "odds_at_bet": 94,
+    "status": "pending"
   }
 ]
