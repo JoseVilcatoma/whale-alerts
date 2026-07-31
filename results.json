@@ -33754,5 +33754,77 @@
     "usd": 1637.7630000000001,
     "odds_at_bet": 51,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785528081,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-flc-ngx-2026-07-31-game2",
+    "title": "Dota 2: Team Falcons vs Nigma Galaxy - Game 2 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 2717.8799999999997,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785528094,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-cocciar-osaka-2026-07-31",
+    "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Naomi Osaka",
+    "outcome": "Naomi Osaka",
+    "side": "BUY",
+    "usd": 1257.6025,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785528138,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 1247.294117,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785528138,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 3417.876244,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785528139,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 1405.212182,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785528149,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-nyy-chc-2026-07-31",
+    "title": "New York Yankees vs. Chicago Cubs",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 1506.5838,
+    "odds_at_bet": 81,
+    "status": "pending"
   }
 ]
