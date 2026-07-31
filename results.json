@@ -18322,5 +18322,41 @@
     "usd": 1669.1200000000001,
     "odds_at_bet": 32,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785478021,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-norrie-tomic-2026-07-31",
+    "title": "Los Cabos Open: Cameron Norrie vs Bernard Tomic",
+    "outcome": "Bernard Tomic",
+    "side": "BUY",
+    "usd": 2610.0,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785478023,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-norrie-tomic-2026-07-31",
+    "title": "Los Cabos Open: Cameron Norrie vs Bernard Tomic",
+    "outcome": "Bernard Tomic",
+    "side": "BUY",
+    "usd": 2519.9579,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785478023,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-norrie-tomic-2026-07-31",
+    "title": "Los Cabos Open: Cameron Norrie vs Bernard Tomic",
+    "outcome": "Bernard Tomic",
+    "side": "BUY",
+    "usd": 2610.0,
+    "odds_at_bet": 29,
+    "status": "pending"
   }
 ]
