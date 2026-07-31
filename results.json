@@ -18226,5 +18226,17 @@
     "usd": 1950.7572999999998,
     "odds_at_bet": 97,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785475206,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-doubles-kuprlac-rogezam-2026-07-30",
+    "title": "Vancouver (Doubles): Kupres/Lacasse vs Rogers/Zamarripa",
+    "outcome": "Rogers/Zamarripa",
+    "side": "BUY",
+    "usd": 2036.6000000000001,
+    "odds_at_bet": 68,
+    "status": "pending"
   }
 ]
