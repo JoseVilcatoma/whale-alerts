@@ -19858,5 +19858,53 @@
     "usd": 2734.1113,
     "odds_at_bet": 83,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785490318,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31-game2",
+    "title": "LoL: Gen.G vs T1 - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 3158.16,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785490363,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31-game2",
+    "title": "LoL: Gen.G vs T1 - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1353.5493999999999,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785490365,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31-game2",
+    "title": "LoL: Gen.G vs T1 - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1846.3038,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785490392,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31-game2",
+    "title": "LoL: Gen.G vs T1 - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 4605.190799999999,
+    "odds_at_bet": 84,
+    "status": "pending"
   }
 ]
