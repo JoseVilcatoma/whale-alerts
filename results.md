@@ -1,12 +1,12 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 08:37:34 (hora de Perú)
+Actualizado: 2026-07-31 08:39:35 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
-| mooseborzoi | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
+| mooseborzoi | 1 | 0 | 1 | ⚠️ 100% (muestra chica: 1) |
 | swisstony | 294 | 55 | 35 | 84% |
 | cigarettes | 21 | 4 | 0 | 84% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 9 | 3 | 3 | 75% |
