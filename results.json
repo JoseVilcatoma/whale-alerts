@@ -17278,5 +17278,17 @@
     "usd": 1393.32,
     "odds_at_bet": 51,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785464805,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-kuderme-svitoli-2026-07-29",
+    "title": "Mubadala Citi DC Open: Polina Kudermetova vs Elina Svitolina",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "usd": 9683.6712,
+    "odds_at_bet": 84,
+    "status": "pending"
   }
 ]
