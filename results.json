@@ -23890,5 +23890,17 @@
     "usd": 1513.2,
     "odds_at_bet": 65,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785505050,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-zakharo-zarazua-2026-07-31",
+    "title": "The Memphis Classic: Anastasia Zakharova vs Renata Zarazua",
+    "outcome": "Anastasia Zakharova",
+    "side": "BUY",
+    "usd": 4609.7054,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
