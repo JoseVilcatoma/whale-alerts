@@ -23842,5 +23842,41 @@
     "usd": 2849.9999999999995,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785504685,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-matsuda-debru-2026-07-31",
+    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "side": "BUY",
+    "usd": 1169.9088,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785504707,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-cin-2026-07-31",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 1352.519999,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785504741,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-cfo-gam-2026-07-31",
+    "title": "LoL: CTBC Flying Oyster vs GAM Esports (BO3) - LCP Group Stage",
+    "outcome": "CTBC Flying Oyster",
+    "side": "BUY",
+    "usd": 5635.023719999999,
+    "odds_at_bet": 35,
+    "status": "pending"
   }
 ]
