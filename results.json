@@ -24046,5 +24046,41 @@
     "usd": 4225.2952000000005,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785505684,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-enjoy-glyph-2026-07-31-game2",
+    "title": "Dota 2: Enjoy vs GLYPH - Game 2 Winner",
+    "outcome": "Enjoy",
+    "side": "BUY",
+    "usd": 1666.2415999999998,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785505753,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-m05-sah-2026-07-31-total-2pt5",
+    "title": "FSV Mainz vs. Shabab Al Ahli Dubai: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1448.7132000000001,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785505782,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-torres-bueno-2026-07-31",
+    "title": "Liberec: Juan Bautista Torres vs Gonzalo Bueno",
+    "outcome": "Gonzalo Bueno",
+    "side": "BUY",
+    "usd": 3915.6615,
+    "odds_at_bet": 81,
+    "status": "pending"
   }
 ]
