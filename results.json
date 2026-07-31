@@ -39190,5 +39190,41 @@
     "usd": 3054.2400000000002,
     "odds_at_bet": 63,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785541100,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-cin-2026-07-31",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 12911.591,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785541134,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-pit-cin-2026-07-31",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 2514.1434,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785541146,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-pit-cin-2026-07-31",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 1174.3171,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
