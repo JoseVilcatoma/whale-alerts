@@ -17842,5 +17842,17 @@
     "usd": 1127.989989,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785470086,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sf-sd-2026-07-30-total-7pt5",
+    "title": "San Francisco Giants vs. San Diego Padres: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1166.6666659999999,
+    "odds_at_bet": 70,
+    "status": "pending"
   }
 ]
