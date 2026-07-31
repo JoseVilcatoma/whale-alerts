@@ -36058,5 +36058,17 @@
     "usd": 2394.0,
     "odds_at_bet": 30,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785531919,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-det-oak-2026-07-31",
+    "title": "Detroit Tigers vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 1062.285714,
+    "odds_at_bet": 44,
+    "status": "pending"
   }
 ]
