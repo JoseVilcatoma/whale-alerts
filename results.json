@@ -19126,5 +19126,17 @@
     "usd": 3000.0,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785488665,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-wazny-pereir-2026-07-31",
+    "title": "ITF Koszalin: Alan Wazny vs Tiago Pereira",
+    "outcome": "Tiago Pereira",
+    "side": "BUY",
+    "usd": 1228.5714280000002,
+    "odds_at_bet": 86,
+    "status": "pending"
   }
 ]
