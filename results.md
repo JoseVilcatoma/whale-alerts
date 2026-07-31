@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 17:05:31 (hora de Perú)
+Actualizado: 2026-07-31 17:08:38 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -29,6 +29,6 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | balthazar | 0 | 0 | 17 | — |
 | Sparkling8899 | 0 | 0 | 4 | — |
 | PASSTHEMONEY | 0 | 0 | 12 | — |
-| 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 1 | — |
+| 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 2 | — |
 | Talvez10 | 0 | 0 | 1 | — |
 | Bigggggggg | 0 | 0 | 9 | — |

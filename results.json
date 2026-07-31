@@ -37342,5 +37342,17 @@
     "usd": 1878.12,
     "odds_at_bet": 37,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785535609,
+    "username": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+    "wallet": "0x1b20a00709dfe648afd26b326394b5e031f83ab0",
+    "slug": "mlb-cws-tb-2026-07-31",
+    "title": "Chicago White Sox vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 5450.7376,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
