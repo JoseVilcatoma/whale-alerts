@@ -39418,5 +39418,77 @@
     "usd": 12027.97998,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785541404,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-jodar-musetti-2026-07-31",
+    "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
+    "outcome": "Lorenzo Musetti",
+    "side": "BUY",
+    "usd": 1530.1992,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785541405,
+    "username": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+    "wallet": "0x1b20a00709dfe648afd26b326394b5e031f83ab0",
+    "slug": "mlb-kc-col-2026-07-31-total-12pt5",
+    "title": "Kansas City Royals vs. Colorado Rockies: O/U 12.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1213.6072,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785541453,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "atp-jodar-musetti-2026-07-31",
+    "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
+    "outcome": "Lorenzo Musetti",
+    "side": "BUY",
+    "usd": 6129.032258,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785541508,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-dal-wsh-2026-07-31",
+    "title": "Dallas Wings vs. Washington Mystics",
+    "outcome": "Dallas Wings",
+    "side": "BUY",
+    "usd": 1083.333333,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785541512,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cws-tb-2026-07-31",
+    "title": "Chicago White Sox vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 1333.2634,
+    "odds_at_bet": 14,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785541520,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-c9-loud-2026-07-31",
+    "title": "Valorant: Cloud9 vs LOUD (BO3) - VCT Americas Stage 2 Group Omega",
+    "outcome": "LOUD",
+    "side": "BUY",
+    "usd": 1284.666666,
+    "odds_at_bet": 94,
+    "status": "pending"
   }
 ]
