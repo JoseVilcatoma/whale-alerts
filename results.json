@@ -33970,5 +33970,29 @@
     "usd": 10043.77765,
     "odds_at_bet": 63,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785528618,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-shnaide-samsono-2026-07-31",
+    "title": "Mubadala Citi DC Open: Diana Shnaider vs Liudmila Samsonova",
+    "outcome": "Liudmila Samsonova",
+    "side": "BUY",
+    "usd": 3331.9803999999995,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785528674,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-cocciar-osaka-2026-07-31",
+    "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Naomi Osaka",
+    "outcome": "Naomi Osaka",
+    "side": "BUY",
+    "usd": 2622.4737,
+    "odds_at_bet": 77,
+    "status": "pending"
   }
 ]
