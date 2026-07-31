@@ -22510,5 +22510,29 @@
     "usd": 1066.0216,
     "odds_at_bet": 76,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785499512,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-drx-2026-07-31-game2",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX - Game 2 Winner",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 2919.28,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785499528,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-krumich-nagal-2026-07-31",
+    "title": "Liberec: Martin Krumich vs Sumit Nagal",
+    "outcome": "Sumit Nagal",
+    "side": "BUY",
+    "usd": 1173.9114,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
