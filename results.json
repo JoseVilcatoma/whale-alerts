@@ -18490,5 +18490,17 @@
     "usd": 1103.0091559999998,
     "odds_at_bet": 17,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785479536,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-norrie-tomic-2026-07-31",
+    "title": "Los Cabos Open: Cameron Norrie vs Bernard Tomic",
+    "outcome": "Cameron Norrie",
+    "side": "BUY",
+    "usd": 2368.5571,
+    "odds_at_bet": 91,
+    "status": "pending"
   }
 ]
