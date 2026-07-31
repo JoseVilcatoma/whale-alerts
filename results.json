@@ -32542,5 +32542,89 @@
     "usd": 2993.65,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785526008,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-bc-bar-2026-07-31-btts",
+    "title": "Birmingham City vs. FC Barcelona: Both Teams to Score",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1576.8,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785526012,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-minaur-nakashi-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 2161.9304,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785526037,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "hr1-din-sla-2026-08-01-draw",
+    "title": "Will GNK Dinamo Zagreb vs. NK Slaven Belupo end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1491.12,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785526037,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "hr1-din-sla-2026-08-01-draw",
+    "title": "Will GNK Dinamo Zagreb vs. NK Slaven Belupo end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2151.267241,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785526045,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-xtreme-lgd-2026-07-31-game2",
+    "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner",
+    "outcome": "Xtreme Gaming",
+    "side": "BUY",
+    "usd": 1608.3863999999999,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785526069,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 19060.830400000003,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785526103,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-cocciar-osaka-2026-07-31",
+    "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Naomi Osaka",
+    "outcome": "Elisabetta Cocciaretto",
+    "side": "BUY",
+    "usd": 1002.0372,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
