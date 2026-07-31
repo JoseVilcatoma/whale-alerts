@@ -20506,5 +20506,29 @@
     "usd": 1110.898048,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785493359,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-drx-2026-07-31-game1",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX - Game 1 Winner",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 1027.717545,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785493372,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-choinsk-wallin-2026-07-31",
+    "title": "Bonn: Jan Choinski vs Olle Wallin",
+    "outcome": "Jan Choinski",
+    "side": "BUY",
+    "usd": 1481.025,
+    "odds_at_bet": 91,
+    "status": "pending"
   }
 ]
