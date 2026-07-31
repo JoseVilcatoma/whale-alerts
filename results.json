@@ -23542,5 +23542,29 @@
     "usd": 1323.0,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785502998,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "chi-hen-ygb-2026-07-31-total-3pt5",
+    "title": "Henan FC vs. Dalian Yingbo FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1306.3076999999998,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785503066,
+    "username": "Sparkling8899",
+    "wallet": "0x2e25b222e2080c377fc1fb2b9f926315f0f4d49e",
+    "slug": "mex-jua-pum-2026-07-31-total-2pt5",
+    "title": "FC Ju\u00e1rez vs. Pumas de la UNAM: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1079.9946,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
