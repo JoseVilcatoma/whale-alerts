@@ -31822,5 +31822,41 @@
     "usd": 3460.38,
     "odds_at_bet": 66,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785525022,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-flc-ngx-2026-07-31-game1",
+    "title": "Dota 2: Team Falcons vs Nigma Galaxy - Game 1 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 1057.8213999999998,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785525055,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-xtreme-lgd-2026-07-31",
+    "title": "Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - Games of the Future Group D",
+    "outcome": "Xtreme Gaming",
+    "side": "BUY",
+    "usd": 1554.4,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785525062,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-flc-ngx-2026-07-31-game1",
+    "title": "Dota 2: Team Falcons vs Nigma Galaxy - Game 1 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 1110.8102,
+    "odds_at_bet": 58,
+    "status": "pending"
   }
 ]
