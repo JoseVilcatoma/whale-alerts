@@ -39490,5 +39490,41 @@
     "usd": 1284.666666,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785541531,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-dal-wsh-2026-07-31",
+    "title": "Dallas Wings vs. Washington Mystics",
+    "outcome": "Dallas Wings",
+    "side": "BUY",
+    "usd": 1083.333333,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785541602,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tex-hou-2026-07-31-total-7pt5",
+    "title": "Texas Rangers vs. Houston Astros: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 27777.5,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785541603,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-stl-tor-2026-07-31-total-6pt5",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1102.9995999999999,
+    "odds_at_bet": 37,
+    "status": "pending"
   }
 ]
