@@ -25990,5 +25990,53 @@
     "usd": 8009.54,
     "odds_at_bet": 49,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785512924,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-l1ga-rnx-2026-07-31",
+    "title": "Dota 2: L1ga Team vs REKONIX (BO3) - Games of the Future Group D",
+    "outcome": "REKONIX",
+    "side": "BUY",
+    "usd": 1036.0,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785512942,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-tormo-bronzet-2026-07-31",
+    "title": "Targu Mures: Sara Sorribes Tormo vs Lucia Bronzetti",
+    "outcome": "Lucia Bronzetti",
+    "side": "BUY",
+    "usd": 5247.351199999999,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785512943,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-tormo-bronzet-2026-07-31",
+    "title": "Targu Mures: Sara Sorribes Tormo vs Lucia Bronzetti",
+    "outcome": "Lucia Bronzetti",
+    "side": "BUY",
+    "usd": 1593.433113,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785512972,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-gm-2026-07-31-game1",
+    "title": "Valorant: BBL Esports vs Gentle Mates - Map 1 Winner",
+    "outcome": "BBL Esports",
+    "side": "BUY",
+    "usd": 1158.84,
+    "odds_at_bet": 58,
+    "status": "pending"
   }
 ]
