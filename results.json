@@ -28018,5 +28018,65 @@
     "usd": 1410.9108,
     "odds_at_bet": 52,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785517823,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-liutova-mcnally-2026-07-31",
+    "title": "The Memphis Classic: Kristina Liutova vs Caty McNally",
+    "outcome": "Kristina Liutova",
+    "side": "BUY",
+    "usd": 6213.483000000001,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785517823,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-liutova-mcnally-2026-07-31",
+    "title": "The Memphis Classic: Kristina Liutova vs Caty McNally",
+    "outcome": "Kristina Liutova",
+    "side": "BUY",
+    "usd": 2784.899034,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785517828,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "aut-ask-gak-2026-07-31-draw",
+    "title": "Will LASK Linz vs. Grazer AK 1902 end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 3044.73,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785517831,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "aut-ask-gak-2026-07-31-ask",
+    "title": "Will LASK Linz win on 2026-07-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2744.74,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785517853,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-havu-rgg-2026-07-31",
+    "title": "Counter-Strike: HAVU vs RoundsGG (BO1) - Elisa BreakOut Series #1 Group B",
+    "outcome": "RoundsGG",
+    "side": "BUY",
+    "usd": 1004.4311999999999,
+    "odds_at_bet": 76,
+    "status": "pending"
   }
 ]
