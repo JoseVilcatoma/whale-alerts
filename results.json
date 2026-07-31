@@ -30562,5 +30562,53 @@
     "usd": 2998.3099999999995,
     "odds_at_bet": 52,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785522712,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game2",
+    "title": "Counter-Strike: paiN vs Astralis - Map 2 Winner",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 3398.21565,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785522719,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "nor-bog-lil-2026-07-31-spread-home-1pt5",
+    "title": "Spread: FK Bod\u00f8/Glimt (-1.5)",
+    "outcome": "FK Bod\u00f8/Glimt",
+    "side": "BUY",
+    "usd": 1790.005604,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785522724,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game2",
+    "title": "Counter-Strike: paiN vs Astralis - Map 2 Winner",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 2475.4271179999996,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785522735,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-nyy-chc-2026-07-31-spread-home-1pt5",
+    "title": "Spread: Chicago Cubs (-1.5)",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 1004.1800000000001,
+    "odds_at_bet": 46,
+    "status": "pending"
   }
 ]
