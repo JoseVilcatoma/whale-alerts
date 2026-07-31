@@ -15730,5 +15730,41 @@
     "usd": 3235.72,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785461043,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-ind-new-2026-07-30-new",
+    "title": "Will CA Newell's Old Boys win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1972.01,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785461139,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-100t1-sen-2026-07-30-game2",
+    "title": "Valorant: 100 Thieves vs Sentinels - Map 2 Winner",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 1062.5,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785461147,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-100t1-sen-2026-07-30",
+    "title": "Valorant: 100 Thieves vs Sentinels (BO3) - VCT Americas Stage 2 Group Omega",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 1812.8044000000002,
+    "odds_at_bet": 44,
+    "status": "pending"
   }
 ]
