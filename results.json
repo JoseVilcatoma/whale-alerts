@@ -24370,5 +24370,41 @@
     "usd": 2919.72,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785506940,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30-game2",
+    "title": "Counter-Strike: FaZe vs TheMongolz - Map 2 Winner",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 1126.0191,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785506943,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-tormo-bronzet-2026-07-31",
+    "title": "Targu Mures: Sara Sorribes Tormo vs Lucia Bronzetti",
+    "outcome": "Lucia Bronzetti",
+    "side": "BUY",
+    "usd": 1261.119375,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785506979,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-tormo-bronzet-2026-07-31",
+    "title": "Targu Mures: Sara Sorribes Tormo vs Lucia Bronzetti",
+    "outcome": "Sara Sorribes Tormo",
+    "side": "BUY",
+    "usd": 2193.351111,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]
