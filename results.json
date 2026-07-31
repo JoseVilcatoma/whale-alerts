@@ -28606,5 +28606,101 @@
     "usd": 2220.085384,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785519052,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-bb4-liquid-2026-07-31-game2",
+    "title": "Dota 2: BetBoom Team vs Team Liquid - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 2274.492,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785519052,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-bb4-liquid-2026-07-31-game2",
+    "title": "Dota 2: BetBoom Team vs Team Liquid - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 2236.572,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785519054,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-mkoi-shft-2026-07-31",
+    "title": "LoL: Movistar KOI vs Shifters (BO3) - LEC Regular Season",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 1132.8,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785519059,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-mkoi-shft-2026-07-31",
+    "title": "LoL: Movistar KOI vs Shifters (BO3) - LEC Regular Season",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 1113.6,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785519061,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-bb4-liquid-2026-07-31-game2",
+    "title": "Dota 2: BetBoom Team vs Team Liquid - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 10037.67,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785519068,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-mkoi-shft-2026-07-31",
+    "title": "LoL: Movistar KOI vs Shifters (BO3) - LEC Regular Season",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 1156.8,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785519072,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-mkoi-shft-2026-07-31",
+    "title": "LoL: Movistar KOI vs Shifters (BO3) - LEC Regular Season",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 1137.52,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785519082,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-bb4-liquid-2026-07-31-game2",
+    "title": "Dota 2: BetBoom Team vs Team Liquid - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 1986.312,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
