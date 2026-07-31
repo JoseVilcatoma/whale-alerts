@@ -38194,5 +38194,17 @@
     "usd": 3117.4964,
     "odds_at_bet": 62,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785538899,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-rice-lajal-2026-07-31",
+    "title": "Vancouver: Keegan Rice vs Mark Lajal",
+    "outcome": "Mark Lajal",
+    "side": "BUY",
+    "usd": 4500.0,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]
