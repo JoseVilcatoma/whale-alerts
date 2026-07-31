@@ -17446,5 +17446,41 @@
     "usd": 1613.9963999999998,
     "odds_at_bet": 62,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785465977,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sea-lad-2026-07-30",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 3095.5913,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785465997,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sea-lad-2026-07-30-total-9pt5",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 4630.2873,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785466036,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mia-nym-2026-07-30-spread-home-2pt5",
+    "title": "Spread: New York Mets (-2.5)",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 1691.704,
+    "odds_at_bet": 12,
+    "status": "pending"
   }
 ]
