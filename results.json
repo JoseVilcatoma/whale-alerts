@@ -36070,5 +36070,65 @@
     "usd": 1062.285714,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785532106,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-phi-bal-2026-07-31-total-8pt5",
+    "title": "Philadelphia Phillies vs. Baltimore Orioles: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 5058.3906,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785532108,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-phi-bal-2026-07-31-total-8pt5",
+    "title": "Philadelphia Phillies vs. Baltimore Orioles: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 13715.025652000002,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785532108,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-phi-bal-2026-07-31-total-8pt5",
+    "title": "Philadelphia Phillies vs. Baltimore Orioles: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 11683.169999000002,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785532109,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-phi-bal-2026-07-31-total-8pt5",
+    "title": "Philadelphia Phillies vs. Baltimore Orioles: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1080.0,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785532118,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-phi-bal-2026-07-31-total-8pt5",
+    "title": "Philadelphia Phillies vs. Baltimore Orioles: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1080.0,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
