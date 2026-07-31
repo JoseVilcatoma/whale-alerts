@@ -23398,5 +23398,65 @@
     "usd": 1015.7400000000001,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785502360,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-prihodk-morillo-2026-07-31",
+    "title": "ITF Koszalin: Oleg Prihodko vs Imanol Lopez Morillo",
+    "outcome": "Oleg Prihodko",
+    "side": "BUY",
+    "usd": 2463.35,
+    "odds_at_bet": 95,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785502374,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "chi-hen-ygb-2026-07-31-total-2pt5",
+    "title": "Henan FC vs. Dalian Yingbo FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2393.7102,
+    "odds_at_bet": 21,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785502410,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "chi-hen-ygb-2026-07-31-ygb",
+    "title": "Will Dalian Yingbo FC win on 2026-07-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1194.489998,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785502428,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-stl-tor-2026-07-31",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 10609.650699999998,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785502428,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-stl-tor-2026-07-31",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 12200.0,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
