@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 16:26:31 (hora de Perú)
+Actualizado: 2026-07-31 16:29:23 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -12,7 +12,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RN1 | 450 | 206 | 129 | 69% |
 | sbsigner | 15 | 9 | 6 | 62% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 119 | 72 | 43 | 62% |
-| ferrariChampions2026 | 421 | 291 | 300 | 59% |
+| ferrariChampions2026 | 421 | 291 | 302 | 59% |
 | UpTheBlues | 22 | 15 | 44 | 59% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 9 | 7 | 11 | 56% |
 | Eztennis | 28 | 30 | 0 | 48% |
@@ -20,9 +20,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 1winstreak1 | 9 | 14 | 0 | 39% |
 | wr0ngw4yb3tt0r | 18 | 30 | 5 | 38% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 9 | 2 | 31% |
-| pleaseplease123 | 2 | 15 | 18 | 12% |
+| pleaseplease123 | 2 | 15 | 19 | 12% |
 | monkeymashingkeyboard | 1 | 11 | 5 | 8% |
-| Djdjdjekekek | 0 | 8 | 66 | 0% |
+| Djdjdjekekek | 0 | 8 | 71 | 0% |
 | pada | 0 | 0 | 5 | — |
 | Hauchn | 0 | 0 | 6 | — |
 | CentralCasting | 0 | 0 | 1 | — |

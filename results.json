@@ -36406,5 +36406,101 @@
     "usd": 4060.464,
     "odds_at_bet": 80,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785533195,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "wta-shnaide-samsono-2026-07-31",
+    "title": "Mubadala Citi DC Open: Diana Shnaider vs Liudmila Samsonova",
+    "outcome": "Diana Shnaider",
+    "side": "BUY",
+    "usd": 4226.64,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785533195,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "wta-shnaide-samsono-2026-07-31",
+    "title": "Mubadala Citi DC Open: Diana Shnaider vs Liudmila Samsonova",
+    "outcome": "Diana Shnaider",
+    "side": "BUY",
+    "usd": 4036.728,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785533195,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-shnaide-samsono-2026-07-31",
+    "title": "Mubadala Citi DC Open: Diana Shnaider vs Liudmila Samsonova",
+    "outcome": "Liudmila Samsonova",
+    "side": "BUY",
+    "usd": 1056.66,
+    "odds_at_bet": 20,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785533207,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-shnaide-samsono-2026-07-31",
+    "title": "Mubadala Citi DC Open: Diana Shnaider vs Liudmila Samsonova",
+    "outcome": "Liudmila Samsonova",
+    "side": "BUY",
+    "usd": 13260.920000000002,
+    "odds_at_bet": 20,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785533207,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "wta-shnaide-samsono-2026-07-31",
+    "title": "Mubadala Citi DC Open: Diana Shnaider vs Liudmila Samsonova",
+    "outcome": "Diana Shnaider",
+    "side": "BUY",
+    "usd": 52843.68000000001,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785533234,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "wta-shnaide-samsono-2026-07-31",
+    "title": "Mubadala Citi DC Open: Diana Shnaider vs Liudmila Samsonova",
+    "outcome": "Diana Shnaider",
+    "side": "BUY",
+    "usd": 1020.19,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785533350,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-det-oak-2026-07-31",
+    "title": "Detroit Tigers vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 4283.712399999999,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785533360,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-xtreme-lgd-2026-07-31",
+    "title": "Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - Games of the Future Group D",
+    "outcome": "Xtreme Gaming",
+    "side": "SELL",
+    "usd": 199800.80919,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
