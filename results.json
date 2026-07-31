@@ -24862,5 +24862,17 @@
     "usd": 4817.01,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785509212,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "cs2-faze-mglz-2026-07-30",
+    "title": "Counter-Strike: FaZe vs TheMongolz (BO3) - BLAST Bounty Playoffs",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 3266.668,
+    "odds_at_bet": 40,
+    "status": "pending"
   }
 ]
