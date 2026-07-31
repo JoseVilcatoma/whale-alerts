@@ -22462,5 +22462,29 @@
     "usd": 1278.279998,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785499141,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-drx-2026-07-31-game2",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX - Game 2 Winner",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 1293.8999999999999,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785499171,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-almeida-gomez-2026-07-31",
+    "title": "Bonn: Matheus Pucinelli de Almeida vs Federico Agustin Gomez",
+    "outcome": "Matheus Pucinelli de Almeida",
+    "side": "BUY",
+    "usd": 3261.0476000000003,
+    "odds_at_bet": 53,
+    "status": "pending"
   }
 ]
