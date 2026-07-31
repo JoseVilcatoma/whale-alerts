@@ -26806,5 +26806,53 @@
     "usd": 1353.47439,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785515372,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-bb4-liquid-2026-07-31-game1",
+    "title": "Dota 2: BetBoom Team vs Team Liquid - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 1272.727272,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785515377,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-bb4-liquid-2026-07-31-game1",
+    "title": "Dota 2: BetBoom Team vs Team Liquid - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 1016.5832720000002,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785515386,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-bb4-liquid-2026-07-31-game1",
+    "title": "Dota 2: BetBoom Team vs Team Liquid - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 1208.0444439999997,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785515386,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-bb4-liquid-2026-07-31-game1",
+    "title": "Dota 2: BetBoom Team vs Team Liquid - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 1091.73913,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
