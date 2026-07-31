@@ -24094,5 +24094,29 @@
     "usd": 1795.7713999999999,
     "odds_at_bet": 83,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785506271,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-matsuda-debru-2026-07-31",
+    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "side": "BUY",
+    "usd": 1622.1200000000001,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785506276,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30",
+    "title": "Counter-Strike: FaZe vs TheMongolz (BO3) - BLAST Bounty Playoffs",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 2979.9049,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
