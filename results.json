@@ -38926,5 +38926,101 @@
     "usd": 1858.14,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785540274,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cws-tb-2026-07-31-spread-home-1pt5",
+    "title": "Spread: Tampa Bay Rays (-1.5)",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 3357.0082,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785540274,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cws-tb-2026-07-31-spread-home-1pt5",
+    "title": "Spread: Tampa Bay Rays (-1.5)",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 2884.8118,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785540301,
+    "username": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+    "wallet": "0x1b20a00709dfe648afd26b326394b5e031f83ab0",
+    "slug": "wnba-sea-atl-2026-07-31-total-179pt5",
+    "title": "Seattle Storm vs. Atlanta Dream: O/U 179.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 5305.8528,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785540303,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-eala-svitoli-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 1391.2123330000002,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785540310,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-eala-svitoli-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "usd": 1872.6915,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785540325,
+    "username": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+    "wallet": "0x1b20a00709dfe648afd26b326394b5e031f83ab0",
+    "slug": "wnba-sea-atl-2026-07-31-total-178pt5",
+    "title": "Seattle Storm vs. Atlanta Dream: O/U 178.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2025.7824,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785540328,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-pit-cin-2026-07-31",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 2469.999,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785540328,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-cin-2026-07-31",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 2096.2536,
+    "odds_at_bet": 42,
+    "status": "pending"
   }
 ]
