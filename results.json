@@ -38242,5 +38242,17 @@
     "usd": 1161.3950180000002,
     "odds_at_bet": 45,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785539181,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-cin-2026-07-31",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 3621.6191999999996,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
