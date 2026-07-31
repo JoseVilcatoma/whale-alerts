@@ -26878,5 +26878,29 @@
     "usd": 5111.6288,
     "odds_at_bet": 32,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785515870,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-liutova-mcnally-2026-07-31",
+    "title": "The Memphis Classic: Kristina Liutova vs Caty McNally",
+    "outcome": "Caty McNally",
+    "side": "BUY",
+    "usd": 1253.4603880000002,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785515903,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-pain-ast10-2026-07-30-game1",
+    "title": "Counter-Strike: paiN vs Astralis - Map 1 Winner",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 1384.873333,
+    "odds_at_bet": 31,
+    "status": "pending"
   }
 ]
