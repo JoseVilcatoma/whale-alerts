@@ -36934,5 +36934,29 @@
     "usd": 1265.7382,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785534611,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "wnba-sea-atl-2026-07-31-total-179pt5",
+    "title": "Seattle Storm vs. Atlanta Dream: O/U 179.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2377.48,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785534676,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-shnaide-samsono-2026-07-31",
+    "title": "Mubadala Citi DC Open: Diana Shnaider vs Liudmila Samsonova",
+    "outcome": "Diana Shnaider",
+    "side": "BUY",
+    "usd": 5218.1857,
+    "odds_at_bet": 89,
+    "status": "pending"
   }
 ]
