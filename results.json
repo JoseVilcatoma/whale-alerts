@@ -23614,5 +23614,17 @@
     "usd": 2858.88042,
     "odds_at_bet": 89,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785503526,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-almeida-gomez-2026-07-31",
+    "title": "Bonn: Matheus Pucinelli de Almeida vs Federico Agustin Gomez",
+    "outcome": "Matheus Pucinelli de Almeida",
+    "side": "BUY",
+    "usd": 1673.9130430000002,
+    "odds_at_bet": 77,
+    "status": "pending"
   }
 ]
