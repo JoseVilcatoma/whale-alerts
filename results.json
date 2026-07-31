@@ -21718,5 +21718,17 @@
     "usd": 1663.158,
     "odds_at_bet": 84,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785497674,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-jones-rame-2026-07-31",
+    "title": "Targu Mures: Francesca Jones vs Alice Rame",
+    "outcome": "Francesca Jones",
+    "side": "BUY",
+    "usd": 5809.9917,
+    "odds_at_bet": 83,
+    "status": "pending"
   }
 ]
