@@ -25846,5 +25846,53 @@
     "usd": 1363.0,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785512505,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-muller-poljica-2026-07-31",
+    "title": "San Marino: Alexandre Muller vs Mili Poljicak",
+    "outcome": "Mili Poljicak",
+    "side": "BUY",
+    "usd": 1625.5800000000002,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785512521,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-tormo-bronzet-2026-07-31",
+    "title": "Targu Mures: Sara Sorribes Tormo vs Lucia Bronzetti",
+    "outcome": "Sara Sorribes Tormo",
+    "side": "BUY",
+    "usd": 5764.1,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785512595,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-inchaus-erel-2026-07-31",
+    "title": "Samsun: Paul Inchauspe vs Yanki Erel",
+    "outcome": "Paul Inchauspe",
+    "side": "BUY",
+    "usd": 1304.25,
+    "odds_at_bet": 25,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785512623,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-gombos-feldbau-2026-07-31",
+    "title": "Liberec: Norbert Gombos vs Kilian Feldbausch",
+    "outcome": "Norbert Gombos",
+    "side": "BUY",
+    "usd": 1013.8933999999998,
+    "odds_at_bet": 94,
+    "status": "pending"
   }
 ]
