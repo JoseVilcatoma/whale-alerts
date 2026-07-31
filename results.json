@@ -17590,5 +17590,29 @@
     "usd": 1387.9212,
     "odds_at_bet": 46,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785467268,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-sf-sd-2026-07-30-total-8pt5",
+    "title": "San Francisco Giants vs. San Diego Padres: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1213.8,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785467286,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-bos-oak-2026-07-30",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 1232.81,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
