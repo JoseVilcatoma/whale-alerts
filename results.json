@@ -26554,5 +26554,29 @@
     "usd": 1109.9,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785514750,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-tormo-bronzet-2026-07-31",
+    "title": "Targu Mures: Sara Sorribes Tormo vs Lucia Bronzetti",
+    "outcome": "Sara Sorribes Tormo",
+    "side": "BUY",
+    "usd": 7859.099999999999,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785514750,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-tormo-bronzet-2026-07-31",
+    "title": "Targu Mures: Sara Sorribes Tormo vs Lucia Bronzetti",
+    "outcome": "Lucia Bronzetti",
+    "side": "BUY",
+    "usd": 3530.9,
+    "odds_at_bet": 31,
+    "status": "pending"
   }
 ]
