@@ -36166,5 +36166,29 @@
     "usd": 2341.17,
     "odds_at_bet": 90,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785532616,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-c9-loud-2026-07-31-game1",
+    "title": "Valorant: Cloud9 vs LOUD - Map 1 Winner",
+    "outcome": "LOUD",
+    "side": "BUY",
+    "usd": 1424.9999999999998,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785532679,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-gaubas-monteir-2026-07-31",
+    "title": "San Marino: Vilius Gaubas vs Thiago Monteiro",
+    "outcome": "Thiago Monteiro",
+    "side": "BUY",
+    "usd": 1717.9569000000001,
+    "odds_at_bet": 33,
+    "status": "pending"
   }
 ]
