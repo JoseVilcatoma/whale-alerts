@@ -16798,5 +16798,17 @@
     "usd": 1209.089992,
     "odds_at_bet": 89,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785462853,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-pit-cin-2026-07-30",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 1013.0,
+    "odds_at_bet": 50,
+    "status": "pending"
   }
 ]
