@@ -25042,5 +25042,65 @@
     "usd": 2288.25,
     "odds_at_bet": 81,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785510110,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-varilla-skatov-2026-07-31",
+    "title": "San Marino: Juan Pablo Varillas vs Timofey Skatov",
+    "outcome": "Juan Pablo Varillas",
+    "side": "BUY",
+    "usd": 1920.0,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510128,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "dota2-l1ga-rnx-2026-07-31",
+    "title": "Dota 2: L1ga Team vs REKONIX (BO3) - Games of the Future Group D",
+    "outcome": "REKONIX",
+    "side": "BUY",
+    "usd": 1272.727272,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510135,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "dota2-l1ga-rnx-2026-07-31",
+    "title": "Dota 2: L1ga Team vs REKONIX (BO3) - Games of the Future Group D",
+    "outcome": "REKONIX",
+    "side": "BUY",
+    "usd": 1615.7568000000003,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510196,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-alexa-artnak-2026-07-31",
+    "title": "ITF Pitesti: Yannick Theodor Alexandrescou vs Bor Artnak",
+    "outcome": "Bor Artnak",
+    "side": "BUY",
+    "usd": 1972.9199999999998,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510214,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "lol-gen-dk-2026-08-01",
+    "title": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 1132.8065,
+    "odds_at_bet": 35,
+    "status": "pending"
   }
 ]
