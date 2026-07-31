@@ -18562,5 +18562,17 @@
     "usd": 3085.9899990000004,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785481818,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-stl-tor-2026-07-31",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 12983.85,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
