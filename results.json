@@ -17254,5 +17254,29 @@
     "usd": 2315.0475,
     "odds_at_bet": 45,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785464721,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-sea-lad-2026-07-30-total-9pt5",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1468.8,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785464752,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-sf-sd-2026-07-30-total-10pt5",
+    "title": "San Francisco Giants vs. San Diego Padres: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1393.32,
+    "odds_at_bet": 51,
+    "status": "pending"
   }
 ]
