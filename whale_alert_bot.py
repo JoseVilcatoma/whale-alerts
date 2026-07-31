@@ -169,10 +169,11 @@ def build_summary_md():
         rows.append((d["username"], d["won"], d["lost"], d["pending"], pct))
     rows.sort(key=lambda x: (x[4] is None, -(x[4] or 0)))
 
+    hora_peru = time.gmtime(time.time() - 5 * 3600)  # Perú = UTC-5, sin horario de verano
     lines = [
         "# Resultados de las apuestas fuertes alertadas",
         "",
-        f"Actualizado: {time.strftime('%Y-%m-%d %H:%M:%S UTC', time.gmtime())}",
+        f"Actualizado: {time.strftime('%Y-%m-%d %H:%M:%S', hora_peru)} (hora de Perú)",
         "",
         "_Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._",
         "",
