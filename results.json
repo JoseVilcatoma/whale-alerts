@@ -16186,5 +16186,29 @@
     "usd": 3276.51,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785461892,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-cor-cru-2026-07-30-cor",
+    "title": "Will Coritiba FBC win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2682.8108,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785461892,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-cor-cru-2026-07-30-cor",
+    "title": "Will Coritiba FBC win on 2026-07-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1280.63,
+    "odds_at_bet": 26,
+    "status": "pending"
   }
 ]
