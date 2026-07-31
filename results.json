@@ -20926,5 +20926,17 @@
     "usd": 1152.8208,
     "odds_at_bet": 18,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785494890,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-bro2-drx-2026-07-31-game1",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX - Game 1 Winner",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 4560.915,
+    "odds_at_bet": 15,
+    "status": "pending"
   }
 ]
