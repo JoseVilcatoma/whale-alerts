@@ -25786,5 +25786,17 @@
     "usd": 3945.7005,
     "odds_at_bet": 35,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785511979,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-juv-nic-2026-07-31-total-3pt5",
+    "title": "Juventus Turin vs. OGC Nice: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2310.0,
+    "odds_at_bet": 66,
+    "status": "pending"
   }
 ]
