@@ -1,34 +1,34 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 17:45:25 (hora de Perú)
+Actualizado: 2026-07-31 17:51:12 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
-| mooseborzoi | 1 | 0 | 7 | ⚠️ 100% (muestra chica: 1) |
-| cigarettes | 31 | 5 | 6 | 86% |
-| swisstony | 316 | 59 | 116 | 84% |
-| RN1 | 450 | 206 | 157 | 69% |
-| sbsigner | 15 | 9 | 6 | 62% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 119 | 72 | 48 | 62% |
-| ferrariChampions2026 | 421 | 291 | 341 | 59% |
-| UpTheBlues | 22 | 15 | 48 | 59% |
-| 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 9 | 7 | 11 | 56% |
+| 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 1 | 0 | 3 | ⚠️ 100% (muestra chica: 1) |
+| Talvez10 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
+| cigarettes | 35 | 5 | 2 | 88% |
+| swisstony | 370 | 66 | 56 | 85% |
+| Djdjdjekekek | 40 | 10 | 39 | 80% |
+| RN1 | 515 | 233 | 67 | 69% |
+| UpTheBlues | 29 | 16 | 40 | 64% |
+| sbsigner | 17 | 10 | 3 | 63% |
+| ferrariChampions2026 | 594 | 373 | 91 | 61% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 134 | 91 | 14 | 60% |
+| mooseborzoi | 3 | 2 | 3 | ⚠️ 60% (muestra chica: 5) |
+| BreakTheBank | 4 | 3 | 2 | ⚠️ 57% (muestra chica: 7) |
+| Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | Eztennis | 28 | 30 | 0 | 48% |
-| BreakTheBank | 2 | 3 | 4 | ⚠️ 40% (muestra chica: 5) |
+| 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 14 | 3 | 42% |
+| wr0ngw4yb3tt0r | 20 | 31 | 8 | 39% |
 | 1winstreak1 | 9 | 14 | 0 | 39% |
-| wr0ngw4yb3tt0r | 18 | 30 | 11 | 38% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 9 | 2 | 31% |
+| PASSTHEMONEY | 1 | 5 | 7 | ⚠️ 17% (muestra chica: 6) |
 | pleaseplease123 | 2 | 15 | 26 | 12% |
 | monkeymashingkeyboard | 1 | 11 | 6 | 8% |
-| Djdjdjekekek | 0 | 8 | 81 | 0% |
-| pada | 0 | 0 | 5 | — |
-| Hauchn | 0 | 0 | 6 | — |
+| pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | CentralCasting | 0 | 0 | 1 | — |
 | balthazar | 0 | 0 | 17 | — |
 | Sparkling8899 | 0 | 0 | 4 | — |
-| PASSTHEMONEY | 0 | 0 | 13 | — |
-| 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 4 | — |
-| Talvez10 | 0 | 0 | 1 | — |
 | Bigggggggg | 0 | 0 | 9 | — |
