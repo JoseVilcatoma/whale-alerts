@@ -28822,5 +28822,17 @@
     "usd": 2148.1252000000004,
     "odds_at_bet": 52,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785519726,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "pol-plo-wlo-2026-07-31-total-0pt5",
+    "title": "Wisla Plock vs. Widzew Lodz: O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 6131.829999,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
