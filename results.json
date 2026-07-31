@@ -25114,5 +25114,65 @@
     "usd": 2596.51332,
     "odds_at_bet": 97,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785510405,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30",
+    "title": "Counter-Strike: FaZe vs TheMongolz (BO3) - BLAST Bounty Playoffs",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 2334.211677,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510433,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-alexa-artnak-2026-07-31",
+    "title": "ITF Pitesti: Yannick Theodor Alexandrescou vs Bor Artnak",
+    "outcome": "Bor Artnak",
+    "side": "BUY",
+    "usd": 1475.5521,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510454,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-dahlin-galan-2026-07-31",
+    "title": "Bonn: Max Dahlin vs Daniel Galan",
+    "outcome": "Max Dahlin",
+    "side": "BUY",
+    "usd": 6340.510000000001,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510454,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-dahlin-galan-2026-07-31",
+    "title": "Bonn: Max Dahlin vs Daniel Galan",
+    "outcome": "Daniel Galan",
+    "side": "BUY",
+    "usd": 5292.0,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510457,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-l1ga-rnx-2026-07-31",
+    "title": "Dota 2: L1ga Team vs REKONIX (BO3) - Games of the Future Group D",
+    "outcome": "REKONIX",
+    "side": "BUY",
+    "usd": 1224.137931,
+    "odds_at_bet": 71,
+    "status": "pending"
   }
 ]
