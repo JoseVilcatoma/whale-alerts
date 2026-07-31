@@ -24766,5 +24766,53 @@
     "usd": 2046.77,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785508522,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-matsuda-debru-2026-07-31",
+    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "side": "BUY",
+    "usd": 1317.276088,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785508522,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-matsuda-debru-2026-07-31",
+    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "side": "BUY",
+    "usd": 3221.76,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785508536,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-tormo-bronzet-2026-07-31",
+    "title": "Targu Mures: Sara Sorribes Tormo vs Lucia Bronzetti",
+    "outcome": "Sara Sorribes Tormo",
+    "side": "BUY",
+    "usd": 6064.22,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785508536,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-tormo-bronzet-2026-07-31",
+    "title": "Targu Mures: Sara Sorribes Tormo vs Lucia Bronzetti",
+    "outcome": "Lucia Bronzetti",
+    "side": "BUY",
+    "usd": 3635.7146000000002,
+    "odds_at_bet": 38,
+    "status": "pending"
   }
 ]
