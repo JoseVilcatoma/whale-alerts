@@ -22858,5 +22858,65 @@
     "usd": 2020.0,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785501069,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-lim-pace-2026-07-31",
+    "title": "ITF Knokke-Heist: Jenny Lim vs Francesca Pace",
+    "outcome": "Jenny Lim",
+    "side": "BUY",
+    "usd": 1152.8016,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785501079,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-drx-2026-07-31",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1997.8416,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785501118,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-almeida-gomez-2026-07-31",
+    "title": "Bonn: Matheus Pucinelli de Almeida vs Federico Agustin Gomez",
+    "outcome": "Federico Agustin Gomez",
+    "side": "BUY",
+    "usd": 2908.5924,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785501156,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-almeida-gomez-2026-07-31",
+    "title": "Bonn: Matheus Pucinelli de Almeida vs Federico Agustin Gomez",
+    "outcome": "Federico Agustin Gomez",
+    "side": "BUY",
+    "usd": 1617.4242,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785501181,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30-game1",
+    "title": "Counter-Strike: FaZe vs TheMongolz - Map 1 Winner",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 3240.2976,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
