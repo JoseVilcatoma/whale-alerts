@@ -25894,5 +25894,29 @@
     "usd": 1013.8933999999998,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785512731,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-nyy-chc-2026-07-31-total-9pt5",
+    "title": "New York Yankees vs. Chicago Cubs: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 14999.999998999998,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785512733,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-gm-2026-07-31-game1",
+    "title": "Valorant: BBL Esports vs Gentle Mates - Map 1 Winner",
+    "outcome": "Gentle Mates",
+    "side": "BUY",
+    "usd": 1740.6018,
+    "odds_at_bet": 42,
+    "status": "pending"
   }
 ]
