@@ -17482,5 +17482,29 @@
     "usd": 1691.704,
     "odds_at_bet": 12,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785466283,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-mia-nym-2026-07-30",
+    "title": "Miami Marlins vs. New York Mets",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 1092.5901999999999,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785466291,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-nyl-las-2026-07-30",
+    "title": "New York Liberty vs. Las Vegas Aces",
+    "outcome": "Las Vegas Aces",
+    "side": "BUY",
+    "usd": 1399.996,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]
