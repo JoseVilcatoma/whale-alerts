@@ -17182,5 +17182,41 @@
     "usd": 1414.6999979999998,
     "odds_at_bet": 99,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785464462,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-mia-nym-2026-07-30-spread-away-1pt5",
+    "title": "Spread: Miami Marlins (-1.5)",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 1049.997,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785464507,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-cor-cru-2026-07-30-draw",
+    "title": "Will Coritiba FBC vs. Cruzeiro EC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1470.799996,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785464507,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-cor-cru-2026-07-30-cru",
+    "title": "Will Cruzeiro EC win on 2026-07-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1396.2039,
+    "odds_at_bet": 91,
+    "status": "pending"
   }
 ]

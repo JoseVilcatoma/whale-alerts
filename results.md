@@ -1,13 +1,13 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 02:18:25 UTC
+Actualizado: 2026-07-31 02:21:48 UTC
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
 | cigarettes | 20 | 2 | 3 | 91% |
-| swisstony | 152 | 34 | 172 | 82% |
+| swisstony | 152 | 34 | 174 | 82% |
 | Eztennis | 28 | 10 | 20 | 74% |
 | RN1 | 220 | 92 | 144 | 71% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76 | 43 | 21 | 64% |
@@ -16,7 +16,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 3 | 0 | ⚠️ 57% (muestra chica: 7) |
 | sbsigner | 8 | 7 | 1 | 53% |
 | 1winstreak1 | 9 | 14 | 0 | 39% |
-| wr0ngw4yb3tt0r | 6 | 18 | 16 | 25% |
+| wr0ngw4yb3tt0r | 6 | 18 | 17 | 25% |
 | pleaseplease123 | 0 | 3 | 14 | ⚠️ 0% (muestra chica: 3) |
 | pada | 0 | 0 | 5 | — |
 | monkeymashingkeyboard | 0 | 0 | 12 | — |
