@@ -18586,5 +18586,29 @@
     "usd": 3700.7212,
     "odds_at_bet": 76,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785482148,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-al-edg-2026-07-31",
+    "title": "LoL: Anyone's Legend vs EDward Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 2255.44,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785482164,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-al-edg-2026-07-31",
+    "title": "LoL: Anyone's Legend vs EDward Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 2464.88,
+    "odds_at_bet": 88,
+    "status": "pending"
   }
 ]
