@@ -16822,5 +16822,41 @@
     "usd": 1360.32,
     "odds_at_bet": 78,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785463069,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-cor-cru-2026-07-30-cor",
+    "title": "Will Coritiba FBC win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1456.8000000000002,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785463087,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "bra-cor-cru-2026-07-30-draw",
+    "title": "Will Coritiba FBC vs. Cruzeiro EC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1130.7744,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785463096,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "sud-cara-san1-2026-07-30-spread-home-2pt5",
+    "title": "Spread: Caracas FC (-2.5)",
+    "outcome": "Independiente Santa Fe",
+    "side": "BUY",
+    "usd": 1528.47,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
