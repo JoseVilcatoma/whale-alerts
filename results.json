@@ -16570,5 +16570,29 @@
     "usd": 1040.64,
     "odds_at_bet": 64,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785462274,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-ind-new-2026-07-30-ind",
+    "title": "Will CA Independiente win on 2026-07-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2020.5402,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785462286,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "sud-ohi-boc-2026-07-30-ohi",
+    "title": "Will O'Higgins FC win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1594.549998,
+    "odds_at_bet": 79,
+    "status": "pending"
   }
 ]
