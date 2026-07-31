@@ -26074,5 +26074,53 @@
     "usd": 1215.0,
     "odds_at_bet": 81,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785513283,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-bc-bar-2026-07-31-bar",
+    "title": "Will FC Barcelona win on 2026-07-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1950.0,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785513325,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-l1ga-rnx-2026-07-31",
+    "title": "Dota 2: L1ga Team vs REKONIX (BO3) - Games of the Future Group D",
+    "outcome": "REKONIX",
+    "side": "BUY",
+    "usd": 1113.2316,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785513352,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-gm-2026-07-31",
+    "title": "Valorant: BBL Esports vs Gentle Mates (BO3) - VCT EMEA Group Alpha",
+    "outcome": "Gentle Mates",
+    "side": "BUY",
+    "usd": 1204.8,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785513352,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-gm-2026-07-31",
+    "title": "Valorant: BBL Esports vs Gentle Mates (BO3) - VCT EMEA Group Alpha",
+    "outcome": "Gentle Mates",
+    "side": "BUY",
+    "usd": 1204.8,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
