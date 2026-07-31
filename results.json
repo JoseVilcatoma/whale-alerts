@@ -19270,5 +19270,65 @@
     "usd": 1062.2250000000001,
     "odds_at_bet": 45,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785489436,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31-game2",
+    "title": "LoL: Gen.G vs T1 - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 2318.4,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785489439,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-we-blg-2026-07-31-game1",
+    "title": "LoL: Team WE vs Bilibili Gaming - Game 1 Winner",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 2978.8515,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785489464,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31",
+    "title": "LoL: Gen.G vs T1 (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1157.1118000000001,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785489470,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31-game2",
+    "title": "LoL: Gen.G vs T1 - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 2360.1592,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785489475,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31-game2",
+    "title": "LoL: Gen.G vs T1 - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 2599.2,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
