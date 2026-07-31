@@ -39094,5 +39094,29 @@
     "usd": 2050.9451109999995,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785540773,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-c9-loud-2026-07-31",
+    "title": "Valorant: Cloud9 vs LOUD (BO3) - VCT Americas Stage 2 Group Omega",
+    "outcome": "LOUD",
+    "side": "BUY",
+    "usd": 4484.4800000000005,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785540808,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-phi-bal-2026-07-31",
+    "title": "Philadelphia Phillies vs. Baltimore Orioles",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "usd": 2268.74979,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
