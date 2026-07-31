@@ -17854,5 +17854,17 @@
     "usd": 1166.6666659999999,
     "odds_at_bet": 70,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785470131,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-shapova-svrcina-2026-07-30",
+    "title": "Los Cabos Open: Denis Shapovalov vs Dalibor Svrcina",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 3530.0200000000004,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]
