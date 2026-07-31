@@ -24742,5 +24742,17 @@
     "usd": 1167.572,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785508241,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-matsuda-debru-2026-07-31",
+    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "side": "BUY",
+    "usd": 2761.9086,
+    "odds_at_bet": 66,
+    "status": "pending"
   }
 ]
