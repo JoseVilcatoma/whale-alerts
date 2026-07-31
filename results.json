@@ -22630,5 +22630,17 @@
     "usd": 5020.029998,
     "odds_at_bet": 96,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785500213,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-pigossi-ga-2026-07-31",
+    "title": "ITF Gran Canaria: Laura Pigossi vs Andrea Lazaro Garcia",
+    "outcome": "Laura Pigossi",
+    "side": "BUY",
+    "usd": 1558.44,
+    "odds_at_bet": 75,
+    "status": "pending"
   }
 ]
