@@ -25018,5 +25018,29 @@
     "usd": 4822.207600000001,
     "odds_at_bet": 19,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785510018,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30",
+    "title": "Counter-Strike: FaZe vs TheMongolz (BO3) - BLAST Bounty Playoffs",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 1093.1544000000001,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785510063,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-alexa-artnak-2026-07-31",
+    "title": "ITF Pitesti: Yannick Theodor Alexandrescou vs Bor Artnak",
+    "outcome": "Bor Artnak",
+    "side": "BUY",
+    "usd": 2288.25,
+    "odds_at_bet": 81,
+    "status": "pending"
   }
 ]
