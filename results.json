@@ -36046,5 +36046,17 @@
     "usd": 1097.9243999999999,
     "odds_at_bet": 9,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785531454,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-shnaide-samsono-2026-07-31",
+    "title": "Mubadala Citi DC Open: Diana Shnaider vs Liudmila Samsonova",
+    "outcome": "Liudmila Samsonova",
+    "side": "BUY",
+    "usd": 2394.0,
+    "odds_at_bet": 30,
+    "status": "pending"
   }
 ]
