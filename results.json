@@ -33430,5 +33430,53 @@
     "usd": 2997.3320000000003,
     "odds_at_bet": 26,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785526828,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "per1-clc-ccu-2026-07-31-clc",
+    "title": "Will CD Los Chankas win on 2026-07-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1317.84,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785526849,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 1013.8800000000001,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785526925,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 5256.4323,
+    "odds_at_bet": 21,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785526933,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-cocciar-osaka-2026-07-31",
+    "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Naomi Osaka",
+    "outcome": "Elisabetta Cocciaretto",
+    "side": "BUY",
+    "usd": 1279.314166,
+    "odds_at_bet": 25,
+    "status": "pending"
   }
 ]
