@@ -20062,5 +20062,53 @@
     "usd": 2670.0,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785491491,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-samson-ristic-2026-07-31",
+    "title": "Targu Mures: Laura Samson vs Mia Ristic",
+    "outcome": "Laura Samson",
+    "side": "BUY",
+    "usd": 3111.8999989999998,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785491491,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-samson-ristic-2026-07-31",
+    "title": "Targu Mures: Laura Samson vs Mia Ristic",
+    "outcome": "Mia Ristic",
+    "side": "BUY",
+    "usd": 3892.547304,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785491491,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-samson-ristic-2026-07-31",
+    "title": "Targu Mures: Laura Samson vs Mia Ristic",
+    "outcome": "Laura Samson",
+    "side": "BUY",
+    "usd": 6464.0,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785491491,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-samson-ristic-2026-07-31",
+    "title": "Targu Mures: Laura Samson vs Mia Ristic",
+    "outcome": "Mia Ristic",
+    "side": "BUY",
+    "usd": 6914.831999999999,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
