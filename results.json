@@ -24754,5 +24754,17 @@
     "usd": 2761.9086,
     "odds_at_bet": 66,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785508250,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-wsh-atl-2026-07-31-total-8pt5",
+    "title": "Washington Nationals vs. Atlanta Braves: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2046.77,
+    "odds_at_bet": 44,
+    "status": "pending"
   }
 ]
