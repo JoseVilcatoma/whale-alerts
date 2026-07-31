@@ -21022,5 +21022,89 @@
     "usd": 7710.092000000001,
     "odds_at_bet": 67,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785495661,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-samson-ristic-2026-07-31",
+    "title": "Targu Mures: Laura Samson vs Mia Ristic",
+    "outcome": "Laura Samson",
+    "side": "BUY",
+    "usd": 3907.0987999999998,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785495717,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-almeida-gomez-2026-07-31",
+    "title": "Bonn: Matheus Pucinelli de Almeida vs Federico Agustin Gomez",
+    "outcome": "Matheus Pucinelli de Almeida",
+    "side": "BUY",
+    "usd": 2406.39,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785495736,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-samson-ristic-2026-07-31",
+    "title": "Targu Mures: Laura Samson vs Mia Ristic",
+    "outcome": "Laura Samson",
+    "side": "BUY",
+    "usd": 6916.92,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785495736,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-samson-ristic-2026-07-31",
+    "title": "Targu Mures: Laura Samson vs Mia Ristic",
+    "outcome": "Laura Samson",
+    "side": "BUY",
+    "usd": 1126.120048,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785495736,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-samson-ristic-2026-07-31",
+    "title": "Targu Mures: Laura Samson vs Mia Ristic",
+    "outcome": "Mia Ristic",
+    "side": "BUY",
+    "usd": 8083.969999,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785495738,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-almeida-gomez-2026-07-31",
+    "title": "Bonn: Matheus Pucinelli de Almeida vs Federico Agustin Gomez",
+    "outcome": "Matheus Pucinelli de Almeida",
+    "side": "BUY",
+    "usd": 2406.39,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785495738,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-almeida-gomez-2026-07-31",
+    "title": "Bonn: Matheus Pucinelli de Almeida vs Federico Agustin Gomez",
+    "outcome": "Matheus Pucinelli de Almeida",
+    "side": "BUY",
+    "usd": 11465.041476,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
