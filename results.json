@@ -23242,5 +23242,53 @@
     "usd": 1207.4162680000002,
     "odds_at_bet": 81,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785501742,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-bb4-mouz-2026-07-31-game2",
+    "title": "Dota 2: BetBoom Team vs MOUZ - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 1053.0,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785501778,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-drx-2026-07-31",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 5033.6547,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785501826,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-drx-2026-07-31",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 1732.0510570000001,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785501826,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-drx-2026-07-31",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 5220.0,
+    "odds_at_bet": 87,
+    "status": "pending"
   }
 ]
