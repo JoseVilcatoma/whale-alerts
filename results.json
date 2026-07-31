@@ -38038,5 +38038,77 @@
     "usd": 4106.08,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785538273,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-c9-loud-2026-07-31",
+    "title": "Valorant: Cloud9 vs LOUD (BO3) - VCT Americas Stage 2 Group Omega",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 1248.2,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785538291,
+    "username": "0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622",
+    "wallet": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+    "slug": "wta-kalieva-stearns-2026-07-31",
+    "title": "The Memphis Classic: Elvina Kalieva vs Peyton Stearns",
+    "outcome": "Peyton Stearns",
+    "side": "BUY",
+    "usd": 2430.9598,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785538297,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-jodar-musetti-2026-07-31",
+    "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
+    "outcome": "Lorenzo Musetti",
+    "side": "BUY",
+    "usd": 2327.04,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785538309,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-kalieva-stearns-2026-07-31",
+    "title": "The Memphis Classic: Elvina Kalieva vs Peyton Stearns",
+    "outcome": "Peyton Stearns",
+    "side": "BUY",
+    "usd": 2026.5839999999998,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785538335,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-cin-2026-07-31",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 2412.0,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785538387,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cws-tb-2026-07-31-total-8pt5",
+    "title": "Chicago White Sox vs. Tampa Bay Rays: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 9397.559999000001,
+    "odds_at_bet": 51,
+    "status": "pending"
   }
 ]
