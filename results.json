@@ -23722,5 +23722,17 @@
     "usd": 1803.0,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785503886,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-lukas-bennema-2026-07-31",
+    "title": "ITF Hechingen: Tena Lukas vs Eva Bennemann",
+    "outcome": "Eva Bennemann",
+    "side": "BUY",
+    "usd": 1150.2,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
