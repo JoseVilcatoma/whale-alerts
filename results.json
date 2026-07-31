@@ -17362,5 +17362,41 @@
     "usd": 1662.1399999999999,
     "odds_at_bet": 82,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785465397,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sf-sd-2026-07-30",
+    "title": "San Francisco Giants vs. San Diego Padres",
+    "outcome": "San Francisco Giants",
+    "side": "BUY",
+    "usd": 1008.44,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785465413,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-kuderme-svitoli-2026-07-29",
+    "title": "Mubadala Citi DC Open: Polina Kudermetova vs Elina Svitolina",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "usd": 9961.1203,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785465442,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-mia-nym-2026-07-30",
+    "title": "Miami Marlins vs. New York Mets",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "usd": 7123.05,
+    "odds_at_bet": 44,
+    "status": "pending"
   }
 ]
