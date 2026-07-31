@@ -220,25 +220,23 @@ def market_url(trade):
     return f"https://polymarket.com/event/{slug}" if slug else "https://polymarket.com"
 
 
-def get_open_positions_value(wallet):
-    """Suma el valor actual de TODAS las posiciones abiertas — a diferencia de /value
-    (que no puedo confirmar si incluye efectivo sin invertir), esto lo calculamos
-    nosotros mismos con datos que sabemos exactamente qué son."""
+def get_portfolio_value(wallet):
     try:
-        r = requests.get(f"{DATA_API}/positions", params={"user": wallet, "limit": 500}, timeout=10)
-        positions = r.json() if r.ok else []
-        return sum((p.get("currentValue") or 0) for p in positions)
+        r = requests.get(f"{DATA_API}/value", params={"user": wallet}, timeout=8)
+        data = r.json() if r.ok else None
+        if data:
+            return data[0].get("value")
     except Exception as e:
-        print(f"Error trayendo posiciones: {e}", file=sys.stderr)
-        return None
+        print(f"Error trayendo portafolio: {e}", file=sys.stderr)
+    return None
 
 
 def stake_line(usd, wallet):
-    value = get_open_positions_value(wallet)
-    if value is None or value <= 0:
+    value = get_portfolio_value(wallet)
+    if not value or value <= 0:
         return ""
     pct = usd / value * 100
-    return f"📐 Esta apuesta es el {pct:.0f}% de sus posiciones abiertas actuales (${value:,.0f} — no incluye efectivo sin invertir)\n"
+    return f"💰 Stake: {pct:.1f}% de su portafolio (${value:,.0f} total)\n"
 
 
 def build_ticket(username, trade, usd, odds, wallet):
