@@ -18766,5 +18766,17 @@
     "usd": 1777.777777,
     "odds_at_bet": 64,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785485389,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-t1-2026-07-31-game1",
+    "title": "LoL: Gen.G vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 3524.4066000000003,
+    "odds_at_bet": 33,
+    "status": "pending"
   }
 ]
