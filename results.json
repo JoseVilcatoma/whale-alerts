@@ -18574,5 +18574,17 @@
     "usd": 12983.85,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785482110,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-al-edg-2026-07-31-game1",
+    "title": "LoL: Anyone's Legend vs EDward Gaming - Game 1 Winner",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 3700.7212,
+    "odds_at_bet": 76,
+    "status": "pending"
   }
 ]
