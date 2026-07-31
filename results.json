@@ -36838,5 +36838,89 @@
     "usd": 1379.72,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785534251,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "per1-clc-ccu-2026-07-31-ccu",
+    "title": "Will CD Comerciantes Unidos win on 2026-07-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1962.239994,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785534251,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "per1-clc-ccu-2026-07-31-draw",
+    "title": "Will CD Los Chankas vs. CD Comerciantes Unidos end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1594.3199959999997,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785534251,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "per1-clc-ccu-2026-07-31-clc",
+    "title": "Will CD Los Chankas win on 2026-07-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2695.819997,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785534309,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 2983.5791999999997,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785534348,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fritz-michels-2026-07-31",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 1027.8961000000002,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785534379,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mls-nyc-tor-2026-07-31-btts",
+    "title": "New York City FC vs. Toronto FC: Both Teams to Score",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1150.809999,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785534417,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wnba-sea-atl-2026-07-31-total-178pt5",
+    "title": "Seattle Storm vs. Atlanta Dream: O/U 178.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 5995.79,
+    "odds_at_bet": 47,
+    "status": "pending"
   }
 ]
