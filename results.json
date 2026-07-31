@@ -24898,5 +24898,41 @@
     "usd": 1076.6280000000002,
     "odds_at_bet": 28,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785509557,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-varilla-skatov-2026-07-31",
+    "title": "San Marino: Juan Pablo Varillas vs Timofey Skatov",
+    "outcome": "Juan Pablo Varillas",
+    "side": "BUY",
+    "usd": 2662.7154729999997,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785509581,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "cs2-faze-mglz-2026-07-30",
+    "title": "Counter-Strike: FaZe vs TheMongolz (BO3) - BLAST Bounty Playoffs",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 10925.6378,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785509581,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30",
+    "title": "Counter-Strike: FaZe vs TheMongolz (BO3) - BLAST Bounty Playoffs",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 3263.5022,
+    "odds_at_bet": 23,
+    "status": "pending"
   }
 ]
