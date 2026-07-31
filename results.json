@@ -26338,5 +26338,29 @@
     "usd": 2341.2114,
     "odds_at_bet": 46,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785513963,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "cricodc-der-gla-2026-07-31",
+    "title": "Metro Bank One Day Cup: Derbyshire vs Glamorgan",
+    "outcome": "Derbyshire",
+    "side": "BUY",
+    "usd": 1094.08012,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785513963,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "cricodc-der-gla-2026-07-31",
+    "title": "Metro Bank One Day Cup: Derbyshire vs Glamorgan",
+    "outcome": "Derbyshire",
+    "side": "BUY",
+    "usd": 6178.55,
+    "odds_at_bet": 97,
+    "status": "pending"
   }
 ]
