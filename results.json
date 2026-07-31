@@ -24262,5 +24262,113 @@
     "usd": 1855.1106,
     "odds_at_bet": 9,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785506742,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-dahlin-galan-2026-07-31",
+    "title": "Bonn: Max Dahlin vs Daniel Galan",
+    "outcome": "Max Dahlin",
+    "side": "BUY",
+    "usd": 7525.009999000001,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785506755,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-matsuda-debru-2026-07-31",
+    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+    "outcome": "Koki Matsuda",
+    "side": "BUY",
+    "usd": 1020.4992000000001,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785506765,
+    "username": "0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622",
+    "wallet": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+    "slug": "atp-matsuda-debru-2026-07-31",
+    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+    "outcome": "Koki Matsuda",
+    "side": "BUY",
+    "usd": 54050.519999,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785506765,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-matsuda-debru-2026-07-31",
+    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "side": "BUY",
+    "usd": 2164.62,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785506765,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-matsuda-debru-2026-07-31",
+    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "side": "BUY",
+    "usd": 4841.844,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785506765,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-matsuda-debru-2026-07-31",
+    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "side": "BUY",
+    "usd": 12300.0,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785506765,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-matsuda-debru-2026-07-31",
+    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "side": "BUY",
+    "usd": 2126.04,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785506766,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-matsuda-debru-2026-07-31",
+    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "side": "BUY",
+    "usd": 2114.2799999999997,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785506804,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-matsuda-debru-2026-07-31",
+    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+    "outcome": "Koki Matsuda",
+    "side": "BUY",
+    "usd": 2919.72,
+    "odds_at_bet": 58,
+    "status": "pending"
   }
 ]
