@@ -17518,5 +17518,17 @@
     "usd": 2073.811894,
     "odds_at_bet": 62,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785466563,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bos-oak-2026-07-30-spread-home-1pt5",
+    "title": "Spread: Athletics (-1.5)",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 1094.113636,
+    "odds_at_bet": 45,
+    "status": "pending"
   }
 ]
