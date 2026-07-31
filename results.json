@@ -15766,5 +15766,53 @@
     "usd": 1812.8044000000002,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785461235,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-kuderme-svitoli-2026-07-29",
+    "title": "Mubadala Citi DC Open: Polina Kudermetova vs Elina Svitolina",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "usd": 6087.740000000001,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785461235,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-kuderme-svitoli-2026-07-29",
+    "title": "Mubadala Citi DC Open: Polina Kudermetova vs Elina Svitolina",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "usd": 3425.814685,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785461254,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-kuderme-svitoli-2026-07-29",
+    "title": "Mubadala Citi DC Open: Polina Kudermetova vs Elina Svitolina",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "usd": 5585.845909,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785461272,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-kuderme-svitoli-2026-07-29",
+    "title": "Mubadala Citi DC Open: Polina Kudermetova vs Elina Svitolina",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "usd": 23700.0,
+    "odds_at_bet": 79,
+    "status": "pending"
   }
 ]
