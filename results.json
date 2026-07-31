@@ -24838,5 +24838,29 @@
     "usd": 1953.96,
     "odds_at_bet": 38,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785508929,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "crichundredw-man-tre-2026-07-31",
+    "title": "The Hundred, Women: Manchester Super Giants vs Trent Rockets",
+    "outcome": "Manchester Super Giants",
+    "side": "BUY",
+    "usd": 2388.0,
+    "odds_at_bet": 24,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785508972,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-tormo-bronzet-2026-07-31",
+    "title": "Targu Mures: Sara Sorribes Tormo vs Lucia Bronzetti",
+    "outcome": "Lucia Bronzetti",
+    "side": "BUY",
+    "usd": 4817.01,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
