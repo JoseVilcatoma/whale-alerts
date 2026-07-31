@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 03:40:40 UTC
+Actualizado: 2026-07-31 03:42:52 UTC
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -17,7 +17,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | sbsigner | 9 | 7 | 1 | 56% |
 | Eztennis | 28 | 30 | 0 | 48% |
 | 1winstreak1 | 9 | 14 | 0 | 39% |
-| wr0ngw4yb3tt0r | 11 | 24 | 11 | 31% |
+| wr0ngw4yb3tt0r | 11 | 24 | 12 | 31% |
 | pleaseplease123 | 2 | 5 | 10 | ⚠️ 29% (muestra chica: 7) |
 | monkeymashingkeyboard | 1 | 8 | 3 | 11% |
 | pada | 0 | 0 | 5 | — |

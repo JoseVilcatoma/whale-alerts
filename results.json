@@ -17770,5 +17770,17 @@
     "usd": 1413.22,
     "odds_at_bet": 8,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785469369,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-nyl-las-2026-07-30",
+    "title": "New York Liberty vs. Las Vegas Aces",
+    "outcome": "Las Vegas Aces",
+    "side": "BUY",
+    "usd": 1500.0,
+    "odds_at_bet": 75,
+    "status": "pending"
   }
 ]
