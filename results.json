@@ -24118,5 +24118,77 @@
     "usd": 2979.9049,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785506294,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-almeida-gomez-2026-07-31",
+    "title": "Bonn: Matheus Pucinelli de Almeida vs Federico Agustin Gomez",
+    "outcome": "Federico Agustin Gomez",
+    "side": "BUY",
+    "usd": 3388.5899999999997,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785506295,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-almeida-gomez-2026-07-31",
+    "title": "Bonn: Matheus Pucinelli de Almeida vs Federico Agustin Gomez",
+    "outcome": "Federico Agustin Gomez",
+    "side": "BUY",
+    "usd": 7954.451099999999,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785506296,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30-game2",
+    "title": "Counter-Strike: FaZe vs TheMongolz - Map 2 Winner",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 1568.6073000000001,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785506321,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-almeida-gomez-2026-07-31",
+    "title": "Bonn: Matheus Pucinelli de Almeida vs Federico Agustin Gomez",
+    "outcome": "Federico Agustin Gomez",
+    "side": "BUY",
+    "usd": 1375.4916,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785506398,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30-game2",
+    "title": "Counter-Strike: FaZe vs TheMongolz - Map 2 Winner",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 1670.061552,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785506402,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "mlb-nyy-chc-2026-07-31-spread-home-1pt5",
+    "title": "Spread: Chicago Cubs (-1.5)",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 1193.5392,
+    "odds_at_bet": 42,
+    "status": "pending"
   }
 ]
