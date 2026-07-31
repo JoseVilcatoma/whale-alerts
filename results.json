@@ -27634,5 +27634,17 @@
     "usd": 1613.9466000000002,
     "odds_at_bet": 14,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785517195,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-liutova-mcnally-2026-07-31",
+    "title": "The Memphis Classic: Kristina Liutova vs Caty McNally",
+    "outcome": "Kristina Liutova",
+    "side": "BUY",
+    "usd": 6762.87,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
