@@ -25918,5 +25918,77 @@
     "usd": 1740.6018,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785512756,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "val-bbl1-gm-2026-07-31-game1",
+    "title": "Valorant: BBL Esports vs Gentle Mates - Map 1 Winner",
+    "outcome": "Gentle Mates",
+    "side": "BUY",
+    "usd": 4107.9612,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785512756,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 6401.721299999999,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785512785,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-pegula-kalinsk-2026-07-31",
+    "title": "Mubadala Citi DC Open: Jessica Pegula vs Anna Kalinskaya",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "usd": 1040.8824,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785512802,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-tormo-bronzet-2026-07-31",
+    "title": "Targu Mures: Sara Sorribes Tormo vs Lucia Bronzetti",
+    "outcome": "Lucia Bronzetti",
+    "side": "BUY",
+    "usd": 2415.0645000000004,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785512814,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-pain-ast10-2026-07-30",
+    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 13034.017674,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785512862,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-dal-wsh-2026-07-31-spread-away-3pt5",
+    "title": "Spread: Dallas Wings (-3.5)",
+    "outcome": "Dallas Wings",
+    "side": "BUY",
+    "usd": 8009.54,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]
