@@ -15526,5 +15526,113 @@
     "usd": 4102.8106,
     "odds_at_bet": 86,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785460846,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-100t1-sen-2026-07-30-game2",
+    "title": "Valorant: 100 Thieves vs Sentinels - Map 2 Winner",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 6739.599999999999,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785460861,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-wsh-atl-2026-07-30-spread-home-1pt5",
+    "title": "Spread: Atlanta Braves (-1.5)",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 1669.8,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785460866,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-wsh-atl-2026-07-30-spread-home-1pt5",
+    "title": "Spread: Atlanta Braves (-1.5)",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 1669.8,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785460870,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-wsh-atl-2026-07-30-spread-home-1pt5",
+    "title": "Spread: Atlanta Braves (-1.5)",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 1669.8,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785460874,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-cerundo-gea-2026-07-30",
+    "title": "Los Cabos Open: Francisco Cerundolo vs Arthur Gea",
+    "outcome": "Arthur Gea",
+    "side": "BUY",
+    "usd": 3689.0240000000003,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785460880,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-ind-new-2026-07-30-new",
+    "title": "Will CA Newell's Old Boys win on 2026-07-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1881.75,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785460887,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-cin-2026-07-30-spread-away-1pt5",
+    "title": "Spread: Pittsburgh Pirates (-1.5)",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 3522.9424999999997,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785460887,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-cin-2026-07-30-spread-away-1pt5",
+    "title": "Spread: Pittsburgh Pirates (-1.5)",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 1073.723,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785460894,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-pit-cin-2026-07-30",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 1134.5600000000002,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
