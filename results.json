@@ -24406,5 +24406,17 @@
     "usd": 2193.351111,
     "odds_at_bet": 64,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785507162,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-rgg-trainw-2026-07-31",
+    "title": "Counter-Strike: RoundsGG vs Trainwrecks eSports (BO1) - Elisa BreakOut Series #1 Group B",
+    "outcome": "RoundsGG",
+    "side": "BUY",
+    "usd": 1432.9499999999998,
+    "odds_at_bet": 82,
+    "status": "pending"
   }
 ]
