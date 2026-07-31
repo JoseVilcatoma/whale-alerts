@@ -25570,5 +25570,53 @@
     "usd": 1878.6419289999997,
     "odds_at_bet": 32,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785511106,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-dahlin-galan-2026-07-31",
+    "title": "Bonn: Max Dahlin vs Daniel Galan",
+    "outcome": "Daniel Galan",
+    "side": "BUY",
+    "usd": 2005.38,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785511127,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
+    "title": "Will Philadelphia 76ers win the 2027 NBA Finals?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2009.4102599999999,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785511173,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-1win-vg-2026-07-31-game2",
+    "title": "Dota 2: 1win vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "usd": 1252.9952,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785511223,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-l1ga-rnx-2026-07-31",
+    "title": "Dota 2: L1ga Team vs REKONIX (BO3) - Games of the Future Group D",
+    "outcome": "REKONIX",
+    "side": "BUY",
+    "usd": 1122.24,
+    "odds_at_bet": 70,
+    "status": "pending"
   }
 ]
