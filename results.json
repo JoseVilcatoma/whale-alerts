@@ -16990,5 +16990,65 @@
     "usd": 1087.26,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785463790,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-bos-oak-2026-07-30",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 1212.6,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785463804,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-bos-oak-2026-07-30",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 1192.3899999999999,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785463808,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-bos-oak-2026-07-30",
+    "title": "Boston Red Sox vs. Athletics",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 10464.6176,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785463810,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sea-lad-2026-07-30",
+    "title": "Seattle Mariners vs. Los Angeles Dodgers",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 1375.8620680000001,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785463858,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "sud-ohi-boc-2026-07-30-spread-away-2pt5",
+    "title": "Spread: CA Boca Juniors (-2.5)",
+    "outcome": "O'Higgins FC",
+    "side": "BUY",
+    "usd": 1528.47,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
