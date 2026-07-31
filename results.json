@@ -22366,5 +22366,41 @@
     "usd": 1469.1,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785498934,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "chi-hen-ygb-2026-07-31-draw",
+    "title": "Will Henan FC vs. Dalian Yingbo FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1162.8899999999999,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785498942,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-drx-2026-07-31-game2",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX - Game 2 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1018.0828000000001,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785498944,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-drx-2026-07-31",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 2082.6,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]
