@@ -17410,5 +17410,29 @@
     "usd": 1924.579985,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785465675,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-cerundo-gea-2026-07-30",
+    "title": "Los Cabos Open: Francisco Cerundolo vs Arthur Gea",
+    "outcome": "Francisco Cerundolo",
+    "side": "BUY",
+    "usd": 14259.149500000001,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785465711,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-sf-sd-2026-07-30",
+    "title": "San Francisco Giants vs. San Diego Padres",
+    "outcome": "San Francisco Giants",
+    "side": "BUY",
+    "usd": 1038.2810000000002,
+    "odds_at_bet": 70,
+    "status": "pending"
   }
 ]
