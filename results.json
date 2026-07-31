@@ -29362,5 +29362,29 @@
     "usd": 1102.4564,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785520363,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-muller-poljica-2026-07-31",
+    "title": "San Marino: Alexandre Muller vs Mili Poljicak",
+    "outcome": "Alexandre Muller",
+    "side": "BUY",
+    "usd": 6090.909090000001,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785520379,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-noord-echazu-2026-07-31",
+    "title": "ITF Huamantla: Niels Peter Van Noord vs Mauricio Echazu",
+    "outcome": "Mauricio Echazu",
+    "side": "BUY",
+    "usd": 1415.31,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
