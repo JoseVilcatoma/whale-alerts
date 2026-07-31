@@ -31786,5 +31786,41 @@
     "usd": 2467.5585450000003,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785524798,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-minaur-nakashi-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 2458.732961,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785524830,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-minaur-nakashi-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+    "outcome": "Alex de Minaur",
+    "side": "BUY",
+    "usd": 1080.277114,
+    "odds_at_bet": 33,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785524857,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-minaur-nakashi-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 3460.38,
+    "odds_at_bet": 66,
+    "status": "pending"
   }
 ]
