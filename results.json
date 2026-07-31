@@ -24010,5 +24010,41 @@
     "usd": 1384.83,
     "odds_at_bet": 69,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785505600,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-almeida-gomez-2026-07-31",
+    "title": "Bonn: Matheus Pucinelli de Almeida vs Federico Agustin Gomez",
+    "outcome": "Federico Agustin Gomez",
+    "side": "BUY",
+    "usd": 1237.6158130000001,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785505609,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-enjoy-glyph-2026-07-31-game2",
+    "title": "Dota 2: Enjoy vs GLYPH - Game 2 Winner",
+    "outcome": "Enjoy",
+    "side": "BUY",
+    "usd": 1407.1512,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785505622,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-ari-cle-2026-07-31",
+    "title": "Arizona Diamondbacks vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 4225.2952000000005,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
