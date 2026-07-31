@@ -23602,5 +23602,17 @@
     "usd": 1010.9472,
     "odds_at_bet": 96,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785503410,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-mglz-2026-07-30-game1",
+    "title": "Counter-Strike: FaZe vs TheMongolz - Map 1 Winner",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 2858.88042,
+    "odds_at_bet": 89,
+    "status": "pending"
   }
 ]
