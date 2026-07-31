@@ -26614,5 +26614,77 @@
     "usd": 1404.8828,
     "odds_at_bet": 31,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785515191,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-tormo-bronzet-2026-07-31",
+    "title": "Targu Mures: Sara Sorribes Tormo vs Lucia Bronzetti",
+    "outcome": "Sara Sorribes Tormo",
+    "side": "BUY",
+    "usd": 1258.9196000000002,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785515209,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "hr1-din-sla-2026-08-01-spread-home-1pt5",
+    "title": "Spread: GNK Dinamo Zagreb (-1.5)",
+    "outcome": "GNK Dinamo Zagreb",
+    "side": "BUY",
+    "usd": 2693.52,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785515215,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-gm-2026-07-31",
+    "title": "Valorant: BBL Esports vs Gentle Mates (BO3) - VCT EMEA Group Alpha",
+    "outcome": "Gentle Mates",
+    "side": "BUY",
+    "usd": 1161.828933,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785515216,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-bb4-liquid-2026-07-31-game1",
+    "title": "Dota 2: BetBoom Team vs Team Liquid - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 1156.4092220000002,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785515220,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 5386.41,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785515230,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-bb4-liquid-2026-07-31-game1",
+    "title": "Dota 2: BetBoom Team vs Team Liquid - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 1272.727272,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
