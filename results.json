@@ -26866,5 +26866,17 @@
     "usd": 5605.3714,
     "odds_at_bet": 46,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785515859,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-pain-ast10-2026-07-30-game1",
+    "title": "Counter-Strike: paiN vs Astralis - Map 1 Winner",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 5111.6288,
+    "odds_at_bet": 32,
+    "status": "pending"
   }
 ]
