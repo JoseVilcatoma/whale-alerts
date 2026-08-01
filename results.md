@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 07:57:12 (hora de Perú)
+Actualizado: 2026-08-01 08:01:17 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -19,7 +19,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 37 | 5 | 2 | 88% |
 | mooseborzoi | 15 | 2 | 2 | 88% |
 | swisstony | 479 | 99 | 63 | 83% |
-| RN1 | 702 | 348 | 51 | 67% |
+| RN1 | 702 | 348 | 52 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
 | ferrariChampions2026 | 779 | 521 | 239 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | CentralCasting | 0 | 0 | 1 | — |
 | balthazar | 0 | 0 | 17 | — |
-| Bigggggggg | 0 | 0 | 9 | — |
+| Bigggggggg | 0 | 0 | 10 | — |
 | Melody626 | 0 | 0 | 3 | — |
 | neurodivergentBet | 0 | 0 | 4 | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 9 | — |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 0 | 0 | 11 | — |
 | baws | 0 | 0 | 1 | — |
 | Spicer | 0 | 0 | 26 | — |
-| GoalLineGhost | 0 | 0 | 27 | — |
+| GoalLineGhost | 0 | 0 | 28 | — |
 | fkgggg2mouzfuria | 0 | 0 | 8 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 10 | — |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 0 | 0 | 1 | — |

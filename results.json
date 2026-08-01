@@ -58042,5 +58042,41 @@
     "usd": 2324.9276470000004,
     "odds_at_bet": 83,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785589216,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "chi-bgu-zhe-2026-08-01-total-4pt5",
+    "title": "Beijing Guoan FC vs. Zhejiang Zhiye FC: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1726.998,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785589235,
+    "username": "Bigggggggg",
+    "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+    "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+    "title": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1700.0000000000002,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785589259,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-cengiz-curmi-2026-08-01",
+    "title": "ITF Gran Canaria: Berfu Cengiz vs Francesca Curmi",
+    "outcome": "Berfu Cengiz",
+    "side": "BUY",
+    "usd": 1728.668571,
+    "odds_at_bet": 72,
+    "status": "pending"
   }
 ]
