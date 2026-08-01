@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 08:55:50 (hora de Perú)
+Actualizado: 2026-08-01 08:58:38 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -13,7 +13,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | jtwyslljy | 1 | 0 | 4 | ⚠️ 100% (muestra chica: 1) |
 | meoooow | 1 | 0 | 12 | ⚠️ 100% (muestra chica: 1) |
-| esportGG | 5 | 0 | 13 | ⚠️ 100% (muestra chica: 5) |
+| esportGG | 5 | 0 | 14 | ⚠️ 100% (muestra chica: 5) |
 | ninasuskevic | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | Spicer | 16 | 0 | 14 | 100% |
 | Djdjdjekekek | 93 | 11 | 4 | 89% |

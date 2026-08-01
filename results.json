@@ -60322,5 +60322,17 @@
     "usd": 1815.6324,
     "odds_at_bet": 76,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785592564,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "cs2-ast10-mouz-2026-08-01-game1",
+    "title": "Counter-Strike: Astralis vs MOUZ - Map 1 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 30560.719399999998,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
