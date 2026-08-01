@@ -40174,5 +40174,65 @@
     "usd": 3000.0,
     "odds_at_bet": 6,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785543247,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-eala-svitoli-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "usd": 2407.7807,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785543260,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-zakharo-zarazua-2026-07-31",
+    "title": "The Memphis Classic: Anastasia Zakharova vs Renata Zarazua",
+    "outcome": "Renata Zarazua",
+    "side": "BUY",
+    "usd": 2058.9075000000003,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785543286,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-pit-cin-2026-07-31",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 1271.9,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785543318,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tex-hou-2026-07-31",
+    "title": "Texas Rangers vs. Houston Astros",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 5823.0158,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785543318,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tex-hou-2026-07-31",
+    "title": "Texas Rangers vs. Houston Astros",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 8575.4442,
+    "odds_at_bet": 46,
+    "status": "pending"
   }
 ]
