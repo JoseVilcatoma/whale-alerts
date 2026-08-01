@@ -40234,5 +40234,89 @@
     "usd": 8575.4442,
     "odds_at_bet": 46,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785543514,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-phi-bal-2026-07-31",
+    "title": "Philadelphia Phillies vs. Baltimore Orioles",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "usd": 1488.1542000000002,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785543517,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-tex-hou-2026-07-31",
+    "title": "Texas Rangers vs. Houston Astros",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 2178.389999,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785543520,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-jodar-musetti-2026-07-31",
+    "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "usd": 9381.768,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785543520,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-jodar-musetti-2026-07-31",
+    "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "usd": 3007.9103999999998,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785543520,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-eg2-mibr-2026-07-31-game1",
+    "title": "Valorant: Evil Geniuses vs MIBR - Map 1 Winner",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 3149.6124000000004,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785543521,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tex-hou-2026-07-31-total-7pt5",
+    "title": "Texas Rangers vs. Houston Astros: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 5043.544,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785543547,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-jodar-musetti-2026-07-31",
+    "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "usd": 1464.1,
+    "odds_at_bet": 88,
+    "status": "pending"
   }
 ]
