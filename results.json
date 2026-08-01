@@ -43606,5 +43606,41 @@
     "usd": 1638.8183000000001,
     "odds_at_bet": 53,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785549843,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "mlb-det-oak-2026-07-31",
+    "title": "Detroit Tigers vs. Athletics",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "usd": 1199.999999,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785549843,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-det-oak-2026-07-31",
+    "title": "Detroit Tigers vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 1013.36,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785549908,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-vidmano-volynet-2026-07-31",
+    "title": "The Memphis Classic: Darja Vidmanova vs Katie Volynets",
+    "outcome": "Darja Vidmanova",
+    "side": "BUY",
+    "usd": 1279.6676,
+    "odds_at_bet": 62,
+    "status": "pending"
   }
 ]
