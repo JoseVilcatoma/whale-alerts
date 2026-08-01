@@ -78166,5 +78166,41 @@
     "usd": 4400.0,
     "odds_at_bet": 88,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785619792,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-kc-col-2026-08-01",
+    "title": "Kansas City Royals vs. Colorado Rockies",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "usd": 1324.8599989999998,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619856,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-joint-grubor-2026-08-01",
+    "title": "National Bank Open, Qualification: Maya Joint vs Ana Grubor",
+    "outcome": "Maya Joint",
+    "side": "BUY",
+    "usd": 1246.9975000000002,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619870,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-mochizu-sweeny-2026-08-01",
+    "title": "Canadian Open, Qualification: Shintaro Mochizuki vs Dane Sweeny",
+    "outcome": "Shintaro Mochizuki",
+    "side": "BUY",
+    "usd": 1474.2,
+    "odds_at_bet": 63,
+    "status": "pending"
   }
 ]
