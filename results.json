@@ -80062,5 +80062,77 @@
     "usd": 12164.825,
     "odds_at_bet": 53,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785623840,
+    "username": "AnonymousUsername",
+    "wallet": "0x9703676286b93c2eca71ca96e8757104519a69c2",
+    "slug": "mls-phi-atl-2026-08-01-phi",
+    "title": "Will Philadelphia Union win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 3214.8412,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785623901,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mls-phi-atl-2026-08-01-spread-away-1pt5",
+    "title": "Spread: Atlanta United FC (-1.5)",
+    "outcome": "Philadelphia Union",
+    "side": "BUY",
+    "usd": 1143.659992,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785623903,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "mls-phi-atl-2026-08-01-phi",
+    "title": "Will Philadelphia Union win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1063.75,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785623903,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mls-phi-atl-2026-08-01-phi",
+    "title": "Will Philadelphia Union win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1295.0,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785623903,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mls-phi-atl-2026-08-01-phi",
+    "title": "Will Philadelphia Union win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1260.0,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785623904,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mls-phi-atl-2026-08-01-phi",
+    "title": "Will Philadelphia Union win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1371.1499999999999,
+    "odds_at_bet": 36,
+    "status": "pending"
   }
 ]
