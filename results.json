@@ -40006,5 +40006,77 @@
     "usd": 1391.8434,
     "odds_at_bet": 87,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785543015,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-eala-svitoli-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "usd": 2203.3415,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785543058,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "wta-eala-svitoli-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "usd": 4037.2290000000003,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785543058,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "wta-eala-svitoli-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "usd": 5400.0,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785543059,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-eala-svitoli-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 1879.4666999999997,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785543081,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-jodar-musetti-2026-07-31",
+    "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "usd": 2030.121,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785543100,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tex-hou-2026-07-31-total-7pt5",
+    "title": "Texas Rangers vs. Houston Astros: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 11546.72,
+    "odds_at_bet": 50,
+    "status": "pending"
   }
 ]
