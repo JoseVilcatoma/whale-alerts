@@ -53002,5 +53002,17 @@
     "usd": 5992.191809999999,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785579759,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-ns-fox1-2026-08-01-game2",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 4655.34,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
