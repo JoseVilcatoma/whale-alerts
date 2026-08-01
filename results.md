@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 03:57:38 (hora de Perú)
+Actualizado: 2026-08-01 03:59:44 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -18,9 +18,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 37 | 5 | 0 | 88% |
 | mooseborzoi | 15 | 2 | 1 | 88% |
 | swisstony | 479 | 98 | 34 | 83% |
-| RN1 | 676 | 328 | 36 | 67% |
+| RN1 | 676 | 328 | 37 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
-| ferrariChampions2026 | 760 | 512 | 27 | 60% |
+| ferrariChampions2026 | 760 | 512 | 28 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 3 | 59% |
@@ -36,9 +36,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | pleaseplease123 | 21 | 28 | 0 | 43% |
 | monkeymashingkeyboard | 7 | 12 | 1 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 18 | 0 | 36% |
-| one8tyfive | 1 | 2 | 3 | ⚠️ 33% (muestra chica: 3) |
+| one8tyfive | 1 | 2 | 5 | ⚠️ 33% (muestra chica: 3) |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
-| PASSTHEMONEY | 1 | 13 | 2 | 7% |
+| PASSTHEMONEY | 1 | 13 | 4 | 7% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 0 | 6% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | cruzNBA | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |

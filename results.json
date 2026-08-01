@@ -50266,5 +50266,77 @@
     "usd": 1855.4446,
     "odds_at_bet": 34,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785574704,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-dcg-dfm-2026-08-01-game1",
+    "title": "LoL: Deep Cross Gaming vs DetonatioN FocusMe - Game 1 Winner",
+    "outcome": "DetonatioN FocusMe",
+    "side": "BUY",
+    "usd": 1000.0,
+    "odds_at_bet": 20,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785574708,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-dcg-dfm-2026-08-01-game2",
+    "title": "LoL: Deep Cross Gaming vs DetonatioN FocusMe - Game 2 Winner",
+    "outcome": "DetonatioN FocusMe",
+    "side": "BUY",
+    "usd": 1000.0,
+    "odds_at_bet": 20,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785574727,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "atp-miyoshi-kouzmin-2026-08-01",
+    "title": "Samsun: Kenta Miyoshi vs Constantin Bittoun Kouzmine",
+    "outcome": "Kenta Miyoshi",
+    "side": "BUY",
+    "usd": 6441.6226,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785574759,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-noce-krstic-2026-08-01",
+    "title": "ITF Kursumlijska Banja: Gabriele Maria Noce vs Veljko Krstic",
+    "outcome": "Veljko Krstic",
+    "side": "BUY",
+    "usd": 1539.594551,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785574773,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "atp-miyoshi-kouzmin-2026-08-01",
+    "title": "Samsun: Kenta Miyoshi vs Constantin Bittoun Kouzmine",
+    "outcome": "Kenta Miyoshi",
+    "side": "BUY",
+    "usd": 6871.77,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785574776,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-ns-fox1-2026-08-01",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 4410.0,
+    "odds_at_bet": 72,
+    "status": "pending"
   }
 ]
