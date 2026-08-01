@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 16:35:28 (hora de Perú)
+Actualizado: 2026-08-01 16:37:36 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -20,7 +20,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mooseborzoi | 15 | 2 | 40 | 88% |
 | Spicer | 26 | 4 | 0 | 87% |
 | cigarettes | 46 | 8 | 5 | 85% |
-| swisstony | 502 | 108 | 85 | 82% |
+| swisstony | 502 | 108 | 86 | 82% |
 | flatbarrel | 4 | 1 | 2 | ⚠️ 80% (muestra chica: 5) |
 | humkyakare | 12 | 4 | 3 | 75% |
 | us391 | 3 | 1 | 12 | ⚠️ 75% (muestra chica: 4) |
@@ -30,15 +30,15 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Fallout3 | 11 | 5 | 0 | 69% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 3 | 1 | 67% |
 | one8tyfive | 14 | 7 | 11 | 67% |
-| RN1 | 771 | 393 | 149 | 66% |
+| RN1 | 771 | 393 | 155 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 24 | 66% |
 | esportGG | 16 | 10 | 18 | 62% |
 | GoalLineGhost | 21 | 13 | 43 | 62% |
-| ferrariChampions2026 | 1051 | 688 | 294 | 60% |
+| ferrariChampions2026 | 1051 | 688 | 296 | 60% |
 | sbsigner | 26 | 17 | 4 | 60% |
 | fRibrenlc | 3 | 2 | 4 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 24 | 59% |
-| HomeRunHazard | 73 | 50 | 110 | 59% |
+| HomeRunHazard | 73 | 50 | 112 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 11 | 8 | 6 | 58% |
 | wr0ngw4yb3tt0r | 80 | 67 | 33 | 54% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Talvez10 | 13 | 21 | 11 | 38% |
 | monkeymashingkeyboard | 7 | 12 | 13 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 3 | 34% |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 10 | 20 | 12 | 33% |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 10 | 20 | 13 | 33% |
 | VPenguin | 4 | 12 | 8 | 25% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | PASSTHEMONEY | 5 | 33 | 23 | 13% |
