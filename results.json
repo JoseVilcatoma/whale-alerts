@@ -41362,5 +41362,53 @@
     "usd": 1583.0639999999999,
     "odds_at_bet": 84,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785546000,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-friend-wolf-2026-07-31",
+    "title": "Vancouver: Jay Dylan Friend vs J.J. Wolf",
+    "outcome": "J.J. Wolf",
+    "side": "BUY",
+    "usd": 1474.59,
+    "odds_at_bet": 95,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785546018,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "wnba-dal-wsh-2026-07-31",
+    "title": "Dallas Wings vs. Washington Mystics",
+    "outcome": "Washington Mystics",
+    "side": "BUY",
+    "usd": 1960.3199980000002,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785546040,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-tor-2026-07-31",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 2583.63,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785546131,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-nyc-tor-2026-07-31-nyc",
+    "title": "Will New York City FC win on 2026-07-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1829.9304000000002,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
