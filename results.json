@@ -41410,5 +41410,77 @@
     "usd": 1829.9304000000002,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785546211,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-stl-tor-2026-07-31",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 9418.0,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785546211,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-stl-tor-2026-07-31",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 14572.199999999999,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785546229,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-stl-tor-2026-07-31",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 2219.9975999999997,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785546229,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-stl-tor-2026-07-31",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 1072.998,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785546241,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-friend-wolf-2026-07-31",
+    "title": "Vancouver: Jay Dylan Friend vs J.J. Wolf",
+    "outcome": "J.J. Wolf",
+    "side": "BUY",
+    "usd": 1200.0,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785546294,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "wnba-sea-atl-2026-07-31-spread-home-12pt5",
+    "title": "Spread: Atlanta Dream (-12.5)",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "usd": 1949.28,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
