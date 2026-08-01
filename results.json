@@ -61474,5 +61474,17 @@
     "usd": 15999.739555,
     "odds_at_bet": 64,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785595075,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "atp-damm-rocha-2026-08-01",
+    "title": "Canadian Open, Qualification: Martin Damm vs Henrique Rocha",
+    "outcome": "Henrique Rocha",
+    "side": "BUY",
+    "usd": 8999.999999000001,
+    "odds_at_bet": 42,
+    "status": "pending"
   }
 ]
