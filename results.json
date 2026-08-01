@@ -79510,5 +79510,77 @@
     "usd": 3308.139998,
     "odds_at_bet": 65,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785622848,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-det-oak-2026-08-01-spread-away-1pt5",
+    "title": "Spread: Detroit Tigers (-1.5)",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "usd": 1752.589999,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785622878,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-svrcina-droguet-2026-08-01",
+    "title": "Canadian Open, Qualification: Dalibor Svrcina vs Titouan Droguet",
+    "outcome": "Titouan Droguet",
+    "side": "BUY",
+    "usd": 3721.5,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785622878,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-svrcina-droguet-2026-08-01",
+    "title": "Canadian Open, Qualification: Dalibor Svrcina vs Titouan Droguet",
+    "outcome": "Dalibor Svrcina",
+    "side": "BUY",
+    "usd": 1760.6435000000001,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785622878,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-svrcina-droguet-2026-08-01",
+    "title": "Canadian Open, Qualification: Dalibor Svrcina vs Titouan Droguet",
+    "outcome": "Dalibor Svrcina",
+    "side": "BUY",
+    "usd": 2636.0015,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785622920,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-c9-dig-2026-08-01",
+    "title": "LoL: Cloud9 vs Dignitas (BO3) - LCS Regular Season",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 1649.81268,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785622927,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-joint-grubor-2026-08-01",
+    "title": "National Bank Open, Qualification: Maya Joint vs Ana Grubor",
+    "outcome": "Ana Grubor",
+    "side": "BUY",
+    "usd": 1490.566,
+    "odds_at_bet": 62,
+    "status": "pending"
   }
 ]
