@@ -76882,5 +76882,65 @@
     "usd": 1012.9968000000001,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785617597,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "mls-mia-clb-2026-08-01-mia",
+    "title": "Will Inter Miami CF win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2188.8027,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785617629,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "mls-phi-atl-2026-08-01-phi",
+    "title": "Will Philadelphia Union win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 3303.7691999999997,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785617648,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-osaka-eala-2026-08-01",
+    "title": "Mubadala Citi DC Open: Naomi Osaka vs Alexandra Eala",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 1820.0,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785617651,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-mia-nym-2026-08-01-total-8pt5",
+    "title": "Miami Marlins vs. New York Mets: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1182.22,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785617673,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-stl-tor-2026-08-01-spread-home-2pt5",
+    "title": "Spread: Toronto Blue Jays (-2.5)",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 1401.6000000000001,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]
