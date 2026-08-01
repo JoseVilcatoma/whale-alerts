@@ -50098,5 +50098,53 @@
     "usd": 2832.9228000000003,
     "odds_at_bet": 38,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785573692,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-biryuko-zhalga-2026-08-01",
+    "title": "ITF Astana: Petr Bar Biryukov vs Damir Zhalgasbay",
+    "outcome": "Petr Bar Biryukov",
+    "side": "BUY",
+    "usd": 4374.7,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785573694,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-biryuko-zhalga-2026-08-01",
+    "title": "ITF Astana: Petr Bar Biryukov vs Damir Zhalgasbay",
+    "outcome": "Petr Bar Biryukov",
+    "side": "BUY",
+    "usd": 4374.7,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785573697,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-biryuko-zhalga-2026-08-01",
+    "title": "ITF Astana: Petr Bar Biryukov vs Damir Zhalgasbay",
+    "outcome": "Petr Bar Biryukov",
+    "side": "BUY",
+    "usd": 4374.7,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785573699,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-biryuko-zhalga-2026-08-01",
+    "title": "ITF Astana: Petr Bar Biryukov vs Damir Zhalgasbay",
+    "outcome": "Petr Bar Biryukov",
+    "side": "BUY",
+    "usd": 4374.7,
+    "odds_at_bet": 97,
+    "status": "pending"
   }
 ]
