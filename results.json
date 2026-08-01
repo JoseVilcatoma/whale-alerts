@@ -50254,5 +50254,17 @@
     "usd": 1508.0733329999998,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785574643,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-dcg-dfm-2026-08-01-game-handicap-away-1pt5",
+    "title": "Game Handicap: DCG (-1.5) vs DetonatioN FocusMe (+1.5)",
+    "outcome": "DetonatioN FocusMe",
+    "side": "BUY",
+    "usd": 1855.4446,
+    "odds_at_bet": 34,
+    "status": "pending"
   }
 ]
