@@ -48622,5 +48622,29 @@
     "usd": 1282.8894109999999,
     "odds_at_bet": 32,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785565434,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Cameron Norrie",
+    "side": "BUY",
+    "usd": 1339.5706,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785565436,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "col1-cjf-mif-2026-08-01-cjf",
+    "title": "Will CDPJuniorFC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1044.967,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]

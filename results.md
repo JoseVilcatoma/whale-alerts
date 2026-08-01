@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 01:21:54 (hora de Perú)
+Actualizado: 2026-08-01 01:24:24 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -51,4 +51,5 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | humkyakare | 0 | 0 | 2 | — |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 0 | 0 | 3 | — |
 | ToeTickler98 | 0 | 0 | 3 | — |
-| one8tyfive | 0 | 0 | 1 | — |
+| one8tyfive | 0 | 0 | 2 | — |
+| us391 | 0 | 0 | 1 | — |
