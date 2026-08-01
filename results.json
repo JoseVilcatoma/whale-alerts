@@ -73666,5 +73666,65 @@
     "usd": 1796.019183,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785614365,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-osaka-eala-2026-08-01",
+    "title": "Mubadala Citi DC Open: Naomi Osaka vs Alexandra Eala",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 3083.349999,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785614365,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-osaka-eala-2026-08-01",
+    "title": "Mubadala Citi DC Open: Naomi Osaka vs Alexandra Eala",
+    "outcome": "Naomi Osaka",
+    "side": "BUY",
+    "usd": 4805.64,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785614368,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-kc-navi-2026-08-01-game2",
+    "title": "LoL: Karmine Corp vs Natus Vincere - Game 2 Winner",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 2858.7237,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785614395,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "arg-gye-uni-2026-08-01-gye",
+    "title": "Will CA Gimnasia y Esgrima de Mendoza win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1982.9299999999998,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785614404,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-bonzi-dellien-2026-08-01",
+    "title": "Canadian Open, Qualification: Benjamin Bonzi vs Hugo Dellien",
+    "outcome": "Benjamin Bonzi",
+    "side": "BUY",
+    "usd": 2532.4093740000003,
+    "odds_at_bet": 94,
+    "status": "pending"
   }
 ]

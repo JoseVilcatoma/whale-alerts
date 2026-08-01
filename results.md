@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 14:57:51 (hora de Perú)
+Actualizado: 2026-08-01 15:00:46 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -20,7 +20,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mooseborzoi | 15 | 2 | 25 | 88% |
 | Spicer | 26 | 4 | 0 | 87% |
 | cigarettes | 46 | 8 | 4 | 85% |
-| swisstony | 502 | 108 | 76 | 82% |
+| swisstony | 502 | 108 | 77 | 82% |
 | flatbarrel | 4 | 1 | 2 | ⚠️ 80% (muestra chica: 5) |
 | humkyakare | 12 | 4 | 3 | 75% |
 | us391 | 3 | 1 | 12 | ⚠️ 75% (muestra chica: 4) |
@@ -30,11 +30,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Fallout3 | 11 | 5 | 0 | 69% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 3 | 1 | 67% |
 | one8tyfive | 14 | 7 | 4 | 67% |
-| RN1 | 771 | 393 | 77 | 66% |
+| RN1 | 771 | 393 | 79 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 13 | 66% |
 | esportGG | 16 | 10 | 10 | 62% |
-| GoalLineGhost | 21 | 13 | 41 | 62% |
-| ferrariChampions2026 | 1051 | 688 | 178 | 60% |
+| GoalLineGhost | 21 | 13 | 42 | 62% |
+| ferrariChampions2026 | 1051 | 688 | 179 | 60% |
 | sbsigner | 26 | 17 | 4 | 60% |
 | fRibrenlc | 3 | 2 | 3 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
