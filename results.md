@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 20:51:22 (hora de Perú)
+Actualizado: 2026-07-31 20:54:20 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -11,7 +11,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 35 | 5 | 2 | 88% |
 | swisstony | 370 | 66 | 99 | 85% |
 | Djdjdjekekek | 40 | 10 | 53 | 80% |
-| RN1 | 515 | 233 | 164 | 69% |
+| RN1 | 515 | 233 | 170 | 69% |
 | UpTheBlues | 29 | 16 | 40 | 64% |
 | sbsigner | 17 | 10 | 6 | 63% |
 | ferrariChampions2026 | 594 | 373 | 226 | 61% |
@@ -34,9 +34,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Bigggggggg | 0 | 0 | 9 | — |
 | fRibrenlc | 0 | 0 | 5 | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 0 | 0 | 9 | — |
-| HomeRunHazard | 0 | 0 | 21 | — |
+| HomeRunHazard | 0 | 0 | 23 | — |
 | flatbarrel | 0 | 0 | 1 | — |
 | cruzNBA | 0 | 0 | 1 | — |
 | QuietRiskisWrong | 0 | 0 | 1 | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 4 | — |
 | paquitomillonario | 0 | 0 | 3 | — |
+| Melody626 | 0 | 0 | 3 | — |
