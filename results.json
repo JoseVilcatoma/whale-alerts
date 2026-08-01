@@ -52726,5 +52726,53 @@
     "usd": 1985.470169,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785579073,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-ns-fox1-2026-08-01-game2",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 3565.54089,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785579084,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-lgd-tes-2026-08-01-game2",
+    "title": "LoL: LGD Gaming vs Top Esports - Game 2 Winner",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 4652.7634,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785579139,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-ns-fox1-2026-08-01",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 1119.9832000000001,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785579163,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-ns-fox1-2026-08-01",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 1073.3184,
+    "odds_at_bet": 44,
+    "status": "pending"
   }
 ]
