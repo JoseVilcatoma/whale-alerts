@@ -47110,5 +47110,41 @@
     "usd": 1562.0,
     "odds_at_bet": 71,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785558178,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-lad-2026-07-31",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 1439.8,
+    "odds_at_bet": 92,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785558208,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-asl-tij-2026-07-31-tij",
+    "title": "Will Club Tijuana win on 2026-07-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1479.0600000000002,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785558262,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-asl-tij-2026-07-31-btts",
+    "title": "Atl\u00e9tico San Luis vs. Club Tijuana: Both Teams to Score",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1013.8999969999999,
+    "odds_at_bet": 85,
+    "status": "pending"
   }
 ]
