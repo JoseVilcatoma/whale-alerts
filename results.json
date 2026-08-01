@@ -70354,5 +70354,29 @@
     "usd": 1438.9702970000003,
     "odds_at_bet": 53,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785609100,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-pegula-shnaide-2026-08-01",
+    "title": "Mubadala Citi DC Open: Jessica Pegula vs Diana Shnaider",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "usd": 1842.5000000000002,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785609115,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-pegula-shnaide-2026-08-01",
+    "title": "Mubadala Citi DC Open: Jessica Pegula vs Diana Shnaider",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "usd": 1590.928982,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]

@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 13:28:25 (hora de Perú)
+Actualizado: 2026-08-01 13:33:07 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 13 | 4 | 27 | 76% |
 | flatbarrel | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
 | us391 | 3 | 1 | 11 | ⚠️ 75% (muestra chica: 4) |
-| RN1 | 746 | 370 | 106 | 67% |
+| RN1 | 746 | 370 | 108 | 67% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 271 | 133 | 15 | 67% |
 | Talvez10 | 11 | 6 | 27 | 65% |
 | sbsigner | 26 | 16 | 5 | 62% |
