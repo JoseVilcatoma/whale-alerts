@@ -57142,5 +57142,29 @@
     "usd": 1371.2233999999999,
     "odds_at_bet": 79,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785587353,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-jdg-blg-2026-08-01-game1",
+    "title": "LoL: JD Gaming vs Bilibili Gaming - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 2550.0,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785587442,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "lva1-bfc-jel-2026-08-01-draw",
+    "title": "Will BFC Daugavpils vs. FS Jelgava end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1038.857142,
+    "odds_at_bet": 72,
+    "status": "pending"
   }
 ]
