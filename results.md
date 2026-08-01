@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 06:06:56 (hora de Perú)
+Actualizado: 2026-08-01 06:09:01 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -18,14 +18,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 37 | 5 | 1 | 88% |
 | mooseborzoi | 15 | 2 | 2 | 88% |
 | swisstony | 479 | 98 | 50 | 83% |
-| RN1 | 676 | 328 | 67 | 67% |
+| RN1 | 676 | 328 | 69 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
-| ferrariChampions2026 | 760 | 512 | 148 | 60% |
+| ferrariChampions2026 | 760 | 512 | 154 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 5 | 59% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 106 | 51 | 58% |
-| HomeRunHazard | 46 | 37 | 10 | 55% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 106 | 52 | 58% |
+| HomeRunHazard | 46 | 37 | 11 | 55% |
 | wr0ngw4yb3tt0r | 67 | 65 | 7 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 24 | 30 | 12 | 44% |
 | pleaseplease123 | 21 | 28 | 0 | 43% |
 | monkeymashingkeyboard | 7 | 12 | 5 | 37% |
-| 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 18 | 0 | 36% |
+| 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 18 | 1 | 36% |
 | one8tyfive | 1 | 2 | 6 | ⚠️ 33% (muestra chica: 3) |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | PASSTHEMONEY | 1 | 13 | 11 | 7% |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | unbribeableref | 0 | 0 | 3 | — |
 | ToeTickler98 | 0 | 0 | 5 | — |
 | us391 | 0 | 0 | 4 | — |
-| meoooow | 0 | 0 | 7 | — |
+| meoooow | 0 | 0 | 8 | — |
 | esportGG | 0 | 0 | 10 | — |
 | VeryLucky888 | 0 | 0 | 5 | — |
 | baws | 0 | 0 | 1 | — |
