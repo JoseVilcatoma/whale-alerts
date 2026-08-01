@@ -10,7 +10,8 @@ ganó/perdió apenas cada mercado resuelve, para saber a quién le conviene
 seguir de verdad.
 
 Variables de entorno (se configuran en el workflow / como Secrets):
-  NTFY_TOPIC                   - nombre de tu canal de ntfy (obligatorio)
+  TELEGRAM_BOT_TOKEN            - token de tu bot de Telegram (obligatorio)
+  TELEGRAM_CHAT_ID              - chat_id adonde mandar los mensajes (obligatorio)
   WHALE_THRESHOLD              - monto mínimo en USD para avisar (default: 1000)
   TOP_N                        - a cuántos de CADA período vigilar (default: 20)
   LB_CATEGORY                  - OVERALL, SPORTS, POLITICS, CRYPTO, ESPORTS,
@@ -48,7 +49,8 @@ RESULTS_FILE = Path(__file__).parent / "results.json"
 SUMMARY_FILE = Path(__file__).parent / "results.md"
 WATCHED_FILE = Path(__file__).parent / "watched.json"
 
-NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
 WHALE_THRESHOLD = float(os.environ.get("WHALE_THRESHOLD", "1000"))
 TOP_N = int(os.environ.get("TOP_N", "20"))
 LB_CATEGORY = os.environ.get("LB_CATEGORY", "OVERALL")
@@ -257,15 +259,19 @@ def build_ticket(username, trade, usd, odds, wallet):
     )
 
 
-def send_ntfy(text):
-    if not NTFY_TOPIC:
+def send_telegram(text):
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
         return
     try:
-        r = requests.post(f"https://ntfy.sh/{NTFY_TOPIC}", data=text.encode("utf-8"), timeout=10)
+        r = requests.post(
+            f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage",
+            json={"chat_id": TELEGRAM_CHAT_ID, "text": text},
+            timeout=10,
+        )
         if r.status_code != 200:
-            print(f"[ntfy] ⚠️ respuesta {r.status_code}: {r.text[:300]}", file=sys.stderr)
+            print(f"[telegram] ⚠️ respuesta {r.status_code}: {r.text[:300]}", file=sys.stderr)
     except Exception as e:
-        print(f"Error mandando a ntfy: {e}", file=sys.stderr)
+        print(f"Error mandando a Telegram: {e}", file=sys.stderr)
 
 
 # ---------- websocket en vivo ----------
@@ -325,7 +331,7 @@ def on_ws_message(ws, message):
     username = watched.get(wallet, "anon")
     odds = round((trade.get("price") or 0) * 100)
     print(f"🐋 EN VIVO — {username}: ${usd:,.0f} en {trade.get('title')}")
-    send_ntfy(build_ticket(username, trade, usd, odds, wallet))
+    send_telegram(build_ticket(username, trade, usd, odds, wallet))
     log_result_pending(username, wallet, trade, usd, odds)
 
 
@@ -420,11 +426,11 @@ def main():
             watched.update({wl: m["username"] for wl, m in watched_meta.items()})
         print(f"[ranking] cargados {len(watched_meta)} vigilados de corridas anteriores")
 
-    if not NTFY_TOPIC:
-        print("¡Falta NTFY_TOPIC! No va a poder avisar nada.", file=sys.stderr)
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+        print("¡Falta TELEGRAM_BOT_TOKEN o TELEGRAM_CHAT_ID! No va a poder avisar nada.", file=sys.stderr)
     else:
-        print(f"[ntfy] mandando push de prueba al canal '{NTFY_TOPIC}'...")
-        send_ntfy(f"✅ Whale Alerts bot conectado\n\nSi ves este mensaje en tu celular, el canal ntfy '{NTFY_TOPIC}' funciona bien. Las próximas apuestas fuertes de los vigilados van a llegar acá.")
+        print("[telegram] mandando mensaje de prueba...")
+        send_telegram("✅ Whale Alerts bot conectado\n\nSi ves este mensaje en Telegram, todo funciona bien. Las próximas apuestas fuertes de los vigilados van a llegar acá.")
 
     bg = threading.Thread(target=background_worker, daemon=True)
     bg.start()
