@@ -48454,5 +48454,65 @@
     "usd": 1664.9516,
     "odds_at_bet": 52,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785564391,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 2675.46,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785564391,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 2553.06,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785564428,
+    "username": "ToeTickler98",
+    "wallet": "0x866056133a70de9282a080758858d1a0c8b393ed",
+    "slug": "val-kc3-tl1-2026-08-01",
+    "title": "Valorant: Karmine Corp vs Team Liquid (BO3) - VCT EMEA Group Omega",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 12985.839,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785564431,
+    "username": "ToeTickler98",
+    "wallet": "0x866056133a70de9282a080758858d1a0c8b393ed",
+    "slug": "val-kc3-tl1-2026-08-01",
+    "title": "Valorant: Karmine Corp vs Team Liquid (BO3) - VCT EMEA Group Omega",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 2160.0,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785564460,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 1083.333333,
+    "odds_at_bet": 52,
+    "status": "pending"
   }
 ]
