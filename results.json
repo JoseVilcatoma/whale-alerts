@@ -67786,5 +67786,17 @@
     "usd": 1053.76133,
     "odds_at_bet": 77,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785603772,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-gil3-vcepo-2026-08-01-totals-1pt5",
+    "title": "O/U 1.5 Rounds",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2640.0,
+    "odds_at_bet": 32,
+    "status": "pending"
   }
 ]
