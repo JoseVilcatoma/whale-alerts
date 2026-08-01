@@ -55822,5 +55822,41 @@
     "usd": 3275.40132,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785585490,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01-game2",
+    "title": "Counter-Strike: FaZe vs Spirit - Map 2 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 2518.88,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785585507,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-1win-og-2026-08-01-game1",
+    "title": "Dota 2: 1win vs OG - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1373.9480999999998,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785585525,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-ns-fox1-2026-08-01-game2",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 2164.00383,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
