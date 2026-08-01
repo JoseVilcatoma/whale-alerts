@@ -53830,5 +53830,17 @@
     "usd": 1118.7918,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785582042,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-lgd-tes-2026-08-01",
+    "title": "LoL: LGD Gaming vs Top Esports (BO3) - LPL Group Ascend",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1042.0826000000002,
+    "odds_at_bet": 26,
+    "status": "pending"
   }
 ]
