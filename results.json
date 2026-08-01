@@ -48838,5 +48838,17 @@
     "usd": 2252.1677999999997,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785567752,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 3445.917,
+    "odds_at_bet": 85,
+    "status": "pending"
   }
 ]
