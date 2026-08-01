@@ -1,13 +1,13 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 12:26:40 (hora de Perú)
+Actualizado: 2026-08-01 12:31:37 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
 | Sparkling8899 | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| Talvez10 | 1 | 0 | 41 | ⚠️ 100% (muestra chica: 1) |
+| Talvez10 | 1 | 0 | 42 | ⚠️ 100% (muestra chica: 1) |
 | QuietRiskisWrong | 2 | 0 | 3 | ⚠️ 100% (muestra chica: 2) |
 | paquitomillonario | 6 | 0 | 0 | ⚠️ 100% (muestra chica: 6) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RN1 | 715 | 357 | 140 | 67% |
 | flatbarrel | 2 | 1 | 1 | ⚠️ 67% (muestra chica: 3) |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 118 | 63% |
-| ferrariChampions2026 | 844 | 552 | 398 | 60% |
+| ferrariChampions2026 | 844 | 552 | 401 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 13 | 59% |
-| HomeRunHazard | 52 | 43 | 51 | 55% |
+| HomeRunHazard | 52 | 43 | 52 | 55% |
 | wr0ngw4yb3tt0r | 67 | 65 | 27 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | cruzNBA | 0 | 2 | 2 | ⚠️ 0% (muestra chica: 2) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
-| CentralCasting | 0 | 0 | 14 | — |
+| CentralCasting | 0 | 0 | 15 | — |
 | balthazar | 0 | 0 | 17 | — |
 | Bigggggggg | 0 | 0 | 11 | — |
 | Melody626 | 0 | 0 | 6 | — |
@@ -69,8 +69,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Pwaddler | 0 | 0 | 5 | — |
 | plonker2026 | 0 | 0 | 3 | — |
 | surfandturf | 0 | 0 | 4 | — |
-| texaskid | 0 | 0 | 8 | — |
-| Fallout3 | 0 | 0 | 13 | — |
+| texaskid | 0 | 0 | 9 | — |
+| Fallout3 | 0 | 0 | 14 | — |
 | Winnerdinnerchickenjr | 0 | 0 | 1 | — |
 | THEdirkdiggler | 0 | 0 | 1 | — |
 | matenghehe | 0 | 0 | 8 | — |
