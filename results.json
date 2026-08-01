@@ -40414,5 +40414,29 @@
     "usd": 2117.4295,
     "odds_at_bet": 53,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785544280,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-zakharo-zarazua-2026-07-31",
+    "title": "The Memphis Classic: Anastasia Zakharova vs Renata Zarazua",
+    "outcome": "Renata Zarazua",
+    "side": "BUY",
+    "usd": 4480.434,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785544326,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-eala-svitoli-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 1465.9199999999998,
+    "odds_at_bet": 72,
+    "status": "pending"
   }
 ]
