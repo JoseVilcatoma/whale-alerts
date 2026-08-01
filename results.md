@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 09:17:50 (hora de Perú)
+Actualizado: 2026-08-01 09:20:39 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -16,20 +16,20 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | esportGG | 5 | 0 | 14 | ⚠️ 100% (muestra chica: 5) |
 | ninasuskevic | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | Spicer | 18 | 0 | 12 | 100% |
-| Djdjdjekekek | 93 | 11 | 7 | 89% |
+| Djdjdjekekek | 93 | 11 | 8 | 89% |
 | cigarettes | 38 | 5 | 4 | 88% |
 | mooseborzoi | 15 | 2 | 4 | 88% |
 | swisstony | 482 | 100 | 67 | 83% |
 | humkyakare | 7 | 3 | 3 | 70% |
-| RN1 | 715 | 357 | 50 | 67% |
+| RN1 | 715 | 357 | 51 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 100 | 63% |
-| ferrariChampions2026 | 844 | 552 | 221 | 60% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 102 | 63% |
+| ferrariChampions2026 | 844 | 552 | 223 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 9 | 59% |
 | HomeRunHazard | 52 | 43 | 19 | 55% |
-| wr0ngw4yb3tt0r | 67 | 65 | 13 | 51% |
+| wr0ngw4yb3tt0r | 67 | 65 | 14 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 4 | 4 | 3 | 50% |
@@ -58,10 +58,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | unbribeableref | 0 | 0 | 3 | — |
 | ToeTickler98 | 0 | 0 | 5 | — |
 | us391 | 0 | 0 | 10 | — |
-| VeryLucky888 | 0 | 0 | 21 | — |
+| VeryLucky888 | 0 | 0 | 22 | — |
 | baws | 0 | 0 | 1 | — |
 | fkgggg2mouzfuria | 0 | 0 | 24 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 10 | — |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 0 | 0 | 1 | — |
 | VPenguin | 0 | 0 | 5 | — |
 | SDTrading | 0 | 0 | 1 | — |
+| fazewinline | 0 | 0 | 1 | — |
