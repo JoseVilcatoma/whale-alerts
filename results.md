@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 22:06:37 (hora de Perú)
+Actualizado: 2026-07-31 22:10:11 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -11,17 +11,17 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 35 | 5 | 2 | 88% |
 | swisstony | 370 | 66 | 115 | 85% |
 | Djdjdjekekek | 40 | 10 | 55 | 80% |
-| RN1 | 515 | 233 | 195 | 69% |
+| RN1 | 515 | 233 | 197 | 69% |
 | UpTheBlues | 29 | 16 | 40 | 64% |
 | sbsigner | 17 | 10 | 7 | 63% |
-| ferrariChampions2026 | 594 | 373 | 250 | 61% |
+| ferrariChampions2026 | 594 | 373 | 254 | 61% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 134 | 91 | 23 | 60% |
 | mooseborzoi | 3 | 2 | 12 | ⚠️ 60% (muestra chica: 5) |
 | BreakTheBank | 4 | 3 | 2 | ⚠️ 57% (muestra chica: 7) |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | Eztennis | 28 | 30 | 3 | 48% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 14 | 4 | 42% |
-| wr0ngw4yb3tt0r | 20 | 31 | 61 | 39% |
+| wr0ngw4yb3tt0r | 20 | 31 | 70 | 39% |
 | 1winstreak1 | 9 | 14 | 25 | 39% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 9 | 9 | 31% |
 | PASSTHEMONEY | 1 | 5 | 8 | ⚠️ 17% (muestra chica: 6) |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Bigggggggg | 0 | 0 | 9 | — |
 | fRibrenlc | 0 | 0 | 5 | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 0 | 0 | 15 | — |
-| HomeRunHazard | 0 | 0 | 54 | — |
+| HomeRunHazard | 0 | 0 | 56 | — |
 | flatbarrel | 0 | 0 | 1 | — |
 | cruzNBA | 0 | 0 | 1 | — |
 | QuietRiskisWrong | 0 | 0 | 5 | — |
