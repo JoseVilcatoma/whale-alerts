@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 09:20:39 (hora de Perú)
+Actualizado: 2026-08-01 09:24:54 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -65,4 +65,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 0 | 0 | 1 | — |
 | VPenguin | 0 | 0 | 5 | — |
 | SDTrading | 0 | 0 | 1 | — |
-| fazewinline | 0 | 0 | 1 | — |
+| fazewinline | 0 | 0 | 2 | — |

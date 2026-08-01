@@ -61090,5 +61090,17 @@
     "usd": 1999.999998,
     "odds_at_bet": 66,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785594248,
+    "username": "fazewinline",
+    "wallet": "0x1d3567ad67b1f054160f9d560ca3817038cc94ee",
+    "slug": "cs2-ast10-mouz-2026-08-01",
+    "title": "Counter-Strike: Astralis vs MOUZ (BO3) - BLAST Bounty Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 1999.9999990000001,
+    "odds_at_bet": 66,
+    "status": "pending"
   }
 ]
