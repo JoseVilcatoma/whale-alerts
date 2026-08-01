@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 10:19:38 (hora de Perú)
+Actualizado: 2026-08-01 10:23:04 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -21,10 +21,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mooseborzoi | 15 | 2 | 6 | 88% |
 | swisstony | 482 | 100 | 70 | 83% |
 | humkyakare | 7 | 3 | 3 | 70% |
-| RN1 | 715 | 357 | 80 | 67% |
+| RN1 | 715 | 357 | 89 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 110 | 63% |
-| ferrariChampions2026 | 844 | 552 | 264 | 60% |
+| ferrariChampions2026 | 844 | 552 | 267 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 9 | 59% |
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Eztennis | 28 | 33 | 0 | 46% |
 | pleaseplease123 | 21 | 28 | 2 | 43% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 26 | 35 | 17 | 43% |
-| GoalLineGhost | 4 | 6 | 22 | 40% |
+| GoalLineGhost | 4 | 6 | 23 | 40% |
 | monkeymashingkeyboard | 7 | 12 | 9 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 0 | 34% |
 | one8tyfive | 2 | 6 | 9 | 25% |
@@ -67,3 +67,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SDTrading | 0 | 0 | 1 | — |
 | fazewinline | 0 | 0 | 5 | — |
 | Pwaddler | 0 | 0 | 4 | — |
+| plonker2026 | 0 | 0 | 1 | — |
