@@ -54178,5 +54178,89 @@
     "usd": 6296.853333,
     "odds_at_bet": 76,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785582817,
+    "username": "AnonymousUsername",
+    "wallet": "0x9703676286b93c2eca71ca96e8757104519a69c2",
+    "slug": "mlb-stl-tor-2026-08-01",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 1159.5318,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785582819,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-lgd-tes-2026-08-01",
+    "title": "LoL: LGD Gaming vs Top Esports (BO3) - LPL Group Ascend",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1526.69,
+    "odds_at_bet": 11,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785582823,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-gen-dk-2026-08-01",
+    "title": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "SELL",
+    "usd": 8759.262,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785582873,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dk-2026-08-01-game1",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1921.568627,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785582882,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dk-2026-08-01-game1",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1886.0345,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785582917,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-gen-dk-2026-08-01",
+    "title": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 1130.9676,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785582928,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-ns-fox1-2026-08-01-game2",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 1117.11177,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
