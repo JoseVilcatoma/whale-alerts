@@ -1,13 +1,13 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 18:33:48 (hora de Perú)
+Actualizado: 2026-08-01 18:36:44 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
 | Sparkling8899 | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| QuietRiskisWrong | 2 | 0 | 8 | ⚠️ 100% (muestra chica: 2) |
+| QuietRiskisWrong | 2 | 0 | 9 | ⚠️ 100% (muestra chica: 2) |
 | paquitomillonario | 6 | 0 | 5 | ⚠️ 100% (muestra chica: 6) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | ninasuskevic | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
@@ -30,15 +30,15 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Fallout3 | 11 | 5 | 0 | 69% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 3 | 5 | 67% |
 | one8tyfive | 14 | 7 | 20 | 67% |
-| RN1 | 771 | 393 | 213 | 66% |
+| RN1 | 771 | 393 | 216 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 41 | 66% |
 | esportGG | 16 | 10 | 21 | 62% |
 | GoalLineGhost | 21 | 13 | 63 | 62% |
-| ferrariChampions2026 | 1051 | 688 | 408 | 60% |
-| sbsigner | 26 | 17 | 9 | 60% |
+| ferrariChampions2026 | 1051 | 688 | 413 | 60% |
+| sbsigner | 26 | 17 | 11 | 60% |
 | fRibrenlc | 3 | 2 | 6 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 24 | 59% |
-| HomeRunHazard | 73 | 50 | 150 | 59% |
+| HomeRunHazard | 73 | 50 | 151 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 11 | 8 | 13 | 58% |
 | wr0ngw4yb3tt0r | 80 | 67 | 58 | 54% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -68,7 +68,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | balthazar | 0 | 0 | 17 | — |
 | Bigggggggg | 0 | 0 | 24 | — |
 | Melody626 | 0 | 0 | 6 | — |
-| AnonymousUsername | 0 | 0 | 27 | — |
+| AnonymousUsername | 0 | 0 | 28 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | ToeTickler98 | 0 | 0 | 10 | — |
 | SDTrading | 0 | 0 | 1 | — |
@@ -77,6 +77,6 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | THEdirkdiggler | 0 | 0 | 3 | — |
 | matenghehe | 0 | 0 | 8 | — |
 | StasPanda | 0 | 0 | 5 | — |
-| Flipadelphia | 0 | 0 | 11 | — |
+| Flipadelphia | 0 | 0 | 12 | — |
 | BirdMan. | 0 | 0 | 1 | — |
 | LeatherPants | 0 | 0 | 1 | — |
