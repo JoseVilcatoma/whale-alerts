@@ -61822,5 +61822,41 @@
     "usd": 13756.1127,
     "odds_at_bet": 51,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785595996,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "wta-quevedo-jones-2026-08-01",
+    "title": "Targu Mures: Kaitlin Quevedo vs Francesca Jones",
+    "outcome": "Kaitlin Quevedo",
+    "side": "BUY",
+    "usd": 4393.0925099999995,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785596004,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-jdg-blg-2026-08-01-game1",
+    "title": "LoL: JD Gaming vs Bilibili Gaming - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 1204.33446,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785596052,
+    "username": "Melody626",
+    "wallet": "0xecaa8806a9a05049d7d5260a33dc924220e377a9",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 2759.2565,
+    "odds_at_bet": 77,
+    "status": "pending"
   }
 ]
