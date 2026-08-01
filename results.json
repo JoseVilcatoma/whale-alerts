@@ -61714,5 +61714,113 @@
     "usd": 1407.0,
     "odds_at_bet": 25,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785595853,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "den-lyn-agf-2026-08-01-lyn",
+    "title": "Will Lyngby BK win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1137.5,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595854,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "den-lyn-agf-2026-08-01-lyn",
+    "title": "Will Lyngby BK win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 3250.0,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595857,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "den-lyn-agf-2026-08-01-lyn",
+    "title": "Will Lyngby BK win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2775.5,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595876,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-trungel-mejia-2026-08-01",
+    "title": "Canadian Open, Qualification: Marco Trungelliti vs Nicolas Mejia",
+    "outcome": "Marco Trungelliti",
+    "side": "BUY",
+    "usd": 1060.175722,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595895,
+    "username": "CentralCasting",
+    "wallet": "0x0feb1bf966bc7f954c2da0293ae2fdc572c5db5d",
+    "slug": "btc-updown-5m-1785595800",
+    "title": "Bitcoin Up or Down - August 1, 10:50AM-10:55AM ET",
+    "outcome": "Up",
+    "side": "BUY",
+    "usd": 3810.5848,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595921,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "fin1-lah-jar-2026-08-01-lah",
+    "title": "Will FC Lahti win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2790.0,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595921,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "fin1-lah-jar-2026-08-01-lah",
+    "title": "Will FC Lahti win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 3100.0,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595932,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "fin1-lah-jar-2026-08-01-lah",
+    "title": "Will FC Lahti win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1830.0,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595964,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-nyy-chc-2026-08-01",
+    "title": "New York Yankees vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 13756.1127,
+    "odds_at_bet": 51,
+    "status": "pending"
   }
 ]
