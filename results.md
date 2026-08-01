@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 21:56:01 (hora de Perú)
+Actualizado: 2026-07-31 21:59:32 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -9,9 +9,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 1 | 0 | 7 | ⚠️ 100% (muestra chica: 1) |
 | Talvez10 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | cigarettes | 35 | 5 | 2 | 88% |
-| swisstony | 370 | 66 | 111 | 85% |
+| swisstony | 370 | 66 | 114 | 85% |
 | Djdjdjekekek | 40 | 10 | 55 | 80% |
-| RN1 | 515 | 233 | 192 | 69% |
+| RN1 | 515 | 233 | 193 | 69% |
 | UpTheBlues | 29 | 16 | 40 | 64% |
 | sbsigner | 17 | 10 | 7 | 63% |
 | ferrariChampions2026 | 594 | 373 | 250 | 61% |
@@ -22,7 +22,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Eztennis | 28 | 30 | 3 | 48% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 14 | 4 | 42% |
 | wr0ngw4yb3tt0r | 20 | 31 | 60 | 39% |
-| 1winstreak1 | 9 | 14 | 24 | 39% |
+| 1winstreak1 | 9 | 14 | 25 | 39% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 9 | 9 | 31% |
 | PASSTHEMONEY | 1 | 5 | 8 | ⚠️ 17% (muestra chica: 6) |
 | pleaseplease123 | 2 | 15 | 32 | 12% |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Bigggggggg | 0 | 0 | 9 | — |
 | fRibrenlc | 0 | 0 | 5 | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 0 | 0 | 15 | — |
-| HomeRunHazard | 0 | 0 | 52 | — |
+| HomeRunHazard | 0 | 0 | 53 | — |
 | flatbarrel | 0 | 0 | 1 | — |
 | cruzNBA | 0 | 0 | 1 | — |
 | QuietRiskisWrong | 0 | 0 | 4 | — |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | paquitomillonario | 0 | 0 | 6 | — |
 | Melody626 | 0 | 0 | 3 | — |
 | neurodivergentBet | 0 | 0 | 1 | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 3 | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 4 | — |
 | kluckkluck | 0 | 0 | 7 | — |
 | AnonymousUsername | 0 | 0 | 1 | — |
 | unbribeableref | 0 | 0 | 2 | — |
