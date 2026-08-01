@@ -58738,5 +58738,65 @@
     "usd": 1711.8,
     "odds_at_bet": 90,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785590221,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01",
+    "title": "Counter-Strike: FaZe vs Spirit (BO3) - BLAST Bounty Playoffs",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 1324.7139,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785590227,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "chi-bgu-zhe-2026-08-01-total-3pt5",
+    "title": "Beijing Guoan FC vs. Zhejiang Zhiye FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1071.992727,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785590235,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "ufc-gil3-vcepo-2026-08-01",
+    "title": "UFC Fight Night: Gilbert Urbina vs. Vlasto Cepo (Middleweight, Prelims)",
+    "outcome": "Vlasto Cepo",
+    "side": "BUY",
+    "usd": 1480.0,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785590235,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-gil3-vcepo-2026-08-01",
+    "title": "UFC Fight Night: Gilbert Urbina vs. Vlasto Cepo (Middleweight, Prelims)",
+    "outcome": "Gilbert Urbina",
+    "side": "BUY",
+    "usd": 1397.0086,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785590293,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-jdg-blg-2026-08-01-game2",
+    "title": "LoL: JD Gaming vs Bilibili Gaming - Game 2 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 1425.8706,
+    "odds_at_bet": 11,
+    "status": "pending"
   }
 ]
