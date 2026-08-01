@@ -53134,5 +53134,89 @@
     "usd": 2835.0,
     "odds_at_bet": 63,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785580124,
+    "username": "Spicer",
+    "wallet": "0x3954e1c6b7bc5645d9d3425a6f4490889ef122d9",
+    "slug": "dota2-bb4-lgd-2026-08-01-game1",
+    "title": "Dota 2: BetBoom Team vs LGD Gaming - Game 1 Winner",
+    "outcome": "BetBoom Team",
+    "side": "SELL",
+    "usd": 153117.64908,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785580127,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-lgd-tes-2026-08-01",
+    "title": "LoL: LGD Gaming vs Top Esports (BO3) - LPL Group Ascend",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 34394.644100000005,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785580144,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-ns-fox1-2026-08-01-game2",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 3044.56239,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785580145,
+    "username": "unbribeableref",
+    "wallet": "0xf7429705e25b619338412967f0a70260b6e1e039",
+    "slug": "will-michael-olise-transfer-to-real-madrid-20260717222856707",
+    "title": "Will Michael Olise Transfer to Real Madrid?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2978.8615999999997,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785580158,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-miyoshi-kouzmin-2026-08-01",
+    "title": "Samsun: Kenta Miyoshi vs Constantin Bittoun Kouzmine",
+    "outcome": "Constantin Bittoun Kouzmine",
+    "side": "BUY",
+    "usd": 1867.1741,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785580159,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-gen-dk-2026-08-01",
+    "title": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 6098.829,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785580162,
+    "username": "humkyakare",
+    "wallet": "0x32d21c404498db353bd2bc47b5a35e7256908850",
+    "slug": "lol-lgd-tes-2026-08-01",
+    "title": "LoL: LGD Gaming vs Top Esports (BO3) - LPL Group Ascend",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 1470.9917000000003,
+    "odds_at_bet": 67,
+    "status": "pending"
   }
 ]
