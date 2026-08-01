@@ -47146,5 +47146,29 @@
     "usd": 1013.8999969999999,
     "odds_at_bet": 85,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785558337,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-lad-2026-07-31",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 9227.128011,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785558382,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-lad-2026-07-31",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 2926.4004,
+    "odds_at_bet": 92,
+    "status": "pending"
   }
 ]
