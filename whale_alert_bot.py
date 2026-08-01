@@ -3,8 +3,11 @@ whale_alert_bot.py — versión "en vivo" (websocket), enfocada 100% en velocida
 
 Se conecta al chorro en vivo de TODAS las apuestas de Polymarket y avisa al
 instante apenas alguno de los vigilados (top del ranking, semana + mes
-combinados) hace una apuesta fuerte. Sin análisis extra que pueda demorar
-nada — la prioridad acá es la velocidad.
+combinados, con un mínimo de 7 días de permanencia) hace una apuesta fuerte.
+
+Además lleva un registro de resultados (results.json / results.md) marcando
+ganó/perdió apenas cada mercado resuelve, para saber a quién le conviene
+seguir de verdad.
 
 Variables de entorno (se configuran en el workflow / como Secrets):
   NTFY_TOPIC                   - nombre de tu canal de ntfy (obligatorio)
@@ -14,6 +17,8 @@ Variables de entorno (se configuran en el workflow / como Secrets):
                                   CULTURE, ECONOMICS (default: OVERALL)
   LEADERBOARD_REFRESH_SECONDS  - cada cuánto refresca la lista de vigilados
                                   (default: 900)
+  MIN_WATCH_DAYS               - mínimo de días que se sigue vigilando a
+                                  alguien aunque salga del top (default: 7)
   MAX_RUNTIME_SECONDS          - cuándo cortar solo, antes que lo corte GitHub
                                   (default: 21000 = 5h50m)
 """
@@ -53,8 +58,8 @@ LEADERBOARD_REFRESH_SECONDS = int(os.environ.get("LEADERBOARD_REFRESH_SECONDS", 
 MIN_WATCH_DAYS = float(os.environ.get("MIN_WATCH_DAYS", "7"))
 MAX_RUNTIME_SECONDS = int(os.environ.get("MAX_RUNTIME_SECONDS", str(5 * 3600 + 50 * 60)))
 
-watched = {}          # wallet (minúsculas) -> username
-watched_meta = {}     # wallet -> {"username":..., "added_at": ts} — para el mínimo de 7 días
+watched = {}           # wallet (minúsculas) -> username
+watched_meta = {}      # wallet -> {"username":..., "added_at": ts} — para el mínimo de 7 días
 msg_count = 0
 last_msg_at = time.time()
 current_ws = None
@@ -64,7 +69,7 @@ lock = threading.Lock()
 run_start = time.time()
 stop_flag = threading.Event()
 
-results = []           # cada apuesta que alertamos: {..., "status": "pending"/"won"/"lost"}
+results = []            # cada apuesta que alertamos: {..., "status": "pending"/"won"/"lost"}
 results_dirty = False
 _market_cache = {}
 
@@ -133,7 +138,6 @@ def log_result_pending(username, wallet, trade, usd, odds):
 
 
 def resolve_pending_results():
-    """Revisa las pendientes contra Polymarket y marca ganó/perdió si ya resolvieron."""
     global results_dirty
     changed = False
     with lock:
@@ -145,7 +149,7 @@ def resolve_pending_results():
             with lock:
                 r["status"] = outcome
             changed = True
-        time.sleep(0.1)  # prudencia con la API pública
+        time.sleep(0.1)
     if changed:
         results_dirty = True
 
@@ -257,7 +261,9 @@ def send_ntfy(text):
     if not NTFY_TOPIC:
         return
     try:
-        requests.post(f"https://ntfy.sh/{NTFY_TOPIC}", data=text.encode("utf-8"), timeout=10)
+        r = requests.post(f"https://ntfy.sh/{NTFY_TOPIC}", data=text.encode("utf-8"), timeout=10)
+        if r.status_code != 200:
+            print(f"[ntfy] ⚠️ respuesta {r.status_code}: {r.text[:300]}", file=sys.stderr)
     except Exception as e:
         print(f"Error mandando a ntfy: {e}", file=sys.stderr)
 
@@ -354,12 +360,12 @@ def background_worker():
     last_save = time.time()
     while not stop_flag.is_set():
         now = time.time()
+
         if now - last_lb_refresh > LEADERBOARD_REFRESH_SECONDS or not watched:
             combined = get_combined_leaderboard()  # wallet original -> trader dict, del top actual
             cutoff = now - MIN_WATCH_DAYS * 86400
             with lock:
                 added, dropped = 0, 0
-                # sumar / refrescar a los que están en el top ahora
                 for w, t in combined.items():
                     wl = w.lower()
                     if wl not in watched_meta:
@@ -368,7 +374,6 @@ def background_worker():
                     else:
                         watched_meta[wl]["username"] = t.get("userName", watched_meta[wl]["username"])
                 current_top_wallets = {w.lower() for w in combined.keys()}
-                # sacar solo a los que YA no están en el top Y ya cumplieron el mínimo de días
                 for wl in list(watched_meta.keys()):
                     if wl not in current_top_wallets and watched_meta[wl]["added_at"] < cutoff:
                         del watched_meta[wl]
@@ -377,23 +382,28 @@ def background_worker():
                 watched.update({wl: m["username"] for wl, m in watched_meta.items()})
             print(f"[ranking] {len(watched)} vigilados (+{added} nuevos, -{dropped} vencidos tras {MIN_WATCH_DAYS} días): {list(watched.values())}")
             last_lb_refresh = now
+
         if now - last_heartbeat > 120:
             print(f"[heartbeat] mensajes recibidos del chorro hasta ahora: {msg_count}")
             last_heartbeat = now
+
         if now - last_resolve_check > 60:
             resolve_pending_results()
             last_resolve_check = now
+
         if now - last_msg_at > 60 and current_ws is not None:
             print("[en vivo] 60s sin recibir nada — la conexión parece muda, forzando reconexión...")
             try:
                 current_ws.close()
             except Exception:
                 pass
-            last_msg_at = time.time()  # evita que se dispare de nuevo mientras reconecta
+            last_msg_at = time.time()
+
         if results_dirty and now - last_save > 120:
             print("[resultados] guardando progreso en el repo...")
             save_and_commit_results()
             last_save = now
+
         time.sleep(5)
 
 
