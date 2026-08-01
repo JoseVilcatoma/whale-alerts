@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 10:56:02 (hora de Perú)
+Actualizado: 2026-08-01 10:59:57 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -18,18 +18,18 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 18 | 0 | 12 | 100% |
 | Djdjdjekekek | 93 | 11 | 17 | 89% |
 | cigarettes | 38 | 5 | 11 | 88% |
-| mooseborzoi | 15 | 2 | 7 | 88% |
-| swisstony | 482 | 100 | 70 | 83% |
+| mooseborzoi | 15 | 2 | 8 | 88% |
+| swisstony | 482 | 100 | 71 | 83% |
 | humkyakare | 7 | 3 | 4 | 70% |
-| RN1 | 715 | 357 | 104 | 67% |
+| RN1 | 715 | 357 | 105 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 112 | 63% |
-| ferrariChampions2026 | 844 | 552 | 310 | 60% |
+| ferrariChampions2026 | 844 | 552 | 312 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 11 | 59% |
 | HomeRunHazard | 52 | 43 | 35 | 55% |
-| wr0ngw4yb3tt0r | 67 | 65 | 23 | 51% |
+| wr0ngw4yb3tt0r | 67 | 65 | 25 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 4 | 4 | 4 | 50% |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | cruzNBA | 0 | 2 | 2 | ⚠️ 0% (muestra chica: 2) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
-| CentralCasting | 0 | 0 | 6 | — |
+| CentralCasting | 0 | 0 | 7 | — |
 | balthazar | 0 | 0 | 17 | — |
 | Bigggggggg | 0 | 0 | 11 | — |
 | Melody626 | 0 | 0 | 6 | — |
@@ -57,11 +57,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | AnonymousUsername | 0 | 0 | 7 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | ToeTickler98 | 0 | 0 | 5 | — |
-| us391 | 0 | 0 | 12 | — |
-| VeryLucky888 | 0 | 0 | 33 | — |
+| us391 | 0 | 0 | 13 | — |
+| VeryLucky888 | 0 | 0 | 35 | — |
 | baws | 0 | 0 | 1 | — |
 | fkgggg2mouzfuria | 0 | 0 | 26 | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 12 | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 13 | — |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 0 | 0 | 1 | — |
 | VPenguin | 0 | 0 | 16 | — |
 | SDTrading | 0 | 0 | 1 | — |
@@ -70,4 +70,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | plonker2026 | 0 | 0 | 2 | — |
 | surfandturf | 0 | 0 | 4 | — |
 | texaskid | 0 | 0 | 8 | — |
-| Fallout3 | 0 | 0 | 2 | — |
+| Fallout3 | 0 | 0 | 4 | — |
