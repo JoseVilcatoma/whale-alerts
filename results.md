@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 08:47:32 (hora de Perú)
+Actualizado: 2026-08-01 08:50:17 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -22,7 +22,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 481 | 99 | 69 | 83% |
 | RN1 | 715 | 356 | 39 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 181 | 110 | 103 | 62% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 181 | 110 | 106 | 62% |
 | ferrariChampions2026 | 830 | 540 | 232 | 61% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | GoalLineGhost | 3 | 2 | 27 | ⚠️ 60% (muestra chica: 5) |
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | AnonymousUsername | 0 | 0 | 3 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | ToeTickler98 | 0 | 0 | 5 | — |
-| us391 | 0 | 0 | 7 | — |
-| VeryLucky888 | 0 | 0 | 18 | — |
+| us391 | 0 | 0 | 8 | — |
+| VeryLucky888 | 0 | 0 | 19 | — |
 | baws | 0 | 0 | 1 | — |
 | fkgggg2mouzfuria | 0 | 0 | 23 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 10 | — |
