@@ -50770,5 +50770,17 @@
     "usd": 2388.3318,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785575751,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-lgd-tes-2026-08-01-game1",
+    "title": "LoL: LGD Gaming vs Top Esports - Game 1 Winner",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 2127.1828,
+    "odds_at_bet": 68,
+    "status": "pending"
   }
 ]
