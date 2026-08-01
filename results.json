@@ -46666,5 +46666,77 @@
     "usd": 1158.6,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785556886,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-min-sea-2026-07-31",
+    "title": "Minnesota Twins vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 1520.0,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785556888,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-min-sea-2026-07-31",
+    "title": "Minnesota Twins vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 1520.0,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785556946,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-min-sea-2026-07-31",
+    "title": "Minnesota Twins vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 2475.5024,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785556964,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-mil-laa-2026-07-31-total-9pt5",
+    "title": "Milwaukee Brewers vs. Los Angeles Angels: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2028.6,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785556966,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-min-sea-2026-07-31",
+    "title": "Minnesota Twins vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 5700.0,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785557002,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-min-sea-2026-07-31-total-6pt5",
+    "title": "Minnesota Twins vs. Seattle Mariners: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 3356.4206000000004,
+    "odds_at_bet": 97,
+    "status": "pending"
   }
 ]
