@@ -55102,5 +55102,65 @@
     "usd": 3635.84,
     "odds_at_bet": 92,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785584212,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-gen-dk-2026-08-01-game1",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 2526.3963,
+    "odds_at_bet": 9,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785584234,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dk-2026-08-01-game1",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 2997.9801,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785584320,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-lgd-tes-2026-08-01",
+    "title": "LoL: LGD Gaming vs Top Esports (BO3) - LPL Group Ascend",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 7318.674,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785584328,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01-game2",
+    "title": "Counter-Strike: FaZe vs Spirit - Map 2 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 2224.5299999999997,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785584328,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01-game2",
+    "title": "Counter-Strike: FaZe vs Spirit - Map 2 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 2730.0,
+    "odds_at_bet": 84,
+    "status": "pending"
   }
 ]
