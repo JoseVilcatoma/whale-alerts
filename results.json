@@ -79582,5 +79582,29 @@
     "usd": 1490.566,
     "odds_at_bet": 62,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785622933,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "mlb-mia-nym-2026-08-01",
+    "title": "Miami Marlins vs. New York Mets",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "usd": 1150.559995,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785622991,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-sf-sd-2026-08-01-total-9pt5",
+    "title": "San Francisco Giants vs. San Diego Padres: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2420.5607999999997,
+    "odds_at_bet": 63,
+    "status": "pending"
   }
 ]
