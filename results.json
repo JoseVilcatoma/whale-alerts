@@ -47830,5 +47830,101 @@
     "usd": 1038.2013000000002,
     "odds_at_bet": 81,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785562391,
+    "username": "humkyakare",
+    "wallet": "0x32d21c404498db353bd2bc47b5a35e7256908850",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Cameron Norrie",
+    "side": "BUY",
+    "usd": 2473.7200000000003,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785562391,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 3147.6,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785562409,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 2917.4909999999995,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785562414,
+    "username": "humkyakare",
+    "wallet": "0x32d21c404498db353bd2bc47b5a35e7256908850",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Cameron Norrie",
+    "side": "BUY",
+    "usd": 1391.352,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785562414,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Cameron Norrie",
+    "side": "BUY",
+    "usd": 2000.0,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785562414,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Cameron Norrie",
+    "side": "BUY",
+    "usd": 1212.237,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785562414,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Cameron Norrie",
+    "side": "BUY",
+    "usd": 1530.3210000000001,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785562417,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 2851.14,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
