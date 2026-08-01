@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 01:48:07 (hora de Perú)
+Actualizado: 2026-08-01 01:50:39 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -13,12 +13,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 413 | 80 | 111 | 84% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 1 | 47 | ⚠️ 75% (muestra chica: 4) |
 | mooseborzoi | 5 | 2 | 10 | ⚠️ 71% (muestra chica: 7) |
-| RN1 | 588 | 270 | 152 | 69% |
+| RN1 | 588 | 270 | 154 | 69% |
 | HomeRunHazard | 9 | 5 | 68 | 64% |
-| ferrariChampions2026 | 707 | 461 | 89 | 61% |
+| ferrariChampions2026 | 707 | 461 | 90 | 61% |
 | UpTheBlues | 36 | 25 | 24 | 59% |
 | sbsigner | 19 | 13 | 2 | 59% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 140 | 101 | 12 | 58% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 140 | 101 | 13 | 58% |
 | pleaseplease123 | 21 | 17 | 11 | 55% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
