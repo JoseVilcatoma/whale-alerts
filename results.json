@@ -78130,5 +78130,41 @@
     "usd": 1181.7301,
     "odds_at_bet": 97,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785619403,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-c9-dig-2026-08-01",
+    "title": "LoL: Cloud9 vs Dignitas (BO3) - LCS Regular Season",
+    "outcome": "Dignitas",
+    "side": "BUY",
+    "usd": 1051.596,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619454,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-mia-nym-2026-08-01-total-9pt5",
+    "title": "Miami Marlins vs. New York Mets: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1029.5,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619482,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-vidmano-zarazua-2026-08-01",
+    "title": "The Memphis Classic: Darja Vidmanova vs Renata Zarazua",
+    "outcome": "Darja Vidmanova",
+    "side": "BUY",
+    "usd": 4400.0,
+    "odds_at_bet": 88,
+    "status": "pending"
   }
 ]
