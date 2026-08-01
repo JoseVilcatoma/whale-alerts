@@ -43774,5 +43774,65 @@
     "usd": 1029.149998,
     "odds_at_bet": 66,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785550194,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-dellave-jasika-2026-08-01",
+    "title": "ITF Brisbane: Matthew Dellavedova vs Omar Jasika",
+    "outcome": "Matthew Dellavedova",
+    "side": "BUY",
+    "usd": 1443.1399999999999,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550269,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-det-oak-2026-07-31-total-10pt5",
+    "title": "Detroit Tigers vs. Athletics: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 3866.2799999999997,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550269,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-det-oak-2026-07-31-total-10pt5",
+    "title": "Detroit Tigers vs. Athletics: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2797.62,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550361,
+    "username": "QuietRiskisWrong",
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "slug": "bab-el-mandeb-strait-effectively-closed-by-august-31",
+    "title": "Bab el-Mandeb Strait effectively closed by August 31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1971.999998,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550361,
+    "username": "neurodivergentBet",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "ufc-mar12-ale15-2026-08-01",
+    "title": "UFC Fight Night: Marcin Tybura vs. Aleksandar Rakic (Heavyweight, Main Card)",
+    "outcome": "Marcin Tybura",
+    "side": "BUY",
+    "usd": 11590.6108,
+    "odds_at_bet": 23,
+    "status": "pending"
   }
 ]
