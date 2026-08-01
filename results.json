@@ -42670,5 +42670,17 @@
     "usd": 1533.529,
     "odds_at_bet": 71,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785548073,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "mlb-mil-laa-2026-07-31",
+    "title": "Milwaukee Brewers vs. Los Angeles Angels",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 1199.8882999999998,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
