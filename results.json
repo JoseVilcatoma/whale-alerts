@@ -64498,5 +64498,53 @@
     "usd": 6159.629998,
     "odds_at_bet": 78,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785599202,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ast10-mouz-2026-08-01",
+    "title": "Counter-Strike: Astralis vs MOUZ (BO3) - BLAST Bounty Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 2752.0004,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785599206,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "clf-hsv-eve-2026-08-01-hsv",
+    "title": "Will Hamburger SV win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1007.1700000000001,
+    "odds_at_bet": 92,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785599281,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "rou1-vol-fua-2026-08-01-first-half-total-1pt5",
+    "title": "FC Voluntari vs. FC UTA Arad: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 9549.900000000001,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785599292,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "rou1-vol-fua-2026-08-01-first-half-total-1pt5",
+    "title": "FC Voluntari vs. FC UTA Arad: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 4973.400000000001,
+    "odds_at_bet": 81,
+    "status": "pending"
   }
 ]
