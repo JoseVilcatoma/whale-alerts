@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 04:58:03 (hora de Perú)
+Actualizado: 2026-08-01 05:00:10 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -18,9 +18,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 37 | 5 | 1 | 88% |
 | mooseborzoi | 15 | 2 | 1 | 88% |
 | swisstony | 479 | 98 | 42 | 83% |
-| RN1 | 676 | 328 | 51 | 67% |
+| RN1 | 676 | 328 | 52 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
-| ferrariChampions2026 | 760 | 512 | 93 | 60% |
+| ferrariChampions2026 | 760 | 512 | 94 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 5 | 59% |
@@ -49,13 +49,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Bigggggggg | 0 | 0 | 9 | — |
 | Melody626 | 0 | 0 | 3 | — |
 | neurodivergentBet | 0 | 0 | 1 | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 8 | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 9 | — |
 | AnonymousUsername | 0 | 0 | 1 | — |
 | unbribeableref | 0 | 0 | 2 | — |
 | ToeTickler98 | 0 | 0 | 4 | — |
 | us391 | 0 | 0 | 4 | — |
 | meoooow | 0 | 0 | 3 | — |
-| esportGG | 0 | 0 | 6 | — |
+| esportGG | 0 | 0 | 8 | — |
 | VeryLucky888 | 0 | 0 | 2 | — |
 | baws | 0 | 0 | 1 | — |
 | Spicer | 0 | 0 | 16 | — |

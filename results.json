@@ -52210,5 +52210,65 @@
     "usd": 5577.65676,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785578297,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-kumstat-nagal-2026-08-01",
+    "title": "Liberec: Jan Kumstat vs Sumit Nagal",
+    "outcome": "Sumit Nagal",
+    "side": "BUY",
+    "usd": 1700.6798000000001,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785578324,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-lgd-tes-2026-08-01-game2",
+    "title": "LoL: LGD Gaming vs Top Esports - Game 2 Winner",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 1760.158028,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785578360,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-lgd-tes-2026-08-01-game2",
+    "title": "LoL: LGD Gaming vs Top Esports - Game 2 Winner",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 3701.6697710000003,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785578371,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-ns-fox1-2026-08-01",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 1584.0040000000001,
+    "odds_at_bet": 20,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785578374,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-inox-sin2-2026-08-01",
+    "title": "Counter-Strike: INOX Division vs Sinners (BO3) - CCT Europe Series #5 Playoffs",
+    "outcome": "INOX Division",
+    "side": "BUY",
+    "usd": 1282.0,
+    "odds_at_bet": 50,
+    "status": "pending"
   }
 ]
