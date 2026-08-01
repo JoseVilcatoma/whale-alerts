@@ -60202,5 +60202,65 @@
     "usd": 1185.4784,
     "odds_at_bet": 38,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785592221,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-choinsk-gomez-2026-08-01",
+    "title": "Bonn: Jan Choinski vs Federico Agustin Gomez",
+    "outcome": "Jan Choinski",
+    "side": "BUY",
+    "usd": 1901.524203,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785592230,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-ste33-mspasi-2026-08-01",
+    "title": "UFC Fight Night: Stephanie Luciano vs. Marina Spasic (Women's Strawweight, Prelims)",
+    "outcome": "Stephanie Luciano",
+    "side": "BUY",
+    "usd": 3030.54,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785592246,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-faze-ts7-2026-08-01",
+    "title": "Counter-Strike: FaZe vs Spirit (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 3496.48002,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785592273,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-michals-prihodk-2026-08-01",
+    "title": "ITF Koszalin: Daniel Michalski vs Oleg Prihodko",
+    "outcome": "Oleg Prihodko",
+    "side": "BUY",
+    "usd": 2328.7200000000003,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785592288,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-choinsk-gomez-2026-08-01",
+    "title": "Bonn: Jan Choinski vs Federico Agustin Gomez",
+    "outcome": "Jan Choinski",
+    "side": "BUY",
+    "usd": 2651.846923,
+    "odds_at_bet": 74,
+    "status": "pending"
   }
 ]
