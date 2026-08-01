@@ -73102,5 +73102,89 @@
     "usd": 6341.9904,
     "odds_at_bet": 96,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785613809,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "wta-osaka-eala-2026-08-01",
+    "title": "Mubadala Citi DC Open: Naomi Osaka vs Alexandra Eala",
+    "outcome": "Naomi Osaka",
+    "side": "BUY",
+    "usd": 4026.455,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785613830,
+    "username": "Flipadelphia",
+    "wallet": "0x448861155279dbf833d041b963e3ac854599e319",
+    "slug": "arg-bel-aaj-2026-08-01-bel",
+    "title": "Will CA Belgrano win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1658.8645,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785613833,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-kc-navi-2026-08-01-game2",
+    "title": "LoL: Karmine Corp vs Natus Vincere - Game 2 Winner",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 1648.6000000000001,
+    "odds_at_bet": 20,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785613841,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-bonzi-dellien-2026-08-01",
+    "title": "Canadian Open, Qualification: Benjamin Bonzi vs Hugo Dellien",
+    "outcome": "Benjamin Bonzi",
+    "side": "BUY",
+    "usd": 1099.4,
+    "odds_at_bet": 92,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785613852,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-kc-navi-2026-08-01-game2",
+    "title": "LoL: Karmine Corp vs Natus Vincere - Game 2 Winner",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 1329.6000000000001,
+    "odds_at_bet": 20,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785613890,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-faria-oconnel-2026-08-01",
+    "title": "Canadian Open, Qualification: Jaime Faria vs Christopher O'Connell",
+    "outcome": "Jaime Faria",
+    "side": "BUY",
+    "usd": 1849.6593000000003,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785613913,
+    "username": "Flipadelphia",
+    "wallet": "0x448861155279dbf833d041b963e3ac854599e319",
+    "slug": "arg-est-def-2026-08-01-est",
+    "title": "Will Estudiantes de La Plata win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1050.0,
+    "odds_at_bet": 42,
+    "status": "pending"
   }
 ]

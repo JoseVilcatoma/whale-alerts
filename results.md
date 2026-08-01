@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 14:49:22 (hora de Perú)
+Actualizado: 2026-08-01 14:52:08 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -34,11 +34,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 13 | 66% |
 | esportGG | 16 | 10 | 10 | 62% |
 | GoalLineGhost | 21 | 13 | 41 | 62% |
-| ferrariChampions2026 | 1051 | 688 | 163 | 60% |
+| ferrariChampions2026 | 1051 | 688 | 166 | 60% |
 | sbsigner | 26 | 17 | 4 | 60% |
-| fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
+| fRibrenlc | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
-| HomeRunHazard | 73 | 50 | 52 | 59% |
+| HomeRunHazard | 73 | 50 | 53 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 11 | 8 | 6 | 58% |
 | wr0ngw4yb3tt0r | 80 | 67 | 22 | 54% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -77,3 +77,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | THEdirkdiggler | 0 | 0 | 2 | — |
 | matenghehe | 0 | 0 | 8 | — |
 | StasPanda | 0 | 0 | 2 | — |
+| Flipadelphia | 0 | 0 | 2 | — |
