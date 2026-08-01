@@ -1,13 +1,13 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 11:11:58 (hora de Perú)
+Actualizado: 2026-08-01 11:14:02 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
 | Sparkling8899 | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| Talvez10 | 1 | 0 | 25 | ⚠️ 100% (muestra chica: 1) |
+| Talvez10 | 1 | 0 | 26 | ⚠️ 100% (muestra chica: 1) |
 | QuietRiskisWrong | 2 | 0 | 3 | ⚠️ 100% (muestra chica: 2) |
 | paquitomillonario | 6 | 0 | 0 | ⚠️ 100% (muestra chica: 6) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
@@ -16,7 +16,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | esportGG | 5 | 0 | 21 | ⚠️ 100% (muestra chica: 5) |
 | ninasuskevic | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | Spicer | 18 | 0 | 12 | 100% |
-| Djdjdjekekek | 93 | 11 | 18 | 89% |
+| Djdjdjekekek | 93 | 11 | 19 | 89% |
 | cigarettes | 38 | 5 | 11 | 88% |
 | mooseborzoi | 15 | 2 | 9 | 88% |
 | swisstony | 482 | 100 | 71 | 83% |
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RN1 | 715 | 357 | 108 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 112 | 63% |
-| ferrariChampions2026 | 844 | 552 | 326 | 60% |
+| ferrariChampions2026 | 844 | 552 | 328 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 11 | 59% |
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Eztennis | 28 | 33 | 0 | 46% |
 | pleaseplease123 | 21 | 28 | 2 | 43% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 26 | 35 | 19 | 43% |
-| GoalLineGhost | 4 | 6 | 37 | 40% |
+| GoalLineGhost | 4 | 6 | 38 | 40% |
 | monkeymashingkeyboard | 7 | 12 | 9 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 0 | 34% |
 | one8tyfive | 2 | 6 | 11 | 25% |
@@ -58,12 +58,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | unbribeableref | 0 | 0 | 3 | — |
 | ToeTickler98 | 0 | 0 | 5 | — |
 | us391 | 0 | 0 | 13 | — |
-| VeryLucky888 | 0 | 0 | 35 | — |
+| VeryLucky888 | 0 | 0 | 36 | — |
 | baws | 0 | 0 | 1 | — |
 | fkgggg2mouzfuria | 0 | 0 | 26 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 13 | — |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 0 | 0 | 1 | — |
-| VPenguin | 0 | 0 | 18 | — |
+| VPenguin | 0 | 0 | 19 | — |
 | SDTrading | 0 | 0 | 1 | — |
 | fazewinline | 0 | 0 | 5 | — |
 | Pwaddler | 0 | 0 | 5 | — |

@@ -65638,5 +65638,89 @@
     "usd": 1628.4618,
     "odds_at_bet": 67,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785600718,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "btc-updown-5m-1785600600",
+    "title": "Bitcoin Up or Down - August 1, 12:10PM-12:15PM ET",
+    "outcome": "Up",
+    "side": "BUY",
+    "usd": 1854.146666,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785600727,
+    "username": "VPenguin",
+    "wallet": "0xfbf3d501e88815464642d0e913f15379c3eeb218",
+    "slug": "lol-gx-sk-2026-08-01-game2",
+    "title": "LoL: GIANTX vs SK Gaming - Game 2 Winner",
+    "outcome": "GIANTX",
+    "side": "SELL",
+    "usd": 2600.0,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785600728,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gx-sk-2026-08-01-game2",
+    "title": "LoL: GIANTX vs SK Gaming - Game 2 Winner",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "usd": 1521.4316000000001,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785600732,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-rma-fio-2026-08-01-rma",
+    "title": "Will Real Madrid win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1348.1664,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785600826,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gx-sk-2026-08-01-game2",
+    "title": "LoL: GIANTX vs SK Gaming - Game 2 Winner",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "usd": 1371.6877000000002,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785600829,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "ufc-gil3-vcepo-2026-08-01",
+    "title": "UFC Fight Night: Gilbert Urbina vs. Vlasto Cepo (Middleweight, Prelims)",
+    "outcome": "Vlasto Cepo",
+    "side": "BUY",
+    "usd": 1432.0118,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785600829,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-gil3-vcepo-2026-08-01",
+    "title": "UFC Fight Night: Gilbert Urbina vs. Vlasto Cepo (Middleweight, Prelims)",
+    "outcome": "Gilbert Urbina",
+    "side": "BUY",
+    "usd": 3943.6173000000003,
+    "odds_at_bet": 27,
+    "status": "pending"
   }
 ]
