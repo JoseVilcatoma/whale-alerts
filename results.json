@@ -61486,5 +61486,65 @@
     "usd": 8999.999999000001,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785595373,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "ufc-hai-nmilos-2026-08-01",
+    "title": "UFC Fight Night: Hailey Cowan vs. Nina Milo\u0161evic (Women's Bantamweight, Prelims)",
+    "outcome": "Nina Milo\u0161evic",
+    "side": "SELL",
+    "usd": 1393.0719980000001,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595384,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-trungel-mejia-2026-08-01",
+    "title": "Canadian Open, Qualification: Marco Trungelliti vs Nicolas Mejia",
+    "outcome": "Nicolas Mejia",
+    "side": "BUY",
+    "usd": 1885.0172,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595390,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "ufc-hai-nmilos-2026-08-01",
+    "title": "UFC Fight Night: Hailey Cowan vs. Nina Milo\u0161evic (Women's Bantamweight, Prelims)",
+    "outcome": "Nina Milo\u0161evic",
+    "side": "SELL",
+    "usd": 1381.6999999999998,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595405,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-loge-blancan-2026-08-01",
+    "title": "ITF Wetzlar: Jack Loge vs Geoffrey Blancaneaux",
+    "outcome": "Geoffrey Blancaneaux",
+    "side": "BUY",
+    "usd": 1082.5204720000002,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595425,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "atp-damm-rocha-2026-08-01",
+    "title": "Canadian Open, Qualification: Martin Damm vs Henrique Rocha",
+    "outcome": "Martin Damm",
+    "side": "BUY",
+    "usd": 2122.218,
+    "odds_at_bet": 70,
+    "status": "pending"
   }
 ]
