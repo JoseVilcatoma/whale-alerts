@@ -42250,5 +42250,53 @@
     "usd": 1090.155,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785547431,
+    "username": "cruzNBA",
+    "wallet": "0x880b1fc5d3beb01c237f0848b249fd72b48fc98b",
+    "slug": "val-eg2-mibr-2026-07-31-game2",
+    "title": "Valorant: Evil Geniuses vs MIBR - Map 2 Winner",
+    "outcome": "Evil Geniuses",
+    "side": "BUY",
+    "usd": 1666.5,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785547478,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-tor-2026-07-31",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 6575.122556999999,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785547479,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-stl-tor-2026-07-31",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 1331.44,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785547525,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-phi-bal-2026-07-31",
+    "title": "Philadelphia Phillies vs. Baltimore Orioles",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "usd": 1000.2432000000001,
+    "odds_at_bet": 88,
+    "status": "pending"
   }
 ]
