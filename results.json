@@ -79978,5 +79978,89 @@
     "usd": 2041.0992000000003,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785623631,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-inglis-preston-2026-08-01",
+    "title": "Vancouver: Maddison Inglis vs Taylah Preston",
+    "outcome": "Taylah Preston",
+    "side": "BUY",
+    "usd": 2127.213,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785623653,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-nv2-fur-2026-08-01",
+    "title": "Valorant: Team Envy vs FURIA Esports (BO3) - VCT Americas Stage 2 Group Alpha",
+    "outcome": "FURIA Esports",
+    "side": "BUY",
+    "usd": 2533.056285,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785623671,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-pit-cin-2026-08-01-total-8pt5",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 5200.9824,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785623712,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-min-sea-2026-08-01",
+    "title": "Minnesota Twins vs. Seattle Mariners",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 8365.5005,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785623721,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-phi-bal-2026-08-01-total-8pt5",
+    "title": "Philadelphia Phillies vs. Baltimore Orioles: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 4577.9974,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785623721,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-phi-bal-2026-08-01-total-8pt5",
+    "title": "Philadelphia Phillies vs. Baltimore Orioles: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 4346.0007,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785623721,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-phi-bal-2026-08-01-total-8pt5",
+    "title": "Philadelphia Phillies vs. Baltimore Orioles: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 12164.825,
+    "odds_at_bet": 53,
+    "status": "pending"
   }
 ]
