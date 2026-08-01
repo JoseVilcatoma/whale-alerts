@@ -69286,5 +69286,65 @@
     "usd": 6010.54,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785606846,
+    "username": "StasPanda",
+    "wallet": "0x7e5e420a5cde8a322f3b5b93a12a164827f47315",
+    "slug": "cs2-fxw7-bst-2026-08-01",
+    "title": "Counter-Strike: Fluxo W7M vs BESTIA (BO3) - StarLadder StarSeries South American Qualifier Playoffs",
+    "outcome": "Fluxo W7M",
+    "side": "BUY",
+    "usd": 10738.0064,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785606866,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-las-chi-2026-08-01",
+    "title": "Las Vegas Aces vs. Chicago Sky",
+    "outcome": "Las Vegas Aces",
+    "side": "BUY",
+    "usd": 1612.352,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785606873,
+    "username": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+    "wallet": "0x1b20a00709dfe648afd26b326394b5e031f83ab0",
+    "slug": "ufc-du-rob19-2026-08-01",
+    "title": "UFC Fight Night: Du\u0161ko Todorovic vs. Robert Valentin (Middleweight, Main Card)",
+    "outcome": "Robert Valentin",
+    "side": "BUY",
+    "usd": 2921.975,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785606878,
+    "username": "CentralCasting",
+    "wallet": "0x0feb1bf966bc7f954c2da0293ae2fdc572c5db5d",
+    "slug": "btc-updown-5m-1785606600",
+    "title": "Bitcoin Up or Down - August 1, 1:50PM-1:55PM ET",
+    "outcome": "Down",
+    "side": "SELL",
+    "usd": 1164.9147400000002,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785606885,
+    "username": "CentralCasting",
+    "wallet": "0x0feb1bf966bc7f954c2da0293ae2fdc572c5db5d",
+    "slug": "btc-updown-5m-1785606600",
+    "title": "Bitcoin Up or Down - August 1, 1:50PM-1:55PM ET",
+    "outcome": "Down",
+    "side": "SELL",
+    "usd": 5921.6724,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
