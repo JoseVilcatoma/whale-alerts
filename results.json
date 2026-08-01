@@ -50578,5 +50578,41 @@
     "usd": 1229.4114,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785575293,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-miyoshi-kouzmin-2026-08-01",
+    "title": "Samsun: Kenta Miyoshi vs Constantin Bittoun Kouzmine",
+    "outcome": "Kenta Miyoshi",
+    "side": "BUY",
+    "usd": 2969.3,
+    "odds_at_bet": 92,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785575337,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-yes-vg-2026-08-01-game1",
+    "title": "Dota 2: Yellow Submarine vs Vici Gaming - Game 1 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "usd": 1051.875,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785575374,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "kor-gwo-bch-2026-08-01-total-2pt5",
+    "title": "Gangwon FC vs. Bucheon FC 1995: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2766.2313,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]
