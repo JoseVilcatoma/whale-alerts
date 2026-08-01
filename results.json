@@ -47470,5 +47470,65 @@
     "usd": 1080.989989,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785559171,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "mlb-bos-lad-2026-07-31",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 2324.9999970000003,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785559233,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-asl-tij-2026-07-31-total-0pt5",
+    "title": "Atl\u00e9tico San Luis vs. Club Tijuana: O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1130.0800000000002,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785559240,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-asl-tij-2026-07-31-total-0pt5",
+    "title": "Atl\u00e9tico San Luis vs. Club Tijuana: O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1129.5200000000002,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785559245,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-asl-tij-2026-07-31-total-0pt5",
+    "title": "Atl\u00e9tico San Luis vs. Club Tijuana: O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1053.139998,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785559266,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-bos-lad-2026-07-31",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 1039.74,
+    "odds_at_bet": 93,
+    "status": "pending"
   }
 ]
