@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 00:41:58 (hora de Perú)
+Actualizado: 2026-08-01 00:44:20 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -13,8 +13,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 413 | 80 | 107 | 84% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 1 | 41 | ⚠️ 75% (muestra chica: 4) |
 | mooseborzoi | 5 | 2 | 10 | ⚠️ 71% (muestra chica: 7) |
-| RN1 | 588 | 270 | 130 | 69% |
-| HomeRunHazard | 9 | 5 | 65 | 64% |
+| RN1 | 588 | 270 | 132 | 69% |
+| HomeRunHazard | 9 | 5 | 66 | 64% |
 | ferrariChampions2026 | 707 | 461 | 88 | 61% |
 | UpTheBlues | 36 | 25 | 24 | 59% |
 | sbsigner | 19 | 13 | 2 | 59% |
@@ -47,5 +47,5 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | AnonymousUsername | 0 | 0 | 1 | — |
 | unbribeableref | 0 | 0 | 2 | — |
 | IamFKINGbankrupt | 0 | 0 | 1 | — |
-| jtwyslljy | 0 | 0 | 2 | — |
+| jtwyslljy | 0 | 0 | 3 | — |
 | humkyakare | 0 | 0 | 2 | — |
