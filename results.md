@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 19:11:50 (hora de Perú)
+Actualizado: 2026-07-31 19:13:57 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -10,12 +10,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Talvez10 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | cigarettes | 35 | 5 | 2 | 88% |
 | swisstony | 370 | 66 | 74 | 85% |
-| Djdjdjekekek | 40 | 10 | 39 | 80% |
-| RN1 | 515 | 233 | 107 | 69% |
+| Djdjdjekekek | 40 | 10 | 40 | 80% |
+| RN1 | 515 | 233 | 109 | 69% |
 | UpTheBlues | 29 | 16 | 40 | 64% |
 | sbsigner | 17 | 10 | 3 | 63% |
-| ferrariChampions2026 | 594 | 373 | 159 | 61% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 134 | 91 | 18 | 60% |
+| ferrariChampions2026 | 594 | 373 | 163 | 61% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 134 | 91 | 19 | 60% |
 | mooseborzoi | 3 | 2 | 4 | ⚠️ 60% (muestra chica: 5) |
 | BreakTheBank | 4 | 3 | 2 | ⚠️ 57% (muestra chica: 7) |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
