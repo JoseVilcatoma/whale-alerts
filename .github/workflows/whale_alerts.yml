@@ -10,7 +10,7 @@ permissions:
 
 concurrency:
   group: whale-alerts
-  cancel-in-progress: true  # evita que se solapen dos corridas al mismo tiempo
+  cancel-in-progress: true   # una corrida nueva mata a la vieja al instante, nunca hace cola
 
 jobs:
   watch-whales:
@@ -30,7 +30,8 @@ jobs:
 
       - name: Vigilar en vivo
         env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           WHALE_THRESHOLD: '1000'
           TOP_N: '20'
           LB_CATEGORY: 'OVERALL'
