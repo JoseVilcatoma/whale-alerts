@@ -43834,5 +43834,113 @@
     "usd": 11590.6108,
     "odds_at_bet": 23,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785550377,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mil-laa-2026-07-31",
+    "title": "Milwaukee Brewers vs. Los Angeles Angels",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 1204.3269000000003,
+    "odds_at_bet": 27,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550406,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-det-oak-2026-07-31-total-10pt5",
+    "title": "Detroit Tigers vs. Athletics: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 4858.657200000001,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550407,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-det-oak-2026-07-31-total-10pt5",
+    "title": "Detroit Tigers vs. Athletics: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 8737.629,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550438,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-bos-lad-2026-07-31-total-7pt5",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1035.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550438,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bos-lad-2026-07-31-total-7pt5",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2020.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550446,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-ast10-mouz-2026-08-01",
+    "title": "Counter-Strike: Astralis vs MOUZ (BO3) - BLAST Bounty Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 1057.9497,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550485,
+    "username": "QuietRiskisWrong",
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "slug": "will-wti-reach-115-in-august-2026",
+    "title": "Will WTI Crude Oil (WTI) hit (HIGH) $115 in August?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2599.0,
+    "odds_at_bet": 92,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550485,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-det-oak-2026-07-31",
+    "title": "Detroit Tigers vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 4819.851000000001,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550553,
+    "username": "kluckkluck",
+    "wallet": "0x0cbee43106c8949af8d04162425e482dade51f4e",
+    "slug": "mex-asl-tij-2026-07-31-asl",
+    "title": "Will Atl\u00e9tico San Luis win on 2026-07-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 6188.3184,
+    "odds_at_bet": 44,
+    "status": "pending"
   }
 ]
