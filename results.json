@@ -53566,5 +53566,89 @@
     "usd": 2148.6895,
     "odds_at_bet": 85,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785581332,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-miyoshi-kouzmin-2026-08-01",
+    "title": "Samsun: Kenta Miyoshi vs Constantin Bittoun Kouzmine",
+    "outcome": "Constantin Bittoun Kouzmine",
+    "side": "BUY",
+    "usd": 5144.0199999999995,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785581407,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "kor-gwo-bch-2026-08-01-bch",
+    "title": "Will Bucheon FC 1995 win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1148.7133999999999,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785581408,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "kor-gwo-bch-2026-08-01-bch",
+    "title": "Will Bucheon FC 1995 win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1171.78,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785581408,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "kor-gwo-bch-2026-08-01-bch",
+    "title": "Will Bucheon FC 1995 win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 3124.8,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785581416,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01-game1",
+    "title": "Counter-Strike: FaZe vs Spirit - Map 1 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1147.8103999999998,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785581416,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01-game1",
+    "title": "Counter-Strike: FaZe vs Spirit - Map 1 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1381.6814,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785581416,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01-game1",
+    "title": "Counter-Strike: FaZe vs Spirit - Map 1 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1147.8103999999998,
+    "odds_at_bet": 88,
+    "status": "pending"
   }
 ]
