@@ -50074,5 +50074,17 @@
     "usd": 1619.702,
     "odds_at_bet": 35,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785573517,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-miyoshi-kouzmin-2026-08-01",
+    "title": "Samsun: Kenta Miyoshi vs Constantin Bittoun Kouzmine",
+    "outcome": "Kenta Miyoshi",
+    "side": "BUY",
+    "usd": 4963.6188,
+    "odds_at_bet": 63,
+    "status": "pending"
   }
 ]
