@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 00:29:17 (hora de Perú)
+Actualizado: 2026-08-01 00:31:34 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | paquitomillonario | 0 | 0 | 6 | — |
 | Melody626 | 0 | 0 | 3 | — |
 | neurodivergentBet | 0 | 0 | 1 | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 5 | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 6 | — |
 | kluckkluck | 0 | 0 | 7 | — |
 | AnonymousUsername | 0 | 0 | 1 | — |
 | unbribeableref | 0 | 0 | 2 | — |

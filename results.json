@@ -47818,5 +47818,17 @@
     "usd": 2359.6235910000005,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785562159,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-faze-ts7-2026-08-01",
+    "title": "Counter-Strike: FaZe vs Spirit (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1038.2013000000002,
+    "odds_at_bet": 81,
+    "status": "pending"
   }
 ]
