@@ -40834,5 +40834,101 @@
     "usd": 8983.1118,
     "odds_at_bet": 78,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785545152,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "wta-eala-svitoli-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 1619.9919000000002,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785545170,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-zakharo-zarazua-2026-07-31",
+    "title": "The Memphis Classic: Anastasia Zakharova vs Renata Zarazua",
+    "outcome": "Renata Zarazua",
+    "side": "BUY",
+    "usd": 3221.84597,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785545180,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-friend-wolf-2026-07-31",
+    "title": "Vancouver: Jay Dylan Friend vs J.J. Wolf",
+    "outcome": "J.J. Wolf",
+    "side": "BUY",
+    "usd": 2331.0796,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785545180,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-friend-wolf-2026-07-31",
+    "title": "Vancouver: Jay Dylan Friend vs J.J. Wolf",
+    "outcome": "J.J. Wolf",
+    "side": "BUY",
+    "usd": 8752.760400000001,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785545225,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-eala-svitoli-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 2173.171,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785545246,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-eg2-mibr-2026-07-31-game1",
+    "title": "Valorant: Evil Geniuses vs MIBR - Map 1 Winner",
+    "outcome": "Evil Geniuses",
+    "side": "BUY",
+    "usd": 3137.2124000000003,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785545252,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-stl-tor-2026-07-31",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 5468.7153,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785545279,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "ecu1-lib-ore-2026-08-02-spread-away-2pt5",
+    "title": "Spread: Orense SC (-2.5)",
+    "outcome": "Libertad Loja",
+    "side": "BUY",
+    "usd": 1448.55,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
