@@ -77938,5 +77938,65 @@
     "usd": 2132.28,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785619033,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "atp-faria-oconnel-2026-08-01",
+    "title": "Canadian Open, Qualification: Jaime Faria vs Christopher O'Connell",
+    "outcome": "Christopher O'Connell",
+    "side": "BUY",
+    "usd": 4404.589,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619066,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-faria-oconnel-2026-08-01",
+    "title": "Canadian Open, Qualification: Jaime Faria vs Christopher O'Connell",
+    "outcome": "Christopher O'Connell",
+    "side": "BUY",
+    "usd": 9405.4,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619076,
+    "username": "fazewinline",
+    "wallet": "0x1d3567ad67b1f054160f9d560ca3817038cc94ee",
+    "slug": "lol-c9-dig-2026-08-01",
+    "title": "LoL: Cloud9 vs Dignitas (BO3) - LCS Regular Season",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 1999.999998,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619117,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-stl-tor-2026-08-01",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 5090.9929999999995,
+    "odds_at_bet": 95,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619123,
+    "username": "fazewinline",
+    "wallet": "0x1d3567ad67b1f054160f9d560ca3817038cc94ee",
+    "slug": "lol-c9-dig-2026-08-01",
+    "title": "LoL: Cloud9 vs Dignitas (BO3) - LCS Regular Season",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 1999.9999990000001,
+    "odds_at_bet": 68,
+    "status": "pending"
   }
 ]
