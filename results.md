@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 09:24:54 (hora de Perú)
+Actualizado: 2026-08-01 09:27:45 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -12,7 +12,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | paquitomillonario | 6 | 0 | 0 | ⚠️ 100% (muestra chica: 6) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | jtwyslljy | 2 | 0 | 3 | ⚠️ 100% (muestra chica: 2) |
-| meoooow | 1 | 0 | 12 | ⚠️ 100% (muestra chica: 1) |
+| meoooow | 1 | 0 | 13 | ⚠️ 100% (muestra chica: 1) |
 | esportGG | 5 | 0 | 14 | ⚠️ 100% (muestra chica: 5) |
 | ninasuskevic | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | Spicer | 18 | 0 | 12 | 100% |
