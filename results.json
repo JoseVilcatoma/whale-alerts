@@ -54406,5 +54406,41 @@
     "usd": 1319.9566,
     "odds_at_bet": 38,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785583153,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dk-2026-08-01-game1",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 2883.5730000000003,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785583165,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-cfc-tot-2026-08-01-tot",
+    "title": "Will Tottenham Hotspur win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1461.042,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785583205,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dk-2026-08-01-game1",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1000.0,
+    "odds_at_bet": 40,
+    "status": "pending"
   }
 ]
