@@ -53434,5 +53434,29 @@
     "usd": 1346.5199999999998,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785580977,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-gen-dk-2026-08-01",
+    "title": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 2857.125,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785580985,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-jdg-blg-2026-08-01-game-handicap-home-1pt5",
+    "title": "Game Handicap: BLG (-1.5) vs JD Gaming (+1.5)",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 1262.8110000000001,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]
