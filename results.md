@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 16:02:45 (hora de Perú)
+Actualizado: 2026-08-01 16:08:35 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -16,7 +16,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | surfandturf | 6 | 0 | 1 | ⚠️ 100% (muestra chica: 6) |
 | texaskid | 8 | 0 | 4 | 100% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 1 | 0 | 5 | ⚠️ 100% (muestra chica: 1) |
-| Djdjdjekekek | 109 | 13 | 16 | 89% |
+| Djdjdjekekek | 109 | 13 | 20 | 89% |
 | mooseborzoi | 15 | 2 | 38 | 88% |
 | Spicer | 26 | 4 | 0 | 87% |
 | cigarettes | 46 | 8 | 4 | 85% |
@@ -30,17 +30,17 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Fallout3 | 11 | 5 | 0 | 69% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 3 | 1 | 67% |
 | one8tyfive | 14 | 7 | 10 | 67% |
-| RN1 | 771 | 393 | 132 | 66% |
+| RN1 | 771 | 393 | 133 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 22 | 66% |
-| esportGG | 16 | 10 | 14 | 62% |
-| GoalLineGhost | 21 | 13 | 42 | 62% |
-| ferrariChampions2026 | 1051 | 688 | 257 | 60% |
+| esportGG | 16 | 10 | 18 | 62% |
+| GoalLineGhost | 21 | 13 | 43 | 62% |
+| ferrariChampions2026 | 1051 | 688 | 272 | 60% |
 | sbsigner | 26 | 17 | 4 | 60% |
 | fRibrenlc | 3 | 2 | 4 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
-| HomeRunHazard | 73 | 50 | 98 | 59% |
+| HomeRunHazard | 73 | 50 | 103 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 11 | 8 | 6 | 58% |
-| wr0ngw4yb3tt0r | 80 | 67 | 29 | 54% |
+| wr0ngw4yb3tt0r | 80 | 67 | 30 | 54% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
 | jtwyslljy | 4 | 4 | 2 | 50% |
@@ -77,4 +77,5 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | THEdirkdiggler | 0 | 0 | 2 | — |
 | matenghehe | 0 | 0 | 8 | — |
 | StasPanda | 0 | 0 | 3 | — |
-| Flipadelphia | 0 | 0 | 5 | — |
+| Flipadelphia | 0 | 0 | 6 | — |
+| BirdMan. | 0 | 0 | 1 | — |
