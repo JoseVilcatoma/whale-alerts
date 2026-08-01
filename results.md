@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 12:31:37 (hora de Perú)
+Actualizado: 2026-08-01 12:34:06 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -19,16 +19,16 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 93 | 11 | 19 | 89% |
 | cigarettes | 38 | 5 | 14 | 88% |
 | mooseborzoi | 15 | 2 | 9 | 88% |
-| swisstony | 482 | 100 | 82 | 83% |
+| swisstony | 482 | 100 | 83 | 83% |
 | humkyakare | 7 | 3 | 6 | 70% |
-| RN1 | 715 | 357 | 140 | 67% |
+| RN1 | 715 | 357 | 141 | 67% |
 | flatbarrel | 2 | 1 | 1 | ⚠️ 67% (muestra chica: 3) |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 118 | 63% |
-| ferrariChampions2026 | 844 | 552 | 401 | 60% |
+| ferrariChampions2026 | 844 | 552 | 404 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 13 | 59% |
-| HomeRunHazard | 52 | 43 | 52 | 55% |
+| HomeRunHazard | 52 | 43 | 53 | 55% |
 | wr0ngw4yb3tt0r | 67 | 65 | 27 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
@@ -36,19 +36,19 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 1winstreak1 | 26 | 28 | 0 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | pleaseplease123 | 21 | 28 | 4 | 43% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 26 | 35 | 27 | 43% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 26 | 35 | 28 | 43% |
 | GoalLineGhost | 4 | 6 | 56 | 40% |
 | monkeymashingkeyboard | 7 | 12 | 9 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 0 | 34% |
 | one8tyfive | 2 | 6 | 13 | 25% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 3 | 10 | 17 | 23% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
-| PASSTHEMONEY | 1 | 16 | 33 | 6% |
+| PASSTHEMONEY | 1 | 16 | 34 | 6% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 0 | 6% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | cruzNBA | 0 | 2 | 2 | ⚠️ 0% (muestra chica: 2) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
-| CentralCasting | 0 | 0 | 15 | — |
+| CentralCasting | 0 | 0 | 17 | — |
 | balthazar | 0 | 0 | 17 | — |
 | Bigggggggg | 0 | 0 | 11 | — |
 | Melody626 | 0 | 0 | 6 | — |
@@ -69,9 +69,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Pwaddler | 0 | 0 | 5 | — |
 | plonker2026 | 0 | 0 | 3 | — |
 | surfandturf | 0 | 0 | 4 | — |
-| texaskid | 0 | 0 | 9 | — |
+| texaskid | 0 | 0 | 10 | — |
 | Fallout3 | 0 | 0 | 14 | — |
 | Winnerdinnerchickenjr | 0 | 0 | 1 | — |
-| THEdirkdiggler | 0 | 0 | 1 | — |
+| THEdirkdiggler | 0 | 0 | 2 | — |
 | matenghehe | 0 | 0 | 8 | — |
 | AV23IUa | 0 | 0 | 1 | — |
