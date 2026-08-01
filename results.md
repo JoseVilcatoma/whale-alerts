@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 10:08:09 (hora de Perú)
+Actualizado: 2026-08-01 10:11:23 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -13,18 +13,18 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | jtwyslljy | 2 | 0 | 3 | ⚠️ 100% (muestra chica: 2) |
 | meoooow | 1 | 0 | 15 | ⚠️ 100% (muestra chica: 1) |
-| esportGG | 5 | 0 | 15 | ⚠️ 100% (muestra chica: 5) |
+| esportGG | 5 | 0 | 19 | ⚠️ 100% (muestra chica: 5) |
 | ninasuskevic | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | Spicer | 18 | 0 | 12 | 100% |
-| Djdjdjekekek | 93 | 11 | 10 | 89% |
+| Djdjdjekekek | 93 | 11 | 17 | 89% |
 | cigarettes | 38 | 5 | 4 | 88% |
 | mooseborzoi | 15 | 2 | 5 | 88% |
 | swisstony | 482 | 100 | 70 | 83% |
 | humkyakare | 7 | 3 | 3 | 70% |
 | RN1 | 715 | 357 | 73 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 106 | 63% |
-| ferrariChampions2026 | 844 | 552 | 240 | 60% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 107 | 63% |
+| ferrariChampions2026 | 844 | 552 | 250 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 9 | 59% |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 1winstreak1 | 26 | 28 | 0 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | pleaseplease123 | 21 | 28 | 2 | 43% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 26 | 35 | 16 | 43% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 26 | 35 | 17 | 43% |
 | GoalLineGhost | 4 | 6 | 22 | 40% |
 | monkeymashingkeyboard | 7 | 12 | 9 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 0 | 34% |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | PASSTHEMONEY | 1 | 16 | 18 | 6% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 0 | 6% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
-| cruzNBA | 0 | 2 | 1 | ⚠️ 0% (muestra chica: 2) |
+| cruzNBA | 0 | 2 | 2 | ⚠️ 0% (muestra chica: 2) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | CentralCasting | 0 | 0 | 3 | — |
 | balthazar | 0 | 0 | 17 | — |
@@ -60,10 +60,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | us391 | 0 | 0 | 12 | — |
 | VeryLucky888 | 0 | 0 | 26 | — |
 | baws | 0 | 0 | 1 | — |
-| fkgggg2mouzfuria | 0 | 0 | 25 | — |
+| fkgggg2mouzfuria | 0 | 0 | 26 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 10 | — |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 0 | 0 | 1 | — |
-| VPenguin | 0 | 0 | 11 | — |
+| VPenguin | 0 | 0 | 13 | — |
 | SDTrading | 0 | 0 | 1 | — |
 | fazewinline | 0 | 0 | 5 | — |
 | Pwaddler | 0 | 0 | 4 | — |
