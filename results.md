@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 00:49:04 (hora de Perú)
+Actualizado: 2026-08-01 00:53:49 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -10,8 +10,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Talvez10 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | Djdjdjekekek | 93 | 10 | 2 | 90% |
 | cigarettes | 37 | 5 | 0 | 88% |
-| swisstony | 413 | 80 | 107 | 84% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 1 | 41 | ⚠️ 75% (muestra chica: 4) |
+| swisstony | 413 | 80 | 108 | 84% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 1 | 42 | ⚠️ 75% (muestra chica: 4) |
 | mooseborzoi | 5 | 2 | 10 | ⚠️ 71% (muestra chica: 7) |
 | RN1 | 588 | 270 | 134 | 69% |
 | HomeRunHazard | 9 | 5 | 67 | 64% |
@@ -46,6 +46,6 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | kluckkluck | 0 | 0 | 7 | — |
 | AnonymousUsername | 0 | 0 | 1 | — |
 | unbribeableref | 0 | 0 | 2 | — |
-| IamFKINGbankrupt | 0 | 0 | 1 | — |
+| IamFKINGbankrupt | 0 | 0 | 3 | — |
 | jtwyslljy | 0 | 0 | 3 | — |
 | humkyakare | 0 | 0 | 2 | — |
