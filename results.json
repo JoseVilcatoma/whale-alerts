@@ -48898,5 +48898,41 @@
     "usd": 1660.0,
     "odds_at_bet": 83,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785568272,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "lol-gx-sk-2026-08-01",
+    "title": "LoL: GIANTX vs SK Gaming (BO3) - LEC Regular Season",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "usd": 1619.8400000000001,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785568288,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 7162.2,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785568332,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-midas3-tr7-2026-08-01-game2",
+    "title": "Dota 2: Midas Club vs Team Resilience - Game 2 Winner",
+    "outcome": "Midas Club",
+    "side": "BUY",
+    "usd": 1062.0,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
