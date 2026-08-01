@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 10:01:56 (hora de Perú)
+Actualizado: 2026-08-01 10:05:01 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -16,7 +16,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | esportGG | 5 | 0 | 14 | ⚠️ 100% (muestra chica: 5) |
 | ninasuskevic | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | Spicer | 18 | 0 | 12 | 100% |
-| Djdjdjekekek | 93 | 11 | 8 | 89% |
+| Djdjdjekekek | 93 | 11 | 9 | 89% |
 | cigarettes | 38 | 5 | 4 | 88% |
 | mooseborzoi | 15 | 2 | 5 | 88% |
 | swisstony | 482 | 100 | 70 | 83% |
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RN1 | 715 | 357 | 64 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 104 | 63% |
-| ferrariChampions2026 | 844 | 552 | 234 | 60% |
+| ferrariChampions2026 | 844 | 552 | 235 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 9 | 59% |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 1winstreak1 | 26 | 28 | 0 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | pleaseplease123 | 21 | 28 | 2 | 43% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 26 | 35 | 14 | 43% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 26 | 35 | 15 | 43% |
 | GoalLineGhost | 4 | 6 | 22 | 40% |
 | monkeymashingkeyboard | 7 | 12 | 9 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 0 | 34% |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Melody626 | 0 | 0 | 6 | — |
 | neurodivergentBet | 0 | 0 | 4 | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 9 | — |
-| AnonymousUsername | 0 | 0 | 4 | — |
+| AnonymousUsername | 0 | 0 | 6 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | ToeTickler98 | 0 | 0 | 5 | — |
 | us391 | 0 | 0 | 11 | — |
@@ -66,3 +66,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VPenguin | 0 | 0 | 10 | — |
 | SDTrading | 0 | 0 | 1 | — |
 | fazewinline | 0 | 0 | 5 | — |
+| Pwaddler | 0 | 0 | 2 | — |
