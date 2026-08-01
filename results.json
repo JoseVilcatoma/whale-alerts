@@ -60598,5 +60598,53 @@
     "usd": 1895.40909,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785593264,
+    "username": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+    "wallet": "0x1b20a00709dfe648afd26b326394b5e031f83ab0",
+    "slug": "ufc-ale19-jov-2026-08-01",
+    "title": "UFC Fight Night: Alexander Poppeck vs. Jovan Leka (Heavyweight, Prelims)",
+    "outcome": "Alexander Poppeck",
+    "side": "BUY",
+    "usd": 11811.284800000001,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785593265,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-ale19-jov-2026-08-01",
+    "title": "UFC Fight Night: Alexander Poppeck vs. Jovan Leka (Heavyweight, Prelims)",
+    "outcome": "Jovan Leka",
+    "side": "BUY",
+    "usd": 14453.5752,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785593265,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-ale19-jov-2026-08-01",
+    "title": "UFC Fight Night: Alexander Poppeck vs. Jovan Leka (Heavyweight, Prelims)",
+    "outcome": "Jovan Leka",
+    "side": "BUY",
+    "usd": 14866.5312,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785593269,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "ufc-ale19-jov-2026-08-01",
+    "title": "UFC Fight Night: Alexander Poppeck vs. Jovan Leka (Heavyweight, Prelims)",
+    "outcome": "Jovan Leka",
+    "side": "BUY",
+    "usd": 1440.0,
+    "odds_at_bet": 72,
+    "status": "pending"
   }
 ]
