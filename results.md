@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 05:31:31 (hora de Perú)
+Actualizado: 2026-08-01 05:33:35 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | unbribeableref | 0 | 0 | 3 | — |
 | ToeTickler98 | 0 | 0 | 5 | — |
 | us391 | 0 | 0 | 4 | — |
-| meoooow | 0 | 0 | 3 | — |
+| meoooow | 0 | 0 | 4 | — |
 | esportGG | 0 | 0 | 10 | — |
 | VeryLucky888 | 0 | 0 | 5 | — |
 | baws | 0 | 0 | 1 | — |

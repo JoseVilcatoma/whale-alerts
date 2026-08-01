@@ -53242,5 +53242,17 @@
     "usd": 1950.1583999999998,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785580408,
+    "username": "meoooow",
+    "wallet": "0xd202bf6d89dc6bab1b9f00ead175f75466348973",
+    "slug": "cs2-faze-ts7-2026-08-01-game2",
+    "title": "Counter-Strike: FaZe vs Spirit - Map 2 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 5718.951,
+    "odds_at_bet": 70,
+    "status": "pending"
   }
 ]
