@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 22:44:36 (hora de Perú)
+Actualizado: 2026-07-31 22:46:38 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -10,11 +10,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Talvez10 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | Djdjdjekekek | 93 | 10 | 2 | 90% |
 | cigarettes | 37 | 5 | 0 | 88% |
-| swisstony | 413 | 80 | 77 | 84% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
+| swisstony | 413 | 80 | 80 | 84% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 1 | 24 | ⚠️ 75% (muestra chica: 4) |
 | mooseborzoi | 5 | 2 | 10 | ⚠️ 71% (muestra chica: 7) |
 | RN1 | 588 | 270 | 98 | 69% |
-| HomeRunHazard | 9 | 5 | 46 | 64% |
+| HomeRunHazard | 9 | 5 | 47 | 64% |
 | ferrariChampions2026 | 707 | 461 | 70 | 61% |
 | UpTheBlues | 36 | 25 | 24 | 59% |
 | sbsigner | 19 | 13 | 2 | 59% |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | CentralCasting | 0 | 0 | 1 | — |
 | balthazar | 0 | 0 | 17 | — |
 | Bigggggggg | 0 | 0 | 9 | — |
-| flatbarrel | 0 | 0 | 1 | — |
+| flatbarrel | 0 | 0 | 2 | — |
 | cruzNBA | 0 | 0 | 1 | — |
 | QuietRiskisWrong | 0 | 0 | 5 | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 16 | — |
