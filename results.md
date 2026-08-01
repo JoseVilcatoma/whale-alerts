@@ -1,13 +1,13 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 17:31:25 (hora de Perú)
+Actualizado: 2026-08-01 17:33:45 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
 | Sparkling8899 | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| QuietRiskisWrong | 2 | 0 | 3 | ⚠️ 100% (muestra chica: 2) |
+| QuietRiskisWrong | 2 | 0 | 4 | ⚠️ 100% (muestra chica: 2) |
 | paquitomillonario | 6 | 0 | 4 | ⚠️ 100% (muestra chica: 6) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | ninasuskevic | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
@@ -17,7 +17,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | texaskid | 8 | 0 | 7 | 100% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 1 | 0 | 5 | ⚠️ 100% (muestra chica: 1) |
 | Djdjdjekekek | 109 | 13 | 26 | 89% |
-| mooseborzoi | 15 | 2 | 44 | 88% |
+| mooseborzoi | 15 | 2 | 45 | 88% |
 | Spicer | 26 | 4 | 0 | 87% |
 | cigarettes | 46 | 8 | 5 | 85% |
 | swisstony | 502 | 108 | 92 | 82% |
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | one8tyfive | 14 | 7 | 13 | 67% |
 | RN1 | 771 | 393 | 169 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 27 | 66% |
-| esportGG | 16 | 10 | 20 | 62% |
+| esportGG | 16 | 10 | 21 | 62% |
 | GoalLineGhost | 21 | 13 | 43 | 62% |
 | ferrariChampions2026 | 1051 | 688 | 329 | 60% |
 | sbsigner | 26 | 17 | 4 | 60% |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | PASSTHEMONEY | 5 | 33 | 23 | 13% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 9 | 13 | 10% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 13 | 6% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 14 | 6% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | cruzNBA | 0 | 4 | 10 | ⚠️ 0% (muestra chica: 4) |
 | neurodivergentBet | 0 | 1 | 3 | ⚠️ 0% (muestra chica: 1) |

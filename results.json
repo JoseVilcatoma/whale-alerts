@@ -79930,5 +79930,53 @@
     "usd": 2000.0,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785623521,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "val-nv2-fur-2026-08-01-game2",
+    "title": "Valorant: Team Envy vs FURIA Esports - Map 2 Winner",
+    "outcome": "Team Envy",
+    "side": "BUY",
+    "usd": 14610.757199999998,
+    "odds_at_bet": 33,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785623524,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-pit-cin-2026-08-01",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 1127.8400000000001,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785623547,
+    "username": "QuietRiskisWrong",
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "slug": "israel-x-iran-ceasefire-continues-through-august-2-20260727170555149",
+    "title": "Israel x Iran ceasefire continues through August 2?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 10659.999999000001,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785623611,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "mlb-tex-hou-2026-08-01-total-7pt5",
+    "title": "Texas Rangers vs. Houston Astros: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2041.0992000000003,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
