@@ -1,13 +1,13 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 08:53:03 (hora de Perú)
+Actualizado: 2026-08-01 08:55:50 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
 | Sparkling8899 | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| Talvez10 | 1 | 0 | 10 | ⚠️ 100% (muestra chica: 1) |
+| Talvez10 | 1 | 0 | 12 | ⚠️ 100% (muestra chica: 1) |
 | QuietRiskisWrong | 2 | 0 | 3 | ⚠️ 100% (muestra chica: 2) |
 | paquitomillonario | 6 | 0 | 0 | ⚠️ 100% (muestra chica: 6) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 9 | 59% |
 | humkyakare | 4 | 3 | 6 | ⚠️ 57% (muestra chica: 7) |
-| HomeRunHazard | 52 | 43 | 15 | 55% |
+| HomeRunHazard | 52 | 43 | 16 | 55% |
 | wr0ngw4yb3tt0r | 67 | 65 | 9 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
@@ -57,10 +57,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | AnonymousUsername | 0 | 0 | 3 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | ToeTickler98 | 0 | 0 | 5 | — |
-| us391 | 0 | 0 | 8 | — |
+| us391 | 0 | 0 | 9 | — |
 | VeryLucky888 | 0 | 0 | 19 | — |
 | baws | 0 | 0 | 1 | — |
 | fkgggg2mouzfuria | 0 | 0 | 23 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 10 | — |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 0 | 0 | 1 | — |
-| VPenguin | 0 | 0 | 4 | — |
+| VPenguin | 0 | 0 | 5 | — |

@@ -60262,5 +60262,65 @@
     "usd": 2651.846923,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785592383,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "mex-atl-mon1-2026-08-01-total-2pt5",
+    "title": "Atlas FC vs. CF Monterrey: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1412.7051000000001,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785592417,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-ste33-mspasi-2026-08-01",
+    "title": "UFC Fight Night: Stephanie Luciano vs. Marina Spasic (Women's Strawweight, Prelims)",
+    "outcome": "Stephanie Luciano",
+    "side": "BUY",
+    "usd": 46784.7792,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785592417,
+    "username": "VPenguin",
+    "wallet": "0xfbf3d501e88815464642d0e913f15379c3eeb218",
+    "slug": "ufc-ste33-mspasi-2026-08-01",
+    "title": "UFC Fight Night: Stephanie Luciano vs. Marina Spasic (Women's Strawweight, Prelims)",
+    "outcome": "Marina Spasic",
+    "side": "BUY",
+    "usd": 4800.0,
+    "odds_at_bet": 24,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785592460,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-nyy-chc-2026-08-01",
+    "title": "New York Yankees vs. Chicago Cubs",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 2404.0330999999996,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785592491,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-ste33-mspasi-2026-08-01",
+    "title": "UFC Fight Night: Stephanie Luciano vs. Marina Spasic (Women's Strawweight, Prelims)",
+    "outcome": "Stephanie Luciano",
+    "side": "BUY",
+    "usd": 1815.6324,
+    "odds_at_bet": 76,
+    "status": "pending"
   }
 ]
