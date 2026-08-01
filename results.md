@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 18:13:56 (hora de Perú)
+Actualizado: 2026-08-01 18:16:42 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -28,24 +28,24 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fkgggg2mouzfuria | 18 | 7 | 19 | 72% |
 | CentralCasting | 14 | 6 | 4 | 70% |
 | Fallout3 | 11 | 5 | 0 | 69% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 3 | 3 | 67% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 3 | 4 | 67% |
 | one8tyfive | 14 | 7 | 19 | 67% |
-| RN1 | 771 | 393 | 204 | 66% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 35 | 66% |
+| RN1 | 771 | 393 | 205 | 66% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 39 | 66% |
 | esportGG | 16 | 10 | 21 | 62% |
-| GoalLineGhost | 21 | 13 | 58 | 62% |
-| ferrariChampions2026 | 1051 | 688 | 382 | 60% |
+| GoalLineGhost | 21 | 13 | 59 | 62% |
+| ferrariChampions2026 | 1051 | 688 | 385 | 60% |
 | sbsigner | 26 | 17 | 6 | 60% |
 | fRibrenlc | 3 | 2 | 6 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 24 | 59% |
-| HomeRunHazard | 73 | 50 | 139 | 59% |
+| HomeRunHazard | 73 | 50 | 140 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 11 | 8 | 13 | 58% |
-| wr0ngw4yb3tt0r | 80 | 67 | 44 | 54% |
+| wr0ngw4yb3tt0r | 80 | 67 | 46 | 54% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
 | jtwyslljy | 4 | 4 | 2 | 50% |
 | 1winstreak1 | 26 | 28 | 7 | 48% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 41 | 45 | 40 | 48% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 41 | 45 | 42 | 48% |
 | meoooow | 10 | 11 | 0 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | pleaseplease123 | 21 | 28 | 24 | 43% |
@@ -77,6 +77,6 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | THEdirkdiggler | 0 | 0 | 3 | — |
 | matenghehe | 0 | 0 | 8 | — |
 | StasPanda | 0 | 0 | 4 | — |
-| Flipadelphia | 0 | 0 | 9 | — |
+| Flipadelphia | 0 | 0 | 10 | — |
 | BirdMan. | 0 | 0 | 1 | — |
 | LeatherPants | 0 | 0 | 1 | — |
