@@ -67726,5 +67726,65 @@
     "usd": 1760.8908799999997,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785603353,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-flc-og-2026-08-01-game1",
+    "title": "Dota 2: Team Falcons vs OG - Game 1 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 3384.3204,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785603400,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-gx-sk-2026-08-01-game2",
+    "title": "LoL: GIANTX vs SK Gaming - Game 2 Winner",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "usd": 3570.1051199999997,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785603416,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-gx-sk-2026-08-01-game2",
+    "title": "LoL: GIANTX vs SK Gaming - Game 2 Winner",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "usd": 3525.998,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785603425,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "atp-fearnle-ofner-2026-08-01",
+    "title": "Canadian Open, Qualification: Jacob Fearnley vs Sebastian Ofner",
+    "outcome": "Jacob Fearnley",
+    "side": "BUY",
+    "usd": 1085.0,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785603433,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-l1ga-lgd-2026-08-01",
+    "title": "Dota 2: L1ga Team vs LGD Gaming (BO3) - Games of the Future Group D",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1053.76133,
+    "odds_at_bet": 77,
+    "status": "pending"
   }
 ]
