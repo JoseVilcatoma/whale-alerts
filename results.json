@@ -61678,5 +61678,41 @@
     "usd": 5210.59,
     "odds_at_bet": 67,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785595663,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-hai-nmilos-2026-08-01",
+    "title": "UFC Fight Night: Hailey Cowan vs. Nina Milo\u0161evic (Women's Bantamweight, Prelims)",
+    "outcome": "Hailey Cowan",
+    "side": "BUY",
+    "usd": 1312.116,
+    "odds_at_bet": 15,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595702,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-trungel-mejia-2026-08-01",
+    "title": "Canadian Open, Qualification: Marco Trungelliti vs Nicolas Mejia",
+    "outcome": "Marco Trungelliti",
+    "side": "BUY",
+    "usd": 2838.0299999999997,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595784,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-hai-nmilos-2026-08-01",
+    "title": "UFC Fight Night: Hailey Cowan vs. Nina Milo\u0161evic (Women's Bantamweight, Prelims)",
+    "outcome": "Hailey Cowan",
+    "side": "BUY",
+    "usd": 1407.0,
+    "odds_at_bet": 25,
+    "status": "pending"
   }
 ]
