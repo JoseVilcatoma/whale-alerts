@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 16:59:38 (hora de Perú)
+Actualizado: 2026-08-01 17:01:53 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -76,7 +76,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | plonker2026 | 0 | 0 | 3 | — |
 | THEdirkdiggler | 0 | 0 | 3 | — |
 | matenghehe | 0 | 0 | 8 | — |
-| StasPanda | 0 | 0 | 3 | — |
+| StasPanda | 0 | 0 | 4 | — |
 | Flipadelphia | 0 | 0 | 8 | — |
 | BirdMan. | 0 | 0 | 1 | — |
 | LeatherPants | 0 | 0 | 1 | — |
