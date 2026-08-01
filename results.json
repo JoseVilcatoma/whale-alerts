@@ -48814,5 +48814,17 @@
     "usd": 3017.8224,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785567481,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-rma-fio-2026-08-01-rma",
+    "title": "Will Real Madrid win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1276.0,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]
