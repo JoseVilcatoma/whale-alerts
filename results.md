@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 13:25:18 (hora de Perú)
+Actualizado: 2026-08-01 13:28:25 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -14,7 +14,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | surfandturf | 4 | 0 | 2 | ⚠️ 100% (muestra chica: 4) |
 | texaskid | 8 | 0 | 3 | 100% |
-| mooseborzoi | 15 | 2 | 10 | 88% |
+| mooseborzoi | 15 | 2 | 15 | 88% |
 | Djdjdjekekek | 100 | 13 | 10 | 88% |
 | cigarettes | 46 | 7 | 4 | 87% |
 | Spicer | 24 | 4 | 2 | 86% |
@@ -29,10 +29,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 271 | 133 | 15 | 67% |
 | Talvez10 | 11 | 6 | 27 | 65% |
 | sbsigner | 26 | 16 | 5 | 62% |
-| ferrariChampions2026 | 979 | 646 | 199 | 60% |
+| ferrariChampions2026 | 979 | 646 | 202 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
-| HomeRunHazard | 65 | 46 | 44 | 59% |
+| HomeRunHazard | 65 | 46 | 45 | 59% |
 | one8tyfive | 10 | 7 | 5 | 59% |
 | GoalLineGhost | 18 | 13 | 40 | 58% |
 | esportGG | 10 | 8 | 15 | 56% |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
 | fkgggg2mouzfuria | 4 | 4 | 34 | 50% |
-| 1winstreak1 | 26 | 28 | 1 | 48% |
+| 1winstreak1 | 26 | 28 | 2 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | pleaseplease123 | 21 | 28 | 8 | 43% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 30 | 39 | 24 | 43% |
