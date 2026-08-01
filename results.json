@@ -47014,5 +47014,77 @@
     "usd": 8955.27,
     "odds_at_bet": 90,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785557851,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-wong-gea-2026-08-01",
+    "title": "Los Cabos Open: Coleman Wong vs Arthur Gea",
+    "outcome": "Coleman Wong",
+    "side": "BUY",
+    "usd": 1639.4,
+    "odds_at_bet": 14,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785557851,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-wong-gea-2026-08-01",
+    "title": "Los Cabos Open: Coleman Wong vs Arthur Gea",
+    "outcome": "Arthur Gea",
+    "side": "BUY",
+    "usd": 9904.4308,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785557852,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-wong-gea-2026-08-01",
+    "title": "Los Cabos Open: Coleman Wong vs Arthur Gea",
+    "outcome": "Arthur Gea",
+    "side": "BUY",
+    "usd": 8075.0,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785557852,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-wong-gea-2026-08-01",
+    "title": "Los Cabos Open: Coleman Wong vs Arthur Gea",
+    "outcome": "Coleman Wong",
+    "side": "BUY",
+    "usd": 1425.0,
+    "odds_at_bet": 15,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785557856,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-mil-laa-2026-07-31-total-9pt5",
+    "title": "Milwaukee Brewers vs. Los Angeles Angels: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1056.0,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785557857,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-bos-lad-2026-07-31",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 2968.6308000000004,
+    "odds_at_bet": 24,
+    "status": "pending"
   }
 ]
