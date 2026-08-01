@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 05:00:10 (hora de Perú)
+Actualizado: 2026-08-01 05:02:19 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -18,13 +18,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 37 | 5 | 1 | 88% |
 | mooseborzoi | 15 | 2 | 1 | 88% |
 | swisstony | 479 | 98 | 42 | 83% |
-| RN1 | 676 | 328 | 52 | 67% |
+| RN1 | 676 | 328 | 53 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
-| ferrariChampions2026 | 760 | 512 | 94 | 60% |
+| ferrariChampions2026 | 760 | 512 | 98 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 5 | 59% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 106 | 25 | 58% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 106 | 28 | 58% |
 | HomeRunHazard | 46 | 37 | 8 | 55% |
 | wr0ngw4yb3tt0r | 67 | 65 | 7 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -55,7 +55,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 0 | 0 | 4 | — |
 | us391 | 0 | 0 | 4 | — |
 | meoooow | 0 | 0 | 3 | — |
-| esportGG | 0 | 0 | 8 | — |
+| esportGG | 0 | 0 | 9 | — |
 | VeryLucky888 | 0 | 0 | 2 | — |
 | baws | 0 | 0 | 1 | — |
 | Spicer | 0 | 0 | 16 | — |
+| GoalLineGhost | 0 | 0 | 2 | — |
