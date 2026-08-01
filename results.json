@@ -79414,5 +79414,101 @@
     "usd": 1309.2288,
     "odds_at_bet": 88,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785622387,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col1-inm-adc-2026-08-01-spread-home-1pt5",
+    "title": "Spread: Independiente Medell\u00edn (-1.5)",
+    "outcome": "AD Cali",
+    "side": "BUY",
+    "usd": 2503.8,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785622389,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col1-inm-adc-2026-08-01-inm",
+    "title": "Will Independiente Medell\u00edn win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1186.5370000000003,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785622447,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "brco-vas-flu-2026-08-01-total-0pt5",
+    "title": "CR Vasco da Gama vs. Fluminense FC: O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1329.999,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785622465,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "atp-svrcina-droguet-2026-08-01",
+    "title": "Canadian Open, Qualification: Dalibor Svrcina vs Titouan Droguet",
+    "outcome": "Titouan Droguet",
+    "side": "SELL",
+    "usd": 9325.2211,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785622465,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-svrcina-droguet-2026-08-01",
+    "title": "Canadian Open, Qualification: Dalibor Svrcina vs Titouan Droguet",
+    "outcome": "Titouan Droguet",
+    "side": "BUY",
+    "usd": 2450.0,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785622465,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-svrcina-droguet-2026-08-01",
+    "title": "Canadian Open, Qualification: Dalibor Svrcina vs Titouan Droguet",
+    "outcome": "Titouan Droguet",
+    "side": "BUY",
+    "usd": 2532.81,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785622465,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-svrcina-droguet-2026-08-01",
+    "title": "Canadian Open, Qualification: Dalibor Svrcina vs Titouan Droguet",
+    "outcome": "Titouan Droguet",
+    "side": "BUY",
+    "usd": 2985.696,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785622470,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-bel-aaj-2026-08-01-total-1pt5",
+    "title": "CA Belgrano vs. AA Argentinos Juniors: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 3308.139998,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]
