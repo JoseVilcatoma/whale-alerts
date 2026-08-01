@@ -65722,5 +65722,17 @@
     "usd": 3943.6173000000003,
     "odds_at_bet": 27,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785600844,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gx-sk-2026-08-01-game2",
+    "title": "LoL: GIANTX vs SK Gaming - Game 2 Winner",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "usd": 1988.372093,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
