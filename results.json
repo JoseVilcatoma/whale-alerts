@@ -53086,5 +53086,53 @@
     "usd": 5699.3949,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785579994,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-miyoshi-kouzmin-2026-08-01",
+    "title": "Samsun: Kenta Miyoshi vs Constantin Bittoun Kouzmine",
+    "outcome": "Constantin Bittoun Kouzmine",
+    "side": "BUY",
+    "usd": 1551.4531000000002,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785580016,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "kor-gwo-bch-2026-08-01-gwo",
+    "title": "Will Gangwon FC win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2655.0,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785580016,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "kor-gwo-bch-2026-08-01-gwo",
+    "title": "Will Gangwon FC win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1800.0,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785580023,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "kor-poh-san-2026-08-01-poh",
+    "title": "Will Pohang Steelers FC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2835.0,
+    "odds_at_bet": 63,
+    "status": "pending"
   }
 ]
