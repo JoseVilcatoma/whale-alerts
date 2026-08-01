@@ -49534,5 +49534,29 @@
     "usd": 1820.0,
     "odds_at_bet": 91,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785569810,
+    "username": "humkyakare",
+    "wallet": "0x32d21c404498db353bd2bc47b5a35e7256908850",
+    "slug": "dota2-midas3-tr7-2026-08-01-game2",
+    "title": "Dota 2: Midas Club vs Team Resilience - Game 2 Winner",
+    "outcome": "Team Resilience",
+    "side": "SELL",
+    "usd": 3557.89854,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785569850,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-biryuko-zhalga-2026-08-01",
+    "title": "ITF Astana: Petr Bar Biryukov vs Damir Zhalgasbay",
+    "outcome": "Petr Bar Biryukov",
+    "side": "BUY",
+    "usd": 1705.2631569999999,
+    "odds_at_bet": 81,
+    "status": "pending"
   }
 ]
