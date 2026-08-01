@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 06:20:36 (hora de Perú)
+Actualizado: 2026-08-01 06:22:40 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -59,4 +59,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 0 | 0 | 6 | — |
 | baws | 0 | 0 | 1 | — |
 | Spicer | 0 | 0 | 17 | — |
-| GoalLineGhost | 0 | 0 | 9 | — |
+| GoalLineGhost | 0 | 0 | 10 | — |

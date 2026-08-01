@@ -54442,5 +54442,17 @@
     "usd": 1000.0,
     "odds_at_bet": 40,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785583245,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-cfc-tot-2026-08-01-total-4pt5",
+    "title": "Chelsea FC vs. Tottenham Hotspur: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1256.86,
+    "odds_at_bet": 98,
+    "status": "pending"
   }
 ]
