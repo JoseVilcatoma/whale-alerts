@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 06:45:54 (hora de Perú)
+Actualizado: 2026-08-01 06:48:13 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -11,20 +11,20 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | QuietRiskisWrong | 2 | 0 | 3 | ⚠️ 100% (muestra chica: 2) |
 | paquitomillonario | 6 | 0 | 0 | ⚠️ 100% (muestra chica: 6) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
-| jtwyslljy | 1 | 0 | 2 | ⚠️ 100% (muestra chica: 1) |
+| jtwyslljy | 1 | 0 | 3 | ⚠️ 100% (muestra chica: 1) |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 3 | 0 | 5 | ⚠️ 100% (muestra chica: 3) |
 | ninasuskevic | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | Djdjdjekekek | 93 | 11 | 1 | 89% |
 | cigarettes | 37 | 5 | 1 | 88% |
 | mooseborzoi | 15 | 2 | 2 | 88% |
 | swisstony | 479 | 98 | 53 | 83% |
-| RN1 | 676 | 328 | 74 | 67% |
+| RN1 | 676 | 328 | 75 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
-| ferrariChampions2026 | 760 | 512 | 190 | 60% |
+| ferrariChampions2026 | 760 | 512 | 191 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 5 | 59% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 106 | 82 | 58% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 106 | 83 | 58% |
 | HomeRunHazard | 46 | 37 | 11 | 55% |
 | wr0ngw4yb3tt0r | 67 | 65 | 7 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -59,5 +59,5 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 0 | 0 | 8 | — |
 | baws | 0 | 0 | 1 | — |
 | Spicer | 0 | 0 | 22 | — |
-| GoalLineGhost | 0 | 0 | 13 | — |
+| GoalLineGhost | 0 | 0 | 15 | — |
 | fkgggg2mouzfuria | 0 | 0 | 5 | — |
