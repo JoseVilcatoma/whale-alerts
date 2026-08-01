@@ -85030,5 +85030,101 @@
     "usd": 1787.5674000000001,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785628308,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mls-stl-rsl-2026-08-01-stl",
+    "title": "Will St. Louis City SC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1750.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785628308,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-stl-rsl-2026-08-01-stl",
+    "title": "Will St. Louis City SC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1151.68,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785628308,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mls-stl-rsl-2026-08-01-rsl",
+    "title": "Will Real Salt Lake win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2246.599998,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785628308,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mls-stl-rsl-2026-08-01-stl",
+    "title": "Will St. Louis City SC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1715.0,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785628308,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mls-stl-rsl-2026-08-01-stl",
+    "title": "Will St. Louis City SC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 12998.9993,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785628308,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mls-stl-rsl-2026-08-01-stl",
+    "title": "Will St. Louis City SC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25999.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785628308,
+    "username": "AnonymousUsername",
+    "wallet": "0x9703676286b93c2eca71ca96e8757104519a69c2",
+    "slug": "mls-stl-rsl-2026-08-01-stl",
+    "title": "Will St. Louis City SC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 4486.5,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785628309,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mls-stl-rsl-2026-08-01-stl",
+    "title": "Will St. Louis City SC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1134.939999,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]
