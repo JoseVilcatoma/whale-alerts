@@ -49942,5 +49942,29 @@
     "usd": 1142.8568,
     "odds_at_bet": 4,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785572503,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-ns-fox1-2026-08-01-game1",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 1 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 1564.2804999999998,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785572513,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-ns-fox1-2026-08-01-game1",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 1 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 1182.7271999999998,
+    "odds_at_bet": 24,
+    "status": "pending"
   }
 ]
