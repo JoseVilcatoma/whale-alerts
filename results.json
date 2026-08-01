@@ -84718,5 +84718,29 @@
     "usd": 3468.2828,
     "odds_at_bet": 38,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785627761,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-phi-atl-2026-08-01-phi",
+    "title": "Will Philadelphia Union win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1188.9988,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785627766,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-vwh-laf-2026-08-01-laf",
+    "title": "Will Los Angeles FC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1704.0408,
+    "odds_at_bet": 77,
+    "status": "pending"
   }
 ]
