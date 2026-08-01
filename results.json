@@ -79174,5 +79174,89 @@
     "usd": 3415.6846,
     "odds_at_bet": 66,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785621342,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col1-inm-adc-2026-08-01-inm",
+    "title": "Will Independiente Medell\u00edn win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2029.9,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785621350,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col1-inm-adc-2026-08-01-inm",
+    "title": "Will Independiente Medell\u00edn win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1900.8000000000002,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785621350,
+    "username": "Flipadelphia",
+    "wallet": "0x448861155279dbf833d041b963e3ac854599e319",
+    "slug": "col1-inm-adc-2026-08-01-inm",
+    "title": "Will Independiente Medell\u00edn win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1380.0,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785621377,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "mlb-kc-col-2026-08-01",
+    "title": "Kansas City Royals vs. Colorado Rockies",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "usd": 2442.2580000000003,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785621438,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-nyy-chc-2026-08-01-total-6pt5",
+    "title": "New York Yankees vs. Chicago Cubs: O/U 6.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 34831.8316,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785621438,
+    "username": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+    "wallet": "0x1b20a00709dfe648afd26b326394b5e031f83ab0",
+    "slug": "mlb-nyy-chc-2026-08-01-total-6pt5",
+    "title": "New York Yankees vs. Chicago Cubs: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 19437.8895,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785621439,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-c9-dig-2026-08-01",
+    "title": "LoL: Cloud9 vs Dignitas (BO3) - LCS Regular Season",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 1208.7277490000001,
+    "odds_at_bet": 78,
+    "status": "pending"
   }
 ]
