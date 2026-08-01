@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 22:17:26 (hora de Perú)
+Actualizado: 2026-07-31 22:21:04 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -11,10 +11,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 35 | 5 | 2 | 88% |
 | swisstony | 370 | 66 | 118 | 85% |
 | Djdjdjekekek | 40 | 10 | 55 | 80% |
-| RN1 | 515 | 233 | 198 | 69% |
+| RN1 | 515 | 233 | 199 | 69% |
 | UpTheBlues | 29 | 16 | 40 | 64% |
 | sbsigner | 17 | 10 | 7 | 63% |
-| ferrariChampions2026 | 594 | 373 | 254 | 61% |
+| ferrariChampions2026 | 594 | 373 | 256 | 61% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 134 | 91 | 23 | 60% |
 | mooseborzoi | 3 | 2 | 12 | ⚠️ 60% (muestra chica: 5) |
 | BreakTheBank | 4 | 3 | 2 | ⚠️ 57% (muestra chica: 7) |

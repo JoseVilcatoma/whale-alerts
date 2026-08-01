@@ -45610,5 +45610,41 @@
     "usd": 12387.9999,
     "odds_at_bet": 93,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785554366,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-vidmano-volynet-2026-07-31",
+    "title": "The Memphis Classic: Darja Vidmanova vs Katie Volynets",
+    "outcome": "Katie Volynets",
+    "side": "BUY",
+    "usd": 5528.063999999999,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785554366,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-vidmano-volynet-2026-07-31",
+    "title": "The Memphis Classic: Darja Vidmanova vs Katie Volynets",
+    "outcome": "Darja Vidmanova",
+    "side": "BUY",
+    "usd": 12908.0775,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785554366,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-vidmano-volynet-2026-07-31",
+    "title": "The Memphis Classic: Darja Vidmanova vs Katie Volynets",
+    "outcome": "Katie Volynets",
+    "side": "BUY",
+    "usd": 5412.8913,
+    "odds_at_bet": 47,
+    "status": "pending"
   }
 ]
