@@ -49222,5 +49222,17 @@
     "usd": 1375.1699999999998,
     "odds_at_bet": 30,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785568688,
+    "username": "humkyakare",
+    "wallet": "0x32d21c404498db353bd2bc47b5a35e7256908850",
+    "slug": "dota2-midas3-tr7-2026-08-01-game2",
+    "title": "Dota 2: Midas Club vs Team Resilience - Game 2 Winner",
+    "outcome": "Team Resilience",
+    "side": "BUY",
+    "usd": 1500.0,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
