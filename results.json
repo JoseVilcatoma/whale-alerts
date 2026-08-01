@@ -43234,5 +43234,29 @@
     "usd": 1283.7012240000001,
     "odds_at_bet": 51,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785548936,
+    "username": "paquitomillonario",
+    "wallet": "0x04e6840687847a98f9ecfbb512a8c8b98d073914",
+    "slug": "wnba-ind-por-2026-07-31-total-185pt5",
+    "title": "Indiana Fever vs. PortlandFire: O/U 185.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1008.0112,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785548957,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-mia-nym-2026-07-31-total-7pt5",
+    "title": "Miami Marlins vs. New York Mets: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1444.529996,
+    "odds_at_bet": 83,
+    "status": "pending"
   }
 ]
