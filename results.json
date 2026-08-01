@@ -51694,5 +51694,113 @@
     "usd": 1424.7428000000002,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785576946,
+    "username": "Spicer",
+    "wallet": "0x3954e1c6b7bc5645d9d3425a6f4490889ef122d9",
+    "slug": "dota2-bb4-lgd-2026-08-01-game1",
+    "title": "Dota 2: BetBoom Team vs LGD Gaming - Game 1 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 1857.142857,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785576947,
+    "username": "Spicer",
+    "wallet": "0x3954e1c6b7bc5645d9d3425a6f4490889ef122d9",
+    "slug": "dota2-bb4-lgd-2026-08-01-game1",
+    "title": "Dota 2: BetBoom Team vs LGD Gaming - Game 1 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 1857.142857,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785576949,
+    "username": "Spicer",
+    "wallet": "0x3954e1c6b7bc5645d9d3425a6f4490889ef122d9",
+    "slug": "dota2-bb4-lgd-2026-08-01-game1",
+    "title": "Dota 2: BetBoom Team vs LGD Gaming - Game 1 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 1850.828571,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785576949,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-ns-fox1-2026-08-01-game2",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 1107.57132,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785576955,
+    "username": "Spicer",
+    "wallet": "0x3954e1c6b7bc5645d9d3425a6f4490889ef122d9",
+    "slug": "dota2-bb4-lgd-2026-08-01-game1",
+    "title": "Dota 2: BetBoom Team vs LGD Gaming - Game 1 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 5952.037,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785576967,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "swe-hac-kal-2026-08-01-hac",
+    "title": "Will BK Hacken win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1552.5,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785576994,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-lgd-tes-2026-08-01-game1",
+    "title": "LoL: LGD Gaming vs Top Esports - Game 1 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1225.7216,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785576999,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-ns-fox1-2026-08-01-game2",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 5951.86218,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785577017,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-miyoshi-kouzmin-2026-08-01",
+    "title": "Samsun: Kenta Miyoshi vs Constantin Bittoun Kouzmine",
+    "outcome": "Kenta Miyoshi",
+    "side": "BUY",
+    "usd": 1011.111111,
+    "odds_at_bet": 91,
+    "status": "pending"
   }
 ]
