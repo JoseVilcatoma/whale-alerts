@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 21:43:55 (hora de Perú)
+Actualizado: 2026-07-31 21:47:21 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -11,11 +11,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 35 | 5 | 2 | 88% |
 | swisstony | 370 | 66 | 111 | 85% |
 | Djdjdjekekek | 40 | 10 | 55 | 80% |
-| RN1 | 515 | 233 | 185 | 69% |
+| RN1 | 515 | 233 | 187 | 69% |
 | UpTheBlues | 29 | 16 | 40 | 64% |
 | sbsigner | 17 | 10 | 6 | 63% |
-| ferrariChampions2026 | 594 | 373 | 244 | 61% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 134 | 91 | 22 | 60% |
+| ferrariChampions2026 | 594 | 373 | 245 | 61% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 134 | 91 | 23 | 60% |
 | mooseborzoi | 3 | 2 | 12 | ⚠️ 60% (muestra chica: 5) |
 | BreakTheBank | 4 | 3 | 2 | ⚠️ 57% (muestra chica: 7) |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Sparkling8899 | 0 | 0 | 4 | — |
 | Bigggggggg | 0 | 0 | 9 | — |
 | fRibrenlc | 0 | 0 | 5 | — |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 0 | 0 | 14 | — |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 0 | 0 | 15 | — |
 | HomeRunHazard | 0 | 0 | 49 | — |
 | flatbarrel | 0 | 0 | 1 | — |
 | cruzNBA | 0 | 0 | 1 | — |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | paquitomillonario | 0 | 0 | 6 | — |
 | Melody626 | 0 | 0 | 3 | — |
 | neurodivergentBet | 0 | 0 | 1 | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 2 | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 3 | — |
 | kluckkluck | 0 | 0 | 7 | — |
 | AnonymousUsername | 0 | 0 | 1 | — |
 | unbribeableref | 0 | 0 | 2 | — |

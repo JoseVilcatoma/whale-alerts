@@ -44890,5 +44890,77 @@
     "usd": 2809.0216,
     "odds_at_bet": 77,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785552259,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "mlb-mil-laa-2026-07-31",
+    "title": "Milwaukee Brewers vs. Los Angeles Angels",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 2299.999995,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785552261,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-ast10-mouz-2026-08-01",
+    "title": "Counter-Strike: Astralis vs MOUZ (BO3) - BLAST Bounty Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 1139.4506,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785552263,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-bos-lad-2026-07-31",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 4170.6601,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785552291,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-vidmano-volynet-2026-07-31",
+    "title": "The Memphis Classic: Darja Vidmanova vs Katie Volynets",
+    "outcome": "Darja Vidmanova",
+    "side": "BUY",
+    "usd": 3477.7300000000005,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785552407,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-tabilo-shelton-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alejandro Tabilo vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 3786.1200000000003,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785552408,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-tabilo-shelton-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alejandro Tabilo vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 1025.0956429999999,
+    "odds_at_bet": 77,
+    "status": "pending"
   }
 ]
