@@ -71626,5 +71626,65 @@
     "usd": 1174.603174,
     "odds_at_bet": 37,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785610501,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ence-bcg-2026-08-01-game2",
+    "title": "Counter-Strike: ENCE vs BC.Game Esports - Map 2 Winner",
+    "outcome": "BC.Game Esports",
+    "side": "BUY",
+    "usd": 1147.714838,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785610521,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-flc-og-2026-08-01-game2",
+    "title": "Dota 2: Team Falcons vs OG - Game 2 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 1667.2017810000002,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785610526,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "mls-dcu-nas-2026-08-01-nas",
+    "title": "Will Nashville SC win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1836.185,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785610533,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-flc-og-2026-08-01-game2",
+    "title": "Dota 2: Team Falcons vs OG - Game 2 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 3261.818181,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785610537,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-flc-og-2026-08-01-game2",
+    "title": "Dota 2: Team Falcons vs OG - Game 2 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 11700.0,
+    "odds_at_bet": 78,
+    "status": "pending"
   }
 ]
