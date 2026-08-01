@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 12:16:51 (hora de Perú)
+Actualizado: 2026-08-01 12:19:17 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -13,22 +13,22 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | jtwyslljy | 2 | 0 | 3 | ⚠️ 100% (muestra chica: 2) |
 | meoooow | 1 | 0 | 20 | ⚠️ 100% (muestra chica: 1) |
-| esportGG | 5 | 0 | 23 | ⚠️ 100% (muestra chica: 5) |
+| esportGG | 5 | 0 | 24 | ⚠️ 100% (muestra chica: 5) |
 | ninasuskevic | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | Spicer | 18 | 0 | 12 | 100% |
 | Djdjdjekekek | 93 | 11 | 19 | 89% |
 | cigarettes | 38 | 5 | 14 | 88% |
 | mooseborzoi | 15 | 2 | 9 | 88% |
-| swisstony | 482 | 100 | 81 | 83% |
-| humkyakare | 7 | 3 | 5 | 70% |
+| swisstony | 482 | 100 | 82 | 83% |
+| humkyakare | 7 | 3 | 6 | 70% |
 | RN1 | 715 | 357 | 140 | 67% |
 | flatbarrel | 2 | 1 | 1 | ⚠️ 67% (muestra chica: 3) |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 118 | 63% |
-| ferrariChampions2026 | 844 | 552 | 392 | 60% |
+| ferrariChampions2026 | 844 | 552 | 396 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 13 | 59% |
-| HomeRunHazard | 52 | 43 | 45 | 55% |
+| HomeRunHazard | 52 | 43 | 50 | 55% |
 | wr0ngw4yb3tt0r | 67 | 65 | 27 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Eztennis | 28 | 33 | 0 | 46% |
 | pleaseplease123 | 21 | 28 | 4 | 43% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 26 | 35 | 27 | 43% |
-| GoalLineGhost | 4 | 6 | 52 | 40% |
+| GoalLineGhost | 4 | 6 | 56 | 40% |
 | monkeymashingkeyboard | 7 | 12 | 9 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 0 | 34% |
 | one8tyfive | 2 | 6 | 13 | 25% |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | cruzNBA | 0 | 2 | 2 | ⚠️ 0% (muestra chica: 2) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
-| CentralCasting | 0 | 0 | 13 | — |
+| CentralCasting | 0 | 0 | 14 | — |
 | balthazar | 0 | 0 | 17 | — |
 | Bigggggggg | 0 | 0 | 11 | — |
 | Melody626 | 0 | 0 | 6 | — |
@@ -60,17 +60,18 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | us391 | 0 | 0 | 15 | — |
 | VeryLucky888 | 0 | 0 | 41 | — |
 | baws | 0 | 0 | 1 | — |
-| fkgggg2mouzfuria | 0 | 0 | 31 | — |
+| fkgggg2mouzfuria | 0 | 0 | 32 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 14 | — |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 0 | 0 | 1 | — |
-| VPenguin | 0 | 0 | 20 | — |
+| VPenguin | 0 | 0 | 22 | — |
 | SDTrading | 0 | 0 | 1 | — |
 | fazewinline | 0 | 0 | 5 | — |
 | Pwaddler | 0 | 0 | 5 | — |
 | plonker2026 | 0 | 0 | 3 | — |
 | surfandturf | 0 | 0 | 4 | — |
 | texaskid | 0 | 0 | 8 | — |
-| Fallout3 | 0 | 0 | 12 | — |
+| Fallout3 | 0 | 0 | 13 | — |
 | Winnerdinnerchickenjr | 0 | 0 | 1 | — |
 | THEdirkdiggler | 0 | 0 | 1 | — |
 | matenghehe | 0 | 0 | 8 | — |
+| AV23IUa | 0 | 0 | 1 | — |
