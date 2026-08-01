@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 13:56:27 (hora de Perú)
+Actualizado: 2026-08-01 14:01:43 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -8,7 +8,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 |---|---|---|---|---|
 | Sparkling8899 | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | QuietRiskisWrong | 2 | 0 | 3 | ⚠️ 100% (muestra chica: 2) |
-| paquitomillonario | 6 | 0 | 0 | ⚠️ 100% (muestra chica: 6) |
+| paquitomillonario | 6 | 0 | 1 | ⚠️ 100% (muestra chica: 6) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | ninasuskevic | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
@@ -22,14 +22,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 495 | 107 | 67 | 82% |
 | jtwyslljy | 4 | 1 | 5 | ⚠️ 80% (muestra chica: 5) |
 | humkyakare | 11 | 3 | 3 | 79% |
-| VeryLucky888 | 13 | 4 | 29 | 76% |
+| VeryLucky888 | 13 | 4 | 31 | 76% |
 | flatbarrel | 3 | 1 | 3 | ⚠️ 75% (muestra chica: 4) |
 | us391 | 3 | 1 | 12 | ⚠️ 75% (muestra chica: 4) |
-| RN1 | 746 | 370 | 114 | 67% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 271 | 133 | 19 | 67% |
+| RN1 | 746 | 370 | 116 | 67% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 271 | 133 | 20 | 67% |
 | Talvez10 | 11 | 6 | 28 | 65% |
 | sbsigner | 26 | 16 | 5 | 62% |
-| ferrariChampions2026 | 979 | 646 | 252 | 60% |
+| ferrariChampions2026 | 979 | 646 | 254 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | HomeRunHazard | 65 | 46 | 47 | 59% |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fkgggg2mouzfuria | 4 | 4 | 34 | 50% |
 | 1winstreak1 | 26 | 28 | 2 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
-| pleaseplease123 | 21 | 28 | 10 | 43% |
+| pleaseplease123 | 21 | 28 | 13 | 43% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 30 | 39 | 29 | 43% |
 | monkeymashingkeyboard | 7 | 12 | 10 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 0 | 34% |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VPenguin | 3 | 9 | 12 | 25% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | PASSTHEMONEY | 5 | 29 | 20 | 15% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 9 | 4 | 10% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 9 | 5 | 10% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 3 | 6% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | cruzNBA | 0 | 3 | 3 | ⚠️ 0% (muestra chica: 3) |
@@ -64,7 +64,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Bigggggggg | 0 | 0 | 11 | — |
 | Melody626 | 0 | 0 | 6 | — |
 | neurodivergentBet | 0 | 0 | 4 | — |
-| AnonymousUsername | 0 | 0 | 14 | — |
+| AnonymousUsername | 0 | 0 | 16 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | ToeTickler98 | 0 | 0 | 5 | — |
 | SDTrading | 0 | 0 | 1 | — |
