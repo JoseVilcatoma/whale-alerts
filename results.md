@@ -1,13 +1,13 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 11:03:55 (hora de Perú)
+Actualizado: 2026-08-01 11:07:56 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
 | Sparkling8899 | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| Talvez10 | 1 | 0 | 24 | ⚠️ 100% (muestra chica: 1) |
+| Talvez10 | 1 | 0 | 25 | ⚠️ 100% (muestra chica: 1) |
 | QuietRiskisWrong | 2 | 0 | 3 | ⚠️ 100% (muestra chica: 2) |
 | paquitomillonario | 6 | 0 | 0 | ⚠️ 100% (muestra chica: 6) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RN1 | 715 | 357 | 105 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 112 | 63% |
-| ferrariChampions2026 | 844 | 552 | 317 | 60% |
+| ferrariChampions2026 | 844 | 552 | 318 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 11 | 59% |
 | HomeRunHazard | 52 | 43 | 35 | 55% |
-| wr0ngw4yb3tt0r | 67 | 65 | 25 | 51% |
+| wr0ngw4yb3tt0r | 67 | 65 | 26 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 4 | 4 | 4 | 50% |
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Eztennis | 28 | 33 | 0 | 46% |
 | pleaseplease123 | 21 | 28 | 2 | 43% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 26 | 35 | 19 | 43% |
-| GoalLineGhost | 4 | 6 | 29 | 40% |
+| GoalLineGhost | 4 | 6 | 37 | 40% |
 | monkeymashingkeyboard | 7 | 12 | 9 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 0 | 34% |
 | one8tyfive | 2 | 6 | 10 | 25% |
@@ -70,5 +70,5 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | plonker2026 | 0 | 0 | 3 | — |
 | surfandturf | 0 | 0 | 4 | — |
 | texaskid | 0 | 0 | 8 | — |
-| Fallout3 | 0 | 0 | 4 | — |
+| Fallout3 | 0 | 0 | 7 | — |
 | Winnerdinnerchickenjr | 0 | 0 | 1 | — |
