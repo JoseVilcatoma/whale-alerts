@@ -63610,5 +63610,77 @@
     "usd": 5792.972,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785598249,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-den2-bog-2026-08-01",
+    "title": "UFC Fight Night: Dennis Buzukja vs. Bogdan Grad (Featherweight, Prelims)",
+    "outcome": "Bogdan Grad",
+    "side": "BUY",
+    "usd": 1091.1661000000001,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785598312,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "scop-fal-stm-2026-08-01-stm",
+    "title": "Will St Mirren FC win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1095.0,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785598315,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "scop-fal-stm-2026-08-01-stm",
+    "title": "Will St Mirren FC win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1095.0,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785598329,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gx-sk-2026-08-01-game1",
+    "title": "LoL: GIANTX vs SK Gaming - Game 1 Winner",
+    "outcome": "SK Gaming",
+    "side": "BUY",
+    "usd": 2299.44,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785598343,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-bb4-gl-2026-08-01-game2",
+    "title": "Dota 2: BetBoom Team vs GamerLegion - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 3123.7514,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785598383,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "ufc-oba-mic37-2026-08-01",
+    "title": "UFC Fight Night: Oban Elliott vs. Michael Oliveira (Welterweight, Prelims)",
+    "outcome": "Michael Oliveira",
+    "side": "SELL",
+    "usd": 1540.0,
+    "odds_at_bet": 77,
+    "status": "pending"
   }
 ]
