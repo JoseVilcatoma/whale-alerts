@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 03:16:49 (hora de Perú)
+Actualizado: 2026-08-01 03:21:06 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -15,7 +15,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mooseborzoi | 5 | 2 | 11 | ⚠️ 71% (muestra chica: 7) |
 | RN1 | 588 | 270 | 174 | 69% |
 | HomeRunHazard | 9 | 5 | 72 | 64% |
-| ferrariChampions2026 | 707 | 461 | 125 | 61% |
+| ferrariChampions2026 | 707 | 461 | 126 | 61% |
 | UpTheBlues | 36 | 25 | 24 | 59% |
 | sbsigner | 19 | 13 | 4 | 59% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 140 | 101 | 14 | 58% |
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | monkeymashingkeyboard | 6 | 12 | 2 | 33% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 2 | 4 | 2 | ⚠️ 33% (muestra chica: 6) |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
-| PASSTHEMONEY | 1 | 13 | 0 | 7% |
+| PASSTHEMONEY | 1 | 13 | 1 | 7% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | CentralCasting | 0 | 0 | 1 | — |
 | balthazar | 0 | 0 | 17 | — |
