@@ -76258,5 +76258,101 @@
     "usd": 7400.4762,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785616477,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-kc3-tl1-2026-08-01",
+    "title": "Valorant: Karmine Corp vs Team Liquid (BO3) - VCT EMEA Group Omega",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 2090.4104,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785616477,
+    "username": "cruzNBA",
+    "wallet": "0x880b1fc5d3beb01c237f0848b249fd72b48fc98b",
+    "slug": "val-kc3-tl1-2026-08-01",
+    "title": "Valorant: Karmine Corp vs Team Liquid (BO3) - VCT EMEA Group Omega",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 2131.2048,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785616485,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-kc3-tl1-2026-08-01",
+    "title": "Valorant: Karmine Corp vs Team Liquid (BO3) - VCT EMEA Group Omega",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 2090.4104,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785616485,
+    "username": "cruzNBA",
+    "wallet": "0x880b1fc5d3beb01c237f0848b249fd72b48fc98b",
+    "slug": "val-kc3-tl1-2026-08-01",
+    "title": "Valorant: Karmine Corp vs Team Liquid (BO3) - VCT EMEA Group Omega",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 2267.4096,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785616488,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-cws-tb-2026-08-01-total-5pt5",
+    "title": "Chicago White Sox vs. Tampa Bay Rays: O/U 5.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 5972.8351999999995,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785616488,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-cws-tb-2026-08-01-total-5pt5",
+    "title": "Chicago White Sox vs. Tampa Bay Rays: O/U 5.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 4793.997700000001,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785616488,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cws-tb-2026-08-01-total-5pt5",
+    "title": "Chicago White Sox vs. Tampa Bay Rays: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 4865.64,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785616488,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cws-tb-2026-08-01-total-5pt5",
+    "title": "Chicago White Sox vs. Tampa Bay Rays: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 6735.3248,
+    "odds_at_bet": 53,
+    "status": "pending"
   }
 ]
