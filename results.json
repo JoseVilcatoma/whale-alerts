@@ -49798,5 +49798,89 @@
     "usd": 1466.6696000000002,
     "odds_at_bet": 88,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785571873,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-andrees-ferrari-2026-08-01",
+    "title": "ITF Pitesti: Stefan Adrian Andreescu vs Francesco Ferrari",
+    "outcome": "Stefan Adrian Andreescu",
+    "side": "BUY",
+    "usd": 1227.375384,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785571874,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-al-tt-2026-08-01-game2",
+    "title": "LoL: Anyone's Legend vs ThunderTalk Gaming - Game 2 Winner",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 4566.9606,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785571910,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-biryuko-zhalga-2026-08-01",
+    "title": "ITF Astana: Petr Bar Biryukov vs Damir Zhalgasbay",
+    "outcome": "Petr Bar Biryukov",
+    "side": "BUY",
+    "usd": 1049.0861530000002,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785571917,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-miyoshi-kouzmin-2026-08-01",
+    "title": "Samsun: Kenta Miyoshi vs Constantin Bittoun Kouzmine",
+    "outcome": "Kenta Miyoshi",
+    "side": "BUY",
+    "usd": 1244.9,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785571987,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-al-tt-2026-08-01-game2",
+    "title": "LoL: Anyone's Legend vs ThunderTalk Gaming - Game 2 Winner",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 3447.651,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785571987,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-al-tt-2026-08-01-game2",
+    "title": "LoL: Anyone's Legend vs ThunderTalk Gaming - Game 2 Winner",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 1608.8799999999999,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785571997,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-ns-fox1-2026-08-01-game1",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 1 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 1256.325,
+    "odds_at_bet": 30,
+    "status": "pending"
   }
 ]
