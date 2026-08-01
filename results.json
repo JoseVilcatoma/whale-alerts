@@ -70066,5 +70066,65 @@
     "usd": 1090.487058,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785608457,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "ufc-mar12-ale15-2026-08-01",
+    "title": "UFC Fight Night: Marcin Tybura vs. Aleksandar Rakic (Heavyweight, Main Card)",
+    "outcome": "Aleksandar Rakic",
+    "side": "BUY",
+    "usd": 1493.7268000000001,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785608470,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "atp-faria-oconnel-2026-08-01",
+    "title": "Canadian Open, Qualification: Jaime Faria vs Christopher O'Connell",
+    "outcome": "Jaime Faria",
+    "side": "BUY",
+    "usd": 1085.0,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785608470,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "atp-faria-oconnel-2026-08-01",
+    "title": "Canadian Open, Qualification: Jaime Faria vs Christopher O'Connell",
+    "outcome": "Jaime Faria",
+    "side": "BUY",
+    "usd": 1051.9023,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785608473,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-sickenb-krolo-2026-08-01",
+    "title": "ITF Wetzlar: Tom Sickenberger vs Filip Krolo",
+    "outcome": "Filip Krolo",
+    "side": "BUY",
+    "usd": 1047.2,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785608512,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-stl-tor-2026-08-01",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 1440.768,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
