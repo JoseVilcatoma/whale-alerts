@@ -67570,5 +67570,77 @@
     "usd": 2117.34,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785603112,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-fut1-vit-2026-08-01-game2",
+    "title": "Valorant: FUT Esports vs Team Vitality - Map 2 Winner",
+    "outcome": "Team Vitality",
+    "side": "BUY",
+    "usd": 1370.9535,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785603113,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-fut1-vit-2026-08-01-game2",
+    "title": "Valorant: FUT Esports vs Team Vitality - Map 2 Winner",
+    "outcome": "Team Vitality",
+    "side": "BUY",
+    "usd": 1083.5800000000002,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785603139,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-popyrin-kokkina-2026-08-01",
+    "title": "Canadian Open, Qualification: Alexei Popyrin vs Thanasi Kokkinakis",
+    "outcome": "Alexei Popyrin",
+    "side": "BUY",
+    "usd": 2124.989996,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785603156,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "brco-san-cre-2026-08-01-total-2pt5",
+    "title": "Santos FC vs. Clube do Remo: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1003.9904,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785603172,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "brco-san-cre-2026-08-01-total-2pt5",
+    "title": "Santos FC vs. Clube do Remo: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1095.2529,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785603187,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-gx-sk-2026-08-01-game2",
+    "title": "LoL: GIANTX vs SK Gaming - Game 2 Winner",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "usd": 1896.1435999999999,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
