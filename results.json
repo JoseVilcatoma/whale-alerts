@@ -39646,5 +39646,65 @@
     "usd": 1999.9956000000002,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785542444,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-nyc-tor-2026-07-31-nyc",
+    "title": "Will New York City FC win on 2026-07-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2475.5249999999996,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785542497,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-pit-cin-2026-07-31",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 1582.3500000000001,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785542505,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "wta-eala-svitoli-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 13599.359999999999,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785542505,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-eala-svitoli-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "usd": 5734.5792,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785542537,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-jodar-musetti-2026-07-31",
+    "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
+    "outcome": "Lorenzo Musetti",
+    "side": "BUY",
+    "usd": 1077.2599989999999,
+    "odds_at_bet": 51,
+    "status": "pending"
   }
 ]
