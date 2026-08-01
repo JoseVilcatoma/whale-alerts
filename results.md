@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 18:45:41 (hora de Perú)
+Actualizado: 2026-08-01 18:51:41 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -20,35 +20,35 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mooseborzoi | 15 | 2 | 47 | 88% |
 | Spicer | 26 | 4 | 0 | 87% |
 | cigarettes | 46 | 8 | 5 | 85% |
-| swisstony | 502 | 108 | 129 | 82% |
+| swisstony | 502 | 108 | 141 | 82% |
 | flatbarrel | 4 | 1 | 4 | ⚠️ 80% (muestra chica: 5) |
 | humkyakare | 12 | 4 | 3 | 75% |
 | us391 | 3 | 1 | 13 | ⚠️ 75% (muestra chica: 4) |
-| VeryLucky888 | 21 | 7 | 44 | 75% |
+| VeryLucky888 | 21 | 7 | 45 | 75% |
 | fkgggg2mouzfuria | 18 | 7 | 19 | 72% |
 | CentralCasting | 14 | 6 | 4 | 70% |
 | Fallout3 | 11 | 5 | 0 | 69% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 3 | 5 | 67% |
 | one8tyfive | 14 | 7 | 20 | 67% |
-| RN1 | 771 | 393 | 217 | 66% |
+| RN1 | 771 | 393 | 218 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 44 | 66% |
 | esportGG | 16 | 10 | 21 | 62% |
-| GoalLineGhost | 21 | 13 | 65 | 62% |
-| ferrariChampions2026 | 1051 | 688 | 430 | 60% |
-| sbsigner | 26 | 17 | 11 | 60% |
+| GoalLineGhost | 21 | 13 | 66 | 62% |
+| ferrariChampions2026 | 1051 | 688 | 433 | 60% |
+| sbsigner | 26 | 17 | 12 | 60% |
 | fRibrenlc | 3 | 2 | 6 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 24 | 59% |
-| HomeRunHazard | 73 | 50 | 153 | 59% |
+| HomeRunHazard | 73 | 50 | 154 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 11 | 8 | 13 | 58% |
 | wr0ngw4yb3tt0r | 80 | 67 | 61 | 54% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
 | jtwyslljy | 4 | 4 | 2 | 50% |
 | 1winstreak1 | 26 | 28 | 8 | 48% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 41 | 45 | 44 | 48% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 41 | 45 | 45 | 48% |
 | meoooow | 10 | 11 | 0 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
-| pleaseplease123 | 21 | 28 | 24 | 43% |
+| pleaseplease123 | 21 | 28 | 26 | 43% |
 | Talvez10 | 13 | 21 | 13 | 38% |
 | monkeymashingkeyboard | 7 | 12 | 14 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 4 | 34% |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | PASSTHEMONEY | 5 | 33 | 24 | 13% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 9 | 13 | 10% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 19 | 6% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 20 | 6% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | cruzNBA | 0 | 4 | 13 | ⚠️ 0% (muestra chica: 4) |
 | neurodivergentBet | 0 | 1 | 3 | ⚠️ 0% (muestra chica: 1) |
