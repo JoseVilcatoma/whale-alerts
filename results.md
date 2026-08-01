@@ -1,13 +1,13 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 10:59:57 (hora de Perú)
+Actualizado: 2026-08-01 11:03:55 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
 | Sparkling8899 | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| Talvez10 | 1 | 0 | 22 | ⚠️ 100% (muestra chica: 1) |
+| Talvez10 | 1 | 0 | 24 | ⚠️ 100% (muestra chica: 1) |
 | QuietRiskisWrong | 2 | 0 | 3 | ⚠️ 100% (muestra chica: 2) |
 | paquitomillonario | 6 | 0 | 0 | ⚠️ 100% (muestra chica: 6) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RN1 | 715 | 357 | 105 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 112 | 63% |
-| ferrariChampions2026 | 844 | 552 | 312 | 60% |
+| ferrariChampions2026 | 844 | 552 | 317 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 11 | 59% |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | cruzNBA | 0 | 2 | 2 | ⚠️ 0% (muestra chica: 2) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
-| CentralCasting | 0 | 0 | 7 | — |
+| CentralCasting | 0 | 0 | 9 | — |
 | balthazar | 0 | 0 | 17 | — |
 | Bigggggggg | 0 | 0 | 11 | — |
 | Melody626 | 0 | 0 | 6 | — |
@@ -67,7 +67,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SDTrading | 0 | 0 | 1 | — |
 | fazewinline | 0 | 0 | 5 | — |
 | Pwaddler | 0 | 0 | 5 | — |
-| plonker2026 | 0 | 0 | 2 | — |
+| plonker2026 | 0 | 0 | 3 | — |
 | surfandturf | 0 | 0 | 4 | — |
 | texaskid | 0 | 0 | 8 | — |
 | Fallout3 | 0 | 0 | 4 | — |
+| Winnerdinnerchickenjr | 0 | 0 | 1 | — |
