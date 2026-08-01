@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 22:41:30 (hora de Perú)
+Actualizado: 2026-07-31 22:44:36 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -15,7 +15,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mooseborzoi | 5 | 2 | 10 | ⚠️ 71% (muestra chica: 7) |
 | RN1 | 588 | 270 | 98 | 69% |
 | HomeRunHazard | 9 | 5 | 46 | 64% |
-| ferrariChampions2026 | 707 | 461 | 68 | 61% |
+| ferrariChampions2026 | 707 | 461 | 70 | 61% |
 | UpTheBlues | 36 | 25 | 24 | 59% |
 | sbsigner | 19 | 13 | 2 | 59% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 140 | 101 | 9 | 58% |
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fRibrenlc | 2 | 2 | 1 | ⚠️ 50% (muestra chica: 4) |
 | Eztennis | 28 | 33 | 0 | 46% |
 | 1winstreak1 | 19 | 22 | 9 | 46% |
-| wr0ngw4yb3tt0r | 36 | 49 | 40 | 42% |
+| wr0ngw4yb3tt0r | 36 | 49 | 41 | 42% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 18 | 0 | 36% |
 | monkeymashingkeyboard | 6 | 12 | 2 | 33% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 2 | 4 | 2 | ⚠️ 33% (muestra chica: 6) |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | paquitomillonario | 0 | 0 | 6 | — |
 | Melody626 | 0 | 0 | 3 | — |
 | neurodivergentBet | 0 | 0 | 1 | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 4 | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 5 | — |
 | kluckkluck | 0 | 0 | 7 | — |
 | AnonymousUsername | 0 | 0 | 1 | — |
 | unbribeableref | 0 | 0 | 2 | — |

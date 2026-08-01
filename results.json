@@ -46318,5 +46318,53 @@
     "usd": 2274.09,
     "odds_at_bet": 91,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785555829,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-wong-gea-2026-08-01",
+    "title": "Los Cabos Open: Coleman Wong vs Arthur Gea",
+    "outcome": "Coleman Wong",
+    "side": "BUY",
+    "usd": 4979.806666,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785555831,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-kc-col-2026-07-31-total-4pt5",
+    "title": "Kansas City Royals vs. Colorado Rockies: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1168.9937,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785555838,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-andrees-ferrari-2026-08-01",
+    "title": "ITF Pitesti: Stefan Adrian Andreescu vs Francesco Ferrari",
+    "outcome": "Stefan Adrian Andreescu",
+    "side": "BUY",
+    "usd": 1126.7387999999999,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785555856,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-ast10-mouz-2026-08-01",
+    "title": "Counter-Strike: Astralis vs MOUZ (BO3) - BLAST Bounty Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 1098.2564,
+    "odds_at_bet": 71,
+    "status": "pending"
   }
 ]
