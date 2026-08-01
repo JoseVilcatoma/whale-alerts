@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 22:13:48 (hora de Perú)
+Actualizado: 2026-07-31 22:17:26 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -33,8 +33,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Sparkling8899 | 0 | 0 | 4 | — |
 | Bigggggggg | 0 | 0 | 9 | — |
 | fRibrenlc | 0 | 0 | 5 | — |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 0 | 0 | 16 | — |
-| HomeRunHazard | 0 | 0 | 56 | — |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 0 | 0 | 17 | — |
+| HomeRunHazard | 0 | 0 | 57 | — |
 | flatbarrel | 0 | 0 | 1 | — |
 | cruzNBA | 0 | 0 | 1 | — |
 | QuietRiskisWrong | 0 | 0 | 5 | — |
