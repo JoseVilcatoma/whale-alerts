@@ -61426,5 +61426,53 @@
     "usd": 1379.0269999999998,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785595006,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "wta-quevedo-jones-2026-08-01",
+    "title": "Targu Mures: Kaitlin Quevedo vs Francesca Jones",
+    "outcome": "Kaitlin Quevedo",
+    "side": "BUY",
+    "usd": 1678.8717,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595022,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "wta-quevedo-jones-2026-08-01",
+    "title": "Targu Mures: Kaitlin Quevedo vs Francesca Jones",
+    "outcome": "Kaitlin Quevedo",
+    "side": "BUY",
+    "usd": 1119.69,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595062,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "atp-damm-rocha-2026-08-01",
+    "title": "Canadian Open, Qualification: Martin Damm vs Henrique Rocha",
+    "outcome": "Henrique Rocha",
+    "side": "BUY",
+    "usd": 9999.999999000001,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785595062,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-damm-rocha-2026-08-01",
+    "title": "Canadian Open, Qualification: Martin Damm vs Henrique Rocha",
+    "outcome": "Martin Damm",
+    "side": "BUY",
+    "usd": 15999.739555,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]
