@@ -69910,5 +69910,29 @@
     "usd": 1527.63084,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785608022,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-pegula-shnaide-2026-08-01-first-set-winner-Pegula-vs-Shnaider",
+    "title": "Set 1 Winner: Pegula vs Shnaider",
+    "outcome": "Pegula",
+    "side": "BUY",
+    "usd": 1978.6673999999998,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785608047,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-gx-sk-2026-08-01",
+    "title": "LoL: GIANTX vs SK Gaming (BO3) - LEC Regular Season",
+    "outcome": "SK Gaming",
+    "side": "BUY",
+    "usd": 1275.06366,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
