@@ -51994,5 +51994,29 @@
     "usd": 1052.4864599999999,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785577790,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-ns-fox1-2026-08-01",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 1965.0840999999998,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785577794,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "ptsc-fcp-tor-2026-08-01-total-3pt5",
+    "title": "FC Porto vs. SCU Torreense: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1426.623,
+    "odds_at_bet": 51,
+    "status": "pending"
   }
 ]
