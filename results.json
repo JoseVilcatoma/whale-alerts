@@ -46846,5 +46846,89 @@
     "usd": 1329.22,
     "odds_at_bet": 82,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785557498,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-wong-gea-2026-08-01",
+    "title": "Los Cabos Open: Coleman Wong vs Arthur Gea",
+    "outcome": "Coleman Wong",
+    "side": "BUY",
+    "usd": 1350.0,
+    "odds_at_bet": 15,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785557498,
+    "username": "flatbarrel",
+    "wallet": "0x6485f47d0344c03eb4340f985159f6eb2dcba265",
+    "slug": "atp-wong-gea-2026-08-01",
+    "title": "Los Cabos Open: Coleman Wong vs Arthur Gea",
+    "outcome": "Arthur Gea",
+    "side": "BUY",
+    "usd": 7650.0,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785557516,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-min-sea-2026-07-31",
+    "title": "Minnesota Twins vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 1393.2268000000001,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785557538,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-asl-tij-2026-07-31-tij",
+    "title": "Will Club Tijuana win on 2026-07-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1177.8,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785557551,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-lad-2026-07-31",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 2771.4849999999997,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785557561,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "mlb-bos-lad-2026-07-31",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 1700.0000000000002,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785557573,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-min-sea-2026-07-31",
+    "title": "Minnesota Twins vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 1801.162,
+    "odds_at_bet": 31,
+    "status": "pending"
   }
 ]
