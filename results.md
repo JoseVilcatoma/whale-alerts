@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 15:03:45 (hora de Perú)
+Actualizado: 2026-08-01 15:06:52 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -16,7 +16,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | surfandturf | 6 | 0 | 1 | ⚠️ 100% (muestra chica: 6) |
 | texaskid | 8 | 0 | 4 | 100% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 1 | 0 | 5 | ⚠️ 100% (muestra chica: 1) |
-| Djdjdjekekek | 109 | 13 | 5 | 89% |
+| Djdjdjekekek | 109 | 13 | 16 | 89% |
 | mooseborzoi | 15 | 2 | 25 | 88% |
 | Spicer | 26 | 4 | 0 | 87% |
 | cigarettes | 46 | 8 | 4 | 85% |
@@ -31,20 +31,20 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 3 | 1 | 67% |
 | one8tyfive | 14 | 7 | 4 | 67% |
 | RN1 | 771 | 393 | 92 | 66% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 15 | 66% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 16 | 66% |
 | esportGG | 16 | 10 | 10 | 62% |
 | GoalLineGhost | 21 | 13 | 42 | 62% |
-| ferrariChampions2026 | 1051 | 688 | 193 | 60% |
+| ferrariChampions2026 | 1051 | 688 | 207 | 60% |
 | sbsigner | 26 | 17 | 4 | 60% |
 | fRibrenlc | 3 | 2 | 3 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
-| HomeRunHazard | 73 | 50 | 61 | 59% |
+| HomeRunHazard | 73 | 50 | 63 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 11 | 8 | 6 | 58% |
 | wr0ngw4yb3tt0r | 80 | 67 | 23 | 54% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
 | jtwyslljy | 4 | 4 | 2 | 50% |
-| 1winstreak1 | 26 | 28 | 3 | 48% |
+| 1winstreak1 | 26 | 28 | 4 | 48% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 41 | 45 | 20 | 48% |
 | meoooow | 10 | 11 | 0 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
@@ -56,8 +56,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VPenguin | 4 | 12 | 8 | 25% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | PASSTHEMONEY | 5 | 33 | 20 | 13% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 9 | 10 | 10% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 6 | 6% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 9 | 13 | 10% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 8 | 6% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | cruzNBA | 0 | 4 | 2 | ⚠️ 0% (muestra chica: 4) |
 | neurodivergentBet | 0 | 1 | 3 | ⚠️ 0% (muestra chica: 1) |
