@@ -67642,5 +67642,89 @@
     "usd": 1896.1435999999999,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785603201,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-gx-sk-2026-08-01-game2",
+    "title": "LoL: GIANTX vs SK Gaming - Game 2 Winner",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "usd": 1143.9407,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785603222,
+    "username": "VPenguin",
+    "wallet": "0xfbf3d501e88815464642d0e913f15379c3eeb218",
+    "slug": "ufc-mjanic-ngugno-2026-08-01",
+    "title": "UFC Fight Night: Milos Janicic vs. Noah Gugnon (Lightweight, Main Card)",
+    "outcome": "Milos Janicic",
+    "side": "BUY",
+    "usd": 1177.66,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785603233,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-gx-sk-2026-08-01-game2",
+    "title": "LoL: GIANTX vs SK Gaming - Game 2 Winner",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "usd": 1236.281,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785603235,
+    "username": "CentralCasting",
+    "wallet": "0x0feb1bf966bc7f954c2da0293ae2fdc572c5db5d",
+    "slug": "btc-updown-5m-1785603300",
+    "title": "Bitcoin Up or Down - August 1, 12:55PM-1:00PM ET",
+    "outcome": "Down",
+    "side": "BUY",
+    "usd": 1230.0,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785603235,
+    "username": "Fallout3",
+    "wallet": "0x5ed5a5299060cdf83f009555cc0b8db3451df63a",
+    "slug": "btc-updown-5m-1785603300",
+    "title": "Bitcoin Up or Down - August 1, 12:55PM-1:00PM ET",
+    "outcome": "Up",
+    "side": "BUY",
+    "usd": 3258.3975000000005,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785603267,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-glyph-z10-2026-08-01-game1",
+    "title": "Dota 2: GLYPH vs Zero Tenacity - Game 1 Winner",
+    "outcome": "GLYPH",
+    "side": "BUY",
+    "usd": 1104.3144,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785603303,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-gx-sk-2026-08-01-game2",
+    "title": "LoL: GIANTX vs SK Gaming - Game 2 Winner",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "usd": 1760.8908799999997,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
