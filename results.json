@@ -53254,5 +53254,29 @@
     "usd": 5718.951,
     "odds_at_bet": 70,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785580435,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01-game1",
+    "title": "Counter-Strike: FaZe vs Spirit - Map 1 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 9296.430499999999,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785580435,
+    "username": "cruzNBA",
+    "wallet": "0x880b1fc5d3beb01c237f0848b249fd72b48fc98b",
+    "slug": "cs2-faze-ts7-2026-08-01-game1",
+    "title": "Counter-Strike: FaZe vs Spirit - Map 1 Winner",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 6558.3403,
+    "odds_at_bet": 39,
+    "status": "pending"
   }
 ]

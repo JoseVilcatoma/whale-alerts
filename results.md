@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 05:33:35 (hora de Perú)
+Actualizado: 2026-08-01 05:35:40 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -20,7 +20,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 479 | 98 | 47 | 83% |
 | RN1 | 676 | 328 | 59 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
-| ferrariChampions2026 | 760 | 512 | 121 | 60% |
+| ferrariChampions2026 | 760 | 512 | 122 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 5 | 59% |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | PASSTHEMONEY | 1 | 13 | 10 | 7% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 0 | 6% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
-| cruzNBA | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
+| cruzNBA | 0 | 1 | 1 | ⚠️ 0% (muestra chica: 1) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | humkyakare | 0 | 3 | 8 | ⚠️ 0% (muestra chica: 3) |
 | CentralCasting | 0 | 0 | 1 | — |
