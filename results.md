@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 04:43:47 (hora de Perú)
+Actualizado: 2026-08-01 04:45:49 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -18,13 +18,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 37 | 5 | 0 | 88% |
 | mooseborzoi | 15 | 2 | 1 | 88% |
 | swisstony | 479 | 98 | 42 | 83% |
-| RN1 | 676 | 328 | 44 | 67% |
+| RN1 | 676 | 328 | 45 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
 | ferrariChampions2026 | 760 | 512 | 87 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 5 | 59% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 106 | 19 | 58% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 106 | 20 | 58% |
 | HomeRunHazard | 46 | 37 | 8 | 55% |
 | wr0ngw4yb3tt0r | 67 | 65 | 7 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Eztennis | 28 | 33 | 0 | 46% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 24 | 30 | 10 | 44% |
 | pleaseplease123 | 21 | 28 | 0 | 43% |
-| monkeymashingkeyboard | 7 | 12 | 1 | 37% |
+| monkeymashingkeyboard | 7 | 12 | 4 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 18 | 0 | 36% |
 | one8tyfive | 1 | 2 | 5 | ⚠️ 33% (muestra chica: 3) |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Bigggggggg | 0 | 0 | 9 | — |
 | Melody626 | 0 | 0 | 3 | — |
 | neurodivergentBet | 0 | 0 | 1 | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 7 | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 8 | — |
 | AnonymousUsername | 0 | 0 | 1 | — |
 | unbribeableref | 0 | 0 | 2 | — |
 | ToeTickler98 | 0 | 0 | 4 | — |

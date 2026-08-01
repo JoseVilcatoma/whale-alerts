@@ -51886,5 +51886,77 @@
     "usd": 1298.7014000000001,
     "odds_at_bet": 53,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785577477,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-inox-sin2-2026-08-01",
+    "title": "Counter-Strike: INOX Division vs Sinners (BO3) - CCT Europe Series #5 Playoffs",
+    "outcome": "INOX Division",
+    "side": "BUY",
+    "usd": 1541.775,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785577508,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-miyoshi-kouzmin-2026-08-01",
+    "title": "Samsun: Kenta Miyoshi vs Constantin Bittoun Kouzmine",
+    "outcome": "Kenta Miyoshi",
+    "side": "BUY",
+    "usd": 1500.0,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785577517,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "wnba-las-chi-2026-08-01-spread-away-6pt5",
+    "title": "Spread: Las Vegas Aces (-6.5)",
+    "outcome": "Chicago Sky",
+    "side": "BUY",
+    "usd": 1040.0,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785577519,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "wnba-las-chi-2026-08-01-spread-away-6pt5",
+    "title": "Spread: Las Vegas Aces (-6.5)",
+    "outcome": "Chicago Sky",
+    "side": "BUY",
+    "usd": 1524.64,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785577519,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "wnba-las-chi-2026-08-01-spread-away-6pt5",
+    "title": "Spread: Las Vegas Aces (-6.5)",
+    "outcome": "Chicago Sky",
+    "side": "BUY",
+    "usd": 1524.64,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785577548,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-ns-fox1-2026-08-01-game2",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 1586.412,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
