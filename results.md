@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 02:25:35 (hora de Perú)
+Actualizado: 2026-08-01 02:28:19 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -13,9 +13,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 413 | 80 | 118 | 84% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 1 | 52 | ⚠️ 75% (muestra chica: 4) |
 | mooseborzoi | 5 | 2 | 10 | ⚠️ 71% (muestra chica: 7) |
-| RN1 | 588 | 270 | 169 | 69% |
+| RN1 | 588 | 270 | 170 | 69% |
 | HomeRunHazard | 9 | 5 | 71 | 64% |
-| ferrariChampions2026 | 707 | 461 | 106 | 61% |
+| ferrariChampions2026 | 707 | 461 | 108 | 61% |
 | UpTheBlues | 36 | 25 | 24 | 59% |
 | sbsigner | 19 | 13 | 4 | 59% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 140 | 101 | 14 | 58% |
@@ -55,5 +55,5 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | us391 | 0 | 0 | 1 | — |
 | meoooow | 0 | 0 | 1 | — |
 | esportGG | 0 | 0 | 1 | — |
-| ninasuskevic | 0 | 0 | 3 | — |
+| ninasuskevic | 0 | 0 | 4 | — |
 | VeryLucky888 | 0 | 0 | 1 | — |

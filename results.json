@@ -49474,5 +49474,53 @@
     "usd": 9803.4324,
     "odds_at_bet": 86,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785569163,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-laz-usa-2026-08-01-laz",
+    "title": "Will Lazio Rome win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1365.0,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785569174,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Cameron Norrie",
+    "side": "BUY",
+    "usd": 1485.0458,
+    "odds_at_bet": 14,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785569174,
+    "username": "ninasuskevic",
+    "wallet": "0x58d71d66722aa4c1e6ebde57071693667d2917e1",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 18962.011,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785569246,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-al-tt-2026-08-01-game1",
+    "title": "LoL: Anyone's Legend vs ThunderTalk Gaming - Game 1 Winner",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 1200.3012,
+    "odds_at_bet": 84,
+    "status": "pending"
   }
 ]
