@@ -70378,5 +70378,65 @@
     "usd": 1590.928982,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785609295,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-vks-fur-2026-08-01",
+    "title": "LoL: Vivo Keyd Stars vs FURIA Esports (BO3) - CBLOL Regular Season",
+    "outcome": "Vivo Keyd Stars",
+    "side": "SELL",
+    "usd": 13461.34518,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785609302,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-gir-ars-2026-08-01-spread-away-2pt5",
+    "title": "Spread: Arsenal FC (-2.5)",
+    "outcome": "Girona FC",
+    "side": "BUY",
+    "usd": 1790.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785609302,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "atp-walton-boulais-2026-08-01",
+    "title": "Canadian Open, Qualification: Adam Walton vs Justin Boulais",
+    "outcome": "Adam Walton",
+    "side": "BUY",
+    "usd": 1491.51699,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785609302,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mex-leo-pac-2026-08-01-total-2pt5",
+    "title": "Club Le\u00f3n FC vs. CF Pachuca: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1262.079999,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785609346,
+    "username": "flatbarrel",
+    "wallet": "0x6485f47d0344c03eb4340f985159f6eb2dcba265",
+    "slug": "atp-vukic-barrios-2026-08-01",
+    "title": "Canadian Open, Qualification: Aleksandar Vukic vs Tomas Barrios",
+    "outcome": "Aleksandar Vukic",
+    "side": "BUY",
+    "usd": 3690.0,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]

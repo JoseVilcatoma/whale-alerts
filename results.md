@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 13:33:07 (hora de Perú)
+Actualizado: 2026-08-01 13:36:16 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -23,17 +23,17 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | jtwyslljy | 4 | 1 | 5 | ⚠️ 80% (muestra chica: 5) |
 | humkyakare | 11 | 3 | 3 | 79% |
 | VeryLucky888 | 13 | 4 | 27 | 76% |
-| flatbarrel | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
+| flatbarrel | 3 | 1 | 1 | ⚠️ 75% (muestra chica: 4) |
 | us391 | 3 | 1 | 11 | ⚠️ 75% (muestra chica: 4) |
-| RN1 | 746 | 370 | 108 | 67% |
+| RN1 | 746 | 370 | 109 | 67% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 271 | 133 | 15 | 67% |
 | Talvez10 | 11 | 6 | 27 | 65% |
 | sbsigner | 26 | 16 | 5 | 62% |
-| ferrariChampions2026 | 979 | 646 | 202 | 60% |
+| ferrariChampions2026 | 979 | 646 | 203 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | HomeRunHazard | 65 | 46 | 45 | 59% |
-| one8tyfive | 10 | 7 | 5 | 59% |
+| one8tyfive | 10 | 7 | 6 | 59% |
 | GoalLineGhost | 18 | 13 | 40 | 58% |
 | esportGG | 10 | 8 | 15 | 56% |
 | meoooow | 6 | 5 | 10 | 55% |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 1 | 3 | 5 | ⚠️ 25% (muestra chica: 4) |
 | VPenguin | 3 | 9 | 12 | 25% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
-| PASSTHEMONEY | 5 | 29 | 17 | 15% |
+| PASSTHEMONEY | 5 | 29 | 18 | 15% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 9 | 4 | 10% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 0 | 6% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
