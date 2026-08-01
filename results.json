@@ -48934,5 +48934,41 @@
     "usd": 1062.0,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785568360,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-biryuko-zhalga-2026-08-01",
+    "title": "ITF Astana: Petr Bar Biryukov vs Damir Zhalgasbay",
+    "outcome": "Damir Zhalgasbay",
+    "side": "BUY",
+    "usd": 1528.2,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785568363,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-biryuko-zhalga-2026-08-01",
+    "title": "ITF Astana: Petr Bar Biryukov vs Damir Zhalgasbay",
+    "outcome": "Damir Zhalgasbay",
+    "side": "BUY",
+    "usd": 1094.5,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785568471,
+    "username": "meoooow",
+    "wallet": "0xd202bf6d89dc6bab1b9f00ead175f75466348973",
+    "slug": "lol-ns-fox1-2026-08-01-game1",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 1 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 3824.9828,
+    "odds_at_bet": 46,
+    "status": "pending"
   }
 ]
