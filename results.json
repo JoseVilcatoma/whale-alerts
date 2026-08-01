@@ -69898,5 +69898,17 @@
     "usd": 1440.772,
     "odds_at_bet": 40,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785607765,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-gx-sk-2026-08-01",
+    "title": "LoL: GIANTX vs SK Gaming (BO3) - LEC Regular Season",
+    "outcome": "SK Gaming",
+    "side": "BUY",
+    "usd": 1527.63084,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
