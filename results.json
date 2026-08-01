@@ -55186,5 +55186,77 @@
     "usd": 1136.7,
     "odds_at_bet": 90,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785584621,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01-game2",
+    "title": "Counter-Strike: FaZe vs Spirit - Map 2 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 3173.22,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785584621,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01-game2",
+    "title": "Counter-Strike: FaZe vs Spirit - Map 2 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1133.0584999999999,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785584622,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01-game2",
+    "title": "Counter-Strike: FaZe vs Spirit - Map 2 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1133.0584999999999,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785584698,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "chi-ron-wsz-2026-08-01-total-3pt5",
+    "title": "Chengdu Rongcheng FC vs. Wuhan San Zhen FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1040.0,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785584698,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "chi-ron-wsz-2026-08-01-total-3pt5",
+    "title": "Chengdu Rongcheng FC vs. Wuhan San Zhen FC: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 3485.1312,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785584712,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "fin1-tps-mar-2026-08-01-tps",
+    "title": "Will Turun Palloseura win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1564.102564,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]

@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 06:43:37 (hora de Perú)
+Actualizado: 2026-08-01 06:45:54 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -20,7 +20,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 479 | 98 | 53 | 83% |
 | RN1 | 676 | 328 | 74 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
-| ferrariChampions2026 | 760 | 512 | 187 | 60% |
+| ferrariChampions2026 | 760 | 512 | 190 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 5 | 59% |
@@ -53,10 +53,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | AnonymousUsername | 0 | 0 | 2 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | ToeTickler98 | 0 | 0 | 5 | — |
-| us391 | 0 | 0 | 4 | — |
+| us391 | 0 | 0 | 5 | — |
 | meoooow | 0 | 0 | 8 | — |
 | esportGG | 0 | 0 | 11 | — |
-| VeryLucky888 | 0 | 0 | 6 | — |
+| VeryLucky888 | 0 | 0 | 8 | — |
 | baws | 0 | 0 | 1 | — |
 | Spicer | 0 | 0 | 22 | — |
 | GoalLineGhost | 0 | 0 | 13 | — |
