@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 08:30:26 (hora de Perú)
+Actualizado: 2026-08-01 08:33:33 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -21,12 +21,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 479 | 99 | 68 | 83% |
 | RN1 | 702 | 348 | 59 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
-| ferrariChampions2026 | 779 | 521 | 289 | 60% |
+| ferrariChampions2026 | 779 | 521 | 291 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 9 | 59% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 149 | 106 | 131 | 58% |
-| HomeRunHazard | 48 | 43 | 17 | 53% |
+| HomeRunHazard | 48 | 43 | 18 | 53% |
 | wr0ngw4yb3tt0r | 67 | 65 | 7 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | us391 | 0 | 0 | 6 | — |
 | VeryLucky888 | 0 | 0 | 16 | — |
 | baws | 0 | 0 | 1 | — |
-| Spicer | 0 | 0 | 29 | — |
+| Spicer | 0 | 0 | 30 | — |
 | GoalLineGhost | 0 | 0 | 31 | — |
 | fkgggg2mouzfuria | 0 | 0 | 11 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 10 | — |

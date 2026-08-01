@@ -59410,5 +59410,53 @@
     "usd": 4326.625,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785591028,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-nyy-chc-2026-08-01-spread-away-1pt5",
+    "title": "Spread: New York Yankees (-1.5)",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 1681.0856999999999,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785591028,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-nyy-chc-2026-08-01",
+    "title": "New York Yankees vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 2641.22,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785591030,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-nyy-chc-2026-08-01-spread-away-1pt5",
+    "title": "Spread: New York Yankees (-1.5)",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 1922.38,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785591069,
+    "username": "Spicer",
+    "wallet": "0x3954e1c6b7bc5645d9d3425a6f4490889ef122d9",
+    "slug": "dota2-l1ga-lgd-2026-08-01-game1",
+    "title": "Dota 2: L1ga Team vs LGD Gaming - Game 1 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 4780.5033,
+    "odds_at_bet": 79,
+    "status": "pending"
   }
 ]
