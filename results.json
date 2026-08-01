@@ -49882,5 +49882,41 @@
     "usd": 1256.325,
     "odds_at_bet": 30,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785572053,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-al-tt-2026-08-01-game2",
+    "title": "LoL: Anyone's Legend vs ThunderTalk Gaming - Game 2 Winner",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 2940.0,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785572053,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-al-tt-2026-08-01-game2",
+    "title": "LoL: Anyone's Legend vs ThunderTalk Gaming - Game 2 Winner",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 1318.212,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785572113,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-ns-fox1-2026-08-01-game1",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 1 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 1172.839506,
+    "odds_at_bet": 19,
+    "status": "pending"
   }
 ]
