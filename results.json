@@ -48802,5 +48802,17 @@
     "usd": 1678.72,
     "odds_at_bet": 32,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785567052,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-kumstat-nagal-2026-08-01",
+    "title": "Liberec: Jan Kumstat vs Sumit Nagal",
+    "outcome": "Sumit Nagal",
+    "side": "BUY",
+    "usd": 3017.8224,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
