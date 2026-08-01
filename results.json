@@ -45274,5 +45274,41 @@
     "usd": 1100.6699999999998,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785553519,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-vidmano-volynet-2026-07-31",
+    "title": "The Memphis Classic: Darja Vidmanova vs Katie Volynets",
+    "outcome": "Katie Volynets",
+    "side": "BUY",
+    "usd": 1344.6166,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785553525,
+    "username": "QuietRiskisWrong",
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "slug": "israel-x-iran-ceasefire-continues-through-july-31-20260716224448968-384-155-519-798-243",
+    "title": "Israel x Iran ceasefire continues through July 31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 20049.999998,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785553579,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-min-sea-2026-07-31",
+    "title": "Minnesota Twins vs. Seattle Mariners",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 1388.9988,
+    "odds_at_bet": 28,
+    "status": "pending"
   }
 ]
