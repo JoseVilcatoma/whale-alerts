@@ -50086,5 +50086,17 @@
     "usd": 4963.6188,
     "odds_at_bet": 63,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785573616,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "lol-gen-dk-2026-08-01",
+    "title": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 2832.9228000000003,
+    "odds_at_bet": 38,
+    "status": "pending"
   }
 ]
