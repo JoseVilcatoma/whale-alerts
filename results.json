@@ -46606,5 +46606,17 @@
     "usd": 2721.285,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785556570,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-bos-lad-2026-07-31",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 2792.0004,
+    "odds_at_bet": 21,
+    "status": "pending"
   }
 ]
