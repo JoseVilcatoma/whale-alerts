@@ -44686,5 +44686,41 @@
     "usd": 1099.9956,
     "odds_at_bet": 11,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785551642,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-kc-col-2026-07-31-total-7pt5",
+    "title": "Kansas City Royals vs. Colorado Rockies: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2447.5438,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785551642,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-kc-col-2026-07-31-total-7pt5",
+    "title": "Kansas City Royals vs. Colorado Rockies: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2759.9962,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785551737,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-mil-laa-2026-07-31",
+    "title": "Milwaukee Brewers vs. Los Angeles Angels",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 1676.3400000000001,
+    "odds_at_bet": 67,
+    "status": "pending"
   }
 ]
