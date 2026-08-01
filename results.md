@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 07:01:28 (hora de Perú)
+Actualizado: 2026-08-01 07:03:59 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -14,18 +14,18 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | jtwyslljy | 1 | 0 | 3 | ⚠️ 100% (muestra chica: 1) |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 3 | 0 | 10 | ⚠️ 100% (muestra chica: 3) |
 | ninasuskevic | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| Djdjdjekekek | 93 | 11 | 1 | 89% |
+| Djdjdjekekek | 93 | 11 | 2 | 89% |
 | cigarettes | 37 | 5 | 1 | 88% |
 | mooseborzoi | 15 | 2 | 2 | 88% |
 | swisstony | 479 | 98 | 54 | 83% |
 | RN1 | 676 | 328 | 89 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
-| ferrariChampions2026 | 760 | 512 | 203 | 60% |
+| ferrariChampions2026 | 760 | 512 | 211 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 6 | 59% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 106 | 91 | 58% |
-| HomeRunHazard | 46 | 37 | 13 | 55% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 106 | 92 | 58% |
+| HomeRunHazard | 46 | 37 | 14 | 55% |
 | wr0ngw4yb3tt0r | 67 | 65 | 7 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
@@ -61,4 +61,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 0 | 0 | 22 | — |
 | GoalLineGhost | 0 | 0 | 17 | — |
 | fkgggg2mouzfuria | 0 | 0 | 5 | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 5 | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 8 | — |
