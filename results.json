@@ -60334,5 +60334,53 @@
     "usd": 30560.719399999998,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785592739,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "mex-atl-mon1-2026-08-01-total-2pt5",
+    "title": "Atlas FC vs. CF Monterrey: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1425.4986000000001,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785592750,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "ufc-ste33-mspasi-2026-08-01",
+    "title": "UFC Fight Night: Stephanie Luciano vs. Marina Spasic (Women's Strawweight, Prelims)",
+    "outcome": "Stephanie Luciano",
+    "side": "SELL",
+    "usd": 1540.0,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785592801,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-jdg-blg-2026-08-01-game2",
+    "title": "LoL: JD Gaming vs Bilibili Gaming - Game 2 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 1723.8244499999998,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785592840,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-ste33-mspasi-2026-08-01",
+    "title": "UFC Fight Night: Stephanie Luciano vs. Marina Spasic (Women's Strawweight, Prelims)",
+    "outcome": "Stephanie Luciano",
+    "side": "BUY",
+    "usd": 4125.3256,
+    "odds_at_bet": 76,
+    "status": "pending"
   }
 ]

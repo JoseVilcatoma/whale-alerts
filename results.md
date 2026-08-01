@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 08:58:38 (hora de Perú)
+Actualizado: 2026-08-01 09:01:26 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -23,7 +23,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RN1 | 715 | 356 | 41 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 181 | 110 | 107 | 62% |
-| ferrariChampions2026 | 830 | 540 | 234 | 61% |
+| ferrariChampions2026 | 830 | 540 | 235 | 61% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | GoalLineGhost | 3 | 2 | 27 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
@@ -57,10 +57,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | AnonymousUsername | 0 | 0 | 3 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | ToeTickler98 | 0 | 0 | 5 | — |
-| us391 | 0 | 0 | 9 | — |
-| VeryLucky888 | 0 | 0 | 19 | — |
+| us391 | 0 | 0 | 10 | — |
+| VeryLucky888 | 0 | 0 | 20 | — |
 | baws | 0 | 0 | 1 | — |
-| fkgggg2mouzfuria | 0 | 0 | 23 | — |
+| fkgggg2mouzfuria | 0 | 0 | 24 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 10 | — |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 0 | 0 | 1 | — |
 | VPenguin | 0 | 0 | 5 | — |
