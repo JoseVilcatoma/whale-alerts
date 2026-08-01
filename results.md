@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 06:24:45 (hora de Perú)
+Actualizado: 2026-08-01 06:26:51 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -20,11 +20,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 479 | 98 | 51 | 83% |
 | RN1 | 676 | 328 | 69 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
-| ferrariChampions2026 | 760 | 512 | 175 | 60% |
+| ferrariChampions2026 | 760 | 512 | 181 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 5 | 59% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 106 | 57 | 58% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 106 | 63 | 58% |
 | HomeRunHazard | 46 | 37 | 11 | 55% |
 | wr0ngw4yb3tt0r | 67 | 65 | 7 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | cruzNBA | 0 | 1 | 1 | ⚠️ 0% (muestra chica: 1) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
-| humkyakare | 0 | 3 | 8 | ⚠️ 0% (muestra chica: 3) |
+| humkyakare | 0 | 3 | 9 | ⚠️ 0% (muestra chica: 3) |
 | CentralCasting | 0 | 0 | 1 | — |
 | balthazar | 0 | 0 | 17 | — |
 | Bigggggggg | 0 | 0 | 9 | — |
@@ -58,5 +58,6 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | esportGG | 0 | 0 | 11 | — |
 | VeryLucky888 | 0 | 0 | 6 | — |
 | baws | 0 | 0 | 1 | — |
-| Spicer | 0 | 0 | 19 | — |
+| Spicer | 0 | 0 | 21 | — |
 | GoalLineGhost | 0 | 0 | 12 | — |
+| fkgggg2mouzfuria | 0 | 0 | 2 | — |
