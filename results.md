@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 11:35:07 (hora de Perú)
+Actualizado: 2026-08-01 11:37:19 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -19,16 +19,16 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 93 | 11 | 19 | 89% |
 | cigarettes | 38 | 5 | 11 | 88% |
 | mooseborzoi | 15 | 2 | 9 | 88% |
-| swisstony | 482 | 100 | 76 | 83% |
+| swisstony | 482 | 100 | 77 | 83% |
 | humkyakare | 7 | 3 | 4 | 70% |
-| RN1 | 715 | 357 | 126 | 67% |
+| RN1 | 715 | 357 | 130 | 67% |
 | flatbarrel | 2 | 1 | 1 | ⚠️ 67% (muestra chica: 3) |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 113 | 63% |
-| ferrariChampions2026 | 844 | 552 | 348 | 60% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 114 | 63% |
+| ferrariChampions2026 | 844 | 552 | 354 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 13 | 59% |
-| HomeRunHazard | 52 | 43 | 40 | 55% |
+| HomeRunHazard | 52 | 43 | 41 | 55% |
 | wr0ngw4yb3tt0r | 67 | 65 | 27 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
@@ -37,11 +37,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Eztennis | 28 | 33 | 0 | 46% |
 | pleaseplease123 | 21 | 28 | 2 | 43% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 26 | 35 | 20 | 43% |
-| GoalLineGhost | 4 | 6 | 49 | 40% |
+| GoalLineGhost | 4 | 6 | 50 | 40% |
 | monkeymashingkeyboard | 7 | 12 | 9 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 0 | 34% |
 | one8tyfive | 2 | 6 | 13 | 25% |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 3 | 10 | 14 | 23% |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 3 | 10 | 15 | 23% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | PASSTHEMONEY | 1 | 16 | 24 | 6% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 0 | 6% |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | us391 | 0 | 0 | 13 | — |
 | VeryLucky888 | 0 | 0 | 37 | — |
 | baws | 0 | 0 | 1 | — |
-| fkgggg2mouzfuria | 0 | 0 | 26 | — |
+| fkgggg2mouzfuria | 0 | 0 | 28 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 13 | — |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 0 | 0 | 1 | — |
 | VPenguin | 0 | 0 | 19 | — |
@@ -73,4 +73,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Fallout3 | 0 | 0 | 10 | — |
 | Winnerdinnerchickenjr | 0 | 0 | 1 | — |
 | THEdirkdiggler | 0 | 0 | 1 | — |
-| matenghehe | 0 | 0 | 2 | — |
+| matenghehe | 0 | 0 | 5 | — |
