@@ -68578,5 +68578,89 @@
     "usd": 1944.6672,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785605073,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-jan-nav-2026-08-01",
+    "title": "UFC Fight Night: Jan Blachowicz vs. Navajo Stirling (Light Heavyweight, Main Card)",
+    "outcome": "Jan Blachowicz",
+    "side": "BUY",
+    "usd": 1912.0308629999997,
+    "odds_at_bet": 24,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785605084,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-poljica-varilla-2026-08-01",
+    "title": "San Marino: Mili Poljicak vs Juan Pablo Varillas",
+    "outcome": "Mili Poljicak",
+    "side": "BUY",
+    "usd": 2052.198947,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785605086,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-gx-sk-2026-08-01",
+    "title": "LoL: GIANTX vs SK Gaming (BO3) - LEC Regular Season",
+    "outcome": "SK Gaming",
+    "side": "BUY",
+    "usd": 1629.9415000000001,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785605086,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-gx-sk-2026-08-01",
+    "title": "LoL: GIANTX vs SK Gaming (BO3) - LEC Regular Season",
+    "outcome": "SK Gaming",
+    "side": "BUY",
+    "usd": 2200.0,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785605087,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-gx-sk-2026-08-01",
+    "title": "LoL: GIANTX vs SK Gaming (BO3) - LEC Regular Season",
+    "outcome": "SK Gaming",
+    "side": "BUY",
+    "usd": 1650.0000000000002,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785605088,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gx-sk-2026-08-01",
+    "title": "LoL: GIANTX vs SK Gaming (BO3) - LEC Regular Season",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "usd": 2651.264,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785605088,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-gx-sk-2026-08-01",
+    "title": "LoL: GIANTX vs SK Gaming (BO3) - LEC Regular Season",
+    "outcome": "SK Gaming",
+    "side": "BUY",
+    "usd": 3863.7704000000003,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
