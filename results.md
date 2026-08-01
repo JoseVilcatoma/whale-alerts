@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 23:30:43 (hora de Perú)
+Actualizado: 2026-07-31 23:32:50 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -13,7 +13,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 413 | 80 | 97 | 84% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 1 | 28 | ⚠️ 75% (muestra chica: 4) |
 | mooseborzoi | 5 | 2 | 10 | ⚠️ 71% (muestra chica: 7) |
-| RN1 | 588 | 270 | 112 | 69% |
+| RN1 | 588 | 270 | 113 | 69% |
 | HomeRunHazard | 9 | 5 | 58 | 64% |
 | ferrariChampions2026 | 707 | 461 | 86 | 61% |
 | UpTheBlues | 36 | 25 | 24 | 59% |
@@ -21,11 +21,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 140 | 101 | 9 | 58% |
 | pleaseplease123 | 21 | 17 | 11 | 55% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
-| BreakTheBank | 4 | 4 | 1 | 50% |
+| BreakTheBank | 4 | 4 | 2 | 50% |
 | fRibrenlc | 2 | 2 | 1 | ⚠️ 50% (muestra chica: 4) |
 | Eztennis | 28 | 33 | 0 | 46% |
 | 1winstreak1 | 19 | 22 | 11 | 46% |
-| wr0ngw4yb3tt0r | 36 | 49 | 45 | 42% |
+| wr0ngw4yb3tt0r | 36 | 49 | 46 | 42% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 18 | 0 | 36% |
 | monkeymashingkeyboard | 6 | 12 | 2 | 33% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 2 | 4 | 2 | ⚠️ 33% (muestra chica: 6) |
