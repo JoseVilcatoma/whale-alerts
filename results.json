@@ -49678,5 +49678,29 @@
     "usd": 1100.0,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785571033,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-mackenz-dahlin-2026-08-01",
+    "title": "Bonn: Jamie Mackenzie vs Max Dahlin",
+    "outcome": "Jamie Mackenzie",
+    "side": "BUY",
+    "usd": 1100.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785571045,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "atp-kumstat-nagal-2026-08-01",
+    "title": "Liberec: Jan Kumstat vs Sumit Nagal",
+    "outcome": "Sumit Nagal",
+    "side": "BUY",
+    "usd": 9000.000000000002,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
