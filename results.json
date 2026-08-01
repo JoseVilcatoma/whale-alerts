@@ -72922,5 +72922,65 @@
     "usd": 1616.4456,
     "odds_at_bet": 88,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785613441,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-nrg-voc-2026-08-01",
+    "title": "Counter-Strike: NRG vs Voca (BO3) - StarLadder StarSeries North American Qualifier Playoffs",
+    "outcome": "NRG",
+    "side": "BUY",
+    "usd": 1098.6624,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785613459,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-stl-tor-2026-08-01",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 3128.9408999999996,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785613459,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "mlb-stl-tor-2026-08-01",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 1184.1728,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785613460,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "mlb-stl-tor-2026-08-01",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 4640.0512,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785613460,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-stl-tor-2026-08-01",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 2593.8288,
+    "odds_at_bet": 36,
+    "status": "pending"
   }
 ]
