@@ -78202,5 +78202,77 @@
     "usd": 1474.2,
     "odds_at_bet": 63,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785619899,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-nv2-fur-2026-08-01",
+    "title": "Valorant: Team Envy vs FURIA Esports (BO3) - VCT Americas Stage 2 Group Alpha",
+    "outcome": "Team Envy",
+    "side": "BUY",
+    "usd": 1856.4034000000001,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619899,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "val-nv2-fur-2026-08-01",
+    "title": "Valorant: Team Envy vs FURIA Esports (BO3) - VCT Americas Stage 2 Group Alpha",
+    "outcome": "Team Envy",
+    "side": "BUY",
+    "usd": 1326.864426,
+    "odds_at_bet": 31,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619924,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "mlb-kc-col-2026-08-01",
+    "title": "Kansas City Royals vs. Colorado Rockies",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "usd": 2509.2214000000004,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619926,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-nyy-chc-2026-08-01-spread-away-1pt5",
+    "title": "Spread: New York Yankees (-1.5)",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 1994.1504000000002,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619996,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-c9-dig-2026-08-01-game2",
+    "title": "LoL: Cloud9 vs Dignitas - Game 2 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 2397.8755,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619996,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-c9-dig-2026-08-01-game2",
+    "title": "LoL: Cloud9 vs Dignitas - Game 2 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 1234.6589999999999,
+    "odds_at_bet": 85,
+    "status": "pending"
   }
 ]
