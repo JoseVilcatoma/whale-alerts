@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 06:39:06 (hora de Perú)
+Actualizado: 2026-08-01 06:43:37 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 5 | 59% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 106 | 81 | 58% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 106 | 82 | 58% |
 | HomeRunHazard | 46 | 37 | 11 | 55% |
 | wr0ngw4yb3tt0r | 67 | 65 | 7 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -59,5 +59,5 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 0 | 0 | 6 | — |
 | baws | 0 | 0 | 1 | — |
 | Spicer | 0 | 0 | 22 | — |
-| GoalLineGhost | 0 | 0 | 12 | — |
+| GoalLineGhost | 0 | 0 | 13 | — |
 | fkgggg2mouzfuria | 0 | 0 | 5 | — |

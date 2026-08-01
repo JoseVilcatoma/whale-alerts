@@ -55162,5 +55162,29 @@
     "usd": 2730.0,
     "odds_at_bet": 84,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785584556,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-lgd-tes-2026-08-01",
+    "title": "LoL: LGD Gaming vs Top Esports (BO3) - LPL Group Ascend",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 1011.1278599999999,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785584594,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "chi-shp-sha-2026-08-01-spread-away-2pt5",
+    "title": "Spread: Shandong Taishan FC (-2.5)",
+    "outcome": "Shanghai Haigang FC",
+    "side": "BUY",
+    "usd": 1136.7,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]
