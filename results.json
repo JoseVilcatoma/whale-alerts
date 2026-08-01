@@ -78982,5 +78982,29 @@
     "usd": 1488.51,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785620690,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-c9-dig-2026-08-01-game2",
+    "title": "LoL: Cloud9 vs Dignitas - Game 2 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 1739.4923000000001,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785620708,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-min-sea-2026-08-01",
+    "title": "Minnesota Twins vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 1934.2079999999999,
+    "odds_at_bet": 73,
+    "status": "pending"
   }
 ]
