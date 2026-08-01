@@ -54058,5 +54058,101 @@
     "usd": 9443.7514,
     "odds_at_bet": 82,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785582557,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "chi-jin-yun-2026-08-01-total-1pt5",
+    "title": "Tianjin Jinmen Hu FC vs. Yunnan Yukun FC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1247.989999,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785582574,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-gen-dk-2026-08-01-game1",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 23470.561500000003,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785582575,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dk-2026-08-01-game1",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 3442.1433,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785582580,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-lgd-tes-2026-08-01",
+    "title": "LoL: LGD Gaming vs Top Esports (BO3) - LPL Group Ascend",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 2220.0,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785582582,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-lgd-tes-2026-08-01",
+    "title": "LoL: LGD Gaming vs Top Esports (BO3) - LPL Group Ascend",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 2088.7314,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785582592,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kumstat-nagal-2026-08-01",
+    "title": "Liberec: Jan Kumstat vs Sumit Nagal",
+    "outcome": "Jan Kumstat",
+    "side": "BUY",
+    "usd": 2635.591636,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785582625,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dk-2026-08-01-game1",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1860.0,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785582641,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dk-2026-08-01-game1",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1305.263157,
+    "odds_at_bet": 62,
+    "status": "pending"
   }
 ]
