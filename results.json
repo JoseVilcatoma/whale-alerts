@@ -58078,5 +58078,101 @@
     "usd": 1728.668571,
     "odds_at_bet": 72,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785589276,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-jdg-blg-2026-08-01-game1",
+    "title": "LoL: JD Gaming vs Bilibili Gaming - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 9092.3985,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785589301,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-faze-ts7-2026-08-01",
+    "title": "Counter-Strike: FaZe vs Spirit (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 5393.915800000001,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785589310,
+    "username": "VPenguin",
+    "wallet": "0xfbf3d501e88815464642d0e913f15379c3eeb218",
+    "slug": "lol-gen-dk-2026-08-01-game2",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "SELL",
+    "usd": 3236.7100499999997,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785589331,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-1win-og-2026-08-01-game2",
+    "title": "Dota 2: 1win vs OG - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 2089.6538,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785589349,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-1win-og-2026-08-01-game2",
+    "title": "Dota 2: 1win vs OG - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1010.3108,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785589349,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-1win-og-2026-08-01-game2",
+    "title": "Dota 2: 1win vs OG - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1173.8312,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785589349,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-1win-og-2026-08-01-game2",
+    "title": "Dota 2: 1win vs OG - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1432.9062000000001,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785589372,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-1win-og-2026-08-01-game2",
+    "title": "Dota 2: 1win vs OG - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 5078.92,
+    "odds_at_bet": 85,
+    "status": "pending"
   }
 ]
