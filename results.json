@@ -79258,5 +79258,17 @@
     "usd": 1208.7277490000001,
     "odds_at_bet": 78,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785621457,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-nyy-chc-2026-08-01-total-6pt5",
+    "title": "New York Yankees vs. Chicago Cubs: O/U 6.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1199.5500000000002,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]
