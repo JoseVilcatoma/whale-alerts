@@ -54454,5 +54454,77 @@
     "usd": 1256.86,
     "odds_at_bet": 98,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785583445,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dk-2026-08-01-game1",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 3774.4716,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785583446,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dk-2026-08-01-game1",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 1113.875,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785583468,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-cfc-tot-2026-08-01-draw",
+    "title": "Will Chelsea FC vs. Tottenham Hotspur end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1848.0,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785583468,
+    "username": "Spicer",
+    "wallet": "0x3954e1c6b7bc5645d9d3425a6f4490889ef122d9",
+    "slug": "lol-gen-dk-2026-08-01-game1",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 1999.9999979999998,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785583477,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-cfc-tot-2026-08-01-draw",
+    "title": "Will Chelsea FC vs. Tottenham Hotspur end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1145.7,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785583477,
+    "username": "Spicer",
+    "wallet": "0x3954e1c6b7bc5645d9d3425a6f4490889ef122d9",
+    "slug": "lol-gen-dk-2026-08-01-game1",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 1999.9999970000001,
+    "odds_at_bet": 71,
+    "status": "pending"
   }
 ]
