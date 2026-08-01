@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 08:04:02 (hora de Perú)
+Actualizado: 2026-08-01 08:06:48 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -12,21 +12,21 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | paquitomillonario | 6 | 0 | 0 | ⚠️ 100% (muestra chica: 6) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | jtwyslljy | 1 | 0 | 4 | ⚠️ 100% (muestra chica: 1) |
-| meoooow | 1 | 0 | 11 | ⚠️ 100% (muestra chica: 1) |
+| meoooow | 1 | 0 | 12 | ⚠️ 100% (muestra chica: 1) |
 | esportGG | 1 | 0 | 17 | ⚠️ 100% (muestra chica: 1) |
 | ninasuskevic | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | Djdjdjekekek | 93 | 11 | 4 | 89% |
 | cigarettes | 37 | 5 | 2 | 88% |
 | mooseborzoi | 15 | 2 | 2 | 88% |
-| swisstony | 479 | 99 | 63 | 83% |
-| RN1 | 702 | 348 | 52 | 67% |
+| swisstony | 479 | 99 | 65 | 83% |
+| RN1 | 702 | 348 | 56 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
-| ferrariChampions2026 | 779 | 521 | 244 | 60% |
+| ferrariChampions2026 | 779 | 521 | 245 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 8 | 59% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 149 | 106 | 119 | 58% |
-| HomeRunHazard | 48 | 43 | 14 | 53% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 149 | 106 | 121 | 58% |
+| HomeRunHazard | 48 | 43 | 15 | 53% |
 | wr0ngw4yb3tt0r | 67 | 65 | 7 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | pleaseplease123 | 21 | 28 | 0 | 43% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 26 | 35 | 6 | 43% |
 | humkyakare | 2 | 3 | 8 | ⚠️ 40% (muestra chica: 5) |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 3 | 5 | 5 | 38% |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 3 | 5 | 6 | 38% |
 | monkeymashingkeyboard | 7 | 12 | 8 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 0 | 34% |
 | one8tyfive | 2 | 6 | 1 | 25% |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 0 | 1 | — |
 | Spicer | 0 | 0 | 26 | — |
 | GoalLineGhost | 0 | 0 | 28 | — |
-| fkgggg2mouzfuria | 0 | 0 | 8 | — |
+| fkgggg2mouzfuria | 0 | 0 | 11 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 10 | — |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 0 | 0 | 1 | — |
 | VPenguin | 0 | 0 | 1 | — |
