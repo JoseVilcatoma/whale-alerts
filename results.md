@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 17:29:05 (hora de Perú)
+Actualizado: 2026-08-01 17:31:25 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -16,7 +16,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | surfandturf | 6 | 0 | 1 | ⚠️ 100% (muestra chica: 6) |
 | texaskid | 8 | 0 | 7 | 100% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 1 | 0 | 5 | ⚠️ 100% (muestra chica: 1) |
-| Djdjdjekekek | 109 | 13 | 23 | 89% |
+| Djdjdjekekek | 109 | 13 | 26 | 89% |
 | mooseborzoi | 15 | 2 | 44 | 88% |
 | Spicer | 26 | 4 | 0 | 87% |
 | cigarettes | 46 | 8 | 5 | 85% |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | UpTheBlues | 37 | 26 | 24 | 59% |
 | HomeRunHazard | 73 | 50 | 125 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 11 | 8 | 11 | 58% |
-| wr0ngw4yb3tt0r | 80 | 67 | 33 | 54% |
+| wr0ngw4yb3tt0r | 80 | 67 | 34 | 54% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
 | jtwyslljy | 4 | 4 | 2 | 50% |
