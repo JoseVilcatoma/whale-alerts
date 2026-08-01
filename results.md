@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 15:16:49 (hora de Perú)
+Actualizado: 2026-08-01 15:20:17 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -30,15 +30,15 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Fallout3 | 11 | 5 | 0 | 69% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 3 | 1 | 67% |
 | one8tyfive | 14 | 7 | 7 | 67% |
-| RN1 | 771 | 393 | 100 | 66% |
+| RN1 | 771 | 393 | 101 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 19 | 66% |
-| esportGG | 16 | 10 | 10 | 62% |
+| esportGG | 16 | 10 | 14 | 62% |
 | GoalLineGhost | 21 | 13 | 42 | 62% |
-| ferrariChampions2026 | 1051 | 688 | 223 | 60% |
+| ferrariChampions2026 | 1051 | 688 | 225 | 60% |
 | sbsigner | 26 | 17 | 4 | 60% |
 | fRibrenlc | 3 | 2 | 3 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
-| HomeRunHazard | 73 | 50 | 74 | 59% |
+| HomeRunHazard | 73 | 50 | 76 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 11 | 8 | 6 | 58% |
 | wr0ngw4yb3tt0r | 80 | 67 | 25 | 54% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 10 | 20 | 5 | 33% |
 | VPenguin | 4 | 12 | 8 | 25% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
-| PASSTHEMONEY | 5 | 33 | 22 | 13% |
+| PASSTHEMONEY | 5 | 33 | 23 | 13% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 9 | 13 | 10% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 13 | 6% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
