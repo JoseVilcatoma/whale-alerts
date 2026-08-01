@@ -69562,5 +69562,101 @@
     "usd": 1060.6499999999999,
     "odds_at_bet": 72,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785607457,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-gx-sk-2026-08-01",
+    "title": "LoL: GIANTX vs SK Gaming (BO3) - LEC Regular Season",
+    "outcome": "SK Gaming",
+    "side": "BUY",
+    "usd": 3144.6322200000004,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785607477,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-gx-sk-2026-08-01",
+    "title": "LoL: GIANTX vs SK Gaming (BO3) - LEC Regular Season",
+    "outcome": "SK Gaming",
+    "side": "BUY",
+    "usd": 2612.3350499999997,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785607482,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-gx-sk-2026-08-01",
+    "title": "LoL: GIANTX vs SK Gaming (BO3) - LEC Regular Season",
+    "outcome": "SK Gaming",
+    "side": "BUY",
+    "usd": 1172.11671,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785607497,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-gx-sk-2026-08-01",
+    "title": "LoL: GIANTX vs SK Gaming (BO3) - LEC Regular Season",
+    "outcome": "SK Gaming",
+    "side": "BUY",
+    "usd": 1074.58434,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785607507,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "ufc-mar12-ale15-2026-08-01",
+    "title": "UFC Fight Night: Marcin Tybura vs. Aleksandar Rakic (Heavyweight, Main Card)",
+    "outcome": "Aleksandar Rakic",
+    "side": "BUY",
+    "usd": 10410.8158,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785607507,
+    "username": "VPenguin",
+    "wallet": "0xfbf3d501e88815464642d0e913f15379c3eeb218",
+    "slug": "ufc-mar12-ale15-2026-08-01",
+    "title": "UFC Fight Night: Marcin Tybura vs. Aleksandar Rakic (Heavyweight, Main Card)",
+    "outcome": "Marcin Tybura",
+    "side": "BUY",
+    "usd": 3109.7242,
+    "odds_at_bet": 23,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785607513,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-vukic-barrios-2026-08-01",
+    "title": "Canadian Open, Qualification: Aleksandar Vukic vs Tomas Barrios",
+    "outcome": "Aleksandar Vukic",
+    "side": "BUY",
+    "usd": 1990.2960000000003,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785607528,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-mibr-shin-2026-08-01",
+    "title": "Counter-Strike: MIBR vs ShindeN (BO3) - StarLadder StarSeries South American Qualifier Playoffs",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 1011.7723000000001,
+    "odds_at_bet": 77,
+    "status": "pending"
   }
 ]

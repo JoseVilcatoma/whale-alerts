@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 13:01:11 (hora de Perú)
+Actualizado: 2026-08-01 13:05:34 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -12,7 +12,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | ninasuskevic | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
-| surfandturf | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
+| surfandturf | 4 | 0 | 1 | ⚠️ 100% (muestra chica: 4) |
 | texaskid | 8 | 0 | 3 | 100% |
 | mooseborzoi | 15 | 2 | 9 | 88% |
 | Djdjdjekekek | 100 | 13 | 10 | 88% |
@@ -25,11 +25,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 13 | 4 | 25 | 76% |
 | flatbarrel | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
 | us391 | 3 | 1 | 11 | ⚠️ 75% (muestra chica: 4) |
-| RN1 | 746 | 370 | 100 | 67% |
+| RN1 | 746 | 370 | 101 | 67% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 271 | 133 | 15 | 67% |
 | Talvez10 | 11 | 6 | 27 | 65% |
 | sbsigner | 26 | 16 | 5 | 62% |
-| ferrariChampions2026 | 979 | 646 | 186 | 60% |
+| ferrariChampions2026 | 979 | 646 | 187 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | HomeRunHazard | 65 | 46 | 39 | 59% |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | CentralCasting | 7 | 6 | 8 | 54% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
-| fkgggg2mouzfuria | 4 | 4 | 24 | 50% |
+| fkgggg2mouzfuria | 4 | 4 | 28 | 50% |
 | 1winstreak1 | 26 | 28 | 0 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | pleaseplease123 | 21 | 28 | 6 | 43% |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 4 | 8 | 7 | 33% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 8 | 19 | 3 | 30% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 1 | 3 | 5 | ⚠️ 25% (muestra chica: 4) |
-| VPenguin | 3 | 9 | 11 | 25% |
+| VPenguin | 3 | 9 | 12 | 25% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | PASSTHEMONEY | 5 | 29 | 17 | 15% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 9 | 4 | 10% |
