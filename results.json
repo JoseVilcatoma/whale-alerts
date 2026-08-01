@@ -48442,5 +48442,17 @@
     "usd": 1073.926395,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785564334,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-quevedo-jones-2026-08-01",
+    "title": "Targu Mures: Kaitlin Quevedo vs Francesca Jones",
+    "outcome": "Francesca Jones",
+    "side": "BUY",
+    "usd": 1664.9516,
+    "odds_at_bet": 52,
+    "status": "pending"
   }
 ]
