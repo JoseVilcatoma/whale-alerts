@@ -1,13 +1,13 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 10:33:34 (hora de Perú)
+Actualizado: 2026-08-01 10:37:09 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
 | Sparkling8899 | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| Talvez10 | 1 | 0 | 13 | ⚠️ 100% (muestra chica: 1) |
+| Talvez10 | 1 | 0 | 14 | ⚠️ 100% (muestra chica: 1) |
 | QuietRiskisWrong | 2 | 0 | 3 | ⚠️ 100% (muestra chica: 2) |
 | paquitomillonario | 6 | 0 | 0 | ⚠️ 100% (muestra chica: 6) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
@@ -21,15 +21,15 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mooseborzoi | 15 | 2 | 7 | 88% |
 | swisstony | 482 | 100 | 70 | 83% |
 | humkyakare | 7 | 3 | 3 | 70% |
-| RN1 | 715 | 357 | 93 | 67% |
+| RN1 | 715 | 357 | 95 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 111 | 63% |
-| ferrariChampions2026 | 844 | 552 | 280 | 60% |
+| ferrariChampions2026 | 844 | 552 | 289 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 9 | 59% |
-| HomeRunHazard | 52 | 43 | 31 | 55% |
-| wr0ngw4yb3tt0r | 67 | 65 | 21 | 51% |
+| HomeRunHazard | 52 | 43 | 33 | 55% |
+| wr0ngw4yb3tt0r | 67 | 65 | 22 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 4 | 4 | 4 | 50% |
@@ -37,10 +37,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Eztennis | 28 | 33 | 0 | 46% |
 | pleaseplease123 | 21 | 28 | 2 | 43% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 26 | 35 | 17 | 43% |
-| GoalLineGhost | 4 | 6 | 24 | 40% |
+| GoalLineGhost | 4 | 6 | 27 | 40% |
 | monkeymashingkeyboard | 7 | 12 | 9 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 0 | 34% |
-| one8tyfive | 2 | 6 | 9 | 25% |
+| one8tyfive | 2 | 6 | 10 | 25% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 3 | 10 | 13 | 23% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | PASSTHEMONEY | 1 | 16 | 22 | 6% |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 0 | 0 | 28 | — |
 | baws | 0 | 0 | 1 | — |
 | fkgggg2mouzfuria | 0 | 0 | 26 | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 10 | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 11 | — |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 0 | 0 | 1 | — |
 | VPenguin | 0 | 0 | 13 | — |
 | SDTrading | 0 | 0 | 1 | — |
