@@ -69214,5 +69214,77 @@
     "usd": 1003.8399979999999,
     "odds_at_bet": 77,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785606430,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "den-lyn-agf-2026-08-01-lyn",
+    "title": "Will Lyngby BK win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1177.4080000000001,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785606443,
+    "username": "Fallout3",
+    "wallet": "0x5ed5a5299060cdf83f009555cc0b8db3451df63a",
+    "slug": "btc-updown-5m-1785606600",
+    "title": "Bitcoin Up or Down - August 1, 1:50PM-1:55PM ET",
+    "outcome": "Up",
+    "side": "BUY",
+    "usd": 6008.7236,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785606443,
+    "username": "CentralCasting",
+    "wallet": "0x0feb1bf966bc7f954c2da0293ae2fdc572c5db5d",
+    "slug": "btc-updown-5m-1785606600",
+    "title": "Bitcoin Up or Down - August 1, 1:50PM-1:55PM ET",
+    "outcome": "Down",
+    "side": "BUY",
+    "usd": 3690.0,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785606511,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "den-lyn-agf-2026-08-01-draw",
+    "title": "Will Lyngby BK vs. Aarhus GF end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1584.72,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785606518,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-glyph-z10-2026-08-01",
+    "title": "Dota 2: GLYPH vs Zero Tenacity (BO3) - Games of the Future Group C",
+    "outcome": "GLYPH",
+    "side": "BUY",
+    "usd": 2431.275,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785606546,
+    "username": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+    "wallet": "0x1b20a00709dfe648afd26b326394b5e031f83ab0",
+    "slug": "ufc-du-rob19-2026-08-01",
+    "title": "UFC Fight Night: Du\u0161ko Todorovic vs. Robert Valentin (Middleweight, Main Card)",
+    "outcome": "Robert Valentin",
+    "side": "BUY",
+    "usd": 6010.54,
+    "odds_at_bet": 58,
+    "status": "pending"
   }
 ]

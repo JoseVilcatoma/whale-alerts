@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 12:46:54 (hora de Perú)
+Actualizado: 2026-08-01 12:49:44 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -18,7 +18,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 100 | 13 | 10 | 88% |
 | cigarettes | 46 | 7 | 4 | 87% |
 | Spicer | 24 | 4 | 2 | 86% |
-| Fallout3 | 11 | 2 | 2 | 85% |
+| Fallout3 | 11 | 2 | 3 | 85% |
 | swisstony | 495 | 107 | 64 | 82% |
 | jtwyslljy | 4 | 1 | 4 | ⚠️ 80% (muestra chica: 5) |
 | humkyakare | 11 | 3 | 2 | 79% |
@@ -29,16 +29,16 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 271 | 133 | 14 | 67% |
 | Talvez10 | 11 | 6 | 26 | 65% |
 | sbsigner | 26 | 16 | 5 | 62% |
-| ferrariChampions2026 | 979 | 646 | 178 | 60% |
+| ferrariChampions2026 | 979 | 646 | 179 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | HomeRunHazard | 65 | 46 | 37 | 59% |
 | one8tyfive | 10 | 7 | 5 | 59% |
-| GoalLineGhost | 18 | 13 | 37 | 58% |
+| GoalLineGhost | 18 | 13 | 39 | 58% |
 | esportGG | 10 | 8 | 11 | 56% |
 | meoooow | 6 | 5 | 10 | 55% |
 | wr0ngw4yb3tt0r | 79 | 67 | 13 | 54% |
-| CentralCasting | 7 | 6 | 5 | 54% |
+| CentralCasting | 7 | 6 | 6 | 54% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
 | fkgggg2mouzfuria | 4 | 4 | 24 | 50% |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 30 | 39 | 21 | 43% |
 | monkeymashingkeyboard | 7 | 12 | 9 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 0 | 34% |
-| 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 4 | 8 | 5 | 33% |
+| 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 4 | 8 | 6 | 33% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 8 | 19 | 3 | 30% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 1 | 3 | 5 | ⚠️ 25% (muestra chica: 4) |
 | VPenguin | 3 | 9 | 11 | 25% |
