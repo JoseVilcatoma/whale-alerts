@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 10:52:09 (hora de Perú)
+Actualizado: 2026-08-01 10:56:02 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -21,10 +21,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mooseborzoi | 15 | 2 | 7 | 88% |
 | swisstony | 482 | 100 | 70 | 83% |
 | humkyakare | 7 | 3 | 4 | 70% |
-| RN1 | 715 | 357 | 99 | 67% |
+| RN1 | 715 | 357 | 104 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 112 | 63% |
-| ferrariChampions2026 | 844 | 552 | 303 | 60% |
+| ferrariChampions2026 | 844 | 552 | 310 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 11 | 59% |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 1winstreak1 | 26 | 28 | 0 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | pleaseplease123 | 21 | 28 | 2 | 43% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 26 | 35 | 17 | 43% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 26 | 35 | 19 | 43% |
 | GoalLineGhost | 4 | 6 | 29 | 40% |
 | monkeymashingkeyboard | 7 | 12 | 9 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 0 | 34% |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | cruzNBA | 0 | 2 | 2 | ⚠️ 0% (muestra chica: 2) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
-| CentralCasting | 0 | 0 | 5 | — |
+| CentralCasting | 0 | 0 | 6 | — |
 | balthazar | 0 | 0 | 17 | — |
 | Bigggggggg | 0 | 0 | 11 | — |
 | Melody626 | 0 | 0 | 6 | — |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | unbribeableref | 0 | 0 | 3 | — |
 | ToeTickler98 | 0 | 0 | 5 | — |
 | us391 | 0 | 0 | 12 | — |
-| VeryLucky888 | 0 | 0 | 32 | — |
+| VeryLucky888 | 0 | 0 | 33 | — |
 | baws | 0 | 0 | 1 | — |
 | fkgggg2mouzfuria | 0 | 0 | 26 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 12 | — |
@@ -70,4 +70,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | plonker2026 | 0 | 0 | 2 | — |
 | surfandturf | 0 | 0 | 4 | — |
 | texaskid | 0 | 0 | 8 | — |
-| Fallout3 | 0 | 0 | 1 | — |
+| Fallout3 | 0 | 0 | 2 | — |
