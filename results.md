@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 17:38:29 (hora de Perú)
+Actualizado: 2026-08-01 17:40:51 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -20,7 +20,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mooseborzoi | 15 | 2 | 45 | 88% |
 | Spicer | 26 | 4 | 0 | 87% |
 | cigarettes | 46 | 8 | 5 | 85% |
-| swisstony | 502 | 108 | 94 | 82% |
+| swisstony | 502 | 108 | 99 | 82% |
 | flatbarrel | 4 | 1 | 2 | ⚠️ 80% (muestra chica: 5) |
 | humkyakare | 12 | 4 | 3 | 75% |
 | us391 | 3 | 1 | 12 | ⚠️ 75% (muestra chica: 4) |
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RN1 | 771 | 393 | 171 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 28 | 66% |
 | esportGG | 16 | 10 | 21 | 62% |
-| GoalLineGhost | 21 | 13 | 43 | 62% |
+| GoalLineGhost | 21 | 13 | 44 | 62% |
 | ferrariChampions2026 | 1051 | 688 | 330 | 60% |
 | sbsigner | 26 | 17 | 4 | 60% |
 | fRibrenlc | 3 | 2 | 5 | ⚠️ 60% (muestra chica: 5) |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | PASSTHEMONEY | 5 | 33 | 23 | 13% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 9 | 13 | 10% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 15 | 6% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 16 | 6% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | cruzNBA | 0 | 4 | 10 | ⚠️ 0% (muestra chica: 4) |
 | neurodivergentBet | 0 | 1 | 3 | ⚠️ 0% (muestra chica: 1) |
@@ -66,7 +66,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Winnerdinnerchickenjr | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | AV23IUa | 0 | 1 | 1 | ⚠️ 0% (muestra chica: 1) |
 | balthazar | 0 | 0 | 17 | — |
-| Bigggggggg | 0 | 0 | 11 | — |
+| Bigggggggg | 0 | 0 | 20 | — |
 | Melody626 | 0 | 0 | 6 | — |
 | AnonymousUsername | 0 | 0 | 18 | — |
 | unbribeableref | 0 | 0 | 3 | — |
