@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 16:37:36 (hora de Perú)
+Actualizado: 2026-08-01 16:39:45 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -31,10 +31,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 3 | 1 | 67% |
 | one8tyfive | 14 | 7 | 11 | 67% |
 | RN1 | 771 | 393 | 155 | 66% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 24 | 66% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 25 | 66% |
 | esportGG | 16 | 10 | 18 | 62% |
 | GoalLineGhost | 21 | 13 | 43 | 62% |
-| ferrariChampions2026 | 1051 | 688 | 296 | 60% |
+| ferrariChampions2026 | 1051 | 688 | 301 | 60% |
 | sbsigner | 26 | 17 | 4 | 60% |
 | fRibrenlc | 3 | 2 | 4 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 24 | 59% |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Talvez10 | 13 | 21 | 11 | 38% |
 | monkeymashingkeyboard | 7 | 12 | 13 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 3 | 34% |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 10 | 20 | 13 | 33% |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 10 | 20 | 14 | 33% |
 | VPenguin | 4 | 12 | 8 | 25% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | PASSTHEMONEY | 5 | 33 | 23 | 13% |
@@ -70,7 +70,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Melody626 | 0 | 0 | 6 | — |
 | AnonymousUsername | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
-| ToeTickler98 | 0 | 0 | 5 | — |
+| ToeTickler98 | 0 | 0 | 6 | — |
 | SDTrading | 0 | 0 | 1 | — |
 | Pwaddler | 0 | 0 | 5 | — |
 | plonker2026 | 0 | 0 | 3 | — |

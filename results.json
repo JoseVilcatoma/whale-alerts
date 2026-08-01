@@ -78550,5 +78550,101 @@
     "usd": 1726.5501490000001,
     "odds_at_bet": 33,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785620308,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "wta-joint-grubor-2026-08-01",
+    "title": "National Bank Open, Qualification: Maya Joint vs Ana Grubor",
+    "outcome": "Ana Grubor",
+    "side": "BUY",
+    "usd": 9000.0,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785620309,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-joint-grubor-2026-08-01",
+    "title": "National Bank Open, Qualification: Maya Joint vs Ana Grubor",
+    "outcome": "Maya Joint",
+    "side": "BUY",
+    "usd": 8211.47127,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785620309,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-joint-grubor-2026-08-01",
+    "title": "National Bank Open, Qualification: Maya Joint vs Ana Grubor",
+    "outcome": "Maya Joint",
+    "side": "BUY",
+    "usd": 5482.98527,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785620309,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-joint-grubor-2026-08-01",
+    "title": "National Bank Open, Qualification: Maya Joint vs Ana Grubor",
+    "outcome": "Maya Joint",
+    "side": "BUY",
+    "usd": 6442.27206,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785620318,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-nv2-fur-2026-08-01",
+    "title": "Valorant: Team Envy vs FURIA Esports (BO3) - VCT Americas Stage 2 Group Alpha",
+    "outcome": "FURIA Esports",
+    "side": "BUY",
+    "usd": 2050.2102,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785620318,
+    "username": "ToeTickler98",
+    "wallet": "0x866056133a70de9282a080758858d1a0c8b393ed",
+    "slug": "val-nv2-fur-2026-08-01",
+    "title": "Valorant: Team Envy vs FURIA Esports (BO3) - VCT Americas Stage 2 Group Alpha",
+    "outcome": "Team Envy",
+    "side": "BUY",
+    "usd": 2473.3566,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785620376,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-nv2-fur-2026-08-01-game1",
+    "title": "Valorant: Team Envy vs FURIA Esports - Map 1 Winner",
+    "outcome": "Team Envy",
+    "side": "BUY",
+    "usd": 1037.6584,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785620376,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-nv2-fur-2026-08-01-game1",
+    "title": "Valorant: Team Envy vs FURIA Esports - Map 1 Winner",
+    "outcome": "Team Envy",
+    "side": "BUY",
+    "usd": 1497.5192000000002,
+    "odds_at_bet": 76,
+    "status": "pending"
   }
 ]
