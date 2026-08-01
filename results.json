@@ -40618,5 +40618,29 @@
     "usd": 1249.9968,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785544646,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "wnba-dal-wsh-2026-07-31",
+    "title": "Dallas Wings vs. Washington Mystics",
+    "outcome": "Washington Mystics",
+    "side": "BUY",
+    "usd": 1952.879999,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785544729,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-stl-tor-2026-07-31",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 2750.719999,
+    "odds_at_bet": 46,
+    "status": "pending"
   }
 ]
