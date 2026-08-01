@@ -49234,5 +49234,89 @@
     "usd": 1500.0,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785568828,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 4335.174,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785568828,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 5448.4542,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785568828,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 4846.315,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785568858,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-zelinsk-milova-2026-08-01",
+    "title": "ITF Astana: Daria Zelinskaya vs Victoria Milovanova",
+    "outcome": "Daria Zelinskaya",
+    "side": "BUY",
+    "usd": 1000.0,
+    "odds_at_bet": 20,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785568879,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 1038.879,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785568879,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-norrie-shapova-2026-08-01",
+    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 1032.732,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785568915,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "ufc-den2-bog-2026-08-01",
+    "title": "UFC Fight Night: Dennis Buzukja vs. Bogdan Grad (Featherweight, Prelims)",
+    "outcome": "Bogdan Grad",
+    "side": "BUY",
+    "usd": 1159.6347,
+    "odds_at_bet": 63,
+    "status": "pending"
   }
 ]
