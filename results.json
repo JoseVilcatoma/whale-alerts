@@ -76702,5 +76702,101 @@
     "usd": 5493.768,
     "odds_at_bet": 53,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785617031,
+    "username": "Flipadelphia",
+    "wallet": "0x448861155279dbf833d041b963e3ac854599e319",
+    "slug": "arg-est-def-2026-08-01-spread-home-1pt5",
+    "title": "Spread: Estudiantes de La Plata (-1.5)",
+    "outcome": "CSyD Defensa y Justicia",
+    "side": "BUY",
+    "usd": 1175.7806999999998,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785617088,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-osaka-eala-2026-08-01",
+    "title": "Mubadala Citi DC Open: Naomi Osaka vs Alexandra Eala",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 6067.179999999999,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785617088,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "wta-osaka-eala-2026-08-01",
+    "title": "Mubadala Citi DC Open: Naomi Osaka vs Alexandra Eala",
+    "outcome": "Naomi Osaka",
+    "side": "BUY",
+    "usd": 9999.999999999998,
+    "odds_at_bet": 19,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785617088,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-osaka-eala-2026-08-01",
+    "title": "Mubadala Citi DC Open: Naomi Osaka vs Alexandra Eala",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 6322.860000000001,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785617088,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-osaka-eala-2026-08-01",
+    "title": "Mubadala Citi DC Open: Naomi Osaka vs Alexandra Eala",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 7874.7344,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785617088,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-osaka-eala-2026-08-01",
+    "title": "Mubadala Citi DC Open: Naomi Osaka vs Alexandra Eala",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 1645.1100000000001,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785617088,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-osaka-eala-2026-08-01",
+    "title": "Mubadala Citi DC Open: Naomi Osaka vs Alexandra Eala",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 9328.591800000002,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785617104,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-osaka-eala-2026-08-01",
+    "title": "Mubadala Citi DC Open: Naomi Osaka vs Alexandra Eala",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 1885.0488,
+    "odds_at_bet": 82,
+    "status": "pending"
   }
 ]
