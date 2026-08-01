@@ -61858,5 +61858,41 @@
     "usd": 2759.2565,
     "odds_at_bet": 77,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785596266,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-min-sea-2026-08-01-total-7pt5",
+    "title": "Minnesota Twins vs. Seattle Mariners: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 3070.819998,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785596317,
+    "username": "Melody626",
+    "wallet": "0xecaa8806a9a05049d7d5260a33dc924220e377a9",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "SELL",
+    "usd": 1267.5216,
+    "odds_at_bet": 24,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785596329,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-damm-rocha-2026-08-01",
+    "title": "Canadian Open, Qualification: Martin Damm vs Henrique Rocha",
+    "outcome": "Henrique Rocha",
+    "side": "BUY",
+    "usd": 2715.242456,
+    "odds_at_bet": 36,
+    "status": "pending"
   }
 ]

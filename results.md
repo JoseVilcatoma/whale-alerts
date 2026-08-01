@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 09:55:49 (hora de Perú)
+Actualizado: 2026-08-01 09:58:52 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RN1 | 715 | 357 | 62 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 112 | 104 | 63% |
-| ferrariChampions2026 | 844 | 552 | 231 | 60% |
+| ferrariChampions2026 | 844 | 552 | 233 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 9 | 59% |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | CentralCasting | 0 | 0 | 3 | — |
 | balthazar | 0 | 0 | 17 | — |
 | Bigggggggg | 0 | 0 | 11 | — |
-| Melody626 | 0 | 0 | 5 | — |
+| Melody626 | 0 | 0 | 6 | — |
 | neurodivergentBet | 0 | 0 | 4 | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 9 | — |
 | AnonymousUsername | 0 | 0 | 4 | — |
