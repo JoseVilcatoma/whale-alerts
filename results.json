@@ -41878,5 +41878,65 @@
     "usd": 2084.1216,
     "odds_at_bet": 64,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785546769,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-stl-tor-2026-07-31",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 1003.0105549999998,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785546769,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "mlb-stl-tor-2026-07-31",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 1149.9999990000001,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785546773,
+    "username": "flatbarrel",
+    "wallet": "0x6485f47d0344c03eb4340f985159f6eb2dcba265",
+    "slug": "wta-vidmano-volynet-2026-07-31",
+    "title": "The Memphis Classic: Darja Vidmanova vs Katie Volynets",
+    "outcome": "Darja Vidmanova",
+    "side": "BUY",
+    "usd": 3094.2108000000003,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785546879,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-tabilo-shelton-2026-07-31",
+    "title": "Mubadala Citi DC Open: Alejandro Tabilo vs Ben Shelton",
+    "outcome": "Alejandro Tabilo",
+    "side": "BUY",
+    "usd": 1299.9999990000001,
+    "odds_at_bet": 24,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785546890,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-nyc-tor-2026-07-31-total-3pt5",
+    "title": "New York City FC vs. Toronto FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1030.1904,
+    "odds_at_bet": 81,
+    "status": "pending"
   }
 ]
