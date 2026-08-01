@@ -39622,5 +39622,29 @@
     "usd": 1015.1505000000001,
     "odds_at_bet": 67,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785542376,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-ari-cle-2026-07-31",
+    "title": "Arizona Diamondbacks vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 1436.9964000000002,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785542383,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-ari-cle-2026-07-31",
+    "title": "Arizona Diamondbacks vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 1999.9956000000002,
+    "odds_at_bet": 68,
+    "status": "pending"
   }
 ]
