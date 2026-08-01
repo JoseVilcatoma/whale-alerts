@@ -57814,5 +57814,101 @@
     "usd": 3080.0,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785588712,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "swe-hac-kal-2026-08-01-total-2pt5",
+    "title": "BK Hacken vs. Kalmar FF: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1850.0,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785588720,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-gombos-bueno-2026-08-01",
+    "title": "Liberec: Norbert Gombos vs Gonzalo Bueno",
+    "outcome": "Gonzalo Bueno",
+    "side": "BUY",
+    "usd": 3742.2400000000002,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785588742,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-1win-og-2026-08-01-game2",
+    "title": "Dota 2: 1win vs OG - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 9999.999998,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785588820,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-jdg-blg-2026-08-01-game1",
+    "title": "LoL: JD Gaming vs Bilibili Gaming - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 6397.97562,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785588830,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-1win-og-2026-08-01-game2",
+    "title": "Dota 2: 1win vs OG - Game 2 Winner",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 1301.5161,
+    "odds_at_bet": 27,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785588832,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "chi-jin-yun-2026-08-01-draw",
+    "title": "Will Tianjin Jinmen Hu FC vs. Yunnan Yukun FC end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 4395.0,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785588835,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01",
+    "title": "Counter-Strike: FaZe vs Spirit (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 8747.430499999999,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785588842,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-faze-ts7-2026-08-01",
+    "title": "Counter-Strike: FaZe vs Spirit (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 33191.7531,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
