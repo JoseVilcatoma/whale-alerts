@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 00:36:08 (hora de Perú)
+Actualizado: 2026-08-01 00:38:27 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -11,9 +11,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 93 | 10 | 2 | 90% |
 | cigarettes | 37 | 5 | 0 | 88% |
 | swisstony | 413 | 80 | 107 | 84% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 1 | 37 | ⚠️ 75% (muestra chica: 4) |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 1 | 41 | ⚠️ 75% (muestra chica: 4) |
 | mooseborzoi | 5 | 2 | 10 | ⚠️ 71% (muestra chica: 7) |
-| RN1 | 588 | 270 | 125 | 69% |
+| RN1 | 588 | 270 | 129 | 69% |
 | HomeRunHazard | 9 | 5 | 65 | 64% |
 | ferrariChampions2026 | 707 | 461 | 88 | 61% |
 | UpTheBlues | 36 | 25 | 24 | 59% |
@@ -47,5 +47,5 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | AnonymousUsername | 0 | 0 | 1 | — |
 | unbribeableref | 0 | 0 | 2 | — |
 | IamFKINGbankrupt | 0 | 0 | 1 | — |
-| jtwyslljy | 0 | 0 | 1 | — |
+| jtwyslljy | 0 | 0 | 2 | — |
 | humkyakare | 0 | 0 | 2 | — |
