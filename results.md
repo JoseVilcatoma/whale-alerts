@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 08:12:31 (hora de Perú)
+Actualizado: 2026-08-01 08:15:25 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -21,11 +21,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 479 | 99 | 66 | 83% |
 | RN1 | 702 | 348 | 59 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
-| ferrariChampions2026 | 779 | 521 | 259 | 60% |
+| ferrariChampions2026 | 779 | 521 | 261 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
 | sbsigner | 20 | 14 | 8 | 59% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 149 | 106 | 123 | 58% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 149 | 106 | 126 | 58% |
 | HomeRunHazard | 48 | 43 | 15 | 53% |
 | wr0ngw4yb3tt0r | 67 | 65 | 7 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 3 | 5 | 6 | 38% |
 | monkeymashingkeyboard | 7 | 12 | 8 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 0 | 34% |
-| one8tyfive | 2 | 6 | 1 | 25% |
+| one8tyfive | 2 | 6 | 2 | 25% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | PASSTHEMONEY | 1 | 13 | 21 | 7% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 15 | 0 | 6% |

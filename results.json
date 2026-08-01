@@ -58666,5 +58666,77 @@
     "usd": 8288.74,
     "odds_at_bet": 23,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785589966,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01",
+    "title": "Counter-Strike: FaZe vs Spirit (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1433.3641,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785589966,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01",
+    "title": "Counter-Strike: FaZe vs Spirit (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 3916.1009999999997,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785589969,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-ns-fox1-2026-08-01-game2",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 4995.0,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785589972,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-faze-ts7-2026-08-01",
+    "title": "Counter-Strike: FaZe vs Spirit (BO3) - BLAST Bounty Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 8099.988000000001,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785589984,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-jdg-blg-2026-08-01-game2",
+    "title": "LoL: JD Gaming vs Bilibili Gaming - Game 2 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 5008.344000000001,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785590019,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "atp-gombos-bueno-2026-08-01",
+    "title": "Liberec: Norbert Gombos vs Gonzalo Bueno",
+    "outcome": "Gonzalo Bueno",
+    "side": "BUY",
+    "usd": 1711.8,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]
