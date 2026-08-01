@@ -50350,5 +50350,29 @@
     "usd": 6294.9988,
     "odds_at_bet": 92,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785574939,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-ns-fox1-2026-08-01-game2",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 1975.01,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785574947,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-miyoshi-kouzmin-2026-08-01",
+    "title": "Samsun: Kenta Miyoshi vs Constantin Bittoun Kouzmine",
+    "outcome": "Kenta Miyoshi",
+    "side": "BUY",
+    "usd": 2554.109133,
+    "odds_at_bet": 91,
+    "status": "pending"
   }
 ]
