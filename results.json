@@ -47098,5 +47098,17 @@
     "usd": 4269.230769000001,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785558073,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-wong-gea-2026-08-01",
+    "title": "Los Cabos Open: Coleman Wong vs Arthur Gea",
+    "outcome": "Arthur Gea",
+    "side": "BUY",
+    "usd": 1562.0,
+    "odds_at_bet": 71,
+    "status": "pending"
   }
 ]
