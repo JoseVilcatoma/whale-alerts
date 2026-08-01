@@ -57790,5 +57790,29 @@
     "usd": 1355.9996,
     "odds_at_bet": 67,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785588666,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01",
+    "title": "Counter-Strike: FaZe vs Spirit (BO3) - BLAST Bounty Playoffs",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 5173.823600000001,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785588682,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01",
+    "title": "Counter-Strike: FaZe vs Spirit (BO3) - BLAST Bounty Playoffs",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 3080.0,
+    "odds_at_bet": 44,
+    "status": "pending"
   }
 ]
