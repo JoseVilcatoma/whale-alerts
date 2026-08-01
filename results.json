@@ -42406,5 +42406,65 @@
     "usd": 2879.9999980000002,
     "odds_at_bet": 98,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785547718,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-cws-tb-2026-07-31-total-7pt5",
+    "title": "Chicago White Sox vs. Tampa Bay Rays: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 4052.61,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785547749,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-tor-2026-07-31",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 3933.8824,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785547749,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-stl-tor-2026-07-31",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 1454.9976000000001,
+    "odds_at_bet": 27,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785547781,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-ari-cle-2026-07-31-total-6pt5",
+    "title": "Arizona Diamondbacks vs. Cleveland Guardians: O/U 6.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2178.0,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785547805,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-eg2-mibr-2026-07-31",
+    "title": "Valorant: Evil Geniuses vs MIBR (BO3) - VCT Americas Stage 2 Group Alpha",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 1120.5333329999999,
+    "odds_at_bet": 88,
+    "status": "pending"
   }
 ]
