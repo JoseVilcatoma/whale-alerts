@@ -77998,5 +77998,77 @@
     "usd": 1999.9999990000001,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785619134,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-stl-tor-2026-08-01",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 1843.34,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619152,
+    "username": "fazewinline",
+    "wallet": "0x1d3567ad67b1f054160f9d560ca3817038cc94ee",
+    "slug": "lol-c9-dig-2026-08-01",
+    "title": "LoL: Cloud9 vs Dignitas (BO3) - LCS Regular Season",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 5999.999998,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619152,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-c9-dig-2026-08-01",
+    "title": "LoL: Cloud9 vs Dignitas (BO3) - LCS Regular Season",
+    "outcome": "Dignitas",
+    "side": "BUY",
+    "usd": 1062.18315,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619175,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "mlb-stl-tor-2026-08-01",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 2132.0799979999997,
+    "odds_at_bet": 95,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619233,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-faria-oconnel-2026-08-01",
+    "title": "Canadian Open, Qualification: Jaime Faria vs Christopher O'Connell",
+    "outcome": "Christopher O'Connell",
+    "side": "BUY",
+    "usd": 1689.0722329999999,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619240,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-sawangk-sramkov-2026-08-01",
+    "title": "National Bank Open, Qualification: Mananchaya Sawangkaew vs Rebecca Sramkova",
+    "outcome": "Rebecca Sramkova",
+    "side": "BUY",
+    "usd": 3344.11,
+    "odds_at_bet": 43,
+    "status": "pending"
   }
 ]
