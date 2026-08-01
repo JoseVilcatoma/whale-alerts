@@ -52846,5 +52846,89 @@
     "usd": 3961.6004,
     "odds_at_bet": 82,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785579351,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-ns-fox1-2026-08-01",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 1094.9752,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785579354,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-ns-fox1-2026-08-01",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 3559.3266,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785579360,
+    "username": "humkyakare",
+    "wallet": "0x32d21c404498db353bd2bc47b5a35e7256908850",
+    "slug": "lol-ns-fox1-2026-08-01",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "SELL",
+    "usd": 1499.4,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785579361,
+    "username": "humkyakare",
+    "wallet": "0x32d21c404498db353bd2bc47b5a35e7256908850",
+    "slug": "lol-ns-fox1-2026-08-01",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "SELL",
+    "usd": 1598.1770980000001,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785579391,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-lgd-tes-2026-08-01-game2",
+    "title": "LoL: LGD Gaming vs Top Esports - Game 2 Winner",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 1207.235,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785579400,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-tok-bvb-2026-08-01-total-2pt5",
+    "title": "FC Tokyo vs. Borussia Dortmund: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1604.88,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785579405,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-tok-bvb-2026-08-01-total-2pt5",
+    "title": "FC Tokyo vs. Borussia Dortmund: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1535.6909000000003,
+    "odds_at_bet": 53,
+    "status": "pending"
   }
 ]
