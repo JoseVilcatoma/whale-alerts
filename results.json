@@ -53458,5 +53458,29 @@
     "usd": 1262.8110000000001,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785581092,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-hruncak-rajecki-2026-08-01",
+    "title": "ITF Dublin: Viktoria Hruncakova vs Amelia Rajecki",
+    "outcome": "Amelia Rajecki",
+    "side": "BUY",
+    "usd": 4915.2626,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785581123,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "chi-bgu-zhe-2026-08-01-total-4pt5",
+    "title": "Beijing Guoan FC vs. Zhejiang Zhiye FC: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1524.0024,
+    "odds_at_bet": 68,
+    "status": "pending"
   }
 ]
