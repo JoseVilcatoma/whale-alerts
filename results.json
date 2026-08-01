@@ -53218,5 +53218,29 @@
     "usd": 1470.9917000000003,
     "odds_at_bet": 67,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785580210,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-blinkov-kalieva-2026-08-01",
+    "title": "National Bank Open, Qualification: Anna Blinkova vs Elvina Kalieva",
+    "outcome": "Anna Blinkova",
+    "side": "BUY",
+    "usd": 1247.6516,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785580210,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "wta-blinkov-kalieva-2026-08-01",
+    "title": "National Bank Open, Qualification: Anna Blinkova vs Elvina Kalieva",
+    "outcome": "Elvina Kalieva",
+    "side": "BUY",
+    "usd": 1950.1583999999998,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
