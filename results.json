@@ -81778,5 +81778,65 @@
     "usd": 1063.0002,
     "odds_at_bet": 46,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785625107,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-tex-hou-2026-08-01",
+    "title": "Texas Rangers vs. Houston Astros",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "usd": 8870.131399999998,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785625111,
+    "username": "QuietRiskisWrong",
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "slug": "israel-x-iran-ceasefire-continues-through-august-2-20260727170555149",
+    "title": "Israel x Iran ceasefire continues through August 2?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1421.0,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785625138,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-ts7-mouz-2026-08-02-map-handicap-away-2pt5",
+    "title": "Map Handicap: TS (-2.5) vs MOUZ (+2.5)",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 1356.8519999999999,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785625140,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-ts7-mouz-2026-08-02-total-games-3pt5",
+    "title": "Games Total: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1177.5552,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785625153,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-nv2-fur-2026-08-01-game2",
+    "title": "Valorant: Team Envy vs FURIA Esports - Map 2 Winner",
+    "outcome": "Team Envy",
+    "side": "BUY",
+    "usd": 1072.6695,
+    "odds_at_bet": 45,
+    "status": "pending"
   }
 ]
