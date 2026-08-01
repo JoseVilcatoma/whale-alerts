@@ -78070,5 +78070,65 @@
     "usd": 3344.11,
     "odds_at_bet": 43,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785619256,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-c9-dig-2026-08-01-game2",
+    "title": "LoL: Cloud9 vs Dignitas - Game 2 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 2000.0,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619278,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-c9-dig-2026-08-01-game2",
+    "title": "LoL: Cloud9 vs Dignitas - Game 2 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 2000.0400000000002,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619278,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-c9-dig-2026-08-01-game2",
+    "title": "LoL: Cloud9 vs Dignitas - Game 2 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 1541.488,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619282,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-cws-tb-2026-08-01",
+    "title": "Chicago White Sox vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 1280.3899999999999,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785619334,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-stl-tor-2026-08-01",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 1181.7301,
+    "odds_at_bet": 97,
+    "status": "pending"
   }
 ]
