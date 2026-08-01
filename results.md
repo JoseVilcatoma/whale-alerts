@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 15:47:27 (hora de Perú)
+Actualizado: 2026-08-01 15:51:15 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -17,10 +17,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | texaskid | 8 | 0 | 4 | 100% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 1 | 0 | 5 | ⚠️ 100% (muestra chica: 1) |
 | Djdjdjekekek | 109 | 13 | 16 | 89% |
-| mooseborzoi | 15 | 2 | 35 | 88% |
+| mooseborzoi | 15 | 2 | 36 | 88% |
 | Spicer | 26 | 4 | 0 | 87% |
 | cigarettes | 46 | 8 | 4 | 85% |
-| swisstony | 502 | 108 | 82 | 82% |
+| swisstony | 502 | 108 | 83 | 82% |
 | flatbarrel | 4 | 1 | 2 | ⚠️ 80% (muestra chica: 5) |
 | humkyakare | 12 | 4 | 3 | 75% |
 | us391 | 3 | 1 | 12 | ⚠️ 75% (muestra chica: 4) |
@@ -34,18 +34,18 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 21 | 66% |
 | esportGG | 16 | 10 | 14 | 62% |
 | GoalLineGhost | 21 | 13 | 42 | 62% |
-| ferrariChampions2026 | 1051 | 688 | 252 | 60% |
+| ferrariChampions2026 | 1051 | 688 | 253 | 60% |
 | sbsigner | 26 | 17 | 4 | 60% |
 | fRibrenlc | 3 | 2 | 4 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
-| HomeRunHazard | 73 | 50 | 92 | 59% |
+| HomeRunHazard | 73 | 50 | 94 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 11 | 8 | 6 | 58% |
-| wr0ngw4yb3tt0r | 80 | 67 | 26 | 54% |
+| wr0ngw4yb3tt0r | 80 | 67 | 27 | 54% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
 | jtwyslljy | 4 | 4 | 2 | 50% |
 | 1winstreak1 | 26 | 28 | 5 | 48% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 41 | 45 | 27 | 48% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 41 | 45 | 28 | 48% |
 | meoooow | 10 | 11 | 0 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | pleaseplease123 | 21 | 28 | 15 | 43% |
