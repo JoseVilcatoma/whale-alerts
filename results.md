@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-07-31 19:02:18 (hora de Perú)
+Actualizado: 2026-07-31 19:04:28 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -14,7 +14,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RN1 | 515 | 233 | 101 | 69% |
 | UpTheBlues | 29 | 16 | 40 | 64% |
 | sbsigner | 17 | 10 | 3 | 63% |
-| ferrariChampions2026 | 594 | 373 | 148 | 61% |
+| ferrariChampions2026 | 594 | 373 | 151 | 61% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 134 | 91 | 17 | 60% |
 | mooseborzoi | 3 | 2 | 4 | ⚠️ 60% (muestra chica: 5) |
 | BreakTheBank | 4 | 3 | 2 | ⚠️ 57% (muestra chica: 7) |
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | wr0ngw4yb3tt0r | 20 | 31 | 19 | 39% |
 | 1winstreak1 | 9 | 14 | 0 | 39% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 9 | 9 | 31% |
-| PASSTHEMONEY | 1 | 5 | 7 | ⚠️ 17% (muestra chica: 6) |
+| PASSTHEMONEY | 1 | 5 | 8 | ⚠️ 17% (muestra chica: 6) |
 | pleaseplease123 | 2 | 15 | 28 | 12% |
 | monkeymashingkeyboard | 1 | 11 | 7 | 8% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
