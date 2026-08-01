@@ -77866,5 +77866,77 @@
     "usd": 1890.0,
     "odds_at_bet": 63,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785618893,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-vidmano-zarazua-2026-08-01",
+    "title": "The Memphis Classic: Darja Vidmanova vs Renata Zarazua",
+    "outcome": "Darja Vidmanova",
+    "side": "BUY",
+    "usd": 4010.0996999999998,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785618931,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-vidmano-zarazua-2026-08-01",
+    "title": "The Memphis Classic: Darja Vidmanova vs Renata Zarazua",
+    "outcome": "Darja Vidmanova",
+    "side": "BUY",
+    "usd": 1410.5,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785618967,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "brco-vas-flu-2026-08-01-vas",
+    "title": "Will CR Vasco da Gama win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1092.63,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785618979,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-tsitsip-rice-2026-08-01",
+    "title": "Canadian Open, Qualification: Stefanos Tsitsipas vs Keegan Rice",
+    "outcome": "Stefanos Tsitsipas",
+    "side": "BUY",
+    "usd": 2054.6068800000003,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785618992,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-tsitsip-rice-2026-08-01",
+    "title": "Canadian Open, Qualification: Stefanos Tsitsipas vs Keegan Rice",
+    "outcome": "Stefanos Tsitsipas",
+    "side": "BUY",
+    "usd": 1799.581333,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785618997,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-inglis-preston-2026-08-01",
+    "title": "Vancouver: Maddison Inglis vs Taylah Preston",
+    "outcome": "Taylah Preston",
+    "side": "BUY",
+    "usd": 2132.28,
+    "odds_at_bet": 50,
+    "status": "pending"
   }
 ]
