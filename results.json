@@ -48166,5 +48166,17 @@
     "usd": 2811.7650000000003,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785563072,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-midas3-tr7-2026-08-01-game1",
+    "title": "Dota 2: Midas Club vs Team Resilience - Game 1 Winner",
+    "outcome": "Team Resilience",
+    "side": "BUY",
+    "usd": 1275.7888,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]
