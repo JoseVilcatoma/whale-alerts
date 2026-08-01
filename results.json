@@ -55054,5 +55054,53 @@
     "usd": 1050.0,
     "odds_at_bet": 21,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785584085,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-lgd-tes-2026-08-01",
+    "title": "LoL: LGD Gaming vs Top Esports (BO3) - LPL Group Ascend",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 1971.15687,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785584161,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-lgd-tes-2026-08-01",
+    "title": "LoL: LGD Gaming vs Top Esports (BO3) - LPL Group Ascend",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 1998.0,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785584167,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-lgd-tes-2026-08-01",
+    "title": "LoL: LGD Gaming vs Top Esports (BO3) - LPL Group Ascend",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 1064.934,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785584176,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dk-2026-08-01-game1",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 3635.84,
+    "odds_at_bet": 92,
+    "status": "pending"
   }
 ]
