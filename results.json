@@ -43942,5 +43942,101 @@
     "usd": 6188.3184,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785550555,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-asl-tij-2026-07-31-asl",
+    "title": "Will Atl\u00e9tico San Luis win on 2026-07-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2100.999999,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550555,
+    "username": "kluckkluck",
+    "wallet": "0x0cbee43106c8949af8d04162425e482dade51f4e",
+    "slug": "mex-asl-tij-2026-07-31-asl",
+    "title": "Will Atl\u00e9tico San Luis win on 2026-07-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1650.7857139999999,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550620,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bos-lad-2026-07-31-total-7pt5",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2246.39,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550620,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bos-lad-2026-07-31-total-7pt5",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1000.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550639,
+    "username": "kluckkluck",
+    "wallet": "0x0cbee43106c8949af8d04162425e482dade51f4e",
+    "slug": "mex-asl-tij-2026-07-31-asl",
+    "title": "Will Atl\u00e9tico San Luis win on 2026-07-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1414.285714,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550708,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-tex-hou-2026-07-31",
+    "title": "Texas Rangers vs. Houston Astros",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "usd": 1227.985512,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550727,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-det-oak-2026-07-31-total-10pt5",
+    "title": "Detroit Tigers vs. Athletics: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 4976.882400000001,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785550727,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-det-oak-2026-07-31-total-10pt5",
+    "title": "Detroit Tigers vs. Athletics: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 3910.4076000000005,
+    "odds_at_bet": 44,
+    "status": "pending"
   }
 ]
