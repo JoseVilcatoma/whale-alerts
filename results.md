@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 06:59:00 (hora de Perú)
+Actualizado: 2026-08-01 07:01:28 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -20,11 +20,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 479 | 98 | 54 | 83% |
 | RN1 | 676 | 328 | 89 | 67% |
 | flatbarrel | 2 | 1 | 0 | ⚠️ 67% (muestra chica: 3) |
-| ferrariChampions2026 | 760 | 512 | 199 | 60% |
+| ferrariChampions2026 | 760 | 512 | 203 | 60% |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 22 | 59% |
-| sbsigner | 20 | 14 | 5 | 59% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 106 | 90 | 58% |
+| sbsigner | 20 | 14 | 6 | 59% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 106 | 91 | 58% |
 | HomeRunHazard | 46 | 37 | 13 | 55% |
 | wr0ngw4yb3tt0r | 67 | 65 | 7 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -55,10 +55,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 0 | 0 | 5 | — |
 | us391 | 0 | 0 | 5 | — |
 | meoooow | 0 | 0 | 9 | — |
-| esportGG | 0 | 0 | 11 | — |
+| esportGG | 0 | 0 | 12 | — |
 | VeryLucky888 | 0 | 0 | 9 | — |
 | baws | 0 | 0 | 1 | — |
 | Spicer | 0 | 0 | 22 | — |
 | GoalLineGhost | 0 | 0 | 17 | — |
 | fkgggg2mouzfuria | 0 | 0 | 5 | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 3 | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 5 | — |

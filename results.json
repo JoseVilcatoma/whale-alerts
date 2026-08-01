@@ -55858,5 +55858,113 @@
     "usd": 2164.00383,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785585545,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01-game2",
+    "title": "Counter-Strike: FaZe vs Spirit - Map 2 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1016.666666,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785585552,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01-game2",
+    "title": "Counter-Strike: FaZe vs Spirit - Map 2 Winner",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 2670.5,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785585568,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "lol-gen-dk-2026-08-01",
+    "title": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 3576.9564,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785585595,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-jdg-blg-2026-08-01-game1",
+    "title": "LoL: JD Gaming vs Bilibili Gaming - Game 1 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 6044.4800000000005,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785585597,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-faze-ts7-2026-08-01-game2",
+    "title": "Counter-Strike: FaZe vs Spirit - Map 2 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1501.993653,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785585633,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-gen-dk-2026-08-01-game2",
+    "title": "LoL: Gen.G vs Dplus KIA - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 4649.4366,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785585647,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-1win-og-2026-08-01-game1",
+    "title": "Dota 2: 1win vs OG - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1000.0,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785585658,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-1win-og-2026-08-01-game1",
+    "title": "Dota 2: 1win vs OG - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1000.0,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785585680,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-enjoy-yb1-2026-08-01-game1",
+    "title": "Dota 2: Enjoy vs Yakult Brothers - Game 1 Winner",
+    "outcome": "Yakult Brothers",
+    "side": "BUY",
+    "usd": 1415.6901,
+    "odds_at_bet": 87,
+    "status": "pending"
   }
 ]
