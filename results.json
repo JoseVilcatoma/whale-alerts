@@ -107194,5 +107194,101 @@
     "usd": 1659.627692,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785686003,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-sk-g2-2026-08-02-game1",
+    "title": "LoL: SK Gaming vs G2 Esports - Game 1 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 1254.3044399999999,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785686026,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "chi1-cd1-cuc-2026-08-02-cuc",
+    "title": "Will CD Universidad Cat\u00f3lica win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2200.0,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785686039,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "wta-pegula-eala-2026-08-02",
+    "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "usd": 46500.0,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785686044,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-sk-g2-2026-08-02-game1",
+    "title": "LoL: SK Gaming vs G2 Esports - Game 1 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 3372.76386,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785686050,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-sk-g2-2026-08-02-game1",
+    "title": "LoL: SK Gaming vs G2 Esports - Game 1 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 1869.85827,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785686080,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "nor-aal-tro-2026-08-02-tro",
+    "title": "Will Troms\u00f8 IL win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1470.9996,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785686080,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "nor-aal-tro-2026-08-02-tro",
+    "title": "Will Troms\u00f8 IL win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1459.0013999999999,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785686080,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "nor-aal-tro-2026-08-02-tro",
+    "title": "Will Troms\u00f8 IL win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1102.124,
+    "odds_at_bet": 40,
+    "status": "pending"
   }
 ]
