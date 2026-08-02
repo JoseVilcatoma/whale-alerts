@@ -98638,5 +98638,17 @@
     "usd": 1999.9999990000003,
     "odds_at_bet": 52,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785672325,
+    "username": "jtwyslljy",
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 4300.0,
+    "odds_at_bet": 43,
+    "status": "pending"
   }
 ]
