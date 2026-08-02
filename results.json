@@ -88294,5 +88294,65 @@
     "usd": 1691.4896999999999,
     "odds_at_bet": 53,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785634025,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-dcu-nas-2026-08-01-nas",
+    "title": "Will Nashville SC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1739.6695,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785634118,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-mim-ner-2026-08-01-ner",
+    "title": "Will New England Revolution win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1949.9098999999999,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785634124,
+    "username": "Flipadelphia",
+    "wallet": "0x448861155279dbf833d041b963e3ac854599e319",
+    "slug": "mls-col-aus-2026-08-01-col",
+    "title": "Will Colorado Rapids SC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2249.9325000000003,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785634176,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-dcu-nas-2026-08-01-nas",
+    "title": "Will Nashville SC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1760.0,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785634192,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-wsh-atl-2026-08-01-spread-home-5pt5",
+    "title": "Spread: Atlanta Braves (-5.5)",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 2425.3,
+    "odds_at_bet": 79,
+    "status": "pending"
   }
 ]

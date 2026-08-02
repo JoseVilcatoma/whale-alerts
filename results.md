@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 20:26:42 (hora de Perú)
+Actualizado: 2026-08-01 20:30:13 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -30,10 +30,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Fallout3 | 11 | 5 | 0 | 69% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 3 | 5 | 67% |
 | one8tyfive | 14 | 7 | 21 | 67% |
-| RN1 | 771 | 393 | 236 | 66% |
+| RN1 | 771 | 393 | 237 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 52 | 66% |
 | esportGG | 16 | 10 | 21 | 62% |
-| GoalLineGhost | 21 | 13 | 124 | 62% |
+| GoalLineGhost | 21 | 13 | 127 | 62% |
 | ferrariChampions2026 | 1051 | 688 | 469 | 60% |
 | sbsigner | 26 | 17 | 12 | 60% |
 | fRibrenlc | 3 | 2 | 7 | ⚠️ 60% (muestra chica: 5) |
@@ -77,7 +77,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | THEdirkdiggler | 0 | 0 | 3 | — |
 | matenghehe | 0 | 0 | 8 | — |
 | StasPanda | 0 | 0 | 5 | — |
-| Flipadelphia | 0 | 0 | 12 | — |
+| Flipadelphia | 0 | 0 | 13 | — |
 | BirdMan. | 0 | 0 | 2 | — |
 | LeatherPants | 0 | 0 | 1 | — |
 | olivermoon1 | 0 | 0 | 1 | — |
