@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 06:46:43 (hora de Perú)
+Actualizado: 2026-08-02 06:49:55 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 26 | 4 | 7 | 87% |
 | cigarettes | 51 | 8 | 0 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
-| swisstony | 603 | 130 | 63 | 82% |
+| swisstony | 603 | 130 | 64 | 82% |
 | fRibrenlc | 12 | 3 | 2 | 80% |
 | mooseborzoi | 63 | 19 | 0 | 77% |
 | fkgggg2mouzfuria | 34 | 10 | 38 | 77% |
@@ -33,19 +33,19 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 915 | 481 | 50 | 66% |
+| RN1 | 915 | 481 | 52 | 66% |
 | esportGG | 31 | 16 | 28 | 66% |
 | cruzNBA | 11 | 6 | 4 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 13 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 6 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 7 | 64% |
 | VeryLucky888 | 48 | 27 | 13 | 64% |
 | GoalLineGhost | 112 | 67 | 16 | 63% |
-| ferrariChampions2026 | 1364 | 870 | 265 | 61% |
+| ferrariChampions2026 | 1364 | 870 | 272 | 61% |
 | UpTheBlues | 39 | 26 | 45 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 23 | 60% |
-| HomeRunHazard | 181 | 132 | 8 | 58% |
+| HomeRunHazard | 181 | 132 | 9 | 58% |
 | sbsigner | 31 | 24 | 8 | 56% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 76 | 63 | 10 | 55% |
 | 1winstreak1 | 36 | 33 | 0 | 52% |
@@ -74,7 +74,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | neurodivergentBet | 0 | 4 | 0 | ⚠️ 0% (muestra chica: 4) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
-| plonker2026 | 0 | 3 | 26 | ⚠️ 0% (muestra chica: 3) |
+| plonker2026 | 0 | 3 | 27 | ⚠️ 0% (muestra chica: 3) |
 | AV23IUa | 0 | 2 | 0 | ⚠️ 0% (muestra chica: 2) |
 | StasPanda | 0 | 2 | 8 | ⚠️ 0% (muestra chica: 2) |
 | BirdMan. | 0 | 2 | 41 | ⚠️ 0% (muestra chica: 2) |
