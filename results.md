@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 00:44:42 (hora de Perú)
+Actualizado: 2026-08-02 00:46:49 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | us391 | 8 | 3 | 6 | 73% |
 | Fallout3 | 11 | 5 | 1 | 69% |
 | VeryLucky888 | 47 | 23 | 5 | 67% |
-| RN1 | 899 | 470 | 44 | 66% |
+| RN1 | 899 | 470 | 45 | 66% |
 | esportGG | 31 | 16 | 0 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 164 | 4 | 65% |
 | cruzNBA | 11 | 6 | 0 | 65% |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | wr0ngw4yb3tt0r | 119 | 117 | 6 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 18 | 18 | 12 | 50% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 18 | 18 | 13 | 50% |
 | jtwyslljy | 5 | 5 | 0 | 50% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 23 | 23 | 0 | 50% |
 | ToeTickler98 | 5 | 5 | 0 | 50% |

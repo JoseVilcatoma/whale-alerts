@@ -89734,5 +89734,29 @@
     "usd": 1131.0031999999999,
     "odds_at_bet": 86,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785649491,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-ari-cle-2026-08-02",
+    "title": "Arizona Diamondbacks vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 20150.4296,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785649605,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-ziegann-becroft-2026-08-02",
+    "title": "ITF Bali: Sam Ryan Ziegann vs Isaac Becroft",
+    "outcome": "Sam Ryan Ziegann",
+    "side": "BUY",
+    "usd": 1227.5,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]
