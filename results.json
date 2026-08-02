@@ -89866,5 +89866,17 @@
     "usd": 13128.376000000002,
     "odds_at_bet": 80,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785652104,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "chi-qin-hai-2026-08-02-spread-home-2pt5",
+    "title": "Spread: Qingdao Xihaian FC (-2.5)",
+    "outcome": "Qingdao Hainiu FC",
+    "side": "BUY",
+    "usd": 1047.8756,
+    "odds_at_bet": 86,
+    "status": "pending"
   }
 ]
