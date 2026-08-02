@@ -107590,5 +107590,65 @@
     "usd": 19733.987,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785686675,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-pcfic-2026-08-02-game2",
+    "title": "Valorant: BBL Esports vs Pcific Esports - Map 2 Winner",
+    "outcome": "BBL Esports",
+    "side": "BUY",
+    "usd": 1645.1987000000001,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785686675,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-pcfic-2026-08-02",
+    "title": "Valorant: BBL Esports vs Pcific Esports (BO3) - VCT EMEA Group Alpha",
+    "outcome": "BBL Esports",
+    "side": "BUY",
+    "usd": 1081.1073000000001,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785686677,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-sk-g2-2026-08-02-game1",
+    "title": "LoL: SK Gaming vs G2 Esports - Game 1 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 5336.41824,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785686691,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "scop-hib-mot-2026-08-02-total-0pt5",
+    "title": "Hibernian FC vs. Motherwell FC: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1288.22,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785686746,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-pcfic-2026-08-02",
+    "title": "Valorant: BBL Esports vs Pcific Esports (BO3) - VCT EMEA Group Alpha",
+    "outcome": "BBL Esports",
+    "side": "BUY",
+    "usd": 6996.6,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]
