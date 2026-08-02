@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 05:10:46 (hora de Perú)
+Actualizado: 2026-08-02 05:12:58 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 915 | 481 | 35 | 66% |
+| RN1 | 915 | 481 | 39 | 66% |
 | esportGG | 31 | 16 | 14 | 66% |
 | cruzNBA | 11 | 6 | 3 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -41,20 +41,20 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 4 | 64% |
 | VeryLucky888 | 48 | 27 | 7 | 64% |
 | GoalLineGhost | 112 | 67 | 6 | 63% |
-| ferrariChampions2026 | 1364 | 870 | 148 | 61% |
+| ferrariChampions2026 | 1364 | 870 | 152 | 61% |
 | UpTheBlues | 39 | 26 | 28 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 21 | 60% |
 | HomeRunHazard | 181 | 132 | 5 | 58% |
-| sbsigner | 31 | 24 | 5 | 56% |
+| sbsigner | 31 | 24 | 6 | 56% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 76 | 63 | 9 | 55% |
 | 1winstreak1 | 36 | 33 | 0 | 52% |
 | monkeymashingkeyboard | 17 | 16 | 1 | 52% |
-| wr0ngw4yb3tt0r | 121 | 121 | 0 | 50% |
+| wr0ngw4yb3tt0r | 121 | 121 | 1 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
 | jtwyslljy | 5 | 5 | 4 | 50% |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 23 | 23 | 2 | 50% |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 23 | 23 | 5 | 50% |
 | ToeTickler98 | 5 | 5 | 4 | 50% |
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 7 | 48% |
@@ -67,7 +67,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 0 | 39% |
 | Flipadelphia | 5 | 8 | 1 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
-| PASSTHEMONEY | 20 | 42 | 6 | 32% |
+| PASSTHEMONEY | 20 | 42 | 8 | 32% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 1 | 31% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
