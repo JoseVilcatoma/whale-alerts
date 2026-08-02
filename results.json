@@ -122554,5 +122554,89 @@
     "usd": 1641.965,
     "odds_at_bet": 25,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785706396,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-ito-sebov-2026-08-02",
+    "title": "National Bank Open: Aoi Ito vs Katherine Sebov",
+    "outcome": "Katherine Sebov",
+    "side": "BUY",
+    "usd": 3700.0,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785706396,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-ito-sebov-2026-08-02",
+    "title": "National Bank Open: Aoi Ito vs Katherine Sebov",
+    "outcome": "Aoi Ito",
+    "side": "BUY",
+    "usd": 1598.22,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785706409,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-uchijim-bucsa-2026-08-02",
+    "title": "National Bank Open: Moyuka Uchijima vs Cristina Bucsa",
+    "outcome": "Moyuka Uchijima",
+    "side": "BUY",
+    "usd": 1173.913043,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785706429,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-ito-sebov-2026-08-02",
+    "title": "National Bank Open: Aoi Ito vs Katherine Sebov",
+    "outcome": "Aoi Ito",
+    "side": "BUY",
+    "usd": 2322.8188,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785706429,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-ito-sebov-2026-08-02",
+    "title": "National Bank Open: Aoi Ito vs Katherine Sebov",
+    "outcome": "Katherine Sebov",
+    "side": "BUY",
+    "usd": 4509.0012,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785706429,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-ito-sebov-2026-08-02",
+    "title": "National Bank Open: Aoi Ito vs Katherine Sebov",
+    "outcome": "Aoi Ito",
+    "side": "BUY",
+    "usd": 1561.8852,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785706429,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-ito-sebov-2026-08-02",
+    "title": "National Bank Open: Aoi Ito vs Katherine Sebov",
+    "outcome": "Katherine Sebov",
+    "side": "BUY",
+    "usd": 4517.1192,
+    "odds_at_bet": 66,
+    "status": "pending"
   }
 ]
