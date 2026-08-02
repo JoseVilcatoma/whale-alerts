@@ -94066,5 +94066,17 @@
     "usd": 1015.6302000000001,
     "odds_at_bet": 18,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785664298,
+    "username": "meoooow",
+    "wallet": "0xd202bf6d89dc6bab1b9f00ead175f75466348973",
+    "slug": "lol-dnf-bro2-2026-08-02",
+    "title": "LoL: DN SOOPers vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 3258.0755999999997,
+    "odds_at_bet": 36,
+    "status": "pending"
   }
 ]
