@@ -106558,5 +106558,77 @@
     "usd": 17954.2875,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785684616,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "per1-csc-ajp-2026-08-02-csc",
+    "title": "Will CS Cristal win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1362.9,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684620,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-sk-g2-2026-08-02",
+    "title": "LoL: SK Gaming vs G2 Esports (BO3) - LEC Regular Season",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 7809.180899999999,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684638,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-vallejo-shang-2026-08-03",
+    "title": "Canadian Open: Adolfo Vallejo vs Juncheng Shang",
+    "outcome": "Juncheng Shang",
+    "side": "BUY",
+    "usd": 2861.2992,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684638,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-sk-g2-2026-08-02",
+    "title": "LoL: SK Gaming vs G2 Esports (BO3) - LEC Regular Season",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 2007.6923069999998,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684703,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "mlb-tex-hou-2026-08-02",
+    "title": "Texas Rangers vs. Houston Astros",
+    "outcome": "Houston Astros",
+    "side": "SELL",
+    "usd": 1120.0,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684703,
+    "username": "Flipadelphia",
+    "wallet": "0x448861155279dbf833d041b963e3ac854599e319",
+    "slug": "mlb-tex-hou-2026-08-02",
+    "title": "Texas Rangers vs. Houston Astros",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "usd": 3360.0000000000005,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
