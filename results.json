@@ -101746,5 +101746,77 @@
     "usd": 1564.5001000000002,
     "odds_at_bet": 62,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785677720,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "usd": 1758.1446,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677744,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "usd": 35741.0924,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677755,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "usd": 1112.9032249999998,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677756,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "den-mid-hor-2026-08-02-hor",
+    "title": "Will AC Horsens win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 3837.299998,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677760,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 1201.1309999999999,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677782,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 1150.0496,
+    "odds_at_bet": 28,
+    "status": "pending"
   }
 ]
