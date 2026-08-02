@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 15:34:23 (hora de Perú)
+Actualizado: 2026-08-02 15:36:48 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 55 | 8 | 6 | 87% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | fkgggg2mouzfuria | 72 | 15 | 37 | 83% |
-| swisstony | 640 | 139 | 104 | 82% |
+| swisstony | 640 | 139 | 106 | 82% |
 | mooseborzoi | 63 | 19 | 1 | 77% |
 | one8tyfive | 32 | 10 | 7 | 76% |
 | Spicer | 29 | 9 | 1 | 76% |
@@ -38,16 +38,16 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 15 | 7 | 0 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 147 | 76 | 40 | 66% |
-| RN1 | 956 | 516 | 179 | 65% |
+| RN1 | 956 | 516 | 183 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
 | UpTheBlues | 59 | 35 | 34 | 63% |
 | lllllllIlll | 5 | 3 | 1 | 62% |
-| ferrariChampions2026 | 1637 | 1050 | 254 | 61% |
+| ferrariChampions2026 | 1637 | 1050 | 257 | 61% |
 | us391 | 20 | 13 | 8 | 61% |
 | VeryLucky888 | 54 | 34 | 71 | 61% |
 | flatbarrel | 6 | 4 | 5 | 60% |
-| HomeRunHazard | 189 | 132 | 115 | 59% |
+| HomeRunHazard | 189 | 132 | 116 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 84 | 68 | 39 | 55% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 6 | 5 | 5 | 55% |
 | meoooow | 15 | 13 | 4 | 54% |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | esportGG | 48 | 48 | 14 | 50% |
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 50 | 53 | 5 | 49% |
-| sbsigner | 36 | 39 | 3 | 48% |
+| sbsigner | 36 | 39 | 6 | 48% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 36 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | AnonymousUsername | 18 | 21 | 27 | 46% |
@@ -82,7 +82,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | neurodivergentBet | 0 | 4 | 0 | ⚠️ 0% (muestra chica: 4) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
-| AV23IUa | 0 | 3 | 8 | ⚠️ 0% (muestra chica: 3) |
+| AV23IUa | 0 | 3 | 9 | ⚠️ 0% (muestra chica: 3) |
 | 0way | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | balthazar | 0 | 0 | 17 | — |
 | Melody626 | 0 | 0 | 11 | — |
