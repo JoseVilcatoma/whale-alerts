@@ -95590,5 +95590,29 @@
     "usd": 1427.5878,
     "odds_at_bet": 38,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785666733,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-ngx-og-2026-08-02-game2",
+    "title": "Dota 2: Nigma Galaxy vs OG - Game 2 Winner",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 10000.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785666742,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-ngx-og-2026-08-02-game2",
+    "title": "Dota 2: Nigma Galaxy vs OG - Game 2 Winner",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 5000.0,
+    "odds_at_bet": 50,
+    "status": "pending"
   }
 ]
