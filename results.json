@@ -123190,5 +123190,65 @@
     "usd": 3754.2099980000003,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785707451,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sf-sd-2026-08-02-total-9pt5",
+    "title": "San Francisco Giants vs. San Diego Padres: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 4628.3351,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785707466,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-lfc-lee-2026-08-02-total-5pt5",
+    "title": "Liverpool FC vs. Leeds United: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1407.77,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785707500,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "val-c9-kru1-2026-08-02-game2",
+    "title": "Valorant: Cloud9 vs KR\u00dc Esports - Map 2 Winner",
+    "outcome": "KR\u00dc Esports",
+    "side": "BUY",
+    "usd": 6998.299999999999,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785707503,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "val-c9-kru1-2026-08-02-game2",
+    "title": "Valorant: Cloud9 vs KR\u00dc Esports - Map 2 Winner",
+    "outcome": "KR\u00dc Esports",
+    "side": "BUY",
+    "usd": 1175.0,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785707503,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "val-c9-kru1-2026-08-02-game2",
+    "title": "Valorant: Cloud9 vs KR\u00dc Esports - Map 2 Winner",
+    "outcome": "KR\u00dc Esports",
+    "side": "BUY",
+    "usd": 1175.0,
+    "odds_at_bet": 47,
+    "status": "pending"
   }
 ]
