@@ -125806,5 +125806,41 @@
     "usd": 1210.566,
     "odds_at_bet": 76,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785713173,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-g21-sen-2026-08-02",
+    "title": "Valorant: G2 Esports vs Sentinels (BO3) - VCT Americas Stage 2 Group Omega",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "usd": 1227.2180720000001,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785713297,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-g21-sen-2026-08-02-game1",
+    "title": "Valorant: G2 Esports vs Sentinels - Map 1 Winner",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "usd": 1266.9968000000001,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785713313,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "brco-int-cp-2026-08-02-total-1pt5",
+    "title": "SC Internacional vs. SC Corinthians Paulista: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1057.19,
+    "odds_at_bet": 71,
+    "status": "pending"
   }
 ]
