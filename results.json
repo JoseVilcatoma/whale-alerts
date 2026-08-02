@@ -106270,5 +106270,89 @@
     "usd": 1650.0,
     "odds_at_bet": 33,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785684239,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-flc-1win-2026-08-02-game2",
+    "title": "Dota 2: Team Falcons vs 1win - Game 2 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 1327.6866,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684239,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-flc-1win-2026-08-02-game2",
+    "title": "Dota 2: Team Falcons vs 1win - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 2515.416,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684280,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-pcfic-2026-08-02",
+    "title": "Valorant: BBL Esports vs Pcific Esports (BO3) - VCT EMEA Group Alpha",
+    "outcome": "BBL Esports",
+    "side": "BUY",
+    "usd": 5817.4605,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684288,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-pcfic-2026-08-02",
+    "title": "Valorant: BBL Esports vs Pcific Esports (BO3) - VCT EMEA Group Alpha",
+    "outcome": "BBL Esports",
+    "side": "BUY",
+    "usd": 5757.6015,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684292,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-ts7-mouz-2026-08-02",
+    "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Bounty Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 1498.49001,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684297,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "atp-zheng-kecmano-2026-08-02",
+    "title": "National Bank Open: Michael Zheng vs Miomir Kecmanovic",
+    "outcome": "Michael Zheng",
+    "side": "BUY",
+    "usd": 1673.4312000000002,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684306,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-rnx-yb1-2026-08-02-game1",
+    "title": "Dota 2: REKONIX vs Yakult Brothers - Game 1 Winner",
+    "outcome": "Yakult Brothers",
+    "side": "BUY",
+    "usd": 1503.36,
+    "odds_at_bet": 72,
+    "status": "pending"
   }
 ]
