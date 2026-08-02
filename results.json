@@ -104302,5 +104302,65 @@
     "usd": 2134.939999,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785682235,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "nor-aal-tro-2026-08-02-draw",
+    "title": "Will Aalesunds FK vs. Troms\u00f8 IL end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 4083.585,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785682281,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "nor-mol-sar-2026-08-02-total-3pt5",
+    "title": "Molde FK vs. Sarpsborg 08 FF: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1080.0,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785682281,
+    "username": "Flipadelphia",
+    "wallet": "0x448861155279dbf833d041b963e3ac854599e319",
+    "slug": "nor-mol-sar-2026-08-02-total-3pt5",
+    "title": "Molde FK vs. Sarpsborg 08 FF: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1590.0,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785682294,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-quevedo-samson-2026-08-02",
+    "title": "Targu Mures: Kaitlin Quevedo vs Laura Samson",
+    "outcome": "Kaitlin Quevedo",
+    "side": "BUY",
+    "usd": 2444.436971,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785682322,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-sin2-sparta-2026-08-02-game2",
+    "title": "Counter-Strike: Sinners vs SPARTA - Map 2 Winner",
+    "outcome": "Sinners",
+    "side": "BUY",
+    "usd": 1521.4178,
+    "odds_at_bet": 74,
+    "status": "pending"
   }
 ]
