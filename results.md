@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 05:49:57 (hora de Perú)
+Actualizado: 2026-08-02 05:52:28 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 6 | 64% |
 | VeryLucky888 | 48 | 27 | 10 | 64% |
 | GoalLineGhost | 112 | 67 | 8 | 63% |
-| ferrariChampions2026 | 1364 | 870 | 174 | 61% |
+| ferrariChampions2026 | 1364 | 870 | 179 | 61% |
 | UpTheBlues | 39 | 26 | 39 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 21 | 60% |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 7 | 48% |
 | meoooow | 10 | 11 | 7 | 48% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 12 | 13 | 27 | 48% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 12 | 13 | 28 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | AnonymousUsername | 18 | 21 | 0 | 46% |
 | pleaseplease123 | 34 | 43 | 0 | 44% |
@@ -67,7 +67,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 0 | 39% |
 | Flipadelphia | 5 | 8 | 1 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
-| PASSTHEMONEY | 20 | 42 | 9 | 32% |
+| PASSTHEMONEY | 20 | 42 | 10 | 32% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 1 | 31% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
@@ -77,7 +77,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | plonker2026 | 0 | 3 | 12 | ⚠️ 0% (muestra chica: 3) |
 | AV23IUa | 0 | 2 | 0 | ⚠️ 0% (muestra chica: 2) |
 | StasPanda | 0 | 2 | 8 | ⚠️ 0% (muestra chica: 2) |
-| BirdMan. | 0 | 2 | 14 | ⚠️ 0% (muestra chica: 2) |
+| BirdMan. | 0 | 2 | 16 | ⚠️ 0% (muestra chica: 2) |
 | balthazar | 0 | 0 | 17 | — |
 | Melody626 | 0 | 0 | 9 | — |
 | unbribeableref | 0 | 0 | 3 | — |
