@@ -89722,5 +89722,17 @@
     "usd": 3000.0,
     "odds_at_bet": 64,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785649431,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "chi-tie-sgr-2026-08-02-total-1pt5",
+    "title": "Liaoning Tieren FC vs. Shanghai Shenhua FC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1131.0031999999999,
+    "odds_at_bet": 86,
+    "status": "pending"
   }
 ]
