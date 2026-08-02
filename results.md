@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 15:41:44 (hora de Perú)
+Actualizado: 2026-08-02 15:44:16 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -34,20 +34,20 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fRibrenlc | 15 | 5 | 4 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 370 | 178 | 48 | 68% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 370 | 178 | 50 | 68% |
 | cruzNBA | 15 | 7 | 0 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| GoalLineGhost | 147 | 76 | 40 | 66% |
-| RN1 | 956 | 516 | 211 | 65% |
+| GoalLineGhost | 147 | 76 | 44 | 66% |
+| RN1 | 956 | 516 | 215 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ToeTickler98 | 9 | 5 | 1 | 64% |
 | UpTheBlues | 59 | 35 | 34 | 63% |
 | lllllllIlll | 5 | 3 | 1 | 62% |
-| ferrariChampions2026 | 1637 | 1050 | 261 | 61% |
+| ferrariChampions2026 | 1637 | 1050 | 264 | 61% |
 | us391 | 20 | 13 | 8 | 61% |
 | VeryLucky888 | 54 | 34 | 71 | 61% |
 | flatbarrel | 6 | 4 | 5 | 60% |
-| HomeRunHazard | 189 | 132 | 119 | 59% |
+| HomeRunHazard | 189 | 132 | 123 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 84 | 68 | 41 | 55% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 6 | 5 | 5 | 55% |
 | meoooow | 15 | 13 | 4 | 54% |
@@ -62,12 +62,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 50 | 53 | 5 | 49% |
 | sbsigner | 36 | 39 | 7 | 48% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 36 | 48% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 39 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | AnonymousUsername | 18 | 21 | 27 | 46% |
 | pleaseplease123 | 34 | 43 | 28 | 44% |
 | jtwyslljy | 8 | 10 | 3 | 44% |
-| Flipadelphia | 6 | 9 | 9 | 40% |
+| Flipadelphia | 6 | 9 | 10 | 40% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 7 | 39% |
 | PASSTHEMONEY | 32 | 53 | 17 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
@@ -94,4 +94,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BrightStars | 0 | 0 | 2 | — |
 | PleaseWinPlease | 0 | 0 | 1 | — |
 | highnetworth | 0 | 0 | 4 | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 2 | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 3 | — |
