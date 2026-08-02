@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 18:56:26 (hora de Perú)
+Actualizado: 2026-08-02 18:59:51 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -25,13 +25,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 55 | 8 | 7 | 87% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | fkgggg2mouzfuria | 72 | 15 | 37 | 83% |
-| swisstony | 640 | 139 | 147 | 82% |
+| swisstony | 640 | 139 | 148 | 82% |
 | mooseborzoi | 63 | 19 | 1 | 77% |
 | one8tyfive | 32 | 10 | 17 | 76% |
 | Spicer | 29 | 9 | 1 | 76% |
 | Djdjdjekekek | 121 | 41 | 12 | 75% |
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
-| fRibrenlc | 15 | 5 | 8 | 75% |
+| fRibrenlc | 15 | 5 | 9 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 370 | 178 | 61 | 68% |
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 9 | 5 | 1 | 64% |
 | UpTheBlues | 59 | 35 | 34 | 63% |
 | lllllllIlll | 5 | 3 | 2 | 62% |
-| ferrariChampions2026 | 1637 | 1050 | 385 | 61% |
+| ferrariChampions2026 | 1637 | 1050 | 388 | 61% |
 | us391 | 20 | 13 | 9 | 61% |
 | VeryLucky888 | 54 | 34 | 73 | 61% |
 | flatbarrel | 6 | 4 | 5 | 60% |

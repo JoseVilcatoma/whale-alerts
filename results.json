@@ -126130,5 +126130,65 @@
     "usd": 1049.999953,
     "odds_at_bet": 98,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785714989,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "arg-riv-ros-2026-08-02-ros",
+    "title": "Will CA Rosario Central win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1254.6000000000001,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785714992,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "atp-fritz-jodar-2026-08-02",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Rafael Jodar",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 3410.0,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785715005,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-riv-ros-2026-08-02-ros",
+    "title": "Will CA Rosario Central win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1157.9511,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785715027,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-g21-sen-2026-08-02-game1",
+    "title": "Valorant: G2 Esports vs Sentinels - Map 1 Winner",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "usd": 1673.2236,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785715028,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-g21-sen-2026-08-02-game1",
+    "title": "Valorant: G2 Esports vs Sentinels - Map 1 Winner",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "usd": 1823.6833330000002,
+    "odds_at_bet": 76,
+    "status": "pending"
   }
 ]
