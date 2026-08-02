@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 05:06:25 (hora de Perú)
+Actualizado: 2026-08-02 05:08:35 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -40,13 +40,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | us391 | 11 | 6 | 12 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 4 | 64% |
 | VeryLucky888 | 48 | 27 | 7 | 64% |
-| GoalLineGhost | 112 | 67 | 5 | 63% |
-| ferrariChampions2026 | 1364 | 870 | 145 | 61% |
+| GoalLineGhost | 112 | 67 | 6 | 63% |
+| ferrariChampions2026 | 1364 | 870 | 147 | 61% |
 | UpTheBlues | 39 | 26 | 28 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 21 | 60% |
 | HomeRunHazard | 181 | 132 | 5 | 58% |
-| sbsigner | 31 | 24 | 4 | 56% |
+| sbsigner | 31 | 24 | 5 | 56% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 76 | 63 | 9 | 55% |
 | 1winstreak1 | 36 | 33 | 0 | 52% |
 | monkeymashingkeyboard | 17 | 16 | 1 | 52% |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 7 | 48% |
 | meoooow | 10 | 11 | 6 | 48% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 12 | 13 | 20 | 48% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 12 | 13 | 21 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | AnonymousUsername | 18 | 21 | 0 | 46% |
 | pleaseplease123 | 34 | 43 | 0 | 44% |
@@ -87,3 +87,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0way | 0 | 0 | 5 | — |
 | ndb1 | 0 | 0 | 1 | — |
 | patient12 | 0 | 0 | 14 | — |
+| lllllllIlll | 0 | 0 | 3 | — |
