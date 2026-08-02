@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 11:51:18 (hora de Perú)
+Actualizado: 2026-08-02 11:53:54 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -35,20 +35,20 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 27 | 9 | 2 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 932 | 483 | 122 | 66% |
+| RN1 | 932 | 483 | 127 | 66% |
 | humkyakare | 15 | 8 | 0 | 65% |
-| us391 | 11 | 6 | 19 | 65% |
+| us391 | 11 | 6 | 21 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 93 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
-| VeryLucky888 | 48 | 28 | 41 | 63% |
+| VeryLucky888 | 48 | 28 | 44 | 63% |
 | GoalLineGhost | 112 | 67 | 58 | 63% |
 | ferrariChampions2026 | 1466 | 930 | 369 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 63 | 60% |
 | flatbarrel | 6 | 4 | 3 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 24 | 60% |
-| esportGG | 36 | 25 | 36 | 59% |
-| HomeRunHazard | 186 | 132 | 36 | 58% |
+| esportGG | 36 | 25 | 37 | 59% |
+| HomeRunHazard | 186 | 132 | 40 | 58% |
 | sbsigner | 33 | 26 | 16 | 56% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 77 | 64 | 28 | 55% |
 | 1winstreak1 | 36 | 33 | 1 | 52% |
@@ -57,15 +57,15 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 25 | 26 | 16 | 49% |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 25 | 26 | 17 | 49% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 24 | 48% |
 | meoooow | 12 | 13 | 4 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
-| AnonymousUsername | 18 | 21 | 14 | 46% |
-| pleaseplease123 | 34 | 43 | 12 | 44% |
+| AnonymousUsername | 18 | 21 | 15 | 46% |
+| pleaseplease123 | 34 | 43 | 13 | 44% |
 | VPenguin | 10 | 14 | 4 | 42% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 0 | 39% |
-| jtwyslljy | 5 | 8 | 7 | 38% |
+| jtwyslljy | 5 | 8 | 8 | 38% |
 | Flipadelphia | 5 | 8 | 9 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 15 | 28 | 64 | 35% |
