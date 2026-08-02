@@ -88462,5 +88462,17 @@
     "usd": 1074.4499999999998,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785642669,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-lag-dal-2026-08-01-lag",
+    "title": "Will Los Angeles Galaxy win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1540.0,
+    "odds_at_bet": 70,
+    "status": "pending"
   }
 ]
