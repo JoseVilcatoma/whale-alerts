@@ -108874,5 +108874,65 @@
     "usd": 1351.2,
     "odds_at_bet": 40,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785688412,
+    "username": "ninasuskevic",
+    "wallet": "0x58d71d66722aa4c1e6ebde57071693667d2917e1",
+    "slug": "atp-kovacev-borges-2026-08-03",
+    "title": "Canadian Open: Aleksandar Kovacevic vs Nuno Borges",
+    "outcome": "Aleksandar Kovacevic",
+    "side": "SELL",
+    "usd": 3721.2673,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785688478,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-kovacev-borges-2026-08-03",
+    "title": "Canadian Open: Aleksandar Kovacevic vs Nuno Borges",
+    "outcome": "Aleksandar Kovacevic",
+    "side": "BUY",
+    "usd": 2425.92,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785688478,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kovacev-borges-2026-08-03",
+    "title": "Canadian Open: Aleksandar Kovacevic vs Nuno Borges",
+    "outcome": "Aleksandar Kovacevic",
+    "side": "BUY",
+    "usd": 5537.5632,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785688495,
+    "username": "BrightStars",
+    "wallet": "0xc84f7e76ec28ef20e7773b7b4926bfb7378be0c5",
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-15-20260727171036148",
+    "title": "Strait of Hormuz traffic returns to normal by August 15?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2742.2614000000012,
+    "odds_at_bet": 3,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785688519,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-tex-hou-2026-08-02-total-8pt5",
+    "title": "Texas Rangers vs. Houston Astros: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2240.63,
+    "odds_at_bet": 50,
+    "status": "pending"
   }
 ]

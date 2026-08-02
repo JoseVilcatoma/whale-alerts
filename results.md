@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 11:30:54 (hora de Perú)
+Actualizado: 2026-08-02 11:35:55 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -9,9 +9,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Sparkling8899 | 4 | 0 | 2 | ⚠️ 100% (muestra chica: 4) |
 | QuietRiskisWrong | 2 | 0 | 16 | ⚠️ 100% (muestra chica: 2) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
-| ninasuskevic | 4 | 0 | 1 | ⚠️ 100% (muestra chica: 4) |
+| ninasuskevic | 4 | 0 | 2 | ⚠️ 100% (muestra chica: 4) |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
-| SDTrading | 1 | 0 | 3 | ⚠️ 100% (muestra chica: 1) |
+| SDTrading | 1 | 0 | 4 | ⚠️ 100% (muestra chica: 1) |
 | fazewinline | 9 | 0 | 0 | 100% |
 | Pwaddler | 5 | 0 | 0 | ⚠️ 100% (muestra chica: 5) |
 | texaskid | 15 | 0 | 1 | 100% |
@@ -35,14 +35,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 27 | 9 | 2 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 932 | 483 | 115 | 66% |
+| RN1 | 932 | 483 | 116 | 66% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 19 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 91 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
 | VeryLucky888 | 48 | 28 | 40 | 63% |
 | GoalLineGhost | 112 | 67 | 55 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 357 | 61% |
+| ferrariChampions2026 | 1466 | 930 | 358 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 63 | 60% |
 | flatbarrel | 6 | 4 | 3 | 60% |
@@ -91,3 +91,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Avrtsz | 0 | 0 | 1 | — |
 | 111111111115 | 0 | 0 | 10 | — |
 | beachboy4 | 0 | 0 | 3 | — |
+| BrightStars | 0 | 0 | 1 | — |
