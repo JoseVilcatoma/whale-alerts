@@ -93334,5 +93334,77 @@
     "usd": 1047.384615,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785662563,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ngx-og-2026-08-02-game1",
+    "title": "Dota 2: Nigma Galaxy vs OG - Game 1 Winner",
+    "outcome": "Nigma Galaxy",
+    "side": "BUY",
+    "usd": 1762.41,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785662563,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-ngx-og-2026-08-02-game1",
+    "title": "Dota 2: Nigma Galaxy vs OG - Game 1 Winner",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 1000.0000000000001,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785662582,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-bro2-2026-08-02-game2",
+    "title": "LoL: DN SOOPers vs HANJIN BRION - Game 2 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1080.0108,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785662582,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-bro2-2026-08-02-game2",
+    "title": "LoL: DN SOOPers vs HANJIN BRION - Game 2 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1185.8035,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785662582,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-bro2-2026-08-02-game2",
+    "title": "LoL: DN SOOPers vs HANJIN BRION - Game 2 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1270.9234000000001,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785662605,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-we-2026-08-02",
+    "title": "LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 1026.39058,
+    "odds_at_bet": 69,
+    "status": "pending"
   }
 ]
