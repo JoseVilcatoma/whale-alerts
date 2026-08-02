@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 09:28:27 (hora de Perú)
+Actualizado: 2026-08-02 09:32:00 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -35,22 +35,22 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 27 | 9 | 1 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 932 | 483 | 68 | 66% |
+| RN1 | 932 | 483 | 71 | 66% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 17 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 47 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 48 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
 | VeryLucky888 | 48 | 28 | 17 | 63% |
-| GoalLineGhost | 112 | 67 | 26 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 263 | 61% |
+| GoalLineGhost | 112 | 67 | 30 | 63% |
+| ferrariChampions2026 | 1466 | 930 | 265 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 51 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 24 | 60% |
 | esportGG | 36 | 25 | 29 | 59% |
-| HomeRunHazard | 186 | 132 | 16 | 58% |
-| sbsigner | 33 | 26 | 14 | 56% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 77 | 64 | 15 | 55% |
+| HomeRunHazard | 186 | 132 | 17 | 58% |
+| sbsigner | 33 | 26 | 16 | 56% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 77 | 64 | 16 | 55% |
 | 1winstreak1 | 36 | 33 | 1 | 52% |
 | monkeymashingkeyboard | 17 | 16 | 3 | 52% |
 | wr0ngw4yb3tt0r | 121 | 121 | 4 | 50% |
