@@ -110914,5 +110914,113 @@
     "usd": 1178.571428,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785691603,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "nor-bra-rbk-2026-08-02-total-0pt5",
+    "title": "SK Brann vs. Rosenborg BK: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1540.9983999999997,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785691603,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "nor-bra-rbk-2026-08-02-total-0pt5",
+    "title": "SK Brann vs. Rosenborg BK: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1664.0008000000003,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785691603,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "nor-bra-rbk-2026-08-02-total-0pt5",
+    "title": "SK Brann vs. Rosenborg BK: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1330.3990000000001,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785691605,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-ind-min-2026-08-02",
+    "title": "Indiana Fever vs. Minnesota Lynx",
+    "outcome": "Minnesota Lynx",
+    "side": "BUY",
+    "usd": 1540.5604000000003,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785691614,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-stl-tor-2026-08-02",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 10626.403333,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785691614,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-tor-2026-08-02",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 8694.329999000001,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785691623,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "wta-pegula-eala-2026-08-02",
+    "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+    "outcome": "Jessica Pegula",
+    "side": "SELL",
+    "usd": 1260.0,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785691626,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-fnc-mkoi-2026-08-02-game1",
+    "title": "LoL: Fnatic vs Movistar KOI - Game 1 Winner",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 1622.06,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785691630,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-cws-tb-2026-08-02-total-7pt5",
+    "title": "Chicago White Sox vs. Tampa Bay Rays: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 3038.0,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]
