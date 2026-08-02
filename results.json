@@ -111910,5 +111910,77 @@
     "usd": 3385.1579,
     "odds_at_bet": 79,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785692667,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-fnc-mkoi-2026-08-02-game1",
+    "title": "LoL: Fnatic vs Movistar KOI - Game 1 Winner",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 1538.13,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785692709,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-liutova-vidmano-2026-08-02",
+    "title": "The Memphis Classic: Kristina Liutova vs Darja Vidmanova",
+    "outcome": "Kristina Liutova",
+    "side": "BUY",
+    "usd": 2301.8329679999997,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785692723,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-wsh-atl-2026-08-02",
+    "title": "Washington Nationals vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 7590.999,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785692725,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "mlb-wsh-atl-2026-08-02",
+    "title": "Washington Nationals vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 1499.3999999999999,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785692748,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-mia-nym-2026-08-02-total-8pt5",
+    "title": "Miami Marlins vs. New York Mets: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1038.27,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785692788,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-pit-cin-2026-08-02",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 5484.659699999999,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]

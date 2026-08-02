@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 12:43:40 (hora de Perú)
+Actualizado: 2026-08-02 12:46:37 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -35,22 +35,22 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 27 | 9 | 3 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 932 | 483 | 143 | 66% |
+| RN1 | 932 | 483 | 145 | 66% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 23 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 95 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
 | VeryLucky888 | 48 | 28 | 68 | 63% |
 | GoalLineGhost | 112 | 67 | 66 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 406 | 61% |
+| ferrariChampions2026 | 1466 | 930 | 407 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 63 | 60% |
 | flatbarrel | 6 | 4 | 3 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 28 | 60% |
 | esportGG | 36 | 25 | 39 | 59% |
-| HomeRunHazard | 186 | 132 | 48 | 58% |
+| HomeRunHazard | 186 | 132 | 50 | 58% |
 | sbsigner | 33 | 26 | 18 | 56% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 77 | 64 | 32 | 55% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 77 | 64 | 33 | 55% |
 | 1winstreak1 | 36 | 33 | 2 | 52% |
 | monkeymashingkeyboard | 17 | 16 | 5 | 52% |
 | wr0ngw4yb3tt0r | 121 | 121 | 16 | 50% |
