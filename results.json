@@ -89986,5 +89986,41 @@
     "usd": 1202.9661,
     "odds_at_bet": 63,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785653043,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-kumstat-bueno-2026-08-02",
+    "title": "Liberec: Jan Kumstat vs Gonzalo Bueno",
+    "outcome": "Gonzalo Bueno",
+    "side": "BUY",
+    "usd": 2491.038,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785653043,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "atp-kumstat-bueno-2026-08-02",
+    "title": "Liberec: Jan Kumstat vs Gonzalo Bueno",
+    "outcome": "Jan Kumstat",
+    "side": "BUY",
+    "usd": 11595.119999,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785653048,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-g1-cs1-2026-08-02",
+    "title": "Counter-Strike: GenOne vs CYBERSHOKE Esports (BO3) - Thunderpick World Championship European Series #2 Playoffs",
+    "outcome": "CYBERSHOKE Esports",
+    "side": "BUY",
+    "usd": 1290.3240999999998,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
