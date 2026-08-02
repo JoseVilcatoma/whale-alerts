@@ -115966,5 +115966,101 @@
     "usd": 1279.53,
     "odds_at_bet": 63,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785697972,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-cws-tb-2026-08-02",
+    "title": "Chicago White Sox vs. Tampa Bay Rays",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 4709.99,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785697978,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-pegula-eala-2026-08-02",
+    "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 1464.5819820000002,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785697981,
+    "username": "meoooow",
+    "wallet": "0xd202bf6d89dc6bab1b9f00ead175f75466348973",
+    "slug": "lol-ly-sr-2026-08-02-game-handicap-away-1pt5",
+    "title": "Game Handicap: LY (-1.5) vs Shopify Rebellion (+1.5)",
+    "outcome": "Shopify Rebellion",
+    "side": "BUY",
+    "usd": 1144.26,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785697990,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-rakhimo-william-2026-08-03",
+    "title": "National Bank Open: Kamilla Rakhimova vs Venus Williams",
+    "outcome": "Kamilla Rakhimova",
+    "side": "BUY",
+    "usd": 3376.8252,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785698084,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-fnc-mkoi-2026-08-02",
+    "title": "LoL: Fnatic vs Movistar KOI (BO3) - LEC Regular Season",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 1004.3478259999999,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785698103,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-mil-laa-2026-08-02",
+    "title": "Milwaukee Brewers vs. Los Angeles Angels",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 1371.49,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785698103,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mil-laa-2026-08-02",
+    "title": "Milwaukee Brewers vs. Los Angeles Angels",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 4595.3558,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785698131,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-fnc1-th1-2026-08-02-game1",
+    "title": "Valorant: Fnatic vs Team Heretics - Map 1 Winner",
+    "outcome": "Fnatic",
+    "side": "BUY",
+    "usd": 1390.08,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]

@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 14:12:30 (hora de Perú)
+Actualizado: 2026-08-02 14:16:01 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -35,14 +35,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 27 | 9 | 3 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 932 | 483 | 195 | 66% |
+| RN1 | 932 | 483 | 196 | 66% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 24 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 122 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
 | VeryLucky888 | 48 | 28 | 77 | 63% |
 | GoalLineGhost | 112 | 67 | 73 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 486 | 61% |
+| ferrariChampions2026 | 1466 | 930 | 490 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 63 | 60% |
 | flatbarrel | 6 | 4 | 4 | 60% |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | HomeRunHazard | 186 | 132 | 72 | 58% |
 | sbsigner | 33 | 26 | 18 | 56% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 77 | 64 | 45 | 55% |
-| 1winstreak1 | 36 | 33 | 5 | 52% |
+| 1winstreak1 | 36 | 33 | 6 | 52% |
 | monkeymashingkeyboard | 17 | 16 | 5 | 52% |
 | wr0ngw4yb3tt0r | 121 | 121 | 24 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 25 | 26 | 20 | 49% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 33 | 48% |
-| meoooow | 12 | 13 | 6 | 48% |
+| meoooow | 12 | 13 | 7 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | AnonymousUsername | 18 | 21 | 24 | 46% |
 | pleaseplease123 | 34 | 43 | 27 | 44% |
@@ -89,7 +89,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | denizz | 0 | 0 | 12 | — |
 | ndb1 | 0 | 0 | 1 | — |
 | Avrtsz | 0 | 0 | 1 | — |
-| 111111111115 | 0 | 0 | 21 | — |
+| 111111111115 | 0 | 0 | 22 | — |
 | beachboy4 | 0 | 0 | 9 | — |
 | BrightStars | 0 | 0 | 1 | — |
 | PleaseWinPlease | 0 | 0 | 1 | — |
