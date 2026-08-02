@@ -96886,5 +96886,53 @@
     "usd": 3105.9841,
     "odds_at_bet": 29,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785669388,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game1",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 1 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 1340.0,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785669391,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "swe-bro-mal-2026-08-02-bro",
+    "title": "Will IF Brommapojkarna win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 3190.0,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785669394,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-choinsk-mackenz-2026-08-02",
+    "title": "Bonn: Jan Choinski vs Jamie Mackenzie",
+    "outcome": "Jan Choinski",
+    "side": "BUY",
+    "usd": 3739.9361999999996,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785669394,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-choinsk-mackenz-2026-08-02",
+    "title": "Bonn: Jan Choinski vs Jamie Mackenzie",
+    "outcome": "Jan Choinski",
+    "side": "BUY",
+    "usd": 3908.0041,
+    "odds_at_bet": 91,
+    "status": "pending"
   }
 ]
