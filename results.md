@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 01:24:46 (hora de Perú)
+Actualizado: 2026-08-02 01:26:54 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -16,7 +16,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Pwaddler | 1 | 0 | 4 | ⚠️ 100% (muestra chica: 1) |
 | texaskid | 14 | 0 | 1 | 100% |
 | THEdirkdiggler | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
-| matenghehe | 8 | 0 | 0 | 100% |
+| matenghehe | 8 | 0 | 2 | 100% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 6 | 0 | 0 | ⚠️ 100% (muestra chica: 6) |
 | LeatherPants | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | paquitomillonario | 10 | 1 | 0 | 91% |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | flatbarrel | 5 | 3 | 2 | 62% |
 | ferrariChampions2026 | 1330 | 850 | 63 | 61% |
 | UpTheBlues | 39 | 26 | 22 | 60% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 4 | 60% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 5 | 60% |
 | HomeRunHazard | 162 | 117 | 35 | 58% |
 | sbsigner | 31 | 23 | 1 | 57% |
 | GoalLineGhost | 85 | 64 | 32 | 57% |
