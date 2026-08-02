@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 02:38:59 (hora de Perú)
+Actualizado: 2026-08-02 02:41:05 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mooseborzoi | 49 | 17 | 16 | 74% |
 | fRibrenlc | 8 | 3 | 4 | 73% |
 | us391 | 8 | 3 | 14 | 73% |
-| Fallout3 | 11 | 5 | 4 | 69% |
+| Fallout3 | 11 | 5 | 5 | 69% |
 | VeryLucky888 | 47 | 23 | 8 | 67% |
 | RN1 | 899 | 470 | 48 | 66% |
 | esportGG | 31 | 16 | 1 | 66% |

@@ -90850,5 +90850,17 @@
     "usd": 1074.9981,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785656369,
+    "username": "Fallout3",
+    "wallet": "0x5ed5a5299060cdf83f009555cc0b8db3451df63a",
+    "slug": "btc-updown-5m-1785656400",
+    "title": "Bitcoin Up or Down - August 2, 3:40AM-3:45AM ET",
+    "outcome": "Up",
+    "side": "BUY",
+    "usd": 1251.9575,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
