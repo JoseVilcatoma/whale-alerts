@@ -90610,5 +90610,89 @@
     "usd": 28575.4728,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785655466,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "chi-qin-hai-2026-08-02-qin",
+    "title": "Will Qingdao Xihaian FC win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1410.24,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655482,
+    "username": "TopGleaguepick",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 3353.0086000000006,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655482,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "lol-tt-we-2026-08-02",
+    "title": "LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1078.02,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655486,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1036.3302,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655489,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1056.3105,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655506,
+    "username": "TopGleaguepick",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 2211.2329,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655506,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 2043.613,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]
