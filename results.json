@@ -103414,5 +103414,41 @@
     "usd": 1844.9500180000002,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785680510,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "scop-hib-mot-2026-08-02-total-2pt5",
+    "title": "Hibernian FC vs. Motherwell FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2500.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785680532,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-ts7-mouz-2026-08-02-game4",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 4 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 10546.887200000001,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785680548,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game4",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 4 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1743.341904,
+    "odds_at_bet": 58,
+    "status": "pending"
   }
 ]
