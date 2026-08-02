@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 03:09:43 (hora de Perú)
+Actualizado: 2026-08-02 03:12:03 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 51 | 8 | 0 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | swisstony | 583 | 122 | 81 | 83% |
-| fkgggg2mouzfuria | 34 | 10 | 20 | 77% |
+| fkgggg2mouzfuria | 34 | 10 | 23 | 77% |
 | Djdjdjekekek | 121 | 38 | 1 | 76% |
 | one8tyfive | 31 | 10 | 1 | 76% |
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 11 | 6 | 0 | 65% |
 | humkyakare | 12 | 7 | 4 | 63% |
 | flatbarrel | 5 | 3 | 2 | 62% |
-| ferrariChampions2026 | 1330 | 850 | 92 | 61% |
+| ferrariChampions2026 | 1330 | 850 | 95 | 61% |
 | UpTheBlues | 39 | 26 | 23 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 15 | 60% |
 | HomeRunHazard | 162 | 117 | 36 | 58% |
@@ -75,13 +75,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | plonker2026 | 0 | 3 | 4 | ⚠️ 0% (muestra chica: 3) |
 | AV23IUa | 0 | 2 | 0 | ⚠️ 0% (muestra chica: 2) |
-| StasPanda | 0 | 2 | 3 | ⚠️ 0% (muestra chica: 2) |
-| BirdMan. | 0 | 2 | 0 | ⚠️ 0% (muestra chica: 2) |
+| StasPanda | 0 | 2 | 4 | ⚠️ 0% (muestra chica: 2) |
+| BirdMan. | 0 | 2 | 2 | ⚠️ 0% (muestra chica: 2) |
 | balthazar | 0 | 0 | 17 | — |
 | Melody626 | 0 | 0 | 9 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | olivermoon1 | 0 | 0 | 1 | — |
-| Anjun | 0 | 0 | 2 | — |
+| Anjun | 0 | 0 | 3 | — |
 | TopGleaguepick | 0 | 0 | 14 | — |
 | denizz | 0 | 0 | 8 | — |
 | 0way | 0 | 0 | 2 | — |
