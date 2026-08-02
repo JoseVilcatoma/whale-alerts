@@ -114154,5 +114154,65 @@
     "usd": 1843.93,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785695973,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "wta-pegula-eala-2026-08-02",
+    "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "usd": 22400.0,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785696007,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-fnc-mkoi-2026-08-02-game2",
+    "title": "LoL: Fnatic vs Movistar KOI - Game 2 Winner",
+    "outcome": "Fnatic",
+    "side": "BUY",
+    "usd": 1641.1398,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785696054,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-fnc-mkoi-2026-08-02-game2",
+    "title": "LoL: Fnatic vs Movistar KOI - Game 2 Winner",
+    "outcome": "Fnatic",
+    "side": "BUY",
+    "usd": 1030.4117999999999,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785696135,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "arg-ald-gim-2026-08-02-gim",
+    "title": "Will Gimnasia y Esgrima de La Plata win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1442.997,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785696142,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-liutova-vidmano-2026-08-02",
+    "title": "The Memphis Classic: Kristina Liutova vs Darja Vidmanova",
+    "outcome": "Darja Vidmanova",
+    "side": "BUY",
+    "usd": 2959.604,
+    "odds_at_bet": 43,
+    "status": "pending"
   }
 ]

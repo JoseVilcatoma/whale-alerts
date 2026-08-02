@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 13:39:16 (hora de Perú)
+Actualizado: 2026-08-02 13:42:31 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -41,8 +41,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 102 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
 | VeryLucky888 | 48 | 28 | 77 | 63% |
-| GoalLineGhost | 112 | 67 | 70 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 455 | 61% |
+| GoalLineGhost | 112 | 67 | 71 | 63% |
+| ferrariChampions2026 | 1466 | 930 | 456 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 63 | 60% |
 | flatbarrel | 6 | 4 | 3 | 60% |
@@ -70,7 +70,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Talvez10 | 17 | 30 | 0 | 36% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 15 | 28 | 65 | 35% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 2 | 31% |
-| PASSTHEMONEY | 21 | 46 | 29 | 31% |
+| PASSTHEMONEY | 21 | 46 | 31 | 31% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | BirdMan. | 2 | 12 | 40 | 14% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
@@ -90,6 +90,6 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ndb1 | 0 | 0 | 1 | — |
 | Avrtsz | 0 | 0 | 1 | — |
 | 111111111115 | 0 | 0 | 16 | — |
-| beachboy4 | 0 | 0 | 5 | — |
+| beachboy4 | 0 | 0 | 6 | — |
 | BrightStars | 0 | 0 | 1 | — |
 | PleaseWinPlease | 0 | 0 | 1 | — |
