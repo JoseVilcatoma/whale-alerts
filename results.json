@@ -89494,5 +89494,41 @@
     "usd": 1800.0,
     "odds_at_bet": 90,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785645445,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-det-oak-2026-08-01-total-13pt5",
+    "title": "Detroit Tigers vs. Athletics: O/U 13.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1384.5078,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785645445,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-det-oak-2026-08-01-total-13pt5",
+    "title": "Detroit Tigers vs. Athletics: O/U 13.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 3940.5222,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785645474,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-gea-shapova-2026-08-01",
+    "title": "Los Cabos Open: Arthur Gea vs Denis Shapovalov",
+    "outcome": "Arthur Gea",
+    "side": "BUY",
+    "usd": 4369.08,
+    "odds_at_bet": 92,
+    "status": "pending"
   }
 ]
