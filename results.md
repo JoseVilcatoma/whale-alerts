@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 14:57:30 (hora de Perú)
+Actualizado: 2026-08-02 14:59:45 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -43,11 +43,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 9 | 5 | 0 | 64% |
 | UpTheBlues | 59 | 35 | 34 | 63% |
 | lllllllIlll | 5 | 3 | 1 | 62% |
-| ferrariChampions2026 | 1637 | 1050 | 228 | 61% |
+| ferrariChampions2026 | 1637 | 1050 | 229 | 61% |
 | us391 | 20 | 13 | 8 | 61% |
 | VeryLucky888 | 54 | 34 | 68 | 61% |
 | flatbarrel | 6 | 4 | 5 | 60% |
-| HomeRunHazard | 189 | 132 | 100 | 59% |
+| HomeRunHazard | 189 | 132 | 101 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 84 | 68 | 36 | 55% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 6 | 5 | 4 | 55% |
 | meoooow | 15 | 13 | 4 | 54% |
