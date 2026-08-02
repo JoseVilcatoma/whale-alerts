@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 05:38:47 (hora de Perú)
+Actualizado: 2026-08-02 05:41:14 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -27,13 +27,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 603 | 130 | 58 | 82% |
 | fRibrenlc | 12 | 3 | 2 | 80% |
 | mooseborzoi | 63 | 19 | 0 | 77% |
-| fkgggg2mouzfuria | 34 | 10 | 33 | 77% |
+| fkgggg2mouzfuria | 34 | 10 | 34 | 77% |
 | Djdjdjekekek | 121 | 39 | 0 | 76% |
 | one8tyfive | 31 | 10 | 1 | 76% |
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 915 | 481 | 42 | 66% |
+| RN1 | 915 | 481 | 44 | 66% |
 | esportGG | 31 | 16 | 19 | 66% |
 | cruzNBA | 11 | 6 | 3 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -41,8 +41,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 6 | 64% |
 | VeryLucky888 | 48 | 27 | 9 | 64% |
 | GoalLineGhost | 112 | 67 | 7 | 63% |
-| ferrariChampions2026 | 1364 | 870 | 167 | 61% |
-| UpTheBlues | 39 | 26 | 36 | 60% |
+| ferrariChampions2026 | 1364 | 870 | 171 | 61% |
+| UpTheBlues | 39 | 26 | 39 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 21 | 60% |
 | HomeRunHazard | 181 | 132 | 5 | 58% |
@@ -74,10 +74,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | neurodivergentBet | 0 | 4 | 0 | ⚠️ 0% (muestra chica: 4) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
-| plonker2026 | 0 | 3 | 11 | ⚠️ 0% (muestra chica: 3) |
+| plonker2026 | 0 | 3 | 12 | ⚠️ 0% (muestra chica: 3) |
 | AV23IUa | 0 | 2 | 0 | ⚠️ 0% (muestra chica: 2) |
 | StasPanda | 0 | 2 | 8 | ⚠️ 0% (muestra chica: 2) |
-| BirdMan. | 0 | 2 | 13 | ⚠️ 0% (muestra chica: 2) |
+| BirdMan. | 0 | 2 | 14 | ⚠️ 0% (muestra chica: 2) |
 | balthazar | 0 | 0 | 17 | — |
 | Melody626 | 0 | 0 | 9 | — |
 | unbribeableref | 0 | 0 | 3 | — |
