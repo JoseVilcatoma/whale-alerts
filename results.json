@@ -89530,5 +89530,29 @@
     "usd": 4369.08,
     "odds_at_bet": 92,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785645783,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mex-caz-atla-2026-08-01-atla",
+    "title": "Will Atlante FC win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1873.9965,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785645796,
+    "username": "humkyakare",
+    "wallet": "0x32d21c404498db353bd2bc47b5a35e7256908850",
+    "slug": "atp-gea-shapova-2026-08-01",
+    "title": "Los Cabos Open: Arthur Gea vs Denis Shapovalov",
+    "outcome": "Arthur Gea",
+    "side": "SELL",
+    "usd": 3834.9711899999998,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
