@@ -112750,5 +112750,77 @@
     "usd": 2330.9210000000003,
     "odds_at_bet": 85,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785693722,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-liutova-vidmano-2026-08-02",
+    "title": "The Memphis Classic: Kristina Liutova vs Darja Vidmanova",
+    "outcome": "Kristina Liutova",
+    "side": "BUY",
+    "usd": 1853.0292000000002,
+    "odds_at_bet": 22,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785693730,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-liutova-vidmano-2026-08-02",
+    "title": "The Memphis Classic: Kristina Liutova vs Darja Vidmanova",
+    "outcome": "Darja Vidmanova",
+    "side": "BUY",
+    "usd": 1448.9244,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785693746,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-fnc-mkoi-2026-08-02",
+    "title": "LoL: Fnatic vs Movistar KOI (BO3) - LEC Regular Season",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 4183.2,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785693799,
+    "username": "meoooow",
+    "wallet": "0xd202bf6d89dc6bab1b9f00ead175f75466348973",
+    "slug": "wnba-la-por-2026-08-02-total-185pt5",
+    "title": "Los Angeles Sparks vs. Portland Fire: O/U 185.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2602.0404,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785693859,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-kovacev-borges-2026-08-03",
+    "title": "Canadian Open: Aleksandar Kovacevic vs Nuno Borges",
+    "outcome": "Aleksandar Kovacevic",
+    "side": "BUY",
+    "usd": 1548.1534,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785693868,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "atp-zheng-kecmano-2026-08-02",
+    "title": "National Bank Open: Michael Zheng vs Miomir Kecmanovic",
+    "outcome": "Miomir Kecmanovic",
+    "side": "BUY",
+    "usd": 1194.5080000000003,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
