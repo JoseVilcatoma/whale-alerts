@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 16:53:52 (hora de Perú)
+Actualizado: 2026-08-02 16:59:53 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -22,7 +22,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | patient12 | 14 | 0 | 1 | 100% |
 | Avrtsz | 1 | 0 | 2 | ⚠️ 100% (muestra chica: 1) |
 | paquitomillonario | 12 | 1 | 4 | 92% |
-| cigarettes | 55 | 8 | 6 | 87% |
+| cigarettes | 55 | 8 | 7 | 87% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | fkgggg2mouzfuria | 72 | 15 | 37 | 83% |
 | swisstony | 640 | 139 | 130 | 82% |
@@ -34,16 +34,16 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fRibrenlc | 15 | 5 | 4 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 370 | 178 | 54 | 68% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 370 | 178 | 55 | 68% |
 | cruzNBA | 15 | 7 | 0 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 147 | 76 | 55 | 66% |
-| RN1 | 956 | 516 | 274 | 65% |
+| RN1 | 956 | 516 | 279 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ToeTickler98 | 9 | 5 | 1 | 64% |
 | UpTheBlues | 59 | 35 | 34 | 63% |
-| lllllllIlll | 5 | 3 | 1 | 62% |
-| ferrariChampions2026 | 1637 | 1050 | 334 | 61% |
+| lllllllIlll | 5 | 3 | 2 | 62% |
+| ferrariChampions2026 | 1637 | 1050 | 338 | 61% |
 | us391 | 20 | 13 | 9 | 61% |
 | VeryLucky888 | 54 | 34 | 71 | 61% |
 | flatbarrel | 6 | 4 | 5 | 60% |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | meoooow | 15 | 13 | 4 | 54% |
 | 1winstreak1 | 36 | 33 | 17 | 52% |
 | monkeymashingkeyboard | 17 | 16 | 5 | 52% |
-| BirdMan. | 25 | 23 | 9 | 52% |
+| BirdMan. | 25 | 23 | 12 | 52% |
 | wr0ngw4yb3tt0r | 121 | 121 | 39 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
@@ -68,7 +68,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | pleaseplease123 | 34 | 43 | 28 | 44% |
 | jtwyslljy | 8 | 10 | 3 | 44% |
 | Flipadelphia | 6 | 9 | 10 | 40% |
-| 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 7 | 39% |
+| 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 9 | 39% |
 | PASSTHEMONEY | 32 | 53 | 18 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
@@ -89,9 +89,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | unbribeableref | 0 | 0 | 3 | — |
 | denizz | 0 | 0 | 14 | — |
 | ndb1 | 0 | 0 | 1 | — |
-| 111111111115 | 0 | 0 | 22 | — |
+| 111111111115 | 0 | 0 | 26 | — |
 | beachboy4 | 0 | 0 | 9 | — |
 | BrightStars | 0 | 0 | 2 | — |
-| PleaseWinPlease | 0 | 0 | 1 | — |
+| PleaseWinPlease | 0 | 0 | 2 | — |
 | highnetworth | 0 | 0 | 4 | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 7 | — |
