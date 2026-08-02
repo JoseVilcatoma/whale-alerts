@@ -98830,5 +98830,113 @@
     "usd": 2999.9999990000006,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785672583,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-mia-nym-2026-08-02-total-8pt5",
+    "title": "Miami Marlins vs. New York Mets: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2608.2784,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785672583,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-mia-nym-2026-08-02-total-8pt5",
+    "title": "Miami Marlins vs. New York Mets: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2313.0015999999996,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785672587,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game2",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 2 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 2406.915,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785672598,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "chi-tie-sgr-2026-08-02-tie",
+    "title": "Will Liaoning Tieren FC win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1931.6658,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785672605,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "rus-ore-zen-2026-08-02-spread-away-1pt5",
+    "title": "Spread: FK Zenit (-1.5)",
+    "outcome": "FK Zenit",
+    "side": "BUY",
+    "usd": 4999.999999,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785672628,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "swe-bro-mal-2026-08-02-total-1pt5",
+    "title": "IF Brommapojkarna vs. Malmo FF: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1127.84,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785672630,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "rus-ore-zen-2026-08-02-spread-away-1pt5",
+    "title": "Spread: FK Zenit (-1.5)",
+    "outcome": "FK Zenit",
+    "side": "BUY",
+    "usd": 8999.999999,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785672646,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "rus-ore-zen-2026-08-02-spread-away-1pt5",
+    "title": "Spread: FK Zenit (-1.5)",
+    "outcome": "FK Zenit",
+    "side": "BUY",
+    "usd": 1287.29,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785672677,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-yes-tr7-2026-08-02-game2",
+    "title": "Dota 2: Yellow Submarine vs Team Resilience - Game 2 Winner",
+    "outcome": "Team Resilience",
+    "side": "BUY",
+    "usd": 1999.999999,
+    "odds_at_bet": 52,
+    "status": "pending"
   }
 ]
