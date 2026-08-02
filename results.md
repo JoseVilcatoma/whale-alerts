@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 11:06:23 (hora de Perú)
+Actualizado: 2026-08-02 11:08:44 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -14,18 +14,18 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SDTrading | 1 | 0 | 1 | ⚠️ 100% (muestra chica: 1) |
 | fazewinline | 9 | 0 | 0 | 100% |
 | Pwaddler | 5 | 0 | 0 | ⚠️ 100% (muestra chica: 5) |
-| texaskid | 15 | 0 | 0 | 100% |
+| texaskid | 15 | 0 | 1 | 100% |
 | THEdirkdiggler | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | matenghehe | 8 | 0 | 9 | 100% |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 6 | 0 | 5 | ⚠️ 100% (muestra chica: 6) |
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 6 | 0 | 6 | ⚠️ 100% (muestra chica: 6) |
 | LeatherPants | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | TopGleaguepick | 14 | 0 | 0 | 100% |
 | patient12 | 8 | 0 | 7 | 100% |
-| paquitomillonario | 12 | 1 | 0 | 92% |
+| paquitomillonario | 12 | 1 | 1 | 92% |
 | cigarettes | 51 | 8 | 6 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
-| fkgggg2mouzfuria | 65 | 12 | 22 | 84% |
+| fkgggg2mouzfuria | 65 | 12 | 23 | 84% |
 | swisstony | 604 | 131 | 94 | 82% |
 | fRibrenlc | 12 | 3 | 6 | 80% |
 | mooseborzoi | 63 | 19 | 1 | 77% |
@@ -35,14 +35,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 27 | 9 | 2 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 932 | 483 | 104 | 66% |
+| RN1 | 932 | 483 | 107 | 66% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 19 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 86 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
-| VeryLucky888 | 48 | 28 | 38 | 63% |
+| VeryLucky888 | 48 | 28 | 39 | 63% |
 | GoalLineGhost | 112 | 67 | 51 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 331 | 61% |
+| ferrariChampions2026 | 1466 | 930 | 333 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 63 | 60% |
 | flatbarrel | 6 | 4 | 1 | 60% |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | sbsigner | 33 | 26 | 16 | 56% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 77 | 64 | 26 | 55% |
 | 1winstreak1 | 36 | 33 | 1 | 52% |
-| monkeymashingkeyboard | 17 | 16 | 3 | 52% |
+| monkeymashingkeyboard | 17 | 16 | 4 | 52% |
 | wr0ngw4yb3tt0r | 121 | 121 | 5 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
@@ -61,12 +61,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 23 | 48% |
 | meoooow | 12 | 13 | 4 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
-| AnonymousUsername | 18 | 21 | 6 | 46% |
+| AnonymousUsername | 18 | 21 | 9 | 46% |
 | pleaseplease123 | 34 | 43 | 11 | 44% |
 | VPenguin | 10 | 14 | 4 | 42% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 0 | 39% |
 | jtwyslljy | 5 | 8 | 7 | 38% |
-| Flipadelphia | 5 | 8 | 7 | 38% |
+| Flipadelphia | 5 | 8 | 8 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 15 | 28 | 62 | 35% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 2 | 31% |
