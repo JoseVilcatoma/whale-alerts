@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 13:49:05 (hora de Perú)
+Actualizado: 2026-08-02 13:58:57 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -35,23 +35,23 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 27 | 9 | 3 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 932 | 483 | 177 | 66% |
+| RN1 | 932 | 483 | 178 | 66% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 24 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 105 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 106 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
 | VeryLucky888 | 48 | 28 | 77 | 63% |
 | GoalLineGhost | 112 | 67 | 71 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 462 | 61% |
+| ferrariChampions2026 | 1466 | 930 | 464 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 63 | 60% |
 | flatbarrel | 6 | 4 | 3 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 28 | 60% |
-| esportGG | 36 | 25 | 42 | 59% |
-| HomeRunHazard | 186 | 132 | 62 | 58% |
+| esportGG | 36 | 25 | 44 | 59% |
+| HomeRunHazard | 186 | 132 | 63 | 58% |
 | sbsigner | 33 | 26 | 18 | 56% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 77 | 64 | 42 | 55% |
-| 1winstreak1 | 36 | 33 | 4 | 52% |
+| 1winstreak1 | 36 | 33 | 5 | 52% |
 | monkeymashingkeyboard | 17 | 16 | 5 | 52% |
 | wr0ngw4yb3tt0r | 121 | 121 | 24 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -70,7 +70,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Talvez10 | 17 | 30 | 0 | 36% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 15 | 28 | 65 | 35% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 2 | 31% |
-| PASSTHEMONEY | 21 | 46 | 31 | 31% |
+| PASSTHEMONEY | 21 | 46 | 32 | 31% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | BirdMan. | 2 | 12 | 40 | 14% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
