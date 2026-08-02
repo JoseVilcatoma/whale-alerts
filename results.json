@@ -94054,5 +94054,17 @@
     "usd": 1540.0,
     "odds_at_bet": 77,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785664150,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kumstat-bueno-2026-08-02",
+    "title": "Liberec: Jan Kumstat vs Gonzalo Bueno",
+    "outcome": "Gonzalo Bueno",
+    "side": "BUY",
+    "usd": 1015.6302000000001,
+    "odds_at_bet": 18,
+    "status": "pending"
   }
 ]
