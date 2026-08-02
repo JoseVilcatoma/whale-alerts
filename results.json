@@ -90802,5 +90802,17 @@
     "usd": 2714.4296,
     "odds_at_bet": 82,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785655947,
+    "username": "denizz",
+    "wallet": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
+    "title": "Strait of Hormuz traffic returns to normal by September 30?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "usd": 1240.6914000000002,
+    "odds_at_bet": 26,
+    "status": "pending"
   }
 ]
