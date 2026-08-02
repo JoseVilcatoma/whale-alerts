@@ -1,13 +1,13 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 07:33:25 (hora de Perú)
+Actualizado: 2026-08-02 07:37:00 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
 | Sparkling8899 | 4 | 0 | 2 | ⚠️ 100% (muestra chica: 4) |
-| QuietRiskisWrong | 2 | 0 | 14 | ⚠️ 100% (muestra chica: 2) |
+| QuietRiskisWrong | 2 | 0 | 16 | ⚠️ 100% (muestra chica: 2) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | ninasuskevic | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
@@ -33,20 +33,20 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 915 | 481 | 54 | 66% |
+| RN1 | 915 | 481 | 57 | 66% |
 | esportGG | 31 | 16 | 35 | 66% |
 | cruzNBA | 11 | 6 | 4 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
-| us391 | 11 | 6 | 13 | 65% |
+| us391 | 11 | 6 | 14 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 25 | 64% |
 | VeryLucky888 | 48 | 27 | 14 | 64% |
 | GoalLineGhost | 112 | 67 | 23 | 63% |
-| ferrariChampions2026 | 1364 | 870 | 290 | 61% |
+| ferrariChampions2026 | 1364 | 870 | 294 | 61% |
 | UpTheBlues | 39 | 26 | 51 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 23 | 60% |
-| HomeRunHazard | 181 | 132 | 12 | 58% |
-| sbsigner | 31 | 24 | 8 | 56% |
+| HomeRunHazard | 181 | 132 | 14 | 58% |
+| sbsigner | 31 | 24 | 9 | 56% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 76 | 63 | 10 | 55% |
 | 1winstreak1 | 36 | 33 | 0 | 52% |
 | monkeymashingkeyboard | 17 | 16 | 3 | 52% |
@@ -74,8 +74,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | neurodivergentBet | 0 | 4 | 0 | ⚠️ 0% (muestra chica: 4) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
-| plonker2026 | 0 | 3 | 27 | ⚠️ 0% (muestra chica: 3) |
-| AV23IUa | 0 | 2 | 2 | ⚠️ 0% (muestra chica: 2) |
+| plonker2026 | 0 | 3 | 29 | ⚠️ 0% (muestra chica: 3) |
+| AV23IUa | 0 | 2 | 4 | ⚠️ 0% (muestra chica: 2) |
 | StasPanda | 0 | 2 | 8 | ⚠️ 0% (muestra chica: 2) |
 | BirdMan. | 0 | 2 | 43 | ⚠️ 0% (muestra chica: 2) |
 | balthazar | 0 | 0 | 17 | — |
