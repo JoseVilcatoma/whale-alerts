@@ -89914,5 +89914,41 @@
     "usd": 10137.1419,
     "odds_at_bet": 81,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785652393,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "chi-qin-hai-2026-08-02-qin",
+    "title": "Will Qingdao Xihaian FC win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1320.6283999999998,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785652424,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "chi-qin-hai-2026-08-02-qin",
+    "title": "Will Qingdao Xihaian FC win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1200.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785652424,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "chi-qin-hai-2026-08-02-qin",
+    "title": "Will Qingdao Xihaian FC win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1385.075,
+    "odds_at_bet": 50,
+    "status": "pending"
   }
 ]
