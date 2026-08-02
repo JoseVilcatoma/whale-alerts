@@ -106630,5 +106630,65 @@
     "usd": 3360.0000000000005,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785685021,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-zheng-kecmano-2026-08-02",
+    "title": "National Bank Open: Michael Zheng vs Miomir Kecmanovic",
+    "outcome": "Miomir Kecmanovic",
+    "side": "BUY",
+    "usd": 1136.548,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785685066,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "wta-pegula-eala-2026-08-02",
+    "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+    "outcome": "Jessica Pegula",
+    "side": "SELL",
+    "usd": 1200.0,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785685066,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-pegula-eala-2026-08-02",
+    "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 22174.2027,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785685066,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "wta-pegula-eala-2026-08-02",
+    "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "usd": 61716.43919999999,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785685127,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-pcfic-2026-08-02",
+    "title": "Valorant: BBL Esports vs Pcific Esports (BO3) - VCT EMEA Group Alpha",
+    "outcome": "BBL Esports",
+    "side": "BUY",
+    "usd": 1023.0300000000001,
+    "odds_at_bet": 81,
+    "status": "pending"
   }
 ]

@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 10:32:25 (hora de Perú)
+Actualizado: 2026-08-02 10:39:00 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -38,11 +38,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RN1 | 932 | 483 | 93 | 66% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 19 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 75 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 76 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
-| VeryLucky888 | 48 | 28 | 29 | 63% |
+| VeryLucky888 | 48 | 28 | 30 | 63% |
 | GoalLineGhost | 112 | 67 | 43 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 317 | 61% |
+| ferrariChampions2026 | 1466 | 930 | 319 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 63 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
@@ -90,3 +90,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ndb1 | 0 | 0 | 1 | — |
 | Avrtsz | 0 | 0 | 1 | — |
 | 111111111115 | 0 | 0 | 1 | — |
+| beachboy4 | 0 | 0 | 1 | — |
