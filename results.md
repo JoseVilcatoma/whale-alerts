@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 05:41:14 (hora de Perú)
+Actualizado: 2026-08-02 05:44:57 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 603 | 130 | 58 | 82% |
 | fRibrenlc | 12 | 3 | 2 | 80% |
 | mooseborzoi | 63 | 19 | 0 | 77% |
-| fkgggg2mouzfuria | 34 | 10 | 34 | 77% |
+| fkgggg2mouzfuria | 34 | 10 | 35 | 77% |
 | Djdjdjekekek | 121 | 39 | 0 | 76% |
 | one8tyfive | 31 | 10 | 1 | 76% |
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 7 | 48% |
 | meoooow | 10 | 11 | 6 | 48% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 12 | 13 | 25 | 48% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 12 | 13 | 27 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | AnonymousUsername | 18 | 21 | 0 | 46% |
 | pleaseplease123 | 34 | 43 | 0 | 44% |
