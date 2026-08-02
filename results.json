@@ -93910,5 +93910,17 @@
     "usd": 1209.264,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785663394,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ngx-og-2026-08-02-game1",
+    "title": "Dota 2: Nigma Galaxy vs OG - Game 1 Winner",
+    "outcome": "Nigma Galaxy",
+    "side": "BUY",
+    "usd": 1188.7622,
+    "odds_at_bet": 58,
+    "status": "pending"
   }
 ]
