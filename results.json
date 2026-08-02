@@ -93682,5 +93682,41 @@
     "usd": 2667.1158330000003,
     "odds_at_bet": 73,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785663184,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-mikaca-senica-2026-08-02",
+    "title": "ITF Rogaska Slatina: Sara Mikaca vs Alja Senica",
+    "outcome": "Alja Senica",
+    "side": "BUY",
+    "usd": 1423.0718,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785663202,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-bro2-2026-08-02-game2",
+    "title": "LoL: DN SOOPers vs HANJIN BRION - Game 2 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 3183.3265,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785663206,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-ngx-og-2026-08-02-game1",
+    "title": "Dota 2: Nigma Galaxy vs OG - Game 1 Winner",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 1000.0,
+    "odds_at_bet": 32,
+    "status": "pending"
   }
 ]
