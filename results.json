@@ -100426,5 +100426,101 @@
     "usd": 1150.0,
     "odds_at_bet": 92,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785675140,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "chi-tie-sgr-2026-08-02-spread-away-1pt5",
+    "title": "Spread: Shanghai Shenhua FC (-1.5)",
+    "outcome": "Liaoning Tieren FC",
+    "side": "BUY",
+    "usd": 1921.9979999999998,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785675140,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "chi-tie-sgr-2026-08-02-spread-away-1pt5",
+    "title": "Spread: Shanghai Shenhua FC (-1.5)",
+    "outcome": "Liaoning Tieren FC",
+    "side": "BUY",
+    "usd": 1511.25,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785675144,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-gl-mouz-2026-08-02-game2",
+    "title": "Dota 2: GamerLegion vs MOUZ - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "usd": 10000.0,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785675145,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game3",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 3 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1357.8888880000002,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785675174,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-gl-mouz-2026-08-02-game2",
+    "title": "Dota 2: GamerLegion vs MOUZ - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "usd": 9999.999999,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785675180,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02",
+    "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Bounty Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1998.05,
+    "odds_at_bet": 25,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785675202,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game3",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 3 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 3241.2574,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785675207,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game3",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 3 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 2697.3717199999996,
+    "odds_at_bet": 42,
+    "status": "pending"
   }
 ]
