@@ -92290,5 +92290,17 @@
     "usd": 4176.7209,
     "odds_at_bet": 99,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785659940,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-dnf-bro2-2026-08-02-game1",
+    "title": "LoL: DN SOOPers vs HANJIN BRION - Game 1 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 1751.6367,
+    "odds_at_bet": 99,
+    "status": "pending"
   }
 ]
