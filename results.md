@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 17:43:24 (hora de Perú)
+Actualizado: 2026-08-02 17:46:34 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -43,18 +43,18 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 9 | 5 | 1 | 64% |
 | UpTheBlues | 59 | 35 | 34 | 63% |
 | lllllllIlll | 5 | 3 | 2 | 62% |
-| ferrariChampions2026 | 1637 | 1050 | 350 | 61% |
+| ferrariChampions2026 | 1637 | 1050 | 353 | 61% |
 | us391 | 20 | 13 | 9 | 61% |
 | VeryLucky888 | 54 | 34 | 71 | 61% |
 | flatbarrel | 6 | 4 | 5 | 60% |
-| HomeRunHazard | 189 | 132 | 156 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 84 | 68 | 46 | 55% |
+| HomeRunHazard | 189 | 132 | 159 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 84 | 68 | 47 | 55% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 6 | 5 | 5 | 55% |
 | meoooow | 15 | 13 | 4 | 54% |
 | 1winstreak1 | 36 | 33 | 18 | 52% |
 | monkeymashingkeyboard | 17 | 16 | 5 | 52% |
-| BirdMan. | 25 | 23 | 16 | 52% |
-| wr0ngw4yb3tt0r | 121 | 121 | 41 | 50% |
+| BirdMan. | 25 | 23 | 17 | 52% |
+| wr0ngw4yb3tt0r | 121 | 121 | 42 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 32 | 32 | 11 | 50% |
@@ -72,7 +72,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | PASSTHEMONEY | 32 | 53 | 18 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 10 | 21 | 7 | 32% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 10 | 21 | 8 | 32% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 4 | 31% |
 | Anjun | 1 | 3 | 1 | ⚠️ 25% (muestra chica: 4) |
 | StasPanda | 2 | 7 | 13 | 22% |
@@ -89,9 +89,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | unbribeableref | 0 | 0 | 3 | — |
 | denizz | 0 | 0 | 14 | — |
 | ndb1 | 0 | 0 | 1 | — |
-| 111111111115 | 0 | 0 | 28 | — |
+| 111111111115 | 0 | 0 | 32 | — |
 | beachboy4 | 0 | 0 | 9 | — |
 | BrightStars | 0 | 0 | 2 | — |
 | PleaseWinPlease | 0 | 0 | 2 | — |
 | highnetworth | 0 | 0 | 4 | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 9 | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 12 | — |
