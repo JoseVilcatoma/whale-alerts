@@ -90034,5 +90034,29 @@
     "usd": 1320.0,
     "odds_at_bet": 66,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785653450,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "atp-atmane-draper-2026-08-03",
+    "title": "Canadian Open: Terence Atmane vs Jack Draper",
+    "outcome": "Jack Draper",
+    "side": "BUY",
+    "usd": 1567.5,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785653472,
+    "username": "jtwyslljy",
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "usd": 4185.277023,
+    "odds_at_bet": 23,
+    "status": "pending"
   }
 ]
