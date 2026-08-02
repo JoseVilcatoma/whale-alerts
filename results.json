@@ -88438,5 +88438,17 @@
     "usd": 1022.3800000000001,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785642419,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-mil-laa-2026-08-01",
+    "title": "Milwaukee Brewers vs. Los Angeles Angels",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 1236.008,
+    "odds_at_bet": 80,
+    "status": "pending"
   }
 ]
