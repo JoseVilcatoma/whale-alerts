@@ -96418,5 +96418,77 @@
     "usd": 1125.0886,
     "odds_at_bet": 37,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785668724,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game1",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 1 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1147.0,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785668733,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game1",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 1 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 2103.5499,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785668733,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game1",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 1 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 4858.5744,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785668826,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game1",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 1 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 3353.5643240000004,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785668863,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game1",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 1 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 3006.5412,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785668864,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "nor-aal-tro-2026-08-02-total-2pt5",
+    "title": "Aalesunds FK vs. Troms\u00f8 IL: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1026.0026,
+    "odds_at_bet": 58,
+    "status": "pending"
   }
 ]
