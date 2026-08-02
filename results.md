@@ -1,12 +1,12 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 04:53:55 (hora de Perú)
+Actualizado: 2026-08-02 04:56:00 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
-| Sparkling8899 | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
+| Sparkling8899 | 4 | 0 | 1 | ⚠️ 100% (muestra chica: 4) |
 | QuietRiskisWrong | 2 | 0 | 14 | ⚠️ 100% (muestra chica: 2) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | ninasuskevic | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
@@ -33,19 +33,19 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 915 | 481 | 30 | 66% |
+| RN1 | 915 | 481 | 31 | 66% |
 | esportGG | 31 | 16 | 12 | 66% |
 | cruzNBA | 11 | 6 | 3 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 10 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 4 | 64% |
-| VeryLucky888 | 48 | 27 | 6 | 64% |
-| GoalLineGhost | 112 | 67 | 4 | 63% |
+| VeryLucky888 | 48 | 27 | 7 | 64% |
+| GoalLineGhost | 112 | 67 | 5 | 63% |
 | ferrariChampions2026 | 1364 | 870 | 126 | 61% |
 | UpTheBlues | 39 | 26 | 27 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 21 | 60% |
-| HomeRunHazard | 181 | 132 | 2 | 58% |
+| HomeRunHazard | 181 | 132 | 3 | 58% |
 | sbsigner | 31 | 24 | 4 | 56% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 76 | 63 | 9 | 55% |
 | 1winstreak1 | 36 | 33 | 0 | 52% |
