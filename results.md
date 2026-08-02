@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 02:55:08 (hora de Perú)
+Actualizado: 2026-08-02 02:58:27 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -82,6 +82,6 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | unbribeableref | 0 | 0 | 3 | — |
 | olivermoon1 | 0 | 0 | 1 | — |
 | Anjun | 0 | 0 | 2 | — |
-| TopGleaguepick | 0 | 0 | 13 | — |
-| denizz | 0 | 0 | 7 | — |
+| TopGleaguepick | 0 | 0 | 14 | — |
+| denizz | 0 | 0 | 8 | — |
 | 0way | 0 | 0 | 2 | — |
