@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 04:44:28 (hora de Perú)
+Actualizado: 2026-08-02 04:46:38 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 915 | 481 | 29 | 66% |
+| RN1 | 915 | 481 | 30 | 66% |
 | esportGG | 31 | 16 | 12 | 66% |
 | cruzNBA | 11 | 6 | 3 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
