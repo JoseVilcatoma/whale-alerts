@@ -87802,5 +87802,113 @@
     "usd": 1016.1536000000001,
     "odds_at_bet": 77,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785633424,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mex-atl-mon1-2026-08-01-draw",
+    "title": "Will Atlas FC vs. CF Monterrey end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1511.1,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785633445,
+    "username": "olivermoon1",
+    "wallet": "0x7542fa229f63a7bd8a9ca4584638004a39317a20",
+    "slug": "mlb-bos-lad-2026-08-01",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 16761.438000000002,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785633445,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-bos-lad-2026-08-01",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 20612.702,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785633535,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-dcu-nas-2026-08-01-nas",
+    "title": "Will Nashville SC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1792.9236,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785633544,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-phi-atl-2026-08-01-atl",
+    "title": "Will Atlanta United FC win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1083.9976,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785633553,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-dcu-nas-2026-08-01-nas",
+    "title": "Will Nashville SC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1439.361,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785633558,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-det-oak-2026-08-01",
+    "title": "Detroit Tigers vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 21933.6,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785633576,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-dcu-nas-2026-08-01-nas",
+    "title": "Will Nashville SC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1761.9294,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785633577,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-lad-2026-08-01-total-7pt5",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1082.4,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]
