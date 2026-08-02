@@ -89554,5 +89554,29 @@
     "usd": 3834.9711899999998,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785645871,
+    "username": "Fallout3",
+    "wallet": "0x5ed5a5299060cdf83f009555cc0b8db3451df63a",
+    "slug": "btc-updown-5m-1785645900",
+    "title": "Bitcoin Up or Down - August 2, 12:45AM-12:50AM ET",
+    "outcome": "Up",
+    "side": "BUY",
+    "usd": 1299.7466,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785645922,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-por-sea-2026-08-01-draw",
+    "title": "Will Portland Timbers vs. Seattle Sounders FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1796.1802,
+    "odds_at_bet": 89,
+    "status": "pending"
   }
 ]
