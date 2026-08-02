@@ -90982,5 +90982,77 @@
     "usd": 2270.44728,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785656629,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 7828.63353,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785656640,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1350.0885600000001,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785656686,
+    "username": "denizz",
+    "wallet": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
+    "slug": "will-the-us-invade-iran-before-2027",
+    "title": "Will the U.S. invade Iran before 2027?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2252.1564000000003,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785656694,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-sashi-blackp-2026-08-02",
+    "title": "Counter-Strike: Sashi Esport vs Black Phoenix (BO3) - CCT Europe Series #5 Playoffs",
+    "outcome": "Black Phoenix",
+    "side": "BUY",
+    "usd": 1609.7344,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785656695,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1235.71305,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785656705,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-tex-hou-2026-08-02",
+    "title": "Texas Rangers vs. Houston Astros",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "usd": 14812.9992,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
