@@ -93634,5 +93634,53 @@
     "usd": 1456.3720930000002,
     "odds_at_bet": 69,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785662995,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ngx-og-2026-08-02-game1",
+    "title": "Dota 2: Nigma Galaxy vs OG - Game 1 Winner",
+    "outcome": "Nigma Galaxy",
+    "side": "BUY",
+    "usd": 1456.3829999999998,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785663001,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ngx-og-2026-08-02-game1",
+    "title": "Dota 2: Nigma Galaxy vs OG - Game 1 Winner",
+    "outcome": "Nigma Galaxy",
+    "side": "BUY",
+    "usd": 1456.3829999999998,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785663098,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "fin1-vps-int-2026-08-02-int",
+    "title": "Will FC Inter Turku win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1205.888108,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785663098,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ngx-og-2026-08-02-game1",
+    "title": "Dota 2: Nigma Galaxy vs OG - Game 1 Winner",
+    "outcome": "Nigma Galaxy",
+    "side": "BUY",
+    "usd": 2667.1158330000003,
+    "odds_at_bet": 73,
+    "status": "pending"
   }
 ]
