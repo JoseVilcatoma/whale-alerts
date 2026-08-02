@@ -86026,5 +86026,101 @@
     "usd": 1952.4692999999997,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785629634,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-mim-ner-2026-08-01-ner",
+    "title": "Will New England Revolution win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1230.9738000000002,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785629643,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "mex-leo-pac-2026-08-01-pac",
+    "title": "Will CF Pachuca win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1170.0,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785629643,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mex-leo-pac-2026-08-01-pac",
+    "title": "Will CF Pachuca win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1950.0,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785629649,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-nv2-fur-2026-08-01",
+    "title": "Valorant: Team Envy vs FURIA Esports (BO3) - VCT Americas Stage 2 Group Alpha",
+    "outcome": "Team Envy",
+    "side": "BUY",
+    "usd": 1376.8572000000001,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785629716,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-nakashi-fritz-2026-08-01",
+    "title": "Mubadala Citi DC Open: Brandon Nakashima vs Taylor Fritz",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 7157.5266,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785629720,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-dcu-nas-2026-08-01-nas",
+    "title": "Will Nashville SC win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1310.998,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785629784,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-que-tig-2026-08-01-tig",
+    "title": "Will Tigres de la UANL win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1625.2,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785629793,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-kc-col-2026-08-01",
+    "title": "Kansas City Royals vs. Colorado Rockies",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "usd": 1075.25,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]
