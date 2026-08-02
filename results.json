@@ -92350,5 +92350,53 @@
     "usd": 1720.0,
     "odds_at_bet": 86,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785660403,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-mortens-geerlin-2026-08-02",
+    "title": "ITF Kursumlijska Banja: Rebecca Munk Mortensen vs Ariana Geerlings",
+    "outcome": "Ariana Geerlings",
+    "side": "BUY",
+    "usd": 1840.0,
+    "odds_at_bet": 92,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785660442,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "mlb-bos-lad-2026-08-02",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 1635.309999,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785660451,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-ngx-og-2026-08-02-game1",
+    "title": "Dota 2: Nigma Galaxy vs OG - Game 1 Winner",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 11999.999999,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785660479,
+    "username": "0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509",
+    "wallet": "0x0954184654a6a3720f5dde4103a42af4dd0e1e1b",
+    "slug": "cs2-ts7-mouz-2026-08-02",
+    "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Bounty Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1489.7142849999998,
+    "odds_at_bet": 79,
+    "status": "pending"
   }
 ]
