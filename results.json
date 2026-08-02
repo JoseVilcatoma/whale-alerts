@@ -89470,5 +89470,29 @@
     "usd": 7750.299999999999,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785645269,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-por-sea-2026-08-01-por",
+    "title": "Will Portland Timbers win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1415.25,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785645281,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-ziegann-becroft-2026-08-02",
+    "title": "ITF Bali: Sam Ryan Ziegann vs Isaac Becroft",
+    "outcome": "Isaac Becroft",
+    "side": "BUY",
+    "usd": 1800.0,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]
