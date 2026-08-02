@@ -102490,5 +102490,41 @@
     "usd": 1659.37,
     "odds_at_bet": 43,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785679085,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mia-nym-2026-08-02",
+    "title": "Miami Marlins vs. New York Mets",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "usd": 8817.339999,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785679086,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-mia-nym-2026-08-02",
+    "title": "Miami Marlins vs. New York Mets",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 5819.737665999999,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785679087,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "den-bro-vib-2026-08-02-bro",
+    "title": "Will Br\u00f8ndby IF win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 7976.1857,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]

@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 08:58:05 (hora de Perú)
+Actualizado: 2026-08-02 09:01:20 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 9 | 5 | 0 | 64% |
 | VeryLucky888 | 48 | 28 | 17 | 63% |
 | GoalLineGhost | 112 | 67 | 26 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 213 | 61% |
+| ferrariChampions2026 | 1466 | 930 | 215 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 51 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 77 | 64 | 13 | 55% |
 | 1winstreak1 | 36 | 33 | 1 | 52% |
 | monkeymashingkeyboard | 17 | 16 | 3 | 52% |
-| wr0ngw4yb3tt0r | 121 | 121 | 3 | 50% |
+| wr0ngw4yb3tt0r | 121 | 121 | 4 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
