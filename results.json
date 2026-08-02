@@ -89758,5 +89758,29 @@
     "usd": 1227.5,
     "odds_at_bet": 49,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785649610,
+    "username": "Melody626",
+    "wallet": "0xecaa8806a9a05049d7d5260a33dc924220e377a9",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1733.6388000000002,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785649650,
+    "username": "ToeTickler98",
+    "wallet": "0x866056133a70de9282a080758858d1a0c8b393ed",
+    "slug": "val-var-drx1-2026-08-02",
+    "title": "Valorant: VARREL vs DRX (BO3) - VCT Pacific Group Omega",
+    "outcome": "VARREL",
+    "side": "BUY",
+    "usd": 7993.252799999999,
+    "odds_at_bet": 43,
+    "status": "pending"
   }
 ]
