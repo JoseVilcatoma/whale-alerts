@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 02:51:50 (hora de Perú)
+Actualizado: 2026-08-02 02:55:08 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 23 | 23 | 1 | 50% |
 | ToeTickler98 | 5 | 5 | 4 | 50% |
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
-| meoooow | 10 | 11 | 2 | 48% |
+| meoooow | 10 | 11 | 4 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | Flipadelphia | 5 | 6 | 3 | 45% |
 | pleaseplease123 | 30 | 39 | 8 | 43% |
@@ -82,6 +82,6 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | unbribeableref | 0 | 0 | 3 | — |
 | olivermoon1 | 0 | 0 | 1 | — |
 | Anjun | 0 | 0 | 2 | — |
-| TopGleaguepick | 0 | 0 | 12 | — |
-| denizz | 0 | 0 | 6 | — |
+| TopGleaguepick | 0 | 0 | 13 | — |
+| denizz | 0 | 0 | 7 | — |
 | 0way | 0 | 0 | 2 | — |
