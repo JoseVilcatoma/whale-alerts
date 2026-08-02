@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 17:53:00 (hora de Perú)
+Actualizado: 2026-08-02 17:59:29 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 55 | 8 | 7 | 87% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | fkgggg2mouzfuria | 72 | 15 | 37 | 83% |
-| swisstony | 640 | 139 | 137 | 82% |
+| swisstony | 640 | 139 | 138 | 82% |
 | mooseborzoi | 63 | 19 | 1 | 77% |
 | one8tyfive | 32 | 10 | 17 | 76% |
 | Spicer | 29 | 9 | 1 | 76% |
@@ -38,16 +38,16 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 15 | 7 | 0 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 147 | 76 | 57 | 66% |
-| RN1 | 956 | 516 | 300 | 65% |
+| RN1 | 956 | 516 | 302 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ToeTickler98 | 9 | 5 | 1 | 64% |
 | UpTheBlues | 59 | 35 | 34 | 63% |
 | lllllllIlll | 5 | 3 | 2 | 62% |
-| ferrariChampions2026 | 1637 | 1050 | 362 | 61% |
+| ferrariChampions2026 | 1637 | 1050 | 364 | 61% |
 | us391 | 20 | 13 | 9 | 61% |
 | VeryLucky888 | 54 | 34 | 71 | 61% |
 | flatbarrel | 6 | 4 | 5 | 60% |
-| HomeRunHazard | 189 | 132 | 160 | 59% |
+| HomeRunHazard | 189 | 132 | 162 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 84 | 68 | 47 | 55% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 6 | 5 | 5 | 55% |
 | meoooow | 15 | 13 | 4 | 54% |
@@ -62,17 +62,17 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 50 | 53 | 5 | 49% |
 | sbsigner | 36 | 39 | 7 | 48% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 61 | 48% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 62 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | AnonymousUsername | 18 | 21 | 28 | 46% |
 | pleaseplease123 | 34 | 43 | 28 | 44% |
 | jtwyslljy | 8 | 10 | 3 | 44% |
 | Flipadelphia | 6 | 9 | 10 | 40% |
-| 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 9 | 39% |
+| 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 11 | 39% |
 | PASSTHEMONEY | 32 | 53 | 19 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 10 | 21 | 8 | 32% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 10 | 21 | 9 | 32% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 4 | 31% |
 | Anjun | 1 | 3 | 1 | ⚠️ 25% (muestra chica: 4) |
 | StasPanda | 2 | 7 | 13 | 22% |
