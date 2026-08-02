@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 11:23:24 (hora de Perú)
+Actualizado: 2026-08-02 11:28:23 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -35,14 +35,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 27 | 9 | 2 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 932 | 483 | 112 | 66% |
+| RN1 | 932 | 483 | 115 | 66% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 19 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 91 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
 | VeryLucky888 | 48 | 28 | 40 | 63% |
-| GoalLineGhost | 112 | 67 | 54 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 352 | 61% |
+| GoalLineGhost | 112 | 67 | 55 | 63% |
+| ferrariChampions2026 | 1466 | 930 | 357 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 63 | 60% |
 | flatbarrel | 6 | 4 | 3 | 60% |
@@ -89,5 +89,5 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | denizz | 0 | 0 | 10 | — |
 | ndb1 | 0 | 0 | 1 | — |
 | Avrtsz | 0 | 0 | 1 | — |
-| 111111111115 | 0 | 0 | 9 | — |
+| 111111111115 | 0 | 0 | 10 | — |
 | beachboy4 | 0 | 0 | 3 | — |
