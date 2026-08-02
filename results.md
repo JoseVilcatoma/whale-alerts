@@ -1,14 +1,14 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 16:47:54 (hora de Perú)
+Actualizado: 2026-08-02 16:50:51 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
-| QuietRiskisWrong | 2 | 0 | 27 | ⚠️ 100% (muestra chica: 2) |
+| QuietRiskisWrong | 2 | 0 | 28 | ⚠️ 100% (muestra chica: 2) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
-| ninasuskevic | 4 | 0 | 15 | ⚠️ 100% (muestra chica: 4) |
+| ninasuskevic | 4 | 0 | 16 | ⚠️ 100% (muestra chica: 4) |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | SDTrading | 1 | 0 | 5 | ⚠️ 100% (muestra chica: 1) |
 | fazewinline | 9 | 0 | 0 | 100% |
@@ -25,9 +25,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 55 | 8 | 6 | 87% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | fkgggg2mouzfuria | 72 | 15 | 37 | 83% |
-| swisstony | 640 | 139 | 115 | 82% |
+| swisstony | 640 | 139 | 130 | 82% |
 | mooseborzoi | 63 | 19 | 1 | 77% |
-| one8tyfive | 32 | 10 | 8 | 76% |
+| one8tyfive | 32 | 10 | 13 | 76% |
 | Spicer | 29 | 9 | 1 | 76% |
 | Djdjdjekekek | 121 | 41 | 11 | 75% |
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
@@ -38,12 +38,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 15 | 7 | 0 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 147 | 76 | 55 | 66% |
-| RN1 | 956 | 516 | 261 | 65% |
+| RN1 | 956 | 516 | 273 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ToeTickler98 | 9 | 5 | 1 | 64% |
 | UpTheBlues | 59 | 35 | 34 | 63% |
 | lllllllIlll | 5 | 3 | 1 | 62% |
-| ferrariChampions2026 | 1637 | 1050 | 332 | 61% |
+| ferrariChampions2026 | 1637 | 1050 | 333 | 61% |
 | us391 | 20 | 13 | 9 | 61% |
 | VeryLucky888 | 54 | 34 | 71 | 61% |
 | flatbarrel | 6 | 4 | 5 | 60% |
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 50 | 53 | 5 | 49% |
 | sbsigner | 36 | 39 | 7 | 48% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 59 | 48% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 61 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | AnonymousUsername | 18 | 21 | 28 | 46% |
 | pleaseplease123 | 34 | 43 | 28 | 44% |
