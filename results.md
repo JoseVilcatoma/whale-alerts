@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 09:14:34 (hora de Perú)
+Actualizado: 2026-08-02 09:17:59 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 51 | 8 | 2 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | fkgggg2mouzfuria | 65 | 12 | 10 | 84% |
-| swisstony | 604 | 131 | 77 | 82% |
+| swisstony | 604 | 131 | 78 | 82% |
 | fRibrenlc | 12 | 3 | 5 | 80% |
 | mooseborzoi | 63 | 19 | 0 | 77% |
 | Djdjdjekekek | 121 | 39 | 0 | 76% |
@@ -38,17 +38,17 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RN1 | 932 | 483 | 67 | 66% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 17 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 35 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 46 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
 | VeryLucky888 | 48 | 28 | 17 | 63% |
 | GoalLineGhost | 112 | 67 | 26 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 243 | 61% |
+| ferrariChampions2026 | 1466 | 930 | 249 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 51 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 24 | 60% |
 | esportGG | 36 | 25 | 29 | 59% |
-| HomeRunHazard | 186 | 132 | 15 | 58% |
+| HomeRunHazard | 186 | 132 | 16 | 58% |
 | sbsigner | 33 | 26 | 12 | 56% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 77 | 64 | 15 | 55% |
 | 1winstreak1 | 36 | 33 | 1 | 52% |
@@ -62,13 +62,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | meoooow | 12 | 13 | 4 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | AnonymousUsername | 18 | 21 | 0 | 46% |
-| pleaseplease123 | 34 | 43 | 1 | 44% |
+| pleaseplease123 | 34 | 43 | 2 | 44% |
 | VPenguin | 10 | 14 | 4 | 42% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 0 | 39% |
 | jtwyslljy | 5 | 8 | 7 | 38% |
 | Flipadelphia | 5 | 8 | 2 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 15 | 28 | 44 | 35% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 15 | 28 | 46 | 35% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 1 | 31% |
 | PASSTHEMONEY | 21 | 46 | 17 | 31% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
