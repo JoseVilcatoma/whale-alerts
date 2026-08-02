@@ -89386,5 +89386,17 @@
     "usd": 1257.6000000000001,
     "odds_at_bet": 32,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785645049,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-por-sea-2026-08-01-total-4pt5",
+    "title": "Portland Timbers vs. Seattle Sounders FC: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1026.0005999999998,
+    "odds_at_bet": 94,
+    "status": "pending"
   }
 ]
