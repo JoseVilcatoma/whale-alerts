@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 15:36:48 (hora de Perú)
+Actualizado: 2026-08-02 15:39:14 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -8,7 +8,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 |---|---|---|---|---|
 | QuietRiskisWrong | 2 | 0 | 21 | ⚠️ 100% (muestra chica: 2) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
-| ninasuskevic | 4 | 0 | 5 | ⚠️ 100% (muestra chica: 4) |
+| ninasuskevic | 4 | 0 | 9 | ⚠️ 100% (muestra chica: 4) |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | SDTrading | 1 | 0 | 5 | ⚠️ 100% (muestra chica: 1) |
 | fazewinline | 9 | 0 | 0 | 100% |
@@ -20,7 +20,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | TopGleaguepick | 14 | 0 | 2 | 100% |
 | patient12 | 14 | 0 | 1 | 100% |
-| Avrtsz | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
+| Avrtsz | 1 | 0 | 1 | ⚠️ 100% (muestra chica: 1) |
 | paquitomillonario | 12 | 1 | 4 | 92% |
 | cigarettes | 55 | 8 | 6 | 87% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
@@ -38,17 +38,17 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 15 | 7 | 0 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 147 | 76 | 40 | 66% |
-| RN1 | 956 | 516 | 183 | 65% |
+| RN1 | 956 | 516 | 194 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
 | UpTheBlues | 59 | 35 | 34 | 63% |
 | lllllllIlll | 5 | 3 | 1 | 62% |
-| ferrariChampions2026 | 1637 | 1050 | 257 | 61% |
+| ferrariChampions2026 | 1637 | 1050 | 258 | 61% |
 | us391 | 20 | 13 | 8 | 61% |
 | VeryLucky888 | 54 | 34 | 71 | 61% |
 | flatbarrel | 6 | 4 | 5 | 60% |
-| HomeRunHazard | 189 | 132 | 116 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 84 | 68 | 39 | 55% |
+| HomeRunHazard | 189 | 132 | 117 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 84 | 68 | 41 | 55% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 6 | 5 | 5 | 55% |
 | meoooow | 15 | 13 | 4 | 54% |
 | 1winstreak1 | 36 | 33 | 13 | 52% |
@@ -91,6 +91,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ndb1 | 0 | 0 | 1 | — |
 | 111111111115 | 0 | 0 | 22 | — |
 | beachboy4 | 0 | 0 | 9 | — |
-| BrightStars | 0 | 0 | 1 | — |
+| BrightStars | 0 | 0 | 2 | — |
 | PleaseWinPlease | 0 | 0 | 1 | — |
 | highnetworth | 0 | 0 | 4 | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 2 | — |
