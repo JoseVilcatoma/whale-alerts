@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 19:07:04 (hora de Perú)
+Actualizado: 2026-08-01 19:10:13 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -17,7 +17,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | texaskid | 8 | 0 | 7 | 100% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 1 | 0 | 5 | ⚠️ 100% (muestra chica: 1) |
 | Djdjdjekekek | 109 | 13 | 34 | 89% |
-| mooseborzoi | 15 | 2 | 51 | 88% |
+| mooseborzoi | 15 | 2 | 52 | 88% |
 | Spicer | 26 | 4 | 0 | 87% |
 | cigarettes | 46 | 8 | 5 | 85% |
 | swisstony | 502 | 108 | 145 | 82% |
@@ -33,8 +33,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RN1 | 771 | 393 | 223 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 44 | 66% |
 | esportGG | 16 | 10 | 21 | 62% |
-| GoalLineGhost | 21 | 13 | 70 | 62% |
-| ferrariChampions2026 | 1051 | 688 | 441 | 60% |
+| GoalLineGhost | 21 | 13 | 77 | 62% |
+| ferrariChampions2026 | 1051 | 688 | 446 | 60% |
 | sbsigner | 26 | 17 | 12 | 60% |
 | fRibrenlc | 3 | 2 | 6 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 24 | 59% |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BreakTheBank | 4 | 4 | 2 | 50% |
 | jtwyslljy | 4 | 4 | 2 | 50% |
 | 1winstreak1 | 26 | 28 | 9 | 48% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 41 | 45 | 47 | 48% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 41 | 45 | 48 | 48% |
 | meoooow | 10 | 11 | 0 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | pleaseplease123 | 21 | 28 | 26 | 43% |
