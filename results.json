@@ -104362,5 +104362,101 @@
     "usd": 1521.4178,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785682429,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-quevedo-samson-2026-08-02",
+    "title": "Targu Mures: Kaitlin Quevedo vs Laura Samson",
+    "outcome": "Kaitlin Quevedo",
+    "side": "BUY",
+    "usd": 1219.670289,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785682462,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "swe-aik-org-2026-08-02-total-2pt5",
+    "title": "AIK vs. Orgryte IS: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2309.5399989999996,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785682471,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-rnx-yb1-2026-08-02",
+    "title": "Dota 2: REKONIX vs Yakult Brothers (BO3) - Games of the Future Playoffs",
+    "outcome": "REKONIX",
+    "side": "BUY",
+    "usd": 4398.5299,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785682474,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "nor-kfu-kbk-2026-08-02-kbk",
+    "title": "Will Kristiansund BK win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1048.859997,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785682498,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "swe-aik-org-2026-08-02-total-2pt5",
+    "title": "AIK vs. Orgryte IS: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1530.0,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785682511,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "swe-aik-org-2026-08-02-total-2pt5",
+    "title": "AIK vs. Orgryte IS: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1458.9,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785682519,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "swe-aik-org-2026-08-02-total-2pt5",
+    "title": "AIK vs. Orgryte IS: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1296.0,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785682547,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-rnx-yb1-2026-08-02",
+    "title": "Dota 2: REKONIX vs Yakult Brothers (BO3) - Games of the Future Playoffs",
+    "outcome": "REKONIX",
+    "side": "BUY",
+    "usd": 4999.999999000001,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]

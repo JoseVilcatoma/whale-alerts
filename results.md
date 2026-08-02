@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 09:52:06 (hora de Perú)
+Actualizado: 2026-08-02 09:55:51 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 51 | 8 | 2 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | fkgggg2mouzfuria | 65 | 12 | 11 | 84% |
-| swisstony | 604 | 131 | 78 | 82% |
+| swisstony | 604 | 131 | 84 | 82% |
 | fRibrenlc | 12 | 3 | 5 | 80% |
 | mooseborzoi | 63 | 19 | 1 | 77% |
 | Djdjdjekekek | 121 | 39 | 0 | 76% |
@@ -68,7 +68,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | jtwyslljy | 5 | 8 | 7 | 38% |
 | Flipadelphia | 5 | 8 | 6 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 15 | 28 | 47 | 35% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 15 | 28 | 49 | 35% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 1 | 31% |
 | PASSTHEMONEY | 21 | 46 | 17 | 31% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
