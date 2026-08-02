@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 11:28:23 (hora de Perú)
+Actualizado: 2026-08-02 11:30:54 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -11,7 +11,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | ninasuskevic | 4 | 0 | 1 | ⚠️ 100% (muestra chica: 4) |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
-| SDTrading | 1 | 0 | 1 | ⚠️ 100% (muestra chica: 1) |
+| SDTrading | 1 | 0 | 3 | ⚠️ 100% (muestra chica: 1) |
 | fazewinline | 9 | 0 | 0 | 100% |
 | Pwaddler | 5 | 0 | 0 | ⚠️ 100% (muestra chica: 5) |
 | texaskid | 15 | 0 | 1 | 100% |

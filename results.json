@@ -108850,5 +108850,29 @@
     "usd": 3095.5952999999995,
     "odds_at_bet": 69,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785688126,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-sf-sd-2026-08-02",
+    "title": "San Francisco Giants vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 1421.1218,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785688155,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-sf-sd-2026-08-02-spread-home-1pt5",
+    "title": "Spread: San Diego Padres (-1.5)",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 1351.2,
+    "odds_at_bet": 40,
+    "status": "pending"
   }
 ]
