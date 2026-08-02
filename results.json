@@ -87082,5 +87082,29 @@
     "usd": 1154.922,
     "odds_at_bet": 45,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785631436,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-ari-cle-2026-08-01",
+    "title": "Arizona Diamondbacks vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 9756.056000000002,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785631456,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-min-sdg-2026-08-01-min",
+    "title": "Will Minnesota United FC win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1122.8096,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]
