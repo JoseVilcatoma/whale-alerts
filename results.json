@@ -90814,5 +90814,17 @@
     "usd": 1240.6914000000002,
     "odds_at_bet": 26,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785656175,
+    "username": "denizz",
+    "wallet": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
+    "slug": "will-the-us-invade-iran-before-2027",
+    "title": "Will the U.S. invade Iran before 2027?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 6217.2765,
+    "odds_at_bet": 81,
+    "status": "pending"
   }
 ]
