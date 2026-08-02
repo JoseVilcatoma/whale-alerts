@@ -111802,5 +111802,113 @@
     "usd": 2492.0064,
     "odds_at_bet": 96,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785692464,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-sun-wre-2026-08-02-total-2pt5",
+    "title": "Sunderland AFC vs. Wrexham AFC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1062.999,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785692491,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-stl-tor-2026-08-02-total-8pt5",
+    "title": "St. Louis Cardinals vs. Toronto Blue Jays: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1056.521739,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785692505,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "mlb-sf-sd-2026-08-02",
+    "title": "San Francisco Giants vs. San Diego Padres",
+    "outcome": "San Francisco Giants",
+    "side": "BUY",
+    "usd": 1434.8295,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785692511,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-fnc-mkoi-2026-08-02-game1",
+    "title": "LoL: Fnatic vs Movistar KOI - Game 1 Winner",
+    "outcome": "Fnatic",
+    "side": "BUY",
+    "usd": 12678.194699999998,
+    "odds_at_bet": 24,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785692529,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-fnc-mkoi-2026-08-02-game1",
+    "title": "LoL: Fnatic vs Movistar KOI - Game 1 Winner",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 1537.3799999999999,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785692534,
+    "username": "StasPanda",
+    "wallet": "0x7e5e420a5cde8a322f3b5b93a12a164827f47315",
+    "slug": "dota2-liquid-lgd-2026-08-02-lgd",
+    "title": "LGD Gaming to win 2-0?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 3309.7305999999994,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785692548,
+    "username": "StasPanda",
+    "wallet": "0x7e5e420a5cde8a322f3b5b93a12a164827f47315",
+    "slug": "dota2-liquid-lgd-2026-08-02-lgd",
+    "title": "LGD Gaming to win 2-0?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 12398.1652,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785692550,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "hr1-var-haj-2026-08-02-haj",
+    "title": "Will HNK Hajduk Split win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 18815.0492,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785692599,
+    "username": "BirdMan.",
+    "wallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+    "slug": "lol-fnc-mkoi-2026-08-02-game1",
+    "title": "LoL: Fnatic vs Movistar KOI - Game 1 Winner",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 3385.1579,
+    "odds_at_bet": 79,
+    "status": "pending"
   }
 ]
