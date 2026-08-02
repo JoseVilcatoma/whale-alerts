@@ -96946,5 +96946,41 @@
     "usd": 1553.0704,
     "odds_at_bet": 92,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785669940,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "swe-bro-mal-2026-08-02-mal",
+    "title": "Will Malmo FF win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 8048.645,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785669942,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "swe-bro-mal-2026-08-02-mal",
+    "title": "Will Malmo FF win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 4400.0,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785669944,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "nor-kfu-kbk-2026-08-02-total-1pt5",
+    "title": "KFUM-Kameratene Oslo vs. Kristiansund BK: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1514.0034000000003,
+    "odds_at_bet": 81,
+    "status": "pending"
   }
 ]
