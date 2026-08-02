@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 05:22:03 (hora de Perú)
+Actualizado: 2026-08-02 05:24:24 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 26 | 4 | 5 | 87% |
 | cigarettes | 51 | 8 | 0 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
-| swisstony | 603 | 130 | 56 | 82% |
-| fRibrenlc | 12 | 3 | 1 | 80% |
+| swisstony | 603 | 130 | 58 | 82% |
+| fRibrenlc | 12 | 3 | 2 | 80% |
 | mooseborzoi | 63 | 19 | 0 | 77% |
 | fkgggg2mouzfuria | 34 | 10 | 33 | 77% |
 | Djdjdjekekek | 121 | 39 | 0 | 76% |
@@ -40,9 +40,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | us391 | 11 | 6 | 12 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 5 | 64% |
 | VeryLucky888 | 48 | 27 | 9 | 64% |
-| GoalLineGhost | 112 | 67 | 6 | 63% |
-| ferrariChampions2026 | 1364 | 870 | 161 | 61% |
-| UpTheBlues | 39 | 26 | 30 | 60% |
+| GoalLineGhost | 112 | 67 | 7 | 63% |
+| ferrariChampions2026 | 1364 | 870 | 164 | 61% |
+| UpTheBlues | 39 | 26 | 31 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 21 | 60% |
 | HomeRunHazard | 181 | 132 | 5 | 58% |
@@ -67,7 +67,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 0 | 39% |
 | Flipadelphia | 5 | 8 | 1 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
-| PASSTHEMONEY | 20 | 42 | 8 | 32% |
+| PASSTHEMONEY | 20 | 42 | 9 | 32% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 1 | 31% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
@@ -87,4 +87,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0way | 0 | 0 | 5 | — |
 | ndb1 | 0 | 0 | 1 | — |
 | patient12 | 0 | 0 | 14 | — |
-| lllllllIlll | 0 | 0 | 4 | — |
+| lllllllIlll | 0 | 0 | 6 | — |
