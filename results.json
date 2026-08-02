@@ -102418,5 +102418,77 @@
     "usd": 1498.1399999999999,
     "odds_at_bet": 29,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785678926,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "lol-ly-sr-2026-08-02",
+    "title": "LoL: LYON vs Shopify Rebellion (BO3) - LCS Regular Season",
+    "outcome": "LYON",
+    "side": "SELL",
+    "usd": 1680.0,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785678951,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "swe-aik-org-2026-08-02-corners-total-9pt5",
+    "title": "AIK vs. Orgryte IS: O/U 9.5 Total Corners",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1200.0,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785678955,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tex-hou-2026-08-02",
+    "title": "Texas Rangers vs. Houston Astros",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "usd": 10384.7425,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785678967,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game4",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 4 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 2039.927142,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785678997,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game4",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 4 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 7841.183999999999,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785679025,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game4",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 4 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1659.37,
+    "odds_at_bet": 43,
+    "status": "pending"
   }
 ]
