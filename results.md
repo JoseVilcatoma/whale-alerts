@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 18:54:44 (hora de Perú)
+Actualizado: 2026-08-01 19:00:51 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -17,7 +17,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | texaskid | 8 | 0 | 7 | 100% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 1 | 0 | 5 | ⚠️ 100% (muestra chica: 1) |
 | Djdjdjekekek | 109 | 13 | 34 | 89% |
-| mooseborzoi | 15 | 2 | 47 | 88% |
+| mooseborzoi | 15 | 2 | 49 | 88% |
 | Spicer | 26 | 4 | 0 | 87% |
 | cigarettes | 46 | 8 | 5 | 85% |
 | swisstony | 502 | 108 | 143 | 82% |
@@ -30,22 +30,22 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Fallout3 | 11 | 5 | 0 | 69% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 3 | 5 | 67% |
 | one8tyfive | 14 | 7 | 20 | 67% |
-| RN1 | 771 | 393 | 220 | 66% |
+| RN1 | 771 | 393 | 221 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 44 | 66% |
 | esportGG | 16 | 10 | 21 | 62% |
-| GoalLineGhost | 21 | 13 | 66 | 62% |
-| ferrariChampions2026 | 1051 | 688 | 434 | 60% |
+| GoalLineGhost | 21 | 13 | 67 | 62% |
+| ferrariChampions2026 | 1051 | 688 | 437 | 60% |
 | sbsigner | 26 | 17 | 12 | 60% |
 | fRibrenlc | 3 | 2 | 6 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 24 | 59% |
-| HomeRunHazard | 73 | 50 | 154 | 59% |
+| HomeRunHazard | 73 | 50 | 155 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 11 | 8 | 13 | 58% |
-| wr0ngw4yb3tt0r | 80 | 67 | 63 | 54% |
+| wr0ngw4yb3tt0r | 80 | 67 | 64 | 54% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
 | jtwyslljy | 4 | 4 | 2 | 50% |
 | 1winstreak1 | 26 | 28 | 8 | 48% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 41 | 45 | 45 | 48% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 41 | 45 | 46 | 48% |
 | meoooow | 10 | 11 | 0 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | pleaseplease123 | 21 | 28 | 26 | 43% |
@@ -68,7 +68,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | balthazar | 0 | 0 | 17 | — |
 | Bigggggggg | 0 | 0 | 24 | — |
 | Melody626 | 0 | 0 | 6 | — |
-| AnonymousUsername | 0 | 0 | 29 | — |
+| AnonymousUsername | 0 | 0 | 30 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | ToeTickler98 | 0 | 0 | 10 | — |
 | SDTrading | 0 | 0 | 1 | — |
