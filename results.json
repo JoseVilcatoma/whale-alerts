@@ -89590,5 +89590,41 @@
     "usd": 1810.9986999999999,
     "odds_at_bet": 89,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785646088,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-caz-atla-2026-08-01-atla",
+    "title": "Will Atlante FC win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2215.929998,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785646110,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-caz-atla-2026-08-01-atla",
+    "title": "Will Atlante FC win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2495.709993,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785646111,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "mlb-det-oak-2026-08-01",
+    "title": "Detroit Tigers vs. Athletics",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "usd": 2424.99998,
+    "odds_at_bet": 97,
+    "status": "pending"
   }
 ]
