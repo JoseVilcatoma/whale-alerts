@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 04:38:05 (hora de Perú)
+Actualizado: 2026-08-02 04:40:12 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -27,17 +27,17 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 603 | 130 | 53 | 82% |
 | fRibrenlc | 12 | 3 | 1 | 80% |
 | mooseborzoi | 63 | 19 | 0 | 77% |
-| fkgggg2mouzfuria | 34 | 10 | 31 | 77% |
+| fkgggg2mouzfuria | 34 | 10 | 32 | 77% |
 | Djdjdjekekek | 121 | 39 | 0 | 76% |
 | one8tyfive | 31 | 10 | 1 | 76% |
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 915 | 481 | 28 | 66% |
+| RN1 | 915 | 481 | 29 | 66% |
 | esportGG | 31 | 16 | 12 | 66% |
 | cruzNBA | 11 | 6 | 3 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
-| us391 | 11 | 6 | 9 | 65% |
+| us391 | 11 | 6 | 10 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 3 | 64% |
 | VeryLucky888 | 48 | 27 | 6 | 64% |
 | GoalLineGhost | 112 | 67 | 4 | 63% |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 20 | 60% |
 | HomeRunHazard | 181 | 132 | 2 | 58% |
 | sbsigner | 31 | 24 | 4 | 56% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 76 | 63 | 8 | 55% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 76 | 63 | 9 | 55% |
 | 1winstreak1 | 36 | 33 | 0 | 52% |
 | monkeymashingkeyboard | 17 | 16 | 1 | 52% |
 | wr0ngw4yb3tt0r | 121 | 121 | 0 | 50% |
