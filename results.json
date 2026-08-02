@@ -92506,5 +92506,41 @@
     "usd": 22073.2468,
     "odds_at_bet": 71,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785661346,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-bro2-2026-08-02",
+    "title": "LoL: DN SOOPers vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 1360.1219999999998,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785661357,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-playti-xctn-2026-08-02",
+    "title": "Dota 2: PlayTime vs Execration (BO3) - Games of the Future Playoffs",
+    "outcome": "Execration",
+    "side": "BUY",
+    "usd": 1000.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785661360,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-dnf-bro2-2026-08-02-game2",
+    "title": "LoL: DN SOOPers vs HANJIN BRION - Game 2 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 22799.630299999997,
+    "odds_at_bet": 38,
+    "status": "pending"
   }
 ]

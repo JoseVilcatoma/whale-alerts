@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 04:01:28 (hora de Perú)
+Actualizado: 2026-08-02 04:03:32 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -34,14 +34,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
 | RN1 | 915 | 481 | 25 | 66% |
-| esportGG | 31 | 16 | 11 | 66% |
+| esportGG | 31 | 16 | 12 | 66% |
 | cruzNBA | 11 | 6 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 9 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 2 | 64% |
 | VeryLucky888 | 48 | 27 | 4 | 64% |
 | GoalLineGhost | 112 | 67 | 4 | 63% |
-| ferrariChampions2026 | 1364 | 870 | 68 | 61% |
+| ferrariChampions2026 | 1364 | 870 | 69 | 61% |
 | UpTheBlues | 39 | 26 | 23 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 18 | 60% |
@@ -67,7 +67,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 0 | 39% |
 | Flipadelphia | 5 | 8 | 1 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
-| PASSTHEMONEY | 20 | 42 | 5 | 32% |
+| PASSTHEMONEY | 20 | 42 | 6 | 32% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 1 | 31% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
