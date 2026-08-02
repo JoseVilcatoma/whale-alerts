@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 13:26:26 (hora de Perú)
+Actualizado: 2026-08-02 13:29:37 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | paquitomillonario | 12 | 1 | 3 | 92% |
 | cigarettes | 51 | 8 | 9 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
-| fkgggg2mouzfuria | 65 | 12 | 37 | 84% |
+| fkgggg2mouzfuria | 65 | 12 | 38 | 84% |
 | swisstony | 604 | 131 | 119 | 82% |
 | fRibrenlc | 12 | 3 | 9 | 80% |
 | mooseborzoi | 63 | 19 | 1 | 77% |
@@ -35,20 +35,20 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 27 | 9 | 3 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 932 | 483 | 163 | 66% |
+| RN1 | 932 | 483 | 167 | 66% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 24 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 100 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
-| VeryLucky888 | 48 | 28 | 74 | 63% |
+| VeryLucky888 | 48 | 28 | 76 | 63% |
 | GoalLineGhost | 112 | 67 | 69 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 445 | 61% |
+| ferrariChampions2026 | 1466 | 930 | 446 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 63 | 60% |
 | flatbarrel | 6 | 4 | 3 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 28 | 60% |
 | esportGG | 36 | 25 | 42 | 59% |
-| HomeRunHazard | 186 | 132 | 55 | 58% |
+| HomeRunHazard | 186 | 132 | 56 | 58% |
 | sbsigner | 33 | 26 | 18 | 56% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 77 | 64 | 38 | 55% |
 | 1winstreak1 | 36 | 33 | 2 | 52% |
@@ -72,7 +72,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 2 | 31% |
 | PASSTHEMONEY | 21 | 46 | 24 | 31% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
-| BirdMan. | 2 | 12 | 39 | 14% |
+| BirdMan. | 2 | 12 | 40 | 14% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | neurodivergentBet | 0 | 4 | 0 | ⚠️ 0% (muestra chica: 4) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
@@ -90,6 +90,6 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ndb1 | 0 | 0 | 1 | — |
 | Avrtsz | 0 | 0 | 1 | — |
 | 111111111115 | 0 | 0 | 16 | — |
-| beachboy4 | 0 | 0 | 3 | — |
+| beachboy4 | 0 | 0 | 4 | — |
 | BrightStars | 0 | 0 | 1 | — |
 | PleaseWinPlease | 0 | 0 | 1 | — |
