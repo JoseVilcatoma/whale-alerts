@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 02:16:58 (hora de Perú)
+Actualizado: 2026-08-02 02:19:06 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mooseborzoi | 49 | 17 | 16 | 74% |
 | fRibrenlc | 8 | 3 | 4 | 73% |
 | us391 | 8 | 3 | 13 | 73% |
-| Fallout3 | 11 | 5 | 2 | 69% |
+| Fallout3 | 11 | 5 | 3 | 69% |
 | VeryLucky888 | 47 | 23 | 8 | 67% |
 | RN1 | 899 | 470 | 47 | 66% |
 | esportGG | 31 | 16 | 1 | 66% |
@@ -44,12 +44,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | UpTheBlues | 39 | 26 | 22 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 9 | 60% |
 | HomeRunHazard | 162 | 117 | 35 | 58% |
-| sbsigner | 31 | 23 | 1 | 57% |
+| sbsigner | 31 | 23 | 2 | 57% |
 | GoalLineGhost | 85 | 64 | 33 | 57% |
 | monkeymashingkeyboard | 16 | 13 | 4 | 55% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 67 | 57 | 20 | 54% |
 | 1winstreak1 | 36 | 32 | 1 | 53% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 12 | 11 | 3 | 52% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 12 | 11 | 4 | 52% |
 | wr0ngw4yb3tt0r | 119 | 117 | 6 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
@@ -82,5 +82,5 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | unbribeableref | 0 | 0 | 3 | — |
 | olivermoon1 | 0 | 0 | 1 | — |
 | Anjun | 0 | 0 | 2 | — |
-| TopGleaguepick | 0 | 0 | 6 | — |
+| TopGleaguepick | 0 | 0 | 7 | — |
 | denizz | 0 | 0 | 1 | — |

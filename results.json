@@ -90382,5 +90382,53 @@
     "usd": 1008.0071999999999,
     "odds_at_bet": 24,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785655035,
+    "username": "TopGleaguepick",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 4944.2673,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655060,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "lol-tt-we-2026-08-02",
+    "title": "LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1168.48,
+    "odds_at_bet": 25,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655116,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-playti-xctn-2026-08-02-game2",
+    "title": "Dota 2: PlayTime vs Execration - Game 2 Winner",
+    "outcome": "Execration",
+    "side": "BUY",
+    "usd": 1000.0000000000001,
+    "odds_at_bet": 25,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655126,
+    "username": "Fallout3",
+    "wallet": "0x5ed5a5299060cdf83f009555cc0b8db3451df63a",
+    "slug": "btc-updown-5m-1785654900",
+    "title": "Bitcoin Up or Down - August 2, 3:15AM-3:20AM ET",
+    "outcome": "Down",
+    "side": "BUY",
+    "usd": 1060.651998,
+    "odds_at_bet": 73,
+    "status": "pending"
   }
 ]
