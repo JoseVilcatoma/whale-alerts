@@ -86122,5 +86122,41 @@
     "usd": 1075.25,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785629798,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-kc-col-2026-08-01",
+    "title": "Kansas City Royals vs. Colorado Rockies",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "usd": 1290.619999,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785629820,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-pit-cin-2026-08-01",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 11359.998899999999,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785629820,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-pit-cin-2026-08-01",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 1985.1918000000005,
+    "odds_at_bet": 13,
+    "status": "pending"
   }
 ]
