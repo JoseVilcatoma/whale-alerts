@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 07:22:57 (hora de Perú)
+Actualizado: 2026-08-02 07:26:23 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -27,21 +27,21 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 603 | 130 | 65 | 82% |
 | fRibrenlc | 12 | 3 | 2 | 80% |
 | mooseborzoi | 63 | 19 | 0 | 77% |
-| fkgggg2mouzfuria | 34 | 10 | 39 | 77% |
+| fkgggg2mouzfuria | 34 | 10 | 40 | 77% |
 | Djdjdjekekek | 121 | 39 | 0 | 76% |
 | one8tyfive | 31 | 10 | 1 | 76% |
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
 | RN1 | 915 | 481 | 54 | 66% |
-| esportGG | 31 | 16 | 31 | 66% |
+| esportGG | 31 | 16 | 32 | 66% |
 | cruzNBA | 11 | 6 | 4 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 13 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 12 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 15 | 64% |
 | VeryLucky888 | 48 | 27 | 14 | 64% |
-| GoalLineGhost | 112 | 67 | 21 | 63% |
-| ferrariChampions2026 | 1364 | 870 | 283 | 61% |
+| GoalLineGhost | 112 | 67 | 22 | 63% |
+| ferrariChampions2026 | 1364 | 870 | 287 | 61% |
 | UpTheBlues | 39 | 26 | 51 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 23 | 60% |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | wr0ngw4yb3tt0r | 121 | 121 | 1 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
-| jtwyslljy | 5 | 5 | 8 | 50% |
+| jtwyslljy | 5 | 5 | 9 | 50% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 23 | 23 | 11 | 50% |
 | ToeTickler98 | 5 | 5 | 4 | 50% |
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
@@ -67,7 +67,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 0 | 39% |
 | Flipadelphia | 5 | 8 | 1 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
-| PASSTHEMONEY | 20 | 42 | 15 | 32% |
+| PASSTHEMONEY | 20 | 42 | 16 | 32% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 1 | 31% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
