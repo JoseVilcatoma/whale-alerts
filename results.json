@@ -90730,5 +90730,77 @@
     "usd": 15604.046999999999,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785655721,
+    "username": "denizz",
+    "wallet": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
+    "slug": "us-announces-end-of-iranian-blockade-by-august-15-2026-20260713152715083-347",
+    "title": "US announces end of Iranian blockade by August 15, 2026?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1695.7136,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655726,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 1214.9919,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655746,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 1345.8231,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655755,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-g1-cs1-2026-08-02",
+    "title": "Counter-Strike: GenOne vs CYBERSHOKE Esports (BO3) - Thunderpick World Championship European Series #2 Playoffs",
+    "outcome": "CYBERSHOKE Esports",
+    "side": "BUY",
+    "usd": 1304.274,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655756,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-sashi-blackp-2026-08-02",
+    "title": "Counter-Strike: Sashi Esport vs Black Phoenix (BO3) - CCT Europe Series #5 Playoffs",
+    "outcome": "Black Phoenix",
+    "side": "BUY",
+    "usd": 1603.7472,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655780,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 2714.4296,
+    "odds_at_bet": 82,
+    "status": "pending"
   }
 ]

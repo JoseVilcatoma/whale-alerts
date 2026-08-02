@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 02:28:39 (hora de Perú)
+Actualizado: 2026-08-02 02:30:42 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -40,9 +40,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 11 | 6 | 0 | 65% |
 | humkyakare | 12 | 7 | 4 | 63% |
 | flatbarrel | 5 | 3 | 2 | 62% |
-| ferrariChampions2026 | 1330 | 850 | 78 | 61% |
+| ferrariChampions2026 | 1330 | 850 | 81 | 61% |
 | UpTheBlues | 39 | 26 | 22 | 60% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 9 | 60% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 11 | 60% |
 | HomeRunHazard | 162 | 117 | 35 | 58% |
 | sbsigner | 31 | 23 | 3 | 57% |
 | GoalLineGhost | 85 | 64 | 33 | 57% |
@@ -83,4 +83,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | olivermoon1 | 0 | 0 | 1 | — |
 | Anjun | 0 | 0 | 2 | — |
 | TopGleaguepick | 0 | 0 | 10 | — |
-| denizz | 0 | 0 | 1 | — |
+| denizz | 0 | 0 | 2 | — |
