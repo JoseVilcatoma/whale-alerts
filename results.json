@@ -88942,5 +88942,17 @@
     "usd": 1125.7967,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785643620,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-caz-atla-2026-08-01-draw",
+    "title": "Will CF Cruz Azul vs. Atlante FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1135.05,
+    "odds_at_bet": 69,
+    "status": "pending"
   }
 ]
