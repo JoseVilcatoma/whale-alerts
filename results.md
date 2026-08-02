@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 10:39:00 (hora de Perú)
+Actualizado: 2026-08-02 10:41:12 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -23,7 +23,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | TopGleaguepick | 14 | 0 | 0 | 100% |
 | patient12 | 8 | 0 | 7 | 100% |
 | paquitomillonario | 12 | 1 | 0 | 92% |
-| cigarettes | 51 | 8 | 4 | 86% |
+| cigarettes | 51 | 8 | 6 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | fkgggg2mouzfuria | 65 | 12 | 11 | 84% |
 | swisstony | 604 | 131 | 91 | 82% |
@@ -35,14 +35,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 27 | 9 | 2 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 932 | 483 | 93 | 66% |
+| RN1 | 932 | 483 | 94 | 66% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 19 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 76 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 79 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
 | VeryLucky888 | 48 | 28 | 30 | 63% |
-| GoalLineGhost | 112 | 67 | 43 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 319 | 61% |
+| GoalLineGhost | 112 | 67 | 46 | 63% |
+| ferrariChampions2026 | 1466 | 930 | 321 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 63 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
