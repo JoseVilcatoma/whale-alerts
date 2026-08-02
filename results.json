@@ -93994,5 +93994,53 @@
     "usd": 1324.717142,
     "odds_at_bet": 79,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785663832,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "kor-uls-any-2026-08-02-uls",
+    "title": "Will Ulsan HD FC win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1566.99,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785663832,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "kor-uls-any-2026-08-02-uls",
+    "title": "Will Ulsan HD FC win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1915.21,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785663834,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "kor-uls-any-2026-08-02-uls",
+    "title": "Will Ulsan HD FC win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 17925.4075,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785663852,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-sashi-blackp-2026-08-02",
+    "title": "Counter-Strike: Sashi Esport vs Black Phoenix (BO3) - CCT Europe Series #5 Playoffs",
+    "outcome": "Black Phoenix",
+    "side": "BUY",
+    "usd": 1377.537,
+    "odds_at_bet": 35,
+    "status": "pending"
   }
 ]
