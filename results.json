@@ -92146,5 +92146,53 @@
     "usd": 1170.2768000000003,
     "odds_at_bet": 28,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785658938,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "den-sif-kob-2026-08-02-spread-home-1pt5",
+    "title": "Spread: Silkeborg IF (-1.5)",
+    "outcome": "FC K\u00f8benhavn",
+    "side": "BUY",
+    "usd": 1302.0024,
+    "odds_at_bet": 92,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785658948,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1008.33,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785658987,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-playti-xctn-2026-08-02",
+    "title": "Dota 2: PlayTime vs Execration (BO3) - Games of the Future Playoffs",
+    "outcome": "PlayTime",
+    "side": "BUY",
+    "usd": 9999.999998,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785659043,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-bro2-2026-08-02-game1",
+    "title": "LoL: DN SOOPers vs HANJIN BRION - Game 1 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 1934.7225999999998,
+    "odds_at_bet": 74,
+    "status": "pending"
   }
 ]
