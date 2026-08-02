@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 03:16:47 (hora de Perú)
+Actualizado: 2026-08-02 03:19:11 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -20,7 +20,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 6 | 0 | 0 | ⚠️ 100% (muestra chica: 6) |
 | LeatherPants | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | paquitomillonario | 10 | 1 | 0 | 91% |
-| Spicer | 26 | 4 | 0 | 87% |
+| Spicer | 26 | 4 | 2 | 87% |
 | cigarettes | 51 | 8 | 0 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | swisstony | 583 | 122 | 81 | 83% |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 11 | 6 | 0 | 65% |
 | humkyakare | 12 | 7 | 4 | 63% |
 | flatbarrel | 5 | 3 | 2 | 62% |
-| ferrariChampions2026 | 1330 | 850 | 103 | 61% |
+| ferrariChampions2026 | 1330 | 850 | 112 | 61% |
 | UpTheBlues | 39 | 26 | 23 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 16 | 60% |
 | HomeRunHazard | 162 | 117 | 36 | 58% |
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | monkeymashingkeyboard | 16 | 13 | 5 | 55% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 67 | 57 | 22 | 54% |
 | 1winstreak1 | 36 | 32 | 1 | 53% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 12 | 11 | 4 | 52% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 12 | 11 | 5 | 52% |
 | wr0ngw4yb3tt0r | 119 | 117 | 6 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
