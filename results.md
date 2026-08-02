@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 03:05:10 (hora de Perú)
+Actualizado: 2026-08-02 03:07:25 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -30,24 +30,24 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | mooseborzoi | 49 | 17 | 16 | 74% |
-| fRibrenlc | 8 | 3 | 4 | 73% |
+| fRibrenlc | 8 | 3 | 5 | 73% |
 | us391 | 8 | 3 | 14 | 73% |
 | Fallout3 | 11 | 5 | 6 | 69% |
-| VeryLucky888 | 47 | 23 | 8 | 67% |
+| VeryLucky888 | 47 | 23 | 9 | 67% |
 | RN1 | 899 | 470 | 49 | 66% |
-| esportGG | 31 | 16 | 3 | 66% |
+| esportGG | 31 | 16 | 6 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 164 | 4 | 65% |
 | cruzNBA | 11 | 6 | 0 | 65% |
 | humkyakare | 12 | 7 | 4 | 63% |
 | flatbarrel | 5 | 3 | 2 | 62% |
-| ferrariChampions2026 | 1330 | 850 | 83 | 61% |
+| ferrariChampions2026 | 1330 | 850 | 90 | 61% |
 | UpTheBlues | 39 | 26 | 23 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 15 | 60% |
 | HomeRunHazard | 162 | 117 | 36 | 58% |
 | sbsigner | 31 | 23 | 4 | 57% |
 | GoalLineGhost | 85 | 64 | 33 | 57% |
 | monkeymashingkeyboard | 16 | 13 | 5 | 55% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 67 | 57 | 20 | 54% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 67 | 57 | 21 | 54% |
 | 1winstreak1 | 36 | 32 | 1 | 53% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 12 | 11 | 4 | 52% |
 | wr0ngw4yb3tt0r | 119 | 117 | 6 | 50% |
@@ -66,7 +66,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 19 | 1 | 41% |
 | Talvez10 | 17 | 29 | 1 | 37% |
 | AnonymousUsername | 8 | 15 | 16 | 35% |
-| PASSTHEMONEY | 20 | 41 | 5 | 33% |
+| PASSTHEMONEY | 20 | 41 | 6 | 33% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 1 | 31% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
