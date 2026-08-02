@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 19:26:10 (hora de Perú)
+Actualizado: 2026-08-01 19:29:24 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -20,7 +20,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mooseborzoi | 15 | 2 | 52 | 88% |
 | Spicer | 26 | 4 | 0 | 87% |
 | cigarettes | 46 | 8 | 5 | 85% |
-| swisstony | 502 | 108 | 146 | 82% |
+| swisstony | 502 | 108 | 151 | 82% |
 | flatbarrel | 4 | 1 | 4 | ⚠️ 80% (muestra chica: 5) |
 | humkyakare | 12 | 4 | 3 | 75% |
 | us391 | 3 | 1 | 13 | ⚠️ 75% (muestra chica: 4) |
@@ -30,17 +30,17 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Fallout3 | 11 | 5 | 0 | 69% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 3 | 5 | 67% |
 | one8tyfive | 14 | 7 | 21 | 67% |
-| RN1 | 771 | 393 | 225 | 66% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 45 | 66% |
+| RN1 | 771 | 393 | 227 | 66% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 46 | 66% |
 | esportGG | 16 | 10 | 21 | 62% |
-| GoalLineGhost | 21 | 13 | 84 | 62% |
-| ferrariChampions2026 | 1051 | 688 | 451 | 60% |
+| GoalLineGhost | 21 | 13 | 86 | 62% |
+| ferrariChampions2026 | 1051 | 688 | 452 | 60% |
 | sbsigner | 26 | 17 | 12 | 60% |
-| fRibrenlc | 3 | 2 | 6 | ⚠️ 60% (muestra chica: 5) |
+| fRibrenlc | 3 | 2 | 7 | ⚠️ 60% (muestra chica: 5) |
 | UpTheBlues | 37 | 26 | 24 | 59% |
 | HomeRunHazard | 73 | 50 | 165 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 11 | 8 | 13 | 58% |
-| wr0ngw4yb3tt0r | 80 | 67 | 77 | 54% |
+| wr0ngw4yb3tt0r | 80 | 67 | 80 | 54% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
 | jtwyslljy | 4 | 4 | 2 | 50% |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 41 | 45 | 49 | 48% |
 | meoooow | 10 | 11 | 0 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
-| pleaseplease123 | 21 | 28 | 26 | 43% |
+| pleaseplease123 | 21 | 28 | 27 | 43% |
 | Talvez10 | 13 | 21 | 13 | 38% |
 | monkeymashingkeyboard | 7 | 12 | 14 | 37% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 19 | 4 | 34% |
