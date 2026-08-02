@@ -112822,5 +112822,89 @@
     "usd": 1194.5080000000003,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785693969,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-fnc-mkoi-2026-08-02",
+    "title": "LoL: Fnatic vs Movistar KOI (BO3) - LEC Regular Season",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 1844.26,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785693989,
+    "username": "Flipadelphia",
+    "wallet": "0x448861155279dbf833d041b963e3ac854599e319",
+    "slug": "arg-lan-iac-2026-08-02-lan",
+    "title": "Will CA Lan\u00fas win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1170.4995000000001,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785694000,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-sk-g2-2026-08-02",
+    "title": "LoL: SK Gaming vs G2 Esports (BO3) - LEC Regular Season",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 1089.7591499999999,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785694001,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-vg-og-2026-08-02-game2",
+    "title": "Dota 2: Vici Gaming vs OG - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "usd": 1343.9453999999998,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785694009,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-min-sea-2026-08-02",
+    "title": "Minnesota Twins vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 6987.629999999999,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785694035,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-cin-2026-08-02-total-9pt5",
+    "title": "Pittsburgh Pirates vs. Cincinnati Reds: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1067.949629,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785694051,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-fnc-mkoi-2026-08-02-game2",
+    "title": "LoL: Fnatic vs Movistar KOI - Game 2 Winner",
+    "outcome": "Fnatic",
+    "side": "BUY",
+    "usd": 1403.3286200000002,
+    "odds_at_bet": 42,
+    "status": "pending"
   }
 ]
