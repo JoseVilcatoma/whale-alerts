@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 15:49:27 (hora de Perú)
+Actualizado: 2026-08-02 15:52:04 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -27,18 +27,18 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fkgggg2mouzfuria | 72 | 15 | 37 | 83% |
 | swisstony | 640 | 139 | 107 | 82% |
 | mooseborzoi | 63 | 19 | 1 | 77% |
-| one8tyfive | 32 | 10 | 7 | 76% |
+| one8tyfive | 32 | 10 | 8 | 76% |
 | Spicer | 29 | 9 | 1 | 76% |
 | Djdjdjekekek | 121 | 41 | 11 | 75% |
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
 | fRibrenlc | 15 | 5 | 4 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 370 | 178 | 51 | 68% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 370 | 178 | 52 | 68% |
 | cruzNBA | 15 | 7 | 0 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 147 | 76 | 45 | 66% |
-| RN1 | 956 | 516 | 223 | 65% |
+| RN1 | 956 | 516 | 227 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ToeTickler98 | 9 | 5 | 1 | 64% |
 | UpTheBlues | 59 | 35 | 34 | 63% |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 32 | 32 | 11 | 50% |
-| esportGG | 48 | 48 | 14 | 50% |
+| esportGG | 48 | 48 | 16 | 50% |
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 50 | 53 | 5 | 49% |
 | sbsigner | 36 | 39 | 7 | 48% |
@@ -94,4 +94,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BrightStars | 0 | 0 | 2 | — |
 | PleaseWinPlease | 0 | 0 | 1 | — |
 | highnetworth | 0 | 0 | 4 | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 4 | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 5 | — |

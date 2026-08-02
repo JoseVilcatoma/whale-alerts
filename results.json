@@ -120418,5 +120418,113 @@
     "usd": 4077.6287999999995,
     "odds_at_bet": 84,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785703770,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "val-c9-kru1-2026-08-02",
+    "title": "Valorant: Cloud9 vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Group Omega",
+    "outcome": "KR\u00dc Esports",
+    "side": "BUY",
+    "usd": 1494.2946,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785703786,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-ly-sr-2026-08-02-game1",
+    "title": "LoL: LYON vs Shopify Rebellion - Game 1 Winner",
+    "outcome": "LYON",
+    "side": "SELL",
+    "usd": 1592.1694,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785703833,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "wta-wan-bejlek-2026-08-03",
+    "title": "National Bank Open: Xiyu Wang vs Sara Bejlek",
+    "outcome": "Sara Bejlek",
+    "side": "BUY",
+    "usd": 1477.7424999999998,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785703851,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "brco-mir-gre-2026-08-02-first-half-total-1pt5",
+    "title": "Mirassol FC vs. Gr\u00eamio FBPA: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1285.8881,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785703866,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "brco-mir-gre-2026-08-02-first-half-total-1pt5",
+    "title": "Mirassol FC vs. Gr\u00eamio FBPA: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2065.9793,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785703867,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "val-c9-kru1-2026-08-02-game1",
+    "title": "Valorant: Cloud9 vs KR\u00dc Esports - Map 1 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 10708.74,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785703867,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "val-c9-kru1-2026-08-02-game1",
+    "title": "Valorant: Cloud9 vs KR\u00dc Esports - Map 1 Winner",
+    "outcome": "KR\u00dc Esports",
+    "side": "BUY",
+    "usd": 14788.259999999998,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785703883,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "brco-mir-gre-2026-08-02-first-half-total-1pt5",
+    "title": "Mirassol FC vs. Gr\u00eamio FBPA: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1072.1,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785703914,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-nyy-chc-2026-08-02",
+    "title": "New York Yankees vs. Chicago Cubs",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 1742.36,
+    "odds_at_bet": 86,
+    "status": "pending"
   }
 ]
