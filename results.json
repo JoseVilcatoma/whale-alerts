@@ -96982,5 +96982,65 @@
     "usd": 1514.0034000000003,
     "odds_at_bet": 81,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785669960,
+    "username": "jtwyslljy",
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "usd": 13314.435,
+    "odds_at_bet": 25,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785669973,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "swe-bro-mal-2026-08-02-mal",
+    "title": "Will Malmo FF win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1425.0500000000002,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785669973,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "swe-bro-mal-2026-08-02-mal",
+    "title": "Will Malmo FF win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1165.95,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785669984,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02",
+    "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Bounty Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 5278.509599999999,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785670083,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "swe-bro-mal-2026-08-02-mal",
+    "title": "Will Malmo FF win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1116.83,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]

@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 06:25:53 (hora de Perú)
+Actualizado: 2026-08-02 06:28:42 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -41,8 +41,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 6 | 64% |
 | VeryLucky888 | 48 | 27 | 12 | 64% |
 | GoalLineGhost | 112 | 67 | 14 | 63% |
-| ferrariChampions2026 | 1364 | 870 | 219 | 61% |
-| UpTheBlues | 39 | 26 | 41 | 60% |
+| ferrariChampions2026 | 1364 | 870 | 220 | 61% |
+| UpTheBlues | 39 | 26 | 42 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 22 | 60% |
 | HomeRunHazard | 181 | 132 | 6 | 58% |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | wr0ngw4yb3tt0r | 121 | 121 | 1 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
-| jtwyslljy | 5 | 5 | 6 | 50% |
+| jtwyslljy | 5 | 5 | 7 | 50% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 23 | 23 | 5 | 50% |
 | ToeTickler98 | 5 | 5 | 4 | 50% |
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
@@ -74,7 +74,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | neurodivergentBet | 0 | 4 | 0 | ⚠️ 0% (muestra chica: 4) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
-| plonker2026 | 0 | 3 | 20 | ⚠️ 0% (muestra chica: 3) |
+| plonker2026 | 0 | 3 | 22 | ⚠️ 0% (muestra chica: 3) |
 | AV23IUa | 0 | 2 | 0 | ⚠️ 0% (muestra chica: 2) |
 | StasPanda | 0 | 2 | 8 | ⚠️ 0% (muestra chica: 2) |
 | BirdMan. | 0 | 2 | 20 | ⚠️ 0% (muestra chica: 2) |
