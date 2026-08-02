@@ -90262,5 +90262,65 @@
     "usd": 1445.444,
     "odds_at_bet": 52,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785654850,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-g1-cs1-2026-08-02",
+    "title": "Counter-Strike: GenOne vs CYBERSHOKE Esports (BO3) - Thunderpick World Championship European Series #2 Playoffs",
+    "outcome": "CYBERSHOKE Esports",
+    "side": "BUY",
+    "usd": 1342.9757,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785654851,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-sashi-blackp-2026-08-02",
+    "title": "Counter-Strike: Sashi Esport vs Black Phoenix (BO3) - CCT Europe Series #5 Playoffs",
+    "outcome": "Black Phoenix",
+    "side": "BUY",
+    "usd": 1602.9984,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785654865,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "swe-ifk-deg-2026-08-02-total-2pt5",
+    "title": "IFK Goteborg vs. Degerfors IF: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1320.4992,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785654865,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "swe-ifk-deg-2026-08-02-total-2pt5",
+    "title": "IFK Goteborg vs. Degerfors IF: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1430.5408,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785654905,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 25766.7246,
+    "odds_at_bet": 72,
+    "status": "pending"
   }
 ]
