@@ -125698,5 +125698,113 @@
     "usd": 1079.0,
     "odds_at_bet": 52,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785712955,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-bos-lad-2026-08-02",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 2586.4993299999996,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785712980,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bos-lad-2026-08-02-total-8pt5",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 4387.261666,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785712982,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-lad-2026-08-02-total-9pt5",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 5062.155,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785712995,
+    "username": "QuietRiskisWrong",
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "slug": "israel-x-iran-ceasefire-continues-through-august-2-20260727170555149",
+    "title": "Israel x Iran ceasefire continues through August 2?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "usd": 2058.08558,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785712996,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-bos-lad-2026-08-02",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 1449.9800000000002,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785713004,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-riv-ros-2026-08-02-total-2pt5",
+    "title": "CA River Plate vs. CA Rosario Central: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1029.07,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785713056,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "per1-cs1-cud-2026-08-02-total-1pt5",
+    "title": "CS Cienciano vs. Club Universitario de Deportes: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1250.0,
+    "odds_at_bet": 25,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785713068,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-riv-ros-2026-08-02-total-1pt5",
+    "title": "CA River Plate vs. CA Rosario Central: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1281.3600000000001,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785713156,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-riv-ros-2026-08-02-total-1pt5",
+    "title": "CA River Plate vs. CA Rosario Central: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1210.566,
+    "odds_at_bet": 76,
+    "status": "pending"
   }
 ]
