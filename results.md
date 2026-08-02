@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 05:00:05 (hora de Perú)
+Actualizado: 2026-08-02 05:02:10 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -41,11 +41,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 4 | 64% |
 | VeryLucky888 | 48 | 27 | 7 | 64% |
 | GoalLineGhost | 112 | 67 | 5 | 63% |
-| ferrariChampions2026 | 1364 | 870 | 131 | 61% |
-| UpTheBlues | 39 | 26 | 27 | 60% |
+| ferrariChampions2026 | 1364 | 870 | 137 | 61% |
+| UpTheBlues | 39 | 26 | 28 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 21 | 60% |
-| HomeRunHazard | 181 | 132 | 4 | 58% |
+| HomeRunHazard | 181 | 132 | 5 | 58% |
 | sbsigner | 31 | 24 | 4 | 56% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 76 | 63 | 9 | 55% |
 | 1winstreak1 | 36 | 33 | 0 | 52% |
@@ -74,7 +74,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | neurodivergentBet | 0 | 4 | 0 | ⚠️ 0% (muestra chica: 4) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
-| plonker2026 | 0 | 3 | 9 | ⚠️ 0% (muestra chica: 3) |
+| plonker2026 | 0 | 3 | 11 | ⚠️ 0% (muestra chica: 3) |
 | AV23IUa | 0 | 2 | 0 | ⚠️ 0% (muestra chica: 2) |
 | StasPanda | 0 | 2 | 8 | ⚠️ 0% (muestra chica: 2) |
 | BirdMan. | 0 | 2 | 6 | ⚠️ 0% (muestra chica: 2) |
