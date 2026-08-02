@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 02:47:26 (hora de Perú)
+Actualizado: 2026-08-02 02:49:37 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mooseborzoi | 49 | 17 | 16 | 74% |
 | fRibrenlc | 8 | 3 | 4 | 73% |
 | us391 | 8 | 3 | 14 | 73% |
-| Fallout3 | 11 | 5 | 5 | 69% |
+| Fallout3 | 11 | 5 | 6 | 69% |
 | VeryLucky888 | 47 | 23 | 8 | 67% |
 | RN1 | 899 | 470 | 48 | 66% |
 | esportGG | 31 | 16 | 1 | 66% |
@@ -41,8 +41,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | humkyakare | 12 | 7 | 4 | 63% |
 | flatbarrel | 5 | 3 | 2 | 62% |
 | ferrariChampions2026 | 1330 | 850 | 81 | 61% |
-| UpTheBlues | 39 | 26 | 22 | 60% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 12 | 60% |
+| UpTheBlues | 39 | 26 | 23 | 60% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 13 | 60% |
 | HomeRunHazard | 162 | 117 | 36 | 58% |
 | sbsigner | 31 | 23 | 4 | 57% |
 | GoalLineGhost | 85 | 64 | 33 | 57% |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | wr0ngw4yb3tt0r | 119 | 117 | 6 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 18 | 18 | 18 | 50% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 18 | 18 | 19 | 50% |
 | jtwyslljy | 5 | 5 | 4 | 50% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 23 | 23 | 1 | 50% |
 | ToeTickler98 | 5 | 5 | 4 | 50% |
@@ -66,7 +66,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 19 | 1 | 41% |
 | Talvez10 | 17 | 29 | 1 | 37% |
 | AnonymousUsername | 8 | 15 | 16 | 35% |
-| PASSTHEMONEY | 20 | 41 | 1 | 33% |
+| PASSTHEMONEY | 20 | 41 | 4 | 33% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 1 | 31% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
@@ -82,6 +82,6 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | unbribeableref | 0 | 0 | 3 | — |
 | olivermoon1 | 0 | 0 | 1 | — |
 | Anjun | 0 | 0 | 2 | — |
-| TopGleaguepick | 0 | 0 | 11 | — |
+| TopGleaguepick | 0 | 0 | 12 | — |
 | denizz | 0 | 0 | 5 | — |
 | 0way | 0 | 0 | 2 | — |

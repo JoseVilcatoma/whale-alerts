@@ -91174,5 +91174,101 @@
     "usd": 1152.0,
     "odds_at_bet": 36,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785656848,
+    "username": "TopGleaguepick",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-tt-we-2026-08-02-game2",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 2 Winner",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 12026.3456,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785656875,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-g1-cs1-2026-08-02",
+    "title": "Counter-Strike: GenOne vs CYBERSHOKE Esports (BO3) - Thunderpick World Championship European Series #2 Playoffs",
+    "outcome": "CYBERSHOKE Esports",
+    "side": "BUY",
+    "usd": 1117.165,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785656915,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "bul-lud-bvr-2026-08-02-team-total-away-2pt5",
+    "title": "PFC Ludogorets 1945 Razgrad vs. POFC Botev Vratsa: POFC Botev Vratsa O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1223.46,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785656919,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-tt-we-2026-08-02",
+    "title": "LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 3976.744186,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785656921,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-nyy-chc-2026-08-02",
+    "title": "New York Yankees vs. Chicago Cubs",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 21327.025500000003,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785656968,
+    "username": "Fallout3",
+    "wallet": "0x5ed5a5299060cdf83f009555cc0b8db3451df63a",
+    "slug": "btc-updown-5m-1785657000",
+    "title": "Bitcoin Up or Down - August 2, 3:50AM-3:55AM ET",
+    "outcome": "Up",
+    "side": "BUY",
+    "usd": 1237.8885,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785656970,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-tt-we-2026-08-02",
+    "title": "LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1407.0050999999999,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785656973,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-tt-we-2026-08-02",
+    "title": "LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 3680.0567999999994,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
