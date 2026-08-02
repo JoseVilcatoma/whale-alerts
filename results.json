@@ -90694,5 +90694,41 @@
     "usd": 2043.613,
     "odds_at_bet": 65,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785655689,
+    "username": "Fallout3",
+    "wallet": "0x5ed5a5299060cdf83f009555cc0b8db3451df63a",
+    "slug": "btc-updown-5m-1785655800",
+    "title": "Bitcoin Up or Down - August 2, 3:30AM-3:35AM ET",
+    "outcome": "Down",
+    "side": "BUY",
+    "usd": 1164.8748999999998,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655701,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 2817.6922,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655704,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-wsh-atl-2026-08-02",
+    "title": "Washington Nationals vs. Atlanta Braves",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 15604.046999999999,
+    "odds_at_bet": 47,
+    "status": "pending"
   }
 ]

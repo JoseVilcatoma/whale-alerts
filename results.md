@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 02:25:35 (hora de Perú)
+Actualizado: 2026-08-02 02:28:39 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mooseborzoi | 49 | 17 | 16 | 74% |
 | fRibrenlc | 8 | 3 | 4 | 73% |
 | us391 | 8 | 3 | 14 | 73% |
-| Fallout3 | 11 | 5 | 3 | 69% |
+| Fallout3 | 11 | 5 | 4 | 69% |
 | VeryLucky888 | 47 | 23 | 8 | 67% |
 | RN1 | 899 | 470 | 48 | 66% |
 | esportGG | 31 | 16 | 1 | 66% |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 11 | 6 | 0 | 65% |
 | humkyakare | 12 | 7 | 4 | 63% |
 | flatbarrel | 5 | 3 | 2 | 62% |
-| ferrariChampions2026 | 1330 | 850 | 77 | 61% |
+| ferrariChampions2026 | 1330 | 850 | 78 | 61% |
 | UpTheBlues | 39 | 26 | 22 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 9 | 60% |
 | HomeRunHazard | 162 | 117 | 35 | 58% |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | wr0ngw4yb3tt0r | 119 | 117 | 6 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 18 | 18 | 14 | 50% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 18 | 18 | 15 | 50% |
 | jtwyslljy | 5 | 5 | 4 | 50% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 23 | 23 | 1 | 50% |
 | ToeTickler98 | 5 | 5 | 4 | 50% |
