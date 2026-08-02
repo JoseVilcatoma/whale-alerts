@@ -88474,5 +88474,29 @@
     "usd": 1540.0,
     "odds_at_bet": 70,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785642679,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-por-sea-2026-08-01-sea",
+    "title": "Will Seattle Sounders FC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2135.751,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785642679,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-por-sea-2026-08-01-sea",
+    "title": "Will Seattle Sounders FC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1556.849,
+    "odds_at_bet": 74,
+    "status": "pending"
   }
 ]
