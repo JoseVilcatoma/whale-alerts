@@ -88870,5 +88870,77 @@
     "usd": 1062.298722,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785643414,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mil-laa-2026-08-01",
+    "title": "Milwaukee Brewers vs. Los Angeles Angels",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 3671.5615000000003,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785643414,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-lev1-nrg-2026-08-01",
+    "title": "Valorant: Leviat\u00e1n Esports vs NRG (BO3) - VCT Americas Stage 2 Group Alpha",
+    "outcome": "Leviat\u00e1n Esports",
+    "side": "BUY",
+    "usd": 1153.546333,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785643458,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-gea-shapova-2026-08-01",
+    "title": "Los Cabos Open: Arthur Gea vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 4141.9944000000005,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785643458,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-gea-shapova-2026-08-01",
+    "title": "Los Cabos Open: Arthur Gea vs Denis Shapovalov",
+    "outcome": "Arthur Gea",
+    "side": "BUY",
+    "usd": 7504.345600000001,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785643477,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-lev1-nrg-2026-08-01",
+    "title": "Valorant: Leviat\u00e1n Esports vs NRG (BO3) - VCT Americas Stage 2 Group Alpha",
+    "outcome": "NRG",
+    "side": "BUY",
+    "usd": 1346.581463,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785643477,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-lev1-nrg-2026-08-01",
+    "title": "Valorant: Leviat\u00e1n Esports vs NRG (BO3) - VCT Americas Stage 2 Group Alpha",
+    "outcome": "NRG",
+    "side": "BUY",
+    "usd": 1125.7967,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
