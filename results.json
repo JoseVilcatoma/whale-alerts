@@ -123910,5 +123910,65 @@
     "usd": 1346.3799999999999,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785708934,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sf-sd-2026-08-02-total-9pt5",
+    "title": "San Francisco Giants vs. San Diego Padres: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 5019.008888,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785708937,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-sf-sd-2026-08-02",
+    "title": "San Francisco Giants vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 1117.1716999999999,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785708994,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-c9-kru1-2026-08-02-game2",
+    "title": "Valorant: Cloud9 vs KR\u00dc Esports - Map 2 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 1430.1,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785709057,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-det-oak-2026-08-02",
+    "title": "Detroit Tigers vs. Athletics",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "usd": 1959.915,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785709061,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "mlb-sf-sd-2026-08-02",
+    "title": "San Francisco Giants vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 1949.3599980000001,
+    "odds_at_bet": 81,
+    "status": "pending"
   }
 ]
