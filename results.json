@@ -94990,5 +94990,113 @@
     "usd": 4800.0,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785665723,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-bro2-2026-08-02",
+    "title": "LoL: DN SOOPers vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 1672.4032,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785665743,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-lng-ig1-2026-08-02-game1",
+    "title": "LoL: LNG Esports vs Invictus Gaming - Game 1 Winner",
+    "outcome": "LNG Esports",
+    "side": "BUY",
+    "usd": 4420.910500000001,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785665750,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-lng-ig1-2026-08-02-game1",
+    "title": "LoL: LNG Esports vs Invictus Gaming - Game 1 Winner",
+    "outcome": "LNG Esports",
+    "side": "BUY",
+    "usd": 1624.2754,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785665768,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-lng-ig1-2026-08-02-game1",
+    "title": "LoL: LNG Esports vs Invictus Gaming - Game 1 Winner",
+    "outcome": "LNG Esports",
+    "side": "BUY",
+    "usd": 1809.3883999999996,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785665774,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-lng-ig1-2026-08-02-game1",
+    "title": "LoL: LNG Esports vs Invictus Gaming - Game 1 Winner",
+    "outcome": "LNG Esports",
+    "side": "BUY",
+    "usd": 3162.054,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785665776,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-lng-ig1-2026-08-02-game1",
+    "title": "LoL: LNG Esports vs Invictus Gaming - Game 1 Winner",
+    "outcome": "LNG Esports",
+    "side": "BUY",
+    "usd": 3748.9919999999997,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785665791,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-bro2-2026-08-02",
+    "title": "LoL: DN SOOPers vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 1494.7831999999999,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785665817,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "kor-jej-inc-2026-08-02-jej",
+    "title": "Will Jeju SK FC win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1395.0,
+    "odds_at_bet": 31,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785665833,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-kouzmin-debru-2026-08-02",
+    "title": "Samsun: Constantin Bittoun Kouzmine vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "side": "BUY",
+    "usd": 5659.0842,
+    "odds_at_bet": 77,
+    "status": "pending"
   }
 ]
