@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 02:10:37 (hora de Perú)
+Actualizado: 2026-08-02 02:13:43 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | CentralCasting | 17 | 6 | 1 | 74% |
 | mooseborzoi | 49 | 17 | 16 | 74% |
 | fRibrenlc | 8 | 3 | 4 | 73% |
-| us391 | 8 | 3 | 9 | 73% |
+| us391 | 8 | 3 | 11 | 73% |
 | Fallout3 | 11 | 5 | 2 | 69% |
 | VeryLucky888 | 47 | 23 | 8 | 67% |
 | RN1 | 899 | 470 | 47 | 66% |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 23 | 23 | 1 | 50% |
 | ToeTickler98 | 5 | 5 | 4 | 50% |
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
-| meoooow | 10 | 11 | 1 | 48% |
+| meoooow | 10 | 11 | 2 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | Flipadelphia | 5 | 6 | 3 | 45% |
 | pleaseplease123 | 30 | 39 | 8 | 43% |
@@ -73,7 +73,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | neurodivergentBet | 0 | 4 | 0 | ⚠️ 0% (muestra chica: 4) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
-| plonker2026 | 0 | 3 | 0 | ⚠️ 0% (muestra chica: 3) |
+| plonker2026 | 0 | 3 | 2 | ⚠️ 0% (muestra chica: 3) |
 | AV23IUa | 0 | 2 | 0 | ⚠️ 0% (muestra chica: 2) |
 | StasPanda | 0 | 2 | 3 | ⚠️ 0% (muestra chica: 2) |
 | BirdMan. | 0 | 2 | 0 | ⚠️ 0% (muestra chica: 2) |
