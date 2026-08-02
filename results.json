@@ -89686,5 +89686,17 @@
     "usd": 3826.2085,
     "odds_at_bet": 95,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785648475,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-ziegann-becroft-2026-08-02",
+    "title": "ITF Bali: Sam Ryan Ziegann vs Isaac Becroft",
+    "outcome": "Isaac Becroft",
+    "side": "BUY",
+    "usd": 1332.5,
+    "odds_at_bet": 53,
+    "status": "pending"
   }
 ]
