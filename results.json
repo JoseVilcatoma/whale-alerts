@@ -87610,5 +87610,77 @@
     "usd": 1300.3703,
     "odds_at_bet": 77,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785632592,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "mlb-kc-col-2026-08-01",
+    "title": "Kansas City Royals vs. Colorado Rockies",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "usd": 1098.4502,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785632598,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "mlb-kc-col-2026-08-01",
+    "title": "Kansas City Royals vs. Colorado Rockies",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "usd": 1144.8713,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785632629,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-nyy-chc-2026-08-01",
+    "title": "New York Yankees vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 6096.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785632630,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-nyy-chc-2026-08-01",
+    "title": "New York Yankees vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 14455.847795999998,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785632630,
+    "username": "Winnerdinnerchickenjr",
+    "wallet": "0x408fe71e6b5401ecd6733970cb6f1a25e984b2f4",
+    "slug": "mlb-nyy-chc-2026-08-01",
+    "title": "New York Yankees vs. Chicago Cubs",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 24999.999999,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785632634,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-nyy-chc-2026-08-01",
+    "title": "New York Yankees vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 1994.7884999999999,
+    "odds_at_bet": 51,
+    "status": "pending"
   }
 ]
