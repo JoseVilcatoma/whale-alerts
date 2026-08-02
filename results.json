@@ -92326,5 +92326,17 @@
     "usd": 4666.62,
     "odds_at_bet": 21,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785660253,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-g1-cs1-2026-08-02",
+    "title": "Counter-Strike: GenOne vs CYBERSHOKE Esports (BO3) - Thunderpick World Championship European Series #2 Playoffs",
+    "outcome": "CYBERSHOKE Esports",
+    "side": "BUY",
+    "usd": 1217.658,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
