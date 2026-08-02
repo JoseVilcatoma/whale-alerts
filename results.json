@@ -89122,5 +89122,65 @@
     "usd": 1223.761764,
     "odds_at_bet": 83,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785644143,
+    "username": "humkyakare",
+    "wallet": "0x32d21c404498db353bd2bc47b5a35e7256908850",
+    "slug": "atp-gea-shapova-2026-08-01",
+    "title": "Los Cabos Open: Arthur Gea vs Denis Shapovalov",
+    "outcome": "Arthur Gea",
+    "side": "BUY",
+    "usd": 3224.6004,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785644167,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mex-caz-atla-2026-08-01-spread-home-1pt5",
+    "title": "Spread: CF Cruz Azul (-1.5)",
+    "outcome": "Atlante FC",
+    "side": "BUY",
+    "usd": 1008.64,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785644167,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mex-caz-atla-2026-08-01-draw",
+    "title": "Will CF Cruz Azul vs. Atlante FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1836.0,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785644232,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-gea-shapova-2026-08-01",
+    "title": "Los Cabos Open: Arthur Gea vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 1653.0800000000002,
+    "odds_at_bet": 17,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785644237,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-lag-dal-2026-08-01-dal",
+    "title": "Will FC Dallas win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1775.2894,
+    "odds_at_bet": 86,
+    "status": "pending"
   }
 ]
