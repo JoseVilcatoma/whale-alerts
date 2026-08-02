@@ -88498,5 +88498,89 @@
     "usd": 1556.849,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785642768,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-wolf-lajal-2026-08-02",
+    "title": "Vancouver: J.J. Wolf vs Mark Lajal",
+    "outcome": "J.J. Wolf",
+    "side": "BUY",
+    "usd": 11280.0,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785642774,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-lev1-nrg-2026-08-01",
+    "title": "Valorant: Leviat\u00e1n Esports vs NRG (BO3) - VCT Americas Stage 2 Group Alpha",
+    "outcome": "NRG",
+    "side": "BUY",
+    "usd": 1034.9328,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785642777,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "atp-gea-shapova-2026-08-01",
+    "title": "Los Cabos Open: Arthur Gea vs Denis Shapovalov",
+    "outcome": "Arthur Gea",
+    "side": "BUY",
+    "usd": 1866.747494,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785642778,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "atp-gea-shapova-2026-08-01",
+    "title": "Los Cabos Open: Arthur Gea vs Denis Shapovalov",
+    "outcome": "Arthur Gea",
+    "side": "BUY",
+    "usd": 6600.0,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785642779,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-lag-dal-2026-08-01-total-3pt5",
+    "title": "Los Angeles Galaxy vs. FC Dallas: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1003.0004999999999,
+    "odds_at_bet": 95,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785642811,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-wolf-lajal-2026-08-02",
+    "title": "Vancouver: J.J. Wolf vs Mark Lajal",
+    "outcome": "J.J. Wolf",
+    "side": "BUY",
+    "usd": 2881.269999,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785642868,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-mil-laa-2026-08-01",
+    "title": "Milwaukee Brewers vs. Los Angeles Angels",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 1689.21,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]

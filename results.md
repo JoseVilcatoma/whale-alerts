@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-01 22:52:44 (hora de Perú)
+Actualizado: 2026-08-01 22:54:45 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -23,31 +23,31 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 26 | 4 | 0 | 87% |
 | cigarettes | 51 | 8 | 0 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
-| swisstony | 583 | 122 | 65 | 83% |
+| swisstony | 583 | 122 | 66 | 83% |
 | fkgggg2mouzfuria | 34 | 10 | 0 | 77% |
 | Djdjdjekekek | 121 | 38 | 1 | 76% |
 | one8tyfive | 31 | 10 | 1 | 76% |
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | mooseborzoi | 49 | 17 | 14 | 74% |
-| fRibrenlc | 8 | 3 | 1 | 73% |
+| fRibrenlc | 8 | 3 | 3 | 73% |
 | us391 | 8 | 3 | 6 | 73% |
 | Fallout3 | 11 | 5 | 0 | 69% |
 | VeryLucky888 | 47 | 23 | 5 | 67% |
-| RN1 | 899 | 470 | 33 | 66% |
+| RN1 | 899 | 470 | 34 | 66% |
 | esportGG | 31 | 16 | 0 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 164 | 4 | 65% |
 | cruzNBA | 11 | 6 | 0 | 65% |
 | humkyakare | 12 | 7 | 0 | 63% |
 | flatbarrel | 5 | 3 | 1 | 62% |
-| ferrariChampions2026 | 1330 | 850 | 32 | 61% |
+| ferrariChampions2026 | 1330 | 850 | 33 | 61% |
 | UpTheBlues | 39 | 26 | 22 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 4 | 60% |
 | HomeRunHazard | 162 | 117 | 27 | 58% |
 | sbsigner | 31 | 23 | 1 | 57% |
-| GoalLineGhost | 85 | 64 | 15 | 57% |
+| GoalLineGhost | 85 | 64 | 16 | 57% |
 | monkeymashingkeyboard | 16 | 13 | 4 | 55% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 67 | 57 | 13 | 54% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 67 | 57 | 14 | 54% |
 | 1winstreak1 | 36 | 32 | 1 | 53% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 12 | 11 | 0 | 52% |
 | wr0ngw4yb3tt0r | 119 | 117 | 6 | 50% |
