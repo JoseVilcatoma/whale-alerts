@@ -91870,5 +91870,77 @@
     "usd": 1283.6275999999998,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785658468,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-bro2-2026-08-02-game1",
+    "title": "LoL: DN SOOPers vs HANJIN BRION - Game 1 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 1410.68,
+    "odds_at_bet": 20,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785658494,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "lol-tt-we-2026-08-02",
+    "title": "LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 4408.4642,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785658504,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-liutova-vidmano-2026-08-02",
+    "title": "The Memphis Classic: Kristina Liutova vs Darja Vidmanova",
+    "outcome": "Darja Vidmanova",
+    "side": "BUY",
+    "usd": 1752.1296,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785658534,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-we-2026-08-02-game2",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 2 Winner",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 1062.9643,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785658552,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-we-2026-08-02",
+    "title": "LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 2456.1804,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785658555,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-we-2026-08-02",
+    "title": "LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 2420.0601,
+    "odds_at_bet": 67,
+    "status": "pending"
   }
 ]
