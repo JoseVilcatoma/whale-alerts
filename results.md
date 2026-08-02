@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 02:58:27 (hora de Perú)
+Actualizado: 2026-08-02 03:00:40 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | us391 | 8 | 3 | 14 | 73% |
 | Fallout3 | 11 | 5 | 6 | 69% |
 | VeryLucky888 | 47 | 23 | 8 | 67% |
-| RN1 | 899 | 470 | 48 | 66% |
+| RN1 | 899 | 470 | 49 | 66% |
 | esportGG | 31 | 16 | 1 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 164 | 4 | 65% |
 | cruzNBA | 11 | 6 | 0 | 65% |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | flatbarrel | 5 | 3 | 2 | 62% |
 | ferrariChampions2026 | 1330 | 850 | 81 | 61% |
 | UpTheBlues | 39 | 26 | 23 | 60% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 13 | 60% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 15 | 60% |
 | HomeRunHazard | 162 | 117 | 36 | 58% |
 | sbsigner | 31 | 23 | 4 | 57% |
 | GoalLineGhost | 85 | 64 | 33 | 57% |

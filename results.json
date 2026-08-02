@@ -91354,5 +91354,41 @@
     "usd": 1022.12,
     "odds_at_bet": 46,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785657566,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-g1-cs1-2026-08-02",
+    "title": "Counter-Strike: GenOne vs CYBERSHOKE Esports (BO3) - Thunderpick World Championship European Series #2 Playoffs",
+    "outcome": "CYBERSHOKE Esports",
+    "side": "BUY",
+    "usd": 1329.7302,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785657568,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-sashi-blackp-2026-08-02",
+    "title": "Counter-Strike: Sashi Esport vs Black Phoenix (BO3) - CCT Europe Series #5 Playoffs",
+    "outcome": "Black Phoenix",
+    "side": "BUY",
+    "usd": 1613.7151999999999,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785657604,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-mortens-geerlin-2026-08-02",
+    "title": "ITF Kursumlijska Banja: Rebecca Munk Mortensen vs Ariana Geerlings",
+    "outcome": "Ariana Geerlings",
+    "side": "BUY",
+    "usd": 1792.7,
+    "odds_at_bet": 91,
+    "status": "pending"
   }
 ]
