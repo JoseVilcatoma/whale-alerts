@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 11:48:43 (hora de Perú)
+Actualizado: 2026-08-02 11:51:18 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -17,7 +17,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | texaskid | 15 | 0 | 1 | 100% |
 | THEdirkdiggler | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | matenghehe | 8 | 0 | 9 | 100% |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 6 | 0 | 6 | ⚠️ 100% (muestra chica: 6) |
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 6 | 0 | 7 | ⚠️ 100% (muestra chica: 6) |
 | LeatherPants | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | TopGleaguepick | 14 | 0 | 0 | 100% |
@@ -25,8 +25,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | paquitomillonario | 12 | 1 | 1 | 92% |
 | cigarettes | 51 | 8 | 7 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
-| fkgggg2mouzfuria | 65 | 12 | 27 | 84% |
-| swisstony | 604 | 131 | 106 | 82% |
+| fkgggg2mouzfuria | 65 | 12 | 28 | 84% |
+| swisstony | 604 | 131 | 107 | 82% |
 | fRibrenlc | 12 | 3 | 6 | 80% |
 | mooseborzoi | 63 | 19 | 1 | 77% |
 | Djdjdjekekek | 121 | 39 | 2 | 76% |
@@ -35,20 +35,20 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 27 | 9 | 2 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 932 | 483 | 120 | 66% |
+| RN1 | 932 | 483 | 122 | 66% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 19 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 93 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
-| VeryLucky888 | 48 | 28 | 40 | 63% |
+| VeryLucky888 | 48 | 28 | 41 | 63% |
 | GoalLineGhost | 112 | 67 | 58 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 367 | 61% |
+| ferrariChampions2026 | 1466 | 930 | 369 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 63 | 60% |
 | flatbarrel | 6 | 4 | 3 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 24 | 60% |
 | esportGG | 36 | 25 | 36 | 59% |
-| HomeRunHazard | 186 | 132 | 35 | 58% |
+| HomeRunHazard | 186 | 132 | 36 | 58% |
 | sbsigner | 33 | 26 | 16 | 56% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 77 | 64 | 28 | 55% |
 | 1winstreak1 | 36 | 33 | 1 | 52% |
