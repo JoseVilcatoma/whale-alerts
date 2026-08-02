@@ -125926,5 +125926,65 @@
     "usd": 1275.0,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785714037,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "mlb-bos-lad-2026-08-02",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 1222.949998,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785714057,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-bos-lad-2026-08-02-spread-away-1pt5",
+    "title": "Spread: Boston Red Sox (-1.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 1096.7,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785714057,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-lad-2026-08-02-spread-away-1pt5",
+    "title": "Spread: Boston Red Sox (-1.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 3579.6426109999993,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785714070,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-g21-sen-2026-08-02-game1",
+    "title": "Valorant: G2 Esports vs Sentinels - Map 1 Winner",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "usd": 1191.3967919999998,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785714149,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-g21-sen-2026-08-02",
+    "title": "Valorant: G2 Esports vs Sentinels (BO3) - VCT Americas Stage 2 Group Omega",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 3025.6122,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
