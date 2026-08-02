@@ -106462,5 +106462,101 @@
     "usd": 7824.7275,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785684485,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-bbl1-pcfic-2026-08-02-game1",
+    "title": "Valorant: BBL Esports vs Pcific Esports - Map 1 Winner",
+    "outcome": "BBL Esports",
+    "side": "BUY",
+    "usd": 2177.9472,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684496,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "val-bbl1-pcfic-2026-08-02-game1",
+    "title": "Valorant: BBL Esports vs Pcific Esports - Map 1 Winner",
+    "outcome": "BBL Esports",
+    "side": "BUY",
+    "usd": 28205.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684529,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-rnx-yb1-2026-08-02-game1",
+    "title": "Dota 2: REKONIX vs Yakult Brothers - Game 1 Winner",
+    "outcome": "Yakult Brothers",
+    "side": "BUY",
+    "usd": 1232.16,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684534,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-rnx-yb1-2026-08-02-game1",
+    "title": "Dota 2: REKONIX vs Yakult Brothers - Game 1 Winner",
+    "outcome": "Yakult Brothers",
+    "side": "BUY",
+    "usd": 1274.3400000000001,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684541,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-ts7-mouz-2026-08-02-game4",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 4 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 4610.76462,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684580,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "atp-vallejo-shang-2026-08-03",
+    "title": "Canadian Open: Adolfo Vallejo vs Juncheng Shang",
+    "outcome": "Juncheng Shang",
+    "side": "BUY",
+    "usd": 1725.3600000000001,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684593,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-sk-g2-2026-08-02-game1",
+    "title": "LoL: SK Gaming vs G2 Esports - Game 1 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 3375.0299999999997,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785684601,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-sk-g2-2026-08-02-game1",
+    "title": "LoL: SK Gaming vs G2 Esports - Game 1 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 17954.2875,
+    "odds_at_bet": 75,
+    "status": "pending"
   }
 ]
