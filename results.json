@@ -102334,5 +102334,41 @@
     "usd": 27829.717999999997,
     "odds_at_bet": 95,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785678599,
+    "username": "cruzNBA",
+    "wallet": "0x880b1fc5d3beb01c237f0848b249fd72b48fc98b",
+    "slug": "cs2-ts7-mouz-2026-08-02-game4",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 4 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 2314.0535999999997,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785678607,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "clf-fcu-sev-2026-08-02-fcu",
+    "title": "Will FC Utrecht win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1164.029996,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785678616,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-gl-mouz-2026-08-02-game1",
+    "title": "Dota 2: GamerLegion vs MOUZ - Game 1 Winner",
+    "outcome": "GamerLegion",
+    "side": "SELL",
+    "usd": 57746.66553,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
