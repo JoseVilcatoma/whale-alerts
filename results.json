@@ -102370,5 +102370,53 @@
     "usd": 57746.66553,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785678806,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-rnx-yb1-2026-08-02-game1",
+    "title": "Dota 2: REKONIX vs Yakult Brothers - Game 1 Winner",
+    "outcome": "REKONIX",
+    "side": "BUY",
+    "usd": 1999.9999990000001,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785678826,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-flc-1win-2026-08-02-game1",
+    "title": "Dota 2: Team Falcons vs 1win - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 9999.999999000003,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785678828,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-kouzmin-debru-2026-08-02",
+    "title": "Samsun: Constantin Bittoun Kouzmine vs Gabriel Debru",
+    "outcome": "Constantin Bittoun Kouzmine",
+    "side": "BUY",
+    "usd": 1239.84,
+    "odds_at_bet": 24,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785678879,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-kouzmin-debru-2026-08-02",
+    "title": "Samsun: Constantin Bittoun Kouzmine vs Gabriel Debru",
+    "outcome": "Constantin Bittoun Kouzmine",
+    "side": "BUY",
+    "usd": 1498.1399999999999,
+    "odds_at_bet": 29,
+    "status": "pending"
   }
 ]
