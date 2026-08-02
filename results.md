@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 03:24:04 (hora de Perú)
+Actualizado: 2026-08-02 03:26:32 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 11 | 6 | 0 | 65% |
 | humkyakare | 12 | 7 | 4 | 63% |
 | flatbarrel | 5 | 3 | 2 | 62% |
-| ferrariChampions2026 | 1330 | 850 | 117 | 61% |
+| ferrariChampions2026 | 1330 | 850 | 118 | 61% |
 | UpTheBlues | 39 | 26 | 23 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 16 | 60% |
 | HomeRunHazard | 162 | 117 | 36 | 58% |
@@ -86,3 +86,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | denizz | 0 | 0 | 8 | — |
 | 0way | 0 | 0 | 2 | — |
 | ndb1 | 0 | 0 | 1 | — |
+| patient12 | 0 | 0 | 1 | — |
