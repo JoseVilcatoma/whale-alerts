@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 13:58:57 (hora de Perú)
+Actualizado: 2026-08-02 14:02:17 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | paquitomillonario | 12 | 1 | 3 | 92% |
 | cigarettes | 51 | 8 | 9 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
-| fkgggg2mouzfuria | 65 | 12 | 39 | 84% |
+| fkgggg2mouzfuria | 65 | 12 | 45 | 84% |
 | swisstony | 604 | 131 | 123 | 82% |
 | fRibrenlc | 12 | 3 | 9 | 80% |
 | mooseborzoi | 63 | 19 | 1 | 77% |
@@ -35,14 +35,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 27 | 9 | 3 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 932 | 483 | 178 | 66% |
+| RN1 | 932 | 483 | 179 | 66% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 24 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 106 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
 | VeryLucky888 | 48 | 28 | 77 | 63% |
 | GoalLineGhost | 112 | 67 | 71 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 464 | 61% |
+| ferrariChampions2026 | 1466 | 930 | 466 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 63 | 60% |
 | flatbarrel | 6 | 4 | 3 | 60% |
@@ -64,7 +64,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | AnonymousUsername | 18 | 21 | 24 | 46% |
 | pleaseplease123 | 34 | 43 | 26 | 44% |
 | VPenguin | 10 | 14 | 4 | 42% |
-| 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 0 | 39% |
+| 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 1 | 39% |
 | jtwyslljy | 5 | 8 | 8 | 38% |
 | Flipadelphia | 5 | 8 | 11 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
@@ -89,7 +89,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | denizz | 0 | 0 | 12 | — |
 | ndb1 | 0 | 0 | 1 | — |
 | Avrtsz | 0 | 0 | 1 | — |
-| 111111111115 | 0 | 0 | 16 | — |
+| 111111111115 | 0 | 0 | 18 | — |
 | beachboy4 | 0 | 0 | 6 | — |
 | BrightStars | 0 | 0 | 1 | — |
 | PleaseWinPlease | 0 | 0 | 1 | — |
