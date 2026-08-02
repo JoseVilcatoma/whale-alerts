@@ -90130,5 +90130,17 @@
     "usd": 27662.878,
     "odds_at_bet": 71,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785654364,
+    "username": "jtwyslljy",
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "slug": "lol-tt-we-2026-08-02",
+    "title": "LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 11600.0,
+    "odds_at_bet": 29,
+    "status": "pending"
   }
 ]
