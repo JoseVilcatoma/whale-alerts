@@ -101554,5 +101554,53 @@
     "usd": 1201.609995,
     "odds_at_bet": 91,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785677352,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 1230.3844,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677355,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-kouzmin-debru-2026-08-02",
+    "title": "Samsun: Constantin Bittoun Kouzmine vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "side": "BUY",
+    "usd": 1874.1182000000001,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677355,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-kouzmin-debru-2026-08-02",
+    "title": "Samsun: Constantin Bittoun Kouzmine vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "side": "BUY",
+    "usd": 1093.1870999999999,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677463,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-flc-1win-2026-08-02-game1",
+    "title": "Dota 2: Team Falcons vs 1win - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1199.9999990000001,
+    "odds_at_bet": 42,
+    "status": "pending"
   }
 ]
