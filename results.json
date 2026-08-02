@@ -88414,5 +88414,29 @@
     "usd": 1077.1200000000001,
     "odds_at_bet": 66,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785642200,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-lev1-nrg-2026-08-01",
+    "title": "Valorant: Leviat\u00e1n Esports vs NRG (BO3) - VCT Americas Stage 2 Group Alpha",
+    "outcome": "Leviat\u00e1n Esports",
+    "side": "BUY",
+    "usd": 1318.041818,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785642293,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mex-caz-atla-2026-08-01-draw",
+    "title": "Will CF Cruz Azul vs. Atlante FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1022.3800000000001,
+    "odds_at_bet": 68,
+    "status": "pending"
   }
 ]
