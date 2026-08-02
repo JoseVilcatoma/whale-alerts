@@ -99178,5 +99178,53 @@
     "usd": 1224.137931,
     "odds_at_bet": 71,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785673170,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-ari-cle-2026-08-02",
+    "title": "Arizona Diamondbacks vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 1754.0936,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785673171,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-ts7-mouz-2026-08-02",
+    "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Bounty Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 4687.4839,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785673178,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tes-jdg-2026-08-02",
+    "title": "LoL: Top Esports vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 1066.5644000000002,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785673178,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-tes-jdg-2026-08-02",
+    "title": "LoL: Top Esports vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 1377.6056000000003,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
