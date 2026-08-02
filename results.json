@@ -103450,5 +103450,89 @@
     "usd": 1743.341904,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785680830,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game4",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 4 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 1941.3333330000003,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785680830,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game4",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 4 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 1865.7659999999998,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785680830,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game4",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 4 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 1865.7659999999998,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785680830,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game4",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 4 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 2612.68,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785680839,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game4",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 4 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 3081.2568000000006,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785680841,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game4",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 4 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 2901.5600000000004,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785680841,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02",
+    "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Bounty Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 1689.92745,
+    "odds_at_bet": 76,
+    "status": "pending"
   }
 ]
