@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 16:59:53 (hora de Perú)
+Actualizado: 2026-08-02 17:02:56 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -38,12 +38,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 15 | 7 | 0 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 147 | 76 | 55 | 66% |
-| RN1 | 956 | 516 | 279 | 65% |
+| RN1 | 956 | 516 | 286 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ToeTickler98 | 9 | 5 | 1 | 64% |
 | UpTheBlues | 59 | 35 | 34 | 63% |
 | lllllllIlll | 5 | 3 | 2 | 62% |
-| ferrariChampions2026 | 1637 | 1050 | 338 | 61% |
+| ferrariChampions2026 | 1637 | 1050 | 342 | 61% |
 | us391 | 20 | 13 | 9 | 61% |
 | VeryLucky888 | 54 | 34 | 71 | 61% |
 | flatbarrel | 6 | 4 | 5 | 60% |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | meoooow | 15 | 13 | 4 | 54% |
 | 1winstreak1 | 36 | 33 | 17 | 52% |
 | monkeymashingkeyboard | 17 | 16 | 5 | 52% |
-| BirdMan. | 25 | 23 | 12 | 52% |
+| BirdMan. | 25 | 23 | 13 | 52% |
 | wr0ngw4yb3tt0r | 121 | 121 | 39 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
@@ -94,4 +94,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BrightStars | 0 | 0 | 2 | — |
 | PleaseWinPlease | 0 | 0 | 2 | — |
 | highnetworth | 0 | 0 | 4 | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 7 | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 8 | — |
