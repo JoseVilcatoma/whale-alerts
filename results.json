@@ -95386,5 +95386,41 @@
     "usd": 1476.3741,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785666266,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-lng-ig1-2026-08-02-game1",
+    "title": "LoL: LNG Esports vs Invictus Gaming - Game 1 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 1512.7058999999997,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785666311,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-lng-ig1-2026-08-02-game1",
+    "title": "LoL: LNG Esports vs Invictus Gaming - Game 1 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 1205.645,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785666316,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-lng-ig1-2026-08-02-game1",
+    "title": "LoL: LNG Esports vs Invictus Gaming - Game 1 Winner",
+    "outcome": "LNG Esports",
+    "side": "BUY",
+    "usd": 1115.27,
+    "odds_at_bet": 46,
+    "status": "pending"
   }
 ]
