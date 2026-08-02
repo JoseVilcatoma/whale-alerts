@@ -91270,5 +91270,17 @@
     "usd": 3680.0567999999994,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785656994,
+    "username": "denizz",
+    "wallet": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
+    "slug": "us-announces-end-of-iranian-blockade-by-august-15-2026-20260713152715083-347",
+    "title": "US announces end of Iranian blockade by August 15, 2026?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1015.22,
+    "odds_at_bet": 46,
+    "status": "pending"
   }
 ]
