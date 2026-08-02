@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 17:21:30 (hora de Perú)
+Actualizado: 2026-08-02 17:37:06 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -25,9 +25,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 55 | 8 | 7 | 87% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | fkgggg2mouzfuria | 72 | 15 | 37 | 83% |
-| swisstony | 640 | 139 | 133 | 82% |
+| swisstony | 640 | 139 | 134 | 82% |
 | mooseborzoi | 63 | 19 | 1 | 77% |
-| one8tyfive | 32 | 10 | 15 | 76% |
+| one8tyfive | 32 | 10 | 16 | 76% |
 | Spicer | 29 | 9 | 1 | 76% |
 | Djdjdjekekek | 121 | 41 | 12 | 75% |
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 9 | 5 | 1 | 64% |
 | UpTheBlues | 59 | 35 | 34 | 63% |
 | lllllllIlll | 5 | 3 | 2 | 62% |
-| ferrariChampions2026 | 1637 | 1050 | 347 | 61% |
+| ferrariChampions2026 | 1637 | 1050 | 348 | 61% |
 | us391 | 20 | 13 | 9 | 61% |
 | VeryLucky888 | 54 | 34 | 71 | 61% |
 | flatbarrel | 6 | 4 | 5 | 60% |

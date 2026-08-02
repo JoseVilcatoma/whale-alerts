@@ -124102,5 +124102,41 @@
     "usd": 1317.16,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785710100,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "wta-frech-jeanjea-2026-08-02",
+    "title": "National Bank Open: Magdalena Frech vs Leolia Jeanjean",
+    "outcome": "Leolia Jeanjean",
+    "side": "BUY",
+    "usd": 1416.7998,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785710107,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-c9-kru1-2026-08-02-game2",
+    "title": "Valorant: Cloud9 vs KR\u00dc Esports - Map 2 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 1988.6452,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785710140,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "brco-mir-gre-2026-08-02-mir",
+    "title": "Will Mirassol FC win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2438.4099979999996,
+    "odds_at_bet": 72,
+    "status": "pending"
   }
 ]
