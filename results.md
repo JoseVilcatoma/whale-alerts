@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 06:37:27 (hora de Perú)
+Actualizado: 2026-08-02 06:40:29 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -21,7 +21,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | LeatherPants | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | paquitomillonario | 10 | 1 | 2 | 91% |
-| Spicer | 26 | 4 | 5 | 87% |
+| Spicer | 26 | 4 | 7 | 87% |
 | cigarettes | 51 | 8 | 0 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | swisstony | 603 | 130 | 62 | 82% |
@@ -40,8 +40,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | us391 | 11 | 6 | 13 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 6 | 64% |
 | VeryLucky888 | 48 | 27 | 13 | 64% |
-| GoalLineGhost | 112 | 67 | 15 | 63% |
-| ferrariChampions2026 | 1364 | 870 | 243 | 61% |
+| GoalLineGhost | 112 | 67 | 16 | 63% |
+| ferrariChampions2026 | 1364 | 870 | 247 | 61% |
 | UpTheBlues | 39 | 26 | 44 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 23 | 60% |
@@ -67,7 +67,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 0 | 39% |
 | Flipadelphia | 5 | 8 | 1 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
-| PASSTHEMONEY | 20 | 42 | 10 | 32% |
+| PASSTHEMONEY | 20 | 42 | 11 | 32% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 1 | 31% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
@@ -77,14 +77,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | plonker2026 | 0 | 3 | 26 | ⚠️ 0% (muestra chica: 3) |
 | AV23IUa | 0 | 2 | 0 | ⚠️ 0% (muestra chica: 2) |
 | StasPanda | 0 | 2 | 8 | ⚠️ 0% (muestra chica: 2) |
-| BirdMan. | 0 | 2 | 29 | ⚠️ 0% (muestra chica: 2) |
+| BirdMan. | 0 | 2 | 33 | ⚠️ 0% (muestra chica: 2) |
 | balthazar | 0 | 0 | 17 | — |
 | Melody626 | 0 | 0 | 10 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | Anjun | 0 | 0 | 5 | — |
 | TopGleaguepick | 0 | 0 | 14 | — |
 | denizz | 0 | 0 | 9 | — |
-| 0way | 0 | 0 | 6 | — |
+| 0way | 0 | 0 | 7 | — |
 | ndb1 | 0 | 0 | 1 | — |
 | patient12 | 0 | 0 | 14 | — |
 | lllllllIlll | 0 | 0 | 8 | — |
