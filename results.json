@@ -89002,5 +89002,29 @@
     "usd": 1931.8783,
     "odds_at_bet": 17,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785643810,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-lag-dal-2026-08-01-lag",
+    "title": "Will Los Angeles Galaxy win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1546.5195999999999,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785643849,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-gea-shapova-2026-08-01",
+    "title": "Los Cabos Open: Arthur Gea vs Denis Shapovalov",
+    "outcome": "Arthur Gea",
+    "side": "BUY",
+    "usd": 1660.0,
+    "odds_at_bet": 83,
+    "status": "pending"
   }
 ]
