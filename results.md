@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 02:21:14 (hora de Perú)
+Actualizado: 2026-08-02 02:23:24 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -40,20 +40,20 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 11 | 6 | 0 | 65% |
 | humkyakare | 12 | 7 | 4 | 63% |
 | flatbarrel | 5 | 3 | 2 | 62% |
-| ferrariChampions2026 | 1330 | 850 | 71 | 61% |
+| ferrariChampions2026 | 1330 | 850 | 74 | 61% |
 | UpTheBlues | 39 | 26 | 22 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 9 | 60% |
 | HomeRunHazard | 162 | 117 | 35 | 58% |
 | sbsigner | 31 | 23 | 2 | 57% |
 | GoalLineGhost | 85 | 64 | 33 | 57% |
-| monkeymashingkeyboard | 16 | 13 | 4 | 55% |
+| monkeymashingkeyboard | 16 | 13 | 5 | 55% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 67 | 57 | 20 | 54% |
 | 1winstreak1 | 36 | 32 | 1 | 53% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 12 | 11 | 4 | 52% |
 | wr0ngw4yb3tt0r | 119 | 117 | 6 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 2 | 50% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 18 | 18 | 13 | 50% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 18 | 18 | 14 | 50% |
 | jtwyslljy | 5 | 5 | 4 | 50% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 23 | 23 | 1 | 50% |
 | ToeTickler98 | 5 | 5 | 4 | 50% |

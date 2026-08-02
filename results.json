@@ -90550,5 +90550,65 @@
     "usd": 3373.3131999999996,
     "odds_at_bet": 76,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785655320,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 1235.6726999999998,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655360,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1053.0039000000002,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655365,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1053.0039000000002,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655380,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-phi-bal-2026-08-02",
+    "title": "Philadelphia Phillies vs. Baltimore Orioles",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "usd": 11000.0,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655380,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-phi-bal-2026-08-02",
+    "title": "Philadelphia Phillies vs. Baltimore Orioles",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 28575.4728,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
