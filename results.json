@@ -90058,5 +90058,29 @@
     "usd": 4185.277023,
     "odds_at_bet": 23,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785653501,
+    "username": "ToeTickler98",
+    "wallet": "0x866056133a70de9282a080758858d1a0c8b393ed",
+    "slug": "val-var-drx1-2026-08-02",
+    "title": "Valorant: VARREL vs DRX (BO3) - VCT Pacific Group Omega",
+    "outcome": "VARREL",
+    "side": "BUY",
+    "usd": 2100.0,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785653560,
+    "username": "TopGleaguepick",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-tt-we-2026-08-02",
+    "title": "LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 22336.293,
+    "odds_at_bet": 70,
+    "status": "pending"
   }
 ]
