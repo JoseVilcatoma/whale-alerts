@@ -107290,5 +107290,41 @@
     "usd": 1102.124,
     "odds_at_bet": 40,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785686109,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-ts7-mouz-2026-08-02",
+    "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Bounty Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 9990.0,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785686139,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "atp-fritz-jodar-2026-08-02",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Rafael Jodar",
+    "outcome": "Taylor Fritz",
+    "side": "SELL",
+    "usd": 1200.0,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785686154,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-sun-wre-2026-08-02-total-3pt5",
+    "title": "Sunderland AFC vs. Wrexham AFC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1804.9988,
+    "odds_at_bet": 68,
+    "status": "pending"
   }
 ]
