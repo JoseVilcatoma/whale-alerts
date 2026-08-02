@@ -88702,5 +88702,65 @@
     "usd": 1177.0759,
     "odds_at_bet": 91,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785643045,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-por-sea-2026-08-01-draw",
+    "title": "Will Portland Timbers vs. Seattle Sounders FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1849.422882,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785643048,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "atp-gea-shapova-2026-08-01",
+    "title": "Los Cabos Open: Arthur Gea vs Denis Shapovalov",
+    "outcome": "Arthur Gea",
+    "side": "BUY",
+    "usd": 1212.42,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785643105,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-lag-dal-2026-08-01-dal",
+    "title": "Will FC Dallas win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1941.1722000000002,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785643114,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-lag-dal-2026-08-01-dal",
+    "title": "Will FC Dallas win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1486.8396,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785643122,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-lag-dal-2026-08-01-dal",
+    "title": "Will FC Dallas win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1505.3109,
+    "odds_at_bet": 69,
+    "status": "pending"
   }
 ]
