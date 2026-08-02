@@ -91618,5 +91618,53 @@
     "usd": 3245.5269000000003,
     "odds_at_bet": 33,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785658057,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-bro2-2026-08-02-game1",
+    "title": "LoL: DN SOOPers vs HANJIN BRION - Game 1 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 3301.9569,
+    "odds_at_bet": 33,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785658059,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-tt-we-2026-08-02-game2",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 2 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 2354.87,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785658065,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-tt-we-2026-08-02-game2",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 2 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 3421.0983,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785658147,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-we-2026-08-02",
+    "title": "LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1432.211,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]

@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 03:07:25 (hora de Perú)
+Actualizado: 2026-08-02 03:09:43 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -35,12 +35,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Fallout3 | 11 | 5 | 6 | 69% |
 | VeryLucky888 | 47 | 23 | 9 | 67% |
 | RN1 | 899 | 470 | 49 | 66% |
-| esportGG | 31 | 16 | 6 | 66% |
+| esportGG | 31 | 16 | 8 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 164 | 4 | 65% |
 | cruzNBA | 11 | 6 | 0 | 65% |
 | humkyakare | 12 | 7 | 4 | 63% |
 | flatbarrel | 5 | 3 | 2 | 62% |
-| ferrariChampions2026 | 1330 | 850 | 90 | 61% |
+| ferrariChampions2026 | 1330 | 850 | 92 | 61% |
 | UpTheBlues | 39 | 26 | 23 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 15 | 60% |
 | HomeRunHazard | 162 | 117 | 36 | 58% |
