@@ -90322,5 +90322,65 @@
     "usd": 25766.7246,
     "odds_at_bet": 72,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785654952,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1216.065575,
+    "odds_at_bet": 27,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785654998,
+    "username": "TopGleaguepick",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-tt-we-2026-08-02-game1",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 3598.2853,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655003,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "swe-ifk-deg-2026-08-02-total-2pt5",
+    "title": "IFK Goteborg vs. Degerfors IF: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1420.2968,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655003,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "swe-ifk-deg-2026-08-02-total-2pt5",
+    "title": "IFK Goteborg vs. Degerfors IF: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1287.0432,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785655008,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-we-2026-08-02",
+    "title": "LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1008.0071999999999,
+    "odds_at_bet": 24,
+    "status": "pending"
   }
 ]
