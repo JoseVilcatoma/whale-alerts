@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 10:45:42 (hora de Perú)
+Actualizado: 2026-08-02 10:47:58 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 51 | 8 | 6 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | fkgggg2mouzfuria | 65 | 12 | 16 | 84% |
-| swisstony | 604 | 131 | 92 | 82% |
-| fRibrenlc | 12 | 3 | 5 | 80% |
+| swisstony | 604 | 131 | 93 | 82% |
+| fRibrenlc | 12 | 3 | 6 | 80% |
 | mooseborzoi | 63 | 19 | 1 | 77% |
 | Djdjdjekekek | 121 | 39 | 2 | 76% |
 | one8tyfive | 31 | 10 | 4 | 76% |
@@ -38,22 +38,22 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RN1 | 932 | 483 | 98 | 66% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 19 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 79 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 80 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
-| VeryLucky888 | 48 | 28 | 34 | 63% |
-| GoalLineGhost | 112 | 67 | 47 | 63% |
+| VeryLucky888 | 48 | 28 | 35 | 63% |
+| GoalLineGhost | 112 | 67 | 48 | 63% |
 | ferrariChampions2026 | 1466 | 930 | 323 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 63 | 60% |
 | flatbarrel | 6 | 4 | 1 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 24 | 60% |
 | esportGG | 36 | 25 | 34 | 59% |
-| HomeRunHazard | 186 | 132 | 28 | 58% |
+| HomeRunHazard | 186 | 132 | 29 | 58% |
 | sbsigner | 33 | 26 | 16 | 56% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 77 | 64 | 25 | 55% |
 | 1winstreak1 | 36 | 33 | 1 | 52% |
 | monkeymashingkeyboard | 17 | 16 | 3 | 52% |
-| wr0ngw4yb3tt0r | 121 | 121 | 4 | 50% |
+| wr0ngw4yb3tt0r | 121 | 121 | 5 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
@@ -61,8 +61,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 23 | 48% |
 | meoooow | 12 | 13 | 4 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
-| AnonymousUsername | 18 | 21 | 5 | 46% |
-| pleaseplease123 | 34 | 43 | 9 | 44% |
+| AnonymousUsername | 18 | 21 | 6 | 46% |
+| pleaseplease123 | 34 | 43 | 11 | 44% |
 | VPenguin | 10 | 14 | 4 | 42% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 0 | 39% |
 | jtwyslljy | 5 | 8 | 7 | 38% |
@@ -90,4 +90,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ndb1 | 0 | 0 | 1 | — |
 | Avrtsz | 0 | 0 | 1 | — |
 | 111111111115 | 0 | 0 | 1 | — |
-| beachboy4 | 0 | 0 | 1 | — |
+| beachboy4 | 0 | 0 | 2 | — |
