@@ -122182,5 +122182,89 @@
     "usd": 3980.1278999999995,
     "odds_at_bet": 73,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785705880,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-kc-col-2026-08-02-total-9pt5",
+    "title": "Kansas City Royals vs. Colorado Rockies: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1475.68,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785705889,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-wan-bejlek-2026-08-03",
+    "title": "National Bank Open: Xiyu Wang vs Sara Bejlek",
+    "outcome": "Xiyu Wang",
+    "side": "BUY",
+    "usd": 4100.0,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785705906,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-c9-kru1-2026-08-02",
+    "title": "Valorant: Cloud9 vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Group Omega",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 1748.558536,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785705919,
+    "username": "ninasuskevic",
+    "wallet": "0x58d71d66722aa4c1e6ebde57071693667d2917e1",
+    "slug": "wta-wan-bejlek-2026-08-03",
+    "title": "National Bank Open: Xiyu Wang vs Sara Bejlek",
+    "outcome": "Sara Bejlek",
+    "side": "SELL",
+    "usd": 1710.0,
+    "odds_at_bet": 19,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785705919,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-sf-sd-2026-08-02-total-9pt5",
+    "title": "San Francisco Giants vs. San Diego Padres: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1079.6435000000001,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785705940,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-boisson-ruzic-2026-08-02",
+    "title": "National Bank Open: Lois Boisson vs Antonia Ruzic",
+    "outcome": "Lois Boisson",
+    "side": "BUY",
+    "usd": 1652.1666270000003,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785705944,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "brco-mir-gre-2026-08-02-first-half-total-2pt5",
+    "title": "Mirassol FC vs. Gr\u00eamio FBPA: 1st Half O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1267.2,
+    "odds_at_bet": 88,
+    "status": "pending"
   }
 ]
