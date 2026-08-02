@@ -101602,5 +101602,101 @@
     "usd": 1199.9999990000001,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785677504,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "cs2-ts7-mouz-2026-08-02-game4",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 4 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 11165.609,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677535,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-kovacev-borges-2026-08-03",
+    "title": "Canadian Open: Aleksandar Kovacevic vs Nuno Borges",
+    "outcome": "Nuno Borges",
+    "side": "BUY",
+    "usd": 5570.3356,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677537,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "usd": 1345.6493,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677540,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-kovacev-borges-2026-08-03",
+    "title": "Canadian Open: Aleksandar Kovacevic vs Nuno Borges",
+    "outcome": "Nuno Borges",
+    "side": "BUY",
+    "usd": 3187.5000000000005,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677545,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-kovacev-borges-2026-08-03",
+    "title": "Canadian Open: Aleksandar Kovacevic vs Nuno Borges",
+    "outcome": "Nuno Borges",
+    "side": "BUY",
+    "usd": 3187.5000000000005,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677556,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 1944.8110000000001,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677558,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 5777.72,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677563,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 15740.4052,
+    "odds_at_bet": 52,
+    "status": "pending"
   }
 ]

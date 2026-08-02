@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 08:31:06 (hora de Perú)
+Actualizado: 2026-08-02 08:33:09 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -34,20 +34,20 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
 | RN1 | 915 | 481 | 75 | 66% |
-| esportGG | 31 | 16 | 42 | 66% |
+| esportGG | 31 | 16 | 43 | 66% |
 | cruzNBA | 11 | 6 | 4 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 15 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 31 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 32 | 64% |
 | VeryLucky888 | 48 | 27 | 14 | 64% |
 | GoalLineGhost | 112 | 67 | 25 | 63% |
-| ferrariChampions2026 | 1364 | 870 | 354 | 61% |
+| ferrariChampions2026 | 1364 | 870 | 356 | 61% |
 | UpTheBlues | 39 | 26 | 51 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 23 | 60% |
 | HomeRunHazard | 181 | 132 | 17 | 58% |
 | sbsigner | 31 | 24 | 16 | 56% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 76 | 63 | 11 | 55% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 76 | 63 | 13 | 55% |
 | 1winstreak1 | 36 | 33 | 1 | 52% |
 | monkeymashingkeyboard | 17 | 16 | 3 | 52% |
 | wr0ngw4yb3tt0r | 121 | 121 | 2 | 50% |
@@ -67,7 +67,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 0 | 39% |
 | Flipadelphia | 5 | 8 | 1 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
-| PASSTHEMONEY | 20 | 42 | 19 | 32% |
+| PASSTHEMONEY | 20 | 42 | 20 | 32% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 1 | 31% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
@@ -75,7 +75,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | plonker2026 | 0 | 3 | 31 | ⚠️ 0% (muestra chica: 3) |
-| AV23IUa | 0 | 2 | 7 | ⚠️ 0% (muestra chica: 2) |
+| AV23IUa | 0 | 2 | 8 | ⚠️ 0% (muestra chica: 2) |
 | StasPanda | 0 | 2 | 8 | ⚠️ 0% (muestra chica: 2) |
 | BirdMan. | 0 | 2 | 44 | ⚠️ 0% (muestra chica: 2) |
 | balthazar | 0 | 0 | 17 | — |
