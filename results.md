@@ -1,12 +1,11 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 14:16:01 (hora de Perú)
+Actualizado: 2026-08-02 14:27:31 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
-| Sparkling8899 | 4 | 0 | 2 | ⚠️ 100% (muestra chica: 4) |
 | QuietRiskisWrong | 2 | 0 | 16 | ⚠️ 100% (muestra chica: 2) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | ninasuskevic | 4 | 0 | 4 | ⚠️ 100% (muestra chica: 4) |
@@ -16,79 +15,80 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Pwaddler | 5 | 0 | 0 | ⚠️ 100% (muestra chica: 5) |
 | texaskid | 15 | 0 | 1 | 100% |
 | THEdirkdiggler | 3 | 0 | 1 | ⚠️ 100% (muestra chica: 3) |
-| matenghehe | 8 | 0 | 20 | 100% |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 6 | 0 | 9 | ⚠️ 100% (muestra chica: 6) |
+| matenghehe | 15 | 0 | 13 | 100% |
 | LeatherPants | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | TopGleaguepick | 14 | 0 | 0 | 100% |
-| patient12 | 8 | 0 | 7 | 100% |
+| patient12 | 14 | 0 | 1 | 100% |
+| Avrtsz | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | paquitomillonario | 12 | 1 | 3 | 92% |
-| cigarettes | 51 | 8 | 9 | 86% |
+| cigarettes | 55 | 8 | 6 | 87% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
-| fkgggg2mouzfuria | 65 | 12 | 47 | 84% |
-| swisstony | 604 | 131 | 134 | 82% |
-| fRibrenlc | 12 | 3 | 9 | 80% |
+| fkgggg2mouzfuria | 72 | 15 | 37 | 83% |
+| swisstony | 640 | 139 | 93 | 82% |
 | mooseborzoi | 63 | 19 | 1 | 77% |
-| Djdjdjekekek | 121 | 39 | 10 | 76% |
-| one8tyfive | 31 | 10 | 8 | 76% |
+| one8tyfive | 32 | 10 | 7 | 76% |
+| Spicer | 29 | 9 | 1 | 76% |
+| Djdjdjekekek | 121 | 41 | 8 | 75% |
 | Bigggggggg | 3 | 1 | 20 | ⚠️ 75% (muestra chica: 4) |
-| Spicer | 27 | 9 | 3 | 75% |
+| fRibrenlc | 15 | 5 | 4 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 932 | 483 | 196 | 66% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 370 | 178 | 42 | 68% |
+| cruzNBA | 15 | 7 | 0 | 68% |
+| Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
+| GoalLineGhost | 147 | 76 | 29 | 66% |
+| RN1 | 956 | 516 | 143 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
-| us391 | 11 | 6 | 24 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 122 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
-| VeryLucky888 | 48 | 28 | 77 | 63% |
-| GoalLineGhost | 112 | 67 | 73 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 490 | 61% |
-| cruzNBA | 11 | 7 | 4 | 61% |
-| UpTheBlues | 39 | 26 | 63 | 60% |
-| flatbarrel | 6 | 4 | 4 | 60% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 28 | 60% |
-| esportGG | 36 | 25 | 44 | 59% |
-| HomeRunHazard | 186 | 132 | 72 | 58% |
-| sbsigner | 33 | 26 | 18 | 56% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 77 | 64 | 45 | 55% |
+| UpTheBlues | 59 | 35 | 34 | 63% |
+| lllllllIlll | 5 | 3 | 1 | 62% |
+| ferrariChampions2026 | 1637 | 1050 | 207 | 61% |
+| us391 | 20 | 13 | 8 | 61% |
+| VeryLucky888 | 54 | 34 | 66 | 61% |
+| flatbarrel | 6 | 4 | 5 | 60% |
+| HomeRunHazard | 189 | 132 | 74 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 84 | 68 | 35 | 55% |
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 6 | 5 | 4 | 55% |
+| meoooow | 15 | 13 | 4 | 54% |
 | 1winstreak1 | 36 | 33 | 6 | 52% |
 | monkeymashingkeyboard | 17 | 16 | 5 | 52% |
-| wr0ngw4yb3tt0r | 121 | 121 | 24 | 50% |
+| BirdMan. | 25 | 23 | 9 | 52% |
+| wr0ngw4yb3tt0r | 121 | 121 | 25 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 32 | 32 | 7 | 50% |
+| esportGG | 48 | 48 | 9 | 50% |
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 25 | 26 | 20 | 49% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 33 | 48% |
-| meoooow | 12 | 13 | 7 | 48% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 50 | 53 | 5 | 49% |
+| sbsigner | 36 | 39 | 2 | 48% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 34 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
-| AnonymousUsername | 18 | 21 | 24 | 46% |
+| AnonymousUsername | 18 | 21 | 26 | 46% |
 | pleaseplease123 | 34 | 43 | 27 | 44% |
-| VPenguin | 10 | 14 | 4 | 42% |
-| 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 1 | 39% |
-| jtwyslljy | 5 | 8 | 8 | 38% |
-| Flipadelphia | 5 | 8 | 11 | 38% |
+| jtwyslljy | 8 | 10 | 3 | 44% |
+| Flipadelphia | 6 | 9 | 9 | 40% |
+| 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 3 | 39% |
+| PASSTHEMONEY | 32 | 53 | 15 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 15 | 28 | 65 | 35% |
+| VPenguin | 10 | 18 | 0 | 36% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 10 | 21 | 7 | 32% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 2 | 31% |
-| PASSTHEMONEY | 21 | 46 | 33 | 31% |
+| Anjun | 1 | 3 | 1 | ⚠️ 25% (muestra chica: 4) |
+| StasPanda | 2 | 7 | 12 | 22% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
-| BirdMan. | 2 | 12 | 43 | 14% |
+| plonker2026 | 4 | 29 | 1 | 12% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | neurodivergentBet | 0 | 4 | 0 | ⚠️ 0% (muestra chica: 4) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
-| plonker2026 | 0 | 3 | 31 | ⚠️ 0% (muestra chica: 3) |
-| AV23IUa | 0 | 2 | 9 | ⚠️ 0% (muestra chica: 2) |
-| StasPanda | 0 | 2 | 19 | ⚠️ 0% (muestra chica: 2) |
-| Anjun | 0 | 1 | 4 | ⚠️ 0% (muestra chica: 1) |
-| 0way | 0 | 2 | 5 | ⚠️ 0% (muestra chica: 2) |
-| lllllllIlll | 0 | 1 | 8 | ⚠️ 0% (muestra chica: 1) |
+| AV23IUa | 0 | 3 | 8 | ⚠️ 0% (muestra chica: 3) |
+| 0way | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | balthazar | 0 | 0 | 17 | — |
 | Melody626 | 0 | 0 | 11 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | denizz | 0 | 0 | 12 | — |
 | ndb1 | 0 | 0 | 1 | — |
-| Avrtsz | 0 | 0 | 1 | — |
 | 111111111115 | 0 | 0 | 22 | — |
 | beachboy4 | 0 | 0 | 9 | — |
 | BrightStars | 0 | 0 | 1 | — |
