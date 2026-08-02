@@ -101470,5 +101470,89 @@
     "usd": 4999.999999000001,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785677269,
+    "username": "BirdMan.",
+    "wallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "usd": 2535.186,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677269,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 1196.124,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677272,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 1358.3310000000001,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677272,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-kt-hle1-2026-08-02",
+    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 1649.2114,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677283,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "cs2-ts7-mouz-2026-08-02-game4",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 4 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1857.142857,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677321,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "den-mid-hor-2026-08-02-total-5pt5",
+    "title": "FC Midtjylland vs. AC Horsens: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1104.84,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785677325,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "scop-joh-kil-2026-08-02-kil",
+    "title": "Will Kilmarnock FC win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1201.609995,
+    "odds_at_bet": 91,
+    "status": "pending"
   }
 ]
