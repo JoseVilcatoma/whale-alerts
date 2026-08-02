@@ -89962,5 +89962,29 @@
     "usd": 2150.689655,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785652864,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-biryuko-shebeki-2026-08-02",
+    "title": "ITF Astana: Petr Bar Biryukov vs Grigory Shebekin",
+    "outcome": "Grigory Shebekin",
+    "side": "BUY",
+    "usd": 1034.427333,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785652893,
+    "username": "Flipadelphia",
+    "wallet": "0x448861155279dbf833d041b963e3ac854599e319",
+    "slug": "mex-tol-nec-2026-08-02-tol",
+    "title": "Will Deportivo Toluca FC win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1202.9661,
+    "odds_at_bet": 63,
+    "status": "pending"
   }
 ]
