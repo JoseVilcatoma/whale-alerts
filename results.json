@@ -89578,5 +89578,17 @@
     "usd": 1796.1802,
     "odds_at_bet": 89,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785645934,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-por-sea-2026-08-01-por",
+    "title": "Will Portland Timbers win on 2026-08-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1810.9986999999999,
+    "odds_at_bet": 89,
+    "status": "pending"
   }
 ]
