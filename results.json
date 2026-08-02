@@ -118846,5 +118846,113 @@
     "usd": 3353.2800000000007,
     "odds_at_bet": 80,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785702720,
+    "username": "TeGeeLP",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-ly-sr-2026-08-02-game1",
+    "title": "LoL: LYON vs Shopify Rebellion - Game 1 Winner",
+    "outcome": "Shopify Rebellion",
+    "side": "BUY",
+    "usd": 2375.3752000000004,
+    "odds_at_bet": 19,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785702729,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-kc-col-2026-08-02",
+    "title": "Kansas City Royals vs. Colorado Rockies",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "usd": 3113.3326999999995,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785702738,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "chi1-cls-ohf-2026-08-02-ohf",
+    "title": "Will O'Higgins FC win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1256.8120000000001,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785702763,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-phi-bal-2026-08-02-total-8pt5",
+    "title": "Philadelphia Phillies vs. Baltimore Orioles: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1009.6500000000001,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785702771,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "brco-pal-fec-2026-08-02-pal",
+    "title": "Will SE Palmeiras win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1390.06728,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785702771,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "brco-pal-fec-2026-08-02-pal",
+    "title": "Will SE Palmeiras win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1457.471,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785702786,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-la-por-2026-08-02",
+    "title": "Los Angeles Sparks vs. PortlandFire",
+    "outcome": "Los Angeles Sparks",
+    "side": "BUY",
+    "usd": 1850.299858,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785702850,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "wnba-la-por-2026-08-02",
+    "title": "Los Angeles Sparks vs. PortlandFire",
+    "outcome": "PortlandFire",
+    "side": "BUY",
+    "usd": 1966.5399989999996,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785702858,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "mlb-det-oak-2026-08-02",
+    "title": "Detroit Tigers vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 2113.356,
+    "odds_at_bet": 30,
+    "status": "pending"
   }
 ]
