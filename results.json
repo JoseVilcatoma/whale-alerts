@@ -92302,5 +92302,29 @@
     "usd": 1751.6367,
     "odds_at_bet": 99,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785660017,
+    "username": "0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509",
+    "wallet": "0x0954184654a6a3720f5dde4103a42af4dd0e1e1b",
+    "slug": "cs2-ts7-mouz-2026-08-02",
+    "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Bounty Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 169154.2786,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785660017,
+    "username": "Anjun",
+    "wallet": "0x43372356634781eea88d61bbdd7824cdce958882",
+    "slug": "cs2-ts7-mouz-2026-08-02",
+    "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Bounty Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 4666.62,
+    "odds_at_bet": 21,
+    "status": "pending"
   }
 ]

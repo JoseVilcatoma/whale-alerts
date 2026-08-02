@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 03:39:58 (hora de Perú)
+Actualizado: 2026-08-02 03:42:03 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -17,7 +17,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | texaskid | 15 | 0 | 0 | 100% |
 | THEdirkdiggler | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | matenghehe | 8 | 0 | 3 | 100% |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 6 | 0 | 0 | ⚠️ 100% (muestra chica: 6) |
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 6 | 0 | 1 | ⚠️ 100% (muestra chica: 6) |
 | LeatherPants | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | paquitomillonario | 10 | 1 | 0 | 91% |
@@ -81,7 +81,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | balthazar | 0 | 0 | 17 | — |
 | Melody626 | 0 | 0 | 9 | — |
 | unbribeableref | 0 | 0 | 3 | — |
-| Anjun | 0 | 0 | 3 | — |
+| Anjun | 0 | 0 | 4 | — |
 | TopGleaguepick | 0 | 0 | 14 | — |
 | denizz | 0 | 0 | 8 | — |
 | 0way | 0 | 0 | 2 | — |
