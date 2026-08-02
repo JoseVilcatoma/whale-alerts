@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 10:21:35 (hora de Perú)
+Actualizado: 2026-08-02 10:23:42 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 51 | 8 | 4 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | fkgggg2mouzfuria | 65 | 12 | 11 | 84% |
-| swisstony | 604 | 131 | 90 | 82% |
+| swisstony | 604 | 131 | 91 | 82% |
 | fRibrenlc | 12 | 3 | 5 | 80% |
 | mooseborzoi | 63 | 19 | 1 | 77% |
 | Djdjdjekekek | 121 | 39 | 0 | 76% |
@@ -35,22 +35,22 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 27 | 9 | 2 | 75% |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| RN1 | 932 | 483 | 89 | 66% |
+| RN1 | 932 | 483 | 92 | 66% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | us391 | 11 | 6 | 19 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 69 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 168 | 70 | 64% |
 | ToeTickler98 | 9 | 5 | 0 | 64% |
-| VeryLucky888 | 48 | 28 | 27 | 63% |
+| VeryLucky888 | 48 | 28 | 28 | 63% |
 | GoalLineGhost | 112 | 67 | 42 | 63% |
-| ferrariChampions2026 | 1466 | 930 | 300 | 61% |
+| ferrariChampions2026 | 1466 | 930 | 303 | 61% |
 | cruzNBA | 11 | 7 | 4 | 61% |
 | UpTheBlues | 39 | 26 | 63 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 24 | 60% |
-| esportGG | 36 | 25 | 32 | 59% |
-| HomeRunHazard | 186 | 132 | 26 | 58% |
+| esportGG | 36 | 25 | 34 | 59% |
+| HomeRunHazard | 186 | 132 | 27 | 58% |
 | sbsigner | 33 | 26 | 16 | 56% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 77 | 64 | 21 | 55% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 77 | 64 | 23 | 55% |
 | 1winstreak1 | 36 | 33 | 1 | 52% |
 | monkeymashingkeyboard | 17 | 16 | 3 | 52% |
 | wr0ngw4yb3tt0r | 121 | 121 | 4 | 50% |
@@ -61,15 +61,15 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 25 | 22 | 48% |
 | meoooow | 12 | 13 | 4 | 48% |
 | Eztennis | 28 | 33 | 0 | 46% |
-| AnonymousUsername | 18 | 21 | 3 | 46% |
-| pleaseplease123 | 34 | 43 | 8 | 44% |
+| AnonymousUsername | 18 | 21 | 5 | 46% |
+| pleaseplease123 | 34 | 43 | 9 | 44% |
 | VPenguin | 10 | 14 | 4 | 42% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 0 | 39% |
 | jtwyslljy | 5 | 8 | 7 | 38% |
 | Flipadelphia | 5 | 8 | 6 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 15 | 28 | 62 | 35% |
-| 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 1 | 31% |
+| 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 2 | 31% |
 | PASSTHEMONEY | 21 | 46 | 18 | 31% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | BirdMan. | 2 | 12 | 34 | 14% |
@@ -82,7 +82,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | StasPanda | 0 | 2 | 8 | ⚠️ 0% (muestra chica: 2) |
 | Anjun | 0 | 1 | 4 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 2 | 5 | ⚠️ 0% (muestra chica: 2) |
-| lllllllIlll | 0 | 1 | 7 | ⚠️ 0% (muestra chica: 1) |
+| lllllllIlll | 0 | 1 | 8 | ⚠️ 0% (muestra chica: 1) |
 | balthazar | 0 | 0 | 17 | — |
 | Melody626 | 0 | 0 | 10 | — |
 | unbribeableref | 0 | 0 | 3 | — |
