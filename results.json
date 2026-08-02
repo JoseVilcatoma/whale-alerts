@@ -89110,5 +89110,17 @@
     "usd": 1615.1240000000003,
     "odds_at_bet": 14,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785644093,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-gea-shapova-2026-08-01",
+    "title": "Los Cabos Open: Arthur Gea vs Denis Shapovalov",
+    "outcome": "Arthur Gea",
+    "side": "BUY",
+    "usd": 1223.761764,
+    "odds_at_bet": 83,
+    "status": "pending"
   }
 ]
