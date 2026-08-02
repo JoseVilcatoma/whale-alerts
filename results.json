@@ -125986,5 +125986,65 @@
     "usd": 3025.6122,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785714178,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-g21-sen-2026-08-02-game1",
+    "title": "Valorant: G2 Esports vs Sentinels - Map 1 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 1343.4864000000002,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785714221,
+    "username": "QuietRiskisWrong",
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 4842.999967999999,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785714265,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-fnc-lilmix-2026-08-03",
+    "title": "Counter-Strike: fnatic vs Lilmix (BO3) - Stake Pulse Beat I Group D",
+    "outcome": "fnatic",
+    "side": "BUY",
+    "usd": 1895.4,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785714275,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-g21-sen-2026-08-02-game1",
+    "title": "Valorant: G2 Esports vs Sentinels - Map 1 Winner",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "usd": 1442.081085,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785714277,
+    "username": "QuietRiskisWrong",
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "slug": "will-wti-reach-105-in-august-2026",
+    "title": "Will WTI Crude Oil (WTI) hit (HIGH) $105 in August?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 8621.1452,
+    "odds_at_bet": 89,
+    "status": "pending"
   }
 ]
