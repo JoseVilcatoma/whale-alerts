@@ -122686,5 +122686,65 @@
     "usd": 1046.03125,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785707173,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-ari-cle-2026-08-02",
+    "title": "Arizona Diamondbacks vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 1793.985,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785707174,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-lfc-lee-2026-08-02-total-4pt5",
+    "title": "Liverpool FC vs. Leeds United: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1155.750876,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785707181,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-wan-bejlek-2026-08-03",
+    "title": "National Bank Open: Xiyu Wang vs Sara Bejlek",
+    "outcome": "Xiyu Wang",
+    "side": "BUY",
+    "usd": 2253.7104000000004,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785707229,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-wan-bejlek-2026-08-03",
+    "title": "National Bank Open: Xiyu Wang vs Sara Bejlek",
+    "outcome": "Xiyu Wang",
+    "side": "BUY",
+    "usd": 1106.219999,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785707256,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-sf-sd-2026-08-02",
+    "title": "San Francisco Giants vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 1564.7112,
+    "odds_at_bet": 73,
+    "status": "pending"
   }
 ]
