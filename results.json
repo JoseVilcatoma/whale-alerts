@@ -96934,5 +96934,17 @@
     "usd": 3908.0041,
     "odds_at_bet": 91,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785669637,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "kor-dae1-gwa-2026-08-02-total-3pt5",
+    "title": "Daejeon Hana Citizen FC vs. Gwangju FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1553.0704,
+    "odds_at_bet": 92,
+    "status": "pending"
   }
 ]
