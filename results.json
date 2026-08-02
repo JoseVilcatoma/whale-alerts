@@ -96250,5 +96250,53 @@
     "usd": 4684.81,
     "odds_at_bet": 28,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785668465,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game1",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 1 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 1205.873846,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785668468,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game1",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 1 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1342.517647,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785668473,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "chi-qin-hai-2026-08-02-draw",
+    "title": "Will Qingdao Xihaian FC vs. Qingdao Hainiu FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1063.6363629999998,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785668545,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game1",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 1 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 2377.17,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
