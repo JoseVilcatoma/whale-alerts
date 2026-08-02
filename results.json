@@ -89398,5 +89398,17 @@
     "usd": 1026.0005999999998,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785645142,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-caz-atla-2026-08-01-atla",
+    "title": "Will Atlante FC win on 2026-08-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1287.8268,
+    "odds_at_bet": 39,
+    "status": "pending"
   }
 ]
