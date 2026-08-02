@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 04:05:36 (hora de Perú)
+Actualizado: 2026-08-02 04:07:41 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -86,4 +86,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | denizz | 0 | 0 | 8 | — |
 | 0way | 0 | 0 | 2 | — |
 | ndb1 | 0 | 0 | 1 | — |
-| patient12 | 0 | 0 | 2 | — |
+| patient12 | 0 | 0 | 5 | — |
