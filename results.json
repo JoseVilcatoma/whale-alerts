@@ -92338,5 +92338,17 @@
     "usd": 1217.658,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785660343,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-mortens-geerlin-2026-08-02",
+    "title": "ITF Kursumlijska Banja: Rebecca Munk Mortensen vs Ariana Geerlings",
+    "outcome": "Ariana Geerlings",
+    "side": "BUY",
+    "usd": 1720.0,
+    "odds_at_bet": 86,
+    "status": "pending"
   }
 ]
