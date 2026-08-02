@@ -94078,5 +94078,29 @@
     "usd": 3258.0755999999997,
     "odds_at_bet": 36,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785664337,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-kumstat-bueno-2026-08-02",
+    "title": "Liberec: Jan Kumstat vs Gonzalo Bueno",
+    "outcome": "Gonzalo Bueno",
+    "side": "BUY",
+    "usd": 1402.190275,
+    "odds_at_bet": 18,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785664432,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "kor-uls-any-2026-08-02-uls",
+    "title": "Will Ulsan HD FC win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1008.3577770000002,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]
