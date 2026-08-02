@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 03:48:21 (hora de Perú)
+Actualizado: 2026-08-02 03:50:23 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 166 | 2 | 64% |
 | VeryLucky888 | 48 | 27 | 4 | 64% |
 | GoalLineGhost | 112 | 67 | 4 | 63% |
-| ferrariChampions2026 | 1364 | 870 | 67 | 61% |
+| ferrariChampions2026 | 1364 | 870 | 68 | 61% |
 | UpTheBlues | 39 | 26 | 23 | 60% |
 | flatbarrel | 6 | 4 | 0 | 60% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 4 | 17 | 60% |
@@ -76,7 +76,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | plonker2026 | 0 | 3 | 4 | ⚠️ 0% (muestra chica: 3) |
 | AV23IUa | 0 | 2 | 0 | ⚠️ 0% (muestra chica: 2) |
-| StasPanda | 0 | 2 | 5 | ⚠️ 0% (muestra chica: 2) |
+| StasPanda | 0 | 2 | 6 | ⚠️ 0% (muestra chica: 2) |
 | BirdMan. | 0 | 2 | 3 | ⚠️ 0% (muestra chica: 2) |
 | balthazar | 0 | 0 | 17 | — |
 | Melody626 | 0 | 0 | 9 | — |
