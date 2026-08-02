@@ -96490,5 +96490,77 @@
     "usd": 1026.0026,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785668917,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "swe-bro-mal-2026-08-02-total-1pt5",
+    "title": "IF Brommapojkarna vs. Malmo FF: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2138.4,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785668941,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game1",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 1 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 1687.6663529999998,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785668990,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "swe-bro-mal-2026-08-02-mal",
+    "title": "Will Malmo FF win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2897.3139,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785668992,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "sui-vad-stg-2026-08-02-stg",
+    "title": "Will FC St. Gallen 1879 win on 2026-08-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1095.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785668995,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ts7-mouz-2026-08-02-game1",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 1 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 1552.8647999999998,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785668995,
+    "username": "BirdMan.",
+    "wallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+    "slug": "cs2-ts7-mouz-2026-08-02-game1",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 1 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 1758.0636,
+    "odds_at_bet": 39,
+    "status": "pending"
   }
 ]
