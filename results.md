@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 03:00:40 (hora de Perú)
+Actualizado: 2026-08-02 03:02:55 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Fallout3 | 11 | 5 | 6 | 69% |
 | VeryLucky888 | 47 | 23 | 8 | 67% |
 | RN1 | 899 | 470 | 49 | 66% |
-| esportGG | 31 | 16 | 1 | 66% |
+| esportGG | 31 | 16 | 2 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 164 | 4 | 65% |
 | cruzNBA | 11 | 6 | 0 | 65% |
 | humkyakare | 12 | 7 | 4 | 63% |
@@ -66,7 +66,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 19 | 1 | 41% |
 | Talvez10 | 17 | 29 | 1 | 37% |
 | AnonymousUsername | 8 | 15 | 16 | 35% |
-| PASSTHEMONEY | 20 | 41 | 4 | 33% |
+| PASSTHEMONEY | 20 | 41 | 5 | 33% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 22 | 1 | 31% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |

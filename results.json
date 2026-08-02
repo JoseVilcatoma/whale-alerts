@@ -91390,5 +91390,29 @@
     "usd": 1792.7,
     "odds_at_bet": 91,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785657745,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-dnf-bro2-2026-08-02-game-handicap-home-1pt5",
+    "title": "Game Handicap: BRO (-1.5) vs DN SOOPers (+1.5)",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 1272.727272,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785657773,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-tt-we-2026-08-02-game2",
+    "title": "LoL: ThunderTalk Gaming vs Team WE - Game 2 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1463.0574,
+    "odds_at_bet": 31,
+    "status": "pending"
   }
 ]
