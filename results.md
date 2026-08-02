@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 03:29:00 (hora de Perú)
+Actualizado: 2026-08-02 03:31:29 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | CentralCasting | 17 | 6 | 1 | 74% |
 | mooseborzoi | 49 | 17 | 16 | 74% |
 | fRibrenlc | 8 | 3 | 5 | 73% |
-| us391 | 8 | 3 | 14 | 73% |
+| us391 | 8 | 3 | 15 | 73% |
 | Fallout3 | 11 | 5 | 6 | 69% |
 | VeryLucky888 | 47 | 23 | 9 | 67% |
 | RN1 | 899 | 470 | 50 | 66% |
