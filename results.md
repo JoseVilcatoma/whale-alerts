@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 06:42:10 (hora de Perú)
+Actualizado: 2026-08-03 06:49:05 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | ninasuskevic | 10 | 5 | 5 | 67% |
-| RN1 | 1128 | 583 | 92 | 66% |
+| RN1 | 1128 | 583 | 93 | 66% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | GoalLineGhost | 185 | 100 | 0 | 65% |

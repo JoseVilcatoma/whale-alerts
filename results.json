@@ -130762,5 +130762,17 @@
     "usd": 1917.9994999999997,
     "odds_at_bet": 85,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785757661,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-mzp-js1-2026-08-03",
+    "title": "Counter-Strike: Metizport vs Johnny Speeds (BO3) - Stake Pulse Beat I Group D",
+    "outcome": "Metizport",
+    "side": "BUY",
+    "usd": 2082.7404,
+    "odds_at_bet": 78,
+    "status": "pending"
   }
 ]
