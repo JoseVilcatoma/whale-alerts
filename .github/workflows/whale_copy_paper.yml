@@ -1,0 +1,36 @@
+name: whale-copy-paper
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # arranca un ciclo nuevo cada 6h, por si el anterior se corta
+  workflow_dispatch: {}      # para poder arrancarlo manualmente desde la pestaña Actions
+
+permissions:
+  contents: write   # necesario para que el bot pueda hacer commit de los resultados
+
+concurrency:
+  group: whale-copy-paper
+  cancel-in-progress: false  # si ya hay uno corriendo, no lo mata — espera a que termine
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355   # un poco menos que MAX_RUNTIME_SECONDS del script
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Correr el bot de paper trading
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          INITIAL_BANKROLL: "1000"
+        run: python whale_copy_paper.py
