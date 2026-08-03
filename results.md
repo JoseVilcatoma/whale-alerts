@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 07:16:11 (hora de Perú)
+Actualizado: 2026-08-03 07:19:06 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -64,7 +64,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | PleaseWinPlease | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
 | AnonymousUsername | 32 | 35 | 0 | 48% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 53 | 58 | 39 | 48% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 53 | 58 | 42 | 48% |
 | sbsigner | 38 | 44 | 0 | 46% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 17 | 21 | 14 | 45% |
