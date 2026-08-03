@@ -126514,5 +126514,101 @@
     "usd": 4629.3274,
     "odds_at_bet": 53,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785716428,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-lad-2026-08-02-total-13pt5",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers: O/U 13.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 3399.66,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785716428,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bos-lad-2026-08-02-total-13pt5",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers: O/U 13.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 3266.34,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785716434,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "val-g21-sen-2026-08-02",
+    "title": "Valorant: G2 Esports vs Sentinels (BO3) - VCT Americas Stage 2 Group Omega",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "usd": 1180.0,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785716501,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bos-lad-2026-08-02-total-14pt5",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers: O/U 14.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1152.564,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785716504,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-lad-2026-08-02-spread-away-1pt5",
+    "title": "Spread: Boston Red Sox (-1.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 2433.8153,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785716504,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "val-g21-sen-2026-08-02",
+    "title": "Valorant: G2 Esports vs Sentinels (BO3) - VCT Americas Stage 2 Group Omega",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "usd": 2339.923,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785716593,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-bos-lad-2026-08-02-spread-away-2pt5",
+    "title": "Spread: Boston Red Sox (-2.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 1261.89,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785716619,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-tor-gsv-2026-08-02-total-164pt5",
+    "title": "Toronto Tempo vs. Golden State Valkyries: O/U 164.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1446.9984,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
