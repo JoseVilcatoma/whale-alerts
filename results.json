@@ -128374,5 +128374,17 @@
     "usd": 1106.347,
     "odds_at_bet": 86,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785745629,
+    "username": "Melody626",
+    "wallet": "0xecaa8806a9a05049d7d5260a33dc924220e377a9",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 3300.0,
+    "odds_at_bet": 33,
+    "status": "pending"
   }
 ]
