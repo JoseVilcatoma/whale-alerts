@@ -128698,5 +128698,17 @@
     "usd": 10944.378999999999,
     "odds_at_bet": 73,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785747687,
+    "username": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+    "wallet": "0x7986576408b65a9805ac85553be33ad0b044baa5",
+    "slug": "lol-gen-hle1-2026-08-03",
+    "title": "LoL: Gen.G vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 4652.5779999999995,
+    "odds_at_bet": 92,
+    "status": "pending"
   }
 ]
