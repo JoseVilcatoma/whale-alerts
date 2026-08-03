@@ -131806,5 +131806,17 @@
     "usd": 1547.0282,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785761373,
+    "username": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+    "wallet": "0x7986576408b65a9805ac85553be33ad0b044baa5",
+    "slug": "lol-ns-t1-2026-08-03",
+    "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 64935.0,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
