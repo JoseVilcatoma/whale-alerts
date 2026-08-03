@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 06:57:29 (hora de Perú)
+Actualizado: 2026-08-03 07:00:19 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -12,7 +12,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fazewinline | 9 | 0 | 5 | 100% |
 | Pwaddler | 5 | 0 | 0 | ⚠️ 100% (muestra chica: 5) |
 | THEdirkdiggler | 3 | 0 | 1 | ⚠️ 100% (muestra chica: 3) |
-| matenghehe | 28 | 0 | 19 | 100% |
+| matenghehe | 28 | 0 | 20 | 100% |
 | LeatherPants | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | patient12 | 14 | 0 | 10 | 100% |
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Bigggggggg | 3 | 1 | 34 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Spicer | 29 | 10 | 0 | 74% |
-| fRibrenlc | 16 | 6 | 12 | 73% |
+| fRibrenlc | 16 | 6 | 13 | 73% |
 | Fallout3 | 16 | 6 | 0 | 73% |
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
 | lllllllIlll | 7 | 3 | 5 | 70% |
@@ -64,14 +64,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | PleaseWinPlease | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
 | AnonymousUsername | 32 | 35 | 0 | 48% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 53 | 58 | 34 | 48% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 53 | 58 | 37 | 48% |
 | sbsigner | 38 | 44 | 0 | 46% |
 | Eztennis | 28 | 33 | 0 | 46% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 17 | 21 | 13 | 45% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 17 | 21 | 14 | 45% |
 | jtwyslljy | 8 | 10 | 5 | 44% |
 | pleaseplease123 | 43 | 62 | 1 | 41% |
 | PASSTHEMONEY | 43 | 61 | 3 | 41% |
-| esportGG | 52 | 76 | 25 | 41% |
+| esportGG | 52 | 76 | 26 | 41% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
@@ -97,7 +97,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BrightStars | 0 | 0 | 2 | — |
 | MeiGuNiuBi | 0 | 0 | 7 | — |
 | RLXDJ19701601 | 0 | 0 | 2 | — |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 0 | 0 | 14 | — |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 0 | 0 | 17 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 14 | — |
 | 0x0x23kjookhaiuohduoayh8c9 | 0 | 0 | 1 | — |
 | TAIWANNUMBERONE | 0 | 0 | 1 | — |
