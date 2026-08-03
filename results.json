@@ -127570,5 +127570,17 @@
     "usd": 1218.9578000000001,
     "odds_at_bet": 34,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785737684,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "mlb-wsh-phi-2026-08-03",
+    "title": "Washington Nationals vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 1311.109998,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
