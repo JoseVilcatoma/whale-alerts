@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 05:55:08 (hora de Perú)
+Actualizado: 2026-08-03 05:57:42 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -35,18 +35,18 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
 | lllllllIlll | 7 | 3 | 5 | 70% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 396 | 188 | 43 | 68% |
-| VeryLucky888 | 94 | 45 | 39 | 68% |
+| VeryLucky888 | 94 | 45 | 40 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | ninasuskevic | 10 | 5 | 5 | 67% |
-| RN1 | 1128 | 583 | 90 | 66% |
+| RN1 | 1128 | 583 | 92 | 66% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | GoalLineGhost | 185 | 100 | 0 | 65% |
 | BirdMan. | 41 | 24 | 0 | 63% |
 | UpTheBlues | 63 | 39 | 27 | 62% |
 | flatbarrel | 8 | 5 | 2 | 62% |
-| ferrariChampions2026 | 1854 | 1197 | 70 | 61% |
+| ferrariChampions2026 | 1854 | 1197 | 71 | 61% |
 | StasPanda | 13 | 9 | 11 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 108 | 78 | 35 | 58% |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | HomeRunHazard | 273 | 202 | 18 | 57% |
 | us391 | 24 | 18 | 0 | 57% |
 | 1winstreak1 | 50 | 39 | 0 | 56% |
-| meoooow | 17 | 15 | 0 | 53% |
+| meoooow | 17 | 15 | 1 | 53% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 4 | 52% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 34 | 32 | 14 | 52% |
 | wr0ngw4yb3tt0r | 144 | 144 | 0 | 50% |
@@ -64,14 +64,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | PleaseWinPlease | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
 | AnonymousUsername | 32 | 35 | 0 | 48% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 53 | 58 | 23 | 48% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 53 | 58 | 24 | 48% |
 | sbsigner | 38 | 44 | 0 | 46% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 17 | 21 | 11 | 45% |
 | jtwyslljy | 8 | 10 | 5 | 44% |
 | pleaseplease123 | 43 | 62 | 0 | 41% |
 | PASSTHEMONEY | 43 | 61 | 3 | 41% |
-| esportGG | 52 | 76 | 21 | 41% |
+| esportGG | 52 | 76 | 22 | 41% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |

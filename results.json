@@ -130042,5 +130042,89 @@
     "usd": 20272.86684,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785754516,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-micic-podrez-2026-08-03",
+    "title": "Warsaw: Elena Micic vs Veronika Podrez",
+    "outcome": "Veronika Podrez",
+    "side": "BUY",
+    "usd": 11401.919999000002,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785754516,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-micic-podrez-2026-08-03",
+    "title": "Warsaw: Elena Micic vs Veronika Podrez",
+    "outcome": "Elena Micic",
+    "side": "BUY",
+    "usd": 3114.8820000000005,
+    "odds_at_bet": 27,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785754516,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-micic-podrez-2026-08-03",
+    "title": "Warsaw: Elena Micic vs Veronika Podrez",
+    "outcome": "Veronika Podrez",
+    "side": "BUY",
+    "usd": 2256.7706,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785754605,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-og-gl-2026-08-03",
+    "title": "Dota 2: OG vs GamerLegion (BO3) - 1win Essence Playoffs",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "usd": 9999.999999,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785754605,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "dota2-og-gl-2026-08-03",
+    "title": "Dota 2: OG vs GamerLegion (BO3) - 1win Essence Playoffs",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 1022.816666,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785754605,
+    "username": "meoooow",
+    "wallet": "0xd202bf6d89dc6bab1b9f00ead175f75466348973",
+    "slug": "dota2-og-gl-2026-08-03",
+    "title": "Dota 2: OG vs GamerLegion (BO3) - 1win Essence Playoffs",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 5800.889999999999,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785754642,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "dota2-xtreme-tr7-2026-08-03-game2",
+    "title": "Dota 2: Xtreme Gaming vs Team Resilience - Game 2 Winner",
+    "outcome": "Team Resilience",
+    "side": "BUY",
+    "usd": 3597.259739999999,
+    "odds_at_bet": 23,
+    "status": "pending"
   }
 ]
