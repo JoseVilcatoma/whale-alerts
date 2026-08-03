@@ -129274,5 +129274,53 @@
     "usd": 2225.806451,
     "odds_at_bet": 69,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785751989,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-bro1-foxy-2026-08-03-game2",
+    "title": "LoL: HANJIN BRION Challengers vs BNK FearX Youth - Game 2 Winner",
+    "outcome": "HANJIN BRION Challengers",
+    "side": "SELL",
+    "usd": 17981.960039999998,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785752007,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "dota2-xtreme-tr7-2026-08-03-game1",
+    "title": "Dota 2: Xtreme Gaming vs Team Resilience - Game 1 Winner",
+    "outcome": "Xtreme Gaming",
+    "side": "BUY",
+    "usd": 2225.806451,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785752035,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-arc4-btf-2026-08-03",
+    "title": "Counter-Strike: ARCRED vs Butterfly (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "Butterfly",
+    "side": "BUY",
+    "usd": 1510.2985999999999,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785752110,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-lgd-1win-2026-08-03-game2",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1999.9999990000001,
+    "odds_at_bet": 62,
+    "status": "pending"
   }
 ]
