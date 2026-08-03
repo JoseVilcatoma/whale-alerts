@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 05:17:54 (hora de Perú)
+Actualizado: 2026-08-03 05:22:39 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -12,7 +12,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fazewinline | 9 | 0 | 5 | 100% |
 | Pwaddler | 5 | 0 | 0 | ⚠️ 100% (muestra chica: 5) |
 | THEdirkdiggler | 3 | 0 | 1 | ⚠️ 100% (muestra chica: 3) |
-| matenghehe | 28 | 0 | 10 | 100% |
+| matenghehe | 28 | 0 | 11 | 100% |
 | LeatherPants | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | patient12 | 14 | 0 | 10 | 100% |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BirdMan. | 41 | 24 | 0 | 63% |
 | UpTheBlues | 63 | 39 | 27 | 62% |
 | flatbarrel | 8 | 5 | 2 | 62% |
-| ferrariChampions2026 | 1854 | 1197 | 55 | 61% |
+| ferrariChampions2026 | 1854 | 1197 | 56 | 61% |
 | StasPanda | 13 | 9 | 11 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 108 | 78 | 27 | 58% |
