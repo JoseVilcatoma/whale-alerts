@@ -130546,5 +130546,77 @@
     "usd": 5548.0865,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785756459,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-ns-t1-2026-08-03-game2",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 2 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 14387.235800000002,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785756462,
+    "username": "meoooow",
+    "wallet": "0xd202bf6d89dc6bab1b9f00ead175f75466348973",
+    "slug": "dota2-og-gl-2026-08-03-game1",
+    "title": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 2728.0152000000003,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785756463,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-ns-t1-2026-08-03-game2",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 2472.579,
+    "odds_at_bet": 27,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785756463,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-ns-t1-2026-08-03-game2",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 2 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 6612.1356,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785756471,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-ns-t1-2026-08-03",
+    "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 4232.0928,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785756484,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-ns-t1-2026-08-03-game2",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 2 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 1548.932,
+    "odds_at_bet": 70,
+    "status": "pending"
   }
 ]
