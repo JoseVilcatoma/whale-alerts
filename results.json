@@ -130522,5 +130522,29 @@
     "usd": 3927.7713999999996,
     "odds_at_bet": 49,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785756180,
+    "username": "meoooow",
+    "wallet": "0xd202bf6d89dc6bab1b9f00ead175f75466348973",
+    "slug": "dota2-og-gl-2026-08-03",
+    "title": "Dota 2: OG vs GamerLegion (BO3) - 1win Essence Playoffs",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 2912.1299999999997,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785756246,
+    "username": "meoooow",
+    "wallet": "0xd202bf6d89dc6bab1b9f00ead175f75466348973",
+    "slug": "dota2-og-gl-2026-08-03-game1",
+    "title": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 5548.0865,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]
