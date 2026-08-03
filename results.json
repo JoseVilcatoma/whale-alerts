@@ -130126,5 +130126,77 @@
     "usd": 3597.259739999999,
     "odds_at_bet": 23,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785754668,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-ns-t1-2026-08-03-game1",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 1 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 12231.818181,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785754668,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-ns-t1-2026-08-03-game1",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 3449.9999989999997,
+    "odds_at_bet": 22,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785754670,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-ns-t1-2026-08-03-game1",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 1 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 6323.3274,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785754671,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-ns-t1-2026-08-03-game1",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 1785.2626,
+    "odds_at_bet": 22,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785754734,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-arc4-btf-2026-08-03",
+    "title": "Counter-Strike: ARCRED vs Butterfly (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "Butterfly",
+    "side": "BUY",
+    "usd": 2058.9894,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785754780,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-micic-podrez-2026-08-03",
+    "title": "Warsaw: Elena Micic vs Veronika Podrez",
+    "outcome": "Veronika Podrez",
+    "side": "BUY",
+    "usd": 1087.84,
+    "odds_at_bet": 80,
+    "status": "pending"
   }
 ]
