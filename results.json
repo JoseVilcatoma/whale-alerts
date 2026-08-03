@@ -128386,5 +128386,77 @@
     "usd": 3300.0,
     "odds_at_bet": 33,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785745677,
+    "username": "patient12",
+    "wallet": "0xe291a588ece487f3323736c55c6144f6a99e748e",
+    "slug": "lol-gen-hle1-2026-08-03-game1",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 1760.0,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785745695,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-gen-hle1-2026-08-03-game1",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 3811.158,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785745695,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-glyph-playti-2026-08-03",
+    "title": "Dota 2: GLYPH vs PlayTime (BO3) - Games of the Future Playoffs",
+    "outcome": "PlayTime",
+    "side": "BUY",
+    "usd": 1999.9999990000001,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785745711,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-gen-hle1-2026-08-03-game1",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 1240.47,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785745732,
+    "username": "patient12",
+    "wallet": "0xe291a588ece487f3323736c55c6144f6a99e748e",
+    "slug": "lol-gen-hle1-2026-08-03-game1",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 2753.7874,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785745741,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-falei-radwans-2026-08-03",
+    "title": "Warsaw: Aliona Falei vs Urszula Radwanska",
+    "outcome": "Aliona Falei",
+    "side": "BUY",
+    "usd": 1930.1907,
+    "odds_at_bet": 87,
+    "status": "pending"
   }
 ]
