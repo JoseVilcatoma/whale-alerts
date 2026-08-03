@@ -488,8 +488,8 @@
     "whale_pct": 26854.642,
     "paper_stake_usd": 268546.42,
     "odds_at_bet": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 36619.97,
     "overlaps_with": []
   },
   {
@@ -505,8 +505,8 @@
     "whale_pct": 26685.191,
     "paper_stake_usd": 266851.91,
     "odds_at_bet": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 32981.7,
     "overlaps_with": []
   },
   {
@@ -522,8 +522,8 @@
     "whale_pct": 101.884,
     "paper_stake_usd": 1018.84,
     "odds_at_bet": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 125.92,
     "overlaps_with": []
   },
   {
@@ -539,8 +539,8 @@
     "whale_pct": 309.945,
     "paper_stake_usd": 3099.45,
     "odds_at_bet": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 383.08,
     "overlaps_with": []
   },
   {
@@ -556,8 +556,8 @@
     "whale_pct": 148.087,
     "paper_stake_usd": 1480.87,
     "odds_at_bet": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 183.03,
     "overlaps_with": []
   },
   {
@@ -573,8 +573,8 @@
     "whale_pct": 148.087,
     "paper_stake_usd": 1480.87,
     "odds_at_bet": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 183.03,
     "overlaps_with": []
   },
   {
@@ -590,8 +590,8 @@
     "whale_pct": 37060.621,
     "paper_stake_usd": 370606.21,
     "odds_at_bet": 91,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 36653.36,
     "overlaps_with": []
   },
   {
@@ -607,8 +607,8 @@
     "whale_pct": 515.72,
     "paper_stake_usd": 5157.2,
     "odds_at_bet": 92,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 448.45,
     "overlaps_with": []
   },
   {
@@ -624,8 +624,8 @@
     "whale_pct": 12629.83,
     "paper_stake_usd": 126298.3,
     "odds_at_bet": 96,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5262.43,
     "overlaps_with": []
   },
   {
@@ -641,8 +641,8 @@
     "whale_pct": 148.073,
     "paper_stake_usd": 1480.73,
     "odds_at_bet": 96,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 61.7,
     "overlaps_with": []
   },
   {
@@ -658,8 +658,8 @@
     "whale_pct": 11519.92,
     "paper_stake_usd": 115199.2,
     "odds_at_bet": 97,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3562.86,
     "overlaps_with": []
   },
   {
@@ -675,8 +675,8 @@
     "whale_pct": 112.01,
     "paper_stake_usd": 1120.1,
     "odds_at_bet": 97,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 34.64,
     "overlaps_with": []
   },
   {
@@ -2193,7 +2193,7 @@
     "whale_pct": 99.872,
     "paper_stake_usd": 998.72,
     "odds_at_bet": 100,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": []
   },
@@ -4267,8 +4267,8 @@
     "whale_pct": 0.105,
     "paper_stake_usd": 1.05,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.05,
     "overlaps_with": []
   },
   {
@@ -4284,8 +4284,8 @@
     "whale_pct": 0.102,
     "paper_stake_usd": 1.02,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.2,
     "overlaps_with": []
   },
   {
@@ -4496,8 +4496,8 @@
     "whale_pct": 0.167,
     "paper_stake_usd": 1.67,
     "odds_at_bet": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.56,
     "overlaps_with": []
   },
   {
@@ -4513,8 +4513,8 @@
     "whale_pct": 21.177,
     "paper_stake_usd": 211.77,
     "odds_at_bet": 98,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.32,
     "overlaps_with": [
       "Corlys"
     ]
@@ -4532,8 +4532,8 @@
     "whale_pct": 0.216,
     "paper_stake_usd": 2.16,
     "odds_at_bet": 1,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.16,
     "overlaps_with": [
       "Corlys"
     ]
@@ -4551,8 +4551,8 @@
     "whale_pct": 0.168,
     "paper_stake_usd": 1.68,
     "odds_at_bet": 1,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.68,
     "overlaps_with": [
       "Corlys"
     ]
@@ -4570,8 +4570,8 @@
     "whale_pct": 7.269,
     "paper_stake_usd": 72.69,
     "odds_at_bet": 98,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.48,
     "overlaps_with": [
       "Corlys"
     ]
@@ -4589,8 +4589,8 @@
     "whale_pct": 16.422,
     "paper_stake_usd": 164.22,
     "odds_at_bet": 98,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.35,
     "overlaps_with": [
       "Corlys"
     ]
@@ -7903,5 +7903,450 @@
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786240,
+    "timestamp_added": 1785786240.8195481,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-re-lgd-2026-08-03-game2",
+    "title": "Dota 2: Rune Eaters vs LGD Gaming - Game 2 Winner",
+    "outcome": "Rune Eaters",
+    "side": "BUY",
+    "whale_usd": 1129.0567999999996,
+    "whale_pct": 5.128,
+    "paper_stake_usd": 6025.89,
+    "odds_at_bet": 20,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786242,
+    "timestamp_added": 1785786243.326988,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-re-lgd-2026-08-03-game2",
+    "title": "Dota 2: Rune Eaters vs LGD Gaming - Game 2 Winner",
+    "outcome": "Rune Eaters",
+    "side": "BUY",
+    "whale_usd": 23.5025,
+    "whale_pct": 0.107,
+    "paper_stake_usd": 125.44,
+    "odds_at_bet": 20,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786245,
+    "timestamp_added": 1785786245.9536362,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-re-lgd-2026-08-03-game2",
+    "title": "Dota 2: Rune Eaters vs LGD Gaming - Game 2 Winner",
+    "outcome": "Rune Eaters",
+    "side": "BUY",
+    "whale_usd": 25.0,
+    "whale_pct": 0.114,
+    "paper_stake_usd": 133.43,
+    "odds_at_bet": 20,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786262,
+    "timestamp_added": 1785786263.4416602,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-tel-aviv-on-august-5-2026-32c",
+    "title": "Will the highest temperature in Tel Aviv be 32\u00b0C on August 5?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 7.133999999999999,
+    "whale_pct": 0.336,
+    "paper_stake_usd": 394.35,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786308,
+    "timestamp_added": 1785786308.6182466,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-singapore-on-august-5-2026-32c",
+    "title": "Will the highest temperature in Singapore be 32\u00b0C on August 5?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 5.8,
+    "whale_pct": 0.273,
+    "paper_stake_usd": 320.62,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786308,
+    "timestamp_added": 1785786309.178036,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-singapore-on-august-5-2026-28c",
+    "title": "Will the highest temperature in Singapore be 28\u00b0C on August 5?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 9.99,
+    "whale_pct": 0.47,
+    "paper_stake_usd": 552.25,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786308,
+    "timestamp_added": 1785786309.7690263,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-singapore-on-august-5-2026-30c",
+    "title": "Will the highest temperature in Singapore be 30\u00b0C on August 5?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 9.9,
+    "whale_pct": 0.466,
+    "paper_stake_usd": 547.27,
+    "odds_at_bet": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786308,
+    "timestamp_added": 1785786310.390651,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-singapore-on-august-5-2026-35c",
+    "title": "Will the highest temperature in Singapore be 35\u00b0C on August 5?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 9.91,
+    "whale_pct": 0.466,
+    "paper_stake_usd": 547.82,
+    "odds_at_bet": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786308,
+    "timestamp_added": 1785786310.96776,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-singapore-on-august-5-2026-29c",
+    "title": "Will the highest temperature in Singapore be 29\u00b0C on August 5?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 9.95,
+    "whale_pct": 0.468,
+    "paper_stake_usd": 550.03,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786308,
+    "timestamp_added": 1785786311.533614,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-singapore-on-august-5-2026-31c",
+    "title": "Will the highest temperature in Singapore be 31\u00b0C on August 5?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 9.3,
+    "whale_pct": 0.438,
+    "paper_stake_usd": 514.1,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786309,
+    "timestamp_added": 1785786312.1121027,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-singapore-on-august-5-2026-36c",
+    "title": "Will the highest temperature in Singapore be 36\u00b0C on August 5?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 9.95,
+    "whale_pct": 0.468,
+    "paper_stake_usd": 550.03,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786309,
+    "timestamp_added": 1785786312.7301803,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-singapore-on-august-5-2026-33c",
+    "title": "Will the highest temperature in Singapore be 33\u00b0C on August 5?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 5.8,
+    "whale_pct": 0.273,
+    "paper_stake_usd": 320.62,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786309,
+    "timestamp_added": 1785786313.331044,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-singapore-on-august-5-2026-37corhigher",
+    "title": "Will the highest temperature in Singapore be 37\u00b0C or higher on August 5?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 9.99,
+    "whale_pct": 0.47,
+    "paper_stake_usd": 552.25,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786309,
+    "timestamp_added": 1785786313.9343896,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-singapore-on-august-5-2026-34c",
+    "title": "Will the highest temperature in Singapore be 34\u00b0C on August 5?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 9.1,
+    "whale_pct": 0.428,
+    "paper_stake_usd": 503.05,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786355,
+    "timestamp_added": 1785786355.864049,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game1",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "side": "SELL",
+    "whale_usd": 18134.45739,
+    "whale_pct": 82.37,
+    "paper_stake_usd": 96790.31,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786357,
+    "timestamp_added": 1785786357.7987487,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 5.4559999999999995,
+    "whale_pct": 0.257,
+    "paper_stake_usd": 301.61,
+    "odds_at_bet": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785786357,
+    "timestamp_added": 1785786358.37591,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 5.489,
+    "whale_pct": 0.258,
+    "paper_stake_usd": 303.43,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785786357,
+    "timestamp_added": 1785786358.9460561,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 4.345000000000001,
+    "whale_pct": 0.204,
+    "paper_stake_usd": 240.19,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785786357,
+    "timestamp_added": 1785786359.505595,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 4.125,
+    "whale_pct": 0.194,
+    "paper_stake_usd": 228.03,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785786357,
+    "timestamp_added": 1785786360.0802205,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 5.279999999999999,
+    "whale_pct": 0.248,
+    "paper_stake_usd": 291.88,
+    "odds_at_bet": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785786357,
+    "timestamp_added": 1785786360.6555302,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 4.51,
+    "whale_pct": 0.212,
+    "paper_stake_usd": 249.31,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785786357,
+    "timestamp_added": 1785786361.215093,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 5.489,
+    "whale_pct": 0.258,
+    "paper_stake_usd": 303.43,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785786358,
+    "timestamp_added": 1785786361.8003128,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 5.489,
+    "whale_pct": 0.258,
+    "paper_stake_usd": 303.43,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785786358,
+    "timestamp_added": 1785786362.3801877,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 3.519,
+    "whale_pct": 0.166,
+    "paper_stake_usd": 194.53,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785786358,
+    "timestamp_added": 1785786362.9585195,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 5.489,
+    "whale_pct": 0.258,
+    "paper_stake_usd": 303.43,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
   }
 ]

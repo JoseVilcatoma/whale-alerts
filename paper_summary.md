@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 11:16:02 (hora de Perú)
+Actualizado: 2026-08-03 14:46:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,000.00
-**Retorno acumulado:** +0.00%
+**Bankroll actual:** $117,506.19
+**Retorno acumulado:** +11650.62%
 **Peor caída desde un máximo (drawdown):** 0.00%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,9 +13,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| -..Derick.rose- | 0 | 0 | 192 | +0.00 USD |
-| gxxyy | 0 | 0 | 13 | +0.00 USD |
-| Corlys | 0 | 0 | 217 | +0.00 USD |
+| gxxyy | 13 | 0 | 4 | +116,500.17 USD |
+| -..Derick.rose- | 3 | 2 | 187 | +5.31 USD |
+| Corlys | 2 | 1 | 235 | +0.71 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 31 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)

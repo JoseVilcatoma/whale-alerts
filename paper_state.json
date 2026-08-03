@@ -1,4 +1,110 @@
 {
-  "bankroll": 1000.0,
-  "history": []
+  "bankroll": 117506.18776171055,
+  "history": [
+    {
+      "timestamp": 1785786237.2628417,
+      "bankroll": 37619.97,
+      "event": "won: gxxyy \u2014 Dota 2: Vici Gaming vs Yakult Brothers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785786237.3630712,
+      "bankroll": 70601.66,
+      "event": "won: gxxyy \u2014 Dota 2: Vici Gaming vs Yakult Brothers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785786237.4632702,
+      "bankroll": 70727.59,
+      "event": "won: gxxyy \u2014 Dota 2: Vici Gaming vs Yakult Brothers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785786237.5634916,
+      "bankroll": 71110.67,
+      "event": "won: gxxyy \u2014 Dota 2: Vici Gaming vs Yakult Brothers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785786237.6638088,
+      "bankroll": 71293.69,
+      "event": "won: gxxyy \u2014 Dota 2: Vici Gaming vs Yakult Brothers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785786237.764029,
+      "bankroll": 71476.72,
+      "event": "won: gxxyy \u2014 Dota 2: Vici Gaming vs Yakult Brothers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785786237.8642266,
+      "bankroll": 108130.08,
+      "event": "won: gxxyy \u2014 Dota 2: Vici Gaming vs Yakult Brothers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785786237.9643817,
+      "bankroll": 108578.54,
+      "event": "won: gxxyy \u2014 Dota 2: Vici Gaming vs Yakult Brothers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785786238.064681,
+      "bankroll": 113840.97,
+      "event": "won: gxxyy \u2014 Dota 2: Vici Gaming vs Yakult Brothers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785786238.1650152,
+      "bankroll": 113902.66,
+      "event": "won: gxxyy \u2014 Dota 2: Vici Gaming vs Yakult Brothers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785786238.265397,
+      "bankroll": 117465.52,
+      "event": "won: gxxyy \u2014 Dota 2: Vici Gaming vs Yakult Brothers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785786238.365584,
+      "bankroll": 117500.17,
+      "event": "won: gxxyy \u2014 Dota 2: Vici Gaming vs Yakult Brothers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785786253.768707,
+      "bankroll": 117500.17,
+      "event": "won: gxxyy \u2014 Dota 2: Vici Gaming vs Yakult Brothers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785786289.231377,
+      "bankroll": 117499.12,
+      "event": "lost: Corlys \u2014 Will Elon Musk post 40-64 tweets from August 1 to August 3, 2026?"
+    },
+    {
+      "timestamp": 1785786289.712351,
+      "bankroll": 117500.31,
+      "event": "won: Corlys \u2014 Will Elon Musk post <40 tweets from August 1 to August 3, 2026?"
+    },
+    {
+      "timestamp": 1785786293.365317,
+      "bankroll": 117500.87,
+      "event": "won: Corlys \u2014 Will Elon Musk post <40 tweets from August 1 to August 3, 2026?"
+    },
+    {
+      "timestamp": 1785786293.4655273,
+      "bankroll": 117505.19,
+      "event": "won: -..Derick.rose- \u2014 Will Elon Musk post <40 tweets from August 1 to August 3, 2026?"
+    },
+    {
+      "timestamp": 1785786293.5657296,
+      "bankroll": 117503.03,
+      "event": "lost: -..Derick.rose- \u2014 Will Elon Musk post 40-64 tweets from August 1 to August 3, 2026?"
+    },
+    {
+      "timestamp": 1785786293.6659534,
+      "bankroll": 117501.35,
+      "event": "lost: -..Derick.rose- \u2014 Will Elon Musk post 40-64 tweets from August 1 to August 3, 2026?"
+    },
+    {
+      "timestamp": 1785786293.7661164,
+      "bankroll": 117502.84,
+      "event": "won: -..Derick.rose- \u2014 Will Elon Musk post <40 tweets from August 1 to August 3, 2026?"
+    },
+    {
+      "timestamp": 1785786293.8663101,
+      "bankroll": 117506.19,
+      "event": "won: -..Derick.rose- \u2014 Will Elon Musk post <40 tweets from August 1 to August 3, 2026?"
+    }
+  ]
 }
