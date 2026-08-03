@@ -278,6 +278,17 @@ def build_summary_md():
     else:
         lines.append("_Todavía no hubo coincidencias._")
 
+    lines += ["", "## Últimas 30 apuestas de papel (detalle)", "",
+               "| Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |",
+               "|---|---|---|---|---|---|---|"]
+    for tr in sorted(trades, key=lambda t: t["timestamp_added"], reverse=True)[:30]:
+        estado = {"pending": "⏳ pendiente", "won": "✅ ganada", "lost": "❌ perdida"}.get(tr["status"], tr["status"])
+        resultado = f"{tr['profit_usd']:+,.2f}" if tr["status"] != "pending" else "—"
+        lines.append(
+            f"| {tr['username']} | {tr['title'][:40]} | {tr['outcome']} ({tr['side']}) | "
+            f"{tr['odds_at_bet']}% | {tr['paper_stake_usd']:,.2f} | {estado} | {resultado} |"
+        )
+
     SUMMARY_FILE.write_text("\n".join(lines) + "\n")
 
 
@@ -327,6 +338,8 @@ def log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, 
     aviso = f"🧪 PAPER — {username} apostó {whale_pct:.2f}% de su portafolio\n"
     aviso += f"Réplica simulada: ${paper_stake:,.2f}\n"
     aviso += f"Mercado: {trade.get('title','')}\n"
+    aviso += f"Apuesta a: {trade.get('outcome','')} ({trade.get('side','')})\n"
+    aviso += f"Precio al momento de apostar: {odds}%\n"
     if recortado:
         aviso += "⚠️ Recortado: no había suficiente bankroll disponible para replicar el % completo\n"
     if same_day_others:
@@ -338,10 +351,18 @@ def resolve_pending_trades():
     global trades_dirty, bankroll
     with lock:
         pending = [tr for tr in trades if tr["status"] == "pending"]
+    if pending:
+        print(f"[resolver] revisando {len(pending)} posiciones pendientes...")
     for tr in pending:
         market = get_market(tr["slug"])
         result = market_result(market, tr["outcome"])
         if result not in ("won", "lost"):
+            if market is None:
+                print(f"  ⚠ {tr['slug']}: no se pudo consultar el mercado (posible error de red o slug incorrecto)")
+            elif not market.get("closed"):
+                print(f"  … {tr['slug']}: todavía abierto/sin resolver en Polymarket")
+            else:
+                print(f"  ⚠ {tr['slug']}: cerrado pero no pude determinar won/lost para el outcome '{tr['outcome']}' — revisar formato de outcomes/outcomePrices")
             time.sleep(0.1)
             continue
         stake = tr["paper_stake_usd"]
