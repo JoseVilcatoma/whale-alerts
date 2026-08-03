@@ -14248,5 +14248,774 @@
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": []
+  },
+  {
+    "timestamp": 1785789248,
+    "timestamp_added": 1785789249.1869984,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 14.1525,
+    "whale_pct": 0.27,
+    "paper_stake_usd": 317.85,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789253,
+    "timestamp_added": 1785789253.7749383,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 6.2475000000000005,
+    "whale_pct": 0.119,
+    "paper_stake_usd": 140.31,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789253,
+    "timestamp_added": 1785789254.3498197,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 7.5,
+    "whale_pct": 0.143,
+    "paper_stake_usd": 168.44,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789253,
+    "timestamp_added": 1785789254.9094431,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 27.9375,
+    "whale_pct": 0.534,
+    "paper_stake_usd": 627.45,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789256,
+    "timestamp_added": 1785789256.4648356,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 62.370000000000005,
+    "whale_pct": 1.192,
+    "paper_stake_usd": 1400.78,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789257,
+    "timestamp_added": 1785789258.2119608,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 146.6619,
+    "whale_pct": 2.803,
+    "paper_stake_usd": 3293.91,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789265,
+    "timestamp_added": 1785789265.5422,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 1137.6214340000001,
+    "whale_pct": 21.744,
+    "paper_stake_usd": 25550.06,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789268,
+    "timestamp_added": 1785789268.9951031,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 42.234500000000004,
+    "whale_pct": 0.807,
+    "paper_stake_usd": 948.55,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789271,
+    "timestamp_added": 1785789271.8579469,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 147.25480000000002,
+    "whale_pct": 2.815,
+    "paper_stake_usd": 3307.22,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789274,
+    "timestamp_added": 1785789274.442213,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 204.9525,
+    "whale_pct": 3.917,
+    "paper_stake_usd": 4603.07,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789285,
+    "timestamp_added": 1785789285.5419893,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 922.6257,
+    "whale_pct": 17.634,
+    "paper_stake_usd": 20721.43,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789291,
+    "timestamp_added": 1785789291.5010273,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-munich-on-august-4-2026-35c",
+    "title": "Will the highest temperature in Munich be 35\u00b0C on August 4?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 4.25,
+    "whale_pct": 0.18,
+    "paper_stake_usd": 211.07,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785789291,
+    "timestamp_added": 1785789292.476116,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 201.687,
+    "whale_pct": 1.781,
+    "paper_stake_usd": 2092.87,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789291,
+    "timestamp_added": 1785789293.0648336,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-munich-on-august-4-2026-33c",
+    "title": "Will the highest temperature in Munich be 33\u00b0C on August 4?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 4.995,
+    "whale_pct": 0.211,
+    "paper_stake_usd": 248.07,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785789291,
+    "timestamp_added": 1785789293.640868,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-munich-on-august-4-2026-34c",
+    "title": "Will the highest temperature in Munich be 34\u00b0C on August 4?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 4.95,
+    "whale_pct": 0.209,
+    "paper_stake_usd": 245.84,
+    "odds_at_bet": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785789291,
+    "timestamp_added": 1785789294.2202506,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-munich-on-august-4-2026-39c",
+    "title": "Will the highest temperature in Munich be 39\u00b0C on August 4?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 4.995,
+    "whale_pct": 0.211,
+    "paper_stake_usd": 248.07,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785789291,
+    "timestamp_added": 1785789294.7763195,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 75.2317,
+    "whale_pct": 0.664,
+    "paper_stake_usd": 780.66,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789291,
+    "timestamp_added": 1785789295.351483,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 11.850000000000001,
+    "whale_pct": 0.105,
+    "paper_stake_usd": 122.97,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789291,
+    "timestamp_added": 1785789295.9230628,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-munich-on-august-4-2026-37c",
+    "title": "Will the highest temperature in Munich be 37\u00b0C on August 4?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 3.3000000000000003,
+    "whale_pct": 0.139,
+    "paper_stake_usd": 163.89,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785789291,
+    "timestamp_added": 1785789296.4892104,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-munich-on-august-4-2026-38c",
+    "title": "Will the highest temperature in Munich be 38\u00b0C on August 4?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 4.835,
+    "whale_pct": 0.204,
+    "paper_stake_usd": 240.13,
+    "odds_at_bet": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785789292,
+    "timestamp_added": 1785789297.0637817,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-munich-on-august-4-2026-36c",
+    "title": "Will the highest temperature in Munich be 36\u00b0C on August 4?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 2.5,
+    "whale_pct": 0.106,
+    "paper_stake_usd": 124.16,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785789293,
+    "timestamp_added": 1785789297.6417835,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 211.72,
+    "whale_pct": 1.87,
+    "paper_stake_usd": 2196.98,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789293,
+    "timestamp_added": 1785789298.247182,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 461.134285,
+    "whale_pct": 4.072,
+    "paper_stake_usd": 4785.1,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789294,
+    "timestamp_added": 1785789298.8272374,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 52.800000000000004,
+    "whale_pct": 0.466,
+    "paper_stake_usd": 547.9,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789295,
+    "timestamp_added": 1785789299.402833,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 11.4,
+    "whale_pct": 0.101,
+    "paper_stake_usd": 118.3,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789296,
+    "timestamp_added": 1785789300.261227,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 49.04,
+    "whale_pct": 0.433,
+    "paper_stake_usd": 508.88,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789296,
+    "timestamp_added": 1785789300.8342288,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 40.400000000000006,
+    "whale_pct": 0.357,
+    "paper_stake_usd": 419.22,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789302,
+    "timestamp_added": 1785789303.531983,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 80.0,
+    "whale_pct": 0.706,
+    "paper_stake_usd": 830.14,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789307,
+    "timestamp_added": 1785789307.783805,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 73.08,
+    "whale_pct": 0.645,
+    "paper_stake_usd": 758.34,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789315,
+    "timestamp_added": 1785789315.9774802,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 76.18400000000001,
+    "whale_pct": 0.673,
+    "paper_stake_usd": 790.55,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789322,
+    "timestamp_added": 1785789323.1398091,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 100.0,
+    "whale_pct": 0.883,
+    "paper_stake_usd": 1037.68,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789325,
+    "timestamp_added": 1785789325.7765336,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 1078.584,
+    "whale_pct": 9.525,
+    "paper_stake_usd": 11192.25,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789325,
+    "timestamp_added": 1785789326.3602533,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 22.312,
+    "whale_pct": 0.197,
+    "paper_stake_usd": 231.53,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789329,
+    "timestamp_added": 1785789330.30796,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 613.9643,
+    "whale_pct": 5.422,
+    "paper_stake_usd": 6370.99,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789329,
+    "timestamp_added": 1785789330.8783975,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "elon-musk-of-tweets-july-28-august-4-240-259",
+    "title": "Will Elon Musk post 240-259 tweets from July 28 to August 4, 2026?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 20.1,
+    "whale_pct": 0.85,
+    "paper_stake_usd": 998.25,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785789330,
+    "timestamp_added": 1785789331.454838,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "elon-musk-of-tweets-july-28-august-4-260-279",
+    "title": "Will Elon Musk post 260-279 tweets from July 28 to August 4, 2026?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 28.709999999999997,
+    "whale_pct": 1.213,
+    "paper_stake_usd": 1425.86,
+    "odds_at_bet": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785789330,
+    "timestamp_added": 1785789332.0243294,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "elon-musk-of-tweets-july-28-august-4-280-299",
+    "title": "Will Elon Musk post 280-299 tweets from July 28 to August 4, 2026?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 29.97,
+    "whale_pct": 1.267,
+    "paper_stake_usd": 1488.44,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785789330,
+    "timestamp_added": 1785789332.6244316,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "elon-musk-of-tweets-july-28-august-4-220-239",
+    "title": "Will Elon Musk post 220-239 tweets from July 28 to August 4, 2026?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 12.9,
+    "whale_pct": 0.545,
+    "paper_stake_usd": 640.67,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785789330,
+    "timestamp_added": 1785789333.193813,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "elon-musk-of-tweets-july-28-august-4-200-219",
+    "title": "Will Elon Musk post 200-219 tweets from July 28 to August 4, 2026?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 28.056,
+    "whale_pct": 1.186,
+    "paper_stake_usd": 1393.38,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785789334,
+    "timestamp_added": 1785789334.912249,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 633.5472,
+    "whale_pct": 5.595,
+    "paper_stake_usd": 6574.19,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
+  },
+  {
+    "timestamp": 1785789411,
+    "timestamp_added": 1785789412.1890671,
+    "username": "gxxyy",
+    "wallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+    "slug": "dota2-liquid-vg-2026-08-03-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 493.3344,
+    "whale_pct": 4.357,
+    "paper_stake_usd": 5119.23,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ]
   }
 ]
