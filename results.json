@@ -127450,5 +127450,41 @@
     "usd": 1060.0,
     "odds_at_bet": 53,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785732138,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "wta-udvardy-lys-2026-08-03",
+    "title": "National Bank Open: Panna Udvardy vs Eva Lys",
+    "outcome": "Panna Udvardy",
+    "side": "BUY",
+    "usd": 1050.0,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785732175,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "atp-atmane-draper-2026-08-03",
+    "title": "Canadian Open: Terence Atmane vs Jack Draper",
+    "outcome": "Jack Draper",
+    "side": "SELL",
+    "usd": 1360.0,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785732190,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "atp-fritz-jodar-2026-08-02",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Rafael Jodar",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 1405.5641889999997,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
