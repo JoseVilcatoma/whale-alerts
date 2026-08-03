@@ -131662,5 +131662,41 @@
     "usd": 5483.333199999999,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785761007,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-lad-chc-2026-08-03",
+    "title": "Los Angeles Dodgers vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 3004.499999,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785761023,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-smit-yuan-2026-08-03",
+    "title": "Warsaw: Alana Smith vs Yue Yuan",
+    "outcome": "Yue Yuan",
+    "side": "BUY",
+    "usd": 4278.949997000001,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785761032,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-keyd-chama-2026-08-03",
+    "title": "Counter-Strike: Keyd vs BORRACHEIROS (BO3) - BetBoom Storm Group Stage",
+    "outcome": "Keyd",
+    "side": "BUY",
+    "usd": 1412.475,
+    "odds_at_bet": 75,
+    "status": "pending"
   }
 ]
