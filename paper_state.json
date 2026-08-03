@@ -1,5 +1,5 @@
 {
-  "bankroll": 117506.18776171055,
+  "bankroll": 117506.23692837721,
   "history": [
     {
       "timestamp": 1785786237.2628417,
@@ -105,6 +105,21 @@
       "timestamp": 1785786293.8663101,
       "bankroll": 117506.19,
       "event": "won: -..Derick.rose- \u2014 Will Elon Musk post <40 tweets from August 1 to August 3, 2026?"
+    },
+    {
+      "timestamp": 1785791083.234629,
+      "bankroll": 117504.21,
+      "event": "lost: -..Derick.rose- \u2014 Will FC Universitatea Cluj win on 2026-08-02?"
+    },
+    {
+      "timestamp": 1785791083.4539208,
+      "bankroll": 117505.33,
+      "event": "won: -..Derick.rose- \u2014 Will FC Boto\u015fani win on 2026-08-02?"
+    },
+    {
+      "timestamp": 1785791083.5944571,
+      "bankroll": 117506.24,
+      "event": "won: -..Derick.rose- \u2014 Will FC Universitatea Cluj vs. FC Boto\u015fani end in a draw?"
     }
   ]
 }
