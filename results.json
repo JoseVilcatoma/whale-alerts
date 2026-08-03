@@ -130666,5 +130666,41 @@
     "usd": 3251.419999,
     "odds_at_bet": 51,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785757116,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-micic-podrez-2026-08-03",
+    "title": "Warsaw: Elena Micic vs Veronika Podrez",
+    "outcome": "Veronika Podrez",
+    "side": "BUY",
+    "usd": 1884.3546000000001,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785757132,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-ns-t1-2026-08-03",
+    "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Nongshim Red Force",
+    "side": "SELL",
+    "usd": 3754.2147000000004,
+    "odds_at_bet": 33,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785757134,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-ns-t1-2026-08-03",
+    "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Nongshim Red Force",
+    "side": "SELL",
+    "usd": 1820.4926999999998,
+    "odds_at_bet": 23,
+    "status": "pending"
   }
 ]
