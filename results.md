@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 03:03:45 (hora de Perú)
+Actualizado: 2026-08-03 03:05:52 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -44,11 +44,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | humkyakare | 15 | 8 | 0 | 65% |
 | GoalLineGhost | 185 | 100 | 0 | 65% |
 | BirdMan. | 41 | 24 | 0 | 63% |
-| UpTheBlues | 63 | 38 | 27 | 62% |
+| UpTheBlues | 63 | 38 | 28 | 62% |
 | flatbarrel | 8 | 5 | 2 | 62% |
 | ferrariChampions2026 | 1853 | 1195 | 46 | 61% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 108 | 78 | 21 | 58% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 108 | 78 | 22 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 1 | 57% |
 | HomeRunHazard | 273 | 202 | 17 | 57% |
 | StasPanda | 12 | 9 | 11 | 57% |

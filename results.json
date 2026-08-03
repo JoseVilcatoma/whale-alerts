@@ -128074,5 +128074,29 @@
     "usd": 1840.0,
     "odds_at_bet": 92,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785744238,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-sierra-stephen-2026-08-03",
+    "title": "National Bank Open: Solana Sierra vs Sloane Stephens",
+    "outcome": "Sloane Stephens",
+    "side": "BUY",
+    "usd": 1802.1328,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785744238,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "wta-sierra-stephen-2026-08-03",
+    "title": "National Bank Open: Solana Sierra vs Sloane Stephens",
+    "outcome": "Solana Sierra",
+    "side": "BUY",
+    "usd": 2365.7999999999997,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
