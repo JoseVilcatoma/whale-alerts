@@ -130618,5 +130618,41 @@
     "usd": 1548.932,
     "odds_at_bet": 70,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785756526,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-ns-t1-2026-08-03-game2",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 2 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 2222.22,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785756534,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "wta-pegula-eala-2026-08-02",
+    "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "usd": 7504.352000000001,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785756535,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-arc4-btf-2026-08-03",
+    "title": "Counter-Strike: ARCRED vs Butterfly (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "Butterfly",
+    "side": "BUY",
+    "usd": 2112.3934,
+    "odds_at_bet": 38,
+    "status": "pending"
   }
 ]
