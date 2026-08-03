@@ -127990,5 +127990,29 @@
     "usd": 2077.3286000000003,
     "odds_at_bet": 31,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785743351,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-1win-ruby1-2026-08-03",
+    "title": "Counter-Strike: 1WIN vs ex-RUBY (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "1WIN",
+    "side": "BUY",
+    "usd": 20399.9932,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785743351,
+    "username": "StasPanda",
+    "wallet": "0x7e5e420a5cde8a322f3b5b93a12a164827f47315",
+    "slug": "cs2-1win-ruby1-2026-08-03",
+    "title": "Counter-Strike: 1WIN vs ex-RUBY (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "ex-RUBY",
+    "side": "BUY",
+    "usd": 11435.558400000002,
+    "odds_at_bet": 32,
+    "status": "pending"
   }
 ]

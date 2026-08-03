@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 02:44:54 (hora de Perú)
+Actualizado: 2026-08-03 02:50:06 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fRibrenlc | 16 | 6 | 10 | 73% |
 | Fallout3 | 16 | 6 | 0 | 73% |
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
-| lllllllIlll | 7 | 3 | 2 | 70% |
+| lllllllIlll | 7 | 3 | 3 | 70% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 396 | 188 | 31 | 68% |
 | VeryLucky888 | 94 | 44 | 33 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 108 | 78 | 21 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 1 | 57% |
 | HomeRunHazard | 273 | 202 | 17 | 57% |
-| StasPanda | 12 | 9 | 9 | 57% |
+| StasPanda | 12 | 9 | 10 | 57% |
 | 1winstreak1 | 50 | 39 | 0 | 56% |
 | us391 | 23 | 18 | 1 | 56% |
 | meoooow | 17 | 15 | 0 | 53% |
