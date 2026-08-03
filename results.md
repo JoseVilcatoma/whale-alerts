@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 04:25:08 (hora de Perú)
+Actualizado: 2026-08-03 04:27:32 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -12,7 +12,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fazewinline | 9 | 0 | 5 | 100% |
 | Pwaddler | 5 | 0 | 0 | ⚠️ 100% (muestra chica: 5) |
 | THEdirkdiggler | 3 | 0 | 1 | ⚠️ 100% (muestra chica: 3) |
-| matenghehe | 28 | 0 | 3 | 100% |
+| matenghehe | 28 | 0 | 5 | 100% |
 | LeatherPants | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | patient12 | 14 | 0 | 10 | 100% |
@@ -20,7 +20,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 0 | 100% |
 | paquitomillonario | 16 | 1 | 0 | 94% |
 | texaskid | 16 | 1 | 0 | 94% |
-| cigarettes | 63 | 9 | 1 | 88% |
+| cigarettes | 63 | 9 | 2 | 88% |
 | TopGleaguepick | 14 | 2 | 0 | 88% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | swisstony | 715 | 153 | 66 | 82% |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 108 | 78 | 27 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 1 | 57% |
 | HomeRunHazard | 273 | 202 | 18 | 57% |
-| StasPanda | 12 | 9 | 11 | 57% |
+| StasPanda | 12 | 9 | 12 | 57% |
 | 1winstreak1 | 50 | 39 | 0 | 56% |
 | us391 | 23 | 18 | 1 | 56% |
 | meoooow | 17 | 15 | 0 | 53% |
