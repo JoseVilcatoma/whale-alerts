@@ -130246,5 +130246,65 @@
     "usd": 1999.999999,
     "odds_at_bet": 43,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785754984,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-micic-podrez-2026-08-03",
+    "title": "Warsaw: Elena Micic vs Veronika Podrez",
+    "outcome": "Veronika Podrez",
+    "side": "BUY",
+    "usd": 1798.5671419999999,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755047,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-og-gl-2026-08-03",
+    "title": "Dota 2: OG vs GamerLegion (BO3) - 1win Essence Playoffs",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "usd": 2999.9999989999997,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755061,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-og-gl-2026-08-03",
+    "title": "Dota 2: OG vs GamerLegion (BO3) - 1win Essence Playoffs",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "usd": 2999.9999989999997,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755088,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-ns-t1-2026-08-03-game1",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 1 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 1449.2399810000002,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755133,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-paszun-falkows-2026-08-03",
+    "title": "Warsaw: Amelia Paszun vs Weronika Falkowska",
+    "outcome": "Weronika Falkowska",
+    "side": "BUY",
+    "usd": 1483.958666,
+    "odds_at_bet": 88,
+    "status": "pending"
   }
 ]
