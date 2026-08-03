@@ -127282,5 +127282,53 @@
     "usd": 1341.1999999999998,
     "odds_at_bet": 70,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785717722,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-lad-2026-08-02",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 2869.872,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785717722,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-bos-lad-2026-08-02",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 1350.48,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785717744,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mex-ame-san-2026-08-02-total-3pt5",
+    "title": "CF Am\u00e9rica vs. Club Santos Laguna: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1088.0,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785717744,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mex-ame-san-2026-08-02-total-3pt5",
+    "title": "CF Am\u00e9rica vs. Club Santos Laguna: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1176.0,
+    "odds_at_bet": 84,
+    "status": "pending"
   }
 ]
