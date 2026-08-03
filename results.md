@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 00:29:52 (hora de Perú)
+Actualizado: 2026-08-03 01:11:02 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -91,7 +91,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | balthazar | 0 | 0 | 17 | — |
 | Melody626 | 0 | 0 | 14 | — |
 | unbribeableref | 0 | 0 | 3 | — |
-| denizz | 0 | 0 | 15 | — |
+| denizz | 0 | 0 | 16 | — |
 | ndb1 | 0 | 0 | 2 | — |
 | beachboy4 | 0 | 0 | 9 | — |
 | BrightStars | 0 | 0 | 2 | — |
