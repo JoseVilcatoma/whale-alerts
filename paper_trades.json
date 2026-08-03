@@ -2468,5 +2468,39 @@
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": []
+  },
+  {
+    "timestamp": 1785769386,
+    "timestamp_added": 1785769387.075364,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-amsterdam-on-august-3-2026-31c",
+    "title": "Will the highest temperature in Amsterdam be 31\u00b0C on August 3?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 2.25,
+    "whale_pct": 0.103,
+    "paper_stake_usd": 1.03,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785769465,
+    "timestamp_added": 1785769465.9358034,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-amsterdam-on-august-3-2026-31c",
+    "title": "Will the highest temperature in Amsterdam be 31\u00b0C on August 3?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 7.5105,
+    "whale_pct": 0.343,
+    "paper_stake_usd": 3.43,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
   }
 ]
