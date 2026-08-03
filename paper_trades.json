@@ -6900,5 +6900,56 @@
     "overlaps_with": [
       "-..Derick.rose-"
     ]
+  },
+  {
+    "timestamp": 1785772985,
+    "timestamp_added": 1785772985.503735,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-warsaw-on-august-3-2026-30c",
+    "title": "Will the highest temperature in Warsaw be 30\u00b0C on August 3?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 22.009999999999998,
+    "whale_pct": 1.006,
+    "paper_stake_usd": 10.06,
+    "odds_at_bet": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785772985,
+    "timestamp_added": 1785772985.9466462,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-warsaw-on-august-3-2026-32c",
+    "title": "Will the highest temperature in Warsaw be 32\u00b0C on August 3?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 22.977,
+    "whale_pct": 1.051,
+    "paper_stake_usd": 10.51,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785772986,
+    "timestamp_added": 1785772987.3276513,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-warsaw-on-august-3-2026-31c",
+    "title": "Will the highest temperature in Warsaw be 31\u00b0C on August 3?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 22.977,
+    "whale_pct": 1.051,
+    "paper_stake_usd": 10.51,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
   }
 ]
