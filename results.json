@@ -126250,5 +126250,113 @@
     "usd": 3056.2,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785715625,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-g21-sen-2026-08-02-game1",
+    "title": "Valorant: G2 Esports vs Sentinels - Map 1 Winner",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "usd": 1267.3783999999998,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785715630,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-lad-2026-08-02",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 1748.5714279999997,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785715636,
+    "username": "denizz",
+    "wallet": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
+    "slug": "us-iran-60-day-negotiation-period-extended-20260624044855448",
+    "title": "US-Iran 60 day negotiation period extended?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1238.838,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785715652,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-riv-ros-2026-08-02-riv",
+    "title": "Will CA River Plate win on 2026-08-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1266.129984,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785715668,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-lan-iac-2026-08-02-first-half-total-1pt5",
+    "title": "CA Lan\u00fas vs. Instituto AC C\u00f3rdoba: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 3650.0,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785715672,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "arg-riv-ros-2026-08-02-draw",
+    "title": "Will CA River Plate vs. CA Rosario Central end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1961.0,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785715674,
+    "username": "Flipadelphia",
+    "wallet": "0x448861155279dbf833d041b963e3ac854599e319",
+    "slug": "arg-lan-iac-2026-08-02-total-1pt5",
+    "title": "CA Lan\u00fas vs. Instituto AC C\u00f3rdoba: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1200.0,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785715711,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-g21-sen-2026-08-02-game1",
+    "title": "Valorant: G2 Esports vs Sentinels - Map 1 Winner",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "usd": 1425.6799999999998,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785715711,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-g21-sen-2026-08-02-game1",
+    "title": "Valorant: G2 Esports vs Sentinels - Map 1 Winner",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "usd": 2851.3599999999997,
+    "odds_at_bet": 71,
+    "status": "pending"
   }
 ]

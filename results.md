@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-02 19:06:41 (hora de Perú)
+Actualizado: 2026-08-02 19:10:07 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -22,10 +22,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | patient12 | 14 | 0 | 1 | 100% |
 | Avrtsz | 1 | 0 | 2 | ⚠️ 100% (muestra chica: 1) |
 | paquitomillonario | 12 | 1 | 4 | 92% |
-| cigarettes | 55 | 8 | 8 | 87% |
+| cigarettes | 55 | 8 | 9 | 87% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | fkgggg2mouzfuria | 72 | 15 | 37 | 83% |
-| swisstony | 640 | 139 | 148 | 82% |
+| swisstony | 640 | 139 | 149 | 82% |
 | mooseborzoi | 63 | 19 | 1 | 77% |
 | one8tyfive | 32 | 10 | 17 | 76% |
 | Spicer | 29 | 9 | 1 | 76% |
@@ -38,12 +38,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 15 | 7 | 1 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 147 | 76 | 60 | 66% |
-| RN1 | 956 | 516 | 319 | 65% |
+| RN1 | 956 | 516 | 320 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ToeTickler98 | 9 | 5 | 1 | 64% |
 | UpTheBlues | 59 | 35 | 34 | 63% |
 | lllllllIlll | 5 | 3 | 2 | 62% |
-| ferrariChampions2026 | 1637 | 1050 | 388 | 61% |
+| ferrariChampions2026 | 1637 | 1050 | 392 | 61% |
 | us391 | 20 | 13 | 9 | 61% |
 | VeryLucky888 | 54 | 34 | 73 | 61% |
 | flatbarrel | 6 | 4 | 5 | 60% |
@@ -67,7 +67,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | AnonymousUsername | 18 | 21 | 28 | 46% |
 | pleaseplease123 | 34 | 43 | 28 | 44% |
 | jtwyslljy | 8 | 10 | 3 | 44% |
-| Flipadelphia | 6 | 9 | 11 | 40% |
+| Flipadelphia | 6 | 9 | 12 | 40% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 13 | 20 | 15 | 39% |
 | PASSTHEMONEY | 32 | 53 | 19 | 38% |
 | Talvez10 | 17 | 30 | 0 | 36% |
@@ -87,7 +87,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | balthazar | 0 | 0 | 17 | — |
 | Melody626 | 0 | 0 | 11 | — |
 | unbribeableref | 0 | 0 | 3 | — |
-| denizz | 0 | 0 | 14 | — |
+| denizz | 0 | 0 | 15 | — |
 | ndb1 | 0 | 0 | 1 | — |
 | 111111111115 | 0 | 0 | 42 | — |
 | beachboy4 | 0 | 0 | 9 | — |
