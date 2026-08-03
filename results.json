@@ -130882,5 +130882,65 @@
     "usd": 3010.1713,
     "odds_at_bet": 31,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785758097,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-micic-podrez-2026-08-03",
+    "title": "Warsaw: Elena Micic vs Veronika Podrez",
+    "outcome": "Veronika Podrez",
+    "side": "BUY",
+    "usd": 1884.0,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785758105,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-micic-podrez-2026-08-03",
+    "title": "Warsaw: Elena Micic vs Veronika Podrez",
+    "outcome": "Veronika Podrez",
+    "side": "BUY",
+    "usd": 1592.7597,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785758105,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-micic-podrez-2026-08-03",
+    "title": "Warsaw: Elena Micic vs Veronika Podrez",
+    "outcome": "Veronika Podrez",
+    "side": "BUY",
+    "usd": 1914.1596,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785758135,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-stl-nyy-2026-08-03",
+    "title": "St. Louis Cardinals vs. New York Yankees",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 8635.057200000001,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785758212,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "atp-mejia-landalu-2026-08-02",
+    "title": "National Bank Open: Nicolas Mejia vs Martin Landaluce",
+    "outcome": "Martin Landaluce",
+    "side": "SELL",
+    "usd": 1040.13,
+    "odds_at_bet": 70,
+    "status": "pending"
   }
 ]
