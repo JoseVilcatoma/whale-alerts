@@ -142,5 +142,83 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785794668,
+    "timestamp_added": 1785794668.6146154,
+    "username": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+    "wallet": "0x1b20a00709dfe648afd26b326394b5e031f83ab0",
+    "slug": "mlb-tor-hou-2026-08-03",
+    "title": "Toronto Blue Jays vs. Houston Astros",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "whale_usd": 290.7,
+    "whale_pct": 3.802,
+    "paper_stake_usd": 38.02,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Pwaddler"
+    ],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785794670,
+    "timestamp_added": 1785794670.4387348,
+    "username": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+    "wallet": "0x1b20a00709dfe648afd26b326394b5e031f83ab0",
+    "slug": "mlb-tor-hou-2026-08-03",
+    "title": "Toronto Blue Jays vs. Houston Astros",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "whale_usd": 18.0,
+    "whale_pct": 0.235,
+    "paper_stake_usd": 2.35,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Pwaddler"
+    ],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785794724,
+    "timestamp_added": 1785794724.6933513,
+    "username": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+    "wallet": "0x1b20a00709dfe648afd26b326394b5e031f83ab0",
+    "slug": "mlb-tor-hou-2026-08-03",
+    "title": "Toronto Blue Jays vs. Houston Astros",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "whale_usd": 39.474000000000004,
+    "whale_pct": 0.496,
+    "paper_stake_usd": 4.96,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Pwaddler"
+    ],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785794729,
+    "timestamp_added": 1785794729.8472378,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "mlb-lad-chc-2026-08-03",
+    "title": "Los Angeles Dodgers vs. Chicago Cubs",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 66883.0716,
+    "whale_pct": 949.025,
+    "paper_stake_usd": 146.2,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
