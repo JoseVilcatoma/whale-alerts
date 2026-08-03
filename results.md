@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 07:30:59 (hora de Perú)
+Actualizado: 2026-08-03 07:36:59 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -99,7 +99,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RLXDJ19701601 | 0 | 0 | 2 | — |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 0 | 0 | 19 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 14 | — |
-| 0x0x23kjookhaiuohduoayh8c9 | 0 | 0 | 1 | — |
-| TAIWANNUMBERONE | 0 | 0 | 2 | — |
+| 0x0x23kjookhaiuohduoayh8c9 | 0 | 0 | 2 | — |
+| TAIWANNUMBERONE | 0 | 0 | 3 | — |
 | elizabeth.ethcome | 0 | 0 | 1 | — |
 | 0x4f2 | 0 | 0 | 1 | — |

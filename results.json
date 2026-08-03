@@ -131614,5 +131614,29 @@
     "usd": 1205.3,
     "odds_at_bet": 85,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785760604,
+    "username": "0x0x23kjookhaiuohduoayh8c9",
+    "wallet": "0x9c3ce009c9b039956665cecc4cd14de862b5e8c9",
+    "slug": "lol-kc-th-2026-08-03-game-handicap-away-1pt5",
+    "title": "Game Handicap: KC (-1.5) vs Team Heretics (+1.5)",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 1049.142857,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785760611,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-navi-shft-2026-08-03",
+    "title": "LoL: Natus Vincere vs Shifters (BO3) - LEC Regular Season",
+    "outcome": "Shifters",
+    "side": "BUY",
+    "usd": 1137.5068109999997,
+    "odds_at_bet": 31,
+    "status": "pending"
   }
 ]
