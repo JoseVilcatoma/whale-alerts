@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 01:59:42 (hora de Perú)
+Actualizado: 2026-08-03 02:01:47 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -20,7 +20,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 0 | 100% |
 | paquitomillonario | 16 | 1 | 0 | 94% |
 | texaskid | 16 | 1 | 0 | 94% |
-| cigarettes | 63 | 9 | 0 | 88% |
+| cigarettes | 63 | 9 | 1 | 88% |
 | TopGleaguepick | 14 | 2 | 0 | 88% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | swisstony | 715 | 153 | 65 | 82% |
@@ -71,7 +71,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | jtwyslljy | 8 | 10 | 3 | 44% |
 | pleaseplease123 | 43 | 62 | 0 | 41% |
 | PASSTHEMONEY | 43 | 61 | 0 | 41% |
-| esportGG | 52 | 76 | 1 | 41% |
+| esportGG | 52 | 76 | 2 | 41% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
