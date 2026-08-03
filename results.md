@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 01:45:55 (hora de Perú)
+Actualizado: 2026-08-03 01:53:22 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 108 | 78 | 21 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 1 | 57% |
 | HomeRunHazard | 273 | 202 | 17 | 57% |
-| StasPanda | 12 | 9 | 2 | 57% |
+| StasPanda | 12 | 9 | 3 | 57% |
 | 1winstreak1 | 50 | 39 | 0 | 56% |
 | us391 | 23 | 18 | 1 | 56% |
 | meoooow | 17 | 15 | 0 | 53% |

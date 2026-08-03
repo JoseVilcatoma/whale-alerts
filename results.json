@@ -127678,5 +127678,17 @@
     "usd": 1920.0,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785739993,
+    "username": "StasPanda",
+    "wallet": "0x7e5e420a5cde8a322f3b5b93a12a164827f47315",
+    "slug": "lol-bro1-foxy-2026-08-03",
+    "title": "LoL: HANJIN BRION Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+    "outcome": "BNK FearX Youth",
+    "side": "BUY",
+    "usd": 4374.768999999999,
+    "odds_at_bet": 70,
+    "status": "pending"
   }
 ]
