@@ -130426,5 +130426,77 @@
     "usd": 6933.030507999999,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785755478,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-ns-t1-2026-08-03",
+    "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 2857.1399989999995,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755489,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-og-gl-2026-08-03-game1",
+    "title": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "usd": 2999.999999,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755597,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-og-gl-2026-08-03",
+    "title": "Dota 2: OG vs GamerLegion (BO3) - 1win Essence Playoffs",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "usd": 2999.999999,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755602,
+    "username": "0x0x23kjookhaiuohduoayh8c9",
+    "wallet": "0x9c3ce009c9b039956665cecc4cd14de862b5e8c9",
+    "slug": "lol-navi-shft-2026-08-03",
+    "title": "LoL: Natus Vincere vs Shifters (BO3) - LEC Regular Season",
+    "outcome": "Shifters",
+    "side": "BUY",
+    "usd": 1084.5503999999999,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755610,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-og-gl-2026-08-03",
+    "title": "Dota 2: OG vs GamerLegion (BO3) - 1win Essence Playoffs",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "usd": 2999.999999,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755613,
+    "username": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+    "wallet": "0x7986576408b65a9805ac85553be33ad0b044baa5",
+    "slug": "lol-ns-t1-2026-08-03",
+    "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 2110.94,
+    "odds_at_bet": 50,
+    "status": "pending"
   }
 ]
