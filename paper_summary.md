@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 18:36:06 (hora de Perú)
+Actualizado: 2026-08-03 18:38:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -17,7 +17,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Pwaddler | 0 | 0 | 1 | +0.00 USD |
 | Djdjdjekekek | 1 | 0 | 1 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 3 | +0.00 USD |
-| Corlys | 0 | 0 | 16 | +0.00 USD |
+| Corlys | 0 | 0 | 25 | +0.00 USD |
+| crckr | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
