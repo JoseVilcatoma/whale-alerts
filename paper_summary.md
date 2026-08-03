@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 18:57:07 (hora de Perú)
+Actualizado: 2026-08-03 18:59:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Pwaddler | 0 | 0 | 1 | +0.00 USD |
 | Djdjdjekekek | 1 | 0 | 1 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 3 | +0.00 USD |
-| Corlys | 0 | 0 | 45 | +0.00 USD |
+| Corlys | 0 | 0 | 51 | +0.00 USD |
 | crckr | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -30,6 +30,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 15.30 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 15.30 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 15.30 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 98% | 15.01 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 86% | 13.17 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 17% | 2.60 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 18.55 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 68% | 12.53 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 18.55 | ⏳ pendiente | — |
@@ -54,9 +60,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys | Will the highest temperature in Shenzhen | No (BUY) | 97% | 8.17 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Shenzhen | No (BUY) | 100% | 8.44 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Shenzhen | No (BUY) | 100% | 8.44 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Shenzhen | No (BUY) | 100% | 8.45 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Shenzhen | No (BUY) | 75% | 6.34 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Shenzhen | No (BUY) | 80% | 6.76 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Shenzhen | No (BUY) | 60% | 5.07 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Shenzhen | No (BUY) | 93% | 7.86 | ⏳ pendiente | — |
-| crckr |  |  (SELL) | 43% | 10.86 | ⏳ pendiente | — |
