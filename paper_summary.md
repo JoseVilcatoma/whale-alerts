@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 15:55:36 (hora de Perú)
+Actualizado: 2026-08-03 15:58:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $117,506.19
@@ -14,8 +14,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | gxxyy | 13 | 0 | 89 | +116,500.17 USD |
-| -..Derick.rose- | 3 | 2 | 289 | +5.31 USD |
-| Corlys | 2 | 1 | 431 | +0.71 USD |
+| -..Derick.rose- | 3 | 2 | 293 | +5.31 USD |
+| Corlys | 2 | 1 | 445 | +0.71 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 64 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 3 | +0.00 USD |
 | pleasedontstopthemusic | 0 | 0 | 1 | +0.00 USD |
@@ -54,6 +54,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | will-minimax-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241601 | -..Derick.rose-, Corlys |
 | will-alibaba-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241593 | -..Derick.rose-, Corlys |
 | dota2-re-lgd-2026-08-03-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, gxxyy |
+| highest-temperature-in-chicago-on-august-3-2026-84-85f | -..Derick.rose-, Corlys |
+| highest-temperature-in-chicago-on-august-3-2026-88forhigher | -..Derick.rose-, Corlys |
+| highest-temperature-in-chicago-on-august-3-2026-86-87f | -..Derick.rose-, Corlys |
 | highest-temperature-in-hong-kong-on-august-4-2026-32c | -..Derick.rose-, Corlys |
 | highest-temperature-in-hong-kong-on-august-4-2026-31c | -..Derick.rose-, Corlys |
 | highest-temperature-in-hong-kong-on-august-4-2026-27c | -..Derick.rose-, Corlys |
