@@ -6805,5 +6805,100 @@
     "overlaps_with": [
       "Corlys"
     ]
+  },
+  {
+    "timestamp": 1785772815,
+    "timestamp_added": 1785772816.0765505,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-nyc-on-august-3-2026-80-81f",
+    "title": "Will the highest temperature in New York City be between 80-81\u00b0F on August 3?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 3.35,
+    "whale_pct": 0.153,
+    "paper_stake_usd": 1.53,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785772815,
+    "timestamp_added": 1785772816.5146801,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-nyc-on-august-3-2026-86-87f",
+    "title": "Will the highest temperature in New York City be between 86-87\u00b0F on August 3?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 4.85,
+    "whale_pct": 0.222,
+    "paper_stake_usd": 2.22,
+    "odds_at_bet": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785772815,
+    "timestamp_added": 1785772816.939144,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-nyc-on-august-3-2026-84-85f",
+    "title": "Will the highest temperature in New York City be between 84-85\u00b0F on August 3?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 4.3,
+    "whale_pct": 0.197,
+    "paper_stake_usd": 1.97,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785772815,
+    "timestamp_added": 1785772817.3869238,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-nyc-on-august-3-2026-88-89f",
+    "title": "Will the highest temperature in New York City be between 88-89\u00b0F on August 3?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 4.95,
+    "whale_pct": 0.226,
+    "paper_stake_usd": 2.26,
+    "odds_at_bet": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785772815,
+    "timestamp_added": 1785772817.8203075,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-nyc-on-august-3-2026-82-83f",
+    "title": "Will the highest temperature in New York City be between 82-83\u00b0F on August 3?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 2.9,
+    "whale_pct": 0.133,
+    "paper_stake_usd": 1.33,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
   }
 ]
