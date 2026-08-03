@@ -130702,5 +130702,65 @@
     "usd": 1820.4926999999998,
     "odds_at_bet": 23,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785757165,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-ns-t1-2026-08-03",
+    "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 6338.9253,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785757167,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-ns-t1-2026-08-03",
+    "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 7291.626900000001,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785757168,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-ns-t1-2026-08-03-game2",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 1904.76,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785757182,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "rou1-fuc-fcb-2026-08-02-total-2pt5",
+    "title": "FC Universitatea Cluj vs. FC Boto\u015fani: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2144.8819000000003,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785757196,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-micic-podrez-2026-08-03",
+    "title": "Warsaw: Elena Micic vs Veronika Podrez",
+    "outcome": "Veronika Podrez",
+    "side": "BUY",
+    "usd": 1917.9994999999997,
+    "odds_at_bet": 85,
+    "status": "pending"
   }
 ]
