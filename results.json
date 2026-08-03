@@ -127486,5 +127486,17 @@
     "usd": 1405.5641889999997,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785732492,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "ufc-mat10-qui2-2026-08-08",
+    "title": "UFC Fight Night: Mateusz Gamrot vs. Quillan Salkilld (Lightweight, Main Card)",
+    "outcome": "Quillan Salkilld",
+    "side": "SELL",
+    "usd": 1160.0,
+    "odds_at_bet": 58,
+    "status": "pending"
   }
 ]
