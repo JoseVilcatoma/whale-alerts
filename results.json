@@ -128014,5 +128014,41 @@
     "usd": 11435.558400000002,
     "odds_at_bet": 32,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785743453,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "wta-korneev-kuderme-2026-08-03",
+    "title": "National Bank Open: Alina Korneeva vs Polina Kudermetova",
+    "outcome": "Alina Korneeva",
+    "side": "BUY",
+    "usd": 1950.0,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785743467,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-ww-cyb-2026-08-03",
+    "title": "Counter-Strike: WW Team vs CYBERSHOKE Prospects (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "WW Team",
+    "side": "BUY",
+    "usd": 9900.0,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785743525,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-ww-cyb-2026-08-03",
+    "title": "Counter-Strike: WW Team vs CYBERSHOKE Prospects (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "WW Team",
+    "side": "BUY",
+    "usd": 2840.3298,
+    "odds_at_bet": 66,
+    "status": "pending"
   }
 ]

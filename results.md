@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 02:50:06 (hora de Perú)
+Actualizado: 2026-08-03 02:52:12 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -33,9 +33,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fRibrenlc | 16 | 6 | 10 | 73% |
 | Fallout3 | 16 | 6 | 0 | 73% |
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
-| lllllllIlll | 7 | 3 | 3 | 70% |
+| lllllllIlll | 7 | 3 | 5 | 70% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 396 | 188 | 31 | 68% |
-| VeryLucky888 | 94 | 44 | 33 | 68% |
+| VeryLucky888 | 94 | 44 | 34 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | ninasuskevic | 10 | 5 | 5 | 67% |
