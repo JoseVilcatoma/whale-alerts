@@ -131206,5 +131206,53 @@
     "usd": 1865.5,
     "odds_at_bet": 91,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785759324,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-ns-t1-2026-08-03",
+    "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 2462.8499989999996,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785759324,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-ns-t1-2026-08-03",
+    "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 4628.106466,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785759339,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-ns-t1-2026-08-03",
+    "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 1877.435,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785759362,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "ukr1-buk-che-2026-08-03-che",
+    "title": "Will FK LNZ Cherkasy win on 2026-08-03?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1234.8426000000002,
+    "odds_at_bet": 51,
+    "status": "pending"
   }
 ]

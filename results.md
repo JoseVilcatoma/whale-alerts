@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 07:06:05 (hora de Perú)
+Actualizado: 2026-08-03 07:16:11 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 108 | 78 | 35 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 1 | 57% |
 | HomeRunHazard | 273 | 202 | 22 | 57% |
-| us391 | 24 | 18 | 1 | 57% |
+| us391 | 24 | 18 | 2 | 57% |
 | 1winstreak1 | 50 | 39 | 0 | 56% |
 | meoooow | 17 | 15 | 5 | 53% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 4 | 52% |
@@ -71,7 +71,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | jtwyslljy | 8 | 10 | 5 | 44% |
 | pleaseplease123 | 43 | 62 | 1 | 41% |
 | PASSTHEMONEY | 43 | 61 | 3 | 41% |
-| esportGG | 52 | 76 | 32 | 41% |
+| esportGG | 52 | 76 | 34 | 41% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
@@ -97,7 +97,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BrightStars | 0 | 0 | 2 | — |
 | MeiGuNiuBi | 0 | 0 | 7 | — |
 | RLXDJ19701601 | 0 | 0 | 2 | — |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 0 | 0 | 18 | — |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 0 | 0 | 19 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 14 | — |
 | 0x0x23kjookhaiuohduoayh8c9 | 0 | 0 | 1 | — |
 | TAIWANNUMBERONE | 0 | 0 | 1 | — |
