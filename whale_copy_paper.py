@@ -463,7 +463,7 @@ def background_worker():
                 pass
             last_msg_at = time.time()
 
-        if trades_dirty and now - last_save > 120:
+        if now - last_save > 120:
             save_and_commit()
             last_save = now
 
