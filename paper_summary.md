@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 09:54:41 (hora de Perú)
+Actualizado: 2026-08-03 09:56:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -13,9 +13,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| -..Derick.rose- | 0 | 0 | 77 | +0.00 USD |
+| -..Derick.rose- | 0 | 0 | 100 | +0.00 USD |
 | gxxyy | 0 | 0 | 12 | +0.00 USD |
+| Corlys | 0 | 0 | 8 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
-_Todavía no hubo coincidencias._
+| Mercado | Vigilados que coincidieron |
+|---|---|
+| highest-temperature-in-london-on-august-3-2026-30c | -..Derick.rose-, Corlys |
+| highest-temperature-in-london-on-august-3-2026-33c | -..Derick.rose-, Corlys |
+| highest-temperature-in-london-on-august-3-2026-29c | -..Derick.rose-, Corlys |
+| highest-temperature-in-london-on-august-3-2026-31c | -..Derick.rose-, Corlys |
