@@ -2616,5 +2616,39 @@
     "overlaps_with": [
       "-..Derick.rose-"
     ]
+  },
+  {
+    "timestamp": 1785769768,
+    "timestamp_added": 1785769768.7589967,
+    "username": "-..Derick.rose-",
+    "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+    "slug": "highest-temperature-in-moscow-on-august-3-2026-25c",
+    "title": "Will the highest temperature in Moscow be 25\u00b0C on August 3?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 84.405,
+    "whale_pct": 6.934,
+    "paper_stake_usd": 69.34,
+    "odds_at_bet": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785769773,
+    "timestamp_added": 1785769773.3219457,
+    "username": "-..Derick.rose-",
+    "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+    "slug": "highest-temperature-in-moscow-on-august-3-2026-25c",
+    "title": "Will the highest temperature in Moscow be 25\u00b0C on August 3?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 4.965,
+    "whale_pct": 0.408,
+    "paper_stake_usd": 4.08,
+    "odds_at_bet": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
   }
 ]

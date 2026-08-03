@@ -33,5 +33,20 @@
     "username": "Corlys",
     "added_at": 1785768907.5016284,
     "roi_pct": 1253.65
+  },
+  "0x782186952ef2ca75ea91c95aef25bbdcffb4bb1a": {
+    "username": "thif - 33063",
+    "added_at": 1785769813.994616,
+    "roi_pct": 1071961.15
+  },
+  "0x0f35109cc3ceaf729609c3109310791bd616c84a": {
+    "username": "",
+    "added_at": 1785769813.994616,
+    "roi_pct": 117632.56
+  },
+  "0x3d8a89a20aa73fba0f30d080e8120de9f9555724": {
+    "username": "Poyo",
+    "added_at": 1785769813.994616,
+    "roi_pct": 10606.22
   }
 }
