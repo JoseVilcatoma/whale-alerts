@@ -128458,5 +128458,41 @@
     "usd": 1930.1907,
     "odds_at_bet": 87,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785746150,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-ns-t1-2026-08-03",
+    "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 1063.799999,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785746153,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-gen-hle1-2026-08-03-game2",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 15806.530100000002,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785746153,
+    "username": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+    "wallet": "0x7986576408b65a9805ac85553be33ad0b044baa5",
+    "slug": "lol-gen-hle1-2026-08-03-game2",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 5419.947,
+    "odds_at_bet": 26,
+    "status": "pending"
   }
 ]
