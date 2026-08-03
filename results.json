@@ -128686,5 +128686,17 @@
     "usd": 3999.999999,
     "odds_at_bet": 46,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785747281,
+    "username": "patient12",
+    "wallet": "0xe291a588ece487f3323736c55c6144f6a99e748e",
+    "slug": "lol-gen-hle1-2026-08-03-game2",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 10944.378999999999,
+    "odds_at_bet": 73,
+    "status": "pending"
   }
 ]
