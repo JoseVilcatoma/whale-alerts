@@ -2434,5 +2434,39 @@
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": []
+  },
+  {
+    "timestamp": 1785769330,
+    "timestamp_added": 1785769330.9260213,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-paris-on-august-3-2026-37c",
+    "title": "Will the highest temperature in Paris be 37\u00b0C on August 3?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 41.16,
+    "whale_pct": 1.881,
+    "paper_stake_usd": 18.81,
+    "odds_at_bet": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
+  },
+  {
+    "timestamp": 1785769330,
+    "timestamp_added": 1785769331.372839,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-paris-on-august-3-2026-38c",
+    "title": "Will the highest temperature in Paris be 38\u00b0C on August 3?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 41.874,
+    "whale_pct": 1.913,
+    "paper_stake_usd": 19.13,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
   }
 ]
