@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 01:56:41 (hora de Perú)
+Actualizado: 2026-08-03 01:59:42 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 108 | 78 | 21 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 1 | 57% |
 | HomeRunHazard | 273 | 202 | 17 | 57% |
-| StasPanda | 12 | 9 | 4 | 57% |
+| StasPanda | 12 | 9 | 6 | 57% |
 | 1winstreak1 | 50 | 39 | 0 | 56% |
 | us391 | 23 | 18 | 1 | 56% |
 | meoooow | 17 | 15 | 0 | 53% |
@@ -66,8 +66,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | AnonymousUsername | 32 | 35 | 0 | 48% |
 | sbsigner | 38 | 44 | 0 | 46% |
 | Eztennis | 28 | 33 | 0 | 46% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 50 | 58 | 6 | 46% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 17 | 21 | 4 | 45% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 50 | 58 | 7 | 46% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 17 | 21 | 5 | 45% |
 | jtwyslljy | 8 | 10 | 3 | 44% |
 | pleaseplease123 | 43 | 62 | 0 | 41% |
 | PASSTHEMONEY | 43 | 61 | 0 | 41% |
