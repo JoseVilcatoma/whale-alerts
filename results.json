@@ -129454,5 +129454,101 @@
     "usd": 4019.3201999999997,
     "odds_at_bet": 82,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785752914,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-lgd-1win-2026-08-03-game2",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1090.656,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785752914,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-lgd-1win-2026-08-03-game2",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 2177.9939999999997,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785752914,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-lgd-1win-2026-08-03-game2",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1456.4058820000002,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785752917,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-lgd-1win-2026-08-03-game2",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1245.0,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785752918,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-lgd-1win-2026-08-03-game2",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1366.6666659999999,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785752920,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-lgd-1win-2026-08-03-game2",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 2006.54,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785752920,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-lgd-1win-2026-08-03-game2",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1016.2998,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785752935,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-arc4-btf-2026-08-03",
+    "title": "Counter-Strike: ARCRED vs Butterfly (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "Butterfly",
+    "side": "BUY",
+    "usd": 2064.3675000000003,
+    "odds_at_bet": 39,
+    "status": "pending"
   }
 ]
