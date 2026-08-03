@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 15:18:05 (hora de Perú)
+Actualizado: 2026-08-03 15:20:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $117,506.19
@@ -13,10 +13,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| gxxyy | 13 | 0 | 32 | +116,500.17 USD |
+| gxxyy | 13 | 0 | 36 | +116,500.17 USD |
 | -..Derick.rose- | 3 | 2 | 231 | +5.31 USD |
-| Corlys | 2 | 1 | 334 | +0.71 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 55 | +0.00 USD |
+| Corlys | 2 | 1 | 344 | +0.71 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 63 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 3 | +0.00 USD |
 | pleasedontstopthemusic | 0 | 0 | 1 | +0.00 USD |
 | Pwaddler | 0 | 0 | 3 | +0.00 USD |
@@ -61,3 +61,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | highest-temperature-in-hong-kong-on-august-4-2026-29c | -..Derick.rose-, Corlys |
 | highest-temperature-in-hong-kong-on-august-4-2026-28c | -..Derick.rose-, Corlys |
 | highest-temperature-in-hong-kong-on-august-4-2026-30c | -..Derick.rose-, Corlys |
+| dota2-liquid-vg-2026-08-03-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, gxxyy |
