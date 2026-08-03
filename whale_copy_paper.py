@@ -133,17 +133,26 @@ def get_portfolio_value(wallet, max_age=60):
     return value
 
 
-def get_market(slug):
+def get_market(slug, max_age=300):
+    """Trae los datos de un mercado. Si ya está cerrado, el dato no cambia
+    más y se cachea para siempre. Si todavía está abierto, se vuelve a
+    consultar cada max_age segundos en vez de quedarse pegado con la
+    primera respuesta."""
     if not slug:
         return None
-    if slug in _market_cache:
-        return _market_cache[slug]
+    cached = _market_cache.get(slug)
+    if cached:
+        m, fetched_at = cached
+        if m and m.get("closed"):
+            return m
+        if time.time() - fetched_at < max_age:
+            return m
     try:
         r = requests.get(f"{GAMMA_API}/markets/slug/{slug}", timeout=8)
         m = r.json() if r.ok else None
     except Exception:
         m = None
-    _market_cache[slug] = m
+    _market_cache[slug] = (m, time.time())
     return m
 
 
