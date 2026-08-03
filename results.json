@@ -131290,5 +131290,29 @@
     "usd": 1000.0,
     "odds_at_bet": 38,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785759688,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-phx-chi-2026-08-03-total-177pt5",
+    "title": "Phoenix Mercury vs. Chicago Sky: O/U 177.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1114.0017,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785759720,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "ukr1-buk-che-2026-08-03-che",
+    "title": "Will FK LNZ Cherkasy win on 2026-08-03?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1105.3172000000002,
+    "odds_at_bet": 52,
+    "status": "pending"
   }
 ]
