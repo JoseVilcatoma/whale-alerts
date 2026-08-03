@@ -130306,5 +130306,17 @@
     "usd": 1483.958666,
     "odds_at_bet": 88,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785755236,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-paszun-falkows-2026-08-03",
+    "title": "Warsaw: Amelia Paszun vs Weronika Falkowska",
+    "outcome": "Weronika Falkowska",
+    "side": "BUY",
+    "usd": 3353.3720000000003,
+    "odds_at_bet": 88,
+    "status": "pending"
   }
 ]
