@@ -127414,5 +127414,17 @@
     "usd": 1690.5478,
     "odds_at_bet": 62,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785731883,
+    "username": "Melody626",
+    "wallet": "0xecaa8806a9a05049d7d5260a33dc924220e377a9",
+    "slug": "will-cori-bush-be-the-democratic-nominee-for-mo-01",
+    "title": "Will Cori Bush be the Democratic nominee for MO-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1140.3600000000001,
+    "odds_at_bet": 66,
+    "status": "pending"
   }
 ]
