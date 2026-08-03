@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 04:01:40 (hora de Perú)
+Actualizado: 2026-08-03 04:04:17 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -15,7 +15,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | matenghehe | 28 | 0 | 2 | 100% |
 | LeatherPants | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
-| patient12 | 14 | 0 | 7 | 100% |
+| patient12 | 14 | 0 | 10 | 100% |
 | highnetworth | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 0 | 100% |
 | paquitomillonario | 16 | 1 | 0 | 94% |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Fallout3 | 16 | 6 | 0 | 73% |
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
 | lllllllIlll | 7 | 3 | 5 | 70% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 396 | 188 | 37 | 68% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 396 | 188 | 38 | 68% |
 | VeryLucky888 | 94 | 44 | 35 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | flatbarrel | 8 | 5 | 2 | 62% |
 | ferrariChampions2026 | 1853 | 1195 | 48 | 61% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 108 | 78 | 26 | 58% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 108 | 78 | 27 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 1 | 57% |
 | HomeRunHazard | 273 | 202 | 17 | 57% |
 | StasPanda | 12 | 9 | 11 | 57% |

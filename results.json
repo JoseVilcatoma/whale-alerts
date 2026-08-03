@@ -128710,5 +128710,65 @@
     "usd": 4652.5779999999995,
     "odds_at_bet": 92,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785747717,
+    "username": "patient12",
+    "wallet": "0xe291a588ece487f3323736c55c6144f6a99e748e",
+    "slug": "lol-gen-hle1-2026-08-03-game2",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 2323.632,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785747721,
+    "username": "patient12",
+    "wallet": "0xe291a588ece487f3323736c55c6144f6a99e748e",
+    "slug": "lol-gen-hle1-2026-08-03-game2",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 1943.2,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785747726,
+    "username": "patient12",
+    "wallet": "0xe291a588ece487f3323736c55c6144f6a99e748e",
+    "slug": "lol-gen-hle1-2026-08-03-game2",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 11729.168,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785747726,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-gen-hle1-2026-08-03-game2",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 3366.982,
+    "odds_at_bet": 20,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785747741,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-walton-brooksb-2026-08-03",
+    "title": "National Bank Open: Adam Walton vs Jenson Brooksby",
+    "outcome": "Jenson Brooksby",
+    "side": "BUY",
+    "usd": 2556.389,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]
