@@ -129382,5 +129382,53 @@
     "usd": 1459.2997500000001,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785752573,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-lgd-1win-2026-08-03-game2",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 2 Winner",
+    "outcome": "1win",
+    "side": "SELL",
+    "usd": 1455.1,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785752617,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-lgd-1win-2026-08-03-game2",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 2 Winner",
+    "outcome": "1win",
+    "side": "SELL",
+    "usd": 1223.4599999999998,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785752677,
+    "username": "jtwyslljy",
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "slug": "wta-korneev-kuderme-2026-08-03",
+    "title": "National Bank Open: Alina Korneeva vs Polina Kudermetova",
+    "outcome": "Polina Kudermetova",
+    "side": "BUY",
+    "usd": 1575.0,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785752677,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "wta-korneev-kuderme-2026-08-03",
+    "title": "National Bank Open: Alina Korneeva vs Polina Kudermetova",
+    "outcome": "Alina Korneeva",
+    "side": "BUY",
+    "usd": 1950.0,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]
