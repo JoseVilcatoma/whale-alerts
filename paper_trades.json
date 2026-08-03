@@ -2752,5 +2752,43 @@
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": []
+  },
+  {
+    "timestamp": 1785770018,
+    "timestamp_added": 1785770018.6569545,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 67.0275,
+    "whale_pct": 3.09,
+    "paper_stake_usd": 30.9,
+    "odds_at_bet": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
+  },
+  {
+    "timestamp": 1785770020,
+    "timestamp_added": 1785770020.474187,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 3.8475,
+    "whale_pct": 0.177,
+    "paper_stake_usd": 1.77,
+    "odds_at_bet": 6,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "-..Derick.rose-"
+    ]
   }
 ]
