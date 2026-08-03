@@ -128590,5 +128590,29 @@
     "usd": 2397.0060000000003,
     "odds_at_bet": 90,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785746764,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-lgd-1win-2026-08-03-game2",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 2999.999999,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785746788,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "mlb-wsh-phi-2026-08-03",
+    "title": "Washington Nationals vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 1933.4771999999998,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
