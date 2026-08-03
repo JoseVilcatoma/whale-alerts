@@ -8558,5 +8558,119 @@
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": []
+  },
+  {
+    "timestamp": 1785786903,
+    "timestamp_added": 1785786904.1074224,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-re-lgd-2026-08-03-game2",
+    "title": "Dota 2: Rune Eaters vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 540.5,
+    "whale_pct": 0.729,
+    "paper_stake_usd": 856.61,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "gxxyy"
+    ]
+  },
+  {
+    "timestamp": 1785786906,
+    "timestamp_added": 1785786906.760775,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-re-lgd-2026-08-03-game2",
+    "title": "Dota 2: Rune Eaters vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 371.29999999999995,
+    "whale_pct": 0.501,
+    "paper_stake_usd": 588.45,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "gxxyy"
+    ]
+  },
+  {
+    "timestamp": 1785786912,
+    "timestamp_added": 1785786913.0408497,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-re-lgd-2026-08-03-game2",
+    "title": "Dota 2: Rune Eaters vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 900.0,
+    "whale_pct": 1.214,
+    "paper_stake_usd": 1426.36,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "gxxyy"
+    ]
+  },
+  {
+    "timestamp": 1785786966,
+    "timestamp_added": 1785786966.6759405,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-re-lgd-2026-08-03-game2",
+    "title": "Dota 2: Rune Eaters vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 320.0,
+    "whale_pct": 0.432,
+    "paper_stake_usd": 507.15,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "gxxyy"
+    ]
+  },
+  {
+    "timestamp": 1785786982,
+    "timestamp_added": 1785786982.7550392,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-re-lgd-2026-08-03-game2",
+    "title": "Dota 2: Rune Eaters vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 232.2078,
+    "whale_pct": 0.313,
+    "paper_stake_usd": 368.01,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "gxxyy"
+    ]
+  },
+  {
+    "timestamp": 1785786991,
+    "timestamp_added": 1785786991.890028,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-re-lgd-2026-08-03-game2",
+    "title": "Dota 2: Rune Eaters vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 315.2226,
+    "whale_pct": 0.425,
+    "paper_stake_usd": 499.58,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "gxxyy"
+    ]
   }
 ]
