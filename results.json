@@ -131518,5 +131518,65 @@
     "usd": 8145.693844,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785759930,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-navi-shft-2026-08-03",
+    "title": "LoL: Natus Vincere vs Shifters (BO3) - LEC Regular Season",
+    "outcome": "Shifters",
+    "side": "BUY",
+    "usd": 1320.3888400000003,
+    "odds_at_bet": 31,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785760033,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-og-gl-2026-08-03-game1",
+    "title": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 1700.52,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785760039,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-og-gl-2026-08-03-game1",
+    "title": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 1723.5,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785760042,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-og-gl-2026-08-03-game1",
+    "title": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 1542.24,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785760062,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-og-gl-2026-08-03-game1",
+    "title": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "usd": 1000.0,
+    "odds_at_bet": 25,
+    "status": "pending"
   }
 ]
