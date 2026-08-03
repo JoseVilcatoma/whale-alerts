@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 14:56:48 (hora de Perú)
+Actualizado: 2026-08-03 14:59:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $117,506.19
@@ -14,9 +14,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | gxxyy | 13 | 0 | 4 | +116,500.17 USD |
-| -..Derick.rose- | 3 | 2 | 187 | +5.31 USD |
-| Corlys | 2 | 1 | 240 | +0.71 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 40 | +0.00 USD |
+| -..Derick.rose- | 3 | 2 | 211 | +5.31 USD |
+| Corlys | 2 | 1 | 254 | +0.71 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 42 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 3 | +0.00 USD |
 | pleasedontstopthemusic | 0 | 0 | 1 | +0.00 USD |
 
@@ -52,3 +52,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | will-minimax-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241601 | -..Derick.rose-, Corlys |
 | will-alibaba-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241593 | -..Derick.rose-, Corlys |
 | dota2-re-lgd-2026-08-03-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, gxxyy |
+| highest-temperature-in-hong-kong-on-august-4-2026-32c | -..Derick.rose-, Corlys |
+| highest-temperature-in-hong-kong-on-august-4-2026-31c | -..Derick.rose-, Corlys |
+| highest-temperature-in-hong-kong-on-august-4-2026-27c | -..Derick.rose-, Corlys |
+| highest-temperature-in-hong-kong-on-august-4-2026-33corhigher | -..Derick.rose-, Corlys |
+| highest-temperature-in-hong-kong-on-august-4-2026-29c | -..Derick.rose-, Corlys |
+| highest-temperature-in-hong-kong-on-august-4-2026-28c | -..Derick.rose-, Corlys |
+| highest-temperature-in-hong-kong-on-august-4-2026-30c | -..Derick.rose-, Corlys |
