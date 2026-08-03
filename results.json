@@ -127042,5 +127042,41 @@
     "usd": 7110.9994,
     "odds_at_bet": 53,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785717156,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-kovacev-borges-2026-08-03",
+    "title": "Canadian Open: Aleksandar Kovacevic vs Nuno Borges",
+    "outcome": "Nuno Borges",
+    "side": "BUY",
+    "usd": 11614.165799999999,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785717208,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-lad-2026-08-02",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 3143.5127000000007,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785717208,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-bos-lad-2026-08-02",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 1590.6000000000001,
+    "odds_at_bet": 33,
+    "status": "pending"
   }
 ]
