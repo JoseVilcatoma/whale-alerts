@@ -5484,5 +5484,22 @@
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": []
+  },
+  {
+    "timestamp": 1785771896,
+    "timestamp_added": 1785771896.9849863,
+    "username": "-..Derick.rose-",
+    "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+    "slug": "ukr1-kud-shd-2026-08-03-shd",
+    "title": "Will FK Shakhtar Donetsk win on 2026-08-03?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 3.096,
+    "whale_pct": 0.261,
+    "paper_stake_usd": 2.61,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
   }
 ]
