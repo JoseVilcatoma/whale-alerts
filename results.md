@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 03:15:41 (hora de Perú)
+Actualizado: 2026-08-03 03:17:52 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -15,7 +15,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | matenghehe | 28 | 0 | 0 | 100% |
 | LeatherPants | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
-| patient12 | 14 | 0 | 2 | 100% |
+| patient12 | 14 | 0 | 3 | 100% |
 | highnetworth | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 0 | 100% |
 | paquitomillonario | 16 | 1 | 0 | 94% |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Fallout3 | 16 | 6 | 0 | 73% |
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
 | lllllllIlll | 7 | 3 | 5 | 70% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 396 | 188 | 31 | 68% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 396 | 188 | 33 | 68% |
 | VeryLucky888 | 94 | 44 | 35 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BirdMan. | 41 | 24 | 0 | 63% |
 | UpTheBlues | 63 | 38 | 28 | 62% |
 | flatbarrel | 8 | 5 | 2 | 62% |
-| ferrariChampions2026 | 1853 | 1195 | 46 | 61% |
+| ferrariChampions2026 | 1853 | 1195 | 47 | 61% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 108 | 78 | 24 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 1 | 57% |
@@ -71,13 +71,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | jtwyslljy | 8 | 10 | 4 | 44% |
 | pleaseplease123 | 43 | 62 | 0 | 41% |
 | PASSTHEMONEY | 43 | 61 | 0 | 41% |
-| esportGG | 52 | 76 | 2 | 41% |
+| esportGG | 52 | 76 | 5 | 41% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | Flipadelphia | 8 | 18 | 1 | 31% |
-| 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 24 | 10 | 29% |
+| 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 10 | 24 | 13 | 29% |
 | 111111111115 | 11 | 31 | 5 | 26% |
 | Anjun | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
