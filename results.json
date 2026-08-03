@@ -127942,5 +127942,29 @@
     "usd": 1928.82,
     "odds_at_bet": 31,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785742797,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-ww-cyb-2026-08-03",
+    "title": "Counter-Strike: WW Team vs CYBERSHOKE Prospects (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "WW Team",
+    "side": "BUY",
+    "usd": 6528.9246,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785742831,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-kovacev-borges-2026-08-03",
+    "title": "Canadian Open: Aleksandar Kovacevic vs Nuno Borges",
+    "outcome": "Nuno Borges",
+    "side": "BUY",
+    "usd": 5687.352,
+    "odds_at_bet": 72,
+    "status": "pending"
   }
 ]
