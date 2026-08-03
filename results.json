@@ -128782,5 +128782,77 @@
     "usd": 2999.9999980000002,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785748864,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-lgd-1win-2026-08-03-game1",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1999.999999,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785748870,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-lgd-1win-2026-08-03-game1",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 4999.999999,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785748902,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-falei-radwans-2026-08-03",
+    "title": "Warsaw: Aliona Falei vs Urszula Radwanska",
+    "outcome": "Aliona Falei",
+    "side": "BUY",
+    "usd": 1550.0038,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785748903,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-falei-radwans-2026-08-03",
+    "title": "Warsaw: Aliona Falei vs Urszula Radwanska",
+    "outcome": "Aliona Falei",
+    "side": "BUY",
+    "usd": 1506.939914,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785748906,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-falei-radwans-2026-08-03",
+    "title": "Warsaw: Aliona Falei vs Urszula Radwanska",
+    "outcome": "Aliona Falei",
+    "side": "BUY",
+    "usd": 1641.985714,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785748912,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-gen-hle1-2026-08-03-game2",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 2078.141,
+    "odds_at_bet": 98,
+    "status": "pending"
   }
 ]
