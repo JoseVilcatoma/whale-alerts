@@ -127426,5 +127426,17 @@
     "usd": 1140.3600000000001,
     "odds_at_bet": 66,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785731966,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "atp-fritz-jodar-2026-08-02",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Rafael Jodar",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 1240.0,
+    "odds_at_bet": 62,
+    "status": "pending"
   }
 ]
