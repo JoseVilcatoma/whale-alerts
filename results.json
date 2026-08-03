@@ -127354,5 +127354,17 @@
     "usd": 3760.0,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785730108,
+    "username": "Melody626",
+    "wallet": "0xecaa8806a9a05049d7d5260a33dc924220e377a9",
+    "slug": "will-donavan-mckinney-be-the-democratic-nominee-for-mi-13",
+    "title": "Will Donavan McKinney be the Democratic Nominee for MI-13?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1500.0,
+    "odds_at_bet": 15,
+    "status": "pending"
   }
 ]
