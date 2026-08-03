@@ -78,11 +78,12 @@ INITIAL_BANKROLL = float(os.environ.get("INITIAL_BANKROLL", "1000"))
 TOP_N_CANDIDATES = int(os.environ.get("TOP_N_CANDIDATES", "20"))
 TOP_K_REPLICATE = int(os.environ.get("TOP_K_REPLICATE", "5"))
 MIN_TRADE_PCT = float(os.environ.get("MIN_TRADE_PCT", "0.1"))
+MIN_WHALE_PORTFOLIO = float(os.environ.get("MIN_WHALE_PORTFOLIO", "2000"))
 LB_CATEGORY = os.environ.get("LB_CATEGORY", "OVERALL")
 LB_PERIODS = ["WEEK", "MONTH"]
 
 LEADERBOARD_REFRESH_SECONDS = int(os.environ.get("LEADERBOARD_REFRESH_SECONDS", "900"))
-MIN_WATCH_DAYS = float(os.environ.get("MIN_WATCH_DAYS", "7"))
+MIN_WATCH_DAYS = float(os.environ.get("MIN_WATCH_DAYS", "0"))  # 0 = solo los 5 del momento, sin colchón
 MAX_RUNTIME_SECONDS = int(os.environ.get("MAX_RUNTIME_SECONDS", str(5 * 3600 + 50 * 60)))
 
 watched = {}        # wallet (minúsculas) -> username   (los 5 vigilados actuales)
@@ -114,9 +115,9 @@ def load_json(path, default=None):
     return default
 
 
-def get_portfolio_value(wallet, max_age=600):
-    """Valor total del portafolio de una wallet, con cache de 10 min
-    para no pedirle de más a la API por cada trade."""
+def get_portfolio_value(wallet, max_age=60):
+    """Valor total del portafolio de una wallet, con cache corto (1 min)
+    para no pedirle de más a la API pero mantener el % lo más al día posible."""
     now = time.time()
     cached = _portfolio_cache.get(wallet)
     if cached and now - cached[1] < max_age:
@@ -195,8 +196,8 @@ def compute_top5_by_roi():
     for w, t in candidates.items():
         pnl = t.get("pnl")
         value = get_portfolio_value(w)
-        if pnl is None or not value or value <= 0:
-            continue
+        if pnl is None or not value or value < MIN_WHALE_PORTFOLIO:
+            continue  # portafolio casi vacío -> el % se dispara sin ser real habilidad, se descarta
         roi_pct = pnl / value * 100
         scored.append((w, t.get("userName", "anon"), roi_pct))
 
@@ -285,7 +286,7 @@ def send_telegram(text):
 
 
 # ---------- registrar y resolver posiciones de papel ----------
-def log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, odds):
+def log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, odds, recortado=False):
     global trades_dirty
     slug = trade.get("slug")
     same_day_others = sorted({
@@ -310,12 +311,15 @@ def log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, 
             "status": "pending",
             "profit_usd": 0.0,
             "overlaps_with": same_day_others,
+            "recortado_por_bankroll": recortado,
         })
         trades_dirty = True
 
     aviso = f"🧪 PAPER — {username} apostó {whale_pct:.2f}% de su portafolio\n"
-    aviso += f"Réplica simulada: ${paper_stake:,.2f} ({whale_pct:.2f}% de tu bankroll de papel)\n"
+    aviso += f"Réplica simulada: ${paper_stake:,.2f}\n"
     aviso += f"Mercado: {trade.get('title','')}\n"
+    if recortado:
+        aviso += "⚠️ Recortado: no había suficiente bankroll disponible para replicar el % completo\n"
     if same_day_others:
         aviso += f"⚠️ Coincide hoy con: {', '.join(same_day_others)}\n"
     send_telegram(aviso)
@@ -395,9 +399,22 @@ def on_ws_message(ws, message):
 
     username = watched.get(wallet, "anon")
     odds = round((trade.get("price") or 0) * 100)
-    paper_stake = whale_pct / 100 * bankroll
-    print(f"🧪 PAPER — {username}: {whale_pct:.2f}% -> ${paper_stake:,.2f} en {trade.get('title')}")
-    log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, odds)
+
+    with lock:
+        allocated = sum(tr["paper_stake_usd"] for tr in trades if tr["status"] == "pending")
+    available = max(0.0, bankroll - allocated)
+    desired_stake = whale_pct / 100 * bankroll
+    recortado = desired_stake > available
+    paper_stake = min(desired_stake, available)
+
+    if paper_stake <= 0:
+        print(f"🧪 PAPER — {username}: se ignora, no queda bankroll disponible "
+              f"(${allocated:,.2f} ya comprometidos en posiciones pendientes)")
+        return
+
+    nota = " [recortado por falta de bankroll disponible]" if recortado else ""
+    print(f"🧪 PAPER — {username}: {whale_pct:.2f}% -> ${paper_stake:,.2f} en {trade.get('title')}{nota}")
+    log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, odds, recortado)
 
 
 def on_ws_error(ws, error):
