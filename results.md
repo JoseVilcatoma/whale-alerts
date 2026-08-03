@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 02:40:45 (hora de Perú)
+Actualizado: 2026-08-03 02:44:54 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fRibrenlc | 16 | 6 | 10 | 73% |
 | Fallout3 | 16 | 6 | 0 | 73% |
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
-| lllllllIlll | 7 | 3 | 1 | 70% |
+| lllllllIlll | 7 | 3 | 2 | 70% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 396 | 188 | 31 | 68% |
 | VeryLucky888 | 94 | 44 | 33 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
@@ -67,7 +67,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | sbsigner | 38 | 44 | 0 | 46% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 50 | 58 | 7 | 46% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 17 | 21 | 7 | 45% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 17 | 21 | 8 | 45% |
 | jtwyslljy | 8 | 10 | 3 | 44% |
 | pleaseplease123 | 43 | 62 | 0 | 41% |
 | PASSTHEMONEY | 43 | 61 | 0 | 41% |
