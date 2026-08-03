@@ -129754,5 +129754,17 @@
     "usd": 1559.664,
     "odds_at_bet": 32,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785753420,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-ns-t1-2026-08-03-game1",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 1 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 1058.724,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
