@@ -127510,5 +127510,17 @@
     "usd": 1000.0,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785734024,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-glyph-playti-2026-08-03-game1",
+    "title": "Dota 2: GLYPH vs PlayTime - Game 1 Winner",
+    "outcome": "PlayTime",
+    "side": "BUY",
+    "usd": 1999.9999989999997,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
