@@ -126610,5 +126610,77 @@
     "usd": 1446.9984,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785716649,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bos-lad-2026-08-02-total-13pt5",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers: O/U 13.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 3399.66,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785716649,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-lad-2026-08-02-total-13pt5",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers: O/U 13.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 3266.34,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785716655,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-bos-lad-2026-08-02-spread-away-2pt5",
+    "title": "Spread: Boston Red Sox (-2.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 1020.6,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785716656,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-bos-lad-2026-08-02-spread-away-2pt5",
+    "title": "Spread: Boston Red Sox (-2.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 1827.7599990000003,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785716718,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bos-lad-2026-08-02",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 1627.7789999999998,
+    "odds_at_bet": 31,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785716722,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "atp-fritz-jodar-2026-08-02",
+    "title": "Mubadala Citi DC Open: Taylor Fritz vs Rafael Jodar",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 1631.578947,
+    "odds_at_bet": 62,
+    "status": "pending"
   }
 ]
