@@ -128770,5 +128770,17 @@
     "usd": 2556.389,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785748780,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-lgd-1win-2026-08-03-game1",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 2999.9999980000002,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
