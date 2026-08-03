@@ -1,4 +1,10 @@
 {
   "bankroll": 1000.0,
-  "history": []
+  "history": [
+    {
+      "timestamp": 1785799986.554965,
+      "bankroll": 1000.0,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Rune Eaters vs LGD Gaming (BO3) - Games of the Future Playoffs"
+    }
+  ]
 }
