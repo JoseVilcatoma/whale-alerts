@@ -129046,5 +129046,77 @@
     "usd": 1150.92,
     "odds_at_bet": 80,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785749251,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "atp-atmane-draper-2026-08-03",
+    "title": "Canadian Open: Terence Atmane vs Jack Draper",
+    "outcome": "Jack Draper",
+    "side": "SELL",
+    "usd": 1162.5416,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785749334,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-noirve-for10-2026-08-03",
+    "title": "Counter-Strike: Noir Verse vs Fortress (BO3) - ESL Challenger League Europe Cup #2 Group C",
+    "outcome": "Noir Verse",
+    "side": "BUY",
+    "usd": 1097.21,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785749339,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-lgd-1win-2026-08-03-game1",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1128.9213,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785749352,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-lgd-1win-2026-08-03-game1",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1124.2219,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785749368,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-lgd-1win-2026-08-03-game1",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1106.9793,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785749368,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-lgd-1win-2026-08-03-game1",
+    "title": "Dota 2: LGD Gaming vs 1win - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1045.3818999999999,
+    "odds_at_bet": 73,
+    "status": "pending"
   }
 ]
