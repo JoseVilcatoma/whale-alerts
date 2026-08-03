@@ -126190,5 +126190,65 @@
     "usd": 1823.6833330000002,
     "odds_at_bet": 76,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785715435,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-lan-iac-2026-08-02-first-half-total-1pt5",
+    "title": "CA Lan\u00fas vs. Instituto AC C\u00f3rdoba: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 3750.0,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785715519,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-lan-iac-2026-08-02-first-half-total-1pt5",
+    "title": "CA Lan\u00fas vs. Instituto AC C\u00f3rdoba: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2715.8,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785715541,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "arg-riv-ros-2026-08-02-draw",
+    "title": "Will CA River Plate vs. CA Rosario Central end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1152.0,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785715557,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-bos-lad-2026-08-02-total-10pt5",
+    "title": "Boston Red Sox vs. Los Angeles Dodgers: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1189.4399999999998,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785715596,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-lan-iac-2026-08-02-first-half-total-1pt5",
+    "title": "CA Lan\u00fas vs. Instituto AC C\u00f3rdoba: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 3056.2,
+    "odds_at_bet": 74,
+    "status": "pending"
   }
 ]
