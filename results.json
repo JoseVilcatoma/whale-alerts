@@ -131698,5 +131698,113 @@
     "usd": 1412.475,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785761075,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-ns-t1-2026-08-03",
+    "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Nongshim Red Force",
+    "side": "SELL",
+    "usd": 2123.4906,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785761077,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "outcome": "Linda Fruhvirtova",
+    "side": "BUY",
+    "usd": 6460.490400000001,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785761077,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "outcome": "Linda Fruhvirtova",
+    "side": "BUY",
+    "usd": 10016.384644,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785761077,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "outcome": "Katarzyna Kawa",
+    "side": "BUY",
+    "usd": 19999.999999,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785761077,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "outcome": "Linda Fruhvirtova",
+    "side": "BUY",
+    "usd": 6345.130000000001,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785761089,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "outcome": "Linda Fruhvirtova",
+    "side": "BUY",
+    "usd": 4217.92,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785761089,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "outcome": "Linda Fruhvirtova",
+    "side": "BUY",
+    "usd": 6460.490400000001,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785761089,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "outcome": "Katarzyna Kawa",
+    "side": "BUY",
+    "usd": 9467.799999,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785761172,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-navi-shft-2026-08-03-game-handicap-away-1pt5",
+    "title": "Game Handicap: Navi (-1.5) vs Shifters (+1.5)",
+    "outcome": "Shifters",
+    "side": "BUY",
+    "usd": 1547.0282,
+    "odds_at_bet": 58,
+    "status": "pending"
   }
 ]

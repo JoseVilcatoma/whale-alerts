@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 07:44:33 (hora de Perú)
+Actualizado: 2026-08-03 07:47:36 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -34,19 +34,19 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Fallout3 | 16 | 6 | 0 | 73% |
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
 | lllllllIlll | 7 | 3 | 5 | 70% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 396 | 188 | 48 | 68% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 396 | 188 | 49 | 68% |
 | VeryLucky888 | 94 | 45 | 41 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | ninasuskevic | 10 | 5 | 5 | 67% |
-| RN1 | 1128 | 583 | 97 | 66% |
+| RN1 | 1128 | 583 | 98 | 66% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | GoalLineGhost | 185 | 100 | 0 | 65% |
 | BirdMan. | 41 | 24 | 0 | 63% |
 | UpTheBlues | 63 | 39 | 27 | 62% |
 | flatbarrel | 8 | 5 | 2 | 62% |
-| ferrariChampions2026 | 1854 | 1197 | 82 | 61% |
+| ferrariChampions2026 | 1854 | 1197 | 85 | 61% |
 | StasPanda | 13 | 9 | 12 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 108 | 78 | 35 | 58% |
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 1winstreak1 | 50 | 39 | 0 | 56% |
 | meoooow | 17 | 15 | 5 | 53% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 4 | 52% |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 34 | 32 | 15 | 52% |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 34 | 32 | 17 | 52% |
 | wr0ngw4yb3tt0r | 144 | 144 | 0 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
@@ -97,10 +97,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BrightStars | 0 | 0 | 2 | — |
 | MeiGuNiuBi | 0 | 0 | 7 | — |
 | RLXDJ19701601 | 0 | 0 | 2 | — |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 0 | 0 | 20 | — |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 0 | 0 | 21 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 14 | — |
 | 0x0x23kjookhaiuohduoayh8c9 | 0 | 0 | 2 | — |
-| TAIWANNUMBERONE | 0 | 0 | 3 | — |
+| TAIWANNUMBERONE | 0 | 0 | 4 | — |
 | elizabeth.ethcome | 0 | 0 | 1 | — |
 | 0x4f2 | 0 | 0 | 1 | — |
 |  | 0 | 0 | 1 | — |
