@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 14:48:28 (hora de Perú)
+Actualizado: 2026-08-03 14:50:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $117,506.19
@@ -16,7 +16,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | gxxyy | 13 | 0 | 4 | +116,500.17 USD |
 | -..Derick.rose- | 3 | 2 | 187 | +5.31 USD |
 | Corlys | 2 | 1 | 235 | +0.71 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 31 | +0.00 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 33 | +0.00 USD |
+| Djdjdjekekek | 0 | 0 | 3 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -49,3 +50,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | will-baidu-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241595 | -..Derick.rose-, Corlys |
 | will-minimax-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241601 | -..Derick.rose-, Corlys |
 | will-alibaba-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241593 | -..Derick.rose-, Corlys |
+| dota2-re-lgd-2026-08-03-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, gxxyy |
