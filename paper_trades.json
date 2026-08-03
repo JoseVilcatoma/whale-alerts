@@ -8437,5 +8437,41 @@
     "overlaps_with": [
       "gxxyy"
     ]
+  },
+  {
+    "timestamp": 1785786661,
+    "timestamp_added": 1785786662.0930436,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-re-lgd-2026-08-03-game2",
+    "title": "Dota 2: Rune Eaters vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "SELL",
+    "whale_usd": 2292.54,
+    "whale_pct": 3.087,
+    "paper_stake_usd": 3627.61,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "gxxyy"
+    ]
+  },
+  {
+    "timestamp": 1785786739,
+    "timestamp_added": 1785786739.7653837,
+    "username": "pleasedontstopthemusic",
+    "wallet": "0x517fb680c99c7d1e619f9073681e20a68265933f",
+    "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026",
+    "title": "Will Anthropic have the best AI model at the end of December 2026?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 9.999998999999999,
+    "whale_pct": 1.332,
+    "paper_stake_usd": 1564.82,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
   }
 ]
