@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 10:53:07 (hora de Perú)
+Actualizado: 2026-08-03 10:55:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -13,9 +13,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| -..Derick.rose- | 0 | 0 | 178 | +0.00 USD |
+| -..Derick.rose- | 0 | 0 | 189 | +0.00 USD |
 | gxxyy | 0 | 0 | 13 | +0.00 USD |
-| Corlys | 0 | 0 | 172 | +0.00 USD |
+| Corlys | 0 | 0 | 187 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -26,6 +26,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | highest-temperature-in-london-on-august-3-2026-29c | -..Derick.rose-, Corlys |
 | highest-temperature-in-london-on-august-3-2026-31c | -..Derick.rose-, Corlys |
 |  | -..Derick.rose-, Corlys |
+| highest-temperature-in-nyc-on-august-3-2026-84-85f | -..Derick.rose-, Corlys |
+| highest-temperature-in-nyc-on-august-3-2026-78-79f | -..Derick.rose-, Corlys |
+| highest-temperature-in-nyc-on-august-3-2026-82-83f | -..Derick.rose-, Corlys |
+| highest-temperature-in-nyc-on-august-3-2026-86-87f | -..Derick.rose-, Corlys |
+| highest-temperature-in-nyc-on-august-3-2026-80-81f | -..Derick.rose-, Corlys |
+| highest-temperature-in-nyc-on-august-3-2026-88-89f | -..Derick.rose-, Corlys |
 | highest-temperature-in-munich-on-august-4-2026-37c | -..Derick.rose-, Corlys |
 | highest-temperature-in-munich-on-august-4-2026-40corhigher | -..Derick.rose-, Corlys |
 | highest-temperature-in-munich-on-august-4-2026-33c | -..Derick.rose-, Corlys |
