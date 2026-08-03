@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 05:51:17 (hora de Perú)
+Actualizado: 2026-08-03 05:55:08 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -12,7 +12,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fazewinline | 9 | 0 | 5 | 100% |
 | Pwaddler | 5 | 0 | 0 | ⚠️ 100% (muestra chica: 5) |
 | THEdirkdiggler | 3 | 0 | 1 | ⚠️ 100% (muestra chica: 3) |
-| matenghehe | 28 | 0 | 11 | 100% |
+| matenghehe | 28 | 0 | 12 | 100% |
 | LeatherPants | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | patient12 | 14 | 0 | 10 | 100% |
@@ -71,7 +71,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | jtwyslljy | 8 | 10 | 5 | 44% |
 | pleaseplease123 | 43 | 62 | 0 | 41% |
 | PASSTHEMONEY | 43 | 61 | 3 | 41% |
-| esportGG | 52 | 76 | 20 | 41% |
+| esportGG | 52 | 76 | 21 | 41% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
