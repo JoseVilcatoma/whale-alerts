@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 04:29:55 (hora de Perú)
+Actualizado: 2026-08-03 04:32:37 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Fallout3 | 16 | 6 | 0 | 73% |
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
 | lllllllIlll | 7 | 3 | 5 | 70% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 396 | 188 | 39 | 68% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 396 | 188 | 40 | 68% |
 | VeryLucky888 | 94 | 44 | 36 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
@@ -98,4 +98,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | MeiGuNiuBi | 0 | 0 | 7 | — |
 | RLXDJ19701601 | 0 | 0 | 2 | — |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 0 | 0 | 2 | — |
-| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 2 | — |
+| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 5 | — |
