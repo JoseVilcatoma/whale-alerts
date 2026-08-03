@@ -130318,5 +130318,113 @@
     "usd": 3353.3720000000003,
     "odds_at_bet": 88,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785755329,
+    "username": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+    "wallet": "0x7986576408b65a9805ac85553be33ad0b044baa5",
+    "slug": "lol-ns-t1-2026-08-03",
+    "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 2978.3131,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755373,
+    "username": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+    "wallet": "0x7986576408b65a9805ac85553be33ad0b044baa5",
+    "slug": "lol-ns-t1-2026-08-03",
+    "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 1348.275,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755410,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-gen-hle1-2026-08-03-game2",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "SELL",
+    "usd": 7046.30664,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755419,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-gen-hle1-2026-08-03-game1",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "SELL",
+    "usd": 9559.77066,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755419,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-ns-t1-2026-08-03-game1",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "SELL",
+    "usd": 1762.0861499999999,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755423,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-paszun-falkows-2026-08-03",
+    "title": "Warsaw: Amelia Paszun vs Weronika Falkowska",
+    "outcome": "Weronika Falkowska",
+    "side": "BUY",
+    "usd": 1502.349993,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755426,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-bro1-foxy-2026-08-03-game1",
+    "title": "LoL: HANJIN BRION Challengers vs BNK FearX Youth - Game 1 Winner",
+    "outcome": "BNK FearX Youth",
+    "side": "SELL",
+    "usd": 3980.55546,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755428,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-xtreme-tr7-2026-08-03-game2",
+    "title": "Dota 2: Xtreme Gaming vs Team Resilience - Game 2 Winner",
+    "outcome": "Xtreme Gaming",
+    "side": "BUY",
+    "usd": 9999.999998999998,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785755428,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "dota2-xtreme-tr7-2026-08-03-game2",
+    "title": "Dota 2: Xtreme Gaming vs Team Resilience - Game 2 Winner",
+    "outcome": "Team Resilience",
+    "side": "BUY",
+    "usd": 6933.030507999999,
+    "odds_at_bet": 41,
+    "status": "pending"
   }
 ]
