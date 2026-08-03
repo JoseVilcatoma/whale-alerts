@@ -129250,5 +129250,29 @@
     "usd": 2091.7712,
     "odds_at_bet": 73,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785751978,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "dota2-xtreme-tr7-2026-08-03-game1",
+    "title": "Dota 2: Xtreme Gaming vs Team Resilience - Game 1 Winner",
+    "outcome": "Xtreme Gaming",
+    "side": "BUY",
+    "usd": 2088.6299999999997,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785751982,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "dota2-xtreme-tr7-2026-08-03-game1",
+    "title": "Dota 2: Xtreme Gaming vs Team Resilience - Game 1 Winner",
+    "outcome": "Xtreme Gaming",
+    "side": "BUY",
+    "usd": 2225.806451,
+    "odds_at_bet": 69,
+    "status": "pending"
   }
 ]
