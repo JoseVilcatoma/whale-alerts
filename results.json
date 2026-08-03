@@ -128350,5 +128350,17 @@
     "usd": 1180.14,
     "odds_at_bet": 34,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785745299,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "dota2-glyph-playti-2026-08-03",
+    "title": "Dota 2: GLYPH vs PlayTime (BO3) - Games of the Future Playoffs",
+    "outcome": "PlayTime",
+    "side": "BUY",
+    "usd": 9773.1612,
+    "odds_at_bet": 66,
+    "status": "pending"
   }
 ]
