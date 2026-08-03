@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 15:12:53 (hora de Perú)
+Actualizado: 2026-08-03 15:15:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $117,506.19
@@ -13,10 +13,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| gxxyy | 13 | 0 | 13 | +116,500.17 USD |
-| -..Derick.rose- | 3 | 2 | 225 | +5.31 USD |
-| Corlys | 2 | 1 | 300 | +0.71 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 46 | +0.00 USD |
+| gxxyy | 13 | 0 | 31 | +116,500.17 USD |
+| -..Derick.rose- | 3 | 2 | 228 | +5.31 USD |
+| Corlys | 2 | 1 | 334 | +0.71 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 50 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 3 | +0.00 USD |
 | pleasedontstopthemusic | 0 | 0 | 1 | +0.00 USD |
 | Pwaddler | 0 | 0 | 3 | +0.00 USD |
