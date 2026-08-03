@@ -127822,5 +127822,29 @@
     "usd": 4400.0,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785740586,
+    "username": "MeiGuNiuBi",
+    "wallet": "0xdd882a70680633a75516f6ed5fce443e2d96dadb",
+    "slug": "lol-gen-hle1-2026-08-03",
+    "title": "LoL: Gen.G vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 2639.9934,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785740618,
+    "username": "fazewinline",
+    "wallet": "0x1d3567ad67b1f054160f9d560ca3817038cc94ee",
+    "slug": "dota2-glyph-playti-2026-08-03",
+    "title": "Dota 2: GLYPH vs PlayTime (BO3) - Games of the Future Playoffs",
+    "outcome": "PlayTime",
+    "side": "BUY",
+    "usd": 1999.9999989999997,
+    "odds_at_bet": 77,
+    "status": "pending"
   }
 ]
