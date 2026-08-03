@@ -4594,5 +4594,22 @@
     "overlaps_with": [
       "Corlys"
     ]
+  },
+  {
+    "timestamp": 1785770901,
+    "timestamp_added": 1785770901.4539585,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-nyc-on-august-3-2026-80-81f",
+    "title": "Will the highest temperature in New York City be between 80-81\u00b0F on August 3?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 3.0,
+    "whale_pct": 0.133,
+    "paper_stake_usd": 1.33,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
   }
 ]
