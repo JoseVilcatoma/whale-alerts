@@ -7002,5 +7002,22 @@
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": []
+  },
+  {
+    "timestamp": 1785773212,
+    "timestamp_added": 1785773212.8306603,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-paris-on-august-4-2026-31c",
+    "title": "Will the highest temperature in Paris be 31\u00b0C on August 4?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 2.7800000000000002,
+    "whale_pct": 0.127,
+    "paper_stake_usd": 1.27,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": []
   }
 ]
