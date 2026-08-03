@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-03 02:12:00 (hora de Perú)
+Actualizado: 2026-08-03 02:14:04 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -23,7 +23,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 63 | 9 | 1 | 88% |
 | TopGleaguepick | 14 | 2 | 0 | 88% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
-| swisstony | 715 | 153 | 65 | 82% |
+| swisstony | 715 | 153 | 66 | 82% |
 | one8tyfive | 41 | 12 | 6 | 77% |
 | fkgggg2mouzfuria | 95 | 29 | 0 | 77% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 108 | 78 | 21 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 1 | 57% |
 | HomeRunHazard | 273 | 202 | 17 | 57% |
-| StasPanda | 12 | 9 | 6 | 57% |
+| StasPanda | 12 | 9 | 8 | 57% |
 | 1winstreak1 | 50 | 39 | 0 | 56% |
 | us391 | 23 | 18 | 1 | 56% |
 | meoooow | 17 | 15 | 0 | 53% |
@@ -67,7 +67,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | sbsigner | 38 | 44 | 0 | 46% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 50 | 58 | 7 | 46% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 17 | 21 | 5 | 45% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 17 | 21 | 6 | 45% |
 | jtwyslljy | 8 | 10 | 3 | 44% |
 | pleaseplease123 | 43 | 62 | 0 | 41% |
 | PASSTHEMONEY | 43 | 61 | 0 | 41% |
