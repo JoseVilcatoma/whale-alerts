@@ -129994,5 +129994,29 @@
     "usd": 10550.707300000002,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785754218,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-micic-podrez-2026-08-03",
+    "title": "Warsaw: Elena Micic vs Veronika Podrez",
+    "outcome": "Elena Micic",
+    "side": "BUY",
+    "usd": 1708.314516,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785754249,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-ns-t1-2026-08-03",
+    "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 2857.1399979999997,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
