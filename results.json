@@ -132502,5 +132502,77 @@
     "usd": 5320.8921,
     "odds_at_bet": 67,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785835403,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-kcb-vitb-2026-08-04",
+    "title": "LoL: Karmine Corp Blue vs Vitality.Bee (BO1) - LFL Regular Season",
+    "outcome": "Karmine Corp Blue",
+    "side": "BUY",
+    "usd": 3466.2128,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785835441,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-gomez-squire-2026-08-03",
+    "title": "Hagen: Federico Agustin Gomez vs Henri Squire",
+    "outcome": "Henri Squire",
+    "side": "BUY",
+    "usd": 7019.0809,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785835441,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-gomez-squire-2026-08-03",
+    "title": "Hagen: Federico Agustin Gomez vs Henri Squire",
+    "outcome": "Henri Squire",
+    "side": "BUY",
+    "usd": 3019.824,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785835441,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-gomez-squire-2026-08-03",
+    "title": "Hagen: Federico Agustin Gomez vs Henri Squire",
+    "outcome": "Henri Squire",
+    "side": "BUY",
+    "usd": 1620.128925,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785835441,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-gomez-squire-2026-08-03",
+    "title": "Hagen: Federico Agustin Gomez vs Henri Squire",
+    "outcome": "Henri Squire",
+    "side": "BUY",
+    "usd": 3021.99378,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785835441,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "atp-gomez-squire-2026-08-03",
+    "title": "Hagen: Federico Agustin Gomez vs Henri Squire",
+    "outcome": "Federico Agustin Gomez",
+    "side": "BUY",
+    "usd": 9999.999999999998,
+    "odds_at_bet": 39,
+    "status": "pending"
   }
 ]
