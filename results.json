@@ -134722,5 +134722,29 @@
     "usd": 2165.9997,
     "odds_at_bet": 69,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785841145,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-justpl-enjoy-2026-08-04-map-handicap-away-1pt5",
+    "title": "Map Handicap: JustP (-1.5) vs ENJOY (+1.5)",
+    "outcome": "ENJOY",
+    "side": "BUY",
+    "usd": 1206.6304,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841157,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "clf-jej-bmu-2026-08-04-total-2pt5",
+    "title": "Jeju SK FC vs. Bayern Munich: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 2253.9195,
+    "odds_at_bet": 85,
+    "status": "pending"
   }
 ]
