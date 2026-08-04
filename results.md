@@ -1,12 +1,12 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 18:37:00 (hora de Perú)
+Actualizado: 2026-08-04 18:39:06 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
-| QuietRiskisWrong | 8 | 0 | 30 | 100% |
+| QuietRiskisWrong | 8 | 0 | 31 | 100% |
 | Melody626 | 1 | 0 | 18 | ⚠️ 100% (muestra chica: 1) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 63 | 10 | 2 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | elizabeth.ethcome | 12 | 2 | 0 | 86% |
-| swisstony | 726 | 156 | 94 | 82% |
+| swisstony | 726 | 156 | 95 | 82% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | one8tyfive | 44 | 14 | 7 | 76% |
 | fkgggg2mouzfuria | 95 | 30 | 0 | 76% |
@@ -41,15 +41,15 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | BirdMan. | 48 | 24 | 8 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
-| RN1 | 1212 | 641 | 150 | 65% |
+| RN1 | 1212 | 641 | 151 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 31 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 112 | 63 | 46 | 64% |
-| UpTheBlues | 67 | 40 | 51 | 63% |
+| UpTheBlues | 67 | 40 | 52 | 63% |
 | flatbarrel | 10 | 6 | 4 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 182 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 185 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 70 | 61% |
 | fRibrenlc | 21 | 14 | 2 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
@@ -94,7 +94,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 111111111115 | 11 | 37 | 1 | 23% |
 | Anjun | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
-| AV23IUa | 4 | 19 | 1 | 17% |
+| AV23IUa | 4 | 19 | 2 | 17% |
 | plonker2026 | 4 | 30 | 0 | 12% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | neurodivergentBet | 0 | 4 | 0 | ⚠️ 0% (muestra chica: 4) |
@@ -102,7 +102,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
-| 0x4f2 | 0 | 2 | 10 | ⚠️ 0% (muestra chica: 2) |
+| 0x4f2 | 0 | 2 | 12 | ⚠️ 0% (muestra chica: 2) |
 | CORGI8 | 0 | 6 | 0 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
@@ -114,7 +114,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | flawfence | 0 | 0 | 3 | — |
 | chanello | 0 | 0 | 2 | — |
 | LlamaLoco0000 | 0 | 0 | 1 | — |
-| JhonAlexanderHinestroza | 0 | 0 | 6 | — |
-| xifutloong3 | 0 | 0 | 2 | — |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | — |
+| JhonAlexanderHinestroza | 0 | 0 | 7 | — |
+| xifutloong3 | 0 | 0 | 4 | — |
+| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 2 | — |
 | mentionmarket | 0 | 0 | 1 | — |
