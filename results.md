@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 18:24:57 (hora de Perú)
+Actualizado: 2026-08-04 18:28:53 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | BirdMan. | 48 | 24 | 8 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
-| RN1 | 1212 | 641 | 142 | 65% |
+| RN1 | 1212 | 641 | 148 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 29 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -49,23 +49,23 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 112 | 63 | 43 | 64% |
 | UpTheBlues | 67 | 40 | 50 | 63% |
 | flatbarrel | 10 | 6 | 4 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 166 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 176 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 70 | 61% |
 | fRibrenlc | 21 | 14 | 2 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 2 | 58% |
-| HomeRunHazard | 300 | 216 | 114 | 58% |
+| HomeRunHazard | 300 | 216 | 122 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 11 | 57% |
 | us391 | 27 | 20 | 3 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
 | MeiGuNiuBi | 4 | 3 | 0 | ⚠️ 57% (muestra chica: 7) |
-| 1winstreak1 | 50 | 39 | 2 | 56% |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 18 | 14 | 4 | 56% |
+| 1winstreak1 | 50 | 39 | 5 | 56% |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 18 | 14 | 5 | 56% |
 | lllllllIlll | 9 | 8 | 1 | 53% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 34 | 52% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 31 | 30 | 8 | 51% |
-| wr0ngw4yb3tt0r | 144 | 144 | 22 | 50% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 31 | 30 | 9 | 51% |
+| wr0ngw4yb3tt0r | 144 | 144 | 30 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
 | SDTrading | 3 | 3 | 4 | ⚠️ 50% (muestra chica: 6) |
@@ -86,7 +86,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 30 | 1 | 39% |
 | Talvez10 | 17 | 30 | 8 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
-| Flipadelphia | 9 | 18 | 7 | 33% |
+| Flipadelphia | 9 | 18 | 8 | 33% |
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | TAIWANNUMBERONE | 3 | 6 | 1 | 33% |
 | jtwyslljy | 9 | 20 | 0 | 31% |
@@ -102,7 +102,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
-| 0x4f2 | 0 | 2 | 4 | ⚠️ 0% (muestra chica: 2) |
+| 0x4f2 | 0 | 2 | 6 | ⚠️ 0% (muestra chica: 2) |
 | CORGI8 | 0 | 6 | 0 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
@@ -117,3 +117,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | JhonAlexanderHinestroza | 0 | 0 | 5 | — |
 | xifutloong3 | 0 | 0 | 2 | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | — |
+| mentionmarket | 0 | 0 | 1 | — |
