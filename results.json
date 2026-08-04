@@ -135574,5 +135574,17 @@
     "usd": 5688.200000000001,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785844287,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-galan-georgie-2026-08-04",
+    "title": "Plovdiv 2: Daniel Galan vs Georgi Georgiev",
+    "outcome": "Daniel Galan",
+    "side": "BUY",
+    "usd": 1594.319996,
+    "odds_at_bet": 91,
+    "status": "pending"
   }
 ]

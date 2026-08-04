@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 06:46:56 (hora de Perú)
+Actualizado: 2026-08-04 06:52:24 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -20,7 +20,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 0 | 100% |
 | RLXDJ19701601 | 2 | 0 | 0 | ⚠️ 100% (muestra chica: 2) |
 | elizabeth.ethcome | 1 | 0 | 8 | ⚠️ 100% (muestra chica: 1) |
-|  | 1 | 0 | 4 | ⚠️ 100% (muestra chica: 1) |
+|  | 1 | 0 | 5 | ⚠️ 100% (muestra chica: 1) |
 | matenghehe | 57 | 2 | 17 | 97% |
 | paquitomillonario | 16 | 1 | 0 | 94% |
 | texaskid | 16 | 1 | 0 | 94% |
