@@ -136810,5 +136810,53 @@
     "usd": 4994.9900099999995,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785848215,
+    "username": "0way",
+    "wallet": "0x56b957b03305378167aba6c163941d4b582979a2",
+    "slug": "lol-bro2-drx-2026-08-04",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 2050.0,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785848215,
+    "username": "jtwyslljy",
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "slug": "lol-bro2-drx-2026-08-04",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "HANJIN BRION",
+    "side": "SELL",
+    "usd": 5722.939899999999,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785848237,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Linda Klimovicova",
+    "side": "BUY",
+    "usd": 2028.239999,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785848238,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Elizara Yaneva",
+    "side": "BUY",
+    "usd": 5154.429,
+    "odds_at_bet": 72,
+    "status": "pending"
   }
 ]

@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 07:55:46 (hora de Perú)
+Actualizado: 2026-08-04 07:58:19 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
-| RN1 | 1163 | 608 | 102 | 66% |
+| RN1 | 1163 | 608 | 103 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 413 | 218 | 10 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | GoalLineGhost | 185 | 100 | 12 | 65% |
 | VeryLucky888 | 112 | 62 | 12 | 64% |
 | BirdMan. | 41 | 24 | 3 | 63% |
-| ferrariChampions2026 | 1905 | 1217 | 85 | 61% |
+| ferrariChampions2026 | 1905 | 1217 | 86 | 61% |
 | UpTheBlues | 63 | 40 | 30 | 61% |
 | fRibrenlc | 21 | 14 | 0 | 60% |
 | flatbarrel | 9 | 6 | 1 | 60% |
@@ -80,7 +80,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | pleaseplease123 | 43 | 63 | 0 | 41% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 29 | 2 | 40% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
-| jtwyslljy | 9 | 14 | 5 | 39% |
+| jtwyslljy | 9 | 14 | 6 | 39% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 7 | 13 | 13 | 35% |
@@ -96,7 +96,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | neurodivergentBet | 0 | 4 | 0 | ⚠️ 0% (muestra chica: 4) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
-| 0way | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
+| 0way | 0 | 7 | 1 | ⚠️ 0% (muestra chica: 7) |
 | beachboy4 | 0 | 9 | 0 | 0% |
 | 0x4f2 | 0 | 1 | 1 | ⚠️ 0% (muestra chica: 1) |
 | balthazar | 0 | 0 | 17 | — |
