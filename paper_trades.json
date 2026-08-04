@@ -4433,5 +4433,41 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785868370,
+    "timestamp_added": 1785868370.61312,
+    "username": "betterfasterstronger",
+    "wallet": "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c",
+    "slug": "will-han-feng-win-the-2026-wsop-main-event-20260714164320768",
+    "title": "Will Han Feng Win the 2026 WSOP Main Event?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 4.640000000000001,
+    "whale_pct": 0.157,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 23,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785868372,
+    "timestamp_added": 1785868372.864601,
+    "username": "betterfasterstronger",
+    "wallet": "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c",
+    "slug": "highest-temperature-in-denver-on-august-4-2026-78-79f",
+    "title": "Will the highest temperature in Denver be between 78-79\u00b0F on August 4?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 4.32,
+    "whale_pct": 0.146,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
