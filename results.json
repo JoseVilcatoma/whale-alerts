@@ -134158,5 +134158,77 @@
     "usd": 1499.9999990000001,
     "odds_at_bet": 43,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785839607,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-ewald-mikulsk-2026-08-03",
+    "title": "Warsaw: Weronika Ewald vs Justina Mikulskyte",
+    "outcome": "Justina Mikulskyte",
+    "side": "BUY",
+    "usd": 1097.3799789999998,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785839618,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-monteir-gentzsc-2026-08-04",
+    "title": "Hagen: Thiago Monteiro vs Tom Gentzsch",
+    "outcome": "Thiago Monteiro",
+    "side": "BUY",
+    "usd": 3682.1440000000002,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785839618,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-monteir-gentzsc-2026-08-04",
+    "title": "Hagen: Thiago Monteiro vs Tom Gentzsch",
+    "outcome": "Thiago Monteiro",
+    "side": "BUY",
+    "usd": 1600.0,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785839636,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-monteir-gentzsc-2026-08-04",
+    "title": "Hagen: Thiago Monteiro vs Tom Gentzsch",
+    "outcome": "Thiago Monteiro",
+    "side": "BUY",
+    "usd": 1475.52,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785839665,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-genga-hle-2026-08-04",
+    "title": "LoL: Gen.G Global Academy vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+    "outcome": "Hanwha Life Esports Challengers",
+    "side": "SELL",
+    "usd": 19980.629370000002,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785839668,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-jej-bmu-2026-08-04-total-3pt5",
+    "title": "Jeju SK FC vs. Bayern Munich: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1270.0002,
+    "odds_at_bet": 69,
+    "status": "pending"
   }
 ]

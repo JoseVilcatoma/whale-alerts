@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 05:32:44 (hora de Perú)
+Actualizado: 2026-08-04 05:34:53 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -19,7 +19,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | highnetworth | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 0 | 100% |
 | RLXDJ19701601 | 2 | 0 | 0 | ⚠️ 100% (muestra chica: 2) |
-| elizabeth.ethcome | 1 | 0 | 1 | ⚠️ 100% (muestra chica: 1) |
+| elizabeth.ethcome | 1 | 0 | 2 | ⚠️ 100% (muestra chica: 1) |
 |  | 1 | 0 | 2 | ⚠️ 100% (muestra chica: 1) |
 | matenghehe | 57 | 2 | 11 | 97% |
 | paquitomillonario | 16 | 1 | 0 | 94% |
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | TopGleaguepick | 14 | 2 | 0 | 88% |
 | cigarettes | 63 | 10 | 1 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
-| swisstony | 721 | 154 | 66 | 82% |
+| swisstony | 721 | 154 | 67 | 82% |
 | fkgggg2mouzfuria | 95 | 29 | 0 | 77% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | one8tyfive | 44 | 14 | 1 | 76% |
@@ -38,21 +38,21 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
-| RN1 | 1163 | 608 | 59 | 66% |
+| RN1 | 1163 | 608 | 60 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 413 | 218 | 6 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
-| GoalLineGhost | 185 | 100 | 5 | 65% |
+| GoalLineGhost | 185 | 100 | 6 | 65% |
 | VeryLucky888 | 112 | 62 | 8 | 64% |
 | BirdMan. | 41 | 24 | 0 | 63% |
-| ferrariChampions2026 | 1905 | 1217 | 47 | 61% |
+| ferrariChampions2026 | 1905 | 1217 | 48 | 61% |
 | UpTheBlues | 63 | 40 | 28 | 61% |
 | fRibrenlc | 21 | 14 | 0 | 60% |
 | flatbarrel | 9 | 6 | 0 | 60% |
 | us391 | 27 | 18 | 0 | 60% |
 | lllllllIlll | 9 | 6 | 2 | 60% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 23 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 24 | 59% |
 | meoooow | 22 | 15 | 0 | 59% |
 | StasPanda | 20 | 14 | 3 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
