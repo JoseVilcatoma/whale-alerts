@@ -50,6 +50,7 @@ import socket
 import sys
 import threading
 import time
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
@@ -79,6 +80,7 @@ TOP_N_CANDIDATES = int(os.environ.get("TOP_N_CANDIDATES", "20"))
 TOP_K_REPLICATE = int(os.environ.get("TOP_K_REPLICATE", "5"))
 MIN_TRADE_PCT = float(os.environ.get("MIN_TRADE_PCT", "0.1"))
 MIN_WHALE_PORTFOLIO = float(os.environ.get("MIN_WHALE_PORTFOLIO", "2000"))
+MAX_DAYS_TO_RESOLUTION = float(os.environ.get("MAX_DAYS_TO_RESOLUTION", "5"))  # ignora mercados que resuelven más lejos que esto
 LB_CATEGORY = os.environ.get("LB_CATEGORY", "OVERALL")
 LB_PERIODS = ["WEEK", "MONTH"]
 
@@ -154,6 +156,24 @@ def get_market(slug, max_age=300):
         m = None
     _market_cache[slug] = (m, time.time())
     return m
+
+
+def days_to_resolution(market):
+    """Cuántos días faltan para que el mercado resuelva, según su fecha de
+    cierre esperada. Si no se puede determinar, devuelve None (y en ese
+    caso se deja pasar la apuesta, para no perdernos algo válido por un
+    dato faltante)."""
+    if not market:
+        return None
+    end = market.get("endDate") or market.get("endDateIso") or market.get("end_date")
+    if not end:
+        return None
+    try:
+        end_dt = datetime.fromisoformat(end.replace("Z", "+00:00"))
+        now_dt = datetime.now(timezone.utc)
+        return (end_dt - now_dt).total_seconds() / 86400
+    except Exception:
+        return None
 
 
 def market_result(market, outcome):
@@ -429,6 +449,13 @@ def on_ws_message(ws, message):
 
     username = watched.get(wallet, "anon")
     odds = round((trade.get("price") or 0) * 100)
+
+    market = get_market(trade.get("slug"))
+    days_left = days_to_resolution(market)
+    if days_left is not None and days_left > MAX_DAYS_TO_RESOLUTION:
+        print(f"🧪 PAPER — {username}: se ignora, el mercado resuelve en ~{days_left:.0f} días "
+              f"(más del límite de {MAX_DAYS_TO_RESOLUTION:.0f}) — {trade.get('title')}")
+        return
 
     with lock:
         allocated = sum(tr["paper_stake_usd"] for tr in trades if tr["status"] == "pending")
