@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 05:26:29 (hora de Perú)
+Actualizado: 2026-08-04 05:28:30 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -72,7 +72,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 26 | 27 | 5 | 49% |
 | AnonymousUsername | 32 | 35 | 0 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 40 | 43 | 3 | 48% |
-| esportGG | 77 | 85 | 3 | 48% |
+| esportGG | 77 | 85 | 6 | 48% |
 | sbsigner | 38 | 44 | 0 | 46% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 71 | 87 | 2 | 45% |

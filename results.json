@@ -134026,5 +134026,41 @@
     "usd": 1150.67,
     "odds_at_bet": 10,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785839264,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "dota2-playti-tr7-2026-08-04",
+    "title": "Dota 2: PlayTime vs Team Resilience (BO3) - Games of the Future Playoffs",
+    "outcome": "PlayTime",
+    "side": "BUY",
+    "usd": 7174.5617999999995,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785839269,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "dota2-bb4-og-2026-08-04-game2",
+    "title": "Dota 2: BetBoom Team vs OG - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 2777.360127,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785839293,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "dota2-bb4-og-2026-08-04-game2",
+    "title": "Dota 2: BetBoom Team vs OG - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 1059.736206,
+    "odds_at_bet": 71,
+    "status": "pending"
   }
 ]
