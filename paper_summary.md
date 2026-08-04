@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 11:58:10 (hora de Perú)
+Actualizado: 2026-08-04 12:00:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $449.82
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
 | Corlys | 0 | 0 | 73 | +0.00 USD |
 | betterfasterstronger | 0 | 0 | 3 | +0.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 25 | +0.00 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 30 | +0.00 USD |
 | CORGI8 | 0 | 5 | 5 | -550.18 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -30,6 +30,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 37% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 37% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 37% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 37% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | betterfasterstronger | Will the highest temperature in Hong Kon | Yes (SELL) | 41% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 37% | 0.00 | ⏳ pendiente | — |
@@ -45,11 +50,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 37% | 0.00 | ⏳ pendiente | — |
