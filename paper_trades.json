@@ -18526,5 +18526,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785818332,
+    "timestamp_added": 1785818333.1759331,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-damm-tsitsip-2026-08-03",
+    "title": "National Bank Open: Martin Damm vs Stefanos Tsitsipas",
+    "outcome": "Stefanos Tsitsipas",
+    "side": "BUY",
+    "whale_usd": 306.486486,
+    "whale_pct": 0.556,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
