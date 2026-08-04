@@ -135766,5 +135766,29 @@
     "usd": 1220.0,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785845019,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-monteir-gentzsc-2026-08-04",
+    "title": "Hagen: Thiago Monteiro vs Tom Gentzsch",
+    "outcome": "Tom Gentzsch",
+    "side": "BUY",
+    "usd": 1013.4115549999999,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785845022,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-bb4-og-2026-08-04",
+    "title": "Dota 2: BetBoom Team vs OG (BO3) - 1win Essence Playoffs",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 2999.9999989999997,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]
