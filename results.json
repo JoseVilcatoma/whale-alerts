@@ -135526,5 +135526,41 @@
     "usd": 1913.439,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785843826,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-bw-leo2-2026-08-04",
+    "title": "Counter-Strike: Bushido Wildcats vs Leo Team (BO3) - ESL Challenger League Europe Cup #2 Playoffs",
+    "outcome": "Leo Team",
+    "side": "BUY",
+    "usd": 3705.795,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785843826,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-bw-leo2-2026-08-04",
+    "title": "Counter-Strike: Bushido Wildcats vs Leo Team (BO3) - ESL Challenger League Europe Cup #2 Playoffs",
+    "outcome": "Bushido Wildcats",
+    "side": "BUY",
+    "usd": 4039.155,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785843827,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-podlins-valdman-2026-08-04",
+    "title": "Warsaw: Marcelina Podlinska vs Vendula Valdmannova",
+    "outcome": "Vendula Valdmannova",
+    "side": "BUY",
+    "usd": 2596.9122089999996,
+    "odds_at_bet": 96,
+    "status": "pending"
   }
 ]
