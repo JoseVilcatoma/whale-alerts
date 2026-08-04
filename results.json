@@ -143074,5 +143074,77 @@
     "usd": 1227.2649999999999,
     "odds_at_bet": 65,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785880799,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-friend-smith-2026-08-03",
+    "title": "Lexington: Jay Dylan Friend vs Colton Smith",
+    "outcome": "Jay Dylan Friend",
+    "side": "BUY",
+    "usd": 1275.0,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880810,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "brco-juv-cam-2026-08-04-first-half-total-1pt5",
+    "title": "EC Juventude vs. CA Mineiro: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 3232.5,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880818,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "brco-juv-cam-2026-08-04-cam",
+    "title": "Will CA Mineiro win on 2026-08-04?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1620.77,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880873,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-friend-smith-2026-08-03",
+    "title": "Lexington: Jay Dylan Friend vs Colton Smith",
+    "outcome": "Jay Dylan Friend",
+    "side": "BUY",
+    "usd": 2250.0,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880883,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-loge-agameno-2026-08-03",
+    "title": "Plovdiv 2: Jack Loge vs Franco Agamenone",
+    "outcome": "Franco Agamenone",
+    "side": "BUY",
+    "usd": 1965.3304,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880911,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-rakhimo-siniako-2026-08-04",
+    "title": "National Bank Open: Kamilla Rakhimova vs Katerina Siniakova",
+    "outcome": "Kamilla Rakhimova",
+    "side": "BUY",
+    "usd": 2137.452336,
+    "odds_at_bet": 31,
+    "status": "pending"
   }
 ]

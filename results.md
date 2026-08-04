@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 16:59:50 (hora de Perú)
+Actualizado: 2026-08-04 17:02:32 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -41,15 +41,15 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | BirdMan. | 48 | 24 | 7 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
-| RN1 | 1212 | 641 | 98 | 65% |
+| RN1 | 1212 | 641 | 99 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 17 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 112 | 63 | 32 | 64% |
-| UpTheBlues | 67 | 40 | 36 | 63% |
+| UpTheBlues | 67 | 40 | 37 | 63% |
 | flatbarrel | 10 | 6 | 2 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 107 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 111 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 43 | 61% |
 | fRibrenlc | 21 | 14 | 1 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
