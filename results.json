@@ -139450,5 +139450,113 @@
     "usd": 2961.229965,
     "odds_at_bet": 98,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785874705,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "brco-juv-cam-2026-08-04-btts",
+    "title": "EC Juventude vs. CA Mineiro: Both Teams to Score",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1112.31348,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785874713,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "uel-shr-egn-2026-08-06-egn",
+    "title": "Will KF Egnatia Rrogozhin\u00eb win on 2026-08-06?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1484.029791,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785874718,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "uel-shr-egn-2026-08-06-egn",
+    "title": "Will KF Egnatia Rrogozhin\u00eb win on 2026-08-06?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1484.029791,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785874732,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-cobolli-hanfman-2026-08-04",
+    "title": "National Bank Open: Flavio Cobolli vs Yannick Hanfmann",
+    "outcome": "Yannick Hanfmann",
+    "side": "BUY",
+    "usd": 3065.1038000000003,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785874732,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-cobolli-hanfman-2026-08-04",
+    "title": "National Bank Open: Flavio Cobolli vs Yannick Hanfmann",
+    "outcome": "Flavio Cobolli",
+    "side": "BUY",
+    "usd": 10393.810000000001,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785874770,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "isl1-haf-krr-2026-08-05-total-0pt5",
+    "title": "FH Hafnarfjordur vs. KR Reykjavik: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1617.0,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785874774,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-ruzic-keys-2026-08-04",
+    "title": "National Bank Open: Antonia Ruzic vs Madison Keys",
+    "outcome": "Antonia Ruzic",
+    "side": "BUY",
+    "usd": 1142.55,
+    "odds_at_bet": 15,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785874779,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-sonego-grieksp-2026-08-03",
+    "title": "Canadian Open: Lorenzo Sonego vs Tallon Griekspoor",
+    "outcome": "Tallon Griekspoor",
+    "side": "BUY",
+    "usd": 2520.0000000000005,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785874813,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "uel-lar-sab-2026-08-06-sab",
+    "title": "Will SK Iberia 1999 win on 2026-08-06?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1353.73,
+    "odds_at_bet": 83,
+    "status": "pending"
   }
 ]
