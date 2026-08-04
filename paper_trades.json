@@ -4487,5 +4487,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785868961,
+    "timestamp_added": 1785868962.3770952,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "brco-juv-cam-2026-08-04-juv",
+    "title": "Will EC Juventude win on 2026-08-04?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 81.19999999999999,
+    "whale_pct": 0.143,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
