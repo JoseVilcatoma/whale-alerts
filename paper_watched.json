@@ -4,24 +4,24 @@
     "added_at": 1785807736.170858,
     "roi_pct": 242.76
   },
-  "0x9f2fe025f84839ca81dd8e0338892605702d2ca8": {
-    "username": "surfandturf",
-    "added_at": 1785812539.9152858,
-    "roi_pct": 157.31
-  },
-  "0xdb859a551fcf56e49416160911476bea7307152f": {
-    "username": "AV23IUa",
-    "added_at": 1785816594.213875,
-    "roi_pct": 175.24
-  },
   "0x204f72f35326db932158cba6adff0b9a1da95e14": {
     "username": "swisstony",
     "added_at": 1785817632.5674555,
-    "roi_pct": 195.21
+    "roi_pct": 191.63
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1785818535.8538215,
-    "roi_pct": 367.99
+    "roi_pct": 346.12
+  },
+  "0x7986576408b65a9805ac85553be33ad0b044baa5": {
+    "username": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+    "added_at": 1785821294.6048107,
+    "roi_pct": 574.64
+  },
+  "0x2b3d1e9bdf941d435dc91a8b974b86f7064c8db7": {
+    "username": "crckr",
+    "added_at": 1785821294.6048107,
+    "roi_pct": 279.47
   }
 }
