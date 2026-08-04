@@ -141010,5 +141010,41 @@
     "usd": 3705.48,
     "odds_at_bet": 73,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785877181,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ven1-cfc-tru-2026-08-04-cfc",
+    "title": "Will Carabobo FC win on 2026-08-04?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1756.5600000000002,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785877224,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-sonego-grieksp-2026-08-03",
+    "title": "Canadian Open: Lorenzo Sonego vs Tallon Griekspoor",
+    "outcome": "Lorenzo Sonego",
+    "side": "BUY",
+    "usd": 1215.4296,
+    "odds_at_bet": 21,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785877260,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-perrica-zandsch-2026-08-03",
+    "title": "Canadian Open: Giovanni Mpetshi Perricard vs Botic van de Zandschulp",
+    "outcome": "Botic van de Zandschulp",
+    "side": "BUY",
+    "usd": 1026.8351999999998,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
