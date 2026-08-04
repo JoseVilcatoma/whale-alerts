@@ -138298,5 +138298,29 @@
     "usd": 1657.7664000000002,
     "odds_at_bet": 92,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785873046,
+    "username": "flatbarrel",
+    "wallet": "0x6485f47d0344c03eb4340f985159f6eb2dcba265",
+    "slug": "atp-piraino-caniato-2026-08-03",
+    "title": "Plovdiv 2: Gabriele Piraino vs Carlo Alberto Caniato",
+    "outcome": "Gabriele Piraino",
+    "side": "BUY",
+    "usd": 1500.0,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785873059,
+    "username": "SnakeBall",
+    "wallet": "0xc29198ad764bd6adaf7bb971a3757a689ece5d74",
+    "slug": "uel-lar-sab-2026-08-06-lar",
+    "title": "Will Larne FC win on 2026-08-06?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1284.8387500000001,
+    "odds_at_bet": 68,
+    "status": "pending"
   }
 ]
