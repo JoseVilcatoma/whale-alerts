@@ -141202,5 +141202,77 @@
     "usd": 3787.8120000000004,
     "odds_at_bet": 45,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785877802,
+    "username": "BrightStars",
+    "wallet": "0xc84f7e76ec28ef20e7773b7b4926bfb7378be0c5",
+    "slug": "us-announces-end-of-iranian-blockade-by-august-7-2026-20260727171523690",
+    "title": "US announces end of Iranian blockade by August 7, 2026?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1331.87356,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785877818,
+    "username": "denizz",
+    "wallet": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 2566.8898,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785877872,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-zhang-ostapen-2026-08-04",
+    "title": "National Bank Open: Shuai Zhang vs Jelena Ostapenko",
+    "outcome": "Shuai Zhang",
+    "side": "BUY",
+    "usd": 1548.3737999999998,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785877887,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Juncheng Shang",
+    "side": "BUY",
+    "usd": 3435.9083000000005,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785877887,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Andrey Rublev",
+    "side": "BUY",
+    "usd": 2400.0,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785877901,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-zhang-ostapen-2026-08-04",
+    "title": "National Bank Open: Shuai Zhang vs Jelena Ostapenko",
+    "outcome": "Shuai Zhang",
+    "side": "BUY",
+    "usd": 1351.8518510000001,
+    "odds_at_bet": 73,
+    "status": "pending"
   }
 ]
