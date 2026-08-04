@@ -132286,5 +132286,89 @@
     "usd": 2594.4527999999996,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785834734,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-jacquem-lee-2026-08-03",
+    "title": "Warsaw: Elsa Jacquemot vs Carol Young Suh Lee",
+    "outcome": "Carol Young Suh Lee",
+    "side": "BUY",
+    "usd": 6788.953,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785834734,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-jacquem-lee-2026-08-03",
+    "title": "Warsaw: Elsa Jacquemot vs Carol Young Suh Lee",
+    "outcome": "Carol Young Suh Lee",
+    "side": "BUY",
+    "usd": 1790.001,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785834785,
+    "username": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+    "wallet": "0x7986576408b65a9805ac85553be33ad0b044baa5",
+    "slug": "lol-gen-dnf-2026-08-04",
+    "title": "LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Gen.G",
+    "side": "SELL",
+    "usd": 13675.608,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785834830,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-pieczon-mayot-2026-08-03",
+    "title": "Grodzisk Mazowiecki: Filip Pieczonka vs Harold Mayot",
+    "outcome": "Harold Mayot",
+    "side": "BUY",
+    "usd": 3974.5433329999996,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785834850,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-rustec-newvis-2026-08-04-map-handicap-away-1pt5",
+    "title": "Map Handicap: ex-RUSTEC (-1.5) vs NEW VISION (+1.5)",
+    "outcome": "NEW VISION",
+    "side": "BUY",
+    "usd": 1340.1216,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785834850,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-rustec-newvis-2026-08-04-map-handicap-away-1pt5",
+    "title": "Map Handicap: ex-RUSTEC (-1.5) vs NEW VISION (+1.5)",
+    "outcome": "ex-RUSTEC",
+    "side": "BUY",
+    "usd": 1451.7984000000001,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785834858,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-justpl-enjoy-2026-08-04-map-handicap-away-1pt5",
+    "title": "Map Handicap: JustP (-1.5) vs ENJOY (+1.5)",
+    "outcome": "ENJOY",
+    "side": "BUY",
+    "usd": 1333.984,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]

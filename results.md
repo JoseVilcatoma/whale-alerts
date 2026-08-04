@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 04:12:12 (hora de Perú)
+Actualizado: 2026-08-04 04:14:20 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | GoalLineGhost | 185 | 100 | 0 | 65% |
 | VeryLucky888 | 112 | 62 | 6 | 64% |
 | BirdMan. | 41 | 24 | 0 | 63% |
-| ferrariChampions2026 | 1905 | 1217 | 17 | 61% |
+| ferrariChampions2026 | 1905 | 1217 | 19 | 61% |
 | UpTheBlues | 63 | 40 | 26 | 61% |
 | fRibrenlc | 21 | 14 | 0 | 60% |
 | flatbarrel | 9 | 6 | 0 | 60% |
@@ -56,11 +56,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | meoooow | 22 | 15 | 0 | 59% |
 | StasPanda | 20 | 14 | 2 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
-| HomeRunHazard | 285 | 209 | 7 | 58% |
+| HomeRunHazard | 285 | 209 | 8 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 1 | 57% |
 | MeiGuNiuBi | 4 | 3 | 0 | ⚠️ 57% (muestra chica: 7) |
 | 1winstreak1 | 50 | 39 | 0 | 56% |
-| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 8 | 7 | 1 | 53% |
+| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 8 | 7 | 2 | 53% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 4 | 52% |
 | wr0ngw4yb3tt0r | 144 | 144 | 0 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -69,7 +69,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | PleaseWinPlease | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
 | 0x0x23kjookhaiuohduoayh8c9 | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 26 | 27 | 2 | 49% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 26 | 27 | 3 | 49% |
 | AnonymousUsername | 32 | 35 | 0 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 40 | 43 | 0 | 48% |
 | esportGG | 77 | 85 | 1 | 48% |
@@ -105,5 +105,5 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ndb1 | 0 | 0 | 2 | — |
 | BrightStars | 0 | 0 | 2 | — |
 | CORGI8 | 0 | 0 | 1 | — |
-| skyman44 | 0 | 0 | 3 | — |
+| skyman44 | 0 | 0 | 5 | — |
 | quavoo | 0 | 0 | 1 | — |
