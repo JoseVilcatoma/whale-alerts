@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 13:47:15 (hora de Perú)
+Actualizado: 2026-08-04 13:49:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $449.82
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys | 0 | 0 | 144 | +0.00 USD |
 | betterfasterstronger | 0 | 0 | 38 | +0.00 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 44 | +0.00 USD |
-| AV23IUa | 0 | 0 | 1 | +0.00 USD |
+| AV23IUa | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 5 | 5 | -550.18 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -35,6 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Will Santos FC win on 2026-08-04? | Yes (BUY) | 40% | 0.00 | ⏳ pendiente | — |
 | AV23IUa | Will EC Juventude win on 2026-08-04? | Yes (BUY) | 29% | 0.00 | ⏳ pendiente | — |
 | betterfasterstronger | Will the highest temperature in Los Ange | Yes (SELL) | 71% | 0.00 | ⏳ pendiente | — |
 | betterfasterstronger | Will the highest temperature in Denver b | Yes (SELL) | 54% | 0.00 | ⏳ pendiente | — |
@@ -64,4 +65,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | betterfasterstronger | Will the highest temperature in Hong Kon | Yes (SELL) | 42% | 0.00 | ⏳ pendiente | — |
 | betterfasterstronger | Will the highest temperature in Hong Kon | Yes (SELL) | 40% | 0.00 | ⏳ pendiente | — |
 | betterfasterstronger | Will the highest temperature in Paris be | Yes (SELL) | 48% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Sao Paul | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
