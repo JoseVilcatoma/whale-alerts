@@ -140086,5 +140086,113 @@
     "usd": 3674.8799999999997,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785875637,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-ruse-potapov-2026-08-04",
+    "title": "National Bank Open: Gabriela Ruse vs Anastasia Potapova",
+    "outcome": "Anastasia Potapova",
+    "side": "BUY",
+    "usd": 1926.3200000000002,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785875650,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Juncheng Shang",
+    "side": "BUY",
+    "usd": 1150.0,
+    "odds_at_bet": 23,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785875655,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "col1-cdt-inm-2026-08-04-cdt",
+    "title": "Will CD Tolima win on 2026-08-04?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1086.318,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785875658,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Andrey Rublev",
+    "side": "BUY",
+    "usd": 2084.0872,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785875714,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-atmane-draper-2026-08-03",
+    "title": "Canadian Open: Terence Atmane vs Jack Draper",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 7594.4220000000005,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785875714,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-atmane-draper-2026-08-03",
+    "title": "Canadian Open: Terence Atmane vs Jack Draper",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 3211.56,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785875714,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-atmane-draper-2026-08-03",
+    "title": "Canadian Open: Terence Atmane vs Jack Draper",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 3219.48,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785875714,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-atmane-draper-2026-08-03",
+    "title": "Canadian Open: Terence Atmane vs Jack Draper",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 3300.0,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785875714,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-atmane-draper-2026-08-03",
+    "title": "Canadian Open: Terence Atmane vs Jack Draper",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 4350.997200000001,
+    "odds_at_bet": 66,
+    "status": "pending"
   }
 ]
