@@ -140350,5 +140350,65 @@
     "usd": 6615.9973,
     "odds_at_bet": 73,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785876094,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-wsh-phi-2026-08-04",
+    "title": "Washington Nationals vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 7260.003299999999,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785876119,
+    "username": "Pwaddler",
+    "wallet": "0x1d1ade627d0bb0205758580b20d808573e720df6",
+    "slug": "mlb-wsh-phi-2026-08-04",
+    "title": "Washington Nationals vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 14577.7934,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785876148,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "itf-yuan-lan-2026-08-05",
+    "title": "ITF Tianjin: Chengyiyi Yuan vs Xiran Lan",
+    "outcome": "Chengyiyi Yuan",
+    "side": "BUY",
+    "usd": 1803.449999,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785876149,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-tiafoe-cilic-2026-08-04",
+    "title": "National Bank Open: Frances Tiafoe vs Marin Cilic",
+    "outcome": "Marin Cilic",
+    "side": "BUY",
+    "usd": 3406.7267999999995,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785876181,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-atmane-draper-2026-08-03",
+    "title": "Canadian Open: Terence Atmane vs Jack Draper",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 1700.4666,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]
