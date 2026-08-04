@@ -160,5 +160,41 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785852234,
+    "timestamp_added": 1785852234.535961,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-lad-chc-2026-08-04-total-8pt5",
+    "title": "Los Angeles Dodgers vs. Chicago Cubs: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3755.3490000000006,
+    "whale_pct": 7.158,
+    "paper_stake_usd": 71.58,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785852242,
+    "timestamp_added": 1785852243.2847564,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-lad-chc-2026-08-04-total-8pt5",
+    "title": "Los Angeles Dodgers vs. Chicago Cubs: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 569.089565,
+    "whale_pct": 1.085,
+    "paper_stake_usd": 10.85,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
