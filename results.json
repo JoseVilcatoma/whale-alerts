@@ -135586,5 +135586,53 @@
     "usd": 1594.319996,
     "odds_at_bet": 91,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785844405,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-gen-dnf-2026-08-04-game1",
+    "title": "LoL: Gen.G vs DN SOOPers - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "SELL",
+    "usd": 3209.64714,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785844417,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-galfi-seidel-2026-08-03",
+    "title": "Warsaw: Dalma Galfi vs Ella Seidel",
+    "outcome": "Ella Seidel",
+    "side": "BUY",
+    "usd": 3897.6,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785844443,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-galfi-seidel-2026-08-03",
+    "title": "Warsaw: Dalma Galfi vs Ella Seidel",
+    "outcome": "Ella Seidel",
+    "side": "BUY",
+    "usd": 5976.0,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785844454,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-galfi-seidel-2026-08-03",
+    "title": "Warsaw: Dalma Galfi vs Ella Seidel",
+    "outcome": "Ella Seidel",
+    "side": "BUY",
+    "usd": 3111.1020000000003,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]
