@@ -139294,5 +139294,77 @@
     "usd": 4342.25,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785874452,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "mlb-tb-col-2026-08-04",
+    "title": "Tampa Bay Rays vs. Colorado Rockies",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "usd": 1900.0,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785874452,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "mlb-tb-col-2026-08-04",
+    "title": "Tampa Bay Rays vs. Colorado Rockies",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "usd": 1476.186,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785874461,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-cerund-medjedo-2026-08-03",
+    "title": "Canadian Open: Juan Manuel Cerundolo vs Hamad Medjedovic",
+    "outcome": "Juan Manuel Cerundolo",
+    "side": "BUY",
+    "usd": 1096.758,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785874494,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-ruse-potapov-2026-08-04",
+    "title": "National Bank Open: Gabriela Ruse vs Anastasia Potapova",
+    "outcome": "Anastasia Potapova",
+    "side": "BUY",
+    "usd": 1216.2311,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785874514,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-chwalin-gibson-2026-08-04",
+    "title": "National Bank Open: Maja Chwalinska vs Talia Gibson",
+    "outcome": "Talia Gibson",
+    "side": "BUY",
+    "usd": 4925.262382000001,
+    "odds_at_bet": 95,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785874519,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-chwalin-gibson-2026-08-04",
+    "title": "National Bank Open: Maja Chwalinska vs Talia Gibson",
+    "outcome": "Talia Gibson",
+    "side": "BUY",
+    "usd": 5042.04984,
+    "odds_at_bet": 95,
+    "status": "pending"
   }
 ]
