@@ -132574,5 +132574,65 @@
     "usd": 9999.999999999998,
     "odds_at_bet": 39,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785835452,
+    "username": "jtwyslljy",
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "slug": "lol-gen-dnf-2026-08-04",
+    "title": "LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 1100.0,
+    "odds_at_bet": 11,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785835456,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-gen-dnf-2026-08-04-game1",
+    "title": "LoL: Gen.G vs DN SOOPers - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 18867.9728,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785835477,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-gomez-squire-2026-08-03",
+    "title": "Hagen: Federico Agustin Gomez vs Henri Squire",
+    "outcome": "Federico Agustin Gomez",
+    "side": "BUY",
+    "usd": 1018.13656,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785835492,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-gomez-squire-2026-08-03",
+    "title": "Hagen: Federico Agustin Gomez vs Henri Squire",
+    "outcome": "Federico Agustin Gomez",
+    "side": "BUY",
+    "usd": 1149.0,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785835555,
+    "username": "patient12",
+    "wallet": "0xe291a588ece487f3323736c55c6144f6a99e748e",
+    "slug": "lol-gen-dnf-2026-08-04-game1",
+    "title": "LoL: Gen.G vs DN SOOPers - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1032.8118000000002,
+    "odds_at_bet": 87,
+    "status": "pending"
   }
 ]
