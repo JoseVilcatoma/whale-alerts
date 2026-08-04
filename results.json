@@ -133282,5 +133282,89 @@
     "usd": 3231.04,
     "odds_at_bet": 92,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785836733,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-ewald-mikulsk-2026-08-03",
+    "title": "Warsaw: Weronika Ewald vs Justina Mikulskyte",
+    "outcome": "Justina Mikulskyte",
+    "side": "BUY",
+    "usd": 3644.715555,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785836739,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "wta-jacquem-lee-2026-08-03",
+    "title": "Warsaw: Elsa Jacquemot vs Carol Young Suh Lee",
+    "outcome": "Carol Young Suh Lee",
+    "side": "BUY",
+    "usd": 2699.999998,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785836759,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-bro2-drx-2026-08-04",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 7795.821785,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785836779,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-jacquem-lee-2026-08-03",
+    "title": "Warsaw: Elsa Jacquemot vs Carol Young Suh Lee",
+    "outcome": "Carol Young Suh Lee",
+    "side": "BUY",
+    "usd": 5667.5109,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785836779,
+    "username": "0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622",
+    "wallet": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+    "slug": "wta-jacquem-lee-2026-08-03",
+    "title": "Warsaw: Elsa Jacquemot vs Carol Young Suh Lee",
+    "outcome": "Elsa Jacquemot",
+    "side": "BUY",
+    "usd": 2096.0200000000004,
+    "odds_at_bet": 25,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785836791,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-vekic-golubic-2026-08-04",
+    "title": "National Bank Open: Donna Vekic vs Viktorija Golubic",
+    "outcome": "Donna Vekic",
+    "side": "BUY",
+    "usd": 1372.056,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785836791,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "wta-vekic-golubic-2026-08-04",
+    "title": "National Bank Open: Donna Vekic vs Viktorija Golubic",
+    "outcome": "Donna Vekic",
+    "side": "BUY",
+    "usd": 1470.0000000000002,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]

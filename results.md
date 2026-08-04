@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 04:45:27 (hora de Perú)
+Actualizado: 2026-08-04 04:47:32 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -44,15 +44,15 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | GoalLineGhost | 185 | 100 | 0 | 65% |
-| VeryLucky888 | 112 | 62 | 7 | 64% |
+| VeryLucky888 | 112 | 62 | 8 | 64% |
 | BirdMan. | 41 | 24 | 0 | 63% |
-| ferrariChampions2026 | 1905 | 1217 | 30 | 61% |
+| ferrariChampions2026 | 1905 | 1217 | 32 | 61% |
 | UpTheBlues | 63 | 40 | 26 | 61% |
 | fRibrenlc | 21 | 14 | 0 | 60% |
 | flatbarrel | 9 | 6 | 0 | 60% |
 | us391 | 27 | 18 | 0 | 60% |
 | lllllllIlll | 9 | 6 | 2 | 60% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 10 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 11 | 59% |
 | meoooow | 22 | 15 | 0 | 59% |
 | StasPanda | 20 | 14 | 3 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
@@ -71,14 +71,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x0x23kjookhaiuohduoayh8c9 | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 26 | 27 | 5 | 49% |
 | AnonymousUsername | 32 | 35 | 0 | 48% |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 40 | 43 | 2 | 48% |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 40 | 43 | 3 | 48% |
 | esportGG | 77 | 85 | 2 | 48% |
 | sbsigner | 38 | 44 | 0 | 46% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 71 | 87 | 1 | 45% |
 | PASSTHEMONEY | 45 | 62 | 0 | 42% |
 | pleaseplease123 | 43 | 63 | 0 | 41% |
-| 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 29 | 1 | 40% |
+| 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 29 | 2 | 40% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | jtwyslljy | 9 | 14 | 2 | 39% |
 | Talvez10 | 17 | 30 | 0 | 36% |
@@ -86,7 +86,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 7 | 13 | 6 | 35% |
 | Flipadelphia | 9 | 18 | 0 | 33% |
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
-| TAIWANNUMBERONE | 1 | 3 | 4 | ⚠️ 25% (muestra chica: 4) |
+| TAIWANNUMBERONE | 1 | 3 | 5 | ⚠️ 25% (muestra chica: 4) |
 | 111111111115 | 11 | 36 | 0 | 23% |
 | AV23IUa | 4 | 14 | 0 | 22% |
 | Anjun | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
