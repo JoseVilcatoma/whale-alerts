@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 05:28:30 (hora de Perú)
+Actualizado: 2026-08-04 05:30:37 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | meoooow | 22 | 15 | 0 | 59% |
 | StasPanda | 20 | 14 | 3 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
-| HomeRunHazard | 285 | 209 | 8 | 58% |
+| HomeRunHazard | 285 | 209 | 9 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 1 | 57% |
 | MeiGuNiuBi | 4 | 3 | 0 | ⚠️ 57% (muestra chica: 7) |
 | 1winstreak1 | 50 | 39 | 0 | 56% |
@@ -72,7 +72,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 26 | 27 | 5 | 49% |
 | AnonymousUsername | 32 | 35 | 0 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 40 | 43 | 3 | 48% |
-| esportGG | 77 | 85 | 6 | 48% |
+| esportGG | 77 | 85 | 7 | 48% |
 | sbsigner | 38 | 44 | 0 | 46% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 71 | 87 | 2 | 45% |
