@@ -135358,5 +135358,41 @@
     "usd": 12000.0,
     "odds_at_bet": 39,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785842581,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-donski-kumasak-2026-08-04",
+    "title": "Grodzisk Mazowiecki: Alexander Donski vs Takuya Kumasaka",
+    "outcome": "Takuya Kumasaka",
+    "side": "BUY",
+    "usd": 1572.975361,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842605,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-durasov-geerts-2026-08-03",
+    "title": "Grodzisk Mazowiecki: Viktor Durasovic vs Michael Geerts",
+    "outcome": "Viktor Durasovic",
+    "side": "BUY",
+    "usd": 1255.244666,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842611,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-donski-kumasak-2026-08-04",
+    "title": "Grodzisk Mazowiecki: Alexander Donski vs Takuya Kumasaka",
+    "outcome": "Takuya Kumasaka",
+    "side": "BUY",
+    "usd": 2684.498,
+    "odds_at_bet": 37,
+    "status": "pending"
   }
 ]
