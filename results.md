@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 16:27:49 (hora de Perú)
+Actualizado: 2026-08-04 16:33:33 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | elizabeth.ethcome | 12 | 2 | 0 | 86% |
 | swisstony | 726 | 156 | 76 | 82% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
-| one8tyfive | 44 | 14 | 2 | 76% |
+| one8tyfive | 44 | 14 | 3 | 76% |
 | fkgggg2mouzfuria | 95 | 30 | 0 | 76% |
 | Bigggggggg | 3 | 1 | 34 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
@@ -41,21 +41,21 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | BirdMan. | 48 | 24 | 5 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
-| RN1 | 1212 | 641 | 82 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 13 | 65% |
+| RN1 | 1212 | 641 | 86 | 65% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 14 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 112 | 63 | 21 | 64% |
 | UpTheBlues | 67 | 40 | 36 | 63% |
 | flatbarrel | 10 | 6 | 2 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 91 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 94 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 43 | 61% |
 | fRibrenlc | 21 | 14 | 1 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
-| HomeRunHazard | 300 | 216 | 44 | 58% |
+| HomeRunHazard | 300 | 216 | 46 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 5 | 57% |
 | us391 | 27 | 20 | 1 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
@@ -64,7 +64,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 18 | 14 | 3 | 56% |
 | lllllllIlll | 9 | 8 | 1 | 53% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 7 | 52% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 31 | 30 | 0 | 51% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 31 | 30 | 1 | 51% |
 | wr0ngw4yb3tt0r | 144 | 144 | 4 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
@@ -74,7 +74,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x0x23kjookhaiuohduoayh8c9 | 1 | 1 | 5 | ⚠️ 50% (muestra chica: 2) |
 |  | 3 | 3 | 11 | ⚠️ 50% (muestra chica: 6) |
 | canoflanagan | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
-| AnonymousUsername | 32 | 35 | 10 | 48% |
+| AnonymousUsername | 32 | 35 | 11 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 0 | 48% |
 | esportGG | 85 | 96 | 0 | 47% |
 | sbsigner | 38 | 44 | 0 | 46% |
@@ -94,7 +94,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 111111111115 | 11 | 37 | 0 | 23% |
 | Anjun | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
-| AV23IUa | 4 | 19 | 0 | 17% |
+| AV23IUa | 4 | 19 | 1 | 17% |
 | plonker2026 | 4 | 30 | 0 | 12% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | neurodivergentBet | 0 | 4 | 0 | ⚠️ 0% (muestra chica: 4) |
