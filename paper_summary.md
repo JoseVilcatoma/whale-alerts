@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 00:23:36 (hora de Perú)
+Actualizado: 2026-08-04 00:26:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $745.86
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crckr | 0 | 0 | 9 | +0.00 USD |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 3 | +0.00 USD |
 | AV23IUa | 0 | 0 | 32 | +0.00 USD |
-| swisstony | 0 | 0 | 2 | +0.00 USD |
+| swisstony | 0 | 0 | 4 | +0.00 USD |
 | RN1 | 0 | 0 | 11 | +0.00 USD |
 | Pwaddler | 0 | 1 | 0 | -8.17 USD |
 | Djdjdjekekek | 3 | 2 | 0 | -146.20 USD |
@@ -35,6 +35,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Plovdiv 2: Daniel Galan vs Georgi Georgi | Daniel Galan (BUY) | 91% | 0.00 | ⏳ pendiente | — |
+| swisstony | Plovdiv 2: Daniel Galan vs Georgi Georgi | Daniel Galan (BUY) | 91% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Bayern Munich win on 2026-08-04? | No (BUY) | 14% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Bayern Munich win on 2026-08-04? | No (BUY) | 14% | 0.00 | ⏳ pendiente | — |
 | RN1 | ITF Tianjin: James Van Herzeele vs Geun  | Geun Jun Kim (BUY) | 65% | 0.00 | ⏳ pendiente | — |
@@ -63,5 +65,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | Chicago White Sox vs. Boston Red Sox | Boston Red Sox (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | AV23IUa | Los Angeles Angels vs. Baltimore Orioles | Baltimore Orioles (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | swisstony | Spread: Cincinnati Reds (-1.5) | Athletics (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| AV23IUa | Athletics vs. Cincinnati Reds | Athletics (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| AV23IUa | National Bank Open: Martin Damm vs Stefa | Stefanos Tsitsipas (BUY) | 63% | 0.00 | ⏳ pendiente | — |

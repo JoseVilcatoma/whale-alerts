@@ -18868,5 +18868,41 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785821071,
+    "timestamp_added": 1785821071.83136,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-galan-georgie-2026-08-04",
+    "title": "Plovdiv 2: Daniel Galan vs Georgi Georgiev",
+    "outcome": "Daniel Galan",
+    "side": "BUY",
+    "whale_usd": 183.82,
+    "whale_pct": 0.437,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785821158,
+    "timestamp_added": 1785821158.8513532,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-galan-georgie-2026-08-04",
+    "title": "Plovdiv 2: Daniel Galan vs Georgi Georgiev",
+    "outcome": "Daniel Galan",
+    "side": "BUY",
+    "whale_usd": 59.352222,
+    "whale_pct": 0.14,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
