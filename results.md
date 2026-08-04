@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 06:29:35 (hora de Perú)
+Actualizado: 2026-08-04 06:33:54 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | TopGleaguepick | 14 | 2 | 0 | 88% |
 | cigarettes | 63 | 10 | 1 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
-| swisstony | 721 | 154 | 67 | 82% |
+| swisstony | 721 | 154 | 68 | 82% |
 | fkgggg2mouzfuria | 95 | 29 | 0 | 77% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | one8tyfive | 44 | 14 | 1 | 76% |
