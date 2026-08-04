@@ -133702,5 +133702,65 @@
     "usd": 1139.0825,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785838207,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-ruzic-keys-2026-08-04",
+    "title": "National Bank Open: Antonia Ruzic vs Madison Keys",
+    "outcome": "Antonia Ruzic",
+    "side": "BUY",
+    "usd": 1161.8025,
+    "odds_at_bet": 19,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785838225,
+    "username": "canoflanagan",
+    "wallet": "0x21468ad63a833f5f9ea5c2835fb4e9dec57ad41b",
+    "slug": "dota2-bb4-og-2026-08-04-game1",
+    "title": "Dota 2: BetBoom Team vs OG - Game 1 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 4239.988723,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785838286,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-hruncak-bandecc-2026-08-03",
+    "title": "Warsaw: Viktoria Hruncakova vs Susan Bandecchi",
+    "outcome": "Susan Bandecchi",
+    "side": "BUY",
+    "usd": 3492.009757,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785838294,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-jej-bmu-2026-08-04-total-4pt5",
+    "title": "Jeju SK FC vs. Bayern Munich: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1715.0,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785838294,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-jej-bmu-2026-08-04-total-4pt5",
+    "title": "Jeju SK FC vs. Bayern Munich: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1530.7151999999999,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
