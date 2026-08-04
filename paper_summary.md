@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 12:44:41 (hora de Perú)
+Actualizado: 2026-08-04 12:46:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $449.82
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
-| Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
+| Djdjdjekekek | 0 | 0 | 3 | +0.00 USD |
 | Corlys | 0 | 0 | 144 | +0.00 USD |
 | betterfasterstronger | 0 | 0 | 20 | +0.00 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 44 | +0.00 USD |
@@ -34,6 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (SELL) | 100% | 0.00 | ⏳ pendiente | — |
 | betterfasterstronger | Will the highest temperature in Warsaw b | Yes (SELL) | 37% | 0.00 | ⏳ pendiente | — |
 | betterfasterstronger | Will the highest temperature in Shenzhen | Yes (SELL) | 45% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Rune Eaters (BUY) | 9% | 0.00 | ⏳ pendiente | — |
@@ -63,4 +64,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys | Will the highest temperature in Amsterda | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Amsterda | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Amsterda | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Amsterda | No (BUY) | 79% | 0.00 | ⏳ pendiente | — |
