@@ -9680,5 +9680,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785809343,
+    "timestamp_added": 1785809344.3288908,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-hong-kong-on-august-5-2026-29c",
+    "title": "Will the highest temperature in Hong Kong be 29\u00b0C on August 5?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 2.4172000000000002,
+    "whale_pct": 0.116,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 4,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
