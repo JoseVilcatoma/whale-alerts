@@ -75,6 +75,26 @@
       "timestamp": 1785818192.1422274,
       "bankroll": 745.86,
       "event": "won: Djdjdjekekek \u2014 San Diego Padres vs. Arizona Diamondbacks"
+    },
+    {
+      "timestamp": 1785820706.6718683,
+      "bankroll": 745.86,
+      "event": "lost: Corlys \u2014 Will the lowest temperature in New York City be between 74-75\u00b0F on August 3?"
+    },
+    {
+      "timestamp": 1785820706.8146107,
+      "bankroll": 745.86,
+      "event": "won: Corlys \u2014 Will the lowest temperature in New York City be between 68-69\u00b0F on August 3?"
+    },
+    {
+      "timestamp": 1785820706.9529212,
+      "bankroll": 745.86,
+      "event": "won: Corlys \u2014 Will the lowest temperature in New York City be between 72-73\u00b0F on August 3?"
+    },
+    {
+      "timestamp": 1785820707.096504,
+      "bankroll": 745.86,
+      "event": "won: Corlys \u2014 Will the lowest temperature in New York City be between 70-71\u00b0F on August 3?"
     }
   ]
 }
