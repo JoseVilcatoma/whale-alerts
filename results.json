@@ -136858,5 +136858,17 @@
     "usd": 5154.429,
     "odds_at_bet": 72,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785848598,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "ucl-hbs-crv-2026-08-04-team-total-home-2pt5",
+    "title": "MH Hapoel Be'er Sheva vs. FK Crvena zvezda: MH Hapoel Be'er Sheva O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1523.799987,
+    "odds_at_bet": 94,
+    "status": "pending"
   }
 ]
