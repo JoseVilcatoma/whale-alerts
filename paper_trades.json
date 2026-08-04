@@ -196,5 +196,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785853145,
+    "timestamp_added": 1785853146.5776281,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-yb1-re-2026-08-04",
+    "title": "Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs",
+    "outcome": "Yakult Brothers",
+    "side": "BUY",
+    "whale_usd": 3264.2456,
+    "whale_pct": 23.26,
+    "paper_stake_usd": 3.48,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
