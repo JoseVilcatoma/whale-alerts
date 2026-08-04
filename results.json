@@ -136066,5 +136066,29 @@
     "usd": 3996.494683,
     "odds_at_bet": 96,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785846193,
+    "username": "fazewinline",
+    "wallet": "0x1d3567ad67b1f054160f9d560ca3817038cc94ee",
+    "slug": "dota2-bb4-og-2026-08-04",
+    "title": "Dota 2: BetBoom Team vs OG (BO3) - 1win Essence Playoffs",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 1380.95238,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785846209,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Linda Klimovicova",
+    "side": "BUY",
+    "usd": 2887.954102,
+    "odds_at_bet": 95,
+    "status": "pending"
   }
 ]
