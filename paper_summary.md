@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 19:40:28 (hora de Perú)
+Actualizado: 2026-08-03 19:42:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $844.83
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Pwaddler | 0 | 0 | 1 | +0.00 USD |
 | Djdjdjekekek | 1 | 0 | 1 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 3 | +0.00 USD |
-| Corlys | 0 | 0 | 207 | +0.00 USD |
+| Corlys | 0 | 0 | 218 | +0.00 USD |
 | crckr | 0 | 0 | 7 | +0.00 USD |
 | CORGI8 | 0 | 6 | 0 | -155.17 USD |
 
@@ -31,6 +31,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 97% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 70% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
@@ -50,14 +61,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys | Will the highest temperature in Amsterda | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Amsterda | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Amsterda | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Amsterda | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Amsterda | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Amsterda | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Amsterda | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Amsterda | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 89% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 97% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the next diplomatic US-Iran meeting | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the next diplomatic US-Iran meeting | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
