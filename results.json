@@ -143542,5 +143542,41 @@
     "usd": 6474.045400000001,
     "odds_at_bet": 53,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785881795,
+    "username": "flawfence",
+    "wallet": "0x23d81ba9371e576015c1e562db09c689f56b0288",
+    "slug": "will-person-f-be-the-new-republican-nominee-for-senate-in-south-carolina-20260712140628838",
+    "title": "Will Darline Graham Nordone be the new republican nominee for Senate in South Carolina?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "usd": 2879.7349700000004,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785881797,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-lad-chc-2026-08-04-total-8pt5",
+    "title": "Los Angeles Dodgers vs. Chicago Cubs: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1937.4651999999999,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785881799,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-lad-chc-2026-08-04-total-9pt5",
+    "title": "Los Angeles Dodgers vs. Chicago Cubs: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 5427.999500000001,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]
