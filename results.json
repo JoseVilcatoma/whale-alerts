@@ -136294,5 +136294,41 @@
     "usd": 4350.0,
     "odds_at_bet": 87,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785846890,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-bro2-drx-2026-08-04-game2",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX - Game 2 Winner",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 1450.7610000000002,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785846978,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-donski-kumasak-2026-08-04",
+    "title": "Grodzisk Mazowiecki: Alexander Donski vs Takuya Kumasaka",
+    "outcome": "Alexander Donski",
+    "side": "BUY",
+    "usd": 8835.0,
+    "odds_at_bet": 95,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785846985,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-t1a-ktc-2026-08-04",
+    "title": "LoL: T1 Academy vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+    "outcome": "T1 Academy",
+    "side": "SELL",
+    "usd": 4994.71029,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
