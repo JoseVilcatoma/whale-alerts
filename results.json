@@ -137062,5 +137062,41 @@
     "usd": 3199.68,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785849391,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-santill-singh-2026-08-04",
+    "title": "Istanbul 2: Akira Santillan vs Digvijaypratap Singh",
+    "outcome": "Digvijaypratap Singh",
+    "side": "BUY",
+    "usd": 2290.47619,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785849398,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "dota2-1win-vg-2026-08-04-game1",
+    "title": "Dota 2: 1win vs Vici Gaming - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 19378.8541,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785849421,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-samson-barthel-2026-08-03",
+    "title": "Warsaw: Laura Samson vs Mona Barthel",
+    "outcome": "Laura Samson",
+    "side": "BUY",
+    "usd": 2915.8871999999997,
+    "odds_at_bet": 82,
+    "status": "pending"
   }
 ]
