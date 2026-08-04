@@ -135394,5 +135394,53 @@
     "usd": 2684.498,
     "odds_at_bet": 37,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785842816,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-podlins-valdman-2026-08-04-first-set-winner-Podlinska-vs-Valdmannova",
+    "title": "Set 1 Winner: Podlinska vs Valdmannova",
+    "outcome": "Valdmannova",
+    "side": "BUY",
+    "usd": 1275.0,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842830,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-donski-kumasak-2026-08-04",
+    "title": "Grodzisk Mazowiecki: Alexander Donski vs Takuya Kumasaka",
+    "outcome": "Takuya Kumasaka",
+    "side": "BUY",
+    "usd": 1700.0000000000002,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842836,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Linda Klimovicova",
+    "side": "BUY",
+    "usd": 5418.012299999999,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842836,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Elizara Yaneva",
+    "side": "BUY",
+    "usd": 1250.0,
+    "odds_at_bet": 25,
+    "status": "pending"
   }
 ]
