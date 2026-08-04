@@ -1,27 +1,27 @@
 {
-  "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1": {
-    "username": "Corlys",
-    "added_at": 1785795538.91935,
-    "roi_pct": 1590.14
-  },
   "0x7986576408b65a9805ac85553be33ad0b044baa5": {
     "username": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
     "added_at": 1785805845.744756,
-    "roi_pct": 798.1
-  },
-  "0x2b3d1e9bdf941d435dc91a8b974b86f7064c8db7": {
-    "username": "crckr",
-    "added_at": 1785806791.1738794,
-    "roi_pct": 272.39
+    "roi_pct": 796.0
   },
   "0xa71093cafc0c099b4ccab24c3cb8018d817923c4": {
     "username": "Talvez10",
     "added_at": 1785807736.170858,
-    "roi_pct": 223.41
+    "roi_pct": 222.79
   },
   "0x9f2fe025f84839ca81dd8e0338892605702d2ca8": {
     "username": "surfandturf",
     "added_at": 1785812539.9152858,
-    "roi_pct": 158.51
+    "roi_pct": 158.86
+  },
+  "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1": {
+    "username": "pleaseplease123",
+    "added_at": 1785813535.6085672,
+    "roi_pct": 1722.73
+  },
+  "0xc8075693f48668a264b9fa313b47f52712fcc12b": {
+    "username": "texaskid",
+    "added_at": 1785813535.6085672,
+    "roi_pct": 148.43
   }
 }
