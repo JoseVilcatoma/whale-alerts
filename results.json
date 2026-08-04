@@ -133810,5 +133810,41 @@
     "usd": 1150.6704,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785838566,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-manescu-mair-2026-08-04",
+    "title": "ITF Leipzig: Tina Manescu vs Laura Mair",
+    "outcome": "Laura Mair",
+    "side": "BUY",
+    "usd": 1150.6625000000001,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785838711,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-jej-bmu-2026-08-04-bmu",
+    "title": "Will Bayern Munich win on 2026-08-04?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1116.9974,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785838711,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-jej-bmu-2026-08-04-bmu",
+    "title": "Will Bayern Munich win on 2026-08-04?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1132.9997999999998,
+    "odds_at_bet": 83,
+    "status": "pending"
   }
 ]
