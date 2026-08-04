@@ -135070,5 +135070,41 @@
     "usd": 1080.0,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785841919,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-galfi-seidel-2026-08-03",
+    "title": "Warsaw: Dalma Galfi vs Ella Seidel",
+    "outcome": "Dalma Galfi",
+    "side": "BUY",
+    "usd": 4429.0575,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841923,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-bw-leo2-2026-08-04",
+    "title": "Counter-Strike: Bushido Wildcats vs Leo Team (BO3) - ESL Challenger League Europe Cup #2 Playoffs",
+    "outcome": "Leo Team",
+    "side": "BUY",
+    "usd": 1274.205,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841928,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-monteir-gentzsc-2026-08-04",
+    "title": "Hagen: Thiago Monteiro vs Tom Gentzsch",
+    "outcome": "Tom Gentzsch",
+    "side": "BUY",
+    "usd": 1104.6345,
+    "odds_at_bet": 85,
+    "status": "pending"
   }
 ]
