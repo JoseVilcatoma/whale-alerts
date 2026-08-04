@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 17:49:23 (hora de Perú)
+Actualizado: 2026-08-04 17:52:41 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -41,21 +41,21 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | BirdMan. | 48 | 24 | 8 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
-| RN1 | 1212 | 641 | 118 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 19 | 65% |
+| RN1 | 1212 | 641 | 121 | 65% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 20 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
-| VeryLucky888 | 112 | 63 | 39 | 64% |
-| UpTheBlues | 67 | 40 | 41 | 63% |
+| VeryLucky888 | 112 | 63 | 41 | 64% |
+| UpTheBlues | 67 | 40 | 43 | 63% |
 | flatbarrel | 10 | 6 | 3 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 136 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 138 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 54 | 61% |
 | fRibrenlc | 21 | 14 | 1 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 2 | 58% |
-| HomeRunHazard | 300 | 216 | 85 | 58% |
+| HomeRunHazard | 300 | 216 | 86 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 9 | 57% |
 | us391 | 27 | 20 | 1 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
@@ -107,7 +107,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | denizz | 0 | 0 | 30 | — |
-| ndb1 | 0 | 0 | 2 | — |
+| ndb1 | 0 | 0 | 3 | — |
 | BrightStars | 0 | 0 | 4 | — |
 | SnakeBall | 0 | 0 | 2 | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 6 | — |
