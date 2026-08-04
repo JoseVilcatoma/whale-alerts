@@ -136774,5 +136774,41 @@
     "usd": 1904.759999,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785848104,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Linda Klimovicova",
+    "side": "BUY",
+    "usd": 2917.915,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785848104,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Linda Klimovicova",
+    "side": "BUY",
+    "usd": 2377.626798,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785848109,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-t1a-ktc-2026-08-04-game2",
+    "title": "LoL: T1 Academy vs KT Rolster Challengers - Game 2 Winner",
+    "outcome": "T1 Academy",
+    "side": "SELL",
+    "usd": 4994.9900099999995,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
