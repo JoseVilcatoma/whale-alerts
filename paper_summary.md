@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 23:35:41 (hora de Perú)
+Actualizado: 2026-08-03 23:37:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $745.86
@@ -17,10 +17,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys | 0 | 0 | 968 | +0.00 USD |
 | crckr | 0 | 0 | 9 | +0.00 USD |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 3 | +0.00 USD |
-| AV23IUa | 0 | 0 | 24 | +0.00 USD |
+| AV23IUa | 0 | 0 | 25 | +0.00 USD |
 | swisstony | 0 | 0 | 1 | +0.00 USD |
 | Pwaddler | 0 | 1 | 0 | -8.17 USD |
-| Djdjdjekekek | 1 | 2 | 2 | -146.20 USD |
+| Djdjdjekekek | 3 | 2 | 0 | -146.20 USD |
 | CORGI8 | 0 | 6 | 0 | -155.17 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -34,6 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Canadian Open: Sebastian Baez vs Mattia  | Sebastian Baez (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | AV23IUa | Tampa Bay Rays vs. Colorado Rockies | Tampa Bay Rays (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | AV23IUa | Los Angeles Dodgers vs. Chicago Cubs | Chicago Cubs (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | AV23IUa | Los Angeles Dodgers vs. Chicago Cubs | Chicago Cubs (BUY) | 36% | 0.00 | ⏳ pendiente | — |
@@ -63,4 +64,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys | Will the highest temperature in Chengdu  | Yes (SELL) | 39% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Guangzho | No (BUY) | 79% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Guangzho | No (BUY) | 97% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Guangzho | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
