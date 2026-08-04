@@ -4280,5 +4280,41 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785804208,
+    "timestamp_added": 1785804211.401998,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "lowest-temperature-in-paris-on-august-4-2026-21c",
+    "title": "Will the lowest temperature in Paris be 21\u00b0C on August 4?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 15.093,
+    "whale_pct": 0.727,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785804209,
+    "timestamp_added": 1785804213.4690158,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "lowest-temperature-in-paris-on-august-4-2026-20corbelow",
+    "title": "Will the lowest temperature in Paris be 20\u00b0C or below on August 4?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 5.2,
+    "whale_pct": 0.251,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 26,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
