@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 07:14:52 (hora de Perú)
+Actualizado: 2026-08-04 07:18:19 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 112 | 62 | 12 | 64% |
 | BirdMan. | 41 | 24 | 0 | 63% |
 | ferrariChampions2026 | 1905 | 1217 | 78 | 61% |
-| UpTheBlues | 63 | 40 | 29 | 61% |
+| UpTheBlues | 63 | 40 | 30 | 61% |
 | fRibrenlc | 21 | 14 | 0 | 60% |
 | flatbarrel | 9 | 6 | 1 | 60% |
 | us391 | 27 | 18 | 2 | 60% |
