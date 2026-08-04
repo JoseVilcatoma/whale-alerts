@@ -4042,5 +4042,44 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785864429,
+    "timestamp_added": 1785864429.3455043,
+    "username": "betterfasterstronger",
+    "wallet": "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c",
+    "slug": "highest-temperature-in-chongqing-on-august-5-2026-33c",
+    "title": "Will the highest temperature in Chongqing be 33\u00b0C on August 5?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 4.639999,
+    "whale_pct": 0.157,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 27,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785864456,
+    "timestamp_added": 1785864456.2818813,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-yb1-re-2026-08-04",
+    "title": "Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs",
+    "outcome": "Rune Eaters",
+    "side": "BUY",
+    "whale_usd": 44.444444000000004,
+    "whale_pct": 0.249,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 10,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "CORGI8",
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": true
   }
 ]
