@@ -134902,5 +134902,89 @@
     "usd": 1389.830508,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785841588,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-monteir-gentzsc-2026-08-04",
+    "title": "Hagen: Thiago Monteiro vs Tom Gentzsch",
+    "outcome": "Tom Gentzsch",
+    "side": "BUY",
+    "usd": 2044.2912,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841636,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-durasov-geerts-2026-08-03",
+    "title": "Grodzisk Mazowiecki: Viktor Durasovic vs Michael Geerts",
+    "outcome": "Viktor Durasovic",
+    "side": "BUY",
+    "usd": 6847.92,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841636,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-durasov-geerts-2026-08-03",
+    "title": "Grodzisk Mazowiecki: Viktor Durasovic vs Michael Geerts",
+    "outcome": "Michael Geerts",
+    "side": "BUY",
+    "usd": 4565.280000000001,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841648,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-echargu-johnso-2026-08-04",
+    "title": "Lexington: Moez Echargui vs Spencer Johnson",
+    "outcome": "Moez Echargui",
+    "side": "BUY",
+    "usd": 3473.1040000000003,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841661,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-monteir-gentzsc-2026-08-04",
+    "title": "Hagen: Thiago Monteiro vs Tom Gentzsch",
+    "outcome": "Tom Gentzsch",
+    "side": "BUY",
+    "usd": 1633.849294,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841678,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-durasov-geerts-2026-08-03",
+    "title": "Grodzisk Mazowiecki: Viktor Durasovic vs Michael Geerts",
+    "outcome": "Viktor Durasovic",
+    "side": "BUY",
+    "usd": 4500.0,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841707,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-genga-hle-2026-08-04",
+    "title": "LoL: Gen.G Global Academy vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+    "outcome": "Hanwha Life Esports Challengers",
+    "side": "SELL",
+    "usd": 1749.12912,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
