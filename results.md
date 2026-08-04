@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 18:21:07 (hora de Perú)
+Actualizado: 2026-08-04 18:24:57 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | elizabeth.ethcome | 12 | 2 | 0 | 86% |
 | swisstony | 726 | 156 | 89 | 82% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
-| one8tyfive | 44 | 14 | 5 | 76% |
+| one8tyfive | 44 | 14 | 6 | 76% |
 | fkgggg2mouzfuria | 95 | 30 | 0 | 76% |
 | Bigggggggg | 3 | 1 | 35 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
@@ -42,21 +42,21 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BirdMan. | 48 | 24 | 8 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
 | RN1 | 1212 | 641 | 142 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 28 | 65% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 29 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 112 | 63 | 43 | 64% |
-| UpTheBlues | 67 | 40 | 49 | 63% |
-| flatbarrel | 10 | 6 | 3 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 163 | 61% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 69 | 61% |
+| UpTheBlues | 67 | 40 | 50 | 63% |
+| flatbarrel | 10 | 6 | 4 | 62% |
+| ferrariChampions2026 | 1959 | 1258 | 166 | 61% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 70 | 61% |
 | fRibrenlc | 21 | 14 | 2 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 2 | 58% |
-| HomeRunHazard | 300 | 216 | 110 | 58% |
-| monkeymashingkeyboard | 21 | 16 | 10 | 57% |
+| HomeRunHazard | 300 | 216 | 114 | 58% |
+| monkeymashingkeyboard | 21 | 16 | 11 | 57% |
 | us391 | 27 | 20 | 3 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
 | MeiGuNiuBi | 4 | 3 | 0 | ⚠️ 57% (muestra chica: 7) |
@@ -72,7 +72,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | PleaseWinPlease | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
 | 0x0x23kjookhaiuohduoayh8c9 | 1 | 1 | 6 | ⚠️ 50% (muestra chica: 2) |
-|  | 3 | 3 | 22 | ⚠️ 50% (muestra chica: 6) |
+|  | 3 | 3 | 23 | ⚠️ 50% (muestra chica: 6) |
 | canoflanagan | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | AnonymousUsername | 32 | 35 | 22 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 0 | 48% |
@@ -102,17 +102,18 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
-| 0x4f2 | 0 | 2 | 3 | ⚠️ 0% (muestra chica: 2) |
+| 0x4f2 | 0 | 2 | 4 | ⚠️ 0% (muestra chica: 2) |
 | CORGI8 | 0 | 6 | 0 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | denizz | 0 | 0 | 30 | — |
 | ndb1 | 0 | 0 | 3 | — |
 | BrightStars | 0 | 0 | 4 | — |
-| SnakeBall | 0 | 0 | 3 | — |
+| SnakeBall | 0 | 0 | 4 | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 6 | — |
 | flawfence | 0 | 0 | 3 | — |
 | chanello | 0 | 0 | 2 | — |
 | LlamaLoco0000 | 0 | 0 | 1 | — |
 | JhonAlexanderHinestroza | 0 | 0 | 5 | — |
 | xifutloong3 | 0 | 0 | 2 | — |
+| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | — |
