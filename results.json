@@ -142906,5 +142906,101 @@
     "usd": 1830.0,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785880411,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Andrey Rublev",
+    "side": "BUY",
+    "usd": 1595.0000000000002,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880536,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Juncheng Shang",
+    "side": "BUY",
+    "usd": 1268.9556,
+    "odds_at_bet": 33,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880541,
+    "username": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+    "wallet": "0x1b20a00709dfe648afd26b326394b5e031f83ab0",
+    "slug": "mlb-pit-mil-2026-08-04",
+    "title": "Pittsburgh Pirates vs. Milwaukee Brewers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 7587.218699999999,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880541,
+    "username": "AnonymousUsername",
+    "wallet": "0x9703676286b93c2eca71ca96e8757104519a69c2",
+    "slug": "mlb-pit-mil-2026-08-04",
+    "title": "Pittsburgh Pirates vs. Milwaukee Brewers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 6735.119999999999,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880541,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "mlb-pit-mil-2026-08-04",
+    "title": "Pittsburgh Pirates vs. Milwaukee Brewers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 1424.9999999999998,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880541,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-loge-agameno-2026-08-03",
+    "title": "Plovdiv 2: Jack Loge vs Franco Agamenone",
+    "outcome": "Jack Loge",
+    "side": "BUY",
+    "usd": 2473.4106,
+    "odds_at_bet": 27,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880541,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-loge-agameno-2026-08-03",
+    "title": "Plovdiv 2: Jack Loge vs Franco Agamenone",
+    "outcome": "Franco Agamenone",
+    "side": "BUY",
+    "usd": 7300.0,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880541,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-pit-mil-2026-08-04",
+    "title": "Pittsburgh Pirates vs. Milwaukee Brewers",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 24597.7329,
+    "odds_at_bet": 43,
+    "status": "pending"
   }
 ]
