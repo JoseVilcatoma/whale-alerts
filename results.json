@@ -135466,5 +135466,53 @@
     "usd": 1498.27999,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785843493,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "atp-sonego-grieksp-2026-08-03",
+    "title": "Canadian Open: Lorenzo Sonego vs Tallon Griekspoor",
+    "outcome": "Lorenzo Sonego",
+    "side": "BUY",
+    "usd": 1440.0,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785843493,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-sonego-grieksp-2026-08-03",
+    "title": "Canadian Open: Lorenzo Sonego vs Tallon Griekspoor",
+    "outcome": "Lorenzo Sonego",
+    "side": "BUY",
+    "usd": 1061.6112,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785843550,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-monteir-gentzsc-2026-08-04",
+    "title": "Hagen: Thiago Monteiro vs Tom Gentzsch",
+    "outcome": "Thiago Monteiro",
+    "side": "BUY",
+    "usd": 1199.3988459999998,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785843551,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-t1a-ktc-2026-08-04-game1",
+    "title": "LoL: T1 Academy vs KT Rolster Challengers - Game 1 Winner",
+    "outcome": "T1 Academy",
+    "side": "SELL",
+    "usd": 22225.71204,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]

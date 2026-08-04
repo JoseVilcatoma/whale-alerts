@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 06:33:54 (hora de Perú)
+Actualizado: 2026-08-04 06:39:17 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -21,7 +21,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RLXDJ19701601 | 2 | 0 | 0 | ⚠️ 100% (muestra chica: 2) |
 | elizabeth.ethcome | 1 | 0 | 7 | ⚠️ 100% (muestra chica: 1) |
 |  | 1 | 0 | 4 | ⚠️ 100% (muestra chica: 1) |
-| matenghehe | 57 | 2 | 16 | 97% |
+| matenghehe | 57 | 2 | 17 | 97% |
 | paquitomillonario | 16 | 1 | 0 | 94% |
 | texaskid | 16 | 1 | 0 | 94% |
 | TopGleaguepick | 14 | 2 | 0 | 88% |
@@ -38,13 +38,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
-| RN1 | 1163 | 608 | 76 | 66% |
+| RN1 | 1163 | 608 | 77 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 413 | 218 | 6 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | GoalLineGhost | 185 | 100 | 12 | 65% |
-| VeryLucky888 | 112 | 62 | 9 | 64% |
+| VeryLucky888 | 112 | 62 | 10 | 64% |
 | BirdMan. | 41 | 24 | 0 | 63% |
 | ferrariChampions2026 | 1905 | 1217 | 72 | 61% |
 | UpTheBlues | 63 | 40 | 29 | 61% |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | flatbarrel | 9 | 6 | 0 | 60% |
 | us391 | 27 | 18 | 2 | 60% |
 | lllllllIlll | 9 | 6 | 3 | 60% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 34 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 35 | 59% |
 | meoooow | 22 | 15 | 1 | 59% |
 | StasPanda | 20 | 14 | 7 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
