@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 08:46:49 (hora de Perú)
+Actualizado: 2026-08-04 08:48:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 0 | 0 | 2 | +0.00 USD |
+| CORGI8 | 0 | 0 | 5 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -23,5 +23,8 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: 1win vs Vici Gaming - Game 1 Win | Vici Gaming (BUY) | 34% | 6.44 | ⏳ pendiente | — |
+| CORGI8 | Dota 2: 1win vs Vici Gaming - Game 1 Win | Vici Gaming (BUY) | 34% | 3.05 | ⏳ pendiente | — |
+| CORGI8 | Dota 2: 1win vs Vici Gaming - Game 1 Win | Vici Gaming (BUY) | 34% | 1.35 | ⏳ pendiente | — |
 | CORGI8 | Dota 2: 1win vs Vici Gaming - Game 1 Win | Vici Gaming (BUY) | 34% | 176.00 | ⏳ pendiente | — |
 | CORGI8 | Dota 2: 1win vs Vici Gaming - Game 1 Win | Vici Gaming (BUY) | 33% | 363.34 | ⏳ pendiente | — |
