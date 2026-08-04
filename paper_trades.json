@@ -4633,5 +4633,41 @@
       "Corlys"
     ],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785871114,
+    "timestamp_added": 1785871114.7098505,
+    "username": "betterfasterstronger",
+    "wallet": "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c",
+    "slug": "highest-temperature-in-denver-on-august-4-2026-76-77f",
+    "title": "Will the highest temperature in Denver be between 76-77\u00b0F on August 4?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 3.0,
+    "whale_pct": 0.116,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785871132,
+    "timestamp_added": 1785871132.9952261,
+    "username": "betterfasterstronger",
+    "wallet": "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c",
+    "slug": "highest-temperature-in-denver-on-august-4-2026-76-77f",
+    "title": "Will the highest temperature in Denver be between 76-77\u00b0F on August 4?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 3.0,
+    "whale_pct": 0.116,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
