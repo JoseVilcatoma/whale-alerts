@@ -136090,5 +136090,77 @@
     "usd": 2887.954102,
     "odds_at_bet": 95,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785846338,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-monteir-gentzsc-2026-08-04",
+    "title": "Hagen: Thiago Monteiro vs Tom Gentzsch",
+    "outcome": "Thiago Monteiro",
+    "side": "BUY",
+    "usd": 2161.7915000000003,
+    "odds_at_bet": 19,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785846347,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-svajda-shapova-2026-08-03",
+    "title": "Canadian Open: Zachary Svajda vs Denis Shapovalov",
+    "outcome": "Zachary Svajda",
+    "side": "BUY",
+    "usd": 2614.7257999999997,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785846373,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "dota2-playti-tr7-2026-08-04-game2",
+    "title": "Dota 2: PlayTime vs Team Resilience - Game 2 Winner",
+    "outcome": "Team Resilience",
+    "side": "BUY",
+    "usd": 3250.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785846427,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "dota2-playti-tr7-2026-08-04-game2",
+    "title": "Dota 2: PlayTime vs Team Resilience - Game 2 Winner",
+    "outcome": "Team Resilience",
+    "side": "BUY",
+    "usd": 2500.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785846432,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-casanov-alexand-2026-08-03",
+    "title": "Plovdiv 2: Hernan Casanova vs Yannick Alexandrescou",
+    "outcome": "Hernan Casanova",
+    "side": "BUY",
+    "usd": 1620.0,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785846432,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-casanov-alexand-2026-08-03",
+    "title": "Plovdiv 2: Hernan Casanova vs Yannick Alexandrescou",
+    "outcome": "Hernan Casanova",
+    "side": "BUY",
+    "usd": 1620.0,
+    "odds_at_bet": 81,
+    "status": "pending"
   }
 ]
