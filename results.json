@@ -136006,5 +136006,65 @@
     "usd": 1211.8199989999998,
     "odds_at_bet": 43,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785846055,
+    "username": "BirdMan.",
+    "wallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+    "slug": "lol-bro2-drx-2026-08-04-game2",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX - Game 2 Winner",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 1258.0,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785846117,
+    "username": "fazewinline",
+    "wallet": "0x1d3567ad67b1f054160f9d560ca3817038cc94ee",
+    "slug": "dota2-bb4-og-2026-08-04",
+    "title": "Dota 2: BetBoom Team vs OG (BO3) - 1win Essence Playoffs",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 2368.35,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785846121,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "clf-avl-pau-2026-08-04-avl",
+    "title": "Will Aston Villa win on 2026-08-04?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2927.41,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785846142,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "dota2-playti-tr7-2026-08-04-game1",
+    "title": "Dota 2: PlayTime vs Team Resilience - Game 1 Winner",
+    "outcome": "PlayTime",
+    "side": "SELL",
+    "usd": 18481.45005,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785846148,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Linda Klimovicova",
+    "side": "BUY",
+    "usd": 3996.494683,
+    "odds_at_bet": 96,
+    "status": "pending"
   }
 ]
