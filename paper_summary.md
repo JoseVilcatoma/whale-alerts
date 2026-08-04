@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 20:39:06 (hora de Perú)
+Actualizado: 2026-08-03 20:41:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $844.83
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Pwaddler | 0 | 0 | 1 | +0.00 USD |
 | Djdjdjekekek | 1 | 0 | 4 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 3 | +0.00 USD |
-| Corlys | 0 | 0 | 403 | +0.00 USD |
+| Corlys | 0 | 0 | 427 | +0.00 USD |
 | crckr | 0 | 0 | 7 | +0.00 USD |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 1 | +0.00 USD |
 | CORGI8 | 0 | 6 | 0 | -155.17 USD |
@@ -32,33 +32,33 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Corlys | Will SpaceXAI be the third-best Code Are | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Alibaba be the third-best Code Aren | No (BUY) | 32% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Thinky be the third-best Code Arena | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will ByteDance be the third-best Code Ar | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will OpenAI be the third-best Code Arena | No (BUY) | 94% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will DeepSeek be the third-best Code Are | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Google be the third-best Code Arena | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Mistral be the third-best Code Aren | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Moonshot be the third-best Code Are | No (BUY) | 77% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Meta be the third-best Code Arena | | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Z.ai be the third-best Code Arena | | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Anthropic be the third-best Code Ar | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Anthropic be the third-best Code Ar | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Alibaba be the third-best Code Aren | No (BUY) | 32% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Z.ai be the third-best Code Arena | | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will DeepSeek be the third-best Code Are | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Google be the third-best Code Arena | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will ByteDance be the third-best Code Ar | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Mistral be the third-best Code Aren | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Meta be the third-best Code Arena | | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Moonshot be the third-best Code Are | No (BUY) | 77% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will OpenAI be the third-best Code Arena | No (BUY) | 94% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will SpaceXAI be the third-best Code Are | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Thinky be the third-best Code Arena | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 97% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 71% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Marsha Blackburn win the 2026 Tenne | Yes (SELL) | 89% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Marsha Blackburn win the 2026 Tenne | Yes (SELL) | 89% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Marsha Blackburn win the 2026 Tenne | Yes (SELL) | 90% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 88% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 90% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | Yes (SELL) | 33% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | Yes (SELL) | 33% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Marsha Blackburn win the 2026 Tenne | Yes (SELL) | 90% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will John Rose win the 2026 Tennessee Go | No (BUY) | 90% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Marsha Blackburn win the 2026 Tenne | No (BUY) | 11% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Monty Fritts win the 2026 Tennessee | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Marsha Blackburn win the 2026 Tenne | Yes (SELL) | 92% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | San Diego Padres vs. Arizona Diamondback | Arizona Diamondbacks (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Monty Fritts win the 2026 Tennessee | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will John Rose win the 2026 Tennessee Go | No (BUY) | 90% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | Yes (SELL) | 18% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Seattle  | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | San Diego Padres vs. Arizona Diamondback | Arizona Diamondbacks (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Shanghai | No (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Shanghai | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
