@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 08:18:58 (hora de Perú)
+Actualizado: 2026-08-04 08:21:35 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | TopGleaguepick | 14 | 2 | 0 | 88% |
 | cigarettes | 63 | 10 | 1 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
-| swisstony | 721 | 154 | 69 | 82% |
+| swisstony | 721 | 154 | 70 | 82% |
 | fkgggg2mouzfuria | 95 | 29 | 0 | 77% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | one8tyfive | 44 | 14 | 1 | 76% |
@@ -52,12 +52,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | flatbarrel | 9 | 6 | 1 | 60% |
 | us391 | 27 | 18 | 2 | 60% |
 | lllllllIlll | 9 | 6 | 3 | 60% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 42 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 43 | 59% |
 | meoooow | 22 | 15 | 3 | 59% |
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
 | HomeRunHazard | 285 | 209 | 13 | 58% |
-| monkeymashingkeyboard | 21 | 16 | 2 | 57% |
+| monkeymashingkeyboard | 21 | 16 | 3 | 57% |
 | MeiGuNiuBi | 4 | 3 | 0 | ⚠️ 57% (muestra chica: 7) |
 | 1winstreak1 | 50 | 39 | 0 | 56% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 8 | 7 | 2 | 53% |
