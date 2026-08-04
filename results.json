@@ -132250,5 +132250,41 @@
     "usd": 1798.7716999999996,
     "odds_at_bet": 12,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785834609,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-piros-rincon-2026-08-03",
+    "title": "Hagen: Zsombor Piros vs Daniel Rincon",
+    "outcome": "Zsombor Piros",
+    "side": "BUY",
+    "usd": 4100.0,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785834652,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "kbo-lg-ssg-2026-08-06",
+    "title": "KBO: LG Twins vs. SSG Landers",
+    "outcome": "LG Twins",
+    "side": "BUY",
+    "usd": 1003.52,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785834689,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-durasov-geerts-2026-08-03",
+    "title": "Grodzisk Mazowiecki: Viktor Durasovic vs Michael Geerts",
+    "outcome": "Michael Geerts",
+    "side": "BUY",
+    "usd": 2594.4527999999996,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
