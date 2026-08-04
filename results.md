@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 17:56:01 (hora de Perú)
+Actualizado: 2026-08-04 17:59:26 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -19,7 +19,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 0 | 100% |
 | RLXDJ19701601 | 2 | 0 | 0 | ⚠️ 100% (muestra chica: 2) |
 | quavoo | 2 | 0 | 3 | ⚠️ 100% (muestra chica: 2) |
-| 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 3 | 0 | 1 | ⚠️ 100% (muestra chica: 3) |
+| 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 3 | 0 | 2 | ⚠️ 100% (muestra chica: 3) |
 | matenghehe | 81 | 2 | 0 | 98% |
 | fazewinline | 23 | 1 | 0 | 96% |
 | paquitomillonario | 17 | 1 | 2 | 94% |
@@ -41,8 +41,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | BirdMan. | 48 | 24 | 8 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
-| RN1 | 1212 | 641 | 121 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 20 | 65% |
+| RN1 | 1212 | 641 | 131 | 65% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 21 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
@@ -55,17 +55,17 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 2 | 58% |
-| HomeRunHazard | 300 | 216 | 90 | 58% |
-| monkeymashingkeyboard | 21 | 16 | 9 | 57% |
+| HomeRunHazard | 300 | 216 | 93 | 58% |
+| monkeymashingkeyboard | 21 | 16 | 10 | 57% |
 | us391 | 27 | 20 | 1 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
 | MeiGuNiuBi | 4 | 3 | 0 | ⚠️ 57% (muestra chica: 7) |
-| 1winstreak1 | 50 | 39 | 1 | 56% |
+| 1winstreak1 | 50 | 39 | 2 | 56% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 18 | 14 | 4 | 56% |
 | lllllllIlll | 9 | 8 | 1 | 53% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 34 | 52% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 31 | 30 | 6 | 51% |
-| wr0ngw4yb3tt0r | 144 | 144 | 15 | 50% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 31 | 30 | 7 | 51% |
+| wr0ngw4yb3tt0r | 144 | 144 | 19 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
 | SDTrading | 3 | 3 | 4 | ⚠️ 50% (muestra chica: 6) |
@@ -102,7 +102,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
-| 0x4f2 | 0 | 2 | 0 | ⚠️ 0% (muestra chica: 2) |
+| 0x4f2 | 0 | 2 | 1 | ⚠️ 0% (muestra chica: 2) |
 | CORGI8 | 0 | 6 | 0 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
