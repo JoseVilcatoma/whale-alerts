@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 09:01:05 (hora de Perú)
+Actualizado: 2026-08-04 09:03:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 0 | 0 | 5 | +0.00 USD |
+| CORGI8 | 0 | 0 | 9 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -23,6 +23,10 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 40% | 52.93 | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 40% | 6.39 | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 40% | 1.21 | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 40% | 303.38 | ⏳ pendiente | — |
 | CORGI8 | Dota 2: 1win vs Vici Gaming - Game 1 Win | Vici Gaming (BUY) | 34% | 6.44 | ⏳ pendiente | — |
 | CORGI8 | Dota 2: 1win vs Vici Gaming - Game 1 Win | Vici Gaming (BUY) | 34% | 3.05 | ⏳ pendiente | — |
 | CORGI8 | Dota 2: 1win vs Vici Gaming - Game 1 Win | Vici Gaming (BUY) | 34% | 1.35 | ⏳ pendiente | — |
