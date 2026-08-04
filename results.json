@@ -141922,5 +141922,65 @@
     "usd": 1571.5590000000002,
     "odds_at_bet": 66,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785879385,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col1-llf-foc-2026-08-04-first-half-total-2pt5",
+    "title": "Llaneros FC vs. Fortaleza CEIF: 1st Half O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1287.6,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785879385,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-nakashi-altmaie-2026-08-04",
+    "title": "National Bank Open: Brandon Nakashima vs Daniel Altmaier",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 1135.35,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785879388,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-loge-agameno-2026-08-03",
+    "title": "Plovdiv 2: Jack Loge vs Franco Agamenone",
+    "outcome": "Franco Agamenone",
+    "side": "BUY",
+    "usd": 1697.648571,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785879391,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-loge-agameno-2026-08-03",
+    "title": "Plovdiv 2: Jack Loge vs Franco Agamenone",
+    "outcome": "Franco Agamenone",
+    "side": "BUY",
+    "usd": 1055.682857,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785879445,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-wsh-phi-2026-08-04-spread-home-1pt5",
+    "title": "Spread: Philadelphia Phillies (-1.5)",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 2940.0,
+    "odds_at_bet": 42,
+    "status": "pending"
   }
 ]
