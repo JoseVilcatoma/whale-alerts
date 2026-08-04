@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 12:27:48 (hora de Perú)
+Actualizado: 2026-08-04 12:29:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $449.82
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
 | Corlys | 0 | 0 | 144 | +0.00 USD |
 | betterfasterstronger | 0 | 0 | 18 | +0.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 43 | +0.00 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 44 | +0.00 USD |
 | CORGI8 | 0 | 5 | 5 | -550.18 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -34,6 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Rune Eaters (BUY) | 9% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Yakult Brothers vs Rune Eaters ( | Rune Eaters (BUY) | 10% | 0.00 | ⏳ pendiente | — |
 | betterfasterstronger | Will the highest temperature in Chongqin | Yes (SELL) | 27% | 0.00 | ⏳ pendiente | — |
 | betterfasterstronger | Will the highest temperature in Shenzhen | Yes (SELL) | 26% | 0.00 | ⏳ pendiente | — |
@@ -63,4 +64,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys | Will the highest temperature in Amsterda | No (BUY) | 79% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Amsterda | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Amsterda | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
-| betterfasterstronger | Will the highest temperature in Guangzho | Yes (SELL) | 23% | 0.00 | ⏳ pendiente | — |
