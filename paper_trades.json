@@ -3190,5 +3190,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785802488,
+    "timestamp_added": 1785802488.759929,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "will-person-f-be-the-new-republican-nominee-for-senate-in-south-carolina-20260712140628838",
+    "title": "Will Darline Graham Nordone be the new republican nominee for Senate in South Carolina?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 8.63604,
+    "whale_pct": 0.419,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
