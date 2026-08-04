@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 15:11:57 (hora de Perú)
+Actualizado: 2026-08-04 15:14:05 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -12,7 +12,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | Pwaddler | 5 | 0 | 0 | ⚠️ 100% (muestra chica: 5) |
 | THEdirkdiggler | 3 | 0 | 1 | ⚠️ 100% (muestra chica: 3) |
-| LeatherPants | 1 | 0 | 1 | ⚠️ 100% (muestra chica: 1) |
+| LeatherPants | 1 | 0 | 2 | ⚠️ 100% (muestra chica: 1) |
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | patient12 | 49 | 0 | 2 | 100% |
 | highnetworth | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
@@ -23,12 +23,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | matenghehe | 81 | 2 | 0 | 98% |
 | fazewinline | 23 | 1 | 0 | 96% |
 | paquitomillonario | 17 | 1 | 0 | 94% |
-| texaskid | 16 | 1 | 0 | 94% |
+| texaskid | 16 | 1 | 1 | 94% |
 | TopGleaguepick | 14 | 2 | 0 | 88% |
 | cigarettes | 63 | 10 | 2 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | elizabeth.ethcome | 12 | 2 | 0 | 86% |
-| swisstony | 726 | 156 | 64 | 82% |
+| swisstony | 726 | 156 | 65 | 82% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | one8tyfive | 44 | 14 | 2 | 76% |
 | fkgggg2mouzfuria | 95 | 30 | 0 | 76% |
@@ -42,12 +42,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BirdMan. | 48 | 24 | 2 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
 | RN1 | 1212 | 641 | 55 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 4 | 65% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 5 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 112 | 63 | 16 | 64% |
-| UpTheBlues | 67 | 40 | 29 | 63% |
+| UpTheBlues | 67 | 40 | 31 | 63% |
 | flatbarrel | 10 | 6 | 1 | 62% |
 | ferrariChampions2026 | 1959 | 1258 | 32 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 23 | 61% |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
-| HomeRunHazard | 300 | 216 | 13 | 58% |
+| HomeRunHazard | 300 | 216 | 15 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 4 | 57% |
 | us391 | 27 | 20 | 0 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
@@ -65,7 +65,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | lllllllIlll | 9 | 8 | 1 | 53% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 5 | 52% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 31 | 30 | 0 | 51% |
-| wr0ngw4yb3tt0r | 144 | 144 | 0 | 50% |
+| wr0ngw4yb3tt0r | 144 | 144 | 1 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
 | SDTrading | 3 | 3 | 2 | ⚠️ 50% (muestra chica: 6) |
@@ -74,14 +74,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x0x23kjookhaiuohduoayh8c9 | 1 | 1 | 5 | ⚠️ 50% (muestra chica: 2) |
 |  | 3 | 3 | 5 | ⚠️ 50% (muestra chica: 6) |
 | canoflanagan | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
-| AnonymousUsername | 32 | 35 | 2 | 48% |
+| AnonymousUsername | 32 | 35 | 3 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 0 | 48% |
 | esportGG | 85 | 96 | 0 | 47% |
 | sbsigner | 38 | 44 | 0 | 46% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 95 | 1 | 45% |
 | PASSTHEMONEY | 45 | 62 | 0 | 42% |
-| pleaseplease123 | 43 | 63 | 1 | 41% |
+| pleaseplease123 | 43 | 63 | 2 | 41% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 30 | 1 | 39% |
 | Talvez10 | 17 | 30 | 1 | 36% |
