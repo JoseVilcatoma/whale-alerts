@@ -141454,5 +141454,53 @@
     "usd": 1539.274,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785878290,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-ruzic-keys-2026-08-04",
+    "title": "National Bank Open: Antonia Ruzic vs Madison Keys",
+    "outcome": "Madison Keys",
+    "side": "BUY",
+    "usd": 1357.83,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785878291,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-ruzic-keys-2026-08-04",
+    "title": "National Bank Open: Antonia Ruzic vs Madison Keys",
+    "outcome": "Madison Keys",
+    "side": "BUY",
+    "usd": 1486.412883,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785878294,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-perrica-zandsch-2026-08-03",
+    "title": "Canadian Open: Giovanni Mpetshi Perricard vs Botic van de Zandschulp",
+    "outcome": "Botic van de Zandschulp",
+    "side": "BUY",
+    "usd": 1783.6000000000001,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785878296,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-perrica-zandsch-2026-08-03",
+    "title": "Canadian Open: Giovanni Mpetshi Perricard vs Botic van de Zandschulp",
+    "outcome": "Botic van de Zandschulp",
+    "side": "BUY",
+    "usd": 2022.2222219999999,
+    "odds_at_bet": 91,
+    "status": "pending"
   }
 ]
