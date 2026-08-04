@@ -133582,5 +133582,29 @@
     "usd": 2288.549999,
     "odds_at_bet": 53,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785837554,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-justpl-enjoy-2026-08-04-map-handicap-away-1pt5",
+    "title": "Map Handicap: JustP (-1.5) vs ENJOY (+1.5)",
+    "outcome": "ENJOY",
+    "side": "BUY",
+    "usd": 1220.096,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785837593,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-durasov-geerts-2026-08-03",
+    "title": "Grodzisk Mazowiecki: Viktor Durasovic vs Michael Geerts",
+    "outcome": "Michael Geerts",
+    "side": "BUY",
+    "usd": 6253.635399999999,
+    "odds_at_bet": 58,
+    "status": "pending"
   }
 ]
