@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 19:09:18 (hora de Perú)
+Actualizado: 2026-08-03 19:11:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Pwaddler | 0 | 0 | 1 | +0.00 USD |
 | Djdjdjekekek | 1 | 0 | 1 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 3 | +0.00 USD |
-| Corlys | 0 | 0 | 146 | +0.00 USD |
+| Corlys | 0 | 0 | 159 | +0.00 USD |
 | crckr | 0 | 0 | 4 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -30,6 +30,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Corlys | Will the highest temperature in London b | No (BUY) | 82% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in London b | No (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in London b | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in London b | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in London b | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in London b | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in London b | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in London b | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Chengdu  | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Chengdu  | No (BUY) | 91% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Chengdu  | No (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Chengdu  | No (BUY) | 90% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Chengdu  | No (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will Ted Cruz post 100-119 posts from Ju | No (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will Ted Cruz post 160-179 posts from Ju | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will Ted Cruz post 140-159 posts from Ju | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
@@ -47,16 +60,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys | Will Ted Cruz post 160-179 posts from Ju | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will Ted Cruz post 140-159 posts from Ju | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will Ted Cruz post 160-179 posts from Ju | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Ted Cruz post 120-139 posts from Ju | No (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Ted Cruz post 100-119 posts from Ju | No (BUY) | 33% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Ted Cruz post 140-159 posts from Ju | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Ted Cruz post 120-139 posts from Ju | No (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Ted Cruz post 160-179 posts from Ju | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Ted Cruz post 140-159 posts from Ju | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Istanbul | No (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Istanbul | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Istanbul | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Istanbul | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Istanbul | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Istanbul | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Istanbul | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
