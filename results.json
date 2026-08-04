@@ -133762,5 +133762,29 @@
     "usd": 1530.7151999999999,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785838376,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-genga-hle-2026-08-04",
+    "title": "LoL: Gen.G Global Academy vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+    "outcome": "Hanwha Life Esports Challengers",
+    "side": "BUY",
+    "usd": 1225.937,
+    "odds_at_bet": 95,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785838406,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-genga-hle-2026-08-04",
+    "title": "LoL: Gen.G Global Academy vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+    "outcome": "Hanwha Life Esports Challengers",
+    "side": "BUY",
+    "usd": 1572.5995999999998,
+    "odds_at_bet": 95,
+    "status": "pending"
   }
 ]
