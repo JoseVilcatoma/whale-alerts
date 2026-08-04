@@ -146602,5 +146602,41 @@
     "usd": 1563.0120000000002,
     "odds_at_bet": 40,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785885229,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-oak-cin-2026-08-04-total-7pt5",
+    "title": "Athletics vs. Cincinnati Reds: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1070.3700000000001,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785885235,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-tiafoe-cilic-2026-08-04",
+    "title": "National Bank Open: Frances Tiafoe vs Marin Cilic",
+    "outcome": "Frances Tiafoe",
+    "side": "BUY",
+    "usd": 3300.0,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785885235,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-tiafoe-cilic-2026-08-04",
+    "title": "National Bank Open: Frances Tiafoe vs Marin Cilic",
+    "outcome": "Marin Cilic",
+    "side": "BUY",
+    "usd": 10492.366000000002,
+    "odds_at_bet": 34,
+    "status": "pending"
   }
 ]
