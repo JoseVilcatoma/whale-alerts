@@ -137050,5 +137050,17 @@
     "usd": 1937.923,
     "odds_at_bet": 65,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785849226,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-bro2-drx-2026-08-04",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 3199.68,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
