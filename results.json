@@ -134746,5 +134746,89 @@
     "usd": 2253.9195,
     "odds_at_bet": 85,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785841200,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-ace1-bca-2026-08-04",
+    "title": "Counter-Strike: Acend vs Betclic Apogee Esports (BO3) - Stake Pulse Beat I Playoffs",
+    "outcome": "Acend",
+    "side": "BUY",
+    "usd": 2100.6267,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841202,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "clf-jej-bmu-2026-08-04-total-2pt5",
+    "title": "Jeju SK FC vs. Bayern Munich: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1638.0936,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841238,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-monteir-gentzsc-2026-08-04",
+    "title": "Hagen: Thiago Monteiro vs Tom Gentzsch",
+    "outcome": "Tom Gentzsch",
+    "side": "BUY",
+    "usd": 4882.352940999999,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841272,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-galfi-seidel-2026-08-03",
+    "title": "Warsaw: Dalma Galfi vs Ella Seidel",
+    "outcome": "Dalma Galfi",
+    "side": "BUY",
+    "usd": 2014.0400000000002,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841283,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-jacquem-lee-2026-08-03",
+    "title": "Warsaw: Elsa Jacquemot vs Carol Young Suh Lee",
+    "outcome": "Carol Young Suh Lee",
+    "side": "BUY",
+    "usd": 2319.9995,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841290,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-t1a-ktc-2026-08-04-game1",
+    "title": "LoL: T1 Academy vs KT Rolster Challengers - Game 1 Winner",
+    "outcome": "T1 Academy",
+    "side": "BUY",
+    "usd": 1693.1200000000001,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841291,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-t1a-ktc-2026-08-04-game1",
+    "title": "LoL: T1 Academy vs KT Rolster Challengers - Game 1 Winner",
+    "outcome": "T1 Academy",
+    "side": "BUY",
+    "usd": 1066.666666,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]

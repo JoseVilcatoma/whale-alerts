@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 05:59:59 (hora de Perú)
+Actualizado: 2026-08-04 06:02:08 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -19,7 +19,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | highnetworth | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 0 | 100% |
 | RLXDJ19701601 | 2 | 0 | 0 | ⚠️ 100% (muestra chica: 2) |
-| elizabeth.ethcome | 1 | 0 | 3 | ⚠️ 100% (muestra chica: 1) |
+| elizabeth.ethcome | 1 | 0 | 5 | ⚠️ 100% (muestra chica: 1) |
 |  | 1 | 0 | 2 | ⚠️ 100% (muestra chica: 1) |
 | matenghehe | 57 | 2 | 14 | 97% |
 | paquitomillonario | 16 | 1 | 0 | 94% |
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
-| RN1 | 1163 | 608 | 66 | 66% |
+| RN1 | 1163 | 608 | 67 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 413 | 218 | 6 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -46,17 +46,17 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | GoalLineGhost | 185 | 100 | 12 | 65% |
 | VeryLucky888 | 112 | 62 | 9 | 64% |
 | BirdMan. | 41 | 24 | 0 | 63% |
-| ferrariChampions2026 | 1905 | 1217 | 54 | 61% |
+| ferrariChampions2026 | 1905 | 1217 | 55 | 61% |
 | UpTheBlues | 63 | 40 | 28 | 61% |
 | fRibrenlc | 21 | 14 | 0 | 60% |
 | flatbarrel | 9 | 6 | 0 | 60% |
 | us391 | 27 | 18 | 2 | 60% |
-| lllllllIlll | 9 | 6 | 2 | 60% |
+| lllllllIlll | 9 | 6 | 3 | 60% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 26 | 59% |
 | meoooow | 22 | 15 | 1 | 59% |
 | StasPanda | 20 | 14 | 7 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
-| HomeRunHazard | 285 | 209 | 11 | 58% |
+| HomeRunHazard | 285 | 209 | 12 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 1 | 57% |
 | MeiGuNiuBi | 4 | 3 | 0 | ⚠️ 57% (muestra chica: 7) |
 | 1winstreak1 | 50 | 39 | 0 | 56% |
@@ -83,7 +83,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | jtwyslljy | 9 | 14 | 2 | 39% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 7 | 13 | 7 | 35% |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 7 | 13 | 8 | 35% |
 | Flipadelphia | 9 | 18 | 0 | 33% |
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | TAIWANNUMBERONE | 1 | 3 | 6 | ⚠️ 25% (muestra chica: 4) |
