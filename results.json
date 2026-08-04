@@ -133534,5 +133534,41 @@
     "usd": 4200.0,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785837376,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-svitoli-maneiro-2026-08-04",
+    "title": "National Bank Open: Elina Svitolina vs Jessica Bouzas Maneiro",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "usd": 4955.79,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785837382,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-monteir-gentzsc-2026-08-04",
+    "title": "Hagen: Thiago Monteiro vs Tom Gentzsch",
+    "outcome": "Thiago Monteiro",
+    "side": "BUY",
+    "usd": 1486.8,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785837382,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-monteir-gentzsc-2026-08-04",
+    "title": "Hagen: Thiago Monteiro vs Tom Gentzsch",
+    "outcome": "Tom Gentzsch",
+    "side": "BUY",
+    "usd": 2643.2000000000003,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]
