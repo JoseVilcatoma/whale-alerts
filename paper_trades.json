@@ -3208,5 +3208,85 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785802677,
+    "timestamp_added": 1785802678.0166876,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 83.7,
+    "whale_pct": 3.596,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785802677,
+    "timestamp_added": 1785802678.630779,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 16.184,
+    "whale_pct": 0.695,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785802677,
+    "timestamp_added": 1785802679.2228005,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 78.11999999999999,
+    "whale_pct": 3.356,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785802677,
+    "timestamp_added": 1785802679.8890107,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 86.02289999999999,
+    "whale_pct": 3.696,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
   }
 ]
