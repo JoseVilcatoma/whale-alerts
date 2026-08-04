@@ -4323,5 +4323,23 @@
       "Corlys"
     ],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785867838,
+    "timestamp_added": 1785867839.3920913,
+    "username": "betterfasterstronger",
+    "wallet": "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c",
+    "slug": "highest-temperature-in-shanghai-on-august-5-2026-32c",
+    "title": "Will the highest temperature in Shanghai be 32\u00b0C on August 5?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 3.5999999999999996,
+    "whale_pct": 0.117,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 18,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
