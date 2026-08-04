@@ -131842,5 +131842,29 @@
     "usd": 6309.1974,
     "odds_at_bet": 66,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785833611,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-bb4-og-2026-08-04",
+    "title": "Dota 2: BetBoom Team vs OG (BO3) - 1win Essence Playoffs",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 3300.0,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785833653,
+    "username": "fazewinline",
+    "wallet": "0x1d3567ad67b1f054160f9d560ca3817038cc94ee",
+    "slug": "lol-t1-hle1-2026-08-04",
+    "title": "LoL: T1 vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 1322.772,
+    "odds_at_bet": 79,
+    "status": "pending"
   }
 ]
