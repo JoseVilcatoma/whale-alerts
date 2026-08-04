@@ -131878,5 +131878,89 @@
     "usd": 1746.5008,
     "odds_at_bet": 88,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785833875,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "wta-ewald-mikulsk-2026-08-03",
+    "title": "Warsaw: Weronika Ewald vs Justina Mikulskyte",
+    "outcome": "Weronika Ewald",
+    "side": "BUY",
+    "usd": 1249.9998,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785833896,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-t1-hle1-2026-08-04",
+    "title": "LoL: T1 vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "T1",
+    "side": "SELL",
+    "usd": 18475.083000000002,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785833941,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-rustec-newvis-2026-08-04",
+    "title": "Counter-Strike: ex-RUSTEC vs NEW VISION (BO3) - CCT Europe Series #6 Group Stage",
+    "outcome": "ex-RUSTEC",
+    "side": "BUY",
+    "usd": 1014.5891,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785833944,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-rustec-newvis-2026-08-04-map-handicap-away-1pt5",
+    "title": "Map Handicap: ex-RUSTEC (-1.5) vs NEW VISION (+1.5)",
+    "outcome": "NEW VISION",
+    "side": "BUY",
+    "usd": 1347.168,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785833944,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-rustec-newvis-2026-08-04-map-handicap-away-1pt5",
+    "title": "Map Handicap: ex-RUSTEC (-1.5) vs NEW VISION (+1.5)",
+    "outcome": "ex-RUSTEC",
+    "side": "BUY",
+    "usd": 1459.432,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785833946,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-tl1-9ine-2026-08-04",
+    "title": "Counter-Strike: Liquid vs 9INE (BO3) - Stake Pulse Beat I Playoffs",
+    "outcome": "Liquid",
+    "side": "BUY",
+    "usd": 1749.3638999999998,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785833948,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-justpl-enjoy-2026-08-04-map-handicap-away-1pt5",
+    "title": "Map Handicap: JustP (-1.5) vs ENJOY (+1.5)",
+    "outcome": "ENJOY",
+    "side": "BUY",
+    "usd": 1382.2016,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]

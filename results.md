@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 03:57:38 (hora de Perú)
+Actualizado: 2026-08-04 03:59:45 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -69,7 +69,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | PleaseWinPlease | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
 | 0x0x23kjookhaiuohduoayh8c9 | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 26 | 27 | 0 | 49% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 26 | 27 | 2 | 49% |
 | AnonymousUsername | 32 | 35 | 0 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 40 | 43 | 0 | 48% |
 | esportGG | 77 | 85 | 0 | 48% |
@@ -83,7 +83,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | jtwyslljy | 9 | 14 | 0 | 39% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 7 | 13 | 2 | 35% |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 7 | 13 | 3 | 35% |
 | Flipadelphia | 9 | 18 | 0 | 33% |
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | TAIWANNUMBERONE | 1 | 3 | 0 | ⚠️ 25% (muestra chica: 4) |
@@ -98,10 +98,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | beachboy4 | 0 | 9 | 0 | 0% |
-| 0x4f2 | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
+| 0x4f2 | 0 | 1 | 1 | ⚠️ 0% (muestra chica: 1) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | denizz | 0 | 0 | 17 | — |
 | ndb1 | 0 | 0 | 2 | — |
 | BrightStars | 0 | 0 | 2 | — |
 | CORGI8 | 0 | 0 | 1 | — |
+| skyman44 | 0 | 0 | 3 | — |
