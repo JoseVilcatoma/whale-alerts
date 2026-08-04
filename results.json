@@ -149290,5 +149290,53 @@
     "usd": 1903.922222,
     "odds_at_bet": 91,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785887408,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-pit-mil-2026-08-04",
+    "title": "Pittsburgh Pirates vs. Milwaukee Brewers",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 3523.2000000000003,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785887408,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-pit-mil-2026-08-04",
+    "title": "Pittsburgh Pirates vs. Milwaukee Brewers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 4677.599999999999,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785887429,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-duckwor-minaur-2026-08-04",
+    "title": "National Bank Open: James Duckworth vs Alex de Minaur",
+    "outcome": "Alex de Minaur",
+    "side": "BUY",
+    "usd": 1140.4412,
+    "odds_at_bet": 92,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785887445,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "lec-clt-pum-2026-08-04-pum",
+    "title": "Will Pumas de la UNAM win on 2026-08-04?",
+    "outcome": "No",
+    "side": "SELL",
+    "usd": 1174.4776,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
