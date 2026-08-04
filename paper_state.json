@@ -1,10 +1,40 @@
 {
-  "bankroll": 1000.0,
+  "bankroll": 844.8299999999999,
   "history": [
     {
       "timestamp": 1785799986.554965,
       "bankroll": 1000.0,
       "event": "won: Djdjdjekekek \u2014 Dota 2: Rune Eaters vs LGD Gaming (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785803177.8207572,
+      "bankroll": 919.98,
+      "event": "lost: CORGI8 \u2014 Dota 2: Team Liquid vs Vici Gaming (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785803177.920971,
+      "bankroll": 916.89,
+      "event": "lost: CORGI8 \u2014 Dota 2: Team Liquid vs Vici Gaming (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785803178.0211682,
+      "bankroll": 914.02,
+      "event": "lost: CORGI8 \u2014 Dota 2: Team Liquid vs Vici Gaming (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785803178.1213768,
+      "bankroll": 910.03,
+      "event": "lost: CORGI8 \u2014 Dota 2: Team Liquid vs Vici Gaming (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785803178.2215786,
+      "bankroll": 908.66,
+      "event": "lost: CORGI8 \u2014 Dota 2: Team Liquid vs Vici Gaming (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785803178.3217204,
+      "bankroll": 844.83,
+      "event": "lost: CORGI8 \u2014 Dota 2: Team Liquid vs Vici Gaming (BO3) - 1win Essence Playoffs"
     }
   ]
 }
