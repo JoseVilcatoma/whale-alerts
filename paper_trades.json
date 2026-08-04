@@ -18220,5 +18220,41 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785817541,
+    "timestamp_added": 1785817542.1544607,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "wta-osorio-alexand-2026-08-04",
+    "title": "National Bank Open: Camila Osorio vs Ekaterina Alexandrova",
+    "outcome": "Camila Osorio",
+    "side": "BUY",
+    "whale_usd": 165.655,
+    "whale_pct": 0.256,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785817543,
+    "timestamp_added": 1785817543.9820707,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "wta-osorio-alexand-2026-08-04",
+    "title": "National Bank Open: Camila Osorio vs Ekaterina Alexandrova",
+    "outcome": "Camila Osorio",
+    "side": "BUY",
+    "whale_usd": 100.0,
+    "whale_pct": 0.154,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]

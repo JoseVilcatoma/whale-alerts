@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 23:22:36 (hora de Perú)
+Actualizado: 2026-08-03 23:27:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $745.86
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys | 0 | 0 | 968 | +0.00 USD |
 | crckr | 0 | 0 | 9 | +0.00 USD |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 3 | +0.00 USD |
-| AV23IUa | 0 | 0 | 9 | +0.00 USD |
+| AV23IUa | 0 | 0 | 11 | +0.00 USD |
 | Pwaddler | 0 | 1 | 0 | -8.17 USD |
 | Djdjdjekekek | 1 | 2 | 2 | -146.20 USD |
 | CORGI8 | 0 | 6 | 0 | -155.17 USD |
@@ -33,6 +33,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | National Bank Open: Camila Osorio vs Eka | Camila Osorio (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| AV23IUa | National Bank Open: Camila Osorio vs Eka | Camila Osorio (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | AV23IUa | Will Santos FC win on 2026-08-04? | Yes (BUY) | 40% | 0.00 | ⏳ pendiente | — |
 | AV23IUa | Map Handicap: TL (-1.5) vs 9INE (+1.5) | 9INE (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | AV23IUa | Will EC Juventude win on 2026-08-04? | Yes (BUY) | 29% | 0.00 | ⏳ pendiente | — |
@@ -61,5 +63,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys | Will the highest temperature in Panama C | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Panama C | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Panama C | No (BUY) | 89% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Panama C | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Wuhan be | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
