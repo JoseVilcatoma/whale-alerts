@@ -141982,5 +141982,89 @@
     "usd": 2940.0,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785879532,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-ruzic-keys-2026-08-04",
+    "title": "National Bank Open: Antonia Ruzic vs Madison Keys",
+    "outcome": "Madison Keys",
+    "side": "BUY",
+    "usd": 5776.2342,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785879573,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "mlb-wsh-phi-2026-08-04",
+    "title": "Washington Nationals vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 2063.3864,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785879573,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "mlb-wsh-phi-2026-08-04",
+    "title": "Washington Nationals vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 3279.6726,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785879573,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "mlb-wsh-phi-2026-08-04",
+    "title": "Washington Nationals vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 3700.0,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785879573,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "mlb-wsh-phi-2026-08-04",
+    "title": "Washington Nationals vs. Philadelphia Phillies",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 3177.291,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785879582,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-mochizu-marozsa-2026-08-03",
+    "title": "National Bank Open: Shintaro Mochizuki vs Fabian Marozsan",
+    "outcome": "Fabian Marozsan",
+    "side": "BUY",
+    "usd": 1882.0,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785879631,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Andrey Rublev",
+    "side": "BUY",
+    "usd": 2900.22,
+    "odds_at_bet": 15,
+    "status": "pending"
   }
 ]

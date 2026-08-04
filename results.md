@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 16:38:17 (hora de Perú)
+Actualizado: 2026-08-04 16:40:41 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 63 | 10 | 2 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | elizabeth.ethcome | 12 | 2 | 0 | 86% |
-| swisstony | 726 | 156 | 76 | 82% |
+| swisstony | 726 | 156 | 77 | 82% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | one8tyfive | 44 | 14 | 3 | 76% |
 | fkgggg2mouzfuria | 95 | 30 | 0 | 76% |
@@ -41,15 +41,15 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | BirdMan. | 48 | 24 | 5 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
-| RN1 | 1212 | 641 | 88 | 65% |
+| RN1 | 1212 | 641 | 89 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 15 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
-| VeryLucky888 | 112 | 63 | 23 | 64% |
+| VeryLucky888 | 112 | 63 | 26 | 64% |
 | UpTheBlues | 67 | 40 | 36 | 63% |
 | flatbarrel | 10 | 6 | 2 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 95 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 96 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 43 | 61% |
 | fRibrenlc | 21 | 14 | 1 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
@@ -77,7 +77,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | AnonymousUsername | 32 | 35 | 11 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 0 | 48% |
 | esportGG | 85 | 96 | 0 | 47% |
-| sbsigner | 38 | 44 | 0 | 46% |
+| sbsigner | 38 | 44 | 1 | 46% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 95 | 1 | 45% |
 | PASSTHEMONEY | 45 | 62 | 0 | 42% |
