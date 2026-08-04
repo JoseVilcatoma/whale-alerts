@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 16:20:58 (hora de Perú)
+Actualizado: 2026-08-04 16:23:14 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | BirdMan. | 48 | 24 | 4 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
-| RN1 | 1212 | 641 | 79 | 65% |
+| RN1 | 1212 | 641 | 80 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 12 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 112 | 63 | 21 | 64% |
 | UpTheBlues | 67 | 40 | 36 | 63% |
 | flatbarrel | 10 | 6 | 2 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 86 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 87 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 43 | 61% |
 | fRibrenlc | 21 | 14 | 1 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
@@ -63,9 +63,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 1winstreak1 | 50 | 39 | 0 | 56% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 18 | 14 | 3 | 56% |
 | lllllllIlll | 9 | 8 | 1 | 53% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 6 | 52% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 7 | 52% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 31 | 30 | 0 | 51% |
-| wr0ngw4yb3tt0r | 144 | 144 | 3 | 50% |
+| wr0ngw4yb3tt0r | 144 | 144 | 4 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
 | SDTrading | 3 | 3 | 2 | ⚠️ 50% (muestra chica: 6) |
