@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 20:16:08 (hora de Perú)
+Actualizado: 2026-08-03 20:18:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $844.83
@@ -16,8 +16,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Pwaddler | 0 | 0 | 1 | +0.00 USD |
 | Djdjdjekekek | 1 | 0 | 1 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 3 | +0.00 USD |
-| Corlys | 0 | 0 | 354 | +0.00 USD |
+| Corlys | 0 | 0 | 356 | +0.00 USD |
 | crckr | 0 | 0 | 7 | +0.00 USD |
+| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 1 | +0.00 USD |
 | CORGI8 | 0 | 6 | 0 | -155.17 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -31,6 +32,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Corlys | Will the highest temperature in Hong Kon | Yes (SELL) | 30% | 0.00 | ⏳ pendiente | — |
+| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | Games Total: O/U 2.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | Yes (SELL) | 30% | 0.00 | ⏳ pendiente | — |
 | Corlys |  |  (SELL) | 50% | 0.00 | ⏳ pendiente | — |
 | Corlys |  |  (SELL) | 50% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Milan be | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
@@ -58,6 +62,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys |  |  (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | Corlys |  |  (BUY) | 90% | 0.00 | ⏳ pendiente | — |
 | Corlys |  |  (BUY) | 78% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | Yes (SELL) | 36% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 65% | 0.00 | ⏳ pendiente | — |
