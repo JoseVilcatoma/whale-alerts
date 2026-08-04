@@ -136942,5 +136942,41 @@
     "usd": 2237.7432,
     "odds_at_bet": 77,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785849031,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-zhang-ostapen-2026-08-04",
+    "title": "National Bank Open: Shuai Zhang vs Jelena Ostapenko",
+    "outcome": "Shuai Zhang",
+    "side": "BUY",
+    "usd": 3989.5499999999997,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785849031,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-zhang-ostapen-2026-08-04",
+    "title": "National Bank Open: Shuai Zhang vs Jelena Ostapenko",
+    "outcome": "Jelena Ostapenko",
+    "side": "BUY",
+    "usd": 8400.0,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785849052,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-1win-vg-2026-08-04-game1",
+    "title": "Dota 2: 1win vs Vici Gaming - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 2999.9999989999997,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]
