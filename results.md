@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 04:08:00 (hora de Perú)
+Actualizado: 2026-08-04 04:10:05 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -19,7 +19,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | highnetworth | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 0 | 100% |
 | RLXDJ19701601 | 2 | 0 | 0 | ⚠️ 100% (muestra chica: 2) |
-| elizabeth.ethcome | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
+| elizabeth.ethcome | 1 | 0 | 1 | ⚠️ 100% (muestra chica: 1) |
 |  | 1 | 0 | 1 | ⚠️ 100% (muestra chica: 1) |
 | matenghehe | 57 | 2 | 0 | 97% |
 | paquitomillonario | 16 | 1 | 0 | 94% |
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
-| RN1 | 1163 | 608 | 39 | 66% |
+| RN1 | 1163 | 608 | 42 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 413 | 218 | 3 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -52,15 +52,15 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | flatbarrel | 9 | 6 | 0 | 60% |
 | us391 | 27 | 18 | 0 | 60% |
 | lllllllIlll | 9 | 6 | 1 | 60% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 7 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 8 | 59% |
 | meoooow | 22 | 15 | 0 | 59% |
 | StasPanda | 20 | 14 | 2 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
-| HomeRunHazard | 285 | 209 | 6 | 58% |
+| HomeRunHazard | 285 | 209 | 7 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 1 | 57% |
 | MeiGuNiuBi | 4 | 3 | 0 | ⚠️ 57% (muestra chica: 7) |
 | 1winstreak1 | 50 | 39 | 0 | 56% |
-| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 8 | 7 | 0 | 53% |
+| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 8 | 7 | 1 | 53% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 4 | 52% |
 | wr0ngw4yb3tt0r | 144 | 144 | 0 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -80,13 +80,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | pleaseplease123 | 43 | 63 | 0 | 41% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 29 | 1 | 40% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
-| jtwyslljy | 9 | 14 | 0 | 39% |
+| jtwyslljy | 9 | 14 | 1 | 39% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 7 | 13 | 3 | 35% |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 7 | 13 | 4 | 35% |
 | Flipadelphia | 9 | 18 | 0 | 33% |
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
-| TAIWANNUMBERONE | 1 | 3 | 0 | ⚠️ 25% (muestra chica: 4) |
+| TAIWANNUMBERONE | 1 | 3 | 1 | ⚠️ 25% (muestra chica: 4) |
 | 111111111115 | 11 | 36 | 0 | 23% |
 | AV23IUa | 4 | 14 | 0 | 22% |
 | Anjun | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
