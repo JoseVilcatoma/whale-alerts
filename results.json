@@ -133102,5 +133102,53 @@
     "usd": 1003.0488,
     "odds_at_bet": 78,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785836194,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-gen-dnf-2026-08-04-game1",
+    "title": "LoL: Gen.G vs DN SOOPers - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 2857.139998,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785836201,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-trevis-bertea-2026-08-04",
+    "title": "ITF Koksijde: Martina Trevisan vs Elena Ruxandra Bertea",
+    "outcome": "Elena Ruxandra Bertea",
+    "side": "BUY",
+    "usd": 2711.6358,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785836261,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-gomez-squire-2026-08-03",
+    "title": "Hagen: Federico Agustin Gomez vs Henri Squire",
+    "outcome": "Henri Squire",
+    "side": "BUY",
+    "usd": 3795.4052649999994,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785836305,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-t1a-ktc-2026-08-04",
+    "title": "LoL: T1 Academy vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+    "outcome": "KT Rolster Challengers",
+    "side": "BUY",
+    "usd": 2170.0,
+    "odds_at_bet": 31,
+    "status": "pending"
   }
 ]
