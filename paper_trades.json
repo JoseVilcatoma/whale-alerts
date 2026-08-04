@@ -2654,5 +2654,65 @@
       "Djdjdjekekek"
     ],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785863287,
+    "timestamp_added": 1785863287.8561833,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-yb1-re-2026-08-04",
+    "title": "Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs",
+    "outcome": "Yakult Brothers",
+    "side": "BUY",
+    "whale_usd": 24.0,
+    "whale_pct": 0.207,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 24,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "CORGI8",
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785863290,
+    "timestamp_added": 1785863291.2979014,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-yb1-re-2026-08-04",
+    "title": "Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs",
+    "outcome": "Yakult Brothers",
+    "side": "BUY",
+    "whale_usd": 214.79999999999998,
+    "whale_pct": 1.855,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 24,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "CORGI8",
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785863304,
+    "timestamp_added": 1785863305.11978,
+    "username": "betterfasterstronger",
+    "wallet": "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c",
+    "slug": "highest-temperature-in-paris-on-august-5-2026-29c",
+    "title": "Will the highest temperature in Paris be 29\u00b0C on August 5?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 5.8,
+    "whale_pct": 0.187,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
