@@ -141190,5 +141190,17 @@
     "usd": 3042.2306999999996,
     "odds_at_bet": 69,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785877774,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Andrey Rublev",
+    "side": "BUY",
+    "usd": 3787.8120000000004,
+    "odds_at_bet": 45,
+    "status": "pending"
   }
 ]
