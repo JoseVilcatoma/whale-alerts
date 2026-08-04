@@ -143782,5 +143782,29 @@
     "usd": 1390.27909,
     "odds_at_bet": 78,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785882374,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Andrey Rublev",
+    "side": "BUY",
+    "usd": 6209.0008,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785882394,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-kalinsk-kessler-2026-08-04",
+    "title": "National Bank Open: Anna Kalinskaya vs McCartney Kessler",
+    "outcome": "Anna Kalinskaya",
+    "side": "BUY",
+    "usd": 2248.68,
+    "odds_at_bet": 84,
+    "status": "pending"
   }
 ]
