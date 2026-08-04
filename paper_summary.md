@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 20:18:12 (hora de Perú)
+Actualizado: 2026-08-03 20:20:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $844.83
@@ -14,9 +14,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Pwaddler | 0 | 0 | 1 | +0.00 USD |
-| Djdjdjekekek | 1 | 0 | 1 | +0.00 USD |
+| Djdjdjekekek | 1 | 0 | 2 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 3 | +0.00 USD |
-| Corlys | 0 | 0 | 356 | +0.00 USD |
+| Corlys | 0 | 0 | 363 | +0.00 USD |
 | crckr | 0 | 0 | 7 | +0.00 USD |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 1 | +0.00 USD |
 | CORGI8 | 0 | 6 | 0 | -155.17 USD |
@@ -32,6 +32,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Los Angeles Dodgers vs. Chicago Cubs | Los Angeles Dodgers (BUY) | 29% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Seoul (I | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Seoul (I | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Seoul (I | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Seoul (I | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Seoul (I | No (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Seoul (I | No (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Seoul (I | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Hong Kon | Yes (SELL) | 30% | 0.00 | ⏳ pendiente | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | Games Total: O/U 2.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Hong Kon | Yes (SELL) | 30% | 0.00 | ⏳ pendiente | — |
@@ -54,11 +62,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys | Will the lowest temperature in London be | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in London be | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in London be | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in London be | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in London be | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in London be | No (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in London be | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 88% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 90% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 78% | 0.00 | ⏳ pendiente | — |
