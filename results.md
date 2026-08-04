@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 15:05:41 (hora de Perú)
+Actualizado: 2026-08-04 15:07:46 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -47,9 +47,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 112 | 63 | 16 | 64% |
-| UpTheBlues | 67 | 40 | 27 | 63% |
+| UpTheBlues | 67 | 40 | 29 | 63% |
 | flatbarrel | 10 | 6 | 1 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 30 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 32 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 22 | 61% |
 | fRibrenlc | 21 | 14 | 0 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
@@ -71,8 +71,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SDTrading | 3 | 3 | 2 | ⚠️ 50% (muestra chica: 6) |
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | PleaseWinPlease | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
-| 0x0x23kjookhaiuohduoayh8c9 | 1 | 1 | 4 | ⚠️ 50% (muestra chica: 2) |
-|  | 3 | 3 | 4 | ⚠️ 50% (muestra chica: 6) |
+| 0x0x23kjookhaiuohduoayh8c9 | 1 | 1 | 5 | ⚠️ 50% (muestra chica: 2) |
+|  | 3 | 3 | 5 | ⚠️ 50% (muestra chica: 6) |
 | canoflanagan | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | AnonymousUsername | 32 | 35 | 2 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 0 | 48% |
@@ -110,4 +110,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ndb1 | 0 | 0 | 2 | — |
 | BrightStars | 0 | 0 | 2 | — |
 | SnakeBall | 0 | 0 | 1 | — |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 2 | — |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 4 | — |

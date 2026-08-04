@@ -138946,5 +138946,101 @@
     "usd": 11861.1,
     "odds_at_bet": 45,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785873945,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "brco-cre-san-2026-08-04-spread-away-2pt5",
+    "title": "Spread: Santos FC (-2.5)",
+    "outcome": "Clube do Remo",
+    "side": "BUY",
+    "usd": 1043.46,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785873947,
+    "username": "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
+    "wallet": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+    "slug": "atp-darderi-diallo-2026-08-04",
+    "title": "National Bank Open: Luciano Darderi vs Gabriel Diallo",
+    "outcome": "Gabriel Diallo",
+    "side": "BUY",
+    "usd": 14397.303400000003,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785873947,
+    "username": "0x0x23kjookhaiuohduoayh8c9",
+    "wallet": "0x9c3ce009c9b039956665cecc4cd14de862b5e8c9",
+    "slug": "atp-darderi-diallo-2026-08-04",
+    "title": "National Bank Open: Luciano Darderi vs Gabriel Diallo",
+    "outcome": "Luciano Darderi",
+    "side": "BUY",
+    "usd": 1937.1499999999999,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785873981,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-cerund-medjedo-2026-08-03",
+    "title": "Canadian Open: Juan Manuel Cerundolo vs Hamad Medjedovic",
+    "outcome": "Juan Manuel Cerundolo",
+    "side": "BUY",
+    "usd": 4824.0,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785873982,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-cerund-medjedo-2026-08-03",
+    "title": "Canadian Open: Juan Manuel Cerundolo vs Hamad Medjedovic",
+    "outcome": "Juan Manuel Cerundolo",
+    "side": "BUY",
+    "usd": 4848.0,
+    "odds_at_bet": 96,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785873988,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "col-it-vad-2026-08-06-it",
+    "title": "Will FC Inter Turku win on 2026-08-06?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2431.139999,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785874017,
+    "username": "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
+    "wallet": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+    "slug": "atp-darderi-diallo-2026-08-04",
+    "title": "National Bank Open: Luciano Darderi vs Gabriel Diallo",
+    "outcome": "Gabriel Diallo",
+    "side": "BUY",
+    "usd": 1380.95238,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785874022,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "uel-shr-egn-2026-08-06-total-3pt5",
+    "title": "Shamrock Rovers FC vs. KF Egnatia Rrogozhin\u00eb: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1083.414,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
