@@ -1,4 +1,30 @@
 {
-  "bankroll": 1000.0,
-  "history": []
+  "bankroll": 449.82000000000005,
+  "history": [
+    {
+      "timestamp": 1785861663.7496326,
+      "bankroll": 636.66,
+      "event": "lost: CORGI8 \u2014 Dota 2: 1win vs Vici Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785861663.8497791,
+      "bankroll": 460.66,
+      "event": "lost: CORGI8 \u2014 Dota 2: 1win vs Vici Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785861663.949972,
+      "bankroll": 459.31,
+      "event": "lost: CORGI8 \u2014 Dota 2: 1win vs Vici Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785861664.0501595,
+      "bankroll": 456.26,
+      "event": "lost: CORGI8 \u2014 Dota 2: 1win vs Vici Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785861664.150355,
+      "bankroll": 449.82,
+      "event": "lost: CORGI8 \u2014 Dota 2: 1win vs Vici Gaming - Game 1 Winner"
+    }
+  ]
 }
