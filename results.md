@@ -1,12 +1,12 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 18:28:53 (hora de Perú)
+Actualizado: 2026-08-04 18:32:54 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
-| QuietRiskisWrong | 8 | 0 | 27 | 100% |
+| QuietRiskisWrong | 8 | 0 | 28 | 100% |
 | Melody626 | 1 | 0 | 18 | ⚠️ 100% (muestra chica: 1) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 63 | 10 | 2 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | elizabeth.ethcome | 12 | 2 | 0 | 86% |
-| swisstony | 726 | 156 | 89 | 82% |
+| swisstony | 726 | 156 | 94 | 82% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | one8tyfive | 44 | 14 | 6 | 76% |
 | fkgggg2mouzfuria | 95 | 30 | 0 | 76% |
@@ -46,16 +46,16 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
-| VeryLucky888 | 112 | 63 | 43 | 64% |
+| VeryLucky888 | 112 | 63 | 44 | 64% |
 | UpTheBlues | 67 | 40 | 50 | 63% |
 | flatbarrel | 10 | 6 | 4 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 176 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 178 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 70 | 61% |
 | fRibrenlc | 21 | 14 | 2 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 2 | 58% |
-| HomeRunHazard | 300 | 216 | 122 | 58% |
+| HomeRunHazard | 300 | 216 | 125 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 11 | 57% |
 | us391 | 27 | 20 | 3 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
@@ -102,7 +102,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
-| 0x4f2 | 0 | 2 | 6 | ⚠️ 0% (muestra chica: 2) |
+| 0x4f2 | 0 | 2 | 8 | ⚠️ 0% (muestra chica: 2) |
 | CORGI8 | 0 | 6 | 0 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
