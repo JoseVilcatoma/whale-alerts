@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 15:24:30 (hora de Perú)
+Actualizado: 2026-08-04 15:26:35 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -10,7 +10,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Melody626 | 1 | 0 | 14 | ⚠️ 100% (muestra chica: 1) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
-| Pwaddler | 5 | 0 | 1 | ⚠️ 100% (muestra chica: 5) |
+| Pwaddler | 5 | 0 | 2 | ⚠️ 100% (muestra chica: 5) |
 | THEdirkdiggler | 3 | 0 | 1 | ⚠️ 100% (muestra chica: 3) |
 | LeatherPants | 1 | 0 | 2 | ⚠️ 100% (muestra chica: 1) |
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
@@ -47,11 +47,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 112 | 63 | 18 | 64% |
-| UpTheBlues | 67 | 40 | 32 | 63% |
+| UpTheBlues | 67 | 40 | 33 | 63% |
 | flatbarrel | 10 | 6 | 1 | 62% |
 | ferrariChampions2026 | 1959 | 1258 | 41 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 28 | 61% |
-| fRibrenlc | 21 | 14 | 0 | 60% |
+| fRibrenlc | 21 | 14 | 1 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |

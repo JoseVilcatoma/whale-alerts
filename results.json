@@ -139930,5 +139930,41 @@
     "usd": 5107.0005,
     "odds_at_bet": 53,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785875078,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "mlb-lad-chc-2026-08-04",
+    "title": "Los Angeles Dodgers vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 6656.2615,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785875125,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "uel-shr-egn-2026-08-06-shr",
+    "title": "Will Shamrock Rovers FC win on 2026-08-06?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1201.709963,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785875182,
+    "username": "Pwaddler",
+    "wallet": "0x1d1ade627d0bb0205758580b20d808573e720df6",
+    "slug": "mlb-cws-bos-2026-08-04",
+    "title": "Chicago White Sox vs. Boston Red Sox",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 1546.0088,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
