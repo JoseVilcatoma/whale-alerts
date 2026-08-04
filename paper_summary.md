@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 11:45:55 (hora de Perú)
+Actualizado: 2026-08-04 11:47:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $449.82
@@ -14,8 +14,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
-| Djdjdjekekek | 0 | 0 | 1 | +0.00 USD |
-| Corlys | 0 | 0 | 26 | +0.00 USD |
+| Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
+| Corlys | 0 | 0 | 27 | +0.00 USD |
 | betterfasterstronger | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 5 | 5 | -550.18 USD |
 
@@ -29,6 +29,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 38% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Toronto  | Yes (SELL) | 35% | 0.00 | ⏳ pendiente | — |
 | betterfasterstronger | Will the highest temperature in Hong Kon | Yes (SELL) | 39% | 0.00 | ⏳ pendiente | — |
 | betterfasterstronger | Will the highest temperature in Chengdu  | Yes (SELL) | 56% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Tokyo be | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
@@ -57,5 +59,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys | Will the highest temperature in Tokyo be | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Tokyo be | No (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Tokyo be | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 40% | 0.00 | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Yakult Brothers vs Rune Eaters ( | Yakult Brothers (BUY) | 38% | 3.48 | ⏳ pendiente | — |

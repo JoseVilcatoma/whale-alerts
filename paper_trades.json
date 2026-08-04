@@ -738,5 +738,43 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785862006,
+    "timestamp_added": 1785862007.538088,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-toronto-on-august-4-2026-27c",
+    "title": "Will the highest temperature in Toronto be 27\u00b0C on August 4?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 2.6599999999999997,
+    "whale_pct": 0.114,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785862018,
+    "timestamp_added": 1785862019.2275968,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-yb1-re-2026-08-04",
+    "title": "Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs",
+    "outcome": "Yakult Brothers",
+    "side": "BUY",
+    "whale_usd": 158.40999899999997,
+    "whale_pct": 0.592,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "CORGI8"
+    ],
+    "recortado_por_bankroll": true
   }
 ]
