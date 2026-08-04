@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 04:18:29 (hora de Perú)
+Actualizado: 2026-08-04 04:22:38 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | lllllllIlll | 9 | 6 | 1 | 60% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 10 | 59% |
 | meoooow | 22 | 15 | 0 | 59% |
-| StasPanda | 20 | 14 | 2 | 59% |
+| StasPanda | 20 | 14 | 3 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
 | HomeRunHazard | 285 | 209 | 8 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 1 | 57% |
@@ -83,10 +83,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | jtwyslljy | 9 | 14 | 1 | 39% |
 | Talvez10 | 17 | 30 | 0 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 7 | 13 | 4 | 35% |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 7 | 13 | 5 | 35% |
 | Flipadelphia | 9 | 18 | 0 | 33% |
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
-| TAIWANNUMBERONE | 1 | 3 | 1 | ⚠️ 25% (muestra chica: 4) |
+| TAIWANNUMBERONE | 1 | 3 | 2 | ⚠️ 25% (muestra chica: 4) |
 | 111111111115 | 11 | 36 | 0 | 23% |
 | AV23IUa | 4 | 14 | 0 | 22% |
 | Anjun | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
