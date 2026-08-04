@@ -135814,5 +135814,77 @@
     "usd": 1118.6676399999997,
     "odds_at_bet": 12,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785845459,
+    "username": "meoooow",
+    "wallet": "0xd202bf6d89dc6bab1b9f00ead175f75466348973",
+    "slug": "dota2-bb4-og-2026-08-04",
+    "title": "Dota 2: BetBoom Team vs OG (BO3) - 1win Essence Playoffs",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 1668.7558,
+    "odds_at_bet": 33,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785845473,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kouzmin-ostapen-2026-08-04",
+    "title": "Istanbul 2: Constantin Bittoun Kouzmine vs Daniil Ostapenkov",
+    "outcome": "Constantin Bittoun Kouzmine",
+    "side": "BUY",
+    "usd": 1015.151515,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785845522,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-donski-kumasak-2026-08-04",
+    "title": "Grodzisk Mazowiecki: Alexander Donski vs Takuya Kumasaka",
+    "outcome": "Takuya Kumasaka",
+    "side": "BUY",
+    "usd": 1260.0,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785845522,
+    "username": "flatbarrel",
+    "wallet": "0x6485f47d0344c03eb4340f985159f6eb2dcba265",
+    "slug": "atp-donski-kumasak-2026-08-04",
+    "title": "Grodzisk Mazowiecki: Alexander Donski vs Takuya Kumasaka",
+    "outcome": "Alexander Donski",
+    "side": "BUY",
+    "usd": 1739.9999999999998,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785845522,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-donski-kumasak-2026-08-04",
+    "title": "Grodzisk Mazowiecki: Alexander Donski vs Takuya Kumasaka",
+    "outcome": "Takuya Kumasaka",
+    "side": "BUY",
+    "usd": 1260.0,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785845537,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-podlins-valdman-2026-08-04",
+    "title": "Warsaw: Marcelina Podlinska vs Vendula Valdmannova",
+    "outcome": "Vendula Valdmannova",
+    "side": "BUY",
+    "usd": 1032.631578,
+    "odds_at_bet": 98,
+    "status": "pending"
   }
 ]

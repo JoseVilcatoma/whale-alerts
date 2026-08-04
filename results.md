@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 07:10:19 (hora de Perú)
+Actualizado: 2026-08-04 07:12:35 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -38,22 +38,22 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
-| RN1 | 1163 | 608 | 82 | 66% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 413 | 218 | 6 | 65% |
+| RN1 | 1163 | 608 | 83 | 66% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 413 | 218 | 8 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | GoalLineGhost | 185 | 100 | 12 | 65% |
 | VeryLucky888 | 112 | 62 | 12 | 64% |
 | BirdMan. | 41 | 24 | 0 | 63% |
-| ferrariChampions2026 | 1905 | 1217 | 77 | 61% |
+| ferrariChampions2026 | 1905 | 1217 | 78 | 61% |
 | UpTheBlues | 63 | 40 | 29 | 61% |
 | fRibrenlc | 21 | 14 | 0 | 60% |
-| flatbarrel | 9 | 6 | 0 | 60% |
+| flatbarrel | 9 | 6 | 1 | 60% |
 | us391 | 27 | 18 | 2 | 60% |
 | lllllllIlll | 9 | 6 | 3 | 60% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 35 | 59% |
-| meoooow | 22 | 15 | 1 | 59% |
+| meoooow | 22 | 15 | 2 | 59% |
 | StasPanda | 20 | 14 | 7 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
 | HomeRunHazard | 285 | 209 | 13 | 58% |
