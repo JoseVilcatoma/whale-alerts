@@ -3846,5 +3846,25 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785803736,
+    "timestamp_added": 1785803736.9789686,
+    "username": "crckr",
+    "wallet": "0x2b3d1e9bdf941d435dc91a8b974b86f7064c8db7",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 18.45,
+    "whale_pct": 0.135,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Corlys"
+    ],
+    "recortado_por_bankroll": true
   }
 ]

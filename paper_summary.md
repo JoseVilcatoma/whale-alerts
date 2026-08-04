@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 19:34:06 (hora de Perú)
+Actualizado: 2026-08-03 19:36:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $844.83
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 1 | 0 | 1 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 3 | +0.00 USD |
 | Corlys | 0 | 0 | 195 | +0.00 USD |
-| crckr | 0 | 0 | 6 | +0.00 USD |
+| crckr | 0 | 0 | 7 | +0.00 USD |
 | CORGI8 | 0 | 6 | 0 | -155.17 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -31,6 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| crckr |  |  (BUY) | 90% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Amsterda | No (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Amsterda | No (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Amsterda | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
@@ -60,4 +61,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys | Will the next diplomatic US-Iran meeting | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the next diplomatic US-Iran meeting | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the next diplomatic US-Iran meeting | No (BUY) | 81% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will no qualifying diplomatic US-Iran me | No (BUY) | 64% | 0.00 | ⏳ pendiente | — |
