@@ -136978,5 +136978,77 @@
     "usd": 2999.9999989999997,
     "odds_at_bet": 65,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785849108,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Elizara Yaneva",
+    "side": "BUY",
+    "usd": 1232.16,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785849159,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-bro2-drx-2026-08-04",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1131.0287999999998,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785849182,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-giustin-sachko-2026-08-03",
+    "title": "Hagen: Lorenzo Giustino vs Vitaliy Sachko",
+    "outcome": "Vitaliy Sachko",
+    "side": "BUY",
+    "usd": 2280.0,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785849182,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-giustin-sachko-2026-08-03",
+    "title": "Hagen: Lorenzo Giustino vs Vitaliy Sachko",
+    "outcome": "Vitaliy Sachko",
+    "side": "BUY",
+    "usd": 1460.7884,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785849216,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-rakhimo-siniako-2026-08-04",
+    "title": "National Bank Open: Kamilla Rakhimova vs Katerina Siniakova",
+    "outcome": "Katerina Siniakova",
+    "side": "BUY",
+    "usd": 5395.227500000001,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785849217,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "wta-rakhimo-siniako-2026-08-04",
+    "title": "National Bank Open: Kamilla Rakhimova vs Katerina Siniakova",
+    "outcome": "Katerina Siniakova",
+    "side": "BUY",
+    "usd": 1937.923,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]
