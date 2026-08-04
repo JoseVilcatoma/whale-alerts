@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 15:22:22 (hora de Perú)
+Actualizado: 2026-08-04 15:24:30 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -42,20 +42,20 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BirdMan. | 48 | 24 | 2 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
 | RN1 | 1212 | 641 | 60 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 7 | 65% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 10 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 112 | 63 | 18 | 64% |
 | UpTheBlues | 67 | 40 | 32 | 63% |
 | flatbarrel | 10 | 6 | 1 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 38 | 61% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 26 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 41 | 61% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 28 | 61% |
 | fRibrenlc | 21 | 14 | 0 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
-| HomeRunHazard | 300 | 216 | 22 | 58% |
+| HomeRunHazard | 300 | 216 | 23 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 4 | 57% |
 | us391 | 27 | 20 | 0 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
@@ -65,16 +65,16 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | lllllllIlll | 9 | 8 | 1 | 53% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 5 | 52% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 31 | 30 | 0 | 51% |
-| wr0ngw4yb3tt0r | 144 | 144 | 1 | 50% |
+| wr0ngw4yb3tt0r | 144 | 144 | 3 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
 | SDTrading | 3 | 3 | 2 | ⚠️ 50% (muestra chica: 6) |
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | PleaseWinPlease | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
 | 0x0x23kjookhaiuohduoayh8c9 | 1 | 1 | 5 | ⚠️ 50% (muestra chica: 2) |
-|  | 3 | 3 | 6 | ⚠️ 50% (muestra chica: 6) |
+|  | 3 | 3 | 7 | ⚠️ 50% (muestra chica: 6) |
 | canoflanagan | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
-| AnonymousUsername | 32 | 35 | 7 | 48% |
+| AnonymousUsername | 32 | 35 | 8 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 0 | 48% |
 | esportGG | 85 | 96 | 0 | 47% |
 | sbsigner | 38 | 44 | 0 | 46% |
