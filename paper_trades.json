@@ -5090,5 +5090,383 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805060,
+    "timestamp_added": 1785805060.9609704,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-shanghai-on-august-4-2026-34c",
+    "title": "Will the highest temperature in Shanghai be 34\u00b0C on August 4?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 6.970000000000001,
+    "whale_pct": 0.291,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805069,
+    "timestamp_added": 1785805070.0641837,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 9.359,
+    "whale_pct": 0.391,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805069,
+    "timestamp_added": 1785805070.6591408,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 6.0760000000000005,
+    "whale_pct": 0.254,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805069,
+    "timestamp_added": 1785805071.2500017,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 9.016000000000002,
+    "whale_pct": 0.377,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805070,
+    "timestamp_added": 1785805071.8363628,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 9.31,
+    "whale_pct": 0.389,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805070,
+    "timestamp_added": 1785805072.4568064,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 8.82,
+    "whale_pct": 0.369,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805070,
+    "timestamp_added": 1785805073.0920045,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 9.9858,
+    "whale_pct": 0.417,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805070,
+    "timestamp_added": 1785805073.6781654,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 9.114,
+    "whale_pct": 0.381,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805070,
+    "timestamp_added": 1785805074.2618115,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 8.428,
+    "whale_pct": 0.352,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805070,
+    "timestamp_added": 1785805074.8758247,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 8.33,
+    "whale_pct": 0.348,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805070,
+    "timestamp_added": 1785805075.4808002,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 9.761399999999998,
+    "whale_pct": 0.408,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805070,
+    "timestamp_added": 1785805076.0957098,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 9.69,
+    "whale_pct": 0.405,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805070,
+    "timestamp_added": 1785805076.7100933,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 9.5942,
+    "whale_pct": 0.401,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805072,
+    "timestamp_added": 1785805077.3194625,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 8.771999999999998,
+    "whale_pct": 0.367,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805072,
+    "timestamp_added": 1785805077.9131315,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 9.18,
+    "whale_pct": 0.384,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805072,
+    "timestamp_added": 1785805078.5037735,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 6.324,
+    "whale_pct": 0.264,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805072,
+    "timestamp_added": 1785805079.0825303,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 8.67,
+    "whale_pct": 0.362,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805072,
+    "timestamp_added": 1785805079.7001672,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 9.384,
+    "whale_pct": 0.392,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785805072,
+    "timestamp_added": 1785805080.3009262,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 9.486,
+    "whale_pct": 0.397,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
   }
 ]
