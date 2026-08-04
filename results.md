@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 17:22:04 (hora de Perú)
+Actualizado: 2026-08-04 17:24:57 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | BirdMan. | 48 | 24 | 8 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
-| RN1 | 1212 | 641 | 104 | 65% |
+| RN1 | 1212 | 641 | 105 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 17 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 2 | 58% |
-| HomeRunHazard | 300 | 216 | 71 | 58% |
+| HomeRunHazard | 300 | 216 | 72 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 8 | 57% |
 | us391 | 27 | 20 | 1 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
@@ -68,7 +68,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | wr0ngw4yb3tt0r | 144 | 144 | 7 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
-| SDTrading | 3 | 3 | 3 | ⚠️ 50% (muestra chica: 6) |
+| SDTrading | 3 | 3 | 4 | ⚠️ 50% (muestra chica: 6) |
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | PleaseWinPlease | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
 | 0x0x23kjookhaiuohduoayh8c9 | 1 | 1 | 5 | ⚠️ 50% (muestra chica: 2) |
@@ -91,7 +91,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | TAIWANNUMBERONE | 3 | 6 | 1 | 33% |
 | jtwyslljy | 9 | 20 | 0 | 31% |
 | skyman44 | 4 | 9 | 0 | 31% |
-| 111111111115 | 11 | 37 | 0 | 23% |
+| 111111111115 | 11 | 37 | 1 | 23% |
 | Anjun | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | AV23IUa | 4 | 19 | 1 | 17% |

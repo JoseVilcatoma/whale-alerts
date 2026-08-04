@@ -143734,5 +143734,53 @@
     "usd": 9000.0,
     "odds_at_bet": 45,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785882190,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "mlb-nym-cle-2026-08-04",
+    "title": "New York Mets vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 28386.5904,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785882190,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-nym-cle-2026-08-04",
+    "title": "New York Mets vs. Cleveland Guardians",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 26400.0,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785882230,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Juncheng Shang",
+    "side": "BUY",
+    "usd": 1272.3680000000002,
+    "odds_at_bet": 20,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785882235,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Andrey Rublev",
+    "side": "BUY",
+    "usd": 1390.27909,
+    "odds_at_bet": 78,
+    "status": "pending"
   }
 ]
