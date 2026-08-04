@@ -141118,5 +141118,77 @@
     "usd": 3276.0,
     "odds_at_bet": 52,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785877529,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-piraino-caniato-2026-08-03",
+    "title": "Plovdiv 2: Gabriele Piraino vs Carlo Alberto Caniato",
+    "outcome": "Gabriele Piraino",
+    "side": "BUY",
+    "usd": 1952.9402,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785877537,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Andrey Rublev",
+    "side": "BUY",
+    "usd": 1083.333333,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785877558,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-sonego-grieksp-2026-08-03",
+    "title": "Canadian Open: Lorenzo Sonego vs Tallon Griekspoor",
+    "outcome": "Lorenzo Sonego",
+    "side": "BUY",
+    "usd": 1150.0,
+    "odds_at_bet": 23,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785877558,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-sonego-grieksp-2026-08-03",
+    "title": "Canadian Open: Lorenzo Sonego vs Tallon Griekspoor",
+    "outcome": "Tallon Griekspoor",
+    "side": "BUY",
+    "usd": 3764.6454999999996,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785877561,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Andrey Rublev",
+    "side": "BUY",
+    "usd": 1065.7712,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785877568,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-laa-bal-2026-08-04-spread-home-2pt5",
+    "title": "Spread: Baltimore Orioles (-2.5)",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 3042.2306999999996,
+    "odds_at_bet": 69,
+    "status": "pending"
   }
 ]
