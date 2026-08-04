@@ -139042,5 +139042,17 @@
     "usd": 1083.414,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785874082,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-ruse-potapov-2026-08-04",
+    "title": "National Bank Open: Gabriela Ruse vs Anastasia Potapova",
+    "outcome": "Gabriela Ruse",
+    "side": "BUY",
+    "usd": 1266.588,
+    "odds_at_bet": 30,
+    "status": "pending"
   }
 ]
