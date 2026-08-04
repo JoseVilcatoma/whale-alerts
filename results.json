@@ -138874,5 +138874,77 @@
     "usd": 1075.0,
     "odds_at_bet": 43,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785873859,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-atmane-draper-2026-08-03",
+    "title": "Canadian Open: Terence Atmane vs Jack Draper",
+    "outcome": "Jack Draper",
+    "side": "BUY",
+    "usd": 2797.3350280000004,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785873886,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-piraino-caniato-2026-08-03",
+    "title": "Plovdiv 2: Gabriele Piraino vs Carlo Alberto Caniato",
+    "outcome": "Gabriele Piraino",
+    "side": "BUY",
+    "usd": 2797.5954659999998,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785873891,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-atmane-draper-2026-08-03",
+    "title": "Canadian Open: Terence Atmane vs Jack Draper",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 1199.2764450000002,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785873912,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-sonego-grieksp-2026-08-03",
+    "title": "Canadian Open: Lorenzo Sonego vs Tallon Griekspoor",
+    "outcome": "Lorenzo Sonego",
+    "side": "BUY",
+    "usd": 1410.0688960000002,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785873931,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tor-hou-2026-08-04",
+    "title": "Toronto Blue Jays vs. Houston Astros",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "usd": 19944.947000000004,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785873931,
+    "username": "LeatherPants",
+    "wallet": "0x7ecc7c5c99582a78e9cc00a5304406a2bad68f07",
+    "slug": "mlb-tor-hou-2026-08-04",
+    "title": "Toronto Blue Jays vs. Houston Astros",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 11861.1,
+    "odds_at_bet": 45,
+    "status": "pending"
   }
 ]
