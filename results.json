@@ -133606,5 +133606,53 @@
     "usd": 6253.635399999999,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785837704,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-jej-bmu-2026-08-04-bmu",
+    "title": "Will Bayern Munich win on 2026-08-04?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1128.9992,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785837743,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-jej-bmu-2026-08-04-bmu",
+    "title": "Will Bayern Munich win on 2026-08-04?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1166.0005999999998,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785837743,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "mlb-min-kc-2026-08-04",
+    "title": "Minnesota Twins vs. Kansas City Royals",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 2345.23,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785837745,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-jej-bmu-2026-08-04-total-2pt5",
+    "title": "Jeju SK FC vs. Bayern Munich: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1015.9455,
+    "odds_at_bet": 85,
+    "status": "pending"
   }
 ]
