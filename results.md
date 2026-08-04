@@ -1,12 +1,12 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 18:43:24 (hora de Perú)
+Actualizado: 2026-08-04 18:45:36 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
-| QuietRiskisWrong | 8 | 0 | 35 | 100% |
+| QuietRiskisWrong | 8 | 0 | 36 | 100% |
 | Melody626 | 1 | 0 | 18 | ⚠️ 100% (muestra chica: 1) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fazewinline | 23 | 1 | 0 | 96% |
 | paquitomillonario | 17 | 1 | 2 | 94% |
 | texaskid | 16 | 1 | 2 | 94% |
-| TopGleaguepick | 14 | 2 | 0 | 88% |
+| TopGleaguepick | 14 | 2 | 1 | 88% |
 | cigarettes | 63 | 10 | 2 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | elizabeth.ethcome | 12 | 2 | 0 | 86% |
@@ -49,23 +49,23 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 112 | 63 | 50 | 64% |
 | UpTheBlues | 67 | 40 | 52 | 63% |
 | flatbarrel | 10 | 6 | 4 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 192 | 61% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 72 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 197 | 61% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 73 | 61% |
 | fRibrenlc | 21 | 14 | 2 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 3 | 58% |
-| HomeRunHazard | 300 | 216 | 139 | 58% |
+| HomeRunHazard | 300 | 216 | 141 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 12 | 57% |
 | us391 | 27 | 20 | 3 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
 | MeiGuNiuBi | 4 | 3 | 0 | ⚠️ 57% (muestra chica: 7) |
-| 1winstreak1 | 50 | 39 | 6 | 56% |
+| 1winstreak1 | 50 | 39 | 7 | 56% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 18 | 14 | 5 | 56% |
 | lllllllIlll | 9 | 8 | 1 | 53% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 34 | 52% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 31 | 30 | 9 | 51% |
-| wr0ngw4yb3tt0r | 144 | 144 | 34 | 50% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 31 | 30 | 10 | 51% |
+| wr0ngw4yb3tt0r | 144 | 144 | 42 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
 | SDTrading | 3 | 3 | 4 | ⚠️ 50% (muestra chica: 6) |
@@ -116,5 +116,5 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | LlamaLoco0000 | 0 | 0 | 1 | — |
 | JhonAlexanderHinestroza | 0 | 0 | 7 | — |
 | xifutloong3 | 0 | 0 | 4 | — |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 2 | — |
+| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 3 | — |
 | mentionmarket | 0 | 0 | 1 | — |
