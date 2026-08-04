@@ -136234,5 +136234,53 @@
     "usd": 6292.341083,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785846626,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Linda Klimovicova",
+    "side": "BUY",
+    "usd": 1695.9567999999997,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785846645,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Linda Klimovicova",
+    "side": "BUY",
+    "usd": 1390.025101,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785846669,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "atp-travagl-dodig-2026-08-04",
+    "title": "Hagen: Stefano Travaglia vs Matej Dodig",
+    "outcome": "Stefano Travaglia",
+    "side": "BUY",
+    "usd": 6048.569999,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785846669,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-travagl-dodig-2026-08-04",
+    "title": "Hagen: Stefano Travaglia vs Matej Dodig",
+    "outcome": "Matej Dodig",
+    "side": "BUY",
+    "usd": 2404.42,
+    "odds_at_bet": 46,
+    "status": "pending"
   }
 ]
