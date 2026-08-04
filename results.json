@@ -135802,5 +135802,17 @@
     "usd": 1016.368363,
     "odds_at_bet": 78,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785845362,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Elizara Yaneva",
+    "side": "BUY",
+    "usd": 1118.6676399999997,
+    "odds_at_bet": 12,
+    "status": "pending"
   }
 ]
