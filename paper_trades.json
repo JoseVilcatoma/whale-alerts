@@ -702,5 +702,41 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785861838,
+    "timestamp_added": 1785861838.4654996,
+    "username": "betterfasterstronger",
+    "wallet": "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c",
+    "slug": "highest-temperature-in-chengdu-on-august-5-2026-35corhigher",
+    "title": "Will the highest temperature in Chengdu be 35\u00b0C or higher on August 5?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 11.200000000000001,
+    "whale_pct": 0.383,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785861845,
+    "timestamp_added": 1785861845.6284318,
+    "username": "betterfasterstronger",
+    "wallet": "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c",
+    "slug": "highest-temperature-in-hong-kong-on-august-5-2026-33c",
+    "title": "Will the highest temperature in Hong Kong be 33\u00b0C on August 5?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 7.800000000000001,
+    "whale_pct": 0.267,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
