@@ -136282,5 +136282,17 @@
     "usd": 2404.42,
     "odds_at_bet": 46,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785846879,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-giustin-sachko-2026-08-03",
+    "title": "Hagen: Lorenzo Giustino vs Vitaliy Sachko",
+    "outcome": "Vitaliy Sachko",
+    "side": "BUY",
+    "usd": 4350.0,
+    "odds_at_bet": 87,
+    "status": "pending"
   }
 ]
