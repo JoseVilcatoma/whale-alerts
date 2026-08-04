@@ -4729,5 +4729,45 @@
       "Corlys"
     ],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785871684,
+    "timestamp_added": 1785871685.2642605,
+    "username": "betterfasterstronger",
+    "wallet": "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "SELL",
+    "whale_usd": 142.0,
+    "whale_pct": 7.307,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Corlys"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785871697,
+    "timestamp_added": 1785871697.7258165,
+    "username": "betterfasterstronger",
+    "wallet": "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c",
+    "slug": "highest-temperature-in-amsterdam-on-august-5-2026-26c",
+    "title": "Will the highest temperature in Amsterdam be 26\u00b0C on August 5?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 3.25,
+    "whale_pct": 0.167,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 20,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Corlys"
+    ],
+    "recortado_por_bankroll": true
   }
 ]
