@@ -135166,5 +135166,77 @@
     "usd": 1025.0,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785842202,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-biryuko-inchaus-2026-08-03",
+    "title": "Istanbul 2: Petr Bar Biryukov vs Paul Inchauspe",
+    "outcome": "Petr Bar Biryukov",
+    "side": "BUY",
+    "usd": 1610.2982,
+    "odds_at_bet": 14,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842209,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-monteir-gentzsc-2026-08-04",
+    "title": "Hagen: Thiago Monteiro vs Tom Gentzsch",
+    "outcome": "Thiago Monteiro",
+    "side": "BUY",
+    "usd": 1894.1822,
+    "odds_at_bet": 19,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842215,
+    "username": "canoflanagan",
+    "wallet": "0x21468ad63a833f5f9ea5c2835fb4e9dec57ad41b",
+    "slug": "dota2-bb4-og-2026-08-04-game2",
+    "title": "Dota 2: BetBoom Team vs OG - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 1071.2951449999998,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842218,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-durasov-geerts-2026-08-03",
+    "title": "Grodzisk Mazowiecki: Viktor Durasovic vs Michael Geerts",
+    "outcome": "Michael Geerts",
+    "side": "BUY",
+    "usd": 1150.67,
+    "odds_at_bet": 10,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842225,
+    "username": "canoflanagan",
+    "wallet": "0x21468ad63a833f5f9ea5c2835fb4e9dec57ad41b",
+    "slug": "dota2-bb4-og-2026-08-04-game2",
+    "title": "Dota 2: BetBoom Team vs OG - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 1803.7628000000002,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842237,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "asean-phi-tha-2026-08-04-phi",
+    "title": "Will Philippines win on 2026-08-04?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2282.85,
+    "odds_at_bet": 89,
+    "status": "pending"
   }
 ]
