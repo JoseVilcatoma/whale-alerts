@@ -140866,5 +140866,29 @@
     "usd": 7830.0,
     "odds_at_bet": 87,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785876868,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-wsh-phi-2026-08-04",
+    "title": "Washington Nationals vs. Philadelphia Phillies",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 2300.0,
+    "odds_at_bet": 25,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785876868,
+    "username": "AnonymousUsername",
+    "wallet": "0x9703676286b93c2eca71ca96e8757104519a69c2",
+    "slug": "mlb-wsh-phi-2026-08-04",
+    "title": "Washington Nationals vs. Philadelphia Phillies",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 1135.893,
+    "odds_at_bet": 25,
+    "status": "pending"
   }
 ]
