@@ -3866,5 +3866,23 @@
       "Corlys"
     ],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785803842,
+    "timestamp_added": 1785803843.4516237,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-chongqing-on-august-4-2026-32c",
+    "title": "Will the highest temperature in Chongqing be 32\u00b0C on August 4?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 3.3499989999999995,
+    "whale_pct": 0.15,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
