@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 14:55:11 (hora de Perú)
+Actualizado: 2026-08-04 14:57:17 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -25,12 +25,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | paquitomillonario | 17 | 1 | 0 | 94% |
 | texaskid | 16 | 1 | 0 | 94% |
 | TopGleaguepick | 14 | 2 | 0 | 88% |
-| cigarettes | 63 | 10 | 1 | 86% |
+| cigarettes | 63 | 10 | 2 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | elizabeth.ethcome | 12 | 2 | 0 | 86% |
 | swisstony | 726 | 156 | 63 | 82% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
-| one8tyfive | 44 | 14 | 1 | 76% |
+| one8tyfive | 44 | 14 | 2 | 76% |
 | fkgggg2mouzfuria | 95 | 30 | 0 | 76% |
 | Bigggggggg | 3 | 1 | 34 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
@@ -39,9 +39,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
-| BirdMan. | 48 | 24 | 1 | 67% |
+| BirdMan. | 48 | 24 | 2 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
-| RN1 | 1212 | 641 | 43 | 65% |
+| RN1 | 1212 | 641 | 44 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 2 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
-| HomeRunHazard | 300 | 216 | 7 | 58% |
+| HomeRunHazard | 300 | 216 | 8 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 4 | 57% |
 | us391 | 27 | 20 | 0 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
