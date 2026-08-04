@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 05:30:37 (hora de Perú)
+Actualizado: 2026-08-04 05:32:44 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | TopGleaguepick | 14 | 2 | 0 | 88% |
 | cigarettes | 63 | 10 | 1 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
-| swisstony | 721 | 154 | 65 | 82% |
+| swisstony | 721 | 154 | 66 | 82% |
 | fkgggg2mouzfuria | 95 | 29 | 0 | 77% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | one8tyfive | 44 | 14 | 1 | 76% |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | flatbarrel | 9 | 6 | 0 | 60% |
 | us391 | 27 | 18 | 0 | 60% |
 | lllllllIlll | 9 | 6 | 2 | 60% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 22 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 23 | 59% |
 | meoooow | 22 | 15 | 0 | 59% |
 | StasPanda | 20 | 14 | 3 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
@@ -72,10 +72,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 26 | 27 | 5 | 49% |
 | AnonymousUsername | 32 | 35 | 0 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 40 | 43 | 3 | 48% |
-| esportGG | 77 | 85 | 7 | 48% |
+| esportGG | 77 | 85 | 9 | 48% |
 | sbsigner | 38 | 44 | 0 | 46% |
 | Eztennis | 28 | 33 | 0 | 46% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 71 | 87 | 2 | 45% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 71 | 87 | 4 | 45% |
 | PASSTHEMONEY | 45 | 62 | 0 | 42% |
 | pleaseplease123 | 43 | 63 | 0 | 41% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 29 | 2 | 40% |
