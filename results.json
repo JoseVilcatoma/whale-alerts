@@ -132106,5 +132106,29 @@
     "usd": 1229.6699979999999,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785834430,
+    "username": "patient12",
+    "wallet": "0xe291a588ece487f3323736c55c6144f6a99e748e",
+    "slug": "putin-out-before-2027-346",
+    "title": "Putin out as President of Russia by December 31, 2026?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 40954.618800000004,
+    "odds_at_bet": 92,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785834471,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-gomez-squire-2026-08-03",
+    "title": "Hagen: Federico Agustin Gomez vs Henri Squire",
+    "outcome": "Henri Squire",
+    "side": "BUY",
+    "usd": 1801.851851,
+    "odds_at_bet": 97,
+    "status": "pending"
   }
 ]
