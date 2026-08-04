@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "timestamp": 1785851136,
+    "timestamp_added": 1785851136.6410527,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-1win-vg-2026-08-04-game1",
+    "title": "Dota 2: 1win vs Vici Gaming - Game 1 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 5105.096899999999,
+    "whale_pct": 36.334,
+    "paper_stake_usd": 363.34,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785851206,
+    "timestamp_added": 1785851206.7236073,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-1win-vg-2026-08-04-game1",
+    "title": "Dota 2: 1win vs Vici Gaming - Game 1 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 3360.5838000000003,
+    "whale_pct": 17.6,
+    "paper_stake_usd": 176.0,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
+  }
+]
