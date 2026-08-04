@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 18:59:12 (hora de Perú)
+Actualizado: 2026-08-03 19:01:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -17,8 +17,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Pwaddler | 0 | 0 | 1 | +0.00 USD |
 | Djdjdjekekek | 1 | 0 | 1 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 3 | +0.00 USD |
-| Corlys | 0 | 0 | 51 | +0.00 USD |
-| crckr | 0 | 0 | 1 | +0.00 USD |
+| Corlys | 0 | 0 | 70 | +0.00 USD |
+| crckr | 0 | 0 | 2 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -30,6 +30,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Corlys | Will the highest temperature in Seattle  | No (BUY) | 97% | 14.16 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Seattle  | No (BUY) | 100% | 14.66 | ⏳ pendiente | — |
+| crckr |  |  (BUY) | 86% | 3.81 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Ankara b | No (BUY) | 75% | 2.38 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Ankara b | No (BUY) | 100% | 3.17 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Ankara b | No (BUY) | 87% | 2.76 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Ankara b | No (BUY) | 100% | 3.16 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Ankara b | No (BUY) | 39% | 1.24 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Ankara b | No (BUY) | 97% | 3.08 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Dallas b | Yes (SELL) | 98% | 4.15 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Dallas b | Yes (SELL) | 98% | 4.15 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Busan be | No (BUY) | 79% | 1.89 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Busan be | No (BUY) | 100% | 2.38 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Busan be | No (BUY) | 97% | 2.32 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Busan be | No (BUY) | 61% | 1.46 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Busan be | No (BUY) | 97% | 2.32 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Busan be | No (BUY) | 67% | 1.60 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Busan be | No (BUY) | 100% | 2.38 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Busan be | No (BUY) | 100% | 2.39 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Busan be | No (BUY) | 96% | 2.29 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 15.30 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 15.30 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 15.30 | ⏳ pendiente | — |
@@ -40,23 +60,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 68% | 12.53 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 18.55 | ⏳ pendiente | — |
 | Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 18.55 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 96% | 17.82 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 18.53 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 97% | 18.01 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 99% | 18.38 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 69% | 12.81 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 18.55 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Guangzho | No (BUY) | 95% | 3.19 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Guangzho | No (BUY) | 71% | 2.38 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Guangzho | No (BUY) | 99% | 3.32 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Guangzho | No (BUY) | 100% | 3.35 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Guangzho | No (BUY) | 90% | 3.02 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Guangzho | No (BUY) | 98% | 3.29 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Guangzho | No (BUY) | 84% | 2.82 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Guangzho | No (BUY) | 100% | 3.35 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Guangzho | No (BUY) | 60% | 2.01 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Guangzho | No (BUY) | 100% | 3.35 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Shenzhen | No (BUY) | 95% | 8.03 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Shenzhen | No (BUY) | 97% | 8.17 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Shenzhen | No (BUY) | 100% | 8.44 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Shenzhen | No (BUY) | 100% | 8.44 | ⏳ pendiente | — |
