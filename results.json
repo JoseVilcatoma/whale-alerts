@@ -136930,5 +136930,17 @@
     "usd": 47756.90529,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785848834,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-knutson-costoul-2026-08-03",
+    "title": "Warsaw: Gabriela Knutson vs Sofia Costoulas",
+    "outcome": "Gabriela Knutson",
+    "side": "BUY",
+    "usd": 2237.7432,
+    "odds_at_bet": 77,
+    "status": "pending"
   }
 ]
