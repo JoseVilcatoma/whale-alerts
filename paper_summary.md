@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 19:59:23 (hora de Perú)
+Actualizado: 2026-08-03 20:01:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $844.83
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Pwaddler | 0 | 0 | 1 | +0.00 USD |
 | Djdjdjekekek | 1 | 0 | 1 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 3 | +0.00 USD |
-| Corlys | 0 | 0 | 282 | +0.00 USD |
+| Corlys | 0 | 0 | 312 | +0.00 USD |
 | crckr | 0 | 0 | 7 | +0.00 USD |
 | CORGI8 | 0 | 6 | 0 | -155.17 USD |
 
@@ -31,33 +31,33 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| Corlys |  |  (BUY) | 93% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 92% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 90% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 86% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 98% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 95% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 96% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 86% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 93% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 98% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 90% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 95% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 92% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (BUY) | 96% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Shanghai | Yes (SELL) | 34% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the Central Bank of Colombia decrea | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the Central Bank of Colombia decrea | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the Central Bank of Colombia increa | No (BUY) | 77% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the Central Bank of Colombia increa | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Hong Kon | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Mistral be the third-best Code Aren | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will SpaceXAI be the third-best Code Are | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Z.ai be the third-best Code Arena | | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will Poolside be the third-best Code Are | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will OpenAI be the third-best Code Arena | No (BUY) | 91% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will DeepSeek be the third-best Code Are | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 88% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 88% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 97% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 64% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
