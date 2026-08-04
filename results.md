@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 04:14:20 (hora de Perú)
+Actualizado: 2026-08-04 04:16:24 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -38,21 +38,21 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
-| RN1 | 1163 | 608 | 42 | 66% |
+| RN1 | 1163 | 608 | 43 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 413 | 218 | 4 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | GoalLineGhost | 185 | 100 | 0 | 65% |
-| VeryLucky888 | 112 | 62 | 6 | 64% |
+| VeryLucky888 | 112 | 62 | 7 | 64% |
 | BirdMan. | 41 | 24 | 0 | 63% |
-| ferrariChampions2026 | 1905 | 1217 | 19 | 61% |
+| ferrariChampions2026 | 1905 | 1217 | 21 | 61% |
 | UpTheBlues | 63 | 40 | 26 | 61% |
 | fRibrenlc | 21 | 14 | 0 | 60% |
 | flatbarrel | 9 | 6 | 0 | 60% |
 | us391 | 27 | 18 | 0 | 60% |
 | lllllllIlll | 9 | 6 | 1 | 60% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 9 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 10 | 59% |
 | meoooow | 22 | 15 | 0 | 59% |
 | StasPanda | 20 | 14 | 2 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
@@ -75,7 +75,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | esportGG | 77 | 85 | 1 | 48% |
 | sbsigner | 38 | 44 | 0 | 46% |
 | Eztennis | 28 | 33 | 0 | 46% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 71 | 87 | 0 | 45% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 71 | 87 | 1 | 45% |
 | PASSTHEMONEY | 45 | 62 | 0 | 42% |
 | pleaseplease123 | 43 | 63 | 0 | 41% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 29 | 1 | 40% |
