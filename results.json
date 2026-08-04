@@ -140062,5 +140062,29 @@
     "usd": 1215.2756,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785875579,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "uel-shr-egn-2026-08-06-total-4pt5",
+    "title": "Shamrock Rovers FC vs. KF Egnatia Rrogozhin\u00eb: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1777.33,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785875611,
+    "username": "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
+    "wallet": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+    "slug": "atp-darderi-diallo-2026-08-04",
+    "title": "National Bank Open: Luciano Darderi vs Gabriel Diallo",
+    "outcome": "Gabriel Diallo",
+    "side": "BUY",
+    "usd": 3674.8799999999997,
+    "odds_at_bet": 58,
+    "status": "pending"
   }
 ]
