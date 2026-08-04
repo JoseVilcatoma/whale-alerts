@@ -131866,5 +131866,17 @@
     "usd": 1322.772,
     "odds_at_bet": 79,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785833856,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-t1-hle1-2026-08-04",
+    "title": "LoL: T1 vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "T1",
+    "side": "SELL",
+    "usd": 1746.5008,
+    "odds_at_bet": 88,
+    "status": "pending"
   }
 ]
