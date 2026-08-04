@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 05:08:43 (hora de Perú)
+Actualizado: 2026-08-04 05:10:00 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -46,13 +46,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | GoalLineGhost | 185 | 100 | 3 | 65% |
 | VeryLucky888 | 112 | 62 | 8 | 64% |
 | BirdMan. | 41 | 24 | 0 | 63% |
-| ferrariChampions2026 | 1905 | 1217 | 39 | 61% |
+| ferrariChampions2026 | 1905 | 1217 | 40 | 61% |
 | UpTheBlues | 63 | 40 | 28 | 61% |
 | fRibrenlc | 21 | 14 | 0 | 60% |
 | flatbarrel | 9 | 6 | 0 | 60% |
 | us391 | 27 | 18 | 0 | 60% |
 | lllllllIlll | 9 | 6 | 2 | 60% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 16 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 18 | 59% |
 | meoooow | 22 | 15 | 0 | 59% |
 | StasPanda | 20 | 14 | 3 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |

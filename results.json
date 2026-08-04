@@ -133666,5 +133666,41 @@
     "usd": 20189.4903,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785838148,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-par-kovack-2026-08-04",
+    "title": "ITF Leipzig: Sohyun Park vs Alena Kovackova",
+    "outcome": "Alena Kovackova",
+    "side": "BUY",
+    "usd": 1145.58,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785838171,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-ruzic-keys-2026-08-04",
+    "title": "National Bank Open: Antonia Ruzic vs Madison Keys",
+    "outcome": "Antonia Ruzic",
+    "side": "BUY",
+    "usd": 1108.9520530000002,
+    "odds_at_bet": 19,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785838180,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-monteir-gentzsc-2026-08-04",
+    "title": "Hagen: Thiago Monteiro vs Tom Gentzsch",
+    "outcome": "Tom Gentzsch",
+    "side": "BUY",
+    "usd": 1139.0825,
+    "odds_at_bet": 41,
+    "status": "pending"
   }
 ]
