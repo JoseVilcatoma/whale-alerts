@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 16:18:42 (hora de Perú)
+Actualizado: 2026-08-04 16:20:58 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | BirdMan. | 48 | 24 | 4 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
-| RN1 | 1212 | 641 | 78 | 65% |
+| RN1 | 1212 | 641 | 79 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 12 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
