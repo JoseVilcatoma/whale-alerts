@@ -4285,5 +4285,43 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785867430,
+    "timestamp_added": 1785867431.4074972,
+    "username": "betterfasterstronger",
+    "wallet": "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c",
+    "slug": "highest-temperature-in-warsaw-on-august-5-2026-36c",
+    "title": "Will the highest temperature in Warsaw be 36\u00b0C on August 5?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 4.402200000000001,
+    "whale_pct": 0.144,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 22,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785867478,
+    "timestamp_added": 1785867478.8599381,
+    "username": "betterfasterstronger",
+    "wallet": "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "SELL",
+    "whale_usd": 6.800000000000001,
+    "whale_pct": 0.223,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Corlys"
+    ],
+    "recortado_por_bankroll": true
   }
 ]
