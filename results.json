@@ -134638,5 +134638,17 @@
     "usd": 1869.999,
     "odds_at_bet": 95,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785840778,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-jej-bmu-2026-08-04-total-2pt5",
+    "title": "Jeju SK FC vs. Bayern Munich: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1347.0071999999998,
+    "odds_at_bet": 84,
+    "status": "pending"
   }
 ]
