@@ -133894,5 +133894,17 @@
     "usd": 6098.551,
     "odds_at_bet": 53,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785838897,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-ursu-pereira-2026-08-03",
+    "title": "Istanbul 2: Vadym Ursu vs Tiago Pereira",
+    "outcome": "Tiago Pereira",
+    "side": "BUY",
+    "usd": 1100.1716119999999,
+    "odds_at_bet": 69,
+    "status": "pending"
   }
 ]
