@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 16:55:49 (hora de Perú)
+Actualizado: 2026-08-04 16:59:50 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | BirdMan. | 48 | 24 | 7 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
-| RN1 | 1212 | 641 | 96 | 65% |
+| RN1 | 1212 | 641 | 98 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 17 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -49,14 +49,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 112 | 63 | 32 | 64% |
 | UpTheBlues | 67 | 40 | 36 | 63% |
 | flatbarrel | 10 | 6 | 2 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 106 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 107 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 43 | 61% |
 | fRibrenlc | 21 | 14 | 1 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 2 | 58% |
 | HomeRunHazard | 300 | 216 | 58 | 58% |
-| monkeymashingkeyboard | 21 | 16 | 6 | 57% |
+| monkeymashingkeyboard | 21 | 16 | 7 | 57% |
 | us391 | 27 | 20 | 1 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
 | MeiGuNiuBi | 4 | 3 | 0 | ⚠️ 57% (muestra chica: 7) |
@@ -81,10 +81,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Eztennis | 28 | 33 | 0 | 46% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 95 | 1 | 45% |
 | PASSTHEMONEY | 45 | 62 | 0 | 42% |
-| pleaseplease123 | 43 | 63 | 5 | 41% |
+| pleaseplease123 | 43 | 63 | 6 | 41% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 30 | 1 | 39% |
-| Talvez10 | 17 | 30 | 1 | 36% |
+| Talvez10 | 17 | 30 | 2 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
 | Flipadelphia | 9 | 18 | 4 | 33% |
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |

@@ -143002,5 +143002,77 @@
     "usd": 24597.7329,
     "odds_at_bet": 43,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785880549,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Andrey Rublev",
+    "side": "BUY",
+    "usd": 1320.0,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880718,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-det-sea-2026-08-04",
+    "title": "Detroit Tigers vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 15228.2808,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880718,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-det-sea-2026-08-04",
+    "title": "Detroit Tigers vs. Seattle Mariners",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "usd": 17503.736,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880727,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Andrey Rublev",
+    "side": "BUY",
+    "usd": 3800.0,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880750,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "brco-juv-cam-2026-08-04-first-half-total-1pt5",
+    "title": "EC Juventude vs. CA Mineiro: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2887.5,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880756,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-det-sea-2026-08-04-spread-home-1pt5",
+    "title": "Spread: Seattle Mariners (-1.5)",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "usd": 1227.2649999999999,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]
