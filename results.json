@@ -133570,5 +133570,17 @@
     "usd": 2643.2000000000003,
     "odds_at_bet": 64,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785837434,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "clf-jej-bmu-2026-08-04-spread-away-2pt5",
+    "title": "Spread: Bayern Munich (-2.5)",
+    "outcome": "Jeju SK FC",
+    "side": "BUY",
+    "usd": 2288.549999,
+    "odds_at_bet": 53,
+    "status": "pending"
   }
 ]
