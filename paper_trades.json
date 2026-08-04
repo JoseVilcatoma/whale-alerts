@@ -4469,5 +4469,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785868756,
+    "timestamp_added": 1785868756.6210675,
+    "username": "betterfasterstronger",
+    "wallet": "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c",
+    "slug": "highest-temperature-in-los-angeles-on-august-4-2026-76-77f",
+    "title": "Will the highest temperature in Los Angeles be between 76-77\u00b0F on August 4?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 14.2,
+    "whale_pct": 0.482,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
