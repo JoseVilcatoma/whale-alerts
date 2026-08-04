@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 17:02:32 (hora de Perú)
+Actualizado: 2026-08-04 17:05:15 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -18,11 +18,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | highnetworth | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 0 | 100% |
 | RLXDJ19701601 | 2 | 0 | 0 | ⚠️ 100% (muestra chica: 2) |
-| quavoo | 2 | 0 | 1 | ⚠️ 100% (muestra chica: 2) |
+| quavoo | 2 | 0 | 2 | ⚠️ 100% (muestra chica: 2) |
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 3 | 0 | 1 | ⚠️ 100% (muestra chica: 3) |
 | matenghehe | 81 | 2 | 0 | 98% |
 | fazewinline | 23 | 1 | 0 | 96% |
-| paquitomillonario | 17 | 1 | 0 | 94% |
+| paquitomillonario | 17 | 1 | 1 | 94% |
 | texaskid | 16 | 1 | 2 | 94% |
 | TopGleaguepick | 14 | 2 | 0 | 88% |
 | cigarettes | 63 | 10 | 2 | 86% |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
-| VeryLucky888 | 112 | 63 | 32 | 64% |
+| VeryLucky888 | 112 | 63 | 33 | 64% |
 | UpTheBlues | 67 | 40 | 37 | 63% |
 | flatbarrel | 10 | 6 | 2 | 62% |
 | ferrariChampions2026 | 1959 | 1258 | 111 | 61% |
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 2 | 58% |
 | HomeRunHazard | 300 | 216 | 58 | 58% |
-| monkeymashingkeyboard | 21 | 16 | 7 | 57% |
+| monkeymashingkeyboard | 21 | 16 | 8 | 57% |
 | us391 | 27 | 20 | 1 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
 | MeiGuNiuBi | 4 | 3 | 0 | ⚠️ 57% (muestra chica: 7) |
@@ -65,7 +65,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | lllllllIlll | 9 | 8 | 1 | 53% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 17 | 52% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 31 | 30 | 3 | 51% |
-| wr0ngw4yb3tt0r | 144 | 144 | 6 | 50% |
+| wr0ngw4yb3tt0r | 144 | 144 | 7 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
 | SDTrading | 3 | 3 | 2 | ⚠️ 50% (muestra chica: 6) |

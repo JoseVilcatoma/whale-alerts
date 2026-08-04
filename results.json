@@ -143146,5 +143146,65 @@
     "usd": 2137.452336,
     "odds_at_bet": 31,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785880986,
+    "username": "paquitomillonario",
+    "wallet": "0x04e6840687847a98f9ecfbb512a8c8b98d073914",
+    "slug": "atp-duckwor-minaur-2026-08-04",
+    "title": "National Bank Open: James Duckworth vs Alex de Minaur",
+    "outcome": "Alex de Minaur",
+    "side": "BUY",
+    "usd": 2966.37,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880988,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-mia-atl-2026-08-04-f5-total-5pt5",
+    "title": "Miami Marlins vs. Atlanta Braves: 1st 5 Innings O/U 5.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1224.45,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785880988,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-mia-atl-2026-08-04-f5-total-5pt5",
+    "title": "Miami Marlins vs. Atlanta Braves: 1st 5 Innings O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1496.5500000000002,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785881049,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-nym-cle-2026-08-04",
+    "title": "New York Mets vs. Cleveland Guardians",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 3735.3068,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785881086,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "mlb-lad-chc-2026-08-04",
+    "title": "Los Angeles Dodgers vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 1068.7005,
+    "odds_at_bet": 35,
+    "status": "pending"
   }
 ]
