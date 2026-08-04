@@ -138322,5 +138322,41 @@
     "usd": 1284.8387500000001,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785873159,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-atmane-draper-2026-08-03",
+    "title": "Canadian Open: Terence Atmane vs Jack Draper",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 1434.6522,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785873161,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-cerund-medjedo-2026-08-03",
+    "title": "Canadian Open: Juan Manuel Cerundolo vs Hamad Medjedovic",
+    "outcome": "Juan Manuel Cerundolo",
+    "side": "BUY",
+    "usd": 4372.0022,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785873163,
+    "username": "denizz",
+    "wallet": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "SELL",
+    "usd": 7770.4091,
+    "odds_at_bet": 74,
+    "status": "pending"
   }
 ]
