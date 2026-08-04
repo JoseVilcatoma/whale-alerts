@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 19:48:52 (hora de Perú)
+Actualizado: 2026-08-03 19:50:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $844.83
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Pwaddler | 0 | 0 | 1 | +0.00 USD |
 | Djdjdjekekek | 1 | 0 | 1 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 3 | +0.00 USD |
-| Corlys | 0 | 0 | 239 | +0.00 USD |
+| Corlys | 0 | 0 | 258 | +0.00 USD |
 | crckr | 0 | 0 | 7 | +0.00 USD |
 | CORGI8 | 0 | 6 | 0 | -155.17 USD |
 
@@ -31,6 +31,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Corlys | Will Mistral be the third-best Code Aren | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will SpaceXAI be the third-best Code Are | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Z.ai be the third-best Code Arena | | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Poolside be the third-best Code Are | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will OpenAI be the third-best Code Arena | No (BUY) | 91% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will DeepSeek be the third-best Code Are | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Moonshot be the third-best Code Are | No (BUY) | 74% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Meta be the third-best Code Arena | | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will ByteDance be the third-best Code Ar | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Tencent be the third-best Code Aren | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Anthropic be the third-best Code Ar | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Xiaomi be the third-best Code Arena | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Google be the third-best Code Arena | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Alibaba be the third-best Code Aren | No (BUY) | 34% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will Thinky be the third-best Code Arena | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will MiniMax be the third-best Code Aren | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 77% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 82% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 88% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Hong Kon | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Hong Kon | No (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Hong Kon | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
@@ -42,22 +61,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys | Will Dylan Cease win the 2026 AL Cy Youn | No (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Cape Tow | No (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Cape Tow | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Cape Tow | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Cape Tow | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Cape Tow | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Cape Tow | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Cape Tow | No (BUY) | 77% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Cape Tow | No (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Cape Tow | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Cape Tow | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Paris be  | No (BUY) | 26% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Paris be  | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 97% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the lowest temperature in Hong Kong | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
