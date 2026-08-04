@@ -7462,5 +7462,103 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785807355,
+    "timestamp_added": 1785807356.5585108,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 27.5993,
+    "whale_pct": 1.158,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785807356,
+    "timestamp_added": 1785807357.1745958,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 13.815,
+    "whale_pct": 0.58,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785807356,
+    "timestamp_added": 1785807357.8013208,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 23.174749999999996,
+    "whale_pct": 0.972,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785807356,
+    "timestamp_added": 1785807358.4069407,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "whale_usd": 27.016,
+    "whale_pct": 1.134,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "crckr"
+    ],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785807409,
+    "timestamp_added": 1785807409.5312402,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "will-marsha-blackburn-win-the-2026-tennessee-governor-republican-primary-election",
+    "title": "Will Marsha Blackburn win the 2026 Tennessee Governor Republican primary election?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 19.778,
+    "whale_pct": 0.83,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
