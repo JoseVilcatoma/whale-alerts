@@ -18598,5 +18598,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785819640,
+    "timestamp_added": 1785819641.070085,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-donski-kumasak-2026-08-04",
+    "title": "Grodzisk Mazowiecki: Alexander Donski vs Takuya Kumasaka",
+    "outcome": "Alexander Donski",
+    "side": "BUY",
+    "whale_usd": 150.555,
+    "whale_pct": 0.305,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
