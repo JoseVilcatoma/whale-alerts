@@ -140194,5 +140194,29 @@
     "usd": 4350.997200000001,
     "odds_at_bet": 66,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785875820,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-perrica-zandsch-2026-08-03",
+    "title": "Canadian Open: Giovanni Mpetshi Perricard vs Botic van de Zandschulp",
+    "outcome": "Botic van de Zandschulp",
+    "side": "BUY",
+    "usd": 2428.62,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785875853,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-atmane-draper-2026-08-03",
+    "title": "Canadian Open: Terence Atmane vs Jack Draper",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 7441.239,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]
