@@ -135682,5 +135682,65 @@
     "usd": 2663.25,
     "odds_at_bet": 53,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785844614,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Linda Klimovicova",
+    "side": "BUY",
+    "usd": 1055.9440000000002,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785844638,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-bb4-og-2026-08-04",
+    "title": "Dota 2: BetBoom Team vs OG (BO3) - 1win Essence Playoffs",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 1000.0,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785844680,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "npb-fuk-nip-2026-08-04",
+    "title": "Fukuoka SoftBank Hawks vs. Nippon Ham Fighters",
+    "outcome": "Fukuoka SoftBank Hawks",
+    "side": "SELL",
+    "usd": 1603.68856,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785844719,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-tauson-bartunk-2026-08-04",
+    "title": "National Bank Open: Clara Tauson vs Nikola Bartunkova",
+    "outcome": "Nikola Bartunkova",
+    "side": "BUY",
+    "usd": 2282.8464,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785844723,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-moeller-mackenz-2026-08-03",
+    "title": "Hagen: Elmer Moeller vs Jamie Mackenzie",
+    "outcome": "Elmer Moeller",
+    "side": "BUY",
+    "usd": 1823.0183470000002,
+    "odds_at_bet": 83,
+    "status": "pending"
   }
 ]
