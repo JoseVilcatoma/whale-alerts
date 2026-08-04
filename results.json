@@ -138130,5 +138130,77 @@
     "usd": 6355.2,
     "odds_at_bet": 96,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785850315,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-casanov-alexand-2026-08-03",
+    "title": "Plovdiv 2: Hernan Casanova vs Yannick Alexandrescou",
+    "outcome": "Yannick Alexandrescou",
+    "side": "BUY",
+    "usd": 1314.992608,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785850316,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-samson-barthel-2026-08-03",
+    "title": "Warsaw: Laura Samson vs Mona Barthel",
+    "outcome": "Laura Samson",
+    "side": "BUY",
+    "usd": 2490.348,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785850316,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-samson-barthel-2026-08-03",
+    "title": "Warsaw: Laura Samson vs Mona Barthel",
+    "outcome": "Laura Samson",
+    "side": "BUY",
+    "usd": 1449.8399989999998,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785850329,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-yb1-re-2026-08-04",
+    "title": "Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs",
+    "outcome": "Rune Eaters",
+    "side": "BUY",
+    "usd": 1999.999999,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785850343,
+    "username": "BirdMan.",
+    "wallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+    "slug": "lol-bro2-drx-2026-08-04",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 3114.3486000000003,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785850361,
+    "username": "BirdMan.",
+    "wallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+    "slug": "lol-bro2-drx-2026-08-04",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 3625.152,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]
