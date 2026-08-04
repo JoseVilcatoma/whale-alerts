@@ -18040,5 +18040,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785815515,
+    "timestamp_added": 1785815515.7130768,
+    "username": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+    "wallet": "0x7986576408b65a9805ac85553be33ad0b044baa5",
+    "slug": "lol-kt-gen-2026-08-07-total-games-2pt5",
+    "title": "Games Total: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 26.0,
+    "whale_pct": 0.45,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
