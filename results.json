@@ -135442,5 +135442,17 @@
     "usd": 1250.0,
     "odds_at_bet": 25,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785842939,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-durasov-geerts-2026-08-03",
+    "title": "Grodzisk Mazowiecki: Viktor Durasovic vs Michael Geerts",
+    "outcome": "Viktor Durasovic",
+    "side": "BUY",
+    "usd": 1142.225717,
+    "odds_at_bet": 92,
+    "status": "pending"
   }
 ]
