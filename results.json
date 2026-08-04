@@ -141082,5 +141082,41 @@
     "usd": 1742.48163,
     "odds_at_bet": 98,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785877424,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-sonego-grieksp-2026-08-03",
+    "title": "Canadian Open: Lorenzo Sonego vs Tallon Griekspoor",
+    "outcome": "Lorenzo Sonego",
+    "side": "BUY",
+    "usd": 1094.28,
+    "odds_at_bet": 22,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785877486,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-mochizu-marozsa-2026-08-03",
+    "title": "National Bank Open: Shintaro Mochizuki vs Fabian Marozsan",
+    "outcome": "Fabian Marozsan",
+    "side": "BUY",
+    "usd": 1313.3705,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785877523,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Andrey Rublev",
+    "side": "BUY",
+    "usd": 3276.0,
+    "odds_at_bet": 52,
+    "status": "pending"
   }
 ]
