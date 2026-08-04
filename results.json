@@ -135238,5 +135238,77 @@
     "usd": 2282.85,
     "odds_at_bet": 89,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785842277,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-playti-tr7-2026-08-04-game1",
+    "title": "Dota 2: PlayTime vs Team Resilience - Game 1 Winner",
+    "outcome": "Team Resilience",
+    "side": "BUY",
+    "usd": 2999.999999,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842320,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-t1a-ktc-2026-08-04-game1",
+    "title": "LoL: T1 Academy vs KT Rolster Challengers - Game 1 Winner",
+    "outcome": "T1 Academy",
+    "side": "BUY",
+    "usd": 18554.22,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842358,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-bro2-drx-2026-08-04-game1",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX - Game 1 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 2793.8261,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842360,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-monteir-gentzsc-2026-08-04",
+    "title": "Hagen: Thiago Monteiro vs Tom Gentzsch",
+    "outcome": "Tom Gentzsch",
+    "side": "BUY",
+    "usd": 1264.0162759999998,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842374,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-galfi-seidel-2026-08-03",
+    "title": "Warsaw: Dalma Galfi vs Ella Seidel",
+    "outcome": "Ella Seidel",
+    "side": "BUY",
+    "usd": 5318.639999999999,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842381,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-bro2-drx-2026-08-04",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 3064.2374999999997,
+    "odds_at_bet": 41,
+    "status": "pending"
   }
 ]
