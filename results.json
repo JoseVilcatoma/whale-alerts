@@ -146386,5 +146386,101 @@
     "usd": 4079.0015,
     "odds_at_bet": 43,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785884806,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-kalinsk-kessler-2026-08-04",
+    "title": "National Bank Open: Anna Kalinskaya vs McCartney Kessler",
+    "outcome": "Anna Kalinskaya",
+    "side": "BUY",
+    "usd": 4306.139999999999,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785884810,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-kalinsk-kessler-2026-08-04",
+    "title": "National Bank Open: Anna Kalinskaya vs McCartney Kessler",
+    "outcome": "Anna Kalinskaya",
+    "side": "BUY",
+    "usd": 2175.4839,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785884813,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-mia-atl-2026-08-04-total-8pt5",
+    "title": "Miami Marlins vs. Atlanta Braves: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 5672.1612,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785884813,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-mia-atl-2026-08-04-total-8pt5",
+    "title": "Miami Marlins vs. Atlanta Braves: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 4278.9988,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785884815,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-mia-atl-2026-08-04-total-9pt5",
+    "title": "Miami Marlins vs. Atlanta Braves: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 3698.469,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785884815,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-mia-atl-2026-08-04-total-9pt5",
+    "title": "Miami Marlins vs. Atlanta Braves: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 5138.001,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785884824,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-rakhimo-siniako-2026-08-04",
+    "title": "National Bank Open: Kamilla Rakhimova vs Katerina Siniakova",
+    "outcome": "Kamilla Rakhimova",
+    "side": "BUY",
+    "usd": 1453.69,
+    "odds_at_bet": 19,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785884833,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-nakashi-altmaie-2026-08-04",
+    "title": "National Bank Open: Brandon Nakashima vs Daniel Altmaier",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 3883.6800000000003,
+    "odds_at_bet": 93,
+    "status": "pending"
   }
 ]
