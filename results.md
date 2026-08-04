@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 07:18:19 (hora de Perú)
+Actualizado: 2026-08-04 07:20:38 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -20,7 +20,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 0 | 100% |
 | RLXDJ19701601 | 2 | 0 | 0 | ⚠️ 100% (muestra chica: 2) |
 | elizabeth.ethcome | 1 | 0 | 8 | ⚠️ 100% (muestra chica: 1) |
-|  | 1 | 0 | 6 | ⚠️ 100% (muestra chica: 1) |
+|  | 1 | 0 | 7 | ⚠️ 100% (muestra chica: 1) |
 | matenghehe | 57 | 2 | 17 | 97% |
 | paquitomillonario | 16 | 1 | 0 | 94% |
 | texaskid | 16 | 1 | 0 | 94% |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | GoalLineGhost | 185 | 100 | 12 | 65% |
 | VeryLucky888 | 112 | 62 | 12 | 64% |
-| BirdMan. | 41 | 24 | 0 | 63% |
+| BirdMan. | 41 | 24 | 1 | 63% |
 | ferrariChampions2026 | 1905 | 1217 | 78 | 61% |
 | UpTheBlues | 63 | 40 | 30 | 61% |
 | fRibrenlc | 21 | 14 | 0 | 60% |
@@ -61,14 +61,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | MeiGuNiuBi | 4 | 3 | 0 | ⚠️ 57% (muestra chica: 7) |
 | 1winstreak1 | 50 | 39 | 0 | 56% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 8 | 7 | 2 | 53% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 4 | 52% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 5 | 52% |
 | wr0ngw4yb3tt0r | 144 | 144 | 0 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
-| SDTrading | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
+| SDTrading | 3 | 3 | 1 | ⚠️ 50% (muestra chica: 6) |
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | PleaseWinPlease | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
-| 0x0x23kjookhaiuohduoayh8c9 | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
+| 0x0x23kjookhaiuohduoayh8c9 | 1 | 1 | 1 | ⚠️ 50% (muestra chica: 2) |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 26 | 27 | 6 | 49% |
 | AnonymousUsername | 32 | 35 | 0 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 40 | 43 | 5 | 48% |

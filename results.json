@@ -135946,5 +135946,65 @@
     "usd": 1278.04,
     "odds_at_bet": 89,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785845914,
+    "username": "BirdMan.",
+    "wallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+    "slug": "lol-bro2-drx-2026-08-04-game2",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX - Game 2 Winner",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 2202.4632,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785845966,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-oak-cin-2026-08-04",
+    "title": "Athletics vs. Cincinnati Reds",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 24544.0665,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785845966,
+    "username": "0x0x23kjookhaiuohduoayh8c9",
+    "wallet": "0x9c3ce009c9b039956665cecc4cd14de862b5e8c9",
+    "slug": "mlb-oak-cin-2026-08-04",
+    "title": "Athletics vs. Cincinnati Reds",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 1999.9979999999998,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785845966,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-oak-cin-2026-08-04",
+    "title": "Athletics vs. Cincinnati Reds",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 43567.804500000006,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785846022,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "dota2-bb4-og-2026-08-04",
+    "title": "Dota 2: BetBoom Team vs OG (BO3) - 1win Essence Playoffs",
+    "outcome": "OG",
+    "side": "BUY",
+    "usd": 1211.8199989999998,
+    "odds_at_bet": 43,
+    "status": "pending"
   }
 ]
