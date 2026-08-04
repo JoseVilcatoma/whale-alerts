@@ -7336,5 +7336,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785807127,
+    "timestamp_added": 1785807128.224173,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "will-marsha-blackburn-win-the-2026-tennessee-governor-republican-primary-election",
+    "title": "Will Marsha Blackburn win the 2026 Tennessee Governor Republican primary election?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 212.71999799999998,
+    "whale_pct": 7.891,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
