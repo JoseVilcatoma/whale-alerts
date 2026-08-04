@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 06:09:34 (hora de Perú)
+Actualizado: 2026-08-04 06:11:36 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -21,7 +21,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RLXDJ19701601 | 2 | 0 | 0 | ⚠️ 100% (muestra chica: 2) |
 | elizabeth.ethcome | 1 | 0 | 5 | ⚠️ 100% (muestra chica: 1) |
 |  | 1 | 0 | 4 | ⚠️ 100% (muestra chica: 1) |
-| matenghehe | 57 | 2 | 14 | 97% |
+| matenghehe | 57 | 2 | 15 | 97% |
 | paquitomillonario | 16 | 1 | 0 | 94% |
 | texaskid | 16 | 1 | 0 | 94% |
 | TopGleaguepick | 14 | 2 | 0 | 88% |
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
-| RN1 | 1163 | 608 | 67 | 66% |
+| RN1 | 1163 | 608 | 69 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 413 | 218 | 6 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | flatbarrel | 9 | 6 | 0 | 60% |
 | us391 | 27 | 18 | 2 | 60% |
 | lllllllIlll | 9 | 6 | 3 | 60% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 28 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 31 | 59% |
 | meoooow | 22 | 15 | 1 | 59% |
 | StasPanda | 20 | 14 | 7 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
@@ -71,7 +71,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x0x23kjookhaiuohduoayh8c9 | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 26 | 27 | 5 | 49% |
 | AnonymousUsername | 32 | 35 | 0 | 48% |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 40 | 43 | 3 | 48% |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 40 | 43 | 4 | 48% |
 | esportGG | 77 | 85 | 9 | 48% |
 | sbsigner | 38 | 44 | 0 | 46% |
 | Eztennis | 28 | 33 | 0 | 46% |
