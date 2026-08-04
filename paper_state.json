@@ -1,5 +1,5 @@
 {
-  "bankroll": 892.0633333333334,
+  "bankroll": 745.8633333333335,
   "history": [
     {
       "timestamp": 1785799986.554965,
@@ -55,6 +55,16 @@
       "timestamp": 1785812547.6169302,
       "bankroll": 892.06,
       "event": "won: 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 \u2014 Toronto Blue Jays vs. Houston Astros"
+    },
+    {
+      "timestamp": 1785813041.5011435,
+      "bankroll": 745.86,
+      "event": "lost: Djdjdjekekek \u2014 Los Angeles Dodgers vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1785813081.406889,
+      "bankroll": 745.86,
+      "event": "lost: Djdjdjekekek \u2014 Los Angeles Dodgers vs. Chicago Cubs"
     }
   ]
 }
