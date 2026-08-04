@@ -134230,5 +134230,29 @@
     "usd": 1270.0002,
     "odds_at_bet": 69,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785839755,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-hruncak-bandecc-2026-08-03",
+    "title": "Warsaw: Viktoria Hruncakova vs Susan Bandecchi",
+    "outcome": "Susan Bandecchi",
+    "side": "BUY",
+    "usd": 1280.3427000000001,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785839791,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-genga-hle-2026-08-04-game2",
+    "title": "LoL: Gen.G Global Academy vs Hanwha Life Esports Challengers - Game 2 Winner",
+    "outcome": "Hanwha Life Esports Challengers",
+    "side": "SELL",
+    "usd": 1455.60294,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
