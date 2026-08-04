@@ -140974,5 +140974,41 @@
     "usd": 2849.999999,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785877106,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-ruse-potapov-2026-08-04",
+    "title": "National Bank Open: Gabriela Ruse vs Anastasia Potapova",
+    "outcome": "Anastasia Potapova",
+    "side": "BUY",
+    "usd": 4210.6777999999995,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785877120,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1730.08,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785877123,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-shang-rublev-2026-08-04",
+    "title": "National Bank Open: Juncheng Shang vs Andrey Rublev",
+    "outcome": "Andrey Rublev",
+    "side": "BUY",
+    "usd": 3705.48,
+    "odds_at_bet": 73,
+    "status": "pending"
   }
 ]
