@@ -133786,5 +133786,29 @@
     "usd": 1572.5995999999998,
     "odds_at_bet": 95,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785838450,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-manescu-mair-2026-08-04",
+    "title": "ITF Leipzig: Tina Manescu vs Laura Mair",
+    "outcome": "Laura Mair",
+    "side": "BUY",
+    "usd": 1303.9096,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785838450,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-manescu-mair-2026-08-04",
+    "title": "ITF Leipzig: Tina Manescu vs Laura Mair",
+    "outcome": "Tina Manescu",
+    "side": "BUY",
+    "usd": 1150.6704,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
