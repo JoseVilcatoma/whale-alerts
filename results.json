@@ -135310,5 +135310,53 @@
     "usd": 3064.2374999999997,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785842449,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Linda Klimovicova",
+    "side": "BUY",
+    "usd": 4360.89,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842449,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Linda Klimovicova",
+    "side": "BUY",
+    "usd": 4797.65,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842449,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Linda Klimovicova",
+    "side": "BUY",
+    "usd": 2095.08615,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842449,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "wta-klimovi-yaneva-2026-08-03",
+    "title": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+    "outcome": "Elizara Yaneva",
+    "side": "BUY",
+    "usd": 12000.0,
+    "odds_at_bet": 39,
+    "status": "pending"
   }
 ]
