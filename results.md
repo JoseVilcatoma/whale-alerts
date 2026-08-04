@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 07:42:02 (hora de Perú)
+Actualizado: 2026-08-04 07:44:28 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -10,7 +10,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Melody626 | 1 | 0 | 14 | ⚠️ 100% (muestra chica: 1) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
-| fazewinline | 14 | 0 | 4 | 100% |
+| fazewinline | 14 | 0 | 7 | 100% |
 | Pwaddler | 5 | 0 | 0 | ⚠️ 100% (muestra chica: 5) |
 | THEdirkdiggler | 3 | 0 | 1 | ⚠️ 100% (muestra chica: 3) |
 | LeatherPants | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
@@ -21,7 +21,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | RLXDJ19701601 | 2 | 0 | 0 | ⚠️ 100% (muestra chica: 2) |
 | elizabeth.ethcome | 1 | 0 | 11 | ⚠️ 100% (muestra chica: 1) |
 |  | 1 | 0 | 7 | ⚠️ 100% (muestra chica: 1) |
-| matenghehe | 57 | 2 | 17 | 97% |
+| matenghehe | 57 | 2 | 18 | 97% |
 | paquitomillonario | 16 | 1 | 0 | 94% |
 | texaskid | 16 | 1 | 0 | 94% |
 | TopGleaguepick | 14 | 2 | 0 | 88% |
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 122 | 52 | 0 | 70% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
-| RN1 | 1163 | 608 | 89 | 66% |
+| RN1 | 1163 | 608 | 90 | 66% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 413 | 218 | 10 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -69,7 +69,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Winnerdinnerchickenjr | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
 | PleaseWinPlease | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
 | 0x0x23kjookhaiuohduoayh8c9 | 1 | 1 | 1 | ⚠️ 50% (muestra chica: 2) |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 26 | 27 | 7 | 49% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 26 | 27 | 8 | 49% |
 | AnonymousUsername | 32 | 35 | 0 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 40 | 43 | 5 | 48% |
 | esportGG | 77 | 85 | 14 | 48% |
@@ -84,7 +84,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Talvez10 | 17 | 30 | 0 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 7 | 13 | 12 | 35% |
-| Flipadelphia | 9 | 18 | 0 | 33% |
+| Flipadelphia | 9 | 18 | 2 | 33% |
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | TAIWANNUMBERONE | 1 | 3 | 6 | ⚠️ 25% (muestra chica: 4) |
 | 111111111115 | 11 | 36 | 0 | 23% |
@@ -104,7 +104,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | denizz | 0 | 0 | 19 | — |
 | ndb1 | 0 | 0 | 2 | — |
 | BrightStars | 0 | 0 | 2 | — |
-| CORGI8 | 0 | 0 | 1 | — |
+| CORGI8 | 0 | 0 | 3 | — |
 | skyman44 | 0 | 0 | 13 | — |
 | quavoo | 0 | 0 | 3 | — |
 | canoflanagan | 0 | 0 | 4 | — |
