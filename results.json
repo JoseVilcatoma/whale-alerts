@@ -132442,5 +132442,29 @@
     "usd": 1739.9999999999998,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785835036,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-pieczon-mayot-2026-08-03",
+    "title": "Grodzisk Mazowiecki: Filip Pieczonka vs Harold Mayot",
+    "outcome": "Harold Mayot",
+    "side": "BUY",
+    "usd": 2510.748888,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785835108,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-canas-bertran-2026-08-03",
+    "title": "Grodzisk Mazowiecki: Alejandro Moro Canas vs Robin Bertrand",
+    "outcome": "Alejandro Moro Canas",
+    "side": "BUY",
+    "usd": 1262.119053,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
