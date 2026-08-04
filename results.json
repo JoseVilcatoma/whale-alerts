@@ -134674,5 +134674,53 @@
     "usd": 9999.999998000001,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785841048,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-olmo-ce-2026-08-04",
+    "title": "ITF Koksijde: Ane Mintegi Del Olmo vs Gabriela Ce",
+    "outcome": "Ane Mintegi Del Olmo",
+    "side": "BUY",
+    "usd": 1150.7104,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841049,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-canas-bertran-2026-08-03",
+    "title": "Grodzisk Mazowiecki: Alejandro Moro Canas vs Robin Bertrand",
+    "outcome": "Alejandro Moro Canas",
+    "side": "BUY",
+    "usd": 1849.1252799999997,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841057,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-jacquem-lee-2026-08-03",
+    "title": "Warsaw: Elsa Jacquemot vs Carol Young Suh Lee",
+    "outcome": "Elsa Jacquemot",
+    "side": "BUY",
+    "usd": 1716.3645999999999,
+    "odds_at_bet": 31,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841057,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-jacquem-lee-2026-08-03",
+    "title": "Warsaw: Elsa Jacquemot vs Carol Young Suh Lee",
+    "outcome": "Carol Young Suh Lee",
+    "side": "BUY",
+    "usd": 2165.9997,
+    "odds_at_bet": 69,
+    "status": "pending"
   }
 ]
