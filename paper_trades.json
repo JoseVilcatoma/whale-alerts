@@ -4231,5 +4231,41 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785866705,
+    "timestamp_added": 1785866705.9302766,
+    "username": "betterfasterstronger",
+    "wallet": "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c",
+    "slug": "highest-temperature-in-denver-on-august-4-2026-78-79f",
+    "title": "Will the highest temperature in Denver be between 78-79\u00b0F on August 4?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 7.089999000000001,
+    "whale_pct": 0.229,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785866737,
+    "timestamp_added": 1785866737.7070382,
+    "username": "betterfasterstronger",
+    "wallet": "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c",
+    "slug": "highest-temperature-in-paris-on-august-5-2026-29c",
+    "title": "Will the highest temperature in Paris be 29\u00b0C on August 5?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "whale_usd": 5.994,
+    "whale_pct": 0.194,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
