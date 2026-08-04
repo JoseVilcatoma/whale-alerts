@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 16:40:41 (hora de Perú)
+Actualizado: 2026-08-04 16:43:06 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 63 | 10 | 2 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | elizabeth.ethcome | 12 | 2 | 0 | 86% |
-| swisstony | 726 | 156 | 77 | 82% |
+| swisstony | 726 | 156 | 78 | 82% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | one8tyfive | 44 | 14 | 3 | 76% |
 | fkgggg2mouzfuria | 95 | 30 | 0 | 76% |
@@ -49,13 +49,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 112 | 63 | 26 | 64% |
 | UpTheBlues | 67 | 40 | 36 | 63% |
 | flatbarrel | 10 | 6 | 2 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 96 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 97 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 43 | 61% |
 | fRibrenlc | 21 | 14 | 1 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
-| HomeRunHazard | 300 | 216 | 49 | 58% |
+| HomeRunHazard | 300 | 216 | 53 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 5 | 57% |
 | us391 | 27 | 20 | 1 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
