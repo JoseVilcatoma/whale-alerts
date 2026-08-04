@@ -134854,5 +134854,53 @@
     "usd": 2602.8468000000003,
     "odds_at_bet": 93,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785841468,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-sakamot-mayo-2026-08-04",
+    "title": "Lexington: Rei Sakamoto vs Aidan Mayo",
+    "outcome": "Rei Sakamoto",
+    "side": "BUY",
+    "usd": 3545.4358999999995,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841510,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-firman-gjorche-2026-08-04",
+    "title": "ITF Leipzig: Anastasiia Firman vs Lina Gjorcheska",
+    "outcome": "Lina Gjorcheska",
+    "side": "BUY",
+    "usd": 1150.6704,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841529,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "uel-lar-sab-2026-08-06-sab",
+    "title": "Will SK Iberia 1999 win on 2026-08-06?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2352.219,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785841560,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-durasov-geerts-2026-08-03",
+    "title": "Grodzisk Mazowiecki: Viktor Durasovic vs Michael Geerts",
+    "outcome": "Michael Geerts",
+    "side": "BUY",
+    "usd": 1389.830508,
+    "odds_at_bet": 41,
+    "status": "pending"
   }
 ]
