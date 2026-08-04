@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 20:09:49 (hora de Perú)
+Actualizado: 2026-08-03 20:11:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $844.83
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Pwaddler | 0 | 0 | 1 | +0.00 USD |
 | Djdjdjekekek | 1 | 0 | 1 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 3 | +0.00 USD |
-| Corlys | 0 | 0 | 331 | +0.00 USD |
+| Corlys | 0 | 0 | 352 | +0.00 USD |
 | crckr | 0 | 0 | 7 | +0.00 USD |
 | CORGI8 | 0 | 6 | 0 | -155.17 USD |
 
@@ -31,6 +31,27 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Corlys | Will the highest temperature in Milan be | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Milan be | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Milan be | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Milan be | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Milan be | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 80% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 64% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in London be | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in London be | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in London be | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in London be | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in London be | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in London be | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in London be | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in London be | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in London be | No (BUY) | 64% | 0.00 | ⏳ pendiente | — |
+| Corlys | Will the lowest temperature in London be | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys |  |  (BUY) | 88% | 0.00 | ⏳ pendiente | — |
 | Corlys |  |  (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | Corlys |  |  (BUY) | 90% | 0.00 | ⏳ pendiente | — |
@@ -40,24 +61,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys | Will the highest temperature in Hong Kon | No (BUY) | 65% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Hong Kon | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Hong Kon | No (BUY) | 97% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 77% | 0.00 | ⏳ pendiente | — |
-| Corlys |  |  (SELL) | 94% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Kuala Lu | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Kuala Lu | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Kuala Lu | No (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Kuala Lu | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Kuala Lu | No (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Kuala Lu | No (BUY) | 89% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Kuala Lu | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the Central Bank of Colombia decrea | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the Central Bank of Colombia decrea | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the Central Bank of Colombia increa | No (BUY) | 77% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the Central Bank of Colombia increa | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Hong Kon | No (BUY) | 65% | 0.00 | ⏳ pendiente | — |
