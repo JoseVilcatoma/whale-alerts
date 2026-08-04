@@ -7246,5 +7246,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785806842,
+    "timestamp_added": 1785806843.0790164,
+    "username": "Corlys",
+    "wallet": "0xd23f8c8aab13cfb2a35da40b67f8471faf9894a1",
+    "slug": "highest-temperature-in-seattle-on-august-3-2026-76-77f",
+    "title": "Will the highest temperature in Seattle be between 76-77\u00b0F on August 3?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 65.274,
+    "whale_pct": 3.1,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]

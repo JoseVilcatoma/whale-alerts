@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-03 20:26:43 (hora de Perú)
+Actualizado: 2026-08-03 20:28:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $844.83
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Pwaddler | 0 | 0 | 1 | +0.00 USD |
 | Djdjdjekekek | 1 | 0 | 3 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 3 | +0.00 USD |
-| Corlys | 0 | 0 | 377 | +0.00 USD |
+| Corlys | 0 | 0 | 378 | +0.00 USD |
 | crckr | 0 | 0 | 7 | +0.00 USD |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 1 | +0.00 USD |
 | CORGI8 | 0 | 6 | 0 | -155.17 USD |
@@ -32,6 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Corlys | Will the highest temperature in Seattle  | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | San Diego Padres vs. Arizona Diamondback | Arizona Diamondbacks (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Shanghai | No (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Shanghai | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
@@ -61,4 +62,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Corlys |  |  (SELL) | 50% | 0.00 | ⏳ pendiente | — |
 | Corlys |  |  (SELL) | 50% | 0.00 | ⏳ pendiente | — |
 | Corlys | Will the highest temperature in Milan be | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
-| Corlys | Will the highest temperature in Milan be | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
