@@ -133090,5 +133090,17 @@
     "usd": 13116.072,
     "odds_at_bet": 92,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785836060,
+    "username": "patient12",
+    "wallet": "0xe291a588ece487f3323736c55c6144f6a99e748e",
+    "slug": "lol-gen-dnf-2026-08-04-game1",
+    "title": "LoL: Gen.G vs DN SOOPers - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1003.0488,
+    "odds_at_bet": 78,
+    "status": "pending"
   }
 ]
