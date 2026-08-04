@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 05:47:20 (hora de Perú)
+Actualizado: 2026-08-04 05:49:27 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
-| GoalLineGhost | 185 | 100 | 9 | 65% |
+| GoalLineGhost | 185 | 100 | 11 | 65% |
 | VeryLucky888 | 112 | 62 | 9 | 64% |
 | BirdMan. | 41 | 24 | 0 | 63% |
 | ferrariChampions2026 | 1905 | 1217 | 52 | 61% |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | lllllllIlll | 9 | 6 | 2 | 60% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 127 | 88 | 26 | 59% |
 | meoooow | 22 | 15 | 1 | 59% |
-| StasPanda | 20 | 14 | 6 | 59% |
+| StasPanda | 20 | 14 | 7 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 0 | 58% |
 | HomeRunHazard | 285 | 209 | 10 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 1 | 57% |
