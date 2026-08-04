@@ -135106,5 +135106,65 @@
     "usd": 1104.6345,
     "odds_at_bet": 85,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785842026,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-echargu-johnso-2026-08-04",
+    "title": "Lexington: Moez Echargui vs Spencer Johnson",
+    "outcome": "Moez Echargui",
+    "side": "BUY",
+    "usd": 1850.0,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842072,
+    "username": "jtwyslljy",
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "slug": "lol-bro2-drx-2026-08-04",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1025.0,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842092,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-biryuko-inchaus-2026-08-03",
+    "title": "Istanbul 2: Petr Bar Biryukov vs Paul Inchauspe",
+    "outcome": "Paul Inchauspe",
+    "side": "BUY",
+    "usd": 1620.0,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842093,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-biryuko-inchaus-2026-08-03",
+    "title": "Istanbul 2: Petr Bar Biryukov vs Paul Inchauspe",
+    "outcome": "Paul Inchauspe",
+    "side": "BUY",
+    "usd": 1111.7007,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785842135,
+    "username": "jtwyslljy",
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "slug": "lol-bro2-drx-2026-08-04",
+    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1025.0,
+    "odds_at_bet": 41,
+    "status": "pending"
   }
 ]
