@@ -159154,5 +159154,113 @@
     "usd": 1792.3799989999998,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785929305,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-jdg-lgd-2026-08-05",
+    "title": "LoL: JD Gaming vs LGD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 2518.5220000000004,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785929320,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-tl1-fnc-2026-08-05",
+    "title": "Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs",
+    "outcome": "Liquid",
+    "side": "BUY",
+    "usd": 9285.714285,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785929320,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "cs2-tl1-fnc-2026-08-05",
+    "title": "Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs",
+    "outcome": "fnatic",
+    "side": "BUY",
+    "usd": 4999.999999,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785929361,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-hle1-gen-2026-08-05-game1",
+    "title": "LoL: Hanwha Life Esports vs Gen.G - Game 1 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 2058.1029,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785929361,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-hle1-gen-2026-08-05-game1",
+    "title": "LoL: Hanwha Life Esports vs Gen.G - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 2621.5071000000003,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785929364,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-hle1-gen-2026-08-05-game1",
+    "title": "LoL: Hanwha Life Esports vs Gen.G - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1950.005,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785929369,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-hle1-gen-2026-08-05-game1",
+    "title": "LoL: Hanwha Life Esports vs Gen.G - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 2254.0049,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785929369,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-hle1-gen-2026-08-05-game1",
+    "title": "LoL: Hanwha Life Esports vs Gen.G - Game 1 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 2091.0051000000003,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785929369,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-hle1-gen-2026-08-05-game1",
+    "title": "LoL: Hanwha Life Esports vs Gen.G - Game 1 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 1965.01,
+    "odds_at_bet": 50,
+    "status": "pending"
   }
 ]
