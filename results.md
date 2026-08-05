@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 04:58:45 (hora de Perú)
+Actualizado: 2026-08-05 05:00:49 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -71,9 +71,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | MeiGuNiuBi | 4 | 3 | 3 | ⚠️ 57% (muestra chica: 7) |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 6 | 57% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 35 | 30 | 14 | 54% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 35 | 30 | 15 | 54% |
 | StasPanda | 21 | 18 | 3 | 54% |
-| AnonymousUsername | 50 | 45 | 0 | 53% |
+| AnonymousUsername | 50 | 45 | 1 | 53% |
 | wr0ngw4yb3tt0r | 184 | 174 | 0 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 4 | 50% |
@@ -99,7 +99,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | jtwyslljy | 9 | 20 | 4 | 31% |
-| skyman44 | 4 | 9 | 2 | 31% |
+| skyman44 | 4 | 9 | 4 | 31% |
 | 0x0x23kjookhaiuohduoayh8c9 | 2 | 6 | 4 | 25% |
 | 111111111115 | 11 | 38 | 0 | 22% |
 | neurodivergentBet | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
