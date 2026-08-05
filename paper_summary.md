@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 22:08:42 (hora de Perú)
+Actualizado: 2026-08-04 22:10:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $979.90
@@ -13,9 +13,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 22 | +0.00 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 23 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 2 | +0.00 USD |
-| RN1 | 2 | 1 | 16 | -20.10 USD |
+| RN1 | 2 | 1 | 17 | -20.10 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -25,6 +25,8 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Tampa Bay Rays vs. Colorado Rockies: O/U | Over (BUY) | 64% | 1.42 | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Liquid vs fnatic (BO3) - | fnatic (BUY) | 37% | 2.27 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Liquid vs fnatic (BO3) - | fnatic (BUY) | 37% | 1.36 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 73% | 11.43 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Liquid vs fnatic (BO3) - | fnatic (BUY) | 37% | 6.65 | ⏳ pendiente | — |
@@ -53,5 +55,3 @@ _Todavía no hubo coincidencias._
 | RN1 | Spread: Colorado Rockies (-1.5) | Tampa Bay Rays (BUY) | 49% | 4.91 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Johnny Speeds vs Betclic | Johnny Speeds (BUY) | 43% | 25.58 | ⏳ pendiente | — |
 | RN1 | Spread: Colorado Rockies (-1.5) | Tampa Bay Rays (BUY) | 49% | 1.60 | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 67% | 1.67 | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 71% | 2.85 | ⏳ pendiente | — |
