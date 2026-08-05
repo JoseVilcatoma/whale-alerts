@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 21:31:52 (hora de Perú)
+Actualizado: 2026-08-04 21:33:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 8 | +0.00 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 9 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 2 | +0.00 USD |
 | RN1 | 0 | 0 | 12 | +0.00 USD |
 
@@ -25,6 +25,7 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 71% | 3.70 | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 61% | 5.95 | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 51% | 3.09 | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 61% | 8.32 | ⏳ pendiente | — |

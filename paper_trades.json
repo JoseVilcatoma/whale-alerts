@@ -394,5 +394,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785897127,
+    "timestamp_added": 1785897127.8600264,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-ntr-cyb-2026-08-05",
+    "title": "Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Prospects (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "Nuclear TigeRES",
+    "side": "BUY",
+    "whale_usd": 152.6713,
+    "whale_pct": 0.37,
+    "paper_stake_usd": 3.7,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
