@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 05:52:39 (hora de Perú)
+Actualizado: 2026-08-05 05:55:05 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -58,12 +58,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 22 | 62% |
 | fRibrenlc | 25 | 15 | 7 | 62% |
 | HomeRunHazard | 447 | 276 | 11 | 62% |
-| ferrariChampions2026 | 2125 | 1365 | 116 | 61% |
+| ferrariChampions2026 | 2125 | 1365 | 117 | 61% |
 | SnakeBall | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 15 | 59% |
 | flatbarrel | 13 | 9 | 0 | 59% |
-| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 2 | 59% |
+| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 4 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
 | monkeymashingkeyboard | 29 | 22 | 0 | 57% |
 | us391 | 29 | 22 | 0 | 57% |
@@ -72,7 +72,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 14 | 57% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 35 | 30 | 16 | 54% |
-| StasPanda | 21 | 18 | 3 | 54% |
+| StasPanda | 21 | 18 | 4 | 54% |
 | AnonymousUsername | 50 | 45 | 1 | 53% |
 | wr0ngw4yb3tt0r | 184 | 174 | 0 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -89,13 +89,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 73 | 85 | 0 | 46% |
 |  | 12 | 14 | 9 | 46% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 14 | 45% |
-| PASSTHEMONEY | 45 | 62 | 14 | 42% |
+| PASSTHEMONEY | 45 | 62 | 15 | 42% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | TAIWANNUMBERONE | 4 | 6 | 9 | 40% |
 | pleaseplease123 | 47 | 74 | 0 | 39% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 30 | 1 | 39% |
 | VPenguin | 10 | 18 | 3 | 36% |
-| Flipadelphia | 11 | 22 | 2 | 33% |
+| Flipadelphia | 11 | 22 | 3 | 33% |
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | jtwyslljy | 9 | 20 | 7 | 31% |
