@@ -153886,5 +153886,29 @@
     "usd": 1647.03,
     "odds_at_bet": 70,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785893123,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-mia-atl-2026-08-04",
+    "title": "Miami Marlins vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "SELL",
+    "usd": 2044.74822,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785893200,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-mil-2026-08-04",
+    "title": "Pittsburgh Pirates vs. Milwaukee Brewers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 1562.924,
+    "odds_at_bet": 88,
+    "status": "pending"
   }
 ]

@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 20:24:05 (hora de Perú)
+Actualizado: 2026-08-04 20:26:56 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 112 | 63 | 59 | 64% |
 | UpTheBlues | 67 | 40 | 57 | 63% |
 | flatbarrel | 10 | 6 | 6 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 281 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 282 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 83 | 61% |
 | fRibrenlc | 21 | 14 | 5 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
@@ -102,7 +102,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
-| 0x4f2 | 0 | 2 | 36 | ⚠️ 0% (muestra chica: 2) |
+| 0x4f2 | 0 | 2 | 37 | ⚠️ 0% (muestra chica: 2) |
 | CORGI8 | 0 | 6 | 0 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
