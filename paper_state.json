@@ -1,5 +1,5 @@
 {
-  "bankroll": 1010.8658033183779,
+  "bankroll": 990.9658033183779,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -100,6 +100,16 @@
       "timestamp": 1785904341.7966166,
       "bankroll": 1010.87,
       "event": "lost: RN1 \u2014 Spread: Detroit Tigers (-2.5)"
+    },
+    {
+      "timestamp": 1785904716.9925647,
+      "bankroll": 1001.46,
+      "event": "lost: 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 \u2014 Toronto Tempo vs. Golden State Valkyries: O/U 168.5"
+    },
+    {
+      "timestamp": 1785904717.0927374,
+      "bankroll": 990.97,
+      "event": "lost: 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 \u2014 Toronto Tempo vs. Golden State Valkyries: O/U 168.5"
     }
   ]
 }
