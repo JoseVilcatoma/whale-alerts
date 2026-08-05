@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 22:04:34 (hora de Perú)
+Actualizado: 2026-08-04 22:06:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $979.90
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 19 | +0.00 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 21 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 2 | +0.00 USD |
 | RN1 | 2 | 1 | 16 | -20.10 USD |
 
@@ -25,6 +25,8 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 73% | 11.43 | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Liquid vs fnatic (BO3) - | fnatic (BUY) | 37% | 6.65 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Liquid vs fnatic (BO3) - | fnatic (BUY) | 37% | 1.96 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Johnny Speeds vs Betclic | Johnny Speeds (BUY) | 44% | 4.70 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 66% | 3.24 | ⏳ pendiente | — |
@@ -53,5 +55,3 @@ _Todavía no hubo coincidencias._
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 67% | 1.67 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 71% | 2.85 | ⏳ pendiente | — |
 | RN1 | Spread: San Francisco Giants (-1.5) | Texas Rangers (BUY) | 85% | 1.24 | ⏳ pendiente | — |
-| RN1 | Minnesota Twins vs. Kansas City Royals:  | Over (BUY) | 41% | 1.03 | ✅ ganada | +1.48 |
-| RN1 | Toronto Blue Jays vs. Houston Astros: O/ | Over (BUY) | 72% | 22.20 | ❌ perdida | -22.20 |
