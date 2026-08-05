@@ -153982,5 +153982,17 @@
     "usd": 2050.0,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785919984,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "atp-jodar-moutet-2026-08-06",
+    "title": "National Bank Open: Rafael Jodar vs Corentin Moutet",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "usd": 1515.3048000000001,
+    "odds_at_bet": 73,
+    "status": "pending"
   }
 ]

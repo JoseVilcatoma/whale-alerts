@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 03:51:44 (hora de Perú)
+Actualizado: 2026-08-05 03:53:47 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
-| VeryLucky888 | 148 | 81 | 5 | 65% |
+| VeryLucky888 | 148 | 81 | 6 | 65% |
 | UpTheBlues | 82 | 51 | 31 | 62% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 1 | 62% |
 | fRibrenlc | 25 | 15 | 0 | 62% |
