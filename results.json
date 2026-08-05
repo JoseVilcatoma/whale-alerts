@@ -156166,5 +156166,17 @@
     "usd": 1896.686,
     "odds_at_bet": 73,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785923790,
+    "username": "MeiGuNiuBi",
+    "wallet": "0xdd882a70680633a75516f6ed5fce443e2d96dadb",
+    "slug": "lol-hle1-gen-2026-08-05",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 3945.3243,
+    "odds_at_bet": 51,
+    "status": "pending"
   }
 ]

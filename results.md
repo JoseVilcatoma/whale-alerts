@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 04:52:33 (hora de Perú)
+Actualizado: 2026-08-05 04:56:40 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -68,7 +68,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | monkeymashingkeyboard | 29 | 22 | 0 | 57% |
 | us391 | 29 | 22 | 0 | 57% |
 | meoooow | 23 | 17 | 1 | 57% |
-| MeiGuNiuBi | 4 | 3 | 2 | ⚠️ 57% (muestra chica: 7) |
+| MeiGuNiuBi | 4 | 3 | 3 | ⚠️ 57% (muestra chica: 7) |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 6 | 57% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 35 | 30 | 14 | 54% |
