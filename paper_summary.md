@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 00:55:44 (hora de Perú)
+Actualizado: 2026-08-05 00:57:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $991.99
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | RN1 | 14 | 7 | 0 | +11.89 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 49 | +0.00 USD |
-| Djdjdjekekek | 0 | 0 | 61 | +0.00 USD |
+| Djdjdjekekek | 0 | 0 | 63 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 3 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 
@@ -27,6 +27,8 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Storm vs. New York Liberty: O/U  | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Dallas Wings vs. Washington Mystics: O/U | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
@@ -49,8 +51,6 @@ _Todavía no hubo coincidencias._
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Johnny Speeds vs Betclic | Johnny Speeds (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 0.00 | ⏳ pendiente | — |
