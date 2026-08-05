@@ -156238,5 +156238,77 @@
     "usd": 1040.0,
     "odds_at_bet": 52,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785924060,
+    "username": "BirdMan.",
+    "wallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 5208.4167,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785924060,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1748.4031,
+    "odds_at_bet": 31,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785924085,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1692.003,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785924096,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-canas-donski-2026-08-05",
+    "title": "Grodzisk Mazowiecki: Alejandro Moro Canas vs Alexander Donski",
+    "outcome": "Alexander Donski",
+    "side": "BUY",
+    "usd": 1025.1372,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785924105,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-canas-donski-2026-08-05",
+    "title": "Grodzisk Mazowiecki: Alejandro Moro Canas vs Alexander Donski",
+    "outcome": "Alejandro Moro Canas",
+    "side": "BUY",
+    "usd": 1149.3612,
+    "odds_at_bet": 12,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785924115,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "lol-hle1-gen-2026-08-05",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1494.798611,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]

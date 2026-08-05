@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 05:00:49 (hora de Perú)
+Actualizado: 2026-08-05 05:01:58 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 4 | 2 | 2 | ⚠️ 67% (muestra chica: 6) |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 197 | 102 | 0 | 66% |
-| BirdMan. | 55 | 28 | 11 | 66% |
+| BirdMan. | 55 | 28 | 12 | 66% |
 | RN1 | 1305 | 706 | 47 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -56,9 +56,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 148 | 81 | 6 | 65% |
 | UpTheBlues | 82 | 51 | 34 | 62% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 11 | 62% |
-| fRibrenlc | 25 | 15 | 0 | 62% |
+| fRibrenlc | 25 | 15 | 1 | 62% |
 | HomeRunHazard | 447 | 276 | 8 | 62% |
-| ferrariChampions2026 | 2125 | 1365 | 63 | 61% |
+| ferrariChampions2026 | 2125 | 1365 | 67 | 61% |
 | SnakeBall | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 11 | 59% |
