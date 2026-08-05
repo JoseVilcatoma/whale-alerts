@@ -88,5 +88,41 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785894955,
+    "timestamp_added": 1785894955.6337528,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-tb-col-2026-08-04-total-12pt5",
+    "title": "Tampa Bay Rays vs. Colorado Rockies: O/U 12.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 294.5,
+    "whale_pct": 0.14,
+    "paper_stake_usd": 1.4,
+    "odds_at_bet": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785894962,
+    "timestamp_added": 1785894962.9943757,
+    "username": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+    "wallet": "0x1b20a00709dfe648afd26b326394b5e031f83ab0",
+    "slug": "wnba-tor-gsv-2026-08-04-total-168pt5",
+    "title": "Toronto Tempo vs. Golden State Valkyries: O/U 168.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1267.59,
+    "whale_pct": 1.049,
+    "paper_stake_usd": 10.49,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
