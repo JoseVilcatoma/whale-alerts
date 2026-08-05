@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 19:10:36 (hora de Perú)
+Actualizado: 2026-08-04 19:13:01 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 63 | 10 | 2 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | elizabeth.ethcome | 12 | 2 | 0 | 86% |
-| swisstony | 726 | 156 | 105 | 82% |
+| swisstony | 726 | 156 | 106 | 82% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | one8tyfive | 44 | 14 | 7 | 76% |
 | fkgggg2mouzfuria | 95 | 30 | 0 | 76% |
@@ -47,9 +47,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 112 | 63 | 51 | 64% |
-| UpTheBlues | 67 | 40 | 53 | 63% |
+| UpTheBlues | 67 | 40 | 54 | 63% |
 | flatbarrel | 10 | 6 | 5 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 216 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 233 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 76 | 61% |
 | fRibrenlc | 21 | 14 | 2 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
@@ -65,7 +65,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | lllllllIlll | 9 | 8 | 1 | 53% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 34 | 52% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 31 | 30 | 11 | 51% |
-| wr0ngw4yb3tt0r | 144 | 144 | 51 | 50% |
+| wr0ngw4yb3tt0r | 144 | 144 | 56 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
 | SDTrading | 3 | 3 | 4 | ⚠️ 50% (muestra chica: 6) |
@@ -115,6 +115,6 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | chanello | 0 | 0 | 2 | — |
 | LlamaLoco0000 | 0 | 0 | 1 | — |
 | JhonAlexanderHinestroza | 0 | 0 | 7 | — |
-| xifutloong3 | 0 | 0 | 4 | — |
+| xifutloong3 | 0 | 0 | 6 | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 3 | — |
 | mentionmarket | 0 | 0 | 1 | — |
