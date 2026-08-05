@@ -1,5 +1,5 @@
 {
-  "bankroll": 1009.5433811035904,
+  "bankroll": 1006.4533811035903,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -55,6 +55,11 @@
       "timestamp": 1785900920.2273655,
       "bankroll": 1009.54,
       "event": "won: RN1 \u2014 Tampa Bay Rays vs. Colorado Rockies: O/U 12.5"
+    },
+    {
+      "timestamp": 1785903352.2256155,
+      "bankroll": 1006.45,
+      "event": "lost: RN1 \u2014 Detroit Tigers vs. Seattle Mariners: O/U 7.5"
     }
   ]
 }

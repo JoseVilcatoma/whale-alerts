@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 23:15:04 (hora de Perú)
+Actualizado: 2026-08-04 23:17:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,009.54
-**Retorno acumulado:** +0.95%
+**Bankroll actual:** $1,006.45
+**Retorno acumulado:** +0.65%
 **Peor caída desde un máximo (drawdown):** 2.22%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| RN1 | 7 | 4 | 10 | +9.54 USD |
+| RN1 | 7 | 5 | 9 | +6.45 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 47 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 2 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 48 | +0.00 USD |
