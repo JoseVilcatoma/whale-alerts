@@ -158206,5 +158206,101 @@
     "usd": 1288.672,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785927892,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-knutson-seidel-2026-08-05",
+    "title": "Warsaw: Gabriela Knutson vs Ella Seidel",
+    "outcome": "Ella Seidel",
+    "side": "BUY",
+    "usd": 6317.322000000001,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785927892,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-knutson-seidel-2026-08-05",
+    "title": "Warsaw: Gabriela Knutson vs Ella Seidel",
+    "outcome": "Ella Seidel",
+    "side": "BUY",
+    "usd": 5640.7428,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785927892,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-knutson-seidel-2026-08-05",
+    "title": "Warsaw: Gabriela Knutson vs Ella Seidel",
+    "outcome": "Gabriela Knutson",
+    "side": "BUY",
+    "usd": 6015.419999000001,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785927892,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-knutson-seidel-2026-08-05",
+    "title": "Warsaw: Gabriela Knutson vs Ella Seidel",
+    "outcome": "Gabriela Knutson",
+    "side": "BUY",
+    "usd": 4903.2411999999995,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785927982,
+    "username": "QuietRiskisWrong",
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "slug": "will-the-us-invade-iran-before-2027",
+    "title": "Will the U.S. invade Iran before 2027?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 5344.1892,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785927983,
+    "username": "QuietRiskisWrong",
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "slug": "will-the-us-invade-iran-before-2027",
+    "title": "Will the U.S. invade Iran before 2027?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2341.8107999999997,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785927983,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-kukasia-krstic-2026-08-05",
+    "title": "ITF Kursumlijska Banja: Artur Kukasian vs Veljko Krstic",
+    "outcome": "Veljko Krstic",
+    "side": "BUY",
+    "usd": 2388.5,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785928033,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-cfc-juv-2026-08-05-total-4pt5",
+    "title": "Chelsea FC vs. Juventus Turin: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1399.0004,
+    "odds_at_bet": 76,
+    "status": "pending"
   }
 ]
