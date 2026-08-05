@@ -1,5 +1,5 @@
 {
-  "bankroll": 1446.1490970160962,
+  "bankroll": 1351.9290970160962,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -540,6 +540,71 @@
       "timestamp": 1785948136.0703042,
       "bankroll": 1446.15,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: TL (-1.5) vs fnatic (+1.5)"
+    },
+    {
+      "timestamp": 1785948440.0784676,
+      "bankroll": 1441.85,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785948440.8024237,
+      "bankroll": 1440.25,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785948440.902645,
+      "bankroll": 1410.31,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785948441.2032223,
+      "bankroll": 1408.35,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785948441.3034115,
+      "bankroll": 1401.7,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785948441.5038216,
+      "bankroll": 1400.34,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785948441.6040459,
+      "bankroll": 1398.07,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785948441.804441,
+      "bankroll": 1375.15,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785948442.0047877,
+      "bankroll": 1371.77,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785948442.4055357,
+      "bankroll": 1351.93,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785948442.8063636,
+      "bankroll": 1351.93,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785948442.9065616,
+      "bankroll": 1351.93,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785948443.2071846,
+      "bankroll": 1351.93,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs"
     }
   ]
 }
