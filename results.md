@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 06:17:33 (hora de Perú)
+Actualizado: 2026-08-05 06:20:12 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -14,7 +14,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ndb1 | 1 | 0 | 2 | ⚠️ 100% (muestra chica: 1) |
 | patient12 | 49 | 0 | 7 | 100% |
 | highnetworth | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 0 | 100% |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 3 | 100% |
 | RLXDJ19701601 | 2 | 0 | 0 | ⚠️ 100% (muestra chica: 2) |
 | flawfence | 2 | 0 | 1 | ⚠️ 100% (muestra chica: 2) |
 | JhonAlexanderHinestroza | 7 | 0 | 0 | ⚠️ 100% (muestra chica: 7) |
@@ -48,8 +48,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 4 | 2 | 2 | ⚠️ 67% (muestra chica: 6) |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 197 | 102 | 3 | 66% |
-| BirdMan. | 55 | 28 | 20 | 66% |
-| RN1 | 1305 | 706 | 64 | 65% |
+| BirdMan. | 55 | 28 | 21 | 66% |
+| RN1 | 1305 | 706 | 66 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | UpTheBlues | 82 | 51 | 35 | 62% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 29 | 62% |
 | fRibrenlc | 25 | 15 | 7 | 62% |
-| HomeRunHazard | 447 | 276 | 13 | 62% |
-| ferrariChampions2026 | 2125 | 1365 | 125 | 61% |
+| HomeRunHazard | 447 | 276 | 14 | 62% |
+| ferrariChampions2026 | 2125 | 1365 | 130 | 61% |
 | SnakeBall | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 20 | 59% |
@@ -88,8 +88,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Talvez10 | 28 | 33 | 0 | 46% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 73 | 85 | 0 | 46% |
 |  | 12 | 14 | 11 | 46% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 14 | 45% |
-| PASSTHEMONEY | 45 | 62 | 16 | 42% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 15 | 45% |
+| PASSTHEMONEY | 45 | 62 | 21 | 42% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | TAIWANNUMBERONE | 4 | 6 | 16 | 40% |
 | pleaseplease123 | 47 | 74 | 0 | 39% |
@@ -113,7 +113,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
-| CORGI8 | 0 | 6 | 8 | ⚠️ 0% (muestra chica: 6) |
+| CORGI8 | 0 | 6 | 9 | ⚠️ 0% (muestra chica: 6) |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 6 | 0 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
