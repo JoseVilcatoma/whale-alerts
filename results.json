@@ -154354,5 +154354,89 @@
     "usd": 1432.4735999999998,
     "odds_at_bet": 32,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785920993,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-ns-2026-08-05-game2",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force - Game 2 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1104.9888,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785920994,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-bro2-ns-2026-08-05-game2",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force - Game 2 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1650.0,
+    "odds_at_bet": 33,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785921000,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-1win-bb4-2026-08-05-game1",
+    "title": "Dota 2: 1win vs BetBoom Team - Game 1 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 1999.999999,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785921022,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-marozsa-arnaldi-2026-08-05",
+    "title": "National Bank Open: Fabian Marozsan vs Matteo Arnaldi",
+    "outcome": "Matteo Arnaldi",
+    "side": "BUY",
+    "usd": 1789.4982,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785921027,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-ns-2026-08-05-game2",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force - Game 2 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 1088.145777,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785921034,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-bro2-ns-2026-08-05-game2",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force - Game 2 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1706.495,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785921085,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-1win-bb4-2026-08-05",
+    "title": "Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 9999.999999000001,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
