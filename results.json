@@ -157294,5 +157294,77 @@
     "usd": 30581.1744,
     "odds_at_bet": 99,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785925889,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "SELL",
+    "usd": 7010.1801,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785925906,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "SELL",
+    "usd": 1313.9577,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785925912,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-hle1-gen-2026-08-05",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1904.75,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785925920,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-1win-bb4-2026-08-05-game2",
+    "title": "Dota 2: 1win vs BetBoom Team - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 17735.849056,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785925920,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-1win-bb4-2026-08-05-game2",
+    "title": "Dota 2: 1win vs BetBoom Team - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 19999.999999,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785925923,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-jdg-lgd-2026-08-05",
+    "title": "LoL: JD Gaming vs LGD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1684.5115,
+    "odds_at_bet": 19,
+    "status": "pending"
   }
 ]

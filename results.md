@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 05:30:29 (hora de Perú)
+Actualizado: 2026-08-05 05:32:42 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 148 | 81 | 7 | 65% |
 | UpTheBlues | 82 | 51 | 34 | 62% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 15 | 62% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 17 | 62% |
 | fRibrenlc | 25 | 15 | 2 | 62% |
 | HomeRunHazard | 447 | 276 | 11 | 62% |
 | ferrariChampions2026 | 2125 | 1365 | 98 | 61% |
@@ -69,7 +69,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | us391 | 29 | 22 | 0 | 57% |
 | meoooow | 23 | 17 | 1 | 57% |
 | MeiGuNiuBi | 4 | 3 | 3 | ⚠️ 57% (muestra chica: 7) |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 8 | 57% |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 11 | 57% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 35 | 30 | 16 | 54% |
 | StasPanda | 21 | 18 | 3 | 54% |
@@ -88,7 +88,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Talvez10 | 28 | 33 | 0 | 46% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 73 | 85 | 0 | 46% |
 |  | 12 | 14 | 9 | 46% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 12 | 45% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 13 | 45% |
 | PASSTHEMONEY | 45 | 62 | 12 | 42% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | TAIWANNUMBERONE | 4 | 6 | 9 | 40% |
