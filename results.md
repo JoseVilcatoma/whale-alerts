@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 05:22:51 (hora de Perú)
+Actualizado: 2026-08-05 05:25:00 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 66 | 10 | 2 | 87% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | texaskid | 18 | 3 | 0 | 86% |
-| elizabeth.ethcome | 12 | 2 | 16 | 86% |
+| elizabeth.ethcome | 12 | 2 | 17 | 86% |
 | quavoo | 5 | 1 | 2 | ⚠️ 83% (muestra chica: 6) |
 | swisstony | 768 | 167 | 62 | 82% |
 | Bigggggggg | 4 | 1 | 34 | ⚠️ 80% (muestra chica: 5) |
@@ -57,11 +57,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | UpTheBlues | 82 | 51 | 34 | 62% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 12 | 62% |
 | fRibrenlc | 25 | 15 | 2 | 62% |
-| HomeRunHazard | 447 | 276 | 10 | 62% |
-| ferrariChampions2026 | 2125 | 1365 | 87 | 61% |
+| HomeRunHazard | 447 | 276 | 11 | 62% |
+| ferrariChampions2026 | 2125 | 1365 | 95 | 61% |
 | SnakeBall | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 13 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 14 | 59% |
 | flatbarrel | 13 | 9 | 0 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 2 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
@@ -87,9 +87,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Eztennis | 28 | 33 | 0 | 46% |
 | Talvez10 | 28 | 33 | 0 | 46% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 73 | 85 | 0 | 46% |
-|  | 12 | 14 | 8 | 46% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 10 | 45% |
-| PASSTHEMONEY | 45 | 62 | 9 | 42% |
+|  | 12 | 14 | 9 | 46% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 11 | 45% |
+| PASSTHEMONEY | 45 | 62 | 12 | 42% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | TAIWANNUMBERONE | 4 | 6 | 9 | 40% |
 | pleaseplease123 | 47 | 74 | 0 | 39% |
