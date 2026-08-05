@@ -1,5 +1,5 @@
 {
-  "bankroll": 1016.89950355257,
+  "bankroll": 1027.6258033183778,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -80,6 +80,21 @@
       "timestamp": 1785903846.313266,
       "bankroll": 1016.9,
       "event": "won: RN1 \u2014 Spread: Colorado Rockies (-1.5)"
+    },
+    {
+      "timestamp": 1785904214.966249,
+      "bankroll": 1018.5,
+      "event": "won: RN1 \u2014 Detroit Tigers vs. Seattle Mariners: O/U 9.5"
+    },
+    {
+      "timestamp": 1785904274.8164387,
+      "bankroll": 1023.82,
+      "event": "won: RN1 \u2014 Detroit Tigers vs. Seattle Mariners: O/U 8.5"
+    },
+    {
+      "timestamp": 1785904274.9166713,
+      "bankroll": 1027.63,
+      "event": "won: RN1 \u2014 Detroit Tigers vs. Seattle Mariners: O/U 8.5"
     }
   ]
 }
