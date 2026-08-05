@@ -155698,5 +155698,65 @@
     "usd": 4831.632,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785922520,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-1win-bb4-2026-08-05-game1",
+    "title": "Dota 2: 1win vs BetBoom Team - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 2208.0454,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922545,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-1win-bb4-2026-08-05-game1",
+    "title": "Dota 2: 1win vs BetBoom Team - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1488.6972,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922558,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-jdg-lgd-2026-08-05-game1",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 1 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 2182.8644,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922561,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-lee-falei-2026-08-05",
+    "title": "Warsaw: Carol Young Suh Lee vs Aliona Falei",
+    "outcome": "Aliona Falei",
+    "side": "BUY",
+    "usd": 2052.9999000000003,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922561,
+    "username": "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846",
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "slug": "wta-lee-falei-2026-08-05",
+    "title": "Warsaw: Carol Young Suh Lee vs Aliona Falei",
+    "outcome": "Carol Young Suh Lee",
+    "side": "BUY",
+    "usd": 1397.6676,
+    "odds_at_bet": 37,
+    "status": "pending"
   }
 ]
