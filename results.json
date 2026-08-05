@@ -163834,5 +163834,17 @@
     "usd": 2380.949999,
     "odds_at_bet": 49,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785935140,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-tor-hou-2026-08-05",
+    "title": "Toronto Blue Jays vs. Houston Astros",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 1237.5592609999997,
+    "odds_at_bet": 37,
+    "status": "pending"
   }
 ]
