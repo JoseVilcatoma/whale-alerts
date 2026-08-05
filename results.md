@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 09:30:51 (hora de Perú)
+Actualizado: 2026-08-05 09:34:40 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -49,23 +49,23 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 197 | 102 | 9 | 66% |
-| RN1 | 1343 | 715 | 86 | 65% |
+| RN1 | 1343 | 715 | 88 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
-| VeryLucky888 | 148 | 81 | 13 | 65% |
+| VeryLucky888 | 148 | 81 | 14 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 458 | 271 | 87 | 63% |
 | UpTheBlues | 83 | 51 | 47 | 62% |
 | fRibrenlc | 25 | 15 | 8 | 62% |
-| HomeRunHazard | 462 | 280 | 15 | 62% |
-| ferrariChampions2026 | 2211 | 1424 | 162 | 61% |
+| HomeRunHazard | 462 | 280 | 17 | 62% |
+| ferrariChampions2026 | 2211 | 1424 | 165 | 61% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 25 | 17 | 36 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 195 | 136 | 32 | 59% |
 | flatbarrel | 13 | 9 | 1 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
-| monkeymashingkeyboard | 29 | 22 | 1 | 57% |
+| monkeymashingkeyboard | 29 | 22 | 3 | 57% |
 | us391 | 29 | 22 | 5 | 57% |
 | meoooow | 23 | 18 | 0 | 56% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 8 | 6 | 56% |
@@ -77,7 +77,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BreakTheBank | 4 | 4 | 5 | 50% |
 | Melody626 | 3 | 3 | 14 | ⚠️ 50% (muestra chica: 6) |
 | lllllllIlll | 9 | 9 | 3 | 50% |
-| canoflanagan | 4 | 4 | 13 | 50% |
+| canoflanagan | 4 | 4 | 14 | 50% |
 | chanello | 1 | 1 | 1 | ⚠️ 50% (muestra chica: 2) |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 35 | 38 | 9 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 2 | 48% |
@@ -88,7 +88,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Talvez10 | 28 | 33 | 0 | 46% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 73 | 85 | 0 | 46% |
 | PASSTHEMONEY | 52 | 67 | 28 | 44% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 81 | 104 | 30 | 44% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 81 | 104 | 33 | 44% |
 | MeiGuNiuBi | 4 | 5 | 7 | 44% |
 | TAIWANNUMBERONE | 7 | 10 | 9 | 41% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
@@ -97,7 +97,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Flipadelphia | 11 | 22 | 5 | 33% |
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
-| VPenguin | 10 | 21 | 7 | 32% |
+| VPenguin | 10 | 21 | 9 | 32% |
 | skyman44 | 4 | 9 | 10 | 31% |
 | jtwyslljy | 9 | 26 | 3 | 26% |
 | 0x0x23kjookhaiuohduoayh8c9 | 2 | 6 | 8 | 25% |
