@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 05:27:11 (hora de Perú)
+Actualizado: 2026-08-05 05:30:29 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 768 | 167 | 62 | 82% |
 | Bigggggggg | 4 | 1 | 34 | ⚠️ 80% (muestra chica: 5) |
 | mooseborzoi | 63 | 20 | 0 | 76% |
-| fkgggg2mouzfuria | 95 | 30 | 8 | 76% |
+| fkgggg2mouzfuria | 95 | 30 | 9 | 76% |
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | one8tyfive | 49 | 17 | 1 | 74% |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 4 | 2 | 2 | ⚠️ 67% (muestra chica: 6) |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| GoalLineGhost | 197 | 102 | 0 | 66% |
+| GoalLineGhost | 197 | 102 | 1 | 66% |
 | BirdMan. | 55 | 28 | 14 | 66% |
 | RN1 | 1305 | 706 | 50 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |

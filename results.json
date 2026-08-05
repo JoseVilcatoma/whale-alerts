@@ -157270,5 +157270,29 @@
     "usd": 1094.3104,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785925807,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-kla-mci-2026-08-05-total-3pt5",
+    "title": "K-League Allstars vs. Manchester City: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1294.9988999999998,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785925810,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 30581.1744,
+    "odds_at_bet": 99,
+    "status": "pending"
   }
 ]
