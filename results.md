@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 05:37:16 (hora de Perú)
+Actualizado: 2026-08-05 05:39:36 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | matenghehe | 81 | 2 | 4 | 98% |
 | fazewinline | 23 | 1 | 0 | 96% |
 | paquitomillonario | 22 | 2 | 0 | 92% |
-| TopGleaguepick | 14 | 2 | 2 | 88% |
+| TopGleaguepick | 14 | 2 | 3 | 88% |
 | cigarettes | 66 | 10 | 3 | 87% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | texaskid | 18 | 3 | 0 | 86% |
@@ -47,16 +47,16 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 4 | 2 | 2 | ⚠️ 67% (muestra chica: 6) |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| GoalLineGhost | 197 | 102 | 1 | 66% |
+| GoalLineGhost | 197 | 102 | 2 | 66% |
 | BirdMan. | 55 | 28 | 17 | 66% |
-| RN1 | 1305 | 706 | 51 | 65% |
+| RN1 | 1305 | 706 | 53 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 148 | 81 | 7 | 65% |
 | UpTheBlues | 82 | 51 | 34 | 62% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 21 | 62% |
-| fRibrenlc | 25 | 15 | 6 | 62% |
+| fRibrenlc | 25 | 15 | 7 | 62% |
 | HomeRunHazard | 447 | 276 | 11 | 62% |
 | ferrariChampions2026 | 2125 | 1365 | 105 | 61% |
 | SnakeBall | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
@@ -98,7 +98,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Flipadelphia | 11 | 22 | 2 | 33% |
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
-| jtwyslljy | 9 | 20 | 6 | 31% |
+| jtwyslljy | 9 | 20 | 7 | 31% |
 | skyman44 | 4 | 9 | 5 | 31% |
 | 0x0x23kjookhaiuohduoayh8c9 | 2 | 6 | 4 | 25% |
 | 111111111115 | 11 | 38 | 0 | 22% |

@@ -157654,5 +157654,77 @@
     "usd": 1342.046,
     "odds_at_bet": 76,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785926249,
+    "username": "TeGeeLP",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-jdg-lgd-2026-08-05-game2",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1089.7564,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785926281,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-cfc-juv-2026-08-05-spread-home-2pt5",
+    "title": "Spread: Chelsea FC (-2.5)",
+    "outcome": "Juventus Turin",
+    "side": "BUY",
+    "usd": 1379.1184,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785926284,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-kawa-mikulsk-2026-08-05",
+    "title": "Warsaw: Katarzyna Kawa vs Justina Mikulskyte",
+    "outcome": "Justina Mikulskyte",
+    "side": "BUY",
+    "usd": 2064.3766,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785926284,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-glushk-chaudh-2026-08-05",
+    "title": "ITF Roehampton: Lina Glushko vs Vaidehee Chaudhari",
+    "outcome": "Lina Glushko",
+    "side": "BUY",
+    "usd": 1418.9026310000002,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785926290,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "lol-hle1-gen-2026-08-05",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1202.8716,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785926290,
+    "username": "jtwyslljy",
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "slug": "lol-hle1-gen-2026-08-05",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 3825.0,
+    "odds_at_bet": 51,
+    "status": "pending"
   }
 ]
