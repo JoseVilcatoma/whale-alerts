@@ -1,4 +1,10 @@
 {
-  "bankroll": 1000.0,
-  "history": []
+  "bankroll": 1000.6155056179775,
+  "history": [
+    {
+      "timestamp": 1785897379.221973,
+      "bankroll": 1000.62,
+      "event": "won: RN1 \u2014 Toronto Blue Jays vs. Houston Astros: O/U 8.5"
+    }
+  ]
 }
