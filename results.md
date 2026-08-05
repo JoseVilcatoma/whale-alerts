@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 08:32:50 (hora de Perú)
+Actualizado: 2026-08-05 08:35:07 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -22,7 +22,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mentionmarket | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | CHACHA125655 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | Lk1101x | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| matenghehe | 81 | 2 | 25 | 98% |
+| matenghehe | 81 | 2 | 28 | 98% |
 | fazewinline | 23 | 1 | 6 | 96% |
 | paquitomillonario | 22 | 2 | 0 | 92% |
 | TopGleaguepick | 14 | 2 | 9 | 88% |
@@ -55,10 +55,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 148 | 81 | 11 | 65% |
 | UpTheBlues | 82 | 51 | 46 | 62% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 103 | 62% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 104 | 62% |
 | fRibrenlc | 25 | 15 | 8 | 62% |
 | HomeRunHazard | 447 | 276 | 28 | 62% |
-| ferrariChampions2026 | 2125 | 1365 | 269 | 61% |
+| ferrariChampions2026 | 2125 | 1365 | 273 | 61% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 28 | 59% |
@@ -88,7 +88,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Talvez10 | 28 | 33 | 0 | 46% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 73 | 85 | 0 | 46% |
 |  | 12 | 14 | 18 | 46% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 34 | 45% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 35 | 45% |
 | PASSTHEMONEY | 45 | 62 | 38 | 42% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | TAIWANNUMBERONE | 4 | 6 | 16 | 40% |
@@ -105,7 +105,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | neurodivergentBet | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | LeatherPants | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | Anjun | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
-| AV23IUa | 5 | 22 | 5 | 19% |
+| AV23IUa | 5 | 22 | 6 | 19% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | plonker2026 | 4 | 30 | 0 | 12% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
@@ -114,7 +114,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
 | CORGI8 | 0 | 6 | 10 | ⚠️ 0% (muestra chica: 6) |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 6 | 7 | ⚠️ 0% (muestra chica: 6) |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 6 | 10 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | denizz | 0 | 0 | 30 | — |
