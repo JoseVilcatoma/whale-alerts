@@ -150958,5 +150958,29 @@
     "usd": 1251.46,
     "odds_at_bet": 98,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785888780,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-fcc-pac-2026-08-04-fcc",
+    "title": "Will FC Cincinnati win on 2026-08-04?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1795.64,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785888823,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-rakhimo-siniako-2026-08-04",
+    "title": "National Bank Open: Kamilla Rakhimova vs Katerina Siniakova",
+    "outcome": "Kamilla Rakhimova",
+    "side": "BUY",
+    "usd": 2115.674711,
+    "odds_at_bet": 82,
+    "status": "pending"
   }
 ]
