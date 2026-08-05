@@ -155302,5 +155302,65 @@
     "usd": 2095.75,
     "odds_at_bet": 83,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785921876,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-1win-bb4-2026-08-05-game1",
+    "title": "Dota 2: 1win vs BetBoom Team - Game 1 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 1532.820512,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785921884,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-bro2-ns-2026-08-05-game2",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force - Game 2 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 26252.4476,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785921884,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-bro2-ns-2026-08-05-game2",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force - Game 2 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 5793.4764,
+    "odds_at_bet": 18,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785921906,
+    "username": "0x0x23kjookhaiuohduoayh8c9",
+    "wallet": "0x9c3ce009c9b039956665cecc4cd14de862b5e8c9",
+    "slug": "lol-kcb-sly-2026-08-05",
+    "title": "LoL: Karmine Corp Blue vs Solary (BO1) - LFL Regular Season",
+    "outcome": "Solary",
+    "side": "BUY",
+    "usd": 2999.9968000000003,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785921906,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-kcb-sly-2026-08-05",
+    "title": "LoL: Karmine Corp Blue vs Solary (BO1) - LFL Regular Season",
+    "outcome": "Karmine Corp Blue",
+    "side": "BUY",
+    "usd": 2391.6704,
+    "odds_at_bet": 32,
+    "status": "pending"
   }
 ]
