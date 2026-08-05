@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 06:07:22 (hora de Perú)
+Actualizado: 2026-08-05 06:09:52 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 22 | 62% |
 | fRibrenlc | 25 | 15 | 7 | 62% |
 | HomeRunHazard | 447 | 276 | 12 | 62% |
-| ferrariChampions2026 | 2125 | 1365 | 120 | 61% |
+| ferrariChampions2026 | 2125 | 1365 | 122 | 61% |
 | SnakeBall | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 15 | 59% |
@@ -99,7 +99,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | jtwyslljy | 9 | 20 | 7 | 31% |
-| skyman44 | 4 | 9 | 5 | 31% |
+| skyman44 | 4 | 9 | 6 | 31% |
 | 0x0x23kjookhaiuohduoayh8c9 | 2 | 6 | 4 | 25% |
 | 111111111115 | 11 | 38 | 0 | 22% |
 | neurodivergentBet | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
@@ -113,7 +113,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
-| CORGI8 | 0 | 6 | 5 | ⚠️ 0% (muestra chica: 6) |
+| CORGI8 | 0 | 6 | 6 | ⚠️ 0% (muestra chica: 6) |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 6 | 0 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |

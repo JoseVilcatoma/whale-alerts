@@ -158302,5 +158302,53 @@
     "usd": 1399.0004,
     "odds_at_bet": 76,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785928057,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-mrva-ouden-2026-08-05",
+    "title": "Hagen: Maxim Mrva vs Guy Den Ouden",
+    "outcome": "Guy Den Ouden",
+    "side": "BUY",
+    "usd": 2174.9306659999997,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785928122,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-tl1-fnc-2026-08-05",
+    "title": "Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs",
+    "outcome": "Liquid",
+    "side": "BUY",
+    "usd": 3093.077,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785928122,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "cs2-tl1-fnc-2026-08-05",
+    "title": "Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs",
+    "outcome": "fnatic",
+    "side": "BUY",
+    "usd": 9305.1945,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785928171,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-vales-glinka-2026-08-05",
+    "title": "Grodzisk Mazowiecki: Amit Vales vs Daniil Glinka",
+    "outcome": "Daniil Glinka",
+    "side": "BUY",
+    "usd": 1360.0548000000001,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
