@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 08:21:54 (hora de Perú)
+Actualizado: 2026-08-05 08:24:02 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -48,8 +48,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 4 | 2 | 5 | ⚠️ 67% (muestra chica: 6) |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 197 | 102 | 9 | 66% |
-| BirdMan. | 55 | 28 | 30 | 66% |
-| RN1 | 1305 | 706 | 107 | 65% |
+| BirdMan. | 55 | 28 | 31 | 66% |
+| RN1 | 1305 | 706 | 109 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | UpTheBlues | 82 | 51 | 44 | 62% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 92 | 62% |
 | fRibrenlc | 25 | 15 | 8 | 62% |
-| HomeRunHazard | 447 | 276 | 27 | 62% |
-| ferrariChampions2026 | 2125 | 1365 | 257 | 61% |
+| HomeRunHazard | 447 | 276 | 28 | 62% |
+| ferrariChampions2026 | 2125 | 1365 | 260 | 61% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 25 | 59% |
@@ -69,7 +69,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | us391 | 29 | 22 | 4 | 57% |
 | meoooow | 23 | 17 | 1 | 57% |
 | MeiGuNiuBi | 4 | 3 | 9 | ⚠️ 57% (muestra chica: 7) |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 31 | 57% |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 33 | 57% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 35 | 30 | 17 | 54% |
 | StasPanda | 21 | 18 | 5 | 54% |
@@ -79,9 +79,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BreakTheBank | 4 | 4 | 5 | 50% |
 | Melody626 | 3 | 3 | 14 | ⚠️ 50% (muestra chica: 6) |
 | lllllllIlll | 9 | 9 | 3 | 50% |
-| canoflanagan | 2 | 2 | 14 | ⚠️ 50% (muestra chica: 4) |
+| canoflanagan | 2 | 2 | 15 | ⚠️ 50% (muestra chica: 4) |
 | chanello | 1 | 1 | 1 | ⚠️ 50% (muestra chica: 2) |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 0 | 48% |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 1 | 48% |
 | sbsigner | 40 | 45 | 0 | 47% |
 | esportGG | 85 | 96 | 7 | 47% |
 | Eztennis | 28 | 33 | 0 | 46% |
