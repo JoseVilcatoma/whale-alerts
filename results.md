@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 09:20:58 (hora de Perú)
+Actualizado: 2026-08-05 09:23:30 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -22,7 +22,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mentionmarket | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | CHACHA125655 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | Lk1101x | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| matenghehe | 81 | 2 | 29 | 98% |
+| matenghehe | 81 | 2 | 32 | 98% |
 | fazewinline | 23 | 1 | 7 | 96% |
 | paquitomillonario | 22 | 2 | 0 | 92% |
 | TopGleaguepick | 14 | 2 | 9 | 88% |
@@ -57,11 +57,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | UpTheBlues | 82 | 51 | 48 | 62% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 122 | 62% |
 | fRibrenlc | 25 | 15 | 8 | 62% |
-| HomeRunHazard | 447 | 276 | 31 | 62% |
-| ferrariChampions2026 | 2125 | 1365 | 305 | 61% |
+| HomeRunHazard | 447 | 276 | 32 | 62% |
+| ferrariChampions2026 | 2125 | 1365 | 306 | 61% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 32 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 35 | 59% |
 | flatbarrel | 13 | 9 | 1 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 7 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
@@ -69,7 +69,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | us391 | 29 | 22 | 5 | 57% |
 | meoooow | 23 | 17 | 1 | 57% |
 | MeiGuNiuBi | 4 | 3 | 9 | ⚠️ 57% (muestra chica: 7) |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 41 | 57% |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 42 | 57% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 35 | 30 | 17 | 54% |
 | StasPanda | 21 | 18 | 5 | 54% |
@@ -81,7 +81,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | lllllllIlll | 9 | 9 | 3 | 50% |
 | canoflanagan | 2 | 2 | 17 | ⚠️ 50% (muestra chica: 4) |
 | chanello | 1 | 1 | 1 | ⚠️ 50% (muestra chica: 2) |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 1 | 48% |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 2 | 48% |
 | sbsigner | 40 | 45 | 2 | 47% |
 | esportGG | 85 | 96 | 12 | 47% |
 | Eztennis | 28 | 33 | 0 | 46% |
@@ -99,8 +99,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | jtwyslljy | 9 | 20 | 9 | 31% |
-| skyman44 | 4 | 9 | 9 | 31% |
-| 0x0x23kjookhaiuohduoayh8c9 | 2 | 6 | 7 | 25% |
+| skyman44 | 4 | 9 | 10 | 31% |
+| 0x0x23kjookhaiuohduoayh8c9 | 2 | 6 | 8 | 25% |
 | 111111111115 | 11 | 38 | 0 | 22% |
 | neurodivergentBet | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | LeatherPants | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
