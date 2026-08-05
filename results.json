@@ -158974,5 +158974,53 @@
     "usd": 1611.2250000000001,
     "odds_at_bet": 66,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785928979,
+    "username": "Shori888",
+    "wallet": "0xa36fcb6947c4ac1f09ee894aa1fd0756b90e180b",
+    "slug": "clf-cfc-juv-2026-08-05-cfc",
+    "title": "Will Chelsea FC win on 2026-08-05?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 4759.696290999999,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785929026,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-hle1-gen-2026-08-05",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 2857.1399990000004,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785929026,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-hle1-gen-2026-08-05",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1984.0656000000001,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785929038,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-jdg-lgd-2026-08-05",
+    "title": "LoL: JD Gaming vs LGD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 2490.0,
+    "odds_at_bet": 83,
+    "status": "pending"
   }
 ]
