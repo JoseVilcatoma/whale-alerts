@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 08:35:07 (hora de Perú)
+Actualizado: 2026-08-05 08:37:24 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -12,7 +12,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Pwaddler | 9 | 0 | 1 | 100% |
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | ndb1 | 1 | 0 | 2 | ⚠️ 100% (muestra chica: 1) |
-| patient12 | 49 | 0 | 11 | 100% |
+| patient12 | 49 | 0 | 13 | 100% |
 | highnetworth | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 11 | 100% |
 | RLXDJ19701601 | 2 | 0 | 0 | ⚠️ 100% (muestra chica: 2) |
@@ -49,19 +49,19 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 197 | 102 | 9 | 66% |
 | BirdMan. | 55 | 28 | 35 | 66% |
-| RN1 | 1305 | 706 | 115 | 65% |
+| RN1 | 1305 | 706 | 116 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 148 | 81 | 11 | 65% |
 | UpTheBlues | 82 | 51 | 46 | 62% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 104 | 62% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 108 | 62% |
 | fRibrenlc | 25 | 15 | 8 | 62% |
 | HomeRunHazard | 447 | 276 | 28 | 62% |
-| ferrariChampions2026 | 2125 | 1365 | 273 | 61% |
+| ferrariChampions2026 | 2125 | 1365 | 277 | 61% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 28 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 29 | 59% |
 | flatbarrel | 13 | 9 | 1 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 7 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
@@ -100,7 +100,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | jtwyslljy | 9 | 20 | 7 | 31% |
 | skyman44 | 4 | 9 | 9 | 31% |
-| 0x0x23kjookhaiuohduoayh8c9 | 2 | 6 | 6 | 25% |
+| 0x0x23kjookhaiuohduoayh8c9 | 2 | 6 | 7 | 25% |
 | 111111111115 | 11 | 38 | 0 | 22% |
 | neurodivergentBet | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | LeatherPants | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
@@ -114,7 +114,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
 | CORGI8 | 0 | 6 | 10 | ⚠️ 0% (muestra chica: 6) |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 6 | 10 | ⚠️ 0% (muestra chica: 6) |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 6 | 12 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | denizz | 0 | 0 | 30 | — |
