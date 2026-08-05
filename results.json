@@ -161218,5 +161218,113 @@
     "usd": 2312.8,
     "odds_at_bet": 49,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785931829,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-hle1-gen-2026-08-05-game2",
+    "title": "LoL: Hanwha Life Esports vs Gen.G - Game 2 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 2116.1799990000004,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785931829,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-hle1-gen-2026-08-05-game2",
+    "title": "LoL: Hanwha Life Esports vs Gen.G - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 2033.192549,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785931864,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-la-chi-2026-08-05-total-189pt5",
+    "title": "Los Angeles Sparks vs. Chicago Sky: O/U 189.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1269.0,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785931888,
+    "username": "flatbarrel",
+    "wallet": "0x6485f47d0344c03eb4340f985159f6eb2dcba265",
+    "slug": "atp-ribecai-berkiet-2026-08-05",
+    "title": "Grodzisk Mazowiecki: Michele Ribecai vs Tomasz Berkieta",
+    "outcome": "Tomasz Berkieta",
+    "side": "BUY",
+    "usd": 1140.0,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785931921,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-durasov-guerrie-2026-08-05",
+    "title": "Grodzisk Mazowiecki: Viktor Durasovic vs Andrea Guerrieri",
+    "outcome": "Viktor Durasovic",
+    "side": "BUY",
+    "usd": 1979.2,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785931922,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-durasov-guerrie-2026-08-05",
+    "title": "Grodzisk Mazowiecki: Viktor Durasovic vs Andrea Guerrieri",
+    "outcome": "Viktor Durasovic",
+    "side": "BUY",
+    "usd": 4597.024,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785931922,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-durasov-guerrie-2026-08-05",
+    "title": "Grodzisk Mazowiecki: Viktor Durasovic vs Andrea Guerrieri",
+    "outcome": "Viktor Durasovic",
+    "side": "BUY",
+    "usd": 2965.5241959999994,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785931925,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-edg-tes-2026-08-05-game-handicap-home-1pt5",
+    "title": "Game Handicap: TES (-1.5) vs EDward Gaming (+1.5)",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 4761.899999000001,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785932014,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-cfc-juv-2026-08-05-cfc",
+    "title": "Will Chelsea FC win on 2026-08-05?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1108.9996,
+    "odds_at_bet": 38,
+    "status": "pending"
   }
 ]
