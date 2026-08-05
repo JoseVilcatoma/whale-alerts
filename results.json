@@ -158194,5 +158194,17 @@
     "usd": 9360.0,
     "odds_at_bet": 40,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785927861,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-knutson-seidel-2026-08-05",
+    "title": "Warsaw: Gabriela Knutson vs Ella Seidel",
+    "outcome": "Gabriela Knutson",
+    "side": "BUY",
+    "usd": 1288.672,
+    "odds_at_bet": 44,
+    "status": "pending"
   }
 ]
