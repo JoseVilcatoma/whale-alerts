@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 03:57:20 (hora de Perú)
+Actualizado: 2026-08-05 03:59:24 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 66 | 10 | 1 | 87% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | texaskid | 18 | 3 | 0 | 86% |
-| elizabeth.ethcome | 12 | 2 | 1 | 86% |
+| elizabeth.ethcome | 12 | 2 | 2 | 86% |
 | quavoo | 5 | 1 | 1 | ⚠️ 83% (muestra chica: 6) |
 | swisstony | 768 | 167 | 62 | 82% |
 | Bigggggggg | 4 | 1 | 34 | ⚠️ 80% (muestra chica: 5) |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 148 | 81 | 6 | 65% |
-| UpTheBlues | 82 | 51 | 32 | 62% |
+| UpTheBlues | 82 | 51 | 33 | 62% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 1 | 62% |
 | fRibrenlc | 25 | 15 | 0 | 62% |
 | HomeRunHazard | 447 | 276 | 2 | 62% |
@@ -71,7 +71,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | MeiGuNiuBi | 4 | 3 | 1 | ⚠️ 57% (muestra chica: 7) |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 2 | 57% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 35 | 30 | 8 | 54% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 35 | 30 | 11 | 54% |
 | StasPanda | 21 | 18 | 3 | 54% |
 | AnonymousUsername | 50 | 45 | 0 | 53% |
 | wr0ngw4yb3tt0r | 184 | 174 | 0 | 51% |
