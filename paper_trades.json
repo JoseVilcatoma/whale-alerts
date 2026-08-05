@@ -610,5 +610,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785898156,
+    "timestamp_added": 1785898157.1687615,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-tl1-fnc-2026-08-05-map-handicap-away-1pt5",
+    "title": "Map Handicap: TL (-1.5) vs fnatic (+1.5)",
+    "outcome": "fnatic",
+    "side": "BUY",
+    "whale_usd": 135.571428,
+    "whale_pct": 0.683,
+    "paper_stake_usd": 6.84,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
