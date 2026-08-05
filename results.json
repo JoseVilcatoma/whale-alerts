@@ -155218,5 +155218,89 @@
     "usd": 2900.0,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785921749,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-ns-2026-08-05-game2",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force - Game 2 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1439.3626000000002,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785921749,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-bro2-ns-2026-08-05-game2",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force - Game 2 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1350.0,
+    "odds_at_bet": 27,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785921785,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-jdg-lgd-2026-08-05-game1",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 1 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 2048.7675,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785921826,
+    "username": "matenghehe",
+    "wallet": "0xba3802d41ad55704b518564e8a13a8346da1fb57",
+    "slug": "lol-bro2-ns-2026-08-05-game2",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force - Game 2 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 5528.4728,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785921835,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-kla-mci-2026-08-05-first-half-total-2pt5",
+    "title": "K-League Allstars vs. Manchester City: 1st Half O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1148.770769,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785921843,
+    "username": "BirdMan.",
+    "wallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+    "slug": "lol-bro2-ns-2026-08-05-game2",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force - Game 2 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 2095.75,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785921853,
+    "username": "BirdMan.",
+    "wallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+    "slug": "lol-bro2-ns-2026-08-05-game2",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force - Game 2 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 2095.75,
+    "odds_at_bet": 83,
+    "status": "pending"
   }
 ]
