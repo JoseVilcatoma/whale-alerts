@@ -168514,5 +168514,29 @@
     "usd": 1283.0013,
     "odds_at_bet": 49,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785941607,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-zverev-grieksp-2026-08-06",
+    "title": "National Bank Open: Alexander Zverev vs Tallon Griekspoor",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "usd": 3698.3352,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785941657,
+    "username": "jtwyslljy",
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "slug": "atp-khachan-atmane-2026-08-06",
+    "title": "National Bank Open: Karen Khachanov vs Terence Atmane",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 3150.0,
+    "odds_at_bet": 45,
+    "status": "pending"
   }
 ]

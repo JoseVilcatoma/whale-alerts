@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 09:52:30 (hora de Perú)
+Actualizado: 2026-08-05 09:54:32 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 25 | 17 | 37 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 195 | 136 | 33 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 195 | 136 | 34 | 59% |
 | flatbarrel | 13 | 9 | 1 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
 | monkeymashingkeyboard | 29 | 22 | 3 | 57% |
@@ -99,7 +99,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | VPenguin | 10 | 21 | 9 | 32% |
 | skyman44 | 4 | 9 | 10 | 31% |
-| jtwyslljy | 9 | 26 | 5 | 26% |
+| jtwyslljy | 9 | 26 | 6 | 26% |
 | 0x0x23kjookhaiuohduoayh8c9 | 2 | 6 | 8 | 25% |
 | 111111111115 | 11 | 38 | 0 | 22% |
 | neurodivergentBet | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
