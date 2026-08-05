@@ -166570,5 +166570,41 @@
     "usd": 1786.90909,
     "odds_at_bet": 78,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785938235,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "atp-vachero-navone-2026-08-06",
+    "title": "National Bank Open: Valentin Vacherot vs Mariano Navone",
+    "outcome": "Mariano Navone",
+    "side": "BUY",
+    "usd": 2000.0,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938304,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "btc-updown-5m-1785938100",
+    "title": "Bitcoin Up or Down - August 5, 9:55AM-10:00AM ET",
+    "outcome": "Up",
+    "side": "BUY",
+    "usd": 8710.701,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938304,
+    "username": "fazewinline",
+    "wallet": "0x1d3567ad67b1f054160f9d560ca3817038cc94ee",
+    "slug": "btc-updown-5m-1785938100",
+    "title": "Bitcoin Up or Down - August 5, 9:55AM-10:00AM ET",
+    "outcome": "Down",
+    "side": "BUY",
+    "usd": 1297.3831000000002,
+    "odds_at_bet": 13,
+    "status": "pending"
   }
 ]

@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 08:56:25 (hora de Perú)
+Actualizado: 2026-08-05 08:58:49 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -23,7 +23,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | CHACHA125655 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | Lk1101x | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | matenghehe | 81 | 2 | 29 | 98% |
-| fazewinline | 23 | 1 | 6 | 96% |
+| fazewinline | 23 | 1 | 7 | 96% |
 | paquitomillonario | 22 | 2 | 0 | 92% |
 | TopGleaguepick | 14 | 2 | 9 | 88% |
 | cigarettes | 66 | 10 | 5 | 87% |
@@ -53,9 +53,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
-| VeryLucky888 | 148 | 81 | 12 | 65% |
+| VeryLucky888 | 148 | 81 | 13 | 65% |
 | UpTheBlues | 82 | 51 | 46 | 62% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 112 | 62% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 113 | 62% |
 | fRibrenlc | 25 | 15 | 8 | 62% |
 | HomeRunHazard | 447 | 276 | 30 | 62% |
 | ferrariChampions2026 | 2125 | 1365 | 297 | 61% |
