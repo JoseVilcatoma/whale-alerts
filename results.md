@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 20:04:29 (hora de Perú)
+Actualizado: 2026-08-04 20:09:57 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 63 | 10 | 4 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | elizabeth.ethcome | 12 | 2 | 1 | 86% |
-| swisstony | 726 | 156 | 113 | 82% |
+| swisstony | 726 | 156 | 115 | 82% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | one8tyfive | 44 | 14 | 9 | 76% |
 | fkgggg2mouzfuria | 95 | 30 | 0 | 76% |
@@ -41,31 +41,31 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | BirdMan. | 48 | 24 | 11 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
-| RN1 | 1212 | 641 | 189 | 65% |
+| RN1 | 1212 | 641 | 190 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 50 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
-| VeryLucky888 | 112 | 63 | 55 | 64% |
+| VeryLucky888 | 112 | 63 | 57 | 64% |
 | UpTheBlues | 67 | 40 | 56 | 63% |
-| flatbarrel | 10 | 6 | 5 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 272 | 61% |
+| flatbarrel | 10 | 6 | 6 | 62% |
+| ferrariChampions2026 | 1959 | 1258 | 274 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 82 | 61% |
-| fRibrenlc | 21 | 14 | 2 | 60% |
+| fRibrenlc | 21 | 14 | 3 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 3 | 58% |
-| HomeRunHazard | 300 | 216 | 191 | 58% |
+| HomeRunHazard | 300 | 216 | 196 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 14 | 57% |
 | us391 | 27 | 20 | 4 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
 | MeiGuNiuBi | 4 | 3 | 0 | ⚠️ 57% (muestra chica: 7) |
-| 1winstreak1 | 50 | 39 | 12 | 56% |
+| 1winstreak1 | 50 | 39 | 14 | 56% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 18 | 14 | 5 | 56% |
 | lllllllIlll | 9 | 8 | 1 | 53% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 34 | 52% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 35 | 52% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 31 | 30 | 12 | 51% |
-| wr0ngw4yb3tt0r | 144 | 144 | 67 | 50% |
+| wr0ngw4yb3tt0r | 144 | 144 | 69 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
 | SDTrading | 3 | 3 | 4 | ⚠️ 50% (muestra chica: 6) |
@@ -74,7 +74,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x0x23kjookhaiuohduoayh8c9 | 1 | 1 | 6 | ⚠️ 50% (muestra chica: 2) |
 |  | 3 | 3 | 24 | ⚠️ 50% (muestra chica: 6) |
 | canoflanagan | 2 | 2 | 0 | ⚠️ 50% (muestra chica: 4) |
-| AnonymousUsername | 32 | 35 | 27 | 48% |
+| AnonymousUsername | 32 | 35 | 28 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 0 | 48% |
 | esportGG | 85 | 96 | 0 | 47% |
 | sbsigner | 38 | 44 | 3 | 46% |
