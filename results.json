@@ -166882,5 +166882,77 @@
     "usd": 1579.4025,
     "odds_at_bet": 65,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785938946,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-playti-yb1-2026-08-05",
+    "title": "Dota 2: PlayTime vs Yakult Brothers (BO5) - Games of the Future Playoffs",
+    "outcome": "PlayTime",
+    "side": "BUY",
+    "usd": 2944.0,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938982,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-nestero-sorger-2026-08-05",
+    "title": "Plovdiv 2: Petr Nesterov vs Sebastian Sorger",
+    "outcome": "Petr Nesterov",
+    "side": "BUY",
+    "usd": 1646.1697000000001,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785939000,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-edg-tes-2026-08-05-game-handicap-home-1pt5",
+    "title": "Game Handicap: TES (-1.5) vs EDward Gaming (+1.5)",
+    "outcome": "Top Esports",
+    "side": "SELL",
+    "usd": 15857.15697,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785939003,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-liquid-1win-2026-08-05-game2",
+    "title": "Dota 2: Team Liquid vs 1win - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1999.9999990000001,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785939013,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-1win-bb4-2026-08-05",
+    "title": "Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs",
+    "outcome": "1win",
+    "side": "SELL",
+    "usd": 149850.0,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785939023,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-liquid-1win-2026-08-05",
+    "title": "Dota 2: Team Liquid vs 1win (BO3) - 1win Essence Playoffs",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 9999.999999,
+    "odds_at_bet": 34,
+    "status": "pending"
   }
 ]
