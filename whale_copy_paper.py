@@ -593,23 +593,23 @@ def save_and_commit():
         traceback.print_exc()
 
 
-def background_worker():
-    global last_msg_at
+def ranking_worker():
+    """Hilo aparte para el análisis pesado (revisar el historial de cada
+    candidato). Corre en su propio ciclo y JAMÁS bloquea el guardado de
+    archivos, aunque tarde varios minutos en completar una vuelta."""
     last_lb_refresh = 0
-    last_resolve_check = 0
-    last_save = time.time()
     while not stop_flag.is_set():
         try:
             now = time.time()
-
             if now - last_lb_refresh > LEADERBOARD_REFRESH_SECONDS or not watched:
+                print("[ranking] arrancando análisis de candidatos (puede tardar varios minutos)...")
                 top5 = compute_top5_by_roi()
-                cutoff = now - MIN_WATCH_DAYS * 86400
+                cutoff = time.time() - MIN_WATCH_DAYS * 86400
                 with lock:
                     current_wallets = {w for w, _, _, _ in top5}
                     for w, name, roi, ratio in top5:
                         if w not in watched_meta:
-                            watched_meta[w] = {"username": name, "added_at": now, "roi_pct": round(roi, 2),
+                            watched_meta[w] = {"username": name, "added_at": time.time(), "roi_pct": round(roi, 2),
                                                 "short_term_pct": round(ratio * 100, 1)}
                         else:
                             watched_meta[w]["username"] = name
@@ -623,7 +623,24 @@ def background_worker():
                 print(f"[ranking] top {TOP_K_REPLICATE} por %% de rendimiento (corto plazo): "
                       + ", ".join(f"{m['username']} ({m['roi_pct']:+.1f}%, {m['short_term_pct']:.0f}% corto plazo)"
                                   for m in watched_meta.values()))
-                last_lb_refresh = now
+                last_lb_refresh = time.time()
+        except Exception as e:
+            import traceback
+            print(f"[ranking_worker] error, se ignora y se reintenta en el próximo ciclo: {e}", file=sys.stderr)
+            traceback.print_exc()
+        time.sleep(10)
+
+
+def background_worker():
+    """Hilo liviano: guarda, resuelve apuestas pendientes y cuida la
+    conexión. Corre siempre a tiempo, sin depender de lo que tarde el
+    análisis de ranking (ese vive en ranking_worker, aparte)."""
+    global last_msg_at
+    last_resolve_check = 0
+    last_save = time.time()
+    while not stop_flag.is_set():
+        try:
+            now = time.time()
 
             if now - last_resolve_check > 60:
                 resolve_pending_trades()
@@ -680,6 +697,8 @@ def main():
 
     bg = threading.Thread(target=background_worker, daemon=True)
     bg.start()
+    rk = threading.Thread(target=ranking_worker, daemon=True)
+    rk.start()
 
     while not watched and time.time() - run_start < 60:
         time.sleep(1)
