@@ -160150,5 +160150,77 @@
     "usd": 1058.6745,
     "odds_at_bet": 45,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785930502,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-ghetu-garbero-2026-08-05",
+    "title": "ITF Curtea de Arges: Gabriel Ghetu vs Filippo Francesco Garbero",
+    "outcome": "Gabriel Ghetu",
+    "side": "BUY",
+    "usd": 3850.0,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785930502,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-ghetu-garbero-2026-08-05",
+    "title": "ITF Curtea de Arges: Gabriel Ghetu vs Filippo Francesco Garbero",
+    "outcome": "Gabriel Ghetu",
+    "side": "BUY",
+    "usd": 1914.22,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785930505,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-1win-bb4-2026-08-05",
+    "title": "Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 12870.588099999999,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785930513,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-hle1-gen-2026-08-05-game1",
+    "title": "LoL: Hanwha Life Esports vs Gen.G - Game 1 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 1142.849999,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785930529,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-knutson-seidel-2026-08-05",
+    "title": "Warsaw: Gabriela Knutson vs Ella Seidel",
+    "outcome": "Gabriela Knutson",
+    "side": "BUY",
+    "usd": 3612.0035,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785930529,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-knutson-seidel-2026-08-05",
+    "title": "Warsaw: Gabriela Knutson vs Ella Seidel",
+    "outcome": "Gabriela Knutson",
+    "side": "BUY",
+    "usd": 1828.7966999999999,
+    "odds_at_bet": 71,
+    "status": "pending"
   }
 ]
