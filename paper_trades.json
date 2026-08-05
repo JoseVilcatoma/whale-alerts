@@ -102,8 +102,8 @@
     "whale_pct": 30.338,
     "paper_stake_usd": 303.38,
     "odds_at_bet": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 455.07,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -120,8 +120,8 @@
     "whale_pct": 0.121,
     "paper_stake_usd": 1.21,
     "odds_at_bet": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.81,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -138,8 +138,8 @@
     "whale_pct": 0.639,
     "paper_stake_usd": 6.39,
     "odds_at_bet": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 9.58,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -156,8 +156,8 @@
     "whale_pct": 5.293,
     "paper_stake_usd": 52.93,
     "odds_at_bet": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 79.39,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -210,8 +210,8 @@
     "whale_pct": 23.26,
     "paper_stake_usd": 3.48,
     "odds_at_bet": 38,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.68,
     "overlaps_with": [],
     "recortado_por_bankroll": true
   },
@@ -228,7 +228,7 @@
     "whale_pct": 13.086,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 40,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8"
@@ -770,7 +770,7 @@
     "whale_pct": 0.592,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 38,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8"
@@ -898,7 +898,7 @@
     "whale_pct": 0.413,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 94,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
@@ -916,7 +916,7 @@
     "whale_pct": 0.422,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 97,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
@@ -1402,7 +1402,7 @@
     "whale_pct": 6.374,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 39,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1531,7 +1531,7 @@
     "whale_pct": 0.19,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1552,7 +1552,7 @@
     "whale_pct": 0.617,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1573,7 +1573,7 @@
     "whale_pct": 0.284,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1594,7 +1594,7 @@
     "whale_pct": 0.181,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1615,7 +1615,7 @@
     "whale_pct": 1.422,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1636,7 +1636,7 @@
     "whale_pct": 0.145,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1657,7 +1657,7 @@
     "whale_pct": 0.142,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1678,7 +1678,7 @@
     "whale_pct": 0.343,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1699,7 +1699,7 @@
     "whale_pct": 0.103,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1720,7 +1720,7 @@
     "whale_pct": 1.91,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1741,7 +1741,7 @@
     "whale_pct": 0.194,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1762,7 +1762,7 @@
     "whale_pct": 0.529,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1783,7 +1783,7 @@
     "whale_pct": 4.797,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1804,7 +1804,7 @@
     "whale_pct": 2.39,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1825,7 +1825,7 @@
     "whale_pct": 2.798,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1846,7 +1846,7 @@
     "whale_pct": 3.297,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1867,7 +1867,7 @@
     "whale_pct": 1.22,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 38,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1888,7 +1888,7 @@
     "whale_pct": 3.898,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 38,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1909,7 +1909,7 @@
     "whale_pct": 0.967,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 38,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1930,7 +1930,7 @@
     "whale_pct": 0.556,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 38,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1951,7 +1951,7 @@
     "whale_pct": 0.149,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 38,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -1990,7 +1990,7 @@
     "whale_pct": 2.22,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 38,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -2101,7 +2101,7 @@
     "whale_pct": 2.932,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -2122,7 +2122,7 @@
     "whale_pct": 0.234,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -2161,7 +2161,7 @@
     "whale_pct": 0.366,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -2182,7 +2182,7 @@
     "whale_pct": 3.311,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -2203,7 +2203,7 @@
     "whale_pct": 0.372,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -2224,7 +2224,7 @@
     "whale_pct": 2.348,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -2245,7 +2245,7 @@
     "whale_pct": 0.688,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -2266,7 +2266,7 @@
     "whale_pct": 1.012,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -2647,7 +2647,7 @@
     "whale_pct": 3.198,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -2668,7 +2668,7 @@
     "whale_pct": 0.207,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 24,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -2689,7 +2689,7 @@
     "whale_pct": 1.855,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 24,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -3126,7 +3126,7 @@
     "whale_pct": 0.286,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 21,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -3147,7 +3147,7 @@
     "whale_pct": 2.021,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 21,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -3168,7 +3168,7 @@
     "whale_pct": 0.185,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 21,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -3189,7 +3189,7 @@
     "whale_pct": 0.106,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 21,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -3354,7 +3354,7 @@
     "whale_pct": 0.515,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 21,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -3375,7 +3375,7 @@
     "whale_pct": 0.461,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 21,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -3396,7 +3396,7 @@
     "whale_pct": 0.37,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 21,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -3417,7 +3417,7 @@
     "whale_pct": 0.437,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 21,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "CORGI8",
@@ -4074,8 +4074,8 @@
     "whale_pct": 0.249,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 10,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "CORGI8",
       "Djdjdjekekek"
@@ -4095,8 +4095,8 @@
     "whale_pct": 0.323,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 9,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "CORGI8",
       "Djdjdjekekek"
@@ -4152,7 +4152,7 @@
     "whale_pct": 98.962,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 100,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",

@@ -1,5 +1,5 @@
 {
-  "bankroll": 449.82000000000005,
+  "bankroll": 1001.3628947368421,
   "history": [
     {
       "timestamp": 1785861663.7496326,
@@ -25,6 +25,276 @@
       "timestamp": 1785861664.150355,
       "bankroll": 449.82,
       "event": "lost: CORGI8 \u2014 Dota 2: 1win vs Vici Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1785893320.3268094,
+      "bankroll": 904.89,
+      "event": "won: CORGI8 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893320.426963,
+      "bankroll": 906.71,
+      "event": "won: CORGI8 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893320.5271158,
+      "bankroll": 916.29,
+      "event": "won: CORGI8 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893320.627271,
+      "bankroll": 995.69,
+      "event": "won: CORGI8 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893321.027862,
+      "bankroll": 1001.36,
+      "event": "won: CORGI8 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893321.1279852,
+      "bankroll": 1001.36,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893326.5515864,
+      "bankroll": 1001.36,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893328.240188,
+      "bankroll": 1001.36,
+      "event": "won: Corlys \u2014 Will the highest temperature in Madrid be 35\u00b0C on August 4?"
+    },
+    {
+      "timestamp": 1785893328.5529807,
+      "bankroll": 1001.36,
+      "event": "won: Corlys \u2014 Will the highest temperature in Madrid be 34\u00b0C on August 4?"
+    },
+    {
+      "timestamp": 1785893331.2564926,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893333.3024945,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893333.4026499,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893333.5028226,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893333.6029634,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893333.7031112,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893333.8032768,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893333.9034648,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893334.0036418,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893334.1037946,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893334.203945,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893334.3041155,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893334.4042792,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893334.504434,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893334.6045692,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893334.7047212,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893334.8048635,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893334.9050128,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893335.0051732,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893335.1053176,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893335.205473,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893335.3056197,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893335.7260406,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893337.200372,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893337.3005106,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893337.5864894,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893337.686671,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893337.7868207,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893337.8869832,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893337.9871612,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893338.087329,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893342.79205,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893342.8921793,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893342.9923189,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893349.3951356,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893349.4952822,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893349.5954227,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893349.695562,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893352.30736,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893352.4075158,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893352.5076761,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893352.607999,
+      "bankroll": 1001.36,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893359.976016,
+      "bankroll": 1001.36,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893360.076155,
+      "bankroll": 1001.36,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
+    },
+    {
+      "timestamp": 1785893360.5346484,
+      "bankroll": 1001.36,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Yakult Brothers vs Rune Eaters (BO3) - Games of the Future Playoffs"
     }
   ]
 }
