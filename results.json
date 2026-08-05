@@ -166534,5 +166534,41 @@
     "usd": 1082.7361799999999,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785938069,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-hle1-gen-2026-08-05",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "SELL",
+    "usd": 5183.8083,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938122,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-encheva-wallber-2026-08-05",
+    "title": "ITF Leipzig: Lidia Encheva vs Nellie Taraba Wallberg",
+    "outcome": "Lidia Encheva",
+    "side": "BUY",
+    "usd": 1710.849999,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938161,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-playti-yb1-2026-08-05",
+    "title": "Dota 2: PlayTime vs Yakult Brothers (BO5) - Games of the Future Playoffs",
+    "outcome": "PlayTime",
+    "side": "BUY",
+    "usd": 1786.90909,
+    "odds_at_bet": 78,
+    "status": "pending"
   }
 ]
