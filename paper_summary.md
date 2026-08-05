@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 12:58:01 (hora de Perú)
+Actualizado: 2026-08-05 13:00:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,351.93
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| Djdjdjekekek | 67 | 0 | 9 | +600.59 USD |
+| Djdjdjekekek | 67 | 0 | 11 | +600.59 USD |
 | RN1 | 14 | 7 | 0 | +11.89 USD |
 | HomeRunHazard | 0 | 0 | 17 | +0.00 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
@@ -31,6 +31,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 35% | 2.17 | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 35% | 2.21 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 35% | 28.08 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 35% | 2.17 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 36% | 3.26 | ⏳ pendiente | — |
@@ -59,5 +61,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Athletics (-1.5) | Cincinnati Reds (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Chicago White Sox (-1.5) | Boston Red Sox (BUY) | 65% | 0.00 | ⏳ pendiente | — |
