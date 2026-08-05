@@ -166822,5 +166822,65 @@
     "usd": 7000.000000000001,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785938811,
+    "username": "denizz",
+    "wallet": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
+    "slug": "us-announces-end-of-iranian-blockade-by-august-7-2026-20260727171523690",
+    "title": "US announces end of Iranian blockade by August 7, 2026?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "usd": 1241.99656,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938839,
+    "username": "ofgoodfgdohojdfitsjustmoney",
+    "wallet": "0xd5b510cca6682d4ab23afadf4694a2febadb3364",
+    "slug": "will-harry-kane-win-the-2026-ballon-dor",
+    "title": "Will Harry Kane win the 2026 Ballon d'Or?",
+    "outcome": "Yes",
+    "side": "SELL",
+    "usd": 18900.54,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938857,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-1win-bb4-2026-08-05",
+    "title": "Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 27372.64995,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938891,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-liquid-1win-2026-08-05-game2",
+    "title": "Dota 2: Team Liquid vs 1win - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 7934.388599999999,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938894,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-encheva-wallber-2026-08-05",
+    "title": "ITF Leipzig: Lidia Encheva vs Nellie Taraba Wallberg",
+    "outcome": "Lidia Encheva",
+    "side": "BUY",
+    "usd": 1579.4025,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]

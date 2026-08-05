@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 09:06:07 (hora de Perú)
+Actualizado: 2026-08-05 09:08:34 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -49,13 +49,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 197 | 102 | 9 | 66% |
 | BirdMan. | 55 | 28 | 35 | 66% |
-| RN1 | 1305 | 706 | 122 | 65% |
+| RN1 | 1305 | 706 | 123 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 148 | 81 | 13 | 65% |
 | UpTheBlues | 82 | 51 | 46 | 62% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 114 | 62% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 116 | 62% |
 | fRibrenlc | 25 | 15 | 8 | 62% |
 | HomeRunHazard | 447 | 276 | 31 | 62% |
 | ferrariChampions2026 | 2125 | 1365 | 300 | 61% |
@@ -117,7 +117,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 6 | 13 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
-| denizz | 0 | 0 | 30 | — |
+| denizz | 0 | 0 | 31 | — |
 | BrightStars | 0 | 0 | 4 | — |
 | LlamaLoco0000 | 0 | 0 | 2 | — |
 | Shori888 | 0 | 0 | 5 | — |
+| ofgoodfgdohojdfitsjustmoney | 0 | 0 | 1 | — |
