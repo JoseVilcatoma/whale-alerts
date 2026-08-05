@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 19:20:22 (hora de Perú)
+Actualizado: 2026-08-04 19:22:51 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | CentralCasting | 17 | 6 | 1 | 74% |
 | Spicer | 29 | 10 | 0 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| Djdjdjekekek | 122 | 52 | 3 | 70% |
+| Djdjdjekekek | 122 | 52 | 4 | 70% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | BirdMan. | 48 | 24 | 8 | 67% |
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 112 | 63 | 51 | 64% |
 | UpTheBlues | 67 | 40 | 55 | 63% |
 | flatbarrel | 10 | 6 | 5 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 235 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 236 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 78 | 61% |
 | fRibrenlc | 21 | 14 | 2 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
@@ -65,7 +65,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | lllllllIlll | 9 | 8 | 1 | 53% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 34 | 52% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 31 | 30 | 11 | 51% |
-| wr0ngw4yb3tt0r | 144 | 144 | 56 | 50% |
+| wr0ngw4yb3tt0r | 144 | 144 | 57 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
 | SDTrading | 3 | 3 | 4 | ⚠️ 50% (muestra chica: 6) |
@@ -102,7 +102,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
-| 0x4f2 | 0 | 2 | 18 | ⚠️ 0% (muestra chica: 2) |
+| 0x4f2 | 0 | 2 | 19 | ⚠️ 0% (muestra chica: 2) |
 | CORGI8 | 0 | 6 | 0 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |

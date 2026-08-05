@@ -151126,5 +151126,53 @@
     "usd": 4767.54244,
     "odds_at_bet": 99,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785889360,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-oak-cin-2026-08-04-total-9pt5",
+    "title": "Athletics vs. Cincinnati Reds: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1984.5804,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785889360,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "mlb-lad-chc-2026-08-04",
+    "title": "Los Angeles Dodgers vs. Chicago Cubs",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 9726.144,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785889360,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-oak-cin-2026-08-04-total-9pt5",
+    "title": "Athletics vs. Cincinnati Reds: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 3237.9996,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785889360,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-lad-chc-2026-08-04",
+    "title": "Los Angeles Dodgers vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 3999.9996,
+    "odds_at_bet": 36,
+    "status": "pending"
   }
 ]
