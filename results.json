@@ -168634,5 +168634,41 @@
     "usd": 1020.6999999999999,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785942110,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-storrie-dominko-2026-08-05",
+    "title": "ITF Roehampton: Ryan James Storrie vs Sebastian Dominko",
+    "outcome": "Sebastian Dominko",
+    "side": "BUY",
+    "usd": 1106.0,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785942123,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-liquid-1win-2026-08-05-game2",
+    "title": "Dota 2: Team Liquid vs 1win - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 12238.284500000002,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785942159,
+    "username": "CentralCasting",
+    "wallet": "0x0feb1bf966bc7f954c2da0293ae2fdc572c5db5d",
+    "slug": "wti-closes-above-74-on-august-5-2026",
+    "title": "WTI Crude Oil (WTI) closes above $74 on August 5?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1962.3240000000003,
+    "odds_at_bet": 78,
+    "status": "pending"
   }
 ]

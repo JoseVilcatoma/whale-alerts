@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 09:56:35 (hora de Perú)
+Actualizado: 2026-08-05 10:02:41 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | elizabeth.ethcome | 24 | 7 | 11 | 77% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
-| CentralCasting | 17 | 6 | 1 | 74% |
+| CentralCasting | 17 | 6 | 2 | 74% |
 | one8tyfive | 49 | 17 | 1 | 74% |
 | Spicer | 29 | 10 | 0 | 74% |
 | fkgggg2mouzfuria | 101 | 35 | 25 | 74% |
@@ -49,12 +49,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 197 | 102 | 9 | 66% |
-| RN1 | 1343 | 715 | 94 | 65% |
+| RN1 | 1343 | 715 | 95 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 148 | 81 | 16 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 458 | 271 | 88 | 63% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 458 | 271 | 89 | 63% |
 | UpTheBlues | 83 | 51 | 47 | 62% |
 | fRibrenlc | 25 | 15 | 8 | 62% |
 | HomeRunHazard | 462 | 280 | 21 | 62% |
