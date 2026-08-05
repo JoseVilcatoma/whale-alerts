@@ -898,5 +898,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785899981,
+    "timestamp_added": 1785899982.292966,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-tb-col-2026-08-04-spread-away-1pt5",
+    "title": "Spread: Tampa Bay Rays (-1.5)",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "whale_usd": 197.1,
+    "whale_pct": 0.142,
+    "paper_stake_usd": 1.44,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
