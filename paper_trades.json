@@ -4066,5 +4066,45 @@
       "CORGI8"
     ],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785960937,
+    "timestamp_added": 1785960938.1588733,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-flc-liquid-2026-08-05-game3",
+    "title": "Dota 2: Team Falcons vs Team Liquid - Game 3 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "whale_usd": 239.70000000000002,
+    "whale_pct": 0.596,
+    "paper_stake_usd": 8.42,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "CORGI8"
+    ],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785960966,
+    "timestamp_added": 1785960966.9889152,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-flc-liquid-2026-08-05-game3",
+    "title": "Dota 2: Team Falcons vs Team Liquid - Game 3 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "whale_usd": 491.40000000000003,
+    "whale_pct": 1.209,
+    "paper_stake_usd": 17.09,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "CORGI8"
+    ],
+    "recortado_por_bankroll": false
   }
 ]
