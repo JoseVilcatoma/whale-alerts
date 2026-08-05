@@ -3874,5 +3874,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785953807,
+    "timestamp_added": 1785953808.2083945,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-flc-liquid-2026-08-05",
+    "title": "Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "whale_usd": 151805.124,
+    "whale_pct": 32.556,
+    "paper_stake_usd": 440.13,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
