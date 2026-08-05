@@ -1,5 +1,5 @@
 {
-  "bankroll": 990.9658033183779,
+  "bankroll": 991.994277894649,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -110,6 +110,11 @@
       "timestamp": 1785904717.0927374,
       "bankroll": 990.97,
       "event": "lost: 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 \u2014 Toronto Tempo vs. Golden State Valkyries: O/U 168.5"
+    },
+    {
+      "timestamp": 1785905268.3908079,
+      "bankroll": 991.99,
+      "event": "won: RN1 \u2014 Spread: San Diego Padres (-2.5)"
     }
   ]
 }
