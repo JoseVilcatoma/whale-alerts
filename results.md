@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 10:09:00 (hora de Perú)
+Actualizado: 2026-08-05 10:11:08 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -36,19 +36,19 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | elizabeth.ethcome | 24 | 7 | 11 | 77% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
-| CentralCasting | 17 | 6 | 2 | 74% |
+| CentralCasting | 17 | 6 | 3 | 74% |
 | one8tyfive | 49 | 17 | 1 | 74% |
 | Spicer | 29 | 10 | 0 | 74% |
 | fkgggg2mouzfuria | 101 | 35 | 25 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
 | Winnerdinnerchickenjr | 13 | 5 | 0 | 72% |
 | SDTrading | 7 | 3 | 1 | 70% |
-| Djdjdjekekek | 122 | 58 | 21 | 68% |
+| Djdjdjekekek | 122 | 58 | 23 | 68% |
 | BirdMan. | 68 | 32 | 23 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| GoalLineGhost | 197 | 102 | 9 | 66% |
+| GoalLineGhost | 197 | 102 | 10 | 66% |
 | RN1 | 1343 | 715 | 98 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | UpTheBlues | 83 | 51 | 48 | 62% |
 | fRibrenlc | 25 | 15 | 8 | 62% |
 | HomeRunHazard | 462 | 280 | 27 | 62% |
-| ferrariChampions2026 | 2211 | 1424 | 196 | 61% |
+| ferrariChampions2026 | 2211 | 1424 | 197 | 61% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 25 | 17 | 37 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
@@ -77,7 +77,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BreakTheBank | 4 | 4 | 5 | 50% |
 | Melody626 | 3 | 3 | 14 | ⚠️ 50% (muestra chica: 6) |
 | lllllllIlll | 9 | 9 | 3 | 50% |
-| canoflanagan | 4 | 4 | 17 | 50% |
+| canoflanagan | 4 | 4 | 18 | 50% |
 | chanello | 1 | 1 | 1 | ⚠️ 50% (muestra chica: 2) |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 35 | 38 | 9 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 3 | 48% |
