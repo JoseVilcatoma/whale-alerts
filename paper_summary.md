@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 12:53:56 (hora de Perú)
+Actualizado: 2026-08-05 12:55:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,351.93
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| Djdjdjekekek | 67 | 0 | 6 | +600.59 USD |
+| Djdjdjekekek | 67 | 0 | 9 | +600.59 USD |
 | RN1 | 14 | 7 | 0 | +11.89 USD |
 | HomeRunHazard | 0 | 0 | 17 | +0.00 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
@@ -31,6 +31,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 35% | 28.08 | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 35% | 2.17 | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 36% | 3.26 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 35% | 1.88 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 35% | 5.73 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 35% | 6.99 | ⏳ pendiente | — |
@@ -58,6 +61,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Athletics (-1.5) | Cincinnati Reds (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago White Sox (-1.5) | Boston Red Sox (BUY) | 65% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 56% | 0.00 | ⏳ pendiente | — |
