@@ -1,5 +1,5 @@
 {
-  "bankroll": 1005.0133811035903,
+  "bankroll": 1016.89950355257,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -65,6 +65,21 @@
       "timestamp": 1785903725.3607333,
       "bankroll": 1005.01,
       "event": "lost: RN1 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1785903846.0126898,
+      "bankroll": 1006.68,
+      "event": "won: RN1 \u2014 Spread: Colorado Rockies (-1.5)"
+    },
+    {
+      "timestamp": 1785903846.2130768,
+      "bankroll": 1011.79,
+      "event": "won: RN1 \u2014 Spread: Colorado Rockies (-1.5)"
+    },
+    {
+      "timestamp": 1785903846.313266,
+      "bankroll": 1016.9,
+      "event": "won: RN1 \u2014 Spread: Colorado Rockies (-1.5)"
     }
   ]
 }
