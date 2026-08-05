@@ -2842,5 +2842,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785947247,
+    "timestamp_added": 1785947248.2405422,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-phx-atl-2026-08-05-total-183pt5",
+    "title": "Phoenix Mercury vs. Atlanta Dream: O/U 183.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 911.648106,
+    "whale_pct": 1.104,
+    "paper_stake_usd": 16.23,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
