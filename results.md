@@ -1,12 +1,12 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 08:15:37 (hora de Perú)
+Actualizado: 2026-08-05 08:17:42 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
-| QuietRiskisWrong | 15 | 0 | 36 | 100% |
+| QuietRiskisWrong | 15 | 0 | 37 | 100% |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | Pwaddler | 9 | 0 | 1 | 100% |
@@ -14,7 +14,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ndb1 | 1 | 0 | 2 | ⚠️ 100% (muestra chica: 1) |
 | patient12 | 49 | 0 | 11 | 100% |
 | highnetworth | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 9 | 100% |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 11 | 100% |
 | RLXDJ19701601 | 2 | 0 | 0 | ⚠️ 100% (muestra chica: 2) |
 | flawfence | 2 | 0 | 1 | ⚠️ 100% (muestra chica: 2) |
 | JhonAlexanderHinestroza | 7 | 0 | 0 | ⚠️ 100% (muestra chica: 7) |
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | matenghehe | 81 | 2 | 21 | 98% |
 | fazewinline | 23 | 1 | 6 | 96% |
 | paquitomillonario | 22 | 2 | 0 | 92% |
-| TopGleaguepick | 14 | 2 | 5 | 88% |
+| TopGleaguepick | 14 | 2 | 9 | 88% |
 | cigarettes | 66 | 10 | 3 | 87% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | texaskid | 18 | 3 | 0 | 86% |
@@ -55,10 +55,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 148 | 81 | 11 | 65% |
 | UpTheBlues | 82 | 51 | 44 | 62% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 88 | 62% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 89 | 62% |
 | fRibrenlc | 25 | 15 | 8 | 62% |
 | HomeRunHazard | 447 | 276 | 27 | 62% |
-| ferrariChampions2026 | 2125 | 1365 | 248 | 61% |
+| ferrariChampions2026 | 2125 | 1365 | 251 | 61% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 25 | 59% |
@@ -79,7 +79,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BreakTheBank | 4 | 4 | 5 | 50% |
 | Melody626 | 3 | 3 | 14 | ⚠️ 50% (muestra chica: 6) |
 | lllllllIlll | 9 | 9 | 3 | 50% |
-| canoflanagan | 2 | 2 | 12 | ⚠️ 50% (muestra chica: 4) |
+| canoflanagan | 2 | 2 | 14 | ⚠️ 50% (muestra chica: 4) |
 | chanello | 1 | 1 | 1 | ⚠️ 50% (muestra chica: 2) |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 0 | 48% |
 | sbsigner | 40 | 45 | 0 | 47% |
@@ -89,7 +89,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 73 | 85 | 0 | 46% |
 |  | 12 | 14 | 16 | 46% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 29 | 45% |
-| PASSTHEMONEY | 45 | 62 | 35 | 42% |
+| PASSTHEMONEY | 45 | 62 | 36 | 42% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | TAIWANNUMBERONE | 4 | 6 | 16 | 40% |
 | pleaseplease123 | 47 | 74 | 0 | 39% |
