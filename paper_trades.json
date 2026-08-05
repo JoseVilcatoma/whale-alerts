@@ -2482,5 +2482,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785909585,
+    "timestamp_added": 1785909585.7689335,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-1win-bb4-2026-08-05",
+    "title": "Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs",
+    "outcome": "1win",
+    "side": "BUY",
+    "whale_usd": 2156.0,
+    "whale_pct": 0.464,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true
   }
 ]
