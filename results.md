@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 06:09:52 (hora de Perú)
+Actualizado: 2026-08-05 06:12:24 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -58,10 +58,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 22 | 62% |
 | fRibrenlc | 25 | 15 | 7 | 62% |
 | HomeRunHazard | 447 | 276 | 12 | 62% |
-| ferrariChampions2026 | 2125 | 1365 | 122 | 61% |
+| ferrariChampions2026 | 2125 | 1365 | 123 | 61% |
 | SnakeBall | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 15 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 17 | 59% |
 | flatbarrel | 13 | 9 | 0 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 4 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
@@ -78,7 +78,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 4 | 50% |
 | Melody626 | 3 | 3 | 14 | ⚠️ 50% (muestra chica: 6) |
-| lllllllIlll | 9 | 9 | 0 | 50% |
+| lllllllIlll | 9 | 9 | 1 | 50% |
 | canoflanagan | 2 | 2 | 4 | ⚠️ 50% (muestra chica: 4) |
 | chanello | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 0 | 48% |
@@ -87,11 +87,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Eztennis | 28 | 33 | 0 | 46% |
 | Talvez10 | 28 | 33 | 0 | 46% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 73 | 85 | 0 | 46% |
-|  | 12 | 14 | 10 | 46% |
+|  | 12 | 14 | 11 | 46% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 14 | 45% |
 | PASSTHEMONEY | 45 | 62 | 16 | 42% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
-| TAIWANNUMBERONE | 4 | 6 | 9 | 40% |
+| TAIWANNUMBERONE | 4 | 6 | 10 | 40% |
 | pleaseplease123 | 47 | 74 | 0 | 39% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 30 | 1 | 39% |
 | VPenguin | 10 | 18 | 3 | 36% |
@@ -113,7 +113,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
-| CORGI8 | 0 | 6 | 6 | ⚠️ 0% (muestra chica: 6) |
+| CORGI8 | 0 | 6 | 7 | ⚠️ 0% (muestra chica: 6) |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 6 | 0 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |

@@ -158350,5 +158350,89 @@
     "usd": 1360.0548000000001,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785928195,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-knutson-seidel-2026-08-05",
+    "title": "Warsaw: Gabriela Knutson vs Ella Seidel",
+    "outcome": "Gabriela Knutson",
+    "side": "BUY",
+    "usd": 2196.7851520000004,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785928195,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-vales-glinka-2026-08-05",
+    "title": "Grodzisk Mazowiecki: Amit Vales vs Daniil Glinka",
+    "outcome": "Daniil Glinka",
+    "side": "BUY",
+    "usd": 1064.235489,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785928219,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-hle1-gen-2026-08-05-game1",
+    "title": "LoL: Hanwha Life Esports vs Gen.G - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 2314.3288,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785928225,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-ruud-cerund-2026-08-06",
+    "title": "National Bank Open: Casper Ruud vs Juan Manuel Cerundolo",
+    "outcome": "Casper Ruud",
+    "side": "BUY",
+    "usd": 5385.345,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785928237,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-ruud-cerund-2026-08-06",
+    "title": "National Bank Open: Casper Ruud vs Juan Manuel Cerundolo",
+    "outcome": "Juan Manuel Cerundolo",
+    "side": "BUY",
+    "usd": 1109.1020999999998,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785928287,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "cs2-tl1-fnc-2026-08-05",
+    "title": "Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs",
+    "outcome": "fnatic",
+    "side": "BUY",
+    "usd": 1099.6754999999998,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785928287,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-tl1-fnc-2026-08-05",
+    "title": "Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs",
+    "outcome": "Liquid",
+    "side": "BUY",
+    "usd": 2826.902,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]
