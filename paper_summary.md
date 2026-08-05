@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 01:18:11 (hora de Perú)
+Actualizado: 2026-08-05 01:20:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $991.99
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 14 | 7 | 0 | +11.89 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 49 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 67 | +0.00 USD |
-| HomeRunHazard | 0 | 0 | 4 | +0.00 USD |
+| HomeRunHazard | 0 | 0 | 6 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -27,6 +27,8 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 49% | 0.00 | ⏳ pendiente | — |
@@ -55,5 +57,3 @@ _Todavía no hubo coincidencias._
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Liquid vs fnatic (BO3) - | fnatic (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Johnny Speeds vs Betclic | Johnny Speeds (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 0.00 | ⏳ pendiente | — |
