@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 19:38:03 (hora de Perú)
+Actualizado: 2026-08-04 19:43:10 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 63 | 10 | 3 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | elizabeth.ethcome | 12 | 2 | 0 | 86% |
-| swisstony | 726 | 156 | 109 | 82% |
+| swisstony | 726 | 156 | 110 | 82% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | one8tyfive | 44 | 14 | 9 | 76% |
 | fkgggg2mouzfuria | 95 | 30 | 0 | 76% |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | BirdMan. | 48 | 24 | 8 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
-| RN1 | 1212 | 641 | 173 | 65% |
+| RN1 | 1212 | 641 | 178 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 49 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -49,8 +49,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 112 | 63 | 53 | 64% |
 | UpTheBlues | 67 | 40 | 56 | 63% |
 | flatbarrel | 10 | 6 | 5 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 245 | 61% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 78 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 246 | 61% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 79 | 61% |
 | fRibrenlc | 21 | 14 | 2 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
@@ -102,7 +102,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
-| 0x4f2 | 0 | 2 | 19 | ⚠️ 0% (muestra chica: 2) |
+| 0x4f2 | 0 | 2 | 21 | ⚠️ 0% (muestra chica: 2) |
 | CORGI8 | 0 | 6 | 0 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
