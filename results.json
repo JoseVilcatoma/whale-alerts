@@ -158110,5 +158110,17 @@
     "usd": 1892.6010000000003,
     "odds_at_bet": 92,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785927509,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-lee-falei-2026-08-05",
+    "title": "Warsaw: Carol Young Suh Lee vs Aliona Falei",
+    "outcome": "Aliona Falei",
+    "side": "BUY",
+    "usd": 1889.599999,
+    "odds_at_bet": 38,
+    "status": "pending"
   }
 ]

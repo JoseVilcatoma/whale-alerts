@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 05:55:05 (hora de Perú)
+Actualizado: 2026-08-05 05:58:44 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -87,7 +87,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Eztennis | 28 | 33 | 0 | 46% |
 | Talvez10 | 28 | 33 | 0 | 46% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 73 | 85 | 0 | 46% |
-|  | 12 | 14 | 9 | 46% |
+|  | 12 | 14 | 10 | 46% |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 14 | 45% |
 | PASSTHEMONEY | 45 | 62 | 15 | 42% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
