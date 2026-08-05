@@ -157162,5 +157162,113 @@
     "usd": 2010.1439999999998,
     "odds_at_bet": 30,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785925526,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-lee-falei-2026-08-05",
+    "title": "Warsaw: Carol Young Suh Lee vs Aliona Falei",
+    "outcome": "Carol Young Suh Lee",
+    "side": "BUY",
+    "usd": 4376.7222,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785925534,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1888.3799999999999,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785925535,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1128.829995,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785925535,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1833.804,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785925539,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 5573.2222,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785925576,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-jdg-lgd-2026-08-05-game2",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1082.4044000000001,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785925580,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-imp11-alkaa-2026-08-05",
+    "title": "Counter-Strike: Imperial vs ALKA (BO3) - BetBoom Storm Group Stage",
+    "outcome": "Imperial",
+    "side": "BUY",
+    "usd": 8412.1695,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785925589,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-1win-bb4-2026-08-05-game2",
+    "title": "Dota 2: 1win vs BetBoom Team - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 5999.999998000001,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785925596,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1094.3104,
+    "odds_at_bet": 94,
+    "status": "pending"
   }
 ]
