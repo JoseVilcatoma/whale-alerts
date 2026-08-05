@@ -166606,5 +166606,89 @@
     "usd": 1297.3831000000002,
     "odds_at_bet": 13,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785938347,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-edg-tes-2026-08-05-game2",
+    "title": "LoL: EDward Gaming vs Top Esports - Game 2 Winner",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 2116.3328,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938347,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-edg-tes-2026-08-05-game2",
+    "title": "LoL: EDward Gaming vs Top Esports - Game 2 Winner",
+    "outcome": "EDward Gaming",
+    "side": "BUY",
+    "usd": 1485.04,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938371,
+    "username": "canoflanagan",
+    "wallet": "0x21468ad63a833f5f9ea5c2835fb4e9dec57ad41b",
+    "slug": "dota2-playti-yb1-2026-08-05-game2",
+    "title": "Dota 2: PlayTime vs Yakult Brothers - Game 2 Winner",
+    "outcome": "PlayTime",
+    "side": "BUY",
+    "usd": 1096.258695,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938373,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-edg-tes-2026-08-05-game2",
+    "title": "LoL: EDward Gaming vs Top Esports - Game 2 Winner",
+    "outcome": "EDward Gaming",
+    "side": "BUY",
+    "usd": 1825.4464000000003,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938409,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-playti-yb1-2026-08-05-game2",
+    "title": "Dota 2: PlayTime vs Yakult Brothers - Game 2 Winner",
+    "outcome": "PlayTime",
+    "side": "BUY",
+    "usd": 1000.0,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938423,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-bergs-baez-2026-08-06",
+    "title": "National Bank Open: Zizou Bergs vs Sebastian Baez",
+    "outcome": "Zizou Bergs",
+    "side": "BUY",
+    "usd": 1368.2954,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938446,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-edg-tes-2026-08-05-game2",
+    "title": "LoL: EDward Gaming vs Top Esports - Game 2 Winner",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 1195.3025799999998,
+    "odds_at_bet": 69,
+    "status": "pending"
   }
 ]

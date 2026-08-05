@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 08:58:49 (hora de Perú)
+Actualizado: 2026-08-05 09:01:15 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -29,12 +29,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 66 | 10 | 5 | 87% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | texaskid | 18 | 3 | 0 | 86% |
-| elizabeth.ethcome | 12 | 2 | 26 | 86% |
+| elizabeth.ethcome | 12 | 2 | 28 | 86% |
 | quavoo | 5 | 1 | 3 | ⚠️ 83% (muestra chica: 6) |
 | swisstony | 768 | 167 | 71 | 82% |
 | Bigggggggg | 4 | 1 | 35 | ⚠️ 80% (muestra chica: 5) |
 | mooseborzoi | 63 | 20 | 0 | 76% |
-| fkgggg2mouzfuria | 95 | 30 | 34 | 76% |
+| fkgggg2mouzfuria | 95 | 30 | 36 | 76% |
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | one8tyfive | 49 | 17 | 1 | 74% |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ferrariChampions2026 | 2125 | 1365 | 297 | 61% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 31 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 32 | 59% |
 | flatbarrel | 13 | 9 | 1 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 7 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
@@ -79,7 +79,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BreakTheBank | 4 | 4 | 5 | 50% |
 | Melody626 | 3 | 3 | 14 | ⚠️ 50% (muestra chica: 6) |
 | lllllllIlll | 9 | 9 | 3 | 50% |
-| canoflanagan | 2 | 2 | 15 | ⚠️ 50% (muestra chica: 4) |
+| canoflanagan | 2 | 2 | 16 | ⚠️ 50% (muestra chica: 4) |
 | chanello | 1 | 1 | 1 | ⚠️ 50% (muestra chica: 2) |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 1 | 48% |
 | sbsigner | 40 | 45 | 2 | 47% |
@@ -88,7 +88,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Talvez10 | 28 | 33 | 0 | 46% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 73 | 85 | 0 | 46% |
 |  | 12 | 14 | 20 | 46% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 35 | 45% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 36 | 45% |
 | PASSTHEMONEY | 45 | 62 | 40 | 42% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | TAIWANNUMBERONE | 4 | 6 | 16 | 40% |
