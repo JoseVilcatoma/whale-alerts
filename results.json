@@ -156094,5 +156094,29 @@
     "usd": 2264.0826,
     "odds_at_bet": 39,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785923209,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-kasatki-rybakin-2026-08-06",
+    "title": "National Bank Open: Daria Kasatkina vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 1169.681538,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785923224,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-canas-donski-2026-08-05",
+    "title": "Grodzisk Mazowiecki: Alejandro Moro Canas vs Alexander Donski",
+    "outcome": "Alejandro Moro Canas",
+    "side": "BUY",
+    "usd": 1911.6976000000002,
+    "odds_at_bet": 17,
+    "status": "pending"
   }
 ]
