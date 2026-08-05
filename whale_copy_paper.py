@@ -585,7 +585,24 @@ def save_and_commit():
         os.system('git config user.email "actions@github.com"')
         os.system("git add paper_trades.json paper_state.json paper_summary.md paper_watched.json")
         os.system('git diff --staged --quiet || git commit -m "actualizar simulación de paper trading"')
-        os.system("git push")
+
+        for intento in range(3):
+            push_ok = os.system("git push") == 0
+            if push_ok:
+                break
+            # El push fue rechazado, probablemente porque el otro bot (el de
+            # alertas) subió cambios mientras tanto. Como cada bot toca
+            # archivos distintos, no hay conflicto real de contenido: bajamos
+            # sus cambios y reordenamos los nuestros encima.
+            print(f"[save_and_commit] push rechazado (intento {intento+1}/3), "
+                  f"bajando cambios del otro bot y reintentando...", file=sys.stderr)
+            os.system("git fetch origin main")
+            rebase_ok = os.system("git rebase origin/main") == 0
+            if not rebase_ok:
+                os.system("git rebase --abort")
+                print("[save_and_commit] no se pudo reordenar automáticamente, se reintenta en el próximo ciclo",
+                      file=sys.stderr)
+                break
         trades_dirty = False
     except Exception as e:
         import traceback
