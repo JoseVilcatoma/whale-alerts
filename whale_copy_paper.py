@@ -80,7 +80,9 @@ TOP_N_CANDIDATES = int(os.environ.get("TOP_N_CANDIDATES", "20"))
 TOP_K_REPLICATE = int(os.environ.get("TOP_K_REPLICATE", "5"))
 MIN_TRADE_PCT = float(os.environ.get("MIN_TRADE_PCT", "0.1"))
 MIN_WHALE_PORTFOLIO = float(os.environ.get("MIN_WHALE_PORTFOLIO", "2000"))
-MAX_DAYS_TO_RESOLUTION = float(os.environ.get("MAX_DAYS_TO_RESOLUTION", "5"))  # ignora mercados que resuelven más lejos que esto
+MAX_DAYS_TO_RESOLUTION = float(os.environ.get("MAX_DAYS_TO_RESOLUTION", "1"))  # solo mercados que resuelven el mismo día
+MIN_SHORT_TERM_SHARE = float(os.environ.get("MIN_SHORT_TERM_SHARE", "0.5"))  # % mínimo de sus apuestas recientes que deben ser de corto plazo
+ACTIVITY_SAMPLE_SIZE = int(os.environ.get("ACTIVITY_SAMPLE_SIZE", "10"))  # cuántas apuestas recientes de cada candidato se revisan
 LB_CATEGORY = os.environ.get("LB_CATEGORY", "OVERALL")
 LB_PERIODS = ["WEEK", "MONTH"]
 
@@ -176,6 +178,37 @@ def days_to_resolution(market):
         return None
 
 
+SPORT_KEYWORDS = [
+    "soccer", "futbol", "fútbol", "football", "premier league", "champions league",
+    "la liga", "serie a", "bundesliga", "mls", "libertadores", "sudamericana",
+    "dota", "cs2", "csgo", "counter-strike", "counter strike",
+    "league of legends", "lol:", "valorant",
+    "esports", "e-sports",
+    "baseball", "mlb",
+    "nba", "basketball",
+    "nfl",
+    "nhl", "hockey",
+    "tennis", "atp", "wta",
+    "cricket",
+]
+
+
+def is_sports_market(market):
+    """Detecta si un mercado es de deportes/esports. Primero mira las
+    etiquetas (tags) que pone Polymarket; si no están disponibles, busca
+    palabras clave de deportes en el título/slug como respaldo."""
+    if not market:
+        return False
+    tags = market.get("tags") or []
+    for t in tags:
+        label = (t.get("label") or t.get("slug") or "") if isinstance(t, dict) else str(t)
+        label = label.lower()
+        if label in ("sports", "esports", "e-sports") or any(k in label for k in SPORT_KEYWORDS):
+            return True
+    text = f"{market.get('title','')} {market.get('slug','')}".lower()
+    return any(k in text for k in SPORT_KEYWORDS)
+
+
 def market_result(market, outcome):
     if not market or not market.get("closed"):
         return "open" if market else None
@@ -195,7 +228,8 @@ def market_result(market, outcome):
         return None
 
 
-# ---------- selección de los 5 vigilados por % de rendimiento ----------
+# ---------- selección de los 5 vigilados por % de rendimiento, ----------
+# ---------- pero solo entre los que de verdad operan en corto plazo -----
 def get_leaderboard_period(period):
     r = requests.get(
         f"{DATA_API}/v1/leaderboard",
@@ -206,10 +240,57 @@ def get_leaderboard_period(period):
     return r.json()
 
 
+def get_recent_trades(wallet, limit=ACTIVITY_SAMPLE_SIZE):
+    try:
+        r = requests.get(
+            f"{DATA_API}/activity",
+            params={"user": wallet, "limit": limit, "type": "TRADE"},
+            timeout=10,
+        )
+        return r.json() if r.ok else []
+    except Exception:
+        return []
+
+
+def short_term_trade_ratio(wallet):
+    """Mira las últimas apuestas reales de la wallet y calcula qué % de
+    ellas fueron en deportes/esports Y en mercados que resolvían en
+    MAX_DAYS_TO_RESOLUTION días o menos desde el momento en que apostó.
+    Devuelve None si no hay datos suficientes para opinar."""
+    acts = get_recent_trades(wallet)
+    if not acts:
+        return None
+    short, counted = 0, 0
+    for a in acts:
+        slug = a.get("slug")
+        ts = a.get("timestamp")
+        if not slug or not ts:
+            continue
+        market = get_market(slug)
+        if not market:
+            continue
+        end = market.get("endDate") or market.get("endDateIso") or market.get("end_date")
+        if not end:
+            continue
+        try:
+            end_dt = datetime.fromisoformat(end.replace("Z", "+00:00"))
+            trade_dt = datetime.fromtimestamp(ts, tz=timezone.utc)
+            days = (end_dt - trade_dt).total_seconds() / 86400
+        except Exception:
+            continue
+        counted += 1
+        if days <= MAX_DAYS_TO_RESOLUTION and is_sports_market(market):
+            short += 1
+    if counted == 0:
+        return None
+    return short / counted
+
+
 def compute_top5_by_roi():
     """Junta candidatos de semana+mes (por PnL en $, igual que el bot de
-    alertas) y de ahí calcula el % de rendimiento real de cada uno
-    (pnl ÷ valor de portafolio) para quedarse con los 5 mejores por %."""
+    alertas), descarta a los de portafolio muy chico (artefacto de %) y a
+    los que no operan mayormente en corto plazo, y de los que quedan se
+    queda con los 5 mejores por % de rendimiento real."""
     candidates = {}
     for period in LB_PERIODS:
         try:
@@ -227,8 +308,13 @@ def compute_top5_by_roi():
         value = get_portfolio_value(w)
         if pnl is None or not value or value < MIN_WHALE_PORTFOLIO:
             continue  # portafolio casi vacío -> el % se dispara sin ser real habilidad, se descarta
+
+        ratio = short_term_trade_ratio(w)
+        if ratio is None or ratio < MIN_SHORT_TERM_SHARE:
+            continue  # no opera mayormente en mercados de corto plazo, no nos sirve para este bot
+
         roi_pct = pnl / value * 100
-        scored.append((w, t.get("userName", "anon"), roi_pct))
+        scored.append((w, t.get("userName", "anon"), roi_pct, ratio))
 
     scored.sort(key=lambda x: x[2], reverse=True)
     return scored[:TOP_K_REPLICATE]
@@ -304,9 +390,10 @@ def build_summary_md():
     for tr in sorted(trades, key=lambda t: t["timestamp_added"], reverse=True)[:30]:
         estado = {"pending": "⏳ pendiente", "won": "✅ ganada", "lost": "❌ perdida"}.get(tr["status"], tr["status"])
         resultado = f"{tr['profit_usd']:+,.2f}" if tr["status"] != "pending" else "—"
+        titulo = (tr.get("title") or "(sin título)")[:40]
         lines.append(
-            f"| {tr['username']} | {tr['title'][:40]} | {tr['outcome']} ({tr['side']}) | "
-            f"{tr['odds_at_bet']}% | {tr['paper_stake_usd']:,.2f} | {estado} | {resultado} |"
+            f"| {tr.get('username','')} | {titulo} | {tr.get('outcome','')} ({tr.get('side','')}) | "
+            f"{tr.get('odds_at_bet',0)}% | {tr.get('paper_stake_usd',0):,.2f} | {estado} | {resultado} |"
         )
 
     SUMMARY_FILE.write_text("\n".join(lines) + "\n")
@@ -340,10 +427,10 @@ def log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, 
             "timestamp_added": time.time(),
             "username": username,
             "wallet": wallet,
-            "slug": slug,
-            "title": trade.get("title"),
-            "outcome": trade.get("outcome"),
-            "side": trade.get("side"),
+            "slug": slug or "",
+            "title": trade.get("title") or "(sin título)",
+            "outcome": trade.get("outcome") or "",
+            "side": trade.get("side") or "",
             "whale_usd": whale_usd,
             "whale_pct": round(whale_pct, 3),
             "paper_stake_usd": round(paper_stake, 2),
@@ -456,6 +543,9 @@ def on_ws_message(ws, message):
         print(f"🧪 PAPER — {username}: se ignora, el mercado resuelve en ~{days_left:.0f} días "
               f"(más del límite de {MAX_DAYS_TO_RESOLUTION:.0f}) — {trade.get('title')}")
         return
+    if not is_sports_market(market):
+        print(f"🧪 PAPER — {username}: se ignora, no es un mercado de deportes/esports — {trade.get('title')}")
+        return
 
     with lock:
         allocated = sum(tr["paper_stake_usd"] for tr in trades if tr["status"] == "pending")
@@ -485,17 +575,22 @@ def on_ws_close(ws, code, msg):
 # ---------- hilo de fondo ----------
 def save_and_commit():
     global trades_dirty
-    with lock:
-        TRADES_FILE.write_text(json.dumps(trades, indent=2))
-        STATE_FILE.write_text(json.dumps({"bankroll": bankroll, "history": bankroll_history}, indent=2))
-        build_summary_md()
-        WATCHED_FILE.write_text(json.dumps(watched_meta, indent=2))
-    os.system('git config user.name "whale-copy-paper-bot"')
-    os.system('git config user.email "actions@github.com"')
-    os.system("git add paper_trades.json paper_state.json paper_summary.md paper_watched.json")
-    os.system('git diff --staged --quiet || git commit -m "actualizar simulación de paper trading"')
-    os.system("git push")
-    trades_dirty = False
+    try:
+        with lock:
+            TRADES_FILE.write_text(json.dumps(trades, indent=2))
+            STATE_FILE.write_text(json.dumps({"bankroll": bankroll, "history": bankroll_history}, indent=2))
+            build_summary_md()
+            WATCHED_FILE.write_text(json.dumps(watched_meta, indent=2))
+        os.system('git config user.name "whale-copy-paper-bot"')
+        os.system('git config user.email "actions@github.com"')
+        os.system("git add paper_trades.json paper_state.json paper_summary.md paper_watched.json")
+        os.system('git diff --staged --quiet || git commit -m "actualizar simulación de paper trading"')
+        os.system("git push")
+        trades_dirty = False
+    except Exception as e:
+        import traceback
+        print(f"[save_and_commit] error al guardar, se reintenta en el próximo ciclo: {e}", file=sys.stderr)
+        traceback.print_exc()
 
 
 def background_worker():
@@ -504,42 +599,63 @@ def background_worker():
     last_resolve_check = 0
     last_save = time.time()
     while not stop_flag.is_set():
-        now = time.time()
+        try:
+            now = time.time()
 
-        if now - last_lb_refresh > LEADERBOARD_REFRESH_SECONDS or not watched:
-            top5 = compute_top5_by_roi()
-            cutoff = now - MIN_WATCH_DAYS * 86400
-            with lock:
-                current_wallets = {w for w, _, _ in top5}
-                for w, name, roi in top5:
-                    if w not in watched_meta:
-                        watched_meta[w] = {"username": name, "added_at": now, "roi_pct": round(roi, 2)}
-                    else:
-                        watched_meta[w]["username"] = name
-                        watched_meta[w]["roi_pct"] = round(roi, 2)
-                for w in list(watched_meta.keys()):
-                    if w not in current_wallets and watched_meta[w]["added_at"] < cutoff:
-                        del watched_meta[w]
-                watched.clear()
-                watched.update({w: m["username"] for w, m in watched_meta.items()})
-            print(f"[ranking] top {TOP_K_REPLICATE} por %% de rendimiento: "
-                  + ", ".join(f"{m['username']} ({m['roi_pct']:+.1f}%)" for m in watched_meta.values()))
-            last_lb_refresh = now
+            if now - last_lb_refresh > LEADERBOARD_REFRESH_SECONDS or not watched:
+                top5 = compute_top5_by_roi()
+                cutoff = now - MIN_WATCH_DAYS * 86400
+                with lock:
+                    current_wallets = {w for w, _, _, _ in top5}
+                    for w, name, roi, ratio in top5:
+                        if w not in watched_meta:
+                            watched_meta[w] = {"username": name, "added_at": now, "roi_pct": round(roi, 2),
+                                                "short_term_pct": round(ratio * 100, 1)}
+                        else:
+                            watched_meta[w]["username"] = name
+                            watched_meta[w]["roi_pct"] = round(roi, 2)
+                            watched_meta[w]["short_term_pct"] = round(ratio * 100, 1)
+                    for w in list(watched_meta.keys()):
+                        if w not in current_wallets and watched_meta[w]["added_at"] < cutoff:
+                            del watched_meta[w]
+                    watched.clear()
+                    watched.update({w: m["username"] for w, m in watched_meta.items()})
+                print(f"[ranking] top {TOP_K_REPLICATE} por %% de rendimiento (corto plazo): "
+                      + ", ".join(f"{m['username']} ({m['roi_pct']:+.1f}%, {m['short_term_pct']:.0f}% corto plazo)"
+                                  for m in watched_meta.values()))
+                last_lb_refresh = now
 
-        if now - last_resolve_check > 60:
-            resolve_pending_trades()
-            last_resolve_check = now
+            if now - last_resolve_check > 60:
+                resolve_pending_trades()
+                last_resolve_check = now
 
-        if now - last_msg_at > 60 and current_ws is not None:
-            try:
-                current_ws.close()
-            except Exception:
-                pass
-            last_msg_at = time.time()
+            if now - last_msg_at > 60 and current_ws is not None:
+                try:
+                    current_ws.close()
+                except Exception:
+                    pass
+                last_msg_at = time.time()
 
-        if now - last_save > 120:
-            save_and_commit()
-            last_save = now
+            if now - last_save > 120:
+                save_and_commit()
+                last_save = now
+
+            # Si ya se cumplió el tiempo máximo de corrida, forzamos el cierre
+            # del websocket para que el hilo principal salga de run_forever()
+            # y el bot pueda terminar prolijo (guardar todo) en vez de que
+            # GitHub lo mate de un tirón sin guardar nada.
+            if now - run_start > MAX_RUNTIME_SECONDS and current_ws is not None:
+                print("[paper] tiempo máximo alcanzado, cerrando para terminar prolijo...")
+                try:
+                    current_ws.close()
+                except Exception:
+                    pass
+                stop_flag.set()
+
+        except Exception as e:
+            import traceback
+            print(f"[background_worker] error en un ciclo, se ignora y se sigue: {e}", file=sys.stderr)
+            traceback.print_exc()
 
         time.sleep(5)
 
