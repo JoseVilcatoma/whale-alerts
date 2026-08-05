@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 06:42:29 (hora de Perú)
+Actualizado: 2026-08-05 06:45:25 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -47,21 +47,21 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 4 | 2 | 2 | ⚠️ 67% (muestra chica: 6) |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| GoalLineGhost | 197 | 102 | 3 | 66% |
+| GoalLineGhost | 197 | 102 | 4 | 66% |
 | BirdMan. | 55 | 28 | 21 | 66% |
-| RN1 | 1305 | 706 | 71 | 65% |
+| RN1 | 1305 | 706 | 75 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 148 | 81 | 9 | 65% |
 | UpTheBlues | 82 | 51 | 35 | 62% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 34 | 62% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 35 | 62% |
 | fRibrenlc | 25 | 15 | 7 | 62% |
 | HomeRunHazard | 447 | 276 | 14 | 62% |
-| ferrariChampions2026 | 2125 | 1365 | 162 | 61% |
+| ferrariChampions2026 | 2125 | 1365 | 165 | 61% |
 | SnakeBall | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 21 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 23 | 59% |
 | flatbarrel | 13 | 9 | 0 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 4 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
@@ -79,7 +79,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BreakTheBank | 4 | 4 | 4 | 50% |
 | Melody626 | 3 | 3 | 14 | ⚠️ 50% (muestra chica: 6) |
 | lllllllIlll | 9 | 9 | 2 | 50% |
-| canoflanagan | 2 | 2 | 5 | ⚠️ 50% (muestra chica: 4) |
+| canoflanagan | 2 | 2 | 7 | ⚠️ 50% (muestra chica: 4) |
 | chanello | 1 | 1 | 0 | ⚠️ 50% (muestra chica: 2) |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 0 | 48% |
 | sbsigner | 40 | 45 | 0 | 47% |
