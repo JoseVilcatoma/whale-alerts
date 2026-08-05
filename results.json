@@ -163846,5 +163846,53 @@
     "usd": 1237.5592609999997,
     "odds_at_bet": 37,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785935311,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-kasatki-rybakin-2026-08-06-set-handicap-away-1pt5",
+    "title": "Set Handicap: Rybakina (-1.5) vs Kasatkina (+1.5)",
+    "outcome": "Rybakina",
+    "side": "BUY",
+    "usd": 1016.759998,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785935323,
+    "username": "Shori888",
+    "wallet": "0xa36fcb6947c4ac1f09ee894aa1fd0756b90e180b",
+    "slug": "arg-tig-bel-2026-08-05-total-1pt5",
+    "title": "CA Tigre vs. CA Belgrano: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 3490.4859,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785935345,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-ribecai-berkiet-2026-08-05",
+    "title": "Grodzisk Mazowiecki: Michele Ribecai vs Tomasz Berkieta",
+    "outcome": "Tomasz Berkieta",
+    "side": "BUY",
+    "usd": 1018.4545450000002,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785935358,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-playti-yb1-2026-08-05-game1",
+    "title": "Dota 2: PlayTime vs Yakult Brothers - Game 1 Winner",
+    "outcome": "Yakult Brothers",
+    "side": "BUY",
+    "usd": 1077.3115,
+    "odds_at_bet": 80,
+    "status": "pending"
   }
 ]
