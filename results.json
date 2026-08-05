@@ -155506,5 +155506,41 @@
     "usd": 26415.5085,
     "odds_at_bet": 45,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785922206,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-1win-bb4-2026-08-05-game1",
+    "title": "Dota 2: 1win vs BetBoom Team - Game 1 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 1558.8287999999998,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922231,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-1win-bb4-2026-08-05-game1",
+    "title": "Dota 2: 1win vs BetBoom Team - Game 1 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 1786.0922,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922231,
+    "username": "canoflanagan",
+    "wallet": "0x21468ad63a833f5f9ea5c2835fb4e9dec57ad41b",
+    "slug": "dota2-1win-bb4-2026-08-05-game1",
+    "title": "Dota 2: 1win vs BetBoom Team - Game 1 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1883.3078,
+    "odds_at_bet": 39,
+    "status": "pending"
   }
 ]
