@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 11:41:57 (hora de Perú)
+Actualizado: 2026-08-05 11:44:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,470.39
-**Retorno acumulado:** +47.04%
+**Bankroll actual:** $1,446.15
+**Retorno acumulado:** +44.61%
 **Peor caída desde un máximo (drawdown):** 12.88%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 8 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 13 | 36 | -122.20 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 18 | 31 | -146.44 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
