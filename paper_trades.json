@@ -2896,5 +2896,43 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785948803,
+    "timestamp_added": 1785948803.5462976,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-tb-col-2026-08-05-total-11pt5",
+    "title": "Tampa Bay Rays vs. Colorado Rockies: O/U 11.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3833.4750999999997,
+    "whale_pct": 1.229,
+    "paper_stake_usd": 16.61,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785948818,
+    "timestamp_added": 1785948819.0872025,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-tor-hou-2026-08-05-spread-home-1pt5",
+    "title": "Spread: Houston Astros (-1.5)",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "whale_usd": 294.0,
+    "whale_pct": 0.189,
+    "paper_stake_usd": 2.55,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false
   }
 ]

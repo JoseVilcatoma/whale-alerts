@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 11:52:11 (hora de Perú)
+Actualizado: 2026-08-05 11:54:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,351.93
@@ -15,20 +15,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Djdjdjekekek | 67 | 0 | 0 | +600.59 USD |
 | RN1 | 14 | 7 | 0 | +11.89 USD |
-| HomeRunHazard | 0 | 0 | 13 | +0.00 USD |
+| HomeRunHazard | 0 | 0 | 14 | +0.00 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 8 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 9 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 31 | 18 | -240.66 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
-_Todavía no hubo coincidencias._
+| Mercado | Vigilados que coincidieron |
+|---|---|
+| mlb-tor-hou-2026-08-05-spread-home-1pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Houston Astros (-1.5) | Toronto Blue Jays (BUY) | 49% | 2.55 | ⏳ pendiente | — |
+| HomeRunHazard | Tampa Bay Rays vs. Colorado Rockies: O/U | Over (BUY) | 47% | 16.61 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Storm vs. New York Liberty: O/U  | Under (BUY) | 48% | 3.13 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Phoenix Mercury vs. Atlanta Dream: O/U 1 | Under (BUY) | 51% | 1.82 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Phoenix Mercury vs. Atlanta Dream: O/U 1 | Under (BUY) | 51% | 16.23 | ⏳ pendiente | — |
@@ -57,5 +61,3 @@ _Todavía no hubo coincidencias._
 | HomeRunHazard | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Storm vs. New York Liberty: O/U  | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Dallas Wings vs. Washington Mystics: O/U | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 0.00 | ✅ ganada | +0.00 |
-| Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 0.00 | ✅ ganada | +0.00 |
