@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 02:00:05 (hora de Perú)
+Actualizado: 2026-08-05 02:02:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $991.99
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 14 | 7 | 0 | +11.89 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 49 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 67 | +0.00 USD |
-| HomeRunHazard | 0 | 0 | 8 | +0.00 USD |
+| HomeRunHazard | 0 | 0 | 11 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -27,6 +27,9 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 42% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 42% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Athletics (-1.5) | Cincinnati Reds (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago White Sox (-1.5) | Boston Red Sox (BUY) | 65% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
@@ -54,6 +57,3 @@ _Todavía no hubo coincidencias._
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 4.96 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Johnny Speeds vs Betclic | Johnny Speeds (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Johnny Speeds vs Betclic | Johnny Speeds (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Liquid vs fnatic (BO3) - | fnatic (BUY) | 37% | 0.00 | ⏳ pendiente | — |
