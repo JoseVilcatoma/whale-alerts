@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 21:44:04 (hora de Perú)
+Actualizado: 2026-08-04 21:46:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,002.10
@@ -13,8 +13,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| RN1 | 2 | 0 | 15 | +2.10 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 11 | +0.00 USD |
+| RN1 | 2 | 0 | 17 | +2.10 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 13 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 2 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -25,6 +25,10 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 70% | 3.74 | ⏳ pendiente | — |
+| RN1 | San Francisco Giants vs. Texas Rangers:  | Over (BUY) | 19% | 7.61 | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Liquid vs fnatic (BO3) - | fnatic (BUY) | 37% | 1.60 | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TL (-1.5) vs fnatic (+1.5) | fnatic (BUY) | 65% | 5.71 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Johnny Speeds vs Betclic | Johnny Speeds (BUY) | 43% | 14.18 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 72% | 9.35 | ⏳ pendiente | — |
 | RN1 | Spread: Detroit Tigers (-2.5) | Seattle Mariners (BUY) | 45% | 16.76 | ⏳ pendiente | — |
@@ -51,7 +55,3 @@ _Todavía no hubo coincidencias._
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | Toronto Tempo vs. Golden State Valkyries | Under (BUY) | 47% | 10.49 | ⏳ pendiente | — |
 | RN1 | Tampa Bay Rays vs. Colorado Rockies: O/U | Over (BUY) | 95% | 1.40 | ⏳ pendiente | — |
 | RN1 | Toronto Blue Jays vs. Houston Astros: O/ | Over (BUY) | 89% | 4.98 | ✅ ganada | +0.62 |
-| 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | Toronto Tempo vs. Golden State Valkyries | Under (BUY) | 47% | 9.41 | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Johnny Speeds vs Betclic | Johnny Speeds (BUY) | 44% | 4.08 | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Liquid vs fnatic (BO3) - | fnatic (BUY) | 37% | 4.30 | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Johnny Speeds vs Betclic | Johnny Speeds (BUY) | 44% | 1.74 | ⏳ pendiente | — |
