@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 13:06:17 (hora de Perú)
+Actualizado: 2026-08-05 13:08:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,351.93
@@ -13,11 +13,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| Djdjdjekekek | 67 | 0 | 23 | +600.59 USD |
+| Djdjdjekekek | 67 | 0 | 29 | +600.59 USD |
 | RN1 | 14 | 7 | 0 | +11.89 USD |
 | HomeRunHazard | 0 | 0 | 17 | +0.00 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 9 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 10 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 31 | 18 | -240.66 USD |
 
@@ -31,6 +31,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Houston Astros (-1.5) | Toronto Blue Jays (BUY) | 49% | 35.62 | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 42% | 147.81 | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 42% | 2.38 | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 42% | 5.64 | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 42% | 3.41 | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 42% | 1.96 | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 41% | 87.62 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 35% | 4.54 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 39% | 5.48 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 39% | 5.48 | ⏳ pendiente | — |
@@ -54,10 +61,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 35% | 2.05 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 35% | 2.22 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 35% | 8.89 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: New York Liberty (-9.5) | New York Liberty (BUY) | 43% | 4.90 | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Colorado Rockies: O/U | Over (BUY) | 47% | 9.46 | ⏳ pendiente | — |
-| HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 39% | 1.77 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Houston Astros (-1.5) | Toronto Blue Jays (BUY) | 49% | 2.55 | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Colorado Rockies: O/U | Over (BUY) | 47% | 16.61 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Seattle Storm vs. New York Liberty: O/U  | Under (BUY) | 48% | 3.13 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Phoenix Mercury vs. Atlanta Dream: O/U 1 | Under (BUY) | 51% | 1.82 | ⏳ pendiente | — |
