@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 02:10:22 (hora de Perú)
+Actualizado: 2026-08-05 02:12:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $991.99
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 14 | 7 | 0 | +11.89 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 49 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 67 | +0.00 USD |
-| HomeRunHazard | 0 | 0 | 11 | +0.00 USD |
+| HomeRunHazard | 0 | 0 | 13 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -27,6 +27,8 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Chicago White Sox vs. Boston Red Sox: O/ | Under (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 42% | 0.00 | ⏳ pendiente | — |
@@ -55,5 +57,3 @@ _Todavía no hubo coincidencias._
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 21.79 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 1.90 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 4.96 | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 47% | 0.00 | ⏳ pendiente | — |
