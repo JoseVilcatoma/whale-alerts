@@ -1,5 +1,5 @@
 {
-  "bankroll": 1012.1421233636522,
+  "bankroll": 1008.6709468930641,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -30,6 +30,21 @@
       "timestamp": 1785900234.032096,
       "bankroll": 1012.14,
       "event": "lost: RN1 \u2014 San Francisco Giants vs. Texas Rangers: O/U 8.5"
+    },
+    {
+      "timestamp": 1785900543.3884344,
+      "bankroll": 1012.36,
+      "event": "won: RN1 \u2014 Spread: San Francisco Giants (-1.5)"
+    },
+    {
+      "timestamp": 1785900544.6057239,
+      "bankroll": 1010.56,
+      "event": "lost: RN1 \u2014 Spread: Texas Rangers (-2.5)"
+    },
+    {
+      "timestamp": 1785900544.7059073,
+      "bankroll": 1008.67,
+      "event": "lost: RN1 \u2014 Spread: Texas Rangers (-2.5)"
     }
   ]
 }
