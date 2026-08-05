@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 04:32:44 (hora de Perú)
+Actualizado: 2026-08-05 04:34:50 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -91,7 +91,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 9 | 45% |
 | PASSTHEMONEY | 45 | 62 | 2 | 42% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
-| TAIWANNUMBERONE | 4 | 6 | 8 | 40% |
+| TAIWANNUMBERONE | 4 | 6 | 9 | 40% |
 | pleaseplease123 | 47 | 74 | 0 | 39% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 30 | 1 | 39% |
 | VPenguin | 10 | 18 | 3 | 36% |
@@ -100,7 +100,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | jtwyslljy | 9 | 20 | 3 | 31% |
 | skyman44 | 4 | 9 | 1 | 31% |
-| 0x0x23kjookhaiuohduoayh8c9 | 2 | 6 | 3 | 25% |
+| 0x0x23kjookhaiuohduoayh8c9 | 2 | 6 | 4 | 25% |
 | 111111111115 | 11 | 38 | 0 | 22% |
 | neurodivergentBet | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | LeatherPants | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
