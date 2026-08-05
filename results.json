@@ -153046,5 +153046,17 @@
     "usd": 2080.0,
     "odds_at_bet": 13,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785891705,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-dkc-nsea-2026-08-05",
+    "title": "LoL: Dplus KIA Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+    "outcome": "Dplus KIA Challengers",
+    "side": "BUY",
+    "usd": 3172.20923,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
