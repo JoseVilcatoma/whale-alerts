@@ -153718,5 +153718,17 @@
     "usd": 6649.2558,
     "odds_at_bet": 66,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785892674,
+    "username": "LlamaLoco0000",
+    "wallet": "0x93fb8127a1b21a112b11af936361225df0563e4a",
+    "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+    "title": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 3944.4145,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]

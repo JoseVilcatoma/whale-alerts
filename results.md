@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 20:15:33 (hora de Perú)
+Actualizado: 2026-08-04 20:18:23 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -113,7 +113,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 6 | — |
 | flawfence | 0 | 0 | 3 | — |
 | chanello | 0 | 0 | 2 | — |
-| LlamaLoco0000 | 0 | 0 | 1 | — |
+| LlamaLoco0000 | 0 | 0 | 2 | — |
 | JhonAlexanderHinestroza | 0 | 0 | 7 | — |
 | xifutloong3 | 0 | 0 | 6 | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 3 | — |
