@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 21:33:52 (hora de Perú)
+Actualizado: 2026-08-04 21:35:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 9 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 2 | +0.00 USD |
-| RN1 | 0 | 0 | 12 | +0.00 USD |
+| RN1 | 0 | 0 | 15 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -25,6 +25,9 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Spread: Texas Rangers (-2.5) | Texas Rangers (BUY) | 54% | 1.89 | ⏳ pendiente | — |
+| RN1 | Spread: Texas Rangers (-2.5) | Texas Rangers (BUY) | 53% | 1.80 | ⏳ pendiente | — |
+| RN1 | San Francisco Giants vs. Texas Rangers:  | Over (BUY) | 67% | 1.77 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 71% | 3.70 | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 61% | 5.95 | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 51% | 3.09 | ⏳ pendiente | — |
