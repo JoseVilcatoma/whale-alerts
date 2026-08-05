@@ -2824,5 +2824,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785945544,
+    "timestamp_added": 1785945545.0017037,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-la-chi-2026-08-05-spread-home-3pt5",
+    "title": "Spread: Chicago Sky (-3.5)",
+    "outcome": "Los Angeles Sparks",
+    "side": "BUY",
+    "whale_usd": 169.54,
+    "whale_pct": 0.273,
+    "paper_stake_usd": 4.01,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
