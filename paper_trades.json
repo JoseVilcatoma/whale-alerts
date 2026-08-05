@@ -2970,5 +2970,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785949230,
+    "timestamp_added": 1785949230.9567826,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-sea-nyl-2026-08-05-spread-home-9pt5",
+    "title": "Spread: New York Liberty (-9.5)",
+    "outcome": "New York Liberty",
+    "side": "BUY",
+    "whale_usd": 1189.0015999999998,
+    "whale_pct": 0.362,
+    "paper_stake_usd": 4.9,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
