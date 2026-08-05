@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 07:42:01 (hora de Perú)
+Actualizado: 2026-08-05 07:45:48 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -12,7 +12,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Pwaddler | 9 | 0 | 1 | 100% |
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | ndb1 | 1 | 0 | 2 | ⚠️ 100% (muestra chica: 1) |
-| patient12 | 49 | 0 | 8 | 100% |
+| patient12 | 49 | 0 | 10 | 100% |
 | highnetworth | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 4 | 100% |
 | RLXDJ19701601 | 2 | 0 | 0 | ⚠️ 100% (muestra chica: 2) |
@@ -22,14 +22,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mentionmarket | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | CHACHA125655 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | Lk1101x | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| matenghehe | 81 | 2 | 17 | 98% |
+| matenghehe | 81 | 2 | 18 | 98% |
 | fazewinline | 23 | 1 | 0 | 96% |
 | paquitomillonario | 22 | 2 | 0 | 92% |
 | TopGleaguepick | 14 | 2 | 5 | 88% |
 | cigarettes | 66 | 10 | 3 | 87% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | texaskid | 18 | 3 | 0 | 86% |
-| elizabeth.ethcome | 12 | 2 | 23 | 86% |
+| elizabeth.ethcome | 12 | 2 | 24 | 86% |
 | quavoo | 5 | 1 | 2 | ⚠️ 83% (muestra chica: 6) |
 | swisstony | 768 | 167 | 64 | 82% |
 | Bigggggggg | 4 | 1 | 34 | ⚠️ 80% (muestra chica: 5) |
@@ -45,11 +45,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 122 | 58 | 0 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
-| 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 4 | 2 | 3 | ⚠️ 67% (muestra chica: 6) |
+| 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 4 | 2 | 4 | ⚠️ 67% (muestra chica: 6) |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 197 | 102 | 9 | 66% |
-| BirdMan. | 55 | 28 | 25 | 66% |
-| RN1 | 1305 | 706 | 97 | 65% |
+| BirdMan. | 55 | 28 | 26 | 66% |
+| RN1 | 1305 | 706 | 98 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 74 | 62% |
 | fRibrenlc | 25 | 15 | 8 | 62% |
 | HomeRunHazard | 447 | 276 | 24 | 62% |
-| ferrariChampions2026 | 2125 | 1365 | 227 | 61% |
+| ferrariChampions2026 | 2125 | 1365 | 233 | 61% |
 | SnakeBall | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 25 | 59% |
@@ -69,7 +69,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | us391 | 29 | 22 | 4 | 57% |
 | meoooow | 23 | 17 | 1 | 57% |
 | MeiGuNiuBi | 4 | 3 | 9 | ⚠️ 57% (muestra chica: 7) |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 27 | 57% |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 28 | 57% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 35 | 30 | 17 | 54% |
 | StasPanda | 21 | 18 | 5 | 54% |
@@ -99,13 +99,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | jtwyslljy | 9 | 20 | 7 | 31% |
-| skyman44 | 4 | 9 | 7 | 31% |
+| skyman44 | 4 | 9 | 8 | 31% |
 | 0x0x23kjookhaiuohduoayh8c9 | 2 | 6 | 5 | 25% |
 | 111111111115 | 11 | 38 | 0 | 22% |
 | neurodivergentBet | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | LeatherPants | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | Anjun | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
-| AV23IUa | 5 | 22 | 2 | 19% |
+| AV23IUa | 5 | 22 | 3 | 19% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | plonker2026 | 4 | 30 | 0 | 12% |
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
