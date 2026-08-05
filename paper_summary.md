@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 13:04:11 (hora de Perú)
+Actualizado: 2026-08-05 13:06:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,351.93
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| Djdjdjekekek | 67 | 0 | 20 | +600.59 USD |
+| Djdjdjekekek | 67 | 0 | 23 | +600.59 USD |
 | RN1 | 14 | 7 | 0 | +11.89 USD |
 | HomeRunHazard | 0 | 0 | 17 | +0.00 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
@@ -31,6 +31,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 35% | 4.54 | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 39% | 5.48 | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 39% | 5.48 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 39% | 27.42 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 39% | 5.48 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 39% | 5.58 | ⏳ pendiente | — |
@@ -58,6 +61,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Tampa Bay Rays vs. Colorado Rockies: O/U | Over (BUY) | 47% | 16.61 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Storm vs. New York Liberty: O/U  | Under (BUY) | 48% | 3.13 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Phoenix Mercury vs. Atlanta Dream: O/U 1 | Under (BUY) | 51% | 1.82 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Phoenix Mercury vs. Atlanta Dream: O/U 1 | Under (BUY) | 51% | 16.23 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Chicago Sky (-3.5) | Los Angeles Sparks (BUY) | 49% | 4.01 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Chicago Sky (-3.5) | Los Angeles Sparks (BUY) | 49% | 16.25 | ⏳ pendiente | — |
