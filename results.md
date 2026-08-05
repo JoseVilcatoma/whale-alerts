@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 05:47:51 (hora de Perú)
+Actualizado: 2026-08-05 05:52:39 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 4 | 2 | 2 | ⚠️ 67% (muestra chica: 6) |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 197 | 102 | 2 | 66% |
-| BirdMan. | 55 | 28 | 17 | 66% |
+| BirdMan. | 55 | 28 | 18 | 66% |
 | RN1 | 1305 | 706 | 56 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ferrariChampions2026 | 2125 | 1365 | 116 | 61% |
 | SnakeBall | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 14 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 15 | 59% |
 | flatbarrel | 13 | 9 | 0 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 2 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |

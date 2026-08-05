@@ -158014,5 +158014,29 @@
     "usd": 1011.4531999999999,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785927118,
+    "username": "BirdMan.",
+    "wallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+    "slug": "dota2-1win-bb4-2026-08-05-game2",
+    "title": "Dota 2: 1win vs BetBoom Team - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "side": "SELL",
+    "usd": 1182.9352000000001,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785927139,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-collign-popyrin-2026-08-06",
+    "title": "National Bank Open: Raphael Collignon vs Alexei Popyrin",
+    "outcome": "Raphael Collignon",
+    "side": "BUY",
+    "usd": 1172.73,
+    "odds_at_bet": 62,
+    "status": "pending"
   }
 ]
