@@ -1,5 +1,5 @@
 {
-  "bankroll": 1027.6258033183778,
+  "bankroll": 1010.8658033183779,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -95,6 +95,11 @@
       "timestamp": 1785904274.9166713,
       "bankroll": 1027.63,
       "event": "won: RN1 \u2014 Detroit Tigers vs. Seattle Mariners: O/U 8.5"
+    },
+    {
+      "timestamp": 1785904341.7966166,
+      "bankroll": 1010.87,
+      "event": "lost: RN1 \u2014 Spread: Detroit Tigers (-2.5)"
     }
   ]
 }
