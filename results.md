@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 04:01:29 (hora de Perú)
+Actualizado: 2026-08-05 04:03:29 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 197 | 102 | 0 | 66% |
 | BirdMan. | 55 | 28 | 1 | 66% |
-| RN1 | 1305 | 706 | 35 | 65% |
+| RN1 | 1305 | 706 | 36 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
@@ -68,7 +68,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | monkeymashingkeyboard | 29 | 22 | 0 | 57% |
 | us391 | 29 | 22 | 0 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
-| MeiGuNiuBi | 4 | 3 | 1 | ⚠️ 57% (muestra chica: 7) |
+| MeiGuNiuBi | 4 | 3 | 2 | ⚠️ 57% (muestra chica: 7) |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 2 | 57% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 35 | 30 | 11 | 54% |
@@ -91,7 +91,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 3 | 45% |
 | PASSTHEMONEY | 45 | 62 | 0 | 42% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
-| TAIWANNUMBERONE | 4 | 6 | 1 | 40% |
+| TAIWANNUMBERONE | 4 | 6 | 3 | 40% |
 | pleaseplease123 | 47 | 74 | 0 | 39% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 30 | 1 | 39% |
 | VPenguin | 10 | 18 | 0 | 36% |
