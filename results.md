@@ -1,12 +1,12 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 20:21:13 (hora de Perú)
+Actualizado: 2026-08-04 20:24:05 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
-| QuietRiskisWrong | 8 | 0 | 39 | 100% |
+| QuietRiskisWrong | 8 | 0 | 40 | 100% |
 | Melody626 | 1 | 0 | 19 | ⚠️ 100% (muestra chica: 1) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
@@ -51,11 +51,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | flatbarrel | 10 | 6 | 6 | 62% |
 | ferrariChampions2026 | 1959 | 1258 | 281 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 83 | 61% |
-| fRibrenlc | 21 | 14 | 4 | 60% |
+| fRibrenlc | 21 | 14 | 5 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 3 | 58% |
-| HomeRunHazard | 300 | 216 | 208 | 58% |
+| HomeRunHazard | 300 | 216 | 209 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 14 | 57% |
 | us391 | 27 | 20 | 4 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
@@ -102,14 +102,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
-| 0x4f2 | 0 | 2 | 35 | ⚠️ 0% (muestra chica: 2) |
+| 0x4f2 | 0 | 2 | 36 | ⚠️ 0% (muestra chica: 2) |
 | CORGI8 | 0 | 6 | 0 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
 | denizz | 0 | 0 | 30 | — |
 | ndb1 | 0 | 0 | 3 | — |
 | BrightStars | 0 | 0 | 4 | — |
-| SnakeBall | 0 | 0 | 4 | — |
+| SnakeBall | 0 | 0 | 5 | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 6 | — |
 | flawfence | 0 | 0 | 3 | — |
 | chanello | 0 | 0 | 2 | — |

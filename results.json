@@ -153826,5 +153826,65 @@
     "usd": 1178.6805080000001,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785892902,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "mlb-det-sea-2026-08-04-total-7pt5",
+    "title": "Detroit Tigers vs. Seattle Mariners: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 5206.402,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785892902,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-det-sea-2026-08-04-total-7pt5",
+    "title": "Detroit Tigers vs. Seattle Mariners: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 4616.998,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785892911,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-tb-col-2026-08-04",
+    "title": "Tampa Bay Rays vs. Colorado Rockies",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 2000.9388000000001,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785892938,
+    "username": "QuietRiskisWrong",
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "slug": "will-the-us-invade-iran-before-2027",
+    "title": "Will the U.S. invade Iran before 2027?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 9990.999999,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785892975,
+    "username": "SnakeBall",
+    "wallet": "0xc29198ad764bd6adaf7bb971a3757a689ece5d74",
+    "slug": "lec-clt-pum-2026-08-04-clt",
+    "title": "Will Charlotte FC win on 2026-08-04?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1647.03,
+    "odds_at_bet": 70,
+    "status": "pending"
   }
 ]
