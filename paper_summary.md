@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 13:18:48 (hora de Perú)
+Actualizado: 2026-08-05 13:20:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,351.93
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 14 | 7 | 0 | +11.89 USD |
 | HomeRunHazard | 0 | 0 | 17 | +0.00 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 11 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 12 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 31 | 18 | -240.66 USD |
 
@@ -31,6 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Toronto Blue Jays vs. Houston Astros: O/ | Over (BUY) | 50% | 17.46 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 40% | 440.13 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 40% | 3.59 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 40% | 5.71 | ⏳ pendiente | — |
@@ -59,5 +60,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 42% | 1.96 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 41% | 87.62 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 35% | 4.54 | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 39% | 5.48 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 39% | 5.48 | ⏳ pendiente | — |
