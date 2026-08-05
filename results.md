@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 19:56:19 (hora de Perú)
+Actualizado: 2026-08-04 19:59:00 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | paquitomillonario | 17 | 1 | 6 | 94% |
 | texaskid | 16 | 1 | 3 | 94% |
 | TopGleaguepick | 14 | 2 | 1 | 88% |
-| cigarettes | 63 | 10 | 3 | 86% |
+| cigarettes | 63 | 10 | 4 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | elizabeth.ethcome | 12 | 2 | 0 | 86% |
 | swisstony | 726 | 156 | 113 | 82% |
@@ -41,21 +41,21 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | BirdMan. | 48 | 24 | 11 | 67% |
 | GoalLineGhost | 196 | 102 | 1 | 66% |
-| RN1 | 1212 | 641 | 188 | 65% |
+| RN1 | 1212 | 641 | 189 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 227 | 49 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
-| VeryLucky888 | 112 | 63 | 53 | 64% |
+| VeryLucky888 | 112 | 63 | 54 | 64% |
 | UpTheBlues | 67 | 40 | 56 | 63% |
 | flatbarrel | 10 | 6 | 5 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 267 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 270 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 80 | 61% |
 | fRibrenlc | 21 | 14 | 2 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 3 | 58% |
-| HomeRunHazard | 300 | 216 | 183 | 58% |
+| HomeRunHazard | 300 | 216 | 185 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 14 | 57% |
 | us391 | 27 | 20 | 4 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
@@ -84,7 +84,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | pleaseplease123 | 43 | 63 | 15 | 41% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 30 | 1 | 39% |
-| Talvez10 | 17 | 30 | 13 | 36% |
+| Talvez10 | 17 | 30 | 14 | 36% |
 | VPenguin | 10 | 18 | 0 | 36% |
 | Flipadelphia | 9 | 18 | 8 | 33% |
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
@@ -102,7 +102,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
-| 0x4f2 | 0 | 2 | 24 | ⚠️ 0% (muestra chica: 2) |
+| 0x4f2 | 0 | 2 | 26 | ⚠️ 0% (muestra chica: 2) |
 | CORGI8 | 0 | 6 | 0 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
