@@ -163738,5 +163738,101 @@
     "usd": 5494.5,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785935009,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-liquid-1win-2026-08-05",
+    "title": "Dota 2: Team Liquid vs 1win (BO3) - 1win Essence Playoffs",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 9298.9681,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785935026,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-dkc-nsea-2026-08-05",
+    "title": "LoL: Dplus KIA Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+    "outcome": "Dplus KIA Challengers",
+    "side": "SELL",
+    "usd": 13900.61547,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785935032,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-1win-bb4-2026-08-05",
+    "title": "Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1119.4294499999999,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785935045,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-liquid-1win-2026-08-05",
+    "title": "Dota 2: Team Liquid vs 1win (BO3) - 1win Essence Playoffs",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 2318.0,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785935054,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-hle1-gen-2026-08-05",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 1006.6599990000001,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785935064,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-liquid-1win-2026-08-05",
+    "title": "Dota 2: Team Liquid vs 1win (BO3) - 1win Essence Playoffs",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1034.3831,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785935068,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "mlb-oak-cin-2026-08-05",
+    "title": "Athletics vs. Cincinnati Reds",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 1075.0,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785935088,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-hle1-gen-2026-08-05",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 2380.949999,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]

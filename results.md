@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 08:03:22 (hora de Perú)
+Actualizado: 2026-08-05 08:05:23 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 66 | 10 | 3 | 87% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | texaskid | 18 | 3 | 0 | 86% |
-| elizabeth.ethcome | 12 | 2 | 24 | 86% |
+| elizabeth.ethcome | 12 | 2 | 25 | 86% |
 | quavoo | 5 | 1 | 2 | ⚠️ 83% (muestra chica: 6) |
 | swisstony | 768 | 167 | 65 | 82% |
 | Bigggggggg | 4 | 1 | 35 | ⚠️ 80% (muestra chica: 5) |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Fallout3 | 16 | 6 | 0 | 73% |
 | Winnerdinnerchickenjr | 13 | 5 | 0 | 72% |
 | SDTrading | 7 | 3 | 0 | 70% |
-| Djdjdjekekek | 122 | 58 | 3 | 68% |
+| Djdjdjekekek | 122 | 58 | 6 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 4 | 2 | 5 | ⚠️ 67% (muestra chica: 6) |
@@ -53,9 +53,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
-| VeryLucky888 | 148 | 81 | 10 | 65% |
+| VeryLucky888 | 148 | 81 | 11 | 65% |
 | UpTheBlues | 82 | 51 | 44 | 62% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 81 | 62% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 82 | 62% |
 | fRibrenlc | 25 | 15 | 8 | 62% |
 | HomeRunHazard | 447 | 276 | 27 | 62% |
 | ferrariChampions2026 | 2125 | 1365 | 243 | 61% |
@@ -69,7 +69,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | us391 | 29 | 22 | 4 | 57% |
 | meoooow | 23 | 17 | 1 | 57% |
 | MeiGuNiuBi | 4 | 3 | 9 | ⚠️ 57% (muestra chica: 7) |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 29 | 57% |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 31 | 57% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 35 | 30 | 17 | 54% |
 | StasPanda | 21 | 18 | 5 | 54% |
