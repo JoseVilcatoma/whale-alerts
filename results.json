@@ -151630,5 +151630,41 @@
     "usd": 4312.5,
     "odds_at_bet": 92,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785889895,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-nym-cle-2026-08-04",
+    "title": "New York Mets vs. Cleveland Guardians",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 1198.8724,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785889932,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-stl-nyy-2026-08-04-total-4pt5",
+    "title": "St. Louis Cardinals vs. New York Yankees: O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1144.9959000000001,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785889932,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-stl-nyy-2026-08-04-total-4pt5",
+    "title": "St. Louis Cardinals vs. New York Yankees: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1100.0941,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]

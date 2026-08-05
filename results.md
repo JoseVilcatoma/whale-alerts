@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 19:30:23 (hora de Perú)
+Actualizado: 2026-08-04 19:32:56 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 3 | 58% |
-| HomeRunHazard | 300 | 216 | 171 | 58% |
+| HomeRunHazard | 300 | 216 | 173 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 14 | 57% |
 | us391 | 27 | 20 | 4 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
@@ -65,7 +65,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | lllllllIlll | 9 | 8 | 1 | 53% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 59 | 34 | 52% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 31 | 30 | 12 | 51% |
-| wr0ngw4yb3tt0r | 144 | 144 | 57 | 50% |
+| wr0ngw4yb3tt0r | 144 | 144 | 58 | 50% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 3 | 50% |
 | SDTrading | 3 | 3 | 4 | ⚠️ 50% (muestra chica: 6) |
