@@ -168166,5 +168166,53 @@
     "usd": 1075.1712,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785940954,
+    "username": "Flipadelphia",
+    "wallet": "0x448861155279dbf833d041b963e3ac854599e319",
+    "slug": "will-shri-thanedar-be-the-democratic-nominee-for-mi-13",
+    "title": "Will Shri Thanedar be the Democratic Nominee for MI-13?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2641.5557999999996,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785940969,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-liquid-1win-2026-08-05-game2",
+    "title": "Dota 2: Team Liquid vs 1win - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1897.5726,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785940988,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-liquid-1win-2026-08-05-game2",
+    "title": "Dota 2: Team Liquid vs 1win - Game 2 Winner",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 1253.8134,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785941001,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-liquid-1win-2026-08-05-game2",
+    "title": "Dota 2: Team Liquid vs 1win - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 3022.0,
+    "odds_at_bet": 40,
+    "status": "pending"
   }
 ]
