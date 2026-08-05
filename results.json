@@ -167122,5 +167122,77 @@
     "usd": 1774.0052999999998,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785939248,
+    "username": "patient12",
+    "wallet": "0xe291a588ece487f3323736c55c6144f6a99e748e",
+    "slug": "dota2-playti-yb1-2026-08-05-game2",
+    "title": "Dota 2: PlayTime vs Yakult Brothers - Game 2 Winner",
+    "outcome": "PlayTime",
+    "side": "BUY",
+    "usd": 1300.0,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785939256,
+    "username": "patient12",
+    "wallet": "0xe291a588ece487f3323736c55c6144f6a99e748e",
+    "slug": "dota2-playti-yb1-2026-08-05-game2",
+    "title": "Dota 2: PlayTime vs Yakult Brothers - Game 2 Winner",
+    "outcome": "PlayTime",
+    "side": "BUY",
+    "usd": 3250.65,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785939266,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-playti-yb1-2026-08-05-game2",
+    "title": "Dota 2: PlayTime vs Yakult Brothers - Game 2 Winner",
+    "outcome": "Yakult Brothers",
+    "side": "BUY",
+    "usd": 1030.30303,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785939272,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-playti-yb1-2026-08-05-game2",
+    "title": "Dota 2: PlayTime vs Yakult Brothers - Game 2 Winner",
+    "outcome": "Yakult Brothers",
+    "side": "BUY",
+    "usd": 1030.30303,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785939276,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-playti-yb1-2026-08-05-game2",
+    "title": "Dota 2: PlayTime vs Yakult Brothers - Game 2 Winner",
+    "outcome": "PlayTime",
+    "side": "BUY",
+    "usd": 102447.12720000002,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785939276,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-playti-yb1-2026-08-05-game2",
+    "title": "Dota 2: PlayTime vs Yakult Brothers - Game 2 Winner",
+    "outcome": "Yakult Brothers",
+    "side": "BUY",
+    "usd": 52483.3962,
+    "odds_at_bet": 34,
+    "status": "pending"
   }
 ]
