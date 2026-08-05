@@ -156730,5 +156730,77 @@
     "usd": 1109.2463999999998,
     "odds_at_bet": 72,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785924904,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-kawa-mikulsk-2026-08-05",
+    "title": "Warsaw: Katarzyna Kawa vs Justina Mikulskyte",
+    "outcome": "Katarzyna Kawa",
+    "side": "BUY",
+    "usd": 2074.0,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785924904,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-kawa-mikulsk-2026-08-05",
+    "title": "Warsaw: Katarzyna Kawa vs Justina Mikulskyte",
+    "outcome": "Justina Mikulskyte",
+    "side": "BUY",
+    "usd": 1326.0,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785924926,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-jdg-lgd-2026-08-05-game2",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1428.57,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785924947,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 3864.2731999999996,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785924947,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 1314.6936,
+    "odds_at_bet": 24,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785924949,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-jdg-lgd-2026-08-05-game2",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 7325.567399999999,
+    "odds_at_bet": 38,
+    "status": "pending"
   }
 ]
