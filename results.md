@@ -1,12 +1,12 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-04 20:18:23 (hora de Perú)
+Actualizado: 2026-08-04 20:21:13 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto |
 |---|---|---|---|---|
-| QuietRiskisWrong | 8 | 0 | 38 | 100% |
+| QuietRiskisWrong | 8 | 0 | 39 | 100% |
 | Melody626 | 1 | 0 | 19 | ⚠️ 100% (muestra chica: 1) |
 | IamFKINGbankrupt | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | 0x917182c1Eb3257B2E2e4959D48228AF78Bfe9E5F-1761889623781 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
@@ -23,7 +23,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | matenghehe | 81 | 2 | 0 | 98% |
 | fazewinline | 23 | 1 | 0 | 96% |
 | paquitomillonario | 17 | 1 | 6 | 94% |
-| texaskid | 16 | 1 | 3 | 94% |
+| texaskid | 16 | 1 | 4 | 94% |
 | TopGleaguepick | 14 | 2 | 1 | 88% |
 | cigarettes | 63 | 10 | 4 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
@@ -47,15 +47,15 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 112 | 63 | 59 | 64% |
-| UpTheBlues | 67 | 40 | 56 | 63% |
+| UpTheBlues | 67 | 40 | 57 | 63% |
 | flatbarrel | 10 | 6 | 6 | 62% |
-| ferrariChampions2026 | 1959 | 1258 | 280 | 61% |
+| ferrariChampions2026 | 1959 | 1258 | 281 | 61% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 152 | 98 | 83 | 61% |
 | fRibrenlc | 21 | 14 | 4 | 60% |
 | StasPanda | 20 | 14 | 8 | 59% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 0 | 59% |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 28 | 20 | 3 | 58% |
-| HomeRunHazard | 300 | 216 | 207 | 58% |
+| HomeRunHazard | 300 | 216 | 208 | 58% |
 | monkeymashingkeyboard | 21 | 16 | 14 | 57% |
 | us391 | 27 | 20 | 4 | 57% |
 | meoooow | 23 | 17 | 0 | 57% |
@@ -102,7 +102,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
-| 0x4f2 | 0 | 2 | 33 | ⚠️ 0% (muestra chica: 2) |
+| 0x4f2 | 0 | 2 | 35 | ⚠️ 0% (muestra chica: 2) |
 | CORGI8 | 0 | 6 | 0 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
@@ -119,4 +119,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 3 | — |
 | mentionmarket | 0 | 0 | 1 | — |
 | CHACHA125655 | 0 | 0 | 1 | — |
-| Lk1101x | 0 | 0 | 3 | — |
+| Lk1101x | 0 | 0 | 4 | — |
