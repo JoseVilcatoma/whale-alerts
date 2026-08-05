@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 08:49:11 (hora de Perú)
+Actualizado: 2026-08-05 08:51:35 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | swisstony | 768 | 167 | 71 | 82% |
 | Bigggggggg | 4 | 1 | 35 | ⚠️ 80% (muestra chica: 5) |
 | mooseborzoi | 63 | 20 | 0 | 76% |
-| fkgggg2mouzfuria | 95 | 30 | 32 | 76% |
+| fkgggg2mouzfuria | 95 | 30 | 34 | 76% |
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | one8tyfive | 49 | 17 | 1 | 74% |
@@ -66,7 +66,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 7 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
 | monkeymashingkeyboard | 29 | 22 | 1 | 57% |
-| us391 | 29 | 22 | 4 | 57% |
+| us391 | 29 | 22 | 5 | 57% |
 | meoooow | 23 | 17 | 1 | 57% |
 | MeiGuNiuBi | 4 | 3 | 9 | ⚠️ 57% (muestra chica: 7) |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 36 | 57% |

@@ -166486,5 +166486,41 @@
     "usd": 3423.8925,
     "odds_at_bet": 63,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785937776,
+    "username": "us391",
+    "wallet": "0x3f3aa7005f8006bfcc367d43a25cde25509fe8fd",
+    "slug": "ucl-agf-sf-2026-08-05-total-2pt5",
+    "title": "Aarhus GF vs. Sabah FK: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1544.5006,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785937859,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-hle1-gen-2026-08-05",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 29591.4858,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785937866,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-hle1-gen-2026-08-05",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 48282.81479999999,
+    "odds_at_bet": 99,
+    "status": "pending"
   }
 ]
