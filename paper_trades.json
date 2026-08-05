@@ -2770,5 +2770,41 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785945184,
+    "timestamp_added": 1785945184.7458694,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-sea-nyl-2026-08-05-total-182pt5",
+    "title": "Seattle Storm vs. New York Liberty: O/U 182.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1299.5568919999998,
+    "whale_pct": 2.159,
+    "paper_stake_usd": 31.74,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785945268,
+    "timestamp_added": 1785945269.1628356,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-sea-nyl-2026-08-05-spread-home-8pt5",
+    "title": "Spread: New York Liberty (-8.5)",
+    "outcome": "New York Liberty",
+    "side": "BUY",
+    "whale_usd": 462.99920000000003,
+    "whale_pct": 0.75,
+    "paper_stake_usd": 11.04,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 10:52:47 (hora de Perú)
+Actualizado: 2026-08-05 10:54:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,470.39
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 14 | 7 | 0 | +11.89 USD |
 | HomeRunHazard | 0 | 0 | 13 | +0.00 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 13 | 36 | -122.20 USD |
 
@@ -29,6 +29,8 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 46% | 11.04 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Seattle Storm vs. New York Liberty: O/U  | Under (BUY) | 48% | 31.74 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Dallas Wings vs. Washington Mystics: O/U | Under (BUY) | 46% | 2.25 | ⏳ pendiente | — |
 | texaskid | St. Louis Cardinals vs. New York Yankees | Under (BUY) | 51% | 7.40 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
@@ -57,5 +59,3 @@ _Todavía no hubo coincidencias._
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 48% | 2.50 | ✅ ganada | +2.71 |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 15.92 | ✅ ganada | +15.92 |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 4.88 | ✅ ganada | +4.88 |
-| Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 2.60 | ✅ ganada | +2.60 |
-| Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 21.79 | ✅ ganada | +21.79 |
