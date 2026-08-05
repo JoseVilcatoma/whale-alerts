@@ -152590,5 +152590,77 @@
     "usd": 10399.570500000002,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785891273,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-lad-chc-2026-08-04",
+    "title": "Los Angeles Dodgers vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 1159.133,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785891276,
+    "username": "Melody626",
+    "wallet": "0xecaa8806a9a05049d7d5260a33dc924220e377a9",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 4370.736,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785891311,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-mia-atl-2026-08-04",
+    "title": "Miami Marlins vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 1637.9235,
+    "odds_at_bet": 95,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785891323,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-nyy-2026-08-04-spread-home-1pt5",
+    "title": "Spread: New York Yankees (-1.5)",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 1588.4,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785891327,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-nyy-2026-08-04-spread-home-1pt5",
+    "title": "Spread: New York Yankees (-1.5)",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 1968.4,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785891331,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-nyy-2026-08-04-spread-home-1pt5",
+    "title": "Spread: New York Yankees (-1.5)",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 1968.4,
+    "odds_at_bet": 76,
+    "status": "pending"
   }
 ]
