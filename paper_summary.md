@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 21:27:47 (hora de Perú)
+Actualizado: 2026-08-04 21:29:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -13,9 +13,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 5 | +0.00 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 8 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 2 | +0.00 USD |
-| RN1 | 0 | 0 | 6 | +0.00 USD |
+| RN1 | 0 | 0 | 9 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -25,6 +25,12 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Spread: Colorado Rockies (-1.5) | Tampa Bay Rays (BUY) | 49% | 4.91 | ⏳ pendiente | — |
+| RN1 | Spread: Colorado Rockies (-1.5) | Tampa Bay Rays (BUY) | 49% | 4.91 | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Johnny Speeds vs Betclic | Johnny Speeds (BUY) | 43% | 25.58 | ⏳ pendiente | — |
+| RN1 | Spread: Colorado Rockies (-1.5) | Tampa Bay Rays (BUY) | 49% | 1.60 | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 67% | 1.67 | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 71% | 2.85 | ⏳ pendiente | — |
 | RN1 | Spread: San Francisco Giants (-1.5) | Texas Rangers (BUY) | 85% | 1.24 | ⏳ pendiente | — |
 | RN1 | Minnesota Twins vs. Kansas City Royals:  | Over (BUY) | 41% | 1.03 | ⏳ pendiente | — |
 | RN1 | Toronto Blue Jays vs. Houston Astros: O/ | Over (BUY) | 72% | 22.20 | ⏳ pendiente | — |
