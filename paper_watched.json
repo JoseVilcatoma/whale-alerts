@@ -2,20 +2,14 @@
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1785899997.7825375,
-    "roi_pct": 311.82,
-    "short_term_pct": 100.0
+    "roi_pct": 238.88,
+    "short_term_pct": 90.0
   },
   "0xa71093cafc0c099b4ccab24c3cb8018d817923c4": {
     "username": "Talvez10",
     "added_at": 1785900900.6473253,
     "roi_pct": 318.89,
     "short_term_pct": 100.0
-  },
-  "0x79ae097215202b5d01f98e4479fb219102469a4a": {
-    "username": "CORGI8",
-    "added_at": 1785943231.9229481,
-    "roi_pct": 2331.9,
-    "short_term_pct": 90.0
   },
   "0xc8075693f48668a264b9fa313b47f52712fcc12b": {
     "username": "texaskid",
@@ -27,6 +21,12 @@
     "username": "matenghehe",
     "added_at": 1785943231.9229617,
     "roi_pct": 141.63,
+    "short_term_pct": 100.0
+  },
+  "0xe291a588ece487f3323736c55c6144f6a99e748e": {
+    "username": "patient12",
+    "added_at": 1785946891.0893636,
+    "roi_pct": 28.97,
     "short_term_pct": 100.0
   }
 }
