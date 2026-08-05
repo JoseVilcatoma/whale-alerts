@@ -1,5 +1,5 @@
 {
-  "bankroll": 1413.0714189065968,
+  "bankroll": 2993.8849770173447,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -695,6 +695,376 @@
       "timestamp": 1785960579.0562534,
       "bankroll": 1413.07,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Prospects (BO3) - NODWIN Clutch Series Playoffs"
+    },
+    {
+      "timestamp": 1785973893.3634183,
+      "bankroll": 1413.07,
+      "event": "lost: HomeRunHazard \u2014 Spread: Houston Astros (-1.5)"
+    },
+    {
+      "timestamp": 1785973894.7416286,
+      "bankroll": 1413.07,
+      "event": "lost: HomeRunHazard \u2014 Spread: Houston Astros (-1.5)"
+    },
+    {
+      "timestamp": 1785973894.8417997,
+      "bankroll": 1413.07,
+      "event": "lost: HomeRunHazard \u2014 Spread: Houston Astros (-1.5)"
+    },
+    {
+      "timestamp": 1785973894.941997,
+      "bankroll": 1413.07,
+      "event": "lost: HomeRunHazard \u2014 Spread: Houston Astros (-1.5)"
+    },
+    {
+      "timestamp": 1785973897.5607986,
+      "bankroll": 1396.46,
+      "event": "lost: HomeRunHazard \u2014 Tampa Bay Rays vs. Colorado Rockies: O/U 11.5"
+    },
+    {
+      "timestamp": 1785973897.6609898,
+      "bankroll": 1399.12,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Houston Astros (-1.5)"
+    },
+    {
+      "timestamp": 1785973897.9448538,
+      "bankroll": 1389.66,
+      "event": "lost: HomeRunHazard \u2014 Tampa Bay Rays vs. Colorado Rockies: O/U 11.5"
+    },
+    {
+      "timestamp": 1785973898.2900867,
+      "bankroll": 1406.17,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973898.3901997,
+      "bankroll": 1410.29,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973898.4903839,
+      "bankroll": 1414.1,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973898.5905178,
+      "bankroll": 1427.08,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973898.690691,
+      "bankroll": 1437.72,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973898.790859,
+      "bankroll": 1441.21,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973898.8909898,
+      "bankroll": 1447.01,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973898.991141,
+      "bankroll": 1451.04,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973899.0912955,
+      "bankroll": 1503.18,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973899.1914394,
+      "bankroll": 1507.29,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973899.2916307,
+      "bankroll": 1511.32,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973899.392091,
+      "bankroll": 1520.83,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973899.49226,
+      "bankroll": 1568.39,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973899.5924234,
+      "bankroll": 1572.77,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973899.6925821,
+      "bankroll": 1579.79,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973899.792696,
+      "bankroll": 1587.94,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973899.8928142,
+      "bankroll": 1598.25,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973899.992934,
+      "bankroll": 1606.98,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973900.0931296,
+      "bankroll": 1615.55,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973900.1932569,
+      "bankroll": 1658.44,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973900.2933922,
+      "bankroll": 1667.01,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973900.393642,
+      "bankroll": 1675.58,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973900.4937675,
+      "bankroll": 1684.01,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973900.5938902,
+      "bankroll": 1810.1,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973900.6940074,
+      "bankroll": 1812.8,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973900.794129,
+      "bankroll": 1817.51,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973900.894249,
+      "bankroll": 1825.3,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973900.994377,
+      "bankroll": 1828.59,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973901.0945194,
+      "bankroll": 2032.71,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973901.1946473,
+      "bankroll": 2069.78,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Houston Astros (-1.5)"
+    },
+    {
+      "timestamp": 1785973901.2947795,
+      "bankroll": 2072.39,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973901.3950028,
+      "bankroll": 2082.25,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973901.495151,
+      "bankroll": 2094.95,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Houston Astros (-1.5)"
+    },
+    {
+      "timestamp": 1785973901.5952559,
+      "bankroll": 2102.48,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973901.6953967,
+      "bankroll": 2109.8,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973901.795546,
+      "bankroll": 2117.06,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973901.8956807,
+      "bankroll": 2124.01,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973901.9958797,
+      "bankroll": 2130.92,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973902.0960028,
+      "bankroll": 2137.43,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973902.196179,
+      "bankroll": 2139.91,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973902.296318,
+      "bankroll": 2149.01,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973902.396433,
+      "bankroll": 2176.36,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973902.496546,
+      "bankroll": 2183.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973902.5966754,
+      "bankroll": 2186.2,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973902.6968603,
+      "bankroll": 2190.74,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973902.7969956,
+      "bankroll": 2235.52,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973902.8971596,
+      "bankroll": 2238.47,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973902.9972932,
+      "bankroll": 2247.04,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973903.0974674,
+      "bankroll": 2252.42,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973903.1976495,
+      "bankroll": 2912.62,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973903.3964279,
+      "bankroll": 2930.08,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Toronto Blue Jays vs. Houston Astros: O/U 7.5"
+    },
+    {
+      "timestamp": 1785973903.4965563,
+      "bankroll": 2962.76,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785973903.822138,
+      "bankroll": 2957.69,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Falcons vs Team Liquid - Game 3 Winner"
+    },
+    {
+      "timestamp": 1785973903.922313,
+      "bankroll": 2971.77,
+      "event": "won: CORGI8 \u2014 Dota 2: Team Falcons vs Team Liquid - Game 3 Winner"
+    },
+    {
+      "timestamp": 1785973904.0224996,
+      "bankroll": 2996.75,
+      "event": "won: CORGI8 \u2014 Dota 2: Team Falcons vs Team Liquid - Game 3 Winner"
+    },
+    {
+      "timestamp": 1785973904.1227248,
+      "bankroll": 2999.46,
+      "event": "won: CORGI8 \u2014 Dota 2: Team Falcons vs Team Liquid - Game 3 Winner"
+    },
+    {
+      "timestamp": 1785973904.222858,
+      "bankroll": 3001.99,
+      "event": "won: CORGI8 \u2014 Dota 2: Team Falcons vs Team Liquid - Game 3 Winner"
+    },
+    {
+      "timestamp": 1785973904.3229818,
+      "bankroll": 3085.16,
+      "event": "won: CORGI8 \u2014 Dota 2: Team Falcons vs Team Liquid - Game 3 Winner"
+    },
+    {
+      "timestamp": 1785973904.4230983,
+      "bankroll": 3081.1,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Falcons vs Team Liquid - Game 3 Winner"
+    },
+    {
+      "timestamp": 1785973904.5232258,
+      "bankroll": 3072.68,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Falcons vs Team Liquid - Game 3 Winner"
+    },
+    {
+      "timestamp": 1785973904.6233492,
+      "bankroll": 3055.59,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Falcons vs Team Liquid - Game 3 Winner"
+    },
+    {
+      "timestamp": 1785973904.723516,
+      "bankroll": 3034.04,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Falcons vs Team Liquid - Game 3 Winner"
+    },
+    {
+      "timestamp": 1785973904.8236413,
+      "bankroll": 3030.09,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Falcons vs Team Liquid - Game 3 Winner"
+    },
+    {
+      "timestamp": 1785973904.9238348,
+      "bankroll": 3013.78,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Falcons vs Team Liquid - Game 3 Winner"
+    },
+    {
+      "timestamp": 1785973905.0239494,
+      "bankroll": 2993.88,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Falcons vs Team Liquid - Game 3 Winner"
+    },
+    {
+      "timestamp": 1785973905.124062,
+      "bankroll": 2993.88,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Falcons vs Team Liquid - Game 3 Winner"
+    },
+    {
+      "timestamp": 1785973905.224225,
+      "bankroll": 2993.88,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Falcons vs Team Liquid - Game 3 Winner"
     }
   ]
 }
