@@ -124,5 +124,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785895883,
+    "timestamp_added": 1785895883.669349,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-sd-ari-2026-08-04-spread-away-2pt5",
+    "title": "Spread: San Diego Padres (-2.5)",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "whale_usd": 295.0,
+    "whale_pct": 0.148,
+    "paper_stake_usd": 1.48,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
