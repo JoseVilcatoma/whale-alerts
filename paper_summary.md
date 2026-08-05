@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 00:08:30 (hora de Perú)
+Actualizado: 2026-08-05 00:10:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $991.99
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | RN1 | 14 | 7 | 0 | +11.89 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 49 | +0.00 USD |
-| Djdjdjekekek | 0 | 0 | 59 | +0.00 USD |
+| Djdjdjekekek | 0 | 0 | 60 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -26,6 +26,7 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 48% | 2.50 | ⏳ pendiente | — |
@@ -43,7 +44,6 @@ _Todavía no hubo coincidencias._
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Johnny Speeds vs Betclic | Johnny Speeds (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 0.00 | ⏳ pendiente | — |
