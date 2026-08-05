@@ -700,5 +700,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785899073,
+    "timestamp_added": 1785899073.4784539,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-tl1-fnc-2026-08-05",
+    "title": "Counter-Strike: Liquid vs fnatic (BO3) - Stake Pulse Beat I Playoffs",
+    "outcome": "fnatic",
+    "side": "BUY",
+    "whale_usd": 47.41179999999999,
+    "whale_pct": 0.2,
+    "paper_stake_usd": 1.96,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
