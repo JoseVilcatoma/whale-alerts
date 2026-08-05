@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 10:28:25 (hora de Perú)
+Actualizado: 2026-08-05 10:30:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,470.39
@@ -16,6 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 67 | 0 | 0 | +600.59 USD |
 | RN1 | 14 | 7 | 0 | +11.89 USD |
 | HomeRunHazard | 0 | 0 | 13 | +0.00 USD |
+| texaskid | 0 | 0 | 1 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 13 | 36 | -122.20 USD |
 
@@ -27,6 +28,7 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | St. Louis Cardinals vs. New York Yankees | Under (BUY) | 51% | 7.40 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago White Sox vs. Boston Red Sox: O/ | Under (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 42% | 0.00 | ⏳ pendiente | — |
@@ -56,4 +58,3 @@ _Todavía no hubo coincidencias._
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 2.60 | ✅ ganada | +2.60 |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 21.79 | ✅ ganada | +21.79 |
 | Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 1.90 | ✅ ganada | +1.90 |
-| Djdjdjekekek | Dota 2: 1win vs BetBoom Team (BO3) - 1wi | 1win (BUY) | 50% | 4.96 | ✅ ganada | +4.96 |
