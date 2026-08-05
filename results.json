@@ -154150,5 +154150,41 @@
     "usd": 2474.5648140000003,
     "odds_at_bet": 73,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785920660,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-jorge-li-2026-08-05",
+    "title": "ITF Ourense: Francisca Jorge vs Zongyu Li",
+    "outcome": "Francisca Jorge",
+    "side": "BUY",
+    "usd": 1145.58,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785920671,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-1win-bb4-2026-08-05-game1",
+    "title": "Dota 2: 1win vs BetBoom Team - Game 1 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 19999.999999,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785920714,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-canas-donski-2026-08-05",
+    "title": "Grodzisk Mazowiecki: Alejandro Moro Canas vs Alexander Donski",
+    "outcome": "Alexander Donski",
+    "side": "BUY",
+    "usd": 2337.79,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]
