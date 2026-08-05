@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 09:23:30 (hora de Perú)
+Actualizado: 2026-08-05 09:30:51 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -12,7 +12,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Pwaddler | 9 | 0 | 1 | 100% |
 | olivermoon1 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | ndb1 | 1 | 0 | 2 | ⚠️ 100% (muestra chica: 1) |
-| patient12 | 49 | 0 | 20 | 100% |
+| patient12 | 54 | 0 | 15 | 100% |
 | highnetworth | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 0 | 11 | 100% |
 | RLXDJ19701601 | 2 | 0 | 0 | ⚠️ 100% (muestra chica: 2) |
@@ -22,89 +22,90 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mentionmarket | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | CHACHA125655 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | Lk1101x | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| matenghehe | 81 | 2 | 32 | 98% |
-| fazewinline | 23 | 1 | 7 | 96% |
+| matenghehe | 87 | 2 | 26 | 98% |
 | paquitomillonario | 22 | 2 | 0 | 92% |
-| TopGleaguepick | 14 | 2 | 9 | 88% |
-| cigarettes | 66 | 10 | 5 | 87% |
+| fazewinline | 23 | 2 | 6 | 92% |
+| TopGleaguepick | 16 | 2 | 7 | 89% |
+| cigarettes | 67 | 11 | 3 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | texaskid | 18 | 3 | 0 | 86% |
-| elizabeth.ethcome | 12 | 2 | 28 | 86% |
 | quavoo | 5 | 1 | 3 | ⚠️ 83% (muestra chica: 6) |
-| swisstony | 768 | 167 | 71 | 82% |
+| swisstony | 769 | 167 | 70 | 82% |
 | Bigggggggg | 4 | 1 | 35 | ⚠️ 80% (muestra chica: 5) |
+| 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 7 | 2 | 4 | 78% |
+| elizabeth.ethcome | 24 | 7 | 11 | 77% |
 | mooseborzoi | 63 | 20 | 0 | 76% |
-| fkgggg2mouzfuria | 95 | 30 | 36 | 76% |
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
 | CentralCasting | 17 | 6 | 1 | 74% |
 | one8tyfive | 49 | 17 | 1 | 74% |
 | Spicer | 29 | 10 | 0 | 74% |
+| fkgggg2mouzfuria | 101 | 35 | 25 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
 | Winnerdinnerchickenjr | 13 | 5 | 0 | 72% |
 | SDTrading | 7 | 3 | 0 | 70% |
 | Djdjdjekekek | 122 | 58 | 14 | 68% |
+| BirdMan. | 68 | 32 | 18 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
-| 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 4 | 2 | 7 | ⚠️ 67% (muestra chica: 6) |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 197 | 102 | 9 | 66% |
-| BirdMan. | 55 | 28 | 35 | 66% |
-| RN1 | 1305 | 706 | 131 | 65% |
+| RN1 | 1343 | 715 | 86 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 148 | 81 | 13 | 65% |
-| UpTheBlues | 82 | 51 | 48 | 62% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 122 | 62% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 458 | 271 | 87 | 63% |
+| UpTheBlues | 83 | 51 | 47 | 62% |
 | fRibrenlc | 25 | 15 | 8 | 62% |
-| HomeRunHazard | 447 | 276 | 32 | 62% |
-| ferrariChampions2026 | 2125 | 1365 | 306 | 61% |
+| HomeRunHazard | 462 | 280 | 15 | 62% |
+| ferrariChampions2026 | 2211 | 1424 | 162 | 61% |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 25 | 17 | 36 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 35 | 59% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 195 | 136 | 32 | 59% |
 | flatbarrel | 13 | 9 | 1 | 59% |
-| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 7 | 7 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
 | monkeymashingkeyboard | 29 | 22 | 1 | 57% |
 | us391 | 29 | 22 | 5 | 57% |
-| meoooow | 23 | 17 | 1 | 57% |
-| MeiGuNiuBi | 4 | 3 | 9 | ⚠️ 57% (muestra chica: 7) |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 20 | 15 | 42 | 57% |
+| meoooow | 23 | 18 | 0 | 56% |
+| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 10 | 8 | 6 | 56% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 35 | 30 | 17 | 54% |
 | StasPanda | 21 | 18 | 5 | 54% |
 | AnonymousUsername | 50 | 45 | 1 | 53% |
-| wr0ngw4yb3tt0r | 184 | 174 | 1 | 51% |
+| wr0ngw4yb3tt0r | 184 | 174 | 2 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 5 | 50% |
 | Melody626 | 3 | 3 | 14 | ⚠️ 50% (muestra chica: 6) |
 | lllllllIlll | 9 | 9 | 3 | 50% |
-| canoflanagan | 2 | 2 | 17 | ⚠️ 50% (muestra chica: 4) |
+| canoflanagan | 4 | 4 | 13 | 50% |
 | chanello | 1 | 1 | 1 | ⚠️ 50% (muestra chica: 2) |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 35 | 38 | 9 | 48% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 47 | 2 | 48% |
+| esportGG | 87 | 96 | 10 | 48% |
+|  | 15 | 16 | 17 | 48% |
 | sbsigner | 40 | 45 | 2 | 47% |
-| esportGG | 85 | 96 | 12 | 47% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | Talvez10 | 28 | 33 | 0 | 46% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 73 | 85 | 0 | 46% |
-|  | 12 | 14 | 20 | 46% |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 77 | 96 | 42 | 45% |
-| PASSTHEMONEY | 45 | 62 | 40 | 42% |
+| PASSTHEMONEY | 52 | 67 | 28 | 44% |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 81 | 104 | 30 | 44% |
+| MeiGuNiuBi | 4 | 5 | 7 | 44% |
+| TAIWANNUMBERONE | 7 | 10 | 9 | 41% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
-| TAIWANNUMBERONE | 4 | 6 | 16 | 40% |
 | pleaseplease123 | 47 | 74 | 0 | 39% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 30 | 1 | 39% |
-| VPenguin | 10 | 18 | 10 | 36% |
 | Flipadelphia | 11 | 22 | 5 | 33% |
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
-| jtwyslljy | 9 | 20 | 9 | 31% |
+| VPenguin | 10 | 21 | 7 | 32% |
 | skyman44 | 4 | 9 | 10 | 31% |
+| jtwyslljy | 9 | 26 | 3 | 26% |
 | 0x0x23kjookhaiuohduoayh8c9 | 2 | 6 | 8 | 25% |
 | 111111111115 | 11 | 38 | 0 | 22% |
 | neurodivergentBet | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | LeatherPants | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | Anjun | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
+| CORGI8 | 2 | 8 | 6 | 20% |
 | AV23IUa | 5 | 22 | 6 | 19% |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | plonker2026 | 4 | 30 | 0 | 12% |
@@ -113,7 +114,6 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
 | 0way | 0 | 8 | 0 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
-| CORGI8 | 0 | 6 | 10 | ⚠️ 0% (muestra chica: 6) |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 6 | 13 | ⚠️ 0% (muestra chica: 6) |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
