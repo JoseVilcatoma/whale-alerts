@@ -502,5 +502,41 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785897805,
+    "timestamp_added": 1785897805.5738704,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-ntr-cyb-2026-08-05",
+    "title": "Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Prospects (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "Nuclear TigeRES",
+    "side": "BUY",
+    "whale_usd": 387.8856,
+    "whale_pct": 0.933,
+    "paper_stake_usd": 9.35,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785897808,
+    "timestamp_added": 1785897808.4663973,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-js1-bca-2026-08-05",
+    "title": "Counter-Strike: Johnny Speeds vs Betclic Apogee Esports (BO3) - Stake Pulse Beat I Playoffs",
+    "outcome": "Johnny Speeds",
+    "side": "BUY",
+    "whale_usd": 588.326,
+    "whale_pct": 1.415,
+    "paper_stake_usd": 14.18,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
