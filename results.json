@@ -155758,5 +155758,65 @@
     "usd": 1397.6676,
     "odds_at_bet": 37,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785922633,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-jdg-lgd-2026-08-05-game1",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 1 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 1693.3,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922652,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-jdg-lgd-2026-08-05-game1",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 1 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 1449.2228000000002,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922663,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-jdg-lgd-2026-08-05-game1",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 1 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 1427.9107000000001,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922696,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "itf-szab-zolota-2026-08-05",
+    "title": "ITF Koksijde: Briana Szabo vs Anastasia Zolotareva",
+    "outcome": "Briana Szabo",
+    "side": "BUY",
+    "usd": 2293.079995,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922704,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "ucl-agf-sf-2026-08-05-spread-home-1pt5",
+    "title": "Spread: Aarhus GF (-1.5)",
+    "outcome": "Sabah FK",
+    "side": "BUY",
+    "usd": 4997.315600000001,
+    "odds_at_bet": 67,
+    "status": "pending"
   }
 ]
