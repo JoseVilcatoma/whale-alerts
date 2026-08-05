@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 22:33:19 (hora de Perú)
+Actualizado: 2026-08-04 22:35:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,008.67
-**Retorno acumulado:** +0.87%
+**Bankroll actual:** $1,009.54
+**Retorno acumulado:** +0.95%
 **Peor caída desde un máximo (drawdown):** 2.22%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| RN1 | 5 | 4 | 12 | +8.67 USD |
+| RN1 | 7 | 4 | 10 | +9.54 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 34 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 2 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 1 | +0.00 USD |
@@ -39,7 +39,7 @@ _Todavía no hubo coincidencias._
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Liquid vs fnatic (BO3) - | fnatic (BUY) | 38% | 22.92 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Johnny Speeds vs Betclic | Johnny Speeds (BUY) | 44% | 11.07 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 72% | 21.01 | ⏳ pendiente | — |
-| RN1 | Tampa Bay Rays vs. Colorado Rockies: O/U | Over (BUY) | 64% | 1.42 | ⏳ pendiente | — |
+| RN1 | Tampa Bay Rays vs. Colorado Rockies: O/U | Over (BUY) | 64% | 1.42 | ✅ ganada | +0.80 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Liquid vs fnatic (BO3) - | fnatic (BUY) | 37% | 2.27 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Liquid vs fnatic (BO3) - | fnatic (BUY) | 37% | 1.36 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 73% | 11.43 | ⏳ pendiente | — |
