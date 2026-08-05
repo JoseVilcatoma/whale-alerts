@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 05:20:44 (hora de Perú)
+Actualizado: 2026-08-05 05:22:51 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 12 | 62% |
 | fRibrenlc | 25 | 15 | 2 | 62% |
 | HomeRunHazard | 447 | 276 | 10 | 62% |
-| ferrariChampions2026 | 2125 | 1365 | 85 | 61% |
+| ferrariChampions2026 | 2125 | 1365 | 87 | 61% |
 | SnakeBall | 3 | 2 | 0 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 13 | 59% |
@@ -98,7 +98,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Flipadelphia | 11 | 22 | 2 | 33% |
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
-| jtwyslljy | 9 | 20 | 5 | 31% |
+| jtwyslljy | 9 | 20 | 6 | 31% |
 | skyman44 | 4 | 9 | 4 | 31% |
 | 0x0x23kjookhaiuohduoayh8c9 | 2 | 6 | 4 | 25% |
 | 111111111115 | 11 | 38 | 0 | 22% |

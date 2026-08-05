@@ -156934,5 +156934,41 @@
     "usd": 1208.0472,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785925262,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-jdg-lgd-2026-08-05-game2",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 2 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 1023.2126999999998,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785925308,
+    "username": "jtwyslljy",
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "SELL",
+    "usd": 2736.146,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785925315,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-vales-glinka-2026-08-05",
+    "title": "Grodzisk Mazowiecki: Amit Vales vs Daniil Glinka",
+    "outcome": "Daniil Glinka",
+    "side": "BUY",
+    "usd": 1248.8321730000002,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
