@@ -155818,5 +155818,89 @@
     "usd": 4997.315600000001,
     "odds_at_bet": 67,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785922749,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-jdg-lgd-2026-08-05",
+    "title": "LoL: JD Gaming vs LGD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 1046.5,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922750,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-kawa-mikulsk-2026-08-05",
+    "title": "Warsaw: Katarzyna Kawa vs Justina Mikulskyte",
+    "outcome": "Justina Mikulskyte",
+    "side": "BUY",
+    "usd": 1790.6976000000002,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922777,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-piros-dedurap-2026-08-05",
+    "title": "Hagen: Zsombor Piros vs Diego Dedura-Palomero",
+    "outcome": "Zsombor Piros",
+    "side": "BUY",
+    "usd": 2349.0732,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922801,
+    "username": "canoflanagan",
+    "wallet": "0x21468ad63a833f5f9ea5c2835fb4e9dec57ad41b",
+    "slug": "dota2-tr7-re-2026-08-05-game2",
+    "title": "Dota 2: Team Resilience vs Rune Eaters - Game 2 Winner",
+    "outcome": "Team Resilience",
+    "side": "BUY",
+    "usd": 1297.8616000000002,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922806,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-jdg-lgd-2026-08-05-game1",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 1 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 2017.2605999999998,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922859,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-jdg-lgd-2026-08-05-game1",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 1 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 1937.4753509999998,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922861,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-jdg-lgd-2026-08-05-game1",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 1 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 1444.4597999999999,
+    "odds_at_bet": 42,
+    "status": "pending"
   }
 ]
