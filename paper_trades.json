@@ -70,5 +70,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785894569,
+    "timestamp_added": 1785894570.195234,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-tor-hou-2026-08-04-total-8pt5",
+    "title": "Toronto Blue Jays vs. Houston Astros: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1041.3,
+    "whale_pct": 0.498,
+    "paper_stake_usd": 4.98,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
