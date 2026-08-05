@@ -166690,5 +166690,65 @@
     "usd": 1195.3025799999998,
     "odds_at_bet": 69,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785938491,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-galan-jover-2026-08-05",
+    "title": "Plovdiv 2: Daniel Galan vs Carlos Sanchez Jover",
+    "outcome": "Daniel Galan",
+    "side": "BUY",
+    "usd": 4600.0,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938491,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-galan-jover-2026-08-05",
+    "title": "Plovdiv 2: Daniel Galan vs Carlos Sanchez Jover",
+    "outcome": "Carlos Sanchez Jover",
+    "side": "BUY",
+    "usd": 5400.0,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938583,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-playti-yb1-2026-08-05-game2",
+    "title": "Dota 2: PlayTime vs Yakult Brothers - Game 2 Winner",
+    "outcome": "PlayTime",
+    "side": "BUY",
+    "usd": 1025.92,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938592,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-1win-bb4-2026-08-05",
+    "title": "Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 6062.61132,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785938599,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-playti-yb1-2026-08-05-game2",
+    "title": "Dota 2: PlayTime vs Yakult Brothers - Game 2 Winner",
+    "outcome": "PlayTime",
+    "side": "BUY",
+    "usd": 1031.559,
+    "odds_at_bet": 58,
+    "status": "pending"
   }
 ]

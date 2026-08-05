@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-05 09:01:15 (hora de Perú)
+Actualizado: 2026-08-05 09:03:41 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -49,16 +49,16 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | GoalLineGhost | 197 | 102 | 9 | 66% |
 | BirdMan. | 55 | 28 | 35 | 66% |
-| RN1 | 1305 | 706 | 121 | 65% |
+| RN1 | 1305 | 706 | 122 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 148 | 81 | 13 | 65% |
 | UpTheBlues | 82 | 51 | 46 | 62% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 113 | 62% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 263 | 114 | 62% |
 | fRibrenlc | 25 | 15 | 8 | 62% |
 | HomeRunHazard | 447 | 276 | 30 | 62% |
-| ferrariChampions2026 | 2125 | 1365 | 297 | 61% |
+| ferrariChampions2026 | 2125 | 1365 | 300 | 61% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 192 | 136 | 32 | 59% |
