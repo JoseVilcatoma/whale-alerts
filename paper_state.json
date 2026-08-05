@@ -1,5 +1,5 @@
 {
-  "bankroll": 991.994277894649,
+  "bankroll": 1470.389097016096,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -115,6 +115,406 @@
       "timestamp": 1785905268.3908079,
       "bankroll": 991.99,
       "event": "won: RN1 \u2014 Spread: San Diego Padres (-2.5)"
+    },
+    {
+      "timestamp": 1785943218.5988595,
+      "bankroll": 990.25,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Johnny Speeds vs Betclic Apogee Esports (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785943218.8602653,
+      "bankroll": 986.17,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Johnny Speeds vs Betclic Apogee Esports (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785943219.636094,
+      "bankroll": 960.59,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Johnny Speeds vs Betclic Apogee Esports (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785943219.9364853,
+      "bankroll": 946.41,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Johnny Speeds vs Betclic Apogee Esports (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785943220.6374252,
+      "bankroll": 941.71,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Johnny Speeds vs Betclic Apogee Esports (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785943221.3394165,
+      "bankroll": 930.64,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Johnny Speeds vs Betclic Apogee Esports (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785943221.5397384,
+      "bankroll": 928.89,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Johnny Speeds vs Betclic Apogee Esports (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785943221.639915,
+      "bankroll": 913.43,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Johnny Speeds vs Betclic Apogee Esports (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785943221.7822506,
+      "bankroll": 917.84,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943222.182782,
+      "bankroll": 895.24,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Johnny Speeds vs Betclic Apogee Esports (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785943222.4832706,
+      "bankroll": 916.76,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943222.5833807,
+      "bankroll": 921.17,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943222.9841042,
+      "bankroll": 900.13,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Johnny Speeds vs Betclic Apogee Esports (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785943223.0842624,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943223.1844099,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943223.2845309,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943223.3846724,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943223.484795,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943223.5849783,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943223.6851256,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943223.78525,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943223.8853612,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943223.9854627,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943224.0856006,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943224.1856968,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943224.2858536,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943224.4861557,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943224.586289,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943224.6864166,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943224.7865906,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943224.886731,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943224.986904,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943225.087019,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943225.187223,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943225.287362,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943225.3875751,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943225.4877605,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943225.587931,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943225.6881468,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943225.7882996,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943225.8884044,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943225.9885476,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943226.3891747,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943226.489283,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943226.6896474,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943226.7897956,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943226.8900156,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943226.990125,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943227.090319,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943227.190467,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943227.2906528,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943227.3908055,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943227.4909234,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943227.5911515,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943227.691273,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943227.7914183,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943227.8915417,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943227.991671,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943228.292166,
+      "bankroll": 1415.63,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Johnny Speeds vs Betclic Apogee Esports (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785943228.492376,
+      "bankroll": 1415.63,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Johnny Speeds vs Betclic Apogee Esports (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785943228.5924995,
+      "bankroll": 1415.63,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Johnny Speeds vs Betclic Apogee Esports (BO3) - Stake Pulse Beat I Playoffs"
+    },
+    {
+      "timestamp": 1785943228.6926696,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943228.7927809,
+      "bankroll": 1415.63,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943228.8945506,
+      "bankroll": 1420.59,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943228.9947386,
+      "bankroll": 1422.49,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943229.095269,
+      "bankroll": 1444.28,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943229.195421,
+      "bankroll": 1446.88,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943229.2955315,
+      "bankroll": 1451.76,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943229.3957455,
+      "bankroll": 1467.68,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943229.4958963,
+      "bankroll": 1470.39,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943229.5960038,
+      "bankroll": 1470.39,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943229.6961944,
+      "bankroll": 1470.39,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943229.7963042,
+      "bankroll": 1470.39,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943229.8965056,
+      "bankroll": 1470.39,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943230.4566479,
+      "bankroll": 1470.39,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943230.55683,
+      "bankroll": 1470.39,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943230.6569548,
+      "bankroll": 1470.39,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943230.757159,
+      "bankroll": 1470.39,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943230.8573005,
+      "bankroll": 1470.39,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
+    },
+    {
+      "timestamp": 1785943230.9574523,
+      "bankroll": 1470.39,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs"
     }
   ]
 }
