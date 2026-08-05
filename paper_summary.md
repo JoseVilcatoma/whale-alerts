@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-04 21:29:51 (hora de Perú)
+Actualizado: 2026-08-04 21:31:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 8 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 0 | 2 | +0.00 USD |
-| RN1 | 0 | 0 | 9 | +0.00 USD |
+| RN1 | 0 | 0 | 12 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -25,6 +25,9 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 61% | 5.95 | ⏳ pendiente | — |
+| RN1 | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 51% | 3.09 | ⏳ pendiente | — |
+| RN1 | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 61% | 8.32 | ⏳ pendiente | — |
 | RN1 | Spread: Colorado Rockies (-1.5) | Tampa Bay Rays (BUY) | 49% | 4.91 | ⏳ pendiente | — |
 | RN1 | Spread: Colorado Rockies (-1.5) | Tampa Bay Rays (BUY) | 49% | 4.91 | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Johnny Speeds vs Betclic | Johnny Speeds (BUY) | 43% | 25.58 | ⏳ pendiente | — |
