@@ -155902,5 +155902,89 @@
     "usd": 1444.4597999999999,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1785922873,
+    "username": "jtwyslljy",
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "SELL",
+    "usd": 1847.8293999999999,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922873,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 9781.512165,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922889,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-jdg-lgd-2026-08-05-game1",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 1 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1279.5153,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922889,
+    "username": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+    "wallet": "0x7986576408b65a9805ac85553be33ad0b044baa5",
+    "slug": "lol-bro2-ns-2026-08-05",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 1185.6384,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922891,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-jdg-lgd-2026-08-05-game1",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 1 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 4444.400000000001,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922897,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-jdg-lgd-2026-08-05-game1",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 1 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1390.2668,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1785922907,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-bro2-ns-2026-08-05-game1",
+    "title": "LoL: HANJIN BRION vs Nongshim Red Force - Game 1 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "SELL",
+    "usd": 9989.92008,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
