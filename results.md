@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 06:10:08 (hora de Perú)
+Actualizado: 2026-08-06 06:12:30 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -83,7 +83,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | sbsigner | 42 | 45 | 0 | 48% |
 | VPenguin | 19 | 21 | 0 | 48% |
 | skyman44 | 11 | 12 | 0 | 48% |
-| PASSTHEMONEY | 69 | 78 | 3 | 47% |
+| PASSTHEMONEY | 69 | 78 | 4 | 47% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 50 | 0 | 47% |
 | esportGG | 90 | 103 | 17 | 47% |
 | Eztennis | 28 | 33 | 0 | 46% |

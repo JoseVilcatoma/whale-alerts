@@ -173410,5 +173410,17 @@
     "usd": 4600.8213,
     "odds_at_bet": 71,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786014697,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-dk-t1-2026-08-06-game2",
+    "title": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+    "outcome": "T1",
+    "side": "SELL",
+    "usd": 1728.2799980000002,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]
