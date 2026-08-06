@@ -6335,5 +6335,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1786021809,
+    "timestamp_added": 1786021809.948691,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-la-min-2026-08-06-spread-home-15pt5",
+    "title": "Spread: Minnesota Lynx (-15.5)",
+    "outcome": "Minnesota Lynx",
+    "side": "BUY",
+    "whale_usd": 67.25490099999999,
+    "whale_pct": 0.117,
+    "paper_stake_usd": 2.81,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
