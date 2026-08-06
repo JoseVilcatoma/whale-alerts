@@ -170134,5 +170134,17 @@
     "usd": 10408.73454,
     "odds_at_bet": 69,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786008728,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-lgd-tt-2026-08-06",
+    "title": "LoL: LGD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1033.1904,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]
