@@ -1,5 +1,5 @@
 {
-  "bankroll": 2982.6649770173444,
+  "bankroll": 2973.8949770173444,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1080,6 +1080,11 @@
       "timestamp": 1785979444.5309103,
       "bankroll": 2982.66,
       "event": "won: HomeRunHazard \u2014 Spread: Athletics (-1.5)"
+    },
+    {
+      "timestamp": 1785979695.8068528,
+      "bankroll": 2973.89,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Athletics vs. Cincinnati Reds: O/U 7.5"
     }
   ]
 }
