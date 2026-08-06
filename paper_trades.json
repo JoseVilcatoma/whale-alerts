@@ -6869,5 +6869,41 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1786031359,
+    "timestamp_added": 1786031359.8561232,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-cws-bos-2026-08-06-total-8pt5",
+    "title": "Chicago White Sox vs. Boston Red Sox: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3792.0012,
+    "whale_pct": 3.058,
+    "paper_stake_usd": 73.68,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1786031366,
+    "timestamp_added": 1786031367.0169978,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-oak-cin-2026-08-06-total-10pt5",
+    "title": "Athletics vs. Cincinnati Reds: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 3102.03,
+    "whale_pct": 2.501,
+    "paper_stake_usd": 60.27,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
