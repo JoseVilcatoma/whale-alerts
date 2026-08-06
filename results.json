@@ -170062,5 +170062,41 @@
     "usd": 2238.28,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786008487,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-drx-dnf-2026-08-06-game2",
+    "title": "LoL: Kiwoom DRX vs DN SOOPers - Game 2 Winner",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 19876.527,
+    "odds_at_bet": 99,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786008547,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-dodig-giustin-2026-08-05",
+    "title": "Hagen: Matej Dodig vs Lorenzo Giustino",
+    "outcome": "Lorenzo Giustino",
+    "side": "BUY",
+    "usd": 1556.7379689999998,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786008560,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-kym-houkes-2026-08-05",
+    "title": "Hagen: Jerome Kym vs Max Houkes",
+    "outcome": "Jerome Kym",
+    "side": "BUY",
+    "usd": 3710.5464,
+    "odds_at_bet": 66,
+    "status": "pending"
   }
 ]

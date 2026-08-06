@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 04:27:36 (hora de Perú)
+Actualizado: 2026-08-06 04:29:41 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 19 | 7 | 0 | 73% |
 | CentralCasting | 18 | 7 | 1 | 72% |
 | Winnerdinnerchickenjr | 13 | 5 | 0 | 72% |
-| fkgggg2mouzfuria | 113 | 48 | 20 | 70% |
+| fkgggg2mouzfuria | 113 | 48 | 21 | 70% |
 | fRibrenlc | 33 | 15 | 0 | 69% |
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 9 | 4 | 1 | 69% |
 | BirdMan. | 83 | 39 | 5 | 68% |
@@ -58,14 +58,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 47 | 28 | 6 | 63% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
 | HomeRunHazard | 476 | 294 | 0 | 62% |
-| ferrariChampions2026 | 2321 | 1503 | 12 | 61% |
+| ferrariChampions2026 | 2321 | 1503 | 13 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | us391 | 33 | 23 | 0 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 211 | 154 | 5 | 58% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 211 | 154 | 6 | 58% |
 | flatbarrel | 13 | 10 | 0 | 57% |
 | meoooow | 23 | 18 | 0 | 56% |
 | quavoo | 5 | 4 | 1 | 56% |
