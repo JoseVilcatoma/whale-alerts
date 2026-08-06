@@ -1,5 +1,5 @@
 {
-  "bankroll": 2917.750759488024,
+  "bankroll": 2893.2983352455994,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1315,6 +1315,26 @@
       "timestamp": 1785984088.796234,
       "bankroll": 2917.75,
       "event": "won: HomeRunHazard \u2014 Pittsburgh Pirates vs. Milwaukee Brewers: O/U 8.5"
+    },
+    {
+      "timestamp": 1785984333.9766328,
+      "bankroll": 2889.89,
+      "event": "lost: HomeRunHazard \u2014 Washington Nationals vs. Philadelphia Phillies: O/U 8.5"
+    },
+    {
+      "timestamp": 1785984393.1216662,
+      "bankroll": 2889.89,
+      "event": "won: HomeRunHazard \u2014 Pittsburgh Pirates vs. Milwaukee Brewers: O/U 7.5"
+    },
+    {
+      "timestamp": 1785984394.105999,
+      "bankroll": 2896.43,
+      "event": "won: HomeRunHazard \u2014 Washington Nationals vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1785984394.206143,
+      "bankroll": 2893.3,
+      "event": "lost: HomeRunHazard \u2014 Washington Nationals vs. Philadelphia Phillies: O/U 9.5"
     }
   ]
 }
