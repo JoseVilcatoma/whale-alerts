@@ -1,5 +1,5 @@
 {
-  "bankroll": 2973.8949770173444,
+  "bankroll": 3015.129956911915,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1085,6 +1085,71 @@
       "timestamp": 1785979695.8068528,
       "bankroll": 2973.89,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Athletics vs. Cincinnati Reds: O/U 7.5"
+    },
+    {
+      "timestamp": 1785980376.8223186,
+      "bankroll": 2973.89,
+      "event": "won: HomeRunHazard \u2014 Seattle Storm vs. New York Liberty: O/U 184.5"
+    },
+    {
+      "timestamp": 1785980378.2998528,
+      "bankroll": 3008.28,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Seattle Storm vs. New York Liberty: O/U 182.5"
+    },
+    {
+      "timestamp": 1785980378.436501,
+      "bankroll": 2997.24,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: New York Liberty (-8.5)"
+    },
+    {
+      "timestamp": 1785980378.8300662,
+      "bankroll": 3012.83,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Phoenix Mercury vs. Atlanta Dream: O/U 183.5"
+    },
+    {
+      "timestamp": 1785980378.9302428,
+      "bankroll": 3014.58,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Phoenix Mercury vs. Atlanta Dream: O/U 183.5"
+    },
+    {
+      "timestamp": 1785980379.0304396,
+      "bankroll": 3017.97,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Seattle Storm vs. New York Liberty: O/U 182.5"
+    },
+    {
+      "timestamp": 1785980380.3922567,
+      "bankroll": 3009.88,
+      "event": "lost: HomeRunHazard \u2014 Seattle Storm vs. New York Liberty"
+    },
+    {
+      "timestamp": 1785980380.8930132,
+      "bankroll": 3014.15,
+      "event": "won: HomeRunHazard \u2014 Seattle Storm vs. New York Liberty"
+    },
+    {
+      "timestamp": 1785980381.6429265,
+      "bankroll": 3016.11,
+      "event": "won: swisstony \u2014 Seattle Storm vs. New York Liberty"
+    },
+    {
+      "timestamp": 1785980441.3652055,
+      "bankroll": 3012.55,
+      "event": "lost: HomeRunHazard \u2014 Phoenix Mercury vs. Atlanta Dream: O/U 182.5"
+    },
+    {
+      "timestamp": 1785980441.6050713,
+      "bankroll": 3019.98,
+      "event": "won: HomeRunHazard \u2014 Phoenix Mercury vs. Atlanta Dream: O/U 181.5"
+    },
+    {
+      "timestamp": 1785980442.2061942,
+      "bankroll": 3011.59,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Atlanta Dream: O/U 181.5"
+    },
+    {
+      "timestamp": 1785980442.8072333,
+      "bankroll": 3015.13,
+      "event": "won: swisstony \u2014 Phoenix Mercury vs. Atlanta Dream: O/U 181.5"
     }
   ]
 }

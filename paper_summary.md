@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 20:39:10 (hora de Perú)
+Actualizado: 2026-08-05 20:41:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $2,973.89
-**Retorno acumulado:** +197.39%
+**Bankroll actual:** $3,015.13
+**Retorno acumulado:** +201.51%
 **Peor caída desde un máximo (drawdown):** 12.88%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,13 +15,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
-| wr0ngw4yb3tt0r | 4 | 1 | 22 | +61.12 USD |
+| wr0ngw4yb3tt0r | 8 | 2 | 17 | +105.19 USD |
 | RN1 | 14 | 8 | 0 | +6.24 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
-| swisstony | 0 | 1 | 10 | -5.57 USD |
+| swisstony | 2 | 2 | 7 | -8.46 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| HomeRunHazard | 1 | 6 | 29 | -26.07 USD |
+| HomeRunHazard | 4 | 8 | 24 | -26.03 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 
@@ -62,10 +62,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Dallas Wings vs. Washington Mystics | Dallas Wings (BUY) | 86% | 4.90 | ⏳ pendiente | — |
 | swisstony | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 46% | 3.14 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 49% | 16.87 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Atlanta Dream: O/U 1 | Under (BUY) | 52% | 3.84 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Atlanta Dream: O/U 1 | Under (BUY) | 52% | 3.84 | ✅ ganada | +3.54 |
 | swisstony | Dallas Wings vs. Washington Mystics | Dallas Wings (BUY) | 90% | 3.90 | ⏳ pendiente | — |
 | swisstony | Spread: Milwaukee Brewers (-1.5) | Pittsburgh Pirates (BUY) | 59% | 16.64 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Athletics vs. Cincinnati Reds: O/U 7.5 | Over (BUY) | 40% | 8.77 | ❌ perdida | -8.77 |
 | RN1 | Spread: Baltimore Orioles (-2.5) | Los Angeles Angels (BUY) | 76% | 5.65 | ❌ perdida | -5.65 |
 | swisstony | Spread: Baltimore Orioles (-1.5) | Los Angeles Angels (BUY) | 57% | 5.57 | ❌ perdida | -5.57 |
-| swisstony | Seattle Storm vs. New York Liberty | New York Liberty (BUY) | 83% | 9.58 | ⏳ pendiente | — |
+| swisstony | Seattle Storm vs. New York Liberty | New York Liberty (BUY) | 83% | 9.58 | ✅ ganada | +1.96 |
