@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 05:11:54 (hora de Perú)
+Actualizado: 2026-08-06 05:13:56 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -46,19 +46,19 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| RN1 | 1389 | 731 | 49 | 66% |
+| RN1 | 1389 | 731 | 50 | 66% |
 | GoalLineGhost | 203 | 106 | 0 | 66% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 158 | 84 | 6 | 65% |
-| UpTheBlues | 94 | 52 | 40 | 64% |
+| UpTheBlues | 94 | 52 | 41 | 64% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 521 | 297 | 1 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 47 | 28 | 12 | 63% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
-| HomeRunHazard | 476 | 294 | 6 | 62% |
-| ferrariChampions2026 | 2321 | 1503 | 20 | 61% |
+| HomeRunHazard | 476 | 294 | 7 | 62% |
+| ferrariChampions2026 | 2321 | 1503 | 21 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
@@ -72,7 +72,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | StasPanda | 23 | 19 | 3 | 55% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | AnonymousUsername | 53 | 46 | 0 | 54% |
-| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 13 | 11 | 14 | 54% |
+| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 13 | 11 | 15 | 54% |
 | TAIWANNUMBERONE | 14 | 12 | 9 | 54% |
 | wr0ngw4yb3tt0r | 186 | 174 | 0 | 52% |
 | lllllllIlll | 11 | 10 | 1 | 52% |
@@ -101,7 +101,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | chanello | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | jtwyslljy | 13 | 29 | 0 | 31% |
-| MeiGuNiuBi | 5 | 11 | 6 | 31% |
+| MeiGuNiuBi | 5 | 11 | 7 | 31% |
 | AV23IUa | 9 | 24 | 0 | 27% |
 | CORGI8 | 4 | 12 | 0 | 25% |
 | 111111111115 | 11 | 38 | 0 | 22% |
