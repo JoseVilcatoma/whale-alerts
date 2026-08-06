@@ -171178,5 +171178,101 @@
     "usd": 1884.11,
     "odds_at_bet": 85,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786011372,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-dk-t1-2026-08-06-game1",
+    "title": "LoL: Dplus KIA vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 5693.2876,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786011372,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-dk-t1-2026-08-06-game1",
+    "title": "LoL: Dplus KIA vs T1 - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 2400.0,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786011406,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dk-t1-2026-08-06-game1",
+    "title": "LoL: Dplus KIA vs T1 - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 1525.76037,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786011424,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-dk-t1-2026-08-06-game1",
+    "title": "LoL: Dplus KIA vs T1 - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 14965.225300000002,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786011424,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-dk-t1-2026-08-06-game1",
+    "title": "LoL: Dplus KIA vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 2674.7760000000003,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786011433,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-barthel-yaneva-2026-08-06",
+    "title": "Warsaw: Mona Barthel vs Elizara Yaneva",
+    "outcome": "Mona Barthel",
+    "side": "BUY",
+    "usd": 1774.68,
+    "odds_at_bet": 23,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786011446,
+    "username": "JnStTrdrBnusFnd",
+    "wallet": "0x1465b79bff7992bc703e1aafb3683b1089647072",
+    "slug": "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
+    "title": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 2284.4658,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786011462,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-dodig-giustin-2026-08-05",
+    "title": "Hagen: Matej Dodig vs Lorenzo Giustino",
+    "outcome": "Matej Dodig",
+    "side": "BUY",
+    "usd": 2897.7699,
+    "odds_at_bet": 87,
+    "status": "pending"
   }
 ]

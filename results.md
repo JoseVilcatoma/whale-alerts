@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 05:16:00 (hora de Perú)
+Actualizado: 2026-08-06 05:18:05 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -35,10 +35,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 29 | 10 | 0 | 74% |
 | fazewinline | 23 | 8 | 0 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 19 | 7 | 0 | 73% |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 19 | 7 | 1 | 73% |
 | CentralCasting | 18 | 7 | 1 | 72% |
 | Winnerdinnerchickenjr | 13 | 5 | 0 | 72% |
-| fkgggg2mouzfuria | 113 | 48 | 26 | 70% |
+| fkgggg2mouzfuria | 113 | 48 | 28 | 70% |
 | fRibrenlc | 33 | 15 | 0 | 69% |
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 9 | 4 | 1 | 69% |
 | BirdMan. | 83 | 39 | 9 | 68% |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| RN1 | 1389 | 731 | 50 | 66% |
+| RN1 | 1389 | 731 | 51 | 66% |
 | GoalLineGhost | 203 | 106 | 0 | 66% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 47 | 28 | 12 | 63% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
 | HomeRunHazard | 476 | 294 | 7 | 62% |
-| ferrariChampions2026 | 2321 | 1503 | 21 | 61% |
+| ferrariChampions2026 | 2321 | 1503 | 23 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
@@ -85,7 +85,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | skyman44 | 11 | 12 | 0 | 48% |
 | PASSTHEMONEY | 69 | 78 | 2 | 47% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 50 | 0 | 47% |
-| esportGG | 90 | 103 | 9 | 47% |
+| esportGG | 90 | 103 | 10 | 47% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | Talvez10 | 28 | 33 | 0 | 46% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 73 | 85 | 1 | 46% |
@@ -123,4 +123,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | LlamaLoco0000 | 0 | 0 | 2 | — |
 | ofgoodfgdohojdfitsjustmoney | 0 | 0 | 1 | — |
 | Jsram | 0 | 0 | 2 | — |
-| JnStTrdrBnusFnd | 0 | 0 | 1 | — |
+| JnStTrdrBnusFnd | 0 | 0 | 2 | — |
