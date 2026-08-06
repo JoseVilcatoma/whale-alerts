@@ -4460,8 +4460,8 @@
     "whale_pct": 0.564,
     "paper_stake_usd": 16.88,
     "odds_at_bet": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 16.88,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5314,8 +5314,8 @@
     "whale_pct": 0.126,
     "paper_stake_usd": 3.76,
     "odds_at_bet": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.02,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5332,8 +5332,8 @@
     "whale_pct": 0.148,
     "paper_stake_usd": 4.42,
     "odds_at_bet": 67,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.18,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5350,8 +5350,8 @@
     "whale_pct": 1.274,
     "paper_stake_usd": 38.01,
     "odds_at_bet": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 16.29,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5368,8 +5368,8 @@
     "whale_pct": 0.101,
     "paper_stake_usd": 3.01,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.36,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5716,8 +5716,8 @@
     "whale_pct": 0.188,
     "paper_stake_usd": 5.43,
     "odds_at_bet": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.71,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5734,8 +5734,8 @@
     "whale_pct": 1.371,
     "paper_stake_usd": 39.66,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 25.36,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -6002,6 +6002,68 @@
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": [],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785988915,
+    "timestamp_added": 1785988915.4999552,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-det-sea-2026-08-05-total-7pt5",
+    "title": "Detroit Tigers vs. Seattle Mariners: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2138.444,
+    "whale_pct": 1.282,
+    "paper_stake_usd": 37.17,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10"
+    ],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785988925,
+    "timestamp_added": 1785988926.2044518,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-sd-ari-2026-08-05-total-10pt5",
+    "title": "San Diego Padres vs. Arizona Diamondbacks: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1020.0,
+    "whale_pct": 0.612,
+    "paper_stake_usd": 17.73,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785988942,
+    "timestamp_added": 1785988942.637338,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-sd-ari-2026-08-05-total-10pt5",
+    "title": "San Diego Padres vs. Arizona Diamondbacks: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1011.5,
+    "whale_pct": 0.591,
+    "paper_stake_usd": 17.12,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "swisstony"
+    ],
     "recortado_por_bankroll": false
   }
 ]

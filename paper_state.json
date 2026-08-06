@@ -1,5 +1,5 @@
 {
-  "bankroll": 2898.9134473148797,
+  "bankroll": 2965.721207909596,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1465,6 +1465,41 @@
       "timestamp": 1785988604.8530354,
       "bankroll": 2898.91,
       "event": "won: HomeRunHazard \u2014 Los Angeles Sparks vs. Chicago Sky: O/U 188.5"
+    },
+    {
+      "timestamp": 1785988984.5545464,
+      "bankroll": 2915.79,
+      "event": "won: HomeRunHazard \u2014 St. Louis Cardinals vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1785988985.2940238,
+      "bankroll": 2917.82,
+      "event": "won: HomeRunHazard \u2014 St. Louis Cardinals vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1785988985.394199,
+      "bankroll": 2920.0,
+      "event": "won: HomeRunHazard \u2014 St. Louis Cardinals vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1785988985.4943724,
+      "bankroll": 2936.29,
+      "event": "won: HomeRunHazard \u2014 St. Louis Cardinals vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1785988985.5945086,
+      "bankroll": 2938.65,
+      "event": "won: HomeRunHazard \u2014 St. Louis Cardinals vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1785988986.233105,
+      "bankroll": 2940.36,
+      "event": "won: HomeRunHazard \u2014 Spread: St. Louis Cardinals (-2.5)"
+    },
+    {
+      "timestamp": 1785988986.3332431,
+      "bankroll": 2965.72,
+      "event": "won: HomeRunHazard \u2014 Spread: St. Louis Cardinals (-2.5)"
     }
   ]
 }
