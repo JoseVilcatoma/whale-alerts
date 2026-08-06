@@ -171862,5 +171862,65 @@
     "usd": 2629.7742850000004,
     "odds_at_bet": 93,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786012420,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-we-al-2026-08-06",
+    "title": "LoL: Team WE vs Anyone's Legend (BO3) - LPL Group Ascend",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 18394.415999999997,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786012429,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-dodig-giustin-2026-08-05",
+    "title": "Hagen: Matej Dodig vs Lorenzo Giustino",
+    "outcome": "Lorenzo Giustino",
+    "side": "BUY",
+    "usd": 1197.8999000000001,
+    "odds_at_bet": 17,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786012432,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-ig1-nip-2026-08-06-game1",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "usd": 1018.4441,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786012436,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-we-al-2026-08-06-game1",
+    "title": "LoL: Team WE vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 3172.521,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786012441,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "val-fpx-jdg-2026-08-06",
+    "title": "Valorant: FunPlus Phoenix vs JD Gaming (BO3) - VCT China Stage 2 Play-Ins",
+    "outcome": "JD Gaming",
+    "side": "SELL",
+    "usd": 2456.0415,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
