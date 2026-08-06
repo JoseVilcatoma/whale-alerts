@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 20:59:38 (hora de Perú)
+Actualizado: 2026-08-05 21:01:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $2,992.89
-**Retorno acumulado:** +199.29%
+**Bankroll actual:** $2,973.63
+**Retorno acumulado:** +197.36%
 **Peor caída desde un máximo (drawdown):** 12.88%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,14 +15,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
-| wr0ngw4yb3tt0r | 8 | 5 | 14 | +91.76 USD |
+| wr0ngw4yb3tt0r | 8 | 6 | 13 | +72.50 USD |
 | RN1 | 14 | 8 | 0 | +6.24 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 1 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 3 | +0.00 USD |
 | swisstony | 2 | 3 | 6 | -12.37 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| HomeRunHazard | 4 | 9 | 27 | -30.93 USD |
+| HomeRunHazard | 5 | 9 | 26 | -30.93 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 
@@ -41,6 +41,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: San Diego Padres (-1.5) | Arizona Diamondbacks (BUY) | 52% | 20.55 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: San Diego Padres (-1.5) | Arizona Diamondbacks (BUY) | 52% | 9.42 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 4.41 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 9.30 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 22% | 3.75 | ⏳ pendiente | — |
@@ -69,5 +71,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Dallas Wings vs. Washington Mystics | Dallas Wings (BUY) | 86% | 4.90 | ⏳ pendiente | — |
 | swisstony | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 46% | 3.14 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 49% | 16.87 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Atlanta Dream: O/U 1 | Under (BUY) | 52% | 3.84 | ✅ ganada | +3.54 |
-| swisstony | Dallas Wings vs. Washington Mystics | Dallas Wings (BUY) | 90% | 3.90 | ⏳ pendiente | — |
