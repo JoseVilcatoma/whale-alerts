@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 19:25:18 (hora de Perú)
+Actualizado: 2026-08-05 19:27:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,993.88
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| HomeRunHazard | 0 | 6 | 18 | -26.07 USD |
+| HomeRunHazard | 0 | 6 | 19 | -26.07 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 
@@ -36,6 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | St. Louis Cardinals vs. New York Yankees | Under (BUY) | 50% | 16.88 | ⏳ pendiente | — |
 | HomeRunHazard | Washington Nationals vs. Philadelphia Ph | Under (BUY) | 54% | 23.72 | ⏳ pendiente | — |
 | HomeRunHazard | Washington Nationals vs. Philadelphia Ph | Under (BUY) | 64% | 27.86 | ⏳ pendiente | — |
 | HomeRunHazard | Phoenix Mercury vs. Atlanta Dream: O/U 1 | Under (BUY) | 53% | 8.37 | ⏳ pendiente | — |
@@ -65,4 +66,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Falcons vs Team Liquid - Ga | Team Falcons (BUY) | 59% | 5.07 | ❌ perdida | -5.07 |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 48% | 30.17 | ✅ ganada | +32.68 |
 | wr0ngw4yb3tt0r | Toronto Blue Jays vs. Houston Astros: O/ | Over (BUY) | 50% | 17.46 | ✅ ganada | +17.46 |
-| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 40% | 440.13 | ✅ ganada | +660.19 |
