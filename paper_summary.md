@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 22:15:54 (hora de Perú)
+Actualizado: 2026-08-05 22:17:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,893.30
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 14 | 8 | 0 | +6.24 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
-| ferrariChampions2026 | 0 | 1 | 6 | -3.75 USD |
+| ferrariChampions2026 | 0 | 1 | 7 | -3.75 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 4 | 7 | 1 | -33.66 USD |
 | HomeRunHazard | 14 | 15 | 28 | -73.07 USD |
@@ -39,11 +39,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-sea-nyl-2026-08-05 | HomeRunHazard, swisstony |
 | wnba-phx-atl-2026-08-05-total-181pt5 | HomeRunHazard, swisstony |
 | mlb-pit-mil-2026-08-05-spread-home-2pt5 | HomeRunHazard, ferrariChampions2026 |
+| mlb-det-sea-2026-08-05-total-5pt5 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 33% | 3.05 | ⏳ pendiente | — |
 | swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 33% | 4.66 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 54% | 8.44 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 54% | 9.20 | ⏳ pendiente | — |
@@ -73,4 +75,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 22% | 3.75 | ❌ perdida | -3.75 |
 | HomeRunHazard | Spread: Milwaukee Brewers (-2.5) | Pittsburgh Pirates (BUY) | 78% | 13.12 | ✅ ganada | +3.70 |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 72% | 5.49 | ⏳ pendiente | — |
-| HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 57% | 33.09 | ⏳ pendiente | — |

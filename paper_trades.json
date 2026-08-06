@@ -5682,5 +5682,25 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785986181,
+    "timestamp_added": 1785986181.7527177,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-det-sea-2026-08-05-total-5pt5",
+    "title": "Detroit Tigers vs. Seattle Mariners: O/U 5.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 326.02620800000005,
+    "whale_pct": 0.105,
+    "paper_stake_usd": 3.05,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false
   }
 ]
