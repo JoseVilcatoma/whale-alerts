@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 10:19:20 (hora de Perú)
+Actualizado: 2026-08-06 10:21:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,409.48
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | HomeRunHazard | 37 | 30 | 27 | -117.99 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
-| Talvez10 | 0 | 4 | 0 | -397.90 USD |
+| Talvez10 | 0 | 4 | 3 | -397.90 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -49,6 +49,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Athletics vs. Cincinnati Reds: O/U 9.5 | Under (BUY) | 52% | 20.76 | ⏳ pendiente | — |
+| Talvez10 | Athletics vs. Cincinnati Reds: O/U 9.5 | Under (BUY) | 52% | 20.76 | ⏳ pendiente | — |
+| Talvez10 | Athletics vs. Cincinnati Reds: O/U 9.5 | Under (BUY) | 52% | 13.34 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 59% | 24.84 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 49% | 14.72 | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Tempo vs. Portland Fire: O/U 186 | Under (BUY) | 49% | 4.54 | ⏳ pendiente | — |
@@ -76,6 +79,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Baltimore Orioles (-1.5) | Los Angeles Angels (BUY) | 52% | 11.08 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Over (BUY) | 41% | 17.02 | ⏳ pendiente | — |
 | HomeRunHazard | Panthers vs. Cardinals: O/U 35.5 | Over (BUY) | 48% | 9.35 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago White Sox vs. Boston Red Sox: O/ | Under (BUY) | 55% | 5.93 | ⏳ pendiente | — |
-| HomeRunHazard | Panthers vs. Cardinals: O/U 35.5 | Under (BUY) | 50% | 9.44 | ⏳ pendiente | — |
-| HomeRunHazard | Panthers vs. Cardinals: O/U 35.5 | Under (BUY) | 50% | 9.75 | ⏳ pendiente | — |
