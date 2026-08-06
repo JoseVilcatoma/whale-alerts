@@ -1,5 +1,5 @@
 {
-  "bankroll": 3010.229956911915,
+  "bankroll": 3007.979956911915,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1155,6 +1155,11 @@
       "timestamp": 1785980685.960503,
       "bankroll": 3010.23,
       "event": "lost: HomeRunHazard \u2014 Spread: New York Liberty (-9.5)"
+    },
+    {
+      "timestamp": 1785981298.0679789,
+      "bankroll": 3007.98,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Dallas Wings vs. Washington Mystics: O/U 166.5"
     }
   ]
 }
