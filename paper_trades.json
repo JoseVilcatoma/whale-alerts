@@ -6191,5 +6191,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785993709,
+    "timestamp_added": 1785993709.5915942,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-las-ind-2026-08-06",
+    "title": "Las Vegas Aces vs. Indiana Fever",
+    "outcome": "Las Vegas Aces",
+    "side": "BUY",
+    "whale_usd": 366.42719999999997,
+    "whale_pct": 0.596,
+    "paper_stake_usd": 14.37,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
