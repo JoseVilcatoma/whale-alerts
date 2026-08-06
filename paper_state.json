@@ -1,5 +1,5 @@
 {
-  "bankroll": 2973.629956911915,
+  "bankroll": 2974.091385483344,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1185,6 +1185,16 @@
       "timestamp": 1785981605.6508007,
       "bankroll": 2973.63,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Miami Marlins vs. Atlanta Braves: O/U 9.5"
+    },
+    {
+      "timestamp": 1785981912.1351137,
+      "bankroll": 2970.43,
+      "event": "lost: swisstony \u2014 Spread: Atlanta Braves (-1.5)"
+    },
+    {
+      "timestamp": 1785981912.2352602,
+      "bankroll": 2974.09,
+      "event": "won: swisstony \u2014 Spread: Atlanta Braves (-1.5)"
     }
   ]
 }
