@@ -172318,5 +172318,53 @@
     "usd": 2560.85658,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786013407,
+    "username": "MeiGuNiuBi",
+    "wallet": "0xdd882a70680633a75516f6ed5fce443e2d96dadb",
+    "slug": "lol-dk-t1-2026-08-06",
+    "title": "LoL: Dplus KIA vs T1 (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "T1",
+    "side": "SELL",
+    "usd": 3800.0,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013409,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-ig1-nip-2026-08-06-game1",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "usd": 1970.0721069999997,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013414,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-dk-t1-2026-08-06",
+    "title": "LoL: Dplus KIA vs T1 (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 4790.4699980000005,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013463,
+    "username": "MeiGuNiuBi",
+    "wallet": "0xdd882a70680633a75516f6ed5fce443e2d96dadb",
+    "slug": "lol-dk-t1-2026-08-06",
+    "title": "LoL: Dplus KIA vs T1 (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "T1",
+    "side": "SELL",
+    "usd": 3800.0,
+    "odds_at_bet": 76,
+    "status": "pending"
   }
 ]
