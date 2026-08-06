@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 21:28:13 (hora de Perú)
+Actualizado: 2026-08-05 21:30:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,983.85
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | wr0ngw4yb3tt0r | 11 | 11 | 5 | +59.35 USD |
 | RN1 | 14 | 8 | 0 | +6.24 USD |
-| HomeRunHazard | 9 | 10 | 30 | +0.78 USD |
+| HomeRunHazard | 9 | 10 | 31 | +0.78 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 3 | +0.00 USD |
@@ -33,6 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tor-hou-2026-08-05-spread-home-1pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-cws-bos-2026-08-05-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-stl-nyy-2026-08-05-total-8pt5 | HomeRunHazard, texaskid |
+| wnba-la-chi-2026-08-05-spread-home-3pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | dota2-flc-liquid-2026-08-05-game3 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, CORGI8 |
 | wnba-sea-nyl-2026-08-05 | HomeRunHazard, swisstony |
 | wnba-phx-atl-2026-08-05-total-181pt5 | HomeRunHazard, swisstony |
@@ -42,6 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Chicago Sky (-3.5) | Los Angeles Sparks (BUY) | 53% | 7.63 | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 63% | 3.39 | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 55% | 29.50 | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. New York Yankees | Under (BUY) | 65% | 4.85 | ⏳ pendiente | — |
@@ -71,4 +73,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 41% | 3.18 | ❌ perdida | -3.18 |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 3.52 | ❌ perdida | -3.52 |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 7.20 | ❌ perdida | -7.20 |
-| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 14.72 | ❌ perdida | -14.72 |
