@@ -169438,5 +169438,17 @@
     "usd": 1289.97873,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786006583,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-lgd-tt-2026-08-06-game2",
+    "title": "LoL: LGD Gaming vs ThunderTalk Gaming - Game 2 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1008.98001,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
