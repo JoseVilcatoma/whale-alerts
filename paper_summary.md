@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 20:14:29 (hora de Perú)
+Actualizado: 2026-08-05 20:16:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,993.88
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
-| wr0ngw4yb3tt0r | 4 | 0 | 22 | +69.89 USD |
+| wr0ngw4yb3tt0r | 4 | 0 | 23 | +69.89 USD |
 | RN1 | 14 | 7 | 1 | +11.89 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
@@ -39,6 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 41% | 3.18 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 3.52 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 7.20 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 14.72 | ⏳ pendiente | — |
@@ -68,4 +69,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | St. Louis Cardinals vs. New York Yankees | Under (BUY) | 50% | 16.88 | ⏳ pendiente | — |
 | HomeRunHazard | Washington Nationals vs. Philadelphia Ph | Under (BUY) | 54% | 23.72 | ⏳ pendiente | — |
 | HomeRunHazard | Washington Nationals vs. Philadelphia Ph | Under (BUY) | 64% | 27.86 | ⏳ pendiente | — |
-| HomeRunHazard | Phoenix Mercury vs. Atlanta Dream: O/U 1 | Under (BUY) | 53% | 8.37 | ⏳ pendiente | — |

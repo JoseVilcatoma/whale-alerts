@@ -4938,5 +4938,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785978957,
+    "timestamp_added": 1785978957.3865144,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-cws-bos-2026-08-05-total-4pt5",
+    "title": "Chicago White Sox vs. Boston Red Sox: O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 555.9313,
+    "whale_pct": 0.106,
+    "paper_stake_usd": 3.18,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
