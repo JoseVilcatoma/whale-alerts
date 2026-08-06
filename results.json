@@ -171010,5 +171010,17 @@
     "usd": 2700.0,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786010836,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col-scb-din2-2026-08-06-scb",
+    "title": "Will SC Braga win on 2026-08-06?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1452.44,
+    "odds_at_bet": 88,
+    "status": "pending"
   }
 ]
