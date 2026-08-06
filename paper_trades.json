@@ -4758,5 +4758,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785976913,
+    "timestamp_added": 1785976913.718045,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-dal-wsh-2026-08-05",
+    "title": "Dallas Wings vs. Washington Mystics",
+    "outcome": "Dallas Wings",
+    "side": "BUY",
+    "whale_usd": 497.94,
+    "whale_pct": 0.164,
+    "paper_stake_usd": 4.9,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
