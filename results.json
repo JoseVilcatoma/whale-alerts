@@ -174274,5 +174274,41 @@
     "usd": 22000.0,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786016227,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-dodig-giustin-2026-08-05",
+    "title": "Hagen: Matej Dodig vs Lorenzo Giustino",
+    "outcome": "Lorenzo Giustino",
+    "side": "BUY",
+    "usd": 2020.1999999999998,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786016244,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-cws-bos-2026-08-06",
+    "title": "Chicago White Sox vs. Boston Red Sox",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 33792.224,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786016251,
+    "username": "BirdMan.",
+    "wallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+    "slug": "lol-ig1-nip-2026-08-06-game2",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 2 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 3461.8869999999997,
+    "odds_at_bet": 86,
+    "status": "pending"
   }
 ]
