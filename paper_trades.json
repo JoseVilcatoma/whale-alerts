@@ -5644,5 +5644,25 @@
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785984191,
+    "timestamp_added": 1785984192.0390804,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-la-chi-2026-08-05",
+    "title": "Los Angeles Sparks vs. Chicago Sky",
+    "outcome": "Los Angeles Sparks",
+    "side": "BUY",
+    "whale_usd": 1110.90913,
+    "whale_pct": 0.289,
+    "paper_stake_usd": 8.44,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 21:42:36 (hora de Perú)
+Actualizado: 2026-08-05 21:44:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,917.75
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 14 | 8 | 0 | +6.24 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
-| ferrariChampions2026 | 0 | 1 | 5 | -3.75 USD |
+| ferrariChampions2026 | 0 | 1 | 6 | -3.75 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 4 | 7 | 0 | -33.66 USD |
 | HomeRunHazard | 12 | 13 | 32 | -48.62 USD |
@@ -44,6 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 54% | 8.44 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 54% | 9.20 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago Sky (-3.5) | Chicago Sky (BUY) | 41% | 7.20 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 57% | 9.67 | ⏳ pendiente | — |
@@ -73,4 +74,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 72% | 5.49 | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 57% | 33.09 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 71% | 4.58 | ✅ ganada | +1.87 |
-| Talvez10 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 52% | 304.94 | ⏳ pendiente | — |
