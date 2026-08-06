@@ -4776,5 +4776,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785977155,
+    "timestamp_added": 1785977156.0946672,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-la-chi-2026-08-05-total-187pt5",
+    "title": "Los Angeles Sparks vs. Chicago Sky: O/U 187.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 531.3425,
+    "whale_pct": 0.105,
+    "paper_stake_usd": 3.13,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
