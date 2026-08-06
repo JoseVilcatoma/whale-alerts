@@ -171334,5 +171334,101 @@
     "usd": 5500.0,
     "odds_at_bet": 44,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786011736,
+    "username": "AnonymousUsername",
+    "wallet": "0x9703676286b93c2eca71ca96e8757104519a69c2",
+    "slug": "mlb-wsh-phi-2026-08-06",
+    "title": "Washington Nationals vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 1304.25,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786011737,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-wsh-phi-2026-08-06",
+    "title": "Washington Nationals vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 1805.0025,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786011738,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-ig1-nip-2026-08-06-game1",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "usd": 2775.08,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786011738,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "mlb-wsh-phi-2026-08-06",
+    "title": "Washington Nationals vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 1125.0,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786011747,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-ig1-nip-2026-08-06-game1",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "usd": 1037.0272,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786011789,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-wsh-phi-2026-08-06-spread-home-2pt5",
+    "title": "Spread: Philadelphia Phillies (-2.5)",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 1314.9989,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786011815,
+    "username": "BirdMan.",
+    "wallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+    "slug": "lol-ig1-nip-2026-08-06-game1",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 1057.1137999999999,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786011850,
+    "username": "BirdMan.",
+    "wallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+    "slug": "lol-ig1-nip-2026-08-06-game1",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 1481.8999999999999,
+    "odds_at_bet": 58,
+    "status": "pending"
   }
 ]
