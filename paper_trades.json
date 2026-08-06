@@ -5154,5 +5154,43 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785981043,
+    "timestamp_added": 1785981044.2558916,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-pit-mil-2026-08-05-spread-home-2pt5",
+    "title": "Spread: Milwaukee Brewers (-2.5)",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "whale_usd": 2867.2332,
+    "whale_pct": 0.436,
+    "paper_stake_usd": 13.12,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785981043,
+    "timestamp_added": 1785981044.7782083,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-mil-2026-08-05-spread-home-2pt5",
+    "title": "Spread: Milwaukee Brewers (-2.5)",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "whale_usd": 808.7068,
+    "whale_pct": 0.124,
+    "paper_stake_usd": 3.75,
+    "odds_at_bet": 22,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false
   }
 ]

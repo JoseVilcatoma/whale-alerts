@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 20:49:24 (hora de Perú)
+Actualizado: 2026-08-05 20:51:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $3,010.23
@@ -19,9 +19,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 14 | 8 | 0 | +6.24 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 1 | +0.00 USD |
 | swisstony | 2 | 2 | 7 | -8.46 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| HomeRunHazard | 4 | 9 | 24 | -30.93 USD |
+| HomeRunHazard | 4 | 9 | 25 | -30.93 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 
@@ -34,11 +35,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dota2-flc-liquid-2026-08-05-game3 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, CORGI8 |
 | wnba-sea-nyl-2026-08-05 | HomeRunHazard, swisstony |
 | wnba-phx-atl-2026-08-05-total-181pt5 | HomeRunHazard, swisstony |
+| mlb-pit-mil-2026-08-05-spread-home-2pt5 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 22% | 3.75 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Milwaukee Brewers (-2.5) | Pittsburgh Pirates (BUY) | 78% | 13.12 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 72% | 5.49 | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 57% | 33.09 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 71% | 4.58 | ⏳ pendiente | — |
@@ -67,5 +71,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Dallas Wings vs. Washington Mystics | Dallas Wings (BUY) | 90% | 3.90 | ⏳ pendiente | — |
 | swisstony | Spread: Milwaukee Brewers (-1.5) | Pittsburgh Pirates (BUY) | 59% | 16.64 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Athletics vs. Cincinnati Reds: O/U 7.5 | Over (BUY) | 40% | 8.77 | ❌ perdida | -8.77 |
-| RN1 | Spread: Baltimore Orioles (-2.5) | Los Angeles Angels (BUY) | 76% | 5.65 | ❌ perdida | -5.65 |
-| swisstony | Spread: Baltimore Orioles (-1.5) | Los Angeles Angels (BUY) | 57% | 5.57 | ❌ perdida | -5.57 |
