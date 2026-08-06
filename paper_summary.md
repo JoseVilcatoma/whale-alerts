@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 10:51:51 (hora de Perú)
+Actualizado: 2026-08-06 10:53:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,409.48
@@ -15,14 +15,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
-| wr0ngw4yb3tt0r | 14 | 14 | 5 | +48.82 USD |
+| wr0ngw4yb3tt0r | 14 | 14 | 6 | +48.82 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | texaskid | 1 | 0 | 2 | +7.11 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 4 | 8 | 0 | -38.32 USD |
 | RN1 | 15 | 14 | 0 | -58.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
-| HomeRunHazard | 37 | 30 | 41 | -117.99 USD |
+| HomeRunHazard | 37 | 30 | 42 | -117.99 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 | Talvez10 | 0 | 4 | 3 | -397.90 USD |
 
@@ -44,13 +44,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-sd-ari-2026-08-05-total-10pt5 | HomeRunHazard, RN1, swisstony |
 | mlb-sd-ari-2026-08-05-total-9pt5 | HomeRunHazard, RN1, wr0ngw4yb3tt0r |
 | wnba-la-min-2026-08-06-total-188pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
-| mlb-oak-cin-2026-08-06-total-9pt5 | Talvez10, texaskid |
+| mlb-oak-cin-2026-08-06-total-9pt5 | Talvez10, texaskid, wr0ngw4yb3tt0r |
 | mlb-nym-cle-2026-08-06-total-7pt5 | HomeRunHazard, texaskid |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | New York Mets vs. Cleveland Guardians: O | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Athletics vs. Cincinnati Reds: O/U 9.5 | Over (BUY) | 45% | 69.77 | ⏳ pendiente | — |
 | HomeRunHazard | Las Vegas Aces vs. Indiana Fever: O/U 19 | Over (BUY) | 49% | 15.92 | ⏳ pendiente | — |
 | texaskid | Athletics vs. Cincinnati Reds: O/U 9.5 | Under (BUY) | 54% | 1,481.89 | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Cincinnati Reds: O/U 8.5 | Under (BUY) | 43% | 15.35 | ⏳ pendiente | — |
@@ -79,5 +81,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 65% | 5.01 | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Tempo vs. Portland Fire: O/U 188 | Under (BUY) | 54% | 11.18 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 51% | 3.32 | ⏳ pendiente | — |
-| HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Over (BUY) | 41% | 2.61 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Sparks vs. Minnesota Lynx: O | Over (BUY) | 49% | 11.15 | ⏳ pendiente | — |
