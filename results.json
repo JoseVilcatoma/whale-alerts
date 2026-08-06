@@ -174082,5 +174082,41 @@
     "usd": 1143.42,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786015940,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-dk-t1-2026-08-06-game2",
+    "title": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 1621.8666,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786015942,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "wta-gibson-alexand-2026-08-05",
+    "title": "National Bank Open: Talia Gibson vs Ekaterina Alexandrova",
+    "outcome": "Talia Gibson",
+    "side": "BUY",
+    "usd": 1271.5050999999999,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786016017,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-dodig-giustin-2026-08-05",
+    "title": "Hagen: Matej Dodig vs Lorenzo Giustino",
+    "outcome": "Matej Dodig",
+    "side": "BUY",
+    "usd": 1451.3265000000001,
+    "odds_at_bet": 45,
+    "status": "pending"
   }
 ]
