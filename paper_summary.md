@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 22:44:33 (hora de Perú)
+Actualizado: 2026-08-05 22:46:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,893.30
@@ -15,14 +15,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
-| wr0ngw4yb3tt0r | 11 | 11 | 5 | +59.35 USD |
+| wr0ngw4yb3tt0r | 11 | 11 | 6 | +59.35 USD |
 | RN1 | 14 | 8 | 0 | +6.24 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | ferrariChampions2026 | 0 | 1 | 7 | -3.75 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 4 | 7 | 1 | -33.66 USD |
-| HomeRunHazard | 14 | 15 | 34 | -73.07 USD |
+| HomeRunHazard | 14 | 15 | 35 | -73.07 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 
@@ -41,11 +41,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-pit-mil-2026-08-05-spread-home-2pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-det-sea-2026-08-05-total-5pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-sd-ari-2026-08-05-total-10pt5 | HomeRunHazard, swisstony |
+| mlb-sd-ari-2026-08-05-total-9pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 54% | 6.18 | ⏳ pendiente | — |
+| HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 53% | 11.91 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Arizona Diamondbacks (-7.5) | Arizona Diamondbacks (BUY) | 64% | 30.77 | ⏳ pendiente | — |
 | HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 48% | 32.68 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Arizona Diamondbacks (-8.5) | Arizona Diamondbacks (BUY) | 42% | 28.49 | ⏳ pendiente | — |
@@ -74,5 +77,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | St. Louis Cardinals vs. New York Yankees | Under (BUY) | 67% | 4.42 | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. New York Yankees | Under (BUY) | 65% | 3.76 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 20% | 9.20 | ⏳ pendiente | — |
-| HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 48% | 3.38 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: San Diego Padres (-1.5) | Arizona Diamondbacks (BUY) | 52% | 20.55 | ⏳ pendiente | — |
