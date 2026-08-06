@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 21:24:07 (hora de Perú)
+Actualizado: 2026-08-05 21:26:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,983.85
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | wr0ngw4yb3tt0r | 11 | 11 | 5 | +59.35 USD |
 | RN1 | 14 | 8 | 0 | +6.24 USD |
-| HomeRunHazard | 9 | 10 | 28 | +0.78 USD |
+| HomeRunHazard | 9 | 10 | 30 | +0.78 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 3 | +0.00 USD |
@@ -42,6 +42,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 63% | 3.39 | ⏳ pendiente | — |
+| HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 55% | 29.50 | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. New York Yankees | Under (BUY) | 65% | 4.85 | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. New York Yankees | Under (BUY) | 56% | 3.01 | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. New York Yankees | Under (BUY) | 70% | 38.01 | ⏳ pendiente | — |
@@ -70,5 +72,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 3.52 | ❌ perdida | -3.52 |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 7.20 | ❌ perdida | -7.20 |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 14.72 | ❌ perdida | -14.72 |
-| wr0ngw4yb3tt0r | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 7.77 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Miami Marlins vs. Atlanta Braves: O/U 6. | Over (BUY) | 62% | 7.46 | ❌ perdida | -7.46 |
