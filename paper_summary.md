@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 20:43:17 (hora de Perú)
+Actualizado: 2026-08-05 20:45:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $3,015.13
-**Retorno acumulado:** +201.51%
+**Bankroll actual:** $3,010.23
+**Retorno acumulado:** +201.02%
 **Peor caída desde un máximo (drawdown):** 12.88%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | swisstony | 2 | 2 | 7 | -8.46 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| HomeRunHazard | 4 | 8 | 24 | -26.03 USD |
+| HomeRunHazard | 4 | 9 | 24 | -30.93 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 
@@ -39,6 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 72% | 5.49 | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 57% | 33.09 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 71% | 4.58 | ⏳ pendiente | — |
 | Talvez10 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 52% | 304.94 | ⏳ pendiente | — |
@@ -68,4 +69,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Athletics vs. Cincinnati Reds: O/U 7.5 | Over (BUY) | 40% | 8.77 | ❌ perdida | -8.77 |
 | RN1 | Spread: Baltimore Orioles (-2.5) | Los Angeles Angels (BUY) | 76% | 5.65 | ❌ perdida | -5.65 |
 | swisstony | Spread: Baltimore Orioles (-1.5) | Los Angeles Angels (BUY) | 57% | 5.57 | ❌ perdida | -5.57 |
-| swisstony | Seattle Storm vs. New York Liberty | New York Liberty (BUY) | 83% | 9.58 | ✅ ganada | +1.96 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 3015.129956911915,
+  "bankroll": 3010.229956911915,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1150,6 +1150,11 @@
       "timestamp": 1785980442.8072333,
       "bankroll": 3015.13,
       "event": "won: swisstony \u2014 Phoenix Mercury vs. Atlanta Dream: O/U 181.5"
+    },
+    {
+      "timestamp": 1785980685.960503,
+      "bankroll": 3010.23,
+      "event": "lost: HomeRunHazard \u2014 Spread: New York Liberty (-9.5)"
     }
   ]
 }
