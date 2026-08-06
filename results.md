@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 05:01:23 (hora de Perú)
+Actualizado: 2026-08-06 05:03:28 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Bigggggggg | 4 | 1 | 35 | ⚠️ 80% (muestra chica: 5) |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
-| one8tyfive | 49 | 17 | 1 | 74% |
+| one8tyfive | 49 | 17 | 2 | 74% |
 | Spicer | 29 | 10 | 0 | 74% |
 | fazewinline | 23 | 8 | 0 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| RN1 | 1389 | 731 | 46 | 66% |
+| RN1 | 1389 | 731 | 48 | 66% |
 | GoalLineGhost | 203 | 106 | 0 | 66% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SDTrading | 7 | 4 | 0 | 64% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 47 | 28 | 12 | 63% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
-| HomeRunHazard | 476 | 294 | 5 | 62% |
-| ferrariChampions2026 | 2321 | 1503 | 19 | 61% |
+| HomeRunHazard | 476 | 294 | 6 | 62% |
+| ferrariChampions2026 | 2321 | 1503 | 20 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
@@ -72,7 +72,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | StasPanda | 23 | 19 | 3 | 55% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | AnonymousUsername | 53 | 46 | 0 | 54% |
-| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 13 | 11 | 13 | 54% |
+| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 13 | 11 | 14 | 54% |
 | TAIWANNUMBERONE | 14 | 12 | 9 | 54% |
 | wr0ngw4yb3tt0r | 186 | 174 | 0 | 52% |
 | lllllllIlll | 11 | 10 | 1 | 52% |

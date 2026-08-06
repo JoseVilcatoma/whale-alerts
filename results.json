@@ -170914,5 +170914,77 @@
     "usd": 4061.7558000000004,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786010502,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-dodig-giustin-2026-08-05",
+    "title": "Hagen: Matej Dodig vs Lorenzo Giustino",
+    "outcome": "Matej Dodig",
+    "side": "BUY",
+    "usd": 2981.0871,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786010504,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-dodig-giustin-2026-08-05",
+    "title": "Hagen: Matej Dodig vs Lorenzo Giustino",
+    "outcome": "Matej Dodig",
+    "side": "BUY",
+    "usd": 4099.4924,
+    "odds_at_bet": 92,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786010504,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-dodig-giustin-2026-08-05",
+    "title": "Hagen: Matej Dodig vs Lorenzo Giustino",
+    "outcome": "Matej Dodig",
+    "side": "BUY",
+    "usd": 1464.3129000000001,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786010513,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "lol-dk-t1-2026-08-06-game1",
+    "title": "LoL: Dplus KIA vs T1 - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 1108.8,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786010550,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-mikulsk-knutson-2026-08-06",
+    "title": "Warsaw: Justina Mikulskyte vs Gabriela Knutson",
+    "outcome": "Gabriela Knutson",
+    "side": "BUY",
+    "usd": 1963.3382,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786010575,
+    "username": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+    "wallet": "0x7986576408b65a9805ac85553be33ad0b044baa5",
+    "slug": "lol-drx-dnf-2026-08-06",
+    "title": "LoL: Kiwoom DRX vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 1966.08195,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
