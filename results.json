@@ -170242,5 +170242,41 @@
     "usd": 2105.6467999999995,
     "odds_at_bet": 20,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786009201,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "uel-hra-bes-2026-08-06-total-2pt5",
+    "title": "FC Hradec Kr\u00e1lov\u00e9 vs. Be\u015fikta\u015f JK: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 11700.949999,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786009201,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-hra-bes-2026-08-06-total-2pt5",
+    "title": "FC Hradec Kr\u00e1lov\u00e9 vs. Be\u015fikta\u015f JK: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 3695.7360029999995,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786009209,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-lgd-tt-2026-08-06-game2",
+    "title": "LoL: LGD Gaming vs ThunderTalk Gaming - Game 2 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 4495.48002,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
