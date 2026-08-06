@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 23:51:32 (hora de Perú)
+Actualizado: 2026-08-05 23:53:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $2,435.34
-**Retorno acumulado:** +143.53%
+**Bankroll actual:** $2,441.08
+**Retorno acumulado:** +144.11%
 **Peor caída desde un máximo (drawdown):** 21.06%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,8 +20,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 4 | 2 | 2 | +0.67 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 4 | 8 | 0 | -38.32 USD |
+| HomeRunHazard | 37 | 28 | 9 | -58.73 USD |
 | RN1 | 15 | 14 | 0 | -58.78 USD |
-| HomeRunHazard | 36 | 28 | 10 | -64.47 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 | Talvez10 | 0 | 4 | 0 | -397.90 USD |
@@ -70,7 +70,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Arizona Diamondbacks (-7.5) | Arizona Diamondbacks (BUY) | 64% | 30.77 | ⏳ pendiente | — |
 | HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 48% | 32.68 | ❌ perdida | -32.68 |
 | HomeRunHazard | Spread: Arizona Diamondbacks (-8.5) | Arizona Diamondbacks (BUY) | 42% | 28.49 | ⏳ pendiente | — |
-| HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Over (BUY) | 44% | 4.51 | ⏳ pendiente | — |
+| HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Over (BUY) | 44% | 4.51 | ✅ ganada | +5.74 |
 | HomeRunHazard | Spread: St. Louis Cardinals (-2.5) | New York Yankees (BUY) | 61% | 39.66 | ✅ ganada | +25.36 |
 | HomeRunHazard | Spread: St. Louis Cardinals (-2.5) | New York Yankees (BUY) | 76% | 5.43 | ✅ ganada | +1.71 |
 | ferrariChampions2026 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 33% | 3.05 | ✅ ganada | +6.19 |

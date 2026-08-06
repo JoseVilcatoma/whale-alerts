@@ -1,5 +1,5 @@
 {
-  "bankroll": 2435.338617622892,
+  "bankroll": 2441.0786176228917,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1630,6 +1630,11 @@
       "timestamp": 1785991763.444496,
       "bankroll": 2435.34,
       "event": "lost: RN1 \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 10.5"
+    },
+    {
+      "timestamp": 1785991949.000611,
+      "bankroll": 2441.08,
+      "event": "won: HomeRunHazard \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 11.5"
     }
   ]
 }
