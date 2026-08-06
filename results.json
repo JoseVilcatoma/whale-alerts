@@ -171022,5 +171022,41 @@
     "usd": 1452.44,
     "odds_at_bet": 88,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786010899,
+    "username": "MeiGuNiuBi",
+    "wallet": "0xdd882a70680633a75516f6ed5fce443e2d96dadb",
+    "slug": "lol-ig1-nip-2026-08-06",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 4754.95,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786010906,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-mikulsk-knutson-2026-08-06",
+    "title": "Warsaw: Justina Mikulskyte vs Gabriela Knutson",
+    "outcome": "Gabriela Knutson",
+    "side": "BUY",
+    "usd": 4897.909962000001,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786010911,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1308.1499999999999,
+    "odds_at_bet": 97,
+    "status": "pending"
   }
 ]
