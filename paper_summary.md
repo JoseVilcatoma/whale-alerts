@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 09:49:47 (hora de Perú)
+Actualizado: 2026-08-06 09:51:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,409.48
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 8 | 0 | -38.32 USD |
 | RN1 | 15 | 14 | 0 | -58.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
-| HomeRunHazard | 37 | 30 | 19 | -117.99 USD |
+| HomeRunHazard | 37 | 30 | 20 | -117.99 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 | Talvez10 | 0 | 4 | 0 | -397.90 USD |
 
@@ -49,6 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 51% | 3.32 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Over (BUY) | 41% | 2.61 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Minnesota Lynx: O | Over (BUY) | 49% | 11.15 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Minnesota Lynx: O | Over (BUY) | 49% | 4.38 | ⏳ pendiente | — |
@@ -78,4 +79,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 43% | 3.01 | ❌ perdida | -3.01 |
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 65% | 22.59 | ❌ perdida | -22.59 |
 | HomeRunHazard | Spread: Arizona Diamondbacks (-2.5) | Arizona Diamondbacks (BUY) | 24% | 3.58 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Seattle Mariners (-1.5) | Detroit Tigers (BUY) | 15% | 5.80 | ❌ perdida | -5.80 |
