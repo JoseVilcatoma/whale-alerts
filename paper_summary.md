@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 11:02:04 (hora de Perú)
+Actualizado: 2026-08-06 11:04:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,409.48
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 8 | 0 | -38.32 USD |
 | RN1 | 15 | 14 | 0 | -58.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
-| HomeRunHazard | 37 | 30 | 42 | -117.99 USD |
+| HomeRunHazard | 37 | 30 | 43 | -117.99 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 | Talvez10 | 0 | 4 | 3 | -397.90 USD |
 
@@ -51,6 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Panthers vs. Cardinals: O/U 35.5 | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | New York Mets vs. Cleveland Guardians: O | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Athletics vs. Cincinnati Reds: O/U 9.5 | Over (BUY) | 45% | 69.77 | ⏳ pendiente | — |
 | HomeRunHazard | Las Vegas Aces vs. Indiana Fever: O/U 19 | Over (BUY) | 49% | 15.92 | ⏳ pendiente | — |
@@ -80,4 +81,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Los Angeles Angels vs. Baltimore Orioles | Under (BUY) | 49% | 79.35 | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 65% | 5.01 | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Tempo vs. Portland Fire: O/U 188 | Under (BUY) | 54% | 11.18 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 51% | 3.32 | ⏳ pendiente | — |
