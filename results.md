@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 06:01:09 (hora de Perú)
+Actualizado: 2026-08-06 06:03:20 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 71 | 12 | 5 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | texaskid | 18 | 3 | 0 | 86% |
-| swisstony | 778 | 167 | 64 | 82% |
+| swisstony | 778 | 167 | 65 | 82% |
 | elizabeth.ethcome | 34 | 8 | 8 | 81% |
 | Bigggggggg | 4 | 1 | 35 | ⚠️ 80% (muestra chica: 5) |
 | mooseborzoi | 63 | 20 | 0 | 76% |
@@ -46,19 +46,19 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| RN1 | 1389 | 731 | 67 | 66% |
+| RN1 | 1389 | 731 | 69 | 66% |
 | GoalLineGhost | 203 | 106 | 0 | 66% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 158 | 84 | 7 | 65% |
-| UpTheBlues | 94 | 52 | 51 | 64% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 521 | 297 | 12 | 64% |
+| UpTheBlues | 94 | 52 | 54 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 521 | 297 | 13 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 47 | 28 | 19 | 63% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
-| HomeRunHazard | 476 | 294 | 12 | 62% |
-| ferrariChampions2026 | 2321 | 1503 | 50 | 61% |
+| HomeRunHazard | 476 | 294 | 13 | 62% |
+| ferrariChampions2026 | 2321 | 1503 | 54 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
@@ -73,7 +73,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | AnonymousUsername | 53 | 46 | 1 | 54% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 13 | 11 | 15 | 54% |
-| TAIWANNUMBERONE | 14 | 12 | 15 | 54% |
+| TAIWANNUMBERONE | 14 | 12 | 16 | 54% |
 | wr0ngw4yb3tt0r | 186 | 174 | 0 | 52% |
 | lllllllIlll | 11 | 10 | 1 | 52% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
