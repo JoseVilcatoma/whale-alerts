@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 23:55:39 (hora de Perú)
+Actualizado: 2026-08-05 23:57:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $2,441.08
-**Retorno acumulado:** +144.11%
+**Bankroll actual:** $2,440.25
+**Retorno acumulado:** +144.03%
 **Peor caída desde un máximo (drawdown):** 21.06%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,12 +16,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | wr0ngw4yb3tt0r | 14 | 14 | 0 | +48.82 USD |
+| ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | texaskid | 1 | 0 | 0 | +7.11 USD |
-| ferrariChampions2026 | 4 | 2 | 2 | +0.67 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 4 | 8 | 0 | -38.32 USD |
-| HomeRunHazard | 37 | 28 | 9 | -58.73 USD |
 | RN1 | 15 | 14 | 0 | -58.78 USD |
+| HomeRunHazard | 37 | 29 | 8 | -87.22 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 | Talvez10 | 0 | 4 | 0 | -397.90 USD |
@@ -69,7 +69,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 53% | 11.91 | ❌ perdida | -11.91 |
 | HomeRunHazard | Spread: Arizona Diamondbacks (-7.5) | Arizona Diamondbacks (BUY) | 64% | 30.77 | ⏳ pendiente | — |
 | HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 48% | 32.68 | ❌ perdida | -32.68 |
-| HomeRunHazard | Spread: Arizona Diamondbacks (-8.5) | Arizona Diamondbacks (BUY) | 42% | 28.49 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Arizona Diamondbacks (-8.5) | Arizona Diamondbacks (BUY) | 42% | 28.49 | ❌ perdida | -28.49 |
 | HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Over (BUY) | 44% | 4.51 | ✅ ganada | +5.74 |
 | HomeRunHazard | Spread: St. Louis Cardinals (-2.5) | New York Yankees (BUY) | 61% | 39.66 | ✅ ganada | +25.36 |
 | HomeRunHazard | Spread: St. Louis Cardinals (-2.5) | New York Yankees (BUY) | 76% | 5.43 | ✅ ganada | +1.71 |

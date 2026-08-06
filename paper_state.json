@@ -1,5 +1,5 @@
 {
-  "bankroll": 2441.0786176228917,
+  "bankroll": 2440.2532330075073,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1635,6 +1635,21 @@
       "timestamp": 1785991949.000611,
       "bankroll": 2441.08,
       "event": "won: HomeRunHazard \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 11.5"
+    },
+    {
+      "timestamp": 1785992195.8148527,
+      "bankroll": 2449.77,
+      "event": "won: ferrariChampions2026 \u2014 Spread: San Diego Padres (-1.5)"
+    },
+    {
+      "timestamp": 1785992195.9150276,
+      "bankroll": 2468.74,
+      "event": "won: ferrariChampions2026 \u2014 Spread: San Diego Padres (-1.5)"
+    },
+    {
+      "timestamp": 1785992257.256224,
+      "bankroll": 2440.25,
+      "event": "lost: HomeRunHazard \u2014 Spread: Arizona Diamondbacks (-8.5)"
     }
   ]
 }
