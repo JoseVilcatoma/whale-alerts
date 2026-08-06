@@ -5826,8 +5826,8 @@
     "whale_pct": 0.412,
     "paper_stake_usd": 11.91,
     "odds_at_bet": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -11.91,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5844,8 +5844,8 @@
     "whale_pct": 0.214,
     "paper_stake_usd": 6.18,
     "odds_at_bet": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -6.18,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -5864,8 +5864,8 @@
     "whale_pct": 0.153,
     "paper_stake_usd": 4.42,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -4.42,
     "overlaps_with": [
       "HomeRunHazard",
       "wr0ngw4yb3tt0r"
@@ -5885,8 +5885,8 @@
     "whale_pct": 0.181,
     "paper_stake_usd": 5.22,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.22,
     "overlaps_with": [
       "HomeRunHazard",
       "wr0ngw4yb3tt0r"
@@ -5960,8 +5960,8 @@
     "whale_pct": 0.779,
     "paper_stake_usd": 22.59,
     "odds_at_bet": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -22.59,
     "overlaps_with": [
       "HomeRunHazard",
       "wr0ngw4yb3tt0r"
@@ -5981,8 +5981,8 @@
     "whale_pct": 0.104,
     "paper_stake_usd": 3.01,
     "odds_at_bet": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -3.01,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },

@@ -1,5 +1,5 @@
 {
-  "bankroll": 2560.8586176228914,
+  "bankroll": 2507.5286176228915,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1580,6 +1580,36 @@
       "timestamp": 1785990452.5362675,
       "bankroll": 2560.86,
       "event": "won: RN1 \u2014 Detroit Tigers vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1785991141.1606565,
+      "bankroll": 2548.95,
+      "event": "lost: HomeRunHazard \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1785991141.2608159,
+      "bankroll": 2542.77,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1785991141.3610415,
+      "bankroll": 2538.35,
+      "event": "lost: RN1 \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1785991141.461221,
+      "bankroll": 2533.13,
+      "event": "lost: RN1 \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1785991141.6615603,
+      "bankroll": 2510.54,
+      "event": "lost: RN1 \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1785991141.7970169,
+      "bankroll": 2507.53,
+      "event": "lost: RN1 \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 8.5"
     }
   ]
 }
