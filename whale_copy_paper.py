@@ -336,10 +336,10 @@ def build_summary_md():
     for tr in trades:
         w = tr["wallet"]
         per_wallet.setdefault(w, {"username": tr["username"], "won": 0, "lost": 0, "pending": 0, "pnl_usd": 0.0})
-        if tr["status"] == "won":
+        if tr["status"] == "won" or (tr["status"] == "cerrada_venta" and tr.get("profit_usd", 0.0) >= 0):
             per_wallet[w]["won"] += 1
             per_wallet[w]["pnl_usd"] += tr.get("profit_usd", 0.0)
-        elif tr["status"] == "lost":
+        elif tr["status"] == "lost" or (tr["status"] == "cerrada_venta" and tr.get("profit_usd", 0.0) < 0):
             per_wallet[w]["lost"] += 1
             per_wallet[w]["pnl_usd"] += tr.get("profit_usd", 0.0)
         else:
@@ -388,7 +388,8 @@ def build_summary_md():
                "| Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |",
                "|---|---|---|---|---|---|---|"]
     for tr in sorted(trades, key=lambda t: t["timestamp_added"], reverse=True)[:30]:
-        estado = {"pending": "⏳ pendiente", "won": "✅ ganada", "lost": "❌ perdida"}.get(tr["status"], tr["status"])
+        estado = {"pending": "⏳ pendiente", "won": "✅ ganada", "lost": "❌ perdida",
+                  "cerrada_venta": "💰 vendida anticipada"}.get(tr["status"], tr["status"])
         resultado = f"{tr['profit_usd']:+,.2f}" if tr["status"] != "pending" else "—"
         titulo = (tr.get("title") or "(sin título)")[:40]
         lines.append(
@@ -499,6 +500,44 @@ def on_ws_open(ws):
     ws.send(json.dumps({"action": "subscribe", "subscriptions": [{"topic": "activity", "type": "trades"}]}))
 
 
+def close_position_early(username, wallet, trade, sell_price_pct):
+    """Cuando la ballena vende (SELL), busca las posiciones de papel
+    pendientes que tengamos abiertas para esa misma wallet+mercado+resultado
+    y las cierra YA, al precio actual — igual que hace la ballena en la
+    vida real al tomar ganancia (o cortar pérdida) antes de que el mercado
+    resuelva."""
+    global bankroll, trades_dirty
+    slug = trade.get("slug")
+    outcome = trade.get("outcome")
+    with lock:
+        abiertas = [tr for tr in trades if tr["status"] == "pending" and tr["wallet"] == wallet
+                    and tr["slug"] == slug and tr["outcome"] == outcome]
+        if not abiertas:
+            return False
+        total_profit = 0.0
+        for tr in abiertas:
+            entry = tr["odds_at_bet"] / 100.0
+            stake = tr["paper_stake_usd"]
+            profit = stake * (sell_price_pct / 100.0 / entry - 1) if entry > 0 else -stake
+            tr["status"] = "cerrada_venta"
+            tr["profit_usd"] = round(profit, 2)
+            tr["closed_price"] = sell_price_pct
+            total_profit += profit
+        bankroll += total_profit
+        bankroll_history.append({
+            "timestamp": time.time(),
+            "bankroll": round(bankroll, 2),
+            "event": f"venta anticipada: {username} — {trade.get('title')} ({total_profit:+.2f} USD)",
+        })
+        trades_dirty = True
+    print(f"🧪 PAPER — {username}: VENDE y cierra {len(abiertas)} posición(es) de papel en "
+          f"{trade.get('title')} al {sell_price_pct}% -> {total_profit:+,.2f} USD")
+    send_telegram(f"🧪 PAPER — {username} vendió (toma ganancia/corta pérdida)\n"
+                   f"Cerramos la réplica en {trade.get('title')} — {trade.get('outcome')}\n"
+                   f"Resultado: {total_profit:+,.2f} USD")
+    return True
+
+
 def on_ws_message(ws, message):
     global last_msg_at, msg_count
     last_msg_at = time.time()
@@ -526,6 +565,19 @@ def on_ws_message(ws, message):
     if len(seen_keys) > 5000:
         seen_keys.clear()
 
+    username = watched.get(wallet, "anon")
+    odds = round((trade.get("price") or 0) * 100)
+    side = (trade.get("side") or "").upper()
+
+    # SELL: no abre nada nuevo, intenta cerrar lo que ya teníamos replicado
+    if side == "SELL":
+        cerro_algo = close_position_early(username, wallet, trade, odds)
+        if not cerro_algo:
+            print(f"🧪 PAPER — {username}: vendió en {trade.get('title')} pero no teníamos "
+                  f"posición de papel abierta ahí — se ignora")
+        return
+
+    # BUY: sigue la lógica de siempre, abrir una posición de papel nueva
     whale_usd = (trade.get("size") or 0) * (trade.get("price") or 0)
     whale_value = get_portfolio_value(wallet)
     if not whale_value or whale_value <= 0:
@@ -533,9 +585,6 @@ def on_ws_message(ws, message):
     whale_pct = whale_usd / whale_value * 100
     if whale_pct < MIN_TRADE_PCT:
         return  # apuesta demasiado chica para el propio portafolio del vigilado, se ignora como ruido
-
-    username = watched.get(wallet, "anon")
-    odds = round((trade.get("price") or 0) * 100)
 
     market = get_market(trade.get("slug"))
     days_left = days_to_resolution(market)
