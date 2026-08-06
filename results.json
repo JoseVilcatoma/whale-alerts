@@ -173518,5 +173518,113 @@
     "usd": 1155.7024,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786015063,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-malygi-vladson-2026-08-06",
+    "title": "ITF Leipzig: Elena Malygina vs Laima Vladson",
+    "outcome": "Laima Vladson",
+    "side": "BUY",
+    "usd": 1666.24,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786015072,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-rbs-paf-2026-08-06-spread-home-1pt5",
+    "title": "Spread: FC Red Bull Salzburg (-1.5)",
+    "outcome": "P\u00e1fos FC",
+    "side": "BUY",
+    "usd": 1245.46485,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786015090,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-malygi-vladson-2026-08-06",
+    "title": "ITF Leipzig: Elena Malygina vs Laima Vladson",
+    "outcome": "Laima Vladson",
+    "side": "BUY",
+    "usd": 2983.5,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786015092,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-malygi-vladson-2026-08-06",
+    "title": "ITF Leipzig: Elena Malygina vs Laima Vladson",
+    "outcome": "Laima Vladson",
+    "side": "BUY",
+    "usd": 2983.5,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786015119,
+    "username": "patient12",
+    "wallet": "0xe291a588ece487f3323736c55c6144f6a99e748e",
+    "slug": "lol-dk-t1-2026-08-06-game2",
+    "title": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 1341.8100000000002,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786015119,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-dk-t1-2026-08-06-game2",
+    "title": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 1675.01,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786015138,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-dk-t1-2026-08-06-game2",
+    "title": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 1425.7675999999997,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786015138,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-dk-t1-2026-08-06-game2",
+    "title": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 1095.4482,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786015171,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-barthel-yaneva-2026-08-06",
+    "title": "Warsaw: Mona Barthel vs Elizara Yaneva",
+    "outcome": "Elizara Yaneva",
+    "side": "BUY",
+    "usd": 3517.4,
+    "odds_at_bet": 86,
+    "status": "pending"
   }
 ]
