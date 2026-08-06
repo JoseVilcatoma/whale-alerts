@@ -171922,5 +171922,17 @@
     "usd": 2456.0415,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786012521,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-ig1-nip-2026-08-06-game1",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 1469.8437999999999,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
