@@ -170782,5 +170782,53 @@
     "usd": 4900.0,
     "odds_at_bet": 98,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786010238,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-ig1-nip-2026-08-06",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "usd": 3900.0,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786010238,
+    "username": "MeiGuNiuBi",
+    "wallet": "0xdd882a70680633a75516f6ed5fce443e2d96dadb",
+    "slug": "lol-ig1-nip-2026-08-06",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 6100.0,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786010246,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-dodig-giustin-2026-08-05",
+    "title": "Hagen: Matej Dodig vs Lorenzo Giustino",
+    "outcome": "Matej Dodig",
+    "side": "BUY",
+    "usd": 3072.7023999999997,
+    "odds_at_bet": 92,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786010250,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-dodig-giustin-2026-08-05",
+    "title": "Hagen: Matej Dodig vs Lorenzo Giustino",
+    "outcome": "Matej Dodig",
+    "side": "BUY",
+    "usd": 1488.231,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]

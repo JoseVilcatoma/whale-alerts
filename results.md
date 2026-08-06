@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 04:57:11 (hora de Perú)
+Actualizado: 2026-08-06 04:59:14 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SDTrading | 7 | 4 | 0 | 64% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 47 | 28 | 12 | 63% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
-| HomeRunHazard | 476 | 294 | 4 | 62% |
-| ferrariChampions2026 | 2321 | 1503 | 18 | 61% |
+| HomeRunHazard | 476 | 294 | 5 | 62% |
+| ferrariChampions2026 | 2321 | 1503 | 19 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
@@ -73,7 +73,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | AnonymousUsername | 53 | 46 | 0 | 54% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 13 | 11 | 12 | 54% |
-| TAIWANNUMBERONE | 14 | 12 | 7 | 54% |
+| TAIWANNUMBERONE | 14 | 12 | 8 | 54% |
 | wr0ngw4yb3tt0r | 186 | 174 | 0 | 52% |
 | lllllllIlll | 11 | 10 | 1 | 52% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -101,7 +101,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | chanello | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | jtwyslljy | 13 | 29 | 0 | 31% |
-| MeiGuNiuBi | 5 | 11 | 2 | 31% |
+| MeiGuNiuBi | 5 | 11 | 3 | 31% |
 | AV23IUa | 9 | 24 | 0 | 27% |
 | CORGI8 | 4 | 12 | 0 | 25% |
 | 111111111115 | 11 | 38 | 0 | 22% |
