@@ -172426,5 +172426,113 @@
     "usd": 33949.2699,
     "odds_at_bet": 91,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786013704,
+    "username": "flatbarrel",
+    "wallet": "0x6485f47d0344c03eb4340f985159f6eb2dcba265",
+    "slug": "atp-dodig-giustin-2026-08-05",
+    "title": "Hagen: Matej Dodig vs Lorenzo Giustino",
+    "outcome": "Matej Dodig",
+    "side": "BUY",
+    "usd": 1500.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013737,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "cs2-sashi-ntr-2026-08-06",
+    "title": "Counter-Strike: Sashi Esport vs Nuclear TigeRES (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "Nuclear TigeRES",
+    "side": "BUY",
+    "usd": 1432.61062,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013765,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-barthel-yaneva-2026-08-06",
+    "title": "Warsaw: Mona Barthel vs Elizara Yaneva",
+    "outcome": "Elizara Yaneva",
+    "side": "BUY",
+    "usd": 3313.6,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013765,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-barthel-yaneva-2026-08-06",
+    "title": "Warsaw: Mona Barthel vs Elizara Yaneva",
+    "outcome": "Mona Barthel",
+    "side": "BUY",
+    "usd": 1034.9759999999999,
+    "odds_at_bet": 24,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013783,
+    "username": "Anjun",
+    "wallet": "0x43372356634781eea88d61bbdd7824cdce958882",
+    "slug": "lol-dk-t1-2026-08-06-game2",
+    "title": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+    "outcome": "T1",
+    "side": "SELL",
+    "usd": 1060.297599,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013790,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-dk-t1-2026-08-06",
+    "title": "LoL: Dplus KIA vs T1 (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 1073.3226,
+    "odds_at_bet": 23,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013798,
+    "username": "cigarettes",
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "slug": "cs2-sashi-ntr-2026-08-06",
+    "title": "Counter-Strike: Sashi Esport vs Nuclear TigeRES (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "Nuclear TigeRES",
+    "side": "BUY",
+    "usd": 1420.15808,
+    "odds_at_bet": 98,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013808,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col-pai-rap-2026-08-06-pai",
+    "title": "Will Paide Linnameeskond win on 2026-08-06?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 3527.35,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013810,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-barthel-yaneva-2026-08-06",
+    "title": "Warsaw: Mona Barthel vs Elizara Yaneva",
+    "outcome": "Mona Barthel",
+    "side": "BUY",
+    "usd": 1964.7053,
+    "odds_at_bet": 17,
+    "status": "pending"
   }
 ]
