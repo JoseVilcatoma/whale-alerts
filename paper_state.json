@@ -1,5 +1,5 @@
 {
-  "bankroll": 2928.83396830615,
+  "bankroll": 2917.750759488024,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1295,6 +1295,26 @@
       "timestamp": 1785983967.5715191,
       "bankroll": 2928.83,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Milwaukee Brewers (-2.5)"
+    },
+    {
+      "timestamp": 1785984086.2481618,
+      "bankroll": 2928.83,
+      "event": "won: HomeRunHazard \u2014 Pittsburgh Pirates vs. Milwaukee Brewers: O/U 8.5"
+    },
+    {
+      "timestamp": 1785984087.6945012,
+      "bankroll": 2912.19,
+      "event": "lost: swisstony \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1785984087.7946446,
+      "bankroll": 2915.88,
+      "event": "won: swisstony \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1785984088.796234,
+      "bankroll": 2917.75,
+      "event": "won: HomeRunHazard \u2014 Pittsburgh Pirates vs. Milwaukee Brewers: O/U 8.5"
     }
   ]
 }
