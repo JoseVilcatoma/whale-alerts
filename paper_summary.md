@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 10:43:47 (hora de Perú)
+Actualizado: 2026-08-06 10:45:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,409.48
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 8 | 0 | -38.32 USD |
 | RN1 | 15 | 14 | 0 | -58.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
-| HomeRunHazard | 37 | 30 | 35 | -117.99 USD |
+| HomeRunHazard | 37 | 30 | 36 | -117.99 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 | Talvez10 | 0 | 4 | 3 | -397.90 USD |
 
@@ -50,6 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Los Angeles Angels vs. Baltimore Orioles | Over (BUY) | 43% | 14.71 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Baltimore Orioles | Over (BUY) | 43% | 5.82 | ⏳ pendiente | — |
 | texaskid | New York Mets vs. Cleveland Guardians: O | Under (BUY) | 55% | 55.81 | ⏳ pendiente | — |
 | HomeRunHazard | New York Mets vs. Cleveland Guardians: O | Under (BUY) | 41% | 7.00 | ⏳ pendiente | — |
@@ -79,4 +80,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 49% | 2.70 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Minnesota Lynx (-15.5) | Minnesota Lynx (BUY) | 49% | 2.81 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Atlanta Braves: O/U 8. | Over (BUY) | 55% | 15.29 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Minnesota Lynx (-15.5) | Minnesota Lynx (BUY) | 49% | 11.50 | ⏳ pendiente | — |

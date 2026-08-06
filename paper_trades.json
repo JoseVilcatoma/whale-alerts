@@ -6851,5 +6851,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1786031125,
+    "timestamp_added": 1786031126.1002707,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-laa-bal-2026-08-06-total-10pt5",
+    "title": "Los Angeles Angels vs. Baltimore Orioles: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 754.22,
+    "whale_pct": 0.611,
+    "paper_stake_usd": 14.71,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
