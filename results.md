@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 04:13:10 (hora de Perú)
+Actualizado: 2026-08-06 04:15:16 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | texaskid | 18 | 3 | 0 | 86% |
 | swisstony | 778 | 167 | 62 | 82% |
-| elizabeth.ethcome | 34 | 8 | 0 | 81% |
+| elizabeth.ethcome | 34 | 8 | 1 | 81% |
 | Bigggggggg | 4 | 1 | 35 | ⚠️ 80% (muestra chica: 5) |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 19 | 7 | 0 | 73% |
 | CentralCasting | 18 | 7 | 1 | 72% |
 | Winnerdinnerchickenjr | 13 | 5 | 0 | 72% |
-| fkgggg2mouzfuria | 113 | 48 | 19 | 70% |
+| fkgggg2mouzfuria | 113 | 48 | 20 | 70% |
 | fRibrenlc | 33 | 15 | 0 | 69% |
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 9 | 4 | 0 | 69% |
 | BirdMan. | 83 | 39 | 3 | 68% |
