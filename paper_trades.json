@@ -6263,5 +6263,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785994935,
+    "timestamp_added": 1785994935.4981916,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-laa-bal-2026-08-06-spread-home-2pt5",
+    "title": "Spread: Baltimore Orioles (-2.5)",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 64.548,
+    "whale_pct": 0.103,
+    "paper_stake_usd": 2.47,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
