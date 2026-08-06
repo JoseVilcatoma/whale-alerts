@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 23:57:43 (hora de Perú)
+Actualizado: 2026-08-05 23:59:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $2,440.25
-**Retorno acumulado:** +144.03%
-**Peor caída desde un máximo (drawdown):** 21.06%
+**Bankroll actual:** $2,409.48
+**Retorno acumulado:** +140.95%
+**Peor caída desde un máximo (drawdown):** 21.90%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,8 +21,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 4 | 8 | 0 | -38.32 USD |
 | RN1 | 15 | 14 | 0 | -58.78 USD |
-| HomeRunHazard | 37 | 29 | 8 | -87.22 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
+| HomeRunHazard | 37 | 30 | 7 | -117.99 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 | Talvez10 | 0 | 4 | 0 | -397.90 USD |
 
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 52% | 4.42 | ❌ perdida | -4.42 |
 | wr0ngw4yb3tt0r | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 54% | 6.18 | ❌ perdida | -6.18 |
 | HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 53% | 11.91 | ❌ perdida | -11.91 |
-| HomeRunHazard | Spread: Arizona Diamondbacks (-7.5) | Arizona Diamondbacks (BUY) | 64% | 30.77 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Arizona Diamondbacks (-7.5) | Arizona Diamondbacks (BUY) | 64% | 30.77 | ❌ perdida | -30.77 |
 | HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 48% | 32.68 | ❌ perdida | -32.68 |
 | HomeRunHazard | Spread: Arizona Diamondbacks (-8.5) | Arizona Diamondbacks (BUY) | 42% | 28.49 | ❌ perdida | -28.49 |
 | HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Over (BUY) | 44% | 4.51 | ✅ ganada | +5.74 |

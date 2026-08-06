@@ -1,5 +1,5 @@
 {
-  "bankroll": 2440.2532330075073,
+  "bankroll": 2409.4832330075074,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1650,6 +1650,11 @@
       "timestamp": 1785992257.256224,
       "bankroll": 2440.25,
       "event": "lost: HomeRunHazard \u2014 Spread: Arizona Diamondbacks (-8.5)"
+    },
+    {
+      "timestamp": 1785992319.3102894,
+      "bankroll": 2409.48,
+      "event": "lost: HomeRunHazard \u2014 Spread: Arizona Diamondbacks (-7.5)"
     }
   ]
 }
