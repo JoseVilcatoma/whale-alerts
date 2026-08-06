@@ -4736,8 +4736,8 @@
     "whale_pct": 0.563,
     "paper_stake_usd": 16.87,
     "odds_at_bet": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -16.87,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -4952,8 +4952,8 @@
     "whale_pct": 0.106,
     "paper_stake_usd": 3.18,
     "odds_at_bet": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -3.18,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },

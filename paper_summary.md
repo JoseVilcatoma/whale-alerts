@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 21:11:50 (hora de Perú)
+Actualizado: 2026-08-05 21:13:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $2,980.99
-**Retorno acumulado:** +198.10%
+**Bankroll actual:** $2,960.94
+**Retorno acumulado:** +196.09%
 **Peor caída desde un máximo (drawdown):** 12.88%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
-| wr0ngw4yb3tt0r | 11 | 9 | 7 | +79.40 USD |
+| wr0ngw4yb3tt0r | 11 | 11 | 5 | +59.35 USD |
 | RN1 | 14 | 8 | 0 | +6.24 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
@@ -58,7 +58,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 38% | 5.72 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 61% | 9.59 | ⏳ pendiente | — |
 | Talvez10 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 52% | 4.09 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 41% | 3.18 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 41% | 3.18 | ❌ perdida | -3.18 |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 3.52 | ❌ perdida | -3.52 |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 7.20 | ❌ perdida | -7.20 |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 14.72 | ❌ perdida | -14.72 |
@@ -70,4 +70,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 3.13 | ⏳ pendiente | — |
 | swisstony | Dallas Wings vs. Washington Mystics | Dallas Wings (BUY) | 86% | 4.90 | ⏳ pendiente | — |
 | swisstony | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 46% | 3.14 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 49% | 16.87 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 49% | 16.87 | ❌ perdida | -16.87 |

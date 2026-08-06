@@ -1,5 +1,5 @@
 {
-  "bankroll": 2980.99134934965,
+  "bankroll": 2960.9413493496504,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1235,6 +1235,16 @@
       "timestamp": 1785982278.5269644,
       "bankroll": 2980.99,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Boston Red Sox (-2.5)"
+    },
+    {
+      "timestamp": 1785982339.3020551,
+      "bankroll": 2977.81,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago White Sox vs. Boston Red Sox: O/U 4.5"
+    },
+    {
+      "timestamp": 1785982403.152586,
+      "bankroll": 2960.94,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago White Sox vs. Boston Red Sox: O/U 5.5"
     }
   ]
 }
