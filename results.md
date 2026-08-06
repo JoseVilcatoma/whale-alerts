@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 05:41:04 (hora de Perú)
+Actualizado: 2026-08-06 05:43:11 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| RN1 | 1389 | 731 | 57 | 66% |
+| RN1 | 1389 | 731 | 59 | 66% |
 | GoalLineGhost | 203 | 106 | 0 | 66% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 47 | 28 | 16 | 63% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
 | HomeRunHazard | 476 | 294 | 11 | 62% |
-| ferrariChampions2026 | 2321 | 1503 | 38 | 61% |
+| ferrariChampions2026 | 2321 | 1503 | 39 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
@@ -73,7 +73,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | AnonymousUsername | 53 | 46 | 1 | 54% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 13 | 11 | 15 | 54% |
-| TAIWANNUMBERONE | 14 | 12 | 14 | 54% |
+| TAIWANNUMBERONE | 14 | 12 | 15 | 54% |
 | wr0ngw4yb3tt0r | 186 | 174 | 0 | 52% |
 | lllllllIlll | 11 | 10 | 1 | 52% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |

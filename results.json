@@ -171994,5 +171994,53 @@
     "usd": 1129.8336000000002,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786012888,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-dodig-giustin-2026-08-05",
+    "title": "Hagen: Matej Dodig vs Lorenzo Giustino",
+    "outcome": "Lorenzo Giustino",
+    "side": "BUY",
+    "usd": 2154.8608,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786012967,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-kcb-sc-2026-08-06",
+    "title": "LoL: Karmine Corp Blue vs Skillcamp Esport (BO1) - LFL Regular Season",
+    "outcome": "Karmine Corp Blue",
+    "side": "BUY",
+    "usd": 1500.224,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786012988,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-barthel-yaneva-2026-08-06",
+    "title": "Warsaw: Mona Barthel vs Elizara Yaneva",
+    "outcome": "Elizara Yaneva",
+    "side": "BUY",
+    "usd": 3703.68,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786012988,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-barthel-yaneva-2026-08-06",
+    "title": "Warsaw: Mona Barthel vs Elizara Yaneva",
+    "outcome": "Elizara Yaneva",
+    "side": "BUY",
+    "usd": 1960.1507839999997,
+    "odds_at_bet": 47,
+    "status": "pending"
   }
 ]
