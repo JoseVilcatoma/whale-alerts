@@ -171958,5 +171958,41 @@
     "usd": 2293.349987,
     "odds_at_bet": 93,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786012794,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-barthel-yaneva-2026-08-06",
+    "title": "Warsaw: Mona Barthel vs Elizara Yaneva",
+    "outcome": "Elizara Yaneva",
+    "side": "BUY",
+    "usd": 3130.0015,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786012818,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-ig1-nip-2026-08-06-game1",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "usd": 1428.5699989999998,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786012841,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-lavked-blackp-2026-08-06",
+    "title": "Counter-Strike: Lavked vs Black Phoenix (BO3) - CCT Europe Series #6 Playoffs",
+    "outcome": "Black Phoenix",
+    "side": "BUY",
+    "usd": 1129.8336000000002,
+    "odds_at_bet": 68,
+    "status": "pending"
   }
 ]
