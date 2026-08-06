@@ -169870,5 +169870,29 @@
     "usd": 2130.0,
     "odds_at_bet": 71,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786007878,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-dk-t1-2026-08-06",
+    "title": "LoL: Dplus KIA vs T1 (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 3809.5199979999998,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786007930,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "wta-bartunk-anisimo-2026-08-06",
+    "title": "National Bank Open: Nikola Bartunkova vs Amanda Anisimova",
+    "outcome": "Nikola Bartunkova",
+    "side": "BUY",
+    "usd": 1020.0000000000001,
+    "odds_at_bet": 34,
+    "status": "pending"
   }
 ]
