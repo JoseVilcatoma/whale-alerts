@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 05:36:51 (hora de Perú)
+Actualizado: 2026-08-06 05:39:54 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| RN1 | 1389 | 731 | 56 | 66% |
+| RN1 | 1389 | 731 | 57 | 66% |
 | GoalLineGhost | 203 | 106 | 0 | 66% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
@@ -79,7 +79,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 5 | 50% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 41 | 41 | 1 | 50% |
-|  | 23 | 23 | 4 | 50% |
+|  | 23 | 23 | 5 | 50% |
 | sbsigner | 42 | 45 | 0 | 48% |
 | VPenguin | 19 | 21 | 0 | 48% |
 | skyman44 | 11 | 12 | 0 | 48% |

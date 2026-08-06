@@ -171934,5 +171934,29 @@
     "usd": 1469.8437999999999,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786012748,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-koning-bennema-2026-08-06",
+    "title": "ITF Koksijde: Loes Ebeling Koning vs Eva Bennemann",
+    "outcome": "Eva Bennemann",
+    "side": "BUY",
+    "usd": 1185.5800000000002,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786012765,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "itf-hennema-encheva-2026-08-06",
+    "title": "ITF Leipzig: Caijsa Hennemann vs Lidia Encheva",
+    "outcome": "Caijsa Hennemann",
+    "side": "BUY",
+    "usd": 2293.349987,
+    "odds_at_bet": 93,
+    "status": "pending"
   }
 ]
