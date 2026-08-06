@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 23:47:24 (hora de Perú)
+Actualizado: 2026-08-05 23:49:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $2,507.53
-**Retorno acumulado:** +150.75%
-**Peor caída desde un máximo (drawdown):** 18.72%
+**Bankroll actual:** $2,435.34
+**Retorno acumulado:** +143.53%
+**Peor caída desde un máximo (drawdown):** 21.06%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -19,9 +19,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 1 | 0 | 0 | +7.11 USD |
 | ferrariChampions2026 | 4 | 2 | 2 | +0.67 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 15 | 12 | 2 | -23.93 USD |
-| HomeRunHazard | 36 | 27 | 10 | -31.79 USD |
-| swisstony | 4 | 7 | 1 | -33.66 USD |
+| swisstony | 4 | 8 | 0 | -38.32 USD |
+| RN1 | 15 | 14 | 0 | -58.78 USD |
+| HomeRunHazard | 36 | 28 | 9 | -64.47 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 | Talvez10 | 0 | 4 | 0 | -397.90 USD |
@@ -53,8 +53,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Panthers vs. Cardinals: O/U 35.5 | Under (BUY) | 50% | 9.44 | ⏳ pendiente | — |
 | HomeRunHazard | Panthers vs. Cardinals: O/U 35.5 | Under (BUY) | 50% | 9.75 | ⏳ pendiente | — |
 | HomeRunHazard | Panthers vs. Cardinals: O/U 35.5 | Under (BUY) | 51% | 14.00 | ⏳ pendiente | — |
-| RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 85% | 17.12 | ⏳ pendiente | — |
-| RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 85% | 17.73 | ⏳ pendiente | — |
+| RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 85% | 17.12 | ❌ perdida | -17.12 |
+| RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 85% | 17.73 | ❌ perdida | -17.73 |
 | RN1 | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 88% | 37.17 | ✅ ganada | +5.07 |
 | HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 82% | 6.24 | ✅ ganada | +1.37 |
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 43% | 3.01 | ❌ perdida | -3.01 |
@@ -67,13 +67,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 54% | 6.18 | ❌ perdida | -6.18 |
 | HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 53% | 11.91 | ❌ perdida | -11.91 |
 | HomeRunHazard | Spread: Arizona Diamondbacks (-7.5) | Arizona Diamondbacks (BUY) | 64% | 30.77 | ⏳ pendiente | — |
-| HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 48% | 32.68 | ⏳ pendiente | — |
+| HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 48% | 32.68 | ❌ perdida | -32.68 |
 | HomeRunHazard | Spread: Arizona Diamondbacks (-8.5) | Arizona Diamondbacks (BUY) | 42% | 28.49 | ⏳ pendiente | — |
 | HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Over (BUY) | 44% | 4.51 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: St. Louis Cardinals (-2.5) | New York Yankees (BUY) | 61% | 39.66 | ✅ ganada | +25.36 |
 | HomeRunHazard | Spread: St. Louis Cardinals (-2.5) | New York Yankees (BUY) | 76% | 5.43 | ✅ ganada | +1.71 |
 | ferrariChampions2026 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 33% | 3.05 | ✅ ganada | +6.19 |
-| swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 33% | 4.66 | ⏳ pendiente | — |
+| swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 33% | 4.66 | ❌ perdida | -4.66 |
 | ferrariChampions2026 | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 54% | 8.44 | ❌ perdida | -8.44 |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 54% | 9.20 | ✅ ganada | +7.84 |
 | HomeRunHazard | Spread: Chicago Sky (-3.5) | Chicago Sky (BUY) | 41% | 7.20 | ✅ ganada | +10.36 |

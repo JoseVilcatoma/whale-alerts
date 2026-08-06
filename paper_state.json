@@ -1,5 +1,5 @@
 {
-  "bankroll": 2507.5286176228915,
+  "bankroll": 2435.338617622892,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1610,6 +1610,26 @@
       "timestamp": 1785991141.7970169,
       "bankroll": 2507.53,
       "event": "lost: RN1 \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1785991762.7432187,
+      "bankroll": 2502.87,
+      "event": "lost: swisstony \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 10.5"
+    },
+    {
+      "timestamp": 1785991763.0437431,
+      "bankroll": 2470.19,
+      "event": "lost: HomeRunHazard \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 10.5"
+    },
+    {
+      "timestamp": 1785991763.3443074,
+      "bankroll": 2452.46,
+      "event": "lost: RN1 \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 10.5"
+    },
+    {
+      "timestamp": 1785991763.444496,
+      "bankroll": 2435.34,
+      "event": "lost: RN1 \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 10.5"
     }
   ]
 }

@@ -5678,8 +5678,8 @@
     "whale_pct": 0.161,
     "paper_stake_usd": 4.66,
     "odds_at_bet": 33,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -4.66,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5788,8 +5788,8 @@
     "whale_pct": 1.13,
     "paper_stake_usd": 32.68,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -32.68,
     "overlaps_with": [
       "swisstony"
     ],
@@ -6037,8 +6037,8 @@
     "whale_pct": 0.612,
     "paper_stake_usd": 17.73,
     "odds_at_bet": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -17.73,
     "overlaps_with": [
       "HomeRunHazard",
       "swisstony"
@@ -6058,8 +6058,8 @@
     "whale_pct": 0.591,
     "paper_stake_usd": 17.12,
     "odds_at_bet": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -17.12,
     "overlaps_with": [
       "HomeRunHazard",
       "swisstony"
