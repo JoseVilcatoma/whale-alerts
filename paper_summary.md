@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 21:22:03 (hora de Perú)
+Actualizado: 2026-08-05 21:24:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,983.85
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | wr0ngw4yb3tt0r | 11 | 11 | 5 | +59.35 USD |
 | RN1 | 14 | 8 | 0 | +6.24 USD |
-| HomeRunHazard | 9 | 10 | 25 | +0.78 USD |
+| HomeRunHazard | 9 | 10 | 28 | +0.78 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 3 | +0.00 USD |
@@ -32,6 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|
 | mlb-tor-hou-2026-08-05-spread-home-1pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-cws-bos-2026-08-05-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| mlb-stl-nyy-2026-08-05-total-8pt5 | HomeRunHazard, texaskid |
 | dota2-flc-liquid-2026-08-05-game3 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, CORGI8 |
 | wnba-sea-nyl-2026-08-05 | HomeRunHazard, swisstony |
 | wnba-phx-atl-2026-08-05-total-181pt5 | HomeRunHazard, swisstony |
@@ -41,6 +42,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | St. Louis Cardinals vs. New York Yankees | Under (BUY) | 65% | 4.85 | ⏳ pendiente | — |
+| HomeRunHazard | St. Louis Cardinals vs. New York Yankees | Under (BUY) | 56% | 3.01 | ⏳ pendiente | — |
+| HomeRunHazard | St. Louis Cardinals vs. New York Yankees | Under (BUY) | 70% | 38.01 | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. New York Yankees | Under (BUY) | 67% | 4.42 | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. New York Yankees | Under (BUY) | 65% | 3.76 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 20% | 9.20 | ⏳ pendiente | — |
@@ -68,6 +72,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 14.72 | ❌ perdida | -14.72 |
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 7.77 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Atlanta Braves: O/U 6. | Over (BUY) | 62% | 7.46 | ❌ perdida | -7.46 |
-| wr0ngw4yb3tt0r | Miami Marlins vs. Atlanta Braves: O/U 6. | Over (BUY) | 60% | 3.72 | ❌ perdida | -3.72 |
-| wr0ngw4yb3tt0r | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 6.34 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Boston Red Sox (BUY) | 41% | 14.63 | ✅ ganada | +21.05 |

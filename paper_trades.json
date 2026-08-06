@@ -5336,5 +5336,61 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785982925,
+    "timestamp_added": 1785982925.4830945,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-stl-nyy-2026-08-05-total-7pt5",
+    "title": "St. Louis Cardinals vs. New York Yankees: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 6445.999,
+    "whale_pct": 1.274,
+    "paper_stake_usd": 38.01,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785983040,
+    "timestamp_added": 1785983040.5035129,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-stl-nyy-2026-08-05-total-7pt5",
+    "title": "St. Louis Cardinals vs. New York Yankees: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 536.7044,
+    "whale_pct": 0.101,
+    "paper_stake_usd": 3.01,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785983041,
+    "timestamp_added": 1785983042.1611376,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-stl-nyy-2026-08-05-total-8pt5",
+    "title": "St. Louis Cardinals vs. New York Yankees: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 863.5855,
+    "whale_pct": 0.163,
+    "paper_stake_usd": 4.85,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "texaskid"
+    ],
+    "recortado_por_bankroll": false
   }
 ]
