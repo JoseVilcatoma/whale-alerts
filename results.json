@@ -169534,5 +169534,53 @@
     "usd": 2449.9944,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786006722,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-drx-dnf-2026-08-06-game2",
+    "title": "LoL: Kiwoom DRX vs DN SOOPers - Game 2 Winner",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 9433.7264,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786006770,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-drx-dnf-2026-08-06-game2",
+    "title": "LoL: Kiwoom DRX vs DN SOOPers - Game 2 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 4205.691,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786006808,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "cs2-sashi-ntr-2026-08-06-game1",
+    "title": "Counter-Strike: Sashi Esport vs Nuclear TigeRES - Map 1 Winner",
+    "outcome": "Nuclear TigeRES",
+    "side": "SELL",
+    "usd": 1793.97423,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786006830,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-drx-dnf-2026-08-06-game2",
+    "title": "LoL: Kiwoom DRX vs DN SOOPers - Game 2 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 2818.9398,
+    "odds_at_bet": 46,
+    "status": "pending"
   }
 ]
