@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 23:30:45 (hora de Perú)
+Actualizado: 2026-08-05 23:32:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,560.86
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 15 | 8 | 6 | +11.31 USD |
 | texaskid | 1 | 0 | 0 | +7.11 USD |
 | ferrariChampions2026 | 4 | 2 | 2 | +0.67 USD |
-| HomeRunHazard | 36 | 26 | 10 | -19.88 USD |
+| HomeRunHazard | 36 | 26 | 11 | -19.88 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 4 | 7 | 1 | -33.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
@@ -48,6 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Panthers vs. Cardinals: O/U 35.5 | Over (BUY) | 48% | 9.35 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago White Sox vs. Boston Red Sox: O/ | Under (BUY) | 55% | 5.93 | ⏳ pendiente | — |
 | HomeRunHazard | Panthers vs. Cardinals: O/U 35.5 | Under (BUY) | 50% | 9.44 | ⏳ pendiente | — |
 | HomeRunHazard | Panthers vs. Cardinals: O/U 35.5 | Under (BUY) | 50% | 9.75 | ⏳ pendiente | — |
@@ -77,4 +78,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 54% | 9.20 | ✅ ganada | +7.84 |
 | HomeRunHazard | Spread: Chicago Sky (-3.5) | Chicago Sky (BUY) | 41% | 7.20 | ✅ ganada | +10.36 |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 57% | 9.67 | ✅ ganada | +7.29 |
-| ferrariChampions2026 | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 58% | 3.17 | ✅ ganada | +2.30 |
