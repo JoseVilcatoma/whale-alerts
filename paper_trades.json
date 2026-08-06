@@ -6427,5 +6427,43 @@
       "wr0ngw4yb3tt0r"
     ],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1786027664,
+    "timestamp_added": 1786027664.8749025,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-la-min-2026-08-06-total-188pt5",
+    "title": "Los Angeles Sparks vs. Minnesota Lynx: O/U 188.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 468.9011760000001,
+    "whale_pct": 0.463,
+    "paper_stake_usd": 11.15,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1786027708,
+    "timestamp_added": 1786027709.1015775,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-pit-mil-2026-08-06-total-8pt5",
+    "title": "Pittsburgh Pirates vs. Milwaukee Brewers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 109.91689999999998,
+    "whale_pct": 0.109,
+    "paper_stake_usd": 2.61,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
