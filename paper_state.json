@@ -1,5 +1,5 @@
 {
-  "bankroll": 2983.853455485637,
+  "bankroll": 2928.883455485637,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1270,6 +1270,21 @@
       "timestamp": 1785982842.2059598,
       "bankroll": 2983.85,
       "event": "lost: swisstony \u2014 Dallas Wings vs. Washington Mystics"
+    },
+    {
+      "timestamp": 1785983718.5006387,
+      "bankroll": 2960.13,
+      "event": "lost: HomeRunHazard \u2014 Washington Nationals vs. Philadelphia Phillies: O/U 7.5"
+    },
+    {
+      "timestamp": 1785983718.7483146,
+      "bankroll": 2954.8,
+      "event": "lost: HomeRunHazard \u2014 Washington Nationals vs. Philadelphia Phillies: O/U 7.5"
+    },
+    {
+      "timestamp": 1785983718.8484535,
+      "bankroll": 2928.88,
+      "event": "lost: HomeRunHazard \u2014 Washington Nationals vs. Philadelphia Phillies: O/U 7.5"
     }
   ]
 }
