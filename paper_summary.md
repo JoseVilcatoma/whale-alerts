@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 23:18:04 (hora de Perú)
+Actualizado: 2026-08-05 23:20:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $2,975.44
-**Retorno acumulado:** +197.54%
+**Bankroll actual:** $2,955.80
+**Retorno acumulado:** +195.58%
 **Peor caída desde un máximo (drawdown):** 12.88%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,11 +16,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | wr0ngw4yb3tt0r | 14 | 13 | 1 | +55.00 USD |
-| HomeRunHazard | 32 | 22 | 18 | +8.07 USD |
 | texaskid | 1 | 0 | 0 | +7.11 USD |
 | RN1 | 14 | 8 | 7 | +6.24 USD |
+| ferrariChampions2026 | 4 | 2 | 2 | +0.67 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
-| ferrariChampions2026 | 3 | 2 | 3 | -5.52 USD |
+| HomeRunHazard | 33 | 23 | 16 | -17.77 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 4 | 7 | 1 | -33.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
@@ -71,7 +71,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Over (BUY) | 44% | 4.51 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: St. Louis Cardinals (-2.5) | New York Yankees (BUY) | 61% | 39.66 | ✅ ganada | +25.36 |
 | HomeRunHazard | Spread: St. Louis Cardinals (-2.5) | New York Yankees (BUY) | 76% | 5.43 | ✅ ganada | +1.71 |
-| ferrariChampions2026 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 33% | 3.05 | ⏳ pendiente | — |
+| ferrariChampions2026 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 33% | 3.05 | ✅ ganada | +6.19 |
 | swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 33% | 4.66 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 54% | 8.44 | ❌ perdida | -8.44 |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 54% | 9.20 | ✅ ganada | +7.84 |
