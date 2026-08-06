@@ -169666,5 +169666,41 @@
     "usd": 14420.893399999999,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786007292,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-lgd-tt-2026-08-06-game1",
+    "title": "LoL: LGD Gaming vs ThunderTalk Gaming - Game 1 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 1805.94225,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786007297,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-drx-dnf-2026-08-06-game2",
+    "title": "LoL: Kiwoom DRX vs DN SOOPers - Game 2 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 1287.513,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786007324,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-lgd-tt-2026-08-06-game2",
+    "title": "LoL: LGD Gaming vs ThunderTalk Gaming - Game 2 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1552.8555900000001,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
