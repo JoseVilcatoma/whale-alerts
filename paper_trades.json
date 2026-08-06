@@ -2748,8 +2748,8 @@
     "whale_pct": 0.503,
     "paper_stake_usd": 7.4,
     "odds_at_bet": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5386,8 +5386,8 @@
     "whale_pct": 0.163,
     "paper_stake_usd": 4.85,
     "odds_at_bet": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.61,
     "overlaps_with": [
       "texaskid"
     ],
@@ -6064,6 +6064,60 @@
       "HomeRunHazard",
       "swisstony"
     ],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785989005,
+    "timestamp_added": 1785989005.509748,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "nfl-car-ari-2026-08-07-total-35pt5",
+    "title": "Panthers vs. Cardinals: O/U 35.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 918.0,
+    "whale_pct": 0.472,
+    "paper_stake_usd": 14.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785989005,
+    "timestamp_added": 1785989005.9605963,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "nfl-car-ari-2026-08-07-total-35pt5",
+    "title": "Panthers vs. Cardinals: O/U 35.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 639.095,
+    "whale_pct": 0.329,
+    "paper_stake_usd": 9.75,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785989034,
+    "timestamp_added": 1785989035.013832,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "nfl-car-ari-2026-08-07-total-35pt5",
+    "title": "Panthers vs. Cardinals: O/U 35.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 619.0,
+    "whale_pct": 0.318,
+    "paper_stake_usd": 9.44,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
     "recortado_por_bankroll": false
   }
 ]

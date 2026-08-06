@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 23:03:13 (hora de Perú)
+Actualizado: 2026-08-05 23:05:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $2,965.72
-**Retorno acumulado:** +196.57%
+**Bankroll actual:** $2,975.44
+**Retorno acumulado:** +197.54%
 **Peor caída desde un máximo (drawdown):** 12.88%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,9 +16,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | wr0ngw4yb3tt0r | 14 | 13 | 1 | +55.00 USD |
+| HomeRunHazard | 32 | 22 | 17 | +8.07 USD |
+| texaskid | 1 | 0 | 0 | +7.11 USD |
 | RN1 | 14 | 8 | 7 | +6.24 USD |
-| HomeRunHazard | 31 | 22 | 15 | +5.46 USD |
-| texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | ferrariChampions2026 | 3 | 2 | 3 | -5.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
@@ -48,6 +48,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Panthers vs. Cardinals: O/U 35.5 | Under (BUY) | 50% | 9.44 | ⏳ pendiente | — |
+| HomeRunHazard | Panthers vs. Cardinals: O/U 35.5 | Under (BUY) | 50% | 9.75 | ⏳ pendiente | — |
+| HomeRunHazard | Panthers vs. Cardinals: O/U 35.5 | Under (BUY) | 51% | 14.00 | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 85% | 17.12 | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 85% | 17.73 | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 88% | 37.17 | ⏳ pendiente | — |
@@ -75,6 +78,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 57% | 9.67 | ✅ ganada | +7.29 |
 | ferrariChampions2026 | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 58% | 3.17 | ✅ ganada | +2.30 |
 | HomeRunHazard | Spread: Chicago Sky (-3.5) | Los Angeles Sparks (BUY) | 50% | 5.13 | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 64% | 3.66 | ✅ ganada | +2.06 |
-| HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 37% | 5.83 | ❌ perdida | -5.83 |
-| ferrariChampions2026 | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 59% | 3.33 | ✅ ganada | +2.31 |
