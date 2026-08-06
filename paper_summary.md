@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 00:14:04 (hora de Perú)
+Actualizado: 2026-08-06 00:16:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,409.48
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 8 | 0 | -38.32 USD |
 | RN1 | 15 | 14 | 0 | -58.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
-| HomeRunHazard | 37 | 30 | 7 | -117.99 USD |
+| HomeRunHazard | 37 | 30 | 8 | -117.99 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 | Talvez10 | 0 | 4 | 0 | -397.90 USD |
 
@@ -48,6 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Baltimore Orioles (-1.5) | Los Angeles Angels (BUY) | 52% | 11.08 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Over (BUY) | 41% | 17.02 | ⏳ pendiente | — |
 | HomeRunHazard | Panthers vs. Cardinals: O/U 35.5 | Over (BUY) | 48% | 9.35 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago White Sox vs. Boston Red Sox: O/ | Under (BUY) | 55% | 5.93 | ⏳ pendiente | — |
@@ -77,4 +78,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 33% | 4.66 | ❌ perdida | -4.66 |
 | ferrariChampions2026 | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 54% | 8.44 | ❌ perdida | -8.44 |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 54% | 9.20 | ✅ ganada | +7.84 |
-| HomeRunHazard | Spread: Chicago Sky (-3.5) | Chicago Sky (BUY) | 41% | 7.20 | ✅ ganada | +10.36 |
