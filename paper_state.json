@@ -1,5 +1,5 @@
 {
-  "bankroll": 3007.979956911915,
+  "bankroll": 2992.8899569119153,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1160,6 +1160,21 @@
       "timestamp": 1785981298.0679789,
       "bankroll": 3007.98,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Dallas Wings vs. Washington Mystics: O/U 166.5"
+    },
+    {
+      "timestamp": 1785981544.363123,
+      "bankroll": 3004.07,
+      "event": "lost: swisstony \u2014 Miami Marlins vs. Atlanta Braves: O/U 7.5"
+    },
+    {
+      "timestamp": 1785981545.657069,
+      "bankroll": 3000.35,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Miami Marlins vs. Atlanta Braves: O/U 6.5"
+    },
+    {
+      "timestamp": 1785981545.7572985,
+      "bankroll": 2992.89,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Miami Marlins vs. Atlanta Braves: O/U 6.5"
     }
   ]
 }
