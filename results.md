@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 04:53:50 (hora de Perú)
+Actualizado: 2026-08-06 04:55:09 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SDTrading | 7 | 4 | 0 | 64% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 47 | 28 | 12 | 63% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
-| HomeRunHazard | 476 | 294 | 3 | 62% |
+| HomeRunHazard | 476 | 294 | 4 | 62% |
 | ferrariChampions2026 | 2321 | 1503 | 17 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
@@ -65,7 +65,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | us391 | 33 | 23 | 0 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 211 | 154 | 6 | 58% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 211 | 154 | 7 | 58% |
 | flatbarrel | 13 | 10 | 0 | 57% |
 | meoooow | 23 | 18 | 0 | 56% |
 | quavoo | 5 | 4 | 1 | 56% |
@@ -123,3 +123,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | LlamaLoco0000 | 0 | 0 | 2 | — |
 | ofgoodfgdohojdfitsjustmoney | 0 | 0 | 1 | — |
 | Jsram | 0 | 0 | 2 | — |
+| JnStTrdrBnusFnd | 0 | 0 | 1 | — |
