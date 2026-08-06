@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 20:22:45 (hora de Perú)
+Actualizado: 2026-08-05 20:24:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $2,993.88
-**Retorno acumulado:** +199.39%
+**Bankroll actual:** $2,982.66
+**Retorno acumulado:** +198.27%
 **Peor caída desde un máximo (drawdown):** 12.88%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,12 +16,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | wr0ngw4yb3tt0r | 4 | 0 | 23 | +69.89 USD |
-| RN1 | 14 | 7 | 1 | +11.89 USD |
+| RN1 | 14 | 8 | 0 | +6.24 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 3 | +0.00 USD |
-| swisstony | 0 | 0 | 11 | +0.00 USD |
+| swisstony | 0 | 1 | 10 | -5.57 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| HomeRunHazard | 0 | 6 | 25 | -26.07 USD |
+| HomeRunHazard | 1 | 6 | 24 | -26.07 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 
@@ -60,8 +60,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Dallas Wings vs. Washington Mystics | Dallas Wings (BUY) | 90% | 3.90 | ⏳ pendiente | — |
 | swisstony | Spread: Milwaukee Brewers (-1.5) | Pittsburgh Pirates (BUY) | 59% | 16.64 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Athletics vs. Cincinnati Reds: O/U 7.5 | Over (BUY) | 40% | 8.77 | ⏳ pendiente | — |
-| RN1 | Spread: Baltimore Orioles (-2.5) | Los Angeles Angels (BUY) | 76% | 5.65 | ⏳ pendiente | — |
-| swisstony | Spread: Baltimore Orioles (-1.5) | Los Angeles Angels (BUY) | 57% | 5.57 | ⏳ pendiente | — |
+| RN1 | Spread: Baltimore Orioles (-2.5) | Los Angeles Angels (BUY) | 76% | 5.65 | ❌ perdida | -5.65 |
+| swisstony | Spread: Baltimore Orioles (-1.5) | Los Angeles Angels (BUY) | 57% | 5.57 | ❌ perdida | -5.57 |
 | swisstony | Seattle Storm vs. New York Liberty | New York Liberty (BUY) | 83% | 9.58 | ⏳ pendiente | — |
 | swisstony | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 56% | 4.66 | ⏳ pendiente | — |
 | swisstony | Spread: Atlanta Braves (-1.5) | Miami Marlins (BUY) | 23% | 3.20 | ⏳ pendiente | — |
