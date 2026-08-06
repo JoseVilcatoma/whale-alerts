@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 21:32:19 (hora de Perú)
+Actualizado: 2026-08-05 21:34:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,983.85
@@ -17,10 +17,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | wr0ngw4yb3tt0r | 11 | 11 | 5 | +59.35 USD |
 | RN1 | 14 | 8 | 0 | +6.24 USD |
-| HomeRunHazard | 9 | 10 | 33 | +0.78 USD |
+| HomeRunHazard | 9 | 10 | 34 | +0.78 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 3 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 5 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 3 | 6 | 2 | -20.71 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
@@ -31,6 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Mercado | Vigilados que coincidieron |
 |---|---|
 | mlb-tor-hou-2026-08-05-spread-home-1pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| wnba-la-chi-2026-08-05 | HomeRunHazard, ferrariChampions2026 |
 | mlb-cws-bos-2026-08-05-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-stl-nyy-2026-08-05-total-8pt5 | HomeRunHazard, texaskid |
 | wnba-la-chi-2026-08-05-spread-home-3pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -43,6 +44,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 64% | 3.66 | ⏳ pendiente | — |
+| HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 37% | 5.83 | ⏳ pendiente | — |
+| ferrariChampions2026 | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 59% | 3.33 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 54% | 7.38 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 53% | 6.21 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago Sky (-3.5) | Los Angeles Sparks (BUY) | 53% | 7.63 | ⏳ pendiente | — |
@@ -70,6 +74,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 71% | 16.84 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 60% | 8.31 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 38% | 5.72 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 61% | 9.59 | ⏳ pendiente | — |
-| Talvez10 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 52% | 4.09 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 41% | 3.18 | ❌ perdida | -3.18 |
