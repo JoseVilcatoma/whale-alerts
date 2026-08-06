@@ -1,5 +1,5 @@
 {
-  "bankroll": 2870.344216545649,
+  "bankroll": 2898.9134473148797,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1440,6 +1440,31 @@
       "timestamp": 1785988418.1640322,
       "bankroll": 2870.34,
       "event": "lost: ferrariChampions2026 \u2014 Los Angeles Sparks vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1785988604.0220985,
+      "bankroll": 2873.23,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Los Angeles Sparks vs. Chicago Sky: O/U 187.5"
+    },
+    {
+      "timestamp": 1785988604.1222816,
+      "bankroll": 2879.09,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Los Angeles Sparks vs. Chicago Sky: O/U 187.5"
+    },
+    {
+      "timestamp": 1785988604.2224946,
+      "bankroll": 2886.26,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Los Angeles Sparks vs. Chicago Sky: O/U 187.5"
+    },
+    {
+      "timestamp": 1785988604.7528422,
+      "bankroll": 2894.84,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Sparks vs. Chicago Sky: O/U 188.5"
+    },
+    {
+      "timestamp": 1785988604.8530354,
+      "bankroll": 2898.91,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Sparks vs. Chicago Sky: O/U 188.5"
     }
   ]
 }
