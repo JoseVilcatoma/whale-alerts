@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 19:47:51 (hora de Perú)
+Actualizado: 2026-08-05 19:49:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,993.88
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
-| wr0ngw4yb3tt0r | 4 | 0 | 14 | +69.89 USD |
+| wr0ngw4yb3tt0r | 4 | 0 | 15 | +69.89 USD |
 | RN1 | 14 | 7 | 1 | +11.89 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
@@ -39,6 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Boston Red Sox (BUY) | 41% | 14.63 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 3.13 | ⏳ pendiente | — |
 | swisstony | Dallas Wings vs. Washington Mystics | Dallas Wings (BUY) | 86% | 4.90 | ⏳ pendiente | — |
 | swisstony | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 46% | 3.14 | ⏳ pendiente | — |
@@ -68,4 +69,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Under (BUY) | 54% | 8.90 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Under (BUY) | 54% | 4.35 | ⏳ pendiente | — |
 | Talvez10 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 52% | 51.02 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Miami Marlins vs. Atlanta Braves: O/U 9. | Over (BUY) | 47% | 19.26 | ⏳ pendiente | — |

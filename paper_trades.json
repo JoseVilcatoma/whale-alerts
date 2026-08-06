@@ -4794,5 +4794,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785977317,
+    "timestamp_added": 1785977317.6937346,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-cws-bos-2026-08-05-spread-home-2pt5",
+    "title": "Spread: Boston Red Sox (-2.5)",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "whale_usd": 2399.9964999999997,
+    "whale_pct": 0.489,
+    "paper_stake_usd": 14.63,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
