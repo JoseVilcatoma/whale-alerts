@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 19:49:54 (hora de Perú)
+Actualizado: 2026-08-05 19:51:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,993.88
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
-| wr0ngw4yb3tt0r | 4 | 0 | 15 | +69.89 USD |
+| wr0ngw4yb3tt0r | 4 | 0 | 18 | +69.89 USD |
 | RN1 | 14 | 7 | 1 | +11.89 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
@@ -39,6 +39,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Miami Marlins vs. Atlanta Braves: O/U 6. | Over (BUY) | 62% | 7.46 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Miami Marlins vs. Atlanta Braves: O/U 6. | Over (BUY) | 60% | 3.72 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 6.34 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Boston Red Sox (BUY) | 41% | 14.63 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 3.13 | ⏳ pendiente | — |
 | swisstony | Dallas Wings vs. Washington Mystics | Dallas Wings (BUY) | 86% | 4.90 | ⏳ pendiente | — |
@@ -66,6 +69,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Washington Nationals vs. Philadelphia Ph | Under (BUY) | 64% | 3.13 | ⏳ pendiente | — |
 | HomeRunHazard | Phoenix Mercury vs. Atlanta Dream: O/U 1 | Over (BUY) | 50% | 3.56 | ⏳ pendiente | — |
 | HomeRunHazard | Washington Nationals vs. Philadelphia Ph | Over (BUY) | 33% | 3.22 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Under (BUY) | 54% | 8.90 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Under (BUY) | 54% | 4.35 | ⏳ pendiente | — |
-| Talvez10 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 52% | 51.02 | ⏳ pendiente | — |
