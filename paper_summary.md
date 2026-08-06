@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 19:53:59 (hora de Perú)
+Actualizado: 2026-08-05 19:56:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,993.88
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
-| wr0ngw4yb3tt0r | 4 | 0 | 18 | +69.89 USD |
+| wr0ngw4yb3tt0r | 4 | 0 | 19 | +69.89 USD |
 | RN1 | 14 | 7 | 1 | +11.89 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
@@ -39,6 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 7.77 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Atlanta Braves: O/U 6. | Over (BUY) | 62% | 7.46 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Atlanta Braves: O/U 6. | Over (BUY) | 60% | 3.72 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 6.34 | ⏳ pendiente | — |
@@ -68,4 +69,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Seattle Storm vs. New York Liberty | Seattle Storm (BUY) | 20% | 8.09 | ⏳ pendiente | — |
 | HomeRunHazard | Washington Nationals vs. Philadelphia Ph | Under (BUY) | 64% | 3.13 | ⏳ pendiente | — |
 | HomeRunHazard | Phoenix Mercury vs. Atlanta Dream: O/U 1 | Over (BUY) | 50% | 3.56 | ⏳ pendiente | — |
-| HomeRunHazard | Washington Nationals vs. Philadelphia Ph | Over (BUY) | 33% | 3.22 | ⏳ pendiente | — |
