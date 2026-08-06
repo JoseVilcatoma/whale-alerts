@@ -173422,5 +173422,101 @@
     "usd": 1728.2799980000002,
     "odds_at_bet": 65,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786014967,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-lekomts-masiian-2026-08-06",
+    "title": "ITF Kursumlijska Banja: Ustiniya Lekomtseva vs Mariia Masiianskaia",
+    "outcome": "Mariia Masiianskaia",
+    "side": "BUY",
+    "usd": 1007.317073,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786014973,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-dk-t1-2026-08-06-game2",
+    "title": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 2219.2394,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786014989,
+    "username": "patient12",
+    "wallet": "0xe291a588ece487f3323736c55c6144f6a99e748e",
+    "slug": "lol-dk-t1-2026-08-06-game2",
+    "title": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 2078.5919999999996,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786014998,
+    "username": "patient12",
+    "wallet": "0xe291a588ece487f3323736c55c6144f6a99e748e",
+    "slug": "lol-dk-t1-2026-08-06-game2",
+    "title": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 7002.633599999999,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786014998,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-dk-t1-2026-08-06-game2",
+    "title": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 7633.5064,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786015011,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-koning-bennema-2026-08-06",
+    "title": "ITF Koksijde: Loes Ebeling Koning vs Eva Bennemann",
+    "outcome": "Eva Bennemann",
+    "side": "BUY",
+    "usd": 1074.8741859999998,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786015024,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-dk-t1-2026-08-06-game2",
+    "title": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 1527.5704999999998,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786015029,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-black-ekstran-2026-08-06",
+    "title": "ITF Roehampton: Brooke Black vs Monika Ekstrand",
+    "outcome": "Brooke Black",
+    "side": "BUY",
+    "usd": 1155.7024,
+    "odds_at_bet": 74,
+    "status": "pending"
   }
 ]
