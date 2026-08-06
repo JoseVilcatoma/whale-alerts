@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 20:33:01 (hora de Perú)
+Actualizado: 2026-08-05 20:35:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,973.89
@@ -18,10 +18,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 4 | 1 | 22 | +61.12 USD |
 | RN1 | 14 | 8 | 0 | +6.24 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
-| Talvez10 | 0 | 0 | 3 | +0.00 USD |
+| Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | swisstony | 0 | 1 | 10 | -5.57 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| HomeRunHazard | 1 | 6 | 25 | -26.07 USD |
+| HomeRunHazard | 1 | 6 | 27 | -26.07 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 
@@ -39,6 +39,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 52% | 304.94 | ⏳ pendiente | — |
+| HomeRunHazard | Minnesota Twins vs. Kansas City Royals:  | Under (BUY) | 67% | 27.56 | ⏳ pendiente | — |
+| HomeRunHazard | Minnesota Twins vs. Kansas City Royals:  | Under (BUY) | 45% | 14.84 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 71% | 16.84 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 60% | 8.31 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 38% | 5.72 | ⏳ pendiente | — |
@@ -66,6 +69,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Seattle Storm vs. New York Liberty | New York Liberty (BUY) | 83% | 9.58 | ⏳ pendiente | — |
 | swisstony | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 56% | 4.66 | ⏳ pendiente | — |
 | swisstony | Spread: Atlanta Braves (-1.5) | Miami Marlins (BUY) | 23% | 3.20 | ⏳ pendiente | — |
-| swisstony | Miami Marlins vs. Atlanta Braves: O/U 7. | Over (BUY) | 66% | 3.91 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Atlanta Dream: O/U 1 | Over (BUY) | 83% | 8.39 | ⏳ pendiente | — |
-| HomeRunHazard | Washington Nationals vs. Philadelphia Ph | Under (BUY) | 63% | 25.92 | ⏳ pendiente | — |
