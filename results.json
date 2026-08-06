@@ -169378,5 +169378,65 @@
     "usd": 2137.6801800000003,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786006368,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-sashi-ntr-2026-08-06-game2",
+    "title": "Counter-Strike: Sashi Esport vs Nuclear TigeRES - Map 2 Winner",
+    "outcome": "Nuclear TigeRES",
+    "side": "BUY",
+    "usd": 1478.1582,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786006375,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-dodig-giustin-2026-08-05",
+    "title": "Hagen: Matej Dodig vs Lorenzo Giustino",
+    "outcome": "Matej Dodig",
+    "side": "BUY",
+    "usd": 1821.95,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786006432,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-lgd-tt-2026-08-06-game1",
+    "title": "LoL: LGD Gaming vs ThunderTalk Gaming - Game 1 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 3444.82173,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786006437,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-lgd-tt-2026-08-06-game2",
+    "title": "LoL: LGD Gaming vs ThunderTalk Gaming - Game 2 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 3940.73532,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786006445,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-lgd-tt-2026-08-06-game2",
+    "title": "LoL: LGD Gaming vs ThunderTalk Gaming - Game 2 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1289.97873,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]

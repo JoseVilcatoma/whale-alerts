@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 03:52:05 (hora de Perú)
+Actualizado: 2026-08-06 03:54:09 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 19 | 7 | 0 | 73% |
 | CentralCasting | 18 | 7 | 1 | 72% |
 | Winnerdinnerchickenjr | 13 | 5 | 0 | 72% |
-| fkgggg2mouzfuria | 113 | 48 | 1 | 70% |
+| fkgggg2mouzfuria | 113 | 48 | 4 | 70% |
 | fRibrenlc | 33 | 15 | 0 | 69% |
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 9 | 4 | 0 | 69% |
 | BirdMan. | 83 | 39 | 1 | 68% |
@@ -65,7 +65,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | us391 | 33 | 23 | 0 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 211 | 154 | 4 | 58% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 211 | 154 | 5 | 58% |
 | flatbarrel | 13 | 10 | 0 | 57% |
 | meoooow | 23 | 18 | 0 | 56% |
 | quavoo | 5 | 4 | 1 | 56% |
@@ -75,7 +75,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 13 | 11 | 0 | 54% |
 | TAIWANNUMBERONE | 14 | 12 | 0 | 54% |
 | wr0ngw4yb3tt0r | 186 | 174 | 0 | 52% |
-| lllllllIlll | 11 | 10 | 0 | 52% |
+| lllllllIlll | 11 | 10 | 1 | 52% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 5 | 50% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 41 | 41 | 0 | 50% |
