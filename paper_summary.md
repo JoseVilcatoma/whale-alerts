@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 19:06:59 (hora de Perú)
+Actualizado: 2026-08-05 19:09:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,993.88
@@ -18,6 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 4 | 0 | 8 | +69.89 USD |
 | RN1 | 14 | 7 | 0 | +11.89 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
+| Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | HomeRunHazard | 0 | 6 | 11 | -26.07 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
@@ -34,6 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 52% | 37.85 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Falcons vs Team Liquid - Ga | Team Falcons (SELL) | 73% | 0.00 | ❌ perdida | -0.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Falcons vs Team Liquid - Ga | Team Falcons (SELL) | 73% | 0.00 | ❌ perdida | -0.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Falcons vs Team Liquid - Ga | Team Falcons (SELL) | 75% | 19.90 | ❌ perdida | -19.90 |
@@ -63,4 +65,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 40% | 6.07 | ✅ ganada | +9.10 |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 40% | 1.65 | ✅ ganada | +2.47 |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 40% | 4.34 | ✅ ganada | +6.51 |
-| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 40% | 4.61 | ✅ ganada | +6.92 |

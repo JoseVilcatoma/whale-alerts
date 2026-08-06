@@ -4226,5 +4226,23 @@
       "CORGI8"
     ],
     "recortado_por_bankroll": true
+  },
+  {
+    "timestamp": 1785974857,
+    "timestamp_added": 1785974858.2195826,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-det-sea-2026-08-05-total-7pt5",
+    "title": "Detroit Tigers vs. Seattle Mariners: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2671.76,
+    "whale_pct": 1.264,
+    "paper_stake_usd": 37.85,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
