@@ -1,5 +1,5 @@
 {
-  "bankroll": 2992.653455485637,
+  "bankroll": 2983.853455485637,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1260,6 +1260,16 @@
       "timestamp": 1785982718.5970905,
       "bankroll": 2992.65,
       "event": "won: HomeRunHazard \u2014 Minnesota Twins vs. Kansas City Royals: O/U 4.5"
+    },
+    {
+      "timestamp": 1785982842.0056732,
+      "bankroll": 2988.75,
+      "event": "lost: swisstony \u2014 Dallas Wings vs. Washington Mystics"
+    },
+    {
+      "timestamp": 1785982842.2059598,
+      "bankroll": 2983.85,
+      "event": "lost: swisstony \u2014 Dallas Wings vs. Washington Mystics"
     }
   ]
 }
