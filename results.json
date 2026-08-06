@@ -173626,5 +173626,53 @@
     "usd": 3517.4,
     "odds_at_bet": 86,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786015182,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-malygi-vladson-2026-08-06",
+    "title": "ITF Leipzig: Elena Malygina vs Laima Vladson",
+    "outcome": "Laima Vladson",
+    "side": "BUY",
+    "usd": 2170.64,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786015214,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-ig1-nip-2026-08-06-game2",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 2 Winner",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "usd": 2200.0,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786015259,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-ig1-nip-2026-08-06-game2",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 2 Winner",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "usd": 2200.0,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786015302,
+    "username": "TeGeeLP",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-dk-t1-2026-08-06-game2",
+    "title": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 1354.65,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]

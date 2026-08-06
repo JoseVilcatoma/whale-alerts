@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 06:19:34 (hora de Perú)
+Actualizado: 2026-08-06 06:21:59 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -22,7 +22,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | matenghehe | 113 | 2 | 7 | 98% |
 | patient12 | 64 | 3 | 5 | 96% |
 | paquitomillonario | 22 | 2 | 0 | 92% |
-| TopGleaguepick | 22 | 3 | 2 | 88% |
+| TopGleaguepick | 22 | 3 | 3 | 88% |
 | cigarettes | 71 | 12 | 5 | 86% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | texaskid | 18 | 3 | 0 | 86% |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Spicer | 29 | 10 | 0 | 74% |
 | fazewinline | 23 | 8 | 0 | 74% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 19 | 7 | 5 | 73% |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 19 | 7 | 7 | 73% |
 | CentralCasting | 18 | 7 | 1 | 72% |
 | Winnerdinnerchickenjr | 13 | 5 | 0 | 72% |
 | fkgggg2mouzfuria | 113 | 48 | 38 | 70% |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| RN1 | 1389 | 731 | 78 | 66% |
+| RN1 | 1389 | 731 | 79 | 66% |
 | GoalLineGhost | 203 | 106 | 0 | 66% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
