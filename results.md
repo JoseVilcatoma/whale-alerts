@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 05:28:32 (hora de Perú)
+Actualizado: 2026-08-06 05:30:34 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -19,7 +19,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | mentionmarket | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | CHACHA125655 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | Lk1101x | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
-| matenghehe | 113 | 2 | 4 | 98% |
+| matenghehe | 113 | 2 | 5 | 98% |
 | patient12 | 64 | 3 | 2 | 96% |
 | paquitomillonario | 22 | 2 | 0 | 92% |
 | TopGleaguepick | 22 | 3 | 0 | 88% |
@@ -46,19 +46,19 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| RN1 | 1389 | 731 | 52 | 66% |
+| RN1 | 1389 | 731 | 54 | 66% |
 | GoalLineGhost | 203 | 106 | 0 | 66% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 158 | 84 | 7 | 65% |
-| UpTheBlues | 94 | 52 | 43 | 64% |
+| UpTheBlues | 94 | 52 | 44 | 64% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 521 | 297 | 1 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 47 | 28 | 14 | 63% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
 | HomeRunHazard | 476 | 294 | 10 | 62% |
-| ferrariChampions2026 | 2321 | 1503 | 25 | 61% |
+| ferrariChampions2026 | 2321 | 1503 | 30 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
@@ -107,7 +107,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 111111111115 | 11 | 38 | 0 | 22% |
 | neurodivergentBet | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | LeatherPants | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
-| Anjun | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
+| Anjun | 1 | 4 | 1 | ⚠️ 20% (muestra chica: 5) |
 | Shori888 | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |
 | plonker2026 | 4 | 30 | 0 | 12% |
