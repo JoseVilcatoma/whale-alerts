@@ -5702,5 +5702,23 @@
       "HomeRunHazard"
     ],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785986480,
+    "timestamp_added": 1785986481.3533454,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-stl-nyy-2026-08-05-spread-away-2pt5",
+    "title": "Spread: St. Louis Cardinals (-2.5)",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "whale_usd": 760.0,
+    "whale_pct": 0.188,
+    "paper_stake_usd": 5.43,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
