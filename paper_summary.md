@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 19:15:06 (hora de Perú)
+Actualizado: 2026-08-05 19:17:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,993.88
@@ -15,12 +15,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
-| wr0ngw4yb3tt0r | 4 | 0 | 9 | +69.89 USD |
+| wr0ngw4yb3tt0r | 4 | 0 | 11 | +69.89 USD |
 | RN1 | 14 | 7 | 0 | +11.89 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| HomeRunHazard | 0 | 6 | 11 | -26.07 USD |
+| HomeRunHazard | 0 | 6 | 13 | -26.07 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 
@@ -29,12 +29,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Mercado | Vigilados que coincidieron |
 |---|---|
 | mlb-tor-hou-2026-08-05-spread-home-1pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| mlb-cws-bos-2026-08-05-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | dota2-flc-liquid-2026-08-05-game3 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, CORGI8 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Phoenix Mercury vs. Atlanta Dream: O/U 1 | Over (BUY) | 50% | 3.56 | ⏳ pendiente | — |
+| HomeRunHazard | Washington Nationals vs. Philadelphia Ph | Over (BUY) | 33% | 3.22 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Under (BUY) | 54% | 8.90 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Under (BUY) | 54% | 4.35 | ⏳ pendiente | — |
 | Talvez10 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 52% | 51.02 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Atlanta Braves: O/U 9. | Over (BUY) | 47% | 19.26 | ⏳ pendiente | — |
 | Talvez10 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 52% | 37.85 | ⏳ pendiente | — |
@@ -61,7 +66,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 40% | 1.97 | ✅ ganada | +2.95 |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 40% | 29.85 | ✅ ganada | +44.77 |
 | Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 40% | 3.03 | ✅ ganada | +4.54 |
-| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 40% | 1.71 | ✅ ganada | +2.56 |
-| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 40% | 4.85 | ✅ ganada | +7.27 |
-| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 40% | 18.23 | ✅ ganada | +27.34 |
-| Djdjdjekekek | Dota 2: Team Falcons vs Team Liquid (BO5 | Team Liquid (BUY) | 40% | 6.07 | ✅ ganada | +9.10 |
