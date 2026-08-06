@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 23:24:27 (hora de Perú)
+Actualizado: 2026-08-05 23:26:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $2,955.80
-**Retorno acumulado:** +195.58%
+**Bankroll actual:** $2,953.69
+**Retorno acumulado:** +195.37%
 **Peor caída desde un máximo (drawdown):** 12.88%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 14 | 8 | 7 | +6.24 USD |
 | ferrariChampions2026 | 4 | 2 | 2 | +0.67 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
-| HomeRunHazard | 33 | 23 | 16 | -17.77 USD |
+| HomeRunHazard | 36 | 26 | 10 | -19.88 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 4 | 7 | 1 | -33.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
@@ -55,12 +55,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 85% | 17.12 | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 85% | 17.73 | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 88% | 37.17 | ⏳ pendiente | — |
-| HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 82% | 6.24 | ⏳ pendiente | — |
+| HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 82% | 6.24 | ✅ ganada | +1.37 |
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 43% | 3.01 | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 65% | 22.59 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Arizona Diamondbacks (-2.5) | Arizona Diamondbacks (BUY) | 24% | 3.58 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Seattle Mariners (-1.5) | Detroit Tigers (BUY) | 15% | 5.80 | ⏳ pendiente | — |
-| HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 29% | 22.86 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Seattle Mariners (-1.5) | Detroit Tigers (BUY) | 15% | 5.80 | ❌ perdida | -5.80 |
+| HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 29% | 22.86 | ❌ perdida | -22.86 |
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 56% | 5.22 | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 52% | 4.42 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 54% | 6.18 | ⏳ pendiente | — |

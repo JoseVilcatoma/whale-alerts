@@ -1,5 +1,5 @@
 {
-  "bankroll": 2955.7966412017945,
+  "bankroll": 2953.689981259255,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1525,6 +1525,36 @@
       "timestamp": 1785989941.7574065,
       "bankroll": 2955.8,
       "event": "won: ferrariChampions2026 \u2014 Detroit Tigers vs. Seattle Mariners: O/U 5.5"
+    },
+    {
+      "timestamp": 1785990323.485507,
+      "bankroll": 2954.03,
+      "event": "lost: HomeRunHazard \u2014 Detroit Tigers vs. Seattle Mariners: O/U 8.5"
+    },
+    {
+      "timestamp": 1785990323.9862347,
+      "bankroll": 2978.99,
+      "event": "won: HomeRunHazard \u2014 Detroit Tigers vs. Seattle Mariners: O/U 8.5"
+    },
+    {
+      "timestamp": 1785990324.3909848,
+      "bankroll": 2980.98,
+      "event": "won: HomeRunHazard \u2014 Detroit Tigers vs. Seattle Mariners: O/U 6.5"
+    },
+    {
+      "timestamp": 1785990325.3926613,
+      "bankroll": 2958.12,
+      "event": "lost: HomeRunHazard \u2014 Detroit Tigers vs. Seattle Mariners: O/U 6.5"
+    },
+    {
+      "timestamp": 1785990325.8935041,
+      "bankroll": 2959.49,
+      "event": "won: HomeRunHazard \u2014 Detroit Tigers vs. Seattle Mariners: O/U 6.5"
+    },
+    {
+      "timestamp": 1785990388.3695722,
+      "bankroll": 2953.69,
+      "event": "lost: HomeRunHazard \u2014 Spread: Seattle Mariners (-1.5)"
     }
   ]
 }
