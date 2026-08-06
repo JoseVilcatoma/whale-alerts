@@ -5028,5 +5028,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785979873,
+    "timestamp_added": 1785979873.4461498,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-la-chi-2026-08-05",
+    "title": "Los Angeles Sparks vs. Chicago Sky",
+    "outcome": "Chicago Sky",
+    "side": "BUY",
+    "whale_usd": 4082.7059,
+    "whale_pct": 0.566,
+    "paper_stake_usd": 16.84,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
