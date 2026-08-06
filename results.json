@@ -170746,5 +170746,41 @@
     "usd": 3603.703703,
     "odds_at_bet": 97,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786010131,
+    "username": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+    "wallet": "0x7986576408b65a9805ac85553be33ad0b044baa5",
+    "slug": "lol-drx-dnf-2026-08-06",
+    "title": "LoL: Kiwoom DRX vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 2699.9973,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786010137,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-ig1-nip-2026-08-06",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "usd": 1365.0,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786010144,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-mikulsk-knutson-2026-08-06",
+    "title": "Warsaw: Justina Mikulskyte vs Gabriela Knutson",
+    "outcome": "Gabriela Knutson",
+    "side": "BUY",
+    "usd": 4900.0,
+    "odds_at_bet": 98,
+    "status": "pending"
   }
 ]
