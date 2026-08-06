@@ -2568,7 +2568,7 @@
     "whale_pct": 0.419,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
@@ -2820,8 +2820,8 @@
     "whale_pct": 1.105,
     "paper_stake_usd": 16.25,
     "odds_at_bet": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -16.25,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -2838,8 +2838,8 @@
     "whale_pct": 0.273,
     "paper_stake_usd": 4.01,
     "odds_at_bet": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -4.01,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -4988,8 +4988,8 @@
     "whale_pct": 0.32,
     "paper_stake_usd": 9.59,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5006,8 +5006,8 @@
     "whale_pct": 0.191,
     "paper_stake_usd": 5.72,
     "odds_at_bet": 38,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.72,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5024,8 +5024,8 @@
     "whale_pct": 0.278,
     "paper_stake_usd": 8.31,
     "odds_at_bet": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.54,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5042,8 +5042,8 @@
     "whale_pct": 0.566,
     "paper_stake_usd": 16.84,
     "odds_at_bet": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.88,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5150,8 +5150,8 @@
     "whale_pct": 0.183,
     "paper_stake_usd": 5.49,
     "odds_at_bet": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5296,8 +5296,8 @@
     "whale_pct": 0.308,
     "paper_stake_usd": 9.2,
     "odds_at_bet": 20,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -9.2,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5442,8 +5442,8 @@
     "whale_pct": 0.256,
     "paper_stake_usd": 7.63,
     "odds_at_bet": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -7.63,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -5462,8 +5462,8 @@
     "whale_pct": 0.208,
     "paper_stake_usd": 6.21,
     "odds_at_bet": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -6.21,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5480,8 +5480,8 @@
     "whale_pct": 0.247,
     "paper_stake_usd": 7.38,
     "odds_at_bet": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -7.38,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5498,8 +5498,8 @@
     "whale_pct": 0.112,
     "paper_stake_usd": 3.33,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.31,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -5518,8 +5518,8 @@
     "whale_pct": 0.195,
     "paper_stake_usd": 5.83,
     "odds_at_bet": 37,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.83,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -5538,8 +5538,8 @@
     "whale_pct": 0.123,
     "paper_stake_usd": 3.66,
     "odds_at_bet": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.06,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -5558,8 +5558,8 @@
     "whale_pct": 0.172,
     "paper_stake_usd": 5.13,
     "odds_at_bet": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -5578,8 +5578,8 @@
     "whale_pct": 0.108,
     "paper_stake_usd": 3.17,
     "odds_at_bet": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.3,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -5598,8 +5598,8 @@
     "whale_pct": 0.33,
     "paper_stake_usd": 9.67,
     "odds_at_bet": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.29,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -5618,8 +5618,8 @@
     "whale_pct": 0.247,
     "paper_stake_usd": 7.2,
     "odds_at_bet": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 10.36,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -5638,8 +5638,8 @@
     "whale_pct": 0.315,
     "paper_stake_usd": 9.2,
     "odds_at_bet": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.84,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -5658,8 +5658,8 @@
     "whale_pct": 0.289,
     "paper_stake_usd": 8.44,
     "odds_at_bet": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -8.44,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -5906,6 +5906,24 @@
     "whale_pct": 0.79,
     "paper_stake_usd": 22.86,
     "odds_at_bet": 29,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785988437,
+    "timestamp_added": 1785988438.2456903,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-det-sea-2026-08-05-spread-home-1pt5",
+    "title": "Spread: Seattle Mariners (-1.5)",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 436.863564,
+    "whale_pct": 0.202,
+    "paper_stake_usd": 5.8,
+    "odds_at_bet": 15,
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": [],

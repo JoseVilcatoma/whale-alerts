@@ -1,5 +1,5 @@
 {
-  "bankroll": 2893.2983352455994,
+  "bankroll": 2870.344216545649,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1335,6 +1335,111 @@
       "timestamp": 1785984394.206143,
       "bankroll": 2893.3,
       "event": "lost: HomeRunHazard \u2014 Washington Nationals vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1785988413.4752548,
+      "bankroll": 2893.3,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Sparks vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1785988413.8783574,
+      "bankroll": 2877.05,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Chicago Sky (-3.5)"
+    },
+    {
+      "timestamp": 1785988413.9785593,
+      "bankroll": 2873.04,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Chicago Sky (-3.5)"
+    },
+    {
+      "timestamp": 1785988414.9495554,
+      "bankroll": 2879.17,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Sparks vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1785988415.0497813,
+      "bankroll": 2873.45,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Sparks vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1785988415.1500344,
+      "bankroll": 2878.99,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Sparks vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1785988415.2502325,
+      "bankroll": 2885.87,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Sparks vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1785988415.550783,
+      "bankroll": 2888.0,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Sparks vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1785988416.1921847,
+      "bankroll": 2878.8,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Sparks vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1785988417.0619886,
+      "bankroll": 2871.17,
+      "event": "lost: HomeRunHazard \u2014 Spread: Chicago Sky (-3.5)"
+    },
+    {
+      "timestamp": 1785988417.1621914,
+      "bankroll": 2864.96,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Sparks vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1785988417.2623773,
+      "bankroll": 2857.58,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Sparks vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1785988417.3625216,
+      "bankroll": 2859.9,
+      "event": "won: ferrariChampions2026 \u2014 Los Angeles Sparks vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1785988417.4626608,
+      "bankroll": 2854.07,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Sparks vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1785988417.5628033,
+      "bankroll": 2856.13,
+      "event": "won: ferrariChampions2026 \u2014 Los Angeles Sparks vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1785988417.6630182,
+      "bankroll": 2851.0,
+      "event": "lost: HomeRunHazard \u2014 Spread: Chicago Sky (-3.5)"
+    },
+    {
+      "timestamp": 1785988417.7632194,
+      "bankroll": 2853.29,
+      "event": "won: ferrariChampions2026 \u2014 Los Angeles Sparks vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1785988417.8634207,
+      "bankroll": 2860.59,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Sparks vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1785988417.963621,
+      "bankroll": 2870.95,
+      "event": "won: HomeRunHazard \u2014 Spread: Chicago Sky (-3.5)"
+    },
+    {
+      "timestamp": 1785988418.0638251,
+      "bankroll": 2878.78,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Sparks vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1785988418.1640322,
+      "bankroll": 2870.34,
+      "event": "lost: ferrariChampions2026 \u2014 Los Angeles Sparks vs. Chicago Sky"
     }
   ]
 }
