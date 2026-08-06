@@ -5664,5 +5664,23 @@
       "HomeRunHazard"
     ],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785986118,
+    "timestamp_added": 1785986118.2906559,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-sd-ari-2026-08-05-total-10pt5",
+    "title": "San Diego Padres vs. Arizona Diamondbacks: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 417.749999,
+    "whale_pct": 0.161,
+    "paper_stake_usd": 4.66,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
