@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 05:43:11 (hora de Perú)
+Actualizado: 2026-08-06 05:45:20 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 19 | 7 | 1 | 73% |
 | CentralCasting | 18 | 7 | 1 | 72% |
 | Winnerdinnerchickenjr | 13 | 5 | 0 | 72% |
-| fkgggg2mouzfuria | 113 | 48 | 33 | 70% |
+| fkgggg2mouzfuria | 113 | 48 | 34 | 70% |
 | fRibrenlc | 33 | 15 | 0 | 69% |
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 9 | 4 | 1 | 69% |
 | BirdMan. | 83 | 39 | 15 | 68% |
@@ -46,14 +46,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| RN1 | 1389 | 731 | 59 | 66% |
+| RN1 | 1389 | 731 | 60 | 66% |
 | GoalLineGhost | 203 | 106 | 0 | 66% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 158 | 84 | 7 | 65% |
 | UpTheBlues | 94 | 52 | 44 | 64% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 521 | 297 | 1 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 521 | 297 | 7 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 47 | 28 | 16 | 63% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
@@ -83,7 +83,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | sbsigner | 42 | 45 | 0 | 48% |
 | VPenguin | 19 | 21 | 0 | 48% |
 | skyman44 | 11 | 12 | 0 | 48% |
-| PASSTHEMONEY | 69 | 78 | 2 | 47% |
+| PASSTHEMONEY | 69 | 78 | 3 | 47% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 50 | 0 | 47% |
 | esportGG | 90 | 103 | 13 | 47% |
 | Eztennis | 28 | 33 | 0 | 46% |

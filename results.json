@@ -172042,5 +172042,113 @@
     "usd": 1960.1507839999997,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786013012,
+    "username": "PASSTHEMONEY",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-ig1-nip-2026-08-06-game1",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 1962.5707809999997,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013033,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-dk-t1-2026-08-06-game1",
+    "title": "LoL: Dplus KIA vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 3670.38564,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013035,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-dk-t1-2026-08-06-game1",
+    "title": "LoL: Dplus KIA vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 39982.357619999995,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013035,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-barthel-yaneva-2026-08-06",
+    "title": "Warsaw: Mona Barthel vs Elizara Yaneva",
+    "outcome": "Elizara Yaneva",
+    "side": "BUY",
+    "usd": 3122.448979,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013037,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-dk-t1-2026-08-06-game1",
+    "title": "LoL: Dplus KIA vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 5837.706450000001,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013044,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-dk-t1-2026-08-06-game1",
+    "title": "LoL: Dplus KIA vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 1811.187,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013068,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-dk-t1-2026-08-06-game1",
+    "title": "LoL: Dplus KIA vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 5186.7980099999995,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013080,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-dk-t1-2026-08-06-game1",
+    "title": "LoL: Dplus KIA vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 1091.83707,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013092,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-dk-t1-2026-08-06-game1",
+    "title": "LoL: Dplus KIA vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 3313.55313,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
