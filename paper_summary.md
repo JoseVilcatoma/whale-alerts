@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 20:35:06 (hora de Perú)
+Actualizado: 2026-08-05 20:37:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,973.89
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | swisstony | 0 | 1 | 10 | -5.57 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| HomeRunHazard | 1 | 6 | 27 | -26.07 USD |
+| HomeRunHazard | 1 | 6 | 29 | -26.07 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 
@@ -39,6 +39,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 57% | 33.09 | ⏳ pendiente | — |
+| HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 71% | 4.58 | ⏳ pendiente | — |
 | Talvez10 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 52% | 304.94 | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Twins vs. Kansas City Royals:  | Under (BUY) | 67% | 27.56 | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Twins vs. Kansas City Royals:  | Under (BUY) | 45% | 14.84 | ⏳ pendiente | — |
@@ -67,5 +69,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Spread: Baltimore Orioles (-2.5) | Los Angeles Angels (BUY) | 76% | 5.65 | ❌ perdida | -5.65 |
 | swisstony | Spread: Baltimore Orioles (-1.5) | Los Angeles Angels (BUY) | 57% | 5.57 | ❌ perdida | -5.57 |
 | swisstony | Seattle Storm vs. New York Liberty | New York Liberty (BUY) | 83% | 9.58 | ⏳ pendiente | — |
-| swisstony | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 56% | 4.66 | ⏳ pendiente | — |
-| swisstony | Spread: Atlanta Braves (-1.5) | Miami Marlins (BUY) | 23% | 3.20 | ⏳ pendiente | — |
