@@ -1,5 +1,5 @@
 {
-  "bankroll": 2928.883455485637,
+  "bankroll": 2928.83396830615,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1285,6 +1285,16 @@
       "timestamp": 1785983718.8484535,
       "bankroll": 2928.88,
       "event": "lost: HomeRunHazard \u2014 Washington Nationals vs. Philadelphia Phillies: O/U 7.5"
+    },
+    {
+      "timestamp": 1785983967.4713445,
+      "bankroll": 2932.58,
+      "event": "won: HomeRunHazard \u2014 Spread: Milwaukee Brewers (-2.5)"
+    },
+    {
+      "timestamp": 1785983967.5715191,
+      "bankroll": 2928.83,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Milwaukee Brewers (-2.5)"
     }
   ]
 }
