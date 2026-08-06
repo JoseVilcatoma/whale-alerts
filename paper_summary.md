@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 07:58:08 (hora de Perú)
+Actualizado: 2026-08-06 08:00:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,409.48
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
-| wr0ngw4yb3tt0r | 14 | 14 | 1 | +48.82 USD |
+| wr0ngw4yb3tt0r | 14 | 14 | 2 | +48.82 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | texaskid | 1 | 0 | 0 | +7.11 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
@@ -48,6 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Miami Marlins vs. Atlanta Braves: O/U 8. | Over (BUY) | 55% | 15.29 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Minnesota Lynx (-15.5) | Minnesota Lynx (BUY) | 49% | 11.50 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Angels (-1.5) | Baltimore Orioles (BUY) | 72% | 8.54 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Baltimore Orioles (BUY) | 36% | 2.47 | ⏳ pendiente | — |
@@ -77,4 +78,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 53% | 11.91 | ❌ perdida | -11.91 |
 | HomeRunHazard | Spread: Arizona Diamondbacks (-7.5) | Arizona Diamondbacks (BUY) | 64% | 30.77 | ❌ perdida | -30.77 |
 | HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 48% | 32.68 | ❌ perdida | -32.68 |
-| HomeRunHazard | Spread: Arizona Diamondbacks (-8.5) | Arizona Diamondbacks (BUY) | 42% | 28.49 | ❌ perdida | -28.49 |
