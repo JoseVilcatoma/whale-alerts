@@ -170614,5 +170614,29 @@
     "usd": 4994.98002,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786009642,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-lgd-tt-2026-08-06",
+    "title": "LoL: LGD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "SELL",
+    "usd": 1902.85524,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786009677,
+    "username": "elizabeth.ethcome",
+    "wallet": "0x86279a7e9e5c178aae89b7cc13b287f741ed5382",
+    "slug": "lol-drx-dnf-2026-08-06-game2",
+    "title": "LoL: Kiwoom DRX vs DN SOOPers - Game 2 Winner",
+    "outcome": "Kiwoom DRX",
+    "side": "SELL",
+    "usd": 3164.17266,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
