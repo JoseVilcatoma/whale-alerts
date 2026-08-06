@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 19:35:43 (hora de Perú)
+Actualizado: 2026-08-05 19:37:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,993.88
@@ -15,11 +15,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
-| wr0ngw4yb3tt0r | 4 | 0 | 11 | +69.89 USD |
-| RN1 | 14 | 7 | 0 | +11.89 USD |
+| wr0ngw4yb3tt0r | 4 | 0 | 12 | +69.89 USD |
+| RN1 | 14 | 7 | 1 | +11.89 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
-| swisstony | 0 | 0 | 5 | +0.00 USD |
+| swisstony | 0 | 0 | 8 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | HomeRunHazard | 0 | 6 | 22 | -26.07 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
@@ -39,6 +39,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Dallas Wings vs. Washington Mystics | Dallas Wings (BUY) | 90% | 3.90 | ⏳ pendiente | — |
+| swisstony | Spread: Milwaukee Brewers (-1.5) | Pittsburgh Pirates (BUY) | 59% | 16.64 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Athletics vs. Cincinnati Reds: O/U 7.5 | Over (BUY) | 40% | 8.77 | ⏳ pendiente | — |
+| RN1 | Spread: Baltimore Orioles (-2.5) | Los Angeles Angels (BUY) | 76% | 5.65 | ⏳ pendiente | — |
+| swisstony | Spread: Baltimore Orioles (-1.5) | Los Angeles Angels (BUY) | 57% | 5.57 | ⏳ pendiente | — |
 | swisstony | Seattle Storm vs. New York Liberty | New York Liberty (BUY) | 83% | 9.58 | ⏳ pendiente | — |
 | swisstony | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 56% | 4.66 | ⏳ pendiente | — |
 | swisstony | Spread: Atlanta Braves (-1.5) | Miami Marlins (BUY) | 23% | 3.20 | ⏳ pendiente | — |
@@ -64,8 +69,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Falcons vs Team Liquid - Ga | Team Falcons (SELL) | 73% | 0.00 | ❌ perdida | -0.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Falcons vs Team Liquid - Ga | Team Falcons (SELL) | 75% | 19.90 | ❌ perdida | -19.90 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Falcons vs Team Liquid - Ga | Team Falcons (SELL) | 75% | 16.31 | ❌ perdida | -16.31 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Falcons vs Team Liquid - Ga | Team Falcons (SELL) | 75% | 3.95 | ❌ perdida | -3.95 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Falcons vs Team Liquid - Ga | Team Falcons (BUY) | 75% | 21.55 | ❌ perdida | -21.55 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Falcons vs Team Liquid - Ga | Team Falcons (BUY) | 54% | 17.09 | ❌ perdida | -17.09 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Falcons vs Team Liquid - Ga | Team Falcons (BUY) | 51% | 8.42 | ❌ perdida | -8.42 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Falcons vs Team Liquid - Ga | Team Falcons (BUY) | 51% | 4.06 | ❌ perdida | -4.06 |
