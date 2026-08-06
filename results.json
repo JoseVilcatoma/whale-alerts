@@ -169702,5 +169702,65 @@
     "usd": 1552.8555900000001,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786007457,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-lgd-tt-2026-08-06",
+    "title": "LoL: LGD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 3565.0020000000004,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786007458,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-lgd-tt-2026-08-06",
+    "title": "LoL: LGD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1391.1999999999998,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786007459,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-lgd-tt-2026-08-06",
+    "title": "LoL: LGD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1410.0,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786007459,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-lgd-tt-2026-08-06",
+    "title": "LoL: LGD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1221.5018,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786007461,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-lgd-tt-2026-08-06-game2",
+    "title": "LoL: LGD Gaming vs ThunderTalk Gaming - Game 2 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 1152.68616,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
