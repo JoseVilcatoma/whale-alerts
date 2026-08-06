@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 23:26:34 (hora de Perú)
+Actualizado: 2026-08-05 23:28:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $2,953.69
-**Retorno acumulado:** +195.37%
-**Peor caída desde un máximo (drawdown):** 12.88%
+**Bankroll actual:** $2,560.86
+**Retorno acumulado:** +156.09%
+**Peor caída desde un máximo (drawdown):** 17.16%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -16,15 +16,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | wr0ngw4yb3tt0r | 14 | 13 | 1 | +55.00 USD |
+| RN1 | 15 | 8 | 6 | +11.31 USD |
 | texaskid | 1 | 0 | 0 | +7.11 USD |
-| RN1 | 14 | 8 | 7 | +6.24 USD |
 | ferrariChampions2026 | 4 | 2 | 2 | +0.67 USD |
-| Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | HomeRunHazard | 36 | 26 | 10 | -19.88 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 4 | 7 | 1 | -33.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
+| Talvez10 | 0 | 4 | 0 | -397.90 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Panthers vs. Cardinals: O/U 35.5 | Under (BUY) | 51% | 14.00 | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 85% | 17.12 | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 85% | 17.73 | ⏳ pendiente | — |
-| RN1 | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 88% | 37.17 | ⏳ pendiente | — |
+| RN1 | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 88% | 37.17 | ✅ ganada | +5.07 |
 | HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 82% | 6.24 | ✅ ganada | +1.37 |
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 43% | 3.01 | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 65% | 22.59 | ⏳ pendiente | — |

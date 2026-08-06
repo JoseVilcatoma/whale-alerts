@@ -1,5 +1,5 @@
 {
-  "bankroll": 2953.689981259255,
+  "bankroll": 2560.8586176228914,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1555,6 +1555,31 @@
       "timestamp": 1785990388.3695722,
       "bankroll": 2953.69,
       "event": "lost: HomeRunHazard \u2014 Spread: Seattle Mariners (-1.5)"
+    },
+    {
+      "timestamp": 1785990450.455494,
+      "bankroll": 2915.84,
+      "event": "lost: Talvez10 \u2014 Detroit Tigers vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1785990450.5556972,
+      "bankroll": 2864.82,
+      "event": "lost: Talvez10 \u2014 Detroit Tigers vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1785990450.655893,
+      "bankroll": 2860.73,
+      "event": "lost: Talvez10 \u2014 Detroit Tigers vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1785990450.7560878,
+      "bankroll": 2555.79,
+      "event": "lost: Talvez10 \u2014 Detroit Tigers vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1785990452.5362675,
+      "bankroll": 2560.86,
+      "event": "won: RN1 \u2014 Detroit Tigers vs. Seattle Mariners: O/U 7.5"
     }
   ]
 }
