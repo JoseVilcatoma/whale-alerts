@@ -169894,5 +169894,53 @@
     "usd": 1020.0000000000001,
     "odds_at_bet": 34,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786008004,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-bei-aus-2026-08-06-spread-home-1pt5",
+    "title": "Spread: MH Beitar Jerusalem (-1.5)",
+    "outcome": "FK Austria Wien",
+    "side": "BUY",
+    "usd": 1378.060952,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786008046,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "will-marco-rubio-win-the-2028-republican-presidential-nomination",
+    "title": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 8021.93637,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786008046,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "will-marco-rubio-win-the-2028-republican-presidential-nomination",
+    "title": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 32895.66894,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786008075,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-mikulsk-knutson-2026-08-06",
+    "title": "Warsaw: Justina Mikulskyte vs Gabriela Knutson",
+    "outcome": "Justina Mikulskyte",
+    "side": "BUY",
+    "usd": 1733.5635,
+    "odds_at_bet": 15,
+    "status": "pending"
   }
 ]
