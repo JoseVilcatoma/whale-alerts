@@ -172534,5 +172534,101 @@
     "usd": 1964.7053,
     "odds_at_bet": 17,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786013839,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-dk-t1-2026-08-06-game1",
+    "title": "LoL: Dplus KIA vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "SELL",
+    "usd": 1244.02473,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013880,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-ig1-nip-2026-08-06",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana",
+    "outcome": "Invictus Gaming",
+    "side": "SELL",
+    "usd": 1418.64,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013898,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-lee-falkows-2026-08-06",
+    "title": "Warsaw: Carol Young Suh Lee vs Weronika Falkowska",
+    "outcome": "Carol Young Suh Lee",
+    "side": "BUY",
+    "usd": 5173.7699999999995,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013916,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-koning-bennema-2026-08-06",
+    "title": "ITF Koksijde: Loes Ebeling Koning vs Eva Bennemann",
+    "outcome": "Eva Bennemann",
+    "side": "BUY",
+    "usd": 1438.3999999999999,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013916,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-koning-bennema-2026-08-06",
+    "title": "ITF Koksijde: Loes Ebeling Koning vs Eva Bennemann",
+    "outcome": "Loes Ebeling Koning",
+    "side": "BUY",
+    "usd": 1054.2,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013923,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1581.829878,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013923,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1771.449998,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786013929,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "uel-ben-hmi-2026-08-06-total-0pt5",
+    "title": "Sport Lisboa e Benfica vs. Heart of Midlothian FC: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1525.68,
+    "odds_at_bet": 98,
+    "status": "pending"
   }
 ]
