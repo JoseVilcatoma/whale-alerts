@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 10:31:41 (hora de Perú)
+Actualizado: 2026-08-06 10:33:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,409.48
@@ -17,12 +17,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | wr0ngw4yb3tt0r | 14 | 14 | 5 | +48.82 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
-| texaskid | 1 | 0 | 0 | +7.11 USD |
+| texaskid | 1 | 0 | 1 | +7.11 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 4 | 8 | 0 | -38.32 USD |
 | RN1 | 15 | 14 | 0 | -58.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
-| HomeRunHazard | 37 | 30 | 32 | -117.99 USD |
+| HomeRunHazard | 37 | 30 | 34 | -117.99 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 | Talvez10 | 0 | 4 | 3 | -397.90 USD |
 
@@ -44,11 +44,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-sd-ari-2026-08-05-total-10pt5 | HomeRunHazard, RN1, swisstony |
 | mlb-sd-ari-2026-08-05-total-9pt5 | HomeRunHazard, RN1, wr0ngw4yb3tt0r |
 | wnba-la-min-2026-08-06-total-188pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| mlb-nym-cle-2026-08-06-total-7pt5 | HomeRunHazard, texaskid |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | New York Mets vs. Cleveland Guardians: O | Under (BUY) | 55% | 55.81 | ⏳ pendiente | — |
+| HomeRunHazard | New York Mets vs. Cleveland Guardians: O | Under (BUY) | 41% | 7.00 | ⏳ pendiente | — |
+| HomeRunHazard | Toronto Tempo vs. Portland Fire: O/U 186 | Under (BUY) | 49% | 3.06 | ⏳ pendiente | — |
 | HomeRunHazard | New York Mets vs. Cleveland Guardians: O | Under (BUY) | 40% | 21.11 | ⏳ pendiente | — |
 | HomeRunHazard | New York Mets vs. Cleveland Guardians: O | Under (BUY) | 61% | 14.20 | ⏳ pendiente | — |
 | HomeRunHazard | Las Vegas Aces vs. Indiana Fever: O/U 19 | Under (BUY) | 49% | 4.26 | ⏳ pendiente | — |
@@ -76,6 +80,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Miami Marlins vs. Atlanta Braves: O/U 8. | Over (BUY) | 55% | 15.29 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Minnesota Lynx (-15.5) | Minnesota Lynx (BUY) | 49% | 11.50 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Angels (-1.5) | Baltimore Orioles (BUY) | 72% | 8.54 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Baltimore Orioles (BUY) | 36% | 2.47 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Baltimore Orioles (-1.5) | Baltimore Orioles (BUY) | 47% | 3.97 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Baltimore Orioles (-1.5) | Los Angeles Angels (BUY) | 52% | 19.68 | ⏳ pendiente | — |
