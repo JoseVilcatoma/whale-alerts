@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 06:03:20 (hora de Perú)
+Actualizado: 2026-08-06 06:05:33 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -52,13 +52,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 158 | 84 | 7 | 65% |
-| UpTheBlues | 94 | 52 | 54 | 64% |
+| UpTheBlues | 94 | 52 | 55 | 64% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 521 | 297 | 13 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 47 | 28 | 19 | 63% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
 | HomeRunHazard | 476 | 294 | 13 | 62% |
-| ferrariChampions2026 | 2321 | 1503 | 54 | 61% |
+| ferrariChampions2026 | 2321 | 1503 | 55 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
@@ -72,8 +72,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | StasPanda | 23 | 19 | 3 | 55% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | AnonymousUsername | 53 | 46 | 1 | 54% |
-| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 13 | 11 | 15 | 54% |
-| TAIWANNUMBERONE | 14 | 12 | 16 | 54% |
+| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 13 | 11 | 17 | 54% |
+| TAIWANNUMBERONE | 14 | 12 | 18 | 54% |
 | wr0ngw4yb3tt0r | 186 | 174 | 0 | 52% |
 | lllllllIlll | 11 | 10 | 1 | 52% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
@@ -85,7 +85,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | skyman44 | 11 | 12 | 0 | 48% |
 | PASSTHEMONEY | 69 | 78 | 3 | 47% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 50 | 0 | 47% |
-| esportGG | 90 | 103 | 13 | 47% |
+| esportGG | 90 | 103 | 14 | 47% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | Talvez10 | 28 | 33 | 0 | 46% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 73 | 85 | 1 | 46% |
@@ -101,7 +101,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | chanello | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | jtwyslljy | 13 | 29 | 0 | 31% |
-| MeiGuNiuBi | 5 | 11 | 10 | 31% |
+| MeiGuNiuBi | 5 | 11 | 11 | 31% |
 | AV23IUa | 9 | 24 | 0 | 27% |
 | CORGI8 | 4 | 12 | 0 | 25% |
 | 111111111115 | 11 | 38 | 0 | 22% |

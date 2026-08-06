@@ -172870,5 +172870,101 @@
     "usd": 3354.0618360000003,
     "odds_at_bet": 51,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786014202,
+    "username": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+    "wallet": "0x7986576408b65a9805ac85553be33ad0b044baa5",
+    "slug": "lol-drx-dnf-2026-08-06",
+    "title": "LoL: Kiwoom DRX vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 2408.36922,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786014226,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1383.45,
+    "odds_at_bet": 92,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786014235,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-dodig-giustin-2026-08-05",
+    "title": "Hagen: Matej Dodig vs Lorenzo Giustino",
+    "outcome": "Lorenzo Giustino",
+    "side": "BUY",
+    "usd": 3385.3005000000003,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786014239,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-dk-t1-2026-08-06-game2",
+    "title": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 1040.8163260000001,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786014260,
+    "username": "esportGG",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-dk-t1-2026-08-06-game2",
+    "title": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 20720.233799999998,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786014261,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-dk-t1-2026-08-06-game2",
+    "title": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 4798.6512,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786014301,
+    "username": "MeiGuNiuBi",
+    "wallet": "0xdd882a70680633a75516f6ed5fce443e2d96dadb",
+    "slug": "lol-dk-t1-2026-08-06",
+    "title": "LoL: Dplus KIA vs T1 (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "T1",
+    "side": "SELL",
+    "usd": 1452.75,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786014331,
+    "username": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+    "wallet": "0x7986576408b65a9805ac85553be33ad0b044baa5",
+    "slug": "lol-drx-dnf-2026-08-06",
+    "title": "LoL: Kiwoom DRX vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "usd": 1701.64665,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
