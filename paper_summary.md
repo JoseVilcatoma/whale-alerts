@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 21:09:48 (hora de Perú)
+Actualizado: 2026-08-05 21:11:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $2,974.09
-**Retorno acumulado:** +197.41%
+**Bankroll actual:** $2,980.99
+**Retorno acumulado:** +198.10%
 **Peor caída desde un máximo (drawdown):** 12.88%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,14 +15,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Djdjdjekekek | 116 | 0 | 0 | +2,106.41 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
-| wr0ngw4yb3tt0r | 8 | 6 | 13 | +72.50 USD |
+| wr0ngw4yb3tt0r | 11 | 9 | 7 | +79.40 USD |
 | RN1 | 14 | 8 | 0 | +6.24 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 3 | +0.00 USD |
 | swisstony | 3 | 4 | 4 | -11.91 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| HomeRunHazard | 5 | 9 | 26 | -30.93 USD |
+| HomeRunHazard | 6 | 10 | 24 | -30.93 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 
@@ -59,14 +59,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 61% | 9.59 | ⏳ pendiente | — |
 | Talvez10 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 52% | 4.09 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 41% | 3.18 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 3.52 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 7.20 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 14.72 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 3.52 | ❌ perdida | -3.52 |
+| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 7.20 | ❌ perdida | -7.20 |
+| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 58% | 14.72 | ❌ perdida | -14.72 |
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 7.77 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Atlanta Braves: O/U 6. | Over (BUY) | 62% | 7.46 | ❌ perdida | -7.46 |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Atlanta Braves: O/U 6. | Over (BUY) | 60% | 3.72 | ❌ perdida | -3.72 |
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 6.34 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Boston Red Sox (BUY) | 41% | 14.63 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Boston Red Sox (BUY) | 41% | 14.63 | ✅ ganada | +21.05 |
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 3.13 | ⏳ pendiente | — |
 | swisstony | Dallas Wings vs. Washington Mystics | Dallas Wings (BUY) | 86% | 4.90 | ⏳ pendiente | — |
 | swisstony | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 46% | 3.14 | ⏳ pendiente | — |

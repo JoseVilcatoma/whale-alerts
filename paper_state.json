@@ -1,5 +1,5 @@
 {
-  "bankroll": 2974.091385483344,
+  "bankroll": 2980.99134934965,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1195,6 +1195,46 @@
       "timestamp": 1785981912.2352602,
       "bankroll": 2974.09,
       "event": "won: swisstony \u2014 Spread: Atlanta Braves (-1.5)"
+    },
+    {
+      "timestamp": 1785982215.3326285,
+      "bankroll": 2974.09,
+      "event": "won: HomeRunHazard \u2014 Spread: Chicago White Sox (-1.5)"
+    },
+    {
+      "timestamp": 1785982215.6142116,
+      "bankroll": 2974.09,
+      "event": "lost: HomeRunHazard \u2014 Chicago White Sox vs. Boston Red Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1785982216.4884531,
+      "bankroll": 2977.8,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Chicago White Sox vs. Boston Red Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1785982216.588638,
+      "bankroll": 2985.38,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Chicago White Sox vs. Boston Red Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1785982278.0260253,
+      "bankroll": 3006.43,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Boston Red Sox (-2.5)"
+    },
+    {
+      "timestamp": 1785982278.3265831,
+      "bankroll": 2991.71,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Boston Red Sox (-2.5)"
+    },
+    {
+      "timestamp": 1785982278.4267635,
+      "bankroll": 2984.51,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Boston Red Sox (-2.5)"
+    },
+    {
+      "timestamp": 1785982278.5269644,
+      "bankroll": 2980.99,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Boston Red Sox (-2.5)"
     }
   ]
 }

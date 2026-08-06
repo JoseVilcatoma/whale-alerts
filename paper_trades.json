@@ -2622,7 +2622,7 @@
     "whale_pct": 1.09,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 65,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
@@ -2730,8 +2730,8 @@
     "whale_pct": 1.286,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true
   },
@@ -4294,8 +4294,8 @@
     "whale_pct": 0.145,
     "paper_stake_usd": 4.35,
     "odds_at_bet": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.71,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -4314,8 +4314,8 @@
     "whale_pct": 0.297,
     "paper_stake_usd": 8.9,
     "odds_at_bet": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.58,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -4808,8 +4808,8 @@
     "whale_pct": 0.489,
     "paper_stake_usd": 14.63,
     "odds_at_bet": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 21.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -4898,8 +4898,8 @@
     "whale_pct": 0.492,
     "paper_stake_usd": 14.72,
     "odds_at_bet": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -14.72,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -4916,8 +4916,8 @@
     "whale_pct": 0.24,
     "paper_stake_usd": 7.2,
     "odds_at_bet": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -7.2,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -4934,8 +4934,8 @@
     "whale_pct": 0.118,
     "paper_stake_usd": 3.52,
     "odds_at_bet": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -3.52,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
