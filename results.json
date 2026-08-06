@@ -171058,5 +171058,29 @@
     "usd": 1308.1499999999999,
     "odds_at_bet": 97,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786011004,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-golubic-swiatek-2026-08-05",
+    "title": "National Bank Open: Viktorija Golubic vs Iga Swiatek",
+    "outcome": "Iga Swiatek",
+    "side": "BUY",
+    "usd": 5792.4488,
+    "odds_at_bet": 92,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786011058,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-dodig-giustin-2026-08-05",
+    "title": "Hagen: Matej Dodig vs Lorenzo Giustino",
+    "outcome": "Matej Dodig",
+    "side": "BUY",
+    "usd": 8823.079989,
+    "odds_at_bet": 95,
+    "status": "pending"
   }
 ]
