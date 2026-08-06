@@ -171154,5 +171154,29 @@
     "usd": 5024.4,
     "odds_at_bet": 95,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786011287,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "uel-lep-ki-2026-08-06-lep",
+    "title": "Will KKS Lech Pozna\u0144 win on 2026-08-06?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 2091.85,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786011289,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "uel-lep-ki-2026-08-06-lep",
+    "title": "Will KKS Lech Pozna\u0144 win on 2026-08-06?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1884.11,
+    "odds_at_bet": 85,
+    "status": "pending"
   }
 ]
