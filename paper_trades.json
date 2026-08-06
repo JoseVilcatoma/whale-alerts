@@ -6227,5 +6227,23 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785994265,
+    "timestamp_added": 1785994265.9278164,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-laa-bal-2026-08-06-spread-home-1pt5",
+    "title": "Spread: Baltimore Orioles (-1.5)",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "whale_usd": 506.78875,
+    "whale_pct": 0.817,
+    "paper_stake_usd": 19.68,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
