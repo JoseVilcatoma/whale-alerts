@@ -169858,5 +169858,17 @@
     "usd": 1863.2615999999998,
     "odds_at_bet": 76,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786007775,
+    "username": "MeiGuNiuBi",
+    "wallet": "0xdd882a70680633a75516f6ed5fce443e2d96dadb",
+    "slug": "lol-we-al-2026-08-06",
+    "title": "LoL: Team WE vs Anyone's Legend (BO3) - LPL Group Ascend",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 2130.0,
+    "odds_at_bet": 71,
+    "status": "pending"
   }
 ]
