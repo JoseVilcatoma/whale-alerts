@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 21:17:54 (hora de Perú)
+Actualizado: 2026-08-05 21:19:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $2,974.52
-**Retorno acumulado:** +197.45%
+**Bankroll actual:** $2,992.65
+**Retorno acumulado:** +199.27%
 **Peor caída desde un máximo (drawdown):** 12.88%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,11 +17,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | wr0ngw4yb3tt0r | 11 | 11 | 5 | +59.35 USD |
 | RN1 | 14 | 8 | 0 | +6.24 USD |
+| HomeRunHazard | 9 | 10 | 22 | +0.78 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 3 | +0.00 USD |
 | swisstony | 3 | 4 | 4 | -11.91 USD |
-| HomeRunHazard | 8 | 10 | 22 | -17.36 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
@@ -41,6 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 48% | 3.38 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: San Diego Padres (-1.5) | Arizona Diamondbacks (BUY) | 52% | 20.55 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: San Diego Padres (-1.5) | Arizona Diamondbacks (BUY) | 52% | 9.42 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 4.41 | ⏳ pendiente | — |
@@ -52,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 71% | 4.58 | ⏳ pendiente | — |
 | Talvez10 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 52% | 304.94 | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Twins vs. Kansas City Royals:  | Under (BUY) | 67% | 27.56 | ✅ ganada | +13.57 |
-| HomeRunHazard | Minnesota Twins vs. Kansas City Royals:  | Under (BUY) | 45% | 14.84 | ⏳ pendiente | — |
+| HomeRunHazard | Minnesota Twins vs. Kansas City Royals:  | Under (BUY) | 45% | 14.84 | ✅ ganada | +18.14 |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 71% | 16.84 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 60% | 8.31 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 38% | 5.72 | ⏳ pendiente | — |
@@ -70,4 +71,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 3.13 | ⏳ pendiente | — |
 | swisstony | Dallas Wings vs. Washington Mystics | Dallas Wings (BUY) | 86% | 4.90 | ⏳ pendiente | — |
 | swisstony | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 46% | 3.14 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 49% | 16.87 | ❌ perdida | -16.87 |
