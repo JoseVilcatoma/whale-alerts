@@ -6539,5 +6539,25 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1786028919,
+    "timestamp_added": 1786028920.3017998,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-la-min-2026-08-06-total-188pt5",
+    "title": "Los Angeles Sparks vs. Minnesota Lynx: O/U 188.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 111.72,
+    "whale_pct": 0.104,
+    "paper_stake_usd": 2.51,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false
   }
 ]
