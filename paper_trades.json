@@ -5720,5 +5720,41 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785986537,
+    "timestamp_added": 1785986538.2028012,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-stl-nyy-2026-08-05-spread-away-2pt5",
+    "title": "Spread: St. Louis Cardinals (-2.5)",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "whale_usd": 5602.5511,
+    "whale_pct": 1.371,
+    "paper_stake_usd": 39.66,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1785986638,
+    "timestamp_added": 1785986638.8900638,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-sd-ari-2026-08-05-total-11pt5",
+    "title": "San Diego Padres vs. Arizona Diamondbacks: O/U 11.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 651.184285,
+    "whale_pct": 0.156,
+    "paper_stake_usd": 4.51,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]

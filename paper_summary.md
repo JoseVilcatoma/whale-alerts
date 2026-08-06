@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 22:22:10 (hora de Perú)
+Actualizado: 2026-08-05 22:24:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,893.30
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 0 | 1 | 7 | -3.75 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 4 | 7 | 1 | -33.66 USD |
-| HomeRunHazard | 14 | 15 | 29 | -73.07 USD |
+| HomeRunHazard | 14 | 15 | 31 | -73.07 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 
@@ -45,6 +45,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | San Diego Padres vs. Arizona Diamondback | Over (BUY) | 44% | 4.51 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: St. Louis Cardinals (-2.5) | New York Yankees (BUY) | 61% | 39.66 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: St. Louis Cardinals (-2.5) | New York Yankees (BUY) | 76% | 5.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 33% | 3.05 | ⏳ pendiente | — |
 | swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 33% | 4.66 | ⏳ pendiente | — |
@@ -73,5 +75,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: San Diego Padres (-1.5) | Arizona Diamondbacks (BUY) | 52% | 9.42 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 4.41 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky: O/U  | Under (BUY) | 52% | 9.30 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 22% | 3.75 | ❌ perdida | -3.75 |
-| HomeRunHazard | Spread: Milwaukee Brewers (-2.5) | Pittsburgh Pirates (BUY) | 78% | 13.12 | ✅ ganada | +3.70 |
