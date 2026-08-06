@@ -170638,5 +170638,53 @@
     "usd": 3164.17266,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786009731,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-ig1-nip-2026-08-06-game-handicap-away-1pt5",
+    "title": "Game Handicap: IG (-1.5) vs Ninjas in Pyjamas (+1.5)",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 9526.659999000001,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786009731,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-ig1-nip-2026-08-06-game-handicap-away-1pt5",
+    "title": "Game Handicap: IG (-1.5) vs Ninjas in Pyjamas (+1.5)",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "usd": 12141.8154,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786009740,
+    "username": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+    "wallet": "0x7986576408b65a9805ac85553be33ad0b044baa5",
+    "slug": "lol-dk-t1-2026-08-06-total-games-2pt5",
+    "title": "Games Total: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 4663.33,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786009754,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-ig1-nip-2026-08-06",
+    "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 1161.9035999999999,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
