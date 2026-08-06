@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 10:25:28 (hora de Perú)
+Actualizado: 2026-08-06 10:27:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,409.48
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 8 | 0 | -38.32 USD |
 | RN1 | 15 | 14 | 0 | -58.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
-| HomeRunHazard | 37 | 30 | 29 | -117.99 USD |
+| HomeRunHazard | 37 | 30 | 30 | -117.99 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 | Talvez10 | 0 | 4 | 3 | -397.90 USD |
 
@@ -49,6 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Las Vegas Aces vs. Indiana Fever: O/U 19 | Under (BUY) | 49% | 4.26 | ⏳ pendiente | — |
 | HomeRunHazard | New York Mets vs. Cleveland Guardians: O | Under (BUY) | 53% | 14.69 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 53% | 83.42 | ⏳ pendiente | — |
 | Talvez10 | Athletics vs. Cincinnati Reds: O/U 9.5 | Under (BUY) | 52% | 20.76 | ⏳ pendiente | — |
@@ -78,4 +79,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Baltimore Orioles (-1.5) | Los Angeles Angels (BUY) | 52% | 19.68 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Baltimore Orioles | Under (BUY) | 56% | 8.58 | ⏳ pendiente | — |
 | HomeRunHazard | Las Vegas Aces vs. Indiana Fever | Las Vegas Aces (BUY) | 48% | 14.37 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Baltimore Orioles (-1.5) | Los Angeles Angels (BUY) | 52% | 11.08 | ⏳ pendiente | — |
