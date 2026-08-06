@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 22:58:55 (hora de Perú)
+Actualizado: 2026-08-05 23:01:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $2,898.91
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 3 | 2 | 3 | -5.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 4 | 7 | 1 | -33.66 USD |
-| HomeRunHazard | 24 | 22 | 21 | -61.34 USD |
+| HomeRunHazard | 24 | 22 | 22 | -61.34 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 
@@ -47,6 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 82% | 6.24 | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 43% | 3.01 | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 65% | 22.59 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Arizona Diamondbacks (-2.5) | Arizona Diamondbacks (BUY) | 24% | 3.58 | ⏳ pendiente | — |
@@ -76,4 +77,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 54% | 7.38 | ❌ perdida | -7.38 |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Los Angeles Sparks (BUY) | 53% | 6.21 | ❌ perdida | -6.21 |
 | HomeRunHazard | Spread: Chicago Sky (-3.5) | Los Angeles Sparks (BUY) | 53% | 7.63 | ❌ perdida | -7.63 |
-| HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 63% | 3.39 | ⏳ pendiente | — |
