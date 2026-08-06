@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-05 21:13:50 (hora de Perú)
+Actualizado: 2026-08-05 21:15:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $2,960.94
-**Retorno acumulado:** +196.09%
+**Bankroll actual:** $2,974.52
+**Retorno acumulado:** +197.45%
 **Peor caída desde un máximo (drawdown):** 12.88%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -21,8 +21,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 3 | +0.00 USD |
 | swisstony | 3 | 4 | 4 | -11.91 USD |
+| HomeRunHazard | 8 | 10 | 22 | -17.36 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| HomeRunHazard | 6 | 10 | 24 | -30.93 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 31 | 0 | -179.52 USD |
 
@@ -51,7 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Under (BUY) | 57% | 33.09 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 71% | 4.58 | ⏳ pendiente | — |
 | Talvez10 | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 52% | 304.94 | ⏳ pendiente | — |
-| HomeRunHazard | Minnesota Twins vs. Kansas City Royals:  | Under (BUY) | 67% | 27.56 | ⏳ pendiente | — |
+| HomeRunHazard | Minnesota Twins vs. Kansas City Royals:  | Under (BUY) | 67% | 27.56 | ✅ ganada | +13.57 |
 | HomeRunHazard | Minnesota Twins vs. Kansas City Royals:  | Under (BUY) | 45% | 14.84 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 71% | 16.84 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Chicago Sky | Chicago Sky (BUY) | 60% | 8.31 | ⏳ pendiente | — |
