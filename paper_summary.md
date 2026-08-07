@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 08:13:14 (hora de Perú)
+Actualizado: 2026-08-07 08:15:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.07
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 11 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 120 | 85 | 125 | -30.45 USD |
+| swisstony | 120 | 85 | 133 | -30.45 USD |
 | RN1 | 20 | 16 | 15 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -67,6 +67,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Bayern Munich (-1.5) | Aston Villa (BUY) | 60% | 1.67 | ⏳ pendiente | — |
+| swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 100% | 5.52 | ⏳ pendiente | — |
+| swisstony | Spread: Beijing Guoan FC (-1.5) | Beijing Guoan FC (BUY) | 100% | 2.09 | ⏳ pendiente | — |
+| swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 46% | 1.26 | ⏳ pendiente | — |
+| swisstony | Aston Villa vs. Bayern Munich: O/U 3.5 | Under (BUY) | 84% | 2.60 | ⏳ pendiente | — |
+| swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 98% | 16.57 | ⏳ pendiente | — |
+| swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 58% | 1.24 | ⏳ pendiente | — |
+| swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 57% | 1.39 | ⏳ pendiente | — |
 | swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Under (BUY) | 46% | 1.23 | ⏳ pendiente | — |
 | swisstony | Aston Villa vs. Bayern Munich: O/U 1.5 | Under (BUY) | 21% | 1.01 | ⏳ pendiente | — |
 | swisstony | Spread: Bayern Munich (-1.5) | Aston Villa (BUY) | 60% | 1.27 | ⏳ pendiente | — |
@@ -89,11 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 79% | 3.05 | ⏳ pendiente | — |
 | swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 79% | 4.01 | ⏳ pendiente | — |
 | swisstony | Spread: Bayern Munich (-1.5) | Bayern Munich (BUY) | 41% | 1.07 | ⏳ pendiente | — |
-| swisstony | Spread: Bayern Munich (-1.5) | Bayern Munich (BUY) | 41% | 1.07 | ⏳ pendiente | — |
-| RN1 | Will Bayern Munich win on 2026-08-07? | No (BUY) | 26% | 0.96 | ⏳ pendiente | — |
-| RN1 | Aston Villa vs. Bayern Munich: O/U 2.5 | Over (BUY) | 53% | 1.17 | ⏳ pendiente | — |
-| RN1 | Will Beijing Guoan FC win on 2026-08-07? | Yes (BUY) | 99% | 1.37 | ⏳ pendiente | — |
-| RN1 | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 79% | 2.02 | ⏳ pendiente | — |
-| swisstony | Aston Villa vs. Bayern Munich: O/U 0.5 | Over (BUY) | 100% | 2.96 | ⏳ pendiente | — |
-| swisstony | Spread: Bayern Munich (-1.5) | Bayern Munich (BUY) | 44% | 1.07 | ⏳ pendiente | — |
-| swisstony | Spread: Aston Villa (-1.5) | Bayern Munich (BUY) | 98% | 4.77 | ⏳ pendiente | — |
