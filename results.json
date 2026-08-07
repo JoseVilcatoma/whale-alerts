@@ -179938,5 +179938,77 @@
     "usd": 1040.8163260000001,
     "odds_at_bet": 51,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786139021,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-nym-pit-2026-08-07",
+    "title": "New York Mets vs. Pittsburgh Pirates",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 2200.0,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786139046,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "arg-ros-ald-2026-08-07-total-2pt5",
+    "title": "CA Rosario Central vs. CA Aldosivi: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1151.0029,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786139046,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-ros-ald-2026-08-07-total-2pt5",
+    "title": "CA Rosario Central vs. CA Aldosivi: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 3050.0,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786139047,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "arg-ros-ald-2026-08-07-total-1pt5",
+    "title": "CA Rosario Central vs. CA Aldosivi: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1255.0005,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786139057,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-zandsch-hurkacz-2026-08-07",
+    "title": "National Bank Open: Botic van de Zandschulp vs Hubert Hurkacz",
+    "outcome": "Botic van de Zandschulp",
+    "side": "BUY",
+    "usd": 1675.333,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786139057,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-zandsch-hurkacz-2026-08-07",
+    "title": "National Bank Open: Botic van de Zandschulp vs Hubert Hurkacz",
+    "outcome": "Botic van de Zandschulp",
+    "side": "BUY",
+    "usd": 3939.6655800000003,
+    "odds_at_bet": 34,
+    "status": "pending"
   }
 ]
