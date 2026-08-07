@@ -174406,5 +174406,17 @@
     "usd": 4255.74,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786129810,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-th-fnc-2026-08-07-game2",
+    "title": "LoL: Team Heretics vs Fnatic - Game 2 Winner",
+    "outcome": "Team Heretics",
+    "side": "SELL",
+    "usd": 1054.4669000000001,
+    "odds_at_bet": 39,
+    "status": "pending"
   }
 ]
