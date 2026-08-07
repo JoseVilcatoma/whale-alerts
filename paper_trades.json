@@ -16457,5 +16457,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786128253.438215,
     "fills": 1
+  },
+  {
+    "timestamp": 1786128437,
+    "timestamp_added": 1786128437.6994593,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "pol-wis-plo-2026-08-07-draw",
+    "title": "Will Wisla Krakow vs. Wisla Plock end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 405.3,
+    "whale_pct": 0.166,
+    "paper_stake_usd": 1.26,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786128437.6994703,
+    "fills": 1
   }
 ]
