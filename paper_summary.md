@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 14:00:32 (hora de Perú)
+Actualizado: 2026-08-07 14:02:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $760.89
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | RN1 | 30 | 21 | 17 | -103.62 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
-| swisstony | 216 | 151 | 145 | -119.98 USD |
+| swisstony | 216 | 151 | 147 | -119.98 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
 | texaskid | 1 | 2 | 0 | -1,530.59 USD |
@@ -65,12 +65,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | nor-san-kfu-2026-08-07-total-1pt5 | RN1, swisstony |
 | nor-san-kfu-2026-08-07-total-3pt5 | RN1, swisstony |
 | ere-cam-exc-2026-08-07-total-4pt5 | RN1, swisstony |
+| efl-wol-pvl-2026-08-07-pvl | RN1, swisstony |
 | bl2-boc-ber-2026-08-07-boc | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | VfL Bochum vs. Hertha BSC: O/U 2.5 | Under (BUY) | 66% | 1.11 | ⏳ pendiente | — |
+| swisstony | Will Port Vale FC win on 2026-08-07? | No (BUY) | 97% | 3.53 | ⏳ pendiente | — |
 | swisstony | Spread: Club Brugge (-2.5) | Club Brugge (BUY) | 34% | 0.99 | ⏳ pendiente | — |
 | RN1 | Will VfL Bochum win on 2026-08-07? | Yes (BUY) | 38% | 0.79 | ⏳ pendiente | — |
 | swisstony | Will VfL Bochum win on 2026-08-07? | No (BUY) | 62% | 1.44 | ⏳ pendiente | — |
@@ -99,5 +102,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Club Brugge win on 2026-08-07? | Yes (BUY) | 83% | 3.61 | ⏳ pendiente | — |
 | RN1 | Will Port Vale FC win on 2026-08-07? | No (BUY) | 94% | 3.43 | ⏳ pendiente | — |
 | RN1 | Will KV Kortrijk win on 2026-08-07? | No (BUY) | 94% | 4.54 | ⏳ pendiente | — |
-| RN1 | Will Club Brugge win on 2026-08-07? | Yes (BUY) | 82% | 3.64 | ⏳ pendiente | — |
-| RN1 | Will Wisla Krakow vs. Wisla Plock end in | No (BUY) | 84% | 1.26 | ⏳ pendiente | — |
