@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 18:31:50 (hora de Perú)
+Actualizado: 2026-08-07 18:35:35 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 11 | 67% |
-| xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
+| xifutloong3 | 4 | 2 | 1 | ⚠️ 67% (muestra chica: 6) |
 | UpTheBlues | 101 | 53 | 75 | 66% |
 | GoalLineGhost | 203 | 106 | 25 | 66% |
 | TAIWANNUMBERONE | 29 | 15 | 1 | 66% |
@@ -58,10 +58,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 18 | 64% |
 | SDTrading | 7 | 4 | 4 | 64% |
 | quavoo | 7 | 4 | 21 | 64% |
-| Djdjdjekekek | 125 | 78 | 2 | 62% |
-| ferrariChampions2026 | 2353 | 1534 | 111 | 61% |
+| Djdjdjekekek | 125 | 78 | 3 | 62% |
+| ferrariChampions2026 | 2353 | 1534 | 115 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
-| HomeRunHazard | 480 | 304 | 86 | 61% |
+| HomeRunHazard | 480 | 304 | 87 | 61% |
 | Pwaddler | 9 | 6 | 4 | 60% |
 | SnakeBall | 3 | 2 | 5 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
@@ -72,7 +72,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 54 | 39 | 11 | 58% |
 | meoooow | 23 | 19 | 6 | 55% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
-| AnonymousUsername | 54 | 46 | 6 | 54% |
+| AnonymousUsername | 54 | 46 | 7 | 54% |
 | wr0ngw4yb3tt0r | 186 | 174 | 10 | 52% |
 | flatbarrel | 13 | 12 | 0 | 52% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 42 | 41 | 7 | 51% |
