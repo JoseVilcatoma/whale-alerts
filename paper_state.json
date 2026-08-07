@@ -1,5 +1,5 @@
 {
-  "bankroll": 933.1717663361571,
+  "bankroll": 932.2017663361571,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2105,6 +2105,16 @@
       "timestamp": 1786074217.5560608,
       "bankroll": 933.17,
       "event": "lost: swisstony \u2014 EC Vit\u00f3ria vs. CA Paranaense: O/U 3.5"
+    },
+    {
+      "timestamp": 1786074528.2117505,
+      "bankroll": 932.2,
+      "event": "lost: swisstony \u2014 Panthers vs. Cardinals"
+    },
+    {
+      "timestamp": 1786074534.7281094,
+      "bankroll": 932.2,
+      "event": "won: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 Panthers vs. Cardinals"
     }
   ]
 }
