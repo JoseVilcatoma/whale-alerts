@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 15:07:21 (hora de Perú)
+Actualizado: 2026-08-07 15:09:29 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VeryLucky888 | 159 | 85 | 8 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 9 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
-| quavoo | 7 | 4 | 3 | 64% |
+| quavoo | 7 | 4 | 4 | 64% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
 | ferrariChampions2026 | 2353 | 1534 | 46 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |

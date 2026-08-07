@@ -176890,5 +176890,17 @@
     "usd": 8418.936,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786133354,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-bal-tex-2026-08-07-total-7pt5",
+    "title": "Baltimore Orioles vs. Texas Rangers: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1355.74,
+    "odds_at_bet": 53,
+    "status": "pending"
   }
 ]
