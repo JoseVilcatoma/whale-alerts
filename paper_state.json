@@ -1,5 +1,5 @@
 {
-  "bankroll": 932.1682853370543,
+  "bankroll": 931.4597654129556,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2295,6 +2295,26 @@
       "timestamp": 1786078100.3151999,
       "bankroll": 932.17,
       "event": "lost: swisstony \u2014 Spread: Portland Fire (-2.5)"
+    },
+    {
+      "timestamp": 1786078221.1446738,
+      "bankroll": 928.59,
+      "event": "lost: HomeRunHazard \u2014 Spread: Arizona Diamondbacks (-2.5)"
+    },
+    {
+      "timestamp": 1786078225.513019,
+      "bankroll": 929.67,
+      "event": "won: swisstony \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 10.5"
+    },
+    {
+      "timestamp": 1786078226.113869,
+      "bankroll": 930.66,
+      "event": "won: swisstony \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 10.5"
+    },
+    {
+      "timestamp": 1786078226.2140837,
+      "bankroll": 931.46,
+      "event": "won: swisstony \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 10.5"
     }
   ]
 }
