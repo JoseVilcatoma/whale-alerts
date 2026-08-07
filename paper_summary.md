@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 20:11:10 (hora de Perú)
+Actualizado: 2026-08-06 20:13:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,003.13
-**Retorno acumulado:** +0.31%
+**Bankroll actual:** $944.56
+**Retorno acumulado:** -5.54%
 **Peor caída desde un máximo (drawdown):** 74.92%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,13 +14,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Djdjdjekekek | 60 | 0 | 0 | +2,106.41 USD |
-| wr0ngw4yb3tt0r | 15 | 14 | 8 | +134.09 USD |
+| wr0ngw4yb3tt0r | 16 | 14 | 7 | +138.20 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
-| HomeRunHazard | 38 | 40 | 17 | -19.17 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 8 | 8 | 22 | -36.20 USD |
+| swisstony | 9 | 8 | 21 | -31.25 USD |
 | RN1 | 15 | 14 | 4 | -58.78 USD |
+| HomeRunHazard | 38 | 41 | 16 | -86.80 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -79,7 +79,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | EC Vitória vs. CA Paranaense: O/U 3.5 | Over (BUY) | 46% | 1.13 | ⏳ pendiente | — |
 | swisstony | Will SC Corinthians Paulista win on 2026 | Yes (BUY) | 87% | 1.66 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 51% | 0.86 | ⏳ pendiente | — |
-| swisstony | Washington Nationals vs. Philadelphia Ph | Under (BUY) | 32% | 2.33 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 48% | 3.79 | ⏳ pendiente | — |
+| swisstony | Washington Nationals vs. Philadelphia Ph | Under (BUY) | 32% | 2.33 | ✅ ganada | +4.95 |
+| wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 48% | 3.79 | ✅ ganada | +4.11 |
 | swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 85% | 1.38 | ✅ ganada | +0.24 |
 | swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 84% | 1.38 | ✅ ganada | +0.26 |

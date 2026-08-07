@@ -1,5 +1,5 @@
 {
-  "bankroll": 1003.1347215731168,
+  "bankroll": 944.5618049064501,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1830,6 +1830,21 @@
       "timestamp": 1786064543.519606,
       "bankroll": 1003.13,
       "event": "won: swisstony \u2014 Chicago White Sox vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786065155.923914,
+      "bankroll": 935.5,
+      "event": "lost: HomeRunHazard \u2014 Spread: Philadelphia Phillies (-2.5)"
+    },
+    {
+      "timestamp": 1786065156.669132,
+      "bankroll": 939.61,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Chicago White Sox vs. Boston Red Sox: O/U 11.5"
+    },
+    {
+      "timestamp": 1786065156.966618,
+      "bankroll": 944.56,
+      "event": "won: swisstony \u2014 Washington Nationals vs. Philadelphia Phillies: O/U 10.5"
     }
   ]
 }
