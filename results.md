@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 16:04:09 (hora de Perú)
+Actualizado: 2026-08-07 16:06:41 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 73 | 15 | 0 | 83% |
 | TopGleaguepick | 24 | 5 | 1 | 83% |
 | elizabeth.ethcome | 45 | 9 | 0 | 83% |
-| swisstony | 780 | 170 | 107 | 82% |
+| swisstony | 780 | 170 | 108 | 82% |
 | Bigggggggg | 4 | 1 | 37 | ⚠️ 80% (muestra chica: 5) |
 | mooseborzoi | 63 | 20 | 3 | 76% |
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 30 | 12 | 0 | 71% |
 | fRibrenlc | 33 | 15 | 1 | 69% |
 | fkgggg2mouzfuria | 139 | 63 | 1 | 69% |
-| BirdMan. | 95 | 44 | 8 | 68% |
+| BirdMan. | 95 | 44 | 9 | 68% |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 13 | 6 | 0 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
@@ -89,7 +89,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 50 | 8 | 47% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | Talvez10 | 28 | 33 | 0 | 46% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 86 | 5 | 46% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 86 | 6 | 46% |
 | esportGG | 98 | 117 | 0 | 46% |
 | 0x0x23kjookhaiuohduoayh8c9 | 7 | 9 | 2 | 44% |
 | Melody626 | 3 | 4 | 13 | ⚠️ 43% (muestra chica: 7) |

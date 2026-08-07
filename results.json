@@ -178870,5 +178870,41 @@
     "usd": 16502.34,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786136660,
+    "username": "BirdMan.",
+    "wallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+    "slug": "will-team-liquid-win-the-shortest-game-in-lcs-2026-summer-split-20260730153626258",
+    "title": "Will Team Liquid Win the Shortest Game in LCS 2026 Summer Split?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1430.2319999999997,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786136724,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-joint-samsono-2026-08-08",
+    "title": "National Bank Open: Maya Joint vs Liudmila Samsonova",
+    "outcome": "Maya Joint",
+    "side": "BUY",
+    "usd": 2621.1136,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786136745,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-det-sf-2026-08-07",
+    "title": "Detroit Tigers vs. San Francisco Giants",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "usd": 27897.542400000002,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
