@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 13:18:57 (hora de Perú)
+Actualizado: 2026-08-07 13:21:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $775.90
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | RN1 | 30 | 21 | 0 | -103.62 USD |
-| swisstony | 209 | 147 | 119 | -104.97 USD |
+| swisstony | 209 | 147 | 122 | -104.97 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -67,6 +67,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will SBV Excelsior win on 2026-08-07? | No (BUY) | 37% | 2.49 | ⏳ pendiente | — |
+| swisstony | Will SBV Excelsior win on 2026-08-07? | Yes (BUY) | 57% | 10.33 | ⏳ pendiente | — |
+| swisstony | Will KFUM-Kameratene Oslo win on 2026-08 | Yes (BUY) | 76% | 5.57 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | No (BUY) | 57% | 1.54 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 21% | 1.08 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | No (BUY) | 52% | 1.26 | ⏳ pendiente | — |
@@ -94,6 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Over (BUY) | 51% | 2.25 | ⏳ pendiente | — |
 | swisstony | SCR Altach vs. WSG Tirol: 1st Half O/U 1 | Over (BUY) | 96% | 6.77 | ⏳ pendiente | — |
 | swisstony | Will Sandefjord Fotball vs. KFUM-Kamerat | No (BUY) | 83% | 4.02 | ⏳ pendiente | — |
-| swisstony | SC Cambuur-Leeuwarden vs. SBV Excelsior: | Under (BUY) | 92% | 0.79 | ⏳ pendiente | — |
-| swisstony | Will Derry City FC win on 2026-08-07? | Yes (BUY) | 70% | 1.55 | ⏳ pendiente | — |
-| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 70% | 2.99 | ⏳ pendiente | — |
