@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 05:19:19 (hora de Perú)
+Actualizado: 2026-08-07 05:21:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.40
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 0 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 86 | 54 | 21 | -30.11 USD |
+| swisstony | 86 | 54 | 22 | -30.11 USD |
 | RN1 | 20 | 16 | 3 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -63,6 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 34% | 1.33 | ⏳ pendiente | — |
 | swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Under (BUY) | 80% | 0.92 | ⏳ pendiente | — |
 | swisstony | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 48% | 1.15 | ⏳ pendiente | — |
 | swisstony | Spread: Miami Marlins (-2.5) | Los Angeles Angels (BUY) | 67% | 1.03 | ⏳ pendiente | — |
@@ -92,4 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Pittsburgh Pirates (-1.5) | Pittsburgh Pirates (BUY) | 39% | 1.14 | ⏳ pendiente | — |
 | swisstony | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 66% | 26.56 | ⏳ pendiente | — |
 | swisstony | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 35% | 2.20 | ⏳ pendiente | — |
-| swisstony | Athletics vs. Boston Red Sox: O/U 10.5 | Under (BUY) | 64% | 4.37 | ⏳ pendiente | — |
