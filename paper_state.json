@@ -1,5 +1,5 @@
 {
-  "bankroll": 892.8209372683364,
+  "bankroll": 893.627603935003,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3055,6 +3055,11 @@
       "timestamp": 1786115002.4349244,
       "bankroll": 892.82,
       "event": "won: swisstony \u2014 Suwon Bluewings vs. Gimhae FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786115314.1654296,
+      "bankroll": 893.63,
+      "event": "won: swisstony \u2014 Gyeongnam FC vs. Daegu FC: O/U 2.5"
     }
   ]
 }
