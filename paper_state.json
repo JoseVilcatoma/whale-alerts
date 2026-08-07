@@ -1,5 +1,5 @@
 {
-  "bankroll": 933.0756824574705,
+  "bankroll": 950.3070105434275,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1855,6 +1855,26 @@
       "timestamp": 1786068271.7687218,
       "bankroll": 933.08,
       "event": "lost: HomeRunHazard \u2014 Las Vegas Aces vs. Indiana Fever: O/U 193.5"
+    },
+    {
+      "timestamp": 1786068577.6513336,
+      "bankroll": 948.64,
+      "event": "won: HomeRunHazard \u2014 Las Vegas Aces vs. Indiana Fever"
+    },
+    {
+      "timestamp": 1786068580.074724,
+      "bankroll": 947.72,
+      "event": "lost: swisstony \u2014 Las Vegas Aces vs. Indiana Fever"
+    },
+    {
+      "timestamp": 1786068584.528293,
+      "bankroll": 949.13,
+      "event": "won: swisstony \u2014 Las Vegas Aces vs. Indiana Fever"
+    },
+    {
+      "timestamp": 1786068584.7285929,
+      "bankroll": 950.31,
+      "event": "won: swisstony \u2014 Las Vegas Aces vs. Indiana Fever"
     }
   ]
 }
