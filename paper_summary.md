@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 05:31:33 (hora de Perú)
+Actualizado: 2026-08-07 05:33:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.40
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 0 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 86 | 54 | 33 | -30.11 USD |
+| swisstony | 86 | 54 | 35 | -30.11 USD |
 | RN1 | 20 | 16 | 3 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -63,6 +63,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Gamba Ōsaka win on 2026-08-07? | No (BUY) | 58% | 8.49 | ⏳ pendiente | — |
+| swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Yes (BUY) | 46% | 2.84 | ⏳ pendiente | — |
 | swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Under (BUY) | 60% | 7.50 | ⏳ pendiente | — |
 | swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Under (BUY) | 59% | 2.66 | ⏳ pendiente | — |
 | swisstony | Spread: Beijing Guoan FC (-1.5) | Beijing Guoan FC (BUY) | 45% | 2.29 | ⏳ pendiente | — |
@@ -91,5 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Bayern Munich win on 2026-08-07? | No (BUY) | 47% | 25.20 | ⏳ pendiente | — |
 |  | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 50% | 2.15 | ⏳ pendiente | — |
 |  | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 50% | 1.57 | ⏳ pendiente | — |
-| RN1 | Will Bayern Munich win on 2026-08-07? | No (BUY) | 47% | 1.82 | ⏳ pendiente | — |
-| RN1 | Will Bayern Munich win on 2026-08-07? | No (BUY) | 47% | 23.68 | ⏳ pendiente | — |
