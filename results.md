@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 14:51:24 (hora de Perú)
+Actualizado: 2026-08-07 14:52:39 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -27,13 +27,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 73 | 15 | 0 | 83% |
 | TopGleaguepick | 24 | 5 | 0 | 83% |
 | elizabeth.ethcome | 45 | 9 | 0 | 83% |
-| swisstony | 780 | 170 | 77 | 82% |
+| swisstony | 780 | 170 | 78 | 82% |
 | Bigggggggg | 4 | 1 | 37 | ⚠️ 80% (muestra chica: 5) |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
 | Spicer | 29 | 10 | 0 | 74% |
 | fazewinline | 23 | 8 | 0 | 74% |
-| one8tyfive | 49 | 18 | 5 | 73% |
+| one8tyfive | 49 | 18 | 6 | 73% |
 | Fallout3 | 16 | 6 | 0 | 73% |
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 11 | 4 | 1 | 73% |
 | CentralCasting | 18 | 7 | 1 | 72% |
@@ -47,8 +47,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 2 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| UpTheBlues | 101 | 53 | 52 | 66% |
-| GoalLineGhost | 203 | 106 | 5 | 66% |
+| UpTheBlues | 101 | 53 | 53 | 66% |
+| GoalLineGhost | 203 | 106 | 7 | 66% |
 | TAIWANNUMBERONE | 29 | 15 | 0 | 66% |
 | RN1 | 1419 | 754 | 56 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
@@ -59,11 +59,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SDTrading | 7 | 4 | 0 | 64% |
 | quavoo | 7 | 4 | 3 | 64% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
-| ferrariChampions2026 | 2353 | 1534 | 41 | 61% |
+| ferrariChampions2026 | 2353 | 1534 | 42 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
-| HomeRunHazard | 480 | 304 | 20 | 61% |
+| HomeRunHazard | 480 | 304 | 21 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
-| SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
+| SnakeBall | 3 | 2 | 2 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 12 | 58% |
