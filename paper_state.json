@@ -1,5 +1,5 @@
 {
-  "bankroll": 934.4017663361572,
+  "bankroll": 933.1717663361571,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2090,6 +2090,21 @@
       "timestamp": 1786074092.6895788,
       "bankroll": 934.4,
       "event": "won: RN1 \u2014 EC Vit\u00f3ria vs. CA Paranaense: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786074216.205603,
+      "bankroll": 935.73,
+      "event": "won: swisstony \u2014 EC Vit\u00f3ria vs. CA Paranaense: O/U 3.5"
+    },
+    {
+      "timestamp": 1786074216.8979957,
+      "bankroll": 936.07,
+      "event": "won: swisstony \u2014 EC Vit\u00f3ria vs. CA Paranaense: O/U 4.5"
+    },
+    {
+      "timestamp": 1786074217.5560608,
+      "bankroll": 933.17,
+      "event": "lost: swisstony \u2014 EC Vit\u00f3ria vs. CA Paranaense: O/U 3.5"
     }
   ]
 }
