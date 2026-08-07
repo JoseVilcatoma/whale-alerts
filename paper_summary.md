@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 07:15:14 (hora de Perú)
+Actualizado: 2026-08-07 07:17:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.40
@@ -17,10 +17,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | wr0ngw4yb3tt0r | 20 | 17 | 0 | +123.77 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 7 | +0.00 USD |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 8 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 86 | 54 | 145 | -30.11 USD |
+| swisstony | 86 | 54 | 148 | -30.11 USD |
 | RN1 | 20 | 16 | 3 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -63,6 +63,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: BNK FEARX vs HANJIN BRION (BO3) - L | HANJIN BRION (BUY) | 100% | 0.95 | ⏳ pendiente | — |
+| swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 49% | 0.94 | ⏳ pendiente | — |
+| swisstony | Will Beijing Guoan FC vs. Shenzhen Xinpe | No (BUY) | 95% | 3.56 | ⏳ pendiente | — |
+| swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 48% | 0.92 | ⏳ pendiente | — |
 | swisstony | Will Gamba Ōsaka vs. Urawa Red Diamonds  | Yes (BUY) | 13% | 4.06 | ⏳ pendiente | — |
 | swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 89% | 1.03 | ⏳ pendiente | — |
 | swisstony | Will Gamba Ōsaka win on 2026-08-07? | Yes (BUY) | 85% | 5.61 | ⏳ pendiente | — |
@@ -89,7 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 32% | 1.45 | ⏳ pendiente | — |
 | swisstony | Suwon Bluewings vs. Gimhae FC: O/U 2.5 | Under (BUY) | 77% | 2.71 | ⏳ pendiente | — |
 | swisstony | Gyeongnam FC vs. Daegu FC: O/U 2.5 | Under (BUY) | 78% | 2.86 | ⏳ pendiente | — |
-| swisstony | Yongin FC vs. Busan IPark: O/U 2.5 | Under (BUY) | 81% | 4.43 | ⏳ pendiente | — |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: BNK FEARX vs HANJIN BRION (BO3) - L | HANJIN BRION (BUY) | 100% | 1.27 | ⏳ pendiente | — |
-| swisstony | Will Beijing Guoan FC win on 2026-08-07? | Yes (BUY) | 82% | 4.81 | ⏳ pendiente | — |
-| swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 77% | 3.81 | ⏳ pendiente | — |
