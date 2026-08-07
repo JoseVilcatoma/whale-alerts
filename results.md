@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 15:59:08 (hora de Perú)
+Actualizado: 2026-08-07 16:04:09 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -105,7 +105,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | AV23IUa | 13 | 28 | 2 | 32% |
 | jtwyslljy | 13 | 29 | 0 | 31% |
 | CORGI8 | 4 | 12 | 0 | 25% |
-| 111111111115 | 11 | 38 | 2 | 22% |
+| 111111111115 | 11 | 38 | 3 | 22% |
 | neurodivergentBet | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | LeatherPants | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | Shori888 | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |

@@ -178858,5 +178858,17 @@
     "usd": 1813.6193999999998,
     "odds_at_bet": 87,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786136625,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "val-100t1-c9-2026-08-07-map-handicap-away-1pt5",
+    "title": "Map Handicap: 100T (-1.5) vs Cloud9 (+1.5)",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 16502.34,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
