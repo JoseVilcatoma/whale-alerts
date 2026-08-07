@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 17:26:21 (hora de Perú)
+Actualizado: 2026-08-07 17:29:33 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 73 | 15 | 0 | 83% |
 | TopGleaguepick | 24 | 5 | 1 | 83% |
 | elizabeth.ethcome | 45 | 9 | 0 | 83% |
-| swisstony | 780 | 170 | 110 | 82% |
+| swisstony | 780 | 170 | 111 | 82% |
 | Bigggggggg | 4 | 1 | 37 | ⚠️ 80% (muestra chica: 5) |
 | mooseborzoi | 63 | 20 | 3 | 76% |
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
@@ -54,28 +54,28 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
-| VeryLucky888 | 159 | 85 | 17 | 65% |
+| VeryLucky888 | 159 | 85 | 19 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 17 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
 | quavoo | 7 | 4 | 10 | 64% |
 | Djdjdjekekek | 125 | 78 | 2 | 62% |
-| ferrariChampions2026 | 2353 | 1534 | 94 | 61% |
+| ferrariChampions2026 | 2353 | 1534 | 95 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
-| HomeRunHazard | 480 | 304 | 67 | 61% |
+| HomeRunHazard | 480 | 304 | 68 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 5 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 32 | 58% |
 | us391 | 33 | 24 | 1 | 58% |
-| StasPanda | 26 | 19 | 3 | 58% |
+| StasPanda | 26 | 19 | 4 | 58% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 54 | 39 | 11 | 58% |
 | meoooow | 23 | 19 | 6 | 55% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | AnonymousUsername | 54 | 46 | 5 | 54% |
-| wr0ngw4yb3tt0r | 186 | 174 | 7 | 52% |
+| wr0ngw4yb3tt0r | 186 | 174 | 9 | 52% |
 | flatbarrel | 13 | 12 | 0 | 52% |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 42 | 41 | 1 | 51% |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 42 | 41 | 3 | 51% |
 | Hauchn | 3 | 3 | 0 | ⚠️ 50% (muestra chica: 6) |
 | BreakTheBank | 4 | 4 | 5 | 50% |
 | Anjun | 4 | 4 | 0 | 50% |
@@ -89,10 +89,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 50 | 14 | 47% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | Talvez10 | 28 | 33 | 2 | 46% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 86 | 19 | 46% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 86 | 22 | 46% |
 | esportGG | 98 | 117 | 0 | 46% |
 | 0x0x23kjookhaiuohduoayh8c9 | 7 | 9 | 3 | 44% |
-| Melody626 | 3 | 4 | 14 | ⚠️ 43% (muestra chica: 7) |
+| Melody626 | 3 | 4 | 15 | ⚠️ 43% (muestra chica: 7) |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 98 | 128 | 0 | 43% |
 | Flipadelphia | 17 | 23 | 7 | 42% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
@@ -126,3 +126,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | JnStTrdrBnusFnd | 0 | 0 | 4 | — |
 | facai86868 | 0 | 0 | 1 | — |
 | greyoctober | 0 | 0 | 2 | — |
+| Sassy-Bucket | 0 | 0 | 2 | — |
