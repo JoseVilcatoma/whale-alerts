@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 21:15:02 (hora de Perú)
+Actualizado: 2026-08-06 21:17:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $950.31
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 11 | 9 | 75 | -29.59 USD |
+| swisstony | 11 | 9 | 76 | -29.59 USD |
 | RN1 | 15 | 14 | 5 | -58.78 USD |
 | HomeRunHazard | 40 | 42 | 13 | -82.72 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
@@ -57,6 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Club Tijuana win on 2026-08-06? | No (BUY) | 97% | 1.63 | ⏳ pendiente | — |
 | swisstony | Spread: Portland Fire (-2.5) | Toronto Tempo (BUY) | 46% | 1.20 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 3.5 | Over (BUY) | 43% | 1.04 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. PortlandFire | PortlandFire (BUY) | 55% | 1.04 | ⏳ pendiente | — |
@@ -86,4 +87,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 65% | 3.75 | ⏳ pendiente | — |
 | swisstony | Spread: Kansas City Royals (-2.5) | Minnesota Twins (BUY) | 78% | 1.67 | ⏳ pendiente | — |
 | swisstony | Panthers vs. Cardinals | Cardinals (BUY) | 50% | 0.97 | ⏳ pendiente | — |
-| swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 65% | 3.88 | ⏳ pendiente | — |
