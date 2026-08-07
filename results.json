@@ -176278,5 +176278,101 @@
     "usd": 1865.5483,
     "odds_at_bet": 77,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786132397,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-lad-ari-2026-08-07-spread-home-1pt5",
+    "title": "Spread: Arizona Diamondbacks (-1.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 2432.0,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786132398,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-atl-wsh-2026-08-07-total-170pt5",
+    "title": "Atlanta Dream vs. Washington Mystics: O/U 170.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1289.745429,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786132398,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "wnba-atl-wsh-2026-08-07-total-170pt5",
+    "title": "Atlanta Dream vs. Washington Mystics: O/U 170.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1904.7599989999997,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786132411,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "wta-andreev-fernand-2026-08-08",
+    "title": "National Bank Open: Mirra Andreeva vs Leylah Fernandez",
+    "outcome": "Leylah Fernandez",
+    "side": "BUY",
+    "usd": 2205.56223,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786132411,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "wta-andreev-fernand-2026-08-08",
+    "title": "National Bank Open: Mirra Andreeva vs Leylah Fernandez",
+    "outcome": "Leylah Fernandez",
+    "side": "BUY",
+    "usd": 12942.045,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786132420,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "wnba-atl-wsh-2026-08-07-total-170pt5",
+    "title": "Atlanta Dream vs. Washington Mystics: O/U 170.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2857.139999,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786132420,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-atl-wsh-2026-08-07-total-170pt5",
+    "title": "Atlanta Dream vs. Washington Mystics: O/U 170.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1422.0,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786132424,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "wta-andreev-fernand-2026-08-08",
+    "title": "National Bank Open: Mirra Andreeva vs Leylah Fernandez",
+    "outcome": "Leylah Fernandez",
+    "side": "BUY",
+    "usd": 1716.93135,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
