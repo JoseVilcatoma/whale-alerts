@@ -2,19 +2,13 @@
   "0x204f72f35326db932158cba6adff0b9a1da95e14": {
     "username": "swisstony",
     "added_at": 1786096709.4850876,
-    "roi_pct": 126.02,
-    "short_term_pct": 60.0
+    "roi_pct": 153.75,
+    "short_term_pct": 70.0
   },
   "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563": {
     "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
     "added_at": 1786103089.9036496,
-    "roi_pct": 2.37,
-    "short_term_pct": 80.0
-  },
-  "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
-    "username": "RN1",
-    "added_at": 1786106732.6474056,
-    "roi_pct": 147.09,
-    "short_term_pct": 50.0
+    "roi_pct": 2.35,
+    "short_term_pct": 100.0
   }
 }

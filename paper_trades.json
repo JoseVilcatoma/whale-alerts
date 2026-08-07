@@ -12732,5 +12732,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786107465.723735,
     "fills": 1
+  },
+  {
+    "timestamp": 1786107578,
+    "timestamp_added": 1786107578.9178622,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "chi-bgu-xin-2026-08-07-btts",
+    "title": "Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: Both Teams to Score",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1423.462299,
+    "whale_pct": 0.91,
+    "paper_stake_usd": 8.35,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786107580.3941193,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786107607,
+    "timestamp_added": 1786107608.0843613,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "chi-bgu-xin-2026-08-07-draw",
+    "title": "Will Beijing Guoan FC vs. Shenzhen Xinpengcheng FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 300.73,
+    "whale_pct": 0.142,
+    "paper_stake_usd": 1.31,
+    "odds_at_bet": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786107608.0843706,
+    "fills": 1
   }
 ]
