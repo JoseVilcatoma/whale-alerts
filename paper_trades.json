@@ -6038,5 +6038,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786063796.03112,
     "fills": 1
+  },
+  {
+    "timestamp": 1786064106,
+    "timestamp_added": 1786064106.8138475,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "brco-vit-cap-2026-08-06-btts",
+    "title": "EC Vit\u00f3ria vs. CA Paranaense: Both Teams to Score",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 491.99999999999994,
+    "whale_pct": 0.231,
+    "paper_stake_usd": 1.98,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786064106.8138554,
+    "fills": 1
   }
 ]
