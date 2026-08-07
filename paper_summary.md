@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 20:48:07 (hora de Perú)
+Actualizado: 2026-08-06 20:50:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $944.56
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 9 | 8 | 53 | -31.25 USD |
+| swisstony | 9 | 8 | 58 | -31.25 USD |
 | RN1 | 15 | 14 | 5 | -58.78 USD |
 | HomeRunHazard | 38 | 41 | 16 | -86.80 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
@@ -55,6 +55,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Austin FC win on 2026-08-06? | No (BUY) | 36% | 2.01 | ⏳ pendiente | — |
+| swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 65% | 3.69 | ⏳ pendiente | — |
+| swisstony | Spread: Kansas City Royals (-2.5) | Minnesota Twins (BUY) | 78% | 4.02 | ⏳ pendiente | — |
+| swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 65% | 3.69 | ⏳ pendiente | — |
+| swisstony | Austin FC vs. Club Tijuana: O/U 3.5 | Over (BUY) | 26% | 1.22 | ⏳ pendiente | — |
 | swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 65% | 3.73 | ⏳ pendiente | — |
 | swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 65% | 3.75 | ⏳ pendiente | — |
 | swisstony | Spread: Kansas City Royals (-2.5) | Minnesota Twins (BUY) | 78% | 1.67 | ⏳ pendiente | — |
@@ -80,8 +85,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Austin FC vs. Club Tijuana: O/U 4.5 | Over (BUY) | 18% | 1.02 | ⏳ pendiente | — |
 | swisstony | Las Vegas Aces vs. Indiana Fever | Las Vegas Aces (BUY) | 58% | 1.62 | ⏳ pendiente | — |
 | swisstony | Will Austin FC win on 2026-08-06? | No (BUY) | 58% | 3.07 | ⏳ pendiente | — |
-| swisstony | Las Vegas Aces vs. Indiana Fever | Las Vegas Aces (BUY) | 69% | 3.14 | ⏳ pendiente | — |
-| swisstony | Will Austin FC vs. Club Tijuana end in a | Yes (BUY) | 29% | 1.22 | ⏳ pendiente | — |
-| swisstony | Spread: Minnesota Lynx (-16.5) | Los Angeles Sparks (BUY) | 45% | 1.07 | ⏳ pendiente | — |
-| swisstony | Will Austin FC win on 2026-08-06? | No (BUY) | 66% | 3.34 | ⏳ pendiente | — |
-| swisstony | Spread: Kansas City Royals (-2.5) | Kansas City Royals (BUY) | 35% | 1.30 | ⏳ pendiente | — |
