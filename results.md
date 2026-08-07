@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 16:53:18 (hora de Perú)
+Actualizado: 2026-08-07 16:56:11 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -47,19 +47,19 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 11 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| UpTheBlues | 101 | 53 | 60 | 66% |
+| UpTheBlues | 101 | 53 | 61 | 66% |
 | GoalLineGhost | 203 | 106 | 21 | 66% |
 | TAIWANNUMBERONE | 29 | 15 | 1 | 66% |
-| RN1 | 1419 | 754 | 100 | 65% |
+| RN1 | 1419 | 754 | 102 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 159 | 85 | 17 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 13 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 14 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
 | quavoo | 7 | 4 | 10 | 64% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
-| ferrariChampions2026 | 2353 | 1534 | 91 | 61% |
+| ferrariChampions2026 | 2353 | 1534 | 92 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
 | HomeRunHazard | 480 | 304 | 54 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
@@ -86,7 +86,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VPenguin | 19 | 21 | 0 | 48% |
 | skyman44 | 11 | 12 | 2 | 48% |
 | PASSTHEMONEY | 72 | 80 | 0 | 47% |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 50 | 11 | 47% |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 50 | 12 | 47% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | Talvez10 | 28 | 33 | 0 | 46% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 86 | 12 | 46% |
