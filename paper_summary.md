@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 01:08:58 (hora de Perú)
+Actualizado: 2026-08-07 01:11:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $916.17
@@ -18,9 +18,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 20 | 17 | 0 | +123.77 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 0 | +0.00 USD |
-|  | 0 | 0 | 4 | +0.00 USD |
+|  | 0 | 0 | 5 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 83 | 53 | 15 | -31.26 USD |
+| swisstony | 83 | 53 | 16 | -31.26 USD |
 | RN1 | 20 | 16 | 3 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 49 | 1 | -106.78 USD |
@@ -63,6 +63,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+|  | Aston Villa vs. Bayern Munich: Bayern Mu | Over (BUY) | 64% | 12.22 | ⏳ pendiente | — |
+| swisstony | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 54% | 1.41 | ⏳ pendiente | — |
 | RN1 | Will Bayern Munich win on 2026-08-07? | No (BUY) | 47% | 25.20 | ⏳ pendiente | — |
 |  | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 50% | 2.15 | ⏳ pendiente | — |
 |  | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 50% | 1.57 | ⏳ pendiente | — |
@@ -91,5 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Toronto Tempo vs. PortlandFire | PortlandFire (BUY) | 92% | 1.62 | ✅ ganada | +0.14 |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 185 | Under (BUY) | 56% | 4.68 | ✅ ganada | +3.68 |
 | swisstony | Toronto Tempo vs. PortlandFire | PortlandFire (BUY) | 90% | 3.33 | ✅ ganada | +0.37 |
-| swisstony | Spread: CF América (-1.5) | CF América (BUY) | 95% | 1.94 | ⏳ pendiente | — |
-| swisstony | CF América vs. San Diego FC: Both Teams  | Yes (BUY) | 41% | 1.08 | ⏳ pendiente | — |
