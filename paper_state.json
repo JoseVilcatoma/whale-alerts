@@ -1,5 +1,5 @@
 {
-  "bankroll": 784.4915847785393,
+  "bankroll": 777.4247018630341,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3795,6 +3795,41 @@
       "timestamp": 1786121235.6580184,
       "bankroll": 784.49,
       "event": "lost: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: Bilibili Gaming vs Top Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786122477.7384932,
+      "bankroll": 783.36,
+      "event": "lost: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: Bilibili Gaming vs Top Esports (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786122477.9389079,
+      "bankroll": 778.69,
+      "event": "lost: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: Bilibili Gaming vs Top Esports (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786122478.039078,
+      "bankroll": 779.46,
+      "event": "won: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: Bilibili Gaming vs Top Esports (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786122478.1393063,
+      "bankroll": 780.58,
+      "event": "won: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: Bilibili Gaming vs Top Esports (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786122478.2396302,
+      "bankroll": 775.67,
+      "event": "lost: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: Bilibili Gaming vs Top Esports (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786122478.5400376,
+      "bankroll": 776.49,
+      "event": "won: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: Bilibili Gaming vs Top Esports (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786122478.640181,
+      "bankroll": 777.42,
+      "event": "won: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: Bilibili Gaming vs Top Esports (BO3) - LPL Group Ascend"
     }
   ]
 }

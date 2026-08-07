@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 12:06:03 (hora de Perú)
+Actualizado: 2026-08-07 12:08:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $784.49
-**Retorno acumulado:** -21.55%
+**Bankroll actual:** $777.42
+**Retorno acumulado:** -22.26%
 **Peor caída desde un máximo (drawdown):** 74.92%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -18,10 +18,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 20 | 17 | 0 | +123.77 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 |  | 2 | 1 | 4 | +1.51 USD |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 7 | 4 | 7 | -4.24 USD |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 7 | 0 | -11.30 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 203 | 145 | 69 | -103.44 USD |
+| swisstony | 203 | 145 | 72 | -103.44 USD |
 | RN1 | 30 | 21 | 0 | -103.62 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
@@ -67,6 +67,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 48% | 0.84 | ⏳ pendiente | — |
+| swisstony | Will Sandefjord Fotball vs. KFUM-Kamerat | Yes (BUY) | 27% | 1.04 | ⏳ pendiente | — |
+| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 48% | 2.89 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 47% | 0.83 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 68% | 2.15 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 46% | 2.03 | ⏳ pendiente | — |
@@ -94,6 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Sandefjord Fotball (-1.5) | KFUM-Kameratene Oslo (BUY) | 77% | 1.85 | ⏳ pendiente | — |
 | swisstony | Will Lokomotiv Tashkent vs. PFK Dinamo S | No (BUY) | 79% | 8.79 | ⏳ pendiente | — |
 | swisstony | Xorazm Fk Urganch vs. PFK Mash AL Mubare | Under (BUY) | 85% | 2.22 | ⏳ pendiente | — |
-| swisstony | Seinajoen JK vs. IF Gnistan: Both Teams  | No (BUY) | 35% | 1.06 | ⏳ pendiente | — |
-| swisstony | Will MTK Budapest win on 2026-08-07? | No (BUY) | 79% | 5.99 | ⏳ pendiente | — |
-| swisstony | MTK Budapest vs. Puskas Akademia FC Felc | Over (BUY) | 100% | 3.36 | ⏳ pendiente | — |
