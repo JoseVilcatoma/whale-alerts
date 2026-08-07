@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 15:54:04 (hora de Perú)
+Actualizado: 2026-08-07 15:56:34 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 73 | 15 | 0 | 83% |
 | TopGleaguepick | 24 | 5 | 1 | 83% |
 | elizabeth.ethcome | 45 | 9 | 0 | 83% |
-| swisstony | 780 | 170 | 106 | 82% |
+| swisstony | 780 | 170 | 107 | 82% |
 | Bigggggggg | 4 | 1 | 37 | ⚠️ 80% (muestra chica: 5) |
 | mooseborzoi | 63 | 20 | 3 | 76% |
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
@@ -48,9 +48,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 9 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | UpTheBlues | 101 | 53 | 60 | 66% |
-| GoalLineGhost | 203 | 106 | 14 | 66% |
+| GoalLineGhost | 203 | 106 | 15 | 66% |
 | TAIWANNUMBERONE | 29 | 15 | 1 | 66% |
-| RN1 | 1419 | 754 | 80 | 65% |
+| RN1 | 1419 | 754 | 82 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
 | ferrariChampions2026 | 2353 | 1534 | 76 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
-| HomeRunHazard | 480 | 304 | 45 | 61% |
+| HomeRunHazard | 480 | 304 | 47 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 5 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
