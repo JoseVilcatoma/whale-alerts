@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 19:42:34 (hora de Perú)
+Actualizado: 2026-08-06 19:44:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $859.02
@@ -51,7 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| swisstony | New York City FC vs. Club Santos Laguna: | Under (BUY) | 54% | 2.62 | ⏳ pendiente | — |
+| swisstony | New York City FC vs. Club Santos Laguna: | Under (BUY) | 54% | 4.70 | ⏳ pendiente | — |
 | swisstony | Spread: SC Corinthians Paulista (-1.5) | SC Corinthians Paulista (BUY) | 31% | 0.88 | ⏳ pendiente | — |
 | swisstony | Spread: Club Santos Laguna (-1.5) | New York City FC (BUY) | 96% | 4.76 | ⏳ pendiente | — |
 | swisstony | EC Vitória vs. CA Paranaense: O/U 4.5 | Under (BUY) | 92% | 3.95 | ⏳ pendiente | — |

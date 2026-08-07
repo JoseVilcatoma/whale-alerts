@@ -5928,15 +5928,15 @@
     "title": "New York City FC vs. Club Santos Laguna: O/U 1.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 571.9086,
-    "whale_pct": 0.305,
-    "paper_stake_usd": 2.62,
+    "whale_usd": 1025.5086000000001,
+    "whale_pct": 0.547,
+    "paper_stake_usd": 4.7,
     "odds_at_bet": 54,
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
-    "last_fill_at": 1786063349.21458,
-    "fills": 1
+    "last_fill_at": 1786063358.2400036,
+    "fills": 2
   }
 ]
