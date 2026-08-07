@@ -1,5 +1,5 @@
 {
-  "bankroll": 785.5215847785392,
+  "bankroll": 784.4915847785393,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3790,6 +3790,11 @@
       "timestamp": 1786120609.1549954,
       "bankroll": 785.52,
       "event": "won: swisstony \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786121235.6580184,
+      "bankroll": 784.49,
+      "event": "lost: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: Bilibili Gaming vs Top Esports - Game 1 Winner"
     }
   ]
 }

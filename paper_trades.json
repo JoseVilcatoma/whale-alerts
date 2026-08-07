@@ -12490,8 +12490,8 @@
     "whale_pct": 0.114,
     "paper_stake_usd": 1.03,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.03,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786106973.1259887,
@@ -14590,6 +14590,26 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786120753.2963123,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786121165,
+    "timestamp_added": 1786121165.8638487,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "fin1-sei-gni-2026-08-07-total-4pt5",
+    "title": "Seinajoen JK vs. IF Gnistan: O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 234.782608,
+    "whale_pct": 0.129,
+    "paper_stake_usd": 1.01,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786121165.8638568,
     "fills": 1
   }
 ]
