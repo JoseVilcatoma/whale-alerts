@@ -182902,5 +182902,65 @@
     "usd": 1218.5528,
     "odds_at_bet": 82,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786144636,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "wta-sakkari-gauff-2026-08-06",
+    "title": "National Bank Open: Maria Sakkari vs Coco Gauff",
+    "outcome": "Coco Gauff",
+    "side": "BUY",
+    "usd": 1643.3190000000002,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786144665,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-atmane-mensik-2026-08-07",
+    "title": "National Bank Open: Terence Atmane vs Jakub Mensik",
+    "outcome": "Jakub Mensik",
+    "side": "BUY",
+    "usd": 7736.937800000001,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786144665,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-atmane-mensik-2026-08-07",
+    "title": "National Bank Open: Terence Atmane vs Jakub Mensik",
+    "outcome": "Jakub Mensik",
+    "side": "BUY",
+    "usd": 4100.0,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786144665,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "atp-atmane-mensik-2026-08-07",
+    "title": "National Bank Open: Terence Atmane vs Jakub Mensik",
+    "outcome": "Jakub Mensik",
+    "side": "SELL",
+    "usd": 43141.7908,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786144665,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-atmane-mensik-2026-08-07",
+    "title": "National Bank Open: Terence Atmane vs Jakub Mensik",
+    "outcome": "Jakub Mensik",
+    "side": "BUY",
+    "usd": 4089.3399999999997,
+    "odds_at_bet": 82,
+    "status": "pending"
   }
 ]
