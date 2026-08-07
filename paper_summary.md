@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 20:15:17 (hora de Perú)
+Actualizado: 2026-08-06 20:17:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $944.56
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 9 | 8 | 22 | -31.25 USD |
+| swisstony | 9 | 8 | 23 | -31.25 USD |
 | RN1 | 15 | 14 | 4 | -58.78 USD |
 | HomeRunHazard | 38 | 41 | 16 | -86.80 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
@@ -54,6 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: CF Cruz Azul (-2.5) | Philadelphia Union (BUY) | 91% | 5.10 | ⏳ pendiente | — |
 | swisstony | Spread: Minnesota Lynx (-15.5) | Los Angeles Sparks (BUY) | 32% | 1.79 | ⏳ pendiente | — |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Over (BUY) | 50% | 1.39 | ⏳ pendiente | — |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx | Minnesota Lynx (BUY) | 92% | 3.39 | ⏳ pendiente | — |
@@ -83,4 +84,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 51% | 0.86 | ⏳ pendiente | — |
 | swisstony | Washington Nationals vs. Philadelphia Ph | Under (BUY) | 32% | 2.33 | ✅ ganada | +4.95 |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 48% | 3.79 | ✅ ganada | +4.11 |
-| swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 85% | 1.38 | ✅ ganada | +0.24 |
