@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 12:51:42 (hora de Perú)
+Actualizado: 2026-08-07 12:53:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $777.54
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 7 | 0 | -11.30 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 205 | 145 | 100 | -103.33 USD |
+| swisstony | 205 | 145 | 106 | -103.33 USD |
 | RN1 | 30 | 21 | 0 | -103.62 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
@@ -67,6 +67,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Over (BUY) | 82% | 1.40 | ⏳ pendiente | — |
+| swisstony | Will Sønderjyske Fodbold win on 2026-08- | No (BUY) | 83% | 3.11 | ⏳ pendiente | — |
+| swisstony | Will FC Slovan Liberec win on 2026-08-07 | No (BUY) | 70% | 3.99 | ⏳ pendiente | — |
+| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Over (BUY) | 82% | 4.33 | ⏳ pendiente | — |
+| swisstony | FC Emmen vs. Roda JC Kerkrade: O/U 2.5 | Under (BUY) | 41% | 1.61 | ⏳ pendiente | — |
+| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Over (BUY) | 51% | 2.25 | ⏳ pendiente | — |
 | swisstony | SCR Altach vs. WSG Tirol: 1st Half O/U 1 | Over (BUY) | 96% | 6.77 | ⏳ pendiente | — |
 | swisstony | Will Sandefjord Fotball vs. KFUM-Kamerat | No (BUY) | 83% | 4.02 | ⏳ pendiente | — |
 | swisstony | SC Cambuur-Leeuwarden vs. SBV Excelsior: | Under (BUY) | 92% | 0.79 | ⏳ pendiente | — |
@@ -91,9 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will FC Slovan Liberec win on 2026-08-07 | No (BUY) | 65% | 1.06 | ⏳ pendiente | — |
 | swisstony | Will Seinajoen JK win on 2026-08-07? | No (BUY) | 81% | 2.02 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | No (BUY) | 47% | 0.86 | ⏳ pendiente | — |
-| swisstony | Will FC Slovan Liberec win on 2026-08-07 | No (BUY) | 63% | 1.19 | ⏳ pendiente | — |
-| swisstony | Ostersunds FK vs. GIF Sundsvall: O/U 1.5 | Over (BUY) | 75% | 2.24 | ⏳ pendiente | — |
-| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 52% | 1.00 | ⏳ pendiente | — |
-| swisstony | Will MTK Budapest vs. Puskas Akademia FC | Yes (BUY) | 63% | 11.80 | ⏳ pendiente | — |
-| swisstony | Ostersunds FK vs. GIF Sundsvall: O/U 1.5 | Under (BUY) | 24% | 1.03 | ⏳ pendiente | — |
-| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | No (BUY) | 44% | 0.80 | ⏳ pendiente | — |
