@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 22:30:24 (hora de Perú)
+Actualizado: 2026-08-06 22:32:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $978.04
@@ -17,7 +17,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 17 | 14 | 6 | +150.71 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
-| swisstony | 17 | 10 | 111 | -15.21 USD |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 1 | +0.00 USD |
+| swisstony | 17 | 10 | 113 | -15.21 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 16 | 15 | 3 | -57.94 USD |
 | HomeRunHazard | 40 | 42 | 13 | -82.72 USD |
@@ -53,11 +54,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | brco-cp-int-2026-08-06-total-3pt5 | RN1, swisstony |
 | mlb-cws-bos-2026-08-06-spread-away-2pt5 | RN1, swisstony |
 | mlb-min-kc-2026-08-06-spread-home-1pt5 | RN1, swisstony |
+| nfl-car-ari-2026-08-07 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Panthers vs. Cardinals | Panthers (BUY) | 100% | 1.25 | ⏳ pendiente | — |
+| swisstony | Portland Timbers vs. Club Puebla: O/U 5. | Over (BUY) | 82% | 5.43 | ⏳ pendiente | — |
+| swisstony | San Diego Padres vs. Arizona Diamondback | Over (BUY) | 58% | 1.12 | ⏳ pendiente | — |
 | swisstony | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 18% | 1.23 | ⏳ pendiente | — |
 | swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 53% | 1.32 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. PortlandFire | PortlandFire (BUY) | 92% | 1.62 | ⏳ pendiente | — |
@@ -85,6 +90,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 50% | 6.95 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 188 | Over (BUY) | 56% | 5.17 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 51% | 4.98 | ⏳ pendiente | — |
-| swisstony | Miami Marlins vs. Atlanta Braves: O/U 10 | Over (BUY) | 72% | 2.36 | ✅ ganada | +0.92 |
-| swisstony | Spread: Minnesota Lynx (-15.5) | Los Angeles Sparks (BUY) | 82% | 1.00 | ⏳ pendiente | — |
-| swisstony | Los Angeles Sparks vs. Minnesota Lynx | Minnesota Lynx (BUY) | 91% | 1.33 | ⏳ pendiente | — |
