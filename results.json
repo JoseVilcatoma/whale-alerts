@@ -178810,5 +178810,53 @@
     "usd": 2216.2384439999996,
     "odds_at_bet": 71,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786136233,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "wta-mertens-osaka-2026-08-08-set-handicap-away-1pt5",
+    "title": "Set Handicap: Osaka (-1.5) vs Mertens (+1.5)",
+    "outcome": "Osaka",
+    "side": "BUY",
+    "usd": 1725.0,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786136250,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "por-est-fam-2026-08-07-fam",
+    "title": "Will FC Famalic\u00e3o win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1706.5398,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786136250,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "por-est-fam-2026-08-07-fam",
+    "title": "Will FC Famalic\u00e3o win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1740.0,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786136289,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "por-est-fam-2026-08-07-fam",
+    "title": "Will FC Famalic\u00e3o win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1813.6193999999998,
+    "odds_at_bet": 87,
+    "status": "pending"
   }
 ]
