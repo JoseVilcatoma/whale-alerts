@@ -1,5 +1,5 @@
 {
-  "bankroll": 870.9331346108128,
+  "bankroll": 850.4269266258664,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3360,6 +3360,301 @@
       "timestamp": 1786118371.5773675,
       "bankroll": 870.93,
       "event": "won: swisstony \u2014 Aston Villa vs. Bayern Munich: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786118426.4368334,
+      "bankroll": 877.81,
+      "event": "won:  \u2014 Aston Villa vs. Bayern Munich: Bayern Munich O/U 1.5"
+    },
+    {
+      "timestamp": 1786118430.3673763,
+      "bankroll": 876.36,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118430.4675632,
+      "bankroll": 875.42,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118430.866844,
+      "bankroll": 885.74,
+      "event": "won: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 3.5"
+    },
+    {
+      "timestamp": 1786118431.2061548,
+      "bankroll": 886.19,
+      "event": "won: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118431.3063786,
+      "bankroll": 886.64,
+      "event": "won: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118431.406628,
+      "bankroll": 885.72,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118431.5068715,
+      "bankroll": 884.78,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118432.1439457,
+      "bankroll": 885.23,
+      "event": "won: swisstony \u2014 Will Aston Villa win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786118432.3443363,
+      "bankroll": 885.61,
+      "event": "won: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118432.4446263,
+      "bankroll": 884.52,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118432.5447857,
+      "bankroll": 884.88,
+      "event": "won: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118432.6449938,
+      "bankroll": 883.94,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118432.7452147,
+      "bankroll": 884.96,
+      "event": "won: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118432.8453696,
+      "bankroll": 885.43,
+      "event": "won: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118432.9455895,
+      "bankroll": 885.83,
+      "event": "won: swisstony \u2014 Will Aston Villa win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786118433.3327236,
+      "bankroll": 885.98,
+      "event": "won: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 5.5"
+    },
+    {
+      "timestamp": 1786118433.5330775,
+      "bankroll": 887.11,
+      "event": "won: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118433.9497802,
+      "bankroll": 887.58,
+      "event": "won: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 0.5"
+    },
+    {
+      "timestamp": 1786118434.150167,
+      "bankroll": 886.22,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118434.5231886,
+      "bankroll": 886.32,
+      "event": "won: swisstony \u2014 Spread: Bayern Munich (-2.5)"
+    },
+    {
+      "timestamp": 1786118434.6233578,
+      "bankroll": 886.34,
+      "event": "won: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 5.5"
+    },
+    {
+      "timestamp": 1786118434.723588,
+      "bankroll": 887.67,
+      "event": "won: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118434.8237405,
+      "bankroll": 888.14,
+      "event": "won: swisstony \u2014 Spread: Bayern Munich (-2.5)"
+    },
+    {
+      "timestamp": 1786118435.1842299,
+      "bankroll": 890.03,
+      "event": "won: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 1.5"
+    },
+    {
+      "timestamp": 1786118435.2844129,
+      "bankroll": 888.6,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 3.5"
+    },
+    {
+      "timestamp": 1786118435.3847702,
+      "bankroll": 888.6,
+      "event": "won: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 0.5"
+    },
+    {
+      "timestamp": 1786118435.7678432,
+      "bankroll": 888.7,
+      "event": "won: swisstony \u2014 Spread: Aston Villa (-1.5)"
+    },
+    {
+      "timestamp": 1786118435.8680348,
+      "bankroll": 887.63,
+      "event": "lost: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118435.9681885,
+      "bankroll": 887.63,
+      "event": "won: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 0.5"
+    },
+    {
+      "timestamp": 1786118436.168555,
+      "bankroll": 888.67,
+      "event": "won: RN1 \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118436.369014,
+      "bankroll": 887.6,
+      "event": "lost: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118436.4691718,
+      "bankroll": 886.53,
+      "event": "lost: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118437.0149078,
+      "bankroll": 885.29,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118437.3154383,
+      "bankroll": 884.17,
+      "event": "lost: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118437.7578187,
+      "bankroll": 885.02,
+      "event": "won: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118437.8579898,
+      "bankroll": 884.01,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 1.5"
+    },
+    {
+      "timestamp": 1786118437.9581838,
+      "bankroll": 882.62,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118438.058332,
+      "bankroll": 881.38,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118438.158528,
+      "bankroll": 881.87,
+      "event": "won: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 3.5"
+    },
+    {
+      "timestamp": 1786118438.2586732,
+      "bankroll": 882.98,
+      "event": "won: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118438.358903,
+      "bankroll": 881.11,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118438.4591668,
+      "bankroll": 879.83,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 1.5"
+    },
+    {
+      "timestamp": 1786118438.759782,
+      "bankroll": 877.85,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118438.8600147,
+      "bankroll": 876.85,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 1.5"
+    },
+    {
+      "timestamp": 1786118439.060352,
+      "bankroll": 874.47,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118439.3609493,
+      "bankroll": 873.19,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118439.4611344,
+      "bankroll": 871.98,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 1.5"
+    },
+    {
+      "timestamp": 1786118439.5613499,
+      "bankroll": 872.48,
+      "event": "won: swisstony \u2014 Will Aston Villa win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786118439.7617745,
+      "bankroll": 875.43,
+      "event": "won: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118439.8621325,
+      "bankroll": 872.59,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118440.062528,
+      "bankroll": 872.59,
+      "event": "won: swisstony \u2014 Will Aston Villa win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786118440.1628938,
+      "bankroll": 872.85,
+      "event": "won: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 3.5"
+    },
+    {
+      "timestamp": 1786118440.4634917,
+      "bankroll": 871.92,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118440.864557,
+      "bankroll": 863.87,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118440.96483,
+      "bankroll": 862.32,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786118441.0649848,
+      "bankroll": 857.4,
+      "event": "lost: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118441.2654114,
+      "bankroll": 855.5,
+      "event": "lost: swisstony \u2014 Spread: Bayern Munich (-1.5)"
+    },
+    {
+      "timestamp": 1786118441.3657937,
+      "bankroll": 850.43,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
     }
   ]
 }

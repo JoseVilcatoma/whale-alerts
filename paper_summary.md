@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 10:59:39 (hora de Perú)
+Actualizado: 2026-08-07 11:01:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $870.93
-**Retorno acumulado:** -12.91%
+**Bankroll actual:** $850.43
+**Retorno acumulado:** -14.96%
 **Peor caída desde un máximo (drawdown):** 74.92%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,12 +17,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | wr0ngw4yb3tt0r | 20 | 17 | 0 | +123.77 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
-|  | 1 | 0 | 6 | +2.53 USD |
+|  | 2 | 0 | 5 | +9.40 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 6 | 0 | 12 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 28 | 16 | 7 | -48.38 USD |
-| swisstony | 163 | 112 | 117 | -77.50 USD |
+| RN1 | 29 | 16 | 6 | -47.34 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
+| swisstony | 190 | 142 | 60 | -105.91 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Aston Villa vs. Bayern Munich: Both Team | Yes (BUY) | 99% | 1.32 | ✅ ganada | +0.01 |
 | swisstony | Will Vietnam vs. Cambodia end in a draw? | No (BUY) | 97% | 3.60 | ⏳ pendiente | — |
 | swisstony | Will Vietnam win on 2026-08-07? | Yes (BUY) | 97% | 1.25 | ⏳ pendiente | — |
-| swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 63% | 5.07 | ⏳ pendiente | — |
-| swisstony | Spread: Bayern Munich (-1.5) | Bayern Munich (BUY) | 88% | 1.90 | ⏳ pendiente | — |
+| swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 63% | 5.07 | ❌ perdida | -5.07 |
+| swisstony | Spread: Bayern Munich (-1.5) | Bayern Munich (BUY) | 88% | 1.90 | ❌ perdida | -1.90 |
 | swisstony | Will Bayern Munich win on 2026-08-07? | Yes (BUY) | 99% | 10.47 | ⏳ pendiente | — |
-| swisstony | Spread: Bayern Munich (-1.5) | Bayern Munich (BUY) | 87% | 4.92 | ⏳ pendiente | — |
+| swisstony | Spread: Bayern Munich (-1.5) | Bayern Munich (BUY) | 87% | 4.92 | ❌ perdida | -4.92 |
