@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-06 19:38:17 (hora de Perú)
+Actualizado: 2026-08-07 14:09:24 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 73 | 15 | 0 | 83% |
 | TopGleaguepick | 24 | 5 | 0 | 83% |
 | elizabeth.ethcome | 45 | 9 | 0 | 83% |
-| swisstony | 779 | 170 | 63 | 82% |
+| swisstony | 780 | 170 | 65 | 82% |
 | Bigggggggg | 4 | 1 | 35 | ⚠️ 80% (muestra chica: 5) |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
@@ -54,25 +54,25 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
-| VeryLucky888 | 158 | 84 | 7 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 544 | 301 | 2 | 64% |
+| VeryLucky888 | 159 | 85 | 5 | 65% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 2 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
 | quavoo | 7 | 4 | 1 | 64% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
 | ferrariChampions2026 | 2353 | 1534 | 9 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
-| HomeRunHazard | 479 | 303 | 2 | 61% |
+| HomeRunHazard | 480 | 304 | 1 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
-| us391 | 33 | 23 | 1 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 215 | 155 | 7 | 58% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 5 | 58% |
+| us391 | 33 | 24 | 0 | 58% |
 | StasPanda | 26 | 19 | 0 | 58% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 54 | 39 | 3 | 58% |
 | meoooow | 23 | 19 | 0 | 55% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
-| AnonymousUsername | 53 | 46 | 1 | 54% |
+| AnonymousUsername | 54 | 46 | 0 | 54% |
 | wr0ngw4yb3tt0r | 186 | 174 | 0 | 52% |
 | flatbarrel | 13 | 12 | 0 | 52% |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 42 | 41 | 0 | 51% |
@@ -102,8 +102,8 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | chanello | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
+| AV23IUa | 13 | 28 | 0 | 32% |
 | jtwyslljy | 13 | 29 | 0 | 31% |
-| AV23IUa | 12 | 28 | 1 | 30% |
 | CORGI8 | 4 | 12 | 0 | 25% |
 | 111111111115 | 11 | 38 | 0 | 22% |
 | neurodivergentBet | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
