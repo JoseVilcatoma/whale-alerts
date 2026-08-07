@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 08:46:23 (hora de Perú)
+Actualizado: 2026-08-07 08:48:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $913.63
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 1 | 0 | 6 | +2.53 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 16 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 121 | 85 | 165 | -30.41 USD |
+| swisstony | 121 | 85 | 166 | -30.41 USD |
 | RN1 | 20 | 16 | 15 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -67,6 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Bayern Munich win on 2026-08-07? | Yes (BUY) | 89% | 3.83 | ⏳ pendiente | — |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Top Esports (BO3 | Top Esports (BUY) | 60% | 1.23 | ⏳ pendiente | — |
 | swisstony | Aston Villa vs. Bayern Munich: Both Team | Yes (BUY) | 99% | 1.32 | ⏳ pendiente | — |
 | swisstony | Will Vietnam vs. Cambodia end in a draw? | No (BUY) | 97% | 3.60 | ⏳ pendiente | — |
@@ -96,4 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Bayern Munich win on 2026-08-07? | Yes (BUY) | 84% | 1.41 | ⏳ pendiente | — |
 | swisstony | Will Bayern Munich win on 2026-08-07? | Yes (BUY) | 84% | 1.96 | ⏳ pendiente | — |
 | swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 76% | 2.38 | ⏳ pendiente | — |
-| swisstony | Will Bayern Munich win on 2026-08-07? | Yes (BUY) | 83% | 10.01 | ⏳ pendiente | — |
