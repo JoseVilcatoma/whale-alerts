@@ -174622,5 +174622,77 @@
     "usd": 1680.0,
     "odds_at_bet": 84,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786130290,
+    "username": "StasPanda",
+    "wallet": "0x7e5e420a5cde8a322f3b5b93a12a164827f47315",
+    "slug": "lol-lgd-al-2026-08-08-game-handicap-home-1pt5",
+    "title": "Game Handicap: AL (-1.5) vs LGD Gaming (+1.5)",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 11278.5912,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130300,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-th-fnc-2026-08-07",
+    "title": "LoL: Team Heretics vs Fnatic (BO3) - LEC Regular Season",
+    "outcome": "Team Heretics",
+    "side": "BUY",
+    "usd": 1694.9,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130300,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-zandsch-hurkacz-2026-08-07",
+    "title": "National Bank Open: Botic van de Zandschulp vs Hubert Hurkacz",
+    "outcome": "Hubert Hurkacz",
+    "side": "BUY",
+    "usd": 23342.484747000002,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130300,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-zandsch-hurkacz-2026-08-07",
+    "title": "National Bank Open: Botic van de Zandschulp vs Hubert Hurkacz",
+    "outcome": "Hubert Hurkacz",
+    "side": "BUY",
+    "usd": 7142.09,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130300,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "atp-zandsch-hurkacz-2026-08-07",
+    "title": "National Bank Open: Botic van de Zandschulp vs Hubert Hurkacz",
+    "outcome": "Botic van de Zandschulp",
+    "side": "BUY",
+    "usd": 19999.999999000003,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130322,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-andreev-fernand-2026-08-08",
+    "title": "National Bank Open: Mirra Andreeva vs Leylah Fernandez",
+    "outcome": "Leylah Fernandez",
+    "side": "BUY",
+    "usd": 4500.0,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]

@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 14:17:02 (hora de Perú)
+Actualizado: 2026-08-07 14:19:03 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 13 | 6 | 0 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 0 | 67% |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 1 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | UpTheBlues | 101 | 53 | 47 | 66% |
 | GoalLineGhost | 203 | 106 | 1 | 66% |
@@ -55,11 +55,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 159 | 85 | 5 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 3 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 4 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
 | quavoo | 7 | 4 | 3 | 64% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
-| ferrariChampions2026 | 2353 | 1534 | 11 | 61% |
+| ferrariChampions2026 | 2353 | 1534 | 13 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
 | HomeRunHazard | 480 | 304 | 3 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
@@ -68,7 +68,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x4f2 | 23 | 16 | 0 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 6 | 58% |
 | us391 | 33 | 24 | 0 | 58% |
-| StasPanda | 26 | 19 | 0 | 58% |
+| StasPanda | 26 | 19 | 1 | 58% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 54 | 39 | 4 | 58% |
 | meoooow | 23 | 19 | 0 | 55% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
@@ -86,7 +86,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VPenguin | 19 | 21 | 0 | 48% |
 | skyman44 | 11 | 12 | 0 | 48% |
 | PASSTHEMONEY | 72 | 80 | 0 | 47% |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 50 | 0 | 47% |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 50 | 1 | 47% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | Talvez10 | 28 | 33 | 0 | 46% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 86 | 1 | 46% |
