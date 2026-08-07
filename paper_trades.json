@@ -13891,5 +13891,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786110617.4982293,
     "fills": 1
+  },
+  {
+    "timestamp": 1786113029,
+    "timestamp_added": 1786113029.8630376,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "asean-vie-cam-2026-08-07-vie",
+    "title": "Will Vietnam win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 266.49,
+    "whale_pct": 0.116,
+    "paper_stake_usd": 1.04,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786113029.863047,
+    "fills": 1
   }
 ]
