@@ -7136,5 +7136,23 @@
       "HomeRunHazard"
     ],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1786061529,
+    "timestamp_added": 1786061530.1818614,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-cws-bos-2026-08-06-total-11pt5",
+    "title": "Chicago White Sox vs. Boston Red Sox: O/U 11.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 711.36923,
+    "whale_pct": 0.442,
+    "paper_stake_usd": 3.79,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false
   }
 ]
