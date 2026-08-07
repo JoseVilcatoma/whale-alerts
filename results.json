@@ -181498,5 +181498,17 @@
     "usd": 2540.0465999999997,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786142357,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-clt-atl-2026-08-07-clt",
+    "title": "Will Charlotte FC win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1817.13,
+    "odds_at_bet": 50,
+    "status": "pending"
   }
 ]

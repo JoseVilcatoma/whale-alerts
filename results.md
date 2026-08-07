@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 17:36:03 (hora de Perú)
+Actualizado: 2026-08-07 17:39:18 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 11 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| UpTheBlues | 101 | 53 | 63 | 66% |
+| UpTheBlues | 101 | 53 | 64 | 66% |
 | GoalLineGhost | 203 | 106 | 22 | 66% |
 | TAIWANNUMBERONE | 29 | 15 | 1 | 66% |
 | RN1 | 1419 | 754 | 114 | 65% |
