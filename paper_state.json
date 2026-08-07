@@ -1,5 +1,5 @@
 {
-  "bankroll": 850.4269266258664,
+  "bankroll": 846.319679892731,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3655,6 +3655,31 @@
       "timestamp": 1786118441.3657937,
       "bankroll": 850.43,
       "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: O/U 2.5"
+    },
+    {
+      "timestamp": 1786119045.1025996,
+      "bankroll": 848.11,
+      "event": "lost: swisstony \u2014 Will Beijing Guoan FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786119045.202847,
+      "bankroll": 844.89,
+      "event": "lost: swisstony \u2014 Will Beijing Guoan FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786119045.8834221,
+      "bankroll": 845.94,
+      "event": "won: swisstony \u2014 Will Beijing Guoan FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786119046.284158,
+      "bankroll": 845.96,
+      "event": "won: RN1 \u2014 Will Beijing Guoan FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786119047.0833461,
+      "bankroll": 846.32,
+      "event": "won: swisstony \u2014 Will Beijing Guoan FC win on 2026-08-07?"
     }
   ]
 }
