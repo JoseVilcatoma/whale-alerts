@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 21:46:23 (hora de Perú)
+Actualizado: 2026-08-06 21:48:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $950.31
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 11 | 9 | 92 | -29.59 USD |
+| swisstony | 11 | 9 | 96 | -29.59 USD |
 | RN1 | 15 | 14 | 5 | -58.78 USD |
 | HomeRunHazard | 40 | 42 | 13 | -82.72 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
@@ -57,6 +57,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Under (BUY) | 44% | 2.56 | ⏳ pendiente | — |
+| swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 51% | 0.98 | ⏳ pendiente | — |
+| swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 50% | 6.95 | ⏳ pendiente | — |
+| swisstony | Toronto Tempo vs. Portland Fire: O/U 188 | Over (BUY) | 56% | 5.17 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 51% | 4.98 | ⏳ pendiente | — |
 | swisstony | Miami Marlins vs. Atlanta Braves: O/U 10 | Over (BUY) | 72% | 2.36 | ⏳ pendiente | — |
 | swisstony | Spread: Minnesota Lynx (-15.5) | Los Angeles Sparks (BUY) | 82% | 1.00 | ⏳ pendiente | — |
@@ -83,7 +87,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 68% | 3.08 | ⏳ pendiente | — |
 | swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 68% | 1.71 | ⏳ pendiente | — |
 | swisstony | Spread: Portland Fire (-2.5) | Portland Fire (BUY) | 52% | 1.03 | ⏳ pendiente | — |
-| swisstony | Toronto Tempo vs. Portland Fire: O/U 185 | Under (BUY) | 52% | 1.74 | ⏳ pendiente | — |
-| swisstony | Toronto Tempo vs. Portland Fire: O/U 188 | Under (BUY) | 55% | 2.39 | ⏳ pendiente | — |
-| swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 62% | 1.61 | ⏳ pendiente | — |
-| swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 87% | 3.43 | ⏳ pendiente | — |
