@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 12:35:03 (hora de Perú)
+Actualizado: 2026-08-07 12:37:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $777.54
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 7 | 0 | -11.30 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 205 | 145 | 84 | -103.33 USD |
+| swisstony | 205 | 145 | 87 | -103.33 USD |
 | RN1 | 30 | 21 | 0 | -103.62 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
@@ -67,6 +67,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 40% | 1.04 | ⏳ pendiente | — |
+| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 38% | 0.97 | ⏳ pendiente | — |
+| swisstony | Will IF Gnistan win on 2026-08-07? | No (BUY) | 28% | 1.70 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | No (BUY) | 57% | 2.65 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Yes (BUY) | 45% | 1.94 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 59% | 1.09 | ⏳ pendiente | — |
@@ -94,6 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Harju JK Laagri win on 2026-08-07? | No (BUY) | 83% | 1.81 | ⏳ pendiente | — |
 | swisstony | Seinajoen JK vs. IF Gnistan: O/U 4.5 | Over (BUY) | 54% | 1.01 | ⏳ pendiente | — |
 | swisstony | Will MTK Budapest vs. Puskas Akademia FC | No (BUY) | 88% | 12.46 | ⏳ pendiente | — |
-| swisstony | Will WSG Tirol win on 2026-08-07? | No (BUY) | 80% | 1.29 | ⏳ pendiente | — |
-| swisstony | Xorazm Fk Urganch vs. PFK Mash AL Mubare | Under (BUY) | 89% | 0.88 | ⏳ pendiente | — |
-| swisstony | Xorazm Fk Urganch vs. PFK Mash AL Mubare | Over (BUY) | 52% | 0.89 | ⏳ pendiente | — |
