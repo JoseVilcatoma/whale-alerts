@@ -1,5 +1,5 @@
 {
-  "bankroll": 914.4792491067338,
+  "bankroll": 916.1711172386018,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2515,6 +2515,81 @@
       "timestamp": 1786081044.313835,
       "bankroll": 914.48,
       "event": "won: HomeRunHazard \u2014 Panthers vs. Cardinals: O/U 35.5"
+    },
+    {
+      "timestamp": 1786081104.548728,
+      "bankroll": 914.73,
+      "event": "won: swisstony \u2014 Will SC Corinthians Paulista win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786081104.6490366,
+      "bankroll": 915.71,
+      "event": "won: swisstony \u2014 Will SC Corinthians Paulista win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786081168.5743017,
+      "bankroll": 912.37,
+      "event": "lost: swisstony \u2014 Will Austin FC win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786081168.6744459,
+      "bankroll": 909.3,
+      "event": "lost: swisstony \u2014 Will Austin FC win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786081168.7745972,
+      "bankroll": 910.18,
+      "event": "won: swisstony \u2014 Will Austin FC win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786081168.8747456,
+      "bankroll": 908.6,
+      "event": "lost: swisstony \u2014 Will Austin FC win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786081168.9748964,
+      "bankroll": 910.69,
+      "event": "won: swisstony \u2014 Will Austin FC win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786081169.075047,
+      "bankroll": 912.71,
+      "event": "won: swisstony \u2014 Will Austin FC win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786081169.1751924,
+      "bankroll": 914.71,
+      "event": "won: swisstony \u2014 Will Austin FC win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786081169.2753575,
+      "bankroll": 916.7,
+      "event": "won: swisstony \u2014 Will Austin FC win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786081169.3755062,
+      "bankroll": 918.69,
+      "event": "won: swisstony \u2014 Will Austin FC win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786081169.4756446,
+      "bankroll": 916.68,
+      "event": "lost: swisstony \u2014 Will Austin FC win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786081169.5757887,
+      "bankroll": 914.77,
+      "event": "lost: swisstony \u2014 Will Austin FC win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786081169.6759033,
+      "bankroll": 915.28,
+      "event": "won: swisstony \u2014 Will Austin FC win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786081169.8762856,
+      "bankroll": 916.17,
+      "event": "won: swisstony \u2014 Will Austin FC win on 2026-08-06?"
     }
   ]
 }
