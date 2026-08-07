@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 21:10:55 (hora de Perú)
+Actualizado: 2026-08-06 21:12:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $950.31
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 11 | 9 | 71 | -29.59 USD |
+| swisstony | 11 | 9 | 72 | -29.59 USD |
 | RN1 | 15 | 14 | 5 | -58.78 USD |
 | HomeRunHazard | 40 | 42 | 13 | -82.72 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
@@ -57,6 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 48% | 1.10 | ⏳ pendiente | — |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx | Minnesota Lynx (BUY) | 92% | 1.77 | ⏳ pendiente | — |
 | swisstony | Spread: CF América (-1.5) | San Diego FC (BUY) | 51% | 1.69 | ⏳ pendiente | — |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 68% | 3.08 | ⏳ pendiente | — |
@@ -86,4 +87,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Club Tijuana win on 2026-08-06? | No (BUY) | 86% | 10.56 | ⏳ pendiente | — |
 | swisstony | Chicago Fire FC vs. Club Necaxa: O/U 4.5 | Under (BUY) | 88% | 2.84 | ⏳ pendiente | — |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 55% | 6.31 | ⏳ pendiente | — |
-| swisstony | Will Chicago Fire FC win on 2026-08-06? | Yes (BUY) | 75% | 3.00 | ⏳ pendiente | — |
