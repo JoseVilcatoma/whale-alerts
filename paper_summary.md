@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 19:08:20 (hora de Perú)
+Actualizado: 2026-08-06 19:10:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $859.02
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 4 | 8 | 0 | -38.32 USD |
+| swisstony | 4 | 8 | 4 | -38.32 USD |
 | RN1 | 15 | 14 | 0 | -58.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 10 | 0 | -96.35 USD |
 | HomeRunHazard | 44 | 46 | 20 | -161.16 USD |
@@ -43,14 +43,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-det-sea-2026-08-05-total-5pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-sd-ari-2026-08-05-total-10pt5 | HomeRunHazard, RN1, swisstony |
 | mlb-sd-ari-2026-08-05-total-9pt5 | HomeRunHazard, RN1, wr0ngw4yb3tt0r |
+| wnba-las-ind-2026-08-06 | HomeRunHazard, swisstony |
 | wnba-la-min-2026-08-06-total-188pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-oak-cin-2026-08-06-total-9pt5 | Talvez10, texaskid, wr0ngw4yb3tt0r |
+| mlb-cws-bos-2026-08-06-total-8pt5 | HomeRunHazard, swisstony |
 | mlb-nym-cle-2026-08-06-total-7pt5 | HomeRunHazard, texaskid |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 85% | 1.38 | ⏳ pendiente | — |
+| swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 84% | 1.38 | ⏳ pendiente | — |
+| swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 84% | 1.34 | ⏳ pendiente | — |
+| swisstony | Las Vegas Aces vs. Indiana Fever | Indiana Fever (BUY) | 57% | 0.92 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 48% | 20.21 | ⏳ pendiente | — |
 | HomeRunHazard | Panthers vs. Cardinals: O/U 35.5 | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | New York Mets vs. Cleveland Guardians: O | Under (BUY) | 56% | 0.00 | ❌ perdida | -0.00 |
@@ -77,7 +83,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 59% | 24.84 | ✅ ganada | +17.26 |
 | HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 49% | 14.72 | ✅ ganada | +15.32 |
 | HomeRunHazard | Toronto Tempo vs. Portland Fire: O/U 186 | Under (BUY) | 49% | 4.54 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 50% | 3.94 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Sparks vs. Minnesota Lynx: O | Over (BUY) | 49% | 2.51 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Angels vs. Baltimore Orioles | Under (BUY) | 49% | 79.35 | ✅ ganada | +82.59 |
-| HomeRunHazard | Detroit Tigers vs. Seattle Mariners: O/U | Over (BUY) | 65% | 5.01 | ✅ ganada | +2.70 |

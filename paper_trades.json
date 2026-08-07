@@ -7056,5 +7056,85 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1786061354,
+    "timestamp_added": 1786061354.4336061,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-las-ind-2026-08-06",
+    "title": "Las Vegas Aces vs. Indiana Fever",
+    "outcome": "Indiana Fever",
+    "side": "BUY",
+    "whale_usd": 199.78999799999997,
+    "whale_pct": 0.107,
+    "paper_stake_usd": 0.92,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1786061410,
+    "timestamp_added": 1786061411.1478438,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-cws-bos-2026-08-06-total-8pt5",
+    "title": "Chicago White Sox vs. Boston Red Sox: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 291.369998,
+    "whale_pct": 0.156,
+    "paper_stake_usd": 1.34,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1786061415,
+    "timestamp_added": 1786061416.2379978,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-cws-bos-2026-08-06-total-8pt5",
+    "title": "Chicago White Sox vs. Boston Red Sox: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 299.98999799999996,
+    "whale_pct": 0.161,
+    "paper_stake_usd": 1.38,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1786061416,
+    "timestamp_added": 1786061416.7612484,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-cws-bos-2026-08-06-total-8pt5",
+    "title": "Chicago White Sox vs. Boston Red Sox: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 299.989998,
+    "whale_pct": 0.161,
+    "paper_stake_usd": 1.38,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false
   }
 ]
