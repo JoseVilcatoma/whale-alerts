@@ -1,5 +1,5 @@
 {
-  "bankroll": 901.2498012774795,
+  "bankroll": 870.9331346108128,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3350,6 +3350,16 @@
       "timestamp": 1786116882.9766781,
       "bankroll": 901.25,
       "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786118370.5225694,
+      "bankroll": 870.92,
+      "event": "lost: swisstony \u2014 Aston Villa vs. Bayern Munich: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786118371.5773675,
+      "bankroll": 870.93,
+      "event": "won: swisstony \u2014 Aston Villa vs. Bayern Munich: Both Teams to Score"
     }
   ]
 }
