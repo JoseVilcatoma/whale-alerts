@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 14:15:01 (hora de Perú)
+Actualizado: 2026-08-07 14:17:02 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -48,20 +48,20 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 0 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | UpTheBlues | 101 | 53 | 47 | 66% |
-| GoalLineGhost | 203 | 106 | 0 | 66% |
+| GoalLineGhost | 203 | 106 | 1 | 66% |
 | TAIWANNUMBERONE | 29 | 15 | 0 | 66% |
-| RN1 | 1419 | 754 | 38 | 65% |
+| RN1 | 1419 | 754 | 39 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 159 | 85 | 5 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 3 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
-| quavoo | 7 | 4 | 2 | 64% |
+| quavoo | 7 | 4 | 3 | 64% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
 | ferrariChampions2026 | 2353 | 1534 | 11 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
-| HomeRunHazard | 480 | 304 | 2 | 61% |
+| HomeRunHazard | 480 | 304 | 3 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
@@ -89,7 +89,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 50 | 0 | 47% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | Talvez10 | 28 | 33 | 0 | 46% |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 86 | 0 | 46% |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 86 | 1 | 46% |
 | esportGG | 98 | 117 | 0 | 46% |
 | 0x0x23kjookhaiuohduoayh8c9 | 7 | 9 | 0 | 44% |
 | Melody626 | 3 | 4 | 13 | ⚠️ 43% (muestra chica: 7) |

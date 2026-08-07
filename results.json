@@ -174562,5 +174562,65 @@
     "usd": 7800.0,
     "odds_at_bet": 78,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786130168,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-joint-samsono-2026-08-08",
+    "title": "National Bank Open: Maya Joint vs Liudmila Samsonova",
+    "outcome": "Liudmila Samsonova",
+    "side": "BUY",
+    "usd": 6436.0,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130168,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-joint-samsono-2026-08-08",
+    "title": "National Bank Open: Maya Joint vs Liudmila Samsonova",
+    "outcome": "Maya Joint",
+    "side": "BUY",
+    "usd": 1492.4,
+    "odds_at_bet": 20,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130176,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lec-clt-atl-2026-08-07-clt",
+    "title": "Will Charlotte FC win on 2026-08-07?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 1080.18,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130176,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-oak-bos-2026-08-07",
+    "title": "Athletics vs. Boston Red Sox",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 3722.6226999999994,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130185,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "bl2-boc-ber-2026-08-07-boc",
+    "title": "Will VfL Bochum win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1680.0,
+    "odds_at_bet": 84,
+    "status": "pending"
   }
 ]
