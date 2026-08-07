@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 20:23:25 (hora de Perú)
+Actualizado: 2026-08-06 20:25:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $944.56
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 9 | 8 | 27 | -31.25 USD |
+| swisstony | 9 | 8 | 29 | -31.25 USD |
 | RN1 | 15 | 14 | 5 | -58.78 USD |
 | HomeRunHazard | 38 | 41 | 16 | -86.80 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
@@ -54,6 +54,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Austin FC win on 2026-08-06? | No (BUY) | 64% | 2.03 | ⏳ pendiente | — |
+| swisstony | Las Vegas Aces vs. Indiana Fever | Las Vegas Aces (BUY) | 69% | 3.14 | ⏳ pendiente | — |
 | swisstony | Will Austin FC vs. Club Tijuana end in a | Yes (BUY) | 29% | 1.22 | ⏳ pendiente | — |
 | swisstony | Spread: Minnesota Lynx (-16.5) | Los Angeles Sparks (BUY) | 45% | 1.07 | ⏳ pendiente | — |
 | swisstony | Will Austin FC win on 2026-08-06? | No (BUY) | 66% | 3.34 | ⏳ pendiente | — |
@@ -82,5 +84,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | SC Corinthians Paulista vs. SC Internaci | Over (BUY) | 49% | 1.09 | ⏳ pendiente | — |
 | swisstony | Will SC Corinthians Paulista win on 2026 | Yes (BUY) | 87% | 6.58 | ⏳ pendiente | — |
 | swisstony | SC Corinthians Paulista vs. SC Internaci | Under (BUY) | 98% | 8.46 | ⏳ pendiente | — |
-| swisstony | Will New York City FC vs. Club Santos La | Yes (BUY) | 37% | 5.29 | ⏳ pendiente | — |
-| swisstony | New York City FC vs. Club Santos Laguna: | Under (BUY) | 56% | 2.76 | ⏳ pendiente | — |
