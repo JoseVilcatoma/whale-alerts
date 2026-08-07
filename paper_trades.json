@@ -13193,5 +13193,50 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786109015.7892694,
     "fills": 1
+  },
+  {
+    "timestamp": 1786109232,
+    "timestamp_added": 1786109232.9576335,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "clf-avl-bmu-2026-08-07-bmu",
+    "title": "Will Bayern Munich win on 2026-08-07?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 2136.1199979999997,
+    "whale_pct": 1.099,
+    "paper_stake_usd": 10.01,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786109234.7818506,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786109268,
+    "timestamp_added": 1786109268.230149,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "clf-avl-bmu-2026-08-07-total-2pt5",
+    "title": "Aston Villa vs. Bayern Munich: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 520.6,
+    "whale_pct": 0.261,
+    "paper_stake_usd": 2.38,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786109268.230157,
+    "fills": 1
   }
 ]

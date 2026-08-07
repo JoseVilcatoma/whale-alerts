@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 08:25:52 (hora de Perú)
+Actualizado: 2026-08-07 08:27:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.07
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 11 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 120 | 85 | 141 | -30.45 USD |
+| swisstony | 120 | 85 | 143 | -30.45 USD |
 | RN1 | 20 | 16 | 15 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -67,6 +67,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 76% | 2.38 | ⏳ pendiente | — |
+| swisstony | Will Bayern Munich win on 2026-08-07? | Yes (BUY) | 83% | 10.01 | ⏳ pendiente | — |
 | swisstony | Aston Villa vs. Bayern Munich: O/U 1.5 | Under (BUY) | 34% | 1.00 | ⏳ pendiente | — |
 | swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 70% | 1.98 | ⏳ pendiente | — |
 | swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Under (BUY) | 74% | 1.36 | ⏳ pendiente | — |
@@ -95,5 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Bayern Munich (-1.5) | Bayern Munich (BUY) | 40% | 1.12 | ⏳ pendiente | — |
 | RN1 | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 77% | 1.99 | ⏳ pendiente | — |
 | swisstony | Will Beijing Guoan FC win on 2026-08-07? | Yes (BUY) | 98% | 17.79 | ⏳ pendiente | — |
-| swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 77% | 1.11 | ⏳ pendiente | — |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs ThunderTalk Gaming (BO3) | ThunderTalk Gaming (BUY) | 100% | 2.24 | ⏳ pendiente | — |
