@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 13:47:57 (hora de Perú)
+Actualizado: 2026-08-07 13:50:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $761.78
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 7 | 0 | -11.30 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| RN1 | 30 | 21 | 4 | -103.62 USD |
+| RN1 | 30 | 21 | 9 | -103.62 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | swisstony | 216 | 150 | 132 | -119.09 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
@@ -70,6 +70,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Port Vale FC win on 2026-08-07? | No (BUY) | 94% | 4.32 | ⏳ pendiente | — |
+| RN1 | Will Club Brugge win on 2026-08-07? | Yes (BUY) | 83% | 3.61 | ⏳ pendiente | — |
+| RN1 | Will Port Vale FC win on 2026-08-07? | No (BUY) | 94% | 3.43 | ⏳ pendiente | — |
+| RN1 | Will KV Kortrijk win on 2026-08-07? | No (BUY) | 94% | 4.54 | ⏳ pendiente | — |
+| RN1 | Will Club Brugge win on 2026-08-07? | Yes (BUY) | 82% | 3.64 | ⏳ pendiente | — |
 | RN1 | Will Wisla Krakow vs. Wisla Plock end in | No (BUY) | 84% | 1.26 | ⏳ pendiente | — |
 | swisstony | SC Cambuur-Leeuwarden vs. SBV Excelsior: | Over (BUY) | 84% | 2.00 | ⏳ pendiente | — |
 | swisstony | SC Cambuur-Leeuwarden vs. SBV Excelsior: | Under (BUY) | 45% | 1.05 | ⏳ pendiente | — |
@@ -95,8 +100,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Boluspor win on 2026-08-07? | No (BUY) | 90% | 1.26 | ⏳ pendiente | — |
 | swisstony | Spread: GIF Sundsvall (-1.5) | Ostersunds FK (BUY) | 100% | 0.90 | ⏳ pendiente | — |
 | swisstony | Will SBV Excelsior win on 2026-08-07? | No (BUY) | 37% | 2.49 | ⏳ pendiente | — |
-| swisstony | Will SBV Excelsior win on 2026-08-07? | Yes (BUY) | 57% | 10.33 | ⏳ pendiente | — |
-| swisstony | Will KFUM-Kameratene Oslo win on 2026-08 | Yes (BUY) | 76% | 5.57 | ⏳ pendiente | — |
-| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | No (BUY) | 57% | 1.54 | ⏳ pendiente | — |
-| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 21% | 1.08 | ⏳ pendiente | — |
-| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | No (BUY) | 52% | 1.26 | ⏳ pendiente | — |
