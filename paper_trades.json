@@ -8301,5 +8301,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786073494.3835282,
     "fills": 1
+  },
+  {
+    "timestamp": 1786074353,
+    "timestamp_added": 1786074353.3669853,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-sd-ari-2026-08-06-total-8pt5",
+    "title": "San Diego Padres vs. Arizona Diamondbacks: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 770.9482849999999,
+    "whale_pct": 0.413,
+    "paper_stake_usd": 3.85,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786074371.4879897,
+    "fills": 3
   }
 ]
