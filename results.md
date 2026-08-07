@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 14:27:22 (hora de Perú)
+Actualizado: 2026-08-07 14:29:28 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fazewinline | 23 | 8 | 0 | 74% |
 | one8tyfive | 49 | 18 | 5 | 73% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 11 | 4 | 0 | 73% |
+| 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 11 | 4 | 1 | 73% |
 | CentralCasting | 18 | 7 | 1 | 72% |
 | Winnerdinnerchickenjr | 13 | 5 | 0 | 72% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 30 | 12 | 0 | 71% |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 1 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | UpTheBlues | 101 | 53 | 48 | 66% |
-| GoalLineGhost | 203 | 106 | 2 | 66% |
+| GoalLineGhost | 203 | 106 | 3 | 66% |
 | TAIWANNUMBERONE | 29 | 15 | 0 | 66% |
 | RN1 | 1419 | 754 | 47 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
@@ -59,9 +59,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SDTrading | 7 | 4 | 0 | 64% |
 | quavoo | 7 | 4 | 3 | 64% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
-| ferrariChampions2026 | 2353 | 1534 | 22 | 61% |
+| ferrariChampions2026 | 2353 | 1534 | 23 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
-| HomeRunHazard | 480 | 304 | 8 | 61% |
+| HomeRunHazard | 480 | 304 | 9 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
