@@ -179806,5 +179806,29 @@
     "usd": 1955.3261929999999,
     "odds_at_bet": 34,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786138435,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-blue-dog-2026-08-07-game1",
+    "title": "LoL: Blue Otter vs Dorado Gaming - Game 1 Winner",
+    "outcome": "Dorado Gaming",
+    "side": "BUY",
+    "usd": 2998.046,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786138448,
+    "username": "denizz",
+    "wallet": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
+    "slug": "will-reza-pahlavi-enter-iran-by-december-31-898-927",
+    "title": "Will Reza Pahlavi enter Iran by December 31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1504.0564,
+    "odds_at_bet": 94,
+    "status": "pending"
   }
 ]

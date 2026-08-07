@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 16:30:44 (hora de Perú)
+Actualizado: 2026-08-07 16:34:55 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 13 | 6 | 0 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 10 | 67% |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 11 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | UpTheBlues | 101 | 53 | 60 | 66% |
 | GoalLineGhost | 203 | 106 | 18 | 66% |
@@ -118,7 +118,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | beachboy4 | 0 | 9 | 0 | 0% |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
-| denizz | 0 | 0 | 32 | — |
+| denizz | 0 | 0 | 33 | — |
 | BrightStars | 0 | 0 | 4 | — |
 | LlamaLoco0000 | 0 | 0 | 2 | — |
 | ofgoodfgdohojdfitsjustmoney | 0 | 0 | 1 | — |
