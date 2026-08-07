@@ -1,5 +1,5 @@
 {
-  "bankroll": 846.319679892731,
+  "bankroll": 843.1096798927309,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3680,6 +3680,26 @@
       "timestamp": 1786119047.0833461,
       "bankroll": 846.32,
       "event": "won: swisstony \u2014 Will Beijing Guoan FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786119358.1198053,
+      "bankroll": 845.25,
+      "event": "lost: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: Team WE vs ThunderTalk Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786119358.2201612,
+      "bankroll": 844.23,
+      "event": "lost: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: Team WE vs ThunderTalk Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786119358.3203905,
+      "bankroll": 843.11,
+      "event": "lost: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: Team WE vs ThunderTalk Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786119359.2669716,
+      "bankroll": 843.11,
+      "event": "won: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: Team WE vs ThunderTalk Gaming (BO3) - LPL Group Ascend"
     }
   ]
 }
