@@ -7466,5 +7466,48 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786069554.8734677,
     "fills": 3
+  },
+  {
+    "timestamp": 1786069729,
+    "timestamp_added": 1786069729.81876,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-la-min-2026-08-06-total-188pt5",
+    "title": "Los Angeles Sparks vs. Minnesota Lynx: O/U 188.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 393.27999900000003,
+    "whale_pct": 0.2,
+    "paper_stake_usd": 1.9,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786069729.8187675,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786069754,
+    "timestamp_added": 1786069754.8317068,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "lec-aus-tij-2026-08-06-spread-home-1pt5",
+    "title": "Spread: Austin FC (-1.5)",
+    "outcome": "Austin FC",
+    "side": "BUY",
+    "whale_usd": 2747.639998,
+    "whale_pct": 1.398,
+    "paper_stake_usd": 13.29,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786069754.8317156,
+    "fills": 1
   }
 ]
