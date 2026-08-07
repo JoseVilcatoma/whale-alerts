@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 22:57:17 (hora de Perú)
+Actualizado: 2026-08-06 22:59:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $931.72
-**Retorno acumulado:** -6.83%
+**Bankroll actual:** $910.52
+**Retorno acumulado:** -8.95%
 **Peor caída desde un máximo (drawdown):** 74.92%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,12 +14,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Djdjdjekekek | 60 | 0 | 0 | +2,106.41 USD |
-| wr0ngw4yb3tt0r | 20 | 16 | 1 | +143.98 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
+| wr0ngw4yb3tt0r | 20 | 17 | 0 | +123.77 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 0 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 32 | 25 | 83 | -43.55 USD |
+| swisstony | 33 | 26 | 81 | -44.54 USD |
 | RN1 | 18 | 15 | 3 | -54.34 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 41 | 45 | 9 | -97.57 USD |
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Panthers vs. Cardinals | Panthers (BUY) | 100% | 1.25 | ✅ ganada | +0.00 |
 | swisstony | Portland Timbers vs. Club Puebla: O/U 5. | Over (BUY) | 82% | 5.43 | ⏳ pendiente | — |
 | swisstony | San Diego Padres vs. Arizona Diamondback | Over (BUY) | 58% | 1.12 | ⏳ pendiente | — |
-| swisstony | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 18% | 1.23 | ⏳ pendiente | — |
+| swisstony | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 18% | 1.23 | ❌ perdida | -1.23 |
 | swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 53% | 1.32 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. PortlandFire | PortlandFire (BUY) | 92% | 1.62 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 185 | Under (BUY) | 56% | 4.68 | ⏳ pendiente | — |

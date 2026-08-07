@@ -1,5 +1,5 @@
 {
-  "bankroll": 931.7176748574603,
+  "bankroll": 910.5192797957319,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2135,6 +2135,21 @@
       "timestamp": 1786075019.2252314,
       "bankroll": 931.72,
       "event": "won: RN1 \u2014 Spread: Chicago White Sox (-2.5)"
+    },
+    {
+      "timestamp": 1786075141.5120957,
+      "bankroll": 911.51,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Chicago White Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786075142.381022,
+      "bankroll": 911.75,
+      "event": "won: swisstony \u2014 Spread: Boston Red Sox (-2.5)"
+    },
+    {
+      "timestamp": 1786075151.0473917,
+      "bankroll": 910.52,
+      "event": "lost: swisstony \u2014 Spread: Chicago White Sox (-1.5)"
     }
   ]
 }
