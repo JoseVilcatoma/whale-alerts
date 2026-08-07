@@ -14511,5 +14511,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786119724.8933992,
     "fills": 2
+  },
+  {
+    "timestamp": 1786120165,
+    "timestamp_added": 1786120166.1028268,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "uzb1-xor-mas-2026-08-07-total-2pt5",
+    "title": "Xorazm Fk Urganch vs. PFK Mash AL Mubarek: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 200.4028,
+    "whale_pct": 0.106,
+    "paper_stake_usd": 0.89,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786120166.1028395,
+    "fills": 1
   }
 ]
