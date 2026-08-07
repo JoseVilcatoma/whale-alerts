@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 20:46:02 (hora de Perú)
+Actualizado: 2026-08-06 20:48:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $944.56
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 9 | 8 | 51 | -31.25 USD |
+| swisstony | 9 | 8 | 53 | -31.25 USD |
 | RN1 | 15 | 14 | 5 | -58.78 USD |
 | HomeRunHazard | 38 | 41 | 16 | -86.80 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
@@ -55,6 +55,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 65% | 3.73 | ⏳ pendiente | — |
+| swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 65% | 3.75 | ⏳ pendiente | — |
 | swisstony | Spread: Kansas City Royals (-2.5) | Minnesota Twins (BUY) | 78% | 1.67 | ⏳ pendiente | — |
 | swisstony | Panthers vs. Cardinals | Cardinals (BUY) | 50% | 0.97 | ⏳ pendiente | — |
 | swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 65% | 3.88 | ⏳ pendiente | — |
@@ -83,5 +85,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Minnesota Lynx (-16.5) | Los Angeles Sparks (BUY) | 45% | 1.07 | ⏳ pendiente | — |
 | swisstony | Will Austin FC win on 2026-08-06? | No (BUY) | 66% | 3.34 | ⏳ pendiente | — |
 | swisstony | Spread: Kansas City Royals (-2.5) | Kansas City Royals (BUY) | 35% | 1.30 | ⏳ pendiente | — |
-| RN1 | Spread: Kansas City Royals (-1.5) | Kansas City Royals (BUY) | 55% | 3.23 | ⏳ pendiente | — |
-| swisstony | Spread: CF Cruz Azul (-2.5) | Philadelphia Union (BUY) | 91% | 5.10 | ⏳ pendiente | — |
