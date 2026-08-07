@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 14:21:07 (hora de Perú)
+Actualizado: 2026-08-07 14:23:07 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
 | Spicer | 29 | 10 | 0 | 74% |
 | fazewinline | 23 | 8 | 0 | 74% |
-| one8tyfive | 49 | 18 | 3 | 73% |
+| one8tyfive | 49 | 18 | 5 | 73% |
 | Fallout3 | 16 | 6 | 0 | 73% |
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 11 | 4 | 0 | 73% |
 | CentralCasting | 18 | 7 | 1 | 72% |
@@ -47,10 +47,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 1 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| UpTheBlues | 101 | 53 | 47 | 66% |
-| GoalLineGhost | 203 | 106 | 1 | 66% |
+| UpTheBlues | 101 | 53 | 48 | 66% |
+| GoalLineGhost | 203 | 106 | 2 | 66% |
 | TAIWANNUMBERONE | 29 | 15 | 0 | 66% |
-| RN1 | 1419 | 754 | 40 | 65% |
+| RN1 | 1419 | 754 | 42 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
@@ -59,14 +59,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SDTrading | 7 | 4 | 0 | 64% |
 | quavoo | 7 | 4 | 3 | 64% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
-| ferrariChampions2026 | 2353 | 1534 | 14 | 61% |
+| ferrariChampions2026 | 2353 | 1534 | 15 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
 | HomeRunHazard | 480 | 304 | 6 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 6 | 58% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 9 | 58% |
 | us391 | 33 | 24 | 0 | 58% |
 | StasPanda | 26 | 19 | 1 | 58% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 54 | 39 | 4 | 58% |
