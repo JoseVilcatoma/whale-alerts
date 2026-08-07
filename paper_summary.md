@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 18:43:28 (hora de Perú)
+Actualizado: 2026-08-07 18:45:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.44
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 47 | 22 | 0 | -86.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 310 | 181 | 31 | -100.04 USD |
+| swisstony | 310 | 181 | 37 | -100.04 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -73,6 +73,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will São Bernardo FC win on 2026-08-07? | Yes (BUY) | 55% | 3.14 | ⏳ pendiente | — |
+| swisstony | Will Ceará SC win on 2026-08-07? | No (BUY) | 38% | 1.23 | ⏳ pendiente | — |
+| swisstony | Will Ceará SC win on 2026-08-07? | No (BUY) | 38% | 1.17 | ⏳ pendiente | — |
+| swisstony | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 53% | 1.66 | ⏳ pendiente | — |
+| swisstony | Will Operário Ferroviário EC win on 2026 | No (BUY) | 84% | 6.44 | ⏳ pendiente | — |
+| swisstony | Cerro Largo FC vs. CA Juventud de Las Pi | Over (BUY) | 100% | 1.17 | ⏳ pendiente | — |
 | swisstony | Will Operário Ferroviário EC win on 2026 | No (BUY) | 84% | 3.99 | ⏳ pendiente | — |
 | swisstony | Will Ceará SC win on 2026-08-07? | No (BUY) | 37% | 3.55 | ⏳ pendiente | — |
 | swisstony | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 33% | 1.02 | ⏳ pendiente | — |
@@ -97,9 +103,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Wisla Plock win on 2026-08-07? | No (BUY) | 81% | 11.81 | ✅ ganada | +2.77 |
 | RN1 | Spread: Wisla Plock (-1.5) | Wisla Krakow (BUY) | 93% | 1.29 | ✅ ganada | +0.10 |
 | swisstony | Club Brugge vs. KV Kortrijk: O/U 1.5 | Over (BUY) | 87% | 2.53 | ✅ ganada | +0.38 |
-| RN1 | Will Wisla Krakow vs. Wisla Plock end in | No (BUY) | 82% | 1.14 | ✅ ganada | +0.25 |
-| swisstony | Will Racing Santander win on 2026-08-07? | No (BUY) | 81% | 2.49 | ✅ ganada | +0.58 |
-| swisstony | VfL Bochum vs. Hertha BSC: O/U 3.5 | Under (BUY) | 82% | 2.08 | ✅ ganada | +0.46 |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team Heretics vs Fnatic (BO3) - LEC | Team Heretics (BUY) | 53% | 1.19 | ✅ ganada | +1.06 |
-| RN1 | Club Brugge vs. KV Kortrijk: O/U 2.5 | Over (BUY) | 68% | 2.79 | ✅ ganada | +1.31 |
-| RN1 | Club Brugge vs. KV Kortrijk: O/U 2.5 | Over (BUY) | 69% | 2.90 | ✅ ganada | +1.30 |
