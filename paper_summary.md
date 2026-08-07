@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 07:42:24 (hora de Perú)
+Actualizado: 2026-08-07 07:44:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.40
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 8 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 86 | 54 | 175 | -30.11 USD |
+| swisstony | 86 | 54 | 178 | -30.11 USD |
 | RN1 | 20 | 16 | 3 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -63,6 +63,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Aston Villa vs. Bayern Munich: O/U 0.5 | Over (BUY) | 100% | 2.96 | ⏳ pendiente | — |
+| swisstony | Spread: Bayern Munich (-1.5) | Bayern Munich (BUY) | 44% | 1.07 | ⏳ pendiente | — |
+| swisstony | Spread: Aston Villa (-1.5) | Bayern Munich (BUY) | 98% | 4.77 | ⏳ pendiente | — |
 | swisstony | Aston Villa vs. Bayern Munich: O/U 0.5 | Over (BUY) | 100% | 1.83 | ⏳ pendiente | — |
 | swisstony | Aston Villa vs. Bayern Munich: O/U 3.5 | Over (BUY) | 32% | 1.43 | ⏳ pendiente | — |
 | swisstony | Aston Villa vs. Bayern Munich: O/U 1.5 | Over (BUY) | 86% | 11.66 | ⏳ pendiente | — |
@@ -90,6 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Gamba Ōsaka vs. Urawa Red Diamonds  | Yes (BUY) | 24% | 1.06 | ⏳ pendiente | — |
 | swisstony | Will Aston Villa win on 2026-08-07? | No (BUY) | 76% | 1.43 | ⏳ pendiente | — |
 | swisstony | Will Gamba Ōsaka win on 2026-08-07? | No (BUY) | 92% | 1.65 | ⏳ pendiente | — |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: BNK FEARX vs HANJIN BRION (BO3) - L | HANJIN BRION (BUY) | 100% | 0.95 | ⏳ pendiente | — |
-| swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 49% | 0.94 | ⏳ pendiente | — |
-| swisstony | Will Beijing Guoan FC vs. Shenzhen Xinpe | No (BUY) | 95% | 3.56 | ⏳ pendiente | — |
