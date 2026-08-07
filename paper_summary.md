@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 05:56:24 (hora de Perú)
+Actualizado: 2026-08-07 05:58:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.40
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 0 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 86 | 54 | 62 | -30.11 USD |
+| swisstony | 86 | 54 | 64 | -30.11 USD |
 | RN1 | 20 | 16 | 3 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -63,6 +63,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Over (BUY) | 27% | 1.00 | ⏳ pendiente | — |
+| swisstony | Will Gamba Ōsaka win on 2026-08-07? | No (BUY) | 61% | 1.48 | ⏳ pendiente | — |
 | swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Under (BUY) | 52% | 2.08 | ⏳ pendiente | — |
 | swisstony | Will Beijing Guoan FC vs. Shenzhen Xinpe | Yes (BUY) | 18% | 1.42 | ⏳ pendiente | — |
 | swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Under (BUY) | 38% | 1.22 | ⏳ pendiente | — |
@@ -91,5 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Over (BUY) | 63% | 6.80 | ⏳ pendiente | — |
 | swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Over (BUY) | 64% | 14.37 | ⏳ pendiente | — |
 | swisstony | Will Gamba Ōsaka win on 2026-08-07? | No (BUY) | 58% | 8.49 | ⏳ pendiente | — |
-| swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Yes (BUY) | 46% | 2.84 | ⏳ pendiente | — |
-| swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Under (BUY) | 60% | 7.50 | ⏳ pendiente | — |
