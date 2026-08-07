@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 00:19:30 (hora de Perú)
+Actualizado: 2026-08-07 00:21:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $937.54
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 0 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 73 | 48 | 25 | -32.96 USD |
+| swisstony | 73 | 48 | 26 | -32.96 USD |
 | RN1 | 20 | 16 | 0 | -52.75 USD |
 | HomeRunHazard | 44 | 46 | 5 | -83.72 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
@@ -61,6 +61,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 49% | 2.02 | ⏳ pendiente | — |
 | swisstony | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 65% | 1.44 | ⏳ pendiente | — |
 | swisstony | Spread: Pittsburgh Pirates (-1.5) | Pittsburgh Pirates (BUY) | 39% | 1.14 | ⏳ pendiente | — |
 | swisstony | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 66% | 26.56 | ⏳ pendiente | — |
@@ -90,4 +91,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 188 | Under (BUY) | 64% | 2.15 | ✅ ganada | +1.21 |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 187 | Under (BUY) | 60% | 1.03 | ✅ ganada | +0.69 |
 | swisstony | Spread: Austin FC (-1.5) | Austin FC (BUY) | 88% | 4.56 | ✅ ganada | +0.62 |
-| swisstony | Toronto Tempo vs. Portland Fire: O/U 185 | Over (BUY) | 58% | 1.93 | ❌ perdida | -1.93 |
