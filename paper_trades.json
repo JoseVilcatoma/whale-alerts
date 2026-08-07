@@ -6182,5 +6182,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786064941.5593429,
     "fills": 1
+  },
+  {
+    "timestamp": 1786065221,
+    "timestamp_added": 1786065221.5183194,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-la-min-2026-08-06-spread-home-15pt5",
+    "title": "Spread: Minnesota Lynx (-15.5)",
+    "outcome": "Los Angeles Sparks",
+    "side": "BUY",
+    "whale_usd": 320.0,
+    "whale_pct": 0.19,
+    "paper_stake_usd": 1.79,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786065221.5183284,
+    "fills": 1
   }
 ]
