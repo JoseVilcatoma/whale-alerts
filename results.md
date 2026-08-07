@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 14:39:57 (hora de Perú)
+Actualizado: 2026-08-07 14:42:06 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -41,16 +41,16 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 30 | 12 | 0 | 71% |
 | fRibrenlc | 33 | 15 | 0 | 69% |
 | fkgggg2mouzfuria | 139 | 63 | 1 | 69% |
-| BirdMan. | 95 | 44 | 3 | 68% |
+| BirdMan. | 95 | 44 | 4 | 68% |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 13 | 6 | 0 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 1 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
-| UpTheBlues | 101 | 53 | 48 | 66% |
+| UpTheBlues | 101 | 53 | 50 | 66% |
 | GoalLineGhost | 203 | 106 | 5 | 66% |
 | TAIWANNUMBERONE | 29 | 15 | 0 | 66% |
-| RN1 | 1419 | 754 | 53 | 65% |
+| RN1 | 1419 | 754 | 54 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
@@ -59,9 +59,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SDTrading | 7 | 4 | 0 | 64% |
 | quavoo | 7 | 4 | 3 | 64% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
-| ferrariChampions2026 | 2353 | 1534 | 27 | 61% |
+| ferrariChampions2026 | 2353 | 1534 | 29 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
-| HomeRunHazard | 480 | 304 | 12 | 61% |
+| HomeRunHazard | 480 | 304 | 13 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
@@ -69,7 +69,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 11 | 58% |
 | us391 | 33 | 24 | 0 | 58% |
 | StasPanda | 26 | 19 | 2 | 58% |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 54 | 39 | 4 | 58% |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 54 | 39 | 5 | 58% |
 | meoooow | 23 | 19 | 2 | 55% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | AnonymousUsername | 54 | 46 | 0 | 54% |
@@ -105,7 +105,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | AV23IUa | 13 | 28 | 2 | 32% |
 | jtwyslljy | 13 | 29 | 0 | 31% |
 | CORGI8 | 4 | 12 | 0 | 25% |
-| 111111111115 | 11 | 38 | 0 | 22% |
+| 111111111115 | 11 | 38 | 2 | 22% |
 | neurodivergentBet | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | LeatherPants | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | Shori888 | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
