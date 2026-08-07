@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 17:10:59 (hora de Perú)
+Actualizado: 2026-08-07 17:13:59 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -20,7 +20,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | CHACHA125655 | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
 | Lk1101x | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | matenghehe | 120 | 2 | 0 | 98% |
-| paquitomillonario | 22 | 2 | 0 | 92% |
+| paquitomillonario | 22 | 2 | 1 | 92% |
 | patient12 | 64 | 7 | 2 | 90% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
 | texaskid | 18 | 3 | 10 | 86% |
@@ -50,12 +50,12 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | UpTheBlues | 101 | 53 | 62 | 66% |
 | GoalLineGhost | 203 | 106 | 22 | 66% |
 | TAIWANNUMBERONE | 29 | 15 | 1 | 66% |
-| RN1 | 1419 | 754 | 113 | 65% |
+| RN1 | 1419 | 754 | 114 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 159 | 85 | 17 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 15 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 16 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
 | quavoo | 7 | 4 | 10 | 64% |
 | Djdjdjekekek | 125 | 78 | 2 | 62% |
@@ -66,7 +66,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SnakeBall | 3 | 2 | 5 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 30 | 58% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 32 | 58% |
 | us391 | 33 | 24 | 0 | 58% |
 | StasPanda | 26 | 19 | 2 | 58% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 54 | 39 | 11 | 58% |
@@ -102,11 +102,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | PleaseWinPlease | 1 | 2 | 1 | ⚠️ 33% (muestra chica: 3) |
 | chanello | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
-| AV23IUa | 13 | 28 | 12 | 32% |
+| AV23IUa | 13 | 28 | 15 | 32% |
 | jtwyslljy | 13 | 29 | 0 | 31% |
 | CORGI8 | 4 | 12 | 0 | 25% |
 | 111111111115 | 11 | 38 | 3 | 22% |
-| neurodivergentBet | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
+| neurodivergentBet | 1 | 4 | 1 | ⚠️ 20% (muestra chica: 5) |
 | LeatherPants | 1 | 4 | 0 | ⚠️ 20% (muestra chica: 5) |
 | Shori888 | 1 | 4 | 1 | ⚠️ 20% (muestra chica: 5) |
 | 0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028 | 4 | 18 | 0 | 18% |

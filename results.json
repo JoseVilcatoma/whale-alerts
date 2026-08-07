@@ -180538,5 +180538,113 @@
     "usd": 4539.03,
     "odds_at_bet": 71,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786140680,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-atmane-mensik-2026-08-07",
+    "title": "National Bank Open: Terence Atmane vs Jakub Mensik",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 1695.5800000000002,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786140680,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-atmane-mensik-2026-08-07",
+    "title": "National Bank Open: Terence Atmane vs Jakub Mensik",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "usd": 1700.0000000000002,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786140680,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-atmane-mensik-2026-08-07",
+    "title": "National Bank Open: Terence Atmane vs Jakub Mensik",
+    "outcome": "Jakub Mensik",
+    "side": "BUY",
+    "usd": 9088.747800000001,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786140728,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-tien-paul-2026-08-07",
+    "title": "National Bank Open: Learner Tien vs Tommy Paul",
+    "outcome": "Tommy Paul",
+    "side": "BUY",
+    "usd": 1529.3615,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786140728,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-tien-paul-2026-08-07",
+    "title": "National Bank Open: Learner Tien vs Tommy Paul",
+    "outcome": "Learner Tien",
+    "side": "BUY",
+    "usd": 5473.2015,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786140731,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-tien-paul-2026-08-07",
+    "title": "National Bank Open: Learner Tien vs Tommy Paul",
+    "outcome": "Learner Tien",
+    "side": "BUY",
+    "usd": 2324.7471,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786140731,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-tien-paul-2026-08-07",
+    "title": "National Bank Open: Learner Tien vs Tommy Paul",
+    "outcome": "Tommy Paul",
+    "side": "BUY",
+    "usd": 6720.4310000000005,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786140732,
+    "username": "paquitomillonario",
+    "wallet": "0x04e6840687847a98f9ecfbb512a8c8b98d073914",
+    "slug": "wnba-phx-conn-2026-08-07-total-172pt5",
+    "title": "Phoenix Mercury vs. Connecticut Sun: O/U 172.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1083.333333,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786140781,
+    "username": "neurodivergentBet",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-100t1-c9-2026-08-07-game2",
+    "title": "Valorant: 100 Thieves vs Cloud9 - Map 2 Winner",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 1376.731576,
+    "odds_at_bet": 74,
+    "status": "pending"
   }
 ]
