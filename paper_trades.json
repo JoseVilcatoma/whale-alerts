@@ -5636,5 +5636,25 @@
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false
+  },
+  {
+    "timestamp": 1786062301,
+    "timestamp_added": 1786062301.7533689,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-wsh-phi-2026-08-06-total-10pt5",
+    "title": "Washington Nationals vs. Philadelphia Phillies: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 441.17,
+    "whale_pct": 0.271,
+    "paper_stake_usd": 2.33,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786062301.7533765,
+    "fills": 1
   }
 ]
