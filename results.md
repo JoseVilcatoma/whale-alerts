@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 16:17:04 (hora de Perú)
+Actualizado: 2026-08-07 16:19:46 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -35,11 +35,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | fazewinline | 23 | 8 | 0 | 74% |
 | one8tyfive | 49 | 18 | 21 | 73% |
 | Fallout3 | 16 | 6 | 0 | 73% |
-| 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 11 | 4 | 1 | 73% |
+| 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 11 | 4 | 2 | 73% |
 | CentralCasting | 18 | 7 | 1 | 72% |
 | Winnerdinnerchickenjr | 13 | 5 | 0 | 72% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 30 | 12 | 0 | 71% |
-| fRibrenlc | 33 | 15 | 2 | 69% |
+| fRibrenlc | 33 | 15 | 3 | 69% |
 | fkgggg2mouzfuria | 139 | 63 | 1 | 69% |
 | BirdMan. | 95 | 44 | 9 | 68% |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 13 | 6 | 0 | 68% |
@@ -50,14 +50,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | UpTheBlues | 101 | 53 | 60 | 66% |
 | GoalLineGhost | 203 | 106 | 18 | 66% |
 | TAIWANNUMBERONE | 29 | 15 | 1 | 66% |
-| RN1 | 1419 | 754 | 87 | 65% |
+| RN1 | 1419 | 754 | 91 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 159 | 85 | 17 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 12 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
-| quavoo | 7 | 4 | 6 | 64% |
+| quavoo | 7 | 4 | 7 | 64% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
 | ferrariChampions2026 | 2353 | 1534 | 79 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
@@ -66,7 +66,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SnakeBall | 3 | 2 | 5 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 25 | 58% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 27 | 58% |
 | us391 | 33 | 24 | 0 | 58% |
 | StasPanda | 26 | 19 | 2 | 58% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 54 | 39 | 10 | 58% |
@@ -102,7 +102,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | PleaseWinPlease | 1 | 2 | 1 | ⚠️ 33% (muestra chica: 3) |
 | chanello | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
-| AV23IUa | 13 | 28 | 10 | 32% |
+| AV23IUa | 13 | 28 | 12 | 32% |
 | jtwyslljy | 13 | 29 | 0 | 31% |
 | CORGI8 | 4 | 12 | 0 | 25% |
 | 111111111115 | 11 | 38 | 3 | 22% |
