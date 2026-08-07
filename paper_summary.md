@@ -1,9 +1,9 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 08:34:05 (hora de Perú)
+Actualizado: 2026-08-07 08:36:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $911.07
+**Bankroll actual:** $911.11
 **Retorno acumulado:** -8.89%
 **Peor caída desde un máximo (drawdown):** 74.92%
 
@@ -17,10 +17,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | wr0ngw4yb3tt0r | 20 | 17 | 0 | +123.77 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 12 | +0.00 USD |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 13 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 120 | 85 | 150 | -30.45 USD |
+| swisstony | 121 | 85 | 150 | -30.41 USD |
 | RN1 | 20 | 16 | 15 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -67,6 +67,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Aston Villa win on 2026-08-07? | No (BUY) | 100% | 1.14 | ⏳ pendiente | — |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Top Esports (BO3 | Top Esports (BUY) | 62% | 1.25 | ⏳ pendiente | — |
 | swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 83% | 2.84 | ⏳ pendiente | — |
 | swisstony | Spread: Bayern Munich (-1.5) | Aston Villa (BUY) | 65% | 5.48 | ⏳ pendiente | — |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Top Esports (BO3 | Bilibili Gaming (BUY) | 36% | 4.67 | ⏳ pendiente | — |
@@ -95,5 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 57% | 1.39 | ⏳ pendiente | — |
 | swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Under (BUY) | 46% | 1.23 | ⏳ pendiente | — |
 | swisstony | Aston Villa vs. Bayern Munich: O/U 1.5 | Under (BUY) | 21% | 1.01 | ⏳ pendiente | — |
-| swisstony | Spread: Bayern Munich (-1.5) | Aston Villa (BUY) | 60% | 1.27 | ⏳ pendiente | — |
-| swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Under (BUY) | 45% | 1.21 | ⏳ pendiente | — |
