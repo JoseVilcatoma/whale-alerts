@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 18:57:43 (hora de Perú)
+Actualizado: 2026-08-07 18:59:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.44
@@ -20,9 +20,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 4 | +1.51 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 8 | 0 | -12.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 47 | 22 | 1 | -86.85 USD |
+| RN1 | 47 | 22 | 5 | -86.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 310 | 181 | 65 | -100.04 USD |
+| swisstony | 310 | 181 | 66 | -100.04 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -62,17 +62,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | chi-bgu-xin-2026-08-07-draw | RN1, swisstony |
 | chi-bgu-xin-2026-08-07-bgu | RN1, swisstony |
 | clf-avl-bmu-2026-08-07-total-2pt5 | RN1, swisstony |
+| arg-ros-ald-2026-08-07-ald | RN1, swisstony |
 | nor-san-kfu-2026-08-07-total-1pt5 | RN1, swisstony |
 | nor-san-kfu-2026-08-07-total-3pt5 | RN1, swisstony |
 | ere-cam-exc-2026-08-07-total-3pt5 | RN1, swisstony |
 | ere-cam-exc-2026-08-07-total-4pt5 | RN1, swisstony |
 | efl-wol-pvl-2026-08-07-pvl | RN1, swisstony |
 | bl2-boc-ber-2026-08-07-boc | RN1, swisstony |
+| arg-ros-ald-2026-08-07-total-2pt5 | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 46% | 2.97 | ⏳ pendiente | — |
+| swisstony | Will Ceará SC win on 2026-08-07? | Yes (BUY) | 77% | 2.02 | ⏳ pendiente | — |
+| RN1 | Will CA Aldosivi win on 2026-08-07? | No (BUY) | 89% | 1.04 | ⏳ pendiente | — |
+| RN1 | CA Rosario Central vs. CA Aldosivi: O/U  | Over (BUY) | 66% | 1.35 | ⏳ pendiente | — |
+| RN1 | Will CA Aldosivi win on 2026-08-07? | No (BUY) | 90% | 2.38 | ⏳ pendiente | — |
 | RN1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 38% | 2.37 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Connecticut Sun: O/U | Over (BUY) | 56% | 1.15 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Connecticut Sun: O/U | Over (BUY) | 54% | 0.87 | ⏳ pendiente | — |
@@ -98,8 +105,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Ceará SC win on 2026-08-07? | No (BUY) | 39% | 3.51 | ⏳ pendiente | — |
 | swisstony | Will Ceará SC win on 2026-08-07? | No (BUY) | 39% | 1.23 | ⏳ pendiente | — |
 | swisstony | Spread: CA Rosario Central (-1.5) | CA Aldosivi (BUY) | 80% | 3.42 | ⏳ pendiente | — |
-| swisstony | Will CA Rosario Central vs. CA Aldosivi  | Yes (BUY) | 36% | 1.54 | ⏳ pendiente | — |
-| swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Over (BUY) | 38% | 1.64 | ⏳ pendiente | — |
-| swisstony | Will Ceará SC win on 2026-08-07? | No (BUY) | 39% | 1.25 | ⏳ pendiente | — |
-| swisstony | Spread: CA Rosario Central (-1.5) | CA Aldosivi (BUY) | 79% | 5.09 | ⏳ pendiente | — |
-| swisstony | Will São Bernardo FC win on 2026-08-07? | Yes (BUY) | 55% | 3.14 | ⏳ pendiente | — |
