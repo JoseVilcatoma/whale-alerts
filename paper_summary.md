@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 13:31:25 (hora de Perú)
+Actualizado: 2026-08-07 13:33:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $775.90
-**Retorno acumulado:** -22.41%
+**Bankroll actual:** $779.13
+**Retorno acumulado:** -22.09%
 **Peor caída desde un máximo (drawdown):** 74.92%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -21,8 +21,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 7 | 0 | -11.30 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
+| swisstony | 212 | 147 | 130 | -101.73 USD |
 | RN1 | 30 | 21 | 0 | -103.62 USD |
-| swisstony | 209 | 147 | 130 | -104.97 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -67,6 +67,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | VfL Bochum vs. Hertha BSC: O/U 3.5 | Under (BUY) | 68% | 3.01 | ⏳ pendiente | — |
+| swisstony | Will Wisla Krakow win on 2026-08-07? | No (BUY) | 45% | 8.56 | ⏳ pendiente | — |
+| swisstony | VfL Bochum vs. Hertha BSC: O/U 2.5 | Under (BUY) | 45% | 1.31 | ⏳ pendiente | — |
 | swisstony | Will Sandefjord Fotball vs. KFUM-Kamerat | No (BUY) | 83% | 5.68 | ⏳ pendiente | — |
 | swisstony | Ostersunds FK vs. GIF Sundsvall: O/U 1.5 | Over (BUY) | 43% | 1.65 | ⏳ pendiente | — |
 | swisstony | Will FC Zbrojovka Brno vs. FC Slovan Lib | No (BUY) | 80% | 3.66 | ⏳ pendiente | — |
@@ -94,6 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | SC Cambuur-Leeuwarden vs. SBV Excelsior: | Under (BUY) | 68% | 3.57 | ⏳ pendiente | — |
 | swisstony | Will FC Slovan Liberec win on 2026-08-07 | Yes (BUY) | 30% | 0.95 | ⏳ pendiente | — |
 | swisstony | Sønderjyske Fodbold vs. Viborg FF: O/U 1 | Over (BUY) | 54% | 1.36 | ⏳ pendiente | — |
-| swisstony | Will Roda JC Kerkrade win on 2026-08-07? | No (BUY) | 59% | 2.41 | ⏳ pendiente | — |
-| swisstony | Vitesse Arnhem vs. RKC Waalwijk: O/U 3.5 | Under (BUY) | 64% | 3.32 | ⏳ pendiente | — |
-| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Over (BUY) | 51% | 1.72 | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 775.8971479883373,
+  "bankroll": 779.1337302668184,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3870,6 +3870,21 @@
       "timestamp": 1786125840.684919,
       "bankroll": 775.9,
       "event": "won: swisstony \u2014 FK Termez Surkhon vs. Navbahor: O/U 4.5"
+    },
+    {
+      "timestamp": 1786127525.096997,
+      "bankroll": 776.5,
+      "event": "won: swisstony \u2014 Will Lokomotiv Tashkent vs. PFK Dinamo Samarqand end in a draw?"
+    },
+    {
+      "timestamp": 1786127527.2889507,
+      "bankroll": 778.83,
+      "event": "won: swisstony \u2014 Will Lokomotiv Tashkent vs. PFK Dinamo Samarqand end in a draw?"
+    },
+    {
+      "timestamp": 1786127586.1111605,
+      "bankroll": 779.13,
+      "event": "won: swisstony \u2014 Lokomotiv Tashkent vs. PFK Dinamo Samarqand: O/U 4.5"
     }
   ]
 }
