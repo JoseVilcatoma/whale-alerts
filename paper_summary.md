@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 00:54:23 (hora de Perú)
+Actualizado: 2026-08-07 00:56:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $916.17
@@ -18,10 +18,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 20 | 17 | 0 | +123.77 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 0 | +0.00 USD |
-|  | 0 | 0 | 2 | +0.00 USD |
+|  | 0 | 0 | 3 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 83 | 53 | 15 | -31.26 USD |
-| RN1 | 20 | 16 | 0 | -52.75 USD |
+| RN1 | 20 | 16 | 2 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 49 | 1 | -106.78 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
@@ -57,11 +57,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-min-kc-2026-08-06-spread-home-1pt5 | RN1, swisstony |
 | nfl-car-ari-2026-08-07 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465, swisstony |
 | mlb-sd-ari-2026-08-06-total-8pt5 | RN1, swisstony |
+| clf-avl-bmu-2026-08-07-bmu | , RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+|  | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 50% | 1.57 | ⏳ pendiente | — |
+| RN1 | Will Bayern Munich win on 2026-08-07? | No (BUY) | 47% | 1.82 | ⏳ pendiente | — |
+| RN1 | Will Bayern Munich win on 2026-08-07? | No (BUY) | 47% | 23.68 | ⏳ pendiente | — |
 |  | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 49% | 1.10 | ⏳ pendiente | — |
 |  | Will Bayern Munich win on 2026-08-07? | No (BUY) | 48% | 7.89 | ⏳ pendiente | — |
 | swisstony | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 65% | 1.84 | ⏳ pendiente | — |
@@ -89,6 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | CF América vs. San Diego FC: Both Teams  | Yes (BUY) | 41% | 1.08 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Under (BUY) | 59% | 13.01 | ✅ ganada | +9.04 |
 | swisstony | Austin FC vs. Club Tijuana: Both Teams t | No (BUY) | 85% | 5.83 | ✅ ganada | +1.03 |
-| swisstony | Austin FC vs. Club Tijuana: Both Teams t | No (BUY) | 84% | 5.32 | ✅ ganada | +1.01 |
-| swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Under (BUY) | 69% | 6.01 | ✅ ganada | +2.70 |
-| swisstony | Los Angeles Sparks vs. Minnesota Lynx | Los Angeles Sparks (BUY) | 59% | 2.51 | ✅ ganada | +1.74 |

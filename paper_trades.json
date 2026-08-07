@@ -8605,5 +8605,69 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786081958.6456215,
     "fills": 1
+  },
+  {
+    "timestamp": 1786082072,
+    "timestamp_added": 1786082072.8872387,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-avl-bmu-2026-08-07-bmu",
+    "title": "Will Bayern Munich win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1409.06,
+    "whale_pct": 2.585,
+    "paper_stake_usd": 23.68,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786082080.0954697,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786082112,
+    "timestamp_added": 1786082113.287001,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-avl-bmu-2026-08-07-bmu",
+    "title": "Will Bayern Munich win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 108.57,
+    "whale_pct": 0.199,
+    "paper_stake_usd": 1.82,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786082113.287011,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786082126,
+    "timestamp_added": 1786082126.9243546,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wnba-atl-wsh-2026-08-07-total-169pt5",
+    "title": "Atlanta Dream vs. Washington Mystics: O/U 169.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 129.62,
+    "whale_pct": 0.171,
+    "paper_stake_usd": 1.57,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786082126.9243627,
+    "fills": 1
   }
 ]
