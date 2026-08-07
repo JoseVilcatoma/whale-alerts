@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 20:41:48 (hora de Perú)
+Actualizado: 2026-08-06 20:43:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $944.56
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 9 | 8 | 44 | -31.25 USD |
+| swisstony | 9 | 8 | 51 | -31.25 USD |
 | RN1 | 15 | 14 | 5 | -58.78 USD |
 | HomeRunHazard | 38 | 41 | 16 | -86.80 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
@@ -55,6 +55,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Kansas City Royals (-2.5) | Minnesota Twins (BUY) | 78% | 1.67 | ⏳ pendiente | — |
+| swisstony | Panthers vs. Cardinals | Cardinals (BUY) | 50% | 0.97 | ⏳ pendiente | — |
+| swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 65% | 3.88 | ⏳ pendiente | — |
+| swisstony | Will Club Tijuana win on 2026-08-06? | No (BUY) | 86% | 10.56 | ⏳ pendiente | — |
+| swisstony | Chicago Fire FC vs. Club Necaxa: O/U 4.5 | Under (BUY) | 88% | 2.84 | ⏳ pendiente | — |
+| swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 55% | 6.31 | ⏳ pendiente | — |
+| swisstony | Will Chicago Fire FC win on 2026-08-06? | Yes (BUY) | 75% | 3.00 | ⏳ pendiente | — |
 | swisstony | Will Austin FC win on 2026-08-06? | No (BUY) | 30% | 1.58 | ⏳ pendiente | — |
 | swisstony | Will Club Tijuana win on 2026-08-06? | No (BUY) | 85% | 1.30 | ⏳ pendiente | — |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx | Minnesota Lynx (BUY) | 76% | 2.94 | ⏳ pendiente | — |
@@ -78,10 +85,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Kansas City Royals (-2.5) | Kansas City Royals (BUY) | 35% | 1.30 | ⏳ pendiente | — |
 | RN1 | Spread: Kansas City Royals (-1.5) | Kansas City Royals (BUY) | 55% | 3.23 | ⏳ pendiente | — |
 | swisstony | Spread: CF Cruz Azul (-2.5) | Philadelphia Union (BUY) | 91% | 5.10 | ⏳ pendiente | — |
-| swisstony | Spread: Minnesota Lynx (-15.5) | Los Angeles Sparks (BUY) | 32% | 1.79 | ⏳ pendiente | — |
-| swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Over (BUY) | 50% | 1.39 | ⏳ pendiente | — |
-| swisstony | Los Angeles Sparks vs. Minnesota Lynx | Minnesota Lynx (BUY) | 92% | 3.39 | ⏳ pendiente | — |
-| RN1 | Spread: Chicago White Sox (-2.5) | Boston Red Sox (BUY) | 64% | 5.64 | ⏳ pendiente | — |
-| RN1 | SC Corinthians Paulista vs. SC Internaci | Under (BUY) | 85% | 3.96 | ⏳ pendiente | — |
-| RN1 | Minnesota Twins vs. Kansas City Royals:  | Under (BUY) | 54% | 4.78 | ⏳ pendiente | — |
-| swisstony | Spread: Boston Red Sox (-1.5) | Chicago White Sox (BUY) | 84% | 1.51 | ⏳ pendiente | — |
