@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 18:28:07 (hora de Perú)
+Actualizado: 2026-08-07 18:31:50 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -17,7 +17,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | JhonAlexanderHinestroza | 7 | 0 | 1 | ⚠️ 100% (muestra chica: 7) |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | mentionmarket | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
-| CHACHA125655 | 1 | 0 | 2 | ⚠️ 100% (muestra chica: 1) |
+| CHACHA125655 | 1 | 0 | 3 | ⚠️ 100% (muestra chica: 1) |
 | Lk1101x | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | matenghehe | 120 | 2 | 0 | 98% |
 | paquitomillonario | 22 | 2 | 1 | 92% |
@@ -94,7 +94,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x0x23kjookhaiuohduoayh8c9 | 7 | 9 | 5 | 44% |
 | Melody626 | 3 | 4 | 15 | ⚠️ 43% (muestra chica: 7) |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 98 | 128 | 0 | 43% |
-| Flipadelphia | 17 | 23 | 7 | 42% |
+| Flipadelphia | 17 | 23 | 8 | 42% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | pleaseplease123 | 47 | 74 | 0 | 39% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 30 | 1 | 39% |
