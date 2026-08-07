@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 05:39:44 (hora de Perú)
+Actualizado: 2026-08-07 05:41:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.40
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 0 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 86 | 54 | 41 | -30.11 USD |
+| swisstony | 86 | 54 | 47 | -30.11 USD |
 | RN1 | 20 | 16 | 3 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -63,6 +63,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Kashima Antlers win on 2026-08-07? | No (BUY) | 57% | 1.11 | ⏳ pendiente | — |
+| swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 46% | 8.56 | ⏳ pendiente | — |
+| swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 68% | 4.52 | ⏳ pendiente | — |
+| swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Under (BUY) | 66% | 2.73 | ⏳ pendiente | — |
+| swisstony | Will Kashima Antlers win on 2026-08-07? | Yes (BUY) | 39% | 1.02 | ⏳ pendiente | — |
+| swisstony | Will Kashima Antlers win on 2026-08-07? | No (BUY) | 59% | 1.53 | ⏳ pendiente | — |
 | swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Under (BUY) | 12% | 0.94 | ⏳ pendiente | — |
 | swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Over (BUY) | 99% | 3.63 | ⏳ pendiente | — |
 | swisstony | Will Gamba Ōsaka win on 2026-08-07? | Yes (BUY) | 39% | 0.95 | ⏳ pendiente | — |
@@ -87,9 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 48% | 1.15 | ⏳ pendiente | — |
 | swisstony | Spread: Miami Marlins (-2.5) | Los Angeles Angels (BUY) | 67% | 1.03 | ⏳ pendiente | — |
 | swisstony | Spread: Milwaukee Brewers (-2.5) | Minnesota Twins (BUY) | 69% | 5.60 | ⏳ pendiente | — |
-| swisstony | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 42% | 1.42 | ⏳ pendiente | — |
-| swisstony | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 34% | 1.06 | ⏳ pendiente | — |
-| swisstony | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 42% | 1.48 | ⏳ pendiente | — |
-| swisstony | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 49% | 3.04 | ⏳ pendiente | — |
-|  | CF Intercity vs. Villarreal CF B: O/U 2. | Over (BUY) | 51% | 2.63 | ⏳ pendiente | — |
-|  | Atlanta Dream vs. Washington Mystics: O/ | Over (BUY) | 55% | 8.99 | ⏳ pendiente | — |
