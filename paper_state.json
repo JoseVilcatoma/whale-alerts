@@ -1,5 +1,5 @@
 {
-  "bankroll": 890.9723209463867,
+  "bankroll": 892.8209372683364,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3045,6 +3045,16 @@
       "timestamp": 1786113444.9366663,
       "bankroll": 890.97,
       "event": "won: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: BNK FEARX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786115001.3246222,
+      "bankroll": 892.01,
+      "event": "won: swisstony \u2014 Yongin FC vs. Busan IPark: O/U 2.5"
+    },
+    {
+      "timestamp": 1786115002.4349244,
+      "bankroll": 892.82,
+      "event": "won: swisstony \u2014 Suwon Bluewings vs. Gimhae FC: O/U 2.5"
     }
   ]
 }
