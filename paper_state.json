@@ -1,5 +1,5 @@
 {
-  "bankroll": 918.1958735215031,
+  "bankroll": 911.0712581368878,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2920,6 +2920,26 @@
       "timestamp": 1786107467.5557458,
       "bankroll": 918.2,
       "event": "won: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 3.5"
+    },
+    {
+      "timestamp": 1786108149.8219569,
+      "bankroll": 912.12,
+      "event": "lost: swisstony \u2014 Will Kashima Antlers win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786108150.5487642,
+      "bankroll": 910.59,
+      "event": "lost: swisstony \u2014 Will Kashima Antlers win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786108150.6489472,
+      "bankroll": 912.18,
+      "event": "won: swisstony \u2014 Will Kashima Antlers win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786108150.9494746,
+      "bankroll": 911.07,
+      "event": "lost: swisstony \u2014 Will Kashima Antlers win on 2026-08-07?"
     }
   ]
 }
