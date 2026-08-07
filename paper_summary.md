@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 20:31:39 (hora de Perú)
+Actualizado: 2026-08-06 20:33:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $944.56
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 9 | 8 | 34 | -31.25 USD |
+| swisstony | 9 | 8 | 35 | -31.25 USD |
 | RN1 | 15 | 14 | 5 | -58.78 USD |
 | HomeRunHazard | 38 | 41 | 16 | -86.80 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
@@ -55,6 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Los Angeles Sparks vs. Minnesota Lynx | Minnesota Lynx (BUY) | 87% | 6.77 | ⏳ pendiente | — |
 | swisstony | Will Chicago Fire FC win on 2026-08-06? | No (BUY) | 25% | 0.99 | ⏳ pendiente | — |
 | swisstony | Will Austin FC vs. Club Tijuana end in a | Yes (BUY) | 21% | 2.44 | ⏳ pendiente | — |
 | swisstony | Miami Marlins vs. Atlanta Braves: O/U 8. | Over (BUY) | 30% | 2.42 | ⏳ pendiente | — |
@@ -84,4 +85,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | New York City FC vs. Club Santos Laguna: | Under (BUY) | 54% | 4.70 | ⏳ pendiente | — |
 | swisstony | Spread: SC Corinthians Paulista (-1.5) | SC Corinthians Paulista (BUY) | 31% | 0.88 | ⏳ pendiente | — |
 | swisstony | Spread: Club Santos Laguna (-1.5) | New York City FC (BUY) | 96% | 4.76 | ⏳ pendiente | — |
-| swisstony | EC Vitória vs. CA Paranaense: O/U 4.5 | Under (BUY) | 92% | 3.95 | ⏳ pendiente | — |
