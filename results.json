@@ -177778,5 +177778,65 @@
     "usd": 1339.9659000000001,
     "odds_at_bet": 91,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786134804,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-oak-bos-2026-08-07",
+    "title": "Athletics vs. Boston Red Sox",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 12008.760799999998,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786134804,
+    "username": "0x0x23kjookhaiuohduoayh8c9",
+    "wallet": "0x9c3ce009c9b039956665cecc4cd14de862b5e8c9",
+    "slug": "mlb-oak-bos-2026-08-07",
+    "title": "Athletics vs. Boston Red Sox",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 1999.9995,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786134804,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "mlb-oak-bos-2026-08-07",
+    "title": "Athletics vs. Boston Red Sox",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 40545.6789,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786134807,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 1347.58,
+    "odds_at_bet": 95,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786134856,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-zandsch-hurkacz-2026-08-07",
+    "title": "National Bank Open: Botic van de Zandschulp vs Hubert Hurkacz",
+    "outcome": "Hubert Hurkacz",
+    "side": "BUY",
+    "usd": 1888.1000000000001,
+    "odds_at_bet": 79,
+    "status": "pending"
   }
 ]
