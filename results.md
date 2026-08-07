@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 15:03:05 (hora de Perú)
+Actualizado: 2026-08-07 15:05:12 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
 | Spicer | 29 | 10 | 0 | 74% |
 | fazewinline | 23 | 8 | 0 | 74% |
-| one8tyfive | 49 | 18 | 11 | 73% |
+| one8tyfive | 49 | 18 | 13 | 73% |
 | Fallout3 | 16 | 6 | 0 | 73% |
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 11 | 4 | 1 | 73% |
 | CentralCasting | 18 | 7 | 1 | 72% |
@@ -48,9 +48,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 2 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | UpTheBlues | 101 | 53 | 55 | 66% |
-| GoalLineGhost | 203 | 106 | 9 | 66% |
+| GoalLineGhost | 203 | 106 | 10 | 66% |
 | TAIWANNUMBERONE | 29 | 15 | 0 | 66% |
-| RN1 | 1419 | 754 | 59 | 65% |
+| RN1 | 1419 | 754 | 60 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
@@ -59,14 +59,14 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SDTrading | 7 | 4 | 0 | 64% |
 | quavoo | 7 | 4 | 3 | 64% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
-| ferrariChampions2026 | 2353 | 1534 | 44 | 61% |
+| ferrariChampions2026 | 2353 | 1534 | 45 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
-| HomeRunHazard | 480 | 304 | 25 | 61% |
+| HomeRunHazard | 480 | 304 | 26 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 5 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 13 | 58% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 15 | 58% |
 | us391 | 33 | 24 | 0 | 58% |
 | StasPanda | 26 | 19 | 2 | 58% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 54 | 39 | 8 | 58% |
@@ -91,10 +91,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Talvez10 | 28 | 33 | 0 | 46% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 86 | 1 | 46% |
 | esportGG | 98 | 117 | 0 | 46% |
-| 0x0x23kjookhaiuohduoayh8c9 | 7 | 9 | 0 | 44% |
+| 0x0x23kjookhaiuohduoayh8c9 | 7 | 9 | 1 | 44% |
 | Melody626 | 3 | 4 | 13 | ⚠️ 43% (muestra chica: 7) |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 98 | 128 | 0 | 43% |
-| Flipadelphia | 17 | 23 | 0 | 42% |
+| Flipadelphia | 17 | 23 | 1 | 42% |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 8 | 12 | 0 | 40% |
 | pleaseplease123 | 47 | 74 | 0 | 39% |
 | 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | 19 | 30 | 1 | 39% |
