@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 18:51:37 (hora de Perú)
+Actualizado: 2026-08-07 18:53:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.44
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 47 | 22 | 0 | -86.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 310 | 181 | 57 | -100.04 USD |
+| swisstony | 310 | 181 | 60 | -100.04 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -73,6 +73,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will CA Rosario Central win on 2026-08-0 | No (BUY) | 76% | 1.20 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Connecticut Sun: O/U | Over (BUY) | 48% | 0.85 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Connecticut Sun: O/U | Over (BUY) | 55% | 1.52 | ⏳ pendiente | — |
 | swisstony | Will CA Aldosivi win on 2026-08-07? | Yes (BUY) | 45% | 4.02 | ⏳ pendiente | — |
 | swisstony | Will CA Aldosivi win on 2026-08-07? | Yes (BUY) | 44% | 1.32 | ⏳ pendiente | — |
 | swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Over (BUY) | 37% | 1.45 | ⏳ pendiente | — |
@@ -100,6 +103,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Operário Ferroviário EC win on 2026 | No (BUY) | 84% | 6.44 | ⏳ pendiente | — |
 | swisstony | Cerro Largo FC vs. CA Juventud de Las Pi | Over (BUY) | 100% | 1.17 | ⏳ pendiente | — |
 | swisstony | Will Operário Ferroviário EC win on 2026 | No (BUY) | 84% | 3.99 | ⏳ pendiente | — |
-| swisstony | Will Ceará SC win on 2026-08-07? | No (BUY) | 37% | 3.55 | ⏳ pendiente | — |
-| swisstony | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 33% | 1.02 | ⏳ pendiente | — |
-| swisstony | Will CA Rosario Central win on 2026-08-0 | No (BUY) | 44% | 1.62 | ⏳ pendiente | — |
