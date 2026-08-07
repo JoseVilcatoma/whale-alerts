@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 21:56:54 (hora de Perú)
+Actualizado: 2026-08-06 21:58:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $977.12
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 17 | 14 | 6 | +150.71 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
-| swisstony | 16 | 10 | 99 | -16.13 USD |
+| swisstony | 16 | 10 | 102 | -16.13 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 16 | 15 | 3 | -57.94 USD |
 | HomeRunHazard | 40 | 42 | 13 | -82.72 USD |
@@ -57,6 +57,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Under (BUY) | 69% | 6.01 | ⏳ pendiente | — |
+| swisstony | Los Angeles Sparks vs. Minnesota Lynx | Los Angeles Sparks (BUY) | 59% | 2.51 | ⏳ pendiente | — |
+| swisstony | Los Angeles Sparks vs. Minnesota Lynx | Minnesota Lynx (BUY) | 38% | 1.23 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 185 | Under (BUY) | 60% | 1.10 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Under (BUY) | 55% | 1.38 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 188 | Under (BUY) | 64% | 2.15 | ⏳ pendiente | — |
@@ -84,6 +87,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 60% | 1.90 | ⏳ pendiente | — |
 | swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 91% | 9.01 | ⏳ pendiente | — |
 | swisstony | Miami Marlins vs. Atlanta Braves: O/U 8. | Over (BUY) | 76% | 1.49 | ✅ ganada | +0.47 |
-| swisstony | Toronto Tempo vs. PortlandFire | Toronto Tempo (BUY) | 49% | 2.02 | ⏳ pendiente | — |
-| swisstony | Toronto Tempo vs. Portland Fire: O/U 188 | Under (BUY) | 49% | 1.14 | ⏳ pendiente | — |
-| swisstony | Will Club Tijuana win on 2026-08-06? | No (BUY) | 97% | 1.63 | ⏳ pendiente | — |
