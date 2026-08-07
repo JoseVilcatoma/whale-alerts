@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 13:52:14 (hora de Perú)
+Actualizado: 2026-08-07 13:54:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $761.78
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | RN1 | 30 | 21 | 9 | -103.62 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
-| swisstony | 216 | 150 | 133 | -119.09 USD |
+| swisstony | 216 | 150 | 135 | -119.09 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
 | texaskid | 1 | 2 | 0 | -1,530.59 USD |
@@ -70,6 +70,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Estoril Praia vs. FC Famalicão: O/U 3.5 | Under (BUY) | 74% | 0.97 | ⏳ pendiente | — |
+| swisstony | Will Wycombe Wanderers FC win on 2026-08 | No (BUY) | 59% | 0.78 | ⏳ pendiente | — |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Valorant: Fnatic vs Enterprise Esports ( | Fnatic (BUY) | 62% | 2.28 | ⏳ pendiente | — |
 | swisstony | VfL Bochum vs. Hertha BSC: 1st Half O/U  | Under (BUY) | 46% | 1.12 | ⏳ pendiente | — |
 | RN1 | Will Port Vale FC win on 2026-08-07? | No (BUY) | 94% | 4.32 | ⏳ pendiente | — |
@@ -98,5 +100,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will FC Zbrojovka Brno vs. FC Slovan Lib | No (BUY) | 80% | 3.66 | ⏳ pendiente | — |
 | swisstony | Will SBV Excelsior win on 2026-08-07? | No (BUY) | 35% | 1.23 | ⏳ pendiente | — |
 | swisstony | Spread: Ostersunds FK (-1.5) | GIF Sundsvall (BUY) | 60% | 2.50 | ⏳ pendiente | — |
-| swisstony | Will SCR Altach vs. WSG Tirol end in a d | No (BUY) | 67% | 3.77 | ⏳ pendiente | — |
-| swisstony | Will Boluspor win on 2026-08-07? | No (BUY) | 90% | 1.26 | ⏳ pendiente | — |
