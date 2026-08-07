@@ -1,5 +1,5 @@
 {
-  "bankroll": 929.8203329126828,
+  "bankroll": 942.7424864229976,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2365,6 +2365,106 @@
       "timestamp": 1786079587.6683142,
       "bankroll": 929.82,
       "event": "lost: swisstony \u2014 Austin FC vs. Club Tijuana: O/U 4.5"
+    },
+    {
+      "timestamp": 1786079650.998798,
+      "bankroll": 928.39,
+      "event": "lost: swisstony \u2014 Spread: Austin FC (-1.5)"
+    },
+    {
+      "timestamp": 1786079651.1991591,
+      "bankroll": 929.72,
+      "event": "won: swisstony \u2014 Spread: Austin FC (-1.5)"
+    },
+    {
+      "timestamp": 1786079651.8002656,
+      "bankroll": 935.42,
+      "event": "won: swisstony \u2014 Spread: Austin FC (-1.5)"
+    },
+    {
+      "timestamp": 1786079651.900494,
+      "bankroll": 935.93,
+      "event": "won: swisstony \u2014 Spread: Austin FC (-1.5)"
+    },
+    {
+      "timestamp": 1786079652.1008573,
+      "bankroll": 934.86,
+      "event": "lost: swisstony \u2014 Spread: Austin FC (-1.5)"
+    },
+    {
+      "timestamp": 1786079652.2010534,
+      "bankroll": 935.92,
+      "event": "won: swisstony \u2014 Spread: Austin FC (-1.5)"
+    },
+    {
+      "timestamp": 1786079652.7019727,
+      "bankroll": 936.54,
+      "event": "won: swisstony \u2014 Spread: Austin FC (-1.5)"
+    },
+    {
+      "timestamp": 1786079653.1610622,
+      "bankroll": 937.56,
+      "event": "won: swisstony \u2014 Austin FC vs. Club Tijuana: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786079653.2612605,
+      "bankroll": 938.59,
+      "event": "won: swisstony \u2014 Austin FC vs. Club Tijuana: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786079710.7828872,
+      "bankroll": 938.81,
+      "event": "won: swisstony \u2014 Will Club Tijuana win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786079710.9832656,
+      "bankroll": 940.53,
+      "event": "won: swisstony \u2014 Will Club Tijuana win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786079712.0454013,
+      "bankroll": 939.47,
+      "event": "lost: swisstony \u2014 Austin FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786079712.4461448,
+      "bankroll": 939.52,
+      "event": "won: swisstony \u2014 Will Club Tijuana win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786079712.746706,
+      "bankroll": 934.54,
+      "event": "lost: swisstony \u2014 Austin FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786079712.8469012,
+      "bankroll": 927.59,
+      "event": "lost: swisstony \u2014 Austin FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786079712.947097,
+      "bankroll": 926.61,
+      "event": "lost: swisstony \u2014 Austin FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786079713.0472689,
+      "bankroll": 929.87,
+      "event": "won: swisstony \u2014 Austin FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786079713.14746,
+      "bankroll": 931.0,
+      "event": "won: swisstony \u2014 Austin FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786079713.2476604,
+      "bankroll": 933.7,
+      "event": "won: swisstony \u2014 Austin FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786079713.347866,
+      "bankroll": 942.74,
+      "event": "won: swisstony \u2014 Austin FC vs. Club Tijuana: O/U 2.5"
     }
   ]
 }
