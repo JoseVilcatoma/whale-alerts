@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 17:52:36 (hora de Perú)
+Actualizado: 2026-08-07 17:56:00 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SDTrading | 7 | 4 | 1 | 64% |
 | quavoo | 7 | 4 | 11 | 64% |
 | Djdjdjekekek | 125 | 78 | 2 | 62% |
-| ferrariChampions2026 | 2353 | 1534 | 98 | 61% |
+| ferrariChampions2026 | 2353 | 1534 | 99 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
 | HomeRunHazard | 480 | 304 | 74 | 61% |
 | Pwaddler | 9 | 6 | 2 | 60% |
