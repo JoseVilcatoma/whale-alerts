@@ -1,5 +1,5 @@
 {
-  "bankroll": 950.3070105434275,
+  "bankroll": 954.4187116065921,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1875,6 +1875,31 @@
       "timestamp": 1786068584.7285929,
       "bankroll": 950.31,
       "event": "won: swisstony \u2014 Las Vegas Aces vs. Indiana Fever"
+    },
+    {
+      "timestamp": 1786071141.3100703,
+      "bankroll": 947.08,
+      "event": "lost: RN1 \u2014 Spread: Kansas City Royals (-1.5)"
+    },
+    {
+      "timestamp": 1786071141.56888,
+      "bankroll": 945.78,
+      "event": "lost: swisstony \u2014 Spread: Kansas City Royals (-2.5)"
+    },
+    {
+      "timestamp": 1786071144.2352674,
+      "bankroll": 946.25,
+      "event": "won: swisstony \u2014 Spread: Kansas City Royals (-2.5)"
+    },
+    {
+      "timestamp": 1786071144.7358294,
+      "bankroll": 947.38,
+      "event": "won: swisstony \u2014 Spread: Kansas City Royals (-2.5)"
+    },
+    {
+      "timestamp": 1786071145.036208,
+      "bankroll": 954.42,
+      "event": "won: swisstony \u2014 Spread: Kansas City Royals (-1.5)"
     }
   ]
 }
