@@ -15391,5 +15391,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786124554.536296,
     "fills": 1
+  },
+  {
+    "timestamp": 1786124960,
+    "timestamp_added": 1786124960.7186313,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "nor-san-kfu-2026-08-07-draw",
+    "title": "Will Sandefjord Fotball vs. KFUM-Kameratene Oslo end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 807.5899999999999,
+    "whale_pct": 0.518,
+    "paper_stake_usd": 4.02,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786124960.7186437,
+    "fills": 1
   }
 ]
