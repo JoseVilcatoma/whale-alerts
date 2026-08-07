@@ -176374,5 +176374,29 @@
     "usd": 1716.93135,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786132551,
+    "username": "TeGeeLP",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-th-fnc-2026-08-07",
+    "title": "LoL: Team Heretics vs Fnatic (BO3) - LEC Regular Season",
+    "outcome": "Team Heretics",
+    "side": "BUY",
+    "usd": 1238.1849,
+    "odds_at_bet": 27,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786132594,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "mlb-min-mil-2026-08-07",
+    "title": "Minnesota Twins vs. Milwaukee Brewers",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 1520.0,
+    "odds_at_bet": 38,
+    "status": "pending"
   }
 ]
