@@ -1,5 +1,5 @@
 {
-  "bankroll": 931.4738731454723,
+  "bankroll": 932.1682853370543,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2265,6 +2265,36 @@
       "timestamp": 1786077975.9813442,
       "bankroll": 931.47,
       "event": "won: swisstony \u2014 Toronto Tempo vs. Portland Fire: O/U 185.5"
+    },
+    {
+      "timestamp": 1786078039.6309497,
+      "bankroll": 932.64,
+      "event": "won: swisstony \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786078039.7311296,
+      "bankroll": 931.52,
+      "event": "lost: swisstony \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786078039.9314876,
+      "bankroll": 933.6,
+      "event": "won: RN1 \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786078040.0316424,
+      "bankroll": 932.42,
+      "event": "lost: RN1 \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786078099.9146192,
+      "bankroll": 933.37,
+      "event": "won: swisstony \u2014 Spread: Portland Fire (-2.5)"
+    },
+    {
+      "timestamp": 1786078100.3151999,
+      "bankroll": 932.17,
+      "event": "lost: swisstony \u2014 Spread: Portland Fire (-2.5)"
     }
   ]
 }
