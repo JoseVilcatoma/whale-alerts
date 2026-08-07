@@ -179638,5 +179638,17 @@
     "usd": 2523.798,
     "odds_at_bet": 49,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786137958,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-joint-samsono-2026-08-08",
+    "title": "National Bank Open: Maya Joint vs Liudmila Samsonova",
+    "outcome": "Maya Joint",
+    "side": "BUY",
+    "usd": 1726.829268,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
