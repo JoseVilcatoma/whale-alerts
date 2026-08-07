@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 21:00:39 (hora de Perú)
+Actualizado: 2026-08-06 21:02:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $944.56
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 9 | 8 | 66 | -31.25 USD |
+| swisstony | 9 | 8 | 67 | -31.25 USD |
 | RN1 | 15 | 14 | 5 | -58.78 USD |
 | HomeRunHazard | 38 | 41 | 16 | -86.80 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
@@ -56,6 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 62% | 1.61 | ⏳ pendiente | — |
 | swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 87% | 3.43 | ⏳ pendiente | — |
 | swisstony | Spread: Austin FC (-1.5) | Austin FC (BUY) | 60% | 2.00 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 80% | 1.06 | ⏳ pendiente | — |
@@ -85,4 +86,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 58% | 1.21 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 5.5 | Under (BUY) | 95% | 5.49 | ⏳ pendiente | — |
 | swisstony | Spread: Club Necaxa (-1.5) | Chicago Fire FC (BUY) | 98% | 6.27 | ⏳ pendiente | — |
-| swisstony | Spread: Minnesota Lynx (-15.5) | Minnesota Lynx (BUY) | 33% | 1.20 | ⏳ pendiente | — |
