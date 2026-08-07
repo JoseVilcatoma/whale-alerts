@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 19:25:10 (hora de Perú)
+Actualizado: 2026-08-06 19:27:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $859.02
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Djdjdjekekek | 60 | 0 | 0 | +2,106.41 USD |
-| wr0ngw4yb3tt0r | 15 | 14 | 7 | +134.09 USD |
+| wr0ngw4yb3tt0r | 15 | 14 | 8 | +134.09 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
@@ -51,6 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 51% | 0.86 | ⏳ pendiente | — |
 | swisstony | Washington Nationals vs. Philadelphia Ph | Under (BUY) | 32% | 2.33 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 48% | 3.79 | ⏳ pendiente | — |
 | swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 85% | 1.38 | ⏳ pendiente | — |
@@ -80,4 +81,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | Athletics vs. Cincinnati Reds: O/U 9.5 | Under (BUY) | 52% | 13.34 | ❌ perdida | -13.34 |
 | HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 59% | 24.84 | ✅ ganada | +17.26 |
 | HomeRunHazard | Pittsburgh Pirates vs. Milwaukee Brewers | Under (BUY) | 49% | 14.72 | ✅ ganada | +15.32 |
-| HomeRunHazard | Toronto Tempo vs. Portland Fire: O/U 186 | Under (BUY) | 49% | 4.54 | ⏳ pendiente | — |
