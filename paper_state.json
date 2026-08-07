@@ -1,5 +1,5 @@
 {
-  "bankroll": 982.7594939844024,
+  "bankroll": 941.2287988564824,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1945,6 +1945,131 @@
       "timestamp": 1786073725.9765315,
       "bankroll": 982.76,
       "event": "won: swisstony \u2014 Los Angeles Sparks vs. Minnesota Lynx: O/U 189.5"
+    },
+    {
+      "timestamp": 1786073843.967325,
+      "bankroll": 979.37,
+      "event": "lost: swisstony \u2014 Los Angeles Sparks vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786073844.531839,
+      "bankroll": 980.68,
+      "event": "won: swisstony \u2014 Spread: Minnesota Lynx (-16.5)"
+    },
+    {
+      "timestamp": 1786073845.132811,
+      "bankroll": 973.91,
+      "event": "lost: swisstony \u2014 Los Angeles Sparks vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786073845.8338006,
+      "bankroll": 970.97,
+      "event": "lost: swisstony \u2014 Los Angeles Sparks vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786073847.7636719,
+      "bankroll": 963.96,
+      "event": "lost: swisstony \u2014 Los Angeles Sparks vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786073849.340432,
+      "bankroll": 962.19,
+      "event": "lost: swisstony \u2014 Los Angeles Sparks vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786073851.2105439,
+      "bankroll": 960.86,
+      "event": "lost: swisstony \u2014 Los Angeles Sparks vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786073852.612633,
+      "bankroll": 959.63,
+      "event": "lost: swisstony \u2014 Los Angeles Sparks vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786073852.712784,
+      "bankroll": 961.37,
+      "event": "won: swisstony \u2014 Los Angeles Sparks vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786073905.5263062,
+      "bankroll": 949.87,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Minnesota Lynx (-15.5)"
+    },
+    {
+      "timestamp": 1786073905.6264548,
+      "bankroll": 947.06,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Minnesota Lynx (-15.5)"
+    },
+    {
+      "timestamp": 1786073905.8902059,
+      "bankroll": 949.87,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Los Angeles Sparks vs. Minnesota Lynx: O/U 188.5"
+    },
+    {
+      "timestamp": 1786073905.990338,
+      "bankroll": 945.49,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Sparks vs. Minnesota Lynx: O/U 188.5"
+    },
+    {
+      "timestamp": 1786073906.0904925,
+      "bankroll": 934.34,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Sparks vs. Minnesota Lynx: O/U 188.5"
+    },
+    {
+      "timestamp": 1786073906.1906471,
+      "bankroll": 937.53,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Sparks vs. Minnesota Lynx: O/U 188.5"
+    },
+    {
+      "timestamp": 1786073906.6064465,
+      "bankroll": 935.02,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Sparks vs. Minnesota Lynx: O/U 188.5"
+    },
+    {
+      "timestamp": 1786073906.7066002,
+      "bankroll": 938.96,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Los Angeles Sparks vs. Minnesota Lynx: O/U 188.5"
+    },
+    {
+      "timestamp": 1786073907.4297657,
+      "bankroll": 939.79,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Los Angeles Sparks vs. Minnesota Lynx: O/U 187.5"
+    },
+    {
+      "timestamp": 1786073908.1380117,
+      "bankroll": 934.5,
+      "event": "lost: swisstony \u2014 Will New York City FC vs. Club Santos Laguna end in a draw?"
+    },
+    {
+      "timestamp": 1786073910.2713616,
+      "bankroll": 938.3,
+      "event": "won: swisstony \u2014 Spread: Minnesota Lynx (-15.5)"
+    },
+    {
+      "timestamp": 1786073911.4758399,
+      "bankroll": 937.1,
+      "event": "lost: swisstony \u2014 Spread: Minnesota Lynx (-15.5)"
+    },
+    {
+      "timestamp": 1786073915.0527008,
+      "bankroll": 938.55,
+      "event": "won: swisstony \u2014 Los Angeles Sparks vs. Minnesota Lynx: O/U 188.5"
+    },
+    {
+      "timestamp": 1786073915.4046786,
+      "bankroll": 939.74,
+      "event": "won: swisstony \u2014 Los Angeles Sparks vs. Minnesota Lynx: O/U 188.5"
+    },
+    {
+      "timestamp": 1786073916.2058067,
+      "bankroll": 941.01,
+      "event": "won: swisstony \u2014 Los Angeles Sparks vs. Minnesota Lynx: O/U 188.5"
+    },
+    {
+      "timestamp": 1786073917.0069056,
+      "bankroll": 941.23,
+      "event": "won: swisstony \u2014 Spread: Minnesota Lynx (-15.5)"
     }
   ]
 }
