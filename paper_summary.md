@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 05:25:29 (hora de Perú)
+Actualizado: 2026-08-07 05:27:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.40
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 0 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 86 | 54 | 23 | -30.11 USD |
+| swisstony | 86 | 54 | 27 | -30.11 USD |
 | RN1 | 20 | 16 | 3 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -63,6 +63,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Under (BUY) | 58% | 5.06 | ⏳ pendiente | — |
+| swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Over (BUY) | 67% | 3.23 | ⏳ pendiente | — |
+| swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Under (BUY) | 58% | 3.81 | ⏳ pendiente | — |
+| swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Over (BUY) | 66% | 9.47 | ⏳ pendiente | — |
 | swisstony | Gamba Ōsaka vs. Urawa Red Diamonds: O/U  | Over (BUY) | 46% | 1.51 | ⏳ pendiente | — |
 | swisstony | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 34% | 1.33 | ⏳ pendiente | — |
 | swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Under (BUY) | 80% | 0.92 | ⏳ pendiente | — |
@@ -89,7 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Texas Rangers (-1.5) | Texas Rangers (BUY) | 39% | 2.15 | ⏳ pendiente | — |
 | swisstony | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 65% | 4.27 | ⏳ pendiente | — |
 | swisstony | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 56% | 5.73 | ⏳ pendiente | — |
-| swisstony | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 49% | 2.02 | ⏳ pendiente | — |
-| swisstony | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 65% | 1.44 | ⏳ pendiente | — |
-| swisstony | Spread: Pittsburgh Pirates (-1.5) | Pittsburgh Pirates (BUY) | 39% | 1.14 | ⏳ pendiente | — |
-| swisstony | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 66% | 26.56 | ⏳ pendiente | — |
