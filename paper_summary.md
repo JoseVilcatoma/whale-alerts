@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 18:47:32 (hora de Perú)
+Actualizado: 2026-08-07 18:49:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.44
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 47 | 22 | 0 | -86.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 310 | 181 | 44 | -100.04 USD |
+| swisstony | 310 | 181 | 49 | -100.04 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -73,6 +73,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Over (BUY) | 72% | 6.34 | ⏳ pendiente | — |
+| swisstony | Will CA Rosario Central win on 2026-08-0 | No (BUY) | 46% | 2.01 | ⏳ pendiente | — |
+| swisstony | Spread: CA Rosario Central (-1.5) | CA Aldosivi (BUY) | 80% | 0.94 | ⏳ pendiente | — |
+| swisstony | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 68% | 2.20 | ⏳ pendiente | — |
+| swisstony | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 70% | 1.86 | ⏳ pendiente | — |
 | swisstony | Will Ceará SC win on 2026-08-07? | No (BUY) | 39% | 3.51 | ⏳ pendiente | — |
 | swisstony | Will Ceará SC win on 2026-08-07? | No (BUY) | 39% | 1.23 | ⏳ pendiente | — |
 | swisstony | Spread: CA Rosario Central (-1.5) | CA Aldosivi (BUY) | 80% | 3.42 | ⏳ pendiente | — |
@@ -98,8 +103,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | VfL Bochum vs. Hertha BSC: O/U 2.5 | Under (BUY) | 66% | 1.11 | ✅ ganada | +0.57 |
 | swisstony | Will Port Vale FC win on 2026-08-07? | No (BUY) | 97% | 3.53 | ✅ ganada | +0.11 |
 | swisstony | Spread: Club Brugge (-2.5) | Club Brugge (BUY) | 34% | 0.99 | ✅ ganada | +1.92 |
-| RN1 | Will VfL Bochum win on 2026-08-07? | Yes (BUY) | 38% | 0.79 | ❌ perdida | -0.79 |
-| swisstony | Will VfL Bochum win on 2026-08-07? | No (BUY) | 62% | 1.44 | ✅ ganada | +0.88 |
-| swisstony | Spread: Wisla Krakow (-1.5) | Wisla Plock (BUY) | 75% | 1.01 | ✅ ganada | +0.34 |
-| swisstony | VfL Bochum vs. Hertha BSC: O/U 2.5 | Under (BUY) | 64% | 1.03 | ✅ ganada | +0.58 |
-| swisstony | Racing Santander vs. Deportivo Alaves: O | Under (BUY) | 98% | 1.91 | ✅ ganada | +0.04 |
