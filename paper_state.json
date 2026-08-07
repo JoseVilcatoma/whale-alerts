@@ -1,5 +1,5 @@
 {
-  "bankroll": 761.3237302668183,
+  "bankroll": 761.776446316201,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3915,6 +3915,11 @@
       "timestamp": 1786127652.1898744,
       "bankroll": 761.32,
       "event": "lost: swisstony \u2014 Lokomotiv Tashkent vs. PFK Dinamo Samarqand: O/U 3.5"
+    },
+    {
+      "timestamp": 1786128335.793193,
+      "bankroll": 761.78,
+      "event": "won: swisstony \u2014 Will Lokomotiv Tashkent win on 2026-08-07?"
     }
   ]
 }
