@@ -1,5 +1,5 @@
 {
-  "bankroll": 896.0500118344963,
+  "bankroll": 909.7465252938736,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2745,6 +2745,136 @@
       "timestamp": 1786107288.736468,
       "bankroll": 896.05,
       "event": "lost: swisstony \u2014 Will Gamba \u014csaka vs. Urawa Red Diamonds end in a draw?"
+    },
+    {
+      "timestamp": 1786107341.2992887,
+      "bankroll": 893.32,
+      "event": "lost: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107342.20088,
+      "bankroll": 889.48,
+      "event": "lost: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107342.5014086,
+      "bankroll": 890.43,
+      "event": "won: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107342.601591,
+      "bankroll": 889.21,
+      "event": "lost: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107343.102431,
+      "bankroll": 890.81,
+      "event": "won: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107343.2026002,
+      "bankroll": 889.04,
+      "event": "lost: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107343.4030366,
+      "bankroll": 890.96,
+      "event": "won: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107343.6034029,
+      "bankroll": 888.68,
+      "event": "lost: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107344.0040696,
+      "bankroll": 890.69,
+      "event": "won: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107344.5049458,
+      "bankroll": 892.67,
+      "event": "won: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107346.4081898,
+      "bankroll": 902.09,
+      "event": "won: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107399.3940465,
+      "bankroll": 906.97,
+      "event": "won: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 1.5"
+    },
+    {
+      "timestamp": 1786107399.788172,
+      "bankroll": 903.16,
+      "event": "lost: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 2.5"
+    },
+    {
+      "timestamp": 1786107399.88843,
+      "bankroll": 904.75,
+      "event": "won: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 1.5"
+    },
+    {
+      "timestamp": 1786107399.988597,
+      "bankroll": 899.69,
+      "event": "lost: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 2.5"
+    },
+    {
+      "timestamp": 1786107400.1888938,
+      "bankroll": 903.15,
+      "event": "won: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 1.5"
+    },
+    {
+      "timestamp": 1786107400.2890801,
+      "bankroll": 906.61,
+      "event": "won: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 1.5"
+    },
+    {
+      "timestamp": 1786107400.4893234,
+      "bankroll": 903.95,
+      "event": "lost: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 2.5"
+    },
+    {
+      "timestamp": 1786107400.5894654,
+      "bankroll": 896.45,
+      "event": "lost: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 2.5"
+    },
+    {
+      "timestamp": 1786107400.8899324,
+      "bankroll": 904.53,
+      "event": "won: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 2.5"
+    },
+    {
+      "timestamp": 1786107400.9901135,
+      "bankroll": 908.53,
+      "event": "won: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 2.5"
+    },
+    {
+      "timestamp": 1786107401.2906075,
+      "bankroll": 908.56,
+      "event": "won: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 1.5"
+    },
+    {
+      "timestamp": 1786107401.390774,
+      "bankroll": 907.62,
+      "event": "lost: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 2.5"
+    },
+    {
+      "timestamp": 1786107402.7036011,
+      "bankroll": 908.39,
+      "event": "won: swisstony \u2014 Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 2.5"
+    },
+    {
+      "timestamp": 1786107406.1040332,
+      "bankroll": 909.07,
+      "event": "won: swisstony \u2014 Will Yokohama F\u00b7Marinos vs. Kashima Antlers end in a draw?"
+    },
+    {
+      "timestamp": 1786107406.2042546,
+      "bankroll": 909.75,
+      "event": "won: swisstony \u2014 Will Yokohama F\u00b7Marinos vs. Kashima Antlers end in a draw?"
     }
   ]
 }
