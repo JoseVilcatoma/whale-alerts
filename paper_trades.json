@@ -14611,5 +14611,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786121165.8638568,
     "fills": 1
+  },
+  {
+    "timestamp": 1786121592,
+    "timestamp_added": 1786121593.2251954,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "est1-kur-har-2026-08-07-har",
+    "title": "Will Harju JK Laagri win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 434.91999999999996,
+    "whale_pct": 0.231,
+    "paper_stake_usd": 1.81,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786121593.2252069,
+    "fills": 1
   }
 ]
