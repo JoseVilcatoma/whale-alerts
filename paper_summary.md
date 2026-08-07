@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 11:39:02 (hora de Perú)
+Actualizado: 2026-08-07 11:41:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $785.52
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 7 | 3 | 8 | -3.21 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 203 | 145 | 58 | -103.44 USD |
+| swisstony | 203 | 145 | 60 | -103.44 USD |
 | RN1 | 30 | 21 | 0 | -103.62 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
@@ -67,6 +67,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will MTK Budapest vs. Puskas Akademia FC | No (BUY) | 88% | 12.46 | ⏳ pendiente | — |
+| swisstony | Will WSG Tirol win on 2026-08-07? | No (BUY) | 80% | 1.29 | ⏳ pendiente | — |
 | swisstony | Xorazm Fk Urganch vs. PFK Mash AL Mubare | Under (BUY) | 89% | 0.88 | ⏳ pendiente | — |
 | swisstony | Xorazm Fk Urganch vs. PFK Mash AL Mubare | Over (BUY) | 52% | 0.89 | ⏳ pendiente | — |
 | swisstony | Spread: Sandefjord Fotball (-2.5) | KFUM-Kameratene Oslo (BUY) | 91% | 3.34 | ⏳ pendiente | — |
@@ -95,5 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will FK Termez Surkhon vs. Navbahor end  | No (BUY) | 91% | 4.09 | ⏳ pendiente | — |
 | swisstony | FK Termez Surkhon vs. Navbahor: O/U 4.5 | Under (BUY) | 99% | 1.17 | ⏳ pendiente | — |
 | swisstony | Aqtöbe FK vs. Servette FC Chênois Fémini | Under (BUY) | 92% | 1.08 | ⏳ pendiente | — |
-| swisstony | FK Termez Surkhon vs. Navbahor: O/U 5.5 | Under (BUY) | 98% | 1.28 | ⏳ pendiente | — |
-| swisstony | Lokomotiv Tashkent vs. PFK Dinamo Samarq | Over (BUY) | 84% | 23.70 | ⏳ pendiente | — |
