@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 08:44:20 (hora de Perú)
+Actualizado: 2026-08-07 08:46:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $913.63
@@ -18,9 +18,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 20 | 17 | 0 | +123.77 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 |  | 1 | 0 | 6 | +2.53 USD |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 15 | +0.00 USD |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 16 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 121 | 85 | 162 | -30.41 USD |
+| swisstony | 121 | 85 | 165 | -30.41 USD |
 | RN1 | 20 | 16 | 15 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -67,6 +67,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Top Esports (BO3 | Top Esports (BUY) | 60% | 1.23 | ⏳ pendiente | — |
+| swisstony | Aston Villa vs. Bayern Munich: Both Team | Yes (BUY) | 99% | 1.32 | ⏳ pendiente | — |
+| swisstony | Will Vietnam vs. Cambodia end in a draw? | No (BUY) | 97% | 3.60 | ⏳ pendiente | — |
+| swisstony | Will Vietnam win on 2026-08-07? | Yes (BUY) | 97% | 1.25 | ⏳ pendiente | — |
 | swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 63% | 5.07 | ⏳ pendiente | — |
 | swisstony | Spread: Bayern Munich (-1.5) | Bayern Munich (BUY) | 88% | 1.90 | ⏳ pendiente | — |
 | swisstony | Will Bayern Munich win on 2026-08-07? | Yes (BUY) | 99% | 10.47 | ⏳ pendiente | — |
@@ -93,7 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Bayern Munich win on 2026-08-07? | Yes (BUY) | 84% | 1.96 | ⏳ pendiente | — |
 | swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 76% | 2.38 | ⏳ pendiente | — |
 | swisstony | Will Bayern Munich win on 2026-08-07? | Yes (BUY) | 83% | 10.01 | ⏳ pendiente | — |
-| swisstony | Aston Villa vs. Bayern Munich: O/U 1.5 | Under (BUY) | 34% | 1.00 | ⏳ pendiente | — |
-| swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 70% | 1.98 | ⏳ pendiente | — |
-| swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Under (BUY) | 74% | 1.36 | ⏳ pendiente | — |
-| swisstony | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 68% | 1.95 | ⏳ pendiente | — |
