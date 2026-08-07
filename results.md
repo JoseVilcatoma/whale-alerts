@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 17:59:23 (hora de Perú)
+Actualizado: 2026-08-07 18:02:50 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -23,7 +23,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | paquitomillonario | 22 | 2 | 1 | 92% |
 | patient12 | 64 | 7 | 2 | 90% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
-| texaskid | 18 | 3 | 11 | 86% |
+| texaskid | 18 | 3 | 12 | 86% |
 | cigarettes | 73 | 15 | 0 | 83% |
 | TopGleaguepick | 24 | 5 | 1 | 83% |
 | elizabeth.ethcome | 45 | 9 | 0 | 83% |
@@ -50,18 +50,18 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | UpTheBlues | 101 | 53 | 71 | 66% |
 | GoalLineGhost | 203 | 106 | 25 | 66% |
 | TAIWANNUMBERONE | 29 | 15 | 1 | 66% |
-| RN1 | 1419 | 754 | 121 | 65% |
+| RN1 | 1419 | 754 | 122 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
-| VeryLucky888 | 159 | 85 | 23 | 65% |
+| VeryLucky888 | 159 | 85 | 25 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 17 | 64% |
-| SDTrading | 7 | 4 | 1 | 64% |
+| SDTrading | 7 | 4 | 2 | 64% |
 | quavoo | 7 | 4 | 14 | 64% |
 | Djdjdjekekek | 125 | 78 | 2 | 62% |
-| ferrariChampions2026 | 2353 | 1534 | 101 | 61% |
+| ferrariChampions2026 | 2353 | 1534 | 105 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
-| HomeRunHazard | 480 | 304 | 76 | 61% |
+| HomeRunHazard | 480 | 304 | 78 | 61% |
 | Pwaddler | 9 | 6 | 3 | 60% |
 | SnakeBall | 3 | 2 | 5 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
@@ -91,7 +91,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Talvez10 | 28 | 33 | 2 | 46% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 86 | 22 | 46% |
 | esportGG | 98 | 117 | 0 | 46% |
-| 0x0x23kjookhaiuohduoayh8c9 | 7 | 9 | 3 | 44% |
+| 0x0x23kjookhaiuohduoayh8c9 | 7 | 9 | 5 | 44% |
 | Melody626 | 3 | 4 | 15 | ⚠️ 43% (muestra chica: 7) |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 98 | 128 | 0 | 43% |
 | Flipadelphia | 17 | 23 | 7 | 42% |
@@ -126,4 +126,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | JnStTrdrBnusFnd | 0 | 0 | 4 | — |
 | facai86868 | 0 | 0 | 1 | — |
 | greyoctober | 0 | 0 | 2 | — |
-| Sassy-Bucket | 0 | 0 | 4 | — |
+| Sassy-Bucket | 0 | 0 | 5 | — |
