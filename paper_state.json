@@ -1,5 +1,5 @@
 {
-  "bankroll": 777.4247018630341,
+  "bankroll": 777.5360420692197,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3830,6 +3830,16 @@
       "timestamp": 1786122478.640181,
       "bankroll": 777.42,
       "event": "won: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: Bilibili Gaming vs Top Esports (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786123467.0340943,
+      "bankroll": 777.54,
+      "event": "won: swisstony \u2014 Will Vietnam vs. Cambodia end in a draw?"
+    },
+    {
+      "timestamp": 1786123467.4778607,
+      "bankroll": 777.54,
+      "event": "won: swisstony \u2014 Spread: Cambodia (-1.5)"
     }
   ]
 }
