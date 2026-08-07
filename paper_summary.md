@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 12:03:58 (hora de Perú)
+Actualizado: 2026-08-07 12:06:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $784.49
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 7 | 4 | 7 | -4.24 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 203 | 145 | 65 | -103.44 USD |
+| swisstony | 203 | 145 | 69 | -103.44 USD |
 | RN1 | 30 | 21 | 0 | -103.62 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
@@ -67,6 +67,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 47% | 0.83 | ⏳ pendiente | — |
+| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 68% | 2.15 | ⏳ pendiente | — |
+| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 46% | 2.03 | ⏳ pendiente | — |
+| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 68% | 2.22 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Over (BUY) | 79% | 0.82 | ⏳ pendiente | — |
 | swisstony | Will Sandefjord Fotball win on 2026-08-0 | No (BUY) | 57% | 1.19 | ⏳ pendiente | — |
 | swisstony | Will Sandefjord Fotball win on 2026-08-0 | No (BUY) | 56% | 0.91 | ⏳ pendiente | — |
@@ -93,7 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Seinajoen JK vs. IF Gnistan: Both Teams  | No (BUY) | 35% | 1.06 | ⏳ pendiente | — |
 | swisstony | Will MTK Budapest win on 2026-08-07? | No (BUY) | 79% | 5.99 | ⏳ pendiente | — |
 | swisstony | MTK Budapest vs. Puskas Akademia FC Felc | Over (BUY) | 100% | 3.36 | ⏳ pendiente | — |
-| swisstony | Lokomotiv Tashkent vs. PFK Dinamo Samarq | Over (BUY) | 74% | 2.26 | ⏳ pendiente | — |
-| swisstony | New York Mets vs. Pittsburgh Pirates: O/ | Under (BUY) | 44% | 3.18 | ⏳ pendiente | — |
-| swisstony | Will MTK Budapest win on 2026-08-07? | No (BUY) | 56% | 1.05 | ⏳ pendiente | — |
-| swisstony | Will MTK Budapest win on 2026-08-07? | No (BUY) | 58% | 1.99 | ⏳ pendiente | — |
