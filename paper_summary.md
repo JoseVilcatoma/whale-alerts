@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 00:35:58 (hora de Perú)
+Actualizado: 2026-08-07 00:38:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $937.54
-**Retorno acumulado:** -6.25%
+**Bankroll actual:** $914.48
+**Retorno acumulado:** -8.55%
 **Peor caída desde un máximo (drawdown):** 74.92%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,10 +19,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 0 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 73 | 48 | 28 | -32.96 USD |
+| swisstony | 73 | 48 | 30 | -32.96 USD |
 | RN1 | 20 | 16 | 0 | -52.75 USD |
-| HomeRunHazard | 44 | 46 | 5 | -83.72 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
+| HomeRunHazard | 45 | 49 | 1 | -106.78 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
 | texaskid | 1 | 2 | 0 | -1,530.59 USD |
@@ -61,6 +61,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 65% | 1.84 | ⏳ pendiente | — |
+| swisstony | Spread: Texas Rangers (-1.5) | Texas Rangers (BUY) | 39% | 2.15 | ⏳ pendiente | — |
 | swisstony | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 65% | 4.27 | ⏳ pendiente | — |
 | swisstony | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 56% | 5.73 | ⏳ pendiente | — |
 | swisstony | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 49% | 2.02 | ⏳ pendiente | — |
@@ -89,5 +91,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx | Los Angeles Sparks (BUY) | 59% | 2.51 | ✅ ganada | +1.74 |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx | Minnesota Lynx (BUY) | 38% | 1.23 | ❌ perdida | -1.23 |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 185 | Under (BUY) | 60% | 1.10 | ✅ ganada | +0.73 |
-| swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Under (BUY) | 55% | 1.38 | ✅ ganada | +1.13 |
-| swisstony | Toronto Tempo vs. Portland Fire: O/U 188 | Under (BUY) | 64% | 2.15 | ✅ ganada | +1.21 |

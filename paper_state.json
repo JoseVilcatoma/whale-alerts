@@ -1,5 +1,5 @@
 {
-  "bankroll": 937.5400824400672,
+  "bankroll": 914.4792491067338,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2495,6 +2495,26 @@
       "timestamp": 1786079773.9044049,
       "bankroll": 937.54,
       "event": "won: swisstony \u2014 Austin FC vs. Club Tijuana: O/U 3.5"
+    },
+    {
+      "timestamp": 1786081043.7480328,
+      "bankroll": 923.54,
+      "event": "lost: HomeRunHazard \u2014 Panthers vs. Cardinals: O/U 35.5"
+    },
+    {
+      "timestamp": 1786081043.8481834,
+      "bankroll": 913.79,
+      "event": "lost: HomeRunHazard \u2014 Panthers vs. Cardinals: O/U 35.5"
+    },
+    {
+      "timestamp": 1786081043.948334,
+      "bankroll": 904.35,
+      "event": "lost: HomeRunHazard \u2014 Panthers vs. Cardinals: O/U 35.5"
+    },
+    {
+      "timestamp": 1786081044.313835,
+      "bankroll": 914.48,
+      "event": "won: HomeRunHazard \u2014 Panthers vs. Cardinals: O/U 35.5"
     }
   ]
 }
