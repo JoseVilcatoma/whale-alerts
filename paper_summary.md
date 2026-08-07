@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 19:46:35 (hora de Perú)
+Actualizado: 2026-08-06 19:48:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $859.02
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 4 | 8 | 18 | -38.32 USD |
+| swisstony | 4 | 8 | 20 | -38.32 USD |
 | RN1 | 15 | 14 | 0 | -58.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 36 | 40 | 19 | -161.16 USD |
@@ -51,6 +51,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: SC Corinthians Paulista (-1.5) | SC Internacional (BUY) | 75% | 3.06 | ⏳ pendiente | — |
+| swisstony | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 81% | 1.03 | ⏳ pendiente | — |
 | swisstony | New York City FC vs. Club Santos Laguna: | Under (BUY) | 54% | 4.70 | ⏳ pendiente | — |
 | swisstony | Spread: SC Corinthians Paulista (-1.5) | SC Corinthians Paulista (BUY) | 31% | 0.88 | ⏳ pendiente | — |
 | swisstony | Spread: Club Santos Laguna (-1.5) | New York City FC (BUY) | 96% | 4.76 | ⏳ pendiente | — |
@@ -79,5 +81,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | Washington Nationals (BUY) | 53% | 67.63 | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Cincinnati Reds: O/U 10.5 | Under (BUY) | 60% | 60.27 | ❌ perdida | -60.27 |
 | HomeRunHazard | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 52% | 73.68 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Angels vs. Baltimore Orioles | Over (BUY) | 43% | 14.71 | ❌ perdida | -14.71 |
-| HomeRunHazard | Los Angeles Angels vs. Baltimore Orioles | Over (BUY) | 43% | 5.82 | ❌ perdida | -5.82 |
