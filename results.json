@@ -182350,5 +182350,101 @@
     "usd": 2800.0000000000005,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786143774,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "mlb-chc-kc-2026-08-07-spread-away-1pt5",
+    "title": "Spread: Chicago Cubs (-1.5)",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "usd": 2500.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786143775,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-chc-kc-2026-08-07-spread-away-1pt5",
+    "title": "Spread: Chicago Cubs (-1.5)",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 4836.31,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786143824,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-oak-bos-2026-08-07-spread-home-1pt5",
+    "title": "Spread: Boston Red Sox (-1.5)",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 1082.7,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786143866,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-mertens-osaka-2026-08-08",
+    "title": "National Bank Open: Elise Mertens vs Naomi Osaka",
+    "outcome": "Naomi Osaka",
+    "side": "BUY",
+    "usd": 1296.106,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786143950,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-hou-sd-2026-08-07-total-8pt5",
+    "title": "Houston Astros vs. San Diego Padres: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 7500.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786143950,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-hou-sd-2026-08-07-total-8pt5",
+    "title": "Houston Astros vs. San Diego Padres: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 6275.63,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786143957,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-oak-bos-2026-08-07-spread-home-1pt5",
+    "title": "Spread: Boston Red Sox (-1.5)",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 1079.9946,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786143978,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-oak-bos-2026-08-07",
+    "title": "Athletics vs. Boston Red Sox",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 1198.08,
+    "odds_at_bet": 72,
+    "status": "pending"
   }
 ]
