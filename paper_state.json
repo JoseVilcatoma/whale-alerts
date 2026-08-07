@@ -1,5 +1,5 @@
 {
-  "bankroll": 977.1177564409,
+  "bankroll": 978.0355342186779,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1920,6 +1920,11 @@
       "timestamp": 1786071406.152452,
       "bankroll": 977.12,
       "event": "won: swisstony \u2014 Miami Marlins vs. Atlanta Braves: O/U 8.5"
+    },
+    {
+      "timestamp": 1786072474.4200299,
+      "bankroll": 978.04,
+      "event": "won: swisstony \u2014 Miami Marlins vs. Atlanta Braves: O/U 10.5"
     }
   ]
 }

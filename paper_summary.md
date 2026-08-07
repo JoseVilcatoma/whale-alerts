@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 22:13:41 (hora de Perú)
+Actualizado: 2026-08-06 22:15:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $977.12
-**Retorno acumulado:** -2.29%
+**Bankroll actual:** $978.04
+**Retorno acumulado:** -2.20%
 **Peor caída desde un máximo (drawdown):** 74.92%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 17 | 14 | 6 | +150.71 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
-| swisstony | 16 | 10 | 110 | -16.13 USD |
+| swisstony | 17 | 10 | 109 | -15.21 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 16 | 15 | 3 | -57.94 USD |
 | HomeRunHazard | 40 | 42 | 13 | -82.72 USD |
@@ -82,7 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 50% | 6.95 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 188 | Over (BUY) | 56% | 5.17 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 51% | 4.98 | ⏳ pendiente | — |
-| swisstony | Miami Marlins vs. Atlanta Braves: O/U 10 | Over (BUY) | 72% | 2.36 | ⏳ pendiente | — |
+| swisstony | Miami Marlins vs. Atlanta Braves: O/U 10 | Over (BUY) | 72% | 2.36 | ✅ ganada | +0.92 |
 | swisstony | Spread: Minnesota Lynx (-15.5) | Los Angeles Sparks (BUY) | 82% | 1.00 | ⏳ pendiente | — |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx | Minnesota Lynx (BUY) | 91% | 1.33 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 188 | Over (BUY) | 50% | 1.47 | ⏳ pendiente | — |
