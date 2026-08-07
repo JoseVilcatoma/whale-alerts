@@ -179554,5 +179554,53 @@
     "usd": 1483.7848,
     "odds_at_bet": 51,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786137650,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-joint-samsono-2026-08-08",
+    "title": "National Bank Open: Maya Joint vs Liudmila Samsonova",
+    "outcome": "Liudmila Samsonova",
+    "side": "BUY",
+    "usd": 1502.2035,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786137650,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-joint-samsono-2026-08-08",
+    "title": "National Bank Open: Maya Joint vs Liudmila Samsonova",
+    "outcome": "Liudmila Samsonova",
+    "side": "BUY",
+    "usd": 3357.9,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786137706,
+    "username": "0way",
+    "wallet": "0x56b957b03305378167aba6c163941d4b582979a2",
+    "slug": "lol-ns-dnf-2026-08-08-game-handicap-away-1pt5",
+    "title": "Game Handicap: NS (-1.5) vs DN SOOPers (+1.5)",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 3075.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786137716,
+    "username": "flawfence",
+    "wallet": "0x23d81ba9371e576015c1e562db09c689f56b0288",
+    "slug": "will-count-binface-win-the-clacton-by-election-20260707211451133",
+    "title": "Will Count Binface win the Clacton by-election?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 4116.666665999999,
+    "odds_at_bet": 99,
+    "status": "pending"
   }
 ]

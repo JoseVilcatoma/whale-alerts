@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 16:19:46 (hora de Perú)
+Actualizado: 2026-08-07 16:22:29 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -13,7 +13,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ndb1 | 1 | 0 | 2 | ⚠️ 100% (muestra chica: 1) |
 | highnetworth | 4 | 0 | 0 | ⚠️ 100% (muestra chica: 4) |
 | RLXDJ19701601 | 2 | 0 | 0 | ⚠️ 100% (muestra chica: 2) |
-| flawfence | 2 | 0 | 1 | ⚠️ 100% (muestra chica: 2) |
+| flawfence | 2 | 0 | 2 | ⚠️ 100% (muestra chica: 2) |
 | JhonAlexanderHinestroza | 7 | 0 | 0 | ⚠️ 100% (muestra chica: 7) |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 3 | 0 | 0 | ⚠️ 100% (muestra chica: 3) |
 | mentionmarket | 1 | 0 | 0 | ⚠️ 100% (muestra chica: 1) |
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | UpTheBlues | 101 | 53 | 60 | 66% |
 | GoalLineGhost | 203 | 106 | 18 | 66% |
 | TAIWANNUMBERONE | 29 | 15 | 1 | 66% |
-| RN1 | 1419 | 754 | 91 | 65% |
+| RN1 | 1419 | 754 | 92 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SDTrading | 7 | 4 | 0 | 64% |
 | quavoo | 7 | 4 | 7 | 64% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
-| ferrariChampions2026 | 2353 | 1534 | 79 | 61% |
+| ferrariChampions2026 | 2353 | 1534 | 80 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
 | HomeRunHazard | 480 | 304 | 50 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
@@ -114,7 +114,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | pada | 0 | 5 | 0 | ⚠️ 0% (muestra chica: 5) |
 | kluckkluck | 0 | 7 | 0 | ⚠️ 0% (muestra chica: 7) |
 | baws | 0 | 1 | 0 | ⚠️ 0% (muestra chica: 1) |
-| 0way | 0 | 8 | 0 | 0% |
+| 0way | 0 | 8 | 1 | 0% |
 | beachboy4 | 0 | 9 | 0 | 0% |
 | balthazar | 0 | 0 | 17 | — |
 | unbribeableref | 0 | 0 | 3 | — |
