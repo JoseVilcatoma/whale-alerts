@@ -1,5 +1,5 @@
 {
-  "bankroll": 843.1096798927309,
+  "bankroll": 785.5215847785392,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3700,6 +3700,96 @@
       "timestamp": 1786119359.2669716,
       "bankroll": 843.11,
       "event": "won: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: Team WE vs ThunderTalk Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786120602.4018946,
+      "bankroll": 835.22,
+      "event": "lost:  \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120602.827447,
+      "bankroll": 811.54,
+      "event": "lost: RN1 \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120602.9277701,
+      "bankroll": 809.72,
+      "event": "lost: RN1 \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120603.2285001,
+      "bankroll": 784.52,
+      "event": "lost: RN1 \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120606.3648007,
+      "bankroll": 785.45,
+      "event": "won: swisstony \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120606.4649932,
+      "bankroll": 786.5,
+      "event": "won: swisstony \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120606.5651495,
+      "bankroll": 787.59,
+      "event": "won: swisstony \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120606.6653335,
+      "bankroll": 786.63,
+      "event": "lost: RN1 \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120606.7655377,
+      "bankroll": 782.0,
+      "event": "lost: RN1 \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120607.5521002,
+      "bankroll": 782.68,
+      "event": "won: swisstony \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120607.7527087,
+      "bankroll": 784.73,
+      "event": "won: swisstony \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120607.8528967,
+      "bankroll": 785.1,
+      "event": "won: swisstony \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120607.9530747,
+      "bankroll": 785.37,
+      "event": "won: swisstony \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120608.2534876,
+      "bankroll": 784.45,
+      "event": "lost: swisstony \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120608.353696,
+      "bankroll": 784.5,
+      "event": "won: swisstony \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120608.6541622,
+      "bankroll": 784.94,
+      "event": "won: swisstony \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120608.7543466,
+      "bankroll": 785.05,
+      "event": "won: swisstony \u2014 Will Bayern Munich win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786120609.1549954,
+      "bankroll": 785.52,
+      "event": "won: swisstony \u2014 Will Bayern Munich win on 2026-08-07?"
     }
   ]
 }
