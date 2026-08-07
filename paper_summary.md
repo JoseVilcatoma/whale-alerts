@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 11:11:53 (hora de Perú)
+Actualizado: 2026-08-07 11:13:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $846.32
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 30 | 16 | 5 | -47.33 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 192 | 144 | 63 | -110.03 USD |
+| swisstony | 192 | 144 | 65 | -110.03 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -67,6 +67,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Sandefjord Fotball (-1.5) | KFUM-Kameratene Oslo (BUY) | 78% | 1.92 | ⏳ pendiente | — |
+| swisstony | MTK Budapest vs. Puskas Akademia FC Felc | Over (BUY) | 85% | 0.85 | ⏳ pendiente | — |
 | swisstony | Lokomotiv Tashkent vs. PFK Dinamo Samarq | Over (BUY) | 41% | 0.97 | ⏳ pendiente | — |
 | swisstony | Will MTK Budapest win on 2026-08-07? | No (BUY) | 95% | 1.04 | ⏳ pendiente | — |
 | swisstony | Will Lokomotiv Tashkent win on 2026-08-0 | Yes (BUY) | 81% | 1.93 | ⏳ pendiente | — |
@@ -95,5 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Vietnam win on 2026-08-07? | No (BUY) | 38% | 1.04 | ⏳ pendiente | — |
 | swisstony | Spread: Cambodia (-1.5) | Vietnam (BUY) | 100% | 3.23 | ⏳ pendiente | — |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Top Esports (BO3 | Top Esports (BUY) | 59% | 1.35 | ⏳ pendiente | — |
-| swisstony | Will Bayern Munich win on 2026-08-07? | Yes (BUY) | 89% | 3.83 | ⏳ pendiente | — |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Top Esports (BO3 | Top Esports (BUY) | 60% | 1.23 | ⏳ pendiente | — |
