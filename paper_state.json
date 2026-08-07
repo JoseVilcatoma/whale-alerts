@@ -1,5 +1,5 @@
 {
-  "bankroll": 776.8605475637252,
+  "bankroll": 775.8971479883373,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3850,6 +3850,26 @@
       "timestamp": 1786125652.2256541,
       "bankroll": 776.86,
       "event": "won: swisstony \u2014 Will FK Termez Surkhon vs. Navbahor end in a draw?"
+    },
+    {
+      "timestamp": 1786125839.5787346,
+      "bankroll": 776.9,
+      "event": "won: swisstony \u2014 Will Vietnam win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786125839.6788933,
+      "bankroll": 775.86,
+      "event": "lost: swisstony \u2014 Will Vietnam win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786125840.3226025,
+      "bankroll": 775.89,
+      "event": "won: swisstony \u2014 FK Termez Surkhon vs. Navbahor: O/U 5.5"
+    },
+    {
+      "timestamp": 1786125840.684919,
+      "bankroll": 775.9,
+      "event": "won: swisstony \u2014 FK Termez Surkhon vs. Navbahor: O/U 4.5"
     }
   ]
 }
