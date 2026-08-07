@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 19:40:36 (hora de Perú)
+Actualizado: 2026-08-06 19:42:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $859.02
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 4 | 8 | 12 | -38.32 USD |
+| swisstony | 4 | 8 | 18 | -38.32 USD |
 | RN1 | 15 | 14 | 0 | -58.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 36 | 40 | 19 | -161.16 USD |
@@ -51,6 +51,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | New York City FC vs. Club Santos Laguna: | Under (BUY) | 54% | 2.62 | ⏳ pendiente | — |
+| swisstony | Spread: SC Corinthians Paulista (-1.5) | SC Corinthians Paulista (BUY) | 31% | 0.88 | ⏳ pendiente | — |
+| swisstony | Spread: Club Santos Laguna (-1.5) | New York City FC (BUY) | 96% | 4.76 | ⏳ pendiente | — |
+| swisstony | EC Vitória vs. CA Paranaense: O/U 4.5 | Under (BUY) | 92% | 3.95 | ⏳ pendiente | — |
+| swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 95% | 25.89 | ⏳ pendiente | — |
+| swisstony | SC Corinthians Paulista vs. SC Internaci | Under (BUY) | 88% | 3.22 | ⏳ pendiente | — |
 | swisstony | SC Corinthians Paulista vs. SC Internaci | Over (BUY) | 49% | 1.09 | ⏳ pendiente | — |
 | swisstony | Will SC Corinthians Paulista win on 2026 | Yes (BUY) | 87% | 6.58 | ⏳ pendiente | — |
 | swisstony | SC Corinthians Paulista vs. SC Internaci | Under (BUY) | 98% | 8.46 | ⏳ pendiente | — |
@@ -75,9 +81,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 52% | 73.68 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Baltimore Orioles | Over (BUY) | 43% | 14.71 | ❌ perdida | -14.71 |
 | HomeRunHazard | Los Angeles Angels vs. Baltimore Orioles | Over (BUY) | 43% | 5.82 | ❌ perdida | -5.82 |
-| texaskid | New York Mets vs. Cleveland Guardians: O | Under (BUY) | 55% | 55.81 | ❌ perdida | -55.81 |
-| HomeRunHazard | New York Mets vs. Cleveland Guardians: O | Under (BUY) | 41% | 7.00 | ❌ perdida | -7.00 |
-| HomeRunHazard | Toronto Tempo vs. Portland Fire: O/U 186 | Under (BUY) | 49% | 3.06 | ⏳ pendiente | — |
-| HomeRunHazard | New York Mets vs. Cleveland Guardians: O | Under (BUY) | 40% | 21.11 | ❌ perdida | -21.11 |
-| HomeRunHazard | New York Mets vs. Cleveland Guardians: O | Under (BUY) | 61% | 14.20 | ❌ perdida | -14.20 |
-| HomeRunHazard | Las Vegas Aces vs. Indiana Fever: O/U 19 | Under (BUY) | 49% | 4.26 | ⏳ pendiente | — |
