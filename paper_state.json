@@ -1,5 +1,5 @@
 {
-  "bankroll": 931.6803329126828,
+  "bankroll": 931.8203329126828,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2335,6 +2335,16 @@
       "timestamp": 1786079093.5731218,
       "bankroll": 931.68,
       "event": "won: RN1 \u2014 SC Corinthians Paulista vs. SC Internacional: O/U 3.5"
+    },
+    {
+      "timestamp": 1786079217.5574923,
+      "bankroll": 930.8,
+      "event": "lost: swisstony \u2014 Spread: SC Corinthians Paulista (-1.5)"
+    },
+    {
+      "timestamp": 1786079217.6576405,
+      "bankroll": 931.82,
+      "event": "won: swisstony \u2014 Spread: SC Corinthians Paulista (-1.5)"
     }
   ]
 }
