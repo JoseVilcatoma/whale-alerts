@@ -8791,5 +8791,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786083452.5083075,
     "fills": 1
+  },
+  {
+    "timestamp": 1786087792,
+    "timestamp_added": 1786087793.6156738,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "clf-inte-vb-2026-08-07-total-2pt5",
+    "title": "CF Intercity vs. Villarreal CF B: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 158.03999900000002,
+    "whale_pct": 0.289,
+    "paper_stake_usd": 2.63,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786087793.6156812,
+    "fills": 1
   }
 ]
