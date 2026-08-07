@@ -183070,5 +183070,89 @@
     "usd": 6201.0,
     "odds_at_bet": 39,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786145068,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-atmane-mensik-2026-08-07",
+    "title": "National Bank Open: Terence Atmane vs Jakub Mensik",
+    "outcome": "Jakub Mensik",
+    "side": "BUY",
+    "usd": 4817.9923,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786145089,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "atp-popyrin-tirante-2026-08-06",
+    "title": "National Bank Open: Alexei Popyrin vs Thiago Agustin Tirante",
+    "outcome": "Alexei Popyrin",
+    "side": "BUY",
+    "usd": 1255.419,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786145102,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cin-wsh-2026-08-07",
+    "title": "Cincinnati Reds vs. Washington Nationals",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 1445.55,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786145249,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-ruud-fonseca-2026-08-07",
+    "title": "National Bank Open: Casper Ruud vs Joao Fonseca",
+    "outcome": "Joao Fonseca",
+    "side": "BUY",
+    "usd": 2161.5762,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786145249,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-ruud-fonseca-2026-08-07",
+    "title": "National Bank Open: Casper Ruud vs Joao Fonseca",
+    "outcome": "Joao Fonseca",
+    "side": "BUY",
+    "usd": 4921.6608,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786145249,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-ruud-fonseca-2026-08-07",
+    "title": "National Bank Open: Casper Ruud vs Joao Fonseca",
+    "outcome": "Joao Fonseca",
+    "side": "BUY",
+    "usd": 2400.0,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786145267,
+    "username": "JhonAlexanderHinestroza",
+    "wallet": "0x44c58184f89a5c2f699dc8943009cb3d75a08d45",
+    "slug": "bra2-ope-ber-2026-08-07-ope",
+    "title": "Will Oper\u00e1rio Ferrovi\u00e1rio EC win on 2026-08-07?",
+    "outcome": "No",
+    "side": "SELL",
+    "usd": 6013.828799999999,
+    "odds_at_bet": 84,
+    "status": "pending"
   }
 ]
