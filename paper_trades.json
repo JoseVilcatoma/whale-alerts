@@ -9291,5 +9291,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786098925.1098135,
     "fills": 1
+  },
+  {
+    "timestamp": 1786098951,
+    "timestamp_added": 1786098952.073438,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "jap-gam-ura-2026-08-07-gam",
+    "title": "Will Gamba \u014csaka win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 704.4599999999999,
+    "whale_pct": 0.912,
+    "paper_stake_usd": 8.31,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786098952.0734453,
+    "fills": 1
   }
 ]
