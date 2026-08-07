@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 21:29:37 (hora de Perú)
+Actualizado: 2026-08-06 21:31:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $950.31
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 11 | 9 | 82 | -29.59 USD |
+| swisstony | 11 | 9 | 83 | -29.59 USD |
 | RN1 | 15 | 14 | 5 | -58.78 USD |
 | HomeRunHazard | 40 | 42 | 13 | -82.72 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
@@ -57,6 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Austin FC (-1.5) | Austin FC (BUY) | 70% | 1.19 | ⏳ pendiente | — |
 | swisstony | Spread: Austin FC (-1.5) | Austin FC (BUY) | 70% | 13.29 | ⏳ pendiente | — |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 60% | 1.90 | ⏳ pendiente | — |
 | swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 91% | 9.01 | ⏳ pendiente | — |
@@ -86,4 +87,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Kansas City Royals (-1.5) | Minnesota Twins (BUY) | 41% | 4.89 | ⏳ pendiente | — |
 | swisstony | Will Austin FC win on 2026-08-06? | No (BUY) | 36% | 2.01 | ⏳ pendiente | — |
 | swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 65% | 3.69 | ⏳ pendiente | — |
-| swisstony | Spread: Kansas City Royals (-2.5) | Minnesota Twins (BUY) | 78% | 4.02 | ⏳ pendiente | — |
