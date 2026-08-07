@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 07:23:42 (hora de Perú)
+Actualizado: 2026-08-07 07:25:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.40
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 8 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 86 | 54 | 156 | -30.11 USD |
+| swisstony | 86 | 54 | 158 | -30.11 USD |
 | RN1 | 20 | 16 | 3 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -63,6 +63,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Bayern Munich (-1.5) | Aston Villa (BUY) | 75% | 3.05 | ⏳ pendiente | — |
+| swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 53% | 0.94 | ⏳ pendiente | — |
 | swisstony | Spread: Bayern Munich (-1.5) | Aston Villa (BUY) | 74% | 1.02 | ⏳ pendiente | — |
 | swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 51% | 1.09 | ⏳ pendiente | — |
 | swisstony | Spread: Bayern Munich (-1.5) | Aston Villa (BUY) | 74% | 1.07 | ⏳ pendiente | — |
@@ -91,5 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Beijing Guoan FC (-1.5) | Beijing Guoan FC (BUY) | 81% | 2.50 | ⏳ pendiente | — |
 | swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 92% | 1.64 | ⏳ pendiente | — |
 | swisstony | Will Gamba Ōsaka vs. Urawa Red Diamonds  | No (BUY) | 82% | 31.70 | ⏳ pendiente | — |
-| swisstony | Will Gamba Ōsaka win on 2026-08-07? | Yes (BUY) | 83% | 7.98 | ⏳ pendiente | — |
-| swisstony | Spread: Beijing Guoan FC (-1.5) | Beijing Guoan FC (BUY) | 81% | 3.90 | ⏳ pendiente | — |
