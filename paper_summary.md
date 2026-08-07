@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 23:42:16 (hora de Perú)
+Actualizado: 2026-08-06 23:44:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $910.35
-**Retorno acumulado:** -8.97%
+**Bankroll actual:** $910.00
+**Retorno acumulado:** -9.00%
 **Peor caída desde un máximo (drawdown):** 74.92%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 0 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 36 | 27 | 77 | -44.71 USD |
+| swisstony | 40 | 28 | 72 | -45.06 USD |
 | RN1 | 18 | 15 | 3 | -54.34 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 41 | 45 | 9 | -97.57 USD |
@@ -68,9 +68,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | San Diego Padres vs. Arizona Diamondback | Over (BUY) | 58% | 1.12 | ⏳ pendiente | — |
 | swisstony | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 18% | 1.23 | ❌ perdida | -1.23 |
 | swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 53% | 1.32 | ⏳ pendiente | — |
-| swisstony | Toronto Tempo vs. PortlandFire | PortlandFire (BUY) | 92% | 1.62 | ⏳ pendiente | — |
+| swisstony | Toronto Tempo vs. PortlandFire | PortlandFire (BUY) | 92% | 1.62 | ✅ ganada | +0.14 |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 185 | Under (BUY) | 56% | 4.68 | ⏳ pendiente | — |
-| swisstony | Toronto Tempo vs. PortlandFire | PortlandFire (BUY) | 90% | 3.33 | ⏳ pendiente | — |
+| swisstony | Toronto Tempo vs. PortlandFire | PortlandFire (BUY) | 90% | 3.33 | ✅ ganada | +0.37 |
 | swisstony | Spread: CF América (-1.5) | CF América (BUY) | 95% | 1.94 | ⏳ pendiente | — |
 | swisstony | CF América vs. San Diego FC: Both Teams  | Yes (BUY) | 41% | 1.08 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Under (BUY) | 59% | 13.01 | ⏳ pendiente | — |
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 187 | Under (BUY) | 60% | 1.03 | ⏳ pendiente | — |
 | swisstony | Spread: Austin FC (-1.5) | Austin FC (BUY) | 88% | 4.56 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 185 | Over (BUY) | 58% | 1.93 | ⏳ pendiente | — |
-| swisstony | Toronto Tempo vs. PortlandFire | PortlandFire (BUY) | 84% | 1.63 | ⏳ pendiente | — |
+| swisstony | Toronto Tempo vs. PortlandFire | PortlandFire (BUY) | 84% | 1.63 | ✅ ganada | +0.31 |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 84% | 3.91 | ✅ ganada | +0.74 |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 85% | 1.17 | ✅ ganada | +0.21 |
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Under (BUY) | 44% | 2.56 | ⏳ pendiente | — |

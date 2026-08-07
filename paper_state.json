@@ -1,5 +1,5 @@
 {
-  "bankroll": 910.3489073110737,
+  "bankroll": 910.0011621576764,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2170,6 +2170,31 @@
       "timestamp": 1786077724.5024402,
       "bankroll": 910.35,
       "event": "won: swisstony \u2014 Spread: Club Necaxa (-1.5)"
+    },
+    {
+      "timestamp": 1786077852.998104,
+      "bankroll": 911.2,
+      "event": "won: swisstony \u2014 Toronto Tempo vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786077853.4991522,
+      "bankroll": 909.18,
+      "event": "lost: swisstony \u2014 Toronto Tempo vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786077854.9018486,
+      "bankroll": 909.49,
+      "event": "won: swisstony \u2014 Toronto Tempo vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786077856.2044544,
+      "bankroll": 909.86,
+      "event": "won: swisstony \u2014 Toronto Tempo vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786077856.4047782,
+      "bankroll": 910.0,
+      "event": "won: swisstony \u2014 Toronto Tempo vs. PortlandFire"
     }
   ]
 }
