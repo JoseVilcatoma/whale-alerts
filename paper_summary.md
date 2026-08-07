@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 21:54:43 (hora de Perú)
+Actualizado: 2026-08-06 21:56:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $958.49
-**Retorno acumulado:** -4.15%
+**Bankroll actual:** $977.12
+**Retorno acumulado:** -2.29%
 **Peor caída desde un máximo (drawdown):** 74.92%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,11 +14,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Djdjdjekekek | 60 | 0 | 0 | +2,106.41 USD |
-| wr0ngw4yb3tt0r | 16 | 14 | 7 | +138.20 USD |
+| wr0ngw4yb3tt0r | 17 | 14 | 6 | +150.71 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
+| swisstony | 16 | 10 | 99 | -16.13 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 14 | 10 | 101 | -22.25 USD |
 | RN1 | 16 | 15 | 3 | -57.94 USD |
 | HomeRunHazard | 40 | 42 | 13 | -82.72 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
@@ -83,7 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Austin FC (-1.5) | Austin FC (BUY) | 70% | 13.29 | ⏳ pendiente | — |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 60% | 1.90 | ⏳ pendiente | — |
 | swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 91% | 9.01 | ⏳ pendiente | — |
-| swisstony | Miami Marlins vs. Atlanta Braves: O/U 8. | Over (BUY) | 76% | 1.49 | ⏳ pendiente | — |
+| swisstony | Miami Marlins vs. Atlanta Braves: O/U 8. | Over (BUY) | 76% | 1.49 | ✅ ganada | +0.47 |
 | swisstony | Toronto Tempo vs. PortlandFire | Toronto Tempo (BUY) | 49% | 2.02 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 188 | Under (BUY) | 49% | 1.14 | ⏳ pendiente | — |
 | swisstony | Will Club Tijuana win on 2026-08-06? | No (BUY) | 97% | 1.63 | ⏳ pendiente | — |

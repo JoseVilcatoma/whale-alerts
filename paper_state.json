@@ -1,5 +1,5 @@
 {
-  "bankroll": 958.490563458444,
+  "bankroll": 977.1177564409,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1905,6 +1905,21 @@
       "timestamp": 1786071205.1876087,
       "bankroll": 958.49,
       "event": "won: RN1 \u2014 Minnesota Twins vs. Kansas City Royals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786071394.6203783,
+      "bankroll": 971.0,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Miami Marlins vs. Atlanta Braves: O/U 8.5"
+    },
+    {
+      "timestamp": 1786071400.7205026,
+      "bankroll": 976.65,
+      "event": "won: swisstony \u2014 Miami Marlins vs. Atlanta Braves: O/U 8.5"
+    },
+    {
+      "timestamp": 1786071406.152452,
+      "bankroll": 977.12,
+      "event": "won: swisstony \u2014 Miami Marlins vs. Atlanta Braves: O/U 8.5"
     }
   ]
 }
