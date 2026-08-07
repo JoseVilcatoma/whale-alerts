@@ -8585,5 +8585,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786081300.3288314,
     "fills": 1
+  },
+  {
+    "timestamp": 1786081958,
+    "timestamp_added": 1786081958.6456153,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wnba-atl-wsh-2026-08-07-total-169pt5",
+    "title": "Atlanta Dream vs. Washington Mystics: O/U 169.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 91.14999900000002,
+    "whale_pct": 0.121,
+    "paper_stake_usd": 1.1,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786081958.6456215,
+    "fills": 1
   }
 ]
