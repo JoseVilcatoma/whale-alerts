@@ -8751,5 +8751,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786083064.6059177,
     "fills": 1
+  },
+  {
+    "timestamp": 1786083375,
+    "timestamp_added": 1786083376.581912,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-tb-sea-2026-08-07-spread-home-2pt5",
+    "title": "Spread: Seattle Mariners (-2.5)",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "whale_usd": 76.98999599999999,
+    "whale_pct": 0.15,
+    "paper_stake_usd": 1.37,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786083376.5819223,
+    "fills": 1
   }
 ]
