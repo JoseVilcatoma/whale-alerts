@@ -1,5 +1,5 @@
 {
-  "bankroll": 859.0219312369077,
+  "bankroll": 1003.1347215731168,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1800,6 +1800,36 @@
       "timestamp": 1786061184.7975004,
       "bankroll": 859.02,
       "event": "lost: HomeRunHazard \u2014 New York Mets vs. Cleveland Guardians: O/U 7.5"
+    },
+    {
+      "timestamp": 1786064540.0248845,
+      "bankroll": 933.0,
+      "event": "won: HomeRunHazard \u2014 Chicago White Sox vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786064540.3963,
+      "bankroll": 1001.01,
+      "event": "won: HomeRunHazard \u2014 Chicago White Sox vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786064541.2296557,
+      "bankroll": 1001.27,
+      "event": "won: swisstony \u2014 Chicago White Sox vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786064541.3298502,
+      "bankroll": 1001.53,
+      "event": "won: swisstony \u2014 Chicago White Sox vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786064541.4299965,
+      "bankroll": 1001.77,
+      "event": "won: swisstony \u2014 Chicago White Sox vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786064543.519606,
+      "bankroll": 1003.13,
+      "event": "won: swisstony \u2014 Chicago White Sox vs. Boston Red Sox: O/U 8.5"
     }
   ]
 }

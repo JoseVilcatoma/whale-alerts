@@ -5221,8 +5221,8 @@
     "whale_pct": 3.462,
     "paper_stake_usd": 83.42,
     "odds_at_bet": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 73.98,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5403,8 +5403,8 @@
     "whale_pct": 3.058,
     "paper_stake_usd": 73.68,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 68.01,
     "overlaps_with": [],
     "recortado_por_bankroll": false
   },
@@ -5572,8 +5572,8 @@
     "whale_pct": 0.156,
     "paper_stake_usd": 1.34,
     "odds_at_bet": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.26,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -5592,8 +5592,8 @@
     "whale_pct": 0.161,
     "paper_stake_usd": 1.38,
     "odds_at_bet": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.26,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -5612,8 +5612,8 @@
     "whale_pct": 0.161,
     "paper_stake_usd": 1.38,
     "odds_at_bet": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.24,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -5850,8 +5850,8 @@
     "whale_pct": 3.014,
     "paper_stake_usd": 25.89,
     "odds_at_bet": 95,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.36,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -6097,6 +6097,50 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786064316.4323838,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786064536,
+    "timestamp_added": 1786064537.1474512,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "brco-cp-int-2026-08-06-total-3pt5",
+    "title": "SC Corinthians Paulista vs. SC Internacional: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 994.5,
+    "whale_pct": 0.461,
+    "paper_stake_usd": 3.96,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786064537.1474588,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786064570,
+    "timestamp_added": 1786064570.3292222,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-cws-bos-2026-08-06-spread-away-2pt5",
+    "title": "Spread: Chicago White Sox (-2.5)",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "whale_usd": 1226.24,
+    "whale_pct": 0.562,
+    "paper_stake_usd": 5.64,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786064570.3292322,
     "fills": 1
   }
 ]

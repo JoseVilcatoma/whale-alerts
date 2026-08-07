@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 20:00:55 (hora de Perú)
+Actualizado: 2026-08-06 20:03:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $859.02
-**Retorno acumulado:** -14.10%
+**Bankroll actual:** $1,003.13
+**Retorno acumulado:** +0.31%
 **Peor caída desde un máximo (drawdown):** 74.92%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,11 +17,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 15 | 14 | 8 | +134.09 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
+| HomeRunHazard | 38 | 40 | 17 | -19.17 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 4 | 8 | 24 | -38.32 USD |
-| RN1 | 15 | 14 | 2 | -58.78 USD |
+| swisstony | 8 | 8 | 20 | -36.20 USD |
+| RN1 | 15 | 14 | 4 | -58.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| HomeRunHazard | 36 | 40 | 19 | -161.16 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
 | texaskid | 1 | 2 | 0 | -1,530.59 USD |
@@ -46,11 +46,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-oak-cin-2026-08-06-total-9pt5 | Talvez10, texaskid, wr0ngw4yb3tt0r |
 | mlb-cws-bos-2026-08-06-total-8pt5 | HomeRunHazard, swisstony |
 | mlb-nym-cle-2026-08-06-total-7pt5 | HomeRunHazard, texaskid |
+| brco-cp-int-2026-08-06-total-3pt5 | RN1, swisstony |
+| mlb-cws-bos-2026-08-06-spread-away-2pt5 | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Spread: Chicago White Sox (-2.5) | Boston Red Sox (BUY) | 64% | 5.64 | ⏳ pendiente | — |
+| RN1 | SC Corinthians Paulista vs. SC Internaci | Under (BUY) | 85% | 3.96 | ⏳ pendiente | — |
 | RN1 | Minnesota Twins vs. Kansas City Royals:  | Under (BUY) | 54% | 4.78 | ⏳ pendiente | — |
 | swisstony | Spread: Boston Red Sox (-1.5) | Chicago White Sox (BUY) | 84% | 1.51 | ⏳ pendiente | — |
 | RN1 | EC Vitória vs. CA Paranaense: Both Teams | No (BUY) | 82% | 1.98 | ⏳ pendiente | — |
@@ -63,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: SC Corinthians Paulista (-1.5) | SC Corinthians Paulista (BUY) | 31% | 0.88 | ⏳ pendiente | — |
 | swisstony | Spread: Club Santos Laguna (-1.5) | New York City FC (BUY) | 96% | 4.76 | ⏳ pendiente | — |
 | swisstony | EC Vitória vs. CA Paranaense: O/U 4.5 | Under (BUY) | 92% | 3.95 | ⏳ pendiente | — |
-| swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 95% | 25.89 | ⏳ pendiente | — |
+| swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 95% | 25.89 | ✅ ganada | +1.36 |
 | swisstony | SC Corinthians Paulista vs. SC Internaci | Under (BUY) | 88% | 3.22 | ⏳ pendiente | — |
 | swisstony | SC Corinthians Paulista vs. SC Internaci | Over (BUY) | 49% | 1.09 | ⏳ pendiente | — |
 | swisstony | Will SC Corinthians Paulista win on 2026 | Yes (BUY) | 87% | 6.58 | ⏳ pendiente | — |
@@ -75,9 +79,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 51% | 0.86 | ⏳ pendiente | — |
 | swisstony | Washington Nationals vs. Philadelphia Ph | Under (BUY) | 32% | 2.33 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 48% | 3.79 | ⏳ pendiente | — |
-| swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 85% | 1.38 | ⏳ pendiente | — |
-| swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 84% | 1.38 | ⏳ pendiente | — |
-| swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 84% | 1.34 | ⏳ pendiente | — |
+| swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 85% | 1.38 | ✅ ganada | +0.24 |
+| swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 84% | 1.38 | ✅ ganada | +0.26 |
+| swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 84% | 1.34 | ✅ ganada | +0.26 |
 | swisstony | Las Vegas Aces vs. Indiana Fever | Indiana Fever (BUY) | 57% | 0.92 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 48% | 20.21 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Athletics vs. Cincinnati Reds: O/U 9.5 | Over (BUY) | 45% | 69.77 | ✅ ganada | +85.27 |
