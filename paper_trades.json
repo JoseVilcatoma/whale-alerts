@@ -6952,5 +6952,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786067378.2900245,
     "fills": 1
+  },
+  {
+    "timestamp": 1786067453,
+    "timestamp_added": 1786067453.8171258,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-min-kc-2026-08-06-spread-home-1pt5",
+    "title": "Spread: Kansas City Royals (-1.5)",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "whale_usd": 899.709997,
+    "whale_pct": 0.518,
+    "paper_stake_usd": 4.89,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786067456.4324121,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786067458,
+    "timestamp_added": 1786067458.5106926,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-la-min-2026-08-06",
+    "title": "Los Angeles Sparks vs. Minnesota Lynx",
+    "outcome": "Minnesota Lynx",
+    "side": "BUY",
+    "whale_usd": 1288.92,
+    "whale_pct": 0.742,
+    "paper_stake_usd": 7.01,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786067458.510702,
+    "fills": 1
   }
 ]
