@@ -179602,5 +179602,41 @@
     "usd": 4116.666665999999,
     "odds_at_bet": 99,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786137842,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "lol-fur-lll-2026-08-07",
+    "title": "LoL: FURIA Esports vs LOUD (BO3) - CBLOL Regular Season",
+    "outcome": "FURIA Esports",
+    "side": "BUY",
+    "usd": 3077.9999999999995,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786137844,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-joint-samsono-2026-08-08",
+    "title": "National Bank Open: Maya Joint vs Liudmila Samsonova",
+    "outcome": "Liudmila Samsonova",
+    "side": "BUY",
+    "usd": 1508.3494689999998,
+    "odds_at_bet": 34,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786137910,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-zandsch-hurkacz-2026-08-07",
+    "title": "National Bank Open: Botic van de Zandschulp vs Hubert Hurkacz",
+    "outcome": "Hubert Hurkacz",
+    "side": "BUY",
+    "usd": 2523.798,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]
