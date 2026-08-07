@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 18:45:32 (hora de Perú)
+Actualizado: 2026-08-07 18:47:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.44
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 47 | 22 | 0 | -86.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 310 | 181 | 37 | -100.04 USD |
+| swisstony | 310 | 181 | 44 | -100.04 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -73,6 +73,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Ceará SC win on 2026-08-07? | No (BUY) | 39% | 3.51 | ⏳ pendiente | — |
+| swisstony | Will Ceará SC win on 2026-08-07? | No (BUY) | 39% | 1.23 | ⏳ pendiente | — |
+| swisstony | Spread: CA Rosario Central (-1.5) | CA Aldosivi (BUY) | 80% | 3.42 | ⏳ pendiente | — |
+| swisstony | Will CA Rosario Central vs. CA Aldosivi  | Yes (BUY) | 36% | 1.54 | ⏳ pendiente | — |
+| swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Over (BUY) | 38% | 1.64 | ⏳ pendiente | — |
+| swisstony | Will Ceará SC win on 2026-08-07? | No (BUY) | 39% | 1.25 | ⏳ pendiente | — |
+| swisstony | Spread: CA Rosario Central (-1.5) | CA Aldosivi (BUY) | 79% | 5.09 | ⏳ pendiente | — |
 | swisstony | Will São Bernardo FC win on 2026-08-07? | Yes (BUY) | 55% | 3.14 | ⏳ pendiente | — |
 | swisstony | Will Ceará SC win on 2026-08-07? | No (BUY) | 38% | 1.23 | ⏳ pendiente | — |
 | swisstony | Will Ceará SC win on 2026-08-07? | No (BUY) | 38% | 1.17 | ⏳ pendiente | — |
@@ -96,10 +103,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Wisla Krakow (-1.5) | Wisla Plock (BUY) | 75% | 1.01 | ✅ ganada | +0.34 |
 | swisstony | VfL Bochum vs. Hertha BSC: O/U 2.5 | Under (BUY) | 64% | 1.03 | ✅ ganada | +0.58 |
 | swisstony | Racing Santander vs. Deportivo Alaves: O | Under (BUY) | 98% | 1.91 | ✅ ganada | +0.04 |
-| swisstony | Wisla Krakow vs. Wisla Plock: Both Teams | Yes (BUY) | 99% | 4.97 | ✅ ganada | +0.05 |
-| swisstony | VfL Bochum vs. Hertha BSC: O/U 3.5 | Under (BUY) | 83% | 2.41 | ✅ ganada | +0.49 |
-| swisstony | Spread: Hertha BSC (-1.5) | VfL Bochum (BUY) | 88% | 1.37 | ✅ ganada | +0.19 |
-| RN1 | Wisla Krakow vs. Wisla Plock: O/U 4.5 | Under (BUY) | 72% | 3.36 | ✅ ganada | +1.31 |
-| RN1 | Will Wisla Plock win on 2026-08-07? | No (BUY) | 81% | 11.81 | ✅ ganada | +2.77 |
-| RN1 | Spread: Wisla Plock (-1.5) | Wisla Krakow (BUY) | 93% | 1.29 | ✅ ganada | +0.10 |
-| swisstony | Club Brugge vs. KV Kortrijk: O/U 1.5 | Over (BUY) | 87% | 2.53 | ✅ ganada | +0.38 |
