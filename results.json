@@ -180922,5 +180922,89 @@
     "usd": 1420.0,
     "odds_at_bet": 71,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786141213,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-col-stl-2026-08-07-total-8pt5",
+    "title": "Colorado Rockies vs. St. Louis Cardinals: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1093.9996,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786141233,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-oak-bos-2026-08-07-total-8pt5",
+    "title": "Athletics vs. Boston Red Sox: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 6231.761399999999,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786141250,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-hou-sd-2026-08-07-total-8pt5",
+    "title": "Houston Astros vs. San Diego Padres: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 4243.137705,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786141284,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-det-sf-2026-08-07-total-8pt5",
+    "title": "Detroit Tigers vs. San Francisco Giants: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 2698.5,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786141284,
+    "username": "AnonymousUsername",
+    "wallet": "0x9703676286b93c2eca71ca96e8757104519a69c2",
+    "slug": "mlb-det-sf-2026-08-07-total-8pt5",
+    "title": "Detroit Tigers vs. San Francisco Giants: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1089.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786141298,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-lad-ari-2026-08-07-total-8pt5",
+    "title": "Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1979.2740000000001,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786141298,
+    "username": "Flipadelphia",
+    "wallet": "0x448861155279dbf833d041b963e3ac854599e319",
+    "slug": "mlb-lad-ari-2026-08-07-total-8pt5",
+    "title": "Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 1350.0,
+    "odds_at_bet": 45,
+    "status": "pending"
   }
 ]
