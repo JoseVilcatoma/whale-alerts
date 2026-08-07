@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 13:54:19 (hora de Perú)
+Actualizado: 2026-08-07 13:56:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $761.78
@@ -18,12 +18,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 20 | 17 | 0 | +123.77 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 |  | 2 | 1 | 4 | +1.51 USD |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 7 | 1 | -11.30 USD |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 7 | 2 | -11.30 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| RN1 | 30 | 21 | 9 | -103.62 USD |
+| RN1 | 30 | 21 | 12 | -103.62 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
-| swisstony | 216 | 150 | 135 | -119.09 USD |
+| swisstony | 216 | 150 | 136 | -119.09 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
 | texaskid | 1 | 2 | 0 | -1,530.59 USD |
@@ -70,6 +70,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | VfL Bochum vs. Hertha BSC: O/U 3.5 | Under (BUY) | 82% | 2.08 | ⏳ pendiente | — |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team Heretics vs Fnatic (BO3) - LEC | Team Heretics (BUY) | 53% | 1.19 | ⏳ pendiente | — |
+| RN1 | Club Brugge vs. KV Kortrijk: O/U 2.5 | Over (BUY) | 68% | 2.79 | ⏳ pendiente | — |
+| RN1 | Club Brugge vs. KV Kortrijk: O/U 2.5 | Over (BUY) | 69% | 2.90 | ⏳ pendiente | — |
+| RN1 | Will AC Monza win on 2026-08-07? | No (BUY) | 49% | 2.19 | ⏳ pendiente | — |
 | swisstony | Estoril Praia vs. FC Famalicão: O/U 3.5 | Under (BUY) | 74% | 0.97 | ⏳ pendiente | — |
 | swisstony | Will Wycombe Wanderers FC win on 2026-08 | No (BUY) | 59% | 0.78 | ⏳ pendiente | — |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Valorant: Fnatic vs Enterprise Esports ( | Fnatic (BUY) | 62% | 2.28 | ⏳ pendiente | — |
@@ -95,8 +100,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | VfL Bochum vs. Hertha BSC: O/U 3.5 | Under (BUY) | 68% | 3.01 | ⏳ pendiente | — |
 | swisstony | Will Wisla Krakow win on 2026-08-07? | No (BUY) | 45% | 8.56 | ⏳ pendiente | — |
 | swisstony | VfL Bochum vs. Hertha BSC: O/U 2.5 | Under (BUY) | 45% | 1.31 | ⏳ pendiente | — |
-| swisstony | Will Sandefjord Fotball vs. KFUM-Kamerat | No (BUY) | 83% | 5.68 | ⏳ pendiente | — |
-| swisstony | Ostersunds FK vs. GIF Sundsvall: O/U 1.5 | Over (BUY) | 43% | 1.65 | ⏳ pendiente | — |
-| swisstony | Will FC Zbrojovka Brno vs. FC Slovan Lib | No (BUY) | 80% | 3.66 | ⏳ pendiente | — |
-| swisstony | Will SBV Excelsior win on 2026-08-07? | No (BUY) | 35% | 1.23 | ⏳ pendiente | — |
-| swisstony | Spread: Ostersunds FK (-1.5) | GIF Sundsvall (BUY) | 60% | 2.50 | ⏳ pendiente | — |
