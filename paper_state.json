@@ -1,5 +1,5 @@
 {
-  "bankroll": 911.4109481274003,
+  "bankroll": 910.3489073110737,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2160,6 +2160,16 @@
       "timestamp": 1786077538.045474,
       "bankroll": 911.41,
       "event": "won: swisstony \u2014 Chicago Fire FC vs. Club Necaxa: O/U 4.5"
+    },
+    {
+      "timestamp": 1786077659.439435,
+      "bankroll": 910.22,
+      "event": "lost: swisstony \u2014 Chicago Fire FC vs. Club Necaxa: O/U 3.5"
+    },
+    {
+      "timestamp": 1786077724.5024402,
+      "bankroll": 910.35,
+      "event": "won: swisstony \u2014 Spread: Club Necaxa (-1.5)"
     }
   ]
 }
