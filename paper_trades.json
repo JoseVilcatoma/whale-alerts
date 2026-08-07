@@ -14045,8 +14045,8 @@
     "whale_pct": 0.458,
     "paper_stake_usd": 4.09,
     "odds_at_bet": 91,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.4,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786116835.5693417,
@@ -15610,6 +15610,26 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786125564.046016,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786125704,
+    "timestamp_added": 1786125705.3680768,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "den-sjs-vib-2026-08-07-total-1pt5",
+    "title": "S\u00f8nderjyske Fodbold vs. Viborg FF: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 302.24340000000007,
+    "whale_pct": 0.174,
+    "paper_stake_usd": 1.36,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786125705.368088,
     "fills": 1
   }
 ]

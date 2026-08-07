@@ -1,5 +1,5 @@
 {
-  "bankroll": 776.4560420692196,
+  "bankroll": 776.8605475637252,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3845,6 +3845,11 @@
       "timestamp": 1786125397.0497906,
       "bankroll": 776.46,
       "event": "lost: swisstony \u2014 Aqt\u00f6be FK vs. Servette FC Ch\u00eanois F\u00e9minin: O/U 3.5"
+    },
+    {
+      "timestamp": 1786125652.2256541,
+      "bankroll": 776.86,
+      "event": "won: swisstony \u2014 Will FK Termez Surkhon vs. Navbahor end in a draw?"
     }
   ]
 }
