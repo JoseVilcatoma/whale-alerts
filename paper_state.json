@@ -1,5 +1,5 @@
 {
-  "bankroll": 777.5360420692197,
+  "bankroll": 776.4560420692196,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3840,6 +3840,11 @@
       "timestamp": 1786123467.4778607,
       "bankroll": 777.54,
       "event": "won: swisstony \u2014 Spread: Cambodia (-1.5)"
+    },
+    {
+      "timestamp": 1786125397.0497906,
+      "bankroll": 776.46,
+      "event": "lost: swisstony \u2014 Aqt\u00f6be FK vs. Servette FC Ch\u00eanois F\u00e9minin: O/U 3.5"
     }
   ]
 }

@@ -14005,8 +14005,8 @@
     "whale_pct": 0.12,
     "paper_stake_usd": 1.08,
     "odds_at_bet": 92,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786116072.2116778,
@@ -15571,5 +15571,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786125234.2900383,
     "fills": 1
+  },
+  {
+    "timestamp": 1786125365,
+    "timestamp_added": 1786125365.5812223,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "ned2-vit-waa-2026-08-07-total-3pt5",
+    "title": "Vitesse Arnhem vs. RKC Waalwijk: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 699.7548,
+    "whale_pct": 0.427,
+    "paper_stake_usd": 3.32,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786125368.2759438,
+    "fills": 2
   }
 ]
