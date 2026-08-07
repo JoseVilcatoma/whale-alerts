@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 21:06:48 (hora de Perú)
+Actualizado: 2026-08-06 21:08:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $933.08
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 9 | 8 | 69 | -31.25 USD |
+| swisstony | 9 | 8 | 72 | -31.25 USD |
 | RN1 | 15 | 14 | 5 | -58.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 39 | 42 | 14 | -98.29 USD |
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-las-ind-2026-08-06 | HomeRunHazard, swisstony |
 | wnba-la-min-2026-08-06-spread-home-15pt5 | swisstony, wr0ngw4yb3tt0r |
 | mlb-mia-atl-2026-08-06-total-8pt5 | swisstony, wr0ngw4yb3tt0r |
-| wnba-la-min-2026-08-06-total-188pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| wnba-la-min-2026-08-06-total-188pt5 | HomeRunHazard, swisstony, wr0ngw4yb3tt0r |
 | wnba-tor-por-2026-08-06-total-188pt5 | HomeRunHazard, swisstony |
 | mlb-oak-cin-2026-08-06-total-9pt5 | Talvez10, texaskid, wr0ngw4yb3tt0r |
 | mlb-cws-bos-2026-08-06-total-8pt5 | HomeRunHazard, swisstony |
@@ -57,6 +57,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 68% | 3.08 | ⏳ pendiente | — |
+| swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 68% | 1.71 | ⏳ pendiente | — |
+| swisstony | Spread: Portland Fire (-2.5) | Portland Fire (BUY) | 52% | 1.03 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 185 | Under (BUY) | 52% | 1.74 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 188 | Under (BUY) | 55% | 2.39 | ⏳ pendiente | — |
 | swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 62% | 1.61 | ⏳ pendiente | — |
@@ -84,6 +87,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Chicago Fire FC win on 2026-08-06? | Yes (BUY) | 75% | 3.00 | ⏳ pendiente | — |
 | swisstony | Will Austin FC win on 2026-08-06? | No (BUY) | 30% | 1.58 | ⏳ pendiente | — |
 | swisstony | Will Club Tijuana win on 2026-08-06? | No (BUY) | 85% | 1.30 | ⏳ pendiente | — |
-| swisstony | Los Angeles Sparks vs. Minnesota Lynx | Minnesota Lynx (BUY) | 76% | 2.94 | ⏳ pendiente | — |
-| swisstony | Will Chicago Fire FC win on 2026-08-06? | No (BUY) | 25% | 0.99 | ⏳ pendiente | — |
-| swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 58% | 1.21 | ⏳ pendiente | — |
