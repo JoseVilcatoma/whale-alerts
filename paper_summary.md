@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 06:02:44 (hora de Perú)
+Actualizado: 2026-08-07 06:04:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.40
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 0 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 86 | 54 | 66 | -30.11 USD |
+| swisstony | 86 | 54 | 70 | -30.11 USD |
 | RN1 | 20 | 16 | 3 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -63,6 +63,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Gamba Ōsaka win on 2026-08-07? | No (BUY) | 65% | 0.96 | ⏳ pendiente | — |
+| swisstony | Will Yokohama F·Marinos win on 2026-08-0 | Yes (BUY) | 52% | 6.19 | ⏳ pendiente | — |
+| swisstony | Will Yokohama F·Marinos win on 2026-08-0 | Yes (BUY) | 53% | 6.31 | ⏳ pendiente | — |
+| swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Under (BUY) | 44% | 1.77 | ⏳ pendiente | — |
 | swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Over (BUY) | 53% | 1.80 | ⏳ pendiente | — |
 | swisstony | Gamba Ōsaka vs. Urawa Red Diamonds: 1st  | Under (BUY) | 53% | 2.60 | ⏳ pendiente | — |
 | swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Over (BUY) | 27% | 1.00 | ⏳ pendiente | — |
@@ -89,7 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Kashima Antlers win on 2026-08-07? | Yes (BUY) | 39% | 1.02 | ⏳ pendiente | — |
 | swisstony | Will Kashima Antlers win on 2026-08-07? | No (BUY) | 59% | 1.53 | ⏳ pendiente | — |
 | swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Under (BUY) | 12% | 0.94 | ⏳ pendiente | — |
-| swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Over (BUY) | 99% | 3.63 | ⏳ pendiente | — |
-| swisstony | Will Gamba Ōsaka win on 2026-08-07? | Yes (BUY) | 39% | 0.95 | ⏳ pendiente | — |
-| swisstony | Will Gamba Ōsaka win on 2026-08-07? | No (BUY) | 59% | 8.31 | ⏳ pendiente | — |
-| swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Over (BUY) | 63% | 6.80 | ⏳ pendiente | — |
