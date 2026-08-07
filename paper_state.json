@@ -1,5 +1,5 @@
 {
-  "bankroll": 2409.4832330075074,
+  "bankroll": 859.0219312369077,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1655,6 +1655,151 @@
       "timestamp": 1785992319.3102894,
       "bankroll": 2409.48,
       "event": "lost: HomeRunHazard \u2014 Spread: Arizona Diamondbacks (-7.5)"
+    },
+    {
+      "timestamp": 1786061175.2095416,
+      "bankroll": 2392.46,
+      "event": "lost: HomeRunHazard \u2014 Pittsburgh Pirates vs. Milwaukee Brewers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786061175.5952847,
+      "bankroll": 2402.69,
+      "event": "won: HomeRunHazard \u2014 Spread: Baltimore Orioles (-1.5)"
+    },
+    {
+      "timestamp": 1786061176.204566,
+      "bankroll": 2409.43,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Angels vs. Baltimore Orioles: O/U 10.5"
+    },
+    {
+      "timestamp": 1786061176.3047526,
+      "bankroll": 2427.6,
+      "event": "won: HomeRunHazard \u2014 Spread: Baltimore Orioles (-1.5)"
+    },
+    {
+      "timestamp": 1786061176.404901,
+      "bankroll": 2423.63,
+      "event": "lost: HomeRunHazard \u2014 Spread: Baltimore Orioles (-1.5)"
+    },
+    {
+      "timestamp": 1786061176.7949755,
+      "bankroll": 2421.16,
+      "event": "lost: HomeRunHazard \u2014 Spread: Baltimore Orioles (-2.5)"
+    },
+    {
+      "timestamp": 1786061177.1444776,
+      "bankroll": 2412.62,
+      "event": "lost: HomeRunHazard \u2014 Spread: Los Angeles Angels (-1.5)"
+    },
+    {
+      "timestamp": 1786061178.0499115,
+      "bankroll": 2406.81,
+      "event": "lost: HomeRunHazard \u2014 Pittsburgh Pirates vs. Milwaukee Brewers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786061178.1500463,
+      "bankroll": 2404.2,
+      "event": "lost: HomeRunHazard \u2014 Pittsburgh Pirates vs. Milwaukee Brewers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786061178.4505744,
+      "bankroll": 2401.59,
+      "event": "lost: HomeRunHazard \u2014 Pittsburgh Pirates vs. Milwaukee Brewers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786061179.1941419,
+      "bankroll": 2404.29,
+      "event": "won: HomeRunHazard \u2014 Detroit Tigers vs. Seattle Mariners: O/U 6.5"
+    },
+    {
+      "timestamp": 1786061179.512476,
+      "bankroll": 2486.87,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Angels vs. Baltimore Orioles: O/U 9.5"
+    },
+    {
+      "timestamp": 1786061180.3803973,
+      "bankroll": 2502.2,
+      "event": "won: HomeRunHazard \u2014 Pittsburgh Pirates vs. Milwaukee Brewers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786061180.4805927,
+      "bankroll": 2519.46,
+      "event": "won: HomeRunHazard \u2014 Pittsburgh Pirates vs. Milwaukee Brewers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786061181.0001543,
+      "bankroll": 2506.12,
+      "event": "lost: Talvez10 \u2014 Athletics vs. Cincinnati Reds: O/U 9.5"
+    },
+    {
+      "timestamp": 1786061181.100298,
+      "bankroll": 2485.36,
+      "event": "lost: Talvez10 \u2014 Athletics vs. Cincinnati Reds: O/U 9.5"
+    },
+    {
+      "timestamp": 1786061181.2004373,
+      "bankroll": 2464.6,
+      "event": "lost: Talvez10 \u2014 Athletics vs. Cincinnati Reds: O/U 9.5"
+    },
+    {
+      "timestamp": 1786061181.7998416,
+      "bankroll": 2449.91,
+      "event": "lost: HomeRunHazard \u2014 New York Mets vs. Cleveland Guardians: O/U 7.5"
+    },
+    {
+      "timestamp": 1786061182.4007404,
+      "bankroll": 2435.71,
+      "event": "lost: HomeRunHazard \u2014 New York Mets vs. Cleveland Guardians: O/U 8.5"
+    },
+    {
+      "timestamp": 1786061182.7912505,
+      "bankroll": 2414.6,
+      "event": "lost: HomeRunHazard \u2014 New York Mets vs. Cleveland Guardians: O/U 6.5"
+    },
+    {
+      "timestamp": 1786061182.9915578,
+      "bankroll": 2407.6,
+      "event": "lost: HomeRunHazard \u2014 New York Mets vs. Cleveland Guardians: O/U 6.5"
+    },
+    {
+      "timestamp": 1786061183.0916748,
+      "bankroll": 2351.79,
+      "event": "lost: texaskid \u2014 New York Mets vs. Cleveland Guardians: O/U 7.5"
+    },
+    {
+      "timestamp": 1786061183.1918495,
+      "bankroll": 2345.97,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Angels vs. Baltimore Orioles: O/U 10.5"
+    },
+    {
+      "timestamp": 1786061183.2921813,
+      "bankroll": 2331.26,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Angels vs. Baltimore Orioles: O/U 10.5"
+    },
+    {
+      "timestamp": 1786061183.7993922,
+      "bankroll": 2270.99,
+      "event": "lost: HomeRunHazard \u2014 Athletics vs. Cincinnati Reds: O/U 10.5"
+    },
+    {
+      "timestamp": 1786061184.3968258,
+      "bankroll": 2255.64,
+      "event": "lost: HomeRunHazard \u2014 Athletics vs. Cincinnati Reds: O/U 8.5"
+    },
+    {
+      "timestamp": 1786061184.4970014,
+      "bankroll": 773.75,
+      "event": "lost: texaskid \u2014 Athletics vs. Cincinnati Reds: O/U 9.5"
+    },
+    {
+      "timestamp": 1786061184.6973271,
+      "bankroll": 859.02,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Athletics vs. Cincinnati Reds: O/U 9.5"
+    },
+    {
+      "timestamp": 1786061184.7975004,
+      "bankroll": 859.02,
+      "event": "lost: HomeRunHazard \u2014 New York Mets vs. Cleveland Guardians: O/U 7.5"
     }
   ]
 }
