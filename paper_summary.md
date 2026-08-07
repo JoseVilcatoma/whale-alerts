@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 22:28:19 (hora de Perú)
+Actualizado: 2026-08-06 22:30:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $978.04
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 17 | 14 | 6 | +150.71 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
-| swisstony | 17 | 10 | 110 | -15.21 USD |
+| swisstony | 17 | 10 | 111 | -15.21 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 16 | 15 | 3 | -57.94 USD |
 | HomeRunHazard | 40 | 42 | 13 | -82.72 USD |
@@ -49,6 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-oak-cin-2026-08-06-total-9pt5 | Talvez10, texaskid, wr0ngw4yb3tt0r |
 | mlb-cws-bos-2026-08-06-total-8pt5 | HomeRunHazard, swisstony |
 | mlb-nym-cle-2026-08-06-total-7pt5 | HomeRunHazard, texaskid |
+| mlb-cws-bos-2026-08-06-spread-away-1pt5 | swisstony, wr0ngw4yb3tt0r |
 | brco-cp-int-2026-08-06-total-3pt5 | RN1, swisstony |
 | mlb-cws-bos-2026-08-06-spread-away-2pt5 | RN1, swisstony |
 | mlb-min-kc-2026-08-06-spread-home-1pt5 | RN1, swisstony |
@@ -57,6 +58,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 18% | 1.23 | ⏳ pendiente | — |
 | swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 53% | 1.32 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. PortlandFire | PortlandFire (BUY) | 92% | 1.62 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 185 | Under (BUY) | 56% | 4.68 | ⏳ pendiente | — |
@@ -86,4 +88,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Miami Marlins vs. Atlanta Braves: O/U 10 | Over (BUY) | 72% | 2.36 | ✅ ganada | +0.92 |
 | swisstony | Spread: Minnesota Lynx (-15.5) | Los Angeles Sparks (BUY) | 82% | 1.00 | ⏳ pendiente | — |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx | Minnesota Lynx (BUY) | 91% | 1.33 | ⏳ pendiente | — |
-| swisstony | Toronto Tempo vs. Portland Fire: O/U 188 | Over (BUY) | 50% | 1.47 | ⏳ pendiente | — |
