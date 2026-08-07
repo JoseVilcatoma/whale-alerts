@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 12:18:30 (hora de Perú)
+Actualizado: 2026-08-07 12:20:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $777.42
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 7 | 0 | -11.30 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 203 | 145 | 81 | -103.44 USD |
+| swisstony | 203 | 145 | 83 | -103.44 USD |
 | RN1 | 30 | 21 | 0 | -103.62 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
@@ -67,6 +67,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Over (BUY) | 69% | 3.91 | ⏳ pendiente | — |
+| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | No (BUY) | 50% | 0.95 | ⏳ pendiente | — |
 | swisstony | Will FC Slovan Liberec win on 2026-08-07 | No (BUY) | 65% | 1.06 | ⏳ pendiente | — |
 | swisstony | Will Seinajoen JK win on 2026-08-07? | No (BUY) | 81% | 2.02 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | No (BUY) | 47% | 0.86 | ⏳ pendiente | — |
@@ -95,5 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Sandefjord Fotball (-2.5) | KFUM-Kameratene Oslo (BUY) | 91% | 3.34 | ⏳ pendiente | — |
 | swisstony | Will Harju JK Laagri win on 2026-08-07? | No (BUY) | 65% | 1.24 | ⏳ pendiente | — |
 | swisstony | Will CA Aldosivi win on 2026-08-07? | No (BUY) | 89% | 2.03 | ⏳ pendiente | — |
-| swisstony | Spread: Sandefjord Fotball (-1.5) | KFUM-Kameratene Oslo (BUY) | 78% | 1.92 | ⏳ pendiente | — |
-| swisstony | MTK Budapest vs. Puskas Akademia FC Felc | Over (BUY) | 85% | 0.85 | ⏳ pendiente | — |
