@@ -15591,5 +15591,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786125368.2759438,
     "fills": 2
+  },
+  {
+    "timestamp": 1786125563,
+    "timestamp_added": 1786125564.046008,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "ned2-emm-rod-2026-08-07-rod",
+    "title": "Will Roda JC Kerkrade win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 533.689999,
+    "whale_pct": 0.311,
+    "paper_stake_usd": 2.41,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786125564.046016,
+    "fills": 1
   }
 ]

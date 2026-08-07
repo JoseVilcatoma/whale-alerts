@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 12:57:55 (hora de Perú)
+Actualizado: 2026-08-07 13:00:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $776.46
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | RN1 | 30 | 21 | 0 | -103.62 USD |
-| swisstony | 205 | 146 | 107 | -104.41 USD |
+| swisstony | 205 | 146 | 108 | -104.41 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -67,6 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Roda JC Kerkrade win on 2026-08-07? | No (BUY) | 59% | 2.41 | ⏳ pendiente | — |
 | swisstony | Vitesse Arnhem vs. RKC Waalwijk: O/U 3.5 | Under (BUY) | 64% | 3.32 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Over (BUY) | 51% | 1.72 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Over (BUY) | 82% | 1.40 | ⏳ pendiente | — |
@@ -96,4 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 59% | 1.09 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Over (BUY) | 69% | 3.91 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | No (BUY) | 50% | 0.95 | ⏳ pendiente | — |
-| swisstony | Will FC Slovan Liberec win on 2026-08-07 | No (BUY) | 65% | 1.06 | ⏳ pendiente | — |
