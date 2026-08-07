@@ -1,5 +1,5 @@
 {
-  "bankroll": 779.1337302668184,
+  "bankroll": 761.3237302668183,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3885,6 +3885,36 @@
       "timestamp": 1786127586.1111605,
       "bankroll": 779.13,
       "event": "won: swisstony \u2014 Lokomotiv Tashkent vs. PFK Dinamo Samarqand: O/U 4.5"
+    },
+    {
+      "timestamp": 1786127649.9659338,
+      "bankroll": 779.13,
+      "event": "won: swisstony \u2014 Lokomotiv Tashkent vs. PFK Dinamo Samarqand: O/U 0.5"
+    },
+    {
+      "timestamp": 1786127650.3019547,
+      "bankroll": 755.43,
+      "event": "lost: swisstony \u2014 Lokomotiv Tashkent vs. PFK Dinamo Samarqand: O/U 3.5"
+    },
+    {
+      "timestamp": 1786127650.40232,
+      "bankroll": 759.07,
+      "event": "won: swisstony \u2014 Lokomotiv Tashkent vs. PFK Dinamo Samarqand: O/U 3.5"
+    },
+    {
+      "timestamp": 1786127650.803489,
+      "bankroll": 756.81,
+      "event": "lost: swisstony \u2014 Lokomotiv Tashkent vs. PFK Dinamo Samarqand: O/U 3.5"
+    },
+    {
+      "timestamp": 1786127651.4047394,
+      "bankroll": 762.29,
+      "event": "won: swisstony \u2014 Lokomotiv Tashkent vs. PFK Dinamo Samarqand: O/U 3.5"
+    },
+    {
+      "timestamp": 1786127652.1898744,
+      "bankroll": 761.32,
+      "event": "lost: swisstony \u2014 Lokomotiv Tashkent vs. PFK Dinamo Samarqand: O/U 3.5"
     }
   ]
 }
