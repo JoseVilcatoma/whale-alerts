@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 07:48:35 (hora de Perú)
+Actualizado: 2026-08-07 07:50:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.40
@@ -17,11 +17,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | wr0ngw4yb3tt0r | 20 | 17 | 0 | +123.77 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 8 | +0.00 USD |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 9 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 86 | 54 | 181 | -30.11 USD |
-| RN1 | 20 | 16 | 7 | -52.75 USD |
+| swisstony | 86 | 54 | 182 | -30.11 USD |
+| RN1 | 20 | 16 | 10 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
@@ -66,7 +66,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 79% | 1.60 | ⏳ pendiente | — |
+| RN1 | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 77% | 0.97 | ⏳ pendiente | — |
+| swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 48% | 1.24 | ⏳ pendiente | — |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Top Esports - Ga | Bilibili Gaming (BUY) | 61% | 1.03 | ⏳ pendiente | — |
+| RN1 | Will Bayern Munich win on 2026-08-07? | No (BUY) | 23% | 4.63 | ⏳ pendiente | — |
+| RN1 | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 79% | 3.05 | ⏳ pendiente | — |
+| swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 79% | 4.01 | ⏳ pendiente | — |
 | swisstony | Spread: Bayern Munich (-1.5) | Bayern Munich (BUY) | 41% | 1.07 | ⏳ pendiente | — |
 | swisstony | Spread: Bayern Munich (-1.5) | Bayern Munich (BUY) | 41% | 1.07 | ⏳ pendiente | — |
 | RN1 | Will Bayern Munich win on 2026-08-07? | No (BUY) | 26% | 0.96 | ⏳ pendiente | — |
@@ -91,8 +96,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Bayern Munich win on 2026-08-07? | Yes (BUY) | 50% | 1.05 | ⏳ pendiente | — |
 | swisstony | Aston Villa vs. Bayern Munich: O/U 5.5 | Under (BUY) | 97% | 4.89 | ⏳ pendiente | — |
 | swisstony | Will Aston Villa win on 2026-08-07? | No (BUY) | 78% | 1.41 | ⏳ pendiente | — |
-| swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 14% | 1.03 | ⏳ pendiente | — |
-| swisstony | Spread: Bayern Munich (-1.5) | Aston Villa (BUY) | 76% | 1.51 | ⏳ pendiente | — |
-| swisstony | Spread: Bayern Munich (-1.5) | Aston Villa (BUY) | 75% | 3.05 | ⏳ pendiente | — |
-| swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 53% | 0.94 | ⏳ pendiente | — |
-| swisstony | Spread: Bayern Munich (-1.5) | Aston Villa (BUY) | 74% | 1.02 | ⏳ pendiente | — |
