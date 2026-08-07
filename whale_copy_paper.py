@@ -83,6 +83,7 @@ MIN_WHALE_PORTFOLIO = float(os.environ.get("MIN_WHALE_PORTFOLIO", "2000"))
 MAX_DAYS_TO_RESOLUTION = float(os.environ.get("MAX_DAYS_TO_RESOLUTION", "1"))  # solo mercados que resuelven el mismo día
 MIN_SHORT_TERM_SHARE = float(os.environ.get("MIN_SHORT_TERM_SHARE", "0.5"))  # % mínimo de sus apuestas recientes que deben ser de corto plazo
 ACTIVITY_SAMPLE_SIZE = int(os.environ.get("ACTIVITY_SAMPLE_SIZE", "10"))  # cuántas apuestas recientes de cada candidato se revisan
+FILL_MERGE_WINDOW_SECONDS = float(os.environ.get("FILL_MERGE_WINDOW_SECONDS", "15"))  # fusiona fills de la misma compra dentro de esta ventana
 LB_CATEGORY = os.environ.get("LB_CATEGORY", "OVERALL")
 LB_PERIODS = ["WEEK", "MONTH"]
 
@@ -440,6 +441,8 @@ def log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, 
             "profit_usd": 0.0,
             "overlaps_with": same_day_others,
             "recortado_por_bankroll": recortado,
+            "last_fill_at": time.time(),
+            "fills": 1,
         })
         trades_dirty = True
 
@@ -596,9 +599,54 @@ def on_ws_message(ws, message):
         print(f"🧪 PAPER — {username}: se ignora, no es un mercado de deportes/esports — {trade.get('title')}")
         return
 
+    merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds)
+
+
+def merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds):
+    """Si la misma ballena ya tiene una compra reciente (dentro de
+    FILL_MERGE_WINDOW_SECONDS) en el mismo mercado+resultado, la suma a esa
+    posición en vez de abrir una nueva — así una compra grande que Polymarket
+    ejecuta en varios pedacitos no compite contra sí misma por el bankroll
+    disponible."""
+    global trades_dirty
+    slug = trade.get("slug")
+    outcome = trade.get("outcome")
+    now = time.time()
+
     with lock:
+        existente = next((tr for tr in trades if tr["status"] == "pending" and tr["wallet"] == wallet
+                           and tr["slug"] == slug and tr["outcome"] == outcome and tr.get("side") == "BUY"
+                           and now - tr.get("last_fill_at", tr["timestamp_added"]) < FILL_MERGE_WINDOW_SECONDS), None)
         allocated = sum(tr["paper_stake_usd"] for tr in trades if tr["status"] == "pending")
-    available = max(0.0, bankroll - allocated)
+
+    if existente:
+        combined_whale_usd = existente["whale_usd"] + whale_usd
+        whale_value = get_portfolio_value(wallet)
+        combined_pct = combined_whale_usd / whale_value * 100 if whale_value else whale_pct
+        desired_total = combined_pct / 100 * bankroll
+        available = max(0.0, bankroll - allocated)
+        faltante = max(0.0, desired_total - existente["paper_stake_usd"])
+        adicional = min(faltante, available)
+        nuevo_stake_total = existente["paper_stake_usd"] + adicional
+        nuevo_odds = odds
+        if nuevo_stake_total > 0:
+            nuevo_odds = round((existente["paper_stake_usd"] * existente["odds_at_bet"] + adicional * odds) / nuevo_stake_total)
+        with lock:
+            existente["paper_stake_usd"] = round(nuevo_stake_total, 2)
+            existente["whale_usd"] = combined_whale_usd
+            existente["whale_pct"] = round(combined_pct, 3)
+            existente["odds_at_bet"] = nuevo_odds
+            existente["last_fill_at"] = now
+            existente["fills"] = existente.get("fills", 1) + 1
+            if adicional < faltante:
+                existente["recortado_por_bankroll"] = True
+            trades_dirty = True
+        print(f"🧪 PAPER — {username}: fill adicional fusionado en {trade.get('title')} "
+              f"(+${adicional:,.2f}, total ${nuevo_stake_total:,.2f}, {existente['fills']} fills)")
+        return
+
+    with lock:
+        available = max(0.0, bankroll - allocated)
     desired_stake = whale_pct / 100 * bankroll
     recortado = desired_stake > available
     paper_stake = min(desired_stake, available)
