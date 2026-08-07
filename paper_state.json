@@ -1,5 +1,5 @@
 {
-  "bankroll": 933.9671321898157,
+  "bankroll": 934.4017663361572,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2085,6 +2085,11 @@
       "timestamp": 1786074029.5337832,
       "bankroll": 933.97,
       "event": "lost: swisstony \u2014 New York City FC vs. Club Santos Laguna: O/U 1.5"
+    },
+    {
+      "timestamp": 1786074092.6895788,
+      "bankroll": 934.4,
+      "event": "won: RN1 \u2014 EC Vit\u00f3ria vs. CA Paranaense: Both Teams to Score"
     }
   ]
 }
