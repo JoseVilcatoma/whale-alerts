@@ -9831,5 +9831,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786100290.089505,
     "fills": 1
+  },
+  {
+    "timestamp": 1786100381,
+    "timestamp_added": 1786100382.5459845,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "jap-gam-ura-2026-08-07-first-half-total-1pt5",
+    "title": "Gamba \u014csaka vs. Urawa Red Diamonds: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 268.569998,
+    "whale_pct": 0.285,
+    "paper_stake_usd": 2.6,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786100391.2396939,
+    "fills": 2
   }
 ]
