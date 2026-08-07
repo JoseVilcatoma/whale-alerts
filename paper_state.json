@@ -1,5 +1,5 @@
 {
-  "bankroll": 910.5192797957319,
+  "bankroll": 911.0236754001276,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2150,6 +2150,11 @@
       "timestamp": 1786075151.0473917,
       "bankroll": 910.52,
       "event": "lost: swisstony \u2014 Spread: Chicago White Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786075757.9715257,
+      "bankroll": 911.02,
+      "event": "won: swisstony \u2014 Spread: CF Cruz Azul (-2.5)"
     }
   ]
 }
