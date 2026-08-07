@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 12:12:16 (hora de Perú)
+Actualizado: 2026-08-07 12:14:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $777.42
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 7 | 0 | -11.30 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 203 | 145 | 73 | -103.44 USD |
+| swisstony | 203 | 145 | 76 | -103.44 USD |
 | RN1 | 30 | 21 | 0 | -103.62 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
@@ -67,6 +67,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 52% | 1.00 | ⏳ pendiente | — |
+| swisstony | Will MTK Budapest vs. Puskas Akademia FC | Yes (BUY) | 63% | 11.80 | ⏳ pendiente | — |
+| swisstony | Ostersunds FK vs. GIF Sundsvall: O/U 1.5 | Under (BUY) | 24% | 1.03 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | No (BUY) | 44% | 0.80 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 48% | 0.84 | ⏳ pendiente | — |
 | swisstony | Will Sandefjord Fotball vs. KFUM-Kamerat | Yes (BUY) | 27% | 1.04 | ⏳ pendiente | — |
@@ -94,6 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Lokomotiv Tashkent win on 2026-08-0 | Yes (BUY) | 81% | 1.93 | ⏳ pendiente | — |
 | swisstony | Will Harju JK Laagri win on 2026-08-07? | No (BUY) | 61% | 1.19 | ⏳ pendiente | — |
 | swisstony | SCR Altach vs. WSG Tirol: O/U 2.5 | Over (BUY) | 49% | 0.95 | ⏳ pendiente | — |
-| swisstony | Lokomotiv Tashkent vs. PFK Dinamo Samarq | Under (BUY) | 50% | 5.48 | ⏳ pendiente | — |
-| swisstony | Spread: Sandefjord Fotball (-1.5) | KFUM-Kameratene Oslo (BUY) | 77% | 1.85 | ⏳ pendiente | — |
-| swisstony | Will Lokomotiv Tashkent vs. PFK Dinamo S | No (BUY) | 79% | 8.79 | ⏳ pendiente | — |
