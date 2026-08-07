@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 22:55:14 (hora de Perú)
+Actualizado: 2026-08-06 22:57:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $932.20
-**Retorno acumulado:** -6.78%
+**Bankroll actual:** $931.72
+**Retorno acumulado:** -6.83%
 **Peor caída desde un máximo (drawdown):** 74.92%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,8 +19,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 0 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 30 | 24 | 86 | -39.90 USD |
-| RN1 | 17 | 15 | 4 | -57.51 USD |
+| swisstony | 32 | 25 | 83 | -43.55 USD |
+| RN1 | 18 | 15 | 3 | -54.34 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 41 | 45 | 9 | -97.57 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |

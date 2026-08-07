@@ -1,5 +1,5 @@
 {
-  "bankroll": 932.2017663361571,
+  "bankroll": 931.7176748574603,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2115,6 +2115,26 @@
       "timestamp": 1786074534.7281094,
       "bankroll": 932.2,
       "event": "won: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 Panthers vs. Cardinals"
+    },
+    {
+      "timestamp": 1786075018.6564786,
+      "bankroll": 932.76,
+      "event": "won: swisstony \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786075018.9245496,
+      "bankroll": 928.26,
+      "event": "lost: swisstony \u2014 Spread: Chicago White Sox (-2.5)"
+    },
+    {
+      "timestamp": 1786075019.024809,
+      "bankroll": 928.55,
+      "event": "won: swisstony \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786075019.2252314,
+      "bankroll": 931.72,
+      "event": "won: RN1 \u2014 Spread: Chicago White Sox (-2.5)"
     }
   ]
 }
