@@ -176818,5 +176818,77 @@
     "usd": 2466.28125,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786133130,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "wta-andreev-fernand-2026-08-08",
+    "title": "National Bank Open: Mirra Andreeva vs Leylah Fernandez",
+    "outcome": "Leylah Fernandez",
+    "side": "BUY",
+    "usd": 1264.14459,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786133130,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "val-100t1-c9-2026-08-07-map-handicap-away-1pt5",
+    "title": "Map Handicap: 100T (-1.5) vs Cloud9 (+1.5)",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 4560.0,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786133132,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-oak-bos-2026-08-07-total-8pt5",
+    "title": "Athletics vs. Boston Red Sox: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 1084.54,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786133174,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-th-fnc-2026-08-07",
+    "title": "LoL: Team Heretics vs Fnatic (BO3) - LEC Regular Season",
+    "outcome": "Team Heretics",
+    "side": "SELL",
+    "usd": 2097.7360000000003,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786133174,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-th-fnc-2026-08-07",
+    "title": "LoL: Team Heretics vs Fnatic (BO3) - LEC Regular Season",
+    "outcome": "Team Heretics",
+    "side": "SELL",
+    "usd": 1977.0405,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786133206,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-th-fnc-2026-08-07",
+    "title": "LoL: Team Heretics vs Fnatic (BO3) - LEC Regular Season",
+    "outcome": "Fnatic",
+    "side": "BUY",
+    "usd": 8418.936,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]

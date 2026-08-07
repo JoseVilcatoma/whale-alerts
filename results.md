@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 15:05:12 (hora de Perú)
+Actualizado: 2026-08-07 15:07:21 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
 | Spicer | 29 | 10 | 0 | 74% |
 | fazewinline | 23 | 8 | 0 | 74% |
-| one8tyfive | 49 | 18 | 13 | 73% |
+| one8tyfive | 49 | 18 | 14 | 73% |
 | Fallout3 | 16 | 6 | 0 | 73% |
 | 0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846 | 11 | 4 | 1 | 73% |
 | CentralCasting | 18 | 7 | 1 | 72% |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 13 | 6 | 0 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | ToeTickler98 | 10 | 5 | 0 | 67% |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 2 | 67% |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 4 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | UpTheBlues | 101 | 53 | 55 | 66% |
 | GoalLineGhost | 203 | 106 | 10 | 66% |
@@ -55,11 +55,11 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 159 | 85 | 8 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 8 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 9 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
 | quavoo | 7 | 4 | 3 | 64% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
-| ferrariChampions2026 | 2353 | 1534 | 45 | 61% |
+| ferrariChampions2026 | 2353 | 1534 | 46 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
 | HomeRunHazard | 480 | 304 | 26 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
@@ -84,7 +84,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 |  | 25 | 25 | 1 | 50% |
 | sbsigner | 42 | 45 | 0 | 48% |
 | VPenguin | 19 | 21 | 0 | 48% |
-| skyman44 | 11 | 12 | 0 | 48% |
+| skyman44 | 11 | 12 | 1 | 48% |
 | PASSTHEMONEY | 72 | 80 | 0 | 47% |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 50 | 3 | 47% |
 | Eztennis | 28 | 33 | 0 | 46% |
