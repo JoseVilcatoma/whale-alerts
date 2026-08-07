@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 06:25:29 (hora de Perú)
+Actualizado: 2026-08-07 06:27:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.40
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 0 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 86 | 54 | 84 | -30.11 USD |
+| swisstony | 86 | 54 | 86 | -30.11 USD |
 | RN1 | 20 | 16 | 3 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -63,6 +63,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Gamba Ōsaka vs. Urawa Red Diamonds: O/U  | Over (BUY) | 77% | 2.18 | ⏳ pendiente | — |
+| swisstony | Gamba Ōsaka vs. Urawa Red Diamonds: O/U  | Under (BUY) | 81% | 2.32 | ⏳ pendiente | — |
 | swisstony | Will Beijing Guoan FC vs. Shenzhen Xinpe | No (BUY) | 81% | 9.33 | ⏳ pendiente | — |
 | swisstony | Will Shenzhen Xinpengcheng FC win on 202 | No (BUY) | 84% | 2.91 | ⏳ pendiente | — |
 | swisstony | Gamba Ōsaka vs. Urawa Red Diamonds: O/U  | Over (BUY) | 52% | 2.08 | ⏳ pendiente | — |
@@ -91,5 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Over (BUY) | 57% | 1.26 | ⏳ pendiente | — |
 | swisstony | Gamba Ōsaka vs. Urawa Red Diamonds: O/U  | Over (BUY) | 64% | 7.94 | ⏳ pendiente | — |
 | swisstony | Gamba Ōsaka vs. Urawa Red Diamonds: O/U  | Under (BUY) | 60% | 1.09 | ⏳ pendiente | — |
-| swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Under (BUY) | 66% | 5.01 | ⏳ pendiente | — |
-| swisstony | Yokohama F·Marinos vs. Kashima Antlers:  | Over (BUY) | 87% | 16.74 | ⏳ pendiente | — |
