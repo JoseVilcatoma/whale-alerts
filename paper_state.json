@@ -1,5 +1,5 @@
 {
-  "bankroll": 944.5618049064501,
+  "bankroll": 933.0756824574705,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1845,6 +1845,16 @@
       "timestamp": 1786065156.966618,
       "bankroll": 944.56,
       "event": "won: swisstony \u2014 Washington Nationals vs. Philadelphia Phillies: O/U 10.5"
+    },
+    {
+      "timestamp": 1786068271.568385,
+      "bankroll": 949.0,
+      "event": "won: HomeRunHazard \u2014 Las Vegas Aces vs. Indiana Fever: O/U 193.5"
+    },
+    {
+      "timestamp": 1786068271.7687218,
+      "bankroll": 933.08,
+      "event": "lost: HomeRunHazard \u2014 Las Vegas Aces vs. Indiana Fever: O/U 193.5"
     }
   ]
 }
