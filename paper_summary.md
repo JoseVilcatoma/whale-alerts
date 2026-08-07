@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 19:56:47 (hora de Perú)
+Actualizado: 2026-08-06 19:58:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $859.02
@@ -18,8 +18,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 4 | 8 | 23 | -38.32 USD |
-| RN1 | 15 | 14 | 1 | -58.78 USD |
+| swisstony | 4 | 8 | 24 | -38.32 USD |
+| RN1 | 15 | 14 | 2 | -58.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 36 | 40 | 19 | -161.16 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
@@ -51,6 +51,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Minnesota Twins vs. Kansas City Royals:  | Under (BUY) | 54% | 4.78 | ⏳ pendiente | — |
+| swisstony | Spread: Boston Red Sox (-1.5) | Chicago White Sox (BUY) | 84% | 1.51 | ⏳ pendiente | — |
 | RN1 | EC Vitória vs. CA Paranaense: Both Teams | No (BUY) | 82% | 1.98 | ⏳ pendiente | — |
 | swisstony | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 22% | 4.50 | ⏳ pendiente | — |
 | swisstony | EC Vitória vs. CA Paranaense: O/U 3.5 | Under (BUY) | 71% | 2.90 | ⏳ pendiente | — |
@@ -79,5 +81,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Las Vegas Aces vs. Indiana Fever | Indiana Fever (BUY) | 57% | 0.92 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 48% | 20.21 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Athletics vs. Cincinnati Reds: O/U 9.5 | Over (BUY) | 45% | 69.77 | ✅ ganada | +85.27 |
-| HomeRunHazard | Las Vegas Aces vs. Indiana Fever: O/U 19 | Over (BUY) | 49% | 15.92 | ⏳ pendiente | — |
-| texaskid | Athletics vs. Cincinnati Reds: O/U 9.5 | Under (BUY) | 54% | 1,481.89 | ❌ perdida | -1,481.89 |
