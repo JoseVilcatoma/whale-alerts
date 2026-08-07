@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 18:35:35 (hora de Perú)
+Actualizado: 2026-08-07 18:39:21 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -55,18 +55,18 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 159 | 85 | 28 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 18 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 20 | 64% |
 | SDTrading | 7 | 4 | 4 | 64% |
 | quavoo | 7 | 4 | 21 | 64% |
-| Djdjdjekekek | 125 | 78 | 3 | 62% |
-| ferrariChampions2026 | 2353 | 1534 | 115 | 61% |
+| Djdjdjekekek | 125 | 78 | 4 | 62% |
+| ferrariChampions2026 | 2353 | 1534 | 117 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
-| HomeRunHazard | 480 | 304 | 87 | 61% |
+| HomeRunHazard | 480 | 304 | 88 | 61% |
 | Pwaddler | 9 | 6 | 4 | 60% |
 | SnakeBall | 3 | 2 | 5 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x4f2 | 23 | 16 | 2 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 39 | 58% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 40 | 58% |
 | us391 | 33 | 24 | 1 | 58% |
 | StasPanda | 26 | 19 | 10 | 58% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 54 | 39 | 11 | 58% |
