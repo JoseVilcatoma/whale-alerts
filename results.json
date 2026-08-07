@@ -174694,5 +174694,101 @@
     "usd": 4500.0,
     "odds_at_bet": 90,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786130345,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-zandsch-hurkacz-2026-08-07",
+    "title": "National Bank Open: Botic van de Zandschulp vs Hubert Hurkacz",
+    "outcome": "Hubert Hurkacz",
+    "side": "BUY",
+    "usd": 7372.4800000000005,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130345,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-zandsch-hurkacz-2026-08-07",
+    "title": "National Bank Open: Botic van de Zandschulp vs Hubert Hurkacz",
+    "outcome": "Hubert Hurkacz",
+    "side": "BUY",
+    "usd": 3144.32,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130345,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-zandsch-hurkacz-2026-08-07",
+    "title": "National Bank Open: Botic van de Zandschulp vs Hubert Hurkacz",
+    "outcome": "Hubert Hurkacz",
+    "side": "BUY",
+    "usd": 5357.8752,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130345,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "atp-zandsch-hurkacz-2026-08-07",
+    "title": "National Bank Open: Botic van de Zandschulp vs Hubert Hurkacz",
+    "outcome": "Botic van de Zandschulp",
+    "side": "BUY",
+    "usd": 9000.0,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130348,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-andreev-fernand-2026-08-08",
+    "title": "National Bank Open: Mirra Andreeva vs Leylah Fernandez",
+    "outcome": "Leylah Fernandez",
+    "side": "BUY",
+    "usd": 12018.5884,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130391,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-ilagan-gorzny-2026-08-07",
+    "title": "Lexington: Andre Ilagan vs Sebastian Gorzny",
+    "outcome": "Sebastian Gorzny",
+    "side": "BUY",
+    "usd": 1219.0700000000002,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130392,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-ilagan-gorzny-2026-08-07",
+    "title": "Lexington: Andre Ilagan vs Sebastian Gorzny",
+    "outcome": "Sebastian Gorzny",
+    "side": "BUY",
+    "usd": 1205.0008,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130408,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bl2-boc-ber-2026-08-07-draw",
+    "title": "Will VfL Bochum vs. Hertha BSC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1529.95,
+    "odds_at_bet": 74,
+    "status": "pending"
   }
 ]
