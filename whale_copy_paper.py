@@ -153,7 +153,7 @@ def get_market(slug, max_age=300):
         if time.time() - fetched_at < max_age:
             return m
     try:
-        r = requests.get(f"{GAMMA_API}/markets/slug/{slug}", timeout=8)
+        r = requests.get(f"{GAMMA_API}/markets/slug/{slug}", params={"include_tag": "true"}, timeout=8)
         m = r.json() if r.ok else None
     except Exception:
         m = None
@@ -195,11 +195,17 @@ SPORT_KEYWORDS = [
 
 
 def is_sports_market(market):
-    """Detecta si un mercado es de deportes/esports. Primero mira las
-    etiquetas (tags) que pone Polymarket; si no están disponibles, busca
-    palabras clave de deportes en el título/slug como respaldo."""
+    """Detecta si un mercado es de deportes/esports. Polymarket marca
+    internamente los mercados deportivos con un campo 'sports' — si está
+    presente, es 100% seguro que es deporte, sin importar el idioma del
+    título o de qué liga se trate (esto es lo que hacía que ligas de
+    fútbol fuera de las 5-6 grandes que tenía a mano, como el Brasileirão,
+    se colaran como "no deportivo"). Las etiquetas y palabras clave quedan
+    como respaldo por si ese campo no viene en la respuesta."""
     if not market:
         return False
+    if market.get("sports"):
+        return True
     tags = market.get("tags") or []
     for t in tags:
         label = (t.get("label") or t.get("slug") or "") if isinstance(t, dict) else str(t)
