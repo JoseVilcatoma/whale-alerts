@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 22:34:32 (hora de Perú)
+Actualizado: 2026-08-06 22:36:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $978.04
-**Retorno acumulado:** -2.20%
+**Bankroll actual:** $982.76
+**Retorno acumulado:** -1.72%
 **Peor caída desde un máximo (drawdown):** 74.92%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 1 | +0.00 USD |
-| swisstony | 17 | 10 | 113 | -15.21 USD |
+| swisstony | 20 | 11 | 109 | -10.49 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 16 | 15 | 3 | -57.94 USD |
 | HomeRunHazard | 40 | 42 | 13 | -82.72 USD |
@@ -83,8 +83,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Austin FC (-1.5) | Austin FC (BUY) | 88% | 4.56 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 185 | Over (BUY) | 58% | 1.93 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. PortlandFire | PortlandFire (BUY) | 84% | 1.63 | ⏳ pendiente | — |
-| swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 84% | 3.91 | ⏳ pendiente | — |
-| swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 85% | 1.17 | ⏳ pendiente | — |
+| swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 84% | 3.91 | ✅ ganada | +0.74 |
+| swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 85% | 1.17 | ✅ ganada | +0.21 |
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Under (BUY) | 44% | 2.56 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 51% | 0.98 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 50% | 6.95 | ⏳ pendiente | — |
