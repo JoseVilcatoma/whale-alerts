@@ -1,5 +1,5 @@
 {
-  "bankroll": 954.4187116065921,
+  "bankroll": 958.490563458444,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -1900,6 +1900,11 @@
       "timestamp": 1786071145.036208,
       "bankroll": 954.42,
       "event": "won: swisstony \u2014 Spread: Kansas City Royals (-1.5)"
+    },
+    {
+      "timestamp": 1786071205.1876087,
+      "bankroll": 958.49,
+      "event": "won: RN1 \u2014 Minnesota Twins vs. Kansas City Royals: O/U 8.5"
     }
   ]
 }
