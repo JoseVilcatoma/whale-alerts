@@ -2,7 +2,13 @@
   "0x204f72f35326db932158cba6adff0b9a1da95e14": {
     "username": "swisstony",
     "added_at": 1786061201.9172084,
-    "roi_pct": 136.51,
-    "short_term_pct": 80.0
+    "roi_pct": 123.24,
+    "short_term_pct": 90.0
+  },
+  "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
+    "username": "RN1",
+    "added_at": 1786063897.63746,
+    "roi_pct": 132.15,
+    "short_term_pct": 60.0
   }
 }
