@@ -84,6 +84,7 @@ MAX_DAYS_TO_RESOLUTION = float(os.environ.get("MAX_DAYS_TO_RESOLUTION", "1"))  #
 MIN_SHORT_TERM_SHARE = float(os.environ.get("MIN_SHORT_TERM_SHARE", "0.5"))  # % mínimo de sus apuestas recientes que deben ser de corto plazo
 ACTIVITY_SAMPLE_SIZE = int(os.environ.get("ACTIVITY_SAMPLE_SIZE", "10"))  # cuántas apuestas recientes de cada candidato se revisan
 FILL_MERGE_WINDOW_SECONDS = float(os.environ.get("FILL_MERGE_WINDOW_SECONDS", "15"))  # fusiona fills de la misma compra dentro de esta ventana
+ALLTIME_TOP_N = int(os.environ.get("ALLTIME_TOP_N", "300"))  # exige aparecer entre los N mejores históricos (toda la vida), no solo semana/mes
 LB_CATEGORY = os.environ.get("LB_CATEGORY", "OVERALL")
 LB_PERIODS = ["WEEK", "MONTH"]
 
@@ -247,6 +248,27 @@ def get_leaderboard_period(period):
     return r.json()
 
 
+def get_alltime_profitable_wallets(limit=ALLTIME_TOP_N):
+    """Trae el ranking histórico completo (toda la vida en Polymarket, no
+    solo semana/mes) y devuelve el set de wallets que aparecen ahí — es
+    decir, gente con ganancia neta sostenida a largo plazo, no solo una
+    buena racha reciente. Alguien como texaskid (-74.9% de ROI histórico)
+    nunca aparecería acá, aunque haya tenido un mes espectacular.
+    Devuelve None si la consulta falla, para no bloquear a todo el mundo
+    por un error de red pasajero."""
+    try:
+        r = requests.get(
+            f"{DATA_API}/v1/leaderboard",
+            params={"category": LB_CATEGORY, "timePeriod": "ALL", "orderBy": "PNL", "limit": limit},
+            timeout=15,
+        )
+        r.raise_for_status()
+        return {(t.get("proxyWallet") or "").lower() for t in r.json() if t.get("proxyWallet")}
+    except Exception as e:
+        print(f"Error trayendo ranking histórico (ALL): {e}", file=sys.stderr)
+        return None
+
+
 def get_recent_trades(wallet, limit=ACTIVITY_SAMPLE_SIZE):
     try:
         r = requests.get(
@@ -295,9 +317,11 @@ def short_term_trade_ratio(wallet):
 
 def compute_top5_by_roi():
     """Junta candidatos de semana+mes (por PnL en $, igual que el bot de
-    alertas), descarta a los de portafolio muy chico (artefacto de %) y a
-    los que no operan mayormente en corto plazo, y de los que quedan se
-    queda con los 5 mejores por % de rendimiento real."""
+    alertas), descarta a los de portafolio muy chico (artefacto de %), a
+    los que no operan mayormente en corto plazo, y a los que no tienen un
+    historial ganador sostenido a largo plazo (evita casos como texaskid:
+    buen mes puntual viniendo de un historial muy negativo). De los que
+    quedan, se queda con los 5 mejores por % de rendimiento reciente."""
     candidates = {}
     for period in LB_PERIODS:
         try:
@@ -309,12 +333,17 @@ def compute_top5_by_roi():
         except Exception as e:
             print(f"Error trayendo ranking de {period}: {e}", file=sys.stderr)
 
+    alltime_ok = get_alltime_profitable_wallets()
+
     scored = []
     for w, t in candidates.items():
         pnl = t.get("pnl")
         value = get_portfolio_value(w)
         if pnl is None or not value or value < MIN_WHALE_PORTFOLIO:
             continue  # portafolio casi vacío -> el % se dispara sin ser real habilidad, se descarta
+
+        if alltime_ok is not None and w not in alltime_ok:
+            continue  # buen mes/semana puntual, pero sin historial ganador sostenido a largo plazo
 
         ratio = short_term_trade_ratio(w)
         if ratio is None or ratio < MIN_SHORT_TERM_SHARE:
