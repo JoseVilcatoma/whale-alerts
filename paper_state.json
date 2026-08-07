@@ -1,5 +1,5 @@
 {
-  "bankroll": 906.9293475895561,
+  "bankroll": 896.0500118344963,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2660,6 +2660,91 @@
       "timestamp": 1786107165.0798407,
       "bankroll": 906.93,
       "event": "lost: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 3.5"
+    },
+    {
+      "timestamp": 1786107215.7723877,
+      "bankroll": 904.33,
+      "event": "lost: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1786107216.3614743,
+      "bankroll": 898.02,
+      "event": "lost: swisstony \u2014 Will Yokohama F\u00b7Marinos win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786107216.4616694,
+      "bankroll": 891.83,
+      "event": "lost: swisstony \u2014 Will Yokohama F\u00b7Marinos win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786107217.4633045,
+      "bankroll": 891.83,
+      "event": "won: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1786107218.9548082,
+      "bankroll": 894.68,
+      "event": "won: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107219.0549867,
+      "bankroll": 896.44,
+      "event": "won: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107219.3555021,
+      "bankroll": 894.96,
+      "event": "lost: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107219.4556665,
+      "bankroll": 896.0,
+      "event": "won: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107220.690642,
+      "bankroll": 894.28,
+      "event": "lost: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107220.991109,
+      "bankroll": 890.53,
+      "event": "lost: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107221.3917844,
+      "bankroll": 889.31,
+      "event": "lost: swisstony \u2014 Will Yokohama F\u00b7Marinos win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786107224.786827,
+      "bankroll": 888.34,
+      "event": "lost: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 4.5"
+    },
+    {
+      "timestamp": 1786107280.355106,
+      "bankroll": 896.53,
+      "event": "won: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 5.5"
+    },
+    {
+      "timestamp": 1786107280.7557313,
+      "bankroll": 894.21,
+      "event": "lost: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 5.5"
+    },
+    {
+      "timestamp": 1786107286.2536802,
+      "bankroll": 901.17,
+      "event": "won: swisstony \u2014 Will Gamba \u014csaka vs. Urawa Red Diamonds end in a draw?"
+    },
+    {
+      "timestamp": 1786107287.849326,
+      "bankroll": 897.11,
+      "event": "lost: swisstony \u2014 Will Gamba \u014csaka vs. Urawa Red Diamonds end in a draw?"
+    },
+    {
+      "timestamp": 1786107288.736468,
+      "bankroll": 896.05,
+      "event": "lost: swisstony \u2014 Will Gamba \u014csaka vs. Urawa Red Diamonds end in a draw?"
     }
   ]
 }
