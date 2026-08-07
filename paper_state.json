@@ -1,5 +1,5 @@
 {
-  "bankroll": 761.3869750670272,
+  "bankroll": 796.4383356534288,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3935,6 +3935,716 @@
       "timestamp": 1786129396.2032208,
       "bankroll": 761.39,
       "event": "won: swisstony \u2014 Xorazm Fk Urganch vs. PFK Mash AL Mubarek: O/U 3.5"
+    },
+    {
+      "timestamp": 1786146093.842862,
+      "bankroll": 762.83,
+      "event": "won: swisstony \u2014 Will MTK Budapest win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146093.9430616,
+      "bankroll": 763.65,
+      "event": "won: swisstony \u2014 Will MTK Budapest win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146094.566861,
+      "bankroll": 763.65,
+      "event": "won: swisstony \u2014 MTK Budapest vs. Puskas Akademia FC Felcsut: O/U 0.5"
+    },
+    {
+      "timestamp": 1786146094.667039,
+      "bankroll": 765.25,
+      "event": "won: swisstony \u2014 Will MTK Budapest win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146094.9675717,
+      "bankroll": 764.19,
+      "event": "lost: swisstony \u2014 Seinajoen JK vs. IF Gnistan: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786146095.2949765,
+      "bankroll": 764.74,
+      "event": "won: swisstony \u2014 Spread: Sandefjord Fotball (-1.5)"
+    },
+    {
+      "timestamp": 1786146095.6190648,
+      "bankroll": 765.73,
+      "event": "won: swisstony \u2014 SCR Altach vs. WSG Tirol: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146095.9277298,
+      "bankroll": 766.49,
+      "event": "won: swisstony \u2014 Will Harju JK Laagri win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146096.0278745,
+      "bankroll": 766.54,
+      "event": "won: swisstony \u2014 Will MTK Budapest win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146096.35695,
+      "bankroll": 766.69,
+      "event": "won: swisstony \u2014 MTK Budapest vs. Puskas Akademia FC Felcsut: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146096.4571428,
+      "bankroll": 767.23,
+      "event": "won: swisstony \u2014 Spread: Sandefjord Fotball (-1.5)"
+    },
+    {
+      "timestamp": 1786146096.8736844,
+      "bankroll": 767.9,
+      "event": "won: swisstony \u2014 Will Harju JK Laagri win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146097.190249,
+      "bankroll": 768.23,
+      "event": "won: swisstony \u2014 Spread: Sandefjord Fotball (-2.5)"
+    },
+    {
+      "timestamp": 1786146097.5111375,
+      "bankroll": 768.55,
+      "event": "won: swisstony \u2014 Will WSG Tirol win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146097.8394256,
+      "bankroll": 770.25,
+      "event": "won: swisstony \u2014 Will MTK Budapest vs. Puskas Akademia FC Felcsut end in a draw?"
+    },
+    {
+      "timestamp": 1786146098.1701462,
+      "bankroll": 769.24,
+      "event": "lost: swisstony \u2014 Seinajoen JK vs. IF Gnistan: O/U 4.5"
+    },
+    {
+      "timestamp": 1786146098.2703147,
+      "bankroll": 769.61,
+      "event": "won: swisstony \u2014 Will Harju JK Laagri win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146098.5904415,
+      "bankroll": 770.33,
+      "event": "won: swisstony \u2014 Will Sandefjord Fotball win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146098.6906004,
+      "bankroll": 771.23,
+      "event": "won: swisstony \u2014 Will Sandefjord Fotball win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146098.9927409,
+      "bankroll": 770.41,
+      "event": "lost: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 1.5"
+    },
+    {
+      "timestamp": 1786146099.3302753,
+      "bankroll": 771.45,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 3.5"
+    },
+    {
+      "timestamp": 1786146099.6593337,
+      "bankroll": 773.83,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146099.7594419,
+      "bankroll": 774.85,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 3.5"
+    },
+    {
+      "timestamp": 1786146099.8596084,
+      "bankroll": 775.78,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146099.9598093,
+      "bankroll": 778.91,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146100.2676275,
+      "bankroll": 777.87,
+      "event": "lost: swisstony \u2014 Will Sandefjord Fotball vs. KFUM-Kameratene Oslo end in a draw?"
+    },
+    {
+      "timestamp": 1786146100.3678048,
+      "bankroll": 778.78,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146100.7035584,
+      "bankroll": 779.8,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786146101.0596004,
+      "bankroll": 783.06,
+      "event": "won: swisstony \u2014 Ostersunds FK vs. GIF Sundsvall: O/U 1.5"
+    },
+    {
+      "timestamp": 1786146101.1597953,
+      "bankroll": 771.26,
+      "event": "lost: swisstony \u2014 Will MTK Budapest vs. Puskas Akademia FC Felcsut end in a draw?"
+    },
+    {
+      "timestamp": 1786146101.2599943,
+      "bankroll": 772.19,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146101.3601952,
+      "bankroll": 769.95,
+      "event": "lost: swisstony \u2014 Ostersunds FK vs. GIF Sundsvall: O/U 1.5"
+    },
+    {
+      "timestamp": 1786146101.68724,
+      "bankroll": 768.76,
+      "event": "lost: swisstony \u2014 Will FC Slovan Liberec win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146101.787434,
+      "bankroll": 769.73,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786146102.088179,
+      "bankroll": 770.2,
+      "event": "won: swisstony \u2014 Will Seinajoen JK win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146102.1883247,
+      "bankroll": 769.14,
+      "event": "lost: swisstony \u2014 Will FC Slovan Liberec win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146102.2885218,
+      "bankroll": 770.09,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786146102.3887212,
+      "bankroll": 766.18,
+      "event": "lost: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 1.5"
+    },
+    {
+      "timestamp": 1786146102.4888904,
+      "bankroll": 766.94,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146102.5890863,
+      "bankroll": 765.0,
+      "event": "lost: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786146102.6892765,
+      "bankroll": 767.0,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786146103.0110986,
+      "bankroll": 771.37,
+      "event": "won: swisstony \u2014 Will IF Gnistan win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146103.1113305,
+      "bankroll": 772.95,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 1.5"
+    },
+    {
+      "timestamp": 1786146103.2115426,
+      "bankroll": 774.51,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 1.5"
+    },
+    {
+      "timestamp": 1786146103.5571413,
+      "bankroll": 771.83,
+      "event": "lost: swisstony \u2014 Will KFUM-Kameratene Oslo win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146103.657315,
+      "bankroll": 772.32,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 3.5"
+    },
+    {
+      "timestamp": 1786146103.757525,
+      "bankroll": 773.8,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146104.0687811,
+      "bankroll": 767.78,
+      "event": "lost: swisstony \u2014 Will Seinajoen JK vs. IF Gnistan end in a draw?"
+    },
+    {
+      "timestamp": 1786146104.168958,
+      "bankroll": 771.26,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 1.5"
+    },
+    {
+      "timestamp": 1786146104.495546,
+      "bankroll": 771.82,
+      "event": "won: swisstony \u2014 Will Sligo Rovers FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146104.5957522,
+      "bankroll": 773.2,
+      "event": "won: swisstony \u2014 Will Sandefjord Fotball vs. KFUM-Kameratene Oslo end in a draw?"
+    },
+    {
+      "timestamp": 1786146104.939337,
+      "bankroll": 775.1,
+      "event": "won: swisstony \u2014 Will Wisla Krakow win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146105.0395398,
+      "bankroll": 776.38,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146105.398391,
+      "bankroll": 777.04,
+      "event": "won: swisstony \u2014 Will Derry City FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146105.7166967,
+      "bankroll": 777.11,
+      "event": "won: swisstony \u2014 SC Cambuur-Leeuwarden vs. SBV Excelsior: O/U 5.5"
+    },
+    {
+      "timestamp": 1786146105.8168895,
+      "bankroll": 777.93,
+      "event": "won: swisstony \u2014 Will Sandefjord Fotball vs. KFUM-Kameratene Oslo end in a draw?"
+    },
+    {
+      "timestamp": 1786146106.1439452,
+      "bankroll": 778.22,
+      "event": "won: swisstony \u2014 SCR Altach vs. WSG Tirol: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1786146106.2441628,
+      "bankroll": 775.97,
+      "event": "lost: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146106.5661116,
+      "bankroll": 778.28,
+      "event": "won: swisstony \u2014 FC Emmen vs. Roda JC Kerkrade: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146106.666303,
+      "bankroll": 773.95,
+      "event": "lost: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 1.5"
+    },
+    {
+      "timestamp": 1786146106.7664804,
+      "bankroll": 769.96,
+      "event": "lost: swisstony \u2014 Will FC Slovan Liberec win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146107.0715494,
+      "bankroll": 770.6,
+      "event": "won: swisstony \u2014 Will S\u00f8nderjyske Fodbold win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146107.17175,
+      "bankroll": 769.2,
+      "event": "lost: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 1.5"
+    },
+    {
+      "timestamp": 1786146107.271946,
+      "bankroll": 767.48,
+      "event": "lost: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146107.5847106,
+      "bankroll": 769.35,
+      "event": "won: swisstony \u2014 Vitesse Arnhem vs. RKC Waalwijk: O/U 3.5"
+    },
+    {
+      "timestamp": 1786146107.899039,
+      "bankroll": 771.02,
+      "event": "won: swisstony \u2014 Will Roda JC Kerkrade win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146108.2271912,
+      "bankroll": 769.66,
+      "event": "lost: swisstony \u2014 S\u00f8nderjyske Fodbold vs. Viborg FF: O/U 1.5"
+    },
+    {
+      "timestamp": 1786146108.3273947,
+      "bankroll": 771.88,
+      "event": "won: swisstony \u2014 Will FC Slovan Liberec win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146108.6482756,
+      "bankroll": 768.31,
+      "event": "lost: swisstony \u2014 SC Cambuur-Leeuwarden vs. SBV Excelsior: O/U 3.5"
+    },
+    {
+      "timestamp": 1786146108.7484183,
+      "bankroll": 764.74,
+      "event": "lost: swisstony \u2014 SC Cambuur-Leeuwarden vs. SBV Excelsior: O/U 3.5"
+    },
+    {
+      "timestamp": 1786146109.0643902,
+      "bankroll": 767.51,
+      "event": "won: swisstony \u2014 Spread: Ostersunds FK (-1.5)"
+    },
+    {
+      "timestamp": 1786146109.1645732,
+      "bankroll": 769.59,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146109.5023673,
+      "bankroll": 767.73,
+      "event": "lost: swisstony \u2014 Will FC Rapid 1923 win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146109.8025846,
+      "bankroll": 768.9,
+      "event": "won: swisstony \u2014 Will FC UTA Arad win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146110.1596467,
+      "bankroll": 769.22,
+      "event": "won: swisstony \u2014 Spread: Shamrock Rovers (-1.5)"
+    },
+    {
+      "timestamp": 1786146110.5569937,
+      "bankroll": 767.76,
+      "event": "lost: swisstony \u2014 Will SC Cambuur-Leeuwarden vs. SBV Excelsior end in a draw?"
+    },
+    {
+      "timestamp": 1786146110.6571496,
+      "bankroll": 769.95,
+      "event": "won: swisstony \u2014 Will FC Slovan Liberec win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146110.958916,
+      "bankroll": 764.76,
+      "event": "lost: swisstony \u2014 SC Cambuur-Leeuwarden vs. SBV Excelsior: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146111.059063,
+      "bankroll": 762.72,
+      "event": "lost: swisstony \u2014 SC Cambuur-Leeuwarden vs. SBV Excelsior: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146111.1592402,
+      "bankroll": 763.88,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786146111.2594147,
+      "bankroll": 767.95,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 1.5"
+    },
+    {
+      "timestamp": 1786146111.3595946,
+      "bankroll": 769.11,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786146111.4597712,
+      "bankroll": 770.87,
+      "event": "won: swisstony \u2014 Will KFUM-Kameratene Oslo win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146111.7844913,
+      "bankroll": 778.66,
+      "event": "won: swisstony \u2014 Will SBV Excelsior win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146111.8846912,
+      "bankroll": 776.17,
+      "event": "lost: swisstony \u2014 Will SBV Excelsior win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146112.2041008,
+      "bankroll": 776.17,
+      "event": "won: swisstony \u2014 Spread: GIF Sundsvall (-1.5)"
+    },
+    {
+      "timestamp": 1786146112.8493485,
+      "bankroll": 778.03,
+      "event": "won: swisstony \u2014 Will SCR Altach vs. WSG Tirol end in a draw?"
+    },
+    {
+      "timestamp": 1786146112.9495451,
+      "bankroll": 779.69,
+      "event": "won: swisstony \u2014 Spread: Ostersunds FK (-1.5)"
+    },
+    {
+      "timestamp": 1786146113.0497482,
+      "bankroll": 778.46,
+      "event": "lost: swisstony \u2014 Will SBV Excelsior win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146113.3890934,
+      "bankroll": 779.38,
+      "event": "won: swisstony \u2014 Will FC Zbrojovka Brno vs. FC Slovan Liberec end in a draw?"
+    },
+    {
+      "timestamp": 1786146113.4892912,
+      "bankroll": 777.73,
+      "event": "lost: swisstony \u2014 Ostersunds FK vs. GIF Sundsvall: O/U 1.5"
+    },
+    {
+      "timestamp": 1786146113.5894532,
+      "bankroll": 778.89,
+      "event": "won: swisstony \u2014 Will Sandefjord Fotball vs. KFUM-Kameratene Oslo end in a draw?"
+    },
+    {
+      "timestamp": 1786146113.907638,
+      "bankroll": 780.49,
+      "event": "won: swisstony \u2014 VfL Bochum vs. Hertha BSC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146114.007835,
+      "bankroll": 771.93,
+      "event": "lost: swisstony \u2014 Will Wisla Krakow win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146114.344088,
+      "bankroll": 773.35,
+      "event": "won: swisstony \u2014 VfL Bochum vs. Hertha BSC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786146114.4442763,
+      "bankroll": 773.89,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146114.5444872,
+      "bankroll": 774.45,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786146114.6446853,
+      "bankroll": 775.8,
+      "event": "won: RN1 \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 1.5"
+    },
+    {
+      "timestamp": 1786146114.7448905,
+      "bankroll": 775.85,
+      "event": "won: RN1 \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 3.5"
+    },
+    {
+      "timestamp": 1786146114.8450608,
+      "bankroll": 777.26,
+      "event": "won: swisstony \u2014 VfL Bochum vs. Hertha BSC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146114.9452183,
+      "bankroll": 777.88,
+      "event": "won: swisstony \u2014 Sandefjord Fotball vs. KFUM-Kameratene Oslo: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786146115.2490003,
+      "bankroll": 777.88,
+      "event": "won: swisstony \u2014 VVV Venlo vs. Heracles Almelo: O/U 0.5"
+    },
+    {
+      "timestamp": 1786146115.3491876,
+      "bankroll": 778.5,
+      "event": "won: swisstony \u2014 VfL Bochum vs. Hertha BSC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786146116.0358791,
+      "bankroll": 782.42,
+      "event": "won: RN1 \u2014 SC Cambuur-Leeuwarden vs. SBV Excelsior: O/U 4.5"
+    },
+    {
+      "timestamp": 1786146116.1360323,
+      "bankroll": 783.7,
+      "event": "won: swisstony \u2014 SC Cambuur-Leeuwarden vs. SBV Excelsior: O/U 4.5"
+    },
+    {
+      "timestamp": 1786146116.2361941,
+      "bankroll": 784.09,
+      "event": "won: swisstony \u2014 SC Cambuur-Leeuwarden vs. SBV Excelsior: O/U 3.5"
+    },
+    {
+      "timestamp": 1786146116.5386071,
+      "bankroll": 784.33,
+      "event": "won: RN1 \u2014 Will Wisla Krakow vs. Wisla Plock end in a draw?"
+    },
+    {
+      "timestamp": 1786146116.8639588,
+      "bankroll": 785.12,
+      "event": "won: RN1 \u2014 Will Club Brugge win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146117.190116,
+      "bankroll": 785.41,
+      "event": "won: RN1 \u2014 Will KV Kortrijk win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146117.530727,
+      "bankroll": 785.63,
+      "event": "won: RN1 \u2014 Will Port Vale FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146117.6309476,
+      "bankroll": 786.37,
+      "event": "won: RN1 \u2014 Will Club Brugge win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146117.7311225,
+      "bankroll": 786.65,
+      "event": "won: RN1 \u2014 Will Port Vale FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146118.0571766,
+      "bankroll": 785.53,
+      "event": "lost: swisstony \u2014 VfL Bochum vs. Hertha BSC: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1786146118.2190077,
+      "bankroll": 783.25,
+      "event": "lost: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 Valorant: Fnatic vs Enterprise Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786146118.5169415,
+      "bankroll": 783.79,
+      "event": "won: swisstony \u2014 Will Wycombe Wanderers FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146118.8342,
+      "bankroll": 784.13,
+      "event": "won: swisstony \u2014 Estoril Praia vs. FC Famalic\u00e3o: O/U 3.5"
+    },
+    {
+      "timestamp": 1786146119.1769123,
+      "bankroll": 786.41,
+      "event": "won: RN1 \u2014 Will AC Monza win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146119.507505,
+      "bankroll": 787.71,
+      "event": "won: RN1 \u2014 Club Brugge vs. KV Kortrijk: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146119.6076674,
+      "bankroll": 789.03,
+      "event": "won: RN1 \u2014 Club Brugge vs. KV Kortrijk: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146119.939286,
+      "bankroll": 790.08,
+      "event": "won: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 LoL: Team Heretics vs Fnatic (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1786146120.0395072,
+      "bankroll": 790.54,
+      "event": "won: swisstony \u2014 VfL Bochum vs. Hertha BSC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786146120.3413851,
+      "bankroll": 791.12,
+      "event": "won: swisstony \u2014 Will Racing Santander win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146120.4415555,
+      "bankroll": 791.37,
+      "event": "won: RN1 \u2014 Will Wisla Krakow vs. Wisla Plock end in a draw?"
+    },
+    {
+      "timestamp": 1786146120.7752519,
+      "bankroll": 791.75,
+      "event": "won: swisstony \u2014 Club Brugge vs. KV Kortrijk: O/U 1.5"
+    },
+    {
+      "timestamp": 1786146121.0885243,
+      "bankroll": 791.85,
+      "event": "won: RN1 \u2014 Spread: Wisla Plock (-1.5)"
+    },
+    {
+      "timestamp": 1786146121.402678,
+      "bankroll": 794.62,
+      "event": "won: RN1 \u2014 Will Wisla Plock win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146121.7460916,
+      "bankroll": 795.93,
+      "event": "won: RN1 \u2014 Wisla Krakow vs. Wisla Plock: O/U 4.5"
+    },
+    {
+      "timestamp": 1786146122.0749571,
+      "bankroll": 796.11,
+      "event": "won: swisstony \u2014 Spread: Hertha BSC (-1.5)"
+    },
+    {
+      "timestamp": 1786146122.1751134,
+      "bankroll": 796.61,
+      "event": "won: swisstony \u2014 VfL Bochum vs. Hertha BSC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786146122.5014093,
+      "bankroll": 796.66,
+      "event": "won: swisstony \u2014 Wisla Krakow vs. Wisla Plock: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786146123.0754933,
+      "bankroll": 796.69,
+      "event": "won: swisstony \u2014 Racing Santander vs. Deportivo Alaves: O/U 4.5"
+    },
+    {
+      "timestamp": 1786146123.1756592,
+      "bankroll": 797.27,
+      "event": "won: swisstony \u2014 VfL Bochum vs. Hertha BSC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146123.500558,
+      "bankroll": 797.61,
+      "event": "won: swisstony \u2014 Spread: Wisla Krakow (-1.5)"
+    },
+    {
+      "timestamp": 1786146123.8244174,
+      "bankroll": 798.49,
+      "event": "won: swisstony \u2014 Will VfL Bochum win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146123.9246023,
+      "bankroll": 797.7,
+      "event": "lost: RN1 \u2014 Will VfL Bochum win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146124.255061,
+      "bankroll": 799.63,
+      "event": "won: swisstony \u2014 Spread: Club Brugge (-2.5)"
+    },
+    {
+      "timestamp": 1786146124.3552108,
+      "bankroll": 799.73,
+      "event": "won: swisstony \u2014 Will Port Vale FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146124.455367,
+      "bankroll": 800.31,
+      "event": "won: swisstony \u2014 VfL Bochum vs. Hertha BSC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786146124.771058,
+      "bankroll": 794.73,
+      "event": "lost: swisstony \u2014 Will Middlesbrough FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786146124.8712814,
+      "bankroll": 795.07,
+      "event": "won: RN1 \u2014 SC Cambuur-Leeuwarden vs. SBV Excelsior: O/U 3.5"
+    },
+    {
+      "timestamp": 1786146124.9714968,
+      "bankroll": 795.16,
+      "event": "won: swisstony \u2014 Racing Santander vs. Deportivo Alaves: O/U 4.5"
+    },
+    {
+      "timestamp": 1786146125.2800484,
+      "bankroll": 796.44,
+      "event": "won: swisstony \u2014 VfL Bochum vs. Hertha BSC: O/U 1.5"
     }
   ]
 }
