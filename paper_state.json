@@ -1,5 +1,5 @@
 {
-  "bankroll": 893.627603935003,
+  "bankroll": 901.2498012774795,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3060,6 +3060,296 @@
       "timestamp": 1786115314.1654296,
       "bankroll": 893.63,
       "event": "won: swisstony \u2014 Gyeongnam FC vs. Daegu FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786116864.8417518,
+      "bankroll": 893.86,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: 1st Half O/U 2.5"
+    },
+    {
+      "timestamp": 1786116865.3708386,
+      "bankroll": 896.66,
+      "event": "won: swisstony \u2014 Spread: Beijing Guoan FC (-1.5)"
+    },
+    {
+      "timestamp": 1786116865.7337627,
+      "bankroll": 898.78,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786116866.1113243,
+      "bankroll": 908.83,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116866.469965,
+      "bankroll": 907.41,
+      "event": "lost: swisstony \u2014 Will Beijing Guoan FC vs. Shenzhen Xinpengcheng FC end in a draw?"
+    },
+    {
+      "timestamp": 1786116866.57014,
+      "bankroll": 905.33,
+      "event": "lost: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116866.6702542,
+      "bankroll": 903.99,
+      "event": "lost: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116867.005476,
+      "bankroll": 904.55,
+      "event": "won: swisstony \u2014 Will Shenzhen Xinpengcheng FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786116867.1056316,
+      "bankroll": 906.74,
+      "event": "won: swisstony \u2014 Will Beijing Guoan FC vs. Shenzhen Xinpengcheng FC end in a draw?"
+    },
+    {
+      "timestamp": 1786116867.2057908,
+      "bankroll": 903.64,
+      "event": "lost: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116867.3059947,
+      "bankroll": 902.16,
+      "event": "lost: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116867.4061635,
+      "bankroll": 899.09,
+      "event": "lost: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116867.5063214,
+      "bankroll": 895.44,
+      "event": "lost: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116867.60658,
+      "bankroll": 892.7,
+      "event": "lost: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116868.3213549,
+      "bankroll": 886.83,
+      "event": "lost: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116868.4216459,
+      "bankroll": 885.42,
+      "event": "lost: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116868.5217981,
+      "bankroll": 885.68,
+      "event": "won: swisstony \u2014 Will Shenzhen Xinpengcheng FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786116868.8713672,
+      "bankroll": 886.18,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786116869.0716934,
+      "bankroll": 885.2,
+      "event": "lost: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786116869.1718485,
+      "bankroll": 884.11,
+      "event": "lost: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116869.784255,
+      "bankroll": 880.0,
+      "event": "lost: swisstony \u2014 Spread: Beijing Guoan FC (-1.5)"
+    },
+    {
+      "timestamp": 1786116869.9847794,
+      "bankroll": 882.22,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786116870.084979,
+      "bankroll": 883.74,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786116870.18514,
+      "bankroll": 884.88,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786116871.0992582,
+      "bankroll": 884.88,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786116871.199478,
+      "bankroll": 884.96,
+      "event": "won: swisstony \u2014 Will Beijing Guoan FC vs. Shenzhen Xinpengcheng FC end in a draw?"
+    },
+    {
+      "timestamp": 1786116871.6734421,
+      "bankroll": 885.87,
+      "event": "won: swisstony \u2014 Spread: Beijing Guoan FC (-1.5)"
+    },
+    {
+      "timestamp": 1786116871.7736073,
+      "bankroll": 886.02,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786116871.8739,
+      "bankroll": 886.6,
+      "event": "won: swisstony \u2014 Spread: Beijing Guoan FC (-1.5)"
+    },
+    {
+      "timestamp": 1786116871.9741886,
+      "bankroll": 886.97,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786116872.3196483,
+      "bankroll": 887.43,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 5.5"
+    },
+    {
+      "timestamp": 1786116872.4198332,
+      "bankroll": 887.71,
+      "event": "won: swisstony \u2014 Spread: Beijing Guoan FC (-1.5)"
+    },
+    {
+      "timestamp": 1786116872.5200274,
+      "bankroll": 888.07,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 5.5"
+    },
+    {
+      "timestamp": 1786116873.07944,
+      "bankroll": 888.73,
+      "event": "won: swisstony \u2014 Spread: Beijing Guoan FC (-1.5)"
+    },
+    {
+      "timestamp": 1786116873.1797085,
+      "bankroll": 889.2,
+      "event": "won: swisstony \u2014 Spread: Beijing Guoan FC (-1.5)"
+    },
+    {
+      "timestamp": 1786116873.2798615,
+      "bankroll": 889.33,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786116873.4801526,
+      "bankroll": 889.51,
+      "event": "won: swisstony \u2014 Will Beijing Guoan FC vs. Shenzhen Xinpengcheng FC end in a draw?"
+    },
+    {
+      "timestamp": 1786116875.0208433,
+      "bankroll": 888.48,
+      "event": "lost: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: Shenzhen Xinpengcheng FC O/U 1.5"
+    },
+    {
+      "timestamp": 1786116875.646808,
+      "bankroll": 888.96,
+      "event": "won: swisstony \u2014 Spread: Beijing Guoan FC (-1.5)"
+    },
+    {
+      "timestamp": 1786116878.1938727,
+      "bankroll": 889.5,
+      "event": "won: RN1 \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116878.7949681,
+      "bankroll": 890.57,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116878.8952208,
+      "bankroll": 891.38,
+      "event": "won: RN1 \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116879.5508997,
+      "bankroll": 891.67,
+      "event": "won: RN1 \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116879.6510892,
+      "bankroll": 893.15,
+      "event": "won: RN1 \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116879.8515143,
+      "bankroll": 893.48,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116880.052136,
+      "bankroll": 894.08,
+      "event": "won: RN1 \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116880.2525477,
+      "bankroll": 894.39,
+      "event": "won: RN1 \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116880.7024755,
+      "bankroll": 894.73,
+      "event": "won: RN1 \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116881.073286,
+      "bankroll": 899.63,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786116881.173471,
+      "bankroll": 899.64,
+      "event": "won: RN1 \u2014 Will Beijing Guoan FC vs. Shenzhen Xinpengcheng FC end in a draw?"
+    },
+    {
+      "timestamp": 1786116881.2736285,
+      "bankroll": 898.43,
+      "event": "lost: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116881.5742962,
+      "bankroll": 897.2,
+      "event": "lost: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116881.8748698,
+      "bankroll": 897.54,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116882.0751488,
+      "bankroll": 896.28,
+      "event": "lost: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786116882.1752844,
+      "bankroll": 896.28,
+      "event": "won: swisstony \u2014 Spread: Beijing Guoan FC (-1.5)"
+    },
+    {
+      "timestamp": 1786116882.2754288,
+      "bankroll": 896.28,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786116882.776371,
+      "bankroll": 900.77,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786116882.9766781,
+      "bankroll": 901.25,
+      "event": "won: swisstony \u2014 Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 4.5"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 10:32:35 (hora de Perú)
+Actualizado: 2026-08-07 10:34:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $893.63
-**Retorno acumulado:** -10.64%
+**Bankroll actual:** $901.25
+**Retorno acumulado:** -9.88%
 **Peor caída desde un máximo (drawdown):** 74.92%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,8 +20,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 1 | 0 | 6 | +2.53 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 6 | 0 | 12 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 129 | 94 | 156 | -50.42 USD |
-| RN1 | 20 | 16 | 15 | -52.75 USD |
+| swisstony | 162 | 111 | 108 | -47.18 USD |
+| RN1 | 28 | 16 | 7 | -48.38 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
@@ -67,6 +67,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will FK Termez Surkhon vs. Navbahor end  | No (BUY) | 91% | 4.09 | ⏳ pendiente | — |
+| swisstony | FK Termez Surkhon vs. Navbahor: O/U 4.5 | Under (BUY) | 99% | 1.17 | ⏳ pendiente | — |
 | swisstony | Aqtöbe FK vs. Servette FC Chênois Fémini | Under (BUY) | 92% | 1.08 | ⏳ pendiente | — |
 | swisstony | FK Termez Surkhon vs. Navbahor: O/U 5.5 | Under (BUY) | 98% | 1.28 | ⏳ pendiente | — |
 | swisstony | Lokomotiv Tashkent vs. PFK Dinamo Samarq | Over (BUY) | 84% | 23.70 | ⏳ pendiente | — |
@@ -95,5 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Bayern Munich win on 2026-08-07? | No (BUY) | 1% | 0.92 | ⏳ pendiente | — |
 | swisstony | Aston Villa vs. Bayern Munich: O/U 3.5 | Under (BUY) | 88% | 1.89 | ⏳ pendiente | — |
 | swisstony | Will Aston Villa win on 2026-08-07? | No (BUY) | 100% | 1.14 | ⏳ pendiente | — |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Top Esports (BO3 | Top Esports (BUY) | 62% | 1.25 | ⏳ pendiente | — |
-| swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 83% | 2.84 | ⏳ pendiente | — |
