@@ -16251,5 +16251,49 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786127641.31637,
     "fills": 1
+  },
+  {
+    "timestamp": 1786127740,
+    "timestamp_added": 1786127740.4789994,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "nor-san-kfu-2026-08-07-total-1pt5",
+    "title": "Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 338.1,
+    "whale_pct": 0.151,
+    "paper_stake_usd": 1.15,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786127740.4790096,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786127814,
+    "timestamp_added": 1786127814.4463935,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "nor-san-kfu-2026-08-07-total-3pt5",
+    "title": "Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 700.6999999999999,
+    "whale_pct": 0.315,
+    "paper_stake_usd": 2.4,
+    "odds_at_bet": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786127814.446404,
+    "fills": 1
   }
 ]

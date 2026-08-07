@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 13:35:29 (hora de Perú)
+Actualizado: 2026-08-07 13:37:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $761.32
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 7 | 0 | -11.30 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| RN1 | 30 | 21 | 0 | -103.62 USD |
+| RN1 | 30 | 21 | 2 | -103.62 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | swisstony | 215 | 150 | 126 | -119.54 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
@@ -62,11 +62,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | chi-bgu-xin-2026-08-07-draw | RN1, swisstony |
 | chi-bgu-xin-2026-08-07-bgu | RN1, swisstony |
 | clf-avl-bmu-2026-08-07-total-2pt5 | RN1, swisstony |
+| nor-san-kfu-2026-08-07-total-1pt5 | RN1, swisstony |
+| nor-san-kfu-2026-08-07-total-3pt5 | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 98% | 2.40 | ⏳ pendiente | — |
+| RN1 | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 46% | 1.15 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | No (BUY) | 74% | 1.59 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 82% | 2.46 | ⏳ pendiente | — |
 | swisstony | VfL Bochum vs. Hertha BSC: O/U 3.5 | Under (BUY) | 68% | 3.01 | ⏳ pendiente | — |
@@ -95,5 +99,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will FC Rapid 1923 win on 2026-08-07? | Yes (BUY) | 36% | 1.86 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 49% | 2.00 | ⏳ pendiente | — |
 | swisstony | Spread: Ostersunds FK (-1.5) | GIF Sundsvall (BUY) | 43% | 2.09 | ⏳ pendiente | — |
-| swisstony | SC Cambuur-Leeuwarden vs. SBV Excelsior: | Under (BUY) | 68% | 3.57 | ⏳ pendiente | — |
-| swisstony | SC Cambuur-Leeuwarden vs. SBV Excelsior: | Under (BUY) | 68% | 3.57 | ⏳ pendiente | — |
