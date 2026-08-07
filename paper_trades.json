@@ -8565,5 +8565,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786080975.8205326,
     "fills": 1
+  },
+  {
+    "timestamp": 1786081299,
+    "timestamp_added": 1786081300.3288252,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "clf-avl-bmu-2026-08-07-bmu",
+    "title": "Will Bayern Munich win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 783.789999,
+    "whale_pct": 0.862,
+    "paper_stake_usd": 7.89,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786081300.3288314,
+    "fills": 1
   }
 ]

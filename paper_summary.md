@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 00:40:06 (hora de Perú)
+Actualizado: 2026-08-07 00:42:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $916.17
@@ -18,6 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 20 | 17 | 0 | +123.77 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 0 | +0.00 USD |
+|  | 0 | 0 | 1 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 83 | 53 | 15 | -31.26 USD |
 | RN1 | 20 | 16 | 0 | -52.75 USD |
@@ -61,6 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+|  | Will Bayern Munich win on 2026-08-07? | No (BUY) | 48% | 7.89 | ⏳ pendiente | — |
 | swisstony | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 65% | 1.84 | ⏳ pendiente | — |
 | swisstony | Spread: Texas Rangers (-1.5) | Texas Rangers (BUY) | 39% | 2.15 | ⏳ pendiente | — |
 | swisstony | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 65% | 4.27 | ⏳ pendiente | — |
@@ -90,4 +92,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Under (BUY) | 69% | 6.01 | ✅ ganada | +2.70 |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx | Los Angeles Sparks (BUY) | 59% | 2.51 | ✅ ganada | +1.74 |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx | Minnesota Lynx (BUY) | 38% | 1.23 | ❌ perdida | -1.23 |
-| swisstony | Toronto Tempo vs. Portland Fire: O/U 185 | Under (BUY) | 60% | 1.10 | ✅ ganada | +0.73 |
