@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 14:31:35 (hora de Perú)
+Actualizado: 2026-08-07 14:33:38 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -68,7 +68,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0x4f2 | 23 | 16 | 0 | 59% |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 11 | 58% |
 | us391 | 33 | 24 | 0 | 58% |
-| StasPanda | 26 | 19 | 1 | 58% |
+| StasPanda | 26 | 19 | 2 | 58% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 54 | 39 | 4 | 58% |
 | meoooow | 23 | 19 | 1 | 55% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
@@ -80,7 +80,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | BreakTheBank | 4 | 4 | 5 | 50% |
 | Anjun | 4 | 4 | 0 | 50% |
 | lllllllIlll | 11 | 11 | 0 | 50% |
-| MeiGuNiuBi | 14 | 14 | 0 | 50% |
+| MeiGuNiuBi | 14 | 14 | 1 | 50% |
 |  | 25 | 25 | 1 | 50% |
 | sbsigner | 42 | 45 | 0 | 48% |
 | VPenguin | 19 | 21 | 0 | 48% |
