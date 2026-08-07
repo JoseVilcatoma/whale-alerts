@@ -9851,5 +9851,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786100391.2396939,
     "fills": 2
+  },
+  {
+    "timestamp": 1786100535,
+    "timestamp_added": 1786100535.6242862,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "jap-yom-kas-2026-08-07-total-4pt5",
+    "title": "Yokohama F\u00b7Marinos vs. Kashima Antlers: O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 189.21,
+    "whale_pct": 0.197,
+    "paper_stake_usd": 1.8,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786100535.624294,
+    "fills": 1
   }
 ]
