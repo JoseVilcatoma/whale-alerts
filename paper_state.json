@@ -1,5 +1,5 @@
 {
-  "bankroll": 760.886446316201,
+  "bankroll": 761.3869750670272,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -3925,6 +3925,16 @@
       "timestamp": 1786129212.645011,
       "bankroll": 760.89,
       "event": "lost: swisstony \u2014 Xorazm Fk Urganch vs. PFK Mash AL Mubarek: O/U 2.5"
+    },
+    {
+      "timestamp": 1786129394.697084,
+      "bankroll": 761.28,
+      "event": "won: swisstony \u2014 Xorazm Fk Urganch vs. PFK Mash AL Mubarek: O/U 3.5"
+    },
+    {
+      "timestamp": 1786129396.2032208,
+      "bankroll": 761.39,
+      "event": "won: swisstony \u2014 Xorazm Fk Urganch vs. PFK Mash AL Mubarek: O/U 3.5"
     }
   ]
 }

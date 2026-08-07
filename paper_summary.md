@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 14:02:38 (hora de Perú)
+Actualizado: 2026-08-07 14:03:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $760.89
-**Retorno acumulado:** -23.91%
+**Bankroll actual:** $761.39
+**Retorno acumulado:** -23.86%
 **Peor caída desde un máximo (drawdown):** 75.51%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 7 | 2 | -11.30 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| RN1 | 30 | 21 | 17 | -103.62 USD |
+| RN1 | 30 | 21 | 18 | -103.62 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
-| swisstony | 216 | 151 | 147 | -119.98 USD |
+| swisstony | 218 | 151 | 148 | -119.48 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
 | texaskid | 1 | 2 | 0 | -1,530.59 USD |
@@ -64,6 +64,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | clf-avl-bmu-2026-08-07-total-2pt5 | RN1, swisstony |
 | nor-san-kfu-2026-08-07-total-1pt5 | RN1, swisstony |
 | nor-san-kfu-2026-08-07-total-3pt5 | RN1, swisstony |
+| ere-cam-exc-2026-08-07-total-3pt5 | RN1, swisstony |
 | ere-cam-exc-2026-08-07-total-4pt5 | RN1, swisstony |
 | efl-wol-pvl-2026-08-07-pvl | RN1, swisstony |
 | bl2-boc-ber-2026-08-07-boc | RN1, swisstony |
@@ -72,6 +73,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | VfL Bochum vs. Hertha BSC: O/U 1.5 | Under (BUY) | 40% | 0.85 | ⏳ pendiente | — |
+| swisstony | Racing Santander vs. Deportivo Alaves: O | Under (BUY) | 96% | 2.17 | ⏳ pendiente | — |
+| RN1 | SC Cambuur-Leeuwarden vs. SBV Excelsior: | Over (BUY) | 82% | 1.58 | ⏳ pendiente | — |
+| swisstony | Will Middlesbrough FC win on 2026-08-07? | No (BUY) | 45% | 5.58 | ⏳ pendiente | — |
 | swisstony | VfL Bochum vs. Hertha BSC: O/U 2.5 | Under (BUY) | 66% | 1.11 | ⏳ pendiente | — |
 | swisstony | Will Port Vale FC win on 2026-08-07? | No (BUY) | 97% | 3.53 | ⏳ pendiente | — |
 | swisstony | Spread: Club Brugge (-2.5) | Club Brugge (BUY) | 34% | 0.99 | ⏳ pendiente | — |
@@ -98,7 +103,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Wycombe Wanderers FC win on 2026-08 | No (BUY) | 59% | 0.78 | ⏳ pendiente | — |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Valorant: Fnatic vs Enterprise Esports ( | Fnatic (BUY) | 62% | 2.28 | ⏳ pendiente | — |
 | swisstony | VfL Bochum vs. Hertha BSC: 1st Half O/U  | Under (BUY) | 46% | 1.12 | ⏳ pendiente | — |
-| RN1 | Will Port Vale FC win on 2026-08-07? | No (BUY) | 94% | 4.32 | ⏳ pendiente | — |
-| RN1 | Will Club Brugge win on 2026-08-07? | Yes (BUY) | 83% | 3.61 | ⏳ pendiente | — |
-| RN1 | Will Port Vale FC win on 2026-08-07? | No (BUY) | 94% | 3.43 | ⏳ pendiente | — |
-| RN1 | Will KV Kortrijk win on 2026-08-07? | No (BUY) | 94% | 4.54 | ⏳ pendiente | — |
