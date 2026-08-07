@@ -1,5 +1,5 @@
 {
-  "bankroll": 942.7424864229976,
+  "bankroll": 937.5400824400672,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2465,6 +2465,36 @@
       "timestamp": 1786079713.347866,
       "bankroll": 942.74,
       "event": "won: swisstony \u2014 Austin FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786079771.621343,
+      "bankroll": 941.52,
+      "event": "lost: swisstony \u2014 Will Austin FC vs. Club Tijuana end in a draw?"
+    },
+    {
+      "timestamp": 1786079771.8217354,
+      "bankroll": 939.08,
+      "event": "lost: swisstony \u2014 Will Austin FC vs. Club Tijuana end in a draw?"
+    },
+    {
+      "timestamp": 1786079772.0847263,
+      "bankroll": 939.37,
+      "event": "won: swisstony \u2014 Austin FC vs. Club Tijuana: O/U 5.5"
+    },
+    {
+      "timestamp": 1786079772.838021,
+      "bankroll": 938.15,
+      "event": "lost: swisstony \u2014 Austin FC vs. Club Tijuana: O/U 3.5"
+    },
+    {
+      "timestamp": 1786079773.7039938,
+      "bankroll": 937.11,
+      "event": "lost: swisstony \u2014 Austin FC vs. Club Tijuana: O/U 3.5"
+    },
+    {
+      "timestamp": 1786079773.9044049,
+      "bankroll": 937.54,
+      "event": "won: swisstony \u2014 Austin FC vs. Club Tijuana: O/U 3.5"
     }
   ]
 }
