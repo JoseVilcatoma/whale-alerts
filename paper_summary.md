@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 21:35:57 (hora de Perú)
+Actualizado: 2026-08-06 21:37:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $950.31
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 11 | 9 | 88 | -29.59 USD |
+| swisstony | 11 | 9 | 90 | -29.59 USD |
 | RN1 | 15 | 14 | 5 | -58.78 USD |
 | HomeRunHazard | 40 | 42 | 13 | -82.72 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
@@ -57,6 +57,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Minnesota Lynx (-15.5) | Los Angeles Sparks (BUY) | 82% | 1.00 | ⏳ pendiente | — |
+| swisstony | Los Angeles Sparks vs. Minnesota Lynx | Minnesota Lynx (BUY) | 91% | 1.33 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 188 | Over (BUY) | 50% | 1.47 | ⏳ pendiente | — |
 | swisstony | Spread: Austin FC (-1.5) | Austin FC (BUY) | 71% | 2.60 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. Portland Fire: O/U 185 | Under (BUY) | 41% | 1.08 | ⏳ pendiente | — |
@@ -85,5 +87,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Austin FC win on 2026-08-06? | Yes (BUY) | 87% | 3.43 | ⏳ pendiente | — |
 | swisstony | Spread: Austin FC (-1.5) | Austin FC (BUY) | 60% | 2.00 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 80% | 1.06 | ⏳ pendiente | — |
-| swisstony | Spread: Austin FC (-1.5) | Club Tijuana (BUY) | 59% | 1.43 | ⏳ pendiente | — |
-| swisstony | Will Austin FC win on 2026-08-06? | No (BUY) | 33% | 1.91 | ⏳ pendiente | — |
