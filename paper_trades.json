@@ -15991,5 +15991,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786126849.6724665,
     "fills": 2
+  },
+  {
+    "timestamp": 1786126937,
+    "timestamp_added": 1786126938.330023,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "swe2-of-sun-2026-08-07-spread-away-1pt5",
+    "title": "Spread: GIF Sundsvall (-1.5)",
+    "outcome": "Ostersunds FK",
+    "side": "BUY",
+    "whale_usd": 229.529521,
+    "whale_pct": 0.116,
+    "paper_stake_usd": 0.9,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786126938.3300393,
+    "fills": 1
   }
 ]
