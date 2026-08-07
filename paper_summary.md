@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 21:48:25 (hora de Perú)
+Actualizado: 2026-08-06 21:50:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $950.31
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 11 | 9 | 96 | -29.59 USD |
+| swisstony | 11 | 9 | 101 | -29.59 USD |
 | RN1 | 15 | 14 | 5 | -58.78 USD |
 | HomeRunHazard | 40 | 42 | 13 | -82.72 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
@@ -57,6 +57,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Austin FC (-1.5) | Austin FC (BUY) | 88% | 4.56 | ⏳ pendiente | — |
+| swisstony | Toronto Tempo vs. Portland Fire: O/U 185 | Over (BUY) | 58% | 1.93 | ⏳ pendiente | — |
+| swisstony | Toronto Tempo vs. PortlandFire | PortlandFire (BUY) | 84% | 1.63 | ⏳ pendiente | — |
+| swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 84% | 3.91 | ⏳ pendiente | — |
+| swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 85% | 1.17 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Under (BUY) | 44% | 2.56 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 51% | 0.98 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 50% | 6.95 | ⏳ pendiente | — |
@@ -82,8 +87,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Austin FC vs. Club Tijuana: O/U 3.5 | Over (BUY) | 43% | 1.04 | ⏳ pendiente | — |
 | swisstony | Toronto Tempo vs. PortlandFire | PortlandFire (BUY) | 55% | 1.04 | ⏳ pendiente | — |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 48% | 1.10 | ⏳ pendiente | — |
-| swisstony | Los Angeles Sparks vs. Minnesota Lynx | Minnesota Lynx (BUY) | 92% | 1.77 | ⏳ pendiente | — |
-| swisstony | Spread: CF América (-1.5) | San Diego FC (BUY) | 51% | 1.69 | ⏳ pendiente | — |
-| swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Under (BUY) | 68% | 3.08 | ⏳ pendiente | — |
-| swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 68% | 1.71 | ⏳ pendiente | — |
-| swisstony | Spread: Portland Fire (-2.5) | Portland Fire (BUY) | 52% | 1.03 | ⏳ pendiente | — |
