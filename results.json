@@ -181462,5 +181462,41 @@
     "usd": 4205.7918,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786141972,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-mertens-osaka-2026-08-08",
+    "title": "National Bank Open: Elise Mertens vs Naomi Osaka",
+    "outcome": "Elise Mertens",
+    "side": "BUY",
+    "usd": 1036.7540999999999,
+    "odds_at_bet": 9,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786142026,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-laa-mia-2026-08-07-spread-home-1pt5",
+    "title": "Spread: Miami Marlins (-1.5)",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 4991.903399999999,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786142026,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "mlb-laa-mia-2026-08-07-spread-home-1pt5",
+    "title": "Spread: Miami Marlins (-1.5)",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "usd": 2540.0465999999997,
+    "odds_at_bet": 42,
+    "status": "pending"
   }
 ]

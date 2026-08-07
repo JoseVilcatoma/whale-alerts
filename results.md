@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 17:32:47 (hora de Perú)
+Actualizado: 2026-08-07 17:36:03 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | elizabeth.ethcome | 45 | 9 | 0 | 83% |
 | swisstony | 780 | 170 | 112 | 82% |
 | Bigggggggg | 4 | 1 | 37 | ⚠️ 80% (muestra chica: 5) |
-| mooseborzoi | 63 | 20 | 4 | 76% |
+| mooseborzoi | 63 | 20 | 5 | 76% |
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
 | Spicer | 29 | 10 | 0 | 74% |
 | fazewinline | 23 | 8 | 0 | 74% |
@@ -59,9 +59,9 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SDTrading | 7 | 4 | 0 | 64% |
 | quavoo | 7 | 4 | 10 | 64% |
 | Djdjdjekekek | 125 | 78 | 2 | 62% |
-| ferrariChampions2026 | 2353 | 1534 | 95 | 61% |
+| ferrariChampions2026 | 2353 | 1534 | 96 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
-| HomeRunHazard | 480 | 304 | 71 | 61% |
+| HomeRunHazard | 480 | 304 | 72 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 5 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
