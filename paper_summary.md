@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 13:56:21 (hora de Perú)
+Actualizado: 2026-08-07 13:58:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $761.78
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 7 | 2 | -11.30 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| RN1 | 30 | 21 | 12 | -103.62 USD |
+| RN1 | 30 | 21 | 16 | -103.62 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
-| swisstony | 216 | 150 | 136 | -119.09 USD |
+| swisstony | 216 | 150 | 139 | -119.09 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
 | texaskid | 1 | 2 | 0 | -1,530.59 USD |
@@ -70,6 +70,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Hertha BSC (-1.5) | VfL Bochum (BUY) | 88% | 1.37 | ⏳ pendiente | — |
+| RN1 | Wisla Krakow vs. Wisla Plock: O/U 4.5 | Under (BUY) | 72% | 3.36 | ⏳ pendiente | — |
+| RN1 | Will Wisla Plock win on 2026-08-07? | No (BUY) | 81% | 11.81 | ⏳ pendiente | — |
+| RN1 | Spread: Wisla Plock (-1.5) | Wisla Krakow (BUY) | 93% | 1.29 | ⏳ pendiente | — |
+| swisstony | Club Brugge vs. KV Kortrijk: O/U 1.5 | Over (BUY) | 87% | 2.53 | ⏳ pendiente | — |
+| RN1 | Will Wisla Krakow vs. Wisla Plock end in | No (BUY) | 82% | 1.14 | ⏳ pendiente | — |
+| swisstony | Will Racing Santander win on 2026-08-07? | No (BUY) | 81% | 2.49 | ⏳ pendiente | — |
 | swisstony | VfL Bochum vs. Hertha BSC: O/U 3.5 | Under (BUY) | 82% | 2.08 | ⏳ pendiente | — |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team Heretics vs Fnatic (BO3) - LEC | Team Heretics (BUY) | 53% | 1.19 | ⏳ pendiente | — |
 | RN1 | Club Brugge vs. KV Kortrijk: O/U 2.5 | Over (BUY) | 68% | 2.79 | ⏳ pendiente | — |
@@ -93,10 +100,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | VVV Venlo vs. Heracles Almelo: O/U 0.5 | Over (BUY) | 100% | 1.74 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | No (BUY) | 81% | 2.66 | ⏳ pendiente | — |
 | swisstony | VfL Bochum vs. Hertha BSC: O/U 2.5 | Under (BUY) | 50% | 1.41 | ⏳ pendiente | — |
-| RN1 | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 98% | 2.40 | ⏳ pendiente | — |
-| RN1 | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 46% | 1.15 | ⏳ pendiente | — |
-| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | No (BUY) | 74% | 1.59 | ⏳ pendiente | — |
-| swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 82% | 2.46 | ⏳ pendiente | — |
-| swisstony | VfL Bochum vs. Hertha BSC: O/U 3.5 | Under (BUY) | 68% | 3.01 | ⏳ pendiente | — |
-| swisstony | Will Wisla Krakow win on 2026-08-07? | No (BUY) | 45% | 8.56 | ⏳ pendiente | — |
-| swisstony | VfL Bochum vs. Hertha BSC: O/U 2.5 | Under (BUY) | 45% | 1.31 | ⏳ pendiente | — |
