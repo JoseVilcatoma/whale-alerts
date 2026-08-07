@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 07:13:07 (hora de Perú)
+Actualizado: 2026-08-07 07:15:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.40
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 7 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 86 | 54 | 137 | -30.11 USD |
+| swisstony | 86 | 54 | 145 | -30.11 USD |
 | RN1 | 20 | 16 | 3 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -63,6 +63,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Gamba Ōsaka vs. Urawa Red Diamonds  | Yes (BUY) | 13% | 4.06 | ⏳ pendiente | — |
+| swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 89% | 1.03 | ⏳ pendiente | — |
+| swisstony | Will Gamba Ōsaka win on 2026-08-07? | Yes (BUY) | 85% | 5.61 | ⏳ pendiente | — |
+| swisstony | Spread: Beijing Guoan FC (-1.5) | Beijing Guoan FC (BUY) | 81% | 2.02 | ⏳ pendiente | — |
+| swisstony | Gamba Ōsaka vs. Urawa Red Diamonds: O/U  | Under (BUY) | 86% | 0.97 | ⏳ pendiente | — |
+| swisstony | Gamba Ōsaka vs. Urawa Red Diamonds: O/U  | Under (BUY) | 49% | 3.24 | ⏳ pendiente | — |
+| swisstony | Spread: Beijing Guoan FC (-1.5) | Beijing Guoan FC (BUY) | 81% | 2.81 | ⏳ pendiente | — |
+| swisstony | Spread: Bayern Munich (-1.5) | Aston Villa (BUY) | 74% | 1.29 | ⏳ pendiente | — |
 | swisstony | Spread: Bayern Munich (-1.5) | Aston Villa (BUY) | 74% | 1.29 | ⏳ pendiente | — |
 | swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Under (BUY) | 80% | 1.41 | ⏳ pendiente | — |
 | swisstony | Spread: Beijing Guoan FC (-1.5) | Beijing Guoan FC (BUY) | 81% | 1.22 | ⏳ pendiente | — |
@@ -85,11 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: BNK FEARX vs HANJIN BRION (BO3) - L | HANJIN BRION (BUY) | 100% | 1.27 | ⏳ pendiente | — |
 | swisstony | Will Beijing Guoan FC win on 2026-08-07? | Yes (BUY) | 82% | 4.81 | ⏳ pendiente | — |
 | swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 77% | 3.81 | ⏳ pendiente | — |
-| swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Under (BUY) | 69% | 3.39 | ⏳ pendiente | — |
-| swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 78% | 7.84 | ⏳ pendiente | — |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: BNK FEARX vs HANJIN BRION (BO3) - L | HANJIN BRION (BUY) | 100% | 0.94 | ⏳ pendiente | — |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: BNK FEARX vs HANJIN BRION (BO3) - L | HANJIN BRION (BUY) | 100% | 1.08 | ⏳ pendiente | — |
-| swisstony | Will Gamba Ōsaka win on 2026-08-07? | Yes (BUY) | 81% | 1.34 | ⏳ pendiente | — |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: BNK FEARX vs HANJIN BRION (BO3) - L | HANJIN BRION (BUY) | 100% | 1.86 | ⏳ pendiente | — |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs ThunderTalk Gaming (BO3) | Team WE (BUY) | 38% | 1.12 | ⏳ pendiente | — |
-| swisstony | Will Yokohama F·Marinos win on 2026-08-0 | Yes (BUY) | 88% | 1.22 | ⏳ pendiente | — |
