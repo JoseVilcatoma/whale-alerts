@@ -1,5 +1,5 @@
 {
-  "bankroll": 913.6347875486524,
+  "bankroll": 890.9723209463867,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2950,6 +2950,76 @@
       "timestamp": 1786109987.6702762,
       "bankroll": 913.63,
       "event": "won:  \u2014 CF Intercity vs. Villarreal CF B: O/U 2.5"
+    },
+    {
+      "timestamp": 1786110923.0168366,
+      "bankroll": 905.14,
+      "event": "lost: swisstony \u2014 Will Gamba \u014csaka win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786110923.1171868,
+      "bankroll": 896.83,
+      "event": "lost: swisstony \u2014 Will Gamba \u014csaka win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786110923.2175906,
+      "bankroll": 898.32,
+      "event": "won: swisstony \u2014 Will Gamba \u014csaka win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786110924.504248,
+      "bankroll": 896.84,
+      "event": "lost: swisstony \u2014 Will Gamba \u014csaka win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786110924.6044147,
+      "bankroll": 895.88,
+      "event": "lost: swisstony \u2014 Will Gamba \u014csaka win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786110924.7046816,
+      "bankroll": 894.69,
+      "event": "lost: swisstony \u2014 Will Gamba \u014csaka win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786110924.9051223,
+      "bankroll": 893.58,
+      "event": "lost: swisstony \u2014 Will Gamba \u014csaka win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786110925.0052896,
+      "bankroll": 890.3,
+      "event": "lost: swisstony \u2014 Will Gamba \u014csaka win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786110925.559304,
+      "bankroll": 890.6,
+      "event": "won: swisstony \u2014 Will Gamba \u014csaka win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786110925.6596313,
+      "bankroll": 889.68,
+      "event": "lost: swisstony \u2014 Will Gamba \u014csaka win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786110928.637923,
+      "bankroll": 890.0,
+      "event": "won: swisstony \u2014 Will Gamba \u014csaka win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786110931.9334843,
+      "bankroll": 891.63,
+      "event": "won: swisstony \u2014 Will Gamba \u014csaka win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786110933.530587,
+      "bankroll": 892.62,
+      "event": "won: swisstony \u2014 Will Gamba \u014csaka win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786110934.1319315,
+      "bankroll": 890.97,
+      "event": "lost: swisstony \u2014 Will Gamba \u014csaka win on 2026-08-07?"
     }
   ]
 }
