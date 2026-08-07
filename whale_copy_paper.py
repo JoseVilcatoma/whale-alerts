@@ -81,10 +81,10 @@ TOP_K_REPLICATE = int(os.environ.get("TOP_K_REPLICATE", "5"))
 MIN_TRADE_PCT = float(os.environ.get("MIN_TRADE_PCT", "0.1"))
 MIN_WHALE_PORTFOLIO = float(os.environ.get("MIN_WHALE_PORTFOLIO", "2000"))
 MAX_DAYS_TO_RESOLUTION = float(os.environ.get("MAX_DAYS_TO_RESOLUTION", "1"))  # solo mercados que resuelven el mismo día
-MIN_SHORT_TERM_SHARE = float(os.environ.get("MIN_SHORT_TERM_SHARE", "0.5"))  # % mínimo de sus apuestas recientes que deben ser de corto plazo
+MIN_SHORT_TERM_SHARE = float(os.environ.get("MIN_SHORT_TERM_SHARE", "0.3"))  # % mínimo de sus apuestas recientes que deben ser de corto plazo
 ACTIVITY_SAMPLE_SIZE = int(os.environ.get("ACTIVITY_SAMPLE_SIZE", "10"))  # cuántas apuestas recientes de cada candidato se revisan
 FILL_MERGE_WINDOW_SECONDS = float(os.environ.get("FILL_MERGE_WINDOW_SECONDS", "15"))  # fusiona fills de la misma compra dentro de esta ventana
-ALLTIME_TOP_N = int(os.environ.get("ALLTIME_TOP_N", "300"))  # exige aparecer entre los N mejores históricos (toda la vida), no solo semana/mes
+ALLTIME_TOP_N = int(os.environ.get("ALLTIME_TOP_N", "600"))  # exige aparecer entre los N mejores históricos (toda la vida), no solo semana/mes
 LB_CATEGORY = os.environ.get("LB_CATEGORY", "OVERALL")
 LB_PERIODS = ["WEEK", "MONTH"]
 
@@ -722,17 +722,20 @@ def save_and_commit():
             push_ok = os.system("git push") == 0
             if push_ok:
                 break
-            # El push fue rechazado, probablemente porque el otro bot (el de
-            # alertas) subió cambios mientras tanto. Como cada bot toca
-            # archivos distintos, no hay conflicto real de contenido: bajamos
-            # sus cambios y reordenamos los nuestros encima.
             print(f"[save_and_commit] push rechazado (intento {intento+1}/3), "
-                  f"bajando cambios del otro bot y reintentando...", file=sys.stderr)
+                  f"bajando cambios ajenos y quedándonos con nuestra versión de los paper_* si hay choque...",
+                  file=sys.stderr)
             os.system("git fetch origin main")
-            rebase_ok = os.system("git rebase origin/main") == 0
-            if not rebase_ok:
-                os.system("git rebase --abort")
-                print("[save_and_commit] no se pudo reordenar automáticamente, se reintenta en el próximo ciclo",
+            # Usamos merge (no rebase) con estrategia "ours" para los hunks
+            # que choquen: como los archivos paper_* se recalculan enteros
+            # desde la memoria en cada ciclo, no hay nada que perder
+            # prefiriendo siempre nuestra versión más reciente si hay un
+            # conflicto real de contenido (por ejemplo, si quedó una
+            # corrida vieja del mismo bot corriendo en paralelo).
+            merge_ok = os.system('git merge --no-edit -X ours origin/main') == 0
+            if not merge_ok:
+                os.system("git merge --abort")
+                print("[save_and_commit] no se pudo fusionar automáticamente, se reintenta en el próximo ciclo",
                       file=sys.stderr)
                 break
         trades_dirty = False
