@@ -1,5 +1,5 @@
 {
-  "bankroll": 911.3993200627353,
+  "bankroll": 906.9293475895561,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2615,6 +2615,51 @@
       "timestamp": 1786087375.497796,
       "bankroll": 911.4,
       "event": "won: swisstony \u2014 Portland Timbers vs. Club Puebla: O/U 5.5"
+    },
+    {
+      "timestamp": 1786107097.6533988,
+      "bankroll": 908.92,
+      "event": "lost: swisstony \u2014 Will Urawa Red Diamonds win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786107150.283349,
+      "bankroll": 910.69,
+      "event": "won: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 2.5"
+    },
+    {
+      "timestamp": 1786107153.574414,
+      "bankroll": 907.18,
+      "event": "lost: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 2.5"
+    },
+    {
+      "timestamp": 1786107154.6424565,
+      "bankroll": 906.09,
+      "event": "lost: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 2.5"
+    },
+    {
+      "timestamp": 1786107154.7426448,
+      "bankroll": 910.56,
+      "event": "won: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 2.5"
+    },
+    {
+      "timestamp": 1786107157.4645143,
+      "bankroll": 912.48,
+      "event": "won: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 3.5"
+    },
+    {
+      "timestamp": 1786107158.1590054,
+      "bankroll": 913.13,
+      "event": "won: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 3.5"
+    },
+    {
+      "timestamp": 1786107163.5774124,
+      "bankroll": 910.17,
+      "event": "lost: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 3.5"
+    },
+    {
+      "timestamp": 1786107165.0798407,
+      "bankroll": 906.93,
+      "event": "lost: swisstony \u2014 Gamba \u014csaka vs. Urawa Red Diamonds: O/U 3.5"
     }
   ]
 }
