@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 14:33:38 (hora de Perú)
+Actualizado: 2026-08-07 14:35:41 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 73 | 15 | 0 | 83% |
 | TopGleaguepick | 24 | 5 | 0 | 83% |
 | elizabeth.ethcome | 45 | 9 | 0 | 83% |
-| swisstony | 780 | 170 | 74 | 82% |
+| swisstony | 780 | 170 | 76 | 82% |
 | Bigggggggg | 4 | 1 | 35 | ⚠️ 80% (muestra chica: 5) |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
@@ -48,20 +48,20 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 1 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | UpTheBlues | 101 | 53 | 48 | 66% |
-| GoalLineGhost | 203 | 106 | 3 | 66% |
+| GoalLineGhost | 203 | 106 | 4 | 66% |
 | TAIWANNUMBERONE | 29 | 15 | 0 | 66% |
-| RN1 | 1419 | 754 | 47 | 65% |
+| RN1 | 1419 | 754 | 50 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 159 | 85 | 7 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 6 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 7 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
 | quavoo | 7 | 4 | 3 | 64% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
-| ferrariChampions2026 | 2353 | 1534 | 24 | 61% |
+| ferrariChampions2026 | 2353 | 1534 | 25 | 61% |
 | monkeymashingkeyboard | 34 | 22 | 0 | 61% |
-| HomeRunHazard | 480 | 304 | 9 | 61% |
+| HomeRunHazard | 480 | 304 | 12 | 61% |
 | Pwaddler | 9 | 6 | 1 | 60% |
 | SnakeBall | 3 | 2 | 1 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
@@ -86,7 +86,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | VPenguin | 19 | 21 | 0 | 48% |
 | skyman44 | 11 | 12 | 0 | 48% |
 | PASSTHEMONEY | 72 | 80 | 0 | 47% |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 50 | 2 | 47% |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 44 | 50 | 3 | 47% |
 | Eztennis | 28 | 33 | 0 | 46% |
 | Talvez10 | 28 | 33 | 0 | 46% |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 86 | 1 | 46% |
@@ -102,7 +102,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Avrtsz | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | PleaseWinPlease | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
 | chanello | 1 | 2 | 0 | ⚠️ 33% (muestra chica: 3) |
-| AV23IUa | 13 | 28 | 0 | 32% |
+| AV23IUa | 13 | 28 | 1 | 32% |
 | jtwyslljy | 13 | 29 | 0 | 31% |
 | CORGI8 | 4 | 12 | 0 | 25% |
 | 111111111115 | 11 | 38 | 0 | 22% |
