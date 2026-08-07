@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 20:33:41 (hora de Perú)
+Actualizado: 2026-08-06 20:35:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $944.56
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 9 | 8 | 35 | -31.25 USD |
+| swisstony | 9 | 8 | 38 | -31.25 USD |
 | RN1 | 15 | 14 | 5 | -58.78 USD |
 | HomeRunHazard | 38 | 41 | 16 | -86.80 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
@@ -55,6 +55,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Club Necaxa (-1.5) | Chicago Fire FC (BUY) | 98% | 6.27 | ⏳ pendiente | — |
+| swisstony | Spread: Minnesota Lynx (-15.5) | Minnesota Lynx (BUY) | 33% | 1.20 | ⏳ pendiente | — |
+| swisstony | Chicago Fire FC vs. Club Necaxa: O/U 3.5 | Over (BUY) | 29% | 1.19 | ⏳ pendiente | — |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx | Minnesota Lynx (BUY) | 87% | 6.77 | ⏳ pendiente | — |
 | swisstony | Will Chicago Fire FC win on 2026-08-06? | No (BUY) | 25% | 0.99 | ⏳ pendiente | — |
 | swisstony | Will Austin FC vs. Club Tijuana end in a | Yes (BUY) | 21% | 2.44 | ⏳ pendiente | — |
@@ -82,6 +85,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Boston Red Sox (-1.5) | Chicago White Sox (BUY) | 76% | 1.76 | ⏳ pendiente | — |
 | swisstony | Spread: SC Corinthians Paulista (-1.5) | SC Internacional (BUY) | 75% | 3.06 | ⏳ pendiente | — |
 | swisstony | Spread: Boston Red Sox (-2.5) | Chicago White Sox (BUY) | 81% | 1.03 | ⏳ pendiente | — |
-| swisstony | New York City FC vs. Club Santos Laguna: | Under (BUY) | 54% | 4.70 | ⏳ pendiente | — |
-| swisstony | Spread: SC Corinthians Paulista (-1.5) | SC Corinthians Paulista (BUY) | 31% | 0.88 | ⏳ pendiente | — |
-| swisstony | Spread: Club Santos Laguna (-1.5) | New York City FC (BUY) | 96% | 4.76 | ⏳ pendiente | — |
