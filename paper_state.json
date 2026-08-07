@@ -1,5 +1,5 @@
 {
-  "bankroll": 910.0011621576764,
+  "bankroll": 931.4738731454723,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2195,6 +2195,76 @@
       "timestamp": 1786077856.4047782,
       "bankroll": 910.0,
       "event": "won: swisstony \u2014 Toronto Tempo vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786077909.3865159,
+      "bankroll": 919.52,
+      "event": "won: HomeRunHazard \u2014 Toronto Tempo vs. Portland Fire: O/U 188.5"
+    },
+    {
+      "timestamp": 1786077909.676727,
+      "bankroll": 924.25,
+      "event": "won: HomeRunHazard \u2014 Toronto Tempo vs. Portland Fire: O/U 186.5"
+    },
+    {
+      "timestamp": 1786077909.7769659,
+      "bankroll": 927.44,
+      "event": "won: HomeRunHazard \u2014 Toronto Tempo vs. Portland Fire: O/U 186.5"
+    },
+    {
+      "timestamp": 1786077914.0166194,
+      "bankroll": 929.39,
+      "event": "won: swisstony \u2014 Toronto Tempo vs. Portland Fire: O/U 188.5"
+    },
+    {
+      "timestamp": 1786077914.9938004,
+      "bankroll": 930.58,
+      "event": "won: swisstony \u2014 Toronto Tempo vs. Portland Fire: O/U 188.5"
+    },
+    {
+      "timestamp": 1786077915.7955155,
+      "bankroll": 929.11,
+      "event": "lost: swisstony \u2014 Toronto Tempo vs. Portland Fire: O/U 188.5"
+    },
+    {
+      "timestamp": 1786077915.9958472,
+      "bankroll": 923.94,
+      "event": "lost: swisstony \u2014 Toronto Tempo vs. Portland Fire: O/U 188.5"
+    },
+    {
+      "timestamp": 1786077916.7726192,
+      "bankroll": 924.62,
+      "event": "won: swisstony \u2014 Toronto Tempo vs. Portland Fire: O/U 187.5"
+    },
+    {
+      "timestamp": 1786077916.8728533,
+      "bankroll": 925.83,
+      "event": "won: swisstony \u2014 Toronto Tempo vs. Portland Fire: O/U 188.5"
+    },
+    {
+      "timestamp": 1786077973.0010796,
+      "bankroll": 927.44,
+      "event": "won: swisstony \u2014 Toronto Tempo vs. Portland Fire: O/U 185.5"
+    },
+    {
+      "timestamp": 1786077974.203548,
+      "bankroll": 928.99,
+      "event": "won: swisstony \u2014 Toronto Tempo vs. Portland Fire: O/U 185.5"
+    },
+    {
+      "timestamp": 1786077974.8046896,
+      "bankroll": 927.06,
+      "event": "lost: swisstony \u2014 Toronto Tempo vs. Portland Fire: O/U 185.5"
+    },
+    {
+      "timestamp": 1786077975.1053386,
+      "bankroll": 927.8,
+      "event": "won: swisstony \u2014 Toronto Tempo vs. Portland Fire: O/U 185.5"
+    },
+    {
+      "timestamp": 1786077975.9813442,
+      "bankroll": 931.47,
+      "event": "won: swisstony \u2014 Toronto Tempo vs. Portland Fire: O/U 185.5"
     }
   ]
 }
