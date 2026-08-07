@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 22:01:05 (hora de Perú)
+Actualizado: 2026-08-06 22:03:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $977.12
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 17 | 14 | 6 | +150.71 USD |
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
-| swisstony | 16 | 10 | 105 | -16.13 USD |
+| swisstony | 16 | 10 | 106 | -16.13 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 16 | 15 | 3 | -57.94 USD |
 | HomeRunHazard | 40 | 42 | 13 | -82.72 USD |
@@ -57,6 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | CF América vs. San Diego FC: Both Teams  | Yes (BUY) | 41% | 1.08 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 2.5 | Under (BUY) | 59% | 13.01 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: Both Teams t | No (BUY) | 85% | 5.83 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: Both Teams t | No (BUY) | 84% | 5.32 | ⏳ pendiente | — |
@@ -86,4 +87,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Austin FC (-1.5) | Club Tijuana (BUY) | 25% | 1.07 | ⏳ pendiente | — |
 | swisstony | Austin FC vs. Club Tijuana: O/U 3.5 | Under (BUY) | 74% | 1.22 | ⏳ pendiente | — |
 | swisstony | Spread: Austin FC (-1.5) | Austin FC (BUY) | 70% | 1.19 | ⏳ pendiente | — |
-| swisstony | Spread: Austin FC (-1.5) | Austin FC (BUY) | 70% | 13.29 | ⏳ pendiente | — |
