@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 01:17:25 (hora de Perú)
+Actualizado: 2026-08-07 01:19:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $916.14
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 20 | 17 | 0 | +123.77 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 0 | +0.00 USD |
-|  | 0 | 0 | 5 | +0.00 USD |
+|  | 0 | 0 | 6 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | swisstony | 85 | 54 | 14 | -31.30 USD |
 | RN1 | 20 | 16 | 3 | -52.75 USD |
@@ -63,6 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+|  | Atlanta Dream vs. Washington Mystics: O/ | Over (BUY) | 55% | 8.99 | ⏳ pendiente | — |
 | swisstony | Spread: Seattle Mariners (-2.5) | Tampa Bay Rays (BUY) | 77% | 1.37 | ⏳ pendiente | — |
 |  | Aston Villa vs. Bayern Munich: Bayern Mu | Over (BUY) | 64% | 12.22 | ⏳ pendiente | — |
 | swisstony | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 54% | 1.41 | ⏳ pendiente | — |
@@ -92,4 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 18% | 1.23 | ❌ perdida | -1.23 |
 | swisstony | San Diego Padres vs. Arizona Diamondback | Under (BUY) | 53% | 1.32 | ✅ ganada | +1.17 |
 | swisstony | Toronto Tempo vs. PortlandFire | PortlandFire (BUY) | 92% | 1.62 | ✅ ganada | +0.14 |
-| swisstony | Toronto Tempo vs. Portland Fire: O/U 185 | Under (BUY) | 56% | 4.68 | ✅ ganada | +3.68 |
