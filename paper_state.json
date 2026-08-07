@@ -1,5 +1,5 @@
 {
-  "bankroll": 931.4597654129556,
+  "bankroll": 931.6803329126828,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2315,6 +2315,26 @@
       "timestamp": 1786078226.2140837,
       "bankroll": 931.46,
       "event": "won: swisstony \u2014 San Diego Padres vs. Arizona Diamondbacks: O/U 10.5"
+    },
+    {
+      "timestamp": 1786079031.0851176,
+      "bankroll": 931.63,
+      "event": "won: swisstony \u2014 SC Corinthians Paulista vs. SC Internacional: O/U 5.5"
+    },
+    {
+      "timestamp": 1786079093.016711,
+      "bankroll": 930.54,
+      "event": "lost: swisstony \u2014 SC Corinthians Paulista vs. SC Internacional: O/U 3.5"
+    },
+    {
+      "timestamp": 1786079093.2725875,
+      "bankroll": 930.98,
+      "event": "won: swisstony \u2014 SC Corinthians Paulista vs. SC Internacional: O/U 4.5"
+    },
+    {
+      "timestamp": 1786079093.5731218,
+      "bankroll": 931.68,
+      "event": "won: RN1 \u2014 SC Corinthians Paulista vs. SC Internacional: O/U 3.5"
     }
   ]
 }
