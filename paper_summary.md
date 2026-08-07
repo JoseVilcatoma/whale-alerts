@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 07:00:49 (hora de Perú)
+Actualizado: 2026-08-07 07:02:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.40
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 7 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 86 | 54 | 121 | -30.11 USD |
+| swisstony | 86 | 54 | 123 | -30.11 USD |
 | RN1 | 20 | 16 | 3 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -63,6 +63,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 32% | 0.94 | ⏳ pendiente | — |
+| swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 32% | 1.45 | ⏳ pendiente | — |
 | swisstony | Suwon Bluewings vs. Gimhae FC: O/U 2.5 | Under (BUY) | 77% | 2.71 | ⏳ pendiente | — |
 | swisstony | Gyeongnam FC vs. Daegu FC: O/U 2.5 | Under (BUY) | 78% | 2.86 | ⏳ pendiente | — |
 | swisstony | Yongin FC vs. Busan IPark: O/U 2.5 | Under (BUY) | 81% | 4.43 | ⏳ pendiente | — |
@@ -91,5 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Under (BUY) | 75% | 1.51 | ⏳ pendiente | — |
 | swisstony | Will Shenzhen Xinpengcheng FC win on 202 | No (BUY) | 85% | 1.51 | ⏳ pendiente | — |
 | swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Under (BUY) | 55% | 1.41 | ⏳ pendiente | — |
-| swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Under (BUY) | 55% | 5.87 | ⏳ pendiente | — |
-| swisstony | Will Beijing Guoan FC win on 2026-08-07? | No (BUY) | 34% | 2.32 | ⏳ pendiente | — |
