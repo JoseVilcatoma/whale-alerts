@@ -10371,5 +10371,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786102264.7042375,
     "fills": 1
+  },
+  {
+    "timestamp": 1786102349,
+    "timestamp_added": 1786102349.7550223,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "chi-bgu-xin-2026-08-07-total-3pt5",
+    "title": "Beijing Guoan FC vs. Shenzhen Xinpengcheng FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 537.5799999999999,
+    "whale_pct": 0.337,
+    "paper_stake_usd": 3.07,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786102350.7474496,
+    "fills": 2
   }
 ]
