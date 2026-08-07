@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 13:41:48 (hora de Perú)
+Actualizado: 2026-08-07 13:43:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $761.32
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | RN1 | 30 | 21 | 2 | -103.62 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
-| swisstony | 215 | 150 | 130 | -119.54 USD |
+| swisstony | 215 | 150 | 131 | -119.54 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
 | texaskid | 1 | 2 | 0 | -1,530.59 USD |
@@ -69,6 +69,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Boluspor vs. Manisa Futbol Kulubu: Both  | Yes (BUY) | 84% | 0.88 | ⏳ pendiente | — |
 | swisstony | VfL Bochum vs. Hertha BSC: O/U 3.5 | Under (BUY) | 74% | 1.77 | ⏳ pendiente | — |
 | swisstony | VVV Venlo vs. Heracles Almelo: O/U 0.5 | Over (BUY) | 100% | 1.74 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | No (BUY) | 81% | 2.66 | ⏳ pendiente | — |
@@ -98,4 +99,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | SC Cambuur-Leeuwarden vs. SBV Excelsior: | Under (BUY) | 51% | 5.19 | ⏳ pendiente | — |
 | swisstony | Will FC Slovan Liberec win on 2026-08-07 | Yes (BUY) | 30% | 0.94 | ⏳ pendiente | — |
 | swisstony | Will SC Cambuur-Leeuwarden vs. SBV Excel | Yes (BUY) | 28% | 1.46 | ⏳ pendiente | — |
-| swisstony | Spread: Shamrock Rovers (-1.5) | Dundalk FC (BUY) | 72% | 0.80 | ⏳ pendiente | — |
