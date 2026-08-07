@@ -174910,5 +174910,101 @@
     "usd": 3274.53,
     "odds_at_bet": 93,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786130610,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-bergs-shelton-2026-08-07",
+    "title": "National Bank Open: Zizou Bergs vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 2978.4857140000004,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130610,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-bergs-shelton-2026-08-07",
+    "title": "National Bank Open: Zizou Bergs vs Ben Shelton",
+    "outcome": "Zizou Bergs",
+    "side": "BUY",
+    "usd": 1158.299999,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130610,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-bergs-shelton-2026-08-07",
+    "title": "National Bank Open: Zizou Bergs vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 2866.8383999999996,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130610,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-bergs-shelton-2026-08-07",
+    "title": "National Bank Open: Zizou Bergs vs Ben Shelton",
+    "outcome": "Zizou Bergs",
+    "side": "BUY",
+    "usd": 1758.4,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130612,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-bergs-shelton-2026-08-07",
+    "title": "National Bank Open: Zizou Bergs vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 3550.0,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130612,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-bergs-shelton-2026-08-07",
+    "title": "National Bank Open: Zizou Bergs vs Ben Shelton",
+    "outcome": "Zizou Bergs",
+    "side": "BUY",
+    "usd": 6637.5229,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130651,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "efl-mid-wre-2026-08-07-btts",
+    "title": "Middlesbrough FC vs. Wrexham AFC: Both Teams to Score",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1615.97,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786130705,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-andreev-fernand-2026-08-08",
+    "title": "National Bank Open: Mirra Andreeva vs Leylah Fernandez",
+    "outcome": "Leylah Fernandez",
+    "side": "BUY",
+    "usd": 3246.8505419999997,
+    "odds_at_bet": 93,
+    "status": "pending"
   }
 ]
