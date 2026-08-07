@@ -1,5 +1,5 @@
 {
-  "bankroll": 930.8403329126828,
+  "bankroll": 929.8203329126828,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2360,6 +2360,11 @@
       "timestamp": 1786079341.8028612,
       "bankroll": 930.84,
       "event": "won: swisstony \u2014 Will Chicago Fire FC win on 2026-08-06?"
+    },
+    {
+      "timestamp": 1786079587.6683142,
+      "bankroll": 929.82,
+      "event": "lost: swisstony \u2014 Austin FC vs. Club Tijuana: O/U 4.5"
     }
   ]
 }
