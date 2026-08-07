@@ -8,25 +8,25 @@
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1785994516.2944582,
-    "roi_pct": 203.62,
-    "short_term_pct": 70.0
+    "roi_pct": 196.06,
+    "short_term_pct": 100.0
   },
   "0xdb859a551fcf56e49416160911476bea7307152f": {
     "username": "AV23IUa",
     "added_at": 1786061201.917206,
-    "roi_pct": 147.49,
+    "roi_pct": 165.1,
     "short_term_pct": 60.0
   },
   "0x204f72f35326db932158cba6adff0b9a1da95e14": {
     "username": "swisstony",
     "added_at": 1786061201.9172084,
-    "roi_pct": 134.75,
-    "short_term_pct": 60.0
+    "roi_pct": 149.24,
+    "short_term_pct": 50.0
   },
   "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
     "username": "Sassy-Bucket",
     "added_at": 1786061201.9172096,
-    "roi_pct": 107.29,
+    "roi_pct": 103.02,
     "short_term_pct": 60.0
   }
 }
