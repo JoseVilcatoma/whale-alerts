@@ -178114,5 +178114,41 @@
     "usd": 1709.9999999999998,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786135247,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "mlb-oak-bos-2026-08-07",
+    "title": "Athletics vs. Boston Red Sox",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 1183.3251719999998,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786135278,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "efl-wyc-ste-2026-08-07-btts",
+    "title": "Wycombe Wanderers FC vs. Stevenage FC: Both Teams to Score",
+    "outcome": "Yes",
+    "side": "SELL",
+    "usd": 1201.7170800000001,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786135307,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-ruud-fonseca-2026-08-07",
+    "title": "National Bank Open: Casper Ruud vs Joao Fonseca",
+    "outcome": "Casper Ruud",
+    "side": "BUY",
+    "usd": 5520.0,
+    "odds_at_bet": 46,
+    "status": "pending"
   }
 ]

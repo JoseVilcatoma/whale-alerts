@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 15:39:41 (hora de Perú)
+Actualizado: 2026-08-07 15:42:04 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -23,7 +23,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | paquitomillonario | 22 | 2 | 0 | 92% |
 | patient12 | 64 | 7 | 2 | 90% |
 | surfandturf | 6 | 1 | 0 | ⚠️ 86% (muestra chica: 7) |
-| texaskid | 18 | 3 | 5 | 86% |
+| texaskid | 18 | 3 | 6 | 86% |
 | cigarettes | 73 | 15 | 0 | 83% |
 | TopGleaguepick | 24 | 5 | 1 | 83% |
 | elizabeth.ethcome | 45 | 9 | 0 | 83% |
@@ -66,10 +66,10 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | SnakeBall | 3 | 2 | 5 | ⚠️ 60% (muestra chica: 5) |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 30 | 21 | 0 | 59% |
 | 0x4f2 | 23 | 16 | 0 | 59% |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 18 | 58% |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 217 | 156 | 19 | 58% |
 | us391 | 33 | 24 | 0 | 58% |
 | StasPanda | 26 | 19 | 2 | 58% |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 54 | 39 | 8 | 58% |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 54 | 39 | 9 | 58% |
 | meoooow | 23 | 19 | 6 | 55% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | AnonymousUsername | 54 | 46 | 0 | 54% |
