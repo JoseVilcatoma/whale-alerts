@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-06 20:07:03 (hora de Perú)
+Actualizado: 2026-08-06 20:09:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,003.13
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
 | HomeRunHazard | 38 | 40 | 17 | -19.17 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 8 | 8 | 21 | -36.20 USD |
+| swisstony | 8 | 8 | 22 | -36.20 USD |
 | RN1 | 15 | 14 | 4 | -58.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
@@ -53,6 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Los Angeles Sparks vs. Minnesota Lynx: O | Over (BUY) | 50% | 1.39 | ⏳ pendiente | — |
 | swisstony | Los Angeles Sparks vs. Minnesota Lynx | Minnesota Lynx (BUY) | 92% | 3.39 | ⏳ pendiente | — |
 | RN1 | Spread: Chicago White Sox (-2.5) | Boston Red Sox (BUY) | 64% | 5.64 | ⏳ pendiente | — |
 | RN1 | SC Corinthians Paulista vs. SC Internaci | Under (BUY) | 85% | 3.96 | ⏳ pendiente | — |
@@ -82,4 +83,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 48% | 3.79 | ⏳ pendiente | — |
 | swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 85% | 1.38 | ✅ ganada | +0.24 |
 | swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 84% | 1.38 | ✅ ganada | +0.26 |
-| swisstony | Chicago White Sox vs. Boston Red Sox: O/ | Over (BUY) | 84% | 1.34 | ✅ ganada | +0.26 |
