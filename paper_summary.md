@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 07:36:08 (hora de Perú)
+Actualizado: 2026-08-07 07:38:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.40
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 8 | +0.00 USD |
 |  | 0 | 0 | 7 | +0.00 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| swisstony | 86 | 54 | 167 | -30.11 USD |
+| swisstony | 86 | 54 | 170 | -30.11 USD |
 | RN1 | 20 | 16 | 3 | -52.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -63,6 +63,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Aston Villa vs. Bayern Munich: O/U 5.5 | Under (BUY) | 98% | 1.09 | ⏳ pendiente | — |
+| swisstony | Spread: Bayern Munich (-2.5) | Aston Villa (BUY) | 91% | 1.08 | ⏳ pendiente | — |
+| swisstony | Aston Villa vs. Bayern Munich: O/U 2.5 | Under (BUY) | 64% | 1.36 | ⏳ pendiente | — |
 | swisstony | Will Bayern Munich win on 2026-08-07? | Yes (BUY) | 50% | 1.09 | ⏳ pendiente | — |
 | swisstony | Aston Villa vs. Bayern Munich: O/U 0.5 | Over (BUY) | 88% | 3.38 | ⏳ pendiente | — |
 | swisstony | Spread: Bayern Munich (-1.5) | Aston Villa (BUY) | 75% | 3.40 | ⏳ pendiente | — |
@@ -90,6 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Beijing Guoan FC vs. Shenzhen Xinpengche | Over (BUY) | 89% | 1.03 | ⏳ pendiente | — |
 | swisstony | Will Gamba Ōsaka win on 2026-08-07? | Yes (BUY) | 85% | 5.61 | ⏳ pendiente | — |
 | swisstony | Spread: Beijing Guoan FC (-1.5) | Beijing Guoan FC (BUY) | 81% | 2.02 | ⏳ pendiente | — |
-| swisstony | Gamba Ōsaka vs. Urawa Red Diamonds: O/U  | Under (BUY) | 86% | 0.97 | ⏳ pendiente | — |
-| swisstony | Gamba Ōsaka vs. Urawa Red Diamonds: O/U  | Under (BUY) | 49% | 3.24 | ⏳ pendiente | — |
-| swisstony | Spread: Beijing Guoan FC (-1.5) | Beijing Guoan FC (BUY) | 81% | 2.81 | ⏳ pendiente | — |
