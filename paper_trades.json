@@ -16295,5 +16295,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786127814.446404,
     "fills": 1
+  },
+  {
+    "timestamp": 1786127912,
+    "timestamp_added": 1786127913.2073114,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bl2-boc-ber-2026-08-07-total-2pt5",
+    "title": "VfL Bochum vs. Hertha BSC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 395.58,
+    "whale_pct": 0.186,
+    "paper_stake_usd": 1.41,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786127913.207323,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 13:37:36 (hora de Perú)
+Actualizado: 2026-08-07 13:39:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $761.32
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | RN1 | 30 | 21 | 2 | -103.62 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
-| swisstony | 215 | 150 | 126 | -119.54 USD |
+| swisstony | 215 | 150 | 127 | -119.54 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
 | texaskid | 1 | 2 | 0 | -1,530.59 USD |
@@ -69,6 +69,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | VfL Bochum vs. Hertha BSC: O/U 2.5 | Under (BUY) | 50% | 1.41 | ⏳ pendiente | — |
 | RN1 | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 98% | 2.40 | ⏳ pendiente | — |
 | RN1 | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 46% | 1.15 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | No (BUY) | 74% | 1.59 | ⏳ pendiente | — |
@@ -98,4 +99,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will FC UTA Arad win on 2026-08-07? | No (BUY) | 66% | 2.28 | ⏳ pendiente | — |
 | swisstony | Will FC Rapid 1923 win on 2026-08-07? | Yes (BUY) | 36% | 1.86 | ⏳ pendiente | — |
 | swisstony | Sandefjord Fotball vs. KFUM-Kameratene O | Under (BUY) | 49% | 2.00 | ⏳ pendiente | — |
-| swisstony | Spread: Ostersunds FK (-1.5) | GIF Sundsvall (BUY) | 43% | 2.09 | ⏳ pendiente | — |
