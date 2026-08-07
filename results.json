@@ -178906,5 +178906,17 @@
     "usd": 27897.542400000002,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786136911,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-mertens-osaka-2026-08-08",
+    "title": "National Bank Open: Elise Mertens vs Naomi Osaka",
+    "outcome": "Elise Mertens",
+    "side": "BUY",
+    "usd": 1039.1309999999999,
+    "odds_at_bet": 30,
+    "status": "pending"
   }
 ]
