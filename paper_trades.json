@@ -7673,5 +7673,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786070261.7949488,
     "fills": 1
+  },
+  {
+    "timestamp": 1786070283,
+    "timestamp_added": 1786070284.35471,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-mia-atl-2026-08-06-total-10pt5",
+    "title": "Miami Marlins vs. Atlanta Braves: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 481.88999799999993,
+    "whale_pct": 0.248,
+    "paper_stake_usd": 2.36,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786070284.3547184,
+    "fills": 1
   }
 ]
