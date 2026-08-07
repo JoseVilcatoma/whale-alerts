@@ -1,5 +1,5 @@
 {
-  "bankroll": 916.137368843223,
+  "bankroll": 911.3993200627353,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -2605,6 +2605,16 @@
       "timestamp": 1786083311.8571253,
       "bankroll": 916.14,
       "event": "won: swisstony \u2014 CF Am\u00e9rica vs. San Diego FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786087375.1140988,
+      "bankroll": 910.21,
+      "event": "lost: HomeRunHazard \u2014 Chicago White Sox vs. Boston Red Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786087375.497796,
+      "bankroll": 911.4,
+      "event": "won: swisstony \u2014 Portland Timbers vs. Club Puebla: O/U 5.5"
     }
   ]
 }
