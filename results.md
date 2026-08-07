@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 14:37:48 (hora de Perú)
+Actualizado: 2026-08-07 14:39:57 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | Winnerdinnerchickenjr | 13 | 5 | 0 | 72% |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 30 | 12 | 0 | 71% |
 | fRibrenlc | 33 | 15 | 0 | 69% |
-| fkgggg2mouzfuria | 139 | 63 | 0 | 69% |
+| fkgggg2mouzfuria | 139 | 63 | 1 | 69% |
 | BirdMan. | 95 | 44 | 3 | 68% |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 13 | 6 | 0 | 68% |
 | Sparkling8899 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
@@ -48,13 +48,13 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 1 | 67% |
 | xifutloong3 | 4 | 2 | 0 | ⚠️ 67% (muestra chica: 6) |
 | UpTheBlues | 101 | 53 | 48 | 66% |
-| GoalLineGhost | 203 | 106 | 4 | 66% |
+| GoalLineGhost | 203 | 106 | 5 | 66% |
 | TAIWANNUMBERONE | 29 | 15 | 0 | 66% |
-| RN1 | 1419 | 754 | 52 | 65% |
+| RN1 | 1419 | 754 | 53 | 65% |
 | cruzNBA | 15 | 8 | 0 | 65% |
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
-| VeryLucky888 | 159 | 85 | 7 | 65% |
+| VeryLucky888 | 159 | 85 | 8 | 65% |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 7 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
 | quavoo | 7 | 4 | 3 | 64% |
@@ -70,7 +70,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | us391 | 33 | 24 | 0 | 58% |
 | StasPanda | 26 | 19 | 2 | 58% |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | 54 | 39 | 4 | 58% |
-| meoooow | 23 | 19 | 1 | 55% |
+| meoooow | 23 | 19 | 2 | 55% |
 | 1winstreak1 | 58 | 49 | 0 | 54% |
 | AnonymousUsername | 54 | 46 | 0 | 54% |
 | wr0ngw4yb3tt0r | 186 | 174 | 0 | 52% |
@@ -124,3 +124,4 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | ofgoodfgdohojdfitsjustmoney | 0 | 0 | 1 | — |
 | Jsram | 0 | 0 | 2 | — |
 | JnStTrdrBnusFnd | 0 | 0 | 4 | — |
+| facai86868 | 0 | 0 | 1 | — |

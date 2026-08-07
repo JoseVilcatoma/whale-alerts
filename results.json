@@ -175606,5 +175606,77 @@
     "usd": 1705.3654,
     "odds_at_bet": 96,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786131479,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-andreev-fernand-2026-08-08",
+    "title": "National Bank Open: Mirra Andreeva vs Leylah Fernandez",
+    "outcome": "Leylah Fernandez",
+    "side": "BUY",
+    "usd": 5655.02586,
+    "odds_at_bet": 97,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786131496,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "efl-mid-wre-2026-08-07-wre",
+    "title": "Will Wrexham AFC win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 1074.304,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786131523,
+    "username": "fkgggg2mouzfuria",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-th-fnc-2026-08-07",
+    "title": "LoL: Team Heretics vs Fnatic (BO3) - LEC Regular Season",
+    "outcome": "Team Heretics",
+    "side": "BUY",
+    "usd": 5565.4890000000005,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786131564,
+    "username": "VeryLucky888",
+    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+    "slug": "mlb-tor-phi-2026-08-07",
+    "title": "Toronto Blue Jays vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 2443.0054999999998,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786131575,
+    "username": "meoooow",
+    "wallet": "0xd202bf6d89dc6bab1b9f00ead175f75466348973",
+    "slug": "lol-th-fnc-2026-08-07",
+    "title": "LoL: Team Heretics vs Fnatic (BO3) - LEC Regular Season",
+    "outcome": "Team Heretics",
+    "side": "BUY",
+    "usd": 1788.4038999999998,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786131595,
+    "username": "facai86868",
+    "wallet": "0xa1f39b9b21a7bfb0f540cf106b92e240c7b7d99c",
+    "slug": "wnba-atl-wsh-2026-08-07-spread-away-5pt5",
+    "title": "Spread: Atlanta Dream (-5.5)",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "usd": 1025.9132000000002,
+    "odds_at_bet": 52,
+    "status": "pending"
   }
 ]
