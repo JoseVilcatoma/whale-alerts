@@ -1,6 +1,6 @@
 # Resultados de las apuestas fuertes alertadas
 
-Actualizado: 2026-08-07 15:14:47 (hora de Perú)
+Actualizado: 2026-08-07 15:16:50 (hora de Perú)
 
 _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | cigarettes | 73 | 15 | 0 | 83% |
 | TopGleaguepick | 24 | 5 | 1 | 83% |
 | elizabeth.ethcome | 45 | 9 | 0 | 83% |
-| swisstony | 780 | 170 | 91 | 82% |
+| swisstony | 780 | 170 | 94 | 82% |
 | Bigggggggg | 4 | 1 | 37 | ⚠️ 80% (muestra chica: 5) |
 | mooseborzoi | 63 | 20 | 0 | 76% |
 | THEdirkdiggler | 3 | 1 | 0 | ⚠️ 75% (muestra chica: 4) |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca
 | humkyakare | 15 | 8 | 0 | 65% |
 | ninasuskevic | 13 | 7 | 0 | 65% |
 | VeryLucky888 | 159 | 85 | 8 | 65% |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 10 | 64% |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 301 | 11 | 64% |
 | SDTrading | 7 | 4 | 0 | 64% |
 | quavoo | 7 | 4 | 4 | 64% |
 | Djdjdjekekek | 125 | 78 | 0 | 62% |
