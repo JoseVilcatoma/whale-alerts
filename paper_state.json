@@ -3960,6 +3960,21 @@
       "timestamp": 1786231765.9852593,
       "bankroll": 469.31,
       "event": "won: RN1 \u2014 Will Sporting CP win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786231893.7979429,
+      "bankroll": 469.31,
+      "event": "won: RN1 \u2014 Will CF Estrela da Amadora win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786231957.3864272,
+      "bankroll": 469.31,
+      "event": "lost: RN1 \u2014 CF Estrela da Amadora vs. Sporting CP: O/U 3.5"
+    },
+    {
+      "timestamp": 1786231958.4216318,
+      "bankroll": 469.31,
+      "event": "won: RN1 \u2014 CF Estrela da Amadora vs. Sporting CP: O/U 4.5"
     }
   ]
 }
