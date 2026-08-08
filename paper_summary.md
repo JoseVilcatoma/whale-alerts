@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 01:13:24 (hora de Perú)
+Actualizado: 2026-08-08 01:15:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $949.24
@@ -14,14 +14,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| UpTheBlues | 1 | 0 | 37 | +0.03 USD |
+| UpTheBlues | 1 | 0 | 40 | +0.03 USD |
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 15 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 18 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
-| fRibrenlc | 0 | 0 | 5 | +0.00 USD |
+| fRibrenlc | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 14 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 16 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | ferrariChampions2026 | 10 | 12 | 29 | -57.12 USD |
 
@@ -54,6 +54,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 1.38 | ⏳ pendiente | — |
+| UpTheBlues | FK Lokomotiv Moskva vs. FK Akron Tolyatt | Under (BUY) | 23% | 0.98 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 19.20 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports - Game  | LNG Esports (BUY) | 35% | 1.27 | ⏳ pendiente | — |
+| UpTheBlues | Spread: Cerezo Ōsaka (-1.5) | Fagiano Okayama (BUY) | 76% | 4.22 | ⏳ pendiente | — |
+| UpTheBlues | Hokkaidō Consadole Sapporo vs. Tokushima | Under (BUY) | 50% | 6.77 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Indiana Fever (-6.5) | Chicago Sky (BUY) | 51% | 8.13 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 2.91 | ⏳ pendiente | — |
+| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Over (BUY) | 52% | 1.43 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Athletics (-1.5) | Boston Red Sox (BUY) | 77% | 1.06 | ⏳ pendiente | — |
 | HomeRunHazard | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 50% | 1.06 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 16.48 | ⏳ pendiente | — |
@@ -75,12 +84,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will FC Seoul win on 2026-08-08? | Yes (BUY) | 49% | 3.64 | ⏳ pendiente | — |
 | quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 61% | 1.43 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Tegevajaro Miyazaki (-1.5) | Yokohama FC (BUY) | 84% | 2.90 | ⏳ pendiente | — |
-| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 61% | 7.92 | ⏳ pendiente | — |
-| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 61% | 2.89 | ⏳ pendiente | — |
-| fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 9.21 | ⏳ pendiente | — |
-| quavoo | Counter-Strike: 9INE vs ABT Esports - Ma | 9INE (BUY) | 39% | 1.24 | ⏳ pendiente | — |
-| quavoo | Will Chelsea FC win on 2026-08-08? | Yes (BUY) | 48% | 1.03 | ⏳ pendiente | — |
-| HomeRunHazard | Colorado Rockies vs. St. Louis Cardinals | Under (BUY) | 66% | 4.35 | ⏳ pendiente | — |
-| quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 54% | 2.54 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Vissel Kōbe (-1.5) | Avispa Fukuoka (BUY) | 81% | 1.32 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 3.60 | ⏳ pendiente | — |
