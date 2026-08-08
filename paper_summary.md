@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 23:59:39 (hora de Perú)
+Actualizado: 2026-08-08 00:01:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $953.89
-**Retorno acumulado:** -4.61%
+**Bankroll actual:** $946.90
+**Retorno acumulado:** -5.31%
 **Peor caída desde un máximo (drawdown):** 5.98%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,10 +14,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 1 | 0 | 1 | +5.41 USD |
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 33 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
+| wr0ngw4yb3tt0r | 1 | 1 | 0 | -1.58 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | HomeRunHazard | 3 | 5 | 3 | -6.30 USD |
 | ferrariChampions2026 | 10 | 12 | 29 | -57.12 USD |
@@ -60,7 +60,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 55% | 5.24 | ❌ perdida | -5.24 |
 | ferrariChampions2026 | Spread: San Francisco Giants (-2.5) | Detroit Tigers (BUY) | 46% | 2.59 | ❌ perdida | -2.59 |
 | HomeRunHazard | Spread: San Francisco Giants (-2.5) | Detroit Tigers (BUY) | 44% | 1.65 | ❌ perdida | -1.65 |
-| wr0ngw4yb3tt0r | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 41% | 6.99 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 41% | 6.99 | ❌ perdida | -6.99 |
 | UpTheBlues | Spread: FC Juárez (-1.5) | Vancouver Whitecaps FC (BUY) | 93% | 2.38 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Juárez win on 2026-08-07? | Yes (BUY) | 52% | 3.26 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 75% | 2.49 | ❌ perdida | -2.49 |
