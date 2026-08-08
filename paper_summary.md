@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 08:26:26 (hora de Perú)
+Actualizado: 2026-08-08 08:28:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $529.71
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 9 | 1 | +9.70 USD |
 | greyoctober | 4 | 0 | 3 | +9.27 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| quavoo | 0 | 0 | 32 | +0.00 USD |
+| quavoo | 0 | 0 | 33 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | ThornyDevil | 3 | 0 | 2 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 45 | -3.99 USD |
 | UpTheBlues | 25 | 20 | 20 | -4.56 USD |
-| RN1 | 2 | 2 | 16 | -5.13 USD |
+| RN1 | 2 | 2 | 18 | -5.13 USD |
 | ferrariChampions2026 | 117 | 105 | 57 | -59.90 USD |
 | fRibrenlc | 0 | 12 | 8 | -127.91 USD |
 | TAIWANNUMBERONE | 1 | 31 | 6 | -303.20 USD |
@@ -86,6 +86,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Bayer Leverkusen vs. Sevilla FC: O/U 3.5 | Under (BUY) | 62% | 0.57 | ⏳ pendiente | — |
+| RN1 | Dalian Yingbo FC vs. Liaoning Tieren FC: | Under (BUY) | 76% | 0.55 | ⏳ pendiente | — |
+| quavoo | Spread: Real Sociedad San Sebastian (-1. | 1. FC Cologne (BUY) | 86% | 0.87 | ⏳ pendiente | — |
 | RN1 | Will Chengdu Rongcheng FC win on 2026-08 | No (BUY) | 86% | 0.69 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Chengdu Rongcheng FC win on 2026-08 | No (BUY) | 86% | 3.13 | ⏳ pendiente | — |
 | RN1 | Will CA Gimnasia y Esgrima de Mendoza wi | No (BUY) | 85% | 8.00 | ⏳ pendiente | — |
@@ -113,6 +116,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Tottenham Hotspur win on 2026-08-08 | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | quavoo | Racing Club De Lens vs. Sunderland AFC:  | Over (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Over (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| quavoo | Cleveland Guardians vs. Chicago White So | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 56% | 7.58 | ⏳ pendiente | — |
