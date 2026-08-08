@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 00:01:41 (hora de Perú)
+Actualizado: 2026-08-08 00:03:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $946.90
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 0 | -1.58 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
-| HomeRunHazard | 3 | 5 | 3 | -6.30 USD |
+| HomeRunHazard | 3 | 5 | 6 | -6.30 USD |
 | ferrariChampions2026 | 10 | 12 | 29 | -57.12 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -51,6 +51,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Indiana Fever (-6.5) | Indiana Fever (BUY) | 49% | 2.17 | ⏳ pendiente | — |
+| HomeRunHazard | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 67% | 8.46 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Indiana Fever (-5.5) | Indiana Fever (BUY) | 53% | 2.04 | ⏳ pendiente | — |
 | greyoctober | Valorant: KeepBest Gaming vs FunPlus Pho | FunPlus Phoenix (BUY) | 70% | 1.43 | ⏳ pendiente | — |
 | swisstony | Spread: Philadelphia Phillies (-1.5) | Toronto Blue Jays (BUY) | 58% | 1.38 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 53% | 4.64 | ⏳ pendiente | — |
@@ -78,6 +81,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 57% | 16.13 | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 73% | 9.27 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Under (BUY) | 93% | 2.09 | ⏳ pendiente | — |
-| UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Under (BUY) | 26% | 1.74 | ⏳ pendiente | — |
-| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Under (BUY) | 75% | 1.69 | ⏳ pendiente | — |
-| UpTheBlues | Will FC Juárez win on 2026-08-07? | No (BUY) | 77% | 26.35 | ⏳ pendiente | — |
