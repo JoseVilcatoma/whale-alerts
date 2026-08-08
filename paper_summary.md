@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:00:02 (hora de Perú)
+Actualizado: 2026-08-08 06:02:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.76
@@ -27,8 +27,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
-| UpTheBlues | 16 | 18 | 17 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 142 | -67.78 USD |
+| UpTheBlues | 16 | 18 | 24 | -9.46 USD |
+| ferrariChampions2026 | 31 | 20 | 144 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -71,6 +71,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Fujieda MYFC vs. Vegalta Sendai: O/U 2.5 | Under (BUY) | 84% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | SV Darmstadt 98 vs. Holstein Kiel: O/U 1 | Over (BUY) | 81% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Inter Milano win on 2026-08-08? | No (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Fujieda MYFC vs. Vegalta Sendai: O/U 2.5 | Under (BUY) | 83% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Meizhou Hakka win on 2026-08-08? | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Foshan Nanshi FC win on 2026-08-08? | Yes (BUY) | 26% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Shaanxi Union FC win on 2026-08-08? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Nantong Zhiyun win on 2026-08-08? | No (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Shijiazhuang Gongfu FC win on 2026- | No (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Sanfrecce Hiroshima vs. JEF United Ichih | No (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: Procyon Gaming vs ODDIK  | ODDIK Academy (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 97% | 0.00 | ⏳ pendiente | — |
@@ -92,12 +101,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 5. | Over (BUY) | 27% | 0.00 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: Procyon Gaming vs ODDIK  | ODDIK Academy (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: 1WIN vs BASEMENT BOYS (B | BASEMENT BOYS (BUY) | 21% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Shimizu S-Pulse win on 2026-08-08? | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 74% | 0.00 | ⏳ pendiente | — |
-| StasPanda | Counter-Strike: Procyon Gaming vs ODDIK  | ODDIK Academy (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 93% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Vissel Kōbe (-1.5) | Vissel Kōbe (BUY) | 34% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 1.5 | Over (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 4. | Over (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 5. | Over (BUY) | 31% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Cerezo Ōsaka (-1.5) | Cerezo Ōsaka (BUY) | 37% | 0.00 | ⏳ pendiente | — |
