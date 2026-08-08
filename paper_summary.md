@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 07:55:12 (hora de Perú)
+Actualizado: 2026-08-08 09:28:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $657.96
-**Retorno acumulado:** -34.20%
-**Peor caída desde un máximo (drawdown):** 34.20%
+**Bankroll actual:** $526.24
+**Retorno acumulado:** -47.38%
+**Peor caída desde un máximo (drawdown):** 47.71%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -14,23 +14,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 9 | 7 | +9.70 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 9 | 1 | +9.70 USD |
 | greyoctober | 4 | 0 | 3 | +9.27 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | quavoo | 0 | 0 | 30 | +0.00 USD |
-| fRibrenlc | 0 | 0 | 20 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
-| ThornyDevil | 2 | 0 | 3 | +0.00 USD |
-| jtwyslljy | 0 | 0 | 1 | +0.00 USD |
+| ThornyDevil | 3 | 0 | 2 | +0.00 USD |
+| jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
 | Spicer | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 45 | -3.99 USD |
-| UpTheBlues | 25 | 20 | 20 | -4.56 USD |
 | RN1 | 2 | 2 | 13 | -5.13 USD |
-| ferrariChampions2026 | 87 | 89 | 102 | -59.56 USD |
-| TAIWANNUMBERONE | 1 | 31 | 6 | -303.20 USD |
+| UpTheBlues | 28 | 21 | 16 | -5.52 USD |
+| ferrariChampions2026 | 124 | 107 | 47 | -62.41 USD |
+| fRibrenlc | 0 | 12 | 8 | -127.91 USD |
+| TAIWANNUMBERONE | 1 | 36 | 1 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
