@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 01:59:32 (hora de Perú)
+Actualizado: 2026-08-08 03:38:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $956.49
-**Retorno acumulado:** -4.35%
-**Peor caída desde un máximo (drawdown):** 5.98%
+**Bankroll actual:** $922.00
+**Retorno acumulado:** -7.80%
+**Peor caída desde un máximo (drawdown):** 10.06%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -14,17 +14,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| UpTheBlues | 11 | 12 | 23 | +8.68 USD |
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | TAIWANNUMBERONE | 0 | 0 | 32 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
-| fRibrenlc | 0 | 0 | 15 | +0.00 USD |
+| fRibrenlc | 0 | 0 | 16 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 18 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
-| ferrariChampions2026 | 31 | 18 | 2 | -58.50 USD |
+| UpTheBlues | 14 | 18 | 14 | -16.52 USD |
+| ferrariChampions2026 | 31 | 20 | 0 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -55,6 +56,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 27% | 0.00 | ⏳ pendiente | — |
+| fRibrenlc | Counter-Strike: EYEBALLERS vs Phantom (B | EYEBALLERS (BUY) | 54% | 44.61 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 27.56 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: T1 vs Hanwha Life Esports - Game 1  | T1 (BUY) | 51% | 68.28 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 1.68 | ⏳ pendiente | — |
@@ -83,5 +86,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 6.58 | ⏳ pendiente | — |
 | UpTheBlues | Will Crawley Town FC win on 2026-08-08? | No (BUY) | 92% | 1.95 | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 13.39 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Colorado Rockies (-1.5) | St. Louis Cardinals (BUY) | 70% | 3.35 | ⏳ pendiente | — |
-| fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 1.38 | ⏳ pendiente | — |

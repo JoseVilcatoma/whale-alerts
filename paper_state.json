@@ -1,5 +1,5 @@
 {
-  "bankroll": 956.4879838610279,
+  "bankroll": 922.0041534057688,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -570,6 +570,61 @@
       "timestamp": 1786171474.2464743,
       "bankroll": 956.49,
       "event": "lost: UpTheBlues \u2014 Spread: FC Ju\u00e1rez (-1.5)"
+    },
+    {
+      "timestamp": 1786178172.1436114,
+      "bankroll": 952.22,
+      "event": "lost: ferrariChampions2026 \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786178172.243753,
+      "bankroll": 948.45,
+      "event": "lost: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786178172.343857,
+      "bankroll": 943.62,
+      "event": "lost: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786178172.4440162,
+      "bankroll": 940.89,
+      "event": "lost: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786178172.865215,
+      "bankroll": 939.87,
+      "event": "lost: UpTheBlues \u2014 CD Malacateco vs. CSD Xelaj\u00fa MC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786178172.9653711,
+      "bankroll": 934.86,
+      "event": "lost: ferrariChampions2026 \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786178173.5080316,
+      "bankroll": 908.51,
+      "event": "lost: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786178173.6081388,
+      "bankroll": 899.44,
+      "event": "lost: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786178173.808434,
+      "bankroll": 907.61,
+      "event": "won: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786178173.9085858,
+      "bankroll": 918.99,
+      "event": "won: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786178174.0087304,
+      "bankroll": 922.0,
+      "event": "won: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
     }
   ]
 }
