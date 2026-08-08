@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 17:12:04 (hora de Perú)
+Actualizado: 2026-08-08 17:14:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $471.15
@@ -25,12 +25,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 13 | 13 | -11.76 USD |
-| 1winstreak1 | 5 | 7 | 44 | -12.25 USD |
+| 1winstreak1 | 5 | 7 | 45 | -12.25 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 8 | 9 | 17 | -22.00 USD |
+| RN1 | 8 | 9 | 19 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 170 | 147 | 60 | -75.22 USD |
+| ferrariChampions2026 | 170 | 147 | 61 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 6 | -303.20 USD |
 
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-laa-mia-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard, quavoo |
 | jap-avi-vis-2026-08-08-spread-away-1pt5 | UpTheBlues, ferrariChampions2026 |
 | mlb-oak-bos-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
-| mlb-tor-phi-2026-08-08-total-9pt5 | HomeRunHazard, Talvez10, ferrariChampions2026, quavoo |
+| mlb-tor-phi-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard, RN1, Talvez10, ferrariChampions2026, quavoo |
 | mlb-lad-ari-2026-08-08-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-185pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-184pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -129,6 +129,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| RN1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| RN1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Athletics (-1.5) | Boston Red Sox (BUY) | 22% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 99% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Athletics (-2.5) | Boston Red Sox (BUY) | 37% | 0.00 | ⏳ pendiente | — |
@@ -155,7 +159,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | quavoo | Las Vegas Aces vs. New York Liberty | New York Liberty (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
