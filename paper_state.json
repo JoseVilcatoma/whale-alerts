@@ -1,5 +1,5 @@
 {
-  "bankroll": 470.0189665707781,
+  "bankroll": 473.02549718302305,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2775,6 +2775,56 @@
       "timestamp": 1786218272.4372275,
       "bankroll": 470.02,
       "event": "lost: 1winstreak1 \u2014 Spread: Minnesota Lynx (-5.5)"
+    },
+    {
+      "timestamp": 1786219022.5656793,
+      "bankroll": 468.88,
+      "event": "lost: HomeRunHazard \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 185.5"
+    },
+    {
+      "timestamp": 1786219022.8996239,
+      "bankroll": 474.66,
+      "event": "won: HomeRunHazard \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 184.5"
+    },
+    {
+      "timestamp": 1786219022.9997787,
+      "bankroll": 473.03,
+      "event": "lost: HomeRunHazard \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 184.5"
+    },
+    {
+      "timestamp": 1786219035.3139079,
+      "bankroll": 473.03,
+      "event": "lost: HomeRunHazard \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 184.5"
+    },
+    {
+      "timestamp": 1786219037.3418853,
+      "bankroll": 473.03,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 185.5"
+    },
+    {
+      "timestamp": 1786219037.742553,
+      "bankroll": 473.03,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 185.5"
+    },
+    {
+      "timestamp": 1786219037.8426764,
+      "bankroll": 473.03,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 185.5"
+    },
+    {
+      "timestamp": 1786219038.0429573,
+      "bankroll": 473.03,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 184.5"
+    },
+    {
+      "timestamp": 1786219039.0446,
+      "bankroll": 473.03,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 185.5"
+    },
+    {
+      "timestamp": 1786219042.1349995,
+      "bankroll": 473.03,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 184.5"
     }
   ]
 }
