@@ -5548,5 +5548,47 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786179640.84117,
     "fills": 1
+  },
+  {
+    "timestamp": 1786179652,
+    "timestamp_added": 1786179652.8336275,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-lgd-al-2026-08-08-game-handicap-home-1pt5",
+    "title": "Game Handicap: AL (-1.5) vs LGD Gaming (+1.5)",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 67.76785699999999,
+    "whale_pct": 0.142,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786179652.833634,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786179712,
+    "timestamp_added": 1786179712.691552,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-t1-hle1-2026-08-08",
+    "title": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 406.47600000000006,
+    "whale_pct": 0.289,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 28,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786179712.6915603,
+    "fills": 1
   }
 ]
