@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 17:24:28 (hora de Perú)
+Actualizado: 2026-08-08 17:26:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $497.43
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 20 | 17 | 51 | +25.50 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 27 | 9 | +9.02 USD |
+| UpTheBlues | 39 | 27 | 10 | +9.02 USD |
 | quavoo | 5 | 5 | 79 | +8.84 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 1 | 2 | 11 | +0.00 USD |
@@ -27,10 +27,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 15 | 13 | 13 | -10.71 USD |
 | 1winstreak1 | 11 | 13 | 34 | -12.25 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 14 | 10 | 16 | -22.00 USD |
+| RN1 | 14 | 12 | 14 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 182 | 154 | 51 | -74.91 USD |
+| ferrariChampions2026 | 182 | 156 | 53 | -74.91 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 7 | -303.20 USD |
 
@@ -135,6 +135,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will CA Boca Juniors win on 2026-08-08? | Yes (BUY) | 62% | 0.61 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 3.14 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 2.54 | ⏳ pendiente | — |
+| ferrariChampions2026 | CA Boca Juniors vs. CA Vélez Sarsfield:  | Over (BUY) | 63% | 0.63 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 1.63 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 0.70 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 83% | 0.70 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Boca Juniors win on 2026-08-08? | Yes (BUY) | 61% | 0.62 | ⏳ pendiente | — |
@@ -160,8 +165,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | RN1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | RN1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Athletics (-1.5) | Boston Red Sox (BUY) | 22% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 99% | 0.00 | 💰 vendida anticipada | +0.00 |
-| ferrariChampions2026 | Spread: Athletics (-2.5) | Boston Red Sox (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 21% | 0.00 | ⏳ pendiente | — |

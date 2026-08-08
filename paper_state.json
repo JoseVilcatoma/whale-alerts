@@ -3405,6 +3405,26 @@
       "timestamp": 1786227608.1156368,
       "bankroll": 497.43,
       "event": "won: RN1 \u2014 Will CA River Plate win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786227913.9153833,
+      "bankroll": 497.43,
+      "event": "lost: RN1 \u2014 Will CA Tigre win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786227914.3990455,
+      "bankroll": 497.43,
+      "event": "lost: RN1 \u2014 Will CA Tigre win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786227916.1890368,
+      "bankroll": 497.43,
+      "event": "lost: ferrariChampions2026 \u2014 Will CA Tigre win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786227916.389392,
+      "bankroll": 497.43,
+      "event": "lost: ferrariChampions2026 \u2014 Will CA Tigre win on 2026-08-08?"
     }
   ]
 }
