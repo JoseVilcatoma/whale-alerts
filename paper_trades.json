@@ -12862,5 +12862,49 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786205195.9014041,
     "fills": 2
+  },
+  {
+    "timestamp": 1786205240,
+    "timestamp_added": 1786205240.8239045,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-sk-navi-2026-08-08-game2",
+    "title": "LoL: SK Gaming vs Natus Vincere - Game 2 Winner",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "whale_usd": 215.60000000000002,
+    "whale_pct": 0.686,
+    "paper_stake_usd": 4.26,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Spicer"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786205240.8239121,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786205330,
+    "timestamp_added": 1786205331.139987,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-ind-chi-2026-08-08-total-190pt5",
+    "title": "Indiana Fever vs. Chicago Sky: O/U 190.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 276.923076,
+    "whale_pct": 0.274,
+    "paper_stake_usd": 0.97,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786205331.1399937,
+    "fills": 1
   }
 ]

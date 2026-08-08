@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 11:06:55 (hora de Perú)
+Actualizado: 2026-08-08 11:08:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $620.82
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 10 | 3 | +61.27 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 10 | 4 | +61.27 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | Spicer | 5 | 0 | 5 | +6.62 USD |
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 0 | 5 | +0.00 USD |
-| wr0ngw4yb3tt0r | 1 | 1 | 5 | -1.58 USD |
+| wr0ngw4yb3tt0r | 1 | 1 | 6 | -1.58 USD |
 | quavoo | 0 | 1 | 29 | -3.64 USD |
 | HomeRunHazard | 4 | 6 | 61 | -3.99 USD |
 | RN1 | 8 | 7 | 2 | -5.53 USD |
@@ -81,6 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-ksc-bie-2026-08-08-total-5pt5 | RN1, ferrariChampions2026 |
 | lol-blg-edg-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
 | lol-dk-kt-2026-08-09 | StasPanda, TAIWANNUMBERONE |
+| wnba-ind-chi-2026-08-08-total-190pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-181pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | lol-sk-navi-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
 
@@ -88,6 +89,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 48% | 0.97 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 56% | 4.26 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 2 | SK Gaming (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | Spicer | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 61% | 0.00 | ⏳ pendiente | — |
@@ -116,5 +119,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 191.5 | Under (BUY) | 55% | 1.34 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Minnesota Lynx (-4.5) | Las Vegas Aces (BUY) | 49% | 3.69 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 49% | 9.01 | ⏳ pendiente | — |
-| HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 53% | 2.96 | ⏳ pendiente | — |
-| StasPanda | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | KT Rolster (BUY) | 38% | 89.64 | ⏳ pendiente | — |
