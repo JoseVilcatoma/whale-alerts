@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:50:25 (hora de Perú)
+Actualizado: 2026-08-08 06:52:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $872.08
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 2 | 2 | 11 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 31 | -9.46 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
-| ferrariChampions2026 | 32 | 20 | 222 | -67.78 USD |
+| ferrariChampions2026 | 32 | 20 | 224 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -79,6 +79,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Vålerenga Fotball vs. FK Bodø/Glimt: O/U | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Bucheon FC 1995 vs. Gwangju FC: O/U 0.5 | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | Spicer | Game Handicap: BLG (-1.5) vs EDward Gami | Bilibili Gaming (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | Sanfrecce Hiroshima (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | Spicer | Game Handicap: BLG (-1.5) vs EDward Gami | Bilibili Gaming (BUY) | 66% | 1.39 | ⏳ pendiente | — |
@@ -107,5 +109,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will 1. FC Heidenheim 1846 win on 2026-0 | No (BUY) | 47% | 2.99 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Holstein Kiel (-1.5) | SV Darmstadt 98 (BUY) | 74% | 2.63 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Sanfrecce Hiroshima vs. JEF United  | No (BUY) | 90% | 3.17 | ⏳ pendiente | — |
-| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 73% | 3.03 | ⏳ pendiente | — |
-| RN1 | Karlsruher SC vs. DSC Arminia Bielefeld: | Under (BUY) | 94% | 2.23 | ⏳ pendiente | — |
