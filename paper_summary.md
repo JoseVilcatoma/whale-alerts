@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:13:38 (hora de Perú)
+Actualizado: 2026-08-08 16:15:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -25,12 +25,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 4 | 7 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 11 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 30 | -12.25 USD |
+| 1winstreak1 | 0 | 3 | 31 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
-| RN1 | 8 | 9 | 8 | -22.00 USD |
+| RN1 | 8 | 9 | 13 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 168 | 139 | 54 | -75.22 USD |
+| ferrariChampions2026 | 168 | 139 | 57 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 4 | -303.20 USD |
 
@@ -59,7 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lec-vwh-jua-2026-08-07-draw | UpTheBlues, ferrariChampions2026 |
 | chi-hai-sgr-2026-08-08-hai | RN1, UpTheBlues |
 | mlb-det-sf-2026-08-07-spread-home-2pt5 | HomeRunHazard, ferrariChampions2026 |
-| wnba-ind-chi-2026-08-08 | HomeRunHazard, ferrariChampions2026 |
+| wnba-ind-chi-2026-08-08 | 1winstreak1, HomeRunHazard, ferrariChampions2026 |
 | lol-wb-lng-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-laa-mia-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard, quavoo |
 | jap-avi-vis-2026-08-08-spread-away-1pt5 | UpTheBlues, ferrariChampions2026 |
@@ -110,6 +110,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ufc-gcanut-car24-2026-08-08-totals-2pt5 | Talvez10, wr0ngw4yb3tt0r |
 | mlb-laa-mia-2026-08-08-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-total-0pt5 | RN1, ferrariChampions2026 |
+| arg-tig-riv-2026-08-08-riv | RN1, ferrariChampions2026 |
 | lol-c9-dsg-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-total-1pt5 | RN1, ferrariChampions2026 |
 
@@ -117,6 +118,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will CA River Plate win on 2026-08-08? | No (BUY) | 70% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | No (BUY) | 70% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Indiana Fever vs. Chicago Sky | Chicago Sky (BUY) | 15% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | CA Tigre vs. CA River Plate: O/U 0.5 | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will CA River Plate win on 2026-08-08? | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will CA River Plate win on 2026-08-08? | No (BUY) | 70% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Sporting CP win on 2026-08-08? | No (BUY) | 74% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will CA River Plate win on 2026-08-08? | No (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | RN1 | CF Estrela da Amadora vs. Sporting CP: O | Under (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CA Tigre win on 2026-08-08? | No (BUY) | 80% | 0.00 | ⏳ pendiente | — |
@@ -138,12 +148,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Sporting CP win on 2026-08-08? | Yes (BUY) | 90% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 88% | 0.00 | ⏳ pendiente | — |
-| StasPanda | Counter-Strike: K27 vs SAW (BO3) - Espor | K27 (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CA Tigre vs. CA River Plate: O/U 0.5 | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CA Tigre vs. CA River Plate: O/U 2.5 | Under (BUY) | 93% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Tigre vs. CA River Plate end in  | Yes (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
