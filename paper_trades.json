@@ -20034,5 +20034,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786226624.686389,
     "fills": 1
+  },
+  {
+    "timestamp": 1786226698,
+    "timestamp_added": 1786226698.4643667,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-tor-phi-2026-08-08-spread-home-1pt5",
+    "title": "Spread: Philadelphia Phillies (-1.5)",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "whale_usd": 1320.0,
+    "whale_pct": 0.216,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786226698.4643786,
+    "fills": 1
   }
 ]

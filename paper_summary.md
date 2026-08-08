@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 17:03:45 (hora de Perú)
+Actualizado: 2026-08-08 17:05:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $471.15
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
 | quavoo | 5 | 4 | 71 | +8.84 USD |
-| HomeRunHazard | 9 | 13 | 65 | +0.58 USD |
+| HomeRunHazard | 9 | 13 | 66 | +0.58 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 14 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -59,6 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lec-vwh-jua-2026-08-07-draw | UpTheBlues, ferrariChampions2026 |
 | chi-hai-sgr-2026-08-08-hai | RN1, UpTheBlues |
 | mlb-det-sf-2026-08-07-spread-home-2pt5 | HomeRunHazard, ferrariChampions2026 |
+| mlb-tor-phi-2026-08-08-spread-home-1pt5 | HomeRunHazard, swisstony |
 | mlb-oak-bos-2026-08-08-spread-home-1pt5 | 1winstreak1, HomeRunHazard |
 | wnba-ind-chi-2026-08-08 | 1winstreak1, HomeRunHazard, ferrariChampions2026 |
 | wnba-ind-chi-2026-08-08-spread-away-6pt5 | 1winstreak1, HomeRunHazard |
@@ -125,6 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Athletics (-1.5) | Athletics (BUY) | 63% | 0.00 | ⏳ pendiente | — |
@@ -154,4 +156,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | Map Handicap: HERO (-1.5) vs ASTRAL (+1. | Heroic (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | quavoo | Las Vegas Aces vs. New York Liberty | New York Liberty (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | quavoo | Las Vegas Aces vs. New York Liberty | New York Liberty (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | New England Revolution vs. Houston Dynam | Under (BUY) | 93% | 0.00 | ⏳ pendiente | — |
