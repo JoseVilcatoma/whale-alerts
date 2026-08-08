@@ -1,5 +1,5 @@
 {
-  "bankroll": 979.9082110079206,
+  "bankroll": 978.6482110079206,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -135,6 +135,11 @@
       "timestamp": 1786163750.6564236,
       "bankroll": 979.91,
       "event": "won: 0x4f2 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786164057.5855815,
+      "bankroll": 978.65,
+      "event": "lost: 0x4f2 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 7.5"
     }
   ]
 }
