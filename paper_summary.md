@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 03:58:38 (hora de Perú)
+Actualizado: 2026-08-08 04:00:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $922.00
@@ -16,16 +16,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 35 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 37 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
-| fRibrenlc | 0 | 0 | 18 | +0.00 USD |
+| fRibrenlc | 0 | 0 | 20 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 9 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 23 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 25 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | UpTheBlues | 14 | 18 | 14 | -16.52 USD |
-| ferrariChampions2026 | 31 | 20 | 4 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 5 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -53,6 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-det-sf-2026-08-07-spread-home-2pt5 | HomeRunHazard, ferrariChampions2026 |
 | lol-wb-lng-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-laa-mia-2026-08-08-total-8pt5 | HomeRunHazard, quavoo |
+| cs2-eye-pha-2026-08-08 | TAIWANNUMBERONE, fRibrenlc |
 | lol-t1-hle1-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | lol-wb-lng-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 
@@ -60,6 +61,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports - Game 2  | Hanwha Life Esports (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| fRibrenlc | Counter-Strike: EYEBALLERS vs Phantom (B | EYEBALLERS (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Counter-Strike: EYEBALLERS vs Phantom (B | EYEBALLERS (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| fRibrenlc | Counter-Strike: EYEBALLERS vs Phantom (B | EYEBALLERS (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Game Handicap: AL (-1.5) vs LGD Gaming ( | LGD Gaming (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: AL (-1.5) vs LGD Gaming ( | LGD Gaming (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 27% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Boston Red Sox: O/U 8.5 | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
@@ -83,10 +91,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 27% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: EYEBALLERS vs Phantom (B | EYEBALLERS (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 27% | 0.00 | ⏳ pendiente | — |
-| fRibrenlc | Counter-Strike: EYEBALLERS vs Phantom (B | EYEBALLERS (BUY) | 54% | 44.61 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 27.56 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: T1 vs Hanwha Life Esports - Game 1  | T1 (BUY) | 51% | 68.28 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 1.68 | ⏳ pendiente | — |
-| fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 4.36 | ⏳ pendiente | — |
-| fRibrenlc | Counter-Strike: EYEBALLERS vs Phantom (B | EYEBALLERS (BUY) | 54% | 4.56 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 1.73 | ⏳ pendiente | — |
