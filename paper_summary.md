@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:30:20 (hora de Perú)
+Actualizado: 2026-08-08 16:32:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
-| quavoo | 5 | 4 | 46 | +8.84 USD |
+| quavoo | 5 | 4 | 49 | +8.84 USD |
 | HomeRunHazard | 8 | 11 | 61 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 14 | +0.00 USD |
@@ -123,6 +123,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
 | quavoo | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 21% | 0.00 | ⏳ pendiente | — |
+| quavoo | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Athletics vs. Boston Red Sox: O/U 10.5 | Over (BUY) | 40% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Over (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
@@ -149,6 +152,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 18% | 0.00 | 💰 vendida anticipada | +0.00 |
 | quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | RN1 | CF Estrela da Amadora vs. Sporting CP: O | Under (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 30% | 0.00 | 💰 vendida anticipada | +0.00 |
-| RN1 | Will CF Estrela da Amadora win on 2026-0 | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Cruzeiro EC win on 2026-08-09? | Yes (BUY) | 58% | 0.00 | ⏳ pendiente | — |
