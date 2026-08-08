@@ -1,5 +1,5 @@
 {
-  "bankroll": 946.7738447467646,
+  "bankroll": 952.082468228546,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -220,6 +220,16 @@
       "timestamp": 1786164922.441609,
       "bankroll": 946.77,
       "event": "won: 0x4f2 \u2014 Spread: Houston Astros (-1.5)"
+    },
+    {
+      "timestamp": 1786165039.7780032,
+      "bankroll": 950.51,
+      "event": "won: ferrariChampions2026 \u2014 Houston Astros vs. San Diego Padres: O/U 9.5"
+    },
+    {
+      "timestamp": 1786165046.9843442,
+      "bankroll": 952.08,
+      "event": "won: HomeRunHazard \u2014 Houston Astros vs. San Diego Padres: O/U 9.5"
     }
   ]
 }

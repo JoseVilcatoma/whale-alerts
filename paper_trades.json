@@ -679,8 +679,8 @@
     "whale_pct": 0.229,
     "paper_stake_usd": 2.29,
     "odds_at_bet": 38,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.74,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786158799.4516294,
@@ -2763,8 +2763,8 @@
     "whale_pct": 0.299,
     "paper_stake_usd": 2.92,
     "odds_at_bet": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.57,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
