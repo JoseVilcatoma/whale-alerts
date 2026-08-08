@@ -19164,5 +19164,96 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786225057.485475,
     "fills": 1
+  },
+  {
+    "timestamp": 1786225147,
+    "timestamp_added": 1786225148.0846114,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-jul11-rav-2026-08-08",
+    "title": "UFC Fight Night: Juliana Miller vs. Ravena Oliveira (Women's Flyweight, Prelims)",
+    "outcome": "Juliana Miller",
+    "side": "BUY",
+    "whale_usd": 10010.0,
+    "whale_pct": 2.209,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786225155.6824615,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786225194,
+    "timestamp_added": 1786225195.197702,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-oak-bos-2026-08-08-spread-away-1pt5",
+    "title": "Spread: Athletics (-1.5)",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "whale_usd": 1036.3799999999999,
+    "whale_pct": 7.789,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786225195.1977136,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786225194,
+    "timestamp_added": 1786225195.6825037,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-oak-bos-2026-08-08-spread-away-1pt5",
+    "title": "Spread: Athletics (-1.5)",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "whale_usd": 465.62,
+    "whale_pct": 0.151,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786225195.682518,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786225202,
+    "timestamp_added": 1786225202.7474742,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-jul11-rav-2026-08-08",
+    "title": "UFC Fight Night: Juliana Miller vs. Ravena Oliveira (Women's Flyweight, Prelims)",
+    "outcome": "Juliana Miller",
+    "side": "BUY",
+    "whale_usd": 20020.0,
+    "whale_pct": 4.297,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786225203.1847029,
+    "fills": 2
   }
 ]

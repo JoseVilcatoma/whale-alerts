@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:38:41 (hora de Perú)
+Actualizado: 2026-08-08 16:40:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -24,13 +24,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 8 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 14 | 11 | 12 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 46 | -12.25 USD |
+| wr0ngw4yb3tt0r | 14 | 11 | 13 | -11.76 USD |
+| 1winstreak1 | 0 | 3 | 47 | -12.25 USD |
 | ThornyDevil | 3 | 4 | 2 | -16.40 USD |
 | RN1 | 8 | 9 | 15 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 169 | 139 | 63 | -75.22 USD |
+| ferrariChampions2026 | 169 | 139 | 65 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 5 | -303.20 USD |
 
@@ -70,6 +70,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-lad-ari-2026-08-08-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-185pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-184pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| mlb-oak-bos-2026-08-08-spread-away-1pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-cle-cws-2026-08-08-total-7pt5 | HomeRunHazard, quavoo, wr0ngw4yb3tt0r |
 | jap-cer-fag-2026-08-08-spread-home-1pt5 | UpTheBlues, ferrariChampions2026 |
 | cs2-eye-pha-2026-08-08 | Djdjdjekekek, TAIWANNUMBERONE, fRibrenlc |
@@ -124,6 +125,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | UFC Fight Night: Juliana Miller vs. Rave | Juliana Miller (BUY) | 77% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Athletics (-1.5) | Athletics (BUY) | 31% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Athletics (-1.5) | Boston Red Sox (BUY) | 69% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Juliana Miller vs. Rave | Juliana Miller (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 78% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Juliana Miller vs. Rave | Juliana Miller (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Boston Red Sox (-2.5) | Athletics (BUY) | 82% | 0.00 | ⏳ pendiente | — |
@@ -150,7 +155,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Over (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | New York Mets vs. Pittsburgh Pirates: O/ | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | New York Mets vs. Pittsburgh Pirates: O/ | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | Yes (BUY) | 25% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | UFC Fight Night: Juliana Miller vs. Rave | Ravena Oliveira (BUY) | 23% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Tigre win on 2026-08-08? | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
