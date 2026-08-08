@@ -2335,6 +2335,21 @@
       "timestamp": 1786203063.085039,
       "bankroll": 602.97,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: SK Gaming vs Natus Vincere - Game 1 Winner (+61.06 USD)"
+    },
+    {
+      "timestamp": 1786203311.6172388,
+      "bankroll": 602.97,
+      "event": "won: UpTheBlues \u2014 Will Nantong Zhiyun win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786203312.2711759,
+      "bankroll": 602.97,
+      "event": "lost: UpTheBlues \u2014 Will Foshan Nanshi FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786203313.2841496,
+      "bankroll": 602.97,
+      "event": "won: UpTheBlues \u2014 Spread: Nantong Zhiyun (-1.5)"
     }
   ]
 }

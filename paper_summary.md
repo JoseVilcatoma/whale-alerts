@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 10:33:16 (hora de Perú)
+Actualizado: 2026-08-08 10:35:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $602.97
@@ -18,13 +18,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 4 | 0 | 3 | +9.27 USD |
 | Spicer | 1 | 0 | 4 | +4.87 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| Talvez10 | 0 | 0 | 2 | +0.00 USD |
+| Talvez10 | 0 | 0 | 3 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
 | quavoo | 0 | 1 | 29 | -3.64 USD |
 | HomeRunHazard | 4 | 6 | 51 | -3.99 USD |
-| UpTheBlues | 33 | 22 | 10 | -4.84 USD |
+| UpTheBlues | 35 | 23 | 7 | -4.84 USD |
 | RN1 | 6 | 6 | 5 | -6.29 USD |
 | ThornyDevil | 3 | 2 | 0 | -16.40 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -85,6 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | O/U 2.5 Rounds | Over (BUY) | 34% | 3.28 | ⏳ pendiente | — |
 | Talvez10 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 51% | 23.20 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 1 | Natus Vincere (BUY) | 63% | 25.45 | 💰 vendida anticipada | +12.52 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 1 | Natus Vincere (BUY) | 63% | 98.64 | 💰 vendida anticipada | +48.54 |
@@ -114,4 +115,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Tottenham Hotspur win on 2026-08-08 | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| quavoo | Racing Club De Lens vs. Sunderland AFC:  | Over (BUY) | 61% | 0.00 | ⏳ pendiente | — |
