@@ -12490,5 +12490,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786203675.3337758,
     "fills": 1
+  },
+  {
+    "timestamp": 1786204073,
+    "timestamp_added": 1786204073.803518,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-las-min-2026-08-08-total-181pt5",
+    "title": "Las Vegas Aces vs. Minnesota Lynx: O/U 181.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2593.292,
+    "whale_pct": 0.85,
+    "paper_stake_usd": 5.16,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786204079.9232883,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786204079,
+    "timestamp_added": 1786204080.102171,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-las-min-2026-08-08-total-181pt5",
+    "title": "Las Vegas Aces vs. Minnesota Lynx: O/U 181.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 612.0,
+    "whale_pct": 0.613,
+    "paper_stake_usd": 3.73,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786204080.1021786,
+    "fills": 1
   }
 ]

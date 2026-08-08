@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 10:45:59 (hora de Perú)
+Actualizado: 2026-08-08 10:48:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $607.60
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 0 | 5 | +0.00 USD |
-| wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
+| wr0ngw4yb3tt0r | 1 | 1 | 5 | -1.58 USD |
 | quavoo | 0 | 1 | 29 | -3.64 USD |
-| HomeRunHazard | 4 | 6 | 51 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 52 | -3.99 USD |
 | UpTheBlues | 35 | 24 | 6 | -4.84 USD |
 | RN1 | 7 | 6 | 4 | -5.34 USD |
 | ThornyDevil | 3 | 2 | 0 | -16.40 USD |
@@ -81,11 +81,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-ksc-bie-2026-08-08-total-5pt5 | RN1, ferrariChampions2026 |
 | lol-blg-edg-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
 | lol-dk-kt-2026-08-09 | StasPanda, TAIWANNUMBERONE |
+| wnba-las-min-2026-08-08-total-181pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 48% | 3.73 | ⏳ pendiente | — |
+| HomeRunHazard | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 49% | 5.16 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 1.21 | ⏳ pendiente | — |
 | Talvez10 | O/U 2.5 Rounds | Over (BUY) | 36% | 43.81 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 1 | Natus Vincere (BUY) | 95% | 18.63 | ⏳ pendiente | — |
@@ -114,5 +117,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Cleveland Guardians (-2.5) | Chicago White Sox (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| quavoo | Cleveland Guardians vs. Chicago White So | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
