@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 00:48:17 (hora de Perú)
+Actualizado: 2026-08-08 00:50:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $949.21
@@ -17,10 +17,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 35 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 7 | +0.00 USD |
-| quavoo | 0 | 0 | 13 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 9 | +0.00 USD |
+| quavoo | 0 | 0 | 14 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 4 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 5 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | ferrariChampions2026 | 10 | 12 | 29 | -57.12 USD |
 
@@ -53,6 +53,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 16.37 | ⏳ pendiente | — |
+| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 60% | 1.17 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 1.75 | ⏳ pendiente | — |
+| HomeRunHazard | Athletics vs. Boston Red Sox: O/U 9.5 | Under (BUY) | 53% | 3.13 | ⏳ pendiente | — |
 | quavoo | Will Chelsea FC win on 2026-08-08? | Yes (BUY) | 48% | 5.71 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 12.00 | ⏳ pendiente | — |
 | quavoo | Will Chelsea FC win on 2026-08-08? | Yes (BUY) | 48% | 4.45 | ⏳ pendiente | — |
@@ -79,7 +83,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Indiana Fever (-6.5) | Indiana Fever (BUY) | 49% | 2.17 | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 67% | 8.46 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Indiana Fever (-5.5) | Indiana Fever (BUY) | 53% | 2.04 | ⏳ pendiente | — |
-| greyoctober | Valorant: KeepBest Gaming vs FunPlus Pho | FunPlus Phoenix (BUY) | 70% | 1.43 | ⏳ pendiente | — |
-| swisstony | Spread: Philadelphia Phillies (-1.5) | Toronto Blue Jays (BUY) | 58% | 1.38 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 53% | 4.64 | ⏳ pendiente | — |
-| swisstony | Spread: Philadelphia Phillies (-1.5) | Toronto Blue Jays (BUY) | 58% | 2.52 | ⏳ pendiente | — |
