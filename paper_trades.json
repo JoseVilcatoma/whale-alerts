@@ -14570,15 +14570,16 @@
     "whale_pct": 1.54,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "BrotherObama",
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786213871.0958486,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 44
   },
   {
     "timestamp": 1786213888,
