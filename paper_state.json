@@ -3950,6 +3950,16 @@
       "timestamp": 1786231460.4049637,
       "bankroll": 469.31,
       "event": "lost: ferrariChampions2026 \u2014 Athletics vs. Boston Red Sox: O/U 10.5"
+    },
+    {
+      "timestamp": 1786231765.384026,
+      "bankroll": 469.31,
+      "event": "lost: RN1 \u2014 Will Sporting CP win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786231765.9852593,
+      "bankroll": 469.31,
+      "event": "won: RN1 \u2014 Will Sporting CP win on 2026-08-08?"
     }
   ]
 }
