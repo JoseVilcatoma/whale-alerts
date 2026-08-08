@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:10:28 (hora de Perú)
+Actualizado: 2026-08-08 06:12:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.76
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 31 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 161 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 163 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -72,6 +72,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Vissel Kōbe win on 2026-08-08? | No (BUY) | 27% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-2.5) | Sanfrecce Hiroshima (BUY) | 32% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | 1. FC Heidenheim 1846 vs. VfL Osnabrück: | Over (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Sagan Tosu (-1.5) | Ventforet Kōfu (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Magdeburg vs. Eintracht Braunschwe | Over (BUY) | 32% | 0.00 | ⏳ pendiente | — |
@@ -100,5 +102,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | SV Darmstadt 98 vs. Holstein Kiel: O/U 1 | Over (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Inter Milano win on 2026-08-08? | No (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Fujieda MYFC vs. Vegalta Sendai: O/U 2.5 | Under (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Meizhou Hakka win on 2026-08-08? | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Foshan Nanshi FC win on 2026-08-08? | Yes (BUY) | 26% | 0.00 | ⏳ pendiente | — |
