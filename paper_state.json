@@ -1,5 +1,5 @@
 {
-  "bankroll": 526.2421899489287,
+  "bankroll": 582.145523282262,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -1995,6 +1995,61 @@
       "timestamp": 1786199879.976521,
       "bankroll": 526.24,
       "event": "lost: UpTheBlues \u2014 Spread: Sagan Tosu (-1.5)"
+    },
+    {
+      "timestamp": 1786200184.5495222,
+      "bankroll": 528.03,
+      "event": "won: fRibrenlc \u2014 Counter-Strike: EYEBALLERS vs Phantom (BO3) - Esports World Cup Open Qualifier Group 10"
+    },
+    {
+      "timestamp": 1786200185.274677,
+      "bankroll": 571.91,
+      "event": "won: fRibrenlc \u2014 Counter-Strike: EYEBALLERS vs Phantom (BO3) - Esports World Cup Open Qualifier Group 10"
+    },
+    {
+      "timestamp": 1786200185.7994158,
+      "bankroll": 575.79,
+      "event": "won: fRibrenlc \u2014 Counter-Strike: EYEBALLERS vs Phantom (BO3) - Esports World Cup Open Qualifier Group 10"
+    },
+    {
+      "timestamp": 1786200185.8995166,
+      "bankroll": 613.8,
+      "event": "won: fRibrenlc \u2014 Counter-Strike: EYEBALLERS vs Phantom (BO3) - Esports World Cup Open Qualifier Group 10"
+    },
+    {
+      "timestamp": 1786200185.9996238,
+      "bankroll": 613.8,
+      "event": "won: fRibrenlc \u2014 Counter-Strike: EYEBALLERS vs Phantom (BO3) - Esports World Cup Open Qualifier Group 10"
+    },
+    {
+      "timestamp": 1786200186.5057926,
+      "bankroll": 613.8,
+      "event": "won: fRibrenlc \u2014 Counter-Strike: EYEBALLERS vs Phantom (BO3) - Esports World Cup Open Qualifier Group 10"
+    },
+    {
+      "timestamp": 1786200186.9063206,
+      "bankroll": 613.8,
+      "event": "won: fRibrenlc \u2014 Counter-Strike: EYEBALLERS vs Phantom (BO3) - Esports World Cup Open Qualifier Group 10"
+    },
+    {
+      "timestamp": 1786200187.0065076,
+      "bankroll": 613.8,
+      "event": "won: TAIWANNUMBERONE \u2014 Counter-Strike: EYEBALLERS vs Phantom (BO3) - Esports World Cup Open Qualifier Group 10"
+    },
+    {
+      "timestamp": 1786200187.1066985,
+      "bankroll": 613.8,
+      "event": "won: fRibrenlc \u2014 Counter-Strike: EYEBALLERS vs Phantom (BO3) - Esports World Cup Open Qualifier Group 10"
+    },
+    {
+      "timestamp": 1786200202.1104648,
+      "bankroll": 612.69,
+      "event": "lost: Djdjdjekekek \u2014 Counter-Strike: EYEBALLERS vs Phantom (BO3) - Esports World Cup Open Qualifier Group 10"
+    },
+    {
+      "timestamp": 1786200202.518485,
+      "bankroll": 582.15,
+      "event": "lost: Djdjdjekekek \u2014 Counter-Strike: EYEBALLERS vs Phantom (BO3) - Esports World Cup Open Qualifier Group 10"
     }
   ]
 }
