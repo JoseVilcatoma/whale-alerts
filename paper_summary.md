@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 12:58:28 (hora de Perú)
+Actualizado: 2026-08-08 13:00:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $622.04
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 18 | 11 | 3 | +61.01 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 18 | 11 | 4 | +61.01 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 4 | 1 | 25 | +10.43 USD |
@@ -23,13 +23,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 0 | 0 | 5 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 0 | 6 | +0.00 USD |
+| BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 15 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 65 | -3.99 USD |
 | ThornyDevil | 3 | 2 | 0 | -16.40 USD |
 | RN1 | 8 | 8 | 1 | -18.32 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 149 | 129 | 11 | -76.06 USD |
+| ferrariChampions2026 | 149 | 129 | 12 | -76.06 USD |
 | TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -92,6 +93,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 1 Win | GIANTX (BUY) | 34% | 0.00 | ⏳ pendiente | — |
+| BrotherObama | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 27% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Southampton FC win on 2026-08-08? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
@@ -119,6 +123,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | O/U 2.5 Rounds | Over (BUY) | 36% | 1.34 | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 42% | 5.69 | ⏳ pendiente | — |
 | StasPanda | LoL: ThunderTalk Gaming vs Top Esports ( | Top Esports (BUY) | 75% | 0.63 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 48% | 0.97 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 56% | 4.26 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 54% | 0.00 | ⏳ pendiente | — |
