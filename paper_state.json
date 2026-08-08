@@ -1,5 +1,5 @@
 {
-  "bankroll": 657.9568502483258,
+  "bankroll": 656.2068502483258,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -1570,6 +1570,36 @@
       "timestamp": 1786193250.166447,
       "bankroll": 657.96,
       "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786194378.5880568,
+      "bankroll": 657.96,
+      "event": "won: ferrariChampions2026 \u2014 LoL: LGD Gaming vs Anyone's Legend - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786194378.7884016,
+      "bankroll": 657.96,
+      "event": "won: ferrariChampions2026 \u2014 LoL: LGD Gaming vs Anyone's Legend - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786194378.9887033,
+      "bankroll": 656.21,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: LGD Gaming vs Anyone's Legend - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786194381.4927146,
+      "bankroll": 656.21,
+      "event": "won: ferrariChampions2026 \u2014 LoL: LGD Gaming vs Anyone's Legend - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786194381.5928557,
+      "bankroll": 656.21,
+      "event": "won: ferrariChampions2026 \u2014 LoL: LGD Gaming vs Anyone's Legend - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786194381.8933625,
+      "bankroll": 656.21,
+      "event": "won: ferrariChampions2026 \u2014 LoL: LGD Gaming vs Anyone's Legend - Game 1 Winner"
     }
   ]
 }
