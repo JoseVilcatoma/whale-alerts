@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 18:10:12 (hora de Perú)
+Actualizado: 2026-08-08 18:12:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $525.90
-**Retorno acumulado:** -47.41%
+**Bankroll actual:** $526.34
+**Retorno acumulado:** -47.37%
 **Peor caída desde un máximo (drawdown):** 53.09%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -18,19 +18,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 7 | 5 | 78 | +22.29 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 28 | 14 | +7.78 USD |
+| UpTheBlues | 39 | 28 | 15 | +7.78 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
+| Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 16 | 14 | 11 | -10.57 USD |
 | 1winstreak1 | 15 | 23 | 21 | -10.99 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 14 | 12 | 15 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 191 | 164 | 40 | -70.69 USD |
+| ferrariChampions2026 | 194 | 164 | 38 | -70.25 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 7 | -303.20 USD |
 
@@ -136,6 +137,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Clube do Remo vs. CA Mineiro: O/U 4.5 | Under (BUY) | 65% | 3.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 86% | 0.82 | ⏳ pendiente | — |
+| Bulls94 | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 47% | 7.06 | ⏳ pendiente | — |
 | UpTheBlues | Will Clube do Remo win on 2026-08-08? | Yes (BUY) | 9% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Mineiro win on 2026-08-08? | No (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Colorado Rockies (-2.5) | St. Louis Cardinals (BUY) | 79% | 0.00 | ⏳ pendiente | — |
@@ -163,6 +167,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will ADC Juan Pablo II College win on 20 | No (BUY) | 84% | 2.62 | ⏳ pendiente | — |
 | quavoo | Valorant: Leviatán Esports vs MIBR (BO3) | MIBR (BUY) | 39% | 7.26 | ⏳ pendiente | — |
 | RN1 | Will Clube do Remo win on 2026-08-08? | No (BUY) | 91% | 0.52 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 86% | 1.50 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 76% | 15.04 | ✅ ganada | +4.75 |
-| RN1 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 87% | 0.86 | ⏳ pendiente | — |
