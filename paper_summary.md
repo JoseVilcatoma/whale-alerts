@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:10:02 (hora de Perú)
+Actualizado: 2026-08-08 15:12:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $477.14
@@ -17,20 +17,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 5 | 2 | 24 | +12.05 USD |
-| UpTheBlues | 41 | 26 | 30 | +9.02 USD |
+| UpTheBlues | 42 | 26 | 30 | +9.02 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 7 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 14 | 12 | 14 | -11.76 USD |
+| wr0ngw4yb3tt0r | 14 | 12 | 15 | -11.76 USD |
 | 1winstreak1 | 0 | 3 | 0 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 5 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 166 | 135 | 33 | -75.22 USD |
+| ferrariChampions2026 | 166 | 136 | 32 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 2 | -303.20 USD |
 
@@ -110,6 +110,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 47% | 1.11 | ⏳ pendiente | — |
+| UpTheBlues | Will Grenoble Foot 38 win on 2026-08-08? | No (BUY) | 99% | 1.65 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: K27 vs SAW (BO3) - Espor | K27 (BUY) | 70% | 4.21 | ⏳ pendiente | — |
 | quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 61% | 1.62 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: Virtus.pro vs Sashi Espo | Virtus.pro (BUY) | 59% | 6.17 | ⏳ pendiente | — |
@@ -138,5 +140,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | PSV vs. Fortuna Sittard: O/U 1.5 | Over (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CD Riestra win on 2026-08-08? | Yes (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Athletics vs. Boston Red Sox: O/U 8.5 | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 36% | 0.00 | 💰 vendida anticipada | +0.00 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 58% | 0.00 | 💰 vendida anticipada | -0.00 |

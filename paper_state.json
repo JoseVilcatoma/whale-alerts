@@ -2930,6 +2930,16 @@
       "timestamp": 1786219781.4615002,
       "bankroll": 477.14,
       "event": "won: ferrariChampions2026 \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 1.5"
+    },
+    {
+      "timestamp": 1786219841.7236834,
+      "bankroll": 477.14,
+      "event": "lost: ferrariChampions2026 \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 2.5"
+    },
+    {
+      "timestamp": 1786219845.5525224,
+      "bankroll": 477.14,
+      "event": "won: UpTheBlues \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 3.5"
     }
   ]
 }
