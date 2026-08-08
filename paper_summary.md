@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 21:10:33 (hora de Perú)
+Actualizado: 2026-08-07 21:12:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $780.70
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 4 | +1.51 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 8 | 0 | -12.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 54 | 27 | 22 | -90.01 USD |
+| RN1 | 54 | 27 | 25 | -90.01 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | swisstony | 338 | 203 | 177 | -112.61 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -89,6 +89,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 71% | 3.82 | ⏳ pendiente | — |
+| RN1 | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 67% | 3.54 | ⏳ pendiente | — |
+| RN1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 19% | 1.09 | ⏳ pendiente | — |
 | swisstony | Will CS Independiente Rivadavia vs. AA E | Yes (BUY) | 52% | 2.41 | ⏳ pendiente | — |
 | swisstony | Will CD Universidad Católica vs. CD Cobr | No (BUY) | 91% | 0.91 | ⏳ pendiente | — |
 | swisstony | Spread: Minnesota Twins (-2.5) | Milwaukee Brewers (BUY) | 63% | 2.15 | ⏳ pendiente | — |
@@ -116,6 +119,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 66% | 0.78 | ⏳ pendiente | — |
 | swisstony | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 74% | 1.75 | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 51% | 2.95 | ⏳ pendiente | — |
-| swisstony | Deportes Quindio vs. Internacional FC De | Under (BUY) | 100% | 1.65 | ⏳ pendiente | — |
-| swisstony | Will CD Cobresal win on 2026-08-07? | No (BUY) | 88% | 1.57 | ⏳ pendiente | — |
-| swisstony | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 85% | 1.51 | ⏳ pendiente | — |
