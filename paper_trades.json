@@ -15303,5 +15303,70 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786215637.505344,
     "fills": 1
+  },
+  {
+    "timestamp": 1786215690,
+    "timestamp_added": 1786215691.6859648,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ere-psv-sit-2026-08-08-psv",
+    "title": "Will PSV win on 2026-08-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 128.78,
+    "whale_pct": 0.122,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786215691.6859775,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786215773,
+    "timestamp_added": 1786215774.1299891,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-atl-nyy-2026-08-08-total-7pt5",
+    "title": "Atlanta Braves vs. New York Yankees: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 7086.5,
+    "whale_pct": 1.712,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786215774.1299984,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786215773,
+    "timestamp_added": 1786215774.741229,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-atl-nyy-2026-08-08-total-7pt5",
+    "title": "Atlanta Braves vs. New York Yankees: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 6689.865,
+    "whale_pct": 3.976,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786215787.0985112,
+    "fills": 2
   }
 ]
