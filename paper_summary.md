@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 00:33:44 (hora de Perú)
+Actualizado: 2026-08-08 00:35:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $949.21
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 33 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 2 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 3 | +0.00 USD |
 | quavoo | 0 | 0 | 4 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 4 | -3.99 USD |
@@ -53,6 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 7.80 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 2.5 Rounds | Over (BUY) | 42% | 20.11 | ⏳ pendiente | — |
 | quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 60% | 3.02 | ⏳ pendiente | — |
 | quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 54% | 2.17 | ⏳ pendiente | — |
@@ -82,4 +83,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Vancouver Whitecaps FC vs. FC Juáre | Yes (BUY) | 33% | 2.18 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 13% | 2.28 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Juárez win on 2026-08-07? | Yes (BUY) | 49% | 7.85 | ⏳ pendiente | — |
-| UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 56% | 6.23 | ⏳ pendiente | — |

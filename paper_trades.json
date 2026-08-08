@@ -3051,5 +3051,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786167209.6444528,
     "fills": 1
+  },
+  {
+    "timestamp": 1786167261,
+    "timestamp_added": 1786167261.713556,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-wb-lng-2026-08-08",
+    "title": "LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana",
+    "outcome": "LNG Esports",
+    "side": "BUY",
+    "whale_usd": 87.75428499999997,
+    "whale_pct": 0.822,
+    "paper_stake_usd": 7.8,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786167261.713567,
+    "fills": 1
   }
 ]
