@@ -699,12 +699,13 @@
     "whale_pct": 0.224,
     "paper_stake_usd": 2.24,
     "odds_at_bet": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -1.78,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786158986.4182277,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 13
   },
   {
     "timestamp": 1786158988,
@@ -1103,6 +1104,26 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786159770.3574152,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786160069,
+    "timestamp_added": 1786160070.0388088,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-atl-nyy-2026-08-07-total-2pt5",
+    "title": "Atlanta Braves vs. New York Yankees: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 6507.120400000001,
+    "whale_pct": 1.496,
+    "paper_stake_usd": 14.89,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786160070.0388167,
     "fills": 1
   }
 ]

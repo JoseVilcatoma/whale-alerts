@@ -1,5 +1,5 @@
 {
-  "bankroll": 997.6537277454656,
+  "bankroll": 995.8759499676878,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -30,6 +30,11 @@
       "timestamp": 1786159568.3243883,
       "bankroll": 997.65,
       "event": "venta anticipada: 0x4f2 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 8.5 (-0.74 USD)"
+    },
+    {
+      "timestamp": 1786159982.772044,
+      "bankroll": 995.88,
+      "event": "venta anticipada: 0x4f2 \u2014 Spread: Atlanta Braves (-1.5) (-1.78 USD)"
     }
   ]
 }

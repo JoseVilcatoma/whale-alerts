@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 22:32:46 (hora de Perú)
+Actualizado: 2026-08-07 22:34:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $997.65
-**Retorno acumulado:** -0.23%
-**Peor caída desde un máximo (drawdown):** 0.24%
+**Bankroll actual:** $995.88
+**Retorno acumulado:** -0.41%
+**Peor caída desde un máximo (drawdown):** 0.41%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -13,12 +13,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| ferrariChampions2026 | 0 | 0 | 27 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 28 | +0.00 USD |
 | greyoctober | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 0 | 0 | 4 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 1 | +0.00 USD |
-| 0x4f2 | 1 | 6 | 13 | -2.36 USD |
+| 0x4f2 | 1 | 7 | 12 | -4.14 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -36,6 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 67% | 14.89 | ⏳ pendiente | — |
 | 0x4f2 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 54% | 1.98 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Juárez win on 2026-08-07? | No (BUY) | 92% | 4.27 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 68% | 3.25 | ⏳ pendiente | — |
@@ -55,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 58% | 2.19 | 💰 vendida anticipada | -0.91 |
 | 0x4f2 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 43% | 2.24 | 💰 vendida anticipada | +0.10 |
 | 0x4f2 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 40% | 2.24 | 💰 vendida anticipada | -0.28 |
-| 0x4f2 | Spread: Atlanta Braves (-1.5) | New York Yankees (BUY) | 63% | 2.24 | ⏳ pendiente | — |
+| 0x4f2 | Spread: Atlanta Braves (-1.5) | New York Yankees (BUY) | 63% | 2.24 | 💰 vendida anticipada | -1.78 |
 | ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 38% | 2.29 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 48% | 1.11 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Under (BUY) | 52% | 3.18 | ⏳ pendiente | — |
@@ -65,4 +66,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 51% | 1.01 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 76% | 1.29 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 94% | 1.84 | ⏳ pendiente | — |
-| 0x4f2 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 16% | 1.26 | ⏳ pendiente | — |
