@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 07:36:26 (hora de Perú)
+Actualizado: 2026-08-08 07:38:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $888.65
-**Retorno acumulado:** -11.13%
+**Bankroll actual:** $894.48
+**Retorno acumulado:** -10.55%
 **Peor caída desde un máximo (drawdown):** 19.35%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 8 | 8 | +9.70 USD |
 | greyoctober | 4 | 0 | 3 | +9.27 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| quavoo | 0 | 0 | 28 | +0.00 USD |
+| quavoo | 0 | 0 | 29 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 20 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | ThornyDevil | 2 | 0 | 3 | +0.00 USD |
@@ -26,10 +26,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
 | Spicer | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 42 | -3.99 USD |
-| UpTheBlues | 24 | 18 | 23 | -4.56 USD |
+| HomeRunHazard | 4 | 6 | 43 | -3.99 USD |
+| UpTheBlues | 25 | 20 | 20 | -4.56 USD |
 | RN1 | 2 | 2 | 13 | -5.13 USD |
-| ferrariChampions2026 | 74 | 81 | 123 | -65.39 USD |
+| ferrariChampions2026 | 86 | 89 | 103 | -59.56 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -84,6 +84,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 21% | 2.66 | ⏳ pendiente | — |
+| HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | ThornyDevil | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 43% | 16.40 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 58% | 3.52 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
@@ -112,5 +114,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 43% | 1.64 | ⏳ pendiente | — |
 | RN1 | Will Karlsruher SC win on 2026-08-08? | Yes (BUY) | 59% | 1.36 | ⏳ pendiente | — |
 | RN1 | SV Darmstadt 98 vs. Holstein Kiel: O/U 3 | Under (BUY) | 43% | 1.65 | ⏳ pendiente | — |
-| Spicer | Game Handicap: BLG (-1.5) vs EDward Gami | Bilibili Gaming (BUY) | 67% | 2.09 | ⏳ pendiente | — |
-| Spicer | Game Handicap: BLG (-1.5) vs EDward Gami | Bilibili Gaming (BUY) | 67% | 0.00 | ⏳ pendiente | — |
