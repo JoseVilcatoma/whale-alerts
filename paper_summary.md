@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 19:20:11 (hora de Perú)
+Actualizado: 2026-08-07 19:22:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.44
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 47 | 22 | 12 | -86.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 310 | 181 | 98 | -100.04 USD |
+| swisstony | 310 | 181 | 105 | -100.04 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -77,7 +77,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| swisstony | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 92% | 6.49 | ⏳ pendiente | — |
+| swisstony | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 93% | 10.65 | ⏳ pendiente | — |
+| swisstony | Spread: Phoenix Mercury (-6.5) | Phoenix Mercury (BUY) | 70% | 1.17 | ⏳ pendiente | — |
+| swisstony | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 92% | 6.37 | ⏳ pendiente | — |
+| swisstony | Will São Bernardo FC win on 2026-08-07? | Yes (BUY) | 87% | 0.99 | ⏳ pendiente | — |
+| swisstony | Will Operário Ferroviário EC vs. São Ber | No (BUY) | 85% | 2.96 | ⏳ pendiente | — |
+| swisstony | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 92% | 6.46 | ⏳ pendiente | — |
+| swisstony | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 82% | 1.90 | ⏳ pendiente | — |
+| swisstony | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 92% | 11.71 | ⏳ pendiente | — |
 | swisstony | Spread: Miami Marlins (-2.5) | Los Angeles Angels (BUY) | 81% | 1.40 | ⏳ pendiente | — |
 | swisstony | Spread: St. Louis Cardinals (-1.5) | Colorado Rockies (BUY) | 61% | 0.96 | ⏳ pendiente | — |
 | swisstony | Spread: St. Louis Cardinals (-1.5) | Colorado Rockies (BUY) | 61% | 0.87 | ⏳ pendiente | — |
@@ -100,10 +107,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Under (BUY) | 45% | 1.46 | ⏳ pendiente | — |
 | RN1 | Will CA Rosario Central win on 2026-08-0 | No (BUY) | 58% | 2.31 | ⏳ pendiente | — |
 | RN1 | Will CA Rosario Central vs. CA Aldosivi  | Yes (BUY) | 49% | 2.05 | ⏳ pendiente | — |
-| swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Over (BUY) | 56% | 1.63 | ⏳ pendiente | — |
-| swisstony | Spread: Cleveland Guardians (-2.5) | Chicago White Sox (BUY) | 47% | 0.99 | ⏳ pendiente | — |
-| RN1 | Will LDU Quito win on 2026-08-07? | No (BUY) | 84% | 4.39 | ⏳ pendiente | — |
-| swisstony | Atlanta Dream vs. Washington Mystics | Washington Mystics (BUY) | 54% | 1.61 | ⏳ pendiente | — |
-| swisstony | Will Operário Ferroviário EC vs. São Ber | Yes (BUY) | 54% | 0.91 | ⏳ pendiente | — |
-| swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Under (BUY) | 41% | 1.11 | ⏳ pendiente | — |
-| RN1 | CA Rosario Central vs. CA Aldosivi: O/U  | Over (BUY) | 59% | 1.49 | ⏳ pendiente | — |
