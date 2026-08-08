@@ -6506,10 +6506,10 @@
     "title": "LoL: T1 vs Hanwha Life Esports - Game 2 Winner",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 740.0,
-    "whale_pct": 2.193,
+    "whale_usd": 850.948538,
+    "whale_pct": 2.521,
     "paper_stake_usd": 0.0,
-    "odds_at_bet": 37,
+    "odds_at_bet": 38,
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": [
@@ -6517,7 +6517,30 @@
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
-    "last_fill_at": 1786181514.0151505,
+    "last_fill_at": 1786181527.368169,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786181569,
+    "timestamp_added": 1786181569.925608,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-t1-hle1-2026-08-08-game2",
+    "title": "LoL: T1 vs Hanwha Life Esports - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 2335.4919999999997,
+    "whale_pct": 6.92,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ThornyDevil",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786181569.9256165,
     "fills": 1
   }
 ]
