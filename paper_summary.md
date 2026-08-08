@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 14:44:43 (hora de Perú)
+Actualizado: 2026-08-08 14:46:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $470.02
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 5 | 2 | 23 | +12.05 USD |
-| UpTheBlues | 38 | 26 | 24 | +5.74 USD |
+| UpTheBlues | 38 | 26 | 29 | +5.74 USD |
 | HomeRunHazard | 7 | 8 | 62 | +0.35 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 6 | +0.00 USD |
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 152 | 134 | 43 | -76.06 USD |
+| ferrariChampions2026 | 152 | 134 | 45 | -76.06 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 2 | -303.20 USD |
 
@@ -88,7 +88,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-blg-edg-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
 | mlb-atl-nyy-2026-08-08-total-7pt5 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
 | lol-dk-kt-2026-08-09 | StasPanda, TAIWANNUMBERONE |
-| wnba-ind-chi-2026-08-08-total-190pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| wnba-ind-chi-2026-08-08-total-190pt5 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-spread-home-4pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ufc-dar3-yad-2026-08-08-totals-2pt5 | Talvez10, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-181pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -103,11 +103,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-las-min-2026-08-08-total-182pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | lol-mkoi-gx-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil |
 | bra-gre-sao-2026-08-08-sao | UpTheBlues, ferrariChampions2026 |
+| bl2-wob-fck-2026-08-08-total-2pt5 | UpTheBlues, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will São Paulo FC win on 2026-08-08? | No (BUY) | 78% | 2.52 | ⏳ pendiente | — |
+| ferrariChampions2026 | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 47% | 0.59 | ⏳ pendiente | — |
+| UpTheBlues | Will São Paulo FC win on 2026-08-08? | No (BUY) | 78% | 1.29 | ⏳ pendiente | — |
+| UpTheBlues | VfL Wolfsburg vs. 1. FC Kaiserslautern:  | Under (BUY) | 80% | 4.48 | ⏳ pendiente | — |
+| UpTheBlues | Will Grasshopper Club Zurich win on 2026 | No (BUY) | 81% | 1.29 | ⏳ pendiente | — |
+| UpTheBlues | Will São Paulo FC win on 2026-08-08? | No (BUY) | 78% | 1.29 | ⏳ pendiente | — |
+| ferrariChampions2026 | Grêmio FBPA vs. São Paulo FC: O/U 0.5 | Over (BUY) | 71% | 1.01 | ⏳ pendiente | — |
 | UpTheBlues | Servette Geneva vs. Grasshopper Club Zur | Under (BUY) | 86% | 3.90 | ⏳ pendiente | — |
 | Talvez10 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 51% | 4.43 | ⏳ pendiente | — |
 | UpTheBlues | PSV vs. Fortuna Sittard: O/U 3.5 | Under (BUY) | 62% | 7.29 | ⏳ pendiente | — |
@@ -131,10 +139,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | Counter-Strike: Sinners vs EYEBALLERS (B | EYEBALLERS (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will PSV win on 2026-08-08? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CD Riestra win on 2026-08-08? | Yes (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will PSV vs. Fortuna Sittard end in a dr | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will PSV win on 2026-08-08? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| StasPanda | Counter-Strike: Virtus.pro vs Sashi Espo | Virtus.pro (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | VfL Wolfsburg vs. 1. FC Kaiserslautern:  | Over (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will PSV win on 2026-08-08? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will PSV win on 2026-08-08? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
