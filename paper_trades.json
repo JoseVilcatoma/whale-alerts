@@ -8922,5 +8922,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786186165.1012452,
     "fills": 1
+  },
+  {
+    "timestamp": 1786186208,
+    "timestamp_added": 1786186208.4111807,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "jap-cer-fag-2026-08-08-cer",
+    "title": "Will Cerezo \u014csaka win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 3181.9439,
+    "whale_pct": 1.357,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786186219.2155297,
+    "fills": 2
   }
 ]
