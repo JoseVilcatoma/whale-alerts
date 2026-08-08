@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 00:42:06 (hora de Perú)
+Actualizado: 2026-08-08 00:44:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $949.21
@@ -15,10 +15,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
-| UpTheBlues | 0 | 0 | 34 | +0.00 USD |
+| UpTheBlues | 0 | 0 | 35 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 4 | +0.00 USD |
-| quavoo | 0 | 0 | 9 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 5 | +0.00 USD |
+| quavoo | 0 | 0 | 11 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 4 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
@@ -53,6 +53,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 54% | 11.77 | ⏳ pendiente | — |
+| UpTheBlues | Spread: Vissel Kōbe (-1.5) | Avispa Fukuoka (BUY) | 81% | 11.04 | ⏳ pendiente | — |
+| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 60% | 1.18 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 5.31 | ⏳ pendiente | — |
 | quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 60% | 3.47 | ⏳ pendiente | — |
 | quavoo | Stade Rennais FC vs. Brentford FC: O/U 3 | Over (BUY) | 38% | 0.99 | ⏳ pendiente | — |
 | quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 60% | 1.94 | ⏳ pendiente | — |
@@ -79,7 +83,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 48% | 3.08 | ✅ ganada | +3.34 |
 | HomeRunHazard | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 55% | 5.24 | ❌ perdida | -5.24 |
 | ferrariChampions2026 | Spread: San Francisco Giants (-2.5) | Detroit Tigers (BUY) | 46% | 2.59 | ❌ perdida | -2.59 |
-| HomeRunHazard | Spread: San Francisco Giants (-2.5) | Detroit Tigers (BUY) | 44% | 1.65 | ❌ perdida | -1.65 |
-| wr0ngw4yb3tt0r | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 41% | 6.99 | ❌ perdida | -6.99 |
-| UpTheBlues | Spread: FC Juárez (-1.5) | Vancouver Whitecaps FC (BUY) | 93% | 2.38 | ⏳ pendiente | — |
-| UpTheBlues | Will FC Juárez win on 2026-08-07? | Yes (BUY) | 52% | 3.26 | ⏳ pendiente | — |
