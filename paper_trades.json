@@ -2727,5 +2727,49 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786162925.624205,
     "fills": 1
+  },
+  {
+    "timestamp": 1786162985,
+    "timestamp_added": 1786162985.8869643,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-det-sf-2026-08-07-total-7pt5",
+    "title": "Detroit Tigers vs. San Francisco Giants: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1592.1216,
+    "whale_pct": 0.315,
+    "paper_stake_usd": 3.08,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x4f2"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786162985.886975,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786163025,
+    "timestamp_added": 1786163025.5741117,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-hou-sd-2026-08-07-total-9pt5",
+    "title": "Houston Astros vs. San Diego Padres: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1514.279,
+    "whale_pct": 0.299,
+    "paper_stake_usd": 2.92,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786163025.5741203,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 23:22:24 (hora de Perú)
+Actualizado: 2026-08-07 23:24:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $977.05
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
 | RN1 | 0 | 0 | 4 | +0.00 USD |
-| HomeRunHazard | 0 | 0 | 8 | +0.00 USD |
+| HomeRunHazard | 0 | 0 | 10 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 33 | +0.00 USD |
 | 0x4f2 | 3 | 8 | 16 | -2.90 USD |
 | ferrariChampions2026 | 7 | 6 | 38 | -20.09 USD |
@@ -35,6 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-lad-ari-2026-08-07-spread-home-1pt5 | 0x4f2, ferrariChampions2026 |
 | mlb-tor-phi-2026-08-07-spread-away-1pt5 | 0x4f2, ferrariChampions2026 |
 | lec-vwh-jua-2026-08-07-total-3pt5 | UpTheBlues, ferrariChampions2026 |
+| mlb-hou-sd-2026-08-07-total-9pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-det-sf-2026-08-07-total-9pt5 | 0x4f2, RN1 |
 | mlb-det-sf-2026-08-07-total-7pt5 | 0x4f2, HomeRunHazard |
 | mlb-lad-ari-2026-08-07-spread-away-2pt5 | 0x4f2, HomeRunHazard |
@@ -49,6 +50,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 65% | 2.92 | ⏳ pendiente | — |
+| HomeRunHazard | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 48% | 3.08 | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 55% | 5.24 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: San Francisco Giants (-2.5) | Detroit Tigers (BUY) | 46% | 2.59 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: San Francisco Giants (-2.5) | Detroit Tigers (BUY) | 44% | 1.65 | ⏳ pendiente | — |
@@ -77,5 +80,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 40% | 1.12 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: San Francisco Giants (-2.5) | Detroit Tigers (BUY) | 45% | 1.15 | ⏳ pendiente | — |
 | greyoctober | Valorant: DRX vs T1 (BO3) - VCT Pacific  | T1 (BUY) | 63% | 7.15 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 55% | 2.70 | ⏳ pendiente | — |
-| ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 46% | 5.21 | ⏳ pendiente | — |
