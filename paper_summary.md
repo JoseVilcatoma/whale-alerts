@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 05:41:06 (hora de Perú)
+Actualizado: 2026-08-08 05:43:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.76
@@ -23,12 +23,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | ThornyDevil | 0 | 0 | 3 | +0.00 USD |
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
-| StasPanda | 0 | 0 | 1 | +0.00 USD |
+| StasPanda | 0 | 0 | 2 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 12 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 127 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 129 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -69,6 +69,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| StasPanda | Counter-Strike: 1WIN vs BASEMENT BOYS (B | BASEMENT BOYS (BUY) | 21% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Shimizu S-Pulse win on 2026-08-08? | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: Procyon Gaming vs ODDIK  | ODDIK Academy (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Vissel Kōbe (-1.5) | Vissel Kōbe (BUY) | 34% | 0.00 | ⏳ pendiente | — |
@@ -96,6 +99,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-2.5) | JEF United Ichihara Chiba (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Nagoya Grampus (-1.5) | Nagoya Grampus (BUY) | 23% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Cerezo Ōsaka win on 2026-08-08? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | FC Tōkyō vs. FC Machida Zelvia: O/U 2.5 | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 4% | 0.00 | 💰 vendida anticipada | +0.00 |
-| ferrariChampions2026 | Will Vissel Kōbe win on 2026-08-08? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
