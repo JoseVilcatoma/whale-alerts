@@ -1,5 +1,5 @@
 {
-  "bankroll": 953.4955295717098,
+  "bankroll": 940.2266103145303,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -170,6 +170,36 @@
       "timestamp": 1786164183.201749,
       "bankroll": 953.5,
       "event": "lost: 0x4f2 \u2014 Spread: Los Angeles Dodgers (-2.5)"
+    },
+    {
+      "timestamp": 1786164244.802076,
+      "bankroll": 953.72,
+      "event": "won: RN1 \u2014 Spread: Arizona Diamondbacks (-2.5)"
+    },
+    {
+      "timestamp": 1786164304.2492816,
+      "bankroll": 954.09,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786164305.5402014,
+      "bankroll": 941.07,
+      "event": "lost: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 6.5"
+    },
+    {
+      "timestamp": 1786164305.7405722,
+      "bankroll": 946.49,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 6.5"
+    },
+    {
+      "timestamp": 1786164311.3427796,
+      "bankroll": 945.44,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 6.5"
+    },
+    {
+      "timestamp": 1786164311.442934,
+      "bankroll": 940.23,
+      "event": "lost: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 6.5"
     }
   ]
 }
