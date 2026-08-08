@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 01:17:34 (hora de Perú)
+Actualizado: 2026-08-08 01:19:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $949.24
@@ -19,9 +19,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | TAIWANNUMBERONE | 0 | 0 | 19 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
-| fRibrenlc | 0 | 0 | 7 | +0.00 USD |
+| fRibrenlc | 0 | 0 | 8 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 16 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 17 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | ferrariChampions2026 | 10 | 12 | 29 | -57.12 USD |
 
@@ -54,6 +54,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 13.39 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Colorado Rockies (-1.5) | St. Louis Cardinals (BUY) | 70% | 3.35 | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 1.38 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 5.97 | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 1.38 | ⏳ pendiente | — |
@@ -82,5 +84,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 51% | 5.18 | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 8.41 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 1.06 | ⏳ pendiente | — |
-| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 61% | 3.31 | ⏳ pendiente | — |
-| quavoo | Will FC Seoul win on 2026-08-08? | Yes (BUY) | 49% | 3.64 | ⏳ pendiente | — |
