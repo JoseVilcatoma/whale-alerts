@@ -14056,5 +14056,94 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786212886.6045086,
     "fills": 1
+  },
+  {
+    "timestamp": 1786212912,
+    "timestamp_added": 1786212912.4770327,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-las-min-2026-08-08-total-184pt5",
+    "title": "Las Vegas Aces vs. Minnesota Lynx: O/U 184.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 221.9856,
+    "whale_pct": 0.143,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786212912.4770415,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786212948,
+    "timestamp_added": 1786212949.2350836,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-mkoi-gx-2026-08-08-game1",
+    "title": "LoL: Movistar KOI vs GIANTX - Game 1 Winner",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "whale_usd": 813.7199999999999,
+    "whale_pct": 1.1,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 21,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ThornyDevil"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786212953.5963168,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786212951,
+    "timestamp_added": 1786212951.8649883,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-las-min-2026-08-08",
+    "title": "Las Vegas Aces vs. Minnesota Lynx",
+    "outcome": "Minnesota Lynx",
+    "side": "BUY",
+    "whale_usd": 1622.0944,
+    "whale_pct": 1.039,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786212953.5318043,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786212993,
+    "timestamp_added": 1786212994.4111028,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-mkoi-gx-2026-08-08-game1",
+    "title": "LoL: Movistar KOI vs GIANTX - Game 1 Winner",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "whale_usd": 282.73080000000004,
+    "whale_pct": 0.372,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 22,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ThornyDevil"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786212994.4111123,
+    "fills": 1
   }
 ]
