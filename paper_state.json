@@ -1,5 +1,5 @@
 {
-  "bankroll": 526.8998089965478,
+  "bankroll": 527.4521899489288,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -1930,6 +1930,11 @@
       "timestamp": 1786196074.9683087,
       "bankroll": 526.9,
       "event": "lost: ferrariChampions2026 \u2014 Will Cerezo \u014csaka win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786197630.0620558,
+      "bankroll": 527.45,
+      "event": "won: UpTheBlues \u2014 Spread: Tegevajaro Miyazaki (-1.5)"
     }
   ]
 }

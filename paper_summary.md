@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 08:59:46 (hora de Perú)
+Actualizado: 2026-08-08 09:01:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $526.90
-**Retorno acumulado:** -47.31%
+**Bankroll actual:** $527.45
+**Retorno acumulado:** -47.25%
 **Peor caída desde un máximo (drawdown):** 47.50%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 9 | 1 | +9.70 USD |
 | greyoctober | 4 | 0 | 3 | +9.27 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| quavoo | 0 | 0 | 34 | +0.00 USD |
+| quavoo | 0 | 0 | 38 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | ThornyDevil | 3 | 0 | 2 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -27,8 +27,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 45 | -3.99 USD |
 | RN1 | 2 | 2 | 20 | -5.13 USD |
-| UpTheBlues | 27 | 21 | 17 | -6.07 USD |
-| ferrariChampions2026 | 119 | 106 | 54 | -61.20 USD |
+| UpTheBlues | 28 | 21 | 16 | -5.52 USD |
+| ferrariChampions2026 | 119 | 106 | 57 | -61.20 USD |
 | fRibrenlc | 0 | 12 | 8 | -127.91 USD |
 | TAIWANNUMBERONE | 1 | 31 | 6 | -303.20 USD |
 
@@ -86,6 +86,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Salford City FC vs. Shrewsbury Town FC:  | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| quavoo | Valorant: Leviatán Esports vs MIBR (BO3) | MIBR (BUY) | 38% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Leyton Orient FC vs. Oxford United FC: O | Over (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Tottenham Hotspur win on 2026-08-08 | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Leicester City FC vs. Northampton Town F | Over (BUY) | 83% | 0.00 | ⏳ pendiente | — |
+| quavoo | Spread: West Ham United FC (-1.5) | West Ham United FC (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Aberdeen FC win on 2026-08-08? | Yes (BUY) | 41% | 3.45 | ⏳ pendiente | — |
 | RN1 | Will Cardiff City FC win on 2026-08-08? | Yes (BUY) | 74% | 0.33 | ⏳ pendiente | — |
 | RN1 | Will Bayer Leverkusen win on 2026-08-08? | Yes (BUY) | 50% | 2.29 | ⏳ pendiente | — |
 | quavoo | Will Orlando City SC vs. Club León FC en | Yes (BUY) | 24% | 0.66 | ⏳ pendiente | — |
@@ -109,10 +116,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Cleveland Guardians (-2.5) | Chicago White Sox (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| quavoo | Cleveland Guardians vs. Chicago White So | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 39% | 0.00 | ⏳ pendiente | — |
