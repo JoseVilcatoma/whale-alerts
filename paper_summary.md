@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:19:42 (hora de Perú)
+Actualizado: 2026-08-08 15:21:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $477.14
@@ -17,20 +17,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 5 | 2 | 24 | +12.05 USD |
-| UpTheBlues | 39 | 26 | 2 | +9.02 USD |
+| UpTheBlues | 39 | 26 | 3 | +9.02 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| Talvez10 | 0 | 0 | 6 | +0.00 USD |
+| Talvez10 | 0 | 0 | 5 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 2 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 8 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 1 | -12.25 USD |
+| 1winstreak1 | 0 | 3 | 3 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 162 | 136 | 22 | -75.22 USD |
+| ferrariChampions2026 | 162 | 136 | 24 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
@@ -63,6 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-wb-lng-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-laa-mia-2026-08-08-total-8pt5 | HomeRunHazard, quavoo |
 | jap-avi-vis-2026-08-08-spread-away-1pt5 | UpTheBlues, ferrariChampions2026 |
+| mlb-oak-bos-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard |
 | mlb-tor-phi-2026-08-08-total-9pt5 | HomeRunHazard, Talvez10 |
 | mlb-lad-ari-2026-08-08-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-185pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -87,29 +88,28 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-svd-ksv-2026-08-08-total-3pt5 | RN1, ferrariChampions2026 |
 | bl2-ksc-bie-2026-08-08-total-5pt5 | RN1, ferrariChampions2026 |
 | lol-blg-edg-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
-| mlb-atl-nyy-2026-08-08-total-7pt5 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
 | lol-dk-kt-2026-08-09 | StasPanda, TAIWANNUMBERONE |
-| wnba-ind-chi-2026-08-08-total-190pt5 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
+| wnba-ind-chi-2026-08-08-total-190pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-spread-home-4pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ufc-dar3-yad-2026-08-08-totals-2pt5 | Talvez10, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-181pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-spread-home-5pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
 | lol-sk-navi-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
 | wnba-las-min-2026-08-08 | 1winstreak1, HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
-| arg-rie-est-2026-08-08-rie | UpTheBlues, ferrariChampions2026 |
-| arg-rie-est-2026-08-08-est | UpTheBlues, ferrariChampions2026 |
 | wnba-las-min-2026-08-08-total-183pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | lol-mkoi-gx-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BrotherObama, ferrariChampions2026 |
 | lol-mkoi-gx-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
 | wnba-las-min-2026-08-08-total-182pt5 | 1winstreak1, wr0ngw4yb3tt0r |
-| lol-mkoi-gx-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil |
-| bra-gre-sao-2026-08-08-sao | UpTheBlues, ferrariChampions2026 |
-| bl2-wob-fck-2026-08-08-total-2pt5 | UpTheBlues, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will RC Deportivo De La Coruna win on 20 | No (BUY) | 86% | 0.76 | ⏳ pendiente | — |
+| UpTheBlues | VfL Wolfsburg vs. 1. FC Kaiserslautern:  | Over (BUY) | 16% | 1.24 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will RC Deportivo De La Coruna win on 20 | No (BUY) | 87% | 0.59 | ⏳ pendiente | — |
+| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 9.5 | Over (BUY) | 45% | 2.22 | ⏳ pendiente | — |
+| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Over (BUY) | 57% | 0.78 | ⏳ pendiente | — |
 | 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Under (BUY) | 48% | 1.08 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Valencia CF win on 2026-08-08? | No (BUY) | 58% | 0.61 | ⏳ pendiente | — |
 | UpTheBlues | St. Truidense VV vs. Lommel SK: O/U 4.5 | Under (BUY) | 96% | 3.69 | ⏳ pendiente | — |
@@ -135,8 +135,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Las Vegas Aces vs. Minnesota Lynx | Las Vegas Aces (BUY) | 23% | 12.25 | ❌ perdida | -12.25 |
 | ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 70% | 0.91 | ✅ ganada | +0.39 |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 76% | 2.07 | ✅ ganada | +0.65 |
-| ferrariChampions2026 | Will Estudiantes de La Plata win on 2026 | No (BUY) | 93% | 1.46 | ✅ ganada | +0.11 |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 83% | 2.92 | ✅ ganada | +0.60 |
-| ferrariChampions2026 | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 87% | 0.00 | ✅ ganada | +0.00 |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 86% | 0.00 | ✅ ganada | +0.00 |
-| ferrariChampions2026 | Will Estudiantes de La Plata win on 2026 | No (BUY) | 93% | 0.00 | ✅ ganada | +0.00 |
