@@ -1,5 +1,5 @@
 {
-  "bankroll": 952.082468228546,
+  "bankroll": 953.89188214796,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -230,6 +230,81 @@
       "timestamp": 1786165046.9843442,
       "bankroll": 952.08,
       "event": "won: HomeRunHazard \u2014 Houston Astros vs. San Diego Padres: O/U 9.5"
+    },
+    {
+      "timestamp": 1786165103.3426063,
+      "bankroll": 950.93,
+      "event": "lost: ferrariChampions2026 \u2014 Houston Astros vs. San Diego Padres: O/U 10.5"
+    },
+    {
+      "timestamp": 1786165163.5472791,
+      "bankroll": 954.15,
+      "event": "won: ferrariChampions2026 \u2014 Spread: San Francisco Giants (-1.5)"
+    },
+    {
+      "timestamp": 1786165165.052303,
+      "bankroll": 954.38,
+      "event": "won: 0x4f2 \u2014 Spread: San Diego Padres (-1.5)"
+    },
+    {
+      "timestamp": 1786165165.6010287,
+      "bankroll": 959.76,
+      "event": "won: 0x4f2 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 9.5"
+    },
+    {
+      "timestamp": 1786165165.7011778,
+      "bankroll": 964.18,
+      "event": "won: 0x4f2 \u2014 Spread: San Francisco Giants (-1.5)"
+    },
+    {
+      "timestamp": 1786165165.801322,
+      "bankroll": 961.7,
+      "event": "lost: RN1 \u2014 Spread: San Francisco Giants (-1.5)"
+    },
+    {
+      "timestamp": 1786165165.901552,
+      "bankroll": 958.68,
+      "event": "lost: RN1 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 9.5"
+    },
+    {
+      "timestamp": 1786165166.164023,
+      "bankroll": 956.75,
+      "event": "lost: 0x4f2 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1786165168.679196,
+      "bankroll": 955.49,
+      "event": "lost: 0x4f2 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 9.5"
+    },
+    {
+      "timestamp": 1786165170.1854506,
+      "bankroll": 961.19,
+      "event": "won: 0x4f2 \u2014 Spread: Houston Astros (-2.5)"
+    },
+    {
+      "timestamp": 1786165170.9347525,
+      "bankroll": 960.04,
+      "event": "lost: HomeRunHazard \u2014 Spread: San Francisco Giants (-2.5)"
+    },
+    {
+      "timestamp": 1786165173.2385862,
+      "bankroll": 958.39,
+      "event": "lost: HomeRunHazard \u2014 Spread: San Francisco Giants (-2.5)"
+    },
+    {
+      "timestamp": 1786165173.3387876,
+      "bankroll": 955.8,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: San Francisco Giants (-2.5)"
+    },
+    {
+      "timestamp": 1786165173.438992,
+      "bankroll": 950.56,
+      "event": "lost: HomeRunHazard \u2014 Detroit Tigers vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1786165173.5392015,
+      "bankroll": 953.89,
+      "event": "won: HomeRunHazard \u2014 Detroit Tigers vs. San Francisco Giants: O/U 7.5"
     }
   ]
 }
