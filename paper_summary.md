@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 14:57:32 (hora de Perú)
+Actualizado: 2026-08-08 14:59:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.03
@@ -17,12 +17,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 5 | 2 | 23 | +12.05 USD |
-| UpTheBlues | 38 | 26 | 31 | +5.74 USD |
+| UpTheBlues | 38 | 26 | 33 | +5.74 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| StasPanda | 0 | 4 | 5 | +0.00 USD |
+| StasPanda | 0 | 4 | 6 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 12 | 12 | 16 | -11.76 USD |
 | 1winstreak1 | 0 | 2 | 1 | -12.25 USD |
@@ -110,6 +110,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| StasPanda | Counter-Strike: Virtus.pro vs Sashi Espo | Virtus.pro (BUY) | 59% | 6.17 | ⏳ pendiente | — |
+| UpTheBlues | Will FC Metz win on 2026-08-08? | No (BUY) | 88% | 1.27 | ⏳ pendiente | — |
+| UpTheBlues | Clermont Foot 63 vs. Stade de Reims: O/U | Under (BUY) | 91% | 3.89 | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 46% | 0.11 | ⏳ pendiente | — |
 | UpTheBlues | Korona Kielce vs. Legia Warszawa: O/U 4. | Under (BUY) | 98% | 3.41 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Indiana Fever (-5.5) | Chicago Sky (BUY) | 51% | 0.61 | ⏳ pendiente | — |
@@ -137,6 +140,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 58% | 0.00 | 💰 vendida anticipada | -0.00 |
 | StasPanda | Counter-Strike: Sinners vs EYEBALLERS (B | EYEBALLERS (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will AD Tarma win on 2026-08-08? | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will VfL Wolfsburg win on 2026-08-08? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | AZ vs. ADO Den Haag: Both Teams to Score | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | PSV vs. Fortuna Sittard: O/U 3.5 | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
