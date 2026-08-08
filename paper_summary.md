@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 17:14:05 (hora de Perú)
+Actualizado: 2026-08-08 17:16:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $471.15
@@ -13,11 +13,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 39 | 14 | 17 | +57.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 40 | 14 | 16 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
-| quavoo | 5 | 5 | 76 | +8.84 USD |
+| quavoo | 5 | 5 | 77 | +8.84 USD |
 | HomeRunHazard | 9 | 13 | 66 | +0.58 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 1 | 2 | 11 | +0.00 USD |
@@ -25,12 +25,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 13 | 13 | -11.76 USD |
-| 1winstreak1 | 5 | 7 | 45 | -12.25 USD |
+| 1winstreak1 | 5 | 7 | 46 | -12.25 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 8 | 9 | 19 | -22.00 USD |
+| RN1 | 9 | 9 | 19 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 170 | 147 | 61 | -75.22 USD |
+| ferrariChampions2026 | 171 | 147 | 61 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 6 | -303.20 USD |
 
@@ -129,12 +129,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will ADC Juan Pablo II College win on 20 | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Athletics (-1.5) | Athletics (BUY) | 78% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | RN1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | RN1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Athletics (-1.5) | Boston Red Sox (BUY) | 22% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 99% | 0.00 | 💰 vendida anticipada | +0.00 |
 | ferrariChampions2026 | Spread: Athletics (-2.5) | Boston Red Sox (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 21% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 86% | 0.00 | ⏳ pendiente | — |
@@ -155,7 +159,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 82% | 0.00 | 💰 vendida anticipada | +0.00 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 81% | 0.00 | 💰 vendida anticipada | +0.00 |
-| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| quavoo | Las Vegas Aces vs. New York Liberty | New York Liberty (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 0.00 | ⏳ pendiente | — |
