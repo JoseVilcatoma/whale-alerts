@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 01:07:06 (hora de Perú)
+Actualizado: 2026-08-08 01:09:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $949.21
@@ -17,11 +17,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 38 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 12 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 14 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 4 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 9 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 12 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | ferrariChampions2026 | 10 | 12 | 29 | -57.12 USD |
 
@@ -54,6 +54,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Under (BUY) | 50% | 1.63 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports - Game  | LNG Esports (BUY) | 35% | 128.24 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 9.58 | ⏳ pendiente | — |
+| HomeRunHazard | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 49% | 5.55 | ⏳ pendiente | — |
+| HomeRunHazard | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 47% | 1.14 | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 61.25 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports - Game  | LNG Esports (BUY) | 35% | 1.66 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 49% | 1.99 | ⏳ pendiente | — |
@@ -79,8 +84,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Tottenham Hotspur win on 2026-08-08 | Yes (BUY) | 51% | 3.21 | ⏳ pendiente | — |
 | quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 21% | 1.94 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 16.37 | ⏳ pendiente | — |
-| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 60% | 1.17 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 1.75 | ⏳ pendiente | — |
-| HomeRunHazard | Athletics vs. Boston Red Sox: O/U 9.5 | Under (BUY) | 53% | 3.13 | ⏳ pendiente | — |
-| quavoo | Will Chelsea FC win on 2026-08-08? | Yes (BUY) | 48% | 5.71 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 12.00 | ⏳ pendiente | — |
