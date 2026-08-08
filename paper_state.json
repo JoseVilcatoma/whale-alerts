@@ -1,5 +1,5 @@
 {
-  "bankroll": 949.2421284465624,
+  "bankroll": 949.5984093873404,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -325,6 +325,81 @@
       "timestamp": 1786169406.0788305,
       "bankroll": 949.24,
       "event": "won: UpTheBlues \u2014 CS Cartagin\u00e9s vs. Sporting FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786171220.5515785,
+      "bankroll": 949.49,
+      "event": "won: ferrariChampions2026 \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 2.5"
+    },
+    {
+      "timestamp": 1786171220.7519114,
+      "bankroll": 949.82,
+      "event": "won: ferrariChampions2026 \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 2.5"
+    },
+    {
+      "timestamp": 1786171220.9523005,
+      "bankroll": 950.16,
+      "event": "won: ferrariChampions2026 \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 2.5"
+    },
+    {
+      "timestamp": 1786171221.052501,
+      "bankroll": 950.52,
+      "event": "won: ferrariChampions2026 \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 2.5"
+    },
+    {
+      "timestamp": 1786171221.1526926,
+      "bankroll": 951.01,
+      "event": "won: ferrariChampions2026 \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 2.5"
+    },
+    {
+      "timestamp": 1786171221.353117,
+      "bankroll": 951.5,
+      "event": "won: ferrariChampions2026 \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 2.5"
+    },
+    {
+      "timestamp": 1786171221.5535586,
+      "bankroll": 951.91,
+      "event": "won: ferrariChampions2026 \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 2.5"
+    },
+    {
+      "timestamp": 1786171222.4550326,
+      "bankroll": 952.33,
+      "event": "won: UpTheBlues \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 2.5"
+    },
+    {
+      "timestamp": 1786171222.5552607,
+      "bankroll": 952.97,
+      "event": "won: UpTheBlues \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 2.5"
+    },
+    {
+      "timestamp": 1786171222.8557866,
+      "bankroll": 953.59,
+      "event": "won: UpTheBlues \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 2.5"
+    },
+    {
+      "timestamp": 1786171223.244835,
+      "bankroll": 952.25,
+      "event": "lost: UpTheBlues \u2014 Spread: Vancouver Whitecaps FC (-1.5)"
+    },
+    {
+      "timestamp": 1786171223.5454192,
+      "bankroll": 952.43,
+      "event": "won: UpTheBlues \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 2.5"
+    },
+    {
+      "timestamp": 1786171223.6456108,
+      "bankroll": 952.7,
+      "event": "won: UpTheBlues \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 2.5"
+    },
+    {
+      "timestamp": 1786171224.9477854,
+      "bankroll": 951.34,
+      "event": "lost: UpTheBlues \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 2.5"
+    },
+    {
+      "timestamp": 1786171225.8493547,
+      "bankroll": 949.6,
+      "event": "lost: UpTheBlues \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 2.5"
     }
   ]
 }
