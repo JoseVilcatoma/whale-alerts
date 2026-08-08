@@ -1463,5 +1463,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786160761.109702,
     "fills": 1
+  },
+  {
+    "timestamp": 1786160908,
+    "timestamp_added": 1786160908.4884884,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "fpd-car-spo-2026-08-07-total-2pt5",
+    "title": "CS Cartagin\u00e9s vs. Sporting FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 674.1899999999999,
+    "whale_pct": 0.314,
+    "paper_stake_usd": 3.13,
+    "odds_at_bet": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786160908.4884968,
+    "fills": 1
   }
 ]
