@@ -1,5 +1,5 @@
 {
-  "bankroll": 619.5146665844021,
+  "bankroll": 621.1299297422969,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2570,6 +2570,16 @@
       "timestamp": 1786215641.6249557,
       "bankroll": 619.51,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Movistar KOI vs GIANTX - Game 2 Winner (+0.00 USD)"
+    },
+    {
+      "timestamp": 1786216445.843025,
+      "bankroll": 619.51,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Movistar KOI vs GIANTX (BO3) - LEC Regular Season (+0.00 USD)"
+    },
+    {
+      "timestamp": 1786216517.6844485,
+      "bankroll": 621.13,
+      "event": "won: quavoo \u2014 Stade Rennais FC vs. Brentford FC: O/U 3.5"
     }
   ]
 }

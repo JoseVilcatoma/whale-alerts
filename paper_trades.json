@@ -3185,8 +3185,8 @@
     "whale_pct": 0.105,
     "paper_stake_usd": 0.99,
     "odds_at_bet": 38,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.62,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786167539.9829776,
@@ -14861,15 +14861,16 @@
     "whale_pct": 21.983,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "BrotherObama",
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786215064.6541567,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 55
   },
   {
     "timestamp": 1786215083,
@@ -14884,15 +14885,16 @@
     "whale_pct": 0.31,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "BrotherObama",
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786215084.5833771,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 55
   },
   {
     "timestamp": 1786215146,
@@ -14948,15 +14950,16 @@
     "whale_pct": 0.237,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "BrotherObama",
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786215166.6971064,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 55
   },
   {
     "timestamp": 1786215168,
@@ -15033,15 +15036,16 @@
     "whale_pct": 0.234,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "BrotherObama",
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786215212.7132583,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 55
   },
   {
     "timestamp": 1786215249,
@@ -15056,15 +15060,16 @@
     "whale_pct": 0.342,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "BrotherObama",
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786215249.953365,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 55
   },
   {
     "timestamp": 1786215272,
@@ -15079,15 +15084,16 @@
     "whale_pct": 7.435,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "BrotherObama",
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786215274.3911564,
-    "fills": 3
+    "fills": 3,
+    "closed_price": 55
   },
   {
     "timestamp": 1786215281,
@@ -15402,15 +15408,16 @@
     "whale_pct": 1.799,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "BrotherObama",
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786215888.152042,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 55
   },
   {
     "timestamp": 1786215896,
@@ -15852,15 +15859,16 @@
     "whale_pct": 1.064,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "BrotherObama",
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786216375.1303837,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 55
   },
   {
     "timestamp": 1786216376,
@@ -15904,6 +15912,110 @@
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786216404.0436413,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786216430,
+    "timestamp_added": 1786216430.875253,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-rie-est-2026-08-08-rie",
+    "title": "Will CD Riestra win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 674.0600000000001,
+    "whale_pct": 0.702,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786216451.6112683,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786216459,
+    "timestamp_added": 1786216459.7227669,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ere-psv-sit-2026-08-08-total-1pt5",
+    "title": "PSV vs. Fortuna Sittard: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1348.899982,
+    "whale_pct": 1.405,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786216460.330093,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786216504,
+    "timestamp_added": 1786216505.2718964,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ere-psv-sit-2026-08-08-total-1pt5",
+    "title": "PSV vs. Fortuna Sittard: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 983.0699479999998,
+    "whale_pct": 1.004,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786216506.036093,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786216513,
+    "timestamp_added": 1786216513.738764,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-mkoi-gx-2026-08-08-game2",
+    "title": "LoL: Movistar KOI vs GIANTX - Game 2 Winner",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "whale_usd": 204.95999999999998,
+    "whale_pct": 0.248,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 21,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ThornyDevil"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786216513.7387736,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786216529,
+    "timestamp_added": 1786216530.1600814,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-cat-cas-2026-08-08-cas",
+    "title": "Will CA Sarmiento win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 469.0,
+    "whale_pct": 0.479,
+    "paper_stake_usd": 2.61,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786216530.1600885,
     "fills": 1
   }
 ]
