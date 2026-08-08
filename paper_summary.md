@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 21:29:51 (hora de Perú)
+Actualizado: 2026-08-07 21:31:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $778.11
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 4 | +1.51 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 8 | 0 | -12.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 54 | 28 | 28 | -92.53 USD |
+| RN1 | 54 | 28 | 30 | -92.53 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | swisstony | 354 | 218 | 152 | -112.67 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
@@ -57,6 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-min-kc-2026-08-06-spread-home-1pt5 | RN1, swisstony |
 | nfl-car-ari-2026-08-07 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465, swisstony |
 | mlb-sd-ari-2026-08-06-total-8pt5 | RN1, swisstony |
+| mlb-bal-tex-2026-08-07-spread-home-1pt5 | RN1, swisstony |
 | clf-avl-bmu-2026-08-07-bmu | , RN1, swisstony |
 | wnba-atl-wsh-2026-08-07-total-169pt5 | , swisstony |
 | chi-bgu-xin-2026-08-07-total-3pt5 | RN1, swisstony |
@@ -91,6 +92,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 71% | 2.08 | ⏳ pendiente | — |
+| RN1 | Spread: Texas Rangers (-1.5) | Baltimore Orioles (BUY) | 91% | 15.56 | ⏳ pendiente | — |
 | RN1 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 41% | 2.31 | ⏳ pendiente | — |
 | RN1 | Spread: CS Independiente Rivadavia (-1.5 | CS Independiente Rivadavia (BUY) | 90% | 1.86 | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 35% | 3.11 | ⏳ pendiente | — |
@@ -119,5 +122,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 76% | 2.71 | ⏳ pendiente | — |
 | RN1 | Spread: Los Angeles Angels (-1.5) | Los Angeles Angels (BUY) | 79% | 0.82 | ⏳ pendiente | — |
 | swisstony | Will CS Independiente Rivadavia win on 2 | No (BUY) | 55% | 1.08 | ⏳ pendiente | — |
-| swisstony | Tigres de la UANL vs. Minnesota United F | Over (BUY) | 47% | 1.25 | ⏳ pendiente | — |
-| RN1 | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 92% | 0.97 | ⏳ pendiente | — |

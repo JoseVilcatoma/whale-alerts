@@ -22233,5 +22233,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786156061.0985706,
     "fills": 1
+  },
+  {
+    "timestamp": 1786156198,
+    "timestamp_added": 1786156199.1337366,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-bal-tex-2026-08-07-spread-home-1pt5",
+    "title": "Spread: Texas Rangers (-1.5)",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 5567.38,
+    "whale_pct": 1.999,
+    "paper_stake_usd": 15.56,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786156201.0839655,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786156236,
+    "timestamp_added": 1786156237.094194,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-det-sf-2026-08-07-total-7pt5",
+    "title": "Detroit Tigers vs. San Francisco Giants: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 731.3,
+    "whale_pct": 0.268,
+    "paper_stake_usd": 2.08,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786156237.0942068,
+    "fills": 1
   }
 ]
