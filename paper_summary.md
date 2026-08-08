@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 05:09:55 (hora de Perú)
+Actualizado: 2026-08-08 05:11:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.76
@@ -22,11 +22,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 0 | 0 | 20 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | ThornyDevil | 0 | 0 | 3 | +0.00 USD |
-| wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
+| wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 12 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 57 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 62 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -64,6 +64,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 1.5 | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 72% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 70% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 74% | 3.65 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will FC Tōkyō vs. FC Machida Zelvia end  | No (BUY) | 68% | 2.48 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 76% | 10.80 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 23% | 1.74 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 24% | 1.54 | ⏳ pendiente | — |
@@ -88,9 +94,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend (BO3) | LGD Gaming (BUY) | 38% | 1.21 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | LGD Gaming (BUY) | 72% | 1.75 | ⏳ pendiente | — |
 | ferrariChampions2026 | Gimcheon Sangmu FC vs. FC Seoul: O/U 2.5 | Under (BUY) | 48% | 2.12 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Athletics vs. Boston Red Sox: O/U 8.5 | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 40% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports - Game 2  | Hanwha Life Esports (BUY) | 63% | 0.00 | ⏳ pendiente | — |
