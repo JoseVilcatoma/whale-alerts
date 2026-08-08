@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 17:05:49 (hora de Perú)
+Actualizado: 2026-08-08 17:08:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $471.15
@@ -13,24 +13,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 36 | 13 | 20 | +57.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 36 | 14 | 19 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
-| quavoo | 5 | 4 | 71 | +8.84 USD |
+| quavoo | 5 | 4 | 73 | +8.84 USD |
 | HomeRunHazard | 9 | 13 | 66 | +0.58 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 14 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
-| BrotherObama | 0 | 0 | 1 | +0.00 USD |
+| BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 12 | 14 | -11.76 USD |
 | 1winstreak1 | 5 | 7 | 42 | -12.25 USD |
-| ThornyDevil | 3 | 4 | 2 | -16.40 USD |
+| ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 8 | 9 | 16 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 170 | 139 | 66 | -75.22 USD |
+| ferrariChampions2026 | 170 | 142 | 63 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 6 | -303.20 USD |
 
@@ -126,6 +126,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 20% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 61% | 0.00 | ⏳ pendiente | — |
@@ -154,5 +156,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CA River Plate win on 2026-08-08? | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
 | StasPanda | Map Handicap: HERO (-1.5) vs ASTRAL (+1. | Heroic (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| quavoo | Las Vegas Aces vs. New York Liberty | New York Liberty (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| quavoo | Las Vegas Aces vs. New York Liberty | New York Liberty (BUY) | 57% | 0.00 | ⏳ pendiente | — |

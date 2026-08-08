@@ -3040,6 +3040,41 @@
       "timestamp": 1786226556.1867864,
       "bankroll": 471.15,
       "event": "won: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 6.5"
+    },
+    {
+      "timestamp": 1786226846.476376,
+      "bankroll": 471.15,
+      "event": "won: BrotherObama \u2014 LoL: Movistar KOI vs GIANTX (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1786226846.7577178,
+      "bankroll": 471.15,
+      "event": "lost: ThornyDevil \u2014 Game Handicap: MKOI (-1.5) vs GIANTX (+1.5)"
+    },
+    {
+      "timestamp": 1786226846.8578215,
+      "bankroll": 471.15,
+      "event": "lost: ThornyDevil \u2014 Game Handicap: MKOI (-1.5) vs GIANTX (+1.5)"
+    },
+    {
+      "timestamp": 1786226847.405288,
+      "bankroll": 471.15,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Movistar KOI vs GIANTX (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1786226847.5055091,
+      "bankroll": 471.15,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Movistar KOI vs GIANTX (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1786226847.6057465,
+      "bankroll": 471.15,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Movistar KOI vs GIANTX (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1786226848.0545025,
+      "bankroll": 471.15,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Movistar KOI vs GIANTX (BO3) - LEC Regular Season"
     }
   ]
 }
