@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.55187395136863,
+  "bankroll": 525.8979850624797,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -3560,6 +3560,121 @@
       "timestamp": 1786230459.02465,
       "bankroll": 500.55,
       "event": "won: 1winstreak1 \u2014 Spread: Miami Marlins (-2.5)"
+    },
+    {
+      "timestamp": 1786230570.840532,
+      "bankroll": 512.25,
+      "event": "won: quavoo \u2014 Los Angeles Angels vs. Miami Marlins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786230575.5867748,
+      "bankroll": 512.25,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Angels vs. Miami Marlins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786230576.9902723,
+      "bankroll": 510.61,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Angels vs. Miami Marlins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786230579.3270557,
+      "bankroll": 510.61,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Angels vs. Miami Marlins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786230579.527481,
+      "bankroll": 510.61,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Angels vs. Miami Marlins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786230580.1551864,
+      "bankroll": 512.36,
+      "event": "won: quavoo \u2014 Los Angeles Angels vs. Miami Marlins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786230580.355624,
+      "bankroll": 519.39,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Angels vs. Miami Marlins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786230581.6519952,
+      "bankroll": 524.64,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Angels vs. Miami Marlins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786230581.9525383,
+      "bankroll": 524.64,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Angels vs. Miami Marlins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786230582.0527577,
+      "bankroll": 524.64,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Angels vs. Miami Marlins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786230586.9775555,
+      "bankroll": 524.64,
+      "event": "won: 1winstreak1 \u2014 Spread: Miami Marlins (-1.5)"
+    },
+    {
+      "timestamp": 1786230587.2215614,
+      "bankroll": 524.64,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786230591.069928,
+      "bankroll": 524.64,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786230591.7711585,
+      "bankroll": 524.64,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786230592.2719991,
+      "bankroll": 524.64,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786230592.3721972,
+      "bankroll": 524.64,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786230592.4723856,
+      "bankroll": 524.64,
+      "event": "lost: ferrariChampions2026 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786230592.5725977,
+      "bankroll": 524.64,
+      "event": "lost: ferrariChampions2026 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786230593.4718783,
+      "bankroll": 524.64,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786230593.5720732,
+      "bankroll": 524.64,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786230596.3419054,
+      "bankroll": 524.64,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786230597.1433783,
+      "bankroll": 524.64,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786230605.969581,
+      "bankroll": 525.9,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 7.5"
     }
   ]
 }

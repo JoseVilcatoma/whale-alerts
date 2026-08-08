@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 18:07:59 (hora de Perú)
+Actualizado: 2026-08-08 18:10:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $500.55
-**Retorno acumulado:** -49.94%
+**Bankroll actual:** $525.90
+**Retorno acumulado:** -47.41%
 **Peor caída desde un máximo (drawdown):** 53.09%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,23 +14,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 40 | 14 | 17 | +57.73 USD |
-| HomeRunHazard | 20 | 17 | 51 | +25.50 USD |
+| HomeRunHazard | 26 | 19 | 43 | +36.13 USD |
+| quavoo | 7 | 5 | 78 | +22.29 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| quavoo | 5 | 5 | 79 | +8.84 USD |
-| UpTheBlues | 39 | 28 | 12 | +7.78 USD |
+| UpTheBlues | 39 | 28 | 14 | +7.78 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | wr0ngw4yb3tt0r | 16 | 14 | 11 | -10.57 USD |
-| 1winstreak1 | 13 | 14 | 32 | -12.25 USD |
+| 1winstreak1 | 15 | 23 | 21 | -10.99 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 14 | 12 | 15 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 191 | 162 | 42 | -70.69 USD |
+| ferrariChampions2026 | 191 | 164 | 40 | -70.69 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 7 | -303.20 USD |
 
@@ -118,7 +118,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | arg-tig-riv-2026-08-08-riv | RN1, ferrariChampions2026 |
 | cs2-jjh-dendel-2026-08-09 | StasPanda, quavoo |
 | arg-boc-vel-2026-08-08-boc | ferrariChampions2026, quavoo |
-| bra-cre-cam-2026-08-08-cam | RN1, ferrariChampions2026 |
+| bra-cre-cam-2026-08-08-cam | RN1, UpTheBlues, ferrariChampions2026 |
 | lol-c9-dsg-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | mlb-laa-mia-2026-08-08-total-9pt5 | 1winstreak1, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-tig | RN1, ferrariChampions2026 |
@@ -130,11 +130,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | per1-ajp-cag-2026-08-08-ajp | RN1, UpTheBlues |
 | arg-boc-vel-2026-08-08-total-2pt5 | UpTheBlues, ferrariChampions2026 |
 | arg-boc-vel-2026-08-08-vel | RN1, UpTheBlues, ferrariChampions2026 |
+| bra-cre-cam-2026-08-08-cre | RN1, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Clube do Remo win on 2026-08-08? | Yes (BUY) | 9% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Mineiro win on 2026-08-08? | No (BUY) | 82% | 0.00 | ⏳ pendiente | — |
+| quavoo | Spread: Colorado Rockies (-2.5) | St. Louis Cardinals (BUY) | 79% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Orlando City SC vs. Club León FC: 1st Ha | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Clube do Remo vs. CA Mineiro: O/U 5.5 | Under (BUY) | 91% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Fluminense FC win on 2026-08-08? | No (BUY) | 71% | 0.00 | ⏳ pendiente | — |
@@ -144,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Botafogo FR win on 2026-08-08? | Yes (BUY) | 41% | 12.72 | ⏳ pendiente | — |
 | RN1 | Athletics vs. Boston Red Sox: O/U 9.5 | Over (BUY) | 34% | 0.74 | ⏳ pendiente | — |
 | Talvez10 | Jordan Walker: Home Runs O/U 0.5 | Under (BUY) | 82% | 11.21 | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 45% | 1.03 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 45% | 1.03 | ✅ ganada | +1.26 |
 | ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 0.87 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Boca Juniors win on 2026-08-08? | Yes (BUY) | 62% | 0.61 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 3.14 | ⏳ pendiente | — |
@@ -162,6 +166,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 86% | 1.50 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 76% | 15.04 | ✅ ganada | +4.75 |
 | RN1 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 87% | 0.86 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 87% | 0.72 | ⏳ pendiente | — |
-| quavoo | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 64% | 0.70 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 0.81 | ✅ ganada | +0.27 |

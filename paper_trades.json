@@ -2985,8 +2985,8 @@
     "whale_pct": 1.569,
     "paper_stake_usd": 14.89,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 11.7,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786167054.053651,
@@ -5047,8 +5047,8 @@
     "whale_pct": 1.41,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "quavoo"
     ],
@@ -11570,8 +11570,8 @@
     "whale_pct": 0.186,
     "paper_stake_usd": 1.64,
     "odds_at_bet": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.64,
     "overlaps_with": [
       "quavoo"
     ],
@@ -12048,7 +12048,7 @@
     "whale_pct": 2.169,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "quavoo"
@@ -12112,7 +12112,7 @@
     "whale_pct": 2.132,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "quavoo"
@@ -12194,8 +12194,8 @@
     "whale_pct": 0.792,
     "paper_stake_usd": 2.63,
     "odds_at_bet": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.75,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -12236,8 +12236,8 @@
     "whale_pct": 2.065,
     "paper_stake_usd": 11.97,
     "odds_at_bet": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.03,
     "overlaps_with": [
       "quavoo"
     ],
@@ -12606,8 +12606,8 @@
     "whale_pct": 1.444,
     "paper_stake_usd": 8.93,
     "odds_at_bet": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.24,
     "overlaps_with": [
       "quavoo"
     ],
@@ -12708,7 +12708,7 @@
     "whale_pct": 1.331,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "quavoo"
@@ -12770,7 +12770,7 @@
     "whale_pct": 1.368,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "quavoo"
@@ -15560,7 +15560,7 @@
     "whale_pct": 0.576,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 40,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -15580,8 +15580,8 @@
     "whale_pct": 2.713,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 34,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786221186.419343,
@@ -16474,8 +16474,8 @@
     "whale_pct": 1.365,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 20,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "HomeRunHazard",
       "quavoo"
@@ -16705,8 +16705,8 @@
     "whale_pct": 0.116,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 24,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "HomeRunHazard",
       "quavoo"
@@ -16860,8 +16860,8 @@
     "whale_pct": 0.154,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786222854.7862809,
@@ -16880,8 +16880,8 @@
     "whale_pct": 1.223,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "HomeRunHazard",
       "quavoo"
@@ -16969,8 +16969,8 @@
     "whale_pct": 0.931,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -16991,8 +16991,8 @@
     "whale_pct": 1.657,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -17200,8 +17200,8 @@
     "whale_pct": 0.954,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "HomeRunHazard",
       "quavoo"
@@ -17223,8 +17223,8 @@
     "whale_pct": 0.129,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -18638,8 +18638,8 @@
     "whale_pct": 0.422,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 33,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "HomeRunHazard",
       "quavoo"
@@ -18903,8 +18903,8 @@
     "whale_pct": 0.163,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -21029,8 +21029,8 @@
     "whale_pct": 0.207,
     "paper_stake_usd": 1.03,
     "odds_at_bet": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.26,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -21225,5 +21225,70 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786230428.9513066,
     "fills": 1
+  },
+  {
+    "timestamp": 1786230508,
+    "timestamp_added": 1786230508.883253,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-col-stl-2026-08-08-spread-away-2pt5",
+    "title": "Spread: Colorado Rockies (-2.5)",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "whale_usd": 542.51,
+    "whale_pct": 0.368,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786230508.883265,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786230553,
+    "timestamp_added": 1786230554.017904,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "bra-cre-cam-2026-08-08-cam",
+    "title": "Will CA Mineiro win on 2026-08-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 239.8333,
+    "whale_pct": 0.3,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786230556.219738,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786230556,
+    "timestamp_added": 1786230556.4577966,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "bra-cre-cam-2026-08-08-cre",
+    "title": "Will Clube do Remo win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 2159.9921999999997,
+    "whale_pct": 2.732,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 9,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786230560.8246412,
+    "fills": 6
   }
 ]
