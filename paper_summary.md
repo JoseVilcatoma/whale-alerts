@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 04:10:58 (hora de Perú)
+Actualizado: 2026-08-08 04:13:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $922.00
@@ -20,13 +20,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 0 | 0 | 24 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 20 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 9 | +0.00 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 10 | +0.00 USD |
 | ThornyDevil | 0 | 0 | 2 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 25 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | UpTheBlues | 14 | 18 | 14 | -16.52 USD |
-| ferrariChampions2026 | 31 | 20 | 18 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 20 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -57,13 +57,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cs2-eye-pha-2026-08-08 | TAIWANNUMBERONE, fRibrenlc |
 | lol-t1-hle1-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | lol-wb-lng-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
-| lol-t1-hle1-2026-08-08-game2 | ThornyDevil, ferrariChampions2026 |
+| lol-t1-hle1-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 70% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports - Game 2  | Hanwha Life Esports (BUY) | 64% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 35% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 48% | 0.00 | ⏳ pendiente | — |
@@ -90,6 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 27% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Boston Red Sox: O/U 8.5 | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: AL (-1.5) vs LGD Gaming ( | LGD Gaming (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: AL (-1.5) vs LGD Gaming ( | LGD Gaming (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Indiana Fever vs. Chicago Sky | Chicago Sky (BUY) | 32% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Indiana Fever (-5.5) | Chicago Sky (BUY) | 47% | 0.00 | ⏳ pendiente | — |
