@@ -1504,5 +1504,71 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786161064.3210826,
     "fills": 1
+  },
+  {
+    "timestamp": 1786161099,
+    "timestamp_added": 1786161100.496498,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tor-phi-2026-08-07-total-8pt5",
+    "title": "Toronto Blue Jays vs. Philadelphia Phillies: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2459.3229499999998,
+    "whale_pct": 0.663,
+    "paper_stake_usd": 6.6,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x4f2"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786161103.0969276,
+    "fills": 4
+  },
+  {
+    "timestamp": 1786161187,
+    "timestamp_added": 1786161187.517918,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-vwh-jua-2026-08-07-jua",
+    "title": "Will FC Ju\u00e1rez win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1887.9226800000001,
+    "whale_pct": 0.504,
+    "paper_stake_usd": 5.01,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786161187.5179267,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786161190,
+    "timestamp_added": 1786161190.464104,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-det-sf-2026-08-07-total-9pt5",
+    "title": "Detroit Tigers vs. San Francisco Giants: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 175.206428,
+    "whale_pct": 0.127,
+    "paper_stake_usd": 1.26,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786161190.464114,
+    "fills": 1
   }
 ]
