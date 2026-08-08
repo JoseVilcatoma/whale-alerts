@@ -9328,5 +9328,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786186886.6630838,
     "fills": 1
+  },
+  {
+    "timestamp": 1786186955,
+    "timestamp_added": 1786186956.1057572,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "jap-fct-zel-2026-08-08-total-4pt5",
+    "title": "FC T\u014dky\u014d vs. FC Machida Zelvia: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 387.59999999999997,
+    "whale_pct": 0.167,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786186956.1057642,
+    "fills": 1
   }
 ]
