@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 14:40:42 (hora de Perú)
+Actualizado: 2026-08-08 14:42:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $488.10
-**Retorno acumulado:** -51.19%
-**Peor caída desde un máximo (drawdown):** 51.19%
+**Bankroll actual:** $468.39
+**Retorno acumulado:** -53.16%
+**Peor caída desde un máximo (drawdown):** 53.16%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -17,20 +17,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 5 | 2 | 23 | +12.05 USD |
-| UpTheBlues | 38 | 26 | 20 | +5.74 USD |
+| UpTheBlues | 38 | 26 | 22 | +5.74 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 5 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 5 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 0 | 0 | 3 | +0.00 USD |
-| wr0ngw4yb3tt0r | 1 | 1 | 38 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 67 | -3.99 USD |
+| HomeRunHazard | 5 | 6 | 66 | -3.99 USD |
+| wr0ngw4yb3tt0r | 10 | 5 | 25 | -9.04 USD |
+| 1winstreak1 | 0 | 1 | 2 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 5 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 149 | 129 | 51 | -76.06 USD |
+| ferrariChampions2026 | 151 | 134 | 44 | -76.06 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 2 | -303.20 USD |
 
@@ -108,6 +108,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Spread: Agropecuario Argentino (-1.5) | Agropecuario Argentino (BUY) | 99% | 0.54 | ⏳ pendiente | — |
+| UpTheBlues | Agropecuario Argentino vs. CA Guemes: O/ | Under (BUY) | 96% | 1.27 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Sarmiento win on 2026-08-08? | Yes (BUY) | 67% | 2.61 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 21% | 0.00 | 💰 vendida anticipada | +0.00 |
 | UpTheBlues | PSV vs. Fortuna Sittard: O/U 1.5 | Over (BUY) | 98% | 0.00 | ⏳ pendiente | — |
@@ -136,5 +138,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will São Paulo FC win on 2026-08-08? | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will São Paulo FC win on 2026-08-08? | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CD Riestra win on 2026-08-08? | Yes (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Estudiantes de La Plata win on 2026 | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 56% | 0.00 | 💰 vendida anticipada | -0.00 |

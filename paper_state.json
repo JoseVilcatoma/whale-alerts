@@ -1,5 +1,5 @@
 {
-  "bankroll": 488.099929742297,
+  "bankroll": 468.39307654810233,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2620,6 +2620,116 @@
       "timestamp": 1786217157.991048,
       "bankroll": 488.1,
       "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: SK Gaming vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786218091.3102589,
+      "bankroll": 488.1,
+      "event": "lost: ferrariChampions2026 \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 183.5"
+    },
+    {
+      "timestamp": 1786218094.3385398,
+      "bankroll": 489.13,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 183.5"
+    },
+    {
+      "timestamp": 1786218144.3700888,
+      "bankroll": 489.13,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218144.470282,
+      "bankroll": 489.63,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218144.6706243,
+      "bankroll": 487.04,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218144.770811,
+      "bankroll": 482.74,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218144.8710067,
+      "bankroll": 481.64,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218144.9712076,
+      "bankroll": 478.46,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218145.0714138,
+      "bankroll": 479.39,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218145.4720216,
+      "bankroll": 479.39,
+      "event": "lost: ferrariChampions2026 \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218146.1194801,
+      "bankroll": 479.39,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218146.3198562,
+      "bankroll": 479.39,
+      "event": "lost: ferrariChampions2026 \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218146.4200413,
+      "bankroll": 479.39,
+      "event": "won: HomeRunHazard \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218148.2170572,
+      "bankroll": 479.39,
+      "event": "lost: ferrariChampions2026 \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218148.7180004,
+      "bankroll": 479.39,
+      "event": "won: ferrariChampions2026 \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218149.7197468,
+      "bankroll": 479.39,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218150.3452103,
+      "bankroll": 479.39,
+      "event": "lost: ferrariChampions2026 \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218150.745901,
+      "bankroll": 479.39,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218150.8460655,
+      "bankroll": 479.39,
+      "event": "won: ferrariChampions2026 \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218150.9462285,
+      "bankroll": 479.99,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218151.1465867,
+      "bankroll": 480.64,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218151.3469226,
+      "bankroll": 468.39,
+      "event": "lost: 1winstreak1 \u2014 Las Vegas Aces vs. Minnesota Lynx"
     }
   ]
 }
