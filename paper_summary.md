@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 14:09:33 (hora de Perú)
+Actualizado: 2026-08-08 14:11:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $619.51
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 4 | 2 | 24 | +10.43 USD |
 | Spicer | 5 | 0 | 5 | +6.62 USD |
-| UpTheBlues | 38 | 26 | 15 | +5.74 USD |
+| UpTheBlues | 38 | 26 | 16 | +5.74 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 5 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -106,6 +106,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will AD Tarma win on 2026-08-08? | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will VfL Wolfsburg win on 2026-08-08? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | AZ vs. ADO Den Haag: Both Teams to Score | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | PSV vs. Fortuna Sittard: O/U 3.5 | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
@@ -135,4 +136,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | CD Riestra vs. Estudiantes de La Plata:  | Under (BUY) | 99% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 35% | 0.00 | 💰 vendida anticipada | +0.00 |
-| UpTheBlues | Spread: FC Arouca (-1.5) | Vitória SC (BUY) | 100% | 0.00 | ⏳ pendiente | — |
