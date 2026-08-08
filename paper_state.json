@@ -1,5 +1,5 @@
 {
-  "bankroll": 656.2068502483258,
+  "bankroll": 528.2968502483258,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -1600,6 +1600,66 @@
       "timestamp": 1786194381.8933625,
       "bankroll": 656.21,
       "event": "won: ferrariChampions2026 \u2014 LoL: LGD Gaming vs Anyone's Legend - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786194498.6047997,
+      "bankroll": 647.0,
+      "event": "lost: fRibrenlc \u2014 Counter-Strike: Liquid vs Metizport (BO3) - Esports World Cup Open Qualifier Group 12"
+    },
+    {
+      "timestamp": 1786194499.6438434,
+      "bankroll": 638.59,
+      "event": "lost: fRibrenlc \u2014 Counter-Strike: Liquid vs Metizport (BO3) - Esports World Cup Open Qualifier Group 12"
+    },
+    {
+      "timestamp": 1786194500.0419579,
+      "bankroll": 623.87,
+      "event": "lost: fRibrenlc \u2014 Counter-Strike: Liquid vs Metizport (BO3) - Esports World Cup Open Qualifier Group 12"
+    },
+    {
+      "timestamp": 1786194500.6277342,
+      "bankroll": 562.62,
+      "event": "lost: fRibrenlc \u2014 Counter-Strike: Liquid vs Metizport (BO3) - Esports World Cup Open Qualifier Group 12"
+    },
+    {
+      "timestamp": 1786194501.357921,
+      "bankroll": 558.61,
+      "event": "lost: fRibrenlc \u2014 Counter-Strike: Liquid vs Metizport (BO3) - Esports World Cup Open Qualifier Group 12"
+    },
+    {
+      "timestamp": 1786194502.541917,
+      "bankroll": 557.23,
+      "event": "lost: fRibrenlc \u2014 Counter-Strike: Liquid vs Metizport (BO3) - Esports World Cup Open Qualifier Group 12"
+    },
+    {
+      "timestamp": 1786194502.642071,
+      "bankroll": 555.85,
+      "event": "lost: fRibrenlc \u2014 Counter-Strike: Liquid vs Metizport (BO3) - Esports World Cup Open Qualifier Group 12"
+    },
+    {
+      "timestamp": 1786194503.0298102,
+      "bankroll": 542.46,
+      "event": "lost: fRibrenlc \u2014 Counter-Strike: Liquid vs Metizport (BO3) - Esports World Cup Open Qualifier Group 12"
+    },
+    {
+      "timestamp": 1786194503.4208379,
+      "bankroll": 535.88,
+      "event": "lost: fRibrenlc \u2014 Counter-Strike: Liquid vs Metizport (BO3) - Esports World Cup Open Qualifier Group 12"
+    },
+    {
+      "timestamp": 1786194503.7715948,
+      "bankroll": 534.56,
+      "event": "lost: fRibrenlc \u2014 Counter-Strike: Liquid vs Metizport (BO3) - Esports World Cup Open Qualifier Group 12"
+    },
+    {
+      "timestamp": 1786194504.4517348,
+      "bankroll": 532.66,
+      "event": "lost: fRibrenlc \u2014 Counter-Strike: Liquid vs Metizport (BO3) - Esports World Cup Open Qualifier Group 12"
+    },
+    {
+      "timestamp": 1786194505.5394917,
+      "bankroll": 528.3,
+      "event": "lost: fRibrenlc \u2014 Counter-Strike: Liquid vs Metizport (BO3) - Esports World Cup Open Qualifier Group 12"
     }
   ]
 }
