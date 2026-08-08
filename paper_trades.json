@@ -3611,5 +3611,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786168534.2969139,
     "fills": 1
+  },
+  {
+    "timestamp": 1786168640,
+    "timestamp_added": 1786168640.4291873,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "cs2-9ine-abt-2026-08-08-game1",
+    "title": "Counter-Strike: 9INE vs ABT Esports - Map 1 Winner",
+    "outcome": "9INE",
+    "side": "BUY",
+    "whale_usd": 103.44,
+    "whale_pct": 0.131,
+    "paper_stake_usd": 1.24,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786168640.4291964,
+    "fills": 1
   }
 ]
