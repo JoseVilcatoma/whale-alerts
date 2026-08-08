@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 22:20:36 (hora de Perú)
+Actualizado: 2026-08-07 22:22:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $998.40
@@ -16,21 +16,31 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 0 | 0 | 25 | +0.00 USD |
 | greyoctober | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
-| RN1 | 0 | 0 | 1 | +0.00 USD |
-| 0x4f2 | 1 | 4 | 6 | -1.61 USD |
+| RN1 | 0 | 0 | 3 | +0.00 USD |
+| 0x4f2 | 1 | 4 | 12 | -1.61 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
 | Mercado | Vigilados que coincidieron |
 |---|---|
+| mlb-det-sf-2026-08-07-spread-home-1pt5 | 0x4f2, RN1, ferrariChampions2026 |
 | mlb-tor-phi-2026-08-07-total-7pt5 | 0x4f2, ferrariChampions2026 |
 | mlb-lad-ari-2026-08-07-total-6pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tor-phi-2026-08-07-spread-away-1pt5 | 0x4f2, ferrariChampions2026 |
+| mlb-det-sf-2026-08-07-total-9pt5 | 0x4f2, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0x4f2 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 66% | 2.06 | ⏳ pendiente | — |
+| 0x4f2 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 92% | 1.93 | ⏳ pendiente | — |
+| RN1 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 72% | 3.02 | ⏳ pendiente | — |
+| 0x4f2 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 89% | 1.86 | ⏳ pendiente | — |
+| RN1 | Spread: San Francisco Giants (-1.5) | Detroit Tigers (BUY) | 68% | 2.48 | ⏳ pendiente | — |
+| 0x4f2 | Spread: San Francisco Giants (-1.5) | San Francisco Giants (BUY) | 32% | 2.08 | ⏳ pendiente | — |
+| 0x4f2 | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 28% | 2.09 | ⏳ pendiente | — |
+| 0x4f2 | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 16% | 1.34 | ⏳ pendiente | — |
 | RN1 | Spread: Arizona Diamondbacks (-2.5) | Los Angeles Dodgers (BUY) | 85% | 1.28 | ⏳ pendiente | — |
 | 0x4f2 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 58% | 2.19 | 💰 vendida anticipada | -0.91 |
 | 0x4f2 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 43% | 2.24 | 💰 vendida anticipada | +0.10 |
@@ -53,11 +63,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 63% | 4.99 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 33% | 6.37 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 50% | 11.13 | ⏳ pendiente | — |
-| ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 52% | 11.26 | ⏳ pendiente | — |
-| ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 60% | 13.02 | ⏳ pendiente | — |
-| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 77% | 1.20 | ⏳ pendiente | — |
-| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 79% | 1.29 | ⏳ pendiente | — |
-| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 94% | 1.54 | ⏳ pendiente | — |
-| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 79% | 1.25 | ⏳ pendiente | — |
-| greyoctober | Valorant: DRX vs T1 (BO3) - VCT Pacific  | T1 (BUY) | 63% | 2.61 | ⏳ pendiente | — |
-| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 81% | 1.05 | ⏳ pendiente | — |
