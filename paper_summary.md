@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 00:40:00 (hora de Perú)
+Actualizado: 2026-08-08 00:42:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $949.21
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 0 | 0 | 34 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | TAIWANNUMBERONE | 0 | 0 | 4 | +0.00 USD |
-| quavoo | 0 | 0 | 8 | +0.00 USD |
+| quavoo | 0 | 0 | 9 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 4 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
@@ -53,6 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 60% | 3.47 | ⏳ pendiente | — |
 | quavoo | Stade Rennais FC vs. Brentford FC: O/U 3 | Over (BUY) | 38% | 0.99 | ⏳ pendiente | — |
 | quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 60% | 1.94 | ⏳ pendiente | — |
 | quavoo | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 40% | 0.99 | ⏳ pendiente | — |
@@ -82,4 +83,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 41% | 6.99 | ❌ perdida | -6.99 |
 | UpTheBlues | Spread: FC Juárez (-1.5) | Vancouver Whitecaps FC (BUY) | 93% | 2.38 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Juárez win on 2026-08-07? | Yes (BUY) | 52% | 3.26 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 75% | 2.49 | ❌ perdida | -2.49 |
