@@ -2825,6 +2825,21 @@
       "timestamp": 1786219042.1349995,
       "bankroll": 473.03,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 184.5"
+    },
+    {
+      "timestamp": 1786219279.7896225,
+      "bankroll": 473.03,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 182.5"
+    },
+    {
+      "timestamp": 1786219280.691097,
+      "bankroll": 473.03,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 182.5"
+    },
+    {
+      "timestamp": 1786219281.2336159,
+      "bankroll": 473.03,
+      "event": "lost: 1winstreak1 \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 182.5"
     }
   ]
 }
