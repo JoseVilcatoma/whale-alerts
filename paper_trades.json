@@ -15195,5 +15195,50 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786215336.7443297,
     "fills": 1
+  },
+  {
+    "timestamp": 1786215428,
+    "timestamp_added": 1786215428.4423063,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-mkoi-gx-2026-08-08-game2",
+    "title": "LoL: Movistar KOI vs GIANTX - Game 2 Winner",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "whale_usd": 430.6855,
+    "whale_pct": 0.542,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ThornyDevil"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786215428.442315,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786215449,
+    "timestamp_added": 1786215449.75587,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-mkoi-gx-2026-08-08",
+    "title": "LoL: Movistar KOI vs GIANTX (BO3) - LEC Regular Season",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "whale_usd": 536.9399999999999,
+    "whale_pct": 0.124,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "BrotherObama"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786215449.7558782,
+    "fills": 1
   }
 ]
