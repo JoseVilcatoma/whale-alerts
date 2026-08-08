@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 01:44:51 (hora de Perú)
+Actualizado: 2026-08-08 01:46:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $956.49
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | TAIWANNUMBERONE | 0 | 0 | 29 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
-| fRibrenlc | 0 | 0 | 13 | +0.00 USD |
+| fRibrenlc | 0 | 0 | 14 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 18 | -3.99 USD |
@@ -55,6 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| fRibrenlc | Counter-Strike: EYEBALLERS vs Phantom (B | EYEBALLERS (BUY) | 54% | 4.56 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 1.73 | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 192.5 | Under (BUY) | 55% | 3.41 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 1.02 | ⏳ pendiente | — |
@@ -84,4 +85,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 1.38 | ⏳ pendiente | — |
 | UpTheBlues | FK Lokomotiv Moskva vs. FK Akron Tolyatt | Under (BUY) | 23% | 0.98 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 19.20 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports - Game  | LNG Esports (BUY) | 35% | 1.27 | ⏳ pendiente | — |
