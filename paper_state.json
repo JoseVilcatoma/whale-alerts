@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.71846049040045,
+  "bankroll": 469.84322239516234,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -3990,6 +3990,11 @@
       "timestamp": 1786232898.196773,
       "bankroll": 469.72,
       "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Bruno Lopes vs. Diyar Nurgozhay (Light Heavyweight, Main Card)"
+    },
+    {
+      "timestamp": 1786233269.708034,
+      "bankroll": 469.84,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Sentinels vs Shopify Rebellion - Game 2 Winner (+0.12 USD)"
     }
   ]
 }

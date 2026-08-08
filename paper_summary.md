@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 18:53:46 (hora de Perú)
+Actualizado: 2026-08-08 18:55:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $469.72
-**Retorno acumulado:** -53.03%
+**Bankroll actual:** $469.84
+**Retorno acumulado:** -53.02%
 **Peor caída desde un máximo (drawdown):** 53.54%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,18 +14,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | quavoo | 7 | 5 | 79 | +22.29 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 40 | 29 | 3 | +17.31 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 41 | 29 | 2 | +17.43 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 29 | 24 | 35 | +16.40 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 28 | 24 | +7.78 USD |
+| UpTheBlues | 39 | 28 | 26 | +7.78 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 28 | 29 | 4 | -8.77 USD |
+| 1winstreak1 | 28 | 29 | 6 | -8.77 USD |
 | wr0ngw4yb3tt0r | 18 | 16 | 10 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 19 | 15 | 7 | -21.10 USD |
@@ -143,9 +143,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Orlando City SC vs. Club León FC: O/U 1. | Under (BUY) | 19% | 0.56 | ⏳ pendiente | — |
+| UpTheBlues | Coritiba FBC vs. Associação Chapecoense  | No (BUY) | 64% | 0.87 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Boca Juniors vs. CA Vélez Sarsfi | Yes (BUY) | 55% | 1.71 | ⏳ pendiente | — |
 | ferrariChampions2026 | Orlando City SC vs. Club León FC: O/U 1. | Over (BUY) | 87% | 0.56 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs Shopify Rebellion - Ga | Sentinels (BUY) | 63% | 1.31 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs Shopify Rebellion - Ga | Sentinels (BUY) | 63% | 1.31 | 💰 vendida anticipada | +0.12 |
 | UpTheBlues | CA Boca Juniors vs. CA Vélez Sarsfield:  | Under (BUY) | 60% | 4.22 | ⏳ pendiente | — |
 | UpTheBlues | Will Orlando City SC win on 2026-08-08? | No (BUY) | 32% | 1.40 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Associação Chapecoense de Futebo | Coritiba FBC (BUY) | 99% | 0.57 | ⏳ pendiente | — |
@@ -169,7 +173,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 86% | 0.82 | ⏳ pendiente | — |
 | Bulls94 | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 47% | 7.06 | ⏳ pendiente | — |
 | UpTheBlues | Will Clube do Remo win on 2026-08-08? | Yes (BUY) | 9% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Mineiro win on 2026-08-08? | No (BUY) | 82% | 0.00 | ⏳ pendiente | — |
-| quavoo | Spread: Colorado Rockies (-2.5) | St. Louis Cardinals (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Orlando City SC vs. Club León FC: 1st Ha | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Clube do Remo vs. CA Mineiro: O/U 5.5 | Under (BUY) | 91% | 0.00 | ⏳ pendiente | — |
