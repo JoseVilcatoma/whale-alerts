@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 09:08:12 (hora de Perú)
+Actualizado: 2026-08-08 09:10:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $526.24
@@ -26,12 +26,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Spicer | 0 | 0 | 5 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 45 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 46 | -3.99 USD |
 | RN1 | 2 | 2 | 20 | -5.13 USD |
 | UpTheBlues | 28 | 21 | 16 | -5.52 USD |
-| ferrariChampions2026 | 124 | 107 | 59 | -62.41 USD |
+| ferrariChampions2026 | 124 | 107 | 63 | -62.41 USD |
 | fRibrenlc | 0 | 12 | 8 | -127.91 USD |
-| TAIWANNUMBERONE | 1 | 31 | 6 | -303.20 USD |
+| TAIWANNUMBERONE | 1 | 36 | 1 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -87,6 +87,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | West Ham United FC vs. Portsmouth FC: O/ | Over (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Portsmouth FC win on 2026-08-08? | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | FC Augsburg vs. Sassuolo Calcio: O/U 4.5 | Over (BUY) | 58% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Stoke City FC win on 2026-08-08? | Yes (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: SK Gaming vs Natus Vincere (BO3) -  | SK Gaming (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Augsburg win on 2026-08-08? | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Swansea City AFC vs. Birmingham City FC: | Over (BUY) | 73% | 0.00 | ⏳ pendiente | — |
@@ -112,8 +117,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Bayer Leverkusen vs. Sevilla FC: O/U 3.5 | Under (BUY) | 62% | 0.57 | ⏳ pendiente | — |
 | RN1 | Dalian Yingbo FC vs. Liaoning Tieren FC: | Under (BUY) | 76% | 0.55 | ⏳ pendiente | — |
 | quavoo | Spread: Real Sociedad San Sebastian (-1. | 1. FC Cologne (BUY) | 86% | 0.87 | ⏳ pendiente | — |
-| RN1 | Will Chengdu Rongcheng FC win on 2026-08 | No (BUY) | 86% | 0.69 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Chengdu Rongcheng FC win on 2026-08 | No (BUY) | 86% | 3.13 | ⏳ pendiente | — |
-| RN1 | Will CA Gimnasia y Esgrima de Mendoza wi | No (BUY) | 85% | 8.00 | ⏳ pendiente | — |
-| quavoo | Will Manchester United win on 2026-08-08 | Yes (BUY) | 46% | 0.68 | ⏳ pendiente | — |
-| RN1 | Dalian Yingbo FC vs. Liaoning Tieren FC: | Under (BUY) | 96% | 0.73 | ⏳ pendiente | — |
