@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 20:49:42 (hora de Perú)
+Actualizado: 2026-08-07 20:51:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $779.50
@@ -20,10 +20,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 4 | +1.51 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 8 | 0 | -12.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 54 | 27 | 16 | -90.01 USD |
+| RN1 | 54 | 27 | 17 | -90.01 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
-| swisstony | 337 | 203 | 161 | -113.81 USD |
+| swisstony | 337 | 203 | 162 | -113.81 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
 | texaskid | 1 | 2 | 0 | -1,530.59 USD |
@@ -87,6 +87,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: AA Estudiantes (-1.5) | CS Independiente Rivadavia (BUY) | 98% | 2.14 | ⏳ pendiente | — |
+| RN1 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 46% | 1.18 | ⏳ pendiente | — |
 | swisstony | CD Santa Cruz vs. Puerto Montt: O/U 5.5 | Under (BUY) | 100% | 1.62 | ⏳ pendiente | — |
 | swisstony | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 66% | 0.78 | ⏳ pendiente | — |
 | swisstony | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 74% | 1.75 | ⏳ pendiente | — |
@@ -115,5 +117,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will CS Independiente Rivadavia vs. AA E | Yes (BUY) | 34% | 1.12 | ⏳ pendiente | — |
 | swisstony | Will CS Independiente Rivadavia win on 2 | No (BUY) | 44% | 1.85 | ⏳ pendiente | — |
 | swisstony | Spread: CS Independiente Rivadavia (-1.5 | AA Estudiantes (BUY) | 76% | 2.14 | ⏳ pendiente | — |
-| swisstony | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 53% | 1.17 | ⏳ pendiente | — |
-| swisstony | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 53% | 12.53 | ⏳ pendiente | — |
