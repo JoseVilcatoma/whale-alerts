@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 13:52:47 (hora de Perú)
+Actualizado: 2026-08-08 13:54:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $619.51
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 27 | 11 | 7 | +61.99 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 31 | 11 | 8 | +61.99 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 4 | 2 | 24 | +10.43 USD |
@@ -27,11 +27,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 0 | 0 | 3 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 33 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 67 | -3.99 USD |
-| ThornyDevil | 3 | 2 | 4 | -16.40 USD |
+| ThornyDevil | 3 | 2 | 5 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 149 | 129 | 39 | -76.06 USD |
+| ferrariChampions2026 | 149 | 129 | 40 | -76.06 USD |
 | TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -97,19 +97,27 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-mkoi-gx-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BrotherObama, ferrariChampions2026 |
 | lol-mkoi-gx-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
 | wnba-las-min-2026-08-08-total-182pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| lol-mkoi-gx-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ThornyDevil | LoL: Movistar KOI vs GIANTX - Game 2 Win | Movistar KOI (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 34% | 0.00 | 💰 vendida anticipada | +0.00 |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 34% | 0.00 | 💰 vendida anticipada | +0.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC Fight Night: Amanda Lemos vs. Alexia | Amanda Lemos (BUY) | 30% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 34% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 34% | 0.00 | 💰 vendida anticipada | +0.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will VfL Wolfsburg win on 2026-08-08? | No (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Estudiantes de La Plata win on 2026 | No (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 35% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 35% | 0.00 | 💰 vendida anticipada | +0.00 |
 | wr0ngw4yb3tt0r | UFC Fight Night: Steven Asplund vs. Guil | Guilherme Pat (BUY) | 26% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will VfL Wolfsburg win on 2026-08-08? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will VfL Wolfsburg win on 2026-08-08? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
@@ -125,10 +133,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 31% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Las Vegas Aces vs. Minnesota Lynx | Las Vegas Aces (BUY) | 23% | 12.25 | ⏳ pendiente | — |
-| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 70% | 0.91 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 76% | 2.07 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Estudiantes de La Plata win on 2026 | No (BUY) | 93% | 1.46 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 83% | 2.92 | ⏳ pendiente | — |
-| ferrariChampions2026 | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 87% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 86% | 0.00 | ⏳ pendiente | — |
