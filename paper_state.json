@@ -1,5 +1,5 @@
 {
-  "bankroll": 780.6990391412668,
+  "bankroll": 778.9252792593161,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -4955,6 +4955,146 @@
       "timestamp": 1786154816.577761,
       "bankroll": 780.7,
       "event": "won: swisstony \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786155706.4199214,
+      "bankroll": 782.0,
+      "event": "won: swisstony \u2014 Spread: Phoenix Mercury (-5.5)"
+    },
+    {
+      "timestamp": 1786155710.097877,
+      "bankroll": 781.07,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun: O/U 172.5"
+    },
+    {
+      "timestamp": 1786155710.434958,
+      "bankroll": 779.55,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun: O/U 173.5"
+    },
+    {
+      "timestamp": 1786155710.7808535,
+      "bankroll": 778.7,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun: O/U 174.5"
+    },
+    {
+      "timestamp": 1786155710.8813431,
+      "bankroll": 777.83,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun: O/U 173.5"
+    },
+    {
+      "timestamp": 1786155710.9814801,
+      "bankroll": 776.68,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun: O/U 173.5"
+    },
+    {
+      "timestamp": 1786155712.1314447,
+      "bankroll": 778.48,
+      "event": "won: swisstony \u2014 Spread: Phoenix Mercury (-6.5)"
+    },
+    {
+      "timestamp": 1786155712.2315967,
+      "bankroll": 776.62,
+      "event": "lost: swisstony \u2014 Spread: Phoenix Mercury (-5.5)"
+    },
+    {
+      "timestamp": 1786155713.6595092,
+      "bankroll": 779.22,
+      "event": "won: swisstony \u2014 Spread: Phoenix Mercury (-6.5)"
+    },
+    {
+      "timestamp": 1786155715.4765308,
+      "bankroll": 778.05,
+      "event": "lost: swisstony \u2014 Spread: Phoenix Mercury (-6.5)"
+    },
+    {
+      "timestamp": 1786155715.6768806,
+      "bankroll": 778.17,
+      "event": "won: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun: O/U 172.5"
+    },
+    {
+      "timestamp": 1786155721.9625902,
+      "bankroll": 775.39,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun"
+    },
+    {
+      "timestamp": 1786155722.0631158,
+      "bankroll": 774.08,
+      "event": "lost: swisstony \u2014 Spread: Phoenix Mercury (-6.5)"
+    },
+    {
+      "timestamp": 1786155724.1514707,
+      "bankroll": 776.86,
+      "event": "won: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun"
+    },
+    {
+      "timestamp": 1786155725.3323116,
+      "bankroll": 777.68,
+      "event": "won: swisstony \u2014 Spread: Phoenix Mercury (-6.5)"
+    },
+    {
+      "timestamp": 1786155725.4324663,
+      "bankroll": 780.08,
+      "event": "won: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun"
+    },
+    {
+      "timestamp": 1786155725.5328863,
+      "bankroll": 781.05,
+      "event": "won: swisstony \u2014 Spread: Phoenix Mercury (-5.5)"
+    },
+    {
+      "timestamp": 1786155725.7331676,
+      "bankroll": 781.21,
+      "event": "won: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun: O/U 172.5"
+    },
+    {
+      "timestamp": 1786155725.8333356,
+      "bankroll": 780.3,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun"
+    },
+    {
+      "timestamp": 1786155726.6837482,
+      "bankroll": 780.32,
+      "event": "won: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun: O/U 174.5"
+    },
+    {
+      "timestamp": 1786155727.0846741,
+      "bankroll": 779.18,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun"
+    },
+    {
+      "timestamp": 1786155727.1850512,
+      "bankroll": 777.56,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun"
+    },
+    {
+      "timestamp": 1786155727.8358629,
+      "bankroll": 784.62,
+      "event": "won: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun"
+    },
+    {
+      "timestamp": 1786155727.9361162,
+      "bankroll": 779.11,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun"
+    },
+    {
+      "timestamp": 1786155728.0364614,
+      "bankroll": 777.94,
+      "event": "lost: swisstony \u2014 Spread: Phoenix Mercury (-5.5)"
+    },
+    {
+      "timestamp": 1786155729.7341776,
+      "bankroll": 776.65,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Connecticut Sun"
+    },
+    {
+      "timestamp": 1786155729.8345807,
+      "bankroll": 778.62,
+      "event": "won: swisstony \u2014 Spread: Phoenix Mercury (-6.5)"
+    },
+    {
+      "timestamp": 1786155731.6255066,
+      "bankroll": 778.93,
+      "event": "won: swisstony \u2014 Spread: Phoenix Mercury (-6.5)"
     }
   ]
 }
