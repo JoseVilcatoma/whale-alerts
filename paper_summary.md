@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:41:57 (hora de Perú)
+Actualizado: 2026-08-08 06:44:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $872.08
@@ -23,12 +23,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 0 | 0 | 3 | +0.00 USD |
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
+| Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
-| RN1 | 2 | 2 | 8 | -5.13 USD |
+| RN1 | 2 | 2 | 9 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 31 | -9.46 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
-| ferrariChampions2026 | 32 | 20 | 213 | -67.78 USD |
+| ferrariChampions2026 | 32 | 20 | 215 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -59,7 +60,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-laa-mia-2026-08-08-total-8pt5 | HomeRunHazard, quavoo |
 | jap-avi-vis-2026-08-08-spread-away-1pt5 | UpTheBlues, ferrariChampions2026 |
 | jap-cer-fag-2026-08-08-spread-home-1pt5 | UpTheBlues, ferrariChampions2026 |
-| cs2-eye-pha-2026-08-08 | TAIWANNUMBERONE, fRibrenlc |
+| cs2-eye-pha-2026-08-08 | Djdjdjekekek, TAIWANNUMBERONE, fRibrenlc |
 | jap-cer-fag-2026-08-08-cer | UpTheBlues, ferrariChampions2026 |
 | bl2-fcm-bra-2026-08-08-bra | RN1, UpTheBlues |
 | lol-t1-hle1-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026, jtwyslljy |
@@ -77,6 +78,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Counter-Strike: EYEBALLERS vs Phantom (B | Phantom (BUY) | 54% | 30.54 | ⏳ pendiente | — |
+| RN1 | Will Dalian Yingbo FC win on 2026-08-08? | Yes (BUY) | 65% | 1.42 | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: EYEBALLERS vs Phantom (B | Phantom (BUY) | 50% | 1.11 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | Sanfrecce Hiroshima (BUY) | 48% | 2.02 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will 1. FC Heidenheim 1846 win on 2026-0 | Yes (BUY) | 51% | 3.73 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 90% | 3.27 | ⏳ pendiente | — |
 | ferrariChampions2026 | SV Darmstadt 98 vs. Holstein Kiel: O/U 1 | Over (BUY) | 89% | 3.62 | ⏳ pendiente | — |
 | ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 69% | 2.69 | ⏳ pendiente | — |
@@ -102,8 +108,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Vissel Kōbe win on 2026-08-08? | No (BUY) | 22% | 1.97 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 82% | 11.83 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 83% | 1.17 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 4. | Over (BUY) | 28% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Qingdao Hainiu FC win on 2026-08-08 | No (BUY) | 80% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will VfL Osnabrück win on 2026-08-08? | Yes (BUY) | 18% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 2.5 | Over (BUY) | 20% | 0.00 | ⏳ pendiente | — |
