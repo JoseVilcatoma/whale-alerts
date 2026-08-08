@@ -1,5 +1,5 @@
 {
-  "bankroll": 622.2141402686126,
+  "bankroll": 618.5341402686126,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2530,6 +2530,11 @@
       "timestamp": 1786212766.224141,
       "bankroll": 622.21,
       "event": "lost: StasPanda \u2014 Counter-Strike: Procyon Gaming vs ODDIK Academy (BO3) - BetBoom Storm Group Stage"
+    },
+    {
+      "timestamp": 1786213081.4749815,
+      "bankroll": 618.53,
+      "event": "lost: RN1 \u2014 Will Bayer Leverkusen win on 2026-08-08?"
     }
   ]
 }
