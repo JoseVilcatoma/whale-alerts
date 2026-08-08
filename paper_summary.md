@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 05:20:22 (hora de Perú)
+Actualizado: 2026-08-08 05:22:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.76
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 8 | 0 | 15 | +9.70 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 8 | 0 | 16 | +9.70 USD |
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | TAIWANNUMBERONE | 0 | 0 | 38 | +0.00 USD |
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 12 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 97 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 100 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -66,6 +66,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 4% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Vissel Kōbe win on 2026-08-08? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Kashiwa Reysol (-1.5) | Kashiwa Reysol (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Vissel Kōbe win on 2026-08-08? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kashiwa Reysol vs. FC Mito Holly Hock: O | Over (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Vissel Kōbe (-1.5) | Avispa Fukuoka (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Mito Holly Hock win on 2026-08-0 | No (BUY) | 94% | 0.00 | ⏳ pendiente | — |
@@ -92,7 +96,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | FC Tōkyō vs. FC Machida Zelvia: O/U 3.5 | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 3. | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 15% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Kashiwa Reysol (-1.5) | Kashiwa Reysol (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 19% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: FC Tōkyō (-1.5) | FC Tōkyō (BUY) | 34% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Vissel Kōbe win on 2026-08-08? | No (BUY) | 60% | 0.00 | ⏳ pendiente | — |
