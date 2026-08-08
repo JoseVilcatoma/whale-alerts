@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:25:53 (hora de Perú)
+Actualizado: 2026-08-08 15:27:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 26 | 13 | 3 | +57.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 26 | 13 | 6 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 26 | 3 | +9.02 USD |
@@ -25,12 +25,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 4 | 4 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 8 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 3 | -12.25 USD |
+| 1winstreak1 | 0 | 3 | 4 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 164 | 138 | 23 | -75.22 USD |
+| ferrariChampions2026 | 164 | 138 | 26 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
@@ -105,6 +105,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Valencia CF win on 2026-08-08? | No (BUY) | 89% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Grêmio FBPA win on 2026-08-08? | No (BUY) | 74% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 44% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Under (BUY) | 39% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 45% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 89% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: 9INE vs HOTU (BO3) - Esp | 9INE (BUY) | 35% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 44% | 40.42 | ⏳ pendiente | — |
@@ -128,10 +135,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will VfL Wolfsburg win on 2026-08-08? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will VfL Wolfsburg win on 2026-08-08? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Grêmio FBPA win on 2026-08-08? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Under (BUY) | 50% | 0.00 | ❌ perdida | -0.00 |
-| ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 63% | 0.00 | ✅ ganada | +0.00 |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 46% | 0.00 | ✅ ganada | +0.00 |
-| ferrariChampions2026 | Will CD Riestra win on 2026-08-08? | No (BUY) | 27% | 0.00 | ❌ perdida | -0.00 |
-| 1winstreak1 | Spread: Minnesota Lynx (-5.5) | Las Vegas Aces (BUY) | 30% | 0.00 | ❌ perdida | -0.00 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | Movistar KOI (BUY) | 45% | 0.00 | ⏳ pendiente | — |
