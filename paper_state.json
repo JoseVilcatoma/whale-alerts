@@ -1,5 +1,5 @@
 {
-  "bankroll": 607.6021385609167,
+  "bankroll": 618.3081698155238,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2380,6 +2380,41 @@
       "timestamp": 1786203947.8896298,
       "bankroll": 607.6,
       "event": "won: RN1 \u2014 Will Karlsruher SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786204254.0195587,
+      "bankroll": 617.8,
+      "event": "won: UpTheBlues \u2014 Will Eintracht Braunschweig win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786204258.908626,
+      "bankroll": 617.8,
+      "event": "lost: ferrariChampions2026 \u2014 Will Inter Milano win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786204259.0088193,
+      "bankroll": 617.8,
+      "event": "won: ferrariChampions2026 \u2014 Will Inter Milano win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786204259.7381172,
+      "bankroll": 618.66,
+      "event": "won: ferrariChampions2026 \u2014 Will Inter Milano win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786204259.8383555,
+      "bankroll": 617.71,
+      "event": "lost: RN1 \u2014 Will Eintracht Braunschweig win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786204260.1673725,
+      "bankroll": 614.72,
+      "event": "lost: ferrariChampions2026 \u2014 Will 1. FC Heidenheim 1846 win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786204260.2675402,
+      "bankroll": 618.31,
+      "event": "won: ferrariChampions2026 \u2014 Will 1. FC Heidenheim 1846 win on 2026-08-08?"
     }
   ]
 }
