@@ -682,5 +682,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786158799.4516294,
     "fills": 1
+  },
+  {
+    "timestamp": 1786158985,
+    "timestamp_added": 1786158986.418219,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-atl-nyy-2026-08-07-spread-away-1pt5",
+    "title": "Spread: Atlanta Braves (-1.5)",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "whale_usd": 299.9997,
+    "whale_pct": 0.224,
+    "paper_stake_usd": 2.24,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786158986.4182277,
+    "fills": 1
   }
 ]
