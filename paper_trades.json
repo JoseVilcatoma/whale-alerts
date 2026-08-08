@@ -22295,5 +22295,50 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786156349.6924562,
     "fills": 1
+  },
+  {
+    "timestamp": 1786156644,
+    "timestamp_added": 1786156645.042808,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-chc-kc-2026-08-07-total-10pt5",
+    "title": "Chicago Cubs vs. Kansas City Royals: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 657.9922,
+    "whale_pct": 0.346,
+    "paper_stake_usd": 2.71,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786156645.462026,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786156644,
+    "timestamp_added": 1786156645.4644248,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-chc-kc-2026-08-07-total-10pt5",
+    "title": "Chicago Cubs vs. Kansas City Royals: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 551.8028,
+    "whale_pct": 0.196,
+    "paper_stake_usd": 1.53,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786156645.4644296,
+    "fills": 1
   }
 ]
