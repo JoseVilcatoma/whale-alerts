@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 19:30:47 (hora de Perú)
+Actualizado: 2026-08-07 19:32:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.44
@@ -20,9 +20,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 4 | +1.51 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 8 | 0 | -12.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 47 | 22 | 16 | -86.85 USD |
+| RN1 | 47 | 22 | 17 | -86.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 310 | 181 | 110 | -100.04 USD |
+| swisstony | 310 | 181 | 113 | -100.04 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -79,6 +79,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will CA Ferrocarril Midland win on 2026- | Yes (BUY) | 80% | 3.22 | ⏳ pendiente | — |
+| swisstony | Charlotte FC vs. Atlas FC: O/U 2.5 | Under (BUY) | 86% | 2.17 | ⏳ pendiente | — |
+| swisstony | Charlotte FC vs. Atlas FC: O/U 1.5 | Under (BUY) | 62% | 0.98 | ⏳ pendiente | — |
+| swisstony | Spread: Atlas FC (-1.5) | Charlotte FC (BUY) | 94% | 2.55 | ⏳ pendiente | — |
 | swisstony | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 64% | 1.69 | ⏳ pendiente | — |
 | RN1 | CA Rosario Central vs. CA Aldosivi: O/U  | Under (BUY) | 96% | 3.55 | ⏳ pendiente | — |
 | RN1 | Spread: Minnesota Twins (-1.5) | Milwaukee Brewers (BUY) | 91% | 1.22 | ⏳ pendiente | — |
@@ -105,7 +109,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: St. Louis Cardinals (-2.5) | Colorado Rockies (BUY) | 70% | 2.06 | ⏳ pendiente | — |
 | swisstony | Will CA Rosario Central vs. CA Aldosivi  | No (BUY) | 41% | 0.86 | ⏳ pendiente | — |
 | swisstony | Will CA Rosario Central vs. CA Aldosivi  | Yes (BUY) | 58% | 1.48 | ⏳ pendiente | — |
-| swisstony | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 36% | 0.81 | ⏳ pendiente | — |
-| swisstony | Will CA Rosario Central win on 2026-08-0 | No (BUY) | 62% | 2.17 | ⏳ pendiente | — |
-| swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Under (BUY) | 50% | 3.57 | ⏳ pendiente | — |
-| swisstony | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 81% | 2.92 | ⏳ pendiente | — |
