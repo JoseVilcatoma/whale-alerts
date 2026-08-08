@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 23:05:52 (hora de Perú)
+Actualizado: 2026-08-07 23:07:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $975.63
@@ -13,10 +13,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| greyoctober | 0 | 0 | 4 | +0.00 USD |
+| greyoctober | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 0 | 0 | 4 | +0.00 USD |
-| HomeRunHazard | 0 | 0 | 2 | +0.00 USD |
+| HomeRunHazard | 0 | 0 | 3 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 17 | +0.00 USD |
 | 0x4f2 | 2 | 8 | 17 | -3.13 USD |
 | ferrariChampions2026 | 0 | 2 | 46 | -21.26 USD |
@@ -43,6 +43,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: San Francisco Giants (-2.5) | Detroit Tigers (BUY) | 45% | 1.15 | ⏳ pendiente | — |
+| greyoctober | Valorant: DRX vs T1 (BO3) - VCT Pacific  | T1 (BUY) | 63% | 7.15 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 55% | 2.70 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 46% | 5.21 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 45% | 1.05 | ⏳ pendiente | — |
@@ -71,5 +73,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 60% | 5.75 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Under (BUY) | 91% | 1.14 | ⏳ pendiente | — |
 | 0x4f2 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 44% | 1.26 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will FC Juárez win on 2026-08-07? | No (BUY) | 91% | 5.01 | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 39% | 6.60 | ⏳ pendiente | — |
