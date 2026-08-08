@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 21:14:44 (hora de Perú)
+Actualizado: 2026-08-07 21:18:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $780.70
@@ -20,9 +20,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 4 | +1.51 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 8 | 0 | -12.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 54 | 27 | 26 | -90.01 USD |
+| RN1 | 54 | 27 | 27 | -90.01 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 338 | 203 | 179 | -112.61 USD |
+| swisstony | 338 | 203 | 183 | -112.61 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -90,6 +90,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 35% | 3.11 | ⏳ pendiente | — |
+| swisstony | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 46% | 2.39 | ⏳ pendiente | — |
+| swisstony | Will CS Independiente Rivadavia vs. AA E | No (BUY) | 90% | 1.21 | ⏳ pendiente | — |
+| swisstony | Will CS Independiente Rivadavia win on 2 | Yes (BUY) | 90% | 0.94 | ⏳ pendiente | — |
+| swisstony | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 53% | 0.91 | ⏳ pendiente | — |
 | swisstony | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 48% | 1.24 | ⏳ pendiente | — |
 | swisstony | Spread: Texas Rangers (-1.5) | Baltimore Orioles (BUY) | 69% | 2.55 | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. St. Louis Cardinals | Under (BUY) | 53% | 2.97 | ⏳ pendiente | — |
@@ -115,8 +120,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 92% | 0.97 | ⏳ pendiente | — |
 | swisstony | Tigres de la UANL vs. Minnesota United F | Under (BUY) | 79% | 1.67 | ⏳ pendiente | — |
 | swisstony | Spread: CS Independiente Rivadavia (-1.5 | AA Estudiantes (BUY) | 84% | 3.39 | ⏳ pendiente | — |
-| swisstony | CD Riestra vs. Estudiantes de La Plata:  | Under (BUY) | 73% | 0.78 | ⏳ pendiente | — |
-| swisstony | Will CS Independiente Rivadavia win on 2 | Yes (BUY) | 49% | 2.04 | ⏳ pendiente | — |
-| swisstony | Spread: AA Estudiantes (-1.5) | CS Independiente Rivadavia (BUY) | 98% | 2.14 | ⏳ pendiente | — |
-| RN1 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 46% | 1.18 | ⏳ pendiente | — |
-| swisstony | CD Santa Cruz vs. Puerto Montt: O/U 5.5 | Under (BUY) | 100% | 1.62 | ⏳ pendiente | — |
