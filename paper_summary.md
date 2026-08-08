@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 22:16:27 (hora de Perú)
+Actualizado: 2026-08-07 22:18:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,000.00
-**Retorno acumulado:** +0.00%
-**Peor caída desde un máximo (drawdown):** 0.00%
+**Bankroll actual:** $999.30
+**Retorno acumulado:** -0.07%
+**Peor caída desde un máximo (drawdown):** 0.07%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -13,15 +13,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x4f2 | 0 | 0 | 8 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 25 | +0.00 USD |
 | greyoctober | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
+| 0x4f2 | 1 | 3 | 7 | -0.70 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
 | Mercado | Vigilados que coincidieron |
 |---|---|
+| mlb-tor-phi-2026-08-07-total-7pt5 | 0x4f2, ferrariChampions2026 |
 | mlb-lad-ari-2026-08-07-total-6pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tor-phi-2026-08-07-spread-away-1pt5 | 0x4f2, ferrariChampions2026 |
 
@@ -29,11 +30,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0x4f2 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 58% | 2.19 | ⏳ pendiente | — |
+| 0x4f2 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 43% | 2.24 | 💰 vendida anticipada | +0.10 |
+| 0x4f2 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 40% | 2.24 | 💰 vendida anticipada | -0.28 |
 | 0x4f2 | Spread: Atlanta Braves (-1.5) | New York Yankees (BUY) | 63% | 2.24 | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 38% | 2.29 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 48% | 1.11 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Under (BUY) | 52% | 3.18 | ⏳ pendiente | — |
-| 0x4f2 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 64% | 2.31 | ⏳ pendiente | — |
+| 0x4f2 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 64% | 2.31 | 💰 vendida anticipada | -0.43 |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 93% | 2.24 | ⏳ pendiente | — |
 | 0x4f2 | Spread: San Diego Padres (-1.5) | Houston Astros (BUY) | 91% | 2.31 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 51% | 1.01 | ⏳ pendiente | — |
@@ -56,6 +60,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | Valorant: DRX vs T1 (BO3) - VCT Pacific  | T1 (BUY) | 63% | 2.61 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 81% | 1.05 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 37% | 6.54 | ⏳ pendiente | — |
-| 0x4f2 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 48% | 2.07 | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 68% | 12.46 | ⏳ pendiente | — |
-| ferrariChampions2026 | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries (BUY) | 88% | 1.63 | ⏳ pendiente | — |

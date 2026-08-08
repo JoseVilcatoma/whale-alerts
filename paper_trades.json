@@ -152,12 +152,13 @@
     "whale_pct": 0.207,
     "paper_stake_usd": 2.07,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.09,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786157641.1899438,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 46
   },
   {
     "timestamp": 1786157640,
@@ -614,14 +615,15 @@
     "whale_pct": 0.231,
     "paper_stake_usd": 2.31,
     "odds_at_bet": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.43,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786158661.559384,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 52
   },
   {
     "timestamp": 1786158753,
@@ -702,5 +704,69 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786158986.4182277,
     "fills": 1
+  },
+  {
+    "timestamp": 1786158988,
+    "timestamp_added": 1786158988.5731938,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-tor-phi-2026-08-07-total-7pt5",
+    "title": "Toronto Blue Jays vs. Philadelphia Phillies: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 300.0,
+    "whale_pct": 0.224,
+    "paper_stake_usd": 2.24,
+    "odds_at_bet": 40,
+    "status": "cerrada_venta",
+    "profit_usd": -0.28,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786158988.5732021,
+    "fills": 1,
+    "closed_price": 35
+  },
+  {
+    "timestamp": 1786159010,
+    "timestamp_added": 1786159010.952772,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-tor-phi-2026-08-07-total-8pt5",
+    "title": "Toronto Blue Jays vs. Philadelphia Phillies: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 299.99809999999997,
+    "whale_pct": 0.224,
+    "paper_stake_usd": 2.24,
+    "odds_at_bet": 43,
+    "status": "cerrada_venta",
+    "profit_usd": 0.1,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786159010.9527812,
+    "fills": 1,
+    "closed_price": 45
+  },
+  {
+    "timestamp": 1786159033,
+    "timestamp_added": 1786159034.1801317,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-tor-phi-2026-08-07-total-8pt5",
+    "title": "Toronto Blue Jays vs. Philadelphia Phillies: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 292.6622,
+    "whale_pct": 0.219,
+    "paper_stake_usd": 2.19,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786159035.095151,
+    "fills": 2
   }
 ]
