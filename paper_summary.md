@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 14:05:25 (hora de Perú)
+Actualizado: 2026-08-08 14:07:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $619.51
@@ -18,20 +18,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 4 | 2 | 24 | +10.43 USD |
 | Spicer | 5 | 0 | 5 | +6.62 USD |
-| UpTheBlues | 38 | 26 | 6 | +5.74 USD |
+| UpTheBlues | 38 | 26 | 11 | +5.74 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 5 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| StasPanda | 0 | 4 | 2 | +0.00 USD |
+| StasPanda | 0 | 4 | 3 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | 1winstreak1 | 0 | 0 | 3 | +0.00 USD |
-| wr0ngw4yb3tt0r | 1 | 1 | 36 | -1.58 USD |
+| wr0ngw4yb3tt0r | 1 | 1 | 37 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 67 | -3.99 USD |
 | ThornyDevil | 3 | 2 | 5 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 149 | 129 | 48 | -76.06 USD |
+| ferrariChampions2026 | 149 | 129 | 50 | -76.06 USD |
 | TAIWANNUMBERONE | 2 | 36 | 2 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -105,6 +105,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will PSV win on 2026-08-08? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CD Riestra win on 2026-08-08? | Yes (BUY) | 79% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will PSV vs. Fortuna Sittard end in a dr | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will PSV win on 2026-08-08? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| StasPanda | Counter-Strike: Virtus.pro vs Sashi Espo | Virtus.pro (BUY) | 55% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | VfL Wolfsburg vs. 1. FC Kaiserslautern:  | Over (BUY) | 41% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will PSV win on 2026-08-08? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will PSV win on 2026-08-08? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will São Paulo FC win on 2026-08-08? | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will São Paulo FC win on 2026-08-08? | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CD Riestra win on 2026-08-08? | Yes (BUY) | 76% | 0.00 | ⏳ pendiente | — |
@@ -125,13 +134,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Grêmio FBPA vs. São Paulo FC: O/U 2.5 | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | ThornyDevil | LoL: Movistar KOI vs GIANTX - Game 2 Win | Movistar KOI (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 34% | 0.00 | 💰 vendida anticipada | +0.00 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 34% | 0.00 | 💰 vendida anticipada | +0.00 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | UFC Fight Night: Amanda Lemos vs. Alexia | Amanda Lemos (BUY) | 30% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 34% | 0.00 | 💰 vendida anticipada | +0.00 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
