@@ -19091,5 +19091,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786148654.6849797,
     "fills": 1
+  },
+  {
+    "timestamp": 1786148679,
+    "timestamp_added": 1786148680.078802,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-ros-ald-2026-08-07-spread-home-1pt5",
+    "title": "Spread: CA Rosario Central (-1.5)",
+    "outcome": "CA Aldosivi",
+    "side": "BUY",
+    "whale_usd": 257.98999899999995,
+    "whale_pct": 0.107,
+    "paper_stake_usd": 0.85,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786148680.0788145,
+    "fills": 1
   }
 ]

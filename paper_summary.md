@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 19:24:26 (hora de Perú)
+Actualizado: 2026-08-07 19:26:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.44
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 47 | 22 | 12 | -86.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 310 | 181 | 107 | -100.04 USD |
+| swisstony | 310 | 181 | 108 | -100.04 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -78,6 +78,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: CA Rosario Central (-1.5) | CA Aldosivi (BUY) | 86% | 0.85 | ⏳ pendiente | — |
 | swisstony | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 94% | 6.58 | ⏳ pendiente | — |
 | swisstony | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 80% | 1.88 | ⏳ pendiente | — |
 | swisstony | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 93% | 10.65 | ⏳ pendiente | — |
@@ -107,4 +108,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Under (BUY) | 47% | 1.90 | ⏳ pendiente | — |
 | swisstony | Spread: CA Rosario Central (-1.5) | CA Aldosivi (BUY) | 91% | 2.70 | ⏳ pendiente | — |
 | RN1 | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 41% | 0.95 | ⏳ pendiente | — |
-| swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Under (BUY) | 45% | 1.46 | ⏳ pendiente | — |
