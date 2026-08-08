@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 05:34:51 (hora de Perú)
+Actualizado: 2026-08-08 05:37:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.76
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 12 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 116 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 119 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -67,6 +67,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Vissel Kōbe (-1.5) | Vissel Kōbe (BUY) | 34% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Fagiano Okayama win on 2026-08-08? | Yes (BUY) | 12% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-2.5) | JEF United Ichihara Chiba (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Avispa Fukuoka win on 2026-08-08? | Yes (BUY) | 9% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Avispa Fukuoka vs. Vissel Kōbe end  | Yes (BUY) | 22% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 2.5 | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
@@ -94,6 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 2. | Over (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Kashiwa Reysol (-1.5) | Kashiwa Reysol (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kashiwa Reysol vs. FC Mito Holly Hock: O | Over (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 89% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 89% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Vissel Kōbe (-1.5) | Avispa Fukuoka (BUY) | 84% | 0.00 | ⏳ pendiente | — |
