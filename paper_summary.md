@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:11:34 (hora de Perú)
+Actualizado: 2026-08-08 16:13:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -25,12 +25,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 4 | 7 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 11 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 29 | -12.25 USD |
+| 1winstreak1 | 0 | 3 | 30 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
-| RN1 | 8 | 9 | 1 | -22.00 USD |
+| RN1 | 8 | 9 | 8 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 168 | 139 | 51 | -75.22 USD |
+| ferrariChampions2026 | 168 | 139 | 54 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 4 | -303.20 USD |
 
@@ -109,12 +109,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ufc-gcanut-car24-2026-08-08 | Talvez10, ferrariChampions2026, quavoo |
 | ufc-gcanut-car24-2026-08-08-totals-2pt5 | Talvez10, wr0ngw4yb3tt0r |
 | mlb-laa-mia-2026-08-08-total-7pt5 | 1winstreak1, ferrariChampions2026 |
+| arg-tig-riv-2026-08-08-total-0pt5 | RN1, ferrariChampions2026 |
 | lol-c9-dsg-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
+| arg-tig-riv-2026-08-08-total-1pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | CF Estrela da Amadora vs. Sporting CP: O | Under (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will CA Tigre win on 2026-08-08? | No (BUY) | 80% | 0.00 | ⏳ pendiente | — |
+| RN1 | CA Tigre vs. CA River Plate: O/U 1.5 | Under (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | CA Tigre vs. CA River Plate: O/U 1.5 | Under (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 84% | 0.00 | ⏳ pendiente | — |
+| RN1 | CA Tigre vs. CA River Plate: O/U 0.5 | Under (BUY) | 40% | 0.00 | ⏳ pendiente | — |
+| RN1 | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors (BUY) | 31% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will CA Tigre win on 2026-08-08? | No (BUY) | 81% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| RN1 | CF Estrela da Amadora vs. Sporting CP: O | Under (BUY) | 65% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 96% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Counter-Strike: 9INE vs HOTU (BO3) - Esp | 9INE (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 91% | 0.00 | ⏳ pendiente | — |
@@ -134,14 +147,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will CA Tigre vs. CA River Plate end in  | Yes (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Montevideo City Torque vs. CA Penar | Yes (BUY) | 28% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Tigre vs. CA River Plate end in  | No (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 34% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Disguised (BUY) | 9% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will FC Dallas win on 2026-08-08? | Yes (BUY) | 20% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 20% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 92% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
