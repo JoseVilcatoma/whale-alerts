@@ -6676,14 +6676,15 @@
     "whale_pct": 11.076,
     "paper_stake_usd": 10.51,
     "odds_at_bet": 26,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 9.7,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786182899.6868703,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 50
   },
   {
     "timestamp": 1786182964,
@@ -7056,10 +7057,10 @@
     "title": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 2074.0,
-    "whale_pct": 1.073,
+    "whale_usd": 5154.013999999999,
+    "whale_pct": 2.668,
     "paper_stake_usd": 0.0,
-    "odds_at_bet": 74,
+    "odds_at_bet": 76,
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": [
@@ -7067,7 +7068,76 @@
       "ThornyDevil"
     ],
     "recortado_por_bankroll": true,
-    "last_fill_at": 1786183663.808048,
+    "last_fill_at": 1786183691.1030862,
+    "fills": 6
+  },
+  {
+    "timestamp": 1786183760,
+    "timestamp_added": 1786183760.953253,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-t1-hle1-2026-08-08",
+    "title": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 326.4,
+    "whale_pct": 0.164,
+    "paper_stake_usd": 1.54,
+    "odds_at_bet": 24,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "ThornyDevil"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786183760.9532588,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786183781,
+    "timestamp_added": 1786183781.4457824,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-t1-hle1-2026-08-08",
+    "title": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 368.92,
+    "whale_pct": 0.185,
+    "paper_stake_usd": 1.74,
+    "odds_at_bet": 23,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "ThornyDevil"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786183781.44579,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786183791,
+    "timestamp_added": 1786183791.9862392,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-t1-hle1-2026-08-08",
+    "title": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 2295.92,
+    "whale_pct": 1.15,
+    "paper_stake_usd": 10.8,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "ThornyDevil"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786183792.4130356,
     "fills": 2
   }
 ]

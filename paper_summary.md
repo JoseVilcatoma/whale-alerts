@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 05:07:52 (hora de Perú)
+Actualizado: 2026-08-08 05:09:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $929.06
-**Retorno acumulado:** -7.09%
+**Bankroll actual:** $938.76
+**Retorno acumulado:** -6.12%
 **Peor caída desde un máximo (drawdown):** 10.06%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,19 +14,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 8 | 0 | 15 | +9.70 USD |
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | TAIWANNUMBERONE | 0 | 0 | 38 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 20 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 7 | 0 | 16 | +0.00 USD |
 | ThornyDevil | 0 | 0 | 3 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 12 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 54 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 57 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -64,7 +64,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 74% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 76% | 10.80 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 23% | 1.74 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 24% | 1.54 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 76% | 0.00 | ⏳ pendiente | — |
@@ -81,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | ThornyDevil | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 26% | 10.51 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 26% | 10.51 | 💰 vendida anticipada | +9.70 |
 | ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend (BO3) | LGD Gaming (BUY) | 38% | 1.21 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | LGD Gaming (BUY) | 72% | 1.75 | ⏳ pendiente | — |
 | ferrariChampions2026 | Gimcheon Sangmu FC vs. FC Seoul: O/U 2.5 | Under (BUY) | 48% | 2.12 | ⏳ pendiente | — |
@@ -91,6 +94,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 40% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports - Game 2  | Hanwha Life Esports (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 40% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports - Game 2  | Hanwha Life Esports (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 41% | 0.00 | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 929.0606650336757,
+  "bankroll": 938.7622034952142,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -645,6 +645,11 @@
       "timestamp": 1786182588.5037973,
       "bankroll": 929.06,
       "event": "won: UpTheBlues \u2014 Will Tokushima Vortis win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786183702.138625,
+      "bankroll": 938.76,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LGD Gaming vs Anyone's Legend - Game 1 Winner (+9.70 USD)"
     }
   ]
 }
