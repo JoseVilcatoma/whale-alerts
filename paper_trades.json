@@ -18777,5 +18777,139 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786224729.6839955,
     "fills": 2
+  },
+  {
+    "timestamp": 1786224823,
+    "timestamp_added": 1786224823.4026644,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "arg-tig-riv-2026-08-08-riv",
+    "title": "Will CA River Plate win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 583.3743,
+    "whale_pct": 0.128,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 23,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786224823.402675,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786224832,
+    "timestamp_added": 1786224832.4210684,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-laa-mia-2026-08-08-total-6pt5",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1255.99,
+    "whale_pct": 0.197,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786224832.4210787,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786224843,
+    "timestamp_added": 1786224843.753455,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "arg-tig-riv-2026-08-08-riv",
+    "title": "Will CA River Plate win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 700.8496,
+    "whale_pct": 0.154,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 22,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786224843.753466,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786224845,
+    "timestamp_added": 1786224845.3578343,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-tor-phi-2026-08-08-total-9pt5",
+    "title": "Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1591.2,
+    "whale_pct": 1.433,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "Talvez10",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786224845.3578448,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786224862,
+    "timestamp_added": 1786224863.2750182,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-laa-mia-2026-08-08-total-6pt5",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 15.389999999999999,
+    "whale_pct": 0.132,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786224863.2750287,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786224863,
+    "timestamp_added": 1786224863.717611,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-laa-mia-2026-08-08-total-7pt5",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 18.950000000000003,
+    "whale_pct": 0.163,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786224863.7176237,
+    "fills": 1
   }
 ]

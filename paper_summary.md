@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:32:23 (hora de Perú)
+Actualizado: 2026-08-08 16:34:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -17,20 +17,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
-| quavoo | 5 | 4 | 49 | +8.84 USD |
-| HomeRunHazard | 8 | 11 | 61 | +3.36 USD |
+| quavoo | 5 | 4 | 50 | +8.84 USD |
+| HomeRunHazard | 8 | 11 | 62 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 14 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 7 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 12 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 39 | -12.25 USD |
+| 1winstreak1 | 0 | 3 | 41 | -12.25 USD |
 | ThornyDevil | 3 | 4 | 2 | -16.40 USD |
 | RN1 | 8 | 9 | 15 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 169 | 139 | 59 | -75.22 USD |
+| ferrariChampions2026 | 169 | 139 | 61 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 5 | -303.20 USD |
 
@@ -122,6 +122,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 77% | 0.00 | ⏳ pendiente | — |
+| quavoo | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | Yes (BUY) | 22% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 71% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | Yes (BUY) | 23% | 0.00 | ⏳ pendiente | — |
 | quavoo | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 21% | 0.00 | ⏳ pendiente | — |
@@ -146,9 +152,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 17% | 0.00 | 💰 vendida anticipada | +0.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 16% | 0.00 | 💰 vendida anticipada | +0.00 |
 | quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Indiana Fever (-6.5) | Indiana Fever (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 81% | 0.00 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 18% | 0.00 | 💰 vendida anticipada | +0.00 |
-| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| RN1 | CF Estrela da Amadora vs. Sporting CP: O | Under (BUY) | 73% | 0.00 | ⏳ pendiente | — |
