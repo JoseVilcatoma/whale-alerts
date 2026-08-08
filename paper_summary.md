@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 01:02:56 (hora de Perú)
+Actualizado: 2026-08-08 01:05:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $949.21
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 0 | 0 | 38 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | TAIWANNUMBERONE | 0 | 0 | 10 | +0.00 USD |
-| quavoo | 0 | 0 | 21 | +0.00 USD |
+| quavoo | 0 | 0 | 24 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 6 | -3.99 USD |
@@ -54,6 +54,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 61% | 3.31 | ⏳ pendiente | — |
+| quavoo | Will FC Seoul win on 2026-08-08? | Yes (BUY) | 49% | 3.64 | ⏳ pendiente | — |
+| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 61% | 1.43 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Tegevajaro Miyazaki (-1.5) | Yokohama FC (BUY) | 84% | 2.90 | ⏳ pendiente | — |
 | quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 61% | 7.92 | ⏳ pendiente | — |
 | quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 61% | 2.89 | ⏳ pendiente | — |
@@ -81,6 +84,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 5.31 | ⏳ pendiente | — |
 | quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 60% | 3.47 | ⏳ pendiente | — |
 | quavoo | Stade Rennais FC vs. Brentford FC: O/U 3 | Over (BUY) | 38% | 0.99 | ⏳ pendiente | — |
-| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 60% | 1.94 | ⏳ pendiente | — |
-| quavoo | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 40% | 0.99 | ⏳ pendiente | — |
-| UpTheBlues | Will Philippines win on 2026-08-08? | No (BUY) | 87% | 1.44 | ⏳ pendiente | — |
