@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 23:37:02 (hora de Perú)
+Actualizado: 2026-08-07 23:39:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $979.91
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 1 | 0 | 3 | +0.14 USD |
 | greyoctober | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
-| HomeRunHazard | 0 | 0 | 10 | +0.00 USD |
+| HomeRunHazard | 0 | 0 | 11 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 33 | +0.00 USD |
 | swisstony | 0 | 0 | 1 | +0.00 USD |
 | 0x4f2 | 5 | 9 | 13 | -0.18 USD |
@@ -51,6 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 53% | 4.64 | ⏳ pendiente | — |
 | swisstony | Spread: Philadelphia Phillies (-1.5) | Toronto Blue Jays (BUY) | 58% | 2.52 | ⏳ pendiente | — |
 | HomeRunHazard | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 65% | 2.92 | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 48% | 3.08 | ⏳ pendiente | — |
@@ -80,4 +81,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will FC Juárez win on 2026-08-07? | No (BUY) | 77% | 26.35 | ⏳ pendiente | — |
 | UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 21% | 2.02 | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 40% | 1.12 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: San Francisco Giants (-2.5) | Detroit Tigers (BUY) | 45% | 1.15 | ⏳ pendiente | — |
