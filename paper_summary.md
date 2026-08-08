@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 20:31:16 (hora de Perú)
+Actualizado: 2026-08-07 20:33:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $782.58
-**Retorno acumulado:** -21.74%
+**Bankroll actual:** $777.24
+**Retorno acumulado:** -22.28%
 **Peor caída desde un máximo (drawdown):** 75.51%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,9 +20,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 4 | +1.51 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 8 | 0 | -12.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 53 | 26 | 17 | -92.06 USD |
+| RN1 | 53 | 27 | 16 | -93.50 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 334 | 200 | 154 | -108.68 USD |
+| swisstony | 335 | 202 | 153 | -112.58 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -85,6 +85,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will CS Independiente Rivadavia win on 2 | Yes (BUY) | 51% | 0.88 | ⏳ pendiente | — |
+| swisstony | Atlanta Dream vs. Washington Mystics | Washington Mystics (BUY) | 92% | 0.84 | ⏳ pendiente | — |
 | swisstony | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 60% | 1.55 | ⏳ pendiente | — |
 | swisstony | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 51% | 0.80 | ⏳ pendiente | — |
 | swisstony | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 37% | 1.22 | ⏳ pendiente | — |
@@ -113,5 +115,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 24% | 3.36 | ⏳ pendiente | — |
 | swisstony | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 69% | 2.15 | ⏳ pendiente | — |
 | swisstony | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 87% | 53.81 | ⏳ pendiente | — |
-| swisstony | Spread: Phoenix Mercury (-5.5) | Phoenix Mercury (BUY) | 39% | 1.17 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Connecticut Sun | Phoenix Mercury (BUY) | 64% | 5.51 | ⏳ pendiente | — |
