@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 19:22:17 (hora de Perú)
+Actualizado: 2026-08-07 19:24:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.44
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 47 | 22 | 12 | -86.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 310 | 181 | 105 | -100.04 USD |
+| swisstony | 310 | 181 | 107 | -100.04 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -58,6 +58,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | nfl-car-ari-2026-08-07 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465, swisstony |
 | mlb-sd-ari-2026-08-06-total-8pt5 | RN1, swisstony |
 | clf-avl-bmu-2026-08-07-bmu | , RN1, swisstony |
+| wnba-atl-wsh-2026-08-07-total-169pt5 | , swisstony |
 | chi-bgu-xin-2026-08-07-total-3pt5 | RN1, swisstony |
 | chi-bgu-xin-2026-08-07-draw | RN1, swisstony |
 | chi-bgu-xin-2026-08-07-bgu | RN1, swisstony |
@@ -77,6 +78,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 94% | 6.58 | ⏳ pendiente | — |
+| swisstony | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 80% | 1.88 | ⏳ pendiente | — |
 | swisstony | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 93% | 10.65 | ⏳ pendiente | — |
 | swisstony | Spread: Phoenix Mercury (-6.5) | Phoenix Mercury (BUY) | 70% | 1.17 | ⏳ pendiente | — |
 | swisstony | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 92% | 6.37 | ⏳ pendiente | — |
@@ -105,5 +108,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: CA Rosario Central (-1.5) | CA Aldosivi (BUY) | 91% | 2.70 | ⏳ pendiente | — |
 | RN1 | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 41% | 0.95 | ⏳ pendiente | — |
 | swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Under (BUY) | 45% | 1.46 | ⏳ pendiente | — |
-| RN1 | Will CA Rosario Central win on 2026-08-0 | No (BUY) | 58% | 2.31 | ⏳ pendiente | — |
-| RN1 | Will CA Rosario Central vs. CA Aldosivi  | Yes (BUY) | 49% | 2.05 | ⏳ pendiente | — |
