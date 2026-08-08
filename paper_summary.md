@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 10:39:31 (hora de Perú)
+Actualizado: 2026-08-08 10:41:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $602.97
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 4 | 0 | 3 | +9.27 USD |
 | Spicer | 1 | 0 | 4 | +4.87 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| Talvez10 | 0 | 0 | 3 | +0.00 USD |
+| Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | ferrariChampions2026 | 144 | 125 | 9 | -77.52 USD |
-| TAIWANNUMBERONE | 2 | 36 | 0 | -303.20 USD |
+| TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -80,11 +80,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-svd-ksv-2026-08-08-total-3pt5 | RN1, ferrariChampions2026 |
 | bl2-ksc-bie-2026-08-08-total-5pt5 | RN1, ferrariChampions2026 |
 | lol-blg-edg-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
+| lol-dk-kt-2026-08-09 | StasPanda, TAIWANNUMBERONE |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 1.21 | ⏳ pendiente | — |
+| Talvez10 | O/U 2.5 Rounds | Over (BUY) | 36% | 43.81 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 1 | Natus Vincere (BUY) | 95% | 18.63 | ⏳ pendiente | — |
 | Talvez10 | O/U 2.5 Rounds | Over (BUY) | 34% | 3.28 | ⏳ pendiente | — |
 | Talvez10 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 51% | 23.20 | ⏳ pendiente | — |
@@ -113,5 +116,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Cleveland Guardians (-2.5) | Chicago White Sox (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | quavoo | Cleveland Guardians vs. Chicago White So | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 39% | 0.00 | ⏳ pendiente | — |
