@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 14:07:29 (hora de Perú)
+Actualizado: 2026-08-08 14:09:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $619.51
@@ -18,11 +18,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 4 | 2 | 24 | +10.43 USD |
 | Spicer | 5 | 0 | 5 | +6.62 USD |
-| UpTheBlues | 38 | 26 | 11 | +5.74 USD |
+| UpTheBlues | 38 | 26 | 15 | +5.74 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 5 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| StasPanda | 0 | 4 | 3 | +0.00 USD |
+| StasPanda | 0 | 4 | 4 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | 1winstreak1 | 0 | 0 | 3 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 37 | -1.58 USD |
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 149 | 129 | 50 | -76.06 USD |
+| ferrariChampions2026 | 149 | 129 | 51 | -76.06 USD |
 | TAIWANNUMBERONE | 2 | 36 | 2 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -94,6 +94,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-las-min-2026-08-08-spread-home-5pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
 | lol-sk-navi-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
 | wnba-las-min-2026-08-08 | 1winstreak1, HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
+| arg-rie-est-2026-08-08-est | UpTheBlues, ferrariChampions2026 |
 | wnba-las-min-2026-08-08-total-183pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | lol-mkoi-gx-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BrotherObama, ferrariChampions2026 |
 | lol-mkoi-gx-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
@@ -105,6 +106,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will VfL Wolfsburg win on 2026-08-08? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | AZ vs. ADO Den Haag: Both Teams to Score | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | PSV vs. Fortuna Sittard: O/U 3.5 | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | CD Riestra vs. Estudiantes de La Plata:  | Under (BUY) | 97% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Estudiantes de La Plata win on 2026 | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
+| StasPanda | Counter-Strike: Sinners vs EYEBALLERS (B | EYEBALLERS (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will PSV win on 2026-08-08? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CD Riestra win on 2026-08-08? | Yes (BUY) | 79% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will PSV vs. Fortuna Sittard end in a dr | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
@@ -129,9 +136,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 35% | 0.00 | 💰 vendida anticipada | +0.00 |
 | UpTheBlues | Spread: FC Arouca (-1.5) | Vitória SC (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Grêmio FBPA vs. São Paulo FC: O/U 2.5 | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| ThornyDevil | LoL: Movistar KOI vs GIANTX - Game 2 Win | Movistar KOI (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
