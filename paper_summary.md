@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 05:16:16 (hora de Perú)
+Actualizado: 2026-08-08 05:18:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.76
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 12 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 83 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 90 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -54,6 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-det-sf-2026-08-07-spread-home-2pt5 | HomeRunHazard, ferrariChampions2026 |
 | lol-wb-lng-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-laa-mia-2026-08-08-total-8pt5 | HomeRunHazard, quavoo |
+| jap-avi-vis-2026-08-08-spread-away-1pt5 | UpTheBlues, ferrariChampions2026 |
 | cs2-eye-pha-2026-08-08 | TAIWANNUMBERONE, fRibrenlc |
 | lol-t1-hle1-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
 | lol-wb-lng-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
@@ -64,6 +65,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 89% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Vissel Kōbe (-1.5) | Avispa Fukuoka (BUY) | 84% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: FC Tōkyō (-1.5) | FC Machida Zelvia (BUY) | 66% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 89% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 2.5 | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | FC Tōkyō vs. FC Machida Zelvia: O/U 2.5 | Over (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 88% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Vissel Kōbe win on 2026-08-08? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 2. | Over (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 89% | 0.00 | ⏳ pendiente | — |
@@ -87,10 +95,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 1.5 | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 74% | 3.65 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will FC Tōkyō vs. FC Machida Zelvia end  | No (BUY) | 68% | 2.48 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 76% | 10.80 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 23% | 1.74 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 24% | 1.54 | ⏳ pendiente | — |
