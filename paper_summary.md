@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 12:41:47 (hora de Perú)
+Actualizado: 2026-08-08 12:43:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $622.04
@@ -23,13 +23,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 0 | 0 | 5 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 0 | 6 | +0.00 USD |
-| wr0ngw4yb3tt0r | 1 | 1 | 13 | -1.58 USD |
+| wr0ngw4yb3tt0r | 1 | 1 | 14 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 62 | -3.99 USD |
 | ThornyDevil | 3 | 2 | 0 | -16.40 USD |
 | RN1 | 8 | 8 | 1 | -18.32 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 149 | 129 | 0 | -76.06 USD |
+| ferrariChampions2026 | 149 | 129 | 2 | -76.06 USD |
 | TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -90,6 +90,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Southampton FC win on 2026-08-08? | Yes (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Colchester United FC win on 2026-08 | No (BUY) | 91% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 64% | 1.65 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Las Vegas Aces (BUY) | 31% | 3.18 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Las Vegas Aces (BUY) | 31% | 1.10 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Las Vegas Aces (BUY) | 31% | 4.30 | ⏳ pendiente | — |
@@ -117,6 +120,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Spicer | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 61% | 42.94 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 63% | 8.93 | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Storm vs. Portland Fire: O/U 179 | Under (BUY) | 50% | 5.57 | ⏳ pendiente | — |
-| HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 191.5 | Under (BUY) | 51% | 2.89 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Minnesota Lynx (-5.5) | Minnesota Lynx (BUY) | 45% | 2.18 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 48% | 3.73 | ⏳ pendiente | — |
