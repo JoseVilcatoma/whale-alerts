@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 23:09:57 (hora de Perú)
+Actualizado: 2026-08-07 23:11:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $975.63
-**Retorno acumulado:** -2.44%
-**Peor caída desde un máximo (drawdown):** 2.44%
+**Bankroll actual:** $967.77
+**Retorno acumulado:** -3.22%
+**Peor caída desde un máximo (drawdown):** 3.22%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 0 | 0 | 4 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 17 | +0.00 USD |
 | 0x4f2 | 2 | 8 | 17 | -3.13 USD |
-| ferrariChampions2026 | 0 | 2 | 46 | -21.26 USD |
+| ferrariChampions2026 | 0 | 4 | 44 | -29.12 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
