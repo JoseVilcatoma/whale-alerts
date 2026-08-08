@@ -1,5 +1,5 @@
 {
-  "bankroll": 880.1080484998827,
+  "bankroll": 878.1380484998826,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -740,6 +740,96 @@
       "timestamp": 1786191449.64783,
       "bankroll": 880.11,
       "event": "lost: ferrariChampions2026 \u2014 Nagoya Grampus vs. Shimizu S-Pulse: O/U 1.5"
+    },
+    {
+      "timestamp": 1786191498.5065303,
+      "bankroll": 880.11,
+      "event": "lost: ferrariChampions2026 \u2014 Avispa Fukuoka vs. Vissel K\u014dbe: O/U 2.5"
+    },
+    {
+      "timestamp": 1786191501.2101822,
+      "bankroll": 880.11,
+      "event": "lost: ferrariChampions2026 \u2014 Avispa Fukuoka vs. Vissel K\u014dbe: O/U 2.5"
+    },
+    {
+      "timestamp": 1786191501.4531467,
+      "bankroll": 880.11,
+      "event": "lost: ferrariChampions2026 \u2014 Will Avispa Fukuoka vs. Vissel K\u014dbe end in a draw?"
+    },
+    {
+      "timestamp": 1786191501.6920817,
+      "bankroll": 880.11,
+      "event": "lost: ferrariChampions2026 \u2014 Will Avispa Fukuoka win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786191503.6449971,
+      "bankroll": 880.11,
+      "event": "lost: ferrariChampions2026 \u2014 Avispa Fukuoka vs. Vissel K\u014dbe: O/U 2.5"
+    },
+    {
+      "timestamp": 1786191503.845263,
+      "bankroll": 880.11,
+      "event": "lost: ferrariChampions2026 \u2014 Avispa Fukuoka vs. Vissel K\u014dbe: O/U 2.5"
+    },
+    {
+      "timestamp": 1786191512.1703186,
+      "bankroll": 880.11,
+      "event": "lost: ferrariChampions2026 \u2014 Avispa Fukuoka vs. Vissel K\u014dbe: O/U 2.5"
+    },
+    {
+      "timestamp": 1786191559.984437,
+      "bankroll": 880.11,
+      "event": "lost: ferrariChampions2026 \u2014 Will Vissel K\u014dbe win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786191561.3863168,
+      "bankroll": 880.11,
+      "event": "won: ferrariChampions2026 \u2014 Will Vissel K\u014dbe win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786191562.3705995,
+      "bankroll": 880.11,
+      "event": "won: ferrariChampions2026 \u2014 Kashiwa Reysol vs. FC Mito Holly Hock: O/U 2.5"
+    },
+    {
+      "timestamp": 1786191562.9714077,
+      "bankroll": 880.11,
+      "event": "won: ferrariChampions2026 \u2014 Kashiwa Reysol vs. FC Mito Holly Hock: O/U 2.5"
+    },
+    {
+      "timestamp": 1786191563.0715742,
+      "bankroll": 880.11,
+      "event": "won: ferrariChampions2026 \u2014 Will Vissel K\u014dbe win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786191563.271861,
+      "bankroll": 880.11,
+      "event": "won: ferrariChampions2026 \u2014 Will Vissel K\u014dbe win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786191566.2759557,
+      "bankroll": 880.11,
+      "event": "lost: ferrariChampions2026 \u2014 Will Vissel K\u014dbe win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786191572.6830907,
+      "bankroll": 880.11,
+      "event": "lost: ferrariChampions2026 \u2014 Will Vissel K\u014dbe win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786191573.3840985,
+      "bankroll": 880.11,
+      "event": "lost: ferrariChampions2026 \u2014 Will Vissel K\u014dbe win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786191574.5784485,
+      "bankroll": 880.11,
+      "event": "lost: ferrariChampions2026 \u2014 Kashiwa Reysol vs. FC Mito Holly Hock: O/U 2.5"
+    },
+    {
+      "timestamp": 1786191576.520382,
+      "bankroll": 878.14,
+      "event": "lost: ferrariChampions2026 \u2014 Will Vissel K\u014dbe win on 2026-08-08?"
     }
   ]
 }
