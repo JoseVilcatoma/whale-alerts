@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 20:24:59 (hora de Perú)
+Actualizado: 2026-08-07 20:27:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $782.58
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 53 | 26 | 17 | -92.06 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 334 | 200 | 148 | -108.68 USD |
+| swisstony | 334 | 200 | 150 | -108.68 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -85,6 +85,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will CD Universidad Católica vs. CD Cobr | No (BUY) | 74% | 1.58 | ⏳ pendiente | — |
+| swisstony | Will CS Independiente Rivadavia win on 2 | No (BUY) | 46% | 2.36 | ⏳ pendiente | — |
 | swisstony | CS Independiente Rivadavia vs. AA Estudi | Over (BUY) | 43% | 2.25 | ⏳ pendiente | — |
 | swisstony | LDU Quito vs. CSD Independiente del Vall | No (BUY) | 49% | 4.16 | ⏳ pendiente | — |
 | swisstony | Spread: Phoenix Mercury (-6.5) | Connecticut Sun (BUY) | 80% | 1.21 | ⏳ pendiente | — |
@@ -113,5 +115,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will AA Ponte Preta win on 2026-08-07? | No (BUY) | 100% | 3.86 | ⏳ pendiente | — |
 | swisstony | CS Independiente Rivadavia vs. AA Estudi | No (BUY) | 73% | 22.77 | ⏳ pendiente | — |
 | swisstony | CS Independiente Rivadavia vs. AA Estudi | No (BUY) | 73% | 40.39 | ⏳ pendiente | — |
-| swisstony | Cleveland Guardians vs. Chicago White So | Over (BUY) | 80% | 3.49 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Connecticut Sun | Phoenix Mercury (BUY) | 58% | 1.62 | ⏳ pendiente | — |
