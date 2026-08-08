@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.1437916888912,
+  "bankroll": 478.4293140769509,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2940,6 +2940,11 @@
       "timestamp": 1786219845.5525224,
       "bankroll": 477.14,
       "event": "won: UpTheBlues \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 3.5"
+    },
+    {
+      "timestamp": 1786219982.136891,
+      "bankroll": 478.43,
+      "event": "won: UpTheBlues \u2014 Will CA Sarmiento win on 2026-08-08?"
     }
   ]
 }

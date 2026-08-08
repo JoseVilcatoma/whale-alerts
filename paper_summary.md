@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:12:04 (hora de Perú)
+Actualizado: 2026-08-08 15:14:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $477.14
-**Retorno acumulado:** -52.29%
+**Bankroll actual:** $478.43
+**Retorno acumulado:** -52.16%
 **Peor caída desde un máximo (drawdown):** 53.53%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,8 +17,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 5 | 2 | 24 | +12.05 USD |
-| UpTheBlues | 42 | 26 | 30 | +9.02 USD |
-| HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
+| UpTheBlues | 43 | 26 | 32 | +10.31 USD |
+| HomeRunHazard | 8 | 11 | 59 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -110,6 +110,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | St. Truidense VV vs. Lommel SK: O/U 4.5 | Under (BUY) | 93% | 0.99 | ⏳ pendiente | — |
+| UpTheBlues | Grêmio FBPA vs. São Paulo FC: O/U 4.5 | Under (BUY) | 90% | 2.91 | ⏳ pendiente | — |
+| UpTheBlues | Spread: St. Truidense VV (-2.5) | Lommel SK (BUY) | 97% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 47% | 1.11 | ⏳ pendiente | — |
 | UpTheBlues | Will Grenoble Foot 38 win on 2026-08-08? | No (BUY) | 99% | 1.65 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: K27 vs SAW (BO3) - Espor | K27 (BUY) | 70% | 4.21 | ⏳ pendiente | — |
@@ -134,9 +138,5 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | PSV vs. Fortuna Sittard: O/U 3.5 | Under (BUY) | 62% | 7.29 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Agropecuario Argentino (-1.5) | Agropecuario Argentino (BUY) | 99% | 0.54 | ⏳ pendiente | — |
 | UpTheBlues | Agropecuario Argentino vs. CA Guemes: O/ | Under (BUY) | 96% | 1.27 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Sarmiento win on 2026-08-08? | Yes (BUY) | 67% | 2.61 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Sarmiento win on 2026-08-08? | Yes (BUY) | 67% | 2.61 | ✅ ganada | +1.29 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 21% | 0.00 | 💰 vendida anticipada | +0.00 |
-| UpTheBlues | PSV vs. Fortuna Sittard: O/U 1.5 | Over (BUY) | 98% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | PSV vs. Fortuna Sittard: O/U 1.5 | Over (BUY) | 93% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CD Riestra win on 2026-08-08? | Yes (BUY) | 81% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Athletics vs. Boston Red Sox: O/U 8.5 | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
