@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:31:59 (hora de Perú)
+Actualizado: 2026-08-08 15:34:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -13,26 +13,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 26 | 13 | 7 | +57.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 26 | 13 | 8 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 26 | 3 | +9.02 USD |
 | quavoo | 5 | 4 | 24 | +8.84 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| Talvez10 | 0 | 0 | 7 | +0.00 USD |
+| Talvez10 | 0 | 0 | 8 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 4 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 8 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 6 | -12.25 USD |
+| 1winstreak1 | 0 | 3 | 8 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | ferrariChampions2026 | 166 | 138 | 27 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
+| TAIWANNUMBERONE | 2 | 36 | 2 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -107,6 +107,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | Dplus KIA (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 34% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Miami Marlins (-1.5) | Miami Marlins (BUY) | 40% | 0.00 | ⏳ pendiente | — |
+| Talvez10 | O/U 2.5 Rounds | Over (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will São Paulo FC win on 2026-08-08? | No (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | quavoo | Counter-Strike: Eternal Fire vs BIG (BO3 | Eternal Fire (BUY) | 27% | 0.00 | ⏳ pendiente | — |
@@ -132,8 +137,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Cloud9 vs Disguised - Game 1 Winner | Cloud9 (BUY) | 85% | 0.51 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will RC Deportivo De La Coruna win on 20 | No (BUY) | 87% | 0.58 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will RC Deportivo De La Coruna win on 20 | No (BUY) | 86% | 0.76 | ⏳ pendiente | — |
-| UpTheBlues | VfL Wolfsburg vs. 1. FC Kaiserslautern:  | Over (BUY) | 16% | 1.24 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will RC Deportivo De La Coruna win on 20 | No (BUY) | 87% | 0.59 | ⏳ pendiente | — |
-| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 9.5 | Over (BUY) | 45% | 2.22 | ⏳ pendiente | — |
-| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Over (BUY) | 57% | 0.78 | ⏳ pendiente | — |
-| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Under (BUY) | 48% | 1.08 | ⏳ pendiente | — |
