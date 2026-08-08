@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 18:47:24 (hora de Perú)
+Actualizado: 2026-08-08 18:49:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $469.31
-**Retorno acumulado:** -53.07%
+**Bankroll actual:** $469.72
+**Retorno acumulado:** -53.03%
 **Peor caída desde un máximo (drawdown):** 53.54%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 29 | 24 | 35 | +16.40 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 28 | 23 | +7.78 USD |
+| UpTheBlues | 39 | 28 | 24 | +7.78 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 19 | 15 | 7 | -21.10 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 195 | 167 | 39 | -70.25 USD |
+| ferrariChampions2026 | 197 | 167 | 37 | -69.84 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 8 | -303.20 USD |
 
@@ -143,6 +143,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will CA Boca Juniors vs. CA Vélez Sarsfi | Yes (BUY) | 55% | 1.71 | ⏳ pendiente | — |
 | ferrariChampions2026 | Orlando City SC vs. Club León FC: O/U 1. | Over (BUY) | 87% | 0.56 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs Shopify Rebellion - Ga | Sentinels (BUY) | 63% | 1.31 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. CA Vélez Sarsfield:  | Under (BUY) | 60% | 4.22 | ⏳ pendiente | — |
@@ -162,7 +163,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | O/U 2.5 Rounds | Under (BUY) | 64% | 5.57 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 85% | 0.73 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 57% | 0.63 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Bruno Lopes vs. Diyar N | Diyar Nurgozhay (BUY) | 76% | 1.30 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Bruno Lopes vs. Diyar N | Diyar Nurgozhay (BUY) | 76% | 1.30 | ✅ ganada | +0.41 |
 | quavoo | Inter Miami CF vs. CF Monterrey: O/U 3.5 | Under (BUY) | 49% | 0.81 | ⏳ pendiente | — |
 | UpTheBlues | Clube do Remo vs. CA Mineiro: O/U 4.5 | Under (BUY) | 65% | 3.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 86% | 0.82 | ⏳ pendiente | — |
@@ -172,4 +173,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Spread: Colorado Rockies (-2.5) | St. Louis Cardinals (BUY) | 79% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Orlando City SC vs. Club León FC: 1st Ha | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Clube do Remo vs. CA Mineiro: O/U 5.5 | Under (BUY) | 91% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Fluminense FC win on 2026-08-08? | No (BUY) | 71% | 0.00 | ⏳ pendiente | — |

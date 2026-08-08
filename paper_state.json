@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.307934174611,
+  "bankroll": 469.71846049040045,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -3980,6 +3980,16 @@
       "timestamp": 1786232019.1278508,
       "bankroll": 469.31,
       "event": "won: RN1 \u2014 CF Estrela da Amadora vs. Sporting CP: O/U 5.5"
+    },
+    {
+      "timestamp": 1786232896.9322422,
+      "bankroll": 469.31,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Bruno Lopes vs. Diyar Nurgozhay (Light Heavyweight, Main Card)"
+    },
+    {
+      "timestamp": 1786232898.196773,
+      "bankroll": 469.72,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Bruno Lopes vs. Diyar Nurgozhay (Light Heavyweight, Main Card)"
     }
   ]
 }
