@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 13:23:40 (hora de Perú)
+Actualizado: 2026-08-08 13:25:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $618.53
-**Retorno acumulado:** -38.15%
+**Bankroll actual:** $619.51
+**Retorno acumulado:** -38.05%
 **Peor caída desde un máximo (drawdown):** 47.71%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 11 | 6 | +61.01 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 11 | 5 | +61.99 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 4 | 2 | 24 | +10.43 USD |
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 149 | 129 | 26 | -76.06 USD |
+| ferrariChampions2026 | 149 | 129 | 27 | -76.06 USD |
 | TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -99,6 +99,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 86% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Estudiantes de La Plata win on 2026 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Estudiantes de La Plata win on 2026 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
@@ -128,4 +129,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | LoL: Movistar KOI vs GIANTX - Game 1 Win | Movistar KOI (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Las Vegas Aces vs. Minnesota Lynx | Las Vegas Aces (BUY) | 30% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Estudiantes de La Plata win on 2026 | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 192.5 | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |

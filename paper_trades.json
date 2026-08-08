@@ -12442,8 +12442,8 @@
     "whale_pct": 3.089,
     "paper_stake_usd": 18.63,
     "odds_at_bet": 95,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.98,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786203361.3890624,
@@ -14335,6 +14335,29 @@
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786213408.7869911,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786213439,
+    "timestamp_added": 1786213439.8626037,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-las-min-2026-08-08",
+    "title": "Las Vegas Aces vs. Minnesota Lynx",
+    "outcome": "Minnesota Lynx",
+    "side": "BUY",
+    "whale_usd": 3017.6211000000003,
+    "whale_pct": 0.635,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786213439.8626134,
     "fills": 1
   }
 ]

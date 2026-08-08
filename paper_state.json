@@ -1,5 +1,5 @@
 {
-  "bankroll": 618.5341402686126,
+  "bankroll": 619.5146665844021,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2540,6 +2540,11 @@
       "timestamp": 1786213401.569172,
       "bankroll": 618.53,
       "event": "lost: quavoo \u2014 Racing Club De Lens vs. Sunderland AFC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786213460.9100597,
+      "bankroll": 619.51,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: SK Gaming vs Natus Vincere - Game 1 Winner"
     }
   ]
 }
