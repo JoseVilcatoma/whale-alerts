@@ -1,5 +1,5 @@
 {
-  "bankroll": 949.2105122849463,
+  "bankroll": 949.2421284465624,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -320,6 +320,11 @@
       "timestamp": 1786166256.642761,
       "bankroll": 949.21,
       "event": "won: HomeRunHazard \u2014 Atlanta Braves vs. New York Yankees: O/U 5.5"
+    },
+    {
+      "timestamp": 1786169406.0788305,
+      "bankroll": 949.24,
+      "event": "won: UpTheBlues \u2014 CS Cartagin\u00e9s vs. Sporting FC: O/U 2.5"
     }
   ]
 }
