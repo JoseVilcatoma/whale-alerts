@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:49:14 (hora de Perú)
+Actualizado: 2026-08-08 16:51:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -17,15 +17,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
-| quavoo | 5 | 4 | 57 | +8.84 USD |
+| quavoo | 5 | 4 | 63 | +8.84 USD |
 | HomeRunHazard | 8 | 11 | 65 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 14 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 14 | 11 | 13 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 49 | -12.25 USD |
+| wr0ngw4yb3tt0r | 14 | 11 | 15 | -11.76 USD |
+| 1winstreak1 | 0 | 3 | 50 | -12.25 USD |
 | ThornyDevil | 3 | 4 | 2 | -16.40 USD |
 | RN1 | 8 | 9 | 16 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -65,7 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-wb-lng-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-laa-mia-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard, quavoo |
 | jap-avi-vis-2026-08-08-spread-away-1pt5 | UpTheBlues, ferrariChampions2026 |
-| mlb-oak-bos-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026 |
+| mlb-oak-bos-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tor-phi-2026-08-08-total-9pt5 | HomeRunHazard, Talvez10, ferrariChampions2026, quavoo |
 | mlb-lad-ari-2026-08-08-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-185pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -125,6 +125,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| quavoo | Las Vegas Aces vs. New York Liberty | New York Liberty (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 9.5 | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Athletics vs. Boston Red Sox: O/U 9.5 | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Athletics (-1.5) | Boston Red Sox (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CA River Plate win on 2026-08-08? | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
 | StasPanda | Map Handicap: HERO (-1.5) vs ASTRAL (+1. | Heroic (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | quavoo | Las Vegas Aces vs. New York Liberty | New York Liberty (BUY) | 58% | 0.00 | ⏳ pendiente | — |
@@ -146,12 +155,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Boston Red Sox (-2.5) | Athletics (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 20% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| StasPanda | Counter-Strike: JiJieHao vs DENDELE CS ( | DENDELE CS (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Boston Red Sox (-1.5) | Athletics (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: New York Yankees (-2.5) | Atlanta Braves (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Athletics vs. Boston Red Sox: O/U 10.5 | Over (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 77% | 0.00 | ⏳ pendiente | — |
