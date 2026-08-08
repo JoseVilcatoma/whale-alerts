@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:44:31 (hora de Perú)
+Actualizado: 2026-08-08 15:46:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -17,15 +17,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 26 | 7 | +9.02 USD |
-| quavoo | 5 | 4 | 28 | +8.84 USD |
+| quavoo | 5 | 4 | 29 | +8.84 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 12 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 4 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 14 | 11 | 9 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 11 | -12.25 USD |
+| wr0ngw4yb3tt0r | 14 | 11 | 10 | -11.76 USD |
+| 1winstreak1 | 0 | 3 | 12 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-atl-nyy-2026-08-08-total-7pt5 | 1winstreak1, HomeRunHazard |
 | mlb-atl-nyy-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard |
 | lol-dk-kt-2026-08-09 | StasPanda, TAIWANNUMBERONE |
-| wnba-ind-chi-2026-08-08-total-190pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| wnba-ind-chi-2026-08-08-total-190pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-spread-home-4pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ufc-dar3-yad-2026-08-08-totals-2pt5 | Talvez10, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-181pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -102,11 +102,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-mkoi-gx-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BrotherObama, ferrariChampions2026 |
 | lol-mkoi-gx-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
 | wnba-las-min-2026-08-08-total-182pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| ufc-gcanut-car24-2026-08-08-totals-2pt5 | Talvez10, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Valorant: KRÜ Esports vs Sentinels (BO3) | KRÜ Esports (BUY) | 28% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 68% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | O/U 2.5 Rounds | Under (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Real Betis Seville vs. AFC Bournemouth:  | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | quavoo | Counter-Strike: 1WIN vs Liquid (BO3) - E | 1WIN (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Tigre vs. CA River Plate end in  | Yes (BUY) | 43% | 0.00 | ⏳ pendiente | — |
@@ -134,6 +138,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | UFC Fight Night: Juliana Miller vs. Rave | Juliana Miller (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | Dplus KIA (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 34% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Miami Marlins (-1.5) | Miami Marlins (BUY) | 40% | 0.00 | ⏳ pendiente | — |

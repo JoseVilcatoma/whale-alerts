@@ -16150,5 +16150,70 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786221854.8667786,
     "fills": 1
+  },
+  {
+    "timestamp": 1786221888,
+    "timestamp_added": 1786221889.182906,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-gcanut-car24-2026-08-08-totals-2pt5",
+    "title": "O/U 2.5 Rounds",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 432.10524399999997,
+    "whale_pct": 0.126,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786221889.182915,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786221890,
+    "timestamp_added": 1786221890.8883219,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "wnba-ind-chi-2026-08-08-total-190pt5",
+    "title": "Indiana Fever vs. Chicago Sky: O/U 190.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 122.4,
+    "whale_pct": 1.757,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786221890.8883307,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786221965,
+    "timestamp_added": 1786221965.943251,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "val-kru1-sen-2026-08-08",
+    "title": "Valorant: KR\u00dc Esports vs Sentinels (BO3) - VCT Americas Stage 2 Group Omega",
+    "outcome": "KR\u00dc Esports",
+    "side": "BUY",
+    "whale_usd": 140.84,
+    "whale_pct": 0.135,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 28,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786221965.9432616,
+    "fills": 1
   }
 ]
