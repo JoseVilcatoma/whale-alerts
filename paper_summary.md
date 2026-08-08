@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 23:11:59 (hora de Perú)
+Actualizado: 2026-08-07 23:14:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $967.77
-**Retorno acumulado:** -3.22%
-**Peor caída desde un máximo (drawdown):** 3.22%
+**Bankroll actual:** $961.39
+**Retorno acumulado:** -3.86%
+**Peor caída desde un máximo (drawdown):** 3.88%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -17,9 +17,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 0 | 0 | 4 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 4 | +0.00 USD |
-| UpTheBlues | 0 | 0 | 17 | +0.00 USD |
+| UpTheBlues | 0 | 0 | 20 | +0.00 USD |
 | 0x4f2 | 2 | 8 | 17 | -3.13 USD |
-| ferrariChampions2026 | 0 | 4 | 44 | -29.12 USD |
+| ferrariChampions2026 | 1 | 5 | 44 | -35.50 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -37,12 +37,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-lad-ari-2026-08-07-spread-away-2pt5 | 0x4f2, HomeRunHazard |
 | mlb-hou-sd-2026-08-07-total-8pt5 | 0x4f2, RN1 |
 | lec-vwh-jua-2026-08-07-jua | UpTheBlues, ferrariChampions2026 |
+| lec-vwh-jua-2026-08-07-total-4pt5 | UpTheBlues, ferrariChampions2026 |
 | lec-vwh-jua-2026-08-07-draw | UpTheBlues, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Under (BUY) | 93% | 2.09 | ⏳ pendiente | — |
+| UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Under (BUY) | 26% | 1.74 | ⏳ pendiente | — |
+| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Under (BUY) | 75% | 1.69 | ⏳ pendiente | — |
+| UpTheBlues | Will FC Juárez win on 2026-08-07? | No (BUY) | 77% | 26.35 | ⏳ pendiente | — |
+| UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 21% | 2.02 | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 40% | 1.12 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: San Francisco Giants (-2.5) | Detroit Tigers (BUY) | 45% | 1.15 | ⏳ pendiente | — |
 | greyoctober | Valorant: DRX vs T1 (BO3) - VCT Pacific  | T1 (BUY) | 63% | 7.15 | ⏳ pendiente | — |
@@ -68,8 +74,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 44% | 1.14 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 58% | 3.21 | ⏳ pendiente | — |
 | greyoctober | Valorant: KeepBest Gaming vs FunPlus Pho | FunPlus Phoenix (BUY) | 70% | 6.19 | ⏳ pendiente | — |
-| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 45% | 1.29 | ⏳ pendiente | — |
-| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 48% | 1.31 | ⏳ pendiente | — |
-| greyoctober | Valorant: DRX vs T1 (BO3) - VCT Pacific  | T1 (BUY) | 63% | 4.53 | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 60% | 5.75 | ⏳ pendiente | — |
-| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Under (BUY) | 91% | 1.14 | ⏳ pendiente | — |
