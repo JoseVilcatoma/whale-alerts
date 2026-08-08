@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 22:04:09 (hora de Perú)
+Actualizado: 2026-08-07 22:06:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -14,17 +14,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x4f2 | 0 | 0 | 4 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 14 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 16 | +0.00 USD |
 | greyoctober | 0 | 0 | 1 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
-_Todavía no hubo coincidencias._
+| Mercado | Vigilados que coincidieron |
+|---|---|
+| mlb-lad-ari-2026-08-07-total-6pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 47% | 4.80 | ⏳ pendiente | — |
+| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 76% | 1.56 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 63% | 4.99 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 33% | 6.37 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 50% | 11.13 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 52% | 11.26 | ⏳ pendiente | — |
