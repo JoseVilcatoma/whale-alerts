@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:46:05 (hora de Perú)
+Actualizado: 2026-08-08 06:48:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $872.08
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 2 | 2 | 9 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 31 | -9.46 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
-| ferrariChampions2026 | 32 | 20 | 218 | -67.78 USD |
+| ferrariChampions2026 | 32 | 20 | 220 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -78,6 +78,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Holstein Kiel win on 2026-08-08? | No (BUY) | 20% | 1.29 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | Sanfrecce Hiroshima (BUY) | 45% | 1.98 | ⏳ pendiente | — |
 | ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 62% | 2.76 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 83% | 4.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 83% | 1.94 | ⏳ pendiente | — |
@@ -106,5 +108,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Cerezo Ōsaka (-1.5) | Cerezo Ōsaka (BUY) | 24% | 1.10 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Inter Milano win on 2026-08-08? | Yes (BUY) | 57% | 1.15 | ⏳ pendiente | — |
 | RN1 | Qingdao Hainiu FC vs. Shanghai Shenhua F | Over (BUY) | 74% | 1.31 | ⏳ pendiente | — |
-| RN1 | Will Bayer Leverkusen win on 2026-08-08? | No (BUY) | 50% | 3.68 | ⏳ pendiente | — |
-| ferrariChampions2026 | SV Darmstadt 98 vs. Holstein Kiel: O/U 3 | Over (BUY) | 44% | 1.92 | ⏳ pendiente | — |
