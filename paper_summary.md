@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 04:48:50 (hora de Perú)
+Actualizado: 2026-08-08 04:50:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $922.00
-**Retorno acumulado:** -7.80%
+**Bankroll actual:** $929.06
+**Retorno acumulado:** -7.09%
 **Peor caída desde un máximo (drawdown):** 10.06%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -25,8 +25,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
-| UpTheBlues | 14 | 18 | 14 | -16.52 USD |
-| ferrariChampions2026 | 31 | 20 | 35 | -67.78 USD |
+| UpTheBlues | 16 | 18 | 12 | -9.46 USD |
+| ferrariChampions2026 | 31 | 20 | 36 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -63,6 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Gimcheon Sangmu FC vs. FC Seoul: O/U 2.5 | Under (BUY) | 48% | 2.12 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Boston Red Sox: O/U 8.5 | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 66% | 0.00 | ⏳ pendiente | — |
@@ -92,4 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 30% | 0.00 | 💰 vendida anticipada | +0.00 |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports - Game 2  | Hanwha Life Esports (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 35% | 0.00 | 💰 vendida anticipada | +0.00 |

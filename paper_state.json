@@ -1,5 +1,5 @@
 {
-  "bankroll": 922.0041534057688,
+  "bankroll": 929.0606650336757,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -635,6 +635,16 @@
       "timestamp": 1786181156.9866767,
       "bankroll": 922.0,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs Hanwha Life Esports - Game 2 Winner (+0.00 USD)"
+    },
+    {
+      "timestamp": 1786182585.5010107,
+      "bankroll": 928.77,
+      "event": "won: UpTheBlues \u2014 Hokkaid\u014d Consadole Sapporo vs. Tokushima Vortis: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1786182588.5037973,
+      "bankroll": 929.06,
+      "event": "won: UpTheBlues \u2014 Will Tokushima Vortis win on 2026-08-08?"
     }
   ]
 }
