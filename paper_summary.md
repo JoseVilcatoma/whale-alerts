@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:17:52 (hora de Perú)
+Actualizado: 2026-08-08 16:19:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -13,11 +13,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 28 | 13 | 20 | +57.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 28 | 13 | 21 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
-| quavoo | 5 | 4 | 42 | +8.84 USD |
+| quavoo | 5 | 4 | 43 | +8.84 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 14 | +0.00 USD |
@@ -25,14 +25,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 4 | 7 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 11 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 31 | -12.25 USD |
+| 1winstreak1 | 0 | 3 | 33 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
 | RN1 | 8 | 9 | 15 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | ferrariChampions2026 | 168 | 139 | 57 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 2 | 36 | 4 | -303.20 USD |
+| TAIWANNUMBERONE | 2 | 36 | 5 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -60,6 +60,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | chi-hai-sgr-2026-08-08-hai | RN1, UpTheBlues |
 | mlb-det-sf-2026-08-07-spread-home-2pt5 | HomeRunHazard, ferrariChampions2026 |
 | wnba-ind-chi-2026-08-08 | 1winstreak1, HomeRunHazard, ferrariChampions2026 |
+| wnba-ind-chi-2026-08-08-spread-away-6pt5 | 1winstreak1, HomeRunHazard |
 | lol-wb-lng-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-laa-mia-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard, quavoo |
 | jap-avi-vis-2026-08-08-spread-away-1pt5 | UpTheBlues, ferrariChampions2026 |
@@ -118,6 +119,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Indiana Fever (-6.5) | Indiana Fever (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 81% | 0.00 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 18% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | RN1 | CF Estrela da Amadora vs. Sporting CP: O | Under (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 30% | 0.00 | ⏳ pendiente | — |
@@ -143,8 +149,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | CA Tigre vs. CA River Plate: O/U 0.5 | Under (BUY) | 40% | 0.00 | ⏳ pendiente | — |
 | RN1 | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors (BUY) | 31% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CA Tigre win on 2026-08-08? | No (BUY) | 81% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| RN1 | CF Estrela da Amadora vs. Sporting CP: O | Under (BUY) | 65% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 96% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Counter-Strike: 9INE vs HOTU (BO3) - Esp | 9INE (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 91% | 0.00 | ⏳ pendiente | — |
