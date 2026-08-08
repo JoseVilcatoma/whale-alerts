@@ -5522,7 +5522,7 @@
     "whale_pct": 0.888,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -5626,8 +5626,8 @@
     "whale_pct": 0.146,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 36,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786180014.1648536,
@@ -5668,7 +5668,7 @@
     "whale_pct": 14.893,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ferrariChampions2026"
@@ -5690,8 +5690,8 @@
     "whale_pct": 0.148,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 39,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ThornyDevil"
     ],
@@ -5734,7 +5734,7 @@
     "whale_pct": 0.284,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ThornyDevil"
@@ -5756,7 +5756,7 @@
     "whale_pct": 24.124,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ferrariChampions2026"
@@ -5778,8 +5778,8 @@
     "whale_pct": 0.159,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ThornyDevil"
     ],
@@ -5822,8 +5822,8 @@
     "whale_pct": 0.161,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ThornyDevil"
     ],
@@ -5844,8 +5844,8 @@
     "whale_pct": 0.11,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ThornyDevil"
     ],
@@ -5866,8 +5866,8 @@
     "whale_pct": 0.13,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ThornyDevil"
     ],
@@ -5910,8 +5910,8 @@
     "whale_pct": 0.137,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ThornyDevil"
     ],
@@ -5956,7 +5956,7 @@
     "whale_pct": 0.689,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 64,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
@@ -6025,8 +6025,8 @@
     "whale_pct": 0.278,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 31,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "ThornyDevil"
@@ -6117,8 +6117,8 @@
     "whale_pct": 0.282,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 23,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "ThornyDevil"
@@ -6164,8 +6164,8 @@
     "whale_pct": 0.505,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 25,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "ThornyDevil"
@@ -6257,7 +6257,7 @@
     "whale_pct": 2.937,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 77,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
@@ -6280,8 +6280,8 @@
     "whale_pct": 0.247,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 22,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "ThornyDevil"
@@ -6303,7 +6303,7 @@
     "whale_pct": 0.418,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 73,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
@@ -6326,8 +6326,8 @@
     "whale_pct": 0.136,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 82,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "ThornyDevil"
@@ -6349,8 +6349,8 @@
     "whale_pct": 0.667,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 39,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ThornyDevil",
       "ferrariChampions2026"
@@ -6372,8 +6372,8 @@
     "whale_pct": 1.02,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ThornyDevil",
       "ferrariChampions2026"
@@ -6395,7 +6395,7 @@
     "whale_pct": 0.229,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
@@ -6418,8 +6418,8 @@
     "whale_pct": 3.285,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ThornyDevil",
       "ferrariChampions2026"
@@ -6441,7 +6441,7 @@
     "whale_pct": 0.1,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
@@ -6464,8 +6464,8 @@
     "whale_pct": 2.486,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ThornyDevil",
       "ferrariChampions2026"
@@ -6487,7 +6487,7 @@
     "whale_pct": 0.104,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
@@ -6510,8 +6510,8 @@
     "whale_pct": 2.521,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 38,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ThornyDevil",
       "ferrariChampions2026"
@@ -6533,8 +6533,8 @@
     "whale_pct": 6.92,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ThornyDevil",
       "ferrariChampions2026"
@@ -7517,8 +7517,8 @@
     "whale_pct": 0.25,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786184103.1164246,
@@ -7557,7 +7557,7 @@
     "whale_pct": 0.367,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 36,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -7577,7 +7577,7 @@
     "whale_pct": 0.377,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -7640,7 +7640,7 @@
     "whale_pct": 0.122,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 36,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -7683,7 +7683,7 @@
     "whale_pct": 0.423,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -7937,7 +7937,7 @@
     "whale_pct": 0.408,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 73,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -10052,8 +10052,8 @@
     "whale_pct": 0.401,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786187787.9353476,

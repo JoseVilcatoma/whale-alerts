@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 07:24:00 (hora de Perú)
+Actualizado: 2026-08-08 07:26:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $881.71
@@ -14,13 +14,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 2 | 14 | +9.70 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 8 | 8 | +9.70 USD |
 | greyoctober | 4 | 0 | 3 | +9.27 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 20 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
-| ThornyDevil | 0 | 0 | 3 | +0.00 USD |
+| ThornyDevil | 2 | 0 | 1 | +0.00 USD |
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 2 | 2 | 13 | -5.13 USD |
 | UpTheBlues | 19 | 18 | 28 | -5.89 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
-| ferrariChampions2026 | 53 | 63 | 162 | -71.00 USD |
+| ferrariChampions2026 | 66 | 77 | 135 | -71.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
