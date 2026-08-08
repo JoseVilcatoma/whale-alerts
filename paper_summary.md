@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:47:10 (hora de Perú)
+Actualizado: 2026-08-08 16:49:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -17,17 +17,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
-| quavoo | 5 | 4 | 56 | +8.84 USD |
+| quavoo | 5 | 4 | 57 | +8.84 USD |
 | HomeRunHazard | 8 | 11 | 65 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 14 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| StasPanda | 0 | 4 | 8 | +0.00 USD |
+| StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 13 | -11.76 USD |
 | 1winstreak1 | 0 | 3 | 49 | -12.25 USD |
 | ThornyDevil | 3 | 4 | 2 | -16.40 USD |
-| RN1 | 8 | 9 | 15 | -22.00 USD |
+| RN1 | 8 | 9 | 16 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | ferrariChampions2026 | 170 | 139 | 66 | -75.22 USD |
@@ -125,6 +125,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will CA River Plate win on 2026-08-08? | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
+| StasPanda | Map Handicap: HERO (-1.5) vs ASTRAL (+1. | Heroic (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| quavoo | Las Vegas Aces vs. New York Liberty | New York Liberty (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | quavoo | Las Vegas Aces vs. New York Liberty | New York Liberty (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | New England Revolution vs. Houston Dynam | Under (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will CF Monterrey win on 2026-08-08? | Yes (BUY) | 30% | 0.00 | ⏳ pendiente | — |
@@ -152,6 +155,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Athletics vs. Boston Red Sox: O/U 10.5 | Over (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 77% | 0.00 | ⏳ pendiente | — |
-| quavoo | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | Yes (BUY) | 22% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 71% | 0.00 | ⏳ pendiente | — |
