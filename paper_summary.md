@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 22:38:55 (hora de Perú)
+Actualizado: 2026-08-07 22:40:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $995.88
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| ferrariChampions2026 | 0 | 0 | 28 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 30 | +0.00 USD |
 | greyoctober | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 0 | 0 | 4 | +0.00 USD |
@@ -39,6 +39,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 59% | 1.37 | ⏳ pendiente | — |
+| ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 65% | 1.32 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC (BUY) | 36% | 1.34 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Juárez win on 2026-08-07? | No (BUY) | 91% | 2.73 | ⏳ pendiente | — |
 | UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 86% | 3.84 | ⏳ pendiente | — |
@@ -67,5 +69,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Spread: Arizona Diamondbacks (-2.5) | Los Angeles Dodgers (BUY) | 85% | 1.28 | ⏳ pendiente | — |
 | 0x4f2 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 58% | 2.19 | 💰 vendida anticipada | -0.91 |
 | 0x4f2 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 43% | 2.24 | 💰 vendida anticipada | +0.10 |
-| 0x4f2 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 40% | 2.24 | 💰 vendida anticipada | -0.28 |
-| 0x4f2 | Spread: Atlanta Braves (-1.5) | New York Yankees (BUY) | 63% | 2.24 | 💰 vendida anticipada | -1.78 |

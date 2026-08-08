@@ -1317,5 +1317,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786160251.2172341,
     "fills": 1
+  },
+  {
+    "timestamp": 1786160403,
+    "timestamp_added": 1786160404.3213491,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tor-phi-2026-08-07-total-7pt5",
+    "title": "Toronto Blue Jays vs. Philadelphia Phillies: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 531.0500000000001,
+    "whale_pct": 0.132,
+    "paper_stake_usd": 1.32,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x4f2"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786160404.3213568,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786160416,
+    "timestamp_added": 1786160416.7915528,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-vwh-jua-2026-08-07-total-3pt5",
+    "title": "Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 554.4525,
+    "whale_pct": 0.138,
+    "paper_stake_usd": 1.37,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786160416.7915637,
+    "fills": 1
   }
 ]
