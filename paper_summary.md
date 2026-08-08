@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 09:14:23 (hora de Perú)
+Actualizado: 2026-08-08 09:16:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $526.24
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 4 | 6 | 46 | -3.99 USD |
 | RN1 | 2 | 2 | 20 | -5.13 USD |
 | UpTheBlues | 28 | 21 | 16 | -5.52 USD |
-| ferrariChampions2026 | 124 | 107 | 68 | -62.41 USD |
+| ferrariChampions2026 | 124 | 107 | 71 | -62.41 USD |
 | fRibrenlc | 0 | 12 | 8 | -127.91 USD |
 | TAIWANNUMBERONE | 1 | 36 | 1 | -303.20 USD |
 
@@ -87,6 +87,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Portsmouth FC win on 2026-08-08? | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cardiff City FC vs. Swindon Town FC: O/U | Over (BUY) | 83% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Wigan Athletic FC win on 2026-08-08 | No (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Watford FC vs. Crawley Town FC: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Watford FC (-1.5) | Crawley Town FC (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Stoke City FC win on 2026-08-08? | Yes (BUY) | 63% | 0.00 | ⏳ pendiente | — |
@@ -114,6 +117,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Leyton Orient FC vs. Oxford United FC: O | Over (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Tottenham Hotspur win on 2026-08-08 | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Leicester City FC vs. Northampton Town F | Over (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| quavoo | Spread: West Ham United FC (-1.5) | West Ham United FC (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Aberdeen FC win on 2026-08-08? | Yes (BUY) | 41% | 3.45 | ⏳ pendiente | — |
-| RN1 | Will Cardiff City FC win on 2026-08-08? | Yes (BUY) | 74% | 0.33 | ⏳ pendiente | — |
