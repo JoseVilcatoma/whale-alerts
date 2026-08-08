@@ -18274,5 +18274,115 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786223975.8031654,
     "fills": 1
+  },
+  {
+    "timestamp": 1786224019,
+    "timestamp_added": 1786224019.405684,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-c9-dsg-2026-08-08-game2",
+    "title": "LoL: Cloud9 vs Disguised - Game 2 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "whale_usd": 62.6704,
+    "whale_pct": 0.399,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 16,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786224019.4056933,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786224052,
+    "timestamp_added": 1786224052.2901564,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-c9-dsg-2026-08-08-game2",
+    "title": "LoL: Cloud9 vs Disguised - Game 2 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "whale_usd": 111.99980900000001,
+    "whale_pct": 0.712,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 17,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786224056.8557935,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786224099,
+    "timestamp_added": 1786224100.5447626,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-c9-dsg-2026-08-08-game2",
+    "title": "LoL: Cloud9 vs Disguised - Game 2 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "whale_usd": 226.0,
+    "whale_pct": 1.574,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 18,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786224103.124301,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786224104,
+    "timestamp_added": 1786224104.8444028,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-atl-nyy-2026-08-08-total-8pt5",
+    "title": "Atlanta Braves vs. New York Yankees: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1470.1,
+    "whale_pct": 0.235,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786224104.8444283,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786224120,
+    "timestamp_added": 1786224121.1468165,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-c9-dsg-2026-08-08-game2",
+    "title": "LoL: Cloud9 vs Disguised - Game 2 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "whale_usd": 93.39999999999999,
+    "whale_pct": 0.65,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 18,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786224121.146828,
+    "fills": 1
   }
 ]
