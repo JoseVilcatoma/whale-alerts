@@ -13591,8 +13591,8 @@
     "title": "LoL: Movistar KOI vs GIANTX - Game 1 Winner",
     "outcome": "Movistar KOI",
     "side": "BUY",
-    "whale_usd": 6994.642650999997,
-    "whale_pct": 33.676,
+    "whale_usd": 9997.030001999996,
+    "whale_pct": 48.131,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 67,
     "status": "pending",
@@ -13601,8 +13601,8 @@
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
     ],
     "recortado_por_bankroll": true,
-    "last_fill_at": 1786212161.9790866,
-    "fills": 15
+    "last_fill_at": 1786212177.6852362,
+    "fills": 19
   },
   {
     "timestamp": 1786212159,
@@ -13622,6 +13622,48 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786212159.9131715,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786212216,
+    "timestamp_added": 1786212216.967981,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-ind-chi-2026-08-08-total-193pt5",
+    "title": "Indiana Fever vs. Chicago Sky: O/U 193.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1586.002,
+    "whale_pct": 0.33,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786212216.9679909,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786212272,
+    "timestamp_added": 1786212272.9726756,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-dar3-yad-2026-08-08-totals-2pt5",
+    "title": "O/U 2.5 Rounds",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 149.208888,
+    "whale_pct": 0.104,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786212272.9726827,
     "fills": 1
   }
 ]
