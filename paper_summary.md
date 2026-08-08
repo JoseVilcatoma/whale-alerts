@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:33:31 (hora de Perú)
+Actualizado: 2026-08-08 06:35:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $872.08
@@ -25,10 +25,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
-| RN1 | 2 | 2 | 6 | -5.13 USD |
+| RN1 | 2 | 2 | 7 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 31 | -9.46 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
-| ferrariChampions2026 | 32 | 20 | 196 | -67.78 USD |
+| ferrariChampions2026 | 32 | 20 | 199 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -61,6 +61,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jap-cer-fag-2026-08-08-spread-home-1pt5 | UpTheBlues, ferrariChampions2026 |
 | cs2-eye-pha-2026-08-08 | TAIWANNUMBERONE, fRibrenlc |
 | jap-cer-fag-2026-08-08-cer | UpTheBlues, ferrariChampions2026 |
+| bl2-fcm-bra-2026-08-08-bra | RN1, UpTheBlues |
 | lol-t1-hle1-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026, jtwyslljy |
 | lol-wb-lng-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | lol-t1-hle1-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
@@ -75,6 +76,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Nagoya Grampus vs. Shimizu S-Pulse: O/U  | Over (BUY) | 58% | 1.25 | ⏳ pendiente | — |
+| RN1 | Will Eintracht Braunschweig win on 2026- | No (BUY) | 11% | 0.95 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Cerezo Ōsaka (-1.5) | Cerezo Ōsaka (BUY) | 24% | 1.10 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Inter Milano win on 2026-08-08? | Yes (BUY) | 57% | 1.15 | ⏳ pendiente | — |
 | RN1 | Qingdao Hainiu FC vs. Shanghai Shenhua F | Over (BUY) | 74% | 1.31 | ⏳ pendiente | — |
 | RN1 | Will Bayer Leverkusen win on 2026-08-08? | No (BUY) | 50% | 3.68 | ⏳ pendiente | — |
 | ferrariChampions2026 | SV Darmstadt 98 vs. Holstein Kiel: O/U 3 | Over (BUY) | 44% | 1.92 | ⏳ pendiente | — |
@@ -101,7 +106,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Kashiwa Reysol vs. FC Mito Holly Hock: O | Under (BUY) | 29% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | JEF United Ichihara Chiba (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | RN1 | 1. FC Heidenheim 1846 vs. VfL Osnabrück: | Under (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| RN1 | Karlsruher SC vs. DSC Arminia Bielefeld: | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
