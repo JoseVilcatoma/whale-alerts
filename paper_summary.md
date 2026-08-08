@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 09:45:36 (hora de Perú)
+Actualizado: 2026-08-08 09:47:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $582.15
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | Spicer | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 45 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 46 | -3.99 USD |
 | RN1 | 2 | 2 | 13 | -5.13 USD |
 | UpTheBlues | 28 | 22 | 15 | -5.52 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -84,6 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 55% | 10.90 | ⏳ pendiente | — |
 | quavoo | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 60% | 2.63 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 41% | 4.38 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 48% | 1.04 | ⏳ pendiente | — |
@@ -113,4 +114,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs EDward Gaming -  | EDward Gaming (BUY) | 6% | 9.49 | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 53% | 6.53 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 36% | 2.78 | ⏳ pendiente | — |
-| Spicer | LoL: Bilibili Gaming vs EDward Gaming -  | Bilibili Gaming (BUY) | 79% | 18.33 | ⏳ pendiente | — |
