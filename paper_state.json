@@ -1,5 +1,5 @@
 {
-  "bankroll": 602.9713395294398,
+  "bankroll": 607.6021385609167,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2350,6 +2350,36 @@
       "timestamp": 1786203313.2841496,
       "bankroll": 602.97,
       "event": "won: UpTheBlues \u2014 Spread: Nantong Zhiyun (-1.5)"
+    },
+    {
+      "timestamp": 1786203927.9313579,
+      "bankroll": 605.62,
+      "event": "won: greyoctober \u2014 Valorant: KeepBest Gaming vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786203928.0315142,
+      "bankroll": 606.04,
+      "event": "won: greyoctober \u2014 Valorant: KeepBest Gaming vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786203928.8507402,
+      "bankroll": 606.66,
+      "event": "won: greyoctober \u2014 Valorant: KeepBest Gaming vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786203943.856366,
+      "bankroll": 606.66,
+      "event": "lost: UpTheBlues \u2014 Will Shaanxi Union FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786203944.8496754,
+      "bankroll": 606.66,
+      "event": "lost: ferrariChampions2026 \u2014 Will Karlsruher SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786203947.8896298,
+      "bankroll": 607.6,
+      "event": "won: RN1 \u2014 Will Karlsruher SC win on 2026-08-08?"
     }
   ]
 }

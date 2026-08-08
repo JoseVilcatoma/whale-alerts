@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 10:43:38 (hora de Perú)
+Actualizado: 2026-08-08 10:45:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $602.97
-**Retorno acumulado:** -39.70%
+**Bankroll actual:** $607.60
+**Retorno acumulado:** -39.24%
 **Peor caída desde un máximo (drawdown):** 47.71%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 10 | 1 | +61.27 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| greyoctober | 4 | 0 | 3 | +9.27 USD |
+| greyoctober | 7 | 0 | 0 | +12.95 USD |
 | Spicer | 1 | 0 | 4 | +4.87 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
@@ -24,12 +24,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
 | quavoo | 0 | 1 | 29 | -3.64 USD |
 | HomeRunHazard | 4 | 6 | 51 | -3.99 USD |
-| UpTheBlues | 35 | 23 | 7 | -4.84 USD |
-| RN1 | 6 | 6 | 5 | -6.29 USD |
+| UpTheBlues | 35 | 24 | 6 | -4.84 USD |
+| RN1 | 7 | 6 | 4 | -5.34 USD |
 | ThornyDevil | 3 | 2 | 0 | -16.40 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 144 | 125 | 9 | -77.52 USD |
+| ferrariChampions2026 | 144 | 126 | 8 | -77.52 USD |
 | TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
