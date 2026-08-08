@@ -16837,14 +16837,15 @@
     "whale_pct": 10.025,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786222847.6611161,
-    "fills": 11
+    "fills": 11,
+    "closed_price": 65
   },
   {
     "timestamp": 1786222854,
@@ -16864,6 +16865,139 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786222854.7862809,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786222876,
+    "timestamp_added": 1786222877.186573,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-laa-mia-2026-08-08-total-8pt5",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 92.42000000000002,
+    "whale_pct": 1.223,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786222877.1865869,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786222883,
+    "timestamp_added": 1786222883.63669,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-gcanut-car24-2026-08-08",
+    "title": "UFC Fight Night: Gigi Canuto vs. Carol Foro (Women's Strawweight, Prelims)",
+    "outcome": "Gigi Canuto",
+    "side": "BUY",
+    "whale_usd": 510.00000000000006,
+    "whale_pct": 0.117,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786222883.6366997,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786222899,
+    "timestamp_added": 1786222899.7121367,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-jul11-rav-2026-08-08",
+    "title": "UFC Fight Night: Juliana Miller vs. Ravena Oliveira (Women's Flyweight, Prelims)",
+    "outcome": "Juliana Miller",
+    "side": "BUY",
+    "whale_usd": 950.0,
+    "whale_pct": 0.345,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786222899.712148,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786222937,
+    "timestamp_added": 1786222937.545759,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-atl-nyy-2026-08-08-total-7pt5",
+    "title": "Atlanta Braves vs. New York Yankees: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 999.9969,
+    "whale_pct": 0.291,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786222937.5457706,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786222963,
+    "timestamp_added": 1786222963.6287665,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-laa-mia-2026-08-08-total-7pt5",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 4060.0000000000005,
+    "whale_pct": 0.931,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786222963.6287787,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786222987,
+    "timestamp_added": 1786222987.1514444,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-laa-mia-2026-08-08-total-7pt5",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3979.2500000000005,
+    "whale_pct": 0.912,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786222987.1514552,
     "fills": 1
   }
 ]

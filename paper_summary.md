@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:01:05 (hora de Perú)
+Actualizado: 2026-08-08 16:03:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -13,24 +13,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 26 | 13 | 17 | +57.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 27 | 13 | 16 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
 | quavoo | 5 | 4 | 35 | +8.84 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| Talvez10 | 0 | 0 | 13 | +0.00 USD |
+| Talvez10 | 0 | 0 | 14 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 6 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 14 | 11 | 10 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 19 | -12.25 USD |
+| wr0ngw4yb3tt0r | 14 | 11 | 11 | -11.76 USD |
+| 1winstreak1 | 0 | 3 | 20 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 166 | 138 | 41 | -75.22 USD |
+| ferrariChampions2026 | 166 | 138 | 44 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 4 | -303.20 USD |
 
@@ -89,7 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-ksc-bie-2026-08-08-total-5pt5 | RN1, ferrariChampions2026 |
 | lol-blg-edg-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
 | mlb-laa-mia-2026-08-08-total-6pt5 | 1winstreak1, HomeRunHazard |
-| mlb-atl-nyy-2026-08-08-total-7pt5 | 1winstreak1, HomeRunHazard |
+| mlb-atl-nyy-2026-08-08-total-7pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-atl-nyy-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard |
 | lol-dk-kt-2026-08-09 | StasPanda, TAIWANNUMBERONE |
 | wnba-ind-chi-2026-08-08-total-190pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
@@ -106,14 +106,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cs2-ice-is-2026-08-09 | StasPanda, quavoo |
 | ufc-gcanut-car24-2026-08-08 | Talvez10, ferrariChampions2026, quavoo |
 | ufc-gcanut-car24-2026-08-08-totals-2pt5 | Talvez10, wr0ngw4yb3tt0r |
+| mlb-laa-mia-2026-08-08-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 | lol-c9-dsg-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| Talvez10 | UFC Fight Night: Juliana Miller vs. Rave | Juliana Miller (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 40% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 61% | 0.00 | 💰 vendida anticipada | +0.00 |
 | quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 20% | 0.00 | ⏳ pendiente | — |
 | quavoo | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
@@ -136,9 +143,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Counter-Strike: Prestige vs Betclic Apog | Prestige (BUY) | 28% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will CA Boca Juniors win on 2026-08-08? | Yes (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Cúcuta Deportivo FC win on 2026-08- | Yes (BUY) | 20% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Grêmio FBPA vs. São Paulo FC: O/U 3.5 | Over (BUY) | 19% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Athletics vs. Boston Red Sox: O/U 7.5 | Over (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Athletics vs. Boston Red Sox: O/U 9.5 | Over (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 59% | 0.00 | ⏳ pendiente | — |
