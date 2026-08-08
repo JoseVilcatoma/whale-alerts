@@ -12634,5 +12634,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786204530.1406848,
     "fills": 1
+  },
+  {
+    "timestamp": 1786204653,
+    "timestamp_added": 1786204654.0141628,
+    "username": "Spicer",
+    "wallet": "0x3954e1c6b7bc5645d9d3425a6f4490889ef122d9",
+    "slug": "lol-sk-navi-2026-08-08-game2",
+    "title": "LoL: SK Gaming vs Natus Vincere - Game 2 Winner",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "whale_usd": 14301.841024,
+    "whale_pct": 44.39,
+    "paper_stake_usd": 85.83,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786204658.702212,
+    "fills": 2
   }
 ]
