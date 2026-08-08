@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.143791688891,
+  "bankroll": 473.933791688891,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2875,6 +2875,36 @@
       "timestamp": 1786220289.3876495,
       "bankroll": 477.14,
       "event": "lost: 1winstreak1 \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 182.5"
+    },
+    {
+      "timestamp": 1786220585.0988472,
+      "bankroll": 473.93,
+      "event": "lost: quavoo \u2014 Will Tottenham Hotspur win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786220591.4256089,
+      "bankroll": 473.93,
+      "event": "lost: quavoo \u2014 Will Tottenham Hotspur win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786220598.1787622,
+      "bankroll": 473.93,
+      "event": "won: ferrariChampions2026 \u2014 Will CD Riestra win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786220600.2619975,
+      "bankroll": 473.93,
+      "event": "lost: ferrariChampions2026 \u2014 Will CD Riestra win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786220600.8096368,
+      "bankroll": 473.93,
+      "event": "won: ferrariChampions2026 \u2014 Will CD Riestra win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786220601.3534691,
+      "bankroll": 473.93,
+      "event": "lost: ferrariChampions2026 \u2014 Will CD Riestra win on 2026-08-08?"
     }
   ]
 }

@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:21:46 (hora de Perú)
+Actualizado: 2026-08-08 15:23:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $477.14
-**Retorno acumulado:** -52.29%
-**Peor caída desde un máximo (drawdown):** 52.29%
+**Bankroll actual:** $473.93
+**Retorno acumulado:** -52.61%
+**Peor caída desde un máximo (drawdown):** 52.61%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -16,13 +16,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 26 | 13 | 1 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| quavoo | 5 | 2 | 24 | +12.05 USD |
 | UpTheBlues | 39 | 26 | 3 | +9.02 USD |
+| quavoo | 5 | 4 | 22 | +8.84 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 5 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| StasPanda | 0 | 4 | 2 | +0.00 USD |
+| StasPanda | 0 | 4 | 3 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 8 | -11.76 USD |
 | 1winstreak1 | 0 | 3 | 3 | -12.25 USD |
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 162 | 136 | 24 | -75.22 USD |
+| ferrariChampions2026 | 164 | 138 | 23 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
@@ -105,6 +105,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| StasPanda | Counter-Strike: Virtus.pro vs Sashi Espo | Virtus.pro (BUY) | 56% | 0.51 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Cloud9 vs Disguised - Game 1 Winner | Cloud9 (BUY) | 83% | 0.51 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Cloud9 vs Disguised - Game 1 Winner | Cloud9 (BUY) | 85% | 0.51 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will RC Deportivo De La Coruna win on 20 | No (BUY) | 87% | 0.58 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will RC Deportivo De La Coruna win on 20 | No (BUY) | 86% | 0.76 | ⏳ pendiente | — |
 | UpTheBlues | VfL Wolfsburg vs. 1. FC Kaiserslautern:  | Over (BUY) | 16% | 1.24 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will RC Deportivo De La Coruna win on 20 | No (BUY) | 87% | 0.59 | ⏳ pendiente | — |
@@ -125,13 +129,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 63% | 0.00 | ✅ ganada | +0.00 |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 46% | 0.00 | ✅ ganada | +0.00 |
-| ferrariChampions2026 | Will CD Riestra win on 2026-08-08? | No (BUY) | 27% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CD Riestra win on 2026-08-08? | No (BUY) | 27% | 0.00 | ❌ perdida | -0.00 |
 | 1winstreak1 | Spread: Minnesota Lynx (-5.5) | Las Vegas Aces (BUY) | 30% | 0.00 | ❌ perdida | -0.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | Movistar KOI (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 68% | 0.00 | ✅ ganada | +0.00 |
 | ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 31% | 0.00 | ❌ perdida | -0.00 |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 46% | 0.00 | ❌ perdida | -0.00 |
-| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Las Vegas Aces vs. Minnesota Lynx | Las Vegas Aces (BUY) | 23% | 12.25 | ❌ perdida | -12.25 |
-| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 70% | 0.91 | ✅ ganada | +0.39 |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 76% | 2.07 | ✅ ganada | +0.65 |
