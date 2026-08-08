@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 19:45:23 (hora de Perú)
+Actualizado: 2026-08-07 19:47:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.75
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 47 | 22 | 19 | -86.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 312 | 181 | 127 | -99.73 USD |
+| swisstony | 312 | 181 | 129 | -99.73 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -79,6 +79,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Phoenix Mercury (-6.5) | Phoenix Mercury (BUY) | 58% | 1.31 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Connecticut Sun | Phoenix Mercury (BUY) | 82% | 2.78 | ⏳ pendiente | — |
 | swisstony | Cleveland Guardians vs. Chicago White So | Under (BUY) | 62% | 3.12 | ⏳ pendiente | — |
 | swisstony | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 82% | 1.21 | ⏳ pendiente | — |
 | swisstony | Atlanta Dream vs. Washington Mystics | Washington Mystics (BUY) | 75% | 1.67 | ⏳ pendiente | — |
@@ -107,5 +109,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will São Bernardo FC win on 2026-08-07? | Yes (BUY) | 99% | 2.50 | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. St. Louis Cardinals | Under (BUY) | 66% | 0.93 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Connecticut Sun: O/U | Under (BUY) | 93% | 1.68 | ⏳ pendiente | — |
-| swisstony | Spread: CA Rosario Central (-1.5) | CA Aldosivi (BUY) | 86% | 0.85 | ⏳ pendiente | — |
-| swisstony | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 94% | 6.58 | ⏳ pendiente | — |
