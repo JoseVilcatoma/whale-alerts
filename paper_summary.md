@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 23:20:18 (hora de Perú)
+Actualizado: 2026-08-07 23:22:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $961.62
-**Retorno acumulado:** -3.84%
+**Bankroll actual:** $977.05
+**Retorno acumulado:** -2.30%
 **Peor caída desde un máximo (drawdown):** 3.88%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,17 +14,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | greyoctober | 0 | 0 | 6 | +0.00 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
 | RN1 | 0 | 0 | 4 | +0.00 USD |
-| HomeRunHazard | 0 | 0 | 6 | +0.00 USD |
+| HomeRunHazard | 0 | 0 | 8 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 33 | +0.00 USD |
 | 0x4f2 | 3 | 8 | 16 | -2.90 USD |
-| ferrariChampions2026 | 1 | 5 | 44 | -35.50 USD |
+| ferrariChampions2026 | 7 | 6 | 38 | -20.09 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
 | Mercado | Vigilados que coincidieron |
 |---|---|
+| mlb-det-sf-2026-08-07-total-8pt5 | 0x4f2, wr0ngw4yb3tt0r |
 | mlb-det-sf-2026-08-07-spread-home-1pt5 | 0x4f2, RN1, ferrariChampions2026 |
 | mlb-tor-phi-2026-08-07-total-8pt5 | 0x4f2, ferrariChampions2026 |
 | mlb-tor-phi-2026-08-07-total-7pt5 | 0x4f2, ferrariChampions2026 |
@@ -35,17 +36,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tor-phi-2026-08-07-spread-away-1pt5 | 0x4f2, ferrariChampions2026 |
 | lec-vwh-jua-2026-08-07-total-3pt5 | UpTheBlues, ferrariChampions2026 |
 | mlb-det-sf-2026-08-07-total-9pt5 | 0x4f2, RN1 |
+| mlb-det-sf-2026-08-07-total-7pt5 | 0x4f2, HomeRunHazard |
 | mlb-lad-ari-2026-08-07-spread-away-2pt5 | 0x4f2, HomeRunHazard |
 | mlb-hou-sd-2026-08-07-total-8pt5 | 0x4f2, RN1 |
 | lec-vwh-jua-2026-08-07-vwh | UpTheBlues, ferrariChampions2026 |
 | lec-vwh-jua-2026-08-07-jua | UpTheBlues, ferrariChampions2026 |
 | lec-vwh-jua-2026-08-07-total-4pt5 | UpTheBlues, ferrariChampions2026 |
 | lec-vwh-jua-2026-08-07-draw | UpTheBlues, ferrariChampions2026 |
+| mlb-det-sf-2026-08-07-spread-home-2pt5 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 55% | 5.24 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: San Francisco Giants (-2.5) | Detroit Tigers (BUY) | 46% | 2.59 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: San Francisco Giants (-2.5) | Detroit Tigers (BUY) | 44% | 1.65 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 41% | 6.99 | ⏳ pendiente | — |
 | UpTheBlues | Spread: FC Juárez (-1.5) | Vancouver Whitecaps FC (BUY) | 93% | 2.38 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Juárez win on 2026-08-07? | Yes (BUY) | 52% | 3.26 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 75% | 2.49 | ⏳ pendiente | — |
@@ -72,7 +79,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | Valorant: DRX vs T1 (BO3) - VCT Pacific  | T1 (BUY) | 63% | 7.15 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 55% | 2.70 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 46% | 5.21 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 45% | 1.05 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Vancouver Whitecaps FC vs. FC Juáre | No (BUY) | 66% | 1.01 | ⏳ pendiente | — |
-| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 37% | 1.01 | ⏳ pendiente | — |
-| 0x4f2 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 50% | 2.28 | ⏳ pendiente | — |

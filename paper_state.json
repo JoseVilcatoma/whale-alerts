@@ -1,5 +1,5 @@
 {
-  "bankroll": 961.6194348161727,
+  "bankroll": 977.0460744375384,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -80,6 +80,41 @@
       "timestamp": 1786162800.6828578,
       "bankroll": 961.62,
       "event": "won: 0x4f2 \u2014 Spread: Philadelphia Phillies (-1.5)"
+    },
+    {
+      "timestamp": 1786162927.0643487,
+      "bankroll": 967.48,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786162928.38063,
+      "bankroll": 962.49,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Toronto Blue Jays (-1.5)"
+    },
+    {
+      "timestamp": 1786162933.9137676,
+      "bankroll": 966.33,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786162934.414566,
+      "bankroll": 968.65,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786162934.7149978,
+      "bankroll": 970.98,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786162934.815142,
+      "bankroll": 973.28,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786162935.015387,
+      "bankroll": 977.05,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
     }
   ]
 }
