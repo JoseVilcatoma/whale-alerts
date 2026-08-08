@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:54:32 (hora de Perú)
+Actualizado: 2026-08-08 06:56:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $872.08
-**Retorno acumulado:** -12.79%
+**Bankroll actual:** $881.36
+**Retorno acumulado:** -11.86%
 **Peor caída desde un máximo (drawdown):** 19.35%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 2 | 13 | +9.70 USD |
-| greyoctober | 0 | 0 | 7 | +0.00 USD |
+| greyoctober | 4 | 0 | 3 | +9.27 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 20 | +0.00 USD |
@@ -24,10 +24,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
-| Spicer | 0 | 0 | 3 | +0.00 USD |
+| Spicer | 0 | 0 | 4 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
-| RN1 | 2 | 2 | 11 | -5.13 USD |
+| HomeRunHazard | 4 | 6 | 27 | -3.99 USD |
+| RN1 | 2 | 2 | 13 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 31 | -9.46 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
 | ferrariChampions2026 | 32 | 20 | 226 | -67.78 USD |
@@ -73,12 +73,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jap-san-jef-2026-08-08-total-3pt5 | UpTheBlues, ferrariChampions2026 |
 | bl2-hei-vfl-2026-08-08-spread-home-1pt5 | UpTheBlues, ferrariChampions2026 |
 | bl2-ksc-bie-2026-08-08-total-2pt5 | RN1, ferrariChampions2026 |
+| bl2-ksc-bie-2026-08-08-ksc | RN1, ferrariChampions2026 |
+| bl2-svd-ksv-2026-08-08-total-3pt5 | RN1, ferrariChampions2026 |
 | bl2-ksc-bie-2026-08-08-total-5pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 43% | 1.64 | ⏳ pendiente | — |
+| RN1 | Will Karlsruher SC win on 2026-08-08? | Yes (BUY) | 59% | 1.36 | ⏳ pendiente | — |
+| RN1 | SV Darmstadt 98 vs. Holstein Kiel: O/U 3 | Under (BUY) | 43% | 1.65 | ⏳ pendiente | — |
+| Spicer | Game Handicap: BLG (-1.5) vs EDward Gami | Bilibili Gaming (BUY) | 67% | 2.09 | ⏳ pendiente | — |
 | Spicer | Game Handicap: BLG (-1.5) vs EDward Gami | Bilibili Gaming (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Holstein Kiel (-1.5) | SV Darmstadt 98 (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Bucheon FC 1995 win on 2026-08-08? | No (BUY) | 65% | 0.00 | ⏳ pendiente | — |
@@ -105,7 +111,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 69% | 2.69 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 84% | 2.62 | ⏳ pendiente | — |
 | ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 70% | 2.73 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Jeonbuk Hyundai Motors FC win on 20 | No (BUY) | 74% | 4.56 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 83% | 2.35 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Cerezo Ōsaka win on 2026-08-08? | No (BUY) | 25% | 1.30 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 83% | 0.90 | ⏳ pendiente | — |

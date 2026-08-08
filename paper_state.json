@@ -1,5 +1,5 @@
 {
-  "bankroll": 872.0845564363907,
+  "bankroll": 881.3580484998827,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -695,6 +695,26 @@
       "timestamp": 1786188531.393755,
       "bankroll": 872.08,
       "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Weibo Gaming vs LNG Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786190089.0539324,
+      "bankroll": 873.62,
+      "event": "won: greyoctober \u2014 Valorant: DRX vs T1 (BO3) - VCT Pacific Group Omega"
+    },
+    {
+      "timestamp": 1786190089.4256914,
+      "bankroll": 876.28,
+      "event": "won: greyoctober \u2014 Valorant: DRX vs T1 (BO3) - VCT Pacific Group Omega"
+    },
+    {
+      "timestamp": 1786190089.815627,
+      "bankroll": 877.16,
+      "event": "won: greyoctober \u2014 Valorant: DRX vs T1 (BO3) - VCT Pacific Group Omega"
+    },
+    {
+      "timestamp": 1786190089.9157693,
+      "bankroll": 881.36,
+      "event": "won: greyoctober \u2014 Valorant: DRX vs T1 (BO3) - VCT Pacific Group Omega"
     }
   ]
 }
