@@ -1,5 +1,5 @@
 {
-  "bankroll": 619.0727852001392,
+  "bankroll": 620.8182487912744,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2430,6 +2430,36 @@
       "timestamp": 1786204885.9403625,
       "bankroll": 619.07,
       "event": "won: ferrariChampions2026 \u2014 V\u00e5lerenga Fotball vs. FK Bod\u00f8/Glimt: O/U 3.5"
+    },
+    {
+      "timestamp": 1786205198.1991234,
+      "bankroll": 619.07,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Deep Cross Gaming vs MVK Esports (BO5) - LCP Group Stage"
+    },
+    {
+      "timestamp": 1786205200.0104692,
+      "bankroll": 619.07,
+      "event": "won: ferrariChampions2026 \u2014 Will Daejeon Hana Citizen FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786205200.976719,
+      "bankroll": 619.79,
+      "event": "won: Spicer \u2014 Game Handicap: BLG (-1.5) vs EDward Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786205201.076943,
+      "bankroll": 619.79,
+      "event": "won: Spicer \u2014 Game Handicap: BLG (-1.5) vs EDward Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786205201.1771295,
+      "bankroll": 619.79,
+      "event": "won: Spicer \u2014 Game Handicap: BLG (-1.5) vs EDward Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786205201.2773242,
+      "bankroll": 620.82,
+      "event": "won: Spicer \u2014 Game Handicap: BLG (-1.5) vs EDward Gaming (+1.5)"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 11:04:35 (hora de Perú)
+Actualizado: 2026-08-08 11:06:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $619.07
-**Retorno acumulado:** -38.09%
+**Bankroll actual:** $620.82
+**Retorno acumulado:** -37.92%
 **Peor caída desde un máximo (drawdown):** 47.71%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,11 +13,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 10 | 2 | +61.27 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 10 | 3 | +61.27 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
+| Spicer | 5 | 0 | 5 | +6.62 USD |
 | UpTheBlues | 36 | 25 | 4 | +5.35 USD |
-| Spicer | 1 | 0 | 9 | +4.87 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 2 | 0 | -16.40 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 148 | 128 | 2 | -76.06 USD |
+| ferrariChampions2026 | 149 | 129 | 0 | -76.06 USD |
 | TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -88,6 +88,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 2 | SK Gaming (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | Spicer | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | Spicer | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 61% | 0.00 | ⏳ pendiente | — |
@@ -117,4 +118,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 49% | 9.01 | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 53% | 2.96 | ⏳ pendiente | — |
 | StasPanda | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | KT Rolster (BUY) | 38% | 89.64 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 63% | 11.97 | ⏳ pendiente | — |
