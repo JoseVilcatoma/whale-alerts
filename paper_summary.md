@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 19:49:33 (hora de Perú)
+Actualizado: 2026-08-07 19:51:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $796.75
-**Retorno acumulado:** -20.33%
+**Bankroll actual:** $796.89
+**Retorno acumulado:** -20.31%
 **Peor caída desde un máximo (drawdown):** 75.51%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,9 +20,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 4 | +1.51 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 8 | 0 | -12.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 47 | 22 | 19 | -86.85 USD |
+| RN1 | 48 | 22 | 18 | -86.70 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 312 | 181 | 134 | -99.73 USD |
+| swisstony | 312 | 181 | 138 | -99.73 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -79,6 +79,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will AA Ponte Preta win on 2026-08-07? | No (BUY) | 99% | 1.39 | ⏳ pendiente | — |
+| swisstony | Will CD Universidad Católica win on 2026 | Yes (BUY) | 70% | 4.12 | ⏳ pendiente | — |
+| swisstony | Will CD Universidad Católica win on 2026 | Yes (BUY) | 69% | 1.58 | ⏳ pendiente | — |
+| swisstony | Spread: Texas Rangers (-1.5) | Baltimore Orioles (BUY) | 77% | 3.65 | ⏳ pendiente | — |
 | swisstony | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 56% | 1.26 | ⏳ pendiente | — |
 | swisstony | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 61% | 1.65 | ⏳ pendiente | — |
 | swisstony | Atlanta Dream vs. Washington Mystics | Washington Mystics (BUY) | 80% | 3.42 | ⏳ pendiente | — |
@@ -105,7 +109,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Spread: Los Angeles Angels (-1.5) | Los Angeles Angels (BUY) | 28% | 0.87 | ⏳ pendiente | — |
 | swisstony | Spread: St. Louis Cardinals (-1.5) | Colorado Rockies (BUY) | 61% | 0.96 | ⏳ pendiente | — |
 | RN1 | Will CA Ferrocarril Midland win on 2026- | Yes (BUY) | 80% | 3.22 | ⏳ pendiente | — |
-| swisstony | Charlotte FC vs. Atlas FC: O/U 2.5 | Under (BUY) | 86% | 2.17 | ⏳ pendiente | — |
-| swisstony | Charlotte FC vs. Atlas FC: O/U 1.5 | Under (BUY) | 62% | 0.98 | ⏳ pendiente | — |
-| swisstony | Spread: Atlas FC (-1.5) | Charlotte FC (BUY) | 94% | 2.55 | ⏳ pendiente | — |
-| swisstony | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 64% | 1.69 | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 796.7459547010478,
+  "bankroll": 796.8938713677145,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -4655,6 +4655,11 @@
       "timestamp": 1786149281.362557,
       "bankroll": 796.75,
       "event": "won: swisstony \u2014 Boluspor vs. Manisa Futbol Kulubu: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786150287.2052195,
+      "bankroll": 796.89,
+      "event": "won: RN1 \u2014 CA Rosario Central vs. CA Aldosivi: O/U 3.5"
     }
   ]
 }
