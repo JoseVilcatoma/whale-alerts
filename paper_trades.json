@@ -10242,5 +10242,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786187931.9099002,
     "fills": 1
+  },
+  {
+    "timestamp": 1786187983,
+    "timestamp_added": 1786187983.464457,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "jap-rey-hol-2026-08-08-spread-home-2pt5",
+    "title": "Spread: Kashiwa Reysol (-2.5)",
+    "outcome": "FC Mito Holly Hock",
+    "side": "BUY",
+    "whale_usd": 583.2719999999999,
+    "whale_pct": 0.239,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786187983.4644637,
+    "fills": 1
   }
 ]

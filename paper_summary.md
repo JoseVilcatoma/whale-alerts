@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:18:54 (hora de Perú)
+Actualizado: 2026-08-08 06:20:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.76
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 2 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 31 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 180 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 181 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -73,6 +73,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Kashiwa Reysol (-2.5) | FC Mito Holly Hock (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 1.5 | Over (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Daejeon Hana Citizen FC win on 2026 | Yes (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kashiwa Reysol vs. FC Mito Holly Hock: O | Under (BUY) | 29% | 0.00 | ⏳ pendiente | — |
@@ -102,4 +103,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | SV Darmstadt 98 vs. Holstein Kiel: Holst | Over (BUY) | 97% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Nantong Zhiyun (-1.5) | Nanjing City (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Nagoya Grampus vs. Shimizu S-Pulse: O/U  | Over (BUY) | 23% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Sanfrecce Hiroshima vs. JEF United Ichih | Under (BUY) | 89% | 0.00 | ⏳ pendiente | — |
