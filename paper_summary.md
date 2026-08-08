@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 07:28:08 (hora de Perú)
+Actualizado: 2026-08-08 07:30:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $883.11
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
 | Spicer | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 31 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 32 | -3.99 USD |
 | UpTheBlues | 20 | 18 | 27 | -4.56 USD |
 | RN1 | 2 | 2 | 13 | -5.13 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
@@ -82,6 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 56% | 7.58 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 65% | 1.62 | ⏳ pendiente | — |
 | ThornyDevil | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 46% | 0.00 | ⏳ pendiente | — |
@@ -111,4 +112,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 83% | 1.94 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: EYEBALLERS vs Phantom (B | Phantom (BUY) | 54% | 30.54 | ⏳ pendiente | — |
 | RN1 | Will Dalian Yingbo FC win on 2026-08-08? | Yes (BUY) | 65% | 1.42 | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: EYEBALLERS vs Phantom (B | Phantom (BUY) | 50% | 1.11 | ⏳ pendiente | — |
