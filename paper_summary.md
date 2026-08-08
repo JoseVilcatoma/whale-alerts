@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 01:21:42 (hora de Perú)
+Actualizado: 2026-08-08 01:23:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $949.24
@@ -17,9 +17,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 1 | 0 | 41 | +0.03 USD |
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 19 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 22 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
-| fRibrenlc | 0 | 0 | 9 | +0.00 USD |
+| fRibrenlc | 0 | 0 | 10 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 17 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
@@ -54,6 +54,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 4.40 | ⏳ pendiente | — |
+| fRibrenlc | Counter-Strike: EYEBALLERS vs Phantom (B | EYEBALLERS (BUY) | 54% | 2.10 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports - Game  | LNG Esports (BUY) | 35% | 1.11 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 2.95 | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 6.58 | ⏳ pendiente | — |
 | UpTheBlues | Will Crawley Town FC win on 2026-08-08? | No (BUY) | 92% | 1.95 | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 13.39 | ⏳ pendiente | — |
@@ -80,7 +84,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 47% | 1.14 | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 61.25 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports - Game  | LNG Esports (BUY) | 35% | 1.66 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 49% | 1.99 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 59% | 2.05 | ⏳ pendiente | — |
-| fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 14.72 | ⏳ pendiente | — |
-| HomeRunHazard | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 51% | 5.18 | ⏳ pendiente | — |
