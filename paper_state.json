@@ -1,5 +1,5 @@
 {
-  "bankroll": 632.9407487912744,
+  "bankroll": 632.679915457941,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2485,6 +2485,11 @@
       "timestamp": 1786208350.6364427,
       "bankroll": 632.94,
       "event": "won: quavoo \u2014 Will Chelsea FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786208756.5299199,
+      "bankroll": 632.68,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: RED Canids vs paiN Gaming - Game 2 Winner (-0.26 USD)"
     }
   ]
 }
