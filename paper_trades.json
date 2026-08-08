@@ -18540,5 +18540,49 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786224354.91211,
     "fills": 1
+  },
+  {
+    "timestamp": 1786224434,
+    "timestamp_added": 1786224434.6786768,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-jul11-rav-2026-08-08",
+    "title": "UFC Fight Night: Juliana Miller vs. Ravena Oliveira (Women's Flyweight, Prelims)",
+    "outcome": "Ravena Oliveira",
+    "side": "BUY",
+    "whale_usd": 1985.1668,
+    "whale_pct": 0.601,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 23,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786224434.6786883,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786224488,
+    "timestamp_added": 1786224488.5472407,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "arg-tig-riv-2026-08-08-riv",
+    "title": "Will CA River Plate win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 539.8375,
+    "whale_pct": 0.108,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 25,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786224488.5472536,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:26:19 (hora de Perú)
+Actualizado: 2026-08-08 16:28:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -24,13 +24,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 7 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 14 | 11 | 11 | -11.76 USD |
+| wr0ngw4yb3tt0r | 14 | 11 | 12 | -11.76 USD |
 | 1winstreak1 | 0 | 3 | 36 | -12.25 USD |
 | ThornyDevil | 3 | 4 | 2 | -16.40 USD |
 | RN1 | 8 | 9 | 15 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 169 | 139 | 58 | -75.22 USD |
+| ferrariChampions2026 | 169 | 139 | 59 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 5 | -303.20 USD |
 
@@ -111,6 +111,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ufc-gcanut-car24-2026-08-08 | Talvez10, ferrariChampions2026, quavoo |
 | ufc-gcanut-car24-2026-08-08-totals-2pt5 | Talvez10, wr0ngw4yb3tt0r |
 | mlb-laa-mia-2026-08-08-total-7pt5 | 1winstreak1, ferrariChampions2026 |
+| ufc-jul11-rav-2026-08-08 | Talvez10, wr0ngw4yb3tt0r |
 | arg-tig-riv-2026-08-08-total-0pt5 | RN1, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-riv | RN1, ferrariChampions2026 |
 | lol-c9-dsg-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
@@ -121,6 +122,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | Yes (BUY) | 25% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | UFC Fight Night: Juliana Miller vs. Rave | Ravena Oliveira (BUY) | 23% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Tigre win on 2026-08-08? | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Tigre win on 2026-08-08? | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
@@ -149,5 +152,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | No (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Indiana Fever vs. Chicago Sky | Chicago Sky (BUY) | 15% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Tigre vs. CA River Plate: O/U 0.5 | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will CA River Plate win on 2026-08-08? | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
