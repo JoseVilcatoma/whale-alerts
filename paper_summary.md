@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:14:36 (hora de Perú)
+Actualizado: 2026-08-08 06:16:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.76
@@ -26,9 +26,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
-| RN1 | 2 | 2 | 0 | -5.13 USD |
+| RN1 | 2 | 2 | 1 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 31 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 166 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 175 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -67,11 +67,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jap-san-jef-2026-08-08-total-1pt5 | UpTheBlues, ferrariChampions2026 |
 | jap-san-jef-2026-08-08-total-2pt5 | UpTheBlues, ferrariChampions2026 |
 | bl2-hei-vfl-2026-08-08-spread-home-1pt5 | UpTheBlues, ferrariChampions2026 |
+| bl2-ksc-bie-2026-08-08-total-2pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| RN1 | Karlsruher SC vs. DSC Arminia Bielefeld: | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 3. | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 74% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 1.5 | Over (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Vissel Kōbe win on 2026-08-08? | No (BUY) | 26% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: 1. FC Heidenheim 1846 (-1.5) | VfL Osnabrück (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 68% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 4. | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will 1. FC Magdeburg win on 2026-08-08? | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Inter Milano win on 2026-08-08? | Yes (BUY) | 37% | 0.00 | ⏳ pendiente | — |
@@ -92,13 +103,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | SV Darmstadt 98 vs. Holstein Kiel: O/U 2 | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Karlsruher SC vs. DSC Arminia Bielefeld: | Over (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-2.5) | JEF United Ichihara Chiba (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | SV Darmstadt 98 vs. Holstein Kiel: O/U 2 | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Sanfrecce Hiroshima vs. JEF United Ichih | Under (BUY) | 88% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-2.5) | Sanfrecce Hiroshima (BUY) | 34% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: 1. FC Heidenheim 1846 (-1.5) | 1. FC Heidenheim 1846 (BUY) | 33% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: 1. FC Heidenheim 1846 (-1.5) | VfL Osnabrück (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | FC Tōkyō vs. FC Machida Zelvia: O/U 4.5 | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Fujieda MYFC vs. Vegalta Sendai: O/U 2.5 | Under (BUY) | 84% | 0.00 | ⏳ pendiente | — |
