@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 19:09:55 (hora de Perú)
+Actualizado: 2026-08-07 19:11:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.44
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 47 | 22 | 12 | -86.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 310 | 181 | 81 | -100.04 USD |
+| swisstony | 310 | 181 | 84 | -100.04 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -77,6 +77,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will São Bernardo FC win on 2026-08-07? | No (BUY) | 87% | 5.65 | ⏳ pendiente | — |
+| swisstony | Spread: Phoenix Mercury (-6.5) | Connecticut Sun (BUY) | 28% | 1.01 | ⏳ pendiente | — |
+| swisstony | Will Operário Ferroviário EC vs. São Ber | Yes (BUY) | 62% | 2.31 | ⏳ pendiente | — |
 | swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Under (BUY) | 47% | 1.90 | ⏳ pendiente | — |
 | swisstony | Spread: CA Rosario Central (-1.5) | CA Aldosivi (BUY) | 91% | 2.70 | ⏳ pendiente | — |
 | RN1 | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 41% | 0.95 | ⏳ pendiente | — |
@@ -104,6 +107,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will CA Aldosivi win on 2026-08-07? | No (BUY) | 89% | 1.04 | ⏳ pendiente | — |
 | RN1 | CA Rosario Central vs. CA Aldosivi: O/U  | Over (BUY) | 66% | 1.35 | ⏳ pendiente | — |
 | RN1 | Will CA Aldosivi win on 2026-08-07? | No (BUY) | 90% | 2.38 | ⏳ pendiente | — |
-| RN1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 38% | 2.37 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Connecticut Sun: O/U | Over (BUY) | 56% | 1.15 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Connecticut Sun: O/U | Over (BUY) | 54% | 0.87 | ⏳ pendiente | — |
