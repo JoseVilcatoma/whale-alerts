@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 22:22:36 (hora de Perú)
+Actualizado: 2026-08-07 22:24:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $998.40
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 0 | 0 | 3 | +0.00 USD |
-| 0x4f2 | 1 | 4 | 12 | -1.61 USD |
+| 0x4f2 | 1 | 4 | 13 | -1.61 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -26,6 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-det-sf-2026-08-07-spread-home-1pt5 | 0x4f2, RN1, ferrariChampions2026 |
 | mlb-tor-phi-2026-08-07-total-7pt5 | 0x4f2, ferrariChampions2026 |
 | mlb-lad-ari-2026-08-07-total-6pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-lad-ari-2026-08-07-spread-home-1pt5 | 0x4f2, ferrariChampions2026 |
 | mlb-tor-phi-2026-08-07-spread-away-1pt5 | 0x4f2, ferrariChampions2026 |
 | mlb-det-sf-2026-08-07-total-9pt5 | 0x4f2, RN1 |
 
@@ -33,6 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0x4f2 | Spread: Arizona Diamondbacks (-1.5) | Los Angeles Dodgers (BUY) | 77% | 2.11 | ⏳ pendiente | — |
 | 0x4f2 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 66% | 2.06 | ⏳ pendiente | — |
 | 0x4f2 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 92% | 1.93 | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 72% | 3.02 | ⏳ pendiente | — |
@@ -62,4 +64,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 76% | 1.56 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 63% | 4.99 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 33% | 6.37 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 50% | 11.13 | ⏳ pendiente | — |

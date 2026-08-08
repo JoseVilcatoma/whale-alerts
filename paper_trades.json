@@ -958,5 +958,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786159310.8502748,
     "fills": 1
+  },
+  {
+    "timestamp": 1786159460,
+    "timestamp_added": 1786159460.4223,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-lad-ari-2026-08-07-spread-home-1pt5",
+    "title": "Spread: Arizona Diamondbacks (-1.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 299.99869500000005,
+    "whale_pct": 0.212,
+    "paper_stake_usd": 2.11,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786159460.4223104,
+    "fills": 1
   }
 ]
