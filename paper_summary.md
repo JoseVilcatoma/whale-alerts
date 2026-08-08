@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 22:55:22 (hora de Perú)
+Actualizado: 2026-08-07 22:57:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $996.89
@@ -13,8 +13,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| ferrariChampions2026 | 0 | 0 | 35 | +0.00 USD |
-| greyoctober | 0 | 0 | 2 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 38 | +0.00 USD |
+| greyoctober | 0 | 0 | 3 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 0 | 0 | 4 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 1 | +0.00 USD |
@@ -40,6 +40,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 58% | 3.21 | ⏳ pendiente | — |
+| greyoctober | Valorant: KeepBest Gaming vs FunPlus Pho | FunPlus Phoenix (BUY) | 70% | 6.19 | ⏳ pendiente | — |
+| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 45% | 1.29 | ⏳ pendiente | — |
+| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 48% | 1.31 | ⏳ pendiente | — |
 | greyoctober | Valorant: DRX vs T1 (BO3) - VCT Pacific  | T1 (BUY) | 63% | 4.53 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 60% | 5.75 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Under (BUY) | 91% | 1.14 | ⏳ pendiente | — |
@@ -66,7 +70,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 29% | 1.03 | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 67% | 14.89 | ⏳ pendiente | — |
 | 0x4f2 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 54% | 1.98 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will FC Juárez win on 2026-08-07? | No (BUY) | 92% | 4.27 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 68% | 3.25 | ⏳ pendiente | — |
-| RN1 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 88% | 1.04 | ⏳ pendiente | — |
-| 0x4f2 | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 15% | 1.27 | ⏳ pendiente | — |
