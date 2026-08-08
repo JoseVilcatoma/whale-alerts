@@ -5384,5 +5384,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786179250.742547,
     "fills": 1
+  },
+  {
+    "timestamp": 1786179277,
+    "timestamp_added": 1786179277.857668,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-lgd-al-2026-08-08-game-handicap-home-1pt5",
+    "title": "Game Handicap: AL (-1.5) vs LGD Gaming (+1.5)",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 432.14285599999994,
+    "whale_pct": 1.137,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786179287.0204773,
+    "fills": 2
   }
 ]
