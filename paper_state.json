@@ -1,5 +1,5 @@
 {
-  "bankroll": 796.4383356534288,
+  "bankroll": 796.7459547010478,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -4645,6 +4645,16 @@
       "timestamp": 1786146125.2800484,
       "bankroll": 796.44,
       "event": "won: swisstony \u2014 VfL Bochum vs. Hertha BSC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786149281.0367224,
+      "bankroll": 796.58,
+      "event": "won: swisstony \u2014 Will Boluspor win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786149281.362557,
+      "bankroll": 796.75,
+      "event": "won: swisstony \u2014 Boluspor vs. Manisa Futbol Kulubu: Both Teams to Score"
     }
   ]
 }
