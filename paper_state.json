@@ -1,5 +1,5 @@
 {
-  "bankroll": 779.4979280301557,
+  "bankroll": 780.6990391412668,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -4950,6 +4950,11 @@
       "timestamp": 1786153461.8006077,
       "bankroll": 779.5,
       "event": "won: swisstony \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786154816.577761,
+      "bankroll": 780.7,
+      "event": "won: swisstony \u2014 Spread: Boston Red Sox (-1.5)"
     }
   ]
 }
