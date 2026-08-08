@@ -2169,5 +2169,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786162071.2486923,
     "fills": 1
+  },
+  {
+    "timestamp": 1786162157,
+    "timestamp_added": 1786162158.0003307,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-atl-nyy-2026-08-07-total-5pt5",
+    "title": "Atlanta Braves vs. New York Yankees: O/U 5.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 711.8139600000001,
+    "whale_pct": 0.115,
+    "paper_stake_usd": 1.12,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786162158.000341,
+    "fills": 1
   }
 ]
