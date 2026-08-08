@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:27:12 (hora de Perú)
+Actualizado: 2026-08-08 06:29:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $806.48
-**Retorno acumulado:** -19.35%
+**Bankroll actual:** $872.08
+**Retorno acumulado:** -12.79%
 **Peor caída desde un máximo (drawdown):** 19.35%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 0 | 15 | +9.70 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 2 | 13 | +9.70 USD |
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
@@ -25,10 +25,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
-| RN1 | 2 | 2 | 2 | -5.13 USD |
+| RN1 | 2 | 2 | 4 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 31 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 192 | -67.78 USD |
-| TAIWANNUMBERONE | 0 | 4 | 34 | -132.28 USD |
+| TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
+| ferrariChampions2026 | 32 | 20 | 194 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -53,6 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lec-vwh-jua-2026-08-07-jua | UpTheBlues, ferrariChampions2026 |
 | lec-vwh-jua-2026-08-07-total-4pt5 | UpTheBlues, ferrariChampions2026 |
 | lec-vwh-jua-2026-08-07-draw | UpTheBlues, ferrariChampions2026 |
+| chi-hai-sgr-2026-08-08-hai | RN1, UpTheBlues |
 | mlb-det-sf-2026-08-07-spread-home-2pt5 | HomeRunHazard, ferrariChampions2026 |
 | lol-wb-lng-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-laa-mia-2026-08-08-total-8pt5 | HomeRunHazard, quavoo |
@@ -74,6 +75,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 82% | 7.33 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 83% | 1.17 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 4. | Over (BUY) | 28% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Qingdao Hainiu FC win on 2026-08-08 | No (BUY) | 80% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will VfL Osnabrück win on 2026-08-08? | Yes (BUY) | 18% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 2.5 | Over (BUY) | 20% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Vissel Kōbe (-1.5) | Vissel Kōbe (BUY) | 27% | 0.00 | ⏳ pendiente | — |
@@ -99,8 +105,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 1.5 | Over (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Vissel Kōbe win on 2026-08-08? | No (BUY) | 26% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: 1. FC Heidenheim 1846 (-1.5) | VfL Osnabrück (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 4. | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will 1. FC Magdeburg win on 2026-08-08? | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |

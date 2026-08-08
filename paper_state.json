@@ -1,5 +1,5 @@
 {
-  "bankroll": 806.4822034952142,
+  "bankroll": 872.0845564363907,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -675,6 +675,26 @@
       "timestamp": 1786188214.900789,
       "bankroll": 806.48,
       "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786188529.183302,
+      "bankroll": 872.08,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: T1 vs Hanwha Life Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786188530.2115653,
+      "bankroll": 872.08,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Weibo Gaming vs LNG Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786188531.1934814,
+      "bankroll": 872.08,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Weibo Gaming vs LNG Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786188531.393755,
+      "bankroll": 872.08,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Weibo Gaming vs LNG Esports - Game 2 Winner"
     }
   ]
 }
