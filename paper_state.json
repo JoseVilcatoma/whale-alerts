@@ -1,5 +1,5 @@
 {
-  "bankroll": 622.0445750512213,
+  "bankroll": 622.2141402686126,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2510,6 +2510,26 @@
       "timestamp": 1786212554.3807352,
       "bankroll": 622.04,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Movistar KOI vs GIANTX - Game 1 Winner (+0.00 USD)"
+    },
+    {
+      "timestamp": 1786212762.9632192,
+      "bankroll": 622.21,
+      "event": "won: UpTheBlues \u2014 Will Crawley Town FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786212765.7166135,
+      "bankroll": 622.21,
+      "event": "lost: StasPanda \u2014 Counter-Strike: Procyon Gaming vs ODDIK Academy (BO3) - BetBoom Storm Group Stage"
+    },
+    {
+      "timestamp": 1786212766.1239743,
+      "bankroll": 622.21,
+      "event": "lost: StasPanda \u2014 Counter-Strike: Procyon Gaming vs ODDIK Academy (BO3) - BetBoom Storm Group Stage"
+    },
+    {
+      "timestamp": 1786212766.224141,
+      "bankroll": 622.21,
+      "event": "lost: StasPanda \u2014 Counter-Strike: Procyon Gaming vs ODDIK Academy (BO3) - BetBoom Storm Group Stage"
     }
   ]
 }
