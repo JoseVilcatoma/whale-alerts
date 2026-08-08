@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 01:40:43 (hora de Perú)
+Actualizado: 2026-08-08 01:42:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $949.60
-**Retorno acumulado:** -5.04%
+**Bankroll actual:** $982.41
+**Retorno acumulado:** -1.76%
 **Peor caída desde un máximo (drawdown):** 5.98%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,18 +13,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| UpTheBlues | 10 | 3 | 33 | +24.87 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 27 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 28 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 13 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
-| UpTheBlues | 6 | 3 | 37 | -2.27 USD |
 | HomeRunHazard | 4 | 6 | 17 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
-| ferrariChampions2026 | 17 | 12 | 22 | -54.45 USD |
+| ferrariChampions2026 | 26 | 14 | 11 | -48.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -55,6 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 1.02 | ⏳ pendiente | — |
 | Talvez10 | O/U 1.5 Rounds | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: EYEBALLERS vs Phantom (B | EYEBALLERS (BUY) | 54% | 51.51 | ⏳ pendiente | — |
 | UpTheBlues | Will Eintracht Braunschweig win on 2026- | Yes (BUY) | 21% | 2.71 | ⏳ pendiente | — |
@@ -84,4 +85,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports - Game  | LNG Esports (BUY) | 35% | 1.27 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Cerezo Ōsaka (-1.5) | Fagiano Okayama (BUY) | 76% | 4.22 | ⏳ pendiente | — |
 | UpTheBlues | Hokkaidō Consadole Sapporo vs. Tokushima | Under (BUY) | 50% | 6.77 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Indiana Fever (-6.5) | Chicago Sky (BUY) | 51% | 8.13 | ⏳ pendiente | — |
