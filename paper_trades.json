@@ -13232,5 +13232,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786211072.9259174,
     "fills": 1
+  },
+  {
+    "timestamp": 1786211241,
+    "timestamp_added": 1786211242.4879386,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "arg-rie-est-2026-08-08-rie",
+    "title": "Will CD Riestra win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 755.54,
+    "whale_pct": 0.172,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786211242.487949,
+    "fills": 1
   }
 ]

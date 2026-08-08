@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 12:45:53 (hora de Perú)
+Actualizado: 2026-08-08 12:47:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $622.04
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 8 | 8 | 1 | -18.32 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 149 | 129 | 4 | -76.06 USD |
+| ferrariChampions2026 | 149 | 129 | 5 | -76.06 USD |
 | TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -91,6 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will CD Riestra win on 2026-08-08? | Yes (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Las Vegas Aces vs. Minnesota Lynx | Las Vegas Aces (BUY) | 32% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Colchester United FC vs. Southampto | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Southampton FC win on 2026-08-08? | Yes (BUY) | 61% | 0.00 | ⏳ pendiente | — |
@@ -120,4 +121,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Storm vs. Portland Fire: O/U 179 | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | Spicer | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 61% | 85.83 | ⏳ pendiente | — |
-| Spicer | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 61% | 42.94 | ⏳ pendiente | — |
