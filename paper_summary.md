@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 09:01:51 (hora de Perú)
+Actualizado: 2026-08-08 09:04:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $527.45
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 9 | 1 | +9.70 USD |
 | greyoctober | 4 | 0 | 3 | +9.27 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| quavoo | 0 | 0 | 38 | +0.00 USD |
+| quavoo | 0 | 0 | 41 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | ThornyDevil | 3 | 0 | 2 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 4 | 6 | 45 | -3.99 USD |
 | RN1 | 2 | 2 | 20 | -5.13 USD |
 | UpTheBlues | 28 | 21 | 16 | -5.52 USD |
-| ferrariChampions2026 | 119 | 106 | 57 | -61.20 USD |
+| ferrariChampions2026 | 119 | 106 | 61 | -61.20 USD |
 | fRibrenlc | 0 | 12 | 8 | -127.91 USD |
 | TAIWANNUMBERONE | 1 | 31 | 6 | -303.20 USD |
 
@@ -86,6 +86,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Gillingham FC vs. Luton Town FC end | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Tottenham Hotspur win on 2026-08-08 | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Burnley FC vs. Notts County FC: O/U 1.5 | Over (BUY) | 80% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Notts County FC win on 2026-08-08? | No (BUY) | 91% | 0.00 | ⏳ pendiente | — |
+| quavoo | Brighton & Hove Albion vs. AS Roma: O/U  | Under (BUY) | 80% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Notts County FC win on 2026-08-08? | No (BUY) | 91% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Viking FK win on 2026-08-08? | Yes (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Salford City FC vs. Shrewsbury Town FC:  | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | quavoo | Valorant: Leviatán Esports vs MIBR (BO3) | MIBR (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Leyton Orient FC vs. Oxford United FC: O | Over (BUY) | 75% | 0.00 | ⏳ pendiente | — |
@@ -109,10 +116,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 41% | 4.38 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 48% | 1.04 | ⏳ pendiente | — |
 | quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 21% | 2.66 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| ThornyDevil | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 43% | 16.40 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 58% | 3.52 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
