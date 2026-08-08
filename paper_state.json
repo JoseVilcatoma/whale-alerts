@@ -1,5 +1,5 @@
 {
-  "bankroll": 795.3472595545418,
+  "bankroll": 790.2898586719776,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -4825,6 +4825,81 @@
       "timestamp": 1786150475.1088283,
       "bankroll": 795.35,
       "event": "won: swisstony \u2014 Will CA Rosario Central vs. CA Aldosivi end in a draw?"
+    },
+    {
+      "timestamp": 1786150837.7755992,
+      "bankroll": 793.73,
+      "event": "lost: swisstony \u2014 Will CA Rosario Central win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150839.703184,
+      "bankroll": 791.72,
+      "event": "lost: swisstony \u2014 Will CA Rosario Central win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150840.3802102,
+      "bankroll": 790.52,
+      "event": "lost: swisstony \u2014 Will CA Rosario Central win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150841.081166,
+      "bankroll": 788.55,
+      "event": "lost: swisstony \u2014 Will CA Rosario Central win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150841.2814584,
+      "bankroll": 786.79,
+      "event": "lost: swisstony \u2014 Will CA Rosario Central win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150841.3816066,
+      "bankroll": 788.61,
+      "event": "won: swisstony \u2014 Will CA Rosario Central win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150842.215185,
+      "bankroll": 786.3,
+      "event": "lost: RN1 \u2014 Will CA Rosario Central win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150842.3153126,
+      "bankroll": 787.66,
+      "event": "won: RN1 \u2014 Will CA Rosario Central win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150842.816024,
+      "bankroll": 785.49,
+      "event": "lost: swisstony \u2014 Will CA Rosario Central win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150842.9161732,
+      "bankroll": 786.93,
+      "event": "won: swisstony \u2014 Will CA Rosario Central win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150843.952384,
+      "bankroll": 787.95,
+      "event": "won: swisstony \u2014 Will CA Rosario Central win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150844.152664,
+      "bankroll": 788.51,
+      "event": "won: swisstony \u2014 Will CA Rosario Central win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150844.453085,
+      "bankroll": 789.07,
+      "event": "won: swisstony \u2014 Will CA Rosario Central win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150844.6533616,
+      "bankroll": 789.87,
+      "event": "won: swisstony \u2014 Will CA Rosario Central win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150844.8536081,
+      "bankroll": 790.29,
+      "event": "won: swisstony \u2014 Will CA Rosario Central win on 2026-08-07?"
     }
   ]
 }

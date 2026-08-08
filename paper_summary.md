@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 19:59:58 (hora de Perú)
+Actualizado: 2026-08-07 20:02:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $795.35
-**Retorno acumulado:** -20.47%
+**Bankroll actual:** $790.29
+**Retorno acumulado:** -20.97%
 **Peor caída desde un máximo (drawdown):** 75.51%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,9 +20,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 4 | +1.51 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 8 | 0 | -12.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 52 | 24 | 18 | -87.78 USD |
+| RN1 | 53 | 25 | 16 | -88.72 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 327 | 193 | 130 | -100.19 USD |
+| swisstony | 334 | 199 | 118 | -104.31 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -83,6 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will CD Universidad Católica win on 2026 | No (BUY) | 30% | 1.91 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Connecticut Sun: O/U | Under (BUY) | 98% | 1.21 | ⏳ pendiente | — |
 | swisstony | Atlanta Dream vs. Washington Mystics | Washington Mystics (BUY) | 90% | 15.43 | ⏳ pendiente | — |
 | swisstony | Atlanta Dream vs. Washington Mystics | Washington Mystics (BUY) | 90% | 1.13 | ⏳ pendiente | — |
@@ -112,4 +113,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will CD Universidad Católica win on 2026 | Yes (BUY) | 70% | 4.12 | ⏳ pendiente | — |
 | swisstony | Will CD Universidad Católica win on 2026 | Yes (BUY) | 69% | 1.58 | ⏳ pendiente | — |
 | swisstony | Spread: Texas Rangers (-1.5) | Baltimore Orioles (BUY) | 77% | 3.65 | ⏳ pendiente | — |
-| swisstony | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 56% | 1.26 | ⏳ pendiente | — |
