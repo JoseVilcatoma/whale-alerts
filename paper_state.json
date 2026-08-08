@@ -1,5 +1,5 @@
 {
-  "bankroll": 529.7098089965477,
+  "bankroll": 526.8998089965478,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -1910,6 +1910,26 @@
       "timestamp": 1786195940.4393718,
       "bankroll": 529.71,
       "event": "won: UpTheBlues \u2014 Fujieda MYFC vs. Vegalta Sendai: O/U 2.5"
+    },
+    {
+      "timestamp": 1786196064.0332196,
+      "bankroll": 528.2,
+      "event": "lost: UpTheBlues \u2014 Will Cerezo \u014csaka win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786196068.1607795,
+      "bankroll": 528.2,
+      "event": "won: ferrariChampions2026 \u2014 Will Cerezo \u014csaka win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786196068.5613346,
+      "bankroll": 528.2,
+      "event": "won: ferrariChampions2026 \u2014 Will Cerezo \u014csaka win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786196074.9683087,
+      "bankroll": 526.9,
+      "event": "lost: ferrariChampions2026 \u2014 Will Cerezo \u014csaka win on 2026-08-08?"
     }
   ]
 }
