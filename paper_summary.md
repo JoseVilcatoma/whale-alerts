@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 07:42:40 (hora de Perú)
+Actualizado: 2026-08-08 07:44:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $894.48
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 8 | 8 | +9.70 USD |
 | greyoctober | 4 | 0 | 3 | +9.27 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| quavoo | 0 | 0 | 29 | +0.00 USD |
+| quavoo | 0 | 0 | 30 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 20 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | ThornyDevil | 2 | 0 | 3 | +0.00 USD |
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
 | Spicer | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 44 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 45 | -3.99 USD |
 | UpTheBlues | 25 | 20 | 20 | -4.56 USD |
 | RN1 | 2 | 2 | 13 | -5.13 USD |
 | ferrariChampions2026 | 86 | 89 | 103 | -59.56 USD |
@@ -84,6 +84,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 60% | 2.63 | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 41% | 4.38 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 48% | 1.04 | ⏳ pendiente | — |
 | quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 21% | 2.66 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
@@ -112,5 +114,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 53% | 6.53 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 36% | 2.78 | ⏳ pendiente | — |
 | Spicer | LoL: Bilibili Gaming vs EDward Gaming -  | Bilibili Gaming (BUY) | 79% | 18.33 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 43% | 1.64 | ⏳ pendiente | — |
-| RN1 | Will Karlsruher SC win on 2026-08-08? | Yes (BUY) | 59% | 1.36 | ⏳ pendiente | — |
