@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 22:02:05 (hora de Perú)
+Actualizado: 2026-08-07 22:04:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x4f2 | 0 | 0 | 4 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 9 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 14 | +0.00 USD |
 | greyoctober | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -25,6 +25,11 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 33% | 6.37 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 50% | 11.13 | ⏳ pendiente | — |
+| ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 52% | 11.26 | ⏳ pendiente | — |
+| ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 60% | 13.02 | ⏳ pendiente | — |
+| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 77% | 1.20 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 79% | 1.29 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 94% | 1.54 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 79% | 1.25 | ⏳ pendiente | — |
