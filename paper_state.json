@@ -1,5 +1,5 @@
 {
-  "bankroll": 619.5146665844021,
+  "bankroll": 477.143791688891,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2550,6 +2550,331 @@
       "timestamp": 1786213699.1365585,
       "bankroll": 619.51,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Movistar KOI vs GIANTX - Game 1 Winner (+0.00 USD)"
+    },
+    {
+      "timestamp": 1786220263.3915675,
+      "bankroll": 621.13,
+      "event": "won: quavoo \u2014 Stade Rennais FC vs. Brentford FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786220266.390883,
+      "bankroll": 619.99,
+      "event": "lost: HomeRunHazard \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 185.5"
+    },
+    {
+      "timestamp": 1786220266.7879844,
+      "bankroll": 625.77,
+      "event": "won: HomeRunHazard \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 184.5"
+    },
+    {
+      "timestamp": 1786220266.8881826,
+      "bankroll": 624.14,
+      "event": "lost: HomeRunHazard \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 184.5"
+    },
+    {
+      "timestamp": 1786220267.9965355,
+      "bankroll": 627.42,
+      "event": "won: UpTheBlues \u2014 FK Lokomotiv Moskva vs. FK Akron Tolyatti: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1786220270.5797396,
+      "bankroll": 627.42,
+      "event": "lost: StasPanda \u2014 Counter-Strike: 1WIN vs BASEMENT BOYS (BO3) - Esports World Cup Open Qualifier Group 6"
+    },
+    {
+      "timestamp": 1786220275.7091405,
+      "bankroll": 623.73,
+      "event": "lost: HomeRunHazard \u2014 Spread: Minnesota Lynx (-4.5)"
+    },
+    {
+      "timestamp": 1786220276.8294947,
+      "bankroll": 629.1,
+      "event": "won: HomeRunHazard \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 181.5"
+    },
+    {
+      "timestamp": 1786220276.9296029,
+      "bankroll": 633.14,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 181.5"
+    },
+    {
+      "timestamp": 1786220277.1725383,
+      "bankroll": 635.8,
+      "event": "won: HomeRunHazard \u2014 Spread: Minnesota Lynx (-5.5)"
+    },
+    {
+      "timestamp": 1786220277.8737004,
+      "bankroll": 592.86,
+      "event": "lost: Spicer \u2014 LoL: SK Gaming vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786220277.9738073,
+      "bankroll": 507.03,
+      "event": "lost: Spicer \u2014 LoL: SK Gaming vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786220278.3743954,
+      "bankroll": 507.03,
+      "event": "lost: HomeRunHazard \u2014 Spread: Minnesota Lynx (-5.5)"
+    },
+    {
+      "timestamp": 1786220278.4745858,
+      "bankroll": 507.03,
+      "event": "lost: Spicer \u2014 LoL: SK Gaming vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786220278.67494,
+      "bankroll": 507.03,
+      "event": "lost: Spicer \u2014 LoL: SK Gaming vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786220278.7751262,
+      "bankroll": 507.03,
+      "event": "lost: Spicer \u2014 LoL: SK Gaming vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786220278.875246,
+      "bankroll": 507.03,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: SK Gaming vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786220278.9754703,
+      "bankroll": 502.77,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: SK Gaming vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786220279.765026,
+      "bankroll": 502.77,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220279.8651528,
+      "bankroll": 503.28,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220279.9653454,
+      "bankroll": 496.52,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Minnesota Lynx (-4.5)"
+    },
+    {
+      "timestamp": 1786220280.0654705,
+      "bankroll": 493.93,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220280.1655858,
+      "bankroll": 489.63,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220280.2657738,
+      "bankroll": 488.53,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220280.365934,
+      "bankroll": 485.35,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220280.4660435,
+      "bankroll": 486.27,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220281.2706158,
+      "bankroll": 486.27,
+      "event": "lost: ferrariChampions2026 \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220281.7310438,
+      "bankroll": 486.27,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Minnesota Lynx (-5.5)"
+    },
+    {
+      "timestamp": 1786220281.831151,
+      "bankroll": 486.27,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220282.0838416,
+      "bankroll": 486.27,
+      "event": "lost: ferrariChampions2026 \u2014 Will Estudiantes de La Plata win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786220282.372203,
+      "bankroll": 486.27,
+      "event": "lost: ferrariChampions2026 \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 183.5"
+    },
+    {
+      "timestamp": 1786220282.472369,
+      "bankroll": 486.27,
+      "event": "lost: ferrariChampions2026 \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220282.572468,
+      "bankroll": 486.27,
+      "event": "won: HomeRunHazard \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220282.6726058,
+      "bankroll": 486.27,
+      "event": "lost: HomeRunHazard \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 184.5"
+    },
+    {
+      "timestamp": 1786220283.2694447,
+      "bankroll": 486.27,
+      "event": "won: ferrariChampions2026 \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 1.5"
+    },
+    {
+      "timestamp": 1786220284.501114,
+      "bankroll": 486.27,
+      "event": "won: ferrariChampions2026 \u2014 Will Estudiantes de La Plata win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786220284.601318,
+      "bankroll": 486.27,
+      "event": "lost: ferrariChampions2026 \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220285.1021228,
+      "bankroll": 486.27,
+      "event": "won: ferrariChampions2026 \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220285.2023027,
+      "bankroll": 486.27,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 185.5"
+    },
+    {
+      "timestamp": 1786220285.5443108,
+      "bankroll": 486.27,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Minnesota Lynx (-5.5)"
+    },
+    {
+      "timestamp": 1786220285.7447243,
+      "bankroll": 486.61,
+      "event": "won: ferrariChampions2026 \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 1.5"
+    },
+    {
+      "timestamp": 1786220285.844919,
+      "bankroll": 487.64,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 183.5"
+    },
+    {
+      "timestamp": 1786220285.9450562,
+      "bankroll": 487.64,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 185.5"
+    },
+    {
+      "timestamp": 1786220286.0451944,
+      "bankroll": 487.64,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 185.5"
+    },
+    {
+      "timestamp": 1786220286.245427,
+      "bankroll": 487.64,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 184.5"
+    },
+    {
+      "timestamp": 1786220286.3456264,
+      "bankroll": 487.64,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220286.4457743,
+      "bankroll": 487.64,
+      "event": "won: ferrariChampions2026 \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 1.5"
+    },
+    {
+      "timestamp": 1786220286.790682,
+      "bankroll": 487.64,
+      "event": "lost: ferrariChampions2026 \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220287.0635624,
+      "bankroll": 487.64,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 182.5"
+    },
+    {
+      "timestamp": 1786220287.1637237,
+      "bankroll": 487.64,
+      "event": "won: ferrariChampions2026 \u2014 Will Estudiantes de La Plata win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786220287.2639294,
+      "bankroll": 487.64,
+      "event": "won: ferrariChampions2026 \u2014 Will Estudiantes de La Plata win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786220287.364778,
+      "bankroll": 487.64,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220287.4649992,
+      "bankroll": 487.64,
+      "event": "won: ferrariChampions2026 \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220287.5652063,
+      "bankroll": 488.24,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220287.6653366,
+      "bankroll": 488.35,
+      "event": "won: ferrariChampions2026 \u2014 Will Estudiantes de La Plata win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786220287.7655296,
+      "bankroll": 489.0,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220287.8656793,
+      "bankroll": 489.39,
+      "event": "won: ferrariChampions2026 \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 1.5"
+    },
+    {
+      "timestamp": 1786220287.9658856,
+      "bankroll": 477.14,
+      "event": "lost: 1winstreak1 \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786220288.1662507,
+      "bankroll": 477.14,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 185.5"
+    },
+    {
+      "timestamp": 1786220288.4162652,
+      "bankroll": 477.14,
+      "event": "lost: ferrariChampions2026 \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 2.5"
+    },
+    {
+      "timestamp": 1786220288.516513,
+      "bankroll": 477.14,
+      "event": "won: ferrariChampions2026 \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 1.5"
+    },
+    {
+      "timestamp": 1786220288.71676,
+      "bankroll": 477.14,
+      "event": "lost: 1winstreak1 \u2014 Spread: Minnesota Lynx (-5.5)"
+    },
+    {
+      "timestamp": 1786220288.917019,
+      "bankroll": 477.14,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 182.5"
+    },
+    {
+      "timestamp": 1786220289.017157,
+      "bankroll": 477.14,
+      "event": "won: ferrariChampions2026 \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 1.5"
+    },
+    {
+      "timestamp": 1786220289.3876495,
+      "bankroll": 477.14,
+      "event": "lost: 1winstreak1 \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 182.5"
     }
   ]
 }

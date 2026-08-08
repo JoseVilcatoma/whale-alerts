@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 13:42:22 (hora de Perú)
+Actualizado: 2026-08-08 15:19:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $619.51
-**Retorno acumulado:** -38.05%
-**Peor caída desde un máximo (drawdown):** 47.71%
+**Bankroll actual:** $477.14
+**Retorno acumulado:** -52.29%
+**Peor caída desde un máximo (drawdown):** 52.29%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -13,25 +13,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 26 | 11 | 3 | +61.99 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 26 | 13 | 1 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| quavoo | 4 | 2 | 24 | +10.43 USD |
-| Spicer | 5 | 0 | 5 | +6.62 USD |
-| UpTheBlues | 38 | 26 | 2 | +5.74 USD |
+| quavoo | 5 | 2 | 24 | +12.05 USD |
+| UpTheBlues | 39 | 26 | 2 | +9.02 USD |
+| HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 5 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| StasPanda | 0 | 3 | 3 | +0.00 USD |
+| StasPanda | 0 | 4 | 2 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 0 | 0 | 3 | +0.00 USD |
-| wr0ngw4yb3tt0r | 1 | 1 | 31 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 67 | -3.99 USD |
+| wr0ngw4yb3tt0r | 14 | 11 | 8 | -11.76 USD |
+| 1winstreak1 | 0 | 3 | 1 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 149 | 129 | 37 | -76.06 USD |
+| ferrariChampions2026 | 162 | 136 | 22 | -75.22 USD |
+| Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -59,6 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lec-vwh-jua-2026-08-07-draw | UpTheBlues, ferrariChampions2026 |
 | chi-hai-sgr-2026-08-08-hai | RN1, UpTheBlues |
 | mlb-det-sf-2026-08-07-spread-home-2pt5 | HomeRunHazard, ferrariChampions2026 |
+| wnba-ind-chi-2026-08-08 | HomeRunHazard, ferrariChampions2026 |
 | lol-wb-lng-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-laa-mia-2026-08-08-total-8pt5 | HomeRunHazard, quavoo |
 | jap-avi-vis-2026-08-08-spread-away-1pt5 | UpTheBlues, ferrariChampions2026 |
@@ -73,6 +74,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-fcm-bra-2026-08-08-bra | RN1, UpTheBlues |
 | lol-t1-hle1-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026, jtwyslljy |
 | lol-wb-lng-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
+| mlb-oak-bos-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard |
 | lol-t1-hle1-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-08-total-8pt5 | HomeRunHazard, quavoo |
 | lol-lgd-al-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
@@ -102,33 +104,33 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Under (BUY) | 48% | 1.08 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Valencia CF win on 2026-08-08? | No (BUY) | 58% | 0.61 | ⏳ pendiente | — |
+| UpTheBlues | St. Truidense VV vs. Lommel SK: O/U 4.5 | Under (BUY) | 96% | 3.69 | ⏳ pendiente | — |
+| quavoo | Counter-Strike: Inner Circle Esports vs  | Iberian Soul (BUY) | 36% | 0.85 | ⏳ pendiente | — |
+| ferrariChampions2026 | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 87% | 2.08 | ⏳ pendiente | — |
+| ferrariChampions2026 | Real Betis Seville vs. AFC Bournemouth:  | Under (BUY) | 57% | 0.53 | ⏳ pendiente | — |
+| ferrariChampions2026 | Real Betis Seville vs. AFC Bournemouth:  | Under (BUY) | 56% | 0.70 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 90% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will VfL Wolfsburg win on 2026-08-08? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will VfL Wolfsburg win on 2026-08-08? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Grêmio FBPA win on 2026-08-08? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Under (BUY) | 50% | 0.00 | ❌ perdida | -0.00 |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 63% | 0.00 | ✅ ganada | +0.00 |
+| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 46% | 0.00 | ✅ ganada | +0.00 |
 | ferrariChampions2026 | Will CD Riestra win on 2026-08-08? | No (BUY) | 27% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Minnesota Lynx (-5.5) | Las Vegas Aces (BUY) | 30% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Minnesota Lynx (-5.5) | Las Vegas Aces (BUY) | 30% | 0.00 | ❌ perdida | -0.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | Movistar KOI (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 31% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 68% | 0.00 | ✅ ganada | +0.00 |
+| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 31% | 0.00 | ❌ perdida | -0.00 |
+| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 46% | 0.00 | ❌ perdida | -0.00 |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Las Vegas Aces vs. Minnesota Lynx | Las Vegas Aces (BUY) | 23% | 12.25 | ⏳ pendiente | — |
-| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 70% | 0.91 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 76% | 2.07 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Estudiantes de La Plata win on 2026 | No (BUY) | 93% | 1.46 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 83% | 2.92 | ⏳ pendiente | — |
-| ferrariChampions2026 | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 87% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 86% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Estudiantes de La Plata win on 2026 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Estudiantes de La Plata win on 2026 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Las Vegas Aces vs. Minnesota Lynx | Las Vegas Aces (BUY) | 29% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Movistar KOI vs GIANTX - Game 1 Win | GIANTX (BUY) | 88% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | UFC Fight Night: Mateusz Gamrot vs. Quil | Mateusz Gamrot (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 1 Win | Movistar KOI (BUY) | 13% | 0.00 | 💰 vendida anticipada | -0.00 |
-| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 1 Win | Movistar KOI (BUY) | 22% | 0.00 | 💰 vendida anticipada | -0.00 |
+| 1winstreak1 | Las Vegas Aces vs. Minnesota Lynx | Las Vegas Aces (BUY) | 23% | 12.25 | ❌ perdida | -12.25 |
+| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 70% | 0.91 | ✅ ganada | +0.39 |
+| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 76% | 2.07 | ✅ ganada | +0.65 |
+| ferrariChampions2026 | Will Estudiantes de La Plata win on 2026 | No (BUY) | 93% | 1.46 | ✅ ganada | +0.11 |
+| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 83% | 2.92 | ✅ ganada | +0.60 |
+| ferrariChampions2026 | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 87% | 0.00 | ✅ ganada | +0.00 |
+| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 86% | 0.00 | ✅ ganada | +0.00 |
+| ferrariChampions2026 | Will Estudiantes de La Plata win on 2026 | No (BUY) | 93% | 0.00 | ✅ ganada | +0.00 |
