@@ -21377,5 +21377,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786153264.6604364,
     "fills": 1
+  },
+  {
+    "timestamp": 1786153298,
+    "timestamp_added": 1786153298.899462,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "chi1-cuc-cdc-2026-08-07-cdc",
+    "title": "Will CD Cobresal win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 646.8,
+    "whale_pct": 0.202,
+    "paper_stake_usd": 1.57,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786153298.8994725,
+    "fills": 1
   }
 ]
