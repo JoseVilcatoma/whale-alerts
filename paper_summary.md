@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 00:08:05 (hora de Perú)
+Actualizado: 2026-08-08 00:10:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $946.90
@@ -17,6 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 33 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 0 | -1.58 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | HomeRunHazard | 3 | 5 | 6 | -6.30 USD |
@@ -51,6 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 13.85 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Indiana Fever (-6.5) | Indiana Fever (BUY) | 49% | 2.17 | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 67% | 8.46 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Indiana Fever (-5.5) | Indiana Fever (BUY) | 53% | 2.04 | ⏳ pendiente | — |
@@ -80,4 +82,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will FC Juárez win on 2026-08-07? | No (BUY) | 48% | 9.07 | ⏳ pendiente | — |
 | UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 57% | 16.13 | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 73% | 9.27 | ⏳ pendiente | — |
-| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Under (BUY) | 93% | 2.09 | ⏳ pendiente | — |
