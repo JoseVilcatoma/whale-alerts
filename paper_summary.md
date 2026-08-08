@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 14:42:43 (hora de Perú)
+Actualizado: 2026-08-08 14:44:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $468.39
-**Retorno acumulado:** -53.16%
-**Peor caída desde un máximo (drawdown):** 53.16%
+**Bankroll actual:** $470.02
+**Retorno acumulado:** -53.00%
+**Peor caída desde un máximo (drawdown):** 53.53%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -17,20 +17,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 5 | 2 | 23 | +12.05 USD |
-| UpTheBlues | 38 | 26 | 22 | +5.74 USD |
+| UpTheBlues | 38 | 26 | 24 | +5.74 USD |
+| HomeRunHazard | 7 | 8 | 62 | +0.35 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| Talvez10 | 0 | 0 | 5 | +0.00 USD |
+| Talvez10 | 0 | 0 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 5 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
-| HomeRunHazard | 5 | 6 | 66 | -3.99 USD |
-| wr0ngw4yb3tt0r | 10 | 5 | 25 | -9.04 USD |
-| 1winstreak1 | 0 | 1 | 2 | -12.25 USD |
+| wr0ngw4yb3tt0r | 11 | 7 | 22 | -11.76 USD |
+| 1winstreak1 | 0 | 2 | 1 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 5 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 151 | 134 | 44 | -76.06 USD |
+| ferrariChampions2026 | 152 | 134 | 43 | -76.06 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 2 | -303.20 USD |
 
@@ -108,6 +108,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Servette Geneva vs. Grasshopper Club Zur | Under (BUY) | 86% | 3.90 | ⏳ pendiente | — |
+| Talvez10 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 51% | 4.43 | ⏳ pendiente | — |
+| UpTheBlues | PSV vs. Fortuna Sittard: O/U 3.5 | Under (BUY) | 62% | 7.29 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Agropecuario Argentino (-1.5) | Agropecuario Argentino (BUY) | 99% | 0.54 | ⏳ pendiente | — |
 | UpTheBlues | Agropecuario Argentino vs. CA Guemes: O/ | Under (BUY) | 96% | 1.27 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Sarmiento win on 2026-08-08? | Yes (BUY) | 67% | 2.61 | ⏳ pendiente | — |
@@ -135,6 +138,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will PSV win on 2026-08-08? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will PSV win on 2026-08-08? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will São Paulo FC win on 2026-08-08? | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will São Paulo FC win on 2026-08-08? | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CD Riestra win on 2026-08-08? | Yes (BUY) | 76% | 0.00 | ⏳ pendiente | — |

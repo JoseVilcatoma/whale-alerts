@@ -1,5 +1,5 @@
 {
-  "bankroll": 468.39307654810233,
+  "bankroll": 470.0189665707781,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2730,6 +2730,51 @@
       "timestamp": 1786218151.3469226,
       "bankroll": 468.39,
       "event": "lost: 1winstreak1 \u2014 Las Vegas Aces vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786218202.8328507,
+      "bankroll": 464.7,
+      "event": "lost: HomeRunHazard \u2014 Spread: Minnesota Lynx (-4.5)"
+    },
+    {
+      "timestamp": 1786218203.895778,
+      "bankroll": 470.07,
+      "event": "won: HomeRunHazard \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 181.5"
+    },
+    {
+      "timestamp": 1786218203.995901,
+      "bankroll": 474.11,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 181.5"
+    },
+    {
+      "timestamp": 1786218205.39829,
+      "bankroll": 467.35,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Minnesota Lynx (-4.5)"
+    },
+    {
+      "timestamp": 1786218266.2921937,
+      "bankroll": 470.02,
+      "event": "won: HomeRunHazard \u2014 Spread: Minnesota Lynx (-5.5)"
+    },
+    {
+      "timestamp": 1786218266.9932756,
+      "bankroll": 470.02,
+      "event": "lost: HomeRunHazard \u2014 Spread: Minnesota Lynx (-5.5)"
+    },
+    {
+      "timestamp": 1786218268.0947163,
+      "bankroll": 470.02,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Minnesota Lynx (-5.5)"
+    },
+    {
+      "timestamp": 1786218270.3252237,
+      "bankroll": 470.02,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Minnesota Lynx (-5.5)"
+    },
+    {
+      "timestamp": 1786218272.4372275,
+      "bankroll": 470.02,
+      "event": "lost: 1winstreak1 \u2014 Spread: Minnesota Lynx (-5.5)"
     }
   ]
 }
