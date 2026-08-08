@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:36:07 (hora de Perú)
+Actualizado: 2026-08-08 15:38:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -16,23 +16,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 26 | 13 | 11 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 26 | 3 | +9.02 USD |
-| quavoo | 5 | 4 | 24 | +8.84 USD |
+| UpTheBlues | 39 | 26 | 5 | +9.02 USD |
+| quavoo | 5 | 4 | 26 | +8.84 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| Talvez10 | 0 | 0 | 10 | +0.00 USD |
+| Talvez10 | 0 | 0 | 11 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 4 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 14 | 11 | 8 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 9 | -12.25 USD |
+| wr0ngw4yb3tt0r | 14 | 11 | 9 | -11.76 USD |
+| 1winstreak1 | 0 | 3 | 10 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | ferrariChampions2026 | 166 | 138 | 29 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 2 | 36 | 2 | -303.20 USD |
+| TAIWANNUMBERONE | 2 | 36 | 3 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -107,6 +107,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will St. Truidense VV vs. Lommel SK end  | No (BUY) | 80% | 0.00 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Grêmio FBPA vs. São Paulo FC end in | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| Talvez10 | O/U 2.5 Rounds | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 35% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| quavoo | Spread: Kansas City Royals (-1.5) | Kansas City Royals (BUY) | 26% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-3.5) | Athletics (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | No (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 48% | 0.00 | ⏳ pendiente | — |
@@ -129,11 +137,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Valencia CF win on 2026-08-08? | No (BUY) | 89% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Grêmio FBPA win on 2026-08-08? | No (BUY) | 74% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Under (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 89% | 0.00 | ⏳ pendiente | — |
