@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 17:16:07 (hora de Perú)
+Actualizado: 2026-08-08 17:18:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $471.15
-**Retorno acumulado:** -52.88%
-**Peor caída desde un máximo (drawdown):** 52.89%
+**Bankroll actual:** $497.43
+**Retorno acumulado:** -50.26%
+**Peor caída desde un máximo (drawdown):** 53.09%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -14,23 +14,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 40 | 14 | 16 | +57.73 USD |
+| HomeRunHazard | 20 | 17 | 51 | +25.50 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
 | quavoo | 5 | 5 | 77 | +8.84 USD |
-| HomeRunHazard | 9 | 13 | 66 | +0.58 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 1 | 2 | 11 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
-| wr0ngw4yb3tt0r | 14 | 13 | 13 | -11.76 USD |
-| 1winstreak1 | 5 | 7 | 46 | -12.25 USD |
+| wr0ngw4yb3tt0r | 15 | 13 | 12 | -10.71 USD |
+| 1winstreak1 | 10 | 12 | 36 | -12.25 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 9 | 9 | 19 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 171 | 147 | 61 | -75.22 USD |
+| ferrariChampions2026 | 175 | 147 | 58 | -74.91 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 6 | -303.20 USD |
 
@@ -129,6 +129,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | CA Boca Juniors vs. CA Vélez Sarsfield:  | Under (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will ADC Juan Pablo II College win on 20 | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Athletics (-1.5) | Athletics (BUY) | 78% | 0.00 | ⏳ pendiente | — |
@@ -158,4 +159,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Athletics (-2.5) | Boston Red Sox (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 34% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 82% | 0.00 | 💰 vendida anticipada | +0.00 |

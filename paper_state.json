@@ -1,5 +1,5 @@
 {
-  "bankroll": 471.15379168889103,
+  "bankroll": 497.4290267731822,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -3145,6 +3145,156 @@
       "timestamp": 1786227350.8477252,
       "bankroll": 471.15,
       "event": "won: RN1 \u2014 CA Tigre vs. CA River Plate: O/U 1.5"
+    },
+    {
+      "timestamp": 1786227410.4058723,
+      "bankroll": 471.15,
+      "event": "won: 1winstreak1 \u2014 Spread: New York Yankees (-1.5)"
+    },
+    {
+      "timestamp": 1786227417.4639463,
+      "bankroll": 471.15,
+      "event": "won: 1winstreak1 \u2014 Spread: New York Yankees (-1.5)"
+    },
+    {
+      "timestamp": 1786227453.8108127,
+      "bankroll": 469.11,
+      "event": "lost: HomeRunHazard \u2014 Spread: Indiana Fever (-5.5)"
+    },
+    {
+      "timestamp": 1786227454.1073313,
+      "bankroll": 473.28,
+      "event": "won: HomeRunHazard \u2014 Indiana Fever vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1786227454.3523335,
+      "bankroll": 471.11,
+      "event": "lost: HomeRunHazard \u2014 Spread: Indiana Fever (-6.5)"
+    },
+    {
+      "timestamp": 1786227459.4215949,
+      "bankroll": 478.92,
+      "event": "won: HomeRunHazard \u2014 Spread: Indiana Fever (-6.5)"
+    },
+    {
+      "timestamp": 1786227460.1082199,
+      "bankroll": 481.71,
+      "event": "won: HomeRunHazard \u2014 Indiana Fever vs. Chicago Sky: O/U 192.5"
+    },
+    {
+      "timestamp": 1786227460.6007059,
+      "bankroll": 481.71,
+      "event": "won: HomeRunHazard \u2014 Spread: Indiana Fever (-5.5)"
+    },
+    {
+      "timestamp": 1786227460.7009313,
+      "bankroll": 481.71,
+      "event": "lost: HomeRunHazard \u2014 Indiana Fever vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1786227463.0546343,
+      "bankroll": 481.71,
+      "event": "won: HomeRunHazard \u2014 Atlanta Braves vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786227465.7440174,
+      "bankroll": 484.34,
+      "event": "won: HomeRunHazard \u2014 Indiana Fever vs. Chicago Sky: O/U 190.5"
+    },
+    {
+      "timestamp": 1786227466.168033,
+      "bankroll": 485.43,
+      "event": "won: HomeRunHazard \u2014 Indiana Fever vs. Chicago Sky: O/U 191.5"
+    },
+    {
+      "timestamp": 1786227466.8272226,
+      "bankroll": 488.21,
+      "event": "won: HomeRunHazard \u2014 Indiana Fever vs. Chicago Sky: O/U 191.5"
+    },
+    {
+      "timestamp": 1786227467.66991,
+      "bankroll": 489.26,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Indiana Fever vs. Chicago Sky: O/U 190.5"
+    },
+    {
+      "timestamp": 1786227468.0612707,
+      "bankroll": 497.12,
+      "event": "won: HomeRunHazard \u2014 Atlanta Braves vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786227468.549138,
+      "bankroll": 497.12,
+      "event": "won: HomeRunHazard \u2014 Indiana Fever vs. Chicago Sky: O/U 193.5"
+    },
+    {
+      "timestamp": 1786227468.7494924,
+      "bankroll": 497.12,
+      "event": "won: HomeRunHazard \u2014 Indiana Fever vs. Chicago Sky: O/U 192.5"
+    },
+    {
+      "timestamp": 1786227470.613338,
+      "bankroll": 497.43,
+      "event": "won: ferrariChampions2026 \u2014 Indiana Fever vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1786227472.6483738,
+      "bankroll": 497.43,
+      "event": "won: ferrariChampions2026 \u2014 Indiana Fever vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1786227473.6503053,
+      "bankroll": 497.43,
+      "event": "lost: 1winstreak1 \u2014 Atlanta Braves vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786227477.649878,
+      "bankroll": 497.43,
+      "event": "lost: 1winstreak1 \u2014 Spread: Atlanta Braves (-2.5)"
+    },
+    {
+      "timestamp": 1786227478.2945,
+      "bankroll": 497.43,
+      "event": "won: 1winstreak1 \u2014 Indiana Fever vs. Chicago Sky: O/U 190.5"
+    },
+    {
+      "timestamp": 1786227483.1998086,
+      "bankroll": 497.43,
+      "event": "won: 1winstreak1 \u2014 Atlanta Braves vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786227483.3000448,
+      "bankroll": 497.43,
+      "event": "lost: 1winstreak1 \u2014 Atlanta Braves vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786227483.7946706,
+      "bankroll": 497.43,
+      "event": "won: ferrariChampions2026 \u2014 Indiana Fever vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1786227483.8949146,
+      "bankroll": 497.43,
+      "event": "won: ferrariChampions2026 \u2014 Indiana Fever vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1786227485.4980311,
+      "bankroll": 497.43,
+      "event": "lost: 1winstreak1 \u2014 Indiana Fever vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1786227486.7042649,
+      "bankroll": 497.43,
+      "event": "won: 1winstreak1 \u2014 Indiana Fever vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1786227486.804476,
+      "bankroll": 497.43,
+      "event": "lost: 1winstreak1 \u2014 Spread: Indiana Fever (-6.5)"
+    },
+    {
+      "timestamp": 1786227487.0048647,
+      "bankroll": 497.43,
+      "event": "lost: HomeRunHazard \u2014 Atlanta Braves vs. New York Yankees: O/U 8.5"
     }
   ]
 }
