@@ -1,5 +1,5 @@
 {
-  "bankroll": 778.113397726215,
+  "bankroll": 782.4538201690663,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -5115,6 +5115,186 @@
       "timestamp": 1786156050.441072,
       "bankroll": 778.11,
       "event": "lost: RN1 \u2014 New York Mets vs. Pittsburgh Pirates: O/U 8.5"
+    },
+    {
+      "timestamp": 1786156331.391335,
+      "bankroll": 778.36,
+      "event": "won: swisstony \u2014 Spread: Chicago White Sox (-2.5)"
+    },
+    {
+      "timestamp": 1786156332.4511106,
+      "bankroll": 777.22,
+      "event": "lost: swisstony \u2014 Spread: Pittsburgh Pirates (-1.5)"
+    },
+    {
+      "timestamp": 1786156334.4513345,
+      "bankroll": 778.37,
+      "event": "won:  \u2014 Atlanta Dream vs. Washington Mystics: O/U 169.5"
+    },
+    {
+      "timestamp": 1786156334.551493,
+      "bankroll": 779.94,
+      "event": "won:  \u2014 Atlanta Dream vs. Washington Mystics: O/U 169.5"
+    },
+    {
+      "timestamp": 1786156334.6516528,
+      "bankroll": 782.09,
+      "event": "won:  \u2014 Atlanta Dream vs. Washington Mystics: O/U 169.5"
+    },
+    {
+      "timestamp": 1786156335.133957,
+      "bankroll": 773.1,
+      "event": "lost:  \u2014 Atlanta Dream vs. Washington Mystics: O/U 169.5"
+    },
+    {
+      "timestamp": 1786156336.8616233,
+      "bankroll": 773.61,
+      "event": "won: swisstony \u2014 Spread: Miami Marlins (-2.5)"
+    },
+    {
+      "timestamp": 1786156339.392183,
+      "bankroll": 773.61,
+      "event": "won: swisstony \u2014 Cerro Largo FC vs. CA Juventud de Las Piedras: O/U 1.5"
+    },
+    {
+      "timestamp": 1786156339.8529756,
+      "bankroll": 775.08,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics: O/U 170.5"
+    },
+    {
+      "timestamp": 1786156340.8029346,
+      "bankroll": 776.11,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics: O/U 170.5"
+    },
+    {
+      "timestamp": 1786156342.4498136,
+      "bankroll": 777.49,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics"
+    },
+    {
+      "timestamp": 1786156343.1677694,
+      "bankroll": 776.5,
+      "event": "lost: swisstony \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1786156343.4682832,
+      "bankroll": 777.18,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics: O/U 170.5"
+    },
+    {
+      "timestamp": 1786156343.9377618,
+      "bankroll": 777.32,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics: O/U 170.5"
+    },
+    {
+      "timestamp": 1786156344.0381067,
+      "bankroll": 777.91,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics"
+    },
+    {
+      "timestamp": 1786156344.6003213,
+      "bankroll": 778.24,
+      "event": "won: swisstony \u2014 Spread: Miami Marlins (-2.5)"
+    },
+    {
+      "timestamp": 1786156344.9010746,
+      "bankroll": 778.71,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics: O/U 169.5"
+    },
+    {
+      "timestamp": 1786156345.9086308,
+      "bankroll": 779.66,
+      "event": "won: swisstony \u2014 New York Mets vs. Pittsburgh Pirates: O/U 9.5"
+    },
+    {
+      "timestamp": 1786156347.833068,
+      "bankroll": 778.79,
+      "event": "lost: RN1 \u2014 Spread: Los Angeles Angels (-1.5)"
+    },
+    {
+      "timestamp": 1786156350.2641406,
+      "bankroll": 779.22,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics: O/U 169.5"
+    },
+    {
+      "timestamp": 1786156350.3643255,
+      "bankroll": 781.46,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics"
+    },
+    {
+      "timestamp": 1786156350.4644952,
+      "bankroll": 782.24,
+      "event": "won: swisstony \u2014 New York Mets vs. Pittsburgh Pirates: O/U 9.5"
+    },
+    {
+      "timestamp": 1786156351.1111107,
+      "bankroll": 782.79,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics"
+    },
+    {
+      "timestamp": 1786156351.2113304,
+      "bankroll": 783.06,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics: O/U 169.5"
+    },
+    {
+      "timestamp": 1786156351.6677773,
+      "bankroll": 783.44,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics"
+    },
+    {
+      "timestamp": 1786156351.768018,
+      "bankroll": 784.3,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics"
+    },
+    {
+      "timestamp": 1786156353.5669038,
+      "bankroll": 780.71,
+      "event": "lost: swisstony \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1786156353.667187,
+      "bankroll": 773.84,
+      "event": "lost: RN1 \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1786156354.8315485,
+      "bankroll": 774.04,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics"
+    },
+    {
+      "timestamp": 1786156355.4956205,
+      "bankroll": 774.16,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics"
+    },
+    {
+      "timestamp": 1786156355.5958953,
+      "bankroll": 775.88,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics"
+    },
+    {
+      "timestamp": 1786156356.5691736,
+      "bankroll": 783.92,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics: O/U 170.5"
+    },
+    {
+      "timestamp": 1786156360.0966523,
+      "bankroll": 783.11,
+      "event": "lost: swisstony \u2014 Spread: Los Angeles Angels (-1.5)"
+    },
+    {
+      "timestamp": 1786156361.7474296,
+      "bankroll": 783.18,
+      "event": "won: swisstony \u2014 Atlanta Dream vs. Washington Mystics"
+    },
+    {
+      "timestamp": 1786156367.1195316,
+      "bankroll": 782.36,
+      "event": "lost: RN1 \u2014 Spread: Los Angeles Angels (-1.5)"
+    },
+    {
+      "timestamp": 1786156367.658709,
+      "bankroll": 782.45,
+      "event": "won: RN1 \u2014 Spread: Los Angeles Angels (-1.5)"
     }
   ]
 }

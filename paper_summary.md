@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 21:31:54 (hora de Perú)
+Actualizado: 2026-08-07 21:33:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $778.11
-**Retorno acumulado:** -22.19%
+**Bankroll actual:** $782.45
+**Retorno acumulado:** -21.75%
 **Peor caída desde un máximo (drawdown):** 75.51%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,12 +17,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 5 | 0 | 0 | +127.47 USD |
 | wr0ngw4yb3tt0r | 20 | 17 | 0 | +123.77 USD |
 | ferrariChampions2026 | 6 | 2 | 0 | +28.34 USD |
-|  | 2 | 1 | 4 | +1.51 USD |
+|  | 5 | 2 | 0 | -2.62 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 8 | 0 | -12.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 54 | 28 | 30 | -92.53 USD |
+| swisstony | 378 | 222 | 124 | -95.73 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 354 | 218 | 152 | -112.67 USD |
+| RN1 | 55 | 31 | 27 | -101.00 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -92,6 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 55% | 0.98 | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 71% | 2.08 | ⏳ pendiente | — |
 | RN1 | Spread: Texas Rangers (-1.5) | Baltimore Orioles (BUY) | 91% | 15.56 | ⏳ pendiente | — |
 | RN1 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 41% | 2.31 | ⏳ pendiente | — |
@@ -117,8 +118,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | New York Mets vs. Pittsburgh Pirates: O/ | Under (BUY) | 48% | 2.52 | ❌ perdida | -2.52 |
 | swisstony | Spread: CS Independiente Rivadavia (-1.5 | AA Estudiantes (BUY) | 87% | 2.13 | ⏳ pendiente | — |
 | swisstony | Will CD Universidad Católica win on 2026 | Yes (BUY) | 89% | 0.92 | ⏳ pendiente | — |
-| RN1 | Spread: Los Angeles Angels (-1.5) | Miami Marlins (BUY) | 92% | 1.07 | ⏳ pendiente | — |
+| RN1 | Spread: Los Angeles Angels (-1.5) | Miami Marlins (BUY) | 92% | 1.07 | ✅ ganada | +0.09 |
 | swisstony | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 65% | 1.83 | ⏳ pendiente | — |
 | swisstony | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 76% | 2.71 | ⏳ pendiente | — |
-| RN1 | Spread: Los Angeles Angels (-1.5) | Los Angeles Angels (BUY) | 79% | 0.82 | ⏳ pendiente | — |
-| swisstony | Will CS Independiente Rivadavia win on 2 | No (BUY) | 55% | 1.08 | ⏳ pendiente | — |
+| RN1 | Spread: Los Angeles Angels (-1.5) | Los Angeles Angels (BUY) | 79% | 0.82 | ❌ perdida | -0.82 |
