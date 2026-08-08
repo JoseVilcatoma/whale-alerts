@@ -3540,6 +3540,26 @@
       "timestamp": 1786230350.3373072,
       "bankroll": 500.55,
       "event": "won: wr0ngw4yb3tt0r \u2014 UFC Fight Night: Manoel Sousa vs. Richie Miranda (Lightweight, Prelims)"
+    },
+    {
+      "timestamp": 1786230394.6866736,
+      "bankroll": 500.55,
+      "event": "lost: 1winstreak1 \u2014 Spread: Los Angeles Angels (-2.5)"
+    },
+    {
+      "timestamp": 1786230400.7367806,
+      "bankroll": 500.55,
+      "event": "lost: ferrariChampions2026 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 9.5"
+    },
+    {
+      "timestamp": 1786230408.867395,
+      "bankroll": 500.55,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 9.5"
+    },
+    {
+      "timestamp": 1786230459.02465,
+      "bankroll": 500.55,
+      "event": "won: 1winstreak1 \u2014 Spread: Miami Marlins (-2.5)"
     }
   ]
 }
