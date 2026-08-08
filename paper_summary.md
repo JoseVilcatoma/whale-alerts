@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 22:53:15 (hora de Perú)
+Actualizado: 2026-08-07 22:55:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $994.88
-**Retorno acumulado:** -0.51%
+**Bankroll actual:** $996.89
+**Retorno acumulado:** -0.31%
 **Peor caída desde un máximo (drawdown):** 0.51%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,13 +13,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| ferrariChampions2026 | 0 | 0 | 33 | +0.00 USD |
-| greyoctober | 0 | 0 | 1 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 35 | +0.00 USD |
+| greyoctober | 0 | 0 | 2 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 0 | 0 | 4 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 1 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 15 | +0.00 USD |
-| 0x4f2 | 1 | 8 | 12 | -5.14 USD |
+| 0x4f2 | 2 | 8 | 11 | -3.13 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -40,6 +40,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| greyoctober | Valorant: DRX vs T1 (BO3) - VCT Pacific  | T1 (BUY) | 63% | 4.53 | ⏳ pendiente | — |
+| ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 60% | 5.75 | ⏳ pendiente | — |
+| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Under (BUY) | 91% | 1.14 | ⏳ pendiente | — |
 | 0x4f2 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 44% | 1.26 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Juárez win on 2026-08-07? | No (BUY) | 91% | 5.01 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 39% | 6.60 | ⏳ pendiente | — |
@@ -67,6 +70,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 68% | 3.25 | ⏳ pendiente | — |
 | RN1 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 88% | 1.04 | ⏳ pendiente | — |
 | 0x4f2 | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 15% | 1.27 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Los Angeles Dodgers (-2.5) | Arizona Diamondbacks (BUY) | 85% | 2.08 | ⏳ pendiente | — |
-| 0x4f2 | Spread: Arizona Diamondbacks (-1.5) | Los Angeles Dodgers (BUY) | 77% | 2.11 | ⏳ pendiente | — |
-| 0x4f2 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 66% | 2.06 | 💰 vendida anticipada | -1.00 |
