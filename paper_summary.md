@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 17:26:34 (hora de Perú)
+Actualizado: 2026-08-08 17:28:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $497.43
@@ -20,17 +20,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 39 | 27 | 10 | +9.02 USD |
 | quavoo | 5 | 5 | 79 | +8.84 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| Talvez10 | 1 | 2 | 11 | +0.00 USD |
+| Talvez10 | 1 | 2 | 12 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | wr0ngw4yb3tt0r | 15 | 13 | 13 | -10.71 USD |
-| 1winstreak1 | 11 | 13 | 34 | -12.25 USD |
+| 1winstreak1 | 11 | 13 | 35 | -12.25 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 14 | 12 | 14 | -22.00 USD |
+| RN1 | 14 | 12 | 15 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 182 | 156 | 53 | -74.91 USD |
+| ferrariChampions2026 | 182 | 158 | 52 | -74.91 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 7 | -303.20 USD |
 
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-wb-lng-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-laa-mia-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard, quavoo |
 | jap-avi-vis-2026-08-08-spread-away-1pt5 | UpTheBlues, ferrariChampions2026 |
-| mlb-oak-bos-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-oak-bos-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard, RN1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tor-phi-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard, RN1, Talvez10, ferrariChampions2026, quavoo |
 | mlb-lad-ari-2026-08-08-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-185pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -135,6 +135,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Athletics vs. Boston Red Sox: O/U 9.5 | Over (BUY) | 34% | 0.74 | ⏳ pendiente | — |
+| Talvez10 | Jordan Walker: Home Runs O/U 0.5 | Under (BUY) | 82% | 11.21 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 45% | 1.03 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 0.87 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Boca Juniors win on 2026-08-08? | Yes (BUY) | 62% | 0.61 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 3.14 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 2.54 | ⏳ pendiente | — |
@@ -161,7 +165,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will ADC Juan Pablo II College win on 20 | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Athletics (-1.5) | Athletics (BUY) | 78% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| RN1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| RN1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 52% | 0.00 | ⏳ pendiente | — |
