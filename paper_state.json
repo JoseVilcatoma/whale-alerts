@@ -2975,6 +2975,36 @@
       "timestamp": 1786225291.496256,
       "bankroll": 473.93,
       "event": "won: ferrariChampions2026 \u2014 Atlanta Braves vs. New York Yankees: O/U 6.5"
+    },
+    {
+      "timestamp": 1786225909.4059143,
+      "bankroll": 473.93,
+      "event": "lost: HomeRunHazard \u2014 Atlanta Braves vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786225921.1578138,
+      "bankroll": 473.93,
+      "event": "won: 1winstreak1 \u2014 Atlanta Braves vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786225924.1279428,
+      "bankroll": 473.93,
+      "event": "lost: 1winstreak1 \u2014 Atlanta Braves vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786225930.4401903,
+      "bankroll": 473.93,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Atlanta Braves vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786225932.34047,
+      "bankroll": 473.93,
+      "event": "won: 1winstreak1 \u2014 Atlanta Braves vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786225934.5315204,
+      "bankroll": 473.93,
+      "event": "lost: 1winstreak1 \u2014 Atlanta Braves vs. New York Yankees: O/U 7.5"
     }
   ]
 }

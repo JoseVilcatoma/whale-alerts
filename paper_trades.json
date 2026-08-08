@@ -11734,8 +11734,8 @@
     "whale_pct": 0.281,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786192183.7978044,
@@ -15351,7 +15351,7 @@
     "whale_pct": 0.734,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "HomeRunHazard"
@@ -15860,8 +15860,8 @@
     "whale_pct": 0.258,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 35,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -16946,8 +16946,8 @@
     "whale_pct": 0.291,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "1winstreak1",
       "HomeRunHazard"
@@ -17305,7 +17305,7 @@
     "whale_pct": 0.19,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "HomeRunHazard",
@@ -17799,8 +17799,8 @@
     "whale_pct": 0.251,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "HomeRunHazard",
       "wr0ngw4yb3tt0r"
@@ -19691,5 +19691,69 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786225860.8603203,
     "fills": 2
+  },
+  {
+    "timestamp": 1786225882,
+    "timestamp_added": 1786225882.399467,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lec-orl-leo-2026-08-08-orl",
+    "title": "Will Orlando City SC win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 490.82,
+    "whale_pct": 0.426,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786225882.3994782,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786225891,
+    "timestamp_added": 1786225891.7047234,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-tor-phi-2026-08-08-total-9pt5",
+    "title": "Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 6866.0016,
+    "whale_pct": 1.175,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10",
+      "ferrariChampions2026",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786225891.7047348,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786225982,
+    "timestamp_added": 1786225982.9283066,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lec-orl-leo-2026-08-08-orl",
+    "title": "Will Orlando City SC win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 235.52,
+    "whale_pct": 0.201,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786225982.9283214,
+    "fills": 1
   }
 ]

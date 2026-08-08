@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:51:19 (hora de Perú)
+Actualizado: 2026-08-08 16:53:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -17,15 +17,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
-| quavoo | 5 | 4 | 63 | +8.84 USD |
-| HomeRunHazard | 8 | 11 | 65 | +3.36 USD |
+| quavoo | 5 | 4 | 65 | +8.84 USD |
+| HomeRunHazard | 8 | 12 | 65 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 14 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 14 | 11 | 15 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 50 | -12.25 USD |
+| wr0ngw4yb3tt0r | 14 | 12 | 14 | -11.76 USD |
+| 1winstreak1 | 2 | 5 | 46 | -12.25 USD |
 | ThornyDevil | 3 | 4 | 2 | -16.40 USD |
 | RN1 | 8 | 9 | 16 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -126,6 +126,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
 | quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | quavoo | Las Vegas Aces vs. New York Liberty | New York Liberty (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
@@ -152,6 +155,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | UFC Fight Night: Juliana Miller vs. Rave | Juliana Miller (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 78% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Juliana Miller vs. Rave | Juliana Miller (BUY) | 77% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Boston Red Sox (-2.5) | Athletics (BUY) | 82% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 20% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
