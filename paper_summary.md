@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 01:15:30 (hora de Perú)
+Actualizado: 2026-08-08 01:17:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $949.24
@@ -17,9 +17,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 1 | 0 | 40 | +0.03 USD |
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 18 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 19 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
-| fRibrenlc | 0 | 0 | 6 | +0.00 USD |
+| fRibrenlc | 0 | 0 | 7 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 16 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
@@ -55,6 +55,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
 | fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 1.38 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 5.97 | ⏳ pendiente | — |
+| fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 1.38 | ⏳ pendiente | — |
 | UpTheBlues | FK Lokomotiv Moskva vs. FK Akron Tolyatt | Under (BUY) | 23% | 0.98 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 19.20 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports - Game  | LNG Esports (BUY) | 35% | 1.27 | ⏳ pendiente | — |
@@ -82,5 +84,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 1.06 | ⏳ pendiente | — |
 | quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 61% | 3.31 | ⏳ pendiente | — |
 | quavoo | Will FC Seoul win on 2026-08-08? | Yes (BUY) | 49% | 3.64 | ⏳ pendiente | — |
-| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 61% | 1.43 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Tegevajaro Miyazaki (-1.5) | Yokohama FC (BUY) | 84% | 2.90 | ⏳ pendiente | — |
