@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 10:10:31 (hora de Perú)
+Actualizado: 2026-08-08 10:12:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $586.57
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 9 | 1 | +9.70 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 9 | 3 | +9.70 USD |
 | greyoctober | 4 | 0 | 3 | +9.27 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Spicer | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
 | quavoo | 0 | 1 | 29 | -3.64 USD |
-| HomeRunHazard | 4 | 6 | 49 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 51 | -3.99 USD |
 | UpTheBlues | 33 | 22 | 10 | -4.84 USD |
 | RN1 | 6 | 6 | 5 | -6.29 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -84,6 +84,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 1 | Natus Vincere (BUY) | 63% | 25.45 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 1 | Natus Vincere (BUY) | 63% | 98.64 | ⏳ pendiente | — |
+| HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 191.5 | Under (BUY) | 55% | 1.34 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Minnesota Lynx (-4.5) | Las Vegas Aces (BUY) | 49% | 3.69 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 49% | 9.01 | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 53% | 2.96 | ⏳ pendiente | — |
 | StasPanda | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | KT Rolster (BUY) | 38% | 89.64 | ⏳ pendiente | — |
@@ -110,7 +114,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Tottenham Hotspur win on 2026-08-08 | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | quavoo | Racing Club De Lens vs. Sunderland AFC:  | Over (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Over (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| quavoo | Cleveland Guardians vs. Chicago White So | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 56% | 7.58 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 65% | 1.62 | ⏳ pendiente | — |
