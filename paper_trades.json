@@ -5964,5 +5964,140 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786180361.7694907,
     "fills": 1
+  },
+  {
+    "timestamp": 1786180401,
+    "timestamp_added": 1786180402.1478784,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-t1-hle1-2026-08-08-game2",
+    "title": "LoL: T1 vs Hanwha Life Esports - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 381.978,
+    "whale_pct": 1.442,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ThornyDevil",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786180402.1478853,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786180404,
+    "timestamp_added": 1786180405.207363,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-t1-hle1-2026-08-08",
+    "title": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 1884.8558,
+    "whale_pct": 1.23,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786180405.2073681,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786180409,
+    "timestamp_added": 1786180409.8771935,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-t1-hle1-2026-08-08-game2",
+    "title": "LoL: T1 vs Hanwha Life Esports - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 425.3262,
+    "whale_pct": 0.278,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "ThornyDevil"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786180409.877201,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786180412,
+    "timestamp_added": 1786180413.4814782,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-t1-hle1-2026-08-08",
+    "title": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 1920.0,
+    "whale_pct": 7.28,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786180413.4814837,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786180421,
+    "timestamp_added": 1786180422.0722167,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-t1-hle1-2026-08-08",
+    "title": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 4484.389999999999,
+    "whale_pct": 2.845,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786180422.4828463,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786180502,
+    "timestamp_added": 1786180503.1019082,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-t1-hle1-2026-08-08-game2",
+    "title": "LoL: T1 vs Hanwha Life Esports - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 2427.2832999999996,
+    "whale_pct": 8.547,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 26,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ThornyDevil",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786180503.1019154,
+    "fills": 1
   }
 ]
