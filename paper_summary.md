@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 11:00:27 (hora de Perú)
+Actualizado: 2026-08-08 11:02:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $619.07
@@ -16,20 +16,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 10 | 1 | +61.27 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 36 | 24 | 5 | +5.35 USD |
-| Spicer | 1 | 0 | 6 | +4.87 USD |
+| UpTheBlues | 36 | 25 | 4 | +5.35 USD |
+| Spicer | 1 | 0 | 8 | +4.87 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 5 | -1.58 USD |
 | quavoo | 0 | 1 | 29 | -3.64 USD |
-| HomeRunHazard | 4 | 6 | 59 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 61 | -3.99 USD |
 | RN1 | 8 | 7 | 2 | -5.53 USD |
 | ThornyDevil | 3 | 2 | 0 | -16.40 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 147 | 128 | 3 | -76.06 USD |
+| ferrariChampions2026 | 148 | 128 | 2 | -76.06 USD |
 | TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -87,6 +87,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Spicer | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| Spicer | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Minnesota Lynx (-5.5) | Las Vegas Aces (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Storm vs. Portland Fire: O/U 179 | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
@@ -113,7 +117,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 63% | 11.97 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 55% | 10.90 | ⏳ pendiente | — |
 | quavoo | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 60% | 2.63 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 41% | 4.38 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 48% | 1.04 | ⏳ pendiente | — |
-| quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 21% | 2.66 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |

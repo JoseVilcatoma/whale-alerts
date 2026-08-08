@@ -2420,6 +2420,16 @@
       "timestamp": 1786204571.579579,
       "bankroll": 619.07,
       "event": "won: RN1 \u2014 Will Dalian Yingbo FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786204884.2010071,
+      "bankroll": 619.07,
+      "event": "lost: UpTheBlues \u2014 Will Meizhou Hakka win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786204885.9403625,
+      "bankroll": 619.07,
+      "event": "won: ferrariChampions2026 \u2014 V\u00e5lerenga Fotball vs. FK Bod\u00f8/Glimt: O/U 3.5"
     }
   ]
 }
