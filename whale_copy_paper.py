@@ -76,8 +76,8 @@ TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
 
 INITIAL_BANKROLL = float(os.environ.get("INITIAL_BANKROLL", "1000"))
-TOP_N_CANDIDATES = int(os.environ.get("TOP_N_CANDIDATES", "20"))
-TOP_K_REPLICATE = int(os.environ.get("TOP_K_REPLICATE", "5"))
+TOP_N_CANDIDATES = int(os.environ.get("TOP_N_CANDIDATES", "30"))
+TOP_K_REPLICATE = int(os.environ.get("TOP_K_REPLICATE", "10"))
 MIN_TRADE_PCT = float(os.environ.get("MIN_TRADE_PCT", "0.1"))
 MIN_WHALE_PORTFOLIO = float(os.environ.get("MIN_WHALE_PORTFOLIO", "2000"))
 MAX_DAYS_TO_RESOLUTION = float(os.environ.get("MAX_DAYS_TO_RESOLUTION", "1"))  # solo mercados que resuelven el mismo día
