@@ -20285,5 +20285,69 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786150525.2360432,
     "fills": 1
+  },
+  {
+    "timestamp": 1786150583,
+    "timestamp_added": 1786150583.7028842,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-riv1-aae-2026-08-07-aae",
+    "title": "Will AA Estudiantes win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 832.15,
+    "whale_pct": 0.405,
+    "paper_stake_usd": 3.22,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786150583.7028902,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786150589,
+    "timestamp_added": 1786150590.1637888,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "argpn-afm-mai-2026-08-07-total-3pt5",
+    "title": "CA Ferrocarril Midland vs. CD Maipu: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 377.899997,
+    "whale_pct": 0.184,
+    "paper_stake_usd": 1.46,
+    "odds_at_bet": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786150590.1637955,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786150604,
+    "timestamp_added": 1786150604.3528898,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-cle-cws-2026-08-07-total-9pt5",
+    "title": "Cleveland Guardians vs. Chicago White Sox: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 350.0,
+    "whale_pct": 0.17,
+    "paper_stake_usd": 1.36,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786150604.3528972,
+    "fills": 1
   }
 ]
