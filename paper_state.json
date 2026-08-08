@@ -1,5 +1,5 @@
 {
-  "bankroll": 995.8759499676878,
+  "bankroll": 994.8771620888999,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -35,6 +35,11 @@
       "timestamp": 1786159982.772044,
       "bankroll": 995.88,
       "event": "venta anticipada: 0x4f2 \u2014 Spread: Atlanta Braves (-1.5) (-1.78 USD)"
+    },
+    {
+      "timestamp": 1786161037.0233948,
+      "bankroll": 994.88,
+      "event": "venta anticipada: 0x4f2 \u2014 Spread: Toronto Blue Jays (-1.5) (-1.00 USD)"
     }
   ]
 }

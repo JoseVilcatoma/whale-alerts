@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 22:49:02 (hora de Perú)
+Actualizado: 2026-08-07 22:51:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $995.88
-**Retorno acumulado:** -0.41%
-**Peor caída desde un máximo (drawdown):** 0.41%
+**Bankroll actual:** $994.88
+**Retorno acumulado:** -0.51%
+**Peor caída desde un máximo (drawdown):** 0.51%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -13,13 +13,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| ferrariChampions2026 | 0 | 0 | 30 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 31 | +0.00 USD |
 | greyoctober | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 0 | 0 | 4 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 1 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 15 | +0.00 USD |
-| 0x4f2 | 1 | 7 | 12 | -4.14 USD |
+| 0x4f2 | 1 | 8 | 11 | -5.14 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -39,6 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 42% | 1.15 | ⏳ pendiente | — |
 | UpTheBlues | CS Cartaginés vs. Sporting FC: O/U 2.5 | Over (BUY) | 99% | 3.13 | ⏳ pendiente | — |
 | UpTheBlues | CD Malacateco vs. CSD Xelajú MC: O/U 3.5 | Under (BUY) | 90% | 1.02 | ⏳ pendiente | — |
 | UpTheBlues | Will Qingdao Hainiu FC win on 2026-08-08 | No (BUY) | 79% | 2.01 | ⏳ pendiente | — |
@@ -64,8 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 15% | 1.27 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-2.5) | Arizona Diamondbacks (BUY) | 85% | 2.08 | ⏳ pendiente | — |
 | 0x4f2 | Spread: Arizona Diamondbacks (-1.5) | Los Angeles Dodgers (BUY) | 77% | 2.11 | ⏳ pendiente | — |
-| 0x4f2 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 66% | 2.06 | ⏳ pendiente | — |
+| 0x4f2 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 66% | 2.06 | 💰 vendida anticipada | -1.00 |
 | 0x4f2 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 92% | 1.93 | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 72% | 3.02 | ⏳ pendiente | — |
 | 0x4f2 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 89% | 1.86 | 💰 vendida anticipada | -0.44 |
-| RN1 | Spread: San Francisco Giants (-1.5) | Detroit Tigers (BUY) | 68% | 2.48 | ⏳ pendiente | — |
