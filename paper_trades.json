@@ -13070,5 +13070,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786208857.061611,
     "fills": 1
+  },
+  {
+    "timestamp": 1786209099,
+    "timestamp_added": 1786209100.0078566,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-las-min-2026-08-08",
+    "title": "Las Vegas Aces vs. Minnesota Lynx",
+    "outcome": "Las Vegas Aces",
+    "side": "BUY",
+    "whale_usd": 740.2180000000001,
+    "whale_pct": 0.693,
+    "paper_stake_usd": 4.3,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786209100.0078642,
+    "fills": 1
   }
 ]
