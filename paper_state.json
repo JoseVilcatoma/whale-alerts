@@ -1,5 +1,5 @@
 {
-  "bankroll": 961.3894348161726,
+  "bankroll": 961.6194348161727,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -75,6 +75,11 @@
       "timestamp": 1786162427.4913197,
       "bankroll": 961.39,
       "event": "won: ferrariChampions2026 \u2014 Golden State Valkyries vs. Dallas Wings"
+    },
+    {
+      "timestamp": 1786162800.6828578,
+      "bankroll": 961.62,
+      "event": "won: 0x4f2 \u2014 Spread: Philadelphia Phillies (-1.5)"
     }
   ]
 }
