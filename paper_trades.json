@@ -21295,5 +21295,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786152848.9884977,
     "fills": 1
+  },
+  {
+    "timestamp": 1786153039,
+    "timestamp_added": 1786153039.2761326,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-riv1-aae-2026-08-07-draw",
+    "title": "Will CS Independiente Rivadavia vs. AA Estudiantes end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 473.68,
+    "whale_pct": 0.148,
+    "paper_stake_usd": 1.15,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786153039.2761421,
+    "fills": 1
   }
 ]
