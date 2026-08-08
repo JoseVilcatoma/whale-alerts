@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 19:01:49 (hora de Perú)
+Actualizado: 2026-08-07 19:03:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.44
@@ -20,9 +20,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 4 | +1.51 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 8 | 0 | -12.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 47 | 22 | 7 | -86.85 USD |
+| RN1 | 47 | 22 | 8 | -86.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 310 | 181 | 70 | -100.04 USD |
+| swisstony | 310 | 181 | 75 | -100.04 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -76,6 +76,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Operário Ferroviário EC vs. São Ber | Yes (BUY) | 54% | 0.91 | ⏳ pendiente | — |
+| swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Under (BUY) | 41% | 1.11 | ⏳ pendiente | — |
+| RN1 | CA Rosario Central vs. CA Aldosivi: O/U  | Over (BUY) | 59% | 1.49 | ⏳ pendiente | — |
+| swisstony | Spread: Phoenix Mercury (-5.5) | Phoenix Mercury (BUY) | 61% | 1.86 | ⏳ pendiente | — |
+| swisstony | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 44% | 1.43 | ⏳ pendiente | — |
+| swisstony | Will CA Rosario Central win on 2026-08-0 | No (BUY) | 55% | 1.76 | ⏳ pendiente | — |
 | swisstony | Spread: Phoenix Mercury (-6.5) | Connecticut Sun (BUY) | 35% | 0.97 | ⏳ pendiente | — |
 | RN1 | Will CA Rosario Central vs. CA Aldosivi  | Yes (BUY) | 45% | 1.16 | ⏳ pendiente | — |
 | swisstony | Will CA Rosario Central vs. CA Aldosivi  | Yes (BUY) | 45% | 0.81 | ⏳ pendiente | — |
@@ -100,9 +106,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will CA Aldosivi win on 2026-08-07? | Yes (BUY) | 44% | 1.32 | ⏳ pendiente | — |
 | swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Over (BUY) | 37% | 1.45 | ⏳ pendiente | — |
 | swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Over (BUY) | 35% | 2.14 | ⏳ pendiente | — |
-| swisstony | Will CA Aldosivi win on 2026-08-07? | Yes (BUY) | 45% | 2.76 | ⏳ pendiente | — |
-| swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Over (BUY) | 35% | 2.18 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Connecticut Sun: O/U | Over (BUY) | 59% | 0.93 | ⏳ pendiente | — |
-| swisstony | Will Ceará SC win on 2026-08-07? | No (BUY) | 40% | 0.81 | ⏳ pendiente | — |
-| swisstony | CA Rosario Central vs. CA Aldosivi: O/U  | Over (BUY) | 72% | 6.34 | ⏳ pendiente | — |
-| swisstony | Will CA Rosario Central win on 2026-08-0 | No (BUY) | 46% | 2.01 | ⏳ pendiente | — |
