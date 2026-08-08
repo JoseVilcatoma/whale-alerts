@@ -1,5 +1,5 @@
 {
-  "bankroll": 883.1102080381618,
+  "bankroll": 888.6532788197543,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -1260,6 +1260,56 @@
       "timestamp": 1786192444.6825044,
       "bankroll": 883.11,
       "event": "won: UpTheBlues \u2014 Sanfrecce Hiroshima vs. JEF United Ichihara Chiba: O/U 4.5"
+    },
+    {
+      "timestamp": 1786192506.5253813,
+      "bankroll": 883.11,
+      "event": "won: UpTheBlues \u2014 Sanfrecce Hiroshima vs. JEF United Ichihara Chiba: O/U 3.5"
+    },
+    {
+      "timestamp": 1786192513.996311,
+      "bankroll": 883.11,
+      "event": "lost: ferrariChampions2026 \u2014 Sanfrecce Hiroshima vs. JEF United Ichihara Chiba: O/U 3.5"
+    },
+    {
+      "timestamp": 1786192515.7093112,
+      "bankroll": 883.46,
+      "event": "won: ferrariChampions2026 \u2014 Will Sanfrecce Hiroshima vs. JEF United Ichihara Chiba end in a draw?"
+    },
+    {
+      "timestamp": 1786192566.1310492,
+      "bankroll": 883.46,
+      "event": "won: ferrariChampions2026 \u2014 Sanfrecce Hiroshima vs. JEF United Ichihara Chiba: O/U 1.5"
+    },
+    {
+      "timestamp": 1786192566.7766387,
+      "bankroll": 883.46,
+      "event": "won: ferrariChampions2026 \u2014 Sanfrecce Hiroshima vs. JEF United Ichihara Chiba: O/U 1.5"
+    },
+    {
+      "timestamp": 1786192567.6781046,
+      "bankroll": 883.46,
+      "event": "won: UpTheBlues \u2014 Sanfrecce Hiroshima vs. JEF United Ichihara Chiba: O/U 1.5"
+    },
+    {
+      "timestamp": 1786192574.3812282,
+      "bankroll": 884.58,
+      "event": "won: ferrariChampions2026 \u2014 Sanfrecce Hiroshima vs. JEF United Ichihara Chiba: O/U 1.5"
+    },
+    {
+      "timestamp": 1786192575.4039006,
+      "bankroll": 885.75,
+      "event": "won: ferrariChampions2026 \u2014 Sanfrecce Hiroshima vs. JEF United Ichihara Chiba: O/U 1.5"
+    },
+    {
+      "timestamp": 1786192575.6041877,
+      "bankroll": 886.96,
+      "event": "won: ferrariChampions2026 \u2014 Sanfrecce Hiroshima vs. JEF United Ichihara Chiba: O/U 1.5"
+    },
+    {
+      "timestamp": 1786192576.6055408,
+      "bankroll": 888.65,
+      "event": "won: ferrariChampions2026 \u2014 Sanfrecce Hiroshima vs. JEF United Ichihara Chiba: O/U 1.5"
     }
   ]
 }

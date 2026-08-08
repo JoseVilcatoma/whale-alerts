@@ -8656,7 +8656,7 @@
     "whale_pct": 0.49,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 93,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -8896,7 +8896,7 @@
     "whale_pct": 0.457,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 91,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -8998,7 +8998,7 @@
     "whale_pct": 0.295,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 65,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -9100,7 +9100,7 @@
     "whale_pct": 0.242,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 97,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ferrariChampions2026"
@@ -10478,8 +10478,8 @@
     "whale_pct": 0.12,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 25,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -10808,8 +10808,8 @@
     "whale_pct": 0.348,
     "paper_stake_usd": 3.03,
     "odds_at_bet": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.12,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -10830,8 +10830,8 @@
     "whale_pct": 0.364,
     "paper_stake_usd": 3.17,
     "odds_at_bet": 90,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.35,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786189022.7998443,
@@ -10972,8 +10972,8 @@
     "whale_pct": 0.313,
     "paper_stake_usd": 2.73,
     "odds_at_bet": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.17,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -11014,8 +11014,8 @@
     "whale_pct": 0.309,
     "paper_stake_usd": 2.69,
     "odds_at_bet": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.21,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -11222,8 +11222,8 @@
     "whale_pct": 0.317,
     "paper_stake_usd": 2.76,
     "odds_at_bet": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.69,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -11992,5 +11992,111 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786192366.610754,
     "fills": 1
+  },
+  {
+    "timestamp": 1786192483,
+    "timestamp_added": 1786192483.680591,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-cle-cws-2026-08-08-total-8pt5",
+    "title": "Cleveland Guardians vs. Chicago White Sox: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 5623.9998,
+    "whale_pct": 4.299,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786192484.1008182,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786192484,
+    "timestamp_added": 1786192485.2313495,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-cle-cws-2026-08-08-total-6pt5",
+    "title": "Cleveland Guardians vs. Chicago White Sox: O/U 6.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 217.93,
+    "whale_pct": 0.167,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786192485.231359,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786192485,
+    "timestamp_added": 1786192486.2427316,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-laa-mia-2026-08-08-total-8pt5",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2836.998,
+    "whale_pct": 2.169,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786192486.242738,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786192560,
+    "timestamp_added": 1786192560.9581053,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-cle-cws-2026-08-08-total-8pt5",
+    "title": "Cleveland Guardians vs. Chicago White Sox: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1352.415,
+    "whale_pct": 0.969,
+    "paper_stake_usd": 3.52,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786192560.958114,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786192573,
+    "timestamp_added": 1786192573.6965454,
+    "username": "ThornyDevil",
+    "wallet": "0xa7590cd0d4a5620fe4651dc0e6569817e6b31119",
+    "slug": "lol-ns-dnf-2026-08-08-game2",
+    "title": "LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "whale_usd": 599.6459,
+    "whale_pct": 6.228,
+    "paper_stake_usd": 16.4,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786192580.7388644,
+    "fills": 3
   }
 ]

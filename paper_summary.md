@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 07:34:25 (hora de Perú)
+Actualizado: 2026-08-08 07:36:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $883.11
-**Retorno acumulado:** -11.69%
+**Bankroll actual:** $888.65
+**Retorno acumulado:** -11.13%
 **Peor caída desde un máximo (drawdown):** 19.35%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,17 +20,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 0 | 0 | 28 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 20 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
-| ThornyDevil | 2 | 0 | 2 | +0.00 USD |
+| ThornyDevil | 2 | 0 | 3 | +0.00 USD |
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
 | Spicer | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 38 | -3.99 USD |
-| UpTheBlues | 22 | 18 | 25 | -4.56 USD |
+| HomeRunHazard | 4 | 6 | 42 | -3.99 USD |
+| UpTheBlues | 24 | 18 | 23 | -4.56 USD |
 | RN1 | 2 | 2 | 13 | -5.13 USD |
+| ferrariChampions2026 | 74 | 81 | 123 | -65.39 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
-| ferrariChampions2026 | 67 | 80 | 131 | -70.93 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -84,6 +84,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ThornyDevil | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 43% | 16.40 | ⏳ pendiente | — |
+| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 58% | 3.52 | ⏳ pendiente | — |
+| HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 37% | 0.00 | ⏳ pendiente | — |
@@ -108,9 +113,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Karlsruher SC win on 2026-08-08? | Yes (BUY) | 59% | 1.36 | ⏳ pendiente | — |
 | RN1 | SV Darmstadt 98 vs. Holstein Kiel: O/U 3 | Under (BUY) | 43% | 1.65 | ⏳ pendiente | — |
 | Spicer | Game Handicap: BLG (-1.5) vs EDward Gami | Bilibili Gaming (BUY) | 67% | 2.09 | ⏳ pendiente | — |
-| Spicer | Game Handicap: BLG (-1.5) vs EDward Gami | Bilibili Gaming (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Holstein Kiel (-1.5) | SV Darmstadt 98 (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Bucheon FC 1995 win on 2026-08-08? | No (BUY) | 65% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Vålerenga Fotball vs. FK Bodø/Glimt: O/U | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Bucheon FC 1995 vs. Gwangju FC: O/U 0.5 | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | Spicer | Game Handicap: BLG (-1.5) vs EDward Gami | Bilibili Gaming (BUY) | 67% | 0.00 | ⏳ pendiente | — |
