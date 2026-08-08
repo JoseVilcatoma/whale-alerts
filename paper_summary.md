@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:48:11 (hora de Perú)
+Actualizado: 2026-08-08 06:50:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $872.08
@@ -24,12 +24,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
+| Spicer | 0 | 0 | 2 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
-| RN1 | 2 | 2 | 9 | -5.13 USD |
+| RN1 | 2 | 2 | 11 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 31 | -9.46 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
-| ferrariChampions2026 | 32 | 20 | 220 | -67.78 USD |
+| ferrariChampions2026 | 32 | 20 | 222 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -78,6 +79,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Spicer | Game Handicap: BLG (-1.5) vs EDward Gami | Bilibili Gaming (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | Sanfrecce Hiroshima (BUY) | 41% | 0.00 | ⏳ pendiente | — |
+| Spicer | Game Handicap: BLG (-1.5) vs EDward Gami | Bilibili Gaming (BUY) | 66% | 1.39 | ⏳ pendiente | — |
+| RN1 | Will Queens Park Rangers FC win on 2026- | Yes (BUY) | 34% | 12.79 | ⏳ pendiente | — |
+| RN1 | Karlsruher SC vs. DSC Arminia Bielefeld: | Over (BUY) | 55% | 2.03 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | Sanfrecce Hiroshima (BUY) | 42% | 0.88 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Holstein Kiel win on 2026-08-08? | No (BUY) | 20% | 1.29 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | Sanfrecce Hiroshima (BUY) | 45% | 1.98 | ⏳ pendiente | — |
 | ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 62% | 2.76 | ⏳ pendiente | — |
@@ -102,9 +109,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Sanfrecce Hiroshima vs. JEF United  | No (BUY) | 90% | 3.17 | ⏳ pendiente | — |
 | ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 73% | 3.03 | ⏳ pendiente | — |
 | RN1 | Karlsruher SC vs. DSC Arminia Bielefeld: | Under (BUY) | 94% | 2.23 | ⏳ pendiente | — |
-| ferrariChampions2026 | Karlsruher SC vs. DSC Arminia Bielefeld: | Under (BUY) | 94% | 1.58 | ⏳ pendiente | — |
-| ferrariChampions2026 | Nagoya Grampus vs. Shimizu S-Pulse: O/U  | Over (BUY) | 58% | 1.25 | ⏳ pendiente | — |
-| RN1 | Will Eintracht Braunschweig win on 2026- | No (BUY) | 11% | 0.95 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Cerezo Ōsaka (-1.5) | Cerezo Ōsaka (BUY) | 24% | 1.10 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Inter Milano win on 2026-08-08? | Yes (BUY) | 57% | 1.15 | ⏳ pendiente | — |
-| RN1 | Qingdao Hainiu FC vs. Shanghai Shenhua F | Over (BUY) | 74% | 1.31 | ⏳ pendiente | — |
