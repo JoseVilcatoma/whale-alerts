@@ -21458,5 +21458,69 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786230840.1425607,
     "fills": 1
+  },
+  {
+    "timestamp": 1786230866,
+    "timestamp_added": 1786230867.0498528,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-orl-leo-2026-08-08-orl",
+    "title": "Will Orlando City SC win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1016.2992,
+    "whale_pct": 0.149,
+    "paper_stake_usd": 0.79,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786230867.049863,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786230874,
+    "timestamp_added": 1786230874.7307339,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "chi1-ccu-cls-2026-08-08-draw",
+    "title": "Will CD Coquimbo Unido vs. CD La Serena end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1676.675,
+    "whale_pct": 1.962,
+    "paper_stake_usd": 10.33,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786230874.730745,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786230927,
+    "timestamp_added": 1786230928.0825415,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cin-wsh-2026-08-08-total-8pt5",
+    "title": "Cincinnati Reds vs. Washington Nationals: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3398.99,
+    "whale_pct": 0.499,
+    "paper_stake_usd": 2.62,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786230928.0825505,
+    "fills": 1
   }
 ]

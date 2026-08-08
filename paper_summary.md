@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 18:14:18 (hora de Perú)
+Actualizado: 2026-08-08 18:16:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $526.34
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 7 | 5 | 79 | +22.29 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 28 | 15 | +7.78 USD |
+| UpTheBlues | 39 | 28 | 16 | +7.78 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 14 | 12 | 15 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 194 | 164 | 40 | -70.25 USD |
+| ferrariChampions2026 | 194 | 164 | 42 | -70.25 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 7 | -303.20 USD |
 
@@ -124,8 +124,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-laa-mia-2026-08-08-total-9pt5 | 1winstreak1, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-tig | RN1, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-total-1pt5 | RN1, ferrariChampions2026 |
+| lec-orl-leo-2026-08-08-orl | ferrariChampions2026, quavoo |
 | mlb-oak-bos-2026-08-08-total-10pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-nym-pit-2026-08-08-total-7pt5 | HomeRunHazard, quavoo |
+| mlb-cin-wsh-2026-08-08-total-8pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-oak-bos-2026-08-08-spread-away-2pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
 | ufc-man15-rmiran-2026-08-08 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | per1-ajp-cag-2026-08-08-ajp | RN1, UpTheBlues |
@@ -137,6 +139,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 35% | 2.62 | ⏳ pendiente | — |
+| UpTheBlues | Will CD Coquimbo Unido vs. CD La Serena  | No (BUY) | 70% | 10.33 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 42% | 0.79 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 2.5 Rounds | Under (BUY) | 64% | 5.57 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 85% | 0.73 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 57% | 0.63 | ⏳ pendiente | — |
@@ -164,6 +169,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 2.54 | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Boca Juniors vs. CA Vélez Sarsfield:  | Over (BUY) | 63% | 0.63 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 1.63 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 0.70 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 83% | 0.70 | ✅ ganada | +0.14 |
-| ferrariChampions2026 | Will CA Boca Juniors win on 2026-08-08? | Yes (BUY) | 61% | 0.62 | ⏳ pendiente | — |
