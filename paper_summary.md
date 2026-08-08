@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:34:27 (hora de Perú)
+Actualizado: 2026-08-08 16:36:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -17,20 +17,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
-| quavoo | 5 | 4 | 50 | +8.84 USD |
-| HomeRunHazard | 8 | 11 | 62 | +3.36 USD |
+| quavoo | 5 | 4 | 52 | +8.84 USD |
+| HomeRunHazard | 8 | 11 | 64 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 14 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| StasPanda | 0 | 4 | 7 | +0.00 USD |
+| StasPanda | 0 | 4 | 8 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 12 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 41 | -12.25 USD |
+| 1winstreak1 | 0 | 3 | 44 | -12.25 USD |
 | ThornyDevil | 3 | 4 | 2 | -16.40 USD |
 | RN1 | 8 | 9 | 15 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 169 | 139 | 61 | -75.22 USD |
+| ferrariChampions2026 | 169 | 139 | 62 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 5 | -303.20 USD |
 
@@ -114,14 +114,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ufc-jul11-rav-2026-08-08 | Talvez10, wr0ngw4yb3tt0r |
 | arg-tig-riv-2026-08-08-total-0pt5 | RN1, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-riv | RN1, ferrariChampions2026 |
+| cs2-jjh-dendel-2026-08-09 | StasPanda, quavoo |
 | lol-c9-dsg-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-tig | RN1, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-total-1pt5 | RN1, ferrariChampions2026 |
+| mlb-oak-bos-2026-08-08-total-10pt5 | 1winstreak1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 20% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 64% | 0.00 | ⏳ pendiente | — |
+| StasPanda | Counter-Strike: JiJieHao vs DENDELE CS ( | DENDELE CS (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Boston Red Sox (-1.5) | Athletics (BUY) | 66% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: New York Yankees (-2.5) | Atlanta Braves (BUY) | 83% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Athletics vs. Boston Red Sox: O/U 10.5 | Over (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | quavoo | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
@@ -143,12 +154,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Tigre win on 2026-08-08? | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | quavoo | Orlando City SC vs. Club León FC: O/U 3. | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Boston Red Sox (-1.5) | Athletics (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Boston Red Sox (-2.5) | Athletics (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 18% | 0.00 | 💰 vendida anticipada | +0.00 |
-| HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 18% | 0.00 | 💰 vendida anticipada | +0.00 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 17% | 0.00 | 💰 vendida anticipada | +0.00 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 16% | 0.00 | 💰 vendida anticipada | +0.00 |
-| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
