@@ -1,5 +1,5 @@
 {
-  "bankroll": 953.8103368022045,
+  "bankroll": 920.3465063469453,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -575,6 +575,56 @@
       "timestamp": 1786173611.5417573,
       "bankroll": 953.81,
       "event": "venta anticipada: TAIWANNUMBERONE \u2014 LoL: T1 vs Hanwha Life Esports - Game 1 Winner (-2.68 USD)"
+    },
+    {
+      "timestamp": 1786173786.474606,
+      "bankroll": 949.54,
+      "event": "lost: ferrariChampions2026 \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786173786.5748012,
+      "bankroll": 945.77,
+      "event": "lost: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786173786.6749842,
+      "bankroll": 940.94,
+      "event": "lost: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786173786.7751331,
+      "bankroll": 938.21,
+      "event": "lost: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786173787.075553,
+      "bankroll": 933.2,
+      "event": "lost: ferrariChampions2026 \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786173787.5763655,
+      "bankroll": 906.85,
+      "event": "lost: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786173787.6765761,
+      "bankroll": 897.78,
+      "event": "lost: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786173787.876954,
+      "bankroll": 905.95,
+      "event": "won: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786173787.977154,
+      "bankroll": 917.34,
+      "event": "won: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786173788.0773401,
+      "bankroll": 920.35,
+      "event": "won: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
     }
   ]
 }

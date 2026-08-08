@@ -1081,8 +1081,8 @@
     "whale_pct": 0.428,
     "paper_stake_usd": 4.27,
     "odds_at_bet": 92,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -4.27,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786159694.6292155,
@@ -1161,8 +1161,8 @@
     "whale_pct": 0.379,
     "paper_stake_usd": 3.77,
     "odds_at_bet": 91,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -3.77,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -1247,8 +1247,8 @@
     "whale_pct": 0.485,
     "paper_stake_usd": 4.83,
     "odds_at_bet": 91,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -4.83,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -1291,8 +1291,8 @@
     "whale_pct": 0.274,
     "paper_stake_usd": 2.73,
     "odds_at_bet": 91,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.73,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -1541,8 +1541,8 @@
     "whale_pct": 0.504,
     "paper_stake_usd": 5.01,
     "odds_at_bet": 91,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.01,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -2225,8 +2225,8 @@
     "whale_pct": 2.723,
     "paper_stake_usd": 26.35,
     "odds_at_bet": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -26.35,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -2355,8 +2355,8 @@
     "whale_pct": 0.943,
     "paper_stake_usd": 9.07,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -9.07,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -2463,8 +2463,8 @@
     "whale_pct": 0.817,
     "paper_stake_usd": 7.85,
     "odds_at_bet": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 8.17,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -2529,8 +2529,8 @@
     "whale_pct": 1.138,
     "paper_stake_usd": 10.94,
     "odds_at_bet": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 11.39,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -2613,8 +2613,8 @@
     "whale_pct": 0.339,
     "paper_stake_usd": 3.26,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.01,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -5059,6 +5059,108 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786173733.2731745,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786173755,
+    "timestamp_added": 1786173755.266182,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-t1-hle1-2026-08-08",
+    "title": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 251.468085,
+    "whale_pct": 0.404,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786173755.2661908,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786173804,
+    "timestamp_added": 1786173805.084777,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-t1-hle1-2026-08-08",
+    "title": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 619.085106,
+    "whale_pct": 0.985,
+    "paper_stake_usd": 9.06,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786173805.0847864,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786173822,
+    "timestamp_added": 1786173822.8231459,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-wb-lng-2026-08-08-game1",
+    "title": "LoL: Weibo Gaming vs LNG Esports - Game 1 Winner",
+    "outcome": "Weibo Gaming",
+    "side": "BUY",
+    "whale_usd": 192.2305,
+    "whale_pct": 0.151,
+    "paper_stake_usd": 1.39,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786173822.8231544,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786173827,
+    "timestamp_added": 1786173827.3969798,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-t1-hle1-2026-08-08",
+    "title": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 164.83,
+    "whale_pct": 0.262,
+    "paper_stake_usd": 2.41,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786173827.3969886,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786173852,
+    "timestamp_added": 1786173852.5526018,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-t1-hle1-2026-08-08",
+    "title": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 7717.4943,
+    "whale_pct": 12.274,
+    "paper_stake_usd": 31.76,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786173852.5526104,
     "fills": 1
   }
 ]
