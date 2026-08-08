@@ -11578,5 +11578,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786190167.0532181,
     "fills": 1
+  },
+  {
+    "timestamp": 1786190355,
+    "timestamp_added": 1786190356.4408088,
+    "username": "Spicer",
+    "wallet": "0x3954e1c6b7bc5645d9d3425a6f4490889ef122d9",
+    "slug": "lol-blg-edg-2026-08-08-game1",
+    "title": "LoL: Bilibili Gaming vs EDward Gaming - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "whale_usd": 21399.999996,
+    "whale_pct": 102.455,
+    "paper_stake_usd": 18.33,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786190371.313069,
+    "fills": 2
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:58:47 (hora de Perú)
+Actualizado: 2026-08-08 07:00:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $881.36
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
-| Spicer | 0 | 0 | 4 | +0.00 USD |
+| Spicer | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 27 | -3.99 USD |
 | RN1 | 2 | 2 | 13 | -5.13 USD |
@@ -81,6 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Spicer | LoL: Bilibili Gaming vs EDward Gaming -  | Bilibili Gaming (BUY) | 79% | 18.33 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 43% | 1.64 | ⏳ pendiente | — |
 | RN1 | Will Karlsruher SC win on 2026-08-08? | Yes (BUY) | 59% | 1.36 | ⏳ pendiente | — |
 | RN1 | SV Darmstadt 98 vs. Holstein Kiel: O/U 3 | Under (BUY) | 43% | 1.65 | ⏳ pendiente | — |
@@ -110,4 +111,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | SV Darmstadt 98 vs. Holstein Kiel: O/U 1 | Over (BUY) | 89% | 3.62 | ⏳ pendiente | — |
 | ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 69% | 2.69 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 84% | 2.62 | ⏳ pendiente | — |
-| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 70% | 2.73 | ⏳ pendiente | — |
