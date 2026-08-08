@@ -335,22 +335,36 @@ def compute_top5_by_roi():
 
     alltime_ok = get_alltime_profitable_wallets()
 
+    total_candidatos = len(candidates)
+    descartados_portafolio = 0
+    descartados_historico = 0
+    descartados_cortoplazo = 0
+
     scored = []
     for w, t in candidates.items():
         pnl = t.get("pnl")
         value = get_portfolio_value(w)
         if pnl is None or not value or value < MIN_WHALE_PORTFOLIO:
+            descartados_portafolio += 1
             continue  # portafolio casi vacío -> el % se dispara sin ser real habilidad, se descarta
 
         if alltime_ok is not None and w not in alltime_ok:
+            descartados_historico += 1
             continue  # buen mes/semana puntual, pero sin historial ganador sostenido a largo plazo
 
         ratio = short_term_trade_ratio(w)
         if ratio is None or ratio < MIN_SHORT_TERM_SHARE:
+            descartados_cortoplazo += 1
             continue  # no opera mayormente en mercados de corto plazo, no nos sirve para este bot
 
         roi_pct = pnl / value * 100
         scored.append((w, t.get("userName", "anon"), roi_pct, ratio))
+
+    print(f"[ranking][diagnóstico] candidatos totales: {total_candidatos} | "
+          f"descartados por portafolio chico (<${MIN_WHALE_PORTFOLIO:.0f}): {descartados_portafolio} | "
+          f"descartados por no tener historial top-{ALLTIME_TOP_N} de toda la vida: {descartados_historico} | "
+          f"descartados por no ser mayormente corto plazo/deportes (<{MIN_SHORT_TERM_SHARE*100:.0f}%): {descartados_cortoplazo} | "
+          f"sobrevivientes finales: {len(scored)}")
 
     scored.sort(key=lambda x: x[2], reverse=True)
     return scored[:TOP_K_REPLICATE]
