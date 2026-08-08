@@ -1,5 +1,5 @@
 {
-  "bankroll": 528.2968502483258,
+  "bankroll": 529.7098089965477,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -1665,6 +1665,241 @@
       "timestamp": 1786195246.7154062,
       "bankroll": 528.3,
       "event": "won: ferrariChampions2026 \u2014 Elche CF vs. Toulouse FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786195439.7626355,
+      "bankroll": 528.3,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195439.9628432,
+      "bankroll": 528.3,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195440.4670374,
+      "bankroll": 528.3,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195440.5671897,
+      "bankroll": 528.3,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195440.767441,
+      "bankroll": 528.3,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195440.867571,
+      "bankroll": 528.3,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195441.4683998,
+      "bankroll": 528.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195442.3696263,
+      "bankroll": 528.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195442.4697673,
+      "bankroll": 528.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195442.5698943,
+      "bankroll": 528.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195442.6699944,
+      "bankroll": 528.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195442.7701411,
+      "bankroll": 528.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195442.870243,
+      "bankroll": 528.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195442.97039,
+      "bankroll": 528.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195443.0705507,
+      "bankroll": 528.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195443.1706927,
+      "bankroll": 528.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195443.5712643,
+      "bankroll": 528.3,
+      "event": "won: ThornyDevil \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195443.6714072,
+      "bankroll": 528.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195443.7715535,
+      "bankroll": 528.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195443.8717015,
+      "bankroll": 528.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195444.0720184,
+      "bankroll": 528.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195444.1721716,
+      "bankroll": 528.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195444.272311,
+      "bankroll": 528.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195444.3724437,
+      "bankroll": 528.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195444.4725924,
+      "bankroll": 528.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195444.5727417,
+      "bankroll": 528.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195444.773032,
+      "bankroll": 528.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195444.8731763,
+      "bankroll": 528.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195444.9733188,
+      "bankroll": 528.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195445.0734813,
+      "bankroll": 528.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195445.1736364,
+      "bankroll": 528.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195445.2737832,
+      "bankroll": 526.76,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195445.3739293,
+      "bankroll": 525.02,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195445.47406,
+      "bankroll": 528.43,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195445.5742083,
+      "bankroll": 529.71,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195445.969179,
+      "bankroll": 529.71,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195446.0693336,
+      "bankroll": 529.71,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195446.1694846,
+      "bankroll": 529.71,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195446.2696295,
+      "bankroll": 529.71,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195446.369762,
+      "bankroll": 529.71,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195446.469908,
+      "bankroll": 529.71,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195446.570049,
+      "bankroll": 529.71,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195446.6701913,
+      "bankroll": 529.71,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195446.770341,
+      "bankroll": 529.71,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195446.8704834,
+      "bankroll": 529.71,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195446.9706233,
+      "bankroll": 529.71,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786195447.070784,
+      "bankroll": 529.71,
+      "event": "lost: jtwyslljy \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
     }
   ]
 }

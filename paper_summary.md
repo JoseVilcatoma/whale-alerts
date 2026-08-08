@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 08:22:14 (hora de Perú)
+Actualizado: 2026-08-08 08:24:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $528.30
-**Retorno acumulado:** -47.17%
-**Peor caída desde un máximo (drawdown):** 47.17%
+**Bankroll actual:** $529.71
+**Retorno acumulado:** -47.03%
+**Peor caída desde un máximo (drawdown):** 47.50%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -14,13 +14,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 9 | 7 | +9.70 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 9 | 1 | +9.70 USD |
 | greyoctober | 4 | 0 | 3 | +9.27 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| quavoo | 0 | 0 | 30 | +0.00 USD |
+| quavoo | 0 | 0 | 31 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
-| ThornyDevil | 2 | 0 | 3 | +0.00 USD |
-| jtwyslljy | 0 | 0 | 1 | +0.00 USD |
+| ThornyDevil | 3 | 0 | 2 | +0.00 USD |
+| jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
 | Spicer | 0 | 0 | 5 | +0.00 USD |
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 4 | 6 | 45 | -3.99 USD |
 | UpTheBlues | 25 | 20 | 20 | -4.56 USD |
 | RN1 | 2 | 2 | 13 | -5.13 USD |
-| ferrariChampions2026 | 93 | 90 | 95 | -61.31 USD |
+| ferrariChampions2026 | 117 | 105 | 56 | -59.90 USD |
 | fRibrenlc | 0 | 12 | 8 | -127.91 USD |
 | TAIWANNUMBERONE | 1 | 31 | 6 | -303.20 USD |
 
@@ -77,6 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-ksc-bie-2026-08-08-total-2pt5 | RN1, ferrariChampions2026 |
 | bl2-ksc-bie-2026-08-08-ksc | RN1, ferrariChampions2026 |
 | bl2-svd-ksv-2026-08-08-total-3pt5 | RN1, ferrariChampions2026 |
+| clf-lev-sev-2026-08-08-lev | RN1, quavoo |
 | bl2-ksc-bie-2026-08-08-total-5pt5 | RN1, ferrariChampions2026 |
 | lol-blg-edg-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
 
@@ -84,6 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Bayer Leverkusen win on 2026-08-08? | Yes (BUY) | 53% | 0.64 | ⏳ pendiente | — |
 | quavoo | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 60% | 2.63 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 41% | 4.38 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 48% | 1.04 | ⏳ pendiente | — |
@@ -113,4 +115,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs EDward Gaming -  | EDward Gaming (BUY) | 6% | 9.49 | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 53% | 6.53 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 36% | 2.78 | ⏳ pendiente | — |
-| Spicer | LoL: Bilibili Gaming vs EDward Gaming -  | Bilibili Gaming (BUY) | 79% | 18.33 | ⏳ pendiente | — |
