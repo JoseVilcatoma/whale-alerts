@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 05:45:23 (hora de Perú)
+Actualizado: 2026-08-08 05:47:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.76
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 12 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 130 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 133 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -69,6 +69,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 4. | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 2.5 | Over (BUY) | 40% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Nagoya Grampus win on 2026-08-08? | Yes (BUY) | 20% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 5. | Over (BUY) | 27% | 0.00 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: Procyon Gaming vs ODDIK  | ODDIK Academy (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: 1WIN vs BASEMENT BOYS (B | BASEMENT BOYS (BUY) | 21% | 0.00 | ⏳ pendiente | — |
@@ -96,6 +99,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | FC Tōkyō vs. FC Machida Zelvia: O/U 3.5 | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 1.5 | Over (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Kashiwa Reysol (-1.5) | FC Mito Holly Hock (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: FC Tōkyō (-1.5) | FC Machida Zelvia (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Kashiwa Reysol vs. FC Mito Holly Hock: O | Over (BUY) | 34% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-2.5) | JEF United Ichihara Chiba (BUY) | 57% | 0.00 | ⏳ pendiente | — |
