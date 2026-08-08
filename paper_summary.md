@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 10:08:30 (hora de Perú)
+Actualizado: 2026-08-08 10:10:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $584.82
-**Retorno acumulado:** -41.52%
+**Bankroll actual:** $586.57
+**Retorno acumulado:** -41.34%
 **Peor caída desde un máximo (drawdown):** 47.71%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -24,12 +24,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Spicer | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
 | quavoo | 0 | 1 | 29 | -3.64 USD |
-| HomeRunHazard | 4 | 6 | 47 | -3.99 USD |
-| UpTheBlues | 32 | 22 | 11 | -4.99 USD |
+| HomeRunHazard | 4 | 6 | 49 | -3.99 USD |
+| UpTheBlues | 33 | 22 | 10 | -4.84 USD |
 | RN1 | 6 | 6 | 5 | -6.29 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 138 | 116 | 24 | -55.48 USD |
+| ferrariChampions2026 | 144 | 116 | 18 | -53.88 USD |
 | TAIWANNUMBERONE | 2 | 36 | 0 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -84,6 +84,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 49% | 9.01 | ⏳ pendiente | — |
+| HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 53% | 2.96 | ⏳ pendiente | — |
 | StasPanda | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | KT Rolster (BUY) | 38% | 89.64 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 63% | 11.97 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 55% | 10.90 | ⏳ pendiente | — |
@@ -112,5 +114,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 56% | 7.58 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 65% | 1.62 | ⏳ pendiente | — |
-| ThornyDevil | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs EDward Gaming -  | EDward Gaming (BUY) | 6% | 9.49 | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 584.8157004746954,
+  "bankroll": 586.5686491537115,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2230,6 +2230,41 @@
       "timestamp": 1786201450.495725,
       "bankroll": 584.82,
       "event": "lost: RN1 \u2014 SV Darmstadt 98 vs. Holstein Kiel: O/U 3.5"
+    },
+    {
+      "timestamp": 1786201743.7319262,
+      "bankroll": 584.97,
+      "event": "won: UpTheBlues \u2014 Spread: Jeonbuk Hyundai Motors FC (-2.5)"
+    },
+    {
+      "timestamp": 1786201750.8449352,
+      "bankroll": 584.97,
+      "event": "won: ferrariChampions2026 \u2014 1. FC Magdeburg vs. Eintracht Braunschweig: O/U 3.5"
+    },
+    {
+      "timestamp": 1786201750.9451761,
+      "bankroll": 584.97,
+      "event": "won: ferrariChampions2026 \u2014 1. FC Magdeburg vs. Eintracht Braunschweig: O/U 3.5"
+    },
+    {
+      "timestamp": 1786201751.346688,
+      "bankroll": 584.97,
+      "event": "won: ferrariChampions2026 \u2014 Will 1. FC Magdeburg win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786201752.5193052,
+      "bankroll": 584.97,
+      "event": "won: ferrariChampions2026 \u2014 Will FC Anyang vs. Daejeon Hana Citizen FC end in a draw?"
+    },
+    {
+      "timestamp": 1786201752.619505,
+      "bankroll": 584.97,
+      "event": "won: ferrariChampions2026 \u2014 Will 1. FC Magdeburg win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786201754.1151023,
+      "bankroll": 586.57,
+      "event": "won: ferrariChampions2026 \u2014 Will Jeonbuk Hyundai Motors FC win on 2026-08-08?"
     }
   ]
 }
