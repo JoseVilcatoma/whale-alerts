@@ -1,5 +1,5 @@
 {
-  "bankroll": 803.5856830242128,
+  "bankroll": 795.3472595545418,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -4740,6 +4740,91 @@
       "timestamp": 1786150413.2127845,
       "bankroll": 803.59,
       "event": "won: swisstony \u2014 Spread: CA Rosario Central (-1.5)"
+    },
+    {
+      "timestamp": 1786150467.1616259,
+      "bankroll": 803.84,
+      "event": "won: swisstony \u2014 Will CA Aldosivi win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150469.5989985,
+      "bankroll": 806.51,
+      "event": "won: swisstony \u2014 CA Rosario Central vs. CA Aldosivi: O/U 1.5"
+    },
+    {
+      "timestamp": 1786150469.9458115,
+      "bankroll": 804.97,
+      "event": "lost: swisstony \u2014 Will CA Rosario Central vs. CA Aldosivi end in a draw?"
+    },
+    {
+      "timestamp": 1786150470.5466743,
+      "bankroll": 807.44,
+      "event": "won: swisstony \u2014 CA Rosario Central vs. CA Aldosivi: O/U 1.5"
+    },
+    {
+      "timestamp": 1786150470.847097,
+      "bankroll": 804.68,
+      "event": "lost: swisstony \u2014 Will CA Aldosivi win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150470.9472427,
+      "bankroll": 803.36,
+      "event": "lost: swisstony \u2014 Will CA Aldosivi win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150471.047357,
+      "bankroll": 799.34,
+      "event": "lost: swisstony \u2014 Will CA Aldosivi win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150471.6867123,
+      "bankroll": 797.31,
+      "event": "lost: swisstony \u2014 Will CA Aldosivi win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150471.7868595,
+      "bankroll": 798.85,
+      "event": "won: swisstony \u2014 Will CA Rosario Central vs. CA Aldosivi end in a draw?"
+    },
+    {
+      "timestamp": 1786150472.4052222,
+      "bankroll": 799.12,
+      "event": "won: RN1 \u2014 Will CA Aldosivi win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150472.505368,
+      "bankroll": 799.25,
+      "event": "won: RN1 \u2014 Will CA Aldosivi win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150472.9059184,
+      "bankroll": 799.61,
+      "event": "won: swisstony \u2014 Will CA Aldosivi win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786150473.1062114,
+      "bankroll": 798.8,
+      "event": "lost: swisstony \u2014 Will CA Rosario Central vs. CA Aldosivi end in a draw?"
+    },
+    {
+      "timestamp": 1786150473.2063515,
+      "bankroll": 797.64,
+      "event": "lost: RN1 \u2014 Will CA Rosario Central vs. CA Aldosivi end in a draw?"
+    },
+    {
+      "timestamp": 1786150474.1074777,
+      "bankroll": 795.59,
+      "event": "lost: RN1 \u2014 Will CA Rosario Central vs. CA Aldosivi end in a draw?"
+    },
+    {
+      "timestamp": 1786150475.0086803,
+      "bankroll": 794.11,
+      "event": "lost: swisstony \u2014 Will CA Rosario Central vs. CA Aldosivi end in a draw?"
+    },
+    {
+      "timestamp": 1786150475.1088283,
+      "bankroll": 795.35,
+      "event": "won: swisstony \u2014 Will CA Rosario Central vs. CA Aldosivi end in a draw?"
     }
   ]
 }

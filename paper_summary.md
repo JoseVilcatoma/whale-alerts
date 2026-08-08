@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 19:53:44 (hora de Perú)
+Actualizado: 2026-08-07 19:55:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $803.59
-**Retorno acumulado:** -19.64%
+**Bankroll actual:** $795.35
+**Retorno acumulado:** -20.47%
 **Peor caída desde un máximo (drawdown):** 75.51%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,9 +20,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 4 | +1.51 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 8 | 0 | -12.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 50 | 22 | 20 | -84.96 USD |
-| swisstony | 321 | 186 | 128 | -94.78 USD |
+| RN1 | 52 | 24 | 18 | -87.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
+| swisstony | 327 | 193 | 124 | -100.19 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -82,6 +82,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will CD Universidad Católica win on 2026 | No (BUY) | 30% | 0.92 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Connecticut Sun | Phoenix Mercury (BUY) | 71% | 0.91 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Connecticut Sun: O/U | Under (BUY) | 96% | 3.76 | ⏳ pendiente | — |
+| swisstony | Atlanta Dream vs. Washington Mystics | Washington Mystics (BUY) | 85% | 1.13 | ⏳ pendiente | — |
+| swisstony | Spread: Phoenix Mercury (-5.5) | Connecticut Sun (BUY) | 52% | 1.05 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Connecticut Sun | Connecticut Sun (BUY) | 30% | 1.03 | ⏳ pendiente | — |
+| swisstony | Spread: Phoenix Mercury (-6.5) | Connecticut Sun (BUY) | 60% | 1.23 | ⏳ pendiente | — |
+| swisstony | Spread: CS Independiente Rivadavia (-2.5 | AA Estudiantes (BUY) | 85% | 2.91 | ⏳ pendiente | — |
+| swisstony | Cleveland Guardians vs. Chicago White So | Over (BUY) | 84% | 1.66 | ⏳ pendiente | — |
+| RN1 | Will Stade de Reims win on 2026-08-08? | No (BUY) | 48% | 5.41 | ⏳ pendiente | — |
+| RN1 | Will AA Estudiantes win on 2026-08-07? | No (BUY) | 89% | 2.09 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Connecticut Sun | Connecticut Sun (BUY) | 30% | 1.19 | ⏳ pendiente | — |
 | RN1 | Spread: Cleveland Guardians (-2.5) | Chicago White Sox (BUY) | 51% | 6.87 | ⏳ pendiente | — |
 | RN1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 55% | 1.44 | ⏳ pendiente | — |
@@ -101,14 +112,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 33% | 0.90 | ⏳ pendiente | — |
 | swisstony | Spread: Phoenix Mercury (-6.5) | Phoenix Mercury (BUY) | 58% | 1.31 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Connecticut Sun | Phoenix Mercury (BUY) | 82% | 2.78 | ⏳ pendiente | — |
-| swisstony | Cleveland Guardians vs. Chicago White So | Under (BUY) | 62% | 3.12 | ⏳ pendiente | — |
-| swisstony | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 82% | 1.21 | ⏳ pendiente | — |
-| swisstony | Atlanta Dream vs. Washington Mystics | Washington Mystics (BUY) | 75% | 1.67 | ⏳ pendiente | — |
-| swisstony | CA Ferrocarril Midland vs. CD Maipu: O/U | Under (BUY) | 100% | 4.99 | ⏳ pendiente | — |
-| swisstony | Charlotte FC vs. Atlas FC: O/U 1.5 | Over (BUY) | 38% | 1.03 | ⏳ pendiente | — |
-| swisstony | Will Charlotte FC win on 2026-08-07? | No (BUY) | 65% | 1.82 | ⏳ pendiente | — |
-| swisstony | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 55% | 0.95 | ⏳ pendiente | — |
-| swisstony | Atlanta Dream vs. Washington Mystics | Washington Mystics (BUY) | 74% | 6.37 | ⏳ pendiente | — |
-| swisstony | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 81% | 1.83 | ⏳ pendiente | — |
-| swisstony | Will Charlotte FC win on 2026-08-07? | Yes (BUY) | 35% | 1.00 | ⏳ pendiente | — |
-| swisstony | Charlotte FC vs. Atlas FC: O/U 3.5 | Under (BUY) | 96% | 3.32 | ⏳ pendiente | — |
