@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 01:11:22 (hora de Perú)
+Actualizado: 2026-08-08 01:13:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $949.24
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 0 | 0 | 24 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 12 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 14 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | ferrariChampions2026 | 10 | 12 | 29 | -57.12 USD |
 
@@ -54,6 +54,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Athletics (-1.5) | Boston Red Sox (BUY) | 77% | 1.06 | ⏳ pendiente | — |
+| HomeRunHazard | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 50% | 1.06 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 16.48 | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 4.01 | ⏳ pendiente | — |
 | HomeRunHazard | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Under (BUY) | 50% | 1.63 | ⏳ pendiente | — |
@@ -82,5 +84,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 54% | 2.54 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Vissel Kōbe (-1.5) | Avispa Fukuoka (BUY) | 81% | 1.32 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 3.60 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Vissel Kōbe (-1.5) | Avispa Fukuoka (BUY) | 81% | 2.87 | ⏳ pendiente | — |
-| quavoo | Will Tottenham Hotspur win on 2026-08-08 | Yes (BUY) | 51% | 3.21 | ⏳ pendiente | — |
