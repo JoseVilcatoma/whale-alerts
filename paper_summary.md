@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 18:12:14 (hora de Perú)
+Actualizado: 2026-08-08 18:14:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $526.34
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 40 | 14 | 17 | +57.73 USD |
 | HomeRunHazard | 26 | 19 | 43 | +36.13 USD |
-| quavoo | 7 | 5 | 78 | +22.29 USD |
+| quavoo | 7 | 5 | 79 | +22.29 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 28 | 15 | +7.78 USD |
@@ -25,13 +25,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 16 | 14 | 11 | -10.57 USD |
+| wr0ngw4yb3tt0r | 16 | 14 | 13 | -10.57 USD |
 | 1winstreak1 | 15 | 23 | 21 | -10.99 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 14 | 12 | 15 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 194 | 164 | 38 | -70.25 USD |
+| ferrariChampions2026 | 194 | 164 | 40 | -70.25 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 7 | -303.20 USD |
 
@@ -137,6 +137,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | O/U 2.5 Rounds | Under (BUY) | 64% | 5.57 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 85% | 0.73 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 57% | 0.63 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Bruno Lopes vs. Diyar N | Diyar Nurgozhay (BUY) | 76% | 1.30 | ⏳ pendiente | — |
+| quavoo | Inter Miami CF vs. CF Monterrey: O/U 3.5 | Under (BUY) | 49% | 0.81 | ⏳ pendiente | — |
 | UpTheBlues | Clube do Remo vs. CA Mineiro: O/U 4.5 | Under (BUY) | 65% | 3.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 86% | 0.82 | ⏳ pendiente | — |
 | Bulls94 | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 47% | 7.06 | ⏳ pendiente | — |
@@ -162,8 +167,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 0.70 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 83% | 0.70 | ✅ ganada | +0.14 |
 | ferrariChampions2026 | Will CA Boca Juniors win on 2026-08-08? | Yes (BUY) | 61% | 0.62 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 5.19 | ⏳ pendiente | — |
-| UpTheBlues | CA Boca Juniors vs. CA Vélez Sarsfield:  | Under (BUY) | 63% | 3.52 | ⏳ pendiente | — |
-| UpTheBlues | Will ADC Juan Pablo II College win on 20 | No (BUY) | 84% | 2.62 | ⏳ pendiente | — |
-| quavoo | Valorant: Leviatán Esports vs MIBR (BO3) | MIBR (BUY) | 39% | 7.26 | ⏳ pendiente | — |
-| RN1 | Will Clube do Remo win on 2026-08-08? | No (BUY) | 91% | 0.52 | ⏳ pendiente | — |
