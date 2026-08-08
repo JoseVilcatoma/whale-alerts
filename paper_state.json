@@ -1,5 +1,5 @@
 {
-  "bankroll": 621.1299297422969,
+  "bankroll": 488.099929742297,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2580,6 +2580,46 @@
       "timestamp": 1786216517.6844485,
       "bankroll": 621.13,
       "event": "won: quavoo \u2014 Stade Rennais FC vs. Brentford FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786217046.8129702,
+      "bankroll": 621.13,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Movistar KOI vs GIANTX - Game 2 Winner (+0.00 USD)"
+    },
+    {
+      "timestamp": 1786217156.8890233,
+      "bankroll": 578.19,
+      "event": "lost: Spicer \u2014 LoL: SK Gaming vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786217156.9891894,
+      "bankroll": 492.36,
+      "event": "lost: Spicer \u2014 LoL: SK Gaming vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786217157.4901118,
+      "bankroll": 492.36,
+      "event": "lost: Spicer \u2014 LoL: SK Gaming vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786217157.6904914,
+      "bankroll": 492.36,
+      "event": "lost: Spicer \u2014 LoL: SK Gaming vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786217157.7906997,
+      "bankroll": 492.36,
+      "event": "lost: Spicer \u2014 LoL: SK Gaming vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786217157.8908634,
+      "bankroll": 492.36,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: SK Gaming vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786217157.991048,
+      "bankroll": 488.1,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: SK Gaming vs Natus Vincere - Game 2 Winner"
     }
   ]
 }

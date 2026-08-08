@@ -12628,8 +12628,8 @@
     "whale_pct": 6.945,
     "paper_stake_usd": 42.94,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -42.94,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786204530.1406848,
@@ -12648,8 +12648,8 @@
     "whale_pct": 44.39,
     "paper_stake_usd": 85.83,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -85.83,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786204658.702212,
@@ -12750,8 +12750,8 @@
     "whale_pct": 0.172,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786204872.3099694,
@@ -12792,8 +12792,8 @@
     "whale_pct": 3.643,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786204899.318086,
@@ -12812,8 +12812,8 @@
     "whale_pct": 5.572,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786204973.5177195,
@@ -12855,8 +12855,8 @@
     "whale_pct": 2.391,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Spicer"
     ],
@@ -12877,8 +12877,8 @@
     "whale_pct": 0.686,
     "paper_stake_usd": 4.26,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -4.26,
     "overlaps_with": [
       "Spicer"
     ],
@@ -15883,14 +15883,15 @@
     "whale_pct": 0.877,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 36,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ThornyDevil"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786216376.8400924,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 74
   },
   {
     "timestamp": 1786216403,
@@ -15989,14 +15990,15 @@
     "whale_pct": 0.248,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 21,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ThornyDevil"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786216513.7387736,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 74
   },
   {
     "timestamp": 1786216529,

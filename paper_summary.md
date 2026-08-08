@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 14:24:01 (hora de Perú)
+Actualizado: 2026-08-08 14:26:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $621.13
-**Retorno acumulado:** -37.89%
-**Peor caída desde un máximo (drawdown):** 47.71%
+**Bankroll actual:** $488.10
+**Retorno acumulado:** -51.19%
+**Peor caída desde un máximo (drawdown):** 51.19%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -13,11 +13,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 40 | 11 | 4 | +61.99 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 13 | 0 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 5 | 2 | 23 | +12.05 USD |
-| Spicer | 5 | 0 | 5 | +6.62 USD |
 | UpTheBlues | 38 | 26 | 20 | +5.74 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 5 | +0.00 USD |
@@ -32,6 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | ferrariChampions2026 | 149 | 129 | 51 | -76.06 USD |
+| Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 2 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -109,12 +109,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
 | UpTheBlues | Will CA Sarmiento win on 2026-08-08? | Yes (BUY) | 67% | 2.61 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 21% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 21% | 0.00 | 💰 vendida anticipada | +0.00 |
 | UpTheBlues | PSV vs. Fortuna Sittard: O/U 1.5 | Over (BUY) | 98% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | PSV vs. Fortuna Sittard: O/U 1.5 | Over (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CD Riestra win on 2026-08-08? | Yes (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Athletics vs. Boston Red Sox: O/U 8.5 | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 36% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 36% | 0.00 | 💰 vendida anticipada | +0.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 58% | 0.00 | 💰 vendida anticipada | -0.00 |
 | StasPanda | Counter-Strike: Sinners vs EYEBALLERS (B | EYEBALLERS (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will AD Tarma win on 2026-08-08? | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
