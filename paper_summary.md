@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:35:34 (hora de Perú)
+Actualizado: 2026-08-08 06:37:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $872.08
@@ -25,10 +25,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
-| RN1 | 2 | 2 | 7 | -5.13 USD |
+| RN1 | 2 | 2 | 8 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 31 | -9.46 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
-| ferrariChampions2026 | 32 | 20 | 199 | -67.78 USD |
+| ferrariChampions2026 | 32 | 20 | 202 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -71,11 +71,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jap-san-jef-2026-08-08-total-3pt5 | UpTheBlues, ferrariChampions2026 |
 | bl2-hei-vfl-2026-08-08-spread-home-1pt5 | UpTheBlues, ferrariChampions2026 |
 | bl2-ksc-bie-2026-08-08-total-2pt5 | RN1, ferrariChampions2026 |
+| bl2-ksc-bie-2026-08-08-total-5pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Sanfrecce Hiroshima vs. JEF United  | No (BUY) | 90% | 3.17 | ⏳ pendiente | — |
+| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 73% | 3.03 | ⏳ pendiente | — |
+| RN1 | Karlsruher SC vs. DSC Arminia Bielefeld: | Under (BUY) | 94% | 2.23 | ⏳ pendiente | — |
+| ferrariChampions2026 | Karlsruher SC vs. DSC Arminia Bielefeld: | Under (BUY) | 94% | 1.58 | ⏳ pendiente | — |
 | ferrariChampions2026 | Nagoya Grampus vs. Shimizu S-Pulse: O/U  | Over (BUY) | 58% | 1.25 | ⏳ pendiente | — |
 | RN1 | Will Eintracht Braunschweig win on 2026- | No (BUY) | 11% | 0.95 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cerezo Ōsaka (-1.5) | Cerezo Ōsaka (BUY) | 24% | 1.10 | ⏳ pendiente | — |
@@ -102,7 +107,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will FC Anyang vs. Daejeon Hana Citizen  | No (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Kashiwa Reysol (-2.5) | FC Mito Holly Hock (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 1.5 | Over (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Daejeon Hana Citizen FC win on 2026 | Yes (BUY) | 71% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Kashiwa Reysol vs. FC Mito Holly Hock: O | Under (BUY) | 29% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | JEF United Ichihara Chiba (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| RN1 | 1. FC Heidenheim 1846 vs. VfL Osnabrück: | Under (BUY) | 46% | 0.00 | ⏳ pendiente | — |
