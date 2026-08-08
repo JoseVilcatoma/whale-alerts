@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 18:16:23 (hora de Perú)
+Actualizado: 2026-08-08 18:18:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $526.34
-**Retorno acumulado:** -47.37%
+**Bankroll actual:** $485.92
+**Retorno acumulado:** -51.41%
 **Peor caída desde un máximo (drawdown):** 53.09%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,9 +13,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 40 | 14 | 17 | +57.73 USD |
 | HomeRunHazard | 26 | 19 | 43 | +36.13 USD |
 | quavoo | 7 | 5 | 79 | +22.29 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 40 | 29 | 2 | +17.31 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 28 | 16 | +7.78 USD |
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | ferrariChampions2026 | 194 | 164 | 42 | -70.25 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 2 | 36 | 7 | -303.20 USD |
+| TAIWANNUMBERONE | 2 | 36 | 8 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -139,6 +139,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 1.45 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 35% | 2.62 | ⏳ pendiente | — |
 | UpTheBlues | Will CD Coquimbo Unido vs. CD La Serena  | No (BUY) | 70% | 10.33 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 42% | 0.79 | ⏳ pendiente | — |
@@ -168,4 +169,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 3.14 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 2.54 | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Boca Juniors vs. CA Vélez Sarsfield:  | Over (BUY) | 63% | 0.63 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 1.63 | ⏳ pendiente | — |

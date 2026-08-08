@@ -1,5 +1,5 @@
 {
-  "bankroll": 526.3397092004108,
+  "bankroll": 485.91970920041075,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -3690,6 +3690,81 @@
       "timestamp": 1786230645.0685446,
       "bankroll": 526.34,
       "event": "won: ferrariChampions2026 \u2014 Will Valencia CF win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786231018.235874,
+      "bankroll": 485.92,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Level UP vs Team Lynx (BO3) - Asgard Championship Playoffs"
+    },
+    {
+      "timestamp": 1786231018.5818765,
+      "bankroll": 485.92,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Level UP vs Team Lynx (BO3) - Asgard Championship Playoffs"
+    },
+    {
+      "timestamp": 1786231018.6820686,
+      "bankroll": 485.92,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Level UP vs Team Lynx (BO3) - Asgard Championship Playoffs"
+    },
+    {
+      "timestamp": 1786231018.8824573,
+      "bankroll": 485.92,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Level UP vs Team Lynx (BO3) - Asgard Championship Playoffs"
+    },
+    {
+      "timestamp": 1786231019.0828152,
+      "bankroll": 485.92,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Level UP vs Team Lynx (BO3) - Asgard Championship Playoffs"
+    },
+    {
+      "timestamp": 1786231019.3833735,
+      "bankroll": 485.92,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Level UP vs Team Lynx (BO3) - Asgard Championship Playoffs"
+    },
+    {
+      "timestamp": 1786231019.937018,
+      "bankroll": 485.92,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Level UP vs Team Lynx (BO3) - Asgard Championship Playoffs"
+    },
+    {
+      "timestamp": 1786231020.1374037,
+      "bankroll": 485.92,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Level UP vs Team Lynx (BO3) - Asgard Championship Playoffs"
+    },
+    {
+      "timestamp": 1786231020.2376323,
+      "bankroll": 485.92,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Level UP vs Team Lynx (BO3) - Asgard Championship Playoffs"
+    },
+    {
+      "timestamp": 1786231020.3378277,
+      "bankroll": 485.92,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Level UP vs Team Lynx (BO3) - Asgard Championship Playoffs"
+    },
+    {
+      "timestamp": 1786231021.968272,
+      "bankroll": 485.92,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Level UP vs Team Lynx (BO3) - Asgard Championship Playoffs"
+    },
+    {
+      "timestamp": 1786231022.0685112,
+      "bankroll": 485.92,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Level UP vs Team Lynx (BO3) - Asgard Championship Playoffs"
+    },
+    {
+      "timestamp": 1786231022.6697145,
+      "bankroll": 485.92,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Level UP vs Team Lynx (BO3) - Asgard Championship Playoffs"
+    },
+    {
+      "timestamp": 1786231023.0704458,
+      "bankroll": 485.92,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Level UP vs Team Lynx (BO3) - Asgard Championship Playoffs"
+    },
+    {
+      "timestamp": 1786231023.1706448,
+      "bankroll": 485.92,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Level UP vs Team Lynx (BO3) - Asgard Championship Playoffs"
     }
   ]
 }
