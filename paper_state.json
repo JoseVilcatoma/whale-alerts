@@ -1,5 +1,5 @@
 {
-  "bankroll": 920.3465063469453,
+  "bankroll": 919.3265063469453,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -625,6 +625,11 @@
       "timestamp": 1786173788.0773401,
       "bankroll": 920.35,
       "event": "won: UpTheBlues \u2014 Will FC Ju\u00e1rez win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786176728.1812441,
+      "bankroll": 919.33,
+      "event": "lost: UpTheBlues \u2014 CD Malacateco vs. CSD Xelaj\u00fa MC: O/U 3.5"
     }
   ]
 }
