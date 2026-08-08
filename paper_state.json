@@ -1,5 +1,5 @@
 {
-  "bankroll": 938.7622034952142,
+  "bankroll": 806.4822034952142,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -655,6 +655,26 @@
       "timestamp": 1786184844.073101,
       "bankroll": 938.76,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group (+0.00 USD)"
+    },
+    {
+      "timestamp": 1786188210.8676987,
+      "bankroll": 937.1,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786188211.6856213,
+      "bankroll": 808.86,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786188213.255663,
+      "bankroll": 807.59,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786188214.900789,
+      "bankroll": 806.48,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports - Game 1 Winner"
     }
   ]
 }

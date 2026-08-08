@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:22:58 (hora de Perú)
+Actualizado: 2026-08-08 06:25:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $938.76
-**Retorno acumulado:** -6.12%
-**Peor caída desde un máximo (drawdown):** 10.06%
+**Bankroll actual:** $806.48
+**Retorno acumulado:** -19.35%
+**Peor caída desde un máximo (drawdown):** 19.35%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -17,7 +17,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 0 | 15 | +9.70 USD |
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 38 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 20 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
@@ -28,7 +27,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 2 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 31 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 183 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 187 | -67.78 USD |
+| TAIWANNUMBERONE | 0 | 4 | 34 | -132.28 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -73,6 +73,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Karlsruher SC vs. DSC Arminia Bielefeld: | Over (BUY) | 70% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 4. | Over (BUY) | 32% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will 1. FC Magdeburg win on 2026-08-08? | No (BUY) | 70% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 4. | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kashiwa Reysol vs. FC Mito Holly Hock: O | Over (BUY) | 29% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Anyang vs. Daejeon Hana Citizen  | No (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Kashiwa Reysol (-2.5) | FC Mito Holly Hock (BUY) | 60% | 0.00 | ⏳ pendiente | — |
@@ -99,7 +103,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-2.5) | Sanfrecce Hiroshima (BUY) | 32% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | 1. FC Heidenheim 1846 vs. VfL Osnabrück: | Over (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Sagan Tosu (-1.5) | Ventforet Kōfu (BUY) | 82% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | 1. FC Magdeburg vs. Eintracht Braunschwe | Over (BUY) | 32% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | 1. FC Magdeburg vs. Eintracht Braunschwe | Over (BUY) | 32% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Karlsruher SC win on 2026-08-08? | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | SV Darmstadt 98 vs. Holstein Kiel: Holst | Over (BUY) | 97% | 0.00 | ⏳ pendiente | — |
