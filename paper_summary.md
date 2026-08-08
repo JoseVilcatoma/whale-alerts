@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 05:32:49 (hora de Perú)
+Actualizado: 2026-08-08 05:34:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.76
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 12 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 114 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 116 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -67,6 +67,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Avispa Fukuoka win on 2026-08-08? | Yes (BUY) | 9% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Avispa Fukuoka vs. Vissel Kōbe end  | Yes (BUY) | 22% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 2.5 | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-2.5) | JEF United Ichihara Chiba (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Nagoya Grampus win on 2026-08-08? | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
@@ -95,5 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 89% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 89% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Vissel Kōbe (-1.5) | Avispa Fukuoka (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: FC Tōkyō (-1.5) | FC Machida Zelvia (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 89% | 0.00 | ⏳ pendiente | — |
