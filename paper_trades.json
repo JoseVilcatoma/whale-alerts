@@ -18083,8 +18083,8 @@
     "whale_pct": 0.373,
     "paper_stake_usd": 2.97,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.49,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786147177.1390638,
@@ -19931,8 +19931,8 @@
     "whale_pct": 0.337,
     "paper_stake_usd": 2.68,
     "odds_at_bet": 67,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.68,
     "overlaps_with": [
       "RN1"
     ],
@@ -20341,8 +20341,8 @@
     "whale_pct": 0.17,
     "paper_stake_usd": 1.36,
     "odds_at_bet": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.58,
     "overlaps_with": [
       "RN1"
     ],
@@ -20525,8 +20525,8 @@
     "whale_pct": 0.442,
     "paper_stake_usd": 3.49,
     "odds_at_bet": 80,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.87,
     "overlaps_with": [
       "RN1"
     ],
@@ -21396,6 +21396,46 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786153298.8994725,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786153471,
+    "timestamp_added": 1786153471.823503,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "col2-qui-pal-2026-08-07-total-5pt5",
+    "title": "Deportes Quindio vs. Internacional FC De Palmira: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 689.3799300000001,
+    "whale_pct": 0.211,
+    "paper_stake_usd": 1.65,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786153471.8235133,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786153477,
+    "timestamp_added": 1786153477.595447,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-lad-ari-2026-08-07-total-8pt5",
+    "title": "Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1051.1100000000001,
+    "whale_pct": 0.378,
+    "paper_stake_usd": 2.95,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786153477.5954583,
     "fills": 1
   }
 ]

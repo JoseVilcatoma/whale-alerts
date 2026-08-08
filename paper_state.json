@@ -1,5 +1,5 @@
 {
-  "bankroll": 777.236049148168,
+  "bankroll": 779.4979280301557,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -4930,6 +4930,26 @@
       "timestamp": 1786152721.8993888,
       "bankroll": 777.24,
       "event": "won: swisstony \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786153451.5331748,
+      "bankroll": 780.72,
+      "event": "won: RN1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786153459.296439,
+      "bankroll": 778.04,
+      "event": "lost: swisstony \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786153460.8990674,
+      "bankroll": 778.63,
+      "event": "won: swisstony \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786153461.8006077,
+      "bankroll": 779.5,
+      "event": "won: swisstony \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 9.5"
     }
   ]
 }
