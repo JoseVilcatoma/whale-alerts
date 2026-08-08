@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 18:03:56 (hora de Perú)
+Actualizado: 2026-08-08 18:05:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $496.19
-**Retorno acumulado:** -50.38%
+**Bankroll actual:** $500.55
+**Retorno acumulado:** -49.94%
 **Peor caída desde un máximo (drawdown):** 53.09%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,17 +20,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 5 | 5 | 79 | +8.84 USD |
 | UpTheBlues | 39 | 28 | 9 | +7.78 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| Talvez10 | 3 | 5 | 7 | +0.00 USD |
+| Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
-| wr0ngw4yb3tt0r | 15 | 14 | 12 | -10.71 USD |
+| wr0ngw4yb3tt0r | 16 | 14 | 11 | -10.57 USD |
 | 1winstreak1 | 11 | 13 | 35 | -12.25 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 14 | 12 | 15 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 186 | 158 | 48 | -74.91 USD |
+| ferrariChampions2026 | 191 | 161 | 41 | -70.69 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 7 | -303.20 USD |
 
@@ -135,6 +135,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Botafogo FR win on 2026-08-08? | Yes (BUY) | 41% | 12.72 | ⏳ pendiente | — |
 | RN1 | Athletics vs. Boston Red Sox: O/U 9.5 | Over (BUY) | 34% | 0.74 | ⏳ pendiente | — |
 | Talvez10 | Jordan Walker: Home Runs O/U 0.5 | Under (BUY) | 82% | 11.21 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 45% | 1.03 | ⏳ pendiente | — |
@@ -145,7 +146,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | CA Boca Juniors vs. CA Vélez Sarsfield:  | Over (BUY) | 63% | 0.63 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 1.63 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 0.70 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 83% | 0.70 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 83% | 0.70 | ✅ ganada | +0.14 |
 | ferrariChampions2026 | Will CA Boca Juniors win on 2026-08-08? | Yes (BUY) | 61% | 0.62 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 5.19 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. CA Vélez Sarsfield:  | Under (BUY) | 63% | 3.52 | ⏳ pendiente | — |
@@ -153,15 +154,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Valorant: Leviatán Esports vs MIBR (BO3) | MIBR (BUY) | 39% | 7.26 | ⏳ pendiente | — |
 | RN1 | Will Clube do Remo win on 2026-08-08? | No (BUY) | 91% | 0.52 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 86% | 1.50 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 76% | 15.04 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 76% | 15.04 | ✅ ganada | +4.75 |
 | RN1 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 87% | 0.86 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 87% | 0.72 | ⏳ pendiente | — |
 | quavoo | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 64% | 0.70 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 0.81 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 0.81 | ✅ ganada | +0.27 |
 | RN1 | Spread: Athletics (-2.5) | Boston Red Sox (BUY) | 23% | 0.54 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 1.29 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 1.29 | ✅ ganada | +0.43 |
 | ferrariChampions2026 | Will CA Boca Juniors win on 2026-08-08? | Yes (BUY) | 62% | 1.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Boca Juniors vs. CA Vélez Sarsfield:  | Under (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will ADC Juan Pablo II College win on 20 | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Athletics (-1.5) | Athletics (BUY) | 78% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 0.00 | ✅ ganada | +0.00 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.1890267731822,
+  "bankroll": 500.55187395136863,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -3490,6 +3490,56 @@
       "timestamp": 1786228481.6420436,
       "bankroll": 496.19,
       "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Juliana Miller vs. Ravena Oliveira (Women's Flyweight, Prelims)"
+    },
+    {
+      "timestamp": 1786230263.7191873,
+      "bankroll": 496.19,
+      "event": "won: Talvez10 \u2014 O/U 1.5 Rounds"
+    },
+    {
+      "timestamp": 1786230272.5720005,
+      "bankroll": 495.49,
+      "event": "lost: ferrariChampions2026 \u2014 Real Betis Seville vs. AFC Bournemouth: O/U 2.5"
+    },
+    {
+      "timestamp": 1786230272.6722488,
+      "bankroll": 494.96,
+      "event": "lost: ferrariChampions2026 \u2014 Real Betis Seville vs. AFC Bournemouth: O/U 2.5"
+    },
+    {
+      "timestamp": 1786230278.883259,
+      "bankroll": 494.96,
+      "event": "lost: ferrariChampions2026 \u2014 Real Betis Seville vs. AFC Bournemouth: O/U 3.5"
+    },
+    {
+      "timestamp": 1786230348.2340455,
+      "bankroll": 494.96,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Manoel Sousa vs. Richie Miranda (Lightweight, Prelims)"
+    },
+    {
+      "timestamp": 1786230348.5346153,
+      "bankroll": 494.96,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Manoel Sousa vs. Richie Miranda (Lightweight, Prelims)"
+    },
+    {
+      "timestamp": 1786230348.9353144,
+      "bankroll": 495.39,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Manoel Sousa vs. Richie Miranda (Lightweight, Prelims)"
+    },
+    {
+      "timestamp": 1786230349.1356587,
+      "bankroll": 495.66,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Manoel Sousa vs. Richie Miranda (Lightweight, Prelims)"
+    },
+    {
+      "timestamp": 1786230349.5362036,
+      "bankroll": 500.41,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Manoel Sousa vs. Richie Miranda (Lightweight, Prelims)"
+    },
+    {
+      "timestamp": 1786230350.3373072,
+      "bankroll": 500.55,
+      "event": "won: wr0ngw4yb3tt0r \u2014 UFC Fight Night: Manoel Sousa vs. Richie Miranda (Lightweight, Prelims)"
     }
   ]
 }
