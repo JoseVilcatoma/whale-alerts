@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 12:03:35 (hora de Perú)
+Actualizado: 2026-08-08 12:05:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $632.94
@@ -20,11 +20,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Spicer | 5 | 0 | 5 | +6.62 USD |
 | UpTheBlues | 36 | 26 | 3 | +5.35 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| Talvez10 | 0 | 0 | 4 | +0.00 USD |
+| Talvez10 | 0 | 0 | 5 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 6 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 61 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 62 | -3.99 USD |
 | RN1 | 8 | 7 | 2 | -5.53 USD |
 | ThornyDevil | 3 | 2 | 0 | -16.40 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -89,6 +89,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | O/U 2.5 Rounds | Over (BUY) | 36% | 1.34 | ⏳ pendiente | — |
+| HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 42% | 5.69 | ⏳ pendiente | — |
 | StasPanda | LoL: ThunderTalk Gaming vs Top Esports ( | Top Esports (BUY) | 75% | 0.63 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 48% | 0.97 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 56% | 4.26 | ⏳ pendiente | — |
@@ -117,5 +119,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 51% | 23.20 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 1 | Natus Vincere (BUY) | 63% | 25.45 | 💰 vendida anticipada | +12.52 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 1 | Natus Vincere (BUY) | 63% | 98.64 | 💰 vendida anticipada | +48.54 |
-| HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 191.5 | Under (BUY) | 55% | 1.34 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Minnesota Lynx (-4.5) | Las Vegas Aces (BUY) | 49% | 3.69 | ⏳ pendiente | — |
