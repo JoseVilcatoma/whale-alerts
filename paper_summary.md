@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:42:18 (hora de Perú)
+Actualizado: 2026-08-08 15:44:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 166 | 138 | 32 | -75.22 USD |
+| ferrariChampions2026 | 166 | 138 | 33 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 3 | -303.20 USD |
 
@@ -107,6 +107,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Real Betis Seville vs. AFC Bournemouth:  | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | quavoo | Counter-Strike: 1WIN vs Liquid (BO3) - E | 1WIN (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Tigre vs. CA River Plate end in  | Yes (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | No (BUY) | 66% | 0.00 | ⏳ pendiente | — |
@@ -136,4 +137,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Miami Marlins (-1.5) | Miami Marlins (BUY) | 40% | 0.00 | ⏳ pendiente | — |
-| Talvez10 | O/U 2.5 Rounds | Over (BUY) | 36% | 0.00 | ⏳ pendiente | — |
