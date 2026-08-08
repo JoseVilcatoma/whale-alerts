@@ -1,5 +1,5 @@
 {
-  "bankroll": 485.91970920041075,
+  "bankroll": 469.307934174611,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -3765,6 +3765,166 @@
       "timestamp": 1786231023.1706448,
       "bankroll": 485.92,
       "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Level UP vs Team Lynx (BO3) - Asgard Championship Playoffs"
+    },
+    {
+      "timestamp": 1786231154.7644033,
+      "bankroll": 485.92,
+      "event": "lost: HomeRunHazard \u2014 Spread: Athletics (-2.5)"
+    },
+    {
+      "timestamp": 1786231156.166981,
+      "bankroll": 485.92,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Athletics (-2.5)"
+    },
+    {
+      "timestamp": 1786231157.3427193,
+      "bankroll": 485.38,
+      "event": "lost: RN1 \u2014 Spread: Athletics (-2.5)"
+    },
+    {
+      "timestamp": 1786231197.290349,
+      "bankroll": 480.74,
+      "event": "lost: HomeRunHazard \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786231199.3535156,
+      "bankroll": 477.61,
+      "event": "lost: HomeRunHazard \u2014 Athletics vs. Boston Red Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786231201.838085,
+      "bankroll": 476.55,
+      "event": "lost: HomeRunHazard \u2014 Spread: Athletics (-1.5)"
+    },
+    {
+      "timestamp": 1786231202.6628377,
+      "bankroll": 476.55,
+      "event": "won: HomeRunHazard \u2014 Athletics vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786231202.7630763,
+      "bankroll": 476.55,
+      "event": "won: HomeRunHazard \u2014 Athletics vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786231203.392715,
+      "bankroll": 476.55,
+      "event": "won: HomeRunHazard \u2014 Athletics vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786231206.7520382,
+      "bankroll": 465.65,
+      "event": "lost: HomeRunHazard \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786231210.4287803,
+      "bankroll": 464.57,
+      "event": "lost: 1winstreak1 \u2014 Athletics vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786231210.5289614,
+      "bankroll": 465.16,
+      "event": "won: 1winstreak1 \u2014 Athletics vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786231210.6291838,
+      "bankroll": 467.87,
+      "event": "won: 1winstreak1 \u2014 Athletics vs. Boston Red Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786231211.7691677,
+      "bankroll": 467.87,
+      "event": "lost: 1winstreak1 \u2014 Athletics vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786231214.5055022,
+      "bankroll": 467.87,
+      "event": "won: ferrariChampions2026 \u2014 Athletics vs. Boston Red Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786231216.0020852,
+      "bankroll": 467.87,
+      "event": "lost: 1winstreak1 \u2014 Athletics vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786231216.30268,
+      "bankroll": 467.87,
+      "event": "won: 1winstreak1 \u2014 Athletics vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786231219.1163633,
+      "bankroll": 467.87,
+      "event": "won: 1winstreak1 \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786231219.2165477,
+      "bankroll": 467.87,
+      "event": "won: 1winstreak1 \u2014 Athletics vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786231219.7173314,
+      "bankroll": 467.87,
+      "event": "won: 1winstreak1 \u2014 Athletics vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786231220.5188706,
+      "bankroll": 467.87,
+      "event": "won: 1winstreak1 \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786231221.3828816,
+      "bankroll": 467.87,
+      "event": "lost: 1winstreak1 \u2014 Spread: Athletics (-1.5)"
+    },
+    {
+      "timestamp": 1786231221.4831252,
+      "bankroll": 467.87,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Athletics (-1.5)"
+    },
+    {
+      "timestamp": 1786231221.6835458,
+      "bankroll": 467.87,
+      "event": "won: 1winstreak1 \u2014 Spread: Athletics (-1.5)"
+    },
+    {
+      "timestamp": 1786231223.019381,
+      "bankroll": 467.87,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Athletics (-1.5)"
+    },
+    {
+      "timestamp": 1786231223.1196225,
+      "bankroll": 467.87,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Athletics vs. Boston Red Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786231223.2198572,
+      "bankroll": 467.87,
+      "event": "won: 1winstreak1 \u2014 Athletics vs. Boston Red Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786231224.8676815,
+      "bankroll": 467.87,
+      "event": "won: 1winstreak1 \u2014 Spread: Athletics (-1.5)"
+    },
+    {
+      "timestamp": 1786231225.724383,
+      "bankroll": 467.87,
+      "event": "lost: 1winstreak1 \u2014 Athletics vs. Boston Red Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786231226.225268,
+      "bankroll": 467.87,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Athletics (-1.5)"
+    },
+    {
+      "timestamp": 1786231226.7261472,
+      "bankroll": 467.87,
+      "event": "won: 1winstreak1 \u2014 Spread: Athletics (-1.5)"
+    },
+    {
+      "timestamp": 1786231228.9298353,
+      "bankroll": 469.31,
+      "event": "won: RN1 \u2014 Athletics vs. Boston Red Sox: O/U 9.5"
     }
   ]
 }

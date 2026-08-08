@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 18:18:28 (hora de Perú)
+Actualizado: 2026-08-08 18:20:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $485.92
-**Retorno acumulado:** -51.41%
-**Peor caída desde un máximo (drawdown):** 53.09%
+**Bankroll actual:** $469.31
+**Retorno acumulado:** -53.07%
+**Peor caída desde un máximo (drawdown):** 53.54%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -13,25 +13,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 26 | 19 | 43 | +36.13 USD |
 | quavoo | 7 | 5 | 79 | +22.29 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 40 | 29 | 2 | +17.31 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
+| HomeRunHazard | 29 | 24 | 35 | +16.40 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 28 | 16 | +7.78 USD |
+| UpTheBlues | 39 | 28 | 18 | +7.78 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 16 | 14 | 13 | -10.57 USD |
-| 1winstreak1 | 15 | 23 | 21 | -10.99 USD |
+| 1winstreak1 | 26 | 28 | 7 | -8.77 USD |
+| wr0ngw4yb3tt0r | 17 | 16 | 11 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 14 | 12 | 15 | -22.00 USD |
+| RN1 | 15 | 13 | 13 | -21.10 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 194 | 164 | 42 | -70.25 USD |
+| ferrariChampions2026 | 195 | 166 | 39 | -70.25 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 8 | -303.20 USD |
 
@@ -81,6 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-t1-hle1-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026, jtwyslljy |
 | lol-wb-lng-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | mlb-oak-bos-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard |
+| mlb-bal-tex-2026-08-08-total-7pt5 | 1winstreak1, HomeRunHazard |
 | lol-t1-hle1-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-08-total-8pt5 | HomeRunHazard, quavoo |
 | lol-lgd-al-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
@@ -117,6 +118,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ufc-jul11-rav-2026-08-08 | Talvez10, ferrariChampions2026, wr0ngw4yb3tt0r |
 | arg-tig-riv-2026-08-08-total-0pt5 | RN1, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-riv | RN1, ferrariChampions2026 |
+| mlb-chc-kc-2026-08-08-spread-home-1pt5 | 1winstreak1, quavoo |
 | cs2-jjh-dendel-2026-08-09 | StasPanda, quavoo |
 | arg-boc-vel-2026-08-08-boc | ferrariChampions2026, quavoo |
 | bra-cre-cam-2026-08-08-cam | RN1, UpTheBlues, ferrariChampions2026 |
@@ -139,6 +141,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Kansas City Royals (-1.5) | Chicago Cubs (BUY) | 68% | 11.12 | ⏳ pendiente | — |
+| UpTheBlues | Spread: Associação Chapecoense de Futebo | Coritiba FBC (BUY) | 99% | 7.58 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | O/U 3.5 Rounds | Over (BUY) | 56% | 5.18 | ⏳ pendiente | — |
+| UpTheBlues | Orlando City SC vs. Club León FC: O/U 1. | Over (BUY) | 88% | 1.97 | ⏳ pendiente | — |
+| 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 49% | 1.23 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 1.45 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 35% | 2.62 | ⏳ pendiente | — |
 | UpTheBlues | Will CD Coquimbo Unido vs. CD La Serena  | No (BUY) | 70% | 10.33 | ⏳ pendiente | — |
@@ -161,11 +168,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs Shopify Rebellion - Ga | Sentinels (BUY) | 77% | 10.71 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Botafogo FR win on 2026-08-08? | Yes (BUY) | 41% | 12.72 | ⏳ pendiente | — |
-| RN1 | Athletics vs. Boston Red Sox: O/U 9.5 | Over (BUY) | 34% | 0.74 | ⏳ pendiente | — |
+| RN1 | Athletics vs. Boston Red Sox: O/U 9.5 | Over (BUY) | 34% | 0.74 | ✅ ganada | +1.44 |
 | Talvez10 | Jordan Walker: Home Runs O/U 0.5 | Under (BUY) | 82% | 11.21 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 45% | 1.03 | ✅ ganada | +1.26 |
-| ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 0.87 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Boca Juniors win on 2026-08-08? | Yes (BUY) | 62% | 0.61 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 3.14 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 88% | 2.54 | ⏳ pendiente | — |
-| ferrariChampions2026 | CA Boca Juniors vs. CA Vélez Sarsfield:  | Over (BUY) | 63% | 0.63 | ⏳ pendiente | — |
