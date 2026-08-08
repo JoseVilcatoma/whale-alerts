@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 09:20:40 (hora de Perú)
+Actualizado: 2026-08-08 09:22:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $526.24
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Spicer | 0 | 0 | 5 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 47 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 48 | -3.99 USD |
 | RN1 | 2 | 2 | 20 | -5.13 USD |
 | UpTheBlues | 28 | 21 | 16 | -5.52 USD |
 | ferrariChampions2026 | 124 | 107 | 74 | -62.41 USD |
@@ -87,6 +87,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 191.5 | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Burnley FC vs. Notts County FC: O/U 1.5 | Over (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Milwaukee Brewers (-1.5) | Minnesota Twins (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Augsburg win on 2026-08-08? | No (BUY) | 61% | 0.00 | ⏳ pendiente | — |
@@ -116,4 +117,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Brighton & Hove Albion vs. AS Roma: O/U  | Under (BUY) | 80% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Notts County FC win on 2026-08-08? | No (BUY) | 91% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Viking FK win on 2026-08-08? | Yes (BUY) | 71% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Salford City FC vs. Shrewsbury Town FC:  | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
