@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 17:18:21 (hora de Perú)
+Actualizado: 2026-08-08 17:20:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $497.43
@@ -18,19 +18,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
-| quavoo | 5 | 5 | 77 | +8.84 USD |
+| quavoo | 5 | 5 | 78 | +8.84 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 1 | 2 | 11 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | wr0ngw4yb3tt0r | 15 | 13 | 12 | -10.71 USD |
-| 1winstreak1 | 10 | 12 | 36 | -12.25 USD |
+| 1winstreak1 | 11 | 13 | 34 | -12.25 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 9 | 9 | 19 | -22.00 USD |
+| RN1 | 14 | 10 | 15 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 175 | 147 | 58 | -74.91 USD |
+| ferrariChampions2026 | 182 | 154 | 48 | -74.91 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 6 | -303.20 USD |
 
@@ -117,18 +117,28 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | arg-tig-riv-2026-08-08-total-0pt5 | RN1, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-riv | RN1, ferrariChampions2026 |
 | cs2-jjh-dendel-2026-08-09 | StasPanda, quavoo |
+| arg-boc-vel-2026-08-08-boc | ferrariChampions2026, quavoo |
 | bra-cre-cam-2026-08-08-cam | RN1, ferrariChampions2026 |
 | lol-c9-dsg-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | mlb-laa-mia-2026-08-08-total-9pt5 | 1winstreak1, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-tig | RN1, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-total-1pt5 | RN1, ferrariChampions2026 |
 | mlb-oak-bos-2026-08-08-total-10pt5 | 1winstreak1, ferrariChampions2026 |
-| mlb-oak-bos-2026-08-08-spread-away-2pt5 | HomeRunHazard, ferrariChampions2026 |
+| mlb-nym-pit-2026-08-08-total-7pt5 | HomeRunHazard, quavoo |
+| mlb-oak-bos-2026-08-08-spread-away-2pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
+| arg-boc-vel-2026-08-08-vel | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 87% | 0.86 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 87% | 0.72 | ⏳ pendiente | — |
+| quavoo | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 64% | 0.70 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 0.81 | ⏳ pendiente | — |
+| RN1 | Spread: Athletics (-2.5) | Boston Red Sox (BUY) | 23% | 0.54 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 1.29 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CA Boca Juniors win on 2026-08-08? | Yes (BUY) | 62% | 1.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Boca Juniors vs. CA Vélez Sarsfield:  | Under (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will ADC Juan Pablo II College win on 20 | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 75% | 0.00 | ⏳ pendiente | — |
@@ -152,10 +162,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Athletics (-1.5) | Athletics (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 86% | 0.00 | 💰 vendida anticipada | +0.00 |
-| quavoo | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Athletics (-2.5) | Boston Red Sox (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| quavoo | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 34% | 0.00 | ⏳ pendiente | — |

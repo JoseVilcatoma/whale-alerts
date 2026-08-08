@@ -3295,6 +3295,116 @@
       "timestamp": 1786227487.0048647,
       "bankroll": 497.43,
       "event": "lost: HomeRunHazard \u2014 Atlanta Braves vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786227530.7593555,
+      "bankroll": 497.43,
+      "event": "lost: ferrariChampions2026 \u2014 CA Tigre vs. CA River Plate: O/U 0.5"
+    },
+    {
+      "timestamp": 1786227532.9576592,
+      "bankroll": 497.43,
+      "event": "lost: ferrariChampions2026 \u2014 Will CA Tigre vs. CA River Plate end in a draw?"
+    },
+    {
+      "timestamp": 1786227537.0885482,
+      "bankroll": 497.43,
+      "event": "lost: 1winstreak1 \u2014 Spread: New York Yankees (-2.5)"
+    },
+    {
+      "timestamp": 1786227537.1887255,
+      "bankroll": 497.43,
+      "event": "won: ferrariChampions2026 \u2014 Will CA Tigre vs. CA River Plate end in a draw?"
+    },
+    {
+      "timestamp": 1786227537.7361348,
+      "bankroll": 497.43,
+      "event": "lost: ferrariChampions2026 \u2014 Will CA Tigre vs. CA River Plate end in a draw?"
+    },
+    {
+      "timestamp": 1786227537.9365597,
+      "bankroll": 497.43,
+      "event": "lost: ferrariChampions2026 \u2014 CA Tigre vs. CA River Plate: O/U 0.5"
+    },
+    {
+      "timestamp": 1786227538.738025,
+      "bankroll": 497.43,
+      "event": "lost: RN1 \u2014 CA Tigre vs. CA River Plate: O/U 0.5"
+    },
+    {
+      "timestamp": 1786227539.6398237,
+      "bankroll": 497.43,
+      "event": "won: ferrariChampions2026 \u2014 CA Tigre vs. CA River Plate: O/U 0.5"
+    },
+    {
+      "timestamp": 1786227543.674518,
+      "bankroll": 497.43,
+      "event": "won: 1winstreak1 \u2014 Spread: New York Yankees (-2.5)"
+    },
+    {
+      "timestamp": 1786227593.8073902,
+      "bankroll": 497.43,
+      "event": "won: ferrariChampions2026 \u2014 Will CA River Plate win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786227595.2103024,
+      "bankroll": 497.43,
+      "event": "won: ferrariChampions2026 \u2014 Will CA River Plate win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786227599.8513381,
+      "bankroll": 497.43,
+      "event": "won: ferrariChampions2026 \u2014 CA Tigre vs. CA River Plate: O/U 2.5"
+    },
+    {
+      "timestamp": 1786227601.649028,
+      "bankroll": 497.43,
+      "event": "won: RN1 \u2014 Will CA River Plate win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786227601.8494756,
+      "bankroll": 497.43,
+      "event": "won: RN1 \u2014 Will CA River Plate win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786227601.9496865,
+      "bankroll": 497.43,
+      "event": "won: RN1 \u2014 Will CA River Plate win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786227602.0498679,
+      "bankroll": 497.43,
+      "event": "won: ferrariChampions2026 \u2014 Will CA River Plate win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786227602.1500442,
+      "bankroll": 497.43,
+      "event": "won: ferrariChampions2026 \u2014 Will CA River Plate win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786227602.2502356,
+      "bankroll": 497.43,
+      "event": "won: RN1 \u2014 Will CA River Plate win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786227604.2532444,
+      "bankroll": 497.43,
+      "event": "lost: ferrariChampions2026 \u2014 Will CA River Plate win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786227605.2551296,
+      "bankroll": 497.43,
+      "event": "lost: ferrariChampions2026 \u2014 Will CA River Plate win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786227605.3553488,
+      "bankroll": 497.43,
+      "event": "lost: ferrariChampions2026 \u2014 Will CA River Plate win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786227608.1156368,
+      "bankroll": 497.43,
+      "event": "won: RN1 \u2014 Will CA River Plate win on 2026-08-08?"
     }
   ]
 }
