@@ -24,6 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
 | Spicer | 0 | 0 | 5 | +0.00 USD |
+| BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 45 | -3.99 USD |
 | RN1 | 2 | 2 | 13 | -5.13 USD |
@@ -77,40 +78,42 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-ksc-bie-2026-08-08-total-2pt5 | RN1, ferrariChampions2026 |
 | bl2-ksc-bie-2026-08-08-ksc | RN1, ferrariChampions2026 |
 | bl2-svd-ksv-2026-08-08-total-3pt5 | RN1, ferrariChampions2026 |
+| clf-lev-sev-2026-08-08-lev | RN1, quavoo |
 | bl2-ksc-bie-2026-08-08-total-5pt5 | RN1, ferrariChampions2026 |
 | lol-blg-edg-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
+| chi-yun-ron-2026-08-08-ron | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| quavoo | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 60% | 2.63 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 41% | 4.38 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 48% | 1.04 | ⏳ pendiente | — |
-| quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 21% | 2.66 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| ThornyDevil | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 43% | 16.40 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 58% | 3.52 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Cleveland Guardians (-2.5) | Chicago White Sox (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| quavoo | Cleveland Guardians vs. Chicago White So | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Tottenham Hotspur win on 2026-08-08 | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| quavoo | Racing Club De Lens vs. Sunderland AFC:  | Over (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Over (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| quavoo | Cleveland Guardians vs. Chicago White So | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 56% | 7.58 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 65% | 1.62 | ⏳ pendiente | — |
-| ThornyDevil | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs EDward Gaming -  | EDward Gaming (BUY) | 6% | 9.49 | ⏳ pendiente | — |
-| HomeRunHazard | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 53% | 6.53 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 36% | 2.78 | ⏳ pendiente | — |
-| Spicer | LoL: Bilibili Gaming vs EDward Gaming -  | Bilibili Gaming (BUY) | 79% | 18.33 | ⏳ pendiente | — |
+| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 191.5 | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Burnley FC vs. Notts County FC: O/U 1.5 | Over (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Milwaukee Brewers (-1.5) | Minnesota Twins (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will FC Augsburg win on 2026-08-08? | No (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Salford City FC win on 2026-08-08? | No (BUY) | 45% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Portsmouth FC win on 2026-08-08? | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cardiff City FC vs. Swindon Town FC: O/U | Over (BUY) | 83% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Wigan Athletic FC win on 2026-08-08 | No (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Watford FC vs. Crawley Town FC: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Watford FC (-1.5) | Crawley Town FC (BUY) | 41% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Stoke City FC win on 2026-08-08? | Yes (BUY) | 63% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Bradford City AFC win on 2026-08-08 | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Grimsby Town FC win on 2026-08-08? | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | West Ham United FC vs. Portsmouth FC: O/ | Over (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Portsmouth FC win on 2026-08-08? | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | FC Augsburg vs. Sassuolo Calcio: O/U 4.5 | Over (BUY) | 58% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Stoke City FC win on 2026-08-08? | Yes (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| BrotherObama | LoL: SK Gaming vs Natus Vincere (BO3) -  | SK Gaming (BUY) | 37% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will FC Augsburg win on 2026-08-08? | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Swansea City AFC vs. Birmingham City FC: | Over (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Oldham Athletic AFC win on 2026-08- | No (BUY) | 88% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Bradford City AFC vs. Rochdale AFC: O/U  | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Gillingham FC vs. Luton Town FC end | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Tottenham Hotspur win on 2026-08-08 | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Burnley FC vs. Notts County FC: O/U 1.5 | Over (BUY) | 80% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Notts County FC win on 2026-08-08? | No (BUY) | 91% | 0.00 | ⏳ pendiente | — |
+| quavoo | Brighton & Hove Albion vs. AS Roma: O/U  | Under (BUY) | 80% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Notts County FC win on 2026-08-08? | No (BUY) | 91% | 0.00 | ⏳ pendiente | — |
