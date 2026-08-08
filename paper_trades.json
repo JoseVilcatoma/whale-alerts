@@ -21619,5 +21619,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786154361.0110195,
     "fills": 1
+  },
+  {
+    "timestamp": 1786154426,
+    "timestamp_added": 1786154426.905252,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-riv1-aae-2026-08-07-total-2pt5",
+    "title": "CS Independiente Rivadavia vs. AA Estudiantes: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 351.6332,
+    "whale_pct": 0.125,
+    "paper_stake_usd": 0.97,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786154426.90526,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786154433,
+    "timestamp_added": 1786154434.24691,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "lec-tig-min-2026-08-07-total-1pt5",
+    "title": "Tigres de la UANL vs. Minnesota United FC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 559.77,
+    "whale_pct": 0.16,
+    "paper_stake_usd": 1.25,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786154434.2469182,
+    "fills": 1
   }
 ]
