@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 00:23:03 (hora de Perú)
+Actualizado: 2026-08-08 00:25:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $949.21
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 33 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 1 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 2 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 0 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 4 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
@@ -52,6 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 4.43 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 13.85 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Indiana Fever (-6.5) | Indiana Fever (BUY) | 49% | 2.17 | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 67% | 8.46 | ⏳ pendiente | — |
@@ -81,4 +82,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 22% | 1.23 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Juárez win on 2026-08-07? | No (BUY) | 48% | 9.07 | ⏳ pendiente | — |
 | UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 57% | 16.13 | ⏳ pendiente | — |
-| HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 73% | 9.27 | ✅ ganada | +3.43 |
