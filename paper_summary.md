@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 19:51:35 (hora de Perú)
+Actualizado: 2026-08-07 19:53:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $796.89
-**Retorno acumulado:** -20.31%
+**Bankroll actual:** $803.59
+**Retorno acumulado:** -19.64%
 **Peor caída desde un máximo (drawdown):** 75.51%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,9 +20,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 4 | +1.51 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 8 | 0 | -12.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 48 | 22 | 18 | -86.70 USD |
+| RN1 | 50 | 22 | 20 | -84.96 USD |
+| swisstony | 321 | 186 | 128 | -94.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 312 | 181 | 138 | -99.73 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -74,11 +74,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bra2-ope-ber-2026-08-07-ber | RN1, swisstony |
 | arg-ros-ald-2026-08-07-draw | RN1, swisstony |
 | arg-ros-ald-2026-08-07-total-2pt5 | RN1, swisstony |
+| mlb-cle-cws-2026-08-07-total-9pt5 | RN1, swisstony |
+| mlb-cle-cws-2026-08-07-spread-away-2pt5 | RN1, swisstony |
+| mlb-cle-cws-2026-08-07-total-8pt5 | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Phoenix Mercury vs. Connecticut Sun | Connecticut Sun (BUY) | 30% | 1.19 | ⏳ pendiente | — |
+| RN1 | Spread: Cleveland Guardians (-2.5) | Chicago White Sox (BUY) | 51% | 6.87 | ⏳ pendiente | — |
+| RN1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 55% | 1.44 | ⏳ pendiente | — |
+| swisstony | Spread: Cleveland Guardians (-2.5) | Chicago White Sox (BUY) | 52% | 3.59 | ⏳ pendiente | — |
+| RN1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 44% | 3.34 | ⏳ pendiente | — |
+| swisstony | Cleveland Guardians vs. Chicago White So | Under (BUY) | 55% | 1.10 | ⏳ pendiente | — |
+| swisstony | Cleveland Guardians vs. Chicago White So | Under (BUY) | 67% | 2.68 | ⏳ pendiente | — |
+| RN1 | Spread: Washington Nationals (-1.5) | Cincinnati Reds (BUY) | 64% | 4.60 | ⏳ pendiente | — |
 | swisstony | Will AA Ponte Preta win on 2026-08-07? | No (BUY) | 99% | 1.39 | ⏳ pendiente | — |
 | swisstony | Will CD Universidad Católica win on 2026 | Yes (BUY) | 70% | 4.12 | ⏳ pendiente | — |
 | swisstony | Will CD Universidad Católica win on 2026 | Yes (BUY) | 69% | 1.58 | ⏳ pendiente | — |
@@ -101,11 +112,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 81% | 1.83 | ⏳ pendiente | — |
 | swisstony | Will Charlotte FC win on 2026-08-07? | Yes (BUY) | 35% | 1.00 | ⏳ pendiente | — |
 | swisstony | Charlotte FC vs. Atlas FC: O/U 3.5 | Under (BUY) | 96% | 3.32 | ⏳ pendiente | — |
-| swisstony | Will Atlas FC win on 2026-08-07? | No (BUY) | 74% | 2.04 | ⏳ pendiente | — |
-| RN1 | CA Ferrocarril Midland vs. CD Maipu: Bot | No (BUY) | 74% | 2.94 | ⏳ pendiente | — |
-| swisstony | Will Ceará SC vs. AA Ponte Preta end in  | No (BUY) | 94% | 1.40 | ⏳ pendiente | — |
-| swisstony | Will Atlas FC win on 2026-08-07? | No (BUY) | 74% | 2.11 | ⏳ pendiente | — |
-| swisstony | Colorado Rockies vs. St. Louis Cardinals | Under (BUY) | 39% | 4.64 | ⏳ pendiente | — |
-| RN1 | Spread: Los Angeles Angels (-1.5) | Los Angeles Angels (BUY) | 28% | 0.87 | ⏳ pendiente | — |
-| swisstony | Spread: St. Louis Cardinals (-1.5) | Colorado Rockies (BUY) | 61% | 0.96 | ⏳ pendiente | — |
-| RN1 | Will CA Ferrocarril Midland win on 2026- | Yes (BUY) | 80% | 3.22 | ⏳ pendiente | — |

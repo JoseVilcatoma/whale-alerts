@@ -1,5 +1,5 @@
 {
-  "bankroll": 796.8938713677145,
+  "bankroll": 803.5856830242128,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -4660,6 +4660,86 @@
       "timestamp": 1786150287.2052195,
       "bankroll": 796.89,
       "event": "won: RN1 \u2014 CA Rosario Central vs. CA Aldosivi: O/U 3.5"
+    },
+    {
+      "timestamp": 1786150404.0705943,
+      "bankroll": 798.25,
+      "event": "won: swisstony \u2014 Spread: CA Rosario Central (-1.5)"
+    },
+    {
+      "timestamp": 1786150404.4711628,
+      "bankroll": 799.1,
+      "event": "won: swisstony \u2014 Spread: CA Rosario Central (-1.5)"
+    },
+    {
+      "timestamp": 1786150404.971872,
+      "bankroll": 799.34,
+      "event": "won: swisstony \u2014 Spread: CA Rosario Central (-1.5)"
+    },
+    {
+      "timestamp": 1786150405.9194407,
+      "bankroll": 803.39,
+      "event": "won: swisstony \u2014 CA Rosario Central vs. CA Aldosivi: O/U 2.5"
+    },
+    {
+      "timestamp": 1786150406.119733,
+      "bankroll": 807.36,
+      "event": "won: swisstony \u2014 CA Rosario Central vs. CA Aldosivi: O/U 2.5"
+    },
+    {
+      "timestamp": 1786150406.219882,
+      "bankroll": 809.83,
+      "event": "won: swisstony \u2014 CA Rosario Central vs. CA Aldosivi: O/U 2.5"
+    },
+    {
+      "timestamp": 1786150407.0209785,
+      "bankroll": 808.21,
+      "event": "lost: swisstony \u2014 CA Rosario Central vs. CA Aldosivi: O/U 2.5"
+    },
+    {
+      "timestamp": 1786150407.5216663,
+      "bankroll": 808.9,
+      "event": "won: RN1 \u2014 CA Rosario Central vs. CA Aldosivi: O/U 2.5"
+    },
+    {
+      "timestamp": 1786150409.071376,
+      "bankroll": 809.94,
+      "event": "won: RN1 \u2014 CA Rosario Central vs. CA Aldosivi: O/U 2.5"
+    },
+    {
+      "timestamp": 1786150409.1715276,
+      "bankroll": 808.83,
+      "event": "lost: swisstony \u2014 CA Rosario Central vs. CA Aldosivi: O/U 2.5"
+    },
+    {
+      "timestamp": 1786150409.672248,
+      "bankroll": 810.11,
+      "event": "won: swisstony \u2014 CA Rosario Central vs. CA Aldosivi: O/U 2.5"
+    },
+    {
+      "timestamp": 1786150409.9726381,
+      "bankroll": 808.65,
+      "event": "lost: swisstony \u2014 CA Rosario Central vs. CA Aldosivi: O/U 2.5"
+    },
+    {
+      "timestamp": 1786150410.172861,
+      "bankroll": 808.92,
+      "event": "won: swisstony \u2014 Spread: CA Rosario Central (-1.5)"
+    },
+    {
+      "timestamp": 1786150410.2729704,
+      "bankroll": 807.02,
+      "event": "lost: swisstony \u2014 CA Rosario Central vs. CA Aldosivi: O/U 2.5"
+    },
+    {
+      "timestamp": 1786150410.7736576,
+      "bankroll": 803.45,
+      "event": "lost: swisstony \u2014 CA Rosario Central vs. CA Aldosivi: O/U 2.5"
+    },
+    {
+      "timestamp": 1786150413.2127845,
+      "bankroll": 803.59,
+      "event": "won: swisstony \u2014 Spread: CA Rosario Central (-1.5)"
     }
   ]
 }
