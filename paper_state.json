@@ -1,5 +1,5 @@
 {
-  "bankroll": 975.7150531131838,
+  "bankroll": 979.9082110079206,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -130,6 +130,11 @@
       "timestamp": 1786163562.2044005,
       "bankroll": 975.72,
       "event": "lost: 0x4f2 \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786163750.6564236,
+      "bankroll": 979.91,
+      "event": "won: 0x4f2 \u2014 Spread: Tampa Bay Rays (-1.5)"
     }
   ]
 }
