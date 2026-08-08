@@ -20491,5 +20491,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786151147.6416688,
     "fills": 1
+  },
+  {
+    "timestamp": 1786151189,
+    "timestamp_added": 1786151189.6841056,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "title": "Phoenix Mercury vs. Connecticut Sun",
+    "outcome": "Phoenix Mercury",
+    "side": "BUY",
+    "whale_usd": 446.59999999999997,
+    "whale_pct": 0.206,
+    "paper_stake_usd": 1.62,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786151189.6841133,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786151190,
+    "timestamp_added": 1786151190.525897,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-cle-cws-2026-08-07-total-9pt5",
+    "title": "Cleveland Guardians vs. Chicago White Sox: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 960.0,
+    "whale_pct": 0.442,
+    "paper_stake_usd": 3.49,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786151190.5259044,
+    "fills": 1
   }
 ]
