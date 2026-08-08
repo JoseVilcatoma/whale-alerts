@@ -2545,6 +2545,11 @@
       "timestamp": 1786213460.9100597,
       "bankroll": 619.51,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: SK Gaming vs Natus Vincere - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786213699.1365585,
+      "bankroll": 619.51,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Movistar KOI vs GIANTX - Game 1 Winner (+0.00 USD)"
     }
   ]
 }

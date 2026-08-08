@@ -14092,14 +14092,15 @@
     "whale_pct": 1.1,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 21,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ThornyDevil"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786212953.5963168,
-    "fills": 3
+    "fills": 3,
+    "closed_price": 7
   },
   {
     "timestamp": 1786212951,
@@ -14137,14 +14138,15 @@
     "whale_pct": 0.372,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 22,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ThornyDevil"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786212994.4111123,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 7
   },
   {
     "timestamp": 1786213061,
@@ -14179,14 +14181,15 @@
     "whale_pct": 0.508,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 13,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ThornyDevil"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786213095.8380814,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 7
   },
   {
     "timestamp": 1786213136,
