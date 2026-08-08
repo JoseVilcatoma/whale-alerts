@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 14:49:01 (hora de Perú)
+Actualizado: 2026-08-08 14:51:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $470.02
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 5 | 2 | 23 | +12.05 USD |
-| UpTheBlues | 38 | 26 | 29 | +5.74 USD |
+| UpTheBlues | 38 | 26 | 31 | +5.74 USD |
 | HomeRunHazard | 7 | 8 | 62 | +0.35 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 6 | +0.00 USD |
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 152 | 134 | 46 | -76.06 USD |
+| ferrariChampions2026 | 152 | 134 | 48 | -76.06 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 2 | -303.20 USD |
 
@@ -59,6 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lec-vwh-jua-2026-08-07-draw | UpTheBlues, ferrariChampions2026 |
 | chi-hai-sgr-2026-08-08-hai | RN1, UpTheBlues |
 | mlb-det-sf-2026-08-07-spread-home-2pt5 | HomeRunHazard, ferrariChampions2026 |
+| wnba-ind-chi-2026-08-08-spread-away-5pt5 | HomeRunHazard, ferrariChampions2026 |
 | lol-wb-lng-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-laa-mia-2026-08-08-total-8pt5 | HomeRunHazard, quavoo |
 | jap-avi-vis-2026-08-08-spread-away-1pt5 | UpTheBlues, ferrariChampions2026 |
@@ -109,6 +110,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 46% | 0.11 | ⏳ pendiente | — |
+| UpTheBlues | Korona Kielce vs. Legia Warszawa: O/U 4. | Under (BUY) | 98% | 3.41 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Indiana Fever (-5.5) | Chicago Sky (BUY) | 51% | 0.61 | ⏳ pendiente | — |
+| UpTheBlues | Will São Paulo FC win on 2026-08-08? | No (BUY) | 40% | 0.49 | ⏳ pendiente | — |
 | ferrariChampions2026 | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 50% | 0.61 | ⏳ pendiente | — |
 | UpTheBlues | Will São Paulo FC win on 2026-08-08? | No (BUY) | 78% | 2.52 | ⏳ pendiente | — |
 | ferrariChampions2026 | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 47% | 0.59 | ⏳ pendiente | — |
@@ -135,7 +140,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will VfL Wolfsburg win on 2026-08-08? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | AZ vs. ADO Den Haag: Both Teams to Score | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | PSV vs. Fortuna Sittard: O/U 3.5 | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | CD Riestra vs. Estudiantes de La Plata:  | Under (BUY) | 97% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Estudiantes de La Plata win on 2026 | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
-| StasPanda | Counter-Strike: Sinners vs EYEBALLERS (B | EYEBALLERS (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will PSV win on 2026-08-08? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
