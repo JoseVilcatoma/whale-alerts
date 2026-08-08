@@ -1,5 +1,5 @@
 {
-  "bankroll": 786.9498586719776,
+  "bankroll": 782.5798586719776,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -4905,6 +4905,11 @@
       "timestamp": 1786151905.8085887,
       "bankroll": 786.95,
       "event": "lost: RN1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1786152020.5781424,
+      "bankroll": 782.58,
+      "event": "lost: swisstony \u2014 Athletics vs. Boston Red Sox: O/U 10.5"
     }
   ]
 }
