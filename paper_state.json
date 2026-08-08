@@ -1,5 +1,5 @@
 {
-  "bankroll": 620.8182487912744,
+  "bankroll": 632.9407487912744,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2470,6 +2470,21 @@
       "timestamp": 1786206777.5888321,
       "bankroll": 620.82,
       "event": "lost: UpTheBlues \u2014 Will Shijiazhuang Gongfu FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786208348.942963,
+      "bankroll": 625.64,
+      "event": "won: quavoo \u2014 Will Chelsea FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786208349.043133,
+      "bankroll": 631.82,
+      "event": "won: quavoo \u2014 Will Chelsea FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786208350.6364427,
+      "bankroll": 632.94,
+      "event": "won: quavoo \u2014 Will Chelsea FC win on 2026-08-08?"
     }
   ]
 }

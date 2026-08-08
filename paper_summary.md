@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 11:57:15 (hora de Perú)
+Actualizado: 2026-08-08 11:59:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $620.82
-**Retorno acumulado:** -37.92%
+**Bankroll actual:** $632.94
+**Retorno acumulado:** -36.71%
 **Peor caída desde un máximo (drawdown):** 47.71%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,6 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 18 | 10 | 3 | +61.27 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
+| quavoo | 3 | 1 | 26 | +8.49 USD |
 | Spicer | 5 | 0 | 5 | +6.62 USD |
 | UpTheBlues | 36 | 26 | 3 | +5.35 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
@@ -23,7 +24,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 6 | -1.58 USD |
-| quavoo | 0 | 1 | 29 | -3.64 USD |
 | HomeRunHazard | 4 | 6 | 61 | -3.99 USD |
 | RN1 | 8 | 7 | 2 | -5.53 USD |
 | ThornyDevil | 3 | 2 | 0 | -16.40 USD |
