@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 20:39:26 (hora de Perú)
+Actualizado: 2026-08-07 20:41:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $777.24
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 53 | 27 | 16 | -93.50 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 335 | 202 | 157 | -112.58 USD |
+| swisstony | 335 | 202 | 159 | -112.58 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -80,11 +80,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-laa-mia-2026-08-07-spread-away-1pt5 | RN1, swisstony |
 | mlb-cle-cws-2026-08-07-total-8pt5 | RN1, swisstony |
 | arg-riv1-aae-2026-08-07-aae | RN1, swisstony |
+| mlb-atl-nyy-2026-08-07-total-8pt5 | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 85% | 1.51 | ⏳ pendiente | — |
+| swisstony | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 69% | 0.92 | ⏳ pendiente | — |
 | swisstony | Will CD Universidad Católica vs. CD Cobr | Yes (BUY) | 26% | 1.06 | ⏳ pendiente | — |
 | swisstony | Will CS Independiente Rivadavia vs. AA E | No (BUY) | 62% | 1.15 | ⏳ pendiente | — |
 | swisstony | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 84% | 2.53 | ⏳ pendiente | — |
@@ -113,5 +116,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Phoenix Mercury vs. Connecticut Sun | Phoenix Mercury (BUY) | 78% | 1.29 | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 36% | 4.48 | ⏳ pendiente | — |
 | swisstony | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 53% | 4.60 | ⏳ pendiente | — |
-| swisstony | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 53% | 8.76 | ⏳ pendiente | — |
-| swisstony | Spread: Phoenix Mercury (-4.5) | Connecticut Sun (BUY) | 55% | 1.03 | ⏳ pendiente | — |
