@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 10:35:28 (hora de Perú)
+Actualizado: 2026-08-08 10:37:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $602.97
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 10 | 0 | +61.27 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 10 | 1 | +61.27 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 4 | 0 | 3 | +9.27 USD |
 | Spicer | 1 | 0 | 4 | +4.87 USD |
@@ -85,6 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 1 | Natus Vincere (BUY) | 95% | 18.63 | ⏳ pendiente | — |
 | Talvez10 | O/U 2.5 Rounds | Over (BUY) | 34% | 3.28 | ⏳ pendiente | — |
 | Talvez10 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 51% | 23.20 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 1 | Natus Vincere (BUY) | 63% | 25.45 | 💰 vendida anticipada | +12.52 |
@@ -114,4 +115,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Cleveland Guardians vs. Chicago White So | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Tottenham Hotspur win on 2026-08-08 | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
