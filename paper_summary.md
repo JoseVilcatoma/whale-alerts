@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:28:20 (hora de Perú)
+Actualizado: 2026-08-08 16:30:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -17,15 +17,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
-| quavoo | 5 | 4 | 45 | +8.84 USD |
-| HomeRunHazard | 8 | 11 | 59 | +3.36 USD |
+| quavoo | 5 | 4 | 46 | +8.84 USD |
+| HomeRunHazard | 8 | 11 | 61 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 14 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 7 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 12 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 36 | -12.25 USD |
+| 1winstreak1 | 0 | 3 | 39 | -12.25 USD |
 | ThornyDevil | 3 | 4 | 2 | -16.40 USD |
 | RN1 | 8 | 9 | 15 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-laa-mia-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard, quavoo |
 | jap-avi-vis-2026-08-08-spread-away-1pt5 | UpTheBlues, ferrariChampions2026 |
 | mlb-oak-bos-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026 |
-| mlb-tor-phi-2026-08-08-total-9pt5 | HomeRunHazard, Talvez10, ferrariChampions2026 |
+| mlb-tor-phi-2026-08-08-total-9pt5 | HomeRunHazard, Talvez10, ferrariChampions2026, quavoo |
 | mlb-lad-ari-2026-08-08-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-185pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-184pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -122,6 +122,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 10.5 | Over (BUY) | 40% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Over (BUY) | 66% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | New York Mets vs. Pittsburgh Pirates: O/ | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | New York Mets vs. Pittsburgh Pirates: O/ | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | Yes (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC Fight Night: Juliana Miller vs. Rave | Ravena Oliveira (BUY) | 23% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Tigre win on 2026-08-08? | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
@@ -146,9 +152,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 30% | 0.00 | 💰 vendida anticipada | +0.00 |
 | RN1 | Will CF Estrela da Amadora win on 2026-0 | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Cruzeiro EC win on 2026-08-09? | Yes (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| quavoo | Spread: Inter Miami CF (-2.5) | CF Monterrey (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will CA River Plate win on 2026-08-08? | No (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | No (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Indiana Fever vs. Chicago Sky | Chicago Sky (BUY) | 15% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CA Tigre vs. CA River Plate: O/U 0.5 | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
