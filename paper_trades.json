@@ -4491,5 +4491,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786170226.1439812,
     "fills": 1
+  },
+  {
+    "timestamp": 1786170234,
+    "timestamp_added": 1786170235.1751137,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "cs2-tl1-mzp-2026-08-08",
+    "title": "Counter-Strike: Liquid vs Metizport (BO3) - Esports World Cup Open Qualifier Group 12",
+    "outcome": "Metizport",
+    "side": "BUY",
+    "whale_usd": 3.6986299999999996,
+    "whale_pct": 0.139,
+    "paper_stake_usd": 1.32,
+    "odds_at_bet": 27,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786170235.175122,
+    "fills": 1
   }
 ]
