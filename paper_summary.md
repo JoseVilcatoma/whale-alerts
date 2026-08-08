@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 23:30:46 (hora de Perú)
+Actualizado: 2026-08-07 23:32:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $977.05
-**Retorno acumulado:** -2.30%
+**Bankroll actual:** $975.72
+**Retorno acumulado:** -2.43%
 **Peor caída desde un máximo (drawdown):** 3.88%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,12 +13,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| RN1 | 1 | 0 | 3 | +0.14 USD |
 | greyoctober | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
-| RN1 | 0 | 0 | 4 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 10 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 33 | +0.00 USD |
-| 0x4f2 | 3 | 8 | 16 | -2.90 USD |
+| swisstony | 0 | 0 | 1 | +0.00 USD |
+| 0x4f2 | 4 | 9 | 14 | -4.37 USD |
 | ferrariChampions2026 | 7 | 6 | 38 | -20.09 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -50,6 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Philadelphia Phillies (-1.5) | Toronto Blue Jays (BUY) | 58% | 2.52 | ⏳ pendiente | — |
 | HomeRunHazard | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 65% | 2.92 | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 48% | 3.08 | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 55% | 5.24 | ⏳ pendiente | — |
@@ -79,4 +81,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 21% | 2.02 | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 40% | 1.12 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: San Francisco Giants (-2.5) | Detroit Tigers (BUY) | 45% | 1.15 | ⏳ pendiente | — |
-| greyoctober | Valorant: DRX vs T1 (BO3) - VCT Pacific  | T1 (BUY) | 63% | 7.15 | ⏳ pendiente | — |

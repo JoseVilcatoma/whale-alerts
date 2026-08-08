@@ -1,5 +1,5 @@
 {
-  "bankroll": 977.0460744375384,
+  "bankroll": 975.7150531131838,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -115,6 +115,21 @@
       "timestamp": 1786162935.015387,
       "bankroll": 977.05,
       "event": "won: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786163558.2920163,
+      "bankroll": 977.19,
+      "event": "won: RN1 \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786163562.1041865,
+      "bankroll": 977.73,
+      "event": "won: 0x4f2 \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786163562.2044005,
+      "bankroll": 975.72,
+      "event": "lost: 0x4f2 \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
     }
   ]
 }
