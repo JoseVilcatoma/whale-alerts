@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 03:48:21 (hora de Perú)
+Actualizado: 2026-08-08 03:50:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $922.00
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 32 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 33 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 18 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
@@ -59,6 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Game Handicap: AL (-1.5) vs LGD Gaming ( | LGD Gaming (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. Chicago Sky | Chicago Sky (BUY) | 32% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Indiana Fever (-5.5) | Chicago Sky (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 1% | 0.00 | ⏳ pendiente | — |
@@ -88,4 +89,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 1.02 | ⏳ pendiente | — |
 | Talvez10 | O/U 1.5 Rounds | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: EYEBALLERS vs Phantom (B | EYEBALLERS (BUY) | 54% | 51.51 | ⏳ pendiente | — |
-| UpTheBlues | Will Eintracht Braunschweig win on 2026- | Yes (BUY) | 21% | 2.71 | ⏳ pendiente | — |
