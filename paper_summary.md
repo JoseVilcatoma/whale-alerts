@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 11:15:09 (hora de Perú)
+Actualizado: 2026-08-08 11:17:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $620.82
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 10 | 4 | +61.27 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 18 | 10 | 3 | +61.27 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | Spicer | 5 | 0 | 5 | +6.62 USD |
@@ -92,7 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 48% | 0.97 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 56% | 4.26 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 2 | SK Gaming (BUY) | 39% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 2 | SK Gaming (BUY) | 39% | 0.00 | 💰 vendida anticipada | +0.00 |
 | Spicer | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | Spicer | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 62% | 0.00 | ⏳ pendiente | — |

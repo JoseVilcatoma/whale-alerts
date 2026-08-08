@@ -12832,14 +12832,15 @@
     "whale_pct": 4.084,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 39,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [
       "Spicer"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786204987.0101862,
-    "fills": 4
+    "fills": 4,
+    "closed_price": 59
   },
   {
     "timestamp": 1786205183,
