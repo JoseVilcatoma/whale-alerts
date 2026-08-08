@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 17:20:22 (hora de Perú)
+Actualizado: 2026-08-08 17:22:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $497.43
@@ -17,8 +17,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 20 | 17 | 51 | +25.50 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 27 | 6 | +9.02 USD |
-| quavoo | 5 | 5 | 78 | +8.84 USD |
+| UpTheBlues | 39 | 27 | 7 | +9.02 USD |
+| quavoo | 5 | 5 | 79 | +8.84 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 1 | 2 | 11 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -27,10 +27,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 15 | 13 | 12 | -10.71 USD |
 | 1winstreak1 | 11 | 13 | 34 | -12.25 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 14 | 10 | 15 | -22.00 USD |
+| RN1 | 14 | 10 | 16 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 182 | 154 | 48 | -74.91 USD |
+| ferrariChampions2026 | 182 | 154 | 50 | -74.91 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 6 | -303.20 USD |
 
@@ -126,12 +126,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-oak-bos-2026-08-08-total-10pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-nym-pit-2026-08-08-total-7pt5 | HomeRunHazard, quavoo |
 | mlb-oak-bos-2026-08-08-spread-away-2pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
+| per1-ajp-cag-2026-08-08-ajp | RN1, UpTheBlues |
 | arg-boc-vel-2026-08-08-vel | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will ADC Juan Pablo II College win on 20 | No (BUY) | 84% | 2.62 | ⏳ pendiente | — |
+| quavoo | Valorant: Leviatán Esports vs MIBR (BO3) | MIBR (BUY) | 39% | 7.26 | ⏳ pendiente | — |
+| RN1 | Will Clube do Remo win on 2026-08-08? | No (BUY) | 91% | 0.52 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 86% | 1.50 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Manoel Sousa vs. Richie | Manoel Sousa (BUY) | 76% | 15.04 | ⏳ pendiente | — |
 | RN1 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 87% | 0.86 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 87% | 0.72 | ⏳ pendiente | — |
 | quavoo | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 64% | 0.70 | ⏳ pendiente | — |
@@ -157,8 +163,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will CA Mineiro win on 2026-08-08? | Yes (BUY) | 65% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Athletics vs. Boston Red Sox: O/U 9.5 | Under (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Club Alianza Lima win on 2026-08-08 | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 20% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
