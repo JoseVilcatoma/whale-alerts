@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 00:16:38 (hora de Perú)
+Actualizado: 2026-08-08 00:18:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $946.90
-**Retorno acumulado:** -5.31%
+**Bankroll actual:** $949.21
+**Retorno acumulado:** -5.08%
 **Peor caída desde un máximo (drawdown):** 5.98%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,8 +19,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | TAIWANNUMBERONE | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 0 | -1.58 USD |
+| HomeRunHazard | 4 | 6 | 4 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
-| HomeRunHazard | 3 | 5 | 6 | -6.30 USD |
 | ferrariChampions2026 | 10 | 12 | 29 | -57.12 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -81,4 +81,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 22% | 1.23 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Juárez win on 2026-08-07? | No (BUY) | 48% | 9.07 | ⏳ pendiente | — |
 | UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 57% | 16.13 | ⏳ pendiente | — |
-| HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 73% | 9.27 | ⏳ pendiente | — |
+| HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 73% | 9.27 | ✅ ganada | +3.43 |

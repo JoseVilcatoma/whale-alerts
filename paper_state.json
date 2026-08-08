@@ -1,5 +1,5 @@
 {
-  "bankroll": 946.90188214796,
+  "bankroll": 949.2105122849463,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -310,6 +310,16 @@
       "timestamp": 1786165232.606125,
       "bankroll": 946.9,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Detroit Tigers vs. San Francisco Giants: O/U 8.5"
+    },
+    {
+      "timestamp": 1786166256.041694,
+      "bankroll": 945.78,
+      "event": "lost: HomeRunHazard \u2014 Atlanta Braves vs. New York Yankees: O/U 5.5"
+    },
+    {
+      "timestamp": 1786166256.642761,
+      "bankroll": 949.21,
+      "event": "won: HomeRunHazard \u2014 Atlanta Braves vs. New York Yankees: O/U 5.5"
     }
   ]
 }
