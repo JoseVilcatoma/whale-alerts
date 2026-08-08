@@ -5197,5 +5197,70 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786178653.5198677,
     "fills": 2
+  },
+  {
+    "timestamp": 1786178669,
+    "timestamp_added": 1786178669.857727,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-t1-hle1-2026-08-08",
+    "title": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 13.5,
+    "whale_pct": 0.569,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 27,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786178669.8577323,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786178684,
+    "timestamp_added": 1786178684.8709452,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-wb-lng-2026-08-08-game2",
+    "title": "LoL: Weibo Gaming vs LNG Esports - Game 2 Winner",
+    "outcome": "LNG Esports",
+    "side": "BUY",
+    "whale_usd": 176.24912400000002,
+    "whale_pct": 7.431,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 3,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786178701.2075362,
+    "fills": 9
+  },
+  {
+    "timestamp": 1786178755,
+    "timestamp_added": 1786178755.6028862,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-wb-lng-2026-08-08",
+    "title": "LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana",
+    "outcome": "LNG Esports",
+    "side": "BUY",
+    "whale_usd": 26.419499999999896,
+    "whale_pct": 0.702,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 1,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786178755.6028934,
+    "fills": 1
   }
 ]
