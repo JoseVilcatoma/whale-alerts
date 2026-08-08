@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 20:12:16 (hora de Perú)
+Actualizado: 2026-08-07 20:14:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $790.29
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 53 | 25 | 16 | -88.72 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 334 | 199 | 129 | -104.31 USD |
+| swisstony | 334 | 199 | 134 | -104.31 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -84,6 +84,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Phoenix Mercury (-4.5) | Connecticut Sun (BUY) | 55% | 1.03 | ⏳ pendiente | — |
+| swisstony | CS Independiente Rivadavia vs. AA Estudi | Over (BUY) | 51% | 1.46 | ⏳ pendiente | — |
+| swisstony | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 24% | 3.36 | ⏳ pendiente | — |
+| swisstony | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 69% | 2.15 | ⏳ pendiente | — |
+| swisstony | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 87% | 53.81 | ⏳ pendiente | — |
 | swisstony | Spread: Phoenix Mercury (-5.5) | Phoenix Mercury (BUY) | 39% | 1.17 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Connecticut Sun | Phoenix Mercury (BUY) | 64% | 5.51 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Connecticut Sun | Connecticut Sun (BUY) | 36% | 3.97 | ⏳ pendiente | — |
@@ -109,8 +114,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Phoenix Mercury (-5.5) | Connecticut Sun (BUY) | 52% | 1.05 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Connecticut Sun | Connecticut Sun (BUY) | 30% | 1.03 | ⏳ pendiente | — |
 | swisstony | Spread: Phoenix Mercury (-6.5) | Connecticut Sun (BUY) | 60% | 1.23 | ⏳ pendiente | — |
-| swisstony | Spread: CS Independiente Rivadavia (-2.5 | AA Estudiantes (BUY) | 85% | 2.91 | ⏳ pendiente | — |
-| swisstony | Cleveland Guardians vs. Chicago White So | Over (BUY) | 84% | 1.66 | ⏳ pendiente | — |
-| RN1 | Will Stade de Reims win on 2026-08-08? | No (BUY) | 48% | 5.41 | ⏳ pendiente | — |
-| RN1 | Will AA Estudiantes win on 2026-08-07? | No (BUY) | 89% | 2.09 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Connecticut Sun | Connecticut Sun (BUY) | 30% | 1.19 | ⏳ pendiente | — |
