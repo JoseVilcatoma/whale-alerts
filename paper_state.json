@@ -2535,6 +2535,11 @@
       "timestamp": 1786213081.4749815,
       "bankroll": 618.53,
       "event": "lost: RN1 \u2014 Will Bayer Leverkusen win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786213401.569172,
+      "bankroll": 618.53,
+      "event": "lost: quavoo \u2014 Racing Club De Lens vs. Sunderland AFC: O/U 2.5"
     }
   ]
 }
