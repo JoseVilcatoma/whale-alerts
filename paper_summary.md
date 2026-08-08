@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:15:48 (hora de Perú)
+Actualizado: 2026-08-08 16:17:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -13,11 +13,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 28 | 13 | 19 | +57.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 28 | 13 | 20 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
-| quavoo | 5 | 4 | 38 | +8.84 USD |
+| quavoo | 5 | 4 | 42 | +8.84 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 14 | +0.00 USD |
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 14 | 11 | 11 | -11.76 USD |
 | 1winstreak1 | 0 | 3 | 31 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
-| RN1 | 8 | 9 | 13 | -22.00 USD |
+| RN1 | 8 | 9 | 15 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | ferrariChampions2026 | 168 | 139 | 57 | -75.22 USD |
@@ -118,6 +118,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| RN1 | CF Estrela da Amadora vs. Sporting CP: O | Under (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 30% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will CF Estrela da Amadora win on 2026-0 | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Cruzeiro EC win on 2026-08-09? | Yes (BUY) | 58% | 0.00 | ⏳ pendiente | — |
+| quavoo | Spread: Inter Miami CF (-2.5) | CF Monterrey (BUY) | 85% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CA River Plate win on 2026-08-08? | No (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | No (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Indiana Fever vs. Chicago Sky | Chicago Sky (BUY) | 15% | 0.00 | ⏳ pendiente | — |
@@ -141,10 +148,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 96% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Counter-Strike: 9INE vs HOTU (BO3) - Esp | 9INE (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 91% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 69% | 0.00 | 💰 vendida anticipada | +0.00 |
-| ferrariChampions2026 | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 91% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: New York Yankees (-1.5) | Atlanta Braves (BUY) | 31% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Sporting CP win on 2026-08-08? | Yes (BUY) | 90% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 88% | 0.00 | ⏳ pendiente | — |
