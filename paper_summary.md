@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 07:40:34 (hora de Perú)
+Actualizado: 2026-08-08 07:42:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $894.48
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
 | Spicer | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 43 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 44 | -3.99 USD |
 | UpTheBlues | 25 | 20 | 20 | -4.56 USD |
 | RN1 | 2 | 2 | 13 | -5.13 USD |
 | ferrariChampions2026 | 86 | 89 | 103 | -59.56 USD |
@@ -84,6 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 48% | 1.04 | ⏳ pendiente | — |
 | quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 21% | 2.66 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | ThornyDevil | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 43% | 16.40 | ⏳ pendiente | — |
@@ -113,4 +114,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Spicer | LoL: Bilibili Gaming vs EDward Gaming -  | Bilibili Gaming (BUY) | 79% | 18.33 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 43% | 1.64 | ⏳ pendiente | — |
 | RN1 | Will Karlsruher SC win on 2026-08-08? | Yes (BUY) | 59% | 1.36 | ⏳ pendiente | — |
-| RN1 | SV Darmstadt 98 vs. Holstein Kiel: O/U 3 | Under (BUY) | 43% | 1.65 | ⏳ pendiente | — |
