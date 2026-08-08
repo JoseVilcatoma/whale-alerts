@@ -1,5 +1,5 @@
 {
-  "bankroll": 577.7055232822621,
+  "bankroll": 579.3664323731712,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2080,6 +2080,36 @@
       "timestamp": 1786200512.9126406,
       "bankroll": 577.71,
       "event": "lost: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786201130.2339122,
+      "bankroll": 577.71,
+      "event": "won: ferrariChampions2026 \u2014 Karlsruher SC vs. DSC Arminia Bielefeld: O/U 2.5"
+    },
+    {
+      "timestamp": 1786201130.4341733,
+      "bankroll": 577.71,
+      "event": "won: ferrariChampions2026 \u2014 Karlsruher SC vs. DSC Arminia Bielefeld: O/U 2.5"
+    },
+    {
+      "timestamp": 1786201133.0960534,
+      "bankroll": 577.71,
+      "event": "won: RN1 \u2014 Karlsruher SC vs. DSC Arminia Bielefeld: O/U 2.5"
+    },
+    {
+      "timestamp": 1786201139.281841,
+      "bankroll": 579.37,
+      "event": "won: RN1 \u2014 Karlsruher SC vs. DSC Arminia Bielefeld: O/U 2.5"
+    },
+    {
+      "timestamp": 1786201140.3390644,
+      "bankroll": 579.37,
+      "event": "lost: ferrariChampions2026 \u2014 Bucheon FC 1995 vs. Gwangju FC: O/U 0.5"
+    },
+    {
+      "timestamp": 1786201140.9735963,
+      "bankroll": 579.37,
+      "event": "won: ferrariChampions2026 \u2014 Will Bucheon FC 1995 win on 2026-08-08?"
     }
   ]
 }
