@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 21:08:24 (hora de Perú)
+Actualizado: 2026-08-07 21:10:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $780.70
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 54 | 27 | 22 | -90.01 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 338 | 203 | 175 | -112.61 USD |
+| swisstony | 338 | 203 | 177 | -112.61 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -89,6 +89,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will CS Independiente Rivadavia vs. AA E | Yes (BUY) | 52% | 2.41 | ⏳ pendiente | — |
+| swisstony | Will CD Universidad Católica vs. CD Cobr | No (BUY) | 91% | 0.91 | ⏳ pendiente | — |
 | swisstony | Spread: Minnesota Twins (-2.5) | Milwaukee Brewers (BUY) | 63% | 2.15 | ⏳ pendiente | — |
 | swisstony | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 78% | 1.92 | ⏳ pendiente | — |
 | swisstony | Will CS Independiente Rivadavia vs. AA E | Yes (BUY) | 48% | 2.15 | ⏳ pendiente | — |
@@ -117,5 +119,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Deportes Quindio vs. Internacional FC De | Under (BUY) | 100% | 1.65 | ⏳ pendiente | — |
 | swisstony | Will CD Cobresal win on 2026-08-07? | No (BUY) | 88% | 1.57 | ⏳ pendiente | — |
 | swisstony | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 85% | 1.51 | ⏳ pendiente | — |
-| swisstony | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 69% | 0.92 | ⏳ pendiente | — |
-| swisstony | Will CD Universidad Católica vs. CD Cobr | Yes (BUY) | 26% | 1.06 | ⏳ pendiente | — |
