@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 01:05:03 (hora de Perú)
+Actualizado: 2026-08-08 01:07:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $949.21
@@ -17,11 +17,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 38 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 10 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 12 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
-| fRibrenlc | 0 | 0 | 1 | +0.00 USD |
+| fRibrenlc | 0 | 0 | 4 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 6 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 9 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | ferrariChampions2026 | 10 | 12 | 29 | -57.12 USD |
 
@@ -54,6 +54,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 61.25 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports - Game  | LNG Esports (BUY) | 35% | 1.66 | ⏳ pendiente | — |
+| HomeRunHazard | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 49% | 1.99 | ⏳ pendiente | — |
+| HomeRunHazard | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 59% | 2.05 | ⏳ pendiente | — |
+| fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 14.72 | ⏳ pendiente | — |
+| HomeRunHazard | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 51% | 5.18 | ⏳ pendiente | — |
+| fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 8.41 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 1.06 | ⏳ pendiente | — |
 | quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 61% | 3.31 | ⏳ pendiente | — |
 | quavoo | Will FC Seoul win on 2026-08-08? | Yes (BUY) | 49% | 3.64 | ⏳ pendiente | — |
 | quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 61% | 1.43 | ⏳ pendiente | — |
@@ -76,11 +84,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Athletics vs. Boston Red Sox: O/U 9.5 | Under (BUY) | 53% | 3.13 | ⏳ pendiente | — |
 | quavoo | Will Chelsea FC win on 2026-08-08? | Yes (BUY) | 48% | 5.71 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 12.00 | ⏳ pendiente | — |
-| quavoo | Will Chelsea FC win on 2026-08-08? | Yes (BUY) | 48% | 4.45 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 2.61 | ⏳ pendiente | — |
-| quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 54% | 11.77 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Vissel Kōbe (-1.5) | Avispa Fukuoka (BUY) | 81% | 11.04 | ⏳ pendiente | — |
-| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 60% | 1.18 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 5.31 | ⏳ pendiente | — |
-| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 60% | 3.47 | ⏳ pendiente | — |
-| quavoo | Stade Rennais FC vs. Brentford FC: O/U 3 | Over (BUY) | 38% | 0.99 | ⏳ pendiente | — |
