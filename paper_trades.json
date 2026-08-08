@@ -14683,5 +14683,47 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786214280.6177351,
     "fills": 1
+  },
+  {
+    "timestamp": 1786214315,
+    "timestamp_added": 1786214315.7521703,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "wnba-las-min-2026-08-08-total-182pt5",
+    "title": "Las Vegas Aces vs. Minnesota Lynx: O/U 182.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1082.5900000000001,
+    "whale_pct": 42.21,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786214315.752178,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786214333,
+    "timestamp_added": 1786214333.6324503,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-gre-sao-2026-08-08-gre",
+    "title": "Will Gr\u00eamio FBPA win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 18999.999998999996,
+    "whale_pct": 4.448,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786214333.6324635,
+    "fills": 1
   }
 ]

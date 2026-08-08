@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 13:38:19 (hora de Perú)
+Actualizado: 2026-08-08 13:40:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $619.51
@@ -24,14 +24,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 3 | 3 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 0 | 0 | 2 | +0.00 USD |
+| 1winstreak1 | 0 | 0 | 3 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 31 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 67 | -3.99 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 149 | 129 | 34 | -76.06 USD |
+| ferrariChampions2026 | 149 | 129 | 35 | -76.06 USD |
 | TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -96,11 +96,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-las-min-2026-08-08-total-183pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | lol-mkoi-gx-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BrotherObama, ferrariChampions2026 |
 | lol-mkoi-gx-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
+| wnba-las-min-2026-08-08-total-182pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Grêmio FBPA win on 2026-08-08? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
@@ -129,5 +132,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 1 Win | Movistar KOI (BUY) | 22% | 0.00 | 💰 vendida anticipada | -0.00 |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 1 Win | Movistar KOI (BUY) | 21% | 0.00 | 💰 vendida anticipada | -0.00 |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CD Riestra win on 2026-08-08? | Yes (BUY) | 70% | 0.00 | ⏳ pendiente | — |
