@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 05:57:58 (hora de Perú)
+Actualizado: 2026-08-08 06:00:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.76
@@ -23,12 +23,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | ThornyDevil | 0 | 0 | 3 | +0.00 USD |
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
-| StasPanda | 0 | 0 | 3 | +0.00 USD |
+| StasPanda | 0 | 0 | 4 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
-| UpTheBlues | 16 | 18 | 12 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 140 | -67.78 USD |
+| UpTheBlues | 16 | 18 | 17 | -9.46 USD |
+| ferrariChampions2026 | 31 | 20 | 142 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -64,11 +64,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-wb-lng-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | lol-t1-hle1-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
 | lol-lgd-al-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
+| jap-san-jef-2026-08-08-total-1pt5 | UpTheBlues, ferrariChampions2026 |
+| jap-san-jef-2026-08-08-total-2pt5 | UpTheBlues, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Sanfrecce Hiroshima vs. JEF United Ichih | No (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| StasPanda | Counter-Strike: Procyon Gaming vs ODDIK  | ODDIK Academy (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 97% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Sanfrecce Hiroshima vs. JEF United Ichih | Yes (BUY) | 97% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Sanfrecce Hiroshima vs. JEF United Ichih | Under (BUY) | 36% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 89% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 64% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Sanfrecce Hiroshima vs. JEF United Ichih | Under (BUY) | 65% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-2.5) | Sanfrecce Hiroshima (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Cerezo Ōsaka win on 2026-08-08? | Yes (BUY) | 67% | 0.00 | ⏳ pendiente | — |
@@ -91,11 +101,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 4. | Over (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 5. | Over (BUY) | 31% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cerezo Ōsaka (-1.5) | Cerezo Ōsaka (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 1.5 | Over (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 4. | Over (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Vissel Kōbe (-1.5) | Vissel Kōbe (BUY) | 34% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Fagiano Okayama win on 2026-08-08? | Yes (BUY) | 12% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-2.5) | JEF United Ichihara Chiba (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Avispa Fukuoka win on 2026-08-08? | Yes (BUY) | 9% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Avispa Fukuoka vs. Vissel Kōbe end  | Yes (BUY) | 22% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 2.5 | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
