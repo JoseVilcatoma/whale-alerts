@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.02549718302305,
+  "bankroll": 476.41625922135876,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2840,6 +2840,56 @@
       "timestamp": 1786219281.2336159,
       "bankroll": 473.03,
       "event": "lost: 1winstreak1 \u2014 Las Vegas Aces vs. Minnesota Lynx: O/U 182.5"
+    },
+    {
+      "timestamp": 1786219590.664735,
+      "bankroll": 473.03,
+      "event": "lost: ferrariChampions2026 \u2014 Will Estudiantes de La Plata win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786219591.7666383,
+      "bankroll": 473.03,
+      "event": "won: ferrariChampions2026 \u2014 Will Estudiantes de La Plata win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786219593.172658,
+      "bankroll": 473.03,
+      "event": "won: ferrariChampions2026 \u2014 Will Estudiantes de La Plata win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786219593.2728543,
+      "bankroll": 473.03,
+      "event": "won: ferrariChampions2026 \u2014 Will Estudiantes de La Plata win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786219593.3730364,
+      "bankroll": 473.14,
+      "event": "won: ferrariChampions2026 \u2014 Will Estudiantes de La Plata win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786219594.8213382,
+      "bankroll": 473.14,
+      "event": "won: ferrariChampions2026 \u2014 Will Estudiantes de La Plata win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786219596.649261,
+      "bankroll": 473.14,
+      "event": "won: ferrariChampions2026 \u2014 Will Estudiantes de La Plata win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786219598.051504,
+      "bankroll": 473.14,
+      "event": "won: UpTheBlues \u2014 Will Estudiantes de La Plata win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786219650.874158,
+      "bankroll": 476.42,
+      "event": "won: UpTheBlues \u2014 FK Lokomotiv Moskva vs. FK Akron Tolyatti: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1786219667.094042,
+      "bankroll": 476.42,
+      "event": "won: UpTheBlues \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 4.5"
     }
   ]
 }

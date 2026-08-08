@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:05:43 (hora de Perú)
+Actualizado: 2026-08-08 15:07:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $473.03
-**Retorno acumulado:** -52.70%
+**Bankroll actual:** $476.42
+**Retorno acumulado:** -52.36%
 **Peor caída desde un máximo (drawdown):** 53.53%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,8 +16,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 13 | 0 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| quavoo | 5 | 2 | 23 | +12.05 USD |
-| UpTheBlues | 38 | 26 | 33 | +5.74 USD |
+| quavoo | 5 | 2 | 24 | +12.05 USD |
+| UpTheBlues | 41 | 26 | 30 | +9.02 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 6 | +0.00 USD |
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 152 | 134 | 48 | -76.06 USD |
+| ferrariChampions2026 | 158 | 135 | 41 | -75.95 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 2 | -303.20 USD |
 
@@ -110,6 +110,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 61% | 1.62 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: Virtus.pro vs Sashi Espo | Virtus.pro (BUY) | 59% | 6.17 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Metz win on 2026-08-08? | No (BUY) | 88% | 1.27 | ⏳ pendiente | — |
 | UpTheBlues | Clermont Foot 63 vs. Stade de Reims: O/U | Under (BUY) | 91% | 3.89 | ⏳ pendiente | — |
@@ -139,4 +140,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 36% | 0.00 | 💰 vendida anticipada | +0.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 58% | 0.00 | 💰 vendida anticipada | -0.00 |
 | StasPanda | Counter-Strike: Sinners vs EYEBALLERS (B | EYEBALLERS (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will AD Tarma win on 2026-08-08? | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
