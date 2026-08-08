@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:56:59 (hora de Perú)
+Actualizado: 2026-08-08 15:59:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -13,26 +13,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 26 | 13 | 14 | +57.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 26 | 13 | 16 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 26 | 7 | +9.02 USD |
-| quavoo | 5 | 4 | 32 | +8.84 USD |
+| quavoo | 5 | 4 | 33 | +8.84 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 13 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| StasPanda | 0 | 4 | 5 | +0.00 USD |
+| StasPanda | 0 | 4 | 6 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 10 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 14 | -12.25 USD |
+| 1winstreak1 | 0 | 3 | 17 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 166 | 138 | 39 | -75.22 USD |
+| ferrariChampions2026 | 166 | 138 | 41 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 2 | 36 | 3 | -303.20 USD |
+| TAIWANNUMBERONE | 2 | 36 | 4 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -111,6 +111,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| StasPanda | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | KT Rolster (BUY) | 39% | 0.00 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 24% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Miami Marlins (-2.5) | Miami Marlins (BUY) | 38% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 20% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CA Mineiro win on 2026-08-08? | Yes (BUY) | 33% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 17% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 23% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: Inner Circle Esports vs  | Inner Circle Esports (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
@@ -131,13 +141,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 2.5 Rounds | Under (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Real Betis Seville vs. AFC Bournemouth:  | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| quavoo | Counter-Strike: 1WIN vs Liquid (BO3) - E | 1WIN (BUY) | 34% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Tigre vs. CA River Plate end in  | Yes (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | No (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Atlanta Braves (-2.5) | Atlanta Braves (BUY) | 13% | 0.00 | ⏳ pendiente | — |
-| quavoo | Counter-Strike: JiJieHao vs DENDELE CS ( | JiJieHao (BUY) | 33% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Valencia CF win on 2026-08-08? | No (BUY) | 90% | 0.00 | ⏳ pendiente | — |
-| Talvez10 | O/U 2.5 Rounds | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Boca Juniors vs. CA Vélez Sarsfi | No (BUY) | 71% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | NK Lokomotiva Zagreb vs. HNK Gorica: Bot | Yes (BUY) | 99% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will St. Truidense VV vs. Lommel SK end  | No (BUY) | 55% | 0.00 | ⏳ pendiente | — |
