@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 17:08:00 (hora de Perú)
+Actualizado: 2026-08-08 17:10:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $471.15
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
-| quavoo | 5 | 4 | 73 | +8.84 USD |
+| quavoo | 5 | 4 | 75 | +8.84 USD |
 | HomeRunHazard | 9 | 13 | 66 | +0.58 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 14 | +0.00 USD |
@@ -25,9 +25,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 12 | 14 | -11.76 USD |
-| 1winstreak1 | 5 | 7 | 42 | -12.25 USD |
+| 1winstreak1 | 5 | 7 | 44 | -12.25 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 8 | 9 | 16 | -22.00 USD |
+| RN1 | 8 | 9 | 17 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | ferrariChampions2026 | 170 | 142 | 63 | -75.22 USD |
@@ -117,7 +117,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | arg-tig-riv-2026-08-08-total-0pt5 | RN1, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-riv | RN1, ferrariChampions2026 |
 | cs2-jjh-dendel-2026-08-09 | StasPanda, quavoo |
+| bra-cre-cam-2026-08-08-cam | RN1, ferrariChampions2026 |
 | lol-c9-dsg-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
+| mlb-laa-mia-2026-08-08-total-9pt5 | 1winstreak1, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-tig | RN1, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-total-1pt5 | RN1, ferrariChampions2026 |
 | mlb-oak-bos-2026-08-08-total-10pt5 | 1winstreak1, ferrariChampions2026 |
@@ -126,6 +128,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will CA Mineiro win on 2026-08-08? | Yes (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 9.5 | Under (BUY) | 39% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 64% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Club Alianza Lima win on 2026-08-08 | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 20% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 44% | 0.00 | ⏳ pendiente | — |
@@ -151,8 +158,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Athletics vs. Boston Red Sox: O/U 9.5 | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Athletics vs. Boston Red Sox: O/U 9.5 | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Athletics (-1.5) | Boston Red Sox (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will CA River Plate win on 2026-08-08? | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
-| StasPanda | Map Handicap: HERO (-1.5) vs ASTRAL (+1. | Heroic (BUY) | 60% | 0.00 | ⏳ pendiente | — |
