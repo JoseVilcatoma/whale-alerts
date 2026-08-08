@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 22:42:55 (hora de Perú)
+Actualizado: 2026-08-07 22:44:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $995.88
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 0 | 0 | 4 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 1 | +0.00 USD |
-| UpTheBlues | 0 | 0 | 11 | +0.00 USD |
+| UpTheBlues | 0 | 0 | 13 | +0.00 USD |
 | 0x4f2 | 1 | 7 | 12 | -4.14 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -39,6 +39,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Qingdao Hainiu FC win on 2026-08-08 | No (BUY) | 79% | 2.01 | ⏳ pendiente | — |
+| UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 87% | 1.78 | ⏳ pendiente | — |
 | UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 87% | 1.21 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC vs. FC Juáre | No (BUY) | 76% | 1.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 59% | 1.37 | ⏳ pendiente | — |
@@ -67,5 +69,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Spread: San Francisco Giants (-1.5) | Detroit Tigers (BUY) | 68% | 2.48 | ⏳ pendiente | — |
 | 0x4f2 | Spread: San Francisco Giants (-1.5) | San Francisco Giants (BUY) | 32% | 2.08 | ⏳ pendiente | — |
 | 0x4f2 | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 28% | 2.09 | ⏳ pendiente | — |
-| 0x4f2 | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 16% | 1.34 | ⏳ pendiente | — |
-| RN1 | Spread: Arizona Diamondbacks (-2.5) | Los Angeles Dodgers (BUY) | 85% | 1.28 | ⏳ pendiente | — |

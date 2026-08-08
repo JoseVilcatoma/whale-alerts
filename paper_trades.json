@@ -1401,5 +1401,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786160544.0546803,
     "fills": 1
+  },
+  {
+    "timestamp": 1786160619,
+    "timestamp_added": 1786160619.9142778,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-vwh-jua-2026-08-07-total-2pt5",
+    "title": "Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 394.98,
+    "whale_pct": 0.179,
+    "paper_stake_usd": 1.78,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786160619.9142866,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786160683,
+    "timestamp_added": 1786160683.6306045,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "chi-hai-sgr-2026-08-08-hai",
+    "title": "Will Qingdao Hainiu FC win on 2026-08-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 447.93,
+    "whale_pct": 0.202,
+    "paper_stake_usd": 2.01,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786160683.630614,
+    "fills": 1
   }
 ]
