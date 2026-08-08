@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 07:21:57 (hora de Perú)
+Actualizado: 2026-08-08 07:24:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $881.71
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 2 | 13 | +9.70 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 2 | 14 | +9.70 USD |
 | greyoctober | 4 | 0 | 3 | +9.27 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 2 | 2 | 13 | -5.13 USD |
 | UpTheBlues | 19 | 18 | 28 | -5.89 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
-| ferrariChampions2026 | 45 | 45 | 188 | -71.00 USD |
+| ferrariChampions2026 | 53 | 63 | 162 | -71.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -76,11 +76,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-ksc-bie-2026-08-08-ksc | RN1, ferrariChampions2026 |
 | bl2-svd-ksv-2026-08-08-total-3pt5 | RN1, ferrariChampions2026 |
 | bl2-ksc-bie-2026-08-08-total-5pt5 | RN1, ferrariChampions2026 |
+| lol-blg-edg-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs EDward Gaming -  | EDward Gaming (BUY) | 6% | 9.49 | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 53% | 6.53 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 36% | 2.78 | ⏳ pendiente | — |
 | Spicer | LoL: Bilibili Gaming vs EDward Gaming -  | Bilibili Gaming (BUY) | 79% | 18.33 | ⏳ pendiente | — |
@@ -110,4 +112,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | Sanfrecce Hiroshima (BUY) | 48% | 2.02 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will 1. FC Heidenheim 1846 win on 2026-0 | Yes (BUY) | 51% | 3.73 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 90% | 3.27 | ⏳ pendiente | — |
-| ferrariChampions2026 | SV Darmstadt 98 vs. Holstein Kiel: O/U 1 | Over (BUY) | 89% | 3.62 | ⏳ pendiente | — |
