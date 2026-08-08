@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 20:45:38 (hora de Perú)
+Actualizado: 2026-08-07 20:47:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $779.50
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 54 | 27 | 16 | -90.01 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
-| swisstony | 337 | 203 | 158 | -113.81 USD |
+| swisstony | 337 | 203 | 161 | -113.81 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
 | texaskid | 1 | 2 | 0 | -1,530.59 USD |
@@ -74,6 +74,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bra2-ope-ber-2026-08-07-ber | RN1, swisstony |
 | arg-ros-ald-2026-08-07-draw | RN1, swisstony |
 | arg-ros-ald-2026-08-07-total-2pt5 | RN1, swisstony |
+| mlb-cin-wsh-2026-08-07-total-9pt5 | RN1, swisstony |
 | mlb-cle-cws-2026-08-07-total-9pt5 | RN1, swisstony |
 | mlb-cle-cws-2026-08-07-spread-away-2pt5 | RN1, swisstony |
 | mlb-min-mil-2026-08-07-spread-away-1pt5 | RN1, swisstony |
@@ -86,6 +87,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | CD Santa Cruz vs. Puerto Montt: O/U 5.5 | Under (BUY) | 100% | 1.62 | ⏳ pendiente | — |
+| swisstony | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 66% | 0.78 | ⏳ pendiente | — |
+| swisstony | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 74% | 1.75 | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 51% | 2.95 | ⏳ pendiente | — |
 | swisstony | Deportes Quindio vs. Internacional FC De | Under (BUY) | 100% | 1.65 | ⏳ pendiente | — |
 | swisstony | Will CD Cobresal win on 2026-08-07? | No (BUY) | 88% | 1.57 | ⏳ pendiente | — |
@@ -113,6 +117,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: CS Independiente Rivadavia (-1.5 | AA Estudiantes (BUY) | 76% | 2.14 | ⏳ pendiente | — |
 | swisstony | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 53% | 1.17 | ⏳ pendiente | — |
 | swisstony | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 53% | 12.53 | ⏳ pendiente | — |
-| RN1 | Spread: New York Yankees (-1.5) | New York Yankees (BUY) | 33% | 6.08 | ⏳ pendiente | — |
-| swisstony | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 53% | 18.35 | ⏳ pendiente | — |
-| swisstony | Spread: Phoenix Mercury (-6.5) | Connecticut Sun (BUY) | 56% | 2.51 | ⏳ pendiente | — |
