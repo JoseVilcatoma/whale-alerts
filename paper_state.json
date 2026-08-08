@@ -1,5 +1,5 @@
 {
-  "bankroll": 998.39860414996,
+  "bankroll": 997.6537277454656,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -25,6 +25,11 @@
       "timestamp": 1786159123.3294928,
       "bankroll": 998.4,
       "event": "venta anticipada: 0x4f2 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 8.5 (-0.91 USD)"
+    },
+    {
+      "timestamp": 1786159568.3243883,
+      "bankroll": 997.65,
+      "event": "venta anticipada: 0x4f2 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 8.5 (-0.74 USD)"
     }
   ]
 }
