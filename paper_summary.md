@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 08:28:30 (hora de Perú)
+Actualizado: 2026-08-08 08:30:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $529.71
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 9 | 1 | +9.70 USD |
 | greyoctober | 4 | 0 | 3 | +9.27 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| quavoo | 0 | 0 | 33 | +0.00 USD |
+| quavoo | 0 | 0 | 34 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | ThornyDevil | 3 | 0 | 2 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 45 | -3.99 USD |
 | UpTheBlues | 25 | 20 | 20 | -4.56 USD |
-| RN1 | 2 | 2 | 18 | -5.13 USD |
+| RN1 | 2 | 2 | 20 | -5.13 USD |
 | ferrariChampions2026 | 117 | 105 | 57 | -59.90 USD |
 | fRibrenlc | 0 | 12 | 8 | -127.91 USD |
 | TAIWANNUMBERONE | 1 | 31 | 6 | -303.20 USD |
@@ -86,6 +86,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Cardiff City FC win on 2026-08-08? | Yes (BUY) | 74% | 0.33 | ⏳ pendiente | — |
+| RN1 | Will Bayer Leverkusen win on 2026-08-08? | Yes (BUY) | 50% | 2.29 | ⏳ pendiente | — |
+| quavoo | Will Orlando City SC vs. Club León FC en | Yes (BUY) | 24% | 0.66 | ⏳ pendiente | — |
 | RN1 | Bayer Leverkusen vs. Sevilla FC: O/U 3.5 | Under (BUY) | 62% | 0.57 | ⏳ pendiente | — |
 | RN1 | Dalian Yingbo FC vs. Liaoning Tieren FC: | Under (BUY) | 76% | 0.55 | ⏳ pendiente | — |
 | quavoo | Spread: Real Sociedad San Sebastian (-1. | 1. FC Cologne (BUY) | 86% | 0.87 | ⏳ pendiente | — |
@@ -113,6 +116,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Cleveland Guardians vs. Chicago White So | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Tottenham Hotspur win on 2026-08-08 | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| quavoo | Racing Club De Lens vs. Sunderland AFC:  | Over (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Over (BUY) | 42% | 0.00 | ⏳ pendiente | — |
