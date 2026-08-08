@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 04:53:06 (hora de Perú)
+Actualizado: 2026-08-08 04:55:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $929.06
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 0 | 0 | 24 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 20 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 7 | 0 | 15 | +0.00 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 7 | 0 | 16 | +0.00 USD |
 | ThornyDevil | 0 | 0 | 2 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
@@ -58,11 +58,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-t1-hle1-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | lol-wb-lng-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | lol-t1-hle1-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
+| lol-lgd-al-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 26% | 10.51 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend (BO3) | LGD Gaming (BUY) | 38% | 1.21 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | LGD Gaming (BUY) | 72% | 1.75 | ⏳ pendiente | — |
 | ferrariChampions2026 | Gimcheon Sangmu FC vs. FC Seoul: O/U 2.5 | Under (BUY) | 48% | 2.12 | ⏳ pendiente | — |
@@ -92,4 +94,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 64% | 0.00 | 💰 vendida anticipada | +0.00 |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 31% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 62% | 0.00 | ⏳ pendiente | — |
