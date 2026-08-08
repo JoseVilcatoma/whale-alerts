@@ -1359,5 +1359,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786160416.7915637,
     "fills": 1
+  },
+  {
+    "timestamp": 1786160484,
+    "timestamp_added": 1786160484.5487404,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-vwh-jua-2026-08-07-draw",
+    "title": "Will Vancouver Whitecaps FC vs. FC Ju\u00e1rez end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 223.25,
+    "whale_pct": 0.1,
+    "paper_stake_usd": 1.0,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786160484.5487487,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786160543,
+    "timestamp_added": 1786160544.05467,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-vwh-jua-2026-08-07-total-2pt5",
+    "title": "Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 267.96,
+    "whale_pct": 0.121,
+    "paper_stake_usd": 1.21,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786160544.0546803,
+    "fills": 1
   }
 ]
