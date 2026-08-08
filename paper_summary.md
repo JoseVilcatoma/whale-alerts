@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 14:11:34 (hora de Perú)
+Actualizado: 2026-08-08 14:13:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $619.51
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 32 | 11 | 9 | +61.99 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 32 | 11 | 11 | +61.99 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 4 | 2 | 24 | +10.43 USD |
@@ -22,10 +22,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 5 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| StasPanda | 0 | 4 | 4 | +0.00 USD |
+| StasPanda | 0 | 4 | 5 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | 1winstreak1 | 0 | 0 | 3 | +0.00 USD |
-| wr0ngw4yb3tt0r | 1 | 1 | 37 | -1.58 USD |
+| wr0ngw4yb3tt0r | 1 | 1 | 38 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 67 | -3.99 USD |
 | ThornyDevil | 3 | 2 | 5 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
@@ -73,6 +73,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-fcm-bra-2026-08-08-bra | RN1, UpTheBlues |
 | lol-t1-hle1-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026, jtwyslljy |
 | lol-wb-lng-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
+| mlb-oak-bos-2026-08-08-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | lol-t1-hle1-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-08-total-8pt5 | HomeRunHazard, quavoo |
 | lol-lgd-al-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
@@ -106,6 +107,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Athletics vs. Boston Red Sox: O/U 8.5 | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 36% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 58% | 0.00 | ⏳ pendiente | — |
+| StasPanda | Counter-Strike: Sinners vs EYEBALLERS (B | EYEBALLERS (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will AD Tarma win on 2026-08-08? | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will VfL Wolfsburg win on 2026-08-08? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | AZ vs. ADO Den Haag: Both Teams to Score | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
@@ -132,7 +137,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will PSV win on 2026-08-08? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CD Riestra vs. Estudiantes de La Pl | No (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | CD Riestra vs. Estudiantes de La Plata:  | Under (BUY) | 99% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 2 Win | GIANTX (BUY) | 35% | 0.00 | 💰 vendida anticipada | +0.00 |
