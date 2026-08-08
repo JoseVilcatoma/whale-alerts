@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:48:31 (hora de Perú)
+Actualizado: 2026-08-08 15:50:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 26 | 13 | 12 | +57.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 26 | 13 | 13 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 26 | 7 | +9.02 USD |
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 166 | 138 | 34 | -75.22 USD |
+| ferrariChampions2026 | 166 | 138 | 36 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 3 | -303.20 USD |
 
@@ -63,7 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-wb-lng-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-laa-mia-2026-08-08-total-8pt5 | HomeRunHazard, quavoo |
 | jap-avi-vis-2026-08-08-spread-away-1pt5 | UpTheBlues, ferrariChampions2026 |
-| mlb-oak-bos-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard |
+| mlb-oak-bos-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026 |
 | mlb-tor-phi-2026-08-08-total-9pt5 | HomeRunHazard, Talvez10, ferrariChampions2026 |
 | mlb-lad-ari-2026-08-08-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-185pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -109,6 +109,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Athletics vs. Boston Red Sox: O/U 7.5 | Over (BUY) | 58% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Athletics vs. Boston Red Sox: O/U 9.5 | Over (BUY) | 38% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will SSC Napoli vs. RC Celta de Vigo end | Yes (BUY) | 78% | 0.00 | ⏳ pendiente | — |
@@ -136,6 +139,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | No (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Los Angeles Angels (-2.5) | Los Angeles Angels (BUY) | 19% | 0.00 | ⏳ pendiente | — |
-| Talvez10 | O/U 2.5 Rounds | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CA Tigre vs. CA River Plate: O/U 0.5 | Under (BUY) | 29% | 0.00 | ⏳ pendiente | — |
