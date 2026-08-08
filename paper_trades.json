@@ -1084,5 +1084,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786159694.6292155,
     "fills": 1
+  },
+  {
+    "timestamp": 1786159770,
+    "timestamp_added": 1786159770.357405,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-hou-sd-2026-08-07-spread-away-1pt5",
+    "title": "Spread: Houston Astros (-1.5)",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "whale_usd": 299.997,
+    "whale_pct": 0.199,
+    "paper_stake_usd": 1.98,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786159770.3574152,
+    "fills": 1
   }
 ]

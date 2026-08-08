@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 22:28:41 (hora de Perú)
+Actualizado: 2026-08-07 22:30:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $997.65
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 0 | 0 | 4 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 1 | +0.00 USD |
-| 0x4f2 | 1 | 6 | 12 | -2.36 USD |
+| 0x4f2 | 1 | 6 | 13 | -2.36 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -36,6 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0x4f2 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 54% | 1.98 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Juárez win on 2026-08-07? | No (BUY) | 92% | 4.27 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 68% | 3.25 | ⏳ pendiente | — |
 | RN1 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 88% | 1.04 | ⏳ pendiente | — |
@@ -65,4 +66,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 76% | 1.29 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 94% | 1.84 | ⏳ pendiente | — |
 | 0x4f2 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 16% | 1.26 | ⏳ pendiente | — |
-| ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 76% | 1.54 | ⏳ pendiente | — |
