@@ -1,5 +1,5 @@
 {
-  "bankroll": 619.889915457941,
+  "bankroll": 621.8294026374282,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2495,6 +2495,11 @@
       "timestamp": 1786208988.12557,
       "bankroll": 619.89,
       "event": "lost: RN1 \u2014 Will Queens Park Rangers FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786210249.5621572,
+      "bankroll": 621.83,
+      "event": "won: quavoo \u2014 Counter-Strike: 9INE vs ABT Esports - Map 1 Winner"
     }
   ]
 }
