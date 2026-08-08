@@ -1,5 +1,5 @@
 {
-  "bankroll": 881.3580484998827,
+  "bankroll": 880.1080484998827,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -715,6 +715,31 @@
       "timestamp": 1786190089.9157693,
       "bankroll": 881.36,
       "event": "won: greyoctober \u2014 Valorant: DRX vs T1 (BO3) - VCT Pacific Group Omega"
+    },
+    {
+      "timestamp": 1786191381.9572651,
+      "bankroll": 881.36,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Nagoya Grampus (-1.5)"
+    },
+    {
+      "timestamp": 1786191383.2907948,
+      "bankroll": 881.36,
+      "event": "won: ferrariChampions2026 \u2014 Will Nagoya Grampus win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786191385.85491,
+      "bankroll": 881.36,
+      "event": "lost: ferrariChampions2026 \u2014 Will Nagoya Grampus win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786191446.8608277,
+      "bankroll": 881.36,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Kashiwa Reysol (-2.5)"
+    },
+    {
+      "timestamp": 1786191449.64783,
+      "bankroll": 880.11,
+      "event": "lost: ferrariChampions2026 \u2014 Nagoya Grampus vs. Shimizu S-Pulse: O/U 1.5"
     }
   ]
 }
