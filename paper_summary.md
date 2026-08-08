@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 19:37:04 (hora de Perú)
+Actualizado: 2026-08-07 19:39:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.75
@@ -20,9 +20,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 4 | +1.51 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 8 | 0 | -12.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 47 | 22 | 18 | -86.85 USD |
+| RN1 | 47 | 22 | 19 | -86.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 312 | 181 | 115 | -99.73 USD |
+| swisstony | 312 | 181 | 116 | -99.73 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -79,6 +79,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Atlas FC win on 2026-08-07? | No (BUY) | 74% | 2.04 | ⏳ pendiente | — |
+| RN1 | CA Ferrocarril Midland vs. CD Maipu: Bot | No (BUY) | 74% | 2.94 | ⏳ pendiente | — |
 | swisstony | Will Ceará SC vs. AA Ponte Preta end in  | No (BUY) | 94% | 1.40 | ⏳ pendiente | — |
 | swisstony | Will Atlas FC win on 2026-08-07? | No (BUY) | 74% | 2.11 | ⏳ pendiente | — |
 | swisstony | Colorado Rockies vs. St. Louis Cardinals | Under (BUY) | 39% | 4.64 | ⏳ pendiente | — |
@@ -107,5 +109,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 92% | 11.71 | ⏳ pendiente | — |
 | swisstony | Spread: Miami Marlins (-2.5) | Los Angeles Angels (BUY) | 81% | 1.40 | ⏳ pendiente | — |
 | swisstony | Spread: St. Louis Cardinals (-1.5) | Colorado Rockies (BUY) | 61% | 0.96 | ⏳ pendiente | — |
-| swisstony | Spread: St. Louis Cardinals (-1.5) | Colorado Rockies (BUY) | 61% | 0.87 | ⏳ pendiente | — |
-| swisstony | Atlanta Dream vs. Washington Mystics | Washington Mystics (BUY) | 70% | 1.39 | ⏳ pendiente | — |
