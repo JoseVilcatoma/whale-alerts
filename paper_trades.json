@@ -13441,5 +13441,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786211541.5890815,
     "fills": 1
+  },
+  {
+    "timestamp": 1786211571,
+    "timestamp_added": 1786211572.0054603,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "efl-col-sot-2026-08-08-sot",
+    "title": "Will Southampton FC win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1192.1784,
+    "whale_pct": 0.268,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786211572.005468,
+    "fills": 1
   }
 ]
