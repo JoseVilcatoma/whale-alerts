@@ -84,7 +84,6 @@ MAX_DAYS_TO_RESOLUTION = float(os.environ.get("MAX_DAYS_TO_RESOLUTION", "1"))  #
 MIN_SHORT_TERM_SHARE = float(os.environ.get("MIN_SHORT_TERM_SHARE", "0.3"))  # % mínimo de sus apuestas recientes que deben ser de corto plazo
 ACTIVITY_SAMPLE_SIZE = int(os.environ.get("ACTIVITY_SAMPLE_SIZE", "10"))  # cuántas apuestas recientes de cada candidato se revisan
 FILL_MERGE_WINDOW_SECONDS = float(os.environ.get("FILL_MERGE_WINDOW_SECONDS", "15"))  # fusiona fills de la misma compra dentro de esta ventana
-ALLTIME_TOP_N = int(os.environ.get("ALLTIME_TOP_N", "600"))  # exige aparecer entre los N mejores históricos (toda la vida), no solo semana/mes
 LB_CATEGORY = os.environ.get("LB_CATEGORY", "OVERALL")
 LB_PERIODS = ["WEEK", "MONTH"]
 
@@ -248,24 +247,36 @@ def get_leaderboard_period(period):
     return r.json()
 
 
-def get_alltime_profitable_wallets(limit=ALLTIME_TOP_N):
-    """Trae el ranking histórico completo (toda la vida en Polymarket, no
-    solo semana/mes) y devuelve el set de wallets que aparecen ahí — es
-    decir, gente con ganancia neta sostenida a largo plazo, no solo una
-    buena racha reciente. Alguien como texaskid (-74.9% de ROI histórico)
-    nunca aparecería acá, aunque haya tenido un mes espectacular.
-    Devuelve None si la consulta falla, para no bloquear a todo el mundo
-    por un error de red pasajero."""
+def get_alltime_realized_pnl(wallet, limit=500):
+    """Trae las posiciones ya CERRADAS (resueltas) de toda la vida de esa
+    wallet y suma su ganancia/pérdida realizada. A diferencia de exigir que
+    esté entre los N más grandes de la plataforma (lo que castigaba
+    injustamente a un especialista de nicho más chico pero consistente),
+    esto mide lo que de verdad importa: en su historial completo, ¿ganó
+    más de lo que perdió? Alguien como texaskid (-74.9% de ROI histórico)
+    da negativo acá aunque tenga un mes espectacular.
+    Devuelve (pnl_total, ganadas, perdidas) o None si falla la consulta."""
     try:
-        r = requests.get(
-            f"{DATA_API}/v1/leaderboard",
-            params={"category": LB_CATEGORY, "timePeriod": "ALL", "orderBy": "PNL", "limit": limit},
-            timeout=15,
-        )
-        r.raise_for_status()
-        return {(t.get("proxyWallet") or "").lower() for t in r.json() if t.get("proxyWallet")}
+        r = requests.get(f"{DATA_API}/closed-positions", params={"user": wallet, "limit": limit}, timeout=15)
+        if not r.ok:
+            return None
+        positions = r.json()
+        if not isinstance(positions, list):
+            return None
+        pnl_total = 0.0
+        ganadas = perdidas = 0
+        for p in positions:
+            pnl_pos = p.get("realizedPnl")
+            if pnl_pos is None:
+                pnl_pos = p.get("cashPnl", 0) or 0
+            pnl_total += pnl_pos
+            if pnl_pos > 0:
+                ganadas += 1
+            elif pnl_pos < 0:
+                perdidas += 1
+        return pnl_total, ganadas, perdidas
     except Exception as e:
-        print(f"Error trayendo ranking histórico (ALL): {e}", file=sys.stderr)
+        print(f"Error trayendo historial cerrado de {wallet}: {e}", file=sys.stderr)
         return None
 
 
@@ -333,8 +344,6 @@ def compute_top5_by_roi():
         except Exception as e:
             print(f"Error trayendo ranking de {period}: {e}", file=sys.stderr)
 
-    alltime_ok = get_alltime_profitable_wallets()
-
     total_candidatos = len(candidates)
     descartados_portafolio = 0
     descartados_historico = 0
@@ -348,9 +357,10 @@ def compute_top5_by_roi():
             descartados_portafolio += 1
             continue  # portafolio casi vacío -> el % se dispara sin ser real habilidad, se descarta
 
-        if alltime_ok is not None and w not in alltime_ok:
+        historico = get_alltime_realized_pnl(w)
+        if historico is not None and historico[0] <= 0:
             descartados_historico += 1
-            continue  # buen mes/semana puntual, pero sin historial ganador sostenido a largo plazo
+            continue  # buen mes/semana puntual, pero en su historial completo pierde más de lo que gana
 
         ratio = short_term_trade_ratio(w)
         if ratio is None or ratio < MIN_SHORT_TERM_SHARE:
@@ -362,7 +372,7 @@ def compute_top5_by_roi():
 
     print(f"[ranking][diagnóstico] candidatos totales: {total_candidatos} | "
           f"descartados por portafolio chico (<${MIN_WHALE_PORTFOLIO:.0f}): {descartados_portafolio} | "
-          f"descartados por no tener historial top-{ALLTIME_TOP_N} de toda la vida: {descartados_historico} | "
+          f"descartados por historial completo negativo (pierde más de lo que gana): {descartados_historico} | "
           f"descartados por no ser mayormente corto plazo/deportes (<{MIN_SHORT_TERM_SHARE*100:.0f}%): {descartados_cortoplazo} | "
           f"sobrevivientes finales: {len(scored)}")
 
