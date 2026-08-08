@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:46:31 (hora de Perú)
+Actualizado: 2026-08-08 15:48:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 26 | 13 | 11 | +57.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 26 | 13 | 12 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 26 | 7 | +9.02 USD |
@@ -25,12 +25,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 4 | 4 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 10 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 12 | -12.25 USD |
+| 1winstreak1 | 0 | 3 | 13 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 166 | 138 | 33 | -75.22 USD |
+| ferrariChampions2026 | 166 | 138 | 34 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 3 | -303.20 USD |
 
@@ -88,6 +88,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-svd-ksv-2026-08-08-total-3pt5 | RN1, ferrariChampions2026 |
 | bl2-ksc-bie-2026-08-08-total-5pt5 | RN1, ferrariChampions2026 |
 | lol-blg-edg-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
+| mlb-laa-mia-2026-08-08-total-6pt5 | 1winstreak1, HomeRunHazard |
 | mlb-atl-nyy-2026-08-08-total-7pt5 | 1winstreak1, HomeRunHazard |
 | mlb-atl-nyy-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard |
 | lol-dk-kt-2026-08-09 | StasPanda, TAIWANNUMBERONE |
@@ -108,6 +109,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will SSC Napoli vs. RC Celta de Vigo end | Yes (BUY) | 78% | 0.00 | ⏳ pendiente | — |
 | quavoo | Valorant: KRÜ Esports vs Sentinels (BO3) | KRÜ Esports (BUY) | 28% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 2.5 Rounds | Under (BUY) | 64% | 0.00 | ⏳ pendiente | — |
@@ -135,6 +139,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Los Angeles Angels (-2.5) | Los Angeles Angels (BUY) | 19% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | O/U 2.5 Rounds | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Tigre vs. CA River Plate: O/U 0.5 | Under (BUY) | 29% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| Talvez10 | UFC Fight Night: Juliana Miller vs. Rave | Juliana Miller (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | Dplus KIA (BUY) | 57% | 0.00 | ⏳ pendiente | — |
