@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:50:36 (hora de Perú)
+Actualizado: 2026-08-08 15:52:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 26 | 7 | +9.02 USD |
-| quavoo | 5 | 4 | 29 | +8.84 USD |
+| quavoo | 5 | 4 | 30 | +8.84 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 12 | +0.00 USD |
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 166 | 138 | 36 | -75.22 USD |
+| ferrariChampions2026 | 166 | 138 | 37 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 3 | -303.20 USD |
 
@@ -109,6 +109,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Cúcuta Deportivo FC win on 2026-08- | Yes (BUY) | 20% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Grêmio FBPA vs. São Paulo FC: O/U 3.5 | Over (BUY) | 19% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Boston Red Sox: O/U 7.5 | Over (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Boston Red Sox: O/U 9.5 | Over (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 59% | 0.00 | ⏳ pendiente | — |
@@ -136,6 +138,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Kansas City Royals (-1.5) | Kansas City Royals (BUY) | 26% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-3.5) | Athletics (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | No (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 48% | 0.00 | ⏳ pendiente | — |
