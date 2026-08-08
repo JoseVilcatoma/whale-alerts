@@ -1,5 +1,5 @@
 {
-  "bankroll": 618.3081698155238,
+  "bankroll": 619.0727852001392,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2415,6 +2415,11 @@
       "timestamp": 1786204260.2675402,
       "bankroll": 618.31,
       "event": "won: ferrariChampions2026 \u2014 Will 1. FC Heidenheim 1846 win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786204571.579579,
+      "bankroll": 619.07,
+      "event": "won: RN1 \u2014 Will Dalian Yingbo FC win on 2026-08-08?"
     }
   ]
 }
