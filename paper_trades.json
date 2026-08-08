@@ -18651,5 +18651,93 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786147937.7788477,
     "fills": 1
+  },
+  {
+    "timestamp": 1786148046,
+    "timestamp_added": 1786148047.2943263,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-ros-ald-2026-08-07-ros",
+    "title": "Will CA Rosario Central win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 645.629998,
+    "whale_pct": 0.273,
+    "paper_stake_usd": 2.17,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786148047.294334,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786148048,
+    "timestamp_added": 1786148048.6847565,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-ros-ald-2026-08-07-ros",
+    "title": "Will CA Rosario Central win on 2026-08-07?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 239.99399999999997,
+    "whale_pct": 0.101,
+    "paper_stake_usd": 0.81,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786148048.6847618,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786148144,
+    "timestamp_added": 1786148144.9684923,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-ros-ald-2026-08-07-draw",
+    "title": "Will CA Rosario Central vs. CA Aldosivi end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 450.89999899999987,
+    "whale_pct": 0.185,
+    "paper_stake_usd": 1.48,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786148144.9685025,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786148156,
+    "timestamp_added": 1786148156.6725957,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-ros-ald-2026-08-07-draw",
+    "title": "Will CA Rosario Central vs. CA Aldosivi end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 263.23999899999995,
+    "whale_pct": 0.108,
+    "paper_stake_usd": 0.86,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786148156.672601,
+    "fills": 1
   }
 ]
