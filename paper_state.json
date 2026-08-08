@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.4290267731822,
+  "bankroll": 496.1890267731822,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -3440,6 +3440,11 @@
       "timestamp": 1786228157.940365,
       "bankroll": 497.43,
       "event": "won: ferrariChampions2026 \u2014 Athletics vs. Boston Red Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1786228277.6552057,
+      "bankroll": 496.19,
+      "event": "lost: UpTheBlues \u2014 VfL Wolfsburg vs. 1. FC Kaiserslautern: O/U 0.5"
     }
   ]
 }
