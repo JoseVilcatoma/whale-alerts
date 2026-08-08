@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:36:39 (hora de Perú)
+Actualizado: 2026-08-08 16:38:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -25,12 +25,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 4 | 8 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 12 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 44 | -12.25 USD |
+| 1winstreak1 | 0 | 3 | 46 | -12.25 USD |
 | ThornyDevil | 3 | 4 | 2 | -16.40 USD |
 | RN1 | 8 | 9 | 15 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 169 | 139 | 62 | -75.22 USD |
+| ferrariChampions2026 | 169 | 139 | 63 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 5 | -303.20 USD |
 
@@ -111,7 +111,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ufc-gcanut-car24-2026-08-08 | Talvez10, ferrariChampions2026, quavoo |
 | ufc-gcanut-car24-2026-08-08-totals-2pt5 | Talvez10, wr0ngw4yb3tt0r |
 | mlb-laa-mia-2026-08-08-total-7pt5 | 1winstreak1, ferrariChampions2026 |
-| ufc-jul11-rav-2026-08-08 | Talvez10, wr0ngw4yb3tt0r |
+| ufc-jul11-rav-2026-08-08 | Talvez10, ferrariChampions2026, wr0ngw4yb3tt0r |
 | arg-tig-riv-2026-08-08-total-0pt5 | RN1, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-riv | RN1, ferrariChampions2026 |
 | cs2-jjh-dendel-2026-08-09 | StasPanda, quavoo |
@@ -124,6 +124,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 78% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Juliana Miller vs. Rave | Juliana Miller (BUY) | 77% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Boston Red Sox (-2.5) | Athletics (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 20% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 64% | 0.00 | ⏳ pendiente | — |
@@ -151,6 +154,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | Yes (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC Fight Night: Juliana Miller vs. Rave | Ravena Oliveira (BUY) | 23% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Tigre win on 2026-08-08? | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Tigre win on 2026-08-08? | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| quavoo | Orlando City SC vs. Club León FC: O/U 3. | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |

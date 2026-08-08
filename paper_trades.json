@@ -19099,5 +19099,70 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786224956.9220023,
     "fills": 1
+  },
+  {
+    "timestamp": 1786225037,
+    "timestamp_added": 1786225038.0036802,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-oak-bos-2026-08-08-spread-home-2pt5",
+    "title": "Spread: Boston Red Sox (-2.5)",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "whale_usd": 186.32,
+    "whale_pct": 1.515,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786225038.0036902,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786225043,
+    "timestamp_added": 1786225043.890996,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-jul11-rav-2026-08-08",
+    "title": "UFC Fight Night: Juliana Miller vs. Ravena Oliveira (Women's Flyweight, Prelims)",
+    "outcome": "Juliana Miller",
+    "side": "BUY",
+    "whale_usd": 15085.1085,
+    "whale_pct": 3.425,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786225043.8910053,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786225057,
+    "timestamp_added": 1786225057.4854643,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-laa-mia-2026-08-08-total-6pt5",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 18.72,
+    "whale_pct": 0.152,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786225057.485475,
+    "fills": 1
   }
 ]
