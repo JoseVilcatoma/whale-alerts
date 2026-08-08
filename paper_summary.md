@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:40:09 (hora de Perú)
+Actualizado: 2026-08-08 15:42:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 26 | 7 | +9.02 USD |
-| quavoo | 5 | 4 | 27 | +8.84 USD |
+| quavoo | 5 | 4 | 28 | +8.84 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 12 | +0.00 USD |
@@ -107,6 +107,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Counter-Strike: 1WIN vs Liquid (BO3) - E | 1WIN (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Tigre vs. CA River Plate end in  | Yes (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA River Plate win on 2026-08-08? | No (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Atlanta Braves (-2.5) | Atlanta Braves (BUY) | 13% | 0.00 | ⏳ pendiente | — |
@@ -136,4 +137,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Miami Marlins (-1.5) | Miami Marlins (BUY) | 40% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | O/U 2.5 Rounds | Over (BUY) | 36% | 0.00 | ⏳ pendiente | — |
-| Talvez10 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |

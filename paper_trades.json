@@ -16110,5 +16110,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786221605.5481284,
     "fills": 2
+  },
+  {
+    "timestamp": 1786221624,
+    "timestamp_added": 1786221625.3148508,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "cs2-1win-tl1-2026-08-09",
+    "title": "Counter-Strike: 1WIN vs Liquid (BO3) - Esports World Cup Open Qualifier Play-Ins",
+    "outcome": "1WIN",
+    "side": "BUY",
+    "whale_usd": 703.8000000000001,
+    "whale_pct": 0.681,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786221625.314862,
+    "fills": 1
   }
 ]
