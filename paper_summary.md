@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 22:18:32 (hora de Perú)
+Actualizado: 2026-08-07 22:20:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $999.30
-**Retorno acumulado:** -0.07%
-**Peor caída desde un máximo (drawdown):** 0.07%
+**Bankroll actual:** $998.40
+**Retorno acumulado:** -0.16%
+**Peor caída desde un máximo (drawdown):** 0.16%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -16,7 +16,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 0 | 0 | 25 | +0.00 USD |
 | greyoctober | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
-| 0x4f2 | 1 | 3 | 7 | -0.70 USD |
+| RN1 | 0 | 0 | 1 | +0.00 USD |
+| 0x4f2 | 1 | 4 | 6 | -1.61 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -30,7 +31,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| 0x4f2 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 58% | 2.19 | ⏳ pendiente | — |
+| RN1 | Spread: Arizona Diamondbacks (-2.5) | Los Angeles Dodgers (BUY) | 85% | 1.28 | ⏳ pendiente | — |
+| 0x4f2 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 58% | 2.19 | 💰 vendida anticipada | -0.91 |
 | 0x4f2 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 43% | 2.24 | 💰 vendida anticipada | +0.10 |
 | 0x4f2 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 40% | 2.24 | 💰 vendida anticipada | -0.28 |
 | 0x4f2 | Spread: Atlanta Braves (-1.5) | New York Yankees (BUY) | 63% | 2.24 | ⏳ pendiente | — |
@@ -59,4 +61,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 79% | 1.25 | ⏳ pendiente | — |
 | greyoctober | Valorant: DRX vs T1 (BO3) - VCT Pacific  | T1 (BUY) | 63% | 2.61 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 81% | 1.05 | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 37% | 6.54 | ⏳ pendiente | — |

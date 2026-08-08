@@ -1,5 +1,5 @@
 {
-  "bankroll": 999.3048110465116,
+  "bankroll": 998.39860414996,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -20,6 +20,11 @@
       "timestamp": 1786159054.3230565,
       "bankroll": 999.3,
       "event": "venta anticipada: 0x4f2 \u2014 Spread: Toronto Blue Jays (-1.5) (-0.43 USD)"
+    },
+    {
+      "timestamp": 1786159123.3294928,
+      "bankroll": 998.4,
+      "event": "venta anticipada: 0x4f2 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 8.5 (-0.91 USD)"
     }
   ]
 }
