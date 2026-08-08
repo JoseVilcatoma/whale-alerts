@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 09:06:12 (hora de Perú)
+Actualizado: 2026-08-08 09:08:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $527.45
-**Retorno acumulado:** -47.25%
+**Bankroll actual:** $526.24
+**Retorno acumulado:** -47.38%
 **Peor caída desde un máximo (drawdown):** 47.50%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -24,11 +24,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
 | Spicer | 0 | 0 | 5 | +0.00 USD |
+| BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 45 | -3.99 USD |
 | RN1 | 2 | 2 | 20 | -5.13 USD |
 | UpTheBlues | 28 | 21 | 16 | -5.52 USD |
-| ferrariChampions2026 | 119 | 106 | 63 | -61.20 USD |
+| ferrariChampions2026 | 124 | 107 | 59 | -62.41 USD |
 | fRibrenlc | 0 | 12 | 8 | -127.91 USD |
 | TAIWANNUMBERONE | 1 | 31 | 6 | -303.20 USD |
 
@@ -86,6 +87,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: SK Gaming vs Natus Vincere (BO3) -  | SK Gaming (BUY) | 37% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will FC Augsburg win on 2026-08-08? | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Swansea City AFC vs. Birmingham City FC: | Over (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Oldham Athletic AFC win on 2026-08- | No (BUY) | 88% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Bradford City AFC vs. Rochdale AFC: O/U  | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Gillingham FC vs. Luton Town FC end | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
@@ -113,6 +117,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will CA Gimnasia y Esgrima de Mendoza wi | No (BUY) | 85% | 8.00 | ⏳ pendiente | — |
 | quavoo | Will Manchester United win on 2026-08-08 | Yes (BUY) | 46% | 0.68 | ⏳ pendiente | — |
 | RN1 | Dalian Yingbo FC vs. Liaoning Tieren FC: | Under (BUY) | 96% | 0.73 | ⏳ pendiente | — |
-| quavoo | Will Bayer Leverkusen win on 2026-08-08? | Yes (BUY) | 53% | 0.64 | ⏳ pendiente | — |
-| quavoo | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 60% | 2.63 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 41% | 4.38 | ⏳ pendiente | — |

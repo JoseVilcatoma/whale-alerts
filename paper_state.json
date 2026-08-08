@@ -1,5 +1,5 @@
 {
-  "bankroll": 527.4521899489288,
+  "bankroll": 526.2421899489287,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -1935,6 +1935,36 @@
       "timestamp": 1786197630.0620558,
       "bankroll": 527.45,
       "event": "won: UpTheBlues \u2014 Spread: Tegevajaro Miyazaki (-1.5)"
+    },
+    {
+      "timestamp": 1786198007.5809844,
+      "bankroll": 527.45,
+      "event": "won: ferrariChampions2026 \u2014 LoL: LGD Gaming vs Anyone's Legend - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786198007.6811485,
+      "bankroll": 527.45,
+      "event": "won: ferrariChampions2026 \u2014 LoL: LGD Gaming vs Anyone's Legend - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786198008.7826731,
+      "bankroll": 527.45,
+      "event": "won: ferrariChampions2026 \u2014 LoL: LGD Gaming vs Anyone's Legend - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786198008.9829595,
+      "bankroll": 527.45,
+      "event": "won: ferrariChampions2026 \u2014 LoL: LGD Gaming vs Anyone's Legend - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786198067.018697,
+      "bankroll": 526.24,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: LGD Gaming vs Anyone's Legend (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786198067.1188421,
+      "bankroll": 526.24,
+      "event": "won: ferrariChampions2026 \u2014 LoL: LGD Gaming vs Anyone's Legend (BO3) - LPL Group Ascend"
     }
   ]
 }
