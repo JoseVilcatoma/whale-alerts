@@ -1,5 +1,5 @@
 {
-  "bankroll": 790.2898586719776,
+  "bankroll": 786.9498586719776,
   "history": [
     {
       "timestamp": 1785897379.221973,
@@ -4900,6 +4900,11 @@
       "timestamp": 1786150844.8536081,
       "bankroll": 790.29,
       "event": "won: swisstony \u2014 Will CA Rosario Central win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786151905.8085887,
+      "bankroll": 786.95,
+      "event": "lost: RN1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 7.5"
     }
   ]
 }
