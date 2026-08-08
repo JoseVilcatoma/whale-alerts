@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 21:04:09 (hora de Perú)
+Actualizado: 2026-08-07 21:06:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $779.50
@@ -20,10 +20,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 4 | +1.51 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 8 | 0 | -12.52 USD |
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
-| RN1 | 54 | 27 | 20 | -90.01 USD |
+| RN1 | 54 | 27 | 22 | -90.01 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
-| swisstony | 337 | 203 | 172 | -113.81 USD |
+| swisstony | 337 | 203 | 176 | -113.81 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
 | texaskid | 1 | 2 | 0 | -1,530.59 USD |
@@ -77,6 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cin-wsh-2026-08-07-total-9pt5 | RN1, swisstony |
 | mlb-cle-cws-2026-08-07-total-9pt5 | RN1, swisstony |
 | mlb-cle-cws-2026-08-07-spread-away-2pt5 | RN1, swisstony |
+| mlb-col-stl-2026-08-07-spread-home-2pt5 | RN1, swisstony |
 | mlb-min-mil-2026-08-07-spread-away-1pt5 | RN1, swisstony |
 | mlb-laa-mia-2026-08-07-spread-away-1pt5 | RN1, swisstony |
 | mlb-cle-cws-2026-08-07-total-8pt5 | RN1, swisstony |
@@ -88,6 +89,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Minnesota Twins (-2.5) | Milwaukee Brewers (BUY) | 63% | 2.15 | ⏳ pendiente | — |
+| swisstony | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 78% | 1.92 | ⏳ pendiente | — |
+| swisstony | Will CS Independiente Rivadavia vs. AA E | Yes (BUY) | 48% | 2.15 | ⏳ pendiente | — |
+| RN1 | Spread: St. Louis Cardinals (-2.5) | St. Louis Cardinals (BUY) | 30% | 1.26 | ⏳ pendiente | — |
+| swisstony | Will CD Universidad Católica vs. CD Cobr | No (BUY) | 90% | 0.94 | ⏳ pendiente | — |
+| RN1 | New York Mets vs. Pittsburgh Pirates: O/ | Under (BUY) | 48% | 2.52 | ⏳ pendiente | — |
 | swisstony | Spread: CS Independiente Rivadavia (-1.5 | AA Estudiantes (BUY) | 87% | 2.13 | ⏳ pendiente | — |
 | swisstony | Will CD Universidad Católica win on 2026 | Yes (BUY) | 89% | 0.92 | ⏳ pendiente | — |
 | RN1 | Spread: Los Angeles Angels (-1.5) | Miami Marlins (BUY) | 92% | 1.07 | ⏳ pendiente | — |
@@ -112,9 +119,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 85% | 1.51 | ⏳ pendiente | — |
 | swisstony | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 69% | 0.92 | ⏳ pendiente | — |
 | swisstony | Will CD Universidad Católica vs. CD Cobr | Yes (BUY) | 26% | 1.06 | ⏳ pendiente | — |
-| swisstony | Will CS Independiente Rivadavia vs. AA E | No (BUY) | 62% | 1.15 | ⏳ pendiente | — |
-| swisstony | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 84% | 2.53 | ⏳ pendiente | — |
-| swisstony | New England Revolution vs. Houston Dynam | Over (BUY) | 38% | 0.95 | ⏳ pendiente | — |
-| swisstony | Will CS Independiente Rivadavia win on 2 | Yes (BUY) | 51% | 0.88 | ⏳ pendiente | — |
-| swisstony | Atlanta Dream vs. Washington Mystics | Washington Mystics (BUY) | 92% | 0.84 | ⏳ pendiente | — |
-| swisstony | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 60% | 1.55 | ⏳ pendiente | — |
