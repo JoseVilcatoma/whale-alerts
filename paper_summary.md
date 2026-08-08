@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:53:23 (hora de Perú)
+Actualizado: 2026-08-08 16:55:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | ferrariChampions2026 | 170 | 139 | 66 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 2 | 36 | 5 | -303.20 USD |
+| TAIWANNUMBERONE | 2 | 36 | 6 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -125,6 +125,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
@@ -154,4 +155,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Athletics (-1.5) | Boston Red Sox (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Juliana Miller vs. Rave | Juliana Miller (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 78% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Juliana Miller vs. Rave | Juliana Miller (BUY) | 77% | 0.00 | ⏳ pendiente | — |
