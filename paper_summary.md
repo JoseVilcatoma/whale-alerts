@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:08:27 (hora de Perú)
+Actualizado: 2026-08-08 06:10:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.76
@@ -27,8 +27,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
-| UpTheBlues | 16 | 18 | 29 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 159 | -67.78 USD |
+| UpTheBlues | 16 | 18 | 31 | -9.46 USD |
+| ferrariChampions2026 | 31 | 20 | 161 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -72,6 +72,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | 1. FC Heidenheim 1846 vs. VfL Osnabrück: | Over (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: Sagan Tosu (-1.5) | Ventforet Kōfu (BUY) | 82% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | 1. FC Magdeburg vs. Eintracht Braunschwe | Over (BUY) | 32% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | 1. FC Magdeburg vs. Eintracht Braunschwe | Over (BUY) | 32% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Karlsruher SC win on 2026-08-08? | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | SV Darmstadt 98 vs. Holstein Kiel: Holst | Over (BUY) | 97% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Nantong Zhiyun (-1.5) | Nanjing City (BUY) | 75% | 0.00 | ⏳ pendiente | — |
@@ -98,7 +102,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Fujieda MYFC vs. Vegalta Sendai: O/U 2.5 | Under (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Meizhou Hakka win on 2026-08-08? | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Foshan Nanshi FC win on 2026-08-08? | Yes (BUY) | 26% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Shaanxi Union FC win on 2026-08-08? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Nantong Zhiyun win on 2026-08-08? | No (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Shijiazhuang Gongfu FC win on 2026- | No (BUY) | 71% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Sanfrecce Hiroshima vs. JEF United Ichih | No (BUY) | 50% | 0.00 | ⏳ pendiente | — |
