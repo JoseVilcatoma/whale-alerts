@@ -1,5 +1,5 @@
 {
-  "bankroll": 579.3664323731712,
+  "bankroll": 584.8157004746954,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2110,6 +2110,126 @@
       "timestamp": 1786201140.9735963,
       "bankroll": 579.37,
       "event": "won: ferrariChampions2026 \u2014 Will Bucheon FC 1995 win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786201420.7301965,
+      "bankroll": 579.9,
+      "event": "won: UpTheBlues \u2014 Will Qingdao Hainiu FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786201428.7964044,
+      "bankroll": 576.26,
+      "event": "lost: quavoo \u2014 Will FC Seoul win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786201435.8121564,
+      "bankroll": 578.56,
+      "event": "won: ferrariChampions2026 \u2014 Gimcheon Sangmu FC vs. FC Seoul: O/U 2.5"
+    },
+    {
+      "timestamp": 1786201439.5596063,
+      "bankroll": 578.56,
+      "event": "won: ferrariChampions2026 \u2014 SV Darmstadt 98 vs. Holstein Kiel: O/U 1.5"
+    },
+    {
+      "timestamp": 1786201439.8754442,
+      "bankroll": 578.56,
+      "event": "won: UpTheBlues \u2014 Spread: 1. FC Heidenheim 1846 (-1.5)"
+    },
+    {
+      "timestamp": 1786201439.975617,
+      "bankroll": 578.56,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: 1. FC Heidenheim 1846 (-1.5)"
+    },
+    {
+      "timestamp": 1786201440.285584,
+      "bankroll": 578.56,
+      "event": "won: ferrariChampions2026 \u2014 SV Darmstadt 98 vs. Holstein Kiel: O/U 2.5"
+    },
+    {
+      "timestamp": 1786201440.3857296,
+      "bankroll": 578.56,
+      "event": "lost: ferrariChampions2026 \u2014 SV Darmstadt 98 vs. Holstein Kiel: O/U 2.5"
+    },
+    {
+      "timestamp": 1786201441.0219536,
+      "bankroll": 578.56,
+      "event": "won: UpTheBlues \u2014 SV Darmstadt 98 vs. Holstein Kiel: Holstein Kiel O/U 0.5"
+    },
+    {
+      "timestamp": 1786201442.1294544,
+      "bankroll": 578.56,
+      "event": "won: UpTheBlues \u2014 1. FC Heidenheim 1846 vs. VfL Osnabr\u00fcck: O/U 0.5"
+    },
+    {
+      "timestamp": 1786201442.6458137,
+      "bankroll": 578.56,
+      "event": "won: ferrariChampions2026 \u2014 Spread: 1. FC Heidenheim 1846 (-1.5)"
+    },
+    {
+      "timestamp": 1786201443.5201502,
+      "bankroll": 578.56,
+      "event": "lost: RN1 \u2014 1. FC Heidenheim 1846 vs. VfL Osnabr\u00fcck: O/U 3.5"
+    },
+    {
+      "timestamp": 1786201444.5957756,
+      "bankroll": 578.56,
+      "event": "won: ferrariChampions2026 \u2014 Karlsruher SC vs. DSC Arminia Bielefeld: O/U 1.5"
+    },
+    {
+      "timestamp": 1786201444.9024358,
+      "bankroll": 578.56,
+      "event": "lost: RN1 \u2014 Will VfL Osnabr\u00fcck win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786201445.002631,
+      "bankroll": 578.56,
+      "event": "won: RN1 \u2014 Will Qingdao Hainiu FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786201445.4175606,
+      "bankroll": 581.0,
+      "event": "won: ferrariChampions2026 \u2014 SV Darmstadt 98 vs. Holstein Kiel: O/U 3.5"
+    },
+    {
+      "timestamp": 1786201446.0724711,
+      "bankroll": 579.69,
+      "event": "lost: RN1 \u2014 Qingdao Hainiu FC vs. Shanghai Shenhua FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786201446.6119418,
+      "bankroll": 579.79,
+      "event": "won: ferrariChampions2026 \u2014 Karlsruher SC vs. DSC Arminia Bielefeld: O/U 5.5"
+    },
+    {
+      "timestamp": 1786201446.7121038,
+      "bankroll": 579.93,
+      "event": "won: RN1 \u2014 Karlsruher SC vs. DSC Arminia Bielefeld: O/U 5.5"
+    },
+    {
+      "timestamp": 1786201447.0388184,
+      "bankroll": 580.86,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Holstein Kiel (-1.5)"
+    },
+    {
+      "timestamp": 1786201448.1154892,
+      "bankroll": 581.31,
+      "event": "won: ferrariChampions2026 \u2014 SV Darmstadt 98 vs. Holstein Kiel: O/U 1.5"
+    },
+    {
+      "timestamp": 1786201449.037689,
+      "bankroll": 586.47,
+      "event": "won: ferrariChampions2026 \u2014 Will Holstein Kiel win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786201450.1952746,
+      "bankroll": 586.47,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Holstein Kiel (-1.5)"
+    },
+    {
+      "timestamp": 1786201450.495725,
+      "bankroll": 584.82,
+      "event": "lost: RN1 \u2014 SV Darmstadt 98 vs. Holstein Kiel: O/U 3.5"
     }
   ]
 }
