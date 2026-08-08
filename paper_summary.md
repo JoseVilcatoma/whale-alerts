@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 20:04:05 (hora de Perú)
+Actualizado: 2026-08-07 20:06:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $790.29
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 53 | 25 | 16 | -88.72 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 334 | 199 | 118 | -104.31 USD |
+| swisstony | 334 | 199 | 121 | -104.31 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -76,6 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | arg-ros-ald-2026-08-07-total-2pt5 | RN1, swisstony |
 | mlb-cle-cws-2026-08-07-total-9pt5 | RN1, swisstony |
 | mlb-cle-cws-2026-08-07-spread-away-2pt5 | RN1, swisstony |
+| mlb-min-mil-2026-08-07-spread-away-1pt5 | RN1, swisstony |
 | mlb-cle-cws-2026-08-07-total-8pt5 | RN1, swisstony |
 | arg-riv1-aae-2026-08-07-aae | RN1, swisstony |
 
@@ -83,6 +84,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Phoenix Mercury vs. Connecticut Sun | Phoenix Mercury (BUY) | 63% | 1.14 | ⏳ pendiente | — |
+| swisstony | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 73% | 2.99 | ⏳ pendiente | — |
+| swisstony | Spread: Minnesota Twins (-1.5) | Milwaukee Brewers (BUY) | 66% | 1.07 | ⏳ pendiente | — |
 | swisstony | Will CD Universidad Católica win on 2026 | No (BUY) | 30% | 1.91 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Connecticut Sun: O/U | Under (BUY) | 98% | 1.21 | ⏳ pendiente | — |
 | swisstony | Atlanta Dream vs. Washington Mystics | Washington Mystics (BUY) | 90% | 15.43 | ⏳ pendiente | — |
@@ -110,6 +114,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Cleveland Guardians vs. Chicago White So | Under (BUY) | 67% | 2.68 | ⏳ pendiente | — |
 | RN1 | Spread: Washington Nationals (-1.5) | Cincinnati Reds (BUY) | 64% | 4.60 | ⏳ pendiente | — |
 | swisstony | Will AA Ponte Preta win on 2026-08-07? | No (BUY) | 99% | 1.39 | ⏳ pendiente | — |
-| swisstony | Will CD Universidad Católica win on 2026 | Yes (BUY) | 70% | 4.12 | ⏳ pendiente | — |
-| swisstony | Will CD Universidad Católica win on 2026 | Yes (BUY) | 69% | 1.58 | ⏳ pendiente | — |
-| swisstony | Spread: Texas Rangers (-1.5) | Baltimore Orioles (BUY) | 77% | 3.65 | ⏳ pendiente | — |
