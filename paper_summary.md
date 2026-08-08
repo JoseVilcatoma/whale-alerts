@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 17:32:47 (hora de Perú)
+Actualizado: 2026-08-08 17:34:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $496.19
@@ -20,17 +20,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 5 | 5 | 79 | +8.84 USD |
 | UpTheBlues | 39 | 28 | 9 | +7.78 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| Talvez10 | 1 | 2 | 12 | +0.00 USD |
+| Talvez10 | 3 | 5 | 7 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
-| wr0ngw4yb3tt0r | 15 | 13 | 13 | -10.71 USD |
+| wr0ngw4yb3tt0r | 15 | 14 | 12 | -10.71 USD |
 | 1winstreak1 | 11 | 13 | 35 | -12.25 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 14 | 12 | 15 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 183 | 158 | 51 | -74.91 USD |
+| ferrariChampions2026 | 186 | 158 | 48 | -74.91 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 7 | -303.20 USD |
 
