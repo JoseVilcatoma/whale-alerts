@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:07:30 (hora de Perú)
+Actualizado: 2026-08-08 16:09:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 27 | 13 | 17 | +57.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 27 | 13 | 18 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
@@ -22,15 +22,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 14 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| StasPanda | 0 | 4 | 6 | +0.00 USD |
+| StasPanda | 0 | 4 | 7 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 11 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 27 | -12.25 USD |
+| 1winstreak1 | 0 | 3 | 28 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
-| RN1 | 8 | 9 | 0 | -22.00 USD |
+| RN1 | 8 | 9 | 1 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 166 | 138 | 50 | -75.22 USD |
+| ferrariChampions2026 | 166 | 138 | 53 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 4 | -303.20 USD |
 
@@ -114,6 +114,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 91% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: New York Yankees (-1.5) | Atlanta Braves (BUY) | 31% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Sporting CP win on 2026-08-08? | Yes (BUY) | 90% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 88% | 0.00 | ⏳ pendiente | — |
+| StasPanda | Counter-Strike: K27 vs SAW (BO3) - Espor | K27 (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
@@ -137,10 +144,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | UFC Fight Night: Juliana Miller vs. Rave | Juliana Miller (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 40% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 61% | 0.00 | 💰 vendida anticipada | +0.00 |
-| quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 20% | 0.00 | ⏳ pendiente | — |
-| quavoo | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| StasPanda | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | KT Rolster (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 0.00 | ⏳ pendiente | — |
