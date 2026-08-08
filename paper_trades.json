@@ -18463,5 +18463,91 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786147602.4392834,
     "fills": 1
+  },
+  {
+    "timestamp": 1786147733,
+    "timestamp_added": 1786147733.4100885,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-ros-ald-2026-08-07-total-2pt5",
+    "title": "CA Rosario Central vs. CA Aldosivi: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 400.05999899999995,
+    "whale_pct": 0.183,
+    "paper_stake_usd": 1.46,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786147733.4100947,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786147734,
+    "timestamp_added": 1786147735.1766703,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-ros-ald-2026-08-07-ros",
+    "title": "Will CA Rosario Central win on 2026-08-07?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 286.549,
+    "whale_pct": 0.119,
+    "paper_stake_usd": 0.95,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786147735.1766765,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786147754,
+    "timestamp_added": 1786147754.861336,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-ros-ald-2026-08-07-spread-home-1pt5",
+    "title": "Spread: CA Rosario Central (-1.5)",
+    "outcome": "CA Aldosivi",
+    "side": "BUY",
+    "whale_usd": 742.8967,
+    "whale_pct": 0.339,
+    "paper_stake_usd": 2.7,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786147754.8613462,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786147759,
+    "timestamp_added": 1786147759.3718545,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-ros-ald-2026-08-07-total-2pt5",
+    "title": "CA Rosario Central vs. CA Aldosivi: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 522.9925,
+    "whale_pct": 0.239,
+    "paper_stake_usd": 1.9,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786147759.3718636,
+    "fills": 1
   }
 ]
