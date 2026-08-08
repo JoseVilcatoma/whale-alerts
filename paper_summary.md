@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 05:28:40 (hora de Perú)
+Actualizado: 2026-08-08 05:30:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.76
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 12 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 107 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 110 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -67,6 +67,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-2.5) | JEF United Ichihara Chiba (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | FC Tōkyō vs. FC Machida Zelvia: O/U 3.5 | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 1.5 | Over (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Kashiwa Reysol (-1.5) | FC Mito Holly Hock (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Tōkyō (-1.5) | FC Machida Zelvia (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kashiwa Reysol vs. FC Mito Holly Hock: O | Over (BUY) | 34% | 0.00 | ⏳ pendiente | — |
@@ -94,6 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | FC Tōkyō vs. FC Machida Zelvia: O/U 2.5 | Over (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 88% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Vissel Kōbe win on 2026-08-08? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 2. | Over (BUY) | 74% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 89% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will FC Tōkyō win on 2026-08-08? | No (BUY) | 36% | 0.00 | ⏳ pendiente | — |
