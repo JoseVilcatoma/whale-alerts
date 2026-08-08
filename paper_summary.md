@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 01:36:28 (hora de Perú)
+Actualizado: 2026-08-08 01:38:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $949.24
@@ -14,10 +14,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| UpTheBlues | 1 | 0 | 44 | +0.03 USD |
+| UpTheBlues | 1 | 0 | 45 | +0.03 USD |
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 25 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 27 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 12 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
@@ -54,6 +54,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Eintracht Braunschweig win on 2026- | Yes (BUY) | 21% | 2.71 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 12.35 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 14.61 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 34.61 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 6.35 | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 1.90 | ⏳ pendiente | — |
@@ -81,6 +84,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Indiana Fever (-6.5) | Chicago Sky (BUY) | 51% | 8.13 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 2.91 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Over (BUY) | 52% | 1.43 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Athletics (-1.5) | Boston Red Sox (BUY) | 77% | 1.06 | ⏳ pendiente | — |
-| HomeRunHazard | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 50% | 1.06 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 16.48 | ⏳ pendiente | — |
