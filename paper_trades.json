@@ -11592,8 +11592,8 @@
     "whale_pct": 102.455,
     "paper_stake_usd": 18.33,
     "odds_at_bet": 79,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.87,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786190371.313069,
@@ -11652,8 +11652,8 @@
     "whale_pct": 6.909,
     "paper_stake_usd": 9.49,
     "odds_at_bet": 6,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -9.49,
     "overlaps_with": [
       "Spicer"
     ],

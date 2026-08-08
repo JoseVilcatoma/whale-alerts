@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 10:22:58 (hora de Perú)
+Actualizado: 2026-08-08 10:25:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $586.57
-**Retorno acumulado:** -41.34%
+**Bankroll actual:** $581.95
+**Retorno acumulado:** -41.80%
 **Peor caída desde un máximo (drawdown):** 47.71%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,14 +14,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 9 | 3 | +9.70 USD |
 | greyoctober | 4 | 0 | 3 | +9.27 USD |
+| Spicer | 1 | 0 | 4 | +4.87 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 10 | 2 | +0.21 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | ThornyDevil | 3 | 0 | 2 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 0 | 5 | +0.00 USD |
-| Spicer | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
 | quavoo | 0 | 1 | 29 | -3.64 USD |
 | HomeRunHazard | 4 | 6 | 51 | -3.99 USD |

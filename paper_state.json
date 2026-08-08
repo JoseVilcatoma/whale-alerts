@@ -1,5 +1,5 @@
 {
-  "bankroll": 586.5686491537115,
+  "bankroll": 581.9511807992811,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2265,6 +2265,16 @@
       "timestamp": 1786201754.1151023,
       "bankroll": 586.57,
       "event": "won: ferrariChampions2026 \u2014 Will Jeonbuk Hyundai Motors FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786202691.523665,
+      "bankroll": 591.44,
+      "event": "won: Spicer \u2014 LoL: Bilibili Gaming vs EDward Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786202692.3183584,
+      "bankroll": 581.95,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Bilibili Gaming vs EDward Gaming - Game 1 Winner"
     }
   ]
 }
