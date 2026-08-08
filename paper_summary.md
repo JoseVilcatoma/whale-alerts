@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 07:32:21 (hora de Perú)
+Actualizado: 2026-08-08 07:34:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $883.11
@@ -25,9 +25,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
 | Spicer | 0 | 0 | 5 | +0.00 USD |
-| wr0ngw4yb3tt0r | 1 | 1 | 3 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 37 | -3.99 USD |
-| UpTheBlues | 20 | 18 | 27 | -4.56 USD |
+| wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
+| HomeRunHazard | 4 | 6 | 38 | -3.99 USD |
+| UpTheBlues | 22 | 18 | 25 | -4.56 USD |
 | RN1 | 2 | 2 | 13 | -5.13 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
 | ferrariChampions2026 | 67 | 80 | 131 | -70.93 USD |
@@ -84,6 +84,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Cleveland Guardians (-2.5) | Chicago White Sox (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
@@ -112,5 +114,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Vålerenga Fotball vs. FK Bodø/Glimt: O/U | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Bucheon FC 1995 vs. Gwangju FC: O/U 0.5 | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | Spicer | Game Handicap: BLG (-1.5) vs EDward Gami | Bilibili Gaming (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | Sanfrecce Hiroshima (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| Spicer | Game Handicap: BLG (-1.5) vs EDward Gami | Bilibili Gaming (BUY) | 66% | 1.39 | ⏳ pendiente | — |
