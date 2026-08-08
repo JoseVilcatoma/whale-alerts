@@ -1,5 +1,5 @@
 {
-  "bankroll": 894.4768502483257,
+  "bankroll": 657.9568502483258,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -1425,6 +1425,151 @@
       "timestamp": 1786192687.8118806,
       "bankroll": 894.48,
       "event": "won: UpTheBlues \u2014 Sanfrecce Hiroshima vs. JEF United Ichihara Chiba: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786193233.9140537,
+      "bankroll": 880.63,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: WB (-1.5) vs LNG Esports (+1.5)"
+    },
+    {
+      "timestamp": 1786193234.150523,
+      "bankroll": 876.2,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193235.4546893,
+      "bankroll": 868.4,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193235.554833,
+      "bankroll": 863.35,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: WB (-1.5) vs LNG Esports (+1.5)"
+    },
+    {
+      "timestamp": 1786193236.748198,
+      "bankroll": 858.04,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: WB (-1.5) vs LNG Esports (+1.5)"
+    },
+    {
+      "timestamp": 1786193237.0486336,
+      "bankroll": 855.43,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193237.432366,
+      "bankroll": 843.43,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: WB (-1.5) vs LNG Esports (+1.5)"
+    },
+    {
+      "timestamp": 1786193237.9230282,
+      "bankroll": 841.68,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193238.123289,
+      "bankroll": 825.31,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: WB (-1.5) vs LNG Esports (+1.5)"
+    },
+    {
+      "timestamp": 1786193238.7620609,
+      "bankroll": 821.71,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193240.7755616,
+      "bankroll": 820.65,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: WB (-1.5) vs LNG Esports (+1.5)"
+    },
+    {
+      "timestamp": 1786193242.492087,
+      "bankroll": 811.07,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193242.7925496,
+      "bankroll": 794.59,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: WB (-1.5) vs LNG Esports (+1.5)"
+    },
+    {
+      "timestamp": 1786193243.6380813,
+      "bankroll": 791.68,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193243.838367,
+      "bankroll": 772.48,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: WB (-1.5) vs LNG Esports (+1.5)"
+    },
+    {
+      "timestamp": 1786193244.2948399,
+      "bankroll": 766.51,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193245.2674334,
+      "bankroll": 763.56,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193245.6246152,
+      "bankroll": 759.16,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193246.4106507,
+      "bankroll": 757.87,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: WB (-1.5) vs LNG Esports (+1.5)"
+    },
+    {
+      "timestamp": 1786193246.610925,
+      "bankroll": 751.52,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193246.711067,
+      "bankroll": 716.91,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193246.8112204,
+      "bankroll": 702.3,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: WB (-1.5) vs LNG Esports (+1.5)"
+    },
+    {
+      "timestamp": 1786193246.9113545,
+      "bankroll": 689.95,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: WB (-1.5) vs LNG Esports (+1.5)"
+    },
+    {
+      "timestamp": 1786193247.6760404,
+      "bankroll": 688.93,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193248.0191755,
+      "bankroll": 687.2,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193248.3195791,
+      "bankroll": 685.52,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193248.419721,
+      "bankroll": 657.96,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193249.0947888,
+      "bankroll": 657.96,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786193250.166447,
+      "bankroll": 657.96,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana"
     }
   ]
 }

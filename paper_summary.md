@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 07:46:45 (hora de Perú)
+Actualizado: 2026-08-08 07:48:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $894.48
-**Retorno acumulado:** -10.55%
-**Peor caída desde un máximo (drawdown):** 19.35%
+**Bankroll actual:** $657.96
+**Retorno acumulado:** -34.20%
+**Peor caída desde un máximo (drawdown):** 34.20%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 8 | 8 | +9.70 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 9 | 7 | +9.70 USD |
 | greyoctober | 4 | 0 | 3 | +9.27 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | quavoo | 0 | 0 | 30 | +0.00 USD |
@@ -29,8 +29,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 4 | 6 | 45 | -3.99 USD |
 | UpTheBlues | 25 | 20 | 20 | -4.56 USD |
 | RN1 | 2 | 2 | 13 | -5.13 USD |
-| ferrariChampions2026 | 86 | 89 | 103 | -59.56 USD |
-| TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
+| ferrariChampions2026 | 87 | 89 | 102 | -59.56 USD |
+| TAIWANNUMBERONE | 1 | 31 | 6 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
