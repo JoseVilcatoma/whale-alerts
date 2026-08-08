@@ -20770,5 +20770,116 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786227697.0249853,
     "fills": 1
+  },
+  {
+    "timestamp": 1786227746,
+    "timestamp_added": 1786227746.9243677,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-boc-vel-2026-08-08-total-2pt5",
+    "title": "CA Boca Juniors vs. CA V\u00e9lez Sarsfield: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 365.4,
+    "whale_pct": 0.707,
+    "paper_stake_usd": 3.52,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786227746.9243798,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786227748,
+    "timestamp_added": 1786227748.419351,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-boc-vel-2026-08-08-vel",
+    "title": "Will CA V\u00e9lez Sarsfield win on 2026-08-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 539.4200000000001,
+    "whale_pct": 1.044,
+    "paper_stake_usd": 5.19,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786227758.5631993,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786227793,
+    "timestamp_added": 1786227793.5327795,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "arg-boc-vel-2026-08-08-boc",
+    "title": "Will CA Boca Juniors win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 721.02,
+    "whale_pct": 0.125,
+    "paper_stake_usd": 0.62,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786227793.53279,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786227802,
+    "timestamp_added": 1786227802.4477973,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-man15-rmiran-2026-08-08",
+    "title": "UFC Fight Night: Manoel Sousa vs. Richie Miranda (Lightweight, Prelims)",
+    "outcome": "Manoel Sousa",
+    "side": "BUY",
+    "whale_usd": 415.0,
+    "whale_pct": 0.141,
+    "paper_stake_usd": 0.7,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786227802.44781,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786227852,
+    "timestamp_added": 1786227853.118929,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-dk-kt-2026-08-09",
+    "title": "LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "whale_usd": 54.117948000000005,
+    "whale_pct": 0.141,
+    "paper_stake_usd": 0.7,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "StasPanda"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786227853.11894,
+    "fills": 1
   }
 ]
