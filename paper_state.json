@@ -1,5 +1,5 @@
 {
-  "bankroll": 581.9511807992811,
+  "bankroll": 602.9713395294398,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2275,6 +2275,66 @@
       "timestamp": 1786202692.3183584,
       "bankroll": 581.95,
       "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Bilibili Gaming vs EDward Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786202996.2687297,
+      "bankroll": 581.95,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786202996.3689144,
+      "bankroll": 581.95,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786202996.4690897,
+      "bankroll": 581.95,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786202996.9013367,
+      "bankroll": 570.12,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786202997.8368595,
+      "bankroll": 569.22,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786202997.937036,
+      "bankroll": 566.87,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786202998.0372272,
+      "bankroll": 564.25,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786202998.54775,
+      "bankroll": 562.31,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786202998.6479132,
+      "bankroll": 558.31,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786203001.1767,
+      "bankroll": 558.31,
+      "event": "lost: ThornyDevil \u2014 LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786203004.7661934,
+      "bankroll": 541.91,
+      "event": "lost: ThornyDevil \u2014 LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786203063.085039,
+      "bankroll": 602.97,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: SK Gaming vs Natus Vincere - Game 1 Winner (+61.06 USD)"
     }
   ]
 }
