@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 00:44:13 (hora de Perú)
+Actualizado: 2026-08-08 00:46:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $949.21
@@ -17,8 +17,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 35 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 5 | +0.00 USD |
-| quavoo | 0 | 0 | 11 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 7 | +0.00 USD |
+| quavoo | 0 | 0 | 13 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 4 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
@@ -53,6 +53,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Chelsea FC win on 2026-08-08? | Yes (BUY) | 48% | 5.71 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 12.00 | ⏳ pendiente | — |
+| quavoo | Will Chelsea FC win on 2026-08-08? | Yes (BUY) | 48% | 4.45 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 2.61 | ⏳ pendiente | — |
 | quavoo | Will CD Guadalajara win on 2026-08-08? | Yes (BUY) | 54% | 11.77 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Vissel Kōbe (-1.5) | Avispa Fukuoka (BUY) | 81% | 11.04 | ⏳ pendiente | — |
 | quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 60% | 1.18 | ⏳ pendiente | — |
@@ -79,7 +83,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Philadelphia Phillies (-1.5) | Toronto Blue Jays (BUY) | 58% | 1.38 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 53% | 4.64 | ⏳ pendiente | — |
 | swisstony | Spread: Philadelphia Phillies (-1.5) | Toronto Blue Jays (BUY) | 58% | 2.52 | ⏳ pendiente | — |
-| HomeRunHazard | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 65% | 2.92 | ✅ ganada | +1.57 |
-| HomeRunHazard | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 48% | 3.08 | ✅ ganada | +3.34 |
-| HomeRunHazard | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 55% | 5.24 | ❌ perdida | -5.24 |
-| ferrariChampions2026 | Spread: San Francisco Giants (-2.5) | Detroit Tigers (BUY) | 46% | 2.59 | ❌ perdida | -2.59 |
