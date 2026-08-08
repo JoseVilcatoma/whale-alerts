@@ -14765,5 +14765,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786214480.8717139,
     "fills": 1
+  },
+  {
+    "timestamp": 1786214702,
+    "timestamp_added": 1786214702.7125545,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-ste36-gui2-2026-08-08",
+    "title": "UFC Fight Night: Steven Asplund vs. Guilherme Pat (Heavyweight, Main Card)",
+    "outcome": "Guilherme Pat",
+    "side": "BUY",
+    "whale_usd": 1332.2983939999997,
+    "whale_pct": 0.802,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 26,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786214702.7125633,
+    "fills": 1
   }
 ]
