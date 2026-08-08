@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 00:58:42 (hora de Perú)
+Actualizado: 2026-08-08 01:00:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $949.21
@@ -18,7 +18,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 0 | 0 | 37 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | TAIWANNUMBERONE | 0 | 0 | 10 | +0.00 USD |
-| quavoo | 0 | 0 | 19 | +0.00 USD |
+| quavoo | 0 | 0 | 20 | +0.00 USD |
+| fRibrenlc | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 6 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
@@ -53,6 +54,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 61% | 2.89 | ⏳ pendiente | — |
+| fRibrenlc | Counter-Strike: Liquid vs Metizport (BO3 | Metizport (BUY) | 27% | 9.21 | ⏳ pendiente | — |
 | quavoo | Counter-Strike: 9INE vs ABT Esports - Ma | 9INE (BUY) | 39% | 1.24 | ⏳ pendiente | — |
 | quavoo | Will Chelsea FC win on 2026-08-08? | Yes (BUY) | 48% | 1.03 | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. St. Louis Cardinals | Under (BUY) | 66% | 4.35 | ⏳ pendiente | — |
@@ -81,5 +84,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Philippines win on 2026-08-08? | No (BUY) | 87% | 1.44 | ⏳ pendiente | — |
 | quavoo | Will Inter Miami CF win on 2026-08-08? | Yes (BUY) | 60% | 12.45 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 5.05 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 7.80 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | O/U 2.5 Rounds | Over (BUY) | 42% | 20.11 | ⏳ pendiente | — |
