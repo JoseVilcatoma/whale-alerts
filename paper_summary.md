@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 10:48:00 (hora de Perú)
+Actualizado: 2026-08-08 10:50:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $607.60
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 5 | -1.58 USD |
 | quavoo | 0 | 1 | 29 | -3.64 USD |
-| HomeRunHazard | 4 | 6 | 52 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 54 | -3.99 USD |
 | UpTheBlues | 35 | 24 | 6 | -4.84 USD |
 | RN1 | 7 | 6 | 4 | -5.34 USD |
 | ThornyDevil | 3 | 2 | 0 | -16.40 USD |
@@ -87,6 +87,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 191.5 | Under (BUY) | 51% | 2.89 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Minnesota Lynx (-5.5) | Minnesota Lynx (BUY) | 45% | 2.18 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 48% | 3.73 | ⏳ pendiente | — |
 | HomeRunHazard | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 49% | 5.16 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 1.21 | ⏳ pendiente | — |
@@ -115,5 +117,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Cleveland Guardians (-2.5) | Chicago White Sox (BUY) | 70% | 0.00 | ⏳ pendiente | — |
