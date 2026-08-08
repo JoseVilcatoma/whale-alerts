@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 04:17:16 (hora de Perú)
+Actualizado: 2026-08-08 04:19:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $922.00
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 0 | 0 | 24 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 20 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 14 | +0.00 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 15 | +0.00 USD |
 | ThornyDevil | 0 | 0 | 2 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 25 | -3.99 USD |
@@ -63,6 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 20% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 24% | 0.00 | ⏳ pendiente | — |
@@ -92,4 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 28% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: AL (-1.5) vs LGD Gaming ( | LGD Gaming (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
