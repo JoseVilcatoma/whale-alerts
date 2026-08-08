@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:31:26 (hora de Perú)
+Actualizado: 2026-08-08 06:33:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $872.08
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
-| RN1 | 2 | 2 | 5 | -5.13 USD |
+| RN1 | 2 | 2 | 6 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 31 | -9.46 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
 | ferrariChampions2026 | 32 | 20 | 196 | -67.78 USD |
@@ -75,6 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Qingdao Hainiu FC vs. Shanghai Shenhua F | Over (BUY) | 74% | 1.31 | ⏳ pendiente | — |
 | RN1 | Will Bayer Leverkusen win on 2026-08-08? | No (BUY) | 50% | 3.68 | ⏳ pendiente | — |
 | ferrariChampions2026 | SV Darmstadt 98 vs. Holstein Kiel: O/U 3 | Over (BUY) | 44% | 1.92 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Vissel Kōbe win on 2026-08-08? | No (BUY) | 22% | 1.97 | ⏳ pendiente | — |
@@ -104,4 +105,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | RN1 | Karlsruher SC vs. DSC Arminia Bielefeld: | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 3. | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
