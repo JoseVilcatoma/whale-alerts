@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 12:12:05 (hora de Perú)
+Actualizado: 2026-08-08 12:14:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $619.89
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 0 | 0 | 5 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 0 | 6 | +0.00 USD |
-| wr0ngw4yb3tt0r | 1 | 1 | 11 | -1.58 USD |
+| wr0ngw4yb3tt0r | 1 | 1 | 12 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 62 | -3.99 USD |
 | ThornyDevil | 3 | 2 | 0 | -16.40 USD |
 | RN1 | 8 | 8 | 1 | -18.32 USD |
@@ -90,6 +90,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Las Vegas Aces (BUY) | 31% | 1.10 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Las Vegas Aces (BUY) | 31% | 4.30 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Las Vegas Aces (BUY) | 37% | 2.59 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Minnesota Lynx (-4.5) | Las Vegas Aces (BUY) | 49% | 6.76 | ⏳ pendiente | — |
@@ -119,4 +120,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Minnesota Lynx (-5.5) | Minnesota Lynx (BUY) | 45% | 2.18 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 48% | 3.73 | ⏳ pendiente | — |
 | HomeRunHazard | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 49% | 5.16 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 1.21 | ⏳ pendiente | — |
