@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 09:16:33 (hora de Perú)
+Actualizado: 2026-08-08 09:18:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $526.24
@@ -26,10 +26,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Spicer | 0 | 0 | 5 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 4 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 46 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 47 | -3.99 USD |
 | RN1 | 2 | 2 | 20 | -5.13 USD |
 | UpTheBlues | 28 | 21 | 16 | -5.52 USD |
-| ferrariChampions2026 | 124 | 107 | 71 | -62.41 USD |
+| ferrariChampions2026 | 124 | 107 | 74 | -62.41 USD |
 | fRibrenlc | 0 | 12 | 8 | -127.91 USD |
 | TAIWANNUMBERONE | 1 | 36 | 1 | -303.20 USD |
 
@@ -87,6 +87,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Burnley FC vs. Notts County FC: O/U 1.5 | Over (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Milwaukee Brewers (-1.5) | Minnesota Twins (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will FC Augsburg win on 2026-08-08? | No (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Salford City FC win on 2026-08-08? | No (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Portsmouth FC win on 2026-08-08? | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cardiff City FC vs. Swindon Town FC: O/U | Over (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Wigan Athletic FC win on 2026-08-08 | No (BUY) | 62% | 0.00 | ⏳ pendiente | — |
@@ -113,7 +117,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Notts County FC win on 2026-08-08? | No (BUY) | 91% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Viking FK win on 2026-08-08? | Yes (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Salford City FC vs. Shrewsbury Town FC:  | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| quavoo | Valorant: Leviatán Esports vs MIBR (BO3) | MIBR (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Leyton Orient FC vs. Oxford United FC: O | Over (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Tottenham Hotspur win on 2026-08-08 | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Leicester City FC vs. Northampton Town F | Over (BUY) | 83% | 0.00 | ⏳ pendiente | — |
