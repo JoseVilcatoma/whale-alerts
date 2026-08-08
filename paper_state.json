@@ -1,5 +1,5 @@
 {
-  "bankroll": 476.41625922135876,
+  "bankroll": 477.1437916888912,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2890,6 +2890,46 @@
       "timestamp": 1786219667.094042,
       "bankroll": 476.42,
       "event": "won: UpTheBlues \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 4.5"
+    },
+    {
+      "timestamp": 1786219720.8091998,
+      "bankroll": 476.42,
+      "event": "won: ferrariChampions2026 \u2014 Will CD Riestra vs. Estudiantes de La Plata end in a draw?"
+    },
+    {
+      "timestamp": 1786219777.7799773,
+      "bankroll": 476.42,
+      "event": "won: ferrariChampions2026 \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 1.5"
+    },
+    {
+      "timestamp": 1786219779.4230373,
+      "bankroll": 476.75,
+      "event": "won: ferrariChampions2026 \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 1.5"
+    },
+    {
+      "timestamp": 1786219779.6234045,
+      "bankroll": 476.75,
+      "event": "won: ferrariChampions2026 \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 1.5"
+    },
+    {
+      "timestamp": 1786219779.9238453,
+      "bankroll": 477.14,
+      "event": "won: ferrariChampions2026 \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 1.5"
+    },
+    {
+      "timestamp": 1786219780.224347,
+      "bankroll": 477.14,
+      "event": "won: ferrariChampions2026 \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 1.5"
+    },
+    {
+      "timestamp": 1786219780.4247181,
+      "bankroll": 477.14,
+      "event": "won: ferrariChampions2026 \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 1.5"
+    },
+    {
+      "timestamp": 1786219781.4615002,
+      "bankroll": 477.14,
+      "event": "won: ferrariChampions2026 \u2014 CD Riestra vs. Estudiantes de La Plata: O/U 1.5"
     }
   ]
 }
