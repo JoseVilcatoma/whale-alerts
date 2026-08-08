@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:03:08 (hora de Perú)
+Actualizado: 2026-08-08 16:05:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
-| quavoo | 5 | 4 | 35 | +8.84 USD |
+| quavoo | 5 | 4 | 37 | +8.84 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 14 | +0.00 USD |
@@ -25,12 +25,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 4 | 6 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 11 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 20 | -12.25 USD |
+| 1winstreak1 | 0 | 3 | 21 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 166 | 138 | 44 | -75.22 USD |
+| ferrariChampions2026 | 166 | 138 | 46 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 4 | -303.20 USD |
 
@@ -113,6 +113,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will FC Dallas win on 2026-08-08? | Yes (BUY) | 20% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Atlante FC win on 2026-08-08? | Yes (BUY) | 20% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 92% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
@@ -138,8 +143,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 20% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Mineiro win on 2026-08-08? | Yes (BUY) | 33% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| quavoo | Counter-Strike: Prestige vs Betclic Apog | Prestige (BUY) | 28% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will CA Boca Juniors win on 2026-08-08? | Yes (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Cúcuta Deportivo FC win on 2026-08- | Yes (BUY) | 20% | 0.00 | ⏳ pendiente | — |
