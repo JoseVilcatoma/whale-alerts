@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 13:54:56 (hora de Perú)
+Actualizado: 2026-08-08 13:56:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $619.51
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 4 | 2 | 24 | +10.43 USD |
 | Spicer | 5 | 0 | 5 | +6.62 USD |
-| UpTheBlues | 38 | 26 | 2 | +5.74 USD |
+| UpTheBlues | 38 | 26 | 3 | +5.74 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 5 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -31,8 +31,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 149 | 129 | 40 | -76.06 USD |
-| TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
+| ferrariChampions2026 | 149 | 129 | 42 | -76.06 USD |
+| TAIWANNUMBERONE | 2 | 36 | 2 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -103,7 +103,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| ThornyDevil | LoL: Movistar KOI vs GIANTX - Game 2 Win | Movistar KOI (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: FC Arouca (-1.5) | Vitória SC (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Grêmio FBPA vs. São Paulo FC: O/U 2.5 | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| ThornyDevil | LoL: Movistar KOI vs GIANTX - Game 2 Win | Movistar KOI (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
@@ -129,7 +133,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will CD Riestra win on 2026-08-08? | No (BUY) | 27% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Minnesota Lynx (-5.5) | Las Vegas Aces (BUY) | 30% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | Movistar KOI (BUY) | 45% | 0.00 | 💰 vendida anticipada | -0.00 |
-| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 31% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
