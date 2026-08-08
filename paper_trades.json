@@ -6582,5 +6582,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786182144.261483,
     "fills": 1
+  },
+  {
+    "timestamp": 1786182160,
+    "timestamp_added": 1786182161.6132576,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-lgd-al-2026-08-08-game1",
+    "title": "LoL: LGD Gaming vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "whale_usd": 496.93139999999994,
+    "whale_pct": 0.299,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786182175.0662634,
+    "fills": 2
   }
 ]
