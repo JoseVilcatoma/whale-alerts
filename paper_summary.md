@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 19:47:27 (hora de Perú)
+Actualizado: 2026-08-07 19:49:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.75
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 47 | 22 | 19 | -86.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 312 | 181 | 129 | -99.73 USD |
+| swisstony | 312 | 181 | 134 | -99.73 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -79,6 +79,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 56% | 1.26 | ⏳ pendiente | — |
+| swisstony | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 61% | 1.65 | ⏳ pendiente | — |
+| swisstony | Atlanta Dream vs. Washington Mystics | Washington Mystics (BUY) | 80% | 3.42 | ⏳ pendiente | — |
+| swisstony | Atlanta Dream vs. Washington Mystics | Washington Mystics (BUY) | 77% | 1.28 | ⏳ pendiente | — |
+| swisstony | CS Independiente Rivadavia vs. AA Estudi | Under (BUY) | 33% | 0.90 | ⏳ pendiente | — |
 | swisstony | Spread: Phoenix Mercury (-6.5) | Phoenix Mercury (BUY) | 58% | 1.31 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Connecticut Sun | Phoenix Mercury (BUY) | 82% | 2.78 | ⏳ pendiente | — |
 | swisstony | Cleveland Guardians vs. Chicago White So | Under (BUY) | 62% | 3.12 | ⏳ pendiente | — |
@@ -104,8 +109,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Charlotte FC vs. Atlas FC: O/U 1.5 | Under (BUY) | 62% | 0.98 | ⏳ pendiente | — |
 | swisstony | Spread: Atlas FC (-1.5) | Charlotte FC (BUY) | 94% | 2.55 | ⏳ pendiente | — |
 | swisstony | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 64% | 1.69 | ⏳ pendiente | — |
-| RN1 | CA Rosario Central vs. CA Aldosivi: O/U  | Under (BUY) | 96% | 3.55 | ⏳ pendiente | — |
-| RN1 | Spread: Minnesota Twins (-1.5) | Milwaukee Brewers (BUY) | 91% | 1.22 | ⏳ pendiente | — |
-| RN1 | Will São Bernardo FC win on 2026-08-07? | Yes (BUY) | 99% | 2.50 | ⏳ pendiente | — |
-| RN1 | Colorado Rockies vs. St. Louis Cardinals | Under (BUY) | 66% | 0.93 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Connecticut Sun: O/U | Under (BUY) | 93% | 1.68 | ⏳ pendiente | — |
