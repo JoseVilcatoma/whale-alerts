@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 23:41:12 (hora de Perú)
+Actualizado: 2026-08-07 23:43:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $978.65
-**Retorno acumulado:** -2.14%
-**Peor caída desde un máximo (drawdown):** 3.88%
+**Bankroll actual:** $953.50
+**Retorno acumulado:** -4.65%
+**Peor caída desde un máximo (drawdown):** 4.65%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -16,11 +16,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 1 | 0 | 3 | +0.14 USD |
 | greyoctober | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
-| HomeRunHazard | 0 | 0 | 11 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 33 | +0.00 USD |
-| swisstony | 0 | 0 | 1 | +0.00 USD |
-| 0x4f2 | 5 | 10 | 12 | -1.44 USD |
-| ferrariChampions2026 | 7 | 6 | 38 | -20.09 USD |
+| swisstony | 0 | 0 | 2 | +0.00 USD |
+| 0x4f2 | 6 | 11 | 10 | -2.08 USD |
+| HomeRunHazard | 1 | 1 | 9 | -2.12 USD |
+| ferrariChampions2026 | 7 | 8 | 36 | -42.48 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -51,6 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Philadelphia Phillies (-1.5) | Toronto Blue Jays (BUY) | 58% | 1.38 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 53% | 4.64 | ⏳ pendiente | — |
 | swisstony | Spread: Philadelphia Phillies (-1.5) | Toronto Blue Jays (BUY) | 58% | 2.52 | ⏳ pendiente | — |
 | HomeRunHazard | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 65% | 2.92 | ⏳ pendiente | — |
@@ -61,7 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 41% | 6.99 | ⏳ pendiente | — |
 | UpTheBlues | Spread: FC Juárez (-1.5) | Vancouver Whitecaps FC (BUY) | 93% | 2.38 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Juárez win on 2026-08-07? | Yes (BUY) | 52% | 3.26 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 75% | 2.49 | ⏳ pendiente | — |
+| HomeRunHazard | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 75% | 2.49 | ❌ perdida | -2.49 |
 | UpTheBlues | Spread: FC Juárez (-1.5) | Vancouver Whitecaps FC (BUY) | 93% | 1.43 | ⏳ pendiente | — |
 | UpTheBlues | Spread: FC Juárez (-1.5) | Vancouver Whitecaps FC (BUY) | 94% | 1.49 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Juárez win on 2026-08-07? | Yes (BUY) | 49% | 10.94 | ⏳ pendiente | — |
@@ -80,4 +81,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Under (BUY) | 75% | 1.69 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Juárez win on 2026-08-07? | No (BUY) | 77% | 26.35 | ⏳ pendiente | — |
 | UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 21% | 2.02 | ⏳ pendiente | — |
-| HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 40% | 1.12 | ⏳ pendiente | — |

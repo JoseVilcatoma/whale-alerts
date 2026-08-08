@@ -334,8 +334,8 @@
     "whale_pct": 1.126,
     "paper_stake_usd": 11.26,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -11.26,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786158167.9511247,
@@ -354,8 +354,8 @@
     "whale_pct": 1.113,
     "paper_stake_usd": 11.13,
     "odds_at_bet": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -11.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786158168.577086,
@@ -977,8 +977,8 @@
     "whale_pct": 0.212,
     "paper_stake_usd": 2.11,
     "odds_at_bet": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.63,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -999,8 +999,8 @@
     "whale_pct": 0.209,
     "paper_stake_usd": 2.08,
     "odds_at_bet": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.37,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786159491.3022127,
@@ -1019,8 +1019,8 @@
     "whale_pct": 0.127,
     "paper_stake_usd": 1.27,
     "odds_at_bet": 15,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.27,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -2591,8 +2591,8 @@
     "whale_pct": 0.259,
     "paper_stake_usd": 2.49,
     "odds_at_bet": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.49,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -2810,6 +2810,26 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786163926.1289542,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786164188,
+    "timestamp_added": 1786164189.4806561,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-tor-phi-2026-08-08-spread-home-1pt5",
+    "title": "Spread: Philadelphia Phillies (-1.5)",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "whale_usd": 137.049999,
+    "whale_pct": 0.144,
+    "paper_stake_usd": 1.38,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786164189.4806652,
     "fills": 1
   }
 ]
