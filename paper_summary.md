@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 13:40:21 (hora de Perú)
+Actualizado: 2026-08-08 13:42:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $619.51
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 149 | 129 | 35 | -76.06 USD |
+| ferrariChampions2026 | 149 | 129 | 37 | -76.06 USD |
 | TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -102,6 +102,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will VfL Wolfsburg win on 2026-08-08? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will VfL Wolfsburg win on 2026-08-08? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Grêmio FBPA win on 2026-08-08? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Las Vegas Aces vs. Minnesota Lynx: O/U 1 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 48% | 0.00 | ⏳ pendiente | — |
@@ -130,5 +132,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 1 Win | Movistar KOI (BUY) | 13% | 0.00 | 💰 vendida anticipada | -0.00 |
 | ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 1 Win | Movistar KOI (BUY) | 22% | 0.00 | 💰 vendida anticipada | -0.00 |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 71% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 1 Win | Movistar KOI (BUY) | 21% | 0.00 | 💰 vendida anticipada | -0.00 |
