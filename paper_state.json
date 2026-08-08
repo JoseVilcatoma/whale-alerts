@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.933791688891,
+  "bankroll": 471.15379168889103,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -3005,6 +3005,41 @@
       "timestamp": 1786225934.5315204,
       "bankroll": 473.93,
       "event": "lost: 1winstreak1 \u2014 Atlanta Braves vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786226524.6068997,
+      "bankroll": 471.15,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Angels vs. Miami Marlins: O/U 6.5"
+    },
+    {
+      "timestamp": 1786226542.8440933,
+      "bankroll": 471.15,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 6.5"
+    },
+    {
+      "timestamp": 1786226545.257394,
+      "bankroll": 471.15,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 6.5"
+    },
+    {
+      "timestamp": 1786226554.4303355,
+      "bankroll": 471.15,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Angels vs. Miami Marlins: O/U 6.5"
+    },
+    {
+      "timestamp": 1786226554.7310126,
+      "bankroll": 471.15,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 6.5"
+    },
+    {
+      "timestamp": 1786226555.886204,
+      "bankroll": 471.15,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 6.5"
+    },
+    {
+      "timestamp": 1786226556.1867864,
+      "bankroll": 471.15,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Angels vs. Miami Marlins: O/U 6.5"
     }
   ]
 }
