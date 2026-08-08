@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 12:43:50 (hora de Perú)
+Actualizado: 2026-08-08 12:45:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $622.04
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 8 | 8 | 1 | -18.32 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 149 | 129 | 2 | -76.06 USD |
+| ferrariChampions2026 | 149 | 129 | 4 | -76.06 USD |
 | TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -85,11 +85,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-las-min-2026-08-08-spread-home-4pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-181pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | lol-sk-navi-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
+| wnba-las-min-2026-08-08 | ferrariChampions2026, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Las Vegas Aces vs. Minnesota Lynx | Las Vegas Aces (BUY) | 32% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Colchester United FC vs. Southampto | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Southampton FC win on 2026-08-08? | Yes (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Colchester United FC win on 2026-08 | No (BUY) | 91% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 64% | 1.65 | ⏳ pendiente | — |
@@ -118,5 +121,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Seattle Storm vs. Portland Fire: O/U 179 | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | Spicer | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 61% | 85.83 | ⏳ pendiente | — |
 | Spicer | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 61% | 42.94 | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 63% | 8.93 | ⏳ pendiente | — |
-| HomeRunHazard | Seattle Storm vs. Portland Fire: O/U 179 | Under (BUY) | 50% | 5.57 | ⏳ pendiente | — |
