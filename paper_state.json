@@ -1,5 +1,5 @@
 {
-  "bankroll": 881.710517635685,
+  "bankroll": 883.1102080381618,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -1225,6 +1225,31 @@
       "timestamp": 1786191946.1091602,
       "bankroll": 881.71,
       "event": "lost: ferrariChampions2026 \u2014 Cerezo \u014csaka vs. Fagiano Okayama: O/U 3.5"
+    },
+    {
+      "timestamp": 1786191997.2877836,
+      "bankroll": 883.04,
+      "event": "won: UpTheBlues \u2014 Spread: Cerezo \u014csaka (-1.5)"
+    },
+    {
+      "timestamp": 1786192008.7033298,
+      "bankroll": 884.21,
+      "event": "won: ferrariChampions2026 \u2014 Will FC T\u014dky\u014d vs. FC Machida Zelvia end in a draw?"
+    },
+    {
+      "timestamp": 1786192011.3505604,
+      "bankroll": 884.21,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Cerezo \u014csaka (-1.5)"
+    },
+    {
+      "timestamp": 1786192014.5654774,
+      "bankroll": 884.21,
+      "event": "lost: ferrariChampions2026 \u2014 FC T\u014dky\u014d vs. FC Machida Zelvia: O/U 4.5"
+    },
+    {
+      "timestamp": 1786192020.6058314,
+      "bankroll": 883.11,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Cerezo \u014csaka (-1.5)"
     }
   ]
 }

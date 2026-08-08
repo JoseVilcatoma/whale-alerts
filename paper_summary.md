@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 07:26:04 (hora de Perú)
+Actualizado: 2026-08-08 07:28:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $881.71
-**Retorno acumulado:** -11.83%
+**Bankroll actual:** $883.11
+**Retorno acumulado:** -11.69%
 **Peor caída desde un máximo (drawdown):** 19.35%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,17 +20,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 0 | 0 | 24 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 20 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
-| ThornyDevil | 2 | 0 | 1 | +0.00 USD |
+| ThornyDevil | 2 | 0 | 2 | +0.00 USD |
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
 | Spicer | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 29 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 31 | -3.99 USD |
+| UpTheBlues | 20 | 18 | 27 | -4.56 USD |
 | RN1 | 2 | 2 | 13 | -5.13 USD |
-| UpTheBlues | 19 | 18 | 28 | -5.89 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
-| ferrariChampions2026 | 66 | 77 | 135 | -71.00 USD |
+| ferrariChampions2026 | 67 | 80 | 131 | -70.93 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -82,6 +82,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 56% | 7.58 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 65% | 1.62 | ⏳ pendiente | — |
+| ThornyDevil | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs EDward Gaming -  | EDward Gaming (BUY) | 6% | 9.49 | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 53% | 6.53 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 36% | 2.78 | ⏳ pendiente | — |
@@ -109,6 +112,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | Counter-Strike: EYEBALLERS vs Phantom (B | Phantom (BUY) | 54% | 30.54 | ⏳ pendiente | — |
 | RN1 | Will Dalian Yingbo FC win on 2026-08-08? | Yes (BUY) | 65% | 1.42 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: EYEBALLERS vs Phantom (B | Phantom (BUY) | 50% | 1.11 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | Sanfrecce Hiroshima (BUY) | 48% | 2.02 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will 1. FC Heidenheim 1846 win on 2026-0 | Yes (BUY) | 51% | 3.73 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 90% | 3.27 | ⏳ pendiente | — |
