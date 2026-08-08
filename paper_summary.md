@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 05:37:00 (hora de Perú)
+Actualizado: 2026-08-08 05:39:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.76
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 12 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 119 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 124 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -56,6 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-wb-lng-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-laa-mia-2026-08-08-total-8pt5 | HomeRunHazard, quavoo |
 | jap-avi-vis-2026-08-08-spread-away-1pt5 | UpTheBlues, ferrariChampions2026 |
+| jap-cer-fag-2026-08-08-spread-home-1pt5 | UpTheBlues, ferrariChampions2026 |
 | cs2-eye-pha-2026-08-08 | TAIWANNUMBERONE, fRibrenlc |
 | jap-cer-fag-2026-08-08-cer | UpTheBlues, ferrariChampions2026 |
 | lol-t1-hle1-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026, jtwyslljy |
@@ -67,6 +68,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 4. | Over (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 5. | Over (BUY) | 31% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Cerezo Ōsaka (-1.5) | Cerezo Ōsaka (BUY) | 37% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 1.5 | Over (BUY) | 79% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 4. | Over (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Vissel Kōbe (-1.5) | Vissel Kōbe (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Fagiano Okayama win on 2026-08-08? | Yes (BUY) | 12% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-2.5) | JEF United Ichihara Chiba (BUY) | 56% | 0.00 | ⏳ pendiente | — |
@@ -92,8 +98,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Vissel Kōbe win on 2026-08-08? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kashiwa Reysol vs. FC Mito Holly Hock: O | Over (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Vissel Kōbe (-1.5) | Avispa Fukuoka (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will FC Mito Holly Hock win on 2026-08-0 | No (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| jtwyslljy | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 6% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 2. | Over (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Kashiwa Reysol (-1.5) | Kashiwa Reysol (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Kashiwa Reysol vs. FC Mito Holly Hock: O | Over (BUY) | 68% | 0.00 | ⏳ pendiente | — |
