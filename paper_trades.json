@@ -15520,8 +15520,8 @@
     "whale_pct": 23.091,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 34,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786221105.4555078,
@@ -15540,7 +15540,7 @@
     "whale_pct": 19.758,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 36,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -16164,8 +16164,8 @@
     "whale_pct": 0.126,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Talvez10"
     ],
@@ -16497,8 +16497,8 @@
     "whale_pct": 2.768,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 34,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Talvez10"
     ],
@@ -16519,8 +16519,8 @@
     "whale_pct": 13.945,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 34,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -16794,8 +16794,8 @@
     "whale_pct": 0.772,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 34,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Talvez10",
       "ferrariChampions2026"
@@ -16903,8 +16903,8 @@
     "whale_pct": 0.117,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 34,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Talvez10",
       "quavoo"
@@ -17013,8 +17013,8 @@
     "whale_pct": 2.891,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 34,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Talvez10",
       "quavoo"
@@ -17415,8 +17415,8 @@
     "whale_pct": 1.397,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 34,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Talvez10",
       "quavoo"
@@ -17458,8 +17458,8 @@
     "whale_pct": 2.785,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 34,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Talvez10",
       "quavoo"
@@ -19831,14 +19831,15 @@
     "whale_pct": 116.301,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786226183.184151,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 98
   },
   {
     "timestamp": 1786226198,
@@ -19853,14 +19854,15 @@
     "whale_pct": 34.876,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 82,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786226198.491343,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 98
   },
   {
     "timestamp": 1786226225,
@@ -19959,14 +19961,15 @@
     "whale_pct": 5.672,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 86,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786226530.3532531,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 98
   },
   {
     "timestamp": 1786226599,
@@ -20203,6 +20206,114 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786226950.8244746,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786227017,
+    "timestamp_added": 1786227018.2042391,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lec-orl-leo-2026-08-08-spread-away-1pt5",
+    "title": "Spread: Club Le\u00f3n FC (-1.5)",
+    "outcome": "Orlando City SC",
+    "side": "BUY",
+    "whale_usd": 2807.9,
+    "whale_pct": 2.198,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786227018.9187846,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786227056,
+    "timestamp_added": 1786227056.7986274,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lec-rsl-atla-2026-08-08-atla",
+    "title": "Will Atlante FC win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 174.09,
+    "whale_pct": 0.133,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 21,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786227056.7986376,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786227081,
+    "timestamp_added": 1786227081.9021418,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-oak-bos-2026-08-08-spread-away-2pt5",
+    "title": "Spread: Athletics (-2.5)",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "whale_usd": 3383.59668,
+    "whale_pct": 0.656,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786227081.9021552,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786227083,
+    "timestamp_added": 1786227083.895739,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-c9-dsg-2026-08-08",
+    "title": "LoL: Cloud9 vs Disguised (BO3) - LCS Regular Season",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "whale_usd": 2143.692,
+    "whale_pct": 38.074,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786227083.8957522,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786227099,
+    "timestamp_added": 1786227100.0390687,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-oak-bos-2026-08-08-spread-away-1pt5",
+    "title": "Spread: Athletics (-1.5)",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "whale_usd": 813.956,
+    "whale_pct": 0.153,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 22,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "HomeRunHazard",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786227100.0390804,
     "fills": 1
   }
 ]
