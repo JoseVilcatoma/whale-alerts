@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:27:57 (hora de Perú)
+Actualizado: 2026-08-08 15:29:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -20,17 +20,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 5 | 4 | 22 | +8.84 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| Talvez10 | 0 | 0 | 5 | +0.00 USD |
+| Talvez10 | 0 | 0 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 4 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 8 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 4 | -12.25 USD |
+| 1winstreak1 | 0 | 3 | 5 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 164 | 138 | 26 | -75.22 USD |
+| ferrariChampions2026 | 166 | 138 | 26 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 1 | -303.20 USD |
 
@@ -64,7 +64,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-laa-mia-2026-08-08-total-8pt5 | HomeRunHazard, quavoo |
 | jap-avi-vis-2026-08-08-spread-away-1pt5 | UpTheBlues, ferrariChampions2026 |
 | mlb-oak-bos-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard |
-| mlb-tor-phi-2026-08-08-total-9pt5 | HomeRunHazard, Talvez10 |
+| mlb-tor-phi-2026-08-08-total-9pt5 | HomeRunHazard, Talvez10, ferrariChampions2026 |
 | mlb-lad-ari-2026-08-08-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-185pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-184pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -88,6 +88,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-svd-ksv-2026-08-08-total-3pt5 | RN1, ferrariChampions2026 |
 | bl2-ksc-bie-2026-08-08-total-5pt5 | RN1, ferrariChampions2026 |
 | lol-blg-edg-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
+| mlb-atl-nyy-2026-08-08-total-7pt5 | 1winstreak1, HomeRunHazard |
 | lol-dk-kt-2026-08-09 | StasPanda, TAIWANNUMBERONE |
 | wnba-ind-chi-2026-08-08-total-190pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-spread-home-4pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -105,6 +106,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| Talvez10 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Valencia CF win on 2026-08-08? | No (BUY) | 89% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Grêmio FBPA win on 2026-08-08? | No (BUY) | 74% | 0.00 | ⏳ pendiente | — |
@@ -131,7 +136,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 87% | 2.08 | ⏳ pendiente | — |
 | ferrariChampions2026 | Real Betis Seville vs. AFC Bournemouth:  | Under (BUY) | 57% | 0.53 | ⏳ pendiente | — |
 | ferrariChampions2026 | Real Betis Seville vs. AFC Bournemouth:  | Under (BUY) | 56% | 0.70 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 90% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will VfL Wolfsburg win on 2026-08-08? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will VfL Wolfsburg win on 2026-08-08? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Grêmio FBPA win on 2026-08-08? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |

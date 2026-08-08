@@ -2905,6 +2905,16 @@
       "timestamp": 1786220601.3534691,
       "bankroll": 473.93,
       "event": "lost: ferrariChampions2026 \u2014 Will CD Riestra win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786220915.0787852,
+      "bankroll": 473.93,
+      "event": "won: ferrariChampions2026 \u2014 Will Colchester United FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786220915.56432,
+      "bankroll": 473.93,
+      "event": "won: ferrariChampions2026 \u2014 Will Colchester United FC vs. Southampton FC end in a draw?"
     }
   ]
 }
