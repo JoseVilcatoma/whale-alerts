@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 18:20:36 (hora de Perú)
+Actualizado: 2026-08-08 18:22:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $469.31
@@ -14,18 +14,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | quavoo | 7 | 5 | 79 | +22.29 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 40 | 29 | 2 | +17.31 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 40 | 29 | 3 | +17.31 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 29 | 24 | 35 | +16.40 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 28 | 18 | +7.78 USD |
+| UpTheBlues | 39 | 28 | 23 | +7.78 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 26 | 28 | 7 | -8.77 USD |
+| 1winstreak1 | 28 | 28 | 5 | -8.77 USD |
 | wr0ngw4yb3tt0r | 17 | 16 | 11 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 15 | 13 | 13 | -21.10 USD |
@@ -125,8 +125,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-c9-dsg-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | mlb-laa-mia-2026-08-08-total-9pt5 | 1winstreak1, ferrariChampions2026 |
 | arg-tig-riv-2026-08-08-tig | RN1, ferrariChampions2026 |
+| arg-boc-vel-2026-08-08-spread-home-1pt5 | RN1, UpTheBlues |
 | arg-tig-riv-2026-08-08-total-1pt5 | RN1, ferrariChampions2026 |
-| lec-orl-leo-2026-08-08-orl | ferrariChampions2026, quavoo |
+| lec-orl-leo-2026-08-08-orl | UpTheBlues, ferrariChampions2026, quavoo |
 | mlb-oak-bos-2026-08-08-total-10pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-nym-pit-2026-08-08-total-7pt5 | HomeRunHazard, quavoo |
 | mlb-cin-wsh-2026-08-08-total-8pt5 | HomeRunHazard, ferrariChampions2026 |
@@ -141,6 +142,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs Shopify Rebellion - Ga | Sentinels (BUY) | 63% | 1.31 | ⏳ pendiente | — |
+| UpTheBlues | CA Boca Juniors vs. CA Vélez Sarsfield:  | Under (BUY) | 60% | 4.22 | ⏳ pendiente | — |
+| UpTheBlues | Will Orlando City SC win on 2026-08-08? | No (BUY) | 32% | 1.40 | ⏳ pendiente | — |
+| UpTheBlues | Spread: Associação Chapecoense de Futebo | Coritiba FBC (BUY) | 99% | 0.57 | ⏳ pendiente | — |
+| UpTheBlues | Spread: CA Boca Juniors (-1.5) | CA Vélez Sarsfield (BUY) | 82% | 0.69 | ⏳ pendiente | — |
+| UpTheBlues | Will Clube do Remo win on 2026-08-08? | No (BUY) | 93% | 5.03 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Kansas City Royals (-1.5) | Chicago Cubs (BUY) | 68% | 11.12 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Associação Chapecoense de Futebo | Coritiba FBC (BUY) | 99% | 7.58 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 3.5 Rounds | Over (BUY) | 56% | 5.18 | ⏳ pendiente | — |
@@ -165,9 +172,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Clube do Remo vs. CA Mineiro: O/U 5.5 | Under (BUY) | 91% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Fluminense FC win on 2026-08-08? | No (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Bruno Lopes vs. Diyar N | Diyar Nurgozhay (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs Shopify Rebellion - Ga | Sentinels (BUY) | 77% | 10.71 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Botafogo FR win on 2026-08-08? | Yes (BUY) | 41% | 12.72 | ⏳ pendiente | — |
-| RN1 | Athletics vs. Boston Red Sox: O/U 9.5 | Over (BUY) | 34% | 0.74 | ✅ ganada | +1.44 |
-| Talvez10 | Jordan Walker: Home Runs O/U 0.5 | Under (BUY) | 82% | 11.21 | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 45% | 1.03 | ✅ ganada | +1.26 |

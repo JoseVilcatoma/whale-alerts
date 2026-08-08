@@ -3925,6 +3925,16 @@
       "timestamp": 1786231228.9298353,
       "bankroll": 469.31,
       "event": "won: RN1 \u2014 Athletics vs. Boston Red Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786231271.4394345,
+      "bankroll": 469.31,
+      "event": "won: 1winstreak1 \u2014 Spread: Boston Red Sox (-2.5)"
+    },
+    {
+      "timestamp": 1786231273.1424778,
+      "bankroll": 469.31,
+      "event": "won: 1winstreak1 \u2014 Spread: Boston Red Sox (-2.5)"
     }
   ]
 }
