@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 14:46:59 (hora de Perú)
+Actualizado: 2026-08-08 14:49:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $470.02
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 152 | 134 | 45 | -76.06 USD |
+| ferrariChampions2026 | 152 | 134 | 46 | -76.06 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 2 | -303.20 USD |
 
@@ -109,6 +109,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 50% | 0.61 | ⏳ pendiente | — |
 | UpTheBlues | Will São Paulo FC win on 2026-08-08? | No (BUY) | 78% | 2.52 | ⏳ pendiente | — |
 | ferrariChampions2026 | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 47% | 0.59 | ⏳ pendiente | — |
 | UpTheBlues | Will São Paulo FC win on 2026-08-08? | No (BUY) | 78% | 1.29 | ⏳ pendiente | — |
@@ -138,4 +139,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Estudiantes de La Plata win on 2026 | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: Sinners vs EYEBALLERS (B | EYEBALLERS (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will PSV win on 2026-08-08? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CD Riestra win on 2026-08-08? | Yes (BUY) | 79% | 0.00 | ⏳ pendiente | — |

@@ -16272,5 +16272,28 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786218409.3337839,
     "fills": 2
+  },
+  {
+    "timestamp": 1786218519,
+    "timestamp_added": 1786218519.96705,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-ind-chi-2026-08-08-total-190pt5",
+    "title": "Indiana Fever vs. Chicago Sky: O/U 190.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 578.1,
+    "whale_pct": 0.131,
+    "paper_stake_usd": 0.61,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786218519.9670563,
+    "fills": 1
   }
 ]
