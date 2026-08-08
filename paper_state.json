@@ -1,5 +1,5 @@
 {
-  "bankroll": 982.410232697695,
+  "bankroll": 956.4879838610279,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -475,6 +475,101 @@
       "timestamp": 1786171351.2393603,
       "bankroll": 982.41,
       "event": "won: UpTheBlues \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 3.5"
+    },
+    {
+      "timestamp": 1786171410.108088,
+      "bankroll": 982.51,
+      "event": "won: ferrariChampions2026 \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 1.5"
+    },
+    {
+      "timestamp": 1786171410.2082982,
+      "bankroll": 982.63,
+      "event": "won: ferrariChampions2026 \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 1.5"
+    },
+    {
+      "timestamp": 1786171410.3084896,
+      "bankroll": 982.79,
+      "event": "won: ferrariChampions2026 \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 1.5"
+    },
+    {
+      "timestamp": 1786171410.7608752,
+      "bankroll": 981.76,
+      "event": "lost: UpTheBlues \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 4.5"
+    },
+    {
+      "timestamp": 1786171412.7640905,
+      "bankroll": 981.92,
+      "event": "won: ferrariChampions2026 \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 4.5"
+    },
+    {
+      "timestamp": 1786171412.9644504,
+      "bankroll": 980.69,
+      "event": "lost: UpTheBlues \u2014 Vancouver Whitecaps FC vs. FC Ju\u00e1rez: O/U 4.5"
+    },
+    {
+      "timestamp": 1786171470.8067863,
+      "bankroll": 977.44,
+      "event": "lost: ferrariChampions2026 \u2014 Will Vancouver Whitecaps FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786171471.2900422,
+      "bankroll": 973.95,
+      "event": "lost: UpTheBlues \u2014 Spread: FC Ju\u00e1rez (-1.5)"
+    },
+    {
+      "timestamp": 1786171471.7438061,
+      "bankroll": 974.27,
+      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC vs. FC Ju\u00e1rez end in a draw?"
+    },
+    {
+      "timestamp": 1786171472.643472,
+      "bankroll": 970.91,
+      "event": "lost: ferrariChampions2026 \u2014 Will Vancouver Whitecaps FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786171472.743646,
+      "bankroll": 969.43,
+      "event": "lost: ferrariChampions2026 \u2014 Will Vancouver Whitecaps FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786171472.8438516,
+      "bankroll": 969.95,
+      "event": "won: ferrariChampions2026 \u2014 Will Vancouver Whitecaps FC vs. FC Ju\u00e1rez end in a draw?"
+    },
+    {
+      "timestamp": 1786171472.9440572,
+      "bankroll": 967.25,
+      "event": "lost: ferrariChampions2026 \u2014 Will Vancouver Whitecaps FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786171473.4449794,
+      "bankroll": 966.25,
+      "event": "lost: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786171473.6453493,
+      "bankroll": 963.97,
+      "event": "lost: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-07?"
+    },
+    {
+      "timestamp": 1786171473.7456048,
+      "bankroll": 961.79,
+      "event": "lost: UpTheBlues \u2014 Will Vancouver Whitecaps FC vs. FC Ju\u00e1rez end in a draw?"
+    },
+    {
+      "timestamp": 1786171473.9459963,
+      "bankroll": 960.3,
+      "event": "lost: UpTheBlues \u2014 Spread: FC Ju\u00e1rez (-1.5)"
+    },
+    {
+      "timestamp": 1786171474.0461605,
+      "bankroll": 958.87,
+      "event": "lost: UpTheBlues \u2014 Spread: FC Ju\u00e1rez (-1.5)"
+    },
+    {
+      "timestamp": 1786171474.2464743,
+      "bankroll": 956.49,
+      "event": "lost: UpTheBlues \u2014 Spread: FC Ju\u00e1rez (-1.5)"
     }
   ]
 }

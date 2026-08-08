@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 01:42:48 (hora de Perú)
+Actualizado: 2026-08-08 01:44:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $982.41
-**Retorno acumulado:** -1.76%
+**Bankroll actual:** $956.49
+**Retorno acumulado:** -4.35%
 **Peor caída desde un máximo (drawdown):** 5.98%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,18 +13,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| UpTheBlues | 10 | 3 | 33 | +24.87 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
+| UpTheBlues | 11 | 12 | 23 | +8.68 USD |
 | greyoctober | 0 | 0 | 7 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 28 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 29 | +0.00 USD |
 | quavoo | 0 | 0 | 24 | +0.00 USD |
 | fRibrenlc | 0 | 0 | 13 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 17 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 18 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
-| ferrariChampions2026 | 26 | 14 | 11 | -48.78 USD |
+| ferrariChampions2026 | 31 | 18 | 2 | -58.50 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -55,6 +55,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 1.73 | ⏳ pendiente | — |
+| HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 192.5 | Under (BUY) | 55% | 3.41 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 30% | 1.02 | ⏳ pendiente | — |
 | Talvez10 | O/U 1.5 Rounds | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: EYEBALLERS vs Phantom (B | EYEBALLERS (BUY) | 54% | 51.51 | ⏳ pendiente | — |
@@ -83,5 +85,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | FK Lokomotiv Moskva vs. FK Akron Tolyatt | Under (BUY) | 23% | 0.98 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 19.20 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Weibo Gaming vs LNG Esports - Game  | LNG Esports (BUY) | 35% | 1.27 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Cerezo Ōsaka (-1.5) | Fagiano Okayama (BUY) | 76% | 4.22 | ⏳ pendiente | — |
-| UpTheBlues | Hokkaidō Consadole Sapporo vs. Tokushima | Under (BUY) | 50% | 6.77 | ⏳ pendiente | — |
