@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 18:22:37 (hora de Perú)
+Actualizado: 2026-08-08 18:24:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $469.31
@@ -25,13 +25,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 28 | 28 | 5 | -8.77 USD |
-| wr0ngw4yb3tt0r | 17 | 16 | 11 | -10.57 USD |
+| 1winstreak1 | 28 | 29 | 4 | -8.77 USD |
+| wr0ngw4yb3tt0r | 18 | 16 | 10 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 15 | 13 | 13 | -21.10 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 195 | 166 | 39 | -70.25 USD |
+| ferrariChampions2026 | 195 | 167 | 39 | -70.25 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 8 | -303.20 USD |
 
@@ -137,11 +137,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | arg-boc-vel-2026-08-08-total-2pt5 | UpTheBlues, ferrariChampions2026 |
 | arg-boc-vel-2026-08-08-vel | RN1, UpTheBlues, ferrariChampions2026 |
 | bra-cre-cam-2026-08-08-cre | RN1, UpTheBlues |
+| lec-orl-leo-2026-08-08-total-1pt5 | UpTheBlues, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Orlando City SC vs. Club León FC: O/U 1. | Over (BUY) | 87% | 0.56 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs Shopify Rebellion - Ga | Sentinels (BUY) | 63% | 1.31 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. CA Vélez Sarsfield:  | Under (BUY) | 60% | 4.22 | ⏳ pendiente | — |
 | UpTheBlues | Will Orlando City SC win on 2026-08-08? | No (BUY) | 32% | 1.40 | ⏳ pendiente | — |
@@ -171,4 +173,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Orlando City SC vs. Club León FC: 1st Ha | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Clube do Remo vs. CA Mineiro: O/U 5.5 | Under (BUY) | 91% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Fluminense FC win on 2026-08-08? | No (BUY) | 71% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Bruno Lopes vs. Diyar N | Diyar Nurgozhay (BUY) | 61% | 0.00 | ⏳ pendiente | — |

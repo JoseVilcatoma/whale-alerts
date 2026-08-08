@@ -15800,7 +15800,7 @@
     "whale_pct": 0.307,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -18683,8 +18683,8 @@
     "whale_pct": 0.792,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786224609.6311953,
@@ -18925,8 +18925,8 @@
     "whale_pct": 0.1,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 39,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -21774,6 +21774,28 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786231284.260985,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786231374,
+    "timestamp_added": 1786231375.0376427,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-orl-leo-2026-08-08-total-1pt5",
+    "title": "Orlando City SC vs. Club Le\u00f3n FC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 876.6903000000001,
+    "whale_pct": 0.129,
+    "paper_stake_usd": 0.56,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786231375.037653,
     "fills": 1
   }
 ]

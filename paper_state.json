@@ -3935,6 +3935,21 @@
       "timestamp": 1786231273.1424778,
       "bankroll": 469.31,
       "event": "won: 1winstreak1 \u2014 Spread: Boston Red Sox (-2.5)"
+    },
+    {
+      "timestamp": 1786231392.5330799,
+      "bankroll": 469.31,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Boston Red Sox (-3.5)"
+    },
+    {
+      "timestamp": 1786231459.8040264,
+      "bankroll": 469.31,
+      "event": "lost: 1winstreak1 \u2014 Athletics vs. Boston Red Sox: O/U 10.5"
+    },
+    {
+      "timestamp": 1786231460.4049637,
+      "bankroll": 469.31,
+      "event": "lost: ferrariChampions2026 \u2014 Athletics vs. Boston Red Sox: O/U 10.5"
     }
   ]
 }
