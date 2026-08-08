@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 12:01:34 (hora de Perú)
+Actualizado: 2026-08-08 12:03:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $632.94
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| StasPanda | 0 | 0 | 5 | +0.00 USD |
+| StasPanda | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 6 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 61 | -3.99 USD |
 | RN1 | 8 | 7 | 2 | -5.53 USD |
@@ -89,6 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| StasPanda | LoL: ThunderTalk Gaming vs Top Esports ( | Top Esports (BUY) | 75% | 0.63 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Indiana Fever vs. Chicago Sky: O/U 190.5 | Under (BUY) | 48% | 0.97 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 56% | 4.26 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 2 | Natus Vincere (BUY) | 54% | 0.00 | ⏳ pendiente | — |
@@ -118,4 +119,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Natus Vincere - Game 1 | Natus Vincere (BUY) | 63% | 98.64 | 💰 vendida anticipada | +48.54 |
 | HomeRunHazard | Indiana Fever vs. Chicago Sky: O/U 191.5 | Under (BUY) | 55% | 1.34 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Minnesota Lynx (-4.5) | Las Vegas Aces (BUY) | 49% | 3.69 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 49% | 9.01 | ⏳ pendiente | — |
