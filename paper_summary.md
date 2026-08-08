@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 19:41:14 (hora de Perú)
+Actualizado: 2026-08-07 19:43:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.75
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 47 | 22 | 19 | -86.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 312 | 181 | 121 | -99.73 USD |
+| swisstony | 312 | 181 | 124 | -99.73 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -79,6 +79,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | CA Ferrocarril Midland vs. CD Maipu: O/U | Under (BUY) | 100% | 4.99 | ⏳ pendiente | — |
+| swisstony | Charlotte FC vs. Atlas FC: O/U 1.5 | Over (BUY) | 38% | 1.03 | ⏳ pendiente | — |
+| swisstony | Will Charlotte FC win on 2026-08-07? | No (BUY) | 65% | 1.82 | ⏳ pendiente | — |
 | swisstony | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 55% | 0.95 | ⏳ pendiente | — |
 | swisstony | Atlanta Dream vs. Washington Mystics | Washington Mystics (BUY) | 74% | 6.37 | ⏳ pendiente | — |
 | swisstony | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 81% | 1.83 | ⏳ pendiente | — |
@@ -106,6 +109,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Atlanta Dream vs. Washington Mystics: O/ | Under (BUY) | 80% | 1.88 | ⏳ pendiente | — |
 | swisstony | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 93% | 10.65 | ⏳ pendiente | — |
 | swisstony | Spread: Phoenix Mercury (-6.5) | Phoenix Mercury (BUY) | 70% | 1.17 | ⏳ pendiente | — |
-| swisstony | Will CA Rosario Central win on 2026-08-0 | Yes (BUY) | 92% | 6.37 | ⏳ pendiente | — |
-| swisstony | Will São Bernardo FC win on 2026-08-07? | Yes (BUY) | 87% | 0.99 | ⏳ pendiente | — |
-| swisstony | Will Operário Ferroviário EC vs. São Ber | No (BUY) | 85% | 2.96 | ⏳ pendiente | — |
