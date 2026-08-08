@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:06:14 (hora de Perú)
+Actualizado: 2026-08-08 06:08:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.76
@@ -27,8 +27,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
-| UpTheBlues | 16 | 18 | 26 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 153 | -67.78 USD |
+| UpTheBlues | 16 | 18 | 29 | -9.46 USD |
+| ferrariChampions2026 | 31 | 20 | 159 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -72,6 +72,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Karlsruher SC win on 2026-08-08? | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | SV Darmstadt 98 vs. Holstein Kiel: Holst | Over (BUY) | 97% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: Nantong Zhiyun (-1.5) | Nanjing City (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Nagoya Grampus vs. Shimizu S-Pulse: O/U  | Over (BUY) | 23% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Sanfrecce Hiroshima vs. JEF United Ichih | Under (BUY) | 89% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Karlsruher SC vs. DSC Arminia Bielefeld: | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | SV Darmstadt 98 vs. Holstein Kiel: O/U 2 | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Karlsruher SC vs. DSC Arminia Bielefeld: | Over (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
@@ -93,12 +102,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Nantong Zhiyun win on 2026-08-08? | No (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Shijiazhuang Gongfu FC win on 2026- | No (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Sanfrecce Hiroshima vs. JEF United Ichih | No (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| StasPanda | Counter-Strike: Procyon Gaming vs ODDIK  | ODDIK Academy (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 97% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Sanfrecce Hiroshima vs. JEF United Ichih | Yes (BUY) | 97% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Sanfrecce Hiroshima vs. JEF United Ichih | Under (BUY) | 36% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 89% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Sanfrecce Hiroshima vs. JEF United Ichih | Under (BUY) | 65% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-2.5) | Sanfrecce Hiroshima (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 85% | 0.00 | ⏳ pendiente | — |
