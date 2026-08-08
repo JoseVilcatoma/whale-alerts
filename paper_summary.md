@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 16:09:32 (hora de Perú)
+Actualizado: 2026-08-08 16:11:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 27 | 13 | 18 | +57.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 28 | 13 | 19 | +57.73 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | UpTheBlues | 39 | 27 | 6 | +9.02 USD |
@@ -25,12 +25,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 4 | 7 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 11 | -11.76 USD |
-| 1winstreak1 | 0 | 3 | 28 | -12.25 USD |
+| 1winstreak1 | 0 | 3 | 29 | -12.25 USD |
 | ThornyDevil | 3 | 2 | 4 | -16.40 USD |
 | RN1 | 8 | 9 | 1 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 166 | 138 | 53 | -75.22 USD |
+| ferrariChampions2026 | 168 | 139 | 51 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 4 | -303.20 USD |
 
@@ -105,6 +105,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-las-min-2026-08-08-total-182pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | lol-c9-dsg-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | cs2-ice-is-2026-08-09 | StasPanda, quavoo |
+| cs2-9ine-hotu-2026-08-09 | 1winstreak1, StasPanda |
 | ufc-gcanut-car24-2026-08-08 | Talvez10, ferrariChampions2026, quavoo |
 | ufc-gcanut-car24-2026-08-08-totals-2pt5 | Talvez10, wr0ngw4yb3tt0r |
 | mlb-laa-mia-2026-08-08-total-7pt5 | 1winstreak1, ferrariChampions2026 |
@@ -114,6 +115,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised (BO3) - LCS Reg | Cloud9 (BUY) | 96% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Counter-Strike: 9INE vs HOTU (BO3) - Esp | 9INE (BUY) | 37% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 91% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Disguised - Game 2 Winner | Cloud9 (BUY) | 69% | 0.00 | 💰 vendida anticipada | +0.00 |
 | ferrariChampions2026 | Indiana Fever vs. Chicago Sky | Indiana Fever (BUY) | 91% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: New York Yankees (-1.5) | Atlanta Braves (BUY) | 31% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
@@ -140,7 +145,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| Talvez10 | UFC Fight Night: Juliana Miller vs. Rave | Juliana Miller (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.00 | ⏳ pendiente | — |
