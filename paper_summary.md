@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:52:28 (hora de Perú)
+Actualizado: 2026-08-08 06:54:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $872.08
@@ -24,13 +24,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
 | StasPanda | 0 | 0 | 4 | +0.00 USD |
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
-| Spicer | 0 | 0 | 2 | +0.00 USD |
+| Spicer | 0 | 0 | 3 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 11 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 31 | -9.46 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
-| ferrariChampions2026 | 32 | 20 | 224 | -67.78 USD |
+| ferrariChampions2026 | 32 | 20 | 226 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -79,6 +79,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Spicer | Game Handicap: BLG (-1.5) vs EDward Gami | Bilibili Gaming (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Holstein Kiel (-1.5) | SV Darmstadt 98 (BUY) | 44% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Bucheon FC 1995 win on 2026-08-08? | No (BUY) | 65% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vålerenga Fotball vs. FK Bodø/Glimt: O/U | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Bucheon FC 1995 vs. Gwangju FC: O/U 0.5 | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | Spicer | Game Handicap: BLG (-1.5) vs EDward Gami | Bilibili Gaming (BUY) | 67% | 0.00 | ⏳ pendiente | — |
@@ -106,6 +109,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 83% | 2.35 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Cerezo Ōsaka win on 2026-08-08? | No (BUY) | 25% | 1.30 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 83% | 0.90 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will 1. FC Heidenheim 1846 win on 2026-0 | No (BUY) | 47% | 2.99 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Holstein Kiel (-1.5) | SV Darmstadt 98 (BUY) | 74% | 2.63 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Sanfrecce Hiroshima vs. JEF United  | No (BUY) | 90% | 3.17 | ⏳ pendiente | — |
