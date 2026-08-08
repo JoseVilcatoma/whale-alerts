@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 23:16:06 (hora de Perú)
+Actualizado: 2026-08-07 23:18:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $961.39
@@ -16,8 +16,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 0 | 0 | 4 | +0.00 USD |
-| HomeRunHazard | 0 | 0 | 5 | +0.00 USD |
-| UpTheBlues | 0 | 0 | 29 | +0.00 USD |
+| HomeRunHazard | 0 | 0 | 6 | +0.00 USD |
+| UpTheBlues | 0 | 0 | 33 | +0.00 USD |
 | 0x4f2 | 2 | 8 | 17 | -3.13 USD |
 | ferrariChampions2026 | 1 | 5 | 44 | -35.50 USD |
 
@@ -30,6 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tor-phi-2026-08-07-total-7pt5 | 0x4f2, ferrariChampions2026 |
 | lec-vwh-jua-2026-08-07-total-2pt5 | UpTheBlues, ferrariChampions2026 |
 | mlb-lad-ari-2026-08-07-total-6pt5 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-lad-ari-2026-08-07-total-5pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-lad-ari-2026-08-07-spread-home-1pt5 | 0x4f2, ferrariChampions2026 |
 | mlb-tor-phi-2026-08-07-spread-away-1pt5 | 0x4f2, ferrariChampions2026 |
 | lec-vwh-jua-2026-08-07-total-3pt5 | UpTheBlues, ferrariChampions2026 |
@@ -45,6 +46,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Spread: FC Juárez (-1.5) | Vancouver Whitecaps FC (BUY) | 93% | 2.38 | ⏳ pendiente | — |
+| UpTheBlues | Will FC Juárez win on 2026-08-07? | Yes (BUY) | 52% | 3.26 | ⏳ pendiente | — |
+| HomeRunHazard | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 75% | 2.49 | ⏳ pendiente | — |
+| UpTheBlues | Spread: FC Juárez (-1.5) | Vancouver Whitecaps FC (BUY) | 93% | 1.43 | ⏳ pendiente | — |
+| UpTheBlues | Spread: FC Juárez (-1.5) | Vancouver Whitecaps FC (BUY) | 94% | 1.49 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Juárez win on 2026-08-07? | Yes (BUY) | 49% | 10.94 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC vs. FC Juáre | Yes (BUY) | 33% | 2.18 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 13% | 2.28 | ⏳ pendiente | — |
@@ -70,8 +76,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Vancouver Whitecaps FC vs. FC Juáre | No (BUY) | 66% | 1.01 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 37% | 1.01 | ⏳ pendiente | — |
 | 0x4f2 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 50% | 2.28 | ⏳ pendiente | — |
-| UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 38% | 1.52 | ⏳ pendiente | — |
-| 0x4f2 | Spread: Houston Astros (-2.5) | Houston Astros (BUY) | 25% | 1.90 | ⏳ pendiente | — |
-| 0x4f2 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 56% | 2.29 | ⏳ pendiente | — |
-| 0x4f2 | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 22% | 2.01 | ⏳ pendiente | — |
-| 0x4f2 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 81% | 2.29 | ⏳ pendiente | — |
