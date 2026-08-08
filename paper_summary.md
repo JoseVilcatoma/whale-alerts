@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 18:55:47 (hora de Perú)
+Actualizado: 2026-08-08 18:57:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $469.84
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 29 | 24 | 35 | +16.40 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 28 | 26 | +7.78 USD |
+| UpTheBlues | 39 | 28 | 28 | +7.78 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | 1winstreak1 | 28 | 29 | 6 | -8.77 USD |
-| wr0ngw4yb3tt0r | 18 | 16 | 10 | -10.57 USD |
+| wr0ngw4yb3tt0r | 18 | 16 | 11 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 19 | 15 | 7 | -21.10 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -143,6 +143,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | O/U 2.5 Rounds | Under (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Orlando City SC vs. Club León FC: O/U 1. | Under (BUY) | 19% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Associação Chapecoense de Futebol w | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Orlando City SC vs. Club León FC: O/U 1. | Under (BUY) | 19% | 0.56 | ⏳ pendiente | — |
@@ -170,6 +173,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | UFC Fight Night: Bruno Lopes vs. Diyar N | Diyar Nurgozhay (BUY) | 76% | 1.30 | ✅ ganada | +0.41 |
 | quavoo | Inter Miami CF vs. CF Monterrey: O/U 3.5 | Under (BUY) | 49% | 0.81 | ⏳ pendiente | — |
 | UpTheBlues | Clube do Remo vs. CA Mineiro: O/U 4.5 | Under (BUY) | 65% | 3.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 86% | 0.82 | ⏳ pendiente | — |
-| Bulls94 | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 47% | 7.06 | ⏳ pendiente | — |
-| UpTheBlues | Will Clube do Remo win on 2026-08-08? | Yes (BUY) | 9% | 0.00 | ⏳ pendiente | — |
