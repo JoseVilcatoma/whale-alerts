@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": 1786157243,
+    "timestamp_added": 1786157244.1014342,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-tor-phi-2026-08-07-spread-home-1pt5",
+    "title": "Spread: Philadelphia Phillies (-1.5)",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "whale_usd": 299.997,
+    "whale_pct": 0.207,
+    "paper_stake_usd": 2.07,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786157244.1014433,
+    "fills": 1
+  }
+]
