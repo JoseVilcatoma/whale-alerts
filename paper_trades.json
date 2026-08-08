@@ -4885,12 +4885,13 @@
     "whale_pct": 50.259,
     "paper_stake_usd": 68.28,
     "odds_at_bet": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -2.68,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786171785.2138052,
-    "fills": 3
+    "fills": 3,
+    "closed_price": 49
   },
   {
     "timestamp": 1786171780,
@@ -4911,5 +4912,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786171785.2677758,
     "fills": 2
+  },
+  {
+    "timestamp": 1786173623,
+    "timestamp_added": 1786173624.0679193,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-wb-lng-2026-08-08-game1",
+    "title": "LoL: Weibo Gaming vs LNG Esports - Game 1 Winner",
+    "outcome": "Weibo Gaming",
+    "side": "BUY",
+    "whale_usd": 249.39999999999998,
+    "whale_pct": 0.2,
+    "paper_stake_usd": 1.9,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786173624.0679295,
+    "fills": 1
   }
 ]

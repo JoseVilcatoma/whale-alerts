@@ -1,5 +1,5 @@
 {
-  "bankroll": 956.4879838610279,
+  "bankroll": 953.8103368022045,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -570,6 +570,11 @@
       "timestamp": 1786171474.2464743,
       "bankroll": 956.49,
       "event": "lost: UpTheBlues \u2014 Spread: FC Ju\u00e1rez (-1.5)"
+    },
+    {
+      "timestamp": 1786173611.5417573,
+      "bankroll": 953.81,
+      "event": "venta anticipada: TAIWANNUMBERONE \u2014 LoL: T1 vs Hanwha Life Esports - Game 1 Winner (-2.68 USD)"
     }
   ]
 }
