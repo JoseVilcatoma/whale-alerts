@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 13:00:30 (hora de Perú)
+Actualizado: 2026-08-08 13:02:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $622.04
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 18 | 11 | 4 | +61.01 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 18 | 11 | 6 | +61.01 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | quavoo | 4 | 1 | 25 | +10.43 USD |
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 15 | -1.58 USD |
 | HomeRunHazard | 4 | 6 | 65 | -3.99 USD |
-| ThornyDevil | 3 | 2 | 0 | -16.40 USD |
+| ThornyDevil | 3 | 2 | 3 | -16.40 USD |
 | RN1 | 8 | 8 | 1 | -18.32 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
@@ -88,11 +88,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-las-min-2026-08-08-spread-home-5pt5 | HomeRunHazard, ferrariChampions2026 |
 | lol-sk-navi-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
 | wnba-las-min-2026-08-08 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
+| lol-mkoi-gx-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ThornyDevil | Game Handicap: MKOI (-1.5) vs GIANTX (+1 | Movistar KOI (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| ThornyDevil | LoL: Movistar KOI vs GIANTX - Game 1 Win | Movistar KOI (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 1 Win | GIANTX (BUY) | 32% | 0.00 | ⏳ pendiente | — |
+| ThornyDevil | Game Handicap: MKOI (-1.5) vs GIANTX (+1 | Movistar KOI (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 1 Win | GIANTX (BUY) | 32% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs GIANTX - Game 1 Win | GIANTX (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: Movistar KOI vs GIANTX (BO3) - LEC  | GIANTX (BUY) | 27% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CD Riestra vs. Estudiantes de La Plata:  | Over (BUY) | 81% | 0.00 | ⏳ pendiente | — |
@@ -118,8 +124,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Las Vegas Aces (BUY) | 37% | 2.59 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Minnesota Lynx (-4.5) | Las Vegas Aces (BUY) | 49% | 6.76 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 56% | 0.64 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Minnesota Lynx | Minnesota Lynx (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: RED Canids vs paiN Gaming - Game 2  | paiN Gaming (BUY) | 60% | 15.65 | 💰 vendida anticipada | -0.26 |
-| Talvez10 | O/U 2.5 Rounds | Over (BUY) | 36% | 1.34 | ⏳ pendiente | — |
-| HomeRunHazard | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 42% | 5.69 | ⏳ pendiente | — |
-| StasPanda | LoL: ThunderTalk Gaming vs Top Esports ( | Top Esports (BUY) | 75% | 0.63 | ⏳ pendiente | — |
