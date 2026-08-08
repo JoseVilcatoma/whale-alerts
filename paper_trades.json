@@ -13970,5 +13970,91 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786212768.8477805,
     "fills": 1
+  },
+  {
+    "timestamp": 1786212827,
+    "timestamp_added": 1786212828.0890749,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-las-min-2026-08-08-total-183pt5",
+    "title": "Las Vegas Aces vs. Minnesota Lynx: O/U 183.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 392.53803899999997,
+    "whale_pct": 0.271,
+    "paper_stake_usd": 0.99,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786212828.0890846,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786212840,
+    "timestamp_added": 1786212841.0850089,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-las-min-2026-08-08-total-185pt5",
+    "title": "Las Vegas Aces vs. Minnesota Lynx: O/U 185.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 226.60539999999997,
+    "whale_pct": 0.156,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786212841.0850198,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786212872,
+    "timestamp_added": 1786212872.5906389,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-las-min-2026-08-08-total-185pt5",
+    "title": "Las Vegas Aces vs. Minnesota Lynx: O/U 185.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 443.9712,
+    "whale_pct": 0.286,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786212877.4575493,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786212886,
+    "timestamp_added": 1786212886.6044984,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "arg-rie-est-2026-08-08-rie",
+    "title": "Will CD Riestra win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 723.0999999999999,
+    "whale_pct": 0.157,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786212886.6045086,
+    "fills": 1
   }
 ]
