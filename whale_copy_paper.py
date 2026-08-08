@@ -247,33 +247,42 @@ def get_leaderboard_period(period):
     return r.json()
 
 
-def get_alltime_realized_pnl(wallet, limit=500):
+def get_alltime_realized_pnl(wallet, max_positions=200):
     """Trae las posiciones ya CERRADAS (resueltas) de toda la vida de esa
-    wallet y suma su ganancia/pérdida realizada. A diferencia de exigir que
-    esté entre los N más grandes de la plataforma (lo que castigaba
-    injustamente a un especialista de nicho más chico pero consistente),
-    esto mide lo que de verdad importa: en su historial completo, ¿ganó
-    más de lo que perdió? Alguien como texaskid (-74.9% de ROI histórico)
-    da negativo acá aunque tenga un mes espectacular.
+    wallet y suma su ganancia/pérdida realizada. La API solo deja pedir
+    hasta 50 por página, así que pagino. Ordeno por fecha (no por PnL) para
+    no sesgar: si alguien tiene más de max_positions posiciones cerradas en
+    su vida, me quedo con las más RECIENTES, no con "las que más le
+    convienen mostrar" — pedir por PnL descendente escondería justo las
+    pérdidas grandes que este chequeo busca detectar.
     Devuelve (pnl_total, ganadas, perdidas) o None si falla la consulta."""
+    pnl_total = 0.0
+    ganadas = perdidas = 0
+    offset = 0
+    pagina = 50
     try:
-        r = requests.get(f"{DATA_API}/closed-positions", params={"user": wallet, "limit": limit}, timeout=15)
-        if not r.ok:
-            return None
-        positions = r.json()
-        if not isinstance(positions, list):
-            return None
-        pnl_total = 0.0
-        ganadas = perdidas = 0
-        for p in positions:
-            pnl_pos = p.get("realizedPnl")
-            if pnl_pos is None:
-                pnl_pos = p.get("cashPnl", 0) or 0
-            pnl_total += pnl_pos
-            if pnl_pos > 0:
-                ganadas += 1
-            elif pnl_pos < 0:
-                perdidas += 1
+        while offset < max_positions:
+            r = requests.get(
+                f"{DATA_API}/closed-positions",
+                params={"user": wallet, "limit": pagina, "offset": offset,
+                        "sortBy": "TIMESTAMP", "sortDirection": "DESC"},
+                timeout=15,
+            )
+            if not r.ok:
+                return None if offset == 0 else (pnl_total, ganadas, perdidas)
+            positions = r.json()
+            if not isinstance(positions, list) or not positions:
+                break
+            for p in positions:
+                pnl_pos = p.get("realizedPnl", 0) or 0
+                pnl_total += pnl_pos
+                if pnl_pos > 0:
+                    ganadas += 1
+                elif pnl_pos < 0:
+                    perdidas += 1
+            if len(positions) < pagina:
+                break  # ya no hay más páginas
+            offset += pagina
         return pnl_total, ganadas, perdidas
     except Exception as e:
         print(f"Error trayendo historial cerrado de {wallet}: {e}", file=sys.stderr)
