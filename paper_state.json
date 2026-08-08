@@ -1,5 +1,5 @@
 {
-  "bankroll": 582.145523282262,
+  "bankroll": 577.7055232822621,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -2050,6 +2050,36 @@
       "timestamp": 1786200202.518485,
       "bankroll": 582.15,
       "event": "lost: Djdjdjekekek \u2014 Counter-Strike: EYEBALLERS vs Phantom (BO3) - Esports World Cup Open Qualifier Group 10"
+    },
+    {
+      "timestamp": 1786200506.8124523,
+      "bankroll": 582.15,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786200506.9126055,
+      "bankroll": 582.15,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786200509.1370695,
+      "bankroll": 582.15,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786200509.2372687,
+      "bankroll": 582.15,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786200509.7435336,
+      "bankroll": 580.98,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786200512.9126406,
+      "bankroll": 577.71,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers - Game 1 Winner"
     }
   ]
 }
