@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 03:46:20 (hora de Perú)
+Actualizado: 2026-08-08 03:48:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $922.00
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 9 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 1 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 20 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 22 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | UpTheBlues | 14 | 18 | 14 | -16.52 USD |
 | ferrariChampions2026 | 31 | 20 | 3 | -67.78 USD |
@@ -59,6 +59,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Indiana Fever vs. Chicago Sky | Chicago Sky (BUY) | 32% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Indiana Fever (-5.5) | Chicago Sky (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Weibo Gaming vs LNG Esports (BO3) - | LNG Esports (BUY) | 1% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Weibo Gaming vs LNG Esports - Game  | LNG Esports (BUY) | 3% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 27% | 0.00 | ⏳ pendiente | — |
@@ -87,5 +89,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | O/U 1.5 Rounds | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: EYEBALLERS vs Phantom (B | EYEBALLERS (BUY) | 54% | 51.51 | ⏳ pendiente | — |
 | UpTheBlues | Will Eintracht Braunschweig win on 2026- | Yes (BUY) | 21% | 2.71 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 12.35 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: WB (-1.5) vs LNG Esports  | LNG Esports (BUY) | 56% | 14.61 | ⏳ pendiente | — |
