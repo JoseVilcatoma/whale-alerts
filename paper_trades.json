@@ -1275,5 +1275,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786160194.6056874,
     "fills": 1
+  },
+  {
+    "timestamp": 1786160247,
+    "timestamp_added": 1786160248.2574925,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-vwh-jua-2026-08-07-jua",
+    "title": "Will FC Ju\u00e1rez win on 2026-08-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 787.15,
+    "whale_pct": 0.274,
+    "paper_stake_usd": 2.73,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786160248.2575011,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786160250,
+    "timestamp_added": 1786160251.2172253,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-vwh-jua-2026-08-07-spread-home-1pt5",
+    "title": "Spread: Vancouver Whitecaps FC (-1.5)",
+    "outcome": "Vancouver Whitecaps FC",
+    "side": "BUY",
+    "whale_usd": 387.0,
+    "whale_pct": 0.135,
+    "paper_stake_usd": 1.34,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786160251.2172341,
+    "fills": 1
   }
 ]
