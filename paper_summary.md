@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 04:02:47 (hora de Perú)
+Actualizado: 2026-08-08 04:04:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $922.00
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 4 | 6 | 25 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | UpTheBlues | 14 | 18 | 14 | -16.52 USD |
-| ferrariChampions2026 | 31 | 20 | 6 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 7 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -61,6 +61,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 28% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: AL (-1.5) vs LGD Gaming ( | LGD Gaming (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Chicago White So | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
@@ -90,4 +91,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Weibo Gaming vs LNG Esports - Game  | Weibo Gaming (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Weibo Gaming vs LNG Esports (BO3) - | Weibo Gaming (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 27% | 0.00 | ⏳ pendiente | — |
