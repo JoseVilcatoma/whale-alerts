@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 23:47:22 (hora de Perú)
+Actualizado: 2026-08-07 23:49:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $940.23
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 1 | 0 | 1 | +5.41 USD |
 | RN1 | 2 | 0 | 2 | +0.37 USD |
-| greyoctober | 0 | 0 | 6 | +0.00 USD |
+| greyoctober | 0 | 0 | 7 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 33 | +0.00 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | 0x4f2 | 6 | 11 | 10 | -2.08 USD |
@@ -51,6 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| greyoctober | Valorant: KeepBest Gaming vs FunPlus Pho | FunPlus Phoenix (BUY) | 70% | 1.43 | ⏳ pendiente | — |
 | swisstony | Spread: Philadelphia Phillies (-1.5) | Toronto Blue Jays (BUY) | 58% | 1.38 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 53% | 4.64 | ⏳ pendiente | — |
 | swisstony | Spread: Philadelphia Phillies (-1.5) | Toronto Blue Jays (BUY) | 58% | 2.52 | ⏳ pendiente | — |
@@ -80,4 +81,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Under (BUY) | 26% | 1.74 | ⏳ pendiente | — |
 | ferrariChampions2026 | Vancouver Whitecaps FC vs. FC Juárez: O/ | Under (BUY) | 75% | 1.69 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Juárez win on 2026-08-07? | No (BUY) | 77% | 26.35 | ⏳ pendiente | — |
-| UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 21% | 2.02 | ⏳ pendiente | — |

@@ -2831,5 +2831,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786164189.4806652,
     "fills": 1
+  },
+  {
+    "timestamp": 1786164457,
+    "timestamp_added": 1786164457.3196115,
+    "username": "greyoctober",
+    "wallet": "0xc65ca4755436f82d8eb461e65781584b8cadea39",
+    "slug": "val-kbg-fpx-2026-08-08",
+    "title": "Valorant: KeepBest Gaming vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins",
+    "outcome": "FunPlus Phoenix",
+    "side": "BUY",
+    "whale_usd": 17.5,
+    "whale_pct": 0.152,
+    "paper_stake_usd": 1.43,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786164457.319622,
+    "fills": 1
   }
 ]
