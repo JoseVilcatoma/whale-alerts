@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 06:39:55 (hora de Perú)
+Actualizado: 2026-08-08 06:41:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $872.08
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 2 | 2 | 8 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 31 | -9.46 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
-| ferrariChampions2026 | 32 | 20 | 207 | -67.78 USD |
+| ferrariChampions2026 | 32 | 20 | 213 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -77,6 +77,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 90% | 3.27 | ⏳ pendiente | — |
+| ferrariChampions2026 | SV Darmstadt 98 vs. Holstein Kiel: O/U 1 | Over (BUY) | 89% | 3.62 | ⏳ pendiente | — |
+| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 69% | 2.69 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 84% | 2.62 | ⏳ pendiente | — |
+| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 70% | 2.73 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Jeonbuk Hyundai Motors FC win on 20 | No (BUY) | 74% | 4.56 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 83% | 2.35 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Cerezo Ōsaka win on 2026-08-08? | No (BUY) | 25% | 1.30 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 83% | 0.90 | ⏳ pendiente | — |
@@ -101,9 +107,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will VfL Osnabrück win on 2026-08-08? | Yes (BUY) | 18% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Avispa Fukuoka vs. Vissel Kōbe: O/U 2.5 | Over (BUY) | 20% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Vissel Kōbe (-1.5) | Vissel Kōbe (BUY) | 27% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 78% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Karlsruher SC vs. DSC Arminia Bielefeld: | Over (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cerezo Ōsaka vs. Fagiano Okayama: O/U 4. | Over (BUY) | 32% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will 1. FC Magdeburg win on 2026-08-08? | No (BUY) | 70% | 0.00 | ⏳ pendiente | — |
