@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 18:57:49 (hora de Perú)
+Actualizado: 2026-08-08 18:59:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $469.84
@@ -18,20 +18,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 29 | 24 | 35 | +16.40 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 28 | 28 | +7.78 USD |
+| UpTheBlues | 39 | 28 | 30 | +7.78 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 28 | 29 | 6 | -8.77 USD |
+| 1winstreak1 | 28 | 29 | 9 | -8.77 USD |
 | wr0ngw4yb3tt0r | 18 | 16 | 11 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 19 | 15 | 7 | -21.10 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 197 | 167 | 37 | -69.84 USD |
+| ferrariChampions2026 | 198 | 167 | 36 | -69.84 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 8 | -303.20 USD |
 
@@ -73,7 +73,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-las-min-2026-08-08-total-185pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-184pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-oak-bos-2026-08-08-spread-away-1pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
-| mlb-cle-cws-2026-08-08-total-7pt5 | HomeRunHazard, quavoo, wr0ngw4yb3tt0r |
+| mlb-cle-cws-2026-08-08-total-7pt5 | 1winstreak1, HomeRunHazard, quavoo, wr0ngw4yb3tt0r |
 | jap-cer-fag-2026-08-08-spread-home-1pt5 | UpTheBlues, ferrariChampions2026 |
 | cs2-eye-pha-2026-08-08 | Djdjdjekekek, TAIWANNUMBERONE, fRibrenlc |
 | jap-cer-fag-2026-08-08-cer | UpTheBlues, ferrariChampions2026 |
@@ -143,6 +143,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Orlando City SC vs. Club León FC: O/U 1. | Over (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: Associação Chapecoense de Futebo | Coritiba FBC (BUY) | 97% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Toronto Blue Jays (-1.5) | Philadelphia Phillies (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Cleveland Guardians (-1.5) | Chicago White Sox (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 2.5 Rounds | Under (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Orlando City SC vs. Club León FC: O/U 1. | Under (BUY) | 19% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Associação Chapecoense de Futebol w | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
@@ -168,8 +173,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will CD Coquimbo Unido vs. CD La Serena  | No (BUY) | 70% | 10.33 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 42% | 0.79 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 2.5 Rounds | Under (BUY) | 64% | 5.57 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Vélez Sarsfield win on 2026-08-0 | No (BUY) | 85% | 0.73 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 57% | 0.63 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Bruno Lopes vs. Diyar N | Diyar Nurgozhay (BUY) | 76% | 1.30 | ✅ ganada | +0.41 |
-| quavoo | Inter Miami CF vs. CF Monterrey: O/U 3.5 | Under (BUY) | 49% | 0.81 | ⏳ pendiente | — |
-| UpTheBlues | Clube do Remo vs. CA Mineiro: O/U 4.5 | Under (BUY) | 65% | 3.00 | ⏳ pendiente | — |
