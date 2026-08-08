@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 07:19:47 (hora de Perú)
+Actualizado: 2026-08-08 07:21:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $878.14
-**Retorno acumulado:** -12.19%
+**Bankroll actual:** $881.71
+**Retorno acumulado:** -11.83%
 **Peor caída desde un máximo (drawdown):** 19.35%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -26,11 +26,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 0 | 0 | 2 | +0.00 USD |
 | Spicer | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 1 | 1 | 2 | -1.58 USD |
-| HomeRunHazard | 4 | 6 | 27 | -3.99 USD |
+| HomeRunHazard | 4 | 6 | 29 | -3.99 USD |
 | RN1 | 2 | 2 | 13 | -5.13 USD |
-| UpTheBlues | 16 | 18 | 31 | -9.46 USD |
+| UpTheBlues | 19 | 18 | 28 | -5.89 USD |
 | TAIWANNUMBERONE | 1 | 4 | 33 | -66.68 USD |
-| ferrariChampions2026 | 39 | 36 | 203 | -71.00 USD |
+| ferrariChampions2026 | 45 | 45 | 188 | -71.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -81,6 +81,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 53% | 6.53 | ⏳ pendiente | — |
+| HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Under (BUY) | 36% | 2.78 | ⏳ pendiente | — |
 | Spicer | LoL: Bilibili Gaming vs EDward Gaming -  | Bilibili Gaming (BUY) | 79% | 18.33 | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 43% | 1.64 | ⏳ pendiente | — |
 | RN1 | Will Karlsruher SC win on 2026-08-08? | Yes (BUY) | 59% | 1.36 | ⏳ pendiente | — |
@@ -109,5 +111,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will 1. FC Heidenheim 1846 win on 2026-0 | Yes (BUY) | 51% | 3.73 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 90% | 3.27 | ⏳ pendiente | — |
 | ferrariChampions2026 | SV Darmstadt 98 vs. Holstein Kiel: O/U 1 | Over (BUY) | 89% | 3.62 | ⏳ pendiente | — |
-| ferrariChampions2026 | Sanfrecce Hiroshima vs. JEF United Ichih | Over (BUY) | 69% | 2.69 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | Nongshim Red Force (BUY) | 84% | 2.62 | ⏳ pendiente | — |

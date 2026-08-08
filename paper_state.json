@@ -1,5 +1,5 @@
 {
-  "bankroll": 878.1380484998826,
+  "bankroll": 881.710517635685,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -830,6 +830,96 @@
       "timestamp": 1786191576.520382,
       "bankroll": 878.14,
       "event": "lost: ferrariChampions2026 \u2014 Will Vissel K\u014dbe win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786191624.2070017,
+      "bankroll": 878.14,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Kashiwa Reysol (-1.5)"
+    },
+    {
+      "timestamp": 1786191626.4776828,
+      "bankroll": 878.14,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Kashiwa Reysol (-1.5)"
+    },
+    {
+      "timestamp": 1786191626.926751,
+      "bankroll": 878.14,
+      "event": "won: ferrariChampions2026 \u2014 Will FC Mito Holly Hock win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786191627.1273549,
+      "bankroll": 878.14,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Kashiwa Reysol (-1.5)"
+    },
+    {
+      "timestamp": 1786191627.728132,
+      "bankroll": 878.14,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Kashiwa Reysol (-1.5)"
+    },
+    {
+      "timestamp": 1786191634.622137,
+      "bankroll": 878.14,
+      "event": "lost: ferrariChampions2026 \u2014 Nagoya Grampus vs. Shimizu S-Pulse: O/U 3.5"
+    },
+    {
+      "timestamp": 1786191670.1582315,
+      "bankroll": 880.73,
+      "event": "won: UpTheBlues \u2014 Spread: Vissel K\u014dbe (-1.5)"
+    },
+    {
+      "timestamp": 1786191672.0746384,
+      "bankroll": 881.4,
+      "event": "won: UpTheBlues \u2014 Spread: Vissel K\u014dbe (-1.5)"
+    },
+    {
+      "timestamp": 1786191672.2749476,
+      "bankroll": 881.71,
+      "event": "won: UpTheBlues \u2014 Spread: Vissel K\u014dbe (-1.5)"
+    },
+    {
+      "timestamp": 1786191693.975904,
+      "bankroll": 881.71,
+      "event": "won: ferrariChampions2026 \u2014 Avispa Fukuoka vs. Vissel K\u014dbe: O/U 0.5"
+    },
+    {
+      "timestamp": 1786191694.7769942,
+      "bankroll": 881.71,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Vissel K\u014dbe (-1.5)"
+    },
+    {
+      "timestamp": 1786191695.2776747,
+      "bankroll": 881.71,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Vissel K\u014dbe (-1.5)"
+    },
+    {
+      "timestamp": 1786191696.4589694,
+      "bankroll": 881.71,
+      "event": "won: ferrariChampions2026 \u2014 Will Shimizu S-Pulse win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786191696.9378507,
+      "bankroll": 881.71,
+      "event": "lost: ferrariChampions2026 \u2014 Will Fagiano Okayama win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786191697.0379994,
+      "bankroll": 881.71,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Vissel K\u014dbe (-1.5)"
+    },
+    {
+      "timestamp": 1786191697.7390444,
+      "bankroll": 881.71,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Vissel K\u014dbe (-1.5)"
+    },
+    {
+      "timestamp": 1786191698.3222601,
+      "bankroll": 881.71,
+      "event": "lost: ferrariChampions2026 \u2014 Will Shimizu S-Pulse win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786191707.0458338,
+      "bankroll": 881.71,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Vissel K\u014dbe (-1.5)"
     }
   ]
 }
