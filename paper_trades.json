@@ -16483,5 +16483,71 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786222477.834471,
     "fills": 1
+  },
+  {
+    "timestamp": 1786222509,
+    "timestamp_added": 1786222509.7751346,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-gcanut-car24-2026-08-08",
+    "title": "UFC Fight Night: Gigi Canuto vs. Carol Foro (Women's Strawweight, Prelims)",
+    "outcome": "Gigi Canuto",
+    "side": "BUY",
+    "whale_usd": 13122.048400000001,
+    "whale_pct": 2.768,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786222510.2079465,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786222509,
+    "timestamp_added": 1786222510.2202384,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-gcanut-car24-2026-08-08",
+    "title": "UFC Fight Night: Gigi Canuto vs. Carol Foro (Women's Strawweight, Prelims)",
+    "outcome": "Gigi Canuto",
+    "side": "BUY",
+    "whale_usd": 33885.981,
+    "whale_pct": 13.945,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786222510.2202444,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786222607,
+    "timestamp_added": 1786222608.2110758,
+    "username": "StasPanda",
+    "wallet": "0x7e5e420a5cde8a322f3b5b93a12a164827f47315",
+    "slug": "cs2-ice-is-2026-08-09",
+    "title": "Counter-Strike: Inner Circle Esports vs Iberian Soul (BO3) - Esports World Cup Open Qualifier Play-Ins",
+    "outcome": "Inner Circle Esports",
+    "side": "BUY",
+    "whale_usd": 7334.4512,
+    "whale_pct": 4.112,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786222608.2110877,
+    "fills": 1
   }
 ]

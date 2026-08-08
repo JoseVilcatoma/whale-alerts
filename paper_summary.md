@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 15:54:55 (hora de Perú)
+Actualizado: 2026-08-08 15:56:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $473.93
@@ -20,9 +20,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 5 | 4 | 32 | +8.84 USD |
 | HomeRunHazard | 8 | 11 | 58 | +3.36 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| Talvez10 | 0 | 0 | 12 | +0.00 USD |
+| Talvez10 | 0 | 0 | 13 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| StasPanda | 0 | 4 | 4 | +0.00 USD |
+| StasPanda | 0 | 4 | 5 | +0.00 USD |
 | BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 14 | 11 | 10 | -11.76 USD |
 | 1winstreak1 | 0 | 3 | 14 | -12.25 USD |
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 8 | 9 | 0 | -22.00 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 166 | 138 | 38 | -75.22 USD |
+| ferrariChampions2026 | 166 | 138 | 39 | -75.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 3 | -303.20 USD |
 
@@ -103,12 +103,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-mkoi-gx-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BrotherObama, ferrariChampions2026 |
 | lol-mkoi-gx-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
 | wnba-las-min-2026-08-08-total-182pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| cs2-ice-is-2026-08-09 | StasPanda, quavoo |
+| ufc-gcanut-car24-2026-08-08 | Talvez10, ferrariChampions2026 |
 | ufc-gcanut-car24-2026-08-08-totals-2pt5 | Talvez10, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| StasPanda | Counter-Strike: Inner Circle Esports vs  | Inner Circle Esports (BUY) | 64% | 0.00 | ⏳ pendiente | — |
+| Talvez10 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Gigi Canuto vs. Carol F | Gigi Canuto (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 20% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Mineiro win on 2026-08-08? | Yes (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Level UP vs Team Lynx (BO3) - As | Team Lynx (BUY) | 43% | 0.00 | ⏳ pendiente | — |
@@ -136,6 +141,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will CA Boca Juniors vs. CA Vélez Sarsfi | No (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | NK Lokomotiva Zagreb vs. HNK Gorica: Bot | Yes (BUY) | 99% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will St. Truidense VV vs. Lommel SK end  | No (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Grêmio FBPA vs. São Paulo FC end in | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| Talvez10 | O/U 2.5 Rounds | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
