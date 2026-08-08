@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 20:10:16 (hora de Perú)
+Actualizado: 2026-08-07 20:12:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $790.29
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930 | 0 | 2 | 0 | -19.90 USD |
 | RN1 | 53 | 25 | 16 | -88.72 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 8 | 0 | -96.35 USD |
-| swisstony | 334 | 199 | 124 | -104.31 USD |
+| swisstony | 334 | 199 | 129 | -104.31 USD |
 | HomeRunHazard | 45 | 50 | 0 | -112.71 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 25 | 0 | -179.52 USD |
 | Talvez10 | 0 | 7 | 0 | -452.76 USD |
@@ -84,6 +84,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Phoenix Mercury (-5.5) | Phoenix Mercury (BUY) | 39% | 1.17 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Connecticut Sun | Phoenix Mercury (BUY) | 64% | 5.51 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Connecticut Sun | Connecticut Sun (BUY) | 36% | 3.97 | ⏳ pendiente | — |
+| swisstony | Will AA Ponte Preta win on 2026-08-07? | No (BUY) | 100% | 3.86 | ⏳ pendiente | — |
+| swisstony | CS Independiente Rivadavia vs. AA Estudi | No (BUY) | 73% | 22.77 | ⏳ pendiente | — |
 | swisstony | CS Independiente Rivadavia vs. AA Estudi | No (BUY) | 73% | 40.39 | ⏳ pendiente | — |
 | swisstony | Cleveland Guardians vs. Chicago White So | Over (BUY) | 80% | 3.49 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Connecticut Sun | Phoenix Mercury (BUY) | 58% | 1.62 | ⏳ pendiente | — |
@@ -109,8 +114,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Stade de Reims win on 2026-08-08? | No (BUY) | 48% | 5.41 | ⏳ pendiente | — |
 | RN1 | Will AA Estudiantes win on 2026-08-07? | No (BUY) | 89% | 2.09 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Connecticut Sun | Connecticut Sun (BUY) | 30% | 1.19 | ⏳ pendiente | — |
-| RN1 | Spread: Cleveland Guardians (-2.5) | Chicago White Sox (BUY) | 51% | 6.87 | ⏳ pendiente | — |
-| RN1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 55% | 1.44 | ⏳ pendiente | — |
-| swisstony | Spread: Cleveland Guardians (-2.5) | Chicago White Sox (BUY) | 52% | 3.59 | ⏳ pendiente | — |
-| RN1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 44% | 3.34 | ⏳ pendiente | — |
-| swisstony | Cleveland Guardians vs. Chicago White So | Under (BUY) | 55% | 1.10 | ⏳ pendiente | — |
