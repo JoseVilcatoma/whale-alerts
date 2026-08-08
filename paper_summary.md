@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-07 22:44:55 (hora de Perú)
+Actualizado: 2026-08-07 22:46:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $995.88
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 0 | 0 | 4 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 1 | +0.00 USD |
-| UpTheBlues | 0 | 0 | 13 | +0.00 USD |
+| UpTheBlues | 0 | 0 | 14 | +0.00 USD |
 | 0x4f2 | 1 | 7 | 12 | -4.14 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -39,6 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | CD Malacateco vs. CSD Xelajú MC: O/U 3.5 | Under (BUY) | 90% | 1.02 | ⏳ pendiente | — |
 | UpTheBlues | Will Qingdao Hainiu FC win on 2026-08-08 | No (BUY) | 79% | 2.01 | ⏳ pendiente | — |
 | UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 87% | 1.78 | ⏳ pendiente | — |
 | UpTheBlues | Vancouver Whitecaps FC vs. FC Juárez: O/ | Over (BUY) | 87% | 1.21 | ⏳ pendiente | — |
@@ -68,4 +69,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 89% | 1.86 | 💰 vendida anticipada | -0.44 |
 | RN1 | Spread: San Francisco Giants (-1.5) | Detroit Tigers (BUY) | 68% | 2.48 | ⏳ pendiente | — |
 | 0x4f2 | Spread: San Francisco Giants (-1.5) | San Francisco Giants (BUY) | 32% | 2.08 | ⏳ pendiente | — |
-| 0x4f2 | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 28% | 2.09 | ⏳ pendiente | — |

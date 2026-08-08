@@ -1443,5 +1443,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786160683.630614,
     "fills": 1
+  },
+  {
+    "timestamp": 1786160760,
+    "timestamp_added": 1786160761.1096907,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "gtm-adm-xel-2026-08-07-total-3pt5",
+    "title": "CD Malacateco vs. CSD Xelaj\u00fa MC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 225.98999899999998,
+    "whale_pct": 0.102,
+    "paper_stake_usd": 1.02,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786160761.109702,
+    "fills": 1
   }
 ]
