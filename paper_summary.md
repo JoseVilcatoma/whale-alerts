@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 04:57:22 (hora de Perú)
+Actualizado: 2026-08-08 04:59:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $929.06
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 4 | 6 | 26 | -3.99 USD |
 | RN1 | 2 | 2 | 0 | -5.13 USD |
 | UpTheBlues | 16 | 18 | 12 | -9.46 USD |
-| ferrariChampions2026 | 31 | 20 | 38 | -67.78 USD |
+| ferrariChampions2026 | 31 | 20 | 40 | -67.78 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -64,6 +64,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | ThornyDevil | LoL: T1 vs Hanwha Life Esports (BO3) - L | Hanwha Life Esports (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs Anyone's Legend - Gam | Anyone's Legend (BUY) | 26% | 10.51 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: LGD Gaming vs Anyone's Legend (BO3) | LGD Gaming (BUY) | 38% | 1.21 | ⏳ pendiente | — |
@@ -92,5 +94,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 24% | 0.00 | 💰 vendida anticipada | +0.00 |
 | ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 23% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports - Game 2  | T1 (BUY) | 26% | 0.00 | 💰 vendida anticipada | +0.00 |
-| ferrariChampions2026 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Hanwha Life Esports (BO3) - L | T1 (BUY) | 64% | 0.00 | 💰 vendida anticipada | +0.00 |
