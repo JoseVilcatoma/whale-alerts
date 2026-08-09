@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 13:28:51 (hora de Perú)
+Actualizado: 2026-08-09 13:30:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $164.42
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 55 | 48 | 19 | +28.65 USD |
+| 1winstreak1 | 55 | 48 | 22 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 9 | +11.82 USD |
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 0 | 5 | +0.00 USD |
 | monkeymashingkeyboard | 0 | 0 | 3 | +0.00 USD |
-| theowalcott | 0 | 0 | 1 | +0.00 USD |
+| theowalcott | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -204,6 +204,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 87% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 86% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| theowalcott | Will Grêmio Novorizontino win on 2026-08 | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will Grêmio Novorizontino win on 2026-08 | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 23% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 28% | 0.00 | ⏳ pendiente | — |
@@ -230,7 +234,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 34% | 0.49 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 47% | 0.25 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Joey Cantillo: Strikeouts O/U 5.5 | Under (BUY) | 51% | 0.85 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Ryan Gusto: Strikeouts O/U 4.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Las Vegas Aces vs. New York Liberty: O/U | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Las Vegas Aces vs. New York Liberty: O/U | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
