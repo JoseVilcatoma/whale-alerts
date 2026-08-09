@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 10:26:29 (hora de Perú)
+Actualizado: 2026-08-09 10:28:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $156.16
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 1winstreak1 | 55 | 48 | 0 | +28.65 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 0 | +20.63 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 7 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
-| SDTrading | 0 | 0 | 3 | +0.00 USD |
+| SDTrading | 0 | 0 | 5 | +0.00 USD |
 | monkeymashingkeyboard | 0 | 0 | 1 | +0.00 USD |
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 2 | -89.94 USD |
-| ferrariChampions2026 | 251 | 202 | 110 | -91.43 USD |
+| ferrariChampions2026 | 252 | 202 | 111 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 14 | 38 | 5 | -298.46 USD |
 
@@ -190,11 +190,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-total-9pt5 | SDTrading, wr0ngw4yb3tt0r |
 | mlb-tor-phi-2026-08-09-spread-home-1pt5 | ferrariChampions2026, monkeymashingkeyboard |
+| lol-th-g2-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 94% | 0.00 | ⏳ pendiente | — |
+| SDTrading | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs G2 Esports - Game  | Team Heretics (BUY) | 15% | 0.00 | ⏳ pendiente | — |
+| SDTrading | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Team Heretics vs G2 Esports - Game  | G2 Esports (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team Heretics vs G2 Esports - Game  | G2 Esports (BUY) | 88% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Nashville SC win on 2026-08-09? | Yes (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 77% | 0.00 | ⏳ pendiente | — |
@@ -220,8 +226,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | IFK Goteborg vs. Kalmar FF: O/U 2.5 | Under (BUY) | 49% | 0.06 | ⏳ pendiente | — |
 | ferrariChampions2026 | Heart of Midlothian FC vs. Dundee United | Over (BUY) | 91% | 0.45 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Liverpool FC (-1.5) | AS Monaco (BUY) | 39% | 0.33 | ⏳ pendiente | — |
-| quavoo | Will FC Sion win on 2026-08-09? | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will FK Haugesund win on 2026-08-09? | Yes (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Heart of Midlothian FC vs. Dundee United | Over (BUY) | 77% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| StasPanda | Counter-Strike: BESTIA vs Isurus (BO3) - | Isurus (BUY) | 28% | 0.00 | ⏳ pendiente | — |
