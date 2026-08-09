@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:34:57 (hora de Perú)
+Actualizado: 2026-08-08 21:36:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $402.31
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | quavoo | 13 | 11 | 74 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 29 | 1 | +20.63 USD |
-| wr0ngw4yb3tt0r | 26 | 23 | 12 | +19.60 USD |
+| wr0ngw4yb3tt0r | 26 | 23 | 13 | +19.60 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 5 | +12.95 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 43 | 39 | 10 | -16.07 USD |
+| 1winstreak1 | 43 | 39 | 13 | -16.07 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 22 | 16 | 3 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -154,13 +154,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cle-cws-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-lad-ari-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-lad-ari-2026-08-08-total-4pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-lad-ari-2026-08-08-total-3pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-cle-cws-2026-08-08-spread-home-2pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-lad-ari-2026-08-08-total-2pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-tb-sea-2026-08-08-total-6pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 48% | 47.29 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 48% | 2.06 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC Fight Night: Mateusz Gamrot vs. Quil | Quillan Salkilld (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
@@ -187,7 +193,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 18% | 0.46 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 42% | 2.37 | ❌ perdida | -2.37 |
 | quavoo | Real Salt Lake vs. Atlante FC: O/U 3.5 | Under (BUY) | 61% | 1.12 | ⏳ pendiente | — |
-| ferrariChampions2026 | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 77% | 0.54 | ⏳ pendiente | — |
-| 1winstreak1 | Seattle Storm vs. PortlandFire | Seattle Storm (BUY) | 23% | 0.91 | ⏳ pendiente | — |
-| ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 76% | 2.82 | ⏳ pendiente | — |
-| ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 56% | 0.83 | ⏳ pendiente | — |
