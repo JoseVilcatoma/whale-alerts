@@ -24052,5 +24052,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786242218.812392,
     "fills": 6
+  },
+  {
+    "timestamp": 1786242515,
+    "timestamp_added": 1786242516.1013255,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-lad-ari-2026-08-08-total-2pt5",
+    "title": "Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 422.79,
+    "whale_pct": 1.036,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786242516.1013365,
+    "fills": 1
   }
 ]

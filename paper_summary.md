@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:26:43 (hora de Perú)
+Actualizado: 2026-08-08 21:28:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $397.52
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 24 | 23 | 10 | -9.01 USD |
-| 1winstreak1 | 42 | 38 | 10 | -13.70 USD |
+| 1winstreak1 | 42 | 38 | 11 | -13.70 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 22 | 16 | 3 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -160,6 +160,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 9.04 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 0.52 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 31.72 | ⏳ pendiente | — |
@@ -189,4 +190,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CD Guadalajara vs. FC Dallas: O/U 1.5 | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 25% | 0.00 | ✅ ganada | +0.00 |
-| ferrariChampions2026 | CD Guadalajara vs. FC Dallas: O/U 1.5 | Over (BUY) | 67% | 0.00 | ⏳ pendiente | — |
