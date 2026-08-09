@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 14:37:48 (hora de Perú)
+Actualizado: 2026-08-09 14:39:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $171.69
-**Retorno acumulado:** -82.83%
+**Bankroll actual:** $171.77
+**Retorno acumulado:** -82.82%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 66 | 50 | 41 | +29.06 USD |
+| 1winstreak1 | 67 | 50 | 42 | +29.14 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 35 | 32 | 13 | +11.82 USD |
@@ -211,6 +211,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 67% | 0.37 | ⏳ pendiente | — |
+| 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 33% | 0.19 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Washington Mystics:  | Under (BUY) | 50% | 2.69 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Washington Mystics:  | Under (BUY) | 53% | 4.92 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Philadelphia Phillies (-2.5) | Toronto Blue Jays (BUY) | 28% | 0.53 | ⏳ pendiente | — |
@@ -223,7 +225,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 51% | 1.55 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Baltimore Orioles (-2.5) | Baltimore Orioles (BUY) | 74% | 0.41 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Atlanta Braves (-2.5) | Atlanta Braves (BUY) | 20% | 0.43 | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 91% | 0.81 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 91% | 0.81 | ✅ ganada | +0.08 |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 80% | 0.63 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 45% | 0.37 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 53% | 1.22 | ⏳ pendiente | — |
@@ -239,5 +241,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Atlanta Braves (-2.5) | Atlanta Braves (BUY) | 18% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Philadelphia Phillies (-2.5) | Toronto Blue Jays (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Texas Rangers (-1.5) | Texas Rangers (BUY) | 33% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |
