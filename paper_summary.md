@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 07:24:29 (hora de Perú)
+Actualizado: 2026-08-09 07:26:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $344.10
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 40 | -20.92 USD |
+| RN1 | 24 | 17 | 42 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 25 | 68 | 76 | -54.69 USD |
@@ -184,6 +184,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Manchester City win on 2026-08-09? | No (BUY) | 23% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Manchester City win on 2026-08-09? | Yes (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Shanghai Haigang FC win on 2026-08- | Yes (BUY) | 67% | 0.22 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chongqing Tonglianglong FC vs. Shanghai  | Over (BUY) | 49% | 0.39 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | Team WE (BUY) | 20% | 0.40 | ⏳ pendiente | — |
@@ -212,5 +214,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Shandong Taishan FC vs. Tianjin Jinmen H | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | FC St. Pauli 1910 vs. SpVgg Greuther Für | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Chongqing Tonglianglong FC vs. Shan | No (BUY) | 74% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will AFC Ajax win on 2026-08-09? | Yes (BUY) | 66% | 0.00 | ⏳ pendiente | — |

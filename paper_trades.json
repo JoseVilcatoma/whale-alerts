@@ -29227,5 +29227,51 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786278247.6546974,
     "fills": 1
+  },
+  {
+    "timestamp": 1786278326,
+    "timestamp_added": 1786278326.8983433,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-mci-atm-2026-08-09-mci",
+    "title": "Will Manchester City win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 2744.2090000000003,
+    "whale_pct": 1.519,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786278342.094131,
+    "fills": 4
+  },
+  {
+    "timestamp": 1786278391,
+    "timestamp_added": 1786278391.6327982,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-mci-atm-2026-08-09-mci",
+    "title": "Will Manchester City win on 2026-08-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 330.05,
+    "whale_pct": 0.177,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 23,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786278391.6328087,
+    "fills": 1
   }
 ]
