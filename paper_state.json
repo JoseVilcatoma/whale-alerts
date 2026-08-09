@@ -1,5 +1,5 @@
 {
-  "bankroll": 164.48412090124893,
+  "bankroll": 164.42412090124893,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7160,6 +7160,11 @@
       "timestamp": 1786298438.8274813,
       "bankroll": 164.48,
       "event": "won: ferrariChampions2026 \u2014 Heart of Midlothian FC vs. Dundee United FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786299992.4540677,
+      "bankroll": 164.42,
+      "event": "lost: quavoo \u2014 IFK Goteborg vs. Kalmar FF: O/U 2.5"
     }
   ]
 }
