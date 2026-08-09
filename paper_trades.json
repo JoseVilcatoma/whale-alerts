@@ -22696,5 +22696,47 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786234274.7436485,
     "fills": 1
+  },
+  {
+    "timestamp": 1786234427,
+    "timestamp_added": 1786234428.3278859,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-orl-leo-2026-08-08-leo",
+    "title": "Will Club Le\u00f3n FC win on 2026-08-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 283.05,
+    "whale_pct": 0.223,
+    "paper_stake_usd": 1.05,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786234428.3278975,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786234429,
+    "timestamp_added": 1786234429.604116,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-orl-leo-2026-08-08-spread-away-1pt5",
+    "title": "Spread: Club Le\u00f3n FC (-1.5)",
+    "outcome": "Orlando City SC",
+    "side": "BUY",
+    "whale_usd": 962.01,
+    "whale_pct": 0.758,
+    "paper_stake_usd": 0.05,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786234429.6041255,
+    "fills": 1
   }
 ]

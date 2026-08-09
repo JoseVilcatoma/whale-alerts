@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 19:12:29 (hora de Perú)
+Actualizado: 2026-08-08 19:14:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $470.24
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 30 | 24 | 34 | +16.40 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 28 | 53 | +7.78 USD |
+| UpTheBlues | 39 | 28 | 55 | +7.78 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -148,6 +148,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 94% | 0.05 | ⏳ pendiente | — |
+| UpTheBlues | Will Club León FC win on 2026-08-08? | No (BUY) | 74% | 1.05 | ⏳ pendiente | — |
 | UpTheBlues | Will Washington Spirit win on 2026-08-08 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Fluminense FC win on 2026-08-08? | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 94% | 0.00 | ⏳ pendiente | — |
@@ -176,5 +178,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Orlando City SC vs. Club León FC: O/U 2. | Under (BUY) | 24% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Botafogo FR vs. Fluminense FC end i | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Orlando City SC win on 2026-08-08? | No (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Instituto AC Córdoba vs. CA Gimnasia y E | Over (BUY) | 21% | 0.00 | ⏳ pendiente | — |
