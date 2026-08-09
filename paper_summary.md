@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 12:28:34 (hora de Perú)
+Actualizado: 2026-08-09 12:30:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $165.60
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 55 | 48 | 0 | +28.65 USD |
+| 1winstreak1 | 55 | 48 | 1 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 9 | +11.82 USD |
@@ -193,11 +193,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tor-phi-2026-08-09-spread-home-1pt5 | ferrariChampions2026, monkeymashingkeyboard |
 | wnba-phx-wsh-2026-08-09-spread-home-1pt5 | monkeymashingkeyboard, wr0ngw4yb3tt0r |
 | lol-th-g2-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
+| mlb-cin-wsh-2026-08-09-total-8pt5 | 1winstreak1, SDTrading |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 47% | 0.25 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Joey Cantillo: Strikeouts O/U 5.5 | Under (BUY) | 51% | 0.85 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Ryan Gusto: Strikeouts O/U 4.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Las Vegas Aces vs. New York Liberty: O/U | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
@@ -227,4 +229,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Rangers FC win on 2026-08-09? | Yes (BUY) | 33% | 0.32 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 65% | 0.20 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Olympique Marseille win on 2026-08- | Yes (BUY) | 64% | 0.35 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Athletic Bilbao win on 2026-08-09? | No (BUY) | 84% | 0.46 | ⏳ pendiente | — |
