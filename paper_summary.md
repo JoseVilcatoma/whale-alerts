@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 20:54:23 (hora de Perú)
+Actualizado: 2026-08-08 20:56:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $479.72
-**Retorno acumulado:** -52.03%
-**Peor caída desde un máximo (drawdown):** 53.54%
+**Bankroll actual:** $417.18
+**Retorno acumulado:** -58.28%
+**Peor caída desde un máximo (drawdown):** 58.63%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -13,27 +13,27 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| quavoo | 8 | 7 | 79 | +22.68 USD |
+| quavoo | 11 | 9 | 74 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 41 | 29 | 2 | +17.43 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | UpTheBlues | 47 | 31 | 44 | +15.42 USD |
+| HomeRunHazard | 35 | 34 | 19 | +15.03 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| HomeRunHazard | 32 | 32 | 24 | +8.73 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
-| Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 33 | 30 | 23 | -1.89 USD |
-| wr0ngw4yb3tt0r | 21 | 18 | 18 | -10.16 USD |
+| 1winstreak1 | 35 | 32 | 19 | -1.60 USD |
+| wr0ngw4yb3tt0r | 24 | 21 | 12 | -7.66 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 20 | 16 | 5 | -20.97 USD |
+| RN1 | 22 | 16 | 3 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 213 | 176 | 21 | -67.75 USD |
+| ferrariChampions2026 | 214 | 176 | 20 | -67.75 USD |
+| Talvez10 | 4 | 10 | 1 | -71.63 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 9 | -303.20 USD |
 
@@ -173,7 +173,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Santos FC vs. CA Paranaense: O/U 2.5 | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | quavoo | Deportivo Toluca FC vs. Los Angeles FC:  | Yes (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 96% | 7.02 | ⏳ pendiente | — |
+| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 96% | 7.02 | ✅ ganada | +0.29 |
 | 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 66% | 1.48 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Baltimore Orioles (-1.5) | Baltimore Orioles (BUY) | 14% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 27% | 0.00 | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 479.71603740085726,
+  "bankroll": 417.1785251459554,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4310,6 +4310,146 @@
       "timestamp": 1786240269.6667888,
       "bankroll": 479.72,
       "event": "lost: 1winstreak1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 6.5"
+    },
+    {
+      "timestamp": 1786240559.3292148,
+      "bankroll": 484.69,
+      "event": "won: HomeRunHazard \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786240559.8583481,
+      "bankroll": 486.01,
+      "event": "won: HomeRunHazard \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1786240561.6900373,
+      "bankroll": 486.01,
+      "event": "won: HomeRunHazard \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1786240561.7902863,
+      "bankroll": 486.01,
+      "event": "lost: quavoo \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1786240561.8905456,
+      "bankroll": 486.01,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1786240562.1286435,
+      "bankroll": 486.01,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1786240563.1684575,
+      "bankroll": 462.81,
+      "event": "lost: Talvez10 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786240563.4200542,
+      "bankroll": 459.53,
+      "event": "lost: Talvez10 \u2014 O/U 2.5 Rounds"
+    },
+    {
+      "timestamp": 1786240563.5202835,
+      "bankroll": 415.72,
+      "event": "lost: Talvez10 \u2014 O/U 2.5 Rounds"
+    },
+    {
+      "timestamp": 1786240564.4462605,
+      "bankroll": 414.38,
+      "event": "lost: Talvez10 \u2014 O/U 2.5 Rounds"
+    },
+    {
+      "timestamp": 1786240564.6938505,
+      "bankroll": 414.38,
+      "event": "won: wr0ngw4yb3tt0r \u2014 O/U 2.5 Rounds"
+    },
+    {
+      "timestamp": 1786240566.0819528,
+      "bankroll": 414.38,
+      "event": "lost: Talvez10 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786240566.1821618,
+      "bankroll": 414.38,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786240570.8972626,
+      "bankroll": 414.38,
+      "event": "won: quavoo \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786240571.1978488,
+      "bankroll": 414.38,
+      "event": "won: quavoo \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786240571.2980402,
+      "bankroll": 414.38,
+      "event": "won: quavoo \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786240573.1514583,
+      "bankroll": 414.38,
+      "event": "lost: HomeRunHazard \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786240574.0101101,
+      "bankroll": 414.38,
+      "event": "lost: quavoo \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786240574.2106085,
+      "bankroll": 414.38,
+      "event": "lost: HomeRunHazard \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786240575.2551074,
+      "bankroll": 414.38,
+      "event": "won: 1winstreak1 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786240575.355332,
+      "bankroll": 414.38,
+      "event": "won: RN1 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786240575.455553,
+      "bankroll": 414.38,
+      "event": "won: RN1 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1786240577.4588282,
+      "bankroll": 413.75,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1786240577.5589683,
+      "bankroll": 416.89,
+      "event": "won: wr0ngw4yb3tt0r \u2014 O/U 2.5 Rounds"
+    },
+    {
+      "timestamp": 1786240579.9022489,
+      "bankroll": 416.89,
+      "event": "won: wr0ngw4yb3tt0r \u2014 O/U 2.5 Rounds"
+    },
+    {
+      "timestamp": 1786240580.0025177,
+      "bankroll": 416.89,
+      "event": "lost: 1winstreak1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1786240582.1060004,
+      "bankroll": 416.89,
+      "event": "lost: 1winstreak1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1786240585.2113907,
+      "bankroll": 417.18,
+      "event": "won: 1winstreak1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 7.5"
     }
   ]
 }
