@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 07:49:34 (hora de Perú)
+Actualizado: 2026-08-09 07:51:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $344.10
@@ -29,12 +29,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 72 | -20.92 USD |
+| RN1 | 24 | 17 | 74 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 25 | 68 | 76 | -54.69 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 245 | 197 | 87 | -91.43 USD |
+| ferrariChampions2026 | 245 | 197 | 88 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -189,6 +189,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Manchester City win on 2026-08-09? | No (BUY) | 10% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Chelsea FC (-1.5) | Johor Darul Ta'zim (BUY) | 74% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Henan FC win on 2026-08-09? | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will PEC Zwolle win on 2026-08-09? | No (BUY) | 88% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | RN1 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
@@ -216,6 +219,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 88% | 0.00 | ⏳ pendiente | — |
 | RN1 | PEC Zwolle vs. AFC Ajax: O/U 1.5 | Over (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Shanghai Haigang FC win on 2026-08- | Yes (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | FC St. Pauli 1910 vs. SpVgg Greuther Für | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Manchester City vs. Atletico Madrid | Yes (BUY) | 17% | 0.00 | ⏳ pendiente | — |
