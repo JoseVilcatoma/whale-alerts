@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 18:11:06 (hora de Perú)
+Actualizado: 2026-08-09 18:13:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.25
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 37 | 34 | 16 | +11.84 USD |
+| wr0ngw4yb3tt0r | 37 | 34 | 17 | +11.84 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -32,10 +32,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 85 | 42 | 76 | -20.01 USD |
+| RN1 | 85 | 42 | 77 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 62 | 89 | 41 | -55.81 USD |
+| quavoo | 62 | 89 | 42 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | ferrariChampions2026 | 344 | 251 | 89 | -91.86 USD |
@@ -229,12 +229,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tb-sea-2026-08-09-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-09-spread-home-2pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tb-sea-2026-08-09-total-5pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
-| mlb-cle-cws-2026-08-09-total-7pt5 | 1winstreak1, RN1 |
+| mlb-cle-cws-2026-08-09-total-7pt5 | 1winstreak1, RN1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Over (BUY) | 32% | 0.80 | ⏳ pendiente | — |
+| quavoo | Spread: New York City FC (-1.5) | CF Cruz Azul (BUY) | 90% | 1.87 | ⏳ pendiente | — |
+| RN1 | Will CSD Colo-Colo win on 2026-08-09? | Yes (BUY) | 85% | 0.31 | ⏳ pendiente | — |
 | quavoo | Spread: New York City FC (-1.5) | CF Cruz Azul (BUY) | 89% | 1.76 | ⏳ pendiente | — |
 | RN1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 44% | 0.50 | ⏳ pendiente | — |
 | RN1 | Will CA Paranaense win on 2026-08-09? | Yes (BUY) | 96% | 0.39 | ⏳ pendiente | — |
@@ -262,6 +265,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 98% | 0.40 | ⏳ pendiente | — |
 | quavoo | CF Cruz Azul vs. New York City FC: O/U 4 | Under (BUY) | 84% | 0.40 | ⏳ pendiente | — |
 | ferrariChampions2026 | CR Flamengo vs. EC Vitória: O/U 2.5 | Under (BUY) | 38% | 1.04 | ⏳ pendiente | — |
-| RN1 | CR Flamengo vs. EC Vitória: O/U 3.5 | Over (BUY) | 35% | 0.32 | ⏳ pendiente | — |
-| ferrariChampions2026 | Red Bull Bragantino vs. SC Corinthians P | Under (BUY) | 70% | 0.72 | ⏳ pendiente | — |
-| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 21% | 0.43 | ⏳ pendiente | — |
