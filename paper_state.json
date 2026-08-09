@@ -1,5 +1,5 @@
 {
-  "bankroll": 168.1131761011495,
+  "bankroll": 168.4368798048532,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7620,6 +7620,26 @@
       "timestamp": 1786307765.4716704,
       "bankroll": 168.11,
       "event": "won: 1winstreak1 \u2014 Athletics vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786307881.8843422,
+      "bankroll": 168.11,
+      "event": "won: quavoo \u2014 Athletics vs. Boston Red Sox: O/U 10.5"
+    },
+    {
+      "timestamp": 1786307882.0847096,
+      "bankroll": 168.11,
+      "event": "won: quavoo \u2014 Athletics vs. Boston Red Sox: O/U 10.5"
+    },
+    {
+      "timestamp": 1786307885.1692045,
+      "bankroll": 168.44,
+      "event": "won: quavoo \u2014 Athletics vs. Boston Red Sox: O/U 10.5"
+    },
+    {
+      "timestamp": 1786307894.8625412,
+      "bankroll": 168.44,
+      "event": "won: 1winstreak1 \u2014 Athletics vs. Boston Red Sox: O/U 10.5"
     }
   ]
 }
