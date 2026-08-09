@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 23:11:45 (hora de Perú)
+Actualizado: 2026-08-08 23:13:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $385.82
-**Retorno acumulado:** -61.42%
-**Peor caída desde un máximo (drawdown):** 61.82%
+**Bankroll actual:** $338.87
+**Retorno acumulado:** -66.11%
+**Peor caída desde un máximo (drawdown):** 66.20%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -13,11 +13,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| quavoo | 16 | 25 | 63 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 30 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 11 | +12.95 USD |
-| wr0ngw4yb3tt0r | 30 | 28 | 6 | +12.18 USD |
+| wr0ngw4yb3tt0r | 30 | 28 | 7 | +12.18 USD |
 | UpTheBlues | 73 | 42 | 7 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | swisstony | 2 | 0 | 0 | +2.82 USD |
@@ -30,10 +29,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | 1winstreak1 | 51 | 43 | 6 | -19.43 USD |
 | RN1 | 24 | 17 | 0 | -20.92 USD |
+| quavoo | 18 | 39 | 47 | -24.27 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 225 | 186 | 21 | -85.52 USD |
+| ferrariChampions2026 | 225 | 186 | 23 | -85.52 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 11 | -303.20 USD |
 
@@ -99,7 +99,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-blg-edg-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
 | mlb-laa-mia-2026-08-08-total-6pt5 | 1winstreak1, HomeRunHazard |
 | wnba-sea-por-2026-08-08 | 1winstreak1, HomeRunHazard, ferrariChampions2026 |
-| mlb-tb-sea-2026-08-08-spread-away-1pt5 | HomeRunHazard, ferrariChampions2026 |
+| mlb-tb-sea-2026-08-08-spread-away-1pt5 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tb-sea-2026-08-08-total-7pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-atl-nyy-2026-08-08-total-7pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-atl-nyy-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard |
@@ -166,6 +166,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Over (BUY) | 46% | 0.45 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 69% | 0.65 | ⏳ pendiente | — |
+| ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 54% | 0.71 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Over (BUY) | 46% | 0.62 | ⏳ pendiente | — |
 | quavoo | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 62% | 3.07 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 53% | 0.45 | ⏳ pendiente | — |
@@ -193,6 +196,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 24% | 0.57 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 38% | 1.18 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 88% | 2.46 | ✅ ganada | +0.34 |
-| 1winstreak1 | Spread: Seattle Mariners (-2.5) | Seattle Mariners (BUY) | 28% | 2.68 | ⏳ pendiente | — |
-| quavoo | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 60% | 4.78 | ⏳ pendiente | — |
-| quavoo | Deportivo Toluca FC vs. Los Angeles FC:  | Yes (BUY) | 65% | 0.42 | ⏳ pendiente | — |

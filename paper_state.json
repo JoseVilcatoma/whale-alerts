@@ -1,5 +1,5 @@
 {
-  "bankroll": 385.819425690147,
+  "bankroll": 338.8724869146368,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5180,6 +5180,86 @@
       "timestamp": 1786248144.2581549,
       "bankroll": 385.82,
       "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786248741.804964,
+      "bankroll": 376.81,
+      "event": "lost: quavoo \u2014 Will Inter Miami CF win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786248742.2502987,
+      "bankroll": 373.79,
+      "event": "lost: quavoo \u2014 Will Inter Miami CF win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786248742.3504286,
+      "bankroll": 361.34,
+      "event": "lost: quavoo \u2014 Will Inter Miami CF win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786248742.7960827,
+      "bankroll": 359.4,
+      "event": "lost: quavoo \u2014 Will Inter Miami CF win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786248742.8962224,
+      "bankroll": 355.93,
+      "event": "lost: quavoo \u2014 Will Inter Miami CF win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786248742.9963255,
+      "bankroll": 354.75,
+      "event": "lost: quavoo \u2014 Will Inter Miami CF win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786248743.1966217,
+      "bankroll": 353.58,
+      "event": "lost: quavoo \u2014 Will Inter Miami CF win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786248743.6992536,
+      "bankroll": 350.69,
+      "event": "lost: quavoo \u2014 Will Inter Miami CF win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786248743.7993999,
+      "bankroll": 342.77,
+      "event": "lost: quavoo \u2014 Will Inter Miami CF win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786248743.8995106,
+      "bankroll": 341.34,
+      "event": "lost: quavoo \u2014 Will Inter Miami CF win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786248743.9996507,
+      "bankroll": 338.03,
+      "event": "lost: quavoo \u2014 Will Inter Miami CF win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786248750.7506182,
+      "bankroll": 338.03,
+      "event": "won: quavoo \u2014 Spread: Inter Miami CF (-2.5)"
+    },
+    {
+      "timestamp": 1786248751.2870653,
+      "bankroll": 338.03,
+      "event": "lost: quavoo \u2014 Will Inter Miami CF win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786248751.487396,
+      "bankroll": 338.03,
+      "event": "lost: quavoo \u2014 Will Inter Miami CF win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786248752.9439754,
+      "bankroll": 338.03,
+      "event": "lost: quavoo \u2014 Will Inter Miami CF win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786248756.057457,
+      "bankroll": 338.87,
+      "event": "won: quavoo \u2014 Inter Miami CF vs. CF Monterrey: O/U 3.5"
     }
   ]
 }
