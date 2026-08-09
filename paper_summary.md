@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 00:59:55 (hora de Perú)
+Actualizado: 2026-08-09 01:02:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $360.93
-**Retorno acumulado:** -63.91%
+**Bankroll actual:** $356.85
+**Retorno acumulado:** -64.31%
 **Peor caída desde un máximo (drawdown):** 68.38%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,11 +13,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 54 | 47 | 2 | +28.65 USD |
+| 1winstreak1 | 55 | 47 | 1 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 30 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 34 | 28 | 3 | +16.55 USD |
 | greyoctober | 7 | 0 | 14 | +12.95 USD |
+| wr0ngw4yb3tt0r | 34 | 31 | 0 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | UpTheBlues | 78 | 43 | 2 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -31,9 +31,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 21 | 47 | 85 | -48.01 USD |
+| quavoo | 21 | 47 | 86 | -48.01 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 229 | 192 | 19 | -91.98 USD |
+| ferrariChampions2026 | 230 | 192 | 18 | -91.33 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 11 | -303.20 USD |
 
@@ -167,6 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 58% | 0.48 | ⏳ pendiente | — |
 | quavoo | Spread: Tōkyō Verdy (-1.5) | Kawasaki Frontale (BUY) | 90% | 0.68 | ⏳ pendiente | — |
 | UpTheBlues | SC Heerenveen vs. FC Twente: O/U 4.5 | Under (BUY) | 76% | 0.49 | ⏳ pendiente | — |
 | quavoo | Will Brøndby IF win on 2026-08-09? | No (BUY) | 45% | 0.44 | ⏳ pendiente | — |
@@ -196,4 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Philadelphia Union win on 2026-08-0 | Yes (BUY) | 55% | 0.81 | ⏳ pendiente | — |
 | quavoo | Will Liverpool FC win on 2026-08-09? | Yes (BUY) | 63% | 0.57 | ⏳ pendiente | — |
 | quavoo | Will Malmo FF win on 2026-08-09? | Yes (BUY) | 67% | 1.93 | ⏳ pendiente | — |
-| quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 40% | 1.27 | ⏳ pendiente | — |

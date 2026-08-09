@@ -1,5 +1,5 @@
 {
-  "bankroll": 360.93076280772084,
+  "bankroll": 356.85290566486367,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5475,6 +5475,31 @@
       "timestamp": 1786254683.81651,
       "bankroll": 360.93,
       "event": "won: quavoo \u2014 Will FC Dallas win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786255301.607486,
+      "bankroll": 359.02,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 4.5"
+    },
+    {
+      "timestamp": 1786255301.7076237,
+      "bankroll": 356.2,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 4.5"
+    },
+    {
+      "timestamp": 1786255302.8417645,
+      "bankroll": 356.2,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 3.5"
+    },
+    {
+      "timestamp": 1786255303.3149955,
+      "bankroll": 356.85,
+      "event": "won: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 4.5"
+    },
+    {
+      "timestamp": 1786255305.1147656,
+      "bankroll": 356.85,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 3.5"
     }
   ]
 }
