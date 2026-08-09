@@ -22433,7 +22433,7 @@
     "whale_pct": 0.782,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 80,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -25326,6 +25326,26 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786249757.774757,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786249982,
+    "timestamp_added": 1786249983.0856533,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-oak-bos-2026-08-09-total-10pt5",
+    "title": "Athletics vs. Boston Red Sox: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 127.0,
+    "whale_pct": 0.111,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786249983.0856636,
     "fills": 1
   }
 ]
