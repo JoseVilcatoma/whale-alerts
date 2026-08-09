@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 22:26:18 (hora de Perú)
+Actualizado: 2026-08-08 22:28:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $384.70
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | HomeRunHazard | 38 | 45 | 5 | -7.46 USD |
-| 1winstreak1 | 45 | 39 | 15 | -13.97 USD |
+| 1winstreak1 | 45 | 39 | 16 | -13.97 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -165,6 +165,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 83% | 2.74 | ⏳ pendiente | — |
 | ferrariChampions2026 | Real Salt Lake vs. Atlante FC: O/U 1.5 | Over (BUY) | 80% | 0.45 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Deportivo Toluca FC vs. Los Angeles | No (BUY) | 78% | 0.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Real Salt Lake win on 2026-08-08? | Yes (BUY) | 77% | 0.43 | ⏳ pendiente | — |
@@ -194,4 +195,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 9.04 | ⏳ pendiente | — |
