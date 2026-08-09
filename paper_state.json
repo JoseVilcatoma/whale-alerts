@@ -1,5 +1,5 @@
 {
-  "bankroll": 351.6205838200418,
+  "bankroll": 354.1386790581371,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5585,6 +5585,56 @@
       "timestamp": 1786259881.745077,
       "bankroll": 351.62,
       "event": "won: ferrariChampions2026 \u2014 Will Deportivo Toluca FC vs. Los Angeles FC end in a draw?"
+    },
+    {
+      "timestamp": 1786259935.2453141,
+      "bankroll": 350.63,
+      "event": "lost: quavoo \u2014 Will Deportivo Toluca FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786259941.7347958,
+      "bankroll": 350.63,
+      "event": "lost: quavoo \u2014 Will Deportivo Toluca FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786259942.3859844,
+      "bankroll": 350.63,
+      "event": "lost: quavoo \u2014 Deportivo Toluca FC vs. Los Angeles FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786259943.1296241,
+      "bankroll": 349.31,
+      "event": "lost: quavoo \u2014 Will Deportivo Toluca FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786259945.3738616,
+      "bankroll": 348.89,
+      "event": "lost: quavoo \u2014 Deportivo Toluca FC vs. Los Angeles FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786259945.7311223,
+      "bankroll": 352.08,
+      "event": "won: quavoo \u2014 Deportivo Toluca FC vs. Los Angeles FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786259946.131664,
+      "bankroll": 352.78,
+      "event": "won: ferrariChampions2026 \u2014 Will Deportivo Toluca FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786259946.4320755,
+      "bankroll": 353.47,
+      "event": "won: ferrariChampions2026 \u2014 Will Deportivo Toluca FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786259946.5322134,
+      "bankroll": 354.14,
+      "event": "won: ferrariChampions2026 \u2014 Will Deportivo Toluca FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786259948.835369,
+      "bankroll": 354.14,
+      "event": "won: ferrariChampions2026 \u2014 Will Deportivo Toluca FC win on 2026-08-08?"
     }
   ]
 }

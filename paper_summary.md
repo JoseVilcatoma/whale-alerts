@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 02:18:18 (hora de Perú)
+Actualizado: 2026-08-09 02:20:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $351.62
-**Retorno acumulado:** -64.84%
+**Bankroll actual:** $354.14
+**Retorno acumulado:** -64.59%
 **Peor caída desde un máximo (drawdown):** 68.38%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 7 | 0 | 17 | +12.95 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 0 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
-| UpTheBlues | 78 | 44 | 6 | +8.44 USD |
+| UpTheBlues | 78 | 44 | 7 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | swisstony | 2 | 0 | 0 | +2.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
@@ -31,11 +31,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 21 | 58 | 82 | -53.73 USD |
+| quavoo | 22 | 63 | 76 | -53.27 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 235 | 192 | 13 | -90.84 USD |
+| ferrariChampions2026 | 239 | 192 | 9 | -88.78 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 2 | 36 | 11 | -303.20 USD |
+| TAIWANNUMBERONE | 2 | 36 | 12 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -167,6 +167,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs KT Rolster ( | Dplus KIA (BUY) | 33% | 2.33 | ⏳ pendiente | — |
+| UpTheBlues | Will FC Groningen win on 2026-08-09? | Yes (BUY) | 41% | 0.55 | ⏳ pendiente | — |
 | UpTheBlues | Spread: South Melbourne FC (-1.5) | Fremantle City FC (BUY) | 32% | 0.07 | ⏳ pendiente | — |
 | quavoo | Will Atlético Nacional win on 2026-08-08 | Yes (BUY) | 32% | 0.68 | ⏳ pendiente | — |
 | quavoo | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 55% | 0.35 | ⏳ pendiente | — |
@@ -195,5 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Athletics vs. Boston Red Sox: O/U 10.5 | Under (BUY) | 54% | 0.38 | ⏳ pendiente | — |
 | quavoo | Will Philadelphia Union win on 2026-08-0 | Yes (BUY) | 55% | 1.92 | ⏳ pendiente | — |
 | quavoo | Will Querétaro FC win on 2026-08-09? | Yes (BUY) | 27% | 0.75 | ⏳ pendiente | — |
-| quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 46% | 0.37 | ⏳ pendiente | — |
-| quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.55 | ⏳ pendiente | — |
