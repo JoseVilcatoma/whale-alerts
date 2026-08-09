@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 06:28:05 (hora de Perú)
+Actualizado: 2026-08-09 06:30:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $347.06
-**Retorno acumulado:** -65.29%
+**Bankroll actual:** $341.09
+**Retorno acumulado:** -65.89%
 **Peor caída desde un máximo (drawdown):** 68.38%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -28,14 +28,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 4 | -20.92 USD |
+| RN1 | 24 | 17 | 6 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 24 | 68 | 72 | -57.44 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 243 | 197 | 4 | -91.69 USD |
+| ferrariChampions2026 | 243 | 197 | 5 | -91.69 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 2 | 36 | 16 | -303.20 USD |
+| TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -172,6 +172,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Manchester City win on 2026-08-09? | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| RN1 | Sparta Rotterdam vs. Feyenoord Rotterdam | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| RN1 | Manchester City vs. Atletico Madrid: 1st | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Manchester City win on 2026-08-09? | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
@@ -196,9 +202,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Sparta Rotterdam vs. Feyenoord Rotterdam | Yes (BUY) | 61% | 1.41 | ⏳ pendiente | — |
 | UpTheBlues | Spread: South Melbourne FC (-1.5) | Fremantle City FC (BUY) | 32% | 0.07 | ⏳ pendiente | — |
 | quavoo | Will Atlético Nacional win on 2026-08-08 | Yes (BUY) | 32% | 0.68 | ⏳ pendiente | — |
-| quavoo | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 55% | 0.35 | ⏳ pendiente | — |
-| UpTheBlues | Will Helmond Sport vs. De Graafschap end | No (BUY) | 73% | 0.57 | ⏳ pendiente | — |
-| quavoo | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Helmond Sport vs. De Graafschap end | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |

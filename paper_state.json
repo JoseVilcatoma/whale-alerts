@@ -1,5 +1,5 @@
 {
-  "bankroll": 347.06272141689647,
+  "bankroll": 341.09272141689644,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5715,6 +5715,16 @@
       "timestamp": 1786274314.196074,
       "bankroll": 347.06,
       "event": "won: quavoo \u2014 Spread: T\u014dky\u014d Verdy (-1.5)"
+    },
+    {
+      "timestamp": 1786274923.4877682,
+      "bankroll": 347.06,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Dplus KIA vs KT Rolster - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786274929.4195108,
+      "bankroll": 341.09,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Dplus KIA vs KT Rolster - Game 1 Winner"
     }
   ]
 }
