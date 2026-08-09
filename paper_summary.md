@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:51:13 (hora de Perú)
+Actualizado: 2026-08-08 21:53:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $394.75
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| quavoo | 16 | 25 | 59 | +22.68 USD |
+| quavoo | 16 | 25 | 60 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 29 | 1 | +20.63 USD |
 | wr0ngw4yb3tt0r | 26 | 23 | 13 | +19.60 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -163,6 +163,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Spread: Minnesota Lynx (-7.5) | Minnesota Lynx (BUY) | 48% | 0.41 | ⏳ pendiente | — |
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 50% | 2.89 | ⏳ pendiente | — |
 | quavoo | Will Kawasaki Frontale win on 2026-08-09 | Yes (BUY) | 41% | 1.51 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 1.60 | ⏳ pendiente | — |
@@ -192,4 +193,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Seattle Storm vs. PortlandFire | Seattle Storm (BUY) | 23% | 0.90 | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 77% | 0.56 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Mateusz Gamrot vs. Quil | Mateusz Gamrot (BUY) | 41% | 2.60 | ⏳ pendiente | — |
-| quavoo | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 39% | 1.32 | ⏳ pendiente | — |

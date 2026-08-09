@@ -24348,5 +24348,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786243491.2359273,
     "fills": 6
+  },
+  {
+    "timestamp": 1786243951,
+    "timestamp_added": 1786243951.6722202,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "wnba-dal-min-2026-08-09-spread-home-7pt5",
+    "title": "Spread: Minnesota Lynx (-7.5)",
+    "outcome": "Minnesota Lynx",
+    "side": "BUY",
+    "whale_usd": 111.83999999999999,
+    "whale_pct": 0.103,
+    "paper_stake_usd": 0.41,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786243951.672227,
+    "fills": 1
   }
 ]
