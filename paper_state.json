@@ -1,5 +1,5 @@
 {
-  "bankroll": 288.82862822074145,
+  "bankroll": 285.4286282207415,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8020,6 +8020,26 @@
       "timestamp": 1786318600.6430867,
       "bankroll": 288.83,
       "event": "won: 1winstreak1 \u2014 Minnesota Twins vs. Milwaukee Brewers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786318715.5654824,
+      "bankroll": 285.43,
+      "event": "lost: 1winstreak1 \u2014 Minnesota Twins vs. Milwaukee Brewers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786318715.6656818,
+      "bankroll": 285.43,
+      "event": "won: RN1 \u2014 Minnesota Twins vs. Milwaukee Brewers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786318715.977361,
+      "bankroll": 285.43,
+      "event": "lost: 1winstreak1 \u2014 Minnesota Twins vs. Milwaukee Brewers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786318716.3077571,
+      "bankroll": 285.43,
+      "event": "lost: 1winstreak1 \u2014 Spread: Milwaukee Brewers (-2.5)"
     }
   ]
 }
