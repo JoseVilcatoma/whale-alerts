@@ -1,5 +1,5 @@
 {
-  "bankroll": 318.8924869146368,
+  "bankroll": 318.80226092593625,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5305,6 +5305,21 @@
       "timestamp": 1786251252.7878273,
       "bankroll": 318.89,
       "event": "won: quavoo \u2014 Will CF Monterrey win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786251741.3593357,
+      "bankroll": 316.21,
+      "event": "lost: 1winstreak1 \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786251803.0408814,
+      "bankroll": 317.52,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 5.5"
+    },
+    {
+      "timestamp": 1786251805.1863043,
+      "bankroll": 318.8,
+      "event": "won: 1winstreak1 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 5.5"
     }
   ]
 }
