@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:14:28 (hora de Perú)
+Actualizado: 2026-08-08 21:16:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $405.49
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 29 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | UpTheBlues | 47 | 31 | 44 | +15.42 USD |
-| greyoctober | 7 | 0 | 1 | +12.95 USD |
+| greyoctober | 7 | 0 | 2 | +12.95 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | HomeRunHazard | 35 | 37 | 16 | +4.98 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
@@ -160,6 +160,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 31.72 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 11.33 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 1.14 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 41% | 0.53 | ⏳ pendiente | — |
@@ -189,4 +190,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | CD Guadalajara vs. FC Dallas: O/U 1.5 | Over (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 29% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Minnesota Twins vs. Milwaukee Brewers: O | Over (BUY) | 54% | 0.00 | ❌ perdida | -0.00 |
