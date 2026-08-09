@@ -1,5 +1,5 @@
 {
-  "bankroll": 417.1785251459554,
+  "bankroll": 406.0585251459554,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4455,6 +4455,16 @@
       "timestamp": 1786240688.5524654,
       "bankroll": 417.18,
       "event": "won: quavoo \u2014 Valorant: KR\u00dc Esports vs Sentinels (BO3) - VCT Americas Stage 2 Group Omega"
+    },
+    {
+      "timestamp": 1786240749.5387685,
+      "bankroll": 417.18,
+      "event": "won: quavoo \u2014 Spread: Kansas City Royals (-1.5)"
+    },
+    {
+      "timestamp": 1786240760.323584,
+      "bankroll": 406.06,
+      "event": "lost: 1winstreak1 \u2014 Spread: Kansas City Royals (-1.5)"
     }
   ]
 }

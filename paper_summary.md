@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 20:58:32 (hora de Perú)
+Actualizado: 2026-08-08 21:00:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $417.18
-**Retorno acumulado:** -58.28%
-**Peor caída desde un máximo (drawdown):** 58.63%
+**Bankroll actual:** $406.06
+**Retorno acumulado:** -59.39%
+**Peor caída desde un máximo (drawdown):** 59.39%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| quavoo | 12 | 9 | 75 | +22.68 USD |
+| quavoo | 13 | 9 | 75 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 41 | 29 | 2 | +17.43 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | UpTheBlues | 47 | 31 | 44 | +15.42 USD |
@@ -26,13 +26,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 35 | 32 | 23 | -1.60 USD |
 | wr0ngw4yb3tt0r | 24 | 21 | 12 | -7.66 USD |
+| 1winstreak1 | 35 | 33 | 22 | -12.72 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 22 | 16 | 3 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 214 | 176 | 24 | -67.75 USD |
+| ferrariChampions2026 | 214 | 176 | 26 | -67.75 USD |
 | Talvez10 | 4 | 10 | 1 | -71.63 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 9 | -303.20 USD |
@@ -159,6 +159,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Los Angeles FC win on 2026-08-08? | Yes (BUY) | 39% | 0.54 | ⏳ pendiente | — |
+| ferrariChampions2026 | Instituto AC Córdoba vs. CA Gimnasia y E | Over (BUY) | 47% | 0.57 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Instituto AC Córdoba win on 2026-08 | Yes (BUY) | 34% | 0.73 | ⏳ pendiente | — |
 | ferrariChampions2026 | CD Guadalajara vs. FC Dallas: O/U 1.5 | Over (BUY) | 57% | 0.64 | ⏳ pendiente | — |
 | 1winstreak1 | Seattle Storm vs. PortlandFire | Seattle Storm (BUY) | 23% | 0.90 | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 77% | 0.56 | ⏳ pendiente | — |
@@ -186,6 +189,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Deportivo Toluca FC vs. Los Angeles FC:  | Yes (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 96% | 7.02 | ✅ ganada | +0.29 |
-| 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 66% | 1.48 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Baltimore Orioles (-1.5) | Baltimore Orioles (BUY) | 14% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 27% | 0.00 | ⏳ pendiente | — |
