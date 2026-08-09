@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 16:13:51 (hora de Perú)
+Actualizado: 2026-08-09 16:15:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $168.72
@@ -30,14 +30,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 84 | 42 | 38 | -20.21 USD |
+| RN1 | 84 | 42 | 41 | -20.21 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 61 | 89 | 28 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 42 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 44 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -210,6 +210,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-dig-ly-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-total-7pt5 | 1winstreak1, RN1, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-total-9pt5 | 1winstreak1, RN1 |
+| mlb-lad-ari-2026-08-09-spread-home-1pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-09-total-10pt5 | RN1, ferrariChampions2026 |
 | bra-bra-cor1-2026-08-09-cor1 | AV23IUa, RN1 |
 | mlb-cle-cws-2026-08-09-total-9pt5 | 1winstreak1, RN1, wr0ngw4yb3tt0r |
@@ -218,6 +219,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Sport Lisboa e Benfica vs. Académico de  | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 69% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Arizona Diamondbacks (-3.5) | Arizona Diamondbacks (BUY) | 39% | 0.00 | ⏳ pendiente | — |
+| RN1 | Sport Lisboa e Benfica vs. Académico de  | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| RN1 | Sport Lisboa e Benfica vs. Académico de  | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | RN1 | Moreirense FC vs. SC Braga: O/U 3.5 | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 82% | 0.00 | ⏳ pendiente | — |
@@ -243,8 +249,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 90% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Académico de Viseu FC win on 2026-0 | No (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | RN1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| RN1 | Moreirense FC vs. SC Braga: O/U 3.5 | Under (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Cleveland Guardians (-2.5) | Cleveland Guardians (BUY) | 36% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 44% | 0.00 | ⏳ pendiente | — |
