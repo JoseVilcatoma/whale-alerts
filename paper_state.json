@@ -1,5 +1,5 @@
 {
-  "bankroll": 291.52691953726804,
+  "bankroll": 292.96339012550334,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7835,6 +7835,31 @@
       "timestamp": 1786318219.4169009,
       "bankroll": 291.53,
       "event": "won: 1winstreak1 \u2014 Spread: Philadelphia Phillies (-1.5)"
+    },
+    {
+      "timestamp": 1786318338.896907,
+      "bankroll": 291.53,
+      "event": "lost: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 11.5"
+    },
+    {
+      "timestamp": 1786318339.0973027,
+      "bankroll": 291.53,
+      "event": "lost: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 11.5"
+    },
+    {
+      "timestamp": 1786318339.197498,
+      "bankroll": 292.96,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 11.5"
+    },
+    {
+      "timestamp": 1786318340.9239488,
+      "bankroll": 292.96,
+      "event": "lost: 1winstreak1 \u2014 Colorado Rockies vs. St. Louis Cardinals: O/U 10.5"
+    },
+    {
+      "timestamp": 1786318342.370858,
+      "bankroll": 292.96,
+      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. St. Louis Cardinals: O/U 10.5"
     }
   ]
 }

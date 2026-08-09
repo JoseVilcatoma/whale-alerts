@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 18:31:57 (hora de Perú)
+Actualizado: 2026-08-09 18:33:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $291.53
-**Retorno acumulado:** -70.85%
+**Bankroll actual:** $292.96
+**Retorno acumulado:** -70.70%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 82 | 57 | 55 | +31.66 USD |
+| 1winstreak1 | 83 | 58 | 53 | +31.66 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -32,13 +32,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 85 | 42 | 80 | -20.01 USD |
+| RN1 | 85 | 42 | 81 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 62 | 89 | 48 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 344 | 252 | 90 | -91.86 USD |
+| ferrariChampions2026 | 345 | 254 | 87 | -90.42 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -237,6 +237,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will CR Flamengo vs. EC Vitória end in a | No (BUY) | 92% | 0.30 | ⏳ pendiente | — |
 | quavoo | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 57% | 0.30 | ⏳ pendiente | — |
 | quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 45% | 0.89 | ⏳ pendiente | — |
 | RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 98% | 0.41 | ⏳ pendiente | — |
@@ -266,4 +267,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 98% | 0.39 | ⏳ pendiente | — |
 | quavoo | Chicago Stars FC vs. Bay FC: O/U 1.5 | Over (BUY) | 83% | 0.79 | ⏳ pendiente | — |
 | quavoo | Valorant: LOUD vs 100 Thieves - Map 1 Wi | LOUD (BUY) | 35% | 0.39 | ⏳ pendiente | — |
-| RN1 | Will Santos FC win on 2026-08-09? | No (BUY) | 99% | 0.44 | ⏳ pendiente | — |
