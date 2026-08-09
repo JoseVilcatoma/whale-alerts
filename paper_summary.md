@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 01:08:06 (hora de Perú)
+Actualizado: 2026-08-09 01:10:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $356.85
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 21 | 47 | 88 | -48.01 USD |
+| quavoo | 21 | 47 | 90 | -48.01 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | ferrariChampions2026 | 230 | 192 | 18 | -91.33 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -167,6 +167,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 58% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Helmond Sport vs. De Graafschap end | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Shandong Taishan FC vs. Tianjin Jin | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | quavoo | Manchester City vs. Atletico Madrid: Bot | Yes (BUY) | 65% | 0.00 | ⏳ pendiente | — |
@@ -195,5 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Games Total: O/U 2.5 | Over (BUY) | 49% | 0.71 | ⏳ pendiente | — |
 | quavoo | Will Kawasaki Frontale win on 2026-08-09 | Yes (BUY) | 42% | 0.55 | ⏳ pendiente | — |
 | quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 46% | 0.77 | ⏳ pendiente | — |
-| greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 5.07 | ⏳ pendiente | — |
-| quavoo | Tōkyō Verdy vs. Kawasaki Frontale: O/U 2 | Over (BUY) | 43% | 2.66 | ⏳ pendiente | — |
