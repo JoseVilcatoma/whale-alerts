@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:43:07 (hora de Perú)
+Actualizado: 2026-08-08 21:45:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $402.81
-**Retorno acumulado:** -59.72%
-**Peor caída desde un máximo (drawdown):** 60.84%
+**Bankroll actual:** $392.57
+**Retorno acumulado:** -60.74%
+**Peor caída desde un máximo (drawdown):** 61.20%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -13,27 +13,27 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| quavoo | 13 | 11 | 74 | +22.68 USD |
+| quavoo | 16 | 11 | 73 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 29 | 1 | +20.63 USD |
 | wr0ngw4yb3tt0r | 26 | 23 | 13 | +19.60 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| greyoctober | 7 | 0 | 5 | +12.95 USD |
+| greyoctober | 7 | 0 | 6 | +12.95 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 50 | 32 | 40 | +5.59 USD |
+| UpTheBlues | 60 | 39 | 23 | +5.30 USD |
 | swisstony | 2 | 0 | 0 | +2.82 USD |
-| HomeRunHazard | 37 | 42 | 9 | +1.46 USD |
+| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 43 | 39 | 13 | -16.07 USD |
+| HomeRunHazard | 38 | 43 | 7 | -1.89 USD |
+| 1winstreak1 | 45 | 39 | 11 | -13.97 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 23 | 16 | 2 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| Talvez10 | 4 | 10 | 1 | -71.63 USD |
-| ferrariChampions2026 | 215 | 181 | 22 | -85.49 USD |
+| Talvez10 | 4 | 11 | 0 | -82.84 USD |
+| ferrariChampions2026 | 218 | 182 | 18 | -84.77 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 10 | -303.20 USD |
 
@@ -163,6 +163,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 50% | 2.89 | ⏳ pendiente | — |
+| quavoo | Will Kawasaki Frontale win on 2026-08-09 | Yes (BUY) | 41% | 1.51 | ⏳ pendiente | — |
+| greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 1.60 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 48% | 47.29 | ⏳ pendiente | — |
@@ -183,13 +186,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | UFC Fight Night: Diego Ferreira vs. Bill | Billy Quarantillo (BUY) | 19% | 2.18 | ❌ perdida | -2.18 |
 | quavoo | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 64% | 0.48 | ⏳ pendiente | — |
 | quavoo | Will Los Angeles FC win on 2026-08-08? | Yes (BUY) | 39% | 0.54 | ⏳ pendiente | — |
-| ferrariChampions2026 | Instituto AC Córdoba vs. CA Gimnasia y E | Over (BUY) | 47% | 0.57 | ⏳ pendiente | — |
+| ferrariChampions2026 | Instituto AC Córdoba vs. CA Gimnasia y E | Over (BUY) | 47% | 0.57 | ✅ ganada | +0.64 |
 | ferrariChampions2026 | Will Instituto AC Córdoba win on 2026-08 | Yes (BUY) | 34% | 0.73 | ⏳ pendiente | — |
 | ferrariChampions2026 | CD Guadalajara vs. FC Dallas: O/U 1.5 | Over (BUY) | 57% | 0.64 | ⏳ pendiente | — |
 | 1winstreak1 | Seattle Storm vs. PortlandFire | Seattle Storm (BUY) | 23% | 0.90 | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 77% | 0.56 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Mateusz Gamrot vs. Quil | Mateusz Gamrot (BUY) | 41% | 2.60 | ⏳ pendiente | — |
 | quavoo | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 39% | 1.32 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 18% | 0.46 | ⏳ pendiente | — |
-| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 42% | 2.37 | ❌ perdida | -2.37 |
-| quavoo | Real Salt Lake vs. Atlante FC: O/U 3.5 | Under (BUY) | 61% | 1.12 | ⏳ pendiente | — |

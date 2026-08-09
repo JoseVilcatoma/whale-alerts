@@ -1,5 +1,5 @@
 {
-  "bankroll": 402.80908395973984,
+  "bankroll": 392.5664408984245,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4690,6 +4690,156 @@
       "timestamp": 1786243190.1382947,
       "bankroll": 402.81,
       "event": "won: UpTheBlues \u2014 Will Washington Spirit win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243467.908216,
+      "bankroll": 399.46,
+      "event": "lost: HomeRunHazard \u2014 Spread: Colorado Rockies (-1.5)"
+    },
+    {
+      "timestamp": 1786243469.2576134,
+      "bankroll": 399.46,
+      "event": "won: HomeRunHazard \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1786243479.1899047,
+      "bankroll": 399.46,
+      "event": "won: quavoo \u2014 Orlando City SC vs. Club Le\u00f3n FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786243483.3537588,
+      "bankroll": 399.46,
+      "event": "won: quavoo \u2014 Spread: Club Le\u00f3n FC (-1.5)"
+    },
+    {
+      "timestamp": 1786243484.7271833,
+      "bankroll": 388.25,
+      "event": "lost: Talvez10 \u2014 Jordan Walker: Home Runs O/U 0.5"
+    },
+    {
+      "timestamp": 1786243486.0711226,
+      "bankroll": 388.25,
+      "event": "lost: UpTheBlues \u2014 Orlando City SC vs. Club Le\u00f3n FC: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1786243486.4406629,
+      "bankroll": 388.25,
+      "event": "won: quavoo \u2014 Spread: Colorado Rockies (-2.5)"
+    },
+    {
+      "timestamp": 1786243488.2819297,
+      "bankroll": 388.52,
+      "event": "won: UpTheBlues \u2014 Orlando City SC vs. Club Le\u00f3n FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786243489.4221334,
+      "bankroll": 388.6,
+      "event": "won: ferrariChampions2026 \u2014 Orlando City SC vs. Club Le\u00f3n FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786243489.864387,
+      "bankroll": 388.04,
+      "event": "lost: UpTheBlues \u2014 Orlando City SC vs. Club Le\u00f3n FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786243490.327715,
+      "bankroll": 388.04,
+      "event": "lost: UpTheBlues \u2014 Orlando City SC vs. Club Le\u00f3n FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786243490.636957,
+      "bankroll": 388.04,
+      "event": "won: 1winstreak1 \u2014 Spread: Cleveland Guardians (-1.5)"
+    },
+    {
+      "timestamp": 1786243491.0461822,
+      "bankroll": 388.04,
+      "event": "won: UpTheBlues \u2014 Orlando City SC vs. Club Le\u00f3n FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786243491.3786204,
+      "bankroll": 388.04,
+      "event": "lost: UpTheBlues \u2014 Instituto AC C\u00f3rdoba vs. CA Gimnasia y Esgrima de Mendoza: O/U 3.5"
+    },
+    {
+      "timestamp": 1786243492.1296844,
+      "bankroll": 388.04,
+      "event": "lost: UpTheBlues \u2014 Orlando City SC vs. Club Le\u00f3n FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786243492.2298388,
+      "bankroll": 388.04,
+      "event": "won: UpTheBlues \u2014 Spread: Club Le\u00f3n FC (-1.5)"
+    },
+    {
+      "timestamp": 1786243492.6194081,
+      "bankroll": 388.04,
+      "event": "won: UpTheBlues \u2014 Spread: Orlando City SC (-1.5)"
+    },
+    {
+      "timestamp": 1786243493.0686455,
+      "bankroll": 388.04,
+      "event": "lost: UpTheBlues \u2014 Orlando City SC vs. Club Le\u00f3n FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786243493.4130168,
+      "bankroll": 388.04,
+      "event": "won: UpTheBlues \u2014 Spread: Orlando City SC (-2.5)"
+    },
+    {
+      "timestamp": 1786243493.5131629,
+      "bankroll": 388.04,
+      "event": "won: UpTheBlues \u2014 Spread: Orlando City SC (-1.5)"
+    },
+    {
+      "timestamp": 1786243493.6132622,
+      "bankroll": 388.04,
+      "event": "lost: UpTheBlues \u2014 Orlando City SC vs. Club Le\u00f3n FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786243493.7133708,
+      "bankroll": 388.04,
+      "event": "won: UpTheBlues \u2014 Spread: Orlando City SC (-2.5)"
+    },
+    {
+      "timestamp": 1786243493.8135166,
+      "bankroll": 388.04,
+      "event": "won: UpTheBlues \u2014 Spread: Club Le\u00f3n FC (-1.5)"
+    },
+    {
+      "timestamp": 1786243494.7830126,
+      "bankroll": 388.04,
+      "event": "won: UpTheBlues \u2014 Spread: Club Le\u00f3n FC (-1.5)"
+    },
+    {
+      "timestamp": 1786243495.325997,
+      "bankroll": 388.04,
+      "event": "won: UpTheBlues \u2014 Spread: Club Le\u00f3n FC (-1.5)"
+    },
+    {
+      "timestamp": 1786243496.065108,
+      "bankroll": 389.83,
+      "event": "won: 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 \u2014 Instituto AC C\u00f3rdoba vs. CA Gimnasia y Esgrima de Mendoza: O/U 2.5"
+    },
+    {
+      "timestamp": 1786243498.526295,
+      "bankroll": 389.83,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Chicago White Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786243498.867062,
+      "bankroll": 389.83,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Chicago White Sox (-2.5)"
+    },
+    {
+      "timestamp": 1786243500.8774047,
+      "bankroll": 391.92,
+      "event": "won: 1winstreak1 \u2014 Spread: Chicago White Sox (-2.5)"
+    },
+    {
+      "timestamp": 1786243502.3434305,
+      "bankroll": 392.57,
+      "event": "won: ferrariChampions2026 \u2014 Instituto AC C\u00f3rdoba vs. CA Gimnasia y Esgrima de Mendoza: O/U 0.5"
     }
   ]
 }
