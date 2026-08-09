@@ -170,6 +170,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ere-spa-fey-2026-08-09-fey | RN1, quavoo |
 | val-gm-ep1-2026-08-09 | greyoctober, quavoo |
 | auc-bri-syd-2026-08-09-total-5pt5 | UpTheBlues, swisstony |
+| ere-zwo-aja-2026-08-09-aja | RN1, quavoo |
 | clf-mci-atm-2026-08-09-spread-home-1pt5 | ferrariChampions2026, swisstony |
 | ere-spa-fey-2026-08-09-total-3pt5 | RN1, swisstony |
 | jap-vva-kyo-2026-08-09-spread-home-1pt5 | ferrariChampions2026, swisstony |
@@ -183,9 +184,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-fce-h96-2026-08-09-total-4pt5 | RN1, ferrariChampions2026 |
 | bl2-fce-h96-2026-08-09-h96 | RN1, ferrariChampions2026 |
 | bl2-fce-h96-2026-08-09-fce | RN1, ferrariChampions2026 |
+| ere-zwo-aja-2026-08-09-spread-away-1pt5 | RN1, quavoo |
 | scop-kil-cel-2026-08-09-cel | RN1, ferrariChampions2026 |
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
+| bl2-fce-h96-2026-08-09-total-3pt5 | RN1, ferrariChampions2026 |
+| clf-lfc-asm-2026-08-09-asm | RN1, ferrariChampions2026 |
+| clf-lfc-asm-2026-08-09-draw | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
