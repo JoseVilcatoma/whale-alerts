@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 02:49:24 (hora de Perú)
+Actualizado: 2026-08-09 02:51:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $353.31
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | UpTheBlues | 78 | 44 | 11 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| swisstony | 2 | 0 | 3 | +2.82 USD |
+| swisstony | 2 | 0 | 5 | +2.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
@@ -167,6 +167,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Kuopion Palloseura win on 2026-08-0 | No (BUY) | 36% | 0.00 | ⏳ pendiente | — |
+| swisstony | Brisbane Roar FC vs. Sydney FC: O/U 5.5 | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs KT Rolster ( | Dplus KIA (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs KT Rolster ( | Dplus KIA (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | swisstony | Spread: Hibernian FC (-2.5) | Rangers FC (BUY) | 98% | 0.00 | ⏳ pendiente | — |
@@ -195,5 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports - Ga | Invictus Gaming (BUY) | 80% | 1.29 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports (BO3 | Invictus Gaming (BUY) | 83% | 0.42 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports - Ga | LNG Esports (BUY) | 25% | 0.37 | ⏳ pendiente | — |
-| quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 59% | 0.51 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports - Ga | LNG Esports (BUY) | 26% | 0.36 | ⏳ pendiente | — |
