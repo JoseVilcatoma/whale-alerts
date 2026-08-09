@@ -1,5 +1,5 @@
 {
-  "bankroll": 475.4113540785596,
+  "bankroll": 473.48135407855966,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4125,6 +4125,21 @@
       "timestamp": 1786235523.7963376,
       "bankroll": 475.41,
       "event": "lost: ferrariChampions2026 \u2014 Will CA Boca Juniors win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235763.1025684,
+      "bankroll": 474.82,
+      "event": "lost: ferrariChampions2026 \u2014 Will RC Deportivo De La Coruna win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235763.2028115,
+      "bankroll": 474.06,
+      "event": "lost: ferrariChampions2026 \u2014 Will RC Deportivo De La Coruna win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235763.3030205,
+      "bankroll": 473.48,
+      "event": "lost: ferrariChampions2026 \u2014 Will RC Deportivo De La Coruna win on 2026-08-08?"
     }
   ]
 }
