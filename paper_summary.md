@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 12:22:29 (hora de Perú)
+Actualizado: 2026-08-09 12:24:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $165.62
-**Retorno acumulado:** -83.44%
+**Bankroll actual:** $166.14
+**Retorno acumulado:** -83.39%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -33,11 +33,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 50 | 79 | 47 | -49.16 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 306 | 230 | 57 | -88.56 USD |
+| ferrariChampions2026 | 307 | 231 | 55 | -88.04 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 19 | 38 | 5 | -298.46 USD |
+| TAIWANNUMBERONE | 19 | 38 | 6 | -298.46 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -198,6 +198,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Joey Cantillo: Strikeouts O/U 5.5 | Under (BUY) | 51% | 0.85 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Ryan Gusto: Strikeouts O/U 4.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Las Vegas Aces vs. New York Liberty: O/U | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Las Vegas Aces vs. New York Liberty: O/U | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
@@ -227,4 +228,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 65% | 0.20 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Olympique Marseille win on 2026-08- | Yes (BUY) | 64% | 0.35 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Athletic Bilbao win on 2026-08-09? | No (BUY) | 84% | 0.46 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Rangers FC vs. Hibernian FC end in  | No (BUY) | 68% | 0.30 | ⏳ pendiente | — |

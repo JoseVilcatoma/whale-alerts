@@ -1,5 +1,5 @@
 {
-  "bankroll": 165.6205879973712,
+  "bankroll": 166.13674184352504,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7095,6 +7095,16 @@
       "timestamp": 1786296012.215427,
       "bankroll": 165.62,
       "event": "lost: Djdjdjekekek \u2014 Counter-Strike: 100 Thieves vs BC.Game Esports (BO3) - Esports World Cup Open Qualifier Play-Ins"
+    },
+    {
+      "timestamp": 1786296192.7322412,
+      "bankroll": 165.62,
+      "event": "lost: ferrariChampions2026 \u2014 Liverpool FC vs. AS Monaco: O/U 4.5"
+    },
+    {
+      "timestamp": 1786296193.829212,
+      "bankroll": 166.14,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Liverpool FC (-1.5)"
     }
   ]
 }
