@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 01:12:21 (hora de Perú)
+Actualizado: 2026-08-09 01:14:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $351.13
-**Retorno acumulado:** -64.89%
+**Bankroll actual:** $351.25
+**Retorno acumulado:** -64.88%
 **Peor caída desde un máximo (drawdown):** 68.38%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 7 | 0 | 17 | +12.95 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 0 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
-| UpTheBlues | 78 | 43 | 5 | +8.44 USD |
+| UpTheBlues | 78 | 43 | 6 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | swisstony | 2 | 0 | 0 | +2.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
@@ -31,9 +31,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 21 | 57 | 80 | -53.73 USD |
+| quavoo | 21 | 57 | 81 | -53.73 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 230 | 192 | 18 | -91.33 USD |
+| ferrariChampions2026 | 231 | 192 | 17 | -91.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 11 | -303.20 USD |
 
@@ -167,6 +167,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Helmond Sport vs. De Graafschap end | No (BUY) | 73% | 0.57 | ⏳ pendiente | — |
+| quavoo | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Helmond Sport vs. De Graafschap end | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
@@ -195,5 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 57% | 1.45 | ⏳ pendiente | — |
 | quavoo | Will Kawasaki Frontale win on 2026-08-09 | Yes (BUY) | 42% | 0.37 | ⏳ pendiente | — |
 | quavoo | Games Total: O/U 2.5 | Over (BUY) | 49% | 0.71 | ⏳ pendiente | — |
-| quavoo | Will Kawasaki Frontale win on 2026-08-09 | Yes (BUY) | 42% | 0.55 | ⏳ pendiente | — |
-| quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 46% | 0.77 | ⏳ pendiente | — |

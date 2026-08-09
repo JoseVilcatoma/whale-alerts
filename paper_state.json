@@ -1,5 +1,5 @@
 {
-  "bankroll": 351.13290566486364,
+  "bankroll": 351.24540566486365,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5550,6 +5550,11 @@
       "timestamp": 1786255923.6051548,
       "bankroll": 351.13,
       "event": "lost: quavoo \u2014 Real Salt Lake vs. Atlante FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786255983.6921718,
+      "bankroll": 351.25,
+      "event": "won: ferrariChampions2026 \u2014 Real Salt Lake vs. Atlante FC: O/U 1.5"
     }
   ]
 }
