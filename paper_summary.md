@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 14:31:38 (hora de Perú)
+Actualizado: 2026-08-09 14:33:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $172.33
-**Retorno acumulado:** -82.77%
+**Bankroll actual:** $171.69
+**Retorno acumulado:** -82.83%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 66 | 50 | 36 | +29.06 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 35 | 32 | 11 | +11.82 USD |
+| wr0ngw4yb3tt0r | 35 | 32 | 12 | +11.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 83 | 42 | 2 | -20.27 USD |
 | Djdjdjekekek | 0 | 3 | 1 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 55 | 82 | 39 | -49.79 USD |
+| quavoo | 55 | 83 | 38 | -50.43 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | ferrariChampions2026 | 331 | 242 | 25 | -89.86 USD |
@@ -209,6 +209,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 29% | 0.44 | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 58% | 0.24 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Philadelphia Phillies (-4.5) | Toronto Blue Jays (BUY) | 74% | 0.28 | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 51% | 1.55 | ⏳ pendiente | — |
@@ -238,4 +239,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Philadelphia Phillies (-2.5) | Toronto Blue Jays (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Cleveland Guardians (-1.5) | Chicago White Sox (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 77% | 0.00 | ⏳ pendiente | — |
