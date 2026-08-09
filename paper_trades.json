@@ -33852,5 +33852,70 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786301120.7990897,
     "fills": 1
+  },
+  {
+    "timestamp": 1786301198,
+    "timestamp_added": 1786301199.2905772,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-atl-nyy-2026-08-09-spread-away-2pt5",
+    "title": "Spread: Atlanta Braves (-2.5)",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 92.16,
+    "whale_pct": 0.245,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 18,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786301199.2905834,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786301262,
+    "timestamp_added": 1786301262.9304538,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-cin-wsh-2026-08-09-total-8pt5",
+    "title": "Cincinnati Reds vs. Washington Nationals: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 83.34,
+    "whale_pct": 0.221,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786301262.9304602,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786301262,
+    "timestamp_added": 1786301263.402735,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-cin-wsh-2026-08-09-total-9pt5",
+    "title": "Cincinnati Reds vs. Washington Nationals: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 67.71,
+    "whale_pct": 0.179,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786301263.4027412,
+    "fills": 1
   }
 ]
