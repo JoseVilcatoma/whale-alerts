@@ -1,5 +1,5 @@
 {
-  "bankroll": 394.7514408984245,
+  "bankroll": 396.16849972195394,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4930,6 +4930,11 @@
       "timestamp": 1786243803.8609817,
       "bankroll": 394.75,
       "event": "won: UpTheBlues \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786244118.0808332,
+      "bankroll": 396.17,
+      "event": "won: ferrariChampions2026 \u2014 Will Instituto AC C\u00f3rdoba win on 2026-08-08?"
     }
   ]
 }
