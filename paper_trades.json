@@ -39600,5 +39600,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786318011.1183307,
     "fills": 1
+  },
+  {
+    "timestamp": 1786318187,
+    "timestamp_added": 1786318187.3605828,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lec-caz-nyc-2026-08-09-caz",
+    "title": "Will CF Cruz Azul win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 784.8000000000001,
+    "whale_pct": 0.309,
+    "paper_stake_usd": 0.89,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786318187.360594,
+    "fills": 1
   }
 ]
