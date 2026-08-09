@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 17:23:09 (hora de Perú)
+Actualizado: 2026-08-09 17:25:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.18
@@ -26,18 +26,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 3 | 2 | +0.00 USD |
 | monkeymashingkeyboard | 2 | 0 | 1 | +0.00 USD |
-| theowalcott | 0 | 0 | 7 | +0.00 USD |
+| theowalcott | 0 | 0 | 9 | +0.00 USD |
 | AV23IUa | 0 | 0 | 5 | +0.00 USD |
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 85 | 42 | 61 | -20.01 USD |
+| RN1 | 85 | 42 | 62 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 62 | 89 | 27 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 82 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 84 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -232,6 +232,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: FlyQuest vs Team Liquid (BO3) - LCS | Team Liquid (BUY) | 84% | 1.33 | ⏳ pendiente | — |
+| RN1 | Will Red Bull Bragantino win on 2026-08- | No (BUY) | 69% | 0.30 | ⏳ pendiente | — |
+| theowalcott | Will Once Caldas win on 2026-08-09? | No (BUY) | 57% | 0.98 | ⏳ pendiente | — |
+| ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 52% | 0.38 | ⏳ pendiente | — |
+| theowalcott | Will Once Caldas win on 2026-08-09? | No (BUY) | 57% | 0.89 | ⏳ pendiente | — |
 | theowalcott | Will Once Caldas win on 2026-08-09? | No (BUY) | 57% | 6.62 | ⏳ pendiente | — |
 | theowalcott | Will Once Caldas win on 2026-08-09? | No (BUY) | 57% | 4.64 | ⏳ pendiente | — |
 | RN1 | Will Once Caldas win on 2026-08-09? | Yes (BUY) | 43% | 1.27 | ⏳ pendiente | — |
@@ -257,8 +262,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: CSyD Defensa y Justicia (-1.5) | CSyD Defensa y Justicia (BUY) | 46% | 0.51 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: CSyD Defensa y Justicia (-1.5) | CSyD Defensa y Justicia (BUY) | 47% | 0.53 | ⏳ pendiente | — |
 | ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 30% | 0.34 | ⏳ pendiente | — |
-| ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 67% | 1.20 | ⏳ pendiente | — |
-| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 45% | 0.41 | ⏳ pendiente | — |
-| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 30% | 0.44 | ⏳ pendiente | — |
-| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 39% | 0.54 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 33% | 1.90 | ⏳ pendiente | — |
