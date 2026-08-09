@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 09:35:11 (hora de Perú)
+Actualizado: 2026-08-09 09:37:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $258.21
-**Retorno acumulado:** -74.18%
+**Bankroll actual:** $258.36
+**Retorno acumulado:** -74.16%
 **Peor caída desde un máximo (drawdown):** 75.07%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 34 | 31 | 6 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 78 | 45 | 6 | +7.53 USD |
+| UpTheBlues | 79 | 45 | 5 | +7.68 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
@@ -31,10 +31,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 30 | 23 | 72 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 26 | 72 | 76 | -56.21 USD |
+| quavoo | 27 | 72 | 75 | -56.21 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| StasPanda | 3 | 8 | 4 | -89.94 USD |
-| ferrariChampions2026 | 245 | 198 | 104 | -91.43 USD |
+| StasPanda | 3 | 9 | 3 | -89.94 USD |
+| ferrariChampions2026 | 245 | 198 | 106 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 12 | 38 | 7 | -298.46 USD |
 
@@ -193,6 +193,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will AS Monaco win on 2026-08-09? | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will AS Monaco win on 2026-08-09? | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 88% | 0.00 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: BESTIA vs Isurus (BO3) - | Isurus (BUY) | 28% | 0.00 | ⏳ pendiente | — |
 | quavoo | IFK Goteborg vs. Kalmar FF: O/U 2.5 | Under (BUY) | 49% | 0.06 | ⏳ pendiente | — |
@@ -221,5 +223,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | PEC Zwolle vs. AFC Ajax: O/U 1.5 | Over (BUY) | 45% | 0.27 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Celtic FC (-1.5) | Celtic FC (BUY) | 65% | 0.00 | ⏳ pendiente | — |
 | RN1 | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will FC Energie Cottbus win on 2026-08-0 | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chongqing Tonglianglong FC vs. Shanghai  | Under (BUY) | 26% | 0.00 | ⏳ pendiente | — |
