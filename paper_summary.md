@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 09:00:12 (hora de Perú)
+Actualizado: 2026-08-09 09:02:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $260.77
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 43 | 30 | 4 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 19 | +12.95 USD |
-| wr0ngw4yb3tt0r | 34 | 31 | 4 | +11.82 USD |
+| wr0ngw4yb3tt0r | 34 | 31 | 5 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | UpTheBlues | 78 | 45 | 6 | +7.53 USD |
@@ -192,6 +192,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: New York Liberty (-9.5) | Las Vegas Aces (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | quavoo | SC Heerenveen vs. FC Twente: O/U 1.5 | Over (BUY) | 86% | 0.00 | ⏳ pendiente | — |
 | SDTrading | Colorado Rockies vs. St. Louis Cardinals | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
@@ -221,4 +222,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Manchester City win on 2026-08-09? | No (BUY) | 10% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chelsea FC (-1.5) | Johor Darul Ta'zim (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Henan FC win on 2026-08-09? | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will PEC Zwolle win on 2026-08-09? | No (BUY) | 88% | 0.00 | ⏳ pendiente | — |
