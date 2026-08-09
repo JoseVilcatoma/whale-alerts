@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 13:06:05 (hora de Perú)
+Actualizado: 2026-08-09 13:08:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $164.48
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 55 | 48 | 6 | +28.65 USD |
+| 1winstreak1 | 55 | 48 | 10 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 9 | +11.82 USD |
@@ -190,16 +190,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | scop-kil-cel-2026-08-09-cel | RN1, ferrariChampions2026 |
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
-| mlb-cin-wsh-2026-08-09-total-9pt5 | SDTrading, wr0ngw4yb3tt0r |
+| mlb-cin-wsh-2026-08-09-total-9pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 | mlb-tor-phi-2026-08-09-spread-home-1pt5 | 1winstreak1, ferrariChampions2026, monkeymashingkeyboard |
 | wnba-phx-wsh-2026-08-09-spread-home-1pt5 | monkeymashingkeyboard, wr0ngw4yb3tt0r |
 | lol-th-g2-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-total-8pt5 | 1winstreak1, SDTrading |
+| mlb-cin-wsh-2026-08-09-spread-home-2pt5 | 1winstreak1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 86% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 66% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Washington Nationals (-2.5) | Washington Nationals (BUY) | 35% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Miami Marlins (-2.5) | Miami Marlins (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Joey Cantillo: Strikeouts O/U 5.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Washington Nationals (-2.5) | Washington Nationals (BUY) | 31% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 39% | 0.00 | ⏳ pendiente | — |
@@ -226,7 +231,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | Joey Cantillo: Strikeouts O/U 5.5 | Under (BUY) | 50% | 0.31 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Ryan Gusto: Strikeouts O/U 4.5 | Under (BUY) | 51% | 1.54 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: BESTIA vs Isurus (BO3) - | Isurus (BUY) | 27% | 0.61 | ⏳ pendiente | — |
-| RN1 | Will Brøndby IF win on 2026-08-09? | Yes (BUY) | 77% | 0.19 | ⏳ pendiente | — |
-| RN1 | Will NK Slaven Belupo win on 2026-08-09? | No (BUY) | 67% | 0.41 | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: 100 Thieves vs 1WIN (BO3 | 1WIN (BUY) | 37% | 0.33 | ⏳ pendiente | — |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 62% | 13.16 | ⏳ pendiente | — |
