@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 00:18:15 (hora de Perú)
+Actualizado: 2026-08-09 00:20:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $360.93
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 20 | 47 | 61 | -48.01 USD |
+| quavoo | 20 | 47 | 63 | -48.01 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | ferrariChampions2026 | 229 | 192 | 19 | -91.98 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -167,6 +167,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Philadelphia Union win on 2026-08-0 | Yes (BUY) | 55% | 0.81 | ⏳ pendiente | — |
+| quavoo | Will Liverpool FC win on 2026-08-09? | Yes (BUY) | 63% | 0.57 | ⏳ pendiente | — |
 | quavoo | Will Malmo FF win on 2026-08-09? | Yes (BUY) | 67% | 1.93 | ⏳ pendiente | — |
 | quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 40% | 1.27 | ⏳ pendiente | — |
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.58 | ⏳ pendiente | — |
@@ -194,6 +196,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will BK Hacken win on 2026-08-09? | Yes (BUY) | 18% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
