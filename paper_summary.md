@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 00:57:53 (hora de Perú)
+Actualizado: 2026-08-09 00:59:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $360.93
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 21 | 47 | 84 | -48.01 USD |
+| quavoo | 21 | 47 | 85 | -48.01 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | ferrariChampions2026 | 229 | 192 | 19 | -91.98 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -167,6 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Spread: Tōkyō Verdy (-1.5) | Kawasaki Frontale (BUY) | 90% | 0.68 | ⏳ pendiente | — |
 | UpTheBlues | SC Heerenveen vs. FC Twente: O/U 4.5 | Under (BUY) | 76% | 0.49 | ⏳ pendiente | — |
 | quavoo | Will Brøndby IF win on 2026-08-09? | No (BUY) | 45% | 0.44 | ⏳ pendiente | — |
 | quavoo | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 63% | 1.27 | ⏳ pendiente | — |
@@ -196,4 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Liverpool FC win on 2026-08-09? | Yes (BUY) | 63% | 0.57 | ⏳ pendiente | — |
 | quavoo | Will Malmo FF win on 2026-08-09? | Yes (BUY) | 67% | 1.93 | ⏳ pendiente | — |
 | quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 40% | 1.27 | ⏳ pendiente | — |
-| quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.58 | ⏳ pendiente | — |

@@ -26293,5 +26293,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786255063.3533366,
     "fills": 1
+  },
+  {
+    "timestamp": 1786255133,
+    "timestamp_added": 1786255134.6322246,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "jap-fct1-kaw-2026-08-09-spread-home-1pt5",
+    "title": "Spread: T\u014dky\u014d Verdy (-1.5)",
+    "outcome": "Kawasaki Frontale",
+    "side": "BUY",
+    "whale_usd": 228.6,
+    "whale_pct": 0.187,
+    "paper_stake_usd": 0.68,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786255134.632234,
+    "fills": 1
   }
 ]
