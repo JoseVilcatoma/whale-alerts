@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 18:08:56 (hora de Perú)
+Actualizado: 2026-08-09 18:11:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.25
@@ -32,10 +32,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 85 | 42 | 75 | -20.01 USD |
+| RN1 | 85 | 42 | 76 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 62 | 89 | 40 | -55.81 USD |
+| quavoo | 62 | 89 | 41 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | ferrariChampions2026 | 344 | 251 | 89 | -91.86 USD |
@@ -229,11 +229,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tb-sea-2026-08-09-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-09-spread-home-2pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tb-sea-2026-08-09-total-5pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-cle-cws-2026-08-09-total-7pt5 | 1winstreak1, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Spread: New York City FC (-1.5) | CF Cruz Azul (BUY) | 89% | 1.76 | ⏳ pendiente | — |
+| RN1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 44% | 0.50 | ⏳ pendiente | — |
 | RN1 | Will CA Paranaense win on 2026-08-09? | Yes (BUY) | 96% | 0.39 | ⏳ pendiente | — |
 | quavoo | Spread: New York City FC (-1.5) | CF Cruz Azul (BUY) | 88% | 1.55 | ⏳ pendiente | — |
 | ferrariChampions2026 | Golden State Valkyries vs. Los Angeles S | Under (BUY) | 47% | 0.39 | ⏳ pendiente | — |
@@ -262,5 +265,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | CR Flamengo vs. EC Vitória: O/U 3.5 | Over (BUY) | 35% | 0.32 | ⏳ pendiente | — |
 | ferrariChampions2026 | Red Bull Bragantino vs. SC Corinthians P | Under (BUY) | 70% | 0.72 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 21% | 0.43 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 40% | 2.13 | ⏳ pendiente | — |
-| RN1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 56% | 0.66 | ⏳ pendiente | — |
