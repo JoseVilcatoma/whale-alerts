@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 3 | 2 | +0.00 USD |
 | monkeymashingkeyboard | 0 | 0 | 3 | +0.00 USD |
-| theowalcott | 0 | 0 | 2 | +0.00 USD |
+| theowalcott | 0 | 0 | 3 | +0.00 USD |
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -190,6 +190,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-fce-h96-2026-08-09-fce | RN1, ferrariChampions2026 |
 | scop-kil-cel-2026-08-09-cel | RN1, ferrariChampions2026 |
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
+| mlb-col-stl-2026-08-09-total-9pt5 | 1winstreak1, SDTrading |
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-total-9pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 | mlb-cle-cws-2026-08-09-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
@@ -200,6 +201,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-atl-nyy-2026-08-09-total-8pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-cin-wsh-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-spread-home-2pt5 | 1winstreak1, ferrariChampions2026 |
+| mlb-chc-kc-2026-08-09-total-10pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-chc-kc-2026-08-09-total-11pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-bal-tex-2026-08-09-total-11pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-oak-bos-2026-08-09-spread-home-1pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-atl-nyy-2026-08-09-total-2pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
