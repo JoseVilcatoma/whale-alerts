@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 19:52:05 (hora de Perú)
+Actualizado: 2026-08-08 19:54:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $475.03
-**Retorno acumulado:** -52.50%
+**Bankroll actual:** $475.23
+**Retorno acumulado:** -52.48%
 **Peor caída desde un máximo (drawdown):** 53.54%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -27,13 +27,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 28 | 29 | 18 | -8.77 USD |
-| wr0ngw4yb3tt0r | 18 | 16 | 17 | -10.57 USD |
+| 1winstreak1 | 28 | 29 | 19 | -8.77 USD |
+| wr0ngw4yb3tt0r | 20 | 16 | 15 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 20 | 16 | 5 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 209 | 175 | 17 | -72.81 USD |
+| ferrariChampions2026 | 211 | 175 | 15 | -72.62 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 8 | -303.20 USD |
 
@@ -148,11 +148,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-sen-sr-2026-08-08 | TeGeeLP, ferrariChampions2026 |
 | lec-orl-leo-2026-08-08-total-1pt5 | UpTheBlues, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-lad-ari-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 51% | 0.37 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 48% | 2.60 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 47% | 0.87 | ⏳ pendiente | — |
 | 1winstreak1 | Minnesota Twins vs. Milwaukee Brewers: O | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
@@ -182,4 +184,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Coritiba FBC win on 2026-08-08? | Yes (BUY) | 80% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Coritiba FBC vs. Associação Chapecoense  | Yes (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Orlando City SC (-2.5) | Club León FC (BUY) | 98% | 0.00 | ⏳ pendiente | — |

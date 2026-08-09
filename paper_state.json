@@ -1,5 +1,5 @@
 {
-  "bankroll": 475.03419498765055,
+  "bankroll": 475.22865281897583,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4165,6 +4165,26 @@
       "timestamp": 1786236575.8172784,
       "bankroll": 475.03,
       "event": "won: UpTheBlues \u2014 St. Truidense VV vs. Lommel SK: O/U 4.5"
+    },
+    {
+      "timestamp": 1786236822.749059,
+      "bankroll": 475.03,
+      "event": "won: wr0ngw4yb3tt0r \u2014 O/U 1.5 Rounds"
+    },
+    {
+      "timestamp": 1786236828.423761,
+      "bankroll": 475.12,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Cloud9 vs Disguised - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786236828.5239642,
+      "bankroll": 475.23,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Cloud9 vs Disguised - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786236846.0170074,
+      "bankroll": 475.23,
+      "event": "won: wr0ngw4yb3tt0r \u2014 O/U 1.5 Rounds"
     }
   ]
 }
