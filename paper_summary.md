@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 03:01:13 (hora de Perú)
+Actualizado: 2026-08-09 03:03:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $352.08
@@ -31,11 +31,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 23 | 63 | 76 | -52.43 USD |
+| quavoo | 23 | 63 | 78 | -52.43 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | ferrariChampions2026 | 243 | 197 | 0 | -91.69 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 2 | 36 | 16 | -303.20 USD |
+| TAIWANNUMBERONE | 2 | 36 | 12 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -168,6 +168,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 10.79 | ⏳ pendiente | — |
+| quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 53% | 0.95 | ⏳ pendiente | — |
+| quavoo | Will AFC Ajax win on 2026-08-09? | Yes (BUY) | 65% | 0.65 | ⏳ pendiente | — |
 | swisstony | Brisbane Roar FC vs. Sydney FC: O/U 5.5 | Under (BUY) | 50% | 4.23 | ⏳ pendiente | — |
 | UpTheBlues | Brisbane Roar FC vs. Sydney FC: O/U 5.5 | Under (BUY) | 50% | 0.91 | ⏳ pendiente | — |
 | quavoo | Sparta Rotterdam vs. Feyenoord Rotterdam | Yes (BUY) | 61% | 1.41 | ⏳ pendiente | — |
@@ -195,6 +198,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Olympique Marseille vs. Athletic Bilbao: | Under (BUY) | 63% | 0.64 | ⏳ pendiente | — |
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.53 | ⏳ pendiente | — |
 | quavoo | Manchester City vs. Atletico Madrid: Bot | Yes (BUY) | 65% | 1.18 | ⏳ pendiente | — |
-| quavoo | Valorant: VARREL vs Paper Rex (BO3) - VC | VARREL (BUY) | 21% | 0.73 | ⏳ pendiente | — |
-| quavoo | Athletics vs. Boston Red Sox: O/U 10.5 | Under (BUY) | 54% | 0.38 | ⏳ pendiente | — |
-| quavoo | Will Philadelphia Union win on 2026-08-0 | Yes (BUY) | 55% | 1.92 | ⏳ pendiente | — |
