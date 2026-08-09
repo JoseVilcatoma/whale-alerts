@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 20:37:44 (hora de Perú)
+Actualizado: 2026-08-08 20:39:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $480.42
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| quavoo | 8 | 7 | 76 | +22.68 USD |
+| quavoo | 8 | 7 | 78 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 41 | 29 | 2 | +17.43 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | UpTheBlues | 47 | 31 | 44 | +15.42 USD |
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 31 | 29 | 23 | -5.53 USD |
+| 1winstreak1 | 31 | 29 | 24 | -5.53 USD |
 | wr0ngw4yb3tt0r | 21 | 16 | 19 | -10.16 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 20 | 16 | 5 | -20.97 USD |
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-oak-bos-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard |
 | mlb-bal-tex-2026-08-08-total-7pt5 | 1winstreak1, HomeRunHazard |
 | lol-t1-hle1-2026-08-08-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
-| mlb-cle-cws-2026-08-08-total-8pt5 | HomeRunHazard, quavoo |
+| mlb-cle-cws-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard, quavoo |
 | lol-lgd-al-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | jap-san-jef-2026-08-08-total-1pt5 | UpTheBlues, ferrariChampions2026 |
 | jap-san-jef-2026-08-08-total-2pt5 | UpTheBlues, ferrariChampions2026 |
@@ -156,6 +156,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Santos FC vs. CA Paranaense: O/U 2.5 | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
+| quavoo | Deportivo Toluca FC vs. Los Angeles FC:  | Yes (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 96% | 7.02 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 66% | 1.48 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Baltimore Orioles (-1.5) | Baltimore Orioles (BUY) | 14% | 0.00 | ⏳ pendiente | — |
@@ -183,6 +186,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 59% | 5.33 | ⏳ pendiente | — |
 | TeGeeLP | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 60% | 1.70 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 94% | 0.05 | ⏳ pendiente | — |
-| UpTheBlues | Will Club León FC win on 2026-08-08? | No (BUY) | 74% | 1.05 | ⏳ pendiente | — |
-| UpTheBlues | Will Washington Spirit win on 2026-08-08 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Fluminense FC win on 2026-08-08? | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
