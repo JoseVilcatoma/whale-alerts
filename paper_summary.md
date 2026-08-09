@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 14:15:04 (hora de Perú)
+Actualizado: 2026-08-09 14:17:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $172.79
-**Retorno acumulado:** -82.72%
+**Bankroll actual:** $171.91
+**Retorno acumulado:** -82.81%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,17 +13,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 57 | 48 | 38 | +28.65 USD |
+| 1winstreak1 | 63 | 50 | 31 | +29.06 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 34 | 32 | 8 | +11.82 USD |
+| wr0ngw4yb3tt0r | 34 | 32 | 11 | +11.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | UpTheBlues | 82 | 47 | 0 | +7.26 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
-| SDTrading | 0 | 0 | 5 | +0.00 USD |
+| SDTrading | 0 | 1 | 4 | +0.00 USD |
 | monkeymashingkeyboard | 0 | 0 | 3 | +0.00 USD |
 | theowalcott | 0 | 0 | 3 | +0.00 USD |
 | swisstony | 4 | 3 | 0 | -1.41 USD |
@@ -34,9 +34,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 55 | 82 | 39 | -49.79 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 321 | 237 | 40 | -88.99 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
+| ferrariChampions2026 | 322 | 242 | 34 | -90.28 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 19 | 38 | 7 | -298.46 USD |
 
@@ -190,6 +190,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-fce-h96-2026-08-09-fce | RN1, ferrariChampions2026 |
 | scop-kil-cel-2026-08-09-cel | RN1, ferrariChampions2026 |
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
+| mlb-col-stl-2026-08-09-total-9pt5 | 1winstreak1, SDTrading |
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-total-9pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 | mlb-cle-cws-2026-08-09-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
@@ -205,11 +206,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Chicago Cubs (-3.5) | Chicago Cubs (BUY) | 40% | 1.16 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 51% | 0.21 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 37% | 0.39 | ⏳ pendiente | — |
+| 1winstreak1 | Colorado Rockies vs. St. Louis Cardinals | Under (BUY) | 52% | 0.69 | ⏳ pendiente | — |
 | theowalcott | Spread: Sport Lisboa e Benfica (-2.5) | Académico de Viseu FC (BUY) | 54% | 0.36 | ⏳ pendiente | — |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 69% | 0.29 | ⏳ pendiente | — |
+| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 69% | 0.29 | ✅ ganada | +0.13 |
 | 1winstreak1 | Spread: New York Yankees (-1.5) | New York Yankees (BUY) | 26% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 65% | 0.00 | ✅ ganada | +0.00 |
 | 1winstreak1 | Spread: Atlanta Braves (-2.5) | Atlanta Braves (BUY) | 18% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Philadelphia Phillies (-2.5) | Toronto Blue Jays (BUY) | 63% | 0.00 | ⏳ pendiente | — |
@@ -224,14 +229,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 19% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 87% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 87% | 0.00 | ✅ ganada | +0.00 |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 86% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 76% | 0.00 | ✅ ganada | +0.00 |
 | theowalcott | Will Grêmio Novorizontino win on 2026-08 | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will Grêmio Novorizontino win on 2026-08 | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 23% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 23% | 0.00 | ❌ perdida | -0.00 |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 28% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 24% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 35% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 48% | 0.00 | ✅ ganada | +0.00 |
