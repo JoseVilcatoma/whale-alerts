@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 15:17:47 (hora de Perú)
+Actualizado: 2026-08-09 15:19:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $167.39
-**Retorno acumulado:** -83.26%
+**Bankroll actual:** $167.13
+**Retorno acumulado:** -83.29%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 70 | 51 | 33 | +31.47 USD |
+| 1winstreak1 | 70 | 52 | 33 | +31.21 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 37 | 32 | 7 | +12.14 USD |
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 83 | 42 | 6 | -20.27 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 56 | 87 | 34 | -53.98 USD |
+| quavoo | 56 | 87 | 35 | -53.98 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
@@ -209,6 +209,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 46% | 0.26 | ⏳ pendiente | — |
+| quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 46% | 0.18 | ⏳ pendiente | — |
 | RN1 | Will San Martin de Tucuman win on 2026-0 | Yes (BUY) | 40% | 0.72 | ⏳ pendiente | — |
 | 1winstreak1 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 74% | 5.75 | ⏳ pendiente | — |
 | quavoo | Will Once Caldas win on 2026-08-09? | Yes (BUY) | 49% | 0.33 | ⏳ pendiente | — |
@@ -236,6 +238,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Phoenix Mercury vs. Washington Mystics:  | Over (BUY) | 53% | 0.38 | ⏳ pendiente | — |
 | ferrariChampions2026 | Phoenix Mercury vs. Washington Mystics:  | Over (BUY) | 53% | 0.34 | ⏳ pendiente | — |
 | 1winstreak1 | Dallas Wings vs. Minnesota Lynx: O/U 179 | Under (BUY) | 48% | 0.91 | ⏳ pendiente | — |
-| 1winstreak1 | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 24% | 0.26 | ⏳ pendiente | — |
-| 1winstreak1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 89% | 20.52 | ✅ ganada | +2.54 |
-| 1winstreak1 | Spread: Philadelphia Phillies (-1.5) | Toronto Blue Jays (BUY) | 59% | 0.60 | ⏳ pendiente | — |
+| 1winstreak1 | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 24% | 0.26 | ❌ perdida | -0.26 |

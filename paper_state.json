@@ -1,5 +1,5 @@
 {
-  "bankroll": 167.39241629722792,
+  "bankroll": 167.13241629722793,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7545,6 +7545,11 @@
       "timestamp": 1786306645.7962017,
       "bankroll": 167.39,
       "event": "won: wr0ngw4yb3tt0r \u2014 Baltimore Orioles vs. Texas Rangers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786306773.0758457,
+      "bankroll": 167.13,
+      "event": "lost: 1winstreak1 \u2014 Chicago Cubs vs. Kansas City Royals: O/U 10.5"
     }
   ]
 }
