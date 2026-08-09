@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:04:43 (hora de Perú)
+Actualizado: 2026-08-08 21:06:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $395.14
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 24 | 22 | 11 | -8.53 USD |
-| 1winstreak1 | 35 | 33 | 22 | -12.72 USD |
+| 1winstreak1 | 36 | 33 | 21 | -12.72 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 22 | 16 | 3 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
