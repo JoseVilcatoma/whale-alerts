@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 06:34:22 (hora de Perú)
+Actualizado: 2026-08-09 06:36:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $341.09
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 1winstreak1 | 55 | 47 | 1 | +28.65 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 30 | 1 | +20.63 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 43 | 30 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 17 | +12.95 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 0 | +11.82 USD |
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 24 | 68 | 72 | -57.44 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 243 | 197 | 6 | -91.69 USD |
+| ferrariChampions2026 | 243 | 197 | 7 | -91.69 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -173,9 +173,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 31% | 0.00 | ⏳ pendiente | — |
 | RN1 | Spread: Feyenoord Rotterdam (-1.5) | Feyenoord Rotterdam (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | RN1 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 61% | 0.00 | 💰 vendida anticipada | +0.00 |
 | RN1 | Will Henan FC vs. Qingdao Xihaian FC end | No (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | RN1 | Sparta Rotterdam vs. Feyenoord Rotterdam | Over (BUY) | 83% | 0.00 | ⏳ pendiente | — |
@@ -202,4 +203,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: BNK FEARX vs Kiwoom DRX (BO3) - LCK | BNK FEARX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | V-Varen Nagasaki vs. Kyōto Sanga FC: O/U | Over (BUY) | 74% | 0.75 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 10.79 | ⏳ pendiente | — |
-| quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 53% | 0.95 | ⏳ pendiente | — |

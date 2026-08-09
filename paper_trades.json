@@ -27287,14 +27287,15 @@
     "whale_pct": 39.004,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [
       "TAIWANNUMBERONE"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786275183.3497217,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 63
   },
   {
     "timestamp": 1786275201,
@@ -27335,5 +27336,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786275226.1837878,
     "fills": 2
+  },
+  {
+    "timestamp": 1786275281,
+    "timestamp_added": 1786275282.0363488,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bl2-fcn-dyn-2026-08-09-total-3pt5",
+    "title": "1. FC N\u00fcrnberg vs. SG Dynamo Dresden: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 297.42019999999997,
+    "whale_pct": 0.17,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786275282.0363584,
+    "fills": 1
   }
 ]
