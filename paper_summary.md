@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 07:41:13 (hora de Perú)
+Actualizado: 2026-08-09 07:43:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $344.10
@@ -26,14 +26,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
+| SDTrading | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 60 | -20.92 USD |
+| RN1 | 24 | 17 | 63 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 25 | 68 | 76 | -54.69 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 245 | 197 | 76 | -91.43 USD |
+| ferrariChampions2026 | 245 | 197 | 82 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -182,11 +183,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-fce-h96-2026-08-09-fce | RN1, ferrariChampions2026 |
 | scop-kil-cel-2026-08-09-cel | RN1, ferrariChampions2026 |
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
+| chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Kilmarnock FC vs. Celtic FC: O/U 1.5 | Over (BUY) | 96% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Tianjin Jinmen Hu FC win on 2026-08 | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Tianjin Jinmen Hu FC win on 2026-08 | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| SDTrading | Colorado Rockies vs. St. Louis Cardinals | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Manchester City win on 2026-08-09? | Yes (BUY) | 80% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Manchester City win on 2026-08-09? | Yes (BUY) | 80% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 87% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: JD Gaming vs Team WE - Game 2 Winne | JD Gaming (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 88% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 88% | 0.00 | ⏳ pendiente | — |
 | RN1 | PEC Zwolle vs. AFC Ajax: O/U 1.5 | Over (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 84% | 0.00 | ⏳ pendiente | — |
@@ -207,13 +219,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will PEC Zwolle win on 2026-08-09? | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | FC St. Pauli 1910 vs. SpVgg Greuther Für | Over (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | RN1 | PEC Zwolle vs. AFC Ajax: O/U 2.5 | Under (BUY) | 35% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 80% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: JD Gaming vs Team WE - Game 2 Winne | JD Gaming (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will FC St. Pauli 1910 win on 2026-08-09 | Yes (BUY) | 77% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will FC Groningen win on 2026-08-09? | Yes (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| RN1 | FC Groningen vs. FC Utrecht: O/U 2.5 | Over (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| RN1 | PEC Zwolle vs. AFC Ajax: O/U 1.5 | Under (BUY) | 13% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will PEC Zwolle win on 2026-08-09? | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: FC St. Pauli 1910 (-1.5) | SpVgg Greuther Fürth (BUY) | 80% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: JD Gaming vs Team WE - Game 2 Winne | JD Gaming (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 83% | 0.00 | ⏳ pendiente | — |
