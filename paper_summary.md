@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 17:29:16 (hora de Perú)
+Actualizado: 2026-08-09 17:31:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.18
@@ -233,7 +233,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| ferrariChampions2026 | LoL: FlyQuest vs Team Liquid - Game 2 Wi | Team Liquid (BUY) | 67% | 0.30 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: FlyQuest vs Team Liquid - Game 2 Wi | Team Liquid (BUY) | 66% | 0.59 | ⏳ pendiente | — |
 | 1winstreak1 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 31% | 0.43 | ⏳ pendiente | — |
 | cigarettes | Will CSyD Defensa y Justicia win on 2026 | Yes (BUY) | 95% | 1.67 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 35% | 0.77 | ⏳ pendiente | — |

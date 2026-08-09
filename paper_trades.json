@@ -38577,15 +38577,15 @@
     "title": "LoL: FlyQuest vs Team Liquid - Game 2 Winner",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 418.08000000000004,
-    "whale_pct": 0.103,
-    "paper_stake_usd": 0.3,
-    "odds_at_bet": 67,
+    "whale_usd": 823.6800000000001,
+    "whale_pct": 0.205,
+    "paper_stake_usd": 0.59,
+    "odds_at_bet": 66,
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
-    "last_fill_at": 1786314551.9826522,
-    "fills": 1
+    "last_fill_at": 1786314558.8921947,
+    "fills": 2
   }
 ]
