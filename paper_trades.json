@@ -24787,5 +24787,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786247422.6379697,
     "fills": 2
+  },
+  {
+    "timestamp": 1786247599,
+    "timestamp_added": 1786247599.6762428,
+    "username": "greyoctober",
+    "wallet": "0xc65ca4755436f82d8eb461e65781584b8cadea39",
+    "slug": "val-te-fpx-2026-08-09",
+    "title": "Valorant: Trace Esports vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins",
+    "outcome": "FunPlus Phoenix",
+    "side": "BUY",
+    "whale_usd": 214.70435799999998,
+    "whale_pct": 2.563,
+    "paper_stake_usd": 9.82,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786247602.1016688,
+    "fills": 2
   }
 ]
