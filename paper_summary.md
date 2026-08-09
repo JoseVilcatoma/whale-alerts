@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 08:52:01 (hora de Perú)
+Actualizado: 2026-08-09 08:54:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $260.77
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 43 | 30 | 4 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 19 | +12.95 USD |
-| wr0ngw4yb3tt0r | 34 | 31 | 1 | +11.82 USD |
+| wr0ngw4yb3tt0r | 34 | 31 | 3 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | UpTheBlues | 78 | 45 | 6 | +7.53 USD |
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 84 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 26 | 70 | 73 | -53.95 USD |
+| quavoo | 26 | 70 | 74 | -53.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 1 | 7 | 5 | -89.64 USD |
 | ferrariChampions2026 | 245 | 198 | 94 | -91.43 USD |
@@ -170,7 +170,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ere-spa-fey-2026-08-09-fey | RN1, quavoo |
 | val-gm-ep1-2026-08-09 | greyoctober, quavoo |
 | auc-bri-syd-2026-08-09-total-5pt5 | UpTheBlues, swisstony |
-| ere-zwo-aja-2026-08-09-aja | RN1, quavoo |
 | clf-mci-atm-2026-08-09-spread-home-1pt5 | ferrariChampions2026, swisstony |
 | ere-spa-fey-2026-08-09-total-3pt5 | RN1, swisstony |
 | jap-vva-kyo-2026-08-09-spread-home-1pt5 | ferrariChampions2026, swisstony |
@@ -184,18 +183,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-fce-h96-2026-08-09-total-4pt5 | RN1, ferrariChampions2026 |
 | bl2-fce-h96-2026-08-09-h96 | RN1, ferrariChampions2026 |
 | bl2-fce-h96-2026-08-09-fce | RN1, ferrariChampions2026 |
-| ere-zwo-aja-2026-08-09-spread-away-1pt5 | RN1, quavoo |
 | scop-kil-cel-2026-08-09-cel | RN1, ferrariChampions2026 |
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
-| bl2-fce-h96-2026-08-09-total-3pt5 | RN1, ferrariChampions2026 |
-| clf-lfc-asm-2026-08-09-asm | RN1, ferrariChampions2026 |
-| clf-lfc-asm-2026-08-09-draw | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: 1st | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 49% | 27.19 | ⏳ pendiente | — |
+| quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 46% | 1.17 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 47% | 0.28 | ⏳ pendiente | — |
 | RN1 | PEC Zwolle vs. AFC Ajax: O/U 1.5 | Over (BUY) | 45% | 0.27 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Celtic FC (-1.5) | Celtic FC (BUY) | 65% | 0.00 | ⏳ pendiente | — |
@@ -223,6 +221,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Atletico Madrid win on 2026-08-09? | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will SpVgg Greuther Fürth win on 2026-08 | Yes (BUY) | 17% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will PEC Zwolle win on 2026-08-09? | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | FC St. Pauli 1910 vs. SpVgg Greuther Für | Under (BUY) | 25% | 0.00 | ⏳ pendiente | — |
-| RN1 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
