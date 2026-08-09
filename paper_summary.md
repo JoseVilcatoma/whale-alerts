@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 09:27:00 (hora de Perú)
+Actualizado: 2026-08-09 09:29:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $258.21
@@ -31,10 +31,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 30 | 23 | 72 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 26 | 72 | 75 | -56.21 USD |
+| quavoo | 26 | 72 | 76 | -56.21 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| StasPanda | 3 | 8 | 3 | -89.94 USD |
-| ferrariChampions2026 | 245 | 198 | 101 | -91.43 USD |
+| StasPanda | 3 | 8 | 4 | -89.94 USD |
+| ferrariChampions2026 | 245 | 198 | 103 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 12 | 38 | 7 | -298.46 USD |
 
@@ -193,6 +193,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| StasPanda | Counter-Strike: BESTIA vs Isurus (BO3) - | Isurus (BUY) | 28% | 0.00 | ⏳ pendiente | — |
+| quavoo | IFK Goteborg vs. Kalmar FF: O/U 2.5 | Under (BUY) | 49% | 0.06 | ⏳ pendiente | — |
+| ferrariChampions2026 | Heart of Midlothian FC vs. Dundee United | Over (BUY) | 91% | 0.45 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Liverpool FC (-1.5) | AS Monaco (BUY) | 39% | 0.33 | ⏳ pendiente | — |
 | quavoo | Will FC Sion win on 2026-08-09? | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will FK Haugesund win on 2026-08-09? | Yes (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Heart of Midlothian FC vs. Dundee United | Over (BUY) | 77% | 0.00 | ⏳ pendiente | — |
@@ -219,7 +223,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will FC Energie Cottbus win on 2026-08-0 | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chongqing Tonglianglong FC vs. Shanghai  | Under (BUY) | 26% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Kilmarnock FC win on 2026-08-09? | No (BUY) | 97% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Kilmarnock FC win on 2026-08-09? | No (BUY) | 97% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Chongqing Tonglianglong FC win on 2 | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
-| RN1 | PEC Zwolle vs. AFC Ajax: O/U 2.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
