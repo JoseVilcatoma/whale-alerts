@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 07:53:44 (hora de Perú)
+Actualizado: 2026-08-09 07:55:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $338.96
@@ -29,12 +29,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 2 | 2 | 3 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 78 | -20.92 USD |
+| RN1 | 24 | 17 | 79 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 25 | 68 | 76 | -54.69 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 245 | 197 | 91 | -91.43 USD |
+| ferrariChampions2026 | 245 | 197 | 92 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -189,6 +189,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | PEC Zwolle vs. AFC Ajax: O/U 2.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | RN1 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chongqing Tonglianglong FC vs. Shanghai  | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | RN1 | Manchester City vs. Atletico Madrid: O/U | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
@@ -217,5 +219,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Tianjin Jinmen Hu FC win on 2026-08 | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Tianjin Jinmen Hu FC win on 2026-08 | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | SDTrading | Colorado Rockies vs. St. Louis Cardinals | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Manchester City win on 2026-08-09? | Yes (BUY) | 80% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Manchester City win on 2026-08-09? | Yes (BUY) | 80% | 0.00 | ⏳ pendiente | — |
