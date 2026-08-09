@@ -1,5 +1,5 @@
 {
-  "bankroll": 289.73955851593644,
+  "bankroll": 285.53760994394054,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8170,6 +8170,86 @@
       "timestamp": 1786319177.4849277,
       "bankroll": 289.74,
       "event": "lost: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786319220.7242682,
+      "bankroll": 290.78,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 7.5"
+    },
+    {
+      "timestamp": 1786319223.387337,
+      "bankroll": 291.36,
+      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-1.5)"
+    },
+    {
+      "timestamp": 1786319223.7190847,
+      "bankroll": 291.14,
+      "event": "lost: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-2.5)"
+    },
+    {
+      "timestamp": 1786319225.0745544,
+      "bankroll": 291.14,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 7.5"
+    },
+    {
+      "timestamp": 1786319228.4100733,
+      "bankroll": 291.14,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Arizona Diamondbacks (-3.5)"
+    },
+    {
+      "timestamp": 1786319228.5102518,
+      "bankroll": 291.14,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Arizona Diamondbacks (-1.5)"
+    },
+    {
+      "timestamp": 1786319229.111222,
+      "bankroll": 291.14,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 7.5"
+    },
+    {
+      "timestamp": 1786319230.2727282,
+      "bankroll": 291.14,
+      "event": "won: ferrariChampions2026 \u2014 Spread: CSyD Defensa y Justicia (-1.5)"
+    },
+    {
+      "timestamp": 1786319230.4731038,
+      "bankroll": 291.14,
+      "event": "lost: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-1.5)"
+    },
+    {
+      "timestamp": 1786319230.5733202,
+      "bankroll": 291.14,
+      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-2.5)"
+    },
+    {
+      "timestamp": 1786319231.4930813,
+      "bankroll": 288.34,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Arizona Diamondbacks (-1.5)"
+    },
+    {
+      "timestamp": 1786319234.9301636,
+      "bankroll": 287.81,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: CSyD Defensa y Justicia (-1.5)"
+    },
+    {
+      "timestamp": 1786319235.0303323,
+      "bankroll": 287.3,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: CSyD Defensa y Justicia (-1.5)"
+    },
+    {
+      "timestamp": 1786319235.9507678,
+      "bankroll": 284.95,
+      "event": "lost: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 7.5"
+    },
+    {
+      "timestamp": 1786319287.65076,
+      "bankroll": 284.95,
+      "event": "won: ferrariChampions2026 \u2014 CSyD Defensa y Justicia vs. CA Newell's Old Boys: O/U 1.5"
+    },
+    {
+      "timestamp": 1786319293.882241,
+      "bankroll": 285.54,
+      "event": "won: ferrariChampions2026 \u2014 CSyD Defensa y Justicia vs. CA Newell's Old Boys: O/U 1.5"
     }
   ]
 }

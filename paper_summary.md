@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 18:46:34 (hora de Perú)
+Actualizado: 2026-08-09 18:48:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $289.74
-**Retorno acumulado:** -71.03%
+**Bankroll actual:** $285.54
+**Retorno acumulado:** -71.45%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| 1winstreak1 | 89 | 66 | 39 | +21.51 USD |
+| 1winstreak1 | 93 | 69 | 32 | +22.91 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 38 | 34 | 16 | +13.57 USD |
@@ -32,13 +32,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 101 | 58 | 53 | -20.07 USD |
+| RN1 | 101 | 58 | 54 | -20.07 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 64 | 92 | 46 | -55.37 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 354 | 255 | 86 | -85.61 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
+| ferrariChampions2026 | 358 | 260 | 79 | -91.21 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -238,6 +238,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Philadelphia Union vs. Club Necaxa: O/U  | Over (BUY) | 81% | 0.61 | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia Union vs. Club Necaxa: O/U  | Over (BUY) | 58% | 0.44 | ⏳ pendiente | — |
+| RN1 | Will AA Argentinos Juniors win on 2026-0 | Yes (BUY) | 65% | 0.47 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: CF Cruz Azul (-1.5) | New York City FC (BUY) | 78% | 0.48 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Racing Club win on 2026-08-09? | No (BUY) | 98% | 1.28 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: CF Cruz Azul (-1.5) | New York City FC (BUY) | 76% | 0.41 | ⏳ pendiente | — |
@@ -265,6 +268,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 45% | 1.02 | ⏳ pendiente | — |
 | quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 45% | 0.71 | ⏳ pendiente | — |
 | RN1 | Will Racing Club win on 2026-08-09? | No (BUY) | 78% | 0.32 | ⏳ pendiente | — |
-| quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 45% | 0.88 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Over (BUY) | 32% | 0.80 | ⏳ pendiente | — |
-| quavoo | Spread: New York City FC (-1.5) | CF Cruz Azul (BUY) | 90% | 1.87 | ⏳ pendiente | — |
