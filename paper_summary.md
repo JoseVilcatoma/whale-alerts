@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 20:27:26 (hora de Perú)
+Actualizado: 2026-08-08 20:29:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $481.15
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| quavoo | 8 | 6 | 77 | +22.68 USD |
+| quavoo | 8 | 7 | 76 | +22.68 USD |
 | HomeRunHazard | 31 | 26 | 31 | +17.46 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 41 | 29 | 2 | +17.43 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
 | 1winstreak1 | 29 | 29 | 20 | -8.77 USD |
-| wr0ngw4yb3tt0r | 20 | 16 | 16 | -10.57 USD |
+| wr0ngw4yb3tt0r | 20 | 16 | 19 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 20 | 16 | 5 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -114,6 +114,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-mkoi-gx-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BrotherObama, ferrariChampions2026 |
 | lol-mkoi-gx-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
 | wnba-las-min-2026-08-08-total-182pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-lad-ari-2026-08-08-spread-away-1pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | lol-c9-dsg-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | cs2-ice-is-2026-08-09 | StasPanda, quavoo |
 | cs2-9ine-hotu-2026-08-09 | 1winstreak1, StasPanda |
@@ -155,6 +156,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 65% | 0.66 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 47% | 2.82 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 45% | 1.91 | ⏳ pendiente | — |
 | 1winstreak1 | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 76% | 2.12 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Detroit Tigers (-2.5) | Detroit Tigers (BUY) | 41% | 0.74 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Detroit Tigers (-1.5) | San Francisco Giants (BUY) | 40% | 0.48 | ⏳ pendiente | — |
@@ -182,6 +186,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Washington Spirit win on 2026-08-08 | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Associação Chapecoense de Futebol w | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | New York Mets vs. Pittsburgh Pirates: O/ | Under (BUY) | 17% | 0.00 | ⏳ pendiente | — |
