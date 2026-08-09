@@ -1,5 +1,5 @@
 {
-  "bankroll": 259.800617247899,
+  "bankroll": 156.16429476535012,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -6040,6 +6040,236 @@
       "timestamp": 1786287753.5683286,
       "bankroll": 259.8,
       "event": "won: RN1 \u2014 Will Feyenoord Rotterdam win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786288038.5567415,
+      "bankroll": 259.32,
+      "event": "lost: quavoo \u2014 Manchester City vs. Atletico Madrid: O/U 3.5"
+    },
+    {
+      "timestamp": 1786288038.807591,
+      "bankroll": 247.99,
+      "event": "lost: greyoctober \u2014 Valorant: Trace Esports vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786288038.9078095,
+      "bankroll": 216.27,
+      "event": "lost: greyoctober \u2014 Valorant: Trace Esports vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786288039.008011,
+      "bankroll": 215.75,
+      "event": "lost: greyoctober \u2014 Valorant: Trace Esports vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786288039.1082046,
+      "bankroll": 206.71,
+      "event": "lost: greyoctober \u2014 Valorant: Trace Esports vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786288039.208399,
+      "bankroll": 206.71,
+      "event": "lost: greyoctober \u2014 Valorant: Trace Esports vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786288039.3086064,
+      "bankroll": 205.11,
+      "event": "lost: greyoctober \u2014 Valorant: Trace Esports vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786288039.916961,
+      "bankroll": 202.3,
+      "event": "lost: greyoctober \u2014 Valorant: Trace Esports vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786288040.0171664,
+      "bankroll": 192.48,
+      "event": "lost: greyoctober \u2014 Valorant: Trace Esports vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786288040.1175528,
+      "bankroll": 191.76,
+      "event": "lost: greyoctober \u2014 Valorant: Trace Esports vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786288040.2177017,
+      "bankroll": 191.57,
+      "event": "lost: greyoctober \u2014 Valorant: Trace Esports vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786288040.3178513,
+      "bankroll": 184.04,
+      "event": "lost: greyoctober \u2014 Valorant: Trace Esports vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786288043.0851912,
+      "bankroll": 184.04,
+      "event": "lost: quavoo \u2014 Will Atletico Madrid win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786288043.185402,
+      "bankroll": 184.04,
+      "event": "lost: greyoctober \u2014 Valorant: Trace Esports vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786288043.6380746,
+      "bankroll": 183.59,
+      "event": "lost: quavoo \u2014 Manchester City vs. Atletico Madrid: O/U 3.5"
+    },
+    {
+      "timestamp": 1786288043.931878,
+      "bankroll": 183.82,
+      "event": "won: quavoo \u2014 Manchester City vs. Atletico Madrid: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786288045.4895139,
+      "bankroll": 183.24,
+      "event": "lost: quavoo \u2014 Will Atletico Madrid win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786288045.880837,
+      "bankroll": 160.85,
+      "event": "lost: greyoctober \u2014 Valorant: Trace Esports vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786288045.9810867,
+      "bankroll": 155.78,
+      "event": "lost: greyoctober \u2014 Valorant: Trace Esports vs FunPlus Phoenix (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786288046.9855409,
+      "bankroll": 156.42,
+      "event": "won: quavoo \u2014 Manchester City vs. Atletico Madrid: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786288048.8876288,
+      "bankroll": 156.42,
+      "event": "won: quavoo \u2014 Manchester City vs. Atletico Madrid: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786288049.4470754,
+      "bankroll": 156.42,
+      "event": "lost: UpTheBlues \u2014 Will Helmond Sport vs. De Graafschap end in a draw?"
+    },
+    {
+      "timestamp": 1786288049.6474347,
+      "bankroll": 155.85,
+      "event": "lost: UpTheBlues \u2014 Will Helmond Sport vs. De Graafschap end in a draw?"
+    },
+    {
+      "timestamp": 1786288051.0768037,
+      "bankroll": 155.85,
+      "event": "lost: swisstony \u2014 Spread: Manchester City (-1.5)"
+    },
+    {
+      "timestamp": 1786288051.3302948,
+      "bankroll": 155.85,
+      "event": "won: swisstony \u2014 Henan FC vs. Qingdao Xihaian FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786288052.2815325,
+      "bankroll": 155.85,
+      "event": "lost: RN1 \u2014 Manchester City vs. Atletico Madrid: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1786288052.739659,
+      "bankroll": 155.85,
+      "event": "lost: ferrariChampions2026 \u2014 Manchester City vs. Atletico Madrid: O/U 2.5"
+    },
+    {
+      "timestamp": 1786288053.792621,
+      "bankroll": 155.85,
+      "event": "won: ferrariChampions2026 \u2014 Manchester City vs. Atletico Madrid: O/U 1.5"
+    },
+    {
+      "timestamp": 1786288057.3585966,
+      "bankroll": 155.85,
+      "event": "lost: RN1 \u2014 Will Atletico Madrid win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786288057.8440993,
+      "bankroll": 155.85,
+      "event": "lost: RN1 \u2014 Will Atletico Madrid win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786288058.044503,
+      "bankroll": 155.85,
+      "event": "lost: ferrariChampions2026 \u2014 Will Atletico Madrid win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786288059.5756977,
+      "bankroll": 155.85,
+      "event": "won: RN1 \u2014 Will Atletico Madrid win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786288059.675861,
+      "bankroll": 155.85,
+      "event": "won: ferrariChampions2026 \u2014 Manchester City vs. Atletico Madrid: O/U 2.5"
+    },
+    {
+      "timestamp": 1786288060.4911141,
+      "bankroll": 155.85,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Manchester City (-1.5)"
+    },
+    {
+      "timestamp": 1786288063.4342725,
+      "bankroll": 155.85,
+      "event": "lost: ferrariChampions2026 \u2014 Manchester City vs. Atletico Madrid: O/U 3.5"
+    },
+    {
+      "timestamp": 1786288063.6346078,
+      "bankroll": 156.16,
+      "event": "won: RN1 \u2014 Manchester City vs. Atletico Madrid: O/U 2.5"
+    },
+    {
+      "timestamp": 1786288065.1737235,
+      "bankroll": 156.16,
+      "event": "won: ferrariChampions2026 \u2014 Manchester City vs. Atletico Madrid: O/U 3.5"
+    },
+    {
+      "timestamp": 1786288065.273962,
+      "bankroll": 156.16,
+      "event": "won: RN1 \u2014 Manchester City vs. Atletico Madrid: O/U 3.5"
+    },
+    {
+      "timestamp": 1786288065.8815737,
+      "bankroll": 156.16,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Manchester City (-1.5)"
+    },
+    {
+      "timestamp": 1786288070.373498,
+      "bankroll": 156.16,
+      "event": "lost: RN1 \u2014 Will Manchester City vs. Atletico Madrid end in a draw?"
+    },
+    {
+      "timestamp": 1786288072.9282646,
+      "bankroll": 156.16,
+      "event": "won: RN1 \u2014 Will Manchester City vs. Atletico Madrid end in a draw?"
+    },
+    {
+      "timestamp": 1786288073.0284896,
+      "bankroll": 156.16,
+      "event": "won: RN1 \u2014 Will Manchester City vs. Atletico Madrid end in a draw?"
+    },
+    {
+      "timestamp": 1786288074.0040507,
+      "bankroll": 156.16,
+      "event": "won: RN1 \u2014 Will Atletico Madrid win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786288074.7718165,
+      "bankroll": 156.16,
+      "event": "won: RN1 \u2014 Will Henan FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786288075.8072553,
+      "bankroll": 156.16,
+      "event": "won: RN1 \u2014 Manchester City vs. Atletico Madrid: O/U 3.5"
+    },
+    {
+      "timestamp": 1786288077.1514997,
+      "bankroll": 156.16,
+      "event": "won: RN1 \u2014 Manchester City vs. Atletico Madrid: O/U 4.5"
     }
   ]
 }

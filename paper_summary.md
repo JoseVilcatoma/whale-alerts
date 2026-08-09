@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 10:05:50 (hora de Perú)
+Actualizado: 2026-08-09 10:08:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $259.80
-**Retorno acumulado:** -74.02%
-**Peor caída desde un máximo (drawdown):** 75.07%
+**Bankroll actual:** $156.16
+**Retorno acumulado:** -84.38%
+**Peor caída desde un máximo (drawdown):** 84.42%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -16,26 +16,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 55 | 48 | 0 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| greyoctober | 7 | 0 | 19 | +12.95 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 6 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 79 | 45 | 5 | +7.68 USD |
+| UpTheBlues | 79 | 47 | 3 | +7.11 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 0 | 3 | +0.00 USD |
 | monkeymashingkeyboard | 0 | 0 | 1 | +0.00 USD |
-| swisstony | 3 | 2 | 2 | -1.41 USD |
+| swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 33 | 23 | 69 | -20.92 USD |
+| RN1 | 42 | 27 | 56 | -20.60 USD |
 | Djdjdjekekek | 0 | 2 | 1 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 31 | 72 | 71 | -54.77 USD |
+| quavoo | 34 | 76 | 64 | -55.41 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
+| greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 2 | -89.94 USD |
-| ferrariChampions2026 | 247 | 198 | 107 | -91.43 USD |
+| ferrariChampions2026 | 251 | 202 | 99 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 14 | 38 | 5 | -298.46 USD |
 
