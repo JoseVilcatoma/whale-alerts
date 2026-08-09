@@ -1,5 +1,5 @@
 {
-  "bankroll": 341.09272141689644,
+  "bankroll": 343.8389118930869,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5730,6 +5730,11 @@
       "timestamp": 1786275363.9421651,
       "bankroll": 341.09,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: JD Gaming vs Team WE (BO3) - LPL Group Ascend (+0.00 USD)"
+    },
+    {
+      "timestamp": 1786276809.3624783,
+      "bankroll": 343.84,
+      "event": "won: quavoo \u2014 Valorant: VARREL vs Paper Rex (BO3) - VCT Pacific Group Omega"
     }
   ]
 }

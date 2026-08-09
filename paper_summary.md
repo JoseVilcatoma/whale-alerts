@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 06:59:17 (hora de Perú)
+Actualizado: 2026-08-09 07:01:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $341.09
-**Retorno acumulado:** -65.89%
+**Bankroll actual:** $343.84
+**Retorno acumulado:** -65.62%
 **Peor caída desde un máximo (drawdown):** 68.38%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -28,12 +28,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 38 | -20.92 USD |
+| RN1 | 24 | 17 | 40 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 24 | 68 | 77 | -57.44 USD |
+| quavoo | 25 | 68 | 76 | -54.69 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 243 | 197 | 48 | -91.69 USD |
+| ferrariChampions2026 | 243 | 197 | 52 | -91.69 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -159,6 +159,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-lad-ari-2026-08-08-total-3pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-cle-cws-2026-08-08-spread-home-2pt5 | 1winstreak1, ferrariChampions2026 |
 | lec-tol-laf-2026-08-08-laf | ferrariChampions2026, quavoo |
+| clf-mci-atm-2026-08-09-total-3pt5 | ferrariChampions2026, quavoo |
 | mlb-lad-ari-2026-08-08-total-2pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-tb-sea-2026-08-08-total-6pt5 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | clf-mci-atm-2026-08-09-mci | RN1, ferrariChampions2026, quavoo |
@@ -172,6 +173,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jap-vva-kyo-2026-08-09-spread-home-1pt5 | ferrariChampions2026, swisstony |
 | lol-jdg-we-2026-08-09 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | lol-jdg-we-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
+| clf-mci-atm-2026-08-09-total-2pt5 | RN1, ferrariChampions2026 |
 | bl2-fcn-dyn-2026-08-09-total-2pt5 | RN1, ferrariChampions2026 |
 | bl2-stp-fur-2026-08-09-total-2pt5 | RN1, ferrariChampions2026 |
 | bl2-fce-h96-2026-08-09-total-4pt5 | RN1, ferrariChampions2026 |
@@ -182,6 +184,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 60% | 1.31 | ⏳ pendiente | — |
+| RN1 | Manchester City vs. Atletico Madrid: O/U | Over (BUY) | 53% | 0.36 | ⏳ pendiente | — |
+| RN1 | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 87% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Chongqing Tonglianglong FC vs. Shan | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Chongqing Tonglianglong FC win on 2 | Yes (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Energie Cottbus win on 2026-08-0 | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | quavoo | Valorant: Gentle Mates vs Enterprise Esp | Enterprise Esports (BUY) | 41% | 0.00 | ⏳ pendiente | — |
@@ -206,9 +214,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Manchester City (-1.5) | Atletico Madrid (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Energie Cottbus win on 2026-08-0 | No (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC St. Pauli 1910 (-1.5) | FC St. Pauli 1910 (BUY) | 30% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Manchester City vs. Atletico Madrid: O/U | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Atletico Madrid win on 2026-08-09? | No (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will AFC Ajax win on 2026-08-09? | Yes (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Manchester City win on 2026-08-09? | No (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| quavoo | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
