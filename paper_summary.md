@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 15:28:08 (hora de Perú)
+Actualizado: 2026-08-09 15:30:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $168.08
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 1winstreak1 | 75 | 54 | 32 | +31.21 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 3 | +20.63 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 4 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 37 | 33 | 6 | +12.14 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
@@ -29,14 +29,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 83 | 42 | 8 | -20.27 USD |
+| RN1 | 83 | 42 | 9 | -20.27 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 57 | 87 | 34 | -53.98 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 336 | 250 | 25 | -92.05 USD |
+| ferrariChampions2026 | 336 | 250 | 26 | -92.05 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 19 | 38 | 7 | -298.46 USD |
 
@@ -213,6 +213,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Dignitas vs LYON (BO3) - LCS Regula | LYON (BUY) | 74% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will CR Vasco da Gama win on 2026-08-09? | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dignitas vs LYON - Game 1 Winner | LYON (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dignitas vs LYON - Game 1 Winner | LYON (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dignitas vs LYON - Game 1 Winner | LYON (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 43% | 1.44 | ⏳ pendiente | — |
@@ -240,6 +243,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 26% | 0.21 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 65% | 0.51 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Dallas Wings (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Dallas Wings (BUY) | 41% | 0.00 | ⏳ pendiente | — |
