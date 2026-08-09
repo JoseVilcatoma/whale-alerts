@@ -1,5 +1,5 @@
 {
-  "bankroll": 480.4221349618329,
+  "bankroll": 484.0660374008573,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4265,6 +4265,11 @@
       "timestamp": 1786239268.2327414,
       "bankroll": 480.42,
       "event": "won: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786239887.8112977,
+      "bankroll": 484.07,
+      "event": "won: 1winstreak1 \u2014 Spread: Washington Nationals (-1.5)"
     }
   ]
 }

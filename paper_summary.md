@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 20:43:53 (hora de Perú)
+Actualizado: 2026-08-08 20:46:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $480.42
-**Retorno acumulado:** -51.96%
+**Bankroll actual:** $484.07
+**Retorno acumulado:** -51.59%
 **Peor caída desde un máximo (drawdown):** 53.54%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| quavoo | 8 | 7 | 78 | +22.68 USD |
+| quavoo | 8 | 7 | 79 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 41 | 29 | 2 | +17.43 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | UpTheBlues | 47 | 31 | 44 | +15.42 USD |
@@ -27,13 +27,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 31 | 29 | 24 | -5.53 USD |
+| 1winstreak1 | 32 | 29 | 25 | -1.89 USD |
 | wr0ngw4yb3tt0r | 21 | 16 | 20 | -10.16 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 20 | 16 | 5 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 213 | 176 | 16 | -67.75 USD |
+| ferrariChampions2026 | 213 | 176 | 20 | -67.75 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 9 | -303.20 USD |
 
@@ -151,11 +151,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lec-orl-leo-2026-08-08-total-1pt5 | UpTheBlues, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-lad-ari-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-lad-ari-2026-08-08-total-4pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 56% | 0.83 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Diego Ferreira vs. Bill | Billy Quarantillo (BUY) | 38% | 15.75 | ⏳ pendiente | — |
+| ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 82% | 0.85 | ⏳ pendiente | — |
+| quavoo | Spread: Santos FC (-1.5) | CA Paranaense (BUY) | 81% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | CD Guadalajara vs. FC Dallas: O/U 1.5 | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CD Guadalajara vs. FC Dallas: O/U 1.5 | Over (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 29% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 41% | 0.00 | ⏳ pendiente | — |
@@ -179,10 +187,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Spread: Detroit Tigers (-1.5) | San Francisco Giants (BUY) | 40% | 0.48 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 51% | 0.37 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 48% | 2.60 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 47% | 0.87 | ⏳ pendiente | — |
-| 1winstreak1 | Minnesota Twins vs. Milwaukee Brewers: O | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Instituto AC Córdoba vs. CA Gimnasia y E | Under (BUY) | 68% | 3.79 | ⏳ pendiente | — |
-| 1winstreak1 | Seattle Storm vs. PortlandFire | Seattle Storm (BUY) | 53% | 4.91 | ⏳ pendiente | — |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 71% | 0.00 | ✅ ganada | +0.00 |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 56% | 4.12 | ✅ ganada | +3.24 |
-| 1winstreak1 | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 82% | 16.60 | ⏳ pendiente | — |
