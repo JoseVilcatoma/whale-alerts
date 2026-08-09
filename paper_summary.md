@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 08:43:55 (hora de Perú)
+Actualizado: 2026-08-09 08:45:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $260.77
@@ -28,10 +28,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 2 | 2 | 3 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 135 | -20.92 USD |
+| RN1 | 24 | 17 | 136 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 26 | 70 | 73 | -53.95 USD |
+| quavoo | 26 | 70 | 74 | -53.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 1 | 7 | 6 | -89.64 USD |
 | ferrariChampions2026 | 245 | 198 | 130 | -91.43 USD |
@@ -191,11 +191,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
 | bl2-fce-h96-2026-08-09-total-3pt5 | RN1, ferrariChampions2026 |
+| clf-lfc-asm-2026-08-09-asm | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will AS Monaco win on 2026-08-09? | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kilmarnock FC vs. Celtic FC: O/U 5.5 | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Malmo FF vs. Degerfors IF end in a  | Yes (BUY) | 22% | 0.00 | ⏳ pendiente | — |
 | RN1 | FC Groningen vs. FC Utrecht: O/U 3.5 | Over (BUY) | 41% | 0.00 | ⏳ pendiente | — |
@@ -224,5 +227,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Spread: AFC Ajax (-1.5) | PEC Zwolle (BUY) | 77% | 1.87 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Level UP vs MOUZ (BO3) - EPL Mas | MOUZ (BUY) | 71% | 0.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kilmarnock FC vs. Celtic FC: O/U 3.5 | Over (BUY) | 87% | 0.78 | ⏳ pendiente | — |
-| RN1 | Will FC Utrecht win on 2026-08-09? | No (BUY) | 88% | 0.31 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will FC Energie Cottbus win on 2026-08-0 | Yes (BUY) | 62% | 0.40 | ⏳ pendiente | — |
