@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 19:45:54 (hora de Perú)
+Actualizado: 2026-08-08 19:47:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $474.88
@@ -26,6 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
+| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
 | 1winstreak1 | 28 | 29 | 17 | -8.77 USD |
 | wr0ngw4yb3tt0r | 18 | 16 | 15 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -151,6 +152,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Instituto AC Córdoba vs. CA Gimnasia y E | Under (BUY) | 68% | 3.79 | ⏳ pendiente | — |
 | 1winstreak1 | Seattle Storm vs. PortlandFire | Seattle Storm (BUY) | 53% | 4.91 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 56% | 4.12 | ⏳ pendiente | — |
@@ -180,4 +182,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Orlando City SC vs. Club León FC: O/U 2. | Under (BUY) | 26% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |

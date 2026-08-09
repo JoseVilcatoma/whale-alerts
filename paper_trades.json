@@ -22909,5 +22909,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786236125.8790622,
     "fills": 1
+  },
+  {
+    "timestamp": 1786236363,
+    "timestamp_added": 1786236364.4334002,
+    "username": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+    "wallet": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
+    "slug": "arg-iac-gye-2026-08-08-total-2pt5",
+    "title": "Instituto AC C\u00f3rdoba vs. CA Gimnasia y Esgrima de Mendoza: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 3180.7476,
+    "whale_pct": 78.387,
+    "paper_stake_usd": 3.79,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786236365.9575274,
+    "fills": 2
   }
 ]
