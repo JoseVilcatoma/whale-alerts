@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 06:21:41 (hora de Perú)
+Actualizado: 2026-08-09 06:23:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $347.06
@@ -28,14 +28,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 1 | -20.92 USD |
+| RN1 | 24 | 17 | 3 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 24 | 68 | 72 | -57.44 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | ferrariChampions2026 | 243 | 197 | 3 | -91.69 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 2 | 36 | 13 | -303.20 USD |
+| TAIWANNUMBERONE | 2 | 36 | 14 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -163,13 +163,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tb-sea-2026-08-08-total-6pt5 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | clf-mci-atm-2026-08-09-mci | RN1, quavoo |
 | mlb-tb-sea-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| ere-spa-fey-2026-08-09-fey | RN1, quavoo |
 | auc-bri-syd-2026-08-09-total-5pt5 | UpTheBlues, swisstony |
+| ere-spa-fey-2026-08-09-total-3pt5 | RN1, swisstony |
 | jap-vva-kyo-2026-08-09-spread-home-1pt5 | ferrariChampions2026, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| RN1 | Sparta Rotterdam vs. Feyenoord Rotterdam | Over (BUY) | 31% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | swisstony | Spread: V-Varen Nagasaki (-1.5) | V-Varen Nagasaki (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: V-Varen Nagasaki (-1.5) | Kyōto Sanga FC (BUY) | 40% | 0.00 | ⏳ pendiente | — |
@@ -197,6 +202,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Manchester City vs. Atletico Madrid: Bot | Yes (BUY) | 65% | 0.00 | ⏳ pendiente | — |
 | greyoctober | Valorant: Gentle Mates vs Enterprise Esp | Enterprise Esports (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | greyoctober | Valorant: Gentle Mates vs Enterprise Esp | Enterprise Esports (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | SC Heerenveen vs. FC Twente: O/U 4.5 | Under (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| greyoctober | Valorant: Gentle Mates vs Enterprise Esp | Enterprise Esports (BUY) | 41% | 83.08 | ⏳ pendiente | — |
-| quavoo | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 55% | 3.20 | ⏳ pendiente | — |
