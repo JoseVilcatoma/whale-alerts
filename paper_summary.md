@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 10:24:24 (hora de Perú)
+Actualizado: 2026-08-09 10:26:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $156.16
@@ -31,11 +31,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 42 | 27 | 56 | -20.60 USD |
 | Djdjdjekekek | 0 | 2 | 1 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 34 | 76 | 64 | -55.41 USD |
+| quavoo | 34 | 76 | 65 | -55.41 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 2 | -89.94 USD |
-| ferrariChampions2026 | 251 | 202 | 108 | -91.43 USD |
+| ferrariChampions2026 | 251 | 202 | 110 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 14 | 38 | 5 | -298.46 USD |
 
@@ -195,6 +195,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Team Heretics vs G2 Esports - Game  | G2 Esports (BUY) | 88% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Nashville SC win on 2026-08-09? | Yes (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Rangers FC (-1.5) | Hibernian FC (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Rangers FC win on 2026-08-09? | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 95% | 0.00 | ⏳ pendiente | — |
@@ -222,6 +225,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Heart of Midlothian FC vs. Dundee United | Over (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: BESTIA vs Isurus (BO3) - | Isurus (BUY) | 28% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 4.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 78% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 39% | 0.00 | ⏳ pendiente | — |
