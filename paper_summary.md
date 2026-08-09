@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 23:13:49 (hora de Perú)
+Actualizado: 2026-08-08 23:15:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $338.87
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | 1winstreak1 | 51 | 43 | 6 | -19.43 USD |
 | RN1 | 24 | 17 | 0 | -20.92 USD |
-| quavoo | 18 | 39 | 47 | -24.27 USD |
+| quavoo | 18 | 39 | 48 | -24.27 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -166,6 +166,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 1.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Over (BUY) | 46% | 0.45 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 69% | 0.65 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 54% | 0.71 | ⏳ pendiente | — |
@@ -195,4 +196,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 2.81 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 24% | 0.57 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 38% | 1.18 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 88% | 2.46 | ✅ ganada | +0.34 |
