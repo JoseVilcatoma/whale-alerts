@@ -32399,5 +32399,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786290712.7781804,
     "fills": 1
+  },
+  {
+    "timestamp": 1786290939,
+    "timestamp_added": 1786290939.8516538,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "scop-ran-hib-2026-08-09-hib",
+    "title": "Will Hibernian FC win on 2026-08-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 371.42857100000003,
+    "whale_pct": 0.128,
+    "paper_stake_usd": 0.2,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786290939.8516605,
+    "fills": 1
   }
 ]
