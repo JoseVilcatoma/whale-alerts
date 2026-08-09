@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 14:42:33 (hora de Perú)
+Actualizado: 2026-08-09 14:44:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $171.56
@@ -13,10 +13,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 65 | 50 | 26 | +28.93 USD |
+| 1winstreak1 | 65 | 50 | 27 | +28.93 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 35 | 32 | 7 | +11.82 USD |
+| wr0ngw4yb3tt0r | 35 | 32 | 8 | +11.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 3 | 2 | +0.00 USD |
 | monkeymashingkeyboard | 0 | 0 | 3 | +0.00 USD |
-| theowalcott | 0 | 0 | 3 | +0.00 USD |
+| theowalcott | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -167,6 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-lad-ari-2026-08-08-total-2pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-tb-sea-2026-08-08-total-6pt5 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | clf-mci-atm-2026-08-09-mci | RN1, ferrariChampions2026, quavoo |
+| wnba-dal-min-2026-08-09-spread-home-7pt5 | quavoo, wr0ngw4yb3tt0r |
 | mlb-tb-sea-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-oak-bos-2026-08-09-total-10pt5 | 1winstreak1, quavoo |
 | clf-mci-atm-2026-08-09-atm | RN1, ferrariChampions2026, quavoo |
@@ -190,7 +191,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-fce-h96-2026-08-09-fce | RN1, ferrariChampions2026 |
 | scop-kil-cel-2026-08-09-cel | RN1, ferrariChampions2026 |
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
-| mlb-col-stl-2026-08-09-total-9pt5 | 1winstreak1, SDTrading |
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-total-9pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 | mlb-cle-cws-2026-08-09-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
@@ -201,16 +201,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-atl-nyy-2026-08-09-total-8pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-cin-wsh-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-spread-home-2pt5 | 1winstreak1, ferrariChampions2026 |
-| mlb-chc-kc-2026-08-09-total-10pt5 | 1winstreak1, wr0ngw4yb3tt0r |
-| mlb-chc-kc-2026-08-09-total-11pt5 | 1winstreak1, wr0ngw4yb3tt0r |
-| mlb-bal-tex-2026-08-09-total-11pt5 | 1winstreak1, wr0ngw4yb3tt0r |
-| mlb-oak-bos-2026-08-09-spread-home-1pt5 | 1winstreak1, wr0ngw4yb3tt0r |
-| mlb-atl-nyy-2026-08-09-total-2pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Chicago Cubs (-4.5) | Kansas City Royals (BUY) | 43% | 0.24 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Minnesota Lynx (-7.5) | Minnesota Lynx (BUY) | 49% | 1.66 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 84% | 0.00 | ✅ ganada | +0.00 |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 65% | 0.00 | ✅ ganada | +0.00 |
 | 1winstreak1 | Spread: Atlanta Braves (-2.5) | Atlanta Braves (BUY) | 18% | 0.00 | ⏳ pendiente | — |
@@ -239,5 +236,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 48% | 0.00 | ✅ ganada | +0.00 |
 | ferrariChampions2026 | Spread: Miami Marlins (-3.5) | Los Angeles Angels (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Atlanta Braves (-1.5) | New York Yankees (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 46% | 0.00 | ⏳ pendiente | — |
