@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 17:58:30 (hora de Perú)
+Actualizado: 2026-08-09 18:00:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.25
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 85 | 42 | 71 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 62 | 89 | 33 | -55.81 USD |
+| quavoo | 62 | 89 | 35 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | ferrariChampions2026 | 344 | 251 | 87 | -91.86 USD |
@@ -233,6 +233,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Chicago Stars FC vs. Bay FC: O/U 1.5 | Over (BUY) | 83% | 0.79 | ⏳ pendiente | — |
+| quavoo | Valorant: LOUD vs 100 Thieves - Map 1 Wi | LOUD (BUY) | 35% | 0.39 | ⏳ pendiente | — |
 | RN1 | Will Santos FC win on 2026-08-09? | No (BUY) | 99% | 0.44 | ⏳ pendiente | — |
 | RN1 | Will SC Corinthians Paulista win on 2026 | Yes (BUY) | 70% | 0.30 | ⏳ pendiente | — |
 | quavoo | Will Once Caldas win on 2026-08-09? | Yes (BUY) | 42% | 0.44 | ⏳ pendiente | — |
@@ -261,5 +263,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 35% | 0.77 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: FlyQuest vs Team Liquid (BO3) - LCS | Team Liquid (BUY) | 84% | 1.33 | ⏳ pendiente | — |
 | RN1 | Will Red Bull Bragantino win on 2026-08- | No (BUY) | 69% | 0.30 | ⏳ pendiente | — |
-| theowalcott | Will Once Caldas win on 2026-08-09? | No (BUY) | 57% | 0.98 | ⏳ pendiente | — |
-| ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 52% | 0.38 | ⏳ pendiente | — |
