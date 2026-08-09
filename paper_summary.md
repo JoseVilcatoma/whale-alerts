@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 16:55:45 (hora de Perú)
+Actualizado: 2026-08-09 16:57:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.18
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 37 | 34 | 10 | +11.84 USD |
+| wr0ngw4yb3tt0r | 37 | 34 | 12 | +11.84 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 62 | 89 | 27 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 53 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 62 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -194,7 +194,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
 | mlb-col-stl-2026-08-09-total-9pt5 | 1winstreak1, SDTrading |
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
-| mlb-tb-sea-2026-08-09-total-7pt5 | 1winstreak1, RN1, wr0ngw4yb3tt0r |
+| mlb-tb-sea-2026-08-09-total-7pt5 | 1winstreak1, RN1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-lad-ari-2026-08-09-total-9pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-total-9pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 | mlb-cle-cws-2026-08-09-spread-away-1pt5 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
@@ -206,9 +206,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cin-wsh-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-spread-home-2pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-spread-home-1pt5 | 1winstreak1, RN1 |
+| mlb-cle-cws-2026-08-09-spread-home-1pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | wnba-dal-min-2026-08-09 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | lol-dig-ly-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-total-7pt5 | 1winstreak1, RN1, ferrariChampions2026 |
+| mlb-tb-sea-2026-08-09-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-total-9pt5 | 1winstreak1, RN1 |
 | mlb-lad-ari-2026-08-09-spread-home-1pt5 | 1winstreak1, ferrariChampions2026 |
 | arg-def-new-2026-08-09-def | RN1, ferrariChampions2026 |
@@ -217,11 +219,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bra-bra-cor1-2026-08-09-cor1 | AV23IUa, RN1 |
 | mlb-cle-cws-2026-08-09-total-9pt5 | 1winstreak1, RN1, wr0ngw4yb3tt0r |
 | arg-def-new-2026-08-09-new | RN1, ferrariChampions2026 |
+| mlb-tb-sea-2026-08-09-total-6pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-cle-cws-2026-08-09-spread-home-2pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Chicago White Sox (-2.5) | Cleveland Guardians (BUY) | 51% | 2.27 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 49% | 0.61 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 37% | 0.63 | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 59% | 3.98 | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 68% | 4.98 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Tampa Bay Rays (-2.5) | Seattle Mariners (BUY) | 59% | 4.72 | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 30% | 2.12 | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 40% | 3.75 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 57% | 5.28 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 39% | 3.58 | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 56% | 5.75 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: FlyQuest vs Team Liquid - Game 1 Wi | Team Liquid (BUY) | 80% | 0.32 | ⏳ pendiente | — |
 | ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 40% | 0.41 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | Los Angeles Dodgers (BUY) | 40% | 2.80 | ⏳ pendiente | — |
@@ -241,14 +256,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will CA Barracas Central win on 2026-08- | No (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CA Barracas Central win on 2026-08- | No (BUY) | 80% | 0.00 | ⏳ pendiente | — |
-| AV23IUa | Will Santos FC win on 2026-08-09? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| RN1 | Sport Lisboa e Benfica vs. Académico de  | Under (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 25% | 0.00 | ⏳ pendiente | — |
-| RN1 | Sport Lisboa e Benfica vs. Académico de  | Over (BUY) | 32% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 77% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Académico de Viseu FC win on 2026-0 | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Sport Lisboa e Benfica vs. Académic | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 95% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Sport Lisboa e Benfica vs. Académic | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
