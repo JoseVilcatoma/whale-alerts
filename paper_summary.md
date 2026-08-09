@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 16:49:27 (hora de Perú)
+Actualizado: 2026-08-09 16:51:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $168.63
-**Retorno acumulado:** -83.14%
+**Bankroll actual:** $288.18
+**Retorno acumulado:** -71.18%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,6 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 1winstreak1 | 79 | 55 | 48 | +31.24 USD |
+| greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 37 | 34 | 10 | +11.84 USD |
@@ -33,9 +34,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 85 | 42 | 55 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 61 | 89 | 28 | -55.81 USD |
+| quavoo | 62 | 89 | 27 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | ferrariChampions2026 | 342 | 251 | 50 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |

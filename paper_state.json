@@ -1,5 +1,5 @@
 {
-  "bankroll": 168.62630805363384,
+  "bankroll": 288.1804543950973,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7750,6 +7750,36 @@
       "timestamp": 1786311015.1688385,
       "bankroll": 168.63,
       "event": "won: RN1 \u2014 Will NK Slaven Belupo win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786312266.401026,
+      "bankroll": 288.18,
+      "event": "won: greyoctober \u2014 Valorant: Gentle Mates vs Enterprise Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786312266.5011737,
+      "bankroll": 288.18,
+      "event": "won: greyoctober \u2014 Valorant: Gentle Mates vs Enterprise Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786312266.6013205,
+      "bankroll": 288.18,
+      "event": "won: greyoctober \u2014 Valorant: Gentle Mates vs Enterprise Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786312267.098553,
+      "bankroll": 288.18,
+      "event": "won: greyoctober \u2014 Valorant: Gentle Mates vs Enterprise Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786312267.1987205,
+      "bankroll": 288.18,
+      "event": "won: quavoo \u2014 Valorant: Gentle Mates vs Enterprise Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786312267.2989101,
+      "bankroll": 288.18,
+      "event": "won: greyoctober \u2014 Valorant: Gentle Mates vs Enterprise Esports (BO3) - VCT EMEA Play-Ins"
     }
   ]
 }
