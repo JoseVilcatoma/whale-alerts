@@ -31439,7 +31439,7 @@
     "whale_pct": 0.326,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -33958,6 +33958,26 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786304663.8441243,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786304726,
+    "timestamp_added": 1786304726.9405484,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-dal-min-2026-08-09",
+    "title": "Dallas Wings vs. Minnesota Lynx",
+    "outcome": "Dallas Wings",
+    "side": "BUY",
+    "whale_usd": 984.998,
+    "whale_pct": 0.963,
+    "paper_stake_usd": 1.65,
+    "odds_at_bet": 28,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786304726.940557,
     "fills": 1
   }
 ]
