@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 20:41:52 (hora de Perú)
+Actualizado: 2026-08-08 20:43:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $480.42
@@ -28,12 +28,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
 | 1winstreak1 | 31 | 29 | 24 | -5.53 USD |
-| wr0ngw4yb3tt0r | 21 | 16 | 19 | -10.16 USD |
+| wr0ngw4yb3tt0r | 21 | 16 | 20 | -10.16 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 20 | 16 | 5 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 213 | 176 | 12 | -67.75 USD |
+| ferrariChampions2026 | 213 | 176 | 16 | -67.75 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 9 | -303.20 USD |
 
@@ -156,6 +156,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | CD Guadalajara vs. FC Dallas: O/U 1.5 | Over (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 29% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 41% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Minnesota Twins vs. Milwaukee Brewers: O | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | quavoo | Santos FC vs. CA Paranaense: O/U 2.5 | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | quavoo | Deportivo Toluca FC vs. Los Angeles FC:  | Yes (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 73% | 0.00 | ⏳ pendiente | — |
@@ -181,8 +186,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 71% | 0.00 | ✅ ganada | +0.00 |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 56% | 4.12 | ✅ ganada | +3.24 |
 | 1winstreak1 | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 82% | 16.60 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | O/U 2.5 Rounds | Over (BUY) | 64% | 0.73 | ✅ ganada | +0.41 |
-| TeGeeLP | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| TeGeeLP | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 59% | 5.33 | ⏳ pendiente | — |
-| TeGeeLP | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 60% | 1.70 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 94% | 0.05 | ⏳ pendiente | — |
