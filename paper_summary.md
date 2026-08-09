@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 12:12:02 (hora de Perú)
+Actualizado: 2026-08-09 12:14:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $165.62
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | ferrariChampions2026 | 306 | 230 | 51 | -88.56 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
-| StasPanda | 4 | 9 | 2 | -89.94 USD |
+| StasPanda | 4 | 9 | 3 | -89.94 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 19 | 38 | 0 | -298.46 USD |
 
@@ -198,6 +198,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| StasPanda | Counter-Strike: BESTIA vs Isurus (BO3) - | Isurus (BUY) | 27% | 0.61 | ⏳ pendiente | — |
 | RN1 | Will Brøndby IF win on 2026-08-09? | Yes (BUY) | 77% | 0.19 | ⏳ pendiente | — |
 | RN1 | Will NK Slaven Belupo win on 2026-08-09? | No (BUY) | 67% | 0.41 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: 100 Thieves vs 1WIN (BO3 | 1WIN (BUY) | 37% | 0.33 | ⏳ pendiente | — |
@@ -227,4 +228,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Team Heretics vs G2 Esports (BO3) - | G2 Esports (BUY) | 90% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Rangers FC win on 2026-08-09? | Yes (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | monkeymashingkeyboard | Spread: Washington Mystics (-1.5) | Washington Mystics (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 94% | 0.00 | ⏳ pendiente | — |
