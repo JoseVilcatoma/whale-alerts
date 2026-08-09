@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 00:24:36 (hora de Perú)
+Actualizado: 2026-08-09 00:26:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $360.93
@@ -17,9 +17,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 30 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 34 | 28 | 3 | +16.55 USD |
-| greyoctober | 7 | 0 | 13 | +12.95 USD |
+| greyoctober | 7 | 0 | 14 | +12.95 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
-| UpTheBlues | 78 | 42 | 2 | +8.44 USD |
+| UpTheBlues | 78 | 43 | 1 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | swisstony | 2 | 0 | 0 | +2.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 20 | 47 | 67 | -48.01 USD |
+| quavoo | 20 | 47 | 68 | -48.01 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | ferrariChampions2026 | 229 | 192 | 19 | -91.98 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -167,6 +167,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 5.07 | ⏳ pendiente | — |
+| quavoo | Tōkyō Verdy vs. Kawasaki Frontale: O/U 2 | Over (BUY) | 43% | 2.66 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 22.39 | ⏳ pendiente | — |
 | quavoo | Boston Legacy FC vs. Portland Thorns FC: | Under (BUY) | 65% | 1.42 | ⏳ pendiente | — |
 | quavoo | Will Atletico Madrid win on 2026-08-09? | Yes (BUY) | 27% | 0.58 | ⏳ pendiente | — |
@@ -194,6 +196,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will LASK Linz win on 2026-08-09? | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will LASK Linz win on 2026-08-09? | Yes (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 95% | 0.00 | ✅ ganada | +0.00 |
-| quavoo | Athletics vs. Boston Red Sox: O/U 10.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | quavoo | Athletics vs. Boston Red Sox: O/U 10.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
