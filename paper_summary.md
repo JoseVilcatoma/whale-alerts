@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 11:41:05 (hora de Perú)
+Actualizado: 2026-08-09 11:43:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $163.41
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 80 | 40 | 6 | -20.27 USD |
+| RN1 | 80 | 40 | 7 | -20.27 USD |
 | Djdjdjekekek | 0 | 2 | 2 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 45 | 79 | 52 | -51.37 USD |
@@ -170,6 +170,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | clf-mci-atm-2026-08-09-atm | RN1, ferrariChampions2026, quavoo |
 | mlb-bal-tex-2026-08-09-total-8pt5 | quavoo, wr0ngw4yb3tt0r |
 | ere-spa-fey-2026-08-09-fey | RN1, quavoo |
+| den-hor-bro-2026-08-09-bro | RN1, quavoo |
 | val-gm-ep1-2026-08-09 | greyoctober, quavoo |
 | auc-bri-syd-2026-08-09-total-5pt5 | UpTheBlues, swisstony |
 | clf-mci-atm-2026-08-09-spread-home-1pt5 | ferrariChampions2026, swisstony |
@@ -197,6 +198,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Brøndby IF win on 2026-08-09? | Yes (BUY) | 77% | 0.19 | ⏳ pendiente | — |
 | RN1 | Will NK Slaven Belupo win on 2026-08-09? | No (BUY) | 67% | 0.41 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: 100 Thieves vs 1WIN (BO3 | 1WIN (BUY) | 37% | 0.33 | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 62% | 13.16 | ⏳ pendiente | — |
@@ -226,4 +228,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Rangers FC win on 2026-08-09? | Yes (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | monkeymashingkeyboard | Spread: Washington Mystics (-1.5) | Washington Mystics (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| SDTrading | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
