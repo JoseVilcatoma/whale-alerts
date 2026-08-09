@@ -1,5 +1,5 @@
 {
-  "bankroll": 288.2484319231872,
+  "bankroll": 291.52691953726804,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7790,6 +7790,51 @@
       "timestamp": 1786314778.9093082,
       "bankroll": 288.25,
       "event": "won: ferrariChampions2026 \u2014 LoL: Fnatic vs Karmine Corp (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1786318214.3181329,
+      "bankroll": 291.11,
+      "event": "won: monkeymashingkeyboard \u2014 Spread: Philadelphia Phillies (-1.5)"
+    },
+    {
+      "timestamp": 1786318214.4182906,
+      "bankroll": 291.11,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Philadelphia Phillies (-1.5)"
+    },
+    {
+      "timestamp": 1786318215.975132,
+      "bankroll": 291.11,
+      "event": "lost: 1winstreak1 \u2014 Spread: Philadelphia Phillies (-1.5)"
+    },
+    {
+      "timestamp": 1786318216.2773557,
+      "bankroll": 291.11,
+      "event": "lost: 1winstreak1 \u2014 Spread: Philadelphia Phillies (-2.5)"
+    },
+    {
+      "timestamp": 1786318216.7238066,
+      "bankroll": 291.11,
+      "event": "lost: theowalcott \u2014 Will Gr\u00eamio Novorizontino win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786318216.8239453,
+      "bankroll": 291.11,
+      "event": "lost: theowalcott \u2014 Will Gr\u00eamio Novorizontino win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786318218.05057,
+      "bankroll": 291.11,
+      "event": "won: 1winstreak1 \u2014 Spread: Philadelphia Phillies (-2.5)"
+    },
+    {
+      "timestamp": 1786318218.7992918,
+      "bankroll": 291.11,
+      "event": "won: 1winstreak1 \u2014 Spread: Philadelphia Phillies (-2.5)"
+    },
+    {
+      "timestamp": 1786318219.4169009,
+      "bankroll": 291.53,
+      "event": "won: 1winstreak1 \u2014 Spread: Philadelphia Phillies (-1.5)"
     }
   ]
 }
