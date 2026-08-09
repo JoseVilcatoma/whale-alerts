@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 07:55:45 (hora de Perú)
+Actualizado: 2026-08-09 07:57:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $338.96
@@ -29,12 +29,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 2 | 2 | 3 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 79 | -20.92 USD |
+| RN1 | 24 | 17 | 83 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 25 | 68 | 76 | -54.69 USD |
+| quavoo | 25 | 69 | 75 | -54.69 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 245 | 197 | 92 | -91.43 USD |
+| ferrariChampions2026 | 245 | 197 | 95 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -178,6 +178,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-fcn-dyn-2026-08-09-total-2pt5 | RN1, ferrariChampions2026 |
 | bl2-stp-fur-2026-08-09-stp | RN1, ferrariChampions2026 |
 | bl2-stp-fur-2026-08-09-total-2pt5 | RN1, ferrariChampions2026 |
+| chi-ton-shp-2026-08-09-ton | RN1, ferrariChampions2026 |
 | bl2-fce-h96-2026-08-09-total-4pt5 | RN1, ferrariChampions2026 |
 | bl2-fce-h96-2026-08-09-h96 | RN1, ferrariChampions2026 |
 | bl2-fce-h96-2026-08-09-fce | RN1, ferrariChampions2026 |
@@ -189,6 +190,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Celtic FC (-1.5) | Celtic FC (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| RN1 | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 79% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will FC Energie Cottbus win on 2026-08-0 | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chongqing Tonglianglong FC vs. Shanghai  | Under (BUY) | 26% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Kilmarnock FC win on 2026-08-09? | No (BUY) | 97% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Kilmarnock FC win on 2026-08-09? | No (BUY) | 97% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Chongqing Tonglianglong FC win on 2 | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | RN1 | PEC Zwolle vs. AFC Ajax: O/U 2.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | RN1 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
@@ -212,10 +220,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Manchester City vs. Atletico Madrid | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Manchester City vs. Atletico Madrid | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Kilmarnock FC win on 2026-08-09? | No (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Kilmarnock FC win on 2026-08-09? | No (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will FC Lugano win on 2026-08-09? | Yes (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| RN1 | Kilmarnock FC vs. Celtic FC: O/U 1.5 | Over (BUY) | 96% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Tianjin Jinmen Hu FC win on 2026-08 | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Tianjin Jinmen Hu FC win on 2026-08 | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| SDTrading | Colorado Rockies vs. St. Louis Cardinals | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
