@@ -7585,6 +7585,31 @@
       "timestamp": 1786306966.3556721,
       "bankroll": 168.08,
       "event": "won: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786307272.5336363,
+      "bankroll": 168.08,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Atlanta Braves vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786307274.609643,
+      "bankroll": 168.08,
+      "event": "lost: 1winstreak1 \u2014 Atlanta Braves vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786307274.9444087,
+      "bankroll": 168.08,
+      "event": "won: 1winstreak1 \u2014 Atlanta Braves vs. New York Yankees: O/U 6.5"
+    },
+    {
+      "timestamp": 1786307275.2496567,
+      "bankroll": 168.08,
+      "event": "won: 1winstreak1 \u2014 Spread: Atlanta Braves (-1.5)"
+    },
+    {
+      "timestamp": 1786307278.575558,
+      "bankroll": 168.08,
+      "event": "lost: 1winstreak1 \u2014 Spread: Atlanta Braves (-2.5)"
     }
   ]
 }

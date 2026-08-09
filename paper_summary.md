@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 15:25:53 (hora de Perú)
+Actualizado: 2026-08-09 15:28:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $168.08
@@ -13,10 +13,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 73 | 52 | 35 | +31.21 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
+| 1winstreak1 | 75 | 54 | 32 | +31.21 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 37 | 32 | 7 | +12.14 USD |
+| wr0ngw4yb3tt0r | 37 | 33 | 6 | +12.14 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -193,6 +193,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
 | mlb-tb-sea-2026-08-09-total-7pt5 | 1winstreak1, RN1, wr0ngw4yb3tt0r |
+| mlb-lad-ari-2026-08-09-total-9pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-total-9pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 | mlb-cle-cws-2026-08-09-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-tor-phi-2026-08-09-spread-home-1pt5 | 1winstreak1, ferrariChampions2026, monkeymashingkeyboard |
@@ -204,6 +205,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cin-wsh-2026-08-09-spread-home-2pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-spread-home-1pt5 | 1winstreak1, RN1 |
 | wnba-dal-min-2026-08-09 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
+| lol-dig-ly-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-total-9pt5 | 1winstreak1, RN1 |
 
@@ -211,6 +213,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dignitas vs LYON - Game 1 Winner | LYON (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dignitas vs LYON - Game 1 Winner | LYON (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 43% | 1.44 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Minnesota Lynx (-7.5) | Minnesota Lynx (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 15% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Minnesota Twins vs. Milwaukee Brewers: O | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
@@ -238,6 +243,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Dallas Wings (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Dallas Wings (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Dignitas vs LYON - Game 1 Winner | LYON (BUY) | 81% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Dignitas vs LYON (BO3) - LCS Regula | LYON (BUY) | 89% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Dallas Wings (BUY) | 44% | 0.00 | ⏳ pendiente | — |
