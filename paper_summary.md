@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 09:08:26 (hora de Perú)
+Actualizado: 2026-08-09 09:10:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $260.77
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 26 | 70 | 75 | -53.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 1 | 7 | 5 | -89.64 USD |
-| ferrariChampions2026 | 245 | 198 | 98 | -91.43 USD |
+| ferrariChampions2026 | 245 | 198 | 99 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 12 | 38 | 7 | -298.46 USD |
 
@@ -193,6 +193,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 4.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 78% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
@@ -221,5 +222,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Chongqing Tonglianglong FC vs. Shanghai  | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | RN1 | Manchester City vs. Atletico Madrid: O/U | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will FC Energie Cottbus win on 2026-08-0 | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Kilmarnock FC vs. Celtic FC: O/U 3.5 | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kilmarnock FC vs. Celtic FC: O/U 3.5 | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
