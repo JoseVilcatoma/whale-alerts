@@ -1,5 +1,5 @@
 {
-  "bankroll": 353.3125504767255,
+  "bankroll": 352.0771658613409,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5670,6 +5670,21 @@
       "timestamp": 1786260128.3644753,
       "bankroll": 353.31,
       "event": "won: ferrariChampions2026 \u2014 Deportivo Toluca FC vs. Los Angeles FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786262129.8995168,
+      "bankroll": 354.16,
+      "event": "won: quavoo \u2014 Will Los Angeles FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786262131.9274797,
+      "bankroll": 352.88,
+      "event": "lost: ferrariChampions2026 \u2014 Will Los Angeles FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786262132.2278998,
+      "bankroll": 352.08,
+      "event": "lost: ferrariChampions2026 \u2014 Will Los Angeles FC win on 2026-08-08?"
     }
   ]
 }

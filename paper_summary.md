@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 02:53:37 (hora de Perú)
+Actualizado: 2026-08-09 02:55:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $353.31
-**Retorno acumulado:** -64.67%
+**Bankroll actual:** $352.08
+**Retorno acumulado:** -64.79%
 **Peor caída desde un máximo (drawdown):** 68.38%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,9 +19,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 7 | 0 | 17 | +12.95 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 0 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
-| UpTheBlues | 78 | 44 | 11 | +8.44 USD |
+| UpTheBlues | 78 | 44 | 13 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| swisstony | 2 | 0 | 5 | +2.82 USD |
+| swisstony | 2 | 0 | 6 | +2.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
@@ -31,11 +31,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 22 | 63 | 78 | -53.27 USD |
+| quavoo | 23 | 63 | 78 | -52.43 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 243 | 195 | 20 | -89.61 USD |
+| ferrariChampions2026 | 243 | 197 | 18 | -91.69 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 2 | 36 | 15 | -303.20 USD |
+| TAIWANNUMBERONE | 2 | 36 | 16 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -167,6 +167,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Games Total: O/U 2.5 | Over (BUY) | 49% | 1.39 | ⏳ pendiente | — |
+| UpTheBlues | South Melbourne FC vs. Fremantle City FC | Under (BUY) | 97% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will Qingdao Xihaian FC win on 2026-08-0 | Yes (BUY) | 18% | 0.00 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs KT Rolster ( | Dplus KIA (BUY) | 33% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will FC St. Pauli 1910 win on 2026-08-09 | Yes (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Kuopion Palloseura win on 2026-08-0 | No (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | swisstony | Brisbane Roar FC vs. Sydney FC: O/U 5.5 | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs KT Rolster ( | Dplus KIA (BUY) | 33% | 0.00 | ⏳ pendiente | — |
@@ -192,8 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports (BO3 | Invictus Gaming (BUY) | 85% | 4.02 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports (BO3 | Invictus Gaming (BUY) | 85% | 2.67 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports (BO3 | Invictus Gaming (BUY) | 86% | 3.24 | ⏳ pendiente | — |
-| swisstony | Will Shandong Taishan FC win on 2026-08- | Yes (BUY) | 48% | 0.50 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports - Ga | Invictus Gaming (BUY) | 80% | 1.29 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports - Ga | Invictus Gaming (BUY) | 80% | 1.29 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports (BO3 | Invictus Gaming (BUY) | 83% | 0.42 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports - Ga | LNG Esports (BUY) | 25% | 0.37 | ⏳ pendiente | — |
