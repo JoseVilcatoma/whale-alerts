@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 06:17:29 (hora de Perú)
+Actualizado: 2026-08-09 06:19:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $352.08
-**Retorno acumulado:** -64.79%
+**Bankroll actual:** $347.06
+**Retorno acumulado:** -65.29%
 **Peor caída desde un máximo (drawdown):** 68.38%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -31,9 +31,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 23 | 63 | 78 | -52.43 USD |
+| quavoo | 24 | 68 | 72 | -57.44 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 243 | 197 | 0 | -91.69 USD |
+| ferrariChampions2026 | 243 | 197 | 2 | -91.69 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 12 | -303.20 USD |
 
@@ -168,6 +168,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: BNK FEARX vs Kiwoom DRX (BO3) - LCK | BNK FEARX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | V-Varen Nagasaki vs. Kyōto Sanga FC: O/U | Over (BUY) | 74% | 0.75 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 10.79 | ⏳ pendiente | — |
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 53% | 0.95 | ⏳ pendiente | — |
 | quavoo | Will AFC Ajax win on 2026-08-09? | Yes (BUY) | 65% | 0.65 | ⏳ pendiente | — |
@@ -190,11 +192,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | Valorant: Gentle Mates vs Enterprise Esp | Enterprise Esports (BUY) | 41% | 83.08 | ⏳ pendiente | — |
 | quavoo | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 55% | 3.20 | ⏳ pendiente | — |
 | quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 58% | 0.48 | ⏳ pendiente | — |
-| quavoo | Spread: Tōkyō Verdy (-1.5) | Kawasaki Frontale (BUY) | 90% | 0.68 | ⏳ pendiente | — |
+| quavoo | Spread: Tōkyō Verdy (-1.5) | Kawasaki Frontale (BUY) | 90% | 0.68 | ✅ ganada | +0.08 |
 | UpTheBlues | SC Heerenveen vs. FC Twente: O/U 4.5 | Under (BUY) | 76% | 0.49 | ⏳ pendiente | — |
 | quavoo | Will Brøndby IF win on 2026-08-09? | No (BUY) | 45% | 0.44 | ⏳ pendiente | — |
 | quavoo | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 63% | 1.27 | ⏳ pendiente | — |
 | quavoo | Will Brøndby IF win on 2026-08-09? | No (BUY) | 44% | 1.71 | ⏳ pendiente | — |
 | quavoo | Olympique Marseille vs. Athletic Bilbao: | Under (BUY) | 63% | 0.64 | ⏳ pendiente | — |
-| quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.53 | ⏳ pendiente | — |
-| quavoo | Manchester City vs. Atletico Madrid: Bot | Yes (BUY) | 65% | 1.18 | ⏳ pendiente | — |

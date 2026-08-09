@@ -1,5 +1,5 @@
 {
-  "bankroll": 352.0771658613409,
+  "bankroll": 347.06272141689647,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5685,6 +5685,36 @@
       "timestamp": 1786262349.6375487,
       "bankroll": 352.08,
       "event": "won: ferrariChampions2026 \u2014 Will Deportivo Toluca FC vs. Los Angeles FC end in a draw?"
+    },
+    {
+      "timestamp": 1786274303.4949877,
+      "bankroll": 350.57,
+      "event": "lost: quavoo \u2014 Will Kawasaki Frontale win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786274306.979286,
+      "bankroll": 350.57,
+      "event": "lost: quavoo \u2014 Will Kawasaki Frontale win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786274310.6651075,
+      "bankroll": 347.91,
+      "event": "lost: quavoo \u2014 T\u014dky\u014d Verdy vs. Kawasaki Frontale: O/U 2.5"
+    },
+    {
+      "timestamp": 1786274311.122719,
+      "bankroll": 347.36,
+      "event": "lost: quavoo \u2014 Will Kawasaki Frontale win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786274311.511693,
+      "bankroll": 346.99,
+      "event": "lost: quavoo \u2014 Will Kawasaki Frontale win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786274314.196074,
+      "bankroll": 347.06,
+      "event": "won: quavoo \u2014 Spread: T\u014dky\u014d Verdy (-1.5)"
     }
   ]
 }
