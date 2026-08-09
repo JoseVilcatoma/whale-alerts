@@ -22949,5 +22949,47 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786236568.793561,
     "fills": 1
+  },
+  {
+    "timestamp": 1786236694,
+    "timestamp_added": 1786236694.4346027,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-chc-kc-2026-08-08-total-9pt5",
+    "title": "Chicago Cubs vs. Kansas City Royals: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 499.99539999999996,
+    "whale_pct": 0.183,
+    "paper_stake_usd": 0.87,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786236694.434611,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786236717,
+    "timestamp_added": 1786236718.2817209,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-lad-ari-2026-08-08-total-5pt5",
+    "title": "Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 5.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1494.0,
+    "whale_pct": 0.548,
+    "paper_stake_usd": 2.6,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786236718.2817297,
+    "fills": 1
   }
 ]

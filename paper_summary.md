@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 19:50:00 (hora de Perú)
+Actualizado: 2026-08-08 19:52:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $475.03
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
 | 1winstreak1 | 28 | 29 | 18 | -8.77 USD |
-| wr0ngw4yb3tt0r | 18 | 16 | 15 | -10.57 USD |
+| wr0ngw4yb3tt0r | 18 | 16 | 17 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 20 | 16 | 5 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -101,6 +101,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-atl-nyy-2026-08-08-total-7pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-atl-nyy-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard |
 | mlb-cle-cws-2026-08-08-total-6pt5 | 1winstreak1, HomeRunHazard |
+| mlb-chc-kc-2026-08-08-total-9pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | lol-dk-kt-2026-08-09 | StasPanda, TAIWANNUMBERONE |
 | wnba-ind-chi-2026-08-08-total-190pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-spread-home-4pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -152,6 +153,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 48% | 2.60 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 47% | 0.87 | ⏳ pendiente | — |
 | 1winstreak1 | Minnesota Twins vs. Milwaukee Brewers: O | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Instituto AC Córdoba vs. CA Gimnasia y E | Under (BUY) | 68% | 3.79 | ⏳ pendiente | — |
 | 1winstreak1 | Seattle Storm vs. PortlandFire | Seattle Storm (BUY) | 53% | 4.91 | ⏳ pendiente | — |
@@ -180,5 +183,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Coritiba FBC vs. Associação Chapecoense  | Yes (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Orlando City SC (-2.5) | Club León FC (BUY) | 98% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Orlando City SC vs. Club León FC: O/U 2. | Under (BUY) | 26% | 0.00 | ⏳ pendiente | — |
