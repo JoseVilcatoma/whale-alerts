@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 08:29:26 (hora de Perú)
+Actualizado: 2026-08-09 08:31:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $260.77
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 2 | 2 | 3 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 121 | -20.92 USD |
+| RN1 | 24 | 17 | 124 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 26 | 70 | 73 | -53.95 USD |
@@ -195,6 +195,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Malmo FF vs. Degerfors IF: O/U 3.5 | Over (BUY) | 56% | 0.63 | ⏳ pendiente | — |
+| RN1 | Will Degerfors IF win on 2026-08-09? | Yes (BUY) | 61% | 0.82 | ⏳ pendiente | — |
+| RN1 | Malmo FF vs. Degerfors IF: O/U 3.5 | Over (BUY) | 58% | 0.43 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: BESTIA vs Isurus (BO3) - | Isurus (BUY) | 28% | 1.29 | ⏳ pendiente | — |
 | RN1 | Spread: AFC Ajax (-1.5) | PEC Zwolle (BUY) | 77% | 0.27 | ⏳ pendiente | — |
 | RN1 | Will Malmo FF vs. Degerfors IF end in a  | No (BUY) | 69% | 0.81 | ⏳ pendiente | — |
@@ -222,6 +225,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | KAA Gent vs. Yellow-Red KV Mechelen: Bot | Yes (BUY) | 15% | 0.31 | ⏳ pendiente | — |
 | ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Under (BUY) | 60% | 0.74 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Shanghai Haigang FC win on 2026-08- | Yes (BUY) | 73% | 0.96 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Chongqing Tonglianglong FC win on 2 | No (BUY) | 94% | 0.43 | ⏳ pendiente | — |
-| ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 75% | 1.31 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Hannover 96 win on 2026-08-09? | Yes (BUY) | 45% | 0.28 | ⏳ pendiente | — |
