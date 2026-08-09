@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:22:35 (hora de Perú)
+Actualizado: 2026-08-08 21:24:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $407.85
-**Retorno acumulado:** -59.21%
+**Bankroll actual:** $397.52
+**Retorno acumulado:** -60.25%
 **Peor caída desde un máximo (drawdown):** 60.49%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,12 +13,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| quavoo | 13 | 9 | 76 | +22.68 USD |
+| quavoo | 13 | 10 | 75 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 29 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| UpTheBlues | 47 | 31 | 44 | +15.42 USD |
-| greyoctober | 7 | 0 | 3 | +12.95 USD |
+| greyoctober | 7 | 0 | 4 | +12.95 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
+| UpTheBlues | 47 | 32 | 43 | +5.09 USD |
 | HomeRunHazard | 36 | 39 | 13 | +4.98 USD |
 | swisstony | 2 | 0 | 0 | +2.82 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -160,6 +160,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 9.04 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 0.52 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 31.72 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 11.33 | ⏳ pendiente | — |
@@ -189,4 +190,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | CD Guadalajara vs. FC Dallas: O/U 1.5 | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 25% | 0.00 | ✅ ganada | +0.00 |
 | ferrariChampions2026 | CD Guadalajara vs. FC Dallas: O/U 1.5 | Over (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 29% | 0.00 | ⏳ pendiente | — |

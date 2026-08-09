@@ -1,5 +1,5 @@
 {
-  "bankroll": 407.85396768067,
+  "bankroll": 397.52396768067,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4605,6 +4605,16 @@
       "timestamp": 1786241967.2371175,
       "bankroll": 407.85,
       "event": "won: ferrariChampions2026 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 9.5"
+    },
+    {
+      "timestamp": 1786242251.5157204,
+      "bankroll": 407.85,
+      "event": "lost: quavoo \u2014 Spread: Philadelphia Phillies (-2.5)"
+    },
+    {
+      "timestamp": 1786242257.974973,
+      "bankroll": 397.52,
+      "event": "lost: UpTheBlues \u2014 Will CD Coquimbo Unido vs. CD La Serena end in a draw?"
     }
   ]
 }
