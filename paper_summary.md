@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 08:12:28 (hora de Perú)
+Actualizado: 2026-08-09 08:14:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $260.77
@@ -28,13 +28,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 2 | 2 | 3 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 107 | -20.92 USD |
+| RN1 | 24 | 17 | 109 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 26 | 69 | 74 | -53.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| StasPanda | 0 | 6 | 7 | -89.64 USD |
-| ferrariChampions2026 | 245 | 198 | 121 | -91.43 USD |
+| StasPanda | 1 | 6 | 6 | -89.64 USD |
+| ferrariChampions2026 | 245 | 198 | 122 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 12 | 38 | 7 | -298.46 USD |
 
@@ -193,6 +193,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will PEC Zwolle win on 2026-08-09? | No (BUY) | 84% | 0.61 | ⏳ pendiente | — |
+| RN1 | Will AFC Ajax win on 2026-08-09? | No (BUY) | 46% | 0.66 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Hannover 96 win on 2026-08-09? | Yes (BUY) | 44% | 0.78 | ⏳ pendiente | — |
 | RN1 | Will FC St. Pauli 1910 vs. SpVgg Greuthe | Yes (BUY) | 63% | 0.94 | ⏳ pendiente | — |
 | RN1 | Will FC St. Pauli 1910 win on 2026-08-09 | No (BUY) | 72% | 1.11 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Hannover 96 win on 2026-08-09? | Yes (BUY) | 45% | 1.21 | ⏳ pendiente | — |
@@ -220,6 +223,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Hannover 96 win on 2026-08-09? | No (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Hannover 96 win on 2026-08-09? | No (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 21% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Maringa FC PR win on 2026-08-09? | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Under (BUY) | 94% | 0.00 | ⏳ pendiente | — |
