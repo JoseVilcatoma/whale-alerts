@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 06:53:02 (hora de Perú)
+Actualizado: 2026-08-09 06:55:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $341.09
@@ -31,9 +31,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 33 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 24 | 68 | 74 | -57.44 USD |
+| quavoo | 24 | 68 | 75 | -57.44 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 243 | 197 | 32 | -91.69 USD |
+| ferrariChampions2026 | 243 | 197 | 36 | -91.69 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -166,6 +166,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | clf-mci-atm-2026-08-09-atm | RN1, ferrariChampions2026, quavoo |
 | ere-spa-fey-2026-08-09-fey | RN1, quavoo |
 | auc-bri-syd-2026-08-09-total-5pt5 | UpTheBlues, swisstony |
+| clf-mci-atm-2026-08-09-spread-home-1pt5 | ferrariChampions2026, swisstony |
 | ere-spa-fey-2026-08-09-total-3pt5 | RN1, swisstony |
 | jap-vva-kyo-2026-08-09-spread-home-1pt5 | ferrariChampions2026, swisstony |
 | lol-jdg-we-2026-08-09 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
@@ -178,6 +179,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Spread: AFC Ajax (-1.5) | AFC Ajax (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Manchester City (-1.5) | Atletico Madrid (BUY) | 94% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will FC Energie Cottbus win on 2026-08-0 | No (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: FC St. Pauli 1910 (-1.5) | FC St. Pauli 1910 (BUY) | 30% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Manchester City vs. Atletico Madrid: O/U | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Atletico Madrid win on 2026-08-09? | No (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will AFC Ajax win on 2026-08-09? | Yes (BUY) | 66% | 0.00 | ⏳ pendiente | — |
@@ -203,8 +209,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Hannover 96 win on 2026-08-09? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | RN1 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Manchester City win on 2026-08-09? | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 20% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Chongqing Tonglianglong FC win on 2 | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
