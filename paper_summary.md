@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 14:04:33 (hora de Perú)
+Actualizado: 2026-08-09 14:06:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $164.58
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 55 | 48 | 40 | +28.65 USD |
+| 1winstreak1 | 56 | 48 | 39 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 34 | 32 | 8 | +11.82 USD |
@@ -234,4 +234,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 24% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 35% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 48% | 0.00 | ✅ ganada | +0.00 |
