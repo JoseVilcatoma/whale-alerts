@@ -33335,5 +33335,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786298947.3242931,
     "fills": 1
+  },
+  {
+    "timestamp": 1786299103,
+    "timestamp_added": 1786299103.3732932,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-laa-mia-2026-08-09-spread-home-3pt5",
+    "title": "Spread: Miami Marlins (-3.5)",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "whale_usd": 3455.0716,
+    "whale_pct": 0.936,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786299122.1314454,
+    "fills": 3
   }
 ]

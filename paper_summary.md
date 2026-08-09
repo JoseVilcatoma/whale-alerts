@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 13:10:14 (hora de Perú)
+Actualizado: 2026-08-09 13:12:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $164.48
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 50 | 80 | 46 | -49.73 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 313 | 235 | 49 | -89.13 USD |
+| ferrariChampions2026 | 313 | 235 | 50 | -89.13 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -202,6 +202,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Miami Marlins (-3.5) | Los Angeles Angels (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Atlanta Braves (-1.5) | New York Yankees (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 32% | 0.00 | ⏳ pendiente | — |
@@ -231,4 +232,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | Ryan Gusto: Strikeouts O/U 4.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Ryan Gusto: Strikeouts O/U 4.5 | Under (BUY) | 51% | 0.81 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Fnatic vs Karmine Corp (BO3) - LEC  | Karmine Corp (BUY) | 89% | 0.55 | ⏳ pendiente | — |
