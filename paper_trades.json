@@ -24092,5 +24092,115 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786242595.38693,
     "fills": 2
+  },
+  {
+    "timestamp": 1786242660,
+    "timestamp_added": 1786242660.952309,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-lad-ari-2026-08-08-total-2pt5",
+    "title": "Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 331.9973,
+    "whale_pct": 0.119,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786242660.9523208,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786242665,
+    "timestamp_added": 1786242665.3465695,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-mat10-qui2-2026-08-08",
+    "title": "UFC Fight Night: Mateusz Gamrot vs. Quillan Salkilld (Lightweight, Main Card)",
+    "outcome": "Quillan Salkilld",
+    "side": "BUY",
+    "whale_usd": 283.32880000000006,
+    "whale_pct": 0.102,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786242665.3465781,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786242666,
+    "timestamp_added": 1786242667.0171268,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-lad-ari-2026-08-08-total-2pt5",
+    "title": "Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 449.9993,
+    "whale_pct": 0.162,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786242667.0171356,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786242666,
+    "timestamp_added": 1786242667.9098213,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-lad-ari-2026-08-08-total-2pt5",
+    "title": "Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1493.119999,
+    "whale_pct": 3.734,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786242667.909829,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786242720,
+    "timestamp_added": 1786242721.278499,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-mat10-qui2-2026-08-08",
+    "title": "UFC Fight Night: Mateusz Gamrot vs. Quillan Salkilld (Lightweight, Main Card)",
+    "outcome": "Quillan Salkilld",
+    "side": "BUY",
+    "whale_usd": 1038.167199,
+    "whale_pct": 0.375,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786242722.721323,
+    "fills": 2
   }
 ]

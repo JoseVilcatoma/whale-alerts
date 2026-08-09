@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:30:50 (hora de Perú)
+Actualizado: 2026-08-08 21:32:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $391.63
@@ -26,8 +26,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 24 | 23 | 10 | -9.01 USD |
-| 1winstreak1 | 43 | 39 | 9 | -16.07 USD |
+| wr0ngw4yb3tt0r | 24 | 23 | 14 | -9.01 USD |
+| 1winstreak1 | 43 | 39 | 10 | -16.07 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 22 | 16 | 3 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -155,11 +155,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-lad-ari-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-lad-ari-2026-08-08-total-4pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-cle-cws-2026-08-08-spread-home-2pt5 | 1winstreak1, ferrariChampions2026 |
+| mlb-lad-ari-2026-08-08-total-2pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | UFC Fight Night: Mateusz Gamrot vs. Quil | Quillan Salkilld (BUY) | 70% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | UFC Fight Night: Mateusz Gamrot vs. Quil | Quillan Salkilld (BUY) | 68% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 9.04 | ⏳ pendiente | — |
@@ -185,8 +191,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Seattle Storm vs. PortlandFire | Seattle Storm (BUY) | 23% | 0.91 | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 76% | 2.82 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 56% | 0.83 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Diego Ferreira vs. Bill | Billy Quarantillo (BUY) | 38% | 15.75 | ⏳ pendiente | — |
-| ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 82% | 0.85 | ✅ ganada | +0.19 |
-| quavoo | Spread: Santos FC (-1.5) | CA Paranaense (BUY) | 81% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CD Guadalajara vs. FC Dallas: O/U 1.5 | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
