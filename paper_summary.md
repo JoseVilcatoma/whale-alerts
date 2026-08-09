@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 17:56:29 (hora de Perú)
+Actualizado: 2026-08-09 17:58:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.25
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 85 | 42 | 69 | -20.01 USD |
+| RN1 | 85 | 42 | 71 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 62 | 89 | 33 | -55.81 USD |
@@ -233,6 +233,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Santos FC win on 2026-08-09? | No (BUY) | 99% | 0.44 | ⏳ pendiente | — |
+| RN1 | Will SC Corinthians Paulista win on 2026 | Yes (BUY) | 70% | 0.30 | ⏳ pendiente | — |
 | quavoo | Will Once Caldas win on 2026-08-09? | Yes (BUY) | 42% | 0.44 | ⏳ pendiente | — |
 | quavoo | Will Nashville SC win on 2026-08-09? | Yes (BUY) | 55% | 0.33 | ⏳ pendiente | — |
 | RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 98% | 0.40 | ⏳ pendiente | — |
@@ -261,5 +263,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Red Bull Bragantino win on 2026-08- | No (BUY) | 69% | 0.30 | ⏳ pendiente | — |
 | theowalcott | Will Once Caldas win on 2026-08-09? | No (BUY) | 57% | 0.98 | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 52% | 0.38 | ⏳ pendiente | — |
-| theowalcott | Will Once Caldas win on 2026-08-09? | No (BUY) | 57% | 0.89 | ⏳ pendiente | — |
-| theowalcott | Will Once Caldas win on 2026-08-09? | No (BUY) | 57% | 6.62 | ⏳ pendiente | — |
