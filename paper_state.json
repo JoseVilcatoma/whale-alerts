@@ -1,5 +1,5 @@
 {
-  "bankroll": 481.1543671046901,
+  "bankroll": 476.7743671046901,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4235,6 +4235,11 @@
       "timestamp": 1786238881.0281277,
       "bankroll": 481.15,
       "event": "lost: quavoo \u2014 Will C\u00facuta Deportivo FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786239004.8066647,
+      "bankroll": 476.77,
+      "event": "lost: HomeRunHazard \u2014 Chicago Cubs vs. Kansas City Royals: O/U 8.5"
     }
   ]
 }
