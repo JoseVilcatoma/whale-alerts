@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 14:25:24 (hora de Perú)
+Actualizado: 2026-08-09 14:27:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $172.24
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 66 | 50 | 33 | +29.06 USD |
+| 1winstreak1 | 66 | 50 | 34 | +29.06 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 35 | 32 | 11 | +11.82 USD |
@@ -201,12 +201,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-atl-nyy-2026-08-09-total-8pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-cin-wsh-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-spread-home-2pt5 | 1winstreak1, ferrariChampions2026 |
+| mlb-chc-kc-2026-08-09-total-11pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-bal-tex-2026-08-09-total-11pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 51% | 1.55 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Baltimore Orioles (-2.5) | Baltimore Orioles (BUY) | 74% | 0.41 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Atlanta Braves (-2.5) | Atlanta Braves (BUY) | 20% | 0.43 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 91% | 0.81 | ⏳ pendiente | — |
@@ -236,4 +238,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 19% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 87% | 0.00 | ✅ ganada | +0.00 |
