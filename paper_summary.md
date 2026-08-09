@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 10:57:28 (hora de Perú)
+Actualizado: 2026-08-09 10:59:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $158.05
-**Retorno acumulado:** -84.19%
-**Peor caída desde un máximo (drawdown):** 84.42%
+**Bankroll actual:** $155.39
+**Retorno acumulado:** -84.46%
+**Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 53 | 34 | 38 | -20.60 USD |
 | Djdjdjekekek | 0 | 2 | 1 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 34 | 76 | 66 | -55.41 USD |
+| quavoo | 34 | 79 | 63 | -58.07 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | ferrariChampions2026 | 289 | 220 | 70 | -89.54 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
