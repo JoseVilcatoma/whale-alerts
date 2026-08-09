@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:32:53 (hora de Perú)
+Actualizado: 2026-08-08 21:34:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $391.63
-**Retorno acumulado:** -60.84%
+**Bankroll actual:** $402.31
+**Retorno acumulado:** -59.77%
 **Peor caída desde un máximo (drawdown):** 60.84%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,6 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | quavoo | 13 | 11 | 74 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 29 | 1 | +20.63 USD |
+| wr0ngw4yb3tt0r | 26 | 23 | 12 | +19.60 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 5 | +12.95 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -26,14 +27,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 24 | 23 | 14 | -9.01 USD |
 | 1winstreak1 | 43 | 39 | 10 | -16.07 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 22 | 16 | 3 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 215 | 179 | 24 | -67.56 USD |
 | Talvez10 | 4 | 10 | 1 | -71.63 USD |
+| ferrariChampions2026 | 215 | 181 | 22 | -85.49 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 10 | -303.20 USD |
 
@@ -174,7 +174,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 11.33 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 1.14 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 41% | 0.53 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Diego Ferreira vs. Bill | Billy Quarantillo (BUY) | 19% | 2.18 | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Diego Ferreira vs. Bill | Billy Quarantillo (BUY) | 19% | 2.18 | ❌ perdida | -2.18 |
 | quavoo | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 64% | 0.48 | ⏳ pendiente | — |
 | quavoo | Will Los Angeles FC win on 2026-08-08? | Yes (BUY) | 39% | 0.54 | ⏳ pendiente | — |
 | ferrariChampions2026 | Instituto AC Córdoba vs. CA Gimnasia y E | Over (BUY) | 47% | 0.57 | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 391.63396768067,
+  "bankroll": 402.3100363406922,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4650,6 +4650,26 @@
       "timestamp": 1786242582.220366,
       "bankroll": 391.63,
       "event": "lost: 1winstreak1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786242851.4909933,
+      "bankroll": 419.4,
+      "event": "won: wr0ngw4yb3tt0r \u2014 O/U 2.5 Rounds"
+    },
+    {
+      "timestamp": 1786242884.4140928,
+      "bankroll": 420.24,
+      "event": "won: wr0ngw4yb3tt0r \u2014 O/U 2.5 Rounds"
+    },
+    {
+      "timestamp": 1786242887.562415,
+      "bankroll": 404.49,
+      "event": "lost: ferrariChampions2026 \u2014 UFC Fight Night: Diego Ferreira vs. Billy Quarantillo (Lightweight, Main Card)"
+    },
+    {
+      "timestamp": 1786242890.680604,
+      "bankroll": 402.31,
+      "event": "lost: ferrariChampions2026 \u2014 UFC Fight Night: Diego Ferreira vs. Billy Quarantillo (Lightweight, Main Card)"
     }
   ]
 }
