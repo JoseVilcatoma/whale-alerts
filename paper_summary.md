@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 19:37:30 (hora de Perú)
+Actualizado: 2026-08-08 19:39:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $473.48
-**Retorno acumulado:** -52.65%
+**Bankroll actual:** $474.88
+**Retorno acumulado:** -52.51%
 **Peor caída desde un máximo (drawdown):** 53.54%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 41 | 29 | 2 | +17.43 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 30 | 24 | 34 | +16.40 USD |
-| UpTheBlues | 44 | 29 | 49 | +13.87 USD |
+| UpTheBlues | 45 | 30 | 47 | +15.27 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.48135407855966,
+  "bankroll": 474.88044498765055,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4140,6 +4140,16 @@
       "timestamp": 1786235763.3030205,
       "bankroll": 473.48,
       "event": "lost: ferrariChampions2026 \u2014 Will RC Deportivo De La Coruna win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235896.4290462,
+      "bankroll": 473.48,
+      "event": "lost: UpTheBlues \u2014 Will CA Boca Juniors vs. CA V\u00e9lez Sarsfield end in a draw?"
+    },
+    {
+      "timestamp": 1786235909.788283,
+      "bankroll": 474.88,
+      "event": "won: UpTheBlues \u2014 Will CA Boca Juniors vs. CA V\u00e9lez Sarsfield end in a draw?"
     }
   ]
 }
