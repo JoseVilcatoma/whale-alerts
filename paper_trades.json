@@ -38667,5 +38667,48 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786314846.3407238,
     "fills": 1
+  },
+  {
+    "timestamp": 1786315112,
+    "timestamp_added": 1786315112.7196708,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "bra-fla-vit-2026-08-09-fla",
+    "title": "Will CR Flamengo win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 573.6,
+    "whale_pct": 0.115,
+    "paper_stake_usd": 0.33,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786315112.7196777,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786315142,
+    "timestamp_added": 1786315142.4882548,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-cle-cws-2026-08-09-total-9pt5",
+    "title": "Cleveland Guardians vs. Chicago White Sox: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1135.68,
+    "whale_pct": 0.228,
+    "paper_stake_usd": 0.66,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786315142.4882617,
+    "fills": 1
   }
 ]

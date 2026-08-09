@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 17:37:38 (hora de Perú)
+Actualizado: 2026-08-09 17:39:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.25
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 85 | 42 | 64 | -20.01 USD |
+| RN1 | 85 | 42 | 66 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 62 | 89 | 27 | -55.81 USD |
@@ -233,6 +233,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 56% | 0.66 | ⏳ pendiente | — |
+| RN1 | Will CR Flamengo win on 2026-08-09? | Yes (BUY) | 80% | 0.33 | ⏳ pendiente | — |
 | RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 94% | 0.40 | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-09? | Yes (BUY) | 79% | 0.84 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: FlyQuest vs Team Liquid - Game 2 Wi | Team Liquid (BUY) | 70% | 0.67 | ⏳ pendiente | — |
@@ -261,5 +263,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Red Bull Bragantino win on 2026-08- | No (BUY) | 69% | 0.30 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: FlyQuest vs Team Liquid (BO3) - LCS | Team Liquid (BUY) | 85% | 1.29 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 35% | 2.35 | ⏳ pendiente | — |
-| RN1 | Will CA Paranaense win on 2026-08-09? | Yes (BUY) | 82% | 0.37 | ⏳ pendiente | — |
-| ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 39% | 2.62 | ⏳ pendiente | — |
