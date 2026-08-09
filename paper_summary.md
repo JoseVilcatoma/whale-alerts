@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 06:42:37 (hora de Perú)
+Actualizado: 2026-08-09 06:44:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $341.09
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 1winstreak1 | 55 | 47 | 1 | +28.65 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 43 | 30 | 3 | +20.63 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 43 | 30 | 4 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 17 | +12.95 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 0 | +11.82 USD |
@@ -28,12 +28,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 17 | -20.92 USD |
+| RN1 | 24 | 17 | 21 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 24 | 68 | 72 | -57.44 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 243 | 197 | 17 | -91.69 USD |
+| ferrariChampions2026 | 243 | 197 | 20 | -91.69 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -175,6 +175,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 20% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Chongqing Tonglianglong FC win on 2 | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
+| RN1 | Sparta Rotterdam vs. Feyenoord Rotterdam | Over (BUY) | 29% | 0.00 | ⏳ pendiente | — |
+| RN1 | Sparta Rotterdam vs. Feyenoord Rotterdam | Under (BUY) | 98% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will FC Groningen win on 2026-08-09? | No (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 29% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 21% | 0.00 | ⏳ pendiente | — |
 | RN1 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 21% | 0.00 | ⏳ pendiente | — |
@@ -197,11 +205,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Manchester City vs. Atletico Madrid: O/U | Over (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 31% | 0.00 | ⏳ pendiente | — |
 | RN1 | Spread: Feyenoord Rotterdam (-1.5) | Feyenoord Rotterdam (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| RN1 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 61% | 0.00 | 💰 vendida anticipada | +0.00 |
-| RN1 | Will Henan FC vs. Qingdao Xihaian FC end | No (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| RN1 | Sparta Rotterdam vs. Feyenoord Rotterdam | Over (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Manchester City win on 2026-08-09? | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| RN1 | Sparta Rotterdam vs. Feyenoord Rotterdam | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 57% | 0.00 | ⏳ pendiente | — |
