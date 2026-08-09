@@ -32255,5 +32255,69 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786289723.9820213,
     "fills": 2
+  },
+  {
+    "timestamp": 1786289830,
+    "timestamp_added": 1786289830.7838736,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "wnba-phx-wsh-2026-08-09-spread-home-1pt5",
+    "title": "Spread: Washington Mystics (-1.5)",
+    "outcome": "Washington Mystics",
+    "side": "BUY",
+    "whale_usd": 2184.87,
+    "whale_pct": 4.209,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786289842.2312703,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786289848,
+    "timestamp_added": 1786289848.5569396,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "scop-ran-hib-2026-08-09-total-1pt5",
+    "title": "Rangers FC vs. Hibernian FC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 621.0,
+    "whale_pct": 0.198,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786289848.556947,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786289927,
+    "timestamp_added": 1786289928.0292506,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-th-g2-2026-08-09-game1",
+    "title": "LoL: Team Heretics vs G2 Esports - Game 1 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "whale_usd": 419.65000000000003,
+    "whale_pct": 0.134,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786289928.0292597,
+    "fills": 1
   }
 ]
