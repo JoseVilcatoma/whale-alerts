@@ -1,5 +1,5 @@
 {
-  "bankroll": 382.6590260377434,
+  "bankroll": 384.70444137509423,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4995,6 +4995,51 @@
       "timestamp": 1786245349.943956,
       "bankroll": 382.66,
       "event": "won: ferrariChampions2026 \u2014 Houston Astros vs. San Diego Padres: O/U 5.5"
+    },
+    {
+      "timestamp": 1786245951.4523883,
+      "bankroll": 382.66,
+      "event": "lost: ferrariChampions2026 \u2014 Will CA Mineiro win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786245951.6526933,
+      "bankroll": 382.66,
+      "event": "lost: ferrariChampions2026 \u2014 Will CA Mineiro win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786245956.7660136,
+      "bankroll": 382.66,
+      "event": "lost: RN1 \u2014 Will CA Mineiro win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786245957.326141,
+      "bankroll": 382.71,
+      "event": "won: RN1 \u2014 Will Clube do Remo win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786245958.7783167,
+      "bankroll": 382.71,
+      "event": "won: UpTheBlues \u2014 Clube do Remo vs. CA Mineiro: O/U 5.5"
+    },
+    {
+      "timestamp": 1786245958.8784592,
+      "bankroll": 382.71,
+      "event": "won: UpTheBlues \u2014 Will CA Mineiro win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786245958.9785993,
+      "bankroll": 382.71,
+      "event": "lost: UpTheBlues \u2014 Will Clube do Remo win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786245959.6857774,
+      "bankroll": 384.33,
+      "event": "won: UpTheBlues \u2014 Clube do Remo vs. CA Mineiro: O/U 4.5"
+    },
+    {
+      "timestamp": 1786245960.5957015,
+      "bankroll": 384.7,
+      "event": "won: UpTheBlues \u2014 Will Clube do Remo win on 2026-08-08?"
     }
   ]
 }
