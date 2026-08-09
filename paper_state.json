@@ -1,5 +1,5 @@
 {
-  "bankroll": 402.3100363406922,
+  "bankroll": 402.80908395973984,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4670,6 +4670,26 @@
       "timestamp": 1786242890.680604,
       "bankroll": 402.31,
       "event": "lost: ferrariChampions2026 \u2014 UFC Fight Night: Diego Ferreira vs. Billy Quarantillo (Lightweight, Main Card)"
+    },
+    {
+      "timestamp": 1786243178.3132274,
+      "bankroll": 402.31,
+      "event": "won: RN1 \u2014 Will ADC Juan Pablo II College win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243179.1214728,
+      "bankroll": 402.81,
+      "event": "won: UpTheBlues \u2014 Will ADC Juan Pablo II College win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243189.5373683,
+      "bankroll": 402.81,
+      "event": "won: UpTheBlues \u2014 Will Washington Spirit win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243190.1382947,
+      "bankroll": 402.81,
+      "event": "won: UpTheBlues \u2014 Will Washington Spirit win on 2026-08-08?"
     }
   ]
 }

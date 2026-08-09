@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:39:02 (hora de Perú)
+Actualizado: 2026-08-08 21:41:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $402.31
-**Retorno acumulado:** -59.77%
+**Bankroll actual:** $402.81
+**Retorno acumulado:** -59.72%
 **Peor caída desde un máximo (drawdown):** 60.84%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 5 | +12.95 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 47 | 32 | 43 | +5.09 USD |
+| UpTheBlues | 50 | 32 | 40 | +5.59 USD |
 | swisstony | 2 | 0 | 0 | +2.82 USD |
 | HomeRunHazard | 37 | 42 | 9 | +1.46 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
 | 1winstreak1 | 43 | 39 | 13 | -16.07 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 22 | 16 | 3 | -20.97 USD |
+| RN1 | 23 | 16 | 2 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 10 | 1 | -71.63 USD |
