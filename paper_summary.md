@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 17:14:42 (hora de Perú)
+Actualizado: 2026-08-09 17:16:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.18
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 79 | 55 | 56 | +31.24 USD |
+| 1winstreak1 | 79 | 55 | 57 | +31.24 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -31,13 +31,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 85 | 42 | 57 | -20.01 USD |
+| RN1 | 85 | 42 | 58 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 62 | 89 | 27 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 74 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 76 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -210,6 +210,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-dal-min-2026-08-09 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | lol-dig-ly-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-total-7pt5 | 1winstreak1, RN1, ferrariChampions2026 |
+| mlb-lad-ari-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-lad-ari-2026-08-09-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-tb-sea-2026-08-09-spread-away-1pt5 | 1winstreak1, RN1, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-total-9pt5 | 1winstreak1, RN1 |
@@ -230,6 +231,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 35% | 2.35 | ⏳ pendiente | — |
+| RN1 | Will CA Paranaense win on 2026-08-09? | Yes (BUY) | 82% | 0.37 | ⏳ pendiente | — |
+| ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 39% | 2.62 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 28% | 0.34 | ⏳ pendiente | — |
 | RN1 | Red Bull Bragantino vs. SC Corinthians P | Under (BUY) | 95% | 0.43 | ⏳ pendiente | — |
 | RN1 | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 17% | 0.34 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 40% | 0.29 | ⏳ pendiente | — |
@@ -256,7 +261,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 29% | 12.19 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Chicago White Sox (-2.5) | Cleveland Guardians (BUY) | 51% | 2.27 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 49% | 0.61 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 37% | 0.63 | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 59% | 3.98 | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 68% | 4.98 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Tampa Bay Rays (-2.5) | Seattle Mariners (BUY) | 59% | 4.72 | ⏳ pendiente | — |
