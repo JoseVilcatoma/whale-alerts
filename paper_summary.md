@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 17:33:32 (hora de Perú)
+Actualizado: 2026-08-09 17:35:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.25
@@ -32,13 +32,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 85 | 42 | 62 | -20.01 USD |
+| RN1 | 85 | 42 | 64 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 62 | 89 | 27 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 344 | 251 | 84 | -91.86 USD |
+| ferrariChampions2026 | 344 | 251 | 85 | -91.86 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -233,6 +233,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 94% | 0.40 | ⏳ pendiente | — |
+| RN1 | Will CR Flamengo win on 2026-08-09? | Yes (BUY) | 79% | 0.84 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: FlyQuest vs Team Liquid - Game 2 Wi | Team Liquid (BUY) | 70% | 0.67 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: FlyQuest vs Team Liquid - Game 2 Wi | Team Liquid (BUY) | 68% | 0.61 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: FlyQuest vs Team Liquid - Game 2 Wi | Team Liquid (BUY) | 66% | 0.59 | ⏳ pendiente | — |
 | 1winstreak1 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 31% | 0.43 | ⏳ pendiente | — |
@@ -260,6 +263,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 35% | 2.35 | ⏳ pendiente | — |
 | RN1 | Will CA Paranaense win on 2026-08-09? | Yes (BUY) | 82% | 0.37 | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 39% | 2.62 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 28% | 0.34 | ⏳ pendiente | — |
-| RN1 | Red Bull Bragantino vs. SC Corinthians P | Under (BUY) | 95% | 0.43 | ⏳ pendiente | — |
-| RN1 | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 17% | 0.34 | ⏳ pendiente | — |
