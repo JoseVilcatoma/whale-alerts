@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 07:01:25 (hora de Perú)
+Actualizado: 2026-08-09 07:03:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $343.84
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 25 | 68 | 76 | -54.69 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 243 | 197 | 52 | -91.69 USD |
+| ferrariChampions2026 | 243 | 197 | 53 | -91.69 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -184,6 +184,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Chongqing Tonglianglong FC win on 2 | No (BUY) | 49% | 1.81 | ⏳ pendiente | — |
 | ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 60% | 1.31 | ⏳ pendiente | — |
 | RN1 | Manchester City vs. Atletico Madrid: O/U | Over (BUY) | 53% | 0.36 | ⏳ pendiente | — |
 | RN1 | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 87% | 0.00 | ⏳ pendiente | — |
@@ -213,4 +214,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Spread: AFC Ajax (-1.5) | AFC Ajax (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Manchester City (-1.5) | Atletico Madrid (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Energie Cottbus win on 2026-08-0 | No (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: FC St. Pauli 1910 (-1.5) | FC St. Pauli 1910 (BUY) | 30% | 0.00 | ⏳ pendiente | — |
