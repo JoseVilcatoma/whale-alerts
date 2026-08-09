@@ -24362,8 +24362,8 @@
     "whale_pct": 0.103,
     "paper_stake_usd": 0.41,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.44,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786243951.672227,
@@ -31197,7 +31197,7 @@
     "whale_pct": 0.491,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -33931,8 +33931,8 @@
     "whale_pct": 0.967,
     "paper_stake_usd": 1.66,
     "odds_at_bet": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.73,
     "overlaps_with": [
       "quavoo"
     ],
@@ -33953,8 +33953,8 @@
     "whale_pct": 0.142,
     "paper_stake_usd": 0.24,
     "odds_at_bet": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.24,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786304663.8441243,
@@ -34434,8 +34434,8 @@
     "whale_pct": 0.507,
     "paper_stake_usd": 0.86,
     "odds_at_bet": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.9,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786306368.1671484,
@@ -34784,7 +34784,7 @@
     "whale_pct": 0.161,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "quavoo",
@@ -34807,8 +34807,8 @@
     "whale_pct": 1.477,
     "paper_stake_usd": 1.44,
     "odds_at_bet": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.44,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -35534,7 +35534,7 @@
     "whale_pct": 0.1,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "quavoo",
@@ -36090,7 +36090,7 @@
     "whale_pct": 0.785,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 44,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "1winstreak1"
@@ -36112,8 +36112,8 @@
     "whale_pct": 0.817,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786309749.5814161,
@@ -37016,7 +37016,7 @@
     "whale_pct": 0.379,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ferrariChampions2026"
@@ -37963,8 +37963,8 @@
     "whale_pct": 0.102,
     "paper_stake_usd": 0.29,
     "odds_at_bet": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.29,
     "overlaps_with": [
       "1winstreak1"
     ],

@@ -1,5 +1,5 @@
 {
-  "bankroll": 288.6425347064127,
+  "bankroll": 289.73955851593644,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8110,6 +8110,66 @@
       "timestamp": 1786319046.0931547,
       "bankroll": 288.64,
       "event": "won: ferrariChampions2026 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 3.5"
+    },
+    {
+      "timestamp": 1786319090.1591063,
+      "bankroll": 288.4,
+      "event": "lost: 1winstreak1 \u2014 Spread: Chicago Cubs (-4.5)"
+    },
+    {
+      "timestamp": 1786319151.9108992,
+      "bankroll": 288.85,
+      "event": "won: quavoo \u2014 Spread: Minnesota Lynx (-7.5)"
+    },
+    {
+      "timestamp": 1786319156.2143135,
+      "bankroll": 288.85,
+      "event": "won: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1786319160.0282192,
+      "bankroll": 290.57,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Minnesota Lynx (-7.5)"
+    },
+    {
+      "timestamp": 1786319162.149488,
+      "bankroll": 291.47,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786319163.6006866,
+      "bankroll": 291.47,
+      "event": "won: 1winstreak1 \u2014 Spread: Minnesota Lynx (-7.5)"
+    },
+    {
+      "timestamp": 1786319163.7009115,
+      "bankroll": 290.03,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1786319167.178402,
+      "bankroll": 290.03,
+      "event": "won: 1winstreak1 \u2014 Spread: Minnesota Lynx (-7.5)"
+    },
+    {
+      "timestamp": 1786319169.5057392,
+      "bankroll": 290.03,
+      "event": "won: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1786319169.8351138,
+      "bankroll": 290.03,
+      "event": "lost: RN1 \u2014 Gil Vicente FC vs. Rio Ave FC: O/U 0.5"
+    },
+    {
+      "timestamp": 1786319172.639683,
+      "bankroll": 290.03,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1786319177.4849277,
+      "bankroll": 289.74,
+      "event": "lost: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 8.5"
     }
   ]
 }
