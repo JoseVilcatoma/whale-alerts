@@ -1,5 +1,5 @@
 {
-  "bankroll": 162.96870037665124,
+  "bankroll": 163.07705858560647,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -6885,6 +6885,31 @@
       "timestamp": 1786292089.5623066,
       "bankroll": 162.97,
       "event": "won: RN1 \u2014 Will FC Energie Cottbus win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786292717.9053848,
+      "bankroll": 162.97,
+      "event": "won: ferrariChampions2026 \u2014 Will Shanghai Haigang FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786292718.1057491,
+      "bankroll": 163.08,
+      "event": "won: ferrariChampions2026 \u2014 Will Shanghai Haigang FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786292720.4396245,
+      "bankroll": 163.08,
+      "event": "won: ferrariChampions2026 \u2014 Will Shanghai Haigang FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786292780.1198914,
+      "bankroll": 163.08,
+      "event": "won: RN1 \u2014 Will FC Lugano win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786292780.7815742,
+      "bankroll": 163.08,
+      "event": "lost: RN1 \u2014 Kilmarnock FC vs. Celtic FC: 1st Half O/U 1.5"
     }
   ]
 }

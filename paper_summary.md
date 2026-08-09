@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 11:24:27 (hora de Perú)
+Actualizado: 2026-08-09 11:26:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $162.97
-**Retorno acumulado:** -83.70%
+**Bankroll actual:** $163.08
+**Retorno acumulado:** -83.69%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -28,12 +28,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 65 | 38 | 22 | -20.60 USD |
-| Djdjdjekekek | 0 | 2 | 1 | -31.65 USD |
+| RN1 | 66 | 39 | 20 | -20.60 USD |
+| Djdjdjekekek | 0 | 2 | 2 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 44 | 79 | 53 | -51.37 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 293 | 230 | 64 | -88.67 USD |
+| ferrariChampions2026 | 296 | 230 | 61 | -88.56 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 2 | -89.94 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -197,6 +197,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Counter-Strike: 100 Thieves vs 1WIN (BO3 | 1WIN (BUY) | 37% | 0.33 | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 62% | 13.16 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Olympique Marseille win on 2026-08- | Yes (BUY) | 40% | 0.25 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team Heretics vs G2 Esports - Game  | G2 Esports (BUY) | 83% | 0.60 | ⏳ pendiente | — |
@@ -226,4 +227,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs G2 Esports - Game  | Team Heretics (BUY) | 15% | 0.00 | ⏳ pendiente | — |
-| SDTrading | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
