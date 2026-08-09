@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:28:46 (hora de Perú)
+Actualizado: 2026-08-08 21:30:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $397.52
-**Retorno acumulado:** -60.25%
-**Peor caída desde un máximo (drawdown):** 60.49%
+**Bankroll actual:** $391.63
+**Retorno acumulado:** -60.84%
+**Peor caída desde un máximo (drawdown):** 60.84%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -13,21 +13,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| quavoo | 13 | 10 | 75 | +22.68 USD |
+| quavoo | 13 | 11 | 74 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 29 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| greyoctober | 7 | 0 | 4 | +12.95 USD |
+| greyoctober | 7 | 0 | 5 | +12.95 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | UpTheBlues | 47 | 32 | 43 | +5.09 USD |
-| HomeRunHazard | 36 | 39 | 13 | +4.98 USD |
 | swisstony | 2 | 0 | 0 | +2.82 USD |
+| HomeRunHazard | 37 | 42 | 9 | +1.46 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 24 | 23 | 10 | -9.01 USD |
-| 1winstreak1 | 42 | 38 | 11 | -13.70 USD |
+| 1winstreak1 | 43 | 39 | 9 | -16.07 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 22 | 16 | 3 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -160,6 +160,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 9.04 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 0.52 | ⏳ pendiente | — |
@@ -178,7 +179,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | UFC Fight Night: Mateusz Gamrot vs. Quil | Mateusz Gamrot (BUY) | 41% | 2.60 | ⏳ pendiente | — |
 | quavoo | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 39% | 1.32 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 18% | 0.46 | ⏳ pendiente | — |
-| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 42% | 2.37 | ⏳ pendiente | — |
+| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 42% | 2.37 | ❌ perdida | -2.37 |
 | quavoo | Real Salt Lake vs. Atlante FC: O/U 3.5 | Under (BUY) | 61% | 1.12 | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 77% | 0.54 | ⏳ pendiente | — |
 | 1winstreak1 | Seattle Storm vs. PortlandFire | Seattle Storm (BUY) | 23% | 0.91 | ⏳ pendiente | — |
@@ -189,4 +190,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Spread: Santos FC (-1.5) | CA Paranaense (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CD Guadalajara vs. FC Dallas: O/U 1.5 | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 25% | 0.00 | ✅ ganada | +0.00 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 397.52396768067,
+  "bankroll": 391.63396768067,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4615,6 +4615,41 @@
       "timestamp": 1786242257.974973,
       "bankroll": 397.52,
       "event": "lost: UpTheBlues \u2014 Will CD Coquimbo Unido vs. CD La Serena end in a draw?"
+    },
+    {
+      "timestamp": 1786242547.4834733,
+      "bankroll": 397.52,
+      "event": "lost: HomeRunHazard \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786242548.6057224,
+      "bankroll": 397.52,
+      "event": "lost: quavoo \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786242548.7059164,
+      "bankroll": 397.52,
+      "event": "won: HomeRunHazard \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786242549.095582,
+      "bankroll": 397.52,
+      "event": "lost: HomeRunHazard \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786242549.1957307,
+      "bankroll": 394.0,
+      "event": "lost: HomeRunHazard \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786242578.1500196,
+      "bankroll": 394.0,
+      "event": "won: 1winstreak1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786242582.220366,
+      "bankroll": 391.63,
+      "event": "lost: 1winstreak1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 8.5"
     }
   ]
 }
