@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 14:35:42 (hora de Perú)
+Actualizado: 2026-08-09 14:37:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $171.69
@@ -13,10 +13,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 66 | 50 | 36 | +29.06 USD |
+| 1winstreak1 | 66 | 50 | 41 | +29.06 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 35 | 32 | 12 | +11.82 USD |
+| wr0ngw4yb3tt0r | 35 | 32 | 13 | +11.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -204,11 +204,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-chc-kc-2026-08-09-total-10pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-chc-kc-2026-08-09-total-11pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-bal-tex-2026-08-09-total-11pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-oak-bos-2026-08-09-spread-home-1pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-atl-nyy-2026-08-09-total-2pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Phoenix Mercury vs. Washington Mystics:  | Under (BUY) | 50% | 2.69 | ⏳ pendiente | — |
+| 1winstreak1 | Phoenix Mercury vs. Washington Mystics:  | Under (BUY) | 53% | 4.92 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Philadelphia Phillies (-2.5) | Toronto Blue Jays (BUY) | 28% | 0.53 | ⏳ pendiente | — |
+| 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 51% | 1.94 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 49% | 0.88 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 29% | 0.96 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 29% | 0.44 | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 58% | 0.24 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Philadelphia Phillies (-4.5) | Toronto Blue Jays (BUY) | 74% | 0.28 | ⏳ pendiente | — |
@@ -233,9 +241,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Philadelphia Phillies (-2.5) | Toronto Blue Jays (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Texas Rangers (-1.5) | Texas Rangers (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Baltimore Orioles (-1.5) | Texas Rangers (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: New York Mets (-3.5) | New York Mets (BUY) | 78% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Philadelphia Phillies (-2.5) | Toronto Blue Jays (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Cleveland Guardians (-1.5) | Chicago White Sox (BUY) | 49% | 0.00 | ⏳ pendiente | — |
