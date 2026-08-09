@@ -26013,5 +26013,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786253443.137385,
     "fills": 1
+  },
+  {
+    "timestamp": 1786253487,
+    "timestamp_added": 1786253488.3593068,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "ere-spa-fey-2026-08-09-fey",
+    "title": "Will Feyenoord Rotterdam win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 468.53999999999996,
+    "whale_pct": 0.402,
+    "paper_stake_usd": 1.45,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786253488.3593156,
+    "fills": 1
   }
 ]

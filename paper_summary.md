@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 00:30:58 (hora de Perú)
+Actualizado: 2026-08-09 00:32:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $360.93
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 20 | 47 | 72 | -48.01 USD |
+| quavoo | 20 | 47 | 73 | -48.01 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | ferrariChampions2026 | 229 | 192 | 19 | -91.98 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -167,6 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 57% | 1.45 | ⏳ pendiente | — |
 | quavoo | Will Kawasaki Frontale win on 2026-08-09 | Yes (BUY) | 42% | 0.37 | ⏳ pendiente | — |
 | quavoo | Games Total: O/U 2.5 | Over (BUY) | 49% | 0.71 | ⏳ pendiente | — |
 | quavoo | Will Kawasaki Frontale win on 2026-08-09 | Yes (BUY) | 42% | 0.55 | ⏳ pendiente | — |
@@ -196,4 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Deportivo Toluca FC vs. Los Angeles | No (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will LASK Linz win on 2026-08-09? | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will LASK Linz win on 2026-08-09? | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
