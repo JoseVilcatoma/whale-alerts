@@ -24764,5 +24764,28 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786247241.0308664,
     "fills": 1
+  },
+  {
+    "timestamp": 1786247421,
+    "timestamp_added": 1786247422.019183,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tb-sea-2026-08-08-total-6pt5",
+    "title": "Tampa Bay Rays vs. Seattle Mariners: O/U 6.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 4835.670085,
+    "whale_pct": 1.275,
+    "paper_stake_usd": 4.89,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786247422.6379697,
+    "fills": 2
   }
 ]
