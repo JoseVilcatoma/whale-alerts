@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 13:33:02 (hora de Perú)
+Actualizado: 2026-08-09 13:35:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $164.42
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 55 | 48 | 23 | +28.65 USD |
+| 1winstreak1 | 55 | 48 | 26 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 9 | +11.82 USD |
@@ -192,6 +192,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-total-9pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
+| mlb-cle-cws-2026-08-09-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-tor-phi-2026-08-09-spread-home-1pt5 | 1winstreak1, ferrariChampions2026, monkeymashingkeyboard |
 | wnba-phx-wsh-2026-08-09-spread-home-1pt5 | monkeymashingkeyboard, wr0ngw4yb3tt0r |
 | lol-th-g2-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
@@ -204,6 +205,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Cleveland Guardians (-1.5) | Chicago White Sox (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 77% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 19% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 86% | 0.00 | ⏳ pendiente | — |
@@ -231,6 +235,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Athletics (-2.5) | Athletics (BUY) | 21% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 34% | 0.49 | ⏳ pendiente | — |
