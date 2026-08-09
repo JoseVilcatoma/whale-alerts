@@ -27253,5 +27253,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786261309.092506,
     "fills": 1
+  },
+  {
+    "timestamp": 1786261398,
+    "timestamp_added": 1786261399.3097637,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-dk-kt-2026-08-09-game-handicap-away-1pt5",
+    "title": "Game Handicap: DK (-1.5) vs KT Rolster (+1.5)",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "whale_usd": 329.99670000000003,
+    "whale_pct": 0.655,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786261399.3097706,
+    "fills": 1
   }
 ]
