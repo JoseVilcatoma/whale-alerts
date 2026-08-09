@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 17:20:58 (hora de Perú)
+Actualizado: 2026-08-09 17:23:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.18
@@ -26,18 +26,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 3 | 2 | +0.00 USD |
 | monkeymashingkeyboard | 2 | 0 | 1 | +0.00 USD |
-| theowalcott | 0 | 0 | 2 | +0.00 USD |
+| theowalcott | 0 | 0 | 7 | +0.00 USD |
 | AV23IUa | 0 | 0 | 5 | +0.00 USD |
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 85 | 42 | 59 | -20.01 USD |
+| RN1 | 85 | 42 | 61 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 62 | 89 | 27 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 80 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 82 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -212,6 +212,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-min-mil-2026-08-09-total-7pt5 | 1winstreak1, RN1, ferrariChampions2026 |
 | mlb-lad-ari-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-lad-ari-2026-08-09-total-8pt5 | 1winstreak1, ferrariChampions2026 |
+| col1-jdc-onc-2026-08-09-onc | RN1, quavoo, theowalcott |
 | mlb-tb-sea-2026-08-09-spread-away-1pt5 | 1winstreak1, RN1, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-total-9pt5 | 1winstreak1, RN1 |
 | mlb-lad-ari-2026-08-09-spread-home-1pt5 | 1winstreak1, ferrariChampions2026 |
@@ -231,6 +232,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will Once Caldas win on 2026-08-09? | No (BUY) | 57% | 6.62 | ⏳ pendiente | — |
+| theowalcott | Will Once Caldas win on 2026-08-09? | No (BUY) | 57% | 4.64 | ⏳ pendiente | — |
+| RN1 | Will Once Caldas win on 2026-08-09? | Yes (BUY) | 43% | 1.27 | ⏳ pendiente | — |
+| theowalcott | Will Once Caldas win on 2026-08-09? | No (BUY) | 56% | 0.81 | ⏳ pendiente | — |
+| theowalcott | Will Jaguares de Córdoba FC win on 2026- | Yes (BUY) | 26% | 2.06 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: FlyQuest vs Team Liquid (BO3) - LCS | Team Liquid (BUY) | 85% | 0.67 | ⏳ pendiente | — |
+| RN1 | Will Once Caldas win on 2026-08-09? | Yes (BUY) | 44% | 2.64 | ⏳ pendiente | — |
+| theowalcott | Will Once Caldas win on 2026-08-09? | No (BUY) | 56% | 25.58 | ⏳ pendiente | — |
+| ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 51% | 0.90 | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 51% | 1.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 51% | 0.33 | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 51% | 0.32 | ⏳ pendiente | — |
@@ -252,12 +262,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 30% | 0.44 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 39% | 0.54 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 33% | 1.90 | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 29% | 3.14 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 57% | 0.66 | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 43% | 2.67 | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 53% | 2.25 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 56% | 3.58 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 44% | 4.71 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Tampa Bay Rays (-2.5) | Seattle Mariners (BUY) | 72% | 0.31 | ⏳ pendiente | — |
-| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 30% | 1.76 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Tampa Bay Rays (-2.5) | Seattle Mariners (BUY) | 72% | 8.98 | ⏳ pendiente | — |
