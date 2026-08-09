@@ -7050,6 +7050,21 @@
       "timestamp": 1786294946.7093823,
       "bankroll": 163.41,
       "event": "won: ferrariChampions2026 \u2014 Will Celtic FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786295192.4409633,
+      "bankroll": 163.41,
+      "event": "lost: RN1 \u2014 Will FC Groningen win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786295192.5410864,
+      "bankroll": 163.41,
+      "event": "lost: RN1 \u2014 Will FC Groningen win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786295193.3421865,
+      "bankroll": 163.41,
+      "event": "won: RN1 \u2014 Will FC Groningen win on 2026-08-09?"
     }
   ]
 }
