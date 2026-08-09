@@ -1,5 +1,5 @@
 {
-  "bankroll": 383.31609075297,
+  "bankroll": 385.819425690147,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5135,6 +5135,51 @@
       "timestamp": 1786247203.1917987,
       "bankroll": 383.32,
       "event": "lost: 1winstreak1 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 2.5"
+    },
+    {
+      "timestamp": 1786248120.9751985,
+      "bankroll": 384.74,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1786248121.297249,
+      "bankroll": 386.81,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786248123.0239046,
+      "bankroll": 386.81,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786248123.3931026,
+      "bankroll": 386.81,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786248136.1063793,
+      "bankroll": 384.21,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 5.5"
+    },
+    {
+      "timestamp": 1786248136.206525,
+      "bankroll": 384.57,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 5.5"
+    },
+    {
+      "timestamp": 1786248136.7480562,
+      "bankroll": 384.92,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786248142.879276,
+      "bankroll": 385.26,
+      "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786248144.2581549,
+      "bankroll": 385.82,
+      "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Dodgers (-1.5)"
     }
   ]
 }
