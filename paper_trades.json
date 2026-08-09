@@ -29273,5 +29273,94 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786278391.6328087,
     "fills": 1
+  },
+  {
+    "timestamp": 1786278405,
+    "timestamp_added": 1786278405.3197052,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bl2-fce-h96-2026-08-09-h96",
+    "title": "Will Hannover 96 win on 2026-08-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 765.2863629999999,
+    "whale_pct": 0.366,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786278405.3197165,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786278448,
+    "timestamp_added": 1786278448.1677034,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-mci-atm-2026-08-09-mci",
+    "title": "Will Manchester City win on 2026-08-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 344.0,
+    "whale_pct": 0.184,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 20,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786278448.1677144,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786278448,
+    "timestamp_added": 1786278448.7887995,
+    "username": "greyoctober",
+    "wallet": "0xc65ca4755436f82d8eb461e65781584b8cadea39",
+    "slug": "val-gm-ep1-2026-08-09",
+    "title": "Valorant: Gentle Mates vs Enterprise Esports (BO3) - VCT EMEA Play-Ins",
+    "outcome": "Enterprise Esports",
+    "side": "BUY",
+    "whale_usd": 46.666666,
+    "whale_pct": 0.169,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786278448.7888098,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786278461,
+    "timestamp_added": 1786278461.6746151,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "bl2-fce-h96-2026-08-09-h96",
+    "title": "Will Hannover 96 win on 2026-08-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 672.5699999999999,
+    "whale_pct": 0.361,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786278461.6746254,
+    "fills": 1
   }
 ]

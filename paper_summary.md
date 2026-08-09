@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 07:26:43 (hora de Perú)
+Actualizado: 2026-08-09 07:28:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $344.10
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 55 | 47 | 1 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 43 | 30 | 4 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| greyoctober | 7 | 0 | 18 | +12.95 USD |
+| greyoctober | 7 | 0 | 19 | +12.95 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 0 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | UpTheBlues | 78 | 44 | 7 | +8.44 USD |
@@ -28,12 +28,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 42 | -20.92 USD |
+| RN1 | 24 | 17 | 44 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 25 | 68 | 76 | -54.69 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 245 | 197 | 54 | -91.43 USD |
+| ferrariChampions2026 | 245 | 197 | 55 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -184,6 +184,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Hannover 96 win on 2026-08-09? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| greyoctober | Valorant: Gentle Mates vs Enterprise Esp | Enterprise Esports (BUY) | 40% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Manchester City win on 2026-08-09? | No (BUY) | 20% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Hannover 96 win on 2026-08-09? | No (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Manchester City win on 2026-08-09? | No (BUY) | 23% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Manchester City win on 2026-08-09? | Yes (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Shanghai Haigang FC win on 2026-08- | Yes (BUY) | 67% | 0.22 | ⏳ pendiente | — |
@@ -210,7 +214,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 35% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Energie Cottbus win on 2026-08-0 | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | RN1 | Shandong Taishan FC vs. Tianjin Jinmen H | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: BNK FEARX vs Kiwoom DRX - Game 2 Wi | BNK FEARX (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| RN1 | Shandong Taishan FC vs. Tianjin Jinmen H | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | FC St. Pauli 1910 vs. SpVgg Greuther Für | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
