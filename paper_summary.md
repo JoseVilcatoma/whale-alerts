@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 23:24:16 (hora de Perú)
+Actualizado: 2026-08-08 23:26:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $331.61
@@ -29,11 +29,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | 1winstreak1 | 51 | 43 | 7 | -19.43 USD |
 | RN1 | 24 | 17 | 0 | -20.92 USD |
-| quavoo | 18 | 40 | 49 | -31.53 USD |
+| quavoo | 18 | 40 | 51 | -31.53 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 225 | 186 | 25 | -85.52 USD |
+| ferrariChampions2026 | 225 | 186 | 27 | -85.52 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 11 | -303.20 USD |
 
@@ -167,6 +167,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will BK Hacken win on 2026-08-09? | Yes (BUY) | 18% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 81% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
@@ -193,7 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 59% | 1.88 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 83% | 2.74 | ✅ ganada | +0.56 |
 | ferrariChampions2026 | Real Salt Lake vs. Atlante FC: O/U 1.5 | Over (BUY) | 80% | 0.45 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Deportivo Toluca FC vs. Los Angeles | No (BUY) | 78% | 0.43 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Real Salt Lake win on 2026-08-08? | Yes (BUY) | 77% | 0.43 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 72% | 0.70 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Real Salt Lake win on 2026-08-08? | Yes (BUY) | 77% | 0.42 | ⏳ pendiente | — |
