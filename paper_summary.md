@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 07:22:24 (hora de Perú)
+Actualizado: 2026-08-09 07:24:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $344.10
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | UpTheBlues | 78 | 44 | 7 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| swisstony | 2 | 0 | 5 | +2.82 USD |
+| swisstony | 2 | 1 | 4 | +2.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 25 | 68 | 76 | -54.69 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 244 | 197 | 53 | -91.43 USD |
+| ferrariChampions2026 | 245 | 197 | 54 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -184,6 +184,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Shanghai Haigang FC win on 2026-08- | Yes (BUY) | 67% | 0.22 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chongqing Tonglianglong FC vs. Shanghai  | Over (BUY) | 49% | 0.39 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | Team WE (BUY) | 20% | 0.40 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Chongqing Tonglianglong FC win on 2 | No (BUY) | 49% | 1.81 | ⏳ pendiente | — |
 | ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 60% | 1.31 | ⏳ pendiente | — |
@@ -212,5 +214,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | FC St. Pauli 1910 vs. SpVgg Greuther Für | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Chongqing Tonglianglong FC vs. Shan | No (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will AFC Ajax win on 2026-08-09? | Yes (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| quavoo | Spread: AFC Ajax (-1.5) | AFC Ajax (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Manchester City (-1.5) | Atletico Madrid (BUY) | 94% | 0.00 | ⏳ pendiente | — |
