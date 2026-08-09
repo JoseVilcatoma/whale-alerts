@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 10:30:32 (hora de Perú)
+Actualizado: 2026-08-09 10:32:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $156.16
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 2 | -89.94 USD |
-| ferrariChampions2026 | 254 | 202 | 109 | -91.43 USD |
+| ferrariChampions2026 | 254 | 202 | 114 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 14 | 38 | 5 | -298.46 USD |
 
@@ -197,6 +197,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Rangers FC win on 2026-08-09? | Yes (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Team Heretics vs G2 Esports - Game  | G2 Esports (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Team Heretics vs G2 Esports (BO3) - | G2 Esports (BUY) | 90% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Rangers FC win on 2026-08-09? | Yes (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | monkeymashingkeyboard | Spread: Washington Mystics (-1.5) | Washington Mystics (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
@@ -222,8 +227,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 83% | 0.27 | ⏳ pendiente | — |
 | ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 87% | 0.22 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will AS Monaco win on 2026-08-09? | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will AS Monaco win on 2026-08-09? | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 88% | 0.00 | ⏳ pendiente | — |
-| StasPanda | Counter-Strike: BESTIA vs Isurus (BO3) - | Isurus (BUY) | 28% | 0.00 | ⏳ pendiente | — |
-| quavoo | IFK Goteborg vs. Kalmar FF: O/U 2.5 | Under (BUY) | 49% | 0.06 | ⏳ pendiente | — |
-| ferrariChampions2026 | Heart of Midlothian FC vs. Dundee United | Over (BUY) | 91% | 0.45 | ⏳ pendiente | — |
