@@ -1,5 +1,5 @@
 {
-  "bankroll": 163.07705858560647,
+  "bankroll": 163.40705858560648,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -6980,6 +6980,61 @@
       "timestamp": 1786293093.1710978,
       "bankroll": 163.08,
       "event": "won: ferrariChampions2026 \u2014 Spread: Celtic FC (-1.5)"
+    },
+    {
+      "timestamp": 1786293343.0055656,
+      "bankroll": 163.08,
+      "event": "won: RN1 \u2014 Will PEC Zwolle win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786293343.1057203,
+      "bankroll": 163.08,
+      "event": "won: RN1 \u2014 Will PEC Zwolle win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786293343.3902347,
+      "bankroll": 163.08,
+      "event": "lost: RN1 \u2014 PEC Zwolle vs. AFC Ajax: O/U 1.5"
+    },
+    {
+      "timestamp": 1786293343.7398524,
+      "bankroll": 163.08,
+      "event": "won: RN1 \u2014 PEC Zwolle vs. AFC Ajax: O/U 2.5"
+    },
+    {
+      "timestamp": 1786293343.8400047,
+      "bankroll": 163.08,
+      "event": "won: RN1 \u2014 Will PEC Zwolle win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786293344.1404305,
+      "bankroll": 163.08,
+      "event": "won: RN1 \u2014 PEC Zwolle vs. AFC Ajax: O/U 1.5"
+    },
+    {
+      "timestamp": 1786293344.3406487,
+      "bankroll": 163.08,
+      "event": "won: RN1 \u2014 Will PEC Zwolle win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786293344.4407902,
+      "bankroll": 163.08,
+      "event": "won: RN1 \u2014 Will PEC Zwolle win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786293344.5409355,
+      "bankroll": 163.08,
+      "event": "won: RN1 \u2014 PEC Zwolle vs. AFC Ajax: O/U 2.5"
+    },
+    {
+      "timestamp": 1786293344.6410904,
+      "bankroll": 163.41,
+      "event": "won: RN1 \u2014 PEC Zwolle vs. AFC Ajax: O/U 1.5"
+    },
+    {
+      "timestamp": 1786293398.8843465,
+      "bankroll": 163.41,
+      "event": "won: quavoo \u2014 Spread: AFC Ajax (-1.5)"
     }
   ]
 }
