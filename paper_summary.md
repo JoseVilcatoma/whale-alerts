@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 16:03:25 (hora de Perú)
+Actualizado: 2026-08-09 16:05:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $168.72
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 79 | 55 | 38 | +31.24 USD |
+| 1winstreak1 | 79 | 55 | 39 | +31.24 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 37 | 33 | 8 | +12.14 USD |
@@ -26,17 +26,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 3 | 2 | +0.00 USD |
 | monkeymashingkeyboard | 0 | 0 | 3 | +0.00 USD |
 | theowalcott | 0 | 0 | 2 | +0.00 USD |
+| AV23IUa | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 84 | 42 | 13 | -20.21 USD |
+| RN1 | 84 | 42 | 19 | -20.21 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 60 | 89 | 29 | -55.81 USD |
+| quavoo | 61 | 89 | 28 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 33 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 34 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -207,14 +208,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-min-mil-2026-08-09-spread-home-1pt5 | 1winstreak1, RN1 |
 | wnba-dal-min-2026-08-09 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | lol-dig-ly-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
-| mlb-min-mil-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
+| mlb-min-mil-2026-08-09-total-7pt5 | 1winstreak1, RN1, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-total-9pt5 | 1winstreak1, RN1 |
 | mlb-cle-cws-2026-08-09-total-10pt5 | RN1, ferrariChampions2026 |
+| bra-bra-cor1-2026-08-09-cor1 | AV23IUa, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Minnesota Twins vs. Milwaukee Brewers: O | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 45% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Sport Lisboa e Benfica vs. Académic | No (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 42% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 88% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will SC Corinthians Paulista win on 2026 | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
+| AV23IUa | Will SC Corinthians Paulista win on 2026 | Yes (BUY) | 28% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Gil Vicente FC win on 2026-08-09? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Colorado Rockies vs. St. Louis Cardinals | Over (BUY) | 93% | 0.00 | ⏳ pendiente | — |
+| AV23IUa | Will Santos FC win on 2026-08-09? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: St. Louis Cardinals (-2.5) | Colorado Rockies (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Seattle Mariners (-2.5) | Seattle Mariners (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Minnesota Lynx (-7.5) | Minnesota Lynx (BUY) | 50% | 0.00 | ⏳ pendiente | — |
@@ -235,13 +247,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 37% | 0.23 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CSyD Defensa y Justicia win on 2026 | Yes (BUY) | 49% | 0.61 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Dallas Wings vs. Minnesota Lynx | Dallas Wings (BUY) | 27% | 0.25 | ⏳ pendiente | — |
-| 1winstreak1 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 22% | 0.21 | ⏳ pendiente | — |
-| 1winstreak1 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 46% | 0.18 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Arizona Diamondbacks (-2.5) | Arizona Diamondbacks (BUY) | 56% | 0.22 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 55% | 0.71 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 34% | 0.74 | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | SE Palmeiras vs. SC Internacional: O/U 0 | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will SE Palmeiras vs. SC Internacional e | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
