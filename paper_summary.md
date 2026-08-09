@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 17:06:17 (hora de Perú)
+Actualizado: 2026-08-09 17:08:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.18
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 62 | 89 | 27 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 72 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 74 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -210,6 +210,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-dal-min-2026-08-09 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | lol-dig-ly-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-total-7pt5 | 1winstreak1, RN1, ferrariChampions2026 |
+| mlb-lad-ari-2026-08-09-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-tb-sea-2026-08-09-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-total-9pt5 | 1winstreak1, RN1 |
 | mlb-lad-ari-2026-08-09-spread-home-1pt5 | 1winstreak1, ferrariChampions2026 |
@@ -229,6 +230,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 40% | 0.29 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: FlyQuest vs Team Liquid (BO3) - LCS | Team Liquid (BUY) | 85% | 1.59 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: CSyD Defensa y Justicia (-1.5) | CSyD Defensa y Justicia (BUY) | 46% | 0.51 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: CSyD Defensa y Justicia (-1.5) | CSyD Defensa y Justicia (BUY) | 47% | 0.53 | ⏳ pendiente | — |
 | ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 30% | 0.34 | ⏳ pendiente | — |
@@ -257,5 +260,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Tampa Bay Rays (-2.5) | Seattle Mariners (BUY) | 59% | 4.72 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 30% | 2.12 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 40% | 3.75 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 57% | 5.28 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 39% | 3.58 | ⏳ pendiente | — |

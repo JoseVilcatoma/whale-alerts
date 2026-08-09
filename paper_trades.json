@@ -37929,5 +37929,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786313015.4089475,
     "fills": 1
+  },
+  {
+    "timestamp": 1786313266,
+    "timestamp_added": 1786313266.7230263,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-fly-tl2-2026-08-09",
+    "title": "LoL: FlyQuest vs Team Liquid (BO3) - LCS Regular Season",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "whale_usd": 2145.4,
+    "whale_pct": 0.552,
+    "paper_stake_usd": 1.59,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786313266.7230315,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786313300,
+    "timestamp_added": 1786313300.5348878,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-lad-ari-2026-08-09-total-8pt5",
+    "title": "Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 404.78000000000003,
+    "whale_pct": 0.102,
+    "paper_stake_usd": 0.29,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786313300.5348964,
+    "fills": 1
   }
 ]
