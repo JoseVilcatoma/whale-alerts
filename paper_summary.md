@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 00:05:46 (hora de Perú)
+Actualizado: 2026-08-09 00:07:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $317.24
-**Retorno acumulado:** -68.28%
+**Bankroll actual:** $378.05
+**Retorno acumulado:** -62.19%
 **Peor caída desde un máximo (drawdown):** 68.38%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,9 +13,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| 1winstreak1 | 54 | 47 | 2 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 30 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 32 | 28 | 5 | +13.78 USD |
+| wr0ngw4yb3tt0r | 34 | 28 | 3 | +16.55 USD |
 | greyoctober | 7 | 0 | 12 | +12.95 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | UpTheBlues | 78 | 42 | 2 | +8.44 USD |
@@ -28,12 +29,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 24 | 17 | 0 | -20.92 USD |
-| 1winstreak1 | 53 | 45 | 5 | -21.40 USD |
-| quavoo | 20 | 40 | 62 | -31.53 USD |
+| quavoo | 20 | 40 | 63 | -31.53 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 226 | 189 | 25 | -99.32 USD |
+| ferrariChampions2026 | 229 | 189 | 22 | -91.34 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 11 | -303.20 USD |
 
@@ -167,6 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 62% | 0.45 | ⏳ pendiente | — |
 | quavoo | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 0.00 | ⏳ pendiente | — |
@@ -184,16 +185,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Athletics vs. Boston Red Sox: O/U 10.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | quavoo | Athletics vs. Boston Red Sox: O/U 10.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 52% | 0.00 | ❌ perdida | -0.00 |
 | quavoo | Will BK Hacken win on 2026-08-09? | Yes (BUY) | 18% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 47% | 1.56 | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 45% | 0.00 | ✅ ganada | +0.00 |
+| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 47% | 1.56 | ✅ ganada | +1.76 |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 30% | 0.55 | ✅ ganada | +1.28 |
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 1.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Over (BUY) | 46% | 0.45 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 69% | 0.65 | ✅ ganada | +0.29 |

@@ -24216,8 +24216,8 @@
     "whale_pct": 0.512,
     "paper_stake_usd": 2.06,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.23,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786242940.479952,
@@ -24236,8 +24236,8 @@
     "whale_pct": 13.408,
     "paper_stake_usd": 47.29,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 51.23,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -24465,8 +24465,8 @@
     "whale_pct": 0.305,
     "paper_stake_usd": 1.18,
     "odds_at_bet": 38,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.18,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -24527,8 +24527,8 @@
     "whale_pct": 0.596,
     "paper_stake_usd": 0.61,
     "odds_at_bet": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.54,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -24778,8 +24778,8 @@
     "whale_pct": 1.275,
     "paper_stake_usd": 4.89,
     "odds_at_bet": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.22,
     "overlaps_with": [
       "1winstreak1",
       "wr0ngw4yb3tt0r"
@@ -25112,8 +25112,8 @@
     "whale_pct": 1.206,
     "paper_stake_usd": 1.56,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.76,
     "overlaps_with": [
       "1winstreak1",
       "wr0ngw4yb3tt0r"
@@ -25135,7 +25135,7 @@
     "whale_pct": 0.222,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "1winstreak1",
@@ -25278,8 +25278,8 @@
     "whale_pct": 0.201,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ferrariChampions2026",
       "wr0ngw4yb3tt0r"
@@ -25632,6 +25632,26 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786251772.904345,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786251963,
+    "timestamp_added": 1786251964.186767,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "clf-mci-atm-2026-08-09-total-3pt5",
+    "title": "Manchester City vs. Atletico Madrid: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 146.32,
+    "whale_pct": 0.142,
+    "paper_stake_usd": 0.45,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786251964.1867766,
     "fills": 1
   }
 ]
