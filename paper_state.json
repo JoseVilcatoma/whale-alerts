@@ -1,5 +1,5 @@
 {
-  "bankroll": 164.57885774335418,
+  "bankroll": 172.64466419496708,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7245,6 +7245,11 @@
       "timestamp": 1786302446.3925335,
       "bankroll": 164.58,
       "event": "won: quavoo \u2014 Will FC Sion win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786302766.3727753,
+      "bankroll": 172.64,
+      "event": "won: 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 10.5"
     }
   ]
 }
