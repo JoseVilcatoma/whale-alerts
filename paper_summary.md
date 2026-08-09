@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 10:10:08 (hora de Perú)
+Actualizado: 2026-08-09 10:12:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $156.16
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 2 | -89.94 USD |
-| ferrariChampions2026 | 251 | 202 | 100 | -91.43 USD |
+| ferrariChampions2026 | 251 | 202 | 101 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 14 | 38 | 5 | -298.46 USD |
 
@@ -195,6 +195,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Motherwell FC vs. Falkirk FC: O/U 0.5 | Over (BUY) | 70% | 0.55 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Rangers FC win on 2026-08-09? | Yes (BUY) | 70% | 0.42 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: 100 Thieves vs BC.Game E | BC.Game Esports (BUY) | 40% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 48% | 0.00 | ⏳ pendiente | — |
@@ -224,4 +225,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Cruzeiro EC win on 2026-08-09? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: 1st | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |

@@ -31727,5 +31727,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786288092.049942,
     "fills": 1
+  },
+  {
+    "timestamp": 1786288232,
+    "timestamp_added": 1786288232.7192652,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "scop-mot-fal-2026-08-08-total-0pt5",
+    "title": "Motherwell FC vs. Falkirk FC: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1097.922,
+    "whale_pct": 0.351,
+    "paper_stake_usd": 0.55,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786288232.7192743,
+    "fills": 1
   }
 ]
