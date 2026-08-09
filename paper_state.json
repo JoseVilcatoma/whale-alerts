@@ -1,5 +1,5 @@
 {
-  "bankroll": 260.7704213918797,
+  "bankroll": 259.4104213918797,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5855,6 +5855,21 @@
       "timestamp": 1786283418.145426,
       "bankroll": 260.77,
       "event": "lost: ferrariChampions2026 \u2014 Will V-Varen Nagasaki win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786284641.6175673,
+      "bankroll": 259.92,
+      "event": "lost: quavoo \u2014 Counter-Strike: Inner Circle Esports vs Iberian Soul (BO3) - Esports World Cup Open Qualifier Play-Ins"
+    },
+    {
+      "timestamp": 1786284641.9115095,
+      "bankroll": 259.41,
+      "event": "lost: StasPanda \u2014 Counter-Strike: Virtus.pro vs Sashi Esport (BO3) - Esports World Cup Open Qualifier Play-Ins"
+    },
+    {
+      "timestamp": 1786284642.602609,
+      "bankroll": 259.41,
+      "event": "won: StasPanda \u2014 Counter-Strike: Inner Circle Esports vs Iberian Soul (BO3) - Esports World Cup Open Qualifier Play-Ins"
     }
   ]
 }
