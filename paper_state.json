@@ -1,5 +1,5 @@
 {
-  "bankroll": 259.4104213918797,
+  "bankroll": 258.0004213918797,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5870,6 +5870,76 @@
       "timestamp": 1786284642.602609,
       "bankroll": 259.41,
       "event": "won: StasPanda \u2014 Counter-Strike: Inner Circle Esports vs Iberian Soul (BO3) - Esports World Cup Open Qualifier Play-Ins"
+    },
+    {
+      "timestamp": 1786285276.987232,
+      "bankroll": 258.0,
+      "event": "lost: quavoo \u2014 Sparta Rotterdam vs. Feyenoord Rotterdam: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786285278.2695699,
+      "bankroll": 258.0,
+      "event": "won: swisstony \u2014 Sparta Rotterdam vs. Feyenoord Rotterdam: O/U 3.5"
+    },
+    {
+      "timestamp": 1786285278.986645,
+      "bankroll": 258.0,
+      "event": "lost: RN1 \u2014 Sparta Rotterdam vs. Feyenoord Rotterdam: O/U 3.5"
+    },
+    {
+      "timestamp": 1786285279.3787541,
+      "bankroll": 258.0,
+      "event": "lost: RN1 \u2014 Sparta Rotterdam vs. Feyenoord Rotterdam: O/U 2.5"
+    },
+    {
+      "timestamp": 1786285280.5237565,
+      "bankroll": 258.0,
+      "event": "lost: RN1 \u2014 Sparta Rotterdam vs. Feyenoord Rotterdam: O/U 3.5"
+    },
+    {
+      "timestamp": 1786285280.8680468,
+      "bankroll": 258.0,
+      "event": "lost: RN1 \u2014 Sparta Rotterdam vs. Feyenoord Rotterdam: O/U 1.5"
+    },
+    {
+      "timestamp": 1786285281.9015248,
+      "bankroll": 258.0,
+      "event": "lost: RN1 \u2014 Spread: Feyenoord Rotterdam (-1.5)"
+    },
+    {
+      "timestamp": 1786285282.5265298,
+      "bankroll": 258.0,
+      "event": "won: RN1 \u2014 Sparta Rotterdam vs. Feyenoord Rotterdam: O/U 2.5"
+    },
+    {
+      "timestamp": 1786285283.4378512,
+      "bankroll": 258.0,
+      "event": "won: RN1 \u2014 Will Sparta Rotterdam win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786285286.0811207,
+      "bankroll": 258.0,
+      "event": "won: RN1 \u2014 Sparta Rotterdam vs. Feyenoord Rotterdam: O/U 4.5"
+    },
+    {
+      "timestamp": 1786285286.1812437,
+      "bankroll": 258.0,
+      "event": "lost: RN1 \u2014 Sparta Rotterdam vs. Feyenoord Rotterdam: O/U 2.5"
+    },
+    {
+      "timestamp": 1786285287.4697654,
+      "bankroll": 258.0,
+      "event": "won: RN1 \u2014 Will Sparta Rotterdam vs. Feyenoord Rotterdam end in a draw?"
+    },
+    {
+      "timestamp": 1786285287.7702725,
+      "bankroll": 258.0,
+      "event": "won: RN1 \u2014 Sparta Rotterdam vs. Feyenoord Rotterdam: O/U 4.5"
+    },
+    {
+      "timestamp": 1786285293.0436876,
+      "bankroll": 258.0,
+      "event": "won: RN1 \u2014 Sparta Rotterdam vs. Feyenoord Rotterdam: O/U 1.5"
     }
   ]
 }

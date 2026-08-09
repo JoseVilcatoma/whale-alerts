@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 09:20:55 (hora de Perú)
+Actualizado: 2026-08-09 09:22:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $259.41
-**Retorno acumulado:** -74.06%
+**Bankroll actual:** $258.00
+**Retorno acumulado:** -74.20%
 **Peor caída desde un máximo (drawdown):** 75.07%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -25,13 +25,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 0 | 3 | +0.00 USD |
-| swisstony | 2 | 2 | 3 | -1.41 USD |
+| swisstony | 3 | 2 | 2 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 84 | -20.92 USD |
+| RN1 | 30 | 23 | 72 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 26 | 71 | 74 | -54.80 USD |
+| quavoo | 26 | 72 | 75 | -56.21 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 2 | 8 | 4 | -90.15 USD |
 | ferrariChampions2026 | 245 | 198 | 101 | -91.43 USD |
@@ -193,6 +193,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will FC Sion win on 2026-08-09? | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will FK Haugesund win on 2026-08-09? | Yes (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Heart of Midlothian FC vs. Dundee United | Over (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: BESTIA vs Isurus (BO3) - | Isurus (BUY) | 28% | 0.00 | ⏳ pendiente | — |
@@ -221,5 +223,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Chongqing Tonglianglong FC win on 2 | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | RN1 | PEC Zwolle vs. AFC Ajax: O/U 2.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
-| RN1 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chongqing Tonglianglong FC vs. Shanghai  | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
