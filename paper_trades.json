@@ -24722,5 +24722,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786246829.4787614,
     "fills": 1
+  },
+  {
+    "timestamp": 1786247051,
+    "timestamp_added": 1786247051.8922126,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-tol-laf-2026-08-08-tol",
+    "title": "Will Deportivo Toluca FC win on 2026-08-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1395.331,
+    "whale_pct": 0.427,
+    "paper_stake_usd": 1.63,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786247051.8922224,
+    "fills": 1
   }
 ]

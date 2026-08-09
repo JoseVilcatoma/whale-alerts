@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 22:42:43 (hora de Perú)
+Actualizado: 2026-08-08 22:44:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $383.32
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 224 | 186 | 14 | -85.52 USD |
+| ferrariChampions2026 | 224 | 186 | 15 | -85.52 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 11 | -303.20 USD |
 
@@ -68,6 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-ind-chi-2026-08-08-spread-away-6pt5 | 1winstreak1, HomeRunHazard |
 | lol-wb-lng-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-laa-mia-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard, quavoo |
+| lec-tol-laf-2026-08-08-tol | ferrariChampions2026, quavoo |
 | jap-avi-vis-2026-08-08-spread-away-1pt5 | UpTheBlues, ferrariChampions2026 |
 | mlb-oak-bos-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard, RN1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tor-phi-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard, RN1, Talvez10, ferrariChampions2026, quavoo |
@@ -165,6 +166,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | No (BUY) | 70% | 1.63 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | Dplus KIA (BUY) | 57% | 5.97 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 59% | 1.88 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 83% | 2.74 | ⏳ pendiente | — |
@@ -194,4 +196,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC Fight Night: Mateusz Gamrot vs. Quil | Quillan Salkilld (BUY) | 68% | 0.00 | ✅ ganada | +0.00 |
-| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
