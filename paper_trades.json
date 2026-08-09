@@ -26233,5 +26233,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786254621.0951285,
     "fills": 4
+  },
+  {
+    "timestamp": 1786254814,
+    "timestamp_added": 1786254815.4581504,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lec-chi-san-2026-08-09-chi",
+    "title": "Will Chicago Fire FC win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 426.64050000000003,
+    "whale_pct": 0.352,
+    "paper_stake_usd": 1.27,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786254815.458161,
+    "fills": 1
   }
 ]
