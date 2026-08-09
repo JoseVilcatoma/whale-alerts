@@ -31605,5 +31605,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786286172.2299716,
     "fills": 1
+  },
+  {
+    "timestamp": 1786286388,
+    "timestamp_added": 1786286388.787152,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "clf-lfc-asm-2026-08-09-total-3pt5",
+    "title": "Liverpool FC vs. AS Monaco: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 681.4101,
+    "whale_pct": 0.228,
+    "paper_stake_usd": 0.22,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786286388.7871604,
+    "fills": 1
   }
 ]
