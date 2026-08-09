@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 07:57:56 (hora de Perú)
+Actualizado: 2026-08-09 08:52:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $338.96
-**Retorno acumulado:** -66.10%
-**Peor caída desde un máximo (drawdown):** 68.38%
+**Bankroll actual:** $260.77
+**Retorno acumulado:** -73.92%
+**Peor caída desde un máximo (drawdown):** 75.07%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -13,30 +13,30 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 55 | 47 | 1 | +28.65 USD |
+| 1winstreak1 | 55 | 48 | 0 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 43 | 30 | 4 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 19 | +12.95 USD |
-| wr0ngw4yb3tt0r | 34 | 31 | 0 | +11.82 USD |
+| wr0ngw4yb3tt0r | 34 | 31 | 1 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | UpTheBlues | 78 | 45 | 6 | +7.53 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 0 | 1 | +0.00 USD |
 | swisstony | 2 | 2 | 3 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 83 | -20.92 USD |
+| RN1 | 24 | 17 | 84 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 25 | 69 | 75 | -54.69 USD |
+| quavoo | 26 | 70 | 73 | -53.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 245 | 197 | 95 | -91.43 USD |
+| StasPanda | 1 | 7 | 5 | -89.64 USD |
+| ferrariChampions2026 | 245 | 198 | 94 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
+| TAIWANNUMBERONE | 12 | 38 | 7 | -298.46 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -166,6 +166,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | clf-mci-atm-2026-08-09-mci | RN1, ferrariChampions2026, quavoo |
 | mlb-tb-sea-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | clf-mci-atm-2026-08-09-atm | RN1, ferrariChampions2026, quavoo |
+| mlb-bal-tex-2026-08-09-total-8pt5 | quavoo, wr0ngw4yb3tt0r |
 | ere-spa-fey-2026-08-09-fey | RN1, quavoo |
 | val-gm-ep1-2026-08-09 | greyoctober, quavoo |
 | auc-bri-syd-2026-08-09-total-5pt5 | UpTheBlues, swisstony |
@@ -190,6 +191,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 47% | 0.28 | ⏳ pendiente | — |
+| RN1 | PEC Zwolle vs. AFC Ajax: O/U 1.5 | Over (BUY) | 45% | 0.27 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Celtic FC (-1.5) | Celtic FC (BUY) | 65% | 0.00 | ⏳ pendiente | — |
 | RN1 | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 79% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will FC Energie Cottbus win on 2026-08-0 | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
@@ -218,5 +221,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will PEC Zwolle win on 2026-08-09? | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | FC St. Pauli 1910 vs. SpVgg Greuther Für | Under (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | RN1 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Manchester City vs. Atletico Madrid | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Manchester City vs. Atletico Madrid | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
