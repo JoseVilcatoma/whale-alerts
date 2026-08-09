@@ -33590,5 +33590,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786300212.0326703,
     "fills": 1
+  },
+  {
+    "timestamp": 1786300367,
+    "timestamp_added": 1786300367.9009638,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-cle-cws-2026-08-09-total-8pt5",
+    "title": "Cleveland Guardians vs. Chicago White Sox: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 129.77,
+    "whale_pct": 0.354,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 19,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786300367.90097,
+    "fills": 1
   }
 ]
