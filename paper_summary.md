@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 20:31:33 (hora de Perú)
+Actualizado: 2026-08-08 20:33:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $476.77
-**Retorno acumulado:** -52.32%
+**Bankroll actual:** $477.18
+**Retorno acumulado:** -52.28%
 **Peor caída desde un máximo (drawdown):** 53.54%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 41 | 29 | 2 | +17.43 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | UpTheBlues | 47 | 31 | 44 | +15.42 USD |
-| HomeRunHazard | 31 | 27 | 30 | +13.08 USD |
+| HomeRunHazard | 32 | 28 | 28 | +13.08 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
@@ -27,15 +27,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 29 | 29 | 20 | -8.77 USD |
-| wr0ngw4yb3tt0r | 20 | 16 | 19 | -10.57 USD |
+| 1winstreak1 | 30 | 29 | 22 | -8.77 USD |
+| wr0ngw4yb3tt0r | 21 | 16 | 19 | -10.16 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 20 | 16 | 5 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | ferrariChampions2026 | 213 | 176 | 12 | -67.75 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 2 | 36 | 8 | -303.20 USD |
+| TAIWANNUMBERONE | 2 | 36 | 9 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -156,6 +156,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Baltimore Orioles (-1.5) | Baltimore Orioles (BUY) | 14% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 27% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 1.46 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | O/U 2.5 Rounds | Over (BUY) | 43% | 0.63 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 65% | 0.66 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 47% | 2.82 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 45% | 1.91 | ⏳ pendiente | — |
@@ -171,7 +176,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 71% | 0.00 | ✅ ganada | +0.00 |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 56% | 4.12 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 82% | 16.60 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | O/U 2.5 Rounds | Over (BUY) | 64% | 0.73 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | O/U 2.5 Rounds | Over (BUY) | 64% | 0.73 | ✅ ganada | +0.41 |
 | TeGeeLP | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | TeGeeLP | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 59% | 5.33 | ⏳ pendiente | — |
 | TeGeeLP | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 60% | 1.70 | ⏳ pendiente | — |
@@ -181,8 +186,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Fluminense FC win on 2026-08-08? | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Orlando City SC win on 2026-08-08? | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Club Alianza Lima win on 2026-08-08 | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Fluminense FC win on 2026-08-08? | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Washington Spirit win on 2026-08-08 | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
