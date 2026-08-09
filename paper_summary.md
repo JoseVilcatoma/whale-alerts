@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 22:44:43 (hora de Perú)
+Actualizado: 2026-08-08 22:46:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $383.32
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 16 | 25 | 62 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 30 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 28 | 25 | 11 | +14.42 USD |
+| wr0ngw4yb3tt0r | 29 | 26 | 9 | +14.42 USD |
 | greyoctober | 7 | 0 | 7 | +12.95 USD |
 | UpTheBlues | 73 | 42 | 7 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | HomeRunHazard | 39 | 45 | 4 | -1.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| 1winstreak1 | 46 | 42 | 12 | -20.69 USD |
+| 1winstreak1 | 48 | 43 | 9 | -20.69 USD |
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
@@ -188,11 +188,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 50% | 2.89 | ⏳ pendiente | — |
 | quavoo | Will Kawasaki Frontale win on 2026-08-09 | Yes (BUY) | 41% | 1.51 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 1.60 | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 44% | 0.00 | ❌ perdida | -0.00 |
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 48% | 47.29 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 48% | 2.06 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC Fight Night: Mateusz Gamrot vs. Quil | Quillan Salkilld (BUY) | 70% | 0.00 | ✅ ganada | +0.00 |
-| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 56% | 0.00 | ✅ ganada | +0.00 |
+| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 43% | 0.00 | ❌ perdida | -0.00 |
 | wr0ngw4yb3tt0r | UFC Fight Night: Mateusz Gamrot vs. Quil | Quillan Salkilld (BUY) | 68% | 0.00 | ✅ ganada | +0.00 |

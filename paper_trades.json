@@ -24066,7 +24066,7 @@
     "whale_pct": 1.036,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -24106,7 +24106,7 @@
     "whale_pct": 0.119,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "1winstreak1"
@@ -24150,8 +24150,8 @@
     "whale_pct": 0.162,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -24172,7 +24172,7 @@
     "whale_pct": 3.734,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
@@ -24280,8 +24280,8 @@
     "whale_pct": 0.105,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],

@@ -5110,6 +5110,31 @@
       "timestamp": 1786246888.0367713,
       "bankroll": 383.32,
       "event": "lost: 1winstreak1 \u2014 Seattle Storm vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786247202.3907397,
+      "bankroll": 383.32,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 2.5"
+    },
+    {
+      "timestamp": 1786247202.5910242,
+      "bankroll": 383.32,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 2.5"
+    },
+    {
+      "timestamp": 1786247202.6911647,
+      "bankroll": 383.32,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 2.5"
+    },
+    {
+      "timestamp": 1786247202.7913034,
+      "bankroll": 383.32,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 2.5"
+    },
+    {
+      "timestamp": 1786247203.1917987,
+      "bankroll": 383.32,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 2.5"
     }
   ]
 }
