@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 18:54:47 (hora de Perú)
+Actualizado: 2026-08-09 18:56:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.30
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| 1winstreak1 | 95 | 70 | 29 | +24.02 USD |
+| 1winstreak1 | 97 | 71 | 26 | +24.02 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 38 | 36 | 14 | +11.67 USD |
@@ -25,19 +25,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
-| SDTrading | 0 | 3 | 2 | +0.00 USD |
+| SDTrading | 0 | 5 | 0 | +0.00 USD |
 | theowalcott | 0 | 2 | 7 | +0.00 USD |
 | AV23IUa | 0 | 0 | 5 | +0.00 USD |
 | cigarettes | 0 | 0 | 1 | +0.00 USD |
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 104 | 58 | 52 | -20.07 USD |
+| RN1 | 105 | 58 | 51 | -20.07 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 65 | 93 | 45 | -56.12 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 377 | 266 | 56 | -86.92 USD |
+| ferrariChampions2026 | 377 | 266 | 59 | -86.92 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
@@ -238,6 +238,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Philadelphia Union vs. Club Necaxa: O/U  | Over (BUY) | 78% | 0.64 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Philadelphia Union (-2.5) | Club Necaxa (BUY) | 46% | 0.33 | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia Union vs. Club Necaxa: O/U  | Over (BUY) | 55% | 0.39 | ⏳ pendiente | — |
 | quavoo | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 54% | 1.61 | ⏳ pendiente | — |
 | ferrariChampions2026 | CF Cruz Azul vs. New York City FC: O/U 1 | Over (BUY) | 74% | 0.58 | ⏳ pendiente | — |
 | ferrariChampions2026 | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 52% | 0.48 | ⏳ pendiente | — |
@@ -265,6 +268,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 57% | 0.30 | ⏳ pendiente | — |
 | quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 45% | 0.89 | ⏳ pendiente | — |
 | RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 98% | 0.41 | ⏳ pendiente | — |
-| quavoo | Spread: Chicago Fire FC (-1.5) | Chicago Fire FC (BUY) | 40% | 0.39 | ⏳ pendiente | — |
-| ferrariChampions2026 | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 62% | 0.63 | ⏳ pendiente | — |
-| ferrariChampions2026 | CR Flamengo vs. EC Vitória: O/U 2.5 | Over (BUY) | 50% | 3.32 | ⏳ pendiente | — |
