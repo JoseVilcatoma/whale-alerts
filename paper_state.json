@@ -1,5 +1,5 @@
 {
-  "bankroll": 168.09049184109597,
+  "bankroll": 170.62667161637685,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7495,6 +7495,26 @@
       "timestamp": 1786306030.9776735,
       "bankroll": 168.09,
       "event": "won: 1winstreak1 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 7.5"
+    },
+    {
+      "timestamp": 1786306336.598965,
+      "bankroll": 168.09,
+      "event": "won: 1winstreak1 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 8.5"
+    },
+    {
+      "timestamp": 1786306340.8786254,
+      "bankroll": 168.09,
+      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Texas Rangers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786306341.8687408,
+      "bankroll": 168.09,
+      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Texas Rangers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786306343.6544106,
+      "bankroll": 170.63,
+      "event": "won: 1winstreak1 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5"
     }
   ]
 }

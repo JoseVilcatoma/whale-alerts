@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 15:11:23 (hora de Perú)
+Actualizado: 2026-08-09 15:13:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $168.09
-**Retorno acumulado:** -83.19%
+**Bankroll actual:** $170.63
+**Retorno acumulado:** -82.94%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 67 | 50 | 29 | +28.93 USD |
+| 1winstreak1 | 70 | 51 | 31 | +31.47 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 35 | 32 | 9 | +11.82 USD |
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 333 | 250 | 24 | -93.00 USD |
+| ferrariChampions2026 | 333 | 250 | 28 | -93.00 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 19 | 38 | 7 | -298.46 USD |
 
@@ -192,6 +192,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | scop-kil-cel-2026-08-09-cel | RN1, ferrariChampions2026 |
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
+| mlb-tb-sea-2026-08-09-total-7pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-cin-wsh-2026-08-09-total-9pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 | mlb-cle-cws-2026-08-09-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-tor-phi-2026-08-09-spread-home-1pt5 | 1winstreak1, ferrariChampions2026, monkeymashingkeyboard |
@@ -202,11 +203,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cin-wsh-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-spread-home-2pt5 | 1winstreak1, ferrariChampions2026 |
 | wnba-dal-min-2026-08-09 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-min-mil-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Seattle Mariners (-2.5) | Tampa Bay Rays (BUY) | 80% | 0.71 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 49% | 0.86 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 41% | 0.72 | ⏳ pendiente | — |
+| 1winstreak1 | Minnesota Twins vs. Milwaukee Brewers: O | Under (BUY) | 40% | 0.28 | ⏳ pendiente | — |
+| ferrariChampions2026 | Minnesota Twins vs. Milwaukee Brewers: O | Under (BUY) | 42% | 1.37 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 26% | 0.21 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 65% | 0.51 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Dallas Wings (BUY) | 37% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Dallas Wings (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dignitas vs LYON - Game 1 Winner | LYON (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dignitas vs LYON (BO3) - LCS Regula | LYON (BUY) | 89% | 0.00 | ⏳ pendiente | — |
@@ -218,7 +230,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Phoenix Mercury vs. Washington Mystics:  | Over (BUY) | 53% | 0.34 | ⏳ pendiente | — |
 | 1winstreak1 | Dallas Wings vs. Minnesota Lynx: O/U 179 | Under (BUY) | 48% | 0.91 | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 24% | 0.26 | ⏳ pendiente | — |
-| 1winstreak1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 89% | 20.52 | ⏳ pendiente | — |
+| 1winstreak1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 89% | 20.52 | ✅ ganada | +2.54 |
 | 1winstreak1 | Spread: Philadelphia Phillies (-1.5) | Toronto Blue Jays (BUY) | 59% | 0.60 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Dallas Wings vs. Minnesota Lynx | Dallas Wings (BUY) | 28% | 1.65 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago Cubs (-4.5) | Kansas City Royals (BUY) | 43% | 0.24 | ⏳ pendiente | — |
@@ -227,13 +239,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 65% | 0.00 | ✅ ganada | +0.00 |
 | 1winstreak1 | Spread: Atlanta Braves (-2.5) | Atlanta Braves (BUY) | 18% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 69% | 0.00 | ✅ ganada | +0.00 |
-| 1winstreak1 | Spread: Philadelphia Phillies (-2.5) | Toronto Blue Jays (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Texas Rangers (-1.5) | Texas Rangers (BUY) | 33% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Baltimore Orioles (-1.5) | Texas Rangers (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: New York Mets (-3.5) | New York Mets (BUY) | 78% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Philadelphia Phillies (-2.5) | Toronto Blue Jays (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 84% | 0.00 | ✅ ganada | +0.00 |
-| 1winstreak1 | Spread: Cleveland Guardians (-1.5) | Chicago White Sox (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 77% | 0.00 | ⏳ pendiente | — |
