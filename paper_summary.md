@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 10:49:15 (hora de Perú)
+Actualizado: 2026-08-09 10:51:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $158.05
@@ -28,12 +28,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 50 | 34 | 41 | -20.60 USD |
+| RN1 | 53 | 34 | 38 | -20.60 USD |
 | Djdjdjekekek | 0 | 2 | 1 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 34 | 76 | 66 | -55.41 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 288 | 220 | 67 | -89.54 USD |
+| ferrariChampions2026 | 289 | 220 | 67 | -89.54 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 2 | -89.94 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -197,6 +197,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Rangers FC vs. Hibernian FC end in  | No (BUY) | 68% | 0.30 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Rangers FC vs. Hibernian FC end in  | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team Heretics vs G2 Esports - Game  | G2 Esports (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 92% | 0.00 | ⏳ pendiente | — |
@@ -226,4 +227,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Spread: Washington Mystics (-1.5) | Phoenix Mercury (BUY) | 49% | 0.30 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Motherwell FC win on 2026-08-08? | Yes (BUY) | 38% | 0.61 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 75% | 1.22 | ⏳ pendiente | — |
-| ferrariChampions2026 | Motherwell FC vs. Falkirk FC: O/U 0.5 | Over (BUY) | 70% | 0.55 | ⏳ pendiente | — |
