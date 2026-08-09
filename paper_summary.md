@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 10:16:17 (hora de Perú)
+Actualizado: 2026-08-09 10:18:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $156.16
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 55 | 48 | 0 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 34 | 31 | 6 | +11.82 USD |
+| wr0ngw4yb3tt0r | 34 | 31 | 7 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | UpTheBlues | 79 | 47 | 3 | +7.11 USD |
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 2 | -89.94 USD |
-| ferrariChampions2026 | 251 | 202 | 101 | -91.43 USD |
+| ferrariChampions2026 | 251 | 202 | 103 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 14 | 38 | 5 | -298.46 USD |
 
@@ -195,6 +195,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Washington Mystics (-1.5) | Phoenix Mercury (BUY) | 49% | 0.30 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Motherwell FC win on 2026-08-08? | Yes (BUY) | 38% | 0.61 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 75% | 1.22 | ⏳ pendiente | — |
 | ferrariChampions2026 | Motherwell FC vs. Falkirk FC: O/U 0.5 | Over (BUY) | 70% | 0.55 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Rangers FC win on 2026-08-09? | Yes (BUY) | 70% | 0.42 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: 100 Thieves vs BC.Game E | BC.Game Esports (BUY) | 40% | 0.00 | ⏳ pendiente | — |
@@ -222,6 +225,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Spread: New York Liberty (-9.5) | Las Vegas Aces (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | quavoo | SC Heerenveen vs. FC Twente: O/U 1.5 | Over (BUY) | 86% | 0.00 | ⏳ pendiente | — |
 | SDTrading | Colorado Rockies vs. St. Louis Cardinals | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Cruzeiro EC win on 2026-08-09? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
