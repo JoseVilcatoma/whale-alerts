@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 19:08:12 (hora de Perú)
+Actualizado: 2026-08-08 19:10:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $469.84
@@ -18,15 +18,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 29 | 24 | 35 | +16.40 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 28 | 45 | +7.78 USD |
+| UpTheBlues | 39 | 28 | 47 | +7.78 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 28 | 29 | 11 | -8.77 USD |
-| wr0ngw4yb3tt0r | 18 | 16 | 13 | -10.57 USD |
+| 1winstreak1 | 28 | 29 | 13 | -8.77 USD |
+| wr0ngw4yb3tt0r | 18 | 16 | 14 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 19 | 15 | 7 | -21.10 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -97,6 +97,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-laa-mia-2026-08-08-total-6pt5 | 1winstreak1, HomeRunHazard |
 | mlb-atl-nyy-2026-08-08-total-7pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-atl-nyy-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard |
+| mlb-cle-cws-2026-08-08-total-6pt5 | 1winstreak1, HomeRunHazard |
 | lol-dk-kt-2026-08-09 | StasPanda, TAIWANNUMBERONE |
 | wnba-ind-chi-2026-08-08-total-190pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-spread-home-4pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -146,6 +147,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Washington Spirit win on 2026-08-08 | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Associação Chapecoense de Futebol w | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | New York Mets vs. Pittsburgh Pirates: O/ | Under (BUY) | 17% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Coritiba FBC win on 2026-08-08? | Yes (BUY) | 80% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Coritiba FBC vs. Associação Chapecoense  | Yes (BUY) | 43% | 0.00 | ⏳ pendiente | — |
@@ -171,8 +177,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Cleveland Guardians (-1.5) | Chicago White Sox (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 2.5 Rounds | Under (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Orlando City SC vs. Club León FC: O/U 1. | Under (BUY) | 19% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Associação Chapecoense de Futebol w | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Orlando City SC vs. Club León FC: O/U 1. | Under (BUY) | 19% | 0.56 | ⏳ pendiente | — |
