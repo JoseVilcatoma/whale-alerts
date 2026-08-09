@@ -1,5 +1,5 @@
 {
-  "bankroll": 338.8724869146368,
+  "bankroll": 331.6124869146368,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5260,6 +5260,11 @@
       "timestamp": 1786248756.057457,
       "bankroll": 338.87,
       "event": "won: quavoo \u2014 Inter Miami CF vs. CF Monterrey: O/U 3.5"
+    },
+    {
+      "timestamp": 1786249068.607001,
+      "bankroll": 331.61,
+      "event": "lost: quavoo \u2014 Valorant: Leviat\u00e1n Esports vs MIBR (BO3) - VCT Americas Stage 2 Group Alpha"
     }
   ]
 }
