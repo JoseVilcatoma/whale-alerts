@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 18:50:36 (hora de Perú)
+Actualizado: 2026-08-09 18:52:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $287.34
-**Retorno acumulado:** -71.27%
+**Bankroll actual:** $287.40
+**Retorno acumulado:** -71.26%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,10 +14,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| 1winstreak1 | 94 | 69 | 31 | +22.91 USD |
+| 1winstreak1 | 95 | 69 | 30 | +24.93 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 38 | 34 | 16 | +13.57 USD |
+| wr0ngw4yb3tt0r | 38 | 36 | 14 | +11.67 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -35,9 +35,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 102 | 58 | 54 | -20.07 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 64 | 92 | 47 | -55.37 USD |
+| quavoo | 65 | 93 | 45 | -56.12 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 365 | 260 | 74 | -89.42 USD |
+| ferrariChampions2026 | 375 | 264 | 60 | -88.73 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |

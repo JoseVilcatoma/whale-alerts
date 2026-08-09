@@ -1,5 +1,5 @@
 {
-  "bankroll": 287.3375648988955,
+  "bankroll": 287.40164595608,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8295,6 +8295,101 @@
       "timestamp": 1786319416.196588,
       "bankroll": 287.34,
       "event": "won: ferrariChampions2026 \u2014 CSyD Defensa y Justicia vs. CA Newell's Old Boys: O/U 0.5"
+    },
+    {
+      "timestamp": 1786319471.133547,
+      "bankroll": 286.59,
+      "event": "lost: quavoo \u2014 Will Quer\u00e9taro FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786319474.0775397,
+      "bankroll": 286.59,
+      "event": "won: quavoo \u2014 Will FC Porto win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786319476.7996376,
+      "bankroll": 284.94,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319477.2004983,
+      "bankroll": 285.26,
+      "event": "won: ferrariChampions2026 \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319477.300719,
+      "bankroll": 285.26,
+      "event": "lost: ferrariChampions2026 \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319477.5011663,
+      "bankroll": 285.26,
+      "event": "lost: ferrariChampions2026 \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319477.8017755,
+      "bankroll": 285.26,
+      "event": "lost: ferrariChampions2026 \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319477.901956,
+      "bankroll": 285.26,
+      "event": "won: ferrariChampions2026 \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319478.0021667,
+      "bankroll": 285.26,
+      "event": "lost: ferrariChampions2026 \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319478.2026074,
+      "bankroll": 285.54,
+      "event": "won: ferrariChampions2026 \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319479.0176566,
+      "bankroll": 287.56,
+      "event": "won: 1winstreak1 \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319480.1713405,
+      "bankroll": 287.56,
+      "event": "won: ferrariChampions2026 \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319481.3128803,
+      "bankroll": 287.31,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319481.5133336,
+      "bankroll": 287.4,
+      "event": "won: ferrariChampions2026 \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319482.349114,
+      "bankroll": 287.4,
+      "event": "won: ferrariChampions2026 \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319483.9458954,
+      "bankroll": 287.4,
+      "event": "won: ferrariChampions2026 \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319484.692462,
+      "bankroll": 287.4,
+      "event": "won: ferrariChampions2026 \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319485.1932786,
+      "bankroll": 287.4,
+      "event": "won: ferrariChampions2026 \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319485.8945014,
+      "bankroll": 287.4,
+      "event": "won: ferrariChampions2026 \u2014 Dallas Wings vs. Minnesota Lynx"
     }
   ]
 }
