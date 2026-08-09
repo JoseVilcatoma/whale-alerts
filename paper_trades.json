@@ -11694,8 +11694,8 @@
     "whale_pct": 0.183,
     "paper_stake_usd": 1.62,
     "odds_at_bet": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.87,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786192046.6594965,
@@ -11714,8 +11714,8 @@
     "whale_pct": 4.874,
     "paper_stake_usd": 7.58,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.96,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786192047.7547386,
@@ -21324,8 +21324,8 @@
     "whale_pct": 0.156,
     "paper_stake_usd": 0.82,
     "odds_at_bet": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.82,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786230716.6943927,
@@ -22752,8 +22752,8 @@
     "whale_pct": 0.36,
     "paper_stake_usd": 1.7,
     "odds_at_bet": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.7,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -22774,8 +22774,8 @@
     "whale_pct": 4.911,
     "paper_stake_usd": 5.33,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.33,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -22796,8 +22796,8 @@
     "whale_pct": 4.535,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -23942,8 +23942,8 @@
     "whale_pct": 0.134,
     "paper_stake_usd": 0.53,
     "odds_at_bet": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.53,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -24487,8 +24487,8 @@
     "whale_pct": 0.146,
     "paper_stake_usd": 0.57,
     "odds_at_bet": 24,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.57,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786244693.294777,
@@ -24591,8 +24591,8 @@
     "whale_pct": 0.183,
     "paper_stake_usd": 0.7,
     "odds_at_bet": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.27,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -25027,8 +25027,8 @@
     "whale_pct": 0.18,
     "paper_stake_usd": 0.65,
     "odds_at_bet": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.29,
     "overlaps_with": [
       "HomeRunHazard",
       "ferrariChampions2026"
@@ -25361,7 +25361,7 @@
     "whale_pct": 0.255,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 95,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "HomeRunHazard",

@@ -1,5 +1,5 @@
 {
-  "bankroll": 318.80226092593625,
+  "bankroll": 317.2445341116878,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5320,6 +5320,61 @@
       "timestamp": 1786251805.1863043,
       "bankroll": 318.8,
       "event": "won: 1winstreak1 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 5.5"
+    },
+    {
+      "timestamp": 1786251855.5139637,
+      "bankroll": 319.67,
+      "event": "won: HomeRunHazard \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786251855.8814325,
+      "bankroll": 325.63,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1786251864.7546492,
+      "bankroll": 324.81,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Sentinels vs Shopify Rebellion (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1786251865.3575497,
+      "bankroll": 323.11,
+      "event": "lost: TeGeeLP \u2014 LoL: Sentinels vs Shopify Rebellion (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1786251865.4580073,
+      "bankroll": 317.78,
+      "event": "lost: TeGeeLP \u2014 LoL: Sentinels vs Shopify Rebellion (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1786251865.5581453,
+      "bankroll": 317.78,
+      "event": "lost: TeGeeLP \u2014 LoL: Sentinels vs Shopify Rebellion (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1786251869.350616,
+      "bankroll": 317.25,
+      "event": "lost: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1786251872.0867567,
+      "bankroll": 316.68,
+      "event": "lost: 1winstreak1 \u2014 Spread: Seattle Mariners (-1.5)"
+    },
+    {
+      "timestamp": 1786251872.587427,
+      "bankroll": 316.95,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786251874.489964,
+      "bankroll": 317.24,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786251875.9920788,
+      "bankroll": 317.24,
+      "event": "won: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-1.5)"
     }
   ]
 }
