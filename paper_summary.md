@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 08:08:26 (hora de Perú)
+Actualizado: 2026-08-09 08:10:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $260.77
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 26 | 69 | 74 | -53.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 0 | 6 | 7 | -89.64 USD |
-| ferrariChampions2026 | 245 | 198 | 117 | -91.43 USD |
+| ferrariChampions2026 | 245 | 198 | 120 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 12 | 38 | 7 | -298.46 USD |
 
@@ -193,6 +193,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Under (BUY) | 60% | 0.74 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Shanghai Haigang FC win on 2026-08- | Yes (BUY) | 73% | 0.96 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Chongqing Tonglianglong FC win on 2 | No (BUY) | 94% | 0.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 75% | 1.31 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Hannover 96 win on 2026-08-09? | Yes (BUY) | 45% | 0.28 | ⏳ pendiente | — |
 | ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 41% | 1.44 | ⏳ pendiente | — |
@@ -220,6 +223,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 23% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Hannover 96 win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will FC Energie Cottbus win on 2026-08-0 | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Hannover 96 win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Liverpool FC win on 2026-08-09? | No (BUY) | 32% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Shanghai Haigang FC win on 2026-08- | No (BUY) | 30% | 0.00 | ⏳ pendiente | — |
