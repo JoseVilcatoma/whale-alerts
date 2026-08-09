@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 10:47:07 (hora de Perú)
+Actualizado: 2026-08-09 10:49:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $156.16
-**Retorno acumulado:** -84.38%
+**Bankroll actual:** $158.05
+**Retorno acumulado:** -84.19%
 **Peor caída desde un máximo (drawdown):** 84.42%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -28,16 +28,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 48 | 31 | 46 | -20.60 USD |
+| RN1 | 50 | 34 | 41 | -20.60 USD |
 | Djdjdjekekek | 0 | 2 | 1 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 34 | 76 | 66 | -55.41 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
+| ferrariChampions2026 | 288 | 220 | 67 | -89.54 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 2 | -89.94 USD |
-| ferrariChampions2026 | 265 | 214 | 96 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 14 | 38 | 5 | -298.46 USD |
+| TAIWANNUMBERONE | 19 | 38 | 0 | -298.46 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
