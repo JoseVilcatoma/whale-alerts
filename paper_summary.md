@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 14:00:23 (hora de Perú)
+Actualizado: 2026-08-09 14:02:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $164.58
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 55 | 48 | 40 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 34 | 31 | 9 | +11.82 USD |
+| wr0ngw4yb3tt0r | 34 | 32 | 8 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | UpTheBlues | 82 | 47 | 0 | +7.26 USD |
@@ -32,9 +32,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 83 | 42 | 2 | -20.27 USD |
 | Djdjdjekekek | 0 | 3 | 1 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 50 | 82 | 44 | -49.79 USD |
+| quavoo | 54 | 82 | 40 | -49.79 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 316 | 237 | 45 | -89.13 USD |
+| ferrariChampions2026 | 317 | 237 | 44 | -89.13 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
