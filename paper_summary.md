@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 16:53:41 (hora de Perú)
+Actualizado: 2026-08-09 16:55:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.18
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 62 | 89 | 27 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 51 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 53 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -222,6 +222,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: FlyQuest vs Team Liquid - Game 1 Wi | Team Liquid (BUY) | 80% | 0.32 | ⏳ pendiente | — |
+| ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 40% | 0.41 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | Los Angeles Dodgers (BUY) | 40% | 2.80 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Detroit Tigers (-1.5) | San Francisco Giants (BUY) | 54% | 0.45 | ⏳ pendiente | — |
 | RN1 | Will Santos FC win on 2026-08-09? | No (BUY) | 54% | 0.17 | ⏳ pendiente | — |
@@ -250,5 +252,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Sport Lisboa e Benfica vs. Académic | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 29% | 0.00 | ⏳ pendiente | — |
