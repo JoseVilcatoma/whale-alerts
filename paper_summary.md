@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 06:57:14 (hora de Perú)
+Actualizado: 2026-08-09 06:59:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $341.09
@@ -28,12 +28,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 37 | -20.92 USD |
+| RN1 | 24 | 17 | 38 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 24 | 68 | 76 | -57.44 USD |
+| quavoo | 24 | 68 | 77 | -57.44 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 243 | 197 | 45 | -91.69 USD |
+| ferrariChampions2026 | 243 | 197 | 48 | -91.69 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -165,6 +165,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tb-sea-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | clf-mci-atm-2026-08-09-atm | RN1, ferrariChampions2026, quavoo |
 | ere-spa-fey-2026-08-09-fey | RN1, quavoo |
+| val-gm-ep1-2026-08-09 | greyoctober, quavoo |
 | auc-bri-syd-2026-08-09-total-5pt5 | UpTheBlues, swisstony |
 | clf-mci-atm-2026-08-09-spread-home-1pt5 | ferrariChampions2026, swisstony |
 | ere-spa-fey-2026-08-09-total-3pt5 | RN1, swisstony |
@@ -181,6 +182,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 87% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will FC Energie Cottbus win on 2026-08-0 | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| quavoo | Valorant: Gentle Mates vs Enterprise Esp | Enterprise Esports (BUY) | 41% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Shanghai Haigang FC win on 2026-08- | Yes (BUY) | 23% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: BNK FEARX vs Kiwoom DRX - Game 2 Wi | BNK FEARX (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC St. Pauli 1910 (-1.5) | FC St. Pauli 1910 (BUY) | 30% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will FC Energie Cottbus win on 2026-08-0 | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | RN1 | Sparta Rotterdam vs. Feyenoord Rotterdam | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
@@ -206,8 +212,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will AFC Ajax win on 2026-08-09? | Yes (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Manchester City win on 2026-08-09? | No (BUY) | 79% | 0.00 | ⏳ pendiente | — |
 | quavoo | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| RN1 | FC St. Pauli 1910 vs. SpVgg Greuther Für | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 24% | 0.00 | ⏳ pendiente | — |
-| RN1 | FC St. Pauli 1910 vs. SpVgg Greuther Für | Under (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will SG Dynamo Dresden win on 2026-08-09 | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
