@@ -22439,5 +22439,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786233946.7232726,
     "fills": 1
+  },
+  {
+    "timestamp": 1786233992,
+    "timestamp_added": 1786233992.62891,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-nym-pit-2026-08-08-total-9pt5",
+    "title": "New York Mets vs. Pittsburgh Pirates: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 91.12999900000001,
+    "whale_pct": 0.24,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 17,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786233992.6289213,
+    "fills": 1
   }
 ]

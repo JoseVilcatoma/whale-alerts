@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 19:06:06 (hora de Perú)
+Actualizado: 2026-08-08 19:08:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $469.84
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 28 | 29 | 10 | -8.77 USD |
+| 1winstreak1 | 28 | 29 | 11 | -8.77 USD |
 | wr0ngw4yb3tt0r | 18 | 16 | 13 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 19 | 15 | 7 | -21.10 USD |
@@ -128,6 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | arg-boc-vel-2026-08-08-spread-home-1pt5 | RN1, UpTheBlues |
 | arg-tig-riv-2026-08-08-total-1pt5 | RN1, ferrariChampions2026 |
 | lec-orl-leo-2026-08-08-orl | UpTheBlues, ferrariChampions2026, quavoo |
+| mlb-nym-pit-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard |
 | mlb-oak-bos-2026-08-08-total-10pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-nym-pit-2026-08-08-total-7pt5 | HomeRunHazard, quavoo |
 | mlb-cin-wsh-2026-08-08-total-8pt5 | HomeRunHazard, ferrariChampions2026 |
@@ -145,6 +146,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | New York Mets vs. Pittsburgh Pirates: O/ | Under (BUY) | 17% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Coritiba FBC win on 2026-08-08? | Yes (BUY) | 80% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Coritiba FBC vs. Associação Chapecoense  | Yes (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 94% | 0.00 | ⏳ pendiente | — |
@@ -174,4 +176,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Orlando City SC vs. Club León FC: O/U 1. | Under (BUY) | 19% | 0.56 | ⏳ pendiente | — |
-| UpTheBlues | Coritiba FBC vs. Associação Chapecoense  | No (BUY) | 64% | 0.87 | ⏳ pendiente | — |
