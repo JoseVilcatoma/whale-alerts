@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 23:51:26 (hora de Perú)
+Actualizado: 2026-08-08 23:53:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $318.89
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | 1winstreak1 | 51 | 43 | 9 | -19.43 USD |
 | RN1 | 24 | 17 | 0 | -20.92 USD |
-| quavoo | 18 | 40 | 59 | -31.53 USD |
+| quavoo | 18 | 40 | 60 | -31.53 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -167,6 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Kawasaki Frontale win on 2026-08-09 | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will FK Austria Wien win on 2026-08-09? | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Deportivo Toluca FC vs. Los Angeles | No (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will LASK Linz win on 2026-08-09? | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
@@ -196,4 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 62% | 3.07 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 53% | 0.45 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 7.53 | ⏳ pendiente | — |
-| greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 0.19 | ⏳ pendiente | — |

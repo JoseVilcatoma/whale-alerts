@@ -25513,5 +25513,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786251055.61678,
     "fills": 2
+  },
+  {
+    "timestamp": 1786251152,
+    "timestamp_added": 1786251152.9962137,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "jap-fct1-kaw-2026-08-09-kaw",
+    "title": "Will Kawasaki Frontale win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 537.18,
+    "whale_pct": 0.483,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786251153.5779123,
+    "fills": 2
   }
 ]
