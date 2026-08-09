@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:57:30 (hora de Perú)
+Actualizado: 2026-08-08 21:59:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $396.17
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | HomeRunHazard | 38 | 43 | 7 | -1.89 USD |
-| 1winstreak1 | 45 | 39 | 11 | -13.97 USD |
+| 1winstreak1 | 45 | 39 | 13 | -13.97 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 23 | 16 | 2 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -116,7 +116,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-mkoi-gx-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ThornyDevil, ferrariChampions2026 |
 | ufc-mat10-qui2-2026-08-08 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | wnba-las-min-2026-08-08-total-182pt5 | 1winstreak1, wr0ngw4yb3tt0r |
-| mlb-lad-ari-2026-08-08-spread-away-1pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-lad-ari-2026-08-08-spread-away-1pt5 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | lol-c9-dsg-2026-08-08 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | cs2-ice-is-2026-08-09 | StasPanda, quavoo |
 | cs2-9ine-hotu-2026-08-09 | 1winstreak1, StasPanda |
@@ -163,6 +163,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 88% | 2.46 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Seattle Mariners (-2.5) | Seattle Mariners (BUY) | 28% | 2.68 | ⏳ pendiente | — |
 | quavoo | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 60% | 4.78 | ⏳ pendiente | — |
 | quavoo | Deportivo Toluca FC vs. Los Angeles FC:  | Yes (BUY) | 65% | 0.42 | ⏳ pendiente | — |
 | quavoo | Spread: Minnesota Lynx (-7.5) | Minnesota Lynx (BUY) | 48% | 0.41 | ⏳ pendiente | — |
@@ -191,5 +193,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Los Angeles FC win on 2026-08-08? | Yes (BUY) | 39% | 0.54 | ⏳ pendiente | — |
 | ferrariChampions2026 | Instituto AC Córdoba vs. CA Gimnasia y E | Over (BUY) | 47% | 0.57 | ✅ ganada | +0.64 |
 | ferrariChampions2026 | Will Instituto AC Córdoba win on 2026-08 | Yes (BUY) | 34% | 0.73 | ✅ ganada | +1.42 |
-| ferrariChampions2026 | CD Guadalajara vs. FC Dallas: O/U 1.5 | Over (BUY) | 57% | 0.64 | ⏳ pendiente | — |
-| 1winstreak1 | Seattle Storm vs. PortlandFire | Seattle Storm (BUY) | 23% | 0.90 | ⏳ pendiente | — |

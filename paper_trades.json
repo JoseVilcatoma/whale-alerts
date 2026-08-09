@@ -24408,5 +24408,48 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786244114.406493,
     "fills": 2
+  },
+  {
+    "timestamp": 1786244273,
+    "timestamp_added": 1786244274.0037193,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-tb-sea-2026-08-08-spread-home-2pt5",
+    "title": "Spread: Seattle Mariners (-2.5)",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "whale_usd": 140.0,
+    "whale_pct": 0.678,
+    "paper_stake_usd": 2.68,
+    "odds_at_bet": 28,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786244274.003726,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786244282,
+    "timestamp_added": 1786244282.6622488,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-lad-ari-2026-08-08-spread-away-1pt5",
+    "title": "Spread: Los Angeles Dodgers (-1.5)",
+    "outcome": "Arizona Diamondbacks",
+    "side": "BUY",
+    "whale_usd": 128.18,
+    "whale_pct": 0.62,
+    "paper_stake_usd": 2.46,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786244282.6622605,
+    "fills": 1
   }
 ]
