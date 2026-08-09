@@ -23928,5 +23928,48 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786240865.8151448,
     "fills": 1
+  },
+  {
+    "timestamp": 1786241025,
+    "timestamp_added": 1786241026.0941396,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-sea-por-2026-08-08",
+    "title": "Seattle Storm vs. PortlandFire",
+    "outcome": "PortlandFire",
+    "side": "BUY",
+    "whale_usd": 450.892,
+    "whale_pct": 0.111,
+    "paper_stake_usd": 0.44,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786241026.0941505,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786241030,
+    "timestamp_added": 1786241030.8648598,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lec-tol-laf-2026-08-08-tol",
+    "title": "Will Deportivo Toluca FC win on 2026-08-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 551.07,
+    "whale_pct": 0.505,
+    "paper_stake_usd": 1.99,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786241031.2921565,
+    "fills": 2
   }
 ]
