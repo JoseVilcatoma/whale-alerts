@@ -27518,5 +27518,70 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786275503.9494762,
     "fills": 1
+  },
+  {
+    "timestamp": 1786275564,
+    "timestamp_added": 1786275564.754409,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-jdg-we-2026-08-09-game1",
+    "title": "LoL: JD Gaming vs Team WE - Game 1 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "whale_usd": 228.6,
+    "whale_pct": 0.128,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786275564.7544165,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786275615,
+    "timestamp_added": 1786275616.4888484,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bl2-fce-h96-2026-08-09-total-1pt5",
+    "title": "FC Energie Cottbus vs. Hannover 96: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 361.04999999999995,
+    "whale_pct": 0.204,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786275616.4888587,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786275617,
+    "timestamp_added": 1786275617.9335897,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-jdg-we-2026-08-09-game1",
+    "title": "LoL: JD Gaming vs Team WE - Game 1 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "whale_usd": 570.0,
+    "whale_pct": 1.63,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786275617.9335997,
+    "fills": 1
   }
 ]
