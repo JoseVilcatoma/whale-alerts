@@ -25653,5 +25653,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786251964.1867766,
     "fills": 1
+  },
+  {
+    "timestamp": 1786252144,
+    "timestamp_added": 1786252144.5034637,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "clf-mci-atm-2026-08-09-btts",
+    "title": "Manchester City vs. Atletico Madrid: Both Teams to Score",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 107.73,
+    "whale_pct": 0.104,
+    "paper_stake_usd": 0.39,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786252144.5034704,
+    "fills": 1
   }
 ]
