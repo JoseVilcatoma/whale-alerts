@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:12:49 (hora de Perú)
+Actualizado: 2026-08-08 21:14:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $395.14
-**Retorno acumulado:** -60.49%
+**Bankroll actual:** $405.49
+**Retorno acumulado:** -59.45%
 **Peor caída desde un máximo (drawdown):** 60.49%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,25 +14,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | quavoo | 13 | 9 | 76 | +22.68 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 41 | 29 | 2 | +17.43 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 29 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | UpTheBlues | 47 | 31 | 44 | +15.42 USD |
-| greyoctober | 7 | 0 | 0 | +12.95 USD |
+| greyoctober | 7 | 0 | 1 | +12.95 USD |
+| Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | HomeRunHazard | 35 | 37 | 16 | +4.98 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
-| Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 24 | 22 | 11 | -8.53 USD |
-| 1winstreak1 | 36 | 33 | 21 | -12.72 USD |
+| 1winstreak1 | 40 | 34 | 16 | -13.53 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 22 | 16 | 3 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 214 | 176 | 28 | -67.75 USD |
+| ferrariChampions2026 | 214 | 179 | 25 | -67.75 USD |
 | Talvez10 | 4 | 10 | 1 | -71.63 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 10 | -303.20 USD |
@@ -160,6 +160,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 11.33 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 1.14 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 41% | 0.53 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Diego Ferreira vs. Bill | Billy Quarantillo (BUY) | 19% | 2.18 | ⏳ pendiente | — |
@@ -184,9 +185,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Spread: Santos FC (-1.5) | CA Paranaense (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Seattle Storm vs. PortlandFire | PortlandFire (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CD Guadalajara vs. FC Dallas: O/U 1.5 | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 25% | 0.00 | ✅ ganada | +0.00 |
 | ferrariChampions2026 | CD Guadalajara vs. FC Dallas: O/U 1.5 | Over (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 29% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Minnesota Twins vs. Milwaukee Brewers: O | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Minnesota Twins vs. Milwaukee Brewers: O | Over (BUY) | 54% | 0.00 | ❌ perdida | -0.00 |

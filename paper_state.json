@@ -1,5 +1,5 @@
 {
-  "bankroll": 395.1385251459554,
+  "bankroll": 405.48836633500144,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4490,6 +4490,56 @@
       "timestamp": 1786241329.127751,
       "bankroll": 395.14,
       "event": "won: 1winstreak1 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1786241624.2990522,
+      "bankroll": 395.14,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Cloud9 vs Disguised - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786241626.3440526,
+      "bankroll": 395.14,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Cloud9 vs Disguised - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786241635.0068293,
+      "bankroll": 398.34,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Sentinels vs Shopify Rebellion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786241636.9474502,
+      "bankroll": 406.3,
+      "event": "won: Bulls94 \u2014 Houston Astros vs. San Diego Padres: O/U 7.5"
+    },
+    {
+      "timestamp": 1786241647.8586109,
+      "bankroll": 406.3,
+      "event": "won: 1winstreak1 \u2014 Minnesota Twins vs. Milwaukee Brewers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786241649.1228287,
+      "bankroll": 406.97,
+      "event": "won: 1winstreak1 \u2014 Houston Astros vs. San Diego Padres: O/U 7.5"
+    },
+    {
+      "timestamp": 1786241650.1756992,
+      "bankroll": 406.97,
+      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Texas Rangers: O/U 5.5"
+    },
+    {
+      "timestamp": 1786241650.9555798,
+      "bankroll": 405.49,
+      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Texas Rangers: O/U 5.5"
+    },
+    {
+      "timestamp": 1786241652.4523985,
+      "bankroll": 405.49,
+      "event": "lost: ferrariChampions2026 \u2014 Minnesota Twins vs. Milwaukee Brewers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786241653.8418782,
+      "bankroll": 405.49,
+      "event": "won: 1winstreak1 \u2014 Houston Astros vs. San Diego Padres: O/U 4.5"
     }
   ]
 }
