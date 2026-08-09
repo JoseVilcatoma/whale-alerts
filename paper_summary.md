@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 23:28:34 (hora de Perú)
+Actualizado: 2026-08-08 23:30:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $331.61
@@ -27,9 +27,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| 1winstreak1 | 51 | 43 | 7 | -19.43 USD |
+| 1winstreak1 | 51 | 43 | 8 | -19.43 USD |
 | RN1 | 24 | 17 | 0 | -20.92 USD |
-| quavoo | 18 | 40 | 51 | -31.53 USD |
+| quavoo | 18 | 40 | 53 | -31.53 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -167,6 +167,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| quavoo | Athletics vs. Boston Red Sox: O/U 10.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will BK Hacken win on 2026-08-09? | Yes (BUY) | 18% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
@@ -194,6 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Over (BUY) | 64% | 0.76 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | No (BUY) | 70% | 1.63 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | Dplus KIA (BUY) | 57% | 5.97 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 59% | 1.88 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 83% | 2.74 | ✅ ganada | +0.56 |
-| ferrariChampions2026 | Real Salt Lake vs. Atlante FC: O/U 1.5 | Over (BUY) | 80% | 0.45 | ⏳ pendiente | — |
