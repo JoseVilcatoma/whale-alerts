@@ -6910,6 +6910,36 @@
       "timestamp": 1786292780.7815742,
       "bankroll": 163.08,
       "event": "lost: RN1 \u2014 Kilmarnock FC vs. Celtic FC: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1786293032.2616222,
+      "bankroll": 163.08,
+      "event": "won: RN1 \u2014 Will Kilmarnock FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786293032.461896,
+      "bankroll": 163.08,
+      "event": "won: ferrariChampions2026 \u2014 Will Kilmarnock FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786293032.962479,
+      "bankroll": 163.08,
+      "event": "won: RN1 \u2014 Will Kilmarnock FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786293033.0626297,
+      "bankroll": 163.08,
+      "event": "won: ferrariChampions2026 \u2014 Will Kilmarnock FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786293033.663484,
+      "bankroll": 163.08,
+      "event": "won: ferrariChampions2026 \u2014 Will Kilmarnock FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786293033.7636373,
+      "bankroll": 163.08,
+      "event": "won: RN1 \u2014 Will Kilmarnock FC win on 2026-08-09?"
     }
   ]
 }
