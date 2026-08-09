@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 07:30:46 (hora de Perú)
+Actualizado: 2026-08-09 07:32:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $344.10
@@ -28,12 +28,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 45 | -20.92 USD |
+| RN1 | 24 | 17 | 47 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 25 | 68 | 76 | -54.69 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 245 | 197 | 56 | -91.43 USD |
+| ferrariChampions2026 | 245 | 197 | 57 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -184,6 +184,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Manchester City (-1.5) | Manchester City (BUY) | 34% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will PEC Zwolle win on 2026-08-09? | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Celtic FC win on 2026-08-09? | Yes (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | RN1 | Manchester City vs. Atletico Madrid: O/U | Over (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Manchester City vs. Atletico Madrid: O/U | Over (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Hannover 96 win on 2026-08-09? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
@@ -211,6 +214,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will FC Energie Cottbus win on 2026-08-0 | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | RN1 | Sparta Rotterdam vs. Feyenoord Rotterdam | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | greyoctober | Valorant: Gentle Mates vs Enterprise Esp | Enterprise Esports (BUY) | 40% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will 1. FC Nürnberg win on 2026-08-09? | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: FC St. Pauli 1910 (-1.5) | FC St. Pauli 1910 (BUY) | 30% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 35% | 0.00 | ⏳ pendiente | — |
