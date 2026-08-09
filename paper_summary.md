@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 02:36:48 (hora de Perú)
+Actualizado: 2026-08-09 02:38:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $353.31
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | UpTheBlues | 78 | 44 | 11 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| swisstony | 2 | 0 | 2 | +2.82 USD |
+| swisstony | 2 | 0 | 3 | +2.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | ferrariChampions2026 | 243 | 195 | 20 | -89.61 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 2 | 36 | 12 | -303.20 USD |
+| TAIWANNUMBERONE | 2 | 36 | 13 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -167,6 +167,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Hibernian FC (-2.5) | Rangers FC (BUY) | 98% | 0.00 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 2 Wi | Dplus KIA (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | swisstony | Hammarby IF vs. BK Hacken: O/U 3.5 | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will SE Palmeiras win on 2026-08-09? | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will FC St. Pauli 1910 win on 2026-08-09 | Yes (BUY) | 52% | 0.00 | ⏳ pendiente | — |
@@ -195,5 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports - Ga | LNG Esports (BUY) | 26% | 0.36 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs KT Rolster ( | Dplus KIA (BUY) | 33% | 2.33 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Groningen win on 2026-08-09? | Yes (BUY) | 41% | 0.55 | ⏳ pendiente | — |
-| UpTheBlues | Spread: South Melbourne FC (-1.5) | Fremantle City FC (BUY) | 32% | 0.07 | ⏳ pendiente | — |
-| quavoo | Will Atlético Nacional win on 2026-08-08 | Yes (BUY) | 32% | 0.68 | ⏳ pendiente | — |
