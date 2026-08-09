@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 00:14:03 (hora de Perú)
+Actualizado: 2026-08-09 00:16:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $378.05
-**Retorno acumulado:** -62.19%
+**Bankroll actual:** $360.93
+**Retorno acumulado:** -63.91%
 **Peor caída desde un máximo (drawdown):** 68.38%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -29,11 +29,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 24 | 17 | 0 | -20.92 USD |
-| quavoo | 20 | 40 | 65 | -31.53 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
+| quavoo | 20 | 47 | 59 | -48.01 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 229 | 189 | 22 | -91.34 USD |
+| ferrariChampions2026 | 229 | 192 | 19 | -91.98 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 11 | -303.20 USD |
 
@@ -167,6 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.58 | ⏳ pendiente | — |
 | quavoo | Counter-Strike: 1WIN vs Liquid (BO3) - E | 1WIN (BUY) | 34% | 0.96 | ⏳ pendiente | — |
 | quavoo | Manchester City vs. Atletico Madrid: Bot | Yes (BUY) | 63% | 0.39 | ⏳ pendiente | — |
 | quavoo | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 62% | 0.45 | ⏳ pendiente | — |
@@ -196,4 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 45% | 0.00 | ✅ ganada | +0.00 |
 | ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 47% | 1.56 | ✅ ganada | +1.76 |
-| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 30% | 0.55 | ✅ ganada | +1.28 |

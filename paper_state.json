@@ -1,5 +1,5 @@
 {
-  "bankroll": 378.05076280772084,
+  "bankroll": 360.93076280772084,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5415,6 +5415,56 @@
       "timestamp": 1786251990.1282098,
       "bankroll": 378.05,
       "event": "lost: 1winstreak1 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 6.5"
+    },
+    {
+      "timestamp": 1786252489.7374904,
+      "bankroll": 375.88,
+      "event": "lost: quavoo \u2014 Will CD Guadalajara win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786252490.1827471,
+      "bankroll": 364.11,
+      "event": "lost: quavoo \u2014 Will CD Guadalajara win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786252490.5887146,
+      "bankroll": 361.57,
+      "event": "lost: quavoo \u2014 Will CD Guadalajara win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786252493.373528,
+      "bankroll": 361.57,
+      "event": "lost: quavoo \u2014 Will CD Guadalajara win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786252498.4587903,
+      "bankroll": 361.57,
+      "event": "lost: quavoo \u2014 Will CD Guadalajara win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786252498.5589314,
+      "bankroll": 361.57,
+      "event": "lost: quavoo \u2014 Will CD Guadalajara win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786252499.2373605,
+      "bankroll": 361.57,
+      "event": "lost: quavoo \u2014 Will CD Guadalajara win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786252501.8882012,
+      "bankroll": 361.57,
+      "event": "lost: ferrariChampions2026 \u2014 CD Guadalajara vs. FC Dallas: O/U 1.5"
+    },
+    {
+      "timestamp": 1786252501.9883497,
+      "bankroll": 361.57,
+      "event": "lost: ferrariChampions2026 \u2014 CD Guadalajara vs. FC Dallas: O/U 1.5"
+    },
+    {
+      "timestamp": 1786252502.9750044,
+      "bankroll": 360.93,
+      "event": "lost: ferrariChampions2026 \u2014 CD Guadalajara vs. FC Dallas: O/U 1.5"
     }
   ]
 }
