@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 12:18:21 (hora de Perú)
+Actualizado: 2026-08-09 12:20:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $165.62
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 55 | 48 | 0 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 34 | 31 | 8 | +11.82 USD |
+| wr0ngw4yb3tt0r | 34 | 31 | 9 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | UpTheBlues | 80 | 47 | 2 | +7.11 USD |
@@ -29,11 +29,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 83 | 42 | 2 | -20.27 USD |
-| Djdjdjekekek | 0 | 2 | 2 | -31.65 USD |
+| Djdjdjekekek | 0 | 3 | 1 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 50 | 79 | 47 | -49.16 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 306 | 230 | 52 | -88.56 USD |
+| ferrariChampions2026 | 306 | 230 | 56 | -88.56 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -198,6 +198,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Las Vegas Aces vs. New York Liberty: O/U | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Golden State Valkyries vs. Los Angeles S | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Las Vegas Aces vs. New York Liberty: O/U | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Las Vegas Aces vs. New York Liberty: O/U | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Fnatic vs Karmine Corp (BO3) - LEC  | Karmine Corp (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Ryan Gusto: Strikeouts O/U 4.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Ryan Gusto: Strikeouts O/U 4.5 | Under (BUY) | 51% | 0.81 | ⏳ pendiente | — |
@@ -223,8 +228,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Rangers FC vs. Hibernian FC end in  | No (BUY) | 68% | 0.30 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Rangers FC vs. Hibernian FC end in  | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team Heretics vs G2 Esports - Game  | G2 Esports (BUY) | 77% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 92% | 0.00 | ⏳ pendiente | — |
-| monkeymashingkeyboard | Spread: Washington Mystics (-1.5) | Washington Mystics (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 2.5 | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Motherwell FC vs. Falkirk FC end in | Yes (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will FC Porto win on 2026-08-09? | Yes (BUY) | 82% | 0.00 | ⏳ pendiente | — |
