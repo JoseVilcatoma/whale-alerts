@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 19:31:14 (hora de Perú)
+Actualizado: 2026-08-08 19:33:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $476.00
-**Retorno acumulado:** -52.40%
+**Bankroll actual:** $475.41
+**Retorno acumulado:** -52.46%
 **Peor caída desde un máximo (drawdown):** 53.54%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,12 +13,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| quavoo | 8 | 5 | 78 | +22.68 USD |
+| quavoo | 8 | 6 | 77 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 41 | 29 | 2 | +17.43 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 30 | 24 | 34 | +16.40 USD |
+| UpTheBlues | 44 | 29 | 49 | +13.87 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 43 | 29 | 50 | +11.80 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -26,13 +26,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
-| 1winstreak1 | 28 | 29 | 13 | -8.77 USD |
+| 1winstreak1 | 28 | 29 | 16 | -8.77 USD |
 | wr0ngw4yb3tt0r | 18 | 16 | 15 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 20 | 16 | 5 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 207 | 168 | 26 | -68.22 USD |
+| ferrariChampions2026 | 208 | 171 | 22 | -70.88 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 8 | -303.20 USD |
 
@@ -133,7 +133,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-nym-pit-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard |
 | mlb-oak-bos-2026-08-08-total-10pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-nym-pit-2026-08-08-total-7pt5 | HomeRunHazard, quavoo |
-| mlb-cin-wsh-2026-08-08-total-8pt5 | HomeRunHazard, ferrariChampions2026 |
+| mlb-cin-wsh-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026 |
 | mlb-oak-bos-2026-08-08-spread-away-2pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
 | per1-sba-cal-2026-08-08-cal | UpTheBlues, quavoo |
 | lec-orl-leo-2026-08-08-spread-away-1pt5 | UpTheBlues, quavoo |
@@ -150,6 +150,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 71% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 56% | 4.12 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 82% | 16.60 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 2.5 Rounds | Over (BUY) | 64% | 0.73 | ⏳ pendiente | — |
 | TeGeeLP | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | TeGeeLP | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 59% | 5.33 | ⏳ pendiente | — |
@@ -177,6 +180,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Orlando City SC (-1.5) | Club León FC (BUY) | 90% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Orlando City SC (-2.5) | Club León FC (BUY) | 98% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Orlando City SC vs. Club León FC: O/U 2. | Under (BUY) | 25% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Botafogo FR (-1.5) | Fluminense FC (BUY) | 82% | 0.00 | ⏳ pendiente | — |

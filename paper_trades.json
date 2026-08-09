@@ -16394,8 +16394,8 @@
     "whale_pct": 0.813,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786222393.129928,
@@ -20511,7 +20511,7 @@
     "whale_pct": 0.134,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -20531,8 +20531,8 @@
     "whale_pct": 0.287,
     "paper_stake_usd": 1.43,
     "odds_at_bet": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.43,
     "overlaps_with": [
       "quavoo"
     ],
@@ -20784,8 +20784,8 @@
     "whale_pct": 0.707,
     "paper_stake_usd": 3.52,
     "odds_at_bet": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.07,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -20829,8 +20829,8 @@
     "whale_pct": 0.125,
     "paper_stake_usd": 0.62,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.62,
     "overlaps_with": [
       "quavoo"
     ],
@@ -20984,8 +20984,8 @@
     "whale_pct": 0.122,
     "paper_stake_usd": 0.61,
     "odds_at_bet": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.61,
     "overlaps_with": [
       "quavoo"
     ],
@@ -22823,6 +22823,69 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786235438.3145223,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786235504,
+    "timestamp_added": 1786235505.0353675,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-cin-wsh-2026-08-08-spread-home-1pt5",
+    "title": "Spread: Washington Nationals (-1.5)",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "whale_usd": 1434.1799999999998,
+    "whale_pct": 3.487,
+    "paper_stake_usd": 16.6,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786235505.035378,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786235504,
+    "timestamp_added": 1786235505.6268387,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-cin-wsh-2026-08-08-total-9pt5",
+    "title": "Cincinnati Reds vs. Washington Nationals: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1256.33,
+    "whale_pct": 3.055,
+    "paper_stake_usd": 4.12,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786235505.6268485,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786235504,
+    "timestamp_added": 1786235506.067249,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-cin-wsh-2026-08-08-total-8pt5",
+    "title": "Cincinnati Reds vs. Washington Nationals: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1248.5900000000001,
+    "whale_pct": 3.036,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786235506.0672593,
     "fills": 1
   }
 ]

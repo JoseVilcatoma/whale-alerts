@@ -1,5 +1,5 @@
 {
-  "bankroll": 476.00405249125805,
+  "bankroll": 475.4113540785596,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4095,6 +4095,36 @@
       "timestamp": 1786235460.4677737,
       "bankroll": 476.0,
       "event": "won: ferrariChampions2026 \u2014 CA Boca Juniors vs. CA V\u00e9lez Sarsfield: O/U 1.5"
+    },
+    {
+      "timestamp": 1786235515.204773,
+      "bankroll": 476.0,
+      "event": "lost: quavoo \u2014 Will CA Boca Juniors win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235522.9946935,
+      "bankroll": 476.0,
+      "event": "won: ferrariChampions2026 \u2014 CA Boca Juniors vs. CA V\u00e9lez Sarsfield: O/U 2.5"
+    },
+    {
+      "timestamp": 1786235523.0949435,
+      "bankroll": 474.57,
+      "event": "lost: ferrariChampions2026 \u2014 Will CA Boca Juniors win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235523.4957137,
+      "bankroll": 476.64,
+      "event": "won: UpTheBlues \u2014 CA Boca Juniors vs. CA V\u00e9lez Sarsfield: O/U 2.5"
+    },
+    {
+      "timestamp": 1786235523.5959518,
+      "bankroll": 476.02,
+      "event": "lost: ferrariChampions2026 \u2014 Will CA Boca Juniors win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235523.7963376,
+      "bankroll": 475.41,
+      "event": "lost: ferrariChampions2026 \u2014 Will CA Boca Juniors win on 2026-08-08?"
     }
   ]
 }
