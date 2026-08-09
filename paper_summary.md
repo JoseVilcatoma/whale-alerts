@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 08:16:41 (hora de Perú)
+Actualizado: 2026-08-09 08:18:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $260.77
@@ -28,13 +28,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 2 | 2 | 3 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 110 | -20.92 USD |
+| RN1 | 24 | 17 | 111 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 26 | 69 | 74 | -53.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 1 | 6 | 6 | -89.64 USD |
-| ferrariChampions2026 | 245 | 198 | 122 | -91.43 USD |
+| ferrariChampions2026 | 245 | 198 | 123 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 12 | 38 | 7 | -298.46 USD |
 
@@ -193,6 +193,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Kilmarnock FC vs. Celtic FC: O/U 4.5 | Under (BUY) | 39% | 0.38 | ⏳ pendiente | — |
+| RN1 | Will AFC Ajax win on 2026-08-09? | Yes (BUY) | 51% | 0.39 | ⏳ pendiente | — |
 | RN1 | Will AFC Ajax win on 2026-08-09? | No (BUY) | 46% | 0.36 | ⏳ pendiente | — |
 | RN1 | Will PEC Zwolle win on 2026-08-09? | No (BUY) | 84% | 0.61 | ⏳ pendiente | — |
 | RN1 | Will AFC Ajax win on 2026-08-09? | No (BUY) | 46% | 0.66 | ⏳ pendiente | — |
@@ -221,5 +223,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will AFC Ajax win on 2026-08-09? | No (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Degerfors IF win on 2026-08-09? | No (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Malmo FF vs. Degerfors IF end in a  | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Hannover 96 win on 2026-08-09? | No (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Hannover 96 win on 2026-08-09? | No (BUY) | 51% | 0.00 | ⏳ pendiente | — |
