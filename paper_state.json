@@ -5470,6 +5470,11 @@
       "timestamp": 1786253132.0068011,
       "bankroll": 360.93,
       "event": "lost: UpTheBlues \u2014 Will Botafogo FR vs. Fluminense FC end in a draw?"
+    },
+    {
+      "timestamp": 1786254683.81651,
+      "bankroll": 360.93,
+      "event": "won: quavoo \u2014 Will FC Dallas win on 2026-08-08?"
     }
   ]
 }
