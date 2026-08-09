@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 02:24:32 (hora de Perú)
+Actualizado: 2026-08-09 02:26:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $353.31
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | UpTheBlues | 78 | 44 | 7 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| swisstony | 2 | 0 | 0 | +2.82 USD |
+| swisstony | 2 | 0 | 1 | +2.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
@@ -167,6 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Shandong Taishan FC win on 2026-08- | Yes (BUY) | 48% | 0.50 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports - Ga | Invictus Gaming (BUY) | 80% | 1.29 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports - Ga | Invictus Gaming (BUY) | 80% | 1.29 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports (BO3 | Invictus Gaming (BUY) | 83% | 0.42 | ⏳ pendiente | — |
@@ -196,4 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Brøndby IF win on 2026-08-09? | No (BUY) | 45% | 0.44 | ⏳ pendiente | — |
 | quavoo | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 63% | 1.27 | ⏳ pendiente | — |
 | quavoo | Will Brøndby IF win on 2026-08-09? | No (BUY) | 44% | 1.71 | ⏳ pendiente | — |
-| quavoo | Olympique Marseille vs. Athletic Bilbao: | Under (BUY) | 63% | 0.64 | ⏳ pendiente | — |
