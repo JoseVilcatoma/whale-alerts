@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 15:52:57 (hora de Perú)
+Actualizado: 2026-08-09 15:55:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $168.44
-**Retorno acumulado:** -83.16%
+**Bankroll actual:** $170.82
+**Retorno acumulado:** -82.92%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,8 +13,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 78 | 55 | 30 | +31.24 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 4 | +20.63 USD |
+| 1winstreak1 | 79 | 55 | 30 | +31.24 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 37 | 33 | 7 | +12.14 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
@@ -36,9 +36,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 336 | 250 | 32 | -92.05 USD |
+| ferrariChampions2026 | 342 | 251 | 25 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 19 | 38 | 7 | -298.46 USD |
+| TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -213,6 +213,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Arizona Diamondbacks (-2.5) | Arizona Diamondbacks (BUY) | 56% | 0.22 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 55% | 0.71 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 34% | 0.74 | ⏳ pendiente | — |
@@ -242,4 +243,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Once Caldas win on 2026-08-09? | Yes (BUY) | 49% | 0.33 | ⏳ pendiente | — |
 | RN1 | Will FC Argeș Pitești win on 2026-08-08? | Yes (BUY) | 74% | 0.18 | ⏳ pendiente | — |
 | RN1 | Will CA Bucaramanga win on 2026-08-10? | No (BUY) | 62% | 0.34 | ⏳ pendiente | — |
-| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Under (BUY) | 96% | 0.71 | ✅ ganada | +0.03 |

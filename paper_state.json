@@ -1,5 +1,5 @@
 {
-  "bankroll": 168.4368798048532,
+  "bankroll": 170.81761450837314,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7645,6 +7645,71 @@
       "timestamp": 1786308209.673922,
       "bankroll": 168.44,
       "event": "won: 1winstreak1 \u2014 Spread: New York Mets (-3.5)"
+    },
+    {
+      "timestamp": 1786308823.2246456,
+      "bankroll": 168.44,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Team Heretics vs G2 Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786308823.3247924,
+      "bankroll": 168.44,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Team Heretics vs G2 Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786308823.4249415,
+      "bankroll": 168.44,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Heretics vs G2 Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786308823.8494318,
+      "bankroll": 168.44,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Team Heretics vs G2 Esports (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1786308823.9495773,
+      "bankroll": 168.44,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Team Heretics vs G2 Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786308824.4816077,
+      "bankroll": 168.44,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Team Heretics vs G2 Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786308824.7891777,
+      "bankroll": 168.56,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Team Heretics vs G2 Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786308825.6210675,
+      "bankroll": 170.04,
+      "event": "won: TAIWANNUMBERONE \u2014 Ryan Gusto: Strikeouts O/U 4.5"
+    },
+    {
+      "timestamp": 1786308826.4012756,
+      "bankroll": 170.82,
+      "event": "won: TAIWANNUMBERONE \u2014 Ryan Gusto: Strikeouts O/U 4.5"
+    },
+    {
+      "timestamp": 1786308826.5014231,
+      "bankroll": 170.82,
+      "event": "won: TAIWANNUMBERONE \u2014 Ryan Gusto: Strikeouts O/U 4.5"
+    },
+    {
+      "timestamp": 1786308827.0012558,
+      "bankroll": 170.82,
+      "event": "won: TAIWANNUMBERONE \u2014 Ryan Gusto: Strikeouts O/U 4.5"
+    },
+    {
+      "timestamp": 1786308827.9568462,
+      "bankroll": 170.82,
+      "event": "won: 1winstreak1 \u2014 Spread: Miami Marlins (-2.5)"
+    },
+    {
+      "timestamp": 1786308828.3799877,
+      "bankroll": 170.82,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Miami Marlins (-3.5)"
     }
   ]
 }
