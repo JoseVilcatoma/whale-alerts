@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 16:57:52 (hora de Perú)
+Actualizado: 2026-08-09 17:00:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.18
@@ -13,11 +13,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 79 | 55 | 48 | +31.24 USD |
+| 1winstreak1 | 79 | 55 | 56 | +31.24 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 37 | 34 | 12 | +11.84 USD |
+| wr0ngw4yb3tt0r | 37 | 34 | 14 | +11.84 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 62 | 89 | 27 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 62 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 68 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -219,13 +219,32 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bra-bra-cor1-2026-08-09-cor1 | AV23IUa, RN1 |
 | mlb-cle-cws-2026-08-09-total-9pt5 | 1winstreak1, RN1, wr0ngw4yb3tt0r |
 | arg-def-new-2026-08-09-new | RN1, ferrariChampions2026 |
-| mlb-tb-sea-2026-08-09-total-6pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-tb-sea-2026-08-09-total-6pt5 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-tb-sea-2026-08-09-spread-away-2pt5 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-tb-sea-2026-08-09-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-09-spread-home-2pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-tb-sea-2026-08-09-total-5pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 45% | 0.41 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 30% | 0.44 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 39% | 0.54 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 33% | 1.90 | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 29% | 3.14 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 57% | 0.66 | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 43% | 2.67 | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 53% | 2.25 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 56% | 3.58 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 44% | 4.71 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Tampa Bay Rays (-2.5) | Seattle Mariners (BUY) | 72% | 0.31 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 30% | 1.76 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Tampa Bay Rays (-2.5) | Seattle Mariners (BUY) | 72% | 8.98 | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 68% | 4.24 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 15% | 1.77 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 29% | 12.19 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Chicago White Sox (-2.5) | Cleveland Guardians (BUY) | 51% | 2.27 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 49% | 0.61 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 37% | 0.63 | ⏳ pendiente | — |
@@ -240,19 +259,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: FlyQuest vs Team Liquid - Game 1 Wi | Team Liquid (BUY) | 80% | 0.32 | ⏳ pendiente | — |
 | ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 40% | 0.41 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | Los Angeles Dodgers (BUY) | 40% | 2.80 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Detroit Tigers (-1.5) | San Francisco Giants (BUY) | 54% | 0.45 | ⏳ pendiente | — |
-| RN1 | Will Santos FC win on 2026-08-09? | No (BUY) | 54% | 0.17 | ⏳ pendiente | — |
-| RN1 | Will CSyD Defensa y Justicia win on 2026 | Yes (BUY) | 87% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will CA Newell's Old Boys win on 2026-08 | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CSyD Defensa y Justicia win on 2026 | No (BUY) | 14% | 0.00 | ⏳ pendiente | — |
-| RN1 | Spread: Sport Lisboa e Benfica (-2.5) | Académico de Viseu FC (BUY) | 97% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Arizona Diamondbacks (-2.5) | Los Angeles Dodgers (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Los Angeles Dodgers (BUY) | 32% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Cleveland Guardians (-1.5) | Chicago White Sox (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: CSyD Defensa y Justicia (-1.5) | CA Newell's Old Boys (BUY) | 65% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Minnesota Twins vs. Milwaukee Brewers: O | Under (BUY) | 97% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Moreirense FC vs. SC Braga end in a | No (BUY) | 11% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will CA Barracas Central win on 2026-08- | No (BUY) | 81% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will CA Barracas Central win on 2026-08- | No (BUY) | 80% | 0.00 | ⏳ pendiente | — |
