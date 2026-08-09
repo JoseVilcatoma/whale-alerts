@@ -31161,5 +31161,47 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786283685.1007679,
     "fills": 1
+  },
+  {
+    "timestamp": 1786283794,
+    "timestamp_added": 1786283794.7276726,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bal-tex-2026-08-09-total-8pt5",
+    "title": "Baltimore Orioles vs. Texas Rangers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 259.487,
+    "whale_pct": 0.468,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786283794.7276804,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786283841,
+    "timestamp_added": 1786283841.7714598,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-lad-ari-2026-08-09-total-9pt5",
+    "title": "Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1412.8299989999998,
+    "whale_pct": 0.491,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786283841.7714703,
+    "fills": 1
   }
 ]
