@@ -39124,5 +39124,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786316462.6020753,
     "fills": 1
+  },
+  {
+    "timestamp": 1786316719,
+    "timestamp_added": 1786316720.483262,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lec-aus-pue-2026-08-09-aus",
+    "title": "Will Austin FC win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 887.4,
+    "whale_pct": 0.314,
+    "paper_stake_usd": 0.91,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786316731.0630507,
+    "fills": 2
   }
 ]
