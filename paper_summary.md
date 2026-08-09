@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 01:06:06 (hora de Perú)
+Actualizado: 2026-08-09 01:08:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $356.85
@@ -16,10 +16,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 55 | 47 | 1 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 30 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| greyoctober | 7 | 0 | 15 | +12.95 USD |
+| greyoctober | 7 | 0 | 17 | +12.95 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 0 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
-| UpTheBlues | 78 | 43 | 2 | +8.44 USD |
+| UpTheBlues | 78 | 43 | 5 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | swisstony | 2 | 0 | 0 | +2.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 21 | 47 | 87 | -48.01 USD |
+| quavoo | 21 | 47 | 88 | -48.01 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | ferrariChampions2026 | 230 | 192 | 18 | -91.33 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -167,6 +167,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Helmond Sport vs. De Graafschap end | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Shandong Taishan FC vs. Tianjin Jin | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| quavoo | Manchester City vs. Atletico Madrid: Bot | Yes (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| greyoctober | Valorant: Gentle Mates vs Enterprise Esp | Enterprise Esports (BUY) | 41% | 0.00 | ⏳ pendiente | — |
+| greyoctober | Valorant: Gentle Mates vs Enterprise Esp | Enterprise Esports (BUY) | 41% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | SC Heerenveen vs. FC Twente: O/U 4.5 | Under (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | greyoctober | Valorant: Gentle Mates vs Enterprise Esp | Enterprise Esports (BUY) | 41% | 83.08 | ⏳ pendiente | — |
 | quavoo | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 55% | 3.20 | ⏳ pendiente | — |
 | quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 58% | 0.48 | ⏳ pendiente | — |
@@ -191,9 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 46% | 0.77 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 5.07 | ⏳ pendiente | — |
 | quavoo | Tōkyō Verdy vs. Kawasaki Frontale: O/U 2 | Over (BUY) | 43% | 2.66 | ⏳ pendiente | — |
-| greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 22.39 | ⏳ pendiente | — |
-| quavoo | Boston Legacy FC vs. Portland Thorns FC: | Under (BUY) | 65% | 1.42 | ⏳ pendiente | — |
-| quavoo | Will Atletico Madrid win on 2026-08-09? | Yes (BUY) | 27% | 0.58 | ⏳ pendiente | — |
-| quavoo | Will FC Lugano vs. FC Zurich end in a dr | Yes (BUY) | 21% | 0.73 | ⏳ pendiente | — |
-| quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 41% | 0.78 | ⏳ pendiente | — |
-| quavoo | Will Philadelphia Union win on 2026-08-0 | Yes (BUY) | 55% | 0.81 | ⏳ pendiente | — |
