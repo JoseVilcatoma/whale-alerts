@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 11:05:35 (hora de Perú)
+Actualizado: 2026-08-09 11:07:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $162.97
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 44 | 79 | 53 | -51.37 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 293 | 226 | 60 | -88.67 USD |
+| ferrariChampions2026 | 293 | 226 | 66 | -88.67 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 2 | -89.94 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -197,6 +197,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 64% | 0.49 | ⏳ pendiente | — |
+| ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 87% | 0.94 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Rangers FC win on 2026-08-09? | Yes (BUY) | 33% | 0.55 | ⏳ pendiente | — |
+| ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 87% | 0.89 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 65% | 1.80 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Rangers FC win on 2026-08-09? | Yes (BUY) | 33% | 0.32 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 65% | 0.20 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Olympique Marseille win on 2026-08- | Yes (BUY) | 64% | 0.35 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Athletic Bilbao win on 2026-08-09? | No (BUY) | 84% | 0.46 | ⏳ pendiente | — |
@@ -221,9 +227,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Team Heretics vs G2 Esports - Game  | G2 Esports (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team Heretics vs G2 Esports - Game  | G2 Esports (BUY) | 88% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Nashville SC win on 2026-08-09? | Yes (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 77% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Rangers FC (-1.5) | Hibernian FC (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Rangers FC win on 2026-08-09? | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 95% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 4.5 | Under (BUY) | 69% | 0.01 | ⏳ pendiente | — |
