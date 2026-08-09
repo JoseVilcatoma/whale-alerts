@@ -1,5 +1,5 @@
 {
-  "bankroll": 343.8389118930869,
+  "bankroll": 344.1024254066004,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5735,6 +5735,11 @@
       "timestamp": 1786276809.3624783,
       "bankroll": 343.84,
       "event": "won: quavoo \u2014 Valorant: VARREL vs Paper Rex (BO3) - VCT Pacific Group Omega"
+    },
+    {
+      "timestamp": 1786278072.157942,
+      "bankroll": 344.1,
+      "event": "won: ferrariChampions2026 \u2014 V-Varen Nagasaki vs. Ky\u014dto Sanga FC: O/U 2.5"
     }
   ]
 }
