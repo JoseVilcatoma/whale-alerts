@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 19:04:04 (hora de Perú)
+Actualizado: 2026-08-08 19:06:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $469.84
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 29 | 24 | 35 | +16.40 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 28 | 41 | +7.78 USD |
+| UpTheBlues | 39 | 28 | 45 | +7.78 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | 1winstreak1 | 28 | 29 | 10 | -8.77 USD |
-| wr0ngw4yb3tt0r | 18 | 16 | 12 | -10.57 USD |
+| wr0ngw4yb3tt0r | 18 | 16 | 13 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 19 | 15 | 7 | -21.10 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
@@ -145,6 +145,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Coritiba FBC win on 2026-08-08? | Yes (BUY) | 80% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Coritiba FBC vs. Associação Chapecoense  | Yes (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 94% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: Orlando City SC (-2.5) | Club León FC (BUY) | 98% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Orlando City SC vs. Club León FC: O/U 2. | Under (BUY) | 26% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
@@ -170,8 +175,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Orlando City SC vs. Club León FC: O/U 1. | Under (BUY) | 19% | 0.56 | ⏳ pendiente | — |
 | UpTheBlues | Coritiba FBC vs. Associação Chapecoense  | No (BUY) | 64% | 0.87 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Boca Juniors vs. CA Vélez Sarsfi | Yes (BUY) | 55% | 1.71 | ⏳ pendiente | — |
-| ferrariChampions2026 | Orlando City SC vs. Club León FC: O/U 1. | Over (BUY) | 87% | 0.56 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs Shopify Rebellion - Ga | Sentinels (BUY) | 63% | 1.31 | 💰 vendida anticipada | +0.12 |
-| UpTheBlues | CA Boca Juniors vs. CA Vélez Sarsfield:  | Under (BUY) | 60% | 4.22 | ⏳ pendiente | — |
-| UpTheBlues | Will Orlando City SC win on 2026-08-08? | No (BUY) | 32% | 1.40 | ⏳ pendiente | — |
