@@ -1,5 +1,5 @@
 {
-  "bankroll": 351.4993017687598,
+  "bankroll": 351.6205838200418,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5575,6 +5575,16 @@
       "timestamp": 1786259011.533401,
       "bankroll": 351.5,
       "event": "lost: UpTheBlues \u2014 Will Club Alianza Lima win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786259878.379331,
+      "bankroll": 351.62,
+      "event": "won: ferrariChampions2026 \u2014 Will Deportivo Toluca FC vs. Los Angeles FC end in a draw?"
+    },
+    {
+      "timestamp": 1786259881.745077,
+      "bankroll": 351.62,
+      "event": "won: ferrariChampions2026 \u2014 Will Deportivo Toluca FC vs. Los Angeles FC end in a draw?"
     }
   ]
 }
