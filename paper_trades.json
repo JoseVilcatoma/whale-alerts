@@ -21894,7 +21894,7 @@
     "whale_pct": 0.126,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 30,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -23927,6 +23927,50 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786240865.8151448,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786241323,
+    "timestamp_added": 1786241323.5409284,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tb-sea-2026-08-08-total-7pt5",
+    "title": "Tampa Bay Rays vs. Seattle Mariners: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 559.24,
+    "whale_pct": 0.134,
+    "paper_stake_usd": 0.53,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786241323.5409346,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786241435,
+    "timestamp_added": 1786241436.4997053,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-dk-kt-2026-08-09",
+    "title": "LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "whale_usd": 115.8573,
+    "whale_pct": 0.289,
+    "paper_stake_usd": 1.14,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "StasPanda"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786241436.4997132,
     "fills": 1
   }
 ]

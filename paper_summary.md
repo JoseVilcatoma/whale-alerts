@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:02:41 (hora de Perú)
+Actualizado: 2026-08-08 21:10:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $395.14
@@ -27,15 +27,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 24 | 22 | 11 | -8.53 USD |
-| 1winstreak1 | 35 | 33 | 22 | -12.72 USD |
+| 1winstreak1 | 36 | 33 | 21 | -12.72 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 22 | 16 | 3 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 214 | 176 | 27 | -67.75 USD |
+| ferrariChampions2026 | 214 | 176 | 28 | -67.75 USD |
 | Talvez10 | 4 | 10 | 1 | -71.63 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 2 | 36 | 9 | -303.20 USD |
+| TAIWANNUMBERONE | 2 | 36 | 10 | -303.20 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -98,6 +98,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-blg-edg-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
 | mlb-laa-mia-2026-08-08-total-6pt5 | 1winstreak1, HomeRunHazard |
 | wnba-sea-por-2026-08-08 | 1winstreak1, HomeRunHazard, ferrariChampions2026 |
+| mlb-tb-sea-2026-08-08-total-7pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-atl-nyy-2026-08-08-total-7pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-atl-nyy-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard |
 | mlb-cle-cws-2026-08-08-total-6pt5 | 1winstreak1, HomeRunHazard |
@@ -159,6 +160,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 1.14 | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 41% | 0.53 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Diego Ferreira vs. Bill | Billy Quarantillo (BUY) | 19% | 2.18 | ⏳ pendiente | — |
 | quavoo | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 64% | 0.48 | ⏳ pendiente | — |
 | quavoo | Will Los Angeles FC win on 2026-08-08? | Yes (BUY) | 39% | 0.54 | ⏳ pendiente | — |
@@ -187,5 +190,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. Milwaukee Brewers: O | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| quavoo | Santos FC vs. CA Paranaense: O/U 2.5 | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| quavoo | Deportivo Toluca FC vs. Los Angeles FC:  | Yes (BUY) | 67% | 0.00 | ⏳ pendiente | — |
