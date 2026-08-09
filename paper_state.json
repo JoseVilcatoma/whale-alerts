@@ -1,5 +1,5 @@
 {
-  "bankroll": 405.48836633500144,
+  "bankroll": 407.85396768067,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4540,6 +4540,71 @@
       "timestamp": 1786241653.8418782,
       "bankroll": 405.49,
       "event": "won: 1winstreak1 \u2014 Houston Astros vs. San Diego Padres: O/U 4.5"
+    },
+    {
+      "timestamp": 1786241926.0533986,
+      "bankroll": 407.31,
+      "event": "won: swisstony \u2014 Spread: Philadelphia Phillies (-1.5)"
+    },
+    {
+      "timestamp": 1786241926.153537,
+      "bankroll": 408.31,
+      "event": "won: swisstony \u2014 Spread: Philadelphia Phillies (-1.5)"
+    },
+    {
+      "timestamp": 1786241930.399985,
+      "bankroll": 408.31,
+      "event": "lost: HomeRunHazard \u2014 Baltimore Orioles vs. Texas Rangers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786241934.1123486,
+      "bankroll": 408.31,
+      "event": "won: HomeRunHazard \u2014 Detroit Tigers vs. San Francisco Giants: O/U 8.5"
+    },
+    {
+      "timestamp": 1786241946.0740495,
+      "bankroll": 408.31,
+      "event": "lost: HomeRunHazard \u2014 Spread: Philadelphia Phillies (-1.5)"
+    },
+    {
+      "timestamp": 1786241952.6516697,
+      "bankroll": 407.08,
+      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Texas Rangers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786241954.9382932,
+      "bankroll": 407.08,
+      "event": "won: 1winstreak1 \u2014 Spread: Toronto Blue Jays (-1.5)"
+    },
+    {
+      "timestamp": 1786241955.832732,
+      "bankroll": 407.08,
+      "event": "lost: 1winstreak1 \u2014 Spread: Toronto Blue Jays (-1.5)"
+    },
+    {
+      "timestamp": 1786241962.4352715,
+      "bankroll": 406.6,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Detroit Tigers (-1.5)"
+    },
+    {
+      "timestamp": 1786241962.8008049,
+      "bankroll": 407.67,
+      "event": "won: 1winstreak1 \u2014 Spread: Detroit Tigers (-2.5)"
+    },
+    {
+      "timestamp": 1786241963.8970551,
+      "bankroll": 407.67,
+      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Texas Rangers: O/U 6.5"
+    },
+    {
+      "timestamp": 1786241964.228166,
+      "bankroll": 407.67,
+      "event": "lost: 1winstreak1 \u2014 Spread: Baltimore Orioles (-1.5)"
+    },
+    {
+      "timestamp": 1786241967.2371175,
+      "bankroll": 407.85,
+      "event": "won: ferrariChampions2026 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 9.5"
     }
   ]
 }
