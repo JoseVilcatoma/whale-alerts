@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 15:09:22 (hora de Perú)
+Actualizado: 2026-08-09 15:11:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $168.09
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 333 | 250 | 18 | -93.00 USD |
+| ferrariChampions2026 | 333 | 250 | 24 | -93.00 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 19 | 38 | 7 | -298.46 USD |
 
@@ -207,6 +207,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Dallas Wings (BUY) | 41% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Dignitas vs LYON - Game 1 Winner | LYON (BUY) | 81% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Dignitas vs LYON (BO3) - LCS Regula | LYON (BUY) | 89% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Dallas Wings (BUY) | 44% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Dignitas vs LYON - Game 1 Winner | LYON (BUY) | 81% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Dallas Wings (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 58% | 0.45 | ⏳ pendiente | — |
 | ferrariChampions2026 | Phoenix Mercury vs. Washington Mystics:  | Over (BUY) | 53% | 0.38 | ⏳ pendiente | — |
 | ferrariChampions2026 | Phoenix Mercury vs. Washington Mystics:  | Over (BUY) | 53% | 0.34 | ⏳ pendiente | — |
@@ -231,9 +237,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 84% | 0.00 | ✅ ganada | +0.00 |
 | 1winstreak1 | Spread: Cleveland Guardians (-1.5) | Chicago White Sox (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 77% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 19% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 87% | 0.00 | ✅ ganada | +0.00 |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 86% | 0.00 | ✅ ganada | +0.00 |
-| 1winstreak1 | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 76% | 0.00 | ✅ ganada | +0.00 |
-| theowalcott | Will Grêmio Novorizontino win on 2026-08 | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
