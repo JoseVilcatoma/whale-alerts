@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 10:03:50 (hora de Perú)
+Actualizado: 2026-08-09 10:05:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $259.80
@@ -25,16 +25,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 0 | 3 | +0.00 USD |
+| monkeymashingkeyboard | 0 | 0 | 1 | +0.00 USD |
 | swisstony | 3 | 2 | 2 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 33 | 23 | 69 | -20.92 USD |
-| Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
+| Djdjdjekekek | 0 | 2 | 1 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 31 | 72 | 71 | -54.77 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 2 | -89.94 USD |
-| ferrariChampions2026 | 247 | 198 | 106 | -91.43 USD |
+| ferrariChampions2026 | 247 | 198 | 107 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 14 | 38 | 5 | -298.46 USD |
 
@@ -188,11 +189,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-total-9pt5 | SDTrading, wr0ngw4yb3tt0r |
+| mlb-tor-phi-2026-08-09-spread-home-1pt5 | ferrariChampions2026, monkeymashingkeyboard |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Counter-Strike: 100 Thieves vs BC.Game E | BC.Game Esports (BUY) | 40% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| monkeymashingkeyboard | Spread: Philadelphia Phillies (-1.5) | Toronto Blue Jays (BUY) | 52% | 3.10 | ⏳ pendiente | — |
 | ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 83% | 0.27 | ⏳ pendiente | — |
 | ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 87% | 0.22 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will AS Monaco win on 2026-08-09? | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
@@ -220,6 +225,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Cruzeiro EC win on 2026-08-09? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: 1st | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 49% | 27.19 | ⏳ pendiente | — |
-| quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 46% | 1.17 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 47% | 0.28 | ⏳ pendiente | — |
-| RN1 | PEC Zwolle vs. AFC Ajax: O/U 1.5 | Over (BUY) | 45% | 0.27 | ⏳ pendiente | — |
