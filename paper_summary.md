@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 10:18:17 (hora de Perú)
+Actualizado: 2026-08-09 10:20:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $156.16
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 2 | -89.94 USD |
-| ferrariChampions2026 | 251 | 202 | 103 | -91.43 USD |
+| ferrariChampions2026 | 251 | 202 | 105 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 14 | 38 | 5 | -298.46 USD |
 
@@ -195,6 +195,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 4.5 | Under (BUY) | 69% | 0.01 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Washington Mystics (-1.5) | Phoenix Mercury (BUY) | 49% | 0.30 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Motherwell FC win on 2026-08-08? | Yes (BUY) | 38% | 0.61 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 75% | 1.22 | ⏳ pendiente | — |
@@ -223,5 +225,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: New York Liberty (-9.5) | Las Vegas Aces (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| quavoo | SC Heerenveen vs. FC Twente: O/U 1.5 | Over (BUY) | 86% | 0.00 | ⏳ pendiente | — |
-| SDTrading | Colorado Rockies vs. St. Louis Cardinals | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
