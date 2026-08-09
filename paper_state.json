@@ -7185,6 +7185,26 @@
       "timestamp": 1786301438.5954087,
       "bankroll": 164.58,
       "event": "won: UpTheBlues \u2014 SC Heerenveen vs. FC Twente: O/U 4.5"
+    },
+    {
+      "timestamp": 1786301884.34834,
+      "bankroll": 164.58,
+      "event": "won: ferrariChampions2026 \u2014 Las Vegas Aces vs. New York Liberty: O/U 175.5"
+    },
+    {
+      "timestamp": 1786301884.648079,
+      "bankroll": 164.58,
+      "event": "won: ferrariChampions2026 \u2014 Las Vegas Aces vs. New York Liberty: O/U 176.5"
+    },
+    {
+      "timestamp": 1786301884.8483799,
+      "bankroll": 164.58,
+      "event": "lost: ferrariChampions2026 \u2014 Las Vegas Aces vs. New York Liberty: O/U 175.5"
+    },
+    {
+      "timestamp": 1786301884.9485366,
+      "bankroll": 164.58,
+      "event": "lost: ferrariChampions2026 \u2014 Las Vegas Aces vs. New York Liberty: O/U 176.5"
     }
   ]
 }

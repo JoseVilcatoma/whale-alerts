@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 13:56:10 (hora de Perú)
+Actualizado: 2026-08-09 13:58:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $164.58
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 50 | 82 | 44 | -49.79 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 314 | 235 | 49 | -89.13 USD |
+| ferrariChampions2026 | 316 | 237 | 45 | -89.13 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
