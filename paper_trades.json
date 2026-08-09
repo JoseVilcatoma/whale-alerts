@@ -34372,8 +34372,8 @@
     "whale_pct": 0.8,
     "paper_stake_usd": 1.37,
     "odds_at_bet": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.89,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786306362.773995,
@@ -34392,8 +34392,8 @@
     "whale_pct": 0.164,
     "paper_stake_usd": 0.28,
     "odds_at_bet": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.42,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -35782,7 +35782,7 @@
     "whale_pct": 0.295,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "1winstreak1",
@@ -36950,7 +36950,7 @@
     "whale_pct": 0.412,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 97,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "RN1",
@@ -39659,6 +39659,48 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786318381.3393605,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786318609,
+    "timestamp_added": 1786318609.9707744,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-caz-nyc-2026-08-09-caz",
+    "title": "Will CF Cruz Azul win on 2026-08-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1045.6614000000002,
+    "whale_pct": 0.257,
+    "paper_stake_usd": 0.74,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786318609.9707837,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786318609,
+    "timestamp_added": 1786318610.7947977,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-caz-nyc-2026-08-09-spread-home-1pt5",
+    "title": "Spread: CF Cruz Azul (-1.5)",
+    "outcome": "New York City FC",
+    "side": "BUY",
+    "whale_usd": 721.9135,
+    "whale_pct": 0.177,
+    "paper_stake_usd": 0.51,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786318610.7948072,
     "fills": 1
   }
 ]

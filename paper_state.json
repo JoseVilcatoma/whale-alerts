@@ -1,5 +1,5 @@
 {
-  "bankroll": 286.5167234588367,
+  "bankroll": 288.82862822074145,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8000,6 +8000,26 @@
       "timestamp": 1786318545.6543803,
       "bankroll": 286.52,
       "event": "won: RN1 \u2014 Sport Lisboa e Benfica vs. Acad\u00e9mico de Viseu FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786318589.3179579,
+      "bankroll": 288.41,
+      "event": "won: ferrariChampions2026 \u2014 Minnesota Twins vs. Milwaukee Brewers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786318589.4181836,
+      "bankroll": 288.83,
+      "event": "won: 1winstreak1 \u2014 Minnesota Twins vs. Milwaukee Brewers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786318596.380001,
+      "bankroll": 288.83,
+      "event": "won: RN1 \u2014 Minnesota Twins vs. Milwaukee Brewers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786318600.6430867,
+      "bankroll": 288.83,
+      "event": "won: 1winstreak1 \u2014 Minnesota Twins vs. Milwaukee Brewers: O/U 7.5"
     }
   ]
 }

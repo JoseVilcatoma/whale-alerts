@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 18:36:06 (hora de Perú)
+Actualizado: 2026-08-09 18:38:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $286.52
-**Retorno acumulado:** -71.35%
+**Bankroll actual:** $288.83
+**Retorno acumulado:** -71.12%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| 1winstreak1 | 83 | 61 | 50 | +25.27 USD |
+| 1winstreak1 | 85 | 61 | 48 | +25.69 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 37 | 34 | 17 | +11.84 USD |
@@ -32,13 +32,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 99 | 53 | 56 | -20.07 USD |
+| RN1 | 100 | 53 | 55 | -20.07 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 62 | 89 | 48 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
+| ferrariChampions2026 | 346 | 254 | 88 | -88.53 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 345 | 254 | 87 | -90.42 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -174,6 +174,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-oak-bos-2026-08-09-total-10pt5 | 1winstreak1, quavoo |
 | clf-mci-atm-2026-08-09-atm | RN1, ferrariChampions2026, quavoo |
 | mlb-bal-tex-2026-08-09-total-8pt5 | quavoo, wr0ngw4yb3tt0r |
+| lec-caz-nyc-2026-08-09-caz | ferrariChampions2026, quavoo |
 | ere-spa-fey-2026-08-09-fey | RN1, quavoo |
 | den-hor-bro-2026-08-09-bro | RN1, quavoo |
 | val-gm-ep1-2026-08-09 | greyoctober, quavoo |
@@ -237,6 +238,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: CF Cruz Azul (-1.5) | New York City FC (BUY) | 77% | 0.51 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CF Cruz Azul win on 2026-08-09? | No (BUY) | 54% | 0.74 | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo vs. EC Vitória end in a | No (BUY) | 92% | 0.30 | ⏳ pendiente | — |
 | quavoo | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 57% | 0.30 | ⏳ pendiente | — |
 | quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 45% | 0.89 | ⏳ pendiente | — |
@@ -265,5 +268,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Austin FC win on 2026-08-09? | Yes (BUY) | 58% | 0.91 | ⏳ pendiente | — |
 | quavoo | Will Once Caldas win on 2026-08-09? | Yes (BUY) | 42% | 0.49 | ⏳ pendiente | — |
 | RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 98% | 0.39 | ⏳ pendiente | — |
-| quavoo | Chicago Stars FC vs. Bay FC: O/U 1.5 | Over (BUY) | 83% | 0.79 | ⏳ pendiente | — |
-| quavoo | Valorant: LOUD vs 100 Thieves - Map 1 Wi | LOUD (BUY) | 35% | 0.39 | ⏳ pendiente | — |
