@@ -7610,6 +7610,11 @@
       "timestamp": 1786307278.575558,
       "bankroll": 168.08,
       "event": "lost: 1winstreak1 \u2014 Spread: Atlanta Braves (-2.5)"
+    },
+    {
+      "timestamp": 1786307579.418822,
+      "bankroll": 168.08,
+      "event": "lost: 1winstreak1 \u2014 Spread: Athletics (-2.5)"
     }
   ]
 }

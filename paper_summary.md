@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 15:32:13 (hora de Perú)
+Actualizado: 2026-08-09 15:34:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $168.08
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 75 | 54 | 32 | +31.21 USD |
+| 1winstreak1 | 75 | 55 | 32 | +31.21 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 4 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 37 | 33 | 6 | +12.14 USD |
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 336 | 250 | 27 | -92.05 USD |
+| ferrariChampions2026 | 336 | 250 | 28 | -92.05 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 19 | 38 | 7 | -298.46 USD |
 
@@ -213,6 +213,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will SE Palmeiras vs. SC Internacional e | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Detroit Tigers (-2.5) | San Francisco Giants (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dignitas vs LYON (BO3) - LCS Regula | LYON (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CR Vasco da Gama win on 2026-08-09? | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
@@ -241,5 +243,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 41% | 0.72 | ⏳ pendiente | — |
 | 1winstreak1 | Minnesota Twins vs. Milwaukee Brewers: O | Under (BUY) | 40% | 0.28 | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. Milwaukee Brewers: O | Under (BUY) | 42% | 1.37 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 26% | 0.21 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 65% | 0.51 | ⏳ pendiente | — |
