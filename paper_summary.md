@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 09:14:35 (hora de Perú)
+Actualizado: 2026-08-09 09:16:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $259.41
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 26 | 71 | 74 | -54.80 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 2 | 8 | 4 | -90.15 USD |
-| ferrariChampions2026 | 245 | 198 | 100 | -91.43 USD |
+| ferrariChampions2026 | 245 | 198 | 101 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 12 | 38 | 7 | -298.46 USD |
 
@@ -193,6 +193,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Heart of Midlothian FC vs. Dundee United | Over (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | StasPanda | Counter-Strike: BESTIA vs Isurus (BO3) - | Isurus (BUY) | 28% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 4.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
@@ -222,4 +223,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | RN1 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chongqing Tonglianglong FC vs. Shanghai  | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| RN1 | Manchester City vs. Atletico Madrid: O/U | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
