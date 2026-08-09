@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 23:18:06 (hora de Perú)
+Actualizado: 2026-08-08 23:20:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $331.61
@@ -27,13 +27,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| 1winstreak1 | 51 | 43 | 6 | -19.43 USD |
+| 1winstreak1 | 51 | 43 | 7 | -19.43 USD |
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | quavoo | 18 | 40 | 47 | -31.53 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 225 | 186 | 23 | -85.52 USD |
+| ferrariChampions2026 | 225 | 186 | 24 | -85.52 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 11 | -303.20 USD |
 
@@ -161,11 +161,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lec-tol-laf-2026-08-08-laf | ferrariChampions2026, quavoo |
 | mlb-lad-ari-2026-08-08-total-2pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-tb-sea-2026-08-08-total-6pt5 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-tb-sea-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 47% | 1.56 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 30% | 0.55 | ⏳ pendiente | — |
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 1.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Over (BUY) | 46% | 0.45 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 69% | 0.65 | ⏳ pendiente | — |
@@ -194,5 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Los Angeles FC win on 2026-08-08? | No (BUY) | 56% | 1.28 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 53% | 0.61 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 2.81 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 24% | 0.57 | ⏳ pendiente | — |
-| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 38% | 1.18 | ⏳ pendiente | — |
