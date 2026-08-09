@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 00:55:52 (hora de Perú)
+Actualizado: 2026-08-09 00:57:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $360.93
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 34 | 28 | 3 | +16.55 USD |
 | greyoctober | 7 | 0 | 14 | +12.95 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
-| UpTheBlues | 78 | 43 | 1 | +8.44 USD |
+| UpTheBlues | 78 | 43 | 2 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | swisstony | 2 | 0 | 0 | +2.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 21 | 47 | 83 | -48.01 USD |
+| quavoo | 21 | 47 | 84 | -48.01 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | ferrariChampions2026 | 229 | 192 | 19 | -91.98 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -167,6 +167,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | SC Heerenveen vs. FC Twente: O/U 4.5 | Under (BUY) | 76% | 0.49 | ⏳ pendiente | — |
+| quavoo | Will Brøndby IF win on 2026-08-09? | No (BUY) | 45% | 0.44 | ⏳ pendiente | — |
 | quavoo | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 63% | 1.27 | ⏳ pendiente | — |
 | quavoo | Will Brøndby IF win on 2026-08-09? | No (BUY) | 44% | 1.71 | ⏳ pendiente | — |
 | quavoo | Olympique Marseille vs. Athletic Bilbao: | Under (BUY) | 63% | 0.64 | ⏳ pendiente | — |
@@ -195,5 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Malmo FF win on 2026-08-09? | Yes (BUY) | 67% | 1.93 | ⏳ pendiente | — |
 | quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 40% | 1.27 | ⏳ pendiente | — |
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.58 | ⏳ pendiente | — |
-| quavoo | Counter-Strike: 1WIN vs Liquid (BO3) - E | 1WIN (BUY) | 34% | 0.96 | ⏳ pendiente | — |
-| quavoo | Manchester City vs. Atletico Madrid: Bot | Yes (BUY) | 63% | 0.39 | ⏳ pendiente | — |
