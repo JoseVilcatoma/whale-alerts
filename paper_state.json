@@ -1,5 +1,5 @@
 {
-  "bankroll": 168.08359276781616,
+  "bankroll": 168.1131761011495,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7615,6 +7615,11 @@
       "timestamp": 1786307579.418822,
       "bankroll": 168.08,
       "event": "lost: 1winstreak1 \u2014 Spread: Athletics (-2.5)"
+    },
+    {
+      "timestamp": 1786307765.4716704,
+      "bankroll": 168.11,
+      "event": "won: 1winstreak1 \u2014 Athletics vs. Boston Red Sox: O/U 8.5"
     }
   ]
 }
