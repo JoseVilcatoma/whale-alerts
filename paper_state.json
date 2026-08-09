@@ -4010,6 +4010,16 @@
       "timestamp": 1786234334.3862922,
       "bankroll": 470.24,
       "event": "won: quavoo \u2014 New York Mets vs. Pittsburgh Pirates: O/U 7.5"
+    },
+    {
+      "timestamp": 1786234815.4391756,
+      "bankroll": 470.24,
+      "event": "won: ferrariChampions2026 \u2014 Will S\u00e3o Paulo FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786234816.9776042,
+      "bankroll": 470.24,
+      "event": "lost: ferrariChampions2026 \u2014 Gr\u00eamio FBPA vs. S\u00e3o Paulo FC: O/U 3.5"
     }
   ]
 }
