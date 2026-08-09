@@ -1,5 +1,5 @@
 {
-  "bankroll": 167.84861684109597,
+  "bankroll": 167.51861684109596,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7475,6 +7475,11 @@
       "timestamp": 1786305392.9580834,
       "bankroll": 167.85,
       "event": "lost: ferrariChampions2026 \u2014 Will Hibernian FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786305705.4591076,
+      "bankroll": 167.52,
+      "event": "lost: Djdjdjekekek \u2014 Counter-Strike: 100 Thieves vs 1WIN (BO3) - Esports World Cup Open Qualifier Play-Ins"
     }
   ]
 }
