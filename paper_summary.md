@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 00:09:56 (hora de Perú)
+Actualizado: 2026-08-09 00:11:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $378.05
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 24 | 17 | 0 | -20.92 USD |
-| quavoo | 20 | 40 | 64 | -31.53 USD |
+| quavoo | 20 | 40 | 65 | -31.53 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -167,6 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Counter-Strike: 1WIN vs Liquid (BO3) - E | 1WIN (BUY) | 34% | 0.96 | ⏳ pendiente | — |
 | quavoo | Manchester City vs. Atletico Madrid: Bot | Yes (BUY) | 63% | 0.39 | ⏳ pendiente | — |
 | quavoo | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 62% | 0.45 | ⏳ pendiente | — |
 | quavoo | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
@@ -196,4 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 45% | 0.00 | ✅ ganada | +0.00 |
 | ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 47% | 1.56 | ✅ ganada | +1.76 |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 30% | 0.55 | ✅ ganada | +1.28 |
-| quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 1.43 | ⏳ pendiente | — |
