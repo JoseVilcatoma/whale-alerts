@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 23:22:12 (hora de Perú)
+Actualizado: 2026-08-08 23:24:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $331.61
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | 1winstreak1 | 51 | 43 | 7 | -19.43 USD |
 | RN1 | 24 | 17 | 0 | -20.92 USD |
-| quavoo | 18 | 40 | 48 | -31.53 USD |
+| quavoo | 18 | 40 | 49 | -31.53 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -168,6 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 47% | 1.56 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 30% | 0.55 | ⏳ pendiente | — |
@@ -196,4 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Real Salt Lake win on 2026-08-08? | Yes (BUY) | 77% | 0.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 72% | 0.70 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Real Salt Lake win on 2026-08-08? | Yes (BUY) | 77% | 0.42 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Los Angeles FC win on 2026-08-08? | No (BUY) | 56% | 1.28 | ⏳ pendiente | — |
