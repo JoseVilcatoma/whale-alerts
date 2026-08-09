@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.84322239516234,
+  "bankroll": 470.23697239516235,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4000,6 +4000,16 @@
       "timestamp": 1786233570.6392994,
       "bankroll": 469.84,
       "event": "won: ferrariChampions2026 \u2014 Will SSC Napoli vs. RC Celta de Vigo end in a draw?"
+    },
+    {
+      "timestamp": 1786234329.4347594,
+      "bankroll": 469.84,
+      "event": "won: HomeRunHazard \u2014 New York Mets vs. Pittsburgh Pirates: O/U 7.5"
+    },
+    {
+      "timestamp": 1786234334.3862922,
+      "bankroll": 470.24,
+      "event": "won: quavoo \u2014 New York Mets vs. Pittsburgh Pirates: O/U 7.5"
     }
   ]
 }

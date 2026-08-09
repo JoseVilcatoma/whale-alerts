@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 19:10:20 (hora de Perú)
+Actualizado: 2026-08-08 19:12:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $469.84
-**Retorno acumulado:** -53.02%
+**Bankroll actual:** $470.24
+**Retorno acumulado:** -52.98%
 **Peor caída desde un máximo (drawdown):** 53.54%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,12 +13,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| quavoo | 7 | 5 | 79 | +22.29 USD |
+| quavoo | 8 | 5 | 78 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 41 | 29 | 2 | +17.43 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| HomeRunHazard | 29 | 24 | 35 | +16.40 USD |
+| HomeRunHazard | 30 | 24 | 34 | +16.40 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 28 | 47 | +7.78 USD |
+| UpTheBlues | 39 | 28 | 53 | +7.78 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -134,6 +134,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-nym-pit-2026-08-08-total-7pt5 | HomeRunHazard, quavoo |
 | mlb-cin-wsh-2026-08-08-total-8pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-oak-bos-2026-08-08-spread-away-2pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
+| per1-sba-cal-2026-08-08-cal | UpTheBlues, quavoo |
 | lec-orl-leo-2026-08-08-spread-away-1pt5 | UpTheBlues, quavoo |
 | ufc-man15-rmiran-2026-08-08 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | per1-ajp-cag-2026-08-08-ajp | RN1, UpTheBlues |
@@ -147,6 +148,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Washington Spirit win on 2026-08-08 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Fluminense FC win on 2026-08-08? | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 94% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Orlando City SC win on 2026-08-08? | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Club Alianza Lima win on 2026-08-08 | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Fluminense FC win on 2026-08-08? | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Washington Spirit win on 2026-08-08 | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
@@ -171,9 +178,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Botafogo FR vs. Fluminense FC end i | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Orlando City SC win on 2026-08-08? | No (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Instituto AC Córdoba vs. CA Gimnasia y E | Over (BUY) | 21% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Orlando City SC vs. Club León FC: O/U 1. | Over (BUY) | 99% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Associação Chapecoense de Futebo | Coritiba FBC (BUY) | 97% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Toronto Blue Jays (-1.5) | Philadelphia Phillies (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Cleveland Guardians (-1.5) | Chicago White Sox (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | O/U 2.5 Rounds | Under (BUY) | 62% | 0.00 | ⏳ pendiente | — |
