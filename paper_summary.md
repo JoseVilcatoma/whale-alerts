@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 02:26:33 (hora de Perú)
+Actualizado: 2026-08-09 02:28:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $353.31
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 7 | 0 | 17 | +12.95 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 0 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
-| UpTheBlues | 78 | 44 | 7 | +8.44 USD |
+| UpTheBlues | 78 | 44 | 9 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | swisstony | 2 | 0 | 1 | +2.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 22 | 63 | 77 | -53.27 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 243 | 195 | 7 | -89.61 USD |
+| ferrariChampions2026 | 243 | 195 | 11 | -89.61 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 12 | -303.20 USD |
 
@@ -167,6 +167,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Hamarkameratene vs. Aalesunds FK: Both T | No (BUY) | 34% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports (BO3 | Invictus Gaming (BUY) | 84% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Lillestrøm SK win on 2026-08-09? | No (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports (BO3 | Invictus Gaming (BUY) | 85% | 4.02 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports (BO3 | Invictus Gaming (BUY) | 85% | 2.67 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports (BO3 | Invictus Gaming (BUY) | 86% | 3.24 | ⏳ pendiente | — |
 | swisstony | Will Shandong Taishan FC win on 2026-08- | Yes (BUY) | 48% | 0.50 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports - Ga | Invictus Gaming (BUY) | 80% | 1.29 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports - Ga | Invictus Gaming (BUY) | 80% | 1.29 | ⏳ pendiente | — |
@@ -191,9 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | SC Heerenveen vs. FC Twente: O/U 4.5 | Under (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | greyoctober | Valorant: Gentle Mates vs Enterprise Esp | Enterprise Esports (BUY) | 41% | 83.08 | ⏳ pendiente | — |
 | quavoo | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 55% | 3.20 | ⏳ pendiente | — |
-| quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 58% | 0.48 | ⏳ pendiente | — |
-| quavoo | Spread: Tōkyō Verdy (-1.5) | Kawasaki Frontale (BUY) | 90% | 0.68 | ⏳ pendiente | — |
-| UpTheBlues | SC Heerenveen vs. FC Twente: O/U 4.5 | Under (BUY) | 76% | 0.49 | ⏳ pendiente | — |
-| quavoo | Will Brøndby IF win on 2026-08-09? | No (BUY) | 45% | 0.44 | ⏳ pendiente | — |
-| quavoo | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 63% | 1.27 | ⏳ pendiente | — |
-| quavoo | Will Brøndby IF win on 2026-08-09? | No (BUY) | 44% | 1.71 | ⏳ pendiente | — |
