@@ -1,5 +1,5 @@
 {
-  "bankroll": 356.85290566486367,
+  "bankroll": 351.13290566486364,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5500,6 +5500,56 @@
       "timestamp": 1786255305.1147656,
       "bankroll": 356.85,
       "event": "won: 1winstreak1 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 3.5"
+    },
+    {
+      "timestamp": 1786255914.2246628,
+      "bankroll": 354.91,
+      "event": "lost: quavoo \u2014 Will Atlante FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786255914.3248155,
+      "bankroll": 352.25,
+      "event": "lost: quavoo \u2014 Will Atlante FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786255918.229906,
+      "bankroll": 352.25,
+      "event": "lost: quavoo \u2014 Will Atlante FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786255918.5303202,
+      "bankroll": 352.25,
+      "event": "lost: quavoo \u2014 Will Atlante FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786255918.6304579,
+      "bankroll": 352.25,
+      "event": "lost: quavoo \u2014 Will Atlante FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786255919.9224253,
+      "bankroll": 352.25,
+      "event": "lost: quavoo \u2014 Will Atlante FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786255920.1228209,
+      "bankroll": 352.25,
+      "event": "lost: quavoo \u2014 Will Atlante FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786255921.3993583,
+      "bankroll": 352.25,
+      "event": "lost: quavoo \u2014 Will Atlante FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786255921.8571167,
+      "bankroll": 352.25,
+      "event": "lost: quavoo \u2014 Will Atlante FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786255923.6051548,
+      "bankroll": 351.13,
+      "event": "lost: quavoo \u2014 Real Salt Lake vs. Atlante FC: O/U 3.5"
     }
   ]
 }
