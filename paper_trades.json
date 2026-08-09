@@ -27153,5 +27153,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786260688.8955195,
     "fills": 1
+  },
+  {
+    "timestamp": 1786260767,
+    "timestamp_added": 1786260768.0687277,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "bra-pal-int-2026-08-09-pal",
+    "title": "Will SE Palmeiras win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 518.9399999999999,
+    "whale_pct": 0.37,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786260768.068735,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 02:32:42 (hora de Perú)
+Actualizado: 2026-08-09 02:34:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $353.31
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 22 | 63 | 77 | -53.27 USD |
+| quavoo | 22 | 63 | 78 | -53.27 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | ferrariChampions2026 | 243 | 195 | 20 | -89.61 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -167,6 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will SE Palmeiras win on 2026-08-09? | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will FC St. Pauli 1910 win on 2026-08-09 | Yes (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports (BO3 | Invictus Gaming (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports (BO3 | Invictus Gaming (BUY) | 81% | 0.00 | ⏳ pendiente | — |
@@ -196,4 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Spread: South Melbourne FC (-1.5) | Fremantle City FC (BUY) | 32% | 0.07 | ⏳ pendiente | — |
 | quavoo | Will Atlético Nacional win on 2026-08-08 | Yes (BUY) | 32% | 0.68 | ⏳ pendiente | — |
 | quavoo | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 55% | 0.35 | ⏳ pendiente | — |
-| UpTheBlues | Will Helmond Sport vs. De Graafschap end | No (BUY) | 73% | 0.57 | ⏳ pendiente | — |
