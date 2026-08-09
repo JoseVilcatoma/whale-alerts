@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 13:04:03 (hora de Perú)
+Actualizado: 2026-08-09 13:06:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $164.48
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 55 | 48 | 1 | +28.65 USD |
+| 1winstreak1 | 55 | 48 | 6 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 9 | +11.82 USD |
@@ -33,11 +33,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 50 | 80 | 46 | -49.73 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 313 | 235 | 47 | -89.13 USD |
+| ferrariChampions2026 | 313 | 235 | 49 | -89.13 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 19 | 38 | 6 | -298.46 USD |
+| TAIWANNUMBERONE | 19 | 38 | 7 | -298.46 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -167,6 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tb-sea-2026-08-08-total-6pt5 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | clf-mci-atm-2026-08-09-mci | RN1, ferrariChampions2026, quavoo |
 | mlb-tb-sea-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-oak-bos-2026-08-09-total-10pt5 | 1winstreak1, quavoo |
 | clf-mci-atm-2026-08-09-atm | RN1, ferrariChampions2026, quavoo |
 | mlb-bal-tex-2026-08-09-total-8pt5 | quavoo, wr0ngw4yb3tt0r |
 | ere-spa-fey-2026-08-09-fey | RN1, quavoo |
@@ -190,7 +191,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-total-9pt5 | SDTrading, wr0ngw4yb3tt0r |
-| mlb-tor-phi-2026-08-09-spread-home-1pt5 | ferrariChampions2026, monkeymashingkeyboard |
+| mlb-tor-phi-2026-08-09-spread-home-1pt5 | 1winstreak1, ferrariChampions2026, monkeymashingkeyboard |
 | wnba-phx-wsh-2026-08-09-spread-home-1pt5 | monkeymashingkeyboard, wr0ngw4yb3tt0r |
 | lol-th-g2-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-total-8pt5 | 1winstreak1, SDTrading |
@@ -199,6 +200,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Joey Cantillo: Strikeouts O/U 5.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Washington Nationals (-2.5) | Washington Nationals (BUY) | 31% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 39% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 10.5 | Under (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Athletics (-2.5) | Athletics (BUY) | 21% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 34% | 0.49 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 47% | 0.25 | ⏳ pendiente | — |
@@ -221,11 +230,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will NK Slaven Belupo win on 2026-08-09? | No (BUY) | 67% | 0.41 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: 100 Thieves vs 1WIN (BO3 | 1WIN (BUY) | 37% | 0.33 | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 62% | 13.16 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Olympique Marseille win on 2026-08- | Yes (BUY) | 40% | 0.25 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Team Heretics vs G2 Esports - Game  | G2 Esports (BUY) | 83% | 0.60 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 64% | 0.49 | ⏳ pendiente | — |
-| ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 87% | 0.94 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Rangers FC win on 2026-08-09? | Yes (BUY) | 33% | 0.55 | ⏳ pendiente | — |
-| ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 87% | 0.89 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 65% | 1.80 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Rangers FC win on 2026-08-09? | Yes (BUY) | 33% | 0.32 | ⏳ pendiente | — |
