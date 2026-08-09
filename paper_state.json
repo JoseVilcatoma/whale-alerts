@@ -1,5 +1,5 @@
 {
-  "bankroll": 285.4286282207415,
+  "bankroll": 288.6425347064127,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8060,6 +8060,56 @@
       "timestamp": 1786318834.3967805,
       "bankroll": 285.43,
       "event": "lost: quavoo \u2014 Will LASK Linz win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786319034.1154172,
+      "bankroll": 285.43,
+      "event": "lost: RN1 \u2014 Moreirense FC vs. SC Braga: O/U 3.5"
+    },
+    {
+      "timestamp": 1786319035.2763376,
+      "bankroll": 285.43,
+      "event": "lost: RN1 \u2014 Will SC Braga win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786319036.7097626,
+      "bankroll": 285.43,
+      "event": "won: ferrariChampions2026 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 3.5"
+    },
+    {
+      "timestamp": 1786319036.8099513,
+      "bankroll": 285.43,
+      "event": "lost: RN1 \u2014 Moreirense FC vs. SC Braga: O/U 3.5"
+    },
+    {
+      "timestamp": 1786319037.3108935,
+      "bankroll": 285.43,
+      "event": "lost: RN1 \u2014 Moreirense FC vs. SC Braga: O/U 3.5"
+    },
+    {
+      "timestamp": 1786319044.7907336,
+      "bankroll": 285.74,
+      "event": "won: ferrariChampions2026 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 3.5"
+    },
+    {
+      "timestamp": 1786319044.8909512,
+      "bankroll": 286.05,
+      "event": "won: ferrariChampions2026 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 3.5"
+    },
+    {
+      "timestamp": 1786319044.9911711,
+      "bankroll": 287.43,
+      "event": "won: ferrariChampions2026 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 3.5"
+    },
+    {
+      "timestamp": 1786319045.0914006,
+      "bankroll": 288.29,
+      "event": "won: ferrariChampions2026 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 3.5"
+    },
+    {
+      "timestamp": 1786319046.0931547,
+      "bankroll": 288.64,
+      "event": "won: ferrariChampions2026 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 3.5"
     }
   ]
 }

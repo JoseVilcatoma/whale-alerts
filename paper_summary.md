@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 18:42:18 (hora de Perú)
+Actualizado: 2026-08-09 18:44:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $285.43
-**Retorno acumulado:** -71.46%
+**Bankroll actual:** $288.64
+**Retorno acumulado:** -71.14%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -32,12 +32,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 101 | 53 | 58 | -20.07 USD |
+| RN1 | 101 | 57 | 54 | -20.07 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 63 | 92 | 47 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 346 | 254 | 93 | -88.53 USD |
+| ferrariChampions2026 | 352 | 254 | 89 | -85.32 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
@@ -238,6 +238,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: CF Cruz Azul (-1.5) | New York City FC (BUY) | 78% | 0.48 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Racing Club win on 2026-08-09? | No (BUY) | 98% | 1.28 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: CF Cruz Azul (-1.5) | New York City FC (BUY) | 76% | 0.41 | ⏳ pendiente | — |
 | RN1 | Will Racing Club win on 2026-08-09? | No (BUY) | 98% | 0.30 | ⏳ pendiente | — |
 | quavoo | Will Austin FC win on 2026-08-09? | Yes (BUY) | 58% | 1.02 | ⏳ pendiente | — |
@@ -266,5 +268,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 45% | 0.88 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Over (BUY) | 32% | 0.80 | ⏳ pendiente | — |
 | quavoo | Spread: New York City FC (-1.5) | CF Cruz Azul (BUY) | 90% | 1.87 | ⏳ pendiente | — |
-| RN1 | Will CSD Colo-Colo win on 2026-08-09? | Yes (BUY) | 85% | 0.31 | ⏳ pendiente | — |
-| quavoo | Spread: New York City FC (-1.5) | CF Cruz Azul (BUY) | 89% | 1.76 | ⏳ pendiente | — |
