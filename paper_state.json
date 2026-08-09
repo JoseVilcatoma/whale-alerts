@@ -1,5 +1,5 @@
 {
-  "bankroll": 285.53760994394054,
+  "bankroll": 287.3375648988955,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8250,6 +8250,51 @@
       "timestamp": 1786319293.882241,
       "bankroll": 285.54,
       "event": "won: ferrariChampions2026 \u2014 CSyD Defensa y Justicia vs. CA Newell's Old Boys: O/U 1.5"
+    },
+    {
+      "timestamp": 1786319349.4421244,
+      "bankroll": 285.93,
+      "event": "won: ferrariChampions2026 \u2014 CSyD Defensa y Justicia vs. CA Newell's Old Boys: O/U 2.5"
+    },
+    {
+      "timestamp": 1786319352.7493918,
+      "bankroll": 285.93,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Dodgers vs. Arizona Diamondbacks: O/U 10.5"
+    },
+    {
+      "timestamp": 1786319353.5459626,
+      "bankroll": 285.93,
+      "event": "won: ferrariChampions2026 \u2014 Will CA Newell's Old Boys win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786319354.5476224,
+      "bankroll": 285.93,
+      "event": "won: ferrariChampions2026 \u2014 CSyD Defensa y Justicia vs. CA Newell's Old Boys: O/U 2.5"
+    },
+    {
+      "timestamp": 1786319354.8479967,
+      "bankroll": 285.93,
+      "event": "won: ferrariChampions2026 \u2014 CSyD Defensa y Justicia vs. CA Newell's Old Boys: O/U 2.5"
+    },
+    {
+      "timestamp": 1786319355.4490268,
+      "bankroll": 285.93,
+      "event": "won: RN1 \u2014 Will CA Newell's Old Boys win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786319355.8498006,
+      "bankroll": 286.54,
+      "event": "won: ferrariChampions2026 \u2014 CSyD Defensa y Justicia vs. CA Newell's Old Boys: O/U 2.5"
+    },
+    {
+      "timestamp": 1786319358.7551267,
+      "bankroll": 287.34,
+      "event": "won: ferrariChampions2026 \u2014 CSyD Defensa y Justicia vs. CA Newell's Old Boys: O/U 2.5"
+    },
+    {
+      "timestamp": 1786319416.196588,
+      "bankroll": 287.34,
+      "event": "won: ferrariChampions2026 \u2014 CSyD Defensa y Justicia vs. CA Newell's Old Boys: O/U 0.5"
     }
   ]
 }
