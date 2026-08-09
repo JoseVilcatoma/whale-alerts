@@ -1,5 +1,5 @@
 {
-  "bankroll": 287.40164595608,
+  "bankroll": 288.29727095608,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8390,6 +8390,41 @@
       "timestamp": 1786319485.8945014,
       "bankroll": 287.4,
       "event": "won: ferrariChampions2026 \u2014 Dallas Wings vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1786319599.6734204,
+      "bankroll": 286.49,
+      "event": "lost: 1winstreak1 \u2014 Dallas Wings vs. Minnesota Lynx: O/U 179.5"
+    },
+    {
+      "timestamp": 1786319606.2116761,
+      "bankroll": 286.49,
+      "event": "won: RN1 \u2014 Will CA Barracas Central win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786319606.3118792,
+      "bankroll": 286.49,
+      "event": "won: RN1 \u2014 Will CA Barracas Central win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786319663.4515245,
+      "bankroll": 290.1,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Detroit Tigers (-1.5)"
+    },
+    {
+      "timestamp": 1786319663.7972996,
+      "bankroll": 291.37,
+      "event": "won: ferrariChampions2026 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 6.5"
+    },
+    {
+      "timestamp": 1786319667.667089,
+      "bankroll": 290.92,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Detroit Tigers (-1.5)"
+    },
+    {
+      "timestamp": 1786319671.2006092,
+      "bankroll": 288.3,
+      "event": "lost: ferrariChampions2026 \u2014 Detroit Tigers vs. San Francisco Giants: O/U 4.5"
     }
   ]
 }
