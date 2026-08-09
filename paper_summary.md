@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 17:02:12 (hora de Perú)
+Actualizado: 2026-08-09 17:04:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.18
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 62 | 89 | 27 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 68 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 72 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -229,6 +229,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: CSyD Defensa y Justicia (-1.5) | CSyD Defensa y Justicia (BUY) | 46% | 0.51 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: CSyD Defensa y Justicia (-1.5) | CSyD Defensa y Justicia (BUY) | 47% | 0.53 | ⏳ pendiente | — |
+| ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 30% | 0.34 | ⏳ pendiente | — |
+| ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 67% | 1.20 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 45% | 0.41 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 30% | 0.44 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 39% | 0.54 | ⏳ pendiente | — |
@@ -255,7 +259,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 40% | 3.75 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 57% | 5.28 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 39% | 3.58 | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 56% | 5.75 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: FlyQuest vs Team Liquid - Game 1 Wi | Team Liquid (BUY) | 80% | 0.32 | ⏳ pendiente | — |
-| ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 40% | 0.41 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | Los Angeles Dodgers (BUY) | 40% | 2.80 | ⏳ pendiente | — |
