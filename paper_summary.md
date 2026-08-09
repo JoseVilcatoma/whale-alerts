@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 23:43:02 (hora de Perú)
+Actualizado: 2026-08-08 23:45:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $331.61
@@ -27,9 +27,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| 1winstreak1 | 51 | 43 | 8 | -19.43 USD |
+| 1winstreak1 | 51 | 43 | 9 | -19.43 USD |
 | RN1 | 24 | 17 | 0 | -20.92 USD |
-| quavoo | 18 | 40 | 54 | -31.53 USD |
+| quavoo | 18 | 40 | 55 | -31.53 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -99,7 +99,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-blg-edg-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
 | mlb-laa-mia-2026-08-08-total-6pt5 | 1winstreak1, HomeRunHazard |
 | wnba-sea-por-2026-08-08 | 1winstreak1, HomeRunHazard, ferrariChampions2026 |
-| mlb-tb-sea-2026-08-08-spread-away-1pt5 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-tb-sea-2026-08-08-spread-away-1pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tb-sea-2026-08-08-total-7pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-atl-nyy-2026-08-08-total-7pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-atl-nyy-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard |
@@ -167,6 +167,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will LASK Linz win on 2026-08-09? | Yes (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | quavoo | Athletics vs. Boston Red Sox: O/U 10.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | quavoo | Athletics vs. Boston Red Sox: O/U 10.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
@@ -195,5 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | No (BUY) | 70% | 1.62 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 9.82 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 44% | 4.89 | ⏳ pendiente | — |
-| ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Over (BUY) | 64% | 0.76 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | No (BUY) | 70% | 1.63 | ⏳ pendiente | — |
