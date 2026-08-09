@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 23:57:34 (hora de Perú)
+Actualizado: 2026-08-08 23:59:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $318.89
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 30 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| greyoctober | 7 | 0 | 11 | +12.95 USD |
+| greyoctober | 7 | 0 | 12 | +12.95 USD |
 | wr0ngw4yb3tt0r | 30 | 28 | 7 | +12.18 USD |
 | UpTheBlues | 78 | 42 | 2 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | 1winstreak1 | 51 | 43 | 9 | -19.43 USD |
 | RN1 | 24 | 17 | 0 | -20.92 USD |
-| quavoo | 20 | 40 | 59 | -31.53 USD |
+| quavoo | 20 | 40 | 60 | -31.53 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -167,6 +167,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Atletico Madrid win on 2026-08-09? | Yes (BUY) | 28% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Philadelphia Union win on 2026-08-0 | Yes (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Kawasaki Frontale win on 2026-08-09 | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will FK Austria Wien win on 2026-08-09? | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
@@ -195,5 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 69% | 0.65 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 54% | 0.71 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Over (BUY) | 46% | 0.62 | ⏳ pendiente | — |
-| quavoo | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 62% | 3.07 | ⏳ pendiente | — |
-| ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 53% | 0.45 | ⏳ pendiente | — |
