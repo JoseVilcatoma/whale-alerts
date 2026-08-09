@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 08:21:00 (hora de Perú)
+Actualizado: 2026-08-09 08:23:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $260.77
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 2 | 2 | 3 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 114 | -20.92 USD |
+| RN1 | 24 | 17 | 115 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 26 | 69 | 74 | -53.95 USD |
@@ -184,6 +184,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-fce-h96-2026-08-09-total-4pt5 | RN1, ferrariChampions2026 |
 | bl2-fce-h96-2026-08-09-h96 | RN1, ferrariChampions2026 |
 | bl2-fce-h96-2026-08-09-fce | RN1, ferrariChampions2026 |
+| ere-zwo-aja-2026-08-09-spread-away-1pt5 | RN1, quavoo |
 | scop-kil-cel-2026-08-09-cel | RN1, ferrariChampions2026 |
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
@@ -193,6 +194,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Spread: AFC Ajax (-1.5) | PEC Zwolle (BUY) | 77% | 1.87 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Level UP vs MOUZ (BO3) - EPL Mas | MOUZ (BUY) | 71% | 0.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kilmarnock FC vs. Celtic FC: O/U 3.5 | Over (BUY) | 87% | 0.78 | ⏳ pendiente | — |
 | RN1 | Will FC Utrecht win on 2026-08-09? | No (BUY) | 88% | 0.31 | ⏳ pendiente | — |
@@ -222,4 +224,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | PEC Zwolle vs. AFC Ajax: 1st Half O/U 0. | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Shanghai Haigang FC (-1.5) | Chongqing Tonglianglong FC (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will FC Utrecht win on 2026-08-09? | Yes (BUY) | 14% | 0.00 | ⏳ pendiente | — |
