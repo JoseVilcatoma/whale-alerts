@@ -1,5 +1,5 @@
 {
-  "bankroll": 166.13674184352504,
+  "bankroll": 166.16961540674345,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7105,6 +7105,26 @@
       "timestamp": 1786296193.829212,
       "bankroll": 166.14,
       "event": "won: ferrariChampions2026 \u2014 Spread: Liverpool FC (-1.5)"
+    },
+    {
+      "timestamp": 1786296315.8756707,
+      "bankroll": 166.14,
+      "event": "won: ferrariChampions2026 \u2014 Liverpool FC vs. AS Monaco: O/U 3.5"
+    },
+    {
+      "timestamp": 1786296316.239282,
+      "bankroll": 166.14,
+      "event": "won: ferrariChampions2026 \u2014 Liverpool FC vs. AS Monaco: O/U 3.5"
+    },
+    {
+      "timestamp": 1786296316.9402492,
+      "bankroll": 166.14,
+      "event": "won: ferrariChampions2026 \u2014 Liverpool FC vs. AS Monaco: O/U 3.5"
+    },
+    {
+      "timestamp": 1786296317.2406697,
+      "bankroll": 166.17,
+      "event": "won: ferrariChampions2026 \u2014 Liverpool FC vs. AS Monaco: O/U 3.5"
     }
   ]
 }
