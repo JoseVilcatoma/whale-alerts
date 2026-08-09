@@ -1,5 +1,5 @@
 {
-  "bankroll": 164.42412090124893,
+  "bankroll": 164.57885774335418,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7175,6 +7175,16 @@
       "timestamp": 1786301377.483761,
       "bankroll": 164.42,
       "event": "lost: quavoo \u2014 SC Heerenveen vs. FC Twente: O/U 1.5"
+    },
+    {
+      "timestamp": 1786301438.2555768,
+      "bankroll": 164.58,
+      "event": "won: UpTheBlues \u2014 SC Heerenveen vs. FC Twente: O/U 4.5"
+    },
+    {
+      "timestamp": 1786301438.5954087,
+      "bankroll": 164.58,
+      "event": "won: UpTheBlues \u2014 SC Heerenveen vs. FC Twente: O/U 4.5"
     }
   ]
 }

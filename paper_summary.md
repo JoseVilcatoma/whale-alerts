@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 13:49:55 (hora de Perú)
+Actualizado: 2026-08-09 13:51:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $164.42
-**Retorno acumulado:** -83.56%
+**Bankroll actual:** $164.58
+**Retorno acumulado:** -83.54%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,19 +13,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 55 | 48 | 38 | +28.65 USD |
+| 1winstreak1 | 55 | 48 | 40 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 9 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 80 | 47 | 2 | +7.11 USD |
+| UpTheBlues | 82 | 47 | 0 | +7.26 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 1 | +1.78 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 0 | 5 | +0.00 USD |
 | monkeymashingkeyboard | 0 | 0 | 3 | +0.00 USD |
-| theowalcott | 0 | 0 | 2 | +0.00 USD |
+| theowalcott | 0 | 0 | 3 | +0.00 USD |
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -205,6 +205,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Spread: Sport Lisboa e Benfica (-2.5) | Académico de Viseu FC (BUY) | 54% | 0.36 | ⏳ pendiente | — |
+| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 69% | 0.29 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: New York Yankees (-1.5) | New York Yankees (BUY) | 26% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 65% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Atlanta Braves (-2.5) | Atlanta Braves (BUY) | 18% | 0.00 | ⏳ pendiente | — |
@@ -232,6 +235,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 35% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Miami Marlins (-3.5) | Los Angeles Angels (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Atlanta Braves (-1.5) | New York Yankees (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 46% | 0.00 | ⏳ pendiente | — |
