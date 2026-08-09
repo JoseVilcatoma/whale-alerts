@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 22:03:41 (hora de Perú)
+Actualizado: 2026-08-08 22:05:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $388.39
-**Retorno acumulado:** -61.16%
-**Peor caída desde un máximo (drawdown):** 61.20%
+**Bankroll actual:** $382.82
+**Retorno acumulado:** -61.72%
+**Peor caída desde un máximo (drawdown):** 61.72%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | quavoo | 16 | 25 | 62 | +22.68 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 29 | 1 | +20.63 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 30 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 28 | 25 | 9 | +14.42 USD |
 | greyoctober | 7 | 0 | 6 | +12.95 USD |
@@ -26,14 +26,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
-| HomeRunHazard | 38 | 43 | 7 | -1.89 USD |
-| 1winstreak1 | 45 | 39 | 14 | -13.97 USD |
+| HomeRunHazard | 38 | 45 | 5 | -7.46 USD |
+| 1winstreak1 | 45 | 39 | 15 | -13.97 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 23 | 16 | 2 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 219 | 184 | 15 | -86.74 USD |
+| ferrariChampions2026 | 221 | 184 | 13 | -86.74 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 10 | -303.20 USD |
 
@@ -163,6 +163,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 24% | 0.57 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 38% | 1.18 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 88% | 2.46 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Seattle Mariners (-2.5) | Seattle Mariners (BUY) | 28% | 2.68 | ⏳ pendiente | — |
@@ -192,4 +193,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | UFC Fight Night: Diego Ferreira vs. Bill | Billy Quarantillo (BUY) | 19% | 2.18 | ❌ perdida | -2.18 |
 | quavoo | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 64% | 0.48 | ⏳ pendiente | — |
 | quavoo | Will Los Angeles FC win on 2026-08-08? | Yes (BUY) | 39% | 0.54 | ⏳ pendiente | — |
-| ferrariChampions2026 | Instituto AC Córdoba vs. CA Gimnasia y E | Over (BUY) | 47% | 0.57 | ✅ ganada | +0.64 |

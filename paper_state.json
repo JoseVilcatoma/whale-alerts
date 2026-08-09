@@ -1,5 +1,5 @@
 {
-  "bankroll": 388.3884997219539,
+  "bankroll": 382.8184997219539,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4960,6 +4960,31 @@
       "timestamp": 1786244430.3019261,
       "bankroll": 388.39,
       "event": "won: wr0ngw4yb3tt0r \u2014 UFC Fight Night: Mateusz Gamrot vs. Quillan Salkilld (Lightweight, Main Card)"
+    },
+    {
+      "timestamp": 1786244714.6280239,
+      "bankroll": 382.82,
+      "event": "lost: HomeRunHazard \u2014 Seattle Storm vs. Portland Fire: O/U 179.5"
+    },
+    {
+      "timestamp": 1786244714.72821,
+      "bankroll": 382.82,
+      "event": "lost: HomeRunHazard \u2014 Seattle Storm vs. Portland Fire: O/U 179.5"
+    },
+    {
+      "timestamp": 1786244715.905256,
+      "bankroll": 382.82,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Cloud9 vs Disguised (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1786244720.308522,
+      "bankroll": 382.82,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Cloud9 vs Disguised (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1786244720.9079316,
+      "bankroll": 382.82,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs Disguised (BO3) - LCS Regular Season"
     }
   ]
 }
