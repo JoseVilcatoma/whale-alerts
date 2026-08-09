@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 08:23:04 (hora de Perú)
+Actualizado: 2026-08-09 08:25:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $260.77
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 2 | 2 | 3 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 115 | -20.92 USD |
+| RN1 | 24 | 17 | 118 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 26 | 69 | 74 | -53.95 USD |
@@ -194,6 +194,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Johor Darul Ta'zim vs. Chelsea FC e | No (BUY) | 86% | 1.25 | ⏳ pendiente | — |
+| RN1 | Spread: AFC Ajax (-1.5) | PEC Zwolle (BUY) | 77% | 0.31 | ⏳ pendiente | — |
+| RN1 | Spread: AFC Ajax (-1.5) | PEC Zwolle (BUY) | 77% | 0.31 | ⏳ pendiente | — |
 | RN1 | Spread: AFC Ajax (-1.5) | PEC Zwolle (BUY) | 77% | 1.87 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Level UP vs MOUZ (BO3) - EPL Mas | MOUZ (BUY) | 71% | 0.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kilmarnock FC vs. Celtic FC: O/U 3.5 | Over (BUY) | 87% | 0.78 | ⏳ pendiente | — |
@@ -221,6 +224,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Cruzeiro EC vs. Mirassol FC: O/U 2.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Johor Darul Ta'zim vs. Chelsea FC: O/U 3 | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Hannover 96 win on 2026-08-09? | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| RN1 | PEC Zwolle vs. AFC Ajax: 1st Half O/U 0. | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Shanghai Haigang FC (-1.5) | Chongqing Tonglianglong FC (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |

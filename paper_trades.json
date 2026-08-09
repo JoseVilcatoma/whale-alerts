@@ -32375,5 +32375,69 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786281767.8369153,
     "fills": 2
+  },
+  {
+    "timestamp": 1786281785,
+    "timestamp_added": 1786281785.8952951,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "ere-zwo-aja-2026-08-09-spread-away-1pt5",
+    "title": "Spread: AFC Ajax (-1.5)",
+    "outcome": "PEC Zwolle",
+    "side": "BUY",
+    "whale_usd": 334.782608,
+    "whale_pct": 0.12,
+    "paper_stake_usd": 0.31,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786281785.8953056,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786281824,
+    "timestamp_added": 1786281824.8898315,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "ere-zwo-aja-2026-08-09-spread-away-1pt5",
+    "title": "Spread: AFC Ajax (-1.5)",
+    "outcome": "PEC Zwolle",
+    "side": "BUY",
+    "whale_usd": 334.782608,
+    "whale_pct": 0.12,
+    "paper_stake_usd": 0.31,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786281824.889842,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786281881,
+    "timestamp_added": 1786281881.6949775,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-joh-cfc-2026-08-09-draw",
+    "title": "Will Johor Darul Ta'zim vs. Chelsea FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1351.06,
+    "whale_pct": 0.481,
+    "paper_stake_usd": 1.25,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786281881.694988,
+    "fills": 1
   }
 ]
