@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 22:40:38 (hora de Perú)
+Actualizado: 2026-08-08 22:42:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $384.70
-**Retorno acumulado:** -61.53%
+**Bankroll actual:** $383.32
+**Retorno acumulado:** -61.67%
 **Peor caída desde un máximo (drawdown):** 61.82%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 28 | 25 | 11 | +14.42 USD |
 | greyoctober | 7 | 0 | 7 | +12.95 USD |
-| UpTheBlues | 67 | 41 | 14 | +9.22 USD |
+| UpTheBlues | 73 | 42 | 7 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | swisstony | 2 | 0 | 0 | +2.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
@@ -26,14 +26,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
-| HomeRunHazard | 38 | 45 | 5 | -7.46 USD |
-| 1winstreak1 | 45 | 39 | 16 | -13.97 USD |
+| HomeRunHazard | 39 | 45 | 4 | -1.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
+| 1winstreak1 | 46 | 42 | 12 | -20.69 USD |
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 222 | 186 | 16 | -85.85 USD |
+| ferrariChampions2026 | 224 | 186 | 14 | -85.52 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 11 | -303.20 USD |
 

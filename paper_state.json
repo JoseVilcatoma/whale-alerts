@@ -1,5 +1,5 @@
 {
-  "bankroll": 384.70444137509423,
+  "bankroll": 383.31609075297,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5040,6 +5040,76 @@
       "timestamp": 1786245960.5957015,
       "bankroll": 384.7,
       "event": "won: UpTheBlues \u2014 Will Clube do Remo win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786246867.9618762,
+      "bankroll": 390.5,
+      "event": "won: HomeRunHazard \u2014 Seattle Storm vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786246881.0379088,
+      "bankroll": 390.57,
+      "event": "won: UpTheBlues \u2014 Spread: Associa\u00e7\u00e3o Chapecoense de Futebol (-2.5)"
+    },
+    {
+      "timestamp": 1786246881.1380494,
+      "bankroll": 390.58,
+      "event": "won: UpTheBlues \u2014 Spread: Associa\u00e7\u00e3o Chapecoense de Futebol (-2.5)"
+    },
+    {
+      "timestamp": 1786246881.4833193,
+      "bankroll": 389.71,
+      "event": "lost: UpTheBlues \u2014 Coritiba FBC vs. Associa\u00e7\u00e3o Chapecoense de Futebol: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786246881.8597958,
+      "bankroll": 389.71,
+      "event": "won: UpTheBlues \u2014 Will Associa\u00e7\u00e3o Chapecoense de Futebol win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786246882.1636093,
+      "bankroll": 389.71,
+      "event": "won: UpTheBlues \u2014 Spread: Associa\u00e7\u00e3o Chapecoense de Futebol (-1.5)"
+    },
+    {
+      "timestamp": 1786246882.9188895,
+      "bankroll": 389.71,
+      "event": "won: UpTheBlues \u2014 Coritiba FBC vs. Associa\u00e7\u00e3o Chapecoense de Futebol: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786246883.3943622,
+      "bankroll": 389.71,
+      "event": "won: UpTheBlues \u2014 Will Associa\u00e7\u00e3o Chapecoense de Futebol win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786246884.095304,
+      "bankroll": 384.8,
+      "event": "lost: 1winstreak1 \u2014 Seattle Storm vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786246886.7455375,
+      "bankroll": 384.8,
+      "event": "won: 1winstreak1 \u2014 Seattle Storm vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786246887.2917864,
+      "bankroll": 383.89,
+      "event": "lost: 1winstreak1 \u2014 Seattle Storm vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786246887.3919308,
+      "bankroll": 384.05,
+      "event": "won: ferrariChampions2026 \u2014 Seattle Storm vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786246887.9366431,
+      "bankroll": 384.22,
+      "event": "won: ferrariChampions2026 \u2014 Seattle Storm vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786246888.0367713,
+      "bankroll": 383.32,
+      "event": "lost: 1winstreak1 \u2014 Seattle Storm vs. PortlandFire"
     }
   ]
 }
