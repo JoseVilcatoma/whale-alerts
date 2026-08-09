@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 15:55:01 (hora de Perú)
+Actualizado: 2026-08-09 15:57:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $170.82
@@ -13,10 +13,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 79 | 55 | 30 | +31.24 USD |
+| 1winstreak1 | 79 | 55 | 32 | +31.24 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 37 | 33 | 7 | +12.14 USD |
+| wr0ngw4yb3tt0r | 37 | 33 | 8 | +12.14 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 25 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 30 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -213,6 +213,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 64% | 2.25 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Detroit Tigers (-1.5) | Detroit Tigers (BUY) | 24% | 1.14 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 72% | 0.24 | ⏳ pendiente | — |
+| ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 37% | 0.23 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CSyD Defensa y Justicia win on 2026 | Yes (BUY) | 49% | 0.61 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Dallas Wings vs. Minnesota Lynx | Dallas Wings (BUY) | 27% | 0.25 | ⏳ pendiente | — |
+| 1winstreak1 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 22% | 0.21 | ⏳ pendiente | — |
+| 1winstreak1 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 46% | 0.18 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Arizona Diamondbacks (-2.5) | Arizona Diamondbacks (BUY) | 56% | 0.22 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 55% | 0.71 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
@@ -235,11 +243,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Minnesota Twins vs. Milwaukee Brewers: O | Under (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Minnesota Twins vs. Milwaukee Brewers: O | Over (BUY) | 27% | 3.40 | ⏳ pendiente | — |
 | RN1 | Spread: Milwaukee Brewers (-1.5) | Minnesota Twins (BUY) | 75% | 0.55 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 26% | 6.18 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 46% | 0.26 | ⏳ pendiente | — |
-| quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 46% | 0.18 | ⏳ pendiente | — |
-| RN1 | Will San Martin de Tucuman win on 2026-0 | Yes (BUY) | 40% | 0.72 | ⏳ pendiente | — |
-| 1winstreak1 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 74% | 5.75 | ⏳ pendiente | — |
-| quavoo | Will Once Caldas win on 2026-08-09? | Yes (BUY) | 49% | 0.33 | ⏳ pendiente | — |
-| RN1 | Will FC Argeș Pitești win on 2026-08-08? | Yes (BUY) | 74% | 0.18 | ⏳ pendiente | — |
-| RN1 | Will CA Bucaramanga win on 2026-08-10? | No (BUY) | 62% | 0.34 | ⏳ pendiente | — |
