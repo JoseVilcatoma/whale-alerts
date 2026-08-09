@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 20:35:41 (hora de Perú)
+Actualizado: 2026-08-08 20:37:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $480.42
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 31 | 29 | 22 | -5.53 USD |
+| 1winstreak1 | 31 | 29 | 23 | -5.53 USD |
 | wr0ngw4yb3tt0r | 21 | 16 | 19 | -10.16 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 20 | 16 | 5 | -20.97 USD |
@@ -156,6 +156,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 96% | 7.02 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 66% | 1.48 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Baltimore Orioles (-1.5) | Baltimore Orioles (BUY) | 14% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 27% | 0.00 | ⏳ pendiente | — |
@@ -185,4 +186,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Club León FC win on 2026-08-08? | No (BUY) | 74% | 1.05 | ⏳ pendiente | — |
 | UpTheBlues | Will Washington Spirit win on 2026-08-08 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Fluminense FC win on 2026-08-08? | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 94% | 0.00 | ⏳ pendiente | — |
