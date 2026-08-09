@@ -5565,6 +5565,16 @@
       "timestamp": 1786257588.9325686,
       "bankroll": 351.5,
       "event": "won: ferrariChampions2026 \u2014 Will Real Salt Lake win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786259011.233005,
+      "bankroll": 351.5,
+      "event": "lost: quavoo \u2014 Will Club Alianza Lima win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786259011.533401,
+      "bankroll": 351.5,
+      "event": "lost: UpTheBlues \u2014 Will Club Alianza Lima win on 2026-08-08?"
     }
   ]
 }

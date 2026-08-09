@@ -20113,8 +20113,8 @@
     "whale_pct": 0.126,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786226881.6366765,
@@ -22603,8 +22603,8 @@
     "whale_pct": 0.135,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "quavoo"
     ],
