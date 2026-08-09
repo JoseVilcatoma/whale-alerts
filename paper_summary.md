@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 18:17:27 (hora de Perú)
+Actualizado: 2026-08-09 18:19:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.25
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 62 | 89 | 45 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 344 | 251 | 89 | -91.86 USD |
+| ferrariChampions2026 | 344 | 251 | 91 | -91.86 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -237,6 +237,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 62% | 0.63 | ⏳ pendiente | — |
+| ferrariChampions2026 | CR Flamengo vs. EC Vitória: O/U 2.5 | Over (BUY) | 50% | 3.32 | ⏳ pendiente | — |
 | RN1 | CR Flamengo vs. EC Vitória: O/U 2.5 | Under (BUY) | 45% | 0.35 | ⏳ pendiente | — |
 | quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 45% | 1.02 | ⏳ pendiente | — |
 | quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 45% | 0.71 | ⏳ pendiente | — |
@@ -265,5 +267,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Once Caldas win on 2026-08-09? | Yes (BUY) | 42% | 0.44 | ⏳ pendiente | — |
 | quavoo | Will Nashville SC win on 2026-08-09? | Yes (BUY) | 55% | 0.33 | ⏳ pendiente | — |
 | RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 98% | 0.40 | ⏳ pendiente | — |
-| quavoo | Valorant: LOUD vs 100 Thieves (BO3) - VC | LOUD (BUY) | 30% | 0.76 | ⏳ pendiente | — |
-| quavoo | Will Philadelphia Union win on 2026-08-0 | Yes (BUY) | 62% | 0.43 | ⏳ pendiente | — |

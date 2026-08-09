@@ -39518,5 +39518,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786317385.9857085,
     "fills": 1
+  },
+  {
+    "timestamp": 1786317488,
+    "timestamp_added": 1786317488.469171,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-fla-vit-2026-08-09-total-2pt5",
+    "title": "CR Flamengo vs. EC Vit\u00f3ria: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 4359.21,
+    "whale_pct": 1.152,
+    "paper_stake_usd": 3.32,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786317488.46918,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786317566,
+    "timestamp_added": 1786317567.1708987,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "arg-aaj-rac-2026-08-09-total-1pt5",
+    "title": "AA Argentinos Juniors vs. Racing Club: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 844.9918,
+    "whale_pct": 0.22,
+    "paper_stake_usd": 0.63,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786317567.170908,
+    "fills": 1
   }
 ]
