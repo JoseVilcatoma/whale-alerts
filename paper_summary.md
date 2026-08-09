@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 23:09:45 (hora de Perú)
+Actualizado: 2026-08-08 23:11:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $385.82
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| quavoo | 16 | 25 | 62 | +22.68 USD |
+| quavoo | 16 | 25 | 63 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 30 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 11 | +12.95 USD |
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 225 | 186 | 20 | -85.52 USD |
+| ferrariChampions2026 | 225 | 186 | 21 | -85.52 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 11 | -303.20 USD |
 
@@ -166,6 +166,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Over (BUY) | 46% | 0.62 | ⏳ pendiente | — |
+| quavoo | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 62% | 3.07 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 53% | 0.45 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 7.53 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 0.19 | ⏳ pendiente | — |
@@ -194,5 +196,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Seattle Mariners (-2.5) | Seattle Mariners (BUY) | 28% | 2.68 | ⏳ pendiente | — |
 | quavoo | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 60% | 4.78 | ⏳ pendiente | — |
 | quavoo | Deportivo Toluca FC vs. Los Angeles FC:  | Yes (BUY) | 65% | 0.42 | ⏳ pendiente | — |
-| quavoo | Spread: Minnesota Lynx (-7.5) | Minnesota Lynx (BUY) | 48% | 0.41 | ⏳ pendiente | — |
-| quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 50% | 2.89 | ⏳ pendiente | — |
