@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 18:06:53 (hora de Perú)
+Actualizado: 2026-08-09 18:08:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.25
@@ -32,13 +32,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 85 | 42 | 72 | -20.01 USD |
+| RN1 | 85 | 42 | 75 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 62 | 89 | 37 | -55.81 USD |
+| quavoo | 62 | 89 | 40 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 344 | 251 | 87 | -91.86 USD |
+| ferrariChampions2026 | 344 | 251 | 89 | -91.86 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -204,6 +204,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-th-g2-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-total-8pt5 | 1winstreak1, SDTrading |
 | mlb-atl-nyy-2026-08-09-total-8pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| wnba-gsv-la-2026-08-09-total-169pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-cin-wsh-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-spread-home-2pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-spread-home-1pt5 | 1winstreak1, RN1 |
@@ -233,6 +234,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will CA Paranaense win on 2026-08-09? | Yes (BUY) | 96% | 0.39 | ⏳ pendiente | — |
+| quavoo | Spread: New York City FC (-1.5) | CF Cruz Azul (BUY) | 88% | 1.55 | ⏳ pendiente | — |
+| ferrariChampions2026 | Golden State Valkyries vs. Los Angeles S | Under (BUY) | 47% | 0.39 | ⏳ pendiente | — |
+| RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 99% | 0.39 | ⏳ pendiente | — |
+| RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 99% | 0.39 | ⏳ pendiente | — |
+| quavoo | Will Once Caldas win on 2026-08-09? | Yes (BUY) | 42% | 0.44 | ⏳ pendiente | — |
+| ferrariChampions2026 | Golden State Valkyries vs. Los Angeles S | Los Angeles Sparks (BUY) | 24% | 0.79 | ⏳ pendiente | — |
+| quavoo | Will Racing Club win on 2026-08-09? | Yes (BUY) | 22% | 1.11 | ⏳ pendiente | — |
 | quavoo | Will Austin FC win on 2026-08-09? | Yes (BUY) | 58% | 0.91 | ⏳ pendiente | — |
 | quavoo | Will Once Caldas win on 2026-08-09? | Yes (BUY) | 42% | 0.49 | ⏳ pendiente | — |
 | RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 98% | 0.39 | ⏳ pendiente | — |
@@ -255,11 +264,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 21% | 0.43 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 40% | 2.13 | ⏳ pendiente | — |
 | RN1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 56% | 0.66 | ⏳ pendiente | — |
-| RN1 | Will CR Flamengo win on 2026-08-09? | Yes (BUY) | 80% | 0.33 | ⏳ pendiente | — |
-| RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 94% | 0.40 | ⏳ pendiente | — |
-| RN1 | Will CR Flamengo win on 2026-08-09? | Yes (BUY) | 79% | 0.84 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: FlyQuest vs Team Liquid - Game 2 Wi | Team Liquid (BUY) | 70% | 0.67 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: FlyQuest vs Team Liquid - Game 2 Wi | Team Liquid (BUY) | 68% | 0.61 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: FlyQuest vs Team Liquid - Game 2 Wi | Team Liquid (BUY) | 66% | 0.59 | ⏳ pendiente | — |
-| 1winstreak1 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 31% | 0.43 | ⏳ pendiente | — |
-| cigarettes | Will CSyD Defensa y Justicia win on 2026 | Yes (BUY) | 95% | 1.67 | ⏳ pendiente | — |
