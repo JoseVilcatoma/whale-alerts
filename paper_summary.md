@@ -1,9 +1,9 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 17:31:20 (hora de Perú)
+Actualizado: 2026-08-09 17:33:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $288.18
+**Bankroll actual:** $288.25
 **Retorno acumulado:** -71.18%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 62 | 89 | 27 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 85 | -91.93 USD |
+| ferrariChampions2026 | 344 | 251 | 84 | -91.86 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -233,6 +233,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: FlyQuest vs Team Liquid - Game 2 Wi | Team Liquid (BUY) | 68% | 0.61 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: FlyQuest vs Team Liquid - Game 2 Wi | Team Liquid (BUY) | 66% | 0.59 | ⏳ pendiente | — |
 | 1winstreak1 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 31% | 0.43 | ⏳ pendiente | — |
 | cigarettes | Will CSyD Defensa y Justicia win on 2026 | Yes (BUY) | 95% | 1.67 | ⏳ pendiente | — |
@@ -262,4 +263,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 28% | 0.34 | ⏳ pendiente | — |
 | RN1 | Red Bull Bragantino vs. SC Corinthians P | Under (BUY) | 95% | 0.43 | ⏳ pendiente | — |
 | RN1 | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 17% | 0.34 | ⏳ pendiente | — |
-| ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 40% | 0.29 | ⏳ pendiente | — |

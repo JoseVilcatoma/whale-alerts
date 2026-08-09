@@ -1,5 +1,5 @@
 {
-  "bankroll": 288.1804543950973,
+  "bankroll": 288.2484319231872,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7780,6 +7780,16 @@
       "timestamp": 1786312267.2989101,
       "bankroll": 288.18,
       "event": "won: greyoctober \u2014 Valorant: Gentle Mates vs Enterprise Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786314778.8091261,
+      "bankroll": 288.25,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Fnatic vs Karmine Corp (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1786314778.9093082,
+      "bankroll": 288.25,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Fnatic vs Karmine Corp (BO3) - LEC Regular Season"
     }
   ]
 }
