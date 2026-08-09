@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 08:54:03 (hora de Perú)
+Actualizado: 2026-08-09 08:56:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $260.77
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 26 | 70 | 74 | -53.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 1 | 7 | 5 | -89.64 USD |
-| ferrariChampions2026 | 245 | 198 | 94 | -91.43 USD |
+| ferrariChampions2026 | 245 | 198 | 95 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 12 | 38 | 7 | -298.46 USD |
 
@@ -139,6 +139,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | arg-boc-vel-2026-08-08-spread-home-1pt5 | RN1, UpTheBlues |
 | arg-tig-riv-2026-08-08-total-1pt5 | RN1, ferrariChampions2026 |
 | lec-orl-leo-2026-08-08-orl | UpTheBlues, ferrariChampions2026, quavoo |
+| bra-cru-mir-2026-08-09-cru | ferrariChampions2026, quavoo |
 | mlb-nym-pit-2026-08-08-total-9pt5 | 1winstreak1, HomeRunHazard |
 | mlb-oak-bos-2026-08-08-total-10pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-nym-pit-2026-08-08-total-7pt5 | HomeRunHazard, quavoo |
@@ -191,6 +192,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Cruzeiro EC win on 2026-08-09? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: 1st | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 49% | 27.19 | ⏳ pendiente | — |
 | quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 46% | 1.17 | ⏳ pendiente | — |
@@ -220,4 +222,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Atletico Madrid win on 2026-08-09? | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will SpVgg Greuther Fürth win on 2026-08 | Yes (BUY) | 17% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |

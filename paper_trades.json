@@ -31139,5 +31139,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786283600.8701906,
     "fills": 1
+  },
+  {
+    "timestamp": 1786283684,
+    "timestamp_added": 1786283685.1007583,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-cru-mir-2026-08-09-cru",
+    "title": "Will Cruzeiro EC win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 2565.489999,
+    "whale_pct": 0.912,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786283685.1007679,
+    "fills": 1
   }
 ]
