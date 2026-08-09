@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 13:14:24 (hora de Perú)
+Actualizado: 2026-08-09 13:16:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $164.48
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 55 | 48 | 13 | +28.65 USD |
+| 1winstreak1 | 55 | 48 | 15 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 9 | +11.82 USD |
@@ -196,12 +196,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-th-g2-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-total-8pt5 | 1winstreak1, SDTrading |
 | mlb-atl-nyy-2026-08-09-total-8pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-cin-wsh-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-spread-home-2pt5 | 1winstreak1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Miami Marlins (-3.5) | Los Angeles Angels (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Atlanta Braves (-1.5) | New York Yankees (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Atlanta Braves vs. New York Yankees: O/U | Under (BUY) | 46% | 0.00 | ⏳ pendiente | — |
@@ -230,5 +233,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Las Vegas Aces vs. New York Liberty: O/U | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Fnatic vs Karmine Corp (BO3) - LEC  | Karmine Corp (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Ryan Gusto: Strikeouts O/U 4.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Atlanta Braves vs. New York Yankees: O/U | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Ryan Gusto: Strikeouts O/U 4.5 | Under (BUY) | 51% | 0.81 | ⏳ pendiente | — |
