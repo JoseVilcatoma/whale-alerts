@@ -6940,6 +6940,46 @@
       "timestamp": 1786293033.7636373,
       "bankroll": 163.08,
       "event": "won: RN1 \u2014 Will Kilmarnock FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786293090.387871,
+      "bankroll": 163.08,
+      "event": "won: ferrariChampions2026 \u2014 Will Shandong Taishan FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786293090.883828,
+      "bankroll": 163.08,
+      "event": "won: RN1 \u2014 FC Groningen vs. FC Utrecht: O/U 2.5"
+    },
+    {
+      "timestamp": 1786293091.6367242,
+      "bankroll": 163.08,
+      "event": "won: ferrariChampions2026 \u2014 Kilmarnock FC vs. Celtic FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786293091.736833,
+      "bankroll": 163.08,
+      "event": "won: ferrariChampions2026 \u2014 Kilmarnock FC vs. Celtic FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786293092.4233224,
+      "bankroll": 163.08,
+      "event": "won: RN1 \u2014 Kilmarnock FC vs. Celtic FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786293092.7237546,
+      "bankroll": 163.08,
+      "event": "won: ferrariChampions2026 \u2014 Kilmarnock FC vs. Celtic FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786293092.8239005,
+      "bankroll": 163.08,
+      "event": "won: ferrariChampions2026 \u2014 Kilmarnock FC vs. Celtic FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786293093.1710978,
+      "bankroll": 163.08,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Celtic FC (-1.5)"
     }
   ]
 }
