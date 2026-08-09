@@ -32319,5 +32319,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786289928.0292597,
     "fills": 1
+  },
+  {
+    "timestamp": 1786290097,
+    "timestamp_added": 1786290097.6187105,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "scop-ran-hib-2026-08-09-draw",
+    "title": "Will Rangers FC vs. Hibernian FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 345.0,
+    "whale_pct": 0.11,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786290097.6187193,
+    "fills": 1
   }
 ]

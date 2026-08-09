@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 10:40:56 (hora de Perú)
+Actualizado: 2026-08-09 10:42:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $156.16
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 2 | -89.94 USD |
-| ferrariChampions2026 | 261 | 214 | 99 | -91.43 USD |
+| ferrariChampions2026 | 261 | 214 | 100 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 14 | 38 | 5 | -298.46 USD |
 
@@ -197,6 +197,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Rangers FC vs. Hibernian FC end in  | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team Heretics vs G2 Esports - Game  | G2 Esports (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | monkeymashingkeyboard | Spread: Washington Mystics (-1.5) | Washington Mystics (BUY) | 50% | 0.00 | ⏳ pendiente | — |
@@ -226,4 +227,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Motherwell FC win on 2026-08-08? | Yes (BUY) | 38% | 0.61 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 75% | 1.22 | ⏳ pendiente | — |
 | ferrariChampions2026 | Motherwell FC vs. Falkirk FC: O/U 0.5 | Over (BUY) | 70% | 0.55 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Rangers FC win on 2026-08-09? | Yes (BUY) | 70% | 0.42 | ⏳ pendiente | — |
