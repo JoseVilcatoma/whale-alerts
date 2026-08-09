@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 18:15:25 (hora de Perú)
+Actualizado: 2026-08-09 18:17:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.25
@@ -32,10 +32,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 85 | 42 | 78 | -20.01 USD |
+| RN1 | 85 | 42 | 79 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 62 | 89 | 43 | -55.81 USD |
+| quavoo | 62 | 89 | 45 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | ferrariChampions2026 | 344 | 251 | 89 | -91.86 USD |
@@ -230,12 +230,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cle-cws-2026-08-09-spread-home-2pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tb-sea-2026-08-09-total-5pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-cle-cws-2026-08-09-total-7pt5 | 1winstreak1, RN1, wr0ngw4yb3tt0r |
+| bra-fla-vit-2026-08-09-total-2pt5 | RN1, ferrariChampions2026 |
 | arg-aaj-rac-2026-08-09-rac | RN1, quavoo |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | CR Flamengo vs. EC Vitória: O/U 2.5 | Under (BUY) | 45% | 0.35 | ⏳ pendiente | — |
+| quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 45% | 1.02 | ⏳ pendiente | — |
+| quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 45% | 0.71 | ⏳ pendiente | — |
 | RN1 | Will Racing Club win on 2026-08-09? | No (BUY) | 78% | 0.32 | ⏳ pendiente | — |
 | quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 45% | 0.88 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Over (BUY) | 32% | 0.80 | ⏳ pendiente | — |
@@ -263,6 +267,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 98% | 0.40 | ⏳ pendiente | — |
 | quavoo | Valorant: LOUD vs 100 Thieves (BO3) - VC | LOUD (BUY) | 30% | 0.76 | ⏳ pendiente | — |
 | quavoo | Will Philadelphia Union win on 2026-08-0 | Yes (BUY) | 62% | 0.43 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 79% | 0.44 | ⏳ pendiente | — |
-| quavoo | Will Philadelphia Union win on 2026-08-0 | Yes (BUY) | 62% | 0.68 | ⏳ pendiente | — |
-| RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 98% | 0.40 | ⏳ pendiente | — |
