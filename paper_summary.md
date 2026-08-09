@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 17:54:27 (hora de Perú)
+Actualizado: 2026-08-09 17:56:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.25
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 85 | 42 | 69 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 62 | 89 | 31 | -55.81 USD |
+| quavoo | 62 | 89 | 33 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | ferrariChampions2026 | 344 | 251 | 87 | -91.86 USD |
@@ -233,6 +233,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Once Caldas win on 2026-08-09? | Yes (BUY) | 42% | 0.44 | ⏳ pendiente | — |
+| quavoo | Will Nashville SC win on 2026-08-09? | Yes (BUY) | 55% | 0.33 | ⏳ pendiente | — |
 | RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 98% | 0.40 | ⏳ pendiente | — |
 | quavoo | Valorant: LOUD vs 100 Thieves (BO3) - VC | LOUD (BUY) | 30% | 0.76 | ⏳ pendiente | — |
 | quavoo | Will Philadelphia Union win on 2026-08-0 | Yes (BUY) | 62% | 0.43 | ⏳ pendiente | — |
@@ -261,5 +263,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 52% | 0.38 | ⏳ pendiente | — |
 | theowalcott | Will Once Caldas win on 2026-08-09? | No (BUY) | 57% | 0.89 | ⏳ pendiente | — |
 | theowalcott | Will Once Caldas win on 2026-08-09? | No (BUY) | 57% | 6.62 | ⏳ pendiente | — |
-| theowalcott | Will Once Caldas win on 2026-08-09? | No (BUY) | 57% | 4.64 | ⏳ pendiente | — |
-| RN1 | Will Once Caldas win on 2026-08-09? | Yes (BUY) | 43% | 1.27 | ⏳ pendiente | — |

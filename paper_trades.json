@@ -38954,5 +38954,48 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786316010.906178,
     "fills": 1
+  },
+  {
+    "timestamp": 1786316129,
+    "timestamp_added": 1786316129.7031577,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lec-nas-asl-2026-08-09-nas",
+    "title": "Will Nashville SC win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 313.5,
+    "whale_pct": 0.114,
+    "paper_stake_usd": 0.33,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786316129.7031682,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786316133,
+    "timestamp_added": 1786316133.8834374,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "col1-jdc-onc-2026-08-09-onc",
+    "title": "Will Once Caldas win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 423.35999999999996,
+    "whale_pct": 0.153,
+    "paper_stake_usd": 0.44,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "theowalcott"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786316133.8834467,
+    "fills": 1
   }
 ]
