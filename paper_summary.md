@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 15:04:58 (hora de Perú)
+Actualizado: 2026-08-09 15:07:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $167.52
-**Retorno acumulado:** -83.25%
+**Bankroll actual:** $168.09
+**Retorno acumulado:** -83.19%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 66 | 50 | 30 | +28.93 USD |
+| 1winstreak1 | 67 | 50 | 29 | +28.93 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 35 | 32 | 9 | +11.82 USD |
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 331 | 250 | 17 | -93.57 USD |
+| ferrariChampions2026 | 333 | 250 | 15 | -93.00 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 19 | 38 | 7 | -298.46 USD |
 
@@ -216,7 +216,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 84% | 0.00 | ✅ ganada | +0.00 |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 65% | 0.00 | ✅ ganada | +0.00 |
 | 1winstreak1 | Spread: Atlanta Braves (-2.5) | Atlanta Braves (BUY) | 18% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 69% | 0.00 | ✅ ganada | +0.00 |
 | 1winstreak1 | Spread: Philadelphia Phillies (-2.5) | Toronto Blue Jays (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Texas Rangers (-1.5) | Texas Rangers (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |

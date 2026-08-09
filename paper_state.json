@@ -1,5 +1,5 @@
 {
-  "bankroll": 167.51861684109596,
+  "bankroll": 168.09049184109597,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7480,6 +7480,21 @@
       "timestamp": 1786305705.4591076,
       "bankroll": 167.52,
       "event": "lost: Djdjdjekekek \u2014 Counter-Strike: 100 Thieves vs 1WIN (BO3) - Esports World Cup Open Qualifier Play-Ins"
+    },
+    {
+      "timestamp": 1786306020.9233932,
+      "bankroll": 167.72,
+      "event": "won: ferrariChampions2026 \u2014 Will Olympique Marseille win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786306021.332897,
+      "bankroll": 168.09,
+      "event": "won: ferrariChampions2026 \u2014 Will Olympique Marseille win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786306030.9776735,
+      "bankroll": 168.09,
+      "event": "won: 1winstreak1 \u2014 Toronto Blue Jays vs. Philadelphia Phillies: O/U 7.5"
     }
   ]
 }
