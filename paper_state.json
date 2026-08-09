@@ -1,5 +1,5 @@
 {
-  "bankroll": 171.90804541424484,
+  "bankroll": 172.2412876485494,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7350,6 +7350,76 @@
       "timestamp": 1786303020.7262404,
       "bankroll": 171.91,
       "event": "lost: ferrariChampions2026 \u2014 Will Rangers FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786303075.8283126,
+      "bankroll": 171.96,
+      "event": "won: ferrariChampions2026 \u2014 Rangers FC vs. Hibernian FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786303076.4884381,
+      "bankroll": 171.97,
+      "event": "won: ferrariChampions2026 \u2014 Rangers FC vs. Hibernian FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786303076.6887288,
+      "bankroll": 171.97,
+      "event": "won: ferrariChampions2026 \u2014 Rangers FC vs. Hibernian FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786303076.9431052,
+      "bankroll": 171.97,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Rangers FC (-1.5)"
+    },
+    {
+      "timestamp": 1786303077.6441238,
+      "bankroll": 171.97,
+      "event": "won: ferrariChampions2026 \u2014 Rangers FC vs. Hibernian FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786303078.34512,
+      "bankroll": 171.97,
+      "event": "won: ferrariChampions2026 \u2014 Rangers FC vs. Hibernian FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786303078.9459243,
+      "bankroll": 172.1,
+      "event": "won: ferrariChampions2026 \u2014 Rangers FC vs. Hibernian FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786303079.0460644,
+      "bankroll": 172.24,
+      "event": "won: ferrariChampions2026 \u2014 Rangers FC vs. Hibernian FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786303136.4617088,
+      "bankroll": 172.24,
+      "event": "lost: SDTrading \u2014 Cincinnati Reds vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786303136.5618627,
+      "bankroll": 172.24,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Cincinnati Reds vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786303138.2636206,
+      "bankroll": 172.24,
+      "event": "lost: SDTrading \u2014 Cincinnati Reds vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786303142.2232347,
+      "bankroll": 172.24,
+      "event": "won: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786303143.224607,
+      "bankroll": 172.24,
+      "event": "won: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786303144.7265673,
+      "bankroll": 172.24,
+      "event": "won: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 9.5"
     }
   ]
 }
