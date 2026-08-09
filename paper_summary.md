@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 18:59:52 (hora de Perú)
+Actualizado: 2026-08-08 19:02:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $469.84
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 29 | 24 | 35 | +16.40 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 28 | 30 | +7.78 USD |
+| UpTheBlues | 39 | 28 | 33 | +7.78 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -143,6 +143,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Botafogo FR vs. Fluminense FC end i | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Orlando City SC win on 2026-08-08? | No (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Instituto AC Córdoba vs. CA Gimnasia y E | Over (BUY) | 21% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Orlando City SC vs. Club León FC: O/U 1. | Over (BUY) | 99% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Associação Chapecoense de Futebo | Coritiba FBC (BUY) | 97% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Toronto Blue Jays (-1.5) | Philadelphia Phillies (BUY) | 50% | 0.00 | ⏳ pendiente | — |
@@ -170,6 +173,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 49% | 1.23 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 1.45 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 35% | 2.62 | ⏳ pendiente | — |
-| UpTheBlues | Will CD Coquimbo Unido vs. CD La Serena  | No (BUY) | 70% | 10.33 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Orlando City SC win on 2026-08-08? | Yes (BUY) | 42% | 0.79 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | O/U 2.5 Rounds | Under (BUY) | 64% | 5.57 | ⏳ pendiente | — |
