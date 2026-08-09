@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 08:37:36 (hora de Perú)
+Actualizado: 2026-08-09 08:39:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $260.77
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 55 | 47 | 1 | +28.65 USD |
+| 1winstreak1 | 55 | 48 | 0 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 43 | 30 | 4 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 19 | +12.95 USD |
@@ -28,12 +28,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 2 | 2 | 3 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 127 | -20.92 USD |
+| RN1 | 24 | 17 | 130 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 26 | 70 | 73 | -53.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| StasPanda | 1 | 6 | 7 | -89.64 USD |
+| StasPanda | 1 | 7 | 6 | -89.64 USD |
 | ferrariChampions2026 | 245 | 198 | 129 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 12 | 38 | 7 | -298.46 USD |
@@ -196,6 +196,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | PEC Zwolle vs. AFC Ajax: O/U 1.5 | Over (BUY) | 55% | 0.20 | ⏳ pendiente | — |
+| RN1 | Malmo FF vs. Degerfors IF: O/U 3.5 | Over (BUY) | 42% | 0.57 | ⏳ pendiente | — |
+| RN1 | Will Malmo FF vs. Degerfors IF end in a  | Yes (BUY) | 25% | 0.33 | ⏳ pendiente | — |
 | RN1 | Will Malmo FF win on 2026-08-09? | No (BUY) | 93% | 1.25 | ⏳ pendiente | — |
 | RN1 | Will FC Groningen win on 2026-08-09? | Yes (BUY) | 66% | 0.39 | ⏳ pendiente | — |
 | RN1 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 50% | 0.53 | ⏳ pendiente | — |
@@ -223,6 +226,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will AFC Ajax win on 2026-08-09? | Yes (BUY) | 51% | 0.39 | ⏳ pendiente | — |
 | RN1 | Will AFC Ajax win on 2026-08-09? | No (BUY) | 46% | 0.36 | ⏳ pendiente | — |
 | RN1 | Will PEC Zwolle win on 2026-08-09? | No (BUY) | 84% | 0.61 | ⏳ pendiente | — |
-| RN1 | Will AFC Ajax win on 2026-08-09? | No (BUY) | 46% | 0.66 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Hannover 96 win on 2026-08-09? | Yes (BUY) | 44% | 0.78 | ⏳ pendiente | — |
-| RN1 | Will FC St. Pauli 1910 vs. SpVgg Greuthe | Yes (BUY) | 63% | 0.94 | ⏳ pendiente | — |
