@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 17:16:44 (hora de Perú)
+Actualizado: 2026-08-09 17:18:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.18
@@ -31,13 +31,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 85 | 42 | 58 | -20.01 USD |
+| RN1 | 85 | 42 | 59 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 62 | 89 | 27 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 76 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 77 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -231,6 +231,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Red Bull Bragantino win on 2026-08- | No (BUY) | 69% | 0.30 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: FlyQuest vs Team Liquid (BO3) - LCS | Team Liquid (BUY) | 85% | 1.29 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 35% | 2.35 | ⏳ pendiente | — |
 | RN1 | Will CA Paranaense win on 2026-08-09? | Yes (BUY) | 82% | 0.37 | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 39% | 2.62 | ⏳ pendiente | — |
@@ -259,5 +261,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 68% | 4.24 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 15% | 1.77 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 29% | 12.19 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Chicago White Sox (-2.5) | Cleveland Guardians (BUY) | 51% | 2.27 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 49% | 0.61 | ⏳ pendiente | — |
