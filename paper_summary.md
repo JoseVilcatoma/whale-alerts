@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 09:02:13 (hora de Perú)
+Actualizado: 2026-08-09 09:04:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $260.77
@@ -17,14 +17,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 43 | 30 | 4 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 19 | +12.95 USD |
-| wr0ngw4yb3tt0r | 34 | 31 | 5 | +11.82 USD |
+| wr0ngw4yb3tt0r | 34 | 31 | 6 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | UpTheBlues | 78 | 45 | 6 | +7.53 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
-| SDTrading | 0 | 0 | 2 | +0.00 USD |
+| SDTrading | 0 | 0 | 3 | +0.00 USD |
 | swisstony | 2 | 2 | 3 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 26 | 70 | 75 | -53.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 1 | 7 | 5 | -89.64 USD |
-| ferrariChampions2026 | 245 | 198 | 96 | -91.43 USD |
+| ferrariChampions2026 | 245 | 198 | 98 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 12 | 38 | 7 | -298.46 USD |
 
@@ -187,11 +187,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | scop-kil-cel-2026-08-09-cel | RN1, ferrariChampions2026 |
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
+| mlb-cin-wsh-2026-08-09-total-9pt5 | SDTrading, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 78% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 39% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| SDTrading | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: New York Liberty (-9.5) | Las Vegas Aces (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | quavoo | SC Heerenveen vs. FC Twente: O/U 1.5 | Over (BUY) | 86% | 0.00 | ⏳ pendiente | — |
 | SDTrading | Colorado Rockies vs. St. Louis Cardinals | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
@@ -218,7 +223,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will FC Energie Cottbus win on 2026-08-0 | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kilmarnock FC vs. Celtic FC: O/U 3.5 | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kilmarnock FC vs. Celtic FC: O/U 3.5 | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| RN1 | Kilmarnock FC vs. Celtic FC: 1st Half O/ | Under (BUY) | 36% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Manchester City win on 2026-08-09? | No (BUY) | 10% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Chelsea FC (-1.5) | Johor Darul Ta'zim (BUY) | 74% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Henan FC win on 2026-08-09? | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
