@@ -2,13 +2,13 @@
   "0x547f2917d51f2e63ab382dcf641d4e0240162937": {
     "username": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
     "added_at": 1786231395.9169593,
-    "roi_pct": 4284.63,
+    "roi_pct": 3690.22,
     "short_term_pct": 70.0
   },
   "0xc65ca4755436f82d8eb461e65781584b8cadea39": {
     "username": "greyoctober",
     "added_at": 1786240660.1969366,
-    "roi_pct": 597.61,
+    "roi_pct": 595.68,
     "short_term_pct": 100.0
   },
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
@@ -20,43 +20,43 @@
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1786242296.657712,
-    "roi_pct": 999.52,
+    "roi_pct": 999.5,
     "short_term_pct": 60.0
   },
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "username": "ferrariChampions2026",
     "added_at": 1786247023.5794783,
-    "roi_pct": 405.99,
-    "short_term_pct": 90.0
+    "roi_pct": 365.02,
+    "short_term_pct": 100.0
   },
   "0xdc41c39b95453c943174f369926018f6963bdd7e": {
     "username": "quavoo",
     "added_at": 1786247965.6114616,
-    "roi_pct": 107.84,
+    "roi_pct": 105.67,
     "short_term_pct": 100.0
   },
   "0x7e5e420a5cde8a322f3b5b93a12a164827f47315": {
     "username": "StasPanda",
     "added_at": 1786250783.005357,
-    "roi_pct": 82.95,
+    "roi_pct": 83.06,
     "short_term_pct": 100.0
   },
   "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd": {
     "username": "TAIWANNUMBERONE",
     "added_at": 1786253596.1405854,
-    "roi_pct": 527.55,
-    "short_term_pct": 90.0
+    "roi_pct": 489.33,
+    "short_term_pct": 100.0
   },
   "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
     "username": "UpTheBlues",
     "added_at": 1786254539.3495882,
-    "roi_pct": 127.74,
+    "roi_pct": 271.0,
     "short_term_pct": 100.0
   },
-  "0x43372356634781eea88d61bbdd7824cdce958882": {
-    "username": "Anjun",
-    "added_at": 1786255480.2076504,
-    "roi_pct": 28.83,
-    "short_term_pct": 80.0
+  "0x204f72f35326db932158cba6adff0b9a1da95e14": {
+    "username": "swisstony",
+    "added_at": 1786262364.9884272,
+    "roi_pct": 245.5,
+    "short_term_pct": 90.0
   }
 }

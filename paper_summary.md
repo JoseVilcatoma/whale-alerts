@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 02:01:42 (hora de Perú)
+Actualizado: 2026-08-09 03:01:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $351.50
-**Retorno acumulado:** -64.85%
+**Bankroll actual:** $352.08
+**Retorno acumulado:** -64.79%
 **Peor caída desde un máximo (drawdown):** 68.38%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,9 +19,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 7 | 0 | 17 | +12.95 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 0 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
-| UpTheBlues | 78 | 43 | 7 | +8.44 USD |
+| UpTheBlues | 78 | 44 | 7 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| swisstony | 2 | 0 | 0 | +2.82 USD |
+| swisstony | 2 | 0 | 1 | +2.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
@@ -31,9 +31,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 21 | 57 | 83 | -53.73 USD |
+| quavoo | 23 | 63 | 76 | -52.43 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 233 | 192 | 15 | -90.96 USD |
+| ferrariChampions2026 | 243 | 197 | 0 | -91.69 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 11 | -303.20 USD |
 
@@ -162,11 +162,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-lad-ari-2026-08-08-total-2pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-tb-sea-2026-08-08-total-6pt5 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tb-sea-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| auc-bri-syd-2026-08-09-total-5pt5 | UpTheBlues, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Brisbane Roar FC vs. Sydney FC: O/U 5.5 | Under (BUY) | 50% | 4.23 | ⏳ pendiente | — |
+| UpTheBlues | Brisbane Roar FC vs. Sydney FC: O/U 5.5 | Under (BUY) | 50% | 0.91 | ⏳ pendiente | — |
+| quavoo | Sparta Rotterdam vs. Feyenoord Rotterdam | Yes (BUY) | 61% | 1.41 | ⏳ pendiente | — |
 | UpTheBlues | Spread: South Melbourne FC (-1.5) | Fremantle City FC (BUY) | 32% | 0.07 | ⏳ pendiente | — |
 | quavoo | Will Atlético Nacional win on 2026-08-08 | Yes (BUY) | 32% | 0.68 | ⏳ pendiente | — |
 | quavoo | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 55% | 0.35 | ⏳ pendiente | — |
@@ -194,6 +198,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Valorant: VARREL vs Paper Rex (BO3) - VC | VARREL (BUY) | 21% | 0.73 | ⏳ pendiente | — |
 | quavoo | Athletics vs. Boston Red Sox: O/U 10.5 | Under (BUY) | 54% | 0.38 | ⏳ pendiente | — |
 | quavoo | Will Philadelphia Union win on 2026-08-0 | Yes (BUY) | 55% | 1.92 | ⏳ pendiente | — |
-| quavoo | Will Querétaro FC win on 2026-08-09? | Yes (BUY) | 27% | 0.75 | ⏳ pendiente | — |
-| quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 46% | 0.37 | ⏳ pendiente | — |
-| quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.55 | ⏳ pendiente | — |
