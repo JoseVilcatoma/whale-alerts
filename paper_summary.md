@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 17:18:49 (hora de Perú)
+Actualizado: 2026-08-09 17:20:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.18
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 62 | 89 | 27 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 77 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 80 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -231,6 +231,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 51% | 1.43 | ⏳ pendiente | — |
+| ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 51% | 0.33 | ⏳ pendiente | — |
+| ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 51% | 0.32 | ⏳ pendiente | — |
 | RN1 | Will Red Bull Bragantino win on 2026-08- | No (BUY) | 69% | 0.30 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: FlyQuest vs Team Liquid (BO3) - LCS | Team Liquid (BUY) | 85% | 1.29 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 35% | 2.35 | ⏳ pendiente | — |
@@ -258,6 +261,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Spread: Tampa Bay Rays (-2.5) | Seattle Mariners (BUY) | 72% | 0.31 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 30% | 1.76 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Tampa Bay Rays (-2.5) | Seattle Mariners (BUY) | 72% | 8.98 | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 68% | 4.24 | ⏳ pendiente | — |
-| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 15% | 1.77 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 29% | 12.19 | ⏳ pendiente | — |
