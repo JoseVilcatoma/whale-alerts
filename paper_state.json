@@ -1,5 +1,5 @@
 {
-  "bankroll": 351.24540566486365,
+  "bankroll": 351.4993017687598,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5555,6 +5555,16 @@
       "timestamp": 1786255983.6921718,
       "bankroll": 351.25,
       "event": "won: ferrariChampions2026 \u2014 Real Salt Lake vs. Atlante FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786257588.832423,
+      "bankroll": 351.37,
+      "event": "won: ferrariChampions2026 \u2014 Will Real Salt Lake win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786257588.9325686,
+      "bankroll": 351.5,
+      "event": "won: ferrariChampions2026 \u2014 Will Real Salt Lake win on 2026-08-08?"
     }
   ]
 }
