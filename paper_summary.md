@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 17:27:12 (hora de Perú)
+Actualizado: 2026-08-09 17:29:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.18
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 79 | 55 | 58 | +31.24 USD |
+| 1winstreak1 | 79 | 55 | 59 | +31.24 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -28,6 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 2 | 0 | 1 | +0.00 USD |
 | theowalcott | 0 | 0 | 9 | +0.00 USD |
 | AV23IUa | 0 | 0 | 5 | +0.00 USD |
+| cigarettes | 0 | 0 | 1 | +0.00 USD |
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -37,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 62 | 89 | 27 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 84 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 85 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -216,7 +217,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tb-sea-2026-08-09-spread-away-1pt5 | 1winstreak1, RN1, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-total-9pt5 | 1winstreak1, RN1 |
 | mlb-lad-ari-2026-08-09-spread-home-1pt5 | 1winstreak1, ferrariChampions2026 |
-| arg-def-new-2026-08-09-def | RN1, ferrariChampions2026 |
+| arg-def-new-2026-08-09-def | RN1, cigarettes, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-09-total-10pt5 | RN1, ferrariChampions2026 |
 | bra-san-cap-2026-08-09-san | AV23IUa, RN1 |
 | bra-bra-cor1-2026-08-09-cor1 | AV23IUa, RN1 |
@@ -232,6 +233,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: FlyQuest vs Team Liquid - Game 2 Wi | Team Liquid (BUY) | 67% | 0.30 | ⏳ pendiente | — |
+| 1winstreak1 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 31% | 0.43 | ⏳ pendiente | — |
+| cigarettes | Will CSyD Defensa y Justicia win on 2026 | Yes (BUY) | 95% | 1.67 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 35% | 0.77 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: FlyQuest vs Team Liquid (BO3) - LCS | Team Liquid (BUY) | 84% | 1.33 | ⏳ pendiente | — |
 | RN1 | Will Red Bull Bragantino win on 2026-08- | No (BUY) | 69% | 0.30 | ⏳ pendiente | — |
@@ -259,6 +263,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Red Bull Bragantino vs. SC Corinthians P | Under (BUY) | 95% | 0.43 | ⏳ pendiente | — |
 | RN1 | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 17% | 0.34 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 40% | 0.29 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: FlyQuest vs Team Liquid (BO3) - LCS | Team Liquid (BUY) | 85% | 1.59 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: CSyD Defensa y Justicia (-1.5) | CSyD Defensa y Justicia (BUY) | 46% | 0.51 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: CSyD Defensa y Justicia (-1.5) | CSyD Defensa y Justicia (BUY) | 47% | 0.53 | ⏳ pendiente | — |
