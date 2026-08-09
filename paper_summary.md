@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 16:15:56 (hora de Perú)
+Actualizado: 2026-08-09 16:18:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $168.72
@@ -13,10 +13,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 79 | 55 | 42 | +31.24 USD |
+| 1winstreak1 | 79 | 55 | 44 | +31.24 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 37 | 33 | 9 | +12.14 USD |
+| wr0ngw4yb3tt0r | 37 | 33 | 10 | +12.14 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -30,14 +30,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 84 | 42 | 41 | -20.21 USD |
+| RN1 | 84 | 42 | 46 | -20.21 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 61 | 89 | 28 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 44 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 45 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -219,6 +219,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 77% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Académico de Viseu FC win on 2026-0 | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Sport Lisboa e Benfica vs. Académic | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Sport Lisboa e Benfica vs. Académic | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 39% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 29% | 0.00 | ⏳ pendiente | — |
+| RN1 | Sport Lisboa e Benfica vs. Académico de  | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | RN1 | Sport Lisboa e Benfica vs. Académico de  | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-3.5) | Arizona Diamondbacks (BUY) | 39% | 0.00 | ⏳ pendiente | — |
@@ -240,12 +249,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | Will Santos FC win on 2026-08-09? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 22% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Académico de Viseu FC win on 2026-0 | No (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| RN1 | Gil Vicente FC vs. Rio Ave FC: O/U 0.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Académico de Viseu FC win on 2026-0 | No (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will SC Braga win on 2026-08-09? | Yes (BUY) | 86% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 90% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Académico de Viseu FC win on 2026-0 | No (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| RN1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
