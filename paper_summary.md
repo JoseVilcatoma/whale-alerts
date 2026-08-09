@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:59:34 (hora de Perú)
+Actualizado: 2026-08-08 22:01:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $396.17
-**Retorno acumulado:** -60.38%
+**Bankroll actual:** $388.39
+**Retorno acumulado:** -61.16%
 **Peor caída desde un máximo (drawdown):** 61.20%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | quavoo | 16 | 25 | 62 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 29 | 1 | +20.63 USD |
-| wr0ngw4yb3tt0r | 26 | 23 | 13 | +19.60 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
+| wr0ngw4yb3tt0r | 28 | 25 | 9 | +14.42 USD |
 | greyoctober | 7 | 0 | 6 | +12.95 USD |
 | UpTheBlues | 63 | 39 | 20 | +8.27 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -27,13 +27,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | HomeRunHazard | 38 | 43 | 7 | -1.89 USD |
-| 1winstreak1 | 45 | 39 | 13 | -13.97 USD |
+| 1winstreak1 | 45 | 39 | 14 | -13.97 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 23 | 16 | 2 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 219 | 183 | 16 | -84.14 USD |
+| ferrariChampions2026 | 219 | 184 | 15 | -86.74 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 10 | -303.20 USD |
 
@@ -163,6 +163,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 38% | 1.18 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 88% | 2.46 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Seattle Mariners (-2.5) | Seattle Mariners (BUY) | 28% | 2.68 | ⏳ pendiente | — |
 | quavoo | Deportivo Toluca FC vs. Los Angeles FC:  | Under (BUY) | 60% | 4.78 | ⏳ pendiente | — |
@@ -175,10 +176,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 48% | 47.29 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 48% | 2.06 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | UFC Fight Night: Mateusz Gamrot vs. Quil | Quillan Salkilld (BUY) | 70% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | UFC Fight Night: Mateusz Gamrot vs. Quil | Quillan Salkilld (BUY) | 70% | 0.00 | ✅ ganada | +0.00 |
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | UFC Fight Night: Mateusz Gamrot vs. Quil | Quillan Salkilld (BUY) | 68% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | UFC Fight Night: Mateusz Gamrot vs. Quil | Quillan Salkilld (BUY) | 68% | 0.00 | ✅ ganada | +0.00 |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
@@ -192,4 +193,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 64% | 0.48 | ⏳ pendiente | — |
 | quavoo | Will Los Angeles FC win on 2026-08-08? | Yes (BUY) | 39% | 0.54 | ⏳ pendiente | — |
 | ferrariChampions2026 | Instituto AC Córdoba vs. CA Gimnasia y E | Over (BUY) | 47% | 0.57 | ✅ ganada | +0.64 |
-| ferrariChampions2026 | Will Instituto AC Córdoba win on 2026-08 | Yes (BUY) | 34% | 0.73 | ✅ ganada | +1.42 |

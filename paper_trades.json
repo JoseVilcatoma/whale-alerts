@@ -14204,8 +14204,8 @@
     "whale_pct": 0.153,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786213136.7683043,
@@ -21600,8 +21600,8 @@
     "whale_pct": 1.067,
     "paper_stake_usd": 5.18,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.18,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786231185.2366707,
@@ -23754,8 +23754,8 @@
     "whale_pct": 0.623,
     "paper_stake_usd": 2.6,
     "odds_at_bet": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.6,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -24128,7 +24128,7 @@
     "whale_pct": 0.102,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ferrariChampions2026"
@@ -24194,7 +24194,7 @@
     "whale_pct": 0.375,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 70,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ferrariChampions2026"
@@ -24450,6 +24450,28 @@
     ],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786244282.6622605,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786244441,
+    "timestamp_added": 1786244441.9869142,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-tb-sea-2026-08-08-total-6pt5",
+    "title": "Tampa Bay Rays vs. Seattle Mariners: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 64.11000000000001,
+    "whale_pct": 0.305,
+    "paper_stake_usd": 1.18,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786244441.9869232,
     "fills": 1
   }
 ]

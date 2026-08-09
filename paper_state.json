@@ -1,5 +1,5 @@
 {
-  "bankroll": 396.16849972195394,
+  "bankroll": 388.3884997219539,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4935,6 +4935,31 @@
       "timestamp": 1786244118.0808332,
       "bankroll": 396.17,
       "event": "won: ferrariChampions2026 \u2014 Will Instituto AC C\u00f3rdoba win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786244406.6390333,
+      "bankroll": 396.17,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 UFC Fight Night: Mateusz Gamrot vs. Quillan Salkilld (Lightweight, Main Card)"
+    },
+    {
+      "timestamp": 1786244420.2256439,
+      "bankroll": 390.99,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 O/U 3.5 Rounds"
+    },
+    {
+      "timestamp": 1786244427.7978542,
+      "bankroll": 388.39,
+      "event": "lost: ferrariChampions2026 \u2014 UFC Fight Night: Mateusz Gamrot vs. Quillan Salkilld (Lightweight, Main Card)"
+    },
+    {
+      "timestamp": 1786244430.001501,
+      "bankroll": 388.39,
+      "event": "won: wr0ngw4yb3tt0r \u2014 UFC Fight Night: Mateusz Gamrot vs. Quillan Salkilld (Lightweight, Main Card)"
+    },
+    {
+      "timestamp": 1786244430.3019261,
+      "bankroll": 388.39,
+      "event": "won: wr0ngw4yb3tt0r \u2014 UFC Fight Night: Mateusz Gamrot vs. Quillan Salkilld (Lightweight, Main Card)"
     }
   ]
 }
