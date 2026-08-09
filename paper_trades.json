@@ -31707,5 +31707,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786287927.6685631,
     "fills": 3
+  },
+  {
+    "timestamp": 1786288091,
+    "timestamp_added": 1786288092.0499327,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "scop-ran-hib-2026-08-09-ran",
+    "title": "Will Rangers FC win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 827.939,
+    "whale_pct": 0.269,
+    "paper_stake_usd": 0.42,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786288092.049942,
+    "fills": 1
   }
 ]
