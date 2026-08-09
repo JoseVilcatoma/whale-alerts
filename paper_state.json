@@ -1,5 +1,5 @@
 {
-  "bankroll": 331.6124869146368,
+  "bankroll": 318.8924869146368,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5270,6 +5270,31 @@
       "timestamp": 1786250010.3908722,
       "bankroll": 331.61,
       "event": "won: UpTheBlues \u2014 Will Coritiba FBC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786250947.1005225,
+      "bankroll": 318.89,
+      "event": "lost: ferrariChampions2026 \u2014 Will Botafogo FR win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786250947.4325056,
+      "bankroll": 318.89,
+      "event": "won: UpTheBlues \u2014 Will Fluminense FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786250948.5488076,
+      "bankroll": 318.89,
+      "event": "won: UpTheBlues \u2014 Spread: Botafogo FR (-1.5)"
+    },
+    {
+      "timestamp": 1786250948.6489503,
+      "bankroll": 318.89,
+      "event": "won: UpTheBlues \u2014 Will Fluminense FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786250948.8492327,
+      "bankroll": 318.89,
+      "event": "won: UpTheBlues \u2014 Will Fluminense FC win on 2026-08-08?"
     }
   ]
 }

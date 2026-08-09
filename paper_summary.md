@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 23:47:14 (hora de Perú)
+Actualizado: 2026-08-08 23:49:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $331.61
-**Retorno acumulado:** -66.84%
-**Peor caída desde un máximo (drawdown):** 66.84%
+**Bankroll actual:** $318.89
+**Retorno acumulado:** -68.11%
+**Peor caída desde un máximo (drawdown):** 68.11%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 11 | +12.95 USD |
 | wr0ngw4yb3tt0r | 30 | 28 | 7 | +12.18 USD |
-| UpTheBlues | 74 | 42 | 6 | +8.44 USD |
+| UpTheBlues | 78 | 42 | 2 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | swisstony | 2 | 0 | 0 | +2.82 USD |
 | HomeRunHazard | 41 | 45 | 2 | +1.82 USD |
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 225 | 186 | 27 | -85.52 USD |
+| ferrariChampions2026 | 225 | 187 | 27 | -98.24 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 11 | -303.20 USD |
 
@@ -167,6 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will LASK Linz win on 2026-08-09? | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will LASK Linz win on 2026-08-09? | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will LASK Linz win on 2026-08-09? | Yes (BUY) | 47% | 0.00 | ⏳ pendiente | — |
@@ -196,4 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 0.72 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Los Angeles FC win on 2026-08-08? | No (BUY) | 60% | 0.80 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | No (BUY) | 70% | 1.56 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | No (BUY) | 70% | 1.62 | ⏳ pendiente | — |
