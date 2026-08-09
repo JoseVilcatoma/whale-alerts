@@ -1,5 +1,5 @@
 {
-  "bankroll": 382.8184997219539,
+  "bankroll": 382.6590260377434,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4985,6 +4985,16 @@
       "timestamp": 1786244720.9079316,
       "bankroll": 382.82,
       "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs Disguised (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1786245346.0509033,
+      "bankroll": 381.77,
+      "event": "lost: UpTheBlues \u2014 Will Club Le\u00f3n FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786245349.943956,
+      "bankroll": 382.66,
+      "event": "won: ferrariChampions2026 \u2014 Houston Astros vs. San Diego Padres: O/U 5.5"
     }
   ]
 }
