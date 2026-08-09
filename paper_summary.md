@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 13:18:30 (hora de Perú)
+Actualizado: 2026-08-09 13:20:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $164.48
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 55 | 48 | 15 | +28.65 USD |
+| 1winstreak1 | 55 | 48 | 17 | +28.65 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 9 | +11.82 USD |
@@ -203,6 +203,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 24% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 35% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | New York Mets vs. Pittsburgh Pirates: O/ | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Miami Marlins (-3.5) | Los Angeles Angels (BUY) | 58% | 0.00 | ⏳ pendiente | — |
@@ -231,5 +233,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Golden State Valkyries vs. Los Angeles S | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Las Vegas Aces vs. New York Liberty: O/U | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Las Vegas Aces vs. New York Liberty: O/U | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Fnatic vs Karmine Corp (BO3) - LEC  | Karmine Corp (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Ryan Gusto: Strikeouts O/U 4.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
