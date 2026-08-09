@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 19:41:40 (hora de Perú)
+Actualizado: 2026-08-08 19:43:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $474.88
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
-| 1winstreak1 | 28 | 29 | 16 | -8.77 USD |
+| 1winstreak1 | 28 | 29 | 17 | -8.77 USD |
 | wr0ngw4yb3tt0r | 18 | 16 | 15 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 20 | 16 | 5 | -20.97 USD |
@@ -96,6 +96,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bl2-ksc-bie-2026-08-08-total-5pt5 | RN1, ferrariChampions2026 |
 | lol-blg-edg-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
 | mlb-laa-mia-2026-08-08-total-6pt5 | 1winstreak1, HomeRunHazard |
+| wnba-sea-por-2026-08-08 | 1winstreak1, HomeRunHazard |
 | mlb-atl-nyy-2026-08-08-total-7pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-atl-nyy-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard |
 | mlb-cle-cws-2026-08-08-total-6pt5 | 1winstreak1, HomeRunHazard |
@@ -150,6 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Seattle Storm vs. PortlandFire | Seattle Storm (BUY) | 53% | 4.91 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 56% | 4.12 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 82% | 16.60 | ⏳ pendiente | — |
@@ -179,4 +181,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Orlando City SC vs. Club León FC: O/U 2. | Under (BUY) | 26% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Chicago White So | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Orlando City SC (-1.5) | Club León FC (BUY) | 90% | 0.00 | ⏳ pendiente | — |

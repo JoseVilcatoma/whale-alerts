@@ -22887,5 +22887,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786235506.0672593,
     "fills": 1
+  },
+  {
+    "timestamp": 1786236125,
+    "timestamp_added": 1786236125.8790526,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "wnba-sea-por-2026-08-08",
+    "title": "Seattle Storm vs. PortlandFire",
+    "outcome": "Seattle Storm",
+    "side": "BUY",
+    "whale_usd": 545.37,
+    "whale_pct": 1.034,
+    "paper_stake_usd": 4.91,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786236125.8790622,
+    "fills": 1
   }
 ]
