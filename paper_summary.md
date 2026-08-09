@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 14:29:36 (hora de Perú)
+Actualizado: 2026-08-09 14:31:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $172.24
-**Retorno acumulado:** -82.78%
+**Bankroll actual:** $172.33
+**Retorno acumulado:** -82.77%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 66 | 50 | 35 | +29.06 USD |
+| 1winstreak1 | 66 | 50 | 36 | +29.06 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 35 | 32 | 11 | +11.82 USD |
@@ -35,8 +35,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 55 | 82 | 39 | -49.79 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
+| ferrariChampions2026 | 331 | 242 | 25 | -89.86 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 330 | 242 | 26 | -89.95 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 19 | 38 | 7 | -298.46 USD |
 
@@ -201,6 +201,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-atl-nyy-2026-08-09-total-8pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-cin-wsh-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-spread-home-2pt5 | 1winstreak1, ferrariChampions2026 |
+| mlb-chc-kc-2026-08-09-total-10pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-chc-kc-2026-08-09-total-11pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-bal-tex-2026-08-09-total-11pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
@@ -208,6 +209,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Chicago Cubs vs. Kansas City Royals: O/U | Over (BUY) | 58% | 0.24 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Philadelphia Phillies (-4.5) | Toronto Blue Jays (BUY) | 74% | 0.28 | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 51% | 1.55 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Baltimore Orioles (-2.5) | Baltimore Orioles (BUY) | 74% | 0.41 | ⏳ pendiente | — |
@@ -237,4 +239,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Cleveland Guardians (-1.5) | Chicago White Sox (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago White Sox (-1.5) | Cleveland Guardians (BUY) | 77% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 63% | 0.00 | ⏳ pendiente | — |

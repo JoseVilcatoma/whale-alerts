@@ -1,5 +1,5 @@
 {
-  "bankroll": 172.2412876485494,
+  "bankroll": 172.32890669616845,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7420,6 +7420,11 @@
       "timestamp": 1786303144.7265673,
       "bankroll": 172.24,
       "event": "won: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786303820.393883,
+      "bankroll": 172.33,
+      "event": "won: ferrariChampions2026 \u2014 Will Athletic Bilbao win on 2026-08-09?"
     }
   ]
 }
