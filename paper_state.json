@@ -1,5 +1,5 @@
 {
-  "bankroll": 163.40705858560648,
+  "bankroll": 165.6205879973712,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7065,6 +7065,31 @@
       "timestamp": 1786295193.3421865,
       "bankroll": 163.41,
       "event": "won: RN1 \u2014 Will FC Groningen win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786295499.4734046,
+      "bankroll": 163.41,
+      "event": "won: quavoo \u2014 Counter-Strike: 1WIN vs Liquid (BO3) - Esports World Cup Open Qualifier Play-Ins"
+    },
+    {
+      "timestamp": 1786295503.058117,
+      "bankroll": 165.27,
+      "event": "won: quavoo \u2014 Counter-Strike: 1WIN vs Liquid (BO3) - Esports World Cup Open Qualifier Play-Ins"
+    },
+    {
+      "timestamp": 1786295507.1304371,
+      "bankroll": 165.62,
+      "event": "won: quavoo \u2014 Will AFC Ajax win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786295507.4308636,
+      "bankroll": 165.62,
+      "event": "won: quavoo \u2014 Will AFC Ajax win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786295507.531006,
+      "bankroll": 165.62,
+      "event": "won: quavoo \u2014 Will AFC Ajax win on 2026-08-09?"
     }
   ]
 }
