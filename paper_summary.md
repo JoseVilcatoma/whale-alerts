@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 08:25:07 (hora de Perú)
+Actualizado: 2026-08-09 08:27:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $260.77
@@ -28,13 +28,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 2 | 2 | 3 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 118 | -20.92 USD |
+| RN1 | 24 | 17 | 119 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 26 | 69 | 74 | -53.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 1 | 6 | 6 | -89.64 USD |
-| ferrariChampions2026 | 245 | 198 | 126 | -91.43 USD |
+| ferrariChampions2026 | 245 | 198 | 127 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 12 | 38 | 7 | -298.46 USD |
 
@@ -166,6 +166,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | clf-mci-atm-2026-08-09-mci | RN1, ferrariChampions2026, quavoo |
 | mlb-tb-sea-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | clf-mci-atm-2026-08-09-atm | RN1, ferrariChampions2026, quavoo |
+| mlb-bal-tex-2026-08-09-total-8pt5 | ferrariChampions2026, quavoo |
 | clf-lfc-asm-2026-08-09-lfc | RN1, quavoo |
 | ere-spa-fey-2026-08-09-fey | RN1, quavoo |
 | val-gm-ep1-2026-08-09 | greyoctober, quavoo |
@@ -194,6 +195,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 47% | 0.69 | ⏳ pendiente | — |
+| RN1 | Will Hannover 96 win on 2026-08-09? | No (BUY) | 98% | 0.49 | ⏳ pendiente | — |
 | RN1 | Will Johor Darul Ta'zim vs. Chelsea FC e | No (BUY) | 86% | 1.25 | ⏳ pendiente | — |
 | RN1 | Spread: AFC Ajax (-1.5) | PEC Zwolle (BUY) | 77% | 0.31 | ⏳ pendiente | — |
 | RN1 | Spread: AFC Ajax (-1.5) | PEC Zwolle (BUY) | 77% | 0.31 | ⏳ pendiente | — |
@@ -222,5 +225,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 41% | 1.44 | ⏳ pendiente | — |
 | ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 76% | 1.28 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cruzeiro EC vs. Mirassol FC: O/U 2.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Johor Darul Ta'zim vs. Chelsea FC: O/U 3 | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Hannover 96 win on 2026-08-09? | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
