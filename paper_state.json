@@ -1,5 +1,5 @@
 {
-  "bankroll": 166.16961540674345,
+  "bankroll": 165.59961540674345,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7125,6 +7125,11 @@
       "timestamp": 1786296317.2406697,
       "bankroll": 166.17,
       "event": "won: ferrariChampions2026 \u2014 Liverpool FC vs. AS Monaco: O/U 3.5"
+    },
+    {
+      "timestamp": 1786296434.9531865,
+      "bankroll": 165.6,
+      "event": "lost: quavoo \u2014 Will Liverpool FC win on 2026-08-09?"
     }
   ]
 }
