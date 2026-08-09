@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 07:34:55 (hora de Perú)
+Actualizado: 2026-08-09 07:37:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $344.10
@@ -28,12 +28,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 47 | -20.92 USD |
+| RN1 | 24 | 17 | 52 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 25 | 68 | 76 | -54.69 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 245 | 197 | 62 | -91.43 USD |
+| ferrariChampions2026 | 245 | 197 | 66 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -175,6 +175,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-jdg-we-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | clf-mci-atm-2026-08-09-total-2pt5 | RN1, ferrariChampions2026 |
 | bl2-fcn-dyn-2026-08-09-total-2pt5 | RN1, ferrariChampions2026 |
+| bl2-stp-fur-2026-08-09-stp | RN1, ferrariChampions2026 |
 | bl2-stp-fur-2026-08-09-total-2pt5 | RN1, ferrariChampions2026 |
 | bl2-fce-h96-2026-08-09-total-4pt5 | RN1, ferrariChampions2026 |
 | bl2-fce-h96-2026-08-09-h96 | RN1, ferrariChampions2026 |
@@ -184,6 +185,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | FC St. Pauli 1910 vs. SpVgg Greuther Für | Over (BUY) | 82% | 0.00 | ⏳ pendiente | — |
+| RN1 | PEC Zwolle vs. AFC Ajax: O/U 2.5 | Under (BUY) | 35% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 80% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: JD Gaming vs Team WE - Game 2 Winne | JD Gaming (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will FC St. Pauli 1910 win on 2026-08-09 | Yes (BUY) | 77% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will FC Groningen win on 2026-08-09? | Yes (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| RN1 | FC Groningen vs. FC Utrecht: O/U 2.5 | Over (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| RN1 | PEC Zwolle vs. AFC Ajax: O/U 1.5 | Under (BUY) | 13% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will PEC Zwolle win on 2026-08-09? | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC St. Pauli 1910 (-1.5) | SpVgg Greuther Fürth (BUY) | 80% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs Team WE - Game 2 Winne | JD Gaming (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 83% | 0.00 | ⏳ pendiente | — |
@@ -205,12 +215,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | Team WE (BUY) | 20% | 0.40 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Chongqing Tonglianglong FC win on 2 | No (BUY) | 49% | 1.81 | ⏳ pendiente | — |
 | ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 60% | 1.31 | ⏳ pendiente | — |
-| RN1 | Manchester City vs. Atletico Madrid: O/U | Over (BUY) | 53% | 0.36 | ⏳ pendiente | — |
-| RN1 | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 87% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Chongqing Tonglianglong FC vs. Shan | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Chongqing Tonglianglong FC win on 2 | Yes (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 87% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will FC Energie Cottbus win on 2026-08-0 | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| quavoo | Valorant: Gentle Mates vs Enterprise Esp | Enterprise Esports (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Shanghai Haigang FC win on 2026-08- | Yes (BUY) | 23% | 0.00 | ⏳ pendiente | — |
