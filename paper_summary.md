@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 20:46:03 (hora de Perú)
+Actualizado: 2026-08-08 20:48:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $484.07
@@ -27,13 +27,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 32 | 29 | 25 | -1.89 USD |
-| wr0ngw4yb3tt0r | 21 | 16 | 20 | -10.16 USD |
+| 1winstreak1 | 33 | 29 | 24 | -1.89 USD |
+| wr0ngw4yb3tt0r | 21 | 18 | 18 | -10.16 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 20 | 16 | 5 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 213 | 176 | 20 | -67.75 USD |
+| ferrariChampions2026 | 213 | 176 | 21 | -67.75 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 9 | -303.20 USD |
 
@@ -157,6 +157,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 76% | 2.82 | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 56% | 0.83 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Diego Ferreira vs. Bill | Billy Quarantillo (BUY) | 38% | 15.75 | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Under (BUY) | 82% | 0.85 | ⏳ pendiente | — |
@@ -186,4 +187,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Detroit Tigers (-2.5) | Detroit Tigers (BUY) | 41% | 0.74 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Detroit Tigers (-1.5) | San Francisco Giants (BUY) | 40% | 0.48 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 51% | 0.37 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 48% | 2.60 | ⏳ pendiente | — |

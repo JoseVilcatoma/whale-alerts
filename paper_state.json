@@ -4270,6 +4270,21 @@
       "timestamp": 1786239887.8112977,
       "bankroll": 484.07,
       "event": "won: 1winstreak1 \u2014 Spread: Washington Nationals (-1.5)"
+    },
+    {
+      "timestamp": 1786240073.5659451,
+      "bankroll": 484.07,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 5.5"
+    },
+    {
+      "timestamp": 1786240073.6662333,
+      "bankroll": 484.07,
+      "event": "won: 1winstreak1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 5.5"
+    },
+    {
+      "timestamp": 1786240074.267453,
+      "bankroll": 484.07,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 5.5"
     }
   ]
 }
