@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 02:30:39 (hora de Perú)
+Actualizado: 2026-08-09 02:32:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $353.31
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 7 | 0 | 17 | +12.95 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 0 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
-| UpTheBlues | 78 | 44 | 10 | +8.44 USD |
+| UpTheBlues | 78 | 44 | 11 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | swisstony | 2 | 0 | 1 | +2.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 22 | 63 | 77 | -53.27 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 243 | 195 | 18 | -89.61 USD |
+| ferrariChampions2026 | 243 | 195 | 20 | -89.61 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 12 | -303.20 USD |
 
@@ -167,6 +167,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will FC St. Pauli 1910 win on 2026-08-09 | Yes (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports (BO3 | Invictus Gaming (BUY) | 81% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports (BO3 | Invictus Gaming (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports (BO3 | Invictus Gaming (BUY) | 80% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports - Ga | Invictus Gaming (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports - Ga | Invictus Gaming (BUY) | 67% | 0.00 | ⏳ pendiente | — |
@@ -194,6 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Atlético Nacional win on 2026-08-08 | Yes (BUY) | 32% | 0.68 | ⏳ pendiente | — |
 | quavoo | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 55% | 0.35 | ⏳ pendiente | — |
 | UpTheBlues | Will Helmond Sport vs. De Graafschap end | No (BUY) | 73% | 0.57 | ⏳ pendiente | — |
-| quavoo | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 58% | 0.00 | ⏳ pendiente | — |
