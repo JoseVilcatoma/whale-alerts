@@ -28824,8 +28824,8 @@
     "whale_pct": 0.106,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786276617.3027117,
@@ -32578,6 +32578,26 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786291757.7700508,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786291827,
+    "timestamp_added": 1786291828.0803683,
+    "username": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+    "wallet": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
+    "slug": "mlb-cin-wsh-2026-08-09-total-10pt5",
+    "title": "Cincinnati Reds vs. Washington Nationals: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 10311.9826,
+    "whale_pct": 257.531,
+    "paper_stake_usd": 13.16,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786291828.0803738,
     "fills": 1
   }
 ]
