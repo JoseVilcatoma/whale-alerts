@@ -32229,7 +32229,7 @@
     "whale_pct": 0.252,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -33671,6 +33671,26 @@
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786300509.9415078,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786300579,
+    "timestamp_added": 1786300579.8520334,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-cin-wsh-2026-08-09-total-5pt5",
+    "title": "Cincinnati Reds vs. Washington Nationals: O/U 5.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 42.0,
+    "whale_pct": 0.131,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786300579.8520412,
     "fills": 1
   }
 ]
