@@ -1,5 +1,5 @@
 {
-  "bankroll": 484.0660374008573,
+  "bankroll": 479.71603740085726,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4285,6 +4285,31 @@
       "timestamp": 1786240074.267453,
       "bankroll": 484.07,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 5.5"
+    },
+    {
+      "timestamp": 1786240245.7727547,
+      "bankroll": 479.72,
+      "event": "lost: HomeRunHazard \u2014 Colorado Rockies vs. St. Louis Cardinals: O/U 10.5"
+    },
+    {
+      "timestamp": 1786240249.3759866,
+      "bankroll": 479.72,
+      "event": "lost: HomeRunHazard \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 6.5"
+    },
+    {
+      "timestamp": 1786240249.4762537,
+      "bankroll": 479.72,
+      "event": "lost: HomeRunHazard \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 6.5"
+    },
+    {
+      "timestamp": 1786240249.7768822,
+      "bankroll": 479.72,
+      "event": "lost: HomeRunHazard \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 6.5"
+    },
+    {
+      "timestamp": 1786240269.6667888,
+      "bankroll": 479.72,
+      "event": "lost: 1winstreak1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 6.5"
     }
   ]
 }
