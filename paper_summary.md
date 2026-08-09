@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 22:09:51 (hora de Perú)
+Actualizado: 2026-08-08 22:11:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $382.82
@@ -16,8 +16,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 16 | 25 | 62 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 30 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 28 | 25 | 9 | +14.42 USD |
-| greyoctober | 7 | 0 | 6 | +12.95 USD |
+| wr0ngw4yb3tt0r | 28 | 25 | 10 | +14.42 USD |
+| greyoctober | 7 | 0 | 7 | +12.95 USD |
 | UpTheBlues | 63 | 39 | 20 | +8.27 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | swisstony | 2 | 0 | 0 | +2.82 USD |
@@ -163,6 +163,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 53% | 0.61 | ⏳ pendiente | — |
+| greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 2.81 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 24% | 0.57 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 38% | 1.18 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Arizona Diamondbacks (BUY) | 88% | 2.46 | ⏳ pendiente | — |
@@ -191,5 +193,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 1.14 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 41% | 0.53 | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Diego Ferreira vs. Bill | Billy Quarantillo (BUY) | 19% | 2.18 | ❌ perdida | -2.18 |
-| quavoo | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 64% | 0.48 | ⏳ pendiente | — |
-| quavoo | Will Los Angeles FC win on 2026-08-08? | Yes (BUY) | 39% | 0.54 | ⏳ pendiente | — |
