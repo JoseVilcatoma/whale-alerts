@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 15:19:51 (hora de Perú)
+Actualizado: 2026-08-09 15:21:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $167.13
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 70 | 52 | 33 | +31.21 USD |
+| 1winstreak1 | 70 | 52 | 37 | +31.21 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 37 | 32 | 7 | +12.14 USD |
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 83 | 42 | 6 | -20.27 USD |
+| RN1 | 83 | 42 | 8 | -20.27 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 56 | 87 | 35 | -53.98 USD |
@@ -202,13 +202,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-atl-nyy-2026-08-09-total-8pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-cin-wsh-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-spread-home-2pt5 | 1winstreak1, ferrariChampions2026 |
+| mlb-min-mil-2026-08-09-spread-home-1pt5 | 1winstreak1, RN1 |
 | wnba-dal-min-2026-08-09 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-min-mil-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
+| mlb-min-mil-2026-08-09-total-9pt5 | 1winstreak1, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 15% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Minnesota Twins vs. Milwaukee Brewers: O | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| RN1 | Minnesota Twins vs. Milwaukee Brewers: O | Under (BUY) | 74% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Minnesota Twins vs. Milwaukee Brewers: O | Over (BUY) | 27% | 3.40 | ⏳ pendiente | — |
+| RN1 | Spread: Milwaukee Brewers (-1.5) | Minnesota Twins (BUY) | 75% | 0.55 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 26% | 6.18 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 46% | 0.26 | ⏳ pendiente | — |
 | quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 46% | 0.18 | ⏳ pendiente | — |
 | RN1 | Will San Martin de Tucuman win on 2026-0 | Yes (BUY) | 40% | 0.72 | ⏳ pendiente | — |
@@ -233,9 +241,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Dignitas vs LYON (BO3) - LCS Regula | LYON (BUY) | 89% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Dallas Wings (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dignitas vs LYON - Game 1 Winner | LYON (BUY) | 81% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Dallas Wings (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 58% | 0.45 | ⏳ pendiente | — |
-| ferrariChampions2026 | Phoenix Mercury vs. Washington Mystics:  | Over (BUY) | 53% | 0.38 | ⏳ pendiente | — |
-| ferrariChampions2026 | Phoenix Mercury vs. Washington Mystics:  | Over (BUY) | 53% | 0.34 | ⏳ pendiente | — |
-| 1winstreak1 | Dallas Wings vs. Minnesota Lynx: O/U 179 | Under (BUY) | 48% | 0.91 | ⏳ pendiente | — |
-| 1winstreak1 | Chicago Cubs vs. Kansas City Royals: O/U | Under (BUY) | 24% | 0.26 | ❌ perdida | -0.26 |
