@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 16:01:23 (hora de Perú)
+Actualizado: 2026-08-09 16:03:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $168.72
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 79 | 55 | 35 | +31.24 USD |
+| 1winstreak1 | 79 | 55 | 38 | +31.24 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 37 | 33 | 8 | +12.14 USD |
@@ -29,14 +29,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 84 | 42 | 12 | -20.21 USD |
+| RN1 | 84 | 42 | 13 | -20.21 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 60 | 89 | 29 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 32 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 33 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -209,11 +209,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-dig-ly-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-total-9pt5 | 1winstreak1, RN1 |
+| mlb-cle-cws-2026-08-09-total-10pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: St. Louis Cardinals (-2.5) | Colorado Rockies (BUY) | 71% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Seattle Mariners (-2.5) | Seattle Mariners (BUY) | 33% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Minnesota Lynx (-7.5) | Minnesota Lynx (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| RN1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Académico de Viseu FC win on 2026-0 | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-2.5) | Cleveland Guardians (BUY) | 39% | 0.00 | ⏳ pendiente | — |
@@ -239,8 +245,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | SE Palmeiras vs. SC Internacional: O/U 0 | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Philadelphia Phill | Under (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will SE Palmeiras vs. SC Internacional e | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Detroit Tigers (-2.5) | San Francisco Giants (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Dignitas vs LYON (BO3) - LCS Regula | LYON (BUY) | 74% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will CR Vasco da Gama win on 2026-08-09? | No (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dignitas vs LYON - Game 1 Winner | LYON (BUY) | 36% | 0.00 | ⏳ pendiente | — |
