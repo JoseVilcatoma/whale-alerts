@@ -33441,5 +33441,69 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786299536.0093465,
     "fills": 1
+  },
+  {
+    "timestamp": 1786300027,
+    "timestamp_added": 1786300027.3803265,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-cin-wsh-2026-08-09-total-7pt5",
+    "title": "Cincinnati Reds vs. Washington Nationals: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 35.0,
+    "whale_pct": 0.119,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 28,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786300027.3803353,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786300028,
+    "timestamp_added": 1786300028.2761037,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-cin-wsh-2026-08-09-total-8pt5",
+    "title": "Cincinnati Reds vs. Washington Nationals: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 58.14,
+    "whale_pct": 0.197,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 23,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786300028.276112,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786300127,
+    "timestamp_added": 1786300127.8763103,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "bra2-nov-juv-2026-08-09-nov",
+    "title": "Will Gr\u00eamio Novorizontino win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 11901.6109,
+    "whale_pct": 34.405,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786300129.3717008,
+    "fills": 4
   }
 ]
