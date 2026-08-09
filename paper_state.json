@@ -1,5 +1,5 @@
 {
-  "bankroll": 167.13241629722793,
+  "bankroll": 168.08359276781616,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7550,6 +7550,41 @@
       "timestamp": 1786306773.0758457,
       "bankroll": 167.13,
       "event": "lost: 1winstreak1 \u2014 Chicago Cubs vs. Kansas City Royals: O/U 10.5"
+    },
+    {
+      "timestamp": 1786306948.7465873,
+      "bankroll": 167.13,
+      "event": "won: quavoo \u2014 Will Cruzeiro EC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786306956.4563406,
+      "bankroll": 167.13,
+      "event": "won: ferrariChampions2026 \u2014 Will Cruzeiro EC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786306963.3751903,
+      "bankroll": 168.08,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786306963.7206388,
+      "bankroll": 168.08,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 6.5"
+    },
+    {
+      "timestamp": 1786306966.155215,
+      "bankroll": 168.08,
+      "event": "won: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786306966.2554362,
+      "bankroll": 168.08,
+      "event": "won: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786306966.3556721,
+      "bankroll": 168.08,
+      "event": "won: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 7.5"
     }
   ]
 }
