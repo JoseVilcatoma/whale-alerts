@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 18:19:29 (hora de Perú)
+Actualizado: 2026-08-09 18:21:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.25
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 85 | 42 | 79 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 62 | 89 | 45 | -55.81 USD |
+| quavoo | 62 | 89 | 46 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | ferrariChampions2026 | 344 | 251 | 91 | -91.86 USD |
@@ -237,6 +237,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Spread: Chicago Fire FC (-1.5) | Chicago Fire FC (BUY) | 40% | 0.39 | ⏳ pendiente | — |
 | ferrariChampions2026 | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 62% | 0.63 | ⏳ pendiente | — |
 | ferrariChampions2026 | CR Flamengo vs. EC Vitória: O/U 2.5 | Over (BUY) | 50% | 3.32 | ⏳ pendiente | — |
 | RN1 | CR Flamengo vs. EC Vitória: O/U 2.5 | Under (BUY) | 45% | 0.35 | ⏳ pendiente | — |
@@ -266,4 +267,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will SC Corinthians Paulista win on 2026 | Yes (BUY) | 70% | 0.30 | ⏳ pendiente | — |
 | quavoo | Will Once Caldas win on 2026-08-09? | Yes (BUY) | 42% | 0.44 | ⏳ pendiente | — |
 | quavoo | Will Nashville SC win on 2026-08-09? | Yes (BUY) | 55% | 0.33 | ⏳ pendiente | — |
-| RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 98% | 0.40 | ⏳ pendiente | — |
