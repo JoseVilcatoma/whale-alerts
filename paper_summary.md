@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 20:33:38 (hora de Perú)
+Actualizado: 2026-08-08 20:35:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $477.18
-**Retorno acumulado:** -52.28%
+**Bankroll actual:** $480.42
+**Retorno acumulado:** -51.96%
 **Peor caída desde un máximo (drawdown):** 53.54%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 30 | 29 | 22 | -8.77 USD |
+| 1winstreak1 | 31 | 29 | 22 | -5.53 USD |
 | wr0ngw4yb3tt0r | 21 | 16 | 19 | -10.16 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 20 | 16 | 5 | -20.97 USD |
@@ -156,6 +156,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 66% | 1.48 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Baltimore Orioles (-1.5) | Baltimore Orioles (BUY) | 14% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 27% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
@@ -174,7 +175,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Instituto AC Córdoba vs. CA Gimnasia y E | Under (BUY) | 68% | 3.79 | ⏳ pendiente | — |
 | 1winstreak1 | Seattle Storm vs. PortlandFire | Seattle Storm (BUY) | 53% | 4.91 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 71% | 0.00 | ✅ ganada | +0.00 |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 56% | 4.12 | ⏳ pendiente | — |
+| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 56% | 4.12 | ✅ ganada | +3.24 |
 | 1winstreak1 | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 82% | 16.60 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 2.5 Rounds | Over (BUY) | 64% | 0.73 | ✅ ganada | +0.41 |
 | TeGeeLP | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 60% | 0.00 | ⏳ pendiente | — |
@@ -185,4 +186,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Washington Spirit win on 2026-08-08 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Fluminense FC win on 2026-08-08? | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Orlando City SC win on 2026-08-08? | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
