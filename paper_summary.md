@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 22:16:00 (hora de Perú)
+Actualizado: 2026-08-08 22:18:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $382.66
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 222 | 184 | 12 | -85.85 USD |
+| ferrariChampions2026 | 222 | 184 | 16 | -85.85 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 10 | -303.20 USD |
 
@@ -98,6 +98,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-blg-edg-2026-08-08-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Spicer |
 | mlb-laa-mia-2026-08-08-total-6pt5 | 1winstreak1, HomeRunHazard |
 | wnba-sea-por-2026-08-08 | 1winstreak1, HomeRunHazard, ferrariChampions2026 |
+| mlb-tb-sea-2026-08-08-spread-away-1pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-tb-sea-2026-08-08-total-7pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-atl-nyy-2026-08-08-total-7pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-atl-nyy-2026-08-08-total-8pt5 | 1winstreak1, HomeRunHazard |
@@ -156,6 +157,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-lad-ari-2026-08-08-total-4pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-lad-ari-2026-08-08-total-3pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-cle-cws-2026-08-08-spread-home-2pt5 | 1winstreak1, ferrariChampions2026 |
+| lec-tol-laf-2026-08-08-laf | ferrariChampions2026, quavoo |
 | mlb-lad-ari-2026-08-08-total-2pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-tb-sea-2026-08-08-total-6pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
@@ -163,6 +165,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Real Salt Lake win on 2026-08-08? | Yes (BUY) | 77% | 0.43 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Tampa Bay Rays (-1.5) | Seattle Mariners (BUY) | 72% | 0.70 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Real Salt Lake win on 2026-08-08? | Yes (BUY) | 77% | 0.42 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Los Angeles FC win on 2026-08-08? | No (BUY) | 56% | 1.28 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Seattle Mariners: O/U | Under (BUY) | 53% | 0.61 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 2.81 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 24% | 0.57 | ⏳ pendiente | — |
@@ -189,7 +195,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 9.04 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 0.52 | ⏳ pendiente | — |
 | greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 31.72 | ⏳ pendiente | — |
-| greyoctober | Valorant: Trace Esports vs FunPlus Phoen | FunPlus Phoenix (BUY) | 61% | 11.33 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 1.14 | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 41% | 0.53 | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Diego Ferreira vs. Bill | Billy Quarantillo (BUY) | 19% | 2.18 | ❌ perdida | -2.18 |
