@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 08:33:29 (hora de Perú)
+Actualizado: 2026-08-09 08:35:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $260.77
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 2 | 2 | 3 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 125 | -20.92 USD |
+| RN1 | 24 | 17 | 127 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 26 | 70 | 73 | -53.95 USD |
@@ -167,6 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tb-sea-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | clf-mci-atm-2026-08-09-atm | RN1, ferrariChampions2026, quavoo |
 | mlb-bal-tex-2026-08-09-total-8pt5 | ferrariChampions2026, quavoo |
+| swe-mal-deg-2026-08-09-mal | RN1, quavoo |
 | clf-lfc-asm-2026-08-09-lfc | RN1, quavoo |
 | ere-spa-fey-2026-08-09-fey | RN1, quavoo |
 | val-gm-ep1-2026-08-09 | greyoctober, quavoo |
@@ -195,6 +196,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Malmo FF win on 2026-08-09? | No (BUY) | 93% | 1.25 | ⏳ pendiente | — |
+| RN1 | Will FC Groningen win on 2026-08-09? | Yes (BUY) | 66% | 0.39 | ⏳ pendiente | — |
 | RN1 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 50% | 0.53 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will AS Monaco win on 2026-08-09? | No (BUY) | 85% | 0.46 | ⏳ pendiente | — |
 | ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 48% | 0.30 | ⏳ pendiente | — |
@@ -223,5 +226,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will AFC Ajax win on 2026-08-09? | No (BUY) | 46% | 0.66 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Hannover 96 win on 2026-08-09? | Yes (BUY) | 44% | 0.78 | ⏳ pendiente | — |
 | RN1 | Will FC St. Pauli 1910 vs. SpVgg Greuthe | Yes (BUY) | 63% | 0.94 | ⏳ pendiente | — |
-| RN1 | Will FC St. Pauli 1910 win on 2026-08-09 | No (BUY) | 72% | 1.11 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Hannover 96 win on 2026-08-09? | Yes (BUY) | 45% | 1.21 | ⏳ pendiente | — |
