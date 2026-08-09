@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 16:20:14 (hora de Perú)
+Actualizado: 2026-08-09 16:22:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $168.72
@@ -26,18 +26,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 3 | 2 | +0.00 USD |
 | monkeymashingkeyboard | 0 | 0 | 3 | +0.00 USD |
 | theowalcott | 0 | 0 | 2 | +0.00 USD |
-| AV23IUa | 0 | 0 | 4 | +0.00 USD |
+| AV23IUa | 0 | 0 | 5 | +0.00 USD |
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 84 | 42 | 47 | -20.21 USD |
+| RN1 | 84 | 42 | 51 | -20.21 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 61 | 89 | 28 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 45 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 47 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -219,6 +219,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will CA Barracas Central win on 2026-08- | No (BUY) | 81% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will CA Barracas Central win on 2026-08- | No (BUY) | 80% | 0.00 | ⏳ pendiente | — |
+| AV23IUa | Will Santos FC win on 2026-08-09? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| RN1 | Sport Lisboa e Benfica vs. Académico de  | Under (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | RN1 | Sport Lisboa e Benfica vs. Académico de  | Over (BUY) | 32% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Académico de Viseu FC win on 2026-0 | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
@@ -242,10 +249,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Sport Lisboa e Benfica vs. Académico de  | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Sport Lisboa e Benfica vs. Académic | No (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | RN1 | Moreirense FC vs. SC Braga: O/U 3.5 | Under (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Detroit Tigers vs. San Francisco Giants: | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Newell's Old Boys win on 2026-08 | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dallas Wings vs. Minnesota Lynx | Minnesota Lynx (BUY) | 88% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will CA Bucaramanga win on 2026-08-10? | Yes (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| AV23IUa | Will Santos FC win on 2026-08-09? | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 22% | 0.00 | ⏳ pendiente | — |
