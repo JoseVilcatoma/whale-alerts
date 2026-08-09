@@ -24933,5 +24933,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786248127.0414343,
     "fills": 1
+  },
+  {
+    "timestamp": 1786248570,
+    "timestamp_added": 1786248571.1033,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-tol-laf-2026-08-08-total-1pt5",
+    "title": "Deportivo Toluca FC vs. Los Angeles FC: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 424.53000000000003,
+    "whale_pct": 0.117,
+    "paper_stake_usd": 0.45,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786248571.1033072,
+    "fills": 1
   }
 ]
