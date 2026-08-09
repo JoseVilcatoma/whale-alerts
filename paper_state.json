@@ -1,5 +1,5 @@
 {
-  "bankroll": 392.5664408984245,
+  "bankroll": 394.7514408984245,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4840,6 +4840,96 @@
       "timestamp": 1786243502.3434305,
       "bankroll": 392.57,
       "event": "won: ferrariChampions2026 \u2014 Instituto AC C\u00f3rdoba vs. CA Gimnasia y Esgrima de Mendoza: O/U 0.5"
+    },
+    {
+      "timestamp": 1786243792.3010063,
+      "bankroll": 392.57,
+      "event": "lost: quavoo \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243793.0410194,
+      "bankroll": 392.57,
+      "event": "lost: quavoo \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243793.3415444,
+      "bankroll": 392.57,
+      "event": "lost: quavoo \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243793.5418859,
+      "bankroll": 392.57,
+      "event": "lost: quavoo \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243793.742145,
+      "bankroll": 392.57,
+      "event": "lost: quavoo \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243793.9424114,
+      "bankroll": 392.57,
+      "event": "lost: quavoo \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243795.0660744,
+      "bankroll": 392.57,
+      "event": "lost: quavoo \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243795.2663755,
+      "bankroll": 392.57,
+      "event": "lost: quavoo \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243795.4666436,
+      "bankroll": 392.57,
+      "event": "lost: quavoo \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243795.5667765,
+      "bankroll": 392.57,
+      "event": "lost: quavoo \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243795.6669192,
+      "bankroll": 392.57,
+      "event": "lost: quavoo \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243795.7670555,
+      "bankroll": 392.57,
+      "event": "lost: quavoo \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243796.0674417,
+      "bankroll": 392.57,
+      "event": "lost: quavoo \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243797.2534482,
+      "bankroll": 392.57,
+      "event": "lost: quavoo \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243800.0756311,
+      "bankroll": 391.78,
+      "event": "lost: ferrariChampions2026 \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243801.2022982,
+      "bankroll": 394.75,
+      "event": "won: UpTheBlues \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243802.3226757,
+      "bankroll": 394.75,
+      "event": "won: UpTheBlues \u2014 Will Orlando City SC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786243803.8609817,
+      "bankroll": 394.75,
+      "event": "won: UpTheBlues \u2014 Will Orlando City SC win on 2026-08-08?"
     }
   ]
 }

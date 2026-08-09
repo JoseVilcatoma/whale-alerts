@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:49:13 (hora de Perú)
+Actualizado: 2026-08-08 21:51:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $392.57
-**Retorno acumulado:** -60.74%
+**Bankroll actual:** $394.75
+**Retorno acumulado:** -60.52%
 **Peor caída desde un máximo (drawdown):** 61.20%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,13 +13,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| quavoo | 16 | 11 | 73 | +22.68 USD |
+| quavoo | 16 | 25 | 59 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 29 | 1 | +20.63 USD |
 | wr0ngw4yb3tt0r | 26 | 23 | 13 | +19.60 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | greyoctober | 7 | 0 | 6 | +12.95 USD |
+| UpTheBlues | 63 | 39 | 20 | +8.27 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 60 | 39 | 23 | +5.30 USD |
 | swisstony | 2 | 0 | 0 | +2.82 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 218 | 182 | 18 | -84.77 USD |
+| ferrariChampions2026 | 218 | 183 | 17 | -85.56 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 10 | -303.20 USD |
 
