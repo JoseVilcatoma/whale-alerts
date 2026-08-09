@@ -1,5 +1,5 @@
 {
-  "bankroll": 258.0004213918797,
+  "bankroll": 258.21042139187966,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5940,6 +5940,11 @@
       "timestamp": 1786285293.0436876,
       "bankroll": 258.0,
       "event": "won: RN1 \u2014 Sparta Rotterdam vs. Feyenoord Rotterdam: O/U 1.5"
+    },
+    {
+      "timestamp": 1786285568.9646935,
+      "bankroll": 258.21,
+      "event": "won: StasPanda \u2014 LoL: ThunderTalk Gaming vs Top Esports (BO3) - LPL Group Ascend"
     }
   ]
 }
