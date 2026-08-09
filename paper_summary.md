@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 01:02:00 (hora de Perú)
+Actualizado: 2026-08-09 01:04:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $356.85
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 21 | 47 | 86 | -48.01 USD |
+| quavoo | 21 | 47 | 87 | -48.01 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | ferrariChampions2026 | 230 | 192 | 18 | -91.33 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -167,6 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 55% | 3.20 | ⏳ pendiente | — |
 | quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 58% | 0.48 | ⏳ pendiente | — |
 | quavoo | Spread: Tōkyō Verdy (-1.5) | Kawasaki Frontale (BUY) | 90% | 0.68 | ⏳ pendiente | — |
 | UpTheBlues | SC Heerenveen vs. FC Twente: O/U 4.5 | Under (BUY) | 76% | 0.49 | ⏳ pendiente | — |
@@ -196,4 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 41% | 0.78 | ⏳ pendiente | — |
 | quavoo | Will Philadelphia Union win on 2026-08-0 | Yes (BUY) | 55% | 0.81 | ⏳ pendiente | — |
 | quavoo | Will Liverpool FC win on 2026-08-09? | Yes (BUY) | 63% | 0.57 | ⏳ pendiente | — |
-| quavoo | Will Malmo FF win on 2026-08-09? | Yes (BUY) | 67% | 1.93 | ⏳ pendiente | — |

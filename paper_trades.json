@@ -26333,5 +26333,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786255213.4501112,
     "fills": 1
+  },
+  {
+    "timestamp": 1786255376,
+    "timestamp_added": 1786255376.4484046,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-bal-tex-2026-08-09-total-8pt5",
+    "title": "Baltimore Orioles vs. Texas Rangers: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1090.65,
+    "whale_pct": 0.896,
+    "paper_stake_usd": 3.2,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786255376.4484143,
+    "fills": 1
   }
 ]
