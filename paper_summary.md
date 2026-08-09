@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 14:19:15 (hora de Perú)
+Actualizado: 2026-08-09 14:21:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $172.24
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 66 | 50 | 31 | +29.06 USD |
+| 1winstreak1 | 66 | 50 | 33 | +29.06 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 35 | 32 | 11 | +11.82 USD |
@@ -207,6 +207,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Baltimore Orioles (-2.5) | Baltimore Orioles (BUY) | 74% | 0.41 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Atlanta Braves (-2.5) | Atlanta Braves (BUY) | 20% | 0.43 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 91% | 0.81 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Miami Marlins: O/ | Over (BUY) | 80% | 0.63 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Texas Rangers: O/U | Under (BUY) | 45% | 0.37 | ⏳ pendiente | — |
@@ -235,5 +237,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 19% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 87% | 0.00 | ✅ ganada | +0.00 |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 86% | 0.00 | ✅ ganada | +0.00 |
-| 1winstreak1 | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 76% | 0.00 | ✅ ganada | +0.00 |
