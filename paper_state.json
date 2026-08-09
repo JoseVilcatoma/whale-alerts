@@ -1,5 +1,5 @@
 {
-  "bankroll": 406.0585251459554,
+  "bankroll": 395.1385251459554,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4465,6 +4465,26 @@
       "timestamp": 1786240760.323584,
       "bankroll": 406.06,
       "event": "lost: 1winstreak1 \u2014 Spread: Kansas City Royals (-1.5)"
+    },
+    {
+      "timestamp": 1786240872.6397717,
+      "bankroll": 405.02,
+      "event": "lost: HomeRunHazard \u2014 Chicago Cubs vs. Kansas City Royals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786240873.1528423,
+      "bankroll": 396.01,
+      "event": "lost: HomeRunHazard \u2014 Spread: Chicago Cubs (-1.5)"
+    },
+    {
+      "timestamp": 1786240873.7194793,
+      "bankroll": 396.01,
+      "event": "lost: HomeRunHazard \u2014 Chicago Cubs vs. Kansas City Royals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786240891.6014915,
+      "bankroll": 395.14,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago Cubs vs. Kansas City Royals: O/U 9.5"
     }
   ]
 }

@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 21:00:35 (hora de Perú)
+Actualizado: 2026-08-08 21:02:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $406.06
-**Retorno acumulado:** -59.39%
-**Peor caída desde un máximo (drawdown):** 59.39%
+**Bankroll actual:** $395.14
+**Retorno acumulado:** -60.49%
+**Peor caída desde un máximo (drawdown):** 60.49%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -13,12 +13,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| quavoo | 13 | 9 | 75 | +22.68 USD |
+| quavoo | 13 | 9 | 76 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 41 | 29 | 2 | +17.43 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | UpTheBlues | 47 | 31 | 44 | +15.42 USD |
-| HomeRunHazard | 35 | 34 | 19 | +15.03 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
+| HomeRunHazard | 35 | 37 | 16 | +4.98 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
@@ -26,13 +26,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 1 | +0.00 USD |
-| wr0ngw4yb3tt0r | 24 | 21 | 12 | -7.66 USD |
+| wr0ngw4yb3tt0r | 24 | 22 | 11 | -8.53 USD |
 | 1winstreak1 | 35 | 33 | 22 | -12.72 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 22 | 16 | 3 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 214 | 176 | 26 | -67.75 USD |
+| ferrariChampions2026 | 214 | 176 | 27 | -67.75 USD |
 | Talvez10 | 4 | 10 | 1 | -71.63 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 9 | -303.20 USD |
@@ -159,6 +159,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | UFC Fight Night: Diego Ferreira vs. Bill | Billy Quarantillo (BUY) | 19% | 2.18 | ⏳ pendiente | — |
+| quavoo | Manchester City vs. Atletico Madrid: O/U | Under (BUY) | 64% | 0.48 | ⏳ pendiente | — |
 | quavoo | Will Los Angeles FC win on 2026-08-08? | Yes (BUY) | 39% | 0.54 | ⏳ pendiente | — |
 | ferrariChampions2026 | Instituto AC Córdoba vs. CA Gimnasia y E | Over (BUY) | 47% | 0.57 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Instituto AC Córdoba win on 2026-08 | Yes (BUY) | 34% | 0.73 | ⏳ pendiente | — |
@@ -187,5 +189,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Arizona Diamondb | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | quavoo | Santos FC vs. CA Paranaense: O/U 2.5 | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | quavoo | Deportivo Toluca FC vs. Los Angeles FC:  | Yes (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Over (BUY) | 96% | 7.02 | ✅ ganada | +0.29 |
