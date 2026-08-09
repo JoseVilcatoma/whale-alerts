@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 10:22:23 (hora de Perú)
+Actualizado: 2026-08-09 10:24:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $156.16
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 2 | -89.94 USD |
-| ferrariChampions2026 | 251 | 202 | 106 | -91.43 USD |
+| ferrariChampions2026 | 251 | 202 | 108 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 14 | 38 | 5 | -298.46 USD |
 
@@ -195,6 +195,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Rangers FC (-1.5) | Hibernian FC (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Rangers FC win on 2026-08-09? | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 4.5 | Under (BUY) | 69% | 0.01 | ⏳ pendiente | — |
@@ -223,5 +225,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 4.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 78% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| SDTrading | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
