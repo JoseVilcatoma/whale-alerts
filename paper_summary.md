@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 19:29:06 (hora de Perú)
+Actualizado: 2026-08-08 19:31:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $473.05
-**Retorno acumulado:** -52.69%
+**Bankroll actual:** $476.00
+**Retorno acumulado:** -52.40%
 **Peor caída desde un máximo (drawdown):** 53.54%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -18,21 +18,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 30 | 24 | 34 | +16.40 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 40 | 29 | 53 | +10.59 USD |
+| UpTheBlues | 43 | 29 | 50 | +11.80 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
-| TeGeeLP | 0 | 0 | 1 | +0.00 USD |
+| TeGeeLP | 0 | 0 | 3 | +0.00 USD |
 | 1winstreak1 | 28 | 29 | 13 | -8.77 USD |
-| wr0ngw4yb3tt0r | 18 | 16 | 14 | -10.57 USD |
+| wr0ngw4yb3tt0r | 18 | 16 | 15 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 19 | 15 | 7 | -21.10 USD |
+| RN1 | 20 | 16 | 5 | -20.97 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| ferrariChampions2026 | 199 | 168 | 34 | -69.84 USD |
+| ferrariChampions2026 | 207 | 168 | 26 | -68.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 8 | -303.20 USD |
 
@@ -150,6 +150,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | O/U 2.5 Rounds | Over (BUY) | 64% | 0.73 | ⏳ pendiente | — |
+| TeGeeLP | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| TeGeeLP | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 59% | 5.33 | ⏳ pendiente | — |
 | TeGeeLP | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 60% | 1.70 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 94% | 0.05 | ⏳ pendiente | — |
 | UpTheBlues | Will Club León FC win on 2026-08-08? | No (BUY) | 74% | 1.05 | ⏳ pendiente | — |
@@ -177,6 +180,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Spread: Orlando City SC (-2.5) | Club León FC (BUY) | 98% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Orlando City SC vs. Club León FC: O/U 2. | Under (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Botafogo FR (-1.5) | Fluminense FC (BUY) | 82% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Orlando City SC (-1.5) | Club León FC (BUY) | 90% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 92% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Orlando City SC vs. Club León FC: O/U 2. | Under (BUY) | 24% | 0.00 | ⏳ pendiente | — |

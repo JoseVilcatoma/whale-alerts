@@ -17673,8 +17673,8 @@
     "whale_pct": 0.173,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 31,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786223559.3122878,
@@ -20638,8 +20638,8 @@
     "whale_pct": 0.145,
     "paper_stake_usd": 0.72,
     "odds_at_bet": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786227607.4466743,
@@ -20658,8 +20658,8 @@
     "whale_pct": 0.172,
     "paper_stake_usd": 0.86,
     "odds_at_bet": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.13,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -20700,8 +20700,8 @@
     "whale_pct": 0.302,
     "paper_stake_usd": 1.5,
     "odds_at_bet": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.24,
     "overlaps_with": [
       "RN1"
     ],
@@ -20806,8 +20806,8 @@
     "whale_pct": 1.044,
     "paper_stake_usd": 5.19,
     "odds_at_bet": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.71,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -20895,8 +20895,8 @@
     "whale_pct": 0.327,
     "paper_stake_usd": 1.63,
     "odds_at_bet": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.22,
     "overlaps_with": [
       "RN1",
       "UpTheBlues"
@@ -20918,8 +20918,8 @@
     "whale_pct": 0.127,
     "paper_stake_usd": 0.63,
     "odds_at_bet": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.37,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786227898.454557,
@@ -20938,8 +20938,8 @@
     "whale_pct": 0.511,
     "paper_stake_usd": 2.54,
     "odds_at_bet": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.35,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -20961,8 +20961,8 @@
     "whale_pct": 0.631,
     "paper_stake_usd": 3.14,
     "odds_at_bet": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.43,
     "overlaps_with": [
       "RN1",
       "UpTheBlues"
@@ -21006,8 +21006,8 @@
     "whale_pct": 0.174,
     "paper_stake_usd": 0.87,
     "odds_at_bet": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.12,
     "overlaps_with": [
       "RN1",
       "UpTheBlues"
@@ -21136,7 +21136,7 @@
     "whale_pct": 0.471,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 85,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "RN1",
@@ -21427,8 +21427,8 @@
     "whale_pct": 0.138,
     "paper_stake_usd": 0.73,
     "odds_at_bet": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.13,
     "overlaps_with": [
       "RN1",
       "UpTheBlues"
@@ -21684,8 +21684,8 @@
     "whale_pct": 0.146,
     "paper_stake_usd": 0.69,
     "odds_at_bet": 82,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.15,
     "overlaps_with": [
       "RN1"
     ],
@@ -22760,5 +22760,69 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786235341.2426984,
     "fills": 2
+  },
+  {
+    "timestamp": 1786235369,
+    "timestamp_added": 1786235369.5480843,
+    "username": "TeGeeLP",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-sen-sr-2026-08-08",
+    "title": "LoL: Sentinels vs Shopify Rebellion (BO3) - LCS Regular Season",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "whale_usd": 595.9,
+    "whale_pct": 4.911,
+    "paper_stake_usd": 5.33,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786235369.5480943,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786235384,
+    "timestamp_added": 1786235385.4449337,
+    "username": "TeGeeLP",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-sen-sr-2026-08-08",
+    "title": "LoL: Sentinels vs Shopify Rebellion (BO3) - LCS Regular Season",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "whale_usd": 725.646,
+    "whale_pct": 4.535,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786235395.0225432,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786235437,
+    "timestamp_added": 1786235438.3145142,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-ama3-ale57-2026-08-08-totals-2pt5",
+    "title": "O/U 2.5 Rounds",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 448.0,
+    "whale_pct": 0.154,
+    "paper_stake_usd": 0.73,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786235438.3145223,
+    "fills": 1
   }
 ]

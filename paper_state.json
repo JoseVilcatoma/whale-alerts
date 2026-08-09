@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.0503057284957,
+  "bankroll": 476.00405249125805,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4030,6 +4030,71 @@
       "timestamp": 1786235336.2342236,
       "bankroll": 473.05,
       "event": "won: UpTheBlues \u2014 CA Boca Juniors vs. CA V\u00e9lez Sarsfield: O/U 3.5"
+    },
+    {
+      "timestamp": 1786235388.9071157,
+      "bankroll": 473.05,
+      "event": "lost: RN1 \u2014 Spread: CA Boca Juniors (-1.5)"
+    },
+    {
+      "timestamp": 1786235395.5424387,
+      "bankroll": 473.16,
+      "event": "won: ferrariChampions2026 \u2014 Will CA V\u00e9lez Sarsfield win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235395.6426413,
+      "bankroll": 473.29,
+      "event": "won: RN1 \u2014 Will CA V\u00e9lez Sarsfield win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235395.7428365,
+      "bankroll": 473.53,
+      "event": "won: ferrariChampions2026 \u2014 Will CA V\u00e9lez Sarsfield win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235396.2437727,
+      "bankroll": 474.24,
+      "event": "won: UpTheBlues \u2014 Will CA V\u00e9lez Sarsfield win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235396.5443633,
+      "bankroll": 474.46,
+      "event": "won: ferrariChampions2026 \u2014 Will CA V\u00e9lez Sarsfield win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235396.7447262,
+      "bankroll": 474.81,
+      "event": "won: UpTheBlues \u2014 Will CA V\u00e9lez Sarsfield win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235396.8448656,
+      "bankroll": 475.24,
+      "event": "won: ferrariChampions2026 \u2014 Will CA V\u00e9lez Sarsfield win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235397.0451717,
+      "bankroll": 475.35,
+      "event": "won: ferrariChampions2026 \u2014 Will CA V\u00e9lez Sarsfield win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235397.4459503,
+      "bankroll": 475.35,
+      "event": "won: ferrariChampions2026 \u2014 Will CA V\u00e9lez Sarsfield win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235398.8019354,
+      "bankroll": 475.48,
+      "event": "won: ferrariChampions2026 \u2014 Will CA V\u00e9lez Sarsfield win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786235400.003843,
+      "bankroll": 475.63,
+      "event": "won: UpTheBlues \u2014 Spread: CA Boca Juniors (-1.5)"
+    },
+    {
+      "timestamp": 1786235460.4677737,
+      "bankroll": 476.0,
+      "event": "won: ferrariChampions2026 \u2014 CA Boca Juniors vs. CA V\u00e9lez Sarsfield: O/U 1.5"
     }
   ]
 }
