@@ -1,5 +1,5 @@
 {
-  "bankroll": 164.42412090124893,
+  "bankroll": 171.55861684109598,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7170,6 +7170,261 @@
       "timestamp": 1786300620.644775,
       "bankroll": 164.42,
       "event": "won: ferrariChampions2026 \u2014 Will Motherwell FC vs. Falkirk FC end in a draw?"
+    },
+    {
+      "timestamp": 1786304432.9148564,
+      "bankroll": 164.42,
+      "event": "won: quavoo \u2014 Las Vegas Aces vs. New York Liberty"
+    },
+    {
+      "timestamp": 1786304433.0149753,
+      "bankroll": 164.42,
+      "event": "won: quavoo \u2014 Las Vegas Aces vs. New York Liberty"
+    },
+    {
+      "timestamp": 1786304433.1152031,
+      "bankroll": 164.42,
+      "event": "won: quavoo \u2014 Las Vegas Aces vs. New York Liberty"
+    },
+    {
+      "timestamp": 1786304433.2154317,
+      "bankroll": 164.42,
+      "event": "won: quavoo \u2014 Las Vegas Aces vs. New York Liberty"
+    },
+    {
+      "timestamp": 1786304438.395724,
+      "bankroll": 163.78,
+      "event": "lost: quavoo \u2014 Olympique Marseille vs. Athletic Bilbao: O/U 3.5"
+    },
+    {
+      "timestamp": 1786304439.217917,
+      "bankroll": 163.94,
+      "event": "won: UpTheBlues \u2014 SC Heerenveen vs. FC Twente: O/U 4.5"
+    },
+    {
+      "timestamp": 1786304439.7005227,
+      "bankroll": 163.94,
+      "event": "won: UpTheBlues \u2014 SC Heerenveen vs. FC Twente: O/U 4.5"
+    },
+    {
+      "timestamp": 1786304443.1278453,
+      "bankroll": 163.94,
+      "event": "lost: quavoo \u2014 SC Heerenveen vs. FC Twente: O/U 1.5"
+    },
+    {
+      "timestamp": 1786304443.469466,
+      "bankroll": 163.94,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: New York Liberty (-9.5)"
+    },
+    {
+      "timestamp": 1786304443.8133461,
+      "bankroll": 163.94,
+      "event": "lost: SDTrading \u2014 Cincinnati Reds vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786304443.9134958,
+      "bankroll": 163.94,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Cincinnati Reds vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786304445.1727219,
+      "bankroll": 163.94,
+      "event": "won: quavoo \u2014 Will FC Sion win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786304445.5978324,
+      "bankroll": 163.99,
+      "event": "won: ferrariChampions2026 \u2014 Rangers FC vs. Hibernian FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786304446.3026068,
+      "bankroll": 163.57,
+      "event": "lost: ferrariChampions2026 \u2014 Will Rangers FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786304447.231886,
+      "bankroll": 163.58,
+      "event": "won: ferrariChampions2026 \u2014 Rangers FC vs. Hibernian FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786304447.4321132,
+      "bankroll": 163.58,
+      "event": "won: ferrariChampions2026 \u2014 Rangers FC vs. Hibernian FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786304447.5322793,
+      "bankroll": 163.58,
+      "event": "won: ferrariChampions2026 \u2014 Will Rangers FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786304447.8438709,
+      "bankroll": 163.58,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Rangers FC (-1.5)"
+    },
+    {
+      "timestamp": 1786304448.7233853,
+      "bankroll": 163.58,
+      "event": "lost: SDTrading \u2014 Cincinnati Reds vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786304448.9237118,
+      "bankroll": 163.58,
+      "event": "lost: SDTrading \u2014 Cincinnati Reds vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786304449.0238562,
+      "bankroll": 163.58,
+      "event": "won: ferrariChampions2026 \u2014 Rangers FC vs. Hibernian FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786304449.2240984,
+      "bankroll": 163.58,
+      "event": "lost: ferrariChampions2026 \u2014 Will Rangers FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786304449.8569858,
+      "bankroll": 163.58,
+      "event": "lost: ferrariChampions2026 \u2014 Will Rangers FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786304450.4843483,
+      "bankroll": 163.58,
+      "event": "won: ferrariChampions2026 \u2014 Rangers FC vs. Hibernian FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786304450.684734,
+      "bankroll": 163.58,
+      "event": "won: ferrariChampions2026 \u2014 Rangers FC vs. Hibernian FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786304451.0927634,
+      "bankroll": 163.58,
+      "event": "won: ferrariChampions2026 \u2014 Will Rangers FC vs. Hibernian FC end in a draw?"
+    },
+    {
+      "timestamp": 1786304451.1929846,
+      "bankroll": 163.72,
+      "event": "won: ferrariChampions2026 \u2014 Will Rangers FC vs. Hibernian FC end in a draw?"
+    },
+    {
+      "timestamp": 1786304451.4718332,
+      "bankroll": 163.81,
+      "event": "won: ferrariChampions2026 \u2014 Will Athletic Bilbao win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786304452.0037482,
+      "bankroll": 163.49,
+      "event": "lost: ferrariChampions2026 \u2014 Will Rangers FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786304452.2040987,
+      "bankroll": 163.62,
+      "event": "won: ferrariChampions2026 \u2014 Rangers FC vs. Hibernian FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786304452.3042357,
+      "bankroll": 163.07,
+      "event": "lost: ferrariChampions2026 \u2014 Will Rangers FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786304452.4043941,
+      "bankroll": 163.21,
+      "event": "won: ferrariChampions2026 \u2014 Rangers FC vs. Hibernian FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786304453.1975625,
+      "bankroll": 171.28,
+      "event": "won: 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 10.5"
+    },
+    {
+      "timestamp": 1786304455.422424,
+      "bankroll": 171.28,
+      "event": "won: ferrariChampions2026 \u2014 Las Vegas Aces vs. New York Liberty: O/U 175.5"
+    },
+    {
+      "timestamp": 1786304455.7369144,
+      "bankroll": 171.28,
+      "event": "won: ferrariChampions2026 \u2014 Las Vegas Aces vs. New York Liberty: O/U 176.5"
+    },
+    {
+      "timestamp": 1786304456.1211848,
+      "bankroll": 171.28,
+      "event": "lost: ferrariChampions2026 \u2014 Las Vegas Aces vs. New York Liberty: O/U 175.5"
+    },
+    {
+      "timestamp": 1786304456.2213042,
+      "bankroll": 171.28,
+      "event": "lost: ferrariChampions2026 \u2014 Las Vegas Aces vs. New York Liberty: O/U 176.5"
+    },
+    {
+      "timestamp": 1786304456.5217452,
+      "bankroll": 171.56,
+      "event": "won: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786304457.446891,
+      "bankroll": 171.56,
+      "event": "won: ferrariChampions2026 \u2014 New York Mets vs. Pittsburgh Pirates: O/U 8.5"
+    },
+    {
+      "timestamp": 1786304458.8048294,
+      "bankroll": 171.56,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Washington Nationals (-2.5)"
+    },
+    {
+      "timestamp": 1786304459.3303428,
+      "bankroll": 171.56,
+      "event": "won: 1winstreak1 \u2014 Spread: Washington Nationals (-2.5)"
+    },
+    {
+      "timestamp": 1786304459.6573427,
+      "bankroll": 171.56,
+      "event": "won: 1winstreak1 \u2014 Spread: Washington Nationals (-1.5)"
+    },
+    {
+      "timestamp": 1786304459.75772,
+      "bankroll": 171.56,
+      "event": "won: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786304461.1499083,
+      "bankroll": 171.56,
+      "event": "won: 1winstreak1 \u2014 New York Mets vs. Pittsburgh Pirates: O/U 9.5"
+    },
+    {
+      "timestamp": 1786304461.450423,
+      "bankroll": 171.56,
+      "event": "lost: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786304461.650705,
+      "bankroll": 171.56,
+      "event": "lost: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786304462.1502306,
+      "bankroll": 171.56,
+      "event": "won: 1winstreak1 \u2014 Spread: Washington Nationals (-1.5)"
+    },
+    {
+      "timestamp": 1786304462.250422,
+      "bankroll": 171.56,
+      "event": "won: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786304462.3505468,
+      "bankroll": 171.56,
+      "event": "won: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786304465.7415407,
+      "bankroll": 171.56,
+      "event": "won: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786304465.8429806,
+      "bankroll": 171.56,
+      "event": "won: 1winstreak1 \u2014 Cincinnati Reds vs. Washington Nationals: O/U 9.5"
     }
   ]
 }
