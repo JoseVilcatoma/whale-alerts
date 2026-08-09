@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 07:51:39 (hora de Perú)
+Actualizado: 2026-08-09 07:53:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $344.10
-**Retorno acumulado:** -65.59%
+**Bankroll actual:** $338.96
+**Retorno acumulado:** -66.10%
 **Peor caída desde un máximo (drawdown):** 68.38%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,22 +19,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 7 | 0 | 19 | +12.95 USD |
 | wr0ngw4yb3tt0r | 34 | 31 | 0 | +11.82 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
-| UpTheBlues | 78 | 44 | 7 | +8.44 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| swisstony | 2 | 1 | 4 | +2.82 USD |
+| UpTheBlues | 78 | 45 | 6 | +7.53 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 0 | 1 | +0.00 USD |
+| swisstony | 2 | 2 | 3 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 74 | -20.92 USD |
+| RN1 | 24 | 17 | 78 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 25 | 68 | 76 | -54.69 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 245 | 197 | 88 | -91.43 USD |
+| ferrariChampions2026 | 245 | 197 | 91 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -189,6 +189,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chongqing Tonglianglong FC vs. Shanghai  | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| RN1 | Manchester City vs. Atletico Madrid: O/U | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will FC Energie Cottbus win on 2026-08-0 | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Kilmarnock FC vs. Celtic FC: O/U 3.5 | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Kilmarnock FC vs. Celtic FC: O/U 3.5 | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| RN1 | Kilmarnock FC vs. Celtic FC: 1st Half O/ | Under (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Manchester City win on 2026-08-09? | No (BUY) | 10% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chelsea FC (-1.5) | Johor Darul Ta'zim (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Henan FC win on 2026-08-09? | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
@@ -212,10 +219,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | Colorado Rockies vs. St. Louis Cardinals | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Manchester City win on 2026-08-09? | Yes (BUY) | 80% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Manchester City win on 2026-08-09? | Yes (BUY) | 80% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 87% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: JD Gaming vs Team WE - Game 2 Winne | JD Gaming (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 88% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 88% | 0.00 | ⏳ pendiente | — |
-| RN1 | PEC Zwolle vs. AFC Ajax: O/U 1.5 | Over (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 84% | 0.00 | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 344.1024254066004,
+  "bankroll": 338.96242540660035,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5750,6 +5750,16 @@
       "timestamp": 1786278188.792983,
       "bankroll": 344.1,
       "event": "lost: swisstony \u2014 Spread: V-Varen Nagasaki (-1.5)"
+    },
+    {
+      "timestamp": 1786279935.2053037,
+      "bankroll": 343.19,
+      "event": "lost: UpTheBlues \u2014 Brisbane Roar FC vs. Sydney FC: O/U 5.5"
+    },
+    {
+      "timestamp": 1786279935.3055332,
+      "bankroll": 338.96,
+      "event": "lost: swisstony \u2014 Brisbane Roar FC vs. Sydney FC: O/U 5.5"
     }
   ]
 }
