@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 17:25:10 (hora de Perú)
+Actualizado: 2026-08-09 17:27:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $288.18
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 79 | 55 | 57 | +31.24 USD |
+| 1winstreak1 | 79 | 55 | 58 | +31.24 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -232,6 +232,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Cleveland Guardians vs. Chicago White So | Under (BUY) | 35% | 0.77 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: FlyQuest vs Team Liquid (BO3) - LCS | Team Liquid (BUY) | 84% | 1.33 | ⏳ pendiente | — |
 | RN1 | Will Red Bull Bragantino win on 2026-08- | No (BUY) | 69% | 0.30 | ⏳ pendiente | — |
 | theowalcott | Will Once Caldas win on 2026-08-09? | No (BUY) | 57% | 0.98 | ⏳ pendiente | — |
@@ -261,4 +262,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: FlyQuest vs Team Liquid (BO3) - LCS | Team Liquid (BUY) | 85% | 1.59 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: CSyD Defensa y Justicia (-1.5) | CSyD Defensa y Justicia (BUY) | 46% | 0.51 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: CSyD Defensa y Justicia (-1.5) | CSyD Defensa y Justicia (BUY) | 47% | 0.53 | ⏳ pendiente | — |
-| ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 30% | 0.34 | ⏳ pendiente | — |
