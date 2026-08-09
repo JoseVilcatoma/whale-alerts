@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 06:36:24 (hora de Perú)
+Actualizado: 2026-08-09 06:38:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $341.09
@@ -28,12 +28,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 10 | -20.92 USD |
+| RN1 | 24 | 17 | 16 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 24 | 68 | 72 | -57.44 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 243 | 197 | 7 | -91.69 USD |
+| ferrariChampions2026 | 243 | 197 | 9 | -91.69 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -168,11 +168,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ere-spa-fey-2026-08-09-total-3pt5 | RN1, swisstony |
 | jap-vva-kyo-2026-08-09-spread-home-1pt5 | ferrariChampions2026, swisstony |
 | lol-jdg-we-2026-08-09 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
+| lol-jdg-we-2026-08-09-game1 | TAIWANNUMBERONE, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | FC St. Pauli 1910 vs. SpVgg Greuther Für | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
+| RN1 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Sparta Rotterdam win on 2026-08-09? | No (BUY) | 97% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will FC Groningen win on 2026-08-09? | No (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will FC St. Pauli 1910 win on 2026-08-09 | Yes (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| RN1 | Sparta Rotterdam vs. Feyenoord Rotterdam | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Manchester City vs. Atletico Madrid: O/U | Over (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 31% | 0.00 | ⏳ pendiente | — |
 | RN1 | Spread: Feyenoord Rotterdam (-1.5) | Feyenoord Rotterdam (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | RN1 | 1. FC Nürnberg vs. SG Dynamo Dresden: O/ | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
@@ -195,11 +204,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: JD Gaming vs Team WE (BO3) - LPL Gr | JD Gaming (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | swisstony | Spread: V-Varen Nagasaki (-1.5) | V-Varen Nagasaki (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: V-Varen Nagasaki (-1.5) | Kyōto Sanga FC (BUY) | 40% | 0.00 | ⏳ pendiente | — |
-| swisstony | Henan FC vs. Qingdao Xihaian FC: O/U 2.5 | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| swisstony | Sparta Rotterdam vs. Feyenoord Rotterdam | Under (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| swisstony | Spread: Manchester City (-1.5) | Atletico Madrid (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Manchester City win on 2026-08-09? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: BNK FEARX vs Kiwoom DRX (BO3) - LCK | BNK FEARX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | V-Varen Nagasaki vs. Kyōto Sanga FC: O/U | Over (BUY) | 74% | 0.75 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO3) - LCK | Dplus KIA (BUY) | 61% | 10.79 | ⏳ pendiente | — |
