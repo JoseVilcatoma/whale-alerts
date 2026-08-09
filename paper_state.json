@@ -1,5 +1,5 @@
 {
-  "bankroll": 470.23697239516235,
+  "bankroll": 473.0503057284957,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4025,6 +4025,11 @@
       "timestamp": 1786234876.6665883,
       "bankroll": 470.24,
       "event": "lost: UpTheBlues \u2014 Will Gr\u00eamio FBPA vs. S\u00e3o Paulo FC end in a draw?"
+    },
+    {
+      "timestamp": 1786235336.2342236,
+      "bankroll": 473.05,
+      "event": "won: UpTheBlues \u2014 CA Boca Juniors vs. CA V\u00e9lez Sarsfield: O/U 3.5"
     }
   ]
 }

@@ -21749,8 +21749,8 @@
     "whale_pct": 0.9,
     "paper_stake_usd": 4.22,
     "odds_at_bet": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.81,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786231281.9969695,
@@ -22738,5 +22738,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786234429.6041255,
     "fills": 1
+  },
+  {
+    "timestamp": 1786235340,
+    "timestamp_added": 1786235340.7720244,
+    "username": "TeGeeLP",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-sen-sr-2026-08-08",
+    "title": "LoL: Sentinels vs Shopify Rebellion (BO3) - LCS Regular Season",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "whale_usd": 43.65,
+    "whale_pct": 0.36,
+    "paper_stake_usd": 1.7,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786235341.2426984,
+    "fills": 2
   }
 ]

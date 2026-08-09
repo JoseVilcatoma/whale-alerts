@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-08 19:26:57 (hora de Perú)
+Actualizado: 2026-08-08 19:29:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $470.24
-**Retorno acumulado:** -52.98%
+**Bankroll actual:** $473.05
+**Retorno acumulado:** -52.69%
 **Peor caída desde un máximo (drawdown):** 53.54%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -18,13 +18,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 30 | 24 | 34 | +16.40 USD |
 | greyoctober | 7 | 0 | 0 | +12.95 USD |
-| UpTheBlues | 39 | 29 | 54 | +7.78 USD |
+| UpTheBlues | 40 | 29 | 53 | +10.59 USD |
 | swisstony | 0 | 0 | 2 | +0.00 USD |
 | Talvez10 | 4 | 5 | 6 | +0.00 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | Bulls94 | 0 | 0 | 1 | +0.00 USD |
+| TeGeeLP | 0 | 0 | 1 | +0.00 USD |
 | 1winstreak1 | 28 | 29 | 13 | -8.77 USD |
 | wr0ngw4yb3tt0r | 18 | 16 | 14 | -10.57 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -141,6 +142,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | arg-boc-vel-2026-08-08-total-2pt5 | UpTheBlues, ferrariChampions2026 |
 | arg-boc-vel-2026-08-08-vel | RN1, UpTheBlues, ferrariChampions2026 |
 | bra-cre-cam-2026-08-08-cre | RN1, UpTheBlues |
+| lol-sen-sr-2026-08-08 | TeGeeLP, ferrariChampions2026 |
 | lec-orl-leo-2026-08-08-total-1pt5 | UpTheBlues, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
@@ -148,6 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TeGeeLP | LoL: Sentinels vs Shopify Rebellion (BO3 | Sentinels (BUY) | 60% | 1.70 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 94% | 0.05 | ⏳ pendiente | — |
 | UpTheBlues | Will Club León FC win on 2026-08-08? | No (BUY) | 74% | 1.05 | ⏳ pendiente | — |
 | UpTheBlues | Will Washington Spirit win on 2026-08-08 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
@@ -177,4 +180,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Spread: Orlando City SC (-1.5) | Club León FC (BUY) | 90% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Club León FC (-1.5) | Orlando City SC (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Orlando City SC vs. Club León FC: O/U 2. | Under (BUY) | 24% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Botafogo FR vs. Fluminense FC end i | No (BUY) | 69% | 0.00 | ⏳ pendiente | — |
