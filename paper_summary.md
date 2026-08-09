@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 10:01:49 (hora de Perú)
+Actualizado: 2026-08-09 10:03:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $258.36
-**Retorno acumulado:** -74.16%
+**Bankroll actual:** $259.80
+**Retorno acumulado:** -74.02%
 **Peor caída desde un máximo (drawdown):** 75.07%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -28,13 +28,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 3 | 2 | 2 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 30 | 23 | 72 | -20.92 USD |
+| RN1 | 33 | 23 | 69 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 27 | 72 | 75 | -56.21 USD |
+| quavoo | 31 | 72 | 71 | -54.77 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 2 | -89.94 USD |
-| ferrariChampions2026 | 247 | 198 | 105 | -91.43 USD |
+| ferrariChampions2026 | 247 | 198 | 106 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 14 | 38 | 5 | -298.46 USD |
 
@@ -193,6 +193,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 83% | 0.27 | ⏳ pendiente | — |
 | ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 87% | 0.22 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will AS Monaco win on 2026-08-09? | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will AS Monaco win on 2026-08-09? | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
@@ -222,4 +223,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 46% | 1.17 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Texas Rangers: O/U | Over (BUY) | 47% | 0.28 | ⏳ pendiente | — |
 | RN1 | PEC Zwolle vs. AFC Ajax: O/U 1.5 | Over (BUY) | 45% | 0.27 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Celtic FC (-1.5) | Celtic FC (BUY) | 65% | 0.00 | ⏳ pendiente | — |
