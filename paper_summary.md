@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 15:13:28 (hora de Perú)
+Actualizado: 2026-08-09 15:15:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $170.63
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 70 | 51 | 31 | +31.47 USD |
+| 1winstreak1 | 70 | 51 | 32 | +31.47 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 30 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 35 | 32 | 9 | +11.82 USD |
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 83 | 42 | 2 | -20.27 USD |
+| RN1 | 83 | 42 | 4 | -20.27 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 56 | 83 | 37 | -50.43 USD |
@@ -192,7 +192,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | scop-kil-cel-2026-08-09-cel | RN1, ferrariChampions2026 |
 | scop-kil-cel-2026-08-09-kil | RN1, ferrariChampions2026 |
 | chi-sha-jin-2026-08-09-jin | RN1, ferrariChampions2026 |
-| mlb-tb-sea-2026-08-09-total-7pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-tb-sea-2026-08-09-total-7pt5 | 1winstreak1, RN1, wr0ngw4yb3tt0r |
 | mlb-cin-wsh-2026-08-09-total-9pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 | mlb-cle-cws-2026-08-09-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-tor-phi-2026-08-09-spread-home-1pt5 | 1winstreak1, ferrariChampions2026, monkeymashingkeyboard |
@@ -209,6 +209,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will CA Bucaramanga win on 2026-08-10? | No (BUY) | 62% | 0.34 | ⏳ pendiente | — |
+| 1winstreak1 | Athletics vs. Boston Red Sox: O/U 8.5 | Under (BUY) | 96% | 0.71 | ⏳ pendiente | — |
+| RN1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 55% | 0.39 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Seattle Mariners (-2.5) | Tampa Bay Rays (BUY) | 80% | 0.71 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 49% | 0.86 | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 41% | 0.72 | ⏳ pendiente | — |
@@ -236,6 +239,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Chicago Cubs (-4.5) | Kansas City Royals (BUY) | 43% | 0.24 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Minnesota Lynx (-7.5) | Minnesota Lynx (BUY) | 49% | 1.66 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 84% | 0.00 | ✅ ganada | +0.00 |
-| 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 65% | 0.00 | ✅ ganada | +0.00 |
-| 1winstreak1 | Spread: Atlanta Braves (-2.5) | Atlanta Braves (BUY) | 18% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Toronto Blue Jays vs. Philadelphia Phill | Over (BUY) | 69% | 0.00 | ✅ ganada | +0.00 |
