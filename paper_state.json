@@ -1,5 +1,5 @@
 {
-  "bankroll": 354.1386790581371,
+  "bankroll": 353.3125504767255,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5635,6 +5635,41 @@
       "timestamp": 1786259948.835369,
       "bankroll": 354.14,
       "event": "won: ferrariChampions2026 \u2014 Will Deportivo Toluca FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786260063.2990077,
+      "bankroll": 353.38,
+      "event": "lost: ferrariChampions2026 \u2014 Deportivo Toluca FC vs. Los Angeles FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786260063.8998737,
+      "bankroll": 353.78,
+      "event": "won: ferrariChampions2026 \u2014 Deportivo Toluca FC vs. Los Angeles FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786260064.1001458,
+      "bankroll": 353.16,
+      "event": "lost: ferrariChampions2026 \u2014 Deportivo Toluca FC vs. Los Angeles FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786260064.2002707,
+      "bankroll": 353.76,
+      "event": "won: ferrariChampions2026 \u2014 Deportivo Toluca FC vs. Los Angeles FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786260064.3004062,
+      "bankroll": 353.31,
+      "event": "lost: ferrariChampions2026 \u2014 Deportivo Toluca FC vs. Los Angeles FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786260064.8010457,
+      "bankroll": 353.31,
+      "event": "won: ferrariChampions2026 \u2014 Deportivo Toluca FC vs. Los Angeles FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786260128.3644753,
+      "bankroll": 353.31,
+      "event": "won: ferrariChampions2026 \u2014 Deportivo Toluca FC vs. Los Angeles FC: O/U 2.5"
     }
   ]
 }

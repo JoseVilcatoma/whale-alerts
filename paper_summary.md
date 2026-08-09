@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 02:20:22 (hora de Perú)
+Actualizado: 2026-08-09 02:22:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $354.14
-**Retorno acumulado:** -64.59%
+**Bankroll actual:** $353.31
+**Retorno acumulado:** -64.67%
 **Peor caída desde un máximo (drawdown):** 68.38%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -31,9 +31,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 24 | 17 | 0 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 22 | 63 | 76 | -53.27 USD |
+| quavoo | 22 | 63 | 77 | -53.27 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 239 | 192 | 9 | -88.78 USD |
+| ferrariChampions2026 | 243 | 195 | 5 | -89.61 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 36 | 12 | -303.20 USD |
 
@@ -167,6 +167,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports (BO3 | Invictus Gaming (BUY) | 83% | 0.42 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports - Ga | LNG Esports (BUY) | 25% | 0.37 | ⏳ pendiente | — |
+| quavoo | Will Feyenoord Rotterdam win on 2026-08- | Yes (BUY) | 59% | 0.51 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Invictus Gaming vs LNG Esports - Ga | LNG Esports (BUY) | 26% | 0.36 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs KT Rolster ( | Dplus KIA (BUY) | 33% | 2.33 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Groningen win on 2026-08-09? | Yes (BUY) | 41% | 0.55 | ⏳ pendiente | — |
 | UpTheBlues | Spread: South Melbourne FC (-1.5) | Fremantle City FC (BUY) | 32% | 0.07 | ⏳ pendiente | — |
@@ -193,7 +197,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Olympique Marseille vs. Athletic Bilbao: | Under (BUY) | 63% | 0.64 | ⏳ pendiente | — |
 | quavoo | Will Manchester City win on 2026-08-09? | Yes (BUY) | 51% | 0.53 | ⏳ pendiente | — |
 | quavoo | Manchester City vs. Atletico Madrid: Bot | Yes (BUY) | 65% | 1.18 | ⏳ pendiente | — |
-| quavoo | Valorant: VARREL vs Paper Rex (BO3) - VC | VARREL (BUY) | 21% | 0.73 | ⏳ pendiente | — |
-| quavoo | Athletics vs. Boston Red Sox: O/U 10.5 | Under (BUY) | 54% | 0.38 | ⏳ pendiente | — |
-| quavoo | Will Philadelphia Union win on 2026-08-0 | Yes (BUY) | 55% | 1.92 | ⏳ pendiente | — |
-| quavoo | Will Querétaro FC win on 2026-08-09? | Yes (BUY) | 27% | 0.75 | ⏳ pendiente | — |
