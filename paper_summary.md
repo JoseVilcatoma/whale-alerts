@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 09:12:31 (hora de Perú)
+Actualizado: 2026-08-09 09:14:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $259.41
@@ -33,8 +33,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 26 | 71 | 74 | -54.80 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| StasPanda | 2 | 8 | 3 | -90.15 USD |
-| ferrariChampions2026 | 245 | 198 | 99 | -91.43 USD |
+| StasPanda | 2 | 8 | 4 | -90.15 USD |
+| ferrariChampions2026 | 245 | 198 | 100 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 12 | 38 | 7 | -298.46 USD |
 
@@ -193,6 +193,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
+| StasPanda | Counter-Strike: BESTIA vs Isurus (BO3) - | Isurus (BUY) | 28% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 4.5 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Liverpool FC vs. AS Monaco: O/U 3.5 | Over (BUY) | 78% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 39% | 0.00 | ⏳ pendiente | — |
@@ -221,5 +223,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | FC Energie Cottbus vs. Hannover 96: O/U  | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chongqing Tonglianglong FC vs. Shanghai  | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | RN1 | Manchester City vs. Atletico Madrid: O/U | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will FC Energie Cottbus win on 2026-08-0 | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Kilmarnock FC vs. Celtic FC: O/U 3.5 | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
