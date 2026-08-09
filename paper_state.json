@@ -1,5 +1,5 @@
 {
-  "bankroll": 164.43961540674343,
+  "bankroll": 164.48412090124893,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7155,6 +7155,11 @@
       "timestamp": 1786298319.054369,
       "bankroll": 164.44,
       "event": "lost: ferrariChampions2026 \u2014 Will Motherwell FC win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786298438.8274813,
+      "bankroll": 164.48,
+      "event": "won: ferrariChampions2026 \u2014 Heart of Midlothian FC vs. Dundee United FC: O/U 2.5"
     }
   ]
 }
