@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 16:24:18 (hora de Perú)
+Actualizado: 2026-08-09 16:26:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $168.72
-**Retorno acumulado:** -83.13%
+**Bankroll actual:** $168.42
+**Retorno acumulado:** -83.16%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,10 +13,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 79 | 55 | 44 | +31.24 USD |
+| 1winstreak1 | 79 | 55 | 48 | +31.24 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| wr0ngw4yb3tt0r | 37 | 33 | 10 | +12.14 USD |
+| wr0ngw4yb3tt0r | 37 | 34 | 10 | +11.84 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -24,20 +24,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 3 | 2 | +0.00 USD |
-| monkeymashingkeyboard | 0 | 0 | 3 | +0.00 USD |
+| monkeymashingkeyboard | 2 | 0 | 1 | +0.00 USD |
 | theowalcott | 0 | 0 | 2 | +0.00 USD |
 | AV23IUa | 0 | 0 | 5 | +0.00 USD |
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 84 | 42 | 51 | -20.21 USD |
+| RN1 | 84 | 42 | 53 | -20.21 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 61 | 89 | 28 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 47 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 48 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -197,7 +197,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tb-sea-2026-08-09-total-7pt5 | 1winstreak1, RN1, wr0ngw4yb3tt0r |
 | mlb-lad-ari-2026-08-09-total-9pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-total-9pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
-| mlb-cle-cws-2026-08-09-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
+| mlb-cle-cws-2026-08-09-spread-away-1pt5 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tor-phi-2026-08-09-spread-home-1pt5 | 1winstreak1, ferrariChampions2026, monkeymashingkeyboard |
 | wnba-phx-wsh-2026-08-09-spread-home-1pt5 | monkeymashingkeyboard, wr0ngw4yb3tt0r |
 | lol-th-g2-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
@@ -219,6 +219,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Spread: Sport Lisboa e Benfica (-2.5) | Académico de Viseu FC (BUY) | 97% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Arizona Diamondbacks (-2.5) | Los Angeles Dodgers (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Los Angeles Dodgers (BUY) | 32% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Dodgers vs. Arizona Diamondb | Under (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Cleveland Guardians (-1.5) | Chicago White Sox (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: CSyD Defensa y Justicia (-1.5) | CA Newell's Old Boys (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Minnesota Twins vs. Milwaukee Brewers: O | Under (BUY) | 97% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Moreirense FC vs. SC Braga end in a | No (BUY) | 11% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CA Barracas Central win on 2026-08- | No (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CA Barracas Central win on 2026-08- | No (BUY) | 80% | 0.00 | ⏳ pendiente | — |
@@ -241,11 +249,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-3.5) | Arizona Diamondbacks (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | RN1 | Sport Lisboa e Benfica vs. Académico de  | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | RN1 | Sport Lisboa e Benfica vs. Académico de  | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| RN1 | Moreirense FC vs. SC Braga: O/U 3.5 | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CSyD Defensa y Justicia vs. CA Newell's  | Over (BUY) | 82% | 0.00 | ⏳ pendiente | — |
-| AV23IUa | Will SC Corinthians Paulista win on 2026 | Yes (BUY) | 28% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will SC Corinthians Paulista win on 2026 | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| RN1 | Sport Lisboa e Benfica vs. Académico de  | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Sport Lisboa e Benfica vs. Académic | No (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| RN1 | Moreirense FC vs. SC Braga: O/U 3.5 | Under (BUY) | 69% | 0.00 | ⏳ pendiente | — |
