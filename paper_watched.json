@@ -2,13 +2,13 @@
   "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd": {
     "username": "TAIWANNUMBERONE",
     "added_at": 1786253596.1405854,
-    "roi_pct": 7048.15,
+    "roi_pct": 6791.26,
     "short_term_pct": 90.0
   },
   "0x7e5e420a5cde8a322f3b5b93a12a164827f47315": {
     "username": "StasPanda",
     "added_at": 1786283428.2104576,
-    "roi_pct": 474.93,
+    "roi_pct": 474.8,
     "short_term_pct": 80.0
   },
   "0xf201a19b43471261a3c1ba9247335d55270e527e": {
@@ -20,43 +20,43 @@
   "0xdb859a551fcf56e49416160911476bea7307152f": {
     "username": "AV23IUa",
     "added_at": 1786304475.3975985,
-    "roi_pct": 212.91,
+    "roi_pct": 216.47,
     "short_term_pct": 100.0
   },
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1786304475.3976018,
-    "roi_pct": 505.37,
+    "roi_pct": 505.07,
     "short_term_pct": 90.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1786312934.3797975,
-    "roi_pct": 51.08,
+    "roi_pct": 69.14,
     "short_term_pct": 100.0
   },
   "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa": {
     "username": "theowalcott",
     "added_at": 1786313867.6995838,
-    "roi_pct": 68.57,
+    "roi_pct": 82.99,
     "short_term_pct": 100.0
-  },
-  "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
-    "username": "wr0ngw4yb3tt0r",
-    "added_at": 1786314796.106752,
-    "roi_pct": 114.05,
-    "short_term_pct": 60.0
   },
   "0xdc41c39b95453c943174f369926018f6963bdd7e": {
     "username": "quavoo",
     "added_at": 1786315727.7341712,
-    "roi_pct": 49.9,
+    "roi_pct": 58.24,
     "short_term_pct": 100.0
   },
   "0xd218e474776403a330142299f7796e8ba32eb5c9": {
     "username": "cigarettes",
     "added_at": 1786317600.245805,
-    "roi_pct": 51.7,
+    "roi_pct": 53.96,
     "short_term_pct": 90.0
+  },
+  "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
+    "username": "ferrariChampions2026",
+    "added_at": 1786318535.8523438,
+    "roi_pct": 117.0,
+    "short_term_pct": 100.0
   }
 }

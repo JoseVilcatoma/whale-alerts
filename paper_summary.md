@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 18:33:59 (hora de Perú)
+Actualizado: 2026-08-09 18:36:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $292.96
-**Retorno acumulado:** -70.70%
+**Bankroll actual:** $286.52
+**Retorno acumulado:** -71.35%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,8 +13,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 83 | 58 | 53 | +31.66 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
+| 1winstreak1 | 83 | 61 | 50 | +25.27 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | wr0ngw4yb3tt0r | 37 | 34 | 17 | +11.84 USD |
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 85 | 42 | 81 | -20.01 USD |
+| RN1 | 99 | 53 | 56 | -20.07 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 62 | 89 | 48 | -55.81 USD |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 292.96339012550334,
+  "bankroll": 286.5167234588367,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -7860,6 +7860,146 @@
       "timestamp": 1786318342.370858,
       "bankroll": 292.96,
       "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. St. Louis Cardinals: O/U 10.5"
+    },
+    {
+      "timestamp": 1786318528.0689514,
+      "bankroll": 292.96,
+      "event": "lost: 1winstreak1 \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1786318531.202805,
+      "bankroll": 292.75,
+      "event": "lost: 1winstreak1 \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1786318533.2753222,
+      "bankroll": 286.57,
+      "event": "lost: 1winstreak1 \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1786318533.375607,
+      "bankroll": 286.76,
+      "event": "won: RN1 \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1786318536.7523348,
+      "bankroll": 286.52,
+      "event": "lost: RN1 \u2014 Will Sport Lisboa e Benfica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786318537.4907935,
+      "bankroll": 286.52,
+      "event": "won: RN1 \u2014 Sport Lisboa e Benfica vs. Acad\u00e9mico de Viseu FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786318538.1150105,
+      "bankroll": 286.52,
+      "event": "won: RN1 \u2014 Will Acad\u00e9mico de Viseu FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786318539.8862422,
+      "bankroll": 286.52,
+      "event": "won: RN1 \u2014 Will Sport Lisboa e Benfica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786318540.3158426,
+      "bankroll": 286.52,
+      "event": "won: RN1 \u2014 Will Sport Lisboa e Benfica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786318540.516158,
+      "bankroll": 286.52,
+      "event": "lost: RN1 \u2014 Sport Lisboa e Benfica vs. Acad\u00e9mico de Viseu FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786318540.6163807,
+      "bankroll": 286.52,
+      "event": "won: RN1 \u2014 Will Sport Lisboa e Benfica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786318540.716601,
+      "bankroll": 286.52,
+      "event": "lost: RN1 \u2014 Sport Lisboa e Benfica vs. Acad\u00e9mico de Viseu FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786318540.8167994,
+      "bankroll": 286.52,
+      "event": "won: RN1 \u2014 Will Sport Lisboa e Benfica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786318541.0172508,
+      "bankroll": 286.52,
+      "event": "won: RN1 \u2014 Will Sport Lisboa e Benfica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786318541.4178913,
+      "bankroll": 286.52,
+      "event": "won: RN1 \u2014 Will Acad\u00e9mico de Viseu FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786318541.8187056,
+      "bankroll": 286.52,
+      "event": "won: RN1 \u2014 Will Acad\u00e9mico de Viseu FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786318542.3486094,
+      "bankroll": 286.52,
+      "event": "won: RN1 \u2014 Will Acad\u00e9mico de Viseu FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786318543.4503667,
+      "bankroll": 286.52,
+      "event": "lost: RN1 \u2014 Sport Lisboa e Benfica vs. Acad\u00e9mico de Viseu FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786318543.8510911,
+      "bankroll": 286.52,
+      "event": "lost: RN1 \u2014 Will Sport Lisboa e Benfica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786318544.051483,
+      "bankroll": 286.52,
+      "event": "lost: RN1 \u2014 Sport Lisboa e Benfica vs. Acad\u00e9mico de Viseu FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786318544.1517127,
+      "bankroll": 286.52,
+      "event": "lost: RN1 \u2014 Sport Lisboa e Benfica vs. Acad\u00e9mico de Viseu FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786318544.452255,
+      "bankroll": 286.52,
+      "event": "lost: RN1 \u2014 Sport Lisboa e Benfica vs. Acad\u00e9mico de Viseu FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786318544.5524533,
+      "bankroll": 286.52,
+      "event": "won: RN1 \u2014 Sport Lisboa e Benfica vs. Acad\u00e9mico de Viseu FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786318544.7528234,
+      "bankroll": 286.52,
+      "event": "lost: RN1 \u2014 Will Sport Lisboa e Benfica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786318545.2535686,
+      "bankroll": 286.52,
+      "event": "won: RN1 \u2014 Will Acad\u00e9mico de Viseu FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786318545.4540672,
+      "bankroll": 286.52,
+      "event": "lost: RN1 \u2014 Sport Lisboa e Benfica vs. Acad\u00e9mico de Viseu FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786318545.5542274,
+      "bankroll": 286.52,
+      "event": "lost: RN1 \u2014 Will Sport Lisboa e Benfica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786318545.6543803,
+      "bankroll": 286.52,
+      "event": "won: RN1 \u2014 Sport Lisboa e Benfica vs. Acad\u00e9mico de Viseu FC: O/U 4.5"
     }
   ]
 }
