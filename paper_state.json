@@ -1,5 +1,5 @@
 {
-  "bankroll": 156.2674240170508,
+  "bankroll": 162.96870037665124,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -6725,6 +6725,131 @@
       "timestamp": 1786291217.9550605,
       "bankroll": 156.27,
       "event": "won: ferrariChampions2026 \u2014 Spread: Chelsea FC (-1.5)"
+    },
+    {
+      "timestamp": 1786291452.4278893,
+      "bankroll": 159.16,
+      "event": "won: quavoo \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291453.0824425,
+      "bankroll": 160.53,
+      "event": "won: quavoo \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291453.1826143,
+      "bankroll": 160.53,
+      "event": "won: quavoo \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291453.2828972,
+      "bankroll": 160.53,
+      "event": "won: quavoo \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291453.3830512,
+      "bankroll": 160.53,
+      "event": "won: quavoo \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291455.0189474,
+      "bankroll": 160.53,
+      "event": "won: quavoo \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291455.47447,
+      "bankroll": 161.09,
+      "event": "won: quavoo \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291456.8053164,
+      "bankroll": 161.62,
+      "event": "won: quavoo \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291457.4862432,
+      "bankroll": 162.13,
+      "event": "won: quavoo \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291459.489085,
+      "bankroll": 162.13,
+      "event": "won: UpTheBlues \u2014 Will Shandong Taishan FC vs. Tianjin Jinmen Hu FC end in a draw?"
+    },
+    {
+      "timestamp": 1786291460.3523624,
+      "bankroll": 162.97,
+      "event": "won: quavoo \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291460.4525383,
+      "bankroll": 162.97,
+      "event": "won: RN1 \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291460.552692,
+      "bankroll": 162.97,
+      "event": "lost: ferrariChampions2026 \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291460.6528337,
+      "bankroll": 162.97,
+      "event": "lost: ferrariChampions2026 \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291461.1108496,
+      "bankroll": 162.97,
+      "event": "won: RN1 \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291461.2109957,
+      "bankroll": 162.97,
+      "event": "lost: ferrariChampions2026 \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291461.411283,
+      "bankroll": 162.97,
+      "event": "lost: RN1 \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291461.5114331,
+      "bankroll": 162.97,
+      "event": "lost: ferrariChampions2026 \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291461.7116983,
+      "bankroll": 162.97,
+      "event": "lost: ferrariChampions2026 \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291463.392682,
+      "bankroll": 162.97,
+      "event": "won: RN1 \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291463.4929044,
+      "bankroll": 162.97,
+      "event": "lost: RN1 \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291463.593082,
+      "bankroll": 162.97,
+      "event": "lost: RN1 \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291466.1459866,
+      "bankroll": 162.97,
+      "event": "won: RN1 \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291466.246137,
+      "bankroll": 162.97,
+      "event": "won: ferrariChampions2026 \u2014 Will Manchester City win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786291467.0472355,
+      "bankroll": 162.97,
+      "event": "lost: RN1 \u2014 Will Manchester City win on 2026-08-09?"
     }
   ]
 }
