@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.88044498765055,
+  "bankroll": 475.03419498765055,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -4150,6 +4150,21 @@
       "timestamp": 1786235909.788283,
       "bankroll": 474.88,
       "event": "won: UpTheBlues \u2014 Will CA Boca Juniors vs. CA V\u00e9lez Sarsfield end in a draw?"
+    },
+    {
+      "timestamp": 1786236517.8290982,
+      "bankroll": 474.88,
+      "event": "won: ferrariChampions2026 \u2014 Will Gr\u00eamio FBPA win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786236519.1119056,
+      "bankroll": 474.88,
+      "event": "lost: ferrariChampions2026 \u2014 Will Gr\u00eamio FBPA win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786236575.8172784,
+      "bankroll": 475.03,
+      "event": "won: UpTheBlues \u2014 St. Truidense VV vs. Lommel SK: O/U 4.5"
     }
   ]
 }
