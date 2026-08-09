@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 07:43:17 (hora de Perú)
+Actualizado: 2026-08-09 07:45:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $344.10
@@ -29,12 +29,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 0 | 1 | +0.00 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 63 | -20.92 USD |
+| RN1 | 24 | 17 | 66 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 25 | 68 | 76 | -54.69 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 245 | 197 | 82 | -91.43 USD |
+| ferrariChampions2026 | 245 | 197 | 83 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
 
@@ -189,6 +189,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Manchester City vs. Atletico Madrid | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Kilmarnock FC win on 2026-08-09? | No (BUY) | 94% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Kilmarnock FC win on 2026-08-09? | No (BUY) | 94% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will FC Lugano win on 2026-08-09? | Yes (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | RN1 | Kilmarnock FC vs. Celtic FC: O/U 1.5 | Over (BUY) | 96% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Tianjin Jinmen Hu FC win on 2026-08 | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Tianjin Jinmen Hu FC win on 2026-08 | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
@@ -215,7 +219,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Kilmarnock FC vs. Celtic FC: O/U 3.5 | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Kilmarnock FC win on 2026-08-09? | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Celtic FC win on 2026-08-09? | Yes (BUY) | 87% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Celtic FC win on 2026-08-09? | Yes (BUY) | 86% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will PEC Zwolle win on 2026-08-09? | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | FC St. Pauli 1910 vs. SpVgg Greuther Für | Over (BUY) | 82% | 0.00 | ⏳ pendiente | — |
-| RN1 | PEC Zwolle vs. AFC Ajax: O/U 2.5 | Under (BUY) | 35% | 0.00 | ⏳ pendiente | — |
