@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 13:01:56 (hora de Perú)
+Actualizado: 2026-08-09 13:04:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $164.48
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 50 | 80 | 46 | -49.73 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 313 | 235 | 45 | -89.13 USD |
+| ferrariChampions2026 | 313 | 235 | 47 | -89.13 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -199,6 +199,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Reds vs. Washington Nationals | Over (BUY) | 34% | 0.49 | ⏳ pendiente | — |
 | 1winstreak1 | Cincinnati Reds vs. Washington Nationals | Under (BUY) | 47% | 0.25 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Joey Cantillo: Strikeouts O/U 5.5 | Under (BUY) | 51% | 0.85 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Ryan Gusto: Strikeouts O/U 4.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
@@ -227,5 +229,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Rangers FC vs. Hibernian FC: O/U 1.5 | Over (BUY) | 87% | 0.89 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 65% | 1.80 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Rangers FC win on 2026-08-09? | Yes (BUY) | 33% | 0.32 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Hibernian FC win on 2026-08-09? | No (BUY) | 65% | 0.20 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Olympique Marseille win on 2026-08- | Yes (BUY) | 64% | 0.35 | ⏳ pendiente | — |
