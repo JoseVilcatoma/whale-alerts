@@ -1,5 +1,5 @@
 {
-  "bankroll": 338.96242540660035,
+  "bankroll": 260.7704213918797,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -5770,6 +5770,71 @@
       "timestamp": 1786280372.91546,
       "bankroll": 338.96,
       "event": "lost: ferrariChampions2026 \u2014 Will V-Varen Nagasaki win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786280855.0435815,
+      "bankroll": 249.32,
+      "event": "lost: StasPanda \u2014 LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786280855.1438072,
+      "bankroll": 250.1,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786280856.6627905,
+      "bankroll": 250.1,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786280857.4484348,
+      "bankroll": 250.1,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786280857.5486681,
+      "bankroll": 250.1,
+      "event": "lost: StasPanda \u2014 LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786280858.566854,
+      "bankroll": 250.1,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786280859.3845742,
+      "bankroll": 250.1,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786280859.5849798,
+      "bankroll": 250.54,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786280859.6851618,
+      "bankroll": 251.47,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786280859.7853944,
+      "bankroll": 252.4,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786280860.7728827,
+      "bankroll": 253.13,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786280868.635877,
+      "bankroll": 253.87,
+      "event": "won: quavoo \u2014 Games Total: O/U 2.5"
+    },
+    {
+      "timestamp": 1786280873.7226272,
+      "bankroll": 260.77,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group"
     }
   ]
 }

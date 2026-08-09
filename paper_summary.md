@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 08:06:11 (hora de Perú)
+Actualizado: 2026-08-09 08:08:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $338.96
-**Retorno acumulado:** -66.10%
-**Peor caída desde un máximo (drawdown):** 68.38%
+**Bankroll actual:** $260.77
+**Retorno acumulado:** -73.92%
+**Peor caída desde un máximo (drawdown):** 75.07%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,20 +23,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 78 | 45 | 6 | +7.53 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 0 | 0 | +1.78 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| StasPanda | 0 | 4 | 9 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 0 | 1 | +0.00 USD |
 | swisstony | 2 | 2 | 3 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 24 | 17 | 99 | -20.92 USD |
+| RN1 | 24 | 17 | 104 | -20.92 USD |
 | Djdjdjekekek | 0 | 2 | 0 | -31.65 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 25 | 69 | 75 | -54.69 USD |
+| quavoo | 26 | 69 | 74 | -53.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
-| ferrariChampions2026 | 245 | 198 | 109 | -91.43 USD |
+| StasPanda | 0 | 6 | 7 | -89.64 USD |
+| ferrariChampions2026 | 245 | 198 | 117 | -91.43 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 2 | 38 | 17 | -309.17 USD |
+| TAIWANNUMBERONE | 12 | 38 | 7 | -298.46 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -193,6 +193,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 75% | 1.31 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Hannover 96 win on 2026-08-09? | Yes (BUY) | 45% | 0.28 | ⏳ pendiente | — |
+| ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 41% | 1.44 | ⏳ pendiente | — |
+| ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 76% | 1.28 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cruzeiro EC vs. Mirassol FC: O/U 2.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Johor Darul Ta'zim vs. Chelsea FC: O/U 3 | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Hannover 96 win on 2026-08-09? | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| RN1 | PEC Zwolle vs. AFC Ajax: 1st Half O/U 0. | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Shanghai Haigang FC (-1.5) | Chongqing Tonglianglong FC (BUY) | 72% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will FC Utrecht win on 2026-08-09? | Yes (BUY) | 14% | 0.00 | ⏳ pendiente | — |
+| RN1 | FC Groningen vs. FC Utrecht: O/U 1.5 | Over (BUY) | 89% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will FC Utrecht win on 2026-08-09? | No (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will PEC Zwolle win on 2026-08-09? | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will AFC Ajax win on 2026-08-09? | No (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Degerfors IF win on 2026-08-09? | No (BUY) | 60% | 0.00 | ⏳ pendiente | — |
@@ -210,16 +223,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Hannover 96 win on 2026-08-09? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Liverpool FC win on 2026-08-09? | No (BUY) | 32% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Shanghai Haigang FC win on 2026-08- | No (BUY) | 30% | 0.00 | ⏳ pendiente | — |
-| RN1 | FC St. Pauli 1910 vs. SpVgg Greuther Für | Over (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Kilmarnock FC vs. Celtic FC: O/U 3.5 | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| RN1 | FC St. Pauli 1910 vs. SpVgg Greuther Für | Over (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Shandong Taishan FC vs. Tianjin Jinmen H | Over (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Hannover 96 win on 2026-08-09? | No (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Hannover 96 win on 2026-08-09? | No (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Chelsea FC (-1.5) | Johor Darul Ta'zim (BUY) | 74% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will FC St. Pauli 1910 win on 2026-08-09 | Yes (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| RN1 | Lillestrøm SK vs. Rosenborg BK: O/U 2.5 | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | FC St. Pauli 1910 vs. SpVgg Greuther Für | Over (BUY) | 24% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Hannover 96 win on 2026-08-09? | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will FC Groningen win on 2026-08-09? | No (BUY) | 34% | 0.00 | ⏳ pendiente | — |
