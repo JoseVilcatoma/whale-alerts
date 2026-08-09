@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 16:30:42 (hora de Perú)
+Actualizado: 2026-08-09 16:32:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $168.63
@@ -30,14 +30,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 85 | 42 | 54 | -20.01 USD |
+| RN1 | 85 | 42 | 55 | -20.01 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 61 | 89 | 28 | -55.81 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | greyoctober | 7 | 14 | 5 | -89.79 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 342 | 251 | 49 | -91.93 USD |
+| ferrariChampions2026 | 342 | 251 | 50 | -91.93 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -213,6 +213,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-lad-ari-2026-08-09-spread-home-1pt5 | 1winstreak1, ferrariChampions2026 |
 | arg-def-new-2026-08-09-def | RN1, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-09-total-10pt5 | RN1, ferrariChampions2026 |
+| bra-san-cap-2026-08-09-san | AV23IUa, RN1 |
 | bra-bra-cor1-2026-08-09-cor1 | AV23IUa, RN1 |
 | mlb-cle-cws-2026-08-09-total-9pt5 | 1winstreak1, RN1, wr0ngw4yb3tt0r |
 | arg-def-new-2026-08-09-new | RN1, ferrariChampions2026 |
@@ -221,6 +222,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Detroit Tigers (-1.5) | San Francisco Giants (BUY) | 54% | 0.45 | ⏳ pendiente | — |
+| RN1 | Will Santos FC win on 2026-08-09? | No (BUY) | 54% | 0.17 | ⏳ pendiente | — |
 | RN1 | Will CSyD Defensa y Justicia win on 2026 | Yes (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CA Newell's Old Boys win on 2026-08 | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CSyD Defensa y Justicia win on 2026 | No (BUY) | 14% | 0.00 | ⏳ pendiente | — |
@@ -249,5 +252,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Seattle Mariners: O/U | Over (BUY) | 29% | 0.00 | ⏳ pendiente | — |
 | RN1 | Sport Lisboa e Benfica vs. Académico de  | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| RN1 | Sport Lisboa e Benfica vs. Académico de  | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 69% | 0.00 | ⏳ pendiente | — |
