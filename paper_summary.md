@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 08:42:51 (hora de Perú)
+Actualizado: 2026-08-10 08:44:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $228.95
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 121 | 108 | 49 | -16.66 USD |
+| quavoo | 121 | 108 | 50 | -16.66 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -260,6 +260,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col1-ad1-atn-2026-08-08-ad1 | UpTheBlues, swisstony |
 | lec-caz-nyc-2026-08-09-draw | UpTheBlues, ferrariChampions2026 |
 | arg-aaj-rac-2026-08-09-total-2pt5 | ferrariChampions2026, swisstony |
+| mlb-nym-atl-2026-08-10-total-8pt5 | HomeRunHazard, quavoo |
 | lec-phi-nec-2026-08-09-draw | UpTheBlues, swisstony |
 | lec-sdg-tij-2026-08-09-draw | UpTheBlues, ferrariChampions2026 |
 | lec-aus-pue-2026-08-09-total-4pt5 | UpTheBlues, ferrariChampions2026 |
@@ -293,6 +294,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | New York Mets vs. Atlanta Braves: O/U 8. | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Silkeborg IF (-2.5) | Odense BK (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 |  | LoL: The Ruddy Sack vs Lundqvist Lightsi | The Ruddy Sack (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 |  | LoL: The Ruddy Sack vs Lundqvist Lightsi | The Ruddy Sack (BUY) | 93% | 0.00 | ⏳ pendiente | — |
@@ -322,4 +324,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 40% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 35% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 54% | 0.00 | ⏳ pendiente | — |
