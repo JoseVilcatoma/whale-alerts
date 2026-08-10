@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 05:44:09 (hora de Perú)
+Actualizado: 2026-08-10 05:46:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 20 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 24 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 25 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 9 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
@@ -283,6 +283,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| GoalLineGhost | Will Djurgardens IF win on 2026-08-10? | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | IK Sirius vs. IF Brommapojkarna: O/U 3.5 | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Palermo FC (-1.5) | Juventus Turin (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | quavoo | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
@@ -312,4 +313,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | Spread: Silkeborg IF (-1.5) | Odense BK (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | MOUZ (BUY) | 20% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 80% | 0.00 | ⏳ pendiente | — |
