@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 19:05:16 (hora de Perú)
+Actualizado: 2026-08-09 19:07:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $338.46
@@ -27,18 +27,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | theowalcott | 0 | 2 | 7 | +0.00 USD |
-| AV23IUa | 0 | 0 | 5 | +0.00 USD |
+| AV23IUa | 0 | 0 | 6 | +0.00 USD |
 | cigarettes | 0 | 0 | 1 | +0.00 USD |
 | swisstony | 4 | 3 | 0 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 106 | 60 | 48 | -20.80 USD |
+| RN1 | 106 | 64 | 44 | -20.80 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | quavoo | 65 | 93 | 47 | -56.12 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 387 | 273 | 46 | -96.09 USD |
+| ferrariChampions2026 | 387 | 273 | 49 | -96.09 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
 
@@ -171,7 +171,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | clf-mci-atm-2026-08-09-mci | RN1, ferrariChampions2026, quavoo |
 | wnba-dal-min-2026-08-09-spread-home-7pt5 | 1winstreak1, quavoo, wr0ngw4yb3tt0r |
 | mlb-tb-sea-2026-08-08-total-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
-| lec-chi-san-2026-08-09-chi | ferrariChampions2026, quavoo |
+| lec-chi-san-2026-08-09-chi | AV23IUa, ferrariChampions2026, quavoo |
 | mlb-oak-bos-2026-08-09-total-10pt5 | 1winstreak1, quavoo |
 | clf-mci-atm-2026-08-09-atm | RN1, ferrariChampions2026, quavoo |
 | mlb-bal-tex-2026-08-09-total-8pt5 | quavoo, wr0ngw4yb3tt0r |
@@ -239,6 +239,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Chicago Fire FC win on 2026-08-09? | No (BUY) | 34% | 0.77 | ⏳ pendiente | — |
+| AV23IUa | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 66% | 90.29 | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia Union vs. Club Necaxa: O/U  | Over (BUY) | 49% | 0.57 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CF Cruz Azul win on 2026-08-09? | No (BUY) | 57% | 1.31 | ⏳ pendiente | — |
 | quavoo | CF América vs. Portland Timbers: Both Te | Yes (BUY) | 65% | 0.32 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Chicago Fire FC win on 2026-08-09? | No (BUY) | 35% | 0.66 | ⏳ pendiente | — |
 | quavoo | Will Nashville SC win on 2026-08-09? | Yes (BUY) | 56% | 0.38 | ⏳ pendiente | — |
@@ -265,7 +269,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: AA Argentinos Juniors (-1.5) | AA Argentinos Juniors (BUY) | 62% | 0.64 | ⏳ pendiente | — |
 | RN1 | Will Racing Club win on 2026-08-09? | No (BUY) | 98% | 0.61 | ⏳ pendiente | — |
 | RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 98% | 0.57 | ⏳ pendiente | — |
-| quavoo | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 54% | 0.47 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will AA Argentinos Juniors vs. Racing Cl | No (BUY) | 90% | 1.32 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Racing Club win on 2026-08-09? | No (BUY) | 98% | 1.83 | ⏳ pendiente | — |
-| quavoo | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 54% | 0.85 | ⏳ pendiente | — |
