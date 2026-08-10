@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 17:44:27 (hora de Perú)
+Actualizado: 2026-08-10 17:46:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $201.08
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 45 | 46 | 22 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
-| Bulls94 | 1 | 0 | 1 | +7.96 USD |
+| Bulls94 | 1 | 0 | 2 | +7.96 USD |
 | monkeymashingkeyboard | 3 | 0 | 6 | +2.86 USD |
 | johnbaster | 1 | 0 | 2 | +2.19 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | swisstony | 19 | 13 | 10 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| UpTheBlues | 124 | 76 | 19 | -4.37 USD |
+| UpTheBlues | 124 | 76 | 20 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 3 | 19 | 9 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -312,6 +312,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| Bulls94 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CD Universidad Catolica del Ecuador | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | SnakeBall | Will Goiás EC win on 2026-08-10? | No (BUY) | 38% | 0.00 | ⏳ pendiente | — |
@@ -340,5 +342,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | CA Banfield vs. CA Belgrano: O/U 2.5 | Under (BUY) | 74% | 0.80 | ⏳ pendiente | — |
 | swisstony | Spread: Libertad Loja (-2.5) | CD Universidad Catolica del Ecuador (BUY) | 94% | 0.40 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 44% | 0.23 | ⏳ pendiente | — |
-| swisstony | Spread: CA Belgrano (-1.5) | CA Banfield (BUY) | 88% | 0.90 | ⏳ pendiente | — |
-| swisstony | CA Banfield vs. CA Belgrano: O/U 1.5 | Under (BUY) | 46% | 0.26 | ⏳ pendiente | — |

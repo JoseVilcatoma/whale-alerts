@@ -56278,5 +56278,49 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786401803.9005816,
     "fills": 1
+  },
+  {
+    "timestamp": 1786401962,
+    "timestamp_added": 1786401962.6501105,
+    "username": "Bulls94",
+    "wallet": "0x43cab54b56aba79c29c1ba14b889e7de5532c219",
+    "slug": "mlb-kc-lad-2026-08-10-total-7pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 8620.043478,
+    "whale_pct": 264.038,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786401962.6501188,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786401973,
+    "timestamp_added": 1786401974.128496,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-ban-bel-2026-08-10-bel",
+    "title": "Will CA Belgrano win on 2026-08-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 367.83000000000004,
+    "whale_pct": 0.168,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786401974.128506,
+    "fills": 1
   }
 ]
