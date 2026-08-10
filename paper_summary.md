@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 13:32:11 (hora de Perú)
+Actualizado: 2026-08-10 13:34:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $289.30
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | quavoo | 123 | 108 | 50 | -16.66 USD |
-| RN1 | 141 | 73 | 16 | -23.95 USD |
+| RN1 | 141 | 73 | 20 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -293,11 +293,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swe-sir-bro-2026-08-10-total-4pt5 | GoalLineGhost, RN1 |
 | mlb-tb-oak-2026-08-10-total-9pt5 | HomeRunHazard, SDTrading |
 | lol-gen-dnf-2026-08-10-game2 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, ferrariChampions2026 |
+| rou1-sep-fcs-2026-08-09-fcs | RN1, lzh1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Under (BUY) | 48% | 0.39 | ⏳ pendiente | — |
+| RN1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.41 | ⏳ pendiente | — |
+| RN1 | Will IK Sirius vs. IF Brommapojkarna end | No (BUY) | 49% | 1.07 | ⏳ pendiente | — |
+| RN1 | Vasteraas SK vs. Djurgardens IF: O/U 1.5 | Under (BUY) | 45% | 1.05 | ⏳ pendiente | — |
 | quavoo | CD Santa Clara vs. CD Nacional: O/U 2.5 | Under (BUY) | 64% | 0.76 | ⏳ pendiente | — |
 | RN1 | Vasteraas SK vs. Djurgardens IF: O/U 3.5 | Under (BUY) | 95% | 1.77 | ⏳ pendiente | — |
 | RN1 | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Under (BUY) | 79% | 1.72 | ⏳ pendiente | — |
@@ -324,7 +329,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.56 | ⏳ pendiente | — |
 | johnbaster | LoL: Natus Vincere vs G2 Esports - Game  | G2 Esports (BUY) | 93% | 29.03 | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 47% | 0.18 | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under (BUY) | 55% | 0.79 | ⏳ pendiente | — |
-| quavoo | Spread: Djurgardens IF (-1.5) | Djurgardens IF (BUY) | 34% | 0.42 | ⏳ pendiente | — |
-| GoalLineGhost | Spread: IK Sirius (-1.5) | IK Sirius (BUY) | 49% | 3.14 | ⏳ pendiente | — |
-| quavoo | Will FC Botoşani win on 2026-08-10? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
