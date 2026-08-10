@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 05:48:13 (hora de Perú)
+Actualizado: 2026-08-10 05:50:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -38,12 +38,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 121 | 107 | 27 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
-| Djdjdjekekek | 0 | 4 | 11 | -31.98 USD |
+| Djdjdjekekek | 0 | 4 | 13 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 31 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 490 | 369 | 48 | -140.34 USD |
+| ferrariChampions2026 | 490 | 369 | 50 | -140.34 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -283,6 +283,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| Djdjdjekekek | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CA Belgrano (-2.5) | CA Banfield (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
@@ -309,7 +313,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ - Game 2 W | Power Rangers (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ - Game 2 W | Power Rangers (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will IF Brommapojkarna win on 2026-08-10 | Yes (BUY) | 10% | 0.00 | ⏳ pendiente | — |
-| Forecastication2 | Will IF Brommapojkarna win on 2026-08-10 | Yes (BUY) | 10% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers Challengers vs KT Rolste | DN SOOPers Challengers (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 80% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 80% | 0.00 | ⏳ pendiente | — |
