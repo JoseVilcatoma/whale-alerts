@@ -51594,5 +51594,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786361720.8261757,
     "fills": 3
+  },
+  {
+    "timestamp": 1786361805,
+    "timestamp_added": 1786361805.3061128,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-efa-vita-2026-08-10",
+    "title": "Counter-Strike: Eternal Fire Academy vs Vitality Academy (BO3) - European Pro League Regular Group D",
+    "outcome": "Eternal Fire Academy",
+    "side": "BUY",
+    "whale_usd": 369.36,
+    "whale_pct": 0.207,
+    "paper_stake_usd": 0.48,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786361805.3061242,
+    "fills": 1
   }
 ]
