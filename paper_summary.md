@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 06:06:56 (hora de Perú)
+Actualizado: 2026-08-10 06:09:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 6 | 3 | 0 | +28.58 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 31 | 0 | +20.63 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 31 | 1 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 45 | 46 | 20 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
@@ -29,14 +29,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 20 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 31 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 33 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 9 | +0.00 USD |
-|  | 0 | 0 | 1 | +0.00 USD |
+|  | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| quavoo | 121 | 107 | 29 | -16.28 USD |
+| quavoo | 121 | 107 | 30 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Djdjdjekekek | 0 | 4 | 13 | -31.98 USD |
@@ -238,7 +238,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tb-sea-2026-08-09-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-09-spread-home-2pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tb-sea-2026-08-09-total-5pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
-| lol-dnf-drx-2026-08-10 | , 1winstreak1, BBQChickenisthebesttt, Djdjdjekekek, ferrariChampions2026 |
+| lol-dnf-drx-2026-08-10 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 1winstreak1, BBQChickenisthebesttt, Djdjdjekekek, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-09-total-7pt5 | 1winstreak1, RN1, wr0ngw4yb3tt0r |
 | bra-fla-vit-2026-08-09-total-2pt5 | RN1, ferrariChampions2026 |
 | lec-aus-pue-2026-08-09-aus | UpTheBlues, quavoo |
@@ -284,6 +284,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 23% | 0.00 | ⏳ pendiente | — |
+|  | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 77% | 0.00 | ⏳ pendiente | — |
+| GoalLineGhost | CD Santa Clara vs. CD Nacional: O/U 0.5 | Under (BUY) | 10% | 0.00 | ⏳ pendiente | — |
+| GoalLineGhost | CD Santa Clara vs. CD Nacional: O/U 3.5 | Over (BUY) | 19% | 0.00 | ⏳ pendiente | — |
 |  | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Odense BK (-2.5) | Silkeborg IF (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | monkeymashingkeyboard | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 52% | 0.00 | ⏳ pendiente | — |
@@ -309,8 +314,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | Spread: Odense BK (-2.5) | Silkeborg IF (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Odense BK (-2.5) | Silkeborg IF (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Odense BK (-2.5) | Silkeborg IF (BUY) | 92% | 0.00 | ⏳ pendiente | — |
-| monkeymashingkeyboard | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | Power Rangers (BUY) | 74% | 0.00 | ⏳ pendiente | — |
-| monkeymashingkeyboard | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ - Game 2 W | Power Rangers (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| monkeymashingkeyboard | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 52% | 0.00 | ⏳ pendiente | — |
