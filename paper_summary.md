@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 13:28:08 (hora de Perú)
+Actualizado: 2026-08-10 13:30:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $289.30
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 0 | 0 | 63 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 |  | 2 | 0 | 2 | +0.00 USD |
-| lzh1 | 1 | 0 | 3 | +0.00 USD |
+| lzh1 | 1 | 0 | 4 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | johnbaster | 0 | 0 | 1 | +0.00 USD |
 | Forecastication2 | 3 | 2 | 26 | -1.41 USD |
@@ -40,8 +40,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 123 | 108 | 48 | -16.66 USD |
-| RN1 | 141 | 73 | 9 | -23.95 USD |
+| quavoo | 123 | 108 | 49 | -16.66 USD |
+| RN1 | 141 | 73 | 12 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -289,6 +289,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swe-sir-bro-2026-08-10-bro | Forecastication2, GoalLineGhost, quavoo |
 | lol-gen-dnf-2026-08-10 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, BrotherObama, ferrariChampions2026, lzh1 |
 | lol-gen-dnf-2026-08-10-game1 | BrotherObama, ferrariChampions2026 |
+| swe-sir-bro-2026-08-10-total-4pt5 | GoalLineGhost, RN1 |
 | mlb-tb-oak-2026-08-10-total-9pt5 | HomeRunHazard, SDTrading |
 | lol-gen-dnf-2026-08-10-game2 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, ferrariChampions2026 |
 
@@ -296,6 +297,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Vasteraas SK vs. Djurgardens IF end | No (BUY) | 71% | 0.43 | ⏳ pendiente | — |
+| quavoo | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Panathinaikós AO (BUY) | 70% | 0.35 | ⏳ pendiente | — |
+| RN1 | IK Sirius vs. IF Brommapojkarna: O/U 4.5 | Under (BUY) | 39% | 0.43 | ⏳ pendiente | — |
+| lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 1.04 | ⏳ pendiente | — |
+| RN1 | IK Sirius vs. IF Brommapojkarna: O/U 4.5 | Under (BUY) | 38% | 1.66 | ⏳ pendiente | — |
 | lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.53 | ⏳ pendiente | — |
 | quavoo | Plymouth Argyle FC vs. Exeter City FC: O | Over (BUY) | 83% | 8.76 | ⏳ pendiente | — |
 | RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Over (BUY) | 66% | 1.63 | ⏳ pendiente | — |
@@ -321,8 +327,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 68% | 0.00 | ✅ ganada | +0.00 |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 71% | 0.00 | ✅ ganada | +0.00 |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 67% | 0.00 | ✅ ganada | +0.00 |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 67% | 0.00 | ✅ ganada | +0.00 |
-| quavoo | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| Forecastication2 | Will the game go to extra innings?: Balt | Yes (BUY) | 12% | 0.00 | ⏳ pendiente | — |
-| Forecastication2 | Will the game go to extra innings?: New  | Yes (BUY) | 11% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 48% | 0.00 | ✅ ganada | +0.00 |
