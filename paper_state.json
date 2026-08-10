@@ -1,5 +1,5 @@
 {
-  "bankroll": 187.81972320804186,
+  "bankroll": 187.45972320804185,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12695,6 +12695,16 @@
       "timestamp": 1786403801.8192866,
       "bankroll": 187.82,
       "event": "lost: theowalcott \u2014 Will CD Santa Clara win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786404722.2546673,
+      "bankroll": 187.82,
+      "event": "won: quavoo \u2014 Will Plymouth Argyle FC win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786404724.6544175,
+      "bankroll": 187.46,
+      "event": "lost: quavoo \u2014 Dota 2: Rune Eaters vs Natus Vincere (BO3) - EPL Masters Playoffs"
     }
   ]
 }
