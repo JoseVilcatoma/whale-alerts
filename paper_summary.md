@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 22:11:24 (hora de Perú)
+Actualizado: 2026-08-09 22:13:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $363.00
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 423 | 293 | 127 | -111.74 USD |
+| ferrariChampions2026 | 423 | 293 | 128 | -111.74 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -265,6 +265,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Club Tijuana win on 2026-08-09? | No (BUY) | 91% | 3.71 | ⏳ pendiente | — |
 | Djdjdjekekek | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 12.75 | ⏳ pendiente | — |
 | Djdjdjekekek | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 8.75 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Club Tijuana win on 2026-08-09? | No (BUY) | 91% | 3.88 | ⏳ pendiente | — |
@@ -294,4 +295,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 3.5 | Over (BUY) | 23% | 0.44 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 50% | 0.51 | ⏳ pendiente | — |
 | UpTheBlues | Spread: CF América (-1.5) | Portland Timbers (BUY) | 84% | 0.94 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will San Diego FC vs. Club Tijuana end i | Yes (BUY) | 22% | 0.91 | ⏳ pendiente | — |
