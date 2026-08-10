@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 07:32:19 (hora de Perú)
+Actualizado: 2026-08-10 07:34:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $230.36
@@ -29,9 +29,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 25 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 55 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 56 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 2 | 7 | +0.00 USD |
-|  | 0 | 0 | 3 | +0.00 USD |
+|  | 0 | 0 | 4 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 0 | 12 | 5 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 506 | 376 | 53 | -138.54 USD |
+| ferrariChampions2026 | 506 | 376 | 54 | -138.54 USD |
 | TAIWANNUMBERONE | 26 | 38 | 2 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -285,6 +285,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| GoalLineGhost | Spread: CD Nacional (-1.5) | CD Santa Clara (BUY) | 94% | 1.27 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 64% | 0.39 | ⏳ pendiente | — |
+|  | LoL: The Ruddy Sack vs Lundqvist Lightsi | The Ruddy Sack (BUY) | 93% | 0.49 | ⏳ pendiente | — |
 | Forecastication2 | Tampa Bay Rays vs. Athletics: 1st 5 Inni | Over (BUY) | 47% | 0.26 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CD Nacional (-1.5) | CD Santa Clara (BUY) | 94% | 1.26 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CD Nacional (-1.5) | CD Santa Clara (BUY) | 94% | 0.45 | ⏳ pendiente | — |
@@ -312,6 +315,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | IK Sirius vs. IF Brommapojkarna: O/U 3.5 | Under (BUY) | 56% | 0.33 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CD Nacional (-1.5) | CD Santa Clara (BUY) | 94% | 1.34 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 83% | 0.29 | ⏳ pendiente | — |
-| GoalLineGhost | CA All Boys vs. CA Central Norte Salta:  | Under (BUY) | 96% | 0.50 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 92% | 1.50 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 93% | 0.78 | ⏳ pendiente | — |
