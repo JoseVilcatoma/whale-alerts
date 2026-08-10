@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 15:24:31 (hora de Perú)
+Actualizado: 2026-08-10 15:26:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $289.30
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 63 | +0.00 USD |
+| GoalLineGhost | 0 | 1 | 62 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 |  | 2 | 0 | 2 | +0.00 USD |
 | lzh1 | 1 | 0 | 4 | +0.00 USD |
