@@ -56000,5 +56000,91 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786401227.7164176,
     "fills": 1
+  },
+  {
+    "timestamp": 1786401261,
+    "timestamp_added": 1786401261.8411884,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-lev-red-2026-08-10",
+    "title": "LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season",
+    "outcome": "Leviatan Esports",
+    "side": "BUY",
+    "whale_usd": 818.4000000000001,
+    "whale_pct": 0.281,
+    "paper_stake_usd": 0.56,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Anjun"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786401262.2682514,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786401288,
+    "timestamp_added": 1786401288.9664867,
+    "username": "johnbaster",
+    "wallet": "0x31864feb9d25dee93728c6225ba891530967e9ca",
+    "slug": "lol-lev-red-2026-08-10-game2",
+    "title": "LoL: Leviatan Esports vs RED Canids - Game 2 Winner",
+    "outcome": "Leviatan Esports",
+    "side": "BUY",
+    "whale_usd": 1548.1190000000001,
+    "whale_pct": 17.843,
+    "paper_stake_usd": 24.5,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786401288.9664934,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786401295,
+    "timestamp_added": 1786401295.5528188,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-ban-bel-2026-08-10-ban",
+    "title": "Will CA Banfield win on 2026-08-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 236.6,
+    "whale_pct": 0.106,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786401295.5528257,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786401319,
+    "timestamp_added": 1786401319.5699673,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-ban-bel-2026-08-10-bel",
+    "title": "Will CA Belgrano win on 2026-08-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 270.13,
+    "whale_pct": 0.121,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786401319.5699732,
+    "fills": 1
   }
 ]
