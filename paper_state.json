@@ -1,5 +1,5 @@
 {
-  "bankroll": 386.32256077044724,
+  "bankroll": 396.5605550075686,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -10795,6 +10795,31 @@
       "timestamp": 1786343111.0795379,
       "bankroll": 386.32,
       "event": "lost: NordhavenCap \u2014 CF Am\u00e9rica vs. Portland Timbers: Portland Timbers O/U 2.5"
+    },
+    {
+      "timestamp": 1786343230.0703135,
+      "bankroll": 386.32,
+      "event": "won: ferrariChampions2026 \u2014 CF Am\u00e9rica vs. Portland Timbers: O/U 1.5"
+    },
+    {
+      "timestamp": 1786343230.1705103,
+      "bankroll": 386.47,
+      "event": "won: ferrariChampions2026 \u2014 CF Am\u00e9rica vs. Portland Timbers: O/U 1.5"
+    },
+    {
+      "timestamp": 1786343231.772613,
+      "bankroll": 387.13,
+      "event": "won: ferrariChampions2026 \u2014 CF Am\u00e9rica vs. Portland Timbers: O/U 3.5"
+    },
+    {
+      "timestamp": 1786343232.373561,
+      "bankroll": 386.18,
+      "event": "lost: ferrariChampions2026 \u2014 CF Am\u00e9rica vs. Portland Timbers: O/U 3.5"
+    },
+    {
+      "timestamp": 1786343233.4755433,
+      "bankroll": 396.56,
+      "event": "won: NordhavenCap \u2014 CF Am\u00e9rica vs. Portland Timbers: O/U 3.5"
     }
   ]
 }

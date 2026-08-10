@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 01:25:26 (hora de Perú)
+Actualizado: 2026-08-10 01:27:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $386.32
-**Retorno acumulado:** -61.37%
+**Bankroll actual:** $396.56
+**Retorno acumulado:** -60.34%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -30,9 +30,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 3 | +0.00 USD |
+| NordhavenCap | 1 | 4 | 1 | -0.30 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| NordhavenCap | 0 | 4 | 2 | -10.69 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | quavoo | 111 | 107 | 12 | -21.15 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 483 | 356 | 20 | -134.34 USD |
+| ferrariChampions2026 | 486 | 357 | 16 | -134.48 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
