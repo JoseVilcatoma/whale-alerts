@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 19:30:08 (hora de Perú)
+Actualizado: 2026-08-09 19:32:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $341.56
@@ -14,14 +14,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 1winstreak1 | 106 | 87 | 1 | +59.55 USD |
-| wr0ngw4yb3tt0r | 47 | 40 | 2 | +40.24 USD |
+| wr0ngw4yb3tt0r | 47 | 40 | 3 | +40.24 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 0 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 82 | 47 | 11 | +7.26 USD |
+| UpTheBlues | 82 | 47 | 13 | +7.26 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 65 | 94 | 59 | -57.54 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 388 | 278 | 67 | -96.70 USD |
+| ferrariChampions2026 | 388 | 278 | 68 | -96.70 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -203,6 +203,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cle-cws-2026-08-09-spread-away-1pt5 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tor-phi-2026-08-09-spread-home-1pt5 | 1winstreak1, ferrariChampions2026, monkeymashingkeyboard |
 | wnba-phx-wsh-2026-08-09-spread-home-1pt5 | monkeymashingkeyboard, wr0ngw4yb3tt0r |
+| lec-nas-asl-2026-08-09-nas | ferrariChampions2026, quavoo |
 | lol-th-g2-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-total-8pt5 | 1winstreak1, SDTrading |
 | mlb-atl-nyy-2026-08-09-total-8pt5 | 1winstreak1, wr0ngw4yb3tt0r |
@@ -237,13 +238,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | arg-aaj-rac-2026-08-09-rac | RN1, UpTheBlues, ferrariChampions2026, quavoo |
 | lec-chi-san-2026-08-09-spread-home-1pt5 | UpTheBlues, ferrariChampions2026, quavoo |
 | mlb-hou-sd-2026-08-09-total-9pt5 | ferrariChampions2026, quavoo |
+| lec-caz-nyc-2026-08-09-spread-home-1pt5 | UpTheBlues, ferrariChampions2026 |
 | mlb-hou-sd-2026-08-09-total-8pt5 | ferrariChampions2026, quavoo, wr0ngw4yb3tt0r |
 | arg-aaj-rac-2026-08-09-spread-home-1pt5 | UpTheBlues, ferrariChampions2026 |
+| mlb-hou-sd-2026-08-09-total-7pt5 | quavoo, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Nashville SC win on 2026-08-09? | No (BUY) | 65% | 1.12 | ⏳ pendiente | — |
+| UpTheBlues | Spread: CF Cruz Azul (-1.5) | New York City FC (BUY) | 88% | 0.39 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 54% | 0.98 | ⏳ pendiente | — |
+| UpTheBlues | Spread: CF Cruz Azul (-2.5) | New York City FC (BUY) | 97% | 0.88 | ⏳ pendiente | — |
 | UpTheBlues | Will Austin FC win on 2026-08-09? | Yes (BUY) | 60% | 0.36 | ⏳ pendiente | — |
 | UpTheBlues | Spread: AA Argentinos Juniors (-1.5) | Racing Club (BUY) | 79% | 1.19 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: AA Argentinos Juniors (-1.5) | AA Argentinos Juniors (BUY) | 21% | 0.39 | ⏳ pendiente | — |
@@ -269,8 +276,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | CF Cruz Azul vs. New York City FC: O/U 2 | Over (BUY) | 55% | 0.73 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chicago Fire FC (-1.5) | Club Santos Laguna (BUY) | 62% | 0.75 | ⏳ pendiente | — |
 | ferrariChampions2026 | CF Cruz Azul vs. New York City FC: O/U 3 | Over (BUY) | 28% | 0.34 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 69% | 1.04 | ⏳ pendiente | — |
-| quavoo | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 62% | 0.71 | ⏳ pendiente | — |
-| ferrariChampions2026 | Nashville SC vs. Atlético San Luis: O/U  | Over (BUY) | 74% | 0.65 | ⏳ pendiente | — |
-| ferrariChampions2026 | Philadelphia Union vs. Club Necaxa: O/U  | Over (BUY) | 37% | 0.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 69% | 1.04 | ⏳ pendiente | — |

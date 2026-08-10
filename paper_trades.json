@@ -41431,5 +41431,91 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786321799.8108582,
     "fills": 1
+  },
+  {
+    "timestamp": 1786321821,
+    "timestamp_added": 1786321822.4344733,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-caz-nyc-2026-08-09-spread-home-2pt5",
+    "title": "Spread: CF Cruz Azul (-2.5)",
+    "outcome": "New York City FC",
+    "side": "BUY",
+    "whale_usd": 970.0,
+    "whale_pct": 0.258,
+    "paper_stake_usd": 0.88,
+    "odds_at_bet": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786321822.434483,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786321850,
+    "timestamp_added": 1786321851.0866165,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-hou-sd-2026-08-09-total-7pt5",
+    "title": "Houston Astros vs. San Diego Padres: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 455.32565200000005,
+    "whale_pct": 0.286,
+    "paper_stake_usd": 0.98,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786321851.086626,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786321851,
+    "timestamp_added": 1786321852.0273907,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-caz-nyc-2026-08-09-spread-home-1pt5",
+    "title": "Spread: CF Cruz Azul (-1.5)",
+    "outcome": "New York City FC",
+    "side": "BUY",
+    "whale_usd": 442.42,
+    "whale_pct": 0.114,
+    "paper_stake_usd": 0.39,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786321852.0274,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786321865,
+    "timestamp_added": 1786321865.3493476,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-nas-asl-2026-08-09-nas",
+    "title": "Will Nashville SC win on 2026-08-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1000.9025,
+    "whale_pct": 0.328,
+    "paper_stake_usd": 1.12,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786321865.3493567,
+    "fills": 1
   }
 ]
