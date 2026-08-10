@@ -50345,5 +50345,47 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786357336.6270409,
     "fills": 1
+  },
+  {
+    "timestamp": 1786357447,
+    "timestamp_added": 1786357447.676018,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "wnba-tor-atl-2026-08-10-spread-home-12pt5",
+    "title": "Spread: Atlanta Dream (-12.5)",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "whale_usd": 1040.0,
+    "whale_pct": 7.692,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786357447.6760273,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786357515,
+    "timestamp_added": 1786357516.2422726,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-pr1-mouz-2026-08-10-game2",
+    "title": "Dota 2: Power Rangers vs MOUZ - Game 2 Winner",
+    "outcome": "Power Rangers",
+    "side": "BUY",
+    "whale_usd": 139.1925,
+    "whale_pct": 0.1,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786357516.2422817,
+    "fills": 1
   }
 ]
