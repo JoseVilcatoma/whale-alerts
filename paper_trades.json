@@ -48098,5 +48098,48 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786349133.5258255,
     "fills": 1
+  },
+  {
+    "timestamp": 1786349187,
+    "timestamp_added": 1786349188.3620214,
+    "username": "Forecastication2",
+    "wallet": "0xdd5ef115f801999575b03d78d0115ad8b2d59040",
+    "slug": "lol-rs-ll-2026-08-10-game1",
+    "title": "LoL: The Ruddy Sack vs Lundqvist Lightside - Game 1 Winner",
+    "outcome": "Lundqvist Lightside",
+    "side": "BUY",
+    "whale_usd": 10.409999999999998,
+    "whale_pct": 0.159,
+    "paper_stake_usd": 0.62,
+    "odds_at_bet": 17,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786349188.362033,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786349256,
+    "timestamp_added": 1786349257.3455818,
+    "username": "Forecastication2",
+    "wallet": "0xdd5ef115f801999575b03d78d0115ad8b2d59040",
+    "slug": "swe-vas-dju-2026-08-10-dju",
+    "title": "Will Djurgardens IF win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 57.2,
+    "whale_pct": 0.87,
+    "paper_stake_usd": 3.37,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786349257.3455918,
+    "fills": 1
   }
 ]
