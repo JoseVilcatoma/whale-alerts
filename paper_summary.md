@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 02:51:03 (hora de Perú)
+Actualizado: 2026-08-10 02:53:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 490 | 369 | 0 | -140.34 USD |
+| ferrariChampions2026 | 490 | 369 | 2 | -140.34 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -266,7 +266,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lec-ame-por-2026-08-09-spread-away-1pt5 | NordhavenCap, UpTheBlues |
 | lec-ame-por-2026-08-09-spread-home-1pt5 | NordhavenCap, UpTheBlues |
 | lec-ame-por-2026-08-09-total-3pt5 | NordhavenCap, ferrariChampions2026 |
-| lol-hle1-gen-2026-08-10 | Djdjdjekekek, fRibrenlc |
+| lol-hle1-gen-2026-08-10 | Djdjdjekekek, fRibrenlc, ferrariChampions2026 |
 | swe-sir-bro-2026-08-10-sir | GoalLineGhost, quavoo |
 | swe-vas-dju-2026-08-10-dju | GoalLineGhost, quavoo |
 
@@ -274,6 +274,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 45% | 0.45 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 45% | 0.46 | ⏳ pendiente | — |
 | GoalLineGhost | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 54% | 10.61 | ⏳ pendiente | — |
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.52 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: IK Sirius (-1.5) | IK Sirius (BUY) | 52% | 0.43 | ⏳ pendiente | — |
@@ -302,5 +304,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 48% | 1.40 | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 56% | 1.93 | ⏳ pendiente | — |
 | Forecastication2 | LoL: DN SOOPers Challengers vs KT Rolste | DN SOOPers Challengers (BUY) | 50% | 0.67 | ⏳ pendiente | — |
-| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.79 | ⏳ pendiente | — |
-| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 74.58 | ⏳ pendiente | — |
