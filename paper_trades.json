@@ -46086,8 +46086,8 @@
     "whale_pct": 2.416,
     "paper_stake_usd": 8.75,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -8.75,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786331387.2336752,
@@ -46106,8 +46106,8 @@
     "whale_pct": 3.514,
     "paper_stake_usd": 12.75,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -12.75,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786331419.2455454,
@@ -46168,8 +46168,8 @@
     "whale_pct": 4.732,
     "paper_stake_usd": 17.18,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -17.18,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786331617.2421293,
@@ -46314,8 +46314,8 @@
     "whale_pct": 0.573,
     "paper_stake_usd": 2.08,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786332007.0606995,
@@ -46334,8 +46334,8 @@
     "whale_pct": 0.486,
     "paper_stake_usd": 1.76,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.76,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786332029.7843356,
@@ -46398,8 +46398,8 @@
     "whale_pct": 0.199,
     "paper_stake_usd": 0.72,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.72,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786332095.412621,
@@ -46440,8 +46440,8 @@
     "whale_pct": 0.121,
     "paper_stake_usd": 0.44,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.44,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786332140.6157525,
@@ -46502,8 +46502,8 @@
     "whale_pct": 11.105,
     "paper_stake_usd": 40.35,
     "odds_at_bet": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -40.35,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786332290.9784782,
@@ -46545,8 +46545,8 @@
     "whale_pct": 15.238,
     "paper_stake_usd": 29.97,
     "odds_at_bet": 38,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 48.9,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -46801,8 +46801,8 @@
     "whale_pct": 1.512,
     "paper_stake_usd": 5.73,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.73,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -46823,8 +46823,8 @@
     "whale_pct": 0.786,
     "paper_stake_usd": 2.98,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.98,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -46845,8 +46845,8 @@
     "whale_pct": 0.829,
     "paper_stake_usd": 3.14,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -3.14,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -46867,8 +46867,8 @@
     "whale_pct": 0.15,
     "paper_stake_usd": 0.57,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.57,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -46889,8 +46889,8 @@
     "whale_pct": 0.269,
     "paper_stake_usd": 1.02,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.02,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -46911,8 +46911,8 @@
     "whale_pct": 6.806,
     "paper_stake_usd": 25.76,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -25.76,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -46933,8 +46933,8 @@
     "whale_pct": 0.389,
     "paper_stake_usd": 1.47,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.47,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -46955,8 +46955,8 @@
     "whale_pct": 2.539,
     "paper_stake_usd": 2.3,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.3,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -46977,8 +46977,8 @@
     "whale_pct": 0.689,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -46999,8 +46999,8 @@
     "whale_pct": 0.357,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47021,8 +47021,8 @@
     "whale_pct": 1.381,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47043,8 +47043,8 @@
     "whale_pct": 1.451,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47065,8 +47065,8 @@
     "whale_pct": 2.73,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47087,8 +47087,8 @@
     "whale_pct": 36.094,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47109,8 +47109,8 @@
     "whale_pct": 19.414,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47131,8 +47131,8 @@
     "whale_pct": 0.237,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47153,8 +47153,8 @@
     "whale_pct": 0.743,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47175,8 +47175,8 @@
     "whale_pct": 0.164,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47197,8 +47197,8 @@
     "whale_pct": 2.294,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47239,8 +47239,8 @@
     "whale_pct": 0.127,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47261,8 +47261,8 @@
     "whale_pct": 0.771,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47283,8 +47283,8 @@
     "whale_pct": 0.157,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47305,8 +47305,8 @@
     "whale_pct": 0.145,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47327,8 +47327,8 @@
     "whale_pct": 0.536,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47369,8 +47369,8 @@
     "whale_pct": 0.586,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47391,8 +47391,8 @@
     "whale_pct": 0.722,
     "paper_stake_usd": 3.08,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -3.08,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47413,8 +47413,8 @@
     "whale_pct": 0.103,
     "paper_stake_usd": 0.44,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.44,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47435,8 +47435,8 @@
     "whale_pct": 0.393,
     "paper_stake_usd": 1.68,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.68,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47457,8 +47457,8 @@
     "whale_pct": 17.478,
     "paper_stake_usd": 74.58,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -74.58,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -47479,8 +47479,8 @@
     "whale_pct": 0.185,
     "paper_stake_usd": 0.79,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.79,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -48089,8 +48089,8 @@
     "whale_pct": 0.114,
     "paper_stake_usd": 0.44,
     "odds_at_bet": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.56,
     "overlaps_with": [
       "Djdjdjekekek",
       "fRibrenlc"
@@ -48155,8 +48155,8 @@
     "whale_pct": 0.103,
     "paper_stake_usd": 0.4,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.4,
     "overlaps_with": [
       "Djdjdjekekek",
       "fRibrenlc"
@@ -48178,8 +48178,8 @@
     "whale_pct": 0.245,
     "paper_stake_usd": 0.95,
     "odds_at_bet": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.95,
     "overlaps_with": [
       "Djdjdjekekek",
       "fRibrenlc"
@@ -48201,8 +48201,8 @@
     "whale_pct": 0.117,
     "paper_stake_usd": 0.45,
     "odds_at_bet": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.45,
     "overlaps_with": [
       "Djdjdjekekek",
       "fRibrenlc"
@@ -48224,8 +48224,8 @@
     "whale_pct": 0.113,
     "paper_stake_usd": 0.44,
     "odds_at_bet": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.44,
     "overlaps_with": [
       "Djdjdjekekek",
       "fRibrenlc"
@@ -48269,8 +48269,8 @@
     "whale_pct": 0.109,
     "paper_stake_usd": 0.42,
     "odds_at_bet": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.42,
     "overlaps_with": [
       "Djdjdjekekek",
       "fRibrenlc"
@@ -48292,8 +48292,8 @@
     "whale_pct": 0.159,
     "paper_stake_usd": 0.62,
     "odds_at_bet": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.47,
     "overlaps_with": [
       "Djdjdjekekek",
       "fRibrenlc"
@@ -48338,8 +48338,8 @@
     "whale_pct": 0.112,
     "paper_stake_usd": 0.43,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.3,
     "overlaps_with": [
       "Djdjdjekekek",
       "fRibrenlc"
@@ -48361,8 +48361,8 @@
     "whale_pct": 0.659,
     "paper_stake_usd": 2.55,
     "odds_at_bet": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.45,
     "overlaps_with": [
       "Djdjdjekekek",
       "fRibrenlc"
@@ -48407,8 +48407,8 @@
     "whale_pct": 0.117,
     "paper_stake_usd": 0.45,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.49,
     "overlaps_with": [
       "Djdjdjekekek",
       "fRibrenlc"
@@ -48453,8 +48453,8 @@
     "whale_pct": 0.113,
     "paper_stake_usd": 0.44,
     "odds_at_bet": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.56,
     "overlaps_with": [
       "Djdjdjekekek",
       "fRibrenlc"
@@ -48476,8 +48476,8 @@
     "whale_pct": 0.124,
     "paper_stake_usd": 0.48,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.52,
     "overlaps_with": [
       "Djdjdjekekek",
       "fRibrenlc"
@@ -48541,8 +48541,8 @@
     "whale_pct": 0.229,
     "paper_stake_usd": 0.89,
     "odds_at_bet": 36,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.89,
     "overlaps_with": [
       "Djdjdjekekek",
       "fRibrenlc"
@@ -48584,7 +48584,7 @@
     "whale_pct": 0.457,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "Djdjdjekekek",
@@ -48627,7 +48627,7 @@
     "whale_pct": 0.698,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "Djdjdjekekek",
@@ -48650,7 +48650,7 @@
     "whale_pct": 0.46,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "Djdjdjekekek",
@@ -48741,7 +48741,7 @@
     "whale_pct": 0.287,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 82,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "Djdjdjekekek",
@@ -48764,7 +48764,7 @@
     "whale_pct": 0.301,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 83,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "Djdjdjekekek",
@@ -51473,6 +51473,46 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786361326.320302,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786361483,
+    "timestamp_added": 1786361483.972382,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "por-cds-nac-2026-08-10-total-2pt5",
+    "title": "CD Santa Clara vs. CD Nacional: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 774.0018,
+    "whale_pct": 5.386,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786361483.9723914,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786361495,
+    "timestamp_added": 1786361495.7902715,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "argpn-abo-ccn-2026-08-10-abo",
+    "title": "Will CA All Boys win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 69.00179999999999,
+    "whale_pct": 0.48,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786361495.790283,
     "fills": 1
   }
 ]

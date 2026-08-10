@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 06:30:10 (hora de Perú)
+Actualizado: 2026-08-10 06:32:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $387.62
-**Retorno acumulado:** -61.24%
+**Bankroll actual:** $230.74
+**Retorno acumulado:** -76.93%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 20 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 37 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 39 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 9 | +0.00 USD |
 |  | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
@@ -39,12 +39,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 121 | 107 | 33 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
-| Djdjdjekekek | 0 | 4 | 13 | -31.98 USD |
-| fRibrenlc | 8 | 12 | 31 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
+| fRibrenlc | 9 | 42 | 0 | -115.00 USD |
+| Djdjdjekekek | 0 | 12 | 5 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 490 | 369 | 58 | -140.34 USD |
+| ferrariChampions2026 | 502 | 375 | 40 | -138.54 USD |
 | TAIWANNUMBERONE | 26 | 38 | 1 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -284,6 +284,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| GoalLineGhost | Will CA All Boys win on 2026-08-10? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
+| GoalLineGhost | CD Santa Clara vs. CD Nacional: O/U 2.5 | Under (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: G2 (-1.5) vs Natus Vincer | Natus Vincere (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | MOUZ (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | MOUZ (BUY) | 77% | 0.00 | ⏳ pendiente | — |
@@ -312,5 +314,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | Will IF Brommapojkarna win on 2026-08-10 | Yes (BUY) | 10% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-12.5) | Toronto Tempo (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| monkeymashingkeyboard | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
