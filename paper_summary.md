@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 02:36:21 (hora de Perú)
+Actualizado: 2026-08-10 02:38:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -29,12 +29,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 5 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 6 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 7 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| quavoo | 121 | 107 | 7 | -16.28 USD |
+| quavoo | 121 | 107 | 8 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Djdjdjekekek | 0 | 4 | 8 | -31.98 USD |
@@ -274,6 +274,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| GoalLineGhost | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 54% | 10.61 | ⏳ pendiente | — |
+| quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.52 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: IK Sirius (-1.5) | IK Sirius (BUY) | 52% | 0.43 | ⏳ pendiente | — |
 | GoalLineGhost | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 54% | 23.57 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Djurgardens IF (-1.5) | Djurgardens IF (BUY) | 31% | 0.50 | ⏳ pendiente | — |
@@ -302,5 +304,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | LoL: DN SOOPers Challengers vs KT Rolste | DN SOOPers Challengers (BUY) | 50% | 0.67 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.79 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 74.58 | ⏳ pendiente | — |
-| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 1.68 | ⏳ pendiente | — |
-| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.44 | ⏳ pendiente | — |
