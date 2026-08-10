@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 09:07:27 (hora de Perú)
+Actualizado: 2026-08-10 09:09:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $230.68
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| HomeRunHazard | 45 | 46 | 20 | +15.05 USD |
+| HomeRunHazard | 45 | 46 | 22 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | monkeymashingkeyboard | 3 | 0 | 6 | +2.86 USD |
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 121 | 108 | 47 | -16.66 USD |
+| quavoo | 121 | 108 | 48 | -16.66 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -280,18 +280,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | por-cds-nac-2026-08-10-cds | Forecastication2, quavoo |
 | swe-sir-bro-2026-08-10-sir | GoalLineGhost, quavoo |
 | swe-vas-dju-2026-08-10-dju | Forecastication2, GoalLineGhost, quavoo |
+| swe-vas-dju-2026-08-10-spread-away-1pt5 | GoalLineGhost, quavoo |
 | swe-vas-dju-2026-08-10-total-2pt5 | GoalLineGhost, quavoo |
 | lol-hle-genga-2026-08-10 | BBQChickenisthebesttt, quavoo |
 | lol-dnf-drx-2026-08-10-game1 | BBQChickenisthebesttt, ferrariChampions2026 |
 | swe-sir-bro-2026-08-10-bro | Forecastication2, GoalLineGhost, quavoo |
 | lol-gen-dnf-2026-08-10 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, BrotherObama, ferrariChampions2026, lzh1 |
 | lol-gen-dnf-2026-08-10-game1 | BrotherObama, ferrariChampions2026 |
+| mlb-tb-oak-2026-08-10-total-9pt5 | HomeRunHazard, SDTrading |
 | lol-gen-dnf-2026-08-10-game2 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 47% | 0.18 | ⏳ pendiente | — |
+| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under (BUY) | 55% | 0.79 | ⏳ pendiente | — |
+| quavoo | Spread: Djurgardens IF (-1.5) | Djurgardens IF (BUY) | 34% | 0.42 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: IK Sirius (-1.5) | IK Sirius (BUY) | 49% | 3.14 | ⏳ pendiente | — |
 | quavoo | Will FC Botoşani win on 2026-08-10? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | CA All Boys vs. CA Central Norte Salta:  | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
@@ -319,6 +324,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 29% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | Gen.G (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | Gen.G (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Vitality Academy (BUY) | 72% | 0.00 | ⏳ pendiente | — |

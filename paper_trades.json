@@ -54066,5 +54066,69 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786370075.4701133,
     "fills": 1
+  },
+  {
+    "timestamp": 1786370847,
+    "timestamp_added": 1786370848.6223283,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "swe-vas-dju-2026-08-10-spread-away-1pt5",
+    "title": "Spread: Djurgardens IF (-1.5)",
+    "outcome": "Djurgardens IF",
+    "side": "BUY",
+    "whale_usd": 132.26000000000002,
+    "whale_pct": 0.183,
+    "paper_stake_usd": 0.42,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786370848.6223376,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786370897,
+    "timestamp_added": 1786370898.007548,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-tb-oak-2026-08-10-total-10pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 442.17800000000005,
+    "whale_pct": 0.341,
+    "paper_stake_usd": 0.79,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786370898.0075567,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786370897,
+    "timestamp_added": 1786370898.6266668,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-tb-oak-2026-08-10-total-9pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1800.4713,
+    "whale_pct": 1.388,
+    "paper_stake_usd": 0.18,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786370898.6266751,
+    "fills": 1
   }
 ]
