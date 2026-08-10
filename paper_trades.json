@@ -56086,5 +56086,69 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786401319.5699732,
     "fills": 1
+  },
+  {
+    "timestamp": 1786401383,
+    "timestamp_added": 1786401383.720071,
+    "username": "SnakeBall",
+    "wallet": "0xc29198ad764bd6adaf7bb971a3757a689ece5d74",
+    "slug": "uru1-mal-rcm-2026-08-10-mal",
+    "title": "Will Deportivo Maldonado win on 2026-08-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 161.818181,
+    "whale_pct": 0.157,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786401383.7200773,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786401410,
+    "timestamp_added": 1786401410.6893456,
+    "username": "SnakeBall",
+    "wallet": "0xc29198ad764bd6adaf7bb971a3757a689ece5d74",
+    "slug": "arg-ban-bel-2026-08-10-first-half-total-0pt5",
+    "title": "CA Banfield vs. CA Belgrano: 1st Half O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 339.48,
+    "whale_pct": 0.329,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 23,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786401410.689351,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786401461,
+    "timestamp_added": 1786401462.0110996,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-ban-bel-2026-08-10-total-2pt5",
+    "title": "CA Banfield vs. CA Belgrano: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 921.9300000000001,
+    "whale_pct": 0.411,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786401462.011109,
+    "fills": 1
   }
 ]
