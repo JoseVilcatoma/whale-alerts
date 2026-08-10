@@ -47687,5 +47687,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786338384.4659874,
     "fills": 1
+  },
+  {
+    "timestamp": 1786339511,
+    "timestamp_added": 1786339511.8976154,
+    "username": "Forecastication2",
+    "wallet": "0xdd5ef115f801999575b03d78d0115ad8b2d59040",
+    "slug": "mlb-hou-sf-2026-08-10-total-8pt5",
+    "title": "Houston Astros vs. San Francisco Giants: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 67.325,
+    "whale_pct": 1.11,
+    "paper_stake_usd": 4.69,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786339511.897623,
+    "fills": 1
   }
 ]
