@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 07:05:09 (hora de Perú)
+Actualizado: 2026-08-10 07:07:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $230.74
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 0 | 12 | 5 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 505 | 375 | 44 | -138.54 USD |
+| ferrariChampions2026 | 505 | 375 | 45 | -138.54 USD |
 | TAIWANNUMBERONE | 26 | 38 | 2 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -284,6 +284,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 93% | 0.78 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Odense BK (-2.5) | Silkeborg IF (BUY) | 92% | 0.89 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 92% | 0.86 | ⏳ pendiente | — |
 | GoalLineGhost | Silkeborg IF vs. Odense BK: O/U 4.5 | Under (BUY) | 77% | 0.25 | ⏳ pendiente | — |
@@ -313,4 +314,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 91% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | IK Sirius vs. IF Brommapojkarna: O/U 3.5 | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 78% | 0.00 | ⏳ pendiente | — |
