@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 15:55:24 (hora de Perú)
+Actualizado: 2026-08-10 15:57:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $289.30
-**Retorno acumulado:** -71.07%
+**Bankroll actual:** $238.77
+**Retorno acumulado:** -76.12%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -28,21 +28,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
-| GoalLineGhost | 0 | 1 | 62 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 |  | 2 | 0 | 2 | +0.00 USD |
 | lzh1 | 1 | 0 | 4 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | johnbaster | 0 | 0 | 1 | +0.00 USD |
 | Wealthfreedom001 | 0 | 0 | 1 | +0.00 USD |
-| Forecastication2 | 3 | 2 | 26 | -1.41 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
+| Forecastication2 | 3 | 16 | 12 | -8.19 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 123 | 108 | 56 | -16.66 USD |
-| RN1 | 141 | 73 | 21 | -23.95 USD |
+| RN1 | 146 | 73 | 16 | -21.54 USD |
+| quavoo | 123 | 123 | 41 | -28.14 USD |
+| GoalLineGhost | 5 | 5 | 53 | -34.68 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -312,13 +312,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Under (BUY) | 48% | 0.39 | ⏳ pendiente | — |
 | RN1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.41 | ⏳ pendiente | — |
 | RN1 | Will IK Sirius vs. IF Brommapojkarna end | No (BUY) | 49% | 1.07 | ⏳ pendiente | — |
-| RN1 | Vasteraas SK vs. Djurgardens IF: O/U 1.5 | Under (BUY) | 45% | 1.05 | ⏳ pendiente | — |
+| RN1 | Vasteraas SK vs. Djurgardens IF: O/U 1.5 | Under (BUY) | 45% | 1.05 | ✅ ganada | +1.28 |
 | quavoo | CD Santa Clara vs. CD Nacional: O/U 2.5 | Under (BUY) | 64% | 0.76 | ⏳ pendiente | — |
-| RN1 | Vasteraas SK vs. Djurgardens IF: O/U 3.5 | Under (BUY) | 95% | 1.77 | ⏳ pendiente | — |
-| RN1 | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Under (BUY) | 79% | 1.72 | ⏳ pendiente | — |
+| RN1 | Vasteraas SK vs. Djurgardens IF: O/U 3.5 | Under (BUY) | 95% | 1.77 | ✅ ganada | +0.09 |
+| RN1 | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Under (BUY) | 79% | 1.72 | ✅ ganada | +0.46 |
 | RN1 | Will IK Sirius win on 2026-08-10? | No (BUY) | 59% | 1.21 | ⏳ pendiente | — |
-| RN1 | Vasteraas SK vs. Djurgardens IF: O/U 3.5 | Under (BUY) | 95% | 7.67 | ⏳ pendiente | — |
-| RN1 | Will Vasteraas SK vs. Djurgardens IF end | No (BUY) | 71% | 0.43 | ⏳ pendiente | — |
+| RN1 | Vasteraas SK vs. Djurgardens IF: O/U 3.5 | Under (BUY) | 95% | 7.67 | ✅ ganada | +0.40 |
+| RN1 | Will Vasteraas SK vs. Djurgardens IF end | No (BUY) | 71% | 0.43 | ✅ ganada | +0.18 |
 | quavoo | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Panathinaikós AO (BUY) | 70% | 0.35 | ⏳ pendiente | — |
 | RN1 | IK Sirius vs. IF Brommapojkarna: O/U 4.5 | Under (BUY) | 39% | 0.43 | ⏳ pendiente | — |
 | lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 1.04 | ⏳ pendiente | — |

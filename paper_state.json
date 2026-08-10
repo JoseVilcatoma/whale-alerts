@@ -1,5 +1,5 @@
 {
-  "bankroll": 289.296051957065,
+  "bankroll": 238.7690763883518,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -11935,6 +11935,221 @@
       "timestamp": 1786393585.2276907,
       "bankroll": 289.3,
       "event": "lost: GoalLineGhost \u2014 FC RFS vs. FK Grobina: O/U 1.5"
+    },
+    {
+      "timestamp": 1786395417.849781,
+      "bankroll": 288.49,
+      "event": "lost: quavoo \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395417.9499235,
+      "bankroll": 287.42,
+      "event": "lost: quavoo \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395418.3018343,
+      "bankroll": 286.92,
+      "event": "lost: GoalLineGhost \u2014 Spread: Djurgardens IF (-1.5)"
+    },
+    {
+      "timestamp": 1786395418.401979,
+      "bankroll": 263.35,
+      "event": "lost: GoalLineGhost \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395418.7024062,
+      "bankroll": 252.74,
+      "event": "lost: GoalLineGhost \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395419.3281274,
+      "bankroll": 249.37,
+      "event": "lost: Forecastication2 \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395419.528421,
+      "bankroll": 248.78,
+      "event": "lost: Forecastication2 \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395419.6285777,
+      "bankroll": 247.15,
+      "event": "lost: Forecastication2 \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395419.728722,
+      "bankroll": 246.6,
+      "event": "lost: Forecastication2 \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395420.8435557,
+      "bankroll": 246.6,
+      "event": "lost: Forecastication2 \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395420.9437065,
+      "bankroll": 246.6,
+      "event": "lost: Forecastication2 \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395421.8450987,
+      "bankroll": 246.6,
+      "event": "lost: Forecastication2 \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395421.945252,
+      "bankroll": 246.6,
+      "event": "lost: quavoo \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395422.1982043,
+      "bankroll": 246.6,
+      "event": "lost: GoalLineGhost \u2014 Vasteraas SK vs. Djurgardens IF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786395422.5942035,
+      "bankroll": 246.6,
+      "event": "won: GoalLineGhost \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395423.7974293,
+      "bankroll": 246.6,
+      "event": "lost: Forecastication2 \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395423.897575,
+      "bankroll": 246.6,
+      "event": "lost: Forecastication2 \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395423.9977198,
+      "bankroll": 246.6,
+      "event": "lost: Forecastication2 \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395425.6459806,
+      "bankroll": 246.6,
+      "event": "lost: quavoo \u2014 Vasteraas SK vs. Djurgardens IF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786395426.3050196,
+      "bankroll": 246.6,
+      "event": "won: GoalLineGhost \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395427.4357145,
+      "bankroll": 246.6,
+      "event": "won: GoalLineGhost \u2014 Spread: Djurgardens IF (-2.5)"
+    },
+    {
+      "timestamp": 1786395428.7421212,
+      "bankroll": 246.6,
+      "event": "lost: quavoo \u2014 Vasteraas SK vs. Djurgardens IF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786395430.533732,
+      "bankroll": 246.0,
+      "event": "lost: quavoo \u2014 Vasteraas SK vs. Djurgardens IF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786395431.7175057,
+      "bankroll": 245.65,
+      "event": "lost: quavoo \u2014 Vasteraas SK vs. Djurgardens IF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786395432.8146667,
+      "bankroll": 238.22,
+      "event": "lost: quavoo \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395433.0149515,
+      "bankroll": 237.9,
+      "event": "lost: quavoo \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395433.6670015,
+      "bankroll": 237.26,
+      "event": "lost: Forecastication2 \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395435.122956,
+      "bankroll": 236.78,
+      "event": "lost: quavoo \u2014 Vasteraas SK vs. Djurgardens IF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786395435.5235143,
+      "bankroll": 236.78,
+      "event": "lost: quavoo \u2014 Vasteraas SK vs. Djurgardens IF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786395435.9644303,
+      "bankroll": 236.78,
+      "event": "lost: quavoo \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395436.3126628,
+      "bankroll": 236.78,
+      "event": "lost: Forecastication2 \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395436.4128091,
+      "bankroll": 236.78,
+      "event": "lost: quavoo \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395436.7598112,
+      "bankroll": 236.78,
+      "event": "lost: Forecastication2 \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395437.2564425,
+      "bankroll": 236.78,
+      "event": "won: GoalLineGhost \u2014 Spread: Djurgardens IF (-1.5)"
+    },
+    {
+      "timestamp": 1786395437.3565907,
+      "bankroll": 236.78,
+      "event": "won: GoalLineGhost \u2014 Spread: Djurgardens IF (-2.5)"
+    },
+    {
+      "timestamp": 1786395437.5568724,
+      "bankroll": 236.78,
+      "event": "lost: Forecastication2 \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395437.657027,
+      "bankroll": 236.78,
+      "event": "lost: quavoo \u2014 Will Djurgardens IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395438.9422078,
+      "bankroll": 236.36,
+      "event": "lost: quavoo \u2014 Spread: Djurgardens IF (-1.5)"
+    },
+    {
+      "timestamp": 1786395442.8683567,
+      "bankroll": 236.53,
+      "event": "won: RN1 \u2014 Will Vasteraas SK vs. Djurgardens IF end in a draw?"
+    },
+    {
+      "timestamp": 1786395443.120185,
+      "bankroll": 236.94,
+      "event": "won: RN1 \u2014 Vasteraas SK vs. Djurgardens IF: O/U 3.5"
+    },
+    {
+      "timestamp": 1786395443.3204703,
+      "bankroll": 237.39,
+      "event": "won: RN1 \u2014 Vasteraas SK vs. Djurgardens IF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786395443.420617,
+      "bankroll": 237.49,
+      "event": "won: RN1 \u2014 Vasteraas SK vs. Djurgardens IF: O/U 3.5"
+    },
+    {
+      "timestamp": 1786395443.7762203,
+      "bankroll": 238.77,
+      "event": "won: RN1 \u2014 Vasteraas SK vs. Djurgardens IF: O/U 1.5"
     }
   ]
 }
