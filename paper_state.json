@@ -1,5 +1,5 @@
 {
-  "bankroll": 230.67514286615588,
+  "bankroll": 229.45514286615588,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -11640,6 +11640,36 @@
       "timestamp": 1786375089.8537574,
       "bankroll": 230.68,
       "event": "won: ferrariChampions2026 \u2014 Dota 2: Ilbirs eSports vs Zero Tenacity - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786382991.470832,
+      "bankroll": 230.19,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Eternal Fire Academy vs Vitality Academy (BO3) - European Pro League Regular Group D"
+    },
+    {
+      "timestamp": 1786382991.5710309,
+      "bankroll": 229.71,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Eternal Fire Academy vs Vitality Academy (BO3) - European Pro League Regular Group D"
+    },
+    {
+      "timestamp": 1786382992.8232892,
+      "bankroll": 229.46,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Eternal Fire Academy vs Vitality Academy (BO3) - European Pro League Regular Group D"
+    },
+    {
+      "timestamp": 1786383001.7207692,
+      "bankroll": 229.46,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Eternal Fire Academy vs Vitality Academy (BO3) - European Pro League Regular Group D"
+    },
+    {
+      "timestamp": 1786383003.9051356,
+      "bankroll": 229.46,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Eternal Fire Academy vs Vitality Academy (BO3) - European Pro League Regular Group D"
+    },
+    {
+      "timestamp": 1786383004.0053096,
+      "bankroll": 229.46,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Eternal Fire Academy vs Vitality Academy (BO3) - European Pro League Regular Group D"
     }
   ]
 }
