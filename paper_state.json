@@ -1,5 +1,5 @@
 {
-  "bankroll": 365.53765155419904,
+  "bankroll": 373.38132005427184,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -9975,6 +9975,126 @@
       "timestamp": 1786333279.3953526,
       "bankroll": 365.54,
       "event": "won: UpTheBlues \u2014 Will CF Cruz Azul vs. New York City FC end in a draw?"
+    },
+    {
+      "timestamp": 1786334829.9421394,
+      "bankroll": 365.54,
+      "event": "won: quavoo \u2014 Will Philadelphia Union win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334830.2485888,
+      "bankroll": 367.44,
+      "event": "won: quavoo \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334830.348734,
+      "bankroll": 368.11,
+      "event": "won: quavoo \u2014 Will Philadelphia Union win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334830.4488902,
+      "bankroll": 369.23,
+      "event": "won: quavoo \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334830.964349,
+      "bankroll": 370.8,
+      "event": "won: quavoo \u2014 Will Philadelphia Union win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334832.3619072,
+      "bankroll": 371.22,
+      "event": "won: quavoo \u2014 Will Philadelphia Union win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334832.462081,
+      "bankroll": 371.48,
+      "event": "won: quavoo \u2014 Will Philadelphia Union win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334832.9642696,
+      "bankroll": 372.55,
+      "event": "won: quavoo \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334833.064425,
+      "bankroll": 373.42,
+      "event": "won: quavoo \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334833.1645675,
+      "bankroll": 374.67,
+      "event": "won: quavoo \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334833.5644634,
+      "bankroll": 375.76,
+      "event": "won: quavoo \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334833.6646528,
+      "bankroll": 375.02,
+      "event": "lost: ferrariChampions2026 \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334834.3485699,
+      "bankroll": 373.71,
+      "event": "lost: ferrariChampions2026 \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334835.5608556,
+      "bankroll": 372.45,
+      "event": "lost: ferrariChampions2026 \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334836.0511782,
+      "bankroll": 372.91,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334836.251476,
+      "bankroll": 373.38,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334840.6274436,
+      "bankroll": 373.38,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334840.7276046,
+      "bankroll": 373.38,
+      "event": "lost: UpTheBlues \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334840.8277507,
+      "bankroll": 373.38,
+      "event": "lost: UpTheBlues \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334844.196613,
+      "bankroll": 373.38,
+      "event": "lost: UpTheBlues \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334844.79762,
+      "bankroll": 373.38,
+      "event": "won: UpTheBlues \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334845.9216888,
+      "bankroll": 373.38,
+      "event": "won: UpTheBlues \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334847.1335664,
+      "bankroll": 373.38,
+      "event": "won: UpTheBlues \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786334847.2337456,
+      "bankroll": 373.38,
+      "event": "won: UpTheBlues \u2014 Will CF Cruz Azul win on 2026-08-09?"
     }
   ]
 }
