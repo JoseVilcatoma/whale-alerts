@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 21:25:58 (hora de Perú)
+Actualizado: 2026-08-09 21:28:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $340.81
@@ -14,12 +14,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 1winstreak1 | 106 | 87 | 1 | +59.55 USD |
-| wr0ngw4yb3tt0r | 48 | 40 | 3 | +40.24 USD |
+| wr0ngw4yb3tt0r | 48 | 40 | 4 | +40.24 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 31 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
-| HomeRunHazard | 43 | 45 | 2 | +8.65 USD |
+| HomeRunHazard | 43 | 45 | 3 | +8.65 USD |
 | UpTheBlues | 91 | 47 | 49 | +8.04 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 66 | 97 | 67 | -59.04 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 415 | 289 | 92 | -94.95 USD |
+| ferrariChampions2026 | 415 | 289 | 95 | -94.95 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -258,11 +258,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lec-sdg-tij-2026-08-09-sdg | UpTheBlues, ferrariChampions2026 |
 | lec-ame-por-2026-08-09-por | UpTheBlues, ferrariChampions2026 |
 | lec-ame-por-2026-08-09-total-2pt5 | ferrariChampions2026, quavoo |
+| mlb-hou-sd-2026-08-09-spread-home-3pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 99% | 7.48 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will San Diego FC win on 2026-08-09? | No (BUY) | 54% | 1.04 | ⏳ pendiente | — |
+| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 3.5 | Over (BUY) | 27% | 0.48 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: San Diego Padres (-3.5) | Houston Astros (BUY) | 66% | 10.47 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: San Diego Padres (-3.5) | San Diego Padres (BUY) | 34% | 2.48 | ⏳ pendiente | — |
 | HomeRunHazard | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 52% | 1.24 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 52% | 1.05 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: San Diego FC (-1.5) | Club Tijuana (BUY) | 76% | 1.20 | ⏳ pendiente | — |
@@ -288,8 +294,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Austin FC vs. Club Puebla: O/U 3.5 | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Philadelphia Union vs. Club Necaxa  | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Austin FC vs. Club Puebla: O/U 4.5 | Under (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Austin FC vs. Club Puebla: O/U 4.5 | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Austin FC vs. Club Puebla: O/U 5.5 | Under (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 83% | 0.00 | ⏳ pendiente | — |
