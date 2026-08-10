@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 15:59:35 (hora de Perú)
+Actualizado: 2026-08-10 16:01:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $238.77
@@ -34,6 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | johnbaster | 0 | 0 | 1 | +0.00 USD |
 | Wealthfreedom001 | 0 | 0 | 1 | +0.00 USD |
+| VD721lsj4938Dk388 | 0 | 0 | 1 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
@@ -300,6 +301,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| VD721lsj4938Dk388 | Will CD Universidad Catolica del Ecuador | Yes (BUY) | 51% | 1.79 | ⏳ pendiente | — |
 | theowalcott | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 54% | 3.15 | ⏳ pendiente | — |
 | quavoo | Plymouth Argyle FC vs. Exeter City FC: B | Yes (BUY) | 54% | 4.24 | ⏳ pendiente | — |
 | quavoo | Plymouth Argyle FC vs. Exeter City FC: B | Yes (BUY) | 54% | 0.43 | ⏳ pendiente | — |
@@ -329,4 +331,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 47% | 1.10 | ⏳ pendiente | — |
 | RN1 | Will Silkeborg IF win on 2026-08-10? | No (BUY) | 35% | 0.43 | ⏳ pendiente | — |
 | RN1 | Silkeborg IF vs. Odense BK: O/U 2.5 | Over (BUY) | 27% | 0.32 | ⏳ pendiente | — |
-| RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Over (BUY) | 68% | 6.19 | ⏳ pendiente | — |

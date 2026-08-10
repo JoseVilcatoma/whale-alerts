@@ -54924,5 +54924,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786387950.1601996,
     "fills": 8
+  },
+  {
+    "timestamp": 1786395689,
+    "timestamp_added": 1786395690.2919607,
+    "username": "VD721lsj4938Dk388",
+    "wallet": "0x162ca4c5249987872fea1e15c846d7fe80316c47",
+    "slug": "ecu1-lib-uni-2026-08-10-uni",
+    "title": "Will CD Universidad Catolica del Ecuador win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 417.1953,
+    "whale_pct": 0.751,
+    "paper_stake_usd": 1.79,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786395690.2919707,
+    "fills": 1
   }
 ]
