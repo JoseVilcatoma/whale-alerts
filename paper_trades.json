@@ -48141,5 +48141,119 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786349257.3455918,
     "fills": 1
+  },
+  {
+    "timestamp": 1786349313,
+    "timestamp_added": 1786349313.9264429,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-hle1-gen-2026-08-10",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 120.705,
+    "whale_pct": 0.103,
+    "paper_stake_usd": 0.4,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "fRibrenlc"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786349313.9264522,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786349342,
+    "timestamp_added": 1786349342.6413245,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-hle1-gen-2026-08-10",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 286.58140000000003,
+    "whale_pct": 0.245,
+    "paper_stake_usd": 0.95,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "fRibrenlc"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786349344.398539,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786349372,
+    "timestamp_added": 1786349372.8199837,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-hle1-gen-2026-08-10",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 136.3725,
+    "whale_pct": 0.117,
+    "paper_stake_usd": 0.45,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "fRibrenlc"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786349372.8199933,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786349387,
+    "timestamp_added": 1786349387.9246309,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-hle1-gen-2026-08-10",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 132.87,
+    "whale_pct": 0.113,
+    "paper_stake_usd": 0.44,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "fRibrenlc"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786349387.9246404,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786349388,
+    "timestamp_added": 1786349388.8057675,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "swe-sir-bro-2026-08-10-sir",
+    "title": "Will IK Sirius win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 160.6,
+    "whale_pct": 0.236,
+    "paper_stake_usd": 0.91,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786349388.8057764,
+    "fills": 1
   }
 ]
