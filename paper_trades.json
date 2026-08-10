@@ -54755,5 +54755,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786386878.44692,
     "fills": 1
+  },
+  {
+    "timestamp": 1786387557,
+    "timestamp_added": 1786387558.1935413,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "por-cds-nac-2026-08-10-cds",
+    "title": "Will CD Santa Clara win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 98.0,
+    "whale_pct": 0.101,
+    "paper_stake_usd": 0.29,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Forecastication2"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786387558.1935527,
+    "fills": 1
   }
 ]
