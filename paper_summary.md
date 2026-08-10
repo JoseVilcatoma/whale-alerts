@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 20:31:17 (hora de Perú)
+Actualizado: 2026-08-09 21:09:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $341.75
-**Retorno acumulado:** -65.82%
+**Bankroll actual:** $340.81
+**Retorno acumulado:** -65.92%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,31 +14,31 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 1winstreak1 | 106 | 87 | 1 | +59.55 USD |
-| wr0ngw4yb3tt0r | 47 | 40 | 4 | +40.24 USD |
+| wr0ngw4yb3tt0r | 48 | 40 | 3 | +40.24 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 31 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 1 | +8.65 USD |
+| UpTheBlues | 91 | 47 | 49 | +8.04 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 82 | 47 | 58 | +7.26 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | theowalcott | 0 | 2 | 7 | +0.00 USD |
-| AV23IUa | 0 | 0 | 6 | +0.00 USD |
-| swisstony | 4 | 3 | 25 | -1.41 USD |
+| AV23IUa | 0 | 3 | 3 | +0.00 USD |
+| swisstony | 18 | 10 | 4 | -2.80 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 112 | 66 | 36 | -20.82 USD |
+| RN1 | 123 | 67 | 24 | -20.69 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 65 | 94 | 68 | -57.54 USD |
+| quavoo | 66 | 97 | 67 | -59.04 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 394 | 279 | 112 | -95.99 USD |
+| ferrariChampions2026 | 414 | 289 | 82 | -94.95 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -259,6 +259,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 41% | 0.90 | ⏳ pendiente | — |
+| quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 41% | 0.46 | ⏳ pendiente | — |
+| quavoo | CF América vs. Portland Timbers: O/U 2.5 | Over (BUY) | 65% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CF Cruz Azul vs. New York City FC e | No (BUY) | 88% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: CF Cruz Azul (-1.5) | New York City FC (BUY) | 86% | 0.00 | ⏳ pendiente | — |
@@ -286,6 +289,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Nashville SC (-2.5) | Atlético San Luis (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CF Cruz Azul win on 2026-08-09? | No (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will América de Cali win on 2026-08-08? | No (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CF América win on 2026-08-09? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: New York City FC (-1.5) | CF Cruz Azul (BUY) | 98% | 0.00 | ⏳ pendiente | — |

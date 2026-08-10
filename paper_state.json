@@ -1,5 +1,5 @@
 {
-  "bankroll": 341.75046087901023,
+  "bankroll": 340.80921222868767,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8925,6 +8925,406 @@
       "timestamp": 1786324161.7561674,
       "bankroll": 341.75,
       "event": "lost: StasPanda \u2014 Counter-Strike: BESTIA vs Isurus (BO3) - BetBoom Storm Group Stage"
+    },
+    {
+      "timestamp": 1786327647.6677468,
+      "bankroll": 341.75,
+      "event": "lost: quavoo \u2014 Santos FC vs. CA Paranaense: O/U 2.5"
+    },
+    {
+      "timestamp": 1786327647.9703481,
+      "bankroll": 341.75,
+      "event": "won: quavoo \u2014 Spread: Santos FC (-1.5)"
+    },
+    {
+      "timestamp": 1786327650.97724,
+      "bankroll": 341.75,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Golden State Valkyries vs. Los Angeles Sparks: O/U 169.5"
+    },
+    {
+      "timestamp": 1786327651.5787868,
+      "bankroll": 341.81,
+      "event": "won: RN1 \u2014 Will FC Arge\u0219 Pite\u0219ti win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786327652.1751208,
+      "bankroll": 341.09,
+      "event": "lost: RN1 \u2014 Will San Martin de Tucuman win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786327652.6035686,
+      "bankroll": 341.09,
+      "event": "lost: AV23IUa \u2014 Will Santos FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327652.9874072,
+      "bankroll": 341.09,
+      "event": "lost: AV23IUa \u2014 Will Santos FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327653.3881192,
+      "bankroll": 341.09,
+      "event": "lost: AV23IUa \u2014 Will Santos FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327653.488241,
+      "bankroll": 341.24,
+      "event": "won: RN1 \u2014 Will Santos FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327653.7735713,
+      "bankroll": 341.52,
+      "event": "won: ferrariChampions2026 \u2014 LoL: FlyQuest vs Team Liquid (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1786327654.0702472,
+      "bankroll": 341.54,
+      "event": "won: RN1 \u2014 Red Bull Bragantino vs. SC Corinthians Paulista: O/U 3.5"
+    },
+    {
+      "timestamp": 1786327654.4642906,
+      "bankroll": 341.77,
+      "event": "won: ferrariChampions2026 \u2014 LoL: FlyQuest vs Team Liquid (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1786327654.6527705,
+      "bankroll": 341.9,
+      "event": "won: RN1 \u2014 Will Red Bull Bragantino win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327654.953189,
+      "bankroll": 342.02,
+      "event": "won: ferrariChampions2026 \u2014 LoL: FlyQuest vs Team Liquid (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1786327655.7550704,
+      "bankroll": 342.16,
+      "event": "won: RN1 \u2014 Will Red Bull Bragantino win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327655.8552,
+      "bankroll": 342.41,
+      "event": "won: ferrariChampions2026 \u2014 LoL: FlyQuest vs Team Liquid (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1786327656.5208268,
+      "bankroll": 342.71,
+      "event": "won: ferrariChampions2026 \u2014 LoL: FlyQuest vs Team Liquid - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786327656.621006,
+      "bankroll": 343.0,
+      "event": "won: ferrariChampions2026 \u2014 LoL: FlyQuest vs Team Liquid - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786327656.7211263,
+      "bankroll": 343.29,
+      "event": "won: ferrariChampions2026 \u2014 LoL: FlyQuest vs Team Liquid - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786327657.606129,
+      "bankroll": 342.57,
+      "event": "lost: ferrariChampions2026 \u2014 Red Bull Bragantino vs. SC Corinthians Paulista: O/U 1.5"
+    },
+    {
+      "timestamp": 1786327659.6178172,
+      "bankroll": 342.57,
+      "event": "won: RN1 \u2014 Will Santos FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327659.9292693,
+      "bankroll": 342.18,
+      "event": "lost: quavoo \u2014 Valorant: LOUD vs 100 Thieves - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786327661.0332289,
+      "bankroll": 341.07,
+      "event": "lost: quavoo \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327661.3417835,
+      "bankroll": 340.28,
+      "event": "lost: ferrariChampions2026 \u2014 Golden State Valkyries vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786327661.742399,
+      "bankroll": 340.72,
+      "event": "won: ferrariChampions2026 \u2014 Golden State Valkyries vs. Los Angeles Sparks: O/U 169.5"
+    },
+    {
+      "timestamp": 1786327662.8512096,
+      "bankroll": 340.81,
+      "event": "won: RN1 \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327663.5562441,
+      "bankroll": 341.2,
+      "event": "won: ferrariChampions2026 \u2014 AA Argentinos Juniors vs. Racing Club: O/U 1.5"
+    },
+    {
+      "timestamp": 1786327665.2841198,
+      "bankroll": 341.24,
+      "event": "won: ferrariChampions2026 \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327665.5714567,
+      "bankroll": 341.38,
+      "event": "won: ferrariChampions2026 \u2014 Will AA Argentinos Juniors vs. Racing Club end in a draw?"
+    },
+    {
+      "timestamp": 1786327665.8718398,
+      "bankroll": 341.4,
+      "event": "won: RN1 \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327666.1717012,
+      "bankroll": 340.76,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: AA Argentinos Juniors (-1.5)"
+    },
+    {
+      "timestamp": 1786327666.2718096,
+      "bankroll": 340.8,
+      "event": "won: ferrariChampions2026 \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327666.3719163,
+      "bankroll": 340.82,
+      "event": "won: RN1 \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327666.5721283,
+      "bankroll": 340.82,
+      "event": "won: RN1 \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327666.772393,
+      "bankroll": 340.85,
+      "event": "won: ferrariChampions2026 \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327667.1716506,
+      "bankroll": 341.1,
+      "event": "won: RN1 \u2014 Will AA Argentinos Juniors win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327668.4144843,
+      "bankroll": 340.62,
+      "event": "lost: ferrariChampions2026 \u2014 AA Argentinos Juniors vs. Racing Club: O/U 3.5"
+    },
+    {
+      "timestamp": 1786327673.1108487,
+      "bankroll": 340.69,
+      "event": "won: ferrariChampions2026 \u2014 Golden State Valkyries vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786327675.7624323,
+      "bankroll": 340.25,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: AA Argentinos Juniors (-1.5)"
+    },
+    {
+      "timestamp": 1786327675.8625703,
+      "bankroll": 340.6,
+      "event": "won: UpTheBlues \u2014 Spread: AA Argentinos Juniors (-1.5)"
+    },
+    {
+      "timestamp": 1786327676.3382194,
+      "bankroll": 340.71,
+      "event": "won: UpTheBlues \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327677.4471743,
+      "bankroll": 340.32,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: AA Argentinos Juniors (-1.5)"
+    },
+    {
+      "timestamp": 1786327677.547356,
+      "bankroll": 340.64,
+      "event": "won: UpTheBlues \u2014 Spread: AA Argentinos Juniors (-1.5)"
+    },
+    {
+      "timestamp": 1786327679.2656581,
+      "bankroll": 340.95,
+      "event": "won: ferrariChampions2026 \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327679.4659653,
+      "bankroll": 340.41,
+      "event": "lost: ferrariChampions2026 \u2014 AA Argentinos Juniors vs. Racing Club: O/U 3.5"
+    },
+    {
+      "timestamp": 1786327679.7664182,
+      "bankroll": 340.57,
+      "event": "won: ferrariChampions2026 \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327680.1732635,
+      "bankroll": 341.35,
+      "event": "won: ferrariChampions2026 \u2014 AA Argentinos Juniors vs. Racing Club: O/U 2.5"
+    },
+    {
+      "timestamp": 1786327680.9719572,
+      "bankroll": 341.54,
+      "event": "won: ferrariChampions2026 \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327681.0721395,
+      "bankroll": 341.05,
+      "event": "lost: ferrariChampions2026 \u2014 AA Argentinos Juniors vs. Racing Club: O/U 3.5"
+    },
+    {
+      "timestamp": 1786327681.1722865,
+      "bankroll": 342.54,
+      "event": "won: ferrariChampions2026 \u2014 AA Argentinos Juniors vs. Racing Club: O/U 2.5"
+    },
+    {
+      "timestamp": 1786327681.2724826,
+      "bankroll": 343.64,
+      "event": "won: ferrariChampions2026 \u2014 Will AA Argentinos Juniors win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327681.3726523,
+      "bankroll": 342.86,
+      "event": "lost: swisstony \u2014 AA Argentinos Juniors vs. Racing Club: O/U 2.5"
+    },
+    {
+      "timestamp": 1786327681.472856,
+      "bankroll": 342.32,
+      "event": "lost: swisstony \u2014 Will AA Argentinos Juniors win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327681.5730188,
+      "bankroll": 342.83,
+      "event": "won: swisstony \u2014 Will AA Argentinos Juniors vs. Racing Club end in a draw?"
+    },
+    {
+      "timestamp": 1786327681.7733371,
+      "bankroll": 341.39,
+      "event": "lost: ferrariChampions2026 \u2014 Will AA Argentinos Juniors win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327682.0738158,
+      "bankroll": 340.93,
+      "event": "lost: swisstony \u2014 AA Argentinos Juniors vs. Racing Club: O/U 2.5"
+    },
+    {
+      "timestamp": 1786327682.1739438,
+      "bankroll": 340.42,
+      "event": "lost: swisstony \u2014 Will AA Argentinos Juniors vs. Racing Club end in a draw?"
+    },
+    {
+      "timestamp": 1786327682.751147,
+      "bankroll": 340.43,
+      "event": "won: swisstony \u2014 AA Argentinos Juniors vs. Racing Club: O/U 4.5"
+    },
+    {
+      "timestamp": 1786327683.0514474,
+      "bankroll": 340.48,
+      "event": "won: swisstony \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327683.1515493,
+      "bankroll": 340.66,
+      "event": "won: swisstony \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327683.351794,
+      "bankroll": 340.81,
+      "event": "won: swisstony \u2014 AA Argentinos Juniors vs. Racing Club: O/U 3.5"
+    },
+    {
+      "timestamp": 1786327683.4519095,
+      "bankroll": 340.81,
+      "event": "won: swisstony \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327683.5520587,
+      "bankroll": 340.81,
+      "event": "lost: swisstony \u2014 Will AA Argentinos Juniors win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327683.7523625,
+      "bankroll": 340.81,
+      "event": "lost: swisstony \u2014 AA Argentinos Juniors vs. Racing Club: O/U 3.5"
+    },
+    {
+      "timestamp": 1786327683.8524864,
+      "bankroll": 340.81,
+      "event": "won: swisstony \u2014 Will AA Argentinos Juniors win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327684.0527682,
+      "bankroll": 340.81,
+      "event": "lost: swisstony \u2014 AA Argentinos Juniors vs. Racing Club: O/U 3.5"
+    },
+    {
+      "timestamp": 1786327684.1529427,
+      "bankroll": 340.81,
+      "event": "won: swisstony \u2014 AA Argentinos Juniors vs. Racing Club: O/U 2.5"
+    },
+    {
+      "timestamp": 1786327684.2531583,
+      "bankroll": 340.81,
+      "event": "won: swisstony \u2014 AA Argentinos Juniors vs. Racing Club: O/U 2.5"
+    },
+    {
+      "timestamp": 1786327684.7560697,
+      "bankroll": 340.81,
+      "event": "won: swisstony \u2014 Will AA Argentinos Juniors win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327684.9562364,
+      "bankroll": 340.81,
+      "event": "won: UpTheBlues \u2014 Will AA Argentinos Juniors vs. Racing Club end in a draw?"
+    },
+    {
+      "timestamp": 1786327686.060523,
+      "bankroll": 340.81,
+      "event": "won: swisstony \u2014 Golden State Valkyries vs. Los Angeles Sparks: O/U 169.5"
+    },
+    {
+      "timestamp": 1786327686.7635038,
+      "bankroll": 340.81,
+      "event": "won: UpTheBlues \u2014 Will AA Argentinos Juniors win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327686.96381,
+      "bankroll": 340.81,
+      "event": "lost: ferrariChampions2026 \u2014 Golden State Valkyries vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786327687.0639694,
+      "bankroll": 340.81,
+      "event": "won: swisstony \u2014 Will AA Argentinos Juniors win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327687.1640828,
+      "bankroll": 340.81,
+      "event": "won: swisstony \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327687.6715722,
+      "bankroll": 340.81,
+      "event": "won: UpTheBlues \u2014 Will AA Argentinos Juniors win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327687.7733805,
+      "bankroll": 340.81,
+      "event": "won: swisstony \u2014 Will AA Argentinos Juniors win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327687.8735836,
+      "bankroll": 340.81,
+      "event": "won: UpTheBlues \u2014 Will Racing Club win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327687.9748516,
+      "bankroll": 340.81,
+      "event": "won: UpTheBlues \u2014 Will AA Argentinos Juniors win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786327688.175197,
+      "bankroll": 340.81,
+      "event": "won: UpTheBlues \u2014 Will AA Argentinos Juniors win on 2026-08-09?"
     }
   ]
 }
