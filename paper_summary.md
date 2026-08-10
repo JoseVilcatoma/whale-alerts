@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 19:36:18 (hora de Perú)
+Actualizado: 2026-08-09 19:38:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $341.56
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 65 | 94 | 59 | -57.54 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 388 | 278 | 72 | -96.70 USD |
+| ferrariChampions2026 | 388 | 278 | 79 | -96.70 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -247,6 +247,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 63% | 1.34 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 75% | 1.04 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Racing Club win on 2026-08-09? | No (BUY) | 93% | 2.09 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 50% | 0.72 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 75% | 1.03 | ⏳ pendiente | — |
+| ferrariChampions2026 | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 25% | 0.54 | ⏳ pendiente | — |
+| ferrariChampions2026 | Nashville SC vs. Atlético San Luis: O/U  | Over (BUY) | 66% | 0.95 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Racing Club win on 2026-08-09? | No (BUY) | 93% | 4.10 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 76% | 0.96 | ⏳ pendiente | — |
 | UpTheBlues | Chicago Stars FC vs. Bay FC: Both Teams  | No (BUY) | 87% | 0.47 | ⏳ pendiente | — |
@@ -270,10 +277,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 34% | 0.40 | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 50% | 1.04 | ⏳ pendiente | — |
 | UpTheBlues | Spread: AA Argentinos Juniors (-1.5) | Racing Club (BUY) | 78% | 1.25 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: AA Argentinos Juniors (-1.5) | AA Argentinos Juniors (BUY) | 22% | 0.44 | ⏳ pendiente | — |
-| UpTheBlues | CF Cruz Azul vs. New York City FC: Both  | Yes (BUY) | 95% | 3.85 | ⏳ pendiente | — |
-| ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 38% | 11.81 | ⏳ pendiente | — |
-| quavoo | Will Austin FC win on 2026-08-09? | Yes (BUY) | 60% | 1.37 | ⏳ pendiente | — |
-| ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 38% | 6.01 | ⏳ pendiente | — |
-| quavoo | Will Austin FC win on 2026-08-09? | Yes (BUY) | 60% | 0.39 | ⏳ pendiente | — |
-| quavoo | Will Austin FC win on 2026-08-09? | Yes (BUY) | 60% | 1.23 | ⏳ pendiente | — |
