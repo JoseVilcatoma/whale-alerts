@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 03:32:38 (hora de Perú)
+Actualizado: 2026-08-10 03:34:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -29,12 +29,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 12 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 11 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 12 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| quavoo | 121 | 107 | 11 | -16.28 USD |
+| quavoo | 121 | 107 | 12 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Djdjdjekekek | 0 | 4 | 8 | -31.98 USD |
@@ -275,6 +275,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| GoalLineGhost | Will Silkeborg IF win on 2026-08-10? | Yes (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-13.5) | Atlanta Dream (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 82% | 0.00 | ⏳ pendiente | — |
@@ -303,5 +305,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 43% | 0.44 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 45% | 0.45 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 49% | 0.95 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 52% | 0.40 | ⏳ pendiente | — |
-| Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 55% | 3.37 | ⏳ pendiente | — |

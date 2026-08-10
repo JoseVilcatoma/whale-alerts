@@ -48793,5 +48793,47 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786350724.382977,
     "fills": 1
+  },
+  {
+    "timestamp": 1786350845,
+    "timestamp_added": 1786350846.0823698,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "den-sif-ode-2026-08-10-sif",
+    "title": "Will Silkeborg IF win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 40.8221,
+    "whale_pct": 0.376,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786350846.082379,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786350853,
+    "timestamp_added": 1786350853.7324595,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "swe-sir-bro-2026-08-10-sir",
+    "title": "Will IK Sirius win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 140.16,
+    "whale_pct": 0.17,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786350853.732469,
+    "fills": 1
   }
 ]
