@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 19:51:04 (hora de Perú)
+Actualizado: 2026-08-09 19:53:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $342.36
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | theowalcott | 0 | 2 | 7 | +0.00 USD |
 | AV23IUa | 0 | 0 | 6 | +0.00 USD |
-| swisstony | 4 | 3 | 12 | -1.41 USD |
+| swisstony | 4 | 3 | 16 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 112 | 66 | 36 | -20.82 USD |
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 65 | 94 | 61 | -57.54 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 394 | 279 | 84 | -95.99 USD |
+| ferrariChampions2026 | 394 | 279 | 85 | -95.99 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -251,6 +251,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| swisstony | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 30% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will AA Argentinos Juniors win on 2026-0 | Yes (BUY) | 92% | 0.00 | ⏳ pendiente | — |
+| swisstony | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will AA Argentinos Juniors win on 2026-0 | No (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Racing Club win on 2026-08-09? | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
@@ -276,8 +281,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 24% | 0.49 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Racing Club win on 2026-08-09? | No (BUY) | 93% | 2.50 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 73% | 0.96 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Club Santos Laguna win on 2026-08-0 | No (BUY) | 63% | 1.69 | ⏳ pendiente | — |
-| HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 8. | Under (BUY) | 50% | 0.97 | ⏳ pendiente | — |
-| ferrariChampions2026 | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 63% | 1.34 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 75% | 1.04 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Racing Club win on 2026-08-09? | No (BUY) | 93% | 2.09 | ⏳ pendiente | — |
