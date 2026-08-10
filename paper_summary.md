@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 17:13:17 (hora de Perú)
+Actualizado: 2026-08-10 17:15:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $201.08
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lzh1 | 1 | 0 | 4 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | VD721lsj4938Dk388 | 0 | 0 | 1 | +0.00 USD |
-| VeryLucky888 | 1 | 0 | 0 | +0.00 USD |
+| VeryLucky888 | 1 | 0 | 2 | +0.00 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 6 | -148.65 USD |
+| ferrariChampions2026 | 538 | 431 | 8 | -148.65 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -303,6 +303,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| VeryLucky888 | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 48% | 0.22 | ⏳ pendiente | — |
+| VeryLucky888 | Will Guarani FC SP win on 2026-08-10? | No (BUY) | 53% | 0.21 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | Leviatan Esports (BUY) | 64% | 0.54 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 35% | 1.51 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | Leviatan Esports (BUY) | 56% | 0.37 | ⏳ pendiente | — |
 | VeryLucky888 | Will Helsingborgs IF win on 2026-08-11? | Yes (BUY) | 45% | 0.40 | 💰 vendida anticipada | +0.00 |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 47% | 0.31 | ⏳ pendiente | — |
@@ -329,7 +333,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Under (BUY) | 48% | 0.39 | ✅ ganada | +0.42 |
 | RN1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.41 | ⏳ pendiente | — |
 | RN1 | Will IK Sirius vs. IF Brommapojkarna end | No (BUY) | 49% | 1.07 | ❌ perdida | -1.07 |
-| RN1 | Vasteraas SK vs. Djurgardens IF: O/U 1.5 | Under (BUY) | 45% | 1.05 | ✅ ganada | +1.28 |
-| quavoo | CD Santa Clara vs. CD Nacional: O/U 2.5 | Under (BUY) | 64% | 0.76 | ⏳ pendiente | — |
-| RN1 | Vasteraas SK vs. Djurgardens IF: O/U 3.5 | Under (BUY) | 95% | 1.77 | ✅ ganada | +0.09 |
-| RN1 | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Under (BUY) | 79% | 1.72 | ✅ ganada | +0.46 |
