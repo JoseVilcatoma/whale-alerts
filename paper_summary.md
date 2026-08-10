@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 13:19:36 (hora de Perú)
+Actualizado: 2026-08-10 13:21:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $289.30
@@ -40,8 +40,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 123 | 108 | 46 | -16.66 USD |
-| RN1 | 141 | 73 | 0 | -23.95 USD |
+| quavoo | 123 | 108 | 47 | -16.66 USD |
+| RN1 | 141 | 73 | 3 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -279,7 +279,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-nym-atl-2026-08-10-total-7pt5 | HomeRunHazard, quavoo |
 | mlb-hou-sf-2026-08-10-total-8pt5 | Forecastication2, SDTrading |
 | por-cds-nac-2026-08-10-cds | Forecastication2, quavoo |
-| swe-sir-bro-2026-08-10-sir | GoalLineGhost, quavoo |
+| swe-sir-bro-2026-08-10-sir | GoalLineGhost, RN1, quavoo |
 | swe-vas-dju-2026-08-10-dju | Forecastication2, GoalLineGhost, quavoo |
 | swe-vas-dju-2026-08-10-spread-away-1pt5 | GoalLineGhost, quavoo |
 | swe-vas-dju-2026-08-10-total-2pt5 | GoalLineGhost, quavoo |
@@ -295,6 +295,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | IK Sirius vs. IF Brommapojkarna: O/U 5.5 | Under (BUY) | 68% | 0.38 | ⏳ pendiente | — |
+| RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 49% | 2.91 | ⏳ pendiente | — |
+| RN1 | Will IK Sirius vs. IF Brommapojkarna end | No (BUY) | 62% | 1.13 | ⏳ pendiente | — |
+| quavoo | Dota 2: Rune Eaters vs Natus Vincere (BO | Rune Eaters (BUY) | 32% | 0.36 | ⏳ pendiente | — |
 | lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.71 | ⏳ pendiente | — |
 | lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.56 | ⏳ pendiente | — |
 | johnbaster | LoL: Natus Vincere vs G2 Esports - Game  | G2 Esports (BUY) | 93% | 29.03 | ⏳ pendiente | — |
@@ -321,7 +325,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 40% | 0.00 | ❌ perdida | -0.00 |
 | quavoo | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 35% | 0.00 | ❌ perdida | -0.00 |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 54% | 0.00 | ✅ ganada | +0.00 |
-| Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 55% | 0.00 | ❌ perdida | -0.00 |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | Gen.G (BUY) | 69% | 0.00 | ❌ perdida | -0.00 |
