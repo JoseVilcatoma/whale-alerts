@@ -1,5 +1,5 @@
 {
-  "bankroll": 195.00886289351826,
+  "bankroll": 187.81972320804186,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12565,6 +12565,136 @@
       "timestamp": 1786402855.5252466,
       "bankroll": 195.01,
       "event": "lost: quavoo \u2014 Plymouth Argyle FC vs. Exeter City FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786403791.3408082,
+      "bankroll": 194.36,
+      "event": "lost: quavoo \u2014 Will CD Santa Clara win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786403791.8368526,
+      "bankroll": 193.45,
+      "event": "lost: GoalLineGhost \u2014 Spread: CD Santa Clara (-1.5)"
+    },
+    {
+      "timestamp": 1786403792.6703568,
+      "bankroll": 193.45,
+      "event": "lost: GoalLineGhost \u2014 Spread: CD Santa Clara (-1.5)"
+    },
+    {
+      "timestamp": 1786403792.7705114,
+      "bankroll": 193.45,
+      "event": "lost: GoalLineGhost \u2014 Spread: CD Santa Clara (-1.5)"
+    },
+    {
+      "timestamp": 1786403793.9885046,
+      "bankroll": 193.45,
+      "event": "won: GoalLineGhost \u2014 Spread: CD Nacional (-1.5)"
+    },
+    {
+      "timestamp": 1786403794.53155,
+      "bankroll": 193.45,
+      "event": "won: GoalLineGhost \u2014 CD Santa Clara vs. CD Nacional: O/U 3.5"
+    },
+    {
+      "timestamp": 1786403794.7794156,
+      "bankroll": 193.45,
+      "event": "lost: GoalLineGhost \u2014 CD Santa Clara vs. CD Nacional: O/U 0.5"
+    },
+    {
+      "timestamp": 1786403795.2791135,
+      "bankroll": 193.45,
+      "event": "lost: GoalLineGhost \u2014 CD Santa Clara vs. CD Nacional: O/U 2.5"
+    },
+    {
+      "timestamp": 1786403795.5665247,
+      "bankroll": 193.48,
+      "event": "won: GoalLineGhost \u2014 CD Santa Clara vs. CD Nacional: O/U 4.5"
+    },
+    {
+      "timestamp": 1786403795.6666708,
+      "bankroll": 193.57,
+      "event": "won: GoalLineGhost \u2014 Spread: CD Nacional (-1.5)"
+    },
+    {
+      "timestamp": 1786403795.7668176,
+      "bankroll": 193.64,
+      "event": "won: GoalLineGhost \u2014 Spread: CD Nacional (-1.5)"
+    },
+    {
+      "timestamp": 1786403795.86697,
+      "bankroll": 193.73,
+      "event": "won: GoalLineGhost \u2014 Spread: CD Nacional (-1.5)"
+    },
+    {
+      "timestamp": 1786403796.0673428,
+      "bankroll": 193.79,
+      "event": "won: GoalLineGhost \u2014 Spread: CD Nacional (-1.5)"
+    },
+    {
+      "timestamp": 1786403796.422188,
+      "bankroll": 193.82,
+      "event": "won: GoalLineGhost \u2014 Spread: CD Nacional (-1.5)"
+    },
+    {
+      "timestamp": 1786403796.5223365,
+      "bankroll": 193.9,
+      "event": "won: GoalLineGhost \u2014 Spread: CD Nacional (-1.5)"
+    },
+    {
+      "timestamp": 1786403796.8984911,
+      "bankroll": 193.98,
+      "event": "won: GoalLineGhost \u2014 Spread: CD Nacional (-1.5)"
+    },
+    {
+      "timestamp": 1786403797.3550577,
+      "bankroll": 193.98,
+      "event": "won: GoalLineGhost \u2014 Spread: CD Nacional (-1.5)"
+    },
+    {
+      "timestamp": 1786403797.708136,
+      "bankroll": 193.98,
+      "event": "lost: quavoo \u2014 Will FC Boto\u015fani win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786403798.3131897,
+      "bankroll": 193.98,
+      "event": "lost: Forecastication2 \u2014 Will CD Santa Clara win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786403799.278654,
+      "bankroll": 193.98,
+      "event": "lost: quavoo \u2014 Will CD Santa Clara win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786403799.6674457,
+      "bankroll": 193.98,
+      "event": "lost: quavoo \u2014 Will FC Boto\u015fani win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786403801.318725,
+      "bankroll": 193.22,
+      "event": "lost: quavoo \u2014 CD Santa Clara vs. CD Nacional: O/U 2.5"
+    },
+    {
+      "timestamp": 1786403801.5189328,
+      "bankroll": 192.93,
+      "event": "lost: quavoo \u2014 Will CD Santa Clara win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786403801.619043,
+      "bankroll": 191.53,
+      "event": "lost: quavoo \u2014 Will CD Santa Clara win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786403801.7191572,
+      "bankroll": 190.97,
+      "event": "lost: quavoo \u2014 Will CD Santa Clara win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786403801.8192866,
+      "bankroll": 187.82,
+      "event": "lost: theowalcott \u2014 Will CD Santa Clara win on 2026-08-10?"
     }
   ]
 }
