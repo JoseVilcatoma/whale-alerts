@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 04:35:08 (hora de Perú)
+Actualizado: 2026-08-10 04:37:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -29,13 +29,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 16 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 16 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 18 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 9 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| quavoo | 121 | 107 | 19 | -16.28 USD |
+| quavoo | 121 | 107 | 20 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Djdjdjekekek | 0 | 4 | 11 | -31.98 USD |
@@ -279,6 +279,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | LoL: SK Gaming vs Team Vitality (BO3) -  | SK Gaming (BUY) | 34% | 0.00 | ⏳ pendiente | — |
+| GoalLineGhost | Spread: CD Santa Clara (-1.5) | CD Santa Clara (BUY) | 26% | 0.00 | ⏳ pendiente | — |
+| GoalLineGhost | Will Odense BK win on 2026-08-10? | No (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ - Game 1 W | Power Rangers (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ - Game 1 W | Power Rangers (BUY) | 58% | 0.00 | ⏳ pendiente | — |
@@ -306,6 +309,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Hanwha Life Esports Challengers vs  | Hanwha Life Esports Challengers (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | Forecastication2 | Games Total: O/U 2.5 | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| Forecastication2 | Games Total: O/U 2.5 | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| Forecastication2 | Games Total: O/U 2.5 | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 180.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
