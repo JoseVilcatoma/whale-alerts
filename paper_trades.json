@@ -47183,5 +47183,69 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786336333.3685977,
     "fills": 1
+  },
+  {
+    "timestamp": 1786336365,
+    "timestamp_added": 1786336365.9048717,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "lol-hle1-gen-2026-08-10",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 387.25513400000006,
+    "whale_pct": 2.294,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786336372.017601,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786336376,
+    "timestamp_added": 1786336377.022485,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-tor-atl-2026-08-10-total-184pt5",
+    "title": "Toronto Tempo vs. Atlanta Dream: O/U 184.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 430.0,
+    "whale_pct": 0.838,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786336377.0224938,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786336486,
+    "timestamp_added": 1786336487.30715,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "lol-hle1-gen-2026-08-10",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 22.419999999999998,
+    "whale_pct": 0.127,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786336487.3071597,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 23:32:42 (hora de Perú)
+Actualizado: 2026-08-09 23:34:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $378.54
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 31 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| HomeRunHazard | 45 | 46 | 5 | +15.05 USD |
+| HomeRunHazard | 45 | 46 | 6 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | UpTheBlues | 112 | 63 | 25 | +7.35 USD |
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | quavoo | 93 | 105 | 32 | -27.86 USD |
 | Djdjdjekekek | 0 | 4 | 8 | -31.98 USD |
-| fRibrenlc | 8 | 12 | 19 | -40.36 USD |
+| fRibrenlc | 8 | 12 | 21 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 466 | 307 | 86 | -106.07 USD |
@@ -271,6 +271,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Toronto Tempo vs. Atlanta Dream: O/U 184 | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
@@ -297,6 +300,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | CF América vs. Portland Timbers: Portlan | Over (BUY) | 11% | 0.80 | ⏳ pendiente | — |
 | NordhavenCap | Spread: CF América (-1.5) | Portland Timbers (BUY) | 91% | 4.90 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 55% | 3.39 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will San Diego FC win on 2026-08-09? | No (BUY) | 22% | 0.73 | ⏳ pendiente | — |
-| ferrariChampions2026 | CF América vs. Portland Timbers: O/U 2.5 | Over (BUY) | 73% | 1.86 | ⏳ pendiente | — |
-| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 38% | 29.97 | ⏳ pendiente | — |
