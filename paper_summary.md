@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 17:21:37 (hora de Perú)
+Actualizado: 2026-08-10 17:23:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $201.08
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 0 | 1 | +0.00 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
-| swisstony | 19 | 13 | 2 | -2.77 USD |
+| swisstony | 19 | 13 | 3 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 7 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
@@ -51,7 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 10 | -148.65 USD |
+| ferrariChampions2026 | 538 | 431 | 14 | -148.65 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -307,6 +307,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 60% | 0.43 | ⏳ pendiente | — |
+| swisstony | CA Banfield vs. CA Belgrano: Both Teams  | Yes (BUY) | 38% | 0.32 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 59% | 0.40 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 60% | 0.28 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | Leviatan Esports (BUY) | 48% | 0.84 | ⏳ pendiente | — |
 | swisstony | Will CA Belgrano win on 2026-08-10? | No (BUY) | 64% | 0.79 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 81% | 2.06 | ⏳ pendiente | — |
 | Bulls94 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 54% | 0.37 | ⏳ pendiente | — |
@@ -332,8 +337,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | CA Banfield vs. CA Belgrano: O/U 1.5 | Under (BUY) | 37% | 2.22 | ⏳ pendiente | — |
 | Wealthfreedom001 | Game Handicap: RED (-1.5) vs Leviatan Es | Leviatan Esports (BUY) | 31% | 0.47 | ⏳ pendiente | — |
 | VD721lsj4938Dk388 | Will CD Universidad Catolica del Ecuador | Yes (BUY) | 51% | 1.79 | ⏳ pendiente | — |
-| theowalcott | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 54% | 3.15 | ⏳ pendiente | — |
-| quavoo | Plymouth Argyle FC vs. Exeter City FC: B | Yes (BUY) | 54% | 4.24 | ⏳ pendiente | — |
-| quavoo | Plymouth Argyle FC vs. Exeter City FC: B | Yes (BUY) | 54% | 0.43 | ⏳ pendiente | — |
-| quavoo | Plymouth Argyle FC vs. Exeter City FC: O | Over (BUY) | 61% | 3.20 | ⏳ pendiente | — |
-| quavoo | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 50% | 0.56 | ⏳ pendiente | — |
