@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 05:35:53 (hora de Perú)
+Actualizado: 2026-08-10 05:37:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| quavoo | 121 | 107 | 23 | -16.28 USD |
+| quavoo | 121 | 107 | 24 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Djdjdjekekek | 0 | 4 | 11 | -31.98 USD |
@@ -274,6 +274,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-dnsc-ktc-2026-08-10 | Forecastication2, ferrariChampions2026 |
 | swe-sir-bro-2026-08-10-sir | GoalLineGhost, quavoo |
 | swe-vas-dju-2026-08-10-dju | Forecastication2, GoalLineGhost, quavoo |
+| swe-vas-dju-2026-08-10-total-2pt5 | GoalLineGhost, quavoo |
 | lol-hle-genga-2026-08-10 | BBQChickenisthebesttt, quavoo |
 | lol-dnf-drx-2026-08-10-game1 | BBQChickenisthebesttt, ferrariChampions2026 |
 | swe-sir-bro-2026-08-10-bro | Forecastication2, quavoo |
@@ -282,6 +283,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Odense BK (-2.5) | Silkeborg IF (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Odense BK (-2.5) | Silkeborg IF (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Odense BK (-2.5) | Silkeborg IF (BUY) | 92% | 0.00 | ⏳ pendiente | — |
@@ -310,5 +312,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 80% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |

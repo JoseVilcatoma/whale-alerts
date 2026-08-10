@@ -50511,5 +50511,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786357999.4663746,
     "fills": 1
+  },
+  {
+    "timestamp": 1786358184,
+    "timestamp_added": 1786358184.5935555,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "swe-vas-dju-2026-08-10-total-2pt5",
+    "title": "Vasteraas SK vs. Djurgardens IF: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 210.18,
+    "whale_pct": 0.231,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786358185.1645374,
+    "fills": 2
   }
 ]
