@@ -51798,5 +51798,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786362937.5853724,
     "fills": 1
+  },
+  {
+    "timestamp": 1786363204,
+    "timestamp_added": 1786363205.541161,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "den-sif-ode-2026-08-10-total-4pt5",
+    "title": "Silkeborg IF vs. Odense BK: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 16.94,
+    "whale_pct": 0.109,
+    "paper_stake_usd": 0.25,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786363205.5411716,
+    "fills": 1
   }
 ]
