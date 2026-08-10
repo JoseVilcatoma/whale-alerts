@@ -2,61 +2,61 @@
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
     "username": "BrotherObama",
     "added_at": 1786361920.5987585,
-    "roi_pct": 170.83,
+    "roi_pct": 220.47,
     "short_term_pct": 100.0
   },
   "0x80bac5c17aec3f5b3d0f01166b639cd453a02e78": {
     "username": "Wealthfreedom001",
     "added_at": 1786390809.323423,
-    "roi_pct": 434.23,
+    "roi_pct": 478.13,
     "short_term_pct": 100.0
   },
   "0x43cab54b56aba79c29c1ba14b889e7de5532c219": {
     "username": "Bulls94",
     "added_at": 1786395500.73809,
-    "roi_pct": 1583.16,
-    "short_term_pct": 70.0
+    "roi_pct": 1265.58,
+    "short_term_pct": 40.0
   },
   "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
     "username": "UpTheBlues",
     "added_at": 1786396438.653276,
-    "roi_pct": 246.34,
-    "short_term_pct": 90.0
+    "roi_pct": 257.67,
+    "short_term_pct": 100.0
   },
   "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa": {
     "username": "theowalcott",
     "added_at": 1786397373.2510798,
-    "roi_pct": 185.35,
+    "roi_pct": 150.7,
     "short_term_pct": 100.0
   },
   "0x282f81747948a90105d944b5a5a2043825d67c4e": {
     "username": "lzh1",
     "added_at": 1786399246.53153,
-    "roi_pct": 120.7,
-    "short_term_pct": 100.0
-  },
-  "0x31864feb9d25dee93728c6225ba891530967e9ca": {
-    "username": "johnbaster",
-    "added_at": 1786401111.4538605,
-    "roi_pct": 196.2,
+    "roi_pct": 120.72,
     "short_term_pct": 100.0
   },
   "0xdc41c39b95453c943174f369926018f6963bdd7e": {
     "username": "quavoo",
     "added_at": 1786402047.3838062,
-    "roi_pct": 186.55,
-    "short_term_pct": 90.0
+    "roi_pct": 178.41,
+    "short_term_pct": 100.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1786403912.9386463,
-    "roi_pct": 61.33,
-    "short_term_pct": 90.0
+    "roi_pct": 61.48,
+    "short_term_pct": 30.0
   },
-  "0xc29198ad764bd6adaf7bb971a3757a689ece5d74": {
-    "username": "SnakeBall",
-    "added_at": 1786403912.9386475,
-    "roi_pct": 36.44,
+  "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294": {
+    "username": "VeryLucky888",
+    "added_at": 1786404842.005061,
+    "roi_pct": 20.68,
     "short_term_pct": 100.0
+  },
+  "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563": {
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "added_at": 1786404842.005062,
+    "roi_pct": 0.41,
+    "short_term_pct": 70.0
   }
 }
