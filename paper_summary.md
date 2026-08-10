@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 21:54:53 (hora de Perú)
+Actualizado: 2026-08-09 21:56:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $360.31
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 419 | 291 | 109 | -97.53 USD |
+| ferrariChampions2026 | 419 | 291 | 114 | -97.53 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -265,6 +265,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 47% | 0.84 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will San Diego FC vs. Club Tijuana end i | Yes (BUY) | 21% | 0.87 | ⏳ pendiente | — |
+| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 49% | 0.84 | ⏳ pendiente | — |
+| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 49% | 0.91 | ⏳ pendiente | — |
+| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 3.5 | Over (BUY) | 23% | 0.44 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 50% | 0.51 | ⏳ pendiente | — |
 | UpTheBlues | Spread: CF América (-1.5) | Portland Timbers (BUY) | 84% | 0.94 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will San Diego FC vs. Club Tijuana end i | Yes (BUY) | 22% | 0.91 | ⏳ pendiente | — |
@@ -290,8 +295,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CF América win on 2026-08-09? | No (BUY) | 35% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Austin FC vs. Club Puebla: O/U 4.5 | Under (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 69% | 0.65 | ⏳ pendiente | — |
-| UpTheBlues | Austin FC vs. Club Puebla: O/U 4.5 | Under (BUY) | 73% | 0.57 | ⏳ pendiente | — |
-| ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 64% | 0.58 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 34% | 0.76 | ⏳ pendiente | — |
