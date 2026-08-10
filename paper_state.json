@@ -1,5 +1,5 @@
 {
-  "bankroll": 341.1330590988445,
+  "bankroll": 339.98668779082766,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8755,6 +8755,76 @@
       "timestamp": 1786320920.6872177,
       "bankroll": 341.13,
       "event": "lost: RN1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786321035.2206607,
+      "bankroll": 339.71,
+      "event": "lost: quavoo \u2014 Boston Legacy FC vs. Portland Thorns FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786321036.653283,
+      "bankroll": 339.71,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-1.5)"
+    },
+    {
+      "timestamp": 1786321037.7783706,
+      "bankroll": 340.02,
+      "event": "won: TAIWANNUMBERONE \u2014 Joey Cantillo: Strikeouts O/U 5.5"
+    },
+    {
+      "timestamp": 1786321038.1728878,
+      "bankroll": 340.84,
+      "event": "won: TAIWANNUMBERONE \u2014 Joey Cantillo: Strikeouts O/U 5.5"
+    },
+    {
+      "timestamp": 1786321038.2730207,
+      "bankroll": 340.84,
+      "event": "won: TAIWANNUMBERONE \u2014 Joey Cantillo: Strikeouts O/U 5.5"
+    },
+    {
+      "timestamp": 1786321038.593698,
+      "bankroll": 340.84,
+      "event": "won: 1winstreak1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786321038.9061065,
+      "bankroll": 340.84,
+      "event": "lost: 1winstreak1 \u2014 Spread: Chicago White Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786321039.0062706,
+      "bankroll": 340.84,
+      "event": "won: 1winstreak1 \u2014 Spread: Cleveland Guardians (-1.5)"
+    },
+    {
+      "timestamp": 1786321041.1081507,
+      "bankroll": 340.84,
+      "event": "won: ferrariChampions2026 \u2014 Will SE Palmeiras vs. SC Internacional end in a draw?"
+    },
+    {
+      "timestamp": 1786321042.2512689,
+      "bankroll": 340.84,
+      "event": "won: 1winstreak1 \u2014 Spread: Chicago White Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786321042.8520443,
+      "bankroll": 340.84,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Cleveland Guardians (-1.5)"
+    },
+    {
+      "timestamp": 1786321043.3528082,
+      "bankroll": 340.21,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Chicago White Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786321043.8535488,
+      "bankroll": 339.87,
+      "event": "lost: 1winstreak1 \u2014 Spread: Chicago White Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786321047.5261211,
+      "bankroll": 339.99,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Chicago White Sox (-1.5)"
     }
   ]
 }

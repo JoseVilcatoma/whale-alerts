@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 19:15:36 (hora de Perú)
+Actualizado: 2026-08-09 19:17:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $341.13
-**Retorno acumulado:** -65.89%
+**Bankroll actual:** $339.99
+**Retorno acumulado:** -66.00%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,8 +13,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 103 | 85 | 6 | +59.89 USD |
-| wr0ngw4yb3tt0r | 44 | 39 | 5 | +38.57 USD |
+| 1winstreak1 | 106 | 87 | 1 | +59.55 USD |
+| wr0ngw4yb3tt0r | 46 | 40 | 2 | +38.06 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 47 | 31 | 3 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -35,12 +35,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 110 | 66 | 38 | -20.82 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 65 | 93 | 54 | -56.12 USD |
+| quavoo | 65 | 94 | 53 | -57.54 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 387 | 274 | 56 | -96.09 USD |
+| ferrariChampions2026 | 388 | 275 | 56 | -96.09 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| TAIWANNUMBERONE | 23 | 38 | 3 | -296.20 USD |
+| TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -239,6 +239,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Philadelphia Union vs. Club Necaxa: O/U  | Over (BUY) | 39% | 0.45 | ⏳ pendiente | — |
+| ferrariChampions2026 | Golden State Valkyries vs. Los Angeles S | Golden State Valkyries (BUY) | 94% | 1.04 | ⏳ pendiente | — |
 | ferrariChampions2026 | CF Cruz Azul vs. New York City FC: O/U 2 | Over (BUY) | 32% | 0.40 | ⏳ pendiente | — |
 | quavoo | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 54% | 1.46 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Chicago Fire FC win on 2026-08-09? | No (BUY) | 35% | 0.41 | ⏳ pendiente | — |
@@ -267,5 +269,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Philadelphia Union vs. Club Necaxa: O/U  | Over (BUY) | 78% | 0.64 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Union (-2.5) | Club Necaxa (BUY) | 46% | 0.33 | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Union vs. Club Necaxa: O/U  | Over (BUY) | 55% | 0.39 | ⏳ pendiente | — |
-| quavoo | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 54% | 1.61 | ⏳ pendiente | — |
-| ferrariChampions2026 | CF Cruz Azul vs. New York City FC: O/U 1 | Over (BUY) | 74% | 0.58 | ⏳ pendiente | — |
