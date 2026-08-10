@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 18:01:08 (hora de Perú)
+Actualizado: 2026-08-10 18:03:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $195.01
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BrotherObama | 6 | 0 | 0 | +69.49 USD |
+| BrotherObama | 6 | 0 | 1 | +69.49 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
@@ -35,17 +35,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VD721lsj4938Dk388 | 0 | 0 | 1 | +0.00 USD |
 | VeryLucky888 | 1 | 0 | 2 | +0.00 USD |
 | Anjun | 0 | 0 | 1 | +0.00 USD |
-| SnakeBall | 0 | 0 | 9 | +0.00 USD |
+| SnakeBall | 0 | 0 | 10 | +0.00 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | swisstony | 19 | 13 | 10 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| UpTheBlues | 124 | 76 | 20 | -4.37 USD |
+| UpTheBlues | 124 | 76 | 21 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 3 | 19 | 9 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 151 | 83 | 1 | -32.82 USD |
-| quavoo | 124 | 146 | 21 | -36.08 USD |
+| quavoo | 124 | 146 | 22 | -36.08 USD |
 | GoalLineGhost | 24 | 20 | 19 | -58.87 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -283,6 +283,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-dnsc-ktc-2026-08-10 | Forecastication2, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-10-total-7pt5 | HomeRunHazard, quavoo |
 | mlb-hou-sf-2026-08-10-total-8pt5 | Forecastication2, SDTrading |
+| mlb-tb-oak-2026-08-10-spread-away-1pt5 | Forecastication2, quavoo |
 | por-cds-nac-2026-08-10-cds | Forecastication2, quavoo, theowalcott |
 | swe-sir-bro-2026-08-10-sir | GoalLineGhost, RN1, quavoo |
 | swe-vas-dju-2026-08-10-dju | Forecastication2, GoalLineGhost, quavoo |
@@ -308,12 +309,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-lev-red-2026-08-10 | Anjun, ferrariChampions2026 |
 | bra3-afc-gua-2026-08-10-gua | SnakeBall, VeryLucky888 |
 | arg-ban-bel-2026-08-10-bel | UpTheBlues, swisstony |
+| ecu1-lib-uni-2026-08-10-total-1pt5 | UpTheBlues, swisstony |
 | uru1-mal-rcm-2026-08-10-mal | SnakeBall, UpTheBlues |
+| lol-los-png1-2026-08-10 | BrotherObama, SnakeBall |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: LOS vs paiN Gaming (BO3) - CBLOL Re | paiN Gaming (BUY) | 17% | 6.20 | ⏳ pendiente | — |
+| quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 3.36 | ⏳ pendiente | — |
+| UpTheBlues | Libertad Loja vs. CD Universidad Catolic | Over (BUY) | 91% | 0.68 | ⏳ pendiente | — |
+| SnakeBall | LoL: LOS vs paiN Gaming (BO3) - CBLOL Re | LOS (BUY) | 83% | 0.32 | ⏳ pendiente | — |
 | quavoo | Spread: Atlanta Braves (-1.5) | New York Mets (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | SnakeBall | Will Goiás EC vs. Londrina EC end in a d | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | SnakeBall | Anapolis FC GO vs. Guarani FC SP: O/U 2. | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
@@ -340,7 +347,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | LoL: Leviatan Esports vs RED Canids - Ga | Leviatan Esports (BUY) | 79% | 24.50 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 80% | 0.56 | ⏳ pendiente | — |
 | UpTheBlues | Will Deportivo Maldonado win on 2026-08- | No (BUY) | 90% | 0.24 | ⏳ pendiente | — |
-| UpTheBlues | Will Deportivo Maldonado win on 2026-08- | No (BUY) | 90% | 0.24 | ⏳ pendiente | — |
-| SnakeBall | Caracas FC vs. Deportivo La Guaira: O/U  | Over (BUY) | 86% | 0.60 | ⏳ pendiente | — |
-| johnbaster | LoL: Leviatan Esports vs RED Canids - Ga | Leviatan Esports (BUY) | 45% | 46.26 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 58% | 0.23 | ⏳ pendiente | — |

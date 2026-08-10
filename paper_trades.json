@@ -56532,5 +56532,91 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786402850.7292705,
     "fills": 1
+  },
+  {
+    "timestamp": 1786402869,
+    "timestamp_added": 1786402869.4057634,
+    "username": "SnakeBall",
+    "wallet": "0xc29198ad764bd6adaf7bb971a3757a689ece5d74",
+    "slug": "lol-los-png1-2026-08-10",
+    "title": "LoL: LOS vs paiN Gaming (BO3) - CBLOL Regular Season",
+    "outcome": "LOS",
+    "side": "BUY",
+    "whale_usd": 134.45999999999998,
+    "whale_pct": 0.165,
+    "paper_stake_usd": 0.32,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786402869.4057708,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786402876,
+    "timestamp_added": 1786402876.5056887,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ecu1-lib-uni-2026-08-10-total-1pt5",
+    "title": "Libertad Loja vs. CD Universidad Catolica del Ecuador: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 675.259999,
+    "whale_pct": 0.348,
+    "paper_stake_usd": 0.68,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786402876.5056965,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786402886,
+    "timestamp_added": 1786402886.8032181,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-tb-oak-2026-08-10-spread-away-1pt5",
+    "title": "Spread: Tampa Bay Rays (-1.5)",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "whale_usd": 1829.24,
+    "whale_pct": 1.722,
+    "paper_stake_usd": 3.36,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Forecastication2"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786402886.8032246,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786402897,
+    "timestamp_added": 1786402897.5539086,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-los-png1-2026-08-10",
+    "title": "LoL: LOS vs paiN Gaming (BO3) - CBLOL Regular Season",
+    "outcome": "paiN Gaming",
+    "side": "BUY",
+    "whale_usd": 1562.1254999999999,
+    "whale_pct": 4.201,
+    "paper_stake_usd": 6.2,
+    "odds_at_bet": 17,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SnakeBall"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786402897.553915,
+    "fills": 1
   }
 ]
