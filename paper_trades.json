@@ -50952,5 +50952,50 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786359563.8343916,
     "fills": 1
+  },
+  {
+    "timestamp": 1786359933,
+    "timestamp_added": 1786359933.9716246,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "den-sif-ode-2026-08-10-spread-away-2pt5",
+    "title": "Spread: Odense BK (-2.5)",
+    "outcome": "Silkeborg IF",
+    "side": "BUY",
+    "whale_usd": 23.0,
+    "whale_pct": 0.164,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786359933.9716344,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786360014,
+    "timestamp_added": 1786360015.050922,
+    "username": "",
+    "wallet": "0x5dd9da6e5e2dda83a10864628c2dc714d642420f",
+    "slug": "lol-dnf-drx-2026-08-10",
+    "title": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 303.9846,
+    "whale_pct": 0.971,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "BBQChickenisthebesttt",
+      "Djdjdjekekek",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786360015.0509312,
+    "fills": 1
   }
 ]

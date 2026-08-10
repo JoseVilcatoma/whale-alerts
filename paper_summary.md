@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 06:04:51 (hora de Perú)
+Actualizado: 2026-08-10 06:06:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -29,8 +29,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 20 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 30 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 31 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 9 | +0.00 USD |
+|  | 0 | 0 | 1 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
@@ -237,7 +238,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tb-sea-2026-08-09-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-09-spread-home-2pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tb-sea-2026-08-09-total-5pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
-| lol-dnf-drx-2026-08-10 | 1winstreak1, BBQChickenisthebesttt, Djdjdjekekek, ferrariChampions2026 |
+| lol-dnf-drx-2026-08-10 | , 1winstreak1, BBQChickenisthebesttt, Djdjdjekekek, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-09-total-7pt5 | 1winstreak1, RN1, wr0ngw4yb3tt0r |
 | bra-fla-vit-2026-08-09-total-2pt5 | RN1, ferrariChampions2026 |
 | lec-aus-pue-2026-08-09-aus | UpTheBlues, quavoo |
@@ -283,6 +284,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+|  | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 74% | 0.00 | ⏳ pendiente | — |
+| GoalLineGhost | Spread: Odense BK (-2.5) | Silkeborg IF (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | monkeymashingkeyboard | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Will IF Brommapojkarna win on 2026-08-10 | Yes (BUY) | 10% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
@@ -310,6 +313,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | Power Rangers (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | monkeymashingkeyboard | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ - Game 2 W | Power Rangers (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| monkeymashingkeyboard | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 65% | 0.00 | ⏳ pendiente | — |
 | monkeymashingkeyboard | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 52% | 0.00 | ⏳ pendiente | — |
