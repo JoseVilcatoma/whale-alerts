@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 20:05:43 (hora de Perú)
+Actualizado: 2026-08-09 20:07:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $342.36
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 1 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 82 | 47 | 27 | +7.26 USD |
+| UpTheBlues | 82 | 47 | 29 | +7.26 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -253,6 +253,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will AA Argentinos Juniors win on 2026-0 | Yes (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Racing Club win on 2026-08-09? | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will AA Argentinos Juniors win on 2026-0 | Yes (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will AA Argentinos Juniors win on 2026-0 | Yes (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CF Cruz Azul vs. New York City FC: O/U 2 | Under (BUY) | 35% | 0.00 | ⏳ pendiente | — |
@@ -281,5 +283,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will CF Cruz Azul win on 2026-08-09? | No (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CF Cruz Azul win on 2026-08-09? | No (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| swisstony | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 100% | 0.00 | ⏳ pendiente | — |

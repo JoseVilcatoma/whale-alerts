@@ -43143,5 +43143,54 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786323786.9149177,
     "fills": 1
+  },
+  {
+    "timestamp": 1786323986,
+    "timestamp_added": 1786323987.246213,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-aaj-rac-2026-08-09-rac",
+    "title": "Will Racing Club win on 2026-08-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 389.61,
+    "whale_pct": 0.109,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026",
+      "quavoo",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786323987.2462225,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786323987,
+    "timestamp_added": 1786323987.9021366,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-aaj-rac-2026-08-09-aaj",
+    "title": "Will AA Argentinos Juniors win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 717.8199999999999,
+    "whale_pct": 0.201,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786323987.9021468,
+    "fills": 1
   }
 ]
