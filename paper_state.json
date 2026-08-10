@@ -1,5 +1,5 @@
 {
-  "bankroll": 426.0157666633246,
+  "bankroll": 421.73853365793383,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -10480,6 +10480,86 @@
       "timestamp": 1786341422.1280265,
       "bankroll": 426.02,
       "event": "lost: swisstony \u2014 Will Am\u00e9rica de Cali win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786342296.4442828,
+      "bankroll": 426.39,
+      "event": "won: ferrariChampions2026 \u2014 Spread: San Diego FC (-1.5)"
+    },
+    {
+      "timestamp": 1786342301.0441828,
+      "bankroll": 426.79,
+      "event": "won: ferrariChampions2026 \u2014 Spread: San Diego FC (-1.5)"
+    },
+    {
+      "timestamp": 1786342358.7687922,
+      "bankroll": 426.79,
+      "event": "lost: UpTheBlues \u2014 Will San Diego FC vs. Club Tijuana end in a draw?"
+    },
+    {
+      "timestamp": 1786342359.159935,
+      "bankroll": 426.79,
+      "event": "lost: quavoo \u2014 Will Club Tijuana win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786342361.654269,
+      "bankroll": 426.07,
+      "event": "lost: ferrariChampions2026 \u2014 Will Club Tijuana win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786342362.140804,
+      "bankroll": 425.59,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 3.5"
+    },
+    {
+      "timestamp": 1786342363.242693,
+      "bankroll": 425.16,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 3.5"
+    },
+    {
+      "timestamp": 1786342364.1475506,
+      "bankroll": 424.59,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 3.5"
+    },
+    {
+      "timestamp": 1786342364.8487427,
+      "bankroll": 423.68,
+      "event": "lost: ferrariChampions2026 \u2014 Will San Diego FC vs. Club Tijuana end in a draw?"
+    },
+    {
+      "timestamp": 1786342365.1492836,
+      "bankroll": 423.24,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 3.5"
+    },
+    {
+      "timestamp": 1786342365.4498606,
+      "bankroll": 422.37,
+      "event": "lost: ferrariChampions2026 \u2014 Will San Diego FC vs. Club Tijuana end in a draw?"
+    },
+    {
+      "timestamp": 1786342366.6421719,
+      "bankroll": 421.53,
+      "event": "lost: ferrariChampions2026 \u2014 Will San Diego FC vs. Club Tijuana end in a draw?"
+    },
+    {
+      "timestamp": 1786342367.6438944,
+      "bankroll": 421.91,
+      "event": "won: ferrariChampions2026 \u2014 Will Club Tijuana win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786342368.1323981,
+      "bankroll": 422.28,
+      "event": "won: ferrariChampions2026 \u2014 Will Club Tijuana win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786342369.234138,
+      "bankroll": 422.58,
+      "event": "won: ferrariChampions2026 \u2014 Will Club Tijuana win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786342369.7349732,
+      "bankroll": 421.74,
+      "event": "lost: ferrariChampions2026 \u2014 Will San Diego FC vs. Club Tijuana end in a draw?"
     }
   ]
 }
