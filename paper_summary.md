@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 22:23:47 (hora de Perú)
+Actualizado: 2026-08-09 22:25:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $363.31
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
-| Djdjdjekekek | 0 | 4 | 7 | -31.98 USD |
+| Djdjdjekekek | 0 | 4 | 8 | -31.98 USD |
 | quavoo | 77 | 105 | 48 | -39.39 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -265,6 +265,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 62% | 40.35 | ⏳ pendiente | — |
 | ferrariChampions2026 | CF América vs. Portland Timbers: O/U 4.5 | Over (BUY) | 22% | 0.40 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will San Diego FC vs. Club Tijuana end i | Yes (BUY) | 21% | 0.84 | ⏳ pendiente | — |
 | Djdjdjekekek | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 61% | 0.44 | ⏳ pendiente | — |
@@ -294,4 +295,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | CF América vs. Portland Timbers: O/U 4.5 | Over (BUY) | 28% | 0.49 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 42% | 0.51 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will San Diego FC win on 2026-08-09? | No (BUY) | 30% | 0.75 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will San Diego FC win on 2026-08-09? | No (BUY) | 30% | 0.34 | ⏳ pendiente | — |
