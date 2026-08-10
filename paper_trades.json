@@ -43556,5 +43556,91 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786324413.0194404,
     "fills": 1
+  },
+  {
+    "timestamp": 1786324516,
+    "timestamp_added": 1786324516.4027772,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-caz-nyc-2026-08-09-total-2pt5",
+    "title": "CF Cruz Azul vs. New York City FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2584.5935999999997,
+    "whale_pct": 0.685,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786324538.8749092,
+    "fills": 4
+  },
+  {
+    "timestamp": 1786324525,
+    "timestamp_added": 1786324525.6130526,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-caz-nyc-2026-08-09-total-3pt5",
+    "title": "CF Cruz Azul vs. New York City FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 548.68,
+    "whale_pct": 0.145,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786324525.6130614,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786324535,
+    "timestamp_added": 1786324535.68587,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-caz-nyc-2026-08-09-spread-home-1pt5",
+    "title": "Spread: CF Cruz Azul (-1.5)",
+    "outcome": "New York City FC",
+    "side": "BUY",
+    "whale_usd": 997.02,
+    "whale_pct": 0.264,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786324535.6858795,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786324536,
+    "timestamp_added": 1786324537.459657,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-aus-pue-2026-08-09-pue",
+    "title": "Will Club Puebla win on 2026-08-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1045.4502000000002,
+    "whale_pct": 0.393,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786324537.4596648,
+    "fills": 1
   }
 ]
