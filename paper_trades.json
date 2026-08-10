@@ -51214,5 +51214,51 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786360645.5887244,
     "fills": 3
+  },
+  {
+    "timestamp": 1786360661,
+    "timestamp_added": 1786360661.632061,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-pr1-mouz-2026-08-10",
+    "title": "Dota 2: Power Rangers vs MOUZ (BO3) - EPL Masters Playoffs",
+    "outcome": "Power Rangers",
+    "side": "BUY",
+    "whale_usd": 207.40658499999998,
+    "whale_pct": 0.11,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786360661.6320715,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786360771,
+    "timestamp_added": 1786360771.3484757,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-drx-2026-08-10",
+    "title": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 552.864,
+    "whale_pct": 0.291,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "1winstreak1",
+      "BBQChickenisthebesttt",
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786360775.8022363,
+    "fills": 2
   }
 ]
