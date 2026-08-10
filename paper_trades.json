@@ -54194,5 +54194,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786368646.4631422,
     "fills": 1
+  },
+  {
+    "timestamp": 1786368854,
+    "timestamp_added": 1786368855.1824036,
+    "username": "",
+    "wallet": "0x5dd9da6e5e2dda83a10864628c2dc714d642420f",
+    "slug": "lol-rs-ll-2026-08-10",
+    "title": "LoL: The Ruddy Sack vs Lundqvist Lightside (BO3) - NLC Regular Season",
+    "outcome": "The Ruddy Sack",
+    "side": "BUY",
+    "whale_usd": 2883.0,
+    "whale_pct": 9.073,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786368864.962602,
+    "fills": 2
   }
 ]
