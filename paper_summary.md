@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 07:09:17 (hora de Perú)
+Actualizado: 2026-08-10 07:11:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $230.74
@@ -26,17 +26,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 3 | 0 | 6 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| BrotherObama | 1 | 0 | 0 | +0.00 USD |
+| BrotherObama | 1 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 22 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 48 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 49 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 9 | +0.00 USD |
 |  | 0 | 0 | 3 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| quavoo | 121 | 107 | 35 | -16.28 USD |
+| quavoo | 121 | 107 | 37 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 0 | 12 | 5 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 505 | 375 | 49 | -138.54 USD |
+| ferrariChampions2026 | 505 | 375 | 55 | -138.54 USD |
 | TAIWANNUMBERONE | 26 | 38 | 2 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -279,11 +279,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-hle-genga-2026-08-10 | BBQChickenisthebesttt, quavoo |
 | lol-dnf-drx-2026-08-10-game1 | BBQChickenisthebesttt, ferrariChampions2026 |
 | swe-sir-bro-2026-08-10-bro | Forecastication2, GoalLineGhost, quavoo |
+| lol-gen-dnf-2026-08-10-game1 | BrotherObama, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 78% | 0.30 | ⏳ pendiente | — |
+| BrotherObama | LoL: Gen.G vs DN SOOPers - Game 1 Winner | DN SOOPers (BUY) | 22% | 15.68 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 78% | 0.32 | ⏳ pendiente | — |
+| BrotherObama | LoL: Gen.G vs DN SOOPers - Game 1 Winner | DN SOOPers (BUY) | 22% | 3.92 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 81% | 0.64 | ⏳ pendiente | — |
+| quavoo | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 0.32 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 92% | 0.89 | ⏳ pendiente | — |
+| GoalLineGhost | Will IF Brommapojkarna win on 2026-08-10 | No (BUY) | 89% | 1.62 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 81% | 0.76 | ⏳ pendiente | — |
+| quavoo | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 7.43 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 81% | 0.78 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 83% | 0.39 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CD Nacional (-1.5) | CD Santa Clara (BUY) | 94% | 1.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 83% | 0.29 | ⏳ pendiente | — |
@@ -303,14 +315,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Eternal Fire Academy (BUY) | 56% | 0.25 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: G2 (-1.5) vs Natus Vincer | Natus Vincere (BUY) | 45% | 0.64 | ⏳ pendiente | — |
 | Forecastication2 | Will Vasteraas SK win on 2026-08-10? | No (BUY) | 79% | 0.48 | ⏳ pendiente | — |
-| GoalLineGhost | CD Santa Clara vs. CD Nacional: O/U 4.5 | Under (BUY) | 92% | 0.35 | ⏳ pendiente | — |
-|  | Games Total: O/U 2.5 | Over (BUY) | 18% | 0.34 | ⏳ pendiente | — |
-| quavoo | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Over (BUY) | 62% | 0.60 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Eternal Fire Academy (BUY) | 72% | 0.48 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | MOUZ (BUY) | 70% | 1.05 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Eternal Fire Academy (BUY) | 72% | 0.49 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | MOUZ (BUY) | 75% | 0.52 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | MOUZ (BUY) | 85% | 0.80 | ⏳ pendiente | — |
-| GoalLineGhost | Will CA All Boys win on 2026-08-10? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| GoalLineGhost | CD Santa Clara vs. CD Nacional: O/U 2.5 | Under (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: G2 (-1.5) vs Natus Vincer | Natus Vincere (BUY) | 45% | 0.00 | ⏳ pendiente | — |
