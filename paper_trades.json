@@ -49208,8 +49208,8 @@
     "whale_pct": 9.819,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786352894.7368782,
@@ -49248,7 +49248,7 @@
     "whale_pct": 0.219,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "BBQChickenisthebesttt"
@@ -49362,8 +49362,8 @@
     "whale_pct": 12.339,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -49522,8 +49522,8 @@
     "whale_pct": 0.11,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "BBQChickenisthebesttt"
     ],
