@@ -54797,5 +54797,69 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786387680.1240695,
     "fills": 1
+  },
+  {
+    "timestamp": 1786387760,
+    "timestamp_added": 1786387760.6080897,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "por-cds-nac-2026-08-10-cds",
+    "title": "Will CD Santa Clara win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 462.5,
+    "whale_pct": 0.484,
+    "paper_stake_usd": 1.4,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Forecastication2"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786387760.6080987,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786387829,
+    "timestamp_added": 1786387830.03717,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "por-cds-nac-2026-08-10-cds",
+    "title": "Will CD Santa Clara win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 186.5,
+    "whale_pct": 0.193,
+    "paper_stake_usd": 0.56,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Forecastication2"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786387830.037177,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786387836,
+    "timestamp_added": 1786387837.5421853,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "efl-ply-exe-2026-08-10-total-2pt5",
+    "title": "Plymouth Argyle FC vs. Exeter City FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1061.59,
+    "whale_pct": 1.106,
+    "paper_stake_usd": 3.2,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786387838.1364048,
+    "fills": 5
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 13:48:49 (hora de Perú)
+Actualizado: 2026-08-10 13:50:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $289.30
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 123 | 108 | 51 | -16.66 USD |
+| quavoo | 123 | 108 | 54 | -16.66 USD |
 | RN1 | 141 | 73 | 21 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -300,6 +300,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Plymouth Argyle FC vs. Exeter City FC: O | Over (BUY) | 61% | 3.20 | ⏳ pendiente | — |
+| quavoo | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 50% | 0.56 | ⏳ pendiente | — |
+| quavoo | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 50% | 1.40 | ⏳ pendiente | — |
 | Wealthfreedom001 | Dota 2: Rune Eaters vs Natus Vincere - G | Rune Eaters (BUY) | 32% | 0.50 | ⏳ pendiente | — |
 | quavoo | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 50% | 0.29 | ⏳ pendiente | — |
 | RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 36% | 0.48 | ⏳ pendiente | — |
@@ -327,6 +330,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Over (BUY) | 66% | 0.84 | ⏳ pendiente | — |
 | RN1 | IK Sirius vs. IF Brommapojkarna: O/U 5.5 | Under (BUY) | 68% | 0.38 | ⏳ pendiente | — |
 | RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 49% | 2.91 | ⏳ pendiente | — |
-| RN1 | Will IK Sirius vs. IF Brommapojkarna end | No (BUY) | 62% | 1.13 | ⏳ pendiente | — |
-| quavoo | Dota 2: Rune Eaters vs Natus Vincere (BO | Rune Eaters (BUY) | 32% | 0.36 | ⏳ pendiente | — |
-| lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.71 | ⏳ pendiente | — |
