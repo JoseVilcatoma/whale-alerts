@@ -54174,5 +54174,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786368495.390562,
     "fills": 1
+  },
+  {
+    "timestamp": 1786368646,
+    "timestamp_added": 1786368646.4631333,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "swe-sir-bro-2026-08-10-total-1pt5",
+    "title": "IK Sirius vs. IF Brommapojkarna: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 130.0,
+    "whale_pct": 0.625,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 13,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786368646.4631422,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 08:30:27 (hora de Perú)
+Actualizado: 2026-08-10 08:32:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $228.95
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 5 | +0.00 USD |
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 66 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 67 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 2 | 7 | +0.00 USD |
 |  | 0 | 0 | 4 | +0.00 USD |
 | lzh1 | 0 | 0 | 1 | +0.00 USD |
@@ -293,6 +293,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| GoalLineGhost | IK Sirius vs. IF Brommapojkarna: O/U 1.5 | Under (BUY) | 13% | 0.00 | ⏳ pendiente | — |
 | quavoo | Valorant: Shopify Rebellion Gold vs Axol | Axolotl (BUY) | 13% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | CA Unión vs. CA Central Córdoba: O/U 5.5 | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
 | quavoo | IK Sirius vs. IF Brommapojkarna: O/U 3.5 | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
@@ -322,4 +323,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | Gen.G (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 29% | 0.00 | ⏳ pendiente | — |
