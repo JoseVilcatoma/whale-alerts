@@ -55287,5 +55287,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786400104.1651845,
     "fills": 1
+  },
+  {
+    "timestamp": 1786400174,
+    "timestamp_added": 1786400174.9453712,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-lev-red-2026-08-10",
+    "title": "LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season",
+    "outcome": "RED Canids",
+    "side": "BUY",
+    "whale_usd": 387.97499999999997,
+    "whale_pct": 0.137,
+    "paper_stake_usd": 0.27,
+    "odds_at_bet": 21,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786400174.9453764,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786400201,
+    "timestamp_added": 1786400201.9753556,
+    "username": "Anjun",
+    "wallet": "0x43372356634781eea88d61bbdd7824cdce958882",
+    "slug": "lol-lev-red-2026-08-10",
+    "title": "LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season",
+    "outcome": "RED Canids",
+    "side": "BUY",
+    "whale_usd": 1430.4423,
+    "whale_pct": 0.117,
+    "paper_stake_usd": 0.24,
+    "odds_at_bet": 21,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786400201.9753654,
+    "fills": 1
   }
 ]
