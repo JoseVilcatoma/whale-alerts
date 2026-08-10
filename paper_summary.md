@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 16:19:59 (hora de Perú)
+Actualizado: 2026-08-10 16:22:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $197.32
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 0 | 2 | +0.00 USD |
 | lzh1 | 1 | 0 | 4 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| Wealthfreedom001 | 0 | 0 | 1 | +0.00 USD |
+| Wealthfreedom001 | 0 | 0 | 2 | +0.00 USD |
 | VD721lsj4938Dk388 | 0 | 0 | 1 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
@@ -301,6 +301,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Wealthfreedom001 | Game Handicap: RED (-1.5) vs Leviatan Es | Leviatan Esports (BUY) | 31% | 0.47 | ⏳ pendiente | — |
 | VD721lsj4938Dk388 | Will CD Universidad Catolica del Ecuador | Yes (BUY) | 51% | 1.79 | ⏳ pendiente | — |
 | theowalcott | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 54% | 3.15 | ⏳ pendiente | — |
 | quavoo | Plymouth Argyle FC vs. Exeter City FC: B | Yes (BUY) | 54% | 4.24 | ⏳ pendiente | — |
@@ -330,4 +331,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Over (BUY) | 66% | 1.63 | ❌ perdida | -1.63 |
 | RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 47% | 1.10 | ❌ perdida | -1.10 |
 | RN1 | Will Silkeborg IF win on 2026-08-10? | No (BUY) | 35% | 0.43 | ⏳ pendiente | — |
-| RN1 | Silkeborg IF vs. Odense BK: O/U 2.5 | Over (BUY) | 27% | 0.32 | ❌ perdida | -0.32 |

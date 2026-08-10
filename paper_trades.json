@@ -54944,5 +54944,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786395690.2919707,
     "fills": 1
+  },
+  {
+    "timestamp": 1786396889,
+    "timestamp_added": 1786396889.8322687,
+    "username": "Wealthfreedom001",
+    "wallet": "0x80bac5c17aec3f5b3d0f01166b639cd453a02e78",
+    "slug": "lol-lev-red-2026-08-10-game-handicap-home-1pt5",
+    "title": "Game Handicap: RED (-1.5) vs Leviatan Esports (+1.5)",
+    "outcome": "Leviatan Esports",
+    "side": "BUY",
+    "whale_usd": 139.944782,
+    "whale_pct": 0.24,
+    "paper_stake_usd": 0.47,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786396889.832278,
+    "fills": 1
   }
 ]
