@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 05:46:11 (hora de Perú)
+Actualizado: 2026-08-10 05:48:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -29,13 +29,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 20 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 25 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 26 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 9 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| quavoo | 121 | 107 | 25 | -16.28 USD |
+| quavoo | 121 | 107 | 27 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Djdjdjekekek | 0 | 4 | 11 | -31.98 USD |
@@ -283,6 +283,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| GoalLineGhost | Spread: CA Belgrano (-2.5) | CA Banfield (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Will Djurgardens IF win on 2026-08-10? | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | IK Sirius vs. IF Brommapojkarna: O/U 3.5 | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Palermo FC (-1.5) | Juventus Turin (BUY) | 54% | 0.00 | ⏳ pendiente | — |
@@ -310,6 +313,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: DN SOOPers Challengers vs KT Rolste | DN SOOPers Challengers (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 80% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 80% | 0.00 | ⏳ pendiente | — |
-| GoalLineGhost | Spread: Silkeborg IF (-1.5) | Odense BK (BUY) | 82% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | MOUZ (BUY) | 20% | 0.00 | ⏳ pendiente | — |
-| GoalLineGhost | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 72% | 0.00 | ⏳ pendiente | — |

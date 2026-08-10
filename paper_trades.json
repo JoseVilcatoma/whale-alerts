@@ -50596,5 +50596,69 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786358726.3226979,
     "fills": 1
+  },
+  {
+    "timestamp": 1786358781,
+    "timestamp_added": 1786358782.0440485,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "swe-sir-bro-2026-08-10-sir",
+    "title": "Will IK Sirius win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 294.19,
+    "whale_pct": 0.32,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786358782.0440593,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786358799,
+    "timestamp_added": 1786358799.4308658,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "swe-sir-bro-2026-08-10-sir",
+    "title": "Will IK Sirius win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 329.96,
+    "whale_pct": 0.358,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786358799.430875,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786358847,
+    "timestamp_added": 1786358848.2741916,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "arg-ban-bel-2026-08-10-spread-away-2pt5",
+    "title": "Spread: CA Belgrano (-2.5)",
+    "outcome": "CA Banfield",
+    "side": "BUY",
+    "whale_usd": 19.0,
+    "whale_pct": 0.151,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786358848.2742019,
+    "fills": 1
   }
 ]
