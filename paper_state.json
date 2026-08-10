@@ -1,5 +1,5 @@
 {
-  "bankroll": 193.7186775575799,
+  "bankroll": 201.56381269271503,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12500,6 +12500,21 @@
       "timestamp": 1786397586.2412353,
       "bankroll": 193.72,
       "event": "lost: RN1 \u2014 Will IK Sirius vs. IF Brommapojkarna end in a draw?"
+    },
+    {
+      "timestamp": 1786398191.8383698,
+      "bankroll": 201.99,
+      "event": "won: GoalLineGhost \u2014 Will Silkeborg IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786398192.188632,
+      "bankroll": 201.99,
+      "event": "won: GoalLineGhost \u2014 Will Silkeborg IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786398201.666972,
+      "bankroll": 201.56,
+      "event": "lost: RN1 \u2014 Will Silkeborg IF win on 2026-08-10?"
     }
   ]
 }
