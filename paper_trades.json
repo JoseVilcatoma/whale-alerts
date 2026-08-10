@@ -51614,5 +51614,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786361805.3061242,
     "fills": 1
+  },
+  {
+    "timestamp": 1786361938,
+    "timestamp_added": 1786361938.5913048,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "swe-vas-dju-2026-08-10-total-2pt5",
+    "title": "Vasteraas SK vs. Djurgardens IF: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 148.8,
+    "whale_pct": 0.259,
+    "paper_stake_usd": 0.6,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786361938.5913126,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786361975,
+    "timestamp_added": 1786361976.1458907,
+    "username": "",
+    "wallet": "0x5dd9da6e5e2dda83a10864628c2dc714d642420f",
+    "slug": "lol-rs-ll-2026-08-10-total-games-2pt5",
+    "title": "Games Total: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 45.979999,
+    "whale_pct": 0.148,
+    "paper_stake_usd": 0.34,
+    "odds_at_bet": 18,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786361976.1459007,
+    "fills": 1
   }
 ]

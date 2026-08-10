@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 06:38:28 (hora de Perú)
+Actualizado: 2026-08-10 06:40:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $230.74
@@ -31,12 +31,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 0 | 0 | 20 | +0.00 USD |
 | GoalLineGhost | 0 | 0 | 39 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 9 | +0.00 USD |
-|  | 0 | 0 | 2 | +0.00 USD |
+|  | 0 | 0 | 3 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| quavoo | 121 | 107 | 33 | -16.28 USD |
+| quavoo | 121 | 107 | 34 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -284,6 +284,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+|  | Games Total: O/U 2.5 | Over (BUY) | 18% | 0.34 | ⏳ pendiente | — |
+| quavoo | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Over (BUY) | 62% | 0.60 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Eternal Fire Academy (BUY) | 72% | 0.48 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | MOUZ (BUY) | 70% | 1.05 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Eternal Fire Academy (BUY) | 72% | 0.49 | ⏳ pendiente | — |
@@ -312,5 +314,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 23% | 0.00 | ⏳ pendiente | — |
 |  | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | CD Santa Clara vs. CD Nacional: O/U 0.5 | Under (BUY) | 10% | 0.00 | ⏳ pendiente | — |
-| GoalLineGhost | CD Santa Clara vs. CD Nacional: O/U 3.5 | Over (BUY) | 19% | 0.00 | ⏳ pendiente | — |
-|  | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 74% | 0.00 | ⏳ pendiente | — |

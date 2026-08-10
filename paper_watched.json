@@ -5,12 +5,6 @@
     "roi_pct": 678.18,
     "short_term_pct": 90.0
   },
-  "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8": {
-    "username": "fRibrenlc",
-    "added_at": 1786332395.160815,
-    "roi_pct": 100.64,
-    "short_term_pct": 100.0
-  },
   "0x18d491b2498ce8a8ee51162c5c6a0d7c56de69a9": {
     "username": "0x40fF11feAf68885ad735C4f4ae3d4750711831cD-1767649507049",
     "added_at": 1786335219.368297,
@@ -20,43 +14,49 @@
   "0xdc41c39b95453c943174f369926018f6963bdd7e": {
     "username": "quavoo",
     "added_at": 1786344678.4851859,
-    "roi_pct": 274.57,
-    "short_term_pct": 80.0
+    "roi_pct": 450.03,
+    "short_term_pct": 60.0
   },
   "0x0346afae2603313d2bbee96b628536c8cbe352a5": {
     "username": "GoalLineGhost",
     "added_at": 1786344678.4851882,
-    "roi_pct": 149.41,
-    "short_term_pct": 100.0
-  },
-  "0x1610db79f753a80207e1d66716be9e91e627ae49": {
-    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
-    "added_at": 1786353425.7269733,
-    "roi_pct": 158.82,
-    "short_term_pct": 100.0
-  },
-  "0xf201a19b43471261a3c1ba9247335d55270e527e": {
-    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-    "added_at": 1786360030.5949852,
-    "roi_pct": 2053.13,
+    "roi_pct": 140.57,
     "short_term_pct": 100.0
   },
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "username": "ferrariChampions2026",
     "added_at": 1786360030.5949974,
-    "roi_pct": 202.87,
-    "short_term_pct": 60.0
+    "roi_pct": 205.0,
+    "short_term_pct": 50.0
   },
   "0xdd5ef115f801999575b03d78d0115ad8b2d59040": {
     "username": "Forecastication2",
     "added_at": 1786360975.9700432,
-    "roi_pct": 276.12,
+    "roi_pct": 288.71,
     "short_term_pct": 40.0
   },
   "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd": {
     "username": "TAIWANNUMBERONE",
     "added_at": 1786360975.9700575,
-    "roi_pct": 50.16,
+    "roi_pct": 107.5,
+    "short_term_pct": 100.0
+  },
+  "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
+    "username": "Lakersfan111",
+    "added_at": 1786361920.5987523,
+    "roi_pct": 190.23,
+    "short_term_pct": 100.0
+  },
+  "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
+    "username": "BrotherObama",
+    "added_at": 1786361920.5987585,
+    "roi_pct": 111.14,
+    "short_term_pct": 100.0
+  },
+  "0x5dd9da6e5e2dda83a10864628c2dc714d642420f": {
+    "username": "",
+    "added_at": 1786361920.5987623,
+    "roi_pct": 48.42,
     "short_term_pct": 100.0
   }
 }
