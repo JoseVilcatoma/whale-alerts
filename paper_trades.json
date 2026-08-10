@@ -51818,5 +51818,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786363205.5411716,
     "fills": 1
+  },
+  {
+    "timestamp": 1786363270,
+    "timestamp_added": 1786363271.39311,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dnf-2026-08-10",
+    "title": "LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 607.2,
+    "whale_pct": 0.375,
+    "paper_stake_usd": 0.86,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786363271.3931189,
+    "fills": 1
   }
 ]
