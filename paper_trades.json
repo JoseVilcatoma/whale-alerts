@@ -47029,5 +47029,71 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786336101.9926875,
     "fills": 1
+  },
+  {
+    "timestamp": 1786336140,
+    "timestamp_added": 1786336140.9985037,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "lol-hle1-gen-2026-08-10",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 143.902439,
+    "whale_pct": 1.451,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786336140.9985132,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786336162,
+    "timestamp_added": 1786336163.1144521,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "lol-hle1-gen-2026-08-10",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 270.81,
+    "whale_pct": 2.73,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786336163.1144607,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786336178,
+    "timestamp_added": 1786336178.620501,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "lol-hle1-gen-2026-08-10",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 3580.71,
+    "whale_pct": 36.094,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786336184.89685,
+    "fills": 2
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 23:28:28 (hora de Perú)
+Actualizado: 2026-08-09 23:30:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $378.54
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | quavoo | 93 | 105 | 32 | -27.86 USD |
 | Djdjdjekekek | 0 | 4 | 8 | -31.98 USD |
-| fRibrenlc | 8 | 12 | 12 | -40.36 USD |
+| fRibrenlc | 8 | 12 | 15 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 466 | 307 | 86 | -106.07 USD |
@@ -273,6 +273,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 2.30 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 1.47 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 25.76 | ⏳ pendiente | — |
@@ -297,6 +300,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 62% | 40.35 | ⏳ pendiente | — |
 | ferrariChampions2026 | CF América vs. Portland Timbers: O/U 4.5 | Over (BUY) | 22% | 0.40 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will San Diego FC vs. Club Tijuana end i | Yes (BUY) | 21% | 0.84 | ⏳ pendiente | — |
-| Djdjdjekekek | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 61% | 0.44 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will San Diego FC win on 2026-08-09? | No (BUY) | 29% | 1.06 | ⏳ pendiente | — |
-| Djdjdjekekek | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 61% | 0.72 | ⏳ pendiente | — |
