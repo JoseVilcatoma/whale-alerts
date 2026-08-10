@@ -44437,5 +44437,50 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786327690.0067093,
     "fills": 2
+  },
+  {
+    "timestamp": 1786328195,
+    "timestamp_added": 1786328196.2579288,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-hou-sd-2026-08-09-total-9pt5",
+    "title": "Houston Astros vs. San Diego Padres: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 3033.7211999999995,
+    "whale_pct": 1.497,
+    "paper_stake_usd": 5.1,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786328196.2579386,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786328234,
+    "timestamp_added": 1786328234.8104064,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-ame-por-2026-08-09-por",
+    "title": "Will Portland Timbers win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 321.924615,
+    "whale_pct": 0.156,
+    "paper_stake_usd": 0.53,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786328234.8104143,
+    "fills": 1
   }
 ]

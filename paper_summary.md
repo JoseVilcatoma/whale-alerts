@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 21:15:42 (hora de Perú)
+Actualizado: 2026-08-09 21:17:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $340.81
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 66 | 97 | 67 | -59.04 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 414 | 289 | 82 | -94.95 USD |
+| ferrariChampions2026 | 414 | 289 | 84 | -94.95 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -254,11 +254,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | arg-aaj-rac-2026-08-09-total-2pt5 | ferrariChampions2026, swisstony |
 | lec-phi-nec-2026-08-09-draw | UpTheBlues, swisstony |
 | lec-aus-pue-2026-08-09-total-4pt5 | UpTheBlues, ferrariChampions2026 |
+| lec-ame-por-2026-08-09-por | UpTheBlues, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Portland Timbers win on 2026-08-09? | Yes (BUY) | 35% | 0.53 | ⏳ pendiente | — |
+| ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 82% | 5.10 | ⏳ pendiente | — |
 | quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 41% | 0.90 | ⏳ pendiente | — |
 | quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 41% | 0.46 | ⏳ pendiente | — |
 | quavoo | CF América vs. Portland Timbers: O/U 2.5 | Over (BUY) | 65% | 0.00 | ⏳ pendiente | — |
@@ -287,5 +290,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 27% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Nashville SC (-2.5) | Atlético San Luis (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CF Cruz Azul win on 2026-08-09? | No (BUY) | 63% | 0.00 | ⏳ pendiente | — |
