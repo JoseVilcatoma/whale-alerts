@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 07:52:59 (hora de Perú)
+Actualizado: 2026-08-10 07:55:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $230.36
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 0 | 12 | 5 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 506 | 380 | 54 | -138.54 USD |
+| ferrariChampions2026 | 506 | 380 | 56 | -138.54 USD |
 | TAIWANNUMBERONE | 26 | 38 | 2 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -289,6 +289,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Eternal Fire Academy (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | Gen.G (BUY) | 81% | 0.00 | ⏳ pendiente | — |
@@ -317,5 +319,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | Spread: CD Nacional (-1.5) | CD Santa Clara (BUY) | 94% | 1.26 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CD Nacional (-1.5) | CD Santa Clara (BUY) | 94% | 0.45 | ⏳ pendiente | — |
 | Forecastication2 | Dean Kremer: Strikeouts O/U 5.5 | Under (BUY) | 55% | 3.33 | ⏳ pendiente | — |
-| Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 0.64 | ⏳ pendiente | — |
-| GoalLineGhost | IK Sirius vs. IF Brommapojkarna: O/U 3.5 | Under (BUY) | 56% | 0.79 | ⏳ pendiente | — |
