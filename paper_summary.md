@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 23:13:49 (hora de Perú)
+Actualizado: 2026-08-09 23:15:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $374.75
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 31 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| HomeRunHazard | 45 | 46 | 4 | +15.05 USD |
+| HomeRunHazard | 45 | 46 | 5 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | UpTheBlues | 112 | 62 | 26 | +8.01 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -270,6 +270,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Atlanta Dream (-12.5) | Toronto Tempo (BUY) | 46% | 0.67 | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 60% | 1.19 | ⏳ pendiente | — |
 | NordhavenCap | Will CF América win on 2026-08-09? | No (BUY) | 65% | 2.71 | ⏳ pendiente | — |
 | NordhavenCap | CF América vs. Portland Timbers: Portlan | Over (BUY) | 43% | 4.06 | ⏳ pendiente | — |
@@ -299,4 +300,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will CF América win on 2026-08-09? | No (BUY) | 63% | 1.20 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 1.5 | Over (BUY) | 76% | 0.38 | ⏳ pendiente | — |
 | Djdjdjekekek | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 61% | 17.18 | ⏳ pendiente | — |
-| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 1.5 | Over (BUY) | 76% | 0.97 | ⏳ pendiente | — |
