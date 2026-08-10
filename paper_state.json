@@ -1,5 +1,5 @@
 {
-  "bankroll": 423.2768901338474,
+  "bankroll": 422.5968901338474,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -10405,6 +10405,11 @@
       "timestamp": 1786338599.4192574,
       "bankroll": 423.28,
       "event": "won: UpTheBlues \u2014 Austin FC vs. Club Puebla: O/U 4.5"
+    },
+    {
+      "timestamp": 1786339215.2933595,
+      "bankroll": 422.6,
+      "event": "lost: quavoo \u2014 Will Atl\u00e9tico Nacional win on 2026-08-08?"
     }
   ]
 }
