@@ -48593,5 +48593,48 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786349890.48116,
     "fills": 3
+  },
+  {
+    "timestamp": 1786349924,
+    "timestamp_added": 1786349924.9041262,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "den-sif-ode-2026-08-10-spread-home-1pt5",
+    "title": "Spread: Silkeborg IF (-1.5)",
+    "outcome": "Silkeborg IF",
+    "side": "BUY",
+    "whale_usd": 137.9992,
+    "whale_pct": 1.289,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 17,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786349924.9041374,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786350017,
+    "timestamp_added": 1786350018.2094302,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-hle1-gen-2026-08-10",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 602.4527999999999,
+    "whale_pct": 0.51,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "fRibrenlc"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786350018.9718857,
+    "fills": 2
   }
 ]
