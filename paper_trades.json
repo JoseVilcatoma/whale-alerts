@@ -51838,5 +51838,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786363271.3931189,
     "fills": 1
+  },
+  {
+    "timestamp": 1786363458,
+    "timestamp_added": 1786363459.027652,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "den-sif-ode-2026-08-10-spread-away-2pt5",
+    "title": "Spread: Odense BK (-2.5)",
+    "outcome": "Silkeborg IF",
+    "side": "BUY",
+    "whale_usd": 60.95,
+    "whale_pct": 0.387,
+    "paper_stake_usd": 0.89,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786363459.0276618,
+    "fills": 1
   }
 ]
