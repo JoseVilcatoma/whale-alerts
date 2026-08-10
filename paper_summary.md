@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 21:36:23 (hora de Perú)
+Actualizado: 2026-08-09 21:38:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $340.62
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 4 | +8.65 USD |
-| UpTheBlues | 91 | 47 | 52 | +8.04 USD |
+| UpTheBlues | 91 | 47 | 53 | +8.04 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 66 | 97 | 67 | -59.04 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 415 | 289 | 100 | -94.95 USD |
+| ferrariChampions2026 | 415 | 289 | 104 | -94.95 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -176,7 +176,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | clf-mci-atm-2026-08-09-atm | RN1, ferrariChampions2026, quavoo |
 | mlb-bal-tex-2026-08-09-total-8pt5 | quavoo, wr0ngw4yb3tt0r |
 | lec-caz-nyc-2026-08-09-caz | UpTheBlues, ferrariChampions2026, quavoo |
-| lec-ame-por-2026-08-09-ame | UpTheBlues, quavoo |
+| lec-ame-por-2026-08-09-ame | UpTheBlues, ferrariChampions2026, quavoo |
 | ere-spa-fey-2026-08-09-fey | RN1, quavoo |
 | den-hor-bro-2026-08-09-bro | RN1, quavoo |
 | val-gm-ep1-2026-08-09 | greyoctober, quavoo |
@@ -264,6 +264,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Portland Timbers win on 2026-08-09? | Yes (BUY) | 16% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | CF América vs. Portland Timbers: O/U 1.5 | Over (BUY) | 94% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CF América win on 2026-08-09? | No (BUY) | 35% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Austin FC vs. Club Puebla: O/U 4.5 | Under (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 69% | 0.65 | ⏳ pendiente | — |
 | UpTheBlues | Austin FC vs. Club Puebla: O/U 4.5 | Under (BUY) | 73% | 0.57 | ⏳ pendiente | — |
@@ -289,8 +294,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 1.5 | Over (BUY) | 79% | 1.15 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will San Diego FC win on 2026-08-09? | No (BUY) | 52% | 0.55 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CF América vs. Portland Timbers end | No (BUY) | 75% | 0.44 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Portland Timbers win on 2026-08-09? | Yes (BUY) | 35% | 0.53 | ⏳ pendiente | — |
-| ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Under (BUY) | 82% | 5.10 | ⏳ pendiente | — |
-| quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 41% | 0.90 | ⏳ pendiente | — |
-| quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 41% | 0.46 | ⏳ pendiente | — |
-| quavoo | CF América vs. Portland Timbers: O/U 2.5 | Over (BUY) | 65% | 0.00 | ⏳ pendiente | — |
