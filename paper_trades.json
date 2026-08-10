@@ -54026,5 +54026,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786367639.443782,
     "fills": 1
+  },
+  {
+    "timestamp": 1786369763,
+    "timestamp_added": 1786369763.7938318,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "rou1-fcb-cor-2026-08-10-fcb",
+    "title": "Will FC Boto\u015fani win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1123.2936,
+    "whale_pct": 1.645,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786369765.6814802,
+    "fills": 5
   }
 ]
