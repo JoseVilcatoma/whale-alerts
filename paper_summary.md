@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 13:21:39 (hora de Perú)
+Actualizado: 2026-08-10 13:23:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $289.30
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | quavoo | 123 | 108 | 47 | -16.66 USD |
-| RN1 | 141 | 73 | 3 | -23.95 USD |
+| RN1 | 141 | 73 | 7 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -282,6 +282,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swe-sir-bro-2026-08-10-sir | GoalLineGhost, RN1, quavoo |
 | swe-vas-dju-2026-08-10-dju | Forecastication2, GoalLineGhost, quavoo |
 | swe-vas-dju-2026-08-10-spread-away-1pt5 | GoalLineGhost, quavoo |
+| den-sif-ode-2026-08-10-sif | GoalLineGhost, RN1 |
 | swe-vas-dju-2026-08-10-total-2pt5 | GoalLineGhost, quavoo |
 | lol-hle-genga-2026-08-10 | BBQChickenisthebesttt, quavoo |
 | lol-dnf-drx-2026-08-10-game1 | BBQChickenisthebesttt, ferrariChampions2026 |
@@ -295,6 +296,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Silkeborg IF win on 2026-08-10? | No (BUY) | 35% | 0.43 | ⏳ pendiente | — |
+| RN1 | Silkeborg IF vs. Odense BK: O/U 2.5 | Over (BUY) | 27% | 0.32 | ⏳ pendiente | — |
+| RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Over (BUY) | 68% | 6.19 | ⏳ pendiente | — |
+| RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Over (BUY) | 66% | 0.84 | ⏳ pendiente | — |
 | RN1 | IK Sirius vs. IF Brommapojkarna: O/U 5.5 | Under (BUY) | 68% | 0.38 | ⏳ pendiente | — |
 | RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 49% | 2.91 | ⏳ pendiente | — |
 | RN1 | Will IK Sirius vs. IF Brommapojkarna end | No (BUY) | 62% | 1.13 | ⏳ pendiente | — |
@@ -321,7 +326,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 66% | 0.00 | ✅ ganada | +0.00 |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | Gen.G (BUY) | 53% | 0.00 | ❌ perdida | -0.00 |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 64% | 0.00 | ✅ ganada | +0.00 |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 50% | 0.00 | ✅ ganada | +0.00 |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 40% | 0.00 | ❌ perdida | -0.00 |
-| quavoo | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 35% | 0.00 | ❌ perdida | -0.00 |
