@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 17:58:57 (hora de Perú)
+Actualizado: 2026-08-10 18:01:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $201.08
-**Retorno acumulado:** -79.89%
+**Bankroll actual:** $195.01
+**Retorno acumulado:** -80.50%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -44,8 +44,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 3 | 19 | 9 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 123 | 143 | 24 | -30.00 USD |
 | RN1 | 151 | 83 | 1 | -32.82 USD |
+| quavoo | 124 | 146 | 21 | -36.08 USD |
 | GoalLineGhost | 24 | 20 | 19 | -58.87 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -299,6 +299,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tb-oak-2026-08-10-total-9pt5 | HomeRunHazard, SDTrading |
 | lol-gen-dnf-2026-08-10-game2 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, ferrariChampions2026 |
 | mlb-kc-lad-2026-08-10-total-7pt5 | Bulls94, ferrariChampions2026 |
+| mlb-nym-atl-2026-08-10-spread-home-1pt5 | ferrariChampions2026, quavoo |
 | rou1-sep-fcs-2026-08-09-fcs | RN1, lzh1 |
 | ecu1-lib-uni-2026-08-10-uni | UpTheBlues, VD721lsj4938Dk388 |
 | arg-ban-bel-2026-08-10-total-1pt5 | UpTheBlues, swisstony, theowalcott |
@@ -313,6 +314,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Spread: Atlanta Braves (-1.5) | New York Mets (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | SnakeBall | Will Goiás EC vs. Londrina EC end in a d | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | SnakeBall | Anapolis FC GO vs. Guarani FC SP: O/U 2. | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 45% | 0.00 | ⏳ pendiente | — |
@@ -342,4 +344,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | Caracas FC vs. Deportivo La Guaira: O/U  | Over (BUY) | 86% | 0.60 | ⏳ pendiente | — |
 | johnbaster | LoL: Leviatan Esports vs RED Canids - Ga | Leviatan Esports (BUY) | 45% | 46.26 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 58% | 0.23 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 53% | 0.24 | ⏳ pendiente | — |

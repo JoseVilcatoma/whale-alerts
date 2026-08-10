@@ -1,5 +1,5 @@
 {
-  "bankroll": 201.08464602604838,
+  "bankroll": 195.00886289351826,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12545,6 +12545,26 @@
       "timestamp": 1786399981.8534796,
       "bankroll": 201.08,
       "event": "venta anticipada: VeryLucky888 \u2014 Will Helsingborgs IF win on 2026-08-11? (+0.00 USD)"
+    },
+    {
+      "timestamp": 1786402853.9520814,
+      "bankroll": 202.88,
+      "event": "won: quavoo \u2014 Plymouth Argyle FC vs. Exeter City FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786402855.1810517,
+      "bankroll": 199.68,
+      "event": "lost: quavoo \u2014 Plymouth Argyle FC vs. Exeter City FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786402855.4250963,
+      "bankroll": 199.25,
+      "event": "lost: quavoo \u2014 Plymouth Argyle FC vs. Exeter City FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786402855.5252466,
+      "bankroll": 195.01,
+      "event": "lost: quavoo \u2014 Plymouth Argyle FC vs. Exeter City FC: Both Teams to Score"
     }
   ]
 }
