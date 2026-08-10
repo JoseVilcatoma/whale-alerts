@@ -52921,5 +52921,71 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786366177.744723,
     "fills": 1
+  },
+  {
+    "timestamp": 1786366316,
+    "timestamp_added": 1786366316.5285025,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "lol-gen-dnf-2026-08-10-game2",
+    "title": "LoL: Gen.G vs DN SOOPers - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 9226.2402,
+    "whale_pct": 18.093,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786366316.5285125,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786366358,
+    "timestamp_added": 1786366358.7824478,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dnf-2026-08-10",
+    "title": "LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 358.4064,
+    "whale_pct": 0.216,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+      "lzh1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786366358.782458,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786366358,
+    "timestamp_added": 1786366359.2843316,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "lol-gen-dnf-2026-08-10",
+    "title": "LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 734.9364,
+    "whale_pct": 1.441,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "lzh1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786366359.2843394,
+    "fills": 1
   }
 ]
