@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 07:13:32 (hora de Perú)
+Actualizado: 2026-08-10 07:15:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $230.74
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 22 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 50 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 52 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 9 | +0.00 USD |
 |  | 0 | 0 | 3 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
@@ -285,6 +285,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| GoalLineGhost | IK Sirius vs. IF Brommapojkarna: O/U 4.5 | Over (BUY) | 24% | 0.30 | ⏳ pendiente | — |
+| GoalLineGhost | IK Sirius vs. IF Brommapojkarna: O/U 4.5 | Over (BUY) | 24% | 0.33 | ⏳ pendiente | — |
 | GoalLineGhost | Will IF Brommapojkarna win on 2026-08-10 | No (BUY) | 89% | 5.11 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 78% | 0.30 | ⏳ pendiente | — |
 | BrotherObama | LoL: Gen.G vs DN SOOPers - Game 1 Winner | DN SOOPers (BUY) | 22% | 15.68 | ⏳ pendiente | — |
@@ -313,5 +315,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Over (BUY) | 62% | 0.35 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CD Nacional (-1.5) | CD Santa Clara (BUY) | 94% | 1.15 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CD Nacional (-1.5) | CD Santa Clara (BUY) | 94% | 1.37 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Eternal Fire Academy (BUY) | 56% | 0.25 | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: G2 (-1.5) vs Natus Vincer | Natus Vincere (BUY) | 45% | 0.64 | ⏳ pendiente | — |
