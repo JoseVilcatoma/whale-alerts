@@ -1,5 +1,5 @@
 {
-  "bankroll": 230.74353628804073,
+  "bankroll": 230.36353628804073,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -11300,6 +11300,11 @@
       "timestamp": 1786362690.7078893,
       "bankroll": 230.74,
       "event": "won: ferrariChampions2026 \u2014 Dota 2: Power Rangers vs MOUZ - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786364295.9186287,
+      "bankroll": 230.36,
+      "event": "lost: quavoo \u2014 Valorant: All Gamers vs JD Gaming (BO3) - VCT China Stage 2 Play-Ins"
     }
   ]
 }
