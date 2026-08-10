@@ -1,5 +1,5 @@
 {
-  "bankroll": 338.7988939691209,
+  "bankroll": 360.3092643394912,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -9475,6 +9475,71 @@
       "timestamp": 1786329875.6683183,
       "bankroll": 338.8,
       "event": "lost: HomeRunHazard \u2014 Houston Astros vs. San Diego Padres: O/U 7.5"
+    },
+    {
+      "timestamp": 1786330151.0594914,
+      "bankroll": 339.52,
+      "event": "won: quavoo \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786330151.1596427,
+      "bankroll": 339.92,
+      "event": "won: quavoo \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786330152.4838297,
+      "bankroll": 341.29,
+      "event": "won: quavoo \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786330154.4794822,
+      "bankroll": 351.74,
+      "event": "won: quavoo \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786330154.8843439,
+      "bankroll": 360.21,
+      "event": "won: quavoo \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786330156.1764338,
+      "bankroll": 360.75,
+      "event": "won: quavoo \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786330156.3767216,
+      "bankroll": 361.06,
+      "event": "won: quavoo \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786330156.577007,
+      "bankroll": 362.3,
+      "event": "won: quavoo \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786330157.1761785,
+      "bankroll": 364.24,
+      "event": "won: quavoo \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786330158.1762536,
+      "bankroll": 361.27,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786330159.3781502,
+      "bankroll": 360.23,
+      "event": "lost: ferrariChampions2026 \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786330172.2863123,
+      "bankroll": 360.23,
+      "event": "won: ferrariChampions2026 \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786330177.3846326,
+      "bankroll": 360.31,
+      "event": "won: ferrariChampions2026 \u2014 Houston Astros vs. San Diego Padres: O/U 8.5"
     }
   ]
 }
