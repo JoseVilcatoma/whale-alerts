@@ -45886,5 +45886,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786330971.1810393,
     "fills": 1
+  },
+  {
+    "timestamp": 1786330988,
+    "timestamp_added": 1786330988.702752,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-sdg-tij-2026-08-09-sdg",
+    "title": "Will San Diego FC win on 2026-08-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 455.67900000000003,
+    "whale_pct": 0.22,
+    "paper_stake_usd": 0.75,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786330988.702761,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786331080,
+    "timestamp_added": 1786331080.4104886,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-sdg-tij-2026-08-09-total-2pt5",
+    "title": "San Diego FC vs. Club Tijuana: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 306.59999999999997,
+    "whale_pct": 0.149,
+    "paper_stake_usd": 0.51,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786331080.4104936,
+    "fills": 1
   }
 ]
