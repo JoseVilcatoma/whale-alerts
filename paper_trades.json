@@ -55329,5 +55329,69 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786400201.9753654,
     "fills": 1
+  },
+  {
+    "timestamp": 1786400261,
+    "timestamp_added": 1786400261.8393314,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ecu1-lib-uni-2026-08-10-uni",
+    "title": "Will CD Universidad Catolica del Ecuador win on 2026-08-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 270.13,
+    "whale_pct": 0.121,
+    "paper_stake_usd": 0.24,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "VD721lsj4938Dk388"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786400261.8393364,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786400308,
+    "timestamp_added": 1786400308.430573,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-ban-bel-2026-08-10-btts",
+    "title": "CA Banfield vs. CA Belgrano: Both Teams to Score",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 348.559999,
+    "whale_pct": 0.17,
+    "paper_stake_usd": 0.34,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786400308.430582,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786400337,
+    "timestamp_added": 1786400338.1316626,
+    "username": "Bulls94",
+    "wallet": "0x43cab54b56aba79c29c1ba14b889e7de5532c219",
+    "slug": "mlb-kc-lad-2026-08-10-total-7pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 5.94,
+    "whale_pct": 0.182,
+    "paper_stake_usd": 0.37,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786400338.1316693,
+    "fills": 1
   }
 ]
