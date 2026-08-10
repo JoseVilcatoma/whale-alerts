@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 21:56:56 (hora de Perú)
+Actualizado: 2026-08-09 21:58:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $360.31
-**Retorno acumulado:** -63.97%
+**Bankroll actual:** $354.65
+**Retorno acumulado:** -64.53%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,14 +14,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 1winstreak1 | 106 | 87 | 1 | +59.55 USD |
-| wr0ngw4yb3tt0r | 49 | 41 | 3 | +38.10 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
+| wr0ngw4yb3tt0r | 49 | 42 | 2 | +27.63 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 31 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
+| HomeRunHazard | 44 | 46 | 2 | +12.22 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | UpTheBlues | 91 | 47 | 62 | +8.04 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| HomeRunHazard | 43 | 46 | 3 | +7.41 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 419 | 291 | 114 | -97.53 USD |
+| ferrariChampions2026 | 419 | 291 | 115 | -97.53 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -265,6 +265,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 46% | 0.88 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 47% | 0.84 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will San Diego FC vs. Club Tijuana end i | Yes (BUY) | 21% | 0.87 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 49% | 0.84 | ⏳ pendiente | — |
@@ -294,4 +295,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | CF América vs. Portland Timbers: O/U 1.5 | Over (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CF América win on 2026-08-09? | No (BUY) | 35% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Austin FC vs. Club Puebla: O/U 4.5 | Under (BUY) | 73% | 0.00 | ⏳ pendiente | — |

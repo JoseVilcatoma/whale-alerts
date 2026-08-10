@@ -44708,8 +44708,8 @@
     "whale_pct": 0.728,
     "paper_stake_usd": 2.48,
     "odds_at_bet": 34,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.81,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786328803.451385,
@@ -44728,8 +44728,8 @@
     "whale_pct": 3.072,
     "paper_stake_usd": 10.47,
     "odds_at_bet": 66,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.47,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -45653,6 +45653,26 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786330578.042658,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786330656,
+    "timestamp_added": 1786330657.4246564,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-sdg-tij-2026-08-09-total-2pt5",
+    "title": "San Diego FC vs. Club Tijuana: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 503.4424,
+    "whale_pct": 0.245,
+    "paper_stake_usd": 0.88,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786330657.4246624,
     "fills": 1
   }
 ]
