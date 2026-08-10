@@ -48835,5 +48835,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786350853.732469,
     "fills": 1
+  },
+  {
+    "timestamp": 1786351142,
+    "timestamp_added": 1786351143.191319,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "argpn-abo-ccn-2026-08-10-spread-home-1pt5",
+    "title": "Spread: CA All Boys (-1.5)",
+    "outcome": "CA All Boys",
+    "side": "BUY",
+    "whale_usd": 46.53,
+    "whale_pct": 0.427,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 18,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786351143.1913292,
+    "fills": 1
   }
 ]
