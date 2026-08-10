@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 07:46:52 (hora de Perú)
+Actualizado: 2026-08-10 07:48:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $230.36
@@ -39,14 +39,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 121 | 108 | 39 | -16.66 USD |
+| quavoo | 121 | 108 | 41 | -16.66 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 0 | 12 | 5 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 506 | 376 | 57 | -138.54 USD |
+| ferrariChampions2026 | 506 | 380 | 53 | -138.54 USD |
 | TAIWANNUMBERONE | 26 | 38 | 2 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -289,6 +289,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will FC Botoşani win on 2026-08-10? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | Gen.G (BUY) | 78% | 0.00 | ⏳ pendiente | — |
 | SDTrading | Houston Astros vs. San Francisco Giants: | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 65% | 0.00 | ⏳ pendiente | — |
@@ -317,5 +319,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 78% | 0.30 | ⏳ pendiente | — |
 | BrotherObama | LoL: Gen.G vs DN SOOPers - Game 1 Winner | DN SOOPers (BUY) | 22% | 15.68 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 78% | 0.32 | ⏳ pendiente | — |
-| BrotherObama | LoL: Gen.G vs DN SOOPers - Game 1 Winner | DN SOOPers (BUY) | 22% | 3.92 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 81% | 0.64 | ⏳ pendiente | — |
