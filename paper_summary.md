@@ -28,9 +28,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 5 | +0.00 USD |
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 62 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 69 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 2 | 7 | +0.00 USD |
-|  | 0 | 0 | 4 | +0.00 USD |
+|  | 0 | 0 | 6 | +0.00 USD |
 | lzh1 | 0 | 0 | 1 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 4 | +0.00 USD |
 | Forecastication2 | 0 | 2 | 29 | -1.41 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 0 | 12 | 5 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 507 | 381 | 83 | -138.54 USD |
+| ferrariChampions2026 | 507 | 381 | 84 | -138.54 USD |
 | TAIWANNUMBERONE | 26 | 38 | 2 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -260,6 +260,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col1-ad1-atn-2026-08-08-ad1 | UpTheBlues, swisstony |
 | lec-caz-nyc-2026-08-09-draw | UpTheBlues, ferrariChampions2026 |
 | arg-aaj-rac-2026-08-09-total-2pt5 | ferrariChampions2026, swisstony |
+| mlb-nym-atl-2026-08-10-total-8pt5 | HomeRunHazard, quavoo |
 | lec-phi-nec-2026-08-09-draw | UpTheBlues, swisstony |
 | lec-sdg-tij-2026-08-09-draw | UpTheBlues, ferrariChampions2026 |
 | lec-aus-pue-2026-08-09-total-4pt5 | UpTheBlues, ferrariChampions2026 |
@@ -276,14 +277,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-tor-atl-2026-08-10-spread-home-12pt5 | HomeRunHazard, monkeymashingkeyboard |
 | lol-dnsc-ktc-2026-08-10 | Forecastication2, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-10-total-7pt5 | HomeRunHazard, quavoo |
-| mlb-hou-sf-2026-08-10-total-8pt5 | Forecastication2, SDTrading |
-| por-cds-nac-2026-08-10-cds | Forecastication2, quavoo |
+| mlb-hou-sf-2026-08-10-total-8pt5 | Forecastication2, SDTrading, quavoo |
+| por-cds-nac-2026-08-10-cds | Forecastication2, GoalLineGhost, quavoo |
 | swe-sir-bro-2026-08-10-sir | GoalLineGhost, quavoo |
 | swe-vas-dju-2026-08-10-dju | Forecastication2, GoalLineGhost, quavoo |
 | swe-vas-dju-2026-08-10-total-2pt5 | GoalLineGhost, quavoo |
 | lol-hle-genga-2026-08-10 | BBQChickenisthebesttt, quavoo |
 | lol-dnf-drx-2026-08-10-game1 | BBQChickenisthebesttt, ferrariChampions2026 |
 | swe-sir-bro-2026-08-10-bro | Forecastication2, GoalLineGhost, quavoo |
+| swe-sir-bro-2026-08-10-total-3pt5 | GoalLineGhost, quavoo |
 | lol-gen-dnf-2026-08-10 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, BrotherObama, ferrariChampions2026, lzh1 |
 | lol-gen-dnf-2026-08-10-game1 | BrotherObama, ferrariChampions2026 |
 | lol-gen-dnf-2026-08-10-game2 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, ferrariChampions2026 |
