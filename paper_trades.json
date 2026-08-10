@@ -48773,5 +48773,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786350397.3920424,
     "fills": 1
+  },
+  {
+    "timestamp": 1786350723,
+    "timestamp_added": 1786350724.3829658,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-tor-atl-2026-08-10-spread-home-13pt5",
+    "title": "Spread: Atlanta Dream (-13.5)",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "whale_usd": 173.858498,
+    "whale_pct": 0.297,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786350724.382977,
+    "fills": 1
   }
 ]
