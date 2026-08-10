@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 07:59:14 (hora de Perú)
+Actualizado: 2026-08-10 08:01:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $230.36
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 3 | 0 | 6 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| BrotherObama | 1 | 0 | 4 | +0.00 USD |
+| BrotherObama | 1 | 0 | 5 | +0.00 USD |
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 28 | +0.00 USD |
 | GoalLineGhost | 0 | 0 | 59 | +0.00 USD |
@@ -39,14 +39,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 121 | 108 | 43 | -16.66 USD |
+| quavoo | 121 | 108 | 44 | -16.66 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 0 | 12 | 5 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 506 | 380 | 61 | -138.54 USD |
+| ferrariChampions2026 | 506 | 380 | 68 | -138.54 USD |
 | TAIWANNUMBERONE | 26 | 38 | 2 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -275,6 +275,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-hle1-gen-2026-08-10 | Djdjdjekekek, fRibrenlc, ferrariChampions2026 |
 | wnba-tor-atl-2026-08-10-spread-home-12pt5 | HomeRunHazard, monkeymashingkeyboard |
 | lol-dnsc-ktc-2026-08-10 | Forecastication2, ferrariChampions2026 |
+| mlb-nym-atl-2026-08-10-total-7pt5 | HomeRunHazard, quavoo |
 | mlb-hou-sf-2026-08-10-total-8pt5 | Forecastication2, SDTrading |
 | por-cds-nac-2026-08-10-cds | Forecastication2, quavoo |
 | swe-sir-bro-2026-08-10-sir | GoalLineGhost, quavoo |
@@ -291,6 +292,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | Gen.G (BUY) | 70% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Vitality Academy (BUY) | 72% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Vitality Academy (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| quavoo | New York Mets vs. Atlanta Braves: O/U 7. | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| BrotherObama | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 27% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Ilbirs eSports vs Zero Tenacity  | Zero Tenacity (BUY) | 58% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 29% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Djurgardens IF (-2.5) | Vasteraas SK (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Djurgardens IF (-1.5) | Vasteraas SK (BUY) | 66% | 0.00 | ⏳ pendiente | — |
@@ -312,12 +322,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Plymouth Argyle FC win on 2026-08-1 | Yes (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will FC Botoşani win on 2026-08-10? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | Gen.G (BUY) | 78% | 0.00 | ⏳ pendiente | — |
-| SDTrading | Houston Astros vs. San Francisco Giants: | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 65% | 0.00 | ⏳ pendiente | — |
-| quavoo | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Mura Murska Sobota win on 2026-08-1 | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| GoalLineGhost | Spread: CD Nacional (-1.5) | CD Santa Clara (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| lzh1 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 36% | 0.00 | ⏳ pendiente | — |
-| SDTrading | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 54% | 18.55 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 63% | 0.36 | ⏳ pendiente | — |
