@@ -2,7 +2,7 @@
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
     "username": "BrotherObama",
     "added_at": 1786361920.5987585,
-    "roi_pct": 180.14,
+    "roi_pct": 170.83,
     "short_term_pct": 100.0
   },
   "0x80bac5c17aec3f5b3d0f01166b639cd453a02e78": {
@@ -14,31 +14,25 @@
   "0x43cab54b56aba79c29c1ba14b889e7de5532c219": {
     "username": "Bulls94",
     "added_at": 1786395500.73809,
-    "roi_pct": 1659.41,
-    "short_term_pct": 100.0
+    "roi_pct": 1583.16,
+    "short_term_pct": 70.0
   },
   "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
     "username": "UpTheBlues",
     "added_at": 1786396438.653276,
-    "roi_pct": 118.39,
-    "short_term_pct": 100.0
+    "roi_pct": 246.34,
+    "short_term_pct": 90.0
   },
   "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa": {
     "username": "theowalcott",
     "added_at": 1786397373.2510798,
-    "roi_pct": 273.72,
-    "short_term_pct": 100.0
-  },
-  "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
-    "username": "ferrariChampions2026",
-    "added_at": 1786399246.531528,
-    "roi_pct": 133.17,
+    "roi_pct": 185.35,
     "short_term_pct": 100.0
   },
   "0x282f81747948a90105d944b5a5a2043825d67c4e": {
     "username": "lzh1",
     "added_at": 1786399246.53153,
-    "roi_pct": 120.74,
+    "roi_pct": 120.7,
     "short_term_pct": 100.0
   },
   "0x31864feb9d25dee93728c6225ba891530967e9ca": {
@@ -50,13 +44,19 @@
   "0xdc41c39b95453c943174f369926018f6963bdd7e": {
     "username": "quavoo",
     "added_at": 1786402047.3838062,
-    "roi_pct": 187.27,
-    "short_term_pct": 80.0
+    "roi_pct": 186.55,
+    "short_term_pct": 90.0
   },
-  "0x684baa57c338c2549aec0aa3f034f695d72a8409": {
-    "username": "monkeymashingkeyboard",
-    "added_at": 1786402978.877418,
-    "roi_pct": 140.78,
-    "short_term_pct": 60.0
+  "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
+    "username": "RN1",
+    "added_at": 1786403912.9386463,
+    "roi_pct": 61.33,
+    "short_term_pct": 90.0
+  },
+  "0xc29198ad764bd6adaf7bb971a3757a689ece5d74": {
+    "username": "SnakeBall",
+    "added_at": 1786403912.9386475,
+    "roi_pct": 36.44,
+    "short_term_pct": 100.0
   }
 }

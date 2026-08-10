@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 18:17:50 (hora de Perú)
+Actualizado: 2026-08-10 18:19:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $187.82
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 45 | 46 | 22 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
-| Bulls94 | 1 | 0 | 2 | +7.96 USD |
+| Bulls94 | 1 | 0 | 3 | +7.96 USD |
 | monkeymashingkeyboard | 3 | 0 | 6 | +2.86 USD |
 | johnbaster | 1 | 0 | 2 | +2.19 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
@@ -40,11 +40,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | swisstony | 19 | 13 | 10 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| UpTheBlues | 124 | 76 | 22 | -4.37 USD |
+| UpTheBlues | 124 | 76 | 23 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 151 | 83 | 1 | -32.82 USD |
+| RN1 | 151 | 83 | 4 | -32.82 USD |
 | quavoo | 124 | 154 | 14 | -39.74 USD |
 | GoalLineGhost | 35 | 25 | 3 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -312,11 +312,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ecu1-lib-uni-2026-08-10-total-1pt5 | UpTheBlues, swisstony |
 | uru1-mal-rcm-2026-08-10-mal | SnakeBall, UpTheBlues |
 | lol-los-png1-2026-08-10 | BrotherObama, SnakeBall |
+| ecu1-lib-uni-2026-08-10-lib | RN1, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Paysandu SC PA vs. AD Confianca SE: O/U  | Over (BUY) | 37% | 1.03 | ⏳ pendiente | — |
+| RN1 | Will Libertad Loja vs. CD Universidad Ca | Yes (BUY) | 13% | 0.42 | ⏳ pendiente | — |
+| RN1 | Will Libertad Loja win on 2026-08-10? | No (BUY) | 14% | 1.58 | ⏳ pendiente | — |
+| UpTheBlues | Will Libertad Loja win on 2026-08-10? | No (BUY) | 14% | 0.32 | ⏳ pendiente | — |
+| Bulls94 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 54% | 0.88 | ⏳ pendiente | — |
 | UpTheBlues | Will RU Saint-Gilloise win on 2026-08-11 | Yes (BUY) | 20% | 0.43 | ⏳ pendiente | — |
 | BrotherObama | LoL: LOS vs paiN Gaming (BO3) - CBLOL Re | paiN Gaming (BUY) | 17% | 6.20 | ⏳ pendiente | — |
 | quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 3.36 | ⏳ pendiente | — |
@@ -342,8 +348,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CA Banfield vs. CA Belgrano: O/U 2.5 | Under (BUY) | 79% | 0.00 | ⏳ pendiente | — |
 | SnakeBall | CA Banfield vs. CA Belgrano: 1st Half O/ | Over (BUY) | 23% | 0.00 | ⏳ pendiente | — |
-| SnakeBall | Will Deportivo Maldonado win on 2026-08- | No (BUY) | 89% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Banfield win on 2026-08-10? | No (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| johnbaster | LoL: Leviatan Esports vs RED Canids - Ga | Leviatan Esports (BUY) | 79% | 24.50 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 80% | 0.56 | ⏳ pendiente | — |
