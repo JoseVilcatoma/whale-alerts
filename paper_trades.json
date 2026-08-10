@@ -43366,5 +43366,93 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786324190.513615,
     "fills": 1
+  },
+  {
+    "timestamp": 1786324248,
+    "timestamp_added": 1786324249.0507302,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-caz-nyc-2026-08-09-total-2pt5",
+    "title": "CF Cruz Azul vs. New York City FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1373.4463999999998,
+    "whale_pct": 0.505,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786324256.2825365,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786324256,
+    "timestamp_added": 1786324256.305651,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-caz-nyc-2026-08-09-total-2pt5",
+    "title": "CF Cruz Azul vs. New York City FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 939.08,
+    "whale_pct": 0.258,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786324269.2627838,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786324261,
+    "timestamp_added": 1786324261.648604,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-caz-nyc-2026-08-09-spread-home-1pt5",
+    "title": "Spread: CF Cruz Azul (-1.5)",
+    "outcome": "New York City FC",
+    "side": "BUY",
+    "whale_usd": 1267.3,
+    "whale_pct": 0.348,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786324261.6486125,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786324293,
+    "timestamp_added": 1786324294.333164,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-caz-nyc-2026-08-09-spread-home-1pt5",
+    "title": "Spread: CF Cruz Azul (-1.5)",
+    "outcome": "New York City FC",
+    "side": "BUY",
+    "whale_usd": 1165.84,
+    "whale_pct": 0.317,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786324294.3331728,
+    "fills": 1
   }
 ]

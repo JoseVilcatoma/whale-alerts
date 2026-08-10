@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 20:09:57 (hora de Perú)
+Actualizado: 2026-08-09 20:11:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $341.75
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 1 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 82 | 47 | 34 | +7.26 USD |
+| UpTheBlues | 82 | 47 | 37 | +7.26 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 65 | 94 | 63 | -57.54 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 394 | 279 | 97 | -95.99 USD |
+| ferrariChampions2026 | 394 | 279 | 98 | -95.99 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -254,6 +254,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Spread: CF Cruz Azul (-1.5) | New York City FC (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: CF Cruz Azul (-1.5) | New York City FC (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | CF Cruz Azul vs. New York City FC: O/U 2 | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | CF Cruz Azul vs. New York City FC: O/U 2 | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | quavoo | CF América vs. Portland Timbers: Both Te | Yes (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CF Cruz Azul vs. New York City FC: O/U 2 | Under (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | quavoo | CF América vs. Portland Timbers: Both Te | Yes (BUY) | 67% | 0.00 | ⏳ pendiente | — |
@@ -280,7 +284,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Golden State Valkyries vs. Los Angeles S | Under (BUY) | 90% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Nashville SC vs. Atlético San Luis: O/U  | Over (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Nashville SC win on 2026-08-09? | Yes (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CF Cruz Azul vs. New York City FC e | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Under (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CF Cruz Azul vs. New York City FC e | Yes (BUY) | 40% | 0.00 | ⏳ pendiente | — |
