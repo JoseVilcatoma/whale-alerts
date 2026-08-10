@@ -49650,5 +49650,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786353931.5855098,
     "fills": 1
+  },
+  {
+    "timestamp": 1786354028,
+    "timestamp_added": 1786354029.1756024,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lol-sk-vit-2026-08-10",
+    "title": "LoL: SK Gaming vs Team Vitality (BO3) - LEC Regular Season",
+    "outcome": "SK Gaming",
+    "side": "BUY",
+    "whale_usd": 324.36,
+    "whale_pct": 0.372,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786354029.175611,
+    "fills": 1
   }
 ]
