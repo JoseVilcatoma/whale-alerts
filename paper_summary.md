@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 00:06:03 (hora de Perú)
+Actualizado: 2026-08-10 00:08:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $423.83
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | NordhavenCap | 0 | 0 | 6 | +0.00 USD |
-| Forecastication2 | 0 | 0 | 1 | +0.00 USD |
+| Forecastication2 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 19 | 10 | 3 | -2.77 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -271,6 +271,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Forecastication2 | LoL: DN SOOPers Challengers vs KT Rolste | DN SOOPers Challengers (BUY) | 50% | 0.74 | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 38% | 0.93 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 44% | 0.57 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 55% | 1.85 | ⏳ pendiente | — |
@@ -293,7 +294,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Tempo vs. Atlanta Dream: O/U 184 | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |

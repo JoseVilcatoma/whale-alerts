@@ -47667,5 +47667,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786337882.36555,
     "fills": 1
+  },
+  {
+    "timestamp": 1786338383,
+    "timestamp_added": 1786338384.4659643,
+    "username": "Forecastication2",
+    "wallet": "0xdd5ef115f801999575b03d78d0115ad8b2d59040",
+    "slug": "lol-dnsc-ktc-2026-08-10",
+    "title": "LoL: DN SOOPers Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+    "outcome": "DN SOOPers Challengers",
+    "side": "BUY",
+    "whale_usd": 10.5,
+    "whale_pct": 0.174,
+    "paper_stake_usd": 0.74,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786338384.4659874,
+    "fills": 1
   }
 ]
