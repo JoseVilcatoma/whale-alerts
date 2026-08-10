@@ -1,5 +1,5 @@
 {
-  "bankroll": 238.7690763883518,
+  "bankroll": 195.7767420737089,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12150,6 +12150,301 @@
       "timestamp": 1786395443.7762203,
       "bankroll": 238.77,
       "event": "won: RN1 \u2014 Vasteraas SK vs. Djurgardens IF: O/U 1.5"
+    },
+    {
+      "timestamp": 1786395726.8907247,
+      "bankroll": 219.79,
+      "event": "lost: GoalLineGhost \u2014 Spread: IK Sirius (-1.5)"
+    },
+    {
+      "timestamp": 1786395727.4022515,
+      "bankroll": 203.41,
+      "event": "lost: GoalLineGhost \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395727.5023968,
+      "bankroll": 202.98,
+      "event": "lost: quavoo \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395727.6025362,
+      "bankroll": 202.55,
+      "event": "lost: GoalLineGhost \u2014 Spread: IK Sirius (-1.5)"
+    },
+    {
+      "timestamp": 1786395727.702689,
+      "bankroll": 202.03,
+      "event": "lost: quavoo \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395727.9557614,
+      "bankroll": 202.18,
+      "event": "won: GoalLineGhost \u2014 IK Sirius vs. IF Brommapojkarna: O/U 1.5"
+    },
+    {
+      "timestamp": 1786395728.306852,
+      "bankroll": 201.27,
+      "event": "lost: quavoo \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395728.658462,
+      "bankroll": 208.33,
+      "event": "won: GoalLineGhost \u2014 Will Odense BK win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395729.2080157,
+      "bankroll": 208.33,
+      "event": "lost: GoalLineGhost \u2014 Spread: Silkeborg IF (-1.5)"
+    },
+    {
+      "timestamp": 1786395729.3081634,
+      "bankroll": 208.33,
+      "event": "lost: quavoo \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395729.7640362,
+      "bankroll": 208.33,
+      "event": "lost: quavoo \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395730.1186972,
+      "bankroll": 208.33,
+      "event": "lost: quavoo \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395730.4086077,
+      "bankroll": 208.33,
+      "event": "lost: quavoo \u2014 Will Mura Murska Sobota win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395731.2559195,
+      "bankroll": 208.33,
+      "event": "lost: quavoo \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395731.3561072,
+      "bankroll": 208.33,
+      "event": "won: GoalLineGhost \u2014 Will Odense BK win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395731.6565754,
+      "bankroll": 208.33,
+      "event": "lost: quavoo \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395731.7566843,
+      "bankroll": 208.33,
+      "event": "lost: GoalLineGhost \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395731.856884,
+      "bankroll": 208.33,
+      "event": "won: GoalLineGhost \u2014 Spread: Silkeborg IF (-1.5)"
+    },
+    {
+      "timestamp": 1786395732.146524,
+      "bankroll": 208.33,
+      "event": "lost: Forecastication2 \u2014 Will IF Brommapojkarna win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395732.2467113,
+      "bankroll": 208.33,
+      "event": "lost: quavoo \u2014 Will IF Brommapojkarna win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395732.8916476,
+      "bankroll": 208.33,
+      "event": "won: GoalLineGhost \u2014 Spread: Odense BK (-2.5)"
+    },
+    {
+      "timestamp": 1786395732.9918017,
+      "bankroll": 208.33,
+      "event": "won: GoalLineGhost \u2014 Spread: Odense BK (-2.5)"
+    },
+    {
+      "timestamp": 1786395733.0919166,
+      "bankroll": 208.33,
+      "event": "won: GoalLineGhost \u2014 Spread: Odense BK (-2.5)"
+    },
+    {
+      "timestamp": 1786395733.6313148,
+      "bankroll": 208.33,
+      "event": "won: GoalLineGhost \u2014 IK Sirius vs. IF Brommapojkarna: O/U 3.5"
+    },
+    {
+      "timestamp": 1786395733.7314644,
+      "bankroll": 208.33,
+      "event": "lost: quavoo \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395733.8316298,
+      "bankroll": 208.33,
+      "event": "lost: quavoo \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395734.2164319,
+      "bankroll": 208.33,
+      "event": "lost: GoalLineGhost \u2014 Will IF Brommapojkarna win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395734.5751255,
+      "bankroll": 208.33,
+      "event": "lost: quavoo \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395734.8756495,
+      "bankroll": 208.33,
+      "event": "lost: quavoo \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395734.9757748,
+      "bankroll": 208.33,
+      "event": "lost: GoalLineGhost \u2014 Will IF Brommapojkarna win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395735.1760578,
+      "bankroll": 208.33,
+      "event": "won: GoalLineGhost \u2014 Spread: Odense BK (-2.5)"
+    },
+    {
+      "timestamp": 1786395735.8037403,
+      "bankroll": 208.33,
+      "event": "lost: GoalLineGhost \u2014 Spread: IK Sirius (-1.5)"
+    },
+    {
+      "timestamp": 1786395735.90388,
+      "bankroll": 208.33,
+      "event": "won: GoalLineGhost \u2014 Spread: Odense BK (-2.5)"
+    },
+    {
+      "timestamp": 1786395736.0040228,
+      "bankroll": 208.33,
+      "event": "lost: quavoo \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395736.1041522,
+      "bankroll": 208.33,
+      "event": "lost: quavoo \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395736.2042916,
+      "bankroll": 208.33,
+      "event": "lost: quavoo \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395736.304426,
+      "bankroll": 208.33,
+      "event": "won: GoalLineGhost \u2014 IK Sirius vs. IF Brommapojkarna: O/U 3.5"
+    },
+    {
+      "timestamp": 1786395738.727626,
+      "bankroll": 208.4,
+      "event": "won: GoalLineGhost \u2014 Silkeborg IF vs. Odense BK: O/U 4.5"
+    },
+    {
+      "timestamp": 1786395738.8277514,
+      "bankroll": 208.48,
+      "event": "won: GoalLineGhost \u2014 Spread: Odense BK (-2.5)"
+    },
+    {
+      "timestamp": 1786395739.2852135,
+      "bankroll": 208.15,
+      "event": "lost: GoalLineGhost \u2014 IK Sirius vs. IF Brommapojkarna: O/U 3.5"
+    },
+    {
+      "timestamp": 1786395739.585619,
+      "bankroll": 208.35,
+      "event": "won: GoalLineGhost \u2014 Will IF Brommapojkarna win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395739.685765,
+      "bankroll": 208.98,
+      "event": "won: GoalLineGhost \u2014 Will IF Brommapojkarna win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395739.9301739,
+      "bankroll": 208.65,
+      "event": "lost: GoalLineGhost \u2014 IK Sirius vs. IF Brommapojkarna: O/U 4.5"
+    },
+    {
+      "timestamp": 1786395740.0303173,
+      "bankroll": 208.35,
+      "event": "lost: GoalLineGhost \u2014 IK Sirius vs. IF Brommapojkarna: O/U 4.5"
+    },
+    {
+      "timestamp": 1786395740.1304681,
+      "bankroll": 207.56,
+      "event": "lost: GoalLineGhost \u2014 IK Sirius vs. IF Brommapojkarna: O/U 3.5"
+    },
+    {
+      "timestamp": 1786395741.7831347,
+      "bankroll": 207.56,
+      "event": "lost: quavoo \u2014 Will Mura Murska Sobota win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395744.347745,
+      "bankroll": 204.42,
+      "event": "lost: GoalLineGhost \u2014 Spread: IK Sirius (-1.5)"
+    },
+    {
+      "timestamp": 1786395745.9287486,
+      "bankroll": 201.51,
+      "event": "lost: RN1 \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395746.178729,
+      "bankroll": 201.69,
+      "event": "won: RN1 \u2014 IK Sirius vs. IF Brommapojkarna: O/U 5.5"
+    },
+    {
+      "timestamp": 1786395746.4623544,
+      "bankroll": 200.85,
+      "event": "lost: RN1 \u2014 Silkeborg IF vs. Odense BK: O/U 1.5"
+    },
+    {
+      "timestamp": 1786395746.562506,
+      "bankroll": 194.66,
+      "event": "lost: RN1 \u2014 Silkeborg IF vs. Odense BK: O/U 1.5"
+    },
+    {
+      "timestamp": 1786395746.813034,
+      "bankroll": 194.34,
+      "event": "lost: RN1 \u2014 Silkeborg IF vs. Odense BK: O/U 2.5"
+    },
+    {
+      "timestamp": 1786395747.013367,
+      "bankroll": 193.24,
+      "event": "lost: RN1 \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395747.113536,
+      "bankroll": 191.61,
+      "event": "lost: RN1 \u2014 Silkeborg IF vs. Odense BK: O/U 1.5"
+    },
+    {
+      "timestamp": 1786395747.5734818,
+      "bankroll": 194.32,
+      "event": "won: RN1 \u2014 IK Sirius vs. IF Brommapojkarna: O/U 4.5"
+    },
+    {
+      "timestamp": 1786395747.7737515,
+      "bankroll": 194.99,
+      "event": "won: RN1 \u2014 IK Sirius vs. IF Brommapojkarna: O/U 4.5"
+    },
+    {
+      "timestamp": 1786395748.1289165,
+      "bankroll": 195.83,
+      "event": "won: RN1 \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786395748.5294707,
+      "bankroll": 196.26,
+      "event": "won: RN1 \u2014 Silkeborg IF vs. Odense BK: O/U 1.5"
+    },
+    {
+      "timestamp": 1786395748.6296206,
+      "bankroll": 195.78,
+      "event": "lost: RN1 \u2014 Will IK Sirius win on 2026-08-10?"
     }
   ]
 }

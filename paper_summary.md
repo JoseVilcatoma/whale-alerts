@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 16:01:39 (hora de Perú)
+Actualizado: 2026-08-10 16:03:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $238.77
-**Retorno acumulado:** -76.12%
+**Bankroll actual:** $195.78
+**Retorno acumulado:** -80.42%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -39,11 +39,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| Forecastication2 | 3 | 16 | 12 | -8.19 USD |
+| Forecastication2 | 3 | 17 | 11 | -8.19 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 146 | 73 | 16 | -21.54 USD |
-| quavoo | 123 | 123 | 41 | -28.14 USD |
-| GoalLineGhost | 5 | 5 | 53 | -34.68 USD |
+| quavoo | 123 | 141 | 23 | -30.00 USD |
+| RN1 | 151 | 80 | 4 | -30.19 USD |
+| GoalLineGhost | 20 | 18 | 25 | -67.17 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -310,24 +310,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 50% | 1.40 | ⏳ pendiente | — |
 | Wealthfreedom001 | Dota 2: Rune Eaters vs Natus Vincere - G | Rune Eaters (BUY) | 32% | 0.50 | ⏳ pendiente | — |
 | quavoo | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 50% | 0.29 | ⏳ pendiente | — |
-| RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 36% | 0.48 | ⏳ pendiente | — |
-| RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Under (BUY) | 48% | 0.39 | ⏳ pendiente | — |
+| RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 36% | 0.48 | ❌ perdida | -0.48 |
+| RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Under (BUY) | 48% | 0.39 | ✅ ganada | +0.42 |
 | RN1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.41 | ⏳ pendiente | — |
 | RN1 | Will IK Sirius vs. IF Brommapojkarna end | No (BUY) | 49% | 1.07 | ⏳ pendiente | — |
 | RN1 | Vasteraas SK vs. Djurgardens IF: O/U 1.5 | Under (BUY) | 45% | 1.05 | ✅ ganada | +1.28 |
 | quavoo | CD Santa Clara vs. CD Nacional: O/U 2.5 | Under (BUY) | 64% | 0.76 | ⏳ pendiente | — |
 | RN1 | Vasteraas SK vs. Djurgardens IF: O/U 3.5 | Under (BUY) | 95% | 1.77 | ✅ ganada | +0.09 |
 | RN1 | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Under (BUY) | 79% | 1.72 | ✅ ganada | +0.46 |
-| RN1 | Will IK Sirius win on 2026-08-10? | No (BUY) | 59% | 1.21 | ⏳ pendiente | — |
+| RN1 | Will IK Sirius win on 2026-08-10? | No (BUY) | 59% | 1.21 | ✅ ganada | +0.84 |
 | RN1 | Vasteraas SK vs. Djurgardens IF: O/U 3.5 | Under (BUY) | 95% | 7.67 | ✅ ganada | +0.40 |
 | RN1 | Will Vasteraas SK vs. Djurgardens IF end | No (BUY) | 71% | 0.43 | ✅ ganada | +0.18 |
 | quavoo | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Panathinaikós AO (BUY) | 70% | 0.35 | ⏳ pendiente | — |
-| RN1 | IK Sirius vs. IF Brommapojkarna: O/U 4.5 | Under (BUY) | 39% | 0.43 | ⏳ pendiente | — |
+| RN1 | IK Sirius vs. IF Brommapojkarna: O/U 4.5 | Under (BUY) | 39% | 0.43 | ✅ ganada | +0.67 |
 | lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 1.04 | ⏳ pendiente | — |
-| RN1 | IK Sirius vs. IF Brommapojkarna: O/U 4.5 | Under (BUY) | 38% | 1.66 | ⏳ pendiente | — |
+| RN1 | IK Sirius vs. IF Brommapojkarna: O/U 4.5 | Under (BUY) | 38% | 1.66 | ✅ ganada | +2.71 |
 | lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.53 | ⏳ pendiente | — |
 | quavoo | Plymouth Argyle FC vs. Exeter City FC: O | Over (BUY) | 83% | 8.76 | ⏳ pendiente | — |
-| RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Over (BUY) | 66% | 1.63 | ⏳ pendiente | — |
-| RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 47% | 1.10 | ⏳ pendiente | — |
+| RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Over (BUY) | 66% | 1.63 | ❌ perdida | -1.63 |
+| RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 47% | 1.10 | ❌ perdida | -1.10 |
 | RN1 | Will Silkeborg IF win on 2026-08-10? | No (BUY) | 35% | 0.43 | ⏳ pendiente | — |
-| RN1 | Silkeborg IF vs. Odense BK: O/U 2.5 | Over (BUY) | 27% | 0.32 | ⏳ pendiente | — |
+| RN1 | Silkeborg IF vs. Odense BK: O/U 2.5 | Over (BUY) | 27% | 0.32 | ❌ perdida | -0.32 |
