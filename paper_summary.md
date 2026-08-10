@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 08:53:27 (hora de Perú)
+Actualizado: 2026-08-10 08:55:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $228.95
-**Retorno acumulado:** -77.10%
+**Bankroll actual:** $229.72
+**Retorno acumulado:** -77.03%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 5 | +0.00 USD |
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 62 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 63 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 2 | 7 | +0.00 USD |
 |  | 0 | 0 | 4 | +0.00 USD |
 | lzh1 | 0 | 0 | 1 | +0.00 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 0 | 12 | 5 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 507 | 381 | 83 | -138.54 USD |
+| ferrariChampions2026 | 514 | 386 | 71 | -137.78 USD |
 | TAIWANNUMBERONE | 26 | 38 | 2 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -292,6 +292,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| GoalLineGhost | Spread: IK Sirius (-1.5) | IK Sirius (BUY) | 49% | 3.14 | ⏳ pendiente | — |
 | quavoo | Will FC Botoşani win on 2026-08-10? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | CA All Boys vs. CA Central Norte Salta:  | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CA Unión (-1.5) | CA Unión (BUY) | 35% | 0.00 | ⏳ pendiente | — |
@@ -321,4 +322,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | Gen.G (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Vitality Academy (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Vitality Academy (BUY) | 75% | 0.00 | ⏳ pendiente | — |

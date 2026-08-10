@@ -1,5 +1,5 @@
 {
-  "bankroll": 228.95353628804074,
+  "bankroll": 229.71804609196232,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -11365,6 +11365,66 @@
       "timestamp": 1786367117.5752382,
       "bankroll": 228.95,
       "event": "lost: ferrariChampions2026 \u2014 LoL: DN SOOPers Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1786370063.0909839,
+      "bankroll": 228.95,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Power Rangers vs MOUZ (BO3) - EPL Masters Playoffs"
+    },
+    {
+      "timestamp": 1786370063.932153,
+      "bankroll": 228.95,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Power Rangers vs MOUZ (BO3) - EPL Masters Playoffs"
+    },
+    {
+      "timestamp": 1786370064.8335657,
+      "bankroll": 228.95,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Power Rangers vs MOUZ (BO3) - EPL Masters Playoffs"
+    },
+    {
+      "timestamp": 1786370070.1761127,
+      "bankroll": 228.95,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Power Rangers vs MOUZ (BO3) - EPL Masters Playoffs"
+    },
+    {
+      "timestamp": 1786370070.2763307,
+      "bankroll": 228.95,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Power Rangers vs MOUZ (BO3) - EPL Masters Playoffs"
+    },
+    {
+      "timestamp": 1786370070.877391,
+      "bankroll": 228.95,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Power Rangers vs MOUZ (BO3) - EPL Masters Playoffs"
+    },
+    {
+      "timestamp": 1786370070.9775462,
+      "bankroll": 228.95,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Power Rangers vs MOUZ (BO3) - EPL Masters Playoffs"
+    },
+    {
+      "timestamp": 1786370071.4151554,
+      "bankroll": 228.95,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Power Rangers vs MOUZ (BO3) - EPL Masters Playoffs"
+    },
+    {
+      "timestamp": 1786370071.5153089,
+      "bankroll": 228.95,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Power Rangers vs MOUZ (BO3) - EPL Masters Playoffs"
+    },
+    {
+      "timestamp": 1786370072.7612336,
+      "bankroll": 229.09,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Power Rangers vs MOUZ (BO3) - EPL Masters Playoffs"
+    },
+    {
+      "timestamp": 1786370072.861407,
+      "bankroll": 229.27,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Power Rangers vs MOUZ (BO3) - EPL Masters Playoffs"
+    },
+    {
+      "timestamp": 1786370073.2591712,
+      "bankroll": 229.72,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Power Rangers vs MOUZ (BO3) - EPL Masters Playoffs"
     }
   ]
 }
