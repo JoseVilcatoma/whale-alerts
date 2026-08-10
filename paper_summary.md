@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 06:40:29 (hora de Perú)
+Actualizado: 2026-08-10 06:42:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $230.74
@@ -28,8 +28,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
-| Forecastication2 | 0 | 0 | 20 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 39 | +0.00 USD |
+| Forecastication2 | 0 | 0 | 21 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 40 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 9 | +0.00 USD |
 |  | 0 | 0 | 3 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
@@ -284,6 +284,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Forecastication2 | Will Vasteraas SK win on 2026-08-10? | No (BUY) | 79% | 0.48 | ⏳ pendiente | — |
+| GoalLineGhost | CD Santa Clara vs. CD Nacional: O/U 4.5 | Under (BUY) | 92% | 0.35 | ⏳ pendiente | — |
 |  | Games Total: O/U 2.5 | Over (BUY) | 18% | 0.34 | ⏳ pendiente | — |
 | quavoo | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Over (BUY) | 62% | 0.60 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Eternal Fire Academy (BUY) | 72% | 0.48 | ⏳ pendiente | — |
@@ -312,5 +314,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | Spread: IK Sirius (-1.5) | IK Sirius (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | quavoo | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 23% | 0.00 | ⏳ pendiente | — |
-|  | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 77% | 0.00 | ⏳ pendiente | — |
-| GoalLineGhost | CD Santa Clara vs. CD Nacional: O/U 0.5 | Under (BUY) | 10% | 0.00 | ⏳ pendiente | — |
