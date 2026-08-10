@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 22:15:33 (hora de Perú)
+Actualizado: 2026-08-09 22:17:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $363.00
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 423 | 293 | 131 | -111.74 USD |
+| ferrariChampions2026 | 423 | 293 | 134 | -111.74 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -265,6 +265,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 1.5 | Over (BUY) | 76% | 0.87 | ⏳ pendiente | — |
+| ferrariChampions2026 | CF América vs. Portland Timbers: O/U 3.5 | Under (BUY) | 49% | 0.95 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CF América win on 2026-08-09? | No (BUY) | 63% | 1.16 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CF América win on 2026-08-09? | No (BUY) | 63% | 1.20 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 1.5 | Over (BUY) | 76% | 0.38 | ⏳ pendiente | — |
 | Djdjdjekekek | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 61% | 17.18 | ⏳ pendiente | — |
@@ -292,6 +295,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 55% | 1.73 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 45% | 0.41 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 46% | 0.88 | ⏳ pendiente | — |
-| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 47% | 0.84 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will San Diego FC vs. Club Tijuana end i | Yes (BUY) | 21% | 0.87 | ⏳ pendiente | — |
-| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 49% | 0.84 | ⏳ pendiente | — |
