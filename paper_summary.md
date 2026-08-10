@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 20:22:14 (hora de Perú)
+Actualizado: 2026-08-09 20:24:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $341.75
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 1 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 82 | 47 | 47 | +7.26 USD |
+| UpTheBlues | 82 | 47 | 48 | +7.26 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 65 | 94 | 64 | -57.54 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 394 | 279 | 109 | -95.99 USD |
+| ferrariChampions2026 | 394 | 279 | 110 | -95.99 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -257,6 +257,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will San Diego FC win on 2026-08-09? | Yes (BUY) | 45% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Club Tijuana win on 2026-08-09? | Yes (BUY) | 29% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 68% | 0.00 | ⏳ pendiente | — |
@@ -285,5 +287,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Spread: CF Cruz Azul (-1.5) | New York City FC (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CF Cruz Azul vs. New York City FC: O/U 2 | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CF Cruz Azul vs. New York City FC: O/U 2 | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| quavoo | CF América vs. Portland Timbers: Both Te | Yes (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | CF Cruz Azul vs. New York City FC: O/U 2 | Under (BUY) | 41% | 0.00 | ⏳ pendiente | — |

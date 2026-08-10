@@ -43961,5 +43961,48 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786324904.7828293,
     "fills": 1
+  },
+  {
+    "timestamp": 1786325005,
+    "timestamp_added": 1786325005.3469353,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-hou-sd-2026-08-09-total-8pt5",
+    "title": "Houston Astros vs. San Diego Padres: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1794.0,
+    "whale_pct": 0.662,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786325005.3469448,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786325057,
+    "timestamp_added": 1786325057.9975822,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-sdg-tij-2026-08-09-sdg",
+    "title": "Will San Diego FC win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 2697.75,
+    "whale_pct": 0.686,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786325057.9975896,
+    "fills": 1
   }
 ]
