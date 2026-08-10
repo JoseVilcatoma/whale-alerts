@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 23:57:37 (hora de Perú)
+Actualizado: 2026-08-09 23:59:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $423.83
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 31 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| HomeRunHazard | 45 | 46 | 7 | +15.05 USD |
+| HomeRunHazard | 45 | 46 | 15 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | UpTheBlues | 112 | 64 | 24 | +6.52 USD |
@@ -271,6 +271,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 38% | 0.93 | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 44% | 0.57 | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 55% | 1.85 | ⏳ pendiente | — |
+| HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 9. | Over (BUY) | 38% | 0.93 | ⏳ pendiente | — |
+| HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 7. | Over (BUY) | 56% | 1.90 | ⏳ pendiente | — |
+| HomeRunHazard | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 38% | 0.91 | ⏳ pendiente | — |
+| HomeRunHazard | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 48% | 1.40 | ⏳ pendiente | — |
+| HomeRunHazard | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 56% | 1.93 | ⏳ pendiente | — |
 | Forecastication2 | LoL: DN SOOPers Challengers vs KT Rolste | DN SOOPers Challengers (BUY) | 50% | 0.67 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.79 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 74.58 | ⏳ pendiente | — |
@@ -293,11 +301,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 2.30 | ⏳ pendiente | — |
-| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 1.47 | ⏳ pendiente | — |
-| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 25.76 | ⏳ pendiente | — |
-| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 1.02 | ⏳ pendiente | — |
-| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.57 | ⏳ pendiente | — |
