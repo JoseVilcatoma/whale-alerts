@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 03:57:36 (hora de Perú)
+Actualizado: 2026-08-10 03:59:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
-| Forecastication2 | 0 | 0 | 13 | +0.00 USD |
+| Forecastication2 | 0 | 0 | 15 | +0.00 USD |
 | GoalLineGhost | 0 | 0 | 15 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
@@ -278,6 +278,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Forecastication2 | Games Total: O/U 2.5 | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| Forecastication2 | Games Total: O/U 2.5 | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 180.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Will Djurgardens IF win on 2026-08-10? | No (BUY) | 44% | 0.00 | ⏳ pendiente | — |
@@ -306,5 +308,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 36% | 0.89 | ⏳ pendiente | — |
 | GoalLineGhost | Will Odense BK win on 2026-08-10? | No (BUY) | 62% | 11.52 | ⏳ pendiente | — |
 | quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 56% | 0.62 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 48% | 0.48 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 44% | 0.44 | ⏳ pendiente | — |
