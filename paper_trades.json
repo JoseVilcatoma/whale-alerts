@@ -47847,5 +47847,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786345904.6466997,
     "fills": 1
+  },
+  {
+    "timestamp": 1786346146,
+    "timestamp_added": 1786346147.0425193,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "por-cds-nac-2026-08-10-spread-home-1pt5",
+    "title": "Spread: CD Santa Clara (-1.5)",
+    "outcome": "CD Santa Clara",
+    "side": "BUY",
+    "whale_usd": 20.8052,
+    "whale_pct": 0.235,
+    "paper_stake_usd": 0.91,
+    "odds_at_bet": 26,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786346147.0425277,
+    "fills": 1
   }
 ]
