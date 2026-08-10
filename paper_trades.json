@@ -48623,8 +48623,8 @@
     "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 602.4527999999999,
-    "whale_pct": 0.51,
+    "whale_usd": 824.4431999999999,
+    "whale_pct": 0.698,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 72,
     "status": "pending",
@@ -48634,7 +48634,7 @@
       "fRibrenlc"
     ],
     "recortado_por_bankroll": true,
-    "last_fill_at": 1786350018.9718857,
-    "fills": 2
+    "last_fill_at": 1786350020.9259746,
+    "fills": 3
   }
 ]
