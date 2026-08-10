@@ -48075,5 +48075,28 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786348741.7135227,
     "fills": 1
+  },
+  {
+    "timestamp": 1786349132,
+    "timestamp_added": 1786349133.5258152,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-hle1-gen-2026-08-10",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 133.32,
+    "whale_pct": 0.114,
+    "paper_stake_usd": 0.44,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "fRibrenlc"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786349133.5258255,
+    "fills": 1
   }
 ]
