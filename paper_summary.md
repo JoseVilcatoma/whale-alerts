@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 19:46:51 (hora de Perú)
+Actualizado: 2026-08-09 19:49:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $342.28
-**Retorno acumulado:** -65.77%
+**Bankroll actual:** $342.36
+**Retorno acumulado:** -65.76%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | theowalcott | 0 | 2 | 7 | +0.00 USD |
 | AV23IUa | 0 | 0 | 6 | +0.00 USD |
-| swisstony | 4 | 3 | 9 | -1.41 USD |
+| swisstony | 4 | 3 | 11 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 111 | 66 | 37 | -20.82 USD |
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 65 | 94 | 61 | -57.54 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 391 | 279 | 85 | -96.07 USD |
+| ferrariChampions2026 | 394 | 279 | 83 | -95.99 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -243,6 +243,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | arg-aaj-rac-2026-08-09-draw | ferrariChampions2026, swisstony |
 | arg-aaj-rac-2026-08-09-spread-home-1pt5 | UpTheBlues, ferrariChampions2026 |
 | arg-aaj-rac-2026-08-09-aaj | RN1, ferrariChampions2026, swisstony |
+| arg-aaj-rac-2026-08-09-total-3pt5 | ferrariChampions2026, swisstony |
 | mlb-hou-sd-2026-08-09-total-7pt5 | quavoo, wr0ngw4yb3tt0r |
 | arg-aaj-rac-2026-08-09-total-2pt5 | ferrariChampions2026, swisstony |
 
@@ -250,6 +251,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Racing Club win on 2026-08-09? | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
+| swisstony | AA Argentinos Juniors vs. Racing Club: O | Under (BUY) | 84% | 0.78 | ⏳ pendiente | — |
+| ferrariChampions2026 | Nashville SC vs. Atlético San Luis: O/U  | Over (BUY) | 87% | 0.56 | ⏳ pendiente | — |
 | swisstony | Will Racing Club win on 2026-08-09? | No (BUY) | 92% | 2.06 | ⏳ pendiente | — |
 | swisstony | Will Racing Club win on 2026-08-09? | No (BUY) | 92% | 0.56 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 69% | 0.90 | ⏳ pendiente | — |
@@ -277,6 +281,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Racing Club win on 2026-08-09? | No (BUY) | 93% | 2.09 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 50% | 0.72 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 75% | 1.03 | ⏳ pendiente | — |
-| ferrariChampions2026 | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 25% | 0.54 | ⏳ pendiente | — |
-| ferrariChampions2026 | Nashville SC vs. Atlético San Luis: O/U  | Over (BUY) | 66% | 0.95 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Racing Club win on 2026-08-09? | No (BUY) | 93% | 4.10 | ⏳ pendiente | — |

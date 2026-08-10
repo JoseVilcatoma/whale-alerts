@@ -1,5 +1,5 @@
 {
-  "bankroll": 342.28046087901026,
+  "bankroll": 342.36046087901025,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8890,6 +8890,21 @@
       "timestamp": 1786322786.606561,
       "bankroll": 342.28,
       "event": "won: cigarettes \u2014 Will CSyD Defensa y Justicia win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786322844.5476422,
+      "bankroll": 342.28,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Dignitas vs LYON (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1786322845.4826028,
+      "bankroll": 342.28,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Dignitas vs LYON (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1786322846.7092295,
+      "bankroll": 342.36,
+      "event": "won: ferrariChampions2026 \u2014 LoL: FlyQuest vs Team Liquid - Game 1 Winner"
     }
   ]
 }
