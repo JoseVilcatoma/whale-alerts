@@ -49132,5 +49132,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786352299.0839505,
     "fills": 1
+  },
+  {
+    "timestamp": 1786352396,
+    "timestamp_added": 1786352396.5608149,
+    "username": "Forecastication2",
+    "wallet": "0xdd5ef115f801999575b03d78d0115ad8b2d59040",
+    "slug": "lol-dnf-drx-2026-08-10-total-games-2pt5",
+    "title": "Games Total: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 31.2,
+    "whale_pct": 0.453,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786352396.5608258,
+    "fills": 1
   }
 ]
