@@ -48985,5 +48985,70 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786351648.0866585,
     "fills": 1
+  },
+  {
+    "timestamp": 1786351748,
+    "timestamp_added": 1786351749.358905,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "slo-mur-rad-2026-08-10-mur",
+    "title": "Will Mura Murska Sobota win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 178.0,
+    "whale_pct": 0.207,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786351749.3589149,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786351757,
+    "timestamp_added": 1786351757.8858817,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnsc-ktc-2026-08-10",
+    "title": "LoL: DN SOOPers Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+    "outcome": "KT Rolster Challengers",
+    "side": "BUY",
+    "whale_usd": 202.79999999999998,
+    "whale_pct": 0.174,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Forecastication2"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786351757.8858926,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786351830,
+    "timestamp_added": 1786351831.1381276,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "swe-vas-dju-2026-08-10-dju",
+    "title": "Will Djurgardens IF win on 2026-08-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 223.9292,
+    "whale_pct": 1.96,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Forecastication2",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786351831.1381366,
+    "fills": 1
   }
 ]
