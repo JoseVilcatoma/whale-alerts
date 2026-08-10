@@ -1,5 +1,5 @@
 {
-  "bankroll": 342.36046087901025,
+  "bankroll": 341.75046087901023,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8910,6 +8910,21 @@
       "timestamp": 1786322970.7860034,
       "bankroll": 342.36,
       "event": "won: RN1 \u2014 Will CR Vasco da Gama win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786324161.2428463,
+      "bankroll": 342.36,
+      "event": "lost: StasPanda \u2014 Counter-Strike: BESTIA vs Isurus (BO3) - BetBoom Storm Group Stage"
+    },
+    {
+      "timestamp": 1786324161.3430674,
+      "bankroll": 342.36,
+      "event": "lost: StasPanda \u2014 Counter-Strike: BESTIA vs Isurus (BO3) - BetBoom Storm Group Stage"
+    },
+    {
+      "timestamp": 1786324161.7561674,
+      "bankroll": 341.75,
+      "event": "lost: StasPanda \u2014 Counter-Strike: BESTIA vs Isurus (BO3) - BetBoom Storm Group Stage"
     }
   ]
 }
