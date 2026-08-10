@@ -1,5 +1,5 @@
 {
-  "bankroll": 423.82985199982295,
+  "bankroll": 423.2768901338474,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -10330,6 +10330,81 @@
       "timestamp": 1786337340.1666708,
       "bankroll": 423.83,
       "event": "won: ferrariChampions2026 \u2014 Will Nashville SC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786338590.5197973,
+      "bankroll": 423.83,
+      "event": "won: ferrariChampions2026 \u2014 Austin FC vs. Club Puebla: O/U 3.5"
+    },
+    {
+      "timestamp": 1786338591.1293614,
+      "bankroll": 423.83,
+      "event": "won: ferrariChampions2026 \u2014 Austin FC vs. Club Puebla: O/U 3.5"
+    },
+    {
+      "timestamp": 1786338591.426485,
+      "bankroll": 423.83,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Austin FC (-1.5)"
+    },
+    {
+      "timestamp": 1786338591.7044463,
+      "bankroll": 423.83,
+      "event": "won: ferrariChampions2026 \u2014 Will Club Puebla win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786338592.0047169,
+      "bankroll": 423.83,
+      "event": "won: ferrariChampions2026 \u2014 Austin FC vs. Club Puebla: O/U 1.5"
+    },
+    {
+      "timestamp": 1786338592.3027666,
+      "bankroll": 423.83,
+      "event": "won: ferrariChampions2026 \u2014 Austin FC vs. Club Puebla: O/U 4.5"
+    },
+    {
+      "timestamp": 1786338593.9076636,
+      "bankroll": 423.83,
+      "event": "won: UpTheBlues \u2014 Austin FC vs. Club Puebla: O/U 5.5"
+    },
+    {
+      "timestamp": 1786338594.0078764,
+      "bankroll": 423.83,
+      "event": "lost: ferrariChampions2026 \u2014 Austin FC vs. Club Puebla: O/U 4.5"
+    },
+    {
+      "timestamp": 1786338594.1080878,
+      "bankroll": 423.83,
+      "event": "won: UpTheBlues \u2014 Austin FC vs. Club Puebla: O/U 4.5"
+    },
+    {
+      "timestamp": 1786338594.4086506,
+      "bankroll": 423.83,
+      "event": "lost: ferrariChampions2026 \u2014 Austin FC vs. Club Puebla: O/U 3.5"
+    },
+    {
+      "timestamp": 1786338597.120706,
+      "bankroll": 422.95,
+      "event": "lost: ferrariChampions2026 \u2014 Austin FC vs. Club Puebla: O/U 3.5"
+    },
+    {
+      "timestamp": 1786338597.220927,
+      "bankroll": 423.16,
+      "event": "won: UpTheBlues \u2014 Austin FC vs. Club Puebla: O/U 4.5"
+    },
+    {
+      "timestamp": 1786338597.5214794,
+      "bankroll": 423.16,
+      "event": "won: UpTheBlues \u2014 Austin FC vs. Club Puebla: O/U 4.5"
+    },
+    {
+      "timestamp": 1786338598.3229146,
+      "bankroll": 422.57,
+      "event": "lost: ferrariChampions2026 \u2014 Austin FC vs. Club Puebla: O/U 3.5"
+    },
+    {
+      "timestamp": 1786338599.4192574,
+      "bankroll": 423.28,
+      "event": "won: UpTheBlues \u2014 Austin FC vs. Club Puebla: O/U 4.5"
     }
   ]
 }
