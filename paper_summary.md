@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 03:40:51 (hora de Perú)
+Actualizado: 2026-08-10 03:42:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| quavoo | 121 | 107 | 12 | -16.28 USD |
+| quavoo | 121 | 107 | 13 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Djdjdjekekek | 0 | 4 | 8 | -31.98 USD |
@@ -275,6 +275,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CA All Boys (-1.5) | CA All Boys (BUY) | 18% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Will Silkeborg IF win on 2026-08-10? | Yes (BUY) | 37% | 0.00 | ⏳ pendiente | — |
@@ -304,4 +305,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 44% | 0.42 | ⏳ pendiente | — |
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.91 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 43% | 0.44 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 45% | 0.45 | ⏳ pendiente | — |
