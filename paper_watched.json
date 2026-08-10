@@ -2,19 +2,19 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1786304475.3976018,
-    "roi_pct": 235.51,
-    "short_term_pct": 70.0
+    "roi_pct": 227.23,
+    "short_term_pct": 40.0
   },
   "0xdc41c39b95453c943174f369926018f6963bdd7e": {
     "username": "quavoo",
     "added_at": 1786344678.4851859,
-    "roi_pct": 388.34,
-    "short_term_pct": 60.0
+    "roi_pct": 386.2,
+    "short_term_pct": 90.0
   },
   "0xdd5ef115f801999575b03d78d0115ad8b2d59040": {
     "username": "Forecastication2",
     "added_at": 1786360975.9700432,
-    "roi_pct": 253.12,
+    "roi_pct": 252.93,
     "short_term_pct": 100.0
   },
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
@@ -32,7 +32,7 @@
   "0x0346afae2603313d2bbee96b628536c8cbe352a5": {
     "username": "GoalLineGhost",
     "added_at": 1786366671.1814253,
-    "roi_pct": 103.33,
+    "roi_pct": 99.17,
     "short_term_pct": 100.0
   },
   "0x282f81747948a90105d944b5a5a2043825d67c4e": {
@@ -41,22 +41,22 @@
     "roi_pct": 112.18,
     "short_term_pct": 100.0
   },
-  "0x684baa57c338c2549aec0aa3f034f695d72a8409": {
-    "username": "monkeymashingkeyboard",
-    "added_at": 1786368562.8813972,
-    "roi_pct": 384.71,
-    "short_term_pct": 40.0
-  },
   "0x5dd9da6e5e2dda83a10864628c2dc714d642420f": {
     "username": "",
     "added_at": 1786368562.8814075,
-    "roi_pct": 63.97,
+    "roi_pct": 57.1,
     "short_term_pct": 100.0
   },
   "0x032eb1bc893940263ad0b01889f262fc232f2a9e": {
     "username": "purplegatto",
     "added_at": 1786368562.881409,
-    "roi_pct": 26.46,
-    "short_term_pct": 70.0
+    "roi_pct": 26.41,
+    "short_term_pct": 30.0
+  },
+  "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
+    "username": "ferrariChampions2026",
+    "added_at": 1786369506.2585802,
+    "roi_pct": 178.23,
+    "short_term_pct": 80.0
   }
 }

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 08:44:57 (hora de Perú)
+Actualizado: 2026-08-10 08:47:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $228.95
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 5 | +0.00 USD |
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 68 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 69 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 2 | 7 | +0.00 USD |
 |  | 0 | 0 | 6 | +0.00 USD |
 | lzh1 | 0 | 0 | 1 | +0.00 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 0 | 12 | 5 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 507 | 381 | 83 | -138.54 USD |
+| ferrariChampions2026 | 507 | 381 | 84 | -138.54 USD |
 | TAIWANNUMBERONE | 26 | 38 | 2 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -294,6 +294,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: Ilbirs eSports vs Zero Tenacity  | Ilbirs eSports (BUY) | 22% | 0.00 | ⏳ pendiente | — |
+| GoalLineGhost | Will Silkeborg IF win on 2026-08-10? | Yes (BUY) | 35% | 0.00 | ⏳ pendiente | — |
 | quavoo | New York Mets vs. Atlanta Braves: O/U 8. | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Silkeborg IF (-2.5) | Odense BK (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 |  | LoL: The Ruddy Sack vs Lundqvist Lightsi | The Ruddy Sack (BUY) | 87% | 0.00 | ⏳ pendiente | — |
@@ -322,5 +324,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 40% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 35% | 0.00 | ⏳ pendiente | — |
