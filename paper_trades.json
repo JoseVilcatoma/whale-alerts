@@ -25947,8 +25947,8 @@
     "whale_pct": 0.214,
     "paper_stake_usd": 0.77,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.9,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786253205.4927738,
@@ -26067,8 +26067,8 @@
     "whale_pct": 0.102,
     "paper_stake_usd": 0.37,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.43,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786253750.8751707,
@@ -31093,8 +31093,8 @@
     "whale_pct": 0.447,
     "paper_stake_usd": 1.17,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.37,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786283567.6052096,
@@ -34620,8 +34620,8 @@
     "whale_pct": 0.109,
     "paper_stake_usd": 0.18,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.21,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786306768.0532455,
@@ -43762,7 +43762,7 @@
     "whale_pct": 0.266,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 42,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "quavoo"
@@ -44018,8 +44018,8 @@
     "whale_pct": 0.225,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "quavoo"
     ],
@@ -44145,7 +44145,7 @@
     "whale_pct": 0.183,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "UpTheBlues"
@@ -44189,7 +44189,7 @@
     "whale_pct": 0.114,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "UpTheBlues"
@@ -44253,7 +44253,7 @@
     "whale_pct": 0.362,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "UpTheBlues"
@@ -44275,7 +44275,7 @@
     "whale_pct": 0.109,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "UpTheBlues"
@@ -44407,8 +44407,8 @@
     "whale_pct": 0.135,
     "paper_stake_usd": 0.46,
     "odds_at_bet": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.66,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -44429,8 +44429,8 @@
     "whale_pct": 0.264,
     "paper_stake_usd": 0.9,
     "odds_at_bet": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.3,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -44839,8 +44839,8 @@
     "whale_pct": 0.18,
     "paper_stake_usd": 0.61,
     "odds_at_bet": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.61,
     "overlaps_with": [
       "quavoo"
     ],
@@ -45059,8 +45059,8 @@
     "whale_pct": 0.324,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 35,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "UpTheBlues",
       "quavoo"
@@ -45284,8 +45284,8 @@
     "whale_pct": 0.579,
     "paper_stake_usd": 1.96,
     "odds_at_bet": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.96,
     "overlaps_with": [
       "ferrariChampions2026",
       "quavoo"
@@ -45307,8 +45307,8 @@
     "whale_pct": 0.105,
     "paper_stake_usd": 0.36,
     "odds_at_bet": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.36,
     "overlaps_with": [
       "ferrariChampions2026",
       "quavoo"
@@ -45350,8 +45350,8 @@
     "whale_pct": 0.369,
     "paper_stake_usd": 1.33,
     "odds_at_bet": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.33,
     "overlaps_with": [
       "ferrariChampions2026",
       "quavoo"
@@ -45415,8 +45415,8 @@
     "whale_pct": 0.273,
     "paper_stake_usd": 0.98,
     "odds_at_bet": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.98,
     "overlaps_with": [
       "UpTheBlues",
       "quavoo"
@@ -45438,8 +45438,8 @@
     "whale_pct": 0.142,
     "paper_stake_usd": 0.51,
     "odds_at_bet": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.51,
     "overlaps_with": [
       "ferrariChampions2026",
       "quavoo"
@@ -45461,8 +45461,8 @@
     "whale_pct": 0.132,
     "paper_stake_usd": 0.47,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.47,
     "overlaps_with": [
       "ferrariChampions2026",
       "quavoo"
@@ -45790,8 +45790,8 @@
     "whale_pct": 0.153,
     "paper_stake_usd": 0.52,
     "odds_at_bet": 35,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.97,
     "overlaps_with": [
       "UpTheBlues",
       "quavoo"
@@ -45813,8 +45813,8 @@
     "whale_pct": 0.144,
     "paper_stake_usd": 0.49,
     "odds_at_bet": 35,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.91,
     "overlaps_with": [
       "UpTheBlues",
       "quavoo"
@@ -46208,8 +46208,8 @@
     "whale_pct": 0.331,
     "paper_stake_usd": 1.2,
     "odds_at_bet": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.2,
     "overlaps_with": [
       "UpTheBlues",
       "quavoo"
@@ -46231,8 +46231,8 @@
     "whale_pct": 0.32,
     "paper_stake_usd": 1.16,
     "odds_at_bet": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.16,
     "overlaps_with": [
       "UpTheBlues",
       "quavoo"
@@ -46522,8 +46522,8 @@
     "whale_pct": 0.12,
     "paper_stake_usd": 0.44,
     "odds_at_bet": 37,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.75,
     "overlaps_with": [
       "UpTheBlues",
       "quavoo"
@@ -46737,8 +46737,8 @@
     "whale_pct": 3.27,
     "paper_stake_usd": 2.71,
     "odds_at_bet": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.71,
     "overlaps_with": [
       "UpTheBlues",
       "ferrariChampions2026",

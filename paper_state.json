@@ -1,5 +1,5 @@
 {
-  "bankroll": 391.4060622539454,
+  "bankroll": 387.62108237784145,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -10870,6 +10870,136 @@
       "timestamp": 1786344531.7639732,
       "bankroll": 391.41,
       "event": "lost: ferrariChampions2026 \u2014 Will San Diego FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345158.3354082,
+      "bankroll": 392.31,
+      "event": "won: quavoo \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345158.4356608,
+      "bankroll": 392.74,
+      "event": "won: quavoo \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345158.5358727,
+      "bankroll": 394.12,
+      "event": "won: quavoo \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345158.6360373,
+      "bankroll": 394.33,
+      "event": "won: quavoo \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345159.6280913,
+      "bankroll": 394.33,
+      "event": "won: UpTheBlues \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345159.7283082,
+      "bankroll": 394.33,
+      "event": "lost: UpTheBlues \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345159.8285012,
+      "bankroll": 394.33,
+      "event": "won: quavoo \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345159.9287019,
+      "bankroll": 394.33,
+      "event": "won: quavoo \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345160.0289335,
+      "bankroll": 394.33,
+      "event": "won: quavoo \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345160.1291273,
+      "bankroll": 394.33,
+      "event": "won: quavoo \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345160.2293184,
+      "bankroll": 394.99,
+      "event": "won: quavoo \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345160.329511,
+      "bankroll": 396.29,
+      "event": "won: quavoo \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345160.4296703,
+      "bankroll": 395.68,
+      "event": "lost: UpTheBlues \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345160.5298736,
+      "bankroll": 395.68,
+      "event": "lost: ferrariChampions2026 \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345160.629995,
+      "bankroll": 393.72,
+      "event": "lost: UpTheBlues \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345160.730218,
+      "bankroll": 393.36,
+      "event": "lost: UpTheBlues \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345160.8304126,
+      "bankroll": 392.03,
+      "event": "lost: UpTheBlues \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345160.9306047,
+      "bankroll": 391.05,
+      "event": "lost: ferrariChampions2026 \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345161.030818,
+      "bankroll": 390.54,
+      "event": "lost: UpTheBlues \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345161.131013,
+      "bankroll": 390.07,
+      "event": "lost: UpTheBlues \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345161.5243018,
+      "bankroll": 391.03,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345161.6245368,
+      "bankroll": 391.94,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345162.2195516,
+      "bankroll": 390.74,
+      "event": "lost: ferrariChampions2026 \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345162.3196661,
+      "bankroll": 389.58,
+      "event": "lost: ferrariChampions2026 \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345162.9207888,
+      "bankroll": 390.33,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786345163.2213857,
+      "bankroll": 387.62,
+      "event": "lost: NordhavenCap \u2014 Will CF Am\u00e9rica win on 2026-08-09?"
     }
   ]
 }
