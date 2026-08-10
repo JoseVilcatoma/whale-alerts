@@ -1,5 +1,5 @@
 {
-  "bankroll": 289.084777041116,
+  "bankroll": 337.81820489644315,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8540,6 +8540,131 @@
       "timestamp": 1786319983.5587864,
       "bankroll": 289.08,
       "event": "lost: RN1 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786320102.8861039,
+      "bankroll": 317.38,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1786320103.1948085,
+      "bankroll": 317.38,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Tampa Bay Rays vs. Seattle Mariners: 1st 5 Innings O/U 4.5"
+    },
+    {
+      "timestamp": 1786320106.1419961,
+      "bankroll": 317.38,
+      "event": "lost: 1winstreak1 \u2014 Spread: Baltimore Orioles (-1.5)"
+    },
+    {
+      "timestamp": 1786320106.4695425,
+      "bankroll": 317.38,
+      "event": "lost: 1winstreak1 \u2014 Spread: Texas Rangers (-1.5)"
+    },
+    {
+      "timestamp": 1786320107.0705323,
+      "bankroll": 317.38,
+      "event": "lost: 1winstreak1 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1786320107.270906,
+      "bankroll": 316.99,
+      "event": "lost: RN1 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1786320109.1337652,
+      "bankroll": 316.99,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1786320112.1743846,
+      "bankroll": 316.99,
+      "event": "lost: 1winstreak1 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1786320113.3996053,
+      "bankroll": 322.59,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Tampa Bay Rays (-2.5)"
+    },
+    {
+      "timestamp": 1786320113.499872,
+      "bankroll": 318.84,
+      "event": "lost: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1786320113.8409255,
+      "bankroll": 316.72,
+      "event": "lost: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 8.5"
+    },
+    {
+      "timestamp": 1786320113.9410863,
+      "bankroll": 312.0,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Tampa Bay Rays (-2.5)"
+    },
+    {
+      "timestamp": 1786320114.0412028,
+      "bankroll": 314.35,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 8.5"
+    },
+    {
+      "timestamp": 1786320114.1413202,
+      "bankroll": 317.11,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1786320114.5420609,
+      "bankroll": 346.96,
+      "event": "won: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-2.5)"
+    },
+    {
+      "timestamp": 1786320114.642252,
+      "bankroll": 348.95,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1786320114.742445,
+      "bankroll": 339.97,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Tampa Bay Rays (-2.5)"
+    },
+    {
+      "timestamp": 1786320114.8426316,
+      "bankroll": 338.21,
+      "event": "lost: 1winstreak1 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1786320114.9428196,
+      "bankroll": 337.9,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Tampa Bay Rays (-2.5)"
+    },
+    {
+      "timestamp": 1786320115.0430279,
+      "bankroll": 334.76,
+      "event": "lost: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1786320115.1432264,
+      "bankroll": 338.62,
+      "event": "won: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-2.5)"
+    },
+    {
+      "timestamp": 1786320115.2434285,
+      "bankroll": 338.08,
+      "event": "lost: 1winstreak1 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1786320115.343594,
+      "bankroll": 337.64,
+      "event": "lost: 1winstreak1 \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 8.5"
+    },
+    {
+      "timestamp": 1786320167.1428933,
+      "bankroll": 337.82,
+      "event": "won: 1winstreak1 \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786320168.958201,
+      "bankroll": 337.82,
+      "event": "lost: 1winstreak1 \u2014 Spread: Seattle Mariners (-2.5)"
     }
   ]
 }
