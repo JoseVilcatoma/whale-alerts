@@ -52705,5 +52705,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786365514.1526976,
     "fills": 5
+  },
+  {
+    "timestamp": 1786365765,
+    "timestamp_added": 1786365766.542485,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "slo-mur-rad-2026-08-10-mur",
+    "title": "Will Mura Murska Sobota win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 190.60999999999999,
+    "whale_pct": 0.295,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786365766.5424948,
+    "fills": 1
   }
 ]

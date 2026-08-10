@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 07:42:42 (hora de Perú)
+Actualizado: 2026-08-10 07:44:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $230.36
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 121 | 108 | 37 | -16.66 USD |
+| quavoo | 121 | 108 | 38 | -16.66 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -287,6 +287,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Mura Murska Sobota win on 2026-08-1 | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CD Nacional (-1.5) | CD Santa Clara (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | lzh1 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | SDTrading | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 54% | 18.55 | ⏳ pendiente | — |
@@ -316,4 +317,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 92% | 0.89 | ⏳ pendiente | — |
 | GoalLineGhost | Will IF Brommapojkarna win on 2026-08-10 | No (BUY) | 89% | 1.62 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 81% | 0.76 | ⏳ pendiente | — |
-| quavoo | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 7.43 | ⏳ pendiente | — |
