@@ -53468,5 +53468,142 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786366877.9018505,
     "fills": 2
+  },
+  {
+    "timestamp": 1786366895,
+    "timestamp_added": 1786366895.5844665,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dnf-2026-08-10-game2",
+    "title": "LoL: Gen.G vs DN SOOPers - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 212.16942300000002,
+    "whale_pct": 0.123,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786366895.5844765,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786366898,
+    "timestamp_added": 1786366899.3713324,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dnf-2026-08-10",
+    "title": "LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 371.52000000000004,
+    "whale_pct": 0.211,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+      "BrotherObama",
+      "lzh1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786366899.371343,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786366903,
+    "timestamp_added": 1786366903.6677194,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dnf-2026-08-10-game2",
+    "title": "LoL: Gen.G vs DN SOOPers - Game 2 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 201.42239999999998,
+    "whale_pct": 0.114,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786366903.6677296,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786366931,
+    "timestamp_added": 1786366931.6281312,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dnf-2026-08-10-game2",
+    "title": "LoL: Gen.G vs DN SOOPers - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 1450.3365999999996,
+    "whale_pct": 0.823,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786366933.5505855,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786366969,
+    "timestamp_added": 1786366969.4392297,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dnf-2026-08-10",
+    "title": "LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 268.367,
+    "whale_pct": 0.147,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+      "BrotherObama",
+      "lzh1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786366969.4392395,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786366986,
+    "timestamp_added": 1786366987.305813,
+    "username": "Forecastication2",
+    "wallet": "0xdd5ef115f801999575b03d78d0115ad8b2d59040",
+    "slug": "swe-vas-dju-2026-08-10-dju",
+    "title": "Will Djurgardens IF win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 9.69,
+    "whale_pct": 0.12,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786366987.3058236,
+    "fills": 1
   }
 ]
