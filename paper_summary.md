@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 23:34:48 (hora de Perú)
+Actualizado: 2026-08-09 23:36:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $378.54
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | quavoo | 93 | 105 | 32 | -27.86 USD |
 | Djdjdjekekek | 0 | 4 | 8 | -31.98 USD |
-| fRibrenlc | 8 | 12 | 21 | -40.36 USD |
+| fRibrenlc | 8 | 12 | 25 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 466 | 307 | 86 | -106.07 USD |
@@ -271,6 +271,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Tempo vs. Atlanta Dream: O/U 184 | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
@@ -296,7 +300,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | Will CF América win on 2026-08-09? | No (BUY) | 65% | 2.71 | ⏳ pendiente | — |
 | NordhavenCap | CF América vs. Portland Timbers: Portlan | Over (BUY) | 43% | 4.06 | ⏳ pendiente | — |
 | NordhavenCap | Spread: Portland Timbers (-1.5) | Portland Timbers (BUY) | 7% | 0.93 | ⏳ pendiente | — |
-| NordhavenCap | CF América vs. Portland Timbers: O/U 3.5 | Over (BUY) | 34% | 5.35 | ⏳ pendiente | — |
-| NordhavenCap | CF América vs. Portland Timbers: Portlan | Over (BUY) | 11% | 0.80 | ⏳ pendiente | — |
-| NordhavenCap | Spread: CF América (-1.5) | Portland Timbers (BUY) | 91% | 4.90 | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 55% | 3.39 | ⏳ pendiente | — |
