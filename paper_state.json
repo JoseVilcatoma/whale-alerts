@@ -1,5 +1,5 @@
 {
-  "bankroll": 400.2825607704472,
+  "bankroll": 386.32256077044724,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -10750,6 +10750,51 @@
       "timestamp": 1786342991.8527188,
       "bankroll": 400.28,
       "event": "lost: NordhavenCap \u2014 Spread: Portland Timbers (-1.5)"
+    },
+    {
+      "timestamp": 1786343046.169052,
+      "bankroll": 399.22,
+      "event": "lost: UpTheBlues \u2014 Spread: CF Am\u00e9rica (-1.5)"
+    },
+    {
+      "timestamp": 1786343046.5697832,
+      "bankroll": 398.28,
+      "event": "lost: UpTheBlues \u2014 Spread: CF Am\u00e9rica (-1.5)"
+    },
+    {
+      "timestamp": 1786343046.9777696,
+      "bankroll": 397.76,
+      "event": "lost: ferrariChampions2026 \u2014 CF Am\u00e9rica vs. Portland Timbers: O/U 4.5"
+    },
+    {
+      "timestamp": 1786343047.578821,
+      "bankroll": 397.27,
+      "event": "lost: ferrariChampions2026 \u2014 CF Am\u00e9rica vs. Portland Timbers: O/U 4.5"
+    },
+    {
+      "timestamp": 1786343048.4801354,
+      "bankroll": 396.48,
+      "event": "lost: ferrariChampions2026 \u2014 CF Am\u00e9rica vs. Portland Timbers: O/U 4.5"
+    },
+    {
+      "timestamp": 1786343049.0810013,
+      "bankroll": 396.08,
+      "event": "lost: ferrariChampions2026 \u2014 CF Am\u00e9rica vs. Portland Timbers: O/U 4.5"
+    },
+    {
+      "timestamp": 1786343049.682036,
+      "bankroll": 391.18,
+      "event": "lost: NordhavenCap \u2014 Spread: CF Am\u00e9rica (-1.5)"
+    },
+    {
+      "timestamp": 1786343050.188111,
+      "bankroll": 387.12,
+      "event": "lost: NordhavenCap \u2014 CF Am\u00e9rica vs. Portland Timbers: Portland Timbers O/U 1.5"
+    },
+    {
+      "timestamp": 1786343111.0795379,
+      "bankroll": 386.32,
+      "event": "lost: NordhavenCap \u2014 CF Am\u00e9rica vs. Portland Timbers: Portland Timbers O/U 2.5"
     }
   ]
 }

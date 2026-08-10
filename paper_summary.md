@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 01:23:22 (hora de Perú)
+Actualizado: 2026-08-10 01:25:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $400.28
-**Retorno acumulado:** -59.97%
+**Bankroll actual:** $386.32
+**Retorno acumulado:** -61.37%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -23,16 +23,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 45 | 46 | 15 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 122 | 67 | 11 | +2.87 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
+| UpTheBlues | 122 | 69 | 9 | +0.87 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 3 | +0.00 USD |
-| NordhavenCap | 0 | 1 | 5 | -0.93 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
+| NordhavenCap | 0 | 4 | 2 | -10.69 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | quavoo | 111 | 107 | 12 | -21.15 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 483 | 352 | 24 | -132.14 USD |
+| ferrariChampions2026 | 483 | 356 | 20 | -134.34 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
