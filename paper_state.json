@@ -1,5 +1,5 @@
 {
-  "bankroll": 339.98668779082766,
+  "bankroll": 341.5576681829845,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8825,6 +8825,26 @@
       "timestamp": 1786321047.5261211,
       "bankroll": 339.99,
       "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Chicago White Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786321100.4154544,
+      "bankroll": 339.38,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Chicago White Sox (-2.5)"
+    },
+    {
+      "timestamp": 1786321100.5156024,
+      "bankroll": 341.56,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Chicago White Sox (-2.5)"
+    },
+    {
+      "timestamp": 1786321159.0221112,
+      "bankroll": 341.56,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1786321159.422777,
+      "bankroll": 341.56,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-2.5)"
     }
   ]
 }
