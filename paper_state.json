@@ -1,5 +1,5 @@
 {
-  "bankroll": 340.80921222868767,
+  "bankroll": 340.62138762323576,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -9330,6 +9330,31 @@
       "timestamp": 1786328312.520738,
       "bankroll": 340.81,
       "event": "won: ferrariChampions2026 \u2014 Houston Astros vs. San Diego Padres: O/U 6.5"
+    },
+    {
+      "timestamp": 1786329218.1086528,
+      "bankroll": 340.47,
+      "event": "lost: RN1 \u2014 Will CA Bucaramanga win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786329218.8855073,
+      "bankroll": 340.47,
+      "event": "won: RN1 \u2014 Will CA Bucaramanga win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786329219.38095,
+      "bankroll": 340.55,
+      "event": "won: RN1 \u2014 Will CA Paranaense win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786329224.7902267,
+      "bankroll": 340.57,
+      "event": "won: RN1 \u2014 Will CA Paranaense win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786329225.1813176,
+      "bankroll": 340.62,
+      "event": "won: RN1 \u2014 Will CSD Colo-Colo win on 2026-08-09?"
     }
   ]
 }
