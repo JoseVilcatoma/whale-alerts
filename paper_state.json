@@ -1,5 +1,5 @@
 {
-  "bankroll": 201.56381269271503,
+  "bankroll": 201.58464602604838,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12515,6 +12515,26 @@
       "timestamp": 1786398201.666972,
       "bankroll": 201.56,
       "event": "lost: RN1 \u2014 Will Silkeborg IF win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786399430.326523,
+      "bankroll": 201.56,
+      "event": "lost: GoalLineGhost \u2014 Spread: CA All Boys (-1.5)"
+    },
+    {
+      "timestamp": 1786399433.5884418,
+      "bankroll": 201.56,
+      "event": "lost: GoalLineGhost \u2014 Will CA All Boys win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786399434.318039,
+      "bankroll": 201.58,
+      "event": "won: GoalLineGhost \u2014 CA All Boys vs. CA Central Norte Salta: O/U 4.5"
+    },
+    {
+      "timestamp": 1786399438.3979259,
+      "bankroll": 201.58,
+      "event": "won: GoalLineGhost \u2014 CA All Boys vs. CA Central Norte Salta: O/U 4.5"
     }
   ]
 }
