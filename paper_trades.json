@@ -50756,5 +50756,28 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786358985.2069576,
     "fills": 1
+  },
+  {
+    "timestamp": 1786359115,
+    "timestamp_added": 1786359116.2576084,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "swe-sir-bro-2026-08-10-bro",
+    "title": "Will IF Brommapojkarna win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 116.0,
+    "whale_pct": 0.919,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 10,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Forecastication2",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786359116.2576187,
+    "fills": 1
   }
 ]
