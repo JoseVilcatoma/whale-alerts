@@ -48357,9 +48357,9 @@
     "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 315.1902,
-    "whale_pct": 0.265,
-    "paper_stake_usd": 1.03,
+    "whale_usd": 783.6208330000001,
+    "whale_pct": 0.659,
+    "paper_stake_usd": 2.55,
     "odds_at_bet": 51,
     "status": "pending",
     "profit_usd": 0.0,
@@ -48368,7 +48368,99 @@
       "fRibrenlc"
     ],
     "recortado_por_bankroll": false,
-    "last_fill_at": 1786349523.1310444,
-    "fills": 2
+    "last_fill_at": 1786349550.0434308,
+    "fills": 5
+  },
+  {
+    "timestamp": 1786349536,
+    "timestamp_added": 1786349537.400832,
+    "username": "Forecastication2",
+    "wallet": "0xdd5ef115f801999575b03d78d0115ad8b2d59040",
+    "slug": "swe-vas-dju-2026-08-10-dju",
+    "title": "Will Djurgardens IF win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 27.500000000000004,
+    "whale_pct": 0.42,
+    "paper_stake_usd": 1.63,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786349537.400841,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786349572,
+    "timestamp_added": 1786349572.2581758,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-hle1-gen-2026-08-10",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 138.9408,
+    "whale_pct": 0.117,
+    "paper_stake_usd": 0.45,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "fRibrenlc"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786349572.2581847,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786349592,
+    "timestamp_added": 1786349593.5210166,
+    "username": "Forecastication2",
+    "wallet": "0xdd5ef115f801999575b03d78d0115ad8b2d59040",
+    "slug": "swe-vas-dju-2026-08-10-dju",
+    "title": "Will Djurgardens IF win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 9.350000000000001,
+    "whale_pct": 0.142,
+    "paper_stake_usd": 0.55,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786349593.5210266,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786349648,
+    "timestamp_added": 1786349649.2210226,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-hle1-gen-2026-08-10",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 135.3,
+    "whale_pct": 0.113,
+    "paper_stake_usd": 0.44,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "fRibrenlc"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786349649.2210314,
+    "fills": 1
   }
 ]
