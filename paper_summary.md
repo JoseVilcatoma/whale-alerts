@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 03:14:14 (hora de Perú)
+Actualizado: 2026-08-10 03:16:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| quavoo | 121 | 107 | 9 | -16.28 USD |
+| quavoo | 121 | 107 | 10 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Djdjdjekekek | 0 | 4 | 8 | -31.98 USD |
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 490 | 369 | 11 | -140.34 USD |
+| ferrariChampions2026 | 490 | 369 | 12 | -140.34 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -265,6 +265,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-hou-sd-2026-08-09-spread-home-3pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | lec-ame-por-2026-08-09-spread-away-1pt5 | NordhavenCap, UpTheBlues |
 | lec-ame-por-2026-08-09-spread-home-1pt5 | NordhavenCap, UpTheBlues |
+| mlb-kc-lad-2026-08-10-spread-home-1pt5 | HomeRunHazard, quavoo |
 | lec-ame-por-2026-08-09-total-3pt5 | NordhavenCap, ferrariChampions2026 |
 | lol-hle1-gen-2026-08-10 | Djdjdjekekek, fRibrenlc, ferrariChampions2026 |
 | swe-sir-bro-2026-08-10-sir | GoalLineGhost, quavoo |
@@ -274,6 +275,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 56% | 0.62 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 48% | 0.48 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 44% | 0.44 | ⏳ pendiente | — |
 | Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 55% | 0.55 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 48% | 0.45 | ⏳ pendiente | — |
@@ -302,5 +305,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 54% | 0.81 | ⏳ pendiente | — |
 | GoalLineGhost | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 16.38 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CD Santa Clara (-1.5) | CD Santa Clara (BUY) | 26% | 0.91 | ⏳ pendiente | — |
-| GoalLineGhost | Spread: IK Sirius (-1.5) | IK Sirius (BUY) | 52% | 18.98 | ⏳ pendiente | — |
-| quavoo | Toronto Tempo vs. Atlanta Dream: O/U 185 | Over (BUY) | 55% | 1.34 | ⏳ pendiente | — |

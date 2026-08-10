@@ -48462,5 +48462,50 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786349649.2210314,
     "fills": 1
+  },
+  {
+    "timestamp": 1786349721,
+    "timestamp_added": 1786349722.05612,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-hle1-gen-2026-08-10",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 149.08319999999998,
+    "whale_pct": 0.124,
+    "paper_stake_usd": 0.48,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "fRibrenlc"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786349722.0561292,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786349746,
+    "timestamp_added": 1786349746.804306,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-kc-lad-2026-08-10-spread-home-1pt5",
+    "title": "Spread: Los Angeles Dodgers (-1.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 117.60000000000001,
+    "whale_pct": 0.161,
+    "paper_stake_usd": 0.62,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786349746.80432,
+    "fills": 1
   }
 ]
