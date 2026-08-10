@@ -52663,5 +52663,47 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786365389.027455,
     "fills": 1
+  },
+  {
+    "timestamp": 1786365483,
+    "timestamp_added": 1786365484.2963064,
+    "username": "lzh1",
+    "wallet": "0x282f81747948a90105d944b5a5a2043825d67c4e",
+    "slug": "lol-gen-dnf-2026-08-10",
+    "title": "LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 25.711199999999998,
+    "whale_pct": 0.108,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786365484.2963166,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786365499,
+    "timestamp_added": 1786365499.7863488,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "por-cds-nac-2026-08-10-spread-away-1pt5",
+    "title": "Spread: CD Nacional (-1.5)",
+    "outcome": "CD Santa Clara",
+    "side": "BUY",
+    "whale_usd": 379.9198,
+    "whale_pct": 2.215,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786365514.1526976,
+    "fills": 5
   }
 ]
