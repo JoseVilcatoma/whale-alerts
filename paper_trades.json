@@ -56150,5 +56150,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786401462.011109,
     "fills": 1
+  },
+  {
+    "timestamp": 1786401557,
+    "timestamp_added": 1786401557.676162,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-ban-bel-2026-08-10-bel",
+    "title": "Will CA Belgrano win on 2026-08-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 270.13,
+    "whale_pct": 0.12,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786401557.6761675,
+    "fills": 1
   }
 ]
