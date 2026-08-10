@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 19:53:06 (hora de Perú)
+Actualizado: 2026-08-09 19:55:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $342.36
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 1 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 82 | 47 | 15 | +7.26 USD |
+| UpTheBlues | 82 | 47 | 16 | +7.26 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | theowalcott | 0 | 2 | 7 | +0.00 USD |
 | AV23IUa | 0 | 0 | 6 | +0.00 USD |
-| swisstony | 4 | 3 | 16 | -1.41 USD |
+| swisstony | 4 | 3 | 17 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 112 | 66 | 36 | -20.82 USD |
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 65 | 94 | 61 | -57.54 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 394 | 279 | 85 | -95.99 USD |
+| ferrariChampions2026 | 394 | 279 | 87 | -95.99 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -175,7 +175,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-oak-bos-2026-08-09-total-10pt5 | 1winstreak1, quavoo |
 | clf-mci-atm-2026-08-09-atm | RN1, ferrariChampions2026, quavoo |
 | mlb-bal-tex-2026-08-09-total-8pt5 | quavoo, wr0ngw4yb3tt0r |
-| lec-caz-nyc-2026-08-09-caz | ferrariChampions2026, quavoo |
+| lec-caz-nyc-2026-08-09-caz | UpTheBlues, ferrariChampions2026, quavoo |
 | ere-spa-fey-2026-08-09-fey | RN1, quavoo |
 | den-hor-bro-2026-08-09-bro | RN1, quavoo |
 | val-gm-ep1-2026-08-09 | greyoctober, quavoo |
@@ -251,6 +251,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will CF Cruz Azul win on 2026-08-09? | No (BUY) | 64% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 37% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| swisstony | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | swisstony | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | swisstony | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 30% | 0.00 | ⏳ pendiente | — |
@@ -277,7 +281,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will AA Argentinos Juniors win on 2026-0 | No (BUY) | 50% | 0.54 | ⏳ pendiente | — |
 | swisstony | AA Argentinos Juniors vs. Racing Club: O | Under (BUY) | 37% | 0.78 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will AA Argentinos Juniors win on 2026-0 | Yes (BUY) | 50% | 1.10 | ⏳ pendiente | — |
-| ferrariChampions2026 | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 63% | 2.53 | ⏳ pendiente | — |
-| ferrariChampions2026 | AA Argentinos Juniors vs. Racing Club: O | Over (BUY) | 24% | 0.49 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Racing Club win on 2026-08-09? | No (BUY) | 93% | 2.50 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 73% | 0.96 | ⏳ pendiente | — |
