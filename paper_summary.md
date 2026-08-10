@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 13:25:48 (hora de Perú)
+Actualizado: 2026-08-10 13:28:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $289.30
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 0 | 0 | 63 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 |  | 2 | 0 | 2 | +0.00 USD |
-| lzh1 | 1 | 0 | 2 | +0.00 USD |
+| lzh1 | 1 | 0 | 3 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | johnbaster | 0 | 0 | 1 | +0.00 USD |
 | Forecastication2 | 3 | 2 | 26 | -1.41 USD |
@@ -296,6 +296,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.53 | ⏳ pendiente | — |
 | quavoo | Plymouth Argyle FC vs. Exeter City FC: O | Over (BUY) | 83% | 8.76 | ⏳ pendiente | — |
 | RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Over (BUY) | 66% | 1.63 | ⏳ pendiente | — |
 | RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 47% | 1.10 | ⏳ pendiente | — |
@@ -325,4 +326,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | Will the game go to extra innings?: Balt | Yes (BUY) | 12% | 0.00 | ⏳ pendiente | — |
 | Forecastication2 | Will the game go to extra innings?: New  | Yes (BUY) | 11% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 48% | 0.00 | ✅ ganada | +0.00 |
-| GoalLineGhost | FC RFS vs. FK Grobina: O/U 1.5 | Under (BUY) | 13% | 0.00 | ⏳ pendiente | — |
