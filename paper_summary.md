@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 19:09:29 (hora de Perú)
+Actualizado: 2026-08-09 19:11:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $338.46
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 106 | 65 | 43 | -20.80 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 65 | 93 | 47 | -56.12 USD |
+| quavoo | 65 | 93 | 48 | -56.12 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
 | ferrariChampions2026 | 387 | 273 | 49 | -96.09 USD |
@@ -239,6 +239,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 54% | 12.26 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Chicago Fire FC win on 2026-08-09? | No (BUY) | 34% | 0.77 | ⏳ pendiente | — |
 | AV23IUa | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 66% | 90.29 | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Union vs. Club Necaxa: O/U  | Over (BUY) | 49% | 0.57 | ⏳ pendiente | — |
@@ -268,4 +269,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Racing Club win on 2026-08-09? | No (BUY) | 98% | 2.27 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: AA Argentinos Juniors (-1.5) | AA Argentinos Juniors (BUY) | 62% | 0.64 | ⏳ pendiente | — |
 | RN1 | Will Racing Club win on 2026-08-09? | No (BUY) | 98% | 0.61 | ⏳ pendiente | — |
-| RN1 | Will EC Vitória win on 2026-08-09? | No (BUY) | 98% | 0.57 | ⏳ pendiente | — |

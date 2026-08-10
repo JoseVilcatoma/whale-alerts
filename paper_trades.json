@@ -40410,5 +40410,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786320397.96881,
     "fills": 1
+  },
+  {
+    "timestamp": 1786320663,
+    "timestamp_added": 1786320663.6797981,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-hou-sd-2026-08-09-total-8pt5",
+    "title": "Houston Astros vs. San Diego Padres: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 7199.820000000001,
+    "whale_pct": 3.621,
+    "paper_stake_usd": 12.26,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786320677.8000345,
+    "fills": 10
   }
 ]
