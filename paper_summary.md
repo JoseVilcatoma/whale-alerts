@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 06:32:22 (hora de Perú)
+Actualizado: 2026-08-10 06:34:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $230.74
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 0 | 12 | 5 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 502 | 375 | 40 | -138.54 USD |
+| ferrariChampions2026 | 502 | 375 | 43 | -138.54 USD |
 | TAIWANNUMBERONE | 26 | 38 | 1 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -284,6 +284,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Eternal Fire Academy (BUY) | 72% | 0.49 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | MOUZ (BUY) | 75% | 0.52 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | MOUZ (BUY) | 85% | 0.80 | ⏳ pendiente | — |
 | GoalLineGhost | Will CA All Boys win on 2026-08-10? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | CD Santa Clara vs. CD Nacional: O/U 2.5 | Under (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: G2 (-1.5) vs Natus Vincer | Natus Vincere (BUY) | 45% | 0.00 | ⏳ pendiente | — |
@@ -311,6 +314,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Odense BK (-2.5) | Silkeborg IF (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | monkeymashingkeyboard | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| GoalLineGhost | Will IF Brommapojkarna win on 2026-08-10 | Yes (BUY) | 10% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Atlanta Dream (-12.5) | Toronto Tempo (BUY) | 47% | 0.00 | ⏳ pendiente | — |
