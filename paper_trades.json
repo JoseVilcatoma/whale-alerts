@@ -49670,5 +49670,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786354029.175611,
     "fills": 1
+  },
+  {
+    "timestamp": 1786354216,
+    "timestamp_added": 1786354216.65127,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-pr1-mouz-2026-08-10-game1",
+    "title": "Dota 2: Power Rangers vs MOUZ - Game 1 Winner",
+    "outcome": "Power Rangers",
+    "side": "BUY",
+    "whale_usd": 135.14,
+    "whale_pct": 0.105,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786354216.6512785,
+    "fills": 1
   }
 ]
