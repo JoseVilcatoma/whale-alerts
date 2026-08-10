@@ -50907,5 +50907,50 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786359484.580522,
     "fills": 1
+  },
+  {
+    "timestamp": 1786359519,
+    "timestamp_added": 1786359519.900036,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "swe-sir-bro-2026-08-10-bro",
+    "title": "Will IF Brommapojkarna win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 100.27300000000001,
+    "whale_pct": 0.723,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 10,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Forecastication2",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786359519.9000452,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786359563,
+    "timestamp_added": 1786359563.8343801,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "wnba-tor-atl-2026-08-10-spread-home-12pt5",
+    "title": "Spread: Atlanta Dream (-12.5)",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "whale_usd": 3484.3791659999997,
+    "whale_pct": 18.982,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786359563.8343916,
+    "fills": 1
   }
 ]
