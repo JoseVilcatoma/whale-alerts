@@ -1,5 +1,5 @@
 {
-  "bankroll": 373.38132005427184,
+  "bankroll": 374.75121209140525,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -10095,6 +10095,66 @@
       "timestamp": 1786334847.2337456,
       "bankroll": 373.38,
       "event": "won: UpTheBlues \u2014 Will CF Cruz Azul win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786335142.3199208,
+      "bankroll": 373.52,
+      "event": "won: ferrariChampions2026 \u2014 Will Atl\u00e9tico San Luis win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786335142.6233253,
+      "bankroll": 374.05,
+      "event": "won: ferrariChampions2026 \u2014 Nashville SC vs. Atl\u00e9tico San Luis: O/U 2.5"
+    },
+    {
+      "timestamp": 1786335142.9257119,
+      "bankroll": 374.28,
+      "event": "won: ferrariChampions2026 \u2014 Nashville SC vs. Atl\u00e9tico San Luis: O/U 1.5"
+    },
+    {
+      "timestamp": 1786335143.4350371,
+      "bankroll": 374.51,
+      "event": "won: ferrariChampions2026 \u2014 Nashville SC vs. Atl\u00e9tico San Luis: O/U 1.5"
+    },
+    {
+      "timestamp": 1786335145.5002894,
+      "bankroll": 373.57,
+      "event": "lost: UpTheBlues \u2014 Spread: Nashville SC (-1.5)"
+    },
+    {
+      "timestamp": 1786335145.9009678,
+      "bankroll": 374.05,
+      "event": "won: ferrariChampions2026 \u2014 Nashville SC vs. Atl\u00e9tico San Luis: O/U 2.5"
+    },
+    {
+      "timestamp": 1786335146.769245,
+      "bankroll": 375.05,
+      "event": "won: ferrariChampions2026 \u2014 Will Club Santos Laguna win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786335147.0697746,
+      "bankroll": 374.67,
+      "event": "lost: ferrariChampions2026 \u2014 Will Club Santos Laguna win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786335147.470496,
+      "bankroll": 374.75,
+      "event": "won: ferrariChampions2026 \u2014 Nashville SC vs. Atl\u00e9tico San Luis: O/U 2.5"
+    },
+    {
+      "timestamp": 1786335148.4704237,
+      "bankroll": 374.75,
+      "event": "won: ferrariChampions2026 \u2014 Nashville SC vs. Atl\u00e9tico San Luis: O/U 4.5"
+    },
+    {
+      "timestamp": 1786335148.5706198,
+      "bankroll": 374.75,
+      "event": "won: ferrariChampions2026 \u2014 Will Atl\u00e9tico San Luis win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786335151.272704,
+      "bankroll": 374.75,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Nashville SC (-2.5)"
     }
   ]
 }
