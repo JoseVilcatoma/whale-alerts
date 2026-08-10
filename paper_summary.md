@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 18:19:53 (hora de Perú)
+Actualizado: 2026-08-10 18:22:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $187.82
@@ -40,12 +40,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | swisstony | 19 | 13 | 10 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| UpTheBlues | 124 | 76 | 23 | -4.37 USD |
+| UpTheBlues | 124 | 76 | 25 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 151 | 83 | 4 | -32.82 USD |
-| quavoo | 124 | 154 | 14 | -39.74 USD |
+| RN1 | 151 | 83 | 5 | -32.82 USD |
+| quavoo | 124 | 154 | 15 | -39.74 USD |
 | GoalLineGhost | 35 | 25 | 3 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -313,12 +313,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | uru1-mal-rcm-2026-08-10-mal | SnakeBall, UpTheBlues |
 | lol-los-png1-2026-08-10 | BrotherObama, SnakeBall |
 | ecu1-lib-uni-2026-08-10-lib | RN1, UpTheBlues |
+| bra3-psc-con-2026-08-10-total-2pt5 | RN1, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| RN1 | Paysandu SC PA vs. AD Confianca SE: O/U  | Over (BUY) | 37% | 1.03 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Unión win on 2026-08-10? | Yes (BUY) | 62% | 0.01 | ⏳ pendiente | — |
+| RN1 | Paysandu SC PA vs. AD Confianca SE: O/U  | Over (BUY) | 36% | 1.12 | ⏳ pendiente | — |
+| quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.45 | ⏳ pendiente | — |
+| UpTheBlues | Paysandu SC PA vs. AD Confianca SE: O/U  | Over (BUY) | 37% | 0.25 | ⏳ pendiente | — |
+| RN1 | Paysandu SC PA vs. AD Confianca SE: O/U  | Over (BUY) | 37% | 3.26 | ⏳ pendiente | — |
 | RN1 | Will Libertad Loja vs. CD Universidad Ca | Yes (BUY) | 13% | 0.42 | ⏳ pendiente | — |
 | RN1 | Will Libertad Loja win on 2026-08-10? | No (BUY) | 14% | 1.58 | ⏳ pendiente | — |
 | UpTheBlues | Will Libertad Loja win on 2026-08-10? | No (BUY) | 14% | 0.32 | ⏳ pendiente | — |
@@ -344,7 +349,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | SnakeBall | Will Goiás EC win on 2026-08-10? | No (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Banfield win on 2026-08-10? | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | CA Banfield vs. CA Belgrano: O/U 2.5 | Under (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| SnakeBall | CA Banfield vs. CA Belgrano: 1st Half O/ | Over (BUY) | 23% | 0.00 | ⏳ pendiente | — |
