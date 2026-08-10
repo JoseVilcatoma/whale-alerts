@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 17:52:47 (hora de Perú)
+Actualizado: 2026-08-10 17:54:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $201.08
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 3 | 19 | 9 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 123 | 143 | 22 | -30.00 USD |
+| quavoo | 123 | 143 | 23 | -30.00 USD |
 | RN1 | 151 | 83 | 1 | -32.82 USD |
 | GoalLineGhost | 24 | 20 | 19 | -58.87 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -313,6 +313,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
 | quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | Bulls94 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CD Universidad Catolica del Ecuador | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
@@ -341,4 +342,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 66% | 0.24 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 68% | 1.04 | ⏳ pendiente | — |
 | swisstony | CA Banfield vs. CA Belgrano: O/U 2.5 | Under (BUY) | 74% | 0.80 | ⏳ pendiente | — |
-| swisstony | Spread: Libertad Loja (-2.5) | CD Universidad Catolica del Ecuador (BUY) | 94% | 0.40 | ⏳ pendiente | — |
