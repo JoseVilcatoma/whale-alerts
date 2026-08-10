@@ -47907,5 +47907,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786346303.5971622,
     "fills": 1
+  },
+  {
+    "timestamp": 1786346542,
+    "timestamp_added": 1786346542.5616124,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "swe-vas-dju-2026-08-10-dju",
+    "title": "Will Djurgardens IF win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 145.8,
+    "whale_pct": 0.276,
+    "paper_stake_usd": 1.07,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786346542.5616183,
+    "fills": 1
   }
 ]

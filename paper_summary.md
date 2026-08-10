@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 02:21:30 (hora de Perú)
+Actualizado: 2026-08-10 02:23:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| quavoo | 121 | 107 | 5 | -16.28 USD |
+| quavoo | 121 | 107 | 6 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Djdjdjekekek | 0 | 4 | 8 | -31.98 USD |
@@ -272,6 +272,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 54% | 1.07 | ⏳ pendiente | — |
 | quavoo | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 54% | 0.81 | ⏳ pendiente | — |
 | GoalLineGhost | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 16.38 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CD Santa Clara (-1.5) | CD Santa Clara (BUY) | 26% | 0.91 | ⏳ pendiente | — |
@@ -300,5 +301,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 3.08 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-12.5) | Toronto Tempo (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
