@@ -55004,5 +55004,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786397048.963743,
     "fills": 1
+  },
+  {
+    "timestamp": 1786397363,
+    "timestamp_added": 1786397363.6177194,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-ban-bel-2026-08-10-total-2pt5",
+    "title": "CA Banfield vs. CA Belgrano: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 759.15,
+    "whale_pct": 0.142,
+    "paper_stake_usd": 0.28,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786397363.6177273,
+    "fills": 1
   }
 ]
