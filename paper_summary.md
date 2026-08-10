@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 08:24:12 (hora de Perú)
+Actualizado: 2026-08-10 08:26:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $228.95
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 121 | 108 | 47 | -16.66 USD |
+| quavoo | 121 | 108 | 48 | -16.66 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -284,6 +284,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-hle-genga-2026-08-10 | BBQChickenisthebesttt, quavoo |
 | lol-dnf-drx-2026-08-10-game1 | BBQChickenisthebesttt, ferrariChampions2026 |
 | swe-sir-bro-2026-08-10-bro | Forecastication2, GoalLineGhost, quavoo |
+| swe-sir-bro-2026-08-10-total-3pt5 | GoalLineGhost, quavoo |
 | lol-gen-dnf-2026-08-10 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, BrotherObama, ferrariChampions2026, lzh1 |
 | lol-gen-dnf-2026-08-10-game1 | BrotherObama, ferrariChampions2026 |
 | lol-gen-dnf-2026-08-10-game2 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, ferrariChampions2026 |
@@ -292,6 +293,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | IK Sirius vs. IF Brommapojkarna: O/U 3.5 | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Will CD Santa Clara win on 2026-08-10? | No (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Will CD Nacional win on 2026-08-10? | Yes (BUY) | 18% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CD Nacional (-1.5) | CD Nacional (BUY) | 5% | 0.00 | ⏳ pendiente | — |
@@ -321,4 +323,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 29% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | Gen.G (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 56% | 0.00 | ⏳ pendiente | — |
