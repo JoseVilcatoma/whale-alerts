@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 17:25:41 (hora de Perú)
+Actualizado: 2026-08-10 17:27:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $201.08
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 0 | 1 | +0.00 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
-| swisstony | 19 | 13 | 6 | -2.77 USD |
+| swisstony | 19 | 13 | 8 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 7 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
@@ -51,7 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 17 | -148.65 USD |
+| ferrariChampions2026 | 538 | 431 | 18 | -148.65 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -307,6 +307,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Libertad Loja (-2.5) | CD Universidad Catolica del Ecuador (BUY) | 94% | 0.40 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 44% | 0.23 | ⏳ pendiente | — |
+| swisstony | Spread: CA Belgrano (-1.5) | CA Banfield (BUY) | 88% | 0.90 | ⏳ pendiente | — |
 | swisstony | CA Banfield vs. CA Belgrano: O/U 1.5 | Under (BUY) | 46% | 0.26 | ⏳ pendiente | — |
 | swisstony | Spread: Libertad Loja (-1.5) | CD Universidad Catolica del Ecuador (BUY) | 77% | 0.47 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 57% | 0.37 | ⏳ pendiente | — |
@@ -334,6 +337,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 47% | 0.31 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | RED Canids (BUY) | 49% | 0.44 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | Leviatan Esports (BUY) | 35% | 0.28 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Banfield win on 2026-08-10? | No (BUY) | 69% | 0.23 | ⏳ pendiente | — |
-| UpTheBlues | CA Boca Juniors vs. Recoleta FC: Both Te | Yes (BUY) | 35% | 0.60 | ⏳ pendiente | — |
-| UpTheBlues | Will Caracas FC win on 2026-08-10? | No (BUY) | 71% | 0.22 | ⏳ pendiente | — |
