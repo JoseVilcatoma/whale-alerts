@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 17:30:03 (hora de Perú)
+Actualizado: 2026-08-10 17:32:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $201.08
@@ -37,9 +37,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 0 | 1 | +0.00 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
-| swisstony | 19 | 13 | 9 | -2.77 USD |
+| swisstony | 19 | 13 | 10 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| UpTheBlues | 124 | 76 | 8 | -4.37 USD |
+| UpTheBlues | 124 | 76 | 9 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 3 | 19 | 9 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -51,7 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 20 | -148.65 USD |
+| ferrariChampions2026 | 538 | 431 | 22 | -148.65 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -309,6 +309,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 53% | 0.24 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 53% | 0.25 | ⏳ pendiente | — |
+| swisstony | CA Banfield vs. CA Belgrano: Both Teams  | No (BUY) | 64% | 0.48 | ⏳ pendiente | — |
+| UpTheBlues | Will Anapolis FC GO win on 2026-08-10? | No (BUY) | 69% | 0.67 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 58% | 0.25 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 66% | 0.24 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 68% | 1.04 | ⏳ pendiente | — |
@@ -335,7 +339,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | LoL: Leviatan Esports vs RED Canids (BO3 | RED Canids (BUY) | 21% | 0.24 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | RED Canids (BUY) | 21% | 0.27 | ⏳ pendiente | — |
 | VeryLucky888 | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 48% | 0.22 | ⏳ pendiente | — |
-| VeryLucky888 | Will Guarani FC SP win on 2026-08-10? | No (BUY) | 53% | 0.21 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | Leviatan Esports (BUY) | 64% | 0.54 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 35% | 1.51 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | Leviatan Esports (BUY) | 56% | 0.37 | ⏳ pendiente | — |
