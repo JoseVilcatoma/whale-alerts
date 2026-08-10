@@ -50229,5 +50229,51 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786357061.942367,
     "fills": 1
+  },
+  {
+    "timestamp": 1786357217,
+    "timestamp_added": 1786357217.7182472,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lol-hle-genga-2026-08-10",
+    "title": "LoL: Hanwha Life Esports Challengers vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+    "outcome": "Gen.G Global Academy",
+    "side": "BUY",
+    "whale_usd": 185.0,
+    "whale_pct": 0.204,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 25,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BBQChickenisthebesttt"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786357217.718257,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786357222,
+    "timestamp_added": 1786357222.3861423,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-drx-2026-08-10",
+    "title": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "whale_usd": 548.45,
+    "whale_pct": 0.402,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "BBQChickenisthebesttt",
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786357222.8749774,
+    "fills": 2
   }
 ]
