@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 21:19:50 (hora de Perú)
+Actualizado: 2026-08-09 21:21:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $340.81
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 66 | 97 | 67 | -59.04 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 415 | 289 | 88 | -94.95 USD |
+| ferrariChampions2026 | 415 | 289 | 90 | -94.95 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -254,13 +254,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | arg-aaj-rac-2026-08-09-total-2pt5 | ferrariChampions2026, swisstony |
 | lec-phi-nec-2026-08-09-draw | UpTheBlues, swisstony |
 | lec-aus-pue-2026-08-09-total-4pt5 | UpTheBlues, ferrariChampions2026 |
+| lec-sdg-tij-2026-08-09-tij | ferrariChampions2026, quavoo |
 | lec-sdg-tij-2026-08-09-sdg | UpTheBlues, ferrariChampions2026 |
 | lec-ame-por-2026-08-09-por | UpTheBlues, ferrariChampions2026 |
+| lec-ame-por-2026-08-09-total-2pt5 | ferrariChampions2026, quavoo |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | CF América vs. Portland Timbers: O/U 2.5 | Over (BUY) | 65% | 1.10 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Club Tijuana win on 2026-08-09? | Yes (BUY) | 28% | 0.72 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 56% | 0.88 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will San Diego FC win on 2026-08-09? | No (BUY) | 52% | 0.72 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 1.5 | Over (BUY) | 79% | 1.15 | ⏳ pendiente | — |
@@ -289,5 +293,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Portland Timbers win on 2026-08-09? | No (BUY) | 65% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CF América win on 2026-08-09? | No (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will San Diego FC win on 2026-08-09? | Yes (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Houston Astros vs. San Diego Padres: O/U | Over (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Club Tijuana win on 2026-08-09? | Yes (BUY) | 29% | 0.00 | ⏳ pendiente | — |
