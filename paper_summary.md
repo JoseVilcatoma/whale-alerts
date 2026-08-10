@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 03:45:02 (hora de Perú)
+Actualizado: 2026-08-10 03:47:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 13 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 13 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 14 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
@@ -275,6 +275,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| GoalLineGhost | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Over (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | quavoo | LoL: Hanwha Life Esports Challengers vs  | Gen.G Global Academy (BUY) | 32% | 0.00 | ⏳ pendiente | — |
@@ -304,4 +305,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 51% | 2.55 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 59% | 0.43 | ⏳ pendiente | — |
 | Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 55% | 0.59 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 57% | 0.62 | ⏳ pendiente | — |
