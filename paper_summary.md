@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 05:21:22 (hora de Perú)
+Actualizado: 2026-08-10 05:23:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 45 | 46 | 19 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
+| monkeymashingkeyboard | 3 | 0 | 1 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 490 | 369 | 44 | -140.34 USD |
+| ferrariChampions2026 | 490 | 369 | 46 | -140.34 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -270,6 +270,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-10-spread-home-1pt5 | HomeRunHazard, quavoo |
 | lec-ame-por-2026-08-09-total-3pt5 | NordhavenCap, ferrariChampions2026 |
 | lol-hle1-gen-2026-08-10 | Djdjdjekekek, fRibrenlc, ferrariChampions2026 |
+| wnba-tor-atl-2026-08-10-spread-home-12pt5 | HomeRunHazard, monkeymashingkeyboard |
 | lol-dnsc-ktc-2026-08-10 | Forecastication2, ferrariChampions2026 |
 | swe-sir-bro-2026-08-10-sir | GoalLineGhost, quavoo |
 | swe-vas-dju-2026-08-10-dju | Forecastication2, GoalLineGhost, quavoo |
@@ -281,6 +282,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| monkeymashingkeyboard | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | quavoo | LoL: Hanwha Life Esports Challengers vs  | Gen.G Global Academy (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 75% | 0.00 | ⏳ pendiente | — |
@@ -308,6 +312,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | Will Odense BK win on 2026-08-10? | No (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ - Game 1 W | Power Rangers (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ - Game 1 W | Power Rangers (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| quavoo | LoL: SK Gaming vs Team Vitality (BO3) -  | SK Gaming (BUY) | 34% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 58% | 0.00 | ⏳ pendiente | — |

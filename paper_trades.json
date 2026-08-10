@@ -50275,5 +50275,75 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786357222.8749774,
     "fills": 2
+  },
+  {
+    "timestamp": 1786357301,
+    "timestamp_added": 1786357301.5774398,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-drx-2026-08-10",
+    "title": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "whale_usd": 166.95,
+    "whale_pct": 0.121,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "BBQChickenisthebesttt",
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786357301.5774493,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786357331,
+    "timestamp_added": 1786357332.2196321,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "wnba-tor-atl-2026-08-10-spread-home-12pt5",
+    "title": "Spread: Atlanta Dream (-12.5)",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "whale_usd": 1040.0,
+    "whale_pct": 9.123,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786357332.2196417,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786357336,
+    "timestamp_added": 1786357336.6270313,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-drx-2026-08-10",
+    "title": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "whale_usd": 177.45000000000002,
+    "whale_pct": 0.129,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "BBQChickenisthebesttt",
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786357336.6270409,
+    "fills": 1
   }
 ]
