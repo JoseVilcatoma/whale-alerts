@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 16:46:30 (hora de Perú)
+Actualizado: 2026-08-10 16:48:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $201.56
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| theowalcott | 6 | 3 | 1 | +28.58 USD |
+| theowalcott | 6 | 3 | 2 | +28.58 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -296,11 +296,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tb-oak-2026-08-10-total-9pt5 | HomeRunHazard, SDTrading |
 | lol-gen-dnf-2026-08-10-game2 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, ferrariChampions2026 |
 | rou1-sep-fcs-2026-08-09-fcs | RN1, lzh1 |
+| arg-ban-bel-2026-08-10-total-1pt5 | UpTheBlues, theowalcott |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | CA Banfield vs. CA Belgrano: O/U 1.5 | Over (BUY) | 63% | 0.53 | ⏳ pendiente | — |
 | UpTheBlues | CA Banfield vs. CA Belgrano: O/U 2.5 | Over (BUY) | 35% | 0.28 | ⏳ pendiente | — |
 | UpTheBlues | CA Banfield vs. CA Belgrano: O/U 1.5 | Under (BUY) | 37% | 0.51 | ⏳ pendiente | — |
 | UpTheBlues | CA Banfield vs. CA Belgrano: O/U 1.5 | Under (BUY) | 37% | 2.22 | ⏳ pendiente | — |
@@ -330,4 +332,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 1.04 | ⏳ pendiente | — |
 | RN1 | IK Sirius vs. IF Brommapojkarna: O/U 4.5 | Under (BUY) | 38% | 1.66 | ✅ ganada | +2.71 |
 | lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.53 | ⏳ pendiente | — |
-| quavoo | Plymouth Argyle FC vs. Exeter City FC: O | Over (BUY) | 83% | 8.76 | ⏳ pendiente | — |
