@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 21:21:51 (hora de Perú)
+Actualizado: 2026-08-09 21:23:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $340.81
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 66 | 97 | 67 | -59.04 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 415 | 289 | 90 | -94.95 USD |
+| ferrariChampions2026 | 415 | 289 | 92 | -94.95 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -263,6 +263,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 52% | 1.05 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: San Diego FC (-1.5) | Club Tijuana (BUY) | 76% | 1.20 | ⏳ pendiente | — |
 | ferrariChampions2026 | CF América vs. Portland Timbers: O/U 2.5 | Over (BUY) | 65% | 1.10 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Club Tijuana win on 2026-08-09? | Yes (BUY) | 28% | 0.72 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 56% | 0.88 | ⏳ pendiente | — |
@@ -291,5 +293,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Austin FC vs. Club Puebla: O/U 5.5 | Under (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Portland Timbers win on 2026-08-09? | No (BUY) | 65% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CF América win on 2026-08-09? | No (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will San Diego FC win on 2026-08-09? | Yes (BUY) | 45% | 0.00 | ⏳ pendiente | — |
