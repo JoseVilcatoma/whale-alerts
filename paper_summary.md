@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 20:18:08 (hora de Perú)
+Actualizado: 2026-08-09 20:20:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $341.75
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 1 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 82 | 47 | 43 | +7.26 USD |
+| UpTheBlues | 82 | 47 | 46 | +7.26 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | theowalcott | 0 | 2 | 7 | +0.00 USD |
 | AV23IUa | 0 | 0 | 6 | +0.00 USD |
-| swisstony | 4 | 3 | 22 | -1.41 USD |
+| swisstony | 4 | 3 | 24 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 112 | 66 | 36 | -20.82 USD |
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 65 | 94 | 63 | -57.54 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 394 | 279 | 104 | -95.99 USD |
+| ferrariChampions2026 | 394 | 279 | 105 | -95.99 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -176,6 +176,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | clf-mci-atm-2026-08-09-atm | RN1, ferrariChampions2026, quavoo |
 | mlb-bal-tex-2026-08-09-total-8pt5 | quavoo, wr0ngw4yb3tt0r |
 | lec-caz-nyc-2026-08-09-caz | UpTheBlues, ferrariChampions2026, quavoo |
+| lec-ame-por-2026-08-09-ame | UpTheBlues, quavoo |
 | ere-spa-fey-2026-08-09-fey | RN1, quavoo |
 | den-hor-bro-2026-08-09-bro | RN1, quavoo |
 | val-gm-ep1-2026-08-09 | greyoctober, quavoo |
@@ -248,6 +249,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lec-caz-nyc-2026-08-09-total-2pt5 | UpTheBlues, ferrariChampions2026 |
 | mlb-hou-sd-2026-08-09-total-7pt5 | quavoo, wr0ngw4yb3tt0r |
 | lec-caz-nyc-2026-08-09-total-3pt5 | UpTheBlues, ferrariChampions2026 |
+| col1-ad1-atn-2026-08-08-ad1 | UpTheBlues, swisstony |
 | lec-caz-nyc-2026-08-09-draw | UpTheBlues, ferrariChampions2026 |
 | arg-aaj-rac-2026-08-09-total-2pt5 | ferrariChampions2026, swisstony |
 
@@ -255,6 +257,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Nashville SC (-2.5) | Atlético San Luis (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will CF Cruz Azul win on 2026-08-09? | No (BUY) | 63% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will América de Cali win on 2026-08-08? | No (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will CF América win on 2026-08-09? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: New York City FC (-1.5) | CF Cruz Azul (BUY) | 98% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will América de Cali win on 2026-08-08? | No (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Austin FC vs. Club Puebla: O/U 4.5 | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CF Cruz Azul vs. New York City FC: O/U 2 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Austin FC vs. Club Puebla: O/U 1.5 | Over (BUY) | 94% | 0.00 | ⏳ pendiente | — |
@@ -279,9 +287,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | CF Cruz Azul vs. New York City FC: O/U 2 | Under (BUY) | 40% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will AA Argentinos Juniors win on 2026-0 | Yes (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CF Cruz Azul vs. New York City FC: O/U 2 | Under (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will AA Argentinos Juniors win on 2026-0 | Yes (BUY) | 95% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Racing Club win on 2026-08-09? | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will AA Argentinos Juniors win on 2026-0 | Yes (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will AA Argentinos Juniors win on 2026-0 | Yes (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | CF Cruz Azul vs. New York City FC: O/U 2 | Under (BUY) | 35% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Austin FC vs. Club Puebla: O/U 3.5 | Under (BUY) | 63% | 0.00 | ⏳ pendiente | — |
