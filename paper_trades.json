@@ -50061,5 +50061,69 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786355982.2587235,
     "fills": 1
+  },
+  {
+    "timestamp": 1786356182,
+    "timestamp_added": 1786356183.1579237,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnsc-ktc-2026-08-10",
+    "title": "LoL: DN SOOPers Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+    "outcome": "DN SOOPers Challengers",
+    "side": "BUY",
+    "whale_usd": 159.39200000000002,
+    "whale_pct": 0.118,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Forecastication2"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786356183.1579335,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786356187,
+    "timestamp_added": 1786356187.807676,
+    "username": "Forecastication2",
+    "wallet": "0xdd5ef115f801999575b03d78d0115ad8b2d59040",
+    "slug": "swe-sir-bro-2026-08-10-bro",
+    "title": "Will IF Brommapojkarna win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 11.4,
+    "whale_pct": 0.159,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 10,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786356187.807685,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786356187,
+    "timestamp_added": 1786356188.5520768,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "swe-sir-bro-2026-08-10-bro",
+    "title": "Will IF Brommapojkarna win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 274.3,
+    "whale_pct": 0.306,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 10,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Forecastication2"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786356189.0616705,
+    "fills": 2
   }
 ]

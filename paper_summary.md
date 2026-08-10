@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 05:02:14 (hora de Perú)
+Actualizado: 2026-08-10 05:04:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -28,14 +28,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
-| Forecastication2 | 0 | 0 | 19 | +0.00 USD |
+| Forecastication2 | 0 | 0 | 20 | +0.00 USD |
 | GoalLineGhost | 0 | 0 | 20 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 9 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| quavoo | 121 | 107 | 21 | -16.28 USD |
+| quavoo | 121 | 107 | 22 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Djdjdjekekek | 0 | 4 | 11 | -31.98 USD |
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 490 | 369 | 37 | -140.34 USD |
+| ferrariChampions2026 | 490 | 369 | 38 | -140.34 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -274,11 +274,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swe-sir-bro-2026-08-10-sir | GoalLineGhost, quavoo |
 | swe-vas-dju-2026-08-10-dju | Forecastication2, GoalLineGhost, quavoo |
 | lol-dnf-drx-2026-08-10-game1 | BBQChickenisthebesttt, ferrariChampions2026 |
+| swe-sir-bro-2026-08-10-bro | Forecastication2, quavoo |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will IF Brommapojkarna win on 2026-08-10 | Yes (BUY) | 10% | 0.00 | ⏳ pendiente | — |
+| Forecastication2 | Will IF Brommapojkarna win on 2026-08-10 | Yes (BUY) | 10% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: DN SOOPers Challengers vs KT Rolste | DN SOOPers Challengers (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 80% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 80% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Silkeborg IF (-1.5) | Odense BK (BUY) | 82% | 0.00 | ⏳ pendiente | — |
@@ -306,6 +310,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX - Game 1 W | DN SOOPers (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CD Santa Clara (-1.5) | CD Santa Clara (BUY) | 26% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 40% | 0.00 | ⏳ pendiente | — |
