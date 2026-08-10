@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 17:42:25 (hora de Perú)
+Actualizado: 2026-08-10 17:44:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $201.08
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | swisstony | 19 | 13 | 10 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| UpTheBlues | 124 | 76 | 17 | -4.37 USD |
+| UpTheBlues | 124 | 76 | 19 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 3 | 19 | 9 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -312,6 +312,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will CD Universidad Catolica del Ecuador | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | SnakeBall | Will Goiás EC win on 2026-08-10? | No (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Banfield win on 2026-08-10? | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 68% | 0.00 | ⏳ pendiente | — |
@@ -340,5 +342,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 44% | 0.23 | ⏳ pendiente | — |
 | swisstony | Spread: CA Belgrano (-1.5) | CA Banfield (BUY) | 88% | 0.90 | ⏳ pendiente | — |
 | swisstony | CA Banfield vs. CA Belgrano: O/U 1.5 | Under (BUY) | 46% | 0.26 | ⏳ pendiente | — |
-| swisstony | Spread: Libertad Loja (-1.5) | CD Universidad Catolica del Ecuador (BUY) | 77% | 0.47 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 57% | 0.37 | ⏳ pendiente | — |

@@ -56234,5 +56234,49 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786401721.2643554,
     "fills": 1
+  },
+  {
+    "timestamp": 1786401800,
+    "timestamp_added": 1786401800.562406,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-ban-bel-2026-08-10-bel",
+    "title": "Will CA Belgrano win on 2026-08-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 270.13,
+    "whale_pct": 0.123,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786401800.562414,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786401803,
+    "timestamp_added": 1786401803.9005733,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ecu1-lib-uni-2026-08-10-uni",
+    "title": "Will CD Universidad Catolica del Ecuador win on 2026-08-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 270.13,
+    "whale_pct": 0.123,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "VD721lsj4938Dk388"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786401803.9005816,
+    "fills": 1
   }
 ]
