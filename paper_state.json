@@ -1,5 +1,5 @@
 {
-  "bankroll": 421.73853365793383,
+  "bankroll": 404.6605675562389,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -10560,6 +10560,126 @@
       "timestamp": 1786342369.7349732,
       "bankroll": 421.74,
       "event": "lost: ferrariChampions2026 \u2014 Will San Diego FC vs. Club Tijuana end in a draw?"
+    },
+    {
+      "timestamp": 1786342420.0841827,
+      "bankroll": 420.59,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 1.5"
+    },
+    {
+      "timestamp": 1786342420.4844892,
+      "bankroll": 419.71,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342420.6849177,
+      "bankroll": 418.66,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342421.0856643,
+      "bankroll": 418.01,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342421.185814,
+      "bankroll": 418.01,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342421.3861163,
+      "bankroll": 418.01,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342421.6866548,
+      "bankroll": 418.01,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342421.9872181,
+      "bankroll": 416.96,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342422.087421,
+      "bankroll": 416.06,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342423.1036527,
+      "bankroll": 414.46,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 1.5"
+    },
+    {
+      "timestamp": 1786342423.3039422,
+      "bankroll": 413.95,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342423.4041212,
+      "bankroll": 413.04,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342423.5043077,
+      "bankroll": 412.2,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342423.6045127,
+      "bankroll": 411.36,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342423.7047102,
+      "bankroll": 410.48,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342423.8049095,
+      "bankroll": 410.07,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342424.4064026,
+      "bankroll": 409.33,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342424.9072661,
+      "bankroll": 408.82,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342425.1076717,
+      "bankroll": 407.51,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 1.5"
+    },
+    {
+      "timestamp": 1786342425.2078633,
+      "bankroll": 406.34,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 1.5"
+    },
+    {
+      "timestamp": 1786342425.5083818,
+      "bankroll": 406.88,
+      "event": "won: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342425.8089864,
+      "bankroll": 405.91,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 1.5"
+    },
+    {
+      "timestamp": 1786342426.0093613,
+      "bankroll": 405.53,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 1.5"
+    },
+    {
+      "timestamp": 1786342426.4100924,
+      "bankroll": 404.66,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 1.5"
     }
   ]
 }
