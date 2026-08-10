@@ -49279,5 +49279,74 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786353013.3202443,
     "fills": 1
+  },
+  {
+    "timestamp": 1786353097,
+    "timestamp_added": 1786353097.9462655,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-dnf-drx-2026-08-10",
+    "title": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 293.562361,
+    "whale_pct": 0.626,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786353111.767905,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786353110,
+    "timestamp_added": 1786353111.2734807,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-drx-2026-08-10",
+    "title": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "whale_usd": 183.8136,
+    "whale_pct": 0.151,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "BBQChickenisthebesttt"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786353111.2734919,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786353127,
+    "timestamp_added": 1786353127.4655244,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-dnf-drx-2026-08-10",
+    "title": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 4300.0,
+    "whale_pct": 9.163,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786353127.9695776,
+    "fills": 3
   }
 ]
