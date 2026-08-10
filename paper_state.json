@@ -1,5 +1,5 @@
 {
-  "bankroll": 340.36305909884453,
+  "bankroll": 341.1330590988445,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8720,6 +8720,41 @@
       "timestamp": 1786320742.582436,
       "bankroll": 340.36,
       "event": "won: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1786320915.2526572,
+      "bankroll": 340.36,
+      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 10.5"
+    },
+    {
+      "timestamp": 1786320915.3529348,
+      "bankroll": 340.36,
+      "event": "won: RN1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 10.5"
+    },
+    {
+      "timestamp": 1786320916.0491674,
+      "bankroll": 340.36,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786320916.1493208,
+      "bankroll": 340.36,
+      "event": "won: RN1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786320916.2494783,
+      "bankroll": 340.36,
+      "event": "lost: 1winstreak1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786320919.7857637,
+      "bankroll": 341.79,
+      "event": "won: 1winstreak1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786320920.6872177,
+      "bankroll": 341.13,
+      "event": "lost: RN1 \u2014 Cleveland Guardians vs. Chicago White Sox: O/U 9.5"
     }
   ]
 }
