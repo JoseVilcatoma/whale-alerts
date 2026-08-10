@@ -41517,5 +41517,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786321865.3493567,
     "fills": 1
+  },
+  {
+    "timestamp": 1786322009,
+    "timestamp_added": 1786322010.6551354,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-nas-asl-2026-08-09-spread-home-1pt5",
+    "title": "Spread: Nashville SC (-1.5)",
+    "outcome": "Atl\u00e9tico San Luis",
+    "side": "BUY",
+    "whale_usd": 1071.1299999999999,
+    "whale_pct": 0.276,
+    "paper_stake_usd": 0.94,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786322010.655144,
+    "fills": 1
   }
 ]
