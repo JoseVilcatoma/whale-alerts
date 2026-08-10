@@ -52855,5 +52855,71 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786366129.587653,
     "fills": 1
+  },
+  {
+    "timestamp": 1786366148,
+    "timestamp_added": 1786366149.1744847,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "efl-ply-exe-2026-08-10-ply",
+    "title": "Will Plymouth Argyle FC win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 65.55,
+    "whale_pct": 0.1,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786366149.1744947,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786366176,
+    "timestamp_added": 1786366177.0168858,
+    "username": "Forecastication2",
+    "wallet": "0xdd5ef115f801999575b03d78d0115ad8b2d59040",
+    "slug": "swe-vas-dju-2026-08-10-dju",
+    "title": "Will Djurgardens IF win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 21.659999999999997,
+    "whale_pct": 0.287,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786366177.016896,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786366176,
+    "timestamp_added": 1786366177.7447138,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "swe-vas-dju-2026-08-10-dju",
+    "title": "Will Djurgardens IF win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 71.25,
+    "whale_pct": 0.109,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Forecastication2",
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786366177.744723,
+    "fills": 1
   }
 ]

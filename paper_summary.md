@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 07:48:54 (hora de Perú)
+Actualizado: 2026-08-10 07:50:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $230.36
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
-| Forecastication2 | 0 | 0 | 25 | +0.00 USD |
+| Forecastication2 | 0 | 0 | 26 | +0.00 USD |
 | GoalLineGhost | 0 | 0 | 57 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 2 | 7 | +0.00 USD |
 |  | 0 | 0 | 4 | +0.00 USD |
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 121 | 108 | 41 | -16.66 USD |
+| quavoo | 121 | 108 | 43 | -16.66 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -290,6 +290,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
 | quavoo | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Plymouth Argyle FC win on 2026-08-1 | Yes (BUY) | 69% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will FC Botoşani win on 2026-08-10? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | Gen.G (BUY) | 78% | 0.00 | ⏳ pendiente | — |
 | SDTrading | Houston Astros vs. San Francisco Giants: | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
@@ -316,6 +319,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | IK Sirius vs. IF Brommapojkarna: O/U 4.5 | Over (BUY) | 24% | 0.30 | ⏳ pendiente | — |
 | GoalLineGhost | IK Sirius vs. IF Brommapojkarna: O/U 4.5 | Over (BUY) | 24% | 0.33 | ⏳ pendiente | — |
 | GoalLineGhost | Will IF Brommapojkarna win on 2026-08-10 | No (BUY) | 89% | 5.11 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 78% | 0.30 | ⏳ pendiente | — |
-| BrotherObama | LoL: Gen.G vs DN SOOPers - Game 1 Winner | DN SOOPers (BUY) | 22% | 15.68 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 78% | 0.32 | ⏳ pendiente | — |
