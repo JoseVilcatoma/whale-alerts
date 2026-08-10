@@ -1,5 +1,5 @@
 {
-  "bankroll": 422.5968901338474,
+  "bankroll": 427.4257666633246,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -10410,6 +10410,56 @@
       "timestamp": 1786339215.2933595,
       "bankroll": 422.6,
       "event": "lost: quavoo \u2014 Will Atl\u00e9tico Nacional win on 2026-08-08?"
+    },
+    {
+      "timestamp": 1786341107.1455743,
+      "bankroll": 423.26,
+      "event": "won: quavoo \u2014 Will Austin FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786341107.245744,
+      "bankroll": 423.99,
+      "event": "won: quavoo \u2014 Will Austin FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786341108.233727,
+      "bankroll": 424.81,
+      "event": "won: quavoo \u2014 Will Austin FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786341108.3339477,
+      "bankroll": 425.07,
+      "event": "won: quavoo \u2014 Will Austin FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786341108.4341805,
+      "bankroll": 425.99,
+      "event": "won: quavoo \u2014 Will Austin FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786341108.534418,
+      "bankroll": 426.55,
+      "event": "won: UpTheBlues \u2014 Will Austin FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786341108.6346579,
+      "bankroll": 426.79,
+      "event": "won: UpTheBlues \u2014 Will Austin FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786341109.0306664,
+      "bankroll": 427.11,
+      "event": "won: quavoo \u2014 Will Austin FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786341109.1308124,
+      "bankroll": 427.43,
+      "event": "won: quavoo \u2014 Will Austin FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786341109.2309785,
+      "bankroll": 427.43,
+      "event": "won: UpTheBlues \u2014 Will Austin FC win on 2026-08-09?"
     }
   ]
 }
