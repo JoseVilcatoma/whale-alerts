@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 06:52:51 (hora de Perú)
+Actualizado: 2026-08-10 06:54:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $230.74
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 21 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 40 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 42 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 9 | +0.00 USD |
 |  | 0 | 0 | 3 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
@@ -284,6 +284,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| GoalLineGhost | Spread: CD Nacional (-1.5) | CD Santa Clara (BUY) | 94% | 1.15 | ⏳ pendiente | — |
+| GoalLineGhost | Spread: CD Nacional (-1.5) | CD Santa Clara (BUY) | 94% | 1.37 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Eternal Fire Academy (BUY) | 56% | 0.25 | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: G2 (-1.5) vs Natus Vincer | Natus Vincere (BUY) | 45% | 0.64 | ⏳ pendiente | — |
 | Forecastication2 | Will Vasteraas SK win on 2026-08-10? | No (BUY) | 79% | 0.48 | ⏳ pendiente | — |
@@ -312,5 +314,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | Power Rangers (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| GoalLineGhost | Spread: Odense BK (-2.5) | Silkeborg IF (BUY) | 92% | 0.00 | ⏳ pendiente | — |
-| GoalLineGhost | Spread: IK Sirius (-1.5) | IK Sirius (BUY) | 50% | 0.00 | ⏳ pendiente | — |
