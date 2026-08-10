@@ -47727,5 +47727,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786343407.2284052,
     "fills": 2
+  },
+  {
+    "timestamp": 1786344836,
+    "timestamp_added": 1786344836.7523646,
+    "username": "Forecastication2",
+    "wallet": "0xdd5ef115f801999575b03d78d0115ad8b2d59040",
+    "slug": "arg-uni-cac-2026-08-10-btts",
+    "title": "CA Uni\u00f3n vs. CA Central C\u00f3rdoba: Both Teams to Score",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 15.4,
+    "whale_pct": 0.242,
+    "paper_stake_usd": 0.95,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786344836.7523732,
+    "fills": 1
   }
 ]
