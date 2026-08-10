@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 21:58:59 (hora de Perú)
+Actualizado: 2026-08-09 22:01:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $354.65
-**Retorno acumulado:** -64.53%
+**Bankroll actual:** $339.53
+**Retorno acumulado:** -66.05%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,10 +15,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 1winstreak1 | 106 | 87 | 1 | +59.55 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| wr0ngw4yb3tt0r | 49 | 42 | 2 | +27.63 USD |
+| wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 31 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| HomeRunHazard | 44 | 46 | 2 | +12.22 USD |
+| HomeRunHazard | 45 | 46 | 2 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | UpTheBlues | 91 | 47 | 62 | +8.04 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -34,11 +34,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 139 | 71 | 4 | -20.34 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
-| quavoo | 76 | 98 | 56 | -33.92 USD |
+| quavoo | 77 | 100 | 53 | -36.90 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 419 | 291 | 115 | -97.53 USD |
+| ferrariChampions2026 | 423 | 293 | 111 | -111.74 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -265,6 +265,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | CF América vs. Portland Timbers: O/U 4.5 | Over (BUY) | 31% | 0.52 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 55% | 1.73 | ⏳ pendiente | — |
+| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 45% | 0.41 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 46% | 0.88 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 47% | 0.84 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will San Diego FC vs. Club Tijuana end i | Yes (BUY) | 21% | 0.87 | ⏳ pendiente | — |
@@ -292,6 +295,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 3.5 | Over (BUY) | 40% | 0.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Portland Timbers win on 2026-08-09? | Yes (BUY) | 16% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CF América vs. Portland Timbers: O/U 1.5 | Over (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CF América win on 2026-08-09? | No (BUY) | 35% | 0.00 | ⏳ pendiente | — |
