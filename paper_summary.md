@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 22:42:22 (hora de Perú)
+Actualizado: 2026-08-09 22:44:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $365.54
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 31 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| HomeRunHazard | 45 | 46 | 2 | +15.05 USD |
+| HomeRunHazard | 45 | 46 | 3 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | UpTheBlues | 108 | 58 | 34 | +8.95 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
@@ -29,6 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | AV23IUa | 2 | 3 | 1 | +0.00 USD |
+| NordhavenCap | 0 | 0 | 6 | +0.00 USD |
 | swisstony | 19 | 10 | 3 | -2.77 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -38,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 8 | 12 | 1 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 440 | 300 | 118 | -109.87 USD |
+| ferrariChampions2026 | 440 | 300 | 119 | -109.87 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -176,7 +177,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | clf-mci-atm-2026-08-09-atm | RN1, ferrariChampions2026, quavoo |
 | mlb-bal-tex-2026-08-09-total-8pt5 | quavoo, wr0ngw4yb3tt0r |
 | lec-caz-nyc-2026-08-09-caz | UpTheBlues, ferrariChampions2026, quavoo |
-| lec-ame-por-2026-08-09-ame | UpTheBlues, ferrariChampions2026, quavoo |
+| lec-ame-por-2026-08-09-ame | NordhavenCap, UpTheBlues, ferrariChampions2026, quavoo |
 | ere-spa-fey-2026-08-09-fey | RN1, quavoo |
 | den-hor-bro-2026-08-09-bro | RN1, quavoo |
 | val-gm-ep1-2026-08-09 | greyoctober, quavoo |
@@ -260,12 +261,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lec-ame-por-2026-08-09-por | UpTheBlues, ferrariChampions2026 |
 | lec-ame-por-2026-08-09-total-2pt5 | ferrariChampions2026, quavoo |
 | mlb-hou-sd-2026-08-09-spread-home-3pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| lec-ame-por-2026-08-09-spread-away-1pt5 | NordhavenCap, UpTheBlues |
+| lec-ame-por-2026-08-09-spread-home-1pt5 | NordhavenCap, UpTheBlues |
+| lec-ame-por-2026-08-09-total-3pt5 | NordhavenCap, ferrariChampions2026 |
 | lol-hle1-gen-2026-08-10 | Djdjdjekekek, fRibrenlc |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| NordhavenCap | Will CF América win on 2026-08-09? | No (BUY) | 65% | 2.71 | ⏳ pendiente | — |
+| NordhavenCap | CF América vs. Portland Timbers: Portlan | Over (BUY) | 43% | 4.06 | ⏳ pendiente | — |
+| NordhavenCap | Spread: Portland Timbers (-1.5) | Portland Timbers (BUY) | 7% | 0.93 | ⏳ pendiente | — |
+| NordhavenCap | CF América vs. Portland Timbers: O/U 3.5 | Over (BUY) | 34% | 5.35 | ⏳ pendiente | — |
+| NordhavenCap | CF América vs. Portland Timbers: Portlan | Over (BUY) | 11% | 0.80 | ⏳ pendiente | — |
+| NordhavenCap | Spread: CF América (-1.5) | Portland Timbers (BUY) | 91% | 4.90 | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 55% | 3.39 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will San Diego FC win on 2026-08-09? | No (BUY) | 22% | 0.73 | ⏳ pendiente | — |
 | ferrariChampions2026 | CF América vs. Portland Timbers: O/U 2.5 | Over (BUY) | 73% | 1.86 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 38% | 29.97 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CF América win on 2026-08-09? | Yes (BUY) | 37% | 0.44 | ⏳ pendiente | — |
@@ -288,11 +300,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 61% | 17.18 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 1.5 | Over (BUY) | 76% | 0.97 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Club Tijuana win on 2026-08-09? | No (BUY) | 91% | 3.71 | ⏳ pendiente | — |
-| Djdjdjekekek | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 12.75 | ⏳ pendiente | — |
-| Djdjdjekekek | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 8.75 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Club Tijuana win on 2026-08-09? | No (BUY) | 91% | 3.88 | ⏳ pendiente | — |
-| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Under (BUY) | 59% | 0.78 | ⏳ pendiente | — |
-| ferrariChampions2026 | CF América vs. Portland Timbers: O/U 3.5 | Over (BUY) | 54% | 0.77 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will San Diego FC win on 2026-08-09? | No (BUY) | 30% | 1.20 | ⏳ pendiente | — |
-| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 1.5 | Over (BUY) | 77% | 1.17 | ⏳ pendiente | — |
-| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 1.5 | Over (BUY) | 77% | 1.31 | ⏳ pendiente | — |
