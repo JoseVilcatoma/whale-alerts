@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 17:27:48 (hora de Perú)
+Actualizado: 2026-08-10 17:30:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $201.08
@@ -37,9 +37,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 0 | 1 | +0.00 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
-| swisstony | 19 | 13 | 8 | -2.77 USD |
+| swisstony | 19 | 13 | 9 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| UpTheBlues | 124 | 76 | 7 | -4.37 USD |
+| UpTheBlues | 124 | 76 | 8 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 3 | 19 | 9 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -51,7 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 18 | -148.65 USD |
+| ferrariChampions2026 | 538 | 431 | 20 | -148.65 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -301,12 +301,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | rou1-sep-fcs-2026-08-09-fcs | RN1, lzh1 |
 | ecu1-lib-uni-2026-08-10-uni | UpTheBlues, VD721lsj4938Dk388 |
 | arg-ban-bel-2026-08-10-total-1pt5 | UpTheBlues, swisstony, theowalcott |
+| arg-ban-bel-2026-08-10-total-2pt5 | UpTheBlues, swisstony |
 | lol-lev-red-2026-08-10 | Anjun, ferrariChampions2026 |
+| arg-ban-bel-2026-08-10-bel | UpTheBlues, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 58% | 0.25 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 66% | 0.24 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 68% | 1.04 | ⏳ pendiente | — |
+| swisstony | CA Banfield vs. CA Belgrano: O/U 2.5 | Under (BUY) | 74% | 0.80 | ⏳ pendiente | — |
 | swisstony | Spread: Libertad Loja (-2.5) | CD Universidad Catolica del Ecuador (BUY) | 94% | 0.40 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 44% | 0.23 | ⏳ pendiente | — |
 | swisstony | Spread: CA Belgrano (-1.5) | CA Banfield (BUY) | 88% | 0.90 | ⏳ pendiente | — |
@@ -333,7 +339,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | Leviatan Esports (BUY) | 64% | 0.54 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 35% | 1.51 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | Leviatan Esports (BUY) | 56% | 0.37 | ⏳ pendiente | — |
-| VeryLucky888 | Will Helsingborgs IF win on 2026-08-11? | Yes (BUY) | 45% | 0.40 | 💰 vendida anticipada | +0.00 |
-| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 47% | 0.31 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | RED Canids (BUY) | 49% | 0.44 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | Leviatan Esports (BUY) | 35% | 0.28 | ⏳ pendiente | — |
