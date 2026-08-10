@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 03:10:04 (hora de Perú)
+Actualizado: 2026-08-10 03:12:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
-| Forecastication2 | 0 | 0 | 7 | +0.00 USD |
+| Forecastication2 | 0 | 0 | 8 | +0.00 USD |
 | GoalLineGhost | 0 | 0 | 8 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 490 | 369 | 5 | -140.34 USD |
+| ferrariChampions2026 | 490 | 369 | 9 | -140.34 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -274,6 +274,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 51% | 1.03 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 59% | 0.43 | ⏳ pendiente | — |
+| Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 55% | 0.59 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 57% | 0.62 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 44% | 0.42 | ⏳ pendiente | — |
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.91 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 43% | 0.44 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 45% | 0.45 | ⏳ pendiente | — |
@@ -299,8 +304,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 53% | 2.58 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 56% | 9.02 | ⏳ pendiente | — |
 | Forecastication2 | CA Unión vs. CA Central Córdoba: Both Te | Yes (BUY) | 44% | 0.95 | ⏳ pendiente | — |
-| Forecastication2 | Spread: Tampa Bay Rays (-1.5) | Athletics (BUY) | 52% | 1.32 | ⏳ pendiente | — |
-| Forecastication2 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 54% | 4.69 | ⏳ pendiente | — |
-| Forecastication2 | LoL: DN SOOPers Challengers vs KT Rolste | DN SOOPers Challengers (BUY) | 50% | 0.74 | ⏳ pendiente | — |
-| HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 38% | 0.93 | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 44% | 0.57 | ⏳ pendiente | — |
