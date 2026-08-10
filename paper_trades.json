@@ -47747,5 +47747,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786344836.7523732,
     "fills": 1
+  },
+  {
+    "timestamp": 1786345004,
+    "timestamp_added": 1786345004.9285972,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-kc-lad-2026-08-10-spread-home-1pt5",
+    "title": "Spread: Los Angeles Dodgers (-1.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 1272.0008,
+    "whale_pct": 2.305,
+    "paper_stake_usd": 9.02,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786345004.9286144,
+    "fills": 1
   }
 ]
