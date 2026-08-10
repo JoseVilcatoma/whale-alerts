@@ -54777,5 +54777,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786387558.1935527,
     "fills": 1
+  },
+  {
+    "timestamp": 1786387679,
+    "timestamp_added": 1786387680.1240594,
+    "username": "Wealthfreedom001",
+    "wallet": "0x80bac5c17aec3f5b3d0f01166b639cd453a02e78",
+    "slug": "dota2-re-navi-2026-08-10-game1",
+    "title": "Dota 2: Rune Eaters vs Natus Vincere - Game 1 Winner",
+    "outcome": "Rune Eaters",
+    "side": "BUY",
+    "whale_usd": 3.44,
+    "whale_pct": 0.172,
+    "paper_stake_usd": 0.5,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786387680.1240695,
+    "fills": 1
   }
 ]

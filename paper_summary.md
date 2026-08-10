@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 13:46:45 (hora de Perú)
+Actualizado: 2026-08-10 13:48:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $289.30
@@ -34,6 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lzh1 | 1 | 0 | 4 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | johnbaster | 0 | 0 | 1 | +0.00 USD |
+| Wealthfreedom001 | 0 | 0 | 1 | +0.00 USD |
 | Forecastication2 | 3 | 2 | 26 | -1.41 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
@@ -299,6 +300,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Wealthfreedom001 | Dota 2: Rune Eaters vs Natus Vincere - G | Rune Eaters (BUY) | 32% | 0.50 | ⏳ pendiente | — |
 | quavoo | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 50% | 0.29 | ⏳ pendiente | — |
 | RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 36% | 0.48 | ⏳ pendiente | — |
 | RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Under (BUY) | 48% | 0.39 | ⏳ pendiente | — |
@@ -328,4 +330,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will IK Sirius vs. IF Brommapojkarna end | No (BUY) | 62% | 1.13 | ⏳ pendiente | — |
 | quavoo | Dota 2: Rune Eaters vs Natus Vincere (BO | Rune Eaters (BUY) | 32% | 0.36 | ⏳ pendiente | — |
 | lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.71 | ⏳ pendiente | — |
-| lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.56 | ⏳ pendiente | — |
