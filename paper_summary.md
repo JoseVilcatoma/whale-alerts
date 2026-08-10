@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 13:30:09 (hora de Perú)
+Actualizado: 2026-08-10 13:32:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $289.30
@@ -40,8 +40,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 123 | 108 | 49 | -16.66 USD |
-| RN1 | 141 | 73 | 12 | -23.95 USD |
+| quavoo | 123 | 108 | 50 | -16.66 USD |
+| RN1 | 141 | 73 | 16 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -283,10 +283,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swe-vas-dju-2026-08-10-dju | Forecastication2, GoalLineGhost, quavoo |
 | swe-vas-dju-2026-08-10-spread-away-1pt5 | GoalLineGhost, quavoo |
 | den-sif-ode-2026-08-10-sif | GoalLineGhost, RN1 |
-| swe-vas-dju-2026-08-10-total-2pt5 | GoalLineGhost, quavoo |
+| swe-vas-dju-2026-08-10-total-2pt5 | GoalLineGhost, RN1, quavoo |
 | lol-hle-genga-2026-08-10 | BBQChickenisthebesttt, quavoo |
 | lol-dnf-drx-2026-08-10-game1 | BBQChickenisthebesttt, ferrariChampions2026 |
 | swe-sir-bro-2026-08-10-bro | Forecastication2, GoalLineGhost, quavoo |
+| por-cds-nac-2026-08-10-total-2pt5 | GoalLineGhost, quavoo |
 | lol-gen-dnf-2026-08-10 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, BrotherObama, ferrariChampions2026, lzh1 |
 | lol-gen-dnf-2026-08-10-game1 | BrotherObama, ferrariChampions2026 |
 | swe-sir-bro-2026-08-10-total-4pt5 | GoalLineGhost, RN1 |
@@ -297,6 +298,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | CD Santa Clara vs. CD Nacional: O/U 2.5 | Under (BUY) | 64% | 0.76 | ⏳ pendiente | — |
+| RN1 | Vasteraas SK vs. Djurgardens IF: O/U 3.5 | Under (BUY) | 95% | 1.77 | ⏳ pendiente | — |
+| RN1 | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Under (BUY) | 79% | 1.72 | ⏳ pendiente | — |
+| RN1 | Will IK Sirius win on 2026-08-10? | No (BUY) | 59% | 1.21 | ⏳ pendiente | — |
+| RN1 | Vasteraas SK vs. Djurgardens IF: O/U 3.5 | Under (BUY) | 95% | 7.67 | ⏳ pendiente | — |
 | RN1 | Will Vasteraas SK vs. Djurgardens IF end | No (BUY) | 71% | 0.43 | ⏳ pendiente | — |
 | quavoo | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Panathinaikós AO (BUY) | 70% | 0.35 | ⏳ pendiente | — |
 | RN1 | IK Sirius vs. IF Brommapojkarna: O/U 4.5 | Under (BUY) | 39% | 0.43 | ⏳ pendiente | — |
@@ -322,8 +328,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Spread: Djurgardens IF (-1.5) | Djurgardens IF (BUY) | 34% | 0.42 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: IK Sirius (-1.5) | IK Sirius (BUY) | 49% | 3.14 | ⏳ pendiente | — |
 | quavoo | Will FC Botoşani win on 2026-08-10? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| GoalLineGhost | CA All Boys vs. CA Central Norte Salta:  | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
-| GoalLineGhost | Spread: CA Unión (-1.5) | CA Unión (BUY) | 35% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 68% | 0.00 | ✅ ganada | +0.00 |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 71% | 0.00 | ✅ ganada | +0.00 |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 67% | 0.00 | ✅ ganada | +0.00 |
