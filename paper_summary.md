@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 08:13:55 (hora de Perú)
+Actualizado: 2026-08-10 08:16:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $228.95
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 5 | +0.00 USD |
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 61 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 62 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 2 | 7 | +0.00 USD |
 |  | 0 | 0 | 4 | +0.00 USD |
 | lzh1 | 0 | 0 | 1 | +0.00 USD |
@@ -292,6 +292,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| GoalLineGhost | CA All Boys vs. CA Central Norte Salta:  | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CA Unión (-1.5) | CA Unión (BUY) | 35% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 71% | 0.00 | ⏳ pendiente | — |
@@ -321,4 +322,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Vitality Academy (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Vitality Academy (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | quavoo | New York Mets vs. Atlanta Braves: O/U 7. | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| BrotherObama | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 43% | 0.00 | ⏳ pendiente | — |
