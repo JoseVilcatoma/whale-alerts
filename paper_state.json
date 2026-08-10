@@ -1,5 +1,5 @@
 {
-  "bankroll": 230.36353628804073,
+  "bankroll": 228.95353628804074,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -11345,6 +11345,26 @@
       "timestamp": 1786366117.3360348,
       "bankroll": 230.36,
       "event": "lost: ferrariChampions2026 \u2014 Dota 2: Power Rangers vs MOUZ - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786367103.8541703,
+      "bankroll": 229.69,
+      "event": "lost: Forecastication2 \u2014 LoL: DN SOOPers Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1786367106.164934,
+      "bankroll": 228.95,
+      "event": "lost: Forecastication2 \u2014 LoL: DN SOOPers Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1786367113.466804,
+      "bankroll": 228.95,
+      "event": "won: ferrariChampions2026 \u2014 LoL: DN SOOPers Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1786367117.5752382,
+      "bankroll": 228.95,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: DN SOOPers Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
     }
   ]
 }
