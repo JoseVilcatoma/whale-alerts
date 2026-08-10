@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 13:50:54 (hora de Perú)
+Actualizado: 2026-08-10 13:52:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $289.30
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| theowalcott | 6 | 3 | 0 | +28.58 USD |
+| theowalcott | 6 | 3 | 1 | +28.58 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 123 | 108 | 54 | -16.66 USD |
+| quavoo | 123 | 108 | 56 | -16.66 USD |
 | RN1 | 141 | 73 | 21 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -279,7 +279,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-dnsc-ktc-2026-08-10 | Forecastication2, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-10-total-7pt5 | HomeRunHazard, quavoo |
 | mlb-hou-sf-2026-08-10-total-8pt5 | Forecastication2, SDTrading |
-| por-cds-nac-2026-08-10-cds | Forecastication2, quavoo |
+| por-cds-nac-2026-08-10-cds | Forecastication2, quavoo, theowalcott |
 | swe-sir-bro-2026-08-10-sir | GoalLineGhost, RN1, quavoo |
 | swe-vas-dju-2026-08-10-dju | Forecastication2, GoalLineGhost, quavoo |
 | swe-vas-dju-2026-08-10-spread-away-1pt5 | GoalLineGhost, quavoo |
@@ -300,6 +300,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 54% | 3.15 | ⏳ pendiente | — |
+| quavoo | Plymouth Argyle FC vs. Exeter City FC: B | Yes (BUY) | 54% | 4.24 | ⏳ pendiente | — |
+| quavoo | Plymouth Argyle FC vs. Exeter City FC: B | Yes (BUY) | 54% | 0.43 | ⏳ pendiente | — |
 | quavoo | Plymouth Argyle FC vs. Exeter City FC: O | Over (BUY) | 61% | 3.20 | ⏳ pendiente | — |
 | quavoo | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 50% | 0.56 | ⏳ pendiente | — |
 | quavoo | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 50% | 1.40 | ⏳ pendiente | — |
@@ -327,6 +330,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Silkeborg IF win on 2026-08-10? | No (BUY) | 35% | 0.43 | ⏳ pendiente | — |
 | RN1 | Silkeborg IF vs. Odense BK: O/U 2.5 | Over (BUY) | 27% | 0.32 | ⏳ pendiente | — |
 | RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Over (BUY) | 68% | 6.19 | ⏳ pendiente | — |
-| RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Over (BUY) | 66% | 0.84 | ⏳ pendiente | — |
-| RN1 | IK Sirius vs. IF Brommapojkarna: O/U 5.5 | Under (BUY) | 68% | 0.38 | ⏳ pendiente | — |
-| RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 49% | 2.91 | ⏳ pendiente | — |
