@@ -52358,5 +52358,48 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786364058.5319827,
     "fills": 1
+  },
+  {
+    "timestamp": 1786364152,
+    "timestamp_added": 1786364152.3541632,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "swe-sir-bro-2026-08-10-total-3pt5",
+    "title": "IK Sirius vs. IF Brommapojkarna: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 56.56,
+    "whale_pct": 0.342,
+    "paper_stake_usd": 0.79,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786364152.3541727,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786364233,
+    "timestamp_added": 1786364234.0832274,
+    "username": "Forecastication2",
+    "wallet": "0xdd5ef115f801999575b03d78d0115ad8b2d59040",
+    "slug": "swe-vas-dju-2026-08-10-dju",
+    "title": "Will Djurgardens IF win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 20.52,
+    "whale_pct": 0.279,
+    "paper_stake_usd": 0.64,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786364234.0832365,
+    "fills": 1
   }
 ]
