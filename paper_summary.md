@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 23:15:53 (hora de Perú)
+Actualizado: 2026-08-09 23:18:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $374.75
-**Retorno acumulado:** -62.52%
+**Bankroll actual:** $378.54
+**Retorno acumulado:** -62.15%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -21,8 +21,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 45 | 46 | 5 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
-| UpTheBlues | 112 | 62 | 26 | +8.01 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
+| UpTheBlues | 112 | 63 | 25 | +7.35 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -34,12 +34,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
-| quavoo | 92 | 105 | 33 | -28.44 USD |
+| quavoo | 93 | 105 | 32 | -27.86 USD |
 | Djdjdjekekek | 0 | 4 | 8 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 1 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 452 | 305 | 102 | -109.93 USD |
+| ferrariChampions2026 | 466 | 307 | 86 | -106.07 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 

@@ -1,5 +1,5 @@
 {
-  "bankroll": 374.75121209140525,
+  "bankroll": 378.5407643491224,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -10155,6 +10155,96 @@
       "timestamp": 1786335151.272704,
       "bankroll": 374.75,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Nashville SC (-2.5)"
+    },
+    {
+      "timestamp": 1786335457.2470984,
+      "bankroll": 375.34,
+      "event": "won: quavoo \u2014 Spread: Chicago Fire FC (-1.5)"
+    },
+    {
+      "timestamp": 1786335458.5398815,
+      "bankroll": 374.59,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Chicago Fire FC (-1.5)"
+    },
+    {
+      "timestamp": 1786335459.4336987,
+      "bankroll": 375.36,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Fire FC vs. Club Santos Laguna: O/U 3.5"
+    },
+    {
+      "timestamp": 1786335459.6340318,
+      "bankroll": 374.7,
+      "event": "lost: UpTheBlues \u2014 Spread: Chicago Fire FC (-1.5)"
+    },
+    {
+      "timestamp": 1786335459.9292703,
+      "bankroll": 375.84,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Fire FC vs. Club Santos Laguna: O/U 2.5"
+    },
+    {
+      "timestamp": 1786335460.43017,
+      "bankroll": 376.07,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Fire FC vs. Club Santos Laguna: O/U 2.5"
+    },
+    {
+      "timestamp": 1786335460.53036,
+      "bankroll": 376.37,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Fire FC vs. Club Santos Laguna: O/U 2.5"
+    },
+    {
+      "timestamp": 1786335460.630549,
+      "bankroll": 376.71,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Fire FC vs. Club Santos Laguna: O/U 2.5"
+    },
+    {
+      "timestamp": 1786335460.7307222,
+      "bankroll": 377.43,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Fire FC vs. Club Santos Laguna: O/U 3.5"
+    },
+    {
+      "timestamp": 1786335460.830902,
+      "bankroll": 377.78,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Fire FC vs. Club Santos Laguna: O/U 2.5"
+    },
+    {
+      "timestamp": 1786335461.2306094,
+      "bankroll": 378.14,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Fire FC vs. Club Santos Laguna: O/U 2.5"
+    },
+    {
+      "timestamp": 1786335461.6312165,
+      "bankroll": 378.54,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Fire FC vs. Club Santos Laguna: O/U 2.5"
+    },
+    {
+      "timestamp": 1786335461.831456,
+      "bankroll": 378.54,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Fire FC vs. Club Santos Laguna: O/U 2.5"
+    },
+    {
+      "timestamp": 1786335461.9315941,
+      "bankroll": 378.54,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Fire FC vs. Club Santos Laguna: O/U 3.5"
+    },
+    {
+      "timestamp": 1786335462.1318786,
+      "bankroll": 378.54,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Fire FC vs. Club Santos Laguna: O/U 2.5"
+    },
+    {
+      "timestamp": 1786335462.2320383,
+      "bankroll": 378.54,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Fire FC vs. Club Santos Laguna: O/U 2.5"
+    },
+    {
+      "timestamp": 1786335464.823338,
+      "bankroll": 378.54,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Fire FC vs. Club Santos Laguna: O/U 2.5"
+    },
+    {
+      "timestamp": 1786335464.9234843,
+      "bankroll": 378.54,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Fire FC vs. Club Santos Laguna: O/U 3.5"
     }
   ]
 }
