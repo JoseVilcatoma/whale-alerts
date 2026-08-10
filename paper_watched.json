@@ -2,61 +2,61 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1786304475.3976018,
-    "roi_pct": 236.28,
+    "roi_pct": 235.51,
     "short_term_pct": 70.0
   },
   "0xdc41c39b95453c943174f369926018f6963bdd7e": {
     "username": "quavoo",
     "added_at": 1786344678.4851859,
-    "roi_pct": 397.57,
+    "roi_pct": 388.34,
     "short_term_pct": 60.0
-  },
-  "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
-    "username": "ferrariChampions2026",
-    "added_at": 1786360030.5949974,
-    "roi_pct": 186.76,
-    "short_term_pct": 80.0
   },
   "0xdd5ef115f801999575b03d78d0115ad8b2d59040": {
     "username": "Forecastication2",
     "added_at": 1786360975.9700432,
-    "roi_pct": 253.6,
-    "short_term_pct": 100.0
-  },
-  "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
-    "username": "Lakersfan111",
-    "added_at": 1786361920.5987523,
-    "roi_pct": 234.56,
+    "roi_pct": 253.12,
     "short_term_pct": 100.0
   },
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
     "username": "BrotherObama",
     "added_at": 1786361920.5987585,
-    "roi_pct": 124.84,
+    "roi_pct": 135.97,
     "short_term_pct": 100.0
   },
   "0xc65ca4755436f82d8eb461e65781584b8cadea39": {
     "username": "greyoctober",
     "added_at": 1786365724.4768445,
-    "roi_pct": 1377.09,
+    "roi_pct": 798.75,
     "short_term_pct": 100.0
   },
   "0x0346afae2603313d2bbee96b628536c8cbe352a5": {
     "username": "GoalLineGhost",
     "added_at": 1786366671.1814253,
-    "roi_pct": 106.61,
-    "short_term_pct": 100.0
-  },
-  "0x1610db79f753a80207e1d66716be9e91e627ae49": {
-    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
-    "added_at": 1786367616.4664884,
-    "roi_pct": 113.28,
+    "roi_pct": 103.33,
     "short_term_pct": 100.0
   },
   "0x282f81747948a90105d944b5a5a2043825d67c4e": {
     "username": "lzh1",
     "added_at": 1786367616.4664924,
-    "roi_pct": 79.13,
+    "roi_pct": 112.18,
     "short_term_pct": 100.0
+  },
+  "0x684baa57c338c2549aec0aa3f034f695d72a8409": {
+    "username": "monkeymashingkeyboard",
+    "added_at": 1786368562.8813972,
+    "roi_pct": 384.71,
+    "short_term_pct": 40.0
+  },
+  "0x5dd9da6e5e2dda83a10864628c2dc714d642420f": {
+    "username": "",
+    "added_at": 1786368562.8814075,
+    "roi_pct": 63.97,
+    "short_term_pct": 100.0
+  },
+  "0x032eb1bc893940263ad0b01889f262fc232f2a9e": {
+    "username": "purplegatto",
+    "added_at": 1786368562.881409,
+    "roi_pct": 26.46,
+    "short_term_pct": 70.0
   }
 }
