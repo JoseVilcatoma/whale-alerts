@@ -35657,7 +35657,7 @@
     "whale_pct": 8.928,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 28,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -35677,8 +35677,8 @@
     "whale_pct": 0.858,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "AV23IUa"
     ],
@@ -36378,8 +36378,8 @@
     "whale_pct": 0.845,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "AV23IUa"
     ],
@@ -36400,7 +36400,7 @@
     "whale_pct": 7.682,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 28,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "RN1"
@@ -39011,8 +39011,8 @@
     "whale_pct": 0.103,
     "paper_stake_usd": 0.3,
     "odds_at_bet": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.13,
     "overlaps_with": [
       "AV23IUa"
     ],
@@ -45129,6 +45129,46 @@
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786329508.1308787,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786329516,
+    "timestamp_added": 1786329517.1336493,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-sdg-tij-2026-08-09-total-2pt5",
+    "title": "San Diego FC vs. Club Tijuana: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 734.5187999999999,
+    "whale_pct": 0.355,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786329517.1336586,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786329623,
+    "timestamp_added": 1786329623.5426915,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-sdg-tij-2026-08-09-total-3pt5",
+    "title": "San Diego FC vs. Club Tijuana: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 424.66800000000006,
+    "whale_pct": 0.206,
+    "paper_stake_usd": 0.43,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786329623.5427024,
     "fills": 1
   }
 ]

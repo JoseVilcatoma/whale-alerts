@@ -1,5 +1,5 @@
 {
-  "bankroll": 340.62138762323576,
+  "bankroll": 340.7499590518072,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -9355,6 +9355,31 @@
       "timestamp": 1786329225.1813176,
       "bankroll": 340.62,
       "event": "won: RN1 \u2014 Will CSD Colo-Colo win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786329528.1986282,
+      "bankroll": 340.62,
+      "event": "won: AV23IUa \u2014 Will SC Corinthians Paulista win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786329528.29876,
+      "bankroll": 340.62,
+      "event": "lost: RN1 \u2014 Will SC Corinthians Paulista win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786329528.3989563,
+      "bankroll": 340.62,
+      "event": "lost: RN1 \u2014 Will SC Corinthians Paulista win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786329528.4991064,
+      "bankroll": 340.62,
+      "event": "won: AV23IUa \u2014 Will SC Corinthians Paulista win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786329532.3982775,
+      "bankroll": 340.75,
+      "event": "won: RN1 \u2014 Will SC Corinthians Paulista win on 2026-08-09?"
     }
   ]
 }
