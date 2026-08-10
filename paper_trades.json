@@ -56366,5 +56366,69 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786402419.8341136,
     "fills": 1
+  },
+  {
+    "timestamp": 1786402520,
+    "timestamp_added": 1786402521.0621824,
+    "username": "SnakeBall",
+    "wallet": "0xc29198ad764bd6adaf7bb971a3757a689ece5d74",
+    "slug": "bra3-afc-gua-2026-08-10-gua",
+    "title": "Will Guarani FC SP win on 2026-08-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 270.75,
+    "whale_pct": 0.324,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "VeryLucky888"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786402521.0621908,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786402574,
+    "timestamp_added": 1786402574.7134573,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-kc-lad-2026-08-10-spread-home-1pt5",
+    "title": "Spread: Los Angeles Dodgers (-1.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 230.58,
+    "whale_pct": 0.208,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786402574.7134647,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786402593,
+    "timestamp_added": 1786402593.9436574,
+    "username": "SnakeBall",
+    "wallet": "0xc29198ad764bd6adaf7bb971a3757a689ece5d74",
+    "slug": "arg-uni-cac-2026-08-10-cac",
+    "title": "Will CA Central C\u00f3rdoba win on 2026-08-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 336.1568,
+    "whale_pct": 0.415,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786402593.9436646,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 17:54:50 (hora de Perú)
+Actualizado: 2026-08-10 17:56:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $201.08
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VD721lsj4938Dk388 | 0 | 0 | 1 | +0.00 USD |
 | VeryLucky888 | 1 | 0 | 2 | +0.00 USD |
 | Anjun | 0 | 0 | 1 | +0.00 USD |
-| SnakeBall | 0 | 0 | 4 | +0.00 USD |
+| SnakeBall | 0 | 0 | 6 | +0.00 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | swisstony | 19 | 13 | 10 | -2.77 USD |
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 3 | 19 | 9 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 123 | 143 | 23 | -30.00 USD |
+| quavoo | 123 | 143 | 24 | -30.00 USD |
 | RN1 | 151 | 83 | 1 | -32.82 USD |
 | GoalLineGhost | 24 | 20 | 19 | -58.87 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -305,6 +305,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | arg-ban-bel-2026-08-10-total-2pt5 | UpTheBlues, swisstony |
 | lol-lev-red-2026-08-10-game2 | ferrariChampions2026, johnbaster |
 | lol-lev-red-2026-08-10 | Anjun, ferrariChampions2026 |
+| bra3-afc-gua-2026-08-10-gua | SnakeBall, VeryLucky888 |
 | arg-ban-bel-2026-08-10-bel | UpTheBlues, swisstony |
 | uru1-mal-rcm-2026-08-10-mal | SnakeBall, UpTheBlues |
 
@@ -312,6 +313,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| SnakeBall | Will CA Central Córdoba win on 2026-08-1 | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
+| quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| SnakeBall | Will Guarani FC SP win on 2026-08-10? | No (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 67% | 0.00 | ⏳ pendiente | — |
@@ -339,6 +343,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | CA Banfield vs. CA Belgrano: Both Teams  | No (BUY) | 64% | 0.48 | ⏳ pendiente | — |
 | UpTheBlues | Will Anapolis FC GO win on 2026-08-10? | No (BUY) | 69% | 0.67 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 58% | 0.25 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 66% | 0.24 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 68% | 1.04 | ⏳ pendiente | — |
-| swisstony | CA Banfield vs. CA Belgrano: O/U 2.5 | Under (BUY) | 74% | 0.80 | ⏳ pendiente | — |
