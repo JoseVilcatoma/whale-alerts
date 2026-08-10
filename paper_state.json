@@ -1,5 +1,5 @@
 {
-  "bankroll": 282.72185630052934,
+  "bankroll": 289.084777041116,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8510,6 +8510,36 @@
       "timestamp": 1786319922.023669,
       "bankroll": 282.72,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Tampa Bay Rays vs. Seattle Mariners: O/U 5.5"
+    },
+    {
+      "timestamp": 1786319976.5806525,
+      "bankroll": 283.03,
+      "event": "won: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786319977.4845862,
+      "bankroll": 283.03,
+      "event": "won: ferrariChampions2026 \u2014 SE Palmeiras vs. SC Internacional: O/U 0.5"
+    },
+    {
+      "timestamp": 1786319981.454911,
+      "bankroll": 287.01,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786319982.857476,
+      "bankroll": 293.0,
+      "event": "won: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786319982.957707,
+      "bankroll": 289.42,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786319983.5587864,
+      "bankroll": 289.08,
+      "event": "lost: RN1 \u2014 Spread: Tampa Bay Rays (-1.5)"
     }
   ]
 }

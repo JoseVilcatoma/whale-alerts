@@ -34640,8 +34640,8 @@
     "whale_pct": 0.156,
     "paper_stake_usd": 0.26,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.31,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786306786.1613815,
@@ -35018,7 +35018,7 @@
     "whale_pct": 0.174,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -37310,8 +37310,8 @@
     "whale_pct": 1.833,
     "paper_stake_usd": 5.28,
     "odds_at_bet": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.98,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -37639,8 +37639,8 @@
     "whale_pct": 1.636,
     "paper_stake_usd": 4.71,
     "odds_at_bet": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.99,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -37661,8 +37661,8 @@
     "whale_pct": 1.241,
     "paper_stake_usd": 3.58,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -3.58,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -37985,8 +37985,8 @@
     "whale_pct": 0.116,
     "paper_stake_usd": 0.34,
     "odds_at_bet": 17,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.34,
     "overlaps_with": [
       "1winstreak1",
       "ferrariChampions2026"
@@ -40279,6 +40279,28 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786319883.2894049,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786320057,
+    "timestamp_added": 1786320057.6902251,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-chi-san-2026-08-09-chi",
+    "title": "Will Chicago Fire FC win on 2026-08-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 696.6154999999999,
+    "whale_pct": 0.227,
+    "paper_stake_usd": 0.66,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786320057.6902344,
     "fills": 1
   }
 ]
