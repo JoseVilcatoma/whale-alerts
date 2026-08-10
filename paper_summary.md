@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 22:09:19 (hora de Perú)
+Actualizado: 2026-08-09 22:11:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $339.53
-**Retorno acumulado:** -66.05%
+**Bankroll actual:** $363.00
+**Retorno acumulado:** -63.70%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,30 +15,30 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 1winstreak1 | 106 | 87 | 1 | +59.55 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
+| theowalcott | 6 | 3 | 0 | +28.58 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 31 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | HomeRunHazard | 45 | 46 | 2 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
-| UpTheBlues | 91 | 47 | 62 | +8.04 USD |
+| UpTheBlues | 93 | 47 | 60 | +9.34 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
-| theowalcott | 0 | 2 | 7 | +0.00 USD |
 | AV23IUa | 2 | 3 | 1 | +0.00 USD |
 | swisstony | 18 | 10 | 4 | -2.80 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 139 | 71 | 4 | -20.34 USD |
-| Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
-| quavoo | 77 | 100 | 53 | -36.90 USD |
+| RN1 | 139 | 73 | 2 | -24.25 USD |
+| Djdjdjekekek | 0 | 4 | 2 | -31.98 USD |
+| quavoo | 77 | 105 | 48 | -39.39 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 423 | 293 | 125 | -111.74 USD |
+| ferrariChampions2026 | 423 | 293 | 127 | -111.74 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -265,6 +265,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 12.75 | ⏳ pendiente | — |
+| Djdjdjekekek | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 8.75 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Club Tijuana win on 2026-08-09? | No (BUY) | 91% | 3.88 | ⏳ pendiente | — |
+| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Under (BUY) | 59% | 0.78 | ⏳ pendiente | — |
 | ferrariChampions2026 | CF América vs. Portland Timbers: O/U 3.5 | Over (BUY) | 54% | 0.77 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will San Diego FC win on 2026-08-09? | No (BUY) | 30% | 1.20 | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 1.5 | Over (BUY) | 77% | 1.17 | ⏳ pendiente | — |
@@ -291,7 +295,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 2.5 | Over (BUY) | 50% | 0.51 | ⏳ pendiente | — |
 | UpTheBlues | Spread: CF América (-1.5) | Portland Timbers (BUY) | 84% | 0.94 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will San Diego FC vs. Club Tijuana end i | Yes (BUY) | 22% | 0.91 | ⏳ pendiente | — |
-| ferrariChampions2026 | San Diego FC vs. Club Tijuana: O/U 1.5 | Over (BUY) | 84% | 1.60 | ⏳ pendiente | — |
-| UpTheBlues | Will CF América win on 2026-08-09? | No (BUY) | 61% | 0.47 | ⏳ pendiente | — |
-| UpTheBlues | Will CF América win on 2026-08-09? | No (BUY) | 62% | 0.51 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CF América win on 2026-08-09? | No (BUY) | 62% | 0.98 | ⏳ pendiente | — |

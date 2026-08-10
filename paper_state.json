@@ -1,5 +1,5 @@
 {
-  "bankroll": 339.5253115022314,
+  "bankroll": 363.0022957732537,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -9610,6 +9610,86 @@
       "timestamp": 1786330794.1655214,
       "bankroll": 339.53,
       "event": "won: ferrariChampions2026 \u2014 Houston Astros vs. San Diego Padres: O/U 9.5"
+    },
+    {
+      "timestamp": 1786331384.0352716,
+      "bankroll": 339.2,
+      "event": "lost: quavoo \u2014 Will Once Caldas win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786331384.2355537,
+      "bankroll": 359.29,
+      "event": "won: theowalcott \u2014 Will Once Caldas win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786331384.3356962,
+      "bankroll": 356.65,
+      "event": "lost: RN1 \u2014 Will Once Caldas win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786331384.6390407,
+      "bankroll": 354.59,
+      "event": "lost: theowalcott \u2014 Will Jaguares de C\u00f3rdoba FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786331384.7391844,
+      "bankroll": 355.23,
+      "event": "won: theowalcott \u2014 Will Once Caldas win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786331384.8393033,
+      "bankroll": 353.96,
+      "event": "lost: RN1 \u2014 Will Once Caldas win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786331384.9394464,
+      "bankroll": 357.46,
+      "event": "won: theowalcott \u2014 Will Once Caldas win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786331385.039598,
+      "bankroll": 362.45,
+      "event": "won: theowalcott \u2014 Will Once Caldas win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786331385.1397507,
+      "bankroll": 363.13,
+      "event": "won: theowalcott \u2014 Will Once Caldas win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786331385.2398992,
+      "bankroll": 363.87,
+      "event": "won: theowalcott \u2014 Will Once Caldas win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786331386.5250165,
+      "bankroll": 363.43,
+      "event": "lost: quavoo \u2014 Will Once Caldas win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786331386.838651,
+      "bankroll": 362.64,
+      "event": "lost: quavoo \u2014 Chicago Stars FC vs. Bay FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786331386.9387848,
+      "bankroll": 362.15,
+      "event": "lost: quavoo \u2014 Will Once Caldas win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786331387.3226457,
+      "bankroll": 361.71,
+      "event": "lost: quavoo \u2014 Will Once Caldas win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786331397.3155367,
+      "bankroll": 362.93,
+      "event": "won: UpTheBlues \u2014 Chicago Stars FC vs. Bay FC: O/U 0.5"
+    },
+    {
+      "timestamp": 1786331398.73806,
+      "bankroll": 363.0,
+      "event": "won: UpTheBlues \u2014 Chicago Stars FC vs. Bay FC: Both Teams to Score"
     }
   ]
 }
