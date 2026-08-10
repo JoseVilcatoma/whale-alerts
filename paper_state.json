@@ -1,5 +1,5 @@
 {
-  "bankroll": 337.81820489644315,
+  "bankroll": 338.4566954624809,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -8665,6 +8665,16 @@
       "timestamp": 1786320168.958201,
       "bankroll": 337.82,
       "event": "lost: 1winstreak1 \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786320230.0250723,
+      "bankroll": 338.12,
+      "event": "won: ferrariChampions2026 \u2014 Phoenix Mercury vs. Washington Mystics: O/U 168.5"
+    },
+    {
+      "timestamp": 1786320230.1253026,
+      "bankroll": 338.46,
+      "event": "won: ferrariChampions2026 \u2014 Phoenix Mercury vs. Washington Mystics: O/U 168.5"
     }
   ]
 }
