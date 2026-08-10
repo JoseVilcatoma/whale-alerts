@@ -53874,5 +53874,95 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786367377.5639656,
     "fills": 1
+  },
+  {
+    "timestamp": 1786367401,
+    "timestamp_added": 1786367401.9580386,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "por-cds-nac-2026-08-10-cds",
+    "title": "Will CD Santa Clara win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 68.04,
+    "whale_pct": 0.104,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Forecastication2"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786367401.9580493,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786367419,
+    "timestamp_added": 1786367419.6361954,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dnf-2026-08-10",
+    "title": "LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 211.05,
+    "whale_pct": 0.12,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+      "BrotherObama",
+      "lzh1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786367419.6362062,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786367429,
+    "timestamp_added": 1786367429.5330873,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dnf-2026-08-10-game2",
+    "title": "LoL: Gen.G vs DN SOOPers - Game 2 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 220.47060599999998,
+    "whale_pct": 0.125,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786367429.5330968,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786367453,
+    "timestamp_added": 1786367453.8384457,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-dnf-2026-08-10-game2",
+    "title": "LoL: Gen.G vs DN SOOPers - Game 2 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 362.09999999999997,
+    "whale_pct": 0.205,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786367453.8384552,
+    "fills": 1
   }
 ]

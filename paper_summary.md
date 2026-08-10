@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 08:09:48 (hora de Perú)
+Actualizado: 2026-08-10 08:11:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $228.95
@@ -39,14 +39,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 121 | 108 | 45 | -16.66 USD |
+| quavoo | 121 | 108 | 46 | -16.66 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 0 | 12 | 5 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 507 | 381 | 79 | -138.54 USD |
+| ferrariChampions2026 | 507 | 381 | 82 | -138.54 USD |
 | TAIWANNUMBERONE | 26 | 38 | 2 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -292,6 +292,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 71% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | Forecastication2 | Will the game go to extra innings?: Balt | Yes (BUY) | 12% | 0.00 | ⏳ pendiente | — |
 | Forecastication2 | Will the game go to extra innings?: New  | Yes (BUY) | 11% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 48% | 0.00 | ⏳ pendiente | — |
@@ -318,7 +322,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 27% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Ilbirs eSports vs Zero Tenacity  | Zero Tenacity (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 29% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| GoalLineGhost | Spread: Djurgardens IF (-2.5) | Vasteraas SK (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| GoalLineGhost | Spread: Djurgardens IF (-1.5) | Vasteraas SK (BUY) | 66% | 0.00 | ⏳ pendiente | — |
