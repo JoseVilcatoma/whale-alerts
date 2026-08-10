@@ -49393,5 +49393,52 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786353169.4085045,
     "fills": 1
+  },
+  {
+    "timestamp": 1786353424,
+    "timestamp_added": 1786353424.8244205,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-drx-2026-08-10",
+    "title": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "whale_usd": 130.20000000000002,
+    "whale_pct": 0.1,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "BBQChickenisthebesttt"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786353424.8244276,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786353426,
+    "timestamp_added": 1786353427.2225199,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "lol-dnf-drx-2026-08-10",
+    "title": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 14682.825127,
+    "whale_pct": 7.955,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "BBQChickenisthebesttt",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786353450.5778081,
+    "fills": 10
   }
 ]

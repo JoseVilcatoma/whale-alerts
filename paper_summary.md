@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 04:16:37 (hora de Perú)
+Actualizado: 2026-08-10 04:18:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -38,12 +38,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 121 | 107 | 17 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
-| Djdjdjekekek | 0 | 4 | 8 | -31.98 USD |
+| Djdjdjekekek | 0 | 4 | 9 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 31 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 490 | 369 | 22 | -140.34 USD |
+| ferrariChampions2026 | 490 | 369 | 23 | -140.34 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -237,7 +237,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tb-sea-2026-08-09-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-09-spread-home-2pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tb-sea-2026-08-09-total-5pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
-| lol-dnf-drx-2026-08-10 | 1winstreak1, BBQChickenisthebesttt, ferrariChampions2026 |
+| lol-dnf-drx-2026-08-10 | 1winstreak1, BBQChickenisthebesttt, Djdjdjekekek, ferrariChampions2026 |
 | mlb-cle-cws-2026-08-09-total-7pt5 | 1winstreak1, RN1, wr0ngw4yb3tt0r |
 | bra-fla-vit-2026-08-09-total-2pt5 | RN1, ferrariChampions2026 |
 | lec-aus-pue-2026-08-09-aus | UpTheBlues, quavoo |
@@ -279,6 +279,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 40% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: DN SOOPers vs Kiwoom DRX - Game 1 W | DN SOOPers (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 43% | 0.00 | ⏳ pendiente | — |
@@ -307,5 +309,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | Spread: CA All Boys (-1.5) | CA All Boys (BUY) | 18% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Will Silkeborg IF win on 2026-08-10? | Yes (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Atlanta Dream (-13.5) | Atlanta Dream (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Hanwha Life Esports (BUY) | 83% | 0.00 | ⏳ pendiente | — |
