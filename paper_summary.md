@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 08:07:43 (hora de Perú)
+Actualizado: 2026-08-10 08:09:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $228.95
@@ -28,12 +28,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 5 | +0.00 USD |
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 59 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 60 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 2 | 7 | +0.00 USD |
 |  | 0 | 0 | 4 | +0.00 USD |
 | lzh1 | 0 | 0 | 1 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 4 | +0.00 USD |
-| Forecastication2 | 0 | 2 | 27 | -1.41 USD |
+| Forecastication2 | 0 | 2 | 29 | -1.41 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 0 | 12 | 5 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 507 | 381 | 77 | -138.54 USD |
+| ferrariChampions2026 | 507 | 381 | 79 | -138.54 USD |
 | TAIWANNUMBERONE | 26 | 38 | 2 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -292,6 +292,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Forecastication2 | Will the game go to extra innings?: Balt | Yes (BUY) | 12% | 0.00 | ⏳ pendiente | — |
+| Forecastication2 | Will the game go to extra innings?: New  | Yes (BUY) | 11% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| GoalLineGhost | FC RFS vs. FK Grobina: O/U 1.5 | Under (BUY) | 13% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | Gen.G (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 50% | 0.00 | ⏳ pendiente | — |
@@ -317,8 +322,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Djurgardens IF (-2.5) | Vasteraas SK (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Djurgardens IF (-1.5) | Vasteraas SK (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | New York Mets (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| Forecastication2 | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| BrotherObama | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | Gen.G (BUY) | 67% | 0.00 | ⏳ pendiente | — |
