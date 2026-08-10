@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 13:34:14 (hora de Perú)
+Actualizado: 2026-08-10 13:36:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $289.30
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | quavoo | 123 | 108 | 50 | -16.66 USD |
-| RN1 | 141 | 73 | 20 | -23.95 USD |
+| RN1 | 141 | 73 | 21 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -299,6 +299,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 36% | 0.48 | ⏳ pendiente | — |
 | RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Under (BUY) | 48% | 0.39 | ⏳ pendiente | — |
 | RN1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.41 | ⏳ pendiente | — |
 | RN1 | Will IK Sirius vs. IF Brommapojkarna end | No (BUY) | 49% | 1.07 | ⏳ pendiente | — |
@@ -328,4 +329,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.71 | ⏳ pendiente | — |
 | lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.56 | ⏳ pendiente | — |
 | johnbaster | LoL: Natus Vincere vs G2 Esports - Game  | G2 Esports (BUY) | 93% | 29.03 | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 47% | 0.18 | ⏳ pendiente | — |
