@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 16:32:12 (hora de Perú)
+Actualizado: 2026-08-10 16:34:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $197.32
-**Retorno acumulado:** -80.27%
+**Bankroll actual:** $193.72
+**Retorno acumulado:** -80.63%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -30,19 +30,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
-|  | 2 | 0 | 2 | +0.00 USD |
 | lzh1 | 1 | 0 | 4 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | Wealthfreedom001 | 0 | 0 | 2 | +0.00 USD |
 | VD721lsj4938Dk388 | 0 | 0 | 1 | +0.00 USD |
+|  | 3 | 1 | 0 | -0.30 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 3 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| Forecastication2 | 3 | 17 | 11 | -8.19 USD |
+| Forecastication2 | 3 | 19 | 9 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | quavoo | 123 | 143 | 21 | -30.00 USD |
-| RN1 | 151 | 80 | 4 | -30.19 USD |
+| RN1 | 151 | 82 | 2 | -32.39 USD |
 | GoalLineGhost | 20 | 18 | 25 | -67.17 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -317,7 +317,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 36% | 0.48 | ❌ perdida | -0.48 |
 | RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Under (BUY) | 48% | 0.39 | ✅ ganada | +0.42 |
 | RN1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.41 | ⏳ pendiente | — |
-| RN1 | Will IK Sirius vs. IF Brommapojkarna end | No (BUY) | 49% | 1.07 | ⏳ pendiente | — |
+| RN1 | Will IK Sirius vs. IF Brommapojkarna end | No (BUY) | 49% | 1.07 | ❌ perdida | -1.07 |
 | RN1 | Vasteraas SK vs. Djurgardens IF: O/U 1.5 | Under (BUY) | 45% | 1.05 | ✅ ganada | +1.28 |
 | quavoo | CD Santa Clara vs. CD Nacional: O/U 2.5 | Under (BUY) | 64% | 0.76 | ⏳ pendiente | — |
 | RN1 | Vasteraas SK vs. Djurgardens IF: O/U 3.5 | Under (BUY) | 95% | 1.77 | ✅ ganada | +0.09 |

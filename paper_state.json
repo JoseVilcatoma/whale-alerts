@@ -1,5 +1,5 @@
 {
-  "bankroll": 197.32179583714978,
+  "bankroll": 193.7186775575799,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12470,6 +12470,36 @@
       "timestamp": 1786396346.5216522,
       "bankroll": 197.32,
       "event": "lost: quavoo \u2014 LoL: SK Gaming vs Team Vitality (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1786397574.1371953,
+      "bankroll": 196.7,
+      "event": "lost: Forecastication2 \u2014 LoL: The Ruddy Sack vs Lundqvist Lightside - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786397578.7390175,
+      "bankroll": 196.36,
+      "event": "lost:  \u2014 Games Total: O/U 2.5"
+    },
+    {
+      "timestamp": 1786397579.257691,
+      "bankroll": 195.88,
+      "event": "lost: Forecastication2 \u2014 Will Vasteraas SK win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786397580.9905396,
+      "bankroll": 195.92,
+      "event": "won:  \u2014 LoL: The Ruddy Sack vs Lundqvist Lightside (BO3) - NLC Regular Season"
+    },
+    {
+      "timestamp": 1786397585.2264547,
+      "bankroll": 194.79,
+      "event": "lost: RN1 \u2014 Will IK Sirius vs. IF Brommapojkarna end in a draw?"
+    },
+    {
+      "timestamp": 1786397586.2412353,
+      "bankroll": 193.72,
+      "event": "lost: RN1 \u2014 Will IK Sirius vs. IF Brommapojkarna end in a draw?"
     }
   ]
 }
