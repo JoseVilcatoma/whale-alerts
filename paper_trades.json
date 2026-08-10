@@ -51244,8 +51244,8 @@
     "title": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
     "outcome": "DN SOOPers",
     "side": "BUY",
-    "whale_usd": 552.864,
-    "whale_pct": 0.291,
+    "whale_usd": 827.5956000000001,
+    "whale_pct": 0.435,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 78,
     "status": "pending",
@@ -51258,7 +51258,49 @@
       "Djdjdjekekek"
     ],
     "recortado_por_bankroll": true,
-    "last_fill_at": 1786360775.8022363,
-    "fills": 2
+    "last_fill_at": 1786360783.0493934,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786360877,
+    "timestamp_added": 1786360878.229386,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "swe-sir-bro-2026-08-10-sir",
+    "title": "Will IK Sirius win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1257.79,
+    "whale_pct": 1.34,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786360878.2293944,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786360907,
+    "timestamp_added": 1786360907.634523,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "swe-sir-bro-2026-08-10-total-3pt5",
+    "title": "IK Sirius vs. IF Brommapojkarna: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 30.851508999999997,
+    "whale_pct": 0.216,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786360907.6345327,
+    "fills": 1
   }
 ]

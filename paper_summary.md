@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 06:19:42 (hora de Perú)
+Actualizado: 2026-08-10 06:21:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -29,14 +29,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 20 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 35 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 36 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 9 | +0.00 USD |
 |  | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| quavoo | 121 | 107 | 32 | -16.28 USD |
+| quavoo | 121 | 107 | 33 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Djdjdjekekek | 0 | 4 | 13 | -31.98 USD |
@@ -284,6 +284,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| GoalLineGhost | IK Sirius vs. IF Brommapojkarna: O/U 3.5 | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 78% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | Power Rangers (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | Power Rangers (BUY) | 58% | 0.00 | ⏳ pendiente | — |
@@ -312,5 +314,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | DN SOOPers (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CA Belgrano (-2.5) | CA Banfield (BUY) | 95% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
