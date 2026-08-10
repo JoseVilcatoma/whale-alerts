@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 16:24:02 (hora de Perú)
+Actualizado: 2026-08-10 16:26:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $197.32
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VD721lsj4938Dk388 | 0 | 0 | 1 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| UpTheBlues | 124 | 76 | 1 | -4.37 USD |
+| UpTheBlues | 124 | 76 | 2 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 3 | 17 | 11 | -8.19 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -301,6 +301,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | CA Banfield vs. CA Belgrano: O/U 1.5 | Under (BUY) | 37% | 0.51 | ⏳ pendiente | — |
 | UpTheBlues | CA Banfield vs. CA Belgrano: O/U 1.5 | Under (BUY) | 37% | 2.22 | ⏳ pendiente | — |
 | Wealthfreedom001 | Game Handicap: RED (-1.5) vs Leviatan Es | Leviatan Esports (BUY) | 31% | 0.47 | ⏳ pendiente | — |
 | VD721lsj4938Dk388 | Will CD Universidad Catolica del Ecuador | Yes (BUY) | 51% | 1.79 | ⏳ pendiente | — |
@@ -330,4 +331,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.53 | ⏳ pendiente | — |
 | quavoo | Plymouth Argyle FC vs. Exeter City FC: O | Over (BUY) | 83% | 8.76 | ⏳ pendiente | — |
 | RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Over (BUY) | 66% | 1.63 | ❌ perdida | -1.63 |
-| RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 47% | 1.10 | ❌ perdida | -1.10 |
