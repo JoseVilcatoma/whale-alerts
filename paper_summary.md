@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 19:57:16 (hora de Perú)
+Actualizado: 2026-08-09 19:59:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $342.36
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 1 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 82 | 47 | 21 | +7.26 USD |
+| UpTheBlues | 82 | 47 | 24 | +7.26 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | theowalcott | 0 | 2 | 7 | +0.00 USD |
 | AV23IUa | 0 | 0 | 6 | +0.00 USD |
-| swisstony | 4 | 3 | 18 | -1.41 USD |
+| swisstony | 4 | 3 | 19 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 112 | 66 | 36 | -20.82 USD |
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 65 | 94 | 61 | -57.54 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 9 | 3 | -89.94 USD |
-| ferrariChampions2026 | 394 | 279 | 89 | -95.99 USD |
+| ferrariChampions2026 | 394 | 279 | 94 | -95.99 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -207,7 +207,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-th-g2-2026-08-09-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-total-8pt5 | 1winstreak1, SDTrading |
 | mlb-atl-nyy-2026-08-09-total-8pt5 | 1winstreak1, wr0ngw4yb3tt0r |
-| wnba-gsv-la-2026-08-09-total-169pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| wnba-gsv-la-2026-08-09-total-169pt5 | ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
 | mlb-cin-wsh-2026-08-09-total-7pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-cin-wsh-2026-08-09-spread-home-2pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-min-mil-2026-08-09-spread-home-1pt5 | 1winstreak1, RN1 |
@@ -236,6 +236,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bra-fla-vit-2026-08-09-total-2pt5 | RN1, ferrariChampions2026 |
 | lec-aus-pue-2026-08-09-aus | UpTheBlues, quavoo |
 | arg-aaj-rac-2026-08-09-rac | RN1, UpTheBlues, ferrariChampions2026, quavoo, swisstony |
+| lec-caz-nyc-2026-08-09-spread-away-1pt5 | UpTheBlues, quavoo |
 | lec-chi-san-2026-08-09-spread-home-1pt5 | UpTheBlues, ferrariChampions2026, quavoo |
 | mlb-hou-sd-2026-08-09-total-9pt5 | ferrariChampions2026, quavoo |
 | lec-caz-nyc-2026-08-09-spread-home-1pt5 | UpTheBlues, ferrariChampions2026 |
@@ -251,6 +252,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Spread: New York City FC (-1.5) | CF Cruz Azul (BUY) | 96% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Atlético San Luis win on 2026-08-09 | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: CF Cruz Azul (-1.5) | New York City FC (BUY) | 91% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Philadelphia Union (-1.5) | Philadelphia Union (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| swisstony | Golden State Valkyries vs. Los Angeles S | Under (BUY) | 90% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Nashville SC vs. Atlético San Luis: O/U  | Over (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Nashville SC win on 2026-08-09? | Yes (BUY) | 79% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will CF Cruz Azul vs. New York City FC e | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Under (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CF Cruz Azul vs. New York City FC e | Yes (BUY) | 40% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: CF Cruz Azul (-2.5) | New York City FC (BUY) | 98% | 0.00 | ⏳ pendiente | — |
@@ -272,12 +282,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will AA Argentinos Juniors win on 2026-0 | No (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Racing Club win on 2026-08-09? | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | swisstony | AA Argentinos Juniors vs. Racing Club: O | Under (BUY) | 84% | 0.78 | ⏳ pendiente | — |
-| ferrariChampions2026 | Nashville SC vs. Atlético San Luis: O/U  | Over (BUY) | 87% | 0.56 | ⏳ pendiente | — |
-| swisstony | Will Racing Club win on 2026-08-09? | No (BUY) | 92% | 2.06 | ⏳ pendiente | — |
-| swisstony | Will Racing Club win on 2026-08-09? | No (BUY) | 92% | 0.56 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Fire FC vs. Club Santos Laguna:  | Over (BUY) | 69% | 0.90 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Chicago Fire FC win on 2026-08-09? | Yes (BUY) | 35% | 0.91 | ⏳ pendiente | — |
-| swisstony | AA Argentinos Juniors vs. Racing Club: O | Under (BUY) | 96% | 0.34 | ⏳ pendiente | — |
-| swisstony | Will Philadelphia Union vs. Club Necaxa  | No (BUY) | 94% | 0.44 | ⏳ pendiente | — |
-| swisstony | Will AA Argentinos Juniors vs. Racing Cl | Yes (BUY) | 47% | 0.51 | ⏳ pendiente | — |
-| swisstony | AA Argentinos Juniors vs. Racing Club: O | Under (BUY) | 42% | 0.46 | ⏳ pendiente | — |
