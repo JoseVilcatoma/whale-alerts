@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 05:31:51 (hora de Perú)
+Actualizado: 2026-08-10 05:33:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -23,13 +23,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 45 | 46 | 19 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| monkeymashingkeyboard | 3 | 0 | 3 | +2.86 USD |
+| monkeymashingkeyboard | 3 | 0 | 4 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 20 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 20 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 23 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 9 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
@@ -282,6 +282,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| GoalLineGhost | Spread: Odense BK (-2.5) | Silkeborg IF (BUY) | 92% | 0.00 | ⏳ pendiente | — |
+| GoalLineGhost | Spread: Odense BK (-2.5) | Silkeborg IF (BUY) | 92% | 0.00 | ⏳ pendiente | — |
+| GoalLineGhost | Spread: Odense BK (-2.5) | Silkeborg IF (BUY) | 92% | 0.00 | ⏳ pendiente | — |
+| monkeymashingkeyboard | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | Power Rangers (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | monkeymashingkeyboard | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ - Game 2 W | Power Rangers (BUY) | 67% | 0.00 | ⏳ pendiente | — |
@@ -308,7 +312,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 80% | 0.00 | ⏳ pendiente | — |
-| Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ - Game 1 W | Power Rangers (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| quavoo | LoL: SK Gaming vs Team Vitality (BO3) -  | SK Gaming (BUY) | 34% | 0.00 | ⏳ pendiente | — |
