@@ -1,5 +1,5 @@
 {
-  "bankroll": 378.5407643491224,
+  "bankroll": 426.7012805712515,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -10245,6 +10245,61 @@
       "timestamp": 1786335464.9234843,
       "bankroll": 378.54,
       "event": "won: ferrariChampions2026 \u2014 Chicago Fire FC vs. Club Santos Laguna: O/U 3.5"
+    },
+    {
+      "timestamp": 1786336709.9690342,
+      "bankroll": 380.42,
+      "event": "won: quavoo \u2014 Will Chicago Fire FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786336710.069267,
+      "bankroll": 380.42,
+      "event": "won: quavoo \u2014 Will Chicago Fire FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786336710.5751972,
+      "bankroll": 381.17,
+      "event": "won: quavoo \u2014 Will Chicago Fire FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786336710.6754205,
+      "bankroll": 381.17,
+      "event": "won: quavoo \u2014 Will Chicago Fire FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786336712.526237,
+      "bankroll": 380.51,
+      "event": "lost: ferrariChampions2026 \u2014 Will Chicago Fire FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786336712.9251726,
+      "bankroll": 427.02,
+      "event": "won: AV23IUa \u2014 Will Chicago Fire FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786336713.0253403,
+      "bankroll": 426.25,
+      "event": "lost: ferrariChampions2026 \u2014 Will Chicago Fire FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786336713.1255596,
+      "bankroll": 425.84,
+      "event": "lost: ferrariChampions2026 \u2014 Will Chicago Fire FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786336714.113037,
+      "bankroll": 425.01,
+      "event": "lost: UpTheBlues \u2014 Will Chicago Fire FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786336715.111546,
+      "bankroll": 426.7,
+      "event": "won: ferrariChampions2026 \u2014 Will Chicago Fire FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786336715.2118025,
+      "bankroll": 426.7,
+      "event": "won: ferrariChampions2026 \u2014 Will Chicago Fire FC win on 2026-08-09?"
     }
   ]
 }

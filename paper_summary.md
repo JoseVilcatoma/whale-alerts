@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 23:36:53 (hora de Perú)
+Actualizado: 2026-08-09 23:38:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $378.54
-**Retorno acumulado:** -62.15%
+**Bankroll actual:** $426.70
+**Retorno acumulado:** -57.33%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,32 +14,32 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 1winstreak1 | 106 | 87 | 1 | +59.55 USD |
+| AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 6 | 3 | 0 | +28.58 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 31 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| HomeRunHazard | 45 | 46 | 6 | +15.05 USD |
+| HomeRunHazard | 45 | 46 | 7 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 112 | 63 | 25 | +7.35 USD |
+| UpTheBlues | 112 | 64 | 24 | +6.52 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
-| AV23IUa | 2 | 3 | 1 | +0.00 USD |
 | NordhavenCap | 0 | 0 | 6 | +0.00 USD |
 | swisstony | 19 | 10 | 3 | -2.77 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
-| quavoo | 93 | 105 | 32 | -27.86 USD |
+| quavoo | 97 | 105 | 28 | -25.23 USD |
 | Djdjdjekekek | 0 | 4 | 8 | -31.98 USD |
-| fRibrenlc | 8 | 12 | 25 | -40.36 USD |
+| fRibrenlc | 8 | 12 | 27 | -40.36 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 466 | 307 | 86 | -106.07 USD |
+| ferrariChampions2026 | 468 | 310 | 81 | -106.22 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -270,6 +270,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 3.08 | ⏳ pendiente | — |
+| fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Atlanta Dream (-12.5) | Toronto Tempo (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
@@ -297,6 +300,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 5.73 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-12.5) | Toronto Tempo (BUY) | 46% | 0.67 | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 60% | 1.19 | ⏳ pendiente | — |
-| NordhavenCap | Will CF América win on 2026-08-09? | No (BUY) | 65% | 2.71 | ⏳ pendiente | — |
-| NordhavenCap | CF América vs. Portland Timbers: Portlan | Over (BUY) | 43% | 4.06 | ⏳ pendiente | — |
-| NordhavenCap | Spread: Portland Timbers (-1.5) | Portland Timbers (BUY) | 7% | 0.93 | ⏳ pendiente | — |
