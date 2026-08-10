@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 02:59:50 (hora de Perú)
+Actualizado: 2026-08-10 03:01:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 490 | 369 | 3 | -140.34 USD |
+| ferrariChampions2026 | 490 | 369 | 0 | -140.34 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -266,7 +266,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lec-ame-por-2026-08-09-spread-away-1pt5 | NordhavenCap, UpTheBlues |
 | lec-ame-por-2026-08-09-spread-home-1pt5 | NordhavenCap, UpTheBlues |
 | lec-ame-por-2026-08-09-total-3pt5 | NordhavenCap, ferrariChampions2026 |
-| lol-hle1-gen-2026-08-10 | Djdjdjekekek, fRibrenlc, ferrariChampions2026 |
+| lol-hle1-gen-2026-08-10 | Djdjdjekekek, fRibrenlc |
 | swe-sir-bro-2026-08-10-sir | GoalLineGhost, quavoo |
 | swe-vas-dju-2026-08-10-dju | GoalLineGhost, quavoo |
 
