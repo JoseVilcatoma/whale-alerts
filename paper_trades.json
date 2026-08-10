@@ -48877,5 +48877,71 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786351253.7210698,
     "fills": 1
+  },
+  {
+    "timestamp": 1786351410,
+    "timestamp_added": 1786351411.459359,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lol-hle-genga-2026-08-10-game1",
+    "title": "LoL: Hanwha Life Esports Challengers vs Gen.G Global Academy - Game 1 Winner",
+    "outcome": "Gen.G Global Academy",
+    "side": "BUY",
+    "whale_usd": 97.57649999999998,
+    "whale_pct": 0.116,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786351411.4593701,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786351447,
+    "timestamp_added": 1786351448.4902444,
+    "username": "Forecastication2",
+    "wallet": "0xdd5ef115f801999575b03d78d0115ad8b2d59040",
+    "slug": "swe-vas-dju-2026-08-10-dju",
+    "title": "Will Djurgardens IF win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 216.70000000000002,
+    "whale_pct": 3.342,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786351448.4902549,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786351447,
+    "timestamp_added": 1786351448.9607692,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "swe-vas-dju-2026-08-10-dju",
+    "title": "Will Djurgardens IF win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 337.70000000000005,
+    "whale_pct": 0.401,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Forecastication2",
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786351450.118057,
+    "fills": 2
   }
 ]
