@@ -44131,5 +44131,71 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786325163.0655293,
     "fills": 1
+  },
+  {
+    "timestamp": 1786325212,
+    "timestamp_added": 1786325212.6246042,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lec-ame-por-2026-08-09-ame",
+    "title": "Will CF Am\u00e9rica win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 451.0,
+    "whale_pct": 0.183,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786325212.6246154,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786325216,
+    "timestamp_added": 1786325217.1226673,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-phi-nec-2026-08-09-draw",
+    "title": "Will Philadelphia Union vs. Club Necaxa end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 492.03,
+    "whale_pct": 0.126,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786325217.1226776,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786325291,
+    "timestamp_added": 1786325292.2382293,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lec-ame-por-2026-08-09-ame",
+    "title": "Will CF Am\u00e9rica win on 2026-08-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 281.66999999999996,
+    "whale_pct": 0.114,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786325292.238239,
+    "fills": 1
   }
 ]

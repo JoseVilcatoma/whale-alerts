@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 20:26:29 (hora de Perú)
+Actualizado: 2026-08-09 20:28:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $341.75
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 1 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 82 | 47 | 53 | +7.26 USD |
+| UpTheBlues | 82 | 47 | 54 | +7.26 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 112 | 66 | 36 | -20.82 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 65 | 94 | 64 | -57.54 USD |
+| quavoo | 65 | 94 | 66 | -57.54 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 394 | 279 | 111 | -95.99 USD |
@@ -252,12 +252,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col1-ad1-atn-2026-08-08-ad1 | UpTheBlues, swisstony |
 | lec-caz-nyc-2026-08-09-draw | UpTheBlues, ferrariChampions2026 |
 | arg-aaj-rac-2026-08-09-total-2pt5 | ferrariChampions2026, swisstony |
+| lec-phi-nec-2026-08-09-draw | UpTheBlues, swisstony |
 | lec-aus-pue-2026-08-09-total-4pt5 | UpTheBlues, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Philadelphia Union vs. Club Necaxa  | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Austin FC vs. Club Puebla: O/U 4.5 | Under (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Austin FC vs. Club Puebla: O/U 4.5 | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Austin FC vs. Club Puebla: O/U 5.5 | Under (BUY) | 69% | 0.00 | ⏳ pendiente | — |
@@ -285,6 +289,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Spread: CF Cruz Azul (-1.5) | New York City FC (BUY) | 96% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CF Cruz Azul vs. New York City FC: O/U 3 | Under (BUY) | 86% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CF Cruz Azul vs. New York City FC: O/U 2 | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will New York City FC win on 2026-08-09? | Yes (BUY) | 20% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Austin FC (-1.5) | Club Puebla (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Austin FC vs. Club Puebla: O/U 3.5 | Under (BUY) | 65% | 0.00 | ⏳ pendiente | — |
