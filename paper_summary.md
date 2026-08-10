@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 07:44:51 (hora de Perú)
+Actualizado: 2026-08-10 07:46:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $230.36
@@ -27,18 +27,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 2 | +0.00 USD |
-| SDTrading | 0 | 5 | 2 | +0.00 USD |
+| SDTrading | 0 | 5 | 3 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 25 | +0.00 USD |
 | GoalLineGhost | 0 | 0 | 57 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 2 | 7 | +0.00 USD |
 |  | 0 | 0 | 4 | +0.00 USD |
 | lzh1 | 0 | 0 | 1 | +0.00 USD |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| quavoo | 121 | 108 | 38 | -16.66 USD |
+| quavoo | 121 | 108 | 39 | -16.66 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -274,19 +275,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-hle1-gen-2026-08-10 | Djdjdjekekek, fRibrenlc, ferrariChampions2026 |
 | wnba-tor-atl-2026-08-10-spread-home-12pt5 | HomeRunHazard, monkeymashingkeyboard |
 | lol-dnsc-ktc-2026-08-10 | Forecastication2, ferrariChampions2026 |
+| mlb-hou-sf-2026-08-10-total-8pt5 | Forecastication2, SDTrading |
 | swe-sir-bro-2026-08-10-sir | GoalLineGhost, quavoo |
 | swe-vas-dju-2026-08-10-dju | Forecastication2, GoalLineGhost, quavoo |
 | swe-vas-dju-2026-08-10-total-2pt5 | GoalLineGhost, quavoo |
 | lol-hle-genga-2026-08-10 | BBQChickenisthebesttt, quavoo |
 | lol-dnf-drx-2026-08-10-game1 | BBQChickenisthebesttt, ferrariChampions2026 |
 | swe-sir-bro-2026-08-10-bro | Forecastication2, GoalLineGhost, quavoo |
-| lol-gen-dnf-2026-08-10 | ferrariChampions2026, lzh1 |
+| lol-gen-dnf-2026-08-10 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, ferrariChampions2026, lzh1 |
 | lol-gen-dnf-2026-08-10-game1 | BrotherObama, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | Gen.G (BUY) | 78% | 0.00 | ⏳ pendiente | — |
+| SDTrading | Houston Astros vs. San Francisco Giants: | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| quavoo | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Mura Murska Sobota win on 2026-08-1 | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CD Nacional (-1.5) | CD Santa Clara (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | lzh1 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | DN SOOPers (BUY) | 36% | 0.00 | ⏳ pendiente | — |
@@ -313,7 +319,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 78% | 0.32 | ⏳ pendiente | — |
 | BrotherObama | LoL: Gen.G vs DN SOOPers - Game 1 Winner | DN SOOPers (BUY) | 22% | 3.92 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 81% | 0.64 | ⏳ pendiente | — |
-| quavoo | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 0.32 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 92% | 0.89 | ⏳ pendiente | — |
-| GoalLineGhost | Will IF Brommapojkarna win on 2026-08-10 | No (BUY) | 89% | 1.62 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 1 Winner | Gen.G (BUY) | 81% | 0.76 | ⏳ pendiente | — |
