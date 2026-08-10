@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-09 20:28:33 (hora de Perú)
+Actualizado: 2026-08-09 20:30:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $341.75
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | HomeRunHazard | 43 | 45 | 1 | +8.65 USD |
 | Bulls94 | 1 | 0 | 0 | +7.96 USD |
-| UpTheBlues | 82 | 47 | 54 | +7.26 USD |
+| UpTheBlues | 82 | 47 | 58 | +7.26 USD |
 | monkeymashingkeyboard | 3 | 0 | 0 | +2.86 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -29,16 +29,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | theowalcott | 0 | 2 | 7 | +0.00 USD |
 | AV23IUa | 0 | 0 | 6 | +0.00 USD |
-| swisstony | 4 | 3 | 24 | -1.41 USD |
+| swisstony | 4 | 3 | 25 | -1.41 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 112 | 66 | 36 | -20.82 USD |
 | Djdjdjekekek | 0 | 4 | 0 | -31.98 USD |
 | fRibrenlc | 8 | 12 | 0 | -40.36 USD |
-| quavoo | 65 | 94 | 66 | -57.54 USD |
+| quavoo | 65 | 94 | 68 | -57.54 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 394 | 279 | 111 | -95.99 USD |
+| ferrariChampions2026 | 394 | 279 | 112 | -95.99 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
@@ -259,6 +259,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 87% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will CF Cruz Azul vs. New York City FC e | No (BUY) | 88% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: CF Cruz Azul (-1.5) | New York City FC (BUY) | 86% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will CF Cruz Azul win on 2026-08-09? | Yes (BUY) | 87% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will América de Cali win on 2026-08-08? | No (BUY) | 63% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Austin FC vs. Club Puebla: O/U 3.5 | Over (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Philadelphia Union vs. Club Necaxa  | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will CF América win on 2026-08-09? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
@@ -281,11 +289,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will América de Cali win on 2026-08-08? | No (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CF América win on 2026-08-09? | Yes (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: New York City FC (-1.5) | CF Cruz Azul (BUY) | 98% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will América de Cali win on 2026-08-08? | No (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Austin FC vs. Club Puebla: O/U 4.5 | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | CF Cruz Azul vs. New York City FC: O/U 2 | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Austin FC vs. Club Puebla: O/U 1.5 | Over (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Club Puebla win on 2026-08-09? | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: CF Cruz Azul (-1.5) | New York City FC (BUY) | 96% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | CF Cruz Azul vs. New York City FC: O/U 3 | Under (BUY) | 86% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | CF Cruz Azul vs. New York City FC: O/U 2 | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
