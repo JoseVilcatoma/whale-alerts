@@ -12460,6 +12460,16 @@
       "timestamp": 1786396048.8362029,
       "bankroll": 197.32,
       "event": "won: johnbaster \u2014 LoL: Natus Vincere vs G2 Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786396346.3213186,
+      "bankroll": 197.32,
+      "event": "lost: quavoo \u2014 LoL: SK Gaming vs Team Vitality (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1786396346.5216522,
+      "bankroll": 197.32,
+      "event": "lost: quavoo \u2014 LoL: SK Gaming vs Team Vitality (BO3) - LEC Regular Season"
     }
   ]
 }
