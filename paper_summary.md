@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 06:28:04 (hora de Perú)
+Actualizado: 2026-08-10 06:30:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -44,8 +44,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 490 | 369 | 57 | -140.34 USD |
-| TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
+| ferrariChampions2026 | 490 | 369 | 58 | -140.34 USD |
+| TAIWANNUMBERONE | 26 | 38 | 1 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -284,6 +284,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Game Handicap: G2 (-1.5) vs Natus Vincer | Natus Vincere (BUY) | 45% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | MOUZ (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | MOUZ (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | CA Unión vs. CA Central Córdoba: O/U 5.5 | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | MOUZ (BUY) | 77% | 0.00 | ⏳ pendiente | — |
@@ -312,5 +314,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Atlanta Dream (-12.5) | Toronto Tempo (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | monkeymashingkeyboard | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| GoalLineGhost | Spread: Djurgardens IF (-2.5) | Vasteraas SK (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| GoalLineGhost | Spread: CD Nacional (-1.5) | CD Santa Clara (BUY) | 94% | 0.00 | ⏳ pendiente | — |
