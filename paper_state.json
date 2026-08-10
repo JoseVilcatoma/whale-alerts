@@ -1,5 +1,5 @@
 {
-  "bankroll": 195.7767420737089,
+  "bankroll": 197.32179583714978,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12445,6 +12445,21 @@
       "timestamp": 1786395748.6296206,
       "bankroll": 195.78,
       "event": "lost: RN1 \u2014 Will IK Sirius win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786396042.0444188,
+      "bankroll": 195.78,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: G2 (-1.5) vs Natus Vincere (+1.5)"
+    },
+    {
+      "timestamp": 1786396043.4794211,
+      "bankroll": 195.14,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: G2 (-1.5) vs Natus Vincere (+1.5)"
+    },
+    {
+      "timestamp": 1786396048.8362029,
+      "bankroll": 197.32,
+      "event": "won: johnbaster \u2014 LoL: Natus Vincere vs G2 Esports - Game 2 Winner"
     }
   ]
 }
