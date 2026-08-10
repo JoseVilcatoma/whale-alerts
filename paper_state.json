@@ -1,5 +1,5 @@
 {
-  "bankroll": 363.3080869124942,
+  "bankroll": 365.53765155419904,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -9700,6 +9700,281 @@
       "timestamp": 1786332004.2747893,
       "bankroll": 363.31,
       "event": "won: RN1 \u2014 Will CR Flamengo win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786333255.9842649,
+      "bankroll": 363.38,
+      "event": "won: quavoo \u2014 CF Cruz Azul vs. New York City FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1786333256.8642108,
+      "bankroll": 363.6,
+      "event": "won: quavoo \u2014 Spread: New York City FC (-1.5)"
+    },
+    {
+      "timestamp": 1786333256.9643667,
+      "bankroll": 363.81,
+      "event": "won: quavoo \u2014 Spread: New York City FC (-1.5)"
+    },
+    {
+      "timestamp": 1786333257.0645187,
+      "bankroll": 364.02,
+      "event": "won: quavoo \u2014 Spread: New York City FC (-1.5)"
+    },
+    {
+      "timestamp": 1786333258.1436713,
+      "bankroll": 364.17,
+      "event": "won: ferrariChampions2026 \u2014 Spread: CF Cruz Azul (-1.5)"
+    },
+    {
+      "timestamp": 1786333258.344001,
+      "bankroll": 364.3,
+      "event": "won: ferrariChampions2026 \u2014 Spread: CF Cruz Azul (-1.5)"
+    },
+    {
+      "timestamp": 1786333258.4441702,
+      "bankroll": 364.44,
+      "event": "won: ferrariChampions2026 \u2014 Spread: CF Cruz Azul (-1.5)"
+    },
+    {
+      "timestamp": 1786333258.732853,
+      "bankroll": 364.76,
+      "event": "won: ferrariChampions2026 \u2014 Philadelphia Union vs. Club Necaxa: O/U 3.5"
+    },
+    {
+      "timestamp": 1786333259.0334187,
+      "bankroll": 364.9,
+      "event": "won: ferrariChampions2026 \u2014 Philadelphia Union vs. Club Necaxa: O/U 2.5"
+    },
+    {
+      "timestamp": 1786333259.3186264,
+      "bankroll": 365.1,
+      "event": "won: ferrariChampions2026 \u2014 CF Cruz Azul vs. New York City FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786333259.6420393,
+      "bankroll": 364.71,
+      "event": "lost: ferrariChampions2026 \u2014 Philadelphia Union vs. Club Necaxa: O/U 4.5"
+    },
+    {
+      "timestamp": 1786333259.9781873,
+      "bankroll": 365.1,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Philadelphia Union (-2.5)"
+    },
+    {
+      "timestamp": 1786333260.078341,
+      "bankroll": 365.28,
+      "event": "won: ferrariChampions2026 \u2014 Philadelphia Union vs. Club Necaxa: O/U 3.5"
+    },
+    {
+      "timestamp": 1786333260.1785321,
+      "bankroll": 364.8,
+      "event": "lost: ferrariChampions2026 \u2014 Philadelphia Union vs. Club Necaxa: O/U 4.5"
+    },
+    {
+      "timestamp": 1786333260.278683,
+      "bankroll": 365.0,
+      "event": "won: ferrariChampions2026 \u2014 Philadelphia Union vs. Club Necaxa: O/U 3.5"
+    },
+    {
+      "timestamp": 1786333260.378874,
+      "bankroll": 365.2,
+      "event": "won: ferrariChampions2026 \u2014 Spread: CF Cruz Azul (-1.5)"
+    },
+    {
+      "timestamp": 1786333261.0763862,
+      "bankroll": 364.63,
+      "event": "lost: ferrariChampions2026 \u2014 Philadelphia Union vs. Club Necaxa: O/U 4.5"
+    },
+    {
+      "timestamp": 1786333262.421108,
+      "bankroll": 364.88,
+      "event": "won: ferrariChampions2026 \u2014 Spread: CF Cruz Azul (-1.5)"
+    },
+    {
+      "timestamp": 1786333262.6882977,
+      "bankroll": 365.67,
+      "event": "won: ferrariChampions2026 \u2014 CF Cruz Azul vs. New York City FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786333262.8886008,
+      "bankroll": 366.52,
+      "event": "won: ferrariChampions2026 \u2014 CF Cruz Azul vs. New York City FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786333262.9887578,
+      "bankroll": 366.07,
+      "event": "lost: ferrariChampions2026 \u2014 Philadelphia Union vs. Club Necaxa: O/U 4.5"
+    },
+    {
+      "timestamp": 1786333263.5014586,
+      "bankroll": 365.64,
+      "event": "lost: ferrariChampions2026 \u2014 Philadelphia Union vs. Club Necaxa: O/U 4.5"
+    },
+    {
+      "timestamp": 1786333263.9843285,
+      "bankroll": 365.3,
+      "event": "lost: ferrariChampions2026 \u2014 CF Cruz Azul vs. New York City FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786333264.184643,
+      "bankroll": 365.9,
+      "event": "won: ferrariChampions2026 \u2014 CF Cruz Azul vs. New York City FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786333265.0974689,
+      "bankroll": 366.1,
+      "event": "won: UpTheBlues \u2014 CF Cruz Azul vs. New York City FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786333265.7076447,
+      "bankroll": 365.43,
+      "event": "lost: UpTheBlues \u2014 Will CF Cruz Azul vs. New York City FC end in a draw?"
+    },
+    {
+      "timestamp": 1786333266.7044835,
+      "bankroll": 365.46,
+      "event": "won: UpTheBlues \u2014 Spread: CF Cruz Azul (-2.5)"
+    },
+    {
+      "timestamp": 1786333266.8046076,
+      "bankroll": 365.51,
+      "event": "won: UpTheBlues \u2014 Spread: CF Cruz Azul (-1.5)"
+    },
+    {
+      "timestamp": 1786333269.2359238,
+      "bankroll": 365.54,
+      "event": "won: swisstony \u2014 Will Philadelphia Union vs. Club Necaxa end in a draw?"
+    },
+    {
+      "timestamp": 1786333270.3373847,
+      "bankroll": 365.54,
+      "event": "won: UpTheBlues \u2014 Spread: CF Cruz Azul (-2.5)"
+    },
+    {
+      "timestamp": 1786333270.437532,
+      "bankroll": 365.54,
+      "event": "lost: UpTheBlues \u2014 Will CF Cruz Azul vs. New York City FC end in a draw?"
+    },
+    {
+      "timestamp": 1786333270.7379508,
+      "bankroll": 365.54,
+      "event": "lost: UpTheBlues \u2014 Will CF Cruz Azul vs. New York City FC end in a draw?"
+    },
+    {
+      "timestamp": 1786333271.4596045,
+      "bankroll": 365.54,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Philadelphia Union (-1.5)"
+    },
+    {
+      "timestamp": 1786333271.5597515,
+      "bankroll": 365.54,
+      "event": "won: UpTheBlues \u2014 Spread: CF Cruz Azul (-1.5)"
+    },
+    {
+      "timestamp": 1786333271.7600133,
+      "bankroll": 365.54,
+      "event": "won: UpTheBlues \u2014 Spread: New York City FC (-1.5)"
+    },
+    {
+      "timestamp": 1786333272.1527598,
+      "bankroll": 365.54,
+      "event": "lost: UpTheBlues \u2014 CF Cruz Azul vs. New York City FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786333272.2529097,
+      "bankroll": 365.54,
+      "event": "lost: UpTheBlues \u2014 CF Cruz Azul vs. New York City FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786333272.3530657,
+      "bankroll": 365.54,
+      "event": "lost: UpTheBlues \u2014 CF Cruz Azul vs. New York City FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786333272.453178,
+      "bankroll": 365.54,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Cruz Azul vs. New York City FC end in a draw?"
+    },
+    {
+      "timestamp": 1786333272.553325,
+      "bankroll": 365.54,
+      "event": "lost: UpTheBlues \u2014 Will CF Cruz Azul vs. New York City FC end in a draw?"
+    },
+    {
+      "timestamp": 1786333272.753608,
+      "bankroll": 365.54,
+      "event": "lost: UpTheBlues \u2014 CF Cruz Azul vs. New York City FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786333272.9538932,
+      "bankroll": 365.54,
+      "event": "won: ferrariChampions2026 \u2014 CF Cruz Azul vs. New York City FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786333273.0540473,
+      "bankroll": 365.54,
+      "event": "lost: UpTheBlues \u2014 CF Cruz Azul vs. New York City FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786333273.1542013,
+      "bankroll": 365.54,
+      "event": "won: UpTheBlues \u2014 Spread: CF Cruz Azul (-1.5)"
+    },
+    {
+      "timestamp": 1786333273.2543502,
+      "bankroll": 365.54,
+      "event": "won: UpTheBlues \u2014 Spread: CF Cruz Azul (-1.5)"
+    },
+    {
+      "timestamp": 1786333273.6765509,
+      "bankroll": 365.54,
+      "event": "won: UpTheBlues \u2014 Spread: CF Cruz Azul (-1.5)"
+    },
+    {
+      "timestamp": 1786333274.3761957,
+      "bankroll": 365.54,
+      "event": "lost: ferrariChampions2026 \u2014 Will New York City FC win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786333274.476309,
+      "bankroll": 365.54,
+      "event": "lost: UpTheBlues \u2014 CF Cruz Azul vs. New York City FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786333274.5764382,
+      "bankroll": 365.54,
+      "event": "won: UpTheBlues \u2014 CF Cruz Azul vs. New York City FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786333274.6765857,
+      "bankroll": 365.54,
+      "event": "won: UpTheBlues \u2014 Spread: CF Cruz Azul (-1.5)"
+    },
+    {
+      "timestamp": 1786333275.3636138,
+      "bankroll": 365.54,
+      "event": "lost: UpTheBlues \u2014 CF Cruz Azul vs. New York City FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786333275.886305,
+      "bankroll": 365.54,
+      "event": "won: UpTheBlues \u2014 Spread: New York City FC (-1.5)"
+    },
+    {
+      "timestamp": 1786333278.5942326,
+      "bankroll": 365.54,
+      "event": "won: UpTheBlues \u2014 Will Philadelphia Union vs. Club Necaxa end in a draw?"
+    },
+    {
+      "timestamp": 1786333279.2952049,
+      "bankroll": 365.54,
+      "event": "won: UpTheBlues \u2014 Spread: CF Cruz Azul (-1.5)"
+    },
+    {
+      "timestamp": 1786333279.3953526,
+      "bankroll": 365.54,
+      "event": "won: UpTheBlues \u2014 Will CF Cruz Azul vs. New York City FC end in a draw?"
     }
   ]
 }
