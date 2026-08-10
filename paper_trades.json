@@ -47827,5 +47827,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786345836.2013655,
     "fills": 1
+  },
+  {
+    "timestamp": 1786345904,
+    "timestamp_added": 1786345904.6466904,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "swe-sir-bro-2026-08-10-spread-home-1pt5",
+    "title": "Spread: IK Sirius (-1.5)",
+    "outcome": "IK Sirius",
+    "side": "BUY",
+    "whale_usd": 413.998,
+    "whale_pct": 4.895,
+    "paper_stake_usd": 18.98,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786345904.6466997,
+    "fills": 1
   }
 ]

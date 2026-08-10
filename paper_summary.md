@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 02:10:59 (hora de Perú)
+Actualizado: 2026-08-10 02:13:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -29,6 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
 | Forecastication2 | 0 | 0 | 5 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 1 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
@@ -271,6 +272,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| GoalLineGhost | Spread: IK Sirius (-1.5) | IK Sirius (BUY) | 52% | 18.98 | ⏳ pendiente | — |
 | quavoo | Toronto Tempo vs. Atlanta Dream: O/U 185 | Over (BUY) | 55% | 1.34 | ⏳ pendiente | — |
 | quavoo | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 52% | 0.65 | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 53% | 2.58 | ⏳ pendiente | — |
@@ -300,4 +302,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | fRibrenlc | LoL: Hanwha Life Esports vs Gen.G (BO3)  | Gen.G (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Toronto Tempo vs. Atlanta Dream: O/U 184 | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
