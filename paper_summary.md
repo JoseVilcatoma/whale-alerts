@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 13:17:35 (hora de Perú)
+Actualizado: 2026-08-10 13:19:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $289.30
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 0 | 0 | 63 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 |  | 2 | 0 | 2 | +0.00 USD |
-| lzh1 | 1 | 0 | 1 | +0.00 USD |
+| lzh1 | 1 | 0 | 2 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | johnbaster | 0 | 0 | 1 | +0.00 USD |
 | Forecastication2 | 3 | 2 | 26 | -1.41 USD |
@@ -295,6 +295,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.71 | ⏳ pendiente | — |
 | lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 0.56 | ⏳ pendiente | — |
 | johnbaster | LoL: Natus Vincere vs G2 Esports - Game  | G2 Esports (BUY) | 93% | 29.03 | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 47% | 0.18 | ⏳ pendiente | — |
@@ -324,4 +325,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers (BO3) - KeSPA C | Gen.G (BUY) | 55% | 0.00 | ❌ perdida | -0.00 |
 | ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | Gen.G (BUY) | 69% | 0.00 | ❌ perdida | -0.00 |
-| ferrariChampions2026 | LoL: Gen.G vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 29% | 0.00 | ✅ ganada | +0.00 |
