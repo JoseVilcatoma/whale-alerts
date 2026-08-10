@@ -48636,5 +48636,50 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786350020.9259746,
     "fills": 3
+  },
+  {
+    "timestamp": 1786350206,
+    "timestamp_added": 1786350206.7047033,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-hle1-gen-2026-08-10",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 554.04,
+    "whale_pct": 0.46,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "fRibrenlc"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786350219.16095,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786350254,
+    "timestamp_added": 1786350255.0047793,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "swe-sir-bro-2026-08-10-sir",
+    "title": "Will IK Sirius win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 115.34,
+    "whale_pct": 0.158,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786350255.0047884,
+    "fills": 1
   }
 ]
