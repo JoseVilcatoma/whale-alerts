@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 17:01:01 (hora de Perú)
+Actualizado: 2026-08-10 17:03:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $201.56
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| UpTheBlues | 124 | 76 | 5 | -4.37 USD |
+| UpTheBlues | 124 | 76 | 6 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 3 | 19 | 9 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -302,6 +302,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will CA Banfield win on 2026-08-10? | No (BUY) | 69% | 0.23 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: Both Te | Yes (BUY) | 35% | 0.60 | ⏳ pendiente | — |
 | UpTheBlues | Will Caracas FC win on 2026-08-10? | No (BUY) | 71% | 0.22 | ⏳ pendiente | — |
 | theowalcott | CA Banfield vs. CA Belgrano: O/U 1.5 | Over (BUY) | 63% | 0.53 | ⏳ pendiente | — |
@@ -331,4 +332,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Vasteraas SK vs. Djurgardens IF end | No (BUY) | 71% | 0.43 | ✅ ganada | +0.18 |
 | quavoo | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Panathinaikós AO (BUY) | 70% | 0.35 | ⏳ pendiente | — |
 | RN1 | IK Sirius vs. IF Brommapojkarna: O/U 4.5 | Under (BUY) | 39% | 0.43 | ✅ ganada | +0.67 |
-| lzh1 | Will FCSB win on 2026-08-09? | No (BUY) | 48% | 1.04 | ⏳ pendiente | — |

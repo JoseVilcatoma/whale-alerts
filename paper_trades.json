@@ -55086,5 +55086,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786399202.9649508,
     "fills": 1
+  },
+  {
+    "timestamp": 1786399346,
+    "timestamp_added": 1786399346.7912865,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-ban-bel-2026-08-10-ban",
+    "title": "Will CA Banfield win on 2026-08-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 269.78999999999996,
+    "whale_pct": 0.114,
+    "paper_stake_usd": 0.23,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786399346.7912922,
+    "fills": 1
   }
 ]
