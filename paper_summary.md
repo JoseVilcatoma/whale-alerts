@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 04:41:21 (hora de Perú)
+Actualizado: 2026-08-10 04:43:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BrotherObama | 1 | 0 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 0 | +0.00 USD |
-| Forecastication2 | 0 | 0 | 16 | +0.00 USD |
+| Forecastication2 | 0 | 0 | 18 | +0.00 USD |
 | GoalLineGhost | 0 | 0 | 18 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 9 | +0.00 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 490 | 369 | 32 | -140.34 USD |
+| ferrariChampions2026 | 490 | 369 | 33 | -140.34 USD |
 | TAIWANNUMBERONE | 26 | 38 | 0 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -279,6 +279,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 80% | 0.00 | ⏳ pendiente | — |
+| Forecastication2 | Will Djurgardens IF win on 2026-08-10? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ - Game 1 W | Power Rangers (BUY) | 79% | 0.00 | ⏳ pendiente | — |
 | quavoo | LoL: SK Gaming vs Team Vitality (BO3) -  | SK Gaming (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CD Santa Clara (-1.5) | CD Santa Clara (BUY) | 26% | 0.00 | ⏳ pendiente | — |
@@ -306,6 +309,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX - Game 1 W | Kiwoom DRX (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Hanwha Life Esports Challengers vs  | Hanwha Life Esports Challengers (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: DN SOOPers vs Kiwoom DRX - Game 1 W | DN SOOPers (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Hanwha Life Esports Challengers vs  | Hanwha Life Esports Challengers (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 56% | 0.00 | ⏳ pendiente | — |

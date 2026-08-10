@@ -49812,5 +49812,75 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786354635.4403238,
     "fills": 3
+  },
+  {
+    "timestamp": 1786354884,
+    "timestamp_added": 1786354885.2969747,
+    "username": "Forecastication2",
+    "wallet": "0xdd5ef115f801999575b03d78d0115ad8b2d59040",
+    "slug": "swe-vas-dju-2026-08-10-dju",
+    "title": "Will Djurgardens IF win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 23.520000000000003,
+    "whale_pct": 0.335,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786354886.9157097,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786354913,
+    "timestamp_added": 1786354914.2705352,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-drx-2026-08-10",
+    "title": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "whale_usd": 516.0,
+    "whale_pct": 0.384,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "BBQChickenisthebesttt",
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786354914.2705445,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786354984,
+    "timestamp_added": 1786354984.8686893,
+    "username": "Forecastication2",
+    "wallet": "0xdd5ef115f801999575b03d78d0115ad8b2d59040",
+    "slug": "swe-vas-dju-2026-08-10-dju",
+    "title": "Will Djurgardens IF win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 8.4,
+    "whale_pct": 0.119,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786354984.8686988,
+    "fills": 1
   }
 ]
