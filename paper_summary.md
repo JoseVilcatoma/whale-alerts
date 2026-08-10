@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 17:07:09 (hora de Perú)
+Actualizado: 2026-08-10 17:09:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $201.58
-**Retorno acumulado:** -79.84%
+**Bankroll actual:** $201.08
+**Retorno acumulado:** -79.89%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -32,9 +32,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 | lzh1 | 1 | 0 | 4 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| Wealthfreedom001 | 0 | 0 | 2 | +0.00 USD |
 | VD721lsj4938Dk388 | 0 | 0 | 1 | +0.00 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
+| Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | swisstony | 19 | 13 | 0 | -2.77 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 6 | -4.37 USD |
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 2 | -148.65 USD |
+| ferrariChampions2026 | 538 | 431 | 4 | -148.65 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -302,6 +302,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | RED Canids (BUY) | 49% | 0.44 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | Leviatan Esports (BUY) | 35% | 0.28 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Banfield win on 2026-08-10? | No (BUY) | 69% | 0.23 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: Both Te | Yes (BUY) | 35% | 0.60 | ⏳ pendiente | — |
 | UpTheBlues | Will Caracas FC win on 2026-08-10? | No (BUY) | 71% | 0.22 | ⏳ pendiente | — |
@@ -317,7 +319,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Plymouth Argyle FC vs. Exeter City FC: O | Over (BUY) | 61% | 3.20 | ⏳ pendiente | — |
 | quavoo | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 50% | 0.56 | ⏳ pendiente | — |
 | quavoo | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 50% | 1.40 | ⏳ pendiente | — |
-| Wealthfreedom001 | Dota 2: Rune Eaters vs Natus Vincere - G | Rune Eaters (BUY) | 32% | 0.50 | ⏳ pendiente | — |
+| Wealthfreedom001 | Dota 2: Rune Eaters vs Natus Vincere - G | Rune Eaters (BUY) | 32% | 0.50 | ❌ perdida | -0.50 |
 | quavoo | Will CD Santa Clara win on 2026-08-10? | Yes (BUY) | 50% | 0.29 | ⏳ pendiente | — |
 | RN1 | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 36% | 0.48 | ❌ perdida | -0.48 |
 | RN1 | Silkeborg IF vs. Odense BK: O/U 1.5 | Under (BUY) | 48% | 0.39 | ✅ ganada | +0.42 |
@@ -330,5 +332,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will IK Sirius win on 2026-08-10? | No (BUY) | 59% | 1.21 | ✅ ganada | +0.84 |
 | RN1 | Vasteraas SK vs. Djurgardens IF: O/U 3.5 | Under (BUY) | 95% | 7.67 | ✅ ganada | +0.40 |
 | RN1 | Will Vasteraas SK vs. Djurgardens IF end | No (BUY) | 71% | 0.43 | ✅ ganada | +0.18 |
-| quavoo | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Panathinaikós AO (BUY) | 70% | 0.35 | ⏳ pendiente | — |
-| RN1 | IK Sirius vs. IF Brommapojkarna: O/U 4.5 | Under (BUY) | 39% | 0.43 | ✅ ganada | +0.67 |

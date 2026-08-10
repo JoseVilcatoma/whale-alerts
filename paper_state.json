@@ -1,5 +1,5 @@
 {
-  "bankroll": 201.58464602604838,
+  "bankroll": 201.08464602604838,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12535,6 +12535,11 @@
       "timestamp": 1786399438.3979259,
       "bankroll": 201.58,
       "event": "won: GoalLineGhost \u2014 CA All Boys vs. CA Central Norte Salta: O/U 4.5"
+    },
+    {
+      "timestamp": 1786399746.1612484,
+      "bankroll": 201.08,
+      "event": "lost: Wealthfreedom001 \u2014 Dota 2: Rune Eaters vs Natus Vincere - Game 1 Winner"
     }
   ]
 }
