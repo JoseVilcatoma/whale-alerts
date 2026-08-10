@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 06:50:43 (hora de Perú)
+Actualizado: 2026-08-10 06:52:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $230.74
@@ -44,8 +44,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 0 | 12 | 5 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 502 | 375 | 45 | -138.54 USD |
-| TAIWANNUMBERONE | 26 | 38 | 1 | -295.07 USD |
+| ferrariChampions2026 | 505 | 375 | 43 | -138.54 USD |
+| TAIWANNUMBERONE | 26 | 38 | 2 | -295.07 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -284,6 +284,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: Eternal Fire Academy vs  | Eternal Fire Academy (BUY) | 56% | 0.25 | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Game Handicap: G2 (-1.5) vs Natus Vincer | Natus Vincere (BUY) | 45% | 0.64 | ⏳ pendiente | — |
 | Forecastication2 | Will Vasteraas SK win on 2026-08-10? | No (BUY) | 79% | 0.48 | ⏳ pendiente | — |
 | GoalLineGhost | CD Santa Clara vs. CD Nacional: O/U 4.5 | Under (BUY) | 92% | 0.35 | ⏳ pendiente | — |
 |  | Games Total: O/U 2.5 | Over (BUY) | 18% | 0.34 | ⏳ pendiente | — |
@@ -312,5 +314,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Odense BK (-2.5) | Silkeborg IF (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: IK Sirius (-1.5) | IK Sirius (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| quavoo | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 23% | 0.00 | ⏳ pendiente | — |
