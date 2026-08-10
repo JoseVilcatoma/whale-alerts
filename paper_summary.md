@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 05:54:29 (hora de Perú)
+Actualizado: 2026-08-10 05:56:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| quavoo | 121 | 107 | 27 | -16.28 USD |
+| quavoo | 121 | 107 | 28 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Djdjdjekekek | 0 | 4 | 13 | -31.98 USD |
@@ -283,6 +283,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Djurgardens IF (-2.5) | Vasteraas SK (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CD Nacional (-1.5) | CD Santa Clara (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Will IF Brommapojkarna win on 2026-08-10 | Yes (BUY) | 10% | 0.00 | ⏳ pendiente | — |
@@ -312,4 +313,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | LoL: Hanwha Life Esports Challengers vs  | Gen.G Global Academy (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - Ke | Kiwoom DRX (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ - Game 2 W | Power Rangers (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Power Rangers vs MOUZ (BO3) - EP | Power Rangers (BUY) | 84% | 0.00 | ⏳ pendiente | — |
