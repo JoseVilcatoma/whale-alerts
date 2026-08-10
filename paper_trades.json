@@ -40919,5 +40919,69 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786321186.6912825,
     "fills": 1
+  },
+  {
+    "timestamp": 1786321198,
+    "timestamp_added": 1786321198.5235214,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-chi-san-2026-08-09-spread-home-1pt5",
+    "title": "Spread: Chicago Fire FC (-1.5)",
+    "outcome": "Club Santos Laguna",
+    "side": "BUY",
+    "whale_usd": 605.9322,
+    "whale_pct": 0.221,
+    "paper_stake_usd": 0.75,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786321198.5235312,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786321262,
+    "timestamp_added": 1786321263.0311005,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-caz-nyc-2026-08-09-total-2pt5",
+    "title": "CF Cruz Azul vs. New York City FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 587.8895000000001,
+    "whale_pct": 0.214,
+    "paper_stake_usd": 0.73,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786321263.0311098,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786321280,
+    "timestamp_added": 1786321280.886464,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-hou-sd-2026-08-09-total-8pt5",
+    "title": "Houston Astros vs. San Diego Padres: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1400.9996,
+    "whale_pct": 0.87,
+    "paper_stake_usd": 2.97,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786321280.8864717,
+    "fills": 1
   }
 ]
