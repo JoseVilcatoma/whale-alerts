@@ -1,5 +1,5 @@
 {
-  "bankroll": 340.7499590518072,
+  "bankroll": 338.7988939691209,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -9380,6 +9380,101 @@
       "timestamp": 1786329532.3982775,
       "bankroll": 340.75,
       "event": "won: RN1 \u2014 Will SC Corinthians Paulista win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786329843.7472959,
+      "bankroll": 340.78,
+      "event": "won: RN1 \u2014 Will EC Vit\u00f3ria win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786329844.1540716,
+      "bankroll": 340.46,
+      "event": "lost: RN1 \u2014 CR Flamengo vs. EC Vit\u00f3ria: O/U 3.5"
+    },
+    {
+      "timestamp": 1786329844.4801588,
+      "bankroll": 342.15,
+      "event": "won: ferrariChampions2026 \u2014 CR Flamengo vs. EC Vit\u00f3ria: O/U 2.5"
+    },
+    {
+      "timestamp": 1786329844.8585463,
+      "bankroll": 342.16,
+      "event": "won: RN1 \u2014 Will EC Vit\u00f3ria win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786329845.3811328,
+      "bankroll": 341.4,
+      "event": "lost: quavoo \u2014 Valorant: LOUD vs 100 Thieves (BO3) - VCT Americas Stage 2 Group Omega"
+    },
+    {
+      "timestamp": 1786329845.4812856,
+      "bankroll": 341.41,
+      "event": "won: RN1 \u2014 Will EC Vit\u00f3ria win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786329846.0948603,
+      "bankroll": 341.42,
+      "event": "won: RN1 \u2014 Will EC Vit\u00f3ria win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786329846.6843133,
+      "bankroll": 341.42,
+      "event": "won: RN1 \u2014 Will EC Vit\u00f3ria win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786329846.7844937,
+      "bankroll": 341.42,
+      "event": "won: RN1 \u2014 Will EC Vit\u00f3ria win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786329847.6985369,
+      "bankroll": 341.85,
+      "event": "won: RN1 \u2014 CR Flamengo vs. EC Vit\u00f3ria: O/U 2.5"
+    },
+    {
+      "timestamp": 1786329847.7986627,
+      "bankroll": 338.53,
+      "event": "lost: ferrariChampions2026 \u2014 CR Flamengo vs. EC Vit\u00f3ria: O/U 2.5"
+    },
+    {
+      "timestamp": 1786329848.2032034,
+      "bankroll": 338.54,
+      "event": "won: RN1 \u2014 Will EC Vit\u00f3ria win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786329848.9097543,
+      "bankroll": 338.57,
+      "event": "won: RN1 \u2014 Will CR Flamengo vs. EC Vit\u00f3ria end in a draw?"
+    },
+    {
+      "timestamp": 1786329849.7442908,
+      "bankroll": 338.58,
+      "event": "won: RN1 \u2014 Will EC Vit\u00f3ria win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786329850.9321694,
+      "bankroll": 338.77,
+      "event": "won: RN1 \u2014 CR Flamengo vs. EC Vit\u00f3ria: O/U 1.5"
+    },
+    {
+      "timestamp": 1786329856.602219,
+      "bankroll": 339.2,
+      "event": "won: quavoo \u2014 Houston Astros vs. San Diego Padres: O/U 7.5"
+    },
+    {
+      "timestamp": 1786329860.528641,
+      "bankroll": 340.04,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Houston Astros vs. San Diego Padres: O/U 7.5"
+    },
+    {
+      "timestamp": 1786329870.615481,
+      "bankroll": 340.04,
+      "event": "won: ferrariChampions2026 \u2014 Houston Astros vs. San Diego Padres: O/U 7.5"
+    },
+    {
+      "timestamp": 1786329875.6683183,
+      "bankroll": 338.8,
+      "event": "lost: HomeRunHazard \u2014 Houston Astros vs. San Diego Padres: O/U 7.5"
     }
   ]
 }
