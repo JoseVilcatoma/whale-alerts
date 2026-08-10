@@ -1,5 +1,5 @@
 {
-  "bankroll": 229.45514286615588,
+  "bankroll": 289.296051957065,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -11670,6 +11670,266 @@
       "timestamp": 1786383004.0053096,
       "bankroll": 229.46,
       "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Eternal Fire Academy vs Vitality Academy (BO3) - European Pro League Regular Group D"
+    },
+    {
+      "timestamp": 1786385524.6940606,
+      "bankroll": 228.6,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385524.894461,
+      "bankroll": 227.82,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385524.994679,
+      "bankroll": 226.32,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385525.690347,
+      "bankroll": 226.03,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786385526.0911145,
+      "bankroll": 225.74,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786385526.291543,
+      "bankroll": 225.35,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786385526.3918428,
+      "bankroll": 224.57,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786385526.5923462,
+      "bankroll": 223.81,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786385526.7927134,
+      "bankroll": 222.92,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385526.9929798,
+      "bankroll": 222.28,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786385527.0931468,
+      "bankroll": 236.17,
+      "event": "won: BrotherObama \u2014 LoL: Gen.G vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786385527.193286,
+      "bankroll": 235.85,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786385527.2934394,
+      "bankroll": 291.45,
+      "event": "won: BrotherObama \u2014 LoL: Gen.G vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786385527.3935983,
+      "bankroll": 291.15,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786385529.433242,
+      "bankroll": 290.76,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385529.6336095,
+      "bankroll": 290.39,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385529.7338567,
+      "bankroll": 289.66,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385530.3176768,
+      "bankroll": 289.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385530.5181491,
+      "bankroll": 289.3,
+      "event": "won: lzh1 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385530.919225,
+      "bankroll": 289.3,
+      "event": "lost: 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385531.3530486,
+      "bankroll": 289.3,
+      "event": "lost: 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 \u2014 LoL: Gen.G vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786385532.3718355,
+      "bankroll": 289.3,
+      "event": "lost: 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 \u2014 LoL: Gen.G vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786385532.47205,
+      "bankroll": 289.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385532.572255,
+      "bankroll": 289.3,
+      "event": "lost: 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385533.1053667,
+      "bankroll": 289.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786385533.2056363,
+      "bankroll": 289.3,
+      "event": "won: BrotherObama \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385533.305826,
+      "bankroll": 289.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786385533.406066,
+      "bankroll": 289.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385533.506302,
+      "bankroll": 289.3,
+      "event": "won: BrotherObama \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385534.2343845,
+      "bankroll": 289.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385534.3348217,
+      "bankroll": 289.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786385534.435086,
+      "bankroll": 289.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786385534.535303,
+      "bankroll": 289.3,
+      "event": "won: BrotherObama \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385534.7357905,
+      "bankroll": 289.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786385534.836025,
+      "bankroll": 289.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385534.9364488,
+      "bankroll": 289.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786385535.0366187,
+      "bankroll": 289.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385535.136852,
+      "bankroll": 289.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786385535.2369998,
+      "bankroll": 289.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786385535.337235,
+      "bankroll": 289.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385535.5376046,
+      "bankroll": 289.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385535.6377823,
+      "bankroll": 289.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385535.8381877,
+      "bankroll": 289.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385535.938333,
+      "bankroll": 289.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786385536.038611,
+      "bankroll": 289.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385536.1387825,
+      "bankroll": 289.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786385536.2390068,
+      "bankroll": 289.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385536.6473203,
+      "bankroll": 289.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786385537.5235198,
+      "bankroll": 289.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier"
+    },
+    {
+      "timestamp": 1786385537.6236813,
+      "bankroll": 289.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786385537.7238517,
+      "bankroll": 289.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786385537.8239899,
+      "bankroll": 289.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Gen.G vs DN SOOPers - Game 2 Winner"
     }
   ]
 }
