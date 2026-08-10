@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 17:56:52 (hora de Perú)
+Actualizado: 2026-08-10 17:58:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $201.08
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VD721lsj4938Dk388 | 0 | 0 | 1 | +0.00 USD |
 | VeryLucky888 | 1 | 0 | 2 | +0.00 USD |
 | Anjun | 0 | 0 | 1 | +0.00 USD |
-| SnakeBall | 0 | 0 | 6 | +0.00 USD |
+| SnakeBall | 0 | 0 | 9 | +0.00 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | swisstony | 19 | 13 | 10 | -2.77 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 24 | -148.65 USD |
+| ferrariChampions2026 | 538 | 431 | 25 | -148.65 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -313,6 +313,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| SnakeBall | Will Goiás EC vs. Londrina EC end in a d | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
+| SnakeBall | Anapolis FC GO vs. Guarani FC SP: O/U 2. | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 45% | 0.00 | ⏳ pendiente | — |
+| SnakeBall | LoL: LOS vs paiN Gaming (BO3) - CBLOL Re | LOS (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | SnakeBall | Will CA Central Córdoba win on 2026-08-1 | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | SnakeBall | Will Guarani FC SP win on 2026-08-10? | No (BUY) | 57% | 0.00 | ⏳ pendiente | — |
@@ -339,7 +343,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | LoL: Leviatan Esports vs RED Canids - Ga | Leviatan Esports (BUY) | 45% | 46.26 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 58% | 0.23 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 53% | 0.24 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids (BO3 | Leviatan Esports (BUY) | 53% | 0.25 | ⏳ pendiente | — |
-| swisstony | CA Banfield vs. CA Belgrano: Both Teams  | No (BUY) | 64% | 0.48 | ⏳ pendiente | — |
-| UpTheBlues | Will Anapolis FC GO win on 2026-08-10? | No (BUY) | 69% | 0.67 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Leviatan Esports vs RED Canids - Ga | RED Canids (BUY) | 58% | 0.25 | ⏳ pendiente | — |
