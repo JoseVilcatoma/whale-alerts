@@ -1,5 +1,5 @@
 {
-  "bankroll": 404.6605675562389,
+  "bankroll": 400.2825607704472,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -10680,6 +10680,76 @@
       "timestamp": 1786342426.4100924,
       "bankroll": 404.66,
       "event": "lost: ferrariChampions2026 \u2014 San Diego FC vs. Club Tijuana: O/U 1.5"
+    },
+    {
+      "timestamp": 1786342983.0707343,
+      "bankroll": 404.83,
+      "event": "won: quavoo \u2014 CF Am\u00e9rica vs. Portland Timbers: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786342983.7508342,
+      "bankroll": 404.83,
+      "event": "won: quavoo \u2014 CF Am\u00e9rica vs. Portland Timbers: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786342983.8509908,
+      "bankroll": 404.83,
+      "event": "won: quavoo \u2014 CF Am\u00e9rica vs. Portland Timbers: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786342984.6706038,
+      "bankroll": 404.83,
+      "event": "won: UpTheBlues \u2014 Will Portland Timbers win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786342985.3726552,
+      "bankroll": 404.83,
+      "event": "won: quavoo \u2014 CF Am\u00e9rica vs. Portland Timbers: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342985.6731179,
+      "bankroll": 404.3,
+      "event": "lost: ferrariChampions2026 \u2014 Will Portland Timbers win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786342985.9680996,
+      "bankroll": 404.45,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Am\u00e9rica vs. Portland Timbers end in a draw?"
+    },
+    {
+      "timestamp": 1786342986.2685723,
+      "bankroll": 405.04,
+      "event": "won: ferrariChampions2026 \u2014 CF Am\u00e9rica vs. Portland Timbers: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342986.5690951,
+      "bankroll": 401.0,
+      "event": "lost: UpTheBlues \u2014 Will Portland Timbers win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786342986.8696058,
+      "bankroll": 401.0,
+      "event": "lost: ferrariChampions2026 \u2014 Will Portland Timbers win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786342987.254861,
+      "bankroll": 401.07,
+      "event": "won: UpTheBlues \u2014 Spread: Portland Timbers (-1.5)"
+    },
+    {
+      "timestamp": 1786342990.4505684,
+      "bankroll": 400.52,
+      "event": "lost: ferrariChampions2026 \u2014 Will Portland Timbers win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786342991.2517555,
+      "bankroll": 401.21,
+      "event": "won: ferrariChampions2026 \u2014 CF Am\u00e9rica vs. Portland Timbers: O/U 2.5"
+    },
+    {
+      "timestamp": 1786342991.8527188,
+      "bankroll": 400.28,
+      "event": "lost: NordhavenCap \u2014 Spread: Portland Timbers (-1.5)"
     }
   ]
 }
