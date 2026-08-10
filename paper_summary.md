@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 06:13:17 (hora de Perú)
+Actualizado: 2026-08-10 06:15:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $387.62
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | UpTheBlues | 124 | 76 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| quavoo | 121 | 107 | 31 | -16.28 USD |
+| quavoo | 121 | 107 | 32 | -16.28 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 141 | 73 | 0 | -23.95 USD |
 | Djdjdjekekek | 0 | 4 | 13 | -31.98 USD |
@@ -285,6 +285,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
 | quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will IK Sirius win on 2026-08-10? | Yes (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Odense BK (-2.5) | Silkeborg IF (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | Spread: IK Sirius (-1.5) | IK Sirius (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | quavoo | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
@@ -313,4 +314,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | Will Djurgardens IF win on 2026-08-10? | No (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | GoalLineGhost | IK Sirius vs. IF Brommapojkarna: O/U 3.5 | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Palermo FC (-1.5) | Juventus Turin (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| quavoo | Vasteraas SK vs. Djurgardens IF: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |

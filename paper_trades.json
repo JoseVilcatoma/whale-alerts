@@ -51172,5 +51172,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786360251.0809813,
     "fills": 1
+  },
+  {
+    "timestamp": 1786360426,
+    "timestamp_added": 1786360426.5472305,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "swe-sir-bro-2026-08-10-sir",
+    "title": "Will IK Sirius win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 141.62,
+    "whale_pct": 0.15,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786360426.5472407,
+    "fills": 1
   }
 ]
