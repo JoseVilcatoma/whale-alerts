@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:05:46 (hora de Perú)
+Actualizado: 2026-08-11 17:07:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $348.64
-**Retorno acumulado:** -65.14%
+**Bankroll actual:** $348.21
+**Retorno acumulado:** -65.18%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -45,8 +45,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 120 | 96 | 19 | -28.80 USD |
-| RN1 | 173 | 99 | 14 | -33.33 USD |
+| swisstony | 120 | 97 | 19 | -29.23 USD |
+| RN1 | 173 | 99 | 18 | -33.33 USD |
 | quavoo | 151 | 181 | 16 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -414,7 +414,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sud-boc-rec1-2026-08-11-boc | RN1, UpTheBlues |
 | sud-boc-rec1-2026-08-11-draw | UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-flu | RN1, UpTheBlues, swisstony |
-| lib-flu-cir-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
+| lib-flu-cir-2026-08-11-total-2pt5 | RN1, UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-total-1pt5 | RN1, UpTheBlues |
 | lib-flu-cir-2026-08-11-cir | RN1, UpTheBlues |
 | lib-flu-cir-2026-08-11-first-half-total-1pt5 | RN1, swisstony |
@@ -423,6 +423,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 82% | 0.00 | ⏳ pendiente | — |
+| RN1 | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 68% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 82% | 0.00 | ⏳ pendiente | — |
+| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 53% | 0.91 | ⏳ pendiente | — |
 | RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 53% | 0.65 | ⏳ pendiente | — |
@@ -448,8 +453,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | LoL: RMD Gaming vs RED Academy (BO3) - C | RED Academy (BUY) | 26% | 3.87 | ⏳ pendiente | — |
 | UpTheBlues | Will CS Independiente Rivadavia win on 2 | No (BUY) | 85% | 1.43 | ⏳ pendiente | — |
 | SDTrading | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 52% | 2.35 | ⏳ pendiente | — |
-| BrotherObama | LoL: RMD Gaming vs RED Academy (BO3) - C | RED Academy (BUY) | 23% | 2.17 | ⏳ pendiente | — |
-| SDTrading | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 53% | 0.40 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 56% | 1.91 | ⏳ pendiente | — |
-| UpTheBlues | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 63% | 0.92 | ⏳ pendiente | — |
-| UpTheBlues | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 36% | 1.58 | ⏳ pendiente | — |
