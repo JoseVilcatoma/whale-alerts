@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 19:17:25 (hora de Perú)
+Actualizado: 2026-08-10 19:19:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $186.85
-**Retorno acumulado:** -81.31%
+**Bankroll actual:** $184.17
+**Retorno acumulado:** -81.58%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -18,10 +18,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
-| theowalcott | 6 | 4 | 1 | +25.43 USD |
+| theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| HomeRunHazard | 45 | 46 | 24 | +15.05 USD |
+| HomeRunHazard | 45 | 46 | 25 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 3 | +7.96 USD |
 | monkeymashingkeyboard | 3 | 0 | 6 | +2.86 USD |
@@ -39,14 +39,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 22 | 15 | 5 | -3.20 USD |
-| UpTheBlues | 128 | 77 | 22 | -4.55 USD |
+| swisstony | 22 | 16 | 4 | -3.46 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
+| UpTheBlues | 128 | 79 | 20 | -7.28 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 151 | 83 | 5 | -32.82 USD |
-| quavoo | 125 | 155 | 13 | -40.10 USD |
-| GoalLineGhost | 35 | 25 | 3 | -59.25 USD |
+| quavoo | 125 | 155 | 14 | -40.10 USD |
+| GoalLineGhost | 36 | 25 | 2 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -301,6 +301,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-gen-dnf-2026-08-10-game2 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, ferrariChampions2026 |
 | mlb-kc-lad-2026-08-10-total-7pt5 | Bulls94, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-10-spread-home-1pt5 | ferrariChampions2026, quavoo |
+| mlb-tb-oak-2026-08-10-total-10pt5 | HomeRunHazard, quavoo |
 | rou1-sep-fcs-2026-08-09-fcs | RN1, lzh1 |
 | ecu1-lib-uni-2026-08-10-uni | UpTheBlues, VD721lsj4938Dk388 |
 | arg-ban-bel-2026-08-10-total-1pt5 | UpTheBlues, swisstony, theowalcott |
@@ -321,6 +322,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: New York Mets (-1.5) | Atlanta Braves (BUY) | 29% | 0.25 | ⏳ pendiente | — |
+| quavoo | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under (BUY) | 54% | 0.24 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 186 | Under (BUY) | 50% | 0.29 | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Tempo vs. Atlanta Dream: O/U 186 | Over (BUY) | 51% | 0.67 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 187 | Under (BUY) | 51% | 0.39 | ⏳ pendiente | — |
@@ -349,5 +352,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | Will CA Central Córdoba win on 2026-08-1 | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | SnakeBall | Will Guarani FC SP win on 2026-08-10? | No (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.00 | ⏳ pendiente | — |
