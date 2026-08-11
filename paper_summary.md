@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 15:57:19 (hora de Perú)
+Actualizado: 2026-08-11 15:59:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $347.59
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 103 | 91 | 25 | -32.51 USD |
+| swisstony | 103 | 91 | 26 | -32.51 USD |
 | quavoo | 150 | 181 | 13 | -33.50 USD |
 | RN1 | 167 | 99 | 11 | -34.36 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -412,6 +412,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Paris Saint-Germain vs. Aston Villa | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors (BUY) | 64% | 0.00 | ⏳ pendiente | — |
@@ -441,4 +442,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Spread: CA Boca Juniors (-1.5) | Recoleta FC (BUY) | 40% | 3.58 | ⏳ pendiente | — |
 | theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors (BUY) | 59% | 57.43 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 86% | 4.10 | ⏳ pendiente | — |
-| BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 25% | 1.09 | ⏳ pendiente | — |
