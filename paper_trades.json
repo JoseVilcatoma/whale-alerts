@@ -59315,5 +59315,55 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786415676.279756,
     "fills": 1
+  },
+  {
+    "timestamp": 1786415772,
+    "timestamp_added": 1786415773.1087513,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-chi-sea-2026-08-10",
+    "title": "Chicago Sky vs. Seattle Storm",
+    "outcome": "Chicago Sky",
+    "side": "BUY",
+    "whale_usd": 947.3213999999999,
+    "whale_pct": 0.212,
+    "paper_stake_usd": 0.53,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "monkeymashingkeyboard",
+      "quavoo",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786415773.108759,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786415772,
+    "timestamp_added": 1786415773.6640084,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-chi-sea-2026-08-10",
+    "title": "Chicago Sky vs. Seattle Storm",
+    "outcome": "Seattle Storm",
+    "side": "BUY",
+    "whale_usd": 2285.011,
+    "whale_pct": 0.363,
+    "paper_stake_usd": 0.91,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "monkeymashingkeyboard",
+      "quavoo",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786415773.6640155,
+    "fills": 1
   }
 ]

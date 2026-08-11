@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 21:35:12 (hora de Perú)
+Actualizado: 2026-08-10 21:37:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $251.37
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
-| HomeRunHazard | 50 | 48 | 44 | +21.23 USD |
+| HomeRunHazard | 50 | 48 | 45 | +21.23 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 543 | 437 | 40 | -150.96 USD |
+| ferrariChampions2026 | 543 | 437 | 41 | -150.96 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -334,6 +334,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 59% | 0.91 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 41% | 0.53 | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 47% | 1.17 | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 11.5 | Under (BUY) | 67% | 1.69 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 53% | 1.89 | ⏳ pendiente | — |
@@ -362,5 +364,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 51% | 0.35 | ⏳ pendiente | — |
 | swisstony | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 65% | 0.42 | ⏳ pendiente | — |
 | RN1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 87% | 2.44 | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 55% | 0.45 | ⏳ pendiente | — |
-| UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 92% | 1.24 | ⏳ pendiente | — |
