@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:37:06 (hora de Perú)
+Actualizado: 2026-08-11 17:39:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| Sassy-Bucket | 0 | 0 | 3 | +0.00 USD |
+| Sassy-Bucket | 0 | 0 | 7 | +0.00 USD |
 | donthackme | 0 | 0 | 9 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 122 | 97 | 21 | -28.98 USD |
+| swisstony | 122 | 97 | 22 | -28.98 USD |
 | RN1 | 173 | 99 | 23 | -33.33 USD |
 | quavoo | 151 | 181 | 17 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -374,6 +374,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-sf-agf-2026-08-11-agf | UpTheBlues, dv-pm, swisstony |
 | lol-hle1-dnf-2026-08-11-game3 | BrotherObama, lzh1 |
 | lol-nsea-dkc-2026-08-11-game2 | BBQChickenisthebesttt, lzh1 |
+| mlb-cin-cws-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket |
 | col-csk1-pao-2026-08-11-pao | UpTheBlues, swisstony |
 | mlb-chc-wsh-2026-08-11-total-8pt5 | HomeRunHazard, Talvez10, dv-pm, ferrariChampions2026 |
 | wnba-nyl-ind-2026-08-11-spread-home-3pt5 | quavoo, wr0ngw4yb3tt0r |
@@ -417,7 +418,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sud-boc-rec1-2026-08-11-draw | UpTheBlues, ferrariChampions2026, swisstony |
 | lib-flu-cir-2026-08-11-flu | RN1, UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-total-2pt5 | RN1, UpTheBlues, swisstony |
-| lib-flu-cir-2026-08-11-total-1pt5 | RN1, UpTheBlues |
+| lib-flu-cir-2026-08-11-total-1pt5 | RN1, UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-cir | RN1, UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-first-half-total-1pt5 | RN1, swisstony |
 
@@ -425,6 +426,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| Sassy-Bucket | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| Sassy-Bucket | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| Sassy-Bucket | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 67% | 0.00 | ⏳ pendiente | — |
@@ -450,8 +456,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | donthackme | Will annual inflation be 3.9% in July? | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | donthackme | Will annual inflation be 3.3% in July? | No (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | donthackme | Will annual inflation be 3.2% in July? | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
-| donthackme | Will annual inflation be 3.8% in July? | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| donthackme | Will annual inflation be 3.5% in July? | No (BUY) | 86% | 0.69 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: cobblemon vs Grêmio Espo | Grêmio Esports (BUY) | 84% | 0.66 | ⏳ pendiente | — |
-| RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: RMD Gaming vs RED Academy - Game 1  | RMD Gaming (BUY) | 77% | 0.00 | ⏳ pendiente | — |
