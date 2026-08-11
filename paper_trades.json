@@ -64303,5 +64303,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786447226.5155175,
     "fills": 2
+  },
+  {
+    "timestamp": 1786447265,
+    "timestamp_added": 1786447265.2488246,
+    "username": "lzh1",
+    "wallet": "0x282f81747948a90105d944b5a5a2043825d67c4e",
+    "slug": "acle-gaw-gam-2026-08-11-gaw",
+    "title": "Will Gangwon FC win on 2026-08-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 36.64,
+    "whale_pct": 0.26,
+    "paper_stake_usd": 0.87,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786447265.2488325,
+    "fills": 1
   }
 ]
