@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 22:58:27 (hora de Perú)
+Actualizado: 2026-08-10 23:00:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $264.90
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 25 | 17 | 8 | -3.90 USD |
+| swisstony | 25 | 17 | 9 | -3.90 USD |
 | UpTheBlues | 141 | 95 | 24 | -6.30 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
@@ -276,7 +276,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-hou-sd-2026-08-09-spread-home-3pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | lec-ame-por-2026-08-09-spread-away-1pt5 | NordhavenCap, UpTheBlues |
 | lec-ame-por-2026-08-09-spread-home-1pt5 | NordhavenCap, UpTheBlues |
-| mlb-kc-lad-2026-08-10-spread-home-1pt5 | HomeRunHazard, ferrariChampions2026, quavoo, wr0ngw4yb3tt0r |
+| mlb-kc-lad-2026-08-10-spread-home-1pt5 | HomeRunHazard, ferrariChampions2026, quavoo, swisstony, wr0ngw4yb3tt0r |
 | lec-ame-por-2026-08-09-total-3pt5 | NordhavenCap, ferrariChampions2026 |
 | lol-hle1-gen-2026-08-10 | Djdjdjekekek, fRibrenlc, ferrariChampions2026 |
 | mlb-phi-stl-2026-08-10-total-8pt5 | HomeRunHazard, RN1 |
@@ -349,6 +349,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 72% | 0.52 | ⏳ pendiente | — |
 | swisstony | Spread: Tampa Bay Rays (-1.5) | Athletics (BUY) | 42% | 0.55 | ⏳ pendiente | — |
 | swisstony | Spread: Arizona Diamondbacks (-7.5) | Colorado Rockies (BUY) | 72% | 0.42 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-7.5) | Arizona Diamondbacks (BUY) | 27% | 2.02 | ⏳ pendiente | — |
@@ -378,4 +379,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Arizona Diamondbacks (-6.5) | Colorado Rockies (BUY) | 28% | 0.36 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-7.5) | Colorado Rockies (BUY) | 50% | 0.94 | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 60% | 0.58 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Arizona Diamondbacks (-8.5) | Colorado Rockies (BUY) | 64% | 0.59 | ⏳ pendiente | — |
