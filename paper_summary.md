@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 15:26:19 (hora de Perú)
+Actualizado: 2026-08-11 15:28:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $444.09
-**Retorno acumulado:** -55.59%
+**Bankroll actual:** $356.98
+**Retorno acumulado:** -64.30%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
-| dv-pm | 2 | 2 | 5 | +107.28 USD |
+| dv-pm | 2 | 3 | 4 | +106.62 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
@@ -22,8 +22,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
+| 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 2 | 6 | 2 | +17.41 USD |
-| 0x4f2 | 16 | 14 | 3 | +16.69 USD |
 | HomeRunHazard | 93 | 83 | 30 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
@@ -36,23 +36,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
+| UpTheBlues | 193 | 127 | 58 | -1.55 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
-| UpTheBlues | 181 | 116 | 81 | -1.81 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 90 | 76 | 53 | -23.94 USD |
-| BrotherObama | 7 | 3 | 5 | -24.77 USD |
-| quavoo | 146 | 177 | 19 | -31.51 USD |
-| RN1 | 167 | 99 | 0 | -34.36 USD |
+| swisstony | 93 | 76 | 50 | -22.86 USD |
+| quavoo | 148 | 179 | 15 | -33.00 USD |
+| RN1 | 167 | 99 | 2 | -34.36 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 3 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 614 | 463 | 1 | -104.41 USD |
+| BrotherObama | 7 | 5 | 3 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -409,6 +409,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 94% | 0.62 | ⏳ pendiente | — |
+| RN1 | Will Olympique Lyonnais vs. AC Sparta Pr | No (BUY) | 99% | 2.48 | ⏳ pendiente | — |
 | UpTheBlues | Will Fenerbahçe SK win on 2026-08-11? | Yes (BUY) | 96% | 0.57 | ⏳ pendiente | — |
 | UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 61% | 0.71 | ⏳ pendiente | — |
 | SDTrading | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
@@ -420,10 +422,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will AC Sparta Praha win on 2026-08-11? | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
 | quavoo | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 47% | 1.76 | ⏳ pendiente | — |
-| UpTheBlues | NK Celje vs. Ararat-Armenia FA: O/U 3.5 | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | NK Celje vs. Ararat-Armenia FA: O/U 3.5 | Under (BUY) | 96% | 0.00 | ✅ ganada | +0.00 |
 | BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will SK Puntigamer Sturm Graz win on 202 | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | NK Celje vs. Ararat-Armenia FA: O/U 1.5 | Under (BUY) | 89% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | NK Celje vs. Ararat-Armenia FA: O/U 1.5 | Under (BUY) | 89% | 0.00 | ❌ perdida | -0.00 |
 | UpTheBlues | Will Fenerbahçe SK win on 2026-08-11? | No (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
@@ -437,5 +439,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 67% | 1.42 | ✅ ganada | +0.70 |
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 30% | 0.61 | ⏳ pendiente | — |
 | UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 98% | 0.82 | ✅ ganada | +0.02 |
-| UpTheBlues | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 93% | 0.87 | ⏳ pendiente | — |
-| UpTheBlues | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 98% | 3.74 | ⏳ pendiente | — |
