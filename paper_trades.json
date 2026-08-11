@@ -63812,15 +63812,16 @@
     "whale_pct": 13.522,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 24,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "BBQChickenisthebesttt",
       "Lakersfan111"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786439990.9741964,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 9
   },
   {
     "timestamp": 1786440330,
