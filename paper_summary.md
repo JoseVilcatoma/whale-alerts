@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 10:53:56 (hora de Perú)
+Actualizado: 2026-08-11 10:56:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $340.35
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 18 | -4.23 USD |
+| swisstony | 35 | 25 | 19 | -4.23 USD |
 | Lakersfan111 | 2 | 4 | 2 | -4.76 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
@@ -367,6 +367,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 48% | 0.85 | ⏳ pendiente | — |
 | swisstony | Spread: FK Bodø/Glimt (-2.5) | RU Saint-Gilloise (BUY) | 84% | 1.16 | ⏳ pendiente | — |
 | swisstony | Will Olympique Lyonnais win on 2026-08-1 | Yes (BUY) | 70% | 0.58 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Over (BUY) | 35% | 0.43 | ⏳ pendiente | — |
@@ -396,4 +397,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Qairat FK vs. PFK Levski Sofia: O/U 1.5 | Over (BUY) | 86% | 1.46 | ⏳ pendiente | — |
 | RN1 | Qairat FK vs. PFK Levski Sofia: 1st Half | Under (BUY) | 48% | 0.52 | ⏳ pendiente | — |
 | HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 48% | 0.96 | ⏳ pendiente | — |
-| dv-pm | Sabah FK vs. Aarhus GF: 1st Half O/U 1.5 | Over (BUY) | 39% | 1.14 | ⏳ pendiente | — |
