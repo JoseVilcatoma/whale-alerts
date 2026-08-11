@@ -63704,5 +63704,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786439353.4225333,
     "fills": 1
+  },
+  {
+    "timestamp": 1786439582,
+    "timestamp_added": 1786439582.9293392,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-drxc-foxy-2026-08-11-game2",
+    "title": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner",
+    "outcome": "Kiwoom DRX Challengers",
+    "side": "BUY",
+    "whale_usd": 419.28739999999993,
+    "whale_pct": 0.997,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786439582.9293485,
+    "fills": 1
   }
 ]
