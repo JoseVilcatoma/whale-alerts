@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 15:47:09 (hora de Perú)
+Actualizado: 2026-08-11 15:49:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **30**  ($475,953 en total)
+- Apuestas registradas: **32**  ($512,420 en total)
 - Resueltas: **13** — 9 ganadas / 4 perdidas (**69%** de acierto)
-- Pendientes: 17
+- Pendientes: 19
 - Apostadores distintos: 20
 
 ### Balance
@@ -24,6 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
+| theowalcott | 0 | 0 | 4 | — | $62,639 | — |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
 | ferrariChampions2026 | 0 | 0 | 3 | — | $49,144 | — |
 | SDTrading | 0 | 0 | 2 | — | $45,068 | — |
@@ -32,7 +33,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $29,744 | +$9,167 |
 | pleaseplease123 | 0 | 0 | 1 | — | $27,284 | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 2 | — | $27,215 | — |
-| theowalcott | 0 | 0 | 2 | — | $26,171 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 2 | 0 | 0 | ⚠️ 100% (2) | $21,062 | +$8,396 |
 | Weaseloftheweek | 0 | 1 | 0 | ⚠️ 0% (1) | $14,667 | -$14,667 |
@@ -49,6 +49,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors | 1.67 (60¢) | $10,218 | — | ⏳ Pendiente |
+| theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over 2.5 | 1.67 (60¢) | $26,249 | — | ⏳ Pendiente |
 | theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over 2.5 | 1.67 (60¢) | $14,172 | — | ⏳ Pendiente |
 | theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors | 1.69 (59¢) | $11,999 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Olympique Lyonnais vs. AC Sparta Praha: O/U 3.5 | Under 3.5 | 1.41 (71¢) | $19,979 | — | ⏳ Pendiente |
