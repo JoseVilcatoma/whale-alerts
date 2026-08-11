@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 13:13:48 (hora de Perú)
+Actualizado: 2026-08-11 13:15:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $333.16
-**Retorno acumulado:** -66.68%
+**Bankroll actual:** $333.72
+**Retorno acumulado:** -66.63%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 17 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 19 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -35,15 +35,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| dv-pm | 0 | 1 | 7 | -1.14 USD |
+| dv-pm | 1 | 1 | 6 | -0.92 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 158 | 104 | 79 | -8.68 USD |
+| UpTheBlues | 160 | 104 | 80 | -8.59 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| swisstony | 68 | 66 | 72 | -20.30 USD |
+| swisstony | 69 | 66 | 71 | -20.05 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | BrotherObama | 7 | 3 | 2 | -24.77 USD |
 | quavoo | 143 | 174 | 20 | -31.25 USD |
@@ -395,6 +395,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Spread: FK Crvena zvezda (-1.5) | MH Hapoel Be'er Sheva (BUY) | 55% | 0.56 | ⏳ pendiente | — |
+| UpTheBlues | NEC vs. Olympiakós SFP: O/U 3.5 | Under (BUY) | 93% | 1.65 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.48 | ⏳ pendiente | — |
+| UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 24% | 0.36 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.48 | ⏳ pendiente | — |
 | quavoo | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 91% | 1.04 | ⏳ pendiente | — |
 | swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 81% | 0.42 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.42 | ⏳ pendiente | — |
@@ -420,8 +425,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Over (BUY) | 91% | 0.40 | ⏳ pendiente | — |
 | swisstony | Al Jazira (UAE) vs. Al-Ittihad Club: O/U | Over (BUY) | 98% | 0.35 | ⏳ pendiente | — |
 | swisstony | Will Sabah FK win on 2026-08-11? | Yes (BUY) | 97% | 2.47 | ✅ ganada | +0.08 |
-| swisstony | Will Sabah FK vs. Aarhus GF end in a dra | No (BUY) | 97% | 0.49 | ✅ ganada | +0.02 |
-| swisstony | Sabah FK vs. Aarhus GF: O/U 3.5 | Under (BUY) | 80% | 0.82 | ❌ perdida | -0.82 |
-| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.98 | ⏳ pendiente | — |
-| swisstony | Will SK Brann win on 2026-08-11? | Yes (BUY) | 54% | 0.35 | ⏳ pendiente | — |
-| swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 96% | 0.40 | ⏳ pendiente | — |
