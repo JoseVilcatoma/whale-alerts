@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 10:08:21 (hora de Perú)
+Actualizado: 2026-08-11 10:10:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **18**  ($310,239 en total)
+- Apuestas registradas: **19**  ($321,261 en total)
 - Resueltas: **0** — 0 ganadas / 0 perdidas (**0%** de acierto)
-- Pendientes: 18
-- Apostadores distintos: 16
+- Pendientes: 19
+- Apostadores distintos: 17
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -29,6 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | scottilicious | 0 | 0 | 1 | — | $11,672 | — |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 0 | 0 | 1 | — | $11,063 | — |
 | 0x076d…8d4c | 0 | 0 | 1 | — | $11,037 | — |
+| ferrariChampions2026 | 0 | 0 | 1 | — | $11,022 | — |
 | mpyh | 0 | 0 | 1 | — | $10,968 | — |
 | ThornyDevil | 0 | 0 | 1 | — | $10,680 | — |
 | 999999666544332578855667788 | 0 | 0 | 1 | — | $10,640 | — |
@@ -38,6 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $11,022 | — | ⏳ Pendiente |
 | wwarden |  |  | 1.22 (82¢) | $25,469 | — | ⏳ Pendiente |
 | Weaseloftheweek | Dota 2: MOUZ vs Rune Eaters - Game 2 Winner | MOUZ | 1.52 (66¢) | $14,667 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. New York Yankees: O/U 7.5 | Under 7.5 | 2.17 (46¢) | $15,263 | — | ⏳ Pendiente |
