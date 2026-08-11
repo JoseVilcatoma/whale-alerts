@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 14:30:39 (hora de Perú)
+Actualizado: 2026-08-11 14:32:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $337.00
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | dv-pm | 1 | 2 | 5 | -0.92 USD |
-| UpTheBlues | 170 | 111 | 96 | -0.95 USD |
+| UpTheBlues | 170 | 111 | 97 | -0.95 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -407,6 +407,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Spread: NK Celje (-2.5) | Ararat-Armenia FA (BUY) | 95% | 0.78 | ⏳ pendiente | — |
 | UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: Bo | No (BUY) | 63% | 0.45 | ⏳ pendiente | — |
 | UpTheBlues | Will NEC win on 2026-08-11? | No (BUY) | 99% | 1.21 | ⏳ pendiente | — |
 | UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | Yes (BUY) | 44% | 0.00 | ⏳ pendiente | — |
@@ -436,4 +437,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 40% | 1.33 | ⏳ pendiente | — |
 | swisstony | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 41% | 0.40 | ⏳ pendiente | — |
 | swisstony | Will NEC vs. Olympiakós SFP end in a dra | Yes (BUY) | 56% | 0.54 | ⏳ pendiente | — |
-| swisstony | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Yes (BUY) | 47% | 0.36 | ⏳ pendiente | — |
