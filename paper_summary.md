@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 05:36:48 (hora de Perú)
+Actualizado: 2026-08-11 05:38:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $423.02
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 93 | 83 | 1 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| lzh1 | 5 | 0 | 2 | +3.08 USD |
+| lzh1 | 5 | 0 | 3 | +3.08 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
@@ -351,11 +351,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
 | lol-hle1-dnf-2026-08-11 | BBQChickenisthebesttt, BrotherObama, Lakersfan111, ferrariChampions2026 |
 | lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
+| lol-hle1-dnf-2026-08-11-game3 | BrotherObama, lzh1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| lzh1 | LoL: Hanwha Life Esports vs DN SOOPers - | Hanwha Life Esports (BUY) | 23% | 5.37 | ⏳ pendiente | — |
 | BrotherObama | LoL: Hanwha Life Esports vs DN SOOPers - | Hanwha Life Esports (BUY) | 23% | 63.94 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Natus Vincere (BUY) | 54% | 1.03 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Level UP (BUY) | 39% | 0.75 | ⏳ pendiente | — |
@@ -385,4 +387,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | quavoo | Palermo FC vs. Juventus Turin: O/U 3.5 | Under (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 46% | 0.00 | ⏳ pendiente | — |
