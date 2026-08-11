@@ -1129,5 +1129,18 @@
     "usd": 18774.465555,
     "odds_at_bet": 46,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 34058,
+    "timestamp": 1786489687,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bos-tor-2026-08-11-total-6pt5",
+    "title": "Boston Red Sox vs. Toronto Blue Jays: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 16954.6048,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]

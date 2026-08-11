@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 18:08:06 (hora de Perú)
+Actualizado: 2026-08-11 18:10:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **87**  ($2,167,494 en total)
+- Apuestas registradas: **88**  ($2,184,449 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 73
+- Pendientes: 74
 - Apostadores distintos: 42
 
 ### Balance
@@ -27,8 +27,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 0 | 4 | — | $267,835 | — |
 | pleaseplease123 | 0 | 0 | 6 | — | $199,582 | — |
 | HVAB | 0 | 0 | 6 | — | $198,819 | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 5 | — | $195,369 | — |
 | Weaseloftheweek | 0 | 1 | 1 | ⚠️ 0% (1) | $193,162 | -$14,667 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 4 | — | $178,415 | — |
 | SDTrading | 0 | 0 | 6 | — | $121,629 | — |
 | AV23IUa | 0 | 0 | 2 | — | $104,685 | — |
 | ferrariChampions2026 | 1 | 0 | 6 | ⚠️ 100% (1) | $102,030 | +$8,160 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 42 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Toronto Blue Jays: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $16,955 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $22,040 | — | ⏳ Pendiente |
 | mikesports | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $18,774 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.72 (58¢) | $11,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 42 en total)_
 | theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over 2.5 | 1.67 (60¢) | $26,249 | — | ⏳ Pendiente |
 | theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over 2.5 | 1.67 (60¢) | $14,172 | — | ⏳ Pendiente |
 | theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors | 1.69 (59¢) | $11,999 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Olympique Lyonnais vs. AC Sparta Praha: O/U 3.5 | Under 3.5 | 1.41 (71¢) | $19,979 | +$8,160 | ✅ Ganada |
