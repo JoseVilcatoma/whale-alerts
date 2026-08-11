@@ -440,5 +440,18 @@
     "usd": 12800.0,
     "odds_at_bet": 64,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33856,
+    "timestamp": 1786481926,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-phi-stl-2026-08-11-spread-away-1pt5",
+    "title": "Spread: Philadelphia Phillies (-1.5)",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 10481.5344,
+    "odds_at_bet": 53,
+    "status": "pending"
   }
 ]

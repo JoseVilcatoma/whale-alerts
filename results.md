@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 15:57:39 (hora de Perú)
+Actualizado: 2026-08-11 15:59:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **34**  ($538,997 en total)
+- Apuestas registradas: **35**  ($549,478 en total)
 - Resueltas: **13** — 9 ganadas / 4 perdidas (**69%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 20
 
 ### Balance
@@ -25,9 +25,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | theowalcott | 0 | 0 | 6 | — | $89,215 | — |
+| SDTrading | 0 | 0 | 3 | — | $55,550 | — |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
 | ferrariChampions2026 | 0 | 0 | 3 | — | $49,144 | — |
-| SDTrading | 0 | 0 | 2 | — | $45,068 | — |
 | Talvez10 | 0 | 0 | 3 | — | $39,880 | — |
 | TAIWANNUMBERONE | 0 | 2 | 0 | ⚠️ 0% (2) | $30,272 | -$30,272 |
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $29,744 | +$9,167 |
@@ -49,6 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Spread: Philadelphia Phillies (-1.5) | St. Louis Cardinals | 1.89 (53¢) | $10,482 | — | ⏳ Pendiente |
 | theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors | 1.56 (64¢) | $12,800 | — | ⏳ Pendiente |
 | theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over 2.5 | 1.61 (62¢) | $13,777 | — | ⏳ Pendiente |
 | theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors | 1.67 (60¢) | $10,218 | — | ⏳ Pendiente |
