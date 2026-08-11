@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 19:15:23 (hora de Perú)
+Actualizado: 2026-08-10 19:17:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $187.65
-**Retorno acumulado:** -81.24%
+**Bankroll actual:** $186.85
+**Retorno acumulado:** -81.31%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 6 | 4 | 1 | +25.43 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| HomeRunHazard | 45 | 46 | 22 | +15.05 USD |
+| HomeRunHazard | 45 | 46 | 24 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 3 | +7.96 USD |
 | monkeymashingkeyboard | 3 | 0 | 6 | +2.86 USD |
@@ -38,9 +38,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 0 | 1 | 9 | +0.00 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
-| swisstony | 22 | 14 | 6 | -2.30 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| UpTheBlues | 125 | 77 | 24 | -4.65 USD |
+| swisstony | 22 | 15 | 5 | -3.20 USD |
+| UpTheBlues | 128 | 77 | 22 | -4.55 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 25 | -148.65 USD |
+| ferrariChampions2026 | 538 | 431 | 27 | -148.65 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -314,11 +314,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-los-png1-2026-08-10 | BrotherObama, SnakeBall |
 | ecu1-lib-uni-2026-08-10-lib | RN1, UpTheBlues |
 | bra3-psc-con-2026-08-10-total-2pt5 | RN1, UpTheBlues |
+| wnba-tor-atl-2026-08-10-total-187pt5 | HomeRunHazard, ferrariChampions2026 |
+| wnba-tor-atl-2026-08-10-total-186pt5 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 186 | Under (BUY) | 50% | 0.29 | ⏳ pendiente | — |
+| HomeRunHazard | Toronto Tempo vs. Atlanta Dream: O/U 186 | Over (BUY) | 51% | 0.67 | ⏳ pendiente | — |
+| ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 187 | Under (BUY) | 51% | 0.39 | ⏳ pendiente | — |
+| HomeRunHazard | Toronto Tempo vs. Atlanta Dream: O/U 187 | Over (BUY) | 49% | 0.34 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Unión vs. CA Central Córdoba end | Yes (BUY) | 27% | 0.29 | ⏳ pendiente | — |
 | UpTheBlues | Will CD Cuenca win on 2026-08-10? | No (BUY) | 47% | 0.43 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Unión win on 2026-08-10? | Yes (BUY) | 62% | 0.01 | ⏳ pendiente | — |
 | RN1 | Paysandu SC PA vs. AD Confianca SE: O/U  | Over (BUY) | 36% | 1.12 | ⏳ pendiente | — |
@@ -344,8 +351,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | Will Guarani FC SP win on 2026-08-10? | No (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| Bulls94 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CD Universidad Catolica del Ecuador | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| SnakeBall | Will Goiás EC win on 2026-08-10? | No (BUY) | 38% | 0.00 | ⏳ pendiente | — |

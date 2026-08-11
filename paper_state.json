@@ -1,5 +1,5 @@
 {
-  "bankroll": 187.64707547556364,
+  "bankroll": 186.85040880889696,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12740,6 +12740,26 @@
       "timestamp": 1786407309.2198389,
       "bankroll": 187.65,
       "event": "won: UpTheBlues \u2014 CA Banfield vs. CA Belgrano: O/U 2.5"
+    },
+    {
+      "timestamp": 1786407368.93459,
+      "bankroll": 186.75,
+      "event": "lost: swisstony \u2014 Spread: CA Belgrano (-1.5)"
+    },
+    {
+      "timestamp": 1786407426.9022546,
+      "bankroll": 186.85,
+      "event": "won: UpTheBlues \u2014 Will CA Banfield win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786407431.0547428,
+      "bankroll": 186.85,
+      "event": "won: UpTheBlues \u2014 Will CA Banfield win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786407431.5554304,
+      "bankroll": 186.85,
+      "event": "won: UpTheBlues \u2014 Will CA Banfield win on 2026-08-10?"
     }
   ]
 }
