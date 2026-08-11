@@ -47219,8 +47219,8 @@
     "whale_pct": 0.838,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786336377.0224938,
@@ -47821,8 +47821,8 @@
     "whale_pct": 0.346,
     "paper_stake_usd": 1.34,
     "odds_at_bet": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786345836.2013655,
@@ -53848,8 +53848,8 @@
     "whale_pct": 0.23,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 11,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786367348.8090506,
@@ -56424,8 +56424,8 @@
     "whale_pct": 0.415,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786402593.9436646,
@@ -56882,8 +56882,8 @@
     "whale_pct": 0.183,
     "paper_stake_usd": 0.34,
     "odds_at_bet": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.35,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786407348.3124266,
@@ -56902,8 +56902,8 @@
     "whale_pct": 0.209,
     "paper_stake_usd": 0.39,
     "odds_at_bet": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.39,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -56924,8 +56924,8 @@
     "whale_pct": 0.355,
     "paper_stake_usd": 0.67,
     "odds_at_bet": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.64,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786407349.1455522,
@@ -56944,8 +56944,8 @@
     "whale_pct": 0.205,
     "paper_stake_usd": 0.29,
     "odds_at_bet": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.29,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -56988,8 +56988,8 @@
     "whale_pct": 0.134,
     "paper_stake_usd": 0.25,
     "odds_at_bet": 29,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.25,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786407560.7688973,
@@ -57152,7 +57152,7 @@
     "whale_pct": 0.193,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -57172,8 +57172,8 @@
     "whale_pct": 0.192,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -57274,8 +57274,8 @@
     "whale_pct": 0.261,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 83,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "SnakeBall"
     ],
@@ -57440,8 +57440,8 @@
     "whale_pct": 0.564,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 83,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "SnakeBall",
       "UpTheBlues"
@@ -57816,7 +57816,7 @@
     "whale_pct": 0.357,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "HomeRunHazard"
@@ -58026,8 +58026,8 @@
     "whale_pct": 0.394,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 96,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "SnakeBall",
       "UpTheBlues"
@@ -58195,8 +58195,8 @@
     "whale_pct": 0.405,
     "paper_stake_usd": 1.02,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.71,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -58279,8 +58279,8 @@
     "whale_pct": 0.349,
     "paper_stake_usd": 0.88,
     "odds_at_bet": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.17,
     "overlaps_with": [
       "RN1",
       "SnakeBall"
@@ -58302,8 +58302,8 @@
     "whale_pct": 0.689,
     "paper_stake_usd": 1.73,
     "odds_at_bet": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.31,
     "overlaps_with": [
       "RN1",
       "SnakeBall"
@@ -58715,8 +58715,8 @@
     "whale_pct": 0.982,
     "paper_stake_usd": 2.44,
     "odds_at_bet": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.36,
     "overlaps_with": [
       "HomeRunHazard"
     ],

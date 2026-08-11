@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 21:37:12 (hora de Perú)
+Actualizado: 2026-08-10 21:39:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $251.37
-**Retorno acumulado:** -74.86%
+**Bankroll actual:** $254.08
+**Retorno acumulado:** -74.59%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
-| HomeRunHazard | 50 | 48 | 45 | +21.23 USD |
+| HomeRunHazard | 53 | 50 | 40 | +21.97 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
@@ -33,26 +33,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | Anjun | 0 | 0 | 1 | +0.00 USD |
-| SnakeBall | 0 | 1 | 9 | +0.00 USD |
+| SnakeBall | 0 | 2 | 8 | +0.00 USD |
 | VeryLucky888 | 1 | 1 | 1 | -0.22 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 25 | 17 | 4 | -3.90 USD |
+| UpTheBlues | 139 | 95 | 24 | -6.80 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 137 | 94 | 27 | -7.28 USD |
-| Forecastication2 | 4 | 20 | 7 | -8.08 USD |
+| Forecastication2 | 4 | 21 | 6 | -8.08 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 152 | 85 | 11 | -34.38 USD |
-| quavoo | 126 | 155 | 25 | -40.10 USD |
+| RN1 | 154 | 87 | 7 | -33.31 USD |
+| quavoo | 127 | 155 | 24 | -39.00 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 543 | 437 | 41 | -150.96 USD |
+| ferrariChampions2026 | 544 | 440 | 37 | -151.64 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -363,4 +363,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Athletics (BUY) | 76% | 0.39 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 51% | 0.35 | ⏳ pendiente | — |
 | swisstony | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 65% | 0.42 | ⏳ pendiente | — |
-| RN1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 87% | 2.44 | ⏳ pendiente | — |
+| RN1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 87% | 2.44 | ✅ ganada | +0.36 |

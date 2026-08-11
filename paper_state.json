@@ -1,5 +1,5 @@
 {
-  "bankroll": 251.37055337377063,
+  "bankroll": 254.08084447708836,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13090,6 +13090,101 @@
       "timestamp": 1786415641.565173,
       "bankroll": 251.37,
       "event": "won: UpTheBlues \u2014 Will CA Uni\u00f3n win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786415926.3769667,
+      "bankroll": 251.37,
+      "event": "lost: HomeRunHazard \u2014 Toronto Tempo vs. Atlanta Dream: O/U 184.5"
+    },
+    {
+      "timestamp": 1786415928.4969733,
+      "bankroll": 252.47,
+      "event": "won: quavoo \u2014 Toronto Tempo vs. Atlanta Dream: O/U 185.5"
+    },
+    {
+      "timestamp": 1786415932.7402544,
+      "bankroll": 252.47,
+      "event": "lost: Forecastication2 \u2014 Will the game go to extra innings?: New York Mets vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1786415939.398469,
+      "bankroll": 252.47,
+      "event": "lost: SnakeBall \u2014 Will CA Central C\u00f3rdoba win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786415943.0628126,
+      "bankroll": 252.82,
+      "event": "won: HomeRunHazard \u2014 Toronto Tempo vs. Atlanta Dream: O/U 187.5"
+    },
+    {
+      "timestamp": 1786415943.1629465,
+      "bankroll": 252.43,
+      "event": "lost: ferrariChampions2026 \u2014 Toronto Tempo vs. Atlanta Dream: O/U 187.5"
+    },
+    {
+      "timestamp": 1786415943.4955053,
+      "bankroll": 253.07,
+      "event": "won: HomeRunHazard \u2014 Toronto Tempo vs. Atlanta Dream: O/U 186.5"
+    },
+    {
+      "timestamp": 1786415943.5956864,
+      "bankroll": 252.78,
+      "event": "lost: ferrariChampions2026 \u2014 Toronto Tempo vs. Atlanta Dream: O/U 186.5"
+    },
+    {
+      "timestamp": 1786415944.0688078,
+      "bankroll": 252.53,
+      "event": "lost: HomeRunHazard \u2014 Spread: New York Mets (-1.5)"
+    },
+    {
+      "timestamp": 1786415945.7486956,
+      "bankroll": 252.53,
+      "event": "won: HomeRunHazard \u2014 Toronto Tempo vs. Atlanta Dream: O/U 184.5"
+    },
+    {
+      "timestamp": 1786415945.848825,
+      "bankroll": 252.53,
+      "event": "lost: ferrariChampions2026 \u2014 Toronto Tempo vs. Atlanta Dream: O/U 184.5"
+    },
+    {
+      "timestamp": 1786415946.377312,
+      "bankroll": 252.53,
+      "event": "lost: UpTheBlues \u2014 Will CA Central C\u00f3rdoba win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786415947.4657924,
+      "bankroll": 252.53,
+      "event": "lost: RN1 \u2014 Will CA Central C\u00f3rdoba win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786415950.828033,
+      "bankroll": 252.53,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Tempo vs. Atlanta Dream: O/U 187.5"
+    },
+    {
+      "timestamp": 1786415951.6292968,
+      "bankroll": 252.53,
+      "event": "lost: RN1 \u2014 Will CA Central C\u00f3rdoba win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786415952.2685928,
+      "bankroll": 253.24,
+      "event": "won: RN1 \u2014 Spread: New York Mets (-1.5)"
+    },
+    {
+      "timestamp": 1786415953.1446936,
+      "bankroll": 253.41,
+      "event": "won: UpTheBlues \u2014 Will CA Central C\u00f3rdoba win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786415953.24483,
+      "bankroll": 253.72,
+      "event": "won: UpTheBlues \u2014 Will CA Central C\u00f3rdoba win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786415955.0477853,
+      "bankroll": 254.08,
+      "event": "won: RN1 \u2014 Spread: New York Mets (-1.5)"
     }
   ]
 }
