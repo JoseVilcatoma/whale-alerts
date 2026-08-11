@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 09:05:56 (hora de Perú)
+Actualizado: 2026-08-11 09:07:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $332.25
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 16 | 13 | 4 | +17.16 USD |
-| HomeRunHazard | 93 | 83 | 4 | +15.57 USD |
+| HomeRunHazard | 93 | 83 | 5 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | lzh1 | 5 | 0 | 8 | +3.08 USD |
@@ -360,6 +360,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 54% | 0.40 | ⏳ pendiente | — |
 | dv-pm | Will FK Kauno Žalgiris vs. GNK Dinamo Za | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Panathinaikós AO win on 2026-08-11? | No (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 52% | 0.00 | ⏳ pendiente | — |
@@ -389,4 +390,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 36% | 1.01 | ⏳ pendiente | — |
 | lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 0.87 | ⏳ pendiente | — |
 | lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 5.64 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Juventus Turin win on 2026-08-11? | Yes (BUY) | 81% | 0.83 | ⏳ pendiente | — |
