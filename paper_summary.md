@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:02:46 (hora de Perú)
+Actualizado: 2026-08-10 23:04:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $264.96
-**Retorno acumulado:** -73.50%
+**Bankroll actual:** $264.70
+**Retorno acumulado:** -73.53%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 7 | +26.87 USD |
-| HomeRunHazard | 58 | 53 | 62 | +26.58 USD |
+| HomeRunHazard | 58 | 54 | 61 | +26.32 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 25 | 17 | 9 | -3.90 USD |
+| swisstony | 25 | 17 | 10 | -3.90 USD |
 | UpTheBlues | 143 | 95 | 22 | -6.24 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
@@ -332,6 +332,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-col-ari-2026-08-10-total-9pt5 | RN1, ferrariChampions2026, swisstony |
 | mlb-kc-lad-2026-08-10-total-8pt5 | HomeRunHazard, ferrariChampions2026 |
 | wnba-chi-sea-2026-08-10-total-177pt5 | HomeRunHazard, ferrariChampions2026 |
+| mlb-tb-oak-2026-08-10-spread-away-2pt5 | HomeRunHazard, swisstony |
 | mlb-kc-lad-2026-08-10-total-6pt5 | HomeRunHazard, ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
 | mlb-tb-oak-2026-08-10-total-11pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-mil-sd-2026-08-10-spread-away-1pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -349,6 +350,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 63% | 1.09 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 92% | 1.79 | ⏳ pendiente | — |
 | swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 72% | 0.52 | ⏳ pendiente | — |
 | swisstony | Spread: Tampa Bay Rays (-1.5) | Athletics (BUY) | 42% | 0.55 | ⏳ pendiente | — |
@@ -378,4 +380,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 76% | 0.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 46% | 0.96 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Arizona Diamondbacks (-6.5) | Colorado Rockies (BUY) | 28% | 0.36 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Arizona Diamondbacks (-7.5) | Colorado Rockies (BUY) | 50% | 0.94 | ⏳ pendiente | — |

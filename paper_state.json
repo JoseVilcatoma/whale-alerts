@@ -1,5 +1,5 @@
 {
-  "bankroll": 264.95580587197094,
+  "bankroll": 264.69580587197095,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13420,6 +13420,11 @@
       "timestamp": 1786420937.2934415,
       "bankroll": 264.96,
       "event": "won: SnakeBall \u2014 Will Deportivo Maldonado win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786421073.3795624,
+      "bankroll": 264.7,
+      "event": "lost: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 8.5"
     }
   ]
 }
