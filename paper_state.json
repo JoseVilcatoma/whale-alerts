@@ -1,5 +1,5 @@
 {
-  "bankroll": 257.2424029186468,
+  "bankroll": 255.7169419336133,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13225,6 +13225,56 @@
       "timestamp": 1786416266.706252,
       "bankroll": 257.24,
       "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786416557.2531977,
+      "bankroll": 257.97,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786416560.8502731,
+      "bankroll": 254.64,
+      "event": "lost: Forecastication2 \u2014 Dean Kremer: Strikeouts O/U 5.5"
+    },
+    {
+      "timestamp": 1786416562.4420736,
+      "bankroll": 254.64,
+      "event": "lost: Forecastication2 \u2014 Will the game go to extra innings?: Baltimore Orioles vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786416572.126866,
+      "bankroll": 254.72,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Tempo vs. Atlanta Dream"
+    },
+    {
+      "timestamp": 1786416572.906468,
+      "bankroll": 254.72,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Tempo vs. Atlanta Dream"
+    },
+    {
+      "timestamp": 1786416573.3572028,
+      "bankroll": 254.72,
+      "event": "lost: HomeRunHazard \u2014 Toronto Tempo vs. Atlanta Dream"
+    },
+    {
+      "timestamp": 1786416574.1549053,
+      "bankroll": 254.2,
+      "event": "lost: ferrariChampions2026 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 10.5"
+    },
+    {
+      "timestamp": 1786416574.7113636,
+      "bankroll": 254.38,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Tempo vs. Atlanta Dream"
+    },
+    {
+      "timestamp": 1786416574.911689,
+      "bankroll": 254.38,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Tempo vs. Atlanta Dream"
+    },
+    {
+      "timestamp": 1786416576.8719532,
+      "bankroll": 255.72,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Minnesota Twins (-2.5)"
     }
   ]
 }
