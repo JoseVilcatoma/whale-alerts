@@ -1,5 +1,5 @@
 {
-  "bankroll": 254.08084447708836,
+  "bankroll": 254.08513019137408,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13185,6 +13185,16 @@
       "timestamp": 1786415955.0477853,
       "bankroll": 254.08,
       "event": "won: RN1 \u2014 Spread: New York Mets (-1.5)"
+    },
+    {
+      "timestamp": 1786416189.002484,
+      "bankroll": 253.46,
+      "event": "lost: HomeRunHazard \u2014 Spread: New York Mets (-3.5)"
+    },
+    {
+      "timestamp": 1786416189.335084,
+      "bankroll": 254.09,
+      "event": "won: HomeRunHazard \u2014 Spread: New York Mets (-2.5)"
     }
   ]
 }
