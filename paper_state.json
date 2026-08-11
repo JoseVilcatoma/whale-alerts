@@ -1,5 +1,5 @@
 {
-  "bankroll": 364.28287970943927,
+  "bankroll": 368.7040266047706,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14930,6 +14930,81 @@
       "timestamp": 1786468638.6232533,
       "bankroll": 364.28,
       "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786468670.003502,
+      "bankroll": 364.41,
+      "event": "won: swisstony \u2014 Spread: PFK Levski Sofia (-2.5)"
+    },
+    {
+      "timestamp": 1786468670.6085858,
+      "bankroll": 367.17,
+      "event": "won: RN1 \u2014 Qairat FK vs. PFK Levski Sofia: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1786468670.8088815,
+      "bankroll": 367.3,
+      "event": "won: RN1 \u2014 Qairat FK vs. PFK Levski Sofia: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1786468671.4344528,
+      "bankroll": 366.78,
+      "event": "lost: RN1 \u2014 Qairat FK vs. PFK Levski Sofia: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1786468672.2658145,
+      "bankroll": 366.83,
+      "event": "won: RN1 \u2014 Qairat FK vs. PFK Levski Sofia: 1st Half O/U 2.5"
+    },
+    {
+      "timestamp": 1786468731.1161144,
+      "bankroll": 366.83,
+      "event": "lost: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: PFK Levski Sofia O/U 1.5"
+    },
+    {
+      "timestamp": 1786468734.0269432,
+      "bankroll": 366.33,
+      "event": "lost: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786468738.754327,
+      "bankroll": 367.25,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786468738.9548519,
+      "bankroll": 367.96,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786468739.155355,
+      "bankroll": 368.81,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786468739.2555864,
+      "bankroll": 369.63,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786468740.2580106,
+      "bankroll": 370.23,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786468740.4583871,
+      "bankroll": 370.67,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786468741.0593383,
+      "bankroll": 369.18,
+      "event": "lost: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786468744.1834886,
+      "bankroll": 368.7,
+      "event": "lost: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: Both Teams to Score"
     }
   ]
 }
