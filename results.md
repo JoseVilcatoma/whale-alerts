@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 07:32:03 (hora de Perú)
+Actualizado: 2026-08-11 07:34:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **57**  ($1,482,929 en total)
+- Apuestas registradas: **58**  ($1,510,633 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 54
-- Apostadores distintos: 37
+- Pendientes: 55
+- Apostadores distintos: 38
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -38,6 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 033033033 | 0 | 0 | 1 | — | $29,801 | — |
 | backback | 0 | 0 | 2 | — | $29,083 | — |
 | Emethod | 0 | 0 | 2 | — | $28,001 | — |
+| Istaroth | 0 | 0 | 1 | — | $27,704 | — |
 | degenofweb3 | 0 | 0 | 2 | — | $26,340 | — |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 0 | 0 | 2 | — | $25,955 | — |
 | ProudIsraeli | 2 | 0 | 0 | ⚠️ 100% (2) | $25,065 | +$0 |
@@ -59,6 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Istaroth |  |  | 1.09 (92¢) | $27,704 | — | ⏳ Pendiente |
 | mpyh | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | — (100¢) | $19,406 | — | ⏳ Pendiente |
 | 033033033 | Will HULIGANI Win The International 2026? | No | — (100¢) | $29,801 | — | ⏳ Pendiente |
 | five5120 | LoL: Hanwha Life Esports vs DN SOOPers - Game 3 Winner | DN SOOPers | — (100¢) | $26,724 | — | ⏳ Pendiente |
