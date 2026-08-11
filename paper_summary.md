@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 21:16:36 (hora de Perú)
+Actualizado: 2026-08-10 21:18:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $251.54
-**Retorno acumulado:** -74.85%
+**Bankroll actual:** $250.09
+**Retorno acumulado:** -74.99%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
-| HomeRunHazard | 50 | 47 | 35 | +21.61 USD |
+| HomeRunHazard | 50 | 47 | 37 | +21.61 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
@@ -32,14 +32,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| VeryLucky888 | 1 | 0 | 2 | +0.00 USD |
 | Anjun | 0 | 0 | 1 | +0.00 USD |
 | SnakeBall | 0 | 1 | 9 | +0.00 USD |
+| VeryLucky888 | 1 | 1 | 1 | -0.22 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 25 | 17 | 2 | -3.90 USD |
+| swisstony | 25 | 17 | 3 | -3.90 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 131 | 86 | 40 | -7.73 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 543 | 436 | 29 | -149.73 USD |
+| ferrariChampions2026 | 543 | 437 | 28 | -150.96 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -332,6 +332,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 63% | 0.41 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Athletics (BUY) | 76% | 0.39 | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 51% | 0.35 | ⏳ pendiente | — |
 | swisstony | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 65% | 0.42 | ⏳ pendiente | — |
 | RN1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 87% | 2.44 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 55% | 0.45 | ⏳ pendiente | — |
@@ -359,6 +362,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under (BUY) | 54% | 0.79 | ⏳ pendiente | — |
 | RN1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 59% | 1.02 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Unión win on 2026-08-10? | No (BUY) | 60% | 0.62 | ⏳ pendiente | — |
-| UpTheBlues | Spread: CA Unión (-1.5) | CA Central Córdoba (BUY) | 88% | 1.62 | ⏳ pendiente | — |
-| quavoo | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 1.90 | ⏳ pendiente | — |
-| UpTheBlues | Chicago Sky vs. Seattle Storm: O/U 179.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |

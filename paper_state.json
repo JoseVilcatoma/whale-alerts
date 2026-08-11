@@ -1,5 +1,5 @@
 {
-  "bankroll": 251.53812913134635,
+  "bankroll": 250.08812913134636,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12990,6 +12990,16 @@
       "timestamp": 1786414371.4198914,
       "bankroll": 251.54,
       "event": "won: HomeRunHazard \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 9.5"
+    },
+    {
+      "timestamp": 1786414694.6384928,
+      "bankroll": 251.32,
+      "event": "lost: VeryLucky888 \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 8.5"
+    },
+    {
+      "timestamp": 1786414710.1337798,
+      "bankroll": 250.09,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Toronto Blue Jays (-1.5)"
     }
   ]
 }
