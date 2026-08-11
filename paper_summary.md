@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 14:16:17 (hora de Perú)
+Actualizado: 2026-08-11 14:18:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $336.30
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| UpTheBlues | 169 | 110 | 86 | -0.56 USD |
+| UpTheBlues | 169 | 110 | 90 | -0.56 USD |
 | dv-pm | 1 | 2 | 5 | -0.92 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
@@ -405,6 +405,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will FK CSKA 1948 Sofia vs. Panathinaikó | Yes (BUY) | 84% | 0.44 | ⏳ pendiente | — |
+| UpTheBlues | Will Panathinaikós AO win on 2026-08-11? | No (BUY) | 88% | 0.59 | ⏳ pendiente | — |
+| UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 86% | 1.23 | ⏳ pendiente | — |
+| UpTheBlues | Will Panathinaikós AO win on 2026-08-11? | No (BUY) | 87% | 1.97 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Olympique Lyonnais (-1.5) | AC Sparta Praha (BUY) | 63% | 0.39 | ⏳ pendiente | — |
 | UpTheBlues | Will NEC win on 2026-08-11? | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
@@ -431,7 +435,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | No (BUY) | 70% | 0.52 | ⏳ pendiente | — |
 | swisstony | Will Fenerbahçe SK win on 2026-08-11? | No (BUY) | 50% | 0.39 | ⏳ pendiente | — |
 | swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 86% | 1.44 | ⏳ pendiente | — |
-| UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 71% | 0.39 | ⏳ pendiente | — |
-| UpTheBlues | Will SK Brann win on 2026-08-11? | No (BUY) | 92% | 0.56 | ⏳ pendiente | — |
-| swisstony | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Under (BUY) | 70% | 0.43 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Indiana Fever (-2.5) | New York Liberty (BUY) | 48% | 4.76 | ⏳ pendiente | — |
