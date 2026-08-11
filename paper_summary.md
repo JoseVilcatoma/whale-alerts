@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 09:59:39 (hora de Perú)
+Actualizado: 2026-08-11 10:01:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $291.14
-**Retorno acumulado:** -70.89%
+**Bankroll actual:** $294.10
+**Retorno acumulado:** -70.59%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 16 | 13 | 4 | +17.16 USD |
-| HomeRunHazard | 93 | 83 | 12 | +15.57 USD |
+| HomeRunHazard | 93 | 83 | 13 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 34 | 25 | 7 | -4.37 USD |
+| swisstony | 35 | 25 | 8 | -4.23 USD |
 | Lakersfan111 | 2 | 4 | 2 | -4.76 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
@@ -47,12 +47,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
 | BrotherObama | 7 | 3 | 0 | -24.77 USD |
+| quavoo | 142 | 173 | 11 | -30.91 USD |
 | lzh1 | 5 | 3 | 5 | -33.03 USD |
-| quavoo | 139 | 173 | 14 | -33.53 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 611 | 463 | 2 | -104.76 USD |
+| ferrariChampions2026 | 612 | 463 | 1 | -104.57 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -362,6 +362,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will PFK Levski Sofia win on 2026-08-11? | No (BUY) | 59% | 0.96 | ⏳ pendiente | — |
+| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 67% | 1.09 | ⏳ pendiente | — |
+| HomeRunHazard | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 40% | 0.60 | ⏳ pendiente | — |
 | dv-pm | SK Iberia 1999 vs. Larne FC: 1st Half O/ | Under (BUY) | 90% | 0.65 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Miami Marlins: O/ | Under (BUY) | 60% | 0.62 | ⏳ pendiente | — |
 | swisstony | Spread: Olympique Lyonnais (-2.5) | Olympique Lyonnais (BUY) | 26% | 0.38 | ⏳ pendiente | — |
@@ -389,6 +392,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: RU Saint-Gilloise (-2.5) | FK Bodø/Glimt (BUY) | 98% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| Weaseloftheweek | Dota 2: MOUZ vs Rune Eaters - Game 2 Win | MOUZ (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 55% | 1.14 | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 291.13899676453224,
+  "bankroll": 294.1003440538505,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14715,6 +14715,31 @@
       "timestamp": 1786459564.1736763,
       "bankroll": 291.14,
       "event": "lost: lzh1 \u2014 LoL: Hanwha Life Esports vs DN SOOPers - Game 3 Winner"
+    },
+    {
+      "timestamp": 1786460491.7716877,
+      "bankroll": 292.3,
+      "event": "won: quavoo \u2014 Will Juventus Turin win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786460493.584735,
+      "bankroll": 292.56,
+      "event": "won: quavoo \u2014 Will Juventus Turin win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786460493.7852452,
+      "bankroll": 293.77,
+      "event": "won: quavoo \u2014 Will Juventus Turin win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786460496.5698638,
+      "bankroll": 293.91,
+      "event": "won: swisstony \u2014 Will Juventus Turin win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786460497.07327,
+      "bankroll": 294.1,
+      "event": "won: ferrariChampions2026 \u2014 Will Juventus Turin win on 2026-08-11?"
     }
   ]
 }
