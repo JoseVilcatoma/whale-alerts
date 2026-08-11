@@ -1,5 +1,5 @@
 {
-  "bankroll": 335.07399676453224,
+  "bankroll": 332.25399676453225,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14610,6 +14610,46 @@
       "timestamp": 1786456138.6135883,
       "bankroll": 335.07,
       "event": "lost: quavoo \u2014 Will Melbourne City FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786457047.3662493,
+      "bankroll": 335.07,
+      "event": "won: quavoo \u2014 Spread: Palermo FC (-1.5)"
+    },
+    {
+      "timestamp": 1786457058.0399451,
+      "bankroll": 334.67,
+      "event": "lost: quavoo \u2014 Palermo FC vs. Juventus Turin: O/U 2.5"
+    },
+    {
+      "timestamp": 1786457058.1402662,
+      "bankroll": 334.21,
+      "event": "lost: quavoo \u2014 Palermo FC vs. Juventus Turin: O/U 2.5"
+    },
+    {
+      "timestamp": 1786457058.3404768,
+      "bankroll": 333.13,
+      "event": "lost: quavoo \u2014 Palermo FC vs. Juventus Turin: O/U 2.5"
+    },
+    {
+      "timestamp": 1786457069.100437,
+      "bankroll": 332.71,
+      "event": "lost: quavoo \u2014 Palermo FC vs. Juventus Turin: O/U 2.5"
+    },
+    {
+      "timestamp": 1786457069.200628,
+      "bankroll": 332.23,
+      "event": "lost: quavoo \u2014 Palermo FC vs. Juventus Turin: O/U 2.5"
+    },
+    {
+      "timestamp": 1786457070.4442365,
+      "bankroll": 332.23,
+      "event": "won: quavoo \u2014 Palermo FC vs. Juventus Turin: O/U 3.5"
+    },
+    {
+      "timestamp": 1786457072.0836396,
+      "bankroll": 332.25,
+      "event": "won: ferrariChampions2026 \u2014 Will Palermo FC win on 2026-08-11?"
     }
   ]
 }
