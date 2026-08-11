@@ -1,5 +1,5 @@
 {
-  "bankroll": 356.55547959622356,
+  "bankroll": 351.4062488269928,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -15055,6 +15055,36 @@
       "timestamp": 1786468873.1236806,
       "bankroll": 356.56,
       "event": "won: UpTheBlues \u2014 Qairat FK vs. PFK Levski Sofia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786469253.3083932,
+      "bankroll": 354.65,
+      "event": "lost: swisstony \u2014 Will PFK Levski Sofia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786469253.5087566,
+      "bankroll": 352.05,
+      "event": "lost: RN1 \u2014 Will PFK Levski Sofia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786469255.809496,
+      "bankroll": 351.46,
+      "event": "lost: swisstony \u2014 Will PFK Levski Sofia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786469255.9096937,
+      "bankroll": 350.88,
+      "event": "lost: swisstony \u2014 Will PFK Levski Sofia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786469259.3955762,
+      "bankroll": 351.94,
+      "event": "won: swisstony \u2014 Will PFK Levski Sofia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786469262.0022545,
+      "bankroll": 351.41,
+      "event": "lost: swisstony \u2014 Will PFK Levski Sofia win on 2026-08-11?"
     }
   ]
 }
