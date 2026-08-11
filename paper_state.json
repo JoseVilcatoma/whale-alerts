@@ -1,5 +1,5 @@
 {
-  "bankroll": 317.4961183654237,
+  "bankroll": 318.53126556390424,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14420,6 +14420,16 @@
       "timestamp": 1786424945.6970348,
       "bankroll": 317.5,
       "event": "won: HomeRunHazard \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 12.5"
+    },
+    {
+      "timestamp": 1786425696.7806587,
+      "bankroll": 317.61,
+      "event": "won: HomeRunHazard \u2014 Spread: Los Angeles Angels (-1.5)"
+    },
+    {
+      "timestamp": 1786425696.8808572,
+      "bankroll": 318.53,
+      "event": "won: swisstony \u2014 Spread: Los Angeles Angels (-1.5)"
     }
   ]
 }
