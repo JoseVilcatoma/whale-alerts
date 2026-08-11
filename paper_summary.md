@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 02:31:14 (hora de Perú)
+Actualizado: 2026-08-11 02:33:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 34 | 25 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 100 | 53 | -7.44 USD |
+| UpTheBlues | 151 | 100 | 55 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
@@ -353,6 +353,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Aarhus GF win on 2026-08-11? | No (BUY) | 75% | 0.37 | ⏳ pendiente | — |
+| UpTheBlues | Will Sabah FK win on 2026-08-11? | Yes (BUY) | 48% | 0.68 | ⏳ pendiente | — |
 | quavoo | Dota 2: Spirit Academy vs No Hoodwink (B | Spirit Academy (BUY) | 46% | 0.49 | ⏳ pendiente | — |
 | UpTheBlues | Will Apóllon Lemesoú win on 2026-08-11? | No (BUY) | 57% | 1.16 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 86% | 0.39 | ⏳ pendiente | — |
@@ -381,5 +383,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | NK Celje vs. Ararat-Armenia FA: O/U 2.5 | Over (BUY) | 57% | 0.66 | ⏳ pendiente | — |
 | quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 56% | 0.61 | ⏳ pendiente | — |
 | UpTheBlues | Will FK Bodø/Glimt vs. RU Saint-Gilloise | Yes (BUY) | 21% | 0.36 | ⏳ pendiente | — |
-| UpTheBlues | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 38% | 1.66 | ⏳ pendiente | — |
-| UpTheBlues | CA Boca Juniors vs. Recoleta FC: CA Boca | Under (BUY) | 57% | 0.84 | ⏳ pendiente | — |
