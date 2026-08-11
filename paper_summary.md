@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 02:39:35 (hora de Perú)
+Actualizado: 2026-08-11 02:41:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
-| quavoo | 136 | 166 | 21 | -30.64 USD |
+| quavoo | 136 | 166 | 22 | -30.64 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -353,6 +353,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 55% | 0.44 | ⏳ pendiente | — |
 | quavoo | Will Melbourne City FC win on 2026-08-11 | Yes (BUY) | 53% | 0.55 | ⏳ pendiente | — |
 | UpTheBlues | Will Aarhus GF win on 2026-08-11? | No (BUY) | 75% | 0.37 | ⏳ pendiente | — |
 | UpTheBlues | Will Sabah FK win on 2026-08-11? | Yes (BUY) | 48% | 0.68 | ⏳ pendiente | — |
@@ -382,4 +383,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Recoleta FC win on 2026-08-11? | No (BUY) | 94% | 3.34 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: CA Boca | Under (BUY) | 57% | 0.42 | ⏳ pendiente | — |
 | dv-pm | NK Celje vs. Ararat-Armenia FA: O/U 2.5 | Over (BUY) | 57% | 0.66 | ⏳ pendiente | — |
-| quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 56% | 0.61 | ⏳ pendiente | — |
