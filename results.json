@@ -362,5 +362,31 @@
     "usd": 19978.749999,
     "odds_at_bet": 71,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33824,
+    "timestamp": 1786481165,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "sud-boc-rec1-2026-08-11-spread-home-1pt5",
+    "title": "Spread: CA Boca Juniors (-1.5)",
+    "outcome": "CA Boca Juniors",
+    "side": "BUY",
+    "usd": 11999.250800000002,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33829,
+    "timestamp": 1786481185,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "sud-boc-rec1-2026-08-11-total-2pt5",
+    "title": "CA Boca Juniors vs. Recoleta FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 14172.062300000001,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
