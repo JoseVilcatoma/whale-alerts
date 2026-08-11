@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 00:05:07 (hora de Perú)
+Actualizado: 2026-08-11 00:07:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $318.13
-**Retorno acumulado:** -68.19%
+**Bankroll actual:** $317.65
+**Retorno acumulado:** -68.23%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 14 | 13 | 2 | +17.00 USD |
-| HomeRunHazard | 86 | 80 | 10 | +13.59 USD |
+| HomeRunHazard | 87 | 80 | 9 | +13.66 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | lzh1 | 5 | 0 | 0 | +3.08 USD |
@@ -39,13 +39,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 32 | 23 | 4 | -4.31 USD |
+| swisstony | 32 | 24 | 3 | -4.86 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 100 | 26 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
-| quavoo | 132 | 166 | 11 | -32.48 USD |
+| quavoo | 132 | 166 | 12 | -32.48 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -352,6 +352,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Palermo FC vs. Juventus Turin: O/U 2.5 | Over (BUY) | 61% | 0.46 | ⏳ pendiente | — |
 | quavoo | Palermo FC vs. Juventus Turin: O/U 2.5 | Over (BUY) | 61% | 0.40 | ⏳ pendiente | — |
 | 0x4f2 | Spread: Texas Rangers (-2.5) | Texas Rangers (BUY) | 91% | 1.31 | ⏳ pendiente | — |
 | UpTheBlues | Will Recoleta FC win on 2026-08-11? | No (BUY) | 94% | 0.47 | ⏳ pendiente | — |
@@ -377,8 +378,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 71% | 0.45 | ⏳ pendiente | — |
 | swisstony | Spread: Los Angeles Angels (-2.5) | Texas Rangers (BUY) | 98% | 1.19 | ⏳ pendiente | — |
 | swisstony | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 36% | 0.42 | ❌ perdida | -0.42 |
-| swisstony | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 20% | 0.55 | ⏳ pendiente | — |
+| swisstony | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 20% | 0.55 | ❌ perdida | -0.55 |
 | quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 56% | 0.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 37% | 0.34 | ✅ ganada | +0.58 |
 | swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 58% | 0.39 | ✅ ganada | +0.28 |
-| ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 17.5 | Under (BUY) | 51% | 0.48 | ✅ ganada | +0.46 |

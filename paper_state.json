@@ -1,5 +1,5 @@
 {
-  "bankroll": 318.1293573015112,
+  "bankroll": 317.6525756923158,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14395,6 +14395,16 @@
       "timestamp": 1786424699.1133196,
       "bankroll": 318.13,
       "event": "lost: swisstony \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786424817.243085,
+      "bankroll": 318.2,
+      "event": "won: HomeRunHazard \u2014 Spread: Los Angeles Dodgers (-2.5)"
+    },
+    {
+      "timestamp": 1786424818.181942,
+      "bankroll": 317.65,
+      "event": "lost: swisstony \u2014 Spread: Los Angeles Dodgers (-2.5)"
     }
   ]
 }
