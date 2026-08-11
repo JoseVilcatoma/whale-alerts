@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:03:33 (hora de Perú)
+Actualizado: 2026-08-11 17:05:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $350.46
-**Retorno acumulado:** -64.95%
+**Bankroll actual:** $348.64
+**Retorno acumulado:** -65.14%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -37,16 +37,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| UpTheBlues | 210 | 135 | 57 | -1.29 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
+| UpTheBlues | 212 | 137 | 53 | -3.91 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 118 | 95 | 21 | -29.60 USD |
-| RN1 | 173 | 99 | 12 | -33.33 USD |
+| swisstony | 120 | 96 | 19 | -28.80 USD |
+| RN1 | 173 | 99 | 14 | -33.33 USD |
 | quavoo | 151 | 181 | 16 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -413,15 +413,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sud-boc-rec1-2026-08-11-spread-home-1pt5 | RN1, UpTheBlues, theowalcott |
 | sud-boc-rec1-2026-08-11-boc | RN1, UpTheBlues |
 | sud-boc-rec1-2026-08-11-draw | UpTheBlues, swisstony |
-| lib-flu-cir-2026-08-11-flu | RN1, UpTheBlues |
+| lib-flu-cir-2026-08-11-flu | RN1, UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-total-1pt5 | RN1, UpTheBlues |
+| lib-flu-cir-2026-08-11-cir | RN1, UpTheBlues |
 | lib-flu-cir-2026-08-11-first-half-total-1pt5 | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 53% | 0.91 | ⏳ pendiente | — |
+| RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 53% | 0.65 | ⏳ pendiente | — |
 | RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | swisstony | Spread: Fluminense FC (-2.5) | CS Independiente Rivadavia (BUY) | 90% | 0.00 | ⏳ pendiente | — |
@@ -449,6 +453,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 56% | 1.91 | ⏳ pendiente | — |
 | UpTheBlues | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 63% | 0.92 | ⏳ pendiente | — |
 | UpTheBlues | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 36% | 1.58 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Boca Juniors vs. Recoleta FC end | No (BUY) | 88% | 0.45 | ⏳ pendiente | — |
-| UpTheBlues | Will Recoleta FC win on 2026-08-11? | No (BUY) | 94% | 1.43 | ⏳ pendiente | — |
-| quavoo | New York Liberty vs. Indiana Fever | Indiana Fever (BUY) | 58% | 1.17 | ⏳ pendiente | — |
