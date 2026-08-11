@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 13:22:03 (hora de Perú)
+Actualizado: 2026-08-11 13:24:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $333.72
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 160 | 104 | 83 | -8.59 USD |
+| UpTheBlues | 160 | 104 | 85 | -8.59 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | swisstony | 69 | 66 | 71 | -20.05 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
@@ -388,6 +388,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | uel-sab-lar-2026-08-11-draw | ferrariChampions2026, swisstony |
 | ucl-nec-oly-2026-08-11-nec | UpTheBlues, quavoo |
 | col-al-bra-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
+| col-al-bra-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | ucl-nec-oly-2026-08-11-oly | UpTheBlues, swisstony |
 | ucl-kau-din-2026-08-11-din | UpTheBlues, swisstony |
 | ucl-kau-din-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
@@ -396,6 +397,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will NEC win on 2026-08-11? | No (BUY) | 67% | 0.40 | ⏳ pendiente | — |
+| UpTheBlues | Apóllon Lemesoú vs. SK Brann: O/U 2.5 | Under (BUY) | 76% | 0.46 | ⏳ pendiente | — |
 | UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | No (BUY) | 52% | 0.35 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 1.58 | ⏳ pendiente | — |
 | UpTheBlues | Spread: GNK Dinamo Zagreb (-2.5) | FK Kauno Žalgiris (BUY) | 97% | 0.45 | ⏳ pendiente | — |
@@ -424,5 +427,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Under (BUY) | 77% | 0.70 | ⏳ pendiente | — |
 | swisstony | Will Panathinaikós AO win on 2026-08-11? | No (BUY) | 45% | 0.41 | ⏳ pendiente | — |
 | UpTheBlues | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 46% | 1.05 | ❌ perdida | -1.05 |
-| swisstony | Will SK Iberia 1999 win on 2026-08-11? | Yes (BUY) | 24% | 0.42 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | Yes (BUY) | 26% | 0.40 | ❌ perdida | -0.40 |
