@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 03:18:36 (hora de Perú)
+Actualizado: 2026-08-11 03:20:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **10**  ($187,229 en total)
+- Apuestas registradas: **11**  ($198,197 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 7
-- Apostadores distintos: 7
+- Pendientes: 8
+- Apostadores distintos: 8
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -24,11 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 2 | — | $21,062 | — |
 | Lakersfan111 | 0 | 0 | 1 | — | $17,024 | — |
 | scottilicious | 0 | 0 | 1 | — | $11,672 | — |
+| mpyh | 0 | 0 | 1 | — | $10,968 | — |
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mpyh | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.33 (75¢) | $10,968 | — | ⏳ Pendiente |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.39 (72¢) | $10,570 | — | ⏳ Pendiente |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.41 (71¢) | $10,492 | — | ⏳ Pendiente |
 | Lakersfan111 | Game Handicap: HLE (-2.5) vs DN SOOPers (+2.5) | DN SOOPers | 1.54 (65¢) | $17,024 | — | ⏳ Pendiente |
