@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 10:01:54 (hora de Perú)
+Actualizado: 2026-08-11 10:03:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $294.10
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 16 | 13 | 4 | +17.16 USD |
-| HomeRunHazard | 93 | 83 | 13 | +15.57 USD |
+| HomeRunHazard | 93 | 83 | 14 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 8 | -4.23 USD |
+| swisstony | 35 | 25 | 13 | -4.23 USD |
 | Lakersfan111 | 2 | 4 | 2 | -4.76 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
@@ -356,14 +356,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
 | lol-hle1-dnf-2026-08-11-game3 | BrotherObama, lzh1 |
 | lol-nsea-dkc-2026-08-11-game2 | BBQChickenisthebesttt, lzh1 |
+| ucl-kai-pls-2026-08-11-total-0pt5 | quavoo, swisstony |
 | wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| swisstony | Will PFK Levski Sofia win on 2026-08-11? | No (BUY) | 59% | 0.96 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 67% | 1.09 | ⏳ pendiente | — |
+| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Over (BUY) | 32% | 0.50 | ⏳ pendiente | — |
+| swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | Yes (BUY) | 41% | 0.50 | ⏳ pendiente | — |
+| HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 48% | 2.25 | ⏳ pendiente | — |
+| swisstony | Spread: PFK Levski Sofia (-2.5) | Qairat FK (BUY) | 95% | 2.38 | ⏳ pendiente | — |
+| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 0.5 | Over (BUY) | 87% | 1.41 | ⏳ pendiente | — |
+| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 1.5 | Under (BUY) | 39% | 0.30 | ⏳ pendiente | — |
+| swisstony | Will PFK Levski Sofia win on 2026-08-11? | No (BUY) | 59% | 1.91 | ⏳ pendiente | — |
+| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 67% | 1.95 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 40% | 0.60 | ⏳ pendiente | — |
 | dv-pm | SK Iberia 1999 vs. Larne FC: 1st Half O/ | Under (BUY) | 90% | 0.65 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Miami Marlins: O/ | Under (BUY) | 60% | 0.62 | ⏳ pendiente | — |
@@ -386,9 +393,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | dv-pm | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 54% | 0.40 | ⏳ pendiente | — |
-| dv-pm | Will FK Kauno Žalgiris vs. GNK Dinamo Za | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Panathinaikós AO win on 2026-08-11? | No (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: RU Saint-Gilloise (-2.5) | FK Bodø/Glimt (BUY) | 98% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
