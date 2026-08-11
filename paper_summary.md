@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 01:03:23 (hora de Perú)
+Actualizado: 2026-08-11 01:05:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 34 | 25 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 100 | 35 | -7.44 USD |
+| UpTheBlues | 151 | 100 | 38 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
@@ -353,6 +353,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 55% | 0.55 | ⏳ pendiente | — |
+| UpTheBlues | Will Recoleta FC win on 2026-08-11? | No (BUY) | 94% | 3.34 | ⏳ pendiente | — |
+| UpTheBlues | CA Boca Juniors vs. Recoleta FC: CA Boca | Under (BUY) | 57% | 0.42 | ⏳ pendiente | — |
 | dv-pm | NK Celje vs. Ararat-Armenia FA: O/U 2.5 | Over (BUY) | 57% | 0.66 | ⏳ pendiente | — |
 | quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 56% | 0.61 | ⏳ pendiente | — |
 | UpTheBlues | Will FK Bodø/Glimt vs. RU Saint-Gilloise | Yes (BUY) | 21% | 0.36 | ⏳ pendiente | — |
@@ -380,6 +383,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Recoleta FC win on 2026-08-11? | No (BUY) | 94% | 0.65 | ⏳ pendiente | — |
 | 0x4f2 | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 53% | 0.57 | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 32% | 1.61 | ❌ perdida | -1.61 |
-| UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 23% | 1.31 | ⏳ pendiente | — |
-| HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 63% | 2.38 | ✅ ganada | +1.40 |
-| UpTheBlues | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 55% | 0.45 | ⏳ pendiente | — |
