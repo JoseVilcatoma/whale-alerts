@@ -66249,5 +66249,91 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786463696.7768648,
     "fills": 1
+  },
+  {
+    "timestamp": 1786463797,
+    "timestamp_added": 1786463798.3734787,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "ucl-kai-pls-2026-08-11-pls",
+    "title": "Will PFK Levski Sofia win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 214.54000000000002,
+    "whale_pct": 0.173,
+    "paper_stake_usd": 0.59,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786463798.3734877,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786463798,
+    "timestamp_added": 1786463798.9075637,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "ucl-kai-pls-2026-08-11-btts",
+    "title": "Qairat FK vs. PFK Levski Sofia: Both Teams to Score",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 246.81789999999998,
+    "whale_pct": 0.199,
+    "paper_stake_usd": 0.68,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786463798.9075742,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786463816,
+    "timestamp_added": 1786463818.7845142,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "ucl-kai-pls-2026-08-11-pls",
+    "title": "Will PFK Levski Sofia win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 211.48000000000002,
+    "whale_pct": 0.171,
+    "paper_stake_usd": 0.58,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786463818.7845278,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786463819,
+    "timestamp_added": 1786463819.731907,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "ucl-kai-pls-2026-08-11-total-2pt5",
+    "title": "Qairat FK vs. PFK Levski Sofia: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 253.9584,
+    "whale_pct": 0.205,
+    "paper_stake_usd": 0.7,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786463819.7319164,
+    "fills": 1
   }
 ]
