@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 11:00:04 (hora de Perú)
+Actualizado: 2026-08-11 11:02:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $340.35
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 25 | -4.23 USD |
+| swisstony | 35 | 25 | 30 | -4.23 USD |
 | Lakersfan111 | 2 | 4 | 2 | -4.76 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
@@ -367,6 +367,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 42% | 0.73 | ⏳ pendiente | — |
+| swisstony | SK Iberia 1999 vs. Larne FC: O/U 2.5 | Under (BUY) | 61% | 0.80 | ⏳ pendiente | — |
+| swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 50% | 1.75 | ⏳ pendiente | — |
+| swisstony | FK Bodø/Glimt vs. RU Saint-Gilloise: O/U | Under (BUY) | 38% | 0.74 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | Yes (BUY) | 60% | 1.05 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 49% | 0.79 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 49% | 0.82 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 64% | 0.70 | ⏳ pendiente | — |
@@ -392,8 +397,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Liberty vs. Indiana Fever: O/U  | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 8. | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Qairat FK win on 2026-08-11? | No (BUY) | 87% | 0.05 | ⏳ pendiente | — |
-| RN1 | Qairat FK vs. PFK Levski Sofia: 1st Half | Under (BUY) | 86% | 0.27 | ⏳ pendiente | — |
-| RN1 | Qairat FK vs. PFK Levski Sofia: O/U 1.5 | Over (BUY) | 86% | 2.97 | ⏳ pendiente | — |
-| RN1 | Qairat FK vs. PFK Levski Sofia: O/U 1.5 | Over (BUY) | 86% | 2.97 | ⏳ pendiente | — |
