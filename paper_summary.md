@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 13:38:46 (hora de Perú)
+Actualizado: 2026-08-11 13:41:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $333.72
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 20 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 21 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -398,6 +398,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Indiana Fever (-2.5) | New York Liberty (BUY) | 48% | 4.76 | ⏳ pendiente | — |
 | UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 86% | 0.36 | ⏳ pendiente | — |
 | UpTheBlues | Apóllon Lemesoú vs. SK Brann: O/U 2.5 | Under (BUY) | 83% | 0.91 | ⏳ pendiente | — |
 | quavoo | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Yes (BUY) | 61% | 0.36 | ⏳ pendiente | — |
@@ -427,4 +428,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Apóllon Lemesoú vs. SK Brann end in | No (BUY) | 75% | 0.71 | ⏳ pendiente | — |
 | swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 85% | 1.21 | ⏳ pendiente | — |
 | swisstony | Will SK Iberia 1999 vs. Larne FC end in  | Yes (BUY) | 70% | 1.31 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 74% | 3.30 | ✅ ganada | +1.16 |
