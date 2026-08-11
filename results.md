@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 17:55:31 (hora de Perú)
+Actualizado: 2026-08-11 17:57:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **76**  ($1,965,074 en total)
+- Apuestas registradas: **77**  ($1,975,152 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 62
-- Apostadores distintos: 40
+- Pendientes: 63
+- Apostadores distintos: 41
 
 ### Balance
 
@@ -65,10 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | backback | 1 | 0 | 0 | ⚠️ 100% (1) | $10,473 | +$911 |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 1 | — | $10,088 | — |
 
+_(mostrando los 40 de mayor monto, de 41 en total)_
+
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| phonesculptor | Philadelphia Phillies vs. St. Louis Cardinals | Philadelphia Phillies | 1.67 (60¢) | $10,078 | — | ⏳ Pendiente |
 | HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.16 (86¢) | $38,832 | — | ⏳ Pendiente |
 | HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.15 (87¢) | $39,101 | — | ⏳ Pendiente |
 | HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.15 (87¢) | $39,246 | — | ⏳ Pendiente |
@@ -128,4 +131,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | Luminosity | 1.89 (53¢) | $12,720 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | GamerLegion | 2.13 (47¢) | $23,121 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Under 6.5 | 2.27 (44¢) | $11,951 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $18,143 | — | ⏳ Pendiente |
