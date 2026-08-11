@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 22:48:10 (hora de Perú)
+Actualizado: 2026-08-10 22:50:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $264.90
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 7 | +26.87 USD |
-| HomeRunHazard | 58 | 53 | 58 | +26.58 USD |
+| HomeRunHazard | 58 | 53 | 59 | +26.58 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 560 | 444 | 53 | -150.20 USD |
+| ferrariChampions2026 | 560 | 444 | 55 | -150.20 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -346,6 +346,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 87% | 0.29 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Los Angeles Dodgers (-2.5) | Kansas City Royals (BUY) | 87% | 0.49 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 85% | 0.31 | ⏳ pendiente | — |
 | UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 92% | 0.42 | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 65% | 0.30 | ⏳ pendiente | — |
 | UpTheBlues | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 36% | 0.31 | ⏳ pendiente | — |
@@ -373,6 +376,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 73% | 0.50 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 76% | 0.60 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 77% | 0.53 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 79% | 0.28 | ⏳ pendiente | — |
-| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 50% | 0.60 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 50% | 1.44 | ⏳ pendiente | — |
