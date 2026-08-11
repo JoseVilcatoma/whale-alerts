@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 22:46:06 (hora de Perú)
+Actualizado: 2026-08-10 22:48:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $256.93
-**Retorno acumulado:** -74.31%
+**Bankroll actual:** $264.90
+**Retorno acumulado:** -73.51%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -40,11 +40,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 25 | 17 | 4 | -3.90 USD |
-| UpTheBlues | 140 | 95 | 24 | -6.73 USD |
+| UpTheBlues | 141 | 95 | 24 | -6.30 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 154 | 88 | 7 | -33.99 USD |
+| RN1 | 156 | 88 | 6 | -26.45 USD |
 | quavoo | 128 | 155 | 23 | -39.00 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -346,6 +346,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 92% | 0.42 | ⏳ pendiente | — |
+| RN1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 65% | 0.30 | ⏳ pendiente | — |
 | UpTheBlues | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 36% | 0.31 | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 38% | 1.10 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 62% | 2.88 | ⏳ pendiente | — |
@@ -374,5 +376,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 79% | 0.28 | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 50% | 0.60 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 50% | 1.44 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 80% | 1.48 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 81% | 0.58 | ⏳ pendiente | — |

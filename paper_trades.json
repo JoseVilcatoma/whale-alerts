@@ -56736,8 +56736,8 @@
     "whale_pct": 1.735,
     "paper_stake_usd": 3.26,
     "odds_at_bet": 37,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.55,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786404014.8725166,
@@ -56756,8 +56756,8 @@
     "whale_pct": 0.134,
     "paper_stake_usd": 0.25,
     "odds_at_bet": 37,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.43,
     "overlaps_with": [
       "RN1"
     ],
@@ -56800,8 +56800,8 @@
     "whale_pct": 0.598,
     "paper_stake_usd": 1.12,
     "odds_at_bet": 36,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.99,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -60961,6 +60961,49 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786419907.8324988,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786419990,
+    "timestamp_added": 1786419991.0841796,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-col-ari-2026-08-10-total-9pt5",
+    "title": "Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 208.13,
+    "whale_pct": 0.118,
+    "paper_stake_usd": 0.3,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786419991.084187,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786420049,
+    "timestamp_added": 1786420050.1206293,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-crv-hbs-2026-08-11-hbs",
+    "title": "Will MH Hapoel Be'er Sheva win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 120.29,
+    "whale_pct": 0.157,
+    "paper_stake_usd": 0.42,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786420050.1206372,
     "fills": 1
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 256.93487494104005,
+  "bankroll": 264.90247253863765,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13390,6 +13390,21 @@
       "timestamp": 1786419696.9963107,
       "bankroll": 256.93,
       "event": "won: UpTheBlues \u2014 Anapolis FC GO vs. Guarani FC SP: O/U 3.5"
+    },
+    {
+      "timestamp": 1786420003.7486043,
+      "bankroll": 262.49,
+      "event": "won: RN1 \u2014 Paysandu SC PA vs. AD Confianca SE: O/U 2.5"
+    },
+    {
+      "timestamp": 1786420003.8487678,
+      "bankroll": 262.91,
+      "event": "won: UpTheBlues \u2014 Paysandu SC PA vs. AD Confianca SE: O/U 2.5"
+    },
+    {
+      "timestamp": 1786420004.0491126,
+      "bankroll": 264.9,
+      "event": "won: RN1 \u2014 Paysandu SC PA vs. AD Confianca SE: O/U 2.5"
     }
   ]
 }
