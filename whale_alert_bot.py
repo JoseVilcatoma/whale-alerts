@@ -54,7 +54,9 @@ TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
 WHALE_THRESHOLD = float(os.environ.get("WHALE_THRESHOLD", "1000"))
 PUBLICAR_RESULTADOS = os.environ.get("PUBLICAR_RESULTADOS", "1") not in ("0", "false", "no")
-MAX_DIAS_RESOLUCION = float(os.environ.get("MAX_DIAS_RESOLUCION", "2"))  # solo apuestas que resuelven en 1-2 días
+MAX_DIAS_RESOLUCION = float(os.environ.get("MAX_DIAS_RESOLUCION", "2"))
+BACKUP_INTERVAL = float(os.environ.get("BACKUP_INTERVAL", "300"))
+MUDO_SEGUNDOS = float(os.environ.get("MUDO_SEGUNDOS", "25"))  # tras cuántos segundos sin datos se fuerza reconexión  # cada cuánto revisar por API lo que el stream perdió
 # Ignorar apuestas a resultados ya casi definidos: a 95¢ (cuota 1.05) no se
 # está prediciendo nada, se recoge el último centavo, y eso infla el % de
 # acierto sin decir nada de la habilidad del apostador.
@@ -433,7 +435,88 @@ def build_ticket(username, trade, usd, odds, wallet):
     )
 
 
-def send_telegram(text, responder_a=None):
+def procesar_trade(trade, origen="stream"):
+    """Evalúa un trade y, si pasa todos los filtros, alerta y lo registra.
+    Se usa tanto para lo que llega por el websocket como para lo que
+    recuperamos por API tras una desconexión."""
+    wallet_raw = trade.get("proxyWallet")
+    wallet = wallet_raw.lower() if wallet_raw else None
+    if not wallet:
+        return False
+
+    usd = (trade.get("size") or 0) * (trade.get("price") or 0)
+    if usd < WHALE_THRESHOLD:
+        return False
+
+    key = f"{trade.get('transactionHash','')}_{trade.get('timestamp')}_{trade.get('asset')}_{trade.get('size')}"
+    if key in seen_keys:
+        return False
+    seen_keys.add(key)
+    if len(seen_keys) > 5000:
+        seen_keys.clear()
+
+    username = (trade.get("name") or trade.get("pseudonym")
+                or trade.get("userName") or f"{wallet[:6]}…{wallet[-4:]}")
+
+    if not trade.get("slug") or not trade.get("outcome"):
+        print(f"[omitida] {username}: ${usd:,.0f} — el feed mandó el trade sin "
+              f"slug u outcome, no se podría resolver después")
+        return False
+
+    precio_c = round((trade.get("price") or 0) * 100)
+    if precio_c >= PRECIO_MAX or precio_c <= PRECIO_MIN:
+        print(f"[omitida] {username}: ${usd:,.0f} a {precio_c}¢ — resultado ya definido")
+        return False
+
+    dias = dias_hasta_resolver(trade.get("slug"))
+    if dias is None:
+        print(f"[omitida] {username}: ${usd:,.0f} — no pude determinar cuándo resuelve "
+              f"'{trade.get('slug')}'")
+        return False
+    if dias > MAX_DIAS_RESOLUCION:
+        print(f"[omitida] {username}: ${usd:,.0f} pero resuelve en ~{dias:.0f} días "
+              f"— {trade.get('title')}")
+        return False
+
+    marca = "🐋 EN VIVO" if origen == "stream" else "🐋 RECUPERADA"
+    print(f"{marca} — {username}: ${usd:,.0f} en {trade.get('title')}")
+    msg_id = send_telegram(build_ticket(username, trade, usd, precio_c, wallet))
+    log_result_pending(username, wallet, trade, usd, precio_c, msg_id)
+    return True
+
+
+def recuperar_perdidas():
+    """Red de seguridad: consulta a la API las operaciones grandes recientes
+    y procesa las que el websocket no vio (por desconexión o mensajes
+    perdidos). La deduplicación por transactionHash evita repetir alertas."""
+    try:
+        r = requests.get(
+            f"{DATA_API}/trades",
+            params={"limit": 500, "takerOnly": "false",
+                    "filterType": "CASH", "filterAmount": int(WHALE_THRESHOLD)},
+            timeout=20,
+        )
+        if not r.ok:
+            print(f"[respaldo] la API respondió {r.status_code}", file=sys.stderr)
+            return
+        trades = r.json()
+        if not isinstance(trades, list):
+            return
+    except Exception as e:
+        print(f"[respaldo] error consultando la API: {e}", file=sys.stderr)
+        return
+
+    recuperadas = 0
+    for t in trades:
+        try:
+            if procesar_trade(t, origen="api"):
+                recuperadas += 1
+        except Exception as e:
+            print(f"[respaldo] error procesando un trade: {e}", file=sys.stderr)
+    if recuperadas:
+        print(f"[respaldo] ⚠️ se recuperaron {recuperadas} apuestas que el stream se perdió")
+    else:
+        print(f"[respaldo] revisadas {len(trades)} operaciones grandes — nada nuevo")
     """Envía un mensaje y devuelve su message_id (o None si falló).
     Si se pasa responder_a, el mensaje sale como respuesta a ese otro,
     que es lo que permite enlazar el desenlace con la apuesta original."""
@@ -572,54 +655,9 @@ def on_ws_message(ws, message):
     if not wallet:
         return
 
-    # Ahora NO filtramos por ranking: cualquiera que supere el umbral entra.
-    # Filtramos primero por monto porque es lo más barato de evaluar.
-    usd = (trade.get("size") or 0) * (trade.get("price") or 0)
-    if usd < WHALE_THRESHOLD:
-        return
-
-    key = f"{trade.get('transactionHash','')}_{trade.get('timestamp')}_{trade.get('asset')}_{trade.get('size')}"
-    if key in seen_keys:
-        return
-    seen_keys.add(key)
-    if len(seen_keys) > 5000:
-        seen_keys.clear()
-
-    # El nombre viene en el propio trade; si no, usamos la wallet abreviada
-    username = (trade.get("name") or trade.get("pseudonym")
-                or trade.get("userName") or f"{wallet[:6]}…{wallet[-4:]}")
-
-    # Sin slug o sin outcome no podemos consultar el mercado después, así que
-    # la apuesta quedaría "pendiente" para siempre. Mejor no registrarla.
-    if not trade.get("slug") or not trade.get("outcome"):
-        print(f"[omitida] {username}: ${usd:,.0f} — el feed mandó el trade sin "
-              f"slug u outcome, no se podría resolver después")
-        return
-
-    # Descartar apuestas a resultados ya definidos (cuota ~1.01): no son
-    # predicción, y ensucian el % de acierto de la tabla.
-    precio_c = round((trade.get("price") or 0) * 100)
-    if precio_c >= PRECIO_MAX or precio_c <= PRECIO_MIN:
-        print(f"[omitida] {username}: ${usd:,.0f} a {precio_c}¢ "
-              f"(cuota {a_cuota(precio_c)}) — resultado ya definido")
-        return
-
-    # Solo nos interesan apuestas de corta duración: si el mercado resuelve
-    # más allá del límite, la ignoramos (nada de "campeón a fin de año").
-    dias = dias_hasta_resolver(trade.get("slug"))
-    if dias is None:
-        print(f"[omitida] {username}: ${usd:,.0f} — no pude determinar cuándo resuelve "
-              f"'{trade.get('slug')}' (casi siempre es un mercado de largo plazo)")
-        return
-    if dias > MAX_DIAS_RESOLUCION:
-        print(f"[omitida] {username}: ${usd:,.0f} pero resuelve en ~{dias:.0f} días "
-              f"— {trade.get('title')}")
-        return
-
-    odds = round((trade.get("price") or 0) * 100)
-    print(f"🐋 EN VIVO — {username}: ${usd:,.0f} en {trade.get('title')}")
-    msg_id = send_telegram(build_ticket(username, trade, usd, odds, wallet))
-    log_result_pending(username, wallet, trade, usd, odds, msg_id)
+    # Toda la lógica de filtros y alerta vive en procesar_trade(), compartida
+    # con la recuperación por API para que se comporten exactamente igual.
+    procesar_trade(trade, origen="stream")
 
 
 def on_ws_error(ws, error):
@@ -669,6 +707,7 @@ def background_worker():
     last_lb_refresh = 0
     last_heartbeat = time.time()
     last_resolve_check = 0
+    last_backup_check = time.time()   # esperar un ciclo antes del primer respaldo
     last_save = time.time()
     while not stop_flag.is_set():
         now = time.time()
@@ -703,7 +742,16 @@ def background_worker():
             resolve_pending_results()
             last_resolve_check = now
 
-        if now - last_msg_at > 60 and current_ws is not None:
+        # Red de seguridad: recuperar por API lo que el stream se perdió
+        # durante desconexiones (el stream se queda mudo cada tanto).
+        if now - last_backup_check > BACKUP_INTERVAL:
+            try:
+                recuperar_perdidas()
+            except Exception as e:
+                print(f"[respaldo] falló, se reintenta luego: {e}", file=sys.stderr)
+            last_backup_check = now
+
+        if now - last_msg_at > MUDO_SEGUNDOS and current_ws is not None:
             print("[en vivo] 60s sin recibir nada — la conexión parece muda, forzando reconexión...")
             try:
                 current_ws.close()
@@ -751,13 +799,22 @@ def main():
     )
     current_ws = ws
     last_msg_at = time.time()
+    intentos_fallidos = 0
 
     while time.time() - run_start < MAX_RUNTIME_SECONDS:
-        ws.run_forever(ping_interval=30, ping_timeout=10)
+        conectado_desde = time.time()
+        ws.run_forever(ping_interval=15, ping_timeout=8)
         if time.time() - run_start >= MAX_RUNTIME_SECONDS:
             break
-        print("[en vivo] reintentando conexión en 5s...")
-        time.sleep(5)
+        # Si la conexión duró un rato razonable, no fue un fallo persistente:
+        # reseteamos la espera para que el próximo reintento sea inmediato.
+        if time.time() - conectado_desde > 60:
+            intentos_fallidos = 0
+        intentos_fallidos += 1
+        espera = min(1 * (2 ** (intentos_fallidos - 1)), 30)  # 1,2,4,8,16,30s
+        print(f"[en vivo] reintentando conexión en {espera}s "
+              f"(intento {intentos_fallidos})...")
+        time.sleep(espera)
 
     stop_flag.set()
     resolve_pending_results()
