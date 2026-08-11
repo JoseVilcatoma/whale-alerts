@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:20:16 (hora de Perú)
+Actualizado: 2026-08-11 17:22:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -47,13 +47,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 122 | 97 | 17 | -28.98 USD |
-| RN1 | 173 | 99 | 20 | -33.33 USD |
+| RN1 | 173 | 99 | 21 | -33.33 USD |
 | quavoo | 151 | 181 | 16 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 3 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 614 | 464 | 7 | -105.11 USD |
+| ferrariChampions2026 | 614 | 464 | 9 | -105.11 USD |
 | BrotherObama | 7 | 5 | 10 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -424,6 +424,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: cobblemon vs Grêmio Espo | Grêmio Esports (BUY) | 88% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: cobblemon vs Grêmio Espo | Grêmio Esports (BUY) | 89% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Boca Juniors vs. Recoleta FC end | No (BUY) | 78% | 0.00 | ⏳ pendiente | — |
 | RN1 | Fluminense FC vs. CS Independiente Rivad | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Boca Juniors vs. Recoleta FC end | No (BUY) | 78% | 0.00 | ⏳ pendiente | — |
@@ -451,6 +454,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 53% | 0.65 | ⏳ pendiente | — |
 | RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| swisstony | Spread: Fluminense FC (-2.5) | CS Independiente Rivadavia (BUY) | 90% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| RN1 | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 74% | 0.00 | ⏳ pendiente | — |
