@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 16:28:11 (hora de Perú)
+Actualizado: 2026-08-11 16:30:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $349.36
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| UpTheBlues | 208 | 132 | 57 | -0.46 USD |
+| UpTheBlues | 208 | 132 | 59 | -0.46 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -414,6 +414,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will CA Boca Juniors vs. Recoleta FC end | No (BUY) | 88% | 0.45 | ⏳ pendiente | — |
+| UpTheBlues | Will Recoleta FC win on 2026-08-11? | No (BUY) | 94% | 1.43 | ⏳ pendiente | — |
 | quavoo | New York Liberty vs. Indiana Fever | Indiana Fever (BUY) | 58% | 1.17 | ⏳ pendiente | — |
 | UpTheBlues | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 36% | 8.20 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 63% | 0.35 | ⏳ pendiente | — |
@@ -442,5 +444,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Spread: CA Boca Juniors (-1.5) | Recoleta FC (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: CA Boca | Over (BUY) | 71% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 0.5 | Over (BUY) | 95% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Under (BUY) | 40% | 0.00 | ⏳ pendiente | — |
