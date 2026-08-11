@@ -63002,5 +63002,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786431980.477762,
     "fills": 1
+  },
+  {
+    "timestamp": 1786432133,
+    "timestamp_added": 1786432134.347754,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-tig-vwh-2026-08-11-vwh",
+    "title": "Will Vancouver Whitecaps FC win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 86.42999999999999,
+    "whale_pct": 0.12,
+    "paper_stake_usd": 0.39,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786432134.3477612,
+    "fills": 1
   }
 ]
