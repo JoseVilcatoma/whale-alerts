@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 21:08:28 (hora de Perú)
+Actualizado: 2026-08-10 21:10:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $248.54
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
-| HomeRunHazard | 48 | 47 | 31 | +18.61 USD |
+| HomeRunHazard | 48 | 47 | 34 | +18.61 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 3 | +7.96 USD |
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 25 | 17 | 0 | -3.90 USD |
+| swisstony | 25 | 17 | 1 | -3.90 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 131 | 86 | 39 | -7.73 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
@@ -324,12 +324,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-nym-atl-2026-08-10-spread-away-1pt5 | HomeRunHazard, RN1 |
 | wnba-tor-atl-2026-08-10 | HomeRunHazard, ferrariChampions2026 |
 | bra3-psc-con-2026-08-10-psc | RN1, UpTheBlues |
-| wnba-chi-sea-2026-08-10 | HomeRunHazard, monkeymashingkeyboard, quavoo |
+| wnba-chi-sea-2026-08-10 | HomeRunHazard, monkeymashingkeyboard, quavoo, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 177.5 | Under (BUY) | 48% | 0.74 | ⏳ pendiente | — |
+| HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 54% | 2.14 | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 54% | 0.55 | ⏳ pendiente | — |
+| swisstony | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 58% | 0.37 | ⏳ pendiente | — |
 | quavoo | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 55% | 0.77 | ⏳ pendiente | — |
 | quavoo | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 55% | 0.47 | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 55% | 2.96 | ⏳ pendiente | — |
@@ -356,7 +360,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Audax CS Italiano win on 2026-08-10 | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Unión win on 2026-08-10? | Yes (BUY) | 80% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Unión win on 2026-08-10? | No (BUY) | 20% | 0.00 | ⏳ pendiente | — |
-| monkeymashingkeyboard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CD Cuenca win on 2026-08-10? | No (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| monkeymashingkeyboard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| quavoo | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 56% | 0.00 | ⏳ pendiente | — |
