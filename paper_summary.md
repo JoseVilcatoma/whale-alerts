@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 01:01:16 (hora de Perú)
+Actualizado: 2026-08-11 01:03:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -34,6 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
+| dv-pm | 0 | 0 | 1 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -45,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
-| quavoo | 136 | 166 | 12 | -30.64 USD |
+| quavoo | 136 | 166 | 13 | -30.64 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -352,6 +353,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| dv-pm | NK Celje vs. Ararat-Armenia FA: O/U 2.5 | Over (BUY) | 57% | 0.66 | ⏳ pendiente | — |
+| quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 56% | 0.61 | ⏳ pendiente | — |
 | UpTheBlues | Will FK Bodø/Glimt vs. RU Saint-Gilloise | Yes (BUY) | 21% | 0.36 | ⏳ pendiente | — |
 | UpTheBlues | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 38% | 1.66 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: CA Boca | Under (BUY) | 57% | 0.84 | ⏳ pendiente | — |
@@ -380,5 +383,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 23% | 1.31 | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 63% | 2.38 | ✅ ganada | +1.40 |
 | UpTheBlues | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 55% | 0.45 | ⏳ pendiente | — |
-| UpTheBlues | NEC vs. Olympiakós SFP: O/U 2.5 | Under (BUY) | 50% | 0.34 | ⏳ pendiente | — |
-| UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: Mj | Over (BUY) | 63% | 0.56 | ⏳ pendiente | — |
