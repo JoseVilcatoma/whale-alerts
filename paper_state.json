@@ -1,5 +1,5 @@
 {
-  "bankroll": 332.25399676453225,
+  "bankroll": 331.36399676453226,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14650,6 +14650,11 @@
       "timestamp": 1786457072.0836396,
       "bankroll": 332.25,
       "event": "won: ferrariChampions2026 \u2014 Will Palermo FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786458609.4890218,
+      "bankroll": 331.36,
+      "event": "lost: UpTheBlues \u2014 Will Lions FC win on 2026-08-11?"
     }
   ]
 }
