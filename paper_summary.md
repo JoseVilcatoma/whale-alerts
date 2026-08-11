@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:47:35 (hora de Perú)
+Actualizado: 2026-08-11 17:49:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| Sassy-Bucket | 0 | 0 | 13 | +0.00 USD |
+| Sassy-Bucket | 0 | 0 | 14 | +0.00 USD |
 | donthackme | 0 | 0 | 9 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
@@ -46,15 +46,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 122 | 97 | 29 | -28.98 USD |
-| RN1 | 173 | 99 | 26 | -33.33 USD |
-| quavoo | 151 | 181 | 18 | -33.43 USD |
+| swisstony | 122 | 97 | 30 | -28.98 USD |
+| RN1 | 173 | 99 | 29 | -33.33 USD |
+| quavoo | 151 | 181 | 19 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 4 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 614 | 464 | 10 | -105.11 USD |
-| BrotherObama | 7 | 5 | 10 | -112.72 USD |
+| BrotherObama | 7 | 5 | 11 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -430,6 +430,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 69% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 55% | 0.00 | ⏳ pendiente | — |
+| Sassy-Bucket | New York Mets vs. Atlanta Braves: O/U 8. | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| swisstony | Spread: Detroit Tigers (-1.5) | Detroit Tigers (BUY) | 38% | 0.00 | ⏳ pendiente | — |
+| BrotherObama | LoL: RMD Gaming vs RED Academy (BO3) - C | RED Academy (BUY) | 12% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Manchester United win on 2026-08-12 | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | swisstony | Spread: Detroit Tigers (-1.5) | Detroit Tigers (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | Sassy-Bucket | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
@@ -453,10 +460,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | Sassy-Bucket | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| Sassy-Bucket | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| Sassy-Bucket | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 93% | 0.00 | ⏳ pendiente | — |
