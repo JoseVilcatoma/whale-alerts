@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 09:51:28 (hora de Perú)
+Actualizado: 2026-08-11 09:53:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $291.14
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 16 | 13 | 4 | +17.16 USD |
-| HomeRunHazard | 93 | 83 | 11 | +15.57 USD |
+| HomeRunHazard | 93 | 83 | 12 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -362,6 +362,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Pittsburgh Pirates vs. Miami Marlins: O/ | Under (BUY) | 60% | 0.62 | ⏳ pendiente | — |
 | swisstony | Spread: Olympique Lyonnais (-2.5) | Olympique Lyonnais (BUY) | 26% | 0.38 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: PFK Levs | Over (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Sparks (-2.5) | Los Angeles Sparks (BUY) | 49% | 0.00 | ⏳ pendiente | — |
@@ -391,4 +392,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | Dota 2: MOUZ vs Rune Eaters - Game 2 Win | MOUZ (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 55% | 1.14 | ⏳ pendiente | — |
 | Weaseloftheweek | Dota 2: MOUZ vs Rune Eaters - Game 2 Win | MOUZ (BUY) | 66% | 2.32 | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 43% | 0.44 | ⏳ pendiente | — |
