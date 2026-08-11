@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 12:07:03 (hora de Perú)
+Actualizado: 2026-08-11 12:09:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $364.42
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 94 | -4.23 USD |
+| swisstony | 35 | 25 | 97 | -4.23 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 70 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -359,6 +359,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-bog-usg-2026-08-11-bog | quavoo, swisstony |
 | ucl-kau-din-2026-08-11-total-3pt5 | 0x4f2, swisstony |
 | clf-pal-juv-2026-08-11-juv | ferrariChampions2026, quavoo, swisstony |
+| col-al-bra-2026-08-11-al | UpTheBlues, swisstony |
 | ucl-kai-pls-2026-08-11-kai | RN1, UpTheBlues |
 | lol-hle1-dnf-2026-08-11 | BBQChickenisthebesttt, BrotherObama, Lakersfan111, ferrariChampions2026 |
 | lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
@@ -381,6 +382,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Apóllon Lemesoú vs. SK Brann: O/U 3.5 | Under (BUY) | 71% | 0.58 | ⏳ pendiente | — |
+| swisstony | Will Apóllon Lemesoú win on 2026-08-11? | No (BUY) | 56% | 0.92 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 79% | 1.07 | ⏳ pendiente | — |
 | swisstony | Will Larne FC win on 2026-08-11? | No (BUY) | 85% | 2.68 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 78% | 1.06 | ⏳ pendiente | — |
 | swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 52% | 1.44 | ⏳ pendiente | — |
@@ -408,6 +412,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 64% | 0.83 | ⏳ pendiente | — |
 | swisstony | FK Bodø/Glimt vs. RU Saint-Gilloise: O/U | Under (BUY) | 45% | 1.16 | ⏳ pendiente | — |
 | BrotherObama | LoL: Kaufland Hangry Knights vs G2 NORD  | Kaufland Hangry Knights (BUY) | 26% | 33.38 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.52 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 1.05 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.53 | ⏳ pendiente | — |
