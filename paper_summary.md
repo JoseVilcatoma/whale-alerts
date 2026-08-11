@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 04:27:52 (hora de Perú)
+Actualizado: 2026-08-11 04:29:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -51,7 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 606 | 460 | 0 | -105.60 USD |
+| ferrariChampions2026 | 606 | 460 | 1 | -105.60 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -349,13 +349,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-10-spread-home-2pt5 | HomeRunHazard, swisstony |
 | mlb-tex-laa-2026-08-10-spread-home-1pt5 | HomeRunHazard, swisstony |
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
-| lol-hle1-dnf-2026-08-11 | BBQChickenisthebesttt, BrotherObama, Lakersfan111 |
+| lol-hle1-dnf-2026-08-11 | BBQChickenisthebesttt, BrotherObama, Lakersfan111, ferrariChampions2026 |
 | lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Hanwha Life Esports vs DN SOOPers ( | DN SOOPers (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: Hanwha Life Esports vs DN SOOPers ( | Hanwha Life Esports (BUY) | 24% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 42% | 0.00 | ⏳ pendiente | — |
@@ -385,4 +386,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 69% | 33.51 | ⏳ pendiente | — |
 | quavoo | Palermo FC vs. Juventus Turin: O/U 2.5 | Over (BUY) | 62% | 0.48 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 67% | 24.06 | ⏳ pendiente | — |
-| quavoo | Palermo FC vs. Juventus Turin: O/U 2.5 | Over (BUY) | 61% | 0.42 | ⏳ pendiente | — |
