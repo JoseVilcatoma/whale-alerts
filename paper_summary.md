@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:54:33 (hora de Perú)
+Actualizado: 2026-08-10 23:56:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $327.50
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | wr0ngw4yb3tt0r | 51 | 48 | 1 | +33.42 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| HomeRunHazard | 86 | 77 | 11 | +25.93 USD |
+| HomeRunHazard | 86 | 77 | 12 | +25.93 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
@@ -351,6 +351,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 63% | 2.38 | ⏳ pendiente | — |
 | UpTheBlues | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 55% | 0.45 | ⏳ pendiente | — |
 | UpTheBlues | NEC vs. Olympiakós SFP: O/U 2.5 | Under (BUY) | 50% | 0.34 | ⏳ pendiente | — |
 | UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: Mj | Over (BUY) | 63% | 0.56 | ⏳ pendiente | — |
@@ -380,4 +381,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 49% | 0.34 | ❌ perdida | -0.34 |
 | swisstony | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 63% | 1.09 | ✅ ganada | +0.64 |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 92% | 1.79 | ✅ ganada | +0.16 |
-| swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 72% | 0.52 | ⏳ pendiente | — |

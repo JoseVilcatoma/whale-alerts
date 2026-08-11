@@ -61977,5 +61977,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786423716.5533,
     "fills": 1
+  },
+  {
+    "timestamp": 1786424189,
+    "timestamp_added": 1786424190.0300138,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-tex-laa-2026-08-10-total-5pt5",
+    "title": "Texas Rangers vs. Los Angeles Angels: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2126.2689,
+    "whale_pct": 0.727,
+    "paper_stake_usd": 2.38,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786424190.030021,
+    "fills": 1
   }
 ]
