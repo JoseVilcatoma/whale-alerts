@@ -1,5 +1,5 @@
 {
-  "bankroll": 350.4640827394717,
+  "bankroll": 348.64334199873093,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -16310,6 +16310,41 @@
       "timestamp": 1786484374.581128,
       "bankroll": 350.46,
       "event": "lost: UpTheBlues \u2014 Ap\u00f3llon Lemeso\u00fa vs. SK Brann: O/U 2.5"
+    },
+    {
+      "timestamp": 1786485916.4001322,
+      "bankroll": 348.4,
+      "event": "lost: UpTheBlues \u2014 Will SK Brann win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786485919.9088807,
+      "bankroll": 348.4,
+      "event": "won: UpTheBlues \u2014 Will Panathinaik\u00f3s AO win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786485927.2434096,
+      "bankroll": 348.4,
+      "event": "lost: swisstony \u2014 Will SK Brann win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786485927.8778913,
+      "bankroll": 348.7,
+      "event": "won: swisstony \u2014 Will SK Brann win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786485928.455051,
+      "bankroll": 349.2,
+      "event": "won: swisstony \u2014 Will Panathinaik\u00f3s AO win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786485928.9434793,
+      "bankroll": 349.2,
+      "event": "won: UpTheBlues \u2014 Spread: Panathinaik\u00f3s AO (-2.5)"
+    },
+    {
+      "timestamp": 1786485929.9968886,
+      "bankroll": 348.64,
+      "event": "lost: UpTheBlues \u2014 Will SK Brann win on 2026-08-11?"
     }
   ]
 }

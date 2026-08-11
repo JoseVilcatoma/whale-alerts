@@ -62796,8 +62796,8 @@
     "whale_pct": 0.64,
     "paper_stake_usd": 2.06,
     "odds_at_bet": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.06,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786430382.995928,
@@ -64853,7 +64853,7 @@
     "whale_pct": 0.149,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -68556,8 +68556,8 @@
     "whale_pct": 0.161,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -69430,8 +69430,8 @@
     "whale_pct": 0.101,
     "paper_stake_usd": 0.35,
     "odds_at_bet": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.3,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -69684,8 +69684,8 @@
     "whale_pct": 0.117,
     "paper_stake_usd": 0.41,
     "odds_at_bet": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.5,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -69878,7 +69878,7 @@
     "whale_pct": 0.143,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 95,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -70460,8 +70460,8 @@
     "whale_pct": 0.168,
     "paper_stake_usd": 0.56,
     "odds_at_bet": 92,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.56,
     "overlaps_with": [
       "swisstony"
     ],
@@ -73390,6 +73390,73 @@
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786485806.6335926,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786485928,
+    "timestamp_added": 1786485928.4304063,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-flu-cir-2026-08-11-flu",
+    "title": "Will Fluminense FC win on 2026-08-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1107.2976,
+    "whale_pct": 0.765,
+    "paper_stake_usd": 0.65,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786485929.393018,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786485928,
+    "timestamp_added": 1786485928.9641676,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "lib-flu-cir-2026-08-11-flu",
+    "title": "Will Fluminense FC win on 2026-08-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 489.3543,
+    "whale_pct": 0.426,
+    "paper_stake_usd": 0.91,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786485928.9641738,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786485932,
+    "timestamp_added": 1786485932.6525385,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-flu-cir-2026-08-11-cir",
+    "title": "Will CS Independiente Rivadavia win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1278.2,
+    "whale_pct": 0.883,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786485932.6525457,
     "fills": 1
   }
 ]
