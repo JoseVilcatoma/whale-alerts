@@ -443,12 +443,31 @@ def save_and_commit_results():
         RESULTS_FILE.write_text(json.dumps(results, indent=2))
         build_summary_md()
         WATCHED_FILE.write_text(json.dumps(watched_meta, indent=2))
-    os.system('git config user.name "whale-alert-bot"')
-    os.system('git config user.email "actions@github.com"')
-    os.system("git add results.json results.md watched.json")
-    os.system('git diff --staged --quiet || git commit -m "actualizar resultados y vigilados"')
-    os.system("git push")
-    results_dirty = False
+    try:
+        os.system('git config user.name "whale-alert-bot"')
+        os.system('git config user.email "actions@github.com"')
+        os.system("git add results.json results.md watched.json")
+        os.system('git diff --staged --quiet || git commit -m "actualizar resultados y vigilados"')
+
+        for intento in range(3):
+            if os.system("git push") == 0:
+                break
+            # El otro bot (paper trading) subió algo mientras tanto. Como cada
+            # bot escribe archivos distintos, nos quedamos con lo nuestro si
+            # hay choque y reintentamos.
+            print(f"[guardar] push rechazado (intento {intento+1}/3), "
+                  f"bajando cambios ajenos y reintentando...", file=sys.stderr)
+            os.system("git fetch origin main")
+            if os.system('git merge --no-edit -X ours origin/main') != 0:
+                os.system("git merge --abort")
+                print("[guardar] no se pudo fusionar, se reintenta en el próximo ciclo",
+                      file=sys.stderr)
+                break
+        results_dirty = False
+    except Exception as e:
+        import traceback
+        print(f"[guardar] error, se reintenta en el próximo ciclo: {e}", file=sys.stderr)
+        traceback.print_exc()
 
 
 def background_worker():
@@ -498,7 +517,7 @@ def background_worker():
                 pass
             last_msg_at = time.time()
 
-        if results_dirty and now - last_save > 120:
+        if now - last_save > 120:
             print("[resultados] guardando progreso en el repo...")
             save_and_commit_results()
             last_save = now
