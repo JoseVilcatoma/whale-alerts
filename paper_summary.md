@@ -43,11 +43,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 34 | 25 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 100 | 53 | -7.44 USD |
+| UpTheBlues | 151 | 100 | 55 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
-| quavoo | 136 | 166 | 19 | -30.64 USD |
+| quavoo | 136 | 166 | 23 | -30.64 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
