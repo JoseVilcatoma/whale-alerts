@@ -68374,5 +68374,69 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786468016.3602588,
     "fills": 1
+  },
+  {
+    "timestamp": 1786468053,
+    "timestamp_added": 1786468054.0827415,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "ucl-sf-agf-2026-08-11-total-2pt5",
+    "title": "Sabah FK vs. Aarhus GF: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 703.1,
+    "whale_pct": 0.294,
+    "paper_stake_usd": 1.07,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786468054.0827532,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786468093,
+    "timestamp_added": 1786468093.402195,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "col-al-bra-2026-08-11-al",
+    "title": "Will Ap\u00f3llon Lemeso\u00fa win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 618.24,
+    "whale_pct": 0.253,
+    "paper_stake_usd": 0.92,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786468100.8582242,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786468096,
+    "timestamp_added": 1786468096.5580149,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "col-al-bra-2026-08-11-total-3pt5",
+    "title": "Ap\u00f3llon Lemeso\u00fa vs. SK Brann: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 391.91999999999996,
+    "whale_pct": 0.16,
+    "paper_stake_usd": 0.58,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786468096.5580244,
+    "fills": 1
   }
 ]
