@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 12:11:09 (hora de Perú)
+Actualizado: 2026-08-11 12:13:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $364.42
@@ -40,9 +40,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 103 | -4.23 USD |
+| swisstony | 35 | 25 | 106 | -4.23 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 101 | 71 | -8.33 USD |
+| UpTheBlues | 151 | 101 | 73 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 13 | -20.90 USD |
@@ -365,7 +365,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-kai-pls-2026-08-11-kai | RN1, UpTheBlues |
 | lol-hle1-dnf-2026-08-11 | BBQChickenisthebesttt, BrotherObama, Lakersfan111, ferrariChampions2026 |
 | lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
-| ucl-sf-agf-2026-08-11-agf | dv-pm, swisstony |
+| ucl-sf-agf-2026-08-11-agf | UpTheBlues, dv-pm, swisstony |
 | lol-hle1-dnf-2026-08-11-game3 | BrotherObama, lzh1 |
 | lol-nsea-dkc-2026-08-11-game2 | BBQChickenisthebesttt, lzh1 |
 | ucl-kai-pls-2026-08-11-total-0pt5 | quavoo, swisstony |
@@ -384,6 +384,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will FK Kauno Žalgiris win on 2026-08-11 | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
+| swisstony | Spread: GNK Dinamo Zagreb (-1.5) | FK Kauno Žalgiris (BUY) | 66% | 0.00 | ⏳ pendiente | — |
+| swisstony | Apóllon Lemesoú vs. SK Brann: O/U 3.5 | Under (BUY) | 72% | 0.00 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 74% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Aarhus GF win on 2026-08-11? | No (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | swisstony | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 74% | 0.00 | ⏳ pendiente | — |
@@ -409,8 +414,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 60% | 0.78 | ⏳ pendiente | — |
 | swisstony | FK Bodø/Glimt vs. RU Saint-Gilloise: O/U | Under (BUY) | 47% | 0.45 | ⏳ pendiente | — |
 | swisstony | Will Aarhus GF win on 2026-08-11? | No (BUY) | 80% | 1.00 | ⏳ pendiente | — |
-| swisstony | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 71% | 0.45 | ⏳ pendiente | — |
-| UpTheBlues | Will Olympiakós SFP win on 2026-08-11? | No (BUY) | 66% | 4.02 | ⏳ pendiente | — |
-| UpTheBlues | Will Olympiakós SFP win on 2026-08-11? | No (BUY) | 66% | 3.37 | ⏳ pendiente | — |
-| swisstony | FK Bodø/Glimt vs. RU Saint-Gilloise: O/U | Under (BUY) | 89% | 1.02 | ⏳ pendiente | — |
-| UpTheBlues | Will Olympiakós SFP win on 2026-08-11? | No (BUY) | 66% | 0.98 | ⏳ pendiente | — |
