@@ -1,9 +1,9 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 00:28:03 (hora de Perú)
+Actualizado: 2026-08-11 00:30:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $322.01
+**Bankroll actual:** $322.04
 **Retorno acumulado:** -67.80%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
-| 0x4f2 | 15 | 13 | 2 | +17.13 USD |
+| 0x4f2 | 16 | 13 | 1 | +17.16 USD |
 | HomeRunHazard | 93 | 83 | 0 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
@@ -356,7 +356,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 56% | 0.48 | ⏳ pendiente | — |
 | quavoo | Will FK Bodø/Glimt win on 2026-08-11? | Yes (BUY) | 60% | 0.45 | ⏳ pendiente | — |
 | quavoo | Games Total: O/U 3.5 | Under (BUY) | 40% | 0.43 | ⏳ pendiente | — |
-| 0x4f2 | Will CDPJuniorFC win on 2026-08-10? | No (BUY) | 26% | 0.68 | ⏳ pendiente | — |
+| 0x4f2 | Will CDPJuniorFC win on 2026-08-10? | No (BUY) | 26% | 0.68 | 💰 vendida anticipada | +0.03 |
 | quavoo | Palermo FC vs. Juventus Turin: O/U 2.5 | Over (BUY) | 61% | 1.08 | ⏳ pendiente | — |
 | UpTheBlues | Will RU Saint-Gilloise win on 2026-08-11 | No (BUY) | 81% | 0.67 | ⏳ pendiente | — |
 | quavoo | Palermo FC vs. Juventus Turin: O/U 2.5 | Over (BUY) | 61% | 0.46 | ⏳ pendiente | — |
