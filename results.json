@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "telegram_msg_id": 33192,
+    "timestamp": 1786428655,
+    "username": "c4a759e5c9350491AF61646f2c4A46",
+    "wallet": "0x14f147aad3c4a759e5c9350491af61646f2c4a46",
+    "slug": "btc-updown-5m-1786428300",
+    "title": "Bitcoin Up or Down - August 11, 2:05AM-2:10AM ET",
+    "outcome": "Up",
+    "side": "BUY",
+    "usd": 27172.8,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33193,
+    "timestamp": 1786428655,
+    "username": "ProudIsraeli",
+    "wallet": "0xb77b6ef359f02192fb077227499f9f853d4870a5",
+    "slug": "btc-updown-5m-1786428300",
+    "title": "Bitcoin Up or Down - August 11, 2:05AM-2:10AM ET",
+    "outcome": "Up",
+    "side": "BUY",
+    "usd": 14985.0,
+    "odds_at_bet": 100,
+    "status": "pending"
+  }
+]
