@@ -69584,5 +69584,113 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786469488.5790932,
     "fills": 1
+  },
+  {
+    "timestamp": 1786469528,
+    "timestamp_added": 1786469529.0850244,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "ucl-sf-agf-2026-08-11-spread-home-1pt5",
+    "title": "Spread: Sabah FK (-1.5)",
+    "outcome": "Sabah FK",
+    "side": "BUY",
+    "whale_usd": 386.04600000000005,
+    "whale_pct": 0.165,
+    "paper_stake_usd": 0.58,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786469529.0850356,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786469565,
+    "timestamp_added": 1786469565.971468,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "ucl-sf-agf-2026-08-11-btts",
+    "title": "Sabah FK vs. Aarhus GF: Both Teams to Score",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 268.66999899999996,
+    "whale_pct": 0.115,
+    "paper_stake_usd": 0.4,
+    "odds_at_bet": 26,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786469565.9714777,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786469614,
+    "timestamp_added": 1786469614.4595351,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "uel-sab-lar-2026-08-11-sab",
+    "title": "Will SK Iberia 1999 win on 2026-08-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 276.96,
+    "whale_pct": 0.119,
+    "paper_stake_usd": 0.42,
+    "odds_at_bet": 24,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786469614.4595466,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786469625,
+    "timestamp_added": 1786469626.2563367,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-sf-agf-2026-08-11-total-2pt5",
+    "title": "Sabah FK vs. Aarhus GF: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1003.26,
+    "whale_pct": 0.3,
+    "paper_stake_usd": 1.05,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786469626.256348,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786469641,
+    "timestamp_added": 1786469641.8053834,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "col-csk1-pao-2026-08-11-pao",
+    "title": "Will Panathinaik\u00f3s AO win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 273.6,
+    "whale_pct": 0.117,
+    "paper_stake_usd": 0.41,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786469641.8053923,
+    "fills": 1
   }
 ]
