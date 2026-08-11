@@ -58823,8 +58823,8 @@
     "whale_pct": 0.313,
     "paper_stake_usd": 0.78,
     "odds_at_bet": 35,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.45,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786414722.265495,
@@ -58863,8 +58863,8 @@
     "whale_pct": 1.1,
     "paper_stake_usd": 2.75,
     "odds_at_bet": 35,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.11,
     "overlaps_with": [
       "RN1"
     ],
@@ -58949,8 +58949,8 @@
     "whale_pct": 0.88,
     "paper_stake_usd": 2.2,
     "odds_at_bet": 35,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.09,
     "overlaps_with": [
       "RN1"
     ],
@@ -58971,8 +58971,8 @@
     "whale_pct": 0.888,
     "paper_stake_usd": 2.22,
     "odds_at_bet": 36,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.95,
     "overlaps_with": [
       "RN1"
     ],
@@ -58993,8 +58993,8 @@
     "whale_pct": 0.378,
     "paper_stake_usd": 0.95,
     "odds_at_bet": 36,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.69,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -59039,8 +59039,8 @@
     "whale_pct": 0.775,
     "paper_stake_usd": 1.94,
     "odds_at_bet": 38,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.17,
     "overlaps_with": [
       "HomeRunHazard",
       "RN1"
@@ -59087,8 +59087,8 @@
     "whale_pct": 1.505,
     "paper_stake_usd": 3.76,
     "odds_at_bet": 33,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.63,
     "overlaps_with": [
       "HomeRunHazard",
       "RN1"
@@ -59237,8 +59237,8 @@
     "whale_pct": 0.404,
     "paper_stake_usd": 1.01,
     "odds_at_bet": 33,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.05,
     "overlaps_with": [
       "HomeRunHazard",
       "RN1"
@@ -59283,8 +59283,8 @@
     "whale_pct": 0.671,
     "paper_stake_usd": 1.69,
     "odds_at_bet": 67,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.69,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -61589,6 +61589,26 @@
     ],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786421722.1994905,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786421876,
+    "timestamp_added": 1786421877.6684127,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tex-laa-2026-08-10-total-4pt5",
+    "title": "Texas Rangers vs. Los Angeles Angels: O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 368.1793650000001,
+    "whale_pct": 0.12,
+    "paper_stake_usd": 0.34,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786421877.668422,
     "fills": 1
   }
 ]

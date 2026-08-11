@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:17:19 (hora de Perú)
+Actualizado: 2026-08-10 23:19:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $283.47
-**Retorno acumulado:** -71.65%
+**Bankroll actual:** $310.90
+**Retorno acumulado:** -68.91%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 7 | +26.87 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
-| HomeRunHazard | 62 | 61 | 50 | +24.72 USD |
+| HomeRunHazard | 63 | 62 | 48 | +24.72 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 5 | 1 | +17.41 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 159 | 88 | 6 | -23.33 USD |
+| RN1 | 160 | 88 | 5 | -21.88 USD |
 | quavoo | 128 | 157 | 21 | -40.03 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 563 | 447 | 54 | -148.70 USD |
+| ferrariChampions2026 | 569 | 447 | 49 | -122.70 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -350,6 +350,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 37% | 0.34 | ⏳ pendiente | — |
 | swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 58% | 0.39 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 17.5 | Under (BUY) | 51% | 0.48 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: Recolet | Over (BUY) | 40% | 0.29 | ⏳ pendiente | — |
@@ -379,4 +380,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 92% | 0.42 | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 65% | 0.30 | ⏳ pendiente | — |
 | UpTheBlues | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 36% | 0.31 | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 38% | 1.10 | ✅ ganada | +1.79 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 283.46731062768947,
+  "bankroll": 310.90410336711375,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13625,6 +13625,51 @@
       "timestamp": 1786421572.7839174,
       "bankroll": 283.47,
       "event": "won: UpTheBlues \u2014 Will Audax CS Italiano win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786421884.3010068,
+      "bankroll": 284.92,
+      "event": "won: RN1 \u2014 Tampa Bay Rays vs. Athletics: O/U 11.5"
+    },
+    {
+      "timestamp": 1786421884.501251,
+      "bankroll": 290.02,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Athletics: O/U 11.5"
+    },
+    {
+      "timestamp": 1786421885.1194715,
+      "bankroll": 294.11,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Athletics: O/U 11.5"
+    },
+    {
+      "timestamp": 1786421885.219644,
+      "bankroll": 298.06,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Athletics: O/U 11.5"
+    },
+    {
+      "timestamp": 1786421885.3198273,
+      "bankroll": 299.74,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 11.5"
+    },
+    {
+      "timestamp": 1786421885.5201828,
+      "bankroll": 302.91,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Athletics: O/U 11.5"
+    },
+    {
+      "timestamp": 1786421885.7205505,
+      "bankroll": 310.54,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Athletics: O/U 11.5"
+    },
+    {
+      "timestamp": 1786421886.2212095,
+      "bankroll": 312.59,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Athletics: O/U 11.5"
+    },
+    {
+      "timestamp": 1786421886.321371,
+      "bankroll": 310.9,
+      "event": "lost: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 11.5"
     }
   ]
 }
