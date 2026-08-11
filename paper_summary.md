@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 19:21:30 (hora de Perú)
+Actualizado: 2026-08-10 19:23:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $184.17
-**Retorno acumulado:** -81.58%
+**Bankroll actual:** $185.66
+**Retorno acumulado:** -81.43%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| HomeRunHazard | 45 | 46 | 29 | +15.05 USD |
+| HomeRunHazard | 46 | 46 | 28 | +16.54 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 3 | +7.96 USD |
 | monkeymashingkeyboard | 3 | 0 | 6 | +2.86 USD |
@@ -41,11 +41,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 22 | 16 | 4 | -3.46 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 128 | 79 | 21 | -7.28 USD |
+| UpTheBlues | 128 | 79 | 26 | -7.28 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 151 | 83 | 6 | -32.82 USD |
-| quavoo | 125 | 155 | 15 | -40.10 USD |
+| quavoo | 126 | 155 | 14 | -40.10 USD |
 | GoalLineGhost | 36 | 25 | 2 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -314,6 +314,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | arg-ban-bel-2026-08-10-bel | UpTheBlues, swisstony |
 | ecu1-lib-uni-2026-08-10-total-1pt5 | UpTheBlues, swisstony |
 | uru1-mal-rcm-2026-08-10-mal | SnakeBall, UpTheBlues |
+| arg-uni-cac-2026-08-10-cac | SnakeBall, UpTheBlues |
 | lol-los-png1-2026-08-10 | BrotherObama, SnakeBall |
 | ecu1-lib-uni-2026-08-10-lib | RN1, UpTheBlues |
 | bra3-psc-con-2026-08-10-total-2pt5 | RN1, UpTheBlues |
@@ -325,6 +326,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will CA Unión vs. CA Central Córdoba end | Yes (BUY) | 27% | 0.26 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Central Córdoba win on 2026-08-1 | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Unión vs. CA Central Córdoba end | Yes (BUY) | 27% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | CA Unión vs. CA Central Córdoba: O/U 1.5 | Under (BUY) | 34% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Paysandu SC PA win on 2026-08-10? | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-13.5) | Atlanta Dream (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 184 | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Tempo vs. Atlanta Dream: O/U 184 | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
@@ -350,8 +356,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Paysandu SC PA vs. AD Confianca SE: O/U  | Over (BUY) | 37% | 3.26 | ⏳ pendiente | — |
 | RN1 | Will Libertad Loja vs. CD Universidad Ca | Yes (BUY) | 13% | 0.42 | ⏳ pendiente | — |
 | RN1 | Will Libertad Loja win on 2026-08-10? | No (BUY) | 14% | 1.58 | ⏳ pendiente | — |
-| UpTheBlues | Will Libertad Loja win on 2026-08-10? | No (BUY) | 14% | 0.32 | ⏳ pendiente | — |
-| Bulls94 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 54% | 0.88 | ⏳ pendiente | — |
-| UpTheBlues | Will RU Saint-Gilloise win on 2026-08-11 | Yes (BUY) | 20% | 0.43 | ⏳ pendiente | — |
-| BrotherObama | LoL: LOS vs paiN Gaming (BO3) - CBLOL Re | paiN Gaming (BUY) | 17% | 6.20 | ⏳ pendiente | — |
-| quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 3.36 | ⏳ pendiente | — |

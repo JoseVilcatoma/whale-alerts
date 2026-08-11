@@ -1,5 +1,5 @@
 {
-  "bankroll": 184.17167865016683,
+  "bankroll": 185.66453579302396,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12785,6 +12785,16 @@
       "timestamp": 1786407550.9783545,
       "bankroll": 184.17,
       "event": "lost: swisstony \u2014 CA Banfield vs. CA Belgrano: O/U 1.5"
+    },
+    {
+      "timestamp": 1786407789.2974193,
+      "bankroll": 185.66,
+      "event": "won: HomeRunHazard \u2014 New York Mets vs. Atlanta Braves: O/U 7.5"
+    },
+    {
+      "timestamp": 1786407795.1347556,
+      "bankroll": 185.66,
+      "event": "won: quavoo \u2014 New York Mets vs. Atlanta Braves: O/U 7.5"
     }
   ]
 }
