@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 14:22:33 (hora de Perú)
+Actualizado: 2026-08-11 14:24:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $336.30
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| UpTheBlues | 169 | 110 | 90 | -0.56 USD |
+| UpTheBlues | 169 | 110 | 94 | -0.56 USD |
 | dv-pm | 1 | 2 | 5 | -0.92 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
@@ -368,6 +368,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-hle1-dnf-2026-08-11 | BBQChickenisthebesttt, BrotherObama, Lakersfan111, ferrariChampions2026 |
 | lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
 | ucl-sf-agf-2026-08-11-agf | UpTheBlues, dv-pm, swisstony |
+| wnba-phx-la-2026-08-11-total-178pt5 | HomeRunHazard, UpTheBlues |
 | lol-hle1-dnf-2026-08-11-game3 | BrotherObama, lzh1 |
 | lol-nsea-dkc-2026-08-11-game2 | BBQChickenisthebesttt, lzh1 |
 | col-csk1-pao-2026-08-11-pao | UpTheBlues, swisstony |
@@ -406,6 +407,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 97% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will NEC win on 2026-08-11? | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 54% | 0.18 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 54% | 17.41 | ⏳ pendiente | — |
 | UpTheBlues | Will FK CSKA 1948 Sofia vs. Panathinaikó | Yes (BUY) | 84% | 0.44 | ⏳ pendiente | — |
@@ -432,7 +437,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 52% | 0.40 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Under (BUY) | 60% | 3.51 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Dana White's Contender Series: Joe Krops | Jon Kunneman (BUY) | 60% | 6.87 | ⏳ pendiente | — |
-| swisstony | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 46% | 0.37 | ⏳ pendiente | — |
-| swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 72% | 0.56 | ⏳ pendiente | — |
-| swisstony | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 69% | 0.38 | ⏳ pendiente | — |
-| swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | No (BUY) | 70% | 0.52 | ⏳ pendiente | — |
