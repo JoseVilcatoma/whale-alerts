@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 14:34:07 (hora de Perú)
+Actualizado: 2026-08-11 14:36:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $337.00
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | dv-pm | 1 | 2 | 5 | -0.92 USD |
-| UpTheBlues | 170 | 111 | 97 | -0.95 USD |
+| UpTheBlues | 170 | 111 | 80 | -0.95 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -407,27 +407,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| UpTheBlues | Spread: NK Celje (-2.5) | Ararat-Armenia FA (BUY) | 95% | 0.78 | ⏳ pendiente | — |
-| UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: Bo | No (BUY) | 63% | 0.45 | ⏳ pendiente | — |
-| UpTheBlues | Will NEC win on 2026-08-11? | No (BUY) | 99% | 1.21 | ⏳ pendiente | — |
-| UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | Yes (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 97% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 97% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will NEC win on 2026-08-11? | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 74% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 54% | 0.18 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 54% | 17.41 | ⏳ pendiente | — |
-| UpTheBlues | Will FK CSKA 1948 Sofia vs. Panathinaikó | Yes (BUY) | 84% | 0.44 | ⏳ pendiente | — |
-| UpTheBlues | Will Panathinaikós AO win on 2026-08-11? | No (BUY) | 88% | 0.59 | ⏳ pendiente | — |
-| UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 86% | 1.23 | ⏳ pendiente | — |
-| UpTheBlues | Will Panathinaikós AO win on 2026-08-11? | No (BUY) | 87% | 1.97 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Olympique Lyonnais (-1.5) | AC Sparta Praha (BUY) | 63% | 0.39 | ⏳ pendiente | — |
-| UpTheBlues | Will NEC win on 2026-08-11? | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Olympiakós SFP win on 2026-08-11? | No (BUY) | 93% | 0.16 | ⏳ pendiente | — |
-| UpTheBlues | Will SK Puntigamer Sturm Graz win on 202 | Yes (BUY) | 28% | 0.44 | ⏳ pendiente | — |
-| UpTheBlues | NK Celje vs. Ararat-Armenia FA: O/U 4.5 | Under (BUY) | 98% | 0.35 | ⏳ pendiente | — |
+| UpTheBlues | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 97% | 0.81 | ⏳ pendiente | — |
 | UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 61% | 0.61 | ⏳ pendiente | — |
 | UpTheBlues | Will Olympique Lyonnais win on 2026-08-1 | No (BUY) | 27% | 0.36 | ⏳ pendiente | — |
 | swisstony | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 40% | 0.38 | ⏳ pendiente | — |
@@ -437,3 +417,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 40% | 1.33 | ⏳ pendiente | — |
 | swisstony | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 41% | 0.40 | ⏳ pendiente | — |
 | swisstony | Will NEC vs. Olympiakós SFP end in a dra | Yes (BUY) | 56% | 0.54 | ⏳ pendiente | — |
+| swisstony | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Yes (BUY) | 47% | 0.36 | ⏳ pendiente | — |
+| UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 78% | 0.59 | ⏳ pendiente | — |
+| swisstony | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 52% | 0.40 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | O/U 1.5 Rounds | Under (BUY) | 60% | 3.51 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Dana White's Contender Series: Joe Krops | Jon Kunneman (BUY) | 60% | 6.87 | ⏳ pendiente | — |
+| swisstony | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 46% | 0.37 | ⏳ pendiente | — |
+| swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 72% | 0.56 | ⏳ pendiente | — |
+| swisstony | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 69% | 0.38 | ⏳ pendiente | — |
+| swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | No (BUY) | 70% | 0.52 | ⏳ pendiente | — |
+| swisstony | Will Fenerbahçe SK win on 2026-08-11? | No (BUY) | 50% | 0.39 | ⏳ pendiente | — |
+| swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 86% | 1.44 | ✅ ganada | +0.23 |
+| UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 71% | 0.39 | ⏳ pendiente | — |
+| UpTheBlues | Will SK Brann win on 2026-08-11? | No (BUY) | 92% | 0.56 | ⏳ pendiente | — |
+| swisstony | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Under (BUY) | 70% | 0.43 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Indiana Fever (-2.5) | New York Liberty (BUY) | 48% | 4.76 | ⏳ pendiente | — |
+| UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 86% | 0.36 | ✅ ganada | +0.06 |
+| UpTheBlues | Apóllon Lemesoú vs. SK Brann: O/U 2.5 | Under (BUY) | 83% | 0.91 | ⏳ pendiente | — |
+| quavoo | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Yes (BUY) | 61% | 0.36 | ⏳ pendiente | — |
+| UpTheBlues | NK Celje vs. Ararat-Armenia FA: Both Tea | No (BUY) | 50% | 0.36 | ⏳ pendiente | — |
+| quavoo | Will Fenerbahçe SK win on 2026-08-11? | Yes (BUY) | 56% | 0.34 | ⏳ pendiente | — |
