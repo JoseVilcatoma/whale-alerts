@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:07:49 (hora de Perú)
+Actualizado: 2026-08-11 17:09:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.21
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 3 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 614 | 464 | 1 | -105.11 USD |
+| ferrariChampions2026 | 614 | 464 | 2 | -105.11 USD |
 | BrotherObama | 7 | 5 | 10 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -363,7 +363,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-bog-usg-2026-08-11-bog | quavoo, swisstony |
 | ucl-crv-hbs-2026-08-11-total-4pt5 | quavoo, swisstony |
 | ucl-kau-din-2026-08-11-total-3pt5 | 0x4f2, swisstony |
-| sud-boc-rec1-2026-08-11-total-2pt5 | RN1, UpTheBlues, theowalcott |
+| sud-boc-rec1-2026-08-11-total-2pt5 | RN1, UpTheBlues, ferrariChampions2026, theowalcott |
 | clf-pal-juv-2026-08-11-juv | ferrariChampions2026, quavoo, swisstony |
 | col-al-bra-2026-08-11-al | UpTheBlues, swisstony |
 | col-al-bra-2026-08-11-bra | UpTheBlues, swisstony |
@@ -423,6 +423,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | RN1 | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 82% | 0.00 | ⏳ pendiente | — |
@@ -452,4 +453,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: RMD Gaming vs RED Academy (BO3) - C | RED Academy (BUY) | 26% | 3.87 | ⏳ pendiente | — |
 | UpTheBlues | Will CS Independiente Rivadavia win on 2 | No (BUY) | 85% | 1.43 | ⏳ pendiente | — |
-| SDTrading | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 52% | 2.35 | ⏳ pendiente | — |
