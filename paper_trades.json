@@ -66063,5 +66063,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786462928.2703898,
     "fills": 1
+  },
+  {
+    "timestamp": 1786463041,
+    "timestamp_added": 1786463041.6011689,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-wsh-las-2026-08-11-spread-home-7pt5",
+    "title": "Spread: Las Vegas Aces (-7.5)",
+    "outcome": "Las Vegas Aces",
+    "side": "BUY",
+    "whale_usd": 444.57285700000006,
+    "whale_pct": 0.317,
+    "paper_stake_usd": 0.43,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786463041.6011806,
+    "fills": 1
   }
 ]
