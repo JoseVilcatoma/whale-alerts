@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 17:59:42 (hora de Perú)
+Actualizado: 2026-08-11 18:01:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **81**  ($2,046,788 en total)
+- Apuestas registradas: **83**  ($2,087,639 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 67
+- Pendientes: 69
 - Apostadores distintos: 41
 
 ### Balance
@@ -26,13 +26,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | BreakTheBank | 0 | 0 | 4 | — | $267,835 | — |
 | pleaseplease123 | 0 | 0 | 6 | — | $199,582 | — |
+| HVAB | 0 | 0 | 6 | — | $198,819 | — |
 | Weaseloftheweek | 0 | 1 | 1 | ⚠️ 0% (1) | $193,162 | -$14,667 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 4 | — | $178,415 | — |
-| HVAB | 0 | 0 | 5 | — | $168,366 | — |
 | SDTrading | 0 | 0 | 6 | — | $121,629 | — |
 | AV23IUa | 0 | 0 | 2 | — | $104,685 | — |
 | theowalcott | 0 | 0 | 6 | — | $89,215 | — |
-| ferrariChampions2026 | 1 | 0 | 4 | ⚠️ 100% (1) | $69,593 | +$8,160 |
+| ferrariChampions2026 | 1 | 0 | 5 | ⚠️ 100% (1) | $79,990 | +$8,160 |
 | texaskid | 0 | 0 | 1 | — | $55,000 | — |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
 | Talvez10 | 0 | 0 | 3 | — | $39,880 | — |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 41 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.11 (90¢) | $30,453 | — | ⏳ Pendiente |
+| ferrariChampions2026 | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.11 (90¢) | $10,397 | — | ⏳ Pendiente |
 | ferrariChampions2026 | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.11 (90¢) | $10,397 | — | ⏳ Pendiente |
 | HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.11 (90¢) | $30,735 | — | ⏳ Pendiente |
 | HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.15 (87¢) | $20,453 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 41 en total)_
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers: O/U 7.5 | Under 7.5 | 2.27 (44¢) | $11,356 | — | ⏳ Pendiente |
 | SDTrading | Cleveland Guardians vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.79 (56¢) | $21,876 | — | ⏳ Pendiente |
 | Talvez10 | Chicago Cubs vs. Washington Nationals: O/U 8.5 | Over 8.5 | 1.82 (55¢) | $13,625 | — | ⏳ Pendiente |
-| dv-pm | Chicago Cubs vs. Washington Nationals: O/U 8.5 | Under 8.5 | 2.22 (45¢) | $11,147 | — | ⏳ Pendiente |
-| Talvez10 | Cleveland Guardians vs. Detroit Tigers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $12,622 | — | ⏳ Pendiente |

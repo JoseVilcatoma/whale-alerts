@@ -1051,5 +1051,31 @@
     "usd": 30734.64,
     "odds_at_bet": 90,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 34036,
+    "timestamp": 1786489191,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-mensik-shelton-2026-08-11",
+    "title": "National Bank Open: Jakub Mensik vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 10397.43,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 34037,
+    "timestamp": 1786489192,
+    "username": "HVAB",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-mensik-shelton-2026-08-11",
+    "title": "National Bank Open: Jakub Mensik vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "SELL",
+    "usd": 30452.94,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]
