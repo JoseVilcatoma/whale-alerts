@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 15:28:21 (hora de Perú)
+Actualizado: 2026-08-11 15:30:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $356.98
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 3 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 614 | 463 | 1 | -104.41 USD |
-| BrotherObama | 7 | 5 | 3 | -112.72 USD |
+| BrotherObama | 7 | 5 | 4 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -409,6 +409,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 26% | 1.46 | ⏳ pendiente | — |
 | RN1 | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 94% | 0.62 | ⏳ pendiente | — |
 | RN1 | Will Olympique Lyonnais vs. AC Sparta Pr | No (BUY) | 99% | 2.48 | ⏳ pendiente | — |
 | UpTheBlues | Will Fenerbahçe SK win on 2026-08-11? | Yes (BUY) | 96% | 0.57 | ⏳ pendiente | — |
@@ -438,4 +439,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 45% | 17.20 | ⏳ pendiente | — |
 | UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 67% | 1.42 | ✅ ganada | +0.70 |
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 30% | 0.61 | ⏳ pendiente | — |
-| UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 98% | 0.82 | ✅ ganada | +0.02 |

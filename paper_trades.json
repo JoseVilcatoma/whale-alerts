@@ -71661,5 +71661,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786480096.7434845,
     "fills": 1
+  },
+  {
+    "timestamp": 1786480151,
+    "timestamp_added": 1786480151.8290598,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-ts3-7rex-2026-08-11",
+    "title": "LoL: Team Solid vs 7REX (BO3) - Circuito Desafiante Play-In",
+    "outcome": "Team Solid",
+    "side": "BUY",
+    "whale_usd": 129.673783,
+    "whale_pct": 0.41,
+    "paper_stake_usd": 1.46,
+    "odds_at_bet": 26,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786480166.799289,
+    "fills": 2
   }
 ]
