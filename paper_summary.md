@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 11:10:28 (hora de Perú)
+Actualizado: 2026-08-11 11:12:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $364.42
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 47 | -4.23 USD |
+| swisstony | 35 | 25 | 56 | -4.23 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -350,6 +350,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-col-ari-2026-08-10-total-8pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-kc-lad-2026-08-10-spread-home-2pt5 | HomeRunHazard, swisstony |
 | mlb-tex-laa-2026-08-10-spread-home-1pt5 | HomeRunHazard, swisstony |
+| uel-sab-lar-2026-08-11-spread-away-1pt5 | UpTheBlues, swisstony |
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
 | ucl-bog-usg-2026-08-11-bog | quavoo, swisstony |
 | clf-pal-juv-2026-08-11-juv | ferrariChampions2026, quavoo, swisstony |
@@ -364,11 +365,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-nyl-ind-2026-08-11-total-192pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-2pt5 | RN1, swisstony |
 | ucl-kai-pls-2026-08-11-pls | RN1, swisstony |
+| ucl-sf-agf-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | SK Iberia 1999 vs. Larne FC: O/U 2.5 | Under (BUY) | 69% | 1.09 | ⏳ pendiente | — |
+| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 66% | 0.49 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 45% | 0.45 | ⏳ pendiente | — |
+| swisstony | Spread: Sabah FK (-1.5) | Aarhus GF (BUY) | 73% | 1.21 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: O/U 3.5 | Under (BUY) | 71% | 1.04 | ⏳ pendiente | — |
+| swisstony | Spread: Larne FC (-1.5) | SK Iberia 1999 (BUY) | 95% | 1.74 | ⏳ pendiente | — |
+| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 66% | 0.51 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 48% | 0.49 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 48% | 0.50 | ⏳ pendiente | — |
 | swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 59% | 0.60 | ⏳ pendiente | — |
 | swisstony | Al Jazira (UAE) vs. Al-Ittihad Club: O/U | Under (BUY) | 49% | 0.74 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 47% | 0.54 | ⏳ pendiente | — |
@@ -390,12 +401,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 55% | 0.98 | ⏳ pendiente | — |
 | swisstony | Spread: SK Iberia 1999 (-1.5) | Larne FC (BUY) | 75% | 1.36 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 42% | 0.73 | ⏳ pendiente | — |
-| swisstony | SK Iberia 1999 vs. Larne FC: O/U 2.5 | Under (BUY) | 61% | 0.80 | ⏳ pendiente | — |
-| swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 50% | 1.75 | ⏳ pendiente | — |
-| swisstony | FK Bodø/Glimt vs. RU Saint-Gilloise: O/U | Under (BUY) | 38% | 0.74 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | Yes (BUY) | 60% | 1.05 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 49% | 0.79 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 49% | 0.82 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 64% | 0.70 | ⏳ pendiente | — |
-| swisstony | Will PFK Levski Sofia win on 2026-08-11? | No (BUY) | 34% | 0.58 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 49% | 0.68 | ⏳ pendiente | — |
