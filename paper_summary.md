@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:09:53 (hora de Perú)
+Actualizado: 2026-08-11 17:11:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $348.21
-**Retorno acumulado:** -65.18%
+**Bankroll actual:** $348.46
+**Retorno acumulado:** -65.15%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -45,14 +45,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 120 | 97 | 19 | -29.23 USD |
-| RN1 | 173 | 99 | 18 | -33.33 USD |
+| swisstony | 122 | 97 | 17 | -28.98 USD |
+| RN1 | 173 | 99 | 19 | -33.33 USD |
 | quavoo | 151 | 181 | 16 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 3 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 614 | 464 | 2 | -105.11 USD |
+| ferrariChampions2026 | 614 | 464 | 3 | -105.11 USD |
 | BrotherObama | 7 | 5 | 10 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -423,6 +423,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: RMD Gaming vs RED Academy - Game 1  | RMD Gaming (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | RN1 | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 68% | 0.00 | ⏳ pendiente | — |
@@ -451,5 +453,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 65% | 0.00 | ⏳ pendiente | — |
 | swisstony | CA Boca Juniors vs. Recoleta FC: Recolet | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| BrotherObama | LoL: RMD Gaming vs RED Academy (BO3) - C | RED Academy (BUY) | 26% | 3.87 | ⏳ pendiente | — |
-| UpTheBlues | Will CS Independiente Rivadavia win on 2 | No (BUY) | 85% | 1.43 | ⏳ pendiente | — |

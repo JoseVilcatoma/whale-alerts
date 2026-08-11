@@ -1,5 +1,5 @@
 {
-  "bankroll": 348.2133419987309,
+  "bankroll": 348.46199334738225,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -16350,6 +16350,16 @@
       "timestamp": 1786485983.202749,
       "bankroll": 348.21,
       "event": "lost: swisstony \u2014 FK CSKA 1948 Sofia vs. Panathinaik\u00f3s AO: O/U 1.5"
+    },
+    {
+      "timestamp": 1786486237.2398374,
+      "bankroll": 348.25,
+      "event": "won: swisstony \u2014 FK CSKA 1948 Sofia vs. Panathinaik\u00f3s AO: O/U 0.5"
+    },
+    {
+      "timestamp": 1786486237.5837286,
+      "bankroll": 348.46,
+      "event": "won: swisstony \u2014 FK CSKA 1948 Sofia vs. Panathinaik\u00f3s AO: O/U 3.5"
     }
   ]
 }
