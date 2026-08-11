@@ -167,5 +167,18 @@
     "usd": 49950.0,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33269,
+    "timestamp": 1786438158,
+    "username": "0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847",
+    "wallet": "0xcf609d3256f0f37f0595e5dc64012fa3a8fea6f5",
+    "slug": "lol-hle1-dnf-2026-08-11",
+    "title": "LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 11062.74,
+    "odds_at_bet": 78,
+    "status": "pending"
   }
 ]
