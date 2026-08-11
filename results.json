@@ -908,5 +908,18 @@
     "usd": 24111.761400000003,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 34002,
+    "timestamp": 1786488566,
+    "username": "Mylifeisover",
+    "wallet": "0x7542fa229f63a7bd8a9ca4584638004a39317a20",
+    "slug": "mlb-pit-mia-2026-08-11",
+    "title": "Pittsburgh Pirates vs. Miami Marlins",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "usd": 11371.368600000002,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
