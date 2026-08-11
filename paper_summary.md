@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 01:53:23 (hora de Perú)
+Actualizado: 2026-08-11 01:55:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
-| quavoo | 136 | 166 | 15 | -30.64 USD |
+| quavoo | 136 | 166 | 16 | -30.64 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -353,6 +353,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Melbourne City FC win on 2026-08-11 | Yes (BUY) | 56% | 0.37 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Cincinnati win on 2026-08-11? | No (BUY) | 35% | 0.36 | ⏳ pendiente | — |
 | UpTheBlues | Will Qairat FK win on 2026-08-11? | No (BUY) | 63% | 0.93 | ⏳ pendiente | — |
 | UpTheBlues | Will SK Brann win on 2026-08-11? | No (BUY) | 69% | 2.06 | ⏳ pendiente | — |
@@ -382,4 +383,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 75% | 0.34 | ⏳ pendiente | — |
 | UpTheBlues | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 56% | 0.48 | ⏳ pendiente | — |
 | quavoo | Will FK Bodø/Glimt win on 2026-08-11? | Yes (BUY) | 60% | 0.45 | ⏳ pendiente | — |
-| quavoo | Games Total: O/U 3.5 | Under (BUY) | 40% | 0.43 | ⏳ pendiente | — |
