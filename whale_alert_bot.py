@@ -467,35 +467,47 @@ def send_telegram(text, responder_a=None):
 
 
 def dias_hasta_resolver(slug):
-    """Cuántos días faltan para que resuelva el mercado. Tres capas:
-      1) la fecha que devuelve la API
-      2) si falla, la fecha que viene en el propio slug (los mercados
-         deportivos siempre la traen: lol-hle1-dnf-2026-08-11)
-      3) si tampoco hay, devuelve None y el que llama DEBE descartar:
-         los eventos de corto plazo siempre tienen fecha, así que
-         "sin fecha" es casi siempre un mercado de largo plazo
-         (elecciones, campeonatos anuales)."""
+    """Cuántos días faltan para que resuelva el mercado.
+
+    IMPORTANTE — orden de prioridad:
+      1) La fecha del SLUG (mlb-chc-wsh-2026-08-11). Es la del partido y no
+         tiene ambigüedad. Va primero porque la API a veces devuelve la fecha
+         del evento contenedor (la serie completa), lo que hacía que partidos
+         de HOY se descartaran como "resuelve en ~7 días".
+      2) Si el slug no trae fecha, la fecha de la API.
+      3) Si no hay ninguna, None -> el que llama descarta (los eventos de
+         corto plazo siempre tienen fecha; sin fecha suele ser largo plazo).
+    """
+    import re as _re
+    dias_slug = None
+    m2 = _re.search(r"(20\d{2})-(\d{2})-(\d{2})", slug or "")
+    if m2:
+        try:
+            fecha = datetime(int(m2.group(1)), int(m2.group(2)), int(m2.group(3)),
+                             23, 59, tzinfo=timezone.utc)
+            dias_slug = (fecha - datetime.now(timezone.utc)).total_seconds() / 86400
+        except Exception:
+            dias_slug = None
+
+    dias_api = None
     m = get_market(slug)
     if m:
         fin = m.get("endDate") or m.get("endDateIso") or m.get("end_date")
         if fin:
             try:
                 fin_dt = datetime.fromisoformat(str(fin).replace("Z", "+00:00"))
-                return (fin_dt - datetime.now(timezone.utc)).total_seconds() / 86400
+                dias_api = (fin_dt - datetime.now(timezone.utc)).total_seconds() / 86400
             except Exception:
-                pass
+                dias_api = None
 
-    # Respaldo: buscar una fecha AAAA-MM-DD dentro del slug
-    import re as _re
-    m2 = _re.search(r"(20\d{2})-(\d{2})-(\d{2})", slug or "")
-    if m2:
-        try:
-            fecha = datetime(int(m2.group(1)), int(m2.group(2)), int(m2.group(3)),
-                             23, 59, tzinfo=timezone.utc)
-            return (fecha - datetime.now(timezone.utc)).total_seconds() / 86400
-        except Exception:
-            pass
-    return None
+    # Si las dos existen y difieren mucho, dejamos rastro para poder auditarlo
+    if dias_slug is not None and dias_api is not None and abs(dias_slug - dias_api) > 1:
+        print(f"[fecha] '{slug}': slug dice {dias_slug:.1f} días, API dice "
+              f"{dias_api:.1f} — uso la del slug")
+
+    if dias_slug is not None:
+        return dias_slug
+    return dias_api
 
 
 def a_cuota(precio_centavos):
