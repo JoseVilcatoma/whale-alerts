@@ -219,5 +219,18 @@
     "usd": 14666.52,
     "odds_at_bet": 66,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33425,
+    "timestamp": 1786457334,
+    "username": "wwarden",
+    "wallet": "0x6e131d6c61216b4a5ec571db332ad3226e7fa801",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 25468.6993,
+    "odds_at_bet": 82,
+    "status": "pending"
   }
 ]

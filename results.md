@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 09:07:32 (hora de Perú)
+Actualizado: 2026-08-11 09:09:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **17**  ($284,770 en total)
+- Apuestas registradas: **18**  ($310,239 en total)
 - Resueltas: **0** — 0 ganadas / 0 perdidas (**0%** de acierto)
-- Pendientes: 17
-- Apostadores distintos: 15
+- Pendientes: 18
+- Apostadores distintos: 16
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -21,6 +21,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 0 | 0 | 2 | — | $30,272 | — |
 | Istaroth | 0 | 0 | 1 | — | $27,704 | — |
 | pleaseplease123 | 0 | 0 | 1 | — | $27,284 | — |
+| wwarden | 0 | 0 | 1 | — | $25,469 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 2 | — | $21,062 | — |
 | Lakersfan111 | 0 | 0 | 1 | — | $17,024 | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | — | $15,263 | — |
@@ -37,6 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wwarden |  |  | 1.22 (82¢) | $25,469 | — | ⏳ Pendiente |
 | Weaseloftheweek | Dota 2: MOUZ vs Rune Eaters - Game 2 Winner | MOUZ | 1.52 (66¢) | $14,667 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. New York Yankees: O/U 7.5 | Under 7.5 | 2.17 (46¢) | $15,263 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $27,284 | — | ⏳ Pendiente |
