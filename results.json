@@ -349,5 +349,18 @@
     "usd": 23191.7455,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33813,
+    "timestamp": 1786480987,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ucl-lyo-spp-2026-08-11-total-3pt5",
+    "title": "Olympique Lyonnais vs. AC Sparta Praha: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 19978.749999,
+    "odds_at_bet": 71,
+    "status": "pending"
   }
 ]

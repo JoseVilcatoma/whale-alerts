@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 15:41:09 (hora de Perú)
+Actualizado: 2026-08-11 15:43:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **27**  ($429,803 en total)
+- Apuestas registradas: **28**  ($449,781 en total)
 - Resueltas: **13** — 9 ganadas / 4 perdidas (**69%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 19
 
 ### Balance
@@ -25,11 +25,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
+| ferrariChampions2026 | 0 | 0 | 3 | — | $49,144 | — |
 | SDTrading | 0 | 0 | 2 | — | $45,068 | — |
 | Talvez10 | 0 | 0 | 3 | — | $39,880 | — |
 | TAIWANNUMBERONE | 0 | 2 | 0 | ⚠️ 0% (2) | $30,272 | -$30,272 |
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $29,744 | +$9,167 |
-| ferrariChampions2026 | 0 | 0 | 2 | — | $29,166 | — |
 | pleaseplease123 | 0 | 0 | 1 | — | $27,284 | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 2 | — | $27,215 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
@@ -48,6 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Olympique Lyonnais vs. AC Sparta Praha: O/U 3.5 | Under 3.5 | 1.41 (71¢) | $19,979 | — | ⏳ Pendiente |
 | SDTrading | Seattle Mariners vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.82 (55¢) | $23,192 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers: O/U 7.5 | Under 7.5 | 2.27 (44¢) | $11,356 | — | ⏳ Pendiente |
 | SDTrading | Cleveland Guardians vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.79 (56¢) | $21,876 | — | ⏳ Pendiente |
