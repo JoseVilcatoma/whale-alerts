@@ -63853,5 +63853,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786440536.3030503,
     "fills": 1
+  },
+  {
+    "timestamp": 1786440793,
+    "timestamp_added": 1786440793.5341725,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-drxc-foxy-2026-08-11",
+    "title": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+    "outcome": "Kiwoom DRX Challengers",
+    "side": "BUY",
+    "whale_usd": 47.5481,
+    "whale_pct": 0.118,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786440793.53418,
+    "fills": 1
   }
 ]
