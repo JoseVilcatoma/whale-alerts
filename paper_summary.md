@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 09:01:50 (hora de Perú)
+Actualizado: 2026-08-11 09:03:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $335.07
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| dv-pm | 0 | 0 | 3 | +0.00 USD |
+| dv-pm | 0 | 0 | 4 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 8 | +0.00 USD |
 | Weaseloftheweek | 0 | 0 | 2 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
@@ -360,6 +360,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| dv-pm | Will FK Kauno Žalgiris vs. GNK Dinamo Za | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Panathinaikós AO win on 2026-08-11? | No (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: RU Saint-Gilloise (-2.5) | FK Bodø/Glimt (BUY) | 98% | 0.00 | ⏳ pendiente | — |
@@ -389,4 +390,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 0.87 | ⏳ pendiente | — |
 | lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 5.64 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Juventus Turin win on 2026-08-11? | Yes (BUY) | 81% | 0.83 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Bushido Wildcats vs Eter | Bushido Wildcats (BUY) | 89% | 0.38 | ⏳ pendiente | — |
