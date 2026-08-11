@@ -14,7 +14,7 @@
   "0xdc41c39b95453c943174f369926018f6963bdd7e": {
     "username": "quavoo",
     "added_at": 1786420491.9306798,
-    "roi_pct": 48.89,
+    "roi_pct": 48.95,
     "short_term_pct": 90.0
   },
   "0x82398835fe16616214d928ba87127e28fc1cd9a3": {
@@ -26,7 +26,7 @@
   "0x56acab44cfca2e88bb9b3406890aea7bfa0cd77e": {
     "username": "dv-pm",
     "added_at": 1786427191.6541538,
-    "roi_pct": 451.5,
+    "roi_pct": 450.31,
     "short_term_pct": 70.0
   },
   "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
@@ -38,7 +38,13 @@
   "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
     "username": "Lakersfan111",
     "added_at": 1786434804.3859313,
-    "roi_pct": 53.02,
+    "roi_pct": 54.83,
+    "short_term_pct": 90.0
+  },
+  "0x16602a38e8fb4498ffee0ea81e08d2b421825598": {
+    "username": "BBQChickenisthebesttt",
+    "added_at": 1786435740.8698,
+    "roi_pct": 527.08,
     "short_term_pct": 100.0
   }
 }
