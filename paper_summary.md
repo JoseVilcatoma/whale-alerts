@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 11:31:24 (hora de Perú)
+Actualizado: 2026-08-11 11:33:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $364.42
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 613 | 463 | 0 | -104.52 USD |
+| ferrariChampions2026 | 613 | 463 | 1 | -104.52 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -372,6 +372,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will SK Iberia 1999 vs. Larne FC end in  | No (BUY) | 62% | 0.70 | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 55% | 0.95 | ⏳ pendiente | — |
 | quavoo | Columbus Crew vs. Pumas de la UNAM: O/U  | Over (BUY) | 84% | 0.42 | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 55% | 1.69 | ⏳ pendiente | — |
@@ -401,4 +402,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 67% | 1.36 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 45% | 0.40 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 49% | 0.61 | ⏳ pendiente | — |
-| swisstony | SK Iberia 1999 vs. Larne FC: O/U 2.5 | Under (BUY) | 69% | 1.09 | ⏳ pendiente | — |
