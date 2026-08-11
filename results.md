@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 18:01:49 (hora de Perú)
+Actualizado: 2026-08-11 18:03:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **83**  ($2,087,639 en total)
+- Apuestas registradas: **87**  ($2,167,494 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 69
-- Apostadores distintos: 41
+- Pendientes: 73
+- Apostadores distintos: 42
 
 ### Balance
 
@@ -31,25 +31,27 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 4 | — | $178,415 | — |
 | SDTrading | 0 | 0 | 6 | — | $121,629 | — |
 | AV23IUa | 0 | 0 | 2 | — | $104,685 | — |
+| ferrariChampions2026 | 1 | 0 | 6 | ⚠️ 100% (1) | $102,030 | +$8,160 |
 | theowalcott | 0 | 0 | 6 | — | $89,215 | — |
-| ferrariChampions2026 | 1 | 0 | 5 | ⚠️ 100% (1) | $79,990 | +$8,160 |
 | texaskid | 0 | 0 | 1 | — | $55,000 | — |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
 | Talvez10 | 0 | 0 | 3 | — | $39,880 | — |
 | Mylifeisover | 0 | 0 | 2 | — | $35,483 | — |
+| mikesports | 0 | 0 | 2 | — | $33,024 | — |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 2 | — | $32,770 | — |
 | TAIWANNUMBERONE | 0 | 2 | 0 | ⚠️ 0% (2) | $30,272 | -$30,272 |
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $29,744 | +$9,167 |
+| xifutloong3 | 0 | 0 | 1 | — | $27,441 | — |
 | BaccaratRoulette | 0 | 0 | 1 | — | $27,060 | — |
 | SevenTons | 0 | 0 | 2 | — | $25,996 | — |
 | dv-pm | 0 | 0 | 2 | — | $24,463 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 2 | — | $21,688 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 2 | 0 | 0 | ⚠️ 100% (2) | $21,062 | +$8,396 |
 | winwin518168 | 0 | 0 | 1 | — | $20,000 | — |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | 0 | 0 | 1 | — | $20,000 | — |
 | kibanachi | 0 | 0 | 1 | — | $16,446 | — |
 | monkeymashingkeyboard | 0 | 0 | 1 | — | $14,986 | — |
-| mikesports | 0 | 0 | 1 | — | $14,250 | — |
 | beachboy4 | 0 | 0 | 1 | — | $14,094 | — |
 | paquitomillonario | 0 | 0 | 1 | — | $12,390 | — |
 | spnir | 0 | 0 | 1 | — | $12,000 | — |
@@ -62,15 +64,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mpyh | 1 | 0 | 0 | ⚠️ 100% (1) | $10,968 | +$3,656 |
 | ThornyDevil | 1 | 0 | 0 | ⚠️ 100% (1) | $10,680 | +$7,120 |
 | 999999666544332578855667788 | 1 | 0 | 0 | ⚠️ 100% (1) | $10,640 | +$3,360 |
-| backback | 1 | 0 | 0 | ⚠️ 100% (1) | $10,473 | +$911 |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 1 | — | $10,088 | — |
 
-_(mostrando los 40 de mayor monto, de 41 en total)_
+_(mostrando los 40 de mayor monto, de 42 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $22,040 | — | ⏳ Pendiente |
+| mikesports | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $18,774 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.72 (58¢) | $11,600 | — | ⏳ Pendiente |
+| xifutloong3 | Pittsburgh Pirates vs. Miami Marlins | Miami Marlins | 1.82 (55¢) | $27,441 | — | ⏳ Pendiente |
 | HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.11 (90¢) | $30,453 | — | ⏳ Pendiente |
 | ferrariChampions2026 | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.11 (90¢) | $10,397 | — | ⏳ Pendiente |
 | ferrariChampions2026 | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.11 (90¢) | $10,397 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 41 en total)_
 | theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over 2.5 | 1.67 (60¢) | $14,172 | — | ⏳ Pendiente |
 | theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors | 1.69 (59¢) | $11,999 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Olympique Lyonnais vs. AC Sparta Praha: O/U 3.5 | Under 3.5 | 1.41 (71¢) | $19,979 | +$8,160 | ✅ Ganada |
-| SDTrading | Seattle Mariners vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.82 (55¢) | $23,192 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers: O/U 7.5 | Under 7.5 | 2.27 (44¢) | $11,356 | — | ⏳ Pendiente |
-| SDTrading | Cleveland Guardians vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.79 (56¢) | $21,876 | — | ⏳ Pendiente |
-| Talvez10 | Chicago Cubs vs. Washington Nationals: O/U 8.5 | Over 8.5 | 1.82 (55¢) | $13,625 | — | ⏳ Pendiente |
