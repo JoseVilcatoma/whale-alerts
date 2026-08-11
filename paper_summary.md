@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:37:56 (hora de Perú)
+Actualizado: 2026-08-10 23:39:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $324.89
-**Retorno acumulado:** -67.51%
+**Bankroll actual:** $315.50
+**Retorno acumulado:** -68.45%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,23 +13,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BrotherObama | 6 | 0 | 1 | +69.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
+| BrotherObama | 6 | 1 | 0 | +63.29 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | wr0ngw4yb3tt0r | 51 | 45 | 4 | +36.65 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
-| HomeRunHazard | 73 | 67 | 34 | +24.15 USD |
+| HomeRunHazard | 74 | 67 | 33 | +24.15 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
-| SDTrading | 2 | 5 | 1 | +17.41 USD |
+| SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | lzh1 | 5 | 0 | 0 | +3.08 USD |
 | monkeymashingkeyboard | 3 | 6 | 3 | +2.86 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
-| SnakeBall | 5 | 3 | 2 | +0.10 USD |
+| SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
@@ -39,18 +39,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 26 | 18 | 15 | -3.96 USD |
+| swisstony | 29 | 18 | 12 | -3.13 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 99 | 17 | -7.44 USD |
-| Forecastication2 | 4 | 24 | 3 | -11.67 USD |
+| Forecastication2 | 4 | 25 | 2 | -16.36 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 161 | 88 | 4 | -21.48 USD |
+| RN1 | 161 | 89 | 3 | -21.82 USD |
 | quavoo | 128 | 159 | 21 | -41.27 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
+| ferrariChampions2026 | 577 | 451 | 38 | -114.36 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
-| ferrariChampions2026 | 576 | 451 | 39 | -115.29 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
@@ -364,14 +364,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 20% | 0.55 | ⏳ pendiente | — |
 | quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 56% | 0.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 37% | 0.34 | ⏳ pendiente | — |
-| swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 58% | 0.39 | ⏳ pendiente | — |
+| swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 58% | 0.39 | ✅ ganada | +0.28 |
 | ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 17.5 | Under (BUY) | 51% | 0.48 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: Recolet | Over (BUY) | 40% | 0.29 | ⏳ pendiente | — |
 | UpTheBlues | NK Celje vs. Ararat-Armenia FA: NK Celje | Over (BUY) | 34% | 0.30 | ⏳ pendiente | — |
 | UpTheBlues | Will FK Crvena zvezda vs. MH Hapoel Be'e | No (BUY) | 85% | 0.60 | ⏳ pendiente | — |
-| swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 54% | 0.32 | ⏳ pendiente | — |
-| swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 53% | 0.32 | ⏳ pendiente | — |
-| RN1 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 49% | 0.34 | ⏳ pendiente | — |
+| swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 54% | 0.32 | ✅ ganada | +0.27 |
+| swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 53% | 0.32 | ✅ ganada | +0.28 |
+| RN1 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 49% | 0.34 | ❌ perdida | -0.34 |
 | swisstony | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 63% | 1.09 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 92% | 1.79 | ⏳ pendiente | — |
 | swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 72% | 0.52 | ⏳ pendiente | — |

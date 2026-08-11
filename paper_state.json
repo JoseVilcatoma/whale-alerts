@@ -1,5 +1,5 @@
 {
-  "bankroll": 324.89093887136875,
+  "bankroll": 315.49859434397854,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13870,6 +13870,61 @@
       "timestamp": 1786422753.960288,
       "bankroll": 324.89,
       "event": "won: ferrariChampions2026 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786423114.0456963,
+      "bankroll": 320.2,
+      "event": "lost: Forecastication2 \u2014 Houston Astros vs. San Francisco Giants: O/U 8.5"
+    },
+    {
+      "timestamp": 1786423115.9200215,
+      "bankroll": 320.2,
+      "event": "lost: SDTrading \u2014 Houston Astros vs. San Francisco Giants: O/U 8.5"
+    },
+    {
+      "timestamp": 1786423117.247808,
+      "bankroll": 320.2,
+      "event": "won: SnakeBall \u2014 LoL: LOS vs paiN Gaming (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1786423117.715019,
+      "bankroll": 320.27,
+      "event": "won: SnakeBall \u2014 LoL: LOS vs paiN Gaming (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1786423117.91538,
+      "bankroll": 314.07,
+      "event": "lost: BrotherObama \u2014 LoL: LOS vs paiN Gaming (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1786423118.7016296,
+      "bankroll": 314.07,
+      "event": "won: HomeRunHazard \u2014 Houston Astros vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1786423125.5228548,
+      "bankroll": 315.0,
+      "event": "won: ferrariChampions2026 \u2014 Houston Astros vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1786423130.9812534,
+      "bankroll": 314.66,
+      "event": "lost: RN1 \u2014 Houston Astros vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1786423131.0814383,
+      "bankroll": 314.94,
+      "event": "won: swisstony \u2014 Houston Astros vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1786423131.1816187,
+      "bankroll": 315.22,
+      "event": "won: swisstony \u2014 Houston Astros vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1786423131.6824818,
+      "bankroll": 315.5,
+      "event": "won: swisstony \u2014 Houston Astros vs. San Francisco Giants: O/U 7.5"
     }
   ]
 }
