@@ -46611,8 +46611,8 @@
     "whale_pct": 0.928,
     "paper_stake_usd": 3.39,
     "odds_at_bet": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.77,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786333360.0058994,
@@ -47621,8 +47621,8 @@
     "whale_pct": 0.437,
     "paper_stake_usd": 1.85,
     "odds_at_bet": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.51,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786337879.6442566,
@@ -53202,7 +53202,7 @@
     "whale_pct": 0.139,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -56524,7 +56524,7 @@
     "whale_pct": 0.301,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ferrariChampions2026"
@@ -58651,8 +58651,8 @@
     "whale_pct": 0.275,
     "paper_stake_usd": 0.68,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.68,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -58693,8 +58693,8 @@
     "whale_pct": 0.18,
     "paper_stake_usd": 0.45,
     "odds_at_bet": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.45,
     "overlaps_with": [
       "RN1"
     ],
@@ -59522,6 +59522,31 @@
     ],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786416198.38562,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786416287,
+    "timestamp_added": 1786416287.8495271,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-chi-sea-2026-08-10",
+    "title": "Chicago Sky vs. Seattle Storm",
+    "outcome": "Chicago Sky",
+    "side": "BUY",
+    "whale_usd": 533.403,
+    "whale_pct": 0.123,
+    "paper_stake_usd": 0.32,
+    "odds_at_bet": 26,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "monkeymashingkeyboard",
+      "quavoo",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786416287.8495371,
     "fills": 1
   }
 ]
