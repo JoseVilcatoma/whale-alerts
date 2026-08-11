@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 10:58:04 (hora de Perú)
+Actualizado: 2026-08-11 11:00:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $340.35
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 23 | -4.23 USD |
+| swisstony | 35 | 25 | 25 | -4.23 USD |
 | Lakersfan111 | 2 | 4 | 2 | -4.76 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
@@ -367,6 +367,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 49% | 0.79 | ⏳ pendiente | — |
+| swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 49% | 0.82 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 64% | 0.70 | ⏳ pendiente | — |
 | swisstony | Will PFK Levski Sofia win on 2026-08-11? | No (BUY) | 34% | 0.58 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 49% | 0.68 | ⏳ pendiente | — |
@@ -395,5 +397,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Qairat FK vs. PFK Levski Sofia: 1st Half | Under (BUY) | 86% | 0.27 | ⏳ pendiente | — |
 | RN1 | Qairat FK vs. PFK Levski Sofia: O/U 1.5 | Over (BUY) | 86% | 2.97 | ⏳ pendiente | — |
 | RN1 | Qairat FK vs. PFK Levski Sofia: O/U 1.5 | Over (BUY) | 86% | 2.97 | ⏳ pendiente | — |
-| RN1 | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Over (BUY) | 59% | 0.57 | ⏳ pendiente | — |
-| RN1 | Qairat FK vs. PFK Levski Sofia: O/U 1.5 | Over (BUY) | 86% | 3.52 | ⏳ pendiente | — |
