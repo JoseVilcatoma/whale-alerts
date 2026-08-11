@@ -1,9 +1,9 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 10:41:16 (hora de Perú)
+Actualizado: 2026-08-11 10:43:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $257.47
+**Bankroll actual:** $257.52
 **Retorno acumulado:** -74.25%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
@@ -47,12 +47,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 13 | -20.90 USD |
 | BrotherObama | 7 | 3 | 0 | -24.77 USD |
-| quavoo | 142 | 173 | 12 | -30.91 USD |
+| quavoo | 142 | 173 | 13 | -30.91 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | lzh1 | 5 | 7 | 1 | -69.66 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 612 | 463 | 1 | -104.57 USD |
+| ferrariChampions2026 | 613 | 463 | 0 | -104.52 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -367,6 +367,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Spread: FK Bodø/Glimt (-1.5) | RU Saint-Gilloise (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
@@ -396,4 +397,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Over (BUY) | 32% | 0.50 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | Yes (BUY) | 41% | 0.50 | ⏳ pendiente | — |
 | HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 48% | 2.25 | ⏳ pendiente | — |
-| swisstony | Spread: PFK Levski Sofia (-2.5) | Qairat FK (BUY) | 95% | 2.38 | ⏳ pendiente | — |
