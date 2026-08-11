@@ -58,5 +58,17 @@
     "usd": 16389.309998999997,
     "odds_at_bet": 55,
     "status": "lost"
+  },
+  {
+    "timestamp": 1786425974,
+    "username": "0x3814198398E2d02c0e8fBa652345995cF84417bC-1782140092998",
+    "wallet": "0x3814198398e2d02c0e8fba652345995cf84417bc",
+    "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
+    "title": "Will NVIDIA be the largest company in the world by market cap on August 31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 10392.5304,
+    "odds_at_bet": 95,
+    "status": "pending"
   }
 ]
