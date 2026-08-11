@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 12:25:41 (hora de Perú)
+Actualizado: 2026-08-11 12:27:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $356.56
-**Retorno acumulado:** -64.34%
+**Bankroll actual:** $351.41
+**Retorno acumulado:** -64.86%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -36,18 +36,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| swisstony | 53 | 33 | 94 | -0.89 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
+| swisstony | 54 | 37 | 94 | -3.44 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 154 | 103 | 76 | -8.78 USD |
+| UpTheBlues | 154 | 103 | 77 | -8.78 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | BrotherObama | 7 | 3 | 2 | -24.77 USD |
-| quavoo | 143 | 173 | 19 | -30.91 USD |
-| RN1 | 167 | 98 | 1 | -31.76 USD |
+| quavoo | 143 | 173 | 20 | -30.91 USD |
+| RN1 | 167 | 99 | 0 | -34.36 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -381,6 +381,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-sf-agf-2026-08-11-btts | UpTheBlues, swisstony |
 | ucl-sf-agf-2026-08-11-sf | UpTheBlues, swisstony |
 | uel-sab-lar-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
+| ucl-nec-oly-2026-08-11-nec | UpTheBlues, quavoo |
 | col-al-bra-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 | ucl-nec-oly-2026-08-11-oly | UpTheBlues, swisstony |
 | ucl-kau-din-2026-08-11-din | UpTheBlues, swisstony |
@@ -389,6 +390,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Larne FC win on 2026-08-11? | No (BUY) | 92% | 2.74 | ⏳ pendiente | — |
+| quavoo | Will NEC win on 2026-08-11? | Yes (BUY) | 40% | 0.64 | ⏳ pendiente | — |
+| UpTheBlues | Will Polokwane City win on 2026-08-11? | No (BUY) | 63% | 0.93 | ⏳ pendiente | — |
+| swisstony | Will Apóllon Lemesoú vs. SK Brann end in | No (BUY) | 73% | 0.40 | ⏳ pendiente | — |
+| swisstony | Spread: Aarhus GF (-1.5) | Sabah FK (BUY) | 100% | 2.40 | ⏳ pendiente | — |
+| swisstony | Will SK Iberia 1999 win on 2026-08-11? | No (BUY) | 67% | 1.33 | ⏳ pendiente | — |
+| swisstony | Spread: Aarhus GF (-1.5) | Sabah FK (BUY) | 100% | 2.40 | ⏳ pendiente | — |
 | UpTheBlues | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 70% | 0.40 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 76% | 0.90 | ⏳ pendiente | — |
 | UpTheBlues | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 70% | 0.71 | ⏳ pendiente | — |
@@ -412,10 +420,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will FK Kauno Žalgiris win on 2026-08-11 | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| swisstony | Spread: GNK Dinamo Zagreb (-1.5) | FK Kauno Žalgiris (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| swisstony | Apóllon Lemesoú vs. SK Brann: O/U 3.5 | Under (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 74% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Aarhus GF win on 2026-08-11? | No (BUY) | 81% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| swisstony | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 74% | 0.00 | ⏳ pendiente | — |
