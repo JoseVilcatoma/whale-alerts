@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 21:14:32 (hora de Perú)
+Actualizado: 2026-08-10 21:16:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $251.54
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 25 | 17 | 1 | -3.90 USD |
+| swisstony | 25 | 17 | 2 | -3.90 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 131 | 86 | 40 | -7.73 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
@@ -326,11 +326,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-tor-atl-2026-08-10 | HomeRunHazard, ferrariChampions2026 |
 | bra3-psc-con-2026-08-10-psc | RN1, UpTheBlues |
 | wnba-chi-sea-2026-08-10 | HomeRunHazard, monkeymashingkeyboard, quavoo, swisstony |
+| mlb-col-ari-2026-08-10-total-9pt5 | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 65% | 0.42 | ⏳ pendiente | — |
 | RN1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 87% | 2.44 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 55% | 0.45 | ⏳ pendiente | — |
 | UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 92% | 1.24 | ⏳ pendiente | — |
@@ -360,4 +362,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Spread: CA Unión (-1.5) | CA Central Córdoba (BUY) | 88% | 1.62 | ⏳ pendiente | — |
 | quavoo | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 1.90 | ⏳ pendiente | — |
 | UpTheBlues | Chicago Sky vs. Seattle Storm: O/U 179.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Unión win on 2026-08-10? | Yes (BUY) | 40% | 0.00 | ⏳ pendiente | — |
