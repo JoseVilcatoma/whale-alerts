@@ -71313,5 +71313,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786476342.1169596,
     "fills": 2
+  },
+  {
+    "timestamp": 1786476622,
+    "timestamp_added": 1786476622.7811763,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-sba-mja-2026-08-11-btts",
+    "title": "\u0160K Slovan Bratislava vs. Mj\u00e4llby AIF: Both Teams to Score",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 540.54,
+    "whale_pct": 0.135,
+    "paper_stake_usd": 0.45,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786476622.7811882,
+    "fills": 1
   }
 ]
