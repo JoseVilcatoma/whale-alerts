@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 15:30:24 (hora de Perú)
+Actualizado: 2026-08-11 15:32:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $356.98
-**Retorno acumulado:** -64.30%
+**Bankroll actual:** $348.33
+**Retorno acumulado:** -65.17%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
-| dv-pm | 2 | 3 | 4 | +106.62 USD |
+| dv-pm | 3 | 3 | 3 | +106.69 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| UpTheBlues | 193 | 127 | 58 | -1.55 USD |
+| UpTheBlues | 197 | 127 | 54 | -1.12 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -44,8 +44,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 93 | 76 | 50 | -22.86 USD |
-| quavoo | 148 | 179 | 15 | -33.00 USD |
+| swisstony | 101 | 89 | 29 | -32.02 USD |
+| quavoo | 148 | 179 | 17 | -33.00 USD |
 | RN1 | 167 | 99 | 2 | -34.36 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -381,6 +381,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-pit-mia-2026-08-11-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-2pt5 | RN1, swisstony |
 | ucl-kai-pls-2026-08-11-pls | RN1, swisstony |
+| mlb-nym-atl-2026-08-11-total-8pt5 | HomeRunHazard, quavoo |
 | ucl-sf-agf-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 | ucl-kai-pls-2026-08-11-spread-away-1pt5 | ferrariChampions2026, swisstony |
 | ucl-sf-agf-2026-08-11-btts | UpTheBlues, swisstony |
@@ -409,6 +410,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | New York Mets vs. Atlanta Braves: O/U 7. | Over (BUY) | 59% | 0.37 | ⏳ pendiente | — |
+| quavoo | New York Mets vs. Atlanta Braves: O/U 8. | Over (BUY) | 50% | 0.40 | ⏳ pendiente | — |
 | BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 26% | 1.46 | ⏳ pendiente | — |
 | RN1 | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 94% | 0.62 | ⏳ pendiente | — |
 | RN1 | Will Olympique Lyonnais vs. AC Sparta Pr | No (BUY) | 99% | 2.48 | ⏳ pendiente | — |
@@ -437,5 +440,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | dv-pm | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 45% | 17.20 | ⏳ pendiente | — |
-| UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 67% | 1.42 | ✅ ganada | +0.70 |
-| wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 30% | 0.61 | ⏳ pendiente | — |
