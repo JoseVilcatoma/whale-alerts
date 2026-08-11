@@ -64146,12 +64146,13 @@
     "whale_pct": 15.115,
     "paper_stake_usd": 63.94,
     "odds_at_bet": 23,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -55.6,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786444132.7177117,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 3
   },
   {
     "timestamp": 1786444699,
@@ -64188,13 +64189,14 @@
     "whale_pct": 8.77,
     "paper_stake_usd": 37.1,
     "odds_at_bet": 24,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -32.46,
     "overlaps_with": [
       "lzh1"
     ],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786445251.820163,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 3
   }
 ]
