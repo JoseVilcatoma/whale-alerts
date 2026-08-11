@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 20:05:01 (hora de Perú)
+Actualizado: 2026-08-10 20:07:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $188.70
@@ -45,14 +45,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 152 | 83 | 7 | -32.38 USD |
-| quavoo | 126 | 155 | 16 | -40.10 USD |
+| quavoo | 126 | 155 | 17 | -40.10 USD |
 | GoalLineGhost | 36 | 25 | 2 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 35 | -148.65 USD |
+| ferrariChampions2026 | 538 | 431 | 36 | -148.65 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -285,6 +285,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-nym-atl-2026-08-10-total-7pt5 | HomeRunHazard, quavoo |
 | mlb-hou-sf-2026-08-10-total-8pt5 | Forecastication2, SDTrading |
 | mlb-tb-oak-2026-08-10-spread-away-1pt5 | Forecastication2, quavoo |
+| mlb-tex-laa-2026-08-10-total-8pt5 | HomeRunHazard, quavoo |
 | por-cds-nac-2026-08-10-cds | Forecastication2, quavoo, theowalcott |
 | swe-sir-bro-2026-08-10-sir | GoalLineGhost, RN1, quavoo |
 | swe-vas-dju-2026-08-10-dju | Forecastication2, GoalLineGhost, quavoo |
@@ -327,6 +328,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 0.54 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 31% | 1.23 | ⏳ pendiente | — |
 | quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 4.66 | ⏳ pendiente | — |
 | RN1 | Will Paysandu SC PA win on 2026-08-10? | Yes (BUY) | 11% | 0.19 | ⏳ pendiente | — |
 | UpTheBlues | Will Paysandu SC PA win on 2026-08-10? | No (BUY) | 88% | 0.28 | ⏳ pendiente | — |
@@ -355,5 +358,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | CA Talleres vs. CA Lanús: O/U 1.5 | Under (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream | Atlanta Dream (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Houston Astros vs. San Francisco Giants: | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: CA Unión (-1.5) | CA Central Córdoba (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| RN1 | CD Cuenca vs. Manta FC: O/U 2.5 | Over (BUY) | 60% | 0.00 | ⏳ pendiente | — |

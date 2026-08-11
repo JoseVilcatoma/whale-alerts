@@ -57638,5 +57638,47 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786408290.3889334,
     "fills": 1
+  },
+  {
+    "timestamp": 1786410302,
+    "timestamp_added": 1786410302.9970305,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-tor-2026-08-10-spread-home-1pt5",
+    "title": "Spread: Toronto Blue Jays (-1.5)",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "whale_usd": 2015.4495,
+    "whale_pct": 0.65,
+    "paper_stake_usd": 1.23,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786410302.9970357,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786410363,
+    "timestamp_added": 1786410364.3425922,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-tex-laa-2026-08-10-total-8pt5",
+    "title": "Texas Rangers vs. Los Angeles Angels: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 379.04999999999995,
+    "whale_pct": 0.287,
+    "paper_stake_usd": 0.54,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786410364.342599,
+    "fills": 1
   }
 ]
