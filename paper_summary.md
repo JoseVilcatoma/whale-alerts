@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 15:05:23 (hora de Perú)
+Actualizado: 2026-08-11 15:07:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $336.27
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | dv-pm | 1 | 2 | 6 | -0.92 USD |
-| UpTheBlues | 170 | 111 | 92 | -0.95 USD |
+| UpTheBlues | 170 | 111 | 93 | -0.95 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -408,6 +408,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will AC Sparta Praha win on 2026-08-11? | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
 | quavoo | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 47% | 1.76 | ⏳ pendiente | — |
 | UpTheBlues | NK Celje vs. Ararat-Armenia FA: O/U 3.5 | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
@@ -437,4 +438,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Olympique Lyonnais win on 2026-08-1 | No (BUY) | 27% | 0.36 | ⏳ pendiente | — |
 | swisstony | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 40% | 0.38 | ⏳ pendiente | — |
 | UpTheBlues | Will Deportivo Pereira win on 2026-08-10 | No (BUY) | 88% | 1.39 | ⏳ pendiente | — |
-| swisstony | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 40% | 0.35 | ⏳ pendiente | — |
