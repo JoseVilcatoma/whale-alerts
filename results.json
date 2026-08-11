@@ -24,5 +24,18 @@
     "usd": 14985.0,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33194,
+    "timestamp": 1786428903,
+    "username": "scottilicious",
+    "wallet": "0x000d257d2dc7616feaef4ae0f14600fdf50a758e",
+    "slug": "will-ralph-norman-be-the-new-republican-nominee-for-senate-in-south-carolina-20260712140628829",
+    "title": "Will Ralph Norman be the new Republican nominee for Senate in South Carolina?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 11672.458,
+    "odds_at_bet": 78,
+    "status": "pending"
   }
 ]
