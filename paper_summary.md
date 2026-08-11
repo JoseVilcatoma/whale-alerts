@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:34:53 (hora de Perú)
+Actualizado: 2026-08-11 17:37:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -47,8 +47,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 122 | 97 | 21 | -28.98 USD |
-| RN1 | 173 | 99 | 22 | -33.33 USD |
-| quavoo | 151 | 181 | 16 | -33.43 USD |
+| RN1 | 173 | 99 | 23 | -33.33 USD |
+| quavoo | 151 | 181 | 17 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 4 | -82.84 USD |
@@ -425,6 +425,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 93% | 0.00 | ⏳ pendiente | — |
@@ -453,5 +455,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: cobblemon vs Grêmio Espo | Grêmio Esports (BUY) | 84% | 0.66 | ⏳ pendiente | — |
 | RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: RMD Gaming vs RED Academy - Game 1  | RMD Gaming (BUY) | 77% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 82% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 82% | 0.00 | ⏳ pendiente | — |
