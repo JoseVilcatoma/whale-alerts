@@ -62982,5 +62982,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786431910.9592588,
     "fills": 1
+  },
+  {
+    "timestamp": 1786431980,
+    "timestamp_added": 1786431980.4777534,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-kai-pls-2026-08-11-kai",
+    "title": "Will Qairat FK win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 117.76,
+    "whale_pct": 0.163,
+    "paper_stake_usd": 0.52,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786431980.477762,
+    "fills": 1
   }
 ]
