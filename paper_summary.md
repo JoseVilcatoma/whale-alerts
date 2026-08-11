@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 13:47:12 (hora de Perú)
+Actualizado: 2026-08-11 13:49:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $333.72
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 21 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 23 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 160 | 104 | 90 | -8.59 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| swisstony | 69 | 66 | 73 | -20.05 USD |
+| swisstony | 69 | 66 | 78 | -20.05 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | BrotherObama | 7 | 3 | 2 | -24.77 USD |
 | quavoo | 143 | 174 | 24 | -31.25 USD |
@@ -356,7 +356,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | uel-sab-lar-2026-08-11-spread-away-1pt5 | UpTheBlues, swisstony |
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
 | ucl-nec-oly-2026-08-11-total-2pt5 | UpTheBlues, quavoo |
-| ucl-nec-oly-2026-08-11-btts | UpTheBlues, quavoo |
+| ucl-nec-oly-2026-08-11-btts | UpTheBlues, quavoo, swisstony |
 | col1-cjf-dep-2026-08-10-cjf | 0x4f2, UpTheBlues |
 | ucl-bog-usg-2026-08-11-bog | quavoo, swisstony |
 | ucl-crv-hbs-2026-08-11-total-4pt5 | quavoo, swisstony |
@@ -393,11 +393,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-kau-din-2026-08-11-din | UpTheBlues, swisstony |
 | ucl-kau-din-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | ucl-kau-din-2026-08-11-total-4pt5 | UpTheBlues, swisstony |
+| ucl-crv-hbs-2026-08-11-btts | UpTheBlues, swisstony |
+| ucl-stu1-fen-2026-08-11-fen | quavoo, swisstony |
+| ucl-crv-hbs-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | O/U 1.5 Rounds | Under (BUY) | 60% | 3.51 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Dana White's Contender Series: Joe Krops | Jon Kunneman (BUY) | 60% | 6.87 | ⏳ pendiente | — |
+| swisstony | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 46% | 0.37 | ⏳ pendiente | — |
+| swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 72% | 0.56 | ⏳ pendiente | — |
+| swisstony | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 69% | 0.38 | ⏳ pendiente | — |
+| swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | No (BUY) | 70% | 0.52 | ⏳ pendiente | — |
+| swisstony | Will Fenerbahçe SK win on 2026-08-11? | No (BUY) | 50% | 0.39 | ⏳ pendiente | — |
 | swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 86% | 1.44 | ⏳ pendiente | — |
 | UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 71% | 0.39 | ⏳ pendiente | — |
 | UpTheBlues | Will SK Brann win on 2026-08-11? | No (BUY) | 92% | 0.56 | ⏳ pendiente | — |
@@ -421,10 +431,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.48 | ⏳ pendiente | — |
 | UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 24% | 0.36 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.48 | ⏳ pendiente | — |
-| quavoo | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 91% | 1.04 | ⏳ pendiente | — |
-| swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 81% | 0.42 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.42 | ⏳ pendiente | — |
-| UpTheBlues | Spread: NK Celje (-1.5) | Ararat-Armenia FA (BUY) | 59% | 0.42 | ⏳ pendiente | — |
-| swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 63% | 0.41 | ⏳ pendiente | — |
-| UpTheBlues | Will NK Celje win on 2026-08-11? | No (BUY) | 35% | 1.06 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.00 | ⏳ pendiente | — |
