@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 05:26:29 (hora de Perú)
+Actualizado: 2026-08-11 05:28:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **38**  ($1,046,475 en total)
+- Apuestas registradas: **39**  ($1,103,616 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 35
-- Apostadores distintos: 26
+- Pendientes: 36
+- Apostadores distintos: 27
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -23,6 +23,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | littlelonely888 | 0 | 0 | 1 | — | $70,929 | — |
 | landighertz | 0 | 0 | 1 | — | $69,630 | — |
 | avonking | 0 | 0 | 1 | — | $60,140 | — |
+| Weaseloftheweek | 0 | 0 | 1 | — | $57,141 | — |
 | cc9999 | 0 | 0 | 2 | — | $56,839 | — |
 | retroactivesource | 0 | 0 | 1 | — | $54,960 | — |
 | c4a759e5c9350491AF61646f2c4A46 | 1 | 0 | 1 | ⚠️ 100% (1) | $52,134 | +$0 |
@@ -48,6 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | — (100¢) | $57,141 | — | ⏳ Pendiente |
 | cc9999 | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | — (100¢) | $24,975 | — | ⏳ Pendiente |
 | owomvvssuv | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | 1.01 (99¢) | $10,127 | — | ⏳ Pendiente |
 | -Malfunction | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | 1.01 (99¢) | $19,800 | — | ⏳ Pendiente |
