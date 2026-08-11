@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 22:14:49 (hora de Perú)
+Actualizado: 2026-08-10 22:16:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $256.94
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 3 | +26.87 USD |
-| HomeRunHazard | 58 | 53 | 43 | +26.58 USD |
+| HomeRunHazard | 58 | 53 | 44 | +26.58 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 560 | 444 | 37 | -150.20 USD |
+| ferrariChampions2026 | 560 | 444 | 38 | -150.20 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -342,6 +342,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Houston Astros vs. San Francisco Giants: | Over (BUY) | 50% | 0.30 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: San Francisco Giants (-1.5) | Houston Astros (BUY) | 72% | 0.55 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 82% | 2.12 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Kansas City Royals (-1.5) | Los Angeles Dodgers (BUY) | 69% | 0.35 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 37% | 0.55 | ⏳ pendiente | — |
@@ -370,5 +372,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 34% | 0.67 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 26% | 0.32 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 34% | 1.23 | ⏳ pendiente | — |
-| HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 66% | 2.26 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Seattle Storm: O/U 177.5 | Over (BUY) | 45% | 0.30 | ⏳ pendiente | — |
