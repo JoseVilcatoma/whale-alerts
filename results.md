@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 06:31:35 (hora de Perú)
+Actualizado: 2026-08-11 06:33:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **47**  ($1,246,652 en total)
+- Apuestas registradas: **49**  ($1,281,980 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 44
+- Pendientes: 46
 - Apostadores distintos: 32
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
@@ -17,7 +17,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| -Malfunction | 0 | 0 | 7 | — | $170,829 | — |
+| -Malfunction | 0 | 0 | 8 | — | $191,265 | — |
 | zvon3 | 0 | 0 | 1 | — | $109,790 | — |
 | bajacaligold | 0 | 0 | 1 | — | $78,022 | — |
 | littlelonely888 | 0 | 0 | 1 | — | $70,929 | — |
@@ -34,6 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | backback | 0 | 0 | 2 | — | $29,083 | — |
 | Emethod | 0 | 0 | 2 | — | $28,001 | — |
 | degenofweb3 | 0 | 0 | 2 | — | $26,340 | — |
+| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 0 | 0 | 2 | — | $25,955 | — |
 | ProudIsraeli | 2 | 0 | 0 | ⚠️ 100% (2) | $25,065 | +$0 |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 2 | — | $21,062 | — |
 | 0xA7614974FAca5Be9A1b809c978d0A8FC532a866B-1777736641378 | 0 | 0 | 1 | — | $19,480 | — |
@@ -44,7 +45,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | hd777 | 0 | 0 | 1 | — | $13,111 | — |
 | Orlandxx | 0 | 0 | 1 | — | $13,007 | — |
 | scottilicious | 0 | 0 | 1 | — | $11,672 | — |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 0 | 0 | 1 | — | $11,063 | — |
 | 0x076d…8d4c | 0 | 0 | 1 | — | $11,037 | — |
 | mpyh | 0 | 0 | 1 | — | $10,968 | — |
 | 999999666544332578855667788 | 0 | 0 | 1 | — | $10,640 | — |
@@ -54,6 +54,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: Hanwha Life Esports vs DN SOOPers - Game 2 Winner | DN SOOPers | — (100¢) | $14,892 | — | ⏳ Pendiente |
+| -Malfunction | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | — (100¢) | $20,436 | — | ⏳ Pendiente |
 | 0x3b63B79D5D00A254ff0105792e04984F64654AcD-1768687235269 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | — (100¢) | $17,985 | — | ⏳ Pendiente |
 | hd777 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | — (100¢) | $13,111 | — | ⏳ Pendiente |
 | 0xA7614974FAca5Be9A1b809c978d0A8FC532a866B-1777736641378 | Bitcoin Up or Down - August 11, 6:45AM-6:50AM ET | Down | — (100¢) | $19,480 | — | ⏳ Pendiente |
