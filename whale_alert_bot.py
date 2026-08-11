@@ -467,20 +467,35 @@ def send_telegram(text, responder_a=None):
 
 
 def dias_hasta_resolver(slug):
-    """Cuántos días faltan para que el mercado resuelva. Devuelve None si no
-    se puede determinar (y en ese caso dejamos pasar la apuesta, para no
-    perdernos algo válido por un dato faltante)."""
+    """Cuántos días faltan para que resuelva el mercado. Tres capas:
+      1) la fecha que devuelve la API
+      2) si falla, la fecha que viene en el propio slug (los mercados
+         deportivos siempre la traen: lol-hle1-dnf-2026-08-11)
+      3) si tampoco hay, devuelve None y el que llama DEBE descartar:
+         los eventos de corto plazo siempre tienen fecha, así que
+         "sin fecha" es casi siempre un mercado de largo plazo
+         (elecciones, campeonatos anuales)."""
     m = get_market(slug)
-    if not m:
-        return None
-    fin = m.get("endDate") or m.get("endDateIso") or m.get("end_date")
-    if not fin:
-        return None
-    try:
-        fin_dt = datetime.fromisoformat(str(fin).replace("Z", "+00:00"))
-        return (fin_dt - datetime.now(timezone.utc)).total_seconds() / 86400
-    except Exception:
-        return None
+    if m:
+        fin = m.get("endDate") or m.get("endDateIso") or m.get("end_date")
+        if fin:
+            try:
+                fin_dt = datetime.fromisoformat(str(fin).replace("Z", "+00:00"))
+                return (fin_dt - datetime.now(timezone.utc)).total_seconds() / 86400
+            except Exception:
+                pass
+
+    # Respaldo: buscar una fecha AAAA-MM-DD dentro del slug
+    import re as _re
+    m2 = _re.search(r"(20\d{2})-(\d{2})-(\d{2})", slug or "")
+    if m2:
+        try:
+            fecha = datetime(int(m2.group(1)), int(m2.group(2)), int(m2.group(3)),
+                             23, 59, tzinfo=timezone.utc)
+            return (fecha - datetime.now(timezone.utc)).total_seconds() / 86400
+        except Exception:
+            pass
+    return None
 
 
 def a_cuota(precio_centavos):
@@ -580,7 +595,11 @@ def on_ws_message(ws, message):
     # Solo nos interesan apuestas de corta duración: si el mercado resuelve
     # más allá del límite, la ignoramos (nada de "campeón a fin de año").
     dias = dias_hasta_resolver(trade.get("slug"))
-    if dias is not None and dias > MAX_DIAS_RESOLUCION:
+    if dias is None:
+        print(f"[omitida] {username}: ${usd:,.0f} — no pude determinar cuándo resuelve "
+              f"'{trade.get('slug')}' (casi siempre es un mercado de largo plazo)")
+        return
+    if dias > MAX_DIAS_RESOLUCION:
         print(f"[omitida] {username}: ${usd:,.0f} pero resuelve en ~{dias:.0f} días "
               f"— {trade.get('title')}")
         return
