@@ -1,5 +1,5 @@
 {
-  "bankroll": 255.7169419336133,
+  "bankroll": 258.4763116002509,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13280,6 +13280,76 @@
       "timestamp": 1786417201.2691448,
       "bankroll": 255.72,
       "event": "won: SnakeBall \u2014 Will Goi\u00e1s EC vs. Londrina EC end in a draw?"
+    },
+    {
+      "timestamp": 1786417509.93654,
+      "bankroll": 256.76,
+      "event": "won: Wealthfreedom001 \u2014 Game Handicap: RED (-1.5) vs Leviatan Esports (+1.5)"
+    },
+    {
+      "timestamp": 1786417511.0170152,
+      "bankroll": 256.32,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1786417511.463399,
+      "bankroll": 256.05,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1786417511.563617,
+      "bankroll": 255.81,
+      "event": "lost: Anjun \u2014 LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1786417511.7639818,
+      "bankroll": 256.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1786417511.8641596,
+      "bankroll": 256.48,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1786417511.964298,
+      "bankroll": 256.76,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1786417512.06444,
+      "bankroll": 257.05,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1786417512.1645658,
+      "bankroll": 257.33,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1786417512.2647324,
+      "bankroll": 257.61,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1786417512.3649116,
+      "bankroll": 257.9,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1786417512.811659,
+      "bankroll": 258.12,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1786417512.9117932,
+      "bankroll": 258.34,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1786417513.775553,
+      "bankroll": 258.48,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season"
     }
   ]
 }

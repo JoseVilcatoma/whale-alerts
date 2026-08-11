@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 22:04:31 (hora de Perú)
+Actualizado: 2026-08-10 22:06:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $255.72
-**Retorno acumulado:** -74.43%
+**Bankroll actual:** $258.48
+**Retorno acumulado:** -74.15%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -18,8 +18,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| wr0ngw4yb3tt0r | 49 | 44 | 2 | +26.87 USD |
-| HomeRunHazard | 57 | 53 | 43 | +26.53 USD |
+| wr0ngw4yb3tt0r | 49 | 44 | 3 | +26.87 USD |
+| HomeRunHazard | 57 | 53 | 44 | +26.53 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -27,16 +27,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Bulls94 | 1 | 0 | 3 | +7.96 USD |
 | lzh1 | 5 | 0 | 0 | +3.08 USD |
 | monkeymashingkeyboard | 3 | 0 | 9 | +2.86 USD |
+| Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| Anjun | 0 | 0 | 1 | +0.00 USD |
 | SnakeBall | 1 | 2 | 7 | +0.00 USD |
 | VeryLucky888 | 1 | 1 | 1 | -0.22 USD |
+| Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 25 | 17 | 4 | -3.90 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 550 | 441 | 49 | -150.56 USD |
+| ferrariChampions2026 | 560 | 443 | 37 | -148.61 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -334,6 +334,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-chi-sea-2026-08-10-total-177pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-kc-lad-2026-08-10-total-6pt5 | HomeRunHazard, ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
 | mlb-tb-oak-2026-08-10-total-11pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
+| mlb-mil-sd-2026-08-10-spread-away-1pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-phi-stl-2026-08-10-spread-away-2pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-col-ari-2026-08-10-total-11pt5 | HomeRunHazard, ferrariChampions2026 |
 
@@ -341,6 +342,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Kansas City Royals (-1.5) | Los Angeles Dodgers (BUY) | 69% | 0.35 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 37% | 0.55 | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 47% | 1.83 | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 53% | 1.74 | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. San Francisco Giants: | Over (BUY) | 30% | 0.40 | ⏳ pendiente | — |
@@ -369,5 +372,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 66% | 2.26 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm: O/U 177.5 | Over (BUY) | 45% | 0.30 | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 59% | 0.40 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 48% | 1.59 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 52% | 3.44 | ⏳ pendiente | — |
