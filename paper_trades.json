@@ -57888,5 +57888,69 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786410978.9892786,
     "fills": 1
+  },
+  {
+    "timestamp": 1786411123,
+    "timestamp_added": 1786411123.6150293,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "wnba-chi-sea-2026-08-10",
+    "title": "Chicago Sky vs. Seattle Storm",
+    "outcome": "Chicago Sky",
+    "side": "BUY",
+    "whale_usd": 9373.1,
+    "whale_pct": 4.92,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786411123.615036,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786411130,
+    "timestamp_added": 1786411130.7079167,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ecu1-cue-man-2026-08-10-cue",
+    "title": "Will CD Cuenca win on 2026-08-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 416.73,
+    "whale_pct": 0.392,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786411141.2407634,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786411143,
+    "timestamp_added": 1786411144.0744255,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "wnba-chi-sea-2026-08-10",
+    "title": "Chicago Sky vs. Seattle Storm",
+    "outcome": "Chicago Sky",
+    "side": "BUY",
+    "whale_usd": 4590.85,
+    "whale_pct": 2.41,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786411144.0744317,
+    "fills": 1
   }
 ]

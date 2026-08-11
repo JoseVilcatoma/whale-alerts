@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 20:17:32 (hora de Perú)
+Actualizado: 2026-08-10 20:19:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $188.70
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 3 | +7.96 USD |
 | lzh1 | 5 | 0 | 0 | +3.08 USD |
-| monkeymashingkeyboard | 3 | 0 | 7 | +2.86 USD |
+| monkeymashingkeyboard | 3 | 0 | 9 | +2.86 USD |
 | johnbaster | 1 | 0 | 2 | +2.19 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 22 | 17 | 3 | -4.25 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 128 | 85 | 29 | -7.52 USD |
+| UpTheBlues | 128 | 85 | 30 | -7.52 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 152 | 83 | 7 | -32.38 USD |
@@ -329,6 +329,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 55% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will CD Cuenca win on 2026-08-10? | No (BUY) | 58% | 0.00 | ⏳ pendiente | — |
+| monkeymashingkeyboard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | quavoo | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CD Cuenca win on 2026-08-10? | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | quavoo | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |
@@ -356,6 +359,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 92% | 0.20 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-13.5) | Atlanta Dream (BUY) | 55% | 0.38 | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 65% | 0.52 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Unión vs. CA Central Córdoba end | Yes (BUY) | 27% | 0.27 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Unión vs. CA Central Córdoba end | Yes (BUY) | 27% | 0.26 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Central Córdoba win on 2026-08-1 | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
