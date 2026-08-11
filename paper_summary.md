@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 11:58:34 (hora de Perú)
+Actualizado: 2026-08-11 12:00:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $364.42
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 35 | 25 | 81 | -4.23 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 101 | 65 | -8.33 USD |
+| UpTheBlues | 151 | 101 | 66 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 13 | -20.90 USD |
@@ -375,6 +375,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Apóllon Lemesoú vs. SK Brann: O/U 3.5 | Under (BUY) | 66% | 0.38 | ⏳ pendiente | — |
 | swisstony | Will SK Iberia 1999 win on 2026-08-11? | Yes (BUY) | 43% | 0.49 | ⏳ pendiente | — |
 | UpTheBlues | Will NEC win on 2026-08-11? | Yes (BUY) | 37% | 0.67 | ⏳ pendiente | — |
 | UpTheBlues | Qairat FK vs. PFK Levski Sofia: O/U 1.5 | Under (BUY) | 96% | 0.40 | ⏳ pendiente | — |
@@ -404,4 +405,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: SK Iberia 1999 (-1.5) | Larne FC (BUY) | 81% | 1.82 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | Yes (BUY) | 46% | 0.48 | ⏳ pendiente | — |
 | swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 65% | 1.39 | ⏳ pendiente | — |
-| swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 65% | 1.38 | ⏳ pendiente | — |
