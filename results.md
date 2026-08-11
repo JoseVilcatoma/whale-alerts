@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 17:30:40 (hora de Perú)
+Actualizado: 2026-08-11 17:32:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **54**  ($1,213,154 en total)
+- Apuestas registradas: **59**  ($1,283,920 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 40
-- Apostadores distintos: 30
+- Pendientes: 45
+- Apostadores distintos: 33
 
 ### Balance
 
@@ -34,15 +34,18 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
 | ferrariChampions2026 | 1 | 0 | 2 | ⚠️ 100% (1) | $49,144 | +$8,160 |
 | Talvez10 | 0 | 0 | 3 | — | $39,880 | — |
+| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 2 | — | $32,770 | — |
 | TAIWANNUMBERONE | 0 | 2 | 0 | ⚠️ 0% (2) | $30,272 | -$30,272 |
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $29,744 | +$9,167 |
 | BaccaratRoulette | 0 | 0 | 1 | — | $27,060 | — |
+| SevenTons | 0 | 0 | 2 | — | $25,996 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 2 | 0 | 0 | ⚠️ 100% (2) | $21,062 | +$8,396 |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | 0 | 0 | 1 | — | $20,000 | — |
 | monkeymashingkeyboard | 0 | 0 | 1 | — | $14,986 | — |
 | Weaseloftheweek | 0 | 1 | 0 | ⚠️ 0% (1) | $14,667 | -$14,667 |
 | beachboy4 | 0 | 0 | 1 | — | $14,094 | — |
+| spnir | 0 | 0 | 1 | — | $12,000 | — |
 | kkookkoo | 0 | 0 | 1 | — | $11,562 | — |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | — | $11,356 | — |
 | ExplosiveNinja | 0 | 0 | 1 | — | $11,277 | — |
@@ -59,6 +62,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SevenTons | National Bank Open: Belinda Bencic vs Coco Gauff | Belinda Bencic | 2.44 (41¢) | $13,358 | — | ⏳ Pendiente |
+| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | National Bank Open: Belinda Bencic vs Coco Gauff | Belinda Bencic | 2.50 (40¢) | $16,800 | — | ⏳ Pendiente |
+| SevenTons | National Bank Open: Belinda Bencic vs Coco Gauff | Belinda Bencic | 2.56 (39¢) | $12,639 | — | ⏳ Pendiente |
+| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | National Bank Open: Belinda Bencic vs Coco Gauff | Belinda Bencic | 2.63 (38¢) | $15,970 | — | ⏳ Pendiente |
+| spnir | National Bank Open: Belinda Bencic vs Coco Gauff | Coco Gauff | 1.67 (60¢) | $12,000 | — | ⏳ Pendiente |
 | beachboy4 | National Bank Open: Jakub Mensik vs Ben Shelton | Jakub Mensik | 2.44 (41¢) | $14,094 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.82 (55¢) | $14,986 | — | ⏳ Pendiente |
 | pleaseplease123 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.22 (45¢) | $85,000 | — | ⏳ Pendiente |
