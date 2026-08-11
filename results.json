@@ -22,5 +22,29 @@
     "usd": 10816.6608,
     "odds_at_bet": 46,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786413329,
+    "username": "dmoralez",
+    "wallet": "0x492bb408693470df7d031ef48f3a5466055b45ee",
+    "slug": "wta-alexand-svitoli-2026-08-11",
+    "title": "National Bank Open: Ekaterina Alexandrova vs Elina Svitolina",
+    "outcome": "Elina Svitolina",
+    "side": "SELL",
+    "usd": 10757.46732,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "timestamp": 1786413329,
+    "username": "hd777",
+    "wallet": "0x986b121c40e715167dde178b8520bf132a57bdc6",
+    "slug": "wta-alexand-svitoli-2026-08-11",
+    "title": "National Bank Open: Ekaterina Alexandrova vs Elina Svitolina",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "usd": 10901.71737,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
