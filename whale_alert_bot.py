@@ -30,6 +30,7 @@ import socket
 import sys
 import threading
 import time
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
@@ -53,6 +54,7 @@ TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
 WHALE_THRESHOLD = float(os.environ.get("WHALE_THRESHOLD", "1000"))
 PUBLICAR_RESULTADOS = os.environ.get("PUBLICAR_RESULTADOS", "1") not in ("0", "false", "no")
+MAX_DIAS_RESOLUCION = float(os.environ.get("MAX_DIAS_RESOLUCION", "2"))  # solo apuestas que resuelven en 1-2 días
 TOP_N = int(os.environ.get("TOP_N", "20"))
 LB_CATEGORY = os.environ.get("LB_CATEGORY", "OVERALL")
 LB_PERIODS = ["WEEK", "MONTH"]
@@ -122,10 +124,11 @@ def market_result(market, outcome):
         return None
 
 
-def log_result_pending(username, wallet, trade, usd, odds):
+def log_result_pending(username, wallet, trade, usd, odds, msg_id=None):
     global results_dirty
     with lock:
         results.append({
+            "telegram_msg_id": msg_id,
             "timestamp": trade.get("timestamp"),
             "username": username,
             "wallet": wallet,
@@ -171,18 +174,27 @@ def publicar_desenlace(r, outcome):
     total = ganadas + perdidas
 
     icono = "✅ GANÓ" if outcome == "won" else "❌ PERDIÓ"
+    pnl = ganancia_de(r)
     msg = f"{icono} — desenlace\n\n"
     msg += f"👤 {r['username']}\n"
     msg += f"📊 {r['title']}\n"
-    msg += f"🎯 Había apostado a: {r['outcome']} (a {r['odds_at_bet']}¢)\n"
-    msg += f"💵 Monto: ${r['usd']:,.0f}\n\n"
+    msg += f"🎯 Había apostado a: {r['outcome']} "
+    msg += f"({r['odds_at_bet']}¢ = {a_cuota(r['odds_at_bet'])})\n"
+    msg += f"💵 Apostó: ${r['usd']:,.0f}\n"
+    if pnl is not None:
+        if pnl >= 0:
+            msg += f"💰 Ganó: +${pnl:,.0f}  (cobra ${r['usd'] + pnl:,.0f})\n"
+        else:
+            msg += f"🔻 Perdió: -${abs(pnl):,.0f}\n"
+    msg += "\n"
     if total >= 3:
         pct = round(ganadas / total * 100)
         msg += f"📈 Récord de {r['username']} desde que lo seguimos: "
         msg += f"{ganadas}-{perdidas} ({pct}% de acierto)"
         if total < 10:
             msg += f"\n⚠️ Muestra chica todavía ({total} resueltas)"
-    send_telegram(msg)
+    # Responder al mensaje de la apuesta original, para que queden enlazados
+    send_telegram(msg, responder_a=r.get("telegram_msg_id"))
 
 
 def build_summary_md():
@@ -190,8 +202,11 @@ def build_summary_md():
     for r in results:
         w = r["wallet"]
         per_wallet.setdefault(w, {"username": r["username"], "won": 0, "lost": 0,
-                                   "pending": 0, "usd": 0.0})
+                                   "pending": 0, "usd": 0.0, "pnl": 0.0})
         per_wallet[w]["usd"] += r.get("usd", 0) or 0
+        pnl_r = ganancia_de(r)
+        if pnl_r is not None:
+            per_wallet[w]["pnl"] = per_wallet[w].get("pnl", 0.0) + pnl_r
         if r["status"] == "won":
             per_wallet[w]["won"] += 1
         elif r["status"] == "lost":
@@ -226,8 +241,8 @@ def build_summary_md():
         "",
         "## Por apostador (ordenado por monto apostado)",
         "",
-        "| Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado |",
-        "|---|---|---|---|---|---|",
+        "| Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |",
+        "|---|---|---|---|---|---|---|",
     ]
 
     orden = sorted(per_wallet.values(), key=lambda d: -d["usd"])[:40]
@@ -239,21 +254,23 @@ def build_summary_md():
             pct_str = f"⚠️ {round(d['won']/tr*100)}% ({tr})"
         else:
             pct_str = f"{round(d['won']/tr*100)}%"
+        bal = d.get("pnl", 0.0)
+        bal_str = f"+${bal:,.0f}" if bal >= 0 else f"-${abs(bal):,.0f}"
+        if d["won"] + d["lost"] == 0:
+            bal_str = "—"
         lines.append(f"| {d['username']} | {d['won']} | {d['lost']} | {d['pending']} | "
-                     f"{pct_str} | ${d['usd']:,.0f} |")
+                     f"{pct_str} | ${d['usd']:,.0f} | {bal_str} |")
     if len(per_wallet) > 40:
         lines.append(f"\n_(mostrando los 40 de mayor monto, de {len(per_wallet)} en total)_")
 
     # --- detalle de cada apuesta, lo que pediste ---
     lines += ["", "## Detalle de las últimas 60 apuestas", "",
-              "| Apostador | Mercado | Apostó a | Precio | Monto | Resultado |",
-              "|---|---|---|---|---|---|"]
+              "| Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |",
+              "|---|---|---|---|---|---|---|"]
     icono = {"won": "✅ Ganada", "lost": "❌ Perdida", "pending": "⏳ Pendiente"}
     for r in sorted(results, key=lambda x: x.get("timestamp") or 0, reverse=True)[:60]:
         titulo = (r.get("title") or "").replace("|", "-")
         outcome = (r.get("outcome") or "").replace("|", "-")
-        # En mercados de Over/Under el resultado solo dice "Over"/"Under" y la
-        # línea (8.5, 2.5...) vive en el título. La pegamos para que se entienda.
         if outcome.lower() in ("over", "under", "yes", "no"):
             linea = ""
             for sep in ("O/U", "o/u", "Over/Under"):
@@ -266,9 +283,17 @@ def build_summary_md():
                 linea = m.group(1) if m else ""
             if linea:
                 outcome = f"{outcome} {linea}"
+        pnl = ganancia_de(r)
+        if pnl is None:
+            pnl_str = "—"
+        elif pnl >= 0:
+            pnl_str = f"+${pnl:,.0f}"
+        else:
+            pnl_str = f"-${abs(pnl):,.0f}"
+        cuota = a_cuota(r.get("odds_at_bet"))
         lines.append(
             f"| {r['username']} | {titulo} | {outcome} | "
-            f"{r.get('odds_at_bet','?')}¢ | ${r.get('usd',0):,.0f} | "
+            f"{cuota} ({r.get('odds_at_bet','?')}¢) | ${r.get('usd',0):,.0f} | {pnl_str} | "
             f"{icono.get(r['status'], r['status'])} |"
         )
 
@@ -331,6 +356,8 @@ def stake_line(usd, wallet):
 
 
 def build_ticket(username, trade, usd, odds, wallet):
+    p = (odds or 0) / 100.0
+    pago = usd * (1 - p) / p if 0 < p < 1 else 0
     return (
         f"🐋 {username} — nueva apuesta fuerte\n\n"
         f"🎟️ TICKET DE APUESTA\n"
@@ -338,29 +365,81 @@ def build_ticket(username, trade, usd, odds, wallet):
         f"Acción: {'COMPRA' if trade.get('side') == 'BUY' else 'VENTA'} — \"{trade.get('outcome','')}\"\n"
         f"Mercado: {trade.get('title','')}\n"
         f"Monto: ${usd:,.0f}\n"
-        f"Cuota: {odds}%\n"
+        f"Cuota: {a_cuota(odds)} ({odds}¢ = {odds}% implícito)\n"
+        f"Si gana cobra: ${usd + pago:,.0f} (+${pago:,.0f})\n"
         f"{stake_line(usd, wallet)}"
         f"Operar: {market_url(trade)}"
     )
 
 
-def send_telegram(text):
+def send_telegram(text, responder_a=None):
+    """Envía un mensaje y devuelve su message_id (o None si falló).
+    Si se pasa responder_a, el mensaje sale como respuesta a ese otro,
+    que es lo que permite enlazar el desenlace con la apuesta original."""
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
-        return
+        return None
     try:
+        cuerpo = {
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": text,
+            "disable_web_page_preview": True,
+        }
+        if responder_a:
+            cuerpo["reply_to_message_id"] = responder_a
+            # si el mensaje original ya no existe, que igual se envíe suelto
+            cuerpo["allow_sending_without_reply"] = True
         r = requests.post(
             f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage",
-            json={
-                "chat_id": TELEGRAM_CHAT_ID,
-                "text": text,
-                "disable_web_page_preview": True,
-            },
+            json=cuerpo,
             timeout=10,
         )
         if r.status_code != 200:
             print(f"[telegram] ⚠️ respuesta {r.status_code}: {r.text[:300]}", file=sys.stderr)
+        else:
+            try:
+                return r.json().get("result", {}).get("message_id")
+            except Exception:
+                return None
     except Exception as e:
         print(f"Error mandando a Telegram: {e}", file=sys.stderr)
+    return None
+
+
+def dias_hasta_resolver(slug):
+    """Cuántos días faltan para que el mercado resuelva. Devuelve None si no
+    se puede determinar (y en ese caso dejamos pasar la apuesta, para no
+    perdernos algo válido por un dato faltante)."""
+    m = get_market(slug)
+    if not m:
+        return None
+    fin = m.get("endDate") or m.get("endDateIso") or m.get("end_date")
+    if not fin:
+        return None
+    try:
+        fin_dt = datetime.fromisoformat(str(fin).replace("Z", "+00:00"))
+        return (fin_dt - datetime.now(timezone.utc)).total_seconds() / 86400
+    except Exception:
+        return None
+
+
+def a_cuota(precio_centavos):
+    """Convierte el precio de Polymarket (en centavos, 0-100) a cuota decimal,
+    la de toda la vida. Ej: 40¢ -> 2.50 ; 62¢ -> 1.61 ; 80¢ -> 1.25."""
+    p = (precio_centavos or 0) / 100.0
+    if p <= 0 or p >= 1:
+        return "—"
+    return f"{1/p:.2f}"
+
+
+def ganancia_de(r):
+    """Cuánto ganó o perdió esa apuesta, según cómo resolvió."""
+    p = (r.get("odds_at_bet") or 0) / 100.0
+    usd = r.get("usd", 0) or 0
+    if r["status"] == "won" and p > 0:
+        return usd * (1 - p) / p
+    if r["status"] == "lost":
+        return -usd
+    return None
 
 
 # ---------- websocket en vivo ----------
@@ -422,10 +501,18 @@ def on_ws_message(ws, message):
     username = (trade.get("name") or trade.get("pseudonym")
                 or trade.get("userName") or f"{wallet[:6]}…{wallet[-4:]}")
 
+    # Solo nos interesan apuestas de corta duración: si el mercado resuelve
+    # más allá del límite, la ignoramos (nada de "campeón a fin de año").
+    dias = dias_hasta_resolver(trade.get("slug"))
+    if dias is not None and dias > MAX_DIAS_RESOLUCION:
+        print(f"[omitida] {username}: ${usd:,.0f} pero resuelve en ~{dias:.0f} días "
+              f"— {trade.get('title')}")
+        return
+
     odds = round((trade.get("price") or 0) * 100)
     print(f"🐋 EN VIVO — {username}: ${usd:,.0f} en {trade.get('title')}")
-    send_telegram(build_ticket(username, trade, usd, odds, wallet))
-    log_result_pending(username, wallet, trade, usd, odds)
+    msg_id = send_telegram(build_ticket(username, trade, usd, odds, wallet))
+    log_result_pending(username, wallet, trade, usd, odds, msg_id)
 
 
 def on_ws_error(ws, error):
