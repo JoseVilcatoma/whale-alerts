@@ -64615,5 +64615,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786449077.5049958,
     "fills": 5
+  },
+  {
+    "timestamp": 1786449200,
+    "timestamp_added": 1786449201.061807,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-nsea-dkc-2026-08-11-game2",
+    "title": "LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner",
+    "outcome": "Dplus KIA Challengers",
+    "side": "BUY",
+    "whale_usd": 3565.780479,
+    "whale_pct": 15.591,
+    "paper_stake_usd": 40.47,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "lzh1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786449220.980947,
+    "fills": 6
   }
 ]
