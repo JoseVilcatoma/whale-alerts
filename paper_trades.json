@@ -72584,5 +72584,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786481738.4300914,
     "fills": 1
+  },
+  {
+    "timestamp": 1786481890,
+    "timestamp_added": 1786481890.7426314,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "usc-psg-av-2026-08-12-draw",
+    "title": "Will Paris Saint-Germain vs. Aston Villa end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 563.25,
+    "whale_pct": 0.257,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786481890.7426393,
+    "fills": 1
   }
 ]
