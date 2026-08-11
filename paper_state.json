@@ -1,5 +1,5 @@
 {
-  "bankroll": 248.5367256225744,
+  "bankroll": 251.53812913134635,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12980,6 +12980,16 @@
       "timestamp": 1786414068.2664993,
       "bankroll": 248.54,
       "event": "lost: RN1 \u2014 Will Libertad Loja win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786414371.1136618,
+      "bankroll": 250.05,
+      "event": "won: HomeRunHazard \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786414371.4198914,
+      "bankroll": 251.54,
+      "event": "won: HomeRunHazard \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 9.5"
     }
   ]
 }
