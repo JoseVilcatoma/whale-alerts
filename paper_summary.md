@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:23:31 (hora de Perú)
+Actualizado: 2026-08-10 23:25:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $318.66
-**Retorno acumulado:** -68.13%
+**Bankroll actual:** $318.93
+**Retorno acumulado:** -68.11%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,9 +17,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 51 | 44 | 5 | +37.20 USD |
+| wr0ngw4yb3tt0r | 51 | 45 | 4 | +36.65 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| HomeRunHazard | 72 | 64 | 37 | +27.84 USD |
+| HomeRunHazard | 73 | 64 | 36 | +28.05 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 5 | 1 | +17.41 USD |
@@ -39,20 +39,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 26 | 17 | 16 | -3.66 USD |
+| swisstony | 26 | 18 | 15 | -3.96 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 150 | 99 | 14 | -7.53 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 160 | 88 | 5 | -21.88 USD |
-| quavoo | 128 | 159 | 20 | -41.27 USD |
+| quavoo | 128 | 159 | 21 | -41.27 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 571 | 451 | 43 | -125.48 USD |
+| ferrariChampions2026 | 574 | 451 | 41 | -124.57 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -351,6 +351,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 51% | 1.89 | ⏳ pendiente | — |
+| quavoo | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 49% | 0.42 | ⏳ pendiente | — |
 | swisstony | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 71% | 0.45 | ⏳ pendiente | — |
 | swisstony | Spread: Los Angeles Angels (-2.5) | Texas Rangers (BUY) | 98% | 1.19 | ⏳ pendiente | — |
 | swisstony | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 36% | 0.42 | ⏳ pendiente | — |
@@ -379,5 +381,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Los Angeles Angels (-1.5) | Texas Rangers (BUY) | 78% | 0.41 | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 63% | 0.68 | ⏳ pendiente | — |
 | RN1 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 22% | 0.44 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 84% | 0.28 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 87% | 0.29 | ⏳ pendiente | — |

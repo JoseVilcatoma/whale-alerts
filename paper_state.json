@@ -1,5 +1,5 @@
 {
-  "bankroll": 318.65604978784745,
+  "bankroll": 318.9287770605747,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13800,6 +13800,36 @@
       "timestamp": 1786422202.1646428,
       "bankroll": 318.66,
       "event": "won: HomeRunHazard \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786422249.4221718,
+      "bankroll": 318.36,
+      "event": "lost: swisstony \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 7.5"
+    },
+    {
+      "timestamp": 1786422249.7734325,
+      "bankroll": 318.57,
+      "event": "won: HomeRunHazard \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1786422252.5777385,
+      "bankroll": 318.02,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1786422253.2020633,
+      "bankroll": 318.32,
+      "event": "won: ferrariChampions2026 \u2014 Houston Astros vs. San Francisco Giants: O/U 5.5"
+    },
+    {
+      "timestamp": 1786422253.3022776,
+      "bankroll": 318.61,
+      "event": "won: ferrariChampions2026 \u2014 Houston Astros vs. San Francisco Giants: O/U 5.5"
+    },
+    {
+      "timestamp": 1786422253.4024615,
+      "bankroll": 318.93,
+      "event": "won: ferrariChampions2026 \u2014 Houston Astros vs. San Francisco Giants: O/U 5.5"
     }
   ]
 }
