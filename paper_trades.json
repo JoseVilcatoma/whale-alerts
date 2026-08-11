@@ -63102,5 +63102,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786433581.6202233,
     "fills": 1
+  },
+  {
+    "timestamp": 1786433642,
+    "timestamp_added": 1786433642.8516705,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "auc-lf-mct-2026-08-11-mct",
+    "title": "Will Melbourne City FC win on 2026-08-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 744.6500000000001,
+    "whale_pct": 0.17,
+    "paper_stake_usd": 0.55,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786433642.8516762,
+    "fills": 1
   }
 ]
