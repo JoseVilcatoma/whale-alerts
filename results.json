@@ -81,7 +81,7 @@
     "side": "BUY",
     "usd": 10089.9,
     "odds_at_bet": 100,
-    "status": "pending"
+    "status": "won"
   },
   {
     "timestamp": 1786426181,
@@ -93,6 +93,6 @@
     "side": "BUY",
     "usd": 21978.0,
     "odds_at_bet": 100,
-    "status": "pending"
+    "status": "won"
   }
 ]
