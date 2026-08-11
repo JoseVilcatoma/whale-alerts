@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 21:31:05 (hora de Perú)
+Actualizado: 2026-08-10 21:33:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $249.71
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
-| HomeRunHazard | 50 | 48 | 41 | +21.23 USD |
+| HomeRunHazard | 50 | 48 | 42 | +21.23 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
@@ -334,6 +334,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 58% | 0.26 | ⏳ pendiente | — |
 | UpTheBlues | Will FK Crvena zvezda win on 2026-08-11? | Yes (BUY) | 78% | 0.45 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | St. Louis Cardinals (BUY) | 86% | 0.32 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 52% | 1.59 | ⏳ pendiente | — |
@@ -363,4 +364,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: New York Mets (-2.5) | New York Mets (BUY) | 77% | 2.09 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Mets (-3.5) | New York Mets (BUY) | 12% | 0.62 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 177.5 | Under (BUY) | 48% | 0.74 | ⏳ pendiente | — |
-| HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 54% | 2.14 | ⏳ pendiente | — |

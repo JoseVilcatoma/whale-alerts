@@ -59203,5 +59203,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786415455.437164,
     "fills": 1
+  },
+  {
+    "timestamp": 1786415503,
+    "timestamp_added": 1786415503.5838761,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-mil-sd-2026-08-10-total-8pt5",
+    "title": "Milwaukee Brewers vs. San Diego Padres: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 634.2937999999999,
+    "whale_pct": 0.102,
+    "paper_stake_usd": 0.26,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786415503.5838826,
+    "fills": 1
   }
 ]
