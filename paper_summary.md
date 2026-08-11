@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 14:20:20 (hora de Perú)
+Actualizado: 2026-08-11 14:22:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $336.30
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 24 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 26 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -371,6 +371,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-hle1-dnf-2026-08-11-game3 | BrotherObama, lzh1 |
 | lol-nsea-dkc-2026-08-11-game2 | BBQChickenisthebesttt, lzh1 |
 | col-csk1-pao-2026-08-11-pao | UpTheBlues, swisstony |
+| mlb-chc-wsh-2026-08-11-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-0pt5 | quavoo, swisstony |
 | wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-1pt5 | RN1, UpTheBlues, swisstony |
@@ -405,6 +406,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 54% | 0.18 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 54% | 17.41 | ⏳ pendiente | — |
 | UpTheBlues | Will FK CSKA 1948 Sofia vs. Panathinaikó | Yes (BUY) | 84% | 0.44 | ⏳ pendiente | — |
 | UpTheBlues | Will Panathinaikós AO win on 2026-08-11? | No (BUY) | 88% | 0.59 | ⏳ pendiente | — |
 | UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 86% | 1.23 | ⏳ pendiente | — |
@@ -433,5 +436,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 72% | 0.56 | ⏳ pendiente | — |
 | swisstony | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 69% | 0.38 | ⏳ pendiente | — |
 | swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | No (BUY) | 70% | 0.52 | ⏳ pendiente | — |
-| swisstony | Will Fenerbahçe SK win on 2026-08-11? | No (BUY) | 50% | 0.39 | ⏳ pendiente | — |
-| swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 86% | 1.44 | ⏳ pendiente | — |
