@@ -1,5 +1,5 @@
 {
-  "bankroll": 336.0133148610396,
+  "bankroll": 336.28697975316624,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -15530,6 +15530,16 @@
       "timestamp": 1786475519.3622804,
       "bankroll": 336.01,
       "event": "won: UpTheBlues \u2014 FK Kauno \u017dalgiris vs. GNK Dinamo Zagreb: O/U 2.5"
+    },
+    {
+      "timestamp": 1786475560.3394186,
+      "bankroll": 336.23,
+      "event": "won: swisstony \u2014 FK Kauno \u017dalgiris vs. GNK Dinamo Zagreb: O/U 4.5"
+    },
+    {
+      "timestamp": 1786475566.6911342,
+      "bankroll": 336.29,
+      "event": "won: UpTheBlues \u2014 FK Kauno \u017dalgiris vs. GNK Dinamo Zagreb: O/U 4.5"
     }
   ]
 }

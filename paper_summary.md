@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 14:12:10 (hora de Perú)
+Actualizado: 2026-08-11 14:14:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $336.01
-**Retorno acumulado:** -66.40%
+**Bankroll actual:** $336.29
+**Retorno acumulado:** -66.37%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| UpTheBlues | 167 | 110 | 87 | -0.63 USD |
+| UpTheBlues | 168 | 110 | 86 | -0.57 USD |
 | dv-pm | 1 | 2 | 5 | -0.92 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
@@ -44,8 +44,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
+| swisstony | 77 | 74 | 68 | -24.67 USD |
 | BrotherObama | 7 | 3 | 2 | -24.77 USD |
-| swisstony | 76 | 74 | 69 | -24.89 USD |
 | quavoo | 145 | 177 | 19 | -31.62 USD |
 | RN1 | 167 | 99 | 0 | -34.36 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -434,4 +434,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will SK Brann win on 2026-08-11? | No (BUY) | 92% | 0.56 | ⏳ pendiente | — |
 | swisstony | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Under (BUY) | 70% | 0.43 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Indiana Fever (-2.5) | New York Liberty (BUY) | 48% | 4.76 | ⏳ pendiente | — |
-| UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 86% | 0.36 | ⏳ pendiente | — |
+| UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 86% | 0.36 | ✅ ganada | +0.06 |
