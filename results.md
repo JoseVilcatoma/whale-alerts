@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 14:47:37 (hora de Perú)
+Actualizado: 2026-08-11 14:49:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **22**  ($348,607 en total)
+- Apuestas registradas: **24**  ($373,379 en total)
 - Resueltas: **13** — 9 ganadas / 4 perdidas (**69%** de acierto)
-- Pendientes: 9
-- Apostadores distintos: 16
+- Pendientes: 11
+- Apostadores distintos: 17
 
 ### Balance
 
@@ -25,15 +25,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
+| Talvez10 | 0 | 0 | 3 | — | $39,880 | — |
 | TAIWANNUMBERONE | 0 | 2 | 0 | ⚠️ 0% (2) | $30,272 | -$30,272 |
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $29,744 | +$9,167 |
 | ferrariChampions2026 | 0 | 0 | 2 | — | $29,166 | — |
 | pleaseplease123 | 0 | 0 | 1 | — | $27,284 | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 2 | — | $27,215 | — |
-| Talvez10 | 0 | 0 | 2 | — | $26,255 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 2 | 0 | 0 | ⚠️ 100% (2) | $21,062 | +$8,396 |
 | Weaseloftheweek | 0 | 1 | 0 | ⚠️ 0% (1) | $14,667 | -$14,667 |
+| dv-pm | 0 | 0 | 1 | — | $11,147 | — |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 1 | 0 | 0 | ⚠️ 100% (1) | $11,063 | +$3,120 |
 | 0x076d…8d4c | 1 | 0 | 0 | ⚠️ 100% (1) | $11,037 | +$1,092 |
 | mpyh | 1 | 0 | 0 | ⚠️ 100% (1) | $10,968 | +$3,656 |
@@ -45,6 +46,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Chicago Cubs vs. Washington Nationals: O/U 8.5 | Over 8.5 | 1.82 (55¢) | $13,625 | — | ⏳ Pendiente |
+| dv-pm | Chicago Cubs vs. Washington Nationals: O/U 8.5 | Under 8.5 | 2.22 (45¢) | $11,147 | — | ⏳ Pendiente |
 | Talvez10 | Cleveland Guardians vs. Detroit Tigers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $12,622 | — | ⏳ Pendiente |
 | Talvez10 | Chicago Cubs vs. Washington Nationals: O/U 8.5 | Over 8.5 | 1.82 (55¢) | $13,633 | — | ⏳ Pendiente |
 | Lakersfan111 | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | Luminosity | 1.89 (53¢) | $12,720 | — | ⏳ Pendiente |
