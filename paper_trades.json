@@ -56504,7 +56504,7 @@
     "whale_pct": 0.13,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 84,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -59958,6 +59958,51 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786417035.6072438,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786417121,
+    "timestamp_added": 1786417122.0753152,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-kc-lad-2026-08-10-total-8pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 11048.1,
+    "whale_pct": 2.751,
+    "paper_stake_usd": 7.04,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786417122.6250265,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786417131,
+    "timestamp_added": 1786417131.875208,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tb-oak-2026-08-10-total-9pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1404.15,
+    "whale_pct": 0.35,
+    "paper_stake_usd": 0.89,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786417135.4387143,
     "fills": 2
   }
 ]

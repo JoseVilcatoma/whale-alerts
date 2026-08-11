@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 21:58:08 (hora de Perú)
+Actualizado: 2026-08-10 22:00:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $255.72
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | Anjun | 0 | 0 | 1 | +0.00 USD |
-| SnakeBall | 0 | 2 | 8 | +0.00 USD |
+| SnakeBall | 1 | 2 | 7 | +0.00 USD |
 | VeryLucky888 | 1 | 1 | 1 | -0.22 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 550 | 441 | 45 | -150.56 USD |
+| ferrariChampions2026 | 550 | 441 | 47 | -150.56 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -329,6 +329,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-chi-sea-2026-08-10 | HomeRunHazard, ferrariChampions2026, monkeymashingkeyboard, quavoo, swisstony |
 | wnba-chi-sea-2026-08-10-total-179pt5 | UpTheBlues, ferrariChampions2026 |
 | mlb-col-ari-2026-08-10-total-9pt5 | RN1, swisstony |
+| mlb-kc-lad-2026-08-10-total-8pt5 | HomeRunHazard, ferrariChampions2026 |
 | wnba-chi-sea-2026-08-10-total-177pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-kc-lad-2026-08-10-total-6pt5 | HomeRunHazard, ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
 | mlb-tb-oak-2026-08-10-total-11pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
@@ -338,6 +339,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 37% | 0.89 | ⏳ pendiente | — |
+| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 50% | 7.04 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Kansas City Royals (-1.5) | Kansas City Royals (BUY) | 52% | 0.91 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 70% | 0.35 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 62% | 0.82 | ⏳ pendiente | — |
@@ -366,5 +369,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 72% | 0.96 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 59% | 0.91 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 41% | 0.53 | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 47% | 1.17 | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 11.5 | Under (BUY) | 67% | 1.69 | ⏳ pendiente | — |
