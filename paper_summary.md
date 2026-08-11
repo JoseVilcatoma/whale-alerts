@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 11:16:54 (hora de Perú)
+Actualizado: 2026-08-11 11:18:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $364.42
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 16 | 13 | 4 | +17.16 USD |
-| HomeRunHazard | 93 | 83 | 27 | +15.57 USD |
+| HomeRunHazard | 93 | 83 | 28 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 66 | -4.23 USD |
+| swisstony | 35 | 25 | 69 | -4.23 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -371,6 +371,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | Yes (BUY) | 46% | 0.48 | ⏳ pendiente | — |
+| swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 65% | 1.39 | ⏳ pendiente | — |
+| swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 65% | 1.38 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 50% | 3.29 | ⏳ pendiente | — |
 | swisstony | Will Al Hussein Irbid win on 2026-08-11? | No (BUY) | 99% | 0.49 | ⏳ pendiente | — |
 | swisstony | Will Al Hussein Irbid win on 2026-08-11? | No (BUY) | 99% | 0.49 | ⏳ pendiente | — |
 | swisstony | Spread: Sabah FK (-1.5) | Aarhus GF (BUY) | 71% | 1.24 | ⏳ pendiente | — |
@@ -397,7 +401,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 47% | 0.54 | ⏳ pendiente | — |
 | swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 58% | 1.00 | ⏳ pendiente | — |
 | swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 50% | 0.69 | ⏳ pendiente | — |
-| swisstony | Will Sabah FK vs. Aarhus GF end in a dra | No (BUY) | 73% | 6.51 | ⏳ pendiente | — |
-| HomeRunHazard | New York Liberty vs. Indiana Fever: O/U  | Under (BUY) | 51% | 2.35 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | Yes (BUY) | 50% | 1.49 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 46% | 1.56 | ⏳ pendiente | — |
