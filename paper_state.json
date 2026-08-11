@@ -1,5 +1,5 @@
 {
-  "bankroll": 318.53126556390424,
+  "bankroll": 318.34332905596773,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14430,6 +14430,21 @@
       "timestamp": 1786425696.8808572,
       "bankroll": 318.53,
       "event": "won: swisstony \u2014 Spread: Los Angeles Angels (-1.5)"
+    },
+    {
+      "timestamp": 1786425761.476056,
+      "bankroll": 318.56,
+      "event": "won: swisstony \u2014 Spread: Los Angeles Angels (-2.5)"
+    },
+    {
+      "timestamp": 1786425764.035573,
+      "bankroll": 319.95,
+      "event": "won: HomeRunHazard \u2014 Texas Rangers vs. Los Angeles Angels: O/U 5.5"
+    },
+    {
+      "timestamp": 1786425764.2359276,
+      "bankroll": 318.34,
+      "event": "lost: HomeRunHazard \u2014 Texas Rangers vs. Los Angeles Angels: O/U 5.5"
     }
   ]
 }
