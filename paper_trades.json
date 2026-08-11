@@ -71330,5 +71330,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786478147.5627618,
     "fills": 1
+  },
+  {
+    "timestamp": 1786478240,
+    "timestamp_added": 1786478241.7388318,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-stu1-fen-2026-08-11-stu1",
+    "title": "Will SK Puntigamer Sturm Graz win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1029.4199999999998,
+    "whale_pct": 0.257,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786478241.7388408,
+    "fills": 1
   }
 ]
