@@ -63902,12 +63902,13 @@
     "whale_pct": 19.186,
     "paper_stake_usd": 65.52,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 40.82,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786441581.3043528,
-    "fills": 10
+    "fills": 10,
+    "closed_price": 99
   },
   {
     "timestamp": 1786441625,
@@ -63922,12 +63923,13 @@
     "whale_pct": 13.417,
     "paper_stake_usd": 45.82,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 28.54,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786441644.2264357,
-    "fills": 10
+    "fills": 10,
+    "closed_price": 99
   },
   {
     "timestamp": 1786441671,
@@ -63942,12 +63944,13 @@
     "whale_pct": 4.198,
     "paper_stake_usd": 14.34,
     "odds_at_bet": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 10.57,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786441672.1911044,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 99
   },
   {
     "timestamp": 1786441808,
@@ -63962,12 +63965,13 @@
     "whale_pct": 1.075,
     "paper_stake_usd": 3.67,
     "odds_at_bet": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 1.6,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786441809.4209168,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 99
   },
   {
     "timestamp": 1786442433,
@@ -64107,6 +64111,26 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786443648.05116,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786443732,
+    "timestamp_added": 1786443732.705479,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-lvlup1-navi-2026-08-11-game2",
+    "title": "Dota 2: Level UP vs Natus Vincere - Game 2 Winner",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "whale_usd": 528.4872,
+    "whale_pct": 0.243,
+    "paper_stake_usd": 1.03,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786443732.70549,
     "fills": 1
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 341.50085405451995,
+  "bankroll": 423.02216628020176,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14515,6 +14515,11 @@
       "timestamp": 1786442061.372755,
       "bankroll": 341.5,
       "event": "venta anticipada: BrotherObama \u2014 LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs (+0.00 USD)"
+    },
+    {
+      "timestamp": 1786443730.4723768,
+      "bankroll": 423.02,
+      "event": "venta anticipada: BBQChickenisthebesttt \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group (+81.52 USD)"
     }
   ]
 }
