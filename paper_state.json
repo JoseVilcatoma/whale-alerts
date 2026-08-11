@@ -1,5 +1,5 @@
 {
-  "bankroll": 317.05232353373356,
+  "bankroll": 318.43601206954037,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14080,6 +14080,186 @@
       "timestamp": 1786423626.9190524,
       "bankroll": 317.05,
       "event": "won: swisstony \u2014 Spread: Seattle Storm (-1.5)"
+    },
+    {
+      "timestamp": 1786423747.3850954,
+      "bankroll": 317.05,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Houston Astros (-1.5)"
+    },
+    {
+      "timestamp": 1786423749.8021338,
+      "bankroll": 317.05,
+      "event": "lost: monkeymashingkeyboard \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423750.002427,
+      "bankroll": 317.05,
+      "event": "lost: quavoo \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423750.1026149,
+      "bankroll": 317.05,
+      "event": "lost: monkeymashingkeyboard \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423750.2027516,
+      "bankroll": 317.05,
+      "event": "lost: monkeymashingkeyboard \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423750.5031083,
+      "bankroll": 316.63,
+      "event": "lost: HomeRunHazard \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423750.8035963,
+      "bankroll": 316.26,
+      "event": "lost: swisstony \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423750.9037688,
+      "bankroll": 315.71,
+      "event": "lost: HomeRunHazard \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423751.1041121,
+      "bankroll": 316.05,
+      "event": "won: HomeRunHazard \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423751.661358,
+      "bankroll": 316.56,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423751.7615526,
+      "bankroll": 316.1,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423751.961911,
+      "bankroll": 315.57,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423752.0620556,
+      "bankroll": 316.2,
+      "event": "won: HomeRunHazard \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423752.1621819,
+      "bankroll": 316.57,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423752.4626486,
+      "bankroll": 316.25,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423752.5628319,
+      "bankroll": 315.57,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423752.6630423,
+      "bankroll": 315.77,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423752.8633828,
+      "bankroll": 315.92,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423753.1639314,
+      "bankroll": 316.39,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423753.5112157,
+      "bankroll": 316.6,
+      "event": "won: HomeRunHazard \u2014 Spread: San Francisco Giants (-1.5)"
+    },
+    {
+      "timestamp": 1786423753.61141,
+      "bankroll": 316.74,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423753.711613,
+      "bankroll": 317.11,
+      "event": "won: HomeRunHazard \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423753.8117425,
+      "bankroll": 317.18,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423753.9118738,
+      "bankroll": 317.34,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423754.0120041,
+      "bankroll": 317.53,
+      "event": "won: HomeRunHazard \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423754.1121373,
+      "bankroll": 317.72,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423754.2122731,
+      "bankroll": 317.45,
+      "event": "lost: HomeRunHazard \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423754.3123956,
+      "bankroll": 317.55,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423754.4125454,
+      "bankroll": 317.73,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423754.512657,
+      "bankroll": 317.93,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423754.813026,
+      "bankroll": 317.98,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423755.0132618,
+      "bankroll": 318.02,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423755.1133952,
+      "bankroll": 318.08,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
+    },
+    {
+      "timestamp": 1786423755.4138427,
+      "bankroll": 318.19,
+      "event": "won: HomeRunHazard \u2014 Spread: San Francisco Giants (-1.5)"
+    },
+    {
+      "timestamp": 1786423755.5140412,
+      "bankroll": 318.28,
+      "event": "won: HomeRunHazard \u2014 Spread: San Francisco Giants (-1.5)"
+    },
+    {
+      "timestamp": 1786423755.9146748,
+      "bankroll": 318.44,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm"
     }
   ]
 }
