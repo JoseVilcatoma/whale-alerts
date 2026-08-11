@@ -65623,8 +65623,8 @@
     "whale_pct": 0.388,
     "paper_stake_usd": 1.14,
     "odds_at_bet": 39,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786460928.1614537,
@@ -66099,8 +66099,8 @@
     "whale_pct": 0.101,
     "paper_stake_usd": 0.34,
     "odds_at_bet": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.34,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786463396.3811848,
@@ -66999,8 +66999,8 @@
     "whale_pct": 0.333,
     "paper_stake_usd": 1.21,
     "odds_at_bet": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.21,
     "overlaps_with": [
       "quavoo"
     ],
@@ -67269,8 +67269,8 @@
     "whale_pct": 0.341,
     "paper_stake_usd": 1.24,
     "odds_at_bet": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.24,
     "overlaps_with": [
       "quavoo"
     ],
@@ -67493,8 +67493,8 @@
     "whale_pct": 0.147,
     "paper_stake_usd": 0.54,
     "odds_at_bet": 28,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.54,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786465277.907994,
@@ -69598,8 +69598,8 @@
     "whale_pct": 0.165,
     "paper_stake_usd": 0.58,
     "odds_at_bet": 81,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.14,
     "overlaps_with": [
       "quavoo"
     ],
@@ -69844,5 +69844,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786469758.3601887,
     "fills": 4
+  },
+  {
+    "timestamp": 1786471895,
+    "timestamp_added": 1786471895.7152512,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "col-al-bra-2026-08-11-draw",
+    "title": "Will Ap\u00f3llon Lemeso\u00fa vs. SK Brann end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 764.25,
+    "whale_pct": 0.278,
+    "paper_stake_usd": 0.71,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786471895.7152624,
+    "fills": 1
   }
 ]
