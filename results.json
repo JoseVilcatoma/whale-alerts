@@ -479,5 +479,18 @@
     "usd": 33599.9944,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33875,
+    "timestamp": 1786483970,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-cle-det-2026-08-11-total-8pt5",
+    "title": "Cleveland Guardians vs. Detroit Tigers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 15279.7776,
+    "odds_at_bet": 48,
+    "status": "pending"
   }
 ]

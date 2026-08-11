@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 16:30:56 (hora de Perú)
+Actualizado: 2026-08-11 16:32:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **37**  ($605,186 en total)
+- Apuestas registradas: **38**  ($620,466 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 21
 
 ### Balance
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
+| SDTrading | 0 | 0 | 5 | — | $104,429 | — |
 | theowalcott | 0 | 0 | 6 | — | $89,215 | — |
-| SDTrading | 0 | 0 | 4 | — | $89,150 | — |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
 | ferrariChampions2026 | 1 | 0 | 2 | ⚠️ 100% (1) | $49,144 | +$8,160 |
 | Talvez10 | 0 | 0 | 3 | — | $39,880 | — |
@@ -50,6 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Cleveland Guardians vs. Detroit Tigers: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $15,280 | — | ⏳ Pendiente |
 | BreakTheBank | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.27 (44¢) | $22,107 | — | ⏳ Pendiente |
 | SDTrading | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
 | SDTrading | Spread: Philadelphia Phillies (-1.5) | St. Louis Cardinals | 1.89 (53¢) | $10,482 | — | ⏳ Pendiente |
