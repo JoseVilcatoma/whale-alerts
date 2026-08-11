@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 15:08:17 (hora de Perú)
+Actualizado: 2026-08-11 15:10:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **26**  ($406,611 en total)
+- Apuestas registradas: **27**  ($429,803 en total)
 - Resueltas: **13** — 9 ganadas / 4 perdidas (**69%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 19
 
 ### Balance
@@ -25,6 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
+| SDTrading | 0 | 0 | 2 | — | $45,068 | — |
 | Talvez10 | 0 | 0 | 3 | — | $39,880 | — |
 | TAIWANNUMBERONE | 0 | 2 | 0 | ⚠️ 0% (2) | $30,272 | -$30,272 |
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $29,744 | +$9,167 |
@@ -32,7 +33,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 0 | 0 | 1 | — | $27,284 | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 2 | — | $27,215 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
-| SDTrading | 0 | 0 | 1 | — | $21,876 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 2 | 0 | 0 | ⚠️ 100% (2) | $21,062 | +$8,396 |
 | Weaseloftheweek | 0 | 1 | 0 | ⚠️ 0% (1) | $14,667 | -$14,667 |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | — | $11,356 | — |
@@ -48,6 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Seattle Mariners vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.82 (55¢) | $23,192 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers: O/U 7.5 | Under 7.5 | 2.27 (44¢) | $11,356 | — | ⏳ Pendiente |
 | SDTrading | Cleveland Guardians vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.79 (56¢) | $21,876 | — | ⏳ Pendiente |
 | Talvez10 | Chicago Cubs vs. Washington Nationals: O/U 8.5 | Over 8.5 | 1.82 (55¢) | $13,625 | — | ⏳ Pendiente |
