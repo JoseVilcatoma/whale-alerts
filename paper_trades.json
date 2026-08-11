@@ -67725,5 +67725,49 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786466076.6960442,
     "fills": 1
+  },
+  {
+    "timestamp": 1786466525,
+    "timestamp_added": 1786466525.5919197,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-pit-mia-2026-08-11-total-7pt5",
+    "title": "Pittsburgh Pirates vs. Miami Marlins: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 130.62,
+    "whale_pct": 0.135,
+    "paper_stake_usd": 0.49,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786466525.5919282,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786466617,
+    "timestamp_added": 1786466617.3244114,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-pit-mia-2026-08-11-total-7pt5",
+    "title": "Pittsburgh Pirates vs. Miami Marlins: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 139.01999999999998,
+    "whale_pct": 0.145,
+    "paper_stake_usd": 0.53,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786466617.3244207,
+    "fills": 1
   }
 ]
