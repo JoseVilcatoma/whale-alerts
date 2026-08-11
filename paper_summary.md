@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 15:38:32 (hora de Perú)
+Actualizado: 2026-08-11 15:40:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.45
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| UpTheBlues | 198 | 127 | 53 | -1.09 USD |
+| UpTheBlues | 199 | 127 | 52 | -1.09 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 102 | 89 | 28 | -31.93 USD |
 | quavoo | 148 | 179 | 17 | -33.00 USD |
-| RN1 | 167 | 99 | 3 | -34.36 USD |
+| RN1 | 167 | 99 | 5 | -34.36 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 3 | -82.84 USD |
@@ -402,7 +402,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-stu1-fen-2026-08-11-fen | UpTheBlues, quavoo, swisstony |
 | ucl-crv-hbs-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | ucl-stu1-fen-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
-| ucl-lyo-spp-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
+| ucl-lyo-spp-2026-08-11-total-3pt5 | RN1, UpTheBlues, swisstony |
 | mlb-cle-det-2026-08-11-total-8pt5 | Talvez10, quavoo |
 | mlb-sea-nyy-2026-08-11-total-7pt5 | SDTrading, wr0ngw4yb3tt0r |
 
@@ -410,6 +410,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 63% | 0.72 | ⏳ pendiente | — |
+| RN1 | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 56% | 0.51 | ⏳ pendiente | — |
 | RN1 | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 85% | 0.71 | ⏳ pendiente | — |
 | quavoo | New York Mets vs. Atlanta Braves: O/U 7. | Over (BUY) | 59% | 0.37 | ⏳ pendiente | — |
 | quavoo | New York Mets vs. Atlanta Braves: O/U 8. | Over (BUY) | 50% | 0.40 | ⏳ pendiente | — |
@@ -429,7 +431,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 47% | 1.76 | ⏳ pendiente | — |
 | UpTheBlues | NK Celje vs. Ararat-Armenia FA: O/U 3.5 | Under (BUY) | 96% | 0.00 | ✅ ganada | +0.00 |
 | BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will SK Puntigamer Sturm Graz win on 202 | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will SK Puntigamer Sturm Graz win on 202 | No (BUY) | 95% | 0.00 | ✅ ganada | +0.00 |
 | UpTheBlues | NK Celje vs. Ararat-Armenia FA: O/U 1.5 | Under (BUY) | 89% | 0.00 | ❌ perdida | -0.00 |
 | UpTheBlues | Will Fenerbahçe SK win on 2026-08-11? | No (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
@@ -438,5 +440,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Spread: Fenerbahçe SK (-1.5) | SK Puntigamer Sturm Graz (BUY) | 91% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 73% | 0.00 | ✅ ganada | +0.00 |
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
-| Talvez10 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| Talvez10 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
