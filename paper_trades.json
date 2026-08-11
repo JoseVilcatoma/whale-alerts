@@ -64573,5 +64573,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786448653.7951105,
     "fills": 1
+  },
+  {
+    "timestamp": 1786448947,
+    "timestamp_added": 1786448947.801726,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-awint-madams-2026-08-11-totals-1pt5",
+    "title": "O/U 1.5 Rounds",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 462.8802,
+    "whale_pct": 0.908,
+    "paper_stake_usd": 3.04,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786448947.8017337,
+    "fills": 1
   }
 ]
