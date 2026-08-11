@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 09:18:12 (hora de Perú)
+Actualizado: 2026-08-11 09:20:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $332.25
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 2 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 3 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
 | BrotherObama | 7 | 3 | 0 | -24.77 USD |
-| quavoo | 138 | 173 | 13 | -34.18 USD |
+| quavoo | 138 | 173 | 15 | -34.18 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -361,6 +361,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Spread: Indiana Fever (-3.5) | New York Liberty (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| quavoo | Qairat FK vs. PFK Levski Sofia: O/U 0.5 | Over (BUY) | 89% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will FK Bodø/Glimt win on 2026-08-11? | Yes (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Indiana Fever (-3.5) | New York Liberty (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | dv-pm | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
@@ -387,6 +390,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Qairat FK vs. PFK Levski Sofia end  | Yes (BUY) | 30% | 0.67 | ⏳ pendiente | — |
 | lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 27.81 | ⏳ pendiente | — |
 | lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 2.31 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 36% | 8.79 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 36% | 2.78 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 36% | 0.64 | ⏳ pendiente | — |
