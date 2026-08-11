@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 18:22:48 (hora de Perú)
+Actualizado: 2026-08-11 18:29:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **89**  ($2,196,568 en total)
+- Apuestas registradas: **90**  ($2,207,286 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 75
-- Apostadores distintos: 42
+- Pendientes: 76
+- Apostadores distintos: 43
 
 ### Balance
 
@@ -62,15 +62,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 1 | 0 | 0 | ⚠️ 100% (1) | $11,063 | +$3,120 |
 | 0x076d…8d4c | 1 | 0 | 0 | ⚠️ 100% (1) | $11,037 | +$1,092 |
 | mpyh | 1 | 0 | 0 | ⚠️ 100% (1) | $10,968 | +$3,656 |
+| jarosbill | 0 | 0 | 1 | — | $10,718 | — |
 | ThornyDevil | 1 | 0 | 0 | ⚠️ 100% (1) | $10,680 | +$7,120 |
-| 999999666544332578855667788 | 1 | 0 | 0 | ⚠️ 100% (1) | $10,640 | +$3,360 |
 
-_(mostrando los 40 de mayor monto, de 42 en total)_
+_(mostrando los 40 de mayor monto, de 43 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jarosbill | Cincinnati Open, Qualification: Quentin Halys vs Soon-Woo Kwon | Soon-Woo Kwon | 1.64 (61¢) | $10,718 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.79 (56¢) | $12,119 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Toronto Blue Jays: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $16,955 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $22,040 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 42 en total)_
 | theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over 2.5 | 1.61 (62¢) | $13,777 | — | ⏳ Pendiente |
 | theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors | 1.67 (60¢) | $10,218 | — | ⏳ Pendiente |
 | theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over 2.5 | 1.67 (60¢) | $26,249 | — | ⏳ Pendiente |
-| theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over 2.5 | 1.67 (60¢) | $14,172 | — | ⏳ Pendiente |
