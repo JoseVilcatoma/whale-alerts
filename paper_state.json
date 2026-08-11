@@ -1,5 +1,5 @@
 {
-  "bankroll": 322.52631063410894,
+  "bankroll": 324.89093887136875,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13855,6 +13855,21 @@
       "timestamp": 1786422497.2173853,
       "bankroll": 322.53,
       "event": "won: SnakeBall \u2014 Caracas FC vs. Deportivo La Guaira: O/U 0.5"
+    },
+    {
+      "timestamp": 1786422751.531331,
+      "bankroll": 322.26,
+      "event": "lost: HomeRunHazard \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786422753.3594766,
+      "bankroll": 322.66,
+      "event": "won: RN1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786422753.960288,
+      "bankroll": 324.89,
+      "event": "won: ferrariChampions2026 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5"
     }
   ]
 }

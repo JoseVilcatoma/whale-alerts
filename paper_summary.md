@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:31:44 (hora de Perú)
+Actualizado: 2026-08-10 23:33:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $322.53
-**Retorno acumulado:** -67.75%
+**Bankroll actual:** $324.89
+**Retorno acumulado:** -67.51%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 51 | 45 | 4 | +36.65 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
-| HomeRunHazard | 73 | 66 | 35 | +24.42 USD |
+| HomeRunHazard | 73 | 67 | 34 | +24.15 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 5 | 1 | +17.41 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -44,14 +44,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 151 | 99 | 17 | -7.44 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 160 | 88 | 5 | -21.88 USD |
+| RN1 | 161 | 88 | 4 | -21.48 USD |
 | quavoo | 128 | 159 | 21 | -41.27 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
+| ferrariChampions2026 | 576 | 451 | 39 | -115.29 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
-| ferrariChampions2026 | 575 | 451 | 40 | -117.53 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
@@ -378,6 +378,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Tampa Bay Rays (-1.5) | Athletics (BUY) | 42% | 0.55 | ⏳ pendiente | — |
 | swisstony | Spread: Arizona Diamondbacks (-7.5) | Colorado Rockies (BUY) | 72% | 0.42 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-7.5) | Arizona Diamondbacks (BUY) | 27% | 2.02 | ⏳ pendiente | — |
-| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 38% | 1.37 | ⏳ pendiente | — |
+| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 38% | 1.37 | ✅ ganada | +2.24 |
 | swisstony | Spread: Seattle Storm (-1.5) | Seattle Storm (BUY) | 64% | 0.28 | ⏳ pendiente | — |
 | swisstony | Spread: Los Angeles Angels (-1.5) | Texas Rangers (BUY) | 81% | 3.92 | ⏳ pendiente | — |
