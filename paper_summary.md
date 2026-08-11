@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 13:15:51 (hora de Perú)
+Actualizado: 2026-08-11 13:17:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $333.72
@@ -41,12 +41,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 160 | 104 | 80 | -8.59 USD |
+| UpTheBlues | 160 | 104 | 81 | -8.59 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | swisstony | 69 | 66 | 71 | -20.05 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | BrotherObama | 7 | 3 | 2 | -24.77 USD |
-| quavoo | 143 | 174 | 20 | -31.25 USD |
+| quavoo | 143 | 174 | 21 | -31.25 USD |
 | RN1 | 167 | 99 | 0 | -34.36 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -390,11 +390,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col-al-bra-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 | ucl-nec-oly-2026-08-11-oly | UpTheBlues, swisstony |
 | ucl-kau-din-2026-08-11-din | UpTheBlues, swisstony |
+| ucl-kau-din-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Yes (BUY) | 61% | 0.51 | ⏳ pendiente | — |
+| UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Over (BUY) | 97% | 0.68 | ⏳ pendiente | — |
 | UpTheBlues | Spread: FK Crvena zvezda (-1.5) | MH Hapoel Be'er Sheva (BUY) | 55% | 0.56 | ⏳ pendiente | — |
 | UpTheBlues | NEC vs. Olympiakós SFP: O/U 3.5 | Under (BUY) | 93% | 1.65 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.48 | ⏳ pendiente | — |
@@ -423,5 +426,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Sabah FK (-1.5) | Sabah FK (BUY) | 81% | 0.58 | ✅ ganada | +0.14 |
 | UpTheBlues | Will CDPJuniorFC win on 2026-08-10? | Yes (BUY) | 68% | 1.05 | ⏳ pendiente | — |
 | swisstony | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Over (BUY) | 91% | 0.40 | ⏳ pendiente | — |
-| swisstony | Al Jazira (UAE) vs. Al-Ittihad Club: O/U | Over (BUY) | 98% | 0.35 | ⏳ pendiente | — |
-| swisstony | Will Sabah FK win on 2026-08-11? | Yes (BUY) | 97% | 2.47 | ✅ ganada | +0.08 |
