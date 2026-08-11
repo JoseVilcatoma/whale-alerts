@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 18:23:09 (hora de Perú)
+Actualizado: 2026-08-11 18:25:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $348.46
-**Retorno acumulado:** -65.15%
+**Bankroll actual:** $349.01
+**Retorno acumulado:** -65.10%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -42,12 +42,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| UpTheBlues | 212 | 137 | 53 | -3.91 USD |
+| UpTheBlues | 213 | 137 | 52 | -3.36 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 122 | 97 | 64 | -28.98 USD |
-| RN1 | 173 | 99 | 39 | -33.33 USD |
+| RN1 | 173 | 99 | 40 | -33.33 USD |
 | quavoo | 151 | 181 | 29 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -437,6 +437,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Club Bolívar win on 2026-08-11? | Yes (BUY) | 52% | 1.48 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Avaí FC vs. CR Brasil end in a draw | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
@@ -466,4 +467,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will CS Independiente Rivadavia win on 2 | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
