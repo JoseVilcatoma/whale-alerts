@@ -56,7 +56,10 @@ WHALE_THRESHOLD = float(os.environ.get("WHALE_THRESHOLD", "1000"))
 PUBLICAR_RESULTADOS = os.environ.get("PUBLICAR_RESULTADOS", "1") not in ("0", "false", "no")
 MAX_DIAS_RESOLUCION = float(os.environ.get("MAX_DIAS_RESOLUCION", "2"))
 BACKUP_INTERVAL = float(os.environ.get("BACKUP_INTERVAL", "300"))
-MUDO_SEGUNDOS = float(os.environ.get("MUDO_SEGUNDOS", "25"))  # tras cuántos segundos sin datos se fuerza reconexión  # cada cuánto revisar por API lo que el stream perdió
+MUDO_SEGUNDOS = float(os.environ.get("MUDO_SEGUNDOS", "25"))
+# Si una ballena vende algo que NO le habíamos alertado, ¿avisar igual?
+# Por defecto no, para no llenar el canal de salidas sin contexto.
+PUBLICAR_VENTAS = os.environ.get("PUBLICAR_VENTAS", "0") not in ("0", "false", "no")  # tras cuántos segundos sin datos se fuerza reconexión  # cada cuánto revisar por API lo que el stream perdió
 # Ignorar apuestas a resultados ya casi definidos: a 95¢ (cuota 1.05) no se
 # está prediciendo nada, se recoge el último centavo, y eso infla el % de
 # acierto sin decir nada de la habilidad del apostador.
@@ -232,15 +235,17 @@ def build_summary_md():
         pnl_r = ganancia_de(r)
         if pnl_r is not None:
             per_wallet[w]["pnl"] = per_wallet[w].get("pnl", 0.0) + pnl_r
-        if r["status"] == "won":
+        if r["status"] == "won" or (r["status"] == "cerrada_venta" and r.get("profit_usd", 0) >= 0):
             per_wallet[w]["won"] += 1
-        elif r["status"] == "lost":
+        elif r["status"] == "lost" or (r["status"] == "cerrada_venta" and r.get("profit_usd", 0) < 0):
             per_wallet[w]["lost"] += 1
         else:
             per_wallet[w]["pending"] += 1
 
-    tot_g = sum(1 for r in results if r["status"] == "won")
-    tot_p = sum(1 for r in results if r["status"] == "lost")
+    tot_g = sum(1 for r in results if r["status"] == "won"
+                or (r["status"] == "cerrada_venta" and r.get("profit_usd", 0) >= 0))
+    tot_p = sum(1 for r in results if r["status"] == "lost"
+                or (r["status"] == "cerrada_venta" and r.get("profit_usd", 0) < 0))
     tot_pend = sum(1 for r in results if r["status"] == "pending")
     tot_usd = sum(r.get("usd", 0) or 0 for r in results)
     resueltas = tot_g + tot_p
@@ -330,7 +335,8 @@ def build_summary_md():
     lines += ["", "## Detalle de las últimas 60 apuestas", "",
               "| Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |",
               "|---|---|---|---|---|---|---|"]
-    icono = {"won": "✅ Ganada", "lost": "❌ Perdida", "pending": "⏳ Pendiente"}
+    icono = {"won": "✅ Ganada", "lost": "❌ Perdida", "pending": "⏳ Pendiente",
+             "cerrada_venta": "💰 Vendida antes"}
     for r in sorted(results, key=lambda x: x.get("timestamp") or 0, reverse=True)[:60]:
         titulo = (r.get("title") or "").replace("|", "-")
         outcome = (r.get("outcome") or "").replace("|", "-")
@@ -479,6 +485,63 @@ def procesar_trade(trade, origen="stream"):
         return False
 
     marca = "🐋 EN VIVO" if origen == "stream" else "🐋 RECUPERADA"
+    side = (trade.get("side") or "").upper()
+
+    if side == "SELL":
+        # ¿Esta venta cierra una apuesta que ya habíamos alertado? Si es así,
+        # podemos decir exactamente cuánto ganó saliendo antes del final.
+        with lock:
+            abiertas = [x for x in results if x["status"] == "pending"
+                        and x["wallet"] == wallet
+                        and x["slug"] == trade.get("slug")
+                        and x["outcome"] == trade.get("outcome")]
+        if abiertas:
+            entrada = abiertas[0]
+            p_ent = (entrada.get("odds_at_bet") or 0) / 100.0
+            pnl_pct = ((precio_c / 100.0) / p_ent - 1) * 100 if p_ent > 0 else 0
+            invertido = sum(x.get("usd", 0) or 0 for x in abiertas)
+            with lock:
+                for x in abiertas:
+                    x["status"] = "cerrada_venta"
+                    x["profit_usd"] = round((x.get("usd", 0) or 0) * pnl_pct / 100, 2)
+                    x["precio_salida"] = precio_c
+            globals()["results_dirty"] = True
+            ganancia = invertido * pnl_pct / 100
+            sg = "+" if ganancia >= 0 else ""
+            print(f"{marca} 💰 CERRÓ — {username}: entró a {entrada['odds_at_bet']}¢, "
+                  f"salió a {precio_c}¢ ({sg}{pnl_pct:.1f}%) en {trade.get('title')}")
+            send_telegram(
+                f"💰 {username} — CERRÓ LA POSICIÓN\n\n"
+                f"📊 {trade.get('title','')}\n"
+                f"🎯 {trade.get('outcome','')}\n"
+                f"📥 Entró a {entrada['odds_at_bet']}¢ (cuota {a_cuota(entrada['odds_at_bet'])})\n"
+                f"📤 Salió a {precio_c}¢ (cuota {a_cuota(precio_c)})\n"
+                f"💵 Resultado: {sg}{pnl_pct:.1f}% → {sg}${ganancia:,.0f}\n\n"
+                f"No esperó el final del evento.",
+                responder_a=entrada.get("telegram_msg_id"),
+            )
+            return False
+
+        # Una venta NO es una apuesta nueva: la ballena está saliendo de una
+        # posición, normalmente para tomar ganancia. Registrarla como apuesta
+        # distorsiona la tabla (la marcaría ganada/perdida según cómo termine
+        # el partido, cuando en realidad ya cobró y salió).
+        if not PUBLICAR_VENTAS:
+            print(f"[venta] {username}: ${usd:,.0f} a {precio_c}¢ en "
+                  f"{trade.get('title')} — sale de la posición, no se registra")
+            return False
+        print(f"{marca} 💰 SALIDA — {username}: vendió ${usd:,.0f} a {precio_c}¢ "
+              f"en {trade.get('title')}")
+        send_telegram(
+            f"💰 {username} — SALIDA DE POSICIÓN\n\n"
+            f"Vendió ${usd:,.0f} a {precio_c}¢ (cuota {a_cuota(precio_c)})\n"
+            f"Mercado: {trade.get('title','')}\n"
+            f"Resultado: {trade.get('outcome','')}\n\n"
+            f"⚠️ Está saliendo, no entrando. Si compró más barato, "
+            f"está tomando ganancia sin esperar el final."
+        )
+        return False   # no se registra en la tabla de apuestas
+
     print(f"{marca} — {username}: ${usd:,.0f} en {trade.get('title')}")
     msg_id = send_telegram(build_ticket(username, trade, usd, precio_c, wallet))
     log_result_pending(username, wallet, trade, usd, precio_c, msg_id)
@@ -636,6 +699,10 @@ def a_cuota(precio_centavos):
 
 def ganancia_de(r):
     """Cuánto ganó o perdió esa apuesta, según cómo resolvió."""
+    # Si cerró vendiendo antes del final, el resultado ya quedó calculado
+    # con el precio de salida al momento de la venta.
+    if r.get("status") == "cerrada_venta":
+        return r.get("profit_usd", 0.0)
     p = (r.get("odds_at_bet") or 0) / 100.0
     usd = r.get("usd", 0) or 0
     if r["status"] == "won" and p > 0:
