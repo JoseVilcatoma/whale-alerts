@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 13:28:15 (hora de Perú)
+Actualizado: 2026-08-11 13:30:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $333.72
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 160 | 104 | 86 | -8.59 USD |
+| UpTheBlues | 160 | 104 | 88 | -8.59 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | swisstony | 69 | 66 | 71 | -20.05 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
@@ -392,11 +392,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-nec-oly-2026-08-11-oly | UpTheBlues, swisstony |
 | ucl-kau-din-2026-08-11-din | UpTheBlues, swisstony |
 | ucl-kau-din-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
+| ucl-kau-din-2026-08-11-total-4pt5 | UpTheBlues, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 86% | 0.36 | ⏳ pendiente | — |
+| UpTheBlues | Apóllon Lemesoú vs. SK Brann: O/U 2.5 | Under (BUY) | 83% | 0.91 | ⏳ pendiente | — |
 | quavoo | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Yes (BUY) | 61% | 0.36 | ⏳ pendiente | — |
 | UpTheBlues | NK Celje vs. Ararat-Armenia FA: Both Tea | No (BUY) | 50% | 0.36 | ⏳ pendiente | — |
 | quavoo | Will Fenerbahçe SK win on 2026-08-11? | Yes (BUY) | 56% | 0.34 | ⏳ pendiente | — |
@@ -425,5 +428,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 85% | 1.21 | ⏳ pendiente | — |
 | swisstony | Will SK Iberia 1999 vs. Larne FC end in  | Yes (BUY) | 70% | 1.31 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 74% | 3.30 | ✅ ganada | +1.16 |
-| swisstony | Will SK Iberia 1999 vs. Larne FC end in  | Yes (BUY) | 69% | 0.45 | ⏳ pendiente | — |
-| UpTheBlues | Will Larne FC win on 2026-08-11? | No (BUY) | 92% | 0.73 | ⏳ pendiente | — |
