@@ -32,7 +32,6 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          WHALE_THRESHOLD: '1000'
-          TOP_N: '20'
-          LB_CATEGORY: 'OVERALL'
+          WHALE_THRESHOLD: "10000"
+          PUBLICAR_RESULTADOS: "1"
         run: python -u whale_alert_bot.py
