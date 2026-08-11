@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 21:22:51 (hora de Perú)
+Actualizado: 2026-08-10 21:24:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $250.09
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
-| HomeRunHazard | 50 | 47 | 37 | +21.61 USD |
+| HomeRunHazard | 50 | 47 | 39 | +21.61 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 543 | 437 | 29 | -150.96 USD |
+| ferrariChampions2026 | 543 | 437 | 32 | -150.96 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -333,6 +333,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 11.5 | Over (BUY) | 36% | 2.22 | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 11.5 | Over (BUY) | 35% | 2.20 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Milwaukee Brewers (-1.5) | San Diego Padres (BUY) | 55% | 0.26 | ⏳ pendiente | — |
+| HomeRunHazard | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 55% | 0.30 | ⏳ pendiente | — |
+| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 52% | 2.33 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 11.5 | Over (BUY) | 35% | 2.75 | ⏳ pendiente | — |
 | swisstony | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 59% | 0.30 | ⏳ pendiente | — |
 | RN1 | Tampa Bay Rays vs. Athletics: O/U 11.5 | Over (BUY) | 35% | 0.78 | ⏳ pendiente | — |
@@ -358,8 +363,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 67% | 0.80 | ⏳ pendiente | — |
 | UpTheBlues | Will FK Crvena zvezda win on 2026-08-11? | Yes (BUY) | 78% | 0.27 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 56% | 0.42 | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 55% | 0.38 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Central Córdoba win on 2026-08-1 | Yes (BUY) | 85% | 1.73 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Central Córdoba win on 2026-08-1 | Yes (BUY) | 84% | 0.88 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 178.5 | Under (BUY) | 48% | 0.95 | ⏳ pendiente | — |
-| UpTheBlues | Will CD Cuenca vs. Manta FC end in a dra | Yes (BUY) | 48% | 0.86 | ⏳ pendiente | — |
