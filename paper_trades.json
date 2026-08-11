@@ -74190,5 +74190,48 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786487507.4630291,
     "fills": 1
+  },
+  {
+    "timestamp": 1786487775,
+    "timestamp_added": 1786487776.3786697,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-flu-cir-2026-08-11-flu",
+    "title": "Will Fluminense FC win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 759.49,
+    "whale_pct": 0.407,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786487776.378679,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786487789,
+    "timestamp_added": 1786487790.1265924,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lec-clt-pac-2026-08-11-clt",
+    "title": "Will Charlotte FC win on 2026-08-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1582.34,
+    "whale_pct": 0.319,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786487790.1266022,
+    "fills": 1
   }
 ]
