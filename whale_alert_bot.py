@@ -52,6 +52,7 @@ WATCHED_FILE = Path(__file__).parent / "watched.json"
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
 WHALE_THRESHOLD = float(os.environ.get("WHALE_THRESHOLD", "1000"))
+PUBLICAR_RESULTADOS = os.environ.get("PUBLICAR_RESULTADOS", "1") not in ("0", "false", "no")
 TOP_N = int(os.environ.get("TOP_N", "20"))
 LB_CATEGORY = os.environ.get("LB_CATEGORY", "OVERALL")
 LB_PERIODS = ["WEEK", "MONTH"]
@@ -151,16 +152,46 @@ def resolve_pending_results():
             with lock:
                 r["status"] = outcome
             changed = True
+            if PUBLICAR_RESULTADOS:
+                publicar_desenlace(r, outcome)
         time.sleep(0.1)
     if changed:
         results_dirty = True
+
+
+def publicar_desenlace(r, outcome):
+    """Publica cómo terminó una apuesta que ya habíamos anunciado, junto al
+    récord acumulado de esa ballena. Esto es lo que ningún canal de alertas
+    hace: todos publican la entrada, nadie vuelve a decir cómo salió."""
+    with lock:
+        propias = [x for x in results if x["wallet"] == r["wallet"]
+                   and x["status"] in ("won", "lost")]
+    ganadas = sum(1 for x in propias if x["status"] == "won")
+    perdidas = sum(1 for x in propias if x["status"] == "lost")
+    total = ganadas + perdidas
+
+    icono = "✅ GANÓ" if outcome == "won" else "❌ PERDIÓ"
+    msg = f"{icono} — desenlace\n\n"
+    msg += f"👤 {r['username']}\n"
+    msg += f"📊 {r['title']}\n"
+    msg += f"🎯 Había apostado a: {r['outcome']} (a {r['odds_at_bet']}¢)\n"
+    msg += f"💵 Monto: ${r['usd']:,.0f}\n\n"
+    if total >= 3:
+        pct = round(ganadas / total * 100)
+        msg += f"📈 Récord de {r['username']} desde que lo seguimos: "
+        msg += f"{ganadas}-{perdidas} ({pct}% de acierto)"
+        if total < 10:
+            msg += f"\n⚠️ Muestra chica todavía ({total} resueltas)"
+    send_telegram(msg)
 
 
 def build_summary_md():
     per_wallet = {}
     for r in results:
         w = r["wallet"]
-        per_wallet.setdefault(w, {"username": r["username"], "won": 0, "lost": 0, "pending": 0})
+        per_wallet.setdefault(w, {"username": r["username"], "won": 0, "lost": 0,
+                                   "pending": 0, "usd": 0.0})
+        per_wallet[w]["usd"] += r.get("usd", 0) or 0
         if r["status"] == "won":
             per_wallet[w]["won"] += 1
         elif r["status"] == "lost":
@@ -168,33 +199,63 @@ def build_summary_md():
         else:
             per_wallet[w]["pending"] += 1
 
-    rows = []
-    for w, d in per_wallet.items():
-        total_resolved = d["won"] + d["lost"]
-        pct = round(d["won"] / total_resolved * 100) if total_resolved else None
-        rows.append((d["username"], d["won"], d["lost"], d["pending"], pct))
-    rows.sort(key=lambda x: (x[4] is None, -(x[4] or 0)))
+    tot_g = sum(1 for r in results if r["status"] == "won")
+    tot_p = sum(1 for r in results if r["status"] == "lost")
+    tot_pend = sum(1 for r in results if r["status"] == "pending")
+    tot_usd = sum(r.get("usd", 0) or 0 for r in results)
+    resueltas = tot_g + tot_p
+    pct_global = round(tot_g / resueltas * 100) if resueltas else 0
 
-    hora_peru = time.gmtime(time.time() - 5 * 3600)  # Perú = UTC-5, sin horario de verano
+    hora_peru = time.gmtime(time.time() - 5 * 3600)  # Perú = UTC-5
     lines = [
-        "# Resultados de las apuestas fuertes alertadas",
+        "# Apuestas fuertes en Polymarket",
         "",
         f"Actualizado: {time.strftime('%Y-%m-%d %H:%M:%S', hora_peru)} (hora de Perú)",
         "",
-        "_Menos de 8 apuestas resueltas todavía no es una muestra confiable — se marca con ⚠️._",
+        f"Seguimos **toda** apuesta de ${WHALE_THRESHOLD:,.0f} o más, de cualquier apostador.",
         "",
-        "| Apostador | Ganadas | Perdidas | Pendientes | % Acierto |",
-        "|---|---|---|---|---|",
+        "## Totales",
+        "",
+        f"- Apuestas registradas: **{len(results)}**  (${tot_usd:,.0f} en total)",
+        f"- Resueltas: **{resueltas}** — {tot_g} ganadas / {tot_p} perdidas "
+        f"(**{pct_global}%** de acierto)",
+        f"- Pendientes: {tot_pend}",
+        f"- Apostadores distintos: {len(per_wallet)}",
+        "",
+        "_Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._",
+        "",
+        "## Por apostador (ordenado por monto apostado)",
+        "",
+        "| Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado |",
+        "|---|---|---|---|---|---|",
     ]
-    for username, won, lost, pending, pct in rows:
-        total_resolved = won + lost
-        if pct is None:
+
+    orden = sorted(per_wallet.values(), key=lambda d: -d["usd"])[:40]
+    for d in orden:
+        tr = d["won"] + d["lost"]
+        if tr == 0:
             pct_str = "—"
-        elif total_resolved < 8:
-            pct_str = f"⚠️ {pct}% (muestra chica: {total_resolved})"
+        elif tr < 8:
+            pct_str = f"⚠️ {round(d['won']/tr*100)}% ({tr})"
         else:
-            pct_str = f"{pct}%"
-        lines.append(f"| {username} | {won} | {lost} | {pending} | {pct_str} |")
+            pct_str = f"{round(d['won']/tr*100)}%"
+        lines.append(f"| {d['username']} | {d['won']} | {d['lost']} | {d['pending']} | "
+                     f"{pct_str} | ${d['usd']:,.0f} |")
+    if len(per_wallet) > 40:
+        lines.append(f"\n_(mostrando los 40 de mayor monto, de {len(per_wallet)} en total)_")
+
+    # --- detalle de cada apuesta, lo que pediste ---
+    lines += ["", "## Detalle de las últimas 60 apuestas", "",
+              "| Apostador | Mercado | Apostó a | Precio | Monto | Resultado |",
+              "|---|---|---|---|---|---|"]
+    icono = {"won": "✅ Ganada", "lost": "❌ Perdida", "pending": "⏳ Pendiente"}
+    for r in sorted(results, key=lambda x: x.get("timestamp") or 0, reverse=True)[:60]:
+        lines.append(
+            f"| {r['username']} | {(r.get('title') or '')[:38]} | {r.get('outcome','')} | "
+            f"{r.get('odds_at_bet','?')}¢ | ${r.get('usd',0):,.0f} | "
+            f"{icono.get(r['status'], r['status'])} |"
+        )
+
     SUMMARY_FILE.write_text("\n".join(lines) + "\n")
 
 
@@ -317,9 +378,14 @@ def on_ws_message(ws, message):
     if msg_count % 500 == 0:
         print(f"[en vivo] {msg_count} trades del chorro global recibidos hasta ahora (siguen llegando)")
 
-    if not wallet or wallet not in watched:
+    if not wallet:
         return
-    print(f"[match] {watched.get(wallet)} hizo una apuesta (revisando monto...)")
+
+    # Ahora NO filtramos por ranking: cualquiera que supere el umbral entra.
+    # Filtramos primero por monto porque es lo más barato de evaluar.
+    usd = (trade.get("size") or 0) * (trade.get("price") or 0)
+    if usd < WHALE_THRESHOLD:
+        return
 
     key = f"{trade.get('transactionHash','')}_{trade.get('timestamp')}_{trade.get('asset')}_{trade.get('size')}"
     if key in seen_keys:
@@ -328,11 +394,10 @@ def on_ws_message(ws, message):
     if len(seen_keys) > 5000:
         seen_keys.clear()
 
-    usd = (trade.get("size") or 0) * (trade.get("price") or 0)
-    if usd < WHALE_THRESHOLD:
-        return
+    # El nombre viene en el propio trade; si no, usamos la wallet abreviada
+    username = (trade.get("name") or trade.get("pseudonym")
+                or trade.get("userName") or f"{wallet[:6]}…{wallet[-4:]}")
 
-    username = watched.get(wallet, "anon")
     odds = round((trade.get("price") or 0) * 100)
     print(f"🐋 EN VIVO — {username}: ${usd:,.0f} en {trade.get('title')}")
     send_telegram(build_ticket(username, trade, usd, odds, wallet))
