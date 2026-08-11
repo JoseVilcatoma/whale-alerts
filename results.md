@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 04:36:57 (hora de Perú)
+Actualizado: 2026-08-11 04:38:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **24**  ($818,523 en total)
+- Apuestas registradas: **25**  ($834,381 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 21
-- Apostadores distintos: 19
+- Pendientes: 22
+- Apostadores distintos: 20
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -32,6 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 2 | — | $21,062 | — |
 | backback | 0 | 0 | 1 | — | $18,610 | — |
 | Lakersfan111 | 0 | 0 | 1 | — | $17,024 | — |
+| 467j6yj | 0 | 0 | 1 | — | $15,858 | — |
 | scottilicious | 0 | 0 | 1 | — | $11,672 | — |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 0 | 0 | 1 | — | $11,063 | — |
 | mpyh | 0 | 0 | 1 | — | $10,968 | — |
@@ -41,6 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 467j6yj | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | DN SOOPers | 1.01 (99¢) | $15,858 | — | ⏳ Pendiente |
 | cc9999 | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner | BNK FearX Youth | — (100¢) | $31,864 | — | ⏳ Pendiente |
 | zvon3 | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner | BNK FearX Youth | — (100¢) | $109,790 | — | ⏳ Pendiente |
 | bajacaligold | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner | BNK FearX Youth | — (100¢) | $78,022 | — | ⏳ Pendiente |
