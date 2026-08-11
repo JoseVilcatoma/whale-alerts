@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 12:30:00 (hora de Perú)
+Actualizado: 2026-08-11 12:32:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $351.41
@@ -40,9 +40,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 54 | 37 | 98 | -3.44 USD |
+| swisstony | 54 | 37 | 103 | -3.44 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 154 | 103 | 77 | -8.78 USD |
+| UpTheBlues | 154 | 103 | 78 | -8.78 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | BrotherObama | 7 | 3 | 2 | -24.77 USD |
@@ -357,6 +357,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
 | ucl-nec-oly-2026-08-11-total-2pt5 | UpTheBlues, quavoo |
 | ucl-nec-oly-2026-08-11-btts | UpTheBlues, quavoo |
+| col1-cjf-dep-2026-08-10-cjf | 0x4f2, UpTheBlues |
 | ucl-bog-usg-2026-08-11-bog | quavoo, swisstony |
 | ucl-kau-din-2026-08-11-total-3pt5 | 0x4f2, swisstony |
 | clf-pal-juv-2026-08-11-juv | ferrariChampions2026, quavoo, swisstony |
@@ -390,6 +391,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will CDPJuniorFC win on 2026-08-10? | Yes (BUY) | 68% | 1.05 | ⏳ pendiente | — |
+| swisstony | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Over (BUY) | 91% | 0.40 | ⏳ pendiente | — |
+| swisstony | Al Jazira (UAE) vs. Al-Ittihad Club: O/U | Over (BUY) | 98% | 0.35 | ⏳ pendiente | — |
+| swisstony | Will Sabah FK win on 2026-08-11? | Yes (BUY) | 97% | 2.47 | ⏳ pendiente | — |
+| swisstony | Will Sabah FK vs. Aarhus GF end in a dra | No (BUY) | 97% | 0.49 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: O/U 3.5 | Under (BUY) | 80% | 0.82 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.98 | ⏳ pendiente | — |
 | swisstony | Will SK Brann win on 2026-08-11? | Yes (BUY) | 54% | 0.35 | ⏳ pendiente | — |
 | swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 96% | 0.40 | ⏳ pendiente | — |
@@ -414,9 +421,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Apóllon Lemesoú win on 2026-08-11? | No (BUY) | 77% | 0.38 | ⏳ pendiente | — |
 | UpTheBlues | SK Iberia 1999 vs. Larne FC: O/U 2.5 | Under (BUY) | 97% | 0.79 | ⏳ pendiente | — |
 | UpTheBlues | Will Aarhus GF win on 2026-08-11? | No (BUY) | 96% | 2.05 | ⏳ pendiente | — |
-| UpTheBlues | Will Mjällby AIF win on 2026-08-11? | No (BUY) | 79% | 1.38 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 70% | 0.83 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Over (BUY) | 31% | 0.46 | ⏳ pendiente | — |
-| swisstony | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 59% | 0.43 | ⏳ pendiente | — |
-| swisstony | Spread: Al Jazira (UAE) (-1.5) | Al-Ittihad Club (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| swisstony | Al Jazira (UAE) vs. Al-Ittihad Club: O/U | Over (BUY) | 98% | 0.00 | ⏳ pendiente | — |
