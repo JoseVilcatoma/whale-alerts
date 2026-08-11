@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 12:04:42 (hora de Perú)
+Actualizado: 2026-08-11 12:07:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $364.42
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 13 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 14 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -40,14 +40,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 88 | -4.23 USD |
+| swisstony | 35 | 25 | 94 | -4.23 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 101 | 69 | -8.33 USD |
+| UpTheBlues | 151 | 101 | 70 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 13 | -20.90 USD |
 | BrotherObama | 7 | 3 | 1 | -24.77 USD |
-| quavoo | 142 | 173 | 17 | -30.91 USD |
+| quavoo | 142 | 173 | 18 | -30.91 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -322,6 +322,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | uru1-mal-rcm-2026-08-10-mal | SnakeBall, UpTheBlues |
 | arg-uni-cac-2026-08-10-cac | RN1, SnakeBall, UpTheBlues |
 | lol-los-png1-2026-08-10 | BrotherObama, SnakeBall |
+| ucl-bog-usg-2026-08-11-usg | UpTheBlues, swisstony |
 | ecu1-lib-uni-2026-08-10-lib | RN1, UpTheBlues |
 | bra3-psc-con-2026-08-10-total-2pt5 | RN1, UpTheBlues |
 | wnba-tor-atl-2026-08-10-total-187pt5 | HomeRunHazard, ferrariChampions2026 |
@@ -351,8 +352,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-bog-usg-2026-08-11-btts | UpTheBlues, swisstony |
 | mlb-kc-lad-2026-08-10-spread-home-2pt5 | HomeRunHazard, swisstony |
 | mlb-tex-laa-2026-08-10-spread-home-1pt5 | HomeRunHazard, swisstony |
+| uel-sab-lar-2026-08-11-lar | UpTheBlues, swisstony |
 | uel-sab-lar-2026-08-11-spread-away-1pt5 | UpTheBlues, swisstony |
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
+| ucl-nec-oly-2026-08-11-total-2pt5 | UpTheBlues, quavoo |
 | ucl-bog-usg-2026-08-11-bog | quavoo, swisstony |
 | ucl-kau-din-2026-08-11-total-3pt5 | 0x4f2, swisstony |
 | clf-pal-juv-2026-08-11-juv | ferrariChampions2026, quavoo, swisstony |
@@ -378,7 +381,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 60% | 0.39 | ⏳ pendiente | — |
+| swisstony | Will Larne FC win on 2026-08-11? | No (BUY) | 85% | 2.68 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 78% | 1.06 | ⏳ pendiente | — |
+| swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 52% | 1.44 | ⏳ pendiente | — |
+| UpTheBlues | Will Recoleta FC win on 2026-08-11? | No (BUY) | 94% | 0.38 | ⏳ pendiente | — |
+| swisstony | Apóllon Lemesoú vs. SK Brann: O/U 3.5 | Under (BUY) | 70% | 0.60 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 51% | 0.43 | ⏳ pendiente | — |
+| quavoo | NEC vs. Olympiakós SFP: O/U 2.5 | Over (BUY) | 54% | 1.38 | ⏳ pendiente | — |
+| swisstony | Will RU Saint-Gilloise win on 2026-08-11 | No (BUY) | 78% | 1.80 | ⏳ pendiente | — |
+| swisstony | SK Iberia 1999 vs. Larne FC: O/U 0.5 | Under (BUY) | 31% | 0.56 | ⏳ pendiente | — |
+| swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 60% | 0.78 | ⏳ pendiente | — |
 | swisstony | FK Bodø/Glimt vs. RU Saint-Gilloise: O/U | Under (BUY) | 47% | 0.45 | ⏳ pendiente | — |
 | swisstony | Will Aarhus GF win on 2026-08-11? | No (BUY) | 80% | 1.00 | ⏳ pendiente | — |
 | swisstony | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 71% | 0.45 | ⏳ pendiente | — |
@@ -399,12 +411,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.52 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 1.05 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.53 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.49 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: PFK Levski Sofia (-1.5) | Qairat FK (BUY) | 81% | 0.45 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 49% | 1.62 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will SK Iberia 1999 vs. Larne FC end in  | No (BUY) | 62% | 0.70 | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 55% | 0.95 | ⏳ pendiente | — |
-| quavoo | Columbus Crew vs. Pumas de la UNAM: O/U  | Over (BUY) | 84% | 0.42 | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 55% | 1.69 | ⏳ pendiente | — |
-| swisstony | Will PFK Levski Sofia win on 2026-08-11? | No (BUY) | 32% | 0.53 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | Yes (BUY) | 48% | 0.93 | ⏳ pendiente | — |
