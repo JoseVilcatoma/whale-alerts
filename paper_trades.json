@@ -72624,5 +72624,28 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786482472.2497854,
     "fills": 8
+  },
+  {
+    "timestamp": 1786483009,
+    "timestamp_added": 1786483009.6243935,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-nym-atl-2026-08-11-total-8pt5",
+    "title": "New York Mets vs. Atlanta Braves: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 98.5,
+    "whale_pct": 0.913,
+    "paper_stake_usd": 3.19,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786483009.6244025,
+    "fills": 1
   }
 ]
