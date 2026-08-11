@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 06:50:36 (hora de Perú)
+Actualizado: 2026-08-11 06:52:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **49**  ($1,281,980 en total)
+- Apuestas registradas: **50**  ($1,292,660 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 46
-- Apostadores distintos: 32
+- Pendientes: 47
+- Apostadores distintos: 33
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -47,6 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | scottilicious | 0 | 0 | 1 | — | $11,672 | — |
 | 0x076d…8d4c | 0 | 0 | 1 | — | $11,037 | — |
 | mpyh | 0 | 0 | 1 | — | $10,968 | — |
+| ThornyDevil | 0 | 0 | 1 | — | $10,680 | — |
 | 999999666544332578855667788 | 0 | 0 | 1 | — | $10,640 | — |
 | owomvvssuv | 0 | 0 | 1 | — | $10,127 | — |
 
@@ -54,6 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ThornyDevil | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | 1.67 (60¢) | $10,680 | — | ⏳ Pendiente |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: Hanwha Life Esports vs DN SOOPers - Game 2 Winner | DN SOOPers | — (100¢) | $14,892 | — | ⏳ Pendiente |
 | -Malfunction | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | — (100¢) | $20,436 | — | ⏳ Pendiente |
 | 0x3b63B79D5D00A254ff0105792e04984F64654AcD-1768687235269 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | — (100¢) | $17,985 | — | ⏳ Pendiente |
