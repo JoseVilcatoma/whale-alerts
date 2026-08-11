@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 11:06:23 (hora de Perú)
+Actualizado: 2026-08-11 11:08:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $340.35
@@ -17,13 +17,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 6 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 7 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 16 | 13 | 4 | +17.16 USD |
-| HomeRunHazard | 93 | 83 | 25 | +15.57 USD |
+| HomeRunHazard | 93 | 83 | 26 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 38 | -4.23 USD |
+| swisstony | 35 | 25 | 44 | -4.23 USD |
 | Lakersfan111 | 2 | 4 | 2 | -4.76 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
@@ -361,6 +361,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-kai-pls-2026-08-11-total-0pt5 | quavoo, swisstony |
 | wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-1pt5 | RN1, swisstony |
+| wnba-nyl-ind-2026-08-11-total-192pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-2pt5 | RN1, swisstony |
 | ucl-kai-pls-2026-08-11-pls | RN1, swisstony |
 
@@ -368,6 +369,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 58% | 1.00 | ⏳ pendiente | — |
+| swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 50% | 0.69 | ⏳ pendiente | — |
+| swisstony | Will Sabah FK vs. Aarhus GF end in a dra | No (BUY) | 73% | 6.51 | ⏳ pendiente | — |
+| HomeRunHazard | New York Liberty vs. Indiana Fever: O/U  | Under (BUY) | 51% | 2.35 | ⏳ pendiente | — |
+| swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | Yes (BUY) | 50% | 1.49 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 46% | 1.56 | ⏳ pendiente | — |
+| swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 58% | 1.01 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 46% | 1.08 | ⏳ pendiente | — |
 | dv-pm | Will FK Crvena zvezda win on 2026-08-11? | No (BUY) | 20% | 27.05 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 43% | 1.11 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 49% | 0.43 | ⏳ pendiente | — |
@@ -390,11 +399,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will PFK Levski Sofia win on 2026-08-11? | No (BUY) | 34% | 0.59 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 48% | 0.85 | ⏳ pendiente | — |
 | swisstony | Spread: FK Bodø/Glimt (-2.5) | RU Saint-Gilloise (BUY) | 84% | 1.16 | ⏳ pendiente | — |
-| swisstony | Will Olympique Lyonnais win on 2026-08-1 | Yes (BUY) | 70% | 0.58 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Over (BUY) | 35% | 0.43 | ⏳ pendiente | — |
-| quavoo | FK Bodø/Glimt vs. RU Saint-Gilloise: O/U | Over (BUY) | 97% | 2.55 | ⏳ pendiente | — |
-| swisstony | Spread: PFK Levski Sofia (-1.5) | PFK Levski Sofia (BUY) | 25% | 0.45 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Over (BUY) | 35% | 1.27 | ⏳ pendiente | — |
-| quavoo | Spread: Sabah FK (-1.5) | Aarhus GF (BUY) | 75% | 0.34 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Las Vegas Aces (-7.5) | Las Vegas Aces (BUY) | 44% | 0.43 | ⏳ pendiente | — |
-| quavoo | Spread: FK Bodø/Glimt (-1.5) | RU Saint-Gilloise (BUY) | 68% | 0.00 | ⏳ pendiente | — |
