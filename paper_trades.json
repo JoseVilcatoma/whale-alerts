@@ -59141,5 +59141,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786415211.7195084,
     "fills": 1
+  },
+  {
+    "timestamp": 1786415220,
+    "timestamp_added": 1786415220.9299738,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-phi-stl-2026-08-10-spread-away-2pt5",
+    "title": "Spread: Philadelphia Phillies (-2.5)",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "whale_usd": 2789.7999999999997,
+    "whale_pct": 0.636,
+    "paper_stake_usd": 1.59,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786415221.473159,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786415273,
+    "timestamp_added": 1786415274.118658,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-phi-stl-2026-08-10-spread-away-2pt5",
+    "title": "Spread: Philadelphia Phillies (-2.5)",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "whale_usd": 799.8,
+    "whale_pct": 0.129,
+    "paper_stake_usd": 0.32,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786415274.118666,
+    "fills": 1
   }
 ]
