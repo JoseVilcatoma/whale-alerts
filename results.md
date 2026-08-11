@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 17:41:05 (hora de Perú)
+Actualizado: 2026-08-11 17:43:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **64**  ($1,426,032 en total)
+- Apuestas registradas: **66**  ($1,456,293 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 50
+- Pendientes: 52
 - Apostadores distintos: 35
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| pleaseplease123 | 0 | 0 | 5 | — | $182,636 | — |
+| pleaseplease123 | 0 | 0 | 6 | — | $199,582 | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 4 | — | $178,415 | — |
 | BreakTheBank | 0 | 0 | 3 | — | $140,907 | — |
 | SDTrading | 0 | 0 | 6 | — | $121,629 | — |
@@ -39,6 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $29,744 | +$9,167 |
 | BaccaratRoulette | 0 | 0 | 1 | — | $27,060 | — |
 | SevenTons | 0 | 0 | 2 | — | $25,996 | — |
+| dv-pm | 0 | 0 | 2 | — | $24,463 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 2 | 0 | 0 | ⚠️ 100% (2) | $21,062 | +$8,396 |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | 0 | 0 | 1 | — | $20,000 | — |
@@ -50,7 +51,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kkookkoo | 0 | 0 | 1 | — | $11,562 | — |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | — | $11,356 | — |
 | ExplosiveNinja | 0 | 0 | 1 | — | $11,277 | — |
-| dv-pm | 0 | 0 | 1 | — | $11,147 | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 0 | 0 | 1 | — | $11,107 | — |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 1 | 0 | 0 | ⚠️ 100% (1) | $11,063 | +$3,120 |
 | 0x076d…8d4c | 1 | 0 | 0 | ⚠️ 100% (1) | $11,037 | +$1,092 |
@@ -64,6 +64,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.79 (56¢) | $16,947 | — | ⏳ Pendiente |
+| dv-pm | Seattle Mariners vs. New York Yankees: O/U 7.5 | Under 7.5 | 2.27 (44¢) | $13,315 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.72 (58¢) | $10,088 | — | ⏳ Pendiente |
 | BreakTheBank | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.27 (44¢) | $39,600 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.79 (56¢) | $50,400 | — | ⏳ Pendiente |
@@ -122,5 +124,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 999999666544332578855667788 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.32 (76¢) | $10,640 | +$3,360 | ✅ Ganada |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.28 (78¢) | $11,063 | +$3,120 | ✅ Ganada |
 | mpyh | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.33 (75¢) | $10,968 | +$3,656 | ✅ Ganada |
-| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.39 (72¢) | $10,570 | +$4,110 | ✅ Ganada |
-| 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.41 (71¢) | $10,492 | +$4,286 | ✅ Ganada |
