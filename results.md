@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 08:11:28 (hora de Perú)
+Actualizado: 2026-08-11 08:44:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **67**  ($2,029,184 en total)
-- Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 64
-- Apostadores distintos: 41
+- Apuestas registradas: **17**  ($284,770 en total)
+- Resueltas: **0** — 0 ganadas / 0 perdidas (**0%** de acierto)
+- Pendientes: 17
+- Apostadores distintos: 15
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -17,110 +17,40 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| zvon3 | 0 | 0 | 2 | — | $219,081 | — |
-| -Malfunction | 0 | 0 | 8 | — | $191,265 | — |
-| landighertz | 0 | 0 | 2 | — | $138,661 | — |
-| cc9999 | 0 | 0 | 3 | — | $135,760 | — |
-| bajacaligold | 0 | 0 | 2 | — | $128,951 | — |
-| littlelonely888 | 0 | 0 | 2 | — | $119,880 | — |
-| CoinTrick | 0 | 0 | 1 | — | $79,920 | — |
-| ilushin | 0 | 0 | 2 | — | $78,521 | — |
-| five5120 | 0 | 0 | 3 | — | $73,066 | — |
-| avonking | 0 | 0 | 1 | — | $60,140 | — |
-| Weaseloftheweek | 0 | 0 | 1 | — | $57,141 | — |
 | retroactivesource | 0 | 0 | 1 | — | $54,960 | — |
-| c4a759e5c9350491AF61646f2c4A46 | 1 | 0 | 1 | ⚠️ 100% (1) | $52,134 | +$0 |
-| 0x427c…e8b5 | 0 | 0 | 1 | — | $44,955 | — |
-| BBQChickenisthebesttt | 0 | 0 | 1 | — | $39,600 | — |
-| 0xA7614974FAca5Be9A1b809c978d0A8FC532a866B-1777736641378 | 0 | 0 | 2 | — | $35,464 | — |
-| 0x7b84…940f | 0 | 0 | 1 | — | $34,116 | — |
-| mpyh | 0 | 0 | 2 | — | $30,374 | — |
 | TAIWANNUMBERONE | 0 | 0 | 2 | — | $30,272 | — |
-| 033033033 | 0 | 0 | 1 | — | $29,801 | — |
-| backback | 0 | 0 | 2 | — | $29,083 | — |
-| Emethod | 0 | 0 | 2 | — | $28,001 | — |
 | Istaroth | 0 | 0 | 1 | — | $27,704 | — |
 | pleaseplease123 | 0 | 0 | 1 | — | $27,284 | — |
-| degenofweb3 | 0 | 0 | 2 | — | $26,340 | — |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 0 | 0 | 2 | — | $25,955 | — |
-| ProudIsraeli | 2 | 0 | 0 | ⚠️ 100% (2) | $25,065 | +$0 |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 2 | — | $21,062 | — |
-| LuckyWin | 0 | 0 | 1 | — | $19,282 | — |
-| LUCKYME001 | 0 | 0 | 1 | — | $18,941 | — |
-| 0x3b63B79D5D00A254ff0105792e04984F64654AcD-1768687235269 | 0 | 0 | 1 | — | $17,985 | — |
 | Lakersfan111 | 0 | 0 | 1 | — | $17,024 | — |
-| 467j6yj | 0 | 0 | 1 | — | $15,858 | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | — | $15,263 | — |
-| hd777 | 0 | 0 | 1 | — | $13,111 | — |
-| Orlandxx | 0 | 0 | 1 | — | $13,007 | — |
+| Weaseloftheweek | 0 | 0 | 1 | — | $14,667 | — |
 | scottilicious | 0 | 0 | 1 | — | $11,672 | — |
+| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 0 | 0 | 1 | — | $11,063 | — |
 | 0x076d…8d4c | 0 | 0 | 1 | — | $11,037 | — |
+| mpyh | 0 | 0 | 1 | — | $10,968 | — |
 | ThornyDevil | 0 | 0 | 1 | — | $10,680 | — |
 | 999999666544332578855667788 | 0 | 0 | 1 | — | $10,640 | — |
-
-_(mostrando los 40 de mayor monto, de 41 en total)_
+| backback | 0 | 0 | 1 | — | $10,473 | — |
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| landighertz | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | — (100¢) | $69,031 | — | ⏳ Pendiente |
-| littlelonely888 | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | — (100¢) | $48,951 | — | ⏳ Pendiente |
-| zvon3 | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | — (100¢) | $109,291 | — | ⏳ Pendiente |
-| CoinTrick | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | — (100¢) | $79,920 | — | ⏳ Pendiente |
-| bajacaligold | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | — (100¢) | $50,929 | — | ⏳ Pendiente |
-| cc9999 | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | — (100¢) | $78,921 | — | ⏳ Pendiente |
-| ilushin | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | — (100¢) | $38,961 | — | ⏳ Pendiente |
+| Weaseloftheweek | Dota 2: MOUZ vs Rune Eaters - Game 2 Winner | MOUZ | 1.52 (66¢) | $14,667 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. New York Yankees: O/U 7.5 | Under 7.5 | 2.17 (46¢) | $15,263 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $27,284 | — | ⏳ Pendiente |
 | Istaroth |  |  | 1.09 (92¢) | $27,704 | — | ⏳ Pendiente |
-| mpyh | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | — (100¢) | $19,406 | — | ⏳ Pendiente |
-| 033033033 | Will HULIGANI Win The International 2026? | No | — (100¢) | $29,801 | — | ⏳ Pendiente |
-| five5120 | LoL: Hanwha Life Esports vs DN SOOPers - Game 3 Winner | DN SOOPers | — (100¢) | $26,724 | — | ⏳ Pendiente |
-| LuckyWin | LoL: Hanwha Life Esports vs DN SOOPers - Game 3 Winner | DN SOOPers | — (100¢) | $19,282 | — | ⏳ Pendiente |
-| 0xA7614974FAca5Be9A1b809c978d0A8FC532a866B-1777736641378 | Bitcoin Up or Down - August 11, 7:55AM-8:00AM ET | Up | — (100¢) | $15,984 | — | ⏳ Pendiente |
-| 0x427c…e8b5 | Bitcoin Up or Down - August 11, 7:55AM-8:00AM ET | Up | — (100¢) | $44,955 | — | ⏳ Pendiente |
-| 0x7b84…940f | Bitcoin Up or Down - August 11, 7:55AM-8:00AM ET | Up | — (100¢) | $34,116 | — | ⏳ Pendiente |
 | ThornyDevil | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | 1.67 (60¢) | $10,680 | — | ⏳ Pendiente |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: Hanwha Life Esports vs DN SOOPers - Game 2 Winner | DN SOOPers | — (100¢) | $14,892 | — | ⏳ Pendiente |
-| -Malfunction | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | — (100¢) | $20,436 | — | ⏳ Pendiente |
-| 0x3b63B79D5D00A254ff0105792e04984F64654AcD-1768687235269 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | — (100¢) | $17,985 | — | ⏳ Pendiente |
-| hd777 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | — (100¢) | $13,111 | — | ⏳ Pendiente |
-| 0xA7614974FAca5Be9A1b809c978d0A8FC532a866B-1777736641378 | Bitcoin Up or Down - August 11, 6:45AM-6:50AM ET | Down | — (100¢) | $19,480 | — | ⏳ Pendiente |
-| degenofweb3 | LoL: Hanwha Life Esports vs DN SOOPers - Game 2 Winner | DN SOOPers | — (100¢) | $11,355 | — | ⏳ Pendiente |
-| Emethod | LoL: Hanwha Life Esports vs DN SOOPers - Game 2 Winner | DN SOOPers | — (100¢) | $13,156 | — | ⏳ Pendiente |
-| LUCKYME001 | LoL: Hanwha Life Esports vs DN SOOPers - Game 2 Winner | DN SOOPers | — (100¢) | $18,941 | — | ⏳ Pendiente |
-| five5120 | LoL: Hanwha Life Esports vs DN SOOPers - Game 2 Winner | DN SOOPers | — (100¢) | $34,164 | — | ⏳ Pendiente |
-| Emethod | LoL: Hanwha Life Esports vs DN SOOPers - Game 2 Winner | DN SOOPers | — (100¢) | $14,845 | — | ⏳ Pendiente |
-| Weaseloftheweek | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | — (100¢) | $57,141 | — | ⏳ Pendiente |
-| cc9999 | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | — (100¢) | $24,975 | — | ⏳ Pendiente |
-| owomvvssuv | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | 1.01 (99¢) | $10,127 | — | ⏳ Pendiente |
-| -Malfunction | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | 1.01 (99¢) | $19,800 | — | ⏳ Pendiente |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | 1.01 (99¢) | $39,600 | — | ⏳ Pendiente |
 | backback | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | 1.09 (92¢) | $10,473 | — | ⏳ Pendiente |
-| Orlandxx | Valorant: JD Gaming vs EDward Gaming (BO3) - VCT China Stage 2 Play-Ins | JD Gaming | — (100¢) | $13,007 | — | ⏳ Pendiente |
-| degenofweb3 | Game Handicap: HLE (-2.5) vs DN SOOPers (+2.5) | DN SOOPers | — (100¢) | $14,985 | — | ⏳ Pendiente |
-| five5120 | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | DN SOOPers | — (100¢) | $12,178 | — | ⏳ Pendiente |
-| -Malfunction | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | DN SOOPers | — (100¢) | $12,178 | — | ⏳ Pendiente |
-| -Malfunction | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 1 Winner | Kiwoom DRX Challengers | — (100¢) | $12,488 | — | ⏳ Pendiente |
-| -Malfunction | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | DN SOOPers | — (100¢) | $11,266 | — | ⏳ Pendiente |
-| -Malfunction | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | DN SOOPers | — (100¢) | $19,980 | — | ⏳ Pendiente |
 | 0x076d…8d4c | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.10 (91¢) | $11,037 | — | ⏳ Pendiente |
-| 467j6yj | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | DN SOOPers | 1.01 (99¢) | $15,858 | — | ⏳ Pendiente |
-| cc9999 | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner | BNK FearX Youth | — (100¢) | $31,864 | — | ⏳ Pendiente |
-| zvon3 | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner | BNK FearX Youth | — (100¢) | $109,790 | — | ⏳ Pendiente |
-| bajacaligold | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner | BNK FearX Youth | — (100¢) | $78,022 | — | ⏳ Pendiente |
-| avonking | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner | BNK FearX Youth | — (100¢) | $60,140 | — | ⏳ Pendiente |
-| landighertz | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner | BNK FearX Youth | — (100¢) | $69,630 | — | ⏳ Pendiente |
-| ilushin | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner | BNK FearX Youth | — (100¢) | $39,560 | — | ⏳ Pendiente |
-| littlelonely888 | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner | BNK FearX Youth | — (100¢) | $70,929 | — | ⏳ Pendiente |
-| c4a759e5c9350491AF61646f2c4A46 | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner | BNK FearX Youth | — (100¢) | $24,961 | — | ⏳ Pendiente |
-| backback | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner | BNK FearX Youth | 1.01 (99¢) | $18,610 | — | ⏳ Pendiente |
 | 999999666544332578855667788 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.32 (76¢) | $10,640 | — | ⏳ Pendiente |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.28 (78¢) | $11,063 | — | ⏳ Pendiente |
-| -Malfunction | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 1 Winner | Kiwoom DRX Challengers | — (100¢) | $45,168 | — | ⏳ Pendiente |
-| -Malfunction | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 1 Winner | Kiwoom DRX Challengers | — (100¢) | $49,950 | — | ⏳ Pendiente |
 | mpyh | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.33 (75¢) | $10,968 | — | ⏳ Pendiente |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.39 (72¢) | $10,570 | — | ⏳ Pendiente |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.41 (71¢) | $10,492 | — | ⏳ Pendiente |
 | Lakersfan111 | Game Handicap: HLE (-2.5) vs DN SOOPers (+2.5) | DN SOOPers | 1.54 (65¢) | $17,024 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | Hanwha Life Esports | 1.41 (71¢) | $17,114 | — | ⏳ Pendiente |
+| retroactivesource | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | Hanwha Life Esports | 1.23 (81¢) | $54,960 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | Hanwha Life Esports | 1.25 (80¢) | $13,159 | — | ⏳ Pendiente |
+| scottilicious | Will Ralph Norman be the new Republican nominee for Senate in South Carolina? | No | 1.28 (78¢) | $11,672 | — | ⏳ Pendiente |
