@@ -61415,5 +61415,52 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786421023.4517248,
     "fills": 1
+  },
+  {
+    "timestamp": 1786421342,
+    "timestamp_added": 1786421343.1253753,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-hou-sf-2026-08-10-total-7pt5",
+    "title": "Houston Astros vs. San Francisco Giants: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 210.7,
+    "whale_pct": 0.118,
+    "paper_stake_usd": 0.34,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786421343.1253827,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786421392,
+    "timestamp_added": 1786421393.4387872,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-hou-sf-2026-08-10-total-7pt5",
+    "title": "Houston Astros vs. San Francisco Giants: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 159.55999899999998,
+    "whale_pct": 0.112,
+    "paper_stake_usd": 0.32,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786421393.4387956,
+    "fills": 1
   }
 ]

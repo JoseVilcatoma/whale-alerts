@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:08:54 (hora de Perú)
+Actualizado: 2026-08-10 23:11:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $283.65
@@ -39,12 +39,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 25 | 17 | 10 | -3.90 USD |
+| swisstony | 25 | 17 | 11 | -3.90 USD |
 | UpTheBlues | 147 | 98 | 15 | -6.90 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 159 | 88 | 5 | -23.33 USD |
+| RN1 | 159 | 88 | 6 | -23.33 USD |
 | quavoo | 128 | 157 | 21 | -40.03 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -325,7 +325,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-tor-atl-2026-08-10-total-186pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-10-spread-away-1pt5 | HomeRunHazard, RN1 |
 | wnba-tor-atl-2026-08-10 | HomeRunHazard, ferrariChampions2026 |
-| mlb-hou-sf-2026-08-10-total-7pt5 | HomeRunHazard, ferrariChampions2026 |
+| mlb-hou-sf-2026-08-10-total-7pt5 | HomeRunHazard, RN1, ferrariChampions2026, swisstony |
 | bra3-psc-con-2026-08-10-psc | RN1, UpTheBlues |
 | wnba-chi-sea-2026-08-10 | HomeRunHazard, ferrariChampions2026, monkeymashingkeyboard, quavoo, swisstony |
 | wnba-chi-sea-2026-08-10-total-179pt5 | UpTheBlues, ferrariChampions2026 |
@@ -350,6 +350,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 53% | 0.32 | ⏳ pendiente | — |
+| RN1 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 49% | 0.34 | ⏳ pendiente | — |
 | swisstony | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 63% | 1.09 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 92% | 1.79 | ⏳ pendiente | — |
 | swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 72% | 0.52 | ⏳ pendiente | — |
@@ -378,5 +380,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 45% | 1.29 | ✅ ganada | +1.58 |
 | ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 45% | 1.47 | ✅ ganada | +1.80 |
 | HomeRunHazard | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 76% | 0.43 | ⏳ pendiente | — |
-| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 46% | 0.96 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Arizona Diamondbacks (-6.5) | Colorado Rockies (BUY) | 28% | 0.36 | ⏳ pendiente | — |
