@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 16:11:46 (hora de Perú)
+Actualizado: 2026-08-11 16:13:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $349.47
-**Retorno acumulado:** -65.05%
+**Bankroll actual:** $349.36
+**Retorno acumulado:** -65.06%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -34,9 +34,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
-| UpTheBlues | 208 | 131 | 57 | -0.10 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
+| UpTheBlues | 208 | 132 | 56 | -0.46 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 106 | 94 | 20 | -31.80 USD |
+| swisstony | 108 | 94 | 18 | -31.55 USD |
 | RN1 | 173 | 99 | 5 | -33.33 USD |
 | quavoo | 151 | 181 | 12 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
