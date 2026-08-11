@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 16:49:26 (hora de Perú)
+Actualizado: 2026-08-11 16:51:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **45**  ($807,820 en total)
+- Apuestas registradas: **46**  ($819,097 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 31
-- Apostadores distintos: 25
+- Pendientes: 32
+- Apostadores distintos: 26
 
 ### Balance
 
@@ -41,6 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 0 | 1 | 0 | ⚠️ 0% (1) | $14,667 | -$14,667 |
 | kkookkoo | 0 | 0 | 1 | — | $11,562 | — |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | — | $11,356 | — |
+| ExplosiveNinja | 0 | 0 | 1 | — | $11,277 | — |
 | dv-pm | 0 | 0 | 1 | — | $11,147 | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 0 | 0 | 1 | — | $11,107 | — |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 1 | 0 | 0 | ⚠️ 100% (1) | $11,063 | +$3,120 |
@@ -54,6 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.89 (53¢) | $11,277 | — | ⏳ Pendiente |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.59 (63¢) | $20,000 | — | ⏳ Pendiente |
 | SDTrading | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Under 6.5 | 2.33 (43¢) | $17,200 | — | ⏳ Pendiente |
 | pleaseplease123 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Over 6.5 | 1.75 (57¢) | $22,800 | — | ⏳ Pendiente |
