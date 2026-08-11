@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:58:41 (hora de Perú)
+Actualizado: 2026-08-11 00:00:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $327.50
@@ -19,11 +19,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | wr0ngw4yb3tt0r | 51 | 48 | 1 | +33.42 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| HomeRunHazard | 86 | 77 | 12 | +25.93 USD |
+| HomeRunHazard | 86 | 77 | 13 | +25.93 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
-| 0x4f2 | 14 | 13 | 0 | +17.00 USD |
+| 0x4f2 | 14 | 13 | 1 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | lzh1 | 5 | 0 | 0 | +3.08 USD |
@@ -346,11 +346,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-col-ari-2026-08-10-total-8pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-kc-lad-2026-08-10-spread-home-2pt5 | HomeRunHazard, swisstony |
 | mlb-tex-laa-2026-08-10-spread-home-1pt5 | HomeRunHazard, swisstony |
+| ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0x4f2 | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 53% | 0.57 | ⏳ pendiente | — |
+| HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 32% | 1.61 | ⏳ pendiente | — |
 | UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 23% | 1.31 | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 63% | 2.38 | ⏳ pendiente | — |
 | UpTheBlues | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 55% | 0.45 | ⏳ pendiente | — |
@@ -379,5 +382,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will FK Crvena zvezda vs. MH Hapoel Be'e | No (BUY) | 85% | 0.60 | ⏳ pendiente | — |
 | swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 54% | 0.32 | ✅ ganada | +0.27 |
 | swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 53% | 0.32 | ✅ ganada | +0.28 |
-| RN1 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 49% | 0.34 | ❌ perdida | -0.34 |
-| swisstony | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 63% | 1.09 | ✅ ganada | +0.64 |
