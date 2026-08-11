@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 08:16:48 (hora de Perú)
+Actualizado: 2026-08-11 08:18:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $335.77
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | dv-pm | 0 | 0 | 3 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 8 | +0.00 USD |
-| Weaseloftheweek | 0 | 0 | 3 | +0.00 USD |
+| Weaseloftheweek | 0 | 0 | 4 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -43,12 +43,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 34 | 25 | 1 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 100 | 61 | -7.44 USD |
+| UpTheBlues | 151 | 100 | 62 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
 | BrotherObama | 7 | 3 | 0 | -24.77 USD |
-| quavoo | 136 | 166 | 22 | -30.64 USD |
+| quavoo | 136 | 166 | 23 | -30.64 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -350,6 +350,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-10-spread-home-2pt5 | HomeRunHazard, swisstony |
 | mlb-tex-laa-2026-08-10-spread-home-1pt5 | HomeRunHazard, swisstony |
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
+| ucl-nec-oly-2026-08-11-total-2pt5 | UpTheBlues, quavoo |
 | clf-pal-juv-2026-08-11-juv | ferrariChampions2026, quavoo, swisstony |
 | lol-hle1-dnf-2026-08-11 | BBQChickenisthebesttt, BrotherObama, Lakersfan111, ferrariChampions2026 |
 | lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
@@ -360,6 +361,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | NEC vs. Olympiakós SFP: O/U 2.5 | Over (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| Weaseloftheweek | Dota 2: MOUZ vs Rune Eaters - Game 2 Win | MOUZ (BUY) | 64% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Dota 2: MOUZ vs Rune Eaters - Game 2 Win | MOUZ (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 46% | 0.00 | ⏳ pendiente | — |
@@ -387,6 +391,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 36% | 8.79 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 36% | 2.78 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 36% | 0.64 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 36% | 0.38 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 36% | 1.01 | ⏳ pendiente | — |
-| lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 0.87 | ⏳ pendiente | — |
