@@ -1,5 +1,5 @@
 {
-  "bankroll": 250.08812913134636,
+  "bankroll": 249.70812913134637,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13000,6 +13000,11 @@
       "timestamp": 1786414710.1337798,
       "bankroll": 250.09,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Toronto Blue Jays (-1.5)"
+    },
+    {
+      "timestamp": 1786415441.3407173,
+      "bankroll": 249.71,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
     }
   ]
 }
