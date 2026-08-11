@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 12:32:02 (hora de Perú)
+Actualizado: 2026-08-11 12:34:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $351.41
@@ -40,9 +40,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 54 | 37 | 103 | -3.44 USD |
+| swisstony | 54 | 37 | 107 | -3.44 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 154 | 103 | 78 | -8.78 USD |
+| UpTheBlues | 154 | 103 | 79 | -8.78 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | BrotherObama | 7 | 3 | 2 | -24.77 USD |
@@ -369,6 +369,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-sf-agf-2026-08-11-agf | UpTheBlues, dv-pm, swisstony |
 | lol-hle1-dnf-2026-08-11-game3 | BrotherObama, lzh1 |
 | lol-nsea-dkc-2026-08-11-game2 | BBQChickenisthebesttt, lzh1 |
+| col-csk1-pao-2026-08-11-pao | UpTheBlues, swisstony |
 | ucl-kai-pls-2026-08-11-total-0pt5 | quavoo, swisstony |
 | wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-1pt5 | RN1, UpTheBlues, swisstony |
@@ -382,6 +383,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-sf-agf-2026-08-11-btts | UpTheBlues, swisstony |
 | ucl-sf-agf-2026-08-11-sf | UpTheBlues, swisstony |
 | uel-sab-lar-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
+| ucl-sf-agf-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | ucl-nec-oly-2026-08-11-nec | UpTheBlues, quavoo |
 | col-al-bra-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 | ucl-nec-oly-2026-08-11-oly | UpTheBlues, swisstony |
@@ -391,6 +393,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Panathinaikós AO win on 2026-08-11? | No (BUY) | 45% | 0.41 | ⏳ pendiente | — |
+| UpTheBlues | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 46% | 1.05 | ⏳ pendiente | — |
+| swisstony | Will SK Iberia 1999 win on 2026-08-11? | Yes (BUY) | 24% | 0.42 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | Yes (BUY) | 26% | 0.40 | ⏳ pendiente | — |
+| swisstony | Spread: Sabah FK (-1.5) | Sabah FK (BUY) | 81% | 0.58 | ⏳ pendiente | — |
 | UpTheBlues | Will CDPJuniorFC win on 2026-08-10? | Yes (BUY) | 68% | 1.05 | ⏳ pendiente | — |
 | swisstony | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Over (BUY) | 91% | 0.40 | ⏳ pendiente | — |
 | swisstony | Al Jazira (UAE) vs. Al-Ittihad Club: O/U | Over (BUY) | 98% | 0.35 | ⏳ pendiente | — |
@@ -416,8 +423,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Sabah FK win on 2026-08-11? | Yes (BUY) | 82% | 1.80 | ⏳ pendiente | — |
 | swisstony | Apóllon Lemesoú vs. SK Brann: O/U 4.5 | Under (BUY) | 80% | 0.57 | ⏳ pendiente | — |
 | swisstony | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 83% | 1.05 | ⏳ pendiente | — |
-| swisstony | Will Olympiakós SFP win on 2026-08-11? | No (BUY) | 68% | 0.49 | ⏳ pendiente | — |
-| UpTheBlues | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 69% | 0.63 | ⏳ pendiente | — |
-| swisstony | Will Apóllon Lemesoú win on 2026-08-11? | No (BUY) | 77% | 0.38 | ⏳ pendiente | — |
-| UpTheBlues | SK Iberia 1999 vs. Larne FC: O/U 2.5 | Under (BUY) | 97% | 0.79 | ⏳ pendiente | — |
-| UpTheBlues | Will Aarhus GF win on 2026-08-11? | No (BUY) | 96% | 2.05 | ⏳ pendiente | — |
