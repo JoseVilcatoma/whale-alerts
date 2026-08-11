@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 16:57:42 (hora de Perú)
+Actualizado: 2026-08-11 16:59:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **47**  ($846,157 en total)
+- Apuestas registradas: **49**  ($1,026,157 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 33
+- Pendientes: 35
 - Apostadores distintos: 27
 
 ### Balance
@@ -24,8 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 3 | — | $128,015 | — |
 | SDTrading | 0 | 0 | 6 | — | $121,629 | — |
 | AV23IUa | 0 | 0 | 2 | — | $104,685 | — |
+| BreakTheBank | 0 | 0 | 2 | — | $101,307 | — |
 | theowalcott | 0 | 0 | 6 | — | $89,215 | — |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
 | pleaseplease123 | 0 | 0 | 2 | — | $50,084 | — |
@@ -33,10 +35,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 0 | 0 | 3 | — | $39,880 | — |
 | TAIWANNUMBERONE | 0 | 2 | 0 | ⚠️ 0% (2) | $30,272 | -$30,272 |
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $29,744 | +$9,167 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 2 | — | $27,215 | — |
 | BaccaratRoulette | 0 | 0 | 1 | — | $27,060 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
-| BreakTheBank | 0 | 0 | 1 | — | $22,107 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 2 | 0 | 0 | ⚠️ 100% (2) | $21,062 | +$8,396 |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | 0 | 0 | 1 | — | $20,000 | — |
 | Weaseloftheweek | 0 | 1 | 0 | ⚠️ 0% (1) | $14,667 | -$14,667 |
@@ -56,6 +56,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.79 (56¢) | $100,800 | — | ⏳ Pendiente |
+| BreakTheBank | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.27 (44¢) | $79,200 | — | ⏳ Pendiente |
 | BaccaratRoulette | National Bank Open: Jakub Mensik vs Ben Shelton | Jakub Mensik | 2.33 (43¢) | $27,060 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.89 (53¢) | $11,277 | — | ⏳ Pendiente |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.59 (63¢) | $20,000 | — | ⏳ Pendiente |
