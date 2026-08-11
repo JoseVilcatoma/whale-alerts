@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 01:26:20 (hora de Perú)
+Actualizado: 2026-08-11 01:28:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 34 | 25 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 100 | 40 | -7.44 USD |
+| UpTheBlues | 151 | 100 | 43 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
@@ -353,6 +353,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 38% | 0.58 | ⏳ pendiente | — |
+| UpTheBlues | Will Recoleta FC win on 2026-08-11? | No (BUY) | 94% | 16.45 | ⏳ pendiente | — |
+| UpTheBlues | CA Boca Juniors vs. Recoleta FC: Recolet | Over (BUY) | 41% | 0.80 | ⏳ pendiente | — |
 | UpTheBlues | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 38% | 2.31 | ⏳ pendiente | — |
 | UpTheBlues | Will FK Bodø/Glimt vs. RU Saint-Gilloise | Yes (BUY) | 21% | 3.45 | ⏳ pendiente | — |
 | quavoo | Will Melbourne City FC win on 2026-08-11 | Yes (BUY) | 60% | 0.33 | ⏳ pendiente | — |
@@ -380,6 +383,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will RU Saint-Gilloise win on 2026-08-11 | No (BUY) | 81% | 0.67 | ⏳ pendiente | — |
 | quavoo | Palermo FC vs. Juventus Turin: O/U 2.5 | Over (BUY) | 61% | 0.46 | ⏳ pendiente | — |
 | quavoo | Palermo FC vs. Juventus Turin: O/U 2.5 | Over (BUY) | 61% | 0.40 | ⏳ pendiente | — |
-| 0x4f2 | Spread: Texas Rangers (-2.5) | Texas Rangers (BUY) | 91% | 1.31 | ✅ ganada | +0.13 |
-| UpTheBlues | Will Recoleta FC win on 2026-08-11? | No (BUY) | 94% | 0.47 | ⏳ pendiente | — |
-| UpTheBlues | CA Boca Juniors vs. Recoleta FC: CA Boca | Under (BUY) | 57% | 0.81 | ⏳ pendiente | — |
