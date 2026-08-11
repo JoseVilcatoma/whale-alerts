@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 06:37:23 (hora de Perú)
+Actualizado: 2026-08-11 06:39:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $334.96
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 34 | 25 | 1 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 100 | 54 | -7.44 USD |
+| UpTheBlues | 151 | 100 | 55 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
@@ -358,6 +358,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 96% | 1.35 | ⏳ pendiente | — |
 | UpTheBlues | Will Qairat FK vs. PFK Levski Sofia end  | Yes (BUY) | 30% | 0.67 | ⏳ pendiente | — |
 | lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 27.81 | ⏳ pendiente | — |
 | lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 2.31 | ⏳ pendiente | — |
@@ -387,4 +388,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 57% | 14.34 | 💰 vendida anticipada | +10.57 |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 61% | 45.82 | 💰 vendida anticipada | +28.54 |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 61% | 65.52 | 💰 vendida anticipada | +40.82 |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 59% | 0.00 | 💰 vendida anticipada | +0.00 |
