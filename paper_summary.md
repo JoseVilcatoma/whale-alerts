@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:39:07 (hora de Perú)
+Actualizado: 2026-08-11 17:41:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| Sassy-Bucket | 0 | 0 | 7 | +0.00 USD |
+| Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | donthackme | 0 | 0 | 9 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 122 | 97 | 22 | -28.98 USD |
+| swisstony | 122 | 97 | 25 | -28.98 USD |
 | RN1 | 173 | 99 | 23 | -33.33 USD |
 | quavoo | 151 | 181 | 17 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -387,6 +387,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-pit-mia-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-2pt5 | RN1, swisstony |
 | ucl-kai-pls-2026-08-11-pls | RN1, swisstony |
+| mlb-pit-mia-2026-08-11-total-6pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-nym-atl-2026-08-11-total-8pt5 | HomeRunHazard, Sassy-Bucket, quavoo |
 | mlb-phi-stl-2026-08-11-total-7pt5 | HomeRunHazard, SDTrading |
 | ucl-sf-agf-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
@@ -420,12 +421,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lib-flu-cir-2026-08-11-total-2pt5 | RN1, UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-total-1pt5 | RN1, UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-cir | RN1, UpTheBlues, swisstony |
+| lib-flu-cir-2026-08-11-draw | RN1, swisstony |
 | lib-flu-cir-2026-08-11-first-half-total-1pt5 | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Avaí FC vs. CR Brasil end in a draw | Yes (BUY) | 31% | 0.00 | ⏳ pendiente | — |
+| swisstony | Spread: Fluminense FC (-1.5) | CS Independiente Rivadavia (BUY) | 84% | 0.00 | ⏳ pendiente | — |
+| Sassy-Bucket | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| Sassy-Bucket | New York Mets vs. Atlanta Braves: O/U 8. | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| Sassy-Bucket | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will Fluminense FC vs. CS Independiente  | Yes (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | Sassy-Bucket | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
@@ -450,9 +458,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will CA Boca Juniors vs. Recoleta FC end | No (BUY) | 78% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Boca Juniors win on 2026-08-11? | No (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | donthackme | Will annual inflation be 3.6% in July? | No (BUY) | 97% | 0.00 | ⏳ pendiente | — |
-| donthackme | Will annual inflation be 3.4% in July? | No (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| donthackme | Will annual inflation be 3.7% in July? | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| donthackme | Will annual inflation be 3.1% or less in | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
-| donthackme | Will annual inflation be 3.9% in July? | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
-| donthackme | Will annual inflation be 3.3% in July? | No (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| donthackme | Will annual inflation be 3.2% in July? | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
