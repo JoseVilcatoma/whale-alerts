@@ -10,7 +10,7 @@
     "side": "BUY",
     "usd": 27172.8,
     "odds_at_bet": 100,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 33193,
@@ -23,7 +23,7 @@
     "side": "BUY",
     "usd": 14985.0,
     "odds_at_bet": 100,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 33194,
@@ -49,7 +49,7 @@
     "side": "BUY",
     "usd": 10079.905,
     "odds_at_bet": 100,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 33216,
