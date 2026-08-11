@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 10:51:42 (hora de Perú)
+Actualizado: 2026-08-11 10:53:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $340.35
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 13 | -4.23 USD |
+| swisstony | 35 | 25 | 18 | -4.23 USD |
 | Lakersfan111 | 2 | 4 | 2 | -4.76 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 13 | -20.90 USD |
 | BrotherObama | 7 | 3 | 0 | -24.77 USD |
-| quavoo | 142 | 173 | 14 | -30.91 USD |
+| quavoo | 142 | 173 | 15 | -30.91 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -367,6 +367,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: FK Bodø/Glimt (-2.5) | RU Saint-Gilloise (BUY) | 84% | 1.16 | ⏳ pendiente | — |
+| swisstony | Will Olympique Lyonnais win on 2026-08-1 | Yes (BUY) | 70% | 0.58 | ⏳ pendiente | — |
+| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Over (BUY) | 35% | 0.43 | ⏳ pendiente | — |
+| quavoo | FK Bodø/Glimt vs. RU Saint-Gilloise: O/U | Over (BUY) | 97% | 2.55 | ⏳ pendiente | — |
+| swisstony | Spread: PFK Levski Sofia (-1.5) | PFK Levski Sofia (BUY) | 25% | 0.45 | ⏳ pendiente | — |
+| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Over (BUY) | 35% | 1.27 | ⏳ pendiente | — |
 | quavoo | Spread: Sabah FK (-1.5) | Aarhus GF (BUY) | 75% | 0.34 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Las Vegas Aces (-7.5) | Las Vegas Aces (BUY) | 44% | 0.43 | ⏳ pendiente | — |
 | quavoo | Spread: FK Bodø/Glimt (-1.5) | RU Saint-Gilloise (BUY) | 68% | 0.00 | ⏳ pendiente | — |
@@ -391,9 +397,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Qairat FK vs. PFK Levski Sofia: 1st Half | Under (BUY) | 48% | 0.52 | ⏳ pendiente | — |
 | HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 48% | 0.96 | ⏳ pendiente | — |
 | dv-pm | Sabah FK vs. Aarhus GF: 1st Half O/U 1.5 | Over (BUY) | 39% | 1.14 | ⏳ pendiente | — |
-| HomeRunHazard | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 56% | 9.64 | ⏳ pendiente | — |
-| RN1 | Qairat FK vs. PFK Levski Sofia: 1st Half | Under (BUY) | 82% | 0.63 | ⏳ pendiente | — |
-| RN1 | Will PFK Levski Sofia win on 2026-08-11? | No (BUY) | 64% | 2.60 | ⏳ pendiente | — |
-| RN1 | Qairat FK vs. PFK Levski Sofia: 1st Half | Under (BUY) | 81% | 11.76 | ⏳ pendiente | — |
-| RN1 | Will Qairat FK win on 2026-08-11? | Yes (BUY) | 30% | 0.43 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Over (BUY) | 32% | 0.50 | ⏳ pendiente | — |
