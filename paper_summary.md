@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 01:45:01 (hora de Perú)
+Actualizado: 2026-08-11 01:47:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 34 | 25 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 100 | 46 | -7.44 USD |
+| UpTheBlues | 151 | 100 | 47 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
@@ -353,6 +353,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will FC Cincinnati win on 2026-08-11? | No (BUY) | 35% | 0.36 | ⏳ pendiente | — |
 | UpTheBlues | Will Qairat FK win on 2026-08-11? | No (BUY) | 63% | 0.93 | ⏳ pendiente | — |
 | UpTheBlues | Will SK Brann win on 2026-08-11? | No (BUY) | 69% | 2.06 | ⏳ pendiente | — |
 | UpTheBlues | Will Apóllon Lemesoú win on 2026-08-11? | Yes (BUY) | 41% | 0.54 | ⏳ pendiente | — |
@@ -382,4 +383,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 56% | 0.48 | ⏳ pendiente | — |
 | quavoo | Will FK Bodø/Glimt win on 2026-08-11? | Yes (BUY) | 60% | 0.45 | ⏳ pendiente | — |
 | quavoo | Games Total: O/U 3.5 | Under (BUY) | 40% | 0.43 | ⏳ pendiente | — |
-| 0x4f2 | Will CDPJuniorFC win on 2026-08-10? | No (BUY) | 26% | 0.68 | 💰 vendida anticipada | +0.03 |
