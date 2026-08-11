@@ -1,5 +1,5 @@
 {
-  "bankroll": 250.43672562257441,
+  "bankroll": 248.5367256225744,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12970,6 +12970,16 @@
       "timestamp": 1786413760.348848,
       "bankroll": 250.44,
       "event": "lost: RN1 \u2014 Will Libertad Loja vs. CD Universidad Catolica del Ecuador end in a draw?"
+    },
+    {
+      "timestamp": 1786414068.1663113,
+      "bankroll": 250.12,
+      "event": "lost: UpTheBlues \u2014 Will Libertad Loja win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786414068.2664993,
+      "bankroll": 248.54,
+      "event": "lost: RN1 \u2014 Will Libertad Loja win on 2026-08-10?"
     }
   ]
 }

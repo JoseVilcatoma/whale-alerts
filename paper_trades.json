@@ -56674,8 +56674,8 @@
     "whale_pct": 0.172,
     "paper_stake_usd": 0.32,
     "odds_at_bet": 14,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.32,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786403909.4663522,
@@ -56694,8 +56694,8 @@
     "whale_pct": 0.843,
     "paper_stake_usd": 1.58,
     "odds_at_bet": 14,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.58,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -58456,6 +58456,54 @@
     ],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786413998.1542563,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786414039,
+    "timestamp_added": 1786414039.3864198,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-kc-lad-2026-08-10-total-7pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 854.7,
+    "whale_pct": 0.188,
+    "paper_stake_usd": 0.47,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Bulls94",
+      "HomeRunHazard",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786414039.3864274,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786414091,
+    "timestamp_added": 1786414091.5974343,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-kc-lad-2026-08-10-total-7pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1409.65,
+    "whale_pct": 0.311,
+    "paper_stake_usd": 0.77,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Bulls94",
+      "HomeRunHazard",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786414091.5974422,
     "fills": 1
   }
 ]
