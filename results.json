@@ -193,5 +193,18 @@
     "usd": 10640.0,
     "odds_at_bet": 76,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33283,
+    "timestamp": 1786440341,
+    "username": "backback",
+    "wallet": "0x996ac56c9e72b6ca38a30ae9f6e85152d9afe3cc",
+    "slug": "lol-drxc-foxy-2026-08-11-game2",
+    "title": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner",
+    "outcome": "BNK FearX Youth",
+    "side": "BUY",
+    "usd": 18609.7743,
+    "odds_at_bet": 99,
+    "status": "pending"
   }
 ]
