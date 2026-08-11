@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 08:24:56 (hora de Perú)
+Actualizado: 2026-08-11 08:26:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $335.77
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 16 | 13 | 4 | +17.16 USD |
-| HomeRunHazard | 93 | 83 | 10 | +15.57 USD |
+| HomeRunHazard | 93 | 83 | 13 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | lzh1 | 5 | 0 | 8 | +3.08 USD |
@@ -361,6 +361,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Indiana Fever (-4.5) | New York Liberty (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Indiana Fever (-3.5) | New York Liberty (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago White Sox (-2.5) | Cincinnati Reds (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | quavoo | Sabah FK vs. Aarhus GF: O/U 2.5 | Over (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | quavoo | FK Bodø/Glimt vs. RU Saint-Gilloise: O/U | Over (BUY) | 39% | 0.00 | ⏳ pendiente | — |
@@ -388,6 +391,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 58% | 40.47 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 58% | 48.48 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Under (BUY) | 61% | 3.04 | ⏳ pendiente | — |
-| UpTheBlues | Spread: CD Universidad Católica (-1.5) | Estudiantes de La Plata (BUY) | 96% | 0.56 | ⏳ pendiente | — |
-| lzh1 | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 49% | 17.70 | ⏳ pendiente | — |
-| UpTheBlues | Will Qairat FK vs. PFK Levski Sofia end  | Yes (BUY) | 30% | 0.64 | ⏳ pendiente | — |
