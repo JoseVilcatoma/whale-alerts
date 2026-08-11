@@ -206,5 +206,18 @@
     "usd": 27284.250600000003,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33394,
+    "timestamp": 1786454180,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "dota2-mouz-re-2026-08-11-game2",
+    "title": "Dota 2: MOUZ vs Rune Eaters - Game 2 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 14666.52,
+    "odds_at_bet": 66,
+    "status": "pending"
   }
 ]
