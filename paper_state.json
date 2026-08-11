@@ -1,5 +1,5 @@
 {
-  "bankroll": 349.28964823341795,
+  "bankroll": 349.46655763547665,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -16200,6 +16200,21 @@
       "timestamp": 1786482563.171419,
       "bankroll": 349.29,
       "event": "won: UpTheBlues \u2014 Olympique Lyonnais vs. AC Sparta Praha: O/U 3.5"
+    },
+    {
+      "timestamp": 1786482623.852864,
+      "bankroll": 349.33,
+      "event": "won: RN1 \u2014 Olympique Lyonnais vs. AC Sparta Praha: O/U 4.5"
+    },
+    {
+      "timestamp": 1786482624.2535608,
+      "bankroll": 349.45,
+      "event": "won: RN1 \u2014 Olympique Lyonnais vs. AC Sparta Praha: O/U 4.5"
+    },
+    {
+      "timestamp": 1786482625.0176518,
+      "bankroll": 349.47,
+      "event": "won: RN1 \u2014 Olympique Lyonnais vs. AC Sparta Praha: O/U 4.5"
     }
   ]
 }
