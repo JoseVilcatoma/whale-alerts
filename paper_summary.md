@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 01:32:33 (hora de Perú)
+Actualizado: 2026-08-11 01:34:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
-| quavoo | 136 | 166 | 14 | -30.64 USD |
+| quavoo | 136 | 166 | 15 | -30.64 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -353,6 +353,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Juventus Turin win on 2026-08-11? | Yes (BUY) | 69% | 2.59 | ⏳ pendiente | — |
 | UpTheBlues | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 38% | 0.58 | ⏳ pendiente | — |
 | UpTheBlues | Will Recoleta FC win on 2026-08-11? | No (BUY) | 94% | 16.45 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: Recolet | Over (BUY) | 41% | 0.80 | ⏳ pendiente | — |
@@ -382,4 +383,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Palermo FC vs. Juventus Turin: O/U 2.5 | Over (BUY) | 61% | 1.08 | ⏳ pendiente | — |
 | UpTheBlues | Will RU Saint-Gilloise win on 2026-08-11 | No (BUY) | 81% | 0.67 | ⏳ pendiente | — |
 | quavoo | Palermo FC vs. Juventus Turin: O/U 2.5 | Over (BUY) | 61% | 0.46 | ⏳ pendiente | — |
-| quavoo | Palermo FC vs. Juventus Turin: O/U 2.5 | Over (BUY) | 61% | 0.40 | ⏳ pendiente | — |
