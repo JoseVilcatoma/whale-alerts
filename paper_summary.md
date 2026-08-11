@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 02:05:59 (hora de Perú)
+Actualizado: 2026-08-11 02:08:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 34 | 25 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 100 | 50 | -7.44 USD |
+| UpTheBlues | 151 | 100 | 51 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
@@ -353,6 +353,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Qairat FK win on 2026-08-11? | No (BUY) | 64% | 0.52 | ⏳ pendiente | — |
 | UpTheBlues | CA Talleres vs. CA Lanús: O/U 2.5 | Over (BUY) | 34% | 0.71 | ⏳ pendiente | — |
 | quavoo | Will Columbus Crew win on 2026-08-11? | Yes (BUY) | 61% | 3.71 | ⏳ pendiente | — |
 | quavoo | Will Juventus Turin win on 2026-08-11? | Yes (BUY) | 69% | 2.68 | ⏳ pendiente | — |
@@ -382,4 +383,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 55% | 0.40 | ⏳ pendiente | — |
 | UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 91% | 0.53 | ⏳ pendiente | — |
 | 0x4f2 | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 52% | 1.23 | ⏳ pendiente | — |
-| UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Over (BUY) | 97% | 0.72 | ⏳ pendiente | — |
