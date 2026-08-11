@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 13:04:23 (hora de Perú)
+Actualizado: 2026-08-11 13:06:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **19**  ($298,183 en total)
+- Apuestas registradas: **20**  ($308,391 en total)
 - Resueltas: **13** — 9 ganadas / 4 perdidas (**69%** de acierto)
-- Pendientes: 6
-- Apostadores distintos: 15
+- Pendientes: 7
+- Apostadores distintos: 16
 
 ### Balance
 
@@ -39,11 +39,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ThornyDevil | 1 | 0 | 0 | ⚠️ 100% (1) | $10,680 | +$7,120 |
 | 999999666544332578855667788 | 1 | 0 | 0 | ⚠️ 100% (1) | $10,640 | +$3,360 |
 | backback | 1 | 0 | 0 | ⚠️ 100% (1) | $10,473 | +$911 |
+| lava-lava | 0 | 0 | 1 | — | $10,208 | — |
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lava-lava | Will the Democrats win the Texas Senate race in 2026? | Yes | 2.00 (50¢) | $10,208 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Under 6.5 | 2.27 (44¢) | $11,951 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $18,143 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $11,022 | — | ⏳ Pendiente |

@@ -245,5 +245,18 @@
     "usd": 18143.154400000003,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33683,
+    "timestamp": 1786471474,
+    "username": "lava-lava",
+    "wallet": "0x629bc4a1e53e1d475beb7ea3d388791e96dd995a",
+    "slug": "will-the-democrats-win-the-texas-senate-race-in-2026",
+    "title": "Will the Democrats win the Texas Senate race in 2026?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 10207.885,
+    "odds_at_bet": 50,
+    "status": "pending"
   }
 ]
