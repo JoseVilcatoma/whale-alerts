@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 14:48:37 (hora de Perú)
+Actualizado: 2026-08-11 14:50:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $337.00
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 25 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 26 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | dv-pm | 1 | 2 | 6 | -0.92 USD |
-| UpTheBlues | 170 | 111 | 86 | -0.95 USD |
+| UpTheBlues | 170 | 111 | 88 | -0.95 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -407,6 +407,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Spread: Fenerbahçe SK (-1.5) | SK Puntigamer Sturm Graz (BUY) | 91% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | dv-pm | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 45% | 17.20 | ⏳ pendiente | — |
@@ -434,6 +437,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Under (BUY) | 60% | 3.51 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Dana White's Contender Series: Joe Krops | Jon Kunneman (BUY) | 60% | 6.87 | ⏳ pendiente | — |
 | swisstony | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 46% | 0.37 | ⏳ pendiente | — |
-| swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 72% | 0.56 | ⏳ pendiente | — |
-| swisstony | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 69% | 0.38 | ⏳ pendiente | — |
-| swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | No (BUY) | 70% | 0.52 | ⏳ pendiente | — |
