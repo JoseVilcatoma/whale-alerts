@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 11:12:29 (hora de Perú)
+Actualizado: 2026-08-11 11:14:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $364.42
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 56 | -4.23 USD |
+| swisstony | 35 | 25 | 61 | -4.23 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -371,6 +371,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Al Jazira (UAE) vs. Al-Ittihad Club: O/U | Over (BUY) | 100% | 1.40 | ⏳ pendiente | — |
+| swisstony | Will PFK Levski Sofia win on 2026-08-11? | Yes (BUY) | 65% | 1.97 | ⏳ pendiente | — |
+| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 67% | 1.36 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 45% | 0.40 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 49% | 0.61 | ⏳ pendiente | — |
 | swisstony | SK Iberia 1999 vs. Larne FC: O/U 2.5 | Under (BUY) | 69% | 1.09 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 66% | 0.49 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 45% | 0.45 | ⏳ pendiente | — |
@@ -396,8 +401,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 49% | 0.43 | ⏳ pendiente | — |
 | swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 56% | 0.52 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 49% | 0.57 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 42% | 0.67 | ⏳ pendiente | — |
-| swisstony | Will FK Bodø/Glimt win on 2026-08-11? | Yes (BUY) | 57% | 1.12 | ⏳ pendiente | — |
-| swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 55% | 0.98 | ⏳ pendiente | — |
-| swisstony | Spread: SK Iberia 1999 (-1.5) | Larne FC (BUY) | 75% | 1.36 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 42% | 0.73 | ⏳ pendiente | — |
