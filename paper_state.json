@@ -1,5 +1,5 @@
 {
-  "bankroll": 264.90247253863765,
+  "bankroll": 264.95580587197094,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13405,6 +13405,21 @@
       "timestamp": 1786420004.0491126,
       "bankroll": 264.9,
       "event": "won: RN1 \u2014 Paysandu SC PA vs. AD Confianca SE: O/U 2.5"
+    },
+    {
+      "timestamp": 1786420937.0930767,
+      "bankroll": 264.93,
+      "event": "won: UpTheBlues \u2014 Will Deportivo Maldonado win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786420937.193253,
+      "bankroll": 264.96,
+      "event": "won: UpTheBlues \u2014 Will Deportivo Maldonado win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786420937.2934415,
+      "bankroll": 264.96,
+      "event": "won: SnakeBall \u2014 Will Deportivo Maldonado win on 2026-08-10?"
     }
   ]
 }

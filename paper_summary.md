@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:00:34 (hora de Perú)
+Actualizado: 2026-08-10 23:02:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $264.90
-**Retorno acumulado:** -73.51%
+**Bankroll actual:** $264.96
+**Retorno acumulado:** -73.50%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -33,14 +33,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| SnakeBall | 3 | 3 | 4 | +0.00 USD |
+| SnakeBall | 4 | 3 | 3 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 25 | 17 | 9 | -3.90 USD |
-| UpTheBlues | 141 | 95 | 24 | -6.30 USD |
+| UpTheBlues | 143 | 95 | 22 | -6.24 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 560 | 444 | 58 | -150.20 USD |
+| ferrariChampions2026 | 560 | 444 | 59 | -150.20 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -349,6 +349,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 92% | 1.79 | ⏳ pendiente | — |
 | swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 72% | 0.52 | ⏳ pendiente | — |
 | swisstony | Spread: Tampa Bay Rays (-1.5) | Athletics (BUY) | 42% | 0.55 | ⏳ pendiente | — |
 | swisstony | Spread: Arizona Diamondbacks (-7.5) | Colorado Rockies (BUY) | 72% | 0.42 | ⏳ pendiente | — |
@@ -378,4 +379,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 46% | 0.96 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Arizona Diamondbacks (-6.5) | Colorado Rockies (BUY) | 28% | 0.36 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-7.5) | Colorado Rockies (BUY) | 50% | 0.94 | ⏳ pendiente | — |
-| HomeRunHazard | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 60% | 0.58 | ⏳ pendiente | — |
