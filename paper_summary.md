@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 05:59:40 (hora de Perú)
+Actualizado: 2026-08-11 06:01:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $423.02
-**Retorno acumulado:** -57.70%
+**Bankroll actual:** $334.96
+**Retorno acumulado:** -66.50%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,7 +15,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 20 | 7 | 11 | +101.00 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| BrotherObama | 7 | 1 | 2 | +63.29 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | wr0ngw4yb3tt0r | 52 | 48 | 0 | +36.60 USD |
@@ -47,6 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
+| BrotherObama | 7 | 3 | 0 | -24.77 USD |
 | quavoo | 136 | 166 | 22 | -30.64 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -357,9 +357,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| BrotherObama | LoL: Hanwha Life Esports vs DN SOOPers - | Hanwha Life Esports (BUY) | 24% | 37.10 | ⏳ pendiente | — |
+| BrotherObama | LoL: Hanwha Life Esports vs DN SOOPers - | Hanwha Life Esports (BUY) | 24% | 37.10 | 💰 vendida anticipada | -32.46 |
 | lzh1 | LoL: Hanwha Life Esports vs DN SOOPers - | Hanwha Life Esports (BUY) | 23% | 5.37 | ⏳ pendiente | — |
-| BrotherObama | LoL: Hanwha Life Esports vs DN SOOPers - | Hanwha Life Esports (BUY) | 23% | 63.94 | ⏳ pendiente | — |
+| BrotherObama | LoL: Hanwha Life Esports vs DN SOOPers - | Hanwha Life Esports (BUY) | 23% | 63.94 | 💰 vendida anticipada | -55.60 |
 | ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Natus Vincere (BUY) | 54% | 1.03 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Level UP (BUY) | 39% | 0.75 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Natus Vincere (BUY) | 46% | 0.92 | ⏳ pendiente | — |
