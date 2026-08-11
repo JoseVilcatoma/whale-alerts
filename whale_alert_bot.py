@@ -55,6 +55,11 @@ TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
 WHALE_THRESHOLD = float(os.environ.get("WHALE_THRESHOLD", "1000"))
 PUBLICAR_RESULTADOS = os.environ.get("PUBLICAR_RESULTADOS", "1") not in ("0", "false", "no")
 MAX_DIAS_RESOLUCION = float(os.environ.get("MAX_DIAS_RESOLUCION", "2"))  # solo apuestas que resuelven en 1-2 días
+# Ignorar apuestas a resultados ya casi definidos: a 95¢ (cuota 1.05) no se
+# está prediciendo nada, se recoge el último centavo, y eso infla el % de
+# acierto sin decir nada de la habilidad del apostador.
+PRECIO_MAX = float(os.environ.get("PRECIO_MAX", "95"))   # en centavos
+PRECIO_MIN = float(os.environ.get("PRECIO_MIN", "3"))    # el extremo opuesto
 TOP_N = int(os.environ.get("TOP_N", "20"))
 LB_CATEGORY = os.environ.get("LB_CATEGORY", "OVERALL")
 LB_PERIODS = ["WEEK", "MONTH"]
@@ -500,6 +505,14 @@ def on_ws_message(ws, message):
     # El nombre viene en el propio trade; si no, usamos la wallet abreviada
     username = (trade.get("name") or trade.get("pseudonym")
                 or trade.get("userName") or f"{wallet[:6]}…{wallet[-4:]}")
+
+    # Descartar apuestas a resultados ya definidos (cuota ~1.01): no son
+    # predicción, y ensucian el % de acierto de la tabla.
+    precio_c = round((trade.get("price") or 0) * 100)
+    if precio_c >= PRECIO_MAX or precio_c <= PRECIO_MIN:
+        print(f"[omitida] {username}: ${usd:,.0f} a {precio_c}¢ "
+              f"(cuota {a_cuota(precio_c)}) — resultado ya definido")
+        return
 
     # Solo nos interesan apuestas de corta duración: si el mercado resuelve
     # más allá del límite, la ignoramos (nada de "campeón a fin de año").
