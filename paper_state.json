@@ -1,5 +1,5 @@
 {
-  "bankroll": 258.4763116002509,
+  "bankroll": 256.9384046235067,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13350,6 +13350,16 @@
       "timestamp": 1786417513.775553,
       "bankroll": 258.48,
       "event": "won: ferrariChampions2026 \u2014 LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1786417763.2793398,
+      "bankroll": 256.89,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Philadelphia Phillies (-2.5)"
+    },
+    {
+      "timestamp": 1786417763.3795993,
+      "bankroll": 256.94,
+      "event": "won: HomeRunHazard \u2014 Spread: Philadelphia Phillies (-2.5)"
     }
   ]
 }
