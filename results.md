@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 00:27:26 (hora de Perú)
+Actualizado: 2026-08-11 00:29:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6**  ($71,956 en total)
+- Apuestas registradas: **7**  ($82,045 en total)
 - Resueltas: **5** — 3 ganadas / 2 perdidas (**60%** de acierto)
-- Pendientes: 1
-- Apostadores distintos: 6
+- Pendientes: 2
+- Apostadores distintos: 7
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -23,11 +23,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 0 | 1 | 0 | ⚠️ 0% (1) | $10,817 |
 | dmoralez | 1 | 0 | 0 | ⚠️ 100% (1) | $10,757 |
 | 0x3814198398E2d02c0e8fBa652345995cF84417bC-1782140092998 | 0 | 0 | 1 | — | $10,393 |
+| CoinTrick | 0 | 0 | 1 | — | $10,090 |
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Precio | Monto | Resultado |
 |---|---|---|---|---|---|
+| CoinTrick | Will Bitcoin dip to $64,000 on August 11? | Yes | 100¢ | $10,090 | ⏳ Pendiente |
 | 0x3814198398E2d02c0e8fBa652345995cF84417bC-1782140092998 | Will NVIDIA be the largest company in the world by market cap on August 31? | Yes | 95¢ | $10,393 | ⏳ Pendiente |
 | kkookkoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 55¢ | $16,389 | ❌ Perdida |
 | dmoralez | National Bank Open: Ekaterina Alexandrova vs Elina Svitolina | Elina Svitolina | 100¢ | $10,757 | ✅ Ganada |

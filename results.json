@@ -70,5 +70,17 @@
     "usd": 10392.5304,
     "odds_at_bet": 95,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786426046,
+    "username": "CoinTrick",
+    "wallet": "0x731a241767938bb23d1b2fac4c9cd2f3cea9033f",
+    "slug": "will-bitcoin-dip-to-64k-on-august-11",
+    "title": "Will Bitcoin dip to $64,000 on August 11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 10089.9,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
