@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 05:24:21 (hora de Perú)
+Actualizado: 2026-08-11 05:26:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **37**  ($1,021,500 en total)
+- Apuestas registradas: **38**  ($1,046,475 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 26
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
@@ -23,11 +23,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | littlelonely888 | 0 | 0 | 1 | — | $70,929 | — |
 | landighertz | 0 | 0 | 1 | — | $69,630 | — |
 | avonking | 0 | 0 | 1 | — | $60,140 | — |
+| cc9999 | 0 | 0 | 2 | — | $56,839 | — |
 | retroactivesource | 0 | 0 | 1 | — | $54,960 | — |
 | c4a759e5c9350491AF61646f2c4A46 | 1 | 0 | 1 | ⚠️ 100% (1) | $52,134 | +$0 |
 | BBQChickenisthebesttt | 0 | 0 | 1 | — | $39,600 | — |
 | ilushin | 0 | 0 | 1 | — | $39,560 | — |
-| cc9999 | 0 | 0 | 1 | — | $31,864 | — |
 | TAIWANNUMBERONE | 0 | 0 | 2 | — | $30,272 | — |
 | backback | 0 | 0 | 2 | — | $29,083 | — |
 | ProudIsraeli | 2 | 0 | 0 | ⚠️ 100% (2) | $25,065 | +$0 |
@@ -48,6 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cc9999 | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | — (100¢) | $24,975 | — | ⏳ Pendiente |
 | owomvvssuv | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | 1.01 (99¢) | $10,127 | — | ⏳ Pendiente |
 | -Malfunction | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | 1.01 (99¢) | $19,800 | — | ⏳ Pendiente |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | 1.01 (99¢) | $39,600 | — | ⏳ Pendiente |
