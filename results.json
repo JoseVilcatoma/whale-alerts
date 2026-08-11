@@ -648,5 +648,44 @@
     "usd": 10680.0,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33361,
+    "timestamp": 1786449635,
+    "username": "0xA7614974FAca5Be9A1b809c978d0A8FC532a866B-1777736641378",
+    "wallet": "0xa7614974faca5be9a1b809c978d0a8fc532a866b",
+    "slug": "btc-updown-5m-1786449300",
+    "title": "Bitcoin Up or Down - August 11, 7:55AM-8:00AM ET",
+    "outcome": "Up",
+    "side": "BUY",
+    "usd": 15984.0,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33362,
+    "timestamp": 1786449635,
+    "username": "0x427c\u2026e8b5",
+    "wallet": "0x427c6e7435642ae465c1ea7ccaee163699f5e8b5",
+    "slug": "btc-updown-5m-1786449300",
+    "title": "Bitcoin Up or Down - August 11, 7:55AM-8:00AM ET",
+    "outcome": "Up",
+    "side": "BUY",
+    "usd": 44955.0,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33363,
+    "timestamp": 1786449635,
+    "username": "0x7b84\u2026940f",
+    "wallet": "0x7b8400058f60a500dec1d1a4d56094414c5e940f",
+    "slug": "btc-updown-5m-1786449300",
+    "title": "Bitcoin Up or Down - August 11, 7:55AM-8:00AM ET",
+    "outcome": "Up",
+    "side": "BUY",
+    "usd": 34116.10974,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
