@@ -492,5 +492,57 @@
     "usd": 15279.7776,
     "odds_at_bet": 48,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33876,
+    "timestamp": 1786484081,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "mlb-cin-cws-2026-08-11",
+    "title": "Cincinnati Reds vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 11562.429999,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33877,
+    "timestamp": 1786484082,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-mensik-shelton-2026-08-11",
+    "title": "National Bank Open: Jakub Mensik vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 50099.1312,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33878,
+    "timestamp": 1786484084,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "atp-mensik-shelton-2026-08-11",
+    "title": "National Bank Open: Jakub Mensik vs Ben Shelton",
+    "outcome": "Jakub Mensik",
+    "side": "BUY",
+    "usd": 11107.474,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33879,
+    "timestamp": 1786484084,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-mensik-shelton-2026-08-11",
+    "title": "National Bank Open: Jakub Mensik vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 54585.579999999994,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]

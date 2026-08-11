@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 16:32:57 (hora de Perú)
+Actualizado: 2026-08-11 16:34:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **38**  ($620,466 en total)
+- Apuestas registradas: **42**  ($747,820 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 24
-- Apostadores distintos: 21
+- Pendientes: 28
+- Apostadores distintos: 24
 
 ### Balance
 
@@ -24,6 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
+| AV23IUa | 0 | 0 | 2 | — | $104,685 | — |
 | SDTrading | 0 | 0 | 5 | — | $104,429 | — |
 | theowalcott | 0 | 0 | 6 | — | $89,215 | — |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
@@ -37,8 +38,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 0 | 1 | — | $22,107 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 2 | 0 | 0 | ⚠️ 100% (2) | $21,062 | +$8,396 |
 | Weaseloftheweek | 0 | 1 | 0 | ⚠️ 0% (1) | $14,667 | -$14,667 |
+| kkookkoo | 0 | 0 | 1 | — | $11,562 | — |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | — | $11,356 | — |
 | dv-pm | 0 | 0 | 1 | — | $11,147 | — |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 0 | 0 | 1 | — | $11,107 | — |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 1 | 0 | 0 | ⚠️ 100% (1) | $11,063 | +$3,120 |
 | 0x076d…8d4c | 1 | 0 | 0 | ⚠️ 100% (1) | $11,037 | +$1,092 |
 | mpyh | 1 | 0 | 0 | ⚠️ 100% (1) | $10,968 | +$3,656 |
@@ -50,6 +53,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | National Bank Open: Jakub Mensik vs Ben Shelton | Jakub Mensik | 2.44 (41¢) | $11,107 | — | ⏳ Pendiente |
+| AV23IUa | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.69 (59¢) | $54,586 | — | ⏳ Pendiente |
+| AV23IUa | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.75 (57¢) | $50,099 | — | ⏳ Pendiente |
+| kkookkoo | Cincinnati Reds vs. Chicago White Sox | Chicago White Sox | 1.67 (60¢) | $11,562 | — | ⏳ Pendiente |
 | SDTrading | Cleveland Guardians vs. Detroit Tigers: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $15,280 | — | ⏳ Pendiente |
 | BreakTheBank | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.27 (44¢) | $22,107 | — | ⏳ Pendiente |
 | SDTrading | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
