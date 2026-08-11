@@ -94,5 +94,18 @@
     "usd": 21978.0,
     "odds_at_bet": 100,
     "status": "won"
+  },
+  {
+    "telegram_msg_id": 33179,
+    "timestamp": 1786426906,
+    "username": "BinaryBaron",
+    "wallet": "0x48c5e0c42ea7c2219f8c1c8d46ff0192c87789f3",
+    "slug": "elon-musk-of-tweets-august-4-august-11-220-239",
+    "title": "Will Elon Musk post 220-239 tweets from August 4 to August 11, 2026?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 13256.99973,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]

@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 00:40:33 (hora de Perú)
+Actualizado: 2026-08-11 00:42:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8**  ($104,023 en total)
+- Apuestas registradas: **9**  ($117,280 en total)
 - Resueltas: **7** — 5 ganadas / 2 perdidas (**71%** de acierto)
-- Pendientes: 1
-- Apostadores distintos: 8
+- Pendientes: 2
+- Apostadores distintos: 9
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -19,6 +19,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | ProudIsraeli | 1 | 0 | 0 | ⚠️ 100% (1) | $21,978 | +$0 |
 | kkookkoo | 0 | 1 | 0 | ⚠️ 0% (1) | $16,389 | -$16,389 |
+| BinaryBaron | 0 | 0 | 1 | — | $13,257 | — |
 | Nooserac | 1 | 0 | 0 | ⚠️ 100% (1) | $12,698 | +$10,817 |
 | hd777 | 1 | 0 | 0 | ⚠️ 100% (1) | $10,902 | +$0 |
 | Sassy-Bucket | 0 | 1 | 0 | ⚠️ 0% (1) | $10,817 | -$10,817 |
@@ -30,6 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BinaryBaron | Will Elon Musk post 220-239 tweets from August 4 to August 11, 2026? | No | — (100¢) | $13,257 | — | ⏳ Pendiente |
 | ProudIsraeli | Will Bitcoin dip to $64,000 on August 11? | Yes | — (100¢) | $21,978 | +$0 | ✅ Ganada |
 | CoinTrick | Will Bitcoin dip to $64,000 on August 11? | Yes | — (100¢) | $10,090 | +$0 | ✅ Ganada |
 | 0x3814198398E2d02c0e8fBa652345995cF84417bC-1782140092998 | Will NVIDIA be the largest company in the world by market cap on August 31? | Yes | 1.05 (95¢) | $10,393 | — | ⏳ Pendiente |
