@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 16:26:11 (hora de Perú)
+Actualizado: 2026-08-11 16:28:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $349.36
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 108 | 94 | 22 | -31.55 USD |
 | RN1 | 173 | 99 | 5 | -33.33 USD |
-| quavoo | 151 | 181 | 13 | -33.43 USD |
+| quavoo | 151 | 181 | 14 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 3 | -82.84 USD |
@@ -414,6 +414,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | New York Liberty vs. Indiana Fever | Indiana Fever (BUY) | 58% | 1.17 | ⏳ pendiente | — |
 | UpTheBlues | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 36% | 8.20 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 63% | 0.35 | ⏳ pendiente | — |
 | quavoo | Spread: Indiana Fever (-3.5) | New York Liberty (BUY) | 52% | 0.54 | ⏳ pendiente | — |
@@ -443,4 +444,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: CA Boca | Over (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 0.5 | Over (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Under (BUY) | 40% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 3.5 | Over (BUY) | 34% | 0.00 | ⏳ pendiente | — |

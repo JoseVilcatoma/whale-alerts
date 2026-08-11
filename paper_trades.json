@@ -72769,5 +72769,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786483420.036965,
     "fills": 3
+  },
+  {
+    "timestamp": 1786483688,
+    "timestamp_added": 1786483688.4449155,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "wnba-nyl-ind-2026-08-11",
+    "title": "New York Liberty vs. Indiana Fever",
+    "outcome": "Indiana Fever",
+    "side": "BUY",
+    "whale_usd": 1573.54,
+    "whale_pct": 0.334,
+    "paper_stake_usd": 1.17,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786483690.1494539,
+    "fills": 2
   }
 ]
