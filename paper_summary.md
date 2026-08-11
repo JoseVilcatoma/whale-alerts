@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 10:16:25 (hora de Perú)
+Actualizado: 2026-08-11 10:18:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $294.10
-**Retorno acumulado:** -70.59%
+**Bankroll actual:** $257.47
+**Retorno acumulado:** -74.25%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -45,11 +45,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| RN1 | 163 | 90 | 9 | -20.90 USD |
+| RN1 | 163 | 90 | 12 | -20.90 USD |
 | BrotherObama | 7 | 3 | 0 | -24.77 USD |
 | quavoo | 142 | 173 | 11 | -30.91 USD |
-| lzh1 | 5 | 3 | 5 | -33.03 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
+| lzh1 | 5 | 7 | 1 | -69.66 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 612 | 463 | 1 | -104.57 USD |
@@ -367,6 +367,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Qairat FK vs. PFK Levski Sofia: 1st Half | Under (BUY) | 86% | 0.27 | ⏳ pendiente | — |
+| RN1 | Qairat FK vs. PFK Levski Sofia: O/U 1.5 | Over (BUY) | 86% | 2.97 | ⏳ pendiente | — |
+| RN1 | Qairat FK vs. PFK Levski Sofia: O/U 1.5 | Over (BUY) | 86% | 2.97 | ⏳ pendiente | — |
 | RN1 | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Over (BUY) | 59% | 0.57 | ⏳ pendiente | — |
 | RN1 | Qairat FK vs. PFK Levski Sofia: O/U 1.5 | Over (BUY) | 86% | 3.52 | ⏳ pendiente | — |
 | RN1 | Qairat FK vs. PFK Levski Sofia: O/U 3.5 | Over (BUY) | 31% | 1.37 | ⏳ pendiente | — |
@@ -394,6 +397,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Qairat FK vs. PFK Levski Sofia: PFK Levs | Over (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Sparks (-2.5) | Los Angeles Sparks (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Milwaukee Brewers (-2.5) | San Diego Padres (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will Olympique Lyonnais win on 2026-08-1 | Yes (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | New York Liberty vs. Indiana Fever: O/U  | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
