@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 17:36:56 (hora de Perú)
+Actualizado: 2026-08-11 17:39:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **61**  ($1,325,944 en total)
+- Apuestas registradas: **64**  ($1,426,032 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 47
-- Apostadores distintos: 34
+- Pendientes: 50
+- Apostadores distintos: 35
 
 ### Balance
 
@@ -25,10 +25,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | pleaseplease123 | 0 | 0 | 5 | — | $182,636 | — |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 3 | — | $128,015 | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 4 | — | $178,415 | — |
+| BreakTheBank | 0 | 0 | 3 | — | $140,907 | — |
 | SDTrading | 0 | 0 | 6 | — | $121,629 | — |
 | AV23IUa | 0 | 0 | 2 | — | $104,685 | — |
-| BreakTheBank | 0 | 0 | 2 | — | $101,307 | — |
 | theowalcott | 0 | 0 | 6 | — | $89,215 | — |
 | texaskid | 0 | 0 | 1 | — | $55,000 | — |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
@@ -58,11 +58,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ThornyDevil | 1 | 0 | 0 | ⚠️ 100% (1) | $10,680 | +$7,120 |
 | 999999666544332578855667788 | 1 | 0 | 0 | ⚠️ 100% (1) | $10,640 | +$3,360 |
 | backback | 1 | 0 | 0 | ⚠️ 100% (1) | $10,473 | +$911 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 1 | — | $10,088 | — |
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.72 (58¢) | $10,088 | — | ⏳ Pendiente |
+| BreakTheBank | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.27 (44¢) | $39,600 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.79 (56¢) | $50,400 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.79 (56¢) | $29,634 | — | ⏳ Pendiente |
 | paquitomillonario | Cleveland Guardians vs. Detroit Tigers: O/U 9.5 | Under 9.5 | 1.56 (64¢) | $12,390 | — | ⏳ Pendiente |
 | SevenTons | National Bank Open: Belinda Bencic vs Coco Gauff | Belinda Bencic | 2.44 (41¢) | $13,358 | — | ⏳ Pendiente |
@@ -120,6 +124,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mpyh | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.33 (75¢) | $10,968 | +$3,656 | ✅ Ganada |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.39 (72¢) | $10,570 | +$4,110 | ✅ Ganada |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.41 (71¢) | $10,492 | +$4,286 | ✅ Ganada |
-| Lakersfan111 | Game Handicap: HLE (-2.5) vs DN SOOPers (+2.5) | DN SOOPers | 1.54 (65¢) | $17,024 | +$9,167 | ✅ Ganada |
-| TAIWANNUMBERONE | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | Hanwha Life Esports | 1.41 (71¢) | $17,114 | -$17,114 | ❌ Perdida |
-| retroactivesource | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | Hanwha Life Esports | 1.23 (81¢) | $54,960 | -$54,960 | ❌ Perdida |
