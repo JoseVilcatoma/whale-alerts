@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 08:14:44 (hora de Perú)
+Actualizado: 2026-08-11 08:16:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $335.77
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 16 | 13 | 4 | +17.16 USD |
-| HomeRunHazard | 93 | 83 | 4 | +15.57 USD |
+| HomeRunHazard | 93 | 83 | 8 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | lzh1 | 5 | 0 | 8 | +3.08 USD |
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | dv-pm | 0 | 0 | 3 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 8 | +0.00 USD |
-| Weaseloftheweek | 0 | 0 | 2 | +0.00 USD |
+| Weaseloftheweek | 0 | 0 | 3 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 34 | 25 | 1 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 100 | 60 | -7.44 USD |
+| UpTheBlues | 151 | 100 | 61 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
@@ -360,6 +360,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| Weaseloftheweek | Dota 2: MOUZ vs Rune Eaters - Game 2 Win | MOUZ (BUY) | 66% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Dota 2: MOUZ vs Rune Eaters - Game 2 Win | MOUZ (BUY) | 66% | 0.00 | ⏳ pendiente | — |
@@ -384,9 +390,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 36% | 0.38 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 36% | 1.01 | ⏳ pendiente | — |
 | lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 0.87 | ⏳ pendiente | — |
-| lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 5.64 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Juventus Turin win on 2026-08-11? | Yes (BUY) | 81% | 0.83 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Bushido Wildcats vs Eter | Bushido Wildcats (BUY) | 89% | 0.38 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Palermo FC win on 2026-08-11? | No (BUY) | 95% | 0.38 | ⏳ pendiente | — |
-| swisstony | Will Juventus Turin win on 2026-08-11? | Yes (BUY) | 81% | 0.59 | ⏳ pendiente | — |
-| BrotherObama | LoL: Hanwha Life Esports vs DN SOOPers - | Hanwha Life Esports (BUY) | 24% | 37.10 | 💰 vendida anticipada | -32.46 |
