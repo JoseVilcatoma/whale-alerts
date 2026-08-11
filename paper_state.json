@@ -1,5 +1,5 @@
 {
-  "bankroll": 347.59198364566447,
+  "bankroll": 349.28964823341795,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -16115,6 +16115,91 @@
       "timestamp": 1786481008.248715,
       "bankroll": 347.59,
       "event": "won: UpTheBlues \u2014 Spread: Fenerbah\u00e7e SK (-1.5)"
+    },
+    {
+      "timestamp": 1786482497.2953084,
+      "bankroll": 348.67,
+      "event": "won: swisstony \u2014 Spread: Olympique Lyonnais (-2.5)"
+    },
+    {
+      "timestamp": 1786482501.37584,
+      "bankroll": 347.97,
+      "event": "lost: ferrariChampions2026 \u2014 Will SK Iberia 1999 vs. Larne FC end in a draw?"
+    },
+    {
+      "timestamp": 1786482505.790467,
+      "bankroll": 348.18,
+      "event": "won: swisstony \u2014 Will SK Iberia 1999 vs. Larne FC end in a draw?"
+    },
+    {
+      "timestamp": 1786482505.8906653,
+      "bankroll": 348.74,
+      "event": "won: swisstony \u2014 Will SK Iberia 1999 vs. Larne FC end in a draw?"
+    },
+    {
+      "timestamp": 1786482507.3865597,
+      "bankroll": 348.81,
+      "event": "won: quavoo \u2014 SK Puntigamer Sturm Graz vs. Fenerbah\u00e7e SK: Team to Advance"
+    },
+    {
+      "timestamp": 1786482558.8527086,
+      "bankroll": 348.41,
+      "event": "lost: swisstony \u2014 Olympique Lyonnais vs. AC Sparta Praha: O/U 3.5"
+    },
+    {
+      "timestamp": 1786482558.9529073,
+      "bankroll": 347.08,
+      "event": "lost: UpTheBlues \u2014 Olympique Lyonnais vs. AC Sparta Praha: O/U 3.5"
+    },
+    {
+      "timestamp": 1786482559.0530944,
+      "bankroll": 346.73,
+      "event": "lost: swisstony \u2014 Olympique Lyonnais vs. AC Sparta Praha: O/U 3.5"
+    },
+    {
+      "timestamp": 1786482559.402675,
+      "bankroll": 346.35,
+      "event": "lost: swisstony \u2014 Olympique Lyonnais vs. AC Sparta Praha: O/U 3.5"
+    },
+    {
+      "timestamp": 1786482559.6029747,
+      "bankroll": 346.74,
+      "event": "won: UpTheBlues \u2014 Olympique Lyonnais vs. AC Sparta Praha: O/U 3.5"
+    },
+    {
+      "timestamp": 1786482561.0862818,
+      "bankroll": 346.74,
+      "event": "won: UpTheBlues \u2014 Will AC Sparta Praha win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786482561.5795484,
+      "bankroll": 346.74,
+      "event": "lost: UpTheBlues \u2014 Olympique Lyonnais vs. AC Sparta Praha: O/U 2.5"
+    },
+    {
+      "timestamp": 1786482561.9802566,
+      "bankroll": 346.03,
+      "event": "lost: UpTheBlues \u2014 Olympique Lyonnais vs. AC Sparta Praha: O/U 2.5"
+    },
+    {
+      "timestamp": 1786482562.2699556,
+      "bankroll": 346.06,
+      "event": "won: RN1 \u2014 Will Olympique Lyonnais vs. AC Sparta Praha end in a draw?"
+    },
+    {
+      "timestamp": 1786482562.870895,
+      "bankroll": 346.46,
+      "event": "won: RN1 \u2014 Olympique Lyonnais vs. AC Sparta Praha: O/U 3.5"
+    },
+    {
+      "timestamp": 1786482562.9710846,
+      "bankroll": 346.88,
+      "event": "won: RN1 \u2014 Olympique Lyonnais vs. AC Sparta Praha: O/U 3.5"
+    },
+    {
+      "timestamp": 1786482563.171419,
+      "bankroll": 349.29,
+      "event": "won: UpTheBlues \u2014 Olympique Lyonnais vs. AC Sparta Praha: O/U 3.5"
     }
   ]
 }
