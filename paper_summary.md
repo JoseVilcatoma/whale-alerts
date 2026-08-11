@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 14:40:26 (hora de Perú)
+Actualizado: 2026-08-11 14:42:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $337.00
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | dv-pm | 1 | 2 | 5 | -0.92 USD |
-| UpTheBlues | 170 | 111 | 81 | -0.95 USD |
+| UpTheBlues | 170 | 111 | 84 | -0.95 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -399,12 +399,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-crv-hbs-2026-08-11-btts | UpTheBlues, swisstony |
 | ucl-stu1-fen-2026-08-11-fen | quavoo, swisstony |
 | ucl-crv-hbs-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
+| ucl-stu1-fen-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 | ucl-lyo-spp-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 93% | 0.87 | ⏳ pendiente | — |
+| UpTheBlues | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 98% | 3.74 | ⏳ pendiente | — |
+| UpTheBlues | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 98% | 1.30 | ⏳ pendiente | — |
 | UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 79% | 0.50 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Liberty vs. Indiana Fever: O/U  | Under (BUY) | 47% | 0.94 | ⏳ pendiente | — |
 | UpTheBlues | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 97% | 0.81 | ⏳ pendiente | — |
@@ -432,6 +436,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will SK Brann win on 2026-08-11? | No (BUY) | 92% | 0.56 | ⏳ pendiente | — |
 | swisstony | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Under (BUY) | 70% | 0.43 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Indiana Fever (-2.5) | New York Liberty (BUY) | 48% | 4.76 | ⏳ pendiente | — |
-| UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 86% | 0.36 | ✅ ganada | +0.06 |
-| UpTheBlues | Apóllon Lemesoú vs. SK Brann: O/U 2.5 | Under (BUY) | 83% | 0.91 | ⏳ pendiente | — |
-| quavoo | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Yes (BUY) | 61% | 0.36 | ⏳ pendiente | — |
