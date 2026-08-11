@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 06:20:33 (hora de Perú)
+Actualizado: 2026-08-11 06:22:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $334.96
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 93 | 83 | 1 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| lzh1 | 5 | 0 | 4 | +3.08 USD |
+| lzh1 | 5 | 0 | 5 | +3.08 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
@@ -358,6 +358,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 0.87 | ⏳ pendiente | — |
 | lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 5.64 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Juventus Turin win on 2026-08-11? | Yes (BUY) | 81% | 0.83 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Bushido Wildcats vs Eter | Bushido Wildcats (BUY) | 89% | 0.38 | ⏳ pendiente | — |
@@ -386,5 +387,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Hanwha Life Esports vs DN SOOPers ( | DN SOOPers (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 54% | 0.00 | ⏳ pendiente | — |
