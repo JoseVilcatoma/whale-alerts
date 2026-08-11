@@ -70869,5 +70869,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786474890.6333203,
     "fills": 1
+  },
+  {
+    "timestamp": 1786474977,
+    "timestamp_added": 1786474977.7253954,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-lyo-spp-2026-08-11-lyo",
+    "title": "Will Olympique Lyonnais win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 425.3283,
+    "whale_pct": 0.111,
+    "paper_stake_usd": 0.36,
+    "odds_at_bet": 27,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786474977.7254076,
+    "fills": 1
   }
 ]
