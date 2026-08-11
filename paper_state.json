@@ -1,5 +1,5 @@
 {
-  "bankroll": 356.9842214135318,
+  "bankroll": 348.33359013197725,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -15895,6 +15895,136 @@
       "timestamp": 1786480035.284468,
       "bankroll": 356.98,
       "event": "won: UpTheBlues \u2014 NK Celje vs. Ararat-Armenia FA: O/U 3.5"
+    },
+    {
+      "timestamp": 1786480304.5306275,
+      "bankroll": 357.15,
+      "event": "won: UpTheBlues \u2014 Will Larne FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786480304.911703,
+      "bankroll": 357.33,
+      "event": "won: UpTheBlues \u2014 Will Larne FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786480315.1843889,
+      "bankroll": 357.4,
+      "event": "won: dv-pm \u2014 SK Iberia 1999 vs. Larne FC: 1st Half O/U 2.5"
+    },
+    {
+      "timestamp": 1786480317.5895298,
+      "bankroll": 357.92,
+      "event": "won: swisstony \u2014 SK Iberia 1999 vs. Larne FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786480317.8334777,
+      "bankroll": 358.37,
+      "event": "won: swisstony \u2014 Spread: SK Iberia 1999 (-1.5)"
+    },
+    {
+      "timestamp": 1786480318.1178107,
+      "bankroll": 357.39,
+      "event": "lost: swisstony \u2014 SK Iberia 1999 vs. Larne FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786480318.2179437,
+      "bankroll": 356.87,
+      "event": "lost: swisstony \u2014 SK Iberia 1999 vs. Larne FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786480318.6016788,
+      "bankroll": 355.86,
+      "event": "lost: swisstony \u2014 SK Iberia 1999 vs. Larne FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786480318.8020477,
+      "bankroll": 354.86,
+      "event": "lost: swisstony \u2014 SK Iberia 1999 vs. Larne FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786480318.9022298,
+      "bankroll": 354.26,
+      "event": "lost: swisstony \u2014 SK Iberia 1999 vs. Larne FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786480319.1026235,
+      "bankroll": 354.75,
+      "event": "won: swisstony \u2014 SK Iberia 1999 vs. Larne FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786480319.659672,
+      "bankroll": 353.37,
+      "event": "lost: swisstony \u2014 SK Iberia 1999 vs. Larne FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786480319.7599344,
+      "bankroll": 351.98,
+      "event": "lost: swisstony \u2014 SK Iberia 1999 vs. Larne FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786480319.860127,
+      "bankroll": 352.41,
+      "event": "won: swisstony \u2014 Spread: SK Iberia 1999 (-1.5)"
+    },
+    {
+      "timestamp": 1786480320.0603979,
+      "bankroll": 350.72,
+      "event": "lost: swisstony \u2014 SK Iberia 1999 vs. Larne FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786480321.8704479,
+      "bankroll": 350.23,
+      "event": "lost: swisstony \u2014 Will SK Iberia 1999 win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786480322.7555773,
+      "bankroll": 349.67,
+      "event": "lost: swisstony \u2014 SK Iberia 1999 vs. Larne FC: O/U 0.5"
+    },
+    {
+      "timestamp": 1786480323.1562457,
+      "bankroll": 350.14,
+      "event": "won: swisstony \u2014 Will Larne FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786480323.456801,
+      "bankroll": 350.69,
+      "event": "won: swisstony \u2014 Will SK Iberia 1999 win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786480324.0153255,
+      "bankroll": 350.72,
+      "event": "won: UpTheBlues \u2014 SK Iberia 1999 vs. Larne FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786480324.468578,
+      "bankroll": 351.37,
+      "event": "won: swisstony \u2014 Will SK Iberia 1999 win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786480325.0945601,
+      "bankroll": 351.61,
+      "event": "won: swisstony \u2014 Will Larne FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786480325.6107302,
+      "bankroll": 349.09,
+      "event": "lost: swisstony \u2014 SK Iberia 1999 vs. Larne FC: Larne FC O/U 0.5"
+    },
+    {
+      "timestamp": 1786480325.710923,
+      "bankroll": 348.69,
+      "event": "lost: swisstony \u2014 SK Iberia 1999 vs. Larne FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786480326.393975,
+      "bankroll": 348.27,
+      "event": "lost: swisstony \u2014 Will SK Iberia 1999 win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786480326.846504,
+      "bankroll": 348.33,
+      "event": "won: UpTheBlues \u2014 Will Larne FC win on 2026-08-11?"
     }
   ]
 }
