@@ -74125,5 +74125,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786487271.079559,
     "fills": 4
+  },
+  {
+    "timestamp": 1786487373,
+    "timestamp_added": 1786487373.9840577,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "lib-flu-cir-2026-08-11-first-half-total-1pt5",
+    "title": "Fluminense FC vs. CS Independiente Rivadavia: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 186.0,
+    "whale_pct": 0.142,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786487373.9840658,
+    "fills": 1
   }
 ]
