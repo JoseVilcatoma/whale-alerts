@@ -1,5 +1,5 @@
 {
-  "bankroll": 322.01484911154944,
+  "bankroll": 322.04100295770326,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14490,6 +14490,11 @@
       "timestamp": 1786425951.667549,
       "bankroll": 322.01,
       "event": "lost: swisstony \u2014 Spread: Texas Rangers (-1.5)"
+    },
+    {
+      "timestamp": 1786426126.6108055,
+      "bankroll": 322.04,
+      "event": "venta anticipada: 0x4f2 \u2014 Will CDPJuniorFC win on 2026-08-10? (+0.03 USD)"
     }
   ]
 }

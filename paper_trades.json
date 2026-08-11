@@ -62233,12 +62233,13 @@
     "whale_pct": 0.215,
     "paper_stake_usd": 0.68,
     "odds_at_bet": 26,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.03,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786425605.1622465,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 27
   },
   {
     "timestamp": 1786425658,
