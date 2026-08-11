@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 05:11:59 (hora de Perú)
+Actualizado: 2026-08-11 05:14:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **32**  ($928,493 en total)
+- Apuestas registradas: **33**  ($941,500 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 29
-- Apostadores distintos: 23
+- Pendientes: 30
+- Apostadores distintos: 24
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -34,6 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 0 | 0 | 1 | — | $17,024 | — |
 | 467j6yj | 0 | 0 | 1 | — | $15,858 | — |
 | degenofweb3 | 0 | 0 | 1 | — | $14,985 | — |
+| Orlandxx | 0 | 0 | 1 | — | $13,007 | — |
 | five5120 | 0 | 0 | 1 | — | $12,178 | — |
 | scottilicious | 0 | 0 | 1 | — | $11,672 | — |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 0 | 0 | 1 | — | $11,063 | — |
@@ -45,6 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Orlandxx | Valorant: JD Gaming vs EDward Gaming (BO3) - VCT China Stage 2 Play-Ins | JD Gaming | — (100¢) | $13,007 | — | ⏳ Pendiente |
 | degenofweb3 | Game Handicap: HLE (-2.5) vs DN SOOPers (+2.5) | DN SOOPers | — (100¢) | $14,985 | — | ⏳ Pendiente |
 | five5120 | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | DN SOOPers | — (100¢) | $12,178 | — | ⏳ Pendiente |
 | -Malfunction | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | DN SOOPers | — (100¢) | $12,178 | — | ⏳ Pendiente |

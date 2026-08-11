@@ -414,5 +414,18 @@
     "usd": 14985.0,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33311,
+    "timestamp": 1786443237,
+    "username": "Orlandxx",
+    "wallet": "0x456951c4a022030fa55b72dbefed86b1d774e624",
+    "slug": "val-jdg-edg1-2026-08-11",
+    "title": "Valorant: JD Gaming vs EDward Gaming (BO3) - VCT China Stage 2 Play-Ins",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 13006.66032,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
