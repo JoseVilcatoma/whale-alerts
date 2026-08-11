@@ -336,5 +336,18 @@
     "usd": 11037.219991,
     "odds_at_bet": 91,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33296,
+    "timestamp": 1786441452,
+    "username": "-Malfunction",
+    "wallet": "0xfc25f141ed27bb1787338d2c4e7f51e3a15e1f7f",
+    "slug": "lol-hle1-dnf-2026-08-11-game1",
+    "title": "LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 19980.0,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
