@@ -1,5 +1,5 @@
 {
-  "bankroll": 315.3733396593318,
+  "bankroll": 318.65604978784745,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13685,6 +13685,121 @@
       "timestamp": 1786422070.6148126,
       "bankroll": 315.37,
       "event": "won: wr0ngw4yb3tt0r \u2014 Spread: San Diego Padres (-1.5)"
+    },
+    {
+      "timestamp": 1786422184.4985652,
+      "bankroll": 315.37,
+      "event": "lost: ferrariChampions2026 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786422185.653686,
+      "bankroll": 315.0,
+      "event": "lost: Bulls94 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786422185.9938185,
+      "bankroll": 314.33,
+      "event": "lost: UpTheBlues \u2014 Will Anapolis FC GO win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786422186.4376667,
+      "bankroll": 314.33,
+      "event": "lost: Bulls94 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786422188.2235603,
+      "bankroll": 313.45,
+      "event": "lost: Bulls94 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786422192.2087536,
+      "bankroll": 310.49,
+      "event": "lost: HomeRunHazard \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786422192.3088844,
+      "bankroll": 310.02,
+      "event": "lost: quavoo \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786422192.4089856,
+      "bankroll": 309.25,
+      "event": "lost: quavoo \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786422192.7093124,
+      "bankroll": 307.11,
+      "event": "lost: HomeRunHazard \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786422193.8621278,
+      "bankroll": 307.35,
+      "event": "won: swisstony \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 6.5"
+    },
+    {
+      "timestamp": 1786422194.062487,
+      "bankroll": 309.5,
+      "event": "won: ferrariChampions2026 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786422194.3833115,
+      "bankroll": 309.75,
+      "event": "won: HomeRunHazard \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786422195.0843592,
+      "bankroll": 309.94,
+      "event": "won: HomeRunHazard \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786422195.8856173,
+      "bankroll": 311.1,
+      "event": "won: HomeRunHazard \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 6.5"
+    },
+    {
+      "timestamp": 1786422195.9857762,
+      "bankroll": 309.87,
+      "event": "lost: ferrariChampions2026 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 6.5"
+    },
+    {
+      "timestamp": 1786422196.1861024,
+      "bankroll": 307.72,
+      "event": "lost: ferrariChampions2026 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 6.5"
+    },
+    {
+      "timestamp": 1786422196.286286,
+      "bankroll": 309.99,
+      "event": "won: HomeRunHazard \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786422196.38646,
+      "bankroll": 311.7,
+      "event": "won: HomeRunHazard \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 6.5"
+    },
+    {
+      "timestamp": 1786422196.4866493,
+      "bankroll": 308.85,
+      "event": "lost: ferrariChampions2026 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786422197.1041987,
+      "bankroll": 316.2,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 6.5"
+    },
+    {
+      "timestamp": 1786422197.204396,
+      "bankroll": 317.91,
+      "event": "won: HomeRunHazard \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 6.5"
+    },
+    {
+      "timestamp": 1786422197.5049107,
+      "bankroll": 318.52,
+      "event": "won: HomeRunHazard \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 6.5"
+    },
+    {
+      "timestamp": 1786422202.1646428,
+      "bankroll": 318.66,
+      "event": "won: HomeRunHazard \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 8.5"
     }
   ]
 }
