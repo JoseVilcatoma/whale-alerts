@@ -64473,5 +64473,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786447639.8583384,
     "fills": 1
+  },
+  {
+    "timestamp": 1786448183,
+    "timestamp_added": 1786448184.1649318,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-kai-pls-2026-08-11-draw",
+    "title": "Will Qairat FK vs. PFK Levski Sofia end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 308.55,
+    "whale_pct": 0.199,
+    "paper_stake_usd": 0.67,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786448184.1649415,
+    "fills": 1
   }
 ]
