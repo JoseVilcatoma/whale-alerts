@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 09:24:23 (hora de Perú)
+Actualizado: 2026-08-11 09:26:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $332.25
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 34 | 25 | 1 | -4.37 USD |
+| swisstony | 34 | 25 | 2 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 100 | 63 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -350,6 +350,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-10-spread-home-2pt5 | HomeRunHazard, swisstony |
 | mlb-tex-laa-2026-08-10-spread-home-1pt5 | HomeRunHazard, swisstony |
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
+| ucl-bog-usg-2026-08-11-bog | quavoo, swisstony |
 | clf-pal-juv-2026-08-11-juv | ferrariChampions2026, quavoo, swisstony |
 | lol-hle1-dnf-2026-08-11 | BBQChickenisthebesttt, BrotherObama, Lakersfan111, ferrariChampions2026 |
 | lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
@@ -360,6 +361,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will FK Bodø/Glimt win on 2026-08-11? | Yes (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Indiana Fever (-3.5) | New York Liberty (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | quavoo | Qairat FK vs. PFK Levski Sofia: O/U 0.5 | Over (BUY) | 89% | 0.00 | ⏳ pendiente | — |
@@ -389,4 +391,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Qairat FK vs. PFK Levski Sofia end  | Yes (BUY) | 30% | 0.64 | ⏳ pendiente | — |
 | UpTheBlues | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 96% | 1.35 | ⏳ pendiente | — |
 | UpTheBlues | Will Qairat FK vs. PFK Levski Sofia end  | Yes (BUY) | 30% | 0.67 | ⏳ pendiente | — |
-| lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 27.81 | ⏳ pendiente | — |
