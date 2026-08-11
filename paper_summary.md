@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 18:06:20 (hora de Perú)
+Actualizado: 2026-08-11 18:08:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 4 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 614 | 464 | 18 | -105.11 USD |
+| ferrariChampions2026 | 614 | 464 | 20 | -105.11 USD |
 | BrotherObama | 7 | 5 | 12 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -434,6 +434,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 35% | 0.00 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 32% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 43% | 0.00 | ⏳ pendiente | — |
@@ -462,5 +464,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | CA Boca Juniors vs. Recoleta FC: O/U 3.5 | Under (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Fluminense FC win on 2026-08-11? | No (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 68% | 0.00 | ⏳ pendiente | — |
