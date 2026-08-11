@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 16:34:59 (hora de Perú)
+Actualizado: 2026-08-11 16:37:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **42**  ($747,820 en total)
+- Apuestas registradas: **44**  ($787,820 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 28
+- Pendientes: 30
 - Apostadores distintos: 24
 
 ### Balance
@@ -24,15 +24,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
+| SDTrading | 0 | 0 | 6 | — | $121,629 | — |
 | AV23IUa | 0 | 0 | 2 | — | $104,685 | — |
-| SDTrading | 0 | 0 | 5 | — | $104,429 | — |
 | theowalcott | 0 | 0 | 6 | — | $89,215 | — |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
+| pleaseplease123 | 0 | 0 | 2 | — | $50,084 | — |
 | ferrariChampions2026 | 1 | 0 | 2 | ⚠️ 100% (1) | $49,144 | +$8,160 |
 | Talvez10 | 0 | 0 | 3 | — | $39,880 | — |
 | TAIWANNUMBERONE | 0 | 2 | 0 | ⚠️ 0% (2) | $30,272 | -$30,272 |
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $29,744 | +$9,167 |
-| pleaseplease123 | 0 | 0 | 1 | — | $27,284 | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 2 | — | $27,215 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
 | BreakTheBank | 0 | 0 | 1 | — | $22,107 | — |
@@ -53,6 +53,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Under 6.5 | 2.33 (43¢) | $17,200 | — | ⏳ Pendiente |
+| pleaseplease123 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Over 6.5 | 1.75 (57¢) | $22,800 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | National Bank Open: Jakub Mensik vs Ben Shelton | Jakub Mensik | 2.44 (41¢) | $11,107 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.69 (59¢) | $54,586 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.75 (57¢) | $50,099 | — | ⏳ Pendiente |
