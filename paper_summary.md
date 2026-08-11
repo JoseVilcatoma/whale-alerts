@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 09:36:45 (hora de Perú)
+Actualizado: 2026-08-11 09:38:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $331.36
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 16 | 13 | 4 | +17.16 USD |
-| HomeRunHazard | 93 | 83 | 8 | +15.57 USD |
+| HomeRunHazard | 93 | 83 | 11 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | lzh1 | 5 | 0 | 8 | +3.08 USD |
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 34 | 25 | 4 | -4.37 USD |
+| swisstony | 34 | 25 | 5 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -356,11 +356,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
 | lol-hle1-dnf-2026-08-11-game3 | BrotherObama, lzh1 |
 | lol-nsea-dkc-2026-08-11-game2 | BBQChickenisthebesttt, lzh1 |
+| wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Los Angeles Sparks (-2.5) | Los Angeles Sparks (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Milwaukee Brewers (-2.5) | San Diego Padres (BUY) | 69% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will Olympique Lyonnais win on 2026-08-1 | Yes (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Liberty vs. Indiana Fever: O/U  | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: O/U 1.5 | Under (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
@@ -387,7 +392,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 43% | 0.44 | ⏳ pendiente | — |
 | UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 93% | 0.58 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 0.5 | Over (BUY) | 94% | 0.50 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 58% | 40.47 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 58% | 48.48 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | O/U 1.5 Rounds | Under (BUY) | 61% | 3.04 | ⏳ pendiente | — |
-| UpTheBlues | Spread: CD Universidad Católica (-1.5) | Estudiantes de La Plata (BUY) | 96% | 0.56 | ⏳ pendiente | — |
