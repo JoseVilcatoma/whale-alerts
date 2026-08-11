@@ -232,5 +232,31 @@
     "usd": 18143.154400000003,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33713,
+    "timestamp": 1786473526,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-lg6-gl1-2026-08-12",
+    "title": "Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A",
+    "outcome": "Luminosity",
+    "side": "BUY",
+    "usd": 12720.0,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33714,
+    "timestamp": 1786473526,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-lg6-gl1-2026-08-12",
+    "title": "Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "usd": 23121.1142,
+    "odds_at_bet": 47,
+    "status": "pending"
   }
 ]
