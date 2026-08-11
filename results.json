@@ -245,5 +245,18 @@
     "usd": 11022.429999000002,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33473,
+    "timestamp": 1786461871,
+    "username": "shxbyron1",
+    "wallet": "0x04677c0cd4b904b50f0f829586824b773feefb2e",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 14942.210000000001,
+    "odds_at_bet": 89,
+    "status": "pending"
   }
 ]
