@@ -1,5 +1,5 @@
 {
-  "bankroll": 444.73169745859246,
+  "bankroll": 444.07785455044575,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -15685,6 +15685,36 @@
       "timestamp": 1786479411.614732,
       "bankroll": 444.73,
       "event": "won: UpTheBlues \u2014 FK Crvena zvezda vs. MH Hapoel Be'er Sheva: O/U 2.5"
+    },
+    {
+      "timestamp": 1786479689.600318,
+      "bankroll": 444.17,
+      "event": "lost: UpTheBlues \u2014 \u0160K Slovan Bratislava vs. Mj\u00e4llby AIF: Mj\u00e4llby AIF O/U 0.5"
+    },
+    {
+      "timestamp": 1786479711.49741,
+      "bankroll": 444.54,
+      "event": "won: UpTheBlues \u2014 Will Mj\u00e4llby AIF win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786479716.717259,
+      "bankroll": 444.18,
+      "event": "lost: UpTheBlues \u2014 \u0160K Slovan Bratislava vs. Mj\u00e4llby AIF: O/U 1.5"
+    },
+    {
+      "timestamp": 1786479720.2645993,
+      "bankroll": 443.78,
+      "event": "lost: swisstony \u2014 \u0160K Slovan Bratislava vs. Mj\u00e4llby AIF: O/U 1.5"
+    },
+    {
+      "timestamp": 1786479720.5117853,
+      "bankroll": 443.94,
+      "event": "won: UpTheBlues \u2014 \u0160K Slovan Bratislava vs. Mj\u00e4llby AIF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786479722.4735336,
+      "bankroll": 444.08,
+      "event": "won: UpTheBlues \u2014 \u0160K Slovan Bratislava vs. Mj\u00e4llby AIF: O/U 2.5"
     }
   ]
 }

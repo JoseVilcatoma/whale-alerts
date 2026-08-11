@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 15:19:53 (hora de Perú)
+Actualizado: 2026-08-11 15:22:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $444.73
-**Retorno acumulado:** -55.53%
+**Bankroll actual:** $444.08
+**Retorno acumulado:** -55.59%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -36,15 +36,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| UpTheBlues | 177 | 114 | 87 | -1.58 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
+| UpTheBlues | 180 | 116 | 82 | -1.83 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 90 | 75 | 54 | -23.54 USD |
+| swisstony | 90 | 76 | 53 | -23.94 USD |
 | BrotherObama | 7 | 3 | 5 | -24.77 USD |
 | quavoo | 146 | 177 | 19 | -31.51 USD |
 | RN1 | 167 | 99 | 0 | -34.36 USD |
