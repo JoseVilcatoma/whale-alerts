@@ -1,5 +1,5 @@
 {
-  "bankroll": 283.6454947709119,
+  "bankroll": 283.46731062768947,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13540,6 +13540,91 @@
       "timestamp": 1786421276.485683,
       "bankroll": 283.65,
       "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786421560.6940472,
+      "bankroll": 284.43,
+      "event": "won: HomeRunHazard \u2014 Spread: Atlanta Dream (-12.5)"
+    },
+    {
+      "timestamp": 1786421560.7942603,
+      "bankroll": 284.43,
+      "event": "won: HomeRunHazard \u2014 Spread: Atlanta Dream (-12.5)"
+    },
+    {
+      "timestamp": 1786421562.858626,
+      "bankroll": 284.43,
+      "event": "lost: HomeRunHazard \u2014 Spread: Atlanta Dream (-13.5)"
+    },
+    {
+      "timestamp": 1786421563.4115522,
+      "bankroll": 284.43,
+      "event": "lost: monkeymashingkeyboard \u2014 Spread: Atlanta Dream (-12.5)"
+    },
+    {
+      "timestamp": 1786421563.5117145,
+      "bankroll": 284.43,
+      "event": "lost: monkeymashingkeyboard \u2014 Spread: Atlanta Dream (-12.5)"
+    },
+    {
+      "timestamp": 1786421563.6118252,
+      "bankroll": 284.43,
+      "event": "lost: monkeymashingkeyboard \u2014 Spread: Atlanta Dream (-12.5)"
+    },
+    {
+      "timestamp": 1786421563.7119384,
+      "bankroll": 284.43,
+      "event": "lost: monkeymashingkeyboard \u2014 Spread: Atlanta Dream (-12.5)"
+    },
+    {
+      "timestamp": 1786421564.1856804,
+      "bankroll": 284.43,
+      "event": "lost: monkeymashingkeyboard \u2014 Spread: Atlanta Dream (-12.5)"
+    },
+    {
+      "timestamp": 1786421564.2858212,
+      "bankroll": 284.43,
+      "event": "won: HomeRunHazard \u2014 Spread: Atlanta Dream (-12.5)"
+    },
+    {
+      "timestamp": 1786421564.3859937,
+      "bankroll": 284.43,
+      "event": "lost: monkeymashingkeyboard \u2014 Spread: Atlanta Dream (-12.5)"
+    },
+    {
+      "timestamp": 1786421569.8174922,
+      "bankroll": 284.43,
+      "event": "lost: HomeRunHazard \u2014 Spread: Atlanta Dream (-13.5)"
+    },
+    {
+      "timestamp": 1786421569.9176767,
+      "bankroll": 284.05,
+      "event": "lost: HomeRunHazard \u2014 Spread: Atlanta Dream (-13.5)"
+    },
+    {
+      "timestamp": 1786421570.4831874,
+      "bankroll": 283.71,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Atlanta Dream (-12.5)"
+    },
+    {
+      "timestamp": 1786421570.8212163,
+      "bankroll": 283.75,
+      "event": "won: UpTheBlues \u2014 Will Audax CS Italiano win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786421571.1747806,
+      "bankroll": 283.47,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Atlanta Dream (-14.5)"
+    },
+    {
+      "timestamp": 1786421571.5752745,
+      "bankroll": 283.47,
+      "event": "won: UpTheBlues \u2014 Will Audax CS Italiano win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786421572.7839174,
+      "bankroll": 283.47,
+      "event": "won: UpTheBlues \u2014 Will Audax CS Italiano win on 2026-08-10?"
     }
   ]
 }

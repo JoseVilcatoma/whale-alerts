@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:11:03 (hora de Perú)
+Actualizado: 2026-08-10 23:13:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $283.65
-**Retorno acumulado:** -71.64%
+**Bankroll actual:** $283.47
+**Retorno acumulado:** -71.65%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,14 +20,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 7 | +26.87 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
-| HomeRunHazard | 59 | 58 | 56 | +24.31 USD |
+| HomeRunHazard | 62 | 61 | 50 | +24.72 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 5 | 1 | +17.41 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 3 | +7.96 USD |
 | lzh1 | 5 | 0 | 0 | +3.08 USD |
-| monkeymashingkeyboard | 3 | 0 | 9 | +2.86 USD |
+| monkeymashingkeyboard | 3 | 6 | 3 | +2.86 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -39,8 +39,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 25 | 17 | 11 | -3.90 USD |
-| UpTheBlues | 147 | 98 | 15 | -6.90 USD |
+| swisstony | 25 | 17 | 12 | -3.90 USD |
+| UpTheBlues | 150 | 98 | 14 | -6.86 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 563 | 445 | 55 | -148.08 USD |
+| ferrariChampions2026 | 563 | 447 | 53 | -148.70 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -350,6 +350,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | NK Celje vs. Ararat-Armenia FA: NK Celje | Over (BUY) | 34% | 0.30 | ⏳ pendiente | — |
+| UpTheBlues | Will FK Crvena zvezda vs. MH Hapoel Be'e | No (BUY) | 85% | 0.60 | ⏳ pendiente | — |
+| swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 54% | 0.32 | ⏳ pendiente | — |
 | swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 53% | 0.32 | ⏳ pendiente | — |
 | RN1 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 49% | 0.34 | ⏳ pendiente | — |
 | swisstony | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 63% | 1.09 | ⏳ pendiente | — |
@@ -377,6 +380,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 62% | 2.88 | ❌ perdida | -2.88 |
 | HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 183.5 | Over (BUY) | 59% | 2.80 | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 55% | 1.66 | ❌ perdida | -1.66 |
-| RN1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 45% | 1.29 | ✅ ganada | +1.58 |
-| ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 45% | 1.47 | ✅ ganada | +1.80 |
-| HomeRunHazard | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 76% | 0.43 | ⏳ pendiente | — |
