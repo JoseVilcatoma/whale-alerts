@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 10:26:48 (hora de Perú)
+Actualizado: 2026-08-11 10:28:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $257.47
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 5 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 6 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -367,6 +367,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | New York Liberty vs. Indiana Fever: O/U  | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 8. | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Qairat FK win on 2026-08-11? | No (BUY) | 87% | 0.05 | ⏳ pendiente | — |
 | RN1 | Qairat FK vs. PFK Levski Sofia: 1st Half | Under (BUY) | 86% | 0.27 | ⏳ pendiente | — |
@@ -396,4 +397,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | SK Iberia 1999 vs. Larne FC: 1st Half O/ | Under (BUY) | 90% | 0.65 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Miami Marlins: O/ | Under (BUY) | 60% | 0.62 | ⏳ pendiente | — |
 | swisstony | Spread: Olympique Lyonnais (-2.5) | Olympique Lyonnais (BUY) | 26% | 0.38 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: PFK Levs | Over (BUY) | 70% | 0.00 | ⏳ pendiente | — |
