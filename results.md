@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 17:16:24 (hora de Perú)
+Actualizado: 2026-08-11 17:18:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **49**  ($1,026,157 en total)
+- Apuestas registradas: **50**  ($1,044,074 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 27
 
 ### Balance
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 0 | 0 | 2 | — | $104,685 | — |
 | BreakTheBank | 0 | 0 | 2 | — | $101,307 | — |
 | theowalcott | 0 | 0 | 6 | — | $89,215 | — |
+| pleaseplease123 | 0 | 0 | 3 | — | $68,002 | — |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
-| pleaseplease123 | 0 | 0 | 2 | — | $50,084 | — |
 | ferrariChampions2026 | 1 | 0 | 2 | ⚠️ 100% (1) | $49,144 | +$8,160 |
 | Talvez10 | 0 | 0 | 3 | — | $39,880 | — |
 | TAIWANNUMBERONE | 0 | 2 | 0 | ⚠️ 0% (2) | $30,272 | -$30,272 |
@@ -56,6 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.82 (55¢) | $17,918 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.79 (56¢) | $100,800 | — | ⏳ Pendiente |
 | BreakTheBank | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.27 (44¢) | $79,200 | — | ⏳ Pendiente |
 | BaccaratRoulette | National Bank Open: Jakub Mensik vs Ben Shelton | Jakub Mensik | 2.33 (43¢) | $27,060 | — | ⏳ Pendiente |
