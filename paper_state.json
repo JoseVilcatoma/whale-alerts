@@ -1,5 +1,5 @@
 {
-  "bankroll": 256.6784046235067,
+  "bankroll": 256.93487494104005,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13370,6 +13370,26 @@
       "timestamp": 1786419383.3420742,
       "bankroll": 256.68,
       "event": "lost: SnakeBall \u2014 Will Goi\u00e1s EC win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786419688.9377406,
+      "bankroll": 256.86,
+      "event": "won: VeryLucky888 \u2014 Will Guarani FC SP win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786419690.6288464,
+      "bankroll": 256.86,
+      "event": "won: SnakeBall \u2014 Will Guarani FC SP win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786419691.7921393,
+      "bankroll": 256.86,
+      "event": "won: SnakeBall \u2014 Anapolis FC GO vs. Guarani FC SP: O/U 2.5"
+    },
+    {
+      "timestamp": 1786419696.9963107,
+      "bankroll": 256.93,
+      "event": "won: UpTheBlues \u2014 Anapolis FC GO vs. Guarani FC SP: O/U 3.5"
     }
   ]
 }

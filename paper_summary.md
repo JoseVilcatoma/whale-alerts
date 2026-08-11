@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 22:39:49 (hora de Perú)
+Actualizado: 2026-08-10 22:41:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $256.68
-**Retorno acumulado:** -74.33%
+**Bankroll actual:** $256.93
+**Retorno acumulado:** -74.31%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 7 | +26.87 USD |
-| HomeRunHazard | 58 | 53 | 56 | +26.58 USD |
+| HomeRunHazard | 58 | 53 | 58 | +26.58 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -33,14 +33,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| SnakeBall | 1 | 3 | 6 | +0.00 USD |
-| VeryLucky888 | 1 | 1 | 1 | -0.22 USD |
+| SnakeBall | 3 | 3 | 4 | +0.00 USD |
+| VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 25 | 17 | 4 | -3.90 USD |
-| UpTheBlues | 139 | 95 | 24 | -6.80 USD |
+| UpTheBlues | 140 | 95 | 23 | -6.73 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 560 | 444 | 52 | -150.20 USD |
+| ferrariChampions2026 | 560 | 444 | 53 | -150.20 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -339,12 +339,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-col-ari-2026-08-10-total-11pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-col-ari-2026-08-10-spread-home-7pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-col-ari-2026-08-10-total-10pt5 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
+| wnba-chi-sea-2026-08-10-total-183pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-mil-sd-2026-08-10-spread-home-1pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 38% | 1.10 | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 62% | 2.88 | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 183.5 | Over (BUY) | 59% | 2.80 | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 55% | 1.66 | ⏳ pendiente | — |
 | RN1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 45% | 1.29 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 45% | 1.47 | ⏳ pendiente | — |
@@ -372,6 +376,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 80% | 1.48 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 81% | 0.58 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-7.5) | Arizona Diamondbacks (BUY) | 49% | 0.31 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Arizona Diamondbacks (-7.5) | Colorado Rockies (BUY) | 51% | 1.45 | ⏳ pendiente | — |
-| HomeRunHazard | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 63% | 0.39 | ⏳ pendiente | — |
-| ferrariChampions2026 | Houston Astros vs. San Francisco Giants: | Over (BUY) | 50% | 0.32 | ⏳ pendiente | — |
