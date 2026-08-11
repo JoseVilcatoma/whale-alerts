@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 03:09:11 (hora de Perú)
+Actualizado: 2026-08-11 03:11:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| BBQChickenisthebesttt | 5 | 4 | 1 | +0.00 USD |
+| BBQChickenisthebesttt | 5 | 4 | 4 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | dv-pm | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 8 | +0.00 USD |
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
-| quavoo | 136 | 166 | 20 | -30.64 USD |
+| quavoo | 136 | 166 | 21 | -30.64 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -354,6 +354,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 67% | 46.83 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 67% | 80.95 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 69% | 33.51 | ⏳ pendiente | — |
+| quavoo | Palermo FC vs. Juventus Turin: O/U 2.5 | Over (BUY) | 62% | 0.48 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 67% | 24.06 | ⏳ pendiente | — |
 | quavoo | Palermo FC vs. Juventus Turin: O/U 2.5 | Over (BUY) | 61% | 0.42 | ⏳ pendiente | — |
 | dv-pm | Will Aarhus GF win on 2026-08-11? | No (BUY) | 75% | 0.67 | ⏳ pendiente | — |
@@ -380,7 +384,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will SK Brann win on 2026-08-11? | No (BUY) | 69% | 2.06 | ⏳ pendiente | — |
 | UpTheBlues | Will Apóllon Lemesoú win on 2026-08-11? | Yes (BUY) | 41% | 0.54 | ⏳ pendiente | — |
 | quavoo | Will Juventus Turin win on 2026-08-11? | Yes (BUY) | 69% | 2.59 | ⏳ pendiente | — |
-| UpTheBlues | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 38% | 0.58 | ⏳ pendiente | — |
-| UpTheBlues | Will Recoleta FC win on 2026-08-11? | No (BUY) | 94% | 16.45 | ⏳ pendiente | — |
-| UpTheBlues | CA Boca Juniors vs. Recoleta FC: Recolet | Over (BUY) | 41% | 0.80 | ⏳ pendiente | — |
-| UpTheBlues | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 38% | 2.31 | ⏳ pendiente | — |
