@@ -7,10 +7,6 @@
     "username": "RN1",
     "added_at": 1785452514.9474573
   },
-  "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
-    "username": "UpTheBlues",
-    "added_at": 1785452514.9474573
-  },
   "0x204f72f35326db932158cba6adff0b9a1da95e14": {
     "username": "swisstony",
     "added_at": 1785452514.9474573
@@ -190,5 +186,9 @@
   "0x16602a38e8fb4498ffee0ea81e08d2b421825598": {
     "username": "BBQChickenisthebesttt",
     "added_at": 1786455446.6196206
+  },
+  "0x9f2fe025f84839ca81dd8e0338892605702d2ca8": {
+    "username": "surfandturf",
+    "added_at": 1786459054.5209072
   }
 }
