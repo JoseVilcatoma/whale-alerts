@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 00:48:54 (hora de Perú)
+Actualizado: 2026-08-11 00:50:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 34 | 25 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 100 | 30 | -7.44 USD |
+| UpTheBlues | 151 | 100 | 31 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
@@ -352,6 +352,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 91% | 0.53 | ⏳ pendiente | — |
 | 0x4f2 | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 52% | 1.23 | ⏳ pendiente | — |
 | UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Over (BUY) | 97% | 0.72 | ⏳ pendiente | — |
 | UpTheBlues | Will FK Crvena zvezda win on 2026-08-11? | Yes (BUY) | 78% | 1.68 | ⏳ pendiente | — |
@@ -381,4 +382,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Lions FC win on 2026-08-11? | No (BUY) | 81% | 0.89 | ⏳ pendiente | — |
 | UpTheBlues | CA Talleres vs. CA Lanús: Both Teams to  | Yes (BUY) | 41% | 0.50 | ⏳ pendiente | — |
 | UpTheBlues | Will TS Galaxy FC win on 2026-08-11? | No (BUY) | 87% | 0.45 | ⏳ pendiente | — |
-| UpTheBlues | Will Larne FC win on 2026-08-11? | No (BUY) | 83% | 0.88 | ⏳ pendiente | — |
