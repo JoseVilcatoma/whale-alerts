@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:01:30 (hora de Perú)
+Actualizado: 2026-08-11 17:03:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $350.46
@@ -45,8 +45,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 118 | 95 | 20 | -29.60 USD |
-| RN1 | 173 | 99 | 8 | -33.33 USD |
+| swisstony | 118 | 95 | 21 | -29.60 USD |
+| RN1 | 173 | 99 | 12 | -33.33 USD |
 | quavoo | 151 | 181 | 16 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -413,13 +413,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sud-boc-rec1-2026-08-11-spread-home-1pt5 | RN1, UpTheBlues, theowalcott |
 | sud-boc-rec1-2026-08-11-boc | RN1, UpTheBlues |
 | sud-boc-rec1-2026-08-11-draw | UpTheBlues, swisstony |
+| lib-flu-cir-2026-08-11-flu | RN1, UpTheBlues |
 | lib-flu-cir-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-total-1pt5 | RN1, UpTheBlues |
+| lib-flu-cir-2026-08-11-first-half-total-1pt5 | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 44% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 45% | 0.00 | ⏳ pendiente | — |
+| swisstony | Spread: Fluminense FC (-2.5) | CS Independiente Rivadavia (BUY) | 90% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| RN1 | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will CR Brasil win on 2026-08-11? | No (BUY) | 65% | 0.00 | ⏳ pendiente | — |
@@ -445,8 +452,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will CA Boca Juniors vs. Recoleta FC end | No (BUY) | 88% | 0.45 | ⏳ pendiente | — |
 | UpTheBlues | Will Recoleta FC win on 2026-08-11? | No (BUY) | 94% | 1.43 | ⏳ pendiente | — |
 | quavoo | New York Liberty vs. Indiana Fever | Indiana Fever (BUY) | 58% | 1.17 | ⏳ pendiente | — |
-| UpTheBlues | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 36% | 8.20 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 63% | 0.35 | ⏳ pendiente | — |
-| quavoo | Spread: Indiana Fever (-3.5) | New York Liberty (BUY) | 52% | 0.54 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 63% | 0.58 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 63% | 0.49 | ⏳ pendiente | — |
