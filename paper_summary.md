@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 16:42:44 (hora de Perú)
+Actualizado: 2026-08-11 16:44:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $350.46
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 3 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 614 | 464 | 1 | -105.11 USD |
-| BrotherObama | 7 | 5 | 8 | -112.72 USD |
+| BrotherObama | 7 | 5 | 9 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -415,6 +415,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: RMD Gaming vs RED Academy (BO3) - C | RED Academy (BUY) | 23% | 2.17 | ⏳ pendiente | — |
 | SDTrading | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 53% | 0.40 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 56% | 1.91 | ⏳ pendiente | — |
 | UpTheBlues | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 63% | 0.92 | ⏳ pendiente | — |
@@ -444,4 +445,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 1.5 | Over (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors (BUY) | 62% | 0.00 | ⏳ pendiente | — |
