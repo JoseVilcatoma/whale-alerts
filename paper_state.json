@@ -1,5 +1,5 @@
 {
-  "bankroll": 364.42182829109436,
+  "bankroll": 364.28287970943927,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14830,6 +14830,106 @@
       "timestamp": 1786464560.1537461,
       "bankroll": 364.42,
       "event": "lost: Weaseloftheweek \u2014 Dota 2: MOUZ vs Rune Eaters - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786468615.4567168,
+      "bankroll": 364.97,
+      "event": "won: UpTheBlues \u2014 Will Qairat FK win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786468617.0973606,
+      "bankroll": 365.26,
+      "event": "won: UpTheBlues \u2014 Will Qairat FK win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786468618.7935662,
+      "bankroll": 364.59,
+      "event": "lost: UpTheBlues \u2014 Will Qairat FK vs. PFK Levski Sofia end in a draw?"
+    },
+    {
+      "timestamp": 1786468619.2892227,
+      "bankroll": 363.95,
+      "event": "lost: UpTheBlues \u2014 Will Qairat FK vs. PFK Levski Sofia end in a draw?"
+    },
+    {
+      "timestamp": 1786468624.0839317,
+      "bankroll": 363.95,
+      "event": "won: quavoo \u2014 Qairat FK vs. PFK Levski Sofia: O/U 0.5"
+    },
+    {
+      "timestamp": 1786468625.9059355,
+      "bankroll": 363.95,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: PFK Levski Sofia O/U 0.5"
+    },
+    {
+      "timestamp": 1786468627.0272942,
+      "bankroll": 364.91,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786468627.6173425,
+      "bankroll": 365.12,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: O/U 0.5"
+    },
+    {
+      "timestamp": 1786468628.018163,
+      "bankroll": 364.62,
+      "event": "lost: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786468628.1183121,
+      "bankroll": 364.19,
+      "event": "lost: RN1 \u2014 Will Qairat FK win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786468629.2202475,
+      "bankroll": 363.62,
+      "event": "lost: RN1 \u2014 Qairat FK vs. PFK Levski Sofia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786468629.620855,
+      "bankroll": 363.63,
+      "event": "won: RN1 \u2014 Will Qairat FK win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786468631.0233183,
+      "bankroll": 362.36,
+      "event": "lost: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786468631.32404,
+      "bankroll": 361.93,
+      "event": "lost: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786468632.3164744,
+      "bankroll": 362.32,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786468635.6304886,
+      "bankroll": 362.59,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786468636.1312263,
+      "bankroll": 362.84,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786468636.5317488,
+      "bankroll": 363.51,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786468637.1278868,
+      "bankroll": 363.83,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786468638.6232533,
+      "bankroll": 364.28,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: O/U 2.5"
     }
   ]
 }
