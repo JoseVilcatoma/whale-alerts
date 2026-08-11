@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 22:50:15 (hora de Perú)
+Actualizado: 2026-08-10 22:52:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $264.90
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 156 | 88 | 6 | -26.45 USD |
+| RN1 | 156 | 88 | 8 | -26.45 USD |
 | quavoo | 128 | 155 | 23 | -39.00 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 560 | 444 | 55 | -150.20 USD |
+| ferrariChampions2026 | 560 | 444 | 56 | -150.20 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -285,7 +285,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-dnsc-ktc-2026-08-10 | Forecastication2, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-10-total-7pt5 | HomeRunHazard, quavoo |
 | mlb-hou-sf-2026-08-10-total-8pt5 | Forecastication2, SDTrading |
-| mlb-tb-oak-2026-08-10-spread-away-1pt5 | Forecastication2, HomeRunHazard, quavoo |
+| mlb-tb-oak-2026-08-10-spread-away-1pt5 | Forecastication2, HomeRunHazard, RN1, quavoo |
 | mlb-tex-laa-2026-08-10-total-8pt5 | HomeRunHazard, quavoo |
 | por-cds-nac-2026-08-10-cds | Forecastication2, quavoo, theowalcott |
 | swe-sir-bro-2026-08-10-sir | GoalLineGhost, RN1, quavoo |
@@ -341,11 +341,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-col-ari-2026-08-10-total-10pt5 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
 | wnba-chi-sea-2026-08-10-total-183pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-mil-sd-2026-08-10-spread-home-1pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| mlb-col-ari-2026-08-10-total-8pt5 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 63% | 0.68 | ⏳ pendiente | — |
+| RN1 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 22% | 0.44 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 84% | 0.28 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 87% | 0.29 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-2.5) | Kansas City Royals (BUY) | 87% | 0.49 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 85% | 0.31 | ⏳ pendiente | — |
@@ -373,6 +377,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Chicago Sky vs. Seattle Storm: O/U 183.5 | Under (BUY) | 55% | 0.34 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 79% | 0.41 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 27% | 0.27 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 73% | 0.50 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 76% | 0.60 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 77% | 0.53 | ⏳ pendiente | — |

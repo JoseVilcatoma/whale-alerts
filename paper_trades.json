@@ -61075,5 +61075,76 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786420202.8202727,
     "fills": 1
+  },
+  {
+    "timestamp": 1786420232,
+    "timestamp_added": 1786420232.6380436,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-chi-sea-2026-08-10",
+    "title": "Chicago Sky vs. Seattle Storm",
+    "outcome": "Seattle Storm",
+    "side": "BUY",
+    "whale_usd": 388.1808,
+    "whale_pct": 0.107,
+    "paper_stake_usd": 0.28,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "monkeymashingkeyboard",
+      "quavoo",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786420232.6380525,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786420265,
+    "timestamp_added": 1786420266.1633615,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-tb-oak-2026-08-10-spread-away-1pt5",
+    "title": "Spread: Tampa Bay Rays (-1.5)",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "whale_usd": 302.549,
+    "whale_pct": 0.167,
+    "paper_stake_usd": 0.44,
+    "odds_at_bet": 22,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Forecastication2",
+      "HomeRunHazard",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786420266.1633697,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786420333,
+    "timestamp_added": 1786420334.1901975,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-col-ari-2026-08-10-total-8pt5",
+    "title": "Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 468.82392,
+    "whale_pct": 0.257,
+    "paper_stake_usd": 0.68,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786420334.1902058,
+    "fills": 1
   }
 ]
