@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 21:53:55 (hora de Perú)
+Actualizado: 2026-08-10 21:56:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $255.72
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 550 | 441 | 42 | -150.56 USD |
+| ferrariChampions2026 | 550 | 441 | 45 | -150.56 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -276,7 +276,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-hou-sd-2026-08-09-spread-home-3pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | lec-ame-por-2026-08-09-spread-away-1pt5 | NordhavenCap, UpTheBlues |
 | lec-ame-por-2026-08-09-spread-home-1pt5 | NordhavenCap, UpTheBlues |
-| mlb-kc-lad-2026-08-10-spread-home-1pt5 | HomeRunHazard, quavoo, wr0ngw4yb3tt0r |
+| mlb-kc-lad-2026-08-10-spread-home-1pt5 | HomeRunHazard, ferrariChampions2026, quavoo, wr0ngw4yb3tt0r |
 | lec-ame-por-2026-08-09-total-3pt5 | NordhavenCap, ferrariChampions2026 |
 | lol-hle1-gen-2026-08-10 | Djdjdjekekek, fRibrenlc, ferrariChampions2026 |
 | mlb-phi-stl-2026-08-10-total-8pt5 | HomeRunHazard, RN1 |
@@ -338,6 +338,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 70% | 0.35 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 62% | 0.82 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 70% | 0.47 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm: O/U 179.5 | Under (BUY) | 53% | 0.72 | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 51% | 0.64 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 29% | 0.68 | ⏳ pendiente | — |
@@ -365,6 +368,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 47% | 1.17 | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 11.5 | Under (BUY) | 67% | 1.69 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 53% | 1.89 | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 11.5 | Over (BUY) | 33% | 1.01 | ⏳ pendiente | — |
-| HomeRunHazard | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 58% | 0.26 | ⏳ pendiente | — |
-| UpTheBlues | Will FK Crvena zvezda win on 2026-08-11? | Yes (BUY) | 78% | 0.45 | ⏳ pendiente | — |
