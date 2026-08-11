@@ -1,5 +1,5 @@
 {
-  "bankroll": 335.7739967645322,
+  "bankroll": 335.07399676453224,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14600,6 +14600,16 @@
       "timestamp": 1786453347.7683172,
       "bankroll": 335.77,
       "event": "won: ferrariChampions2026 \u2014 Dota 2: Level UP vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786456136.0337458,
+      "bankroll": 335.44,
+      "event": "lost: quavoo \u2014 Will Melbourne City FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786456138.6135883,
+      "bankroll": 335.07,
+      "event": "lost: quavoo \u2014 Will Melbourne City FC win on 2026-08-11?"
     }
   ]
 }
