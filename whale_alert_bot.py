@@ -593,6 +593,38 @@ def dias_hasta_resolver(slug):
     return dias_api
 
 
+def send_telegram(text, responder_a=None):
+    """Envía un mensaje y devuelve su message_id (o None si falló).
+    Si se pasa responder_a, el mensaje sale como respuesta a ese otro,
+    que es lo que permite enlazar el desenlace con la apuesta original."""
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+        return None
+    try:
+        cuerpo = {
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": text,
+            "disable_web_page_preview": True,
+        }
+        if responder_a:
+            cuerpo["reply_to_message_id"] = responder_a
+            cuerpo["allow_sending_without_reply"] = True
+        r = requests.post(
+            f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage",
+            json=cuerpo,
+            timeout=10,
+        )
+        if not r.ok:
+            print(f"[telegram] ⚠️ respuesta {r.status_code}: {r.text[:300]}", file=sys.stderr)
+        else:
+            try:
+                return r.json().get("result", {}).get("message_id")
+            except Exception:
+                return None
+    except Exception as e:
+        print(f"Error mandando a Telegram: {e}", file=sys.stderr)
+    return None
+
+
 def a_cuota(precio_centavos):
     """Convierte el precio de Polymarket (en centavos, 0-100) a cuota decimal,
     la de toda la vida. Ej: 40¢ -> 2.50 ; 62¢ -> 1.61 ; 80¢ -> 1.25."""
