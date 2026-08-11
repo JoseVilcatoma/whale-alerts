@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 20:28:02 (hora de Perú)
+Actualizado: 2026-08-10 20:29:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $250.68
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 22 | 17 | 3 | -4.25 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 128 | 85 | 38 | -7.52 USD |
+| UpTheBlues | 128 | 85 | 39 | -7.52 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 152 | 83 | 9 | -32.38 USD |
@@ -330,6 +330,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will CD Cuenca vs. Manta FC end in a dra | Yes (BUY) | 48% | 0.86 | ⏳ pendiente | — |
 | quavoo | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under (BUY) | 54% | 0.79 | ⏳ pendiente | — |
 | RN1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 59% | 1.02 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Unión win on 2026-08-10? | No (BUY) | 60% | 0.62 | ⏳ pendiente | — |
@@ -359,4 +360,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 0.54 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 31% | 1.23 | ⏳ pendiente | — |
 | quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 4.66 | ⏳ pendiente | — |
-| RN1 | Will Paysandu SC PA win on 2026-08-10? | Yes (BUY) | 11% | 0.19 | ⏳ pendiente | — |
