@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:58:04 (hora de Perú)
+Actualizado: 2026-08-11 18:00:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -46,14 +46,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 122 | 97 | 37 | -28.98 USD |
+| swisstony | 122 | 97 | 40 | -28.98 USD |
 | RN1 | 173 | 99 | 30 | -33.33 USD |
-| quavoo | 151 | 181 | 23 | -33.43 USD |
+| quavoo | 151 | 181 | 25 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 4 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 614 | 464 | 13 | -105.11 USD |
+| ferrariChampions2026 | 614 | 464 | 16 | -105.11 USD |
 | BrotherObama | 7 | 5 | 12 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -423,6 +423,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lib-flu-cir-2026-08-11-flu | RN1, UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-total-2pt5 | RN1, UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-total-1pt5 | RN1, UpTheBlues, swisstony |
+| mlb-cle-det-2026-08-11-total-7pt5 | ferrariChampions2026, swisstony |
 | lib-flu-cir-2026-08-11-cir | RN1, UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-draw | RN1, swisstony |
 | lib-flu-cir-2026-08-11-first-half-total-1pt5 | RN1, swisstony |
@@ -432,6 +433,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 68% | 0.00 | ⏳ pendiente | — |
+| swisstony | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 44% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | CA Boca Juniors vs. Recoleta FC: O/U 3.5 | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Recoleta FC win on 2026-08-11? | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Columbus Crew win on 2026-08-11? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Columbus Crew win on 2026-08-11? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Recoleta FC win on 2026-08-11? | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Avaí FC win on 2026-08-11? | Yes (BUY) | 39% | 0.00 | ⏳ pendiente | — |
@@ -454,11 +463,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | New York Mets vs. Atlanta Braves: O/U 8. | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | swisstony | Spread: Detroit Tigers (-1.5) | Detroit Tigers (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: RMD Gaming vs RED Academy (BO3) - C | RED Academy (BUY) | 12% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Manchester United win on 2026-08-12 | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| swisstony | Spread: Detroit Tigers (-1.5) | Detroit Tigers (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| Sassy-Bucket | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| swisstony | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| swisstony | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
