@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:24:21 (hora de Perú)
+Actualizado: 2026-08-11 17:26:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
+| Sassy-Bucket | 0 | 0 | 2 | +0.00 USD |
 | donthackme | 0 | 0 | 9 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
@@ -383,7 +383,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-nyl-ind-2026-08-11-total-192pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-lyo-spp-2026-08-11-lyo | UpTheBlues, swisstony |
 | wnba-phx-la-2026-08-11-spread-home-2pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
-| mlb-pit-mia-2026-08-11-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| mlb-pit-mia-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-2pt5 | RN1, swisstony |
 | ucl-kai-pls-2026-08-11-pls | RN1, swisstony |
 | mlb-nym-atl-2026-08-11-total-8pt5 | HomeRunHazard, Sassy-Bucket, quavoo |
@@ -424,6 +424,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: cobblemon vs Grêmio Espo | Grêmio Esports (BUY) | 88% | 0.00 | ⏳ pendiente | — |
@@ -453,4 +454,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 53% | 0.91 | ⏳ pendiente | — |
-| RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 53% | 0.65 | ⏳ pendiente | — |
