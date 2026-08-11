@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:46:10 (hora de Perú)
+Actualizado: 2026-08-10 23:48:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $314.96
-**Retorno acumulado:** -68.50%
+**Bankroll actual:** $317.05
+**Retorno acumulado:** -68.29%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,10 +17,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 6 | 1 | 0 | +63.29 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 51 | 47 | 2 | +33.76 USD |
+| wr0ngw4yb3tt0r | 51 | 48 | 1 | +33.42 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
+| HomeRunHazard | 79 | 72 | 23 | +25.90 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
-| HomeRunHazard | 78 | 72 | 24 | +23.95 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -39,9 +39,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 29 | 20 | 10 | -3.97 USD |
+| swisstony | 30 | 20 | 9 | -3.81 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 100 | 19 | -7.44 USD |
+| UpTheBlues | 151 | 100 | 21 | -7.44 USD |
 | Forecastication2 | 4 | 25 | 2 | -16.36 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 162 | 90 | 1 | -22.46 USD |
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 583 | 456 | 27 | -110.33 USD |
+| ferrariChampions2026 | 584 | 456 | 26 | -110.00 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -351,6 +351,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | NEC vs. Olympiakós SFP: O/U 2.5 | Under (BUY) | 50% | 0.34 | ⏳ pendiente | — |
+| UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: Mj | Over (BUY) | 63% | 0.56 | ⏳ pendiente | — |
 | UpTheBlues | Will ŠK Slovan Bratislava win on 2026-08 | No (BUY) | 45% | 1.50 | ⏳ pendiente | — |
 | UpTheBlues | Will Lions FC win on 2026-08-11? | No (BUY) | 81% | 0.89 | ⏳ pendiente | — |
 | UpTheBlues | CA Talleres vs. CA Lanús: Both Teams to  | Yes (BUY) | 41% | 0.50 | ⏳ pendiente | — |
@@ -379,5 +381,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 92% | 1.79 | ⏳ pendiente | — |
 | swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 72% | 0.52 | ⏳ pendiente | — |
 | swisstony | Spread: Tampa Bay Rays (-1.5) | Athletics (BUY) | 42% | 0.55 | ⏳ pendiente | — |
-| swisstony | Spread: Arizona Diamondbacks (-7.5) | Colorado Rockies (BUY) | 72% | 0.42 | ❌ perdida | -0.42 |
-| ferrariChampions2026 | Spread: Arizona Diamondbacks (-7.5) | Arizona Diamondbacks (BUY) | 27% | 2.02 | ✅ ganada | +5.46 |
