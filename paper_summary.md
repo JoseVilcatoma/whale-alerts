@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:53:43 (hora de Perú)
+Actualizado: 2026-08-11 17:55:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -46,9 +46,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 122 | 97 | 31 | -28.98 USD |
+| swisstony | 122 | 97 | 34 | -28.98 USD |
 | RN1 | 173 | 99 | 30 | -33.33 USD |
-| quavoo | 151 | 181 | 21 | -33.43 USD |
+| quavoo | 151 | 181 | 22 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 4 | -82.84 USD |
@@ -430,6 +430,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Fluminense FC win on 2026-08-11? | No (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 68% | 0.00 | ⏳ pendiente | — |
+| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | RN1 | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Columbus Crew win on 2026-08-11? | Yes (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: RMD Gaming vs RED Academy (BO3) - C | RED Academy (BUY) | 12% | 0.00 | ⏳ pendiente | — |
@@ -456,7 +460,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 29% | 0.00 | ⏳ pendiente | — |
 | Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | RN1 | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 27% | 0.00 | ⏳ pendiente | — |
-| Sassy-Bucket | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will Avaí FC vs. CR Brasil end in a draw | Yes (BUY) | 31% | 0.00 | ⏳ pendiente | — |
-| swisstony | Spread: Fluminense FC (-1.5) | CS Independiente Rivadavia (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| Sassy-Bucket | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
