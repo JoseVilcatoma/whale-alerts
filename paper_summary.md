@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 20:21:41 (hora de Perú)
+Actualizado: 2026-08-10 20:23:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $188.70
@@ -41,11 +41,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 22 | 17 | 3 | -4.25 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 128 | 85 | 31 | -7.52 USD |
+| UpTheBlues | 128 | 85 | 33 | -7.52 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 152 | 83 | 7 | -32.38 USD |
-| quavoo | 126 | 155 | 20 | -40.10 USD |
+| RN1 | 152 | 83 | 8 | -32.38 USD |
+| quavoo | 126 | 155 | 21 | -40.10 USD |
 | GoalLineGhost | 36 | 25 | 2 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -329,6 +329,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will CA Central Córdoba win on 2026-08-1 | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Audax CS Italiano win on 2026-08-10 | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Unión win on 2026-08-10? | Yes (BUY) | 80% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Unión win on 2026-08-10? | No (BUY) | 20% | 0.00 | ⏳ pendiente | — |
 | monkeymashingkeyboard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CD Cuenca win on 2026-08-10? | No (BUY) | 58% | 0.00 | ⏳ pendiente | — |
@@ -355,7 +359,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 49% | 0.34 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream | Atlanta Dream (BUY) | 88% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CA Central Córdoba win on 2026-08-1 | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 0.47 | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream | Atlanta Dream (BUY) | 88% | 1.29 | ⏳ pendiente | — |
-| UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 92% | 0.20 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Atlanta Dream (-13.5) | Atlanta Dream (BUY) | 55% | 0.38 | ⏳ pendiente | — |
