@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 15:51:01 (hora de Perú)
+Actualizado: 2026-08-11 15:53:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $347.59
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | wr0ngw4yb3tt0r | 52 | 48 | 29 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| theowalcott | 7 | 4 | 7 | +25.74 USD |
+| theowalcott | 7 | 4 | 8 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 2 | 6 | 2 | +17.41 USD |
@@ -412,6 +412,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: CA Boca | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Boca Juniors vs. Recoleta FC end | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
@@ -441,4 +442,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 25% | 1.09 | ⏳ pendiente | — |
 | RN1 | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 98% | 0.59 | ⏳ pendiente | — |
 | UpTheBlues | Will Minnesota United FC win on 2026-08- | No (BUY) | 52% | 0.37 | ⏳ pendiente | — |
-| RN1 | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Under (BUY) | 42% | 2.99 | ⏳ pendiente | — |

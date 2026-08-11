@@ -72515,5 +72515,28 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786481398.0859444,
     "fills": 2
+  },
+  {
+    "timestamp": 1786481550,
+    "timestamp_added": 1786481551.0901165,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "sud-boc-rec1-2026-08-11-spread-home-1pt5",
+    "title": "Spread: CA Boca Juniors (-1.5)",
+    "outcome": "CA Boca Juniors",
+    "side": "BUY",
+    "whale_usd": 26329.725700000003,
+    "whale_pct": 10.845,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786481552.9120867,
+    "fills": 4
   }
 ]
