@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 08:55:40 (hora de Perú)
+Actualizado: 2026-08-11 08:57:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $335.07
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 34 | 25 | 1 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 100 | 62 | -7.44 USD |
+| UpTheBlues | 151 | 100 | 63 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
@@ -360,6 +360,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Panathinaikós AO win on 2026-08-11? | No (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: RU Saint-Gilloise (-2.5) | FK Bodø/Glimt (BUY) | 98% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
@@ -389,4 +390,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 5.64 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Juventus Turin win on 2026-08-11? | Yes (BUY) | 81% | 0.83 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Bushido Wildcats vs Eter | Bushido Wildcats (BUY) | 89% | 0.38 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Palermo FC win on 2026-08-11? | No (BUY) | 95% | 0.38 | ⏳ pendiente | — |
