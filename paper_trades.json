@@ -70891,5 +70891,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786474977.7254076,
     "fills": 1
+  },
+  {
+    "timestamp": 1786475089,
+    "timestamp_added": 1786475089.8145204,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-lyo-spp-2026-08-11-total-3pt5",
+    "title": "Olympique Lyonnais vs. AC Sparta Praha: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 739.93,
+    "whale_pct": 0.187,
+    "paper_stake_usd": 0.61,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786475089.8145306,
+    "fills": 1
   }
 ]
