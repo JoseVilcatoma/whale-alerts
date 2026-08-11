@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 05:20:06 (hora de Perú)
+Actualizado: 2026-08-11 05:22:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $341.50
@@ -51,7 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 606 | 460 | 4 | -105.60 USD |
+| ferrariChampions2026 | 606 | 460 | 6 | -105.60 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -356,6 +356,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Level UP (BUY) | 39% | 0.75 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Natus Vincere (BUY) | 46% | 0.92 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Natus Vincere (BUY) | 39% | 0.42 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Level UP (BUY) | 54% | 0.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Level UP (BUY) | 44% | 0.62 | ⏳ pendiente | — |
@@ -384,5 +386,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 73% | 0.00 | 💰 vendida anticipada | -0.00 |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 69% | 0.00 | 💰 vendida anticipada | -0.00 |
-| dv-pm | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Over (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 64% | 0.00 | 💰 vendida anticipada | -0.00 |
