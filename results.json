@@ -687,5 +687,31 @@
     "usd": 34116.10974,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33364,
+    "timestamp": 1786449695,
+    "username": "five5120",
+    "wallet": "0xc1c7bb8761105f6d33fc8d71dec31b5688a0f0a7",
+    "slug": "lol-hle1-dnf-2026-08-11-game3",
+    "title": "LoL: Hanwha Life Esports vs DN SOOPers - Game 3 Winner",
+    "outcome": "DN SOOPers",
+    "side": "SELL",
+    "usd": 26724.32892,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33365,
+    "timestamp": 1786449695,
+    "username": "LuckyWin",
+    "wallet": "0x59229282121256ed2d629ce5adf0e04cc7fb3388",
+    "slug": "lol-hle1-dnf-2026-08-11-game3",
+    "title": "LoL: Hanwha Life Esports vs DN SOOPers - Game 3 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 19282.17852,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
