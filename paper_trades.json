@@ -66085,5 +66085,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786463041.6011806,
     "fills": 1
+  },
+  {
+    "timestamp": 1786463395,
+    "timestamp_added": 1786463396.3811755,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "ucl-sf-agf-2026-08-11-spread-home-1pt5",
+    "title": "Spread: Sabah FK (-1.5)",
+    "outcome": "Aarhus GF",
+    "side": "BUY",
+    "whale_usd": 498.75,
+    "whale_pct": 0.101,
+    "paper_stake_usd": 0.34,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786463396.3811848,
+    "fills": 1
   }
 ]

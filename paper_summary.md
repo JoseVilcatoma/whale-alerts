@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 10:49:39 (hora de Perú)
+Actualizado: 2026-08-11 10:51:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $340.35
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 13 | -20.90 USD |
 | BrotherObama | 7 | 3 | 0 | -24.77 USD |
-| quavoo | 142 | 173 | 13 | -30.91 USD |
+| quavoo | 142 | 173 | 14 | -30.91 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -367,6 +367,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Spread: Sabah FK (-1.5) | Aarhus GF (BUY) | 75% | 0.34 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Las Vegas Aces (-7.5) | Las Vegas Aces (BUY) | 44% | 0.43 | ⏳ pendiente | — |
 | quavoo | Spread: FK Bodø/Glimt (-1.5) | RU Saint-Gilloise (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
@@ -396,4 +397,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Qairat FK vs. PFK Levski Sofia: 1st Half | Under (BUY) | 81% | 11.76 | ⏳ pendiente | — |
 | RN1 | Will Qairat FK win on 2026-08-11? | Yes (BUY) | 30% | 0.43 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Over (BUY) | 32% | 0.50 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | Yes (BUY) | 41% | 0.50 | ⏳ pendiente | — |
