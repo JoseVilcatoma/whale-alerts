@@ -1,5 +1,5 @@
 {
-  "bankroll": 315.5082753110836,
+  "bankroll": 316.35933293071264,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13975,6 +13975,71 @@
       "timestamp": 1786423310.737619,
       "bankroll": 315.51,
       "event": "won: RN1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1786423368.5944657,
+      "bankroll": 314.06,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Arizona Diamondbacks (-7.5)"
+    },
+    {
+      "timestamp": 1786423368.6946807,
+      "bankroll": 314.38,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Arizona Diamondbacks (-7.5)"
+    },
+    {
+      "timestamp": 1786423370.2972302,
+      "bankroll": 313.44,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Arizona Diamondbacks (-7.5)"
+    },
+    {
+      "timestamp": 1786423372.035458,
+      "bankroll": 318.9,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Arizona Diamondbacks (-7.5)"
+    },
+    {
+      "timestamp": 1786423372.1356761,
+      "bankroll": 318.48,
+      "event": "lost: swisstony \u2014 Spread: Arizona Diamondbacks (-7.5)"
+    },
+    {
+      "timestamp": 1786423428.4552414,
+      "bankroll": 318.48,
+      "event": "lost: HomeRunHazard \u2014 Chicago Sky vs. Seattle Storm: O/U 180.5"
+    },
+    {
+      "timestamp": 1786423433.6922011,
+      "bankroll": 318.48,
+      "event": "lost: UpTheBlues \u2014 Chicago Sky vs. Seattle Storm: O/U 179.5"
+    },
+    {
+      "timestamp": 1786423436.2114663,
+      "bankroll": 318.76,
+      "event": "won: HomeRunHazard \u2014 Chicago Sky vs. Seattle Storm: O/U 180.5"
+    },
+    {
+      "timestamp": 1786423436.543743,
+      "bankroll": 318.39,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm: O/U 181.5"
+    },
+    {
+      "timestamp": 1786423436.643962,
+      "bankroll": 318.03,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm: O/U 180.5"
+    },
+    {
+      "timestamp": 1786423436.8442225,
+      "bankroll": 317.31,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm: O/U 179.5"
+    },
+    {
+      "timestamp": 1786423439.4060736,
+      "bankroll": 316.72,
+      "event": "lost: HomeRunHazard \u2014 Spread: Arizona Diamondbacks (-8.5)"
+    },
+    {
+      "timestamp": 1786423439.8625119,
+      "bankroll": 316.36,
+      "event": "lost: HomeRunHazard \u2014 Spread: Arizona Diamondbacks (-6.5)"
     }
   ]
 }
