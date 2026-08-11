@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 00:25:59 (hora de Perú)
+Actualizado: 2026-08-11 00:28:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.01
@@ -41,11 +41,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 34 | 25 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 100 | 27 | -7.44 USD |
+| UpTheBlues | 151 | 100 | 28 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
-| quavoo | 136 | 166 | 11 | -30.64 USD |
+| quavoo | 136 | 166 | 12 | -30.64 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -352,6 +352,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 75% | 0.34 | ⏳ pendiente | — |
+| UpTheBlues | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 56% | 0.48 | ⏳ pendiente | — |
 | quavoo | Will FK Bodø/Glimt win on 2026-08-11? | Yes (BUY) | 60% | 0.45 | ⏳ pendiente | — |
 | quavoo | Games Total: O/U 3.5 | Under (BUY) | 40% | 0.43 | ⏳ pendiente | — |
 | 0x4f2 | Will CDPJuniorFC win on 2026-08-10? | No (BUY) | 26% | 0.68 | ⏳ pendiente | — |
@@ -380,5 +382,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Larne FC win on 2026-08-11? | No (BUY) | 83% | 0.82 | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 51% | 1.89 | ✅ ganada | +1.82 |
 | quavoo | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 49% | 0.42 | ⏳ pendiente | — |
-| swisstony | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 71% | 0.45 | ❌ perdida | -0.45 |
-| swisstony | Spread: Los Angeles Angels (-2.5) | Texas Rangers (BUY) | 98% | 1.19 | ✅ ganada | +0.02 |
