@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 22:37:45 (hora de Perú)
+Actualizado: 2026-08-10 22:39:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $256.68
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 7 | +26.87 USD |
-| HomeRunHazard | 58 | 53 | 54 | +26.58 USD |
+| HomeRunHazard | 58 | 53 | 56 | +26.58 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 154 | 88 | 6 | -33.99 USD |
+| RN1 | 154 | 88 | 7 | -33.99 USD |
 | quavoo | 128 | 155 | 23 | -39.00 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 560 | 444 | 51 | -150.20 USD |
+| ferrariChampions2026 | 560 | 444 | 52 | -150.20 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -301,7 +301,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-gen-dnf-2026-08-10 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, BrotherObama, ferrariChampions2026, lzh1 |
 | lol-gen-dnf-2026-08-10-game1 | BrotherObama, ferrariChampions2026 |
 | swe-sir-bro-2026-08-10-total-4pt5 | GoalLineGhost, RN1 |
-| mlb-tb-oak-2026-08-10-total-9pt5 | HomeRunHazard, SDTrading, ferrariChampions2026 |
+| mlb-tb-oak-2026-08-10-total-9pt5 | HomeRunHazard, RN1, SDTrading, ferrariChampions2026 |
 | lol-gen-dnf-2026-08-10-game2 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, ferrariChampions2026 |
 | mlb-kc-lad-2026-08-10-total-7pt5 | Bulls94, HomeRunHazard, ferrariChampions2026, quavoo |
 | mlb-nym-atl-2026-08-10-spread-home-1pt5 | ferrariChampions2026, quavoo |
@@ -345,6 +345,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 55% | 1.66 | ⏳ pendiente | — |
+| RN1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 45% | 1.29 | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 45% | 1.47 | ⏳ pendiente | — |
+| HomeRunHazard | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 76% | 0.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 46% | 0.96 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Arizona Diamondbacks (-6.5) | Colorado Rockies (BUY) | 28% | 0.36 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-7.5) | Colorado Rockies (BUY) | 50% | 0.94 | ⏳ pendiente | — |
@@ -371,7 +375,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Spread: Arizona Diamondbacks (-7.5) | Colorado Rockies (BUY) | 51% | 1.45 | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 63% | 0.39 | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. San Francisco Giants: | Over (BUY) | 50% | 0.32 | ⏳ pendiente | — |
-| ferrariChampions2026 | Houston Astros vs. San Francisco Giants: | Over (BUY) | 50% | 0.29 | ⏳ pendiente | — |
-| ferrariChampions2026 | Houston Astros vs. San Francisco Giants: | Over (BUY) | 50% | 0.30 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: San Francisco Giants (-1.5) | Houston Astros (BUY) | 72% | 0.55 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 82% | 2.12 | ⏳ pendiente | — |
