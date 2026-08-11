@@ -258,5 +258,18 @@
     "usd": 23121.1142,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33759,
+    "timestamp": 1786476357,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-chc-wsh-2026-08-11-total-8pt5",
+    "title": "Chicago Cubs vs. Washington Nationals: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 13632.756500000001,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]
