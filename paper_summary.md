@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 15:03:22 (hora de Perú)
+Actualizado: 2026-08-11 15:05:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $336.27
@@ -46,11 +46,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 86 | 75 | 58 | -24.32 USD |
 | BrotherObama | 7 | 3 | 5 | -24.77 USD |
-| quavoo | 145 | 177 | 19 | -31.62 USD |
+| quavoo | 145 | 177 | 20 | -31.62 USD |
 | RN1 | 167 | 99 | 0 | -34.36 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| Talvez10 | 4 | 11 | 2 | -82.84 USD |
+| Talvez10 | 4 | 11 | 3 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 614 | 463 | 1 | -104.41 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -402,11 +402,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-crv-hbs-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | ucl-stu1-fen-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 | ucl-lyo-spp-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
+| mlb-cle-det-2026-08-11-total-8pt5 | Talvez10, quavoo |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| Talvez10 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 47% | 1.76 | ⏳ pendiente | — |
 | UpTheBlues | NK Celje vs. Ararat-Armenia FA: O/U 3.5 | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will SK Puntigamer Sturm Graz win on 202 | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
@@ -435,5 +438,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 40% | 0.38 | ⏳ pendiente | — |
 | UpTheBlues | Will Deportivo Pereira win on 2026-08-10 | No (BUY) | 88% | 1.39 | ⏳ pendiente | — |
 | swisstony | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 40% | 0.35 | ⏳ pendiente | — |
-| UpTheBlues | NEC vs. Olympiakós SFP: O/U 4.5 | Under (BUY) | 97% | 0.47 | ⏳ pendiente | — |
-| UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 40% | 1.33 | ⏳ pendiente | — |
