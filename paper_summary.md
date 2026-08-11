@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 16:44:56 (hora de Perú)
+Actualizado: 2026-08-11 16:47:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $350.46
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 7 | 4 | 10 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
-| SDTrading | 2 | 6 | 3 | +17.41 USD |
+| SDTrading | 2 | 6 | 4 | +17.41 USD |
 | HomeRunHazard | 93 | 83 | 30 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| UpTheBlues | 210 | 135 | 56 | -1.29 USD |
+| UpTheBlues | 210 | 135 | 57 | -1.29 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -385,6 +385,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-kai-pls-2026-08-11-total-2pt5 | RN1, swisstony |
 | ucl-kai-pls-2026-08-11-pls | RN1, swisstony |
 | mlb-nym-atl-2026-08-11-total-8pt5 | HomeRunHazard, Sassy-Bucket, quavoo |
+| mlb-phi-stl-2026-08-11-total-7pt5 | HomeRunHazard, SDTrading |
 | ucl-sf-agf-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 | ucl-kai-pls-2026-08-11-spread-away-1pt5 | ferrariChampions2026, swisstony |
 | ucl-sf-agf-2026-08-11-btts | UpTheBlues, swisstony |
@@ -415,6 +416,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will CS Independiente Rivadavia win on 2 | No (BUY) | 85% | 1.43 | ⏳ pendiente | — |
+| SDTrading | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 52% | 2.35 | ⏳ pendiente | — |
 | BrotherObama | LoL: RMD Gaming vs RED Academy (BO3) - C | RED Academy (BUY) | 23% | 2.17 | ⏳ pendiente | — |
 | SDTrading | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 53% | 0.40 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 56% | 1.91 | ⏳ pendiente | — |
@@ -443,5 +446,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 1.5 | Over (BUY) | 81% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
