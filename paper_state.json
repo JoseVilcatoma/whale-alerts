@@ -1,5 +1,5 @@
 {
-  "bankroll": 349.0081838235727,
+  "bankroll": 347.9481838235727,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -16365,6 +16365,11 @@
       "timestamp": 1786490626.2118452,
       "bankroll": 349.01,
       "event": "won: UpTheBlues \u2014 Will Polokwane City win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786490939.295475,
+      "bankroll": 347.95,
+      "event": "lost: UpTheBlues \u2014 Will NK Celje win on 2026-08-11?"
     }
   ]
 }
