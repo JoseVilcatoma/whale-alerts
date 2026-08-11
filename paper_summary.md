@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 20:19:33 (hora de Perú)
+Actualizado: 2026-08-10 20:21:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $188.70
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 22 | 17 | 3 | -4.25 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 128 | 85 | 30 | -7.52 USD |
+| UpTheBlues | 128 | 85 | 31 | -7.52 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 152 | 83 | 7 | -32.38 USD |
@@ -329,6 +329,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will CA Unión win on 2026-08-10? | No (BUY) | 20% | 0.00 | ⏳ pendiente | — |
 | monkeymashingkeyboard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CD Cuenca win on 2026-08-10? | No (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | monkeymashingkeyboard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 55% | 0.00 | ⏳ pendiente | — |
@@ -358,4 +359,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream | Atlanta Dream (BUY) | 88% | 1.29 | ⏳ pendiente | — |
 | UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 92% | 0.20 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-13.5) | Atlanta Dream (BUY) | 55% | 0.38 | ⏳ pendiente | — |
-| ferrariChampions2026 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 65% | 0.52 | ⏳ pendiente | — |
