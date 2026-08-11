@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 17:24:34 (hora de Perú)
+Actualizado: 2026-08-11 17:26:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **53**  ($1,199,060 en total)
+- Apuestas registradas: **54**  ($1,213,154 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 39
-- Apostadores distintos: 29
+- Pendientes: 40
+- Apostadores distintos: 30
 
 ### Balance
 
@@ -42,6 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | 0 | 0 | 1 | — | $20,000 | — |
 | monkeymashingkeyboard | 0 | 0 | 1 | — | $14,986 | — |
 | Weaseloftheweek | 0 | 1 | 0 | ⚠️ 0% (1) | $14,667 | -$14,667 |
+| beachboy4 | 0 | 0 | 1 | — | $14,094 | — |
 | kkookkoo | 0 | 0 | 1 | — | $11,562 | — |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | — | $11,356 | — |
 | ExplosiveNinja | 0 | 0 | 1 | — | $11,277 | — |
@@ -58,6 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beachboy4 | National Bank Open: Jakub Mensik vs Ben Shelton | Jakub Mensik | 2.44 (41¢) | $14,094 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.82 (55¢) | $14,986 | — | ⏳ Pendiente |
 | pleaseplease123 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.22 (45¢) | $85,000 | — | ⏳ Pendiente |
 | texaskid | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.82 (55¢) | $55,000 | — | ⏳ Pendiente |
