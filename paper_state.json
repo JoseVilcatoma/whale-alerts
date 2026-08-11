@@ -1,5 +1,5 @@
 {
-  "bankroll": 368.7040266047706,
+  "bankroll": 356.55547959622356,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -15005,6 +15005,56 @@
       "timestamp": 1786468744.1834886,
       "bankroll": 368.7,
       "event": "lost: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786468799.076854,
+      "bankroll": 368.25,
+      "event": "lost: swisstony \u2014 Spread: PFK Levski Sofia (-1.5)"
+    },
+    {
+      "timestamp": 1786468808.5042849,
+      "bankroll": 368.36,
+      "event": "won: ferrariChampions2026 \u2014 Spread: PFK Levski Sofia (-1.5)"
+    },
+    {
+      "timestamp": 1786468859.8576615,
+      "bankroll": 368.36,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786468860.9595242,
+      "bankroll": 368.83,
+      "event": "won: swisstony \u2014 Qairat FK vs. PFK Levski Sofia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786468861.5605264,
+      "bankroll": 367.37,
+      "event": "lost: RN1 \u2014 Qairat FK vs. PFK Levski Sofia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786468861.8797376,
+      "bankroll": 366.0,
+      "event": "lost: RN1 \u2014 Qairat FK vs. PFK Levski Sofia: O/U 3.5"
+    },
+    {
+      "timestamp": 1786468861.9799993,
+      "bankroll": 362.48,
+      "event": "lost: RN1 \u2014 Qairat FK vs. PFK Levski Sofia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786468862.080175,
+      "bankroll": 359.51,
+      "event": "lost: RN1 \u2014 Qairat FK vs. PFK Levski Sofia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786468862.180349,
+      "bankroll": 356.54,
+      "event": "lost: RN1 \u2014 Qairat FK vs. PFK Levski Sofia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786468873.1236806,
+      "bankroll": 356.56,
+      "event": "won: UpTheBlues \u2014 Qairat FK vs. PFK Levski Sofia: O/U 1.5"
     }
   ]
 }

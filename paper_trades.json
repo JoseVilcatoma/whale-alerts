@@ -65135,7 +65135,7 @@
     "whale_pct": 0.139,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -65397,8 +65397,8 @@
     "whale_pct": 0.101,
     "paper_stake_usd": 0.3,
     "odds_at_bet": 39,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.47,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786460527.032718,
@@ -65683,8 +65683,8 @@
     "whale_pct": 0.498,
     "paper_stake_usd": 1.46,
     "odds_at_bet": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.46,
     "overlaps_with": [
       "swisstony"
     ],
@@ -65705,8 +65705,8 @@
     "whale_pct": 0.467,
     "paper_stake_usd": 1.37,
     "odds_at_bet": 31,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.37,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786461345.9631736,
@@ -65725,8 +65725,8 @@
     "whale_pct": 1.196,
     "paper_stake_usd": 3.52,
     "odds_at_bet": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -3.52,
     "overlaps_with": [
       "swisstony"
     ],
@@ -65769,8 +65769,8 @@
     "whale_pct": 1.011,
     "paper_stake_usd": 2.97,
     "odds_at_bet": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.97,
     "overlaps_with": [
       "swisstony"
     ],
@@ -65791,8 +65791,8 @@
     "whale_pct": 1.011,
     "paper_stake_usd": 2.97,
     "odds_at_bet": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.97,
     "overlaps_with": [
       "swisstony"
     ],
@@ -66141,8 +66141,8 @@
     "whale_pct": 0.133,
     "paper_stake_usd": 0.45,
     "odds_at_bet": 25,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.45,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786463528.7095788,
@@ -67717,8 +67717,8 @@
     "whale_pct": 0.123,
     "paper_stake_usd": 0.45,
     "odds_at_bet": 81,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.11,
     "overlaps_with": [
       "swisstony"
     ],
@@ -67909,8 +67909,8 @@
     "whale_pct": 0.11,
     "paper_stake_usd": 0.4,
     "odds_at_bet": 96,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.02,
     "overlaps_with": [
       "RN1",
       "swisstony"
@@ -68932,6 +68932,49 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786468768.0424976,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786468774,
+    "timestamp_added": 1786468775.4567895,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-sba-mja-2026-08-11-mja",
+    "title": "Will Mj\u00e4llby AIF win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1232.4,
+    "whale_pct": 0.374,
+    "paper_stake_usd": 1.38,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786468775.456804,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786468800,
+    "timestamp_added": 1786468801.1974475,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-sf-agf-2026-08-11-agf",
+    "title": "Will Aarhus GF win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1832.8799999999999,
+    "whale_pct": 0.556,
+    "paper_stake_usd": 2.05,
+    "odds_at_bet": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "dv-pm",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786468801.1974604,
     "fills": 1
   }
 ]
