@@ -1,5 +1,5 @@
 {
-  "bankroll": 444.07785455044575,
+  "bankroll": 444.0945892443233,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -15715,6 +15715,11 @@
       "timestamp": 1786479722.4735336,
       "bankroll": 444.08,
       "event": "won: UpTheBlues \u2014 \u0160K Slovan Bratislava vs. Mj\u00e4llby AIF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786479832.5087965,
+      "bankroll": 444.09,
+      "event": "won: UpTheBlues \u2014 \u0160K Slovan Bratislava vs. Mj\u00e4llby AIF: O/U 3.5"
     }
   ]
 }
