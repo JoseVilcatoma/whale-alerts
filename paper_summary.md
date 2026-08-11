@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:13:13 (hora de Perú)
+Actualizado: 2026-08-10 23:15:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $283.47
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 25 | 17 | 12 | -3.90 USD |
-| UpTheBlues | 150 | 98 | 14 | -6.86 USD |
+| UpTheBlues | 150 | 98 | 15 | -6.86 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 563 | 447 | 53 | -148.70 USD |
+| ferrariChampions2026 | 563 | 447 | 54 | -148.70 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -350,6 +350,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 17.5 | Under (BUY) | 51% | 0.48 | ⏳ pendiente | — |
+| UpTheBlues | CA Boca Juniors vs. Recoleta FC: Recolet | Over (BUY) | 40% | 0.29 | ⏳ pendiente | — |
 | UpTheBlues | NK Celje vs. Ararat-Armenia FA: NK Celje | Over (BUY) | 34% | 0.30 | ⏳ pendiente | — |
 | UpTheBlues | Will FK Crvena zvezda vs. MH Hapoel Be'e | No (BUY) | 85% | 0.60 | ⏳ pendiente | — |
 | swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 54% | 0.32 | ⏳ pendiente | — |
@@ -378,5 +380,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 36% | 0.31 | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 38% | 1.10 | ✅ ganada | +1.79 |
 | ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 62% | 2.88 | ❌ perdida | -2.88 |
-| HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 183.5 | Over (BUY) | 59% | 2.80 | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 55% | 1.66 | ❌ perdida | -1.66 |
