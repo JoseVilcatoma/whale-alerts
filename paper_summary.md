@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 19:29:39 (hora de Perú)
+Actualizado: 2026-08-10 19:31:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $188.16
@@ -41,18 +41,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 22 | 17 | 3 | -4.25 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 128 | 85 | 23 | -7.52 USD |
+| UpTheBlues | 128 | 85 | 26 | -7.52 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 152 | 83 | 6 | -32.38 USD |
-| quavoo | 126 | 155 | 15 | -40.10 USD |
+| RN1 | 152 | 83 | 7 | -32.38 USD |
+| quavoo | 126 | 155 | 16 | -40.10 USD |
 | GoalLineGhost | 36 | 25 | 2 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 34 | -148.65 USD |
+| ferrariChampions2026 | 538 | 431 | 35 | -148.65 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -321,11 +321,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-tor-atl-2026-08-10-total-187pt5 | HomeRunHazard, ferrariChampions2026 |
 | wnba-tor-atl-2026-08-10-total-186pt5 | HomeRunHazard, ferrariChampions2026 |
 | wnba-tor-atl-2026-08-10 | HomeRunHazard, ferrariChampions2026 |
+| bra3-psc-con-2026-08-10-psc | RN1, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 4.66 | ⏳ pendiente | — |
+| RN1 | Will Paysandu SC PA win on 2026-08-10? | Yes (BUY) | 11% | 0.19 | ⏳ pendiente | — |
+| UpTheBlues | Will Paysandu SC PA win on 2026-08-10? | No (BUY) | 88% | 0.28 | ⏳ pendiente | — |
+| UpTheBlues | Anapolis FC GO vs. Guarani FC SP: O/U 3. | Under (BUY) | 82% | 0.32 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Unión win on 2026-08-10? | No (BUY) | 44% | 0.51 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Atlanta Dream (-14.5) | Atlanta Dream (BUY) | 45% | 0.28 | ⏳ pendiente | — |
 | UpTheBlues | Will Audax CS Italiano win on 2026-08-10 | No (BUY) | 85% | 0.20 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 49% | 0.34 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream | Atlanta Dream (BUY) | 88% | 0.00 | ⏳ pendiente | — |
@@ -350,9 +357,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Houston Astros vs. San Francisco Giants: | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: CA Unión (-1.5) | CA Central Córdoba (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | RN1 | CD Cuenca vs. Manta FC: O/U 2.5 | Over (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream | Atlanta Dream (BUY) | 89% | 0.68 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: New York Mets (-1.5) | Atlanta Braves (BUY) | 29% | 0.25 | ⏳ pendiente | — |
-| quavoo | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under (BUY) | 54% | 0.24 | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 186 | Under (BUY) | 50% | 0.29 | ⏳ pendiente | — |
-| HomeRunHazard | Toronto Tempo vs. Atlanta Dream: O/U 186 | Over (BUY) | 51% | 0.67 | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 187 | Under (BUY) | 51% | 0.39 | ⏳ pendiente | — |
