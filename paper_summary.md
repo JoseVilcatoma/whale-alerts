@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 20:11:11 (hora de Perú)
+Actualizado: 2026-08-10 20:13:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $188.70
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 3 | +7.96 USD |
 | lzh1 | 5 | 0 | 0 | +3.08 USD |
-| monkeymashingkeyboard | 3 | 0 | 6 | +2.86 USD |
+| monkeymashingkeyboard | 3 | 0 | 7 | +2.86 USD |
 | johnbaster | 1 | 0 | 2 | +2.19 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 22 | 17 | 3 | -4.25 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 128 | 85 | 27 | -7.52 USD |
+| UpTheBlues | 128 | 85 | 28 | -7.52 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 152 | 83 | 7 | -32.38 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 37 | -148.65 USD |
+| ferrariChampions2026 | 538 | 431 | 39 | -148.65 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -328,6 +328,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 187 | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| monkeymashingkeyboard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 55% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: paiN Academy vs QUINTESS | paiN Academy (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Audax CS Italiano win on 2026-08-10 | No (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: CD Cuenca (-1.5) | Manta FC (BUY) | 82% | 0.01 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Minnesota Twins (-2.5) | Minnesota Twins (BUY) | 23% | 0.40 | ⏳ pendiente | — |
 | quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 0.26 | ⏳ pendiente | — |
@@ -354,7 +358,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will CA Unión vs. CA Central Córdoba end | Yes (BUY) | 27% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CA Unión vs. CA Central Córdoba: O/U 1.5 | Under (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Paysandu SC PA win on 2026-08-10? | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Atlanta Dream (-13.5) | Atlanta Dream (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 184 | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Toronto Tempo vs. Atlanta Dream: O/U 184 | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Toronto Tempo vs. Atlanta Dream | Toronto Tempo (BUY) | 11% | 0.00 | ⏳ pendiente | — |
