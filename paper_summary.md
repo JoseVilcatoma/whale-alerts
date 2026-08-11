@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 21:18:42 (hora de Perú)
+Actualizado: 2026-08-10 21:20:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $250.09
@@ -39,12 +39,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 25 | 17 | 3 | -3.90 USD |
+| swisstony | 25 | 17 | 4 | -3.90 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 131 | 86 | 40 | -7.73 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 152 | 85 | 10 | -34.38 USD |
+| RN1 | 152 | 85 | 11 | -34.38 USD |
 | quavoo | 126 | 155 | 25 | -40.10 USD |
 | GoalLineGhost | 36 | 25 | 2 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 543 | 437 | 28 | -150.96 USD |
+| ferrariChampions2026 | 543 | 437 | 29 | -150.96 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -327,11 +327,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bra3-psc-con-2026-08-10-psc | RN1, UpTheBlues |
 | wnba-chi-sea-2026-08-10 | HomeRunHazard, monkeymashingkeyboard, quavoo, swisstony |
 | mlb-col-ari-2026-08-10-total-9pt5 | RN1, swisstony |
+| mlb-tb-oak-2026-08-10-total-11pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 11.5 | Over (BUY) | 35% | 2.75 | ⏳ pendiente | — |
+| swisstony | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 59% | 0.30 | ⏳ pendiente | — |
+| RN1 | Tampa Bay Rays vs. Athletics: O/U 11.5 | Over (BUY) | 35% | 0.78 | ⏳ pendiente | — |
 | swisstony | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 63% | 0.41 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Athletics (BUY) | 76% | 0.39 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 51% | 0.35 | ⏳ pendiente | — |
@@ -359,6 +363,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will CA Central Córdoba win on 2026-08-1 | Yes (BUY) | 84% | 0.88 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 178.5 | Under (BUY) | 48% | 0.95 | ⏳ pendiente | — |
 | UpTheBlues | Will CD Cuenca vs. Manta FC end in a dra | Yes (BUY) | 48% | 0.86 | ⏳ pendiente | — |
-| quavoo | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under (BUY) | 54% | 0.79 | ⏳ pendiente | — |
-| RN1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 59% | 1.02 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Unión win on 2026-08-10? | No (BUY) | 60% | 0.62 | ⏳ pendiente | — |
