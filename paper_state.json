@@ -1,5 +1,5 @@
 {
-  "bankroll": 337.0031662830096,
+  "bankroll": 336.27030914015245,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -15580,6 +15580,31 @@
       "timestamp": 1786476898.4694223,
       "bankroll": 337.0,
       "event": "won: swisstony \u2014 Will GNK Dinamo Zagreb win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786478452.4877372,
+      "bankroll": 336.26,
+      "event": "lost: swisstony \u2014 Al Jazira (UAE) vs. Al-Ittihad Club: O/U 2.5"
+    },
+    {
+      "timestamp": 1786478453.0351005,
+      "bankroll": 336.26,
+      "event": "won: swisstony \u2014 Al Jazira (UAE) vs. Al-Ittihad Club: O/U 0.5"
+    },
+    {
+      "timestamp": 1786478459.5417624,
+      "bankroll": 336.26,
+      "event": "won: swisstony \u2014 Al Jazira (UAE) vs. Al-Ittihad Club: O/U 2.5"
+    },
+    {
+      "timestamp": 1786478459.793925,
+      "bankroll": 336.26,
+      "event": "won: swisstony \u2014 Spread: Al Jazira (UAE) (-1.5)"
+    },
+    {
+      "timestamp": 1786478462.5918794,
+      "bankroll": 336.27,
+      "event": "won: swisstony \u2014 Al Jazira (UAE) vs. Al-Ittihad Club: O/U 3.5"
     }
   ]
 }
