@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 17:18:29 (hora de Perú)
+Actualizado: 2026-08-11 17:20:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **50**  ($1,044,074 en total)
+- Apuestas registradas: **53**  ($1,199,060 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 36
-- Apostadores distintos: 27
+- Pendientes: 39
+- Apostadores distintos: 29
 
 ### Balance
 
@@ -24,12 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | 0 | 0 | 4 | — | $153,001 | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 3 | — | $128,015 | — |
 | SDTrading | 0 | 0 | 6 | — | $121,629 | — |
 | AV23IUa | 0 | 0 | 2 | — | $104,685 | — |
 | BreakTheBank | 0 | 0 | 2 | — | $101,307 | — |
 | theowalcott | 0 | 0 | 6 | — | $89,215 | — |
-| pleaseplease123 | 0 | 0 | 3 | — | $68,002 | — |
+| texaskid | 0 | 0 | 1 | — | $55,000 | — |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
 | ferrariChampions2026 | 1 | 0 | 2 | ⚠️ 100% (1) | $49,144 | +$8,160 |
 | Talvez10 | 0 | 0 | 3 | — | $39,880 | — |
@@ -39,6 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 2 | 0 | 0 | ⚠️ 100% (2) | $21,062 | +$8,396 |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | 0 | 0 | 1 | — | $20,000 | — |
+| monkeymashingkeyboard | 0 | 0 | 1 | — | $14,986 | — |
 | Weaseloftheweek | 0 | 1 | 0 | ⚠️ 0% (1) | $14,667 | -$14,667 |
 | kkookkoo | 0 | 0 | 1 | — | $11,562 | — |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | — | $11,356 | — |
@@ -56,6 +58,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.82 (55¢) | $14,986 | — | ⏳ Pendiente |
+| pleaseplease123 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.22 (45¢) | $85,000 | — | ⏳ Pendiente |
+| texaskid | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.82 (55¢) | $55,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.82 (55¢) | $17,918 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.79 (56¢) | $100,800 | — | ⏳ Pendiente |
 | BreakTheBank | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.27 (44¢) | $79,200 | — | ⏳ Pendiente |
