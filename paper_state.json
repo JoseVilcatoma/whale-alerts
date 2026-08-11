@@ -1,5 +1,5 @@
 {
-  "bankroll": 256.9384046235067,
+  "bankroll": 256.6784046235067,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13360,6 +13360,11 @@
       "timestamp": 1786417763.3795993,
       "bankroll": 256.94,
       "event": "won: HomeRunHazard \u2014 Spread: Philadelphia Phillies (-2.5)"
+    },
+    {
+      "timestamp": 1786418444.3386424,
+      "bankroll": 256.68,
+      "event": "lost: Forecastication2 \u2014 Tampa Bay Rays vs. Athletics: 1st 5 Innings O/U 5.5"
     }
   ]
 }

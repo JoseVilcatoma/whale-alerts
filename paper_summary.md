@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 22:19:00 (hora de Perú)
+Actualizado: 2026-08-10 22:21:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $256.94
-**Retorno acumulado:** -74.31%
+**Bankroll actual:** $256.68
+**Retorno acumulado:** -74.33%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -18,8 +18,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| wr0ngw4yb3tt0r | 49 | 44 | 3 | +26.87 USD |
-| HomeRunHazard | 58 | 53 | 45 | +26.58 USD |
+| wr0ngw4yb3tt0r | 49 | 44 | 4 | +26.87 USD |
+| HomeRunHazard | 58 | 53 | 46 | +26.58 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 25 | 17 | 4 | -3.90 USD |
 | UpTheBlues | 139 | 95 | 24 | -6.80 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| Forecastication2 | 4 | 23 | 4 | -11.41 USD |
+| Forecastication2 | 4 | 24 | 3 | -11.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 154 | 88 | 6 | -33.99 USD |
 | quavoo | 128 | 155 | 23 | -39.00 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 560 | 444 | 40 | -150.20 USD |
+| ferrariChampions2026 | 560 | 444 | 42 | -150.20 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -337,11 +337,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-mil-sd-2026-08-10-spread-away-1pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-phi-stl-2026-08-10-spread-away-2pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-col-ari-2026-08-10-total-11pt5 | HomeRunHazard, ferrariChampions2026 |
+| mlb-col-ari-2026-08-10-spread-home-7pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 80% | 1.48 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 81% | 0.58 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Arizona Diamondbacks (-7.5) | Arizona Diamondbacks (BUY) | 49% | 0.31 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Arizona Diamondbacks (-7.5) | Colorado Rockies (BUY) | 51% | 1.45 | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 63% | 0.39 | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. San Francisco Giants: | Over (BUY) | 50% | 0.32 | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. San Francisco Giants: | Over (BUY) | 50% | 0.29 | ⏳ pendiente | — |
@@ -368,7 +373,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm: O/U 180.5 | Under (BUY) | 48% | 0.36 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm: O/U 181.5 | Under (BUY) | 51% | 0.37 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 180.5 | Over (BUY) | 52% | 0.30 | ⏳ pendiente | — |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 63% | 2.85 | ⏳ pendiente | — |
-| HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 52% | 1.85 | ⏳ pendiente | — |
-| HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 37% | 1.33 | ⏳ pendiente | — |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 48% | 2.15 | ⏳ pendiente | — |
