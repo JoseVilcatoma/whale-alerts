@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 18:21:08 (hora de Perú)
+Actualizado: 2026-08-11 18:23:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -46,14 +46,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 122 | 97 | 59 | -28.98 USD |
-| RN1 | 173 | 99 | 34 | -33.33 USD |
+| swisstony | 122 | 97 | 64 | -28.98 USD |
+| RN1 | 173 | 99 | 39 | -33.33 USD |
 | quavoo | 151 | 181 | 29 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 4 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 614 | 464 | 28 | -105.11 USD |
+| ferrariChampions2026 | 614 | 464 | 29 | -105.11 USD |
 | BrotherObama | 7 | 5 | 12 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -379,7 +379,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-bos-tor-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-cin-cws-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket |
 | col-csk1-pao-2026-08-11-pao | UpTheBlues, swisstony |
-| mlb-chc-wsh-2026-08-11-total-8pt5 | HomeRunHazard, Talvez10, dv-pm, ferrariChampions2026, swisstony |
+| mlb-chc-wsh-2026-08-11-total-8pt5 | HomeRunHazard, RN1, Talvez10, dv-pm, ferrariChampions2026, swisstony |
 | wnba-nyl-ind-2026-08-11-spread-home-3pt5 | quavoo, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-0pt5 | quavoo, swisstony |
 | wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -437,6 +437,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 36% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will Avaí FC vs. CR Brasil end in a draw | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will Avaí FC win on 2026-08-11? | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
+| RN1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 78% | 0.00 | ⏳ pendiente | — |
+| RN1 | Spread: New York Mets (-1.5) | Atlanta Braves (BUY) | 66% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will Fluminense FC vs. CS Independiente  | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 63% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will Fluminense FC win on 2026-08-11? | No (BUY) | 64% | 0.00 | ⏳ pendiente | — |
+| RN1 | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | swisstony | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 36% | 0.00 | ⏳ pendiente | — |
@@ -456,14 +467,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| swisstony | Spread: Detroit Tigers (-1.5) | Detroit Tigers (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will CR Brasil win on 2026-08-11? | No (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will FC Cincinnati win on 2026-08-11? | Yes (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 35% | 0.00 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 32% | 0.00 | ⏳ pendiente | — |
