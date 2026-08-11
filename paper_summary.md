@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 16:07:38 (hora de Perú)
+Actualizado: 2026-08-11 16:09:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $347.59
-**Retorno acumulado:** -65.24%
+**Bankroll actual:** $349.29
+**Retorno acumulado:** -65.07%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -34,9 +34,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
+| UpTheBlues | 208 | 131 | 57 | -0.10 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| UpTheBlues | 205 | 128 | 63 | -0.86 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -44,15 +44,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 103 | 91 | 26 | -32.51 USD |
-| quavoo | 150 | 181 | 13 | -33.50 USD |
-| RN1 | 167 | 99 | 11 | -34.36 USD |
+| swisstony | 106 | 94 | 20 | -31.80 USD |
+| quavoo | 151 | 181 | 12 | -33.43 USD |
+| RN1 | 170 | 99 | 8 | -33.51 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 3 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 614 | 463 | 1 | -104.41 USD |
-| BrotherObama | 7 | 5 | 7 | -112.72 USD |
+| ferrariChampions2026 | 614 | 464 | 0 | -105.11 USD |
+| BrotherObama | 7 | 5 | 8 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -412,6 +412,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Paris Saint-Germain vs. Aston Villa | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
@@ -441,4 +442,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Spread: CA Boca Juniors (-1.5) | Recoleta FC (BUY) | 41% | 1.46 | ⏳ pendiente | — |
 | UpTheBlues | Spread: CA Boca Juniors (-1.5) | Recoleta FC (BUY) | 40% | 3.58 | ⏳ pendiente | — |
 | theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors (BUY) | 59% | 57.43 | ⏳ pendiente | — |
-| UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 86% | 4.10 | ⏳ pendiente | — |
