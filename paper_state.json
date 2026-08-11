@@ -1,5 +1,5 @@
 {
-  "bankroll": 257.5173103459853,
+  "bankroll": 340.3518282910944,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14765,6 +14765,21 @@
       "timestamp": 1786462992.9186964,
       "bankroll": 257.52,
       "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Bushido Wildcats vs Eternal Fire Academy - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786463305.5647967,
+      "bankroll": 275.94,
+      "event": "won: lzh1 \u2014 LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786463306.4014645,
+      "bankroll": 311.05,
+      "event": "won: BBQChickenisthebesttt \u2014 LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786463306.5016336,
+      "bankroll": 340.35,
+      "event": "won: BBQChickenisthebesttt \u2014 LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner"
     }
   ]
 }

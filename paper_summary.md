@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 10:47:36 (hora de Perú)
+Actualizado: 2026-08-11 10:49:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $257.52
-**Retorno acumulado:** -74.25%
+**Bankroll actual:** $340.35
+**Retorno acumulado:** -65.96%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 21 | 16 | 8 | +101.00 USD |
+| BBQChickenisthebesttt | 23 | 16 | 6 | +165.42 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
@@ -48,8 +48,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 163 | 90 | 13 | -20.90 USD |
 | BrotherObama | 7 | 3 | 0 | -24.77 USD |
 | quavoo | 142 | 173 | 13 | -30.91 USD |
+| lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| lzh1 | 5 | 7 | 1 | -69.66 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 613 | 463 | 0 | -104.52 USD |
