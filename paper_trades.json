@@ -70238,5 +70238,49 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786472481.9558103,
     "fills": 1
+  },
+  {
+    "timestamp": 1786472614,
+    "timestamp_added": 1786472614.5457006,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col-al-bra-2026-08-11-total-2pt5",
+    "title": "Ap\u00f3llon Lemeso\u00fa vs. SK Brann: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 474.62,
+    "whale_pct": 0.138,
+    "paper_stake_usd": 0.46,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786472614.5457134,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786472627,
+    "timestamp_added": 1786472627.9952774,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-nec-oly-2026-08-11-nec",
+    "title": "Will NEC win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 409.37,
+    "whale_pct": 0.119,
+    "paper_stake_usd": 0.4,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786472627.9952877,
+    "fills": 1
   }
 ]
