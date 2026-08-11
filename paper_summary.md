@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 14:09:53 (hora de Perú)
+Actualizado: 2026-08-11 14:14:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $323.63
-**Retorno acumulado:** -67.64%
+**Bankroll actual:** $336.29
+**Retorno acumulado:** -66.37%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
-| 0x4f2 | 16 | 13 | 4 | +17.16 USD |
+| 0x4f2 | 16 | 14 | 3 | +16.69 USD |
 | HomeRunHazard | 93 | 83 | 30 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
@@ -35,16 +35,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| dv-pm | 1 | 1 | 6 | -0.92 USD |
+| UpTheBlues | 168 | 110 | 86 | -0.57 USD |
+| dv-pm | 1 | 2 | 5 | -0.92 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 162 | 109 | 92 | -13.72 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 73 | 73 | 73 | -24.64 USD |
+| swisstony | 77 | 74 | 68 | -24.67 USD |
 | BrotherObama | 7 | 3 | 2 | -24.77 USD |
 | quavoo | 145 | 177 | 19 | -31.62 USD |
 | RN1 | 167 | 99 | 0 | -34.36 USD |
@@ -405,6 +405,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will NEC win on 2026-08-11? | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Olympiakós SFP win on 2026-08-11? | No (BUY) | 93% | 0.16 | ⏳ pendiente | — |
 | UpTheBlues | Will SK Puntigamer Sturm Graz win on 202 | Yes (BUY) | 28% | 0.44 | ⏳ pendiente | — |
@@ -433,5 +434,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will SK Brann win on 2026-08-11? | No (BUY) | 92% | 0.56 | ⏳ pendiente | — |
 | swisstony | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Under (BUY) | 70% | 0.43 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Indiana Fever (-2.5) | New York Liberty (BUY) | 48% | 4.76 | ⏳ pendiente | — |
-| UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 86% | 0.36 | ⏳ pendiente | — |
-| UpTheBlues | Apóllon Lemesoú vs. SK Brann: O/U 2.5 | Under (BUY) | 83% | 0.91 | ⏳ pendiente | — |
+| UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 86% | 0.36 | ✅ ganada | +0.06 |

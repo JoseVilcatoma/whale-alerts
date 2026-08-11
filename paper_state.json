@@ -1,5 +1,5 @@
 {
-  "bankroll": 323.6332063910284,
+  "bankroll": 336.28697975316624,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -15470,6 +15470,76 @@
       "timestamp": 1786474886.679245,
       "bankroll": 323.63,
       "event": "won: swisstony \u2014 Will RU Saint-Gilloise win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786475488.1589093,
+      "bankroll": 322.32,
+      "event": "lost: UpTheBlues \u2014 FK Kauno \u017dalgiris vs. GNK Dinamo Zagreb: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1786475490.318999,
+      "bankroll": 321.85,
+      "event": "lost: 0x4f2 \u2014 FK Kauno \u017dalgiris vs. GNK Dinamo Zagreb: O/U 3.5"
+    },
+    {
+      "timestamp": 1786475491.3731017,
+      "bankroll": 321.91,
+      "event": "won: UpTheBlues \u2014 FK Kauno \u017dalgiris vs. GNK Dinamo Zagreb: O/U 5.5"
+    },
+    {
+      "timestamp": 1786475492.2706544,
+      "bankroll": 323.26,
+      "event": "won: UpTheBlues \u2014 Will FK Bod\u00f8/Glimt vs. RU Saint-Gilloise end in a draw?"
+    },
+    {
+      "timestamp": 1786475493.1064794,
+      "bankroll": 336.24,
+      "event": "won: UpTheBlues \u2014 Will FK Bod\u00f8/Glimt vs. RU Saint-Gilloise end in a draw?"
+    },
+    {
+      "timestamp": 1786475500.541005,
+      "bankroll": 336.24,
+      "event": "lost: dv-pm \u2014 Will FK Kauno \u017dalgiris vs. GNK Dinamo Zagreb end in a draw?"
+    },
+    {
+      "timestamp": 1786475510.4823232,
+      "bankroll": 336.42,
+      "event": "won: swisstony \u2014 FK Kauno \u017dalgiris vs. GNK Dinamo Zagreb: O/U 3.5"
+    },
+    {
+      "timestamp": 1786475512.0851297,
+      "bankroll": 336.42,
+      "event": "won: swisstony \u2014 FK Kauno \u017dalgiris vs. GNK Dinamo Zagreb: O/U 3.5"
+    },
+    {
+      "timestamp": 1786475512.509865,
+      "bankroll": 336.42,
+      "event": "won: swisstony \u2014 Spread: GNK Dinamo Zagreb (-1.5)"
+    },
+    {
+      "timestamp": 1786475512.9177263,
+      "bankroll": 336.42,
+      "event": "won: UpTheBlues \u2014 Will FK Kauno \u017dalgiris win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786475513.9268472,
+      "bankroll": 335.99,
+      "event": "lost: swisstony \u2014 FK Kauno \u017dalgiris vs. GNK Dinamo Zagreb: O/U 2.5"
+    },
+    {
+      "timestamp": 1786475519.3622804,
+      "bankroll": 336.01,
+      "event": "won: UpTheBlues \u2014 FK Kauno \u017dalgiris vs. GNK Dinamo Zagreb: O/U 2.5"
+    },
+    {
+      "timestamp": 1786475560.3394186,
+      "bankroll": 336.23,
+      "event": "won: swisstony \u2014 FK Kauno \u017dalgiris vs. GNK Dinamo Zagreb: O/U 4.5"
+    },
+    {
+      "timestamp": 1786475566.6911342,
+      "bankroll": 336.29,
+      "event": "won: UpTheBlues \u2014 FK Kauno \u017dalgiris vs. GNK Dinamo Zagreb: O/U 4.5"
     }
   ]
 }
