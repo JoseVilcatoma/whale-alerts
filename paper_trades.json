@@ -68178,8 +68178,8 @@
     "whale_pct": 0.215,
     "paper_stake_usd": 0.78,
     "odds_at_bet": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.52,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786467883.5384824,
@@ -68765,7 +68765,7 @@
     "whale_pct": 0.1,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -68785,7 +68785,7 @@
     "whale_pct": 0.151,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "swisstony"
@@ -69140,8 +69140,8 @@
     "whale_pct": 0.149,
     "paper_stake_usd": 0.53,
     "odds_at_bet": 81,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.12,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -69726,8 +69726,8 @@
     "whale_pct": 0.111,
     "paper_stake_usd": 0.39,
     "odds_at_bet": 11,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.39,
     "overlaps_with": [
       "swisstony"
     ],
@@ -69836,8 +69836,8 @@
     "whale_pct": 2.237,
     "paper_stake_usd": 1.21,
     "odds_at_bet": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.21,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -70502,8 +70502,8 @@
     "whale_pct": 0.433,
     "paper_stake_usd": 1.44,
     "odds_at_bet": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.23,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -71251,5 +71251,67 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786476258.5474572,
     "fills": 1
+  },
+  {
+    "timestamp": 1786476288,
+    "timestamp_added": 1786476288.7110124,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-sba-mja-2026-08-11-total-4pt5",
+    "title": "\u0160K Slovan Bratislava vs. Mj\u00e4llby AIF: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1115.5,
+    "whale_pct": 0.287,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786476288.7110226,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786476303,
+    "timestamp_added": 1786476303.8308904,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-crv-hbs-2026-08-11-hbs",
+    "title": "Will MH Hapoel Be'er Sheva win on 2026-08-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 785.7124,
+    "whale_pct": 0.199,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786476303.8309057,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786476341,
+    "timestamp_added": 1786476341.598749,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-nec-oly-2026-08-11-nec",
+    "title": "Will NEC win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1416.689903,
+    "whale_pct": 0.359,
+    "paper_stake_usd": 1.21,
+    "odds_at_bet": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786476342.1169596,
+    "fills": 2
   }
 ]
