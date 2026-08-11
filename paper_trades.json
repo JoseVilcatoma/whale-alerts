@@ -64493,5 +64493,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786448184.1649415,
     "fills": 1
+  },
+  {
+    "timestamp": 1786448303,
+    "timestamp_added": 1786448303.6355116,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lib-flu-cir-2026-08-11-team-total-away-2pt5",
+    "title": "Fluminense FC vs. CS Independiente Rivadavia: CS Independiente Rivadavia O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 624.0,
+    "whale_pct": 0.402,
+    "paper_stake_usd": 1.35,
+    "odds_at_bet": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786448303.6355202,
+    "fills": 1
   }
 ]
