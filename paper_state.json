@@ -1,5 +1,5 @@
 {
-  "bankroll": 333.7186362392762,
+  "bankroll": 332.9885352291751,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -15355,6 +15355,21 @@
       "timestamp": 1786472077.9445338,
       "bankroll": 333.72,
       "event": "won: UpTheBlues \u2014 Will Aarhus GF win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786474682.6272783,
+      "bankroll": 333.72,
+      "event": "won: swisstony \u2014 Will Al Hussein Irbid win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786474682.7274992,
+      "bankroll": 333.73,
+      "event": "won: swisstony \u2014 Will Al Hussein Irbid win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786474739.876881,
+      "bankroll": 332.99,
+      "event": "lost: swisstony \u2014 FK Bod\u00f8/Glimt vs. RU Saint-Gilloise: O/U 2.5"
     }
   ]
 }

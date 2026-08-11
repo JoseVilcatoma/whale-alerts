@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 13:57:28 (hora de Perú)
+Actualizado: 2026-08-11 13:59:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $333.72
-**Retorno acumulado:** -66.63%
+**Bankroll actual:** $332.99
+**Retorno acumulado:** -66.70%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -41,10 +41,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 160 | 104 | 90 | -8.59 USD |
+| UpTheBlues | 160 | 104 | 91 | -8.59 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| swisstony | 69 | 66 | 78 | -20.05 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
+| swisstony | 71 | 67 | 76 | -20.79 USD |
 | BrotherObama | 7 | 3 | 2 | -24.77 USD |
 | quavoo | 143 | 174 | 24 | -31.25 USD |
 | RN1 | 167 | 99 | 0 | -34.36 USD |
@@ -393,6 +393,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-kau-din-2026-08-11-din | UpTheBlues, swisstony |
 | ucl-kau-din-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | ucl-kau-din-2026-08-11-total-4pt5 | UpTheBlues, swisstony |
+| ucl-sba-mja-2026-08-11-total-1pt5 | UpTheBlues, swisstony |
 | ucl-crv-hbs-2026-08-11-btts | UpTheBlues, swisstony |
 | ucl-stu1-fen-2026-08-11-fen | quavoo, swisstony |
 | ucl-crv-hbs-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
@@ -401,6 +402,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 78% | 0.59 | ⏳ pendiente | — |
+| swisstony | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 52% | 0.40 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Under (BUY) | 60% | 3.51 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Dana White's Contender Series: Joe Krops | Jon Kunneman (BUY) | 60% | 6.87 | ⏳ pendiente | — |
 | swisstony | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 46% | 0.37 | ⏳ pendiente | — |
@@ -428,6 +431,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Over (BUY) | 97% | 0.68 | ⏳ pendiente | — |
 | UpTheBlues | Spread: FK Crvena zvezda (-1.5) | MH Hapoel Be'er Sheva (BUY) | 55% | 0.56 | ⏳ pendiente | — |
 | UpTheBlues | NEC vs. Olympiakós SFP: O/U 3.5 | Under (BUY) | 93% | 1.65 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.48 | ⏳ pendiente | — |
-| UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 24% | 0.36 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.48 | ⏳ pendiente | — |
