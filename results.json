@@ -739,5 +739,18 @@
     "usd": 19406.38419,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33368,
+    "timestamp": 1786451550,
+    "username": "Istaroth",
+    "wallet": "0x9efda3d6354152901fc4706c3b1a9ce50b45ad00",
+    "slug": "",
+    "title": "",
+    "outcome": "",
+    "side": "BUY",
+    "usd": 27704.208400000003,
+    "odds_at_bet": 92,
+    "status": "pending"
   }
 ]
