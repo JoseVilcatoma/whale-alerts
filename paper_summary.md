@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 12:09:04 (hora de Perú)
+Actualizado: 2026-08-11 12:11:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $364.42
@@ -40,14 +40,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 97 | -4.23 USD |
+| swisstony | 35 | 25 | 103 | -4.23 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 101 | 70 | -8.33 USD |
+| UpTheBlues | 151 | 101 | 71 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 13 | -20.90 USD |
-| BrotherObama | 7 | 3 | 1 | -24.77 USD |
-| quavoo | 142 | 173 | 18 | -30.91 USD |
+| BrotherObama | 7 | 3 | 2 | -24.77 USD |
+| quavoo | 142 | 173 | 20 | -30.91 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -356,10 +356,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | uel-sab-lar-2026-08-11-spread-away-1pt5 | UpTheBlues, swisstony |
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
 | ucl-nec-oly-2026-08-11-total-2pt5 | UpTheBlues, quavoo |
+| ucl-nec-oly-2026-08-11-btts | UpTheBlues, quavoo |
 | ucl-bog-usg-2026-08-11-bog | quavoo, swisstony |
 | ucl-kau-din-2026-08-11-total-3pt5 | 0x4f2, swisstony |
 | clf-pal-juv-2026-08-11-juv | ferrariChampions2026, quavoo, swisstony |
 | col-al-bra-2026-08-11-al | UpTheBlues, swisstony |
+| col-al-bra-2026-08-11-bra | UpTheBlues, swisstony |
 | ucl-kai-pls-2026-08-11-kai | RN1, UpTheBlues |
 | lol-hle1-dnf-2026-08-11 | BBQChickenisthebesttt, BrotherObama, Lakersfan111, ferrariChampions2026 |
 | lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
@@ -382,6 +384,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| swisstony | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 74% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Mamelodi Sundowns win on 2026-08-11 | Yes (BUY) | 64% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will SK Brann win on 2026-08-11? | No (BUY) | 71% | 0.00 | ⏳ pendiente | — |
+| quavoo | NEC vs. Olympiakós SFP: O/U 2.5 | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| quavoo | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 60% | 0.79 | ⏳ pendiente | — |
+| BrotherObama | LoL: Kaufland Hangry Knights vs G2 NORD  | Kaufland Hangry Knights (BUY) | 22% | 54.57 | ⏳ pendiente | — |
+| swisstony | Will SK Iberia 1999 win on 2026-08-11? | No (BUY) | 60% | 0.83 | ⏳ pendiente | — |
+| swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 54% | 0.70 | ⏳ pendiente | — |
 | swisstony | Apóllon Lemesoú vs. SK Brann: O/U 3.5 | Under (BUY) | 71% | 0.58 | ⏳ pendiente | — |
 | swisstony | Will Apóllon Lemesoú win on 2026-08-11? | No (BUY) | 56% | 0.92 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 79% | 1.07 | ⏳ pendiente | — |
@@ -402,13 +414,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Olympiakós SFP win on 2026-08-11? | No (BUY) | 66% | 3.37 | ⏳ pendiente | — |
 | swisstony | FK Bodø/Glimt vs. RU Saint-Gilloise: O/U | Under (BUY) | 89% | 1.02 | ⏳ pendiente | — |
 | UpTheBlues | Will Olympiakós SFP win on 2026-08-11? | No (BUY) | 66% | 0.98 | ⏳ pendiente | — |
-| swisstony | Apóllon Lemesoú vs. SK Brann: O/U 3.5 | Under (BUY) | 67% | 0.61 | ⏳ pendiente | — |
-| swisstony | Apóllon Lemesoú vs. SK Brann: O/U 2.5 | Under (BUY) | 45% | 0.41 | ⏳ pendiente | — |
-| UpTheBlues | Apóllon Lemesoú vs. SK Brann: O/U 3.5 | Under (BUY) | 66% | 0.38 | ⏳ pendiente | — |
-| swisstony | Will SK Iberia 1999 win on 2026-08-11? | Yes (BUY) | 43% | 0.49 | ⏳ pendiente | — |
-| UpTheBlues | Will NEC win on 2026-08-11? | Yes (BUY) | 37% | 0.67 | ⏳ pendiente | — |
-| UpTheBlues | Qairat FK vs. PFK Levski Sofia: O/U 1.5 | Under (BUY) | 96% | 0.40 | ⏳ pendiente | — |
-| UpTheBlues | Will NEC win on 2026-08-11? | Yes (BUY) | 37% | 0.50 | ⏳ pendiente | — |
-| swisstony | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 64% | 0.83 | ⏳ pendiente | — |
-| swisstony | FK Bodø/Glimt vs. RU Saint-Gilloise: O/U | Under (BUY) | 45% | 1.16 | ⏳ pendiente | — |
-| BrotherObama | LoL: Kaufland Hangry Knights vs G2 NORD  | Kaufland Hangry Knights (BUY) | 26% | 33.38 | ⏳ pendiente | — |
