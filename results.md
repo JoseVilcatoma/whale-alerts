@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 00:25:23 (hora de Perú)
+Actualizado: 2026-08-11 00:27:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5**  ($61,563 en total)
+- Apuestas registradas: **6**  ($71,956 en total)
 - Resueltas: **5** — 3 ganadas / 2 perdidas (**60%** de acierto)
-- Pendientes: 0
-- Apostadores distintos: 5
+- Pendientes: 1
+- Apostadores distintos: 6
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -22,11 +22,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | hd777 | 1 | 0 | 0 | ⚠️ 100% (1) | $10,902 |
 | Sassy-Bucket | 0 | 1 | 0 | ⚠️ 0% (1) | $10,817 |
 | dmoralez | 1 | 0 | 0 | ⚠️ 100% (1) | $10,757 |
+| 0x3814198398E2d02c0e8fBa652345995cF84417bC-1782140092998 | 0 | 0 | 1 | — | $10,393 |
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Precio | Monto | Resultado |
 |---|---|---|---|---|---|
+| 0x3814198398E2d02c0e8fBa652345995cF84417bC-1782140092998 | Will NVIDIA be the largest company in the world by market cap on August 31? | Yes | 95¢ | $10,393 | ⏳ Pendiente |
 | kkookkoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 55¢ | $16,389 | ❌ Perdida |
 | dmoralez | National Bank Open: Ekaterina Alexandrova vs Elina Svitolina | Elina Svitolina | 100¢ | $10,757 | ✅ Ganada |
 | hd777 | National Bank Open: Ekaterina Alexandrova vs Elina Svitolina | Elina Svitolina | 100¢ | $10,902 | ✅ Ganada |
