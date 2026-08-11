@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:45:22 (hora de Perú)
+Actualizado: 2026-08-11 17:47:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 2 | 6 | 4 | +17.41 USD |
-| HomeRunHazard | 93 | 83 | 31 | +15.57 USD |
+| HomeRunHazard | 93 | 83 | 33 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| Sassy-Bucket | 0 | 0 | 12 | +0.00 USD |
+| Sassy-Bucket | 0 | 0 | 13 | +0.00 USD |
 | donthackme | 0 | 0 | 9 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
@@ -46,9 +46,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 122 | 97 | 25 | -28.98 USD |
-| RN1 | 173 | 99 | 25 | -33.33 USD |
-| quavoo | 151 | 181 | 17 | -33.43 USD |
+| swisstony | 122 | 97 | 29 | -28.98 USD |
+| RN1 | 173 | 99 | 26 | -33.33 USD |
+| quavoo | 151 | 181 | 18 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 4 | -82.84 USD |
@@ -377,7 +377,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-bos-tor-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-cin-cws-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket |
 | col-csk1-pao-2026-08-11-pao | UpTheBlues, swisstony |
-| mlb-chc-wsh-2026-08-11-total-8pt5 | HomeRunHazard, Talvez10, dv-pm, ferrariChampions2026 |
+| mlb-chc-wsh-2026-08-11-total-8pt5 | HomeRunHazard, Talvez10, dv-pm, ferrariChampions2026, swisstony |
 | wnba-nyl-ind-2026-08-11-spread-home-3pt5 | quavoo, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-0pt5 | quavoo, swisstony |
 | wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -414,7 +414,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-stu1-fen-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 | ucl-lyo-spp-2026-08-11-total-3pt5 | RN1, UpTheBlues, swisstony |
 | mlb-cle-det-2026-08-11-total-8pt5 | Talvez10, quavoo |
-| mlb-sea-nyy-2026-08-11-total-7pt5 | SDTrading, wr0ngw4yb3tt0r |
+| mlb-sea-nyy-2026-08-11-total-7pt5 | HomeRunHazard, SDTrading, wr0ngw4yb3tt0r |
 | sud-boc-rec1-2026-08-11-spread-home-1pt5 | RN1, UpTheBlues, theowalcott |
 | sud-boc-rec1-2026-08-11-boc | RN1, UpTheBlues, ferrariChampions2026 |
 | sud-boc-rec1-2026-08-11-draw | UpTheBlues, ferrariChampions2026, swisstony |
@@ -430,6 +430,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Detroit Tigers (-1.5) | Detroit Tigers (BUY) | 39% | 0.00 | ⏳ pendiente | — |
+| Sassy-Bucket | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 41% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| swisstony | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 64% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 55% | 0.00 | ⏳ pendiente | — |
+| swisstony | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 58% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will CS Independiente Rivadavia win on 2 | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Cleveland Guardians (-1.5) | Detroit Tigers (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | RN1 | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 29% | 0.00 | ⏳ pendiente | — |
 | Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
@@ -451,12 +460,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 93% | 0.00 | ⏳ pendiente | — |
-| Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will CS Independiente Rivadavia win on 2 | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 92% | 0.00 | ⏳ pendiente | — |
-| Sassy-Bucket | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| Talvez10 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: cobblemon vs Grêmio Espo | Grêmio Esports (BUY) | 88% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: cobblemon vs Grêmio Espo | Grêmio Esports (BUY) | 89% | 0.00 | ⏳ pendiente | — |
