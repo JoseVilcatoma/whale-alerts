@@ -72911,5 +72911,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786484465.254792,
     "fills": 1
+  },
+  {
+    "timestamp": 1786484606,
+    "timestamp_added": 1786484607.21251,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-rmd-reda-2026-08-11",
+    "title": "LoL: RMD Gaming vs RED Academy (BO3) - Circuito Desafiante Play-In",
+    "outcome": "RED Academy",
+    "side": "BUY",
+    "whale_usd": 143.0922,
+    "whale_pct": 0.62,
+    "paper_stake_usd": 2.17,
+    "odds_at_bet": 23,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786484607.2125196,
+    "fills": 1
   }
 ]
