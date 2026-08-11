@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 03:21:33 (hora de Perú)
+Actualizado: 2026-08-11 03:23:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -32,9 +32,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| BBQChickenisthebesttt | 5 | 4 | 7 | +0.00 USD |
+| BBQChickenisthebesttt | 5 | 4 | 10 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| dv-pm | 0 | 0 | 2 | +0.00 USD |
+| dv-pm | 0 | 0 | 3 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 8 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
@@ -354,6 +354,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| dv-pm | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Over (BUY) | 37% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 64% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 64% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 63% | 6.82 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 62% | 0.51 | ⏳ pendiente | — |
@@ -380,7 +384,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Will Juventus Turin win on 2026-08-11? | Yes (BUY) | 69% | 2.68 | ⏳ pendiente | — |
 | UpTheBlues | CA Talleres vs. CA Lanús: Both Teams to  | Yes (BUY) | 43% | 0.87 | ⏳ pendiente | — |
 | quavoo | Will Juventus Turin win on 2026-08-11? | Yes (BUY) | 69% | 0.58 | ⏳ pendiente | — |
-| UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 86% | 0.47 | ⏳ pendiente | — |
-| quavoo | Will Melbourne City FC win on 2026-08-11 | Yes (BUY) | 56% | 0.37 | ⏳ pendiente | — |
-| UpTheBlues | Will FC Cincinnati win on 2026-08-11? | No (BUY) | 35% | 0.36 | ⏳ pendiente | — |
-| UpTheBlues | Will Qairat FK win on 2026-08-11? | No (BUY) | 63% | 0.93 | ⏳ pendiente | — |
