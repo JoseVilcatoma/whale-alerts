@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 18:14:39 (hora de Perú)
+Actualizado: 2026-08-11 18:16:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -46,14 +46,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 122 | 97 | 52 | -28.98 USD |
-| RN1 | 173 | 99 | 31 | -33.33 USD |
+| swisstony | 122 | 97 | 54 | -28.98 USD |
+| RN1 | 173 | 99 | 32 | -33.33 USD |
 | quavoo | 151 | 181 | 28 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 4 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 614 | 464 | 24 | -105.11 USD |
+| ferrariChampions2026 | 614 | 464 | 26 | -105.11 USD |
 | BrotherObama | 7 | 5 | 12 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -416,7 +416,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-stu1-fen-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 | ucl-lyo-spp-2026-08-11-total-3pt5 | RN1, UpTheBlues, swisstony |
 | mlb-cle-det-2026-08-11-total-8pt5 | Talvez10, quavoo |
-| mlb-sea-nyy-2026-08-11-total-7pt5 | HomeRunHazard, SDTrading, wr0ngw4yb3tt0r |
+| mlb-sea-nyy-2026-08-11-total-7pt5 | HomeRunHazard, RN1, SDTrading, ferrariChampions2026, wr0ngw4yb3tt0r |
 | sud-boc-rec1-2026-08-11-spread-home-1pt5 | RN1, UpTheBlues, theowalcott |
 | sud-boc-rec1-2026-08-11-boc | RN1, UpTheBlues, ferrariChampions2026 |
 | sud-boc-rec1-2026-08-11-draw | UpTheBlues, ferrariChampions2026, swisstony |
@@ -428,6 +428,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lib-flu-cir-2026-08-11-cir | RN1, UpTheBlues, ferrariChampions2026, swisstony |
 | lib-flu-cir-2026-08-11-draw | RN1, swisstony |
 | lib-flu-cir-2026-08-11-first-half-total-1pt5 | RN1, swisstony |
+| lib-flu-cir-2026-08-11-spread-home-1pt5 | ferrariChampions2026, swisstony |
 | lib-flu-cir-2026-08-11-total-0pt5 | RN1, swisstony |
 | mlb-cle-det-2026-08-11-spread-away-1pt5 | HomeRunHazard, RN1 |
 
@@ -435,6 +436,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| RN1 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Fluminense FC (-1.5) | CS Independiente Rivadavia (BUY) | 89% | 0.00 | ⏳ pendiente | — |
+| swisstony | Spread: Fluminense FC (-1.5) | CS Independiente Rivadavia (BUY) | 90% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will CS Independiente Rivadavia win on 2 | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 48% | 0.00 | ⏳ pendiente | — |
@@ -460,8 +466,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will CR Brasil win on 2026-08-11? | Yes (BUY) | 27% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | swisstony | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| swisstony | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | CA Boca Juniors vs. Recoleta FC: O/U 3.5 | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Recoleta FC win on 2026-08-11? | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
