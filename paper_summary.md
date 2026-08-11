@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 15:11:46 (hora de Perú)
+Actualizado: 2026-08-11 15:13:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $336.27
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | dv-pm | 1 | 2 | 6 | -0.92 USD |
-| UpTheBlues | 170 | 111 | 94 | -0.95 USD |
+| UpTheBlues | 170 | 111 | 95 | -0.95 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -409,6 +409,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
@@ -438,4 +439,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 98% | 1.30 | ⏳ pendiente | — |
 | UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 79% | 0.50 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Liberty vs. Indiana Fever: O/U  | Under (BUY) | 47% | 0.94 | ⏳ pendiente | — |
-| UpTheBlues | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 97% | 0.81 | ⏳ pendiente | — |
