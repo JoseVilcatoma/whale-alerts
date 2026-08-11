@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 04:38:58 (hora de Perú)
+Actualizado: 2026-08-11 04:41:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **25**  ($834,381 en total)
+- Apuestas registradas: **26**  ($845,418 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 20
+- Pendientes: 23
+- Apostadores distintos: 21
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -35,6 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 467j6yj | 0 | 0 | 1 | — | $15,858 | — |
 | scottilicious | 0 | 0 | 1 | — | $11,672 | — |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 0 | 0 | 1 | — | $11,063 | — |
+| 0x076d…8d4c | 0 | 0 | 1 | — | $11,037 | — |
 | mpyh | 0 | 0 | 1 | — | $10,968 | — |
 | 999999666544332578855667788 | 0 | 0 | 1 | — | $10,640 | — |
 
@@ -42,6 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x076d…8d4c | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.10 (91¢) | $11,037 | — | ⏳ Pendiente |
 | 467j6yj | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | DN SOOPers | 1.01 (99¢) | $15,858 | — | ⏳ Pendiente |
 | cc9999 | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner | BNK FearX Youth | — (100¢) | $31,864 | — | ⏳ Pendiente |
 | zvon3 | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner | BNK FearX Youth | — (100¢) | $109,790 | — | ⏳ Pendiente |
