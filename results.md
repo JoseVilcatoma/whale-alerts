@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 07:07:25 (hora de Perú)
+Actualizado: 2026-08-11 07:09:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **56**  ($1,463,523 en total)
+- Apuestas registradas: **57**  ($1,482,929 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 53
+- Pendientes: 54
 - Apostadores distintos: 37
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
@@ -33,6 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ilushin | 0 | 0 | 1 | — | $39,560 | — |
 | 0xA7614974FAca5Be9A1b809c978d0A8FC532a866B-1777736641378 | 0 | 0 | 2 | — | $35,464 | — |
 | 0x7b84…940f | 0 | 0 | 1 | — | $34,116 | — |
+| mpyh | 0 | 0 | 2 | — | $30,374 | — |
 | TAIWANNUMBERONE | 0 | 0 | 2 | — | $30,272 | — |
 | 033033033 | 0 | 0 | 1 | — | $29,801 | — |
 | backback | 0 | 0 | 2 | — | $29,083 | — |
@@ -50,7 +51,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Orlandxx | 0 | 0 | 1 | — | $13,007 | — |
 | scottilicious | 0 | 0 | 1 | — | $11,672 | — |
 | 0x076d…8d4c | 0 | 0 | 1 | — | $11,037 | — |
-| mpyh | 0 | 0 | 1 | — | $10,968 | — |
 | ThornyDevil | 0 | 0 | 1 | — | $10,680 | — |
 | 999999666544332578855667788 | 0 | 0 | 1 | — | $10,640 | — |
 | owomvvssuv | 0 | 0 | 1 | — | $10,127 | — |
@@ -59,6 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mpyh | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | — (100¢) | $19,406 | — | ⏳ Pendiente |
 | 033033033 | Will HULIGANI Win The International 2026? | No | — (100¢) | $29,801 | — | ⏳ Pendiente |
 | five5120 | LoL: Hanwha Life Esports vs DN SOOPers - Game 3 Winner | DN SOOPers | — (100¢) | $26,724 | — | ⏳ Pendiente |
 | LuckyWin | LoL: Hanwha Life Esports vs DN SOOPers - Game 3 Winner | DN SOOPers | — (100¢) | $19,282 | — | ⏳ Pendiente |
