@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 10:05:59 (hora de Perú)
+Actualizado: 2026-08-11 10:08:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $294.10
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| RN1 | 163 | 90 | 0 | -20.90 USD |
+| RN1 | 163 | 90 | 3 | -20.90 USD |
 | BrotherObama | 7 | 3 | 0 | -24.77 USD |
 | quavoo | 142 | 173 | 11 | -30.91 USD |
 | lzh1 | 5 | 3 | 5 | -33.03 USD |
@@ -352,17 +352,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
 | ucl-bog-usg-2026-08-11-bog | quavoo, swisstony |
 | clf-pal-juv-2026-08-11-juv | ferrariChampions2026, quavoo, swisstony |
+| ucl-kai-pls-2026-08-11-kai | RN1, UpTheBlues |
 | lol-hle1-dnf-2026-08-11 | BBQChickenisthebesttt, BrotherObama, Lakersfan111, ferrariChampions2026 |
 | lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
 | lol-hle1-dnf-2026-08-11-game3 | BrotherObama, lzh1 |
 | lol-nsea-dkc-2026-08-11-game2 | BBQChickenisthebesttt, lzh1 |
 | ucl-kai-pls-2026-08-11-total-0pt5 | quavoo, swisstony |
 | wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| ucl-kai-pls-2026-08-11-pls | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will PFK Levski Sofia win on 2026-08-11? | No (BUY) | 64% | 2.60 | ⏳ pendiente | — |
+| RN1 | Qairat FK vs. PFK Levski Sofia: 1st Half | Under (BUY) | 81% | 11.76 | ⏳ pendiente | — |
+| RN1 | Will Qairat FK win on 2026-08-11? | Yes (BUY) | 30% | 0.43 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Over (BUY) | 32% | 0.50 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | Yes (BUY) | 41% | 0.50 | ⏳ pendiente | — |
 | HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 48% | 2.25 | ⏳ pendiente | — |
@@ -390,6 +395,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Qairat FK vs. PFK Levski Sofia: O/U 0.5 | Over (BUY) | 89% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will FK Bodø/Glimt win on 2026-08-11? | Yes (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Indiana Fever (-3.5) | New York Liberty (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| dv-pm | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 57% | 0.00 | ⏳ pendiente | — |
