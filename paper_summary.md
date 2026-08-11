@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 09:32:43 (hora de Perú)
+Actualizado: 2026-08-11 09:34:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $331.36
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 34 | 25 | 3 | -4.37 USD |
+| swisstony | 34 | 25 | 4 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -361,6 +361,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 1.5 | Under (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: PFK Levs | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will FK Bodø/Glimt win on 2026-08-11? | Yes (BUY) | 59% | 0.00 | ⏳ pendiente | — |
@@ -390,4 +391,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Under (BUY) | 61% | 3.04 | ⏳ pendiente | — |
 | UpTheBlues | Spread: CD Universidad Católica (-1.5) | Estudiantes de La Plata (BUY) | 96% | 0.56 | ⏳ pendiente | — |
 | lzh1 | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 49% | 17.70 | ⏳ pendiente | — |
-| UpTheBlues | Will Qairat FK vs. PFK Levski Sofia end  | Yes (BUY) | 30% | 0.64 | ⏳ pendiente | — |
