@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 08:33:10 (hora de Perú)
+Actualizado: 2026-08-11 08:35:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $335.77
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 34 | 25 | 1 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 100 | 64 | -7.44 USD |
+| UpTheBlues | 151 | 100 | 65 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
@@ -362,6 +362,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Fenerbahçe SK (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Pittsburgh Pirates (-2.5) | Miami Marlins (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Mossley AFC win on 2026-08-11? | Yes (BUY) | 45% | 0.00 | ⏳ pendiente | — |
@@ -391,4 +392,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| Weaseloftheweek | Dota 2: MOUZ vs Rune Eaters - Game 2 Win | MOUZ (BUY) | 66% | 0.00 | ⏳ pendiente | — |
