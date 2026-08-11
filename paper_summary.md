@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 04:19:38 (hora de Perú)
+Actualizado: 2026-08-11 04:21:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| BrotherObama | 6 | 1 | 0 | +63.29 USD |
+| BrotherObama | 6 | 1 | 1 | +63.29 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | wr0ngw4yb3tt0r | 52 | 48 | 0 | +36.60 USD |
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| BBQChickenisthebesttt | 5 | 4 | 21 | +0.00 USD |
+| BBQChickenisthebesttt | 5 | 4 | 23 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | dv-pm | 0 | 0 | 3 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 8 | +0.00 USD |
@@ -349,12 +349,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-10-spread-home-2pt5 | HomeRunHazard, swisstony |
 | mlb-tex-laa-2026-08-10-spread-home-1pt5 | HomeRunHazard, swisstony |
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
+| lol-hle1-dnf-2026-08-11 | BBQChickenisthebesttt, BrotherObama, Lakersfan111 |
 | lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: Hanwha Life Esports vs DN SOOPers ( | Hanwha Life Esports (BUY) | 24% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 42% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Hanwha Life Esports vs DN SOOPers ( | DN SOOPers (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 54% | 0.00 | ⏳ pendiente | — |
@@ -382,6 +386,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 67% | 24.06 | ⏳ pendiente | — |
 | quavoo | Palermo FC vs. Juventus Turin: O/U 2.5 | Over (BUY) | 61% | 0.42 | ⏳ pendiente | — |
 | dv-pm | Will Aarhus GF win on 2026-08-11? | No (BUY) | 75% | 0.67 | ⏳ pendiente | — |
-| Lakersfan111 | LoL: Hanwha Life Esports vs DN SOOPers - | DN SOOPers (BUY) | 30% | 4.76 | ⏳ pendiente | — |
-| Lakersfan111 | LoL: Hanwha Life Esports vs DN SOOPers - | DN SOOPers (BUY) | 30% | 8.14 | ⏳ pendiente | — |
-| Lakersfan111 | LoL: Hanwha Life Esports vs DN SOOPers ( | Hanwha Life Esports (BUY) | 80% | 5.25 | ⏳ pendiente | — |
