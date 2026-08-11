@@ -986,5 +986,18 @@
     "usd": 39245.6264,
     "odds_at_bet": 87,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 34025,
+    "timestamp": 1786489051,
+    "username": "phonesculptor",
+    "wallet": "0xf1528f12e645462c344799b62b1b421a6a4c64aa",
+    "slug": "mlb-phi-stl-2026-08-11",
+    "title": "Philadelphia Phillies vs. St. Louis Cardinals",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 10077.929999999998,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
