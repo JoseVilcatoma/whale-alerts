@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:25:35 (hora de Perú)
+Actualizado: 2026-08-10 23:27:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $318.93
-**Retorno acumulado:** -68.11%
+**Bankroll actual:** $322.34
+**Retorno acumulado:** -67.77%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,8 +19,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | wr0ngw4yb3tt0r | 51 | 45 | 4 | +36.65 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| HomeRunHazard | 73 | 64 | 36 | +28.05 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
+| HomeRunHazard | 73 | 66 | 35 | +24.42 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 5 | 1 | +17.41 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 26 | 18 | 15 | -3.96 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 150 | 99 | 14 | -7.53 USD |
+| UpTheBlues | 150 | 99 | 16 | -7.53 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 160 | 88 | 5 | -21.88 USD |
@@ -51,8 +51,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
+| ferrariChampions2026 | 575 | 451 | 40 | -117.53 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 574 | 451 | 41 | -124.57 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -351,6 +351,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 54% | 0.70 | ⏳ pendiente | — |
+| UpTheBlues | Spread: Larne FC (-1.5) | SK Iberia 1999 (BUY) | 95% | 0.55 | ⏳ pendiente | — |
+| UpTheBlues | Will Larne FC win on 2026-08-11? | No (BUY) | 83% | 0.82 | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 51% | 1.89 | ⏳ pendiente | — |
 | quavoo | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 49% | 0.42 | ⏳ pendiente | — |
 | swisstony | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 71% | 0.45 | ⏳ pendiente | — |
@@ -378,6 +381,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Los Angeles Angels (-1.5) | Texas Rangers (BUY) | 81% | 3.92 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: San Francisco Giants (-1.5) | Houston Astros (BUY) | 86% | 0.58 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: San Francisco Giants (-1.5) | Houston Astros (BUY) | 84% | 0.57 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Los Angeles Angels (-1.5) | Texas Rangers (BUY) | 78% | 0.41 | ⏳ pendiente | — |
-| RN1 | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 63% | 0.68 | ⏳ pendiente | — |
-| RN1 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 22% | 0.44 | ⏳ pendiente | — |

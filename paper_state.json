@@ -1,5 +1,5 @@
 {
-  "bankroll": 318.9287770605747,
+  "bankroll": 322.3387770605747,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13830,6 +13830,21 @@
       "timestamp": 1786422253.4024615,
       "bankroll": 318.93,
       "event": "won: ferrariChampions2026 \u2014 Houston Astros vs. San Francisco Giants: O/U 5.5"
+    },
+    {
+      "timestamp": 1786422434.5920508,
+      "bankroll": 315.7,
+      "event": "lost: HomeRunHazard \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786422436.3948555,
+      "bankroll": 315.3,
+      "event": "lost: HomeRunHazard \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786422437.6970904,
+      "bankroll": 322.34,
+      "event": "won: ferrariChampions2026 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5"
     }
   ]
 }
