@@ -63042,5 +63042,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786432283.8268158,
     "fills": 2
+  },
+  {
+    "timestamp": 1786434874,
+    "timestamp_added": 1786434874.8015752,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-hle1-dnf-2026-08-11",
+    "title": "LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 1347.832,
+    "whale_pct": 1.276,
+    "paper_stake_usd": 4.11,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786434874.8015842,
+    "fills": 1
   }
 ]

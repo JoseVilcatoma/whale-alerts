@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 02:14:30 (hora de Perú)
+Actualizado: 2026-08-11 02:54:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -35,6 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | dv-pm | 0 | 0 | 1 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 1 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -353,6 +354,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: Hanwha Life Esports vs DN SOOPers ( | Hanwha Life Esports (BUY) | 80% | 4.11 | ⏳ pendiente | — |
 | UpTheBlues | Will Apóllon Lemesoú win on 2026-08-11? | No (BUY) | 57% | 1.16 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 86% | 0.39 | ⏳ pendiente | — |
 | UpTheBlues | Will Qairat FK win on 2026-08-11? | No (BUY) | 64% | 0.52 | ⏳ pendiente | — |
@@ -382,4 +384,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will FK Bodø/Glimt vs. RU Saint-Gilloise | Yes (BUY) | 21% | 0.36 | ⏳ pendiente | — |
 | UpTheBlues | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 38% | 1.66 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: CA Boca | Under (BUY) | 57% | 0.84 | ⏳ pendiente | — |
-| UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 55% | 0.40 | ⏳ pendiente | — |
