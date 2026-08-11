@@ -1,5 +1,5 @@
 {
-  "bankroll": 347.0722982097089,
+  "bankroll": 333.15988623927615,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -15115,6 +15115,226 @@
       "timestamp": 1786471890.3221052,
       "bankroll": 347.07,
       "event": "won: swisstony \u2014 Spread: Sabah FK (-1.5)"
+    },
+    {
+      "timestamp": 1786471927.3087065,
+      "bankroll": 346.02,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786471928.1129096,
+      "bankroll": 344.27,
+      "event": "lost: swisstony \u2014 Will Sabah FK win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786471928.9176948,
+      "bankroll": 343.54,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786471929.318658,
+      "bankroll": 342.87,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786471929.5190687,
+      "bankroll": 341.76,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786471930.2328274,
+      "bankroll": 340.2,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786471930.5334215,
+      "bankroll": 339.51,
+      "event": "lost: swisstony \u2014 Will Sabah FK win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786471930.7338755,
+      "bankroll": 338.97,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786471931.0343816,
+      "bankroll": 338.47,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786471931.1346934,
+      "bankroll": 337.98,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786471931.6320975,
+      "bankroll": 336.94,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 3.5"
+    },
+    {
+      "timestamp": 1786471931.7322025,
+      "bankroll": 337.49,
+      "event": "won: swisstony \u2014 Sabah FK vs. Aarhus GF: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786471931.9324956,
+      "bankroll": 336.88,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786471932.0326004,
+      "bankroll": 337.37,
+      "event": "won: swisstony \u2014 Sabah FK vs. Aarhus GF: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786471932.4333382,
+      "bankroll": 337.86,
+      "event": "won: swisstony \u2014 Sabah FK vs. Aarhus GF: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786471933.1347663,
+      "bankroll": 336.93,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 3.5"
+    },
+    {
+      "timestamp": 1786471933.2349448,
+      "bankroll": 337.44,
+      "event": "won: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786471933.435275,
+      "bankroll": 336.52,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786471933.6358447,
+      "bankroll": 335.59,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786471938.1809907,
+      "bankroll": 334.15,
+      "event": "lost: swisstony \u2014 Will Sabah FK win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786471938.2811763,
+      "bankroll": 333.09,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786471938.4817035,
+      "bankroll": 332.02,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786471938.7822669,
+      "bankroll": 331.32,
+      "event": "lost: swisstony \u2014 Will Sabah FK win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786471939.4837925,
+      "bankroll": 331.32,
+      "event": "won: swisstony \u2014 Sabah FK vs. Aarhus GF: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786471939.684212,
+      "bankroll": 331.32,
+      "event": "lost: swisstony \u2014 Will Sabah FK win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786471939.8847845,
+      "bankroll": 331.32,
+      "event": "won: swisstony \u2014 Sabah FK vs. Aarhus GF: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786471940.4863386,
+      "bankroll": 331.32,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786471940.5865185,
+      "bankroll": 331.32,
+      "event": "lost: swisstony \u2014 Will Sabah FK win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786471940.9871998,
+      "bankroll": 332.35,
+      "event": "won: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786471941.087372,
+      "bankroll": 331.52,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786471941.8861647,
+      "bankroll": 331.8,
+      "event": "won: UpTheBlues \u2014 Sabah FK vs. Aarhus GF: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786471942.2868772,
+      "bankroll": 332.2,
+      "event": "won: UpTheBlues \u2014 Will Sabah FK win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786471942.4872768,
+      "bankroll": 332.5,
+      "event": "won: UpTheBlues \u2014 Sabah FK vs. Aarhus GF: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786471942.5874758,
+      "bankroll": 331.6,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786471942.6876986,
+      "bankroll": 331.77,
+      "event": "won: UpTheBlues \u2014 Sabah FK vs. Aarhus GF: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786471943.9899344,
+      "bankroll": 330.95,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: O/U 3.5"
+    },
+    {
+      "timestamp": 1786471944.1902697,
+      "bankroll": 331.03,
+      "event": "won: swisstony \u2014 Will Sabah FK win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786471944.590912,
+      "bankroll": 330.63,
+      "event": "lost: swisstony \u2014 Sabah FK vs. Aarhus GF: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786471944.7912028,
+      "bankroll": 329.58,
+      "event": "lost: UpTheBlues \u2014 Sabah FK vs. Aarhus GF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786471945.3923166,
+      "bankroll": 330.74,
+      "event": "won: swisstony \u2014 Sabah FK vs. Aarhus GF: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786471990.370128,
+      "bankroll": 333.14,
+      "event": "won: swisstony \u2014 Will Sabah FK vs. Aarhus GF end in a draw?"
+    },
+    {
+      "timestamp": 1786471999.611726,
+      "bankroll": 333.14,
+      "event": "won: swisstony \u2014 Spread: Aarhus GF (-1.5)"
+    },
+    {
+      "timestamp": 1786471999.812104,
+      "bankroll": 333.14,
+      "event": "won: swisstony \u2014 Spread: Aarhus GF (-1.5)"
+    },
+    {
+      "timestamp": 1786472001.1102874,
+      "bankroll": 333.16,
+      "event": "won: swisstony \u2014 Will Sabah FK vs. Aarhus GF end in a draw?"
     }
   ]
 }

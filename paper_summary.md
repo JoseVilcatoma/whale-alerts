@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 13:11:46 (hora de Perú)
+Actualizado: 2026-08-11 13:13:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $347.07
-**Retorno acumulado:** -65.29%
+**Bankroll actual:** $333.16
+**Retorno acumulado:** -66.68%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 15 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 17 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -40,13 +40,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 55 | 40 | 109 | -6.29 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 154 | 103 | 81 | -8.78 USD |
+| UpTheBlues | 158 | 104 | 79 | -8.68 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
+| swisstony | 68 | 66 | 72 | -20.30 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | BrotherObama | 7 | 3 | 2 | -24.77 USD |
-| quavoo | 143 | 174 | 19 | -31.25 USD |
+| quavoo | 143 | 174 | 20 | -31.25 USD |
 | RN1 | 167 | 99 | 0 | -34.36 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -359,6 +359,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-nec-oly-2026-08-11-btts | UpTheBlues, quavoo |
 | col1-cjf-dep-2026-08-10-cjf | 0x4f2, UpTheBlues |
 | ucl-bog-usg-2026-08-11-bog | quavoo, swisstony |
+| ucl-crv-hbs-2026-08-11-total-4pt5 | quavoo, swisstony |
 | ucl-kau-din-2026-08-11-total-3pt5 | 0x4f2, swisstony |
 | clf-pal-juv-2026-08-11-juv | ferrariChampions2026, quavoo, swisstony |
 | col-al-bra-2026-08-11-al | UpTheBlues, swisstony |
@@ -394,33 +395,33 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 91% | 1.04 | ⏳ pendiente | — |
+| swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 81% | 0.42 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.42 | ⏳ pendiente | — |
+| UpTheBlues | Spread: NK Celje (-1.5) | Ararat-Armenia FA (BUY) | 59% | 0.42 | ⏳ pendiente | — |
+| swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 63% | 0.41 | ⏳ pendiente | — |
+| UpTheBlues | Will NK Celje win on 2026-08-11? | No (BUY) | 35% | 1.06 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: Panathinaikós AO (-2.5) | FK CSKA 1948 Sofia (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Apóllon Lemesoú vs. SK Brann end in | No (BUY) | 75% | 0.71 | ⏳ pendiente | — |
 | swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 85% | 1.21 | ⏳ pendiente | — |
 | swisstony | Will SK Iberia 1999 vs. Larne FC end in  | Yes (BUY) | 70% | 1.31 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 74% | 3.30 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 74% | 3.30 | ✅ ganada | +1.16 |
 | swisstony | Will SK Iberia 1999 vs. Larne FC end in  | Yes (BUY) | 69% | 0.45 | ⏳ pendiente | — |
 | UpTheBlues | Will Larne FC win on 2026-08-11? | No (BUY) | 92% | 0.73 | ⏳ pendiente | — |
 | UpTheBlues | Will GNK Dinamo Zagreb win on 2026-08-11 | No (BUY) | 11% | 0.39 | ⏳ pendiente | — |
 | swisstony | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Under (BUY) | 77% | 0.70 | ⏳ pendiente | — |
 | swisstony | Will Panathinaikós AO win on 2026-08-11? | No (BUY) | 45% | 0.41 | ⏳ pendiente | — |
-| UpTheBlues | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 46% | 1.05 | ⏳ pendiente | — |
+| UpTheBlues | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 46% | 1.05 | ❌ perdida | -1.05 |
 | swisstony | Will SK Iberia 1999 win on 2026-08-11? | Yes (BUY) | 24% | 0.42 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | Yes (BUY) | 26% | 0.40 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | Yes (BUY) | 26% | 0.40 | ❌ perdida | -0.40 |
 | swisstony | Spread: Sabah FK (-1.5) | Sabah FK (BUY) | 81% | 0.58 | ✅ ganada | +0.14 |
 | UpTheBlues | Will CDPJuniorFC win on 2026-08-10? | Yes (BUY) | 68% | 1.05 | ⏳ pendiente | — |
 | swisstony | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Over (BUY) | 91% | 0.40 | ⏳ pendiente | — |
 | swisstony | Al Jazira (UAE) vs. Al-Ittihad Club: O/U | Over (BUY) | 98% | 0.35 | ⏳ pendiente | — |
-| swisstony | Will Sabah FK win on 2026-08-11? | Yes (BUY) | 97% | 2.47 | ⏳ pendiente | — |
-| swisstony | Will Sabah FK vs. Aarhus GF end in a dra | No (BUY) | 97% | 0.49 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: O/U 3.5 | Under (BUY) | 80% | 0.82 | ⏳ pendiente | — |
+| swisstony | Will Sabah FK win on 2026-08-11? | Yes (BUY) | 97% | 2.47 | ✅ ganada | +0.08 |
+| swisstony | Will Sabah FK vs. Aarhus GF end in a dra | No (BUY) | 97% | 0.49 | ✅ ganada | +0.02 |
+| swisstony | Sabah FK vs. Aarhus GF: O/U 3.5 | Under (BUY) | 80% | 0.82 | ❌ perdida | -0.82 |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.98 | ⏳ pendiente | — |
 | swisstony | Will SK Brann win on 2026-08-11? | Yes (BUY) | 54% | 0.35 | ⏳ pendiente | — |
 | swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 96% | 0.40 | ⏳ pendiente | — |
-| swisstony | SK Iberia 1999 vs. Larne FC: Larne FC O/ | Under (BUY) | 89% | 2.52 | ⏳ pendiente | — |
-| swisstony | Apóllon Lemesoú vs. SK Brann: Both Teams | Yes (BUY) | 71% | 0.49 | ⏳ pendiente | — |
-| swisstony | Will Larne FC win on 2026-08-11? | No (BUY) | 92% | 2.74 | ⏳ pendiente | — |
-| quavoo | Will NEC win on 2026-08-11? | Yes (BUY) | 40% | 0.64 | ⏳ pendiente | — |
-| UpTheBlues | Will Polokwane City win on 2026-08-11? | No (BUY) | 63% | 0.93 | ⏳ pendiente | — |
-| swisstony | Will Apóllon Lemesoú vs. SK Brann end in | No (BUY) | 73% | 0.40 | ⏳ pendiente | — |
-| swisstony | Spread: Aarhus GF (-1.5) | Sabah FK (BUY) | 100% | 2.40 | ⏳ pendiente | — |
-| swisstony | Will SK Iberia 1999 win on 2026-08-11? | No (BUY) | 67% | 1.33 | ⏳ pendiente | — |
