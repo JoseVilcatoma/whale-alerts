@@ -67683,5 +67683,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786465937.1442025,
     "fills": 1
+  },
+  {
+    "timestamp": 1786466071,
+    "timestamp_added": 1786466072.0358522,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-phx-la-2026-08-11-total-177pt5",
+    "title": "Phoenix Mercury vs. Los Angeles Sparks: O/U 177.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 432.352941,
+    "whale_pct": 0.444,
+    "paper_stake_usd": 1.62,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786466072.0358639,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786466075,
+    "timestamp_added": 1786466076.6960351,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ucl-kai-pls-2026-08-11-spread-away-1pt5",
+    "title": "Spread: PFK Levski Sofia (-1.5)",
+    "outcome": "Qairat FK",
+    "side": "BUY",
+    "whale_usd": 591.3000000000001,
+    "whale_pct": 0.123,
+    "paper_stake_usd": 0.45,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786466076.6960442,
+    "fills": 1
   }
 ]
