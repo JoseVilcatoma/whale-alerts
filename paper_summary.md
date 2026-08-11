@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 11:54:18 (hora de Perú)
+Actualizado: 2026-08-11 11:56:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $364.42
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 78 | -4.23 USD |
+| swisstony | 35 | 25 | 80 | -4.23 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -348,6 +348,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-chi-sea-2026-08-10-total-183pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-mil-sd-2026-08-10-spread-home-1pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-col-ari-2026-08-10-total-8pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
+| ucl-bog-usg-2026-08-11-btts | UpTheBlues, swisstony |
 | mlb-kc-lad-2026-08-10-spread-home-2pt5 | HomeRunHazard, swisstony |
 | mlb-tex-laa-2026-08-10-spread-home-1pt5 | HomeRunHazard, swisstony |
 | uel-sab-lar-2026-08-11-spread-away-1pt5 | UpTheBlues, swisstony |
@@ -374,6 +375,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 64% | 0.83 | ⏳ pendiente | — |
+| swisstony | FK Bodø/Glimt vs. RU Saint-Gilloise: O/U | Under (BUY) | 45% | 1.16 | ⏳ pendiente | — |
 | BrotherObama | LoL: Kaufland Hangry Knights vs G2 NORD  | Kaufland Hangry Knights (BUY) | 26% | 33.38 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.52 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 1.05 | ⏳ pendiente | — |
@@ -402,5 +405,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Al Hussein Irbid win on 2026-08-11? | No (BUY) | 99% | 0.49 | ⏳ pendiente | — |
 | swisstony | Will Al Hussein Irbid win on 2026-08-11? | No (BUY) | 99% | 0.49 | ⏳ pendiente | — |
 | swisstony | Spread: Sabah FK (-1.5) | Aarhus GF (BUY) | 71% | 1.24 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 46% | 0.42 | ⏳ pendiente | — |
-| quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 58% | 0.61 | ⏳ pendiente | — |

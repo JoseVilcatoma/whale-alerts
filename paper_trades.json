@@ -67833,5 +67833,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786467193.902628,
     "fills": 1
+  },
+  {
+    "timestamp": 1786467349,
+    "timestamp_added": 1786467349.739215,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "ucl-bog-usg-2026-08-11-total-1pt5",
+    "title": "FK Bod\u00f8/Glimt vs. RU Saint-Gilloise: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 703.35,
+    "whale_pct": 0.32,
+    "paper_stake_usd": 1.16,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786467359.4377697,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786467372,
+    "timestamp_added": 1786467373.2845528,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "ucl-bog-usg-2026-08-11-btts",
+    "title": "FK Bod\u00f8/Glimt vs. RU Saint-Gilloise: Both Teams to Score",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 499.84000000000003,
+    "whale_pct": 0.227,
+    "paper_stake_usd": 0.83,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786467373.2845647,
+    "fills": 1
   }
 ]
