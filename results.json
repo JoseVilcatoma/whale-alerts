@@ -752,5 +752,83 @@
     "usd": 27704.208400000003,
     "odds_at_bet": 92,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33369,
+    "timestamp": 1786451944,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-sea-nyy-2026-08-11-total-7pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 15263.191,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33370,
+    "timestamp": 1786451944,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sea-nyy-2026-08-11-total-7pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 27284.250600000003,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33371,
+    "timestamp": 1786452007,
+    "username": "CoinTrick",
+    "wallet": "0x731a241767938bb23d1b2fac4c9cd2f3cea9033f",
+    "slug": "lol-nsea-dkc-2026-08-11-game2",
+    "title": "LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner",
+    "outcome": "Dplus KIA Challengers",
+    "side": "BUY",
+    "usd": 79920.0,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33372,
+    "timestamp": 1786452007,
+    "username": "bajacaligold",
+    "wallet": "0xe557e4a25d385bf03395153a32faa989f5999597",
+    "slug": "lol-nsea-dkc-2026-08-11-game2",
+    "title": "LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner",
+    "outcome": "Dplus KIA Challengers",
+    "side": "BUY",
+    "usd": 50928.80022,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33373,
+    "timestamp": 1786452007,
+    "username": "cc9999",
+    "wallet": "0x3b4c4ff8459237e1c65c981d7a8ee43746e5e850",
+    "slug": "lol-nsea-dkc-2026-08-11-game2",
+    "title": "LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner",
+    "outcome": "Dplus KIA Challengers",
+    "side": "BUY",
+    "usd": 78921.0,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33374,
+    "timestamp": 1786452007,
+    "username": "ilushin",
+    "wallet": "0xd703c88c0b726ae01ee9602a422013ca8d4171bf",
+    "slug": "lol-nsea-dkc-2026-08-11-game2",
+    "title": "LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner",
+    "outcome": "Dplus KIA Challengers",
+    "side": "BUY",
+    "usd": 38961.0,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
