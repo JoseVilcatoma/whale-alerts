@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 10:35:08 (hora de Perú)
+Actualizado: 2026-08-11 10:37:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $257.47
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 16 | 13 | 4 | +17.16 USD |
-| HomeRunHazard | 93 | 83 | 19 | +15.57 USD |
+| HomeRunHazard | 93 | 83 | 24 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 13 | -20.90 USD |
 | BrotherObama | 7 | 3 | 0 | -24.77 USD |
-| quavoo | 142 | 173 | 11 | -30.91 USD |
+| quavoo | 142 | 173 | 12 | -30.91 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | lzh1 | 5 | 7 | 1 | -69.66 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -367,6 +367,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will FK Bodø/Glimt win on 2026-08-11? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Liberty vs. Indiana Fever: O/U  | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
@@ -391,9 +397,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | Yes (BUY) | 41% | 0.50 | ⏳ pendiente | — |
 | HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 48% | 2.25 | ⏳ pendiente | — |
 | swisstony | Spread: PFK Levski Sofia (-2.5) | Qairat FK (BUY) | 95% | 2.38 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 0.5 | Over (BUY) | 87% | 1.41 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 1.5 | Under (BUY) | 39% | 0.30 | ⏳ pendiente | — |
-| swisstony | Will PFK Levski Sofia win on 2026-08-11? | No (BUY) | 59% | 1.91 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 67% | 1.95 | ⏳ pendiente | — |
-| HomeRunHazard | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 40% | 0.60 | ⏳ pendiente | — |
-| dv-pm | SK Iberia 1999 vs. Larne FC: 1st Half O/ | Under (BUY) | 90% | 0.65 | ⏳ pendiente | — |
