@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:41:13 (hora de Perú)
+Actualizado: 2026-08-11 17:43:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
+| Sassy-Bucket | 0 | 0 | 12 | +0.00 USD |
 | donthackme | 0 | 0 | 9 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 122 | 97 | 25 | -28.98 USD |
-| RN1 | 173 | 99 | 23 | -33.33 USD |
+| RN1 | 173 | 99 | 24 | -33.33 USD |
 | quavoo | 151 | 181 | 17 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -374,6 +374,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-sf-agf-2026-08-11-agf | UpTheBlues, dv-pm, swisstony |
 | lol-hle1-dnf-2026-08-11-game3 | BrotherObama, lzh1 |
 | lol-nsea-dkc-2026-08-11-game2 | BBQChickenisthebesttt, lzh1 |
+| mlb-bos-tor-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-cin-cws-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket |
 | col-csk1-pao-2026-08-11-pao | UpTheBlues, swisstony |
 | mlb-chc-wsh-2026-08-11-total-8pt5 | HomeRunHazard, Talvez10, dv-pm, ferrariChampions2026 |
@@ -428,6 +429,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| RN1 | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 27% | 0.00 | ⏳ pendiente | — |
+| Sassy-Bucket | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Avaí FC vs. CR Brasil end in a draw | Yes (BUY) | 31% | 0.00 | ⏳ pendiente | — |
 | swisstony | Spread: Fluminense FC (-1.5) | CS Independiente Rivadavia (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | Sassy-Bucket | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
@@ -455,6 +459,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: cobblemon vs Grêmio Espo | Grêmio Esports (BUY) | 89% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Boca Juniors vs. Recoleta FC end | No (BUY) | 78% | 0.00 | ⏳ pendiente | — |
 | RN1 | Fluminense FC vs. CS Independiente Rivad | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Boca Juniors vs. Recoleta FC end | No (BUY) | 78% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Boca Juniors win on 2026-08-11? | No (BUY) | 36% | 0.00 | ⏳ pendiente | — |
-| donthackme | Will annual inflation be 3.6% in July? | No (BUY) | 97% | 0.00 | ⏳ pendiente | — |
