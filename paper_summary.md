@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 04:44:39 (hora de Perú)
+Actualizado: 2026-08-11 04:46:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $322.04
-**Retorno acumulado:** -67.80%
+**Bankroll actual:** $341.50
+**Retorno acumulado:** -65.85%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -21,6 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
+| BBQChickenisthebesttt | 16 | 7 | 12 | +19.47 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 16 | 13 | 4 | +17.16 USD |
 | HomeRunHazard | 93 | 83 | 1 | +15.57 USD |
@@ -32,7 +33,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| BBQChickenisthebesttt | 5 | 4 | 25 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | dv-pm | 0 | 0 | 3 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 8 | +0.00 USD |
@@ -356,9 +356,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 61% | 65.52 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 59% | 0.00 | 💰 vendida anticipada | +0.00 |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs DN SOOPers ( | DN SOOPers (BUY) | 82% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 70% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 70% | 0.00 | 💰 vendida anticipada | -0.00 |
 | BrotherObama | LoL: Hanwha Life Esports vs DN SOOPers ( | Hanwha Life Esports (BUY) | 24% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Hanwha Life Esports vs DN SOOPers ( | DN SOOPers (BUY) | 76% | 0.00 | ⏳ pendiente | — |
@@ -373,16 +374,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Palermo FC vs. Juventus Turin: O/U 3.5 | Under (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 69% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 73% | 0.00 | 💰 vendida anticipada | -0.00 |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 69% | 0.00 | 💰 vendida anticipada | -0.00 |
 | dv-pm | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Over (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 63% | 6.82 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 62% | 0.51 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 67% | 46.83 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 67% | 80.95 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 69% | 33.51 | ⏳ pendiente | — |
-| quavoo | Palermo FC vs. Juventus Turin: O/U 2.5 | Over (BUY) | 62% | 0.48 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 64% | 0.00 | 💰 vendida anticipada | -0.00 |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 64% | 0.00 | 💰 vendida anticipada | -0.00 |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 62% | 0.00 | 💰 vendida anticipada | +0.00 |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 61% | 0.00 | 💰 vendida anticipada | +0.00 |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 63% | 6.82 | 💰 vendida anticipada | +4.01 |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 62% | 0.51 | 💰 vendida anticipada | -0.01 |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 67% | 46.83 | 💰 vendida anticipada | -4.19 |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 67% | 80.95 | 💰 vendida anticipada | -7.25 |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 69% | 33.51 | 💰 vendida anticipada | +15.06 |
