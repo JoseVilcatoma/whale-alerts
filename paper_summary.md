@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 01:55:31 (hora de Perú)
+Actualizado: 2026-08-11 01:57:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 34 | 25 | 0 | -4.37 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 100 | 47 | -7.44 USD |
+| UpTheBlues | 151 | 100 | 48 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
@@ -353,6 +353,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 86% | 0.47 | ⏳ pendiente | — |
 | quavoo | Will Melbourne City FC win on 2026-08-11 | Yes (BUY) | 56% | 0.37 | ⏳ pendiente | — |
 | UpTheBlues | Will FC Cincinnati win on 2026-08-11? | No (BUY) | 35% | 0.36 | ⏳ pendiente | — |
 | UpTheBlues | Will Qairat FK win on 2026-08-11? | No (BUY) | 63% | 0.93 | ⏳ pendiente | — |
@@ -382,4 +383,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | Will CDPJuniorFC win on 2026-08-10? | Yes (BUY) | 73% | 1.23 | ⏳ pendiente | — |
 | quavoo | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 75% | 0.34 | ⏳ pendiente | — |
 | UpTheBlues | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 56% | 0.48 | ⏳ pendiente | — |
-| quavoo | Will FK Bodø/Glimt win on 2026-08-11? | Yes (BUY) | 60% | 0.45 | ⏳ pendiente | — |
