@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 17:57:37 (hora de Perú)
+Actualizado: 2026-08-11 17:59:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **77**  ($1,975,152 en total)
+- Apuestas registradas: **81**  ($2,046,788 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 63
+- Pendientes: 67
 - Apostadores distintos: 41
 
 ### Balance
@@ -28,13 +28,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 0 | 0 | 6 | — | $199,582 | — |
 | Weaseloftheweek | 0 | 1 | 1 | ⚠️ 0% (1) | $193,162 | -$14,667 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 4 | — | $178,415 | — |
+| HVAB | 0 | 0 | 5 | — | $168,366 | — |
 | SDTrading | 0 | 0 | 6 | — | $121,629 | — |
-| HVAB | 0 | 0 | 3 | — | $117,178 | — |
 | AV23IUa | 0 | 0 | 2 | — | $104,685 | — |
 | theowalcott | 0 | 0 | 6 | — | $89,215 | — |
+| ferrariChampions2026 | 1 | 0 | 4 | ⚠️ 100% (1) | $69,593 | +$8,160 |
 | texaskid | 0 | 0 | 1 | — | $55,000 | — |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
-| ferrariChampions2026 | 1 | 0 | 2 | ⚠️ 100% (1) | $49,144 | +$8,160 |
 | Talvez10 | 0 | 0 | 3 | — | $39,880 | — |
 | Mylifeisover | 0 | 0 | 2 | — | $35,483 | — |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 2 | — | $32,770 | — |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 41 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.11 (90¢) | $10,397 | — | ⏳ Pendiente |
+| HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.11 (90¢) | $30,735 | — | ⏳ Pendiente |
+| HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.15 (87¢) | $20,453 | — | ⏳ Pendiente |
+| ferrariChampions2026 | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.15 (87¢) | $10,051 | — | ⏳ Pendiente |
 | phonesculptor | Philadelphia Phillies vs. St. Louis Cardinals | Philadelphia Phillies | 1.67 (60¢) | $10,078 | — | ⏳ Pendiente |
 | HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.16 (86¢) | $38,832 | — | ⏳ Pendiente |
 | HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.15 (87¢) | $39,101 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 41 en total)_
 | Talvez10 | Chicago Cubs vs. Washington Nationals: O/U 8.5 | Over 8.5 | 1.82 (55¢) | $13,625 | — | ⏳ Pendiente |
 | dv-pm | Chicago Cubs vs. Washington Nationals: O/U 8.5 | Under 8.5 | 2.22 (45¢) | $11,147 | — | ⏳ Pendiente |
 | Talvez10 | Cleveland Guardians vs. Detroit Tigers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $12,622 | — | ⏳ Pendiente |
-| Talvez10 | Chicago Cubs vs. Washington Nationals: O/U 8.5 | Over 8.5 | 1.82 (55¢) | $13,633 | — | ⏳ Pendiente |
-| Lakersfan111 | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | Luminosity | 1.89 (53¢) | $12,720 | — | ⏳ Pendiente |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | GamerLegion | 2.13 (47¢) | $23,121 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Under 6.5 | 2.27 (44¢) | $11,951 | — | ⏳ Pendiente |
