@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 00:00:49 (hora de Perú)
+Actualizado: 2026-08-11 00:02:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $327.50
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 31 | 22 | 6 | -4.09 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 100 | 23 | -7.44 USD |
+| UpTheBlues | 151 | 100 | 26 | -7.44 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
@@ -352,6 +352,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Recoleta FC win on 2026-08-11? | No (BUY) | 94% | 0.47 | ⏳ pendiente | — |
+| UpTheBlues | CA Boca Juniors vs. Recoleta FC: CA Boca | Under (BUY) | 57% | 0.81 | ⏳ pendiente | — |
+| UpTheBlues | Will Recoleta FC win on 2026-08-11? | No (BUY) | 94% | 0.65 | ⏳ pendiente | — |
 | 0x4f2 | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 53% | 0.57 | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 32% | 1.61 | ⏳ pendiente | — |
 | UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 23% | 1.31 | ⏳ pendiente | — |
@@ -379,6 +382,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 17.5 | Under (BUY) | 51% | 0.48 | ✅ ganada | +0.46 |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: Recolet | Over (BUY) | 40% | 0.29 | ⏳ pendiente | — |
 | UpTheBlues | NK Celje vs. Ararat-Armenia FA: NK Celje | Over (BUY) | 34% | 0.30 | ⏳ pendiente | — |
-| UpTheBlues | Will FK Crvena zvezda vs. MH Hapoel Be'e | No (BUY) | 85% | 0.60 | ⏳ pendiente | — |
-| swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 54% | 0.32 | ✅ ganada | +0.27 |
-| swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 53% | 0.32 | ✅ ganada | +0.28 |
