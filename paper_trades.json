@@ -64817,5 +64817,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786456041.4327347,
     "fills": 1
+  },
+  {
+    "timestamp": 1786456302,
+    "timestamp_added": 1786456303.1392198,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-sba-mja-2026-08-11-sba",
+    "title": "Will \u0160K Slovan Bratislava win on 2026-08-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 455.13,
+    "whale_pct": 0.25,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x4f2"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786456303.1392303,
+    "fills": 1
   }
 ]
