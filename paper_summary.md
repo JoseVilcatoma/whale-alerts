@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 20:13:18 (hora de Perú)
+Actualizado: 2026-08-10 20:15:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $188.70
@@ -41,11 +41,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 22 | 17 | 3 | -4.25 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 128 | 85 | 28 | -7.52 USD |
+| UpTheBlues | 128 | 85 | 29 | -7.52 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 152 | 83 | 7 | -32.38 USD |
-| quavoo | 126 | 155 | 18 | -40.10 USD |
+| quavoo | 126 | 155 | 19 | -40.10 USD |
 | GoalLineGhost | 36 | 25 | 2 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -328,6 +328,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will CD Cuenca win on 2026-08-10? | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| quavoo | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 187 | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | monkeymashingkeyboard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: paiN Academy vs QUINTESS | paiN Academy (BUY) | 67% | 0.00 | ⏳ pendiente | — |
@@ -356,5 +358,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will CA Unión vs. CA Central Córdoba end | Yes (BUY) | 27% | 0.26 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Central Córdoba win on 2026-08-1 | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Unión vs. CA Central Córdoba end | Yes (BUY) | 27% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | CA Unión vs. CA Central Córdoba: O/U 1.5 | Under (BUY) | 34% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Paysandu SC PA win on 2026-08-10? | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |

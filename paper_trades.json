@@ -57824,5 +57824,47 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786410773.8180084,
     "fills": 2
+  },
+  {
+    "timestamp": 1786410846,
+    "timestamp_added": 1786410846.8655994,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-tex-laa-2026-08-10-total-8pt5",
+    "title": "Texas Rangers vs. Los Angeles Angels: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 782.6099999999999,
+    "whale_pct": 0.583,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786410846.8656065,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786410881,
+    "timestamp_added": 1786410881.8662987,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ecu1-cue-man-2026-08-10-cue",
+    "title": "Will CD Cuenca win on 2026-08-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 355.63,
+    "whale_pct": 0.334,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786410881.8663044,
+    "fills": 1
   }
 ]
