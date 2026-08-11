@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 18:33:35 (hora de Perú)
+Actualizado: 2026-08-11 18:35:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $347.95
-**Retorno acumulado:** -65.21%
+**Bankroll actual:** $348.02
+**Retorno acumulado:** -65.20%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 2 | 6 | 4 | +17.41 USD |
-| HomeRunHazard | 93 | 83 | 34 | +15.57 USD |
+| HomeRunHazard | 93 | 83 | 35 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| UpTheBlues | 213 | 138 | 51 | -4.42 USD |
+| UpTheBlues | 214 | 138 | 50 | -4.35 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
@@ -424,6 +424,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lib-flu-cir-2026-08-11-flu | RN1, UpTheBlues, ferrariChampions2026, swisstony |
 | lib-flu-cir-2026-08-11-total-2pt5 | RN1, UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-total-1pt5 | RN1, UpTheBlues, swisstony |
+| wnba-nyl-ind-2026-08-11 | HomeRunHazard, quavoo |
 | mlb-cle-det-2026-08-11-total-7pt5 | ferrariChampions2026, swisstony |
 | lib-flu-cir-2026-08-11-cir | RN1, UpTheBlues, ferrariChampions2026, swisstony |
 | lib-flu-cir-2026-08-11-draw | RN1, swisstony |
@@ -437,6 +438,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | New York Liberty vs. Indiana Fever | New York Liberty (BUY) | 41% | 0.52 | ⏳ pendiente | — |
 | RN1 | Will Club Bolívar win on 2026-08-11? | Yes (BUY) | 52% | 1.48 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 36% | 0.00 | ⏳ pendiente | — |
@@ -466,4 +468,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Fluminense FC (-1.5) | CS Independiente Rivadavia (BUY) | 90% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will CS Independiente Rivadavia win on 2 | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 48% | 0.00 | ⏳ pendiente | — |

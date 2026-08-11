@@ -61851,8 +61851,8 @@
     "whale_pct": 0.14,
     "paper_stake_usd": 0.45,
     "odds_at_bet": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.07,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786422605.9190092,
@@ -76601,5 +76601,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786490667.2216413,
     "fills": 4
+  },
+  {
+    "timestamp": 1786491277,
+    "timestamp_added": 1786491277.9722688,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-nyl-ind-2026-08-11",
+    "title": "New York Liberty vs. Indiana Fever",
+    "outcome": "New York Liberty",
+    "side": "BUY",
+    "whale_usd": 1134.2773,
+    "whale_pct": 0.201,
+    "paper_stake_usd": 0.52,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786491277.9722803,
+    "fills": 1
   }
 ]
