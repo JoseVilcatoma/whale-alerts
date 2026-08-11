@@ -492,5 +492,18 @@
     "usd": 24974.91009,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33324,
+    "timestamp": 1786444005,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "lol-drxc-foxy-2026-08-11",
+    "title": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+    "outcome": "Kiwoom DRX Challengers",
+    "side": "SELL",
+    "usd": 57140.76204,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
