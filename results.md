@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 17:32:42 (hora de Perú)
+Actualizado: 2026-08-11 17:34:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **59**  ($1,283,920 en total)
+- Apuestas registradas: **61**  ($1,325,944 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 45
-- Apostadores distintos: 33
+- Pendientes: 47
+- Apostadores distintos: 34
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| pleaseplease123 | 0 | 0 | 4 | — | $153,001 | — |
+| pleaseplease123 | 0 | 0 | 5 | — | $182,636 | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 3 | — | $128,015 | — |
 | SDTrading | 0 | 0 | 6 | — | $121,629 | — |
 | AV23IUa | 0 | 0 | 2 | — | $104,685 | — |
@@ -45,6 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | monkeymashingkeyboard | 0 | 0 | 1 | — | $14,986 | — |
 | Weaseloftheweek | 0 | 1 | 0 | ⚠️ 0% (1) | $14,667 | -$14,667 |
 | beachboy4 | 0 | 0 | 1 | — | $14,094 | — |
+| paquitomillonario | 0 | 0 | 1 | — | $12,390 | — |
 | spnir | 0 | 0 | 1 | — | $12,000 | — |
 | kkookkoo | 0 | 0 | 1 | — | $11,562 | — |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | — | $11,356 | — |
@@ -62,6 +63,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.79 (56¢) | $29,634 | — | ⏳ Pendiente |
+| paquitomillonario | Cleveland Guardians vs. Detroit Tigers: O/U 9.5 | Under 9.5 | 1.56 (64¢) | $12,390 | — | ⏳ Pendiente |
 | SevenTons | National Bank Open: Belinda Bencic vs Coco Gauff | Belinda Bencic | 2.44 (41¢) | $13,358 | — | ⏳ Pendiente |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | National Bank Open: Belinda Bencic vs Coco Gauff | Belinda Bencic | 2.50 (40¢) | $16,800 | — | ⏳ Pendiente |
 | SevenTons | National Bank Open: Belinda Bencic vs Coco Gauff | Belinda Bencic | 2.56 (39¢) | $12,639 | — | ⏳ Pendiente |
@@ -120,4 +123,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | Game Handicap: HLE (-2.5) vs DN SOOPers (+2.5) | DN SOOPers | 1.54 (65¢) | $17,024 | +$9,167 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | Hanwha Life Esports | 1.41 (71¢) | $17,114 | -$17,114 | ❌ Perdida |
 | retroactivesource | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | Hanwha Life Esports | 1.23 (81¢) | $54,960 | -$54,960 | ❌ Perdida |
-| TAIWANNUMBERONE | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | Hanwha Life Esports | 1.25 (80¢) | $13,159 | -$13,159 | ❌ Perdida |

@@ -765,5 +765,31 @@
     "usd": 13357.6661,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33958,
+    "timestamp": 1786487589,
+    "username": "paquitomillonario",
+    "wallet": "0x04e6840687847a98f9ecfbb512a8c8b98d073914",
+    "slug": "mlb-cle-det-2026-08-11-total-9pt5",
+    "title": "Cleveland Guardians vs. Detroit Tigers: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 12389.663999999999,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33959,
+    "timestamp": 1786487686,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sea-nyy-2026-08-11-total-7pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 29634.304000000004,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
