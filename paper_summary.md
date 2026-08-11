@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 20:09:06 (hora de Perú)
+Actualizado: 2026-08-10 20:11:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $188.70
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 22 | 17 | 3 | -4.25 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 128 | 85 | 26 | -7.52 USD |
+| UpTheBlues | 128 | 85 | 27 | -7.52 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 152 | 83 | 7 | -32.38 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 36 | -148.65 USD |
+| ferrariChampions2026 | 538 | 431 | 37 | -148.65 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -328,6 +328,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Spread: CD Cuenca (-1.5) | Manta FC (BUY) | 82% | 0.01 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Minnesota Twins (-2.5) | Minnesota Twins (BUY) | 23% | 0.40 | ⏳ pendiente | — |
 | quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 0.26 | ⏳ pendiente | — |
 | quavoo | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 0.54 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 31% | 1.23 | ⏳ pendiente | — |
@@ -356,5 +358,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 184 | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Tempo vs. Atlanta Dream: O/U 184 | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Tempo vs. Atlanta Dream | Toronto Tempo (BUY) | 11% | 0.00 | ⏳ pendiente | — |
-| quavoo | CA Talleres vs. CA Lanús: O/U 1.5 | Under (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream | Atlanta Dream (BUY) | 87% | 0.00 | ⏳ pendiente | — |
