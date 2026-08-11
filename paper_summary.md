@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 08:20:54 (hora de Perú)
+Actualizado: 2026-08-11 08:22:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $335.77
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 16 | 13 | 4 | +17.16 USD |
-| HomeRunHazard | 93 | 83 | 9 | +15.57 USD |
+| HomeRunHazard | 93 | 83 | 10 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | lzh1 | 5 | 0 | 8 | +3.08 USD |
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
 | BrotherObama | 7 | 3 | 0 | -24.77 USD |
-| quavoo | 136 | 166 | 24 | -30.64 USD |
+| quavoo | 136 | 166 | 25 | -30.64 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -361,6 +361,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Chicago White Sox (-2.5) | Cincinnati Reds (BUY) | 70% | 0.00 | ⏳ pendiente | — |
+| quavoo | Sabah FK vs. Aarhus GF: O/U 2.5 | Over (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | quavoo | FK Bodø/Glimt vs. RU Saint-Gilloise: O/U | Over (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
@@ -389,5 +391,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Spread: CD Universidad Católica (-1.5) | Estudiantes de La Plata (BUY) | 96% | 0.56 | ⏳ pendiente | — |
 | lzh1 | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 49% | 17.70 | ⏳ pendiente | — |
 | UpTheBlues | Will Qairat FK vs. PFK Levski Sofia end  | Yes (BUY) | 30% | 0.64 | ⏳ pendiente | — |
-| UpTheBlues | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 96% | 1.35 | ⏳ pendiente | — |
-| UpTheBlues | Will Qairat FK vs. PFK Levski Sofia end  | Yes (BUY) | 30% | 0.67 | ⏳ pendiente | — |
