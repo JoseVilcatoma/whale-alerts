@@ -74147,5 +74147,48 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786487373.9840658,
     "fills": 1
+  },
+  {
+    "timestamp": 1786487494,
+    "timestamp_added": 1786487494.4936469,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-flu-cir-2026-08-11-cir",
+    "title": "Will CS Independiente Rivadavia win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1297.95,
+    "whale_pct": 0.715,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786487494.493654,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786487507,
+    "timestamp_added": 1786487507.4630198,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "lib-flu-cir-2026-08-11-first-half-total-0pt5",
+    "title": "Fluminense FC vs. CS Independiente Rivadavia: 1st Half O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 751.5999980000001,
+    "whale_pct": 0.553,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786487507.4630291,
+    "fills": 1
   }
 ]

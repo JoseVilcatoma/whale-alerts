@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:30:46 (hora de Perú)
+Actualizado: 2026-08-11 17:32:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -46,8 +46,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 122 | 97 | 20 | -28.98 USD |
-| RN1 | 173 | 99 | 21 | -33.33 USD |
+| swisstony | 122 | 97 | 21 | -28.98 USD |
+| RN1 | 173 | 99 | 22 | -33.33 USD |
 | quavoo | 151 | 181 | 16 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -425,6 +425,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 93% | 0.00 | ⏳ pendiente | — |
 | Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will CS Independiente Rivadavia win on 2 | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
@@ -452,6 +454,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: RMD Gaming vs RED Academy - Game 1  | RMD Gaming (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 82% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 82% | 0.00 | ⏳ pendiente | — |
-| RN1 | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 82% | 0.00 | ⏳ pendiente | — |
