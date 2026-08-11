@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 15:15:52 (hora de Perú)
+Actualizado: 2026-08-11 15:17:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $336.27
-**Retorno acumulado:** -66.37%
+**Bankroll actual:** $444.73
+**Retorno acumulado:** -55.53%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,6 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
+| dv-pm | 2 | 2 | 5 | +107.28 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
@@ -35,8 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| dv-pm | 1 | 2 | 6 | -0.92 USD |
-| UpTheBlues | 170 | 111 | 95 | -0.95 USD |
+| UpTheBlues | 177 | 114 | 86 | -1.58 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -44,9 +44,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 86 | 75 | 58 | -24.32 USD |
+| swisstony | 90 | 75 | 54 | -23.54 USD |
 | BrotherObama | 7 | 3 | 5 | -24.77 USD |
-| quavoo | 145 | 177 | 20 | -31.62 USD |
+| quavoo | 146 | 177 | 19 | -31.51 USD |
 | RN1 | 167 | 99 | 0 | -34.36 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -409,6 +409,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 61% | 0.71 | ⏳ pendiente | — |
 | SDTrading | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
@@ -427,15 +428,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Fenerbahçe SK (-1.5) | SK Puntigamer Sturm Graz (BUY) | 91% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 73% | 0.00 | ✅ ganada | +0.00 |
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | dv-pm | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 45% | 17.20 | ⏳ pendiente | — |
-| UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 67% | 1.42 | ⏳ pendiente | — |
+| UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 67% | 1.42 | ✅ ganada | +0.70 |
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 30% | 0.61 | ⏳ pendiente | — |
 | UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 98% | 0.82 | ⏳ pendiente | — |
 | UpTheBlues | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 93% | 0.87 | ⏳ pendiente | — |
 | UpTheBlues | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 98% | 3.74 | ⏳ pendiente | — |
 | UpTheBlues | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 98% | 1.30 | ⏳ pendiente | — |
-| UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 79% | 0.50 | ⏳ pendiente | — |
