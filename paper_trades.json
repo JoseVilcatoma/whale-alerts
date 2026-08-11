@@ -60541,5 +60541,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786418966.9579084,
     "fills": 1
+  },
+  {
+    "timestamp": 1786419159,
+    "timestamp_added": 1786419160.4180367,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-tb-oak-2026-08-10-total-8pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 560.0,
+    "whale_pct": 0.103,
+    "paper_stake_usd": 0.26,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786419160.4180446,
+    "fills": 1
   }
 ]
