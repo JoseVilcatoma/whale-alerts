@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 19:19:27 (hora de Perú)
+Actualizado: 2026-08-10 19:21:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $184.17
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| HomeRunHazard | 45 | 46 | 25 | +15.05 USD |
+| HomeRunHazard | 45 | 46 | 29 | +15.05 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 3 | +7.96 USD |
 | monkeymashingkeyboard | 3 | 0 | 6 | +2.86 USD |
@@ -41,18 +41,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 22 | 16 | 4 | -3.46 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 128 | 79 | 20 | -7.28 USD |
+| UpTheBlues | 128 | 79 | 21 | -7.28 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 151 | 83 | 5 | -32.82 USD |
-| quavoo | 125 | 155 | 14 | -40.10 USD |
+| RN1 | 151 | 83 | 6 | -32.82 USD |
+| quavoo | 125 | 155 | 15 | -40.10 USD |
 | GoalLineGhost | 36 | 25 | 2 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 27 | -148.65 USD |
+| ferrariChampions2026 | 538 | 431 | 30 | -148.65 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -280,6 +280,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lec-ame-por-2026-08-09-total-3pt5 | NordhavenCap, ferrariChampions2026 |
 | lol-hle1-gen-2026-08-10 | Djdjdjekekek, fRibrenlc, ferrariChampions2026 |
 | wnba-tor-atl-2026-08-10-spread-home-12pt5 | HomeRunHazard, monkeymashingkeyboard |
+| wnba-tor-atl-2026-08-10-total-184pt5 | HomeRunHazard, ferrariChampions2026 |
 | lol-dnsc-ktc-2026-08-10 | Forecastication2, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-10-total-7pt5 | HomeRunHazard, quavoo |
 | mlb-hou-sf-2026-08-10-total-8pt5 | Forecastication2, SDTrading |
@@ -301,6 +302,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-gen-dnf-2026-08-10-game2 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, ferrariChampions2026 |
 | mlb-kc-lad-2026-08-10-total-7pt5 | Bulls94, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-10-spread-home-1pt5 | ferrariChampions2026, quavoo |
+| arg-uni-cac-2026-08-10-spread-home-1pt5 | GoalLineGhost, UpTheBlues |
 | mlb-tb-oak-2026-08-10-total-10pt5 | HomeRunHazard, quavoo |
 | rou1-sep-fcs-2026-08-09-fcs | RN1, lzh1 |
 | ecu1-lib-uni-2026-08-10-uni | UpTheBlues, VD721lsj4938Dk388 |
@@ -317,11 +319,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bra3-psc-con-2026-08-10-total-2pt5 | RN1, UpTheBlues |
 | wnba-tor-atl-2026-08-10-total-187pt5 | HomeRunHazard, ferrariChampions2026 |
 | wnba-tor-atl-2026-08-10-total-186pt5 | HomeRunHazard, ferrariChampions2026 |
+| wnba-tor-atl-2026-08-10 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Atlanta Dream (-13.5) | Atlanta Dream (BUY) | 55% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 184 | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Toronto Tempo vs. Atlanta Dream: O/U 184 | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Toronto Tempo vs. Atlanta Dream | Toronto Tempo (BUY) | 11% | 0.00 | ⏳ pendiente | — |
+| quavoo | CA Talleres vs. CA Lanús: O/U 1.5 | Under (BUY) | 42% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream | Atlanta Dream (BUY) | 87% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Houston Astros vs. San Francisco Giants: | Over (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: CA Unión (-1.5) | CA Central Córdoba (BUY) | 72% | 0.00 | ⏳ pendiente | — |
+| RN1 | CD Cuenca vs. Manta FC: O/U 2.5 | Over (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream | Atlanta Dream (BUY) | 89% | 0.68 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Mets (-1.5) | Atlanta Braves (BUY) | 29% | 0.25 | ⏳ pendiente | — |
 | quavoo | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under (BUY) | 54% | 0.24 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 186 | Under (BUY) | 50% | 0.29 | ⏳ pendiente | — |
@@ -342,13 +355,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will RU Saint-Gilloise win on 2026-08-11 | Yes (BUY) | 20% | 0.43 | ⏳ pendiente | — |
 | BrotherObama | LoL: LOS vs paiN Gaming (BO3) - CBLOL Re | paiN Gaming (BUY) | 17% | 6.20 | ⏳ pendiente | — |
 | quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 3.36 | ⏳ pendiente | — |
-| UpTheBlues | Libertad Loja vs. CD Universidad Catolic | Over (BUY) | 91% | 0.68 | ⏳ pendiente | — |
-| SnakeBall | LoL: LOS vs paiN Gaming (BO3) - CBLOL Re | LOS (BUY) | 83% | 0.32 | ⏳ pendiente | — |
-| quavoo | Spread: Atlanta Braves (-1.5) | New York Mets (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| SnakeBall | Will Goiás EC vs. Londrina EC end in a d | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| SnakeBall | Anapolis FC GO vs. Guarani FC SP: O/U 2. | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| SnakeBall | LoL: LOS vs paiN Gaming (BO3) - CBLOL Re | LOS (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| SnakeBall | Will CA Central Córdoba win on 2026-08-1 | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
-| quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| SnakeBall | Will Guarani FC SP win on 2026-08-10? | No (BUY) | 57% | 0.00 | ⏳ pendiente | — |
