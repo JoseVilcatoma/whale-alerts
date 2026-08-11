@@ -250,8 +250,24 @@ def build_summary_md():
               "|---|---|---|---|---|---|"]
     icono = {"won": "✅ Ganada", "lost": "❌ Perdida", "pending": "⏳ Pendiente"}
     for r in sorted(results, key=lambda x: x.get("timestamp") or 0, reverse=True)[:60]:
+        titulo = (r.get("title") or "").replace("|", "-")
+        outcome = (r.get("outcome") or "").replace("|", "-")
+        # En mercados de Over/Under el resultado solo dice "Over"/"Under" y la
+        # línea (8.5, 2.5...) vive en el título. La pegamos para que se entienda.
+        if outcome.lower() in ("over", "under", "yes", "no"):
+            linea = ""
+            for sep in ("O/U", "o/u", "Over/Under"):
+                if sep in titulo:
+                    linea = titulo.split(sep)[-1].strip()
+                    break
+            if not linea:
+                import re as _re
+                m = _re.search(r"([+-]?\d+\.?\d*)\s*$", titulo)
+                linea = m.group(1) if m else ""
+            if linea:
+                outcome = f"{outcome} {linea}"
         lines.append(
-            f"| {r['username']} | {(r.get('title') or '')[:38]} | {r.get('outcome','')} | "
+            f"| {r['username']} | {titulo} | {outcome} | "
             f"{r.get('odds_at_bet','?')}¢ | ${r.get('usd',0):,.0f} | "
             f"{icono.get(r['status'], r['status'])} |"
         )
@@ -299,11 +315,19 @@ def get_portfolio_value(wallet):
 
 
 def stake_line(usd, wallet):
+    """Muestra qué parte de su cartera representa la apuesta.
+    OJO: si la ballena ya retiró su capital, la cartera queda casi vacía y
+    el porcentaje se dispara a números sin sentido (llegamos a ver
+    5.485.761%). En esos casos es más honesto no mostrar el porcentaje."""
     value = get_portfolio_value(wallet)
     if not value or value <= 0:
         return ""
     pct = usd / value * 100
-    return f"💰 Stake: {pct:.1f}% de su portafolio (${value:,.0f} total)\n"
+    if pct > 100:
+        # apostó más de lo que hoy tiene en cartera: el dato no es interpretable
+        return (f"💰 Cartera visible: ${value:,.0f} "
+                f"(menor que la apuesta — probablemente retiró fondos)\n")
+    return f"💰 Stake: {pct:.1f}% de su cartera (${value:,.0f} total)\n"
 
 
 def build_ticket(username, trade, usd, odds, wallet):
