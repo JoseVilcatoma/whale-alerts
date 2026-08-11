@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:16:11 (hora de Perú)
+Actualizado: 2026-08-11 17:18:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -34,6 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
+| donthackme | 0 | 0 | 9 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -423,6 +424,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| donthackme | Will annual inflation be 3.6% in July? | No (BUY) | 97% | 0.00 | ⏳ pendiente | — |
+| donthackme | Will annual inflation be 3.4% in July? | No (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| donthackme | Will annual inflation be 3.7% in July? | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| donthackme | Will annual inflation be 3.1% or less in | No (BUY) | 98% | 0.00 | ⏳ pendiente | — |
+| donthackme | Will annual inflation be 3.9% in July? | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| donthackme | Will annual inflation be 3.3% in July? | No (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| donthackme | Will annual inflation be 3.2% in July? | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
+| donthackme | Will annual inflation be 3.8% in July? | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| donthackme | Will annual inflation be 3.5% in July? | No (BUY) | 86% | 0.69 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: cobblemon vs Grêmio Espo | Grêmio Esports (BUY) | 84% | 0.66 | ⏳ pendiente | — |
 | RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: RMD Gaming vs RED Academy - Game 1  | RMD Gaming (BUY) | 77% | 0.00 | ⏳ pendiente | — |
@@ -444,12 +454,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will CR Brasil win on 2026-08-11? | No (BUY) | 65% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Fluminense FC vs. CS Independiente  | Yes (BUY) | 27% | 0.00 | ⏳ pendiente | — |
-| swisstony | Spread: Recoleta FC (-1.5) | CA Boca Juniors (BUY) | 98% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will CA Boca Juniors win on 2026-08-11? | Yes (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| RN1 | Fluminense FC vs. CS Independiente Rivad | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will CA Boca Juniors vs. Recoleta FC end | No (BUY) | 89% | 0.00 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Yes (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 65% | 0.00 | ⏳ pendiente | — |
-| swisstony | CA Boca Juniors vs. Recoleta FC: Recolet | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
