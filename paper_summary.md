@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 15:32:24 (hora de Perú)
+Actualizado: 2026-08-11 15:34:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.33
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 101 | 89 | 29 | -32.02 USD |
 | quavoo | 148 | 179 | 17 | -33.00 USD |
-| RN1 | 167 | 99 | 2 | -34.36 USD |
+| RN1 | 167 | 99 | 3 | -34.36 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 3 | -82.84 USD |
@@ -410,6 +410,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 85% | 0.71 | ⏳ pendiente | — |
 | quavoo | New York Mets vs. Atlanta Braves: O/U 7. | Over (BUY) | 59% | 0.37 | ⏳ pendiente | — |
 | quavoo | New York Mets vs. Atlanta Braves: O/U 8. | Over (BUY) | 50% | 0.40 | ⏳ pendiente | — |
 | BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 26% | 1.46 | ⏳ pendiente | — |
@@ -439,4 +440,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| dv-pm | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 45% | 17.20 | ⏳ pendiente | — |
