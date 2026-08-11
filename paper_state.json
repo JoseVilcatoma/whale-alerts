@@ -1,5 +1,5 @@
 {
-  "bankroll": 250.6766685716106,
+  "bankroll": 250.43672562257441,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12925,6 +12925,51 @@
       "timestamp": 1786411476.072904,
       "bankroll": 250.68,
       "event": "won: johnbaster \u2014 LoL: Leviatan Esports vs RED Canids - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786413741.1524293,
+      "bankroll": 252.19,
+      "event": "won: HomeRunHazard \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786413750.8057635,
+      "bankroll": 250.4,
+      "event": "lost: VD721lsj4938Dk388 \u2014 Will CD Universidad Catolica del Ecuador win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786413752.9887137,
+      "bankroll": 250.45,
+      "event": "won: UpTheBlues \u2014 Will CD Universidad Catolica del Ecuador win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786413753.8371441,
+      "bankroll": 250.62,
+      "event": "won: swisstony \u2014 Libertad Loja vs. CD Universidad Catolica del Ecuador: O/U 1.5"
+    },
+    {
+      "timestamp": 1786413754.3832214,
+      "bankroll": 250.76,
+      "event": "won: swisstony \u2014 Spread: Libertad Loja (-1.5)"
+    },
+    {
+      "timestamp": 1786413754.8219366,
+      "bankroll": 250.79,
+      "event": "won: swisstony \u2014 Spread: Libertad Loja (-2.5)"
+    },
+    {
+      "timestamp": 1786413756.8089,
+      "bankroll": 250.79,
+      "event": "won: UpTheBlues \u2014 Will CD Universidad Catolica del Ecuador win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786413759.1330042,
+      "bankroll": 250.86,
+      "event": "won: UpTheBlues \u2014 Libertad Loja vs. CD Universidad Catolica del Ecuador: O/U 1.5"
+    },
+    {
+      "timestamp": 1786413760.348848,
+      "bankroll": 250.44,
+      "event": "lost: RN1 \u2014 Will Libertad Loja vs. CD Universidad Catolica del Ecuador end in a draw?"
     }
   ]
 }

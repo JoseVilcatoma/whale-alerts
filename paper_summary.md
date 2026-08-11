@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 20:29:48 (hora de Perú)
+Actualizado: 2026-08-10 21:04:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $250.68
-**Retorno acumulado:** -74.93%
+**Bankroll actual:** $250.44
+**Retorno acumulado:** -74.96%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
-| HomeRunHazard | 47 | 47 | 27 | +17.09 USD |
+| HomeRunHazard | 48 | 47 | 29 | +18.61 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 3 | +7.96 USD |
@@ -32,19 +32,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| VD721lsj4938Dk388 | 0 | 0 | 1 | +0.00 USD |
 | VeryLucky888 | 1 | 0 | 2 | +0.00 USD |
 | Anjun | 0 | 0 | 1 | +0.00 USD |
 | SnakeBall | 0 | 1 | 9 | +0.00 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
+| VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 22 | 17 | 3 | -4.25 USD |
+| swisstony | 25 | 17 | 0 | -3.90 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 128 | 85 | 39 | -7.52 USD |
+| UpTheBlues | 131 | 85 | 38 | -7.41 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 152 | 83 | 9 | -32.38 USD |
+| RN1 | 152 | 84 | 8 | -32.80 USD |
 | quavoo | 126 | 155 | 23 | -40.10 USD |
 | GoalLineGhost | 36 | 25 | 2 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -324,12 +324,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-nym-atl-2026-08-10-spread-away-1pt5 | HomeRunHazard, RN1 |
 | wnba-tor-atl-2026-08-10 | HomeRunHazard, ferrariChampions2026 |
 | bra3-psc-con-2026-08-10-psc | RN1, UpTheBlues |
-| wnba-chi-sea-2026-08-10 | monkeymashingkeyboard, quavoo |
+| wnba-chi-sea-2026-08-10 | HomeRunHazard, monkeymashingkeyboard, quavoo |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 56% | 0.42 | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 55% | 0.38 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Central Córdoba win on 2026-08-1 | Yes (BUY) | 85% | 1.73 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Central Córdoba win on 2026-08-1 | Yes (BUY) | 84% | 0.88 | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 178.5 | Under (BUY) | 48% | 0.95 | ⏳ pendiente | — |
 | UpTheBlues | Will CD Cuenca vs. Manta FC end in a dra | Yes (BUY) | 48% | 0.86 | ⏳ pendiente | — |
 | quavoo | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under (BUY) | 54% | 0.79 | ⏳ pendiente | — |
 | RN1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 59% | 1.02 | ⏳ pendiente | — |
@@ -355,8 +360,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: paiN Academy vs QUINTESS | paiN Academy (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Audax CS Italiano win on 2026-08-10 | No (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: CD Cuenca (-1.5) | Manta FC (BUY) | 82% | 0.01 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Minnesota Twins (-2.5) | Minnesota Twins (BUY) | 23% | 0.40 | ⏳ pendiente | — |
-| quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 0.26 | ⏳ pendiente | — |
-| quavoo | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 0.54 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 31% | 1.23 | ⏳ pendiente | — |
-| quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 4.66 | ⏳ pendiente | — |
