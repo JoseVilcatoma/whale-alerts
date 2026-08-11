@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 21:45:29 (hora de Perú)
+Actualizado: 2026-08-10 21:47:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $257.24
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 545 | 440 | 40 | -151.64 USD |
+| ferrariChampions2026 | 545 | 440 | 41 | -151.64 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -336,6 +336,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 34% | 0.67 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 26% | 0.32 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 34% | 1.23 | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 66% | 2.26 | ⏳ pendiente | — |
@@ -365,4 +366,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 11.5 | Over (BUY) | 35% | 2.20 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Milwaukee Brewers (-1.5) | San Diego Padres (BUY) | 55% | 0.26 | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 55% | 0.30 | ⏳ pendiente | — |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 52% | 2.33 | ⏳ pendiente | — |
