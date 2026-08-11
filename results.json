@@ -169,19 +169,6 @@
     "status": "pending"
   },
   {
-    "telegram_msg_id": 33368,
-    "timestamp": 1786451550,
-    "username": "Istaroth",
-    "wallet": "0x9efda3d6354152901fc4706c3b1a9ce50b45ad00",
-    "slug": "",
-    "title": "",
-    "outcome": "",
-    "side": "BUY",
-    "usd": 27704.208400000003,
-    "odds_at_bet": 92,
-    "status": "pending"
-  },
-  {
     "telegram_msg_id": 33369,
     "timestamp": 1786451944,
     "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
@@ -221,19 +208,6 @@
     "status": "pending"
   },
   {
-    "telegram_msg_id": 33425,
-    "timestamp": 1786457334,
-    "username": "wwarden",
-    "wallet": "0x6e131d6c61216b4a5ec571db332ad3226e7fa801",
-    "slug": "",
-    "title": "",
-    "outcome": "",
-    "side": "BUY",
-    "usd": 25468.6993,
-    "odds_at_bet": 82,
-    "status": "pending"
-  },
-  {
     "telegram_msg_id": 33460,
     "timestamp": 1786460915,
     "username": "ferrariChampions2026",
@@ -244,19 +218,6 @@
     "side": "BUY",
     "usd": 11022.429999000002,
     "odds_at_bet": 56,
-    "status": "pending"
-  },
-  {
-    "telegram_msg_id": 33473,
-    "timestamp": 1786461871,
-    "username": "shxbyron1",
-    "wallet": "0x04677c0cd4b904b50f0f829586824b773feefb2e",
-    "slug": "",
-    "title": "",
-    "outcome": "",
-    "side": "BUY",
-    "usd": 14942.210000000001,
-    "odds_at_bet": 89,
     "status": "pending"
   },
   {
