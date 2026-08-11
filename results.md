@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 16:43:14 (hora de Perú)
+Actualizado: 2026-08-11 16:45:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **44**  ($787,820 en total)
+- Apuestas registradas: **45**  ($807,820 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 30
-- Apostadores distintos: 24
+- Pendientes: 31
+- Apostadores distintos: 25
 
 ### Balance
 
@@ -37,6 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
 | BreakTheBank | 0 | 0 | 1 | — | $22,107 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 2 | 0 | 0 | ⚠️ 100% (2) | $21,062 | +$8,396 |
+| 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | 0 | 0 | 1 | — | $20,000 | — |
 | Weaseloftheweek | 0 | 1 | 0 | ⚠️ 0% (1) | $14,667 | -$14,667 |
 | kkookkoo | 0 | 0 | 1 | — | $11,562 | — |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | — | $11,356 | — |
@@ -53,6 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.59 (63¢) | $20,000 | — | ⏳ Pendiente |
 | SDTrading | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Under 6.5 | 2.33 (43¢) | $17,200 | — | ⏳ Pendiente |
 | pleaseplease123 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Over 6.5 | 1.75 (57¢) | $22,800 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | National Bank Open: Jakub Mensik vs Ben Shelton | Jakub Mensik | 2.44 (41¢) | $11,107 | — | ⏳ Pendiente |
