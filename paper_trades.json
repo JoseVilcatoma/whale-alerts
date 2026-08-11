@@ -64254,8 +64254,8 @@
     "whale_pct": 0.112,
     "paper_stake_usd": 0.38,
     "odds_at_bet": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786447093.3914533,
@@ -66042,6 +66042,26 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786462613.4205868,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786462927,
+    "timestamp_added": 1786462928.2703795,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "ucl-bog-usg-2026-08-11-spread-home-1pt5",
+    "title": "Spread: FK Bod\u00f8/Glimt (-1.5)",
+    "outcome": "RU Saint-Gilloise",
+    "side": "BUY",
+    "whale_usd": 519.52,
+    "whale_pct": 0.106,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786462928.2703898,
     "fills": 1
   }
 ]
