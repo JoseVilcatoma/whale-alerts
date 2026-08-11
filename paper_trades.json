@@ -61206,5 +61206,49 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786420450.4981847,
     "fills": 1
+  },
+  {
+    "timestamp": 1786420502,
+    "timestamp_added": 1786420502.7366416,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-tex-laa-2026-08-10-spread-home-1pt5",
+    "title": "Spread: Los Angeles Angels (-1.5)",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "whale_usd": 2184.5099960000002,
+    "whale_pct": 1.479,
+    "paper_stake_usd": 3.92,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786420502.7366488,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786420522,
+    "timestamp_added": 1786420522.845582,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-chi-sea-2026-08-10-spread-home-1pt5",
+    "title": "Spread: Seattle Storm (-1.5)",
+    "outcome": "Seattle Storm",
+    "side": "BUY",
+    "whale_usd": 160.0,
+    "whale_pct": 0.105,
+    "paper_stake_usd": 0.28,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786420522.8455899,
+    "fills": 1
   }
 ]

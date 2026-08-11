@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 22:54:24 (hora de Perú)
+Actualizado: 2026-08-10 22:56:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $264.90
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 25 | 17 | 4 | -3.90 USD |
+| swisstony | 25 | 17 | 6 | -3.90 USD |
 | UpTheBlues | 141 | 95 | 24 | -6.30 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
@@ -335,6 +335,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-10-total-6pt5 | HomeRunHazard, ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
 | mlb-tb-oak-2026-08-10-total-11pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-mil-sd-2026-08-10-spread-away-1pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| wnba-chi-sea-2026-08-10-spread-home-1pt5 | ferrariChampions2026, swisstony |
 | mlb-phi-stl-2026-08-10-spread-away-2pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-col-ari-2026-08-10-total-11pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-col-ari-2026-08-10-spread-home-7pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
@@ -342,11 +343,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-chi-sea-2026-08-10-total-183pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-mil-sd-2026-08-10-spread-home-1pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-col-ari-2026-08-10-total-8pt5 | HomeRunHazard, RN1 |
+| mlb-tex-laa-2026-08-10-spread-home-1pt5 | HomeRunHazard, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Seattle Storm (-1.5) | Seattle Storm (BUY) | 64% | 0.28 | ⏳ pendiente | — |
+| swisstony | Spread: Los Angeles Angels (-1.5) | Texas Rangers (BUY) | 81% | 3.92 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: San Francisco Giants (-1.5) | Houston Astros (BUY) | 86% | 0.58 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: San Francisco Giants (-1.5) | Houston Astros (BUY) | 84% | 0.57 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Angels (-1.5) | Texas Rangers (BUY) | 78% | 0.41 | ⏳ pendiente | — |
@@ -375,5 +379,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 29% | 0.27 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 66% | 0.35 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: San Diego Padres (-1.5) | Milwaukee Brewers (BUY) | 58% | 4.10 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: San Diego Padres (-1.5) | Milwaukee Brewers (BUY) | 63% | 0.34 | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 8.5 | Under (BUY) | 56% | 0.26 | ⏳ pendiente | — |
