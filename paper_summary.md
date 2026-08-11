@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 09:20:14 (hora de Perú)
+Actualizado: 2026-08-11 09:22:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $332.25
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 3 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 4 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -360,6 +360,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Indiana Fever (-3.5) | New York Liberty (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | quavoo | Qairat FK vs. PFK Levski Sofia: O/U 0.5 | Over (BUY) | 89% | 0.00 | ⏳ pendiente | — |
 | quavoo | Will FK Bodø/Glimt win on 2026-08-11? | Yes (BUY) | 59% | 0.00 | ⏳ pendiente | — |
@@ -389,4 +390,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 96% | 1.35 | ⏳ pendiente | — |
 | UpTheBlues | Will Qairat FK vs. PFK Levski Sofia end  | Yes (BUY) | 30% | 0.67 | ⏳ pendiente | — |
 | lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 27.81 | ⏳ pendiente | — |
-| lzh1 | Will Gangwon FC win on 2026-08-11? | Yes (BUY) | 32% | 2.31 | ⏳ pendiente | — |
