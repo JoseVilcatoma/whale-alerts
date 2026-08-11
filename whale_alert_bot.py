@@ -153,16 +153,34 @@ def resolve_pending_results():
     changed = False
     with lock:
         pending = [r for r in results if r["status"] == "pending"]
+    if pending:
+        print(f"[resolver] revisando {len(pending)} pendientes...")
+    abiertos = irresolubles = 0
     for r in pending:
+        if not r.get("slug"):
+            irresolubles += 1
+            continue
         market = get_market(r["slug"])
         outcome = market_result(market, r["outcome"])
         if outcome in ("won", "lost"):
             with lock:
                 r["status"] = outcome
             changed = True
+            print(f"  ✔ resuelta: {r['username']} — {(r.get('title') or '')[:40]} → {outcome}")
             if PUBLICAR_RESULTADOS:
                 publicar_desenlace(r, outcome)
+        elif market is None:
+            print(f"  ⚠ {r['slug']}: no pude consultar el mercado")
+        elif not market.get("closed"):
+            abiertos += 1
+        else:
+            print(f"  ⚠ {r['slug']}: cerrado pero no pude determinar el resultado "
+                  f"para '{r.get('outcome')}'")
         time.sleep(0.1)
+    if abiertos:
+        print(f"  … {abiertos} siguen abiertos en Polymarket (todavía sin resolución oficial)")
+    if irresolubles:
+        print(f"  ⚠ {irresolubles} sin slug: nunca van a resolverse (registros viejos)")
     if changed:
         results_dirty = True
 
@@ -505,6 +523,13 @@ def on_ws_message(ws, message):
     # El nombre viene en el propio trade; si no, usamos la wallet abreviada
     username = (trade.get("name") or trade.get("pseudonym")
                 or trade.get("userName") or f"{wallet[:6]}…{wallet[-4:]}")
+
+    # Sin slug o sin outcome no podemos consultar el mercado después, así que
+    # la apuesta quedaría "pendiente" para siempre. Mejor no registrarla.
+    if not trade.get("slug") or not trade.get("outcome"):
+        print(f"[omitida] {username}: ${usd:,.0f} — el feed mandó el trade sin "
+              f"slug u outcome, no se podría resolver después")
+        return
 
     # Descartar apuestas a resultados ya definidos (cuota ~1.01): no son
     # predicción, y ensucian el % de acierto de la tabla.
