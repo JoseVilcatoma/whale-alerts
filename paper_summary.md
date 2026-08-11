@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 02:24:58 (hora de Perú)
+Actualizado: 2026-08-11 02:27:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
-| quavoo | 136 | 166 | 19 | -30.64 USD |
+| quavoo | 136 | 166 | 20 | -30.64 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -353,6 +353,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Dota 2: Spirit Academy vs No Hoodwink (B | Spirit Academy (BUY) | 46% | 0.49 | ⏳ pendiente | — |
 | UpTheBlues | Will Apóllon Lemesoú win on 2026-08-11? | No (BUY) | 57% | 1.16 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 86% | 0.39 | ⏳ pendiente | — |
 | UpTheBlues | Will Qairat FK win on 2026-08-11? | No (BUY) | 64% | 0.52 | ⏳ pendiente | — |
@@ -382,4 +383,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will FK Bodø/Glimt vs. RU Saint-Gilloise | Yes (BUY) | 21% | 0.36 | ⏳ pendiente | — |
 | UpTheBlues | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 38% | 1.66 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: CA Boca | Under (BUY) | 57% | 0.84 | ⏳ pendiente | — |
-| UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 55% | 0.40 | ⏳ pendiente | — |
