@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 12:27:57 (hora de Perú)
+Actualizado: 2026-08-11 12:30:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $351.41
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 14 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 15 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 54 | 37 | 94 | -3.44 USD |
+| swisstony | 54 | 37 | 98 | -3.44 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 154 | 103 | 77 | -8.78 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -390,6 +390,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.98 | ⏳ pendiente | — |
+| swisstony | Will SK Brann win on 2026-08-11? | Yes (BUY) | 54% | 0.35 | ⏳ pendiente | — |
+| swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 96% | 0.40 | ⏳ pendiente | — |
+| swisstony | SK Iberia 1999 vs. Larne FC: Larne FC O/ | Under (BUY) | 89% | 2.52 | ⏳ pendiente | — |
+| swisstony | Apóllon Lemesoú vs. SK Brann: Both Teams | Yes (BUY) | 71% | 0.49 | ⏳ pendiente | — |
 | swisstony | Will Larne FC win on 2026-08-11? | No (BUY) | 92% | 2.74 | ⏳ pendiente | — |
 | quavoo | Will NEC win on 2026-08-11? | Yes (BUY) | 40% | 0.64 | ⏳ pendiente | — |
 | UpTheBlues | Will Polokwane City win on 2026-08-11? | No (BUY) | 63% | 0.93 | ⏳ pendiente | — |
@@ -415,8 +420,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 59% | 0.43 | ⏳ pendiente | — |
 | swisstony | Spread: Al Jazira (UAE) (-1.5) | Al-Ittihad Club (BUY) | 100% | 0.00 | ⏳ pendiente | — |
 | swisstony | Al Jazira (UAE) vs. Al-Ittihad Club: O/U | Over (BUY) | 98% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will FK Kauno Žalgiris win on 2026-08-11 | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
