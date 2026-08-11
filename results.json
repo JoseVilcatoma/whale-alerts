@@ -921,5 +921,70 @@
     "usd": 11371.368600000002,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 34010,
+    "timestamp": 1786488815,
+    "username": "mikesports",
+    "wallet": "0x7d92fd69504bfd391162e1442cb784c0af408676",
+    "slug": "wnba-nyl-ind-2026-08-11",
+    "title": "New York Liberty vs. Indiana Fever",
+    "outcome": "Indiana Fever",
+    "side": "BUY",
+    "usd": 14249.999999999998,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 34011,
+    "timestamp": 1786488815,
+    "username": "winwin518168",
+    "wallet": "0x682005011dd19c1e986cb060ed6ab83845f21c19",
+    "slug": "wnba-nyl-ind-2026-08-11",
+    "title": "New York Liberty vs. Indiana Fever",
+    "outcome": "New York Liberty",
+    "side": "BUY",
+    "usd": 19999.999999,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 34013,
+    "timestamp": 1786488857,
+    "username": "HVAB",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-mensik-shelton-2026-08-11",
+    "title": "National Bank Open: Jakub Mensik vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 38831.6471,
+    "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 34014,
+    "timestamp": 1786488857,
+    "username": "HVAB",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-mensik-shelton-2026-08-11",
+    "title": "National Bank Open: Jakub Mensik vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 39101.0519,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 34015,
+    "timestamp": 1786488857,
+    "username": "HVAB",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-mensik-shelton-2026-08-11",
+    "title": "National Bank Open: Jakub Mensik vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 39245.6264,
+    "odds_at_bet": 87,
+    "status": "pending"
   }
 ]

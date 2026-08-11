@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 17:53:26 (hora de Perú)
+Actualizado: 2026-08-11 17:55:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **71**  ($1,813,646 en total)
+- Apuestas registradas: **76**  ($1,965,074 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 57
-- Apostadores distintos: 37
+- Pendientes: 62
+- Apostadores distintos: 40
 
 ### Balance
 
@@ -29,6 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 0 | 1 | 1 | ⚠️ 0% (1) | $193,162 | -$14,667 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 4 | — | $178,415 | — |
 | SDTrading | 0 | 0 | 6 | — | $121,629 | — |
+| HVAB | 0 | 0 | 3 | — | $117,178 | — |
 | AV23IUa | 0 | 0 | 2 | — | $104,685 | — |
 | theowalcott | 0 | 0 | 6 | — | $89,215 | — |
 | texaskid | 0 | 0 | 1 | — | $55,000 | — |
@@ -44,9 +45,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | dv-pm | 0 | 0 | 2 | — | $24,463 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 2 | 0 | 0 | ⚠️ 100% (2) | $21,062 | +$8,396 |
+| winwin518168 | 0 | 0 | 1 | — | $20,000 | — |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | 0 | 0 | 1 | — | $20,000 | — |
 | kibanachi | 0 | 0 | 1 | — | $16,446 | — |
 | monkeymashingkeyboard | 0 | 0 | 1 | — | $14,986 | — |
+| mikesports | 0 | 0 | 1 | — | $14,250 | — |
 | beachboy4 | 0 | 0 | 1 | — | $14,094 | — |
 | paquitomillonario | 0 | 0 | 1 | — | $12,390 | — |
 | spnir | 0 | 0 | 1 | — | $12,000 | — |
@@ -66,6 +69,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.16 (86¢) | $38,832 | — | ⏳ Pendiente |
+| HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.15 (87¢) | $39,101 | — | ⏳ Pendiente |
+| HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.15 (87¢) | $39,246 | — | ⏳ Pendiente |
+| mikesports | New York Liberty vs. Indiana Fever | Indiana Fever | 1.75 (57¢) | $14,250 | — | ⏳ Pendiente |
+| winwin518168 | New York Liberty vs. Indiana Fever | New York Liberty | 2.33 (43¢) | $20,000 | — | ⏳ Pendiente |
 | Mylifeisover | Pittsburgh Pirates vs. Miami Marlins | Miami Marlins | 1.85 (54¢) | $11,371 | — | ⏳ Pendiente |
 | Mylifeisover | Pittsburgh Pirates vs. Miami Marlins | Miami Marlins | 1.85 (54¢) | $24,112 | — | ⏳ Pendiente |
 | kibanachi | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.20 (83¢) | $16,446 | — | ⏳ Pendiente |
@@ -121,8 +129,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | GamerLegion | 2.13 (47¢) | $23,121 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Under 6.5 | 2.27 (44¢) | $11,951 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $18,143 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $11,022 | — | ⏳ Pendiente |
-| Weaseloftheweek | Dota 2: MOUZ vs Rune Eaters - Game 2 Winner | MOUZ | 1.52 (66¢) | $14,667 | -$14,667 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. New York Yankees: O/U 7.5 | Under 7.5 | 2.17 (46¢) | $15,263 | — | ⏳ Pendiente |
-| pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $27,284 | — | ⏳ Pendiente |
-| ThornyDevil | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | 1.67 (60¢) | $10,680 | +$7,120 | ✅ Ganada |
