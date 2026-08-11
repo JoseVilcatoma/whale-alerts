@@ -37,5 +37,18 @@
     "usd": 11672.458,
     "odds_at_bet": 78,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33209,
+    "timestamp": 1786431601,
+    "username": "ProudIsraeli",
+    "wallet": "0xb77b6ef359f02192fb077227499f9f853d4870a5",
+    "slug": "ethereum-up-or-down-august-11-2026-2am-et",
+    "title": "Ethereum Up or Down - August 11, 2AM ET",
+    "outcome": "Up",
+    "side": "BUY",
+    "usd": 10079.905,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
