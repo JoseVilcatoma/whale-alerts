@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:06:49 (hora de Perú)
+Actualizado: 2026-08-10 23:08:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $264.70
-**Retorno acumulado:** -73.53%
+**Bankroll actual:** $283.65
+**Retorno acumulado:** -71.64%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,9 +19,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 7 | +26.87 USD |
-| HomeRunHazard | 58 | 54 | 61 | +26.32 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
+| HomeRunHazard | 59 | 58 | 56 | +24.31 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
+| SDTrading | 2 | 5 | 1 | +17.41 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 3 | +7.96 USD |
@@ -30,7 +31,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| SDTrading | 0 | 5 | 3 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | SnakeBall | 4 | 3 | 3 | +0.00 USD |
@@ -40,19 +40,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 25 | 17 | 10 | -3.90 USD |
-| UpTheBlues | 143 | 95 | 22 | -6.24 USD |
+| UpTheBlues | 147 | 98 | 15 | -6.90 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 156 | 88 | 8 | -26.45 USD |
-| quavoo | 128 | 155 | 23 | -39.00 USD |
+| RN1 | 159 | 88 | 5 | -23.33 USD |
+| quavoo | 128 | 157 | 21 | -40.03 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 560 | 444 | 59 | -150.20 USD |
+| ferrariChampions2026 | 563 | 445 | 55 | -148.08 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -371,12 +371,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 92% | 0.42 | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 65% | 0.30 | ⏳ pendiente | — |
 | UpTheBlues | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 36% | 0.31 | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 38% | 1.10 | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 62% | 2.88 | ⏳ pendiente | — |
+| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 38% | 1.10 | ✅ ganada | +1.79 |
+| ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 62% | 2.88 | ❌ perdida | -2.88 |
 | HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 183.5 | Over (BUY) | 59% | 2.80 | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 55% | 1.66 | ⏳ pendiente | — |
-| RN1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 45% | 1.29 | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 45% | 1.47 | ⏳ pendiente | — |
+| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 55% | 1.66 | ❌ perdida | -1.66 |
+| RN1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 45% | 1.29 | ✅ ganada | +1.58 |
+| ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 45% | 1.47 | ✅ ganada | +1.80 |
 | HomeRunHazard | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 76% | 0.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 46% | 0.96 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Arizona Diamondbacks (-6.5) | Colorado Rockies (BUY) | 28% | 0.36 | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 264.69580587197095,
+  "bankroll": 283.6454947709119,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13425,6 +13425,121 @@
       "timestamp": 1786421073.3795624,
       "bankroll": 264.7,
       "event": "lost: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 8.5"
+    },
+    {
+      "timestamp": 1786421251.3969882,
+      "bankroll": 266.31,
+      "event": "won: SDTrading \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786421251.4971614,
+      "bankroll": 282.11,
+      "event": "won: SDTrading \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786421252.3126924,
+      "bankroll": 281.32,
+      "event": "lost: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 10.5"
+    },
+    {
+      "timestamp": 1786421252.4128697,
+      "bankroll": 281.14,
+      "event": "lost: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786421256.5882604,
+      "bankroll": 281.63,
+      "event": "won: UpTheBlues \u2014 Will CD Cuenca win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786421256.6884542,
+      "bankroll": 281.39,
+      "event": "lost: quavoo \u2014 Tampa Bay Rays vs. Athletics: O/U 10.5"
+    },
+    {
+      "timestamp": 1786421257.0531871,
+      "bankroll": 281.39,
+      "event": "won: RN1 \u2014 CD Cuenca vs. Manta FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786421258.1839468,
+      "bankroll": 281.39,
+      "event": "lost: UpTheBlues \u2014 Will Paysandu SC PA win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786421259.6453285,
+      "bankroll": 281.11,
+      "event": "lost: UpTheBlues \u2014 Will Paysandu SC PA win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786421259.7455628,
+      "bankroll": 282.64,
+      "event": "won: RN1 \u2014 Will Paysandu SC PA win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786421260.4423118,
+      "bankroll": 282.65,
+      "event": "won: UpTheBlues \u2014 Spread: CD Cuenca (-1.5)"
+    },
+    {
+      "timestamp": 1786421261.4533982,
+      "bankroll": 282.65,
+      "event": "won: UpTheBlues \u2014 Will CD Cuenca win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786421261.7539876,
+      "bankroll": 282.65,
+      "event": "won: UpTheBlues \u2014 Will CD Cuenca win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786421262.872892,
+      "bankroll": 281.86,
+      "event": "lost: quavoo \u2014 Tampa Bay Rays vs. Athletics: O/U 10.5"
+    },
+    {
+      "timestamp": 1786421263.214496,
+      "bankroll": 281.0,
+      "event": "lost: UpTheBlues \u2014 Will CD Cuenca vs. Manta FC end in a draw?"
+    },
+    {
+      "timestamp": 1786421267.9504628,
+      "bankroll": 282.67,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786421268.1508145,
+      "bankroll": 281.5,
+      "event": "lost: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786421271.4004138,
+      "bankroll": 283.02,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786421275.9848785,
+      "bankroll": 284.81,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786421276.0850384,
+      "bankroll": 286.39,
+      "event": "won: RN1 \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786421276.185237,
+      "bankroll": 284.73,
+      "event": "lost: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786421276.3855631,
+      "bankroll": 281.85,
+      "event": "lost: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786421276.485683,
+      "bankroll": 283.65,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
     }
   ]
 }
