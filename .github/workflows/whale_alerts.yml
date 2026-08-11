@@ -31,7 +31,7 @@ jobs:
       - name: Vigilar en vivo
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CANAL_ID }}
           MAX_DIAS_RESOLUCION: "2"
           PRECIO_MAX: "95"
           WHALE_THRESHOLD: "10000"
