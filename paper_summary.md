@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 14:36:46 (hora de Perú)
+Actualizado: 2026-08-11 14:38:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $337.00
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 26 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 24 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | dv-pm | 1 | 2 | 5 | -0.92 USD |
-| UpTheBlues | 170 | 111 | 80 | -0.95 USD |
+| UpTheBlues | 170 | 111 | 81 | -0.95 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -368,11 +368,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-hle1-dnf-2026-08-11 | BBQChickenisthebesttt, BrotherObama, Lakersfan111, ferrariChampions2026 |
 | lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
 | ucl-sf-agf-2026-08-11-agf | UpTheBlues, dv-pm, swisstony |
-| wnba-phx-la-2026-08-11-total-178pt5 | HomeRunHazard, UpTheBlues |
 | lol-hle1-dnf-2026-08-11-game3 | BrotherObama, lzh1 |
 | lol-nsea-dkc-2026-08-11-game2 | BBQChickenisthebesttt, lzh1 |
 | col-csk1-pao-2026-08-11-pao | UpTheBlues, swisstony |
-| mlb-chc-wsh-2026-08-11-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-0pt5 | quavoo, swisstony |
 | wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-1pt5 | RN1, UpTheBlues, swisstony |
@@ -407,6 +405,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 79% | 0.50 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | New York Liberty vs. Indiana Fever: O/U  | Under (BUY) | 47% | 0.94 | ⏳ pendiente | — |
 | UpTheBlues | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 97% | 0.81 | ⏳ pendiente | — |
 | UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 61% | 0.61 | ⏳ pendiente | — |
 | UpTheBlues | Will Olympique Lyonnais win on 2026-08-1 | No (BUY) | 27% | 0.36 | ⏳ pendiente | — |
@@ -435,5 +435,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 86% | 0.36 | ✅ ganada | +0.06 |
 | UpTheBlues | Apóllon Lemesoú vs. SK Brann: O/U 2.5 | Under (BUY) | 83% | 0.91 | ⏳ pendiente | — |
 | quavoo | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Yes (BUY) | 61% | 0.36 | ⏳ pendiente | — |
-| UpTheBlues | NK Celje vs. Ararat-Armenia FA: Both Tea | No (BUY) | 50% | 0.36 | ⏳ pendiente | — |
-| quavoo | Will Fenerbahçe SK win on 2026-08-11? | Yes (BUY) | 56% | 0.34 | ⏳ pendiente | — |
