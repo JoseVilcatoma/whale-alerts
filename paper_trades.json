@@ -70913,5 +70913,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786475089.8145306,
     "fills": 1
+  },
+  {
+    "timestamp": 1786475242,
+    "timestamp_added": 1786475243.3754475,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-cel1-aa-2026-08-11-total-4pt5",
+    "title": "NK Celje vs. Ararat-Armenia FA: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 434.32,
+    "whale_pct": 0.107,
+    "paper_stake_usd": 0.35,
+    "odds_at_bet": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786475243.3754606,
+    "fills": 1
   }
 ]
