@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 12:19:32 (hora de Perú)
+Actualizado: 2026-08-11 12:21:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $368.70
-**Retorno acumulado:** -63.13%
+**Bankroll actual:** $356.56
+**Retorno acumulado:** -64.34%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -36,23 +36,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| swisstony | 51 | 32 | 91 | -0.91 USD |
+| swisstony | 53 | 33 | 88 | -0.89 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 153 | 103 | 70 | -8.80 USD |
+| UpTheBlues | 154 | 103 | 71 | -8.78 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 167 | 93 | 6 | -19.47 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | BrotherObama | 7 | 3 | 2 | -24.77 USD |
 | quavoo | 143 | 173 | 19 | -30.91 USD |
+| RN1 | 167 | 98 | 1 | -31.76 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 613 | 463 | 2 | -104.52 USD |
+| ferrariChampions2026 | 614 | 463 | 1 | -104.41 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -385,6 +385,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Aarhus GF win on 2026-08-11? | No (BUY) | 96% | 2.05 | ⏳ pendiente | — |
+| UpTheBlues | Will Mjällby AIF win on 2026-08-11? | No (BUY) | 79% | 1.38 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 70% | 0.83 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Over (BUY) | 31% | 0.46 | ⏳ pendiente | — |
 | swisstony | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 59% | 0.43 | ⏳ pendiente | — |
@@ -413,5 +415,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Apóllon Lemesoú win on 2026-08-11? | No (BUY) | 56% | 0.92 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 79% | 1.07 | ⏳ pendiente | — |
 | swisstony | Will Larne FC win on 2026-08-11? | No (BUY) | 85% | 2.68 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 78% | 1.06 | ⏳ pendiente | — |
-| swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 52% | 1.44 | ⏳ pendiente | — |
