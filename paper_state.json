@@ -1,5 +1,5 @@
 {
-  "bankroll": 315.49859434397854,
+  "bankroll": 315.5082753110836,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13925,6 +13925,56 @@
       "timestamp": 1786423131.6824818,
       "bankroll": 315.5,
       "event": "won: swisstony \u2014 Houston Astros vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1786423239.1252398,
+      "bankroll": 314.76,
+      "event": "lost: HomeRunHazard \u2014 Chicago Sky vs. Seattle Storm: O/U 177.5"
+    },
+    {
+      "timestamp": 1786423240.6275625,
+      "bankroll": 315.13,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm: O/U 177.5"
+    },
+    {
+      "timestamp": 1786423241.1283236,
+      "bankroll": 315.5,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Seattle Storm: O/U 177.5"
+    },
+    {
+      "timestamp": 1786423303.9118848,
+      "bankroll": 314.7,
+      "event": "lost: RN1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1786423304.654572,
+      "bankroll": 314.28,
+      "event": "lost: swisstony \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1786423307.6875849,
+      "bankroll": 315.82,
+      "event": "won: HomeRunHazard \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 11.5"
+    },
+    {
+      "timestamp": 1786423307.787771,
+      "bankroll": 313.99,
+      "event": "lost: ferrariChampions2026 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 11.5"
+    },
+    {
+      "timestamp": 1786423308.1883342,
+      "bankroll": 314.22,
+      "event": "won: HomeRunHazard \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 11.5"
+    },
+    {
+      "timestamp": 1786423310.4372213,
+      "bankroll": 315.35,
+      "event": "won: ferrariChampions2026 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1786423310.737619,
+      "bankroll": 315.51,
+      "event": "won: RN1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5"
     }
   ]
 }

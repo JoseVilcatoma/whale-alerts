@@ -58388,8 +58388,8 @@
     "whale_pct": 0.32,
     "paper_stake_usd": 0.8,
     "odds_at_bet": 67,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.8,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786413908.9734068,
@@ -58591,8 +58591,8 @@
     "whale_pct": 0.299,
     "paper_stake_usd": 0.74,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.74,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786414203.7796617,
@@ -58737,8 +58737,8 @@
     "whale_pct": 0.167,
     "paper_stake_usd": 0.42,
     "odds_at_bet": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.42,
     "overlaps_with": [
       "RN1"
     ],
@@ -59470,8 +59470,8 @@
     "whale_pct": 0.119,
     "paper_stake_usd": 0.3,
     "odds_at_bet": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.37,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -59786,8 +59786,8 @@
     "whale_pct": 0.166,
     "paper_stake_usd": 0.42,
     "odds_at_bet": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.37,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -60040,8 +60040,8 @@
     "whale_pct": 0.681,
     "paper_stake_usd": 1.74,
     "odds_at_bet": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.54,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786417391.608962,
@@ -60060,8 +60060,8 @@
     "whale_pct": 0.717,
     "paper_stake_usd": 1.83,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.83,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -60229,8 +60229,8 @@
     "whale_pct": 0.15,
     "paper_stake_usd": 0.39,
     "odds_at_bet": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.23,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -60772,8 +60772,8 @@
     "whale_pct": 0.374,
     "paper_stake_usd": 0.96,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.13,
     "overlaps_with": [
       "RN1",
       "swisstony"
@@ -60976,8 +60976,8 @@
     "whale_pct": 0.118,
     "paper_stake_usd": 0.3,
     "odds_at_bet": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.16,
     "overlaps_with": [
       "ferrariChampions2026",
       "swisstony"
@@ -61856,6 +61856,46 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786422605.9190092,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786423240,
+    "timestamp_added": 1786423240.88853,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-tal-lan-2026-08-11-btts",
+    "title": "CA Talleres vs. CA Lan\u00fas: Both Teams to Score",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 93.89,
+    "whale_pct": 0.159,
+    "paper_stake_usd": 0.5,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786423240.8885388,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786423245,
+    "timestamp_added": 1786423246.1003582,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "auc-lf-mct-2026-08-11-lf",
+    "title": "Will Lions FC win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 166.86,
+    "whale_pct": 0.283,
+    "paper_stake_usd": 0.89,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786423246.1003656,
     "fills": 1
   }
 ]
