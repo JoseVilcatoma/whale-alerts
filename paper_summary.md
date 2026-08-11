@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 02:58:53 (hora de Perú)
+Actualizado: 2026-08-11 03:00:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | dv-pm | 0 | 0 | 1 | +0.00 USD |
-| Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 8 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -354,6 +354,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: Hanwha Life Esports vs DN SOOPers - | DN SOOPers (BUY) | 30% | 4.76 | ⏳ pendiente | — |
+| Lakersfan111 | LoL: Hanwha Life Esports vs DN SOOPers - | DN SOOPers (BUY) | 30% | 8.14 | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Hanwha Life Esports vs DN SOOPers ( | Hanwha Life Esports (BUY) | 80% | 5.25 | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Hanwha Life Esports vs DN SOOPers ( | Hanwha Life Esports (BUY) | 80% | 13.41 | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 45% | 1.35 | ⏳ pendiente | — |
@@ -382,5 +384,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will FK Bodø/Glimt vs. RU Saint-Gilloise | Yes (BUY) | 21% | 3.45 | ⏳ pendiente | — |
 | quavoo | Will Melbourne City FC win on 2026-08-11 | Yes (BUY) | 60% | 0.33 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 55% | 0.55 | ⏳ pendiente | — |
-| UpTheBlues | Will Recoleta FC win on 2026-08-11? | No (BUY) | 94% | 3.34 | ⏳ pendiente | — |
-| UpTheBlues | CA Boca Juniors vs. Recoleta FC: CA Boca | Under (BUY) | 57% | 0.42 | ⏳ pendiente | — |
