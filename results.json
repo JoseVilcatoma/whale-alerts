@@ -830,5 +830,31 @@
     "usd": 10087.506933,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33978,
+    "timestamp": 1786488163,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sea-nyy-2026-08-11-total-7pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 16946.58,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33979,
+    "timestamp": 1786488163,
+    "username": "dv-pm",
+    "wallet": "0x56acab44cfca2e88bb9b3406890aea7bfa0cd77e",
+    "slug": "mlb-sea-nyy-2026-08-11-total-7pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 13315.17,
+    "odds_at_bet": 44,
+    "status": "pending"
   }
 ]
