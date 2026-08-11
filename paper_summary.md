@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 03:03:01 (hora de Perú)
+Actualizado: 2026-08-11 03:05:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| dv-pm | 0 | 0 | 1 | +0.00 USD |
+| dv-pm | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 8 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
@@ -354,6 +354,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| dv-pm | Will Aarhus GF win on 2026-08-11? | No (BUY) | 75% | 0.67 | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Hanwha Life Esports vs DN SOOPers - | DN SOOPers (BUY) | 30% | 4.76 | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Hanwha Life Esports vs DN SOOPers - | DN SOOPers (BUY) | 30% | 8.14 | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Hanwha Life Esports vs DN SOOPers ( | Hanwha Life Esports (BUY) | 80% | 5.25 | ⏳ pendiente | — |
@@ -383,4 +384,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 38% | 2.31 | ⏳ pendiente | — |
 | UpTheBlues | Will FK Bodø/Glimt vs. RU Saint-Gilloise | Yes (BUY) | 21% | 3.45 | ⏳ pendiente | — |
 | quavoo | Will Melbourne City FC win on 2026-08-11 | Yes (BUY) | 60% | 0.33 | ⏳ pendiente | — |
-| UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 55% | 0.55 | ⏳ pendiente | — |
