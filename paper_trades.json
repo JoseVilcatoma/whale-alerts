@@ -73119,5 +73119,47 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786485362.4867475,
     "fills": 1
+  },
+  {
+    "timestamp": 1786485515,
+    "timestamp_added": 1786485515.5967257,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-flu-cir-2026-08-11-total-1pt5",
+    "title": "Fluminense FC vs. CS Independiente Rivadavia: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 930.0,
+    "whale_pct": 0.581,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786485515.596732,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786485528,
+    "timestamp_added": 1786485528.8397753,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-tb-oak-2026-08-11-spread-away-1pt5",
+    "title": "Spread: Tampa Bay Rays (-1.5)",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "whale_usd": 921.96,
+    "whale_pct": 0.192,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786485528.839783,
+    "fills": 1
   }
 ]

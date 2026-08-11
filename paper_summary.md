@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 16:57:19 (hora de Perú)
+Actualizado: 2026-08-11 16:59:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $350.46
@@ -46,8 +46,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 118 | 95 | 16 | -29.60 USD |
-| RN1 | 173 | 99 | 5 | -33.33 USD |
-| quavoo | 151 | 181 | 15 | -33.43 USD |
+| RN1 | 173 | 99 | 6 | -33.33 USD |
+| quavoo | 151 | 181 | 16 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 3 | -82.84 USD |
@@ -413,11 +413,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sud-boc-rec1-2026-08-11-spread-home-1pt5 | RN1, UpTheBlues, theowalcott |
 | sud-boc-rec1-2026-08-11-draw | UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
+| lib-flu-cir-2026-08-11-total-1pt5 | RN1, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 52% | 0.00 | ⏳ pendiente | — |
+| RN1 | Fluminense FC vs. CS Independiente Rivad | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will CA Boca Juniors vs. Recoleta FC end | No (BUY) | 89% | 0.00 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Yes (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 84% | 0.00 | ⏳ pendiente | — |
@@ -446,5 +449,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Paris Saint-Germain vs. Aston Villa | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 25% | 0.00 | ⏳ pendiente | — |
