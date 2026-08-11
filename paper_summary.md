@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 13:59:33 (hora de Perú)
+Actualizado: 2026-08-11 14:01:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $332.99
-**Retorno acumulado:** -66.70%
+**Bankroll actual:** $323.63
+**Retorno acumulado:** -67.64%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -41,12 +41,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 160 | 104 | 91 | -8.59 USD |
+| UpTheBlues | 162 | 109 | 87 | -13.72 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 71 | 67 | 76 | -20.79 USD |
+| swisstony | 73 | 73 | 73 | -24.64 USD |
 | BrotherObama | 7 | 3 | 2 | -24.77 USD |
-| quavoo | 143 | 174 | 24 | -31.25 USD |
+| quavoo | 145 | 177 | 19 | -31.62 USD |
 | RN1 | 167 | 99 | 0 | -34.36 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -394,14 +394,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-kau-din-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | ucl-kau-din-2026-08-11-total-4pt5 | UpTheBlues, swisstony |
 | ucl-sba-mja-2026-08-11-total-1pt5 | UpTheBlues, swisstony |
+| ucl-stu1-fen-2026-08-11-btts | quavoo, swisstony |
 | ucl-crv-hbs-2026-08-11-btts | UpTheBlues, swisstony |
 | ucl-stu1-fen-2026-08-11-fen | quavoo, swisstony |
 | ucl-crv-hbs-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
+| ucl-lyo-spp-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 40% | 0.38 | ⏳ pendiente | — |
+| UpTheBlues | Will Deportivo Pereira win on 2026-08-10 | No (BUY) | 88% | 1.39 | ⏳ pendiente | — |
+| swisstony | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 40% | 0.35 | ⏳ pendiente | — |
+| UpTheBlues | NEC vs. Olympiakós SFP: O/U 4.5 | Under (BUY) | 97% | 0.47 | ⏳ pendiente | — |
+| UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 40% | 1.33 | ⏳ pendiente | — |
+| swisstony | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 41% | 0.40 | ⏳ pendiente | — |
+| swisstony | Will NEC vs. Olympiakós SFP end in a dra | Yes (BUY) | 56% | 0.54 | ⏳ pendiente | — |
+| swisstony | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Yes (BUY) | 47% | 0.36 | ⏳ pendiente | — |
 | UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 78% | 0.59 | ⏳ pendiente | — |
 | swisstony | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 52% | 0.40 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Under (BUY) | 60% | 3.51 | ⏳ pendiente | — |
@@ -424,11 +434,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Fenerbahçe SK (BUY) | 94% | 1.16 | ⏳ pendiente | — |
 | UpTheBlues | Will NEC win on 2026-08-11? | No (BUY) | 67% | 0.40 | ⏳ pendiente | — |
 | UpTheBlues | Apóllon Lemesoú vs. SK Brann: O/U 2.5 | Under (BUY) | 76% | 0.46 | ⏳ pendiente | — |
-| UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | No (BUY) | 52% | 0.35 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 1.58 | ⏳ pendiente | — |
-| UpTheBlues | Spread: GNK Dinamo Zagreb (-2.5) | FK Kauno Žalgiris (BUY) | 97% | 0.45 | ⏳ pendiente | — |
-| quavoo | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Yes (BUY) | 61% | 0.51 | ⏳ pendiente | — |
-| UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Over (BUY) | 97% | 0.68 | ⏳ pendiente | — |
-| UpTheBlues | Spread: FK Crvena zvezda (-1.5) | MH Hapoel Be'er Sheva (BUY) | 55% | 0.56 | ⏳ pendiente | — |
-| UpTheBlues | NEC vs. Olympiakós SFP: O/U 3.5 | Under (BUY) | 93% | 1.65 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.48 | ⏳ pendiente | — |
