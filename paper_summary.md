@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 14:50:45 (hora de Perú)
+Actualizado: 2026-08-11 14:52:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $337.00
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 26 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 27 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 82 | 74 | 63 | -23.59 USD |
-| BrotherObama | 7 | 3 | 2 | -24.77 USD |
+| BrotherObama | 7 | 3 | 4 | -24.77 USD |
 | quavoo | 145 | 177 | 19 | -31.62 USD |
 | RN1 | 167 | 99 | 0 | -34.36 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -407,6 +407,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Fenerbahçe SK (-1.5) | SK Puntigamer Sturm Graz (BUY) | 91% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
@@ -434,6 +437,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Yes (BUY) | 47% | 0.36 | ⏳ pendiente | — |
 | UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 78% | 0.59 | ⏳ pendiente | — |
 | swisstony | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 52% | 0.40 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | O/U 1.5 Rounds | Under (BUY) | 60% | 3.51 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Dana White's Contender Series: Joe Krops | Jon Kunneman (BUY) | 60% | 6.87 | ⏳ pendiente | — |
-| swisstony | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 46% | 0.37 | ⏳ pendiente | — |
