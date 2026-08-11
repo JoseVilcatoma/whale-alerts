@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 15:46:49 (hora de Perú)
+Actualizado: 2026-08-11 15:48:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $347.59
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | wr0ngw4yb3tt0r | 52 | 48 | 29 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| theowalcott | 7 | 4 | 3 | +25.74 USD |
+| theowalcott | 7 | 4 | 4 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 2 | 6 | 2 | +17.41 USD |
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| UpTheBlues | 205 | 128 | 56 | -0.86 USD |
+| UpTheBlues | 205 | 128 | 57 | -0.86 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 4 | 11 | 3 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 614 | 463 | 1 | -104.41 USD |
-| BrotherObama | 7 | 5 | 5 | -112.72 USD |
+| BrotherObama | 7 | 5 | 6 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -412,6 +412,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: CA Boca Juniors (-1.5) | Recoleta FC (BUY) | 38% | 0.00 | ⏳ pendiente | — |
+| BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: CA Boca | Over (BUY) | 71% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 0.5 | Over (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Under (BUY) | 40% | 0.00 | ⏳ pendiente | — |
@@ -439,6 +442,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | New York Mets vs. Atlanta Braves: O/U 8. | Over (BUY) | 50% | 0.40 | ⏳ pendiente | — |
 | BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 26% | 1.46 | ⏳ pendiente | — |
 | RN1 | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 94% | 0.62 | ⏳ pendiente | — |
-| RN1 | Will Olympique Lyonnais vs. AC Sparta Pr | No (BUY) | 99% | 2.48 | ⏳ pendiente | — |
-| UpTheBlues | Will Fenerbahçe SK win on 2026-08-11? | Yes (BUY) | 96% | 0.57 | ✅ ganada | +0.02 |
-| UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 61% | 0.71 | ⏳ pendiente | — |
