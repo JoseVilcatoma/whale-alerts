@@ -63988,5 +63988,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786442450.6310117,
     "fills": 4
+  },
+  {
+    "timestamp": 1786442485,
+    "timestamp_added": 1786442486.199962,
+    "username": "lzh1",
+    "wallet": "0x282f81747948a90105d944b5a5a2043825d67c4e",
+    "slug": "lol-hle1-dnf-2026-08-11-game2",
+    "title": "LoL: Hanwha Life Esports vs DN SOOPers - Game 2 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 1017.4825,
+    "whale_pct": 7.902,
+    "paper_stake_usd": 26.99,
+    "odds_at_bet": 25,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786442486.1999705,
+    "fills": 1
   }
 ]
