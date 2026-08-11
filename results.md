@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 13:12:38 (hora de Perú)
+Actualizado: 2026-08-11 13:17:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **20**  ($308,391 en total)
+- Apuestas registradas: **18**  ($286,510 en total)
 - Resueltas: **13** — 9 ganadas / 4 perdidas (**69%** de acierto)
-- Pendientes: 7
-- Apostadores distintos: 16
+- Pendientes: 5
+- Apostadores distintos: 14
 
 ### Balance
 
@@ -32,20 +32,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 2 | 0 | 0 | ⚠️ 100% (2) | $21,062 | +$8,396 |
 | Lakersfan111 | 1 | 0 | 0 | ⚠️ 100% (1) | $17,024 | +$9,167 |
 | Weaseloftheweek | 0 | 1 | 0 | ⚠️ 0% (1) | $14,667 | -$14,667 |
-| scottilicious | 0 | 0 | 1 | — | $11,672 | — |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 1 | 0 | 0 | ⚠️ 100% (1) | $11,063 | +$3,120 |
 | 0x076d…8d4c | 1 | 0 | 0 | ⚠️ 100% (1) | $11,037 | +$1,092 |
 | mpyh | 1 | 0 | 0 | ⚠️ 100% (1) | $10,968 | +$3,656 |
 | ThornyDevil | 1 | 0 | 0 | ⚠️ 100% (1) | $10,680 | +$7,120 |
 | 999999666544332578855667788 | 1 | 0 | 0 | ⚠️ 100% (1) | $10,640 | +$3,360 |
 | backback | 1 | 0 | 0 | ⚠️ 100% (1) | $10,473 | +$911 |
-| lava-lava | 0 | 0 | 1 | — | $10,208 | — |
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| lava-lava | Will the Democrats win the Texas Senate race in 2026? | Yes | 2.00 (50¢) | $10,208 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Under 6.5 | 2.27 (44¢) | $11,951 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $18,143 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $11,022 | — | ⏳ Pendiente |
@@ -64,4 +61,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | Hanwha Life Esports | 1.41 (71¢) | $17,114 | -$17,114 | ❌ Perdida |
 | retroactivesource | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | Hanwha Life Esports | 1.23 (81¢) | $54,960 | -$54,960 | ❌ Perdida |
 | TAIWANNUMBERONE | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | Hanwha Life Esports | 1.25 (80¢) | $13,159 | -$13,159 | ❌ Perdida |
-| scottilicious | Will Ralph Norman be the new Republican nominee for Senate in South Carolina? | No | 1.28 (78¢) | $11,672 | — | ⏳ Pendiente |
