@@ -1,5 +1,5 @@
 {
-  "bankroll": 249.70812913134637,
+  "bankroll": 251.37055337377063,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13005,6 +13005,91 @@
       "timestamp": 1786415441.3407173,
       "bankroll": 249.71,
       "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786415614.1424303,
+      "bankroll": 250.92,
+      "event": "won: Forecastication2 \u2014 CA Uni\u00f3n vs. CA Central C\u00f3rdoba: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786415617.2295322,
+      "bankroll": 250.92,
+      "event": "won: GoalLineGhost \u2014 CA Uni\u00f3n vs. CA Central C\u00f3rdoba: O/U 5.5"
+    },
+    {
+      "timestamp": 1786415620.2752368,
+      "bankroll": 250.92,
+      "event": "lost: GoalLineGhost \u2014 Spread: CA Uni\u00f3n (-1.5)"
+    },
+    {
+      "timestamp": 1786415629.8128495,
+      "bankroll": 250.91,
+      "event": "lost: UpTheBlues \u2014 Will CA Uni\u00f3n win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786415630.5687242,
+      "bankroll": 250.62,
+      "event": "lost: UpTheBlues \u2014 Will CA Uni\u00f3n vs. CA Central C\u00f3rdoba end in a draw?"
+    },
+    {
+      "timestamp": 1786415632.7674406,
+      "bankroll": 250.62,
+      "event": "won: UpTheBlues \u2014 Spread: CA Uni\u00f3n (-1.5)"
+    },
+    {
+      "timestamp": 1786415634.6447382,
+      "bankroll": 250.62,
+      "event": "lost: UpTheBlues \u2014 CA Uni\u00f3n vs. CA Central C\u00f3rdoba: O/U 1.5"
+    },
+    {
+      "timestamp": 1786415634.744954,
+      "bankroll": 250.62,
+      "event": "lost: UpTheBlues \u2014 Will CA Uni\u00f3n vs. CA Central C\u00f3rdoba end in a draw?"
+    },
+    {
+      "timestamp": 1786415634.9452965,
+      "bankroll": 250.36,
+      "event": "lost: UpTheBlues \u2014 Will CA Uni\u00f3n vs. CA Central C\u00f3rdoba end in a draw?"
+    },
+    {
+      "timestamp": 1786415635.0454679,
+      "bankroll": 250.09,
+      "event": "lost: UpTheBlues \u2014 Will CA Uni\u00f3n vs. CA Central C\u00f3rdoba end in a draw?"
+    },
+    {
+      "timestamp": 1786415637.1082518,
+      "bankroll": 250.74,
+      "event": "won: UpTheBlues \u2014 Will CA Uni\u00f3n win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786415640.2979727,
+      "bankroll": 250.74,
+      "event": "won: UpTheBlues \u2014 Will CA Uni\u00f3n win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786415640.3982031,
+      "bankroll": 250.74,
+      "event": "lost: UpTheBlues \u2014 Will CA Uni\u00f3n win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786415640.7989383,
+      "bankroll": 250.74,
+      "event": "won: UpTheBlues \u2014 Will CA Uni\u00f3n win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786415640.8991537,
+      "bankroll": 250.74,
+      "event": "lost: UpTheBlues \u2014 Will CA Uni\u00f3n win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786415641.4650352,
+      "bankroll": 250.96,
+      "event": "won: UpTheBlues \u2014 Spread: CA Uni\u00f3n (-1.5)"
+    },
+    {
+      "timestamp": 1786415641.565173,
+      "bankroll": 251.37,
+      "event": "won: UpTheBlues \u2014 Will CA Uni\u00f3n win on 2026-08-10?"
     }
   ]
 }

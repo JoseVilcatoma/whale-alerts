@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 21:33:09 (hora de Perú)
+Actualizado: 2026-08-10 21:35:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $249.71
-**Retorno acumulado:** -75.03%
+**Bankroll actual:** $251.37
+**Retorno acumulado:** -74.86%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
-| HomeRunHazard | 50 | 48 | 42 | +21.23 USD |
+| HomeRunHazard | 50 | 48 | 44 | +21.23 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
@@ -41,18 +41,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 25 | 17 | 4 | -3.90 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 131 | 86 | 41 | -7.73 USD |
-| Forecastication2 | 3 | 20 | 8 | -9.29 USD |
+| UpTheBlues | 137 | 94 | 27 | -7.28 USD |
+| Forecastication2 | 4 | 20 | 7 | -8.08 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 152 | 85 | 11 | -34.38 USD |
 | quavoo | 126 | 155 | 25 | -40.10 USD |
-| GoalLineGhost | 36 | 25 | 2 | -59.25 USD |
+| GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 543 | 437 | 38 | -150.96 USD |
+| ferrariChampions2026 | 543 | 437 | 40 | -150.96 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -300,7 +300,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-gen-dnf-2026-08-10 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, BrotherObama, ferrariChampions2026, lzh1 |
 | lol-gen-dnf-2026-08-10-game1 | BrotherObama, ferrariChampions2026 |
 | swe-sir-bro-2026-08-10-total-4pt5 | GoalLineGhost, RN1 |
-| mlb-tb-oak-2026-08-10-total-9pt5 | HomeRunHazard, SDTrading |
+| mlb-tb-oak-2026-08-10-total-9pt5 | HomeRunHazard, SDTrading, ferrariChampions2026 |
 | lol-gen-dnf-2026-08-10-game2 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, ferrariChampions2026 |
 | mlb-kc-lad-2026-08-10-total-7pt5 | Bulls94, HomeRunHazard, ferrariChampions2026, quavoo |
 | mlb-nym-atl-2026-08-10-spread-home-1pt5 | ferrariChampions2026, quavoo |
@@ -334,6 +334,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 47% | 1.17 | ⏳ pendiente | — |
+| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 11.5 | Under (BUY) | 67% | 1.69 | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 53% | 1.89 | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 11.5 | Over (BUY) | 33% | 1.01 | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 58% | 0.26 | ⏳ pendiente | — |
 | UpTheBlues | Will FK Crvena zvezda win on 2026-08-11? | Yes (BUY) | 78% | 0.45 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | St. Louis Cardinals (BUY) | 86% | 0.32 | ⏳ pendiente | — |
@@ -360,7 +364,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 87% | 2.44 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 55% | 0.45 | ⏳ pendiente | — |
 | UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 92% | 1.24 | ⏳ pendiente | — |
-| RN1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 52% | 0.68 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: New York Mets (-2.5) | New York Mets (BUY) | 77% | 2.09 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: New York Mets (-3.5) | New York Mets (BUY) | 12% | 0.62 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 177.5 | Under (BUY) | 48% | 0.74 | ⏳ pendiente | — |
