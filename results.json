@@ -89,5 +89,18 @@
     "usd": 17113.7974,
     "odds_at_bet": 71,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33233,
+    "timestamp": 1786434398,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-hle1-dnf-2026-08-11-game-handicap-away-2pt5",
+    "title": "Game Handicap: HLE (-2.5) vs DN SOOPers (+2.5)",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 17023.9954,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]
