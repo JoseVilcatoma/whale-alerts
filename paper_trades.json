@@ -76266,5 +76266,71 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786490340.0997882,
     "fills": 1
+  },
+  {
+    "timestamp": 1786490401,
+    "timestamp_added": 1786490401.4241636,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-chc-wsh-2026-08-11-spread-home-1pt5",
+    "title": "Spread: Washington Nationals (-1.5)",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "whale_usd": 170.42999899999998,
+    "whale_pct": 0.101,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786490401.4241743,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786490429,
+    "timestamp_added": 1786490429.301179,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "lib-flu-cir-2026-08-11-total-0pt5",
+    "title": "Fluminense FC vs. CS Independiente Rivadavia: O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 427.539,
+    "whale_pct": 0.254,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786490438.2386477,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786490462,
+    "timestamp_added": 1786490462.7714715,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lib-flu-cir-2026-08-11-cir",
+    "title": "Will CS Independiente Rivadavia win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1554.7248,
+    "whale_pct": 0.355,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "UpTheBlues",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786490462.7714794,
+    "fills": 1
   }
 ]
