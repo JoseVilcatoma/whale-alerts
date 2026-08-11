@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 12:15:14 (hora de Perú)
+Actualizado: 2026-08-11 12:17:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $364.42
-**Retorno acumulado:** -63.56%
+**Bankroll actual:** $364.28
+**Retorno acumulado:** -63.57%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -39,15 +39,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
+| swisstony | 44 | 28 | 100 | -2.91 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 107 | -4.23 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 101 | 74 | -8.33 USD |
+| UpTheBlues | 153 | 103 | 70 | -8.80 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| RN1 | 163 | 90 | 13 | -20.90 USD |
+| RN1 | 164 | 92 | 10 | -21.89 USD |
 | BrotherObama | 7 | 3 | 2 | -24.77 USD |
-| quavoo | 142 | 173 | 20 | -30.91 USD |
+| quavoo | 143 | 173 | 19 | -30.91 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -385,6 +385,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 59% | 0.43 | ⏳ pendiente | — |
+| swisstony | Spread: Al Jazira (UAE) (-1.5) | Al-Ittihad Club (BUY) | 100% | 0.00 | ⏳ pendiente | — |
+| swisstony | Al Jazira (UAE) vs. Al-Ittihad Club: O/U | Over (BUY) | 98% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will FK Kauno Žalgiris win on 2026-08-11 | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
@@ -410,8 +415,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 52% | 1.44 | ⏳ pendiente | — |
 | UpTheBlues | Will Recoleta FC win on 2026-08-11? | No (BUY) | 94% | 0.38 | ⏳ pendiente | — |
 | swisstony | Apóllon Lemesoú vs. SK Brann: O/U 3.5 | Under (BUY) | 70% | 0.60 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 51% | 0.43 | ⏳ pendiente | — |
-| quavoo | NEC vs. Olympiakós SFP: O/U 2.5 | Over (BUY) | 54% | 1.38 | ⏳ pendiente | — |
-| swisstony | Will RU Saint-Gilloise win on 2026-08-11 | No (BUY) | 78% | 1.80 | ⏳ pendiente | — |
-| swisstony | SK Iberia 1999 vs. Larne FC: O/U 0.5 | Under (BUY) | 31% | 0.56 | ⏳ pendiente | — |
-| swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 60% | 0.78 | ⏳ pendiente | — |
