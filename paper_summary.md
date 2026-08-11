@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 07:58:46 (hora de Perú)
+Actualizado: 2026-08-11 08:02:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $334.96
-**Retorno acumulado:** -66.50%
+**Bankroll actual:** $335.77
+**Retorno acumulado:** -66.42%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -51,7 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 606 | 460 | 10 | -105.60 USD |
+| ferrariChampions2026 | 609 | 463 | 4 | -104.78 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -383,9 +383,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | LoL: Hanwha Life Esports vs DN SOOPers - | Hanwha Life Esports (BUY) | 24% | 37.10 | 💰 vendida anticipada | -32.46 |
 | lzh1 | LoL: Hanwha Life Esports vs DN SOOPers - | Hanwha Life Esports (BUY) | 23% | 5.37 | ⏳ pendiente | — |
 | BrotherObama | LoL: Hanwha Life Esports vs DN SOOPers - | Hanwha Life Esports (BUY) | 23% | 63.94 | 💰 vendida anticipada | -55.60 |
-| ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Natus Vincere (BUY) | 54% | 1.03 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Level UP (BUY) | 39% | 0.75 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Natus Vincere (BUY) | 46% | 0.92 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Natus Vincere (BUY) | 39% | 0.42 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Level UP (BUY) | 54% | 0.43 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Level UP (BUY) | 44% | 0.62 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Natus Vincere (BUY) | 54% | 1.03 | ✅ ganada | +0.88 |
+| ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Level UP (BUY) | 39% | 0.75 | ❌ perdida | -0.75 |
+| ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Natus Vincere (BUY) | 46% | 0.92 | ✅ ganada | +1.08 |
+| ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Natus Vincere (BUY) | 39% | 0.42 | ✅ ganada | +0.66 |
+| ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Level UP (BUY) | 54% | 0.43 | ❌ perdida | -0.43 |
+| ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Level UP (BUY) | 44% | 0.62 | ❌ perdida | -0.62 |

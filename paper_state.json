@@ -1,5 +1,5 @@
 {
-  "bankroll": 334.95966628020176,
+  "bankroll": 335.7739967645322,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14570,6 +14570,36 @@
       "timestamp": 1786450117.990982,
       "bankroll": 334.96,
       "event": "lost: BBQChickenisthebesttt \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786453347.2674255,
+      "bankroll": 334.34,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Level UP vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786453347.3676114,
+      "bankroll": 333.91,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Level UP vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786453347.4677806,
+      "bankroll": 334.57,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Level UP vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786453347.5679557,
+      "bankroll": 335.65,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Level UP vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786453347.6681376,
+      "bankroll": 334.9,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Level UP vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786453347.7683172,
+      "bankroll": 335.77,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Level UP vs Natus Vincere - Game 2 Winner"
     }
   ]
 }
