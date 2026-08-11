@@ -1155,5 +1155,18 @@
     "usd": 12119.4864,
     "odds_at_bet": 56,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 34099,
+    "timestamp": 1786490879,
+    "username": "jarosbill",
+    "wallet": "0x927cf2bb94d15707993f954552e56c74eb6d6633",
+    "slug": "atp-halys-kwon-2026-08-11",
+    "title": "Cincinnati Open, Qualification: Quentin Halys vs Soon-Woo Kwon",
+    "outcome": "Soon-Woo Kwon",
+    "side": "BUY",
+    "usd": 10717.7305,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
