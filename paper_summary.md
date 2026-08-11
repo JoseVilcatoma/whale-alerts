@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 16:59:25 (hora de Perú)
+Actualizado: 2026-08-11 17:01:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $350.46
@@ -45,8 +45,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 118 | 95 | 16 | -29.60 USD |
-| RN1 | 173 | 99 | 6 | -33.33 USD |
+| swisstony | 118 | 95 | 20 | -29.60 USD |
+| RN1 | 173 | 99 | 8 | -33.33 USD |
 | quavoo | 151 | 181 | 16 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -411,6 +411,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cle-det-2026-08-11-total-8pt5 | Talvez10, quavoo |
 | mlb-sea-nyy-2026-08-11-total-7pt5 | SDTrading, wr0ngw4yb3tt0r |
 | sud-boc-rec1-2026-08-11-spread-home-1pt5 | RN1, UpTheBlues, theowalcott |
+| sud-boc-rec1-2026-08-11-boc | RN1, UpTheBlues |
 | sud-boc-rec1-2026-08-11-draw | UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-total-1pt5 | RN1, UpTheBlues |
@@ -419,6 +420,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 74% | 0.00 | ⏳ pendiente | — |
+| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 74% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will CR Brasil win on 2026-08-11? | No (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will Fluminense FC vs. CS Independiente  | Yes (BUY) | 27% | 0.00 | ⏳ pendiente | — |
+| swisstony | Spread: Recoleta FC (-1.5) | CA Boca Juniors (BUY) | 98% | 0.00 | ⏳ pendiente | — |
+| RN1 | Will CA Boca Juniors win on 2026-08-11? | Yes (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | RN1 | Fluminense FC vs. CS Independiente Rivad | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will CA Boca Juniors vs. Recoleta FC end | No (BUY) | 89% | 0.00 | ⏳ pendiente | — |
@@ -443,9 +450,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Spread: Indiana Fever (-3.5) | New York Liberty (BUY) | 52% | 0.54 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 63% | 0.58 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 63% | 0.49 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 63% | 1.21 | ⏳ pendiente | — |
-| Sassy-Bucket | New York Mets vs. Atlanta Braves: O/U 8. | Under (BUY) | 50% | 3.19 | ⏳ pendiente | — |
-| BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 25% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will Paris Saint-Germain vs. Aston Villa | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
