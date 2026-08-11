@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 11:02:05 (hora de Perú)
+Actualizado: 2026-08-11 11:04:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $340.35
@@ -32,14 +32,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| dv-pm | 0 | 0 | 7 | +0.00 USD |
+| dv-pm | 0 | 0 | 8 | +0.00 USD |
 | Weaseloftheweek | 0 | 0 | 2 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 30 | -4.23 USD |
+| swisstony | 35 | 25 | 38 | -4.23 USD |
 | Lakersfan111 | 2 | 4 | 2 | -4.76 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
@@ -332,6 +332,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bra3-psc-con-2026-08-10-psc | RN1, UpTheBlues |
 | wnba-chi-sea-2026-08-10 | HomeRunHazard, ferrariChampions2026, monkeymashingkeyboard, quavoo, swisstony |
 | wnba-chi-sea-2026-08-10-total-179pt5 | UpTheBlues, ferrariChampions2026 |
+| ucl-crv-hbs-2026-08-11-crv | UpTheBlues, dv-pm |
 | mlb-col-ari-2026-08-10-total-9pt5 | RN1, ferrariChampions2026, swisstony |
 | mlb-kc-lad-2026-08-10-total-8pt5 | HomeRunHazard, ferrariChampions2026 |
 | wnba-chi-sea-2026-08-10-total-177pt5 | HomeRunHazard, ferrariChampions2026 |
@@ -367,6 +368,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| dv-pm | Will FK Crvena zvezda win on 2026-08-11? | No (BUY) | 20% | 27.05 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 43% | 1.11 | ⏳ pendiente | — |
+| swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 49% | 0.43 | ⏳ pendiente | — |
+| swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 56% | 0.52 | ⏳ pendiente | — |
+| swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 49% | 0.57 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 42% | 0.67 | ⏳ pendiente | — |
+| swisstony | Will FK Bodø/Glimt win on 2026-08-11? | Yes (BUY) | 57% | 1.12 | ⏳ pendiente | — |
+| swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 55% | 0.98 | ⏳ pendiente | — |
+| swisstony | Spread: SK Iberia 1999 (-1.5) | Larne FC (BUY) | 75% | 1.36 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 42% | 0.73 | ⏳ pendiente | — |
 | swisstony | SK Iberia 1999 vs. Larne FC: O/U 2.5 | Under (BUY) | 61% | 0.80 | ⏳ pendiente | — |
 | swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 50% | 1.75 | ⏳ pendiente | — |
@@ -388,12 +398,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Spread: Sabah FK (-1.5) | Aarhus GF (BUY) | 75% | 0.34 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Las Vegas Aces (-7.5) | Las Vegas Aces (BUY) | 44% | 0.43 | ⏳ pendiente | — |
 | quavoo | Spread: FK Bodø/Glimt (-1.5) | RU Saint-Gilloise (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will FK Bodø/Glimt win on 2026-08-11? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | New York Liberty vs. Indiana Fever: O/U  | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
