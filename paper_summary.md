@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 13:45:08 (hora de Perú)
+Actualizado: 2026-08-11 13:47:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $333.72
@@ -41,9 +41,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 160 | 104 | 88 | -8.59 USD |
+| UpTheBlues | 160 | 104 | 90 | -8.59 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| swisstony | 69 | 66 | 71 | -20.05 USD |
+| swisstony | 69 | 66 | 73 | -20.05 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | BrotherObama | 7 | 3 | 2 | -24.77 USD |
 | quavoo | 143 | 174 | 24 | -31.25 USD |
@@ -398,6 +398,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 86% | 1.44 | ⏳ pendiente | — |
+| UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 71% | 0.39 | ⏳ pendiente | — |
+| UpTheBlues | Will SK Brann win on 2026-08-11? | No (BUY) | 92% | 0.56 | ⏳ pendiente | — |
+| swisstony | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Under (BUY) | 70% | 0.43 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Indiana Fever (-2.5) | New York Liberty (BUY) | 48% | 4.76 | ⏳ pendiente | — |
 | UpTheBlues | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 86% | 0.36 | ⏳ pendiente | — |
 | UpTheBlues | Apóllon Lemesoú vs. SK Brann: O/U 2.5 | Under (BUY) | 83% | 0.91 | ⏳ pendiente | — |
@@ -424,7 +428,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | FK Crvena zvezda vs. MH Hapoel Be'er She | Under (BUY) | 63% | 0.41 | ⏳ pendiente | — |
 | UpTheBlues | Will NK Celje win on 2026-08-11? | No (BUY) | 35% | 1.06 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Panathinaikós AO (-2.5) | FK CSKA 1948 Sofia (BUY) | 95% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will Apóllon Lemesoú vs. SK Brann end in | No (BUY) | 75% | 0.71 | ⏳ pendiente | — |
-| swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 85% | 1.21 | ⏳ pendiente | — |
-| swisstony | Will SK Iberia 1999 vs. Larne FC end in  | Yes (BUY) | 70% | 1.31 | ⏳ pendiente | — |
