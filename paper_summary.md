@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 19:23:32 (hora de Perú)
+Actualizado: 2026-08-10 19:25:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $185.66
-**Retorno acumulado:** -81.43%
+**Bankroll actual:** $184.63
+**Retorno acumulado:** -81.54%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
-| HomeRunHazard | 46 | 46 | 28 | +16.54 USD |
+| HomeRunHazard | 46 | 46 | 29 | +16.54 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 3 | +7.96 USD |
 | monkeymashingkeyboard | 3 | 0 | 6 | +2.86 USD |
@@ -39,9 +39,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 22 | 16 | 4 | -3.46 USD |
+| swisstony | 22 | 17 | 3 | -4.25 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 128 | 79 | 26 | -7.28 USD |
+| UpTheBlues | 128 | 85 | 22 | -7.52 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 151 | 83 | 6 | -32.82 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 30 | -148.65 USD |
+| ferrariChampions2026 | 538 | 431 | 31 | -148.65 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -326,6 +326,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 92% | 0.20 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Atlanta Dream (-13.5) | Atlanta Dream (BUY) | 55% | 0.38 | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 65% | 0.52 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Unión vs. CA Central Córdoba end | Yes (BUY) | 27% | 0.27 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Unión vs. CA Central Córdoba end | Yes (BUY) | 27% | 0.26 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Central Córdoba win on 2026-08-1 | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Unión vs. CA Central Córdoba end | Yes (BUY) | 27% | 0.00 | ⏳ pendiente | — |
@@ -352,7 +356,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will CA Unión win on 2026-08-10? | Yes (BUY) | 62% | 0.01 | ⏳ pendiente | — |
 | RN1 | Paysandu SC PA vs. AD Confianca SE: O/U  | Over (BUY) | 36% | 1.12 | ⏳ pendiente | — |
 | quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.45 | ⏳ pendiente | — |
-| UpTheBlues | Paysandu SC PA vs. AD Confianca SE: O/U  | Over (BUY) | 37% | 0.25 | ⏳ pendiente | — |
-| RN1 | Paysandu SC PA vs. AD Confianca SE: O/U  | Over (BUY) | 37% | 3.26 | ⏳ pendiente | — |
-| RN1 | Will Libertad Loja vs. CD Universidad Ca | Yes (BUY) | 13% | 0.42 | ⏳ pendiente | — |
-| RN1 | Will Libertad Loja win on 2026-08-10? | No (BUY) | 14% | 1.58 | ⏳ pendiente | — |

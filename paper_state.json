@@ -1,5 +1,5 @@
 {
-  "bankroll": 185.66453579302396,
+  "bankroll": 184.63453579302396,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12795,6 +12795,41 @@
       "timestamp": 1786407795.1347556,
       "bankroll": 185.66,
       "event": "won: quavoo \u2014 New York Mets vs. Atlanta Braves: O/U 7.5"
+    },
+    {
+      "timestamp": 1786407917.870792,
+      "bankroll": 184.87,
+      "event": "lost: swisstony \u2014 Will CA Belgrano win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786407919.1725876,
+      "bankroll": 184.63,
+      "event": "lost: UpTheBlues \u2014 Will CA Belgrano win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786407920.5273342,
+      "bankroll": 184.63,
+      "event": "lost: UpTheBlues \u2014 Will CA Belgrano win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786407920.727628,
+      "bankroll": 184.63,
+      "event": "lost: UpTheBlues \u2014 Will CA Belgrano win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786407920.8277743,
+      "bankroll": 184.63,
+      "event": "lost: UpTheBlues \u2014 Will CA Belgrano win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786407921.1841383,
+      "bankroll": 184.63,
+      "event": "lost: UpTheBlues \u2014 Will CA Belgrano win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786407921.4845595,
+      "bankroll": 184.63,
+      "event": "lost: UpTheBlues \u2014 Will CA Belgrano win on 2026-08-10?"
     }
   ]
 }
