@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 16:53:10 (hora de Perú)
+Actualizado: 2026-08-11 16:55:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $350.46
@@ -45,9 +45,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 118 | 95 | 11 | -29.60 USD |
+| swisstony | 118 | 95 | 14 | -29.60 USD |
 | RN1 | 173 | 99 | 5 | -33.33 USD |
-| quavoo | 151 | 181 | 14 | -33.43 USD |
+| quavoo | 151 | 181 | 15 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 3 | -82.84 USD |
@@ -353,6 +353,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-bog-usg-2026-08-11-btts | UpTheBlues, swisstony |
 | mlb-kc-lad-2026-08-10-spread-home-2pt5 | HomeRunHazard, swisstony |
 | mlb-tex-laa-2026-08-10-spread-home-1pt5 | HomeRunHazard, swisstony |
+| sud-boc-rec1-2026-08-11-team-total-away-0pt5 | UpTheBlues, swisstony |
 | uel-sab-lar-2026-08-11-lar | UpTheBlues, swisstony |
 | uel-sab-lar-2026-08-11-spread-away-1pt5 | UpTheBlues, swisstony |
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
@@ -416,6 +417,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 84% | 0.00 | ⏳ pendiente | — |
+| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| swisstony | CA Boca Juniors vs. Recoleta FC: Recolet | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: RMD Gaming vs RED Academy (BO3) - C | RED Academy (BUY) | 26% | 3.87 | ⏳ pendiente | — |
 | UpTheBlues | Will CS Independiente Rivadavia win on 2 | No (BUY) | 85% | 1.43 | ⏳ pendiente | — |
 | SDTrading | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 52% | 2.35 | ⏳ pendiente | — |
@@ -442,7 +447,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: CA Boca | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Boca Juniors vs. Recoleta FC end | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
-| RN1 | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: CA Boca Juniors (-1.5) | Recoleta FC (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 62% | 0.00 | ⏳ pendiente | — |
