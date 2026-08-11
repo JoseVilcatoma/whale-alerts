@@ -46,5 +46,17 @@
     "usd": 10901.71737,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "timestamp": 1786413694,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "mlb-kc-lad-2026-08-10-spread-home-1pt5",
+    "title": "Spread: Los Angeles Dodgers (-1.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 16389.309998999997,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]
