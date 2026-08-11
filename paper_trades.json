@@ -64260,5 +64260,48 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786447093.3914533,
     "fills": 1
+  },
+  {
+    "timestamp": 1786447134,
+    "timestamp_added": 1786447134.5309427,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "clf-pal-juv-2026-08-11-juv",
+    "title": "Will Juventus Turin win on 2026-08-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 651.8718,
+    "whale_pct": 0.249,
+    "paper_stake_usd": 0.83,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786447134.5309525,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786447225,
+    "timestamp_added": 1786447226.0837243,
+    "username": "lzh1",
+    "wallet": "0x282f81747948a90105d944b5a5a2043825d67c4e",
+    "slug": "acle-gaw-gam-2026-08-11-gaw",
+    "title": "Will Gangwon FC win on 2026-08-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 237.12,
+    "whale_pct": 1.684,
+    "paper_stake_usd": 5.64,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786447226.5155175,
+    "fills": 2
   }
 ]
