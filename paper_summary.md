@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 12:13:13 (hora de Perú)
+Actualizado: 2026-08-11 12:15:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $364.42
@@ -40,9 +40,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 106 | -4.23 USD |
+| swisstony | 35 | 25 | 107 | -4.23 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 101 | 73 | -8.33 USD |
+| UpTheBlues | 151 | 101 | 74 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 13 | -20.90 USD |
@@ -379,11 +379,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-sf-agf-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 | ucl-kai-pls-2026-08-11-spread-away-1pt5 | ferrariChampions2026, swisstony |
 | col-al-bra-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
+| ucl-kau-din-2026-08-11-din | UpTheBlues, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
+| swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will FK Kauno Žalgiris win on 2026-08-11 | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | swisstony | Spread: GNK Dinamo Zagreb (-1.5) | FK Kauno Žalgiris (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | swisstony | Apóllon Lemesoú vs. SK Brann: O/U 3.5 | Under (BUY) | 72% | 0.00 | ⏳ pendiente | — |
@@ -412,5 +415,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will RU Saint-Gilloise win on 2026-08-11 | No (BUY) | 78% | 1.80 | ⏳ pendiente | — |
 | swisstony | SK Iberia 1999 vs. Larne FC: O/U 0.5 | Under (BUY) | 31% | 0.56 | ⏳ pendiente | — |
 | swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 60% | 0.78 | ⏳ pendiente | — |
-| swisstony | FK Bodø/Glimt vs. RU Saint-Gilloise: O/U | Under (BUY) | 47% | 0.45 | ⏳ pendiente | — |
-| swisstony | Will Aarhus GF win on 2026-08-11? | No (BUY) | 80% | 1.00 | ⏳ pendiente | — |
