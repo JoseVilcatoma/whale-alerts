@@ -1,5 +1,5 @@
 {
-  "bankroll": 361.4639967645323,
+  "bankroll": 291.13899676453224,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14665,6 +14665,56 @@
       "timestamp": 1786459250.2054346,
       "bankroll": 361.46,
       "event": "won: Lakersfan111 \u2014 LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786459552.3118837,
+      "bankroll": 362.11,
+      "event": "won: quavoo \u2014 Games Total: O/U 3.5"
+    },
+    {
+      "timestamp": 1786459560.8973324,
+      "bankroll": 358.0,
+      "event": "lost: Lakersfan111 \u2014 LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs"
+    },
+    {
+      "timestamp": 1786459561.331789,
+      "bankroll": 345.91,
+      "event": "lost: Lakersfan111 \u2014 LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs"
+    },
+    {
+      "timestamp": 1786459561.5322323,
+      "bankroll": 332.5,
+      "event": "lost: Lakersfan111 \u2014 LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs"
+    },
+    {
+      "timestamp": 1786459561.6323578,
+      "bankroll": 327.25,
+      "event": "lost: Lakersfan111 \u2014 LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs"
+    },
+    {
+      "timestamp": 1786459563.0424504,
+      "bankroll": 327.25,
+      "event": "won: BBQChickenisthebesttt \u2014 LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs"
+    },
+    {
+      "timestamp": 1786459563.1426435,
+      "bankroll": 327.25,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs"
+    },
+    {
+      "timestamp": 1786459563.664024,
+      "bankroll": 323.5,
+      "event": "lost: lzh1 \u2014 LoL: Hanwha Life Esports vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786459563.7641964,
+      "bankroll": 296.51,
+      "event": "lost: lzh1 \u2014 LoL: Hanwha Life Esports vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786459564.1736763,
+      "bankroll": 291.14,
+      "event": "lost: lzh1 \u2014 LoL: Hanwha Life Esports vs DN SOOPers - Game 3 Winner"
     }
   ]
 }

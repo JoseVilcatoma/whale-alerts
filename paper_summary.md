@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 09:45:09 (hora de Perú)
+Actualizado: 2026-08-11 09:47:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $361.46
-**Retorno acumulado:** -63.85%
+**Bankroll actual:** $291.14
+**Retorno acumulado:** -70.89%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,12 +13,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 20 | 16 | 9 | +101.00 USD |
+| BBQChickenisthebesttt | 21 | 16 | 8 | +101.00 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | wr0ngw4yb3tt0r | 52 | 48 | 5 | +36.60 USD |
-| Lakersfan111 | 2 | 0 | 6 | +30.10 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -27,7 +26,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 93 | 83 | 11 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| lzh1 | 5 | 0 | 8 | +3.08 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
@@ -41,18 +39,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 34 | 25 | 6 | -4.37 USD |
+| swisstony | 34 | 25 | 7 | -4.37 USD |
+| Lakersfan111 | 2 | 4 | 2 | -4.76 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 0 | -20.90 USD |
 | BrotherObama | 7 | 3 | 0 | -24.77 USD |
-| quavoo | 138 | 173 | 15 | -34.18 USD |
+| lzh1 | 5 | 3 | 5 | -33.03 USD |
+| quavoo | 139 | 173 | 14 | -33.53 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 610 | 463 | 3 | -104.76 USD |
+| ferrariChampions2026 | 611 | 463 | 2 | -104.76 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -362,6 +362,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Olympique Lyonnais (-2.5) | Olympique Lyonnais (BUY) | 26% | 0.38 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: PFK Levs | Over (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Sparks (-2.5) | Los Angeles Sparks (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Milwaukee Brewers (-2.5) | San Diego Padres (BUY) | 69% | 0.00 | ⏳ pendiente | — |
@@ -391,4 +392,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 55% | 1.14 | ⏳ pendiente | — |
 | Weaseloftheweek | Dota 2: MOUZ vs Rune Eaters - Game 2 Win | MOUZ (BUY) | 66% | 2.32 | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 43% | 0.44 | ⏳ pendiente | — |
-| UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 93% | 0.58 | ⏳ pendiente | — |
