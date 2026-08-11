@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 11:20:59 (hora de Perú)
+Actualizado: 2026-08-11 11:23:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $364.42
@@ -17,13 +17,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 7 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 8 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 16 | 13 | 4 | +17.16 USD |
-| HomeRunHazard | 93 | 83 | 28 | +15.57 USD |
+| HomeRunHazard | 93 | 83 | 30 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -40,14 +40,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 72 | -4.23 USD |
+| swisstony | 35 | 25 | 78 | -4.23 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 13 | -20.90 USD |
 | BrotherObama | 7 | 3 | 0 | -24.77 USD |
-| quavoo | 142 | 173 | 16 | -30.91 USD |
+| quavoo | 142 | 173 | 17 | -30.91 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -363,6 +363,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-1pt5 | RN1, swisstony |
 | wnba-nyl-ind-2026-08-11-total-192pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| wnba-phx-la-2026-08-11-spread-home-2pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-2pt5 | RN1, swisstony |
 | ucl-kai-pls-2026-08-11-pls | RN1, swisstony |
 | ucl-sf-agf-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
@@ -371,6 +372,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 55% | 0.95 | ⏳ pendiente | — |
+| quavoo | Columbus Crew vs. Pumas de la UNAM: O/U  | Over (BUY) | 84% | 0.42 | ⏳ pendiente | — |
+| HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 55% | 1.69 | ⏳ pendiente | — |
+| swisstony | Will PFK Levski Sofia win on 2026-08-11? | No (BUY) | 32% | 0.53 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | Yes (BUY) | 48% | 0.93 | ⏳ pendiente | — |
+| swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 67% | 1.69 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | Yes (BUY) | 48% | 0.92 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 51% | 0.90 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: O/U 1.5 | Under (BUY) | 28% | 0.54 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Over (BUY) | 44% | 0.40 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: O/U 3.5 | Under (BUY) | 75% | 0.93 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 72% | 1.17 | ⏳ pendiente | — |
 | swisstony | Spread: SK Iberia 1999 (-1.5) | Larne FC (BUY) | 81% | 1.82 | ⏳ pendiente | — |
@@ -391,13 +402,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 45% | 0.40 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 49% | 0.61 | ⏳ pendiente | — |
 | swisstony | SK Iberia 1999 vs. Larne FC: O/U 2.5 | Under (BUY) | 69% | 1.09 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 66% | 0.49 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 45% | 0.45 | ⏳ pendiente | — |
-| swisstony | Spread: Sabah FK (-1.5) | Aarhus GF (BUY) | 73% | 1.21 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: O/U 3.5 | Under (BUY) | 71% | 1.04 | ⏳ pendiente | — |
-| swisstony | Spread: Larne FC (-1.5) | SK Iberia 1999 (BUY) | 95% | 1.74 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 66% | 0.51 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 48% | 0.49 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 48% | 0.50 | ⏳ pendiente | — |
-| swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 59% | 0.60 | ⏳ pendiente | — |
-| swisstony | Al Jazira (UAE) vs. Al-Ittihad Club: O/U | Under (BUY) | 49% | 0.74 | ⏳ pendiente | — |
