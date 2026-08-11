@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:18:15 (hora de Perú)
+Actualizado: 2026-08-11 17:20:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -47,13 +47,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 122 | 97 | 17 | -28.98 USD |
-| RN1 | 173 | 99 | 19 | -33.33 USD |
+| RN1 | 173 | 99 | 20 | -33.33 USD |
 | quavoo | 151 | 181 | 16 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 3 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 614 | 464 | 4 | -105.11 USD |
+| ferrariChampions2026 | 614 | 464 | 7 | -105.11 USD |
 | BrotherObama | 7 | 5 | 10 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -412,8 +412,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cle-det-2026-08-11-total-8pt5 | Talvez10, quavoo |
 | mlb-sea-nyy-2026-08-11-total-7pt5 | SDTrading, wr0ngw4yb3tt0r |
 | sud-boc-rec1-2026-08-11-spread-home-1pt5 | RN1, UpTheBlues, theowalcott |
-| sud-boc-rec1-2026-08-11-boc | RN1, UpTheBlues |
-| sud-boc-rec1-2026-08-11-draw | UpTheBlues, swisstony |
+| sud-boc-rec1-2026-08-11-boc | RN1, UpTheBlues, ferrariChampions2026 |
+| sud-boc-rec1-2026-08-11-draw | UpTheBlues, ferrariChampions2026, swisstony |
 | lib-flu-cir-2026-08-11-flu | RN1, UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-total-2pt5 | RN1, UpTheBlues, swisstony |
 | lib-flu-cir-2026-08-11-total-1pt5 | RN1, UpTheBlues |
@@ -424,6 +424,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will CA Boca Juniors vs. Recoleta FC end | No (BUY) | 78% | 0.00 | ⏳ pendiente | — |
+| RN1 | Fluminense FC vs. CS Independiente Rivad | Over (BUY) | 25% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CA Boca Juniors vs. Recoleta FC end | No (BUY) | 78% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CA Boca Juniors win on 2026-08-11? | No (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | donthackme | Will annual inflation be 3.6% in July? | No (BUY) | 97% | 0.00 | ⏳ pendiente | — |
 | donthackme | Will annual inflation be 3.4% in July? | No (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | donthackme | Will annual inflation be 3.7% in July? | No (BUY) | 100% | 0.00 | ⏳ pendiente | — |
@@ -450,7 +454,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Fluminense FC (-2.5) | CS Independiente Rivadavia (BUY) | 90% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | RN1 | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 74% | 0.00 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 74% | 0.00 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 74% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will CR Brasil win on 2026-08-11? | No (BUY) | 65% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Fluminense FC vs. CS Independiente  | Yes (BUY) | 27% | 0.00 | ⏳ pendiente | — |
