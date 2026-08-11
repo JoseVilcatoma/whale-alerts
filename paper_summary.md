@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 14:58:54 (hora de Perú)
+Actualizado: 2026-08-11 15:01:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $337.00
-**Retorno acumulado:** -66.30%
+**Bankroll actual:** $336.27
+**Retorno acumulado:** -66.37%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | dv-pm | 1 | 2 | 6 | -0.92 USD |
-| UpTheBlues | 170 | 111 | 91 | -0.95 USD |
+| UpTheBlues | 170 | 111 | 92 | -0.95 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -44,8 +44,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 82 | 74 | 63 | -23.59 USD |
-| BrotherObama | 7 | 3 | 4 | -24.77 USD |
+| swisstony | 86 | 75 | 58 | -24.32 USD |
+| BrotherObama | 7 | 3 | 5 | -24.77 USD |
 | quavoo | 145 | 177 | 19 | -31.62 USD |
 | RN1 | 167 | 99 | 0 | -34.36 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -407,6 +407,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | NK Celje vs. Ararat-Armenia FA: O/U 3.5 | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
+| BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will SK Puntigamer Sturm Graz win on 202 | No (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | NK Celje vs. Ararat-Armenia FA: O/U 1.5 | Under (BUY) | 89% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Fenerbahçe SK win on 2026-08-11? | No (BUY) | 25% | 0.00 | ⏳ pendiente | — |
@@ -435,5 +437,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 40% | 0.35 | ⏳ pendiente | — |
 | UpTheBlues | NEC vs. Olympiakós SFP: O/U 4.5 | Under (BUY) | 97% | 0.47 | ⏳ pendiente | — |
 | UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 40% | 1.33 | ⏳ pendiente | — |
-| swisstony | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 41% | 0.40 | ⏳ pendiente | — |
-| swisstony | Will NEC vs. Olympiakós SFP end in a dra | Yes (BUY) | 56% | 0.54 | ⏳ pendiente | — |
