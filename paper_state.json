@@ -1,5 +1,5 @@
 {
-  "bankroll": 318.34332905596773,
+  "bankroll": 322.01484911154944,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14445,6 +14445,51 @@
       "timestamp": 1786425764.2359276,
       "bankroll": 318.34,
       "event": "lost: HomeRunHazard \u2014 Texas Rangers vs. Los Angeles Angels: O/U 5.5"
+    },
+    {
+      "timestamp": 1786425890.679541,
+      "bankroll": 318.47,
+      "event": "won: 0x4f2 \u2014 Spread: Texas Rangers (-2.5)"
+    },
+    {
+      "timestamp": 1786425947.0633938,
+      "bankroll": 319.27,
+      "event": "won: HomeRunHazard \u2014 Texas Rangers vs. Los Angeles Angels: O/U 9.5"
+    },
+    {
+      "timestamp": 1786425947.1636047,
+      "bankroll": 318.34,
+      "event": "lost: HomeRunHazard \u2014 Texas Rangers vs. Los Angeles Angels: O/U 9.5"
+    },
+    {
+      "timestamp": 1786425947.490346,
+      "bankroll": 320.62,
+      "event": "won: HomeRunHazard \u2014 Texas Rangers vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786425949.6591077,
+      "bankroll": 321.03,
+      "event": "won: quavoo \u2014 Texas Rangers vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786425950.1244116,
+      "bankroll": 321.03,
+      "event": "won: quavoo \u2014 Texas Rangers vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786425950.2246258,
+      "bankroll": 321.03,
+      "event": "won: quavoo \u2014 Texas Rangers vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786425950.3248222,
+      "bankroll": 322.46,
+      "event": "won: quavoo \u2014 Texas Rangers vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786425951.667549,
+      "bankroll": 322.01,
+      "event": "lost: swisstony \u2014 Spread: Texas Rangers (-1.5)"
     }
   ]
 }
