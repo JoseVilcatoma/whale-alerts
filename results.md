@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 06:12:39 (hora de Perú)
+Actualizado: 2026-08-11 06:14:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **46**  ($1,228,668 en total)
+- Apuestas registradas: **47**  ($1,246,652 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 43
-- Apostadores distintos: 31
+- Pendientes: 44
+- Apostadores distintos: 32
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -38,6 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 2 | — | $21,062 | — |
 | 0xA7614974FAca5Be9A1b809c978d0A8FC532a866B-1777736641378 | 0 | 0 | 1 | — | $19,480 | — |
 | LUCKYME001 | 0 | 0 | 1 | — | $18,941 | — |
+| 0x3b63B79D5D00A254ff0105792e04984F64654AcD-1768687235269 | 0 | 0 | 1 | — | $17,985 | — |
 | Lakersfan111 | 0 | 0 | 1 | — | $17,024 | — |
 | 467j6yj | 0 | 0 | 1 | — | $15,858 | — |
 | hd777 | 0 | 0 | 1 | — | $13,111 | — |
@@ -53,6 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3b63B79D5D00A254ff0105792e04984F64654AcD-1768687235269 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | — (100¢) | $17,985 | — | ⏳ Pendiente |
 | hd777 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | — (100¢) | $13,111 | — | ⏳ Pendiente |
 | 0xA7614974FAca5Be9A1b809c978d0A8FC532a866B-1777736641378 | Bitcoin Up or Down - August 11, 6:45AM-6:50AM ET | Down | — (100¢) | $19,480 | — | ⏳ Pendiente |
 | degenofweb3 | LoL: Hanwha Life Esports vs DN SOOPers - Game 2 Winner | DN SOOPers | — (100¢) | $11,355 | — | ⏳ Pendiente |
