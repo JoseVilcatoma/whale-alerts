@@ -1,5 +1,5 @@
 {
-  "bankroll": 187.45972320804185,
+  "bankroll": 187.64707547556364,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12705,6 +12705,41 @@
       "timestamp": 1786404724.6544175,
       "bankroll": 187.46,
       "event": "lost: quavoo \u2014 Dota 2: Rune Eaters vs Natus Vincere (BO3) - EPL Masters Playoffs"
+    },
+    {
+      "timestamp": 1786407303.0507913,
+      "bankroll": 187.18,
+      "event": "lost: UpTheBlues \u2014 CA Banfield vs. CA Belgrano: O/U 2.5"
+    },
+    {
+      "timestamp": 1786407305.0394256,
+      "bankroll": 187.42,
+      "event": "won: swisstony \u2014 CA Banfield vs. CA Belgrano: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786407305.9162023,
+      "bankroll": 187.1,
+      "event": "lost: swisstony \u2014 CA Banfield vs. CA Belgrano: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786407307.0184464,
+      "bankroll": 187.38,
+      "event": "won: swisstony \u2014 CA Banfield vs. CA Belgrano: O/U 2.5"
+    },
+    {
+      "timestamp": 1786407307.5191348,
+      "bankroll": 187.65,
+      "event": "won: swisstony \u2014 CA Banfield vs. CA Belgrano: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786407309.1196887,
+      "bankroll": 187.65,
+      "event": "lost: SnakeBall \u2014 CA Banfield vs. CA Belgrano: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1786407309.2198389,
+      "bankroll": 187.65,
+      "event": "won: UpTheBlues \u2014 CA Banfield vs. CA Belgrano: O/U 2.5"
     }
   ]
 }

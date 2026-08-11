@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 19:13:19 (hora de Perú)
+Actualizado: 2026-08-10 19:15:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $187.46
-**Retorno acumulado:** -81.25%
+**Bankroll actual:** $187.65
+**Retorno acumulado:** -81.24%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -35,12 +35,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VD721lsj4938Dk388 | 0 | 0 | 1 | +0.00 USD |
 | VeryLucky888 | 1 | 0 | 2 | +0.00 USD |
 | Anjun | 0 | 0 | 1 | +0.00 USD |
-| SnakeBall | 0 | 0 | 10 | +0.00 USD |
+| SnakeBall | 0 | 1 | 9 | +0.00 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | Wealthfreedom001 | 0 | 1 | 1 | -0.50 USD |
-| swisstony | 19 | 13 | 10 | -2.77 USD |
+| swisstony | 22 | 14 | 6 | -2.30 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| UpTheBlues | 124 | 76 | 25 | -4.37 USD |
+| UpTheBlues | 125 | 77 | 24 | -4.65 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -319,6 +319,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will CD Cuenca win on 2026-08-10? | No (BUY) | 47% | 0.43 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Unión win on 2026-08-10? | Yes (BUY) | 62% | 0.01 | ⏳ pendiente | — |
 | RN1 | Paysandu SC PA vs. AD Confianca SE: O/U  | Over (BUY) | 36% | 1.12 | ⏳ pendiente | — |
 | quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.45 | ⏳ pendiente | — |
@@ -348,4 +349,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will CD Universidad Catolica del Ecuador | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Belgrano win on 2026-08-10? | No (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | SnakeBall | Will Goiás EC win on 2026-08-10? | No (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Banfield win on 2026-08-10? | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
