@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 16:40:41 (hora de Perú)
+Actualizado: 2026-08-11 16:42:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $350.46
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 7 | 4 | 10 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
-| SDTrading | 2 | 6 | 2 | +17.41 USD |
+| SDTrading | 2 | 6 | 3 | +17.41 USD |
 | HomeRunHazard | 93 | 83 | 30 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
@@ -415,6 +415,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 53% | 0.40 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 56% | 1.91 | ⏳ pendiente | — |
 | UpTheBlues | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 63% | 0.92 | ⏳ pendiente | — |
 | UpTheBlues | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 36% | 1.58 | ⏳ pendiente | — |
@@ -443,5 +444,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Under (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 1.5 | Over (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Spread: CA Boca Juniors (-1.5) | CA Boca Juniors (BUY) | 62% | 0.00 | ⏳ pendiente | — |
