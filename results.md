@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 17:47:14 (hora de Perú)
+Actualizado: 2026-08-11 17:49:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **68**  ($1,761,717 en total)
+- Apuestas registradas: **70**  ($1,802,275 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 54
-- Apostadores distintos: 35
+- Pendientes: 56
+- Apostadores distintos: 37
 
 ### Balance
 
@@ -41,9 +41,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BaccaratRoulette | 0 | 0 | 1 | — | $27,060 | — |
 | SevenTons | 0 | 0 | 2 | — | $25,996 | — |
 | dv-pm | 0 | 0 | 2 | — | $24,463 | — |
+| Mylifeisover | 0 | 0 | 1 | — | $24,112 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 2 | 0 | 0 | ⚠️ 100% (2) | $21,062 | +$8,396 |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | 0 | 0 | 1 | — | $20,000 | — |
+| kibanachi | 0 | 0 | 1 | — | $16,446 | — |
 | monkeymashingkeyboard | 0 | 0 | 1 | — | $14,986 | — |
 | beachboy4 | 0 | 0 | 1 | — | $14,094 | — |
 | paquitomillonario | 0 | 0 | 1 | — | $12,390 | — |
@@ -64,6 +66,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mylifeisover | Pittsburgh Pirates vs. Miami Marlins | Miami Marlins | 1.85 (54¢) | $24,112 | — | ⏳ Pendiente |
+| kibanachi | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.20 (83¢) | $16,446 | — | ⏳ Pendiente |
 | BreakTheBank | New York Mets vs. Atlanta Braves | New York Mets | 2.22 (45¢) | $126,928 | — | ⏳ Pendiente |
 | Weaseloftheweek | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.82 (55¢) | $178,495 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.79 (56¢) | $16,947 | — | ⏳ Pendiente |
@@ -122,5 +126,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $27,284 | — | ⏳ Pendiente |
 | ThornyDevil | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | 1.67 (60¢) | $10,680 | +$7,120 | ✅ Ganada |
 | backback | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | 1.09 (92¢) | $10,473 | +$911 | ✅ Ganada |
-| 0x076d…8d4c | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.10 (91¢) | $11,037 | +$1,092 | ✅ Ganada |
-| 999999666544332578855667788 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.32 (76¢) | $10,640 | +$3,360 | ✅ Ganada |
