@@ -1,5 +1,5 @@
 {
-  "bankroll": 322.3387770605747,
+  "bankroll": 322.52631063410894,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13845,6 +13845,16 @@
       "timestamp": 1786422437.6970904,
       "bankroll": 322.34,
       "event": "won: ferrariChampions2026 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786422496.5427508,
+      "bankroll": 322.43,
+      "event": "won: UpTheBlues \u2014 Will Caracas FC win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786422497.2173853,
+      "bankroll": 322.53,
+      "event": "won: SnakeBall \u2014 Caracas FC vs. Deportivo La Guaira: O/U 0.5"
     }
   ]
 }

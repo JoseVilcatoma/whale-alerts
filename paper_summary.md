@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:27:36 (hora de Perú)
+Actualizado: 2026-08-10 23:29:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $322.34
-**Retorno acumulado:** -67.77%
+**Bankroll actual:** $322.53
+**Retorno acumulado:** -67.75%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -29,11 +29,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lzh1 | 5 | 0 | 0 | +3.08 USD |
 | monkeymashingkeyboard | 3 | 6 | 3 | +2.86 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
+| SnakeBall | 5 | 3 | 2 | +0.10 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| SnakeBall | 4 | 3 | 3 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 26 | 18 | 15 | -3.96 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 150 | 99 | 16 | -7.53 USD |
+| UpTheBlues | 151 | 99 | 16 | -7.44 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 160 | 88 | 5 | -21.88 USD |
@@ -351,6 +351,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Larne FC win on 2026-08-11? | No (BUY) | 83% | 0.88 | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 54% | 0.70 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Larne FC (-1.5) | SK Iberia 1999 (BUY) | 95% | 0.55 | ⏳ pendiente | — |
 | UpTheBlues | Will Larne FC win on 2026-08-11? | No (BUY) | 83% | 0.82 | ⏳ pendiente | — |
@@ -380,4 +381,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Seattle Storm (-1.5) | Seattle Storm (BUY) | 64% | 0.28 | ⏳ pendiente | — |
 | swisstony | Spread: Los Angeles Angels (-1.5) | Texas Rangers (BUY) | 81% | 3.92 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: San Francisco Giants (-1.5) | Houston Astros (BUY) | 86% | 0.58 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: San Francisco Giants (-1.5) | Houston Astros (BUY) | 84% | 0.57 | ⏳ pendiente | — |
