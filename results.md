@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 04:45:09 (hora de Perú)
+Actualizado: 2026-08-11 04:47:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **27**  ($865,398 en total)
+- Apuestas registradas: **31**  ($913,508 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 24
-- Apostadores distintos: 21
+- Pendientes: 28
+- Apostadores distintos: 22
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -17,7 +17,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| -Malfunction | 0 | 0 | 3 | — | $115,098 | — |
+| -Malfunction | 0 | 0 | 6 | — | $151,029 | — |
 | zvon3 | 0 | 0 | 1 | — | $109,790 | — |
 | bajacaligold | 0 | 0 | 1 | — | $78,022 | — |
 | littlelonely888 | 0 | 0 | 1 | — | $70,929 | — |
@@ -33,6 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | backback | 0 | 0 | 1 | — | $18,610 | — |
 | Lakersfan111 | 0 | 0 | 1 | — | $17,024 | — |
 | 467j6yj | 0 | 0 | 1 | — | $15,858 | — |
+| five5120 | 0 | 0 | 1 | — | $12,178 | — |
 | scottilicious | 0 | 0 | 1 | — | $11,672 | — |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 0 | 0 | 1 | — | $11,063 | — |
 | 0x076d…8d4c | 0 | 0 | 1 | — | $11,037 | — |
@@ -43,6 +44,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| five5120 | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | DN SOOPers | — (100¢) | $12,178 | — | ⏳ Pendiente |
+| -Malfunction | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | DN SOOPers | — (100¢) | $12,178 | — | ⏳ Pendiente |
+| -Malfunction | LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 1 Winner | Kiwoom DRX Challengers | — (100¢) | $12,488 | — | ⏳ Pendiente |
+| -Malfunction | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | DN SOOPers | — (100¢) | $11,266 | — | ⏳ Pendiente |
 | -Malfunction | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | DN SOOPers | — (100¢) | $19,980 | — | ⏳ Pendiente |
 | 0x076d…8d4c | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.10 (91¢) | $11,037 | — | ⏳ Pendiente |
 | 467j6yj | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | DN SOOPers | 1.01 (99¢) | $15,858 | — | ⏳ Pendiente |
