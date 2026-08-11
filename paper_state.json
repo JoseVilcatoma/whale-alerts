@@ -1,5 +1,5 @@
 {
-  "bankroll": 316.35933293071264,
+  "bankroll": 314.95599959737933,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14040,6 +14040,26 @@
       "timestamp": 1786423439.8625119,
       "bankroll": 316.36,
       "event": "lost: HomeRunHazard \u2014 Spread: Arizona Diamondbacks (-6.5)"
+    },
+    {
+      "timestamp": 1786423494.3334594,
+      "bankroll": 315.41,
+      "event": "lost: HomeRunHazard \u2014 Chicago Sky vs. Seattle Storm: O/U 178.5"
+    },
+    {
+      "timestamp": 1786423497.5738494,
+      "bankroll": 313.97,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 10.5"
+    },
+    {
+      "timestamp": 1786423497.674025,
+      "bankroll": 314.57,
+      "event": "won: ferrariChampions2026 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 10.5"
+    },
+    {
+      "timestamp": 1786423498.6755815,
+      "bankroll": 314.96,
+      "event": "won: HomeRunHazard \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 10.5"
     }
   ]
 }
