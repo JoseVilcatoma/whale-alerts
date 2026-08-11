@@ -1,5 +1,5 @@
 {
-  "bankroll": 310.90410336711375,
+  "bankroll": 315.3733396593318,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -13670,6 +13670,21 @@
       "timestamp": 1786421886.321371,
       "bankroll": 310.9,
       "event": "lost: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 11.5"
+    },
+    {
+      "timestamp": 1786422065.2498736,
+      "bankroll": 312.2,
+      "event": "won: ferrariChampions2026 \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 5.5"
+    },
+    {
+      "timestamp": 1786422070.5146818,
+      "bankroll": 312.4,
+      "event": "won: HomeRunHazard \u2014 Spread: San Diego Padres (-1.5)"
+    },
+    {
+      "timestamp": 1786422070.6148126,
+      "bankroll": 315.37,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: San Diego Padres (-1.5)"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:19:20 (hora de Perú)
+Actualizado: 2026-08-10 23:21:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $310.90
-**Retorno acumulado:** -68.91%
+**Bankroll actual:** $315.37
+**Retorno acumulado:** -68.46%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,10 +17,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
+| wr0ngw4yb3tt0r | 50 | 44 | 6 | +29.84 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| wr0ngw4yb3tt0r | 49 | 44 | 7 | +26.87 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
-| HomeRunHazard | 63 | 62 | 48 | +24.72 USD |
+| HomeRunHazard | 64 | 62 | 47 | +24.92 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 5 | 1 | +17.41 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -39,20 +39,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 25 | 17 | 13 | -3.90 USD |
+| swisstony | 25 | 17 | 16 | -3.90 USD |
 | UpTheBlues | 150 | 98 | 15 | -6.86 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | Forecastication2 | 4 | 24 | 3 | -11.67 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 160 | 88 | 5 | -21.88 USD |
-| quavoo | 128 | 157 | 21 | -40.03 USD |
+| quavoo | 128 | 157 | 22 | -40.03 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
+| ferrariChampions2026 | 570 | 447 | 48 | -121.40 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 569 | 447 | 49 | -122.70 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -344,12 +344,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-chi-sea-2026-08-10-total-183pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-mil-sd-2026-08-10-spread-home-1pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-col-ari-2026-08-10-total-8pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
+| mlb-kc-lad-2026-08-10-spread-home-2pt5 | HomeRunHazard, swisstony |
 | mlb-tex-laa-2026-08-10-spread-home-1pt5 | HomeRunHazard, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Los Angeles Angels (-2.5) | Texas Rangers (BUY) | 98% | 1.19 | ⏳ pendiente | — |
+| swisstony | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 36% | 0.42 | ⏳ pendiente | — |
+| swisstony | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 20% | 0.55 | ⏳ pendiente | — |
+| quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 56% | 0.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 37% | 0.34 | ⏳ pendiente | — |
 | swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 58% | 0.39 | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Athletics: O/U 17.5 | Under (BUY) | 51% | 0.48 | ⏳ pendiente | — |
@@ -376,7 +381,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 84% | 0.28 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 87% | 0.29 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-2.5) | Kansas City Royals (BUY) | 87% | 0.49 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 85% | 0.31 | ⏳ pendiente | — |
-| UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 92% | 0.42 | ⏳ pendiente | — |
-| RN1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 65% | 0.30 | ⏳ pendiente | — |
-| UpTheBlues | FK Bodø/Glimt vs. RU Saint-Gilloise: Bot | No (BUY) | 36% | 0.31 | ⏳ pendiente | — |
