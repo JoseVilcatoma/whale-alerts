@@ -244,6 +244,33 @@ def build_summary_md():
     resueltas = tot_g + tot_p
     pct_global = round(tot_g / resueltas * 100) if resueltas else 0
 
+    # Balance global: sumamos el resultado real de todas las resueltas
+    balance = 0.0
+    apostado_resuelto = 0.0
+    for r in results:
+        g = ganancia_de(r)
+        if g is not None:
+            balance += g
+            apostado_resuelto += r.get("usd", 0) or 0
+    roi = (balance / apostado_resuelto * 100) if apostado_resuelto else 0
+
+    # Qué habría pasado copiando con un monto fijo en cada apuesta.
+    # Sirve para separar "aciertan seguido" de "ganan plata", que no es lo mismo.
+    STAKE_FIJO = 100.0
+    bal_fijo = 0.0
+    n_fijo = 0
+    for r in results:
+        p = (r.get("odds_at_bet") or 0) / 100.0
+        if r["status"] == "won" and p > 0:
+            bal_fijo += STAKE_FIJO * (1 - p) / p
+            n_fijo += 1
+        elif r["status"] == "lost":
+            bal_fijo -= STAKE_FIJO
+            n_fijo += 1
+    roi_fijo = (bal_fijo / (STAKE_FIJO * n_fijo) * 100) if n_fijo else 0
+
+    signo = lambda v: f"+${v:,.0f}" if v >= 0 else f"-${abs(v):,.0f}"
+
     hora_peru = time.gmtime(time.time() - 5 * 3600)  # Perú = UTC-5
     lines = [
         "# Apuestas fuertes en Polymarket",
@@ -259,6 +286,17 @@ def build_summary_md():
         f"(**{pct_global}%** de acierto)",
         f"- Pendientes: {tot_pend}",
         f"- Apostadores distintos: {len(per_wallet)}",
+        "",
+        "### Balance",
+        "",
+        f"- **Resultado de los apostadores: {signo(balance)}** "
+        f"sobre ${apostado_resuelto:,.0f} apostados (ROI **{roi:+.1f}%**)",
+        f"- Copiando ${STAKE_FIJO:,.0f} fijo en cada una: **{signo(bal_fijo)}** "
+        f"sobre ${STAKE_FIJO * n_fijo:,.0f} (ROI **{roi_fijo:+.1f}%**)",
+        "",
+        "> Acertar seguido no es lo mismo que ganar plata: se puede tener alto "
+        "porcentaje de acierto y balance negativo si las ganadas pagan poco y "
+        "las perdidas son grandes.",
         "",
         "_Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._",
         "",
