@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 12:00:36 (hora de Perú)
+Actualizado: 2026-08-11 12:02:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $364.42
@@ -40,9 +40,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 81 | -4.23 USD |
+| swisstony | 35 | 25 | 84 | -4.23 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 151 | 101 | 66 | -8.33 USD |
+| UpTheBlues | 151 | 101 | 68 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 163 | 90 | 13 | -20.90 USD |
@@ -370,11 +370,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-kai-pls-2026-08-11-pls | RN1, swisstony |
 | ucl-sf-agf-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 | ucl-kai-pls-2026-08-11-spread-away-1pt5 | ferrariChampions2026, swisstony |
+| col-al-bra-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Olympiakós SFP win on 2026-08-11? | No (BUY) | 66% | 3.37 | ⏳ pendiente | — |
+| swisstony | FK Bodø/Glimt vs. RU Saint-Gilloise: O/U | Under (BUY) | 89% | 1.02 | ⏳ pendiente | — |
+| UpTheBlues | Will Olympiakós SFP win on 2026-08-11? | No (BUY) | 66% | 0.98 | ⏳ pendiente | — |
+| swisstony | Apóllon Lemesoú vs. SK Brann: O/U 3.5 | Under (BUY) | 67% | 0.61 | ⏳ pendiente | — |
+| swisstony | Apóllon Lemesoú vs. SK Brann: O/U 2.5 | Under (BUY) | 45% | 0.41 | ⏳ pendiente | — |
 | UpTheBlues | Apóllon Lemesoú vs. SK Brann: O/U 3.5 | Under (BUY) | 66% | 0.38 | ⏳ pendiente | — |
 | swisstony | Will SK Iberia 1999 win on 2026-08-11? | Yes (BUY) | 43% | 0.49 | ⏳ pendiente | — |
 | UpTheBlues | Will NEC win on 2026-08-11? | Yes (BUY) | 37% | 0.67 | ⏳ pendiente | — |
@@ -400,8 +406,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 51% | 0.90 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: O/U 1.5 | Under (BUY) | 28% | 0.54 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Over (BUY) | 44% | 0.40 | ⏳ pendiente | — |
-| swisstony | Sabah FK vs. Aarhus GF: O/U 3.5 | Under (BUY) | 75% | 0.93 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 72% | 1.17 | ⏳ pendiente | — |
-| swisstony | Spread: SK Iberia 1999 (-1.5) | Larne FC (BUY) | 81% | 1.82 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | Yes (BUY) | 46% | 0.48 | ⏳ pendiente | — |
-| swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 65% | 1.39 | ⏳ pendiente | — |
