@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 04:53:05 (hora de Perú)
+Actualizado: 2026-08-11 04:55:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $341.50
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| BrotherObama | 6 | 1 | 1 | +63.29 USD |
+| BrotherObama | 7 | 1 | 0 | +63.29 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | wr0ngw4yb3tt0r | 52 | 48 | 0 | +36.60 USD |
@@ -363,7 +363,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 59% | 0.00 | 💰 vendida anticipada | +0.00 |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs DN SOOPers ( | DN SOOPers (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 70% | 0.00 | 💰 vendida anticipada | -0.00 |
-| BrotherObama | LoL: Hanwha Life Esports vs DN SOOPers ( | Hanwha Life Esports (BUY) | 24% | 0.00 | ⏳ pendiente | — |
+| BrotherObama | LoL: Hanwha Life Esports vs DN SOOPers ( | Hanwha Life Esports (BUY) | 24% | 0.00 | 💰 vendida anticipada | -0.00 |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Hanwha Life Esports vs DN SOOPers ( | DN SOOPers (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 59% | 0.00 | ⏳ pendiente | — |
