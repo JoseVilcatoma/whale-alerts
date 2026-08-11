@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 05:20:13 (hora de Perú)
+Actualizado: 2026-08-11 05:22:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **33**  ($941,500 en total)
+- Apuestas registradas: **37**  ($1,021,500 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 30
-- Apostadores distintos: 24
+- Pendientes: 34
+- Apostadores distintos: 26
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -17,7 +17,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| -Malfunction | 0 | 0 | 6 | — | $151,029 | — |
+| -Malfunction | 0 | 0 | 7 | — | $170,829 | — |
 | zvon3 | 0 | 0 | 1 | — | $109,790 | — |
 | bajacaligold | 0 | 0 | 1 | — | $78,022 | — |
 | littlelonely888 | 0 | 0 | 1 | — | $70,929 | — |
@@ -25,12 +25,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | avonking | 0 | 0 | 1 | — | $60,140 | — |
 | retroactivesource | 0 | 0 | 1 | — | $54,960 | — |
 | c4a759e5c9350491AF61646f2c4A46 | 1 | 0 | 1 | ⚠️ 100% (1) | $52,134 | +$0 |
+| BBQChickenisthebesttt | 0 | 0 | 1 | — | $39,600 | — |
 | ilushin | 0 | 0 | 1 | — | $39,560 | — |
 | cc9999 | 0 | 0 | 1 | — | $31,864 | — |
 | TAIWANNUMBERONE | 0 | 0 | 2 | — | $30,272 | — |
+| backback | 0 | 0 | 2 | — | $29,083 | — |
 | ProudIsraeli | 2 | 0 | 0 | ⚠️ 100% (2) | $25,065 | +$0 |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 2 | — | $21,062 | — |
-| backback | 0 | 0 | 1 | — | $18,610 | — |
 | Lakersfan111 | 0 | 0 | 1 | — | $17,024 | — |
 | 467j6yj | 0 | 0 | 1 | — | $15,858 | — |
 | degenofweb3 | 0 | 0 | 1 | — | $14,985 | — |
@@ -41,11 +42,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x076d…8d4c | 0 | 0 | 1 | — | $11,037 | — |
 | mpyh | 0 | 0 | 1 | — | $10,968 | — |
 | 999999666544332578855667788 | 0 | 0 | 1 | — | $10,640 | — |
+| owomvvssuv | 0 | 0 | 1 | — | $10,127 | — |
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| owomvvssuv | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | 1.01 (99¢) | $10,127 | — | ⏳ Pendiente |
+| -Malfunction | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | 1.01 (99¢) | $19,800 | — | ⏳ Pendiente |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | 1.01 (99¢) | $39,600 | — | ⏳ Pendiente |
+| backback | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | 1.09 (92¢) | $10,473 | — | ⏳ Pendiente |
 | Orlandxx | Valorant: JD Gaming vs EDward Gaming (BO3) - VCT China Stage 2 Play-Ins | JD Gaming | — (100¢) | $13,007 | — | ⏳ Pendiente |
 | degenofweb3 | Game Handicap: HLE (-2.5) vs DN SOOPers (+2.5) | DN SOOPers | — (100¢) | $14,985 | — | ⏳ Pendiente |
 | five5120 | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | DN SOOPers | — (100¢) | $12,178 | — | ⏳ Pendiente |
