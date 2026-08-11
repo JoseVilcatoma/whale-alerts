@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 16:17:59 (hora de Perú)
+Actualizado: 2026-08-11 16:20:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $349.36
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 108 | 94 | 18 | -31.55 USD |
+| swisstony | 108 | 94 | 19 | -31.55 USD |
 | RN1 | 173 | 99 | 5 | -33.33 USD |
 | quavoo | 151 | 181 | 12 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -413,6 +413,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 63% | 1.21 | ⏳ pendiente | — |
 | Sassy-Bucket | New York Mets vs. Atlanta Braves: O/U 8. | Under (BUY) | 50% | 3.19 | ⏳ pendiente | — |
 | BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Paris Saint-Germain vs. Aston Villa | No (BUY) | 75% | 0.00 | ⏳ pendiente | — |
@@ -442,4 +443,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will CA Boca Juniors vs. Recoleta FC end | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Boca Juniors win on 2026-08-11? | Yes (BUY) | 80% | 0.00 | ⏳ pendiente | — |
 | RN1 | Spread: CA Boca Juniors (-1.5) | Recoleta FC (BUY) | 41% | 1.46 | ⏳ pendiente | — |
-| UpTheBlues | Spread: CA Boca Juniors (-1.5) | Recoleta FC (BUY) | 40% | 3.58 | ⏳ pendiente | — |
