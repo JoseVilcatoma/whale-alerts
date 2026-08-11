@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 20:23:45 (hora de Perú)
+Actualizado: 2026-08-10 20:25:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $188.70
-**Retorno acumulado:** -81.13%
+**Bankroll actual:** $250.68
+**Retorno acumulado:** -74.93%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,6 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | BrotherObama | 6 | 0 | 1 | +69.49 USD |
+| johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
@@ -26,7 +27,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Bulls94 | 1 | 0 | 3 | +7.96 USD |
 | lzh1 | 5 | 0 | 0 | +3.08 USD |
 | monkeymashingkeyboard | 3 | 0 | 9 | +2.86 USD |
-| johnbaster | 1 | 0 | 2 | +2.19 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
@@ -41,18 +41,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 22 | 17 | 3 | -4.25 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 128 | 85 | 33 | -7.52 USD |
+| UpTheBlues | 128 | 85 | 38 | -7.52 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 152 | 83 | 8 | -32.38 USD |
-| quavoo | 126 | 155 | 21 | -40.10 USD |
+| RN1 | 152 | 83 | 9 | -32.38 USD |
+| quavoo | 126 | 155 | 22 | -40.10 USD |
 | GoalLineGhost | 36 | 25 | 2 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 39 | -148.65 USD |
+| ferrariChampions2026 | 543 | 436 | 29 | -149.73 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -321,6 +321,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bra3-psc-con-2026-08-10-total-2pt5 | RN1, UpTheBlues |
 | wnba-tor-atl-2026-08-10-total-187pt5 | HomeRunHazard, ferrariChampions2026 |
 | wnba-tor-atl-2026-08-10-total-186pt5 | HomeRunHazard, ferrariChampions2026 |
+| mlb-nym-atl-2026-08-10-spread-away-1pt5 | HomeRunHazard, RN1 |
 | wnba-tor-atl-2026-08-10 | HomeRunHazard, ferrariChampions2026 |
 | bra3-psc-con-2026-08-10-psc | RN1, UpTheBlues |
 | wnba-chi-sea-2026-08-10 | monkeymashingkeyboard, quavoo |
@@ -329,6 +330,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 59% | 1.02 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Unión win on 2026-08-10? | No (BUY) | 60% | 0.62 | ⏳ pendiente | — |
+| UpTheBlues | Spread: CA Unión (-1.5) | CA Central Córdoba (BUY) | 88% | 1.62 | ⏳ pendiente | — |
+| quavoo | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 1.90 | ⏳ pendiente | — |
+| UpTheBlues | Chicago Sky vs. Seattle Storm: O/U 179.5 | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Unión win on 2026-08-10? | Yes (BUY) | 40% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will CA Unión win on 2026-08-10? | No (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | quavoo | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CA Central Córdoba win on 2026-08-1 | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Audax CS Italiano win on 2026-08-10 | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
@@ -352,10 +360,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 4.66 | ⏳ pendiente | — |
 | RN1 | Will Paysandu SC PA win on 2026-08-10? | Yes (BUY) | 11% | 0.19 | ⏳ pendiente | — |
 | UpTheBlues | Will Paysandu SC PA win on 2026-08-10? | No (BUY) | 88% | 0.28 | ⏳ pendiente | — |
-| UpTheBlues | Anapolis FC GO vs. Guarani FC SP: O/U 3. | Under (BUY) | 82% | 0.32 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Unión win on 2026-08-10? | No (BUY) | 44% | 0.51 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Atlanta Dream (-14.5) | Atlanta Dream (BUY) | 45% | 0.28 | ⏳ pendiente | — |
-| UpTheBlues | Will Audax CS Italiano win on 2026-08-10 | No (BUY) | 85% | 0.20 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 49% | 0.34 | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream | Atlanta Dream (BUY) | 88% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will CA Central Córdoba win on 2026-08-1 | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
