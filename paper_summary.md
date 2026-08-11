@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 15:09:27 (hora de Perú)
+Actualizado: 2026-08-11 15:11:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $336.27
@@ -17,11 +17,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 27 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 29 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
-| SDTrading | 2 | 6 | 0 | +17.41 USD |
+| SDTrading | 2 | 6 | 1 | +17.41 USD |
 | 0x4f2 | 16 | 14 | 3 | +16.69 USD |
 | HomeRunHazard | 93 | 83 | 30 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | dv-pm | 1 | 2 | 6 | -0.92 USD |
-| UpTheBlues | 170 | 111 | 93 | -0.95 USD |
+| UpTheBlues | 170 | 111 | 94 | -0.95 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -403,11 +403,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-stu1-fen-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 | ucl-lyo-spp-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 | mlb-cle-det-2026-08-11-total-8pt5 | Talvez10, quavoo |
+| mlb-sea-nyy-2026-08-11-total-7pt5 | SDTrading, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 45% | 0.00 | ⏳ pendiente | — |
+| SDTrading | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will AC Sparta Praha win on 2026-08-11? | No (BUY) | 99% | 0.00 | ⏳ pendiente | — |
 | quavoo | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | Talvez10 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 47% | 1.76 | ⏳ pendiente | — |
@@ -434,7 +439,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | ŠK Slovan Bratislava vs. Mjällby AIF: O/ | Under (BUY) | 79% | 0.50 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Liberty vs. Indiana Fever: O/U  | Under (BUY) | 47% | 0.94 | ⏳ pendiente | — |
 | UpTheBlues | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Under (BUY) | 97% | 0.81 | ⏳ pendiente | — |
-| UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 61% | 0.61 | ⏳ pendiente | — |
-| UpTheBlues | Will Olympique Lyonnais win on 2026-08-1 | No (BUY) | 27% | 0.36 | ⏳ pendiente | — |
-| swisstony | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 40% | 0.38 | ⏳ pendiente | — |
-| UpTheBlues | Will Deportivo Pereira win on 2026-08-10 | No (BUY) | 88% | 1.39 | ⏳ pendiente | — |
