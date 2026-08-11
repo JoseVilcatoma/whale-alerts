@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 13:38:25 (hora de Perú)
+Actualizado: 2026-08-11 13:40:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **18**  ($286,510 en total)
+- Apuestas registradas: **20**  ($322,352 en total)
 - Resueltas: **13** — 9 ganadas / 4 perdidas (**69%** de acierto)
-- Pendientes: 5
-- Apostadores distintos: 14
+- Pendientes: 7
+- Apostadores distintos: 15
 
 ### Balance
 
@@ -26,11 +26,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $54,960 | -$54,960 |
 | TAIWANNUMBERONE | 0 | 2 | 0 | ⚠️ 0% (2) | $30,272 | -$30,272 |
+| Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $29,744 | +$9,167 |
 | ferrariChampions2026 | 0 | 0 | 2 | — | $29,166 | — |
 | pleaseplease123 | 0 | 0 | 1 | — | $27,284 | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 2 | — | $27,215 | — |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 2 | 0 | 0 | ⚠️ 100% (2) | $21,062 | +$8,396 |
-| Lakersfan111 | 1 | 0 | 0 | ⚠️ 100% (1) | $17,024 | +$9,167 |
 | Weaseloftheweek | 0 | 1 | 0 | ⚠️ 0% (1) | $14,667 | -$14,667 |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 1 | 0 | 0 | ⚠️ 100% (1) | $11,063 | +$3,120 |
 | 0x076d…8d4c | 1 | 0 | 0 | ⚠️ 100% (1) | $11,037 | +$1,092 |
@@ -43,6 +44,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Lakersfan111 | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | Luminosity | 1.89 (53¢) | $12,720 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | GamerLegion | 2.13 (47¢) | $23,121 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Under 6.5 | 2.27 (44¢) | $11,951 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $18,143 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Miami Marlins: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $11,022 | — | ⏳ Pendiente |
