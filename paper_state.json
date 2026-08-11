@@ -1,5 +1,5 @@
 {
-  "bankroll": 327.50025089982415,
+  "bankroll": 318.1293573015112,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14325,6 +14325,76 @@
       "timestamp": 1786424065.1500685,
       "bankroll": 327.5,
       "event": "won: swisstony \u2014 Spread: Tampa Bay Rays (-2.5)"
+    },
+    {
+      "timestamp": 1786424692.290296,
+      "bankroll": 325.77,
+      "event": "lost: HomeRunHazard \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786424692.828578,
+      "bankroll": 316.75,
+      "event": "lost: HomeRunHazard \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786424693.2640061,
+      "bankroll": 316.13,
+      "event": "lost: quavoo \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786424693.3641858,
+      "bankroll": 316.13,
+      "event": "lost: quavoo \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786424694.5145485,
+      "bankroll": 316.13,
+      "event": "lost: quavoo \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786424694.6147385,
+      "bankroll": 316.13,
+      "event": "lost: quavoo \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786424694.7148733,
+      "bankroll": 316.13,
+      "event": "lost: quavoo \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786424695.2205439,
+      "bankroll": 315.68,
+      "event": "lost: quavoo \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786424697.1829894,
+      "bankroll": 318.86,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786424697.283172,
+      "bankroll": 317.27,
+      "event": "lost: HomeRunHazard \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786424697.3833518,
+      "bankroll": 317.77,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786424698.1847525,
+      "bankroll": 317.97,
+      "event": "won: swisstony \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786424698.8128166,
+      "bankroll": 318.55,
+      "event": "won: ferrariChampions2026 \u2014 Texas Rangers vs. Los Angeles Angels: O/U 4.5"
+    },
+    {
+      "timestamp": 1786424699.1133196,
+      "bankroll": 318.13,
+      "event": "lost: swisstony \u2014 Spread: Los Angeles Dodgers (-1.5)"
     }
   ]
 }
