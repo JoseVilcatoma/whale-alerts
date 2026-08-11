@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 20:15:28 (hora de Perú)
+Actualizado: 2026-08-10 20:17:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $188.70
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | RN1 | 152 | 83 | 7 | -32.38 USD |
-| quavoo | 126 | 155 | 19 | -40.10 USD |
+| quavoo | 126 | 155 | 20 | -40.10 USD |
 | GoalLineGhost | 36 | 25 | 2 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -323,11 +323,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-tor-atl-2026-08-10-total-186pt5 | HomeRunHazard, ferrariChampions2026 |
 | wnba-tor-atl-2026-08-10 | HomeRunHazard, ferrariChampions2026 |
 | bra3-psc-con-2026-08-10-psc | RN1, UpTheBlues |
+| wnba-chi-sea-2026-08-10 | monkeymashingkeyboard, quavoo |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CD Cuenca win on 2026-08-10? | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | quavoo | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 187 | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
@@ -357,4 +359,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will CA Unión vs. CA Central Córdoba end | Yes (BUY) | 27% | 0.27 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Unión vs. CA Central Córdoba end | Yes (BUY) | 27% | 0.26 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Central Córdoba win on 2026-08-1 | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Unión vs. CA Central Córdoba end | Yes (BUY) | 27% | 0.00 | ⏳ pendiente | — |
