@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 17:11:56 (hora de Perú)
+Actualizado: 2026-08-11 17:13:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $348.46
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 3 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 614 | 464 | 3 | -105.11 USD |
+| ferrariChampions2026 | 614 | 464 | 4 | -105.11 USD |
 | BrotherObama | 7 | 5 | 10 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -423,6 +423,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: cobblemon vs Grêmio Espo | Grêmio Esports (BUY) | 84% | 0.66 | ⏳ pendiente | — |
 | RN1 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: RMD Gaming vs RED Academy - Game 1  | RMD Gaming (BUY) | 77% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 82% | 0.00 | ⏳ pendiente | — |
@@ -452,4 +453,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 84% | 0.00 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 65% | 0.00 | ⏳ pendiente | — |
 | swisstony | CA Boca Juniors vs. Recoleta FC: Recolet | Under (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| quavoo | Will Charlotte FC win on 2026-08-11? | Yes (BUY) | 60% | 0.00 | ⏳ pendiente | — |
