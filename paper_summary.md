@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 21:04:36 (hora de Perú)
+Actualizado: 2026-08-10 21:06:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $250.44
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 49 | 44 | 0 | +26.87 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
-| HomeRunHazard | 48 | 47 | 29 | +18.61 USD |
+| HomeRunHazard | 48 | 47 | 31 | +18.61 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 3 | +7.96 USD |
@@ -41,10 +41,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 25 | 17 | 0 | -3.90 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 131 | 85 | 38 | -7.41 USD |
+| UpTheBlues | 131 | 85 | 40 | -7.41 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 152 | 84 | 8 | -32.80 USD |
+| RN1 | 152 | 84 | 9 | -32.80 USD |
 | quavoo | 126 | 155 | 23 | -40.10 USD |
 | GoalLineGhost | 36 | 25 | 2 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -301,7 +301,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swe-sir-bro-2026-08-10-total-4pt5 | GoalLineGhost, RN1 |
 | mlb-tb-oak-2026-08-10-total-9pt5 | HomeRunHazard, SDTrading |
 | lol-gen-dnf-2026-08-10-game2 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261, ferrariChampions2026 |
-| mlb-kc-lad-2026-08-10-total-7pt5 | Bulls94, ferrariChampions2026 |
+| mlb-kc-lad-2026-08-10-total-7pt5 | Bulls94, HomeRunHazard, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-10-spread-home-1pt5 | ferrariChampions2026, quavoo |
 | arg-uni-cac-2026-08-10-spread-home-1pt5 | GoalLineGhost, UpTheBlues |
 | mlb-tb-oak-2026-08-10-total-10pt5 | HomeRunHazard, quavoo |
@@ -330,6 +330,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 55% | 2.96 | ⏳ pendiente | — |
+| HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 63% | 3.23 | ⏳ pendiente | — |
+| UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 86% | 0.29 | ⏳ pendiente | — |
+| RN1 | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 67% | 0.80 | ⏳ pendiente | — |
+| UpTheBlues | Will FK Crvena zvezda win on 2026-08-11? | Yes (BUY) | 78% | 0.27 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 56% | 0.42 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 55% | 0.38 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Central Córdoba win on 2026-08-1 | Yes (BUY) | 85% | 1.73 | ⏳ pendiente | — |
@@ -355,8 +360,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will CD Cuenca win on 2026-08-10? | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | quavoo | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 187 | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| monkeymashingkeyboard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: paiN Academy vs QUINTESS | paiN Academy (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Audax CS Italiano win on 2026-08-10 | No (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: CD Cuenca (-1.5) | Manta FC (BUY) | 82% | 0.01 | ⏳ pendiente | — |
