@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 12:23:33 (hora de Perú)
+Actualizado: 2026-08-11 12:25:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $356.56
@@ -36,13 +36,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| swisstony | 53 | 33 | 92 | -0.89 USD |
+| swisstony | 53 | 33 | 94 | -0.89 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 154 | 103 | 73 | -8.78 USD |
+| UpTheBlues | 154 | 103 | 76 | -8.78 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | BrotherObama | 7 | 3 | 2 | -24.77 USD |
@@ -379,6 +379,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-sf-agf-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 | ucl-kai-pls-2026-08-11-spread-away-1pt5 | ferrariChampions2026, swisstony |
 | ucl-sf-agf-2026-08-11-btts | UpTheBlues, swisstony |
+| ucl-sf-agf-2026-08-11-sf | UpTheBlues, swisstony |
 | uel-sab-lar-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | col-al-bra-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 | ucl-nec-oly-2026-08-11-oly | UpTheBlues, swisstony |
@@ -388,6 +389,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 70% | 0.40 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 76% | 0.90 | ⏳ pendiente | — |
+| UpTheBlues | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 70% | 0.71 | ⏳ pendiente | — |
+| swisstony | Will GNK Dinamo Zagreb win on 2026-08-11 | Yes (BUY) | 81% | 0.53 | ⏳ pendiente | — |
+| UpTheBlues | Will Sabah FK win on 2026-08-11? | Yes (BUY) | 82% | 1.80 | ⏳ pendiente | — |
 | swisstony | Apóllon Lemesoú vs. SK Brann: O/U 4.5 | Under (BUY) | 80% | 0.57 | ⏳ pendiente | — |
 | swisstony | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 83% | 1.05 | ⏳ pendiente | — |
 | swisstony | Will Olympiakós SFP win on 2026-08-11? | No (BUY) | 68% | 0.49 | ⏳ pendiente | — |
@@ -413,8 +419,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | swisstony | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Under (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | swisstony | Sabah FK vs. Aarhus GF: Both Teams to Sc | No (BUY) | 74% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Mamelodi Sundowns win on 2026-08-11 | Yes (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will SK Brann win on 2026-08-11? | No (BUY) | 71% | 0.00 | ⏳ pendiente | — |
-| quavoo | NEC vs. Olympiakós SFP: O/U 2.5 | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| quavoo | NEC vs. Olympiakós SFP: Both Teams to Sc | Yes (BUY) | 60% | 0.79 | ⏳ pendiente | — |
-| BrotherObama | LoL: Kaufland Hangry Knights vs G2 NORD  | Kaufland Hangry Knights (BUY) | 22% | 54.57 | ⏳ pendiente | — |
