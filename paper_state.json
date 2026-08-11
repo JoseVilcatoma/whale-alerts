@@ -1,5 +1,5 @@
 {
-  "bankroll": 188.15536912635727,
+  "bankroll": 187.18536912635727,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12855,6 +12855,11 @@
       "timestamp": 1786408107.5828412,
       "bankroll": 188.16,
       "event": "won: RN1 \u2014 Will FCSB win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786408720.2561865,
+      "bankroll": 187.19,
+      "event": "lost: HomeRunHazard \u2014 New York Mets vs. Atlanta Braves: O/U 8.5"
     }
   ]
 }
