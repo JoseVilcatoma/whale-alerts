@@ -57382,5 +57382,72 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786407901.3287253,
     "fills": 1
+  },
+  {
+    "timestamp": 1786407992,
+    "timestamp_added": 1786407992.9230814,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-tor-atl-2026-08-10",
+    "title": "Toronto Tempo vs. Atlanta Dream",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "whale_usd": 2033.24,
+    "whale_pct": 0.697,
+    "paper_stake_usd": 1.29,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786407992.9230883,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786407998,
+    "timestamp_added": 1786407998.9515638,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-tb-oak-2026-08-10-spread-away-1pt5",
+    "title": "Spread: Tampa Bay Rays (-1.5)",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "whale_usd": 698.89,
+    "whale_pct": 0.58,
+    "paper_stake_usd": 0.47,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Forecastication2"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786407998.951582,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786408031,
+    "timestamp_added": 1786408031.5735497,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-uni-cac-2026-08-10-cac",
+    "title": "Will CA Central C\u00f3rdoba win on 2026-08-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 592.62,
+    "whale_pct": 0.564,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SnakeBall",
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786408031.5735562,
+    "fills": 1
   }
 ]

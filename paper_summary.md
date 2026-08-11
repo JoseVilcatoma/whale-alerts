@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 19:25:33 (hora de Perú)
+Actualizado: 2026-08-10 19:27:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $184.63
@@ -44,15 +44,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 128 | 85 | 22 | -7.52 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 151 | 83 | 6 | -32.82 USD |
-| quavoo | 126 | 155 | 14 | -40.10 USD |
+| RN1 | 151 | 83 | 7 | -32.82 USD |
+| quavoo | 126 | 155 | 15 | -40.10 USD |
 | GoalLineGhost | 36 | 25 | 2 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 31 | -148.65 USD |
+| ferrariChampions2026 | 538 | 431 | 32 | -148.65 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -314,7 +314,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | arg-ban-bel-2026-08-10-bel | UpTheBlues, swisstony |
 | ecu1-lib-uni-2026-08-10-total-1pt5 | UpTheBlues, swisstony |
 | uru1-mal-rcm-2026-08-10-mal | SnakeBall, UpTheBlues |
-| arg-uni-cac-2026-08-10-cac | SnakeBall, UpTheBlues |
+| arg-uni-cac-2026-08-10-cac | RN1, SnakeBall, UpTheBlues |
 | lol-los-png1-2026-08-10 | BrotherObama, SnakeBall |
 | ecu1-lib-uni-2026-08-10-lib | RN1, UpTheBlues |
 | bra3-psc-con-2026-08-10-total-2pt5 | RN1, UpTheBlues |
@@ -326,6 +326,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will CA Central Córdoba win on 2026-08-1 | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
+| quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 0.47 | ⏳ pendiente | — |
+| ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream | Atlanta Dream (BUY) | 88% | 1.29 | ⏳ pendiente | — |
 | UpTheBlues | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 92% | 0.20 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-13.5) | Atlanta Dream (BUY) | 55% | 0.38 | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 65% | 0.52 | ⏳ pendiente | — |
@@ -353,6 +356,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Toronto Tempo vs. Atlanta Dream: O/U 187 | Over (BUY) | 49% | 0.34 | ⏳ pendiente | — |
 | UpTheBlues | Will CA Unión vs. CA Central Córdoba end | Yes (BUY) | 27% | 0.29 | ⏳ pendiente | — |
 | UpTheBlues | Will CD Cuenca win on 2026-08-10? | No (BUY) | 47% | 0.43 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Unión win on 2026-08-10? | Yes (BUY) | 62% | 0.01 | ⏳ pendiente | — |
-| RN1 | Paysandu SC PA vs. AD Confianca SE: O/U  | Over (BUY) | 36% | 1.12 | ⏳ pendiente | — |
-| quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.45 | ⏳ pendiente | — |
