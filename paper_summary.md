@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 13:24:04 (hora de Perú)
+Actualizado: 2026-08-11 13:26:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $333.72
@@ -41,12 +41,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 160 | 104 | 85 | -8.59 USD |
+| UpTheBlues | 160 | 104 | 86 | -8.59 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | swisstony | 69 | 66 | 71 | -20.05 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | BrotherObama | 7 | 3 | 2 | -24.77 USD |
-| quavoo | 143 | 174 | 21 | -31.25 USD |
+| quavoo | 143 | 174 | 23 | -31.25 USD |
 | RN1 | 167 | 99 | 0 | -34.36 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -397,6 +397,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | NK Celje vs. Ararat-Armenia FA: Both Tea | No (BUY) | 50% | 0.36 | ⏳ pendiente | — |
+| quavoo | Will Fenerbahçe SK win on 2026-08-11? | Yes (BUY) | 56% | 0.34 | ⏳ pendiente | — |
+| quavoo | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Fenerbahçe SK (BUY) | 94% | 1.16 | ⏳ pendiente | — |
 | UpTheBlues | Will NEC win on 2026-08-11? | No (BUY) | 67% | 0.40 | ⏳ pendiente | — |
 | UpTheBlues | Apóllon Lemesoú vs. SK Brann: O/U 2.5 | Under (BUY) | 76% | 0.46 | ⏳ pendiente | — |
 | UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | No (BUY) | 52% | 0.35 | ⏳ pendiente | — |
@@ -424,6 +427,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will SK Iberia 1999 vs. Larne FC end in  | Yes (BUY) | 69% | 0.45 | ⏳ pendiente | — |
 | UpTheBlues | Will Larne FC win on 2026-08-11? | No (BUY) | 92% | 0.73 | ⏳ pendiente | — |
 | UpTheBlues | Will GNK Dinamo Zagreb win on 2026-08-11 | No (BUY) | 11% | 0.39 | ⏳ pendiente | — |
-| swisstony | FK CSKA 1948 Sofia vs. Panathinaikós AO: | Under (BUY) | 77% | 0.70 | ⏳ pendiente | — |
-| swisstony | Will Panathinaikós AO win on 2026-08-11? | No (BUY) | 45% | 0.41 | ⏳ pendiente | — |
-| UpTheBlues | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 46% | 1.05 | ❌ perdida | -1.05 |
