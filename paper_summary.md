@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 22:52:19 (hora de Perú)
+Actualizado: 2026-08-10 22:54:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $264.90
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 49 | 44 | 7 | +26.87 USD |
-| HomeRunHazard | 58 | 53 | 59 | +26.58 USD |
+| HomeRunHazard | 58 | 53 | 62 | +26.58 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 14 | 13 | 0 | +17.00 USD |
@@ -347,6 +347,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: San Francisco Giants (-1.5) | Houston Astros (BUY) | 86% | 0.58 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: San Francisco Giants (-1.5) | Houston Astros (BUY) | 84% | 0.57 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Los Angeles Angels (-1.5) | Texas Rangers (BUY) | 78% | 0.41 | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 63% | 0.68 | ⏳ pendiente | — |
 | RN1 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 22% | 0.44 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 84% | 0.28 | ⏳ pendiente | — |
@@ -374,6 +377,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Spread: San Diego Padres (-1.5) | Milwaukee Brewers (BUY) | 58% | 4.10 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: San Diego Padres (-1.5) | Milwaukee Brewers (BUY) | 63% | 0.34 | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Athletics: O/U 8.5 | Under (BUY) | 56% | 0.26 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago Sky vs. Seattle Storm: O/U 183.5 | Under (BUY) | 55% | 0.34 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 79% | 0.41 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 27% | 0.27 | ⏳ pendiente | — |
