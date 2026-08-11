@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 00:42:41 (hora de Perú)
+Actualizado: 2026-08-11 00:44:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
-| 0x4f2 | 16 | 13 | 3 | +17.16 USD |
+| 0x4f2 | 16 | 13 | 4 | +17.16 USD |
 | HomeRunHazard | 93 | 83 | 0 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
@@ -352,6 +352,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 0x4f2 | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 52% | 1.23 | ⏳ pendiente | — |
 | UpTheBlues | FK Crvena zvezda vs. MH Hapoel Be'er She | Over (BUY) | 97% | 0.72 | ⏳ pendiente | — |
 | UpTheBlues | Will FK Crvena zvezda win on 2026-08-11? | Yes (BUY) | 78% | 1.68 | ⏳ pendiente | — |
 | 0x4f2 | FK Kauno Žalgiris vs. GNK Dinamo Zagreb: | Over (BUY) | 37% | 0.47 | ⏳ pendiente | — |
@@ -381,4 +382,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | CA Talleres vs. CA Lanús: Both Teams to  | Yes (BUY) | 41% | 0.50 | ⏳ pendiente | — |
 | UpTheBlues | Will TS Galaxy FC win on 2026-08-11? | No (BUY) | 87% | 0.45 | ⏳ pendiente | — |
 | UpTheBlues | Will Larne FC win on 2026-08-11? | No (BUY) | 83% | 0.88 | ⏳ pendiente | — |
-| HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 54% | 0.70 | ✅ ganada | +0.60 |
