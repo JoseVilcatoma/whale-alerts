@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 07:48:38 (hora de Perú)
+Actualizado: 2026-08-11 07:50:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **64**  ($1,801,912 en total)
+- Apuestas registradas: **67**  ($2,029,184 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 61
+- Pendientes: 64
 - Apostadores distintos: 41
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
@@ -17,15 +17,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
+| zvon3 | 0 | 0 | 2 | — | $219,081 | — |
 | -Malfunction | 0 | 0 | 8 | — | $191,265 | — |
+| landighertz | 0 | 0 | 2 | — | $138,661 | — |
 | cc9999 | 0 | 0 | 3 | — | $135,760 | — |
 | bajacaligold | 0 | 0 | 2 | — | $128,951 | — |
-| zvon3 | 0 | 0 | 1 | — | $109,790 | — |
+| littlelonely888 | 0 | 0 | 2 | — | $119,880 | — |
 | CoinTrick | 0 | 0 | 1 | — | $79,920 | — |
 | ilushin | 0 | 0 | 2 | — | $78,521 | — |
 | five5120 | 0 | 0 | 3 | — | $73,066 | — |
-| littlelonely888 | 0 | 0 | 1 | — | $70,929 | — |
-| landighertz | 0 | 0 | 1 | — | $69,630 | — |
 | avonking | 0 | 0 | 1 | — | $60,140 | — |
 | Weaseloftheweek | 0 | 0 | 1 | — | $57,141 | — |
 | retroactivesource | 0 | 0 | 1 | — | $54,960 | — |
@@ -64,6 +64,9 @@ _(mostrando los 40 de mayor monto, de 41 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| landighertz | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | — (100¢) | $69,031 | — | ⏳ Pendiente |
+| littlelonely888 | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | — (100¢) | $48,951 | — | ⏳ Pendiente |
+| zvon3 | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | — (100¢) | $109,291 | — | ⏳ Pendiente |
 | CoinTrick | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | — (100¢) | $79,920 | — | ⏳ Pendiente |
 | bajacaligold | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | — (100¢) | $50,929 | — | ⏳ Pendiente |
 | cc9999 | LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner | Dplus KIA Challengers | — (100¢) | $78,921 | — | ⏳ Pendiente |
@@ -121,6 +124,3 @@ _(mostrando los 40 de mayor monto, de 41 en total)_
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.39 (72¢) | $10,570 | — | ⏳ Pendiente |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.41 (71¢) | $10,492 | — | ⏳ Pendiente |
 | Lakersfan111 | Game Handicap: HLE (-2.5) vs DN SOOPers (+2.5) | DN SOOPers | 1.54 (65¢) | $17,024 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | LoL: Hanwha Life Esports vs DN SOOPers - Game 1 Winner | Hanwha Life Esports | 1.41 (71¢) | $17,114 | — | ⏳ Pendiente |
-| retroactivesource | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | Hanwha Life Esports | 1.23 (81¢) | $54,960 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | Hanwha Life Esports | 1.25 (80¢) | $13,159 | — | ⏳ Pendiente |
