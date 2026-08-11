@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 05:47:16 (hora de Perú)
+Actualizado: 2026-08-11 05:49:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $423.02
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 20 | 7 | 11 | +101.00 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| BrotherObama | 7 | 1 | 1 | +63.29 USD |
+| BrotherObama | 7 | 1 | 2 | +63.29 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | wr0ngw4yb3tt0r | 52 | 48 | 0 | +36.60 USD |
@@ -357,6 +357,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: Hanwha Life Esports vs DN SOOPers - | Hanwha Life Esports (BUY) | 24% | 37.10 | ⏳ pendiente | — |
 | lzh1 | LoL: Hanwha Life Esports vs DN SOOPers - | Hanwha Life Esports (BUY) | 23% | 5.37 | ⏳ pendiente | — |
 | BrotherObama | LoL: Hanwha Life Esports vs DN SOOPers - | Hanwha Life Esports (BUY) | 23% | 63.94 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Natus Vincere (BUY) | 54% | 1.03 | ⏳ pendiente | — |
@@ -386,4 +387,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | quavoo | Palermo FC vs. Juventus Turin: O/U 3.5 | Under (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
