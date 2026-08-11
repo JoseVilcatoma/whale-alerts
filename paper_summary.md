@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 14:05:49 (hora de Perú)
+Actualizado: 2026-08-11 14:07:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $323.63
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 162 | 109 | 89 | -13.72 USD |
+| UpTheBlues | 162 | 109 | 90 | -13.72 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 73 | 73 | 73 | -24.64 USD |
@@ -405,6 +405,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | NK Celje vs. Ararat-Armenia FA: O/U 4.5 | Under (BUY) | 98% | 0.35 | ⏳ pendiente | — |
 | UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 61% | 0.61 | ⏳ pendiente | — |
 | UpTheBlues | Will Olympique Lyonnais win on 2026-08-1 | No (BUY) | 27% | 0.36 | ⏳ pendiente | — |
 | swisstony | Olympique Lyonnais vs. AC Sparta Praha:  | Over (BUY) | 40% | 0.38 | ⏳ pendiente | — |
@@ -434,4 +435,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Yes (BUY) | 61% | 0.36 | ⏳ pendiente | — |
 | UpTheBlues | NK Celje vs. Ararat-Armenia FA: Both Tea | No (BUY) | 50% | 0.36 | ⏳ pendiente | — |
 | quavoo | Will Fenerbahçe SK win on 2026-08-11? | Yes (BUY) | 56% | 0.34 | ⏳ pendiente | — |
-| quavoo | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Fenerbahçe SK (BUY) | 94% | 1.16 | ⏳ pendiente | — |
