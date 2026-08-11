@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 07:01:13 (hora de Perú)
+Actualizado: 2026-08-11 07:03:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **53**  ($1,387,715 en total)
+- Apuestas registradas: **55**  ($1,433,722 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 50
-- Apostadores distintos: 35
+- Pendientes: 52
+- Apostadores distintos: 36
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -20,6 +20,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | -Malfunction | 0 | 0 | 8 | — | $191,265 | — |
 | zvon3 | 0 | 0 | 1 | — | $109,790 | — |
 | bajacaligold | 0 | 0 | 1 | — | $78,022 | — |
+| five5120 | 0 | 0 | 3 | — | $73,066 | — |
 | littlelonely888 | 0 | 0 | 1 | — | $70,929 | — |
 | landighertz | 0 | 0 | 1 | — | $69,630 | — |
 | avonking | 0 | 0 | 1 | — | $60,140 | — |
@@ -27,7 +28,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | cc9999 | 0 | 0 | 2 | — | $56,839 | — |
 | retroactivesource | 0 | 0 | 1 | — | $54,960 | — |
 | c4a759e5c9350491AF61646f2c4A46 | 1 | 0 | 1 | ⚠️ 100% (1) | $52,134 | +$0 |
-| five5120 | 0 | 0 | 2 | — | $46,342 | — |
 | 0x427c…e8b5 | 0 | 0 | 1 | — | $44,955 | — |
 | BBQChickenisthebesttt | 0 | 0 | 1 | — | $39,600 | — |
 | ilushin | 0 | 0 | 1 | — | $39,560 | — |
@@ -40,6 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 0 | 0 | 2 | — | $25,955 | — |
 | ProudIsraeli | 2 | 0 | 0 | ⚠️ 100% (2) | $25,065 | +$0 |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 2 | — | $21,062 | — |
+| LuckyWin | 0 | 0 | 1 | — | $19,282 | — |
 | LUCKYME001 | 0 | 0 | 1 | — | $18,941 | — |
 | 0x3b63B79D5D00A254ff0105792e04984F64654AcD-1768687235269 | 0 | 0 | 1 | — | $17,985 | — |
 | Lakersfan111 | 0 | 0 | 1 | — | $17,024 | — |
@@ -57,6 +58,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| five5120 | LoL: Hanwha Life Esports vs DN SOOPers - Game 3 Winner | DN SOOPers | — (100¢) | $26,724 | — | ⏳ Pendiente |
+| LuckyWin | LoL: Hanwha Life Esports vs DN SOOPers - Game 3 Winner | DN SOOPers | — (100¢) | $19,282 | — | ⏳ Pendiente |
 | 0xA7614974FAca5Be9A1b809c978d0A8FC532a866B-1777736641378 | Bitcoin Up or Down - August 11, 7:55AM-8:00AM ET | Up | — (100¢) | $15,984 | — | ⏳ Pendiente |
 | 0x427c…e8b5 | Bitcoin Up or Down - August 11, 7:55AM-8:00AM ET | Up | — (100¢) | $44,955 | — | ⏳ Pendiente |
 | 0x7b84…940f | Bitcoin Up or Down - August 11, 7:55AM-8:00AM ET | Up | — (100¢) | $34,116 | — | ⏳ Pendiente |
