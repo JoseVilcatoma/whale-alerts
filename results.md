@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 07:03:17 (hora de Perú)
+Actualizado: 2026-08-11 07:05:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **55**  ($1,433,722 en total)
+- Apuestas registradas: **56**  ($1,463,523 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 52
-- Apostadores distintos: 36
+- Pendientes: 53
+- Apostadores distintos: 37
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
@@ -34,6 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xA7614974FAca5Be9A1b809c978d0A8FC532a866B-1777736641378 | 0 | 0 | 2 | — | $35,464 | — |
 | 0x7b84…940f | 0 | 0 | 1 | — | $34,116 | — |
 | TAIWANNUMBERONE | 0 | 0 | 2 | — | $30,272 | — |
+| 033033033 | 0 | 0 | 1 | — | $29,801 | — |
 | backback | 0 | 0 | 2 | — | $29,083 | — |
 | Emethod | 0 | 0 | 2 | — | $28,001 | — |
 | degenofweb3 | 0 | 0 | 2 | — | $26,340 | — |
@@ -58,6 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 033033033 | Will HULIGANI Win The International 2026? | No | — (100¢) | $29,801 | — | ⏳ Pendiente |
 | five5120 | LoL: Hanwha Life Esports vs DN SOOPers - Game 3 Winner | DN SOOPers | — (100¢) | $26,724 | — | ⏳ Pendiente |
 | LuckyWin | LoL: Hanwha Life Esports vs DN SOOPers - Game 3 Winner | DN SOOPers | — (100¢) | $19,282 | — | ⏳ Pendiente |
 | 0xA7614974FAca5Be9A1b809c978d0A8FC532a866B-1777736641378 | Bitcoin Up or Down - August 11, 7:55AM-8:00AM ET | Up | — (100¢) | $15,984 | — | ⏳ Pendiente |

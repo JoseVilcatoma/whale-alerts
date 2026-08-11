@@ -713,5 +713,18 @@
     "usd": 19282.17852,
     "odds_at_bet": 100,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33366,
+    "timestamp": 1786449879,
+    "username": "033033033",
+    "wallet": "0xd1c769317bd15de7768a70d0214cf0bbcc531d2b",
+    "slug": "will-huligani-win-the-international-2026-20260629212053624",
+    "title": "Will HULIGANI Win The International 2026?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 29800.86892,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
