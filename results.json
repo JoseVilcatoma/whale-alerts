@@ -361,7 +361,7 @@
     "side": "BUY",
     "usd": 19978.749999,
     "odds_at_bet": 71,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 33824,
@@ -452,6 +452,32 @@
     "side": "BUY",
     "usd": 10481.5344,
     "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33868,
+    "timestamp": 1786483786,
+    "username": "BreakTheBank",
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "slug": "mlb-cle-det-2026-08-11",
+    "title": "Cleveland Guardians vs. Detroit Tigers",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 22107.4216,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33869,
+    "timestamp": 1786483786,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-cle-det-2026-08-11",
+    "title": "Cleveland Guardians vs. Detroit Tigers",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "usd": 33599.9944,
+    "odds_at_bet": 56,
     "status": "pending"
   }
 ]
