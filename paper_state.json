@@ -1,5 +1,5 @@
 {
-  "bankroll": 322.04100295770326,
+  "bankroll": 341.50085405451995,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14500,6 +14500,16 @@
       "timestamp": 1786427200.1268961,
       "bankroll": 322.04,
       "event": "won: ferrariChampions2026 \u2014 Counter-Strike: paiN Academy vs QUINTESS\u00caNCIA (BO3) - CCT South America Challengers #2 Playoffs"
+    },
+    {
+      "timestamp": 1786441527.8527727,
+      "bankroll": 352.95,
+      "event": "venta anticipada: BBQChickenisthebesttt \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 1 Winner (+30.91 USD)"
+    },
+    {
+      "timestamp": 1786441540.962775,
+      "bankroll": 341.5,
+      "event": "venta anticipada: BBQChickenisthebesttt \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group (-11.45 USD)"
     }
   ]
 }
