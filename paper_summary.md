@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 11:08:27 (hora de Perú)
+Actualizado: 2026-08-11 11:10:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $340.35
-**Retorno acumulado:** -65.96%
+**Bankroll actual:** $364.42
+**Retorno acumulado:** -63.56%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 23 | 16 | 6 | +165.42 USD |
+| BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
@@ -33,14 +33,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | dv-pm | 0 | 0 | 8 | +0.00 USD |
-| Weaseloftheweek | 0 | 0 | 2 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
+| Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
+| Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 35 | 25 | 44 | -4.23 USD |
-| Lakersfan111 | 2 | 4 | 2 | -4.76 USD |
+| swisstony | 35 | 25 | 47 | -4.23 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -369,6 +369,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 59% | 0.60 | ⏳ pendiente | — |
+| swisstony | Al Jazira (UAE) vs. Al-Ittihad Club: O/U | Under (BUY) | 49% | 0.74 | ⏳ pendiente | — |
+| swisstony | Sabah FK vs. Aarhus GF: O/U 2.5 | Under (BUY) | 47% | 0.54 | ⏳ pendiente | — |
 | swisstony | SK Iberia 1999 vs. Larne FC: Both Teams  | No (BUY) | 58% | 1.00 | ⏳ pendiente | — |
 | swisstony | Will Sabah FK win on 2026-08-11? | No (BUY) | 50% | 0.69 | ⏳ pendiente | — |
 | swisstony | Will Sabah FK vs. Aarhus GF end in a dra | No (BUY) | 73% | 6.51 | ⏳ pendiente | — |
@@ -396,6 +399,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Qairat FK vs. PFK Levski Sofia: O/U 2.5 | Under (BUY) | 64% | 0.70 | ⏳ pendiente | — |
 | swisstony | Will PFK Levski Sofia win on 2026-08-11? | No (BUY) | 34% | 0.58 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 49% | 0.68 | ⏳ pendiente | — |
-| swisstony | Will PFK Levski Sofia win on 2026-08-11? | No (BUY) | 34% | 0.59 | ⏳ pendiente | — |
-| swisstony | Qairat FK vs. PFK Levski Sofia: Both Tea | No (BUY) | 48% | 0.85 | ⏳ pendiente | — |
-| swisstony | Spread: FK Bodø/Glimt (-2.5) | RU Saint-Gilloise (BUY) | 84% | 1.16 | ⏳ pendiente | — |

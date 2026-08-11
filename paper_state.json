@@ -1,5 +1,5 @@
 {
-  "bankroll": 340.3518282910944,
+  "bankroll": 364.42182829109436,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14780,6 +14780,56 @@
       "timestamp": 1786463306.5016336,
       "bankroll": 340.35,
       "event": "won: BBQChickenisthebesttt \u2014 LoL: Nongshim Esports Academy vs Dplus KIA Challengers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786464554.9625313,
+      "bankroll": 340.91,
+      "event": "won: Lakersfan111 \u2014 LoL: Nongshim Esports Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1786464555.0627058,
+      "bankroll": 342.56,
+      "event": "won: Lakersfan111 \u2014 LoL: Nongshim Esports Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1786464555.9305575,
+      "bankroll": 342.56,
+      "event": "won: BBQChickenisthebesttt \u2014 LoL: Nongshim Esports Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1786464556.3457384,
+      "bankroll": 344.36,
+      "event": "won: BBQChickenisthebesttt \u2014 LoL: Nongshim Esports Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1786464556.4459193,
+      "bankroll": 345.04,
+      "event": "won: BBQChickenisthebesttt \u2014 LoL: Nongshim Esports Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1786464556.5461314,
+      "bankroll": 346.17,
+      "event": "won: BBQChickenisthebesttt \u2014 LoL: Nongshim Esports Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1786464556.6462922,
+      "bankroll": 351.12,
+      "event": "won: BBQChickenisthebesttt \u2014 LoL: Nongshim Esports Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1786464556.7464473,
+      "bankroll": 366.74,
+      "event": "won: BBQChickenisthebesttt \u2014 LoL: Nongshim Esports Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1786464559.6560268,
+      "bankroll": 364.42,
+      "event": "lost: Weaseloftheweek \u2014 Dota 2: MOUZ vs Rune Eaters - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786464560.1537461,
+      "bankroll": 364.42,
+      "event": "lost: Weaseloftheweek \u2014 Dota 2: MOUZ vs Rune Eaters - Game 2 Winner"
     }
   ]
 }
