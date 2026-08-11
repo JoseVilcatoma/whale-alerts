@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 19:27:35 (hora de Perú)
+Actualizado: 2026-08-10 19:29:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $184.63
-**Retorno acumulado:** -81.54%
+**Bankroll actual:** $188.16
+**Retorno acumulado:** -81.18%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -24,13 +24,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 46 | 46 | 29 | +16.54 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 0 | 3 | +7.96 USD |
+| lzh1 | 5 | 0 | 0 | +3.08 USD |
 | monkeymashingkeyboard | 3 | 0 | 6 | +2.86 USD |
 | johnbaster | 1 | 0 | 2 | +2.19 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | SDTrading | 0 | 5 | 3 | +0.00 USD |
 | BBQChickenisthebesttt | 5 | 4 | 0 | +0.00 USD |
-| lzh1 | 1 | 0 | 4 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | VD721lsj4938Dk388 | 0 | 0 | 1 | +0.00 USD |
 | VeryLucky888 | 1 | 0 | 2 | +0.00 USD |
@@ -41,10 +41,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | swisstony | 22 | 17 | 3 | -4.25 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| UpTheBlues | 128 | 85 | 22 | -7.52 USD |
+| UpTheBlues | 128 | 85 | 23 | -7.52 USD |
 | Forecastication2 | 3 | 20 | 8 | -9.29 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 151 | 83 | 7 | -32.82 USD |
+| RN1 | 152 | 83 | 6 | -32.38 USD |
 | quavoo | 126 | 155 | 15 | -40.10 USD |
 | GoalLineGhost | 36 | 25 | 2 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
-| ferrariChampions2026 | 538 | 431 | 32 | -148.65 USD |
+| ferrariChampions2026 | 538 | 431 | 34 | -148.65 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -279,7 +279,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-10-spread-home-1pt5 | HomeRunHazard, quavoo |
 | lec-ame-por-2026-08-09-total-3pt5 | NordhavenCap, ferrariChampions2026 |
 | lol-hle1-gen-2026-08-10 | Djdjdjekekek, fRibrenlc, ferrariChampions2026 |
-| wnba-tor-atl-2026-08-10-spread-home-12pt5 | HomeRunHazard, monkeymashingkeyboard |
+| wnba-tor-atl-2026-08-10-spread-home-12pt5 | HomeRunHazard, ferrariChampions2026, monkeymashingkeyboard |
 | wnba-tor-atl-2026-08-10-total-184pt5 | HomeRunHazard, ferrariChampions2026 |
 | lol-dnsc-ktc-2026-08-10 | Forecastication2, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-10-total-7pt5 | HomeRunHazard, quavoo |
@@ -326,6 +326,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Audax CS Italiano win on 2026-08-10 | No (BUY) | 85% | 0.20 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Atlanta Dream (-12.5) | Atlanta Dream (BUY) | 49% | 0.34 | ⏳ pendiente | — |
+| ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream | Atlanta Dream (BUY) | 88% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will CA Central Córdoba win on 2026-08-1 | No (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | quavoo | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 0.47 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream | Atlanta Dream (BUY) | 88% | 1.29 | ⏳ pendiente | — |
@@ -353,6 +356,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 186 | Under (BUY) | 50% | 0.29 | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Tempo vs. Atlanta Dream: O/U 186 | Over (BUY) | 51% | 0.67 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Tempo vs. Atlanta Dream: O/U 187 | Under (BUY) | 51% | 0.39 | ⏳ pendiente | — |
-| HomeRunHazard | Toronto Tempo vs. Atlanta Dream: O/U 187 | Over (BUY) | 49% | 0.34 | ⏳ pendiente | — |
-| UpTheBlues | Will CA Unión vs. CA Central Córdoba end | Yes (BUY) | 27% | 0.29 | ⏳ pendiente | — |
-| UpTheBlues | Will CD Cuenca win on 2026-08-10? | No (BUY) | 47% | 0.43 | ⏳ pendiente | — |

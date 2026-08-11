@@ -1,5 +1,5 @@
 {
-  "bankroll": 184.63453579302396,
+  "bankroll": 188.15536912635727,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -12830,6 +12830,31 @@
       "timestamp": 1786407921.4845595,
       "bankroll": 184.63,
       "event": "lost: UpTheBlues \u2014 Will CA Belgrano win on 2026-08-10?"
+    },
+    {
+      "timestamp": 1786408106.919464,
+      "bankroll": 185.24,
+      "event": "won: lzh1 \u2014 Will FCSB win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786408107.019613,
+      "bankroll": 186.01,
+      "event": "won: lzh1 \u2014 Will FCSB win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786408107.1197612,
+      "bankroll": 186.58,
+      "event": "won: lzh1 \u2014 Will FCSB win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786408107.219907,
+      "bankroll": 187.71,
+      "event": "won: lzh1 \u2014 Will FCSB win on 2026-08-09?"
+    },
+    {
+      "timestamp": 1786408107.5828412,
+      "bankroll": 188.16,
+      "event": "won: RN1 \u2014 Will FCSB win on 2026-08-09?"
     }
   ]
 }
