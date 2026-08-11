@@ -141,5 +141,31 @@
     "usd": 10967.9175,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33266,
+    "timestamp": 1786437295,
+    "username": "-Malfunction",
+    "wallet": "0xfc25f141ed27bb1787338d2c4e7f51e3a15e1f7f",
+    "slug": "lol-drxc-foxy-2026-08-11-game1",
+    "title": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 1 Winner",
+    "outcome": "Kiwoom DRX Challengers",
+    "side": "BUY",
+    "usd": 45167.54724,
+    "odds_at_bet": 100,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 33267,
+    "timestamp": 1786437295,
+    "username": "-Malfunction",
+    "wallet": "0xfc25f141ed27bb1787338d2c4e7f51e3a15e1f7f",
+    "slug": "lol-drxc-foxy-2026-08-11-game1",
+    "title": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 1 Winner",
+    "outcome": "Kiwoom DRX Challengers",
+    "side": "BUY",
+    "usd": 49950.0,
+    "odds_at_bet": 100,
+    "status": "pending"
   }
 ]
