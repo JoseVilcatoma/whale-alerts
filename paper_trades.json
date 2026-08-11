@@ -65243,5 +65243,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786454936.9545403,
     "fills": 2
+  },
+  {
+    "timestamp": 1786455044,
+    "timestamp_added": 1786455045.1408753,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-col-ari-2026-08-11-total-9pt5",
+    "title": "Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2364.0,
+    "whale_pct": 2.323,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786455045.1408842,
+    "fills": 1
   }
 ]
