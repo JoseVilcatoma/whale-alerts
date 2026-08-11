@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 06:47:44 (hora de Perú)
+Actualizado: 2026-08-11 06:49:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $334.96
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| wr0ngw4yb3tt0r | 52 | 48 | 0 | +36.60 USD |
+| wr0ngw4yb3tt0r | 52 | 48 | 1 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -358,6 +358,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | O/U 1.5 Rounds | Under (BUY) | 61% | 3.04 | ⏳ pendiente | — |
 | UpTheBlues | Spread: CD Universidad Católica (-1.5) | Estudiantes de La Plata (BUY) | 96% | 0.56 | ⏳ pendiente | — |
 | lzh1 | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 49% | 17.70 | ⏳ pendiente | — |
 | UpTheBlues | Will Qairat FK vs. PFK Levski Sofia end  | Yes (BUY) | 30% | 0.64 | ⏳ pendiente | — |
@@ -387,4 +388,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Level UP vs Natus Vincere - Game | Level UP (BUY) | 44% | 0.62 | ⏳ pendiente | — |
 | lzh1 | LoL: Hanwha Life Esports vs DN SOOPers - | Hanwha Life Esports (BUY) | 25% | 26.99 | ⏳ pendiente | — |
 | lzh1 | LoL: Hanwha Life Esports vs DN SOOPers - | Hanwha Life Esports (BUY) | 25% | 3.75 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 69% | 3.67 | 💰 vendida anticipada | +1.60 |
