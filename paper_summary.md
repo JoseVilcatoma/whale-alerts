@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 03:30:03 (hora de Perú)
+Actualizado: 2026-08-11 03:32:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $322.04
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
 | 0x4f2 | 16 | 13 | 4 | +17.16 USD |
-| HomeRunHazard | 93 | 83 | 0 | +15.57 USD |
+| HomeRunHazard | 93 | 83 | 1 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | lzh1 | 5 | 0 | 0 | +3.08 USD |
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
-| BBQChickenisthebesttt | 5 | 4 | 12 | +0.00 USD |
+| BBQChickenisthebesttt | 5 | 4 | 13 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | dv-pm | 0 | 0 | 3 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 8 | +0.00 USD |
@@ -349,11 +349,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-10-spread-home-2pt5 | HomeRunHazard, swisstony |
 | mlb-tex-laa-2026-08-10-spread-home-1pt5 | HomeRunHazard, swisstony |
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
+| lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 73% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | dv-pm | SK Puntigamer Sturm Graz vs. Fenerbahçe  | Over (BUY) | 37% | 0.00 | ⏳ pendiente | — |
@@ -382,5 +385,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 86% | 0.39 | ⏳ pendiente | — |
 | UpTheBlues | Will Qairat FK win on 2026-08-11? | No (BUY) | 64% | 0.52 | ⏳ pendiente | — |
 | UpTheBlues | CA Talleres vs. CA Lanús: O/U 2.5 | Over (BUY) | 34% | 0.71 | ⏳ pendiente | — |
-| quavoo | Will Columbus Crew win on 2026-08-11? | Yes (BUY) | 61% | 3.71 | ⏳ pendiente | — |
-| quavoo | Will Juventus Turin win on 2026-08-11? | Yes (BUY) | 69% | 2.68 | ⏳ pendiente | — |
