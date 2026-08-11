@@ -63744,5 +63744,70 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786439618.7266822,
     "fills": 3
+  },
+  {
+    "timestamp": 1786439989,
+    "timestamp_added": 1786439989.9337654,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-hle1-dnf-2026-08-11",
+    "title": "LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 3800.0,
+    "whale_pct": 8.119,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786439989.9337728,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786439989,
+    "timestamp_added": 1786439990.3791041,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-drxc-foxy-2026-08-11-game2",
+    "title": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner",
+    "outcome": "Kiwoom DRX Challengers",
+    "side": "BUY",
+    "whale_usd": 110.16143699999998,
+    "whale_pct": 0.235,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786439990.3791118,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786439989,
+    "timestamp_added": 1786439990.9741867,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-hle1-dnf-2026-08-11",
+    "title": "LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 1546.6992,
+    "whale_pct": 13.522,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 24,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BBQChickenisthebesttt",
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786439990.9741964,
+    "fills": 1
   }
 ]
