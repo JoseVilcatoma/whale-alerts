@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 10:12:18 (hora de Perú)
+Actualizado: 2026-08-11 10:14:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $294.10
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 151 | 101 | 62 | -8.33 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| RN1 | 163 | 90 | 4 | -20.90 USD |
+| RN1 | 163 | 90 | 5 | -20.90 USD |
 | BrotherObama | 7 | 3 | 0 | -24.77 USD |
 | quavoo | 142 | 173 | 11 | -30.91 USD |
 | lzh1 | 5 | 3 | 5 | -33.03 USD |
@@ -365,6 +365,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Qairat FK vs. PFK Levski Sofia: 1st Half | Under (BUY) | 48% | 0.52 | ⏳ pendiente | — |
 | HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 48% | 0.96 | ⏳ pendiente | — |
 | dv-pm | Sabah FK vs. Aarhus GF: 1st Half O/U 1.5 | Over (BUY) | 39% | 1.14 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 56% | 9.64 | ⏳ pendiente | — |
@@ -394,4 +395,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | swisstony | Qairat FK vs. PFK Levski Sofia: PFK Levs | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will FK Bodø/Glimt win on 2026-08-11? | Yes (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 50% | 0.00 | ⏳ pendiente | — |
