@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 15:42:45 (hora de Perú)
+Actualizado: 2026-08-11 15:44:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $347.46
-**Retorno acumulado:** -65.25%
+**Bankroll actual:** $347.59
+**Retorno acumulado:** -65.24%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | wr0ngw4yb3tt0r | 52 | 48 | 29 | +36.60 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| theowalcott | 7 | 4 | 0 | +25.74 USD |
+| theowalcott | 7 | 4 | 1 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 2 | 6 | 2 | +17.41 USD |
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| UpTheBlues | 201 | 128 | 50 | -1.00 USD |
+| UpTheBlues | 205 | 128 | 48 | -0.86 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 103 | 91 | 25 | -32.51 USD |
 | quavoo | 150 | 181 | 13 | -33.50 USD |
-| RN1 | 167 | 99 | 6 | -34.36 USD |
+| RN1 | 167 | 99 | 7 | -34.36 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 3 | -82.84 USD |
@@ -361,6 +361,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-bog-usg-2026-08-11-bog | quavoo, swisstony |
 | ucl-crv-hbs-2026-08-11-total-4pt5 | quavoo, swisstony |
 | ucl-kau-din-2026-08-11-total-3pt5 | 0x4f2, swisstony |
+| sud-boc-rec1-2026-08-11-total-2pt5 | RN1, UpTheBlues, theowalcott |
 | clf-pal-juv-2026-08-11-juv | ferrariChampions2026, quavoo, swisstony |
 | col-al-bra-2026-08-11-al | UpTheBlues, swisstony |
 | col-al-bra-2026-08-11-bra | UpTheBlues, swisstony |
@@ -410,7 +411,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 70% | 0.79 | ⏳ pendiente | — |
+| UpTheBlues | Will Minnesota United FC win on 2026-08- | No (BUY) | 52% | 0.37 | ⏳ pendiente | — |
+| RN1 | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Under (BUY) | 42% | 2.99 | ⏳ pendiente | — |
+| theowalcott | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Over (BUY) | 59% | 111.77 | ⏳ pendiente | — |
+| UpTheBlues | CA Boca Juniors vs. Recoleta FC: O/U 2.5 | Under (BUY) | 41% | 8.77 | ⏳ pendiente | — |
+| UpTheBlues | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 71% | 5.90 | ⏳ pendiente | — |
 | RN1 | Will Manchester United win on 2026-08-12 | No (BUY) | 53% | 0.48 | ⏳ pendiente | — |
 | RN1 | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 63% | 0.72 | ⏳ pendiente | — |
 | RN1 | Olympique Lyonnais vs. AC Sparta Praha:  | Under (BUY) | 56% | 0.51 | ⏳ pendiente | — |
@@ -436,7 +441,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will SK Puntigamer Sturm Graz win on 202 | No (BUY) | 95% | 0.00 | ✅ ganada | +0.00 |
 | UpTheBlues | NK Celje vs. Ararat-Armenia FA: O/U 1.5 | Under (BUY) | 89% | 0.00 | ❌ perdida | -0.00 |
 | UpTheBlues | Will Fenerbahçe SK win on 2026-08-11? | No (BUY) | 25% | 0.00 | ❌ perdida | -0.00 |
-| BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| BrotherObama | LoL: Team Solid vs 7REX (BO3) - Circuito | Team Solid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 30% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Fenerbahçe SK (-1.5) | SK Puntigamer Sturm Graz (BUY) | 91% | 0.00 | ⏳ pendiente | — |
