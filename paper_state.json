@@ -1,5 +1,5 @@
 {
-  "bankroll": 320.71307089306976,
+  "bankroll": 327.50025089982415,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -14270,6 +14270,61 @@
       "timestamp": 1786423939.2667952,
       "bankroll": 320.71,
       "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Athletics: O/U 17.5"
+    },
+    {
+      "timestamp": 1786424058.3920846,
+      "bankroll": 319.39,
+      "event": "lost: Forecastication2 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786424059.4920378,
+      "bankroll": 316.65,
+      "event": "lost: Forecastication2 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786424060.5939496,
+      "bankroll": 320.44,
+      "event": "won: quavoo \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786424061.8493943,
+      "bankroll": 320.97,
+      "event": "won: quavoo \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786424061.9495933,
+      "bankroll": 326.23,
+      "event": "won: quavoo \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786424062.1499465,
+      "bankroll": 326.52,
+      "event": "won: quavoo \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786424063.54729,
+      "bankroll": 326.13,
+      "event": "lost: HomeRunHazard \u2014 Spread: Tampa Bay Rays (-2.5)"
+    },
+    {
+      "timestamp": 1786424063.6474957,
+      "bankroll": 325.85,
+      "event": "lost: HomeRunHazard \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786424064.6491942,
+      "bankroll": 327.41,
+      "event": "won: RN1 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786424064.9496803,
+      "bankroll": 326.86,
+      "event": "lost: swisstony \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786424065.1500685,
+      "bankroll": 327.5,
+      "event": "won: swisstony \u2014 Spread: Tampa Bay Rays (-2.5)"
     }
   ]
 }

@@ -47721,8 +47721,8 @@
     "whale_pct": 0.333,
     "paper_stake_usd": 1.32,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.32,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786343407.2284052,
@@ -51992,8 +51992,8 @@
     "whale_pct": 1.187,
     "paper_stake_usd": 2.74,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.74,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786363718.462088,
@@ -56588,8 +56588,8 @@
     "whale_pct": 1.722,
     "paper_stake_usd": 3.36,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.79,
     "overlaps_with": [
       "Forecastication2"
     ],
@@ -57418,8 +57418,8 @@
     "whale_pct": 0.58,
     "paper_stake_usd": 0.47,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.53,
     "overlaps_with": [
       "Forecastication2"
     ],
@@ -57630,8 +57630,8 @@
     "whale_pct": 3.721,
     "paper_stake_usd": 4.66,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.25,
     "overlaps_with": [
       "Forecastication2"
     ],
@@ -57694,8 +57694,8 @@
     "whale_pct": 0.138,
     "paper_stake_usd": 0.26,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.29,
     "overlaps_with": [
       "Forecastication2"
     ],
@@ -58783,8 +58783,8 @@
     "whale_pct": 0.155,
     "paper_stake_usd": 0.39,
     "odds_at_bet": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.39,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786414678.2942262,
@@ -59016,8 +59016,8 @@
     "whale_pct": 0.113,
     "paper_stake_usd": 0.28,
     "odds_at_bet": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.28,
     "overlaps_with": [
       "Forecastication2",
       "quavoo"
@@ -61114,8 +61114,8 @@
     "whale_pct": 0.167,
     "paper_stake_usd": 0.44,
     "odds_at_bet": 22,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.56,
     "overlaps_with": [
       "Forecastication2",
       "HomeRunHazard",
@@ -61332,8 +61332,8 @@
     "whale_pct": 0.21,
     "paper_stake_usd": 0.55,
     "odds_at_bet": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.55,
     "overlaps_with": [
       "Forecastication2",
       "HomeRunHazard",
@@ -61407,8 +61407,8 @@
     "whale_pct": 0.413,
     "paper_stake_usd": 1.09,
     "odds_at_bet": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.64,
     "overlaps_with": [
       "HomeRunHazard"
     ],

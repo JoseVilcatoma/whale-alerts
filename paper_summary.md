@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-10 23:52:26 (hora de Perú)
+Actualizado: 2026-08-10 23:54:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $320.71
-**Retorno acumulado:** -67.93%
+**Bankroll actual:** $327.50
+**Retorno acumulado:** -67.25%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | wr0ngw4yb3tt0r | 51 | 48 | 1 | +33.42 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| HomeRunHazard | 86 | 75 | 13 | +26.60 USD |
+| HomeRunHazard | 86 | 77 | 11 | +25.93 USD |
 | theowalcott | 7 | 4 | 0 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | SDTrading | 2 | 6 | 0 | +17.41 USD |
@@ -39,13 +39,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| swisstony | 30 | 21 | 8 | -4.18 USD |
+| swisstony | 31 | 22 | 6 | -4.09 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | UpTheBlues | 151 | 100 | 22 | -7.44 USD |
-| Forecastication2 | 4 | 25 | 2 | -16.36 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
-| RN1 | 162 | 90 | 1 | -22.46 USD |
-| quavoo | 128 | 160 | 20 | -41.27 USD |
+| Forecastication2 | 4 | 27 | 0 | -20.42 USD |
+| RN1 | 163 | 90 | 0 | -20.90 USD |
+| quavoo | 132 | 160 | 16 | -31.41 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 0 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -378,6 +378,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 54% | 0.32 | ✅ ganada | +0.27 |
 | swisstony | Houston Astros vs. San Francisco Giants: | Over (BUY) | 53% | 0.32 | ✅ ganada | +0.28 |
 | RN1 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 49% | 0.34 | ❌ perdida | -0.34 |
-| swisstony | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 63% | 1.09 | ⏳ pendiente | — |
+| swisstony | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 63% | 1.09 | ✅ ganada | +0.64 |
 | ferrariChampions2026 | Chicago Sky vs. Seattle Storm | Seattle Storm (BUY) | 92% | 1.79 | ✅ ganada | +0.16 |
 | swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 72% | 0.52 | ⏳ pendiente | — |
