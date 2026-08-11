@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 17:45:11 (hora de Perú)
+Actualizado: 2026-08-11 17:47:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **66**  ($1,456,293 en total)
+- Apuestas registradas: **68**  ($1,761,717 en total)
 - Resueltas: **14** — 10 ganadas / 4 perdidas (**71%** de acierto)
-- Pendientes: 52
+- Pendientes: 54
 - Apostadores distintos: 35
 
 ### Balance
@@ -24,9 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
+| BreakTheBank | 0 | 0 | 4 | — | $267,835 | — |
 | pleaseplease123 | 0 | 0 | 6 | — | $199,582 | — |
+| Weaseloftheweek | 0 | 1 | 1 | ⚠️ 0% (1) | $193,162 | -$14,667 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 4 | — | $178,415 | — |
-| BreakTheBank | 0 | 0 | 3 | — | $140,907 | — |
 | SDTrading | 0 | 0 | 6 | — | $121,629 | — |
 | AV23IUa | 0 | 0 | 2 | — | $104,685 | — |
 | theowalcott | 0 | 0 | 6 | — | $89,215 | — |
@@ -44,7 +45,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 2 | 0 | 0 | ⚠️ 100% (2) | $21,062 | +$8,396 |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | 0 | 0 | 1 | — | $20,000 | — |
 | monkeymashingkeyboard | 0 | 0 | 1 | — | $14,986 | — |
-| Weaseloftheweek | 0 | 1 | 0 | ⚠️ 0% (1) | $14,667 | -$14,667 |
 | beachboy4 | 0 | 0 | 1 | — | $14,094 | — |
 | paquitomillonario | 0 | 0 | 1 | — | $12,390 | — |
 | spnir | 0 | 0 | 1 | — | $12,000 | — |
@@ -64,6 +64,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BreakTheBank | New York Mets vs. Atlanta Braves | New York Mets | 2.22 (45¢) | $126,928 | — | ⏳ Pendiente |
+| Weaseloftheweek | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.82 (55¢) | $178,495 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.79 (56¢) | $16,947 | — | ⏳ Pendiente |
 | dv-pm | Seattle Mariners vs. New York Yankees: O/U 7.5 | Under 7.5 | 2.27 (44¢) | $13,315 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.72 (58¢) | $10,088 | — | ⏳ Pendiente |
@@ -122,5 +124,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | backback | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group | Kiwoom DRX Challengers | 1.09 (92¢) | $10,473 | +$911 | ✅ Ganada |
 | 0x076d…8d4c | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.10 (91¢) | $11,037 | +$1,092 | ✅ Ganada |
 | 999999666544332578855667788 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.32 (76¢) | $10,640 | +$3,360 | ✅ Ganada |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.28 (78¢) | $11,063 | +$3,120 | ✅ Ganada |
-| mpyh | LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs | DN SOOPers | 1.33 (75¢) | $10,968 | +$3,656 | ✅ Ganada |
