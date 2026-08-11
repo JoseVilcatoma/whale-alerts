@@ -64008,5 +64008,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786442486.1999705,
     "fills": 1
+  },
+  {
+    "timestamp": 1786443478,
+    "timestamp_added": 1786443478.8536396,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-lvlup1-navi-2026-08-11-game2",
+    "title": "Dota 2: Level UP vs Natus Vincere - Game 2 Winner",
+    "outcome": "Level UP",
+    "side": "BUY",
+    "whale_usd": 388.93234200000006,
+    "whale_pct": 0.183,
+    "paper_stake_usd": 0.62,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786443478.8536477,
+    "fills": 1
   }
 ]
