@@ -64389,5 +64389,49 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786447462.6282952,
     "fills": 1
+  },
+  {
+    "timestamp": 1786447491,
+    "timestamp_added": 1786447491.4934313,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-nsea-dkc-2026-08-11",
+    "title": "LoL: Nongshim Esports Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+    "outcome": "Dplus KIA Challengers",
+    "side": "BUY",
+    "whale_usd": 225.35999999999999,
+    "whale_pct": 0.829,
+    "paper_stake_usd": 2.78,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786447491.906534,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786447511,
+    "timestamp_added": 1786447512.025798,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-nsea-dkc-2026-08-11",
+    "title": "LoL: Nongshim Esports Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+    "outcome": "Dplus KIA Challengers",
+    "side": "BUY",
+    "whale_usd": 713.5884000000001,
+    "whale_pct": 2.623,
+    "paper_stake_usd": 8.79,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786447532.8013587,
+    "fills": 15
   }
 ]

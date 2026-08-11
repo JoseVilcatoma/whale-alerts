@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 06:24:41 (hora de Perú)
+Actualizado: 2026-08-11 06:26:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $334.96
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 20 | 7 | 14 | +101.00 USD |
+| BBQChickenisthebesttt | 20 | 7 | 16 | +101.00 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
@@ -358,6 +358,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 36% | 8.79 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 36% | 2.78 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 36% | 0.64 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 36% | 0.38 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Nongshim Esports Academy vs Dplus K | Dplus KIA Challengers (BUY) | 36% | 1.01 | ⏳ pendiente | — |
@@ -386,5 +388,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs DN SOOPers ( | DN SOOPers (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 70% | 0.00 | 💰 vendida anticipada | -0.00 |
 | BrotherObama | LoL: Hanwha Life Esports vs DN SOOPers ( | Hanwha Life Esports (BUY) | 24% | 0.00 | 💰 vendida anticipada | -0.00 |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Hanwha Life Esports vs DN SOOPers ( | DN SOOPers (BUY) | 76% | 0.00 | ⏳ pendiente | — |
