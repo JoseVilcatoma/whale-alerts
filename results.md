@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 05:32:44 (hora de Perú)
+Actualizado: 2026-08-11 05:34:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **43**  ($1,184,721 en total)
+- Apuestas registradas: **44**  ($1,196,076 en total)
 - Resueltas: **3** — 3 ganadas / 0 perdidas (**100%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 29
 
 _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
@@ -33,12 +33,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 0 | 0 | 2 | — | $30,272 | — |
 | backback | 0 | 0 | 2 | — | $29,083 | — |
 | Emethod | 0 | 0 | 2 | — | $28,001 | — |
+| degenofweb3 | 0 | 0 | 2 | — | $26,340 | — |
 | ProudIsraeli | 2 | 0 | 0 | ⚠️ 100% (2) | $25,065 | +$0 |
 | 0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927 | 0 | 0 | 2 | — | $21,062 | — |
 | LUCKYME001 | 0 | 0 | 1 | — | $18,941 | — |
 | Lakersfan111 | 0 | 0 | 1 | — | $17,024 | — |
 | 467j6yj | 0 | 0 | 1 | — | $15,858 | — |
-| degenofweb3 | 0 | 0 | 1 | — | $14,985 | — |
 | Orlandxx | 0 | 0 | 1 | — | $13,007 | — |
 | scottilicious | 0 | 0 | 1 | — | $11,672 | — |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 0 | 0 | 1 | — | $11,063 | — |
@@ -51,6 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| degenofweb3 | LoL: Hanwha Life Esports vs DN SOOPers - Game 2 Winner | DN SOOPers | — (100¢) | $11,355 | — | ⏳ Pendiente |
 | Emethod | LoL: Hanwha Life Esports vs DN SOOPers - Game 2 Winner | DN SOOPers | — (100¢) | $13,156 | — | ⏳ Pendiente |
 | LUCKYME001 | LoL: Hanwha Life Esports vs DN SOOPers - Game 2 Winner | DN SOOPers | — (100¢) | $18,941 | — | ⏳ Pendiente |
 | five5120 | LoL: Hanwha Life Esports vs DN SOOPers - Game 2 Winner | DN SOOPers | — (100¢) | $34,164 | — | ⏳ Pendiente |
