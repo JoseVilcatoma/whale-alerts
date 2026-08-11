@@ -62320,5 +62320,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786426082.9320772,
     "fills": 1
+  },
+  {
+    "timestamp": 1786426670,
+    "timestamp_added": 1786426671.0426388,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "col1-cjf-dep-2026-08-10-cjf",
+    "title": "Will CDPJuniorFC win on 2026-08-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 149.9931,
+    "whale_pct": 0.383,
+    "paper_stake_usd": 1.23,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786426671.0426466,
+    "fills": 1
   }
 ]
