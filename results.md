@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 06:05:39 (hora de Perú)
+Actualizado: 2026-08-12 06:07:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **974**  ($19,933,906 en total)
+- Apuestas registradas: **979**  ($20,028,231 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 185
+- Pendientes: 190
 - Apostadores distintos: 106
 
 ### Balance
@@ -27,8 +27,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 41 | 0 | 41% | $1,811,081 | -$218,949 |
 | AV23IUa | 23 | 11 | 27 | 68% | $1,601,781 | +$348,929 |
 | ferrariChampions2026 | 79 | 25 | 2 | 76% | $1,555,768 | +$58,976 |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 12 | 28% | $1,456,503 | -$743,370 |
-| Djdjdjekekek | 27 | 3 | 5 | 90% | $1,145,391 | +$494,952 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 13 | 28% | $1,489,732 | -$743,370 |
+| Djdjdjekekek | 27 | 3 | 7 | 90% | $1,175,727 | +$494,952 |
 | pleaseplease123 | 0 | 39 | 0 | 0% | $991,234 | -$991,234 |
 | Weaseloftheweek | 11 | 2 | 1 | 85% | $917,411 | +$518,388 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
@@ -60,10 +60,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ExplosiveNinja | 0 | 0 | 9 | — | $109,231 | — |
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
 | Mylifeisover | 6 | 0 | 0 | ⚠️ 100% (6) | $106,449 | +$90,679 |
+| TAIWANNUMBERONE | 0 | 1 | 6 | ⚠️ 0% (1) | $104,909 | -$17,114 |
 | 0b1 | 6 | 0 | 0 | ⚠️ 100% (6) | $104,559 | +$21,905 |
 | phonesculptor | 0 | 8 | 0 | 0% | $91,088 | -$91,088 |
 | AGUGava | 5 | 2 | 0 | ⚠️ 71% (7) | $88,581 | +$26,063 |
-| five5120 | 2 | 0 | 4 | ⚠️ 100% (2) | $88,077 | +$2,075 |
 
 _(mostrando los 40 de mayor monto, de 106 en total)_
 
@@ -71,7 +71,12 @@ _(mostrando los 40 de mayor monto, de 106 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $33,229 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $18,900 | — | ⏳ Pendiente |
+| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.70 (37¢) | $19,236 | — | ⏳ Pendiente |
+| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.70 (37¢) | $11,100 | — | ⏳ Pendiente |
 | midwicket72 | The Hundred, Women: Welsh Fire vs London Spirit | Welsh Fire | 1.45 (69¢) | $10,251 | — | ⏳ Pendiente |
+| SineNooneEI | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $11,860 | — | ⏳ Pendiente |
 | SineNooneEI | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $11,860 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $10,343 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $10,343 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 106 en total)_
 | ComingBack | Astana: Takuya Kumasaka vs Hayato Matsuoka | Hayato Matsuoka | 1.18 (85¢) | $12,752 | — | ⏳ Pendiente |
 | ComingBack | Astana: Takuya Kumasaka vs Hayato Matsuoka | Hayato Matsuoka | 1.18 (85¢) | $12,752 | — | ⏳ Pendiente |
 | Djdjdjekekek | LoL: HANJIN BRION Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group | HANJIN BRION Challengers | 1.33 (75¢) | $11,250 | — | ⏳ Pendiente |
-| Djdjdjekekek | LoL: HANJIN BRION Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group | HANJIN BRION Challengers | 1.33 (75¢) | $11,250 | — | ⏳ Pendiente |
-| Djdjdjekekek | LoL: HANJIN BRION Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group | HANJIN BRION Challengers | 1.33 (75¢) | $11,250 | — | ⏳ Pendiente |
-| MeiGuNiuBi | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $12,600 | — | ⏳ Pendiente |
-| MeiGuNiuBi | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $12,600 | — | ⏳ Pendiente |
-| MeiGuNiuBi | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $12,600 | — | ⏳ Pendiente |
