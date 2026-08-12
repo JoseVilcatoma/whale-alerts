@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 12:17:11 (hora de Perú)
+Actualizado: 2026-08-12 12:19:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1443**  ($34,476,845 en total)
+- Apuestas registradas: **1447**  ($34,622,788 en total)
 - Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 504
-- Apostadores distintos: 134
+- Pendientes: 508
+- Apostadores distintos: 136
 
 ### Balance
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 62 | 28% | $5,496,447 | -$789,178 |
-| Djdjdjekekek | 36 | 12 | 67 | 75% | $5,008,985 | +$573,956 |
+| Djdjdjekekek | 36 | 12 | 68 | 75% | $5,054,128 | +$573,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 0 | 36% | $2,039,712 | -$421,290 |
 | ferrariChampions2026 | 90 | 29 | 18 | 76% | $1,954,007 | +$113,934 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
@@ -65,12 +65,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | DonaldinhoTrumpito | 0 | 0 | 8 | — | $149,875 | — |
 | 0x076d…8d4c | 8 | 0 | 3 | 100% | $149,444 | +$45,411 |
 
-_(mostrando los 40 de mayor monto, de 134 en total)_
+_(mostrando los 40 de mayor monto, de 136 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| thecomplicatedguy | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $10,800 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.57 (28¢) | $45,143 | — | ⏳ Pendiente |
+| casualbet2020 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $72,000 | — | ⏳ Pendiente |
+| Nooserac | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $18,000 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | 3DMAX | 5.00 (20¢) | $51,415 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.25 (80¢) | $191,510 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.19 (84¢) | $11,013 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 134 en total)_
 | spnir | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.33 (43¢) | $12,900 | — | ⏳ Pendiente |
 | spnir | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.33 (43¢) | $12,900 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.75 (57¢) | $77,089 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.85 (26¢) | $21,973 | — | ⏳ Pendiente |
-| GreatestTrader | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $14,319 | — | ⏳ Pendiente |
-| 0xA9C4b118095A4F67BA9ba461aAdF6a9cfE5e7433-1721318888203 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $15,540 | — | ⏳ Pendiente |
-| Lakersfan111 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $14,800 | — | ⏳ Pendiente |
