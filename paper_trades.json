@@ -81669,5 +81669,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786576134.5778456,
     "fills": 1
+  },
+  {
+    "timestamp": 1786576249,
+    "timestamp_added": 1786576250.0127673,
+    "username": "WTSA",
+    "wallet": "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8",
+    "slug": "lib-cru-fla-2026-08-12-total-2pt5",
+    "title": "Cruzeiro EC vs. CR Flamengo: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 31396.881999999994,
+    "whale_pct": 19.406,
+    "paper_stake_usd": 66.63,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786576264.6674056,
+    "fills": 10
+  },
+  {
+    "timestamp": 1786576249,
+    "timestamp_added": 1786576250.9010055,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-cru-fla-2026-08-12-total-2pt5",
+    "title": "Cruzeiro EC vs. CR Flamengo: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 8750.0,
+    "whale_pct": 2.971,
+    "paper_stake_usd": 10.05,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "WTSA"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786576251.4634135,
+    "fills": 3
   }
 ]
