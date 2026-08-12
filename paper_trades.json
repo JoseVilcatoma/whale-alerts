@@ -81679,16 +81679,16 @@
     "title": "Cruzeiro EC vs. CR Flamengo: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 31396.881999999994,
-    "whale_pct": 19.406,
+    "whale_usd": 31606.881999999994,
+    "whale_pct": 19.536,
     "paper_stake_usd": 66.63,
     "odds_at_bet": 41,
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
-    "last_fill_at": 1786576264.6674056,
-    "fills": 10
+    "last_fill_at": 1786576279.1637595,
+    "fills": 11
   },
   {
     "timestamp": 1786576249,
