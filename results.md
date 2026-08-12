@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 20:02:00 (hora de Perú)
+Actualizado: 2026-08-11 20:04:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **269**  ($5,701,214 en total)
+- Apuestas registradas: **270**  ($5,712,714 en total)
 - Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 153
+- Pendientes: 154
 - Apostadores distintos: 84
 
 ### Balance
@@ -59,11 +59,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Elaran1993 | 0 | 0 | 2 | — | $26,219 | — |
 | monkeymashingkeyboard | 0 | 0 | 2 | — | $26,186 | — |
 | SevenTons | 0 | 0 | 2 | — | $25,996 | — |
+| AGUGava | 1 | 0 | 1 | ⚠️ 100% (1) | $25,694 | +$451 |
 | ughjbnk | 0 | 0 | 2 | — | $25,645 | — |
 | dv-pm | 0 | 0 | 2 | — | $24,463 | — |
 | acount3 | 0 | 0 | 2 | — | $24,236 | — |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 0 | 2 | — | $23,866 | — |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
 
 _(mostrando los 40 de mayor monto, de 84 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 84 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AGUGava | National Bank Open: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 2.17 (46¢) | $11,500 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $26,152 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $26,152 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Marcos Giron | 1.47 (68¢) | $37,902 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 84 en total)_
 | jarosbill | Cincinnati Open, Qualification: Quentin Halys vs Soon-Woo Kwon | Soon-Woo Kwon | 1.64 (61¢) | $10,718 | — | ⏳ Pendiente |
 | theowalcott | Will Club Bolívar win on 2026-08-11? | No | 2.04 (49¢) | $17,062 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Quentin Halys vs Soon-Woo Kwon | Quentin Halys | 3.45 (29¢) | $12,792 | — | ⏳ Pendiente |
-| Djdjdjekekek | Cincinnati Open, Qualification: Quentin Halys vs Soon-Woo Kwon | Soon-Woo Kwon | 1.41 (71¢) | $31,315 | — | ⏳ Pendiente |
