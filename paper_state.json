@@ -1,5 +1,5 @@
 {
-  "bankroll": 448.355509010471,
+  "bankroll": 448.3137960864452,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18085,6 +18085,21 @@
       "timestamp": 1786509498.82991,
       "bankroll": 448.36,
       "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786509560.9904144,
+      "bankroll": 447.9,
+      "event": "lost: 1winstreak1 \u2014 Spread: Colorado Rockies (-2.5)"
+    },
+    {
+      "timestamp": 1786509561.090551,
+      "bankroll": 448.08,
+      "event": "won: RN1 \u2014 Spread: Colorado Rockies (-2.5)"
+    },
+    {
+      "timestamp": 1786509562.1432638,
+      "bankroll": 448.31,
+      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-1.5)"
     }
   ]
 }
