@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 06:18:10 (hora de Perú)
+Actualizado: 2026-08-12 06:20:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **995**  ($20,294,435 en total)
+- Apuestas registradas: **997**  ($20,562,268 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 206
-- Apostadores distintos: 109
+- Pendientes: 208
+- Apostadores distintos: 110
 
 ### Balance
 
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 23 | 11 | 27 | 68% | $1,601,781 | +$348,929 |
 | ferrariChampions2026 | 79 | 25 | 2 | 76% | $1,555,768 | +$58,976 |
 | Djdjdjekekek | 27 | 3 | 11 | 90% | $1,228,050 | +$494,952 |
+| Weaseloftheweek | 11 | 2 | 2 | 85% | $1,067,874 | +$518,388 |
 | pleaseplease123 | 0 | 39 | 0 | 0% | $991,234 | -$991,234 |
-| Weaseloftheweek | 11 | 2 | 1 | 85% | $917,411 | +$518,388 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
 | SDTrading | 25 | 6 | 0 | 81% | $566,130 | +$328,056 |
 | texaskid | 16 | 0 | 0 | 100% | $535,712 | +$405,912 |
@@ -57,20 +57,22 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 1 | 0 | 9 | ⚠️ 100% (1) | $129,884 | +$9,167 |
 | TAIWANNUMBERONE | 0 | 1 | 7 | ⚠️ 0% (1) | $123,809 | -$17,114 |
 | ExplosiveNinja | 0 | 0 | 10 | — | $122,231 | — |
+| umeax | 0 | 0 | 1 | — | $117,370 | — |
 | DonaldinhoTrumpito | 0 | 0 | 6 | — | $112,406 | — |
 | Marcoli | 2 | 0 | 3 | ⚠️ 100% (2) | $111,211 | +$28,966 |
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
 | Mylifeisover | 6 | 0 | 0 | ⚠️ 100% (6) | $106,449 | +$90,679 |
 | 0b1 | 6 | 0 | 0 | ⚠️ 100% (6) | $104,559 | +$21,905 |
 | phonesculptor | 0 | 8 | 0 | 0% | $91,088 | -$91,088 |
-| AGUGava | 5 | 2 | 0 | ⚠️ 71% (7) | $88,581 | +$26,063 |
 
-_(mostrando los 40 de mayor monto, de 109 en total)_
+_(mostrando los 40 de mayor monto, de 110 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| umeax | Will Paris Saint-Germain win on 2026-08-12? | No | 2.33 (43¢) | $117,370 | — | ⏳ Pendiente |
+| Weaseloftheweek | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.75 (57¢) | $150,464 | — | ⏳ Pendiente |
 | 88M | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.72 (58¢) | $11,849 | — | ⏳ Pendiente |
 | CORGI8 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.82 (55¢) | $15,192 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | magic | 2.22 (45¢) | $12,430 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 109 en total)_
 | ThornyDevil | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.69 (59¢) | $42,983 | — | ⏳ Pendiente |
 | ThornyDevil | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.75 (57¢) | $41,261 | — | ⏳ Pendiente |
 | ThornyDevil | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.75 (57¢) | $41,261 | — | ⏳ Pendiente |
-| GRINGOMATE | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.72 (58¢) | $12,841 | — | ⏳ Pendiente |
-| GRINGOMATE | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.72 (58¢) | $12,841 | — | ⏳ Pendiente |
