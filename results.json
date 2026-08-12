@@ -12305,5 +12305,31 @@
     "usd": 17508.9611,
     "odds_at_bet": 89,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 762,
+    "timestamp": 1786528458,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-ts7-jjh-2026-08-12",
+    "title": "Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 17508.9611,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 763,
+    "timestamp": 1786528434,
+    "username": "Marcoli",
+    "wallet": "0xdbbbde184ab04018ce0373c0dbe4e5fd6be805a8",
+    "slug": "atp-su-pankin-2026-08-12",
+    "title": "Astana: Fajing Sun vs Semen Pankin",
+    "outcome": "Fajing Sun",
+    "side": "BUY",
+    "usd": 29999.999997880543,
+    "odds_at_bet": 62,
+    "status": "pending"
   }
 ]
