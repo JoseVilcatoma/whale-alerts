@@ -20255,5 +20255,18 @@
     "usd": 11184.0907,
     "odds_at_bet": 82,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1323,
+    "timestamp": 1786558890,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-wc1-furia-2026-08-12",
+    "title": "Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 13100.800000000001,
+    "odds_at_bet": 89,
+    "status": "pending"
   }
 ]
