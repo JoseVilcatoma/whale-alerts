@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 12:46:28 (hora de Perú)
+Actualizado: 2026-08-12 12:48:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1512**  ($37,722,512 en total)
+- Apuestas registradas: **1515**  ($37,805,052 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 571
+- Pendientes: 574
 - Apostadores distintos: 144
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 67 | 28% | $6,098,694 | -$789,178 |
 | Djdjdjekekek | 36 | 12 | 77 | 75% | $5,657,802 | +$573,956 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 6 | 36% | $2,374,224 | -$421,290 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 7 | 36% | $2,392,102 | -$421,290 |
 | ferrariChampions2026 | 90 | 29 | 21 | 76% | $2,018,480 | +$113,934 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
 | Weaseloftheweek | 11 | 2 | 7 | 85% | $1,636,724 | +$518,388 |
@@ -71,8 +71,11 @@ _(mostrando los 40 de mayor monto, de 144 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gggjajnsnn | LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins | Dark Passage | 3.33 (30¢) | $20,000 | — | ⏳ Pendiente |
+| bloodmaster | LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins | Bushido Wildcats | 1.43 (70¢) | $44,662 | — | ⏳ Pendiente |
 | bloodmaster | LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins | Bushido Wildcats | 1.43 (70¢) | $44,662 | — | ⏳ Pendiente |
 | gggjajnsnn | LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins | Dark Passage | 3.33 (30¢) | $20,000 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5 | Under 8.5 | 1.79 (56¢) | $17,878 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $128,172 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $44,206 | — | ⏳ Pendiente |
 | pleaseplease123 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $36,739 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 144 en total)_
 | Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.57 (28¢) | $45,143 | — | ⏳ Pendiente |
 | Nooserac | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $18,000 | — | ⏳ Pendiente |
 | casualbet2020 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $72,000 | — | ⏳ Pendiente |
-| thecomplicatedguy | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $10,800 | — | ⏳ Pendiente |
-| thecomplicatedguy | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $10,800 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.57 (28¢) | $45,143 | — | ⏳ Pendiente |
