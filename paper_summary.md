@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 22:10:59 (hora de Perú)
+Actualizado: 2026-08-11 22:13:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $427.13
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 22 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 28 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 167 | 112 | 33 | -28.34 USD |
+| swisstony | 167 | 112 | 43 | -28.34 USD |
 | quavoo | 152 | 186 | 34 | -33.89 USD |
 | RN1 | 199 | 111 | 6 | -38.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -356,7 +356,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-10-spread-home-2pt5 | HomeRunHazard, swisstony |
 | mlb-tex-laa-2026-08-10-spread-home-1pt5 | HomeRunHazard, swisstony |
 | sud-boc-rec1-2026-08-11-team-total-away-0pt5 | UpTheBlues, swisstony |
-| wnba-phx-la-2026-08-11-total-179pt5 | ferrariChampions2026, quavoo |
+| wnba-phx-la-2026-08-11-total-179pt5 | ferrariChampions2026, quavoo, swisstony |
 | uel-sab-lar-2026-08-11-lar | UpTheBlues, swisstony |
 | uel-sab-lar-2026-08-11-spread-away-1pt5 | UpTheBlues, swisstony |
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
@@ -391,7 +391,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-kai-pls-2026-08-11-total-1pt5 | RN1, UpTheBlues, swisstony |
 | wnba-nyl-ind-2026-08-11-total-192pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-lyo-spp-2026-08-11-lyo | UpTheBlues, swisstony |
-| wnba-phx-la-2026-08-11-spread-home-2pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| wnba-phx-la-2026-08-11-spread-home-2pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-pit-mia-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-2pt5 | RN1, swisstony |
 | ucl-kai-pls-2026-08-11-pls | RN1, swisstony |
@@ -405,7 +405,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | uel-sab-lar-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | ucl-sf-agf-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | wnba-wsh-las-2026-08-11-total-170pt5 | 1winstreak1, swisstony, wr0ngw4yb3tt0r |
-| wnba-phx-la-2026-08-11-spread-away-1pt5 | HomeRunHazard, ferrariChampions2026, swisstony |
+| wnba-phx-la-2026-08-11-spread-away-1pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026, swisstony |
 | mlb-tb-oak-2026-08-11-total-9pt5 | 1winstreak1, HomeRunHazard, Sassy-Bucket, swisstony |
 | uel-sab-lar-2026-08-11-draw | ferrariChampions2026, swisstony |
 | wnba-phx-la-2026-08-11-total-177pt5 | ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
@@ -460,6 +460,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 47% | 0.45 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 58% | 9.19 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 43% | 0.50 | ⏳ pendiente | — |
+| 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 69% | 0.59 | ⏳ pendiente | — |
+| swisstony | Spread: Phoenix Mercury (-1.5) | Los Angeles Sparks (BUY) | 59% | 0.55 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 59% | 1.15 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 68% | 6.61 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Kansas City Royals (-2.5) | Kansas City Royals (BUY) | 20% | 0.71 | ⏳ pendiente | — |
+| 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 64% | 2.07 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 64% | 0.90 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Phoenix Mercury (-1.5) | Los Angeles Sparks (BUY) | 69% | 1.12 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 36% | 0.77 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 51% | 0.80 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 60% | 0.50 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 49% | 1.11 | ⏳ pendiente | — |
+| swisstony | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 62% | 0.75 | ⏳ pendiente | — |
 | swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 47% | 1.07 | ⏳ pendiente | — |
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 63% | 4.67 | ⏳ pendiente | — |
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 55% | 1.86 | ⏳ pendiente | — |
@@ -474,19 +490,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 50% | 0.57 | ⏳ pendiente | — |
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces | Washington Mystics (BUY) | 35% | 15.29 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 45% | 5.54 | ⏳ pendiente | — |
-| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 55% | 10.89 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Arizona Diamondbacks (-3.5) | Colorado Rockies (BUY) | 66% | 6.42 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Arizona Diamondbacks (-2.5) | Colorado Rockies (BUY) | 51% | 27.73 | ⏳ pendiente | — |
-| 1winstreak1 | LoL: HANJIN BRION Challengers vs Hanwha  | HANJIN BRION Challengers (BUY) | 42% | 0.87 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Vancouver Whitecaps FC (-1.5) | Tigres de la UANL (BUY) | 98% | 1.04 | ⏳ pendiente | — |
-| swisstony | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 74% | 0.85 | ⏳ pendiente | — |
-| UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 94% | 1.56 | ⏳ pendiente | — |
-| UpTheBlues | Will Real Salt Lake win on 2026-08-11? | Yes (BUY) | 88% | 0.59 | ⏳ pendiente | — |
-| UpTheBlues | Real Salt Lake vs. FC Juárez: O/U 4.5 | Under (BUY) | 84% | 0.88 | ⏳ pendiente | — |
-| swisstony | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 77% | 0.87 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 52% | 0.67 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Kansas City Royals (-2.5) | Kansas City Royals (BUY) | 13% | 0.59 | ⏳ pendiente | — |
-| quavoo | Will Real Madrid win on 2026-08-12? | Yes (BUY) | 69% | 0.83 | ⏳ pendiente | — |
-| UpTheBlues | Spread: FC Juárez (-1.5) | Real Salt Lake (BUY) | 98% | 0.67 | ⏳ pendiente | — |
-| swisstony | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 48% | 0.49 | ⏳ pendiente | — |
-| UpTheBlues | Will Real Salt Lake win on 2026-08-11? | Yes (BUY) | 74% | 1.53 | ⏳ pendiente | — |
