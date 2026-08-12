@@ -79608,5 +79608,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786505487.44767,
     "fills": 1
+  },
+  {
+    "timestamp": 1786505592,
+    "timestamp_added": 1786505593.7123814,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-kc-lad-2026-08-11-spread-away-1pt5",
+    "title": "Spread: Kansas City Royals (-1.5)",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "whale_usd": 133.21999900000003,
+    "whale_pct": 0.163,
+    "paper_stake_usd": 0.69,
+    "odds_at_bet": 17,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786505593.7123902,
+    "fills": 1
   }
 ]
