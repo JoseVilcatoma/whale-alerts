@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 08:25:21 (hora de Perú)
+Actualizado: 2026-08-12 08:27:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1078**  ($23,698,421 en total)
-- Resueltas: **794** — 490 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 284
+- Resueltas: **845** — 516 ganadas / 329 perdidas (**61%** de acierto)
+- Pendientes: 233
 - Apostadores distintos: 118
 
 ### Balance
 
-- **Resultado de los apostadores: +$468,086** sobre $16,936,320 apostados (ROI **+2.8%**)
-- Copiando $100 fijo en cada una: **+$2,360** sobre $77,800 (ROI **+3.0%**)
+- **Resultado de los apostadores: +$389,906** sobre $17,776,511 apostados (ROI **+2.2%**)
+- Copiando $100 fijo en cada una: **+$1,874** sobre $82,900 (ROI **+2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,10 +25,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 29 | 28% | $2,763,100 | -$743,370 |
-| Djdjdjekekek | 27 | 3 | 27 | 90% | $1,950,257 | +$494,952 |
+| Djdjdjekekek | 27 | 8 | 22 | 77% | $1,950,257 | +$425,197 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 41 | 0 | 41% | $1,811,081 | -$218,949 |
-| AV23IUa | 23 | 11 | 29 | 68% | $1,636,286 | +$348,929 |
-| ferrariChampions2026 | 79 | 25 | 4 | 76% | $1,585,356 | +$58,976 |
+| AV23IUa | 23 | 18 | 22 | 56% | $1,636,286 | +$192,329 |
+| ferrariChampions2026 | 81 | 25 | 2 | 76% | $1,585,356 | +$95,109 |
 | Weaseloftheweek | 11 | 2 | 3 | 85% | $1,218,338 | +$518,388 |
 | pleaseplease123 | 0 | 39 | 2 | 0% | $1,024,640 | -$991,234 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
@@ -40,11 +40,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | theowalcott | 21 | 0 | 0 | 100% | $318,833 | +$226,502 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
-| Lakersfan111 | 1 | 0 | 17 | ⚠️ 100% (1) | $296,151 | +$9,167 |
+| Lakersfan111 | 1 | 3 | 14 | ⚠️ 25% (4) | $296,151 | -$28,993 |
 | umeax | 0 | 0 | 2 | — | $234,739 | — |
-| mikesports | 3 | 3 | 7 | ⚠️ 50% (6) | $211,470 | -$24,073 |
+| mikesports | 6 | 7 | 0 | 46% | $211,470 | -$76,470 |
 | wr0ngw4yb3tt0r | 7 | 6 | 0 | 54% | $209,577 | -$12,560 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 0 | 7 | ⚠️ 100% (2) | $202,447 | +$8,887 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 0 | 4 | ⚠️ 100% (5) | $202,447 | +$87,105 |
 | ActionReaction | 0 | 0 | 7 | — | $193,576 | — |
 | xifutloong3 | 6 | 0 | 0 | ⚠️ 100% (6) | $190,324 | +$142,407 |
 | Feromont | 7 | 0 | 0 | ⚠️ 100% (7) | $162,799 | +$43,867 |
@@ -52,17 +52,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | johnny234 | 3 | 3 | 5 | ⚠️ 50% (6) | $162,310 | -$7,214 |
 | winwin518168 | 0 | 10 | 0 | 0% | $160,808 | -$160,808 |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,408 | +$115,433 |
-| ThornyDevil | 2 | 0 | 4 | ⚠️ 100% (2) | $158,751 | +$14,240 |
+| ThornyDevil | 2 | 1 | 3 | ⚠️ 67% (3) | $158,751 | +$2,354 |
 | fRibrenlc | 8 | 4 | 0 | 67% | $156,073 | +$36,412 |
 | ...............................lala | 3 | 6 | 0 | 33% | $148,465 | -$64,383 |
 | RN1 | 7 | 4 | 0 | 64% | $144,192 | +$24,012 |
 | 0x076d…8d4c | 7 | 0 | 3 | ⚠️ 100% (7) | $137,506 | +$37,453 |
-| ExplosiveNinja | 0 | 0 | 11 | — | $134,789 | — |
+| ExplosiveNinja | 6 | 0 | 5 | ⚠️ 100% (6) | $134,789 | +$103,117 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
-| five5120 | 2 | 0 | 6 | ⚠️ 100% (2) | $128,077 | +$2,075 |
+| five5120 | 2 | 1 | 5 | ⚠️ 67% (3) | $128,077 | -$15,925 |
 | TAIWANNUMBERONE | 0 | 1 | 7 | ⚠️ 0% (1) | $123,809 | -$17,114 |
 | DonaldinhoTrumpito | 0 | 0 | 6 | — | $112,406 | — |
-| Marcoli | 2 | 0 | 3 | ⚠️ 100% (2) | $111,211 | +$28,966 |
+| Marcoli | 5 | 0 | 0 | ⚠️ 100% (5) | $111,211 | +$71,262 |
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
 
 _(mostrando los 40 de mayor monto, de 118 en total)_
