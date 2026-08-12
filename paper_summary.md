@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 15:01:22 (hora de Perú)
+Actualizado: 2026-08-12 15:03:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $559.36
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | dv-pm | 4 | 5 | 2 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 88 | 22 | +59.32 USD |
+| 1winstreak1 | 107 | 88 | 23 | +59.32 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 65 | 69 | 3 | +23.18 USD |
@@ -455,6 +455,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 31% | 2.08 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 30% | 2.24 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Minnesota Twins (-2.5) | Minnesota Twins (BUY) | 66% | 1.24 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Minnesota Twins (-1.5) | Minnesota Twins (BUY) | 78% | 3.12 | ⏳ pendiente | — |
@@ -484,4 +485,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 44% | 6.29 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 53% | 80.99 | ⏳ pendiente | — |
 | Sassy-Bucket | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 53% | 212.93 | ✅ ganada | +188.82 |
-| wr0ngw4yb3tt0r | Spread: Baltimore Orioles (-1.5) | Minnesota Twins (BUY) | 62% | 26.54 | ⏳ pendiente | — |
