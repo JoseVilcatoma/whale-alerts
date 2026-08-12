@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 19:35:14 (hora de Perú)
+Actualizado: 2026-08-11 19:38:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $339.06
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 122 | 97 | 64 | -28.98 USD |
 | RN1 | 173 | 99 | 40 | -33.33 USD |
-| quavoo | 151 | 181 | 29 | -33.43 USD |
+| quavoo | 151 | 181 | 30 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 4 | 11 | 4 | -82.84 USD |
@@ -438,6 +438,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Tigres de la UANL win on 2026-08-11 | Yes (BUY) | 71% | 0.52 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 53% | 1.51 | ⏳ pendiente | — |
 | HomeRunHazard | New York Liberty vs. Indiana Fever | New York Liberty (BUY) | 41% | 0.52 | ⏳ pendiente | — |
 | RN1 | Will Club Bolívar win on 2026-08-11? | Yes (BUY) | 52% | 1.48 | ⏳ pendiente | — |
@@ -467,4 +468,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Fluminense FC (-1.5) | CS Independiente Rivadavia (BUY) | 89% | 0.00 | ⏳ pendiente | — |
 | swisstony | Spread: Fluminense FC (-1.5) | CS Independiente Rivadavia (BUY) | 90% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will CS Independiente Rivadavia win on 2 | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
