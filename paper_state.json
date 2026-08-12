@@ -1,5 +1,5 @@
 {
-  "bankroll": 490.07530952382774,
+  "bankroll": 523.3317423102009,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18475,6 +18475,61 @@
       "timestamp": 1786567502.15254,
       "bankroll": 490.08,
       "event": "lost: 1winstreak1 \u2014 Spread: Minnesota Twins (-2.5)"
+    },
+    {
+      "timestamp": 1786567562.136061,
+      "bankroll": 488.01,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786567567.9061968,
+      "bankroll": 559.83,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786567569.4087546,
+      "bankroll": 561.4,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786567570.5260198,
+      "bankroll": 562.24,
+      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 12.5"
+    },
+    {
+      "timestamp": 1786567571.0269043,
+      "bankroll": 562.74,
+      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 12.5"
+    },
+    {
+      "timestamp": 1786567571.545582,
+      "bankroll": 565.76,
+      "event": "won: 1winstreak1 \u2014 Spread: Minnesota Twins (-3.5)"
+    },
+    {
+      "timestamp": 1786567572.2724862,
+      "bankroll": 523.07,
+      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 12.5"
+    },
+    {
+      "timestamp": 1786567572.3727038,
+      "bankroll": 524.86,
+      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 12.5"
+    },
+    {
+      "timestamp": 1786567572.472902,
+      "bankroll": 523.03,
+      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 12.5"
+    },
+    {
+      "timestamp": 1786567572.6732223,
+      "bankroll": 523.28,
+      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 12.5"
+    },
+    {
+      "timestamp": 1786567572.8735862,
+      "bankroll": 523.33,
+      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 12.5"
     }
   ]
 }
