@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 21:51:38 (hora de Perú)
+Actualizado: 2026-08-11 21:53:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **621**  ($12,918,211 en total)
+- Apuestas registradas: **628**  ($13,210,509 en total)
 - Resueltas: **348** — 246 ganadas / 102 perdidas (**71%** de acierto)
-- Pendientes: 273
+- Pendientes: 280
 - Apostadores distintos: 91
 
 ### Balance
@@ -28,11 +28,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 16 | 29 | 43% | $1,131,395 | -$248,458 |
 | AV23IUa | 12 | 5 | 22 | 71% | $1,105,129 | +$239,141 |
 | ferrariChampions2026 | 47 | 6 | 17 | 89% | $1,063,147 | +$93,281 |
+| Djdjdjekekek | 0 | 2 | 18 | ⚠️ 0% (2) | $704,439 | -$62,629 |
 | pleaseplease123 | 0 | 12 | 16 | 0% | $700,196 | -$399,165 |
 | Weaseloftheweek | 8 | 2 | 0 | 80% | $607,608 | +$306,346 |
 | BreakTheBank | 0 | 8 | 0 | 0% | $535,671 | -$535,671 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
-| Djdjdjekekek | 0 | 2 | 12 | ⚠️ 0% (2) | $424,244 | -$62,629 |
 | SDTrading | 12 | 4 | 6 | 75% | $402,921 | +$149,794 |
 | texaskid | 2 | 0 | 9 | ⚠️ 100% (2) | $364,455 | +$90,000 |
 | Talvez10 | 14 | 2 | 2 | 88% | $331,344 | +$124,946 |
@@ -51,13 +51,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ...............................lala | 2 | 4 | 0 | ⚠️ 33% (6) | $98,977 | -$42,922 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 6 | — | $87,544 | — |
 | Feromont | 0 | 0 | 3 | — | $75,600 | — |
+| ExplosiveNinja | 0 | 0 | 6 | — | $72,821 | — |
 | kibanachi | 4 | 0 | 0 | ⚠️ 100% (4) | $71,613 | +$12,017 |
 | 0x076d…8d4c | 1 | 0 | 4 | ⚠️ 100% (1) | $71,475 | +$1,092 |
 | Mylifeisover | 4 | 0 | 0 | ⚠️ 100% (4) | $70,966 | +$60,453 |
 | phonesculptor | 0 | 2 | 4 | ⚠️ 0% (2) | $69,925 | -$27,600 |
 | 0b1 | 4 | 0 | 0 | ⚠️ 100% (4) | $69,706 | +$14,603 |
 | AGUGava | 1 | 0 | 4 | ⚠️ 100% (1) | $62,888 | +$451 |
-| ExplosiveNinja | 0 | 0 | 5 | — | $60,718 | — |
 | paquitomillonario | 0 | 2 | 2 | ⚠️ 0% (2) | $55,851 | -$24,779 |
 | Istaroth | 0 | 0 | 2 | — | $55,408 | — |
 | tennischamp | 2 | 0 | 3 | ⚠️ 100% (2) | $54,391 | +$1,685 |
@@ -72,11 +72,18 @@ _(mostrando los 40 de mayor monto, de 91 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $57,182 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $57,182 | — | ⏳ Pendiente |
+| ExplosiveNinja | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | GamerLegion | 2.08 (48¢) | $12,103 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | GamerLegion | 2.08 (48¢) | $12,103 | — | ⏳ Pendiente |
 | Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $47,191 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $47,191 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $83,298 | — | ⏳ Pendiente |
 | Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $83,298 | — | ⏳ Pendiente |
 | Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $10,193 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $10,193 | — | ⏳ Pendiente |
 | Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $17,468 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $17,468 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $64,864 | — | ⏳ Pendiente |
 | 0F62 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.19 (84¢) | $30,277 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 3.85 (26¢) | $17,333 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.35 (74¢) | $10,873 | — | ⏳ Pendiente |
@@ -124,10 +131,3 @@ _(mostrando los 40 de mayor monto, de 91 en total)_
 | pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,067 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $10,701 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,067 | — | ⏳ Pendiente |
-| pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,067 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $10,701 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.64 (61¢) | $18,888 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.64 (61¢) | $18,888 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.64 (61¢) | $18,888 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.61 (62¢) | $27,555 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.61 (62¢) | $27,555 | — | ⏳ Pendiente |
