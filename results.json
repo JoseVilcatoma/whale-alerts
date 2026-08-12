@@ -25581,5 +25581,31 @@
     "usd": 16789.359998999997,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1753,
+    "timestamp": 1786573391,
+    "username": "Satisfied",
+    "wallet": "0x1ab3580b6d258e31ca0a3efdb93173d081dd64af",
+    "slug": "mlb-bos-tor-2026-08-12",
+    "title": "Boston Red Sox vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 15000.300000000001,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1754,
+    "timestamp": 1786573391,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bos-tor-2026-08-12",
+    "title": "Boston Red Sox vs. Toronto Blue Jays",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 33228.2445,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]
