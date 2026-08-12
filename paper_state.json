@@ -16695,6 +16695,21 @@
       "timestamp": 1786499364.548002,
       "bankroll": 308.86,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago Cubs vs. Washington Nationals: O/U 13.5"
+    },
+    {
+      "timestamp": 1786499436.5356743,
+      "bankroll": 308.86,
+      "event": "won: swisstony \u2014 Spread: Detroit Tigers (-1.5)"
+    },
+    {
+      "timestamp": 1786499436.9364843,
+      "bankroll": 308.86,
+      "event": "won: swisstony \u2014 Spread: Detroit Tigers (-1.5)"
+    },
+    {
+      "timestamp": 1786499442.4410098,
+      "bankroll": 308.86,
+      "event": "won: swisstony \u2014 Spread: Detroit Tigers (-1.5)"
     }
   ]
 }
