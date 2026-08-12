@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 22:15:06 (hora de Perú)
+Actualizado: 2026-08-11 22:17:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $427.13
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 28 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 30 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -461,6 +461,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 56% | 1.63 | ⏳ pendiente | — |
+| 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 45% | 12.38 | ⏳ pendiente | — |
 | swisstony | Spread: Vancouver Whitecaps FC (-1.5) | Tigres de la UANL (BUY) | 98% | 2.29 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 46% | 0.49 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 47% | 0.45 | ⏳ pendiente | — |
@@ -489,5 +491,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 62% | 0.68 | ⏳ pendiente | — |
 | swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 47% | 0.52 | ⏳ pendiente | — |
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 50% | 2.37 | ⏳ pendiente | — |
-| swisstony | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 51% | 1.76 | ⏳ pendiente | — |
-| swisstony | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 50% | 0.57 | ⏳ pendiente | — |
