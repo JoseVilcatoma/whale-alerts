@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 06:48:33 (hora de Perú)
+Actualizado: 2026-08-12 06:50:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
+| BBQChickenisthebesttt | 29 | 16 | 3 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 114 | 97 | 7 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 249 | 151 | 8 | +5.66 USD |
+| UpTheBlues | 249 | 151 | 10 | +5.66 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
@@ -450,6 +450,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 16% | 62.31 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 69% | 108.72 | ⏳ pendiente | — |
+| UpTheBlues | SK Rapid Wien vs. Paide Linnameeskond: O | Over (BUY) | 98% | 14.82 | ⏳ pendiente | — |
+| UpTheBlues | Will SK Rapid Wien win on 2026-08-12? | No (BUY) | 12% | 0.64 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 75% | 118.15 | ⏳ pendiente | — |
 | UpTheBlues | SK Rapid Wien vs. Paide Linnameeskond: B | No (BUY) | 59% | 2.37 | ⏳ pendiente | — |
 | UpTheBlues | Will SK Rapid Wien vs. Paide Linnameesko | Yes (BUY) | 8% | 0.93 | ⏳ pendiente | — |
 | UpTheBlues | Will Debreceni VSC win on 2026-08-12? | Yes (BUY) | 8% | 0.87 | ⏳ pendiente | — |
@@ -475,8 +480,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 52% | 3.81 | ✅ ganada | +3.52 |
 | ferrariChampions2026 | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 52% | 0.55 | ❌ perdida | -0.55 |
 | ferrariChampions2026 | Spread: Las Vegas Aces (-6.5) | Washington Mystics (BUY) | 49% | 1.55 | ❌ perdida | -1.55 |
-| ferrariChampions2026 | Spread: Phoenix Mercury (-1.5) | Phoenix Mercury (BUY) | 49% | 0.53 | ✅ ganada | +0.55 |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 48% | 0.54 | ❌ perdida | -0.54 |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.57 | ✅ ganada | +0.55 |
-| quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.60 | ❌ perdida | -0.60 |
-| ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 56% | 0.51 | ✅ ganada | +0.40 |
