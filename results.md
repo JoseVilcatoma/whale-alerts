@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 14:54:30 (hora de Perú)
+Actualizado: 2026-08-12 14:56:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1878**  ($51,387,461 en total)
+- Apuestas registradas: **1889**  ($51,622,425 en total)
 - Resueltas: **1341** — 796 ganadas / 545 perdidas (**59%** de acierto)
-- Pendientes: 537
-- Apostadores distintos: 167
+- Pendientes: 548
+- Apostadores distintos: 168
 
 ### Balance
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 46 | 43% | $8,650,952 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 47 | 43% | $8,662,057 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 14 | 35% | $2,916,482 | -$564,452 |
-| ferrariChampions2026 | 105 | 32 | 36 | 77% | $2,446,638 | +$168,085 |
+| ferrariChampions2026 | 105 | 32 | 37 | 77% | $2,462,755 | +$168,085 |
 | AV23IUa | 33 | 24 | 21 | 58% | $2,012,237 | +$171,257 |
 | pleaseplease123 | 0 | 44 | 23 | 0% | $1,921,287 | -$1,082,423 |
 | Weaseloftheweek | 11 | 2 | 8 | 85% | $1,747,031 | +$518,388 |
@@ -51,37 +51,48 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | bigspending | 0 | 0 | 5 | — | $333,212 | — |
 | theowalcott | 21 | 0 | 0 | 100% | $318,833 | +$226,502 |
+| 0x076d…8d4c | 8 | 0 | 9 | 100% | $317,687 | +$45,411 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | casualbet2020 | 0 | 0 | 6 | — | $304,949 | — |
+| Feromont | 9 | 0 | 4 | 100% | $304,372 | +$55,222 |
 | fRibrenlc | 9 | 7 | 6 | 56% | $290,662 | +$15,968 |
-| 0x076d…8d4c | 8 | 0 | 8 | 100% | $288,490 | +$45,411 |
 | basementdweller3000 | 6 | 3 | 6 | 67% | $282,034 | +$34,747 |
-| Feromont | 9 | 0 | 3 | 100% | $266,710 | +$55,222 |
+| johnny234 | 4 | 11 | 5 | 27% | $275,256 | -$101,100 |
 | five5120 | 7 | 9 | 2 | 44% | $266,115 | -$84,525 |
-| johnny234 | 4 | 11 | 4 | 27% | $260,256 | -$101,100 |
 | ThornyDevil | 2 | 6 | 1 | 25% | $254,880 | -$207,394 |
 | mikesports | 7 | 8 | 0 | 47% | $243,869 | -$88,869 |
 | TAIWANNUMBERONE | 11 | 1 | 3 | 92% | $217,012 | +$88,234 |
 | skyman44 | 3 | 5 | 3 | 38% | $214,644 | -$23,079 |
 | ohehe | 0 | 11 | 3 | 0% | $213,828 | -$120,995 |
 
-_(mostrando los 40 de mayor monto, de 167 en total)_
+_(mostrando los 40 de mayor monto, de 168 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vtcchampion52 | Will Kai and Speed beat the Minecraft challenge by August 13? | Yes | 1.47 (68¢) | $24,185 | — | ⏳ Pendiente |
+| 0x760f…326a | Will Paris Saint-Germain win on 2026-08-12? | Yes | 2.00 (50¢) | $13,360 | — | ⏳ Pendiente |
 | 0x760f…326a | Will Paris Saint-Germain win on 2026-08-12? | Yes | 2.00 (50¢) | $13,360 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain win on 2026-08-12? | No | 2.00 (50¢) | $11,105 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain win on 2026-08-12? | No | 2.00 (50¢) | $11,105 | — | ⏳ Pendiente |
+| johnny234 | Houston Astros vs. San Francisco Giants | Houston Astros | 1.85 (54¢) | $15,000 | — | ⏳ Pendiente |
 | johnny234 | Houston Astros vs. San Francisco Giants | Houston Astros | 1.85 (54¢) | $15,000 | — | ⏳ Pendiente |
 | icetera | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
 | one8tyfive | Will Paris Saint-Germain win on 2026-08-12? | No | 2.04 (49¢) | $14,686 | — | ⏳ Pendiente |
+| icetera | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
+| one8tyfive | Will Paris Saint-Germain win on 2026-08-12? | No | 2.04 (49¢) | $14,686 | — | ⏳ Pendiente |
 | 0x760f…326a | Will Paris Saint-Germain win on 2026-08-12? | Yes | 2.00 (50¢) | $15,000 | — | ⏳ Pendiente |
+| 0x760f…326a | Will Paris Saint-Germain win on 2026-08-12? | Yes | 2.00 (50¢) | $15,000 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $29,197 | — | ⏳ Pendiente |
+| highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $28,052 | — | ⏳ Pendiente |
 | highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $28,052 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $29,197 | — | ⏳ Pendiente |
 | highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $71,238 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $74,145 | — | ⏳ Pendiente |
 | Feromont | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 1.15 (87¢) | $37,662 | — | ⏳ Pendiente |
+| Feromont | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 1.15 (87¢) | $37,662 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 1.14 (88¢) | $16,117 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 1.14 (88¢) | $16,117 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks | Colorado Rockies | 2.63 (38¢) | $19,000 | — | ⏳ Pendiente |
@@ -120,14 +131,3 @@ _(mostrando los 40 de mayor monto, de 167 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.61 (62¢) | $13,403 | — | ⏳ Pendiente |
 | BreakTheBank | Will Paris Saint-Germain win on 2026-08-12? | No | 2.56 (39¢) | $217,701 | — | ⏳ Pendiente |
 | musholius722 | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.64 (61¢) | $340,507 | — | ⏳ Pendiente |
-| musholius722 | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.64 (61¢) | $340,507 | — | ⏳ Pendiente |
-| BreakTheBank | Will Paris Saint-Germain win on 2026-08-12? | No | 2.56 (39¢) | $217,701 | — | ⏳ Pendiente |
-| AV23IUa | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.64 (61¢) | $37,496 | — | ⏳ Pendiente |
-| BreakTheBank | Will Paris Saint-Germain win on 2026-08-12? | No | 2.56 (39¢) | $23,973 | — | ⏳ Pendiente |
-| AV23IUa | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.64 (61¢) | $37,496 | — | ⏳ Pendiente |
-| BreakTheBank | Will Paris Saint-Germain win on 2026-08-12? | No | 2.56 (39¢) | $23,973 | — | ⏳ Pendiente |
-| AV23IUa | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.64 (61¢) | $37,496 | — | ⏳ Pendiente |
-| BreakTheBank | Will Paris Saint-Germain win on 2026-08-12? | No | 2.56 (39¢) | $23,973 | — | ⏳ Pendiente |
-| tony-sopranchenko | Will Paris Saint-Germain vs. Aston Villa end in a draw? | No | 1.30 (77¢) | $10,626 | — | ⏳ Pendiente |
-| tony-sopranchenko | Will Paris Saint-Germain vs. Aston Villa end in a draw? | No | 1.30 (77¢) | $10,626 | — | ⏳ Pendiente |
-| tony-sopranchenko | Will Paris Saint-Germain vs. Aston Villa end in a draw? | No | 1.30 (77¢) | $10,626 | — | ⏳ Pendiente |
