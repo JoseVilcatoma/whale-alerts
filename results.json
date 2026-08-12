@@ -3163,5 +3163,18 @@
     "usd": 10010.0646,
     "odds_at_bet": 46,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 136,
+    "timestamp": 1786494766,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "wta-osaka-rybakin-2026-08-11",
+    "title": "National Bank Open: Naomi Osaka vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 17026.356000000003,
+    "odds_at_bet": 32,
+    "status": "pending"
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 19:28:46 (hora de Perú)
+Actualizado: 2026-08-11 19:32:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **243**  ($5,111,829 en total)
+- Apuestas registradas: **244**  ($5,128,856 en total)
 - Resueltas: **114** — 91 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 129
+- Pendientes: 130
 - Apostadores distintos: 81
 
 ### Balance
@@ -43,6 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 0 | 3 | 1 | ⚠️ 0% (3) | $54,114 | -$24,454 |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 1 | 0 | 0 | ⚠️ 100% (1) | $53,136 | +$38,478 |
 | ...............................lala | 1 | 2 | 0 | ⚠️ 33% (3) | $49,488 | -$21,461 |
+| Djdjdjekekek | 0 | 0 | 2 | — | $48,341 | — |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 3 | — | $43,772 | — |
 | 0x076d…8d4c | 1 | 0 | 2 | ⚠️ 100% (1) | $41,256 | +$1,092 |
 | kibanachi | 2 | 0 | 0 | ⚠️ 100% (2) | $35,806 | +$6,009 |
@@ -51,7 +52,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | phonesculptor | 0 | 0 | 3 | — | $34,963 | — |
 | 0b1 | 2 | 0 | 0 | ⚠️ 100% (2) | $34,853 | +$7,302 |
 | mikesports | 0 | 0 | 2 | — | $33,024 | — |
-| Djdjdjekekek | 0 | 0 | 1 | — | $31,315 | — |
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $29,744 | +$9,167 |
 | Istaroth | 0 | 0 | 1 | — | $27,704 | — |
 | BaccaratRoulette | 0 | 1 | 0 | ⚠️ 0% (1) | $27,060 | -$27,060 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 81 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | National Bank Open: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 3.12 (32¢) | $17,026 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Alexei Popyrin vs Titouan Droguet | Alexei Popyrin | 1.85 (54¢) | $12,042 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Alexei Popyrin vs Titouan Droguet | Titouan Droguet | 2.17 (46¢) | $10,010 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Alexei Popyrin vs Titouan Droguet | Titouan Droguet | 2.17 (46¢) | $10,010 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 81 en total)_
 | pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.79 (56¢) | $16,947 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.72 (58¢) | $10,088 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.79 (56¢) | $50,400 | — | ⏳ Pendiente |
-| BreakTheBank | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.27 (44¢) | $39,600 | — | ⏳ Pendiente |
