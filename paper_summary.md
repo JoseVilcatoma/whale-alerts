@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 18:52:18 (hora de Perú)
+Actualizado: 2026-08-12 18:54:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $637.22
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 202 | 112 | 36 | -39.02 USD |
+| RN1 | 202 | 112 | 37 | -39.02 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -472,6 +472,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Red Bull Bragantino vs. CA Mineiro: O/U  | Under (BUY) | 99% | 6.68 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres (BUY) | 92% | 0.93 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Miami Marlins (-2.5) | Pittsburgh Pirates (BUY) | 38% | 0.82 | ⏳ pendiente | — |
 | RN1 | Will Montevideo City Torque win on 2026- | Yes (BUY) | 84% | 2.04 | ⏳ pendiente | — |
@@ -501,4 +502,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Inter Miami CF win on 2026-08-12? | No (BUY) | 46% | 0.66 | ⏳ pendiente | — |
 | RN1 | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 33% | 0.72 | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 61% | 2.20 | ⏳ pendiente | — |
-| RN1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 67% | 2.02 | ⏳ pendiente | — |
