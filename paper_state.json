@@ -1,5 +1,5 @@
 {
-  "bankroll": 483.21884142155864,
+  "bankroll": 486.73576449848173,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18345,6 +18345,16 @@
       "timestamp": 1786510120.208353,
       "bankroll": 483.22,
       "event": "won: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786510360.2011983,
+      "bankroll": 483.22,
+      "event": "won: dv-pm \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786510368.0747182,
+      "bankroll": 486.74,
+      "event": "won: ferrariChampions2026 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
     }
   ]
 }
