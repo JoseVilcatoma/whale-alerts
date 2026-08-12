@@ -78529,5 +78529,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786538894.0176916,
     "fills": 1
+  },
+  {
+    "timestamp": 1786539501,
+    "timestamp_added": 1786539502.1903849,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lib-cp-coq-2026-08-12-spread-home-1pt5",
+    "title": "Spread: CA Platense (-1.5)",
+    "outcome": "CD Coquimbo Unido",
+    "side": "BUY",
+    "whale_usd": 385.52000000000004,
+    "whale_pct": 0.348,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786539502.1903944,
+    "fills": 1
   }
 ]
