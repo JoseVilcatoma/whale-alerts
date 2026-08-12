@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 15:59:48 (hora de Perú)
+Actualizado: 2026-08-12 16:01:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $523.33
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 2 | +190.97 USD |
-| theowalcott | 17 | 4 | 1 | +143.32 USD |
+| theowalcott | 17 | 4 | 2 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | wr0ngw4yb3tt0r | 67 | 69 | 1 | +111.27 USD |
 | dv-pm | 4 | 6 | 1 | +89.49 USD |
@@ -458,6 +458,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | Sassy-Bucket | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | WTSA | CA Platense vs. CD Coquimbo Unido: O/U 2 | Over (BUY) | 30% | 1.94 | ⏳ pendiente | — |
 | WTSA | CA Platense vs. CD Coquimbo Unido: O/U 2 | Over (BUY) | 30% | 32.85 | ⏳ pendiente | — |
@@ -486,4 +487,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 75% | 5.39 | ✅ ganada | +1.80 |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 24% | 42.69 | ❌ perdida | -42.69 |
 | 1winstreak1 | Spread: San Francisco Giants (-1.5) | San Francisco Giants (BUY) | 47% | 1.88 | ⏳ pendiente | — |
-| 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 97% | 4.72 | ✅ ganada | +0.15 |
