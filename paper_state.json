@@ -1,5 +1,5 @@
 {
-  "bankroll": 523.8096733446836,
+  "bankroll": 541.1792196940697,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18535,6 +18535,71 @@
       "timestamp": 1786568631.2626948,
       "bankroll": 523.81,
       "event": "won: 1winstreak1 \u2014 Spread: Philadelphia Phillies (-1.5)"
+    },
+    {
+      "timestamp": 1786568694.270289,
+      "bankroll": 524.12,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786568697.1054604,
+      "bankroll": 524.52,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786568698.3458352,
+      "bankroll": 525.4,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786568698.4460337,
+      "bankroll": 530.79,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786568753.0025492,
+      "bankroll": 524.5,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786568753.5134344,
+      "bankroll": 532.07,
+      "event": "won: 1winstreak1 \u2014 Spread: St. Louis Cardinals (-1.5)"
+    },
+    {
+      "timestamp": 1786568755.385196,
+      "bankroll": 543.06,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786568755.4853396,
+      "bankroll": 543.55,
+      "event": "won: 1winstreak1 \u2014 Spread: St. Louis Cardinals (-1.5)"
+    },
+    {
+      "timestamp": 1786568756.5895326,
+      "bankroll": 543.81,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786568756.8900623,
+      "bankroll": 542.91,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786568757.7915502,
+      "bankroll": 542.01,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786568757.8917336,
+      "bankroll": 541.13,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786568757.9919174,
+      "bankroll": 541.18,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
     }
   ]
 }

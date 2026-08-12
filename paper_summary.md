@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 16:04:01 (hora de Perú)
+Actualizado: 2026-08-12 16:06:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $523.81
-**Retorno acumulado:** -47.62%
+**Bankroll actual:** $541.18
+**Retorno acumulado:** -45.88%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,9 +14,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 2 | +190.97 USD |
-| theowalcott | 17 | 4 | 3 | +143.32 USD |
+| theowalcott | 17 | 4 | 4 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 67 | 69 | 1 | +111.27 USD |
+| wr0ngw4yb3tt0r | 67 | 70 | 0 | +104.98 USD |
 | dv-pm | 4 | 6 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 3 | 9 | 2 | +15.41 USD |
-| HomeRunHazard | 114 | 98 | 9 | +11.88 USD |
+| HomeRunHazard | 116 | 99 | 6 | +12.27 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -49,9 +49,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 170 | 114 | 1 | -26.60 USD |
 | quavoo | 158 | 209 | 2 | -28.31 USD |
+| 1winstreak1 | 129 | 97 | 27 | -34.91 USD |
 | RN1 | 200 | 112 | 2 | -39.45 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
-| 1winstreak1 | 122 | 95 | 36 | -58.20 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -457,6 +457,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 1.14 | ⏳ pendiente | — |
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |
@@ -467,16 +468,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 45% | 100.84 | ⏳ pendiente | — |
 | WTSA | Spread: SE Palmeiras (-1.5) | SE Palmeiras (BUY) | 48% | 122.45 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: San Francisco Giants (-2.5) | San Francisco Giants (BUY) | 28% | 1.11 | ⏳ pendiente | — |
-| 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 97% | 1.50 | ⏳ pendiente | — |
-| 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 26% | 0.88 | ⏳ pendiente | — |
-| 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 76% | 17.06 | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 69% | 1.98 | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 57% | 0.90 | ⏳ pendiente | — |
+| 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 97% | 1.50 | ✅ ganada | +0.05 |
+| 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 26% | 0.88 | ❌ perdida | -0.88 |
+| 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 76% | 17.06 | ✅ ganada | +5.39 |
+| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 69% | 1.98 | ✅ ganada | +0.89 |
+| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 57% | 0.90 | ❌ perdida | -0.90 |
 | 1winstreak1 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 31% | 1.36 | ⏳ pendiente | — |
 | 1winstreak1 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 54% | 9.69 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Colorado Rockies (BUY) | 80% | 2.71 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Colorado Rockies (-2.5) | Colorado Rockies (BUY) | 39% | 0.93 | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 63% | 0.68 | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 63% | 0.68 | ✅ ganada | +0.40 |
 | 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 58% | 2.61 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 97% | 4.82 | ✅ ganada | +0.15 |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 93% | 0.63 | ✅ ganada | +0.05 |
@@ -486,4 +487,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: San Francisco Giants (-1.5) | Houston Astros (BUY) | 52% | 0.76 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 24% | 1.83 | ❌ perdida | -1.83 |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 75% | 5.39 | ✅ ganada | +1.80 |
-| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 24% | 42.69 | ❌ perdida | -42.69 |
