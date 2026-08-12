@@ -1,5 +1,5 @@
 {
-  "bankroll": 484.6208331065701,
+  "bankroll": 483.32083310657015,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18410,6 +18410,16 @@
       "timestamp": 1786510493.7471635,
       "bankroll": 484.62,
       "event": "won: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 181.5"
+    },
+    {
+      "timestamp": 1786511995.8245478,
+      "bankroll": 484.03,
+      "event": "lost: 1winstreak1 \u2014 Spread: Kansas City Royals (-2.5)"
+    },
+    {
+      "timestamp": 1786511996.425408,
+      "bankroll": 483.32,
+      "event": "lost: 1winstreak1 \u2014 Spread: Kansas City Royals (-2.5)"
     }
   ]
 }
