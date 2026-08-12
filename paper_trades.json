@@ -76623,5 +76623,28 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786491277.9722803,
     "fills": 1
+  },
+  {
+    "timestamp": 1786494826,
+    "timestamp_added": 1786494826.9177654,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-cin-cws-2026-08-11-total-7pt5",
+    "title": "Cincinnati Reds vs. Chicago White Sox: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 938.9973,
+    "whale_pct": 0.444,
+    "paper_stake_usd": 1.51,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "Sassy-Bucket"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786494827.5755782,
+    "fills": 2
   }
 ]
