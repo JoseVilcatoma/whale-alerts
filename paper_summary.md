@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 08:18:23 (hora de Perú)
+Actualizado: 2026-08-12 12:28:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $450.02
-**Retorno acumulado:** -55.00%
+**Bankroll actual:** $372.49
+**Retorno acumulado:** -62.75%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,14 +13,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 29 | 16 | 13 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
+| BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | dv-pm | 4 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| wr0ngw4yb3tt0r | 65 | 69 | 0 | +23.18 USD |
+| wr0ngw4yb3tt0r | 65 | 69 | 1 | +23.18 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 3 | 9 | 2 | +15.41 USD |
@@ -30,13 +30,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 249 | 151 | 21 | +5.66 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
+| Gaditima | 2 | 2 | 0 | +1.22 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
+| donthackme | 8 | 1 | 0 | +0.11 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
-| jtwyslljy | 0 | 1 | 2 | +0.00 USD |
+| jtwyslljy | 2 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| donthackme | 0 | 0 | 9 | +0.00 USD |
-| Gaditima | 0 | 0 | 4 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -56,9 +56,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
-| Djdjdjekekek | 5 | 12 | 8 | -116.01 USD |
 | BrotherObama | 7 | 17 | 1 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
+| Djdjdjekekek | 5 | 20 | 0 | -137.79 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -452,6 +452,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Baltimore Orioles (-1.5) | Minnesota Twins (BUY) | 62% | 26.54 | ⏳ pendiente | — |
 | SDTrading | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | SDTrading | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
@@ -461,24 +462,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | GKS GieKSa Katowice vs. MH Hapoel Tel Av | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Eintracht Frankfurt (-3.5) | Eintracht Frankfurt (BUY) | 28% | 0.00 | ⏳ pendiente | — |
 | dv-pm | Will GKS GieKSa Katowice win on 2026-08- | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 28% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 63% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 28% | 0.00 | ❌ perdida | -0.00 |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 63% | 0.00 | ❌ perdida | -0.00 |
 | UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Inter Miami CF win on 2026-08-12? | No (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Club León FC win on 2026-08-12? | Yes (BUY) | 28% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Red Bull Bragantino vs. CA Mineiro: Red  | Under (BUY) | 22% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will SE Palmeiras vs. Club Cerro Porteño | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 22% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 22% | 21.78 | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 72% | 0.00 | ❌ perdida | -0.00 |
+| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 60% | 0.00 | ❌ perdida | -0.00 |
+| jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ✅ ganada | +0.00 |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 53% | 0.00 | ❌ perdida | -0.00 |
+| jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ✅ ganada | +0.00 |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 53% | 0.00 | ❌ perdida | -0.00 |
+| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 60% | 0.00 | ❌ perdida | -0.00 |
+| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 55% | 0.00 | ❌ perdida | -0.00 |
+| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 50% | 0.00 | ❌ perdida | -0.00 |
+| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 22% | 0.00 | ❌ perdida | -0.00 |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 48% | 0.00 | ❌ perdida | -0.00 |
+| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 47% | 0.00 | ❌ perdida | -0.00 |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 51% | 0.00 | ❌ perdida | -0.00 |
