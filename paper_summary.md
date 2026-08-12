@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 22:00:34 (hora de Perú)
+Actualizado: 2026-08-11 22:02:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $427.34
-**Retorno acumulado:** -57.27%
+**Bankroll actual:** $427.00
+**Retorno acumulado:** -57.30%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 10 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 15 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 631 | 473 | 25 | -101.53 USD |
+| ferrariChampions2026 | 631 | 474 | 24 | -101.87 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 7 | 13 | 4 | -115.27 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -458,6 +458,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 45% | 5.54 | ⏳ pendiente | — |
+| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 55% | 10.89 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Arizona Diamondbacks (-3.5) | Colorado Rockies (BUY) | 66% | 6.42 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Arizona Diamondbacks (-2.5) | Colorado Rockies (BUY) | 51% | 27.73 | ⏳ pendiente | — |
+| 1winstreak1 | LoL: HANJIN BRION Challengers vs Hanwha  | HANJIN BRION Challengers (BUY) | 42% | 0.87 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Vancouver Whitecaps FC (-1.5) | Tigres de la UANL (BUY) | 98% | 1.04 | ⏳ pendiente | — |
 | swisstony | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 74% | 0.85 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 94% | 1.56 | ⏳ pendiente | — |
@@ -483,8 +488,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 59% | 0.49 | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 82% | 0.70 | ⏳ pendiente | — |
 | swisstony | Tampa Bay Rays vs. Athletics: O/U 10.5 | Over (BUY) | 64% | 0.74 | ⏳ pendiente | — |
-| 1winstreak1 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 71% | 0.47 | ⏳ pendiente | — |
-| UpTheBlues | Tigres de la UANL vs. Vancouver Whitecap | Under (BUY) | 81% | 0.82 | ⏳ pendiente | — |
-| swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 45% | 1.06 | ⏳ pendiente | — |
-| swisstony | Spread: Las Vegas Aces (-7.5) | Las Vegas Aces (BUY) | 35% | 0.82 | ⏳ pendiente | — |
-| swisstony | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 76% | 0.89 | ⏳ pendiente | — |
