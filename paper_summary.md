@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:37:42 (hora de Perú)
+Actualizado: 2026-08-11 21:39:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $429.69
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 165 | 109 | 19 | -28.34 USD |
+| swisstony | 165 | 109 | 22 | -28.34 USD |
 | quavoo | 152 | 186 | 33 | -33.89 USD |
 | RN1 | 198 | 111 | 7 | -38.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -386,7 +386,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-chc-wsh-2026-08-11-total-8pt5 | HomeRunHazard, RN1, Talvez10, dv-pm, ferrariChampions2026, swisstony |
 | wnba-nyl-ind-2026-08-11-spread-home-3pt5 | quavoo, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-0pt5 | quavoo, swisstony |
-| wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
+| wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-1pt5 | RN1, UpTheBlues, swisstony |
 | wnba-nyl-ind-2026-08-11-total-192pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-lyo-spp-2026-08-11-lyo | UpTheBlues, swisstony |
@@ -405,7 +405,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-sf-agf-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | wnba-wsh-las-2026-08-11-total-170pt5 | swisstony, wr0ngw4yb3tt0r |
 | wnba-phx-la-2026-08-11-spread-away-1pt5 | HomeRunHazard, ferrariChampions2026 |
-| mlb-tb-oak-2026-08-11-total-9pt5 | 1winstreak1, HomeRunHazard, Sassy-Bucket |
+| mlb-tb-oak-2026-08-11-total-9pt5 | 1winstreak1, HomeRunHazard, Sassy-Bucket, swisstony |
 | uel-sab-lar-2026-08-11-draw | ferrariChampions2026, swisstony |
 | wnba-phx-la-2026-08-11-total-177pt5 | ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
 | ucl-nec-oly-2026-08-11-nec | UpTheBlues, quavoo |
@@ -454,6 +454,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 45% | 1.06 | ⏳ pendiente | — |
+| swisstony | Spread: Las Vegas Aces (-7.5) | Las Vegas Aces (BUY) | 35% | 0.82 | ⏳ pendiente | — |
+| swisstony | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 76% | 0.89 | ⏳ pendiente | — |
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces | Washington Mystics (BUY) | 30% | 2.85 | ⏳ pendiente | — |
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 70% | 1.09 | ⏳ pendiente | — |
 | swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 49% | 1.13 | ⏳ pendiente | — |
@@ -481,6 +484,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Phoenix Mercury (-1.5) | Phoenix Mercury (BUY) | 49% | 0.53 | ⏳ pendiente | — |
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 48% | 0.54 | ⏳ pendiente | — |
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.57 | ⏳ pendiente | — |
-| quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.60 | ⏳ pendiente | — |
-| ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 56% | 0.51 | ⏳ pendiente | — |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ⏳ pendiente | — |
