@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 17:34:15 (hora de Perú)
+Actualizado: 2026-08-12 17:36:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1974**  ($53,450,789 en total)
+- Apuestas registradas: **1976**  ($53,473,542 en total)
 - Resueltas: **1353** — 804 ganadas / 549 perdidas (**59%** de acierto)
-- Pendientes: 621
+- Pendientes: 623
 - Apostadores distintos: 174
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 18 | 35% | $3,070,137 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 47 | 77% | $2,601,386 | +$168,085 |
-| pleaseplease123 | 0 | 44 | 31 | 0% | $2,154,960 | -$1,082,423 |
+| pleaseplease123 | 0 | 44 | 32 | 0% | $2,165,789 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
 | Weaseloftheweek | 19 | 2 | 7 | 90% | $1,946,083 | +$872,236 |
 | BreakTheBank | 0 | 12 | 8 | 0% | $1,483,516 | -$803,506 |
@@ -75,6 +75,8 @@ _(mostrando los 40 de mayor monto, de 174 en total)_
 | pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $35,328 | — | ⏳ Pendiente |
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $21,440 | — | ⏳ Pendiente |
 | one8tyfive | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.67 (60¢) | $11,923 | — | ⏳ Pendiente |
+| one8tyfive | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.67 (60¢) | $11,923 | — | ⏳ Pendiente |
+| pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $10,829 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $10,829 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $36,568 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 174 en total)_
 | pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $29,668 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $29,668 | — | ⏳ Pendiente |
 | 1winstreak1 | Houston Astros vs. San Francisco Giants | San Francisco Giants | 1.59 (63¢) | $17,622 | — | ⏳ Pendiente |
-| Jsram | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.82 (55¢) | $11,761 | — | ⏳ Pendiente |
-| Jsram | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.82 (55¢) | $11,761 | — | ⏳ Pendiente |
