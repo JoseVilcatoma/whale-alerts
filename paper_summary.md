@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 20:45:39 (hora de Perú)
+Actualizado: 2026-08-11 20:47:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $308.86
@@ -48,12 +48,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 122 | 102 | 59 | -28.98 USD |
 | RN1 | 175 | 100 | 38 | -33.33 USD |
-| quavoo | 151 | 184 | 31 | -34.20 USD |
+| quavoo | 151 | 184 | 32 | -34.20 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 617 | 468 | 24 | -103.61 USD |
+| ferrariChampions2026 | 617 | 468 | 25 | -103.61 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 7 | 13 | 4 | -115.27 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -440,6 +440,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Spread: Las Vegas Aces (-6.5) | Las Vegas Aces (BUY) | 50% | 3.70 | ⏳ pendiente | — |
+| ferrariChampions2026 | Estudiantes de La Plata vs. CD Universid | Over (BUY) | 61% | 0.37 | ⏳ pendiente | — |
 | Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 45% | 1.04 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 36% | 0.00 | ❌ perdida | -0.00 |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 59% | 0.00 | ⏳ pendiente | — |
@@ -468,5 +470,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Fluminense FC win on 2026-08-11? | No (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | RN1 | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| swisstony | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 36% | 0.00 | ⏳ pendiente | — |
