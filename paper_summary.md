@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 16:49:39 (hora de Perú)
+Actualizado: 2026-08-12 16:51:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $541.18
-**Retorno acumulado:** -45.88%
+**Bankroll actual:** $572.83
+**Retorno acumulado:** -42.72%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -44,12 +44,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
+| 1winstreak1 | 132 | 98 | 24 | -3.26 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 170 | 114 | 1 | -26.60 USD |
 | quavoo | 158 | 209 | 2 | -28.31 USD |
-| 1winstreak1 | 129 | 97 | 27 | -34.91 USD |
 | RN1 | 200 | 112 | 2 | -39.45 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -457,6 +457,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Colorado Rockies (-1.5) | Arizona Diamondbacks (BUY) | 20% | 1.17 | ⏳ pendiente | — |
 | BrotherObama | LoL: Team Solid vs RMD Gaming (BO5) - Ci | Team Solid (BUY) | 22% | 13.52 | ⏳ pendiente | — |
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 47.71 | ⏳ pendiente | — |
 | WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 47% | 1.26 | ⏳ pendiente | — |
@@ -486,4 +487,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 93% | 0.63 | ✅ ganada | +0.05 |
 | 1winstreak1 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 50% | 9.48 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 76% | 0.80 | ✅ ganada | +0.25 |
-| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 73% | 0.61 | ✅ ganada | +0.23 |
