@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 00:22:57 (hora de Perú)
+Actualizado: 2026-08-12 00:25:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **662**  ($13,691,078 en total)
+- Apuestas registradas: **663**  ($13,701,467 en total)
 - Resueltas: **350** — 246 ganadas / 104 perdidas (**70%** de acierto)
-- Pendientes: 312
+- Pendientes: 313
 - Apostadores distintos: 95
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: AL (-1.5) vs EDward Gaming (+1.5) | Anyone's Legend | 1.45 (69¢) | $10,390 | — | ⏳ Pendiente |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: NS (-1.5) vs DN SOOPers (+1.5) | DN SOOPers | 1.49 (67¢) | $10,050 | — | ⏳ Pendiente |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: NS (-1.5) vs DN SOOPers (+1.5) | DN SOOPers | 1.49 (67¢) | $10,050 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 2.44 (41¢) | $13,328 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Darwin Blanch | 2.50 (40¢) | $16,421 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Aleksandar Vukic | 1.67 (60¢) | $24,631 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Darwin Blanch | 2.50 (40¢) | $16,421 | — | ⏳ Pendiente |
-| danielwolfmorales3pddb6dl6 | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Martin Damm | 1.96 (51¢) | $12,000 | — | ⏳ Pendiente |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Martin Damm | 1.96 (51¢) | $12,000 | — | ⏳ Pendiente |
