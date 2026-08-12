@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 17:29:41 (hora de Perú)
+Actualizado: 2026-08-12 17:31:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1969**  ($53,335,071 en total)
+- Apuestas registradas: **1971**  ($53,357,823 en total)
 - Resueltas: **1353** — 804 ganadas / 549 perdidas (**59%** de acierto)
-- Pendientes: 616
+- Pendientes: 618
 - Apostadores distintos: 174
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 17 | 35% | $3,033,939 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 47 | 77% | $2,601,386 | +$168,085 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
-| pleaseplease123 | 0 | 44 | 29 | 0% | $2,108,803 | -$1,082,423 |
+| pleaseplease123 | 0 | 44 | 30 | 0% | $2,119,632 | -$1,082,423 |
 | Weaseloftheweek | 19 | 2 | 7 | 90% | $1,946,083 | +$872,236 |
 | BreakTheBank | 0 | 12 | 8 | 0% | $1,483,516 | -$803,506 |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 174 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| one8tyfive | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.67 (60¢) | $11,923 | — | ⏳ Pendiente |
+| pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $10,829 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $36,568 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.82 (55¢) | $33,228 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 174 en total)_
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.22 (82¢) | $29,000 | — | ⏳ Pendiente |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.22 (82¢) | $29,000 | — | ⏳ Pendiente |
 | 1winstreak1 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.85 (54¢) | $12,906 | — | ⏳ Pendiente |
-| 1winstreak1 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.85 (54¢) | $12,906 | — | ⏳ Pendiente |
-| MODDI | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.25 (80¢) | $17,190 | — | ⏳ Pendiente |
