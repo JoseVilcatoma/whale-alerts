@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 02:41:35 (hora de Perú)
+Actualizado: 2026-08-12 02:45:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $444.30
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
-| AV23IUa | 3 | 3 | 2 | +46.51 USD |
+| AV23IUa | 3 | 3 | 3 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 65 | 69 | 0 | +23.18 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -450,6 +450,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: Team Falcons vs K27 (BO1 | Team Falcons (BUY) | 79% | 0.67 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Team Falcons vs K27 (BO1 | Team Falcons (BUY) | 79% | 10.74 | ⏳ pendiente | — |
 | UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.44 | ⏳ pendiente | — |
 | Gaditima | Valorant: All Gamers vs TEC Esports (BO3 | All Gamers (BUY) | 66% | 0.46 | ⏳ pendiente | — |
@@ -479,4 +480,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.60 | ❌ perdida | -0.60 |
 | ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 56% | 0.51 | ✅ ganada | +0.40 |
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ❌ perdida | -0.46 |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 53% | 0.48 | ❌ perdida | -0.48 |
