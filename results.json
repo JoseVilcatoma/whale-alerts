@@ -25178,5 +25178,31 @@
     "usd": 14860.721200000002,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1722,
+    "timestamp": 1786570495,
+    "username": "DonaldinhoTrumpito",
+    "wallet": "0x7523cafcee7bcf2db9a79d80e0d79b88a9a54c4c",
+    "slug": "atp-tien-shelton-2026-08-12",
+    "title": "National Bank Open: Learner Tien vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 31293.873600000003,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1723,
+    "timestamp": 1786570495,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "atp-tien-shelton-2026-08-12",
+    "title": "National Bank Open: Learner Tien vs Ben Shelton",
+    "outcome": "Learner Tien",
+    "side": "BUY",
+    "usd": 20399.996600000002,
+    "odds_at_bet": 34,
+    "status": "pending"
   }
 ]
