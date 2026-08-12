@@ -80943,5 +80943,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786532506.1371963,
     "fills": 2
+  },
+  {
+    "timestamp": 1786532684,
+    "timestamp_added": 1786532684.4799745,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "auc-alf-sut-2026-08-12-total-2pt5",
+    "title": "APIA Leichhardt FC vs. Sydney United 58 FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 708.2,
+    "whale_pct": 0.954,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786532684.4799838,
+    "fills": 1
   }
 ]
