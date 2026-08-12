@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 15:05:28 (hora de Perú)
+Actualizado: 2026-08-12 15:07:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $559.36
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | dv-pm | 4 | 5 | 2 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 88 | 28 | +59.32 USD |
+| 1winstreak1 | 107 | 88 | 31 | +59.32 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 65 | 69 | 3 | +23.18 USD |
@@ -455,6 +455,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 66% | 0.97 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Colorado Rockies (BUY) | 75% | 2.32 | ⏳ pendiente | — |
+| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 58% | 0.59 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 8.5 | Over (BUY) | 64% | 1.80 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Tampa Bay Rays (-3.5) | Athletics (BUY) | 47% | 0.76 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 35% | 9.07 | ⏳ pendiente | — |
@@ -482,6 +485,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Philadelphia Phillies (-1.5) | St. Louis Cardinals (BUY) | 58% | 0.66 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 48% | 28.18 | ⏳ pendiente | — |
 | Sassy-Bucket | Houston Astros vs. San Francisco Giants: | Over (BUY) | 48% | 25.75 | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 43% | 77.97 | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 14% | 1.19 | ❌ perdida | -1.19 |
-| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under (BUY) | 64% | 1.00 | ⏳ pendiente | — |
