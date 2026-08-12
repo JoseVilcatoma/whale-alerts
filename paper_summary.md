@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 15:13:44 (hora de Perú)
+Actualizado: 2026-08-12 15:15:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $559.36
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | dv-pm | 4 | 5 | 2 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 88 | 32 | +59.32 USD |
+| 1winstreak1 | 107 | 88 | 38 | +59.32 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 65 | 69 | 3 | +23.18 USD |
@@ -455,6 +455,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 37% | 0.90 | ⏳ pendiente | — |
+| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 72% | 0.93 | ⏳ pendiente | — |
+| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 21% | 4.79 | ⏳ pendiente | — |
+| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 29% | 6.62 | ⏳ pendiente | — |
+| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 67% | 3.04 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Minnesota Twins (-3.5) | Baltimore Orioles (BUY) | 89% | 24.43 | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 72% | 0.67 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 66% | 0.97 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Colorado Rockies (BUY) | 75% | 2.32 | ⏳ pendiente | — |
@@ -479,9 +485,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 54% | 5.54 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Tampa Bay Rays (-2.5) | Athletics (BUY) | 46% | 40.59 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Tampa Bay Rays (-1.5) | Athletics (BUY) | 25% | 12.08 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 52% | 0.93 | ⏳ pendiente | — |
-| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 46% | 0.76 | ⏳ pendiente | — |
-| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 50% | 1.66 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Tampa Bay Rays (-2.5) | Athletics (BUY) | 45% | 2.83 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Philadelphia Phillies (-1.5) | St. Louis Cardinals (BUY) | 58% | 0.66 | ⏳ pendiente | — |
-| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 48% | 28.18 | ⏳ pendiente | — |
