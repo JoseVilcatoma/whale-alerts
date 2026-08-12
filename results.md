@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 06:07:45 (hora de Perú)
+Actualizado: 2026-08-12 06:09:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **979**  ($20,028,231 en total)
+- Apuestas registradas: **984**  ($20,106,865 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 190
-- Apostadores distintos: 106
+- Pendientes: 195
+- Apostadores distintos: 107
 
 ### Balance
 
@@ -27,8 +27,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 41 | 0 | 41% | $1,811,081 | -$218,949 |
 | AV23IUa | 23 | 11 | 27 | 68% | $1,601,781 | +$348,929 |
 | ferrariChampions2026 | 79 | 25 | 2 | 76% | $1,555,768 | +$58,976 |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 13 | 28% | $1,489,732 | -$743,370 |
-| Djdjdjekekek | 27 | 3 | 7 | 90% | $1,175,727 | +$494,952 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 15 | 28% | $1,526,264 | -$743,370 |
+| Djdjdjekekek | 27 | 3 | 8 | 90% | $1,186,720 | +$494,952 |
 | pleaseplease123 | 0 | 39 | 0 | 0% | $991,234 | -$991,234 |
 | Weaseloftheweek | 11 | 2 | 1 | 85% | $917,411 | +$518,388 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
@@ -55,9 +55,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x076d…8d4c | 7 | 0 | 3 | ⚠️ 100% (7) | $137,506 | +$37,453 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
 | Lakersfan111 | 1 | 0 | 9 | ⚠️ 100% (1) | $129,884 | +$9,167 |
+| ExplosiveNinja | 0 | 0 | 10 | — | $122,231 | — |
 | DonaldinhoTrumpito | 0 | 0 | 6 | — | $112,406 | — |
 | Marcoli | 2 | 0 | 3 | ⚠️ 100% (2) | $111,211 | +$28,966 |
-| ExplosiveNinja | 0 | 0 | 9 | — | $109,231 | — |
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
 | Mylifeisover | 6 | 0 | 0 | ⚠️ 100% (6) | $106,449 | +$90,679 |
 | TAIWANNUMBERONE | 0 | 1 | 6 | ⚠️ 0% (1) | $104,909 | -$17,114 |
@@ -65,12 +65,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | phonesculptor | 0 | 8 | 0 | 0% | $91,088 | -$91,088 |
 | AGUGava | 5 | 2 | 0 | ⚠️ 71% (7) | $88,581 | +$26,063 |
 
-_(mostrando los 40 de mayor monto, de 106 en total)_
+_(mostrando los 40 de mayor monto, de 107 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.82 (55¢) | $14,600 | — | ⏳ Pendiente |
+| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.22 (45¢) | $10,994 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.75 (57¢) | $21,932 | — | ⏳ Pendiente |
+| ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.33 (43¢) | $18,109 | — | ⏳ Pendiente |
+| ExplosiveNinja | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | JiJieHao | 1.54 (65¢) | $13,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $33,229 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $18,900 | — | ⏳ Pendiente |
 | Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.70 (37¢) | $19,236 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 106 en total)_
 | ferrariChampions2026 | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.96 (51¢) | $18,804 | — | ⏳ Pendiente |
 | Djdjdjekekek | Astana: Fajing Sun vs Semen Pankin | Semen Pankin | 2.04 (49¢) | $18,002 | — | ⏳ Pendiente |
 | Marcoli | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.49 (67¢) | $11,211 | — | ⏳ Pendiente |
-| NemecGhudini | LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner | DN SOOPers | 2.50 (40¢) | $13,600 | — | ⏳ Pendiente |
-| SineNooneEI | LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner | Nongshim Red Force | 1.67 (60¢) | $21,589 | -$360 | 💰 Vendida antes |
-| ComingBack | Astana: Takuya Kumasaka vs Hayato Matsuoka | Hayato Matsuoka | 1.18 (85¢) | $12,752 | — | ⏳ Pendiente |
-| ComingBack | Astana: Takuya Kumasaka vs Hayato Matsuoka | Hayato Matsuoka | 1.18 (85¢) | $12,752 | — | ⏳ Pendiente |
-| Djdjdjekekek | LoL: HANJIN BRION Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group | HANJIN BRION Challengers | 1.33 (75¢) | $11,250 | — | ⏳ Pendiente |
