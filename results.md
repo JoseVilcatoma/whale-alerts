@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 19:57:52 (hora de Perú)
+Actualizado: 2026-08-11 19:59:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **265**  ($5,608,391 en total)
-- Resueltas: **114** — 91 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 151
+- Apuestas registradas: **269**  ($5,701,214 en total)
+- Resueltas: **115** — 92 ganadas / 23 perdidas (**80%** de acierto)
+- Pendientes: 154
 - Apostadores distintos: 84
 
 ### Balance
 
-- **Resultado de los apostadores: +$374,510** sobre $2,287,552 apostados (ROI **+16.4%**)
+- **Resultado de los apostadores: +$384,280** sobre $2,305,871 apostados (ROI **+16.7%**)
 - Copiando $100 fijo en cada una: **+$923** sobre $11,100 (ROI **+8.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -24,14 +24,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 17 | 38% | $596,768 | -$139,198 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 18 | 38% | $608,538 | -$139,198 |
+| AV23IUa | 4 | 0 | 14 | ⚠️ 100% (4) | $526,033 | +$109,102 |
 | ferrariChampions2026 | 23 | 0 | 9 | 100% | $481,826 | +$57,935 |
-| AV23IUa | 4 | 0 | 12 | ⚠️ 100% (4) | $471,131 | +$109,102 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 19 | 0 | 0 | 100% | $415,077 | +$195,517 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 11 | — | $347,753 | — |
 | Weaseloftheweek | 3 | 1 | 1 | ⚠️ 75% (4) | $303,804 | +$7,132 |
+| pleaseplease123 | 0 | 0 | 9 | — | $279,435 | — |
 | BreakTheBank | 0 | 0 | 4 | — | $267,835 | — |
-| pleaseplease123 | 0 | 0 | 8 | — | $253,284 | — |
 | SDTrading | 0 | 0 | 11 | — | $201,460 | — |
 | Talvez10 | 0 | 0 | 9 | — | $165,672 | — |
 | TennisLove | 2 | 0 | 0 | ⚠️ 100% (2) | $152,883 | +$113,054 |
@@ -72,8 +72,12 @@ _(mostrando los 40 de mayor monto, de 84 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $26,152 | — | ⏳ Pendiente |
+| pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $26,152 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Marcos Giron | 1.47 (68¢) | $37,902 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Henrique Rocha | 3.12 (32¢) | $11,770 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Marcos Giron | 1.47 (68¢) | $37,902 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Henrique Rocha | 3.12 (32¢) | $11,770 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open, Qualification: Mackenzie McDonald vs Yibing Wu | Mackenzie McDonald | 1.92 (52¢) | $17,000 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Mackenzie McDonald vs Yibing Wu | Mackenzie McDonald | 1.92 (52¢) | $17,000 | — | ⏳ Pendiente |
 | KioskJammer | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 2.04 (49¢) | $17,150 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Texas Rangers (-1.5) | Texas Rangers | 2.17 (46¢) | $11,167 | — | ⏳ Pendiente |
@@ -111,7 +115,7 @@ _(mostrando los 40 de mayor monto, de 84 en total)_
 | AGUGava | National Bank Open: Naomi Osaka vs Elena Rybakina | Naomi Osaka | 1.59 (63¢) | $14,194 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Naomi Osaka vs Elena Rybakina | Naomi Osaka | 2.04 (49¢) | $18,913 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.96 (51¢) | $10,578 | — | ⏳ Pendiente |
-| johnny234 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.67 (60¢) | $18,320 | — | ⏳ Pendiente |
+| johnny234 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.67 (60¢) | $18,320 | +$9,771 | 💰 Vendida antes |
 | ic4cream | Spread: Chicago White Sox (-1.5) | Cincinnati Reds | 1.69 (59¢) | $11,897 | — | ⏳ Pendiente |
 | ililili1lil1i1 | Cincinnati Reds vs. Chicago White Sox | Cincinnati Reds | 2.50 (40¢) | $14,480 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Chicago White Sox | Chicago White Sox | 1.67 (60¢) | $17,757 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 84 en total)_
 | theowalcott | Will Club Bolívar win on 2026-08-11? | No | 2.04 (49¢) | $17,062 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Quentin Halys vs Soon-Woo Kwon | Quentin Halys | 3.45 (29¢) | $12,792 | — | ⏳ Pendiente |
 | Djdjdjekekek | Cincinnati Open, Qualification: Quentin Halys vs Soon-Woo Kwon | Soon-Woo Kwon | 1.41 (71¢) | $31,315 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.79 (56¢) | $12,119 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Toronto Blue Jays: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $16,955 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $22,040 | — | ⏳ Pendiente |
-| mikesports | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $18,774 | — | ⏳ Pendiente |

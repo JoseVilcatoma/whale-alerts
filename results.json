@@ -75,7 +75,9 @@
     "side": "BUY",
     "usd": 18319.819999199997,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": 9770.57,
+    "precio_salida": 92
   },
   {
     "telegram_msg_id": 11,
@@ -3447,6 +3449,58 @@
     "outcome": "Under",
     "side": "BUY",
     "usd": 26151.6476,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 159,
+    "timestamp": 1786496056,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-kc-lad-2026-08-11-total-8pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 26151.6476,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 160,
+    "timestamp": 1786495881,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-giron-rocha-2026-08-11",
+    "title": "Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha",
+    "outcome": "Marcos Giron",
+    "side": "BUY",
+    "usd": 37901.6768,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 161,
+    "timestamp": 1786495881,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-giron-rocha-2026-08-11",
+    "title": "Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha",
+    "outcome": "Henrique Rocha",
+    "side": "BUY",
+    "usd": 11769.9328,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 162,
+    "timestamp": 1786495855,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-mcdonal-wu-2026-08-11",
+    "title": "Cincinnati Open, Qualification: Mackenzie McDonald vs Yibing Wu",
+    "outcome": "Mackenzie McDonald",
+    "side": "BUY",
+    "usd": 17000.000000483964,
     "odds_at_bet": 52,
     "status": "pending"
   }
