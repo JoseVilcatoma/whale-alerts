@@ -8178,5 +8178,31 @@
     "usd": 64863.7613,
     "odds_at_bet": 83,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 474,
+    "timestamp": 1786503366,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-col-ari-2026-08-11",
+    "title": "Colorado Rockies vs. Arizona Diamondbacks",
+    "outcome": "Arizona Diamondbacks",
+    "side": "BUY",
+    "usd": 10129.9005,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 475,
+    "timestamp": 1786503384,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-col-ari-2026-08-11",
+    "title": "Colorado Rockies vs. Arizona Diamondbacks",
+    "outcome": "Arizona Diamondbacks",
+    "side": "BUY",
+    "usd": 15684.7015,
+    "odds_at_bet": 85,
+    "status": "pending"
   }
 ]
