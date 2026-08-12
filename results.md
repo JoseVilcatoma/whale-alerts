@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 12:41:56 (hora de Perú)
+Actualizado: 2026-08-12 12:44:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1495**  ($36,884,886 en total)
-- Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 556
+- Apuestas registradas: **1510**  ($37,657,850 en total)
+- Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
+- Pendientes: 569
 - Apostadores distintos: 143
 
 ### Balance
 
-- **Resultado de los apostadores: +$313,973** sobre $19,576,210 apostados (ROI **+1.6%**)
+- **Resultado de los apostadores: +$313,973** sobre $19,670,210 apostados (ROI **+1.6%**)
 - Copiando $100 fijo en cada una: **+$1,274** sobre $92,000 (ROI **+1.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -24,21 +24,22 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 65 | 28% | $6,009,022 | -$789,178 |
-| Djdjdjekekek | 36 | 12 | 76 | 75% | $5,588,302 | +$573,956 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 4 | 36% | $2,198,331 | -$421,290 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 67 | 28% | $6,098,694 | -$789,178 |
+| Djdjdjekekek | 36 | 12 | 77 | 75% | $5,657,802 | +$573,956 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 6 | 36% | $2,374,224 | -$421,290 |
 | ferrariChampions2026 | 90 | 29 | 21 | 76% | $2,018,480 | +$113,934 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
 | Weaseloftheweek | 11 | 2 | 7 | 85% | $1,636,724 | +$518,388 |
-| pleaseplease123 | 0 | 44 | 8 | 0% | $1,304,131 | -$1,082,423 |
+| pleaseplease123 | 0 | 44 | 9 | 0% | $1,340,870 | -$1,082,423 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
+| Lakersfan111 | 1 | 3 | 31 | ⚠️ 25% (4) | $653,923 | -$28,993 |
 | texaskid | 18 | 0 | 0 | 100% | $598,663 | +$455,165 |
-| Lakersfan111 | 1 | 3 | 30 | ⚠️ 25% (4) | $593,460 | -$28,993 |
-| Sassy-Bucket | 10 | 16 | 3 | 38% | $585,618 | -$190,303 |
+| Sassy-Bucket | 12 | 16 | 1 | 43% | $585,618 | -$190,303 |
 | SDTrading | 25 | 6 | 0 | 81% | $566,130 | +$328,056 |
 | Talvez10 | 24 | 3 | 0 | 89% | $497,016 | +$224,365 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
-| wr0ngw4yb3tt0r | 9 | 6 | 4 | 60% | $419,179 | +$13,912 |
+| wr0ngw4yb3tt0r | 9 | 6 | 5 | 60% | $463,385 | +$13,912 |
+| S-Works | 0 | 0 | 4 | — | $459,291 | — |
 | ActionReaction | 0 | 0 | 14 | — | $376,692 | — |
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
@@ -49,7 +50,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Marcoli | 7 | 0 | 3 | ⚠️ 100% (7) | $273,944 | +$95,170 |
 | ThornyDevil | 2 | 1 | 6 | ⚠️ 67% (3) | $254,880 | +$2,354 |
 | mikesports | 7 | 8 | 0 | 47% | $243,869 | -$88,869 |
-| S-Works | 0 | 0 | 2 | — | $229,645 | — |
 | five5120 | 2 | 1 | 12 | ⚠️ 67% (3) | $225,368 | -$15,925 |
 | johnny234 | 3 | 4 | 9 | ⚠️ 43% (7) | $224,256 | -$21,018 |
 | fRibrenlc | 9 | 4 | 4 | 69% | $220,701 | +$46,634 |
@@ -71,6 +71,16 @@ _(mostrando los 40 de mayor monto, de 143 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $128,172 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $44,206 | — | ⏳ Pendiente |
+| pleaseplease123 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $36,739 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.33 (30¢) | $69,501 | — | ⏳ Pendiente |
+| S-Works | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $19,645 | — | ⏳ Pendiente |
+| Anjun | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $15,555 | — | ⏳ Pendiente |
+| Lakersfan111 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $60,463 | — | ⏳ Pendiente |
+| norrisfan | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $13,490 | — | ⏳ Pendiente |
+| ARI100KRAT | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $10,650 | — | ⏳ Pendiente |
+| TheMafiaa | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $13,502 | — | ⏳ Pendiente |
 | ARI100KRAT | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $10,650 | — | ⏳ Pendiente |
 | norrisfan | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $13,490 | — | ⏳ Pendiente |
 | TheMafiaa | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $13,502 | — | ⏳ Pendiente |
@@ -82,11 +92,16 @@ _(mostrando los 40 de mayor monto, de 143 en total)_
 | pleaseplease123 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.61 (62¢) | $33,679 | — | ⏳ Pendiente |
 | Feromont | Baltimore Orioles vs. Minnesota Twins | Minnesota Twins | 1.96 (51¢) | $10,191 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.33 (30¢) | $162,342 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $45,571 | — | ⏳ Pendiente |
+| S-Works | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $210,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $44,101 | — | ⏳ Pendiente |
+| ARI100KRAT | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $13,647 | — | ⏳ Pendiente |
 | ARI100KRAT | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $13,647 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $44,101 | — | ⏳ Pendiente |
 | S-Works | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $210,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $45,571 | — | ⏳ Pendiente |
 | Sassy-Bucket | Baltimore Orioles vs. Minnesota Twins: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $40,264 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $47,721 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $47,721 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Baltimore Orioles vs. Minnesota Twins: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $23,847 | — | ⏳ Pendiente |
 | fRibrenlc | Baltimore Orioles vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $10,222 | — | ⏳ Pendiente |
@@ -116,18 +131,3 @@ _(mostrando los 40 de mayor monto, de 143 en total)_
 | Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.57 (28¢) | $45,143 | — | ⏳ Pendiente |
 | casualbet2020 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $72,000 | — | ⏳ Pendiente |
 | Nooserac | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $18,000 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | 3DMAX | 5.00 (20¢) | $51,415 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.25 (80¢) | $191,510 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.19 (84¢) | $11,013 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | 3DMAX | 5.00 (20¢) | $108,672 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.25 (80¢) | $422,903 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | 3DMAX | 5.00 (20¢) | $108,672 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.25 (80¢) | $422,903 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.18 (85¢) | $16,779 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.18 (85¢) | $16,779 | — | ⏳ Pendiente |
-| busosuds | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $13,247 | — | ⏳ Pendiente |
-| busosuds | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $13,247 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.11 (90¢) | $14,674 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.45 (29¢) | $16,730 | — | ⏳ Pendiente |
-| NemecGhudini | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $24,850 | — | ⏳ Pendiente |
-| 787-HUEV-W-ZOPE | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $11,173 | — | ⏳ Pendiente |
