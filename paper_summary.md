@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 22:27:35 (hora de Perú)
+Actualizado: 2026-08-11 22:29:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $427.84
-**Retorno acumulado:** -57.22%
+**Bankroll actual:** $421.80
+**Retorno acumulado:** -57.82%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 108 | 87 | 38 | +60.66 USD |
+| 1winstreak1 | 108 | 87 | 39 | +60.66 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -48,15 +48,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 170 | 114 | 40 | -27.78 USD |
 | quavoo | 152 | 186 | 34 | -33.89 USD |
-| RN1 | 199 | 111 | 6 | -38.43 USD |
+| RN1 | 199 | 111 | 7 | -38.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 635 | 474 | 20 | -101.74 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
-| BrotherObama | 7 | 13 | 4 | -115.27 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
+| BrotherObama | 7 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
@@ -459,11 +459,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lec-rsl-jua-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 | lec-tig-vwh-2026-08-11-spread-away-1pt5 | UpTheBlues, swisstony |
 | wnba-wsh-las-2026-08-11-total-167pt5 | 1winstreak1, swisstony |
+| mlb-col-ari-2026-08-11-spread-away-2pt5 | 1winstreak1, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 55% | 10.36 | ⏳ pendiente | — |
+| RN1 | Spread: Colorado Rockies (-2.5) | Arizona Diamondbacks (BUY) | 82% | 0.83 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Colorado Rockies (-2.5) | Colorado Rockies (BUY) | 18% | 0.46 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 44% | 1.80 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 46% | 0.54 | ⏳ pendiente | — |
@@ -492,5 +495,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 36% | 0.77 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 51% | 0.80 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 60% | 0.50 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 49% | 1.11 | ⏳ pendiente | — |
-| swisstony | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 62% | 0.75 | ⏳ pendiente | — |
