@@ -1,5 +1,5 @@
 {
-  "bankroll": 451.2602945904423,
+  "bankroll": 450.0202945904423,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18150,6 +18150,11 @@
       "timestamp": 1786534578.6434352,
       "bankroll": 451.26,
       "event": "won: ferrariChampions2026 \u2014 Real Salt Lake vs. FC Ju\u00e1rez: O/U 2.5"
+    },
+    {
+      "timestamp": 1786540256.4298322,
+      "bankroll": 450.02,
+      "event": "lost: AV23IUa \u2014 Counter-Strike: FUT Esports vs TYLOO (BO1) - Esports World Cup Group C"
     }
   ]
 }
