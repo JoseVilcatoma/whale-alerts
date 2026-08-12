@@ -1,5 +1,5 @@
 {
-  "bankroll": 339.05875853621643,
+  "bankroll": 321.85875853621644,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -16405,6 +16405,61 @@
       "timestamp": 1786494716.900402,
       "bankroll": 339.06,
       "event": "won: wr0ngw4yb3tt0r \u2014 O/U 1.5 Rounds"
+    },
+    {
+      "timestamp": 1786495951.1978614,
+      "bankroll": 339.06,
+      "event": "lost: HomeRunHazard \u2014 Chicago Cubs vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786495960.3298347,
+      "bankroll": 321.86,
+      "event": "lost: dv-pm \u2014 Chicago Cubs vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786495960.4299855,
+      "bankroll": 321.86,
+      "event": "won: Talvez10 \u2014 Chicago Cubs vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786495960.53016,
+      "bankroll": 321.86,
+      "event": "won: Talvez10 \u2014 Chicago Cubs vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786495981.4362435,
+      "bankroll": 321.86,
+      "event": "won: Talvez10 \u2014 Chicago Cubs vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786495981.5364711,
+      "bankroll": 321.86,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Cubs vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786495985.634922,
+      "bankroll": 321.86,
+      "event": "lost: swisstony \u2014 Chicago Cubs vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786495987.710075,
+      "bankroll": 321.86,
+      "event": "lost: swisstony \u2014 Chicago Cubs vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786495988.7120287,
+      "bankroll": 321.86,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Cubs vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786495992.598716,
+      "bankroll": 321.86,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Cubs vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786495996.6827087,
+      "bankroll": 321.86,
+      "event": "won: RN1 \u2014 Chicago Cubs vs. Washington Nationals: O/U 8.5"
     }
   ]
 }

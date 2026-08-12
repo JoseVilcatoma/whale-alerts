@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 19:51:10 (hora de Perú)
+Actualizado: 2026-08-11 19:55:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $339.06
-**Retorno acumulado:** -66.09%
+**Bankroll actual:** $321.86
+**Retorno acumulado:** -67.81%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
-| dv-pm | 3 | 4 | 2 | +106.69 USD |
+| dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 2 | 6 | 4 | +17.41 USD |
-| HomeRunHazard | 93 | 83 | 35 | +15.57 USD |
+| HomeRunHazard | 93 | 84 | 34 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -46,14 +46,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 122 | 97 | 64 | -28.98 USD |
-| RN1 | 173 | 99 | 40 | -33.33 USD |
+| swisstony | 122 | 99 | 62 | -28.98 USD |
+| RN1 | 174 | 99 | 39 | -33.33 USD |
 | quavoo | 151 | 181 | 30 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| Talvez10 | 4 | 11 | 4 | -82.84 USD |
+| Talvez10 | 7 | 11 | 1 | -82.84 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 614 | 464 | 29 | -105.11 USD |
+| ferrariChampions2026 | 614 | 467 | 26 | -105.11 USD |
 | BrotherObama | 7 | 5 | 12 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -446,7 +446,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Avaí FC vs. CR Brasil end in a draw | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Avaí FC win on 2026-08-11? | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| RN1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 78% | 0.00 | ⏳ pendiente | — |
+| RN1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 78% | 0.00 | ✅ ganada | +0.00 |
 | RN1 | Spread: New York Mets (-1.5) | Atlanta Braves (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Fluminense FC vs. CS Independiente  | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
