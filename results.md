@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 12:25:44 (hora de Perú)
+Actualizado: 2026-08-12 12:27:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1464**  ($35,573,591 en total)
+- Apuestas registradas: **1466**  ($35,732,987 en total)
 - Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 525
+- Pendientes: 527
 - Apostadores distintos: 138
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 63 | 28% | $5,919,349 | -$789,178 |
 | Djdjdjekekek | 36 | 12 | 73 | 75% | $5,306,602 | +$573,956 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 0 | 36% | $2,039,712 | -$421,290 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 1 | 36% | $2,119,712 | -$421,290 |
 | ferrariChampions2026 | 90 | 29 | 19 | 76% | $1,970,786 | +$113,934 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
 | Weaseloftheweek | 11 | 2 | 7 | 85% | $1,636,724 | +$518,388 |
@@ -42,13 +42,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 0 | 11 | ⚠️ 100% (5) | $325,163 | +$87,105 |
+| wr0ngw4yb3tt0r | 9 | 6 | 1 | 60% | $319,097 | +$13,912 |
 | theowalcott | 21 | 0 | 0 | 100% | $318,833 | +$226,502 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | ExplosiveNinja | 8 | 0 | 13 | 100% | $281,127 | +$137,489 |
 | Marcoli | 7 | 0 | 3 | ⚠️ 100% (7) | $273,944 | +$95,170 |
 | ThornyDevil | 2 | 1 | 6 | ⚠️ 67% (3) | $254,880 | +$2,354 |
 | mikesports | 7 | 8 | 0 | 47% | $243,869 | -$88,869 |
-| wr0ngw4yb3tt0r | 9 | 6 | 0 | 60% | $239,701 | +$13,912 |
 | five5120 | 2 | 1 | 12 | ⚠️ 67% (3) | $225,368 | -$15,925 |
 | johnny234 | 3 | 4 | 9 | ⚠️ 43% (7) | $224,256 | -$21,018 |
 | Feromont | 9 | 0 | 0 | 100% | $208,666 | +$55,222 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 138 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Minnesota Twins | Baltimore Orioles | 2.00 (50¢) | $80,000 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Baltimore Orioles vs. Minnesota Twins | Minnesota Twins | 2.00 (50¢) | $79,396 | — | ⏳ Pendiente |
 | hansama231 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $52,500 | — | ⏳ Pendiente |
 | casualbet2020 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $29,650 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.33 (30¢) | $49,857 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 138 en total)_
 | fRibrenlc | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $16,406 | — | ⏳ Pendiente |
 | johnny234 | Baltimore Orioles vs. Minnesota Twins | Baltimore Orioles | 2.00 (50¢) | $11,000 | — | ⏳ Pendiente |
 | johnny234 | Baltimore Orioles vs. Minnesota Twins | Baltimore Orioles | 2.00 (50¢) | $11,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hamburg: Raul Brancaccio vs Marvin Moeller | Raul Brancaccio | 1.52 (66¢) | $10,734 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hamburg: Raul Brancaccio vs Marvin Moeller | Raul Brancaccio | 1.52 (66¢) | $10,734 | — | ⏳ Pendiente |
