@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 01:18:18 (hora de Perú)
+Actualizado: 2026-08-12 01:20:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $446.17
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 3 | 9 | 0 | +15.41 USD |
-| HomeRunHazard | 114 | 97 | 0 | +13.95 USD |
+| HomeRunHazard | 114 | 97 | 1 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | UpTheBlues | 244 | 150 | 10 | +5.17 USD |
@@ -447,6 +447,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 45% | 2.07 | ⏳ pendiente | — |
 | UpTheBlues | Will Paide Linnameeskond win on 2026-08- | No (BUY) | 97% | 1.75 | ⏳ pendiente | — |
 | UpTheBlues | Will Paris Saint-Germain win on 2026-08- | Yes (BUY) | 56% | 0.51 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: FUT Esports vs TYLOO (BO | TYLOO (BUY) | 41% | 1.24 | ⏳ pendiente | — |
@@ -476,4 +477,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Real Salt Lake win on 2026-08-11? | No (BUY) | 44% | 0.59 | ⏳ pendiente | — |
 | quavoo | Spread: Las Vegas Aces (-6.5) | Las Vegas Aces (BUY) | 50% | 3.70 | ✅ ganada | +3.70 |
 | ferrariChampions2026 | Estudiantes de La Plata vs. CD Universid | Over (BUY) | 61% | 0.37 | ✅ ganada | +0.24 |
-| Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 45% | 1.04 | ❌ perdida | -1.04 |
