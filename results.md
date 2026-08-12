@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 04:15:04 (hora de Perú)
+Actualizado: 2026-08-12 04:17:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **929**  ($19,188,480 en total)
+- Apuestas registradas: **930**  ($19,206,480 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 140
+- Pendientes: 141
 - Apostadores distintos: 98
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 98 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| five5120 | LoL: EDward Gaming vs Anyone's Legend - Game 1 Winner | Anyone's Legend | 1.23 (81¢) | $18,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.96 (51¢) | $18,804 | — | ⏳ Pendiente |
 | Djdjdjekekek | Astana: Fajing Sun vs Semen Pankin | Semen Pankin | 2.04 (49¢) | $18,002 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.96 (51¢) | $18,804 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 98 en total)_
 | Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | -$5,509 | 💰 Vendida antes |
 | Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | +$11,844 | ✅ Ganada |
 | Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | -$5,509 | 💰 Vendida antes |
-| coali10 | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | Yes | 2.86 (35¢) | $10,407 | — | ⏳ Pendiente |
