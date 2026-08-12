@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 19:11:52 (hora de Perú)
+Actualizado: 2026-08-11 19:13:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **235**  ($5,014,239 en total)
+- Apuestas registradas: **236**  ($5,026,357 en total)
 - Resueltas: **114** — 91 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 121
-- Apostadores distintos: 79
+- Pendientes: 122
+- Apostadores distintos: 80
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Marcoli | 1 | 0 | 0 | ⚠️ 100% (1) | $20,000 | +$14,483 |
 | winwin518168 | 0 | 0 | 1 | — | $20,000 | — |
 
-_(mostrando los 40 de mayor monto, de 79 en total)_
+_(mostrando los 40 de mayor monto, de 80 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| acount3 | Seattle Mariners vs. New York Yankees | New York Yankees | 1.56 (64¢) | $12,118 | — | ⏳ Pendiente |
 | AV23IUa | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under 10.5 | 1.92 (52¢) | $15,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Kei Nishikori vs Francisco Comesana | Kei Nishikori | 2.33 (43¢) | $10,262 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Kei Nishikori vs Francisco Comesana | Francisco Comesana | 1.75 (57¢) | $13,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 79 en total)_
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | National Bank Open: Belinda Bencic vs Coco Gauff | Belinda Bencic | 2.50 (40¢) | $16,800 | — | ⏳ Pendiente |
 | spnir | National Bank Open: Belinda Bencic vs Coco Gauff | Coco Gauff | 1.67 (60¢) | $12,000 | — | ⏳ Pendiente |
 | SevenTons | National Bank Open: Belinda Bencic vs Coco Gauff | Belinda Bencic | 2.56 (39¢) | $12,639 | — | ⏳ Pendiente |
-| beachboy4 | National Bank Open: Jakub Mensik vs Ben Shelton | Jakub Mensik | 2.44 (41¢) | $14,094 | -$14,094 | ❌ Perdida |
