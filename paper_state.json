@@ -1,5 +1,5 @@
 {
-  "bankroll": 559.3559705676428,
+  "bankroll": 558.7159705676428,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18390,6 +18390,16 @@
       "timestamp": 1786564752.5624774,
       "bankroll": 559.36,
       "event": "won: UpTheBlues \u2014 GKS GieKSa Katowice vs. MH Hapoel Tel Aviv: O/U 1.5"
+    },
+    {
+      "timestamp": 1786566315.4305344,
+      "bankroll": 558.72,
+      "event": "lost: UpTheBlues \u2014 Will SK Rapid Wien win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786566318.1553042,
+      "bankroll": 558.72,
+      "event": "won: UpTheBlues \u2014 Spread: Eintracht Frankfurt (-3.5)"
     }
   ]
 }
