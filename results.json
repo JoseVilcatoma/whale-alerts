@@ -26529,5 +26529,57 @@
     "usd": 16960.9499,
     "odds_at_bet": 63,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1827,
+    "timestamp": 1786576946,
+    "username": "WTSA",
+    "wallet": "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8",
+    "slug": "lib-cru-fla-2026-08-12-total-2pt5",
+    "title": "Cruzeiro EC vs. CR Flamengo: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 22035.6037,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1828,
+    "timestamp": 1786576946,
+    "username": "GoldenAlpha168",
+    "wallet": "0x9ba8d25a054044bb66d0ca4e250a16dbfb64cdb3",
+    "slug": "lib-cru-fla-2026-08-12-total-2pt5",
+    "title": "Cruzeiro EC vs. CR Flamengo: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 32782.88879999999,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1829,
+    "timestamp": 1786576749,
+    "username": "paquitomillonario",
+    "wallet": "0x04e6840687847a98f9ecfbb512a8c8b98d073914",
+    "slug": "mlb-bos-tor-2026-08-12-total-7pt5",
+    "title": "Boston Red Sox vs. Toronto Blue Jays: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 16960.949898820338,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1830,
+    "timestamp": 1786576671,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-nym-atl-2026-08-12",
+    "title": "New York Mets vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 20046.996900000002,
+    "odds_at_bet": 63,
+    "status": "pending"
   }
 ]
