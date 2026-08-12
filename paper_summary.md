@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 10:19:14 (hora de Perú)
+Actualizado: 2026-08-12 10:21:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $372.49
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 114 | 97 | 7 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 249 | 151 | 30 | +5.66 USD |
+| UpTheBlues | 249 | 151 | 31 | +5.66 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
@@ -455,6 +455,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Spread: Eintracht Frankfurt (-2.5) | FSV Frankfurt 1899 (BUY) | 50% | 1.16 | ⏳ pendiente | — |
 | UpTheBlues | Will FC København vs. Debreceni VSC end  | No (BUY) | 86% | 0.44 | ⏳ pendiente | — |
 | dv-pm | Will SK Rapid Wien win on 2026-08-12? | No (BUY) | 15% | 6.37 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Deportivo Toluca FC (-1.5) | Deportivo Toluca FC (BUY) | 50% | 1.22 | ⏳ pendiente | — |
@@ -484,4 +485,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: BetBoom Team vs FaZe (BO | FaZe (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | dv-pm | CA Tigre vs. Montevideo City Torque: O/U | Over (BUY) | 35% | 0.00 | ⏳ pendiente | — |
-| CORGI8 | Counter-Strike: BetBoom Team vs FaZe (BO | FaZe (BUY) | 52% | 0.00 | ⏳ pendiente | — |
