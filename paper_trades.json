@@ -80442,5 +80442,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786507658.820013,
     "fills": 1
+  },
+  {
+    "timestamp": 1786508028,
+    "timestamp_added": 1786508029.382463,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "whale_usd": 2586.5627000000004,
+    "whale_pct": 1.029,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786508029.3824742,
+    "fills": 1
   }
 ]
