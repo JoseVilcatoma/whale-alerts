@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 22:08:56 (hora de Perú)
+Actualizado: 2026-08-11 22:10:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $427.13
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 20 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 22 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 167 | 112 | 32 | -28.34 USD |
+| swisstony | 167 | 112 | 33 | -28.34 USD |
 | quavoo | 152 | 186 | 34 | -33.89 USD |
 | RN1 | 199 | 111 | 6 | -38.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -460,6 +460,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 47% | 1.07 | ⏳ pendiente | — |
+| 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 63% | 4.67 | ⏳ pendiente | — |
+| 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 55% | 1.86 | ⏳ pendiente | — |
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 48% | 0.49 | ⏳ pendiente | — |
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 51% | 0.46 | ⏳ pendiente | — |
 | swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 50% | 1.00 | ⏳ pendiente | — |
@@ -487,6 +490,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Spread: FC Juárez (-1.5) | Real Salt Lake (BUY) | 98% | 0.67 | ⏳ pendiente | — |
 | swisstony | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 48% | 0.49 | ⏳ pendiente | — |
 | UpTheBlues | Will Real Salt Lake win on 2026-08-11? | Yes (BUY) | 74% | 1.53 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 69% | 0.51 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Real Salt Lake (-1.5) | FC Juárez (BUY) | 61% | 0.64 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 35% | 0.64 | ⏳ pendiente | — |
