@@ -19670,5 +19670,31 @@
     "usd": 47720.68620348697,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1278,
+    "timestamp": 1786556732,
+    "username": "bloodmaster",
+    "wallet": "0x58f8f1138be2192696378629fc9aa23c7910dc70",
+    "slug": "lol-bw-dp-2026-08-12",
+    "title": "LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins",
+    "outcome": "Bushido Wildcats",
+    "side": "BUY",
+    "usd": 44661.848,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1279,
+    "timestamp": 1786556732,
+    "username": "gggjajnsnn",
+    "wallet": "0xa8a1b285090a97de8901ac8079d20d202e492974",
+    "slug": "lol-bw-dp-2026-08-12",
+    "title": "LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins",
+    "outcome": "Dark Passage",
+    "side": "BUY",
+    "usd": 19999.999999000003,
+    "odds_at_bet": 30,
+    "status": "pending"
   }
 ]

@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 12:44:22 (hora de Perú)
+Actualizado: 2026-08-12 12:46:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1510**  ($37,657,850 en total)
+- Apuestas registradas: **1512**  ($37,722,512 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 569
-- Apostadores distintos: 143
+- Pendientes: 571
+- Apostadores distintos: 144
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,408 | +$115,433 |
 | SineNooneEI | 1 | 1 | 10 | ⚠️ 50% (2) | $157,440 | +$14,033 |
 
-_(mostrando los 40 de mayor monto, de 143 en total)_
+_(mostrando los 40 de mayor monto, de 144 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bloodmaster | LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins | Bushido Wildcats | 1.43 (70¢) | $44,662 | — | ⏳ Pendiente |
+| gggjajnsnn | LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins | Dark Passage | 3.33 (30¢) | $20,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $128,172 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $44,206 | — | ⏳ Pendiente |
 | pleaseplease123 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $36,739 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 143 en total)_
 | thecomplicatedguy | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $10,800 | — | ⏳ Pendiente |
 | thecomplicatedguy | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $10,800 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.57 (28¢) | $45,143 | — | ⏳ Pendiente |
-| casualbet2020 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $72,000 | — | ⏳ Pendiente |
-| Nooserac | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $18,000 | — | ⏳ Pendiente |
