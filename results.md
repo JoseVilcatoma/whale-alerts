@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 01:23:37 (hora de Perú)
+Actualizado: 2026-08-12 01:25:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **670**  ($13,786,865 en total)
+- Apuestas registradas: **671**  ($13,799,617 en total)
 - Resueltas: **350** — 246 ganadas / 104 perdidas (**70%** de acierto)
-- Pendientes: 320
-- Apostadores distintos: 96
+- Pendientes: 321
+- Apostadores distintos: 97
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | tennischamp | 2 | 0 | 3 | ⚠️ 100% (2) | $54,391 | +$1,685 |
 | BaccaratRoulette | 0 | 2 | 0 | ⚠️ 0% (2) | $54,120 | -$54,120 |
 
-_(mostrando los 40 de mayor monto, de 96 en total)_
+_(mostrando los 40 de mayor monto, de 97 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ComingBack | Astana: Takuya Kumasaka vs Hayato Matsuoka | Hayato Matsuoka | 1.18 (85¢) | $12,752 | — | ⏳ Pendiente |
 | Djdjdjekekek | LoL: HANJIN BRION Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group | HANJIN BRION Challengers | 1.33 (75¢) | $11,250 | — | ⏳ Pendiente |
 | Djdjdjekekek | LoL: HANJIN BRION Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group | HANJIN BRION Challengers | 1.33 (75¢) | $11,250 | — | ⏳ Pendiente |
 | MeiGuNiuBi | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $12,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 96 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 3.85 (26¢) | $17,333 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.35 (74¢) | $10,873 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.35 (74¢) | $12,259 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.33 (75¢) | $10,397 | — | ⏳ Pendiente |
