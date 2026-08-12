@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 17:31:58 (hora de Perú)
+Actualizado: 2026-08-12 17:34:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1971**  ($53,357,823 en total)
+- Apuestas registradas: **1974**  ($53,450,789 en total)
 - Resueltas: **1353** — 804 ganadas / 549 perdidas (**59%** de acierto)
-- Pendientes: 618
+- Pendientes: 621
 - Apostadores distintos: 174
 
 ### Balance
@@ -26,10 +26,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 52 | 43% | $8,806,687 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 17 | 35% | $3,033,939 | -$564,452 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 18 | 35% | $3,070,137 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 47 | 77% | $2,601,386 | +$168,085 |
+| pleaseplease123 | 0 | 44 | 31 | 0% | $2,154,960 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
-| pleaseplease123 | 0 | 44 | 30 | 0% | $2,119,632 | -$1,082,423 |
 | Weaseloftheweek | 19 | 2 | 7 | 90% | $1,946,083 | +$872,236 |
 | BreakTheBank | 0 | 12 | 8 | 0% | $1,483,516 | -$803,506 |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
@@ -50,10 +50,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | 0x076d…8d4c | 8 | 0 | 11 | 100% | $343,000 | +$45,411 |
+| Feromont | 9 | 0 | 6 | 100% | $336,812 | +$55,222 |
 | theowalcott | 21 | 0 | 1 | 100% | $333,694 | +$226,502 |
 | bigspending | 0 | 0 | 5 | — | $333,212 | — |
 | johnny234 | 4 | 11 | 8 | 27% | $317,917 | -$101,100 |
-| Feromont | 9 | 0 | 5 | 100% | $315,372 | +$55,222 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | casualbet2020 | 0 | 0 | 6 | — | $304,949 | — |
 | fRibrenlc | 9 | 7 | 6 | 56% | $290,662 | +$15,968 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 174 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $36,198 | — | ⏳ Pendiente |
+| pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $35,328 | — | ⏳ Pendiente |
+| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $21,440 | — | ⏳ Pendiente |
 | one8tyfive | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.67 (60¢) | $11,923 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $10,829 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 174 en total)_
 | 1winstreak1 | Houston Astros vs. San Francisco Giants | San Francisco Giants | 1.59 (63¢) | $17,622 | — | ⏳ Pendiente |
 | Jsram | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.82 (55¢) | $11,761 | — | ⏳ Pendiente |
 | Jsram | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.82 (55¢) | $11,761 | — | ⏳ Pendiente |
-| 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.22 (82¢) | $29,000 | — | ⏳ Pendiente |
-| 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.22 (82¢) | $29,000 | — | ⏳ Pendiente |
-| 1winstreak1 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.85 (54¢) | $12,906 | — | ⏳ Pendiente |
