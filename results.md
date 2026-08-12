@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 07:43:48 (hora de Perú)
+Actualizado: 2026-08-12 07:45:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1042**  ($21,902,433 en total)
+- Apuestas registradas: **1043**  ($21,912,584 en total)
 - Resueltas: **790** — 486 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 252
+- Pendientes: 253
 - Apostadores distintos: 115
 
 ### Balance
@@ -73,6 +73,7 @@ _(mostrando los 40 de mayor monto, de 115 en total)_
 |---|---|---|---|---|---|---|
 | SineNooneEI | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.25 (80¢) | $10,000 | — | ⏳ Pendiente |
 | suanlimao6 | LoL: Bilibili Gaming vs JD Gaming - Game 1 Winner | Bilibili Gaming | 1.49 (67¢) | $10,152 | — | ⏳ Pendiente |
+| suanlimao6 | LoL: Bilibili Gaming vs JD Gaming - Game 1 Winner | Bilibili Gaming | 1.49 (67¢) | $10,152 | — | ⏳ Pendiente |
 | five5120 | LoL: Bilibili Gaming vs JD Gaming - Game 1 Winner | Bilibili Gaming | 1.45 (69¢) | $20,000 | — | ⏳ Pendiente |
 | five5120 | LoL: Bilibili Gaming vs JD Gaming - Game 1 Winner | Bilibili Gaming | 1.45 (69¢) | $20,000 | — | ⏳ Pendiente |
 | acc1211 | The Hundred, Women: Welsh Fire vs London Spirit | Welsh Fire | 1.06 (94¢) | $18,220 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 115 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.75 (57¢) | $21,932 | — | ⏳ Pendiente |
 | ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.33 (43¢) | $18,109 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | JiJieHao | 1.54 (65¢) | $13,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $33,229 | — | ⏳ Pendiente |
