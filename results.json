@@ -20398,5 +20398,18 @@
     "usd": 16334.995699999998,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1334,
+    "timestamp": 1786560203,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 22237.2889,
+    "odds_at_bet": 41,
+    "status": "pending"
   }
 ]
