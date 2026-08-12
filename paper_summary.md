@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:33:25 (hora de Perú)
+Actualizado: 2026-08-11 21:35:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $429.69
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 3 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 165 | 109 | 18 | -28.34 USD |
+| swisstony | 165 | 109 | 19 | -28.34 USD |
 | quavoo | 152 | 186 | 33 | -33.89 USD |
 | RN1 | 198 | 111 | 7 | -38.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -405,7 +405,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-sf-agf-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | wnba-wsh-las-2026-08-11-total-170pt5 | swisstony, wr0ngw4yb3tt0r |
 | wnba-phx-la-2026-08-11-spread-away-1pt5 | HomeRunHazard, ferrariChampions2026 |
-| mlb-tb-oak-2026-08-11-total-9pt5 | HomeRunHazard, Sassy-Bucket |
+| mlb-tb-oak-2026-08-11-total-9pt5 | 1winstreak1, HomeRunHazard, Sassy-Bucket |
 | uel-sab-lar-2026-08-11-draw | ferrariChampions2026, swisstony |
 | wnba-phx-la-2026-08-11-total-177pt5 | ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
 | ucl-nec-oly-2026-08-11-nec | UpTheBlues, quavoo |
@@ -440,6 +440,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lib-flu-cir-2026-08-11-total-0pt5 | RN1, swisstony |
 | mlb-cle-det-2026-08-11-spread-away-1pt5 | HomeRunHazard, RN1 |
 | mlb-cle-det-2026-08-11-total-9pt5 | ferrariChampions2026, swisstony |
+| mlb-hou-sf-2026-08-11-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-bos-tor-2026-08-11-spread-home-1pt5 | RN1, ferrariChampions2026 |
 | wnba-wsh-las-2026-08-11-spread-home-6pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
@@ -447,11 +448,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-phx-la-2026-08-11 | ferrariChampions2026, swisstony |
 | wnba-wsh-las-2026-08-11 | ferrariChampions2026, swisstony |
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
+| mlb-tb-oak-2026-08-11-total-10pt5 | 1winstreak1, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 49% | 1.13 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under (BUY) | 43% | 16.56 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 59% | 1.24 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Houston Astros (-1.5) | San Francisco Giants (BUY) | 53% | 0.46 | ⏳ pendiente | — |
 | swisstony | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 58% | 1.08 | ⏳ pendiente | — |
 | quavoo | Counter-Strike: Luminosity vs GamerLegio | GamerLegion (BUY) | 48% | 0.72 | ⏳ pendiente | — |
 | swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 54% | 0.69 | ⏳ pendiente | — |
@@ -478,7 +484,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ⏳ pendiente | — |
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 53% | 0.48 | ⏳ pendiente | — |
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 48% | 0.59 | ⏳ pendiente | — |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ⏳ pendiente | — |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 51% | 0.99 | ⏳ pendiente | — |
-| quavoo | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 0.96 | ⏳ pendiente | — |
-| ferrariChampions2026 | Club Bolívar vs. São Paulo FC: O/U 3.5 | Under (BUY) | 89% | 0.39 | ⏳ pendiente | — |

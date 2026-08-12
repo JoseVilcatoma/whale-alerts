@@ -77686,5 +77686,94 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786501830.371744,
     "fills": 1
+  },
+  {
+    "timestamp": 1786502009,
+    "timestamp_added": 1786502010.042934,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-hou-sf-2026-08-11-spread-away-1pt5",
+    "title": "Spread: Houston Astros (-1.5)",
+    "outcome": "San Francisco Giants",
+    "side": "BUY",
+    "whale_usd": 79.999999,
+    "whale_pct": 0.108,
+    "paper_stake_usd": 0.46,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786502010.0429413,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786502056,
+    "timestamp_added": 1786502056.883625,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-tb-oak-2026-08-11-total-9pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 202.26,
+    "whale_pct": 0.288,
+    "paper_stake_usd": 1.24,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "Sassy-Bucket"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786502056.8836317,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786502077,
+    "timestamp_added": 1786502077.4920335,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-tb-oak-2026-08-11-total-10pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2709.999999,
+    "whale_pct": 3.853,
+    "paper_stake_usd": 16.56,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786502077.4920428,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786502099,
+    "timestamp_added": 1786502099.9026957,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-wsh-las-2026-08-11-total-168pt5",
+    "title": "Washington Mystics vs. Las Vegas Aces: O/U 168.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 490.0,
+    "whale_pct": 0.264,
+    "paper_stake_usd": 1.13,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786502099.9027047,
+    "fills": 1
   }
 ]
