@@ -16748,5 +16748,31 @@
     "usd": 12612.8541,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1051,
+    "timestamp": 1786542120,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-blg-jdg-2026-08-12-game2",
+    "title": "LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 25983.01879711538,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1052,
+    "timestamp": 1786542120,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-blg-jdg-2026-08-12-game2",
+    "title": "LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 30703.02,
+    "odds_at_bet": 62,
+    "status": "pending"
   }
 ]
