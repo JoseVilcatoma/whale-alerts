@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 23:47:36 (hora de Perú)
+Actualizado: 2026-08-11 23:49:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **654**  ($13,585,796 en total)
+- Apuestas registradas: **655**  ($13,597,733 en total)
 - Resueltas: **350** — 246 ganadas / 104 perdidas (**70%** de acierto)
-- Pendientes: 304
+- Pendientes: 305
 - Apostadores distintos: 95
 
 ### Balance
@@ -51,10 +51,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | RN1 | 2 | 0 | 6 | ⚠️ 100% (2) | $104,310 | +$50,039 |
 | ...............................lala | 2 | 4 | 0 | ⚠️ 33% (6) | $98,977 | -$42,922 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 6 | — | $87,544 | — |
+| 0x076d…8d4c | 1 | 0 | 5 | ⚠️ 100% (1) | $83,412 | +$1,092 |
 | DonaldinhoTrumpito | 0 | 0 | 4 | — | $74,938 | — |
 | ExplosiveNinja | 0 | 0 | 6 | — | $72,821 | — |
 | kibanachi | 4 | 0 | 0 | ⚠️ 100% (4) | $71,613 | +$12,017 |
-| 0x076d…8d4c | 1 | 0 | 4 | ⚠️ 100% (1) | $71,475 | +$1,092 |
 | Mylifeisover | 4 | 0 | 0 | ⚠️ 100% (4) | $70,966 | +$60,453 |
 | phonesculptor | 0 | 2 | 4 | ⚠️ 0% (2) | $69,925 | -$27,600 |
 | 0b1 | 4 | 0 | 0 | ⚠️ 100% (4) | $69,706 | +$14,603 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x076d…8d4c | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.67 (60¢) | $11,937 | — | ⏳ Pendiente |
 | johnny234 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 1.61 (62¢) | $13,804 | — | ⏳ Pendiente |
 | johnny234 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 1.61 (62¢) | $13,804 | — | ⏳ Pendiente |
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $20,666 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.85 (54¢) | $18,101 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $18,762 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.85 (54¢) | $18,101 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $18,762 | — | ⏳ Pendiente |
