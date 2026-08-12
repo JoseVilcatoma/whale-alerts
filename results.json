@@ -18379,5 +18379,18 @@
     "usd": 10040.8701,
     "odds_at_bet": 87,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1178,
+    "timestamp": 1786552995,
+    "username": "0x99F0d31fdced5B3A0e5Ee2867730A6644a6C9495-1779037126382",
+    "wallet": "0x99f0d31fdced5b3a0e5ee2867730a6644a6c9495",
+    "slug": "usc-psg-av-2026-08-12-exact-score-0-0",
+    "title": "Exact Score: Paris Saint-Germain 0 - 0 Aston Villa?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 15064.419,
+    "odds_at_bet": 93,
+    "status": "pending"
   }
 ]

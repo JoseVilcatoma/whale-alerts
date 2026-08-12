@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 11:48:01 (hora de Perú)
+Actualizado: 2026-08-12 11:50:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1411**  ($32,804,391 en total)
+- Apuestas registradas: **1412**  ($32,819,455 en total)
 - Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 472
-- Apostadores distintos: 130
+- Pendientes: 473
+- Apostadores distintos: 131
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x076d…8d4c | 8 | 0 | 3 | 100% | $149,444 | +$45,411 |
 | ...............................lala | 3 | 6 | 0 | 33% | $148,465 | -$64,383 |
 
-_(mostrando los 40 de mayor monto, de 130 en total)_
+_(mostrando los 40 de mayor monto, de 131 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x99F0d31fdced5B3A0e5Ee2867730A6644a6C9495-1779037126382 | Exact Score: Paris Saint-Germain 0 - 0 Aston Villa? | No | 1.08 (93¢) | $15,064 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Hamburg: Raul Brancaccio vs Marvin Moeller | Marvin Moeller | 1.15 (87¢) | $10,041 | — | ⏳ Pendiente |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.85 (26¢) | $12,881 | — | ⏳ Pendiente |
 | fRibrenlc | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $16,406 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 130 en total)_
 | TAIWANNUMBERONE | LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs | Ici Japon Corp. Esport | 2.44 (41¢) | $10,250 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs | Ici Japon Corp. Esport | 2.44 (41¢) | $10,250 | — | ⏳ Pendiente |
 | pleaseplease123 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $58,491 | — | ⏳ Pendiente |
-| Sassy-Bucket | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
