@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 19:43:21 (hora de Perú)
+Actualizado: 2026-08-11 19:45:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **253**  ($5,367,164 en total)
+- Apuestas registradas: **258**  ($5,474,141 en total)
 - Resueltas: **114** — 91 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 139
-- Apostadores distintos: 82
+- Pendientes: 144
+- Apostadores distintos: 83
 
 ### Balance
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 15 | 38% | $565,139 | -$139,198 |
-| ferrariChampions2026 | 23 | 0 | 7 | 100% | $459,491 | +$57,935 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 16 | 38% | $584,998 | -$139,198 |
+| ferrariChampions2026 | 23 | 0 | 8 | 100% | $470,658 | +$57,935 |
+| AV23IUa | 4 | 0 | 10 | ⚠️ 100% (4) | $416,230 | +$109,102 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 19 | 0 | 0 | 100% | $415,077 | +$195,517 |
-| AV23IUa | 4 | 0 | 9 | ⚠️ 100% (4) | $366,211 | +$109,102 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 11 | — | $347,753 | — |
 | Weaseloftheweek | 3 | 1 | 1 | ⚠️ 75% (4) | $303,804 | +$7,132 |
 | BreakTheBank | 0 | 0 | 4 | — | $267,835 | — |
@@ -58,21 +58,26 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jaytee158 | 2 | 0 | 0 | ⚠️ 100% (2) | $26,651 | +$4,349 |
 | monkeymashingkeyboard | 0 | 0 | 2 | — | $26,186 | — |
 | SevenTons | 0 | 0 | 2 | — | $25,996 | — |
+| ughjbnk | 0 | 0 | 2 | — | $25,645 | — |
 | dv-pm | 0 | 0 | 2 | — | $24,463 | — |
 | acount3 | 0 | 0 | 2 | — | $24,236 | — |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 0 | 2 | — | $23,866 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 0 | 2 | 0 | ⚠️ 0% (2) | $22,858 | -$22,858 |
-| Marcoli | 1 | 0 | 0 | ⚠️ 100% (1) | $20,000 | +$14,483 |
 
-_(mostrando los 40 de mayor monto, de 82 en total)_
+_(mostrando los 40 de mayor monto, de 83 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Texas Rangers (-1.5) | Texas Rangers | 2.17 (46¢) | $11,167 | — | ⏳ Pendiente |
+| Elaran1993 | Spread: Texas Rangers (-1.5) | Los Angeles Angels | 1.85 (54¢) | $13,110 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Marcos Giron | 1.47 (68¢) | $50,018 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Henrique Rocha | 3.12 (32¢) | $19,859 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Henrique Rocha | 3.12 (32¢) | $19,859 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Marcos Giron | 1.47 (68¢) | $50,018 | — | ⏳ Pendiente |
+| ughjbnk | Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins | JD Gaming | 1.79 (56¢) | $12,822 | — | ⏳ Pendiente |
 | ughjbnk | Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins | JD Gaming | 1.79 (56¢) | $12,822 | — | ⏳ Pendiente |
 | Djdjdjekekek | National Bank Open: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 3.03 (33¢) | $26,910 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Naomi Osaka vs Elena Rybakina | Naomi Osaka | 1.49 (67¢) | $26,278 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 82 en total)_
 | ferrariChampions2026 | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.15 (87¢) | $10,051 | +$1,502 | ✅ Ganada |
 | phonesculptor | Philadelphia Phillies vs. St. Louis Cardinals | Philadelphia Phillies | 1.67 (60¢) | $10,078 | — | ⏳ Pendiente |
 | ferrariChampions2026 | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.15 (87¢) | $10,051 | +$1,502 | ✅ Ganada |
-| HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.15 (87¢) | $39,246 | +$5,864 | ✅ Ganada |
-| HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.15 (87¢) | $39,101 | +$5,843 | ✅ Ganada |
-| HVAB | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.16 (86¢) | $38,832 | +$6,321 | ✅ Ganada |
-| winwin518168 | New York Liberty vs. Indiana Fever | New York Liberty | 2.33 (43¢) | $20,000 | — | ⏳ Pendiente |
-| mikesports | New York Liberty vs. Indiana Fever | Indiana Fever | 1.75 (57¢) | $14,250 | — | ⏳ Pendiente |

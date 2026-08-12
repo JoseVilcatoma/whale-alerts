@@ -3293,5 +3293,70 @@
     "usd": 26278.478700000003,
     "odds_at_bet": 67,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 146,
+    "timestamp": 1786495080,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-giron-rocha-2026-08-11",
+    "title": "Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha",
+    "outcome": "Marcos Giron",
+    "side": "BUY",
+    "usd": 50018.4268,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 147,
+    "timestamp": 1786495080,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-giron-rocha-2026-08-11",
+    "title": "Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha",
+    "outcome": "Henrique Rocha",
+    "side": "BUY",
+    "usd": 19858.8672,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 148,
+    "timestamp": 1786494978,
+    "username": "ughjbnk",
+    "wallet": "0x5c2311acccc5e9a172f0ce23d4480177bc00cab3",
+    "slug": "val-jdg-te-2026-08-12",
+    "title": "Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 12822.437600000001,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 149,
+    "timestamp": 1786495413,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tex-laa-2026-08-11-spread-away-1pt5",
+    "title": "Spread: Texas Rangers (-1.5)",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 11167.409999,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 150,
+    "timestamp": 1786495413,
+    "username": "Elaran1993",
+    "wallet": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d",
+    "slug": "mlb-tex-laa-2026-08-11-spread-away-1pt5",
+    "title": "Spread: Texas Rangers (-1.5)",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 13109.56826,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
