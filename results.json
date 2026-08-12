@@ -20242,5 +20242,18 @@
     "usd": 11690.99998704,
     "odds_at_bet": 93,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1322,
+    "timestamp": 1786559098,
+    "username": "redvinny",
+    "wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 11184.0907,
+    "odds_at_bet": 82,
+    "status": "pending"
   }
 ]
