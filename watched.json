@@ -11,10 +11,6 @@
     "username": "swisstony",
     "added_at": 1785452514.9474573
   },
-  "0xf0318c32136c2db7fec88b84869aee6a1106c80c": {
-    "username": "BreakTheBank",
-    "added_at": 1785452514.9474573
-  },
   "0x1b20a00709dfe648afd26b326394b5e031f83ab0": {
     "username": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
     "added_at": 1785457106.843873
@@ -210,5 +206,17 @@
   "0x5dab5ed9691fab220535891d9c7f5c28eed322e1": {
     "username": "Weaseloftheweek",
     "added_at": 1786484635.228609
+  },
+  "0x56acab44cfca2e88bb9b3406890aea7bfa0cd77e": {
+    "username": "dv-pm",
+    "added_at": 1786504608.4218545
+  },
+  "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3": {
+    "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+    "added_at": 1786504608.4218545
+  },
+  "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
+    "username": "WTSA",
+    "added_at": 1786510119.5980637
   }
 }

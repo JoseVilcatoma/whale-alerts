@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 21:19:10 (hora de Perú)
+Actualizado: 2026-08-12 00:45:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **335**  ($6,809,091 en total)
-- Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 219
-- Apostadores distintos: 90
+- Apuestas registradas: **664**  ($13,711,857 en total)
+- Resueltas: **350** — 246 ganadas / 104 perdidas (**70%** de acierto)
+- Pendientes: 314
+- Apostadores distintos: 95
 
 ### Balance
 
-- **Resultado de los apostadores: +$384,731** sobre $2,320,065 apostados (ROI **+16.6%**)
-- Copiando $100 fijo en cada una: **+$923** sobre $11,100 (ROI **+8.3%**)
+- **Resultado de los apostadores: +$827,015** sobre $7,901,922 apostados (ROI **+10.5%**)
+- Copiando $100 fijo en cada una: **+$3,161** sobre $34,000 (ROI **+9.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,110 +24,110 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 25 | — | $652,598 | — |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 19 | 38% | $632,533 | -$139,198 |
-| ferrariChampions2026 | 23 | 0 | 14 | 100% | $550,748 | +$57,935 |
-| AV23IUa | 4 | 0 | 15 | ⚠️ 100% (4) | $541,933 | +$109,102 |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 19 | 0 | 0 | 100% | $415,077 | +$195,517 |
-| pleaseplease123 | 0 | 0 | 16 | — | $381,874 | — |
-| Weaseloftheweek | 3 | 1 | 1 | ⚠️ 75% (4) | $303,804 | +$7,132 |
-| BreakTheBank | 0 | 0 | 4 | — | $267,835 | — |
-| SDTrading | 0 | 0 | 11 | — | $201,460 | — |
-| texaskid | 0 | 0 | 6 | — | $193,198 | — |
-| Talvez10 | 0 | 0 | 9 | — | $165,672 | — |
-| TennisLove | 2 | 0 | 0 | ⚠️ 100% (2) | $152,883 | +$113,054 |
-| Sassy-Bucket | 0 | 0 | 9 | — | $144,903 | — |
-| Djdjdjekekek | 0 | 0 | 5 | — | $117,911 | — |
-| HVAB | 3 | 0 | 0 | ⚠️ 100% (3) | $117,178 | +$18,028 |
-| theowalcott | 0 | 0 | 7 | — | $106,278 | — |
-| mikesports | 0 | 0 | 5 | — | $80,623 | — |
-| fRibrenlc | 3 | 2 | 1 | ⚠️ 60% (5) | $80,075 | +$8,937 |
-| RN1 | 0 | 0 | 5 | — | $64,429 | — |
-| xifutloong3 | 0 | 0 | 2 | — | $63,441 | — |
-| wr0ngw4yb3tt0r | 0 | 0 | 4 | — | $61,065 | — |
-| winwin518168 | 0 | 0 | 4 | — | $60,404 | — |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 0 | 3 | 1 | ⚠️ 0% (3) | $54,114 | -$24,454 |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 1 | 0 | 0 | ⚠️ 100% (1) | $53,136 | +$38,478 |
-| Feromont | 0 | 0 | 2 | — | $50,400 | — |
-| ...............................lala | 1 | 2 | 0 | ⚠️ 33% (3) | $49,488 | -$21,461 |
-| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 3 | — | $43,772 | — |
-| 0x076d…8d4c | 1 | 0 | 2 | ⚠️ 100% (1) | $41,256 | +$1,092 |
-| AGUGava | 1 | 0 | 2 | ⚠️ 100% (1) | $37,194 | +$451 |
-| kibanachi | 2 | 0 | 0 | ⚠️ 100% (2) | $35,806 | +$6,009 |
-| Mylifeisover | 0 | 0 | 2 | — | $35,483 | — |
-| phonesculptor | 0 | 0 | 3 | — | $34,963 | — |
-| 0b1 | 2 | 0 | 0 | ⚠️ 100% (2) | $34,853 | +$7,302 |
-| tennischamp | 1 | 0 | 2 | ⚠️ 100% (1) | $32,529 | +$843 |
-| Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $29,744 | +$9,167 |
-| paquitomillonario | 0 | 0 | 2 | — | $27,925 | — |
-| Istaroth | 0 | 0 | 1 | — | $27,704 | — |
-| BaccaratRoulette | 0 | 1 | 0 | ⚠️ 0% (1) | $27,060 | -$27,060 |
-| thecomplicatedguy | 0 | 0 | 2 | — | $27,000 | — |
-| jaytee158 | 2 | 0 | 0 | ⚠️ 100% (2) | $26,651 | +$4,349 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 0 | 34 | 100% | $1,277,326 | +$384,537 |
+| ferrariChampions2026 | 47 | 6 | 25 | 89% | $1,168,205 | +$93,281 |
+| AV23IUa | 12 | 5 | 25 | 71% | $1,140,129 | +$239,141 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 16 | 29 | 43% | $1,131,395 | -$248,458 |
+| Djdjdjekekek | 0 | 2 | 18 | ⚠️ 0% (2) | $704,439 | -$62,629 |
+| pleaseplease123 | 0 | 12 | 16 | 0% | $700,196 | -$399,165 |
+| Weaseloftheweek | 8 | 2 | 0 | 80% | $607,608 | +$306,346 |
+| BreakTheBank | 0 | 8 | 0 | 0% | $535,671 | -$535,671 |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
+| SDTrading | 12 | 4 | 6 | 75% | $402,921 | +$149,794 |
+| texaskid | 2 | 0 | 9 | ⚠️ 100% (2) | $364,455 | +$90,000 |
+| Talvez10 | 14 | 2 | 2 | 88% | $331,344 | +$124,946 |
+| TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
+| Sassy-Bucket | 0 | 0 | 15 | — | $252,153 | — |
+| HVAB | 6 | 0 | 0 | ⚠️ 100% (6) | $234,357 | +$36,057 |
+| theowalcott | 12 | 0 | 2 | 100% | $212,555 | +$115,484 |
+| mikesports | 2 | 2 | 5 | ⚠️ 50% (4) | $146,046 | -$16,049 |
+| fRibrenlc | 5 | 4 | 2 | 56% | $144,073 | +$5,745 |
+| wr0ngw4yb3tt0r | 0 | 2 | 7 | ⚠️ 0% (2) | $143,984 | -$22,712 |
+| xifutloong3 | 4 | 0 | 0 | ⚠️ 100% (4) | $126,883 | +$94,938 |
+| Feromont | 0 | 0 | 5 | — | $116,933 | — |
+| winwin518168 | 0 | 2 | 5 | ⚠️ 0% (2) | $110,606 | -$40,000 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 0 | 8 | 0 | 0% | $108,227 | -$70,245 |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 2 | 0 | 0 | ⚠️ 100% (2) | $106,272 | +$76,955 |
+| RN1 | 2 | 0 | 6 | ⚠️ 100% (2) | $104,310 | +$50,039 |
+| ...............................lala | 2 | 4 | 0 | ⚠️ 33% (6) | $98,977 | -$42,922 |
+| 0x076d…8d4c | 1 | 0 | 6 | ⚠️ 100% (1) | $95,350 | +$1,092 |
+| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 6 | — | $87,544 | — |
+| DonaldinhoTrumpito | 0 | 0 | 4 | — | $74,938 | — |
+| ExplosiveNinja | 0 | 0 | 6 | — | $72,821 | — |
+| kibanachi | 4 | 0 | 0 | ⚠️ 100% (4) | $71,613 | +$12,017 |
+| Mylifeisover | 4 | 0 | 0 | ⚠️ 100% (4) | $70,966 | +$60,453 |
+| phonesculptor | 0 | 2 | 4 | ⚠️ 0% (2) | $69,925 | -$27,600 |
+| 0b1 | 4 | 0 | 0 | ⚠️ 100% (4) | $69,706 | +$14,603 |
+| johnny234 | 2 | 0 | 2 | ⚠️ 100% (2) | $64,247 | +$21,984 |
+| AGUGava | 1 | 0 | 4 | ⚠️ 100% (1) | $62,888 | +$451 |
+| paquitomillonario | 0 | 2 | 2 | ⚠️ 0% (2) | $55,851 | -$24,779 |
+| Istaroth | 0 | 0 | 2 | — | $55,408 | — |
+| tennischamp | 2 | 0 | 3 | ⚠️ 100% (2) | $54,391 | +$1,685 |
+| BaccaratRoulette | 0 | 2 | 0 | ⚠️ 0% (2) | $54,120 | -$54,120 |
 
-_(mostrando los 40 de mayor monto, de 90 en total)_
+_(mostrando los 40 de mayor monto, de 95 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $16,254 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $18,762 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.85 (54¢) | $18,101 | — | ⏳ Pendiente |
-| AV23IUa | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | Luminosity | 1.89 (53¢) | $15,900 | — | ⏳ Pendiente |
-| RN1 | Cincinnati Open, Qualification: Dominika Salkova vs Anna Blinkova | Anna Blinkova | 1.16 (86¢) | $10,136 | — | ⏳ Pendiente |
-| RN1 | Cincinnati Open, Qualification: Dominika Salkova vs Anna Blinkova | Anna Blinkova | 1.16 (86¢) | $10,136 | — | ⏳ Pendiente |
-| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
-| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
-| mooseborzoi | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $10,547 | — | ⏳ Pendiente |
-| purplegatto | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $11,750 | — | ⏳ Pendiente |
-| pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,333 | — | ⏳ Pendiente |
-| pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,333 | — | ⏳ Pendiente |
-| purplegatto | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $11,750 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $10,701 | — | ⏳ Pendiente |
-| pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,067 | — | ⏳ Pendiente |
-| pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,067 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $10,701 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.64 (61¢) | $18,888 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.64 (61¢) | $18,888 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.61 (62¢) | $27,555 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.61 (62¢) | $27,555 | — | ⏳ Pendiente |
-| paquitomillonario | Washington Mystics vs. Las Vegas Aces: O/U 170.5 | Over 170.5 | 1.82 (55¢) | $15,536 | — | ⏳ Pendiente |
-| thecomplicatedguy | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.85 (54¢) | $13,500 | — | ⏳ Pendiente |
-| thecomplicatedguy | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.85 (54¢) | $13,500 | — | ⏳ Pendiente |
-| RN1 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.85 (54¢) | $14,411 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 2.17 (46¢) | $12,093 | — | ⏳ Pendiente |
-| RN1 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.85 (54¢) | $14,411 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 2.17 (46¢) | $12,093 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. Athletics: O/U 10.5 | Over 10.5 | 2.08 (48¢) | $23,995 | — | ⏳ Pendiente |
-| Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under 10.5 | 1.92 (52¢) | $25,995 | — | ⏳ Pendiente |
-| pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $27,638 | — | ⏳ Pendiente |
-| pleaseplease123 | Tampa Bay Rays vs. Athletics | Athletics | 2.70 (37¢) | $13,000 | — | ⏳ Pendiente |
-| texaskid | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.59 (63¢) | $21,941 | — | ⏳ Pendiente |
-| texaskid | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.59 (63¢) | $21,941 | — | ⏳ Pendiente |
-| pleaseplease123 | Tampa Bay Rays vs. Athletics | Athletics | 2.70 (37¢) | $13,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.69 (59¢) | $10,229 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.69 (59¢) | $10,229 | — | ⏳ Pendiente |
-| texaskid | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.89 (53¢) | $41,010 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $36,555 | — | ⏳ Pendiente |
-| fRibrenlc | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over 9.5 | 1.85 (54¢) | $12,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under 9.5 | 2.17 (46¢) | $19,524 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under 10.5 | 1.89 (53¢) | $38,110 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Athletics: O/U 10.5 | Over 10.5 | 2.13 (47¢) | $12,798 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Athletics: O/U 10.5 | Over 10.5 | 2.13 (47¢) | $12,798 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under 10.5 | 1.89 (53¢) | $38,110 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $14,710 | — | ⏳ Pendiente |
-| Sassy-Bucket | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $14,133 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $14,710 | — | ⏳ Pendiente |
-| Sassy-Bucket | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $14,133 | — | ⏳ Pendiente |
-| Sassy-Bucket | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $11,450 | — | ⏳ Pendiente |
-| Sassy-Bucket | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $11,450 | — | ⏳ Pendiente |
-| winwin518168 | Washington Mystics vs. Las Vegas Aces | Washington Mystics | 3.33 (30¢) | $10,202 | — | ⏳ Pendiente |
-| winwin518168 | Washington Mystics vs. Las Vegas Aces | Washington Mystics | 3.33 (30¢) | $10,202 | — | ⏳ Pendiente |
-| Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under 9.5 | 2.22 (45¢) | $12,070 | — | ⏳ Pendiente |
-| Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under 9.5 | 2.22 (45¢) | $12,070 | — | ⏳ Pendiente |
-| Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under 10.5 | 1.92 (52¢) | $28,303 | — | ⏳ Pendiente |
-| winwin518168 | Spread: Los Angeles Sparks (-2.5) | Los Angeles Sparks | 2.04 (49¢) | $20,000 | — | ⏳ Pendiente |
-| quavoo | Will Tigres de la UANL win on 2026-08-11? | Yes | 1.49 (67¢) | $14,472 | — | ⏳ Pendiente |
-| WTSA | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC | 1.79 (56¢) | $16,800 | — | ⏳ Pendiente |
-| mikesports | Will Tigres de la UANL vs. Vancouver Whitecaps FC end in a draw? | No | 1.20 (83¢) | $15,199 | — | ⏳ Pendiente |
+| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: AL (-1.5) vs EDward Gaming (+1.5) | Anyones Legend | 1.45 (69¢) | $10,390 | — | ⏳ Pendiente |
+| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: AL (-1.5) vs EDward Gaming (+1.5) | Anyone's Legend | 1.45 (69¢) | $10,390 | — | ⏳ Pendiente |
+| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: NS (-1.5) vs DN SOOPers (+1.5) | DN SOOPers | 1.49 (67¢) | $10,050 | — | ⏳ Pendiente |
+| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: NS (-1.5) vs DN SOOPers (+1.5) | DN SOOPers | 1.49 (67¢) | $10,050 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 2.44 (41¢) | $13,328 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.69 (59¢) | $17,326 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.69 (59¢) | $17,326 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 2.44 (41¢) | $13,328 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.67 (60¢) | $11,937 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.67 (60¢) | $11,937 | — | ⏳ Pendiente |
+| johnny234 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 1.61 (62¢) | $13,804 | — | ⏳ Pendiente |
+| johnny234 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 1.61 (62¢) | $13,804 | — | ⏳ Pendiente |
+| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $20,666 | — | ⏳ Pendiente |
+| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $20,666 | — | ⏳ Pendiente |
+| AV23IUa | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.85 (54¢) | $10,800 | — | ⏳ Pendiente |
+| AV23IUa | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.92 (52¢) | $10,400 | — | ⏳ Pendiente |
+| AV23IUa | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.45 (69¢) | $13,800 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.25 (80¢) | $14,034 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.25 (80¢) | $14,034 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $12,072 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $13,288 | — | ⏳ Pendiente |
+| ililili1lil1i1 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 3.57 (28¢) | $15,664 | — | ⏳ Pendiente |
+| swisstony | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.25 (80¢) | $11,832 | — | ⏳ Pendiente |
+| Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | -$5,509 | 💰 Vendida antes |
+| Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | -$5,509 | 💰 Vendida antes |
+| coali10 | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | Yes | 2.86 (35¢) | $10,407 | — | ⏳ Pendiente |
+| DonaldinhoTrumpito | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | No | 1.54 (65¢) | $19,188 | — | ⏳ Pendiente |
+| DonaldinhoTrumpito | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | No | 1.54 (65¢) | $19,188 | — | ⏳ Pendiente |
+| coali10 | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | Yes | 2.86 (35¢) | $10,407 | — | ⏳ Pendiente |
+| DonaldinhoTrumpito | Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election? | Yes | 1.54 (65¢) | $18,281 | — | ⏳ Pendiente |
+| DonaldinhoTrumpito | Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election? | Yes | 1.54 (65¢) | $18,281 | — | ⏳ Pendiente |
+| 0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945 | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.20 (83¢) | $11,640 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.18 (85¢) | $15,685 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.18 (85¢) | $15,685 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.18 (85¢) | $10,130 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.18 (85¢) | $10,130 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $57,182 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $57,182 | — | ⏳ Pendiente |
+| ExplosiveNinja | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | GamerLegion | 2.08 (48¢) | $12,103 | — | ⏳ Pendiente |
+| ExplosiveNinja | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | GamerLegion | 2.08 (48¢) | $12,103 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $47,191 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $47,191 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $83,298 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $83,298 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $10,193 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $10,193 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $17,468 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $17,468 | — | ⏳ Pendiente |
+| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $64,864 | — | ⏳ Pendiente |
+| 0F62 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.19 (84¢) | $30,277 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 3.85 (26¢) | $17,333 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.35 (74¢) | $10,873 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.35 (74¢) | $12,259 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.33 (75¢) | $10,397 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Aleksandar Vukic | 1.67 (60¢) | $24,631 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Darwin Blanch | 2.50 (40¢) | $16,421 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Aleksandar Vukic | 1.67 (60¢) | $24,631 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Darwin Blanch | 2.50 (40¢) | $16,421 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Aleksandar Vukic | 1.67 (60¢) | $24,631 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Darwin Blanch | 2.50 (40¢) | $16,421 | — | ⏳ Pendiente |
