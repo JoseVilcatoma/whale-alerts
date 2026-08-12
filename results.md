@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 09:48:45 (hora de Perú)
+Actualizado: 2026-08-12 09:50:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1329**  ($29,888,963 en total)
+- Apuestas registradas: **1332**  ($29,922,333 en total)
 - Resueltas: **938** — 566 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 391
+- Pendientes: 394
 - Apostadores distintos: 124
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 36 | 12 | 47 | 75% | $3,512,528 | +$573,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 0 | 36% | $2,039,712 | -$421,290 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
-| ferrariChampions2026 | 90 | 29 | 7 | 76% | $1,815,979 | +$113,934 |
+| ferrariChampions2026 | 90 | 29 | 8 | 76% | $1,826,831 | +$113,934 |
 | Weaseloftheweek | 11 | 2 | 5 | 85% | $1,416,109 | +$518,388 |
 | pleaseplease123 | 0 | 44 | 3 | 0% | $1,132,533 | -$1,082,423 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 124 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.67 (60¢) | $10,852 | — | ⏳ Pendiente |
+| skyman44 | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | BetBoom Team | 2.17 (46¢) | $10,358 | — | ⏳ Pendiente |
+| CORGI8 | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.85 (54¢) | $12,160 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.59 (63¢) | $11,844 | — | ⏳ Pendiente |
 | vananal0318 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.25 (80¢) | $10,000 | — | ⏳ Pendiente |
 | ohehe | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.61 (62¢) | $11,761 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 124 en total)_
 | Djdjdjekekek | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | BetBoom Team | 2.08 (48¢) | $40,479 | -$3,238 | 💰 Vendida antes |
 | ExplosiveNinja | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.92 (52¢) | $38,473 | — | ⏳ Pendiente |
 | skyman44 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.33 (75¢) | $37,500 | — | ⏳ Pendiente |
-| skyman44 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.33 (75¢) | $37,500 | — | ⏳ Pendiente |
-| GreenBerry1337 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.33 (75¢) | $14,559 | — | ⏳ Pendiente |
-| GreenBerry1337 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.33 (75¢) | $14,559 | — | ⏳ Pendiente |

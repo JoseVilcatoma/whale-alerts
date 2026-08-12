@@ -17311,5 +17311,44 @@
     "usd": 10904.648000092453,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1095,
+    "timestamp": 1786546144,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 10358.2386,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1096,
+    "timestamp": 1786546144,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 12159.671400000001,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1097,
+    "timestamp": 1786546166,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 10851.713999999998,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
