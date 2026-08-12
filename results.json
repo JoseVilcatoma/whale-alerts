@@ -16670,5 +16670,18 @@
     "usd": 12042.0054,
     "odds_at_bet": 54,
     "status": "lost"
+  },
+  {
+    "telegram_msg_id": 1045,
+    "timestamp": 1786541861,
+    "username": "Marcoli",
+    "wallet": "0xdbbbde184ab04018ce0373c0dbe4e5fd6be805a8",
+    "slug": "atp-jodar-nakashi-2026-08-12",
+    "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "usd": 36522.1379,
+    "odds_at_bet": 68,
+    "status": "pending"
   }
 ]
