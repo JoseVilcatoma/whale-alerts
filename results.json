@@ -24603,5 +24603,70 @@
     "usd": 16116.9008,
     "odds_at_bet": 88,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1678,
+    "timestamp": 1786564661,
+    "username": "0x076d\u20268d4c",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 12656.34,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1679,
+    "timestamp": 1786564661,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 11929.73,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1680,
+    "timestamp": 1786564674,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mil-sd-2026-08-12-total-8pt5",
+    "title": "Milwaukee Brewers vs. San Diego Padres: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 12785.839999,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1681,
+    "timestamp": 1786564731,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-9z-pain-2026-08-12",
+    "title": "Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D",
+    "outcome": "9z",
+    "side": "BUY",
+    "usd": 13200.32,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1682,
+    "timestamp": 1786564745,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-lvg-mouz-2026-08-12",
+    "title": "Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 11634.84,
+    "odds_at_bet": 81,
+    "status": "pending"
   }
 ]
