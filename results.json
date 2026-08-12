@@ -8399,5 +8399,18 @@
     "usd": 15664.359999,
     "odds_at_bet": 28,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 491,
+    "timestamp": 1786506137,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tex-laa-2026-08-11",
+    "title": "Texas Rangers vs. Los Angeles Angels",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 14034.392000000002,
+    "odds_at_bet": 80,
+    "status": "pending"
   }
 ]
