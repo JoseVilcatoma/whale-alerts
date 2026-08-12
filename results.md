@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 07:54:05 (hora de Perú)
+Actualizado: 2026-08-12 07:56:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1047**  ($21,988,920 en total)
+- Apuestas registradas: **1048**  ($22,003,714 en total)
 - Resueltas: **792** — 488 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 255
+- Pendientes: 256
 - Apostadores distintos: 115
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 41 | 0 | 41% | $1,811,081 | -$218,949 |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 25 | 28% | $1,771,231 | -$743,370 |
 | AV23IUa | 23 | 11 | 29 | 68% | $1,636,286 | +$348,929 |
-| ferrariChampions2026 | 79 | 25 | 3 | 76% | $1,570,562 | +$58,976 |
+| ferrariChampions2026 | 79 | 25 | 4 | 76% | $1,585,356 | +$58,976 |
 | Djdjdjekekek | 27 | 3 | 17 | 90% | $1,501,585 | +$494,952 |
 | Weaseloftheweek | 11 | 2 | 3 | 85% | $1,218,338 | +$518,388 |
 | pleaseplease123 | 0 | 39 | 2 | 0% | $1,024,640 | -$991,234 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 115 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.19 (84¢) | $14,794 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.19 (84¢) | $14,794 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.37 (73¢) | $27,037 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.69 (59¢) | $17,252 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 115 en total)_
 | Djdjdjekekek | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.22 (45¢) | $10,994 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.82 (55¢) | $14,600 | — | ⏳ Pendiente |
 | Djdjdjekekek | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.22 (45¢) | $10,994 | — | ⏳ Pendiente |
-| ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.33 (43¢) | $18,109 | — | ⏳ Pendiente |

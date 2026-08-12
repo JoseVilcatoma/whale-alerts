@@ -13637,5 +13637,18 @@
     "usd": 14794.08,
     "odds_at_bet": 84,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 866,
+    "timestamp": 1786539150,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-g2-m80-2026-08-12",
+    "title": "Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A",
+    "outcome": "G2",
+    "side": "BUY",
+    "usd": 14794.08,
+    "odds_at_bet": 84,
+    "status": "pending"
   }
 ]
