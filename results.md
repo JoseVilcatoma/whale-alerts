@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 03:50:41 (hora de Perú)
+Actualizado: 2026-08-12 03:52:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **927**  ($19,151,674 en total)
+- Apuestas registradas: **929**  ($19,188,480 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 138
+- Pendientes: 140
 - Apostadores distintos: 98
 
 ### Balance
@@ -26,9 +26,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 41 | 0 | 41% | $1,811,081 | -$218,949 |
 | AV23IUa | 23 | 11 | 25 | 68% | $1,566,763 | +$348,929 |
-| ferrariChampions2026 | 79 | 25 | 1 | 76% | $1,536,964 | +$58,976 |
+| ferrariChampions2026 | 79 | 25 | 2 | 76% | $1,555,768 | +$58,976 |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 12 | 28% | $1,456,503 | -$743,370 |
-| Djdjdjekekek | 27 | 3 | 4 | 90% | $1,127,388 | +$494,952 |
+| Djdjdjekekek | 27 | 3 | 5 | 90% | $1,145,391 | +$494,952 |
 | pleaseplease123 | 0 | 39 | 0 | 0% | $991,234 | -$991,234 |
 | Weaseloftheweek | 11 | 2 | 0 | 85% | $870,103 | +$518,388 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 98 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.96 (51¢) | $18,804 | — | ⏳ Pendiente |
+| Djdjdjekekek | Astana: Fajing Sun vs Semen Pankin | Semen Pankin | 2.04 (49¢) | $18,002 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.96 (51¢) | $18,804 | — | ⏳ Pendiente |
 | Djdjdjekekek | Astana: Fajing Sun vs Semen Pankin | Semen Pankin | 2.04 (49¢) | $18,002 | — | ⏳ Pendiente |
 | Marcoli | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.49 (67¢) | $11,211 | — | ⏳ Pendiente |
@@ -128,6 +130,4 @@ _(mostrando los 40 de mayor monto, de 98 en total)_
 | Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | -$5,509 | 💰 Vendida antes |
 | Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | +$11,844 | ✅ Ganada |
 | Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | -$5,509 | 💰 Vendida antes |
-| coali10 | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | Yes | 2.86 (35¢) | $10,407 | — | ⏳ Pendiente |
-| DonaldinhoTrumpito | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | No | 1.54 (65¢) | $19,188 | — | ⏳ Pendiente |
 | coali10 | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | Yes | 2.86 (35¢) | $10,407 | — | ⏳ Pendiente |
