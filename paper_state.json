@@ -1,5 +1,5 @@
 {
-  "bankroll": 325.3441536729946,
+  "bankroll": 308.9874870063279,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -16495,6 +16495,101 @@
       "timestamp": 1786497253.9226744,
       "bankroll": 325.34,
       "event": "won: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497530.6440132,
+      "bankroll": 325.76,
+      "event": "won: HomeRunHazard \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497530.7442796,
+      "bankroll": 325.16,
+      "event": "lost: HomeRunHazard \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497531.133269,
+      "bankroll": 315.52,
+      "event": "lost: HomeRunHazard \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 6.5"
+    },
+    {
+      "timestamp": 1786497535.2041833,
+      "bankroll": 315.03,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497535.3044016,
+      "bankroll": 314.5,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497535.4045637,
+      "bankroll": 313.45,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497535.5047736,
+      "bankroll": 312.93,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497535.805362,
+      "bankroll": 311.95,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497536.0057166,
+      "bankroll": 311.95,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497536.1059246,
+      "bankroll": 311.53,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497536.2061012,
+      "bankroll": 311.05,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497536.3062863,
+      "bankroll": 310.57,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497536.406454,
+      "bankroll": 308.99,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497557.6116257,
+      "bankroll": 308.99,
+      "event": "lost: Sassy-Bucket \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497558.7773197,
+      "bankroll": 308.99,
+      "event": "lost: Sassy-Bucket \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497558.877538,
+      "bankroll": 308.99,
+      "event": "lost: Sassy-Bucket \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497559.0779116,
+      "bankroll": 308.99,
+      "event": "lost: Sassy-Bucket \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786497559.3785307,
+      "bankroll": 308.99,
+      "event": "lost: Sassy-Bucket \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 6.5"
+    },
+    {
+      "timestamp": 1786497559.5789578,
+      "bankroll": 308.99,
+      "event": "lost: Sassy-Bucket \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
     }
   ]
 }

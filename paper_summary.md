@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 20:18:27 (hora de Perú)
+Actualizado: 2026-08-11 20:20:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $325.34
-**Retorno acumulado:** -67.47%
+**Bankroll actual:** $308.99
+**Retorno acumulado:** -69.10%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,21 +19,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| wr0ngw4yb3tt0r | 55 | 50 | 29 | +27.64 USD |
 | theowalcott | 7 | 4 | 10 | +25.74 USD |
+| wr0ngw4yb3tt0r | 55 | 60 | 19 | +21.11 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 2 | 6 | 4 | +17.41 USD |
-| HomeRunHazard | 93 | 84 | 34 | +15.57 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
+| HomeRunHazard | 94 | 86 | 31 | +5.74 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| Sassy-Bucket | 0 | 0 | 14 | +0.00 USD |
+| Sassy-Bucket | 0 | 6 | 9 | +0.00 USD |
 | donthackme | 0 | 0 | 9 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
@@ -440,6 +440,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 45% | 1.04 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 50% | 0.00 | ⏳ pendiente | — |
@@ -469,4 +470,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | swisstony | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 36% | 0.00 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 41% | 0.00 | ⏳ pendiente | — |
