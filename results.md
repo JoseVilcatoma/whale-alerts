@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 17:41:10 (hora de Perú)
+Actualizado: 2026-08-12 17:43:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1980**  ($53,584,814 en total)
+- Apuestas registradas: **1983**  ($53,617,851 en total)
 - Resueltas: **1353** — 804 ganadas / 549 perdidas (**59%** de acierto)
-- Pendientes: 627
-- Apostadores distintos: 175
+- Pendientes: 630
+- Apostadores distintos: 177
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 52 | 43% | $8,806,687 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 53 | 43% | $8,818,505 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 18 | 35% | $3,070,137 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 47 | 77% | $2,601,386 | +$168,085 |
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 11 | 1 | 3 | 92% | $217,012 | +$88,234 |
 | highnetworth | 0 | 0 | 5 | — | $215,351 | — |
 
-_(mostrando los 40 de mayor monto, de 175 en total)_
+_(mostrando los 40 de mayor monto, de 177 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x1670700a2A23d24Ae699fA523eBd90ADfa0d0B65-1768523373235 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.35 (74¢) | $10,615 | — | ⏳ Pendiente |
+| justbusiness1 | Will Orlando City SC win on 2026-08-12? | Yes | 1.82 (55¢) | $10,604 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Miami Marlins (-1.5) | Pittsburgh Pirates | 1.56 (64¢) | $11,818 | — | ⏳ Pendiente |
 | Satisfied | New York Mets vs. Atlanta Braves: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $15,000 | — | ⏳ Pendiente |
 | pleaseplease123 | New York Mets vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $58,872 | — | ⏳ Pendiente |
 | fkcvffcjt | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.30 (77¢) | $15,960 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 175 en total)_
 | spnir | Spread: SE Palmeiras (-1.5) | Club Cerro Porteño | 2.04 (49¢) | $14,700 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $70,400 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $23,500 | — | ⏳ Pendiente |
-| monkeymashingkeyboard | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $23,500 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will SE Palmeiras win on 2026-08-12? | Yes | 1.35 (74¢) | $15,696 | — | ⏳ Pendiente |
-| pleaseplease123 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.17 (46¢) | $16,840 | — | ⏳ Pendiente |
