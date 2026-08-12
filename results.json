@@ -3228,5 +3228,18 @@
     "usd": 26910.064600000005,
     "odds_at_bet": 33,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 141,
+    "timestamp": 1786494977,
+    "username": "ughjbnk",
+    "wallet": "0x5c2311acccc5e9a172f0ce23d4480177bc00cab3",
+    "slug": "val-jdg-te-2026-08-12",
+    "title": "Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 12822.437600000001,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]

@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 19:35:00 (hora de Perú)
+Actualizado: 2026-08-11 19:37:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **248**  ($5,231,276 en total)
+- Apuestas registradas: **249**  ($5,244,098 en total)
 - Resueltas: **114** — 91 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 134
-- Apostadores distintos: 81
+- Pendientes: 135
+- Apostadores distintos: 82
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 0 | 2 | 0 | ⚠️ 0% (2) | $22,858 | -$22,858 |
 | Marcoli | 1 | 0 | 0 | ⚠️ 100% (1) | $20,000 | +$14,483 |
 
-_(mostrando los 40 de mayor monto, de 81 en total)_
+_(mostrando los 40 de mayor monto, de 82 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ughjbnk | Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins | JD Gaming | 1.79 (56¢) | $12,822 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Naomi Osaka vs Elena Rybakina | Naomi Osaka | 1.49 (67¢) | $26,278 | — | ⏳ Pendiente |
 | Djdjdjekekek | National Bank Open: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 3.03 (33¢) | $26,910 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Naomi Osaka vs Elena Rybakina | Naomi Osaka | 1.47 (68¢) | $33,482 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 81 en total)_
 | Mylifeisover | Pittsburgh Pirates vs. Miami Marlins | Miami Marlins | 1.85 (54¢) | $24,112 | — | ⏳ Pendiente |
 | kibanachi | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.20 (83¢) | $16,446 | +$3,369 | ✅ Ganada |
 | Weaseloftheweek | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.82 (55¢) | $178,495 | — | ⏳ Pendiente |
-| BreakTheBank | New York Mets vs. Atlanta Braves | New York Mets | 2.22 (45¢) | $126,928 | — | ⏳ Pendiente |
