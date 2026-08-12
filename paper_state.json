@@ -1,5 +1,5 @@
 {
-  "bankroll": 429.42838261090486,
+  "bankroll": 429.69051375844583,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -17560,6 +17560,11 @@
       "timestamp": 1786501627.8332376,
       "bankroll": 429.43,
       "event": "lost: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786501682.0028825,
+      "bankroll": 429.69,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Seattle Mariners (-1.5)"
     }
   ]
 }
