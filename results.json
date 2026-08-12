@@ -17625,5 +17625,31 @@
     "usd": 47000.0,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1120,
+    "timestamp": 1786549322,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-ijc-tlnpir-2026-08-12",
+    "title": "LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs",
+    "outcome": "Ici Japon Corp. Esport",
+    "side": "BUY",
+    "usd": 10250.0,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1121,
+    "timestamp": 1786549323,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-ijc-tlnpir-2026-08-12",
+    "title": "LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs",
+    "outcome": "TLN Pirates",
+    "side": "BUY",
+    "usd": 21565.406299999995,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 10:40:39 (hora de Perú)
+Actualizado: 2026-08-12 10:42:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1353**  ($30,682,948 en total)
+- Apuestas registradas: **1355**  ($30,714,763 en total)
 - Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 414
+- Pendientes: 416
 - Apostadores distintos: 125
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 24 | 3 | 0 | 89% | $497,016 | +$224,365 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
 | Lakersfan111 | 1 | 3 | 23 | ⚠️ 25% (4) | $438,184 | -$28,993 |
-| ActionReaction | 0 | 0 | 13 | — | $355,126 | — |
+| ActionReaction | 0 | 0 | 14 | — | $376,692 | — |
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | theowalcott | 21 | 0 | 0 | 100% | $318,833 | +$226,502 |
@@ -52,9 +52,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | five5120 | 2 | 1 | 12 | ⚠️ 67% (3) | $225,368 | -$15,925 |
 | Feromont | 9 | 0 | 0 | 100% | $208,666 | +$55,222 |
 | johnny234 | 3 | 4 | 7 | ⚠️ 43% (7) | $202,256 | -$21,018 |
+| TAIWANNUMBERONE | 0 | 1 | 12 | ⚠️ 0% (1) | $196,512 | -$17,114 |
 | winwin518168 | 0 | 12 | 0 | 0% | $191,010 | -$191,010 |
 | xifutloong3 | 6 | 0 | 0 | ⚠️ 100% (6) | $190,324 | +$142,407 |
-| TAIWANNUMBERONE | 0 | 1 | 11 | ⚠️ 0% (1) | $186,262 | -$17,114 |
 | RN1 | 8 | 5 | 0 | 62% | $168,739 | +$11,250 |
 | fRibrenlc | 9 | 4 | 0 | 69% | $168,073 | +$46,634 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ActionReaction | LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs | TLN Pirates | 1.69 (59¢) | $21,565 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs | Ici Japon Corp. Esport | 2.44 (41¢) | $10,250 | — | ⏳ Pendiente |
 | pleaseplease123 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $58,491 | — | ⏳ Pendiente |
 | Sassy-Bucket | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $58,491 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 | gggjajnsnn | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 2.86 (35¢) | $11,408 | — | ⏳ Pendiente |
 | suanlimao6 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.54 (65¢) | $21,718 | — | ⏳ Pendiente |
 | five5120 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.52 (66¢) | $10,506 | — | ⏳ Pendiente |
-| ferrariChampions2026 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.64 (61¢) | $10,044 | — | ⏳ Pendiente |
-| ferrariChampions2026 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.64 (61¢) | $10,044 | — | ⏳ Pendiente |
