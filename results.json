@@ -17194,5 +17194,44 @@
     "usd": 46285.559999,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1086,
+    "timestamp": 1786545534,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 46285.55999535156,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1087,
+    "timestamp": 1786545466,
+    "username": "basementdweller3000",
+    "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 22991.8902,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1088,
+    "timestamp": 1786545835,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 11550.0,
+    "odds_at_bet": 77,
+    "status": "pending"
   }
 ]
