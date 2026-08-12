@@ -1,5 +1,5 @@
 {
-  "bankroll": 445.4225685202692,
+  "bankroll": 445.50256852026916,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18005,6 +18005,16 @@
       "timestamp": 1786514158.462947,
       "bankroll": 445.42,
       "event": "lost: quavoo \u2014 Will Columbus Crew win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786514219.0681825,
+      "bankroll": 445.5,
+      "event": "won: quavoo \u2014 Columbus Crew vs. Pumas de la UNAM: O/U 1.5"
+    },
+    {
+      "timestamp": 1786514225.5338924,
+      "bankroll": 445.5,
+      "event": "lost: quavoo \u2014 Columbus Crew vs. Pumas de la UNAM: O/U 2.5"
     }
   ]
 }
