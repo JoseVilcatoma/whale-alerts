@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 05:23:30 (hora de Perú)
+Actualizado: 2026-08-12 05:25:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 114 | 97 | 7 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 249 | 151 | 21 | +5.66 USD |
+| UpTheBlues | 249 | 151 | 23 | +5.66 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
@@ -456,6 +456,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Spread: Los Angeles FC (-1.5) | Querétaro FC (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Counter-Strike: Spirit vs JiJieHao (BO1) | JiJieHao (BUY) | 9% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Counter-Strike: Spirit vs JiJieHao (BO1) | JiJieHao (BUY) | 10% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Counter-Strike: Spirit vs JiJieHao (BO1) | JiJieHao (BUY) | 10% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Brunswick Juventus FC vs. Preston Lions  | Over (BUY) | 79% | 0.00 | ⏳ pendiente | — |
@@ -484,5 +486,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | APIA Leichhardt FC vs. Sydney United 58  | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Spirit vs JiJieHao (BO1) | Spirit (BUY) | 89% | 0.00 | ⏳ pendiente | — |
 | dv-pm | Everton FC vs. Newcastle United: O/U 3.5 | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | Nongshim Red Force (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 45% | 0.00 | ⏳ pendiente | — |

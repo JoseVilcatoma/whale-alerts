@@ -80479,5 +80479,47 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786530109.3750963,
     "fills": 1
+  },
+  {
+    "timestamp": 1786530279,
+    "timestamp_added": 1786530280.0276868,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "cs2-ts7-jjh-2026-08-12",
+    "title": "Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A",
+    "outcome": "JiJieHao",
+    "side": "BUY",
+    "whale_usd": 270.20999800000004,
+    "whale_pct": 0.408,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 9,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786530291.6761398,
+    "fills": 4
+  },
+  {
+    "timestamp": 1786530290,
+    "timestamp_added": 1786530291.11107,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-laf-que-2026-08-12-spread-home-1pt5",
+    "title": "Spread: Los Angeles FC (-1.5)",
+    "outcome": "Quer\u00e9taro FC",
+    "side": "BUY",
+    "whale_usd": 129.85,
+    "whale_pct": 0.196,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786530291.1110778,
+    "fills": 1
   }
 ]
