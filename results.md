@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 14:52:20 (hora de Perú)
+Actualizado: 2026-08-12 14:54:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1872**  ($51,287,710 en total)
+- Apuestas registradas: **1878**  ($51,387,461 en total)
 - Resueltas: **1341** — 796 ganadas / 545 perdidas (**59%** de acierto)
-- Pendientes: 531
-- Apostadores distintos: 165
+- Pendientes: 537
+- Apostadores distintos: 167
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 45 | 43% | $8,639,847 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 46 | 43% | $8,650,952 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 14 | 35% | $2,916,482 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 36 | 77% | $2,446,638 | +$168,085 |
@@ -58,19 +58,25 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | basementdweller3000 | 6 | 3 | 6 | 67% | $282,034 | +$34,747 |
 | Feromont | 9 | 0 | 3 | 100% | $266,710 | +$55,222 |
 | five5120 | 7 | 9 | 2 | 44% | $266,115 | -$84,525 |
+| johnny234 | 4 | 11 | 4 | 27% | $260,256 | -$101,100 |
 | ThornyDevil | 2 | 6 | 1 | 25% | $254,880 | -$207,394 |
-| johnny234 | 4 | 11 | 3 | 27% | $245,256 | -$101,100 |
 | mikesports | 7 | 8 | 0 | 47% | $243,869 | -$88,869 |
 | TAIWANNUMBERONE | 11 | 1 | 3 | 92% | $217,012 | +$88,234 |
 | skyman44 | 3 | 5 | 3 | 38% | $214,644 | -$23,079 |
 | ohehe | 0 | 11 | 3 | 0% | $213,828 | -$120,995 |
 
-_(mostrando los 40 de mayor monto, de 165 en total)_
+_(mostrando los 40 de mayor monto, de 167 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x760f…326a | Will Paris Saint-Germain win on 2026-08-12? | Yes | 2.00 (50¢) | $13,360 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain win on 2026-08-12? | No | 2.00 (50¢) | $11,105 | — | ⏳ Pendiente |
+| johnny234 | Houston Astros vs. San Francisco Giants | Houston Astros | 1.85 (54¢) | $15,000 | — | ⏳ Pendiente |
+| icetera | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
+| one8tyfive | Will Paris Saint-Germain win on 2026-08-12? | No | 2.04 (49¢) | $14,686 | — | ⏳ Pendiente |
+| 0x760f…326a | Will Paris Saint-Germain win on 2026-08-12? | Yes | 2.00 (50¢) | $15,000 | — | ⏳ Pendiente |
 | highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $28,052 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $29,197 | — | ⏳ Pendiente |
 | highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $71,238 | — | ⏳ Pendiente |
@@ -125,9 +131,3 @@ _(mostrando los 40 de mayor monto, de 165 en total)_
 | tony-sopranchenko | Will Paris Saint-Germain vs. Aston Villa end in a draw? | No | 1.30 (77¢) | $10,626 | — | ⏳ Pendiente |
 | tony-sopranchenko | Will Paris Saint-Germain vs. Aston Villa end in a draw? | No | 1.30 (77¢) | $10,626 | — | ⏳ Pendiente |
 | tony-sopranchenko | Will Paris Saint-Germain vs. Aston Villa end in a draw? | No | 1.30 (77¢) | $10,626 | — | ⏳ Pendiente |
-| PhoenixSuns | Will Aston Villa win on 2026-08-12? | No | 1.19 (84¢) | $14,073 | — | ⏳ Pendiente |
-| PhoenixSuns | Will Aston Villa win on 2026-08-12? | No | 1.19 (84¢) | $14,073 | — | ⏳ Pendiente |
-| PhoenixSuns | Will Aston Villa win on 2026-08-12? | No | 1.19 (84¢) | $14,073 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.14 (88¢) | $86,776 | — | ⏳ Pendiente |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 8.33 (12¢) | $13,286 | — | ⏳ Pendiente |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 8.33 (12¢) | $13,286 | — | ⏳ Pendiente |
