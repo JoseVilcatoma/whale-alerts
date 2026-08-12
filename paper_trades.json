@@ -77622,5 +77622,69 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786501606.5208883,
     "fills": 1
+  },
+  {
+    "timestamp": 1786501809,
+    "timestamp_added": 1786501809.6583042,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-wsh-las-2026-08-11-total-170pt5",
+    "title": "Washington Mystics vs. Las Vegas Aces: O/U 170.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 313.839999,
+    "whale_pct": 0.162,
+    "paper_stake_usd": 0.69,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786501809.6583118,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786501827,
+    "timestamp_added": 1786501828.3335402,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "cs2-lg6-gl1-2026-08-12",
+    "title": "Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "whale_usd": 881.76,
+    "whale_pct": 0.166,
+    "paper_stake_usd": 0.72,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786501828.3335488,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786501830,
+    "timestamp_added": 1786501830.371735,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-wsh-las-2026-08-11",
+    "title": "Washington Mystics vs. Las Vegas Aces",
+    "outcome": "Las Vegas Aces",
+    "side": "BUY",
+    "whale_usd": 486.03999999999996,
+    "whale_pct": 0.25,
+    "paper_stake_usd": 1.08,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786501830.371744,
+    "fills": 1
   }
 ]
