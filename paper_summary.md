@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 16:08:08 (hora de Perú)
+Actualizado: 2026-08-12 16:10:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $541.18
@@ -57,7 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
-| BrotherObama | 8 | 17 | 1 | -121.31 USD |
+| BrotherObama | 8 | 17 | 2 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | Djdjdjekekek | 5 | 20 | 0 | -137.79 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
@@ -457,6 +457,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: Team Solid vs RMD Gaming (BO5) - Ci | Team Solid (BUY) | 22% | 13.52 | ⏳ pendiente | — |
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 47.71 | ⏳ pendiente | — |
 | WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 47% | 1.26 | ⏳ pendiente | — |
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 1.14 | ⏳ pendiente | — |
@@ -486,4 +487,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 50% | 9.48 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 76% | 0.80 | ✅ ganada | +0.25 |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 73% | 0.61 | ✅ ganada | +0.23 |
-| 1winstreak1 | Spread: San Francisco Giants (-1.5) | Houston Astros (BUY) | 52% | 0.76 | ⏳ pendiente | — |
