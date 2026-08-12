@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:48:00 (hora de Perú)
+Actualizado: 2026-08-11 21:50:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $427.34
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 2 | 9 | 1 | +15.06 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 242 | 150 | 11 | +4.48 USD |
+| UpTheBlues | 242 | 150 | 13 | +4.48 USD |
 | HomeRunHazard | 104 | 92 | 15 | +4.38 USD |
 | Sassy-Bucket | 7 | 6 | 2 | +3.19 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -443,6 +443,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-hou-sf-2026-08-11-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-bos-tor-2026-08-11-spread-home-1pt5 | RN1, ferrariChampions2026 |
 | wnba-wsh-las-2026-08-11-spread-home-6pt5 | ferrariChampions2026, quavoo |
+| lec-rsl-jua-2026-08-11-rsl | UpTheBlues, ferrariChampions2026 |
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 | sud-bol-sao-2026-08-11-total-3pt5 | ferrariChampions2026, swisstony |
 | wnba-phx-la-2026-08-11 | 1winstreak1, ferrariChampions2026, swisstony |
@@ -454,6 +455,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Real Salt Lake win on 2026-08-11? | Yes (BUY) | 73% | 5.28 | ⏳ pendiente | — |
+| UpTheBlues | Will Real Salt Lake win on 2026-08-11? | Yes (BUY) | 73% | 1.90 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 38% | 2.87 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 48% | 12.12 | ⏳ pendiente | — |
 | swisstony | Spread: Phoenix Mercury (-1.5) | Los Angeles Sparks (BUY) | 56% | 0.73 | ⏳ pendiente | — |
@@ -482,5 +485,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Tampa Bay Rays vs. Athletics: O/U 10.5 | Over (BUY) | 47% | 0.51 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 55% | 0.51 | ⏳ pendiente | — |
 | RN1 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 62% | 1.81 | ⏳ pendiente | — |
-| swisstony | Club Bolívar vs. São Paulo FC: O/U 3.5 | Under (BUY) | 98% | 0.67 | ⏳ pendiente | — |
-| swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 48% | 1.25 | ⏳ pendiente | — |

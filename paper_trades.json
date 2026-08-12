@@ -78081,5 +78081,49 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786502749.51746,
     "fills": 1
+  },
+  {
+    "timestamp": 1786502930,
+    "timestamp_added": 1786502931.1646135,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-rsl-jua-2026-08-11-rsl",
+    "title": "Will Real Salt Lake win on 2026-08-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1790.69,
+    "whale_pct": 0.445,
+    "paper_stake_usd": 1.9,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786502936.52632,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786502968,
+    "timestamp_added": 1786502968.810836,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-rsl-jua-2026-08-11-rsl",
+    "title": "Will Real Salt Lake win on 2026-08-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 5004.049998,
+    "whale_pct": 1.234,
+    "paper_stake_usd": 5.28,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786502989.8272817,
+    "fills": 4
   }
 ]
