@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 17:14:49 (hora de Perú)
+Actualizado: 2026-08-12 17:16:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $516.43
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 200 | 112 | 2 | -39.45 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| 1winstreak1 | 133 | 103 | 24 | -59.66 USD |
+| 1winstreak1 | 133 | 103 | 25 | -59.66 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
@@ -458,6 +458,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 60% | 0.18 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 23% | 1.61 | ⏳ pendiente | — |
 | Sassy-Bucket | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
@@ -487,4 +488,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | Spread: SE Palmeiras (-1.5) | SE Palmeiras (BUY) | 48% | 122.45 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: San Francisco Giants (-2.5) | San Francisco Giants (BUY) | 28% | 1.11 | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 97% | 1.50 | ✅ ganada | +0.05 |
-| 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 26% | 0.88 | ❌ perdida | -0.88 |
