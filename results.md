@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 16:53:28 (hora de Perú)
+Actualizado: 2026-08-12 16:55:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1950**  ($52,901,890 en total)
+- Apuestas registradas: **1952**  ($52,940,256 en total)
 - Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
-- Pendientes: 601
+- Pendientes: 603
 - Apostadores distintos: 173
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 14 | 35% | $2,916,482 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 47 | 77% | $2,601,386 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 27 | 0% | $2,067,863 | -$1,082,423 |
-| AV23IUa | 33 | 24 | 23 | 58% | $2,040,986 | +$171,257 |
+| AV23IUa | 33 | 24 | 24 | 58% | $2,059,445 | +$171,257 |
 | Weaseloftheweek | 19 | 2 | 5 | 90% | $1,916,615 | +$872,236 |
 | BreakTheBank | 0 | 12 | 8 | 0% | $1,483,516 | -$803,506 |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
@@ -61,9 +61,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | five5120 | 7 | 9 | 2 | 44% | $266,115 | -$84,525 |
 | ThornyDevil | 2 | 6 | 1 | 25% | $254,880 | -$207,394 |
 | mikesports | 7 | 8 | 0 | 47% | $243,869 | -$88,869 |
+| DonaldinhoTrumpito | 0 | 0 | 12 | — | $232,162 | — |
 | TAIWANNUMBERONE | 11 | 1 | 3 | 92% | $217,012 | +$88,234 |
 | highnetworth | 0 | 0 | 5 | — | $215,351 | — |
-| skyman44 | 3 | 5 | 3 | 38% | $214,644 | -$23,079 |
 
 _(mostrando los 40 de mayor monto, de 173 en total)_
 
@@ -73,6 +73,8 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 |---|---|---|---|---|---|---|
 | AV23IUa | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $10,290 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.47 (68¢) | $22,439 | — | ⏳ Pendiente |
+| AV23IUa | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $18,459 | — | ⏳ Pendiente |
+| DonaldinhoTrumpito | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.47 (68¢) | $19,907 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.47 (68¢) | $19,907 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $18,459 | — | ⏳ Pendiente |
 | johnny234 | Houston Astros vs. San Francisco Giants | San Francisco Giants | 1.92 (52¢) | $12,936 | — | ⏳ Pendiente |
@@ -128,6 +130,4 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 | ferrariChampions2026 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.20 (83¢) | $13,200 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $12,786 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $12,786 | — | ⏳ Pendiente |
-| 0x076d…8d4c | Will Paris Saint-Germain win on 2026-08-12? | No | 2.00 (50¢) | $12,656 | — | ⏳ Pendiente |
-| one8tyfive | Will Paris Saint-Germain win on 2026-08-12? | Yes | 2.00 (50¢) | $11,930 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Paris Saint-Germain win on 2026-08-12? | No | 2.00 (50¢) | $12,656 | — | ⏳ Pendiente |
