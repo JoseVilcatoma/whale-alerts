@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 22:13:02 (hora de Perú)
+Actualizado: 2026-08-11 22:15:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $427.13
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 167 | 112 | 43 | -28.34 USD |
+| swisstony | 167 | 112 | 45 | -28.34 USD |
 | quavoo | 152 | 186 | 34 | -33.89 USD |
 | RN1 | 199 | 111 | 6 | -38.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -454,12 +454,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tb-oak-2026-08-11-total-10pt5 | 1winstreak1, RN1, swisstony |
 | wnba-wsh-las-2026-08-11-total-169pt5 | 1winstreak1, swisstony |
 | mlb-mil-sd-2026-08-11-total-8pt5 | 1winstreak1, swisstony |
+| lec-tig-vwh-2026-08-11-spread-away-1pt5 | UpTheBlues, swisstony |
 | wnba-wsh-las-2026-08-11-total-167pt5 | 1winstreak1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Vancouver Whitecaps FC (-1.5) | Tigres de la UANL (BUY) | 98% | 2.29 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 46% | 0.49 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 47% | 0.45 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 58% | 9.19 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 43% | 0.50 | ⏳ pendiente | — |
@@ -488,5 +491,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 50% | 2.37 | ⏳ pendiente | — |
 | swisstony | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 51% | 1.76 | ⏳ pendiente | — |
 | swisstony | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 50% | 0.57 | ⏳ pendiente | — |
-| 1winstreak1 | Washington Mystics vs. Las Vegas Aces | Washington Mystics (BUY) | 35% | 15.29 | ⏳ pendiente | — |
-| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 45% | 5.54 | ⏳ pendiente | — |

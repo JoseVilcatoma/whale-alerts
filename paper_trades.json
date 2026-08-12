@@ -79209,5 +79209,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786504361.9377515,
     "fills": 1
+  },
+  {
+    "timestamp": 1786504406,
+    "timestamp_added": 1786504407.2769778,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-phx-la-2026-08-11-total-182pt5",
+    "title": "Phoenix Mercury vs. Los Angeles Sparks: O/U 182.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 222.539999,
+    "whale_pct": 0.114,
+    "paper_stake_usd": 0.49,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786504407.2769861,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786504425,
+    "timestamp_added": 1786504426.09451,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "lec-tig-vwh-2026-08-11-spread-away-1pt5",
+    "title": "Spread: Vancouver Whitecaps FC (-1.5)",
+    "outcome": "Tigres de la UANL",
+    "side": "BUY",
+    "whale_usd": 1049.999953,
+    "whale_pct": 0.537,
+    "paper_stake_usd": 2.29,
+    "odds_at_bet": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786504426.0945203,
+    "fills": 1
   }
 ]
