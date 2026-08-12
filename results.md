@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 23:55:53 (hora de Perú)
+Actualizado: 2026-08-11 23:58:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **658**  ($13,640,324 en total)
+- Apuestas registradas: **660**  ($13,670,978 en total)
 - Resueltas: **350** — 246 ganadas / 104 perdidas (**70%** de acierto)
-- Pendientes: 308
+- Pendientes: 310
 - Apostadores distintos: 95
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 0 | 33 | 100% | $1,263,998 | +$384,537 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 0 | 34 | 100% | $1,277,326 | +$384,537 |
 | ferrariChampions2026 | 47 | 6 | 25 | 89% | $1,168,205 | +$93,281 |
 | AV23IUa | 12 | 5 | 25 | 71% | $1,140,129 | +$239,141 |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 16 | 29 | 43% | $1,131,395 | -$248,458 |
@@ -42,8 +42,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | theowalcott | 12 | 0 | 2 | 100% | $212,555 | +$115,484 |
 | mikesports | 2 | 2 | 5 | ⚠️ 50% (4) | $146,046 | -$16,049 |
 | fRibrenlc | 5 | 4 | 2 | 56% | $144,073 | +$5,745 |
+| wr0ngw4yb3tt0r | 0 | 2 | 7 | ⚠️ 0% (2) | $143,984 | -$22,712 |
 | xifutloong3 | 4 | 0 | 0 | ⚠️ 100% (4) | $126,883 | +$94,938 |
-| wr0ngw4yb3tt0r | 0 | 2 | 6 | ⚠️ 0% (2) | $126,658 | -$22,712 |
 | Feromont | 0 | 0 | 5 | — | $116,933 | — |
 | winwin518168 | 0 | 2 | 5 | ⚠️ 0% (2) | $110,606 | -$40,000 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 0 | 8 | 0 | 0% | $108,227 | -$70,245 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 2.44 (41¢) | $13,328 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.69 (59¢) | $17,326 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.69 (59¢) | $17,326 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 2.44 (41¢) | $13,328 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.67 (60¢) | $11,937 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 | danielwolfmorales3pddb6dl6 | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Martin Damm | 1.96 (51¢) | $12,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $16,254 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $16,254 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $16,254 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $18,762 | — | ⏳ Pendiente |
