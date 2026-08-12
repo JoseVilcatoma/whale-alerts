@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 03:23:07 (hora de Perú)
+Actualizado: 2026-08-12 03:25:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $443.71
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
-| AV23IUa | 3 | 3 | 5 | +46.51 USD |
+| AV23IUa | 3 | 3 | 6 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 65 | 69 | 0 | +23.18 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -451,6 +451,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: magic vs TheMongolz (BO1 | TheMongolz (BUY) | 54% | 0.91 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | DN SOOPers (BUY) | 5% | 0.48 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | DN SOOPers (BUY) | 10% | 0.55 | ⏳ pendiente | — |
 | BrotherObama | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 28% | 84.52 | ⏳ pendiente | — |
@@ -480,4 +481,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gaditima | Will annual inflation be 3.3% in July? | Yes (BUY) | 40% | 3.83 | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 48% | 1.15 | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 52% | 4.58 | ⏳ pendiente | — |
-| HomeRunHazard | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 55% | 3.24 | ⏳ pendiente | — |
