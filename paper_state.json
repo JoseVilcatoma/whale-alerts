@@ -1,5 +1,5 @@
 {
-  "bankroll": 427.83840535926424,
+  "bankroll": 421.7984053592642,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -17715,6 +17715,26 @@
       "timestamp": 1786505053.0813768,
       "bankroll": 427.84,
       "event": "won: ferrariChampions2026 \u2014 LoL: RMD Gaming vs RED Academy - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786505365.5870044,
+      "bankroll": 425.67,
+      "event": "lost: BrotherObama \u2014 LoL: RMD Gaming vs RED Academy (BO3) - Circuito Desafiante Play-In"
+    },
+    {
+      "timestamp": 1786505365.6872315,
+      "bankroll": 421.8,
+      "event": "lost: BrotherObama \u2014 LoL: RMD Gaming vs RED Academy (BO3) - Circuito Desafiante Play-In"
+    },
+    {
+      "timestamp": 1786505369.7999885,
+      "bankroll": 421.8,
+      "event": "lost: BrotherObama \u2014 LoL: RMD Gaming vs RED Academy (BO3) - Circuito Desafiante Play-In"
+    },
+    {
+      "timestamp": 1786505370.1006386,
+      "bankroll": 421.8,
+      "event": "lost: BrotherObama \u2014 LoL: RMD Gaming vs RED Academy (BO3) - Circuito Desafiante Play-In"
     }
   ]
 }
