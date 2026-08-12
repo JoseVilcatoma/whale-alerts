@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 08:51:51 (hora de Perú)
+Actualizado: 2026-08-12 08:53:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $449.56
@@ -36,6 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 2 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | donthackme | 0 | 0 | 9 | +0.00 USD |
+| CORGI8 | 0 | 0 | 1 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -452,6 +453,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| CORGI8 | Counter-Strike: BetBoom Team vs FaZe (BO | FaZe (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | dv-pm | Spread: Miami Marlins (-1.5) | Miami Marlins (BUY) | 34% | 0.00 | ⏳ pendiente | — |
 | SDTrading | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | SDTrading | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
@@ -481,4 +483,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 22% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 51% | 0.00 | ⏳ pendiente | — |
