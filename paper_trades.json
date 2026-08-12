@@ -80516,5 +80516,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786578741.1884747,
     "fills": 1
+  },
+  {
+    "timestamp": 1786578879,
+    "timestamp_added": 1786578879.8945267,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-sea-nyy-2026-08-12-total-8pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 160.0,
+    "whale_pct": 0.225,
+    "paper_stake_usd": 1.43,
+    "odds_at_bet": 20,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786578879.8945346,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786578899,
+    "timestamp_added": 1786578899.3873765,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-cp-coq-2026-08-12-draw",
+    "title": "Will CA Platense vs. CD Coquimbo Unido end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1155.1001999999999,
+    "whale_pct": 0.239,
+    "paper_stake_usd": 1.53,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786578899.3873851,
+    "fills": 1
   }
 ]
