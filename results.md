@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 20:26:49 (hora de Perú)
+Actualizado: 2026-08-11 20:28:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **282**  ($5,896,859 en total)
+- Apuestas registradas: **283**  ($5,907,061 en total)
 - Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 166
+- Pendientes: 167
 - Apostadores distintos: 86
 
 ### Balance
@@ -45,10 +45,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 0 | 0 | 2 | — | $63,441 | — |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 0 | 3 | 1 | ⚠️ 0% (3) | $54,114 | -$24,454 |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 1 | 0 | 0 | ⚠️ 100% (1) | $53,136 | +$38,478 |
+| winwin518168 | 0 | 0 | 3 | — | $50,202 | — |
 | ...............................lala | 1 | 2 | 0 | ⚠️ 33% (3) | $49,488 | -$21,461 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 3 | — | $43,772 | — |
 | 0x076d…8d4c | 1 | 0 | 2 | ⚠️ 100% (1) | $41,256 | +$1,092 |
-| winwin518168 | 0 | 0 | 2 | — | $40,000 | — |
 | AGUGava | 1 | 0 | 2 | ⚠️ 100% (1) | $37,194 | +$451 |
 | kibanachi | 2 | 0 | 0 | ⚠️ 100% (2) | $35,806 | +$6,009 |
 | Mylifeisover | 0 | 0 | 2 | — | $35,483 | — |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 86 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| winwin518168 | Washington Mystics vs. Las Vegas Aces | Washington Mystics | 3.33 (30¢) | $10,202 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under 9.5 | 2.22 (45¢) | $12,070 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under 9.5 | 2.22 (45¢) | $12,070 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under 10.5 | 1.92 (52¢) | $28,303 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 86 en total)_
 | AV23IUa | National Bank Open: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.96 (51¢) | $10,578 | — | ⏳ Pendiente |
 | johnny234 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.67 (60¢) | $18,320 | +$9,771 | 💰 Vendida antes |
 | ic4cream | Spread: Chicago White Sox (-1.5) | Cincinnati Reds | 1.69 (59¢) | $11,897 | — | ⏳ Pendiente |
-| ililili1lil1i1 | Cincinnati Reds vs. Chicago White Sox | Cincinnati Reds | 2.50 (40¢) | $14,480 | — | ⏳ Pendiente |
