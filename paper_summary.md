@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 07:46:53 (hora de Perú)
+Actualizado: 2026-08-12 07:49:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -57,7 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 8 | -116.01 USD |
-| BrotherObama | 7 | 17 | 0 | -121.31 USD |
+| BrotherObama | 7 | 17 | 1 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
@@ -452,6 +452,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 27% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | GKS GieKSa Katowice vs. MH Hapoel Tel Av | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Eintracht Frankfurt (-3.5) | Eintracht Frankfurt (BUY) | 28% | 0.00 | ⏳ pendiente | — |
 | dv-pm | Will GKS GieKSa Katowice win on 2026-08- | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
@@ -481,4 +482,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 18% | 1.39 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 36% | 67.57 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 16% | 8.26 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 16% | 62.31 | ⏳ pendiente | — |
