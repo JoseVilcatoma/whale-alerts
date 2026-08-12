@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 14:56:56 (hora de Perú)
+Actualizado: 2026-08-12 15:00:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1889**  ($51,622,425 en total)
+- Apuestas registradas: **1894**  ($51,684,632 en total)
 - Resueltas: **1341** — 796 ganadas / 545 perdidas (**59%** de acierto)
-- Pendientes: 548
+- Pendientes: 553
 - Apostadores distintos: 168
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 47 | 43% | $8,662,057 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 14 | 35% | $2,916,482 | -$564,452 |
-| ferrariChampions2026 | 105 | 32 | 37 | 77% | $2,462,755 | +$168,085 |
+| ferrariChampions2026 | 105 | 32 | 40 | 77% | $2,500,376 | +$168,085 |
 | AV23IUa | 33 | 24 | 21 | 58% | $2,012,237 | +$171,257 |
 | pleaseplease123 | 0 | 44 | 23 | 0% | $1,921,287 | -$1,082,423 |
 | Weaseloftheweek | 11 | 2 | 8 | 85% | $1,747,031 | +$518,388 |
@@ -50,8 +50,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | bigspending | 0 | 0 | 5 | — | $333,212 | — |
+| 0x076d…8d4c | 8 | 0 | 10 | 100% | $330,343 | +$45,411 |
 | theowalcott | 21 | 0 | 0 | 100% | $318,833 | +$226,502 |
-| 0x076d…8d4c | 8 | 0 | 9 | 100% | $317,687 | +$45,411 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | casualbet2020 | 0 | 0 | 6 | — | $304,949 | — |
 | Feromont | 9 | 0 | 4 | 100% | $304,372 | +$55,222 |
@@ -71,6 +71,11 @@ _(mostrando los 40 de mayor monto, de 168 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.23 (81¢) | $11,635 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.20 (83¢) | $13,200 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $12,786 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Will Paris Saint-Germain win on 2026-08-12? | No | 2.00 (50¢) | $12,656 | — | ⏳ Pendiente |
+| one8tyfive | Will Paris Saint-Germain win on 2026-08-12? | Yes | 2.00 (50¢) | $11,930 | — | ⏳ Pendiente |
 | vtcchampion52 | Will Kai and Speed beat the Minecraft challenge by August 13? | Yes | 1.47 (68¢) | $24,185 | — | ⏳ Pendiente |
 | 0x760f…326a | Will Paris Saint-Germain win on 2026-08-12? | Yes | 2.00 (50¢) | $13,360 | — | ⏳ Pendiente |
 | 0x760f…326a | Will Paris Saint-Germain win on 2026-08-12? | Yes | 2.00 (50¢) | $13,360 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 168 en total)_
 | fRibrenlc | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.61 (62¢) | $13,778 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | paiN | 2.63 (38¢) | $25,966 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.61 (62¢) | $13,403 | — | ⏳ Pendiente |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | paiN | 2.63 (38¢) | $25,966 | — | ⏳ Pendiente |
-| fRibrenlc | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.61 (62¢) | $13,778 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.61 (62¢) | $13,403 | — | ⏳ Pendiente |
-| BreakTheBank | Will Paris Saint-Germain win on 2026-08-12? | No | 2.56 (39¢) | $217,701 | — | ⏳ Pendiente |
-| musholius722 | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.64 (61¢) | $340,507 | — | ⏳ Pendiente |
