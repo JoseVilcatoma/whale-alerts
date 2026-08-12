@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 05:29:48 (hora de Perú)
+Actualizado: 2026-08-12 05:31:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 29 | 16 | 4 | +189.61 USD |
+| BBQChickenisthebesttt | 29 | 16 | 6 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 4 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -449,13 +449,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cs2-fut-tyloo-2026-08-12 | AV23IUa, UpTheBlues |
 | wnba-chi-gsv-2026-08-12-total-166pt5 | HomeRunHazard, UpTheBlues |
 | lol-dnf-ns-2026-08-12 | BBQChickenisthebesttt, BrotherObama, ferrariChampions2026 |
-| lol-edg-al-2026-08-12 | BrotherObama, ferrariChampions2026 |
+| lol-edg-al-2026-08-12 | BBQChickenisthebesttt, BrotherObama, ferrariChampions2026 |
 | cs2-ts7-jjh-2026-08-12 | AV23IUa, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Los Angeles FC (-1.5) | Querétaro FC (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Counter-Strike: Spirit vs JiJieHao (BO1) | JiJieHao (BUY) | 9% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Counter-Strike: Spirit vs JiJieHao (BO1) | JiJieHao (BUY) | 10% | 0.00 | ⏳ pendiente | — |
@@ -484,5 +486,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Spread: Deportivo Toluca FC (-1.5) | FC Dallas (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | APIA Leichhardt FC vs. Sydney United 58  | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: Spirit vs JiJieHao (BO1) | Spirit (BUY) | 89% | 0.00 | ⏳ pendiente | — |
-| dv-pm | Everton FC vs. Newcastle United: O/U 3.5 | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
