@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 20:43:34 (hora de Perú)
+Actualizado: 2026-08-11 20:45:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **305**  ($6,326,732 en total)
+- Apuestas registradas: **309**  ($6,403,227 en total)
 - Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 189
+- Pendientes: 193
 - Apostadores distintos: 86
 
 ### Balance
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 18 | 38% | $608,538 | -$139,198 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 19 | 38% | $632,533 | -$139,198 |
 | AV23IUa | 4 | 0 | 14 | ⚠️ 100% (4) | $526,033 | +$109,102 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 18 | — | $512,603 | — |
 | ferrariChampions2026 | 23 | 0 | 11 | 100% | $511,245 | +$57,935 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 17 | — | $500,510 | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 19 | 0 | 0 | 100% | $415,077 | +$195,517 |
 | pleaseplease123 | 0 | 0 | 12 | — | $333,073 | — |
 | Weaseloftheweek | 3 | 1 | 1 | ⚠️ 75% (4) | $303,804 | +$7,132 |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | texaskid | 0 | 0 | 6 | — | $193,198 | — |
 | Talvez10 | 0 | 0 | 9 | — | $165,672 | — |
 | TennisLove | 2 | 0 | 0 | ⚠️ 100% (2) | $152,883 | +$113,054 |
-| Sassy-Bucket | 0 | 0 | 8 | — | $118,908 | — |
+| Sassy-Bucket | 0 | 0 | 9 | — | $144,903 | — |
 | Djdjdjekekek | 0 | 0 | 5 | — | $117,911 | — |
 | HVAB | 3 | 0 | 0 | ⚠️ 100% (3) | $117,178 | +$18,028 |
 | theowalcott | 0 | 0 | 7 | — | $106,278 | — |
@@ -56,6 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | phonesculptor | 0 | 0 | 3 | — | $34,963 | — |
 | 0b1 | 2 | 0 | 0 | ⚠️ 100% (2) | $34,853 | +$7,302 |
 | tennischamp | 1 | 0 | 2 | ⚠️ 100% (1) | $32,529 | +$843 |
+| RN1 | 0 | 0 | 2 | — | $29,746 | — |
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $29,744 | +$9,167 |
 | Istaroth | 0 | 0 | 1 | — | $27,704 | — |
 | BaccaratRoulette | 0 | 1 | 0 | ⚠️ 0% (1) | $27,060 | -$27,060 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Elaran1993 | 0 | 0 | 2 | — | $26,219 | — |
 | monkeymashingkeyboard | 0 | 0 | 2 | — | $26,186 | — |
 | SevenTons | 0 | 0 | 2 | — | $25,996 | — |
-| ughjbnk | 0 | 0 | 2 | — | $25,645 | — |
 
 _(mostrando los 40 de mayor monto, de 86 en total)_
 
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 86 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.85 (54¢) | $14,411 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 2.17 (46¢) | $12,093 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. Athletics: O/U 10.5 | Over 10.5 | 2.08 (48¢) | $23,995 | — | ⏳ Pendiente |
+| Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under 10.5 | 1.92 (52¢) | $25,995 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $27,638 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Athletics | Athletics | 2.70 (37¢) | $13,000 | — | ⏳ Pendiente |
 | texaskid | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.59 (63¢) | $21,941 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 86 en total)_
 | ughjbnk | Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins | JD Gaming | 1.79 (56¢) | $12,822 | — | ⏳ Pendiente |
 | ughjbnk | Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins | JD Gaming | 1.79 (56¢) | $12,822 | — | ⏳ Pendiente |
 | Djdjdjekekek | National Bank Open: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 3.03 (33¢) | $26,910 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Naomi Osaka vs Elena Rybakina | Naomi Osaka | 1.49 (67¢) | $26,278 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Naomi Osaka vs Elena Rybakina | Naomi Osaka | 1.49 (67¢) | $26,278 | — | ⏳ Pendiente |
-| Djdjdjekekek | National Bank Open: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 3.03 (33¢) | $26,910 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Naomi Osaka vs Elena Rybakina | Naomi Osaka | 1.47 (68¢) | $33,482 | — | ⏳ Pendiente |
