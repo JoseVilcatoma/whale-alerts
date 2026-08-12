@@ -12682,5 +12682,70 @@
     "usd": 10250.5434,
     "odds_at_bet": 69,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 791,
+    "timestamp": 1786532785,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "lol-kt-dk-2026-08-12",
+    "title": "LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "usd": 19235.671000000002,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 792,
+    "timestamp": 1786532785,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "lol-kt-dk-2026-08-12",
+    "title": "LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "usd": 11100.0,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 793,
+    "timestamp": 1786532786,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-kt-dk-2026-08-12",
+    "title": "LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 33229.161,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 794,
+    "timestamp": 1786532786,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-kt-dk-2026-08-12",
+    "title": "LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 18900.0,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 795,
+    "timestamp": 1786532554,
+    "username": "SineNooneEI",
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "slug": "lol-kt-dk-2026-08-12-game1",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 11860.391599999999,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
