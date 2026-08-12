@@ -26665,5 +26665,18 @@
     "usd": 22035.6037,
     "odds_at_bet": 43,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1838,
+    "timestamp": 1786577800,
+    "username": "curie",
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "slug": "mlb-mil-sd-2026-08-12",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 10164.06760030756,
+    "odds_at_bet": 76,
+    "status": "pending"
   }
 ]
