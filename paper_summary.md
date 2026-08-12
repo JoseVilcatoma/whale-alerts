@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 16:51:45 (hora de Perú)
+Actualizado: 2026-08-12 16:53:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $572.83
-**Retorno acumulado:** -42.72%
+**Bankroll actual:** $571.83
+**Retorno acumulado:** -42.82%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 2 | +190.97 USD |
-| theowalcott | 17 | 4 | 5 | +143.32 USD |
+| theowalcott | 17 | 4 | 7 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | wr0ngw4yb3tt0r | 67 | 70 | 0 | +104.98 USD |
 | dv-pm | 4 | 6 | 1 | +89.49 USD |
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| 1winstreak1 | 132 | 98 | 24 | -3.26 USD |
+| 1winstreak1 | 132 | 99 | 23 | -4.26 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
@@ -457,6 +457,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 2.29 | ⏳ pendiente | — |
+| theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 5.20 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Colorado Rockies (-1.5) | Arizona Diamondbacks (BUY) | 20% | 1.17 | ⏳ pendiente | — |
 | BrotherObama | LoL: Team Solid vs RMD Gaming (BO5) - Ci | Team Solid (BUY) | 22% | 13.52 | ⏳ pendiente | — |
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 47.71 | ⏳ pendiente | — |
@@ -485,5 +487,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 58% | 2.61 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 97% | 4.82 | ✅ ganada | +0.15 |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 93% | 0.63 | ✅ ganada | +0.05 |
-| 1winstreak1 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 50% | 9.48 | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 76% | 0.80 | ✅ ganada | +0.25 |
