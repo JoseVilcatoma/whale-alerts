@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 14:41:38 (hora de Perú)
+Actualizado: 2026-08-12 14:43:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1858**  ($50,817,778 en total)
+- Apuestas registradas: **1863**  ($50,929,459 en total)
 - Resueltas: **1340** — 795 ganadas / 545 perdidas (**59%** de acierto)
-- Pendientes: 518
+- Pendientes: 523
 - Apostadores distintos: 164
 
 ### Balance
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 42 | 43% | $8,551,347 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 44 | 43% | $8,608,847 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 11 | 35% | $2,854,982 | -$564,452 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 13 | 35% | $2,897,482 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 35 | 77% | $2,430,521 | +$168,085 |
 | AV23IUa | 33 | 24 | 21 | 58% | $2,012,237 | +$171,257 |
 | pleaseplease123 | 0 | 44 | 23 | 0% | $1,921,287 | -$1,082,423 |
@@ -71,6 +71,11 @@ _(mostrando los 40 de mayor monto, de 164 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks | Colorado Rockies | 2.63 (38¢) | $19,000 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $23,500 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
+| swisstony | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.33 (75¢) | $11,682 | — | ⏳ Pendiente |
 | tennischamp | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.16 (86¢) | $51,840 | — | ⏳ Pendiente |
 | Mylifeisover | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 2.08 (48¢) | $25,087 | — | ⏳ Pendiente |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.92 (52¢) | $145,556 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 164 en total)_
 | ferrariChampions2026 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.18 (85¢) | $15,875 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Minnesota Twins | Minnesota Twins | 2.00 (50¢) | $11,290 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.67 (60¢) | $29,404 | — | ⏳ Pendiente |
-| Ditto321 | Will Paris Saint-Germain win on 2026-08-12? | No | 2.50 (40¢) | $10,000 | — | ⏳ Pendiente |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.67 (60¢) | $29,404 | — | ⏳ Pendiente |
-| Ditto321 | Will Paris Saint-Germain win on 2026-08-12? | No | 2.50 (40¢) | $10,000 | — | ⏳ Pendiente |
-| Ditto321 | Will Paris Saint-Germain win on 2026-08-12? | No | 2.50 (40¢) | $10,000 | — | ⏳ Pendiente |
-| sbsigner | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $22,237 | — | ⏳ Pendiente |
