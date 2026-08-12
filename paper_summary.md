@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 17:04:22 (hora de Perú)
+Actualizado: 2026-08-12 17:06:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $571.83
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 2 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| 1winstreak1 | 132 | 99 | 26 | -4.26 USD |
+| 1winstreak1 | 132 | 99 | 28 | -4.26 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
@@ -458,6 +458,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Colorado Rockies (-1.5) | Colorado Rockies (BUY) | 75% | 1.80 | ⏳ pendiente | — |
+| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 43% | 0.85 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Colorado Rockies (-2.5) | Arizona Diamondbacks (BUY) | 53% | 0.67 | ⏳ pendiente | — |
 | Weaseloftheweek | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 52% | 1.02 | ⏳ pendiente | — |
 | Weaseloftheweek | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 52% | 1.69 | ⏳ pendiente | — |
@@ -486,5 +488,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 69% | 1.98 | ✅ ganada | +0.89 |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 57% | 0.90 | ❌ perdida | -0.90 |
 | 1winstreak1 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 31% | 1.36 | ⏳ pendiente | — |
-| 1winstreak1 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 54% | 9.69 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Colorado Rockies (BUY) | 80% | 2.71 | ⏳ pendiente | — |
