@@ -80692,5 +80692,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786511308.3746777,
     "fills": 5
+  },
+  {
+    "timestamp": 1786512316,
+    "timestamp_added": 1786512316.6648672,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "usc-psg-av-2026-08-12-av",
+    "title": "Will Aston Villa win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 741.4100000000001,
+    "whale_pct": 0.903,
+    "paper_stake_usd": 4.61,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786512316.6648762,
+    "fills": 1
   }
 ]
