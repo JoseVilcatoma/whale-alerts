@@ -25087,5 +25087,57 @@
     "usd": 10103.019,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1715,
+    "timestamp": 1786568685,
+    "username": "WTSA",
+    "wallet": "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8",
+    "slug": "lib-pal-cep-2026-08-12-total-2pt5",
+    "title": "SE Palmeiras vs. Club Cerro Porte\u00f1o: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 10103.019000060713,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1716,
+    "timestamp": 1786568653,
+    "username": "WTSA",
+    "wallet": "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8",
+    "slug": "lib-pal-cep-2026-08-12-spread-home-1pt5",
+    "title": "Spread: SE Palmeiras (-1.5)",
+    "outcome": "SE Palmeiras",
+    "side": "BUY",
+    "usd": 22553.96140091945,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1717,
+    "timestamp": 1786568653,
+    "username": "spnir",
+    "wallet": "0xde8255bfde4de8ceefc7658462234da51ef8705d",
+    "slug": "lib-pal-cep-2026-08-12-spread-home-1pt5",
+    "title": "Spread: SE Palmeiras (-1.5)",
+    "outcome": "Club Cerro Porte\u00f1o",
+    "side": "BUY",
+    "usd": 14700.0,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1718,
+    "timestamp": 1786568218,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-sea-nyy-2026-08-12-total-8pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 23500.0,
+    "odds_at_bet": 47,
+    "status": "pending"
   }
 ]

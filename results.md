@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 16:05:32 (hora de Perú)
+Actualizado: 2026-08-12 16:07:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1925**  ($52,362,765 en total)
+- Apuestas registradas: **1929**  ($52,433,622 en total)
 - Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
-- Pendientes: 576
+- Pendientes: 580
 - Apostadores distintos: 171
 
 ### Balance
@@ -72,7 +72,11 @@ _(mostrando los 40 de mayor monto, de 171 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U 2.5 | Over 2.5 | 2.13 (47¢) | $10,103 | — | ⏳ Pendiente |
+| WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U 2.5 | Over 2.5 | 2.13 (47¢) | $10,103 | — | ⏳ Pendiente |
+| WTSA | Spread: SE Palmeiras (-1.5) | SE Palmeiras | 1.96 (51¢) | $22,554 | — | ⏳ Pendiente |
+| spnir | Spread: SE Palmeiras (-1.5) | Club Cerro Porteño | 2.04 (49¢) | $14,700 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $70,400 | — | ⏳ Pendiente |
+| monkeymashingkeyboard | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $23,500 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $23,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will SE Palmeiras win on 2026-08-12? | Yes | 1.35 (74¢) | $15,696 | — | ⏳ Pendiente |
 | pleaseplease123 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.17 (46¢) | $16,840 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 171 en total)_
 | highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $71,238 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $74,145 | — | ⏳ Pendiente |
 | Feromont | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 1.15 (87¢) | $37,662 | — | ⏳ Pendiente |
-| Feromont | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 1.15 (87¢) | $37,662 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 1.14 (88¢) | $16,117 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 1.14 (88¢) | $16,117 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
