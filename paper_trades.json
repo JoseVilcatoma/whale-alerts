@@ -80606,5 +80606,71 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786510762.2283216,
     "fills": 1
+  },
+  {
+    "timestamp": 1786510901,
+    "timestamp_added": 1786510901.7365675,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-kc-lad-2026-08-11-total-9pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1323.1409999999998,
+    "whale_pct": 4.864,
+    "paper_stake_usd": 23.57,
+    "odds_at_bet": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786510901.736575,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786510901,
+    "timestamp_added": 1786510902.3618321,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-kc-lad-2026-08-11-spread-home-1pt5",
+    "title": "Spread: Los Angeles Dodgers (-1.5)",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "whale_usd": 109.32000000000001,
+    "whale_pct": 0.402,
+    "paper_stake_usd": 1.95,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "quavoo",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786510902.3618412,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786510916,
+    "timestamp_added": 1786510917.506426,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lib-pal-cep-2026-08-12-cep",
+    "title": "Will Club Cerro Porte\u00f1o win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 782.0,
+    "whale_pct": 0.186,
+    "paper_stake_usd": 0.9,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786510917.5064354,
+    "fills": 1
   }
 ]

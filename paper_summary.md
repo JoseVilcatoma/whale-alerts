@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 00:01:16 (hora de Perú)
+Actualizado: 2026-08-12 00:03:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $484.62
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| 1winstreak1 | 132 | 111 | 10 | +105.07 USD |
+| 1winstreak1 | 132 | 111 | 12 | +105.07 USD |
 | dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 3 | 11 | +46.51 USD |
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 114 | 97 | 1 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 243 | 150 | 37 | +4.50 USD |
+| UpTheBlues | 243 | 150 | 38 | +4.50 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
@@ -470,6 +470,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.90 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 93% | 1.95 | ⏳ pendiente | — |
+| 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 97% | 23.57 | ⏳ pendiente | — |
 | 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 74% | 1.73 | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 64% | 8.86 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: FUT Esports vs TYLOO (BO | TYLOO (BUY) | 41% | 1.25 | ⏳ pendiente | — |
@@ -497,6 +500,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Houston Astros vs. San Francisco Giants: | Over (BUY) | 31% | 0.56 | ❌ perdida | -0.56 |
 | UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 96% | 1.16 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Vitality vs 100 Thieves  | 100 Thieves (BUY) | 23% | 7.19 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 73% | 0.63 | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: MIBR vs Astralis (BO1) - | Astralis (BUY) | 54% | 18.87 | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: NIP vs Legacy (BO1) - Es | Legacy (BUY) | 58% | 6.67 | ⏳ pendiente | — |
