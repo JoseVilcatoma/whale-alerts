@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 05:15:30 (hora de Perú)
+Actualizado: 2026-08-12 05:17:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **949**  ($19,593,631 en total)
+- Apuestas registradas: **951**  ($19,624,330 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 160
+- Pendientes: 162
 - Apostadores distintos: 101
 
 ### Balance
@@ -49,10 +49,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,408 | +$115,433 |
 | ThornyDevil | 2 | 0 | 4 | ⚠️ 100% (2) | $158,751 | +$14,240 |
 | fRibrenlc | 8 | 4 | 0 | 67% | $156,073 | +$36,412 |
+| johnny234 | 3 | 3 | 4 | ⚠️ 50% (6) | $149,821 | -$7,214 |
 | ...............................lala | 3 | 6 | 0 | 33% | $148,465 | -$64,383 |
 | RN1 | 7 | 4 | 0 | 64% | $144,192 | +$24,012 |
 | 0x076d…8d4c | 7 | 0 | 3 | ⚠️ 100% (7) | $137,506 | +$37,453 |
-| johnny234 | 3 | 3 | 3 | ⚠️ 50% (6) | $137,332 | -$7,214 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
 | DonaldinhoTrumpito | 0 | 0 | 6 | — | $112,406 | — |
 | Marcoli | 2 | 0 | 3 | ⚠️ 100% (2) | $111,211 | +$28,966 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 101 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.56 (64¢) | $18,210 | — | ⏳ Pendiente |
+| johnny234 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.78 (36¢) | $12,489 | — | ⏳ Pendiente |
 | MeiGuNiuBi | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.11 (90¢) | $10,691 | — | ⏳ Pendiente |
 | suanlimao6 | LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 1.59 (63¢) | $21,319 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.12 (89¢) | $17,509 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 101 en total)_
 | johnny234 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 1.61 (62¢) | $13,804 | -$13,804 | ❌ Perdida |
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $20,666 | +$1,556 | ✅ Ganada |
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $20,666 | +$1,556 | ✅ Ganada |
-| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $20,666 | +$1,556 | ✅ Ganada |
-| AV23IUa | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.85 (54¢) | $10,800 | — | ⏳ Pendiente |
