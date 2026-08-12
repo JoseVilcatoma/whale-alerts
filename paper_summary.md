@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:20:56 (hora de Perú)
+Actualizado: 2026-08-11 21:22:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $429.43
@@ -46,9 +46,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 163 | 109 | 14 | -28.34 USD |
+| swisstony | 163 | 109 | 15 | -28.34 USD |
 | quavoo | 152 | 186 | 31 | -33.89 USD |
-| RN1 | 197 | 110 | 8 | -38.43 USD |
+| RN1 | 197 | 110 | 9 | -38.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -405,7 +405,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-phx-la-2026-08-11-spread-away-1pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-tb-oak-2026-08-11-total-9pt5 | HomeRunHazard, Sassy-Bucket |
 | uel-sab-lar-2026-08-11-draw | ferrariChampions2026, swisstony |
-| wnba-phx-la-2026-08-11-total-177pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| wnba-phx-la-2026-08-11-total-177pt5 | ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
 | ucl-nec-oly-2026-08-11-nec | UpTheBlues, quavoo |
 | col-al-bra-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 | col-al-bra-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
@@ -448,6 +448,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Tampa Bay Rays vs. Athletics: O/U 10.5 | Over (BUY) | 47% | 0.51 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 55% | 0.51 | ⏳ pendiente | — |
 | RN1 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 62% | 1.81 | ⏳ pendiente | — |
 | swisstony | Club Bolívar vs. São Paulo FC: O/U 3.5 | Under (BUY) | 98% | 0.67 | ⏳ pendiente | — |
 | swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 48% | 1.25 | ⏳ pendiente | — |
@@ -476,5 +478,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Real Salt Lake win on 2026-08-11? | No (BUY) | 44% | 0.59 | ⏳ pendiente | — |
 | quavoo | Spread: Las Vegas Aces (-6.5) | Las Vegas Aces (BUY) | 50% | 3.70 | ⏳ pendiente | — |
 | ferrariChampions2026 | Estudiantes de La Plata vs. CD Universid | Over (BUY) | 61% | 0.37 | ⏳ pendiente | — |
-| Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 45% | 1.04 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 36% | 0.00 | ❌ perdida | -0.00 |
