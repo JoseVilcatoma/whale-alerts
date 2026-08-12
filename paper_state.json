@@ -17470,6 +17470,26 @@
       "timestamp": 1786500487.730938,
       "bankroll": 429.42,
       "event": "won: ferrariChampions2026 \u2014 Spread: Toronto Blue Jays (-1.5)"
+    },
+    {
+      "timestamp": 1786500684.3486533,
+      "bankroll": 429.42,
+      "event": "lost: HomeRunHazard \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786500685.601252,
+      "bankroll": 429.42,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Chicago Cubs (-1.5)"
+    },
+    {
+      "timestamp": 1786500686.3394976,
+      "bankroll": 429.42,
+      "event": "won: swisstony \u2014 Spread: Washington Nationals (-1.5)"
+    },
+    {
+      "timestamp": 1786500687.803095,
+      "bankroll": 429.42,
+      "event": "lost: swisstony \u2014 Spread: Washington Nationals (-1.5)"
     }
   ]
 }
