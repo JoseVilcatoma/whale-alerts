@@ -18288,5 +18288,18 @@
     "usd": 10219.95,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1171,
+    "timestamp": 1786551260,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-brancac-moelle-2026-08-12",
+    "title": "Hamburg: Raul Brancaccio vs Marvin Moeller",
+    "outcome": "Raul Brancaccio",
+    "side": "BUY",
+    "usd": 10733.876805,
+    "odds_at_bet": 66,
+    "status": "pending"
   }
 ]
