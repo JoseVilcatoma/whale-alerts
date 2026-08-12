@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 03:37:36 (hora de Perú)
+Actualizado: 2026-08-12 03:39:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $440.57
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 16 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 17 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | BrotherObama | 7 | 17 | 3 | -121.31 USD |
@@ -452,6 +452,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | Nongshim Red Force (BUY) | 82% | 1.77 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | Nongshim Red Force (BUY) | 82% | 1.45 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | Nongshim Red Force (BUY) | 90% | 2.62 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | Nongshim Red Force (BUY) | 90% | 28.76 | ⏳ pendiente | — |
@@ -481,4 +482,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.44 | ⏳ pendiente | — |
 | Gaditima | Valorant: All Gamers vs TEC Esports (BO3 | All Gamers (BUY) | 66% | 0.46 | ⏳ pendiente | — |
 | Gaditima | Will annual inflation be 3.3% in July? | No (BUY) | 54% | 3.53 | ⏳ pendiente | — |
-| Gaditima | Will annual inflation be 3.4% in July? | Yes (BUY) | 42% | 1.81 | ⏳ pendiente | — |
