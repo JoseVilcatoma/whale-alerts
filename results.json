@@ -26607,5 +26607,57 @@
     "usd": 13578.999999,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1833,
+    "timestamp": 1786576989,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tex-laa-2026-08-12-total-8pt5",
+    "title": "Texas Rangers vs. Los Angeles Angels: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 13578.9999992,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1834,
+    "timestamp": 1786576989,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tex-laa-2026-08-12-total-8pt5",
+    "title": "Texas Rangers vs. Los Angeles Angels: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 15312.4893608,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1835,
+    "timestamp": 1786576947,
+    "username": "GoldenAlpha168",
+    "wallet": "0x9ba8d25a054044bb66d0ca4e250a16dbfb64cdb3",
+    "slug": "lib-cru-fla-2026-08-12-total-2pt5",
+    "title": "Cruzeiro EC vs. CR Flamengo: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 32782.88879999999,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1836,
+    "timestamp": 1786576947,
+    "username": "WTSA",
+    "wallet": "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8",
+    "slug": "lib-cru-fla-2026-08-12-total-2pt5",
+    "title": "Cruzeiro EC vs. CR Flamengo: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 22035.6037,
+    "odds_at_bet": 43,
+    "status": "pending"
   }
 ]

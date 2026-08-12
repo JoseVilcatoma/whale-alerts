@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 18:25:23 (hora de Perú)
+Actualizado: 2026-08-12 18:27:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2041**  ($54,868,689 en total)
+- Apuestas registradas: **2045**  ($54,952,399 en total)
 - Resueltas: **1355** — 806 ganadas / 549 perdidas (**59%** de acierto)
-- Pendientes: 686
+- Pendientes: 690
 - Apostadores distintos: 179
 
 ### Balance
@@ -27,8 +27,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 55 | 43% | $8,889,723 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 29 | 35% | $3,354,476 | -$564,452 |
-| ferrariChampions2026 | 105 | 32 | 50 | 77% | $2,653,690 | +$168,085 |
-| pleaseplease123 | 0 | 44 | 35 | 0% | $2,298,846 | -$1,082,423 |
+| ferrariChampions2026 | 105 | 32 | 51 | 77% | $2,667,269 | +$168,085 |
+| pleaseplease123 | 0 | 44 | 36 | 0% | $2,314,158 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
 | Weaseloftheweek | 19 | 2 | 9 | 90% | $2,010,911 | +$872,236 |
 | BreakTheBank | 0 | 12 | 10 | 0% | $1,543,814 | -$803,506 |
@@ -71,8 +71,12 @@ _(mostrando los 40 de mayor monto, de 179 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $13,579 | — | ⏳ Pendiente |
+| pleaseplease123 | Texas Rangers vs. Los Angeles Angels: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $15,312 | — | ⏳ Pendiente |
 | pleaseplease123 | Texas Rangers vs. Los Angeles Angels: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $15,312 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $13,579 | — | ⏳ Pendiente |
+| GoldenAlpha168 | Cruzeiro EC vs. CR Flamengo: O/U 2.5 | Under 2.5 | 1.75 (57¢) | $32,783 | — | ⏳ Pendiente |
+| WTSA | Cruzeiro EC vs. CR Flamengo: O/U 2.5 | Over 2.5 | 2.33 (43¢) | $22,036 | — | ⏳ Pendiente |
 | WTSA | Cruzeiro EC vs. CR Flamengo: O/U 2.5 | Over 2.5 | 2.33 (43¢) | $22,036 | — | ⏳ Pendiente |
 | GoldenAlpha168 | Cruzeiro EC vs. CR Flamengo: O/U 2.5 | Under 2.5 | 1.75 (57¢) | $32,783 | — | ⏳ Pendiente |
 | paquitomillonario | Boston Red Sox vs. Toronto Blue Jays: O/U 7.5 | Under 7.5 | 1.59 (63¢) | $16,961 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 179 en total)_
 | 0x1670700a2A23d24Ae699fA523eBd90ADfa0d0B65-1768523373235 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.35 (74¢) | $10,615 | — | ⏳ Pendiente |
 | 0x1670700a2A23d24Ae699fA523eBd90ADfa0d0B65-1768523373235 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.35 (74¢) | $10,615 | — | ⏳ Pendiente |
 | justbusiness1 | Will Orlando City SC win on 2026-08-12? | Yes | 1.82 (55¢) | $10,604 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Miami Marlins (-1.5) | Pittsburgh Pirates | 1.56 (64¢) | $11,818 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Miami Marlins (-1.5) | Pittsburgh Pirates | 1.56 (64¢) | $11,818 | — | ⏳ Pendiente |
-| fkcvffcjt | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.30 (77¢) | $15,960 | — | ⏳ Pendiente |
-| pleaseplease123 | New York Mets vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $58,872 | — | ⏳ Pendiente |
