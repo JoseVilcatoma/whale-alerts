@@ -71466,8 +71466,8 @@
     "whale_pct": 17.824,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786479014.8374507,
@@ -71486,7 +71486,7 @@
     "whale_pct": 6.22,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "SDTrading"
@@ -71528,7 +71528,7 @@
     "whale_pct": 0.111,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "SDTrading"
@@ -71570,8 +71570,8 @@
     "whale_pct": 4.288,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -74640,8 +74640,8 @@
     "whale_pct": 0.122,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "SDTrading",
       "wr0ngw4yb3tt0r"
@@ -74731,8 +74731,8 @@
     "whale_pct": 0.952,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "SDTrading",
       "wr0ngw4yb3tt0r"
@@ -75543,7 +75543,7 @@
     "whale_pct": 5.462,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -75876,7 +75876,7 @@
     "whale_pct": 0.203,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -76071,8 +76071,8 @@
     "whale_pct": 0.444,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "HomeRunHazard",
       "SDTrading",
@@ -76095,8 +76095,8 @@
     "whale_pct": 1.248,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "HomeRunHazard",
       "RN1",
@@ -77577,6 +77577,50 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786501442.7626548,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786501563,
+    "timestamp_added": 1786501564.113707,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-wsh-las-2026-08-11-total-168pt5",
+    "title": "Washington Mystics vs. Las Vegas Aces: O/U 168.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 345.22999799999997,
+    "whale_pct": 0.18,
+    "paper_stake_usd": 0.77,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786501564.1137152,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786501606,
+    "timestamp_added": 1786501606.5208786,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-phx-la-2026-08-11",
+    "title": "Phoenix Mercury vs. Los Angeles Sparks",
+    "outcome": "Los Angeles Sparks",
+    "side": "BUY",
+    "whale_usd": 313.6,
+    "whale_pct": 0.162,
+    "paper_stake_usd": 0.7,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786501606.5208883,
     "fills": 1
   }
 ]

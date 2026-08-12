@@ -17510,6 +17510,56 @@
       "timestamp": 1786500980.5074956,
       "bankroll": 429.43,
       "event": "won: UpTheBlues \u2014 CA Talleres vs. CA Lan\u00fas: O/U 2.5"
+    },
+    {
+      "timestamp": 1786501616.251232,
+      "bankroll": 429.43,
+      "event": "lost: SDTrading \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786501616.3514519,
+      "bankroll": 429.43,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786501616.4516098,
+      "bankroll": 429.43,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786501616.6519701,
+      "bankroll": 429.43,
+      "event": "lost: SDTrading \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786501624.8486166,
+      "bankroll": 429.43,
+      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786501624.9489317,
+      "bankroll": 429.43,
+      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786501626.8873057,
+      "bankroll": 429.43,
+      "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786501627.5325804,
+      "bankroll": 429.43,
+      "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786501627.733003,
+      "bankroll": 429.43,
+      "event": "lost: RN1 \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786501627.8332376,
+      "bankroll": 429.43,
+      "event": "lost: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
     }
   ]
 }
