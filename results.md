@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 05:38:23 (hora de Perú)
+Actualizado: 2026-08-12 05:40:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **954**  ($19,658,471 en total)
+- Apuestas registradas: **956**  ($19,680,123 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 165
+- Pendientes: 167
 - Apostadores distintos: 102
 
 ### Balance
@@ -71,7 +71,9 @@ _(mostrando los 40 de mayor monto, de 102 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jackpeter888 | LoL: EDward Gaming vs Anyone's Legend - Game 2 Winner | Anyones Legend | 1.35 (74¢) | $11,152 | — | ⏳ Pendiente |
 | jackpeter888 | LoL: EDward Gaming vs Anyone's Legend - Game 2 Winner | Anyone's Legend | 1.35 (74¢) | $11,152 | — | ⏳ Pendiente |
+| Lakersfan111 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.33 (75¢) | $10,500 | — | ⏳ Pendiente |
 | Lakersfan111 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.33 (75¢) | $10,500 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.56 (64¢) | $18,210 | — | ⏳ Pendiente |
 | johnny234 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.78 (36¢) | $12,489 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 102 en total)_
 | 0x076d…8d4c | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.67 (60¢) | $11,937 | +$7,958 | ✅ Ganada |
 | 0x076d…8d4c | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.67 (60¢) | $11,937 | +$7,958 | ✅ Ganada |
 | 0x076d…8d4c | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.67 (60¢) | $11,937 | +$7,958 | ✅ Ganada |
-| johnny234 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 1.61 (62¢) | $13,804 | -$13,804 | ❌ Perdida |
-| johnny234 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 1.61 (62¢) | $13,804 | -$13,804 | ❌ Perdida |
