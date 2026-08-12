@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 20:22:38 (hora de Perú)
+Actualizado: 2026-08-11 20:24:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **280**  ($5,869,590 en total)
+- Apuestas registradas: **282**  ($5,896,859 en total)
 - Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 164
+- Pendientes: 166
 - Apostadores distintos: 86
 
 ### Balance
@@ -39,10 +39,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | HVAB | 3 | 0 | 0 | ⚠️ 100% (3) | $117,178 | +$18,028 |
 | texaskid | 0 | 0 | 3 | — | $108,306 | — |
 | theowalcott | 0 | 0 | 7 | — | $106,278 | — |
+| mikesports | 0 | 0 | 5 | — | $80,623 | — |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (5) | $68,075 | +$8,937 |
-| mikesports | 0 | 0 | 4 | — | $65,424 | — |
+| Sassy-Bucket | 0 | 0 | 4 | — | $67,742 | — |
 | xifutloong3 | 0 | 0 | 2 | — | $63,441 | — |
-| Sassy-Bucket | 0 | 0 | 3 | — | $55,673 | — |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 0 | 3 | 1 | ⚠️ 0% (3) | $54,114 | -$24,454 |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 1 | 0 | 0 | ⚠️ 100% (1) | $53,136 | +$38,478 |
 | ...............................lala | 1 | 2 | 0 | ⚠️ 33% (3) | $49,488 | -$21,461 |
@@ -72,10 +72,12 @@ _(mostrando los 40 de mayor monto, de 86 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under 9.5 | 2.22 (45¢) | $12,070 | — | ⏳ Pendiente |
+| Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under 9.5 | 2.22 (45¢) | $12,070 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under 10.5 | 1.92 (52¢) | $28,303 | — | ⏳ Pendiente |
 | winwin518168 | Spread: Los Angeles Sparks (-2.5) | Los Angeles Sparks | 2.04 (49¢) | $20,000 | — | ⏳ Pendiente |
 | quavoo | Will Tigres de la UANL win on 2026-08-11? | Yes | 1.49 (67¢) | $14,472 | — | ⏳ Pendiente |
 | WTSA | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC | 1.79 (56¢) | $16,800 | — | ⏳ Pendiente |
+| mikesports | Will Tigres de la UANL vs. Vancouver Whitecaps FC end in a draw? | No | 1.20 (83¢) | $15,199 | — | ⏳ Pendiente |
 | mikesports | Will Tigres de la UANL vs. Vancouver Whitecaps FC end in a draw? | No | 1.20 (83¢) | $15,199 | — | ⏳ Pendiente |
 | mikesports | Will Vancouver Whitecaps FC win on 2026-08-11? | No | 1.16 (86¢) | $17,200 | — | ⏳ Pendiente |
 | tennischamp | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.56 (64¢) | $10,666 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 86 en total)_
 | johnny234 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.67 (60¢) | $18,320 | +$9,771 | 💰 Vendida antes |
 | ic4cream | Spread: Chicago White Sox (-1.5) | Cincinnati Reds | 1.69 (59¢) | $11,897 | — | ⏳ Pendiente |
 | ililili1lil1i1 | Cincinnati Reds vs. Chicago White Sox | Cincinnati Reds | 2.50 (40¢) | $14,480 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Chicago White Sox | Chicago White Sox | 1.67 (60¢) | $17,757 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Under 7.5 | 2.04 (49¢) | $46,329 | — | ⏳ Pendiente |
