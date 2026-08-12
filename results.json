@@ -12240,5 +12240,18 @@
     "usd": 12841.199999999999,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 757,
+    "timestamp": 1786528127,
+    "username": "five5120",
+    "wallet": "0xc1c7bb8761105f6d33fc8d71dec31b5688a0f0a7",
+    "slug": "lol-dnf-ns-2026-08-12",
+    "title": "LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 17904.219998000004,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
