@@ -80656,5 +80656,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786530814.3840861,
     "fills": 1
+  },
+  {
+    "timestamp": 1786530935,
+    "timestamp_added": 1786530935.9677093,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "auc-nse-hei-2026-08-12-nse",
+    "title": "Will North Sunshine Eagles FC win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 83.16000000000001,
+    "whale_pct": 0.122,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786530935.9677188,
+    "fills": 1
   }
 ]
