@@ -17508,5 +17508,44 @@
     "usd": 102655.35,
     "odds_at_bet": 51,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1111,
+    "timestamp": 1786546695,
+    "username": "JaJa668",
+    "wallet": "0x3ebd6441c0b5ee308208bf30b2819a59b763b66a",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 10379.961000000001,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1112,
+    "timestamp": 1786546680,
+    "username": "vv-vv",
+    "wallet": "0xdf44c3e8ce0a3f66dd4cdf7688e1f23500d770f1",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 17532.069997665858,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1113,
+    "timestamp": 1786546671,
+    "username": "retroactivesource",
+    "wallet": "0x85d53efdd055aa88fb00a914f5615bfd585545ee",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 29999.999995070004,
+    "odds_at_bet": 89,
+    "status": "pending"
   }
 ]
