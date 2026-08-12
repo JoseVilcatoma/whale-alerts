@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 11:50:05 (hora de Perú)
+Actualizado: 2026-08-12 11:52:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1412**  ($32,819,455 en total)
+- Apuestas registradas: **1413**  ($32,832,345 en total)
 - Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 473
+- Pendientes: 474
 - Apostadores distintos: 131
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 131 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ArturitoFilito | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $12,890 | — | ⏳ Pendiente |
 | 0x99F0d31fdced5B3A0e5Ee2867730A6644a6C9495-1779037126382 | Exact Score: Paris Saint-Germain 0 - 0 Aston Villa? | No | 1.08 (93¢) | $15,064 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Hamburg: Raul Brancaccio vs Marvin Moeller | Marvin Moeller | 1.15 (87¢) | $10,041 | — | ⏳ Pendiente |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.85 (26¢) | $12,881 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 131 en total)_
 | ActionReaction | LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs | TLN Pirates | 1.69 (59¢) | $21,565 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs | Ici Japon Corp. Esport | 2.44 (41¢) | $10,250 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs | Ici Japon Corp. Esport | 2.44 (41¢) | $10,250 | — | ⏳ Pendiente |
-| pleaseplease123 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $58,491 | — | ⏳ Pendiente |
