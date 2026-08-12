@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 18:48:11 (hora de Perú)
+Actualizado: 2026-08-12 18:50:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2054**  ($55,218,904 en total)
+- Apuestas registradas: **2057**  ($55,264,038 en total)
 - Resueltas: **1358** — 806 ganadas / 552 perdidas (**59%** de acierto)
-- Pendientes: 696
+- Pendientes: 699
 - Apostadores distintos: 180
 
 ### Balance
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 180 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $24,734 | — | ⏳ Pendiente |
+| icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $10,200 | — | ⏳ Pendiente |
+| icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $10,200 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox | Cincinnati Reds | 2.56 (39¢) | $12,608 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Chicago White Sox | Chicago White Sox | 1.64 (61¢) | $20,333 | — | ⏳ Pendiente |
 | kibanachi | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.11 (90¢) | $11,700 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 180 en total)_
 | 0x076d…8d4c | Will Inter Miami CF win on 2026-08-12? | No | 1.82 (55¢) | $15,395 | — | ⏳ Pendiente |
 | fkcvffcjt | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 2.63 (38¢) | $14,152 | -$5,146 | 💰 Vendida antes |
 | one8tyfive | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.41 (71¢) | $15,552 | — | ⏳ Pendiente |
-| one8tyfive | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.41 (71¢) | $15,552 | — | ⏳ Pendiente |
-| DonaldinhoTrumpito | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $12,367 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $59,400 | — | ⏳ Pendiente |
