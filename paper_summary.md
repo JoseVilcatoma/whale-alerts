@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 22:48:29 (hora de Perú)
+Actualizado: 2026-08-11 22:50:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $408.49
@@ -17,8 +17,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| 1winstreak1 | 109 | 88 | 46 | +44.96 USD |
+| AV23IUa | 3 | 3 | 3 | +46.51 USD |
+| 1winstreak1 | 109 | 88 | 47 | +44.96 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | wr0ngw4yb3tt0r | 60 | 68 | 8 | +18.95 USD |
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | HomeRunHazard | 106 | 92 | 13 | +6.54 USD |
-| UpTheBlues | 242 | 150 | 29 | +4.48 USD |
+| UpTheBlues | 242 | 150 | 30 | +4.48 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
@@ -468,6 +468,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 73% | 0.63 | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: MIBR vs Astralis (BO1) - | Astralis (BUY) | 54% | 18.87 | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: NIP vs Legacy (BO1) - Es | Legacy (BUY) | 58% | 6.67 | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 56% | 4.97 | ⏳ pendiente | — |
+| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 56% | 7.68 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 70% | 0.65 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 97% | 0.48 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 55% | 7.37 | ⏳ pendiente | — |
@@ -493,8 +498,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 46% | 0.54 | ⏳ pendiente | — |
 | UpTheBlues | Real Salt Lake vs. FC Juárez: O/U 3.5 | Under (BUY) | 52% | 0.94 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 49% | 0.44 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Las Vegas Aces (-8.5) | Washington Mystics (BUY) | 50% | 0.82 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 44% | 11.83 | ⏳ pendiente | — |
-| 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 55% | 0.66 | ⏳ pendiente | — |
-| 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 60% | 1.40 | ⏳ pendiente | — |
-| 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 52% | 6.57 | ⏳ pendiente | — |
