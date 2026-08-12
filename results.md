@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 07:04:12 (hora de Perú)
+Actualizado: 2026-08-12 07:06:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1029**  ($21,558,451 en total)
+- Apuestas registradas: **1030**  ($21,571,009 en total)
 - Resueltas: **790** — 486 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 239
+- Pendientes: 240
 - Apostadores distintos: 114
 
 ### Balance
@@ -57,9 +57,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ...............................lala | 3 | 6 | 0 | 33% | $148,465 | -$64,383 |
 | RN1 | 7 | 4 | 0 | 64% | $144,192 | +$24,012 |
 | 0x076d…8d4c | 7 | 0 | 3 | ⚠️ 100% (7) | $137,506 | +$37,453 |
+| ExplosiveNinja | 0 | 0 | 11 | — | $134,789 | — |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
 | TAIWANNUMBERONE | 0 | 1 | 7 | ⚠️ 0% (1) | $123,809 | -$17,114 |
-| ExplosiveNinja | 0 | 0 | 10 | — | $122,231 | — |
 | DonaldinhoTrumpito | 0 | 0 | 6 | — | $112,406 | — |
 | Marcoli | 2 | 0 | 3 | ⚠️ 100% (2) | $111,211 | +$28,966 |
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.92 (52¢) | $12,559 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.39 (72¢) | $10,764 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 3.57 (28¢) | $24,596 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | magic | 1.39 (72¢) | $64,778 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 | SineNooneEI | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $11,860 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $10,343 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $10,343 | — | ⏳ Pendiente |
-| Lakersfan111 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.50 (40¢) | $10,334 | — | ⏳ Pendiente |
