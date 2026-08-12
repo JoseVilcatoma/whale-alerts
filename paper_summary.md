@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 02:08:17 (hora de Perú)
+Actualizado: 2026-08-12 02:10:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $444.52
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | donthackme | 0 | 0 | 9 | +0.00 USD |
-| Gaditima | 0 | 0 | 2 | +0.00 USD |
+| Gaditima | 0 | 0 | 3 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -450,6 +450,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Gaditima | Will annual inflation be 3.3% in July? | No (BUY) | 54% | 3.53 | ⏳ pendiente | — |
 | Gaditima | Will annual inflation be 3.4% in July? | Yes (BUY) | 42% | 1.81 | ⏳ pendiente | — |
 | Gaditima | Will annual inflation be 3.3% in July? | Yes (BUY) | 40% | 3.83 | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 48% | 1.15 | ⏳ pendiente | — |
@@ -479,4 +480,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 48% | 0.59 | ✅ ganada | +0.64 |
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ❌ perdida | -0.46 |
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 51% | 0.99 | ❌ perdida | -0.99 |
-| quavoo | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 0.96 | ✅ ganada | +1.08 |
