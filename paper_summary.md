@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:39:43 (hora de Perú)
+Actualizado: 2026-08-11 21:41:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $429.69
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 2 | 8 | 2 | +17.41 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 241 | 150 | 11 | +4.48 USD |
+| UpTheBlues | 241 | 150 | 12 | +4.48 USD |
 | HomeRunHazard | 99 | 91 | 21 | +4.38 USD |
 | Sassy-Bucket | 7 | 6 | 2 | +3.19 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -454,6 +454,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Tigres de la UANL vs. Vancouver Whitecap | Under (BUY) | 81% | 0.82 | ⏳ pendiente | — |
 | swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 45% | 1.06 | ⏳ pendiente | — |
 | swisstony | Spread: Las Vegas Aces (-7.5) | Las Vegas Aces (BUY) | 35% | 0.82 | ⏳ pendiente | — |
 | swisstony | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 76% | 0.89 | ⏳ pendiente | — |
@@ -483,4 +484,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Las Vegas Aces (-6.5) | Washington Mystics (BUY) | 49% | 1.55 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Phoenix Mercury (-1.5) | Phoenix Mercury (BUY) | 49% | 0.53 | ⏳ pendiente | — |
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 48% | 0.54 | ⏳ pendiente | — |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.57 | ⏳ pendiente | — |
