@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 04:56:25 (hora de Perú)
+Actualizado: 2026-08-12 04:58:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 84 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 85 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | BrotherObama | 7 | 17 | 6 | -121.31 USD |
@@ -453,6 +453,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | APIA Leichhardt FC vs. Sydney United 58  | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Spirit vs JiJieHao (BO1) | Spirit (BUY) | 89% | 0.00 | ⏳ pendiente | — |
 | dv-pm | Everton FC vs. Newcastle United: O/U 3.5 | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
@@ -482,4 +483,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | Counter-Strike: FUT Esports vs TYLOO (BO | TYLOO (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | Aurora Gaming (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | BIG (BUY) | 54% | 0.00 | ⏳ pendiente | — |
