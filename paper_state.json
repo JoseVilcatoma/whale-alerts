@@ -16460,6 +16460,11 @@
       "timestamp": 1786495996.6827087,
       "bankroll": 321.86,
       "event": "won: RN1 \u2014 Chicago Cubs vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786496617.8535333,
+      "bankroll": 321.86,
+      "event": "lost: swisstony \u2014 Chicago Cubs vs. Washington Nationals: O/U 10.5"
     }
   ]
 }
