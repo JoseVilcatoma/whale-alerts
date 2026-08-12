@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 22:50:40 (hora de Perú)
+Actualizado: 2026-08-11 22:52:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $408.49
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| AV23IUa | 3 | 3 | 3 | +46.51 USD |
+| AV23IUa | 3 | 3 | 4 | +46.51 USD |
 | 1winstreak1 | 109 | 88 | 47 | +44.96 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -468,6 +468,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: Vitality vs 100 Thieves  | 100 Thieves (BUY) | 23% | 7.19 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 73% | 0.63 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: MIBR vs Astralis (BO1) - | Astralis (BUY) | 54% | 18.87 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: NIP vs Legacy (BO1) - Es | Legacy (BUY) | 58% | 6.67 | ⏳ pendiente | — |
@@ -497,4 +498,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 44% | 1.80 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 46% | 0.54 | ⏳ pendiente | — |
 | UpTheBlues | Real Salt Lake vs. FC Juárez: O/U 3.5 | Under (BUY) | 52% | 0.94 | ⏳ pendiente | — |
-| 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 49% | 0.44 | ⏳ pendiente | — |
