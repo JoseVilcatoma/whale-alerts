@@ -12175,5 +12175,57 @@
     "usd": 11886.1704,
     "odds_at_bet": 65,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 752,
+    "timestamp": 1786527875,
+    "username": "GRINGOMATE",
+    "wallet": "0x447d7eb8ecb8930e7b5f353b4298e2562d905eea",
+    "slug": "cs2-nip-lgc-2026-08-12",
+    "title": "Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "usd": 12841.199999999999,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 753,
+    "timestamp": 1786527974,
+    "username": "ThornyDevil",
+    "wallet": "0xa7590cd0d4a5620fe4651dc0e6569817e6b31119",
+    "slug": "lol-dnf-ns-2026-08-12",
+    "title": "LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 41260.9153,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 754,
+    "timestamp": 1786527991,
+    "username": "NemecGhudini",
+    "wallet": "0xa7e2bdc8ccda2fdc129f639761069df9ab349e36",
+    "slug": "lol-dnf-ns-2026-08-12",
+    "title": "LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 14350.0,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 755,
+    "timestamp": 1786527991,
+    "username": "ThornyDevil",
+    "wallet": "0xa7590cd0d4a5620fe4651dc0e6569817e6b31119",
+    "slug": "lol-dnf-ns-2026-08-12",
+    "title": "LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 42982.540499999996,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
