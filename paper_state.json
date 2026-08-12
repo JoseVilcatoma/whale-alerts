@@ -1,5 +1,5 @@
 {
-  "bankroll": 555.4719499490861,
+  "bankroll": 549.4255581965089,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18415,6 +18415,26 @@
       "timestamp": 1786567066.153399,
       "bankroll": 555.47,
       "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 6.5"
+    },
+    {
+      "timestamp": 1786567189.2299998,
+      "bankroll": 555.64,
+      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 11.5"
+    },
+    {
+      "timestamp": 1786567190.134634,
+      "bankroll": 553.4,
+      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 11.5"
+    },
+    {
+      "timestamp": 1786567191.336764,
+      "bankroll": 550.36,
+      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 11.5"
+    },
+    {
+      "timestamp": 1786567191.6372836,
+      "bankroll": 549.43,
+      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 11.5"
     }
   ]
 }
