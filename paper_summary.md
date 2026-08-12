@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 06:58:47 (hora de Perú)
+Actualizado: 2026-08-12 07:00:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 29 | 16 | 9 | +189.61 USD |
+| BBQChickenisthebesttt | 29 | 16 | 11 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
-| jtwyslljy | 0 | 1 | 0 | +0.00 USD |
+| jtwyslljy | 0 | 1 | 2 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | donthackme | 0 | 0 | 9 | +0.00 USD |
 | Gaditima | 0 | 0 | 4 | +0.00 USD |
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
-| Djdjdjekekek | 5 | 12 | 4 | -116.01 USD |
+| Djdjdjekekek | 5 | 12 | 6 | -116.01 USD |
 | BrotherObama | 7 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
@@ -445,12 +445,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-wsh-las-2026-08-11-spread-home-6pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
+| lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 22% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 48% | 0.00 | ⏳ pendiente | — |
@@ -475,9 +482,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gaditima | Will annual inflation be 3.3% in July? | No (BUY) | 54% | 3.53 | ⏳ pendiente | — |
 | Gaditima | Will annual inflation be 3.4% in July? | Yes (BUY) | 42% | 1.81 | ⏳ pendiente | — |
 | Gaditima | Will annual inflation be 3.3% in July? | Yes (BUY) | 40% | 3.83 | ⏳ pendiente | — |
-| HomeRunHazard | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 48% | 1.15 | ⏳ pendiente | — |
-| HomeRunHazard | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 52% | 4.58 | ⏳ pendiente | — |
-| HomeRunHazard | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 55% | 3.24 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 50% | 0.72 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 53% | 0.59 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 55% | 2.64 | ⏳ pendiente | — |
