@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 00:07:36 (hora de Perú)
+Actualizado: 2026-08-12 00:09:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $484.62
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 188 | 131 | 5 | -25.84 USD |
+| swisstony | 188 | 131 | 6 | -25.84 USD |
 | quavoo | 155 | 186 | 31 | -29.75 USD |
 | RN1 | 203 | 112 | 3 | -37.58 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -470,6 +470,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Aston Villa win on 2026-08-12? | No (BUY) | 80% | 3.07 | ⏳ pendiente | — |
 | UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.90 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 93% | 1.95 | ⏳ pendiente | — |
 | 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 97% | 23.57 | ⏳ pendiente | — |
@@ -499,4 +500,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Houston Astros vs. San Francisco Giants: | Over (BUY) | 23% | 1.39 | ❌ perdida | -1.39 |
 | 1winstreak1 | Houston Astros vs. San Francisco Giants: | Over (BUY) | 31% | 0.56 | ❌ perdida | -0.56 |
 | UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 96% | 1.16 | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: Vitality vs 100 Thieves  | 100 Thieves (BUY) | 23% | 7.19 | ⏳ pendiente | — |
