@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 14:45:54 (hora de Perú)
+Actualizado: 2026-08-12 14:48:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1864**  ($50,981,299 en total)
-- Resueltas: **1340** — 795 ganadas / 545 perdidas (**59%** de acierto)
+- Apuestas registradas: **1865**  ($50,997,416 en total)
+- Resueltas: **1341** — 796 ganadas / 545 perdidas (**59%** de acierto)
 - Pendientes: 524
 - Apostadores distintos: 164
 
 ### Balance
 
-- **Resultado de los apostadores: -$596,155** sobre $31,036,092 apostados (ROI **-1.9%**)
+- **Resultado de los apostadores: -$584,155** sobre $31,046,092 apostados (ROI **-1.9%**)
 - Copiando $100 fijo en cada una: **-$943** sobre $131,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 44 | 43% | $8,608,847 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 13 | 35% | $2,897,482 | -$564,452 |
-| ferrariChampions2026 | 105 | 32 | 35 | 77% | $2,430,521 | +$168,085 |
+| ferrariChampions2026 | 105 | 32 | 36 | 77% | $2,446,638 | +$168,085 |
 | AV23IUa | 33 | 24 | 21 | 58% | $2,012,237 | +$171,257 |
 | pleaseplease123 | 0 | 44 | 23 | 0% | $1,921,287 | -$1,082,423 |
 | Weaseloftheweek | 11 | 2 | 8 | 85% | $1,747,031 | +$518,388 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | basementdweller3000 | 6 | 3 | 6 | 67% | $282,034 | +$34,747 |
 | five5120 | 7 | 9 | 2 | 44% | $266,115 | -$84,525 |
 | ThornyDevil | 2 | 6 | 1 | 25% | $254,880 | -$207,394 |
-| johnny234 | 3 | 11 | 4 | 21% | $245,256 | -$113,100 |
+| johnny234 | 4 | 11 | 3 | 27% | $245,256 | -$101,100 |
 | mikesports | 7 | 8 | 0 | 47% | $243,869 | -$88,869 |
 | Feromont | 9 | 0 | 2 | 100% | $229,049 | +$55,222 |
 | TAIWANNUMBERONE | 11 | 1 | 3 | 92% | $217,012 | +$88,234 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 164 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 1.14 (88¢) | $16,117 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks | Colorado Rockies | 2.63 (38¢) | $19,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $23,500 | — | ⏳ Pendiente |
@@ -82,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 164 en total)_
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.92 (52¢) | $145,556 | — | ⏳ Pendiente |
 | Bulls94 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 2.08 (48¢) | $15,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 2.08 (48¢) | $92,671 | — | ⏳ Pendiente |
-| johnny234 | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 2.50 (40¢) | $10,000 | — | ⏳ Pendiente |
+| johnny234 | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 2.50 (40¢) | $10,000 | +$12,000 | 💰 Vendida antes |
 | Jsram | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.82 (55¢) | $12,794 | — | ⏳ Pendiente |
 | EvenMoneyBonds | Tampa Bay Rays vs. Athletics | Athletics | 3.23 (31¢) | $11,238 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.45 (69¢) | $12,741 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 164 en total)_
 | ferrariChampions2026 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.18 (85¢) | $15,875 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Minnesota Twins | Minnesota Twins | 2.00 (50¢) | $11,290 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.18 (85¢) | $15,875 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Baltimore Orioles vs. Minnesota Twins | Minnesota Twins | 2.00 (50¢) | $11,290 | — | ⏳ Pendiente |

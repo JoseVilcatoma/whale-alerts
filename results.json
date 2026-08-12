@@ -24119,7 +24119,9 @@
     "side": "BUY",
     "usd": 10000.0,
     "odds_at_bet": 40,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": 12000.0,
+    "precio_salida": 88
   },
   {
     "telegram_msg_id": null,
@@ -24275,6 +24277,19 @@
     "side": "BUY",
     "usd": 51839.9658,
     "odds_at_bet": 86,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1652,
+    "timestamp": 1786564050,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-phi-stl-2026-08-12",
+    "title": "Philadelphia Phillies vs. St. Louis Cardinals",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 16116.9008,
+    "odds_at_bet": 88,
     "status": "pending"
   }
 ]
