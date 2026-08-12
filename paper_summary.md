@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 05:59:00 (hora de Perú)
+Actualizado: 2026-08-12 06:01:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 29 | 16 | 11 | +189.61 USD |
+| BBQChickenisthebesttt | 29 | 16 | 12 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 4 | 5 | 2 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -57,7 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 646 | 483 | 93 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
-| BrotherObama | 9 | 17 | 4 | -121.31 USD |
+| BrotherObama | 9 | 17 | 5 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
@@ -451,11 +451,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-dnf-ns-2026-08-12 | BBQChickenisthebesttt, BrotherObama, ferrariChampions2026 |
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, BrotherObama, ferrariChampions2026 |
 | cs2-ts7-jjh-2026-08-12 | AV23IUa, UpTheBlues |
+| lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, BrotherObama, jtwyslljy |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 38% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 1 Wi | KT Rolster (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | dv-pm | Spread: Arsenal FC (-1.5) | Como 1907 (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Heidelberg United FC win on 2026-08 | No (BUY) | 80% | 0.00 | ⏳ pendiente | — |
@@ -484,5 +487,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 21% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | Nongshim Red Force (BUY) | 22% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Brunswick Juventus FC win on 2026-0 | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
