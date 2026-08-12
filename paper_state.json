@@ -1,5 +1,5 @@
 {
-  "bankroll": 449.13256852026916,
+  "bankroll": 445.4225685202692,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -17980,6 +17980,31 @@
       "timestamp": 1786513566.924669,
       "bankroll": 449.13,
       "event": "won: swisstony \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786514155.558122,
+      "bankroll": 445.42,
+      "event": "lost: quavoo \u2014 Will Columbus Crew win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786514158.062268,
+      "bankroll": 445.42,
+      "event": "lost: quavoo \u2014 Will Columbus Crew win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786514158.1624646,
+      "bankroll": 445.42,
+      "event": "lost: quavoo \u2014 Will Columbus Crew win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786514158.3627512,
+      "bankroll": 445.42,
+      "event": "lost: quavoo \u2014 Will Columbus Crew win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786514158.462947,
+      "bankroll": 445.42,
+      "event": "lost: quavoo \u2014 Will Columbus Crew win on 2026-08-11?"
     }
   ]
 }
