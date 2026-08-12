@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 04:17:10 (hora de Perú)
+Actualizado: 2026-08-12 04:19:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **930**  ($19,206,480 en total)
+- Apuestas registradas: **931**  ($19,217,454 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 141
-- Apostadores distintos: 98
+- Pendientes: 142
+- Apostadores distintos: 99
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | danielwolfmorales3pddb6dl6 | 0 | 6 | 0 | ⚠️ 0% (6) | $81,000 | -$81,000 |
 | monkeymashingkeyboard | 6 | 0 | 0 | ⚠️ 100% (6) | $78,557 | +$63,183 |
 
-_(mostrando los 40 de mayor monto, de 98 en total)_
+_(mostrando los 40 de mayor monto, de 99 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 254321758 | LoL: DN SOOPers vs Nongshim Red Force - Game 2 Winner | DN SOOPers | 1.10 (91¢) | $10,974 | — | ⏳ Pendiente |
 | five5120 | LoL: EDward Gaming vs Anyone's Legend - Game 1 Winner | Anyone's Legend | 1.23 (81¢) | $18,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.96 (51¢) | $18,804 | — | ⏳ Pendiente |
 | Djdjdjekekek | Astana: Fajing Sun vs Semen Pankin | Semen Pankin | 2.04 (49¢) | $18,002 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 98 en total)_
 | swisstony | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.25 (80¢) | $11,832 | +$2,958 | ✅ Ganada |
 | Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | -$5,509 | 💰 Vendida antes |
 | Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | +$11,844 | ✅ Ganada |
-| Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | -$5,509 | 💰 Vendida antes |
