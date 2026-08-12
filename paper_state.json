@@ -1,5 +1,5 @@
 {
-  "bankroll": 636.6694033126214,
+  "bankroll": 637.2201175983356,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18440,6 +18440,16 @@
       "timestamp": 1786576646.0283518,
       "bankroll": 636.67,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786577278.3364017,
+      "bankroll": 636.82,
+      "event": "won: quavoo \u2014 FK CSKA 1948 Sofia vs. Panathinaik\u00f3s AO: Team to Advance"
+    },
+    {
+      "timestamp": 1786577279.4760442,
+      "bankroll": 637.22,
+      "event": "won: UpTheBlues \u2014 Will Paris Saint-Germain win on 2026-08-12?"
     }
   ]
 }
