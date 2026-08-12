@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 13:39:58 (hora de Perú)
+Actualizado: 2026-08-12 13:42:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1563**  ($39,157,795 en total)
+- Apuestas registradas: **1566**  ($39,310,760 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 622
+- Pendientes: 625
 - Apostadores distintos: 155
 
 ### Balance
@@ -26,19 +26,19 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 67 | 28% | $6,098,694 | -$789,178 |
 | Djdjdjekekek | 36 | 12 | 77 | 75% | $5,657,802 | +$573,956 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 7 | 36% | $2,392,102 | -$421,290 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 8 | 36% | $2,478,932 | -$421,290 |
 | ferrariChampions2026 | 90 | 29 | 30 | 76% | $2,121,043 | +$113,934 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
 | Weaseloftheweek | 11 | 2 | 7 | 85% | $1,636,724 | +$518,388 |
-| pleaseplease123 | 0 | 44 | 11 | 0% | $1,422,315 | -$1,082,423 |
+| pleaseplease123 | 0 | 44 | 12 | 0% | $1,472,115 | -$1,082,423 |
 | BreakTheBank | 0 | 12 | 2 | 0% | $918,632 | -$803,506 |
 | Lakersfan111 | 1 | 3 | 31 | ⚠️ 25% (4) | $653,923 | -$28,993 |
 | texaskid | 18 | 0 | 0 | 100% | $598,663 | +$455,165 |
 | Sassy-Bucket | 12 | 16 | 1 | 43% | $585,618 | -$190,303 |
 | SDTrading | 25 | 6 | 0 | 81% | $566,130 | +$328,056 |
 | Talvez10 | 24 | 3 | 0 | 89% | $497,016 | +$224,365 |
+| wr0ngw4yb3tt0r | 9 | 6 | 6 | 60% | $479,720 | +$13,912 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
-| wr0ngw4yb3tt0r | 9 | 6 | 5 | 60% | $463,385 | +$13,912 |
 | S-Works | 0 | 0 | 4 | — | $459,291 | — |
 | ActionReaction | 0 | 0 | 14 | — | $376,692 | — |
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 155 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $49,800 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under 9.5 | 1.89 (53¢) | $86,830 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $16,335 | — | ⏳ Pendiente |
 | betopinto | Will Aston Villa win on 2026-08-12? | No | 1.20 (83¢) | $10,358 | — | ⏳ Pendiente |
 | 0x633e96a4b7ae543522358282eafa023fe61bd305-1783406206089 | Baltimore Orioles vs. Minnesota Twins | Baltimore Orioles | 1.28 (78¢) | $14,286 | — | ⏳ Pendiente |
 | 0x633e96a4b7ae543522358282eafa023fe61bd305-1783406206089 | Baltimore Orioles vs. Minnesota Twins | Baltimore Orioles | 1.28 (78¢) | $14,286 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 155 en total)_
 | wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $44,206 | — | ⏳ Pendiente |
 | pleaseplease123 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $36,739 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.33 (30¢) | $69,501 | — | ⏳ Pendiente |
-| S-Works | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $19,645 | — | ⏳ Pendiente |
-| Anjun | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $15,555 | — | ⏳ Pendiente |
-| Lakersfan111 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $60,463 | — | ⏳ Pendiente |
