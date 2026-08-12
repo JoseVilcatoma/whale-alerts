@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 10:42:41 (hora de Perú)
+Actualizado: 2026-08-12 10:44:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1355**  ($30,714,763 en total)
+- Apuestas registradas: **1357**  ($30,745,872 en total)
 - Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 416
-- Apostadores distintos: 125
+- Pendientes: 418
+- Apostadores distintos: 126
 
 ### Balance
 
@@ -63,14 +63,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | DonaldinhoTrumpito | 0 | 0 | 8 | — | $149,875 | — |
 | 0x076d…8d4c | 8 | 0 | 3 | 100% | $149,444 | +$45,411 |
 | ...............................lala | 3 | 6 | 0 | 33% | $148,465 | -$64,383 |
-| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
+| skyman44 | 0 | 0 | 7 | — | $139,076 | — |
 
-_(mostrando los 40 de mayor monto, de 125 en total)_
+_(mostrando los 40 de mayor monto, de 126 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | 3DMAX | 4.00 (25¢) | $17,254 | — | ⏳ Pendiente |
+| skyman44 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.33 (75¢) | $13,855 | — | ⏳ Pendiente |
 | ActionReaction | LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs | TLN Pirates | 1.69 (59¢) | $21,565 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs | Ici Japon Corp. Esport | 2.44 (41¢) | $10,250 | — | ⏳ Pendiente |
 | pleaseplease123 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $58,491 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 | suanlimao6 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.54 (65¢) | $21,718 | — | ⏳ Pendiente |
 | gggjajnsnn | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 2.86 (35¢) | $11,408 | — | ⏳ Pendiente |
 | gggjajnsnn | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 2.86 (35¢) | $11,408 | — | ⏳ Pendiente |
-| suanlimao6 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.54 (65¢) | $21,718 | — | ⏳ Pendiente |
-| five5120 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.52 (66¢) | $10,506 | — | ⏳ Pendiente |

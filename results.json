@@ -17651,5 +17651,31 @@
     "usd": 21565.406299999995,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1122,
+    "timestamp": 1786549365,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-navi-3dmax-2026-08-12",
+    "title": "Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 13854.96,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1123,
+    "timestamp": 1786549366,
+    "username": "0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509",
+    "wallet": "0x0954184654a6a3720f5dde4103a42af4dd0e1e1b",
+    "slug": "cs2-navi-3dmax-2026-08-12",
+    "title": "Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D",
+    "outcome": "3DMAX",
+    "side": "BUY",
+    "usd": 17253.7325,
+    "odds_at_bet": 25,
+    "status": "pending"
   }
 ]
