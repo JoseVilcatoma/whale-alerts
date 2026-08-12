@@ -13568,5 +13568,18 @@
     "usd": 10000.0,
     "odds_at_bet": 80,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 860,
+    "timestamp": 1786538556,
+    "username": "suanlimao6",
+    "wallet": "0xe8ade1c67a880380ec861c476052c2f00057a859",
+    "slug": "lol-blg-jdg-2026-08-12-game1",
+    "title": "LoL: Bilibili Gaming vs JD Gaming - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 10151.5151505,
+    "odds_at_bet": 67,
+    "status": "pending"
   }
 ]
