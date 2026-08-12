@@ -3137,5 +3137,31 @@
     "usd": 12042.0054,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 134,
+    "timestamp": 1786494118,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-popyrin-droguet-2026-08-11",
+    "title": "Cincinnati Open, Qualification: Alexei Popyrin vs Titouan Droguet",
+    "outcome": "Alexei Popyrin",
+    "side": "BUY",
+    "usd": 12042.0054,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 135,
+    "timestamp": 1786494118,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-popyrin-droguet-2026-08-11",
+    "title": "Cincinnati Open, Qualification: Alexei Popyrin vs Titouan Droguet",
+    "outcome": "Titouan Droguet",
+    "side": "BUY",
+    "usd": 10010.0646,
+    "odds_at_bet": 46,
+    "status": "pending"
   }
 ]
