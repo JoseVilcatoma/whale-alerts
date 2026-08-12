@@ -24824,5 +24824,31 @@
     "usd": 44004.7146,
     "odds_at_bet": 49,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1695,
+    "timestamp": 1786565290,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-lvg-mouz-2026-08-12",
+    "title": "Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 17271.24,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1696,
+    "timestamp": 1786565280,
+    "username": "jarosbill",
+    "wallet": "0x927cf2bb94d15707993f954552e56c74eb6d6633",
+    "slug": "mlb-tb-oak-2026-08-12-spread-away-1pt5",
+    "title": "Spread: Tampa Bay Rays (-1.5)",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 10553.674200832,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]

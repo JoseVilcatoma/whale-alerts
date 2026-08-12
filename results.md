@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 15:12:40 (hora de Perú)
+Actualizado: 2026-08-12 15:14:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1906**  ($51,968,551 en total)
+- Apuestas registradas: **1908**  ($51,996,376 en total)
 - Resueltas: **1341** — 796 ganadas / 545 perdidas (**59%** de acierto)
-- Pendientes: 565
+- Pendientes: 567
 - Apostadores distintos: 168
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 49 | 43% | $8,753,679 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 14 | 35% | $2,916,482 | -$564,452 |
-| ferrariChampions2026 | 105 | 32 | 45 | 77% | $2,569,524 | +$168,085 |
+| ferrariChampions2026 | 105 | 32 | 46 | 77% | $2,586,796 | +$168,085 |
 | AV23IUa | 33 | 24 | 21 | 58% | $2,012,237 | +$171,257 |
 | pleaseplease123 | 0 | 44 | 23 | 0% | $1,921,287 | -$1,082,423 |
 | Weaseloftheweek | 11 | 2 | 8 | 85% | $1,747,031 | +$518,388 |
@@ -72,6 +72,8 @@ _(mostrando los 40 de mayor monto, de 168 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.15 (87¢) | $17,271 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.15 (87¢) | $17,271 | — | ⏳ Pendiente |
+| jarosbill | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 1.69 (59¢) | $10,554 | — | ⏳ Pendiente |
 | jarosbill | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 1.69 (59¢) | $10,554 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.11 (90¢) | $14,256 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $45,811 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 168 en total)_
 | EvenMoneyBonds | Tampa Bay Rays vs. Athletics | Athletics | 3.23 (31¢) | $11,238 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.45 (69¢) | $12,741 | — | ⏳ Pendiente |
 | kkookkoo | Philadelphia Phillies vs. St. Louis Cardinals | Philadelphia Phillies | 1.49 (67¢) | $12,862 | — | ⏳ Pendiente |
-| kkookkoo | Philadelphia Phillies vs. St. Louis Cardinals | Philadelphia Phillies | 1.49 (67¢) | $12,862 | — | ⏳ Pendiente |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.45 (69¢) | $41,717 | — | ⏳ Pendiente |
