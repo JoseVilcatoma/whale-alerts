@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 10:03:12 (hora de Perú)
+Actualizado: 2026-08-12 10:05:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1344**  ($30,393,982 en total)
+- Apuestas registradas: **1347**  ($30,451,894 en total)
 - Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 405
+- Pendientes: 408
 - Apostadores distintos: 125
 
 ### Balance
@@ -72,7 +72,10 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | JaJa668 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.11 (90¢) | $10,380 | — | ⏳ Pendiente |
+| JaJa668 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.11 (90¢) | $10,380 | — | ⏳ Pendiente |
 | vv-vv | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.12 (89¢) | $17,532 | — | ⏳ Pendiente |
+| vv-vv | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.12 (89¢) | $17,532 | — | ⏳ Pendiente |
+| retroactivesource | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.12 (89¢) | $30,000 | — | ⏳ Pendiente |
 | retroactivesource | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.12 (89¢) | $30,000 | — | ⏳ Pendiente |
 | redvinny | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.11 (90¢) | $13,430 | — | ⏳ Pendiente |
 | redvinny | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.11 (90¢) | $13,430 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 | ferrariChampions2026 | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.10 (91¢) | $11,761 | — | ⏳ Pendiente |
 | redvinny | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.11 (90¢) | $13,744 | — | ⏳ Pendiente |
 | madwish355 | LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner | Bilibili Gaming | 1.64 (61¢) | $12,613 | — | ⏳ Pendiente |
-| ActionReaction | LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 2.63 (38¢) | $25,983 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner | Bilibili Gaming | 1.61 (62¢) | $30,703 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner | Bilibili Gaming | 1.61 (62¢) | $30,703 | — | ⏳ Pendiente |
