@@ -64691,8 +64691,8 @@
     "whale_pct": 0.132,
     "paper_stake_usd": 0.44,
     "odds_at_bet": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.58,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786453903.7291806,
@@ -74491,7 +74491,7 @@
     "whale_pct": 1.599,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "HomeRunHazard"
@@ -74754,7 +74754,7 @@
     "whale_pct": 0.321,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "HomeRunHazard"
@@ -77035,6 +77035,26 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786499390.893511,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786500041,
+    "timestamp_added": 1786500041.7222207,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-kc-lad-2026-08-11-total-8pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 10701.239999000001,
+    "whale_pct": 2.199,
+    "paper_stake_usd": 6.67,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786500041.7222295,
     "fills": 1
   }
 ]

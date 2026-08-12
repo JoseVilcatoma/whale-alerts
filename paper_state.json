@@ -1,5 +1,5 @@
 {
-  "bankroll": 302.53833494301534,
+  "bankroll": 303.1215907569688,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -16765,6 +16765,21 @@
       "timestamp": 1786499761.999707,
       "bankroll": 302.54,
       "event": "lost: HomeRunHazard \u2014 New York Liberty vs. Indiana Fever"
+    },
+    {
+      "timestamp": 1786500038.9931338,
+      "bankroll": 303.12,
+      "event": "won: HomeRunHazard \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1786500066.0742402,
+      "bankroll": 303.12,
+      "event": "won: Sassy-Bucket \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1786500067.1113956,
+      "bankroll": 303.12,
+      "event": "won: Sassy-Bucket \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 7.5"
     }
   ]
 }
