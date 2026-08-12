@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 22:05:58 (hora de Perú)
+Actualizado: 2026-08-11 22:08:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **636**  ($13,321,654 en total)
+- Apuestas registradas: **639**  ($13,369,530 en total)
 - Resueltas: **348** — 246 ganadas / 102 perdidas (**71%** de acierto)
-- Pendientes: 288
+- Pendientes: 291
 - Apostadores distintos: 94
 
 ### Balance
@@ -51,6 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ...............................lala | 2 | 4 | 0 | ⚠️ 33% (6) | $98,977 | -$42,922 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 6 | — | $87,544 | — |
 | Feromont | 0 | 0 | 3 | — | $75,600 | — |
+| DonaldinhoTrumpito | 0 | 0 | 4 | — | $74,938 | — |
 | ExplosiveNinja | 0 | 0 | 6 | — | $72,821 | — |
 | kibanachi | 4 | 0 | 0 | ⚠️ 100% (4) | $71,613 | +$12,017 |
 | 0x076d…8d4c | 1 | 0 | 4 | ⚠️ 100% (1) | $71,475 | +$1,092 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | tennischamp | 2 | 0 | 3 | ⚠️ 100% (2) | $54,391 | +$1,685 |
 | BaccaratRoulette | 0 | 2 | 0 | ⚠️ 0% (2) | $54,120 | -$54,120 |
 | danielwolfmorales3pddb6dl6 | 0 | 2 | 2 | ⚠️ 0% (2) | $54,000 | -$30,000 |
-| jaytee158 | 4 | 0 | 0 | ⚠️ 100% (4) | $53,301 | +$8,697 |
 
 _(mostrando los 40 de mayor monto, de 94 en total)_
 
@@ -71,8 +71,11 @@ _(mostrando los 40 de mayor monto, de 94 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| coali10 | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | Yes | 2.86 (35¢) | $10,407 | — | ⏳ Pendiente |
+| DonaldinhoTrumpito | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | No | 1.54 (65¢) | $19,188 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | No | 1.54 (65¢) | $19,188 | — | ⏳ Pendiente |
 | coali10 | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | Yes | 2.86 (35¢) | $10,407 | — | ⏳ Pendiente |
+| DonaldinhoTrumpito | Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election? | Yes | 1.54 (65¢) | $18,281 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election? | Yes | 1.54 (65¢) | $18,281 | — | ⏳ Pendiente |
 | 0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945 | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.20 (83¢) | $11,640 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.18 (85¢) | $15,685 | — | ⏳ Pendiente |
@@ -127,7 +130,4 @@ _(mostrando los 40 de mayor monto, de 94 en total)_
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
-| mooseborzoi | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $10,547 | — | ⏳ Pendiente |
-| purplegatto | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $11,750 | — | ⏳ Pendiente |
-| pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,333 | — | ⏳ Pendiente |
 | mooseborzoi | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $10,547 | — | ⏳ Pendiente |
