@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 20:16:24 (hora de Perú)
+Actualizado: 2026-08-11 20:18:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $325.34
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| wr0ngw4yb3tt0r | 55 | 50 | 27 | +27.64 USD |
+| wr0ngw4yb3tt0r | 55 | 50 | 29 | +27.64 USD |
 | theowalcott | 7 | 4 | 10 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
@@ -440,6 +440,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 36% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 20% | 0.00 | ⏳ pendiente | — |
 | RN1 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 20% | 0.00 | ⏳ pendiente | — |
@@ -468,5 +470,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | swisstony | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
-| quavoo | Columbus Crew vs. Pumas de la UNAM: O/U  | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
