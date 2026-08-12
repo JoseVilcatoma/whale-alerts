@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 13:42:15 (hora de Perú)
+Actualizado: 2026-08-12 13:44:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1566**  ($39,310,760 en total)
+- Apuestas registradas: **1567**  ($39,332,997 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 625
-- Apostadores distintos: 155
+- Pendientes: 626
+- Apostadores distintos: 156
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | basementdweller3000 | 0 | 0 | 9 | — | $164,772 | — |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
 
-_(mostrando los 40 de mayor monto, de 155 en total)_
+_(mostrando los 40 de mayor monto, de 156 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sbsigner | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $22,237 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $49,800 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under 9.5 | 1.89 (53¢) | $86,830 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $16,335 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 155 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $128,172 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $44,206 | — | ⏳ Pendiente |
 | pleaseplease123 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $36,739 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.33 (30¢) | $69,501 | — | ⏳ Pendiente |
