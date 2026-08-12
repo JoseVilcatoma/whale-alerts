@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:18:53 (hora de Perú)
+Actualizado: 2026-08-12 00:47:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $429.43
-**Retorno acumulado:** -57.06%
+**Bankroll actual:** $449.13
+**Retorno acumulado:** -55.09%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,21 +15,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| dv-pm | 3 | 5 | 1 | +89.49 USD |
+| dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
+| wr0ngw4yb3tt0r | 65 | 69 | 0 | +23.18 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
-| wr0ngw4yb3tt0r | 57 | 68 | 9 | +18.69 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
-| SDTrading | 2 | 6 | 4 | +17.41 USD |
+| SDTrading | 3 | 9 | 0 | +15.41 USD |
+| HomeRunHazard | 114 | 97 | 0 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 241 | 150 | 11 | +4.48 USD |
-| HomeRunHazard | 98 | 89 | 24 | +4.38 USD |
-| Sassy-Bucket | 7 | 6 | 2 | +3.19 USD |
+| UpTheBlues | 243 | 150 | 9 | +4.50 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
+| Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
@@ -46,17 +46,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 163 | 109 | 13 | -28.34 USD |
-| quavoo | 152 | 186 | 31 | -33.89 USD |
-| RN1 | 197 | 110 | 7 | -38.43 USD |
+| swisstony | 170 | 114 | 1 | -26.60 USD |
+| quavoo | 156 | 187 | 26 | -29.27 USD |
+| RN1 | 200 | 112 | 2 | -39.45 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 629 | 471 | 29 | -101.53 USD |
+| ferrariChampions2026 | 644 | 482 | 3 | -92.16 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
-| BrotherObama | 7 | 13 | 4 | -115.27 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
+| BrotherObama | 7 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
@@ -447,33 +447,33 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 48% | 1.25 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 62% | 0.63 | ⏳ pendiente | — |
-| RN1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 54% | 0.54 | ⏳ pendiente | — |
+| swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 48% | 1.25 | ✅ ganada | +1.35 |
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 62% | 0.63 | ✅ ganada | +0.39 |
+| RN1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 54% | 0.54 | ✅ ganada | +0.46 |
 | ferrariChampions2026 | Real Salt Lake vs. FC Juárez: O/U 2.5 | Over (BUY) | 62% | 0.58 | ⏳ pendiente | — |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 52% | 3.81 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 52% | 0.55 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Las Vegas Aces (-6.5) | Washington Mystics (BUY) | 49% | 1.55 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Phoenix Mercury (-1.5) | Phoenix Mercury (BUY) | 49% | 0.53 | ⏳ pendiente | — |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 48% | 0.54 | ⏳ pendiente | — |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.57 | ⏳ pendiente | — |
-| quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.60 | ⏳ pendiente | — |
-| ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 56% | 0.51 | ⏳ pendiente | — |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ⏳ pendiente | — |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 53% | 0.48 | ⏳ pendiente | — |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 48% | 0.59 | ⏳ pendiente | — |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ⏳ pendiente | — |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 51% | 0.99 | ⏳ pendiente | — |
-| quavoo | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 0.96 | ⏳ pendiente | — |
-| ferrariChampions2026 | Club Bolívar vs. São Paulo FC: O/U 3.5 | Under (BUY) | 89% | 0.39 | ⏳ pendiente | — |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 6.67 | ⏳ pendiente | — |
-| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 47% | 1.01 | ⏳ pendiente | — |
-| ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 49% | 0.34 | ⏳ pendiente | — |
+| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 52% | 3.81 | ✅ ganada | +3.52 |
+| ferrariChampions2026 | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 52% | 0.55 | ❌ perdida | -0.55 |
+| ferrariChampions2026 | Spread: Las Vegas Aces (-6.5) | Washington Mystics (BUY) | 49% | 1.55 | ❌ perdida | -1.55 |
+| ferrariChampions2026 | Spread: Phoenix Mercury (-1.5) | Phoenix Mercury (BUY) | 49% | 0.53 | ✅ ganada | +0.55 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 48% | 0.54 | ❌ perdida | -0.54 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.57 | ✅ ganada | +0.55 |
+| quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.60 | ❌ perdida | -0.60 |
+| ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 56% | 0.51 | ✅ ganada | +0.40 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ❌ perdida | -0.46 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 53% | 0.48 | ❌ perdida | -0.48 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 48% | 0.59 | ✅ ganada | +0.64 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ❌ perdida | -0.46 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 51% | 0.99 | ❌ perdida | -0.99 |
+| quavoo | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 0.96 | ✅ ganada | +1.08 |
+| ferrariChampions2026 | Club Bolívar vs. São Paulo FC: O/U 3.5 | Under (BUY) | 89% | 0.39 | ✅ ganada | +0.05 |
+| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 6.67 | ✅ ganada | +7.52 |
+| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 47% | 1.01 | ✅ ganada | +1.14 |
+| ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 49% | 0.34 | ❌ perdida | -0.34 |
 | ferrariChampions2026 | Real Salt Lake vs. FC Juárez: O/U 2.5 | Over (BUY) | 60% | 0.37 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Real Salt Lake win on 2026-08-11? | No (BUY) | 44% | 0.59 | ⏳ pendiente | — |
-| quavoo | Spread: Las Vegas Aces (-6.5) | Las Vegas Aces (BUY) | 50% | 3.70 | ⏳ pendiente | — |
-| ferrariChampions2026 | Estudiantes de La Plata vs. CD Universid | Over (BUY) | 61% | 0.37 | ⏳ pendiente | — |
-| Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 45% | 1.04 | ⏳ pendiente | — |
+| quavoo | Spread: Las Vegas Aces (-6.5) | Las Vegas Aces (BUY) | 50% | 3.70 | ✅ ganada | +3.70 |
+| ferrariChampions2026 | Estudiantes de La Plata vs. CD Universid | Over (BUY) | 61% | 0.37 | ✅ ganada | +0.24 |
+| Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 45% | 1.04 | ❌ perdida | -1.04 |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 36% | 0.00 | ❌ perdida | -0.00 |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 59% | 0.00 | ❌ perdida | -0.00 |
-| wr0ngw4yb3tt0r | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 50% | 0.00 | ✅ ganada | +0.00 |
