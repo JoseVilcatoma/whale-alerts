@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 05:52:44 (hora de Perú)
+Actualizado: 2026-08-12 05:54:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 29 | 16 | 10 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| dv-pm | 4 | 5 | 1 | +89.49 USD |
+| dv-pm | 4 | 5 | 2 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 9 | +46.51 USD |
@@ -456,6 +456,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| dv-pm | Spread: Arsenal FC (-1.5) | Como 1907 (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Heidelberg United FC win on 2026-08 | No (BUY) | 80% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
@@ -485,4 +486,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | Nongshim Red Force (BUY) | 22% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Brunswick Juventus FC win on 2026-0 | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 86% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Brunswick Juventus FC win on 2026-0 | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
