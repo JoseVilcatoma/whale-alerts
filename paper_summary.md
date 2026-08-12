@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 16:01:59 (hora de Perú)
+Actualizado: 2026-08-12 16:04:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $523.33
-**Retorno acumulado:** -47.67%
+**Bankroll actual:** $523.81
+**Retorno acumulado:** -47.62%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 2 | +190.97 USD |
-| theowalcott | 17 | 4 | 2 | +143.32 USD |
+| theowalcott | 17 | 4 | 3 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | wr0ngw4yb3tt0r | 67 | 69 | 1 | +111.27 USD |
 | dv-pm | 4 | 6 | 1 | +89.49 USD |
@@ -51,7 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 158 | 209 | 2 | -28.31 USD |
 | RN1 | 200 | 112 | 2 | -39.45 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
-| 1winstreak1 | 121 | 95 | 37 | -58.68 USD |
+| 1winstreak1 | 122 | 95 | 36 | -58.20 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -459,6 +459,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|---|---|
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | Sassy-Bucket | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | WTSA | CA Platense vs. CD Coquimbo Unido: O/U 2 | Over (BUY) | 30% | 1.94 | ⏳ pendiente | — |
 | WTSA | CA Platense vs. CD Coquimbo Unido: O/U 2 | Over (BUY) | 30% | 32.85 | ⏳ pendiente | — |
@@ -486,4 +487,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 24% | 1.83 | ❌ perdida | -1.83 |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 75% | 5.39 | ✅ ganada | +1.80 |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 24% | 42.69 | ❌ perdida | -42.69 |
-| 1winstreak1 | Spread: San Francisco Giants (-1.5) | San Francisco Giants (BUY) | 47% | 1.88 | ⏳ pendiente | — |
