@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 18:45:39 (hora de Perú)
+Actualizado: 2026-08-12 18:48:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2052**  ($55,185,963 en total)
+- Apuestas registradas: **2054**  ($55,218,904 en total)
 - Resueltas: **1358** — 806 ganadas / 552 perdidas (**59%** de acierto)
-- Pendientes: 694
+- Pendientes: 696
 - Apostadores distintos: 180
 
 ### Balance
@@ -26,14 +26,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 57 | 43% | $9,021,723 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 29 | 35% | $3,354,476 | -$564,452 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 30 | 35% | $3,374,809 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 51 | 77% | $2,667,269 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 36 | 0% | $2,314,158 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
 | Weaseloftheweek | 19 | 2 | 9 | 90% | $2,010,911 | +$872,236 |
 | BreakTheBank | 0 | 12 | 10 | 0% | $1,543,814 | -$803,506 |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
-| wr0ngw4yb3tt0r | 9 | 6 | 14 | 60% | $725,898 | +$13,912 |
+| wr0ngw4yb3tt0r | 9 | 6 | 15 | 60% | $738,506 | +$13,912 |
 | Sassy-Bucket | 16 | 16 | 3 | 50% | $724,219 | -$117,224 |
 | S-Works | 0 | 0 | 6 | — | $688,936 | — |
 | musholius722 | 0 | 0 | 2 | — | $681,015 | — |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 180 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox | Cincinnati Reds | 2.56 (39¢) | $12,608 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Chicago White Sox | Chicago White Sox | 1.64 (61¢) | $20,333 | — | ⏳ Pendiente |
 | kibanachi | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.11 (90¢) | $11,700 | — | ⏳ Pendiente |
 | kibanachi | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.11 (90¢) | $11,700 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $66,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 180 en total)_
 | one8tyfive | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.41 (71¢) | $15,552 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $12,367 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $59,400 | — | ⏳ Pendiente |
-| fRibrenlc | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $14,667 | — | ⏳ Pendiente |
-| highnetworth | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 2.94 (34¢) | $52,872 | — | ⏳ Pendiente |
