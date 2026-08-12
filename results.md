@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 12:55:04 (hora de Perú)
+Actualizado: 2026-08-12 12:57:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1523**  ($38,390,414 en total)
+- Apuestas registradas: **1524**  ($38,400,515 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 582
+- Pendientes: 583
 - Apostadores distintos: 149
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 149 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CORGI8 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.56 (64¢) | $10,102 | — | ⏳ Pendiente |
 | Daemon99 | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $17,163 | — | ⏳ Pendiente |
 | bigspending | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $83,537 | — | ⏳ Pendiente |
 | 0way | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $10,578 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 149 en total)_
 | Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.33 (30¢) | $49,857 | — | ⏳ Pendiente |
 | hansama231 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $52,500 | — | ⏳ Pendiente |
 | casualbet2020 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $29,650 | — | ⏳ Pendiente |
-| hansama231 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $52,500 | — | ⏳ Pendiente |
