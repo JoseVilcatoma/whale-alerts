@@ -13503,5 +13503,18 @@
     "usd": 18220.3302,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 855,
+    "timestamp": 1786537257,
+    "username": "acc1211",
+    "wallet": "0xd6d9ed4117ddd92d85878cf981c11ba2a0bb2c2f",
+    "slug": "crichundredw-wel-lon-2026-08-12",
+    "title": "The Hundred, Women: Welsh Fire vs London Spirit",
+    "outcome": "Welsh Fire",
+    "side": "BUY",
+    "usd": 18220.3302,
+    "odds_at_bet": 94,
+    "status": "pending"
   }
 ]
