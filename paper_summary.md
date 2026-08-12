@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 01:22:29 (hora de Perú)
+Actualizado: 2026-08-12 01:24:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $446.17
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 3 | 9 | 0 | +15.41 USD |
-| HomeRunHazard | 114 | 97 | 1 | +13.95 USD |
+| HomeRunHazard | 114 | 97 | 4 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | UpTheBlues | 244 | 150 | 10 | +5.17 USD |
@@ -447,6 +447,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 50% | 0.72 | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 53% | 0.59 | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 55% | 2.64 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 45% | 2.07 | ⏳ pendiente | — |
 | UpTheBlues | Will Paide Linnameeskond win on 2026-08- | No (BUY) | 97% | 1.75 | ⏳ pendiente | — |
 | UpTheBlues | Will Paris Saint-Germain win on 2026-08- | Yes (BUY) | 56% | 0.51 | ⏳ pendiente | — |
@@ -474,6 +477,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 47% | 1.01 | ✅ ganada | +1.14 |
 | ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 49% | 0.34 | ❌ perdida | -0.34 |
 | ferrariChampions2026 | Real Salt Lake vs. FC Juárez: O/U 2.5 | Over (BUY) | 60% | 0.37 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Real Salt Lake win on 2026-08-11? | No (BUY) | 44% | 0.59 | ⏳ pendiente | — |
-| quavoo | Spread: Las Vegas Aces (-6.5) | Las Vegas Aces (BUY) | 50% | 3.70 | ✅ ganada | +3.70 |
-| ferrariChampions2026 | Estudiantes de La Plata vs. CD Universid | Over (BUY) | 61% | 0.37 | ✅ ganada | +0.24 |
