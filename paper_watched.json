@@ -2,13 +2,13 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1786482458.9872427,
-    "roi_pct": 208.8,
+    "roi_pct": 204.39,
     "short_term_pct": 50.0
   },
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
     "username": "BrotherObama",
     "added_at": 1786490786.1177936,
-    "roi_pct": 147.62,
+    "roi_pct": 154.85,
     "short_term_pct": 100.0
   },
   "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
@@ -20,13 +20,13 @@
   "0x56acab44cfca2e88bb9b3406890aea7bfa0cd77e": {
     "username": "dv-pm",
     "added_at": 1786491710.5467894,
-    "roi_pct": 931.74,
-    "short_term_pct": 50.0
+    "roi_pct": 931.46,
+    "short_term_pct": 40.0
   },
   "0xa71093cafc0c099b4ccab24c3cb8018d817923c4": {
     "username": "Talvez10",
     "added_at": 1786493469.823416,
-    "roi_pct": 290.78,
+    "roi_pct": 271.84,
     "short_term_pct": 100.0
   },
   "0xc8075693f48668a264b9fa313b47f52712fcc12b": {
@@ -35,28 +35,28 @@
     "roi_pct": 302.36,
     "short_term_pct": 40.0
   },
-  "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
-    "username": "ferrariChampions2026",
-    "added_at": 1786522101.8393362,
-    "roi_pct": 134.82,
-    "short_term_pct": 90.0
-  },
   "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
     "username": "UpTheBlues",
     "added_at": 1786523996.5485048,
-    "roi_pct": 340.66,
-    "short_term_pct": 100.0
+    "roi_pct": 325.78,
+    "short_term_pct": 80.0
   },
   "0x16602a38e8fb4498ffee0ea81e08d2b421825598": {
     "username": "BBQChickenisthebesttt",
     "added_at": 1786525888.1412513,
-    "roi_pct": 160.47,
+    "roi_pct": 180.87,
     "short_term_pct": 100.0
   },
   "0x9cb990f1862568a63d8601efeebe0304225c32f2": {
     "username": "jtwyslljy",
     "added_at": 1786529689.6498394,
-    "roi_pct": 1864.32,
+    "roi_pct": 1872.54,
+    "short_term_pct": 100.0
+  },
+  "0xdb859a551fcf56e49416160911476bea7307152f": {
+    "username": "AV23IUa",
+    "added_at": 1786530634.3516924,
+    "roi_pct": 132.49,
     "short_term_pct": 100.0
   }
 }
