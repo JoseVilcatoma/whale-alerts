@@ -20541,5 +20541,31 @@
     "usd": 13285.7076,
     "odds_at_bet": 12,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1345,
+    "timestamp": 1786560936,
+    "username": "PhoenixSuns",
+    "wallet": "0x29ccb2084a5a42861291107ce745dd344d3f3c29",
+    "slug": "usc-psg-av-2026-08-12-av",
+    "title": "Will Aston Villa win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 14073.359999999999,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1346,
+    "timestamp": 1786560968,
+    "username": "tony-sopranchenko",
+    "wallet": "0xde279fef014e51cb0ce213c72d25f73f9624d27c",
+    "slug": "usc-psg-av-2026-08-12-draw",
+    "title": "Will Paris Saint-Germain vs. Aston Villa end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 10626.0,
+    "odds_at_bet": 77,
+    "status": "pending"
   }
 ]
