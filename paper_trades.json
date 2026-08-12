@@ -78125,5 +78125,49 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786502989.8272817,
     "fills": 4
+  },
+  {
+    "timestamp": 1786503077,
+    "timestamp_added": 1786503078.1941352,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-tig-vwh-2026-08-11-vwh",
+    "title": "Will Vancouver Whitecaps FC win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 3154.17,
+    "whale_pct": 0.759,
+    "paper_stake_usd": 3.24,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786503083.3511426,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786503124,
+    "timestamp_added": 1786503124.7557318,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-phx-la-2026-08-11-total-178pt5",
+    "title": "Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 277.11999900000006,
+    "whale_pct": 0.15,
+    "paper_stake_usd": 0.64,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786503124.755741,
+    "fills": 1
   }
 ]
