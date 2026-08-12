@@ -78629,5 +78629,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786540301.0693676,
     "fills": 1
+  },
+  {
+    "timestamp": 1786542513,
+    "timestamp_added": 1786542514.5420644,
+    "username": "dv-pm",
+    "wallet": "0x56acab44cfca2e88bb9b3406890aea7bfa0cd77e",
+    "slug": "mlb-pit-mia-2026-08-12-spread-home-1pt5",
+    "title": "Spread: Miami Marlins (-1.5)",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "whale_usd": 150.28,
+    "whale_pct": 0.597,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786542514.5420725,
+    "fills": 1
   }
 ]
