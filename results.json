@@ -12032,5 +12032,18 @@
     "status": "cerrada_venta",
     "profit_usd": -359.82,
     "precio_salida": 59
+  },
+  {
+    "telegram_msg_id": 741,
+    "timestamp": 1786523623,
+    "username": "Marcoli",
+    "wallet": "0xdbbbde184ab04018ce0373c0dbe4e5fd6be805a8",
+    "slug": "atp-su-pankin-2026-08-12",
+    "title": "Astana: Fajing Sun vs Semen Pankin",
+    "outcome": "Fajing Sun",
+    "side": "BUY",
+    "usd": 11210.9492,
+    "odds_at_bet": 67,
+    "status": "pending"
   }
 ]

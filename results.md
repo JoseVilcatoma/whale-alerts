@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 03:32:01 (hora de Perú)
+Actualizado: 2026-08-12 03:34:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **924**  ($19,103,657 en total)
+- Apuestas registradas: **925**  ($19,114,868 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 135
+- Pendientes: 136
 - Apostadores distintos: 98
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 98 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Marcoli | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.49 (67¢) | $11,211 | — | ⏳ Pendiente |
 | NemecGhudini | LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner | DN SOOPers | 2.50 (40¢) | $13,600 | — | ⏳ Pendiente |
 | SineNooneEI | LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner | Nongshim Red Force | 1.67 (60¢) | $21,589 | -$360 | 💰 Vendida antes |
 | ComingBack | Astana: Takuya Kumasaka vs Hayato Matsuoka | Hayato Matsuoka | 1.18 (85¢) | $12,752 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 98 en total)_
 | coali10 | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | Yes | 2.86 (35¢) | $10,407 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | No | 1.54 (65¢) | $19,188 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | No | 1.54 (65¢) | $19,188 | — | ⏳ Pendiente |
-| coali10 | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | Yes | 2.86 (35¢) | $10,407 | — | ⏳ Pendiente |
