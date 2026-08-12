@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.2304063271844,
+  "bankroll": 505.75678930590783,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18805,6 +18805,11 @@
       "timestamp": 1786575877.684136,
       "bankroll": 503.23,
       "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 10.5"
+    },
+    {
+      "timestamp": 1786576030.323409,
+      "bankroll": 505.76,
+      "event": "venta anticipada: Sassy-Bucket \u2014 Seattle Mariners vs. New York Yankees: O/U 8.5 (+2.53 USD)"
     }
   ]
 }

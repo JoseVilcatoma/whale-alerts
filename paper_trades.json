@@ -80154,12 +80154,13 @@
     "whale_pct": 83.795,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786568218.977011,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 50
   },
   {
     "timestamp": 1786568237,
@@ -80518,14 +80519,15 @@
     "whale_pct": 46.477,
     "paper_stake_usd": 39.58,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 2.53,
     "overlaps_with": [
       "Weaseloftheweek"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786572575.7747066,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 50
   },
   {
     "timestamp": 1786572575,
@@ -80562,14 +80564,15 @@
     "whale_pct": 0.11,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [
       "Weaseloftheweek"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786572591.0911765,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 50
   },
   {
     "timestamp": 1786572842,
@@ -81645,6 +81648,26 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786575994.4686677,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786576133,
+    "timestamp_added": 1786576134.5778298,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "sud-bra-cam-2026-08-12-bra",
+    "title": "Will Red Bull Bragantino win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 506.79999999999995,
+    "whale_pct": 0.181,
+    "paper_stake_usd": 0.92,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786576134.5778456,
     "fills": 1
   }
 ]

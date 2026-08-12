@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 18:07:01 (hora de Perú)
+Actualizado: 2026-08-12 18:09:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $503.23
-**Retorno acumulado:** -49.68%
+**Bankroll actual:** $505.76
+**Retorno acumulado:** -49.42%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| Sassy-Bucket | 8 | 9 | 5 | +165.22 USD |
+| Sassy-Bucket | 11 | 9 | 2 | +167.75 USD |
 | theowalcott | 17 | 4 | 24 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | wr0ngw4yb3tt0r | 67 | 70 | 4 | +104.98 USD |
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 158 | 209 | 2 | -28.31 USD |
-| RN1 | 202 | 112 | 2 | -39.02 USD |
+| RN1 | 202 | 112 | 3 | -39.02 USD |
 | 1winstreak1 | 147 | 114 | 13 | -47.97 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -464,6 +464,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Red Bull Bragantino win on 2026-08- | Yes (BUY) | 35% | 0.92 | ⏳ pendiente | — |
 | RN1 | Will SE Palmeiras win on 2026-08-12? | Yes (BUY) | 67% | 1.02 | ⏳ pendiente | — |
 | RN1 | Will CA Platense win on 2026-08-12? | No (BUY) | 23% | 0.63 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 49% | 2.58 | ⏳ pendiente | — |
@@ -490,7 +491,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 35% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
