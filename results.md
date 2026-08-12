@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 01:04:47 (hora de Perú)
+Actualizado: 2026-08-12 01:06:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **665**  ($13,725,511 en total)
+- Apuestas registradas: **666**  ($13,738,111 en total)
 - Resueltas: **350** — 246 ganadas / 104 perdidas (**70%** de acierto)
-- Pendientes: 315
-- Apostadores distintos: 95
+- Pendientes: 316
+- Apostadores distintos: 96
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | tennischamp | 2 | 0 | 3 | ⚠️ 100% (2) | $54,391 | +$1,685 |
 | BaccaratRoulette | 0 | 2 | 0 | ⚠️ 0% (2) | $54,120 | -$54,120 |
 
-_(mostrando los 40 de mayor monto, de 95 en total)_
+_(mostrando los 40 de mayor monto, de 96 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MeiGuNiuBi | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $12,600 | — | ⏳ Pendiente |
 | johnny234 | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.61 (62¢) | $13,654 | — | ⏳ Pendiente |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: AL (-1.5) vs EDward Gaming (+1.5) | Anyones Legend | 1.45 (69¢) | $10,390 | — | ⏳ Pendiente |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: AL (-1.5) vs EDward Gaming (+1.5) | Anyone's Legend | 1.45 (69¢) | $10,390 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Darwin Blanch | 2.50 (40¢) | $16,421 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Aleksandar Vukic | 1.67 (60¢) | $24,631 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Darwin Blanch | 2.50 (40¢) | $16,421 | — | ⏳ Pendiente |
-| AV23IUa | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Aleksandar Vukic | 1.67 (60¢) | $24,631 | — | ⏳ Pendiente |
