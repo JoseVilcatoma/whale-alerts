@@ -26018,5 +26018,44 @@
     "usd": 15000.140000000001,
     "odds_at_bet": 46,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1787,
+    "timestamp": 1786574926,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "atp-jodar-nakashi-2026-08-12",
+    "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "usd": 15552.148900000002,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1788,
+    "timestamp": 1786574958,
+    "username": "fkcvffcjt",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "mlb-mil-sd-2026-08-12",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 14151.599000000002,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1789,
+    "timestamp": 1786574972,
+    "username": "0x076d\u20268d4c",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "lec-mia-leo-2026-08-12-mia",
+    "title": "Will Inter Miami CF win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 15395.237000000001,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]
