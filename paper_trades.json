@@ -79144,5 +79144,69 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786577078.6926606,
     "fills": 2
+  },
+  {
+    "timestamp": 1786577195,
+    "timestamp_added": 1786577195.8568285,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sea-nyy-2026-08-12-total-8pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2078.3485,
+    "whale_pct": 0.464,
+    "paper_stake_usd": 2.95,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786577195.8568377,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786577195,
+    "timestamp_added": 1786577196.7276142,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sea-nyy-2026-08-12-total-10pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 6783.1816,
+    "whale_pct": 1.514,
+    "paper_stake_usd": 9.64,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786577198.468094,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786577197,
+    "timestamp_added": 1786577197.8300922,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-sea-nyy-2026-08-12-total-10pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 948.0,
+    "whale_pct": 0.465,
+    "paper_stake_usd": 2.96,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786577197.8300993,
+    "fills": 1
   }
 ]

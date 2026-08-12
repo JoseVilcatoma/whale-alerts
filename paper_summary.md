@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 18:25:19 (hora de Perú)
+Actualizado: 2026-08-12 18:27:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $636.67
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 67 | 70 | 1 | +104.98 USD |
+| wr0ngw4yb3tt0r | 67 | 70 | 2 | +104.98 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 4 | +60.51 USD |
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 8 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 10 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -449,15 +449,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
 | lib-pal-cep-2026-08-12-draw | RN1, UpTheBlues |
+| mlb-sea-nyy-2026-08-12-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-bos-tor-2026-08-12-total-7pt5 | RN1, ferrariChampions2026 |
 | lib-pal-cep-2026-08-12-pal | RN1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-12-spread-away-2pt5 | RN1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-bos-tor-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
+| mlb-sea-nyy-2026-08-12-total-10pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 48% | 2.96 | ⏳ pendiente | — |
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 53% | 9.64 | ⏳ pendiente | — |
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 31% | 2.95 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Seattle Mariners (-2.5) | Seattle Mariners (BUY) | 51% | 6.46 | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 33% | 2.52 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago Cubs (-1.5) | Washington Nationals (BUY) | 69% | 1.09 | ⏳ pendiente | — |
@@ -485,6 +490,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Spread: Baltimore Orioles (-1.5) | Minnesota Twins (BUY) | 62% | 26.54 | ✅ ganada | +16.27 |
 | SDTrading | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | SDTrading | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: FC København (-2.5) | Debreceni VSC (BUY) | 69% | 0.00 | ❌ perdida | -0.00 |
-| UpTheBlues | Spread: CA Platense (-1.5) | CD Coquimbo Unido (BUY) | 79% | 0.00 | ⏳ pendiente | — |
