@@ -3674,5 +3674,18 @@
     "usd": 15199.1841,
     "odds_at_bet": 83,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 177,
+    "timestamp": 1786498073,
+    "username": "winwin518168",
+    "wallet": "0x682005011dd19c1e986cb060ed6ab83845f21c19",
+    "slug": "wnba-wsh-las-2026-08-11",
+    "title": "Washington Mystics vs. Las Vegas Aces",
+    "outcome": "Washington Mystics",
+    "side": "BUY",
+    "usd": 10202.0819,
+    "odds_at_bet": 30,
+    "status": "pending"
   }
 ]
