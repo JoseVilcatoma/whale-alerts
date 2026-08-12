@@ -8464,5 +8464,31 @@
     "usd": 10800.0,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 496,
+    "timestamp": 1786507748,
+    "username": "Feromont",
+    "wallet": "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3",
+    "slug": "mlb-kc-lad-2026-08-11",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 20666.460000000003,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 497,
+    "timestamp": 1786507749,
+    "username": "Feromont",
+    "wallet": "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3",
+    "slug": "mlb-kc-lad-2026-08-11",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 20666.460000000003,
+    "odds_at_bet": 93,
+    "status": "pending"
   }
 ]
