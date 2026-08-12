@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 17:33:33 (hora de Perú)
+Actualizado: 2026-08-12 17:35:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $493.86
-**Retorno acumulado:** -50.61%
+**Bankroll actual:** $487.96
+**Retorno acumulado:** -51.20%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,8 +13,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| Sassy-Bucket | 8 | 9 | 3 | +165.22 USD |
-| theowalcott | 17 | 4 | 7 | +143.32 USD |
+| Sassy-Bucket | 8 | 9 | 5 | +165.22 USD |
+| theowalcott | 17 | 4 | 9 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | wr0ngw4yb3tt0r | 67 | 70 | 0 | +104.98 USD |
 | dv-pm | 4 | 6 | 1 | +89.49 USD |
@@ -51,11 +51,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 158 | 209 | 2 | -28.31 USD |
 | RN1 | 202 | 112 | 0 | -39.02 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
-| 1winstreak1 | 136 | 108 | 23 | -56.91 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
+| 1winstreak1 | 136 | 110 | 21 | -62.81 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 1 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 2 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -452,6 +452,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-mil-sd-2026-08-12-total-8pt5 | 1winstreak1, SDTrading, dv-pm |
 | mlb-phi-stl-2026-08-12-total-8pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-phi-stl-2026-08-12-total-9pt5 | 1winstreak1, HomeRunHazard |
+| lib-pal-cep-2026-08-12-spread-home-1pt5 | WTSA, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-12-total-8pt5 | Sassy-Bucket, Weaseloftheweek |
 | mlb-col-ari-2026-08-12-spread-away-1pt5 | 1winstreak1, HomeRunHazard |
 | mlb-mil-sd-2026-08-12-spread-away-2pt5 | 1winstreak1, HomeRunHazard |
@@ -461,6 +462,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: SE Palmeiras (-1.5) | Club Cerro Porteño (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| Sassy-Bucket | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
+| theowalcott | Will Orlando City SC win on 2026-08-12? | No (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| theowalcott | Will Orlando City SC win on 2026-08-12? | No (BUY) | 46% | 38.36 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Colorado Rockies (-1.5) | Colorado Rockies (BUY) | 68% | 0.91 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 31% | 0.00 | ⏳ pendiente | — |
@@ -486,8 +492,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 57% | 6.79 | ⏳ pendiente | — |
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 2.29 | ⏳ pendiente | — |
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 5.20 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Colorado Rockies (-1.5) | Arizona Diamondbacks (BUY) | 20% | 1.17 | ⏳ pendiente | — |
-| BrotherObama | LoL: Team Solid vs RMD Gaming (BO5) - Ci | Team Solid (BUY) | 22% | 13.52 | ⏳ pendiente | — |
-| theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 47.71 | ⏳ pendiente | — |
-| WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 47% | 1.26 | ⏳ pendiente | — |
-| theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 1.14 | ⏳ pendiente | — |
