@@ -1,5 +1,5 @@
 {
-  "bankroll": 348.0154252028831,
+  "bankroll": 339.05875853621643,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -16380,6 +16380,31 @@
       "timestamp": 1786492833.1292849,
       "bankroll": 348.02,
       "event": "won: UpTheBlues \u2014 Will Mamelodi Sundowns win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786494715.0869555,
+      "bankroll": 341.15,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Dana White's Contender Series: Joe Kropschot vs. Jon Kunneman (Middleweight, Main Card)"
+    },
+    {
+      "timestamp": 1786494715.4211016,
+      "bankroll": 337.64,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 O/U 1.5 Rounds"
+    },
+    {
+      "timestamp": 1786494716.3995423,
+      "bankroll": 339.06,
+      "event": "won: wr0ngw4yb3tt0r \u2014 O/U 1.5 Rounds"
+    },
+    {
+      "timestamp": 1786494716.8001986,
+      "bankroll": 339.06,
+      "event": "won: wr0ngw4yb3tt0r \u2014 O/U 1.5 Rounds"
+    },
+    {
+      "timestamp": 1786494716.900402,
+      "bankroll": 339.06,
+      "event": "won: wr0ngw4yb3tt0r \u2014 O/U 1.5 Rounds"
     }
   ]
 }
