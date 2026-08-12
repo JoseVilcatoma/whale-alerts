@@ -8451,5 +8451,18 @@
     "usd": 14034.392000000002,
     "odds_at_bet": 80,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 495,
+    "timestamp": 1786506606,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 10800.0,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]

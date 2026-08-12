@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 22:50:02 (hora de Perú)
+Actualizado: 2026-08-11 22:52:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **649**  ($13,506,055 en total)
+- Apuestas registradas: **650**  ($13,516,855 en total)
 - Resueltas: **348** — 246 ganadas / 102 perdidas (**71%** de acierto)
-- Pendientes: 301
+- Pendientes: 302
 - Apostadores distintos: 95
 
 ### Balance
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 0 | 32 | 100% | $1,250,670 | +$384,537 |
 | ferrariChampions2026 | 47 | 6 | 25 | 89% | $1,168,205 | +$93,281 |
+| AV23IUa | 12 | 5 | 25 | 71% | $1,140,129 | +$239,141 |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 16 | 29 | 43% | $1,131,395 | -$248,458 |
-| AV23IUa | 12 | 5 | 24 | 71% | $1,129,329 | +$239,141 |
 | Djdjdjekekek | 0 | 2 | 18 | ⚠️ 0% (2) | $704,439 | -$62,629 |
 | pleaseplease123 | 0 | 12 | 16 | 0% | $700,196 | -$399,165 |
 | Weaseloftheweek | 8 | 2 | 0 | 80% | $607,608 | +$306,346 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.85 (54¢) | $10,800 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.92 (52¢) | $10,400 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.45 (69¢) | $13,800 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.25 (80¢) | $14,034 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 | AV23IUa | Counter-Strike: BIG vs Aurora Gaming (BO1) - Esports World Cup Group A | Aurora Gaming | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: BIG vs Aurora Gaming (BO1) - Esports World Cup Group A | BIG | 2.63 (38¢) | $13,031 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: BIG vs Aurora Gaming (BO1) - Esports World Cup Group A | Aurora Gaming | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
-| ExplosiveNinja | Counter-Strike: BIG vs Aurora Gaming (BO1) - Esports World Cup Group A | BIG | 2.63 (38¢) | $13,031 | — | ⏳ Pendiente |
