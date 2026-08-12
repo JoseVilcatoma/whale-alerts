@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 13:53:51 (hora de Perú)
+Actualizado: 2026-08-12 13:56:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1577**  ($39,563,614 en total)
+- Apuestas registradas: **1579**  ($39,588,313 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 636
-- Apostadores distintos: 158
+- Pendientes: 638
+- Apostadores distintos: 160
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | basementdweller3000 | 0 | 0 | 9 | — | $164,772 | — |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
 
-_(mostrando los 40 de mayor monto, de 158 en total)_
+_(mostrando los 40 de mayor monto, de 160 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tony-sopranchenko | Will Paris Saint-Germain vs. Aston Villa end in a draw? | No | 1.30 (77¢) | $10,626 | — | ⏳ Pendiente |
+| PhoenixSuns | Will Aston Villa win on 2026-08-12? | No | 1.19 (84¢) | $14,073 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.14 (88¢) | $86,776 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 8.33 (12¢) | $13,286 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.18 (85¢) | $15,875 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 158 en total)_
 | bigspending | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $83,537 | — | ⏳ Pendiente |
 | 0way | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $10,578 | — | ⏳ Pendiente |
 | 0x5aD49Cd574dF6888a0fE1d2B522F334988f06866-1766098504363 | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.72 (58¢) | $12,953 | — | ⏳ Pendiente |
-| HongYunX | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.72 (58¢) | $173,002 | — | ⏳ Pendiente |
-| BreakTheBank | Will Paris Saint-Germain win on 2026-08-12? | No | 2.38 (42¢) | $57,563 | — | ⏳ Pendiente |
