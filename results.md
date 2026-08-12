@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 12:36:38 (hora de Perú)
+Actualizado: 2026-08-12 12:38:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1486**  ($36,637,950 en total)
+- Apuestas registradas: **1495**  ($36,884,886 en total)
 - Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 547
-- Apostadores distintos: 139
+- Pendientes: 556
+- Apostadores distintos: 143
 
 ### Balance
 
@@ -25,17 +25,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 65 | 28% | $6,009,022 | -$789,178 |
-| Djdjdjekekek | 36 | 12 | 75 | 75% | $5,518,801 | +$573,956 |
+| Djdjdjekekek | 36 | 12 | 76 | 75% | $5,588,302 | +$573,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 4 | 36% | $2,198,331 | -$421,290 |
 | ferrariChampions2026 | 90 | 29 | 21 | 76% | $2,018,480 | +$113,934 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
 | Weaseloftheweek | 11 | 2 | 7 | 85% | $1,636,724 | +$518,388 |
-| pleaseplease123 | 0 | 44 | 7 | 0% | $1,270,452 | -$1,082,423 |
+| pleaseplease123 | 0 | 44 | 8 | 0% | $1,304,131 | -$1,082,423 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
 | texaskid | 18 | 0 | 0 | 100% | $598,663 | +$455,165 |
+| Lakersfan111 | 1 | 3 | 30 | ⚠️ 25% (4) | $593,460 | -$28,993 |
 | Sassy-Bucket | 10 | 16 | 3 | 38% | $585,618 | -$190,303 |
 | SDTrading | 25 | 6 | 0 | 81% | $566,130 | +$328,056 |
-| Lakersfan111 | 1 | 3 | 29 | ⚠️ 25% (4) | $532,997 | -$28,993 |
 | Talvez10 | 24 | 3 | 0 | 89% | $497,016 | +$224,365 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
 | wr0ngw4yb3tt0r | 9 | 6 | 4 | 60% | $419,179 | +$13,912 |
@@ -49,11 +49,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Marcoli | 7 | 0 | 3 | ⚠️ 100% (7) | $273,944 | +$95,170 |
 | ThornyDevil | 2 | 1 | 6 | ⚠️ 67% (3) | $254,880 | +$2,354 |
 | mikesports | 7 | 8 | 0 | 47% | $243,869 | -$88,869 |
+| S-Works | 0 | 0 | 2 | — | $229,645 | — |
 | five5120 | 2 | 1 | 12 | ⚠️ 67% (3) | $225,368 | -$15,925 |
 | johnny234 | 3 | 4 | 9 | ⚠️ 43% (7) | $224,256 | -$21,018 |
 | fRibrenlc | 9 | 4 | 4 | 69% | $220,701 | +$46,634 |
 | Feromont | 9 | 0 | 1 | 100% | $218,857 | +$55,222 |
-| S-Works | 0 | 0 | 1 | — | $210,000 | — |
 | TAIWANNUMBERONE | 0 | 1 | 13 | ⚠️ 0% (1) | $206,762 | -$17,114 |
 | casualbet2020 | 0 | 0 | 4 | — | $203,299 | — |
 | winwin518168 | 0 | 12 | 0 | 0% | $191,010 | -$191,010 |
@@ -65,12 +65,21 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,408 | +$115,433 |
 | SineNooneEI | 1 | 1 | 10 | ⚠️ 50% (2) | $157,440 | +$14,033 |
 
-_(mostrando los 40 de mayor monto, de 139 en total)_
+_(mostrando los 40 de mayor monto, de 143 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ARI100KRAT | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $10,650 | — | ⏳ Pendiente |
+| norrisfan | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $13,490 | — | ⏳ Pendiente |
+| TheMafiaa | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $13,502 | — | ⏳ Pendiente |
+| S-Works | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $19,645 | — | ⏳ Pendiente |
+| Anjun | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $15,555 | — | ⏳ Pendiente |
+| Lakersfan111 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $60,463 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.33 (30¢) | $69,501 | — | ⏳ Pendiente |
+| PleaseWinPlease | Colorado Rockies vs. Arizona Diamondbacks | Colorado Rockies | 2.63 (38¢) | $10,450 | — | ⏳ Pendiente |
+| pleaseplease123 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.61 (62¢) | $33,679 | — | ⏳ Pendiente |
 | Feromont | Baltimore Orioles vs. Minnesota Twins | Minnesota Twins | 1.96 (51¢) | $10,191 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.33 (30¢) | $162,342 | — | ⏳ Pendiente |
 | ARI100KRAT | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $13,647 | — | ⏳ Pendiente |
@@ -122,12 +131,3 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 | Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.45 (29¢) | $16,730 | — | ⏳ Pendiente |
 | NemecGhudini | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $24,850 | — | ⏳ Pendiente |
 | 787-HUEV-W-ZOPE | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $11,173 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.45 (29¢) | $16,730 | — | ⏳ Pendiente |
-| 787-HUEV-W-ZOPE | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $11,173 | — | ⏳ Pendiente |
-| NemecGhudini | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $24,850 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $10,241 | — | ⏳ Pendiente |
-| Lakersfan111 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.37 (73¢) | $18,250 | — | ⏳ Pendiente |
-| Lakersfan111 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $21,600 | — | ⏳ Pendiente |
-| basementdweller3000 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $36,000 | — | ⏳ Pendiente |
-| Lakersfan111 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $10,800 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.57 (28¢) | $176,934 | — | ⏳ Pendiente |
