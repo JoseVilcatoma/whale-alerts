@@ -1,5 +1,5 @@
 {
-  "bankroll": 549.4255581965089,
+  "bankroll": 490.43530952382775,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18435,6 +18435,36 @@
       "timestamp": 1786567191.6372836,
       "bankroll": 549.43,
       "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 11.5"
+    },
+    {
+      "timestamp": 1786567310.3017015,
+      "bankroll": 565.69,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Baltimore Orioles (-1.5)"
+    },
+    {
+      "timestamp": 1786567311.194695,
+      "bankroll": 487.72,
+      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 13.5"
+    },
+    {
+      "timestamp": 1786567313.5926769,
+      "bankroll": 489.05,
+      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 13.5"
+    },
+    {
+      "timestamp": 1786567314.5232,
+      "bankroll": 490.06,
+      "event": "won: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 8.5"
+    },
+    {
+      "timestamp": 1786567315.9255774,
+      "bankroll": 490.29,
+      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 13.5"
+    },
+    {
+      "timestamp": 1786567316.3263211,
+      "bankroll": 490.44,
+      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 13.5"
     }
   ]
 }
