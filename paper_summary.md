@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 18:09:04 (hora de Perú)
+Actualizado: 2026-08-12 18:11:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $505.76
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 2 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| WTSA | 0 | 0 | 6 | +0.00 USD |
+| WTSA | 0 | 0 | 7 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 158 | 209 | 2 | -28.31 USD |
-| RN1 | 202 | 112 | 3 | -39.02 USD |
+| RN1 | 202 | 112 | 4 | -39.02 USD |
 | 1winstreak1 | 147 | 114 | 13 | -47.97 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -459,11 +459,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-col-ari-2026-08-12-spread-away-1pt5 | 1winstreak1, HomeRunHazard |
 | mlb-mil-sd-2026-08-12-spread-away-2pt5 | 1winstreak1, HomeRunHazard |
 | mlb-mil-sd-2026-08-12-total-5pt5 | 1winstreak1, HomeRunHazard |
+| lib-cru-fla-2026-08-12-total-2pt5 | RN1, WTSA |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Cruzeiro EC vs. CR Flamengo: O/U 2.5 | Under (BUY) | 59% | 10.05 | ⏳ pendiente | — |
+| WTSA | Cruzeiro EC vs. CR Flamengo: O/U 2.5 | Over (BUY) | 41% | 66.63 | ⏳ pendiente | — |
 | RN1 | Will Red Bull Bragantino win on 2026-08- | Yes (BUY) | 35% | 0.92 | ⏳ pendiente | — |
 | RN1 | Will SE Palmeiras win on 2026-08-12? | Yes (BUY) | 67% | 1.02 | ⏳ pendiente | — |
 | RN1 | Will CA Platense win on 2026-08-12? | No (BUY) | 23% | 0.63 | ⏳ pendiente | — |
@@ -491,6 +494,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 35% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
