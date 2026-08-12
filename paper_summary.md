@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:22:57 (hora de Perú)
+Actualizado: 2026-08-11 21:25:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $429.43
@@ -46,8 +46,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 163 | 109 | 15 | -28.34 USD |
-| quavoo | 152 | 186 | 31 | -33.89 USD |
+| swisstony | 163 | 109 | 16 | -28.34 USD |
+| quavoo | 152 | 186 | 32 | -33.89 USD |
 | RN1 | 197 | 110 | 9 | -38.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -448,6 +448,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Las Vegas Aces (-8.5) | Washington Mystics (BUY) | 55% | 0.55 | ⏳ pendiente | — |
+| quavoo | Counter-Strike: BIG vs Aurora Gaming (BO | BIG (BUY) | 39% | 1.30 | ⏳ pendiente | — |
 | RN1 | Tampa Bay Rays vs. Athletics: O/U 10.5 | Over (BUY) | 47% | 0.51 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 55% | 0.51 | ⏳ pendiente | — |
 | RN1 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 62% | 1.81 | ⏳ pendiente | — |
@@ -476,5 +478,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 49% | 0.34 | ⏳ pendiente | — |
 | ferrariChampions2026 | Real Salt Lake vs. FC Juárez: O/U 2.5 | Over (BUY) | 60% | 0.37 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Real Salt Lake win on 2026-08-11? | No (BUY) | 44% | 0.59 | ⏳ pendiente | — |
-| quavoo | Spread: Las Vegas Aces (-6.5) | Las Vegas Aces (BUY) | 50% | 3.70 | ⏳ pendiente | — |
-| ferrariChampions2026 | Estudiantes de La Plata vs. CD Universid | Over (BUY) | 61% | 0.37 | ⏳ pendiente | — |
