@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 23:46:49 (hora de Perú)
+Actualizado: 2026-08-11 23:48:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $446.96
-**Retorno acumulado:** -55.30%
+**Bankroll actual:** $483.22
+**Retorno acumulado:** -51.68%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,18 +15,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
+| 1winstreak1 | 131 | 110 | 10 | +105.43 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
-| 1winstreak1 | 123 | 105 | 23 | +78.50 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 3 | 10 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
+| wr0ngw4yb3tt0r | 66 | 70 | 0 | +19.50 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
-| wr0ngw4yb3tt0r | 62 | 70 | 4 | +16.54 USD |
 | SDTrading | 3 | 9 | 0 | +15.41 USD |
+| HomeRunHazard | 114 | 97 | 0 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| HomeRunHazard | 108 | 95 | 8 | +6.69 USD |
 | UpTheBlues | 243 | 150 | 37 | +4.50 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
@@ -46,14 +46,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 181 | 120 | 23 | -23.95 USD |
-| quavoo | 154 | 186 | 32 | -30.19 USD |
+| swisstony | 186 | 127 | 11 | -24.56 USD |
+| quavoo | 155 | 186 | 31 | -29.75 USD |
 | RN1 | 203 | 112 | 3 | -37.58 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 639 | 477 | 13 | -102.01 USD |
+| ferrariChampions2026 | 641 | 480 | 8 | -102.73 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | BrotherObama | 7 | 17 | 0 | -121.31 USD |
@@ -481,7 +481,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | Counter-Strike: magic vs TheMongolz (BO1 | TheMongolz (BUY) | 54% | 0.57 | ⏳ pendiente | — |
 | UpTheBlues | Tigres de la UANL vs. Vancouver Whitecap | Under (BUY) | 80% | 0.58 | ⏳ pendiente | — |
 | UpTheBlues | Will Tigres de la UANL win on 2026-08-11 | No (BUY) | 91% | 0.59 | ⏳ pendiente | — |
-| 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 46% | 0.44 | ⏳ pendiente | — |
+| 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 46% | 0.44 | ✅ ganada | +0.52 |
 | AV23IUa | Counter-Strike: magic vs TheMongolz (BO1 | TheMongolz (BUY) | 54% | 1.90 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Team Falcons vs K27 (BO1 | Team Falcons (BUY) | 79% | 5.51 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 90% | 0.52 | ⏳ pendiente | — |
