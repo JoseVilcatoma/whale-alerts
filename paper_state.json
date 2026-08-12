@@ -1,5 +1,5 @@
 {
-  "bankroll": 321.85875853621644,
+  "bankroll": 323.8434393872803,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -16465,6 +16465,21 @@
       "timestamp": 1786496617.8535333,
       "bankroll": 321.86,
       "event": "lost: swisstony \u2014 Chicago Cubs vs. Washington Nationals: O/U 10.5"
+    },
+    {
+      "timestamp": 1786496907.2889006,
+      "bankroll": 323.84,
+      "event": "won: Talvez10 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786496907.3890505,
+      "bankroll": 323.84,
+      "event": "lost: quavoo \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786496937.7519433,
+      "bankroll": 323.84,
+      "event": "lost: ferrariChampions2026 \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 6.5"
     }
   ]
 }
