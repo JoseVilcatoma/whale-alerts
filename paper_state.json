@@ -1,5 +1,5 @@
 {
-  "bankroll": 571.8324720384858,
+  "bankroll": 571.0724720384858,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18625,6 +18625,11 @@
       "timestamp": 1786571555.9892333,
       "bankroll": 571.83,
       "event": "lost: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 10.5"
+    },
+    {
+      "timestamp": 1786572623.5275338,
+      "bankroll": 571.07,
+      "event": "lost: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-3.5)"
     }
   ]
 }
