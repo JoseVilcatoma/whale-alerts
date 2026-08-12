@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 03:07:12 (hora de Perú)
+Actualizado: 2026-08-12 03:09:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **922**  ($19,068,468 en total)
-- Resueltas: **788** — 485 ganadas / 303 perdidas (**62%** de acierto)
-- Pendientes: 134
-- Apostadores distintos: 97
+- Apuestas registradas: **924**  ($19,103,657 en total)
+- Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
+- Pendientes: 135
+- Apostadores distintos: 98
 
 ### Balance
 
-- **Resultado de los apostadores: +$454,141** sobre $16,827,693 apostados (ROI **+2.7%**)
+- **Resultado de los apostadores: +$453,781** sobre $16,849,283 apostados (ROI **+2.7%**)
 - Copiando $100 fijo en cada una: **+$2,360** sobre $77,800 (ROI **+3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | danielwolfmorales3pddb6dl6 | 0 | 6 | 0 | ⚠️ 0% (6) | $81,000 | -$81,000 |
 | monkeymashingkeyboard | 6 | 0 | 0 | ⚠️ 100% (6) | $78,557 | +$63,183 |
 
-_(mostrando los 40 de mayor monto, de 97 en total)_
+_(mostrando los 40 de mayor monto, de 98 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| NemecGhudini | LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner | DN SOOPers | 2.50 (40¢) | $13,600 | — | ⏳ Pendiente |
+| SineNooneEI | LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner | Nongshim Red Force | 1.67 (60¢) | $21,589 | -$360 | 💰 Vendida antes |
 | ComingBack | Astana: Takuya Kumasaka vs Hayato Matsuoka | Hayato Matsuoka | 1.18 (85¢) | $12,752 | — | ⏳ Pendiente |
 | ComingBack | Astana: Takuya Kumasaka vs Hayato Matsuoka | Hayato Matsuoka | 1.18 (85¢) | $12,752 | — | ⏳ Pendiente |
 | Djdjdjekekek | LoL: HANJIN BRION Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group | HANJIN BRION Challengers | 1.33 (75¢) | $11,250 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 97 en total)_
 | DonaldinhoTrumpito | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | No | 1.54 (65¢) | $19,188 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | No | 1.54 (65¢) | $19,188 | — | ⏳ Pendiente |
 | coali10 | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | Yes | 2.86 (35¢) | $10,407 | — | ⏳ Pendiente |
-| DonaldinhoTrumpito | Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election? | Yes | 1.54 (65¢) | $18,281 | — | ⏳ Pendiente |
-| DonaldinhoTrumpito | Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election? | Yes | 1.54 (65¢) | $18,281 | — | ⏳ Pendiente |
