@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 04:23:27 (hora de Perú)
+Actualizado: 2026-08-12 04:25:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **932**  ($19,228,428 en total)
+- Apuestas registradas: **933**  ($19,240,900 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 143
-- Apostadores distintos: 99
+- Pendientes: 144
+- Apostadores distintos: 100
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | danielwolfmorales3pddb6dl6 | 0 | 6 | 0 | ⚠️ 0% (6) | $81,000 | -$81,000 |
 | monkeymashingkeyboard | 6 | 0 | 0 | ⚠️ 100% (6) | $78,557 | +$63,183 |
 
-_(mostrando los 40 de mayor monto, de 99 en total)_
+_(mostrando los 40 de mayor monto, de 100 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hff. | Dota 2: Level UP vs Rune Eaters - Game 1 Winner | Rune Eaters | 1.79 (56¢) | $12,472 | — | ⏳ Pendiente |
 | 254321758 | LoL: DN SOOPers vs Nongshim Red Force - Game 2 Winner | DN SOOPers | 1.10 (91¢) | $10,974 | — | ⏳ Pendiente |
 | 254321758 | LoL: DN SOOPers vs Nongshim Red Force - Game 2 Winner | DN SOOPers | 1.10 (91¢) | $10,974 | — | ⏳ Pendiente |
 | five5120 | LoL: EDward Gaming vs Anyone's Legend - Game 1 Winner | Anyone's Legend | 1.23 (81¢) | $18,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 99 en total)_
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $13,288 | +$5,168 | ✅ Ganada |
 | swisstony | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.25 (80¢) | $11,832 | +$2,958 | ✅ Ganada |
 | swisstony | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.25 (80¢) | $11,832 | +$2,958 | ✅ Ganada |
-| Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | -$5,509 | 💰 Vendida antes |

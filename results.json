@@ -12136,5 +12136,18 @@
     "usd": 10973.848800143935,
     "odds_at_bet": 91,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 749,
+    "timestamp": 1786526606,
+    "username": "hff.",
+    "wallet": "0xc0f5345be7d24194892f10627123ffe91c633d04",
+    "slug": "dota2-lvlup1-re-2026-08-12-game1",
+    "title": "Dota 2: Level UP vs Rune Eaters - Game 1 Winner",
+    "outcome": "Rune Eaters",
+    "side": "BUY",
+    "usd": 12471.894800000002,
+    "odds_at_bet": 56,
+    "status": "pending"
   }
 ]
