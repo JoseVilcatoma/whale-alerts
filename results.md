@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 08:00:16 (hora de Perú)
+Actualizado: 2026-08-12 08:02:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1055**  ($22,212,703 en total)
+- Apuestas registradas: **1062**  ($22,385,620 en total)
 - Resueltas: **792** — 488 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 263
+- Pendientes: 270
 - Apostadores distintos: 116
 
 ### Balance
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 26 | 28% | $1,859,686 | -$743,370 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 27 | 28% | $1,948,140 | -$743,370 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 41 | 0 | 41% | $1,811,081 | -$218,949 |
 | AV23IUa | 23 | 11 | 29 | 68% | $1,636,286 | +$348,929 |
+| Djdjdjekekek | 27 | 3 | 21 | 90% | $1,588,570 | +$494,952 |
 | ferrariChampions2026 | 79 | 25 | 4 | 76% | $1,585,356 | +$58,976 |
-| Djdjdjekekek | 27 | 3 | 19 | 90% | $1,559,893 | +$494,952 |
 | Weaseloftheweek | 11 | 2 | 3 | 85% | $1,218,338 | +$518,388 |
 | pleaseplease123 | 0 | 39 | 2 | 0% | $1,024,640 | -$991,234 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | theowalcott | 21 | 0 | 0 | 100% | $318,833 | +$226,502 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
-| Lakersfan111 | 1 | 0 | 13 | ⚠️ 100% (1) | $239,451 | +$9,167 |
+| Lakersfan111 | 1 | 0 | 16 | ⚠️ 100% (1) | $281,351 | +$9,167 |
 | umeax | 0 | 0 | 2 | — | $234,739 | — |
 | mikesports | 3 | 3 | 7 | ⚠️ 50% (6) | $211,470 | -$24,073 |
 | wr0ngw4yb3tt0r | 7 | 6 | 0 | 54% | $209,577 | -$12,560 |
@@ -71,12 +71,19 @@ _(mostrando los 40 de mayor monto, de 116 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.35 (74¢) | $14,800 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.85 (26¢) | $17,929 | — | ⏳ Pendiente |
+| Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.30 (77¢) | $15,400 | — | ⏳ Pendiente |
+| spnir | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.30 (77¢) | $13,885 | — | ⏳ Pendiente |
 | spnir | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.30 (77¢) | $13,885 | — | ⏳ Pendiente |
 | Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.30 (77¢) | $15,400 | — | ⏳ Pendiente |
+| Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.28 (78¢) | $11,700 | — | ⏳ Pendiente |
 | Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.28 (78¢) | $11,700 | — | ⏳ Pendiente |
 | 467j6yj | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.06 (94¢) | $21,242 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | M80 | 2.86 (35¢) | $47,559 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.54 (65¢) | $88,454 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.54 (65¢) | $88,454 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | M80 | 3.03 (33¢) | $10,748 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | M80 | 3.03 (33¢) | $10,748 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.19 (84¢) | $14,794 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.19 (84¢) | $14,794 | — | ⏳ Pendiente |
@@ -124,10 +131,3 @@ _(mostrando los 40 de mayor monto, de 116 en total)_
 | retroactivesource | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.20 (83¢) | $20,981 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.45 (69¢) | $30,115 | +$6,547 | 💰 Vendida antes |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.82 (55¢) | $16,603 | — | ⏳ Pendiente |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.82 (55¢) | $16,603 | — | ⏳ Pendiente |
-| GreatestTrader | LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyones Legend | 1.30 (77¢) | $11,215 | — | ⏳ Pendiente |
-| GreatestTrader | LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 1.30 (77¢) | $11,215 | — | ⏳ Pendiente |
-| umeax | Will Paris Saint-Germain win on 2026-08-12? | No | 2.33 (43¢) | $117,370 | — | ⏳ Pendiente |
-| Weaseloftheweek | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.75 (57¢) | $150,464 | — | ⏳ Pendiente |
-| umeax | Will Paris Saint-Germain win on 2026-08-12? | No | 2.33 (43¢) | $117,370 | — | ⏳ Pendiente |
-| Weaseloftheweek | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.75 (57¢) | $150,464 | — | ⏳ Pendiente |
