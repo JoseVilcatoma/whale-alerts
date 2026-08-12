@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 09:42:25 (hora de Perú)
+Actualizado: 2026-08-12 09:44:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1320**  ($29,741,447 en total)
+- Apuestas registradas: **1323**  ($29,822,275 en total)
 - Resueltas: **938** — 566 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 382
+- Pendientes: 385
 - Apostadores distintos: 123
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 49 | 28% | $3,909,868 | -$789,178 |
-| Djdjdjekekek | 36 | 12 | 46 | 75% | $3,466,242 | +$573,956 |
+| Djdjdjekekek | 36 | 12 | 47 | 75% | $3,512,528 | +$573,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 0 | 36% | $2,039,712 | -$421,290 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
 | ferrariChampions2026 | 90 | 29 | 7 | 76% | $1,815,979 | +$113,934 |
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 24 | 3 | 0 | 89% | $497,016 | +$224,365 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
 | Sassy-Bucket | 10 | 16 | 0 | 38% | $451,354 | -$190,303 |
-| Lakersfan111 | 1 | 3 | 22 | ⚠️ 25% (4) | $426,634 | -$28,993 |
+| Lakersfan111 | 1 | 3 | 23 | ⚠️ 25% (4) | $438,184 | -$28,993 |
 | ActionReaction | 0 | 0 | 13 | — | $355,126 | — |
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
@@ -71,7 +71,10 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Lakersfan111 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.30 (77¢) | $11,550 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $46,286 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $46,286 | — | ⏳ Pendiente |
+| basementdweller3000 | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | BetBoom Team | 2.17 (46¢) | $22,992 | — | ⏳ Pendiente |
 | basementdweller3000 | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | BetBoom Team | 2.17 (46¢) | $22,992 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $73,150 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | B8 | 2.56 (39¢) | $44,849 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.85 (26¢) | $12,812 | — | ⏳ Pendiente |
 | CongoleseBorat | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.37 (73¢) | $12,420 | — | ⏳ Pendiente |
 | CongoleseBorat | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.37 (73¢) | $12,420 | +$340 | 💰 Vendida antes |
-| Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.85 (26¢) | $12,812 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.70 (27¢) | $153,612 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.37 (73¢) | $407,480 | — | ⏳ Pendiente |
