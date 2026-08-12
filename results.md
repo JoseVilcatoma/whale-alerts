@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 18:32:58 (hora de Perú)
+Actualizado: 2026-08-12 18:35:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2045**  ($54,952,399 en total)
-- Resueltas: **1355** — 806 ganadas / 549 perdidas (**59%** de acierto)
-- Pendientes: 690
+- Resueltas: **1358** — 806 ganadas / 552 perdidas (**59%** de acierto)
+- Pendientes: 687
 - Apostadores distintos: 179
 
 ### Balance
 
-- **Resultado de los apostadores: -$246,510** sobre $32,020,631 apostados (ROI **-0.8%**)
+- **Resultado de los apostadores: -$263,263** sobre $32,066,703 apostados (ROI **-0.8%**)
 - Copiando $100 fijo en cada una: **-$943** sobre $131,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -117,7 +117,7 @@ _(mostrando los 40 de mayor monto, de 179 en total)_
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes | 2.04 (49¢) | $10,265 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Inter Miami CF win on 2026-08-12? | No | 1.82 (55¢) | $15,395 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Inter Miami CF win on 2026-08-12? | No | 1.82 (55¢) | $15,395 | — | ⏳ Pendiente |
-| fkcvffcjt | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 2.63 (38¢) | $14,152 | — | ⏳ Pendiente |
+| fkcvffcjt | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 2.63 (38¢) | $14,152 | -$5,146 | 💰 Vendida antes |
 | one8tyfive | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.41 (71¢) | $15,552 | — | ⏳ Pendiente |
 | one8tyfive | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.41 (71¢) | $15,552 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $12,367 | — | ⏳ Pendiente |
