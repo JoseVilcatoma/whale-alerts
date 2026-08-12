@@ -14095,7 +14095,9 @@
     "side": "BUY",
     "usd": 15819.41,
     "odds_at_bet": 50,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": -1265.55,
+    "precio_salida": 46
   },
   {
     "telegram_msg_id": 929,
@@ -14121,7 +14123,9 @@
     "side": "BUY",
     "usd": 40478.6496,
     "odds_at_bet": 48,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": -3238.29,
+    "precio_salida": 46
   },
   {
     "telegram_msg_id": 931,
@@ -17072,6 +17076,110 @@
     "side": "BUY",
     "usd": 73149.96609999999,
     "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1077,
+    "timestamp": 1786545467,
+    "username": "basementdweller3000",
+    "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 22991.8902,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1078,
+    "timestamp": 1786545324,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 73149.96609599999,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1079,
+    "timestamp": 1786545324,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "B8",
+    "side": "BUY",
+    "usd": 44848.6779,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1080,
+    "timestamp": 1786545225,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 26992.577999999998,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1081,
+    "timestamp": 1786545163,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 37392.087799999994,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1082,
+    "timestamp": 1786545163,
+    "username": "basementdweller3000",
+    "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "B8",
+    "side": "BUY",
+    "usd": 12300.0,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1083,
+    "timestamp": 1786545156,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 61624.45970110427,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1084,
+    "timestamp": 1786545156,
+    "username": "basementdweller3000",
+    "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "B8",
+    "side": "BUY",
+    "usd": 12219.354,
+    "odds_at_bet": 42,
     "status": "pending"
   }
 ]
