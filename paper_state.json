@@ -1,5 +1,5 @@
 {
-  "bankroll": 448.8496572088747,
+  "bankroll": 437.55820793351245,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18240,6 +18240,61 @@
       "timestamp": 1786545887.1574872,
       "bankroll": 448.85,
       "event": "lost: Djdjdjekekek \u2014 Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D"
+    },
+    {
+      "timestamp": 1786547256.6125083,
+      "bankroll": 488.23,
+      "event": "won: BBQChickenisthebesttt \u2014 LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786547256.9129257,
+      "bankroll": 537.08,
+      "event": "won: BBQChickenisthebesttt \u2014 LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786547258.1149578,
+      "bankroll": 537.08,
+      "event": "won: jtwyslljy \u2014 LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786547258.3153288,
+      "bankroll": 537.08,
+      "event": "won: jtwyslljy \u2014 LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786547322.368496,
+      "bankroll": 474.77,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786547322.4686341,
+      "bankroll": 466.51,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786547322.6689384,
+      "bankroll": 465.12,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786547322.7691371,
+      "bankroll": 459.34,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786547322.9695344,
+      "bankroll": 437.56,
+      "event": "lost: Djdjdjekekek \u2014 LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786547323.270155,
+      "bankroll": 437.56,
+      "event": "lost: Djdjdjekekek \u2014 LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786547324.1716235,
+      "bankroll": 437.56,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
     }
   ]
 }

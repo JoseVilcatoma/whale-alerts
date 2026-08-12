@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 10:06:47 (hora de Perú)
+Actualizado: 2026-08-12 10:08:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $448.85
-**Retorno acumulado:** -55.12%
+**Bankroll actual:** $437.56
+**Retorno acumulado:** -56.24%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 29 | 16 | 18 | +189.61 USD |
+| BBQChickenisthebesttt | 31 | 21 | 11 | +200.10 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 4 | 5 | 5 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 0 | 1 | +0.11 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
-| jtwyslljy | 0 | 1 | 2 | +0.00 USD |
+| jtwyslljy | 2 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | CORGI8 | 0 | 0 | 6 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
@@ -57,9 +57,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
-| Djdjdjekekek | 5 | 18 | 12 | -116.01 USD |
 | BrotherObama | 7 | 17 | 1 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
+| Djdjdjekekek | 5 | 20 | 10 | -137.79 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
