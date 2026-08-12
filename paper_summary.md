@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 17:54:21 (hora de Perú)
+Actualizado: 2026-08-12 17:56:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $487.96
@@ -14,9 +14,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 9 | 5 | +165.22 USD |
-| theowalcott | 17 | 4 | 21 | +143.32 USD |
+| theowalcott | 17 | 4 | 23 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 67 | 70 | 0 | +104.98 USD |
+| wr0ngw4yb3tt0r | 67 | 70 | 1 | +104.98 USD |
 | dv-pm | 4 | 6 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 136 | 110 | 26 | -62.81 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 3 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 4 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 2 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -455,7 +455,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-phi-stl-2026-08-12-total-9pt5 | 1winstreak1, HomeRunHazard |
 | lib-pal-cep-2026-08-12-spread-home-1pt5 | WTSA, ferrariChampions2026 |
 | lib-pal-cep-2026-08-12-total-2pt5 | WTSA, ferrariChampions2026 |
-| mlb-sea-nyy-2026-08-12-total-8pt5 | Sassy-Bucket, Weaseloftheweek |
+| mlb-sea-nyy-2026-08-12-total-8pt5 | Sassy-Bucket, Weaseloftheweek, wr0ngw4yb3tt0r |
 | mlb-col-ari-2026-08-12-spread-away-1pt5 | 1winstreak1, HomeRunHazard |
 | mlb-mil-sd-2026-08-12-spread-away-2pt5 | 1winstreak1, HomeRunHazard |
 | mlb-mil-sd-2026-08-12-total-5pt5 | 1winstreak1, HomeRunHazard |
@@ -464,6 +464,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 78% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
@@ -490,7 +494,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | Will Orlando City SC win on 2026-08-12? | No (BUY) | 46% | 38.36 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Colorado Rockies (-1.5) | Colorado Rockies (BUY) | 68% | 0.91 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 31% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 74% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 26% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 15% | 0.00 | ⏳ pendiente | — |
