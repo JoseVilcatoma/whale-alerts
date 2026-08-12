@@ -20710,5 +20710,57 @@
     "usd": 13402.7012,
     "odds_at_bet": 62,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1358,
+    "timestamp": 1786561450,
+    "username": "Daemon99",
+    "wallet": "0x8c406c3275517b345e9481c49125e9a6629780df",
+    "slug": "usc-psg-av-2026-08-12-draw",
+    "title": "Will Paris Saint-Germain vs. Aston Villa end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 20951.867391,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1359,
+    "timestamp": 1786561451,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tb-oak-2026-08-12",
+    "title": "Tampa Bay Rays vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 36632.5152,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1360,
+    "timestamp": 1786561451,
+    "username": "0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509",
+    "wallet": "0x0954184654a6a3720f5dde4103a42af4dd0e1e1b",
+    "slug": "mlb-tb-oak-2026-08-12",
+    "title": "Tampa Bay Rays vs. Athletics",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 105702.6544,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1361,
+    "timestamp": 1786561470,
+    "username": "0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509",
+    "wallet": "0x0954184654a6a3720f5dde4103a42af4dd0e1e1b",
+    "slug": "mlb-tb-oak-2026-08-12",
+    "title": "Tampa Bay Rays vs. Athletics",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 41716.739999,
+    "odds_at_bet": 69,
+    "status": "pending"
   }
 ]
