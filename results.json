@@ -8333,7 +8333,9 @@
     "side": "BUY",
     "usd": 15699.999998999998,
     "odds_at_bet": 57,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": -5508.77,
+    "precio_salida": 37
   },
   {
     "telegram_msg_id": 486,
@@ -8346,7 +8348,9 @@
     "side": "BUY",
     "usd": 15699.99999936,
     "odds_at_bet": 57,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": -5508.77,
+    "precio_salida": 37
   },
   {
     "telegram_msg_id": 487,
@@ -8501,6 +8505,19 @@
     "outcome": "Kansas City Royals",
     "side": "BUY",
     "usd": 13803.639997999999,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 500,
+    "timestamp": 1786508694,
+    "username": "johnny234",
+    "wallet": "0xd38ad20037839959d89165cf448568d584b28d26",
+    "slug": "mlb-kc-lad-2026-08-11",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "usd": 13803.63999822,
     "odds_at_bet": 62,
     "status": "pending"
   }
