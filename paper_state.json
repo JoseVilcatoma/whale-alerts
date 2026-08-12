@@ -1,5 +1,5 @@
 {
-  "bankroll": 558.7159705676428,
+  "bankroll": 555.3259705676428,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18400,6 +18400,16 @@
       "timestamp": 1786566318.1553042,
       "bankroll": 558.72,
       "event": "won: UpTheBlues \u2014 Spread: Eintracht Frankfurt (-3.5)"
+    },
+    {
+      "timestamp": 1786566629.1073723,
+      "bankroll": 555.33,
+      "event": "lost: UpTheBlues \u2014 Will FC K\u00f8benhavn win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786566631.712746,
+      "bankroll": 555.33,
+      "event": "lost: dv-pm \u2014 Will GKS GieKSa Katowice win on 2026-08-12?"
     }
   ]
 }

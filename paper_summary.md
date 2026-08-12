@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 15:28:34 (hora de Perú)
+Actualizado: 2026-08-12 15:30:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $558.72
-**Retorno acumulado:** -44.13%
+**Bankroll actual:** $555.33
+**Retorno acumulado:** -44.47%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 1 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| dv-pm | 4 | 5 | 2 | +89.49 USD |
+| dv-pm | 4 | 6 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 88 | 54 | +59.32 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
@@ -28,9 +28,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 114 | 97 | 8 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 254 | 156 | 11 | +4.25 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
+| UpTheBlues | 254 | 157 | 10 | +0.86 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
