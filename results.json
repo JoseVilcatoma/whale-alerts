@@ -26135,5 +26135,31 @@
     "usd": 15552.1489002,
     "odds_at_bet": 71,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1796,
+    "timestamp": 1786575280,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "lec-mon-nas-2026-08-12-mon",
+    "title": "Will CF Monterrey win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 10761.6101,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1797,
+    "timestamp": 1786575317,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-mil-sd-2026-08-12",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 17341.391,
+    "odds_at_bet": 58,
+    "status": "pending"
   }
 ]
