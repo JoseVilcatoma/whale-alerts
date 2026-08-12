@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 06:28:33 (hora de Perú)
+Actualizado: 2026-08-12 06:30:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1006**  ($20,962,427 en total)
+- Apuestas registradas: **1009**  ($21,059,293 en total)
 - Resueltas: **790** — 486 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 216
+- Pendientes: 219
 - Apostadores distintos: 112
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 41 | 0 | 41% | $1,811,081 | -$218,949 |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 19 | 28% | $1,608,454 | -$743,370 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 20 | 28% | $1,639,438 | -$743,370 |
 | AV23IUa | 23 | 11 | 27 | 68% | $1,601,781 | +$348,929 |
 | ferrariChampions2026 | 79 | 25 | 2 | 76% | $1,555,768 | +$58,976 |
 | Djdjdjekekek | 27 | 3 | 11 | 90% | $1,228,050 | +$494,952 |
@@ -57,13 +57,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 6 | — | $132,684 | — |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
 | Lakersfan111 | 1 | 0 | 9 | ⚠️ 100% (1) | $129,884 | +$9,167 |
+| ActionReaction | 0 | 0 | 5 | — | $127,693 | — |
 | TAIWANNUMBERONE | 0 | 1 | 7 | ⚠️ 0% (1) | $123,809 | -$17,114 |
 | ExplosiveNinja | 0 | 0 | 10 | — | $122,231 | — |
 | DonaldinhoTrumpito | 0 | 0 | 6 | — | $112,406 | — |
 | Marcoli | 2 | 0 | 3 | ⚠️ 100% (2) | $111,211 | +$28,966 |
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
 | Mylifeisover | 6 | 0 | 0 | ⚠️ 100% (6) | $106,449 | +$90,679 |
-| 0b1 | 6 | 0 | 0 | ⚠️ 100% (6) | $104,559 | +$21,905 |
 
 _(mostrando los 40 de mayor monto, de 112 en total)_
 
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 112 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.59 (63¢) | $52,261 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | KT Rolster | 2.70 (37¢) | $30,983 | — | ⏳ Pendiente |
+| ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.59 (63¢) | $13,622 | — | ⏳ Pendiente |
 | ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.59 (63¢) | $25,594 | — | ⏳ Pendiente |
 | retroactivesource | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.20 (83¢) | $20,981 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.45 (69¢) | $30,115 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 112 en total)_
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.56 (64¢) | $18,210 | — | ⏳ Pendiente |
 | johnny234 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.78 (36¢) | $12,489 | — | ⏳ Pendiente |
 | johnny234 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.78 (36¢) | $12,489 | — | ⏳ Pendiente |
-| MeiGuNiuBi | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.11 (90¢) | $10,691 | — | ⏳ Pendiente |
-| suanlimao6 | LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 1.59 (63¢) | $21,319 | +$4,737 | 💰 Vendida antes |
-| AV23IUa | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.12 (89¢) | $17,509 | — | ⏳ Pendiente |
