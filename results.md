@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 21:21:16 (hora de Perú)
+Actualizado: 2026-08-11 21:23:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **336**  ($6,821,091 en total)
+- Apuestas registradas: **344**  ($6,975,190 en total)
 - Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 220
+- Pendientes: 228
 - Apostadores distintos: 90
 
 ### Balance
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 25 | — | $652,598 | — |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 19 | 38% | $632,533 | -$139,198 |
-| ferrariChampions2026 | 23 | 0 | 14 | 100% | $550,748 | +$57,935 |
-| AV23IUa | 4 | 0 | 15 | ⚠️ 100% (4) | $541,933 | +$109,102 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 27 | — | $687,614 | — |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 20 | 38% | $648,954 | -$139,198 |
+| AV23IUa | 4 | 0 | 18 | ⚠️ 100% (4) | $613,464 | +$109,102 |
+| ferrariChampions2026 | 23 | 0 | 15 | 100% | $568,849 | +$57,935 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 19 | 0 | 0 | 100% | $415,077 | +$195,517 |
 | pleaseplease123 | 0 | 0 | 16 | — | $381,874 | — |
 | Weaseloftheweek | 3 | 1 | 1 | ⚠️ 75% (4) | $303,804 | +$7,132 |
@@ -71,10 +71,18 @@ _(mostrando los 40 de mayor monto, de 90 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Aleksandar Vukic | 1.67 (60¢) | $24,631 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Darwin Blanch | 2.50 (40¢) | $16,421 | — | ⏳ Pendiente |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Martin Damm | 1.96 (51¢) | $12,000 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $16,254 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $16,254 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $18,762 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.85 (54¢) | $18,101 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $18,762 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.85 (54¢) | $18,101 | — | ⏳ Pendiente |
+| AV23IUa | Counter-Strike: BIG vs Aurora Gaming (BO1) - Esports World Cup Group A | Aurora Gaming | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
+| ExplosiveNinja | Counter-Strike: BIG vs Aurora Gaming (BO1) - Esports World Cup Group A | BIG | 2.63 (38¢) | $13,031 | — | ⏳ Pendiente |
+| AV23IUa | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | Luminosity | 1.89 (53¢) | $15,900 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | Luminosity | 1.89 (53¢) | $15,900 | — | ⏳ Pendiente |
 | RN1 | Cincinnati Open, Qualification: Dominika Salkova vs Anna Blinkova | Anna Blinkova | 1.16 (86¢) | $10,136 | — | ⏳ Pendiente |
 | RN1 | Cincinnati Open, Qualification: Dominika Salkova vs Anna Blinkova | Anna Blinkova | 1.16 (86¢) | $10,136 | — | ⏳ Pendiente |
@@ -123,11 +131,3 @@ _(mostrando los 40 de mayor monto, de 90 en total)_
 | Sassy-Bucket | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $14,133 | — | ⏳ Pendiente |
 | Sassy-Bucket | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $11,450 | — | ⏳ Pendiente |
 | Sassy-Bucket | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $11,450 | — | ⏳ Pendiente |
-| winwin518168 | Washington Mystics vs. Las Vegas Aces | Washington Mystics | 3.33 (30¢) | $10,202 | — | ⏳ Pendiente |
-| winwin518168 | Washington Mystics vs. Las Vegas Aces | Washington Mystics | 3.33 (30¢) | $10,202 | — | ⏳ Pendiente |
-| Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under 9.5 | 2.22 (45¢) | $12,070 | — | ⏳ Pendiente |
-| Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under 9.5 | 2.22 (45¢) | $12,070 | — | ⏳ Pendiente |
-| Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under 10.5 | 1.92 (52¢) | $28,303 | — | ⏳ Pendiente |
-| winwin518168 | Spread: Los Angeles Sparks (-2.5) | Los Angeles Sparks | 2.04 (49¢) | $20,000 | — | ⏳ Pendiente |
-| quavoo | Will Tigres de la UANL win on 2026-08-11? | Yes | 1.49 (67¢) | $14,472 | — | ⏳ Pendiente |
-| WTSA | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC | 1.79 (56¢) | $16,800 | — | ⏳ Pendiente |
