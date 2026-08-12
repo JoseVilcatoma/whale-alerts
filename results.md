@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 06:01:31 (hora de Perú)
+Actualizado: 2026-08-12 06:03:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **972**  ($19,911,795 en total)
+- Apuestas registradas: **973**  ($19,923,655 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 183
+- Pendientes: 184
 - Apostadores distintos: 105
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 105 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SineNooneEI | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $11,860 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $10,343 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $10,343 | — | ⏳ Pendiente |
 | Lakersfan111 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.50 (40¢) | $10,334 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 105 en total)_
 | MeiGuNiuBi | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $12,600 | — | ⏳ Pendiente |
 | MeiGuNiuBi | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $12,600 | — | ⏳ Pendiente |
 | MeiGuNiuBi | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $12,600 | — | ⏳ Pendiente |
-| johnny234 | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.61 (62¢) | $13,654 | — | ⏳ Pendiente |
 | johnny234 | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.61 (62¢) | $13,654 | — | ⏳ Pendiente |
