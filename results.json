@@ -13022,5 +13022,44 @@
     "usd": 150463.88039999997,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 818,
+    "timestamp": 1786533876,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-mgc-mglz-2026-08-12",
+    "title": "Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 16602.8555,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 819,
+    "timestamp": 1786533928,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-g2-m80-2026-08-12",
+    "title": "Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A",
+    "outcome": "G2",
+    "side": "BUY",
+    "usd": 30115.222499999996,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 820,
+    "timestamp": 1786533936,
+    "username": "retroactivesource",
+    "wallet": "0x85d53efdd055aa88fb00a914f5615bfd585545ee",
+    "slug": "lol-kt-dk-2026-08-12",
+    "title": "LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 20981.0139,
+    "odds_at_bet": 83,
+    "status": "pending"
   }
 ]
