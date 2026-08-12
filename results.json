@@ -13607,5 +13607,18 @@
     "usd": 27037.037037000002,
     "odds_at_bet": 73,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 863,
+    "timestamp": 1786538760,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-nip-lgc-2026-08-12",
+    "title": "Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "usd": 17252.3965,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
