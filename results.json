@@ -12526,5 +12526,70 @@
     "usd": 10140.0,
     "odds_at_bet": 78,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 779,
+    "timestamp": 1786532237,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-kt-dk-2026-08-12",
+    "title": "LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "usd": 16515.6084,
+    "odds_at_bet": 36,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 780,
+    "timestamp": 1786532237,
+    "username": "0x8d83598759",
+    "wallet": "0x8d834f40b950244aa91edbe6d638be0409bad89c",
+    "slug": "lol-kt-dk-2026-08-12",
+    "title": "LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 11087.916799999999,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 781,
+    "timestamp": 1786532253,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-kt-dk-2026-08-12-game1",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 1 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "usd": 10334.480000000001,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 782,
+    "timestamp": 1786532253,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-kt-dk-2026-08-12-game1",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 15000.0,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 783,
+    "timestamp": 1786532264,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-kt-dk-2026-08-12-game1",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 10342.6292,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]

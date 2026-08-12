@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 05:57:17 (hora de Perú)
+Actualizado: 2026-08-12 05:59:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **962**  ($19,785,233 en total)
+- Apuestas registradas: **967**  ($19,848,514 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 173
-- Apostadores distintos: 104
+- Pendientes: 178
+- Apostadores distintos: 105
 
 ### Balance
 
@@ -60,17 +60,22 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
 | Mylifeisover | 6 | 0 | 0 | ⚠️ 100% (6) | $106,449 | +$90,679 |
 | 0b1 | 6 | 0 | 0 | ⚠️ 100% (6) | $104,559 | +$21,905 |
+| Lakersfan111 | 1 | 0 | 7 | ⚠️ 100% (1) | $103,034 | +$9,167 |
 | phonesculptor | 0 | 8 | 0 | 0% | $91,088 | -$91,088 |
 | AGUGava | 5 | 2 | 0 | ⚠️ 71% (7) | $88,581 | +$26,063 |
 | five5120 | 2 | 0 | 4 | ⚠️ 100% (2) | $88,077 | +$2,075 |
-| paquitomillonario | 0 | 6 | 0 | ⚠️ 0% (6) | $83,776 | -$83,776 |
 
-_(mostrando los 40 de mayor monto, de 104 en total)_
+_(mostrando los 40 de mayor monto, de 105 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $10,343 | — | ⏳ Pendiente |
+| Lakersfan111 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.50 (40¢) | $10,334 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.67 (60¢) | $15,000 | — | ⏳ Pendiente |
+| Lakersfan111 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.78 (36¢) | $16,516 | — | ⏳ Pendiente |
+| 0x8d83598759 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.56 (64¢) | $11,088 | — | ⏳ Pendiente |
 | SineNooneEI | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.28 (78¢) | $10,140 | — | ⏳ Pendiente |
 | five5120 | LoL: EDward Gaming vs Anyone's Legend - Game 2 Winner | Anyone's Legend | 1.09 (92¢) | $10,400 | — | ⏳ Pendiente |
 | xfile | Will Paris Saint-Germain win on 2026-08-12? | No | 2.33 (43¢) | $12,900 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 104 en total)_
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: AL (-1.5) vs EDward Gaming (+1.5) | Anyones Legend | 1.45 (69¢) | $10,390 | — | ⏳ Pendiente |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: AL (-1.5) vs EDward Gaming (+1.5) | Anyone's Legend | 1.45 (69¢) | $10,390 | — | ⏳ Pendiente |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: NS (-1.5) vs DN SOOPers (+1.5) | DN SOOPers | 1.49 (67¢) | $10,050 | — | ⏳ Pendiente |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: NS (-1.5) vs DN SOOPers (+1.5) | DN SOOPers | 1.49 (67¢) | $10,050 | — | ⏳ Pendiente |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: NS (-1.5) vs DN SOOPers (+1.5) | DN SOOPers | 1.49 (67¢) | $10,050 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 2.44 (41¢) | $13,328 | -$13,328 | ❌ Perdida |
-| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.69 (59¢) | $17,326 | +$12,040 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 2.44 (41¢) | $13,328 | -$13,328 | ❌ Perdida |
