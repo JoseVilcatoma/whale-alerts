@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 17:27:22 (hora de Perú)
+Actualizado: 2026-08-12 17:29:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1965**  ($53,199,274 en total)
-- Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
+- Apuestas registradas: **1969**  ($53,335,071 en total)
+- Resueltas: **1353** — 804 ganadas / 549 perdidas (**59%** de acierto)
 - Pendientes: 616
 - Apostadores distintos: 174
 
 ### Balance
 
-- **Resultado de los apostadores: -$230,308** sobre $31,923,019 apostados (ROI **-0.7%**)
+- **Resultado de los apostadores: -$248,178** sobre $31,994,499 apostados (ROI **-0.8%**)
 - Copiando $100 fijo en cada una: **-$943** sobre $131,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 52 | 43% | $8,806,687 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 15 | 35% | $2,949,710 | -$564,452 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 17 | 35% | $3,033,939 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 47 | 77% | $2,601,386 | +$168,085 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
 | pleaseplease123 | 0 | 44 | 29 | 0% | $2,108,803 | -$1,082,423 |
@@ -34,9 +34,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 12 | 8 | 0% | $1,483,516 | -$803,506 |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
 | Sassy-Bucket | 14 | 16 | 3 | 47% | $699,014 | -$118,892 |
+| wr0ngw4yb3tt0r | 9 | 6 | 13 | 60% | $689,148 | +$13,912 |
 | S-Works | 0 | 0 | 6 | — | $688,936 | — |
 | musholius722 | 0 | 0 | 2 | — | $681,015 | — |
-| wr0ngw4yb3tt0r | 9 | 6 | 12 | 60% | $652,580 | +$13,912 |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 0 | 0 | 10 | — | $606,368 | — |
 | texaskid | 18 | 0 | 0 | 100% | $598,663 | +$455,165 |
 | SDTrading | 25 | 6 | 0 | 81% | $566,130 | +$328,056 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 174 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $36,568 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.82 (55¢) | $33,228 | — | ⏳ Pendiente |
+| Satisfied | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 2.22 (45¢) | $15,000 | — | ⏳ Pendiente |
 | Satisfied | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 2.22 (45¢) | $15,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.82 (55¢) | $33,228 | — | ⏳ Pendiente |
 | pleaseplease123 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.17 (46¢) | $14,302 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 174 en total)_
 | 1winstreak1 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.85 (54¢) | $12,906 | — | ⏳ Pendiente |
 | 1winstreak1 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.85 (54¢) | $12,906 | — | ⏳ Pendiente |
 | MODDI | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.25 (80¢) | $17,190 | — | ⏳ Pendiente |
-| MODDI | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.25 (80¢) | $17,190 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.15 (87¢) | $17,271 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.15 (87¢) | $17,271 | — | ⏳ Pendiente |
-| jarosbill | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 1.69 (59¢) | $10,554 | — | ⏳ Pendiente |

@@ -18457,7 +18457,9 @@
     "side": "BUY",
     "usd": 15464.538461000002,
     "odds_at_bet": 48,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": -3866.13,
+    "precio_salida": 36
   },
   {
     "telegram_msg_id": 1183,
@@ -18537,7 +18539,9 @@
     "side": "BUY",
     "usd": 15464.538460799999,
     "odds_at_bet": 48,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": -3866.13,
+    "precio_salida": 36
   },
   {
     "telegram_msg_id": 1189,
@@ -22363,7 +22367,9 @@
     "side": "BUY",
     "usd": 15464.538460799999,
     "odds_at_bet": 48,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": -3866.13,
+    "precio_salida": 36
   },
   {
     "telegram_msg_id": 1558,
@@ -24163,7 +24169,9 @@
     "side": "BUY",
     "usd": 25086.8016,
     "odds_at_bet": 48,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": -6271.7,
+    "precio_salida": 36
   },
   {
     "telegram_msg_id": 1642,
@@ -25606,6 +25614,58 @@
     "side": "BUY",
     "usd": 33228.2445,
     "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1756,
+    "timestamp": 1786573563,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-sea-nyy-2026-08-12-total-8pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 51000.0,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1757,
+    "timestamp": 1786573563,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-sea-nyy-2026-08-12-total-8pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 36567.9993,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1758,
+    "timestamp": 1786573392,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bos-tor-2026-08-12",
+    "title": "Boston Red Sox vs. Toronto Blue Jays",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 33228.2445,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1759,
+    "timestamp": 1786573392,
+    "username": "Satisfied",
+    "wallet": "0x1ab3580b6d258e31ca0a3efdb93173d081dd64af",
+    "slug": "mlb-bos-tor-2026-08-12",
+    "title": "Boston Red Sox vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 15000.300000000001,
+    "odds_at_bet": 45,
     "status": "pending"
   }
 ]
