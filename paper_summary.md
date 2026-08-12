@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 16:53:54 (hora de Perú)
+Actualizado: 2026-08-12 16:55:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $571.83
@@ -41,10 +41,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
-| Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
+| Weaseloftheweek | 0 | 2 | 1 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| 1winstreak1 | 132 | 99 | 23 | -4.26 USD |
+| 1winstreak1 | 132 | 99 | 25 | -4.26 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
@@ -452,11 +452,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-mil-sd-2026-08-12-total-8pt5 | 1winstreak1, SDTrading, dv-pm |
 | mlb-phi-stl-2026-08-12-total-8pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-phi-stl-2026-08-12-total-9pt5 | 1winstreak1, HomeRunHazard |
+| mlb-sea-nyy-2026-08-12-total-8pt5 | Sassy-Bucket, Weaseloftheweek |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 52% | 1.69 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Colorado Rockies (-2.5) | Arizona Diamondbacks (BUY) | 46% | 3.16 | ⏳ pendiente | — |
+| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 57% | 6.79 | ⏳ pendiente | — |
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 2.29 | ⏳ pendiente | — |
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 5.20 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Colorado Rockies (-1.5) | Arizona Diamondbacks (BUY) | 20% | 1.17 | ⏳ pendiente | — |
@@ -484,6 +488,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Colorado Rockies (BUY) | 80% | 2.71 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Colorado Rockies (-2.5) | Colorado Rockies (BUY) | 39% | 0.93 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 63% | 0.68 | ✅ ganada | +0.40 |
-| 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 58% | 2.61 | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 97% | 4.82 | ✅ ganada | +0.15 |
-| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 93% | 0.63 | ✅ ganada | +0.05 |
