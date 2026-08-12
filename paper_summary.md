@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 04:39:43 (hora de Perú)
+Actualizado: 2026-08-12 04:41:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
-| AV23IUa | 3 | 3 | 6 | +46.51 USD |
+| AV23IUa | 3 | 3 | 7 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 65 | 69 | 0 | +23.18 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -54,10 +54,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 65 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 69 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
-| BrotherObama | 7 | 17 | 4 | -121.31 USD |
+| BrotherObama | 7 | 17 | 6 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
@@ -447,11 +447,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 | lol-dnf-ns-2026-08-12 | BrotherObama, ferrariChampions2026 |
+| lol-edg-al-2026-08-12 | BrotherObama, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: EDward Gaming vs Anyone's Legend (B | EDward Gaming (BUY) | 22% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 78% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| BrotherObama | LoL: EDward Gaming vs Anyone's Legend (B | EDward Gaming (BUY) | 24% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 44% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | EDward Gaming (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: FUT Esports vs TYLOO (BO | TYLOO (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | Aurora Gaming (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | BIG (BUY) | 54% | 0.00 | ⏳ pendiente | — |
@@ -475,10 +483,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 79% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 89% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | BIG (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 83% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Luminosity vs GamerLegio | GamerLegion (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: FaZe Up Next vs B8 Acade | FaZe Up Next (BUY) | 24% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 82% | 0.00 | ⏳ pendiente | — |
