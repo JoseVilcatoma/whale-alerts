@@ -35,10 +35,6 @@
     "username": "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
     "added_at": 1785833405.8106081
   },
-  "0xdc41c39b95453c943174f369926018f6963bdd7e": {
-    "username": "quavoo",
-    "added_at": 1785833405.8106081
-  },
   "0x13fa4ce1b8a27dd0b7a72db6205a50ee6ff0954c": {
     "username": "betterfasterstronger",
     "added_at": 1785872798.7352197
@@ -230,5 +226,17 @@
   "0xf0318c32136c2db7fec88b84869aee6a1106c80c": {
     "username": "BreakTheBank",
     "added_at": 1786566640.6793187
+  },
+  "0x4b341d4612437b6e5b5fbcf98e5b675dbacf48a8": {
+    "username": "musholius722",
+    "added_at": 1786569452.0879831
+  },
+  "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21": {
+    "username": "HongYunX",
+    "added_at": 1786569452.0879831
+  },
+  "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
+    "username": "",
+    "added_at": 1786569452.0879831
   }
 }
