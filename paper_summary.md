@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:35:27 (hora de Perú)
+Actualizado: 2026-08-11 21:37:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $429.69
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 3 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 5 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -446,7 +446,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 | sud-bol-sao-2026-08-11-total-3pt5 | ferrariChampions2026, swisstony |
 | wnba-phx-la-2026-08-11 | ferrariChampions2026, swisstony |
-| wnba-wsh-las-2026-08-11 | ferrariChampions2026, swisstony |
+| wnba-wsh-las-2026-08-11 | 1winstreak1, ferrariChampions2026, swisstony |
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 | mlb-tb-oak-2026-08-11-total-10pt5 | 1winstreak1, RN1 |
 
@@ -454,6 +454,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Washington Mystics vs. Las Vegas Aces | Washington Mystics (BUY) | 30% | 2.85 | ⏳ pendiente | — |
+| 1winstreak1 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 70% | 1.09 | ⏳ pendiente | — |
 | swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 49% | 1.13 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under (BUY) | 43% | 16.56 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 59% | 1.24 | ⏳ pendiente | — |
@@ -482,5 +484,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.60 | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 56% | 0.51 | ⏳ pendiente | — |
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ⏳ pendiente | — |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 53% | 0.48 | ⏳ pendiente | — |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 48% | 0.59 | ⏳ pendiente | — |
