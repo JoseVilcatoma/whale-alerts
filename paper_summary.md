@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 02:35:18 (hora de Perú)
+Actualizado: 2026-08-12 02:39:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $444.15
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 114 | 97 | 7 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 244 | 151 | 9 | +4.80 USD |
+| UpTheBlues | 244 | 151 | 10 | +4.80 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
@@ -450,6 +450,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.44 | ⏳ pendiente | — |
 | Gaditima | Valorant: All Gamers vs TEC Esports (BO3 | All Gamers (BUY) | 66% | 0.46 | ⏳ pendiente | — |
 | Gaditima | Will annual inflation be 3.3% in July? | No (BUY) | 54% | 3.53 | ⏳ pendiente | — |
 | Gaditima | Will annual inflation be 3.4% in July? | Yes (BUY) | 42% | 1.81 | ⏳ pendiente | — |
@@ -479,4 +480,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ❌ perdida | -0.46 |
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 53% | 0.48 | ❌ perdida | -0.48 |
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 48% | 0.59 | ✅ ganada | +0.64 |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ❌ perdida | -0.46 |
