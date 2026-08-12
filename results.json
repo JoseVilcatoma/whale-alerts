@@ -25510,7 +25510,9 @@
     "side": "BUY",
     "usd": 13066.0,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": 834.0,
+    "precio_salida": 50
   },
   {
     "telegram_msg_id": 1747,
@@ -25549,7 +25551,9 @@
     "side": "BUY",
     "usd": 13066.0,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": 834.0,
+    "precio_salida": 50
   },
   {
     "telegram_msg_id": 1750,
@@ -26446,6 +26450,19 @@
     "side": "BUY",
     "usd": 10601.359998999998,
     "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1821,
+    "timestamp": 1786576411,
+    "username": "tennischamp",
+    "wallet": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
+    "slug": "atp-jodar-nakashi-2026-08-12",
+    "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 17018.2772,
+    "odds_at_bet": 76,
     "status": "pending"
   }
 ]

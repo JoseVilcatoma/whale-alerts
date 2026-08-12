@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 18:12:39 (hora de Perú)
+Actualizado: 2026-08-12 18:15:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2029**  ($54,655,741 en total)
-- Resueltas: **1353** — 804 ganadas / 549 perdidas (**59%** de acierto)
-- Pendientes: 676
+- Apuestas registradas: **2030**  ($54,672,759 en total)
+- Resueltas: **1355** — 806 ganadas / 549 perdidas (**59%** de acierto)
+- Pendientes: 675
 - Apostadores distintos: 178
 
 ### Balance
 
-- **Resultado de los apostadores: -$248,178** sobre $31,994,499 apostados (ROI **-0.8%**)
+- **Resultado de los apostadores: -$246,510** sobre $32,020,631 apostados (ROI **-0.8%**)
 - Copiando $100 fijo en cada una: **-$943** sobre $131,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 12 | 10 | 0% | $1,543,814 | -$803,506 |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
 | wr0ngw4yb3tt0r | 9 | 6 | 14 | 60% | $725,898 | +$13,912 |
-| Sassy-Bucket | 14 | 16 | 4 | 47% | $711,616 | -$118,892 |
+| Sassy-Bucket | 16 | 16 | 2 | 50% | $711,616 | -$117,224 |
 | S-Works | 0 | 0 | 6 | — | $688,936 | — |
 | musholius722 | 0 | 0 | 2 | — | $681,015 | — |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 0 | 0 | 10 | — | $606,368 | — |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 178 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tennischamp | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.32 (76¢) | $17,018 | — | ⏳ Pendiente |
 | afraz | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.23 (81¢) | $10,601 | — | ⏳ Pendiente |
 | Ditto321 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.67 (60¢) | $15,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | New York Mets vs. Atlanta Braves | New York Mets | 2.70 (37¢) | $12,603 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 178 en total)_
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $21,440 | — | ⏳ Pendiente |
 | one8tyfive | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.67 (60¢) | $11,923 | — | ⏳ Pendiente |
 | one8tyfive | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.67 (60¢) | $11,923 | — | ⏳ Pendiente |
-| pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $10,829 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $10,829 | — | ⏳ Pendiente |
