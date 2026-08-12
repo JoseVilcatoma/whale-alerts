@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 09:52:58 (hora de Perú)
+Actualizado: 2026-08-12 09:55:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1332**  ($29,922,333 en total)
+- Apuestas registradas: **1338**  ($30,206,555 en total)
 - Resueltas: **938** — 566 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 394
+- Pendientes: 400
 - Apostadores distintos: 124
 
 ### Balance
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 49 | 28% | $3,909,868 | -$789,178 |
-| Djdjdjekekek | 36 | 12 | 47 | 75% | $3,512,528 | +$573,956 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 50 | 28% | $4,012,523 | -$789,178 |
+| Djdjdjekekek | 36 | 12 | 49 | 75% | $3,663,043 | +$573,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 0 | 36% | $2,039,712 | -$421,290 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
-| ferrariChampions2026 | 90 | 29 | 8 | 76% | $1,826,831 | +$113,934 |
+| ferrariChampions2026 | 90 | 29 | 9 | 76% | $1,837,683 | +$113,934 |
 | Weaseloftheweek | 11 | 2 | 5 | 85% | $1,416,109 | +$518,388 |
 | pleaseplease123 | 0 | 44 | 3 | 0% | $1,132,533 | -$1,082,423 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
@@ -71,10 +71,16 @@ _(mostrando los 40 de mayor monto, de 124 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.96 (51¢) | $102,655 | — | ⏳ Pendiente |
+| spnir | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.96 (51¢) | $10,200 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | BetBoom Team | 2.13 (47¢) | $14,891 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | BetBoom Team | 2.04 (49¢) | $135,625 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.67 (60¢) | $10,852 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.67 (60¢) | $10,852 | — | ⏳ Pendiente |
 | skyman44 | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | BetBoom Team | 2.17 (46¢) | $10,358 | — | ⏳ Pendiente |
 | CORGI8 | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.85 (54¢) | $12,160 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.59 (63¢) | $11,844 | — | ⏳ Pendiente |
+| vananal0318 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.25 (80¢) | $10,000 | — | ⏳ Pendiente |
 | vananal0318 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.25 (80¢) | $10,000 | — | ⏳ Pendiente |
 | ohehe | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.61 (62¢) | $11,761 | — | ⏳ Pendiente |
 | ohehe | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.61 (62¢) | $11,274 | — | ⏳ Pendiente |
@@ -125,9 +131,3 @@ _(mostrando los 40 de mayor monto, de 124 en total)_
 | Marcoli | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.47 (68¢) | $36,522 | — | ⏳ Pendiente |
 | suntori | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 9.09 (11¢) | $10,371 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.12 (89¢) | $40,852 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.12 (89¢) | $43,063 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | BetBoom Team | 2.00 (50¢) | $15,819 | -$1,266 | 💰 Vendida antes |
-| Lakersfan111 | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 2.00 (50¢) | $10,000 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | BetBoom Team | 2.08 (48¢) | $40,479 | -$3,238 | 💰 Vendida antes |
-| ExplosiveNinja | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.92 (52¢) | $38,473 | — | ⏳ Pendiente |
-| skyman44 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.33 (75¢) | $37,500 | — | ⏳ Pendiente |
