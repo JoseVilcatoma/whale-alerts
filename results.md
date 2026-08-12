@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 19:51:44 (hora de Perú)
+Actualizado: 2026-08-11 19:53:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **263**  ($5,565,089 en total)
+- Apuestas registradas: **264**  ($5,582,239 en total)
 - Resueltas: **114** — 91 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 149
-- Apostadores distintos: 83
+- Pendientes: 150
+- Apostadores distintos: 84
 
 ### Balance
 
@@ -65,7 +65,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 0 | 2 | — | $23,866 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
 
-_(mostrando los 40 de mayor monto, de 83 en total)_
+_(mostrando los 40 de mayor monto, de 84 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
@@ -74,6 +74,7 @@ _(mostrando los 40 de mayor monto, de 83 en total)_
 | AV23IUa | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Marcos Giron | 1.47 (68¢) | $37,902 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Henrique Rocha | 3.12 (32¢) | $11,770 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Mackenzie McDonald vs Yibing Wu | Mackenzie McDonald | 1.92 (52¢) | $17,000 | — | ⏳ Pendiente |
+| KioskJammer | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 2.04 (49¢) | $17,150 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Texas Rangers (-1.5) | Texas Rangers | 2.17 (46¢) | $11,167 | — | ⏳ Pendiente |
 | Elaran1993 | Spread: Texas Rangers (-1.5) | Los Angeles Angels | 1.85 (54¢) | $13,110 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Texas Rangers (-1.5) | Texas Rangers | 2.17 (46¢) | $11,167 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 83 en total)_
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $22,040 | — | ⏳ Pendiente |
 | mikesports | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $18,774 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.72 (58¢) | $11,600 | — | ⏳ Pendiente |
-| xifutloong3 | Pittsburgh Pirates vs. Miami Marlins | Miami Marlins | 1.82 (55¢) | $27,441 | — | ⏳ Pendiente |

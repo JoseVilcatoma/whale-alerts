@@ -3423,5 +3423,18 @@
     "usd": 37901.6768,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 156,
+    "timestamp": 1786495650,
+    "username": "KioskJammer",
+    "wallet": "0x0e64bde21d716711fbe59095eb0c88fae55e336d",
+    "slug": "mlb-bos-tor-2026-08-11",
+    "title": "Boston Red Sox vs. Toronto Blue Jays",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 17150.0,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]
