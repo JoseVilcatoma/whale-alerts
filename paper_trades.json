@@ -80457,5 +80457,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786529980.7879772,
     "fills": 6
+  },
+  {
+    "timestamp": 1786530109,
+    "timestamp_added": 1786530109.3750885,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "cs2-ts7-jjh-2026-08-12",
+    "title": "Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A",
+    "outcome": "JiJieHao",
+    "side": "BUY",
+    "whale_usd": 67.56,
+    "whale_pct": 0.103,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 10,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786530109.3750963,
+    "fills": 1
   }
 ]
