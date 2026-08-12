@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 21:04:30 (hora de Perú)
+Actualizado: 2026-08-11 21:06:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **320**  ($6,587,922 en total)
+- Apuestas registradas: **325**  ($6,645,320 en total)
 - Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 204
-- Apostadores distintos: 87
+- Pendientes: 209
+- Apostadores distintos: 89
 
 ### Balance
 
@@ -26,10 +26,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 19 | 38% | $632,533 | -$139,198 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 23 | — | $617,582 | — |
+| ferrariChampions2026 | 23 | 0 | 13 | 100% | $532,648 | +$57,935 |
 | AV23IUa | 4 | 0 | 14 | ⚠️ 100% (4) | $526,033 | +$109,102 |
-| ferrariChampions2026 | 23 | 0 | 12 | 100% | $521,947 | +$57,935 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 19 | 0 | 0 | 100% | $415,077 | +$195,517 |
-| pleaseplease123 | 0 | 0 | 13 | — | $345,140 | — |
+| pleaseplease123 | 0 | 0 | 15 | — | $369,541 | — |
 | Weaseloftheweek | 3 | 1 | 1 | ⚠️ 75% (4) | $303,804 | +$7,132 |
 | BreakTheBank | 0 | 0 | 4 | — | $267,835 | — |
 | SDTrading | 0 | 0 | 11 | — | $201,460 | — |
@@ -65,12 +65,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jaytee158 | 2 | 0 | 0 | ⚠️ 100% (2) | $26,651 | +$4,349 |
 | Elaran1993 | 0 | 0 | 2 | — | $26,219 | — |
 
-_(mostrando los 40 de mayor monto, de 87 en total)_
+_(mostrando los 40 de mayor monto, de 89 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $10,547 | — | ⏳ Pendiente |
+| pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,333 | — | ⏳ Pendiente |
+| purplegatto | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $11,750 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $10,701 | — | ⏳ Pendiente |
+| pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,067 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,067 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $10,701 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.64 (61¢) | $18,888 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 87 en total)_
 | pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $26,152 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Marcos Giron | 1.47 (68¢) | $37,902 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Henrique Rocha | 3.12 (32¢) | $11,770 | — | ⏳ Pendiente |
-| AV23IUa | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Marcos Giron | 1.47 (68¢) | $37,902 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Henrique Rocha | 3.12 (32¢) | $11,770 | — | ⏳ Pendiente |
-| AV23IUa | Cincinnati Open, Qualification: Mackenzie McDonald vs Yibing Wu | Mackenzie McDonald | 1.92 (52¢) | $17,000 | — | ⏳ Pendiente |
-| AV23IUa | Cincinnati Open, Qualification: Mackenzie McDonald vs Yibing Wu | Mackenzie McDonald | 1.92 (52¢) | $17,000 | — | ⏳ Pendiente |
-| KioskJammer | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 2.04 (49¢) | $17,150 | — | ⏳ Pendiente |

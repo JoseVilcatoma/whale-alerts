@@ -4168,5 +4168,70 @@
     "usd": 27555.28,
     "odds_at_bet": 62,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 215,
+    "timestamp": 1786500336,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-kc-lad-2026-08-11-total-8pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 12333.1,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 216,
+    "timestamp": 1786500336,
+    "username": "purplegatto",
+    "wallet": "0x032eb1bc893940263ad0b01889f262fc232f2a9e",
+    "slug": "mlb-kc-lad-2026-08-11-total-8pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 11750.0,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 217,
+    "timestamp": 1786500337,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "mlb-kc-lad-2026-08-11-total-8pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 10546.8144,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 218,
+    "timestamp": 1786500042,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-kc-lad-2026-08-11-total-8pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 10701.23999921,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 219,
+    "timestamp": 1786500042,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-kc-lad-2026-08-11-total-8pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 12067.355743790002,
+    "odds_at_bet": 53,
+    "status": "pending"
   }
 ]
