@@ -1,5 +1,5 @@
 {
-  "bankroll": 308.9874870063279,
+  "bankroll": 308.857487006328,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -16590,6 +16590,106 @@
       "timestamp": 1786497559.5789578,
       "bankroll": 308.99,
       "event": "lost: Sassy-Bucket \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1786499051.3005538,
+      "bankroll": 308.99,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago Cubs vs. Washington Nationals: O/U 12.5"
+    },
+    {
+      "timestamp": 1786499093.4404383,
+      "bankroll": 308.99,
+      "event": "won: HomeRunHazard \u2014 New York Mets vs. Atlanta Braves: O/U 8.5"
+    },
+    {
+      "timestamp": 1786499098.5580614,
+      "bankroll": 308.99,
+      "event": "lost: BrotherObama \u2014 LoL: Team Solid vs 7REX (BO3) - Circuito Desafiante Play-In"
+    },
+    {
+      "timestamp": 1786499098.6582966,
+      "bankroll": 308.99,
+      "event": "lost: BrotherObama \u2014 LoL: Team Solid vs 7REX (BO3) - Circuito Desafiante Play-In"
+    },
+    {
+      "timestamp": 1786499098.7584996,
+      "bankroll": 308.99,
+      "event": "lost: BrotherObama \u2014 LoL: Team Solid vs 7REX (BO3) - Circuito Desafiante Play-In"
+    },
+    {
+      "timestamp": 1786499099.6030269,
+      "bankroll": 307.53,
+      "event": "lost: BrotherObama \u2014 LoL: Team Solid vs 7REX (BO3) - Circuito Desafiante Play-In"
+    },
+    {
+      "timestamp": 1786499099.7032177,
+      "bankroll": 307.13,
+      "event": "lost: quavoo \u2014 New York Mets vs. Atlanta Braves: O/U 8.5"
+    },
+    {
+      "timestamp": 1786499100.036337,
+      "bankroll": 306.76,
+      "event": "lost: quavoo \u2014 New York Mets vs. Atlanta Braves: O/U 7.5"
+    },
+    {
+      "timestamp": 1786499101.0889838,
+      "bankroll": 305.67,
+      "event": "lost: BrotherObama \u2014 LoL: Team Solid vs 7REX (BO3) - Circuito Desafiante Play-In"
+    },
+    {
+      "timestamp": 1786499103.5910685,
+      "bankroll": 305.67,
+      "event": "lost: BrotherObama \u2014 LoL: Team Solid vs 7REX (BO3) - Circuito Desafiante Play-In"
+    },
+    {
+      "timestamp": 1786499105.3708978,
+      "bankroll": 305.67,
+      "event": "lost: BrotherObama \u2014 LoL: Team Solid vs 7REX (BO3) - Circuito Desafiante Play-In"
+    },
+    {
+      "timestamp": 1786499106.0996118,
+      "bankroll": 305.67,
+      "event": "lost: BrotherObama \u2014 LoL: Team Solid vs 7REX (BO3) - Circuito Desafiante Play-In"
+    },
+    {
+      "timestamp": 1786499106.1997898,
+      "bankroll": 308.86,
+      "event": "won: Sassy-Bucket \u2014 New York Mets vs. Atlanta Braves: O/U 8.5"
+    },
+    {
+      "timestamp": 1786499119.8460617,
+      "bankroll": 308.86,
+      "event": "won: Sassy-Bucket \u2014 New York Mets vs. Atlanta Braves: O/U 8.5"
+    },
+    {
+      "timestamp": 1786499121.3447726,
+      "bankroll": 308.86,
+      "event": "lost: RN1 \u2014 Spread: Cleveland Guardians (-1.5)"
+    },
+    {
+      "timestamp": 1786499121.4450145,
+      "bankroll": 308.86,
+      "event": "won: HomeRunHazard \u2014 Spread: Cleveland Guardians (-1.5)"
+    },
+    {
+      "timestamp": 1786499122.850883,
+      "bankroll": 308.86,
+      "event": "won: Sassy-Bucket \u2014 New York Mets vs. Atlanta Braves: O/U 8.5"
+    },
+    {
+      "timestamp": 1786499126.1827216,
+      "bankroll": 308.86,
+      "event": "lost: swisstony \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786499130.3311052,
+      "bankroll": 308.86,
+      "event": "won: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786499131.5471034,
+      "bankroll": 308.86,
+      "event": "won: RN1 \u2014 Spread: New York Mets (-1.5)"
     }
   ]
 }
