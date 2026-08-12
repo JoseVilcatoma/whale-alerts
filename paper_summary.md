@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 04:18:53 (hora de Perú)
+Actualizado: 2026-08-12 04:20:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 114 | 97 | 7 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 249 | 151 | 7 | +5.66 USD |
+| UpTheBlues | 249 | 151 | 9 | +5.66 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 30 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 33 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | BrotherObama | 7 | 17 | 4 | -121.31 USD |
@@ -452,6 +452,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: FaZe Up Next vs B8 Acade | B8 Academy (BUY) | 82% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | SK Rapid Wien vs. Paide Linnameeskond: P | Under (BUY) | 98% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | SK Rapid Wien vs. Paide Linnameeskond: P | Under (BUY) | 98% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Luminosity vs GamerLegio | Luminosity (BUY) | 28% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Luminosity vs GamerLegio | GamerLegion (BUY) | 78% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | Aurora Gaming (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | BIG (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | Nongshim Red Force (BUY) | 8% | 0.00 | ⏳ pendiente | — |
@@ -477,8 +482,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | DN SOOPers (BUY) | 10% | 0.55 | ⏳ pendiente | — |
 | BrotherObama | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 28% | 84.52 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | Nongshim Red Force (BUY) | 82% | 0.81 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | DN SOOPers (BUY) | 22% | 1.02 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | DN SOOPers (BUY) | 26% | 1.41 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | DN SOOPers (BUY) | 25% | 2.25 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | Nongshim Red Force (BUY) | 68% | 5.18 | ⏳ pendiente | — |
-| Gaditima | Will Valencia CF win on 2026-08-12? | Yes (BUY) | 72% | 1.74 | ⏳ pendiente | — |
