@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 16:29:19 (hora de Perú)
+Actualizado: 2026-08-12 16:31:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1931**  ($52,465,821 en total)
+- Apuestas registradas: **1932**  ($52,480,682 en total)
 - Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
-- Pendientes: 582
+- Pendientes: 583
 - Apostadores distintos: 172
 
 ### Balance
@@ -50,8 +50,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | 0x076d…8d4c | 8 | 0 | 11 | 100% | $343,000 | +$45,411 |
+| theowalcott | 21 | 0 | 1 | 100% | $333,694 | +$226,502 |
 | bigspending | 0 | 0 | 5 | — | $333,212 | — |
-| theowalcott | 21 | 0 | 0 | 100% | $318,833 | +$226,502 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | casualbet2020 | 0 | 0 | 6 | — | $304,949 | — |
 | Feromont | 9 | 0 | 4 | 100% | $304,372 | +$55,222 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 172 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will CA Tigre win on 2026-08-12? | No | 2.00 (50¢) | $14,861 | — | ⏳ Pendiente |
 | vtcchampion52 | Will Kai and Speed beat the Minecraft challenge by August 13? | Yes | 1.14 (88¢) | $13,779 | — | ⏳ Pendiente |
 | zb8 | Will Kai and Speed beat the Minecraft challenge by August 13? | Yes | 1.11 (90¢) | $18,419 | — | ⏳ Pendiente |
 | WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U 2.5 | Over 2.5 | 2.13 (47¢) | $10,103 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 172 en total)_
 | highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $28,052 | — | ⏳ Pendiente |
 | highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $28,052 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $29,197 | — | ⏳ Pendiente |
-| highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $71,238 | — | ⏳ Pendiente |
