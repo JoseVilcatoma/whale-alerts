@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 17:57:52 (hora de Perú)
+Actualizado: 2026-08-12 18:00:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2011**  ($54,245,811 en total)
+- Apuestas registradas: **2017**  ($54,355,183 en total)
 - Resueltas: **1353** — 804 ganadas / 549 perdidas (**59%** de acierto)
-- Pendientes: 658
+- Pendientes: 664
 - Apostadores distintos: 177
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 55 | 43% | $8,889,723 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 23 | 35% | $3,221,135 | -$564,452 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 25 | 35% | $3,250,622 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 47 | 77% | $2,601,386 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 34 | 0% | $2,283,534 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
@@ -45,8 +45,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ActionReaction | 12 | 3 | 2 | 80% | $476,501 | +$249,688 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 15 | 0 | 9 | 100% | $469,445 | +$179,259 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
+| theowalcott | 21 | 0 | 6 | 100% | $386,097 | +$226,502 |
 | ExplosiveNinja | 18 | 2 | 7 | 90% | $378,581 | +$263,606 |
-| theowalcott | 21 | 0 | 5 | 100% | $375,541 | +$226,502 |
 | 0x076d…8d4c | 8 | 0 | 13 | 100% | $373,790 | +$45,411 |
 | Marcoli | 7 | 0 | 5 | ⚠️ 100% (7) | $358,944 | +$95,170 |
 | Feromont | 9 | 0 | 7 | 100% | $358,252 | +$55,222 |
@@ -57,10 +57,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | fRibrenlc | 9 | 7 | 7 | 56% | $305,328 | +$15,968 |
 | casualbet2020 | 0 | 0 | 6 | — | $304,949 | — |
+| mikesports | 7 | 8 | 3 | 47% | $295,331 | -$88,869 |
 | basementdweller3000 | 6 | 3 | 6 | 67% | $282,034 | +$34,747 |
 | highnetworth | 0 | 0 | 6 | — | $268,224 | — |
 | five5120 | 7 | 9 | 2 | 44% | $266,115 | -$84,525 |
-| mikesports | 7 | 8 | 1 | 47% | $254,907 | -$88,869 |
 | ThornyDevil | 2 | 6 | 1 | 25% | $254,880 | -$207,394 |
 | DonaldinhoTrumpito | 0 | 0 | 13 | — | $244,529 | — |
 | TAIWANNUMBERONE | 11 | 1 | 3 | 92% | $217,012 | +$88,234 |
@@ -71,10 +71,16 @@ _(mostrando los 40 de mayor monto, de 177 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| justbusiness1 | Will CF Monterrey win on 2026-08-12? | Yes | 2.04 (49¢) | $28,905 | — | ⏳ Pendiente |
+| mikesports | Will CF Monterrey win on 2026-08-12? | No | 1.96 (51¢) | $29,386 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.79 (56¢) | $25,511 | — | ⏳ Pendiente |
+| mikesports | Will CF Monterrey win on 2026-08-12? | No | 1.96 (51¢) | $11,038 | — | ⏳ Pendiente |
+| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes | 2.04 (49¢) | $10,556 | — | ⏳ Pendiente |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes | 2.04 (49¢) | $10,556 | — | ⏳ Pendiente |
 | mikesports | Will CF Monterrey win on 2026-08-12? | No | 1.96 (51¢) | $11,038 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.72 (58¢) | $12,146 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.72 (58¢) | $12,146 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.72 (58¢) | $17,341 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.72 (58¢) | $17,341 | — | ⏳ Pendiente |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes | 2.08 (48¢) | $10,762 | — | ⏳ Pendiente |
 | bloodmaster | LoL: The Otter Side vs NORTHERNGRADE ESPORTS (BO3) - LPLOL Group Stage | The Otter Side | 1.08 (93¢) | $18,081 | — | ⏳ Pendiente |
@@ -125,9 +131,3 @@ _(mostrando los 40 de mayor monto, de 177 en total)_
 | Sassy-Bucket | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $13,066 | — | ⏳ Pendiente |
 | Sassy-Bucket | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $13,066 | — | ⏳ Pendiente |
 | Weaseloftheweek | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $14,734 | — | ⏳ Pendiente |
-| pleaseplease123 | New York Mets vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $26,638 | — | ⏳ Pendiente |
-| Feromont | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.56 (64¢) | $11,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 3.03 (33¢) | $14,873 | — | ⏳ Pendiente |
-| AV23IUa | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.49 (67¢) | $25,023 | — | ⏳ Pendiente |
-| AV23IUa | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.49 (67¢) | $46,563 | — | ⏳ Pendiente |
-| AV23IUa | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $10,290 | — | ⏳ Pendiente |
