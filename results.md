@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 12:02:31 (hora de Perú)
+Actualizado: 2026-08-12 12:04:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1418**  ($32,898,389 en total)
+- Apuestas registradas: **1422**  ($33,053,814 en total)
 - Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 479
-- Apostadores distintos: 131
+- Pendientes: 483
+- Apostadores distintos: 132
 
 ### Balance
 
@@ -27,9 +27,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 59 | 28% | $4,750,356 | -$789,178 |
 | Djdjdjekekek | 36 | 12 | 63 | 75% | $4,655,234 | +$573,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 0 | 36% | $2,039,712 | -$421,290 |
-| ferrariChampions2026 | 90 | 29 | 13 | 76% | $1,884,547 | +$113,934 |
+| ferrariChampions2026 | 90 | 29 | 14 | 76% | $1,901,301 | +$113,934 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
-| Weaseloftheweek | 11 | 2 | 5 | 85% | $1,416,109 | +$518,388 |
+| Weaseloftheweek | 11 | 2 | 6 | 85% | $1,526,416 | +$518,388 |
 | pleaseplease123 | 0 | 44 | 7 | 0% | $1,270,452 | -$1,082,423 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
 | texaskid | 18 | 0 | 0 | 100% | $598,663 | +$455,165 |
@@ -65,12 +65,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x076d…8d4c | 8 | 0 | 3 | 100% | $149,444 | +$45,411 |
 | ...............................lala | 3 | 6 | 0 | 33% | $148,465 | -$64,383 |
 
-_(mostrando los 40 de mayor monto, de 131 en total)_
+_(mostrando los 40 de mayor monto, de 132 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.75 (57¢) | $110,307 | — | ⏳ Pendiente |
+| gmtrader | Will Paris Saint-Germain win on 2026-08-12? | No | 2.33 (43¢) | $12,900 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.92 (52¢) | $16,753 | — | ⏳ Pendiente |
+| Mylifeisover | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 2.08 (48¢) | $15,465 | — | ⏳ Pendiente |
 | Mylifeisover | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 2.08 (48¢) | $15,465 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.92 (52¢) | $16,753 | — | ⏳ Pendiente |
 | pleaseplease123 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $10,468 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 131 en total)_
 | Djdjdjekekek | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.82 (55¢) | $232,234 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.22 (45¢) | $135,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.22 (45¢) | $135,000 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.82 (55¢) | $232,234 | — | ⏳ Pendiente |
-| ExplosiveNinja | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.17 (46¢) | $13,028 | — | ⏳ Pendiente |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.85 (54¢) | $15,294 | — | ⏳ Pendiente |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | 3DMAX | 4.00 (25¢) | $17,254 | — | ⏳ Pendiente |
