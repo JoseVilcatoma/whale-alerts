@@ -77653,5 +77653,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786515911.9175937,
     "fills": 1
+  },
+  {
+    "timestamp": 1786517788,
+    "timestamp_added": 1786517789.0716934,
+    "username": "Gaditima",
+    "wallet": "0x7e5972bfc25819775ee5a9d4f191919375487b8b",
+    "slug": "will-annual-inflation-be-3pt3-in-july-20260714150613270",
+    "title": "Will annual inflation be 3.3% in July?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1606.2135,
+    "whale_pct": 0.861,
+    "paper_stake_usd": 3.83,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "donthackme"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786517789.643651,
+    "fills": 2
   }
 ]
