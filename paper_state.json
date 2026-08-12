@@ -1,5 +1,5 @@
 {
-  "bankroll": 561.3124487241683,
+  "bankroll": 560.1224487241683,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18345,6 +18345,11 @@
       "timestamp": 1786561561.6484847,
       "bankroll": 561.31,
       "event": "won: Sassy-Bucket \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786563938.0041413,
+      "bankroll": 560.12,
+      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 10.5"
     }
   ]
 }
