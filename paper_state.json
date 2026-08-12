@@ -1,5 +1,5 @@
 {
-  "bankroll": 541.1792196940697,
+  "bankroll": 572.8324720384858,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18600,6 +18600,26 @@
       "timestamp": 1786568757.9919174,
       "bankroll": 541.18,
       "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786571431.5119627,
+      "bankroll": 571.71,
+      "event": "won: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786571431.71231,
+      "bankroll": 570.05,
+      "event": "lost: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786571431.8124888,
+      "bankroll": 570.94,
+      "event": "won: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786571432.3132932,
+      "bankroll": 572.83,
+      "event": "won: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
     }
   ]
 }
