@@ -81127,5 +81127,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786533746.8521147,
     "fills": 1
+  },
+  {
+    "timestamp": 1786534025,
+    "timestamp_added": 1786534025.6678727,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lib-pal-cep-2026-08-12-total-1pt5",
+    "title": "SE Palmeiras vs. Club Cerro Porte\u00f1o: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 340.75,
+    "whale_pct": 0.369,
+    "paper_stake_usd": 1.68,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786534025.6678803,
+    "fills": 1
   }
 ]
