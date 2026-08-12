@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 15:27:25 (hora de Perú)
+Actualizado: 2026-08-12 15:29:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1909**  ($52,013,566 en total)
+- Apuestas registradas: **1911**  ($52,043,661 en total)
 - Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
-- Pendientes: 560
-- Apostadores distintos: 169
+- Pendientes: 562
+- Apostadores distintos: 170
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | highnetworth | 0 | 0 | 5 | — | $215,351 | — |
 | skyman44 | 3 | 5 | 3 | 38% | $214,644 | -$23,079 |
 
-_(mostrando los 40 de mayor monto, de 169 en total)_
+_(mostrando los 40 de mayor monto, de 170 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.85 (54¢) | $12,906 | — | ⏳ Pendiente |
+| MODDI | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.25 (80¢) | $17,190 | — | ⏳ Pendiente |
 | MODDI | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.25 (80¢) | $17,190 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.15 (87¢) | $17,271 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.15 (87¢) | $17,271 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | pleaseplease123 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 2.08 (48¢) | $92,671 | — | ⏳ Pendiente |
 | johnny234 | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 2.50 (40¢) | $10,000 | +$12,000 | 💰 Vendida antes |
 | Jsram | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.82 (55¢) | $12,794 | — | ⏳ Pendiente |
-| EvenMoneyBonds | Tampa Bay Rays vs. Athletics | Athletics | 3.23 (31¢) | $11,238 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.45 (69¢) | $12,741 | — | ⏳ Pendiente |
