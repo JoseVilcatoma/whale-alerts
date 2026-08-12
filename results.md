@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 12:48:38 (hora de Perú)
+Actualizado: 2026-08-12 12:50:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1515**  ($37,805,052 en total)
+- Apuestas registradas: **1517**  ($38,035,617 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 574
-- Apostadores distintos: 144
+- Pendientes: 576
+- Apostadores distintos: 145
 
 ### Balance
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
 | Weaseloftheweek | 11 | 2 | 7 | 85% | $1,636,724 | +$518,388 |
 | pleaseplease123 | 0 | 44 | 9 | 0% | $1,340,870 | -$1,082,423 |
-| BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
+| BreakTheBank | 0 | 12 | 1 | 0% | $861,069 | -$803,506 |
 | Lakersfan111 | 1 | 3 | 31 | ⚠️ 25% (4) | $653,923 | -$28,993 |
 | texaskid | 18 | 0 | 0 | 100% | $598,663 | +$455,165 |
 | Sassy-Bucket | 12 | 16 | 1 | 43% | $585,618 | -$190,303 |
@@ -58,19 +58,21 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | casualbet2020 | 0 | 0 | 4 | — | $203,299 | — |
 | winwin518168 | 0 | 12 | 0 | 0% | $191,010 | -$191,010 |
 | xifutloong3 | 6 | 0 | 0 | ⚠️ 100% (6) | $190,324 | +$142,407 |
+| HongYunX | 0 | 0 | 1 | — | $173,002 | — |
 | RN1 | 8 | 5 | 0 | 62% | $168,739 | +$11,250 |
 | basementdweller3000 | 0 | 0 | 9 | — | $164,772 | — |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
 | NemecGhudini | 3 | 2 | 5 | ⚠️ 60% (5) | $161,645 | -$17,067 |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,408 | +$115,433 |
-| SineNooneEI | 1 | 1 | 10 | ⚠️ 50% (2) | $157,440 | +$14,033 |
 
-_(mostrando los 40 de mayor monto, de 144 en total)_
+_(mostrando los 40 de mayor monto, de 145 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HongYunX | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.72 (58¢) | $173,002 | — | ⏳ Pendiente |
+| BreakTheBank | Will Paris Saint-Germain win on 2026-08-12? | No | 2.38 (42¢) | $57,563 | — | ⏳ Pendiente |
 | gggjajnsnn | LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins | Dark Passage | 3.33 (30¢) | $20,000 | — | ⏳ Pendiente |
 | bloodmaster | LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins | Bushido Wildcats | 1.43 (70¢) | $44,662 | — | ⏳ Pendiente |
 | bloodmaster | LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins | Bushido Wildcats | 1.43 (70¢) | $44,662 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 144 en total)_
 | ARI100KRAT | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $10,650 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.45 (29¢) | $32,071 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.57 (28¢) | $45,143 | — | ⏳ Pendiente |
-| Nooserac | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $18,000 | — | ⏳ Pendiente |
-| casualbet2020 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $72,000 | — | ⏳ Pendiente |
