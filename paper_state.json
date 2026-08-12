@@ -1,5 +1,5 @@
 {
-  "bankroll": 427.34449514287417,
+  "bankroll": 429.4201473167872,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -17455,6 +17455,21 @@
       "timestamp": 1786500389.4383395,
       "bankroll": 427.34,
       "event": "won: wr0ngw4yb3tt0r \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1786500487.1275375,
+      "bankroll": 429.42,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Toronto Blue Jays (-1.5)"
+    },
+    {
+      "timestamp": 1786500487.6307378,
+      "bankroll": 429.42,
+      "event": "won: RN1 \u2014 Spread: Toronto Blue Jays (-1.5)"
+    },
+    {
+      "timestamp": 1786500487.730938,
+      "bankroll": 429.42,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Toronto Blue Jays (-1.5)"
     }
   ]
 }

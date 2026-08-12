@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:06:37 (hora de Perú)
+Actualizado: 2026-08-11 21:08:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $427.34
-**Retorno acumulado:** -57.27%
+**Bankroll actual:** $429.42
+**Retorno acumulado:** -57.06%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -47,13 +47,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 162 | 108 | 13 | -28.34 USD |
-| quavoo | 152 | 185 | 31 | -33.89 USD |
-| RN1 | 196 | 110 | 7 | -38.43 USD |
+| quavoo | 152 | 185 | 32 | -33.89 USD |
+| RN1 | 197 | 110 | 6 | -38.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 626 | 471 | 19 | -103.61 USD |
+| ferrariChampions2026 | 628 | 471 | 25 | -101.53 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 7 | 13 | 4 | -115.27 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -356,6 +356,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-10-spread-home-2pt5 | HomeRunHazard, swisstony |
 | mlb-tex-laa-2026-08-10-spread-home-1pt5 | HomeRunHazard, swisstony |
 | sud-boc-rec1-2026-08-11-team-total-away-0pt5 | UpTheBlues, swisstony |
+| wnba-phx-la-2026-08-11-total-179pt5 | ferrariChampions2026, quavoo |
 | uel-sab-lar-2026-08-11-lar | UpTheBlues, swisstony |
 | uel-sab-lar-2026-08-11-spread-away-1pt5 | UpTheBlues, swisstony |
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
@@ -402,6 +403,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-sf-agf-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | mlb-tb-oak-2026-08-11-total-9pt5 | HomeRunHazard, Sassy-Bucket |
 | uel-sab-lar-2026-08-11-draw | ferrariChampions2026, swisstony |
+| wnba-phx-la-2026-08-11-total-177pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | ucl-nec-oly-2026-08-11-nec | UpTheBlues, quavoo |
 | col-al-bra-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 | col-al-bra-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
@@ -441,6 +443,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 48% | 0.54 | ⏳ pendiente | — |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.57 | ⏳ pendiente | — |
+| quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.60 | ⏳ pendiente | — |
+| ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 56% | 0.51 | ⏳ pendiente | — |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ⏳ pendiente | — |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 53% | 0.48 | ⏳ pendiente | — |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 48% | 0.59 | ⏳ pendiente | — |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ⏳ pendiente | — |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 51% | 0.99 | ⏳ pendiente | — |
 | quavoo | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 0.96 | ⏳ pendiente | — |
 | ferrariChampions2026 | Club Bolívar vs. São Paulo FC: O/U 3.5 | Under (BUY) | 89% | 0.39 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 6.67 | ⏳ pendiente | — |
@@ -454,20 +465,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 36% | 0.00 | ❌ perdida | -0.00 |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 59% | 0.00 | ❌ perdida | -0.00 |
 | wr0ngw4yb3tt0r | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 20% | 0.00 | ⏳ pendiente | — |
-| RN1 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 20% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 20% | 0.00 | ✅ ganada | +0.00 |
+| RN1 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 20% | 0.00 | ✅ ganada | +0.00 |
 | quavoo | Will Tigres de la UANL win on 2026-08-11 | Yes (BUY) | 67% | 1.70 | ⏳ pendiente | — |
 | quavoo | Will Tigres de la UANL vs. Vancouver Whi | Yes (BUY) | 17% | 2.19 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 23% | 0.62 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 23% | 0.62 | ✅ ganada | +2.08 |
 | quavoo | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 14% | 1.78 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Seattle Mariners (-1.5) | New York Yankees (BUY) | 61% | 0.41 | ⏳ pendiente | — |
 | quavoo | Real Salt Lake vs. FC Juárez: Both Teams | Yes (BUY) | 64% | 0.45 | ⏳ pendiente | — |
-| quavoo | Will Tigres de la UANL win on 2026-08-11 | Yes (BUY) | 71% | 0.52 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 53% | 1.51 | ✅ ganada | +1.34 |
-| HomeRunHazard | New York Liberty vs. Indiana Fever | New York Liberty (BUY) | 41% | 0.52 | ❌ perdida | -0.52 |
-| RN1 | Will Club Bolívar win on 2026-08-11? | Yes (BUY) | 52% | 1.48 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 96% | 0.00 | ✅ ganada | +0.00 |
-| RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 36% | 0.00 | ❌ perdida | -0.00 |
-| swisstony | Will Avaí FC vs. CR Brasil end in a draw | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will Avaí FC win on 2026-08-11? | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| RN1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 78% | 0.00 | ✅ ganada | +0.00 |
