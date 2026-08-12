@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 21:59:52 (hora de Perú)
+Actualizado: 2026-08-11 22:01:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **630**  ($13,236,324 en total)
+- Apuestas registradas: **631**  ($13,247,964 en total)
 - Resueltas: **348** — 246 ganadas / 102 perdidas (**71%** de acierto)
-- Pendientes: 282
-- Apostadores distintos: 91
+- Pendientes: 283
+- Apostadores distintos: 92
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | danielwolfmorales3pddb6dl6 | 0 | 2 | 2 | ⚠️ 0% (2) | $54,000 | -$30,000 |
 | jaytee158 | 4 | 0 | 0 | ⚠️ 100% (4) | $53,301 | +$8,697 |
 
-_(mostrando los 40 de mayor monto, de 91 en total)_
+_(mostrando los 40 de mayor monto, de 92 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945 | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.20 (83¢) | $11,640 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.18 (85¢) | $15,685 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.18 (85¢) | $10,130 | — | ⏳ Pendiente |
 | Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $57,182 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 91 en total)_
 | pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,333 | — | ⏳ Pendiente |
 | purplegatto | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $11,750 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $10,701 | — | ⏳ Pendiente |
-| pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,067 | — | ⏳ Pendiente |
