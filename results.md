@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 06:03:35 (hora de Perú)
+Actualizado: 2026-08-12 06:05:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **973**  ($19,923,655 en total)
+- Apuestas registradas: **974**  ($19,933,906 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 184
-- Apostadores distintos: 105
+- Pendientes: 185
+- Apostadores distintos: 106
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AGUGava | 5 | 2 | 0 | ⚠️ 71% (7) | $88,581 | +$26,063 |
 | five5120 | 2 | 0 | 4 | ⚠️ 100% (2) | $88,077 | +$2,075 |
 
-_(mostrando los 40 de mayor monto, de 105 en total)_
+_(mostrando los 40 de mayor monto, de 106 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| midwicket72 | The Hundred, Women: Welsh Fire vs London Spirit | Welsh Fire | 1.45 (69¢) | $10,251 | — | ⏳ Pendiente |
 | SineNooneEI | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $11,860 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $10,343 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $10,343 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 105 en total)_
 | MeiGuNiuBi | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $12,600 | — | ⏳ Pendiente |
 | MeiGuNiuBi | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $12,600 | — | ⏳ Pendiente |
 | MeiGuNiuBi | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $12,600 | — | ⏳ Pendiente |
-| johnny234 | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.61 (62¢) | $13,654 | — | ⏳ Pendiente |
