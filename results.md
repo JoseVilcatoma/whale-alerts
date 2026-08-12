@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 19:59:57 (hora de Perú)
+Actualizado: 2026-08-11 20:02:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **269**  ($5,701,214 en total)
-- Resueltas: **115** — 92 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 154
+- Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
+- Pendientes: 153
 - Apostadores distintos: 84
 
 ### Balance
 
-- **Resultado de los apostadores: +$384,280** sobre $2,305,871 apostados (ROI **+16.7%**)
+- **Resultado de los apostadores: +$384,731** sobre $2,320,065 apostados (ROI **+16.6%**)
 - Copiando $100 fijo en cada una: **+$923** sobre $11,100 (ROI **+8.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -112,7 +112,7 @@ _(mostrando los 40 de mayor monto, de 84 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Daniel Merida Aguilar vs Learner Tien | Daniel Merida Aguilar | 2.00 (50¢) | $27,384 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Athletics | Athletics | 2.78 (36¢) | $27,550 | — | ⏳ Pendiente |
 | texaskid | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.56 (64¢) | $42,232 | — | ⏳ Pendiente |
-| AGUGava | National Bank Open: Naomi Osaka vs Elena Rybakina | Naomi Osaka | 1.59 (63¢) | $14,194 | — | ⏳ Pendiente |
+| AGUGava | National Bank Open: Naomi Osaka vs Elena Rybakina | Naomi Osaka | 1.59 (63¢) | $14,194 | +$451 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Naomi Osaka vs Elena Rybakina | Naomi Osaka | 2.04 (49¢) | $18,913 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.96 (51¢) | $10,578 | — | ⏳ Pendiente |
 | johnny234 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.67 (60¢) | $18,320 | +$9,771 | 💰 Vendida antes |

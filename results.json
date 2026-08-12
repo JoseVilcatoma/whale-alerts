@@ -36,7 +36,9 @@
     "side": "BUY",
     "usd": 14193.787900022406,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": 450.6,
+    "precio_salida": 65
   },
   {
     "telegram_msg_id": 8,
