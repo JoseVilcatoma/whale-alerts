@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 14:25:59 (hora de Perú)
+Actualizado: 2026-08-12 14:28:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $561.31
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 1 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| dv-pm | 4 | 5 | 1 | +89.49 USD |
+| dv-pm | 4 | 5 | 2 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 12 | +60.51 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
@@ -448,11 +448,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-phi-stl-2026-08-12-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
+| mlb-mil-sd-2026-08-12-total-8pt5 | SDTrading, dv-pm |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| dv-pm | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 54% | 5.54 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Tampa Bay Rays (-2.5) | Athletics (BUY) | 46% | 40.59 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Tampa Bay Rays (-1.5) | Athletics (BUY) | 25% | 12.08 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 52% | 0.93 | ⏳ pendiente | — |
@@ -482,4 +484,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | Will GKS GieKSa Katowice win on 2026-08- | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 28% | 0.00 | ❌ perdida | -0.00 |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 63% | 0.00 | ❌ perdida | -0.00 |
-| UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
