@@ -1,5 +1,5 @@
 {
-  "bankroll": 486.73576449848173,
+  "bankroll": 484.6208331065701,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18355,6 +18355,61 @@
       "timestamp": 1786510368.0747182,
       "bankroll": 486.74,
       "event": "won: ferrariChampions2026 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786510426.6057396,
+      "bankroll": 487.12,
+      "event": "won: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 182.5"
+    },
+    {
+      "timestamp": 1786510429.1657639,
+      "bankroll": 487.46,
+      "event": "won: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 182.5"
+    },
+    {
+      "timestamp": 1786510429.4663992,
+      "bankroll": 487.01,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 182.5"
+    },
+    {
+      "timestamp": 1786510429.5666306,
+      "bankroll": 486.52,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 182.5"
+    },
+    {
+      "timestamp": 1786510489.0747917,
+      "bankroll": 486.04,
+      "event": "lost: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 180.5"
+    },
+    {
+      "timestamp": 1786510489.728313,
+      "bankroll": 486.58,
+      "event": "won: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 181.5"
+    },
+    {
+      "timestamp": 1786510489.8285522,
+      "bankroll": 486.04,
+      "event": "lost: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 180.5"
+    },
+    {
+      "timestamp": 1786510490.6586764,
+      "bankroll": 485.49,
+      "event": "lost: swisstony \u2014 Spread: Las Vegas Aces (-8.5)"
+    },
+    {
+      "timestamp": 1786510491.7954948,
+      "bankroll": 484.98,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 180.5"
+    },
+    {
+      "timestamp": 1786510493.6469676,
+      "bankroll": 484.16,
+      "event": "lost: 1winstreak1 \u2014 Spread: Las Vegas Aces (-8.5)"
+    },
+    {
+      "timestamp": 1786510493.7471635,
+      "bankroll": 484.62,
+      "event": "won: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 181.5"
     }
   ]
 }
