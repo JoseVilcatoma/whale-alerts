@@ -12344,5 +12344,18 @@
     "usd": 21318.626699999997,
     "odds_at_bet": 63,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 765,
+    "timestamp": 1786529676,
+    "username": "MeiGuNiuBi",
+    "wallet": "0xdd882a70680633a75516f6ed5fce443e2d96dadb",
+    "slug": "cs2-ts7-jjh-2026-08-12",
+    "title": "Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 10691.1,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]
