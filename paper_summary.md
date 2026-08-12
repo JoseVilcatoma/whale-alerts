@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 22:17:12 (hora de Perú)
+Actualizado: 2026-08-11 22:19:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $427.13
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 30 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 36 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 167 | 112 | 45 | -28.34 USD |
+| swisstony | 168 | 114 | 42 | -28.34 USD |
 | quavoo | 152 | 186 | 34 | -33.89 USD |
 | RN1 | 199 | 111 | 6 | -38.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -387,7 +387,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-chc-wsh-2026-08-11-total-8pt5 | HomeRunHazard, RN1, Talvez10, dv-pm, ferrariChampions2026, swisstony |
 | wnba-nyl-ind-2026-08-11-spread-home-3pt5 | quavoo, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-0pt5 | quavoo, swisstony |
-| wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
+| wnba-wsh-las-2026-08-11-spread-home-7pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-1pt5 | RN1, UpTheBlues, swisstony |
 | wnba-nyl-ind-2026-08-11-total-192pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-lyo-spp-2026-08-11-lyo | UpTheBlues, swisstony |
@@ -451,7 +451,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-phx-la-2026-08-11-total-180pt5 | ferrariChampions2026, swisstony |
 | wnba-wsh-las-2026-08-11 | 1winstreak1, ferrariChampions2026, swisstony |
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | 1winstreak1, quavoo, swisstony |
+| wnba-phx-la-2026-08-11-total-181pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-tb-oak-2026-08-11-total-10pt5 | 1winstreak1, RN1, swisstony |
+| wnba-wsh-las-2026-08-11-spread-home-8pt5 | 1winstreak1, swisstony |
 | wnba-wsh-las-2026-08-11-total-169pt5 | 1winstreak1, swisstony |
 | mlb-mil-sd-2026-08-11-total-8pt5 | 1winstreak1, swisstony |
 | lec-tig-vwh-2026-08-11-spread-away-1pt5 | UpTheBlues, swisstony |
@@ -461,6 +463,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 49% | 0.44 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Las Vegas Aces (-8.5) | Washington Mystics (BUY) | 50% | 0.82 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 44% | 11.83 | ⏳ pendiente | — |
+| 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 55% | 0.66 | ⏳ pendiente | — |
+| 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 60% | 1.40 | ⏳ pendiente | — |
+| 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 52% | 6.57 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 56% | 1.63 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 45% | 12.38 | ⏳ pendiente | — |
 | swisstony | Spread: Vancouver Whitecaps FC (-1.5) | Tigres de la UANL (BUY) | 98% | 2.29 | ⏳ pendiente | — |
@@ -485,9 +493,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 63% | 4.67 | ⏳ pendiente | — |
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 55% | 1.86 | ⏳ pendiente | — |
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 48% | 0.49 | ⏳ pendiente | — |
-| 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 51% | 0.46 | ⏳ pendiente | — |
-| swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 50% | 1.00 | ⏳ pendiente | — |
-| swisstony | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 61% | 0.71 | ⏳ pendiente | — |
-| 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 62% | 0.68 | ⏳ pendiente | — |
-| swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 47% | 0.52 | ⏳ pendiente | — |
-| 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 50% | 2.37 | ⏳ pendiente | — |
