@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 09:34:05 (hora de Perú)
+Actualizado: 2026-08-12 09:36:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1305**  ($28,988,783 en total)
+- Apuestas registradas: **1311**  ($29,403,643 en total)
 - Resueltas: **936** — 566 ganadas / 370 perdidas (**60%** de acierto)
-- Pendientes: 369
+- Pendientes: 375
 - Apostadores distintos: 123
 
 ### Balance
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 46 | 28% | $3,737,591 | -$789,178 |
-| Djdjdjekekek | 36 | 10 | 39 | 78% | $2,933,366 | +$578,460 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 48 | 28% | $3,865,019 | -$789,178 |
+| Djdjdjekekek | 36 | 10 | 43 | 78% | $3,220,798 | +$578,460 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 0 | 36% | $2,039,712 | -$421,290 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
 | ferrariChampions2026 | 90 | 29 | 7 | 76% | $1,815,979 | +$113,934 |
@@ -71,6 +71,12 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | B8 | 2.56 (39¢) | $44,849 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $73,150 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | B8 | 2.56 (39¢) | $82,580 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $152,494 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $12,200 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $49,588 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.67 (60¢) | $26,993 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.69 (59¢) | $37,392 | — | ⏳ Pendiente |
 | basementdweller3000 | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | B8 | 2.44 (41¢) | $12,300 | — | ⏳ Pendiente |
@@ -125,9 +131,3 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | GRINGOMATE | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.35 (74¢) | $14,948 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.85 (26¢) | $17,929 | — | ⏳ Pendiente |
 | Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.35 (74¢) | $14,800 | — | ⏳ Pendiente |
-| GRINGOMATE | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.35 (74¢) | $14,948 | — | ⏳ Pendiente |
-| Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.35 (74¢) | $14,800 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.85 (26¢) | $17,929 | — | ⏳ Pendiente |
-| GRINGOMATE | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.35 (74¢) | $14,948 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.85 (26¢) | $10,910 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.85 (26¢) | $10,910 | — | ⏳ Pendiente |
