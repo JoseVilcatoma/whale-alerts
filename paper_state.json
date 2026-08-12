@@ -1,5 +1,5 @@
 {
-  "bankroll": 437.55820793351245,
+  "bankroll": 372.48773174303625,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18295,6 +18295,46 @@
       "timestamp": 1786547324.1716235,
       "bankroll": 437.56,
       "event": "lost: BBQChickenisthebesttt \u2014 LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786547446.9930549,
+      "bankroll": 437.56,
+      "event": "lost: donthackme \u2014 Will annual inflation be 3.4% in July?"
+    },
+    {
+      "timestamp": 1786547449.6066413,
+      "bankroll": 440.06,
+      "event": "won: Gaditima \u2014 Will annual inflation be 3.4% in July?"
+    },
+    {
+      "timestamp": 1786547450.7819982,
+      "bankroll": 372.49,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: KT Rolster vs Dplus KIA - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786547451.1223269,
+      "bankroll": 372.49,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: KT Rolster vs Dplus KIA - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786547451.2225144,
+      "bankroll": 372.49,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: KT Rolster vs Dplus KIA - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786547451.322701,
+      "bankroll": 372.49,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: KT Rolster vs Dplus KIA - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786547451.4228966,
+      "bankroll": 372.49,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: KT Rolster vs Dplus KIA - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786547452.024056,
+      "bankroll": 372.49,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: KT Rolster vs Dplus KIA - Game 2 Winner"
     }
   ]
 }
