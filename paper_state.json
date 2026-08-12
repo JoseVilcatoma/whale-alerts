@@ -1,5 +1,5 @@
 {
-  "bankroll": 446.963692445733,
+  "bankroll": 483.21884142155864,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18130,6 +18130,221 @@
       "timestamp": 1786509998.5219686,
       "bankroll": 446.96,
       "event": "won: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 16.5"
+    },
+    {
+      "timestamp": 1786510043.4486842,
+      "bankroll": 447.4,
+      "event": "won: quavoo \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 179.5"
+    },
+    {
+      "timestamp": 1786510045.0680075,
+      "bankroll": 447.4,
+      "event": "won: HomeRunHazard \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
+    },
+    {
+      "timestamp": 1786510045.4989371,
+      "bankroll": 447.4,
+      "event": "lost: HomeRunHazard \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
+    },
+    {
+      "timestamp": 1786510045.84653,
+      "bankroll": 447.4,
+      "event": "lost: HomeRunHazard \u2014 Spread: Los Angeles Sparks (-2.5)"
+    },
+    {
+      "timestamp": 1786510045.9468608,
+      "bankroll": 449.84,
+      "event": "won: HomeRunHazard \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
+    },
+    {
+      "timestamp": 1786510046.0471017,
+      "bankroll": 450.88,
+      "event": "won: HomeRunHazard \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
+    },
+    {
+      "timestamp": 1786510046.1473315,
+      "bankroll": 450.88,
+      "event": "won: HomeRunHazard \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
+    },
+    {
+      "timestamp": 1786510046.460255,
+      "bankroll": 451.37,
+      "event": "won: HomeRunHazard \u2014 Spread: Phoenix Mercury (-1.5)"
+    },
+    {
+      "timestamp": 1786510046.6607332,
+      "bankroll": 454.66,
+      "event": "won: HomeRunHazard \u2014 Spread: Los Angeles Sparks (-2.5)"
+    },
+    {
+      "timestamp": 1786510046.7609942,
+      "bankroll": 455.52,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Sparks (-2.5)"
+    },
+    {
+      "timestamp": 1786510047.4480708,
+      "bankroll": 457.21,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 177.5"
+    },
+    {
+      "timestamp": 1786510047.5483484,
+      "bankroll": 457.62,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Sparks (-2.5)"
+    },
+    {
+      "timestamp": 1786510054.1877623,
+      "bankroll": 457.62,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Sparks (-2.5)"
+    },
+    {
+      "timestamp": 1786510054.7888927,
+      "bankroll": 457.16,
+      "event": "lost: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 177.5"
+    },
+    {
+      "timestamp": 1786510055.0895176,
+      "bankroll": 456.7,
+      "event": "lost: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 179.5"
+    },
+    {
+      "timestamp": 1786510055.4902925,
+      "bankroll": 457.25,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Phoenix Mercury (-1.5)"
+    },
+    {
+      "timestamp": 1786510055.991338,
+      "bankroll": 457.67,
+      "event": "won: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 177.5"
+    },
+    {
+      "timestamp": 1786510056.692765,
+      "bankroll": 456.94,
+      "event": "lost: swisstony \u2014 Spread: Phoenix Mercury (-1.5)"
+    },
+    {
+      "timestamp": 1786510057.294163,
+      "bankroll": 458.13,
+      "event": "won: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
+    },
+    {
+      "timestamp": 1786510058.8382678,
+      "bankroll": 457.46,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
+    },
+    {
+      "timestamp": 1786510059.4394903,
+      "bankroll": 456.35,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 179.5"
+    },
+    {
+      "timestamp": 1786510059.6399224,
+      "bankroll": 457.12,
+      "event": "won: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
+    },
+    {
+      "timestamp": 1786510059.8402689,
+      "bankroll": 456.0,
+      "event": "lost: 1winstreak1 \u2014 Spread: Phoenix Mercury (-1.5)"
+    },
+    {
+      "timestamp": 1786510060.3411572,
+      "bankroll": 456.8,
+      "event": "won: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
+    },
+    {
+      "timestamp": 1786510060.4414055,
+      "bankroll": 456.25,
+      "event": "lost: swisstony \u2014 Spread: Phoenix Mercury (-1.5)"
+    },
+    {
+      "timestamp": 1786510060.5416443,
+      "bankroll": 455.75,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
+    },
+    {
+      "timestamp": 1786510060.6418612,
+      "bankroll": 462.4,
+      "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Sparks (-2.5)"
+    },
+    {
+      "timestamp": 1786510061.142936,
+      "bankroll": 463.68,
+      "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Sparks (-2.5)"
+    },
+    {
+      "timestamp": 1786510061.6439438,
+      "bankroll": 463.14,
+      "event": "lost: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 177.5"
+    },
+    {
+      "timestamp": 1786510112.6366456,
+      "bankroll": 462.15,
+      "event": "lost: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786510112.7369676,
+      "bankroll": 462.79,
+      "event": "won: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786510114.054896,
+      "bankroll": 462.09,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786510114.455797,
+      "bankroll": 475.22,
+      "event": "won: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786510116.50102,
+      "bankroll": 476.59,
+      "event": "won: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786510116.6012661,
+      "bankroll": 475.69,
+      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786510116.7015016,
+      "bankroll": 473.62,
+      "event": "lost: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786510117.3026805,
+      "bankroll": 488.75,
+      "event": "won: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786510117.4028347,
+      "bankroll": 482.18,
+      "event": "lost: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786510117.8035405,
+      "bankroll": 484.47,
+      "event": "won: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786510118.104199,
+      "bankroll": 489.51,
+      "event": "won: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786510118.6051855,
+      "bankroll": 490.07,
+      "event": "won: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786510118.7054257,
+      "bankroll": 482.7,
+      "event": "lost: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1786510120.208353,
+      "bankroll": 483.22,
+      "event": "won: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
     }
   ]
 }
