@@ -1,5 +1,5 @@
 {
-  "bankroll": 448.3137960864452,
+  "bankroll": 447.523692445733,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18100,6 +18100,26 @@
       "timestamp": 1786509562.1432638,
       "bankroll": 448.31,
       "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-1.5)"
+    },
+    {
+      "timestamp": 1786509682.8371348,
+      "bankroll": 446.92,
+      "event": "lost: 1winstreak1 \u2014 Houston Astros vs. San Francisco Giants: O/U 8.5"
+    },
+    {
+      "timestamp": 1786509741.8537889,
+      "bankroll": 446.92,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Houston Astros (-1.5)"
+    },
+    {
+      "timestamp": 1786509745.0604262,
+      "bankroll": 447.33,
+      "event": "won: 1winstreak1 \u2014 Spread: Houston Astros (-1.5)"
+    },
+    {
+      "timestamp": 1786509745.4833457,
+      "bankroll": 447.52,
+      "event": "won: 1winstreak1 \u2014 Houston Astros vs. San Francisco Giants: O/U 9.5"
     }
   ]
 }
