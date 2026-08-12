@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 06:24:22 (hora de Perú)
+Actualizado: 2026-08-12 06:26:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1000**  ($20,841,317 en total)
+- Apuestas registradas: **1003**  ($20,909,016 en total)
 - Resueltas: **790** — 486 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 210
-- Apostadores distintos: 111
+- Pendientes: 213
+- Apostadores distintos: 112
 
 ### Balance
 
@@ -58,19 +58,22 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 1 | 0 | 9 | ⚠️ 100% (1) | $129,884 | +$9,167 |
 | TAIWANNUMBERONE | 0 | 1 | 7 | ⚠️ 0% (1) | $123,809 | -$17,114 |
 | ExplosiveNinja | 0 | 0 | 10 | — | $122,231 | — |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 5 | — | $116,081 | — |
 | DonaldinhoTrumpito | 0 | 0 | 6 | — | $112,406 | — |
 | Marcoli | 2 | 0 | 3 | ⚠️ 100% (2) | $111,211 | +$28,966 |
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
 | Mylifeisover | 6 | 0 | 0 | ⚠️ 100% (6) | $106,449 | +$90,679 |
 | 0b1 | 6 | 0 | 0 | ⚠️ 100% (6) | $104,559 | +$21,905 |
-| phonesculptor | 0 | 8 | 0 | 0% | $91,088 | -$91,088 |
 
-_(mostrando los 40 de mayor monto, de 111 en total)_
+_(mostrando los 40 de mayor monto, de 112 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| retroactivesource | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.20 (83¢) | $20,981 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.45 (69¢) | $30,115 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.82 (55¢) | $16,603 | — | ⏳ Pendiente |
 | GreatestTrader | LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 1.30 (77¢) | $11,215 | — | ⏳ Pendiente |
 | umeax | Will Paris Saint-Germain win on 2026-08-12? | No | 2.33 (43¢) | $117,370 | — | ⏳ Pendiente |
 | Weaseloftheweek | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.75 (57¢) | $150,464 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 111 en total)_
 | AV23IUa | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.12 (89¢) | $17,509 | — | ⏳ Pendiente |
 | Marcoli | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.61 (62¢) | $30,000 | — | ⏳ Pendiente |
 | Marcoli | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.61 (62¢) | $30,000 | — | ⏳ Pendiente |
-| five5120 | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.75 (57¢) | $17,904 | — | ⏳ Pendiente |
-| five5120 | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.75 (57¢) | $17,904 | — | ⏳ Pendiente |
-| NemecGhudini | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | DN SOOPers | 2.44 (41¢) | $14,350 | — | ⏳ Pendiente |
