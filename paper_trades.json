@@ -78201,5 +78201,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786522985.7919672,
     "fills": 1
+  },
+  {
+    "timestamp": 1786523034,
+    "timestamp_added": 1786523035.450013,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-mgc-mglz-2026-08-12",
+    "title": "Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "whale_usd": 540.0,
+    "whale_pct": 0.206,
+    "paper_stake_usd": 0.91,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786523035.4500203,
+    "fills": 1
   }
 ]
