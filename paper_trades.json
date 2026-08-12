@@ -78649,5 +78649,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786555679.9824386,
     "fills": 1
+  },
+  {
+    "timestamp": 1786556182,
+    "timestamp_added": 1786556182.9967656,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-bal-min-2026-08-12-total-8pt5",
+    "title": "Baltimore Orioles vs. Minnesota Twins: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 40263.877400000005,
+    "whale_pct": 57.165,
+    "paper_stake_usd": 212.93,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786556182.996775,
+    "fills": 1
   }
 ]
