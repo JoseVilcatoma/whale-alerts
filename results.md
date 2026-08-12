@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 15:31:37 (hora de Perú)
+Actualizado: 2026-08-12 15:33:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1911**  ($52,043,661 en total)
+- Apuestas registradas: **1912**  ($52,072,661 en total)
 - Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
-- Pendientes: 562
-- Apostadores distintos: 170
+- Pendientes: 563
+- Apostadores distintos: 171
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | highnetworth | 0 | 0 | 5 | — | $215,351 | — |
 | skyman44 | 3 | 5 | 3 | 38% | $214,644 | -$23,079 |
 
-_(mostrando los 40 de mayor monto, de 170 en total)_
+_(mostrando los 40 de mayor monto, de 171 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.22 (82¢) | $29,000 | — | ⏳ Pendiente |
 | 1winstreak1 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.85 (54¢) | $12,906 | — | ⏳ Pendiente |
 | MODDI | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.25 (80¢) | $17,190 | — | ⏳ Pendiente |
 | MODDI | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.25 (80¢) | $17,190 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 170 en total)_
 | Bulls94 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 2.08 (48¢) | $15,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 2.08 (48¢) | $92,671 | — | ⏳ Pendiente |
 | johnny234 | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 2.50 (40¢) | $10,000 | +$12,000 | 💰 Vendida antes |
-| Jsram | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.82 (55¢) | $12,794 | — | ⏳ Pendiente |
