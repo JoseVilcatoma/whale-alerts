@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 11:39:34 (hora de Perú)
+Actualizado: 2026-08-12 11:41:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1408**  ($32,765,062 en total)
+- Apuestas registradas: **1410**  ($32,794,350 en total)
 - Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 469
+- Pendientes: 471
 - Apostadores distintos: 130
 
 ### Balance
@@ -55,8 +55,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 0 | 1 | 13 | ⚠️ 0% (1) | $206,762 | -$17,114 |
 | winwin518168 | 0 | 12 | 0 | 0% | $191,010 | -$191,010 |
 | xifutloong3 | 6 | 0 | 0 | ⚠️ 100% (6) | $190,324 | +$142,407 |
+| fRibrenlc | 9 | 4 | 1 | 69% | $184,479 | +$46,634 |
 | RN1 | 8 | 5 | 0 | 62% | $168,739 | +$11,250 |
-| fRibrenlc | 9 | 4 | 0 | 69% | $168,073 | +$46,634 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,408 | +$115,433 |
 | SineNooneEI | 1 | 1 | 10 | ⚠️ 50% (2) | $157,440 | +$14,033 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 130 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.85 (26¢) | $12,881 | — | ⏳ Pendiente |
+| fRibrenlc | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $16,406 | — | ⏳ Pendiente |
 | johnny234 | Baltimore Orioles vs. Minnesota Twins | Baltimore Orioles | 2.00 (50¢) | $11,000 | — | ⏳ Pendiente |
 | johnny234 | Baltimore Orioles vs. Minnesota Twins | Baltimore Orioles | 2.00 (50¢) | $11,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hamburg: Raul Brancaccio vs Marvin Moeller | Raul Brancaccio | 1.52 (66¢) | $10,734 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 130 en total)_
 | pleaseplease123 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $58,491 | — | ⏳ Pendiente |
 | Sassy-Bucket | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $58,491 | — | ⏳ Pendiente |
-| Sassy-Bucket | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.27 (79¢) | $10,035 | — | ⏳ Pendiente |
