@@ -80838,5 +80838,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786531875.1852453,
     "fills": 1
+  },
+  {
+    "timestamp": 1786531991,
+    "timestamp_added": 1786531992.5329716,
+    "username": "dv-pm",
+    "wallet": "0x56acab44cfca2e88bb9b3406890aea7bfa0cd77e",
+    "slug": "clf-ars-com-2026-08-12-spread-home-1pt5",
+    "title": "Spread: Arsenal FC (-1.5)",
+    "outcome": "Como 1907",
+    "side": "BUY",
+    "whale_usd": 37.510000000000005,
+    "whale_pct": 0.467,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786531992.53298,
+    "fills": 1
   }
 ]
