@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 00:30:29 (hora de Perú)
+Actualizado: 2026-08-12 00:32:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $510.23
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 3 | 9 | 0 | +15.41 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 243 | 150 | 38 | +4.50 USD |
+| UpTheBlues | 243 | 150 | 42 | +4.50 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 189 | 132 | 5 | -24.98 USD |
+| swisstony | 189 | 132 | 6 | -24.98 USD |
 | quavoo | 156 | 187 | 29 | -29.27 USD |
 | RN1 | 203 | 113 | 2 | -37.58 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -465,11 +465,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-col-ari-2026-08-11-total-7pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-col-ari-2026-08-11-spread-away-1pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-kc-lad-2026-08-11-total-9pt5 | 1winstreak1, HomeRunHazard |
+| usc-psg-av-2026-08-12-av | UpTheBlues, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Aston Villa win on 2026-08-12? | No (BUY) | 80% | 0.75 | ⏳ pendiente | — |
+| UpTheBlues | Will Paris Saint-Germain win on 2026-08- | Yes (BUY) | 56% | 0.86 | ⏳ pendiente | — |
+| UpTheBlues | Will Paris Saint-Germain win on 2026-08- | Yes (BUY) | 56% | 0.57 | ⏳ pendiente | — |
+| UpTheBlues | Will Aston Villa win on 2026-08-12? | No (BUY) | 80% | 0.56 | ⏳ pendiente | — |
+| swisstony | Will Aston Villa win on 2026-08-12? | No (BUY) | 80% | 8.65 | ⏳ pendiente | — |
 | swisstony | Will Aston Villa win on 2026-08-12? | No (BUY) | 80% | 4.61 | ⏳ pendiente | — |
 | swisstony | Will Aston Villa win on 2026-08-12? | No (BUY) | 80% | 3.07 | ⏳ pendiente | — |
 | UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.90 | ⏳ pendiente | — |
@@ -495,8 +501,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | Counter-Strike: magic vs TheMongolz (BO1 | TheMongolz (BUY) | 54% | 1.90 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Team Falcons vs K27 (BO1 | Team Falcons (BUY) | 79% | 5.51 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 90% | 0.52 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 96% | 0.76 | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: Team Falcons vs K27 (BO1 | Team Falcons (BUY) | 79% | 0.46 | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: magic vs TheMongolz (BO1 | TheMongolz (BUY) | 54% | 0.91 | ⏳ pendiente | — |
-| 1winstreak1 | Houston Astros vs. San Francisco Giants: | Over (BUY) | 23% | 1.39 | ❌ perdida | -1.39 |
-| 1winstreak1 | Houston Astros vs. San Francisco Giants: | Over (BUY) | 31% | 0.56 | ❌ perdida | -0.56 |
