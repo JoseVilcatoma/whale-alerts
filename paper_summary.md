@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 17:52:15 (hora de Perú)
+Actualizado: 2026-08-12 17:54:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $487.96
@@ -52,10 +52,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 202 | 112 | 0 | -39.02 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| 1winstreak1 | 136 | 110 | 25 | -62.81 USD |
+| 1winstreak1 | 136 | 110 | 26 | -62.81 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 2 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 3 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 2 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -464,6 +464,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 78% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: San Diego Padres (-1.5) | Milwaukee Brewers (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 78% | 0.00 | ⏳ pendiente | — |
@@ -492,5 +494,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 26% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 15% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Milwaukee Brewers (-2.5) | San Diego Padres (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
