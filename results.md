@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 04:46:36 (hora de Perú)
+Actualizado: 2026-08-12 04:48:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **939**  ($19,376,692 en total)
+- Apuestas registradas: **940**  ($19,389,534 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 150
+- Pendientes: 151
 - Apostadores distintos: 100
 
 ### Balance
@@ -75,6 +75,7 @@ _(mostrando los 40 de mayor monto, de 100 en total)_
 | ThornyDevil | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.69 (59¢) | $42,983 | — | ⏳ Pendiente |
 | ThornyDevil | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.75 (57¢) | $41,261 | — | ⏳ Pendiente |
 | GRINGOMATE | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.72 (58¢) | $12,841 | — | ⏳ Pendiente |
+| GRINGOMATE | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.72 (58¢) | $12,841 | — | ⏳ Pendiente |
 | ThornyDevil | LoL: EDward Gaming vs Anyone's Legend - Game 1 Winner | Anyone's Legend | 1.54 (65¢) | $11,886 | — | ⏳ Pendiente |
 | hff. | Dota 2: Level UP vs Rune Eaters - Game 1 Winner | Rune Eaters | 1.79 (56¢) | $12,472 | — | ⏳ Pendiente |
 | hff. | Dota 2: Level UP vs Rune Eaters - Game 1 Winner | Rune Eaters | 1.79 (56¢) | $12,472 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 100 en total)_
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.25 (80¢) | $14,034 | +$3,509 | ✅ Ganada |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.25 (80¢) | $14,034 | +$3,509 | ✅ Ganada |
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $12,072 | +$4,695 | ✅ Ganada |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $13,288 | +$5,168 | ✅ Ganada |

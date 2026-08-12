@@ -12227,5 +12227,18 @@
     "usd": 42982.540499999996,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 756,
+    "timestamp": 1786527876,
+    "username": "GRINGOMATE",
+    "wallet": "0x447d7eb8ecb8930e7b5f353b4298e2562d905eea",
+    "slug": "cs2-nip-lgc-2026-08-12",
+    "title": "Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "usd": 12841.199999999999,
+    "odds_at_bet": 58,
+    "status": "pending"
   }
 ]
