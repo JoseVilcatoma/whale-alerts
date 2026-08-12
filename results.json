@@ -12110,5 +12110,18 @@
     "usd": 17999.999999,
     "odds_at_bet": 81,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 747,
+    "timestamp": 1786526315,
+    "username": "254321758",
+    "wallet": "0x04b1e3aff4fed7a6868757761db7486ddb6cd224",
+    "slug": "lol-dnf-ns-2026-08-12-game2",
+    "title": "LoL: DN SOOPers vs Nongshim Red Force - Game 2 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 10973.8488,
+    "odds_at_bet": 91,
+    "status": "pending"
   }
 ]
