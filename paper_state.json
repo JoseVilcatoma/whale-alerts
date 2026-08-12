@@ -1,5 +1,5 @@
 {
-  "bankroll": 487.96257686028855,
+  "bankroll": 488.47329114600285,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18715,6 +18715,16 @@
       "timestamp": 1786574133.375941,
       "bankroll": 487.96,
       "event": "lost: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1786575685.4832623,
+      "bankroll": 487.96,
+      "event": "won: swisstony \u2014 Will Paris Saint-Germain vs. Aston Villa end in a draw?"
+    },
+    {
+      "timestamp": 1786575748.3946095,
+      "bankroll": 488.47,
+      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-2.5)"
     }
   ]
 }
