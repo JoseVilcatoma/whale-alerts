@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:00:12 (hora de Perú)
+Actualizado: 2026-08-11 21:02:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $302.54
-**Retorno acumulado:** -69.75%
+**Bankroll actual:** $303.12
+**Retorno acumulado:** -69.69%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -26,8 +26,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 56 | 68 | 10 | +17.35 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| Sassy-Bucket | 3 | 6 | 6 | +3.19 USD |
-| HomeRunHazard | 96 | 88 | 27 | +2.87 USD |
+| HomeRunHazard | 97 | 88 | 26 | +3.45 USD |
+| Sassy-Bucket | 5 | 6 | 4 | +3.19 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 617 | 468 | 29 | -103.61 USD |
+| ferrariChampions2026 | 617 | 468 | 30 | -103.61 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 7 | 13 | 4 | -115.27 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -440,6 +440,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 6.67 | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 47% | 1.01 | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 49% | 0.34 | ⏳ pendiente | — |
 | ferrariChampions2026 | Real Salt Lake vs. FC Juárez: O/U 2.5 | Over (BUY) | 60% | 0.37 | ⏳ pendiente | — |
@@ -469,4 +470,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 78% | 0.00 | ✅ ganada | +0.00 |
 | RN1 | Spread: New York Mets (-1.5) | Atlanta Braves (BUY) | 66% | 0.00 | ✅ ganada | +0.00 |
 | ferrariChampions2026 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will Fluminense FC vs. CS Independiente  | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
