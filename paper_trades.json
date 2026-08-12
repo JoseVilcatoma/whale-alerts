@@ -80818,5 +80818,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786531655.4022017,
     "fills": 1
+  },
+  {
+    "timestamp": 1786531874,
+    "timestamp_added": 1786531875.1852367,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "auc-nse-hei-2026-08-12-hei",
+    "title": "Will Heidelberg United FC win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 86.48,
+    "whale_pct": 0.123,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786531875.1852453,
+    "fills": 1
   }
 ]
