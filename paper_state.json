@@ -1,5 +1,5 @@
 {
-  "bankroll": 303.1215907569688,
+  "bankroll": 427.34449514287417,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -16780,6 +16780,681 @@
       "timestamp": 1786500067.1113956,
       "bankroll": 303.12,
       "event": "won: Sassy-Bucket \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1786500345.973141,
+      "bankroll": 304.24,
+      "event": "won: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786500346.9270256,
+      "bankroll": 304.67,
+      "event": "won: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: Recoleta FC O/U 0.5"
+    },
+    {
+      "timestamp": 1786500348.1915138,
+      "bankroll": 304.71,
+      "event": "won: UpTheBlues \u2014 Will Recoleta FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500348.5125315,
+      "bankroll": 303.9,
+      "event": "lost: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: CA Boca Juniors O/U 2.5"
+    },
+    {
+      "timestamp": 1786500348.6126902,
+      "bankroll": 303.93,
+      "event": "won: UpTheBlues \u2014 Will Recoleta FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500349.2752619,
+      "bankroll": 304.26,
+      "event": "won: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500349.3754199,
+      "bankroll": 303.42,
+      "event": "lost: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: CA Boca Juniors O/U 2.5"
+    },
+    {
+      "timestamp": 1786500349.575662,
+      "bankroll": 303.0,
+      "event": "lost: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: CA Boca Juniors O/U 2.5"
+    },
+    {
+      "timestamp": 1786500349.6757748,
+      "bankroll": 303.21,
+      "event": "won: UpTheBlues \u2014 Will Recoleta FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500349.7759056,
+      "bankroll": 303.66,
+      "event": "won: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500349.8760567,
+      "bankroll": 304.81,
+      "event": "won: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: Recoleta FC O/U 0.5"
+    },
+    {
+      "timestamp": 1786500349.9762099,
+      "bankroll": 305.86,
+      "event": "won: UpTheBlues \u2014 Will Recoleta FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500351.9475548,
+      "bankroll": 305.92,
+      "event": "won: UpTheBlues \u2014 Fluminense FC vs. CS Independiente Rivadavia: CS Independiente Rivadavia O/U 2.5"
+    },
+    {
+      "timestamp": 1786500352.5965352,
+      "bankroll": 305.95,
+      "event": "won: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: O/U 0.5"
+    },
+    {
+      "timestamp": 1786500352.93128,
+      "bankroll": 306.88,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1786500358.9734519,
+      "bankroll": 306.91,
+      "event": "won: UpTheBlues \u2014 Will Recoleta FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500360.5581203,
+      "bankroll": 298.14,
+      "event": "lost: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500360.6583495,
+      "bankroll": 375.81,
+      "event": "won: theowalcott \u2014 CA Boca Juniors vs. Recoleta FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500360.758565,
+      "bankroll": 372.82,
+      "event": "lost: RN1 \u2014 CA Boca Juniors vs. Recoleta FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500361.5383956,
+      "bankroll": 412.73,
+      "event": "won: theowalcott \u2014 Spread: CA Boca Juniors (-1.5)"
+    },
+    {
+      "timestamp": 1786500361.638612,
+      "bankroll": 409.15,
+      "event": "lost: UpTheBlues \u2014 Spread: CA Boca Juniors (-1.5)"
+    },
+    {
+      "timestamp": 1786500361.7388232,
+      "bankroll": 407.69,
+      "event": "lost: RN1 \u2014 Spread: CA Boca Juniors (-1.5)"
+    },
+    {
+      "timestamp": 1786500362.3715134,
+      "bankroll": 407.69,
+      "event": "won: UpTheBlues \u2014 Will CA Boca Juniors vs. Recoleta FC end in a draw?"
+    },
+    {
+      "timestamp": 1786500362.4716823,
+      "bankroll": 407.69,
+      "event": "won: theowalcott \u2014 CA Boca Juniors vs. Recoleta FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500362.571855,
+      "bankroll": 407.69,
+      "event": "lost: RN1 \u2014 CA Boca Juniors vs. Recoleta FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500362.8993118,
+      "bankroll": 407.69,
+      "event": "won: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786500362.999516,
+      "bankroll": 407.69,
+      "event": "lost: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500363.099699,
+      "bankroll": 407.69,
+      "event": "won: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: O/U 0.5"
+    },
+    {
+      "timestamp": 1786500363.4364655,
+      "bankroll": 407.69,
+      "event": "won: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: CA Boca Juniors O/U 1.5"
+    },
+    {
+      "timestamp": 1786500363.5366898,
+      "bankroll": 407.69,
+      "event": "lost: UpTheBlues \u2014 Spread: CA Boca Juniors (-1.5)"
+    },
+    {
+      "timestamp": 1786500363.6369188,
+      "bankroll": 407.69,
+      "event": "won: theowalcott \u2014 Spread: CA Boca Juniors (-1.5)"
+    },
+    {
+      "timestamp": 1786500363.7371578,
+      "bankroll": 407.69,
+      "event": "won: theowalcott \u2014 Spread: CA Boca Juniors (-1.5)"
+    },
+    {
+      "timestamp": 1786500364.0922475,
+      "bankroll": 407.69,
+      "event": "lost: UpTheBlues \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500364.4364645,
+      "bankroll": 407.69,
+      "event": "won: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786500364.5366242,
+      "bankroll": 407.69,
+      "event": "lost: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500364.6367412,
+      "bankroll": 407.69,
+      "event": "won: theowalcott \u2014 CA Boca Juniors vs. Recoleta FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500364.7368946,
+      "bankroll": 407.69,
+      "event": "won: theowalcott \u2014 Spread: CA Boca Juniors (-1.5)"
+    },
+    {
+      "timestamp": 1786500364.8370523,
+      "bankroll": 407.69,
+      "event": "lost: UpTheBlues \u2014 Spread: CA Boca Juniors (-1.5)"
+    },
+    {
+      "timestamp": 1786500364.9372764,
+      "bankroll": 407.69,
+      "event": "lost: RN1 \u2014 CA Boca Juniors vs. Recoleta FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500365.0374434,
+      "bankroll": 407.69,
+      "event": "won: UpTheBlues \u2014 Will CA Boca Juniors vs. Recoleta FC end in a draw?"
+    },
+    {
+      "timestamp": 1786500365.1376054,
+      "bankroll": 407.69,
+      "event": "won: UpTheBlues \u2014 CA Boca Juniors vs. Recoleta FC: CA Boca Juniors O/U 2.5"
+    },
+    {
+      "timestamp": 1786500365.2377477,
+      "bankroll": 407.69,
+      "event": "won: theowalcott \u2014 Spread: CA Boca Juniors (-1.5)"
+    },
+    {
+      "timestamp": 1786500365.3378892,
+      "bankroll": 407.69,
+      "event": "won: theowalcott \u2014 CA Boca Juniors vs. Recoleta FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500365.4380326,
+      "bankroll": 407.69,
+      "event": "won: theowalcott \u2014 CA Boca Juniors vs. Recoleta FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500366.11004,
+      "bankroll": 408.4,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500366.2102392,
+      "bankroll": 408.69,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500366.310421,
+      "bankroll": 409.03,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500366.4105737,
+      "bankroll": 409.23,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500366.7211597,
+      "bankroll": 423.81,
+      "event": "won: UpTheBlues \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786500366.821274,
+      "bankroll": 423.9,
+      "event": "won: UpTheBlues \u2014 Will Recoleta FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500366.9214325,
+      "bankroll": 423.96,
+      "event": "won: UpTheBlues \u2014 Will CA Boca Juniors vs. Recoleta FC end in a draw?"
+    },
+    {
+      "timestamp": 1786500367.0216024,
+      "bankroll": 426.77,
+      "event": "won: UpTheBlues \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786500367.1217492,
+      "bankroll": 427.31,
+      "event": "won: UpTheBlues \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500368.4984431,
+      "bankroll": 427.57,
+      "event": "won: UpTheBlues \u2014 Will CS Independiente Rivadavia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500368.7988765,
+      "bankroll": 427.57,
+      "event": "lost: swisstony \u2014 CA Boca Juniors vs. Recoleta FC: Recoleta FC O/U 0.5"
+    },
+    {
+      "timestamp": 1786500368.8990092,
+      "bankroll": 427.57,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500369.236401,
+      "bankroll": 427.57,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 3.5"
+    },
+    {
+      "timestamp": 1786500369.5825996,
+      "bankroll": 427.57,
+      "event": "lost: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786500369.6827917,
+      "bankroll": 427.57,
+      "event": "won: swisstony \u2014 Will CA Boca Juniors vs. Recoleta FC end in a draw?"
+    },
+    {
+      "timestamp": 1786500369.7829642,
+      "bankroll": 427.57,
+      "event": "lost: RN1 \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786500370.5325968,
+      "bankroll": 427.57,
+      "event": "won: swisstony \u2014 Spread: Recoleta FC (-1.5)"
+    },
+    {
+      "timestamp": 1786500371.4710386,
+      "bankroll": 427.57,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1786500371.5712302,
+      "bankroll": 427.57,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1786500371.6714003,
+      "bankroll": 427.57,
+      "event": "won: RN1 \u2014 Fluminense FC vs. CS Independiente Rivadavia: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1786500371.7716055,
+      "bankroll": 427.57,
+      "event": "lost: RN1 \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500372.0836449,
+      "bankroll": 427.57,
+      "event": "won: swisstony \u2014 Spread: Fluminense FC (-2.5)"
+    },
+    {
+      "timestamp": 1786500372.1838033,
+      "bankroll": 427.57,
+      "event": "won: RN1 \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500372.2839332,
+      "bankroll": 427.57,
+      "event": "won: RN1 \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500372.3840835,
+      "bankroll": 426.92,
+      "event": "lost: RN1 \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500372.4843063,
+      "bankroll": 426.01,
+      "event": "lost: swisstony \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500372.5845017,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Will CS Independiente Rivadavia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500372.6847093,
+      "bankroll": 426.01,
+      "event": "lost: RN1 \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500372.7849047,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500372.8851411,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Will CS Independiente Rivadavia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500372.9853694,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500373.0855083,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Will CS Independiente Rivadavia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500373.1857193,
+      "bankroll": 426.01,
+      "event": "won: ferrariChampions2026 \u2014 CA Boca Juniors vs. Recoleta FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500373.6293306,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Will CS Independiente Rivadavia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500377.1215074,
+      "bankroll": 426.01,
+      "event": "won: ferrariChampions2026 \u2014 Will CA Boca Juniors vs. Recoleta FC end in a draw?"
+    },
+    {
+      "timestamp": 1786500377.2217584,
+      "bankroll": 426.01,
+      "event": "lost: RN1 \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500377.321999,
+      "bankroll": 426.01,
+      "event": "won: ferrariChampions2026 \u2014 Will CA Boca Juniors vs. Recoleta FC end in a draw?"
+    },
+    {
+      "timestamp": 1786500377.5224,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Will CS Independiente Rivadavia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500377.722694,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 3.5"
+    },
+    {
+      "timestamp": 1786500377.8228805,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Will CS Independiente Rivadavia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500378.0232847,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1786500378.1234798,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Will CS Independiente Rivadavia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500378.447622,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1786500378.5478592,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500378.7482548,
+      "bankroll": 426.01,
+      "event": "won: Sassy-Bucket \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1786500378.8484597,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786500379.2598872,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Spread: Fluminense FC (-1.5)"
+    },
+    {
+      "timestamp": 1786500379.9247684,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 0.5"
+    },
+    {
+      "timestamp": 1786500380.025001,
+      "bankroll": 426.01,
+      "event": "won: Sassy-Bucket \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1786500380.1252122,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Will CS Independiente Rivadavia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500380.4256573,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500380.7262607,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500381.0268216,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786500381.745542,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786500381.8457577,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786500381.945955,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786500382.1461918,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500382.2463658,
+      "bankroll": 426.01,
+      "event": "lost: ferrariChampions2026 \u2014 CA Boca Juniors vs. Recoleta FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786500382.654547,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786500382.8549757,
+      "bankroll": 426.01,
+      "event": "won: ferrariChampions2026 \u2014 Will Recoleta FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500383.4931843,
+      "bankroll": 426.01,
+      "event": "won: ferrariChampions2026 \u2014 Will Recoleta FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500383.5934055,
+      "bankroll": 426.01,
+      "event": "lost: ferrariChampions2026 \u2014 CA Boca Juniors vs. Recoleta FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786500383.6936288,
+      "bankroll": 426.01,
+      "event": "lost: swisstony \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500384.7711952,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 3.5"
+    },
+    {
+      "timestamp": 1786500384.8713884,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Will CS Independiente Rivadavia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500385.2990937,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500385.3993316,
+      "bankroll": 426.01,
+      "event": "lost: swisstony \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500385.4995348,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 0.5"
+    },
+    {
+      "timestamp": 1786500385.5997427,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786500385.9003422,
+      "bankroll": 426.01,
+      "event": "lost: ferrariChampions2026 \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500386.0005543,
+      "bankroll": 426.01,
+      "event": "won: ferrariChampions2026 \u2014 Will CS Independiente Rivadavia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500386.1007912,
+      "bankroll": 426.01,
+      "event": "lost: swisstony \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500386.4013622,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500386.5017226,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Will CS Independiente Rivadavia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500386.6020367,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Spread: Fluminense FC (-1.5)"
+    },
+    {
+      "timestamp": 1786500386.7022026,
+      "bankroll": 426.01,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Fluminense FC (-1.5)"
+    },
+    {
+      "timestamp": 1786500386.802363,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 1.5"
+    },
+    {
+      "timestamp": 1786500387.1028173,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500387.2030585,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500387.3032703,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Will CS Independiente Rivadavia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500387.4034421,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500387.8266733,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 0.5"
+    },
+    {
+      "timestamp": 1786500388.0270467,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 0.5"
+    },
+    {
+      "timestamp": 1786500388.1272585,
+      "bankroll": 426.01,
+      "event": "won: ferrariChampions2026 \u2014 Will CS Independiente Rivadavia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500388.2275085,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 0.5"
+    },
+    {
+      "timestamp": 1786500388.3276746,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500388.427829,
+      "bankroll": 426.01,
+      "event": "won: RN1 \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500388.6281466,
+      "bankroll": 426.01,
+      "event": "won: ferrariChampions2026 \u2014 Will CS Independiente Rivadavia win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500388.9287,
+      "bankroll": 426.01,
+      "event": "lost: RN1 \u2014 Will Fluminense FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786500389.028933,
+      "bankroll": 426.01,
+      "event": "won: swisstony \u2014 Fluminense FC vs. CS Independiente Rivadavia: O/U 2.5"
+    },
+    {
+      "timestamp": 1786500389.4383395,
+      "bankroll": 427.34,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 7.5"
     }
   ]
 }

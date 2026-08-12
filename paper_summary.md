@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:04:19 (hora de Perú)
+Actualizado: 2026-08-11 21:06:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $303.12
-**Retorno acumulado:** -69.69%
+**Bankroll actual:** $427.34
+**Retorno acumulado:** -57.27%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,20 +14,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
+| theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| theowalcott | 7 | 4 | 10 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
+| wr0ngw4yb3tt0r | 57 | 68 | 9 | +18.69 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 2 | 6 | 4 | +17.41 USD |
-| wr0ngw4yb3tt0r | 56 | 68 | 10 | +17.35 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| HomeRunHazard | 97 | 88 | 26 | +3.45 USD |
-| Sassy-Bucket | 5 | 6 | 4 | +3.19 USD |
+| UpTheBlues | 240 | 148 | 14 | +4.47 USD |
+| HomeRunHazard | 98 | 88 | 25 | +4.38 USD |
+| Sassy-Bucket | 7 | 6 | 2 | +3.19 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
@@ -42,18 +43,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| UpTheBlues | 215 | 138 | 49 | -4.35 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 125 | 102 | 56 | -28.98 USD |
-| RN1 | 175 | 100 | 38 | -33.33 USD |
-| quavoo | 152 | 185 | 30 | -33.89 USD |
+| swisstony | 162 | 108 | 13 | -28.34 USD |
+| quavoo | 152 | 185 | 31 | -33.89 USD |
+| RN1 | 196 | 110 | 7 | -38.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 617 | 468 | 30 | -103.61 USD |
+| ferrariChampions2026 | 626 | 471 | 19 | -103.61 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 7 | 13 | 4 | -115.27 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -435,11 +435,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cle-det-2026-08-11-spread-away-1pt5 | HomeRunHazard, RN1 |
 | mlb-cle-det-2026-08-11-total-9pt5 | ferrariChampions2026, swisstony |
 | mlb-bos-tor-2026-08-11-spread-home-1pt5 | RN1, ferrariChampions2026 |
+| mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 0.96 | ⏳ pendiente | — |
+| ferrariChampions2026 | Club Bolívar vs. São Paulo FC: O/U 3.5 | Under (BUY) | 89% | 0.39 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 6.67 | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 47% | 1.01 | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 49% | 0.34 | ⏳ pendiente | — |
@@ -460,13 +463,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Spread: Seattle Mariners (-1.5) | New York Yankees (BUY) | 61% | 0.41 | ⏳ pendiente | — |
 | quavoo | Real Salt Lake vs. FC Juárez: Both Teams | Yes (BUY) | 64% | 0.45 | ⏳ pendiente | — |
 | quavoo | Will Tigres de la UANL win on 2026-08-11 | Yes (BUY) | 71% | 0.52 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 53% | 1.51 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 53% | 1.51 | ✅ ganada | +1.34 |
 | HomeRunHazard | New York Liberty vs. Indiana Fever | New York Liberty (BUY) | 41% | 0.52 | ❌ perdida | -0.52 |
 | RN1 | Will Club Bolívar win on 2026-08-11? | Yes (BUY) | 52% | 1.48 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 36% | 0.00 | ⏳ pendiente | — |
+| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 96% | 0.00 | ✅ ganada | +0.00 |
+| RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 36% | 0.00 | ❌ perdida | -0.00 |
 | swisstony | Will Avaí FC vs. CR Brasil end in a draw | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Avaí FC win on 2026-08-11? | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | RN1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 78% | 0.00 | ✅ ganada | +0.00 |
-| RN1 | Spread: New York Mets (-1.5) | Atlanta Braves (BUY) | 66% | 0.00 | ✅ ganada | +0.00 |
-| ferrariChampions2026 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
