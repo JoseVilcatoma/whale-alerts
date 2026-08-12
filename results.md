@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 08:10:51 (hora de Perú)
+Actualizado: 2026-08-12 08:12:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1077**  ($23,660,921 en total)
-- Resueltas: **792** — 488 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 285
+- Apuestas registradas: **1078**  ($23,698,421 en total)
+- Resueltas: **794** — 490 ganadas / 304 perdidas (**62%** de acierto)
+- Pendientes: 284
 - Apostadores distintos: 118
 
 ### Balance
 
-- **Resultado de los apostadores: +$467,405** sobre $16,911,480 apostados (ROI **+2.8%**)
+- **Resultado de los apostadores: +$468,086** sobre $16,936,320 apostados (ROI **+2.8%**)
 - Copiando $100 fijo en cada una: **+$2,360** sobre $77,800 (ROI **+3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -71,11 +71,12 @@ _(mostrando los 40 de mayor monto, de 118 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| skyman44 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.33 (75¢) | $37,500 | — | ⏳ Pendiente |
 | GreenBerry1337 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.33 (75¢) | $14,559 | — | ⏳ Pendiente |
 | GreenBerry1337 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.33 (75¢) | $14,559 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.85 (26¢) | $12,812 | — | ⏳ Pendiente |
-| CongoleseBorat | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.37 (73¢) | $12,420 | — | ⏳ Pendiente |
-| CongoleseBorat | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.37 (73¢) | $12,420 | — | ⏳ Pendiente |
+| CongoleseBorat | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.37 (73¢) | $12,420 | +$340 | 💰 Vendida antes |
+| CongoleseBorat | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.37 (73¢) | $12,420 | +$340 | 💰 Vendida antes |
 | Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.85 (26¢) | $12,812 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.70 (27¢) | $153,612 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.37 (73¢) | $407,480 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 118 en total)_
 | Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | magic | 2.13 (47¢) | $10,352 | — | ⏳ Pendiente |
 | ohehe | Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins | JD Gaming | 1.79 (56¢) | $10,553 | — | ⏳ Pendiente |
 | ohehe | Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins | JD Gaming | 1.79 (56¢) | $10,553 | — | ⏳ Pendiente |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.25 (80¢) | $29,500 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.25 (80¢) | $29,500 | — | ⏳ Pendiente |

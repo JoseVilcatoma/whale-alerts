@@ -13883,7 +13883,9 @@
     "side": "BUY",
     "usd": 12419.7309,
     "odds_at_bet": 73,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": 340.27,
+    "precio_salida": 75
   },
   {
     "telegram_msg_id": 885,
@@ -13948,7 +13950,9 @@
     "side": "BUY",
     "usd": 12419.7309,
     "odds_at_bet": 73,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": 340.27,
+    "precio_salida": 75
   },
   {
     "telegram_msg_id": 890,
@@ -14026,6 +14030,19 @@
     "side": "BUY",
     "usd": 10910.094000000001,
     "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 896,
+    "timestamp": 1786539996,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 37500.0,
+    "odds_at_bet": 75,
     "status": "pending"
   }
 ]
