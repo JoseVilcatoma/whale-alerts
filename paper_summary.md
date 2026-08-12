@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 00:49:47 (hora de Perú)
+Actualizado: 2026-08-12 00:51:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $449.13
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
-| AV23IUa | 3 | 3 | 0 | +46.51 USD |
+| AV23IUa | 3 | 3 | 1 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 65 | 69 | 0 | +23.18 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -447,6 +447,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: FUT Esports vs TYLOO (BO | TYLOO (BUY) | 41% | 1.24 | ⏳ pendiente | — |
 | swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 48% | 1.25 | ✅ ganada | +1.35 |
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 62% | 0.63 | ✅ ganada | +0.39 |
 | RN1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 54% | 0.54 | ✅ ganada | +0.46 |
@@ -476,4 +477,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 45% | 1.04 | ❌ perdida | -1.04 |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 36% | 0.00 | ❌ perdida | -0.00 |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 59% | 0.00 | ❌ perdida | -0.00 |
-| wr0ngw4yb3tt0r | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 50% | 0.00 | ✅ ganada | +0.00 |
