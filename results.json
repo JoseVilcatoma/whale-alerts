@@ -20359,5 +20359,44 @@
     "usd": 11901.3299984,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1331,
+    "timestamp": 1786560130,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tb-oak-2026-08-12-total-9pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 49799.78999999999,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1332,
+    "timestamp": 1786560130,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-tb-oak-2026-08-12-total-9pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 86829.8311,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1333,
+    "timestamp": 1786560130,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-tb-oak-2026-08-12-total-9pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 16334.995699999998,
+    "odds_at_bet": 47,
+    "status": "pending"
   }
 ]
