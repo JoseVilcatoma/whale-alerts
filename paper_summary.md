@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 05:56:55 (hora de Perú)
+Actualizado: 2026-08-12 05:59:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 29 | 16 | 10 | +189.61 USD |
+| BBQChickenisthebesttt | 29 | 16 | 11 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 4 | 5 | 2 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -456,6 +456,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 1 Wi | KT Rolster (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | dv-pm | Spread: Arsenal FC (-1.5) | Como 1907 (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Heidelberg United FC win on 2026-08 | No (BUY) | 80% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
@@ -485,4 +486,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | Nongshim Red Force (BUY) | 22% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Will Brunswick Juventus FC win on 2026-0 | No (BUY) | 96% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 86% | 0.00 | ⏳ pendiente | — |
