@@ -1,5 +1,5 @@
 {
-  "bankroll": 408.4925092890761,
+  "bankroll": 408.8472262702082,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -17780,6 +17780,11 @@
       "timestamp": 1786506004.2310274,
       "bankroll": 408.49,
       "event": "won: swisstony \u2014 Tampa Bay Rays vs. Athletics: O/U 10.5"
+    },
+    {
+      "timestamp": 1786508179.9056008,
+      "bankroll": 408.85,
+      "event": "won: SDTrading \u2014 Spread: Texas Rangers (-1.5)"
     }
   ]
 }
