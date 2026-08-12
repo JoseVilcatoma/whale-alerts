@@ -78447,5 +78447,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786525917.7049713,
     "fills": 2
+  },
+  {
+    "timestamp": 1786525994,
+    "timestamp_added": 1786525994.4749823,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-lg6-gl1-2026-08-12",
+    "title": "Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "whale_usd": 381.9483870000001,
+    "whale_pct": 0.154,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786525994.4749901,
+    "fills": 1
   }
 ]
