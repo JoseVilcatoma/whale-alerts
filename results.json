@@ -26717,5 +26717,44 @@
     "usd": 11700.0,
     "odds_at_bet": 90,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1842,
+    "timestamp": 1786578024,
+    "username": "kibanachi",
+    "wallet": "0x8c7d4bde6ddefeafe140fecbea8aedbb3cd383ed",
+    "slug": "atp-jodar-nakashi-2026-08-12",
+    "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 11700.0,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1843,
+    "timestamp": 1786578003,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-tien-shelton-2026-08-12",
+    "title": "National Bank Open: Learner Tien vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 66000.0,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1844,
+    "timestamp": 1786578003,
+    "username": "highnetworth",
+    "wallet": "0xbb5fbe810633ab08d106b82db84418a0e2ca2e21",
+    "slug": "atp-tien-shelton-2026-08-12",
+    "title": "National Bank Open: Learner Tien vs Ben Shelton",
+    "outcome": "Learner Tien",
+    "side": "BUY",
+    "usd": 34000.0,
+    "odds_at_bet": 34,
+    "status": "pending"
   }
 ]
