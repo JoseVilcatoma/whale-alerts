@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 18:29:24 (hora de Perú)
+Actualizado: 2026-08-12 18:31:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $637.22
@@ -16,10 +16,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 67 | 70 | 2 | +104.98 USD |
+| wr0ngw4yb3tt0r | 67 | 70 | 3 | +104.98 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 4 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 9 | +60.51 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 202 | 112 | 10 | -39.02 USD |
+| RN1 | 202 | 112 | 11 | -39.02 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -457,11 +457,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lib-pal-cep-2026-08-12-total-0pt5 | RN1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-12-total-10pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | sud-tig-tor-2026-08-12-total-1pt5 | RN1, ferrariChampions2026 |
+| mlb-cle-det-2026-08-12-spread-home-1pt5 | RN1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Cleveland Guardians (-2.5) | Cleveland Guardians (BUY) | 14% | 1.07 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 24% | 1.84 | ⏳ pendiente | — |
+| RN1 | Spread: Detroit Tigers (-1.5) | Detroit Tigers (BUY) | 38% | 0.75 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Detroit Tigers (-1.5) | Cleveland Guardians (BUY) | 62% | 2.29 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Detroit Tigers (-2.5) | Detroit Tigers (BUY) | 31% | 3.50 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Cleveland Guardians (-1.5) | Detroit Tigers (BUY) | 75% | 8.59 | ⏳ pendiente | — |
+| 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 55% | 7.11 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Montevideo City Torque win on 2026- | Yes (BUY) | 69% | 0.64 | ⏳ pendiente | — |
 | RN1 | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 63% | 1.36 | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Tigre vs. Montevideo City Torque: O/U | Under (BUY) | 55% | 1.45 | ⏳ pendiente | — |
@@ -485,10 +493,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will SE Palmeiras win on 2026-08-12? | No (BUY) | 42% | 1.06 | ⏳ pendiente | — |
 | RN1 | Cruzeiro EC vs. CR Flamengo: O/U 2.5 | Under (BUY) | 57% | 5.21 | ⏳ pendiente | — |
 | 1winstreak1 | New York Mets vs. Atlanta Braves: O/U 8. | Over (BUY) | 54% | 4.55 | ⏳ pendiente | — |
-| ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 37% | 11.94 | ⏳ pendiente | — |
-| RN1 | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 37% | 1.36 | ⏳ pendiente | — |
-| RN1 | Red Bull Bragantino vs. CA Mineiro: O/U  | Under (BUY) | 42% | 0.66 | ⏳ pendiente | — |
-| 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 20% | 1.65 | ⏳ pendiente | — |
-| 1winstreak1 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 73% | 3.07 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 44% | 6.29 | ❌ perdida | -6.29 |
-| wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 53% | 80.99 | ✅ ganada | +71.82 |
