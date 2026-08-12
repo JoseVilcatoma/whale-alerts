@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 16:20:39 (hora de Perú)
+Actualizado: 2026-08-12 16:22:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1929**  ($52,433,622 en total)
+- Apuestas registradas: **1931**  ($52,465,821 en total)
 - Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
-- Pendientes: 580
-- Apostadores distintos: 171
+- Pendientes: 582
+- Apostadores distintos: 172
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | highnetworth | 0 | 0 | 5 | — | $215,351 | — |
 | skyman44 | 3 | 5 | 3 | 38% | $214,644 | -$23,079 |
 
-_(mostrando los 40 de mayor monto, de 171 en total)_
+_(mostrando los 40 de mayor monto, de 172 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vtcchampion52 | Will Kai and Speed beat the Minecraft challenge by August 13? | Yes | 1.14 (88¢) | $13,779 | — | ⏳ Pendiente |
+| zb8 | Will Kai and Speed beat the Minecraft challenge by August 13? | Yes | 1.11 (90¢) | $18,419 | — | ⏳ Pendiente |
 | WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U 2.5 | Over 2.5 | 2.13 (47¢) | $10,103 | — | ⏳ Pendiente |
 | WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U 2.5 | Over 2.5 | 2.13 (47¢) | $10,103 | — | ⏳ Pendiente |
 | WTSA | Spread: SE Palmeiras (-1.5) | SE Palmeiras | 1.96 (51¢) | $22,554 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 171 en total)_
 | highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $28,052 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $29,197 | — | ⏳ Pendiente |
 | highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $71,238 | — | ⏳ Pendiente |
-| 0x076d…8d4c | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $74,145 | — | ⏳ Pendiente |
-| Feromont | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 1.15 (87¢) | $37,662 | — | ⏳ Pendiente |

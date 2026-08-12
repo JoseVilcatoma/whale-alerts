@@ -25139,5 +25139,31 @@
     "usd": 23500.0,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1719,
+    "timestamp": 1786569604,
+    "username": "vtcchampion52",
+    "wallet": "0xc69bd5567b40ef4d11922eaa57e1f9be1c642076",
+    "slug": "will-kai-and-speed-beat-the-minecraft-challenge-by-august-13-20260807213124702",
+    "title": "Will Kai and Speed beat the Minecraft challenge by August 13?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 13779.499260469423,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1720,
+    "timestamp": 1786569511,
+    "username": "zb8",
+    "wallet": "0x0224bb9eb0a5c9fd261ac9123a72cbdd5748292a",
+    "slug": "will-kai-and-speed-beat-the-minecraft-challenge-by-august-13-20260807213124702",
+    "title": "Will Kai and Speed beat the Minecraft challenge by August 13?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 18419.464410867815,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]
