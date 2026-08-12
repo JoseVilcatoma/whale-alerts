@@ -78449,5 +78449,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786536295.1638627,
     "fills": 1
+  },
+  {
+    "timestamp": 1786537692,
+    "timestamp_added": 1786537692.6597466,
+    "username": "dv-pm",
+    "wallet": "0x56acab44cfca2e88bb9b3406890aea7bfa0cd77e",
+    "slug": "col-kat-hta-2026-08-12-kat",
+    "title": "Will GKS GieKSa Katowice win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 610.5600000000001,
+    "whale_pct": 3.918,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786537692.6597571,
+    "fills": 1
   }
 ]
