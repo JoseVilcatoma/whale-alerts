@@ -20125,5 +20125,57 @@
     "usd": 10078.6042,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1313,
+    "timestamp": 1786558086,
+    "username": "Levoin",
+    "wallet": "0x893a1c2684c5b7395154490fec9b0e6deedd29dc",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 19999.999998379997,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1314,
+    "timestamp": 1786558086,
+    "username": "norrisfan",
+    "wallet": "0xe72bb501df5306c75c89383d48a1e81073fbb0a0",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 13898.305083619998,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1315,
+    "timestamp": 1786558598,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tb-oak-2026-08-12-total-9pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 40722.6144,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1316,
+    "timestamp": 1786558598,
+    "username": "Elaran1993",
+    "wallet": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d",
+    "slug": "mlb-tb-oak-2026-08-12-total-9pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 46920.5256,
+    "odds_at_bet": 52,
+    "status": "pending"
   }
 ]

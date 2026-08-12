@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 13:15:00 (hora de Perú)
+Actualizado: 2026-08-12 13:17:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1545**  ($38,789,724 en total)
+- Apuestas registradas: **1549**  ($38,911,265 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 604
-- Apostadores distintos: 151
+- Pendientes: 608
+- Apostadores distintos: 152
 
 ### Balance
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 90 | 29 | 28 | 76% | $2,094,841 | +$113,934 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
 | Weaseloftheweek | 11 | 2 | 7 | 85% | $1,636,724 | +$518,388 |
-| pleaseplease123 | 0 | 44 | 9 | 0% | $1,340,870 | -$1,082,423 |
+| pleaseplease123 | 0 | 44 | 10 | 0% | $1,381,593 | -$1,082,423 |
 | BreakTheBank | 0 | 12 | 2 | 0% | $918,632 | -$803,506 |
 | Lakersfan111 | 1 | 3 | 31 | ⚠️ 25% (4) | $653,923 | -$28,993 |
 | texaskid | 18 | 0 | 0 | 100% | $598,663 | +$455,165 |
@@ -65,14 +65,18 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
 | NemecGhudini | 3 | 2 | 5 | ⚠️ 60% (5) | $161,645 | -$17,067 |
 
-_(mostrando los 40 de mayor monto, de 151 en total)_
+_(mostrando los 40 de mayor monto, de 152 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $40,723 | — | ⏳ Pendiente |
+| Elaran1993 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $46,921 | — | ⏳ Pendiente |
 | purplegatto | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $10,079 | — | ⏳ Pendiente |
 | 78979879879879 | Israel closes its airspace by August 31? | No | 1.08 (93¢) | $11,691 | — | ⏳ Pendiente |
+| Levoin | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $20,000 | — | ⏳ Pendiente |
+| norrisfan | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $13,898 | — | ⏳ Pendiente |
 | 0way | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $14,001 | — | ⏳ Pendiente |
 | bigspending | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $41,300 | — | ⏳ Pendiente |
 | Bot313 | Baltimore Orioles vs. Minnesota Twins: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $10,000 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 151 en total)_
 | pleaseplease123 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.61 (62¢) | $33,679 | — | ⏳ Pendiente |
 | Feromont | Baltimore Orioles vs. Minnesota Twins | Minnesota Twins | 1.96 (51¢) | $10,191 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.33 (30¢) | $162,342 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $45,571 | — | ⏳ Pendiente |
-| S-Works | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $210,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $44,101 | — | ⏳ Pendiente |
-| ARI100KRAT | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $13,647 | — | ⏳ Pendiente |
