@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 15:53:34 (hora de Perú)
+Actualizado: 2026-08-12 15:55:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $523.33
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 2 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| WTSA | 0 | 0 | 1 | +0.00 USD |
+| WTSA | 0 | 0 | 3 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -457,6 +457,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 45% | 5.06 | ⏳ pendiente | — |
+| WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 45% | 100.84 | ⏳ pendiente | — |
 | WTSA | Spread: SE Palmeiras (-1.5) | SE Palmeiras (BUY) | 48% | 122.45 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: San Francisco Giants (-2.5) | San Francisco Giants (BUY) | 28% | 1.11 | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 97% | 1.50 | ⏳ pendiente | — |
@@ -485,5 +487,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 72% | 0.93 | ❌ perdida | -0.93 |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 21% | 4.79 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 29% | 6.62 | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 67% | 3.04 | ❌ perdida | -3.04 |
-| 1winstreak1 | Spread: Minnesota Twins (-3.5) | Baltimore Orioles (BUY) | 89% | 24.43 | ✅ ganada | +3.02 |
