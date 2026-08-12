@@ -78785,8 +78785,8 @@
     "whale_pct": 0.212,
     "paper_stake_usd": 1.19,
     "odds_at_bet": 14,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.19,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786562020.4761574,
@@ -79035,6 +79035,26 @@
     ],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786563692.40078,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786563975,
+    "timestamp_added": 1786563976.428024,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-tb-oak-2026-08-12-total-9pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 27.58,
+    "whale_pct": 0.351,
+    "paper_stake_usd": 1.97,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786563976.4280334,
     "fills": 1
   }
 ]
