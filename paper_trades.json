@@ -77799,5 +77799,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786520686.768145,
     "fills": 1
+  },
+  {
+    "timestamp": 1786521194,
+    "timestamp_added": 1786521194.563135,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-fut-tyloo-2026-08-12",
+    "title": "Counter-Strike: FUT Esports vs TYLOO (BO1) - Esports World Cup Group C",
+    "outcome": "TYLOO",
+    "side": "BUY",
+    "whale_usd": 1049.4851999999998,
+    "whale_pct": 0.404,
+    "paper_stake_usd": 1.79,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786521194.5631425,
+    "fills": 1
   }
 ]
