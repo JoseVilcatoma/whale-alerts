@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 06:51:44 (hora de Perú)
+Actualizado: 2026-08-12 06:53:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1017**  ($21,252,846 en total)
+- Apuestas registradas: **1020**  ($21,305,698 en total)
 - Resueltas: **790** — 486 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 227
-- Apostadores distintos: 112
+- Pendientes: 230
+- Apostadores distintos: 113
 
 ### Balance
 
@@ -44,11 +44,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mikesports | 3 | 3 | 7 | ⚠️ 50% (6) | $211,470 | -$24,073 |
 | wr0ngw4yb3tt0r | 7 | 6 | 0 | 54% | $209,577 | -$12,560 |
 | ActionReaction | 0 | 0 | 7 | — | $193,576 | — |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 8 | — | $191,684 | — |
 | xifutloong3 | 6 | 0 | 0 | ⚠️ 100% (6) | $190,324 | +$142,407 |
 | Feromont | 7 | 0 | 0 | ⚠️ 100% (7) | $162,799 | +$43,867 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
 | johnny234 | 3 | 3 | 5 | ⚠️ 50% (6) | $162,310 | -$7,214 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 7 | — | $162,184 | — |
 | winwin518168 | 0 | 10 | 0 | 0% | $160,808 | -$160,808 |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,408 | +$115,433 |
 | ThornyDevil | 2 | 0 | 4 | ⚠️ 100% (2) | $158,751 | +$14,240 |
@@ -65,13 +65,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
 | Mylifeisover | 6 | 0 | 0 | ⚠️ 100% (6) | $106,449 | +$90,679 |
 
-_(mostrando los 40 de mayor monto, de 112 en total)_
+_(mostrando los 40 de mayor monto, de 113 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ohehe | Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins | JD Gaming | 1.79 (56¢) | $10,553 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.25 (80¢) | $29,500 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.25 (80¢) | $29,500 | — | ⏳ Pendiente |
+| SineNooneEI | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.56 (64¢) | $12,800 | — | ⏳ Pendiente |
 | SineNooneEI | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.56 (64¢) | $12,800 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $16,703 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $16,703 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 112 en total)_
 | 0x8d83598759 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.56 (64¢) | $11,088 | — | ⏳ Pendiente |
 | SineNooneEI | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.28 (78¢) | $10,140 | — | ⏳ Pendiente |
 | five5120 | LoL: EDward Gaming vs Anyone's Legend - Game 2 Winner | Anyone's Legend | 1.09 (92¢) | $10,400 | — | ⏳ Pendiente |
-| xfile | Will Paris Saint-Germain win on 2026-08-12? | No | 2.33 (43¢) | $12,900 | — | ⏳ Pendiente |
-| Weaseloftheweek | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.75 (57¢) | $47,307 | — | ⏳ Pendiente |
-| vip-kazah | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.18 (85¢) | $12,182 | — | ⏳ Pendiente |
