@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 05:40:30 (hora de Perú)
+Actualizado: 2026-08-12 05:42:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **956**  ($19,680,123 en total)
+- Apuestas registradas: **957**  ($19,692,304 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 167
-- Apostadores distintos: 102
+- Pendientes: 168
+- Apostadores distintos: 103
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | paquitomillonario | 0 | 6 | 0 | ⚠️ 0% (6) | $83,776 | -$83,776 |
 | BaccaratRoulette | 0 | 3 | 0 | ⚠️ 0% (3) | $81,180 | -$81,180 |
 
-_(mostrando los 40 de mayor monto, de 102 en total)_
+_(mostrando los 40 de mayor monto, de 103 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vip-kazah | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.18 (85¢) | $12,182 | — | ⏳ Pendiente |
 | jackpeter888 | LoL: EDward Gaming vs Anyone's Legend - Game 2 Winner | Anyones Legend | 1.35 (74¢) | $11,152 | — | ⏳ Pendiente |
 | jackpeter888 | LoL: EDward Gaming vs Anyone's Legend - Game 2 Winner | Anyone's Legend | 1.35 (74¢) | $11,152 | — | ⏳ Pendiente |
 | Lakersfan111 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.33 (75¢) | $10,500 | — | ⏳ Pendiente |
@@ -128,6 +129,5 @@ _(mostrando los 40 de mayor monto, de 102 en total)_
 | wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.69 (59¢) | $17,326 | +$12,040 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.69 (59¢) | $17,326 | +$12,040 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 2.44 (41¢) | $13,328 | -$13,328 | ❌ Perdida |
-| 0x076d…8d4c | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.67 (60¢) | $11,937 | +$7,958 | ✅ Ganada |
 | 0x076d…8d4c | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.67 (60¢) | $11,937 | +$7,958 | ✅ Ganada |
 | 0x076d…8d4c | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.67 (60¢) | $11,937 | +$7,958 | ✅ Ganada |
