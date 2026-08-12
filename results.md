@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 14:50:10 (hora de Perú)
+Actualizado: 2026-08-12 14:52:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1868**  ($51,180,461 en total)
+- Apuestas registradas: **1872**  ($51,287,710 en total)
 - Resueltas: **1341** — 796 ganadas / 545 perdidas (**59%** de acierto)
-- Pendientes: 527
+- Pendientes: 531
 - Apostadores distintos: 165
 
 ### Balance
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 44 | 43% | $8,608,847 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 45 | 43% | $8,639,847 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 13 | 35% | $2,897,482 | -$564,452 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 14 | 35% | $2,916,482 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 36 | 77% | $2,446,638 | +$168,085 |
 | AV23IUa | 33 | 24 | 21 | 58% | $2,012,237 | +$171,257 |
 | pleaseplease123 | 0 | 44 | 23 | 0% | $1,921,287 | -$1,082,423 |
@@ -54,10 +54,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | casualbet2020 | 0 | 0 | 6 | — | $304,949 | — |
 | fRibrenlc | 9 | 7 | 6 | 56% | $290,662 | +$15,968 |
+| 0x076d…8d4c | 8 | 0 | 8 | 100% | $288,490 | +$45,411 |
 | basementdweller3000 | 6 | 3 | 6 | 67% | $282,034 | +$34,747 |
 | Feromont | 9 | 0 | 3 | 100% | $266,710 | +$55,222 |
 | five5120 | 7 | 9 | 2 | 44% | $266,115 | -$84,525 |
-| 0x076d…8d4c | 8 | 0 | 7 | 100% | $259,293 | +$45,411 |
 | ThornyDevil | 2 | 6 | 1 | 25% | $254,880 | -$207,394 |
 | johnny234 | 4 | 11 | 3 | 27% | $245,256 | -$101,100 |
 | mikesports | 7 | 8 | 0 | 47% | $243,869 | -$88,869 |
@@ -71,10 +71,14 @@ _(mostrando los 40 de mayor monto, de 165 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $28,052 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $29,197 | — | ⏳ Pendiente |
 | highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $71,238 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $74,145 | — | ⏳ Pendiente |
 | Feromont | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 1.15 (87¢) | $37,662 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 1.14 (88¢) | $16,117 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks | Colorado Rockies | 2.63 (38¢) | $19,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks | Colorado Rockies | 2.63 (38¢) | $19,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $23,500 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 165 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.14 (88¢) | $86,776 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 8.33 (12¢) | $13,286 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 8.33 (12¢) | $13,286 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.14 (88¢) | $86,776 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.18 (85¢) | $15,875 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.18 (85¢) | $15,875 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.18 (85¢) | $15,875 | — | ⏳ Pendiente |
