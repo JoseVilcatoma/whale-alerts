@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 18:33:28 (hora de Perú)
+Actualizado: 2026-08-12 18:35:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $637.22
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 202 | 112 | 11 | -39.02 USD |
+| RN1 | 202 | 112 | 17 | -39.02 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -449,6 +449,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
 | lib-pal-cep-2026-08-12-draw | RN1, UpTheBlues |
+| lib-pal-cep-2026-08-12-cep | RN1, UpTheBlues |
 | mlb-sea-nyy-2026-08-12-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-bos-tor-2026-08-12-total-7pt5 | RN1, ferrariChampions2026 |
 | lib-pal-cep-2026-08-12-pal | RN1, ferrariChampions2026 |
@@ -459,12 +460,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-mil-sd-2026-08-12-total-5pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-12-total-10pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | sud-tig-tor-2026-08-12-total-1pt5 | RN1, ferrariChampions2026 |
+| sud-tig-tor-2026-08-12-tor | RN1, ferrariChampions2026 |
 | mlb-cle-det-2026-08-12-spread-home-1pt5 | RN1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 45% | 0.95 | ⏳ pendiente | — |
+| RN1 | Will SE Palmeiras vs. Club Cerro Porteño | Yes (BUY) | 60% | 0.67 | ⏳ pendiente | — |
+| RN1 | Will SE Palmeiras win on 2026-08-12? | No (BUY) | 76% | 1.74 | ⏳ pendiente | — |
+| RN1 | Will Montevideo City Torque win on 2026- | Yes (BUY) | 72% | 2.99 | ⏳ pendiente | — |
+| RN1 | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 80% | 1.48 | ⏳ pendiente | — |
+| RN1 | Red Bull Bragantino vs. CA Mineiro: O/U  | Under (BUY) | 57% | 0.65 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Atlanta Braves (-1.5) | New York Mets (BUY) | 55% | 71.82 | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 53% | 6.40 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Cleveland Guardians (-2.5) | Cleveland Guardians (BUY) | 14% | 1.07 | ⏳ pendiente | — |
@@ -489,9 +497,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will SE Palmeiras vs. Club Cerro Porteño | No (BUY) | 61% | 1.28 | ⏳ pendiente | — |
 | RN1 | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 37% | 2.57 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Boston Red Sox (-1.5) | Toronto Blue Jays (BUY) | 63% | 4.51 | ⏳ pendiente | — |
-| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 47% | 20.02 | ⏳ pendiente | — |
-| RN1 | Spread: Seattle Mariners (-2.5) | Seattle Mariners (BUY) | 47% | 11.65 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | New York Mets (BUY) | 55% | 13.43 | ⏳ pendiente | — |
-| RN1 | Will CA Platense win on 2026-08-12? | Yes (BUY) | 78% | 2.01 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will SE Palmeiras win on 2026-08-12? | No (BUY) | 42% | 0.94 | ⏳ pendiente | — |
-| RN1 | Will SE Palmeiras win on 2026-08-12? | No (BUY) | 42% | 1.06 | ⏳ pendiente | — |
