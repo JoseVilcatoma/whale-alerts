@@ -1,5 +1,5 @@
 {
-  "bankroll": 427.3405137584458,
+  "bankroll": 427.00051375844583,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -17660,6 +17660,11 @@
       "timestamp": 1786502562.9868405,
       "bankroll": 427.34,
       "event": "won: swisstony \u2014 Will Ava\u00ed FC vs. CR Brasil end in a draw?"
+    },
+    {
+      "timestamp": 1786503739.141419,
+      "bankroll": 427.0,
+      "event": "lost: ferrariChampions2026 \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 6.5"
     }
   ]
 }
