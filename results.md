@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 10:57:14 (hora de Perú)
+Actualizado: 2026-08-12 10:59:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1359**  ($30,769,977 en total)
+- Apuestas registradas: **1361**  ($30,798,299 en total)
 - Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 420
+- Pendientes: 422
 - Apostadores distintos: 126
 
 ### Balance
@@ -43,12 +43,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | theowalcott | 21 | 0 | 0 | 100% | $318,833 | +$226,502 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 0 | 8 | ⚠️ 100% (5) | $289,429 | +$87,105 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 0 | 9 | ⚠️ 100% (5) | $304,723 | +$87,105 |
 | Marcoli | 7 | 0 | 3 | ⚠️ 100% (7) | $273,944 | +$95,170 |
 | ThornyDevil | 2 | 1 | 6 | ⚠️ 67% (3) | $254,880 | +$2,354 |
+| ExplosiveNinja | 8 | 0 | 10 | 100% | $248,828 | +$137,489 |
 | mikesports | 7 | 8 | 0 | 47% | $243,869 | -$88,869 |
 | wr0ngw4yb3tt0r | 9 | 6 | 0 | 60% | $239,701 | +$13,912 |
-| ExplosiveNinja | 8 | 0 | 9 | 100% | $235,799 | +$137,489 |
 | five5120 | 2 | 1 | 12 | ⚠️ 67% (3) | $225,368 | -$15,925 |
 | Feromont | 9 | 0 | 0 | 100% | $208,666 | +$55,222 |
 | TAIWANNUMBERONE | 0 | 1 | 13 | ⚠️ 0% (1) | $206,762 | -$17,114 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 126 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.17 (46¢) | $13,028 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.85 (54¢) | $15,294 | — | ⏳ Pendiente |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | 3DMAX | 4.00 (25¢) | $17,254 | — | ⏳ Pendiente |
 | skyman44 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.33 (75¢) | $13,855 | — | ⏳ Pendiente |
 | skyman44 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.33 (75¢) | $13,855 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 126 en total)_
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.72 (58¢) | $61,624 | — | ⏳ Pendiente |
 | basementdweller3000 | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | B8 | 2.38 (42¢) | $12,219 | — | ⏳ Pendiente |
 | basementdweller3000 | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | B8 | 2.38 (42¢) | $12,219 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.72 (58¢) | $61,624 | — | ⏳ Pendiente |
-| suanlimao6 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.54 (65¢) | $21,718 | — | ⏳ Pendiente |
