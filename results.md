@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 01:02:41 (hora de Perú)
+Actualizado: 2026-08-12 01:04:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **664**  ($13,711,857 en total)
+- Apuestas registradas: **665**  ($13,725,511 en total)
 - Resueltas: **350** — 246 ganadas / 104 perdidas (**70%** de acierto)
-- Pendientes: 314
+- Pendientes: 315
 - Apostadores distintos: 95
 
 ### Balance
@@ -52,13 +52,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ...............................lala | 2 | 4 | 0 | ⚠️ 33% (6) | $98,977 | -$42,922 |
 | 0x076d…8d4c | 1 | 0 | 6 | ⚠️ 100% (1) | $95,350 | +$1,092 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 6 | — | $87,544 | — |
+| johnny234 | 2 | 0 | 3 | ⚠️ 100% (2) | $77,901 | +$21,984 |
 | DonaldinhoTrumpito | 0 | 0 | 4 | — | $74,938 | — |
 | ExplosiveNinja | 0 | 0 | 6 | — | $72,821 | — |
 | kibanachi | 4 | 0 | 0 | ⚠️ 100% (4) | $71,613 | +$12,017 |
 | Mylifeisover | 4 | 0 | 0 | ⚠️ 100% (4) | $70,966 | +$60,453 |
 | phonesculptor | 0 | 2 | 4 | ⚠️ 0% (2) | $69,925 | -$27,600 |
 | 0b1 | 4 | 0 | 0 | ⚠️ 100% (4) | $69,706 | +$14,603 |
-| johnny234 | 2 | 0 | 2 | ⚠️ 100% (2) | $64,247 | +$21,984 |
 | AGUGava | 1 | 0 | 4 | ⚠️ 100% (1) | $62,888 | +$451 |
 | paquitomillonario | 0 | 2 | 2 | ⚠️ 0% (2) | $55,851 | -$24,779 |
 | Istaroth | 0 | 0 | 2 | — | $55,408 | — |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| johnny234 | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.61 (62¢) | $13,654 | — | ⏳ Pendiente |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: AL (-1.5) vs EDward Gaming (+1.5) | Anyones Legend | 1.45 (69¢) | $10,390 | — | ⏳ Pendiente |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: AL (-1.5) vs EDward Gaming (+1.5) | Anyone's Legend | 1.45 (69¢) | $10,390 | — | ⏳ Pendiente |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: NS (-1.5) vs DN SOOPers (+1.5) | DN SOOPers | 1.49 (67¢) | $10,050 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 | AV23IUa | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Aleksandar Vukic | 1.67 (60¢) | $24,631 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Darwin Blanch | 2.50 (40¢) | $16,421 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Aleksandar Vukic | 1.67 (60¢) | $24,631 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Darwin Blanch | 2.50 (40¢) | $16,421 | — | ⏳ Pendiente |
