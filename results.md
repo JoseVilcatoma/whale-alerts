@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 09:25:47 (hora de Perú)
+Actualizado: 2026-08-12 09:27:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1298**  ($28,805,128 en total)
+- Apuestas registradas: **1300**  ($28,838,254 en total)
 - Resueltas: **936** — 566 ganadas / 370 perdidas (**60%** de acierto)
-- Pendientes: 362
+- Pendientes: 364
 - Apostadores distintos: 122
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 122 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| suanlimao6 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.54 (65¢) | $21,718 | — | ⏳ Pendiente |
+| gggjajnsnn | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 2.86 (35¢) | $11,408 | — | ⏳ Pendiente |
 | gggjajnsnn | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 2.86 (35¢) | $11,408 | — | ⏳ Pendiente |
 | suanlimao6 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.54 (65¢) | $21,718 | — | ⏳ Pendiente |
 | five5120 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.52 (66¢) | $10,506 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 122 en total)_
 | Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.30 (77¢) | $15,400 | — | ⏳ Pendiente |
 | spnir | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.30 (77¢) | $13,885 | — | ⏳ Pendiente |
 | spnir | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.30 (77¢) | $13,885 | — | ⏳ Pendiente |
-| Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.30 (77¢) | $15,400 | — | ⏳ Pendiente |
-| Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.28 (78¢) | $11,700 | — | ⏳ Pendiente |
