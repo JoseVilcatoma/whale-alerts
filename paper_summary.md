@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 07:00:51 (hora de Perú)
+Actualizado: 2026-08-12 07:02:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
-| Djdjdjekekek | 5 | 12 | 6 | -116.01 USD |
+| Djdjdjekekek | 5 | 12 | 7 | -116.01 USD |
 | BrotherObama | 7 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
@@ -452,6 +452,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ⏳ pendiente | — |
@@ -481,4 +482,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gaditima | Valorant: All Gamers vs TEC Esports (BO3 | All Gamers (BUY) | 66% | 0.46 | ⏳ pendiente | — |
 | Gaditima | Will annual inflation be 3.3% in July? | No (BUY) | 54% | 3.53 | ⏳ pendiente | — |
 | Gaditima | Will annual inflation be 3.4% in July? | Yes (BUY) | 42% | 1.81 | ⏳ pendiente | — |
-| Gaditima | Will annual inflation be 3.3% in July? | Yes (BUY) | 40% | 3.83 | ⏳ pendiente | — |
