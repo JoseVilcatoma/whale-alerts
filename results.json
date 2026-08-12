@@ -16735,5 +16735,18 @@
     "usd": 25983.0188,
     "odds_at_bet": 38,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1050,
+    "timestamp": 1786542154,
+    "username": "madwish355",
+    "wallet": "0x000e3112ff76ff6c5eb3c6bd5dec30bc9787f7e9",
+    "slug": "lol-blg-jdg-2026-08-12-game2",
+    "title": "LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 12612.8541,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]

@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 08:42:30 (hora de Perú)
+Actualizado: 2026-08-12 08:44:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1285**  ($28,614,363 en total)
+- Apuestas registradas: **1286**  ($28,626,976 en total)
 - Resueltas: **936** — 566 ganadas / 370 perdidas (**60%** de acierto)
-- Pendientes: 349
-- Apostadores distintos: 119
+- Pendientes: 350
+- Apostadores distintos: 120
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ...............................lala | 3 | 6 | 0 | 33% | $148,465 | -$64,383 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
 
-_(mostrando los 40 de mayor monto, de 119 en total)_
+_(mostrando los 40 de mayor monto, de 120 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| madwish355 | LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner | Bilibili Gaming | 1.64 (61¢) | $12,613 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner | Bilibili Gaming | 1.61 (62¢) | $30,703 | — | ⏳ Pendiente |
 | ActionReaction | LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 2.63 (38¢) | $25,983 | — | ⏳ Pendiente |
 | Marcoli | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.45 (69¢) | $48,478 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 119 en total)_
 | Djdjdjekekek | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | M80 | 3.03 (33¢) | $10,748 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | M80 | 3.03 (33¢) | $10,748 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | M80 | 3.03 (33¢) | $10,748 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.19 (84¢) | $14,794 | — | ⏳ Pendiente |
