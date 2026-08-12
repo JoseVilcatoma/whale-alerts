@@ -1,5 +1,5 @@
 {
-  "bankroll": 444.1511399488406,
+  "bankroll": 451.2602945904423,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18085,6 +18085,71 @@
       "timestamp": 1786519859.0648665,
       "bankroll": 444.15,
       "event": "lost: UpTheBlues \u2014 Will Minnesota United FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534573.423501,
+      "bankroll": 444.2,
+      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534573.7476945,
+      "bankroll": 444.27,
+      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534573.8478754,
+      "bankroll": 444.34,
+      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534574.2773263,
+      "bankroll": 444.34,
+      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534574.6109824,
+      "bankroll": 445.01,
+      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534577.3135283,
+      "bankroll": 444.49,
+      "event": "lost: quavoo \u2014 Will Tigres de la UANL win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534577.563607,
+      "bankroll": 444.04,
+      "event": "lost: quavoo \u2014 Real Salt Lake vs. FC Ju\u00e1rez: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786534577.6637352,
+      "bankroll": 442.26,
+      "event": "lost: quavoo \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534577.9118927,
+      "bankroll": 452.95,
+      "event": "won: quavoo \u2014 Will Tigres de la UANL vs. Vancouver Whitecaps FC end in a draw?"
+    },
+    {
+      "timestamp": 1786534578.0120234,
+      "bankroll": 451.25,
+      "event": "lost: quavoo \u2014 Will Tigres de la UANL win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534578.253234,
+      "bankroll": 450.66,
+      "event": "lost: ferrariChampions2026 \u2014 Will Real Salt Lake win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534578.5432696,
+      "bankroll": 450.9,
+      "event": "won: ferrariChampions2026 \u2014 Real Salt Lake vs. FC Ju\u00e1rez: O/U 2.5"
+    },
+    {
+      "timestamp": 1786534578.6434352,
+      "bankroll": 451.26,
+      "event": "won: ferrariChampions2026 \u2014 Real Salt Lake vs. FC Ju\u00e1rez: O/U 2.5"
     }
   ]
 }

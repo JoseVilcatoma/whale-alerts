@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 02:37:26 (hora de Perú)
+Actualizado: 2026-08-12 06:38:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $444.15
-**Retorno acumulado:** -55.58%
+**Bankroll actual:** $451.26
+**Retorno acumulado:** -54.87%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 114 | 97 | 7 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 244 | 151 | 9 | +4.80 USD |
+| UpTheBlues | 249 | 151 | 6 | +5.66 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
@@ -48,13 +48,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 170 | 114 | 1 | -26.60 USD |
-| quavoo | 157 | 205 | 7 | -34.55 USD |
+| quavoo | 158 | 209 | 2 | -28.31 USD |
 | RN1 | 200 | 112 | 2 | -39.45 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 644 | 482 | 3 | -92.16 USD |
+| ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | BrotherObama | 7 | 17 | 0 | -121.31 USD |
@@ -450,6 +450,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Debreceni VSC win on 2026-08-12? | Yes (BUY) | 8% | 0.87 | ⏳ pendiente | — |
+| UpTheBlues | Will FC København win on 2026-08-12? | No (BUY) | 24% | 3.39 | ⏳ pendiente | — |
 | Gaditima | Valorant: All Gamers vs TEC Esports (BO3 | All Gamers (BUY) | 66% | 0.46 | ⏳ pendiente | — |
 | Gaditima | Will annual inflation be 3.3% in July? | No (BUY) | 54% | 3.53 | ⏳ pendiente | — |
 | Gaditima | Will annual inflation be 3.4% in July? | Yes (BUY) | 42% | 1.81 | ⏳ pendiente | — |
@@ -467,7 +469,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 48% | 1.25 | ✅ ganada | +1.35 |
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 62% | 0.63 | ✅ ganada | +0.39 |
 | RN1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 54% | 0.54 | ✅ ganada | +0.46 |
-| ferrariChampions2026 | Real Salt Lake vs. FC Juárez: O/U 2.5 | Over (BUY) | 62% | 0.58 | ⏳ pendiente | — |
+| ferrariChampions2026 | Real Salt Lake vs. FC Juárez: O/U 2.5 | Over (BUY) | 62% | 0.58 | ✅ ganada | +0.36 |
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 52% | 3.81 | ✅ ganada | +3.52 |
 | ferrariChampions2026 | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 52% | 0.55 | ❌ perdida | -0.55 |
 | ferrariChampions2026 | Spread: Las Vegas Aces (-6.5) | Washington Mystics (BUY) | 49% | 1.55 | ❌ perdida | -1.55 |
@@ -478,5 +480,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 56% | 0.51 | ✅ ganada | +0.40 |
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ❌ perdida | -0.46 |
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 53% | 0.48 | ❌ perdida | -0.48 |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 48% | 0.59 | ✅ ganada | +0.64 |
-| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ❌ perdida | -0.46 |
