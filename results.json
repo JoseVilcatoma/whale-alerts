@@ -25758,5 +25758,57 @@
     "usd": 10829.0901,
     "odds_at_bet": 51,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1767,
+    "timestamp": 1786574464,
+    "username": "fkcvffcjt",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "mlb-mil-sd-2026-08-12",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 15960.005599999999,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1768,
+    "timestamp": 1786574465,
+    "username": "Satisfied",
+    "wallet": "0x1ab3580b6d258e31ca0a3efdb93173d081dd64af",
+    "slug": "mlb-nym-atl-2026-08-12-total-8pt5",
+    "title": "New York Mets vs. Atlanta Braves: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 15000.140000000001,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1769,
+    "timestamp": 1786574465,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-nym-atl-2026-08-12-total-8pt5",
+    "title": "New York Mets vs. Atlanta Braves: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 58872.04200000001,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1770,
+    "timestamp": 1786573983,
+    "username": "Feromont",
+    "wallet": "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3",
+    "slug": "mlb-kc-lad-2026-08-12",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 21439.993300000002,
+    "odds_at_bet": 67,
+    "status": "pending"
   }
 ]

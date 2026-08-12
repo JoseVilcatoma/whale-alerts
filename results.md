@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 17:38:52 (hora de Perú)
+Actualizado: 2026-08-12 17:41:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1976**  ($53,473,542 en total)
+- Apuestas registradas: **1980**  ($53,584,814 en total)
 - Resueltas: **1353** — 804 ganadas / 549 perdidas (**59%** de acierto)
-- Pendientes: 623
-- Apostadores distintos: 174
+- Pendientes: 627
+- Apostadores distintos: 175
 
 ### Balance
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 18 | 35% | $3,070,137 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 47 | 77% | $2,601,386 | +$168,085 |
-| pleaseplease123 | 0 | 44 | 32 | 0% | $2,165,789 | -$1,082,423 |
+| pleaseplease123 | 0 | 44 | 33 | 0% | $2,224,661 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
 | Weaseloftheweek | 19 | 2 | 7 | 90% | $1,946,083 | +$872,236 |
 | BreakTheBank | 0 | 12 | 8 | 0% | $1,483,516 | -$803,506 |
@@ -47,10 +47,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
 | ExplosiveNinja | 18 | 2 | 7 | 90% | $378,581 | +$263,606 |
 | Marcoli | 7 | 0 | 5 | ⚠️ 100% (7) | $358,944 | +$95,170 |
+| Feromont | 9 | 0 | 7 | 100% | $358,252 | +$55,222 |
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | 0x076d…8d4c | 8 | 0 | 11 | 100% | $343,000 | +$45,411 |
-| Feromont | 9 | 0 | 6 | 100% | $336,812 | +$55,222 |
 | theowalcott | 21 | 0 | 1 | 100% | $333,694 | +$226,502 |
 | bigspending | 0 | 0 | 5 | — | $333,212 | — |
 | johnny234 | 4 | 11 | 8 | 27% | $317,917 | -$101,100 |
@@ -65,14 +65,18 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 11 | 1 | 3 | 92% | $217,012 | +$88,234 |
 | highnetworth | 0 | 0 | 5 | — | $215,351 | — |
 
-_(mostrando los 40 de mayor monto, de 174 en total)_
+_(mostrando los 40 de mayor monto, de 175 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Satisfied | New York Mets vs. Atlanta Braves: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $15,000 | — | ⏳ Pendiente |
+| pleaseplease123 | New York Mets vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $58,872 | — | ⏳ Pendiente |
+| fkcvffcjt | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.30 (77¢) | $15,960 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $36,198 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $35,328 | — | ⏳ Pendiente |
+| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $21,440 | — | ⏳ Pendiente |
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $21,440 | — | ⏳ Pendiente |
 | one8tyfive | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.67 (60¢) | $11,923 | — | ⏳ Pendiente |
 | one8tyfive | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.67 (60¢) | $11,923 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 174 en total)_
 | monkeymashingkeyboard | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $23,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will SE Palmeiras win on 2026-08-12? | Yes | 1.35 (74¢) | $15,696 | — | ⏳ Pendiente |
 | pleaseplease123 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.17 (46¢) | $16,840 | — | ⏳ Pendiente |
-| DonaldinhoTrumpito | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.47 (68¢) | $11,179 | — | ⏳ Pendiente |
-| pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $29,668 | — | ⏳ Pendiente |
-| pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $29,668 | — | ⏳ Pendiente |
-| 1winstreak1 | Houston Astros vs. San Francisco Giants | San Francisco Giants | 1.59 (63¢) | $17,622 | — | ⏳ Pendiente |
