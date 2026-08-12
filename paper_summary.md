@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 23:05:10 (hora de Perú)
+Actualizado: 2026-08-11 23:07:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $408.49
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 3 | 9 | +46.51 USD |
-| 1winstreak1 | 109 | 88 | 51 | +44.96 USD |
+| 1winstreak1 | 109 | 88 | 52 | +44.96 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | wr0ngw4yb3tt0r | 60 | 68 | 8 | +18.95 USD |
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 172 | 114 | 38 | -27.08 USD |
 | quavoo | 152 | 186 | 34 | -33.89 USD |
-| RN1 | 200 | 111 | 6 | -37.85 USD |
+| RN1 | 200 | 111 | 7 | -37.85 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -452,7 +452,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-phx-la-2026-08-11 | 1winstreak1, ferrariChampions2026, swisstony |
 | wnba-phx-la-2026-08-11-total-180pt5 | ferrariChampions2026, swisstony |
 | wnba-wsh-las-2026-08-11 | 1winstreak1, ferrariChampions2026, swisstony |
-| mlb-kc-lad-2026-08-11-spread-home-1pt5 | 1winstreak1, quavoo, swisstony |
+| mlb-kc-lad-2026-08-11-spread-home-1pt5 | 1winstreak1, RN1, quavoo, swisstony |
 | wnba-phx-la-2026-08-11-total-181pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-tb-oak-2026-08-11-total-10pt5 | 1winstreak1, RN1, swisstony |
 | wnba-wsh-las-2026-08-11-spread-home-8pt5 | 1winstreak1, swisstony |
@@ -469,6 +469,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 16.5 | Under (BUY) | 95% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 57% | 5.11 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 89% | 0.67 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: magic vs TheMongolz (BO1 | TheMongolz (BUY) | 54% | 0.57 | ⏳ pendiente | — |
@@ -497,5 +499,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 67% | 0.65 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 65% | 1.26 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 68% | 4.17 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 42% | 4.31 | ⏳ pendiente | — |
-| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 58% | 20.68 | ⏳ pendiente | — |
