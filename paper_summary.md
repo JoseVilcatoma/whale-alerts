@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 09:16:53 (hora de Perú)
+Actualizado: 2026-08-12 09:18:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $449.56
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 29 | 16 | 13 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| dv-pm | 4 | 5 | 2 | +89.49 USD |
+| dv-pm | 4 | 5 | 3 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
@@ -453,6 +453,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| dv-pm | CA Tigre vs. Montevideo City Torque: O/U | Over (BUY) | 35% | 0.00 | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: BetBoom Team vs FaZe (BO | FaZe (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: BetBoom Team vs FaZe (BO | FaZe (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: BetBoom Team vs FaZe (BO | FaZe (BUY) | 52% | 0.00 | ⏳ pendiente | — |
@@ -482,4 +483,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 55% | 0.00 | ⏳ pendiente | — |
