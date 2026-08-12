@@ -820,7 +820,7 @@
     "side": "BUY",
     "usd": 11276.595743790002,
     "odds_at_bet": 53,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 25,
@@ -1721,7 +1721,7 @@
     "side": "BUY",
     "usd": 13287.5646,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 51,
@@ -2360,7 +2360,7 @@
     "side": "BUY",
     "usd": 27704.208400000003,
     "odds_at_bet": 92,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 66,
@@ -3244,7 +3244,7 @@
     "side": "BUY",
     "usd": 12822.437600000001,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 142,
@@ -3335,7 +3335,7 @@
     "side": "BUY",
     "usd": 12822.437600000001,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 149,
@@ -4063,7 +4063,7 @@
     "side": "BUY",
     "usd": 13500.0,
     "odds_at_bet": 54,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 207,
@@ -4076,7 +4076,7 @@
     "side": "BUY",
     "usd": 13500.0,
     "odds_at_bet": 54,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 208,
@@ -4765,7 +4765,7 @@
     "side": "BUY",
     "usd": 13500.0,
     "odds_at_bet": 54,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -5246,7 +5246,7 @@
     "side": "BUY",
     "usd": 12822.437600000001,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 305,
@@ -6247,7 +6247,7 @@
     "side": "BUY",
     "usd": 11276.595743790002,
     "odds_at_bet": 53,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -7148,7 +7148,7 @@
     "side": "BUY",
     "usd": 13287.5646,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 365,
@@ -7761,7 +7761,7 @@
     "side": "BUY",
     "usd": 27704.208400000003,
     "odds_at_bet": 92,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 386,
@@ -8428,7 +8428,7 @@
     "side": "BUY",
     "usd": 13799.999999999998,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 493,
@@ -8441,7 +8441,7 @@
     "side": "BUY",
     "usd": 10400.0,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 494,
@@ -8610,7 +8610,7 @@
     "side": "BUY",
     "usd": 10050.0,
     "odds_at_bet": 67,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 508,
@@ -8623,7 +8623,7 @@
     "side": "BUY",
     "usd": 10050.0,
     "odds_at_bet": 67,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 509,
@@ -8636,7 +8636,7 @@
     "side": "BUY",
     "usd": 10389.8415,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 510,
@@ -8662,7 +8662,7 @@
     "side": "BUY",
     "usd": 13653.9066,
     "odds_at_bet": 62,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 512,
@@ -8675,7 +8675,7 @@
     "side": "BUY",
     "usd": 12600.0,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 513,
@@ -8688,7 +8688,7 @@
     "side": "BUY",
     "usd": 12600.0,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 514,
@@ -8701,7 +8701,7 @@
     "side": "BUY",
     "usd": 13653.9066,
     "odds_at_bet": 62,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 515,
@@ -8779,7 +8779,7 @@
     "side": "BUY",
     "usd": 12600.0,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 601,
@@ -8792,7 +8792,7 @@
     "side": "BUY",
     "usd": 13653.9066,
     "odds_at_bet": 62,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 602,
@@ -8818,7 +8818,7 @@
     "side": "BUY",
     "usd": 10050.0,
     "odds_at_bet": 67,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 604,
@@ -8909,7 +8909,7 @@
     "side": "BUY",
     "usd": 10400.0,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 611,
@@ -8922,7 +8922,7 @@
     "side": "BUY",
     "usd": 13799.999999999998,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 612,
@@ -9494,7 +9494,7 @@
     "side": "BUY",
     "usd": 13500.0,
     "odds_at_bet": 54,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -9975,7 +9975,7 @@
     "side": "BUY",
     "usd": 12822.437600000001,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 631,
@@ -10976,7 +10976,7 @@
     "side": "BUY",
     "usd": 11276.595743790002,
     "odds_at_bet": 53,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 655,
@@ -11873,7 +11873,7 @@
     "side": "BUY",
     "usd": 13287.5646,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 672,
@@ -12187,7 +12187,7 @@
     "side": "BUY",
     "usd": 12841.199999999999,
     "odds_at_bet": 58,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 753,
@@ -12200,7 +12200,7 @@
     "side": "BUY",
     "usd": 41260.9153,
     "odds_at_bet": 57,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 754,
@@ -12213,7 +12213,7 @@
     "side": "BUY",
     "usd": 14350.0,
     "odds_at_bet": 41,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 755,
@@ -12226,7 +12226,7 @@
     "side": "BUY",
     "usd": 42982.540499999996,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 756,
@@ -12239,7 +12239,7 @@
     "side": "BUY",
     "usd": 12841.199999999999,
     "odds_at_bet": 58,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 757,
@@ -12252,7 +12252,7 @@
     "side": "BUY",
     "usd": 17904.219998000004,
     "odds_at_bet": 57,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 758,
@@ -12265,7 +12265,7 @@
     "side": "BUY",
     "usd": 17904.219997354867,
     "odds_at_bet": 57,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 759,
@@ -12278,7 +12278,7 @@
     "side": "BUY",
     "usd": 41260.91530320042,
     "odds_at_bet": 57,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 760,
@@ -12304,7 +12304,7 @@
     "side": "BUY",
     "usd": 17508.9611,
     "odds_at_bet": 89,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 762,
@@ -12317,7 +12317,7 @@
     "side": "BUY",
     "usd": 17508.9611,
     "odds_at_bet": 89,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 763,
@@ -12358,7 +12358,7 @@
     "side": "BUY",
     "usd": 10691.1,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 766,
@@ -12371,7 +12371,7 @@
     "side": "BUY",
     "usd": 12488.839999000002,
     "odds_at_bet": 36,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 767,
@@ -12384,7 +12384,7 @@
     "side": "BUY",
     "usd": 18210.145421999998,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 768,
@@ -12397,7 +12397,7 @@
     "side": "BUY",
     "usd": 12488.839999560001,
     "odds_at_bet": 36,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 769,
@@ -12410,7 +12410,7 @@
     "side": "BUY",
     "usd": 10500.0,
     "odds_at_bet": 75,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 770,
@@ -12423,7 +12423,7 @@
     "side": "BUY",
     "usd": 11152.140300000001,
     "odds_at_bet": 74,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 771,
@@ -12449,7 +12449,7 @@
     "side": "BUY",
     "usd": 10500.0,
     "odds_at_bet": 75,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 773,
@@ -12462,7 +12462,7 @@
     "side": "BUY",
     "usd": 12181.6985,
     "odds_at_bet": 85,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 774,
@@ -12501,7 +12501,7 @@
     "side": "BUY",
     "usd": 12181.6985,
     "odds_at_bet": 85,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 777,
@@ -12514,7 +12514,7 @@
     "side": "BUY",
     "usd": 10399.999993,
     "odds_at_bet": 92,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 778,
@@ -12540,7 +12540,7 @@
     "side": "BUY",
     "usd": 16515.6084,
     "odds_at_bet": 36,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 780,
@@ -12553,7 +12553,7 @@
     "side": "BUY",
     "usd": 11087.916799999999,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 781,
@@ -12566,7 +12566,7 @@
     "side": "BUY",
     "usd": 10334.480000000001,
     "odds_at_bet": 40,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 782,
@@ -12579,7 +12579,7 @@
     "side": "BUY",
     "usd": 15000.0,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 783,
@@ -12592,7 +12592,7 @@
     "side": "BUY",
     "usd": 10342.6292,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 784,
@@ -12605,7 +12605,7 @@
     "side": "BUY",
     "usd": 10342.6292,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 785,
@@ -12618,7 +12618,7 @@
     "side": "BUY",
     "usd": 10334.480000000001,
     "odds_at_bet": 40,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 786,
@@ -12631,7 +12631,7 @@
     "side": "BUY",
     "usd": 15000.0,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 787,
@@ -12644,7 +12644,7 @@
     "side": "BUY",
     "usd": 16515.6084,
     "odds_at_bet": 36,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 788,
@@ -12657,7 +12657,7 @@
     "side": "BUY",
     "usd": 11087.916799999999,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 789,
@@ -12670,7 +12670,7 @@
     "side": "BUY",
     "usd": 11860.391599999999,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 790,
@@ -12683,7 +12683,7 @@
     "side": "BUY",
     "usd": 10250.5434,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 791,
@@ -12696,7 +12696,7 @@
     "side": "BUY",
     "usd": 19235.671000000002,
     "odds_at_bet": 37,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 792,
@@ -12709,7 +12709,7 @@
     "side": "BUY",
     "usd": 11100.0,
     "odds_at_bet": 37,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 793,
@@ -12722,7 +12722,7 @@
     "side": "BUY",
     "usd": 33229.161,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 794,
@@ -12735,7 +12735,7 @@
     "side": "BUY",
     "usd": 18900.0,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 795,
@@ -12748,7 +12748,7 @@
     "side": "BUY",
     "usd": 11860.391599999999,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 796,
@@ -12761,7 +12761,7 @@
     "side": "BUY",
     "usd": 13000.0,
     "odds_at_bet": 65,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 797,
@@ -12774,7 +12774,7 @@
     "side": "BUY",
     "usd": 21931.679099999998,
     "odds_at_bet": 57,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 798,
@@ -12787,7 +12787,7 @@
     "side": "BUY",
     "usd": 18108.6545,
     "odds_at_bet": 43,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 799,
@@ -12800,7 +12800,7 @@
     "side": "BUY",
     "usd": 14600.267,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 800,
@@ -12813,7 +12813,7 @@
     "side": "BUY",
     "usd": 10993.9275,
     "odds_at_bet": 45,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 801,
@@ -12826,7 +12826,7 @@
     "side": "BUY",
     "usd": 15191.814,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 802,
@@ -12839,7 +12839,7 @@
     "side": "BUY",
     "usd": 12429.666,
     "odds_at_bet": 45,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 803,
@@ -12852,7 +12852,7 @@
     "side": "BUY",
     "usd": 14600.267,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 804,
@@ -12865,7 +12865,7 @@
     "side": "BUY",
     "usd": 10993.9275,
     "odds_at_bet": 45,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 805,
@@ -12878,7 +12878,7 @@
     "side": "BUY",
     "usd": 18108.6545,
     "odds_at_bet": 43,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 806,
@@ -12891,7 +12891,7 @@
     "side": "BUY",
     "usd": 21931.679099999998,
     "odds_at_bet": 57,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 807,
@@ -12904,7 +12904,7 @@
     "side": "BUY",
     "usd": 33229.161,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 808,
@@ -12917,7 +12917,7 @@
     "side": "BUY",
     "usd": 19235.671000000002,
     "odds_at_bet": 37,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 809,
@@ -12930,7 +12930,7 @@
     "side": "BUY",
     "usd": 18900.0,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 810,
@@ -12943,7 +12943,7 @@
     "side": "BUY",
     "usd": 11100.0,
     "odds_at_bet": 37,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 811,
@@ -12995,7 +12995,7 @@
     "side": "BUY",
     "usd": 11214.926800000001,
     "odds_at_bet": 77,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 816,
@@ -13034,7 +13034,7 @@
     "side": "BUY",
     "usd": 16602.8555,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 819,
@@ -13062,7 +13062,7 @@
     "side": "BUY",
     "usd": 20981.0139,
     "odds_at_bet": 83,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 821,
@@ -13075,7 +13075,7 @@
     "side": "BUY",
     "usd": 16602.8555,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 822,
@@ -13101,7 +13101,7 @@
     "side": "BUY",
     "usd": 25593.5152,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 824,
@@ -13114,7 +13114,7 @@
     "side": "BUY",
     "usd": 13621.621621,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 825,
@@ -13127,7 +13127,7 @@
     "side": "BUY",
     "usd": 52260.768000000004,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 826,
@@ -13140,7 +13140,7 @@
     "side": "BUY",
     "usd": 30983.356,
     "odds_at_bet": 37,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 827,
@@ -13153,7 +13153,7 @@
     "side": "BUY",
     "usd": 30983.356,
     "odds_at_bet": 37,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 828,
@@ -13166,7 +13166,7 @@
     "side": "BUY",
     "usd": 52260.768000000004,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 829,
@@ -13179,7 +13179,7 @@
     "side": "BUY",
     "usd": 13621.6216206,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 830,
@@ -13192,7 +13192,7 @@
     "side": "BUY",
     "usd": 20981.0139,
     "odds_at_bet": 83,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 831,
@@ -13218,7 +13218,7 @@
     "side": "BUY",
     "usd": 12800.0,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 833,
@@ -13244,7 +13244,7 @@
     "side": "BUY",
     "usd": 29499.688000000002,
     "odds_at_bet": 80,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 835,
@@ -13257,7 +13257,7 @@
     "side": "BUY",
     "usd": 10552.684800000003,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 836,
@@ -13270,7 +13270,7 @@
     "side": "BUY",
     "usd": 29499.688000000002,
     "odds_at_bet": 80,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 837,
@@ -13283,7 +13283,7 @@
     "side": "BUY",
     "usd": 12800.0,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 838,
@@ -13296,7 +13296,7 @@
     "side": "BUY",
     "usd": 10352.314800000002,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 839,
@@ -13309,7 +13309,7 @@
     "side": "BUY",
     "usd": 10552.684800000003,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 840,
@@ -13322,7 +13322,7 @@
     "side": "BUY",
     "usd": 41233.361999999994,
     "odds_at_bet": 40,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 841,
@@ -13335,7 +13335,7 @@
     "side": "BUY",
     "usd": 61636.668,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 842,
@@ -13348,7 +13348,7 @@
     "side": "BUY",
     "usd": 18486.9484,
     "odds_at_bet": 61,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 843,
@@ -13361,7 +13361,7 @@
     "side": "BUY",
     "usd": 24595.748800000005,
     "odds_at_bet": 28,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 844,
@@ -13374,7 +13374,7 @@
     "side": "BUY",
     "usd": 64778.4196,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 845,
@@ -13402,7 +13402,7 @@
     "side": "BUY",
     "usd": 10352.314799879581,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 847,
@@ -13415,7 +13415,7 @@
     "side": "BUY",
     "usd": 12558.6084,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 848,
@@ -13428,7 +13428,7 @@
     "side": "BUY",
     "usd": 64778.419602,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 849,
@@ -13441,7 +13441,7 @@
     "side": "BUY",
     "usd": 24595.748800000005,
     "odds_at_bet": 28,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 850,
@@ -13454,7 +13454,7 @@
     "side": "BUY",
     "usd": 41233.3620001275,
     "odds_at_bet": 40,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 851,
@@ -13467,7 +13467,7 @@
     "side": "BUY",
     "usd": 61636.668,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 852,
@@ -13480,7 +13480,7 @@
     "side": "BUY",
     "usd": 24581.727,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 853,
@@ -13493,7 +13493,7 @@
     "side": "BUY",
     "usd": 18005.5099,
     "odds_at_bet": 89,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 854,
@@ -13506,7 +13506,7 @@
     "side": "BUY",
     "usd": 18220.3302,
     "odds_at_bet": 94,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 855,
@@ -13519,7 +13519,7 @@
     "side": "BUY",
     "usd": 18220.3302,
     "odds_at_bet": 94,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 856,
@@ -13532,7 +13532,7 @@
     "side": "BUY",
     "usd": 19999.999999,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 857,
@@ -13545,7 +13545,7 @@
     "side": "BUY",
     "usd": 19999.99999905,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 858,
@@ -13558,7 +13558,7 @@
     "side": "BUY",
     "usd": 10151.515151,
     "odds_at_bet": 67,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 859,
@@ -13584,7 +13584,7 @@
     "side": "BUY",
     "usd": 10151.5151505,
     "odds_at_bet": 67,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 861,
@@ -13597,7 +13597,7 @@
     "side": "BUY",
     "usd": 17252.3965,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 862,
@@ -13610,7 +13610,7 @@
     "side": "BUY",
     "usd": 27037.037037000002,
     "odds_at_bet": 73,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 863,
@@ -13623,7 +13623,7 @@
     "side": "BUY",
     "usd": 17252.3965,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 864,
@@ -13636,7 +13636,7 @@
     "side": "BUY",
     "usd": 14794.08,
     "odds_at_bet": 84,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 866,
@@ -13649,7 +13649,7 @@
     "side": "BUY",
     "usd": 14794.08,
     "odds_at_bet": 84,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 867,
@@ -13662,7 +13662,7 @@
     "side": "BUY",
     "usd": 10748.4006,
     "odds_at_bet": 33,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 868,
@@ -13675,7 +13675,7 @@
     "side": "BUY",
     "usd": 88454.34000000001,
     "odds_at_bet": 65,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 869,
@@ -13688,7 +13688,7 @@
     "side": "BUY",
     "usd": 47559.263499999994,
     "odds_at_bet": 35,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 870,
@@ -13701,7 +13701,7 @@
     "side": "BUY",
     "usd": 21241.729499999998,
     "odds_at_bet": 94,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 871,
@@ -13714,7 +13714,7 @@
     "side": "BUY",
     "usd": 11700.0,
     "odds_at_bet": 78,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 872,
@@ -13727,7 +13727,7 @@
     "side": "BUY",
     "usd": 13885.2329,
     "odds_at_bet": 77,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 873,
@@ -13740,7 +13740,7 @@
     "side": "BUY",
     "usd": 15400.0,
     "odds_at_bet": 77,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 874,
@@ -13753,7 +13753,7 @@
     "side": "BUY",
     "usd": 15400.0,
     "odds_at_bet": 77,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 875,
@@ -13766,7 +13766,7 @@
     "side": "BUY",
     "usd": 13885.2329,
     "odds_at_bet": 77,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 876,
@@ -13779,7 +13779,7 @@
     "side": "BUY",
     "usd": 11700.0,
     "odds_at_bet": 78,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 877,
@@ -13792,7 +13792,7 @@
     "side": "BUY",
     "usd": 88454.34000000001,
     "odds_at_bet": 65,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 878,
@@ -13805,7 +13805,7 @@
     "side": "BUY",
     "usd": 10748.400599801616,
     "odds_at_bet": 33,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 879,
@@ -13818,7 +13818,7 @@
     "side": "BUY",
     "usd": 14800.0,
     "odds_at_bet": 74,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 880,
@@ -13831,7 +13831,7 @@
     "side": "BUY",
     "usd": 17929.2438,
     "odds_at_bet": 26,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 881,
@@ -13844,7 +13844,7 @@
     "side": "BUY",
     "usd": 14948.0,
     "odds_at_bet": 74,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 882,
@@ -13857,7 +13857,7 @@
     "side": "BUY",
     "usd": 153612.27019999997,
     "odds_at_bet": 27,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 883,
@@ -13870,7 +13870,7 @@
     "side": "BUY",
     "usd": 407480.16,
     "odds_at_bet": 73,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 884,
@@ -13898,7 +13898,7 @@
     "side": "BUY",
     "usd": 12811.539499999999,
     "odds_at_bet": 26,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 886,
@@ -13911,7 +13911,7 @@
     "side": "BUY",
     "usd": 14559.0975,
     "odds_at_bet": 75,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 887,
@@ -13924,7 +13924,7 @@
     "side": "BUY",
     "usd": 14559.0975,
     "odds_at_bet": 75,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 888,
@@ -13937,7 +13937,7 @@
     "side": "BUY",
     "usd": 12811.539500831714,
     "odds_at_bet": 26,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 889,
@@ -13965,7 +13965,7 @@
     "side": "BUY",
     "usd": 153612.27020881567,
     "odds_at_bet": 27,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 891,
@@ -13978,7 +13978,7 @@
     "side": "BUY",
     "usd": 407480.16,
     "odds_at_bet": 73,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 892,
@@ -13991,7 +13991,7 @@
     "side": "BUY",
     "usd": 17929.243801199416,
     "odds_at_bet": 26,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 893,
@@ -14004,7 +14004,7 @@
     "side": "BUY",
     "usd": 14800.0,
     "odds_at_bet": 74,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 894,
@@ -14017,7 +14017,7 @@
     "side": "BUY",
     "usd": 14948.0,
     "odds_at_bet": 74,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 895,
@@ -14030,7 +14030,7 @@
     "side": "BUY",
     "usd": 10910.094000000001,
     "odds_at_bet": 26,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 896,
@@ -14043,7 +14043,7 @@
     "side": "BUY",
     "usd": 37500.0,
     "odds_at_bet": 75,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 925,
@@ -14071,7 +14071,7 @@
     "side": "BUY",
     "usd": 40851.71200000001,
     "odds_at_bet": 89,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 927,
@@ -14084,7 +14084,7 @@
     "side": "BUY",
     "usd": 43062.5699,
     "odds_at_bet": 89,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 928,
@@ -14112,7 +14112,7 @@
     "side": "BUY",
     "usd": 10000.0,
     "odds_at_bet": 50,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 930,
@@ -14140,7 +14140,7 @@
     "side": "BUY",
     "usd": 38473.437600000005,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 932,
@@ -14153,7 +14153,7 @@
     "side": "BUY",
     "usd": 37500.0,
     "odds_at_bet": 75,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 933,
@@ -14166,7 +14166,7 @@
     "side": "BUY",
     "usd": 14559.0975,
     "odds_at_bet": 75,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 934,
@@ -14179,7 +14179,7 @@
     "side": "BUY",
     "usd": 12811.539500831714,
     "odds_at_bet": 26,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 935,
@@ -14192,7 +14192,7 @@
     "side": "BUY",
     "usd": 12419.7309,
     "odds_at_bet": 73,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 936,
@@ -14205,7 +14205,7 @@
     "side": "BUY",
     "usd": 153612.27020881567,
     "odds_at_bet": 27,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 937,
@@ -14218,7 +14218,7 @@
     "side": "BUY",
     "usd": 407480.16,
     "odds_at_bet": 73,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 938,
@@ -14231,7 +14231,7 @@
     "side": "BUY",
     "usd": 17929.243801199416,
     "odds_at_bet": 26,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 939,
@@ -14244,7 +14244,7 @@
     "side": "BUY",
     "usd": 14800.0,
     "odds_at_bet": 74,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 940,
@@ -14257,7 +14257,7 @@
     "side": "BUY",
     "usd": 14948.0,
     "odds_at_bet": 74,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 941,
@@ -14270,7 +14270,7 @@
     "side": "BUY",
     "usd": 10910.094000000001,
     "odds_at_bet": 26,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 942,
@@ -14283,7 +14283,7 @@
     "side": "BUY",
     "usd": 15400.0,
     "odds_at_bet": 77,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 943,
@@ -14296,7 +14296,7 @@
     "side": "BUY",
     "usd": 13885.2329,
     "odds_at_bet": 77,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 944,
@@ -14309,7 +14309,7 @@
     "side": "BUY",
     "usd": 11700.0,
     "odds_at_bet": 78,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14322,7 +14322,7 @@
     "side": "BUY",
     "usd": 21241.729500478436,
     "odds_at_bet": 94,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14335,7 +14335,7 @@
     "side": "BUY",
     "usd": 88454.34000000001,
     "odds_at_bet": 65,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14348,7 +14348,7 @@
     "side": "BUY",
     "usd": 47559.263499999994,
     "odds_at_bet": 35,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -14361,7 +14361,7 @@
     "side": "BUY",
     "usd": 10748.400599801616,
     "odds_at_bet": 33,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -14374,7 +14374,7 @@
     "side": "BUY",
     "usd": 14794.08,
     "odds_at_bet": 84,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14387,7 +14387,7 @@
     "side": "BUY",
     "usd": 27037.037036280002,
     "odds_at_bet": 73,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -14400,7 +14400,7 @@
     "side": "BUY",
     "usd": 17252.3965,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14426,7 +14426,7 @@
     "side": "BUY",
     "usd": 10151.5151505,
     "odds_at_bet": 67,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14439,7 +14439,7 @@
     "side": "BUY",
     "usd": 19999.99999905,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14452,7 +14452,7 @@
     "side": "BUY",
     "usd": 18220.3302,
     "odds_at_bet": 94,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14465,7 +14465,7 @@
     "side": "BUY",
     "usd": 18005.5099,
     "odds_at_bet": 89,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14478,7 +14478,7 @@
     "side": "BUY",
     "usd": 24581.727,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14491,7 +14491,7 @@
     "side": "BUY",
     "usd": 12558.6084,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14504,7 +14504,7 @@
     "side": "BUY",
     "usd": 10763.695800130425,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14517,7 +14517,7 @@
     "side": "BUY",
     "usd": 64778.419602,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -14530,7 +14530,7 @@
     "side": "BUY",
     "usd": 24595.748800000005,
     "odds_at_bet": 28,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14543,7 +14543,7 @@
     "side": "BUY",
     "usd": 18486.94839874875,
     "odds_at_bet": 61,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -14556,7 +14556,7 @@
     "side": "BUY",
     "usd": 41233.3620001275,
     "odds_at_bet": 40,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14569,7 +14569,7 @@
     "side": "BUY",
     "usd": 61636.668,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -14582,7 +14582,7 @@
     "side": "BUY",
     "usd": 10352.314799879581,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -14595,7 +14595,7 @@
     "side": "BUY",
     "usd": 10552.684800000003,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -14608,7 +14608,7 @@
     "side": "BUY",
     "usd": 29499.688000000002,
     "odds_at_bet": 80,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14621,7 +14621,7 @@
     "side": "BUY",
     "usd": 12800.0,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14647,7 +14647,7 @@
     "side": "BUY",
     "usd": 30983.356,
     "odds_at_bet": 37,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -14660,7 +14660,7 @@
     "side": "BUY",
     "usd": 52260.768000000004,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14673,7 +14673,7 @@
     "side": "BUY",
     "usd": 13621.6216206,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14686,7 +14686,7 @@
     "side": "BUY",
     "usd": 25593.51519889748,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14699,7 +14699,7 @@
     "side": "BUY",
     "usd": 20981.0139,
     "odds_at_bet": 83,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14712,7 +14712,7 @@
     "side": "BUY",
     "usd": 30115.222499999996,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14725,7 +14725,7 @@
     "side": "BUY",
     "usd": 16602.8555,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14790,7 +14790,7 @@
     "side": "BUY",
     "usd": 15191.814,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14803,7 +14803,7 @@
     "side": "BUY",
     "usd": 12429.666,
     "odds_at_bet": 45,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -14816,7 +14816,7 @@
     "side": "BUY",
     "usd": 14600.267,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14829,7 +14829,7 @@
     "side": "BUY",
     "usd": 10993.9275,
     "odds_at_bet": 45,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -14842,7 +14842,7 @@
     "side": "BUY",
     "usd": 18108.6545,
     "odds_at_bet": 43,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -14855,7 +14855,7 @@
     "side": "BUY",
     "usd": 21931.679099999998,
     "odds_at_bet": 57,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14868,7 +14868,7 @@
     "side": "BUY",
     "usd": 13000.0,
     "odds_at_bet": 65,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14881,7 +14881,7 @@
     "side": "BUY",
     "usd": 33229.161,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -14894,7 +14894,7 @@
     "side": "BUY",
     "usd": 19235.671000000002,
     "odds_at_bet": 37,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 945,
@@ -14907,7 +14907,7 @@
     "side": "BUY",
     "usd": 18900.0,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 946,
@@ -14920,7 +14920,7 @@
     "side": "BUY",
     "usd": 11100.0,
     "odds_at_bet": 37,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 947,
@@ -14933,7 +14933,7 @@
     "side": "BUY",
     "usd": 10250.5434,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 948,
@@ -14946,7 +14946,7 @@
     "side": "BUY",
     "usd": 11860.391599999999,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 949,
@@ -14959,7 +14959,7 @@
     "side": "BUY",
     "usd": 10342.6292,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 950,
@@ -14972,7 +14972,7 @@
     "side": "BUY",
     "usd": 10334.480000000001,
     "odds_at_bet": 40,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 951,
@@ -14985,7 +14985,7 @@
     "side": "BUY",
     "usd": 15000.0,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 952,
@@ -14998,7 +14998,7 @@
     "side": "BUY",
     "usd": 16515.6084,
     "odds_at_bet": 36,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 953,
@@ -15011,7 +15011,7 @@
     "side": "BUY",
     "usd": 11087.916799999999,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 954,
@@ -15076,7 +15076,7 @@
     "side": "BUY",
     "usd": 12181.6985,
     "odds_at_bet": 85,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 959,
@@ -15102,7 +15102,7 @@
     "side": "BUY",
     "usd": 10500.0,
     "odds_at_bet": 75,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 961,
@@ -15115,7 +15115,7 @@
     "side": "BUY",
     "usd": 12488.839999560001,
     "odds_at_bet": 36,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 962,
@@ -15128,7 +15128,7 @@
     "side": "BUY",
     "usd": 18210.14542144,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 963,
@@ -15141,7 +15141,7 @@
     "side": "BUY",
     "usd": 10691.1,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 964,
@@ -15167,7 +15167,7 @@
     "side": "BUY",
     "usd": 17508.9611,
     "odds_at_bet": 89,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -15193,7 +15193,7 @@
     "side": "BUY",
     "usd": 17904.219997354867,
     "odds_at_bet": 57,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -15206,7 +15206,7 @@
     "side": "BUY",
     "usd": 42982.540502931806,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -15219,7 +15219,7 @@
     "side": "BUY",
     "usd": 14350.0,
     "odds_at_bet": 41,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -15232,7 +15232,7 @@
     "side": "BUY",
     "usd": 41260.91530320042,
     "odds_at_bet": 57,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -15245,7 +15245,7 @@
     "side": "BUY",
     "usd": 12841.199999999999,
     "odds_at_bet": 58,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -15401,7 +15401,7 @@
     "side": "BUY",
     "usd": 12600.0,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -15414,7 +15414,7 @@
     "side": "BUY",
     "usd": 13653.9066,
     "odds_at_bet": 62,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -15440,7 +15440,7 @@
     "side": "BUY",
     "usd": 10050.0,
     "odds_at_bet": 67,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -15531,7 +15531,7 @@
     "side": "BUY",
     "usd": 10400.0,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -15544,7 +15544,7 @@
     "side": "BUY",
     "usd": 13799.999999999998,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -16116,7 +16116,7 @@
     "side": "BUY",
     "usd": 13500.0,
     "odds_at_bet": 54,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -16597,7 +16597,7 @@
     "side": "BUY",
     "usd": 12822.437600000001,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 992,
@@ -16727,7 +16727,7 @@
     "side": "BUY",
     "usd": 30703.02,
     "odds_at_bet": 62,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1049,
@@ -16740,7 +16740,7 @@
     "side": "BUY",
     "usd": 25983.0188,
     "odds_at_bet": 38,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1050,
@@ -16753,7 +16753,7 @@
     "side": "BUY",
     "usd": 12612.8541,
     "odds_at_bet": 61,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1051,
@@ -16766,7 +16766,7 @@
     "side": "BUY",
     "usd": 25983.01879711538,
     "odds_at_bet": 38,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1052,
@@ -16779,7 +16779,7 @@
     "side": "BUY",
     "usd": 30703.02,
     "odds_at_bet": 62,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1053,
@@ -16792,7 +16792,7 @@
     "side": "BUY",
     "usd": 11760.7126,
     "odds_at_bet": 91,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1054,
@@ -16805,7 +16805,7 @@
     "side": "BUY",
     "usd": 11760.7126,
     "odds_at_bet": 91,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1055,
@@ -16818,7 +16818,7 @@
     "side": "BUY",
     "usd": 13743.765000000001,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1056,
@@ -16831,7 +16831,7 @@
     "side": "BUY",
     "usd": 10240.8381,
     "odds_at_bet": 81,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1057,
@@ -16870,7 +16870,7 @@
     "side": "BUY",
     "usd": 10240.8381,
     "odds_at_bet": 81,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1060,
@@ -16883,7 +16883,7 @@
     "side": "BUY",
     "usd": 10505.779998,
     "odds_at_bet": 66,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1061,
@@ -16896,7 +16896,7 @@
     "side": "BUY",
     "usd": 11408.491499999998,
     "odds_at_bet": 35,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1062,
@@ -16909,7 +16909,7 @@
     "side": "BUY",
     "usd": 21717.598500000004,
     "odds_at_bet": 65,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1063,
@@ -16922,7 +16922,7 @@
     "side": "BUY",
     "usd": 21717.598500000004,
     "odds_at_bet": 65,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1064,
@@ -16935,7 +16935,7 @@
     "side": "BUY",
     "usd": 11408.491499999998,
     "odds_at_bet": 35,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1065,
@@ -16948,7 +16948,7 @@
     "side": "BUY",
     "usd": 12219.354,
     "odds_at_bet": 42,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1066,
@@ -16961,7 +16961,7 @@
     "side": "BUY",
     "usd": 61624.4597,
     "odds_at_bet": 58,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1067,
@@ -16974,7 +16974,7 @@
     "side": "BUY",
     "usd": 37392.087799999994,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1068,
@@ -16987,7 +16987,7 @@
     "side": "BUY",
     "usd": 12300.0,
     "odds_at_bet": 41,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1069,
@@ -17000,7 +17000,7 @@
     "side": "BUY",
     "usd": 26992.577999999998,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1070,
@@ -17013,7 +17013,7 @@
     "side": "BUY",
     "usd": 12200.0,
     "odds_at_bet": 61,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1071,
@@ -17026,7 +17026,7 @@
     "side": "BUY",
     "usd": 49587.60199999999,
     "odds_at_bet": 61,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1072,
@@ -17039,7 +17039,7 @@
     "side": "BUY",
     "usd": 82580.16,
     "odds_at_bet": 39,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1073,
@@ -17052,7 +17052,7 @@
     "side": "BUY",
     "usd": 152493.55000000002,
     "odds_at_bet": 61,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1074,
@@ -17065,7 +17065,7 @@
     "side": "BUY",
     "usd": 44848.6779,
     "odds_at_bet": 39,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1075,
@@ -17078,7 +17078,7 @@
     "side": "BUY",
     "usd": 73149.96609999999,
     "odds_at_bet": 61,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1077,
@@ -17091,7 +17091,7 @@
     "side": "BUY",
     "usd": 22991.8902,
     "odds_at_bet": 46,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1078,
@@ -17104,7 +17104,7 @@
     "side": "BUY",
     "usd": 73149.96609599999,
     "odds_at_bet": 61,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1079,
@@ -17117,7 +17117,7 @@
     "side": "BUY",
     "usd": 44848.6779,
     "odds_at_bet": 39,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1080,
@@ -17130,7 +17130,7 @@
     "side": "BUY",
     "usd": 26992.577999999998,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1081,
@@ -17143,7 +17143,7 @@
     "side": "BUY",
     "usd": 37392.087799999994,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1082,
@@ -17156,7 +17156,7 @@
     "side": "BUY",
     "usd": 12300.0,
     "odds_at_bet": 41,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1083,
@@ -17169,7 +17169,7 @@
     "side": "BUY",
     "usd": 61624.45970110427,
     "odds_at_bet": 58,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1084,
@@ -17182,7 +17182,7 @@
     "side": "BUY",
     "usd": 12219.354,
     "odds_at_bet": 42,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1085,
@@ -17195,7 +17195,7 @@
     "side": "BUY",
     "usd": 46285.559999,
     "odds_at_bet": 61,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1086,
@@ -17208,7 +17208,7 @@
     "side": "BUY",
     "usd": 46285.55999535156,
     "odds_at_bet": 61,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1087,
@@ -17221,7 +17221,7 @@
     "side": "BUY",
     "usd": 22991.8902,
     "odds_at_bet": 46,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1088,
@@ -17247,7 +17247,7 @@
     "side": "BUY",
     "usd": 10904.648000000001,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1090,
@@ -17260,7 +17260,7 @@
     "side": "BUY",
     "usd": 11274.1544,
     "odds_at_bet": 62,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1091,
@@ -17273,7 +17273,7 @@
     "side": "BUY",
     "usd": 11761.026000000002,
     "odds_at_bet": 62,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1092,
@@ -17286,7 +17286,7 @@
     "side": "BUY",
     "usd": 10000.0,
     "odds_at_bet": 80,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1093,
@@ -17299,7 +17299,7 @@
     "side": "BUY",
     "usd": 11843.9622,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1094,
@@ -17312,7 +17312,7 @@
     "side": "BUY",
     "usd": 10904.648000092453,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1095,
@@ -17325,7 +17325,7 @@
     "side": "BUY",
     "usd": 10358.2386,
     "odds_at_bet": 46,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1096,
@@ -17338,7 +17338,7 @@
     "side": "BUY",
     "usd": 12159.671400000001,
     "odds_at_bet": 54,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1097,
@@ -17351,7 +17351,7 @@
     "side": "BUY",
     "usd": 10851.713999999998,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1098,
@@ -17364,7 +17364,7 @@
     "side": "BUY",
     "usd": 10851.713999999998,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1099,
@@ -17377,7 +17377,7 @@
     "side": "BUY",
     "usd": 10000.0,
     "odds_at_bet": 80,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1100,
@@ -17390,7 +17390,7 @@
     "side": "BUY",
     "usd": 10200.0,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1101,
@@ -17403,7 +17403,7 @@
     "side": "BUY",
     "usd": 14891.1443,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1102,
@@ -17416,7 +17416,7 @@
     "side": "BUY",
     "usd": 135624.6097,
     "odds_at_bet": 49,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1103,
@@ -17429,7 +17429,7 @@
     "side": "BUY",
     "usd": 102655.35,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1104,
@@ -17442,7 +17442,7 @@
     "side": "BUY",
     "usd": 13429.512,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1105,
@@ -17455,7 +17455,7 @@
     "side": "BUY",
     "usd": 29999.999995000002,
     "odds_at_bet": 89,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1106,
@@ -17468,7 +17468,7 @@
     "side": "BUY",
     "usd": 17532.069998,
     "odds_at_bet": 89,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1108,
@@ -17481,7 +17481,7 @@
     "side": "BUY",
     "usd": 10379.961000000001,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1109,
@@ -17494,7 +17494,7 @@
     "side": "BUY",
     "usd": 13429.512,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1110,
@@ -17507,7 +17507,7 @@
     "side": "BUY",
     "usd": 102655.35,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1111,
@@ -17520,7 +17520,7 @@
     "side": "BUY",
     "usd": 10379.961000000001,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1112,
@@ -17533,7 +17533,7 @@
     "side": "BUY",
     "usd": 17532.069997665858,
     "odds_at_bet": 89,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1113,
@@ -17546,7 +17546,7 @@
     "side": "BUY",
     "usd": 29999.999995070004,
     "odds_at_bet": 89,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1114,
@@ -17559,7 +17559,7 @@
     "side": "BUY",
     "usd": 10035.37,
     "odds_at_bet": 79,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1115,
@@ -17572,7 +17572,7 @@
     "side": "BUY",
     "usd": 10035.37,
     "odds_at_bet": 79,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1116,
@@ -18304,7 +18304,7 @@
     "side": "BUY",
     "usd": 10733.876805,
     "odds_at_bet": 66,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1172,
@@ -18317,7 +18317,7 @@
     "side": "BUY",
     "usd": 10733.87680464,
     "odds_at_bet": 66,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1173,
@@ -18382,7 +18382,7 @@
     "side": "BUY",
     "usd": 10040.8701,
     "odds_at_bet": 87,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1178,
@@ -19175,7 +19175,7 @@
     "side": "BUY",
     "usd": 23846.918400000002,
     "odds_at_bet": 54,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1239,
@@ -19188,7 +19188,7 @@
     "side": "BUY",
     "usd": 10222.12,
     "odds_at_bet": 46,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1240,
@@ -19201,7 +19201,7 @@
     "side": "BUY",
     "usd": 47720.686200000004,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1241,
@@ -19214,7 +19214,7 @@
     "side": "BUY",
     "usd": 40263.877400000005,
     "odds_at_bet": 53,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1242,
@@ -19305,7 +19305,7 @@
     "side": "BUY",
     "usd": 23846.918400000002,
     "odds_at_bet": 54,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 1249,
@@ -19318,7 +19318,7 @@
     "side": "BUY",
     "usd": 10222.12,
     "odds_at_bet": 46,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1250,
@@ -19669,7 +19669,7 @@
     "side": "BUY",
     "usd": 47720.68620348697,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 1278,
@@ -20800,6 +20800,3312 @@
     "side": "BUY",
     "usd": 36632.5152,
     "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1501,
+    "timestamp": 1786561705,
+    "username": "EvenMoneyBonds",
+    "wallet": "0x689f7d0a49d2646dc199848ffbdb4757242e259c",
+    "slug": "mlb-tb-oak-2026-08-12",
+    "title": "Tampa Bay Rays vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 11237.6984,
+    "odds_at_bet": 31,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1502,
+    "timestamp": 1786561705,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tb-oak-2026-08-12",
+    "title": "Tampa Bay Rays vs. Athletics",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 12741.491699999999,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1503,
+    "timestamp": 1786561617,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "mlb-phi-stl-2026-08-12",
+    "title": "Philadelphia Phillies vs. St. Louis Cardinals",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 12861.62999828,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1504,
+    "timestamp": 1786561470,
+    "username": "0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509",
+    "wallet": "0x0954184654a6a3720f5dde4103a42af4dd0e1e1b",
+    "slug": "mlb-tb-oak-2026-08-12",
+    "title": "Tampa Bay Rays vs. Athletics",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 41716.73999913,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1505,
+    "timestamp": 1786561452,
+    "username": "0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509",
+    "wallet": "0x0954184654a6a3720f5dde4103a42af4dd0e1e1b",
+    "slug": "mlb-tb-oak-2026-08-12",
+    "title": "Tampa Bay Rays vs. Athletics",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 105702.6544,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1506,
+    "timestamp": 1786561452,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tb-oak-2026-08-12",
+    "title": "Tampa Bay Rays vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 36632.5152,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1507,
+    "timestamp": 1786561450,
+    "username": "Daemon99",
+    "wallet": "0x8c406c3275517b345e9481c49125e9a6629780df",
+    "slug": "usc-psg-av-2026-08-12-draw",
+    "title": "Will Paris Saint-Germain vs. Aston Villa end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 20951.8673903,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1508,
+    "timestamp": 1786561362,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-9z-pain-2026-08-12",
+    "title": "Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 25966.4982,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1509,
+    "timestamp": 1786561362,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "cs2-9z-pain-2026-08-12",
+    "title": "Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D",
+    "outcome": "9z",
+    "side": "BUY",
+    "usd": 13777.64,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1510,
+    "timestamp": 1786561362,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-9z-pain-2026-08-12",
+    "title": "Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D",
+    "outcome": "9z",
+    "side": "BUY",
+    "usd": 13402.7012,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1511,
+    "timestamp": 1786561171,
+    "username": "musholius722",
+    "wallet": "0x4b341d4612437b6e5b5fbcf98e5b675dbacf48a8",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 340507.42999918,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1512,
+    "timestamp": 1786561171,
+    "username": "BreakTheBank",
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 217701.47163882002,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1513,
+    "timestamp": 1786561143,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 37495.55999906,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1514,
+    "timestamp": 1786561143,
+    "username": "BreakTheBank",
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 23972.57114694,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1515,
+    "timestamp": 1786560969,
+    "username": "tony-sopranchenko",
+    "wallet": "0xde279fef014e51cb0ce213c72d25f73f9624d27c",
+    "slug": "usc-psg-av-2026-08-12-draw",
+    "title": "Will Paris Saint-Germain vs. Aston Villa end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 10626.0,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1516,
+    "timestamp": 1786560937,
+    "username": "PhoenixSuns",
+    "wallet": "0x29ccb2084a5a42861291107ce745dd344d3f3c29",
+    "slug": "usc-psg-av-2026-08-12-av",
+    "title": "Will Aston Villa win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 14073.359999999999,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1517,
+    "timestamp": 1786560673,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 13285.7076,
+    "odds_at_bet": 12,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1518,
+    "timestamp": 1786560673,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 86775.92,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1519,
+    "timestamp": 1786560309,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 15874.6,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1520,
+    "timestamp": 1786560292,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 15874.6,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786560292,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bal-min-2026-08-12",
+    "title": "Baltimore Orioles vs. Minnesota Twins",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 11289.951701036889,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786560276,
+    "username": "0xd4aa6f8e91cfea29b66a48ebff52814",
+    "wallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 29404.2,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786560276,
+    "username": "Ditto321",
+    "wallet": "0x30c16e063c3be66d93acf14c06e2741e348f9f91",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 10000.0,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786560204,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 22237.2889,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786560130,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-tb-oak-2026-08-12-total-9pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 86829.8311,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786560130,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-tb-oak-2026-08-12-total-9pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 16334.995699999998,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786560130,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tb-oak-2026-08-12-total-9pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 49799.78999999999,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786559902,
+    "username": "betopinto",
+    "wallet": "0xee0bcf86a719c9c1023906718034cca17498e6d4",
+    "slug": "usc-psg-av-2026-08-12-av",
+    "title": "Will Aston Villa win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 10358.4,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786559775,
+    "username": "0x633e96a4b7ae543522358282eafa023fe61bd305-1783406206089",
+    "wallet": "0x633e96a4b7ae543522358282eafa023fe61bd305",
+    "slug": "mlb-bal-min-2026-08-12",
+    "title": "Baltimore Orioles vs. Minnesota Twins",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "usd": 14285.70999804,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786559770,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "wta-gauff-rybakin-2026-08-12",
+    "title": "National Bank Open: Coco Gauff vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 17019.5262,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786559770,
+    "username": "ThisAgain",
+    "wallet": "0x2cff41636fe21fad120fed603d54d4fdd96259db",
+    "slug": "wta-gauff-rybakin-2026-08-12",
+    "title": "National Bank Open: Coco Gauff vs Elena Rybakina",
+    "outcome": "Coco Gauff",
+    "side": "BUY",
+    "usd": 19979.4438,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786559652,
+    "username": "0x076d\u20268d4c",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 11901.3299984,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786559098,
+    "username": "redvinny",
+    "wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 11184.09069936967,
+    "odds_at_bet": 82,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786558890,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-wc1-furia-2026-08-12",
+    "title": "Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 13100.800000000001,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786558599,
+    "username": "Elaran1993",
+    "wallet": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d",
+    "slug": "mlb-tb-oak-2026-08-12-total-9pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 46920.5256,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786558599,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tb-oak-2026-08-12-total-9pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 40722.6144,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786558477,
+    "username": "purplegatto",
+    "wallet": "0x032eb1bc893940263ad0b01889f262fc232f2a9e",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 10078.6042,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786558476,
+    "username": "78979879879879",
+    "wallet": "0xeb490d0534bb68b4c2ce139b219a728cd2c3693e",
+    "slug": "israel-closes-its-airspace-by-august-31-389",
+    "title": "Israel closes its airspace by August 31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 11690.99998704,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786558086,
+    "username": "Levoin",
+    "wallet": "0x893a1c2684c5b7395154490fec9b0e6deedd29dc",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 19999.999998379997,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786558086,
+    "username": "norrisfan",
+    "wallet": "0xe72bb501df5306c75c89383d48a1e81073fbb0a0",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 13898.305083619998,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786557841,
+    "username": "bigspending",
+    "wallet": "0x86dab59a8a6e7f9947282d2117aab3429b706428",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 41300.0,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786557841,
+    "username": "0way",
+    "wallet": "0x56b957b03305378167aba6c163941d4b582979a2",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 14001.040799999999,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786557534,
+    "username": "Bot313",
+    "wallet": "0x3c2308acafd1df24b763a6c1445de58b9aafed23",
+    "slug": "mlb-bal-min-2026-08-12-total-10pt5",
+    "title": "Baltimore Orioles vs. Minnesota Twins: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 10000.000000027625,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786557496,
+    "username": "Bot313",
+    "wallet": "0x3c2308acafd1df24b763a6c1445de58b9aafed23",
+    "slug": "mlb-bal-min-2026-08-12-total-10pt5",
+    "title": "Baltimore Orioles vs. Minnesota Twins: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 10000.000000313283,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786557493,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-wc1-furia-2026-08-12",
+    "title": "Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 10472.39025,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786557493,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-wc1-furia-2026-08-12",
+    "title": "Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 11214.333333519333,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786557492,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-wc1-furia-2026-08-12",
+    "title": "Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 11244.083333522833,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786557490,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-wc1-furia-2026-08-12",
+    "title": "Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 10500.0,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786557454,
+    "username": "ohehe",
+    "wallet": "0xeac22222ef8d2be457c00101a1a4e4925ec5dddc",
+    "slug": "cs2-wc1-furia-2026-08-12",
+    "title": "Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 30944.350499999997,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786557373,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "cs2-9z-pain-2026-08-12",
+    "title": "Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D",
+    "outcome": "9z",
+    "side": "BUY",
+    "usd": 10101.8304,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786557138,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "usc-psg-av-2026-08-12-exact-score-0-0",
+    "title": "Exact Score: Paris Saint-Germain 0 - 0 Aston Villa?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 22507.649989999998,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786557114,
+    "username": "bigspending",
+    "wallet": "0x86dab59a8a6e7f9947282d2117aab3429b706428",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 83537.25039999999,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786557114,
+    "username": "0way",
+    "wallet": "0x56b957b03305378167aba6c163941d4b582979a2",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 10578.0,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1521,
+    "timestamp": 1786557114,
+    "username": "Daemon99",
+    "wallet": "0x8c406c3275517b345e9481c49125e9a6629780df",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 17162.6,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1522,
+    "timestamp": 1786556986,
+    "username": "0x5aD49Cd574dF6888a0fE1d2B522F334988f06866-1766098504363",
+    "wallet": "0x5ad49cd574df6888a0fe1d2b522f334988f06866",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 12953.14,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1523,
+    "timestamp": 1786556955,
+    "username": "HongYunX",
+    "wallet": "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 173002.36349729355,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1524,
+    "timestamp": 1786556955,
+    "username": "BreakTheBank",
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 57563.045399999995,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1525,
+    "timestamp": 1786556733,
+    "username": "gggjajnsnn",
+    "wallet": "0xa8a1b285090a97de8901ac8079d20d202e492974",
+    "slug": "lol-bw-dp-2026-08-12",
+    "title": "LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins",
+    "outcome": "Dark Passage",
+    "side": "BUY",
+    "usd": 19999.99999989964,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1526,
+    "timestamp": 1786556733,
+    "username": "bloodmaster",
+    "wallet": "0x58f8f1138be2192696378629fc9aa23c7910dc70",
+    "slug": "lol-bw-dp-2026-08-12",
+    "title": "LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins",
+    "outcome": "Bushido Wildcats",
+    "side": "BUY",
+    "usd": 44661.848,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1527,
+    "timestamp": 1786556484,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-phi-stl-2026-08-12-total-8pt5",
+    "title": "Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 17877.8264,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1528,
+    "timestamp": 1786556470,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-phi-stl-2026-08-12-total-7pt5",
+    "title": "Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 128172.2618,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1529,
+    "timestamp": 1786556470,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-phi-stl-2026-08-12-total-7pt5",
+    "title": "Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 44205.9962,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1530,
+    "timestamp": 1786556470,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-phi-stl-2026-08-12-total-7pt5",
+    "title": "Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 36739.282,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1531,
+    "timestamp": 1786556301,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 69500.53000716005,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1532,
+    "timestamp": 1786556301,
+    "username": "S-Works",
+    "wallet": "0xee00ba338c59557141789b127927a55f5cc5cea1",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 19645.469899999996,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1533,
+    "timestamp": 1786556301,
+    "username": "Anjun",
+    "wallet": "0x43372356634781eea88d61bbdd7824cdce958882",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 15555.4,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1534,
+    "timestamp": 1786556301,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 60462.85,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1535,
+    "timestamp": 1786556301,
+    "username": "norrisfan",
+    "wallet": "0xe72bb501df5306c75c89383d48a1e81073fbb0a0",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 13490.0,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1536,
+    "timestamp": 1786556301,
+    "username": "ARI100KRAT",
+    "wallet": "0x55d94368a50750f264cf42096e9034315d9c832c",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 10650.0,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1537,
+    "timestamp": 1786556301,
+    "username": "TheMafiaa",
+    "wallet": "0xafd492974cd531aae7786210438ae46b42047e61",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 13502.484,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1538,
+    "timestamp": 1786556200,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-col-ari-2026-08-12",
+    "title": "Colorado Rockies vs. Arizona Diamondbacks",
+    "outcome": "Arizona Diamondbacks",
+    "side": "BUY",
+    "usd": 33678.573599999996,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1539,
+    "timestamp": 1786556200,
+    "username": "PleaseWinPlease",
+    "wallet": "0x0f1cb0af3f632029ec26ba44c22239f47d5f82c6",
+    "slug": "mlb-col-ari-2026-08-12",
+    "title": "Colorado Rockies vs. Arizona Diamondbacks",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "usd": 10450.0,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1540,
+    "timestamp": 1786556187,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 162341.68550561977,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786556187,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 45571.399999999994,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786556187,
+    "username": "S-Works",
+    "wallet": "0xee00ba338c59557141789b127927a55f5cc5cea1",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 210000.0,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786556187,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 44100.939999999995,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786556187,
+    "username": "ARI100KRAT",
+    "wallet": "0x55d94368a50750f264cf42096e9034315d9c832c",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 13647.2904,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786556187,
+    "username": "Feromont",
+    "wallet": "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3",
+    "slug": "mlb-bal-min-2026-08-12",
+    "title": "Baltimore Orioles vs. Minnesota Twins",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 10191.3861,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786556182,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bal-min-2026-08-12-total-8pt5",
+    "title": "Baltimore Orioles vs. Minnesota Twins: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 47720.68620348697,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786556182,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-bal-min-2026-08-12-total-8pt5",
+    "title": "Baltimore Orioles vs. Minnesota Twins: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 40263.877400000005,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786556095,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bal-min-2026-08-12-total-8pt5",
+    "title": "Baltimore Orioles vs. Minnesota Twins: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 23846.918400000002,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786556095,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "mlb-bal-min-2026-08-12-total-8pt5",
+    "title": "Baltimore Orioles vs. Minnesota Twins: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 10222.12,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786555680,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bal-min-2026-08-12-spread-away-1pt5",
+    "title": "Spread: Baltimore Orioles (-1.5)",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "usd": 15449.5194,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786555680,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bal-min-2026-08-12-spread-away-1pt5",
+    "title": "Spread: Baltimore Orioles (-1.5)",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 10342.995,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786555653,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bal-min-2026-08-12",
+    "title": "Baltimore Orioles vs. Minnesota Twins",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "usd": 80000.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786555653,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bal-min-2026-08-12",
+    "title": "Baltimore Orioles vs. Minnesota Twins",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 79396.06,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786555470,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 49857.47490159654,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786555470,
+    "username": "hansama231",
+    "wallet": "0x381b9294c1b95b61d018ff56312fbcc4897c4d74",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 52500.0,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786555470,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 29649.5361,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786555246,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 32070.740399999995,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786555246,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 15777.619999999999,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786555246,
+    "username": "ARI100KRAT",
+    "wallet": "0x55d94368a50750f264cf42096e9034315d9c832c",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 10650.0,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786555120,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 45142.9636,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786555120,
+    "username": "Nooserac",
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 18000.0,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786555120,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 72000.0,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786555120,
+    "username": "thecomplicatedguy",
+    "wallet": "0xf95846967c9093e4881506162077ec8f7049db13",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 10800.0,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786554865,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-navi-3dmax-2026-08-12",
+    "title": "Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D",
+    "outcome": "3DMAX",
+    "side": "BUY",
+    "usd": 51415.20309074077,
+    "odds_at_bet": 20,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786554865,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-navi-3dmax-2026-08-12",
+    "title": "Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 191510.40000000002,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786554865,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-navi-3dmax-2026-08-12",
+    "title": "Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 11012.7192,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786554832,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-navi-3dmax-2026-08-12",
+    "title": "Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D",
+    "outcome": "3DMAX",
+    "side": "BUY",
+    "usd": 108672.31861826622,
+    "odds_at_bet": 20,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786554832,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-navi-3dmax-2026-08-12",
+    "title": "Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 422902.80000000005,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786554810,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-navi-3dmax-2026-08-12",
+    "title": "Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 16779.0,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1541,
+    "timestamp": 1786554777,
+    "username": "busosuds",
+    "wallet": "0xe075f638300fa182a930ebf9abd8db7fdbaaf2dd",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 13247.279999999999,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1542,
+    "timestamp": 1786554772,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-navi-3dmax-2026-08-12",
+    "title": "Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 14673.6,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1543,
+    "timestamp": 1786554687,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 16730.271099999998,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1544,
+    "timestamp": 1786554687,
+    "username": "NemecGhudini",
+    "wallet": "0xa7e2bdc8ccda2fdc129f639761069df9ab349e36",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 24850.0,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1545,
+    "timestamp": 1786554687,
+    "username": "787-HUEV-W-ZOPE",
+    "wallet": "0xdd6331d7e7be19d60649434e99ddb89392fe050f",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 11172.8156,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1546,
+    "timestamp": 1786554640,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-col-ari-2026-08-12-total-9pt5",
+    "title": "Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 10240.709998439088,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1547,
+    "timestamp": 1786554580,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 176933.67349899927,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1548,
+    "timestamp": 1786554580,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 10800.0,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1549,
+    "timestamp": 1786554580,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 21600.0,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1550,
+    "timestamp": 1786554580,
+    "username": "basementdweller3000",
+    "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 36000.0,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1551,
+    "timestamp": 1786554580,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 131677.19999999998,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1552,
+    "timestamp": 1786554580,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 18250.0,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1553,
+    "timestamp": 1786554580,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 11355.7588,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1554,
+    "timestamp": 1786554271,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 110307.14099999999,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1555,
+    "timestamp": 1786554271,
+    "username": "gmtrader",
+    "wallet": "0xa18c5cf2bc6eec389d2d512582ae14654b99d792",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 12900.0,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1556,
+    "timestamp": 1786553799,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mil-sd-2026-08-12",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 16753.2499992,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1557,
+    "timestamp": 1786553799,
+    "username": "Mylifeisover",
+    "wallet": "0x7542fa229f63a7bd8a9ca4584638004a39317a20",
+    "slug": "mlb-mil-sd-2026-08-12",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 15464.538460799999,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1558,
+    "timestamp": 1786553598,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-phi-stl-2026-08-12-total-7pt5",
+    "title": "Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 10468.00744585,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1559,
+    "timestamp": 1786553433,
+    "username": "ArturitoFilito",
+    "wallet": "0x336bf6f91a4619d54f0711a20fe468adf4d71233",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 12890.180106439999,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1560,
+    "timestamp": 1786552995,
+    "username": "0x99F0d31fdced5B3A0e5Ee2867730A6644a6C9495-1779037126382",
+    "wallet": "0x99f0d31fdced5b3a0e5ee2867730a6644a6c9495",
+    "slug": "usc-psg-av-2026-08-12-exact-score-0-0",
+    "title": "Exact Score: Paris Saint-Germain 0 - 0 Aston Villa?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 15064.419,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786552981,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-brancac-moelle-2026-08-12",
+    "title": "Hamburg: Raul Brancaccio vs Marvin Moeller",
+    "outcome": "Marvin Moeller",
+    "side": "BUY",
+    "usd": 10040.8701,
+    "odds_at_bet": 87,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786552879,
+    "username": "0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509",
+    "wallet": "0x0954184654a6a3720f5dde4103a42af4dd0e1e1b",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 12881.414,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786552879,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 16405.9184,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786551826,
+    "username": "johnny234",
+    "wallet": "0xd38ad20037839959d89165cf448568d584b28d26",
+    "slug": "mlb-bal-min-2026-08-12",
+    "title": "Baltimore Orioles vs. Minnesota Twins",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "usd": 11000.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786551261,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-brancac-moelle-2026-08-12",
+    "title": "Hamburg: Raul Brancaccio vs Marvin Moeller",
+    "outcome": "Raul Brancaccio",
+    "side": "BUY",
+    "usd": 10733.87680464,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786551043,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 26971.796599999998,
+    "odds_at_bet": 27,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786551043,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 70977.8708,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786551031,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 107672.89592,
+    "odds_at_bet": 27,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786551031,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 231243.5089,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786551031,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 13870.0,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786551031,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 14562.5656,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786551031,
+    "username": "NemecGhudini",
+    "wallet": "0xa7e2bdc8ccda2fdc129f639761069df9ab349e36",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 22123.04,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550985,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 57745.246100000004,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550985,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 20744.1738,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550985,
+    "username": "ArturitoFilito",
+    "wallet": "0x336bf6f91a4619d54f0711a20fe468adf4d71233",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 10500.0,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550974,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 77088.5499,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550974,
+    "username": "spnir",
+    "wallet": "0xde8255bfde4de8ceefc7658462234da51ef8705d",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 12900.0,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550952,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 21972.925,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550952,
+    "username": "GreatestTrader",
+    "wallet": "0x258c8a3ab3f9dd5c1e3bb05f54a9187247b77c23",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 14319.0,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550952,
+    "username": "0xA9C4b118095A4F67BA9ba461aAdF6a9cfE5e7433-1721318888203",
+    "wallet": "0xa9c4b118095a4f67ba9ba461aadf6a9cfe5e7433",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 15540.0,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550952,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 14800.0,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550931,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 10411.521999999999,
+    "odds_at_bet": 44,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550931,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 13251.028,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550917,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-navi-3dmax-2026-08-12",
+    "title": "Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 10219.95,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550878,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 23885.008300507685,
+    "odds_at_bet": 25,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550878,
+    "username": "0xA9C4b118095A4F67BA9ba461aAdF6a9cfE5e7433-1721318888203",
+    "wallet": "0xa9c4b118095a4f67ba9ba461aadf6a9cfe5e7433",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 15825.0,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550878,
+    "username": "GhostOfJupiter",
+    "wallet": "0x6d36f06adba52e8dc9c45c6a85192bf5817af787",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 15000.0,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550878,
+    "username": "PsR-T5",
+    "wallet": "0xf4442dc7b4a513f4ea9658ff00c82cfc71648c90",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 14440.0,
+    "odds_at_bet": 76,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550842,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 29077.731200000002,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550704,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 232233.80797930632,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550704,
+    "username": "basementdweller3000",
+    "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 11250.0,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550704,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 135000.0,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550704,
+    "username": "basementdweller3000",
+    "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 22500.0,
+    "odds_at_bet": 45,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786550704,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 10193.618400000001,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1561,
+    "timestamp": 1786550341,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 15294.187800000002,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1562,
+    "timestamp": 1786550341,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 13028.3822,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1563,
+    "timestamp": 1786549366,
+    "username": "0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509",
+    "wallet": "0x0954184654a6a3720f5dde4103a42af4dd0e1e1b",
+    "slug": "cs2-navi-3dmax-2026-08-12",
+    "title": "Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D",
+    "outcome": "3DMAX",
+    "side": "BUY",
+    "usd": 17253.7325,
+    "odds_at_bet": 25,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1564,
+    "timestamp": 1786549366,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-navi-3dmax-2026-08-12",
+    "title": "Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 13854.96,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1565,
+    "timestamp": 1786549323,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-ijc-tlnpir-2026-08-12",
+    "title": "LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs",
+    "outcome": "TLN Pirates",
+    "side": "BUY",
+    "usd": 21565.406300214472,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1566,
+    "timestamp": 1786549323,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-ijc-tlnpir-2026-08-12",
+    "title": "LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs",
+    "outcome": "Ici Japon Corp. Esport",
+    "side": "BUY",
+    "usd": 10250.0,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1567,
+    "timestamp": 1786548855,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-phi-stl-2026-08-12-total-7pt5",
+    "title": "Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 58491.4678,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1568,
+    "timestamp": 1786548855,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-phi-stl-2026-08-12-total-7pt5",
+    "title": "Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 47000.0,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1569,
+    "timestamp": 1786547974,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 10035.37,
+    "odds_at_bet": 79,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1570,
+    "timestamp": 1786546695,
+    "username": "JaJa668",
+    "wallet": "0x3ebd6441c0b5ee308208bf30b2819a59b763b66a",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 10379.961000000001,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1571,
+    "timestamp": 1786546680,
+    "username": "vv-vv",
+    "wallet": "0xdf44c3e8ce0a3f66dd4cdf7688e1f23500d770f1",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 17532.069997665858,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1572,
+    "timestamp": 1786546671,
+    "username": "retroactivesource",
+    "wallet": "0x85d53efdd055aa88fb00a914f5615bfd585545ee",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 29999.999995070004,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1573,
+    "timestamp": 1786546509,
+    "username": "redvinny",
+    "wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 13429.512,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1574,
+    "timestamp": 1786546498,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 14891.144299685237,
+    "odds_at_bet": 47,
+    "status": "cerrada_venta",
+    "profit_usd": -316.83,
+    "precio_salida": 46
+  },
+  {
+    "telegram_msg_id": 1575,
+    "timestamp": 1786546498,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 135624.60968820762,
+    "odds_at_bet": 49,
+    "status": "cerrada_venta",
+    "profit_usd": -2885.63,
+    "precio_salida": 46
+  },
+  {
+    "telegram_msg_id": 1576,
+    "timestamp": 1786546498,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 102655.35,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1577,
+    "timestamp": 1786546498,
+    "username": "spnir",
+    "wallet": "0xde8255bfde4de8ceefc7658462234da51ef8705d",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 10200.0,
+    "odds_at_bet": 51,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1578,
+    "timestamp": 1786546167,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 10851.713999999998,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1579,
+    "timestamp": 1786546144,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 12159.671400000001,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1580,
+    "timestamp": 1786546144,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 10358.2386,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786546027,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 11843.9622,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786546003,
+    "username": "vananal0318",
+    "wallet": "0xb589734f08a5b12a7b6f30b782a5deeace3f91e3",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 10000.0,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545982,
+    "username": "ohehe",
+    "wallet": "0xeac22222ef8d2be457c00101a1a4e4925ec5dddc",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 11761.02599922359,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545946,
+    "username": "ohehe",
+    "wallet": "0xeac22222ef8d2be457c00101a1a4e4925ec5dddc",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 11274.1544,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545930,
+    "username": "ohehe",
+    "wallet": "0xeac22222ef8d2be457c00101a1a4e4925ec5dddc",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 10904.648000092453,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545835,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 11550.0,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545534,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 46285.55999535156,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545466,
+    "username": "basementdweller3000",
+    "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 22991.8902,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545324,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 73149.96609599999,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545324,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "B8",
+    "side": "BUY",
+    "usd": 44848.6779,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545306,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 152493.55000000002,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545306,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "B8",
+    "side": "BUY",
+    "usd": 82580.16,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545255,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 49587.60199980484,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545255,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 12200.0,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545225,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 26992.577999999998,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545163,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 37392.087799999994,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545163,
+    "username": "basementdweller3000",
+    "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "B8",
+    "side": "BUY",
+    "usd": 12300.0,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545156,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 61624.45970110427,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786545156,
+    "username": "basementdweller3000",
+    "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "B8",
+    "side": "BUY",
+    "usd": 12219.354,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786544716,
+    "username": "suanlimao6",
+    "wallet": "0xe8ade1c67a880380ec861c476052c2f00057a859",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 21717.598500000004,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786544716,
+    "username": "gggjajnsnn",
+    "wallet": "0xa8a1b285090a97de8901ac8079d20d202e492974",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 11408.491499999998,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786544161,
+    "username": "five5120",
+    "wallet": "0xc1c7bb8761105f6d33fc8d71dec31b5688a0f0a7",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 10505.77999812,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786543401,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-nym-atl-2026-08-12",
+    "title": "New York Mets vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 10043.669998239999,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786543339,
+    "username": "five5120",
+    "wallet": "0xc1c7bb8761105f6d33fc8d71dec31b5688a0f0a7",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 10240.8381,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786542634,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-nip-lgc-2026-08-12",
+    "title": "Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "usd": 11760.7126,
+    "odds_at_bet": 91,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786542531,
+    "username": "redvinny",
+    "wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+    "slug": "cs2-nip-lgc-2026-08-12",
+    "title": "Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "usd": 13743.765000000001,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786542154,
+    "username": "madwish355",
+    "wallet": "0x000e3112ff76ff6c5eb3c6bd5dec30bc9787f7e9",
+    "slug": "lol-blg-jdg-2026-08-12-game2",
+    "title": "LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 12612.8541,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786542120,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-blg-jdg-2026-08-12-game2",
+    "title": "LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 25983.01879711538,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786542120,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-blg-jdg-2026-08-12-game2",
+    "title": "LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 30703.02,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786541862,
+    "username": "Marcoli",
+    "wallet": "0xdbbbde184ab04018ce0373c0dbe4e5fd6be805a8",
+    "slug": "atp-jodar-nakashi-2026-08-12",
+    "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "usd": 48477.86209669328,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786541862,
+    "username": "Marcoli",
+    "wallet": "0xdbbbde184ab04018ce0373c0dbe4e5fd6be805a8",
+    "slug": "atp-jodar-nakashi-2026-08-12",
+    "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "usd": 36522.13790212403,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786541143,
+    "username": "suntori",
+    "wallet": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 10371.428100000001,
+    "odds_at_bet": 11,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786541143,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 40851.71200000001,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786541143,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 43062.5699,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786541080,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 15819.41,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1581,
+    "timestamp": 1786541080,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 10000.0,
+    "odds_at_bet": 50,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1582,
+    "timestamp": 1786540858,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 40478.6496,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1583,
+    "timestamp": 1786540858,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 38473.437600000005,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1584,
+    "timestamp": 1786539996,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 37500.0,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1585,
+    "timestamp": 1786539819,
+    "username": "GreenBerry1337",
+    "wallet": "0x91667e40b80c447050904b042f3b85d22fc6b479",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 14559.0975,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1586,
+    "timestamp": 1786539777,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "K27",
+    "side": "BUY",
+    "usd": 12811.539500831714,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1587,
+    "timestamp": 1786539777,
+    "username": "CongoleseBorat",
+    "wallet": "0x6f0ebea3c2e777699519ee128faaa07a9d0b2ee5",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 12419.7309,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1588,
+    "timestamp": 1786539769,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "K27",
+    "side": "BUY",
+    "usd": 153612.27020881567,
+    "odds_at_bet": 27,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1589,
+    "timestamp": 1786539769,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 407480.16,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1590,
+    "timestamp": 1786539744,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "K27",
+    "side": "BUY",
+    "usd": 17929.243801199416,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1591,
+    "timestamp": 1786539744,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 14800.0,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1592,
+    "timestamp": 1786539744,
+    "username": "GRINGOMATE",
+    "wallet": "0x447d7eb8ecb8930e7b5f353b4298e2562d905eea",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 14948.0,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1593,
+    "timestamp": 1786539676,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "K27",
+    "side": "BUY",
+    "usd": 10910.094000000001,
+    "odds_at_bet": 26,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1594,
+    "timestamp": 1786539582,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 15400.0,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1595,
+    "timestamp": 1786539582,
+    "username": "spnir",
+    "wallet": "0xde8255bfde4de8ceefc7658462234da51ef8705d",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 13885.2329,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1596,
+    "timestamp": 1786539567,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 11700.0,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1597,
+    "timestamp": 1786539472,
+    "username": "467j6yj",
+    "wallet": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+    "slug": "cs2-g2-m80-2026-08-12",
+    "title": "Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A",
+    "outcome": "G2",
+    "side": "BUY",
+    "usd": 21241.729500478436,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1598,
+    "timestamp": 1786539471,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-g2-m80-2026-08-12",
+    "title": "Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A",
+    "outcome": "G2",
+    "side": "BUY",
+    "usd": 88454.34000000001,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1599,
+    "timestamp": 1786539471,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-g2-m80-2026-08-12",
+    "title": "Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A",
+    "outcome": "M80",
+    "side": "BUY",
+    "usd": 47559.263499999994,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1600,
+    "timestamp": 1786539442,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-g2-m80-2026-08-12",
+    "title": "Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A",
+    "outcome": "M80",
+    "side": "BUY",
+    "usd": 10748.400599801616,
+    "odds_at_bet": 33,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786539150,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-g2-m80-2026-08-12",
+    "title": "Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A",
+    "outcome": "G2",
+    "side": "BUY",
+    "usd": 14794.08,
+    "odds_at_bet": 84,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786538893,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 27037.037036280002,
+    "odds_at_bet": 73,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786538760,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-nip-lgc-2026-08-12",
+    "title": "Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "usd": 17252.3965,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786538605,
+    "username": "SineNooneEI",
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "slug": "cs2-lvg-mouz-2026-08-12",
+    "title": "Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 10000.0,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786538556,
+    "username": "suanlimao6",
+    "wallet": "0xe8ade1c67a880380ec861c476052c2f00057a859",
+    "slug": "lol-blg-jdg-2026-08-12-game1",
+    "title": "LoL: Bilibili Gaming vs JD Gaming - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 10151.5151505,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786538079,
+    "username": "five5120",
+    "wallet": "0xc1c7bb8761105f6d33fc8d71dec31b5688a0f0a7",
+    "slug": "lol-blg-jdg-2026-08-12-game1",
+    "title": "LoL: Bilibili Gaming vs JD Gaming - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 19999.99999905,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786537257,
+    "username": "acc1211",
+    "wallet": "0xd6d9ed4117ddd92d85878cf981c11ba2a0bb2c2f",
+    "slug": "crichundredw-wel-lon-2026-08-12",
+    "title": "The Hundred, Women: Welsh Fire vs London Spirit",
+    "outcome": "Welsh Fire",
+    "side": "BUY",
+    "usd": 18220.3302,
+    "odds_at_bet": 94,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786536910,
+    "username": "acc1211",
+    "wallet": "0xd6d9ed4117ddd92d85878cf981c11ba2a0bb2c2f",
+    "slug": "crichundredw-wel-lon-2026-08-12",
+    "title": "The Hundred, Women: Welsh Fire vs London Spirit",
+    "outcome": "Welsh Fire",
+    "side": "BUY",
+    "usd": 18005.5099,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786536795,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-kt-dk-2026-08-12-game2",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 24581.727,
+    "odds_at_bet": 90,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786536294,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 12558.6084,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786536231,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-g2-m80-2026-08-12",
+    "title": "Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A",
+    "outcome": "G2",
+    "side": "BUY",
+    "usd": 10763.695800130425,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786536208,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-mgc-mglz-2026-08-12",
+    "title": "Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D",
+    "outcome": "magic",
+    "side": "BUY",
+    "usd": 64778.419602,
+    "odds_at_bet": 72,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786536208,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-mgc-mglz-2026-08-12",
+    "title": "Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 24595.748800000005,
+    "odds_at_bet": 28,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786536190,
+    "username": "JaJa668",
+    "wallet": "0x3ebd6441c0b5ee308208bf30b2819a59b763b66a",
+    "slug": "lol-edg-al-2026-08-12",
+    "title": "LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+    "outcome": "EDward Gaming",
+    "side": "BUY",
+    "usd": 18486.94839874875,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786536150,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-mgc-mglz-2026-08-12",
+    "title": "Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 41233.3620001275,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786536150,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-mgc-mglz-2026-08-12",
+    "title": "Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D",
+    "outcome": "magic",
+    "side": "BUY",
+    "usd": 61636.668,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786535811,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-mgc-mglz-2026-08-12",
+    "title": "Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D",
+    "outcome": "magic",
+    "side": "BUY",
+    "usd": 10352.314799879581,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786535574,
+    "username": "ohehe",
+    "wallet": "0xeac22222ef8d2be457c00101a1a4e4925ec5dddc",
+    "slug": "val-jdg-te-2026-08-12",
+    "title": "Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 10552.684800000003,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786535410,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 29499.688000000002,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786535313,
+    "username": "SineNooneEI",
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "slug": "lol-kt-dk-2026-08-12-game2",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 12800.0,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786534827,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sea-nyy-2026-08-12-total-8pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 16703.297299956197,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786534182,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-kt-dk-2026-08-12-game2",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 2 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "usd": 30983.356,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1786534182,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-kt-dk-2026-08-12-game2",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 52260.768000000004,
+    "odds_at_bet": 63,
     "status": "pending"
   }
 ]
