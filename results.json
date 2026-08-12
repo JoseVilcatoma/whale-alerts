@@ -26756,5 +26756,31 @@
     "usd": 34000.0,
     "odds_at_bet": 34,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1845,
+    "timestamp": 1786578466,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-cin-cws-2026-08-12",
+    "title": "Cincinnati Reds vs. Chicago White Sox",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 12607.9941,
+    "odds_at_bet": 39,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1846,
+    "timestamp": 1786578466,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-cin-cws-2026-08-12",
+    "title": "Cincinnati Reds vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 20333.13,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
