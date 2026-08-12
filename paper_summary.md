@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 04:29:23 (hora de Perú)
+Actualizado: 2026-08-12 04:31:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 50 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 56 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | BrotherObama | 7 | 17 | 4 | -121.31 USD |
@@ -452,6 +452,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | Aurora Gaming (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | EDward Gaming (BUY) | 33% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | EDward Gaming (BUY) | 33% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Luminosity vs GamerLegio | GamerLegion (BUY) | 79% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | EDward Gaming (BUY) | 34% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | Aurora Gaming (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Luminosity vs GamerLegio | Luminosity (BUY) | 29% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Luminosity vs GamerLegio | Luminosity (BUY) | 27% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | BIG (BUY) | 49% | 0.00 | ⏳ pendiente | — |
@@ -476,9 +482,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: Luminosity vs GamerLegio | GamerLegion (BUY) | 78% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | Aurora Gaming (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | BIG (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | Nongshim Red Force (BUY) | 8% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will GKS GieKSa Katowice win on 2026-08- | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | DN SOOPers (BUY) | 84% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Luminosity vs GamerLegio | Luminosity (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | DN SOOPers (BUY) | 87% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Heidelberg United FC (-1.5) | Heidelberg United FC (BUY) | 50% | 0.00 | ⏳ pendiente | — |
