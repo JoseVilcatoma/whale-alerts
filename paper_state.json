@@ -1,5 +1,5 @@
 {
-  "bankroll": 571.0724720384858,
+  "bankroll": 516.4309335769472,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18630,6 +18630,26 @@
       "timestamp": 1786572623.5275338,
       "bankroll": 571.07,
       "event": "lost: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-3.5)"
+    },
+    {
+      "timestamp": 1786572747.513145,
+      "bankroll": 568.24,
+      "event": "lost: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-2.5)"
+    },
+    {
+      "timestamp": 1786572747.613338,
+      "bankroll": 569.1,
+      "event": "won: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-2.5)"
+    },
+    {
+      "timestamp": 1786572748.1931527,
+      "bankroll": 557.02,
+      "event": "lost: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786572748.2933643,
+      "bankroll": 516.43,
+      "event": "lost: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-2.5)"
     }
   ]
 }
