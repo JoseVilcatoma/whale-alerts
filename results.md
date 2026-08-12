@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 01:13:12 (hora de Perú)
+Actualizado: 2026-08-12 01:15:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **669**  ($13,775,615 en total)
+- Apuestas registradas: **670**  ($13,786,865 en total)
 - Resueltas: **350** — 246 ganadas / 104 perdidas (**70%** de acierto)
-- Pendientes: 319
+- Pendientes: 320
 - Apostadores distintos: 96
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 47 | 6 | 25 | 89% | $1,168,205 | +$93,281 |
 | AV23IUa | 12 | 5 | 25 | 71% | $1,140,129 | +$239,141 |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 16 | 29 | 43% | $1,131,395 | -$248,458 |
-| Djdjdjekekek | 0 | 2 | 19 | ⚠️ 0% (2) | $715,689 | -$62,629 |
+| Djdjdjekekek | 0 | 2 | 20 | ⚠️ 0% (2) | $726,939 | -$62,629 |
 | pleaseplease123 | 0 | 12 | 16 | 0% | $700,196 | -$399,165 |
 | Weaseloftheweek | 8 | 2 | 0 | 80% | $607,608 | +$306,346 |
 | BreakTheBank | 0 | 8 | 0 | 0% | $535,671 | -$535,671 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 96 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | LoL: HANJIN BRION Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group | HANJIN BRION Challengers | 1.33 (75¢) | $11,250 | — | ⏳ Pendiente |
 | Djdjdjekekek | LoL: HANJIN BRION Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group | HANJIN BRION Challengers | 1.33 (75¢) | $11,250 | — | ⏳ Pendiente |
 | MeiGuNiuBi | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $12,600 | — | ⏳ Pendiente |
 | MeiGuNiuBi | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $12,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 96 en total)_
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.35 (74¢) | $10,873 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.35 (74¢) | $12,259 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.33 (75¢) | $10,397 | — | ⏳ Pendiente |
-| AV23IUa | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Aleksandar Vukic | 1.67 (60¢) | $24,631 | — | ⏳ Pendiente |

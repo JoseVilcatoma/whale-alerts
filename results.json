@@ -8715,5 +8715,18 @@
     "usd": 11250.0,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 516,
+    "timestamp": 1786515112,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "lol-bro1-hle-2026-08-12",
+    "title": "LoL: HANJIN BRION Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+    "outcome": "HANJIN BRION Challengers",
+    "side": "BUY",
+    "usd": 11250.0,
+    "odds_at_bet": 75,
+    "status": "pending"
   }
 ]
