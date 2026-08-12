@@ -20320,5 +20320,44 @@
     "usd": 14285.709997999998,
     "odds_at_bet": 78,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1328,
+    "timestamp": 1786559902,
+    "username": "betopinto",
+    "wallet": "0xee0bcf86a719c9c1023906718034cca17498e6d4",
+    "slug": "usc-psg-av-2026-08-12-av",
+    "title": "Will Aston Villa win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 10358.4,
+    "odds_at_bet": 83,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1329,
+    "timestamp": 1786559775,
+    "username": "0x633e96a4b7ae543522358282eafa023fe61bd305-1783406206089",
+    "wallet": "0x633e96a4b7ae543522358282eafa023fe61bd305",
+    "slug": "mlb-bal-min-2026-08-12",
+    "title": "Baltimore Orioles vs. Minnesota Twins",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "usd": 14285.70999804,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1330,
+    "timestamp": 1786559652,
+    "username": "0x076d\u20268d4c",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 11901.3299984,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]

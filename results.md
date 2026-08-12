@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 13:37:40 (hora de Perú)
+Actualizado: 2026-08-12 13:39:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1560**  ($39,121,250 en total)
+- Apuestas registradas: **1563**  ($39,157,795 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 619
-- Apostadores distintos: 154
+- Pendientes: 622
+- Apostadores distintos: 155
 
 ### Balance
 
@@ -60,20 +60,23 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | casualbet2020 | 0 | 0 | 4 | — | $203,299 | — |
 | winwin518168 | 0 | 12 | 0 | 0% | $191,010 | -$191,010 |
 | xifutloong3 | 6 | 0 | 0 | ⚠️ 100% (6) | $190,324 | +$142,407 |
+| 0x076d…8d4c | 8 | 0 | 5 | 100% | $173,246 | +$45,411 |
 | RN1 | 8 | 5 | 0 | 62% | $168,739 | +$11,250 |
 | basementdweller3000 | 0 | 0 | 9 | — | $164,772 | — |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
-| NemecGhudini | 3 | 2 | 5 | ⚠️ 60% (5) | $161,645 | -$17,067 |
 
-_(mostrando los 40 de mayor monto, de 154 en total)_
+_(mostrando los 40 de mayor monto, de 155 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| betopinto | Will Aston Villa win on 2026-08-12? | No | 1.20 (83¢) | $10,358 | — | ⏳ Pendiente |
+| 0x633e96a4b7ae543522358282eafa023fe61bd305-1783406206089 | Baltimore Orioles vs. Minnesota Twins | Baltimore Orioles | 1.28 (78¢) | $14,286 | — | ⏳ Pendiente |
 | 0x633e96a4b7ae543522358282eafa023fe61bd305-1783406206089 | Baltimore Orioles vs. Minnesota Twins | Baltimore Orioles | 1.28 (78¢) | $14,286 | — | ⏳ Pendiente |
 | ThisAgain | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.85 (54¢) | $19,979 | — | ⏳ Pendiente |
 | CORGI8 | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.17 (46¢) | $17,020 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $11,901 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $11,901 | — | ⏳ Pendiente |
 | redvinny | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.22 (82¢) | $11,184 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.12 (89¢) | $13,101 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 154 en total)_
 | S-Works | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $19,645 | — | ⏳ Pendiente |
 | Anjun | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $15,555 | — | ⏳ Pendiente |
 | Lakersfan111 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $60,463 | — | ⏳ Pendiente |
-| norrisfan | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $13,490 | — | ⏳ Pendiente |
-| ARI100KRAT | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $10,650 | — | ⏳ Pendiente |
-| TheMafiaa | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $13,502 | — | ⏳ Pendiente |
