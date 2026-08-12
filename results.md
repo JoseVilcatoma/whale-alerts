@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 04:44:29 (hora de Perú)
+Actualizado: 2026-08-12 04:46:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **935**  ($19,265,258 en total)
+- Apuestas registradas: **939**  ($19,376,692 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 146
+- Pendientes: 150
 - Apostadores distintos: 100
 
 ### Balance
@@ -53,6 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x076d…8d4c | 7 | 0 | 3 | ⚠️ 100% (7) | $137,506 | +$37,453 |
 | johnny234 | 3 | 3 | 3 | ⚠️ 50% (6) | $137,332 | -$7,214 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
+| ThornyDevil | 2 | 0 | 3 | ⚠️ 100% (2) | $117,490 | +$14,240 |
 | DonaldinhoTrumpito | 0 | 0 | 6 | — | $112,406 | — |
 | ExplosiveNinja | 0 | 0 | 9 | — | $109,231 | — |
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | paquitomillonario | 0 | 6 | 0 | ⚠️ 0% (6) | $83,776 | -$83,776 |
 | BaccaratRoulette | 0 | 3 | 0 | ⚠️ 0% (3) | $81,180 | -$81,180 |
 | danielwolfmorales3pddb6dl6 | 0 | 6 | 0 | ⚠️ 0% (6) | $81,000 | -$81,000 |
-| monkeymashingkeyboard | 6 | 0 | 0 | ⚠️ 100% (6) | $78,557 | +$63,183 |
 
 _(mostrando los 40 de mayor monto, de 100 en total)_
 
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 100 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| NemecGhudini | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | DN SOOPers | 2.44 (41¢) | $14,350 | — | ⏳ Pendiente |
+| ThornyDevil | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.69 (59¢) | $42,983 | — | ⏳ Pendiente |
+| ThornyDevil | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.75 (57¢) | $41,261 | — | ⏳ Pendiente |
+| GRINGOMATE | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.72 (58¢) | $12,841 | — | ⏳ Pendiente |
 | ThornyDevil | LoL: EDward Gaming vs Anyone's Legend - Game 1 Winner | Anyone's Legend | 1.54 (65¢) | $11,886 | — | ⏳ Pendiente |
 | hff. | Dota 2: Level UP vs Rune Eaters - Game 1 Winner | Rune Eaters | 1.79 (56¢) | $12,472 | — | ⏳ Pendiente |
 | hff. | Dota 2: Level UP vs Rune Eaters - Game 1 Winner | Rune Eaters | 1.79 (56¢) | $12,472 | — | ⏳ Pendiente |
@@ -125,9 +129,5 @@ _(mostrando los 40 de mayor monto, de 100 en total)_
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.25 (80¢) | $14,034 | +$3,509 | ✅ Ganada |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.25 (80¢) | $14,034 | +$3,509 | ✅ Ganada |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.25 (80¢) | $14,034 | +$3,509 | ✅ Ganada |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $12,072 | +$4,695 | ✅ Ganada |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $13,288 | +$5,168 | ✅ Ganada |
-| ililili1lil1i1 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 3.57 (28¢) | $15,664 | -$15,664 | ❌ Perdida |
-| ililili1lil1i1 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 3.57 (28¢) | $15,664 | -$15,664 | ❌ Perdida |
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $12,072 | +$4,695 | ✅ Ganada |
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $13,288 | +$5,168 | ✅ Ganada |
