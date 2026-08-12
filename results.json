@@ -3176,5 +3176,57 @@
     "usd": 17026.356000000003,
     "odds_at_bet": 32,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 137,
+    "timestamp": 1786494772,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-osaka-rybakin-2026-08-11",
+    "title": "National Bank Open: Naomi Osaka vs Elena Rybakina",
+    "outcome": "Naomi Osaka",
+    "side": "BUY",
+    "usd": 33481.5748,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 138,
+    "timestamp": 1786494772,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "wta-osaka-rybakin-2026-08-11",
+    "title": "National Bank Open: Naomi Osaka vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 15750.099199999999,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 139,
+    "timestamp": 1786494773,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-osaka-rybakin-2026-08-11",
+    "title": "National Bank Open: Naomi Osaka vs Elena Rybakina",
+    "outcome": "Naomi Osaka",
+    "side": "BUY",
+    "usd": 26278.478700000003,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 140,
+    "timestamp": 1786494773,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "wta-osaka-rybakin-2026-08-11",
+    "title": "National Bank Open: Naomi Osaka vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 26910.064600000005,
+    "odds_at_bet": 33,
+    "status": "pending"
   }
 ]
