@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 07:33:32 (hora de Perú)
+Actualizado: 2026-08-12 07:35:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1038**  ($21,842,281 en total)
+- Apuestas registradas: **1040**  ($21,882,281 en total)
 - Resueltas: **790** — 486 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 248
+- Pendientes: 250
 - Apostadores distintos: 115
 
 ### Balance
@@ -59,11 +59,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x076d…8d4c | 7 | 0 | 3 | ⚠️ 100% (7) | $137,506 | +$37,453 |
 | ExplosiveNinja | 0 | 0 | 11 | — | $134,789 | — |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
+| five5120 | 2 | 0 | 6 | ⚠️ 100% (2) | $128,077 | +$2,075 |
 | TAIWANNUMBERONE | 0 | 1 | 7 | ⚠️ 0% (1) | $123,809 | -$17,114 |
 | DonaldinhoTrumpito | 0 | 0 | 6 | — | $112,406 | — |
 | Marcoli | 2 | 0 | 3 | ⚠️ 100% (2) | $111,211 | +$28,966 |
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
-| Mylifeisover | 6 | 0 | 0 | ⚠️ 100% (6) | $106,449 | +$90,679 |
 
 _(mostrando los 40 de mayor monto, de 115 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 115 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| five5120 | LoL: Bilibili Gaming vs JD Gaming - Game 1 Winner | Bilibili Gaming | 1.45 (69¢) | $20,000 | — | ⏳ Pendiente |
+| five5120 | LoL: Bilibili Gaming vs JD Gaming - Game 1 Winner | Bilibili Gaming | 1.45 (69¢) | $20,000 | — | ⏳ Pendiente |
 | acc1211 | The Hundred, Women: Welsh Fire vs London Spirit | Welsh Fire | 1.06 (94¢) | $18,220 | — | ⏳ Pendiente |
 | acc1211 | The Hundred, Women: Welsh Fire vs London Spirit | Welsh Fire | 1.06 (94¢) | $18,220 | — | ⏳ Pendiente |
 | acc1211 | The Hundred, Women: Welsh Fire vs London Spirit | Welsh Fire | 1.12 (89¢) | $18,006 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 115 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $33,229 | — | ⏳ Pendiente |
 | Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.70 (37¢) | $19,236 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $18,900 | — | ⏳ Pendiente |
-| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.70 (37¢) | $11,100 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $33,229 | — | ⏳ Pendiente |
