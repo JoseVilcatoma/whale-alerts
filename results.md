@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 18:17:38 (hora de Perú)
+Actualizado: 2026-08-12 18:20:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2033**  ($54,710,963 en total)
+- Apuestas registradas: **2035**  ($54,747,971 en total)
 - Resueltas: **1355** — 806 ganadas / 549 perdidas (**59%** de acierto)
-- Pendientes: 678
+- Pendientes: 680
 - Apostadores distintos: 178
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 55 | 43% | $8,889,723 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 27 | 35% | $3,314,382 | -$564,452 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 28 | 35% | $3,334,429 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 49 | 77% | $2,640,111 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 34 | 0% | $2,283,534 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 178 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| paquitomillonario | Boston Red Sox vs. Toronto Blue Jays: O/U 7.5 | Under 7.5 | 1.59 (63¢) | $16,961 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.59 (63¢) | $20,047 | — | ⏳ Pendiente |
 | tennischamp | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.32 (76¢) | $17,018 | — | ⏳ Pendiente |
 | afraz | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.23 (81¢) | $10,601 | — | ⏳ Pendiente |
 | afraz | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.23 (81¢) | $10,601 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 178 en total)_
 | fkcvffcjt | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.30 (77¢) | $15,960 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $36,198 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $35,328 | — | ⏳ Pendiente |
-| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $21,440 | — | ⏳ Pendiente |
-| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $21,440 | — | ⏳ Pendiente |

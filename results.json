@@ -26503,5 +26503,31 @@
     "usd": 12602.5145,
     "odds_at_bet": 37,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1825,
+    "timestamp": 1786576670,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-nym-atl-2026-08-12",
+    "title": "New York Mets vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 20046.996900000002,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1826,
+    "timestamp": 1786576748,
+    "username": "paquitomillonario",
+    "wallet": "0x04e6840687847a98f9ecfbb512a8c8b98d073914",
+    "slug": "mlb-bos-tor-2026-08-12-total-7pt5",
+    "title": "Boston Red Sox vs. Toronto Blue Jays: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 16960.9499,
+    "odds_at_bet": 63,
+    "status": "pending"
   }
 ]
