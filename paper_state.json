@@ -1,5 +1,5 @@
 {
-  "bankroll": 454.468183870673,
+  "bankroll": 451.2602945904423,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18087,149 +18087,69 @@
       "event": "lost: UpTheBlues \u2014 Will Minnesota United FC win on 2026-08-11?"
     },
     {
-      "timestamp": 1786520486.956013,
-      "bankroll": 443.7,
+      "timestamp": 1786534573.423501,
+      "bankroll": 444.2,
+      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534573.7476945,
+      "bankroll": 444.27,
+      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534573.8478754,
+      "bankroll": 444.34,
+      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534574.2773263,
+      "bankroll": 444.34,
+      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534574.6109824,
+      "bankroll": 445.01,
+      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534577.3135283,
+      "bankroll": 444.49,
+      "event": "lost: quavoo \u2014 Will Tigres de la UANL win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534577.563607,
+      "bankroll": 444.04,
       "event": "lost: quavoo \u2014 Real Salt Lake vs. FC Ju\u00e1rez: Both Teams to Score"
     },
     {
-      "timestamp": 1786520488.2062037,
-      "bankroll": 443.95,
-      "event": "won: ferrariChampions2026 \u2014 Real Salt Lake vs. FC Ju\u00e1rez: O/U 2.5"
-    },
-    {
-      "timestamp": 1786520488.3063672,
-      "bankroll": 444.3,
-      "event": "won: ferrariChampions2026 \u2014 Real Salt Lake vs. FC Ju\u00e1rez: O/U 2.5"
-    },
-    {
-      "timestamp": 1786522048.8919263,
-      "bankroll": 443.71,
-      "event": "lost: ferrariChampions2026 \u2014 Will Real Salt Lake win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786523286.564938,
-      "bankroll": 443.19,
-      "event": "lost: quavoo \u2014 Will Tigres de la UANL win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786523287.108517,
-      "bankroll": 441.49,
-      "event": "lost: quavoo \u2014 Will Tigres de la UANL win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786523531.2814636,
-      "bankroll": 441.54,
-      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786523531.7359085,
-      "bankroll": 441.62,
-      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786523531.8361197,
-      "bankroll": 441.68,
-      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786523532.1366389,
-      "bankroll": 441.68,
-      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786523532.336921,
-      "bankroll": 442.35,
-      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786523533.5387402,
-      "bankroll": 440.57,
+      "timestamp": 1786534577.6637352,
+      "bankroll": 442.26,
       "event": "lost: quavoo \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
     },
     {
-      "timestamp": 1786525766.623381,
-      "bankroll": 451.26,
+      "timestamp": 1786534577.9118927,
+      "bankroll": 452.95,
       "event": "won: quavoo \u2014 Will Tigres de la UANL vs. Vancouver Whitecaps FC end in a draw?"
     },
     {
-      "timestamp": 1786531743.612007,
+      "timestamp": 1786534578.0120234,
+      "bankroll": 451.25,
+      "event": "lost: quavoo \u2014 Will Tigres de la UANL win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534578.253234,
+      "bankroll": 450.66,
+      "event": "lost: ferrariChampions2026 \u2014 Will Real Salt Lake win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786534578.5432696,
+      "bankroll": 450.9,
+      "event": "won: ferrariChampions2026 \u2014 Real Salt Lake vs. FC Ju\u00e1rez: O/U 2.5"
+    },
+    {
+      "timestamp": 1786534578.6434352,
       "bankroll": 451.26,
-      "event": "venta anticipada: BrotherObama \u2014 LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend (+0.00 USD)"
-    },
-    {
-      "timestamp": 1786533941.0983238,
-      "bankroll": 455.45,
-      "event": "won: ferrariChampions2026 \u2014 LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786533941.298712,
-      "bankroll": 457.49,
-      "event": "won: ferrariChampions2026 \u2014 LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786533941.3989437,
-      "bankroll": 455.85,
-      "event": "lost: ferrariChampions2026 \u2014 LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786533941.4991364,
-      "bankroll": 446.16,
-      "event": "lost: ferrariChampions2026 \u2014 LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786533941.6994603,
-      "bankroll": 449.78,
-      "event": "won: ferrariChampions2026 \u2014 LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786533941.8998096,
-      "bankroll": 454.08,
-      "event": "won: ferrariChampions2026 \u2014 LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786533942.1002133,
-      "bankroll": 456.51,
-      "event": "won: ferrariChampions2026 \u2014 LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786533942.2004135,
-      "bankroll": 454.26,
-      "event": "lost: ferrariChampions2026 \u2014 LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786533942.3006153,
-      "bankroll": 452.85,
-      "event": "lost: ferrariChampions2026 \u2014 LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786533942.4008384,
-      "bankroll": 451.83,
-      "event": "lost: ferrariChampions2026 \u2014 LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786533942.5010462,
-      "bankroll": 452.01,
-      "event": "won: ferrariChampions2026 \u2014 LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786533942.7014468,
-      "bankroll": 451.46,
-      "event": "lost: ferrariChampions2026 \u2014 LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786533942.8016665,
-      "bankroll": 450.98,
-      "event": "lost: ferrariChampions2026 \u2014 LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786533943.2384357,
-      "bankroll": 454.18,
-      "event": "won: ferrariChampions2026 \u2014 LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786533943.3386173,
-      "bankroll": 454.47,
-      "event": "won: ferrariChampions2026 \u2014 LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner"
+      "event": "won: ferrariChampions2026 \u2014 Real Salt Lake vs. FC Ju\u00e1rez: O/U 2.5"
     }
   ]
 }

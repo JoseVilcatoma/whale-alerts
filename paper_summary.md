@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 06:35:59 (hora de Perú)
+Actualizado: 2026-08-12 06:38:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $454.47
-**Retorno acumulado:** -54.55%
+**Bankroll actual:** $451.26
+**Retorno acumulado:** -54.87%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 114 | 97 | 7 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 249 | 151 | 40 | +5.66 USD |
+| UpTheBlues | 249 | 151 | 6 | +5.66 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
@@ -48,13 +48,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 170 | 114 | 1 | -26.60 USD |
-| quavoo | 158 | 209 | 3 | -28.31 USD |
+| quavoo | 158 | 209 | 2 | -28.31 USD |
 | RN1 | 200 | 112 | 2 | -39.45 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | ferrariChampions2026 | 654 | 490 | 78 | -88.92 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
+| ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | BrotherObama | 9 | 17 | 5 | -121.31 USD |
@@ -458,33 +459,33 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| UpTheBlues | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 29% | 1.68 | ⏳ pendiente | — |
-| UpTheBlues | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 29% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | CA Tigre vs. Montevideo City Torque: O/U | Under (BUY) | 98% | 0.00 | ⏳ pendiente | — |
-| Weaseloftheweek | Will Paris Saint-Germain win on 2026-08- | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | North Sunshine Eagles FC vs. Heidelberg  | No (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 29% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | North Sunshine Eagles FC vs. Heidelberg  | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: CA Platense (-1.5) | CD Coquimbo Unido (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| Weaseloftheweek | Will Paris Saint-Germain win on 2026-08- | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | APIA Leichhardt FC vs. Sydney United 58  | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | APIA Leichhardt FC vs. Sydney United 58  | Under (BUY) | 94% | 0.00 | ⏳ pendiente | — |
-| BrotherObama | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 36% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 1 Wi | KT Rolster (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| dv-pm | Spread: Arsenal FC (-1.5) | Como 1907 (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Heidelberg United FC win on 2026-08 | No (BUY) | 80% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: North Sunshine Eagles FC (-1.5) | Heidelberg United FC (BUY) | 89% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | North Sunshine Eagles FC vs. Heidelberg  | No (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | APIA Leichhardt FC vs. Sydney United 58  | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will North Sunshine Eagles FC win on 202 | No (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| jtwyslljy | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | Dplus KIA (BUY) | 65% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Debreceni VSC win on 2026-08-12? | Yes (BUY) | 8% | 0.87 | ⏳ pendiente | — |
+| UpTheBlues | Will FC København win on 2026-08-12? | No (BUY) | 24% | 3.39 | ⏳ pendiente | — |
+| Gaditima | Valorant: All Gamers vs TEC Esports (BO3 | All Gamers (BUY) | 66% | 0.46 | ⏳ pendiente | — |
+| Gaditima | Will annual inflation be 3.3% in July? | No (BUY) | 54% | 3.53 | ⏳ pendiente | — |
+| Gaditima | Will annual inflation be 3.4% in July? | Yes (BUY) | 42% | 1.81 | ⏳ pendiente | — |
+| Gaditima | Will annual inflation be 3.3% in July? | Yes (BUY) | 40% | 3.83 | ⏳ pendiente | — |
+| HomeRunHazard | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 48% | 1.15 | ⏳ pendiente | — |
+| HomeRunHazard | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 52% | 4.58 | ⏳ pendiente | — |
+| HomeRunHazard | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 55% | 3.24 | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 50% | 0.72 | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 53% | 0.59 | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 55% | 2.64 | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 45% | 2.07 | ⏳ pendiente | — |
+| UpTheBlues | Will Paide Linnameeskond win on 2026-08- | No (BUY) | 97% | 1.75 | ⏳ pendiente | — |
+| UpTheBlues | Will Paris Saint-Germain win on 2026-08- | Yes (BUY) | 56% | 0.51 | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: FUT Esports vs TYLOO (BO | TYLOO (BUY) | 41% | 1.24 | ⏳ pendiente | — |
+| swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 48% | 1.25 | ✅ ganada | +1.35 |
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 62% | 0.63 | ✅ ganada | +0.39 |
+| RN1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 54% | 0.54 | ✅ ganada | +0.46 |
+| ferrariChampions2026 | Real Salt Lake vs. FC Juárez: O/U 2.5 | Over (BUY) | 62% | 0.58 | ✅ ganada | +0.36 |
+| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 52% | 3.81 | ✅ ganada | +3.52 |
+| ferrariChampions2026 | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 52% | 0.55 | ❌ perdida | -0.55 |
+| ferrariChampions2026 | Spread: Las Vegas Aces (-6.5) | Washington Mystics (BUY) | 49% | 1.55 | ❌ perdida | -1.55 |
+| ferrariChampions2026 | Spread: Phoenix Mercury (-1.5) | Phoenix Mercury (BUY) | 49% | 0.53 | ✅ ganada | +0.55 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 48% | 0.54 | ❌ perdida | -0.54 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.57 | ✅ ganada | +0.55 |
+| quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.60 | ❌ perdida | -0.60 |
+| ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 56% | 0.51 | ✅ ganada | +0.40 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ❌ perdida | -0.46 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 53% | 0.48 | ❌ perdida | -0.48 |
