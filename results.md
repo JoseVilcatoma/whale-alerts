@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 11:05:38 (hora de Perú)
+Actualizado: 2026-08-12 11:07:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1366**  ($31,209,477 en total)
+- Apuestas registradas: **1369**  ($31,605,788 en total)
 - Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 427
+- Pendientes: 430
 - Apostadores distintos: 126
 
 ### Balance
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 52 | 28% | $4,250,179 | -$789,178 |
-| Djdjdjekekek | 36 | 12 | 50 | 75% | $3,895,277 | +$573,956 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 53 | 28% | $4,385,179 | -$789,178 |
+| Djdjdjekekek | 36 | 12 | 52 | 75% | $4,156,589 | +$573,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 0 | 36% | $2,039,712 | -$421,290 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
 | ferrariChampions2026 | 90 | 29 | 11 | 76% | $1,857,753 | +$113,934 |
@@ -71,9 +71,12 @@ _(mostrando los 40 de mayor monto, de 126 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.79 (56¢) | $29,078 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.17 (46¢) | $10,194 | — | ⏳ Pendiente |
 | basementdweller3000 | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.22 (45¢) | $11,250 | — | ⏳ Pendiente |
 | basementdweller3000 | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.22 (45¢) | $22,500 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.82 (55¢) | $232,234 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.22 (45¢) | $135,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.22 (45¢) | $135,000 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.82 (55¢) | $232,234 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.17 (46¢) | $13,028 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 126 en total)_
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $12,200 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $49,588 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.67 (60¢) | $26,993 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.67 (60¢) | $26,993 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.69 (59¢) | $37,392 | — | ⏳ Pendiente |
-| basementdweller3000 | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | B8 | 2.44 (41¢) | $12,300 | — | ⏳ Pendiente |
