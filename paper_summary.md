@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 09:35:36 (hora de Perú)
+Actualizado: 2026-08-12 09:37:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $449.56
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 29 | 16 | 15 | +189.61 USD |
+| BBQChickenisthebesttt | 29 | 16 | 17 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 4 | 5 | 4 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -57,7 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
-| Djdjdjekekek | 5 | 12 | 15 | -116.01 USD |
+| Djdjdjekekek | 5 | 12 | 16 | -116.01 USD |
 | BrotherObama | 7 | 17 | 1 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
@@ -454,6 +454,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 40% | 0.00 | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | San Marcos de Arica vs. Union San Felipe | Yes (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 40% | 0.00 | ⏳ pendiente | — |
@@ -481,6 +484,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 27% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | GKS GieKSa Katowice vs. MH Hapoel Tel Av | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Eintracht Frankfurt (-3.5) | Eintracht Frankfurt (BUY) | 28% | 0.00 | ⏳ pendiente | — |
-| dv-pm | Will GKS GieKSa Katowice win on 2026-08- | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 28% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 63% | 0.00 | ⏳ pendiente | — |
