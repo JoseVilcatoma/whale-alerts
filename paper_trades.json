@@ -80736,5 +80736,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786531079.6643918,
     "fills": 2
+  },
+  {
+    "timestamp": 1786531181,
+    "timestamp_added": 1786531182.0032642,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "auc-nse-hei-2026-08-12-btts",
+    "title": "North Sunshine Eagles FC vs. Heidelberg United FC: Both Teams to Score",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 293.46,
+    "whale_pct": 0.427,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786531182.0032725,
+    "fills": 1
   }
 ]
