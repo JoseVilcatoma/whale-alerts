@@ -25810,5 +25810,44 @@
     "usd": 21439.993300000002,
     "odds_at_bet": 67,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1771,
+    "timestamp": 1786574482,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-pit-mia-2026-08-12-spread-home-1pt5",
+    "title": "Spread: Miami Marlins (-1.5)",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 11818.1888,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1772,
+    "timestamp": 1786574487,
+    "username": "justbusiness1",
+    "wallet": "0x4956f69ada024c5cb23ed4f38f0dc4c04d2ee2c7",
+    "slug": "lec-orl-asl-2026-08-12-orl",
+    "title": "Will Orlando City SC win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 10604.0312,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1773,
+    "timestamp": 1786574555,
+    "username": "0x1670700a2A23d24Ae699fA523eBd90ADfa0d0B65-1768523373235",
+    "wallet": "0x0c4d080bd6820d208d058e1850a0a6440391a427",
+    "slug": "mlb-mil-sd-2026-08-12",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 10614.739999,
+    "odds_at_bet": 74,
+    "status": "pending"
   }
 ]
