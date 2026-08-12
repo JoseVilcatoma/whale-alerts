@@ -8728,5 +8728,18 @@
     "usd": 11250.0,
     "odds_at_bet": 75,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 517,
+    "timestamp": 1786515940,
+    "username": "ComingBack",
+    "wallet": "0xd48a81db62f742c4e42d86dfc23a7ee345366e90",
+    "slug": "atp-kumasak-matsuok-2026-08-12",
+    "title": "Astana: Takuya Kumasaka vs Hayato Matsuoka",
+    "outcome": "Hayato Matsuoka",
+    "side": "BUY",
+    "usd": 12751.999999,
+    "odds_at_bet": 85,
+    "status": "pending"
   }
 ]
