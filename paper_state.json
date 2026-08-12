@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.4932904864751,
+  "bankroll": 440.56794164926583,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18115,6 +18115,36 @@
       "timestamp": 1786523287.108517,
       "bankroll": 441.49,
       "event": "lost: quavoo \u2014 Will Tigres de la UANL win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786523531.2814636,
+      "bankroll": 441.54,
+      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786523531.7359085,
+      "bankroll": 441.62,
+      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786523531.8361197,
+      "bankroll": 441.68,
+      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786523532.1366389,
+      "bankroll": 441.68,
+      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786523532.336921,
+      "bankroll": 442.35,
+      "event": "won: UpTheBlues \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786523533.5387402,
+      "bankroll": 440.57,
+      "event": "lost: quavoo \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
     }
   ]
 }
