@@ -24133,5 +24133,70 @@
     "usd": 12793.550000000001,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1641,
+    "timestamp": 1786563664,
+    "username": "Mylifeisover",
+    "wallet": "0x7542fa229f63a7bd8a9ca4584638004a39317a20",
+    "slug": "mlb-mil-sd-2026-08-12",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 25086.8016,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1642,
+    "timestamp": 1786563664,
+    "username": "0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509",
+    "wallet": "0x0954184654a6a3720f5dde4103a42af4dd0e1e1b",
+    "slug": "mlb-mil-sd-2026-08-12",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 145555.8416,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1643,
+    "timestamp": 1786563664,
+    "username": "Bulls94",
+    "wallet": "0x43cab54b56aba79c29c1ba14b889e7de5532c219",
+    "slug": "mlb-mil-sd-2026-08-12",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 15000.0,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1644,
+    "timestamp": 1786563664,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-mil-sd-2026-08-12",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 92671.2048,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1645,
+    "timestamp": 1786563669,
+    "username": "tennischamp",
+    "wallet": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
+    "slug": "mlb-tb-oak-2026-08-12",
+    "title": "Tampa Bay Rays vs. Athletics",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 51839.9658,
+    "odds_at_bet": 86,
+    "status": "pending"
   }
 ]
