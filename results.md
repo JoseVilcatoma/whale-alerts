@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 13:24:03 (hora de Perú)
+Actualizado: 2026-08-12 13:26:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1554**  ($39,033,779 en total)
+- Apuestas registradas: **1555**  ($39,044,963 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 613
+- Pendientes: 614
 - Apostadores distintos: 152
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 152 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| redvinny | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.22 (82¢) | $11,184 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.12 (89¢) | $13,101 | — | ⏳ Pendiente |
 | Elaran1993 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $46,921 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $40,723 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 152 en total)_
 | TheMafiaa | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $13,502 | — | ⏳ Pendiente |
 | S-Works | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $19,645 | — | ⏳ Pendiente |
 | Anjun | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $15,555 | — | ⏳ Pendiente |
-| Lakersfan111 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $60,463 | — | ⏳ Pendiente |
