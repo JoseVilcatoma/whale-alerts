@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 09:39:47 (hora de Perú)
+Actualizado: 2026-08-12 09:41:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $448.85
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 114 | 97 | 7 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 249 | 151 | 22 | +5.66 USD |
+| UpTheBlues | 249 | 151 | 23 | +5.66 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
@@ -454,6 +454,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will FC København win on 2026-08-12? | Yes (BUY) | 75% | 1.74 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | dv-pm | SK Rapid Wien vs. Paide Linnameeskond: O | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
@@ -483,4 +484,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | SDTrading | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: FC København (-2.5) | Debreceni VSC (BUY) | 69% | 0.00 | ⏳ pendiente | — |
