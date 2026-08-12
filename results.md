@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 06:20:13 (hora de Perú)
+Actualizado: 2026-08-12 06:22:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **997**  ($20,562,268 en total)
-- Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 208
-- Apostadores distintos: 110
+- Apuestas registradas: **1000**  ($20,841,317 en total)
+- Resueltas: **790** — 486 ganadas / 304 perdidas (**62%** de acierto)
+- Pendientes: 210
+- Apostadores distintos: 111
 
 ### Balance
 
-- **Resultado de los apostadores: +$453,781** sobre $16,849,283 apostados (ROI **+2.7%**)
+- **Resultado de los apostadores: +$458,519** sobre $16,870,601 apostados (ROI **+2.7%**)
 - Copiando $100 fijo en cada una: **+$2,360** sobre $77,800 (ROI **+3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 23 | 11 | 27 | 68% | $1,601,781 | +$348,929 |
 | ferrariChampions2026 | 79 | 25 | 2 | 76% | $1,555,768 | +$58,976 |
 | Djdjdjekekek | 27 | 3 | 11 | 90% | $1,228,050 | +$494,952 |
-| Weaseloftheweek | 11 | 2 | 2 | 85% | $1,067,874 | +$518,388 |
+| Weaseloftheweek | 11 | 2 | 3 | 85% | $1,218,338 | +$518,388 |
 | pleaseplease123 | 0 | 39 | 0 | 0% | $991,234 | -$991,234 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
 | SDTrading | 25 | 6 | 0 | 81% | $566,130 | +$328,056 |
@@ -40,6 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | theowalcott | 21 | 0 | 0 | 100% | $318,833 | +$226,502 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
+| umeax | 0 | 0 | 2 | — | $234,739 | — |
 | mikesports | 3 | 3 | 7 | ⚠️ 50% (6) | $211,470 | -$24,073 |
 | wr0ngw4yb3tt0r | 7 | 6 | 0 | 54% | $209,577 | -$12,560 |
 | xifutloong3 | 6 | 0 | 0 | ⚠️ 100% (6) | $190,324 | +$142,407 |
@@ -57,7 +58,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 1 | 0 | 9 | ⚠️ 100% (1) | $129,884 | +$9,167 |
 | TAIWANNUMBERONE | 0 | 1 | 7 | ⚠️ 0% (1) | $123,809 | -$17,114 |
 | ExplosiveNinja | 0 | 0 | 10 | — | $122,231 | — |
-| umeax | 0 | 0 | 1 | — | $117,370 | — |
 | DonaldinhoTrumpito | 0 | 0 | 6 | — | $112,406 | — |
 | Marcoli | 2 | 0 | 3 | ⚠️ 100% (2) | $111,211 | +$28,966 |
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 6 | 0 | 0 | ⚠️ 100% (6) | $104,559 | +$21,905 |
 | phonesculptor | 0 | 8 | 0 | 0% | $91,088 | -$91,088 |
 
-_(mostrando los 40 de mayor monto, de 110 en total)_
+_(mostrando los 40 de mayor monto, de 111 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| GreatestTrader | LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 1.30 (77¢) | $11,215 | — | ⏳ Pendiente |
+| umeax | Will Paris Saint-Germain win on 2026-08-12? | No | 2.33 (43¢) | $117,370 | — | ⏳ Pendiente |
+| Weaseloftheweek | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.75 (57¢) | $150,464 | — | ⏳ Pendiente |
 | umeax | Will Paris Saint-Germain win on 2026-08-12? | No | 2.33 (43¢) | $117,370 | — | ⏳ Pendiente |
 | Weaseloftheweek | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.75 (57¢) | $150,464 | — | ⏳ Pendiente |
 | 88M | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.72 (58¢) | $11,849 | — | ⏳ Pendiente |
@@ -120,7 +123,7 @@ _(mostrando los 40 de mayor monto, de 110 en total)_
 | johnny234 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.78 (36¢) | $12,489 | — | ⏳ Pendiente |
 | johnny234 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.78 (36¢) | $12,489 | — | ⏳ Pendiente |
 | MeiGuNiuBi | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.11 (90¢) | $10,691 | — | ⏳ Pendiente |
-| suanlimao6 | LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 1.59 (63¢) | $21,319 | — | ⏳ Pendiente |
+| suanlimao6 | LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 1.59 (63¢) | $21,319 | +$4,737 | 💰 Vendida antes |
 | AV23IUa | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.12 (89¢) | $17,509 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.12 (89¢) | $17,509 | — | ⏳ Pendiente |
 | Marcoli | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.61 (62¢) | $30,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 110 en total)_
 | five5120 | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.75 (57¢) | $17,904 | — | ⏳ Pendiente |
 | five5120 | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.75 (57¢) | $17,904 | — | ⏳ Pendiente |
 | NemecGhudini | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | DN SOOPers | 2.44 (41¢) | $14,350 | — | ⏳ Pendiente |
-| ThornyDevil | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.69 (59¢) | $42,983 | — | ⏳ Pendiente |
-| ThornyDevil | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.75 (57¢) | $41,261 | — | ⏳ Pendiente |
-| ThornyDevil | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.75 (57¢) | $41,261 | — | ⏳ Pendiente |

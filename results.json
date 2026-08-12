@@ -12343,7 +12343,9 @@
     "side": "BUY",
     "usd": 21318.626699999997,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": 4737.47,
+    "precio_salida": 77
   },
   {
     "telegram_msg_id": 765,
@@ -12972,6 +12974,45 @@
   {
     "telegram_msg_id": 813,
     "timestamp": 1786533590,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 150463.88039999997,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 814,
+    "timestamp": 1786533719,
+    "username": "GreatestTrader",
+    "wallet": "0x258c8a3ab3f9dd5c1e3bb05f54a9187247b77c23",
+    "slug": "lol-edg-al-2026-08-12",
+    "title": "LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 11214.926800000001,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 816,
+    "timestamp": 1786533591,
+    "username": "umeax",
+    "wallet": "0x86d2d490bcac9fccea02a44c48272008e0c4731d",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 117369.6008,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 817,
+    "timestamp": 1786533591,
     "username": "Weaseloftheweek",
     "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
     "slug": "usc-psg-av-2026-08-12-psg",
