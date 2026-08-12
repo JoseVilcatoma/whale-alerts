@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 15:23:15 (hora de Perú)
+Actualizado: 2026-08-12 15:25:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1908**  ($51,996,376 en total)
+- Apuestas registradas: **1909**  ($52,013,566 en total)
 - Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
-- Pendientes: 559
-- Apostadores distintos: 168
+- Pendientes: 560
+- Apostadores distintos: 169
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | highnetworth | 0 | 0 | 5 | — | $215,351 | — |
 | skyman44 | 3 | 5 | 3 | 38% | $214,644 | -$23,079 |
 
-_(mostrando los 40 de mayor monto, de 168 en total)_
+_(mostrando los 40 de mayor monto, de 169 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MODDI | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.25 (80¢) | $17,190 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.15 (87¢) | $17,271 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.15 (87¢) | $17,271 | — | ⏳ Pendiente |
 | jarosbill | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 1.69 (59¢) | $10,554 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 168 en total)_
 | Jsram | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.82 (55¢) | $12,794 | — | ⏳ Pendiente |
 | EvenMoneyBonds | Tampa Bay Rays vs. Athletics | Athletics | 3.23 (31¢) | $11,238 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.45 (69¢) | $12,741 | — | ⏳ Pendiente |
-| kkookkoo | Philadelphia Phillies vs. St. Louis Cardinals | Philadelphia Phillies | 1.49 (67¢) | $12,862 | — | ⏳ Pendiente |
