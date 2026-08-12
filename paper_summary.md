@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 15:34:50 (hora de Perú)
+Actualizado: 2026-08-12 15:36:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $555.33
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 3 | 9 | 2 | +15.41 USD |
-| HomeRunHazard | 114 | 97 | 8 | +13.95 USD |
+| HomeRunHazard | 114 | 97 | 10 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -449,13 +449,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
 | mlb-mil-sd-2026-08-12-total-8pt5 | 1winstreak1, SDTrading, dv-pm |
-| mlb-phi-stl-2026-08-12-total-8pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-phi-stl-2026-08-12-total-8pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-phi-stl-2026-08-12-total-9pt5 | 1winstreak1, HomeRunHazard |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 69% | 1.98 | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 57% | 0.90 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 31% | 1.36 | ⏳ pendiente | — |
 | 1winstreak1 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 54% | 9.69 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Colorado Rockies (BUY) | 80% | 2.71 | ⏳ pendiente | — |
@@ -484,5 +486,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Colorado Rockies (BUY) | 75% | 2.32 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 58% | 0.59 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 8.5 | Over (BUY) | 64% | 1.80 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Tampa Bay Rays (-3.5) | Athletics (BUY) | 47% | 0.76 | ⏳ pendiente | — |
-| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 35% | 9.07 | ⏳ pendiente | — |
