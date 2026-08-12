@@ -79332,8 +79332,8 @@
     "whale_pct": 0.135,
     "paper_stake_usd": 0.76,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.76,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786565103.2657795,
@@ -80503,6 +80503,72 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786572298.8242435,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786572575,
+    "timestamp_added": 1786572575.7746983,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-sea-nyy-2026-08-12-total-8pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 13066.0,
+    "whale_pct": 46.477,
+    "paper_stake_usd": 39.58,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Weaseloftheweek"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786572575.7747066,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786572575,
+    "timestamp_added": 1786572576.56334,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "mlb-sea-nyy-2026-08-12-total-8pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 14734.0,
+    "whale_pct": 11.604,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Sassy-Bucket"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786572576.5633485,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786572590,
+    "timestamp_added": 1786572591.0911667,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-sea-nyy-2026-08-12-total-8pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 31.02,
+    "whale_pct": 0.11,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Weaseloftheweek"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786572591.0911765,
     "fills": 1
   }
 ]

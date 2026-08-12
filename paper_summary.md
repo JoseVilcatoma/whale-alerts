@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 17:08:27 (hora de Perú)
+Actualizado: 2026-08-12 17:10:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $571.83
-**Retorno acumulado:** -42.82%
+**Bankroll actual:** $571.07
+**Retorno acumulado:** -42.89%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| Sassy-Bucket | 8 | 8 | 2 | +190.97 USD |
+| Sassy-Bucket | 8 | 8 | 4 | +190.97 USD |
 | theowalcott | 17 | 4 | 7 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | wr0ngw4yb3tt0r | 67 | 70 | 0 | +104.98 USD |
@@ -41,10 +41,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
-| Weaseloftheweek | 0 | 2 | 2 | -2.32 USD |
+| Weaseloftheweek | 0 | 2 | 3 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| 1winstreak1 | 132 | 99 | 28 | -4.26 USD |
+| 1winstreak1 | 132 | 100 | 27 | -5.02 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
@@ -458,6 +458,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| Weaseloftheweek | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| Sassy-Bucket | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 47% | 39.58 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Colorado Rockies (-1.5) | Colorado Rockies (BUY) | 75% | 1.80 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 43% | 0.85 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Colorado Rockies (-2.5) | Arizona Diamondbacks (BUY) | 53% | 0.67 | ⏳ pendiente | — |
@@ -485,6 +488,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 97% | 1.50 | ✅ ganada | +0.05 |
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 26% | 0.88 | ❌ perdida | -0.88 |
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 76% | 17.06 | ✅ ganada | +5.39 |
-| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 69% | 1.98 | ✅ ganada | +0.89 |
-| HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 57% | 0.90 | ❌ perdida | -0.90 |
-| 1winstreak1 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 31% | 1.36 | ⏳ pendiente | — |
