@@ -81415,5 +81415,47 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786575375.1400628,
     "fills": 1
+  },
+  {
+    "timestamp": 1786575554,
+    "timestamp_added": 1786575555.6722953,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "lec-mon-nas-2026-08-12-mon",
+    "title": "Will CF Monterrey win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 3160.7999999999997,
+    "whale_pct": 1.419,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786575555.672307,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786575605,
+    "timestamp_added": 1786575606.0004685,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lib-pal-cep-2026-08-12-spread-home-1pt5",
+    "title": "Spread: SE Palmeiras (-1.5)",
+    "outcome": "Club Cerro Porte\u00f1o",
+    "side": "BUY",
+    "whale_usd": 730.7755,
+    "whale_pct": 0.177,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "WTSA"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786575606.0004776,
+    "fills": 1
   }
 ]

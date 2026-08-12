@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 17:58:35 (hora de Perú)
+Actualizado: 2026-08-12 18:00:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $487.96
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 9 | 5 | +165.22 USD |
-| theowalcott | 17 | 4 | 23 | +143.32 USD |
+| theowalcott | 17 | 4 | 24 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | wr0ngw4yb3tt0r | 67 | 70 | 1 | +104.98 USD |
 | dv-pm | 4 | 6 | 1 | +89.49 USD |
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 136 | 110 | 26 | -62.81 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 4 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 5 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 2 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -464,6 +464,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: SE Palmeiras (-1.5) | Club Cerro Porteño (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
@@ -492,5 +494,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will Orlando City SC win on 2026-08-12? | No (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will Orlando City SC win on 2026-08-12? | No (BUY) | 46% | 38.36 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Colorado Rockies (-1.5) | Colorado Rockies (BUY) | 68% | 0.91 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres (BUY) | 68% | 0.00 | ⏳ pendiente | — |
