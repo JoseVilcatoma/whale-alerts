@@ -79434,5 +79434,49 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786577480.9514055,
     "fills": 1
+  },
+  {
+    "timestamp": 1786577528,
+    "timestamp_added": 1786577529.1077285,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-mil-sd-2026-08-12-total-5pt5",
+    "title": "Milwaukee Brewers vs. San Diego Padres: O/U 5.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 444.15889999999996,
+    "whale_pct": 1.004,
+    "paper_stake_usd": 6.4,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786577529.750322,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786577605,
+    "timestamp_added": 1786577605.8092158,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-nym-atl-2026-08-12-spread-home-1pt5",
+    "title": "Spread: Atlanta Braves (-1.5)",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "whale_usd": 4999.999998,
+    "whale_pct": 11.271,
+    "paper_stake_usd": 71.82,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786577605.809222,
+    "fills": 1
   }
 ]
