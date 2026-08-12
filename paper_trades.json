@@ -78865,8 +78865,8 @@
     "whale_pct": 0.118,
     "paper_stake_usd": 0.66,
     "odds_at_bet": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.48,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786562670.844723,
@@ -80199,6 +80199,26 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786568490.4671302,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786568523,
+    "timestamp_added": 1786568523.9957097,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "sud-tig-tor-2026-08-12-tig",
+    "title": "Will CA Tigre win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 23.03,
+    "whale_pct": 0.223,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786568523.995719,
     "fills": 1
   }
 ]
