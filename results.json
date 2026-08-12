@@ -16774,5 +16774,18 @@
     "usd": 30703.02,
     "odds_at_bet": 62,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1053,
+    "timestamp": 1786542635,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-nip-lgc-2026-08-12",
+    "title": "Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "usd": 11760.7126,
+    "odds_at_bet": 91,
+    "status": "pending"
   }
 ]
