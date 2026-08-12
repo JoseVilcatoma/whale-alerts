@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 06:09:50 (hora de Perú)
+Actualizado: 2026-08-12 06:12:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **984**  ($20,106,865 en total)
+- Apuestas registradas: **994**  ($20,282,586 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 195
-- Apostadores distintos: 107
+- Pendientes: 205
+- Apostadores distintos: 108
 
 ### Balance
 
@@ -25,10 +25,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 41 | 0 | 41% | $1,811,081 | -$218,949 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 19 | 28% | $1,608,454 | -$743,370 |
 | AV23IUa | 23 | 11 | 27 | 68% | $1,601,781 | +$348,929 |
 | ferrariChampions2026 | 79 | 25 | 2 | 76% | $1,555,768 | +$58,976 |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 15 | 28% | $1,526,264 | -$743,370 |
-| Djdjdjekekek | 27 | 3 | 8 | 90% | $1,186,720 | +$494,952 |
+| Djdjdjekekek | 27 | 3 | 11 | 90% | $1,228,050 | +$494,952 |
 | pleaseplease123 | 0 | 39 | 0 | 0% | $991,234 | -$991,234 |
 | Weaseloftheweek | 11 | 2 | 1 | 85% | $917,411 | +$518,388 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
@@ -55,27 +55,37 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x076d…8d4c | 7 | 0 | 3 | ⚠️ 100% (7) | $137,506 | +$37,453 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
 | Lakersfan111 | 1 | 0 | 9 | ⚠️ 100% (1) | $129,884 | +$9,167 |
+| TAIWANNUMBERONE | 0 | 1 | 7 | ⚠️ 0% (1) | $123,809 | -$17,114 |
 | ExplosiveNinja | 0 | 0 | 10 | — | $122,231 | — |
 | DonaldinhoTrumpito | 0 | 0 | 6 | — | $112,406 | — |
 | Marcoli | 2 | 0 | 3 | ⚠️ 100% (2) | $111,211 | +$28,966 |
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
 | Mylifeisover | 6 | 0 | 0 | ⚠️ 100% (6) | $106,449 | +$90,679 |
-| TAIWANNUMBERONE | 0 | 1 | 6 | ⚠️ 0% (1) | $104,909 | -$17,114 |
 | 0b1 | 6 | 0 | 0 | ⚠️ 100% (6) | $104,559 | +$21,905 |
 | phonesculptor | 0 | 8 | 0 | 0% | $91,088 | -$91,088 |
 | AGUGava | 5 | 2 | 0 | ⚠️ 71% (7) | $88,581 | +$26,063 |
 
-_(mostrando los 40 de mayor monto, de 107 en total)_
+_(mostrando los 40 de mayor monto, de 108 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CORGI8 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.82 (55¢) | $15,192 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | magic | 2.22 (45¢) | $12,430 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.82 (55¢) | $14,600 | — | ⏳ Pendiente |
 | Djdjdjekekek | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.22 (45¢) | $10,994 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.82 (55¢) | $14,600 | — | ⏳ Pendiente |
+| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.22 (45¢) | $10,994 | — | ⏳ Pendiente |
+| ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.33 (43¢) | $18,109 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.75 (57¢) | $21,932 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.75 (57¢) | $21,932 | — | ⏳ Pendiente |
 | ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.33 (43¢) | $18,109 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | JiJieHao | 1.54 (65¢) | $13,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $33,229 | — | ⏳ Pendiente |
+| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.70 (37¢) | $19,236 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $18,900 | — | ⏳ Pendiente |
+| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.70 (37¢) | $11,100 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $33,229 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $18,900 | — | ⏳ Pendiente |
 | Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.70 (37¢) | $19,236 | — | ⏳ Pendiente |
@@ -121,13 +131,3 @@ _(mostrando los 40 de mayor monto, de 107 en total)_
 | GRINGOMATE | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.72 (58¢) | $12,841 | — | ⏳ Pendiente |
 | GRINGOMATE | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.72 (58¢) | $12,841 | — | ⏳ Pendiente |
 | ThornyDevil | LoL: EDward Gaming vs Anyone's Legend - Game 1 Winner | Anyone's Legend | 1.54 (65¢) | $11,886 | — | ⏳ Pendiente |
-| hff. | Dota 2: Level UP vs Rune Eaters - Game 1 Winner | Rune Eaters | 1.79 (56¢) | $12,472 | — | ⏳ Pendiente |
-| hff. | Dota 2: Level UP vs Rune Eaters - Game 1 Winner | Rune Eaters | 1.79 (56¢) | $12,472 | — | ⏳ Pendiente |
-| 254321758 | LoL: DN SOOPers vs Nongshim Red Force - Game 2 Winner | DN SOOPers | 1.10 (91¢) | $10,974 | — | ⏳ Pendiente |
-| 254321758 | LoL: DN SOOPers vs Nongshim Red Force - Game 2 Winner | DN SOOPers | 1.10 (91¢) | $10,974 | — | ⏳ Pendiente |
-| five5120 | LoL: EDward Gaming vs Anyone's Legend - Game 1 Winner | Anyone's Legend | 1.23 (81¢) | $18,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.96 (51¢) | $18,804 | — | ⏳ Pendiente |
-| Djdjdjekekek | Astana: Fajing Sun vs Semen Pankin | Semen Pankin | 2.04 (49¢) | $18,002 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.96 (51¢) | $18,804 | — | ⏳ Pendiente |
-| Djdjdjekekek | Astana: Fajing Sun vs Semen Pankin | Semen Pankin | 2.04 (49¢) | $18,002 | — | ⏳ Pendiente |
-| Marcoli | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.49 (67¢) | $11,211 | — | ⏳ Pendiente |
