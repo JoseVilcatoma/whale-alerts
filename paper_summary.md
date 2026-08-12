@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 05:15:11 (hora de Perú)
+Actualizado: 2026-08-12 05:17:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -27,13 +27,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 114 | 97 | 7 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 249 | 151 | 17 | +5.66 USD |
+| UpTheBlues | 249 | 151 | 18 | +5.66 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
-| jtwyslljy | 0 | 1 | 1 | +0.00 USD |
+| jtwyslljy | 0 | 1 | 2 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | donthackme | 0 | 0 | 9 | +0.00 USD |
 | Gaditima | 0 | 0 | 5 | +0.00 USD |
@@ -446,6 +446,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-wsh-las-2026-08-11-spread-home-6pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
+| cs2-fut-tyloo-2026-08-12 | AV23IUa, UpTheBlues |
 | wnba-chi-gsv-2026-08-12-total-166pt5 | HomeRunHazard, UpTheBlues |
 | lol-dnf-ns-2026-08-12 | BBQChickenisthebesttt, BrotherObama, ferrariChampions2026 |
 | lol-edg-al-2026-08-12 | BrotherObama, ferrariChampions2026 |
@@ -454,6 +455,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| jtwyslljy | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | Dplus KIA (BUY) | 64% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Counter-Strike: FUT Esports vs TYLOO (BO | TYLOO (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | jtwyslljy | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | Dplus KIA (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 21% | 0.00 | ⏳ pendiente | — |
@@ -482,5 +485,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 26% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 25% | 0.00 | ⏳ pendiente | — |
