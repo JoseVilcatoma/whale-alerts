@@ -19839,5 +19839,18 @@
     "usd": 57563.045399999995,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1291,
+    "timestamp": 1786557372,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "cs2-9z-pain-2026-08-12",
+    "title": "Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D",
+    "outcome": "9z",
+    "side": "BUY",
+    "usd": 10101.8304,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]
