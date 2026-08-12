@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 17:13:46 (hora de Perú)
+Actualizado: 2026-08-12 17:16:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1961**  ($53,119,954 en total)
+- Apuestas registradas: **1963**  ($53,151,046 en total)
 - Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
-- Pendientes: 612
+- Pendientes: 614
 - Apostadores distintos: 173
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 14 | 35% | $2,916,482 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 47 | 77% | $2,601,386 | +$168,085 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
-| pleaseplease123 | 0 | 44 | 28 | 0% | $2,094,501 | -$1,082,423 |
+| pleaseplease123 | 0 | 44 | 29 | 0% | $2,108,803 | -$1,082,423 |
 | Weaseloftheweek | 19 | 2 | 7 | 90% | $1,946,083 | +$872,236 |
 | BreakTheBank | 0 | 12 | 8 | 0% | $1,483,516 | -$803,506 |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
@@ -52,10 +52,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x076d…8d4c | 8 | 0 | 11 | 100% | $343,000 | +$45,411 |
 | theowalcott | 21 | 0 | 1 | 100% | $333,694 | +$226,502 |
 | bigspending | 0 | 0 | 5 | — | $333,212 | — |
+| johnny234 | 4 | 11 | 8 | 27% | $317,917 | -$101,100 |
 | Feromont | 9 | 0 | 5 | 100% | $315,372 | +$55,222 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | casualbet2020 | 0 | 0 | 6 | — | $304,949 | — |
-| johnny234 | 4 | 11 | 7 | 27% | $301,127 | -$101,100 |
 | fRibrenlc | 9 | 7 | 6 | 56% | $290,662 | +$15,968 |
 | basementdweller3000 | 6 | 3 | 6 | 67% | $282,034 | +$34,747 |
 | five5120 | 7 | 9 | 2 | 44% | $266,115 | -$84,525 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.17 (46¢) | $14,302 | — | ⏳ Pendiente |
+| johnny234 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.85 (54¢) | $16,789 | — | ⏳ Pendiente |
 | Weaseloftheweek | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $14,734 | — | ⏳ Pendiente |
 | Sassy-Bucket | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $13,066 | — | ⏳ Pendiente |
 | Sassy-Bucket | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $13,066 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 | jarosbill | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 1.69 (59¢) | $10,554 | — | ⏳ Pendiente |
 | jarosbill | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 1.69 (59¢) | $10,554 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.11 (90¢) | $14,256 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $45,811 | — | ⏳ Pendiente |
-| highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $44,005 | — | ⏳ Pendiente |
