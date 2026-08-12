@@ -13243,5 +13243,44 @@
     "usd": 29499.688000000002,
     "odds_at_bet": 80,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 835,
+    "timestamp": 1786535573,
+    "username": "ohehe",
+    "wallet": "0xeac22222ef8d2be457c00101a1a4e4925ec5dddc",
+    "slug": "val-jdg-te-2026-08-12",
+    "title": "Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 10552.684800000003,
+    "odds_at_bet": 56,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 836,
+    "timestamp": 1786535410,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 29499.688000000002,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 837,
+    "timestamp": 1786535313,
+    "username": "SineNooneEI",
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "slug": "lol-kt-dk-2026-08-12-game2",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 12800.0,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]
