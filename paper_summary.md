@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 22:02:37 (hora de Perú)
+Actualizado: 2026-08-11 22:04:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $427.00
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 15 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 16 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -458,6 +458,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Washington Mystics vs. Las Vegas Aces | Washington Mystics (BUY) | 35% | 15.29 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 45% | 5.54 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 55% | 10.89 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Arizona Diamondbacks (-3.5) | Colorado Rockies (BUY) | 66% | 6.42 | ⏳ pendiente | — |
@@ -487,4 +488,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Real Salt Lake vs. FC Juárez: O/U 3.5 | Over (BUY) | 22% | 0.55 | ⏳ pendiente | — |
 | swisstony | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 59% | 0.49 | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 82% | 0.70 | ⏳ pendiente | — |
-| swisstony | Tampa Bay Rays vs. Athletics: O/U 10.5 | Over (BUY) | 64% | 0.74 | ⏳ pendiente | — |
