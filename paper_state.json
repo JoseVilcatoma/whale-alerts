@@ -1,5 +1,5 @@
 {
-  "bankroll": 504.41659395430565,
+  "bankroll": 493.8625768602886,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18675,6 +18675,36 @@
       "timestamp": 1786573502.8584464,
       "bankroll": 504.42,
       "event": "won: RN1 \u2014 Will Manchester United win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786573941.8179054,
+      "bankroll": 478.67,
+      "event": "lost: Sassy-Bucket \u2014 Houston Astros vs. San Francisco Giants: O/U 8.5"
+    },
+    {
+      "timestamp": 1786574002.734813,
+      "bankroll": 476.79,
+      "event": "lost: 1winstreak1 \u2014 Spread: San Francisco Giants (-1.5)"
+    },
+    {
+      "timestamp": 1786574002.8350055,
+      "bankroll": 477.49,
+      "event": "won: 1winstreak1 \u2014 Spread: San Francisco Giants (-1.5)"
+    },
+    {
+      "timestamp": 1786574003.2340772,
+      "bankroll": 486.97,
+      "event": "won: 1winstreak1 \u2014 Houston Astros vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1786574003.9416451,
+      "bankroll": 495.22,
+      "event": "won: 1winstreak1 \u2014 Houston Astros vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1786574004.3464801,
+      "bankroll": 493.86,
+      "event": "lost: 1winstreak1 \u2014 Spread: Houston Astros (-1.5)"
     }
   ]
 }
