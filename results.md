@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 13:19:30 (hora de Perú)
+Actualizado: 2026-08-12 13:21:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1549**  ($38,911,265 en total)
+- Apuestas registradas: **1554**  ($39,033,779 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 608
+- Pendientes: 613
 - Apostadores distintos: 152
 
 ### Balance
@@ -27,10 +27,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 67 | 28% | $6,098,694 | -$789,178 |
 | Djdjdjekekek | 36 | 12 | 77 | 75% | $5,657,802 | +$573,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 7 | 36% | $2,392,102 | -$421,290 |
-| ferrariChampions2026 | 90 | 29 | 28 | 76% | $2,094,841 | +$113,934 |
+| ferrariChampions2026 | 90 | 29 | 29 | 76% | $2,107,942 | +$113,934 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
 | Weaseloftheweek | 11 | 2 | 7 | 85% | $1,636,724 | +$518,388 |
-| pleaseplease123 | 0 | 44 | 10 | 0% | $1,381,593 | -$1,082,423 |
+| pleaseplease123 | 0 | 44 | 11 | 0% | $1,422,315 | -$1,082,423 |
 | BreakTheBank | 0 | 12 | 2 | 0% | $918,632 | -$803,506 |
 | Lakersfan111 | 1 | 3 | 31 | ⚠️ 25% (4) | $653,923 | -$28,993 |
 | texaskid | 18 | 0 | 0 | 100% | $598,663 | +$455,165 |
@@ -71,9 +71,14 @@ _(mostrando los 40 de mayor monto, de 152 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.12 (89¢) | $13,101 | — | ⏳ Pendiente |
+| Elaran1993 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $46,921 | — | ⏳ Pendiente |
+| pleaseplease123 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $40,723 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $40,723 | — | ⏳ Pendiente |
 | Elaran1993 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $46,921 | — | ⏳ Pendiente |
 | purplegatto | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $10,079 | — | ⏳ Pendiente |
+| purplegatto | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $10,079 | — | ⏳ Pendiente |
+| 78979879879879 | Israel closes its airspace by August 31? | No | 1.08 (93¢) | $11,691 | — | ⏳ Pendiente |
 | 78979879879879 | Israel closes its airspace by August 31? | No | 1.08 (93¢) | $11,691 | — | ⏳ Pendiente |
 | Levoin | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $20,000 | — | ⏳ Pendiente |
 | norrisfan | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $13,898 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 152 en total)_
 | S-Works | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $19,645 | — | ⏳ Pendiente |
 | Anjun | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $15,555 | — | ⏳ Pendiente |
 | Lakersfan111 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $60,463 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.33 (30¢) | $69,501 | — | ⏳ Pendiente |
-| PleaseWinPlease | Colorado Rockies vs. Arizona Diamondbacks | Colorado Rockies | 2.63 (38¢) | $10,450 | — | ⏳ Pendiente |
-| pleaseplease123 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.61 (62¢) | $33,679 | — | ⏳ Pendiente |
-| Feromont | Baltimore Orioles vs. Minnesota Twins | Minnesota Twins | 1.96 (51¢) | $10,191 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.33 (30¢) | $162,342 | — | ⏳ Pendiente |

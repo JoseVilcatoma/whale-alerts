@@ -20177,5 +20177,70 @@
     "usd": 46920.5256,
     "odds_at_bet": 52,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1317,
+    "timestamp": 1786558889,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-wc1-furia-2026-08-12",
+    "title": "Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 13100.800000000001,
+    "odds_at_bet": 89,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1318,
+    "timestamp": 1786558599,
+    "username": "Elaran1993",
+    "wallet": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d",
+    "slug": "mlb-tb-oak-2026-08-12-total-9pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 46920.5256,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1319,
+    "timestamp": 1786558599,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tb-oak-2026-08-12-total-9pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 40722.6144,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1320,
+    "timestamp": 1786558477,
+    "username": "purplegatto",
+    "wallet": "0x032eb1bc893940263ad0b01889f262fc232f2a9e",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 10078.6042,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1321,
+    "timestamp": 1786558476,
+    "username": "78979879879879",
+    "wallet": "0xeb490d0534bb68b4c2ce139b219a728cd2c3693e",
+    "slug": "israel-closes-its-airspace-by-august-31-389",
+    "title": "Israel closes its airspace by August 31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 11690.99998704,
+    "odds_at_bet": 93,
+    "status": "pending"
   }
 ]
