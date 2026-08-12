@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 07:20:57 (hora de Perú)
+Actualizado: 2026-08-12 07:23:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1036**  ($21,805,841 en total)
+- Apuestas registradas: **1037**  ($21,824,061 en total)
 - Resueltas: **790** — 486 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 246
+- Pendientes: 247
 - Apostadores distintos: 115
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 115 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| acc1211 | The Hundred, Women: Welsh Fire vs London Spirit | Welsh Fire | 1.06 (94¢) | $18,220 | — | ⏳ Pendiente |
 | acc1211 | The Hundred, Women: Welsh Fire vs London Spirit | Welsh Fire | 1.12 (89¢) | $18,006 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.11 (90¢) | $24,582 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.92 (52¢) | $12,559 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 115 en total)_
 | Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.70 (37¢) | $11,100 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $33,229 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $18,900 | — | ⏳ Pendiente |
-| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.70 (37¢) | $19,236 | — | ⏳ Pendiente |
