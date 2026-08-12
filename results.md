@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 15:21:08 (hora de Perú)
+Actualizado: 2026-08-12 15:23:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1908**  ($51,996,376 en total)
-- Resueltas: **1341** — 796 ganadas / 545 perdidas (**59%** de acierto)
-- Pendientes: 567
+- Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
+- Pendientes: 559
 - Apostadores distintos: 168
 
 ### Balance
 
-- **Resultado de los apostadores: -$584,155** sobre $31,046,092 apostados (ROI **-1.9%**)
+- **Resultado de los apostadores: -$230,308** sobre $31,923,019 apostados (ROI **-0.7%**)
 - Copiando $100 fijo en cada una: **-$943** sobre $131,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 105 | 32 | 46 | 77% | $2,586,796 | +$168,085 |
 | AV23IUa | 33 | 24 | 21 | 58% | $2,012,237 | +$171,257 |
 | pleaseplease123 | 0 | 44 | 23 | 0% | $1,921,287 | -$1,082,423 |
-| Weaseloftheweek | 11 | 2 | 8 | 85% | $1,747,031 | +$518,388 |
+| Weaseloftheweek | 19 | 2 | 0 | 90% | $1,747,031 | +$872,236 |
 | BreakTheBank | 0 | 12 | 8 | 0% | $1,483,516 | -$803,506 |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
 | S-Works | 0 | 0 | 6 | — | $688,936 | — |
