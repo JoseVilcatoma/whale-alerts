@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 04:43:50 (hora de Perú)
+Actualizado: 2026-08-12 04:46:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
-| AV23IUa | 3 | 3 | 7 | +46.51 USD |
+| AV23IUa | 3 | 3 | 8 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 65 | 69 | 0 | +23.18 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 70 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 72 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | BrotherObama | 7 | 17 | 6 | -121.31 USD |
@@ -453,6 +453,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | BIG (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: FUT Esports vs TYLOO (BO | TYLOO (BUY) | 41% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | BIG (BUY) | 79% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: EDward Gaming vs Anyone's Legend (B | EDward Gaming (BUY) | 22% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 78% | 0.00 | ⏳ pendiente | — |
@@ -480,6 +483,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: Luminosity vs GamerLegio | Luminosity (BUY) | 27% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | BIG (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 88% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 89% | 0.00 | ⏳ pendiente | — |
