@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 14:49:02 (hora de Perú)
+Actualizado: 2026-08-12 14:51:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $560.12
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | dv-pm | 4 | 5 | 2 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 88 | 13 | +59.32 USD |
+| 1winstreak1 | 107 | 88 | 15 | +59.32 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 65 | 69 | 3 | +23.18 USD |
@@ -449,11 +449,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
 | mlb-mil-sd-2026-08-12-total-8pt5 | SDTrading, dv-pm |
+| mlb-phi-stl-2026-08-12-total-8pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: St. Louis Cardinals (-1.5) | St. Louis Cardinals (BUY) | 82% | 2.26 | ⏳ pendiente | — |
+| 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 45% | 8.99 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 51% | 1.97 | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 54% | 1.85 | ⏳ pendiente | — |
 | dv-pm | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 54% | 5.54 | ⏳ pendiente | — |
@@ -482,5 +485,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Spread: CA Platense (-1.5) | CD Coquimbo Unido (BUY) | 79% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 27% | 0.00 | ✅ ganada | +0.00 |
 | UpTheBlues | GKS GieKSa Katowice vs. MH Hapoel Tel Av | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Eintracht Frankfurt (-3.5) | Eintracht Frankfurt (BUY) | 28% | 0.00 | ⏳ pendiente | — |
-| dv-pm | Will GKS GieKSa Katowice win on 2026-08- | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
