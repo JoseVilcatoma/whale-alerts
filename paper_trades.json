@@ -79903,5 +79903,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786506170.365045,
     "fills": 1
+  },
+  {
+    "timestamp": 1786506318,
+    "timestamp_added": 1786506318.833492,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-tig-vwh-2026-08-11-vwh",
+    "title": "Will Vancouver Whitecaps FC win on 2026-08-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 552.9,
+    "whale_pct": 0.118,
+    "paper_stake_usd": 0.48,
+    "odds_at_bet": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786506318.8335009,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786506323,
+    "timestamp_added": 1786506323.3729818,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-tig-vwh-2026-08-11-spread-home-1pt5",
+    "title": "Spread: Tigres de la UANL (-1.5)",
+    "outcome": "Vancouver Whitecaps FC",
+    "side": "BUY",
+    "whale_usd": 744.3309999999999,
+    "whale_pct": 0.158,
+    "paper_stake_usd": 0.65,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786506323.3729897,
+    "fills": 1
   }
 ]
