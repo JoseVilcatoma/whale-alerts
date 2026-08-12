@@ -79503,5 +79503,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786505041.3025784,
     "fills": 1
+  },
+  {
+    "timestamp": 1786505200,
+    "timestamp_added": 1786505200.7457154,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-col-ari-2026-08-11-spread-away-2pt5",
+    "title": "Spread: Colorado Rockies (-2.5)",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "whale_usd": 79.41,
+    "whale_pct": 0.107,
+    "paper_stake_usd": 0.46,
+    "odds_at_bet": 18,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786505200.7457235,
+    "fills": 1
   }
 ]
