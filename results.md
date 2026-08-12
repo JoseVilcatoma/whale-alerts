@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 15:06:22 (hora de Perú)
+Actualizado: 2026-08-12 15:08:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1901**  ($51,836,655 en total)
+- Apuestas registradas: **1906**  ($51,968,551 en total)
 - Resueltas: **1341** — 796 ganadas / 545 perdidas (**59%** de acierto)
-- Pendientes: 560
+- Pendientes: 565
 - Apostadores distintos: 168
 
 ### Balance
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 48 | 43% | $8,707,868 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 49 | 43% | $8,753,679 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 14 | 35% | $2,916,482 | -$564,452 |
-| ferrariChampions2026 | 105 | 32 | 43 | 77% | $2,537,997 | +$168,085 |
+| ferrariChampions2026 | 105 | 32 | 45 | 77% | $2,569,524 | +$168,085 |
 | AV23IUa | 33 | 24 | 21 | 58% | $2,012,237 | +$171,257 |
 | pleaseplease123 | 0 | 44 | 23 | 0% | $1,921,287 | -$1,082,423 |
 | Weaseloftheweek | 11 | 2 | 8 | 85% | $1,747,031 | +$518,388 |
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ThornyDevil | 2 | 6 | 1 | 25% | $254,880 | -$207,394 |
 | mikesports | 7 | 8 | 0 | 47% | $243,869 | -$88,869 |
 | TAIWANNUMBERONE | 11 | 1 | 3 | 92% | $217,012 | +$88,234 |
+| highnetworth | 0 | 0 | 5 | — | $215,351 | — |
 | skyman44 | 3 | 5 | 3 | 38% | $214,644 | -$23,079 |
-| ohehe | 0 | 11 | 3 | 0% | $213,828 | -$120,995 |
 
 _(mostrando los 40 de mayor monto, de 168 en total)_
 
@@ -71,6 +71,11 @@ _(mostrando los 40 de mayor monto, de 168 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.15 (87¢) | $17,271 | — | ⏳ Pendiente |
+| jarosbill | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 1.69 (59¢) | $10,554 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.11 (90¢) | $14,256 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $45,811 | — | ⏳ Pendiente |
+| highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $44,005 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $45,811 | — | ⏳ Pendiente |
 | highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $44,005 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.23 (81¢) | $11,635 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 168 en total)_
 | kkookkoo | Philadelphia Phillies vs. St. Louis Cardinals | Philadelphia Phillies | 1.49 (67¢) | $12,862 | — | ⏳ Pendiente |
 | kkookkoo | Philadelphia Phillies vs. St. Louis Cardinals | Philadelphia Phillies | 1.49 (67¢) | $12,862 | — | ⏳ Pendiente |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.45 (69¢) | $41,717 | — | ⏳ Pendiente |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.45 (69¢) | $41,717 | — | ⏳ Pendiente |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.47 (68¢) | $105,703 | — | ⏳ Pendiente |
-| pleaseplease123 | Tampa Bay Rays vs. Athletics | Athletics | 3.12 (32¢) | $36,633 | — | ⏳ Pendiente |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.47 (68¢) | $105,703 | — | ⏳ Pendiente |
-| pleaseplease123 | Tampa Bay Rays vs. Athletics | Athletics | 3.12 (32¢) | $36,633 | — | ⏳ Pendiente |
