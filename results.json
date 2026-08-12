@@ -13542,5 +13542,31 @@
     "usd": 19999.99999905,
     "odds_at_bet": 69,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 858,
+    "timestamp": 1786538555,
+    "username": "suanlimao6",
+    "wallet": "0xe8ade1c67a880380ec861c476052c2f00057a859",
+    "slug": "lol-blg-jdg-2026-08-12-game1",
+    "title": "LoL: Bilibili Gaming vs JD Gaming - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 10151.515151,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 859,
+    "timestamp": 1786538605,
+    "username": "SineNooneEI",
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "slug": "cs2-lvg-mouz-2026-08-12",
+    "title": "Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 10000.0,
+    "odds_at_bet": 80,
+    "status": "pending"
   }
 ]
