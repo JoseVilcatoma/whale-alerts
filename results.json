@@ -17677,5 +17677,31 @@
     "usd": 17253.7325,
     "odds_at_bet": 25,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1124,
+    "timestamp": 1786549366,
+    "username": "skyman44",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-navi-3dmax-2026-08-12",
+    "title": "Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 13854.96,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1125,
+    "timestamp": 1786549323,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-ijc-tlnpir-2026-08-12",
+    "title": "LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs",
+    "outcome": "Ici Japon Corp. Esport",
+    "side": "BUY",
+    "usd": 10250.0,
+    "odds_at_bet": 41,
+    "status": "pending"
   }
 ]
