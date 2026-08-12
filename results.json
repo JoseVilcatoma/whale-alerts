@@ -13464,5 +13464,18 @@
     "usd": 61636.668,
     "odds_at_bet": 60,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 852,
+    "timestamp": 1786536795,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-kt-dk-2026-08-12-game2",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 24581.727,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]
