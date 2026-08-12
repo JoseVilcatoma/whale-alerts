@@ -8412,5 +8412,44 @@
     "usd": 14034.392000000002,
     "odds_at_bet": 80,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 492,
+    "timestamp": 1786506505,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-g2-m80-2026-08-12",
+    "title": "Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A",
+    "outcome": "G2",
+    "side": "BUY",
+    "usd": 13799.999999999998,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 493,
+    "timestamp": 1786506577,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 10400.0,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 494,
+    "timestamp": 1786506138,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tex-laa-2026-08-11",
+    "title": "Texas Rangers vs. Los Angeles Angels",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 14034.392000000002,
+    "odds_at_bet": 80,
+    "status": "pending"
   }
 ]
