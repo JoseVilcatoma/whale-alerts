@@ -1,5 +1,5 @@
 {
-  "bankroll": 372.4877317430363,
+  "bankroll": 636.6694033126214,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18340,6 +18340,106 @@
       "timestamp": 1786558147.3865807,
       "bankroll": 372.49,
       "event": "won: BrotherObama \u2014 LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786576633.965341,
+      "bankroll": 372.91,
+      "event": "won: RN1 \u2014 Will Manchester United win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786576634.3265672,
+      "bankroll": 372.91,
+      "event": "won: swisstony \u2014 Will Paris Saint-Germain vs. Aston Villa end in a draw?"
+    },
+    {
+      "timestamp": 1786576634.4267483,
+      "bankroll": 372.91,
+      "event": "won: RN1 \u2014 Will Manchester United win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786576635.1471279,
+      "bankroll": 372.97,
+      "event": "won: UpTheBlues \u2014 Will Paide Linnameeskond win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786576635.5181518,
+      "bankroll": 370.9,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786576637.9553814,
+      "bankroll": 367.51,
+      "event": "lost: UpTheBlues \u2014 Will FC K\u00f8benhavn win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786576638.289465,
+      "bankroll": 366.64,
+      "event": "lost: UpTheBlues \u2014 Will Debreceni VSC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786576638.8583455,
+      "bankroll": 365.71,
+      "event": "lost: UpTheBlues \u2014 Will SK Rapid Wien vs. Paide Linnameeskond end in a draw?"
+    },
+    {
+      "timestamp": 1786576639.2328234,
+      "bankroll": 367.35,
+      "event": "won: UpTheBlues \u2014 SK Rapid Wien vs. Paide Linnameeskond: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786576639.5951917,
+      "bankroll": 366.71,
+      "event": "lost: UpTheBlues \u2014 Will SK Rapid Wien win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786576639.972748,
+      "bankroll": 367.02,
+      "event": "won: UpTheBlues \u2014 SK Rapid Wien vs. Paide Linnameeskond: O/U 0.5"
+    },
+    {
+      "timestamp": 1786576640.3219323,
+      "bankroll": 366.05,
+      "event": "lost: UpTheBlues \u2014 Spread: SK Rapid Wien (-2.5)"
+    },
+    {
+      "timestamp": 1786576642.4030197,
+      "bankroll": 366.05,
+      "event": "lost: dv-pm \u2014 Will GKS GieKSa Katowice win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786576642.768721,
+      "bankroll": 366.05,
+      "event": "won: UpTheBlues \u2014 Spread: Eintracht Frankfurt (-3.5)"
+    },
+    {
+      "timestamp": 1786576643.0978603,
+      "bankroll": 366.05,
+      "event": "won: UpTheBlues \u2014 GKS GieKSa Katowice vs. MH Hapoel Tel Aviv: O/U 1.5"
+    },
+    {
+      "timestamp": 1786576643.845174,
+      "bankroll": 366.05,
+      "event": "lost: UpTheBlues \u2014 Spread: FC K\u00f8benhavn (-2.5)"
+    },
+    {
+      "timestamp": 1786576645.2328155,
+      "bankroll": 382.31,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Baltimore Orioles (-1.5)"
+    },
+    {
+      "timestamp": 1786576645.5769975,
+      "bankroll": 571.14,
+      "event": "won: Sassy-Bucket \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786576645.6771328,
+      "bankroll": 642.96,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786576646.0283518,
+      "bankroll": 636.67,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 14:05:04 (hora de Perú)
+Actualizado: 2026-08-12 18:19:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $372.49
-**Retorno acumulado:** -62.75%
+**Bankroll actual:** $636.67
+**Retorno acumulado:** -36.33%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,24 +13,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| dv-pm | 4 | 5 | 1 | +89.49 USD |
+| wr0ngw4yb3tt0r | 67 | 70 | 0 | +104.98 USD |
+| dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 2 | +60.51 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| wr0ngw4yb3tt0r | 65 | 69 | 3 | +23.18 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 3 | 9 | 2 | +15.41 USD |
-| HomeRunHazard | 114 | 97 | 7 | +13.95 USD |
+| HomeRunHazard | 114 | 98 | 6 | +11.88 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 249 | 151 | 21 | +5.66 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
-| Sassy-Bucket | 7 | 8 | 1 | +2.15 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
+| UpTheBlues | 254 | 157 | 10 | +0.86 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
@@ -47,14 +47,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 170 | 114 | 1 | -26.60 USD |
+| swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 158 | 209 | 2 | -28.31 USD |
-| RN1 | 200 | 112 | 2 | -39.45 USD |
+| RN1 | 202 | 112 | 2 | -39.02 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 1 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -448,24 +448,30 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-phi-stl-2026-08-12-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
+| mlb-bos-tor-2026-08-12-total-7pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 44% | 6.29 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 53% | 80.99 | ⏳ pendiente | — |
-| Sassy-Bucket | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 53% | 212.93 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Baltimore Orioles (-1.5) | Minnesota Twins (BUY) | 62% | 26.54 | ⏳ pendiente | — |
+| ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 37% | 11.94 | ⏳ pendiente | — |
+| RN1 | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 37% | 1.36 | ⏳ pendiente | — |
+| RN1 | Red Bull Bragantino vs. CA Mineiro: O/U  | Under (BUY) | 42% | 0.66 | ⏳ pendiente | — |
+| 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 20% | 1.65 | ⏳ pendiente | — |
+| 1winstreak1 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 73% | 3.07 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 44% | 6.29 | ❌ perdida | -6.29 |
+| wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 53% | 80.99 | ✅ ganada | +71.82 |
+| Sassy-Bucket | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 53% | 212.93 | ✅ ganada | +188.82 |
+| wr0ngw4yb3tt0r | Spread: Baltimore Orioles (-1.5) | Minnesota Twins (BUY) | 62% | 26.54 | ✅ ganada | +16.27 |
 | SDTrading | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | SDTrading | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: FC København (-2.5) | Debreceni VSC (BUY) | 69% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: FC København (-2.5) | Debreceni VSC (BUY) | 69% | 0.00 | ❌ perdida | -0.00 |
 | UpTheBlues | Spread: CA Platense (-1.5) | CD Coquimbo Unido (BUY) | 79% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 27% | 0.00 | ✅ ganada | +0.00 |
-| UpTheBlues | GKS GieKSa Katowice vs. MH Hapoel Tel Av | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Eintracht Frankfurt (-3.5) | Eintracht Frankfurt (BUY) | 28% | 0.00 | ⏳ pendiente | — |
-| dv-pm | Will GKS GieKSa Katowice win on 2026-08- | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | GKS GieKSa Katowice vs. MH Hapoel Tel Av | Over (BUY) | 72% | 0.00 | ✅ ganada | +0.00 |
+| UpTheBlues | Spread: Eintracht Frankfurt (-3.5) | Eintracht Frankfurt (BUY) | 28% | 0.00 | ✅ ganada | +0.00 |
+| dv-pm | Will GKS GieKSa Katowice win on 2026-08- | No (BUY) | 53% | 0.00 | ❌ perdida | -0.00 |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 28% | 0.00 | ❌ perdida | -0.00 |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 63% | 0.00 | ❌ perdida | -0.00 |
 | UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
@@ -478,8 +484,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ✅ ganada | +0.00 |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 53% | 0.00 | ❌ perdida | -0.00 |
 | jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ✅ ganada | +0.00 |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 53% | 0.00 | ❌ perdida | -0.00 |
-| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 60% | 0.00 | ❌ perdida | -0.00 |
-| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 55% | 0.00 | ❌ perdida | -0.00 |
-| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 50% | 0.00 | ❌ perdida | -0.00 |
-| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 22% | 0.00 | ❌ perdida | -0.00 |
