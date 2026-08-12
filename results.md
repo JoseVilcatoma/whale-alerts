@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 20:56:10 (hora de Perú)
+Actualizado: 2026-08-11 20:58:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **313**  ($6,456,731 en total)
+- Apuestas registradas: **314**  ($6,472,267 en total)
 - Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 197
+- Pendientes: 198
 - Apostadores distintos: 87
 
 ### Balance
@@ -58,12 +58,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 2 | 0 | 0 | ⚠️ 100% (2) | $34,853 | +$7,302 |
 | tennischamp | 1 | 0 | 2 | ⚠️ 100% (1) | $32,529 | +$843 |
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $29,744 | +$9,167 |
+| paquitomillonario | 0 | 0 | 2 | — | $27,925 | — |
 | Istaroth | 0 | 0 | 1 | — | $27,704 | — |
 | BaccaratRoulette | 0 | 1 | 0 | ⚠️ 0% (1) | $27,060 | -$27,060 |
 | thecomplicatedguy | 0 | 0 | 2 | — | $27,000 | — |
 | jaytee158 | 2 | 0 | 0 | ⚠️ 100% (2) | $26,651 | +$4,349 |
 | Elaran1993 | 0 | 0 | 2 | — | $26,219 | — |
-| monkeymashingkeyboard | 0 | 0 | 2 | — | $26,186 | — |
 
 _(mostrando los 40 de mayor monto, de 87 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 87 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| paquitomillonario | Washington Mystics vs. Las Vegas Aces: O/U 170.5 | Over 170.5 | 1.82 (55¢) | $15,536 | — | ⏳ Pendiente |
 | thecomplicatedguy | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.85 (54¢) | $13,500 | — | ⏳ Pendiente |
 | thecomplicatedguy | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.85 (54¢) | $13,500 | — | ⏳ Pendiente |
 | RN1 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.85 (54¢) | $14,411 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 87 en total)_
 | ferrariChampions2026 | Spread: Texas Rangers (-1.5) | Texas Rangers | 2.17 (46¢) | $11,167 | — | ⏳ Pendiente |
 | Elaran1993 | Spread: Texas Rangers (-1.5) | Los Angeles Angels | 1.85 (54¢) | $13,110 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Marcos Giron | 1.47 (68¢) | $50,018 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Henrique Rocha | 3.12 (32¢) | $19,859 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Henrique Rocha | 3.12 (32¢) | $19,859 | — | ⏳ Pendiente |
