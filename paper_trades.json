@@ -73608,7 +73608,7 @@
     "whale_pct": 0.127,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 77,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -79433,6 +79433,75 @@
     ],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786504763.8872476,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786505011,
+    "timestamp_added": 1786505011.4572172,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-rsl-jua-2026-08-11-total-3pt5",
+    "title": "Real Salt Lake vs. FC Ju\u00e1rez: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 978.9200000000001,
+    "whale_pct": 0.219,
+    "paper_stake_usd": 0.94,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786505016.9244642,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786505036,
+    "timestamp_added": 1786505037.028439,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "wnba-phx-la-2026-08-11-total-177pt5",
+    "title": "Phoenix Mercury vs. Los Angeles Sparks: O/U 177.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 94.22000000000001,
+    "whale_pct": 0.126,
+    "paper_stake_usd": 0.54,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "swisstony",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786505037.0284464,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786505040,
+    "timestamp_added": 1786505041.3025708,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "wnba-phx-la-2026-08-11",
+    "title": "Phoenix Mercury vs. Los Angeles Sparks",
+    "outcome": "Phoenix Mercury",
+    "side": "BUY",
+    "whale_usd": 314.6,
+    "whale_pct": 0.421,
+    "paper_stake_usd": 1.8,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786505041.3025784,
     "fills": 1
   }
 ]
