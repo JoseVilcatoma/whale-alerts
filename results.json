@@ -20762,5 +20762,44 @@
     "usd": 41716.739999,
     "odds_at_bet": 69,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1362,
+    "timestamp": 1786561616,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "mlb-phi-stl-2026-08-12",
+    "title": "Philadelphia Phillies vs. St. Louis Cardinals",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 12861.629998,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1363,
+    "timestamp": 1786561452,
+    "username": "0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509",
+    "wallet": "0x0954184654a6a3720f5dde4103a42af4dd0e1e1b",
+    "slug": "mlb-tb-oak-2026-08-12",
+    "title": "Tampa Bay Rays vs. Athletics",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 105702.6544,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1364,
+    "timestamp": 1786561452,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tb-oak-2026-08-12",
+    "title": "Tampa Bay Rays vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 36632.5152,
+    "odds_at_bet": 32,
+    "status": "pending"
   }
 ]
