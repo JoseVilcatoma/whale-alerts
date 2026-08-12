@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 04:29:45 (hora de Perú)
+Actualizado: 2026-08-12 04:31:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **934**  ($19,253,372 en total)
+- Apuestas registradas: **935**  ($19,265,258 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 145
+- Pendientes: 146
 - Apostadores distintos: 100
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 100 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ThornyDevil | LoL: EDward Gaming vs Anyone's Legend - Game 1 Winner | Anyone's Legend | 1.54 (65¢) | $11,886 | — | ⏳ Pendiente |
 | hff. | Dota 2: Level UP vs Rune Eaters - Game 1 Winner | Rune Eaters | 1.79 (56¢) | $12,472 | — | ⏳ Pendiente |
 | hff. | Dota 2: Level UP vs Rune Eaters - Game 1 Winner | Rune Eaters | 1.79 (56¢) | $12,472 | — | ⏳ Pendiente |
 | 254321758 | LoL: DN SOOPers vs Nongshim Red Force - Game 2 Winner | DN SOOPers | 1.10 (91¢) | $10,974 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 100 en total)_
 | ililili1lil1i1 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 3.57 (28¢) | $15,664 | -$15,664 | ❌ Perdida |
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $12,072 | +$4,695 | ✅ Ganada |
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $13,288 | +$5,168 | ✅ Ganada |
-| swisstony | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.25 (80¢) | $11,832 | +$2,958 | ✅ Ganada |
