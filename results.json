@@ -19094,5 +19094,31 @@
     "usd": 80000.0,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1233,
+    "timestamp": 1786555679,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bal-min-2026-08-12-spread-away-1pt5",
+    "title": "Spread: Baltimore Orioles (-1.5)",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "usd": 15449.5194,
+    "odds_at_bet": 38,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1234,
+    "timestamp": 1786555679,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bal-min-2026-08-12-spread-away-1pt5",
+    "title": "Spread: Baltimore Orioles (-1.5)",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 10342.995,
+    "odds_at_bet": 62,
+    "status": "pending"
   }
 ]
