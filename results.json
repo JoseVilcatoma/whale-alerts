@@ -17181,5 +17181,18 @@
     "usd": 12219.354,
     "odds_at_bet": 42,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1085,
+    "timestamp": 1786545533,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 46285.559999,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]
