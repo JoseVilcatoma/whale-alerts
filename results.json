@@ -13047,7 +13047,9 @@
     "side": "BUY",
     "usd": 30115.222499999996,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": 6546.79,
+    "precio_salida": 84
   },
   {
     "telegram_msg_id": 820,
@@ -13385,7 +13387,9 @@
     "side": "BUY",
     "usd": 10763.695800000001,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": 2339.93,
+    "precio_salida": 84
   },
   {
     "telegram_msg_id": 846,
@@ -13619,6 +13623,19 @@
     "side": "BUY",
     "usd": 17252.3965,
     "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 864,
+    "timestamp": 1786539149,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-g2-m80-2026-08-12",
+    "title": "Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A",
+    "outcome": "G2",
+    "side": "BUY",
+    "usd": 14794.08,
+    "odds_at_bet": 84,
     "status": "pending"
   }
 ]

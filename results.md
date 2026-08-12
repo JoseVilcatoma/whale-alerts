@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 07:52:01 (hora de Perú)
+Actualizado: 2026-08-12 07:54:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1046**  ($21,974,126 en total)
-- Resueltas: **790** — 486 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 256
+- Apuestas registradas: **1047**  ($21,988,920 en total)
+- Resueltas: **792** — 488 ganadas / 304 perdidas (**62%** de acierto)
+- Pendientes: 255
 - Apostadores distintos: 115
 
 ### Balance
 
-- **Resultado de los apostadores: +$458,519** sobre $16,870,601 apostados (ROI **+2.7%**)
+- **Resultado de los apostadores: +$467,405** sobre $16,911,480 apostados (ROI **+2.8%**)
 - Copiando $100 fijo en cada una: **+$2,360** sobre $77,800 (ROI **+3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 41 | 0 | 41% | $1,811,081 | -$218,949 |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 25 | 28% | $1,771,231 | -$743,370 |
 | AV23IUa | 23 | 11 | 29 | 68% | $1,636,286 | +$348,929 |
-| ferrariChampions2026 | 79 | 25 | 2 | 76% | $1,555,768 | +$58,976 |
+| ferrariChampions2026 | 79 | 25 | 3 | 76% | $1,570,562 | +$58,976 |
 | Djdjdjekekek | 27 | 3 | 17 | 90% | $1,501,585 | +$494,952 |
 | Weaseloftheweek | 11 | 2 | 3 | 85% | $1,218,338 | +$518,388 |
 | pleaseplease123 | 0 | 39 | 2 | 0% | $1,024,640 | -$991,234 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 1 | 0 | 11 | ⚠️ 100% (1) | $212,351 | +$9,167 |
 | mikesports | 3 | 3 | 7 | ⚠️ 50% (6) | $211,470 | -$24,073 |
 | wr0ngw4yb3tt0r | 7 | 6 | 0 | 54% | $209,577 | -$12,560 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 9 | — | $202,447 | — |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 0 | 7 | ⚠️ 100% (2) | $202,447 | +$8,887 |
 | ActionReaction | 0 | 0 | 7 | — | $193,576 | — |
 | xifutloong3 | 6 | 0 | 0 | ⚠️ 100% (6) | $190,324 | +$142,407 |
 | Feromont | 7 | 0 | 0 | ⚠️ 100% (7) | $162,799 | +$43,867 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 115 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.19 (84¢) | $14,794 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.37 (73¢) | $27,037 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.69 (59¢) | $17,252 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.69 (59¢) | $17,252 | — | ⏳ Pendiente |
@@ -84,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 115 en total)_
 | acc1211 | The Hundred, Women: Welsh Fire vs London Spirit | Welsh Fire | 1.12 (89¢) | $18,006 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.11 (90¢) | $24,582 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.92 (52¢) | $12,559 | — | ⏳ Pendiente |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.39 (72¢) | $10,764 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.39 (72¢) | $10,764 | +$2,340 | 💰 Vendida antes |
 | Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | magic | 1.39 (72¢) | $64,778 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 3.57 (28¢) | $24,596 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 3.57 (28¢) | $24,596 | — | ⏳ Pendiente |
@@ -113,7 +114,7 @@ _(mostrando los 40 de mayor monto, de 115 en total)_
 | ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.59 (63¢) | $25,594 | — | ⏳ Pendiente |
 | retroactivesource | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.20 (83¢) | $20,981 | — | ⏳ Pendiente |
 | retroactivesource | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.20 (83¢) | $20,981 | — | ⏳ Pendiente |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.45 (69¢) | $30,115 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.45 (69¢) | $30,115 | +$6,547 | 💰 Vendida antes |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.82 (55¢) | $16,603 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.82 (55¢) | $16,603 | — | ⏳ Pendiente |
 | GreatestTrader | LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyones Legend | 1.30 (77¢) | $11,215 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 115 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.82 (55¢) | $14,600 | — | ⏳ Pendiente |
 | Djdjdjekekek | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.22 (45¢) | $10,994 | — | ⏳ Pendiente |
 | ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.33 (43¢) | $18,109 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.75 (57¢) | $21,932 | — | ⏳ Pendiente |
