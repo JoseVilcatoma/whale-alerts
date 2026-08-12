@@ -1,5 +1,5 @@
 {
-  "bankroll": 372.4877317430363,
+  "bankroll": 561.3124487241683,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18340,6 +18340,11 @@
       "timestamp": 1786558147.3865807,
       "bankroll": 372.49,
       "event": "won: BrotherObama \u2014 LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786561561.6484847,
+      "bankroll": 561.31,
+      "event": "won: Sassy-Bucket \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 8.5"
     }
   ]
 }

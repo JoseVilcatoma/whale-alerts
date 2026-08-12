@@ -78663,8 +78663,8 @@
     "whale_pct": 57.165,
     "paper_stake_usd": 212.93,
     "odds_at_bet": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 188.82,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786556182.996775,
@@ -78711,5 +78711,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786556484.5810184,
     "fills": 1
+  },
+  {
+    "timestamp": 1786561581,
+    "timestamp_added": 1786561582.4107735,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-drm-capy-2026-08-12",
+    "title": "LoL: Dream Esports vs Capybara Esports (BO3) - LPLOL Group Stage",
+    "outcome": "Dream Esports",
+    "side": "BUY",
+    "whale_usd": 438.3621,
+    "whale_pct": 2.937,
+    "paper_stake_usd": 16.49,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786561582.9972546,
+    "fills": 3
   }
 ]
