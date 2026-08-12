@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 13:12:46 (hora de Perú)
+Actualizado: 2026-08-12 13:15:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1543**  ($38,767,954 en total)
+- Apuestas registradas: **1545**  ($38,789,724 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 602
-- Apostadores distintos: 150
+- Pendientes: 604
+- Apostadores distintos: 151
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
 | NemecGhudini | 3 | 2 | 5 | ⚠️ 60% (5) | $161,645 | -$17,067 |
 
-_(mostrando los 40 de mayor monto, de 150 en total)_
+_(mostrando los 40 de mayor monto, de 151 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| purplegatto | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $10,079 | — | ⏳ Pendiente |
+| 78979879879879 | Israel closes its airspace by August 31? | No | 1.08 (93¢) | $11,691 | — | ⏳ Pendiente |
 | 0way | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $14,001 | — | ⏳ Pendiente |
 | bigspending | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $41,300 | — | ⏳ Pendiente |
 | Bot313 | Baltimore Orioles vs. Minnesota Twins: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $10,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 150 en total)_
 | S-Works | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $210,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $44,101 | — | ⏳ Pendiente |
 | ARI100KRAT | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $13,647 | — | ⏳ Pendiente |
-| ARI100KRAT | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $13,647 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $44,101 | — | ⏳ Pendiente |

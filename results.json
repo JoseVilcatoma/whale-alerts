@@ -20099,5 +20099,31 @@
     "usd": 30944.350499999997,
     "odds_at_bet": 83,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1311,
+    "timestamp": 1786558475,
+    "username": "78979879879879",
+    "wallet": "0xeb490d0534bb68b4c2ce139b219a728cd2c3693e",
+    "slug": "israel-closes-its-airspace-by-august-31-389",
+    "title": "Israel closes its airspace by August 31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 11690.999987000001,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1312,
+    "timestamp": 1786558476,
+    "username": "purplegatto",
+    "wallet": "0x032eb1bc893940263ad0b01889f262fc232f2a9e",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 10078.6042,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
