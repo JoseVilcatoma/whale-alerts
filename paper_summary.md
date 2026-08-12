@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 18:37:31 (hora de Perú)
+Actualizado: 2026-08-12 18:39:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $637.22
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 67 | 70 | 3 | +104.98 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 12 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 13 | +60.51 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -49,12 +49,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 202 | 112 | 20 | -39.02 USD |
+| RN1 | 202 | 112 | 25 | -39.02 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 12 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 14 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -462,11 +462,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sud-tig-tor-2026-08-12-total-1pt5 | RN1, ferrariChampions2026 |
 | sud-tig-tor-2026-08-12-tor | RN1, ferrariChampions2026 |
 | mlb-cle-det-2026-08-12-spread-home-1pt5 | RN1, wr0ngw4yb3tt0r |
+| sud-bra-cam-2026-08-12-total-1pt5 | RN1, ferrariChampions2026 |
+| mlb-mil-sd-2026-08-12-total-7pt5 | 1winstreak1, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | CA Platense vs. CD Coquimbo Unido: O/U 2 | Under (BUY) | 94% | 2.23 | ⏳ pendiente | — |
+| RN1 | CA Platense vs. CD Coquimbo Unido: O/U 1 | Under (BUY) | 49% | 1.78 | ⏳ pendiente | — |
+| RN1 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 52% | 1.48 | ⏳ pendiente | — |
+| ferrariChampions2026 | Red Bull Bragantino vs. CA Mineiro: O/U  | Under (BUY) | 62% | 8.43 | ⏳ pendiente | — |
+| RN1 | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 98% | 2.15 | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 38% | 30.71 | ⏳ pendiente | — |
+| RN1 | Will SE Palmeiras win on 2026-08-12? | No (BUY) | 76% | 3.52 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Orlando City SC win on 2026-08-12? | Yes (BUY) | 52% | 0.71 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 24% | 1.42 | ⏳ pendiente | — |
 | RN1 | Will SE Palmeiras win on 2026-08-12? | No (BUY) | 74% | 1.62 | ⏳ pendiente | — |
 | RN1 | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 88% | 1.93 | ⏳ pendiente | — |
@@ -489,11 +499,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Montevideo City Torque win on 2026- | Yes (BUY) | 69% | 0.64 | ⏳ pendiente | — |
 | RN1 | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 63% | 1.36 | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Tigre vs. Montevideo City Torque: O/U | Under (BUY) | 55% | 1.45 | ⏳ pendiente | — |
-| RN1 | CA Tigre vs. Montevideo City Torque: O/U | Under (BUY) | 56% | 1.76 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 48% | 2.96 | ⏳ pendiente | — |
-| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 53% | 9.64 | ⏳ pendiente | — |
-| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 31% | 2.95 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Seattle Mariners (-2.5) | Seattle Mariners (BUY) | 51% | 6.46 | ⏳ pendiente | — |
-| ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 33% | 2.52 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Chicago Cubs (-1.5) | Washington Nationals (BUY) | 69% | 1.09 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Seattle Mariners (-2.5) | Seattle Mariners (BUY) | 47% | 4.03 | ⏳ pendiente | — |
