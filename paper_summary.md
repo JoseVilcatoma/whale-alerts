@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 15:55:35 (hora de Perú)
+Actualizado: 2026-08-12 15:57:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $523.33
@@ -13,8 +13,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| Sassy-Bucket | 8 | 8 | 1 | +190.97 USD |
-| theowalcott | 17 | 4 | 0 | +143.32 USD |
+| Sassy-Bucket | 8 | 8 | 2 | +190.97 USD |
+| theowalcott | 17 | 4 | 1 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | wr0ngw4yb3tt0r | 67 | 69 | 1 | +111.27 USD |
 | dv-pm | 4 | 6 | 1 | +89.49 USD |
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 2 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| WTSA | 0 | 0 | 3 | +0.00 USD |
+| WTSA | 0 | 0 | 5 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -457,6 +457,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| Sassy-Bucket | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| WTSA | CA Platense vs. CD Coquimbo Unido: O/U 2 | Over (BUY) | 30% | 1.94 | ⏳ pendiente | — |
+| WTSA | CA Platense vs. CD Coquimbo Unido: O/U 2 | Over (BUY) | 30% | 32.85 | ⏳ pendiente | — |
 | WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 45% | 5.06 | ⏳ pendiente | — |
 | WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 45% | 100.84 | ⏳ pendiente | — |
 | WTSA | Spread: SE Palmeiras (-1.5) | SE Palmeiras (BUY) | 48% | 122.45 | ⏳ pendiente | — |
@@ -483,7 +487,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 24% | 42.69 | ❌ perdida | -42.69 |
 | 1winstreak1 | Spread: San Francisco Giants (-1.5) | San Francisco Giants (BUY) | 47% | 1.88 | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 97% | 4.72 | ✅ ganada | +0.15 |
-| 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 37% | 0.90 | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 72% | 0.93 | ❌ perdida | -0.93 |
-| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 21% | 4.79 | ⏳ pendiente | — |
-| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 29% | 6.62 | ⏳ pendiente | — |
