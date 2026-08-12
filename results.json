@@ -16683,5 +16683,57 @@
     "usd": 36522.1379,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1046,
+    "timestamp": 1786541862,
+    "username": "Marcoli",
+    "wallet": "0xdbbbde184ab04018ce0373c0dbe4e5fd6be805a8",
+    "slug": "atp-jodar-nakashi-2026-08-12",
+    "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "usd": 48477.86209669328,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1047,
+    "timestamp": 1786541862,
+    "username": "Marcoli",
+    "wallet": "0xdbbbde184ab04018ce0373c0dbe4e5fd6be805a8",
+    "slug": "atp-jodar-nakashi-2026-08-12",
+    "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "usd": 36522.13790212403,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1048,
+    "timestamp": 1786542119,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-blg-jdg-2026-08-12-game2",
+    "title": "LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 30703.02,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1049,
+    "timestamp": 1786542119,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-blg-jdg-2026-08-12-game2",
+    "title": "LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 25983.0188,
+    "odds_at_bet": 38,
+    "status": "pending"
   }
 ]
