@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 17:50:40 (hora de Perú)
+Actualizado: 2026-08-12 17:53:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1999**  ($54,070,818 en total)
+- Apuestas registradas: **2005**  ($54,158,458 en total)
 - Resueltas: **1353** — 804 ganadas / 549 perdidas (**59%** de acierto)
-- Pendientes: 646
+- Pendientes: 652
 - Apostadores distintos: 177
 
 ### Balance
@@ -46,12 +46,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 15 | 0 | 9 | 100% | $469,445 | +$179,259 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
 | ExplosiveNinja | 18 | 2 | 7 | 90% | $378,581 | +$263,606 |
+| 0x076d…8d4c | 8 | 0 | 13 | 100% | $373,790 | +$45,411 |
 | Marcoli | 7 | 0 | 5 | ⚠️ 100% (7) | $358,944 | +$95,170 |
-| 0x076d…8d4c | 8 | 0 | 12 | 100% | $358,395 | +$45,411 |
 | Feromont | 9 | 0 | 7 | 100% | $358,252 | +$55,222 |
+| theowalcott | 21 | 0 | 3 | 100% | $354,223 | +$226,502 |
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
-| theowalcott | 21 | 0 | 1 | 100% | $333,694 | +$226,502 |
 | bigspending | 0 | 0 | 5 | — | $333,212 | — |
 | johnny234 | 4 | 11 | 8 | 27% | $317,917 | -$101,100 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
@@ -71,8 +71,14 @@ _(mostrando los 40 de mayor monto, de 177 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bloodmaster | LoL: The Otter Side vs NORTHERNGRADE ESPORTS (BO3) - LPLOL Group Stage | The Otter Side | 1.08 (93¢) | $18,081 | — | ⏳ Pendiente |
+| bloodmaster | LoL: The Otter Side vs NORTHERNGRADE ESPORTS (BO3) - LPLOL Group Stage | The Otter Side | 1.08 (93¢) | $18,081 | — | ⏳ Pendiente |
+| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes | 2.04 (49¢) | $10,265 | — | ⏳ Pendiente |
+| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes | 2.04 (49¢) | $10,265 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Will Inter Miami CF win on 2026-08-12? | No | 1.82 (55¢) | $15,395 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Inter Miami CF win on 2026-08-12? | No | 1.82 (55¢) | $15,395 | — | ⏳ Pendiente |
 | fkcvffcjt | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 2.63 (38¢) | $14,152 | — | ⏳ Pendiente |
+| one8tyfive | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.41 (71¢) | $15,552 | — | ⏳ Pendiente |
 | one8tyfive | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.41 (71¢) | $15,552 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $12,367 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $59,400 | — | ⏳ Pendiente |
@@ -125,9 +131,3 @@ _(mostrando los 40 de mayor monto, de 177 en total)_
 | DonaldinhoTrumpito | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.47 (68¢) | $19,907 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $18,459 | — | ⏳ Pendiente |
 | johnny234 | Houston Astros vs. San Francisco Giants | San Francisco Giants | 1.92 (52¢) | $12,936 | — | ⏳ Pendiente |
-| johnny234 | Houston Astros vs. San Francisco Giants | San Francisco Giants | 1.92 (52¢) | $12,936 | — | ⏳ Pendiente |
-| Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.17 (46¢) | $37,873 | — | ⏳ Pendiente |
-| ThisAgain | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.85 (54¢) | $30,004 | — | ⏳ Pendiente |
-| ThisAgain | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.85 (54¢) | $30,004 | — | ⏳ Pendiente |
-| Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.17 (46¢) | $37,873 | — | ⏳ Pendiente |
-| Weaseloftheweek | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $36,719 | — | ⏳ Pendiente |

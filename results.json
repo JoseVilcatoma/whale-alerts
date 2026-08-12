@@ -26057,5 +26057,83 @@
     "usd": 15395.237000000001,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1790,
+    "timestamp": 1786575063,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "lec-mon-nas-2026-08-12-mon",
+    "title": "Will CF Monterrey win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 10264.6082,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1791,
+    "timestamp": 1786575065,
+    "username": "bloodmaster",
+    "wallet": "0x58f8f1138be2192696378629fc9aa23c7910dc70",
+    "slug": "lol-tos-nort-2026-08-13",
+    "title": "LoL: The Otter Side vs NORTHERNGRADE ESPORTS (BO3) - LPLOL Group Stage",
+    "outcome": "The Otter Side",
+    "side": "BUY",
+    "usd": 18081.3204,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1792,
+    "timestamp": 1786575066,
+    "username": "bloodmaster",
+    "wallet": "0x58f8f1138be2192696378629fc9aa23c7910dc70",
+    "slug": "lol-tos-nort-2026-08-13",
+    "title": "LoL: The Otter Side vs NORTHERNGRADE ESPORTS (BO3) - LPLOL Group Stage",
+    "outcome": "The Otter Side",
+    "side": "BUY",
+    "usd": 18081.3204,
+    "odds_at_bet": 93,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1793,
+    "timestamp": 1786575064,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "lec-mon-nas-2026-08-12-mon",
+    "title": "Will CF Monterrey win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 10264.6082,
+    "odds_at_bet": 49,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1794,
+    "timestamp": 1786574973,
+    "username": "0x076d\u20268d4c",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "lec-mia-leo-2026-08-12-mia",
+    "title": "Will Inter Miami CF win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 15395.237000000001,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1795,
+    "timestamp": 1786574928,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "atp-jodar-nakashi-2026-08-12",
+    "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "usd": 15552.1489002,
+    "odds_at_bet": 71,
+    "status": "pending"
   }
 ]
