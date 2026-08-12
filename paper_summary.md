@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 20:12:05 (hora de Perú)
+Actualizado: 2026-08-11 20:14:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $323.84
-**Retorno acumulado:** -67.62%
+**Bankroll actual:** $325.34
+**Retorno acumulado:** -67.47%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -46,14 +46,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 122 | 100 | 61 | -28.98 USD |
+| swisstony | 122 | 101 | 60 | -28.98 USD |
 | RN1 | 174 | 99 | 39 | -33.33 USD |
 | quavoo | 151 | 182 | 30 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 614 | 468 | 25 | -105.11 USD |
+| ferrariChampions2026 | 616 | 468 | 23 | -103.61 USD |
 | BrotherObama | 7 | 5 | 12 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
