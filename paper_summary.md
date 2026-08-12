@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 17:41:53 (hora de Perú)
+Actualizado: 2026-08-12 17:44:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $487.96
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 9 | 5 | +165.22 USD |
-| theowalcott | 17 | 4 | 9 | +143.32 USD |
+| theowalcott | 17 | 4 | 10 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | wr0ngw4yb3tt0r | 67 | 70 | 0 | +104.98 USD |
 | dv-pm | 4 | 6 | 1 | +89.49 USD |
@@ -462,6 +462,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | Sassy-Bucket | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: SE Palmeiras (-1.5) | Club Cerro Porteño (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | Sassy-Bucket | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |
@@ -491,4 +492,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Colorado Rockies (-2.5) | Arizona Diamondbacks (BUY) | 46% | 3.16 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 57% | 6.79 | ⏳ pendiente | — |
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 2.29 | ⏳ pendiente | — |
-| theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 5.20 | ⏳ pendiente | — |

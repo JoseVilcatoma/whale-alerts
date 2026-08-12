@@ -80944,5 +80944,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786574158.0481384,
     "fills": 3
+  },
+  {
+    "timestamp": 1786574630,
+    "timestamp_added": 1786574631.5620217,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "lec-mon-nas-2026-08-12-mon",
+    "title": "Will CF Monterrey win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 21784.163034999998,
+    "whale_pct": 30.518,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786574640.0709307,
+    "fills": 28
   }
 ]
