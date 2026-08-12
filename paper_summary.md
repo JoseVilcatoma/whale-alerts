@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 09:37:39 (hora de Perú)
+Actualizado: 2026-08-12 09:39:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $449.56
-**Retorno acumulado:** -55.04%
+**Bankroll actual:** $448.85
+**Retorno acumulado:** -55.12%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,9 +13,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 29 | 16 | 17 | +189.61 USD |
+| BBQChickenisthebesttt | 29 | 16 | 18 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| dv-pm | 4 | 5 | 4 | +89.49 USD |
+| dv-pm | 4 | 5 | 5 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
@@ -32,15 +32,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
+| donthackme | 8 | 0 | 1 | +0.11 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 2 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| donthackme | 0 | 0 | 9 | +0.00 USD |
 | CORGI8 | 0 | 0 | 6 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
-| Gaditima | 0 | 1 | 3 | -0.46 USD |
+| Gaditima | 1 | 2 | 1 | -1.28 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
@@ -57,7 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
-| Djdjdjekekek | 5 | 12 | 16 | -116.01 USD |
+| Djdjdjekekek | 5 | 12 | 18 | -116.01 USD |
 | BrotherObama | 7 | 17 | 1 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
@@ -454,6 +454,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| dv-pm | SK Rapid Wien vs. Paide Linnameeskond: O | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 40% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 60% | 0.00 | ⏳ pendiente | — |
@@ -480,7 +484,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: FC København (-2.5) | Debreceni VSC (BUY) | 69% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: CA Platense (-1.5) | CD Coquimbo Unido (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| BrotherObama | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 27% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | GKS GieKSa Katowice vs. MH Hapoel Tel Av | Over (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Eintracht Frankfurt (-3.5) | Eintracht Frankfurt (BUY) | 28% | 0.00 | ⏳ pendiente | — |

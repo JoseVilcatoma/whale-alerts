@@ -1,5 +1,5 @@
 {
-  "bankroll": 449.5602945904423,
+  "bankroll": 448.8496572088747,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18160,6 +18160,56 @@
       "timestamp": 1786541194.8570004,
       "bankroll": 449.56,
       "event": "lost: Gaditima \u2014 Valorant: All Gamers vs TEC Esports (BO3) - VCT China Stage 2 Play-Ins"
+    },
+    {
+      "timestamp": 1786545569.0818288,
+      "bankroll": 449.67,
+      "event": "won: donthackme \u2014 Will annual inflation be 3.5% in July?"
+    },
+    {
+      "timestamp": 1786545569.333359,
+      "bankroll": 449.67,
+      "event": "won: donthackme \u2014 Will annual inflation be 3.8% in July?"
+    },
+    {
+      "timestamp": 1786545569.5869787,
+      "bankroll": 449.67,
+      "event": "won: donthackme \u2014 Will annual inflation be 3.2% in July?"
+    },
+    {
+      "timestamp": 1786545569.839054,
+      "bankroll": 449.67,
+      "event": "won: donthackme \u2014 Will annual inflation be 3.3% in July?"
+    },
+    {
+      "timestamp": 1786545570.0865557,
+      "bankroll": 449.67,
+      "event": "won: donthackme \u2014 Will annual inflation be 3.9% in July?"
+    },
+    {
+      "timestamp": 1786545570.3718424,
+      "bankroll": 449.67,
+      "event": "won: donthackme \u2014 Will annual inflation be 3.1% or less in July?"
+    },
+    {
+      "timestamp": 1786545570.6118455,
+      "bankroll": 449.67,
+      "event": "won: donthackme \u2014 Will annual inflation be 3.7% in July?"
+    },
+    {
+      "timestamp": 1786545571.1164877,
+      "bankroll": 449.67,
+      "event": "won: donthackme \u2014 Will annual inflation be 3.6% in July?"
+    },
+    {
+      "timestamp": 1786545573.7139196,
+      "bankroll": 445.84,
+      "event": "lost: Gaditima \u2014 Will annual inflation be 3.3% in July?"
+    },
+    {
+      "timestamp": 1786545573.9142423,
+      "bankroll": 448.85,
+      "event": "won: Gaditima \u2014 Will annual inflation be 3.3% in July?"
     }
   ]
 }
