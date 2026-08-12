@@ -78469,5 +78469,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786537692.6597571,
     "fills": 1
+  },
+  {
+    "timestamp": 1786538092,
+    "timestamp_added": 1786538092.7383773,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "clf-fsv-sge-2026-08-12-spread-away-3pt5",
+    "title": "Spread: Eintracht Frankfurt (-3.5)",
+    "outcome": "Eintracht Frankfurt",
+    "side": "BUY",
+    "whale_usd": 185.75480000000002,
+    "whale_pct": 0.169,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 28,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786538092.7383878,
+    "fills": 1
   }
 ]
