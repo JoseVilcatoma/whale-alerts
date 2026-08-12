@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 18:38:03 (hora de Perú)
+Actualizado: 2026-08-12 18:40:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2046**  ($54,962,563 en total)
+- Apuestas registradas: **2049**  ($55,074,263 en total)
 - Resueltas: **1358** — 806 ganadas / 552 perdidas (**59%** de acierto)
-- Pendientes: 688
+- Pendientes: 691
 - Apostadores distintos: 180
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 55 | 43% | $8,889,723 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 56 | 43% | $8,955,723 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 29 | 35% | $3,354,476 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 51 | 77% | $2,667,269 | +$168,085 |
@@ -58,8 +58,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | fRibrenlc | 9 | 7 | 7 | 56% | $305,328 | +$15,968 |
 | casualbet2020 | 0 | 0 | 6 | — | $304,949 | — |
+| highnetworth | 0 | 0 | 7 | — | $302,224 | — |
 | basementdweller3000 | 6 | 3 | 6 | 67% | $282,034 | +$34,747 |
-| highnetworth | 0 | 0 | 6 | — | $268,224 | — |
 | five5120 | 7 | 9 | 2 | 44% | $266,115 | -$84,525 |
 | ThornyDevil | 2 | 6 | 1 | 25% | $254,880 | -$207,394 |
 | DonaldinhoTrumpito | 0 | 0 | 13 | — | $244,529 | — |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 180 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kibanachi | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.11 (90¢) | $11,700 | — | ⏳ Pendiente |
+| highnetworth | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 2.94 (34¢) | $34,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $66,000 | — | ⏳ Pendiente |
 | curie | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.32 (76¢) | $10,164 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $13,579 | — | ⏳ Pendiente |
 | pleaseplease123 | Texas Rangers vs. Los Angeles Angels: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $15,312 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 180 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.67 (60¢) | $48,000 | — | ⏳ Pendiente |
 | BreakTheBank | Chicago Cubs vs. Washington Nationals | Washington Nationals | 2.50 (40¢) | $30,149 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.67 (60¢) | $48,000 | — | ⏳ Pendiente |
-| BreakTheBank | Chicago Cubs vs. Washington Nationals | Washington Nationals | 2.50 (40¢) | $30,149 | — | ⏳ Pendiente |
-| 0x1670700a2A23d24Ae699fA523eBd90ADfa0d0B65-1768523373235 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.35 (74¢) | $10,615 | — | ⏳ Pendiente |
-| 0x1670700a2A23d24Ae699fA523eBd90ADfa0d0B65-1768523373235 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.35 (74¢) | $10,615 | — | ⏳ Pendiente |
