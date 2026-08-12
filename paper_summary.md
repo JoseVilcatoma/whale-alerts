@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 04:58:26 (hora de Perú)
+Actualizado: 2026-08-12 05:00:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 29 | 16 | 1 | +189.61 USD |
+| BBQChickenisthebesttt | 29 | 16 | 2 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 4 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 114 | 97 | 7 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 249 | 151 | 10 | +5.66 USD |
+| UpTheBlues | 249 | 151 | 12 | +5.66 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 85 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 86 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | BrotherObama | 7 | 17 | 6 | -121.31 USD |
@@ -453,6 +453,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 53% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Nashville SC win on 2026-08-12? | No (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: Deportivo Toluca FC (-1.5) | FC Dallas (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 42% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | APIA Leichhardt FC vs. Sydney United 58  | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Spirit vs JiJieHao (BO1) | Spirit (BUY) | 89% | 0.00 | ⏳ pendiente | — |
@@ -479,7 +483,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: EDward Gaming vs Anyone's Legend (B | EDward Gaming (BUY) | 24% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | EDward Gaming (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: FUT Esports vs TYLOO (BO | TYLOO (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | Aurora Gaming (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 59% | 0.00 | ⏳ pendiente | — |
