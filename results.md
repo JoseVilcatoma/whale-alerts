@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 06:57:59 (hora de Perú)
+Actualizado: 2026-08-12 07:00:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1021**  ($21,316,051 en total)
+- Apuestas registradas: **1022**  ($21,326,603 en total)
 - Resueltas: **790** — 486 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 231
+- Pendientes: 232
 - Apostadores distintos: 113
 
 ### Balance
@@ -73,6 +73,7 @@ _(mostrando los 40 de mayor monto, de 113 en total)_
 |---|---|---|---|---|---|---|
 | Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | magic | 2.13 (47¢) | $10,352 | — | ⏳ Pendiente |
 | ohehe | Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins | JD Gaming | 1.79 (56¢) | $10,553 | — | ⏳ Pendiente |
+| ohehe | Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins | JD Gaming | 1.79 (56¢) | $10,553 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.25 (80¢) | $29,500 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.25 (80¢) | $29,500 | — | ⏳ Pendiente |
 | SineNooneEI | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.56 (64¢) | $12,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 113 en total)_
 | 0x8d83598759 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.56 (64¢) | $11,088 | — | ⏳ Pendiente |
 | Lakersfan111 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.78 (36¢) | $16,516 | — | ⏳ Pendiente |
 | 0x8d83598759 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.56 (64¢) | $11,088 | — | ⏳ Pendiente |
-| SineNooneEI | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.28 (78¢) | $10,140 | — | ⏳ Pendiente |
