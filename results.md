@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 19:18:11 (hora de Perú)
+Actualizado: 2026-08-11 19:20:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **236**  ($5,026,357 en total)
+- Apuestas registradas: **238**  ($5,054,075 en total)
 - Resueltas: **114** — 91 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 122
+- Pendientes: 124
 - Apostadores distintos: 80
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 19 | 0 | 0 | 100% | $415,077 | +$195,517 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 11 | — | $347,753 | — |
 | Weaseloftheweek | 3 | 1 | 1 | ⚠️ 75% (4) | $303,804 | +$7,132 |
-| AV23IUa | 4 | 0 | 5 | ⚠️ 100% (4) | $280,573 | +$109,102 |
+| AV23IUa | 4 | 0 | 6 | ⚠️ 100% (4) | $296,173 | +$109,102 |
 | BreakTheBank | 0 | 0 | 4 | — | $267,835 | — |
 | pleaseplease123 | 0 | 0 | 7 | — | $227,132 | — |
 | SDTrading | 0 | 0 | 11 | — | $201,460 | — |
@@ -59,11 +59,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | monkeymashingkeyboard | 0 | 0 | 2 | — | $26,186 | — |
 | SevenTons | 0 | 0 | 2 | — | $25,996 | — |
 | dv-pm | 0 | 0 | 2 | — | $24,463 | — |
+| acount3 | 0 | 0 | 2 | — | $24,236 | — |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 0 | 2 | — | $23,866 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 0 | 2 | 0 | ⚠️ 0% (2) | $22,858 | -$22,858 |
 | Marcoli | 1 | 0 | 0 | ⚠️ 100% (1) | $20,000 | +$14,483 |
-| winwin518168 | 0 | 0 | 1 | — | $20,000 | — |
 
 _(mostrando los 40 de mayor monto, de 80 en total)_
 
@@ -72,6 +72,8 @@ _(mostrando los 40 de mayor monto, de 80 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | acount3 | Seattle Mariners vs. New York Yankees | New York Yankees | 1.56 (64¢) | $12,118 | — | ⏳ Pendiente |
+| acount3 | Seattle Mariners vs. New York Yankees | New York Yankees | 1.56 (64¢) | $12,118 | — | ⏳ Pendiente |
+| AV23IUa | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under 10.5 | 1.92 (52¢) | $15,600 | — | ⏳ Pendiente |
 | AV23IUa | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under 10.5 | 1.92 (52¢) | $15,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Kei Nishikori vs Francisco Comesana | Kei Nishikori | 2.33 (43¢) | $10,262 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Kei Nishikori vs Francisco Comesana | Francisco Comesana | 1.75 (57¢) | $13,600 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 80 en total)_
 | SevenTons | National Bank Open: Belinda Bencic vs Coco Gauff | Belinda Bencic | 2.44 (41¢) | $13,358 | — | ⏳ Pendiente |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | National Bank Open: Belinda Bencic vs Coco Gauff | Belinda Bencic | 2.63 (38¢) | $15,970 | — | ⏳ Pendiente |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | National Bank Open: Belinda Bencic vs Coco Gauff | Belinda Bencic | 2.50 (40¢) | $16,800 | — | ⏳ Pendiente |
-| spnir | National Bank Open: Belinda Bencic vs Coco Gauff | Coco Gauff | 1.67 (60¢) | $12,000 | — | ⏳ Pendiente |
-| SevenTons | National Bank Open: Belinda Bencic vs Coco Gauff | Belinda Bencic | 2.56 (39¢) | $12,639 | — | ⏳ Pendiente |
