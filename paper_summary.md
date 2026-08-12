@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 14:23:56 (hora de Perú)
+Actualizado: 2026-08-12 14:25:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $561.31
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | dv-pm | 4 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 4 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 12 | +60.51 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 65 | 69 | 3 | +23.18 USD |
@@ -453,6 +453,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Tampa Bay Rays (-2.5) | Athletics (BUY) | 46% | 40.59 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Tampa Bay Rays (-1.5) | Athletics (BUY) | 25% | 12.08 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 52% | 0.93 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 46% | 0.76 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 50% | 1.66 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Tampa Bay Rays (-2.5) | Athletics (BUY) | 45% | 2.83 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Philadelphia Phillies (-1.5) | St. Louis Cardinals (BUY) | 58% | 0.66 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 48% | 28.18 | ⏳ pendiente | — |
 | Sassy-Bucket | Houston Astros vs. San Francisco Giants: | Over (BUY) | 48% | 25.75 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 43% | 77.97 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 14% | 1.19 | ⏳ pendiente | — |
@@ -475,11 +483,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 28% | 0.00 | ❌ perdida | -0.00 |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 63% | 0.00 | ❌ perdida | -0.00 |
 | UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Inter Miami CF win on 2026-08-12? | No (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Club León FC win on 2026-08-12? | Yes (BUY) | 28% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Red Bull Bragantino vs. CA Mineiro: Red  | Under (BUY) | 22% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will SE Palmeiras vs. Club Cerro Porteño | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 72% | 0.00 | ❌ perdida | -0.00 |
-| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 60% | 0.00 | ❌ perdida | -0.00 |
-| jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ✅ ganada | +0.00 |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 53% | 0.00 | ❌ perdida | -0.00 |
