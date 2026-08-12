@@ -25074,5 +25074,18 @@
     "usd": 11179.274800000001,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1714,
+    "timestamp": 1786568684,
+    "username": "WTSA",
+    "wallet": "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8",
+    "slug": "lib-pal-cep-2026-08-12-total-2pt5",
+    "title": "SE Palmeiras vs. Club Cerro Porte\u00f1o: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 10103.019,
+    "odds_at_bet": 47,
+    "status": "pending"
   }
 ]
