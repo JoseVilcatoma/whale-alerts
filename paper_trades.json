@@ -80418,5 +80418,29 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786507551.783051,
     "fills": 1
+  },
+  {
+    "timestamp": 1786507658,
+    "timestamp_added": 1786507658.8200047,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-kc-lad-2026-08-11-spread-home-1pt5",
+    "title": "Spread: Los Angeles Dodgers (-1.5)",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "whale_usd": 128.5,
+    "whale_pct": 0.131,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 24,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "quavoo",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786507658.820013,
+    "fills": 1
   }
 ]
