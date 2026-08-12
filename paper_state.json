@@ -1,5 +1,5 @@
 {
-  "bankroll": 427.00051375844583,
+  "bankroll": 427.12622804416014,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -17665,6 +17665,21 @@
       "timestamp": 1786503739.141419,
       "bankroll": 427.0,
       "event": "lost: ferrariChampions2026 \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 6.5"
+    },
+    {
+      "timestamp": 1786504115.3321836,
+      "bankroll": 427.13,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: cobblemon vs Gr\u00eamio Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786504118.3204322,
+      "bankroll": 427.13,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: cobblemon vs Gr\u00eamio Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786504118.4206502,
+      "bankroll": 427.13,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: cobblemon vs Gr\u00eamio Esports - Map 2 Winner"
     }
   ]
 }
