@@ -3518,5 +3518,18 @@
     "usd": 11500.0,
     "odds_at_bet": 46,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 165,
+    "timestamp": 1786496808,
+    "username": "tennischamp",
+    "wallet": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
+    "slug": "mlb-tb-oak-2026-08-11",
+    "title": "Tampa Bay Rays vs. Athletics",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 10666.24,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]
