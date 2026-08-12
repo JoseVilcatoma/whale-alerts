@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 09:57:04 (hora de Perú)
+Actualizado: 2026-08-12 09:59:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1339**  ($30,219,985 en total)
-- Resueltas: **938** — 566 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 401
-- Apostadores distintos: 124
+- Apuestas registradas: **1344**  ($30,393,982 en total)
+- Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
+- Pendientes: 405
+- Apostadores distintos: 125
 
 ### Balance
 
-- **Resultado de los apostadores: +$239,488** sobre $19,565,839 apostados (ROI **+1.2%**)
+- **Resultado de los apostadores: +$313,973** sobre $19,576,210 apostados (ROI **+1.6%**)
 - Copiando $100 fijo en cada una: **+$1,274** sobre $92,000 (ROI **+1.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 50 | 28% | $4,012,523 | -$789,178 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 51 | 28% | $4,115,179 | -$789,178 |
 | Djdjdjekekek | 36 | 12 | 49 | 75% | $3,663,043 | +$573,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 0 | 36% | $2,039,712 | -$421,290 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
@@ -65,17 +65,22 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ...............................lala | 3 | 6 | 0 | 33% | $148,465 | -$64,383 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
 
-_(mostrando los 40 de mayor monto, de 124 en total)_
+_(mostrando los 40 de mayor monto, de 125 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| JaJa668 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.11 (90¢) | $10,380 | — | ⏳ Pendiente |
+| vv-vv | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.12 (89¢) | $17,532 | — | ⏳ Pendiente |
+| retroactivesource | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.12 (89¢) | $30,000 | — | ⏳ Pendiente |
+| redvinny | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.11 (90¢) | $13,430 | — | ⏳ Pendiente |
 | redvinny | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.11 (90¢) | $13,430 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.96 (51¢) | $102,655 | — | ⏳ Pendiente |
 | spnir | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.96 (51¢) | $10,200 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | BetBoom Team | 2.13 (47¢) | $14,891 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | BetBoom Team | 2.04 (49¢) | $135,625 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.96 (51¢) | $102,655 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.67 (60¢) | $10,852 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.67 (60¢) | $10,852 | — | ⏳ Pendiente |
 | skyman44 | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | BetBoom Team | 2.17 (46¢) | $10,358 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 124 en total)_
 | ActionReaction | LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 2.63 (38¢) | $25,983 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner | Bilibili Gaming | 1.61 (62¢) | $30,703 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner | Bilibili Gaming | 1.61 (62¢) | $30,703 | — | ⏳ Pendiente |
-| ActionReaction | LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 2.63 (38¢) | $25,983 | — | ⏳ Pendiente |
-| Marcoli | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.45 (69¢) | $48,478 | — | ⏳ Pendiente |
-| Marcoli | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.47 (68¢) | $36,522 | — | ⏳ Pendiente |
-| Marcoli | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.47 (68¢) | $36,522 | — | ⏳ Pendiente |
-| suntori | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 9.09 (11¢) | $10,371 | — | ⏳ Pendiente |
