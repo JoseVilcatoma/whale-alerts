@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 16:49:00 (hora de Perú)
+Actualizado: 2026-08-12 16:51:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1943**  ($52,749,983 en total)
+- Apuestas registradas: **1950**  ($52,901,890 en total)
 - Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
-- Pendientes: 594
+- Pendientes: 601
 - Apostadores distintos: 173
 
 ### Balance
@@ -24,13 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 50 | 43% | $8,769,375 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 51 | 43% | $8,791,814 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 14 | 35% | $2,916,482 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 47 | 77% | $2,601,386 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 27 | 0% | $2,067,863 | -$1,082,423 |
-| AV23IUa | 33 | 24 | 21 | 58% | $2,012,237 | +$171,257 |
-| Weaseloftheweek | 19 | 2 | 4 | 90% | $1,878,742 | +$872,236 |
+| AV23IUa | 33 | 24 | 23 | 58% | $2,040,986 | +$171,257 |
+| Weaseloftheweek | 19 | 2 | 5 | 90% | $1,916,615 | +$872,236 |
 | BreakTheBank | 0 | 12 | 8 | 0% | $1,483,516 | -$803,506 |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
 | S-Works | 0 | 0 | 6 | — | $688,936 | — |
@@ -55,8 +55,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | casualbet2020 | 0 | 0 | 6 | — | $304,949 | — |
 | Feromont | 9 | 0 | 4 | 100% | $304,372 | +$55,222 |
+| johnny234 | 4 | 11 | 7 | 27% | $301,127 | -$101,100 |
 | fRibrenlc | 9 | 7 | 6 | 56% | $290,662 | +$15,968 |
-| johnny234 | 4 | 11 | 6 | 27% | $288,192 | -$101,100 |
 | basementdweller3000 | 6 | 3 | 6 | 67% | $282,034 | +$34,747 |
 | five5120 | 7 | 9 | 2 | 44% | $266,115 | -$84,525 |
 | ThornyDevil | 2 | 6 | 1 | 25% | $254,880 | -$207,394 |
@@ -71,7 +71,14 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $10,290 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.47 (68¢) | $22,439 | — | ⏳ Pendiente |
+| DonaldinhoTrumpito | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.47 (68¢) | $19,907 | — | ⏳ Pendiente |
+| AV23IUa | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $18,459 | — | ⏳ Pendiente |
 | johnny234 | Houston Astros vs. San Francisco Giants | San Francisco Giants | 1.92 (52¢) | $12,936 | — | ⏳ Pendiente |
+| johnny234 | Houston Astros vs. San Francisco Giants | San Francisco Giants | 1.92 (52¢) | $12,936 | — | ⏳ Pendiente |
+| Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.17 (46¢) | $37,873 | — | ⏳ Pendiente |
+| ThisAgain | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.85 (54¢) | $30,004 | — | ⏳ Pendiente |
 | ThisAgain | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.85 (54¢) | $30,004 | — | ⏳ Pendiente |
 | Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.17 (46¢) | $37,873 | — | ⏳ Pendiente |
 | Weaseloftheweek | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $36,719 | — | ⏳ Pendiente |
@@ -124,10 +131,3 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 | 0x076d…8d4c | Will Paris Saint-Germain win on 2026-08-12? | No | 2.00 (50¢) | $12,656 | — | ⏳ Pendiente |
 | one8tyfive | Will Paris Saint-Germain win on 2026-08-12? | Yes | 2.00 (50¢) | $11,930 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Paris Saint-Germain win on 2026-08-12? | No | 2.00 (50¢) | $12,656 | — | ⏳ Pendiente |
-| one8tyfive | Will Paris Saint-Germain win on 2026-08-12? | Yes | 2.00 (50¢) | $11,930 | — | ⏳ Pendiente |
-| vtcchampion52 | Will Kai and Speed beat the Minecraft challenge by August 13? | Yes | 1.47 (68¢) | $24,185 | — | ⏳ Pendiente |
-| 0x760f…326a | Will Paris Saint-Germain win on 2026-08-12? | Yes | 2.00 (50¢) | $13,360 | — | ⏳ Pendiente |
-| 0x760f…326a | Will Paris Saint-Germain win on 2026-08-12? | Yes | 2.00 (50¢) | $13,360 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain win on 2026-08-12? | No | 2.00 (50¢) | $11,105 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain win on 2026-08-12? | No | 2.00 (50¢) | $11,105 | — | ⏳ Pendiente |
-| johnny234 | Houston Astros vs. San Francisco Giants | Houston Astros | 1.85 (54¢) | $15,000 | — | ⏳ Pendiente |
