@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 04:25:14 (hora de Perú)
+Actualizado: 2026-08-12 04:27:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 39 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 47 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | BrotherObama | 7 | 17 | 4 | -121.31 USD |
@@ -452,6 +452,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 79% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 88% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 79% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 89% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 79% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 83% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | BIG (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 83% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Luminosity vs GamerLegio | GamerLegion (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FaZe Up Next vs B8 Acade | FaZe Up Next (BUY) | 24% | 0.00 | ⏳ pendiente | — |
@@ -474,11 +482,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: Luminosity vs GamerLegio | GamerLegion (BUY) | 69% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | Nongshim Red Force (BUY) | 23% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | DN SOOPers (BUY) | 78% | 1.30 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Luminosity vs GamerLegio | GamerLegion (BUY) | 64% | 0.99 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | DN SOOPers (BUY) | 72% | 7.40 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | DN SOOPers (BUY) | 65% | 0.69 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | DN SOOPers (BUY) | 72% | 2.50 | ⏳ pendiente | — |
-| BrotherObama | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 18% | 30.83 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | Nongshim Red Force (BUY) | 82% | 1.77 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | Nongshim Red Force (BUY) | 82% | 1.45 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | Nongshim Red Force (BUY) | 90% | 2.62 | ⏳ pendiente | — |
