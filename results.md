@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 13:49:10 (hora de Perú)
+Actualizado: 2026-08-12 13:51:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1572**  ($39,415,440 en total)
+- Apuestas registradas: **1577**  ($39,563,614 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 631
+- Pendientes: 636
 - Apostadores distintos: 158
 
 ### Balance
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 67 | 28% | $6,098,694 | -$789,178 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 68 | 28% | $6,185,470 | -$789,178 |
 | Djdjdjekekek | 36 | 12 | 77 | 75% | $5,657,802 | +$573,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 8 | 36% | $2,478,932 | -$421,290 |
-| ferrariChampions2026 | 90 | 29 | 32 | 76% | $2,152,792 | +$113,934 |
+| ferrariChampions2026 | 90 | 29 | 33 | 76% | $2,168,667 | +$113,934 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
 | Weaseloftheweek | 11 | 2 | 7 | 85% | $1,636,724 | +$518,388 |
 | pleaseplease123 | 0 | 44 | 12 | 0% | $1,472,115 | -$1,082,423 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | HongYunX | 0 | 0 | 2 | — | $346,005 | — |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 0 | 11 | ⚠️ 100% (5) | $325,163 | +$87,105 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 0 | 12 | ⚠️ 100% (5) | $338,449 | +$87,105 |
 | theowalcott | 21 | 0 | 0 | 100% | $318,833 | +$226,502 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | ExplosiveNinja | 8 | 0 | 13 | 100% | $281,127 | +$137,489 |
@@ -71,11 +71,16 @@ _(mostrando los 40 de mayor monto, de 158 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.14 (88¢) | $86,776 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 8.33 (12¢) | $13,286 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.18 (85¢) | $15,875 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.18 (85¢) | $15,875 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.18 (85¢) | $15,875 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Minnesota Twins | Minnesota Twins | 2.00 (50¢) | $11,290 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.67 (60¢) | $29,404 | — | ⏳ Pendiente |
 | Ditto321 | Will Paris Saint-Germain win on 2026-08-12? | No | 2.50 (40¢) | $10,000 | — | ⏳ Pendiente |
+| Ditto321 | Will Paris Saint-Germain win on 2026-08-12? | No | 2.50 (40¢) | $10,000 | — | ⏳ Pendiente |
+| sbsigner | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $22,237 | — | ⏳ Pendiente |
 | sbsigner | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $22,237 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $49,800 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under 9.5 | 1.89 (53¢) | $86,830 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 158 en total)_
 | 0x5aD49Cd574dF6888a0fE1d2B522F334988f06866-1766098504363 | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.72 (58¢) | $12,953 | — | ⏳ Pendiente |
 | HongYunX | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.72 (58¢) | $173,002 | — | ⏳ Pendiente |
 | BreakTheBank | Will Paris Saint-Germain win on 2026-08-12? | No | 2.38 (42¢) | $57,563 | — | ⏳ Pendiente |
-| HongYunX | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.72 (58¢) | $173,002 | — | ⏳ Pendiente |
-| BreakTheBank | Will Paris Saint-Germain win on 2026-08-12? | No | 2.38 (42¢) | $57,563 | — | ⏳ Pendiente |
-| gggjajnsnn | LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins | Dark Passage | 3.33 (30¢) | $20,000 | — | ⏳ Pendiente |
-| bloodmaster | LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins | Bushido Wildcats | 1.43 (70¢) | $44,662 | — | ⏳ Pendiente |
-| bloodmaster | LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins | Bushido Wildcats | 1.43 (70¢) | $44,662 | — | ⏳ Pendiente |

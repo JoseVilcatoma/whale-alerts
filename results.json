@@ -20476,5 +20476,70 @@
     "usd": 15874.6,
     "odds_at_bet": 85,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1340,
+    "timestamp": 1786560309,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 15874.6,
+    "odds_at_bet": 85,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1341,
+    "timestamp": 1786560276,
+    "username": "Ditto321",
+    "wallet": "0x30c16e063c3be66d93acf14c06e2741e348f9f91",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 10000.0,
+    "odds_at_bet": 40,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1342,
+    "timestamp": 1786560204,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 22237.2889,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1343,
+    "timestamp": 1786560673,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 86775.92,
+    "odds_at_bet": 88,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1344,
+    "timestamp": 1786560673,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 13285.7076,
+    "odds_at_bet": 12,
+    "status": "pending"
   }
 ]
