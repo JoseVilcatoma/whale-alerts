@@ -79159,5 +79159,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786545565.7045946,
     "fills": 1
+  },
+  {
+    "timestamp": 1786545709,
+    "timestamp_added": 1786545709.4686632,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col-kob-deb-2026-08-12-kob",
+    "title": "Will FC K\u00f8benhavn win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 370.89,
+    "whale_pct": 0.388,
+    "paper_stake_usd": 1.74,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786545709.4686728,
+    "fills": 1
   }
 ]
