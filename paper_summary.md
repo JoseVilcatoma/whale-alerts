@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 05:31:54 (hora de Perú)
+Actualizado: 2026-08-12 05:33:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 29 | 16 | 6 | +189.61 USD |
+| BBQChickenisthebesttt | 29 | 16 | 9 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 4 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
-| jtwyslljy | 0 | 1 | 2 | +0.00 USD |
+| jtwyslljy | 0 | 1 | 3 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | donthackme | 0 | 0 | 9 | +0.00 USD |
 | Gaditima | 0 | 0 | 5 | +0.00 USD |
@@ -456,6 +456,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| jtwyslljy | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | Dplus KIA (BUY) | 65% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Los Angeles FC (-1.5) | Querétaro FC (BUY) | 49% | 0.00 | ⏳ pendiente | — |
@@ -482,7 +486,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Nashville SC win on 2026-08-12? | No (BUY) | 56% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Spread: Deportivo Toluca FC (-1.5) | FC Dallas (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 42% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | APIA Leichhardt FC vs. Sydney United 58  | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
