@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 05:07:14 (hora de Perú)
+Actualizado: 2026-08-12 05:09:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **947**  ($19,561,621 en total)
+- Apuestas registradas: **948**  ($19,582,940 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 158
-- Apostadores distintos: 100
+- Pendientes: 159
+- Apostadores distintos: 101
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | paquitomillonario | 0 | 6 | 0 | ⚠️ 0% (6) | $83,776 | -$83,776 |
 | BaccaratRoulette | 0 | 3 | 0 | ⚠️ 0% (3) | $81,180 | -$81,180 |
 
-_(mostrando los 40 de mayor monto, de 100 en total)_
+_(mostrando los 40 de mayor monto, de 101 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| suanlimao6 | LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 1.59 (63¢) | $21,319 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.12 (89¢) | $17,509 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.12 (89¢) | $17,509 | — | ⏳ Pendiente |
 | Marcoli | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.61 (62¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 100 en total)_
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $20,666 | +$1,556 | ✅ Ganada |
 | AV23IUa | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.85 (54¢) | $10,800 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.85 (54¢) | $10,800 | — | ⏳ Pendiente |
-| AV23IUa | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.92 (52¢) | $10,400 | — | ⏳ Pendiente |
