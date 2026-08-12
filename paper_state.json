@@ -1,5 +1,5 @@
 {
-  "bankroll": 429.4201473167872,
+  "bankroll": 429.42838261090486,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -17490,6 +17490,26 @@
       "timestamp": 1786500687.803095,
       "bankroll": 429.42,
       "event": "lost: swisstony \u2014 Spread: Washington Nationals (-1.5)"
+    },
+    {
+      "timestamp": 1786500977.6205761,
+      "bankroll": 429.42,
+      "event": "lost: quavoo \u2014 CA Talleres vs. CA Lan\u00fas: O/U 1.5"
+    },
+    {
+      "timestamp": 1786500978.8812258,
+      "bankroll": 428.92,
+      "event": "lost: UpTheBlues \u2014 CA Talleres vs. CA Lan\u00fas: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786500979.8689485,
+      "bankroll": 428.05,
+      "event": "lost: UpTheBlues \u2014 CA Talleres vs. CA Lan\u00fas: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786500980.5074956,
+      "bankroll": 429.43,
+      "event": "won: UpTheBlues \u2014 CA Talleres vs. CA Lan\u00fas: O/U 2.5"
     }
   ]
 }
