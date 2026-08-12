@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 17:16:53 (hora de Perú)
+Actualizado: 2026-08-12 17:18:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $516.43
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 3 | 9 | 2 | +15.41 USD |
-| HomeRunHazard | 116 | 99 | 6 | +12.27 USD |
+| HomeRunHazard | 116 | 99 | 7 | +12.27 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 200 | 112 | 2 | -39.45 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| 1winstreak1 | 133 | 103 | 25 | -59.66 USD |
+| 1winstreak1 | 133 | 103 | 27 | -59.66 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
@@ -453,11 +453,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-phi-stl-2026-08-12-total-8pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-phi-stl-2026-08-12-total-9pt5 | 1winstreak1, HomeRunHazard |
 | mlb-sea-nyy-2026-08-12-total-8pt5 | Sassy-Bucket, Weaseloftheweek |
+| mlb-col-ari-2026-08-12-spread-away-1pt5 | 1winstreak1, HomeRunHazard |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Colorado Rockies (-1.5) | Colorado Rockies (BUY) | 73% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 37% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Colorado Rockies (-1.5) | Colorado Rockies (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 60% | 0.18 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 23% | 1.61 | ⏳ pendiente | — |
 | Sassy-Bucket | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
@@ -485,6 +489,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | CA Platense vs. CD Coquimbo Unido: O/U 2 | Over (BUY) | 30% | 32.85 | ⏳ pendiente | — |
 | WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 45% | 5.06 | ⏳ pendiente | — |
 | WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 45% | 100.84 | ⏳ pendiente | — |
-| WTSA | Spread: SE Palmeiras (-1.5) | SE Palmeiras (BUY) | 48% | 122.45 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: San Francisco Giants (-2.5) | San Francisco Giants (BUY) | 28% | 1.11 | ⏳ pendiente | — |
-| 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 97% | 1.50 | ✅ ganada | +0.05 |
