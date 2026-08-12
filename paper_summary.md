@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 18:39:41 (hora de Perú)
+Actualizado: 2026-08-12 18:41:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $637.22
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 67 | 70 | 3 | +104.98 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 13 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 15 | +60.51 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -49,12 +49,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 202 | 112 | 25 | -39.02 USD |
+| RN1 | 202 | 112 | 27 | -39.02 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 14 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 17 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -449,12 +449,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
 | lib-pal-cep-2026-08-12-draw | RN1, UpTheBlues |
+| lec-mia-leo-2026-08-12-mia | UpTheBlues, ferrariChampions2026 |
 | lib-pal-cep-2026-08-12-cep | RN1, UpTheBlues |
 | mlb-sea-nyy-2026-08-12-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-bos-tor-2026-08-12-total-7pt5 | RN1, ferrariChampions2026 |
 | lib-pal-cep-2026-08-12-pal | RN1, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-12-spread-home-1pt5 | 1winstreak1, ferrariChampions2026 |
-| mlb-sea-nyy-2026-08-12-spread-away-2pt5 | RN1, ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-sea-nyy-2026-08-12-spread-away-2pt5 | 1winstreak1, RN1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-bos-tor-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
 | lib-pal-cep-2026-08-12-total-0pt5 | RN1, ferrariChampions2026 |
 | mlb-mil-sd-2026-08-12-total-5pt5 | 1winstreak1, ferrariChampions2026 |
@@ -469,6 +470,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Red Bull Bragantino vs. CA Mineiro: O/U  | Under (BUY) | 67% | 0.96 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 51% | 3.90 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Seattle Mariners (-2.5) | New York Yankees (BUY) | 52% | 1.01 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Inter Miami CF win on 2026-08-12? | No (BUY) | 46% | 0.66 | ⏳ pendiente | — |
+| RN1 | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 33% | 0.72 | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 61% | 2.20 | ⏳ pendiente | — |
+| RN1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 67% | 2.02 | ⏳ pendiente | — |
 | RN1 | CA Platense vs. CD Coquimbo Unido: O/U 2 | Under (BUY) | 94% | 2.23 | ⏳ pendiente | — |
 | RN1 | CA Platense vs. CD Coquimbo Unido: O/U 1 | Under (BUY) | 49% | 1.78 | ⏳ pendiente | — |
 | RN1 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 52% | 1.48 | ⏳ pendiente | — |
@@ -492,10 +500,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Cleveland Guardians (-2.5) | Cleveland Guardians (BUY) | 14% | 1.07 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 24% | 1.84 | ⏳ pendiente | — |
 | RN1 | Spread: Detroit Tigers (-1.5) | Detroit Tigers (BUY) | 38% | 0.75 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Detroit Tigers (-1.5) | Cleveland Guardians (BUY) | 62% | 2.29 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Detroit Tigers (-2.5) | Detroit Tigers (BUY) | 31% | 3.50 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Cleveland Guardians (-1.5) | Detroit Tigers (BUY) | 75% | 8.59 | ⏳ pendiente | — |
-| 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 55% | 7.11 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Montevideo City Torque win on 2026- | Yes (BUY) | 69% | 0.64 | ⏳ pendiente | — |
-| RN1 | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 63% | 1.36 | ⏳ pendiente | — |
-| ferrariChampions2026 | CA Tigre vs. Montevideo City Torque: O/U | Under (BUY) | 55% | 1.45 | ⏳ pendiente | — |
