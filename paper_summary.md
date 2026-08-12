@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 00:47:47 (hora de Perú)
+Actualizado: 2026-08-12 00:49:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $449.13
@@ -17,7 +17,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| AV23IUa | 3 | 3 | 11 | +46.51 USD |
+| 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
+| AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 65 | 69 | 0 | +23.18 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -355,7 +356,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-10-spread-home-2pt5 | HomeRunHazard, swisstony |
 | mlb-tex-laa-2026-08-10-spread-home-1pt5 | HomeRunHazard, swisstony |
 | sud-boc-rec1-2026-08-11-team-total-away-0pt5 | UpTheBlues, swisstony |
-| wnba-phx-la-2026-08-11-total-179pt5 | ferrariChampions2026, quavoo, swisstony |
+| wnba-phx-la-2026-08-11-total-179pt5 | ferrariChampions2026, quavoo |
 | uel-sab-lar-2026-08-11-lar | UpTheBlues, swisstony |
 | uel-sab-lar-2026-08-11-spread-away-1pt5 | UpTheBlues, swisstony |
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
@@ -375,22 +376,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-hle1-dnf-2026-08-11 | BBQChickenisthebesttt, BrotherObama, Lakersfan111, ferrariChampions2026 |
 | lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
 | ucl-sf-agf-2026-08-11-agf | UpTheBlues, dv-pm, swisstony |
-| wnba-phx-la-2026-08-11-total-178pt5 | HomeRunHazard, swisstony |
 | lol-hle1-dnf-2026-08-11-game3 | BrotherObama, lzh1 |
 | lol-nsea-dkc-2026-08-11-game2 | BBQChickenisthebesttt, lzh1 |
 | mlb-bos-tor-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-cin-cws-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket, wr0ngw4yb3tt0r |
 | col-csk1-pao-2026-08-11-pao | UpTheBlues, swisstony |
-| wnba-wsh-las-2026-08-11-total-168pt5 | 1winstreak1, HomeRunHazard, swisstony |
 | mlb-kc-lad-2026-08-11-total-7pt5 | dv-pm, ferrariChampions2026 |
 | mlb-chc-wsh-2026-08-11-total-8pt5 | HomeRunHazard, RN1, Talvez10, dv-pm, ferrariChampions2026, swisstony |
 | wnba-nyl-ind-2026-08-11-spread-home-3pt5 | quavoo, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-0pt5 | quavoo, swisstony |
-| wnba-wsh-las-2026-08-11-spread-home-7pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
+| wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-1pt5 | RN1, UpTheBlues, swisstony |
 | wnba-nyl-ind-2026-08-11-total-192pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-lyo-spp-2026-08-11-lyo | UpTheBlues, swisstony |
-| wnba-phx-la-2026-08-11-spread-home-2pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
+| wnba-phx-la-2026-08-11-spread-home-2pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-pit-mia-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-2pt5 | RN1, swisstony |
 | ucl-kai-pls-2026-08-11-pls | RN1, swisstony |
@@ -403,11 +402,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-sf-agf-2026-08-11-sf | UpTheBlues, swisstony |
 | uel-sab-lar-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | ucl-sf-agf-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
-| wnba-wsh-las-2026-08-11-total-170pt5 | 1winstreak1, swisstony, wr0ngw4yb3tt0r |
-| wnba-phx-la-2026-08-11-spread-away-1pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026, swisstony |
-| mlb-tb-oak-2026-08-11-total-9pt5 | 1winstreak1, HomeRunHazard, Sassy-Bucket, swisstony |
+| wnba-phx-la-2026-08-11-spread-away-1pt5 | HomeRunHazard, ferrariChampions2026 |
+| mlb-tb-oak-2026-08-11-total-9pt5 | HomeRunHazard, Sassy-Bucket |
 | uel-sab-lar-2026-08-11-draw | ferrariChampions2026, swisstony |
-| wnba-phx-la-2026-08-11-total-177pt5 | 1winstreak1, ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
+| wnba-phx-la-2026-08-11-total-177pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | ucl-nec-oly-2026-08-11-nec | UpTheBlues, quavoo |
 | col-al-bra-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 | col-al-bra-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
@@ -440,31 +438,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lib-flu-cir-2026-08-11-total-0pt5 | RN1, swisstony |
 | mlb-cle-det-2026-08-11-spread-away-1pt5 | HomeRunHazard, RN1 |
 | mlb-cle-det-2026-08-11-total-9pt5 | ferrariChampions2026, swisstony |
-| mlb-hou-sf-2026-08-11-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
-| lec-tig-vwh-2026-08-11-tig | UpTheBlues, quavoo |
 | mlb-bos-tor-2026-08-11-spread-home-1pt5 | RN1, ferrariChampions2026 |
 | wnba-wsh-las-2026-08-11-spread-home-6pt5 | ferrariChampions2026, quavoo |
-| lec-rsl-jua-2026-08-11-rsl | UpTheBlues, ferrariChampions2026 |
-| mlb-col-ari-2026-08-11-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
-| sud-bol-sao-2026-08-11-total-3pt5 | ferrariChampions2026, swisstony |
-| wnba-phx-la-2026-08-11 | 1winstreak1, ferrariChampions2026, swisstony |
-| wnba-phx-la-2026-08-11-total-180pt5 | ferrariChampions2026, swisstony |
-| wnba-wsh-las-2026-08-11 | 1winstreak1, ferrariChampions2026, swisstony |
-| mlb-kc-lad-2026-08-11-spread-home-1pt5 | 1winstreak1, RN1, quavoo, swisstony |
-| wnba-phx-la-2026-08-11-total-181pt5 | 1winstreak1, ferrariChampions2026 |
-| mlb-tb-oak-2026-08-11-total-10pt5 | 1winstreak1, RN1, swisstony |
-| wnba-wsh-las-2026-08-11-spread-home-8pt5 | 1winstreak1, swisstony |
-| wnba-wsh-las-2026-08-11-total-169pt5 | 1winstreak1, swisstony |
-| mlb-mil-sd-2026-08-11-total-8pt5 | 1winstreak1, swisstony |
-| lec-rsl-jua-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
-| lec-tig-vwh-2026-08-11-spread-away-1pt5 | UpTheBlues, swisstony |
-| wnba-wsh-las-2026-08-11-total-167pt5 | 1winstreak1, swisstony |
-| mlb-col-ari-2026-08-11-spread-away-2pt5 | 1winstreak1, RN1 |
-| mlb-col-ari-2026-08-11-total-7pt5 | 1winstreak1, wr0ngw4yb3tt0r |
-| mlb-col-ari-2026-08-11-spread-away-1pt5 | 1winstreak1, wr0ngw4yb3tt0r |
-| mlb-kc-lad-2026-08-11-total-9pt5 | 1winstreak1, HomeRunHazard |
-| usc-psg-av-2026-08-12-av | UpTheBlues, swisstony |
+| mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
