@@ -78305,5 +78305,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786523884.3463004,
     "fills": 1
+  },
+  {
+    "timestamp": 1786523989,
+    "timestamp_added": 1786523989.820913,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-dnf-ns-2026-08-12",
+    "title": "LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 3299.999999,
+    "whale_pct": 23.872,
+    "paper_stake_usd": 30.83,
+    "odds_at_bet": 18,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786523989.8209202,
+    "fills": 1
   }
 ]
