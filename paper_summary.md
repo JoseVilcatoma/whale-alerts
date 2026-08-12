@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:52:05 (hora de Perú)
+Actualizado: 2026-08-11 21:54:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $427.34
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 9 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 10 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 2 | 9 | 1 | +15.06 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 242 | 150 | 14 | +4.48 USD |
+| UpTheBlues | 242 | 150 | 17 | +4.48 USD |
 | HomeRunHazard | 104 | 92 | 15 | +4.38 USD |
 | Sassy-Bucket | 7 | 6 | 2 | +3.19 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -46,8 +46,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 167 | 112 | 22 | -28.34 USD |
-| quavoo | 152 | 186 | 33 | -33.89 USD |
+| swisstony | 167 | 112 | 26 | -28.34 USD |
+| quavoo | 152 | 186 | 34 | -33.89 USD |
 | RN1 | 199 | 111 | 6 | -38.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -448,14 +448,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 | sud-bol-sao-2026-08-11-total-3pt5 | ferrariChampions2026, swisstony |
 | wnba-phx-la-2026-08-11 | 1winstreak1, ferrariChampions2026, swisstony |
+| wnba-phx-la-2026-08-11-total-180pt5 | ferrariChampions2026, swisstony |
 | wnba-wsh-las-2026-08-11 | 1winstreak1, ferrariChampions2026, swisstony |
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | 1winstreak1, quavoo, swisstony |
 | mlb-tb-oak-2026-08-11-total-10pt5 | 1winstreak1, RN1, swisstony |
+| mlb-mil-sd-2026-08-11-total-8pt5 | 1winstreak1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 77% | 0.87 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 52% | 0.67 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Kansas City Royals (-2.5) | Kansas City Royals (BUY) | 13% | 0.59 | ⏳ pendiente | — |
+| quavoo | Will Real Madrid win on 2026-08-12? | Yes (BUY) | 69% | 0.83 | ⏳ pendiente | — |
+| UpTheBlues | Spread: FC Juárez (-1.5) | Real Salt Lake (BUY) | 98% | 0.67 | ⏳ pendiente | — |
+| swisstony | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 48% | 0.49 | ⏳ pendiente | — |
+| UpTheBlues | Will Real Salt Lake win on 2026-08-11? | Yes (BUY) | 74% | 1.53 | ⏳ pendiente | — |
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 69% | 0.51 | ⏳ pendiente | — |
+| UpTheBlues | Spread: Real Salt Lake (-1.5) | FC Juárez (BUY) | 61% | 0.64 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 35% | 0.64 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 94% | 3.24 | ⏳ pendiente | — |
 | UpTheBlues | Will Real Salt Lake win on 2026-08-11? | Yes (BUY) | 73% | 5.28 | ⏳ pendiente | — |
@@ -477,12 +488,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 49% | 1.13 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under (BUY) | 43% | 16.56 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 59% | 1.24 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Houston Astros (-1.5) | San Francisco Giants (BUY) | 53% | 0.46 | ⏳ pendiente | — |
-| swisstony | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 58% | 1.08 | ⏳ pendiente | — |
-| quavoo | Counter-Strike: Luminosity vs GamerLegio | GamerLegion (BUY) | 48% | 0.72 | ⏳ pendiente | — |
-| swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 54% | 0.69 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 56% | 0.70 | ⏳ pendiente | — |
-| swisstony | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 56% | 0.77 | ⏳ pendiente | — |
-| swisstony | Spread: Las Vegas Aces (-8.5) | Washington Mystics (BUY) | 55% | 0.55 | ⏳ pendiente | — |
-| quavoo | Counter-Strike: BIG vs Aurora Gaming (BO | BIG (BUY) | 39% | 1.30 | ⏳ pendiente | — |
-| RN1 | Tampa Bay Rays vs. Athletics: O/U 10.5 | Over (BUY) | 47% | 0.51 | ⏳ pendiente | — |
