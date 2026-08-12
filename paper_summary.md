@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 18:23:18 (hora de Perú)
+Actualizado: 2026-08-12 18:25:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $636.67
@@ -16,10 +16,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 67 | 70 | 0 | +104.98 USD |
+| wr0ngw4yb3tt0r | 67 | 70 | 1 | +104.98 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 3 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 4 | +60.51 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -49,12 +49,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 158 | 209 | 2 | -28.31 USD |
-| RN1 | 202 | 112 | 6 | -39.02 USD |
+| RN1 | 202 | 112 | 8 | -39.02 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 4 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 8 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -448,13 +448,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-phi-stl-2026-08-12-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
+| lib-pal-cep-2026-08-12-draw | RN1, UpTheBlues |
 | mlb-bos-tor-2026-08-12-total-7pt5 | RN1, ferrariChampions2026 |
 | lib-pal-cep-2026-08-12-pal | RN1, ferrariChampions2026 |
+| mlb-sea-nyy-2026-08-12-spread-away-2pt5 | RN1, ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-bos-tor-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Seattle Mariners (-2.5) | Seattle Mariners (BUY) | 51% | 6.46 | ⏳ pendiente | — |
+| ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 33% | 2.52 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Chicago Cubs (-1.5) | Washington Nationals (BUY) | 69% | 1.09 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Seattle Mariners (-2.5) | Seattle Mariners (BUY) | 47% | 4.03 | ⏳ pendiente | — |
+| ferrariChampions2026 | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 34% | 1.44 | ⏳ pendiente | — |
+| RN1 | Will SE Palmeiras vs. Club Cerro Porteño | No (BUY) | 61% | 1.28 | ⏳ pendiente | — |
+| RN1 | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 37% | 2.57 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Boston Red Sox (-1.5) | Toronto Blue Jays (BUY) | 63% | 4.51 | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 47% | 20.02 | ⏳ pendiente | — |
 | RN1 | Spread: Seattle Mariners (-2.5) | Seattle Mariners (BUY) | 47% | 11.65 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | New York Mets (BUY) | 55% | 13.43 | ⏳ pendiente | — |
@@ -477,11 +488,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Spread: FC København (-2.5) | Debreceni VSC (BUY) | 69% | 0.00 | ❌ perdida | -0.00 |
 | UpTheBlues | Spread: CA Platense (-1.5) | CD Coquimbo Unido (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| BrotherObama | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 27% | 0.00 | ✅ ganada | +0.00 |
-| UpTheBlues | GKS GieKSa Katowice vs. MH Hapoel Tel Av | Over (BUY) | 72% | 0.00 | ✅ ganada | +0.00 |
-| UpTheBlues | Spread: Eintracht Frankfurt (-3.5) | Eintracht Frankfurt (BUY) | 28% | 0.00 | ✅ ganada | +0.00 |
-| dv-pm | Will GKS GieKSa Katowice win on 2026-08- | No (BUY) | 53% | 0.00 | ❌ perdida | -0.00 |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 28% | 0.00 | ❌ perdida | -0.00 |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 63% | 0.00 | ❌ perdida | -0.00 |
-| UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Inter Miami CF win on 2026-08-12? | No (BUY) | 51% | 0.00 | ⏳ pendiente | — |
