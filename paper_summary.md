@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 20:43:23 (hora de Perú)
+Actualizado: 2026-08-11 20:45:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $308.99
-**Retorno acumulado:** -69.10%
+**Bankroll actual:** $308.86
+**Retorno acumulado:** -69.11%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,20 +20,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 10 | +25.74 USD |
-| wr0ngw4yb3tt0r | 55 | 60 | 19 | +21.11 USD |
+| wr0ngw4yb3tt0r | 55 | 61 | 18 | +21.11 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 2 | 6 | 4 | +17.41 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| HomeRunHazard | 94 | 86 | 31 | +5.74 USD |
+| HomeRunHazard | 96 | 86 | 29 | +5.74 USD |
+| Sassy-Bucket | 3 | 6 | 6 | +3.19 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| Sassy-Bucket | 0 | 6 | 9 | +0.00 USD |
 | donthackme | 0 | 0 | 9 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
@@ -46,16 +46,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 122 | 101 | 60 | -28.98 USD |
-| RN1 | 174 | 99 | 40 | -33.33 USD |
-| quavoo | 151 | 182 | 33 | -33.43 USD |
+| swisstony | 122 | 102 | 59 | -28.98 USD |
+| RN1 | 175 | 100 | 38 | -33.33 USD |
+| quavoo | 151 | 184 | 31 | -34.20 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 616 | 468 | 25 | -103.61 USD |
-| BrotherObama | 7 | 5 | 12 | -112.72 USD |
+| ferrariChampions2026 | 617 | 468 | 24 | -103.61 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
+| BrotherObama | 7 | 13 | 4 | -115.27 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
@@ -441,7 +441,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
 | Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 45% | 1.04 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 36% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 36% | 0.00 | ❌ perdida | -0.00 |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 20% | 0.00 | ⏳ pendiente | — |
@@ -461,7 +461,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Avaí FC vs. CR Brasil end in a draw | No (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Avaí FC win on 2026-08-11? | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | RN1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 78% | 0.00 | ✅ ganada | +0.00 |
-| RN1 | Spread: New York Mets (-1.5) | Atlanta Braves (BUY) | 66% | 0.00 | ⏳ pendiente | — |
+| RN1 | Spread: New York Mets (-1.5) | Atlanta Braves (BUY) | 66% | 0.00 | ✅ ganada | +0.00 |
 | ferrariChampions2026 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Fluminense FC vs. CS Independiente  | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 63% | 0.00 | ⏳ pendiente | — |
