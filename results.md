@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 07:02:07 (hora de Perú)
+Actualizado: 2026-08-12 07:04:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1022**  ($21,326,603 en total)
+- Apuestas registradas: **1029**  ($21,558,451 en total)
 - Resueltas: **790** — 486 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 232
-- Apostadores distintos: 113
+- Pendientes: 239
+- Apostadores distintos: 114
 
 ### Balance
 
@@ -25,10 +25,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 41 | 0 | 41% | $1,811,081 | -$218,949 |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 21 | 28% | $1,670,421 | -$743,370 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 22 | 28% | $1,695,017 | -$743,370 |
 | AV23IUa | 23 | 11 | 27 | 68% | $1,601,781 | +$348,929 |
 | ferrariChampions2026 | 79 | 25 | 2 | 76% | $1,555,768 | +$58,976 |
-| Djdjdjekekek | 27 | 3 | 12 | 90% | $1,238,402 | +$494,952 |
+| Djdjdjekekek | 27 | 3 | 15 | 90% | $1,375,170 | +$494,952 |
 | Weaseloftheweek | 11 | 2 | 3 | 85% | $1,218,338 | +$518,388 |
 | pleaseplease123 | 0 | 39 | 2 | 0% | $1,024,640 | -$991,234 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
@@ -43,9 +43,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | umeax | 0 | 0 | 2 | — | $234,739 | — |
 | mikesports | 3 | 3 | 7 | ⚠️ 50% (6) | $211,470 | -$24,073 |
 | wr0ngw4yb3tt0r | 7 | 6 | 0 | 54% | $209,577 | -$12,560 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 9 | — | $202,447 | — |
 | ActionReaction | 0 | 0 | 7 | — | $193,576 | — |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 8 | — | $191,684 | — |
 | xifutloong3 | 6 | 0 | 0 | ⚠️ 100% (6) | $190,324 | +$142,407 |
+| Lakersfan111 | 1 | 0 | 10 | ⚠️ 100% (1) | $171,118 | +$9,167 |
 | Feromont | 7 | 0 | 0 | ⚠️ 100% (7) | $162,799 | +$43,867 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
 | johnny234 | 3 | 3 | 5 | ⚠️ 50% (6) | $162,310 | -$7,214 |
@@ -57,7 +58,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | RN1 | 7 | 4 | 0 | 64% | $144,192 | +$24,012 |
 | 0x076d…8d4c | 7 | 0 | 3 | ⚠️ 100% (7) | $137,506 | +$37,453 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
-| Lakersfan111 | 1 | 0 | 9 | ⚠️ 100% (1) | $129,884 | +$9,167 |
 | TAIWANNUMBERONE | 0 | 1 | 7 | ⚠️ 0% (1) | $123,809 | -$17,114 |
 | ExplosiveNinja | 0 | 0 | 10 | — | $122,231 | — |
 | DonaldinhoTrumpito | 0 | 0 | 6 | — | $112,406 | — |
@@ -65,12 +65,19 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
 | Mylifeisover | 6 | 0 | 0 | ⚠️ 100% (6) | $106,449 | +$90,679 |
 
-_(mostrando los 40 de mayor monto, de 113 en total)_
+_(mostrando los 40 de mayor monto, de 114 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.39 (72¢) | $10,764 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 3.57 (28¢) | $24,596 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | magic | 1.39 (72¢) | $64,778 | — | ⏳ Pendiente |
+| JaJa668 | LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | EDward Gaming | 1.64 (61¢) | $18,487 | — | ⏳ Pendiente |
+| Lakersfan111 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 2.50 (40¢) | $41,233 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | magic | 1.67 (60¢) | $61,637 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | magic | 2.13 (47¢) | $10,352 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | magic | 2.13 (47¢) | $10,352 | — | ⏳ Pendiente |
 | ohehe | Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins | JD Gaming | 1.79 (56¢) | $10,553 | — | ⏳ Pendiente |
 | ohehe | Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins | JD Gaming | 1.79 (56¢) | $10,553 | — | ⏳ Pendiente |
@@ -124,10 +131,3 @@ _(mostrando los 40 de mayor monto, de 113 en total)_
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $10,343 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $10,343 | — | ⏳ Pendiente |
 | Lakersfan111 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.50 (40¢) | $10,334 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.67 (60¢) | $15,000 | — | ⏳ Pendiente |
-| Lakersfan111 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.50 (40¢) | $10,334 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.67 (60¢) | $15,000 | — | ⏳ Pendiente |
-| Lakersfan111 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.78 (36¢) | $16,516 | — | ⏳ Pendiente |
-| 0x8d83598759 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.56 (64¢) | $11,088 | — | ⏳ Pendiente |
-| Lakersfan111 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.78 (36¢) | $16,516 | — | ⏳ Pendiente |
-| 0x8d83598759 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.56 (64¢) | $11,088 | — | ⏳ Pendiente |
