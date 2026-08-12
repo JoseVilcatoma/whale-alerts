@@ -17428,5 +17428,18 @@
     "usd": 102655.35,
     "odds_at_bet": 51,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1104,
+    "timestamp": 1786546508,
+    "username": "redvinny",
+    "wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 13429.512,
+    "odds_at_bet": 90,
+    "status": "pending"
   }
 ]
