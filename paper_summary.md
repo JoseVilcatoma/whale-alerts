@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 03:12:48 (hora de Perú)
+Actualizado: 2026-08-12 03:14:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $443.71
@@ -54,10 +54,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 3 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 5 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
-| BrotherObama | 7 | 17 | 0 | -121.31 USD |
+| BrotherObama | 7 | 17 | 2 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
@@ -451,6 +451,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 45% | 71.39 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | Nongshim Red Force (BUY) | 42% | 2.62 | ⏳ pendiente | — |
+| BrotherObama | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 45% | 129.08 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | DN SOOPers (BUY) | 55% | 9.69 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | DN SOOPers (BUY) | 56% | 1.64 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force -  | Nongshim Red Force (BUY) | 50% | 2.04 | ⏳ pendiente | — |
 | quavoo | Will Manchester United win on 2026-08-12 | Yes (BUY) | 49% | 0.51 | ⏳ pendiente | — |
@@ -477,7 +481,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 48% | 1.25 | ✅ ganada | +1.35 |
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 62% | 0.63 | ✅ ganada | +0.39 |
 | RN1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 54% | 0.54 | ✅ ganada | +0.46 |
-| ferrariChampions2026 | Real Salt Lake vs. FC Juárez: O/U 2.5 | Over (BUY) | 62% | 0.58 | ✅ ganada | +0.36 |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 52% | 3.81 | ✅ ganada | +3.52 |
-| ferrariChampions2026 | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 52% | 0.55 | ❌ perdida | -0.55 |
-| ferrariChampions2026 | Spread: Las Vegas Aces (-6.5) | Washington Mystics (BUY) | 49% | 1.55 | ❌ perdida | -1.55 |
