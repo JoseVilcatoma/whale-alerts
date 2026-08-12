@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 15:49:21 (hora de Perú)
+Actualizado: 2026-08-12 15:51:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $523.33
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 158 | 209 | 2 | -28.31 USD |
 | RN1 | 200 | 112 | 2 | -39.45 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
-| 1winstreak1 | 121 | 95 | 36 | -58.68 USD |
+| 1winstreak1 | 121 | 95 | 37 | -58.68 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
@@ -456,6 +456,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: San Francisco Giants (-2.5) | San Francisco Giants (BUY) | 28% | 1.11 | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 97% | 1.50 | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 26% | 0.88 | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 76% | 17.06 | ⏳ pendiente | — |
@@ -485,4 +486,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 67% | 3.04 | ❌ perdida | -3.04 |
 | 1winstreak1 | Spread: Minnesota Twins (-3.5) | Baltimore Orioles (BUY) | 89% | 24.43 | ✅ ganada | +3.02 |
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 72% | 0.67 | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 66% | 0.97 | ✅ ganada | +0.50 |
