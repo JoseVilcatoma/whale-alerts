@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 05:23:48 (hora de Perú)
+Actualizado: 2026-08-12 05:25:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **951**  ($19,624,330 en total)
+- Apuestas registradas: **952**  ($19,636,819 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 162
+- Pendientes: 163
 - Apostadores distintos: 101
 
 ### Balance
@@ -45,11 +45,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 6 | 0 | 0 | ⚠️ 100% (6) | $190,324 | +$142,407 |
 | Feromont | 7 | 0 | 0 | ⚠️ 100% (7) | $162,799 | +$43,867 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
+| johnny234 | 3 | 3 | 5 | ⚠️ 50% (6) | $162,310 | -$7,214 |
 | winwin518168 | 0 | 10 | 0 | 0% | $160,808 | -$160,808 |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,408 | +$115,433 |
 | ThornyDevil | 2 | 0 | 4 | ⚠️ 100% (2) | $158,751 | +$14,240 |
 | fRibrenlc | 8 | 4 | 0 | 67% | $156,073 | +$36,412 |
-| johnny234 | 3 | 3 | 4 | ⚠️ 50% (6) | $149,821 | -$7,214 |
 | ...............................lala | 3 | 6 | 0 | 33% | $148,465 | -$64,383 |
 | RN1 | 7 | 4 | 0 | 64% | $144,192 | +$24,012 |
 | 0x076d…8d4c | 7 | 0 | 3 | ⚠️ 100% (7) | $137,506 | +$37,453 |
@@ -72,6 +72,7 @@ _(mostrando los 40 de mayor monto, de 101 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.56 (64¢) | $18,210 | — | ⏳ Pendiente |
+| johnny234 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.78 (36¢) | $12,489 | — | ⏳ Pendiente |
 | johnny234 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.78 (36¢) | $12,489 | — | ⏳ Pendiente |
 | MeiGuNiuBi | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.11 (90¢) | $10,691 | — | ⏳ Pendiente |
 | suanlimao6 | LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 1.59 (63¢) | $21,319 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 101 en total)_
 | johnny234 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 1.61 (62¢) | $13,804 | -$13,804 | ❌ Perdida |
 | johnny234 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 1.61 (62¢) | $13,804 | -$13,804 | ❌ Perdida |
 | johnny234 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 1.61 (62¢) | $13,804 | -$13,804 | ❌ Perdida |
-| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $20,666 | +$1,556 | ✅ Ganada |
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $20,666 | +$1,556 | ✅ Ganada |
