@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:25:01 (hora de Perú)
+Actualizado: 2026-08-11 21:27:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $429.43
@@ -21,13 +21,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
-| wr0ngw4yb3tt0r | 57 | 68 | 9 | +18.69 USD |
+| wr0ngw4yb3tt0r | 59 | 68 | 7 | +18.69 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
-| SDTrading | 2 | 6 | 4 | +17.41 USD |
+| SDTrading | 2 | 8 | 2 | +17.41 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | UpTheBlues | 241 | 150 | 11 | +4.48 USD |
-| HomeRunHazard | 98 | 89 | 24 | +4.38 USD |
+| HomeRunHazard | 98 | 91 | 22 | +4.38 USD |
 | Sassy-Bucket | 7 | 6 | 2 | +3.19 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
@@ -46,14 +46,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 163 | 109 | 16 | -28.34 USD |
+| swisstony | 163 | 109 | 18 | -28.34 USD |
 | quavoo | 152 | 186 | 32 | -33.89 USD |
-| RN1 | 197 | 110 | 9 | -38.43 USD |
+| RN1 | 197 | 111 | 8 | -38.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 629 | 471 | 29 | -101.53 USD |
+| ferrariChampions2026 | 631 | 472 | 26 | -101.53 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 7 | 13 | 4 | -115.27 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -381,6 +381,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-bos-tor-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-cin-cws-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket, wr0ngw4yb3tt0r |
 | col-csk1-pao-2026-08-11-pao | UpTheBlues, swisstony |
+| wnba-wsh-las-2026-08-11-total-168pt5 | HomeRunHazard, swisstony |
 | mlb-kc-lad-2026-08-11-total-7pt5 | dv-pm, ferrariChampions2026 |
 | mlb-chc-wsh-2026-08-11-total-8pt5 | HomeRunHazard, RN1, Talvez10, dv-pm, ferrariChampions2026, swisstony |
 | wnba-nyl-ind-2026-08-11-spread-home-3pt5 | quavoo, wr0ngw4yb3tt0r |
@@ -442,12 +443,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-wsh-las-2026-08-11-spread-home-6pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 | sud-bol-sao-2026-08-11-total-3pt5 | ferrariChampions2026, swisstony |
+| wnba-phx-la-2026-08-11 | ferrariChampions2026, swisstony |
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 56% | 0.70 | ⏳ pendiente | — |
+| swisstony | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 56% | 0.77 | ⏳ pendiente | — |
 | swisstony | Spread: Las Vegas Aces (-8.5) | Washington Mystics (BUY) | 55% | 0.55 | ⏳ pendiente | — |
 | quavoo | Counter-Strike: BIG vs Aurora Gaming (BO | BIG (BUY) | 39% | 1.30 | ⏳ pendiente | — |
 | RN1 | Tampa Bay Rays vs. Athletics: O/U 10.5 | Over (BUY) | 47% | 0.51 | ⏳ pendiente | — |
@@ -476,5 +480,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 6.67 | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 47% | 1.01 | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 49% | 0.34 | ⏳ pendiente | — |
-| ferrariChampions2026 | Real Salt Lake vs. FC Juárez: O/U 2.5 | Over (BUY) | 60% | 0.37 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Real Salt Lake win on 2026-08-11? | No (BUY) | 44% | 0.59 | ⏳ pendiente | — |
