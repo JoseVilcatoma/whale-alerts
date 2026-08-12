@@ -80040,5 +80040,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786567796.2998319,
     "fills": 1
+  },
+  {
+    "timestamp": 1786567980,
+    "timestamp_added": 1786567981.6997638,
+    "username": "WTSA",
+    "wallet": "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8",
+    "slug": "lib-pal-cep-2026-08-12-spread-home-1pt5",
+    "title": "Spread: SE Palmeiras (-1.5)",
+    "outcome": "SE Palmeiras",
+    "side": "BUY",
+    "whale_usd": 11249.5721,
+    "whale_pct": 23.398,
+    "paper_stake_usd": 122.45,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786567983.8155787,
+    "fills": 4
   }
 ]
