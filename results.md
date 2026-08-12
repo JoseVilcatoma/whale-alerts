@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 12:50:45 (hora de Perú)
+Actualizado: 2026-08-12 12:52:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1517**  ($38,035,617 en total)
+- Apuestas registradas: **1520**  ($38,146,895 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 576
-- Apostadores distintos: 145
+- Pendientes: 579
+- Apostadores distintos: 148
 
 ### Balance
 
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NemecGhudini | 3 | 2 | 5 | ⚠️ 60% (5) | $161,645 | -$17,067 |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,408 | +$115,433 |
 
-_(mostrando los 40 de mayor monto, de 145 en total)_
+_(mostrando los 40 de mayor monto, de 148 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Daemon99 | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $17,163 | — | ⏳ Pendiente |
+| bigspending | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $83,537 | — | ⏳ Pendiente |
+| 0way | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $10,578 | — | ⏳ Pendiente |
 | HongYunX | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.72 (58¢) | $173,002 | — | ⏳ Pendiente |
 | BreakTheBank | Will Paris Saint-Germain win on 2026-08-12? | No | 2.38 (42¢) | $57,563 | — | ⏳ Pendiente |
 | gggjajnsnn | LoL: Bushido Wildcats vs Dark Passage (BO3) - TCL Play-Ins | Dark Passage | 3.33 (30¢) | $20,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 145 en total)_
 | casualbet2020 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $29,650 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.33 (30¢) | $49,857 | — | ⏳ Pendiente |
 | fRibrenlc | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $15,778 | — | ⏳ Pendiente |
-| ARI100KRAT | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $10,650 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.45 (29¢) | $32,071 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.57 (28¢) | $45,143 | — | ⏳ Pendiente |
