@@ -24944,5 +24944,31 @@
     "usd": 11760.9745,
     "odds_at_bet": 55,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1704,
+    "timestamp": 1786566901,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "wta-gauff-rybakin-2026-08-12",
+    "title": "National Bank Open: Coco Gauff vs Elena Rybakina",
+    "outcome": "Coco Gauff",
+    "side": "BUY",
+    "usd": 11760.9745,
+    "odds_at_bet": 55,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1705,
+    "timestamp": 1786566732,
+    "username": "0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592",
+    "wallet": "0x71ac3cbb40647cb6da6fa0dc2923999ad9c4d2b1",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 28999.999997329884,
+    "odds_at_bet": 82,
+    "status": "pending"
   }
 ]
