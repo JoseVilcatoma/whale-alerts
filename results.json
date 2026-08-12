@@ -24918,5 +24918,31 @@
     "usd": 28999.999996999995,
     "odds_at_bet": 82,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1702,
+    "timestamp": 1786566564,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-mil-sd-2026-08-12",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 12905.829997797182,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1703,
+    "timestamp": 1786566900,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "wta-gauff-rybakin-2026-08-12",
+    "title": "National Bank Open: Coco Gauff vs Elena Rybakina",
+    "outcome": "Coco Gauff",
+    "side": "BUY",
+    "usd": 11760.9745,
+    "odds_at_bet": 55,
+    "status": "pending"
   }
 ]
