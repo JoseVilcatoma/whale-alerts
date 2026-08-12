@@ -12461,5 +12461,44 @@
     "usd": 12181.6985,
     "odds_at_bet": 85,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 774,
+    "timestamp": 1786531534,
+    "username": "xfile",
+    "wallet": "0xd2678dc3b152a54900f28b0e849afe2049df9dc6",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 12900.0,
+    "odds_at_bet": 43,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 775,
+    "timestamp": 1786531534,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 47307.1272,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 776,
+    "timestamp": 1786531257,
+    "username": "vip-kazah",
+    "wallet": "0x1305b58eb5387539914d9c7e0ce83c971c3346d2",
+    "slug": "cs2-ts7-jjh-2026-08-12",
+    "title": "Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 12181.6985,
+    "odds_at_bet": 85,
+    "status": "pending"
   }
 ]
