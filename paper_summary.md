@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 10:29:37 (hora de Perú)
+Actualizado: 2026-08-12 10:31:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $372.49
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 114 | 97 | 7 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 249 | 151 | 35 | +5.66 USD |
+| UpTheBlues | 249 | 151 | 39 | +5.66 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
@@ -455,6 +455,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will San Marcos de Arica vs. Union San F | No (BUY) | 81% | 1.08 | ⏳ pendiente | — |
+| UpTheBlues | SK Rapid Wien vs. Paide Linnameeskond: B | No (BUY) | 54% | 0.65 | ⏳ pendiente | — |
+| UpTheBlues | Will Debreceni VSC win on 2026-08-12? | No (BUY) | 93% | 6.63 | ⏳ pendiente | — |
+| UpTheBlues | Will FC København win on 2026-08-12? | Yes (BUY) | 78% | 27.16 | ⏳ pendiente | — |
 | UpTheBlues | Spread: SE Palmeiras (-1.5) | Club Cerro Porteño (BUY) | 55% | 0.42 | ⏳ pendiente | — |
 | UpTheBlues | Will Union San Felipe win on 2026-08-12? | No (BUY) | 90% | 2.76 | ⏳ pendiente | — |
 | UpTheBlues | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 29% | 0.83 | ⏳ pendiente | — |
@@ -481,7 +485,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 40% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 59% | 0.00 | ⏳ pendiente | — |
