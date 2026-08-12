@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 12:30:01 (hora de Perú)
+Actualizado: 2026-08-12 12:32:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1468**  ($35,758,779 en total)
+- Apuestas registradas: **1471**  ($35,890,786 en total)
 - Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 529
+- Pendientes: 532
 - Apostadores distintos: 138
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 63 | 28% | $5,919,349 | -$789,178 |
-| Djdjdjekekek | 36 | 12 | 73 | 75% | $5,306,602 | +$573,956 |
+| Djdjdjekekek | 36 | 12 | 74 | 75% | $5,356,460 | +$573,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 2 | 36% | $2,135,161 | -$421,290 |
 | ferrariChampions2026 | 90 | 29 | 19 | 76% | $1,970,786 | +$113,934 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
@@ -53,10 +53,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | johnny234 | 3 | 4 | 9 | ⚠️ 43% (7) | $224,256 | -$21,018 |
 | Feromont | 9 | 0 | 0 | 100% | $208,666 | +$55,222 |
 | TAIWANNUMBERONE | 0 | 1 | 13 | ⚠️ 0% (1) | $206,762 | -$17,114 |
+| casualbet2020 | 0 | 0 | 4 | — | $203,299 | — |
 | fRibrenlc | 9 | 4 | 2 | 69% | $200,256 | +$46,634 |
 | winwin518168 | 0 | 12 | 0 | 0% | $191,010 | -$191,010 |
 | xifutloong3 | 6 | 0 | 0 | ⚠️ 100% (6) | $190,324 | +$142,407 |
-| casualbet2020 | 0 | 0 | 3 | — | $173,650 | — |
 | RN1 | 8 | 5 | 0 | 62% | $168,739 | +$11,250 |
 | basementdweller3000 | 0 | 0 | 9 | — | $164,772 | — |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
@@ -75,6 +75,9 @@ _(mostrando los 40 de mayor monto, de 138 en total)_
 | wr0ngw4yb3tt0r | Spread: Baltimore Orioles (-1.5) | Minnesota Twins | 1.61 (62¢) | $10,343 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Minnesota Twins | Baltimore Orioles | 2.00 (50¢) | $80,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Minnesota Twins | Minnesota Twins | 2.00 (50¢) | $79,396 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.33 (30¢) | $49,857 | — | ⏳ Pendiente |
+| hansama231 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $52,500 | — | ⏳ Pendiente |
+| casualbet2020 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $29,650 | — | ⏳ Pendiente |
 | hansama231 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $52,500 | — | ⏳ Pendiente |
 | casualbet2020 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $29,650 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.33 (30¢) | $49,857 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 138 en total)_
 | ArturitoFilito | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $12,890 | — | ⏳ Pendiente |
 | ArturitoFilito | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $12,890 | — | ⏳ Pendiente |
 | 0x99F0d31fdced5B3A0e5Ee2867730A6644a6C9495-1779037126382 | Exact Score: Paris Saint-Germain 0 - 0 Aston Villa? | No | 1.08 (93¢) | $15,064 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Hamburg: Raul Brancaccio vs Marvin Moeller | Marvin Moeller | 1.15 (87¢) | $10,041 | — | ⏳ Pendiente |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.85 (26¢) | $12,881 | — | ⏳ Pendiente |
-| fRibrenlc | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $16,406 | — | ⏳ Pendiente |
