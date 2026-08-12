@@ -1,5 +1,5 @@
 {
-  "bankroll": 372.7768976800958,
+  "bankroll": 448.0685645832317,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -17965,6 +17965,81 @@
       "timestamp": 1786509251.139428,
       "bankroll": 372.78,
       "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces"
+    },
+    {
+      "timestamp": 1786509306.383051,
+      "bankroll": 399.42,
+      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-2.5)"
+    },
+    {
+      "timestamp": 1786509306.7046685,
+      "bankroll": 402.73,
+      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-3.5)"
+    },
+    {
+      "timestamp": 1786509307.0371478,
+      "bankroll": 411.64,
+      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 6.5"
+    },
+    {
+      "timestamp": 1786509307.3647275,
+      "bankroll": 418.41,
+      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 5.5"
+    },
+    {
+      "timestamp": 1786509312.174435,
+      "bankroll": 424.44,
+      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 6.5"
+    },
+    {
+      "timestamp": 1786509314.3895268,
+      "bankroll": 428.3,
+      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 5.5"
+    },
+    {
+      "timestamp": 1786509361.9573772,
+      "bankroll": 432.0,
+      "event": "won: quavoo \u2014 Spread: Las Vegas Aces (-6.5)"
+    },
+    {
+      "timestamp": 1786509364.0015213,
+      "bankroll": 430.45,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Las Vegas Aces (-6.5)"
+    },
+    {
+      "timestamp": 1786509364.302105,
+      "bankroll": 430.91,
+      "event": "won: RN1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1786509368.0854967,
+      "bankroll": 430.23,
+      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 167.5"
+    },
+    {
+      "timestamp": 1786509368.1856194,
+      "bankroll": 429.52,
+      "event": "lost: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 167.5"
+    },
+    {
+      "timestamp": 1786509369.3878236,
+      "bankroll": 428.93,
+      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 167.5"
+    },
+    {
+      "timestamp": 1786509371.2170851,
+      "bankroll": 437.4,
+      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 7.5"
+    },
+    {
+      "timestamp": 1786509372.3551486,
+      "bankroll": 452.38,
+      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 7.5"
+    },
+    {
+      "timestamp": 1786509372.455323,
+      "bankroll": 448.07,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 7.5"
     }
   ]
 }
