@@ -13204,5 +13204,31 @@
     "usd": 16703.297300000002,
     "odds_at_bet": 52,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 832,
+    "timestamp": 1786535312,
+    "username": "SineNooneEI",
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "slug": "lol-kt-dk-2026-08-12-game2",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 12800.0,
+    "odds_at_bet": 64,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 833,
+    "timestamp": 1786534827,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sea-nyy-2026-08-12-total-8pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 16703.297299956197,
+    "odds_at_bet": 52,
+    "status": "pending"
   }
 ]

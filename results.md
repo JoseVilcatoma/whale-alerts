@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 06:47:29 (hora de Perú)
+Actualizado: 2026-08-12 06:49:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1014**  ($21,193,843 en total)
+- Apuestas registradas: **1016**  ($21,223,346 en total)
 - Resueltas: **790** — 486 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 224
+- Pendientes: 226
 - Apostadores distintos: 112
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 79 | 25 | 2 | 76% | $1,555,768 | +$58,976 |
 | Djdjdjekekek | 27 | 3 | 11 | 90% | $1,228,050 | +$494,952 |
 | Weaseloftheweek | 11 | 2 | 3 | 85% | $1,218,338 | +$518,388 |
-| pleaseplease123 | 0 | 39 | 1 | 0% | $1,007,937 | -$991,234 |
+| pleaseplease123 | 0 | 39 | 2 | 0% | $1,024,640 | -$991,234 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
 | SDTrading | 25 | 6 | 0 | 81% | $566,130 | +$328,056 |
 | texaskid | 16 | 0 | 0 | 100% | $535,712 | +$405,912 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 112 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SineNooneEI | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.56 (64¢) | $12,800 | — | ⏳ Pendiente |
+| pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $16,703 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $16,703 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | KT Rolster | 2.70 (37¢) | $30,983 | — | ⏳ Pendiente |
 | ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.59 (63¢) | $52,261 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 112 en total)_
 | Weaseloftheweek | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.75 (57¢) | $47,307 | — | ⏳ Pendiente |
 | vip-kazah | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.18 (85¢) | $12,182 | — | ⏳ Pendiente |
 | vip-kazah | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.18 (85¢) | $12,182 | — | ⏳ Pendiente |
-| jackpeter888 | LoL: EDward Gaming vs Anyone's Legend - Game 2 Winner | Anyones Legend | 1.35 (74¢) | $11,152 | — | ⏳ Pendiente |
-| jackpeter888 | LoL: EDward Gaming vs Anyone's Legend - Game 2 Winner | Anyone's Legend | 1.35 (74¢) | $11,152 | — | ⏳ Pendiente |
