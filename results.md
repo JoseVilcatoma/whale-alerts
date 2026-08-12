@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 23:29:04 (hora de Perú)
+Actualizado: 2026-08-11 23:31:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **653**  ($13,571,992 en total)
-- Resueltas: **348** — 246 ganadas / 102 perdidas (**71%** de acierto)
-- Pendientes: 305
+- Apuestas registradas: **654**  ($13,585,796 en total)
+- Resueltas: **350** — 246 ganadas / 104 perdidas (**70%** de acierto)
+- Pendientes: 304
 - Apostadores distintos: 95
 
 ### Balance
 
-- **Resultado de los apostadores: +$838,033** sobre $7,870,522 apostados (ROI **+10.6%**)
+- **Resultado de los apostadores: +$827,015** sobre $7,901,922 apostados (ROI **+10.5%**)
 - Copiando $100 fijo en cada una: **+$3,161** sobre $34,000 (ROI **+9.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -58,12 +58,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mylifeisover | 4 | 0 | 0 | ⚠️ 100% (4) | $70,966 | +$60,453 |
 | phonesculptor | 0 | 2 | 4 | ⚠️ 0% (2) | $69,925 | -$27,600 |
 | 0b1 | 4 | 0 | 0 | ⚠️ 100% (4) | $69,706 | +$14,603 |
+| johnny234 | 2 | 0 | 2 | ⚠️ 100% (2) | $64,247 | +$21,984 |
 | AGUGava | 1 | 0 | 4 | ⚠️ 100% (1) | $62,888 | +$451 |
 | paquitomillonario | 0 | 2 | 2 | ⚠️ 0% (2) | $55,851 | -$24,779 |
 | Istaroth | 0 | 0 | 2 | — | $55,408 | — |
 | tennischamp | 2 | 0 | 3 | ⚠️ 100% (2) | $54,391 | +$1,685 |
 | BaccaratRoulette | 0 | 2 | 0 | ⚠️ 0% (2) | $54,120 | -$54,120 |
-| danielwolfmorales3pddb6dl6 | 0 | 2 | 2 | ⚠️ 0% (2) | $54,000 | -$30,000 |
 
 _(mostrando los 40 de mayor monto, de 95 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| johnny234 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 1.61 (62¢) | $13,804 | — | ⏳ Pendiente |
 | johnny234 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 1.61 (62¢) | $13,804 | — | ⏳ Pendiente |
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $20,666 | — | ⏳ Pendiente |
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $20,666 | — | ⏳ Pendiente |
@@ -83,8 +84,8 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $13,288 | — | ⏳ Pendiente |
 | ililili1lil1i1 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 3.57 (28¢) | $15,664 | — | ⏳ Pendiente |
 | swisstony | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.25 (80¢) | $11,832 | — | ⏳ Pendiente |
-| Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | — | ⏳ Pendiente |
-| Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | — | ⏳ Pendiente |
+| Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | -$5,509 | 💰 Vendida antes |
+| Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | -$5,509 | 💰 Vendida antes |
 | coali10 | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | Yes | 2.86 (35¢) | $10,407 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | No | 1.54 (65¢) | $19,188 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | No | 1.54 (65¢) | $19,188 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $18,762 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.85 (54¢) | $18,101 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $18,762 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.85 (54¢) | $18,101 | — | ⏳ Pendiente |
