@@ -80934,15 +80934,15 @@
     "title": "Cleveland Guardians vs. Detroit Tigers: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 78.87,
-    "whale_pct": 0.182,
+    "whale_usd": 236.61,
+    "whale_pct": 0.547,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 44,
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
-    "last_fill_at": 1786574142.7074862,
-    "fills": 1
+    "last_fill_at": 1786574158.0481384,
+    "fills": 3
   }
 ]
