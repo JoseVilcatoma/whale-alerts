@@ -1,5 +1,5 @@
 {
-  "bankroll": 445.50256852026916,
+  "bankroll": 446.1711399488406,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18015,6 +18015,16 @@
       "timestamp": 1786514225.5338924,
       "bankroll": 445.5,
       "event": "lost: quavoo \u2014 Columbus Crew vs. Pumas de la UNAM: O/U 2.5"
+    },
+    {
+      "timestamp": 1786515107.204972,
+      "bankroll": 446.17,
+      "event": "won: UpTheBlues \u2014 Will FC Cincinnati win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786515110.009963,
+      "bankroll": 446.17,
+      "event": "lost: quavoo \u2014 Will FC Cincinnati win on 2026-08-11?"
     }
   ]
 }
