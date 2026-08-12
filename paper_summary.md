@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 20:47:39 (hora de Perú)
+Actualizado: 2026-08-11 20:49:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $308.86
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 10 | +25.74 USD |
-| wr0ngw4yb3tt0r | 55 | 61 | 18 | +21.11 USD |
+| wr0ngw4yb3tt0r | 55 | 62 | 17 | +21.11 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 2 | 6 | 4 | +17.41 USD |
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 617 | 468 | 25 | -103.61 USD |
+| ferrariChampions2026 | 617 | 468 | 28 | -103.61 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 7 | 13 | 4 | -115.27 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -440,11 +440,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 49% | 0.34 | ⏳ pendiente | — |
+| ferrariChampions2026 | Real Salt Lake vs. FC Juárez: O/U 2.5 | Over (BUY) | 60% | 0.37 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Real Salt Lake win on 2026-08-11? | No (BUY) | 44% | 0.59 | ⏳ pendiente | — |
 | quavoo | Spread: Las Vegas Aces (-6.5) | Las Vegas Aces (BUY) | 50% | 3.70 | ⏳ pendiente | — |
 | ferrariChampions2026 | Estudiantes de La Plata vs. CD Universid | Over (BUY) | 61% | 0.37 | ⏳ pendiente | — |
 | Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 45% | 1.04 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 36% | 0.00 | ❌ perdida | -0.00 |
-| wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 59% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 59% | 0.00 | ❌ perdida | -0.00 |
 | wr0ngw4yb3tt0r | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 20% | 0.00 | ⏳ pendiente | — |
 | RN1 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 20% | 0.00 | ⏳ pendiente | — |
@@ -467,6 +470,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 86% | 0.00 | ⏳ pendiente | — |
 | swisstony | Will Fluminense FC vs. CS Independiente  | Yes (BUY) | 51% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will Fluminense FC win on 2026-08-11? | No (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| RN1 | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CS Independiente Rivadavia win on 2 | No (BUY) | 87% | 0.00 | ⏳ pendiente | — |
