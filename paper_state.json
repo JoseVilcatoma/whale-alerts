@@ -1,5 +1,5 @@
 {
-  "bankroll": 440.56794164926583,
+  "bankroll": 451.2602945904423,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18145,6 +18145,11 @@
       "timestamp": 1786523533.5387402,
       "bankroll": 440.57,
       "event": "lost: quavoo \u2014 Will Vancouver Whitecaps FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786525766.623381,
+      "bankroll": 451.26,
+      "event": "won: quavoo \u2014 Will Tigres de la UANL vs. Vancouver Whitecaps FC end in a draw?"
     }
   ]
 }
