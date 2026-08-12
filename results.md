@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 18:07:42 (hora de Perú)
+Actualizado: 2026-08-12 18:10:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2024**  ($54,565,761 en total)
+- Apuestas registradas: **2026**  ($54,593,363 en total)
 - Resueltas: **1353** — 804 ganadas / 549 perdidas (**59%** de acierto)
-- Pendientes: 671
+- Pendientes: 673
 - Apostadores distintos: 177
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 12 | 10 | 0% | $1,543,814 | -$803,506 |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
 | wr0ngw4yb3tt0r | 9 | 6 | 14 | 60% | $725,898 | +$13,912 |
-| Sassy-Bucket | 14 | 16 | 3 | 47% | $699,014 | -$118,892 |
+| Sassy-Bucket | 14 | 16 | 4 | 47% | $711,616 | -$118,892 |
 | S-Works | 0 | 0 | 6 | — | $688,936 | — |
 | musholius722 | 0 | 0 | 2 | — | $681,015 | — |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 0 | 0 | 10 | — | $606,368 | — |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 177 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Ditto321 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.67 (60¢) | $15,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | New York Mets vs. Atlanta Braves | New York Mets | 2.70 (37¢) | $12,603 | — | ⏳ Pendiente |
 | Weaseloftheweek | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.59 (63¢) | $32,414 | — | ⏳ Pendiente |
 | ferrariChampions2026 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 2.70 (37¢) | $19,362 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $36,750 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 177 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $36,568 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.82 (55¢) | $33,228 | — | ⏳ Pendiente |
-| Satisfied | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 2.22 (45¢) | $15,000 | — | ⏳ Pendiente |
-| Satisfied | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 2.22 (45¢) | $15,000 | — | ⏳ Pendiente |
