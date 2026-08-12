@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 17:46:10 (hora de Perú)
+Actualizado: 2026-08-12 17:48:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $487.96
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 9 | 5 | +165.22 USD |
-| theowalcott | 17 | 4 | 12 | +143.32 USD |
+| theowalcott | 17 | 4 | 15 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | wr0ngw4yb3tt0r | 67 | 70 | 0 | +104.98 USD |
 | dv-pm | 4 | 6 | 1 | +89.49 USD |
@@ -463,6 +463,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 45% | 0.00 | ⏳ pendiente | — |
@@ -490,6 +493,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 47% | 39.58 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Colorado Rockies (-1.5) | Colorado Rockies (BUY) | 75% | 1.80 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 43% | 0.85 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Colorado Rockies (-2.5) | Arizona Diamondbacks (BUY) | 53% | 0.67 | ⏳ pendiente | — |
-| Weaseloftheweek | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 52% | 1.02 | ⏳ pendiente | — |
-| Weaseloftheweek | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 52% | 1.69 | ⏳ pendiente | — |
