@@ -13230,5 +13230,18 @@
     "usd": 16703.297299956197,
     "odds_at_bet": 52,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 834,
+    "timestamp": 1786535409,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 29499.688000000002,
+    "odds_at_bet": 80,
+    "status": "pending"
   }
 ]
