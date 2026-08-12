@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 22:18:33 (hora de Perú)
+Actualizado: 2026-08-11 22:20:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **641**  ($13,400,930 en total)
+- Apuestas registradas: **642**  ($13,412,762 en total)
 - Resueltas: **348** — 246 ganadas / 102 perdidas (**71%** de acierto)
-- Pendientes: 293
+- Pendientes: 294
 - Apostadores distintos: 95
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.25 (80¢) | $11,832 | — | ⏳ Pendiente |
 | Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | — | ⏳ Pendiente |
 | Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | — | ⏳ Pendiente |
 | coali10 | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | Yes | 2.86 (35¢) | $10,407 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 | RN1 | Cincinnati Open, Qualification: Dominika Salkova vs Anna Blinkova | Anna Blinkova | 1.16 (86¢) | $10,136 | — | ⏳ Pendiente |
 | RN1 | Cincinnati Open, Qualification: Dominika Salkova vs Anna Blinkova | Anna Blinkova | 1.16 (86¢) | $10,136 | — | ⏳ Pendiente |
 | RN1 | Cincinnati Open, Qualification: Dominika Salkova vs Anna Blinkova | Anna Blinkova | 1.16 (86¢) | $10,136 | — | ⏳ Pendiente |
-| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
