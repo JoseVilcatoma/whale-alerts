@@ -1,5 +1,5 @@
 {
-  "bankroll": 450.0202945904423,
+  "bankroll": 449.5602945904423,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18155,6 +18155,11 @@
       "timestamp": 1786540256.4298322,
       "bankroll": 450.02,
       "event": "lost: AV23IUa \u2014 Counter-Strike: FUT Esports vs TYLOO (BO1) - Esports World Cup Group C"
+    },
+    {
+      "timestamp": 1786541194.8570004,
+      "bankroll": 449.56,
+      "event": "lost: Gaditima \u2014 Valorant: All Gamers vs TEC Esports (BO3) - VCT China Stage 2 Play-Ins"
     }
   ]
 }
