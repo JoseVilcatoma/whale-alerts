@@ -1,5 +1,5 @@
 {
-  "bankroll": 490.43530952382775,
+  "bankroll": 490.07530952382774,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18465,6 +18465,16 @@
       "timestamp": 1786567316.3263211,
       "bankroll": 490.44,
       "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 13.5"
+    },
+    {
+      "timestamp": 1786567501.7237656,
+      "bankroll": 491.32,
+      "event": "won: 1winstreak1 \u2014 Spread: Minnesota Twins (-1.5)"
+    },
+    {
+      "timestamp": 1786567502.15254,
+      "bankroll": 490.08,
+      "event": "lost: 1winstreak1 \u2014 Spread: Minnesota Twins (-2.5)"
     }
   ]
 }

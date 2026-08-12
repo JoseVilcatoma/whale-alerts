@@ -79192,8 +79192,8 @@
     "whale_pct": 0.559,
     "paper_stake_usd": 3.12,
     "odds_at_bet": 78,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.88,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786564634.8242245,
@@ -79212,8 +79212,8 @@
     "whale_pct": 0.221,
     "paper_stake_usd": 1.24,
     "odds_at_bet": 66,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.24,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786564634.2982812,
@@ -79996,6 +79996,29 @@
     ],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786567297.3262944,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786567508,
+    "timestamp_added": 1786567509.0462382,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-phi-stl-2026-08-12-total-8pt5",
+    "title": "Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 90.21,
+    "whale_pct": 0.305,
+    "paper_stake_usd": 1.5,
+    "odds_at_bet": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786567509.0462463,
     "fills": 1
   }
 ]
