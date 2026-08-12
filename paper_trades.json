@@ -79608,5 +79608,91 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786577696.4909832,
     "fills": 1
+  },
+  {
+    "timestamp": 1786577738,
+    "timestamp_added": 1786577738.8295093,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-pal-cep-2026-08-12-total-0pt5",
+    "title": "SE Palmeiras vs. Club Cerro Porte\u00f1o: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 498.90279999999996,
+    "whale_pct": 0.122,
+    "paper_stake_usd": 0.78,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786577738.8295178,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786577793,
+    "timestamp_added": 1786577793.5855577,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-pal-cep-2026-08-12-cep",
+    "title": "Will Club Cerro Porte\u00f1o win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1261.04,
+    "whale_pct": 0.303,
+    "paper_stake_usd": 1.93,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786577793.5855649,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786577808,
+    "timestamp_added": 1786577809.0878308,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-pal-cep-2026-08-12-pal",
+    "title": "Will SE Palmeiras win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1055.24,
+    "whale_pct": 0.254,
+    "paper_stake_usd": 1.62,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786577809.0878432,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786577833,
+    "timestamp_added": 1786577833.7177045,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-mil-sd-2026-08-12-spread-away-2pt5",
+    "title": "Spread: Milwaukee Brewers (-2.5)",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "whale_usd": 120.0,
+    "whale_pct": 0.223,
+    "paper_stake_usd": 1.42,
+    "odds_at_bet": 24,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786577833.717712,
+    "fills": 1
   }
 ]
