@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 20:12:16 (hora de Perú)
+Actualizado: 2026-08-11 20:14:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **272**  ($5,734,881 en total)
+- Apuestas registradas: **273**  ($5,745,547 en total)
 - Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 156
+- Pendientes: 157
 - Apostadores distintos: 84
 
 ### Balance
@@ -53,6 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | phonesculptor | 0 | 0 | 3 | — | $34,963 | — |
 | 0b1 | 2 | 0 | 0 | ⚠️ 100% (2) | $34,853 | +$7,302 |
 | mikesports | 0 | 0 | 2 | — | $33,024 | — |
+| tennischamp | 1 | 0 | 2 | ⚠️ 100% (1) | $32,529 | +$843 |
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $29,744 | +$9,167 |
 | Istaroth | 0 | 0 | 1 | — | $27,704 | — |
 | BaccaratRoulette | 0 | 1 | 0 | ⚠️ 0% (1) | $27,060 | -$27,060 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ughjbnk | 0 | 0 | 2 | — | $25,645 | — |
 | dv-pm | 0 | 0 | 2 | — | $24,463 | — |
 | acount3 | 0 | 0 | 2 | — | $24,236 | — |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 0 | 2 | — | $23,866 | — |
 
 _(mostrando los 40 de mayor monto, de 84 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 84 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tennischamp | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.56 (64¢) | $10,666 | — | ⏳ Pendiente |
 | tennischamp | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.56 (64¢) | $10,666 | — | ⏳ Pendiente |
 | AGUGava | National Bank Open: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 2.17 (46¢) | $11,500 | — | ⏳ Pendiente |
 | AGUGava | National Bank Open: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 2.17 (46¢) | $11,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 84 en total)_
 | RN1 | Cincinnati Open, Qualification: Oksana Selekhmeteva vs Elizabeth Mandlik | Oksana Selekhmeteva | 2.63 (38¢) | $15,334 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Oksana Selekhmeteva vs Elizabeth Mandlik | Elizabeth Mandlik | 1.61 (62¢) | $24,223 | — | ⏳ Pendiente |
 | xifutloong3 | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 1.69 (59¢) | $36,000 | — | ⏳ Pendiente |
-| jarosbill | Cincinnati Open, Qualification: Quentin Halys vs Soon-Woo Kwon | Soon-Woo Kwon | 1.64 (61¢) | $10,718 | — | ⏳ Pendiente |
