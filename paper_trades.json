@@ -79299,5 +79299,47 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786546093.5610664,
     "fills": 1
+  },
+  {
+    "timestamp": 1786547898,
+    "timestamp_added": 1786547899.054379,
+    "username": "dv-pm",
+    "wallet": "0x56acab44cfca2e88bb9b3406890aea7bfa0cd77e",
+    "slug": "col-rap-pai-2026-08-12-rap",
+    "title": "Will SK Rapid Wien win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 438.59999999999997,
+    "whale_pct": 1.71,
+    "paper_stake_usd": 6.37,
+    "odds_at_bet": 15,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786547899.0543902,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786547907,
+    "timestamp_added": 1786547908.2813003,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col-kob-deb-2026-08-12-draw",
+    "title": "Will FC K\u00f8benhavn vs. Debreceni VSC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 140.60999999999999,
+    "whale_pct": 0.118,
+    "paper_stake_usd": 0.44,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786547908.2813098,
+    "fills": 1
   }
 ]
