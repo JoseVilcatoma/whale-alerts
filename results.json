@@ -25035,5 +25035,44 @@
     "usd": 70399.90000000001,
     "odds_at_bet": 53,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1711,
+    "timestamp": 1786568016,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lib-pal-cep-2026-08-12-pal",
+    "title": "Will SE Palmeiras win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 15695.540599999998,
+    "odds_at_bet": 74,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1712,
+    "timestamp": 1786567984,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-cle-det-2026-08-12",
+    "title": "Cleveland Guardians vs. Detroit Tigers",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 16840.3976,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1713,
+    "timestamp": 1786567971,
+    "username": "DonaldinhoTrumpito",
+    "wallet": "0x7523cafcee7bcf2db9a79d80e0d79b88a9a54c4c",
+    "slug": "atp-jodar-nakashi-2026-08-12",
+    "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "usd": 11179.274800000001,
+    "odds_at_bet": 68,
+    "status": "pending"
   }
 ]
