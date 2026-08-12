@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 13:03:50 (hora de Perú)
+Actualizado: 2026-08-12 13:06:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1536**  ($38,638,778 en total)
+- Apuestas registradas: **1543**  ($38,767,954 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 595
+- Pendientes: 602
 - Apostadores distintos: 150
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 67 | 28% | $6,098,694 | -$789,178 |
 | Djdjdjekekek | 36 | 12 | 77 | 75% | $5,657,802 | +$573,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 7 | 36% | $2,392,102 | -$421,290 |
-| ferrariChampions2026 | 90 | 29 | 25 | 76% | $2,061,910 | +$113,934 |
+| ferrariChampions2026 | 90 | 29 | 28 | 76% | $2,094,841 | +$113,934 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
 | Weaseloftheweek | 11 | 2 | 7 | 85% | $1,636,724 | +$518,388 |
 | pleaseplease123 | 0 | 44 | 9 | 0% | $1,340,870 | -$1,082,423 |
@@ -55,12 +55,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | johnny234 | 3 | 4 | 9 | ⚠️ 43% (7) | $224,256 | -$21,018 |
 | fRibrenlc | 9 | 4 | 4 | 69% | $220,701 | +$46,634 |
 | Feromont | 9 | 0 | 1 | 100% | $218,857 | +$55,222 |
+| bigspending | 0 | 0 | 3 | — | $208,375 | — |
 | TAIWANNUMBERONE | 0 | 1 | 13 | ⚠️ 0% (1) | $206,762 | -$17,114 |
 | casualbet2020 | 0 | 0 | 4 | — | $203,299 | — |
 | winwin518168 | 0 | 12 | 0 | 0% | $191,010 | -$191,010 |
 | xifutloong3 | 6 | 0 | 0 | ⚠️ 100% (6) | $190,324 | +$142,407 |
 | RN1 | 8 | 5 | 0 | 62% | $168,739 | +$11,250 |
-| bigspending | 0 | 0 | 2 | — | $167,075 | — |
 | basementdweller3000 | 0 | 0 | 9 | — | $164,772 | — |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
 | NemecGhudini | 3 | 2 | 5 | ⚠️ 60% (5) | $161,645 | -$17,067 |
@@ -71,12 +71,19 @@ _(mostrando los 40 de mayor monto, de 150 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0way | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $14,001 | — | ⏳ Pendiente |
+| bigspending | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $41,300 | — | ⏳ Pendiente |
 | Bot313 | Baltimore Orioles vs. Minnesota Twins: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $10,000 | — | ⏳ Pendiente |
 | Bot313 | Baltimore Orioles vs. Minnesota Twins: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $10,000 | — | ⏳ Pendiente |
+| Bot313 | Baltimore Orioles vs. Minnesota Twins: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $10,000 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.19 (84¢) | $10,472 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.18 (85¢) | $11,214 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.18 (85¢) | $11,214 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.19 (84¢) | $10,472 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.18 (85¢) | $11,244 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.18 (85¢) | $11,244 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.19 (84¢) | $10,500 | — | ⏳ Pendiente |
+| ohehe | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.20 (83¢) | $30,944 | — | ⏳ Pendiente |
 | ohehe | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.20 (83¢) | $30,944 | — | ⏳ Pendiente |
 | CORGI8 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.56 (64¢) | $10,102 | — | ⏳ Pendiente |
 | CORGI8 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.56 (64¢) | $10,102 | — | ⏳ Pendiente |
@@ -124,10 +131,3 @@ _(mostrando los 40 de mayor monto, de 150 en total)_
 | ARI100KRAT | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $13,647 | — | ⏳ Pendiente |
 | ARI100KRAT | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.39 (72¢) | $13,647 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $44,101 | — | ⏳ Pendiente |
-| S-Works | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $210,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $45,571 | — | ⏳ Pendiente |
-| Sassy-Bucket | Baltimore Orioles vs. Minnesota Twins: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $40,264 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $47,721 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $47,721 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Baltimore Orioles vs. Minnesota Twins: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $23,847 | — | ⏳ Pendiente |
-| fRibrenlc | Baltimore Orioles vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $10,222 | — | ⏳ Pendiente |
