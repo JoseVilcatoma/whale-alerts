@@ -1,5 +1,5 @@
 {
-  "bankroll": 429.69051375844583,
+  "bankroll": 427.3405137584458,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -17585,6 +17585,81 @@
       "timestamp": 1786501944.7099245,
       "bankroll": 429.69,
       "event": "won: swisstony \u2014 Will Fluminense FC vs. CS Independiente Rivadavia end in a draw?"
+    },
+    {
+      "timestamp": 1786502548.878263,
+      "bankroll": 429.69,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786502549.2300386,
+      "bankroll": 429.69,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786502549.3302937,
+      "bankroll": 429.69,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786502549.4304945,
+      "bankroll": 429.69,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786502549.5307026,
+      "bankroll": 429.69,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786502549.6308775,
+      "bankroll": 429.69,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786502553.862536,
+      "bankroll": 429.69,
+      "event": "won: UpTheBlues \u2014 Will CA Boca Juniors win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786502554.9864597,
+      "bankroll": 427.34,
+      "event": "lost: SDTrading \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786502555.5958683,
+      "bankroll": 427.34,
+      "event": "won: RN1 \u2014 Will CA Boca Juniors win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786502559.6131082,
+      "bankroll": 427.34,
+      "event": "lost: ferrariChampions2026 \u2014 Will CA Boca Juniors win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786502560.3470488,
+      "bankroll": 427.34,
+      "event": "lost: swisstony \u2014 Will Ava\u00ed FC vs. CR Brasil end in a draw?"
+    },
+    {
+      "timestamp": 1786502561.4554708,
+      "bankroll": 427.34,
+      "event": "lost: swisstony \u2014 Will Ava\u00ed FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786502561.555674,
+      "bankroll": 427.34,
+      "event": "lost: swisstony \u2014 Will Ava\u00ed FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786502562.8866706,
+      "bankroll": 427.34,
+      "event": "won: swisstony \u2014 Will Ava\u00ed FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786502562.9868405,
+      "bankroll": 427.34,
+      "event": "won: swisstony \u2014 Will Ava\u00ed FC vs. CR Brasil end in a draw?"
     }
   ]
 }
