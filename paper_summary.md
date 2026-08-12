@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 18:02:42 (hora de Perú)
+Actualizado: 2026-08-12 18:04:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $488.47
-**Retorno acumulado:** -51.15%
+**Bankroll actual:** $503.23
+**Retorno acumulado:** -49.68%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 9 | 5 | +165.22 USD |
 | theowalcott | 17 | 4 | 24 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 67 | 70 | 3 | +104.98 USD |
+| wr0ngw4yb3tt0r | 67 | 70 | 4 | +104.98 USD |
 | dv-pm | 4 | 6 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 3 | 9 | 2 | +15.41 USD |
-| HomeRunHazard | 116 | 99 | 11 | +12.27 USD |
+| HomeRunHazard | 118 | 99 | 9 | +12.70 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -50,12 +50,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 158 | 209 | 2 | -28.31 USD |
 | RN1 | 202 | 112 | 0 | -39.02 USD |
+| 1winstreak1 | 147 | 114 | 13 | -47.97 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| 1winstreak1 | 137 | 110 | 26 | -62.30 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 6 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 7 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 2 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -464,6 +464,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 49% | 2.58 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres (BUY) | 82% | 3.74 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 48% | 1.16 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Miami Marlins (-1.5) | Miami Marlins (BUY) | 32% | 0.00 | ⏳ pendiente | — |
@@ -491,6 +494,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| Sassy-Bucket | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 44% | 0.00 | ⏳ pendiente | — |

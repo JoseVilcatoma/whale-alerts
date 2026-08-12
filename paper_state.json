@@ -1,5 +1,5 @@
 {
-  "bankroll": 488.47329114600285,
+  "bankroll": 503.2304063271844,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18725,6 +18725,86 @@
       "timestamp": 1786575748.3946095,
       "bankroll": 488.47,
       "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-2.5)"
+    },
+    {
+      "timestamp": 1786575813.7755883,
+      "bankroll": 487.3,
+      "event": "lost: 1winstreak1 \u2014 Spread: Colorado Rockies (-1.5)"
+    },
+    {
+      "timestamp": 1786575814.676819,
+      "bankroll": 487.9,
+      "event": "won: 1winstreak1 \u2014 Spread: Colorado Rockies (-1.5)"
+    },
+    {
+      "timestamp": 1786575815.2775934,
+      "bankroll": 487.9,
+      "event": "won: HomeRunHazard \u2014 Spread: Colorado Rockies (-1.5)"
+    },
+    {
+      "timestamp": 1786575815.47797,
+      "bankroll": 487.9,
+      "event": "won: 1winstreak1 \u2014 Spread: Colorado Rockies (-1.5)"
+    },
+    {
+      "timestamp": 1786575817.1328743,
+      "bankroll": 488.33,
+      "event": "won: HomeRunHazard \u2014 Spread: Colorado Rockies (-1.5)"
+    },
+    {
+      "timestamp": 1786575873.5911813,
+      "bankroll": 487.74,
+      "event": "lost: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 10.5"
+    },
+    {
+      "timestamp": 1786575873.9895875,
+      "bankroll": 488.51,
+      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-1.5)"
+    },
+    {
+      "timestamp": 1786575874.0897171,
+      "bankroll": 504.72,
+      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 10.5"
+    },
+    {
+      "timestamp": 1786575874.5857525,
+      "bankroll": 503.79,
+      "event": "lost: 1winstreak1 \u2014 Spread: Colorado Rockies (-2.5)"
+    },
+    {
+      "timestamp": 1786575874.685865,
+      "bankroll": 504.47,
+      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-1.5)"
+    },
+    {
+      "timestamp": 1786575876.5824757,
+      "bankroll": 497.68,
+      "event": "lost: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 10.5"
+    },
+    {
+      "timestamp": 1786575876.6826556,
+      "bankroll": 501.39,
+      "event": "won: 1winstreak1 \u2014 Spread: Colorado Rockies (-2.5)"
+    },
+    {
+      "timestamp": 1786575876.9831724,
+      "bankroll": 501.98,
+      "event": "won: 1winstreak1 \u2014 Spread: Colorado Rockies (-2.5)"
+    },
+    {
+      "timestamp": 1786575877.0833557,
+      "bankroll": 503.11,
+      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 10.5"
+    },
+    {
+      "timestamp": 1786575877.584016,
+      "bankroll": 503.23,
+      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 10.5"
+    },
+    {
+      "timestamp": 1786575877.684136,
+      "bankroll": 503.23,
+      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 10.5"
     }
   ]
 }
