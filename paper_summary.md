@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 22:44:25 (hora de Perú)
+Actualizado: 2026-08-11 22:46:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $408.49
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | HomeRunHazard | 106 | 92 | 13 | +6.54 USD |
-| UpTheBlues | 242 | 150 | 27 | +4.48 USD |
+| UpTheBlues | 242 | 150 | 29 | +4.48 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
@@ -468,6 +468,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 70% | 0.65 | ⏳ pendiente | — |
+| UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 97% | 0.48 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 55% | 7.37 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 53% | 0.63 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 67% | 0.65 | ⏳ pendiente | — |
@@ -496,5 +498,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 55% | 0.66 | ⏳ pendiente | — |
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 60% | 1.40 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 52% | 6.57 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 56% | 1.63 | ⏳ pendiente | — |
-| 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 45% | 12.38 | ⏳ pendiente | — |
