@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 15:48:29 (hora de Perú)
+Actualizado: 2026-08-12 15:50:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1916**  ($52,138,089 en total)
+- Apuestas registradas: **1917**  ($52,155,711 en total)
 - Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
-- Pendientes: 567
+- Pendientes: 568
 - Apostadores distintos: 171
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 171 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Houston Astros vs. San Francisco Giants | San Francisco Giants | 1.59 (63¢) | $17,622 | — | ⏳ Pendiente |
 | Jsram | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.82 (55¢) | $11,761 | — | ⏳ Pendiente |
 | Jsram | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.82 (55¢) | $11,761 | — | ⏳ Pendiente |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.22 (82¢) | $29,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 171 en total)_
 | swisstony | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.33 (75¢) | $11,682 | — | ⏳ Pendiente |
 | tennischamp | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.16 (86¢) | $51,840 | — | ⏳ Pendiente |
 | tennischamp | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.16 (86¢) | $51,840 | — | ⏳ Pendiente |
-| Mylifeisover | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 2.08 (48¢) | $25,087 | — | ⏳ Pendiente |

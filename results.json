@@ -24970,5 +24970,18 @@
     "usd": 28999.999997329884,
     "odds_at_bet": 82,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1706,
+    "timestamp": 1786567795,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-hou-sf-2026-08-12",
+    "title": "Houston Astros vs. San Francisco Giants",
+    "outcome": "San Francisco Giants",
+    "side": "BUY",
+    "usd": 17622.36,
+    "odds_at_bet": 63,
+    "status": "pending"
   }
 ]
