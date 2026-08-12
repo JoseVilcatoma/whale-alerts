@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 00:45:24 (hora de Perú)
+Actualizado: 2026-08-12 00:49:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $510.23
-**Retorno acumulado:** -48.98%
+**Bankroll actual:** $449.13
+**Retorno acumulado:** -55.09%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,19 +15,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| 1winstreak1 | 139 | 115 | 1 | +116.83 USD |
 | dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| AV23IUa | 3 | 3 | 11 | +46.51 USD |
+| 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
+| AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
+| wr0ngw4yb3tt0r | 65 | 69 | 0 | +23.18 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
-| wr0ngw4yb3tt0r | 66 | 70 | 0 | +19.50 USD |
-| HomeRunHazard | 115 | 97 | 0 | +18.93 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 3 | 9 | 0 | +15.41 USD |
+| HomeRunHazard | 114 | 97 | 0 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 243 | 150 | 42 | +4.50 USD |
+| UpTheBlues | 243 | 150 | 9 | +4.50 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
@@ -46,9 +46,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 189 | 132 | 6 | -24.98 USD |
-| quavoo | 156 | 187 | 29 | -29.27 USD |
-| RN1 | 203 | 113 | 2 | -37.58 USD |
+| swisstony | 170 | 114 | 1 | -26.60 USD |
+| quavoo | 156 | 187 | 26 | -29.27 USD |
+| RN1 | 200 | 112 | 2 | -39.45 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -356,7 +356,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-10-spread-home-2pt5 | HomeRunHazard, swisstony |
 | mlb-tex-laa-2026-08-10-spread-home-1pt5 | HomeRunHazard, swisstony |
 | sud-boc-rec1-2026-08-11-team-total-away-0pt5 | UpTheBlues, swisstony |
-| wnba-phx-la-2026-08-11-total-179pt5 | ferrariChampions2026, quavoo, swisstony |
+| wnba-phx-la-2026-08-11-total-179pt5 | ferrariChampions2026, quavoo |
 | uel-sab-lar-2026-08-11-lar | UpTheBlues, swisstony |
 | uel-sab-lar-2026-08-11-spread-away-1pt5 | UpTheBlues, swisstony |
 | ucl-sba-mja-2026-08-11-sba | 0x4f2, UpTheBlues |
@@ -376,22 +376,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-hle1-dnf-2026-08-11 | BBQChickenisthebesttt, BrotherObama, Lakersfan111, ferrariChampions2026 |
 | lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
 | ucl-sf-agf-2026-08-11-agf | UpTheBlues, dv-pm, swisstony |
-| wnba-phx-la-2026-08-11-total-178pt5 | HomeRunHazard, swisstony |
 | lol-hle1-dnf-2026-08-11-game3 | BrotherObama, lzh1 |
 | lol-nsea-dkc-2026-08-11-game2 | BBQChickenisthebesttt, lzh1 |
 | mlb-bos-tor-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-cin-cws-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket, wr0ngw4yb3tt0r |
 | col-csk1-pao-2026-08-11-pao | UpTheBlues, swisstony |
-| wnba-wsh-las-2026-08-11-total-168pt5 | 1winstreak1, HomeRunHazard, swisstony |
 | mlb-kc-lad-2026-08-11-total-7pt5 | dv-pm, ferrariChampions2026 |
 | mlb-chc-wsh-2026-08-11-total-8pt5 | HomeRunHazard, RN1, Talvez10, dv-pm, ferrariChampions2026, swisstony |
 | wnba-nyl-ind-2026-08-11-spread-home-3pt5 | quavoo, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-0pt5 | quavoo, swisstony |
-| wnba-wsh-las-2026-08-11-spread-home-7pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
+| wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-1pt5 | RN1, UpTheBlues, swisstony |
 | wnba-nyl-ind-2026-08-11-total-192pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-lyo-spp-2026-08-11-lyo | UpTheBlues, swisstony |
-| wnba-phx-la-2026-08-11-spread-home-2pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
+| wnba-phx-la-2026-08-11-spread-home-2pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-pit-mia-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-2pt5 | RN1, swisstony |
 | ucl-kai-pls-2026-08-11-pls | RN1, swisstony |
@@ -404,11 +402,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-sf-agf-2026-08-11-sf | UpTheBlues, swisstony |
 | uel-sab-lar-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
 | ucl-sf-agf-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
-| wnba-wsh-las-2026-08-11-total-170pt5 | 1winstreak1, swisstony, wr0ngw4yb3tt0r |
-| wnba-phx-la-2026-08-11-spread-away-1pt5 | 1winstreak1, HomeRunHazard, ferrariChampions2026, swisstony |
-| mlb-tb-oak-2026-08-11-total-9pt5 | 1winstreak1, HomeRunHazard, Sassy-Bucket, swisstony |
+| wnba-phx-la-2026-08-11-spread-away-1pt5 | HomeRunHazard, ferrariChampions2026 |
+| mlb-tb-oak-2026-08-11-total-9pt5 | HomeRunHazard, Sassy-Bucket |
 | uel-sab-lar-2026-08-11-draw | ferrariChampions2026, swisstony |
-| wnba-phx-la-2026-08-11-total-177pt5 | 1winstreak1, ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
+| wnba-phx-la-2026-08-11-total-177pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | ucl-nec-oly-2026-08-11-nec | UpTheBlues, quavoo |
 | col-al-bra-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
 | col-al-bra-2026-08-11-total-2pt5 | UpTheBlues, swisstony |
@@ -441,63 +438,42 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lib-flu-cir-2026-08-11-total-0pt5 | RN1, swisstony |
 | mlb-cle-det-2026-08-11-spread-away-1pt5 | HomeRunHazard, RN1 |
 | mlb-cle-det-2026-08-11-total-9pt5 | ferrariChampions2026, swisstony |
-| mlb-hou-sf-2026-08-11-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
-| lec-tig-vwh-2026-08-11-tig | UpTheBlues, quavoo |
 | mlb-bos-tor-2026-08-11-spread-home-1pt5 | RN1, ferrariChampions2026 |
 | wnba-wsh-las-2026-08-11-spread-home-6pt5 | ferrariChampions2026, quavoo |
-| lec-rsl-jua-2026-08-11-rsl | UpTheBlues, ferrariChampions2026 |
-| mlb-col-ari-2026-08-11-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
-| sud-bol-sao-2026-08-11-total-3pt5 | ferrariChampions2026, swisstony |
-| wnba-phx-la-2026-08-11 | 1winstreak1, ferrariChampions2026, swisstony |
-| wnba-phx-la-2026-08-11-total-180pt5 | ferrariChampions2026, swisstony |
-| wnba-wsh-las-2026-08-11 | 1winstreak1, ferrariChampions2026, swisstony |
-| mlb-kc-lad-2026-08-11-spread-home-1pt5 | 1winstreak1, RN1, quavoo, swisstony |
-| wnba-phx-la-2026-08-11-total-181pt5 | 1winstreak1, ferrariChampions2026 |
-| mlb-tb-oak-2026-08-11-total-10pt5 | 1winstreak1, RN1, swisstony |
-| wnba-wsh-las-2026-08-11-spread-home-8pt5 | 1winstreak1, swisstony |
-| wnba-wsh-las-2026-08-11-total-169pt5 | 1winstreak1, swisstony |
-| mlb-mil-sd-2026-08-11-total-8pt5 | 1winstreak1, swisstony |
-| lec-rsl-jua-2026-08-11-total-3pt5 | UpTheBlues, swisstony |
-| lec-tig-vwh-2026-08-11-spread-away-1pt5 | UpTheBlues, swisstony |
-| wnba-wsh-las-2026-08-11-total-167pt5 | 1winstreak1, swisstony |
-| mlb-col-ari-2026-08-11-spread-away-2pt5 | 1winstreak1, RN1 |
-| mlb-col-ari-2026-08-11-total-7pt5 | 1winstreak1, wr0ngw4yb3tt0r |
-| mlb-col-ari-2026-08-11-spread-away-1pt5 | 1winstreak1, wr0ngw4yb3tt0r |
-| mlb-kc-lad-2026-08-11-total-9pt5 | 1winstreak1, HomeRunHazard |
-| usc-psg-av-2026-08-12-av | UpTheBlues, swisstony |
+| mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| UpTheBlues | Will Aston Villa win on 2026-08-12? | No (BUY) | 80% | 0.75 | ⏳ pendiente | — |
-| UpTheBlues | Will Paris Saint-Germain win on 2026-08- | Yes (BUY) | 56% | 0.86 | ⏳ pendiente | — |
-| UpTheBlues | Will Paris Saint-Germain win on 2026-08- | Yes (BUY) | 56% | 0.57 | ⏳ pendiente | — |
-| UpTheBlues | Will Aston Villa win on 2026-08-12? | No (BUY) | 80% | 0.56 | ⏳ pendiente | — |
-| swisstony | Will Aston Villa win on 2026-08-12? | No (BUY) | 80% | 8.65 | ⏳ pendiente | — |
-| swisstony | Will Aston Villa win on 2026-08-12? | No (BUY) | 80% | 4.61 | ⏳ pendiente | — |
-| swisstony | Will Aston Villa win on 2026-08-12? | No (BUY) | 80% | 3.07 | ⏳ pendiente | — |
-| UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.90 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 93% | 1.95 | ✅ ganada | +0.15 |
-| 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 97% | 23.57 | ✅ ganada | +0.73 |
-| 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 74% | 1.73 | ✅ ganada | +0.61 |
-| HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 64% | 8.86 | ✅ ganada | +4.98 |
-| AV23IUa | Counter-Strike: FUT Esports vs TYLOO (BO | TYLOO (BUY) | 41% | 1.25 | ⏳ pendiente | — |
-| 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 53% | 5.58 | ✅ ganada | +4.95 |
-| 1winstreak1 | Spread: Kansas City Royals (-1.5) | Kansas City Royals (BUY) | 17% | 0.48 | ❌ perdida | -0.48 |
-| UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.02 | ⏳ pendiente | — |
-| UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.74 | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: Team Falcons vs K27 (BO1 | Team Falcons (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 24% | 0.00 | ✅ ganada | +0.00 |
-| RN1 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 75% | 0.00 | ❌ perdida | -0.00 |
-| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 16.5 | Under (BUY) | 95% | 0.00 | ✅ ganada | +0.00 |
-| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 57% | 5.11 | ✅ ganada | +3.85 |
-| UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 89% | 0.67 | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: magic vs TheMongolz (BO1 | TheMongolz (BUY) | 54% | 0.57 | ⏳ pendiente | — |
-| UpTheBlues | Tigres de la UANL vs. Vancouver Whitecap | Under (BUY) | 80% | 0.58 | ⏳ pendiente | — |
-| UpTheBlues | Will Tigres de la UANL win on 2026-08-11 | No (BUY) | 91% | 0.59 | ⏳ pendiente | — |
-| 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 46% | 0.44 | ✅ ganada | +0.52 |
-| AV23IUa | Counter-Strike: magic vs TheMongolz (BO1 | TheMongolz (BUY) | 54% | 1.90 | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: Team Falcons vs K27 (BO1 | Team Falcons (BUY) | 79% | 5.51 | ⏳ pendiente | — |
-| UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 90% | 0.52 | ⏳ pendiente | — |
+| swisstony | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 48% | 1.25 | ✅ ganada | +1.35 |
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 62% | 0.63 | ✅ ganada | +0.39 |
+| RN1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 54% | 0.54 | ✅ ganada | +0.46 |
+| ferrariChampions2026 | Real Salt Lake vs. FC Juárez: O/U 2.5 | Over (BUY) | 62% | 0.58 | ⏳ pendiente | — |
+| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 52% | 3.81 | ✅ ganada | +3.52 |
+| ferrariChampions2026 | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 52% | 0.55 | ❌ perdida | -0.55 |
+| ferrariChampions2026 | Spread: Las Vegas Aces (-6.5) | Washington Mystics (BUY) | 49% | 1.55 | ❌ perdida | -1.55 |
+| ferrariChampions2026 | Spread: Phoenix Mercury (-1.5) | Phoenix Mercury (BUY) | 49% | 0.53 | ✅ ganada | +0.55 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 48% | 0.54 | ❌ perdida | -0.54 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.57 | ✅ ganada | +0.55 |
+| quavoo | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 54% | 0.60 | ❌ perdida | -0.60 |
+| ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 56% | 0.51 | ✅ ganada | +0.40 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ❌ perdida | -0.46 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 53% | 0.48 | ❌ perdida | -0.48 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 48% | 0.59 | ✅ ganada | +0.64 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ❌ perdida | -0.46 |
+| ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 51% | 0.99 | ❌ perdida | -0.99 |
+| quavoo | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 0.96 | ✅ ganada | +1.08 |
+| ferrariChampions2026 | Club Bolívar vs. São Paulo FC: O/U 3.5 | Under (BUY) | 89% | 0.39 | ✅ ganada | +0.05 |
+| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 6.67 | ✅ ganada | +7.52 |
+| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 47% | 1.01 | ✅ ganada | +1.14 |
+| ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 49% | 0.34 | ❌ perdida | -0.34 |
+| ferrariChampions2026 | Real Salt Lake vs. FC Juárez: O/U 2.5 | Over (BUY) | 60% | 0.37 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Real Salt Lake win on 2026-08-11? | No (BUY) | 44% | 0.59 | ⏳ pendiente | — |
+| quavoo | Spread: Las Vegas Aces (-6.5) | Las Vegas Aces (BUY) | 50% | 3.70 | ✅ ganada | +3.70 |
+| ferrariChampions2026 | Estudiantes de La Plata vs. CD Universid | Over (BUY) | 61% | 0.37 | ✅ ganada | +0.24 |
+| Sassy-Bucket | Tampa Bay Rays vs. Athletics: O/U 9.5 | Under (BUY) | 45% | 1.04 | ❌ perdida | -1.04 |
+| wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 36% | 0.00 | ❌ perdida | -0.00 |
+| wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 59% | 0.00 | ❌ perdida | -0.00 |
+| wr0ngw4yb3tt0r | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 50% | 0.00 | ✅ ganada | +0.00 |

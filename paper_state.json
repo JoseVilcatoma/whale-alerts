@@ -1,5 +1,5 @@
 {
-  "bankroll": 510.22789513101344,
+  "bankroll": 449.13256852026916,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -17512,994 +17512,474 @@
       "event": "won: UpTheBlues \u2014 CA Talleres vs. CA Lan\u00fas: O/U 2.5"
     },
     {
-      "timestamp": 1786501616.251232,
-      "bankroll": 429.43,
-      "event": "lost: SDTrading \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
-    },
-    {
-      "timestamp": 1786501616.3514519,
-      "bankroll": 429.43,
-      "event": "won: wr0ngw4yb3tt0r \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
-    },
-    {
-      "timestamp": 1786501616.4516098,
-      "bankroll": 429.43,
-      "event": "won: wr0ngw4yb3tt0r \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
-    },
-    {
-      "timestamp": 1786501616.6519701,
-      "bankroll": 429.43,
-      "event": "lost: SDTrading \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
-    },
-    {
-      "timestamp": 1786501624.8486166,
-      "bankroll": 429.43,
-      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
-    },
-    {
-      "timestamp": 1786501624.9489317,
-      "bankroll": 429.43,
-      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
-    },
-    {
-      "timestamp": 1786501626.8873057,
-      "bankroll": 429.43,
-      "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 8.5"
-    },
-    {
-      "timestamp": 1786501627.5325804,
-      "bankroll": 429.43,
-      "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 8.5"
-    },
-    {
-      "timestamp": 1786501627.733003,
-      "bankroll": 429.43,
-      "event": "lost: RN1 \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
-    },
-    {
-      "timestamp": 1786501627.8332376,
-      "bankroll": 429.43,
-      "event": "lost: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
-    },
-    {
-      "timestamp": 1786501682.0028825,
-      "bankroll": 429.69,
-      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Seattle Mariners (-1.5)"
-    },
-    {
-      "timestamp": 1786501927.7249985,
-      "bankroll": 429.69,
-      "event": "won: HomeRunHazard \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 8.5"
-    },
-    {
-      "timestamp": 1786501937.2646368,
-      "bankroll": 429.69,
-      "event": "won: RN1 \u2014 Will Fluminense FC vs. CS Independiente Rivadavia end in a draw?"
-    },
-    {
-      "timestamp": 1786501941.7761555,
-      "bankroll": 429.69,
-      "event": "won: swisstony \u2014 Will Fluminense FC vs. CS Independiente Rivadavia end in a draw?"
-    },
-    {
-      "timestamp": 1786501944.7099245,
-      "bankroll": 429.69,
-      "event": "won: swisstony \u2014 Will Fluminense FC vs. CS Independiente Rivadavia end in a draw?"
-    },
-    {
-      "timestamp": 1786502548.878263,
-      "bankroll": 429.69,
-      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
-    },
-    {
-      "timestamp": 1786502549.2300386,
-      "bankroll": 429.69,
-      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
-    },
-    {
-      "timestamp": 1786502549.3302937,
-      "bankroll": 429.69,
-      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
-    },
-    {
-      "timestamp": 1786502549.4304945,
-      "bankroll": 429.69,
-      "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
-    },
-    {
-      "timestamp": 1786502549.5307026,
-      "bankroll": 429.69,
-      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
-    },
-    {
-      "timestamp": 1786502549.6308775,
-      "bankroll": 429.69,
-      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
-    },
-    {
-      "timestamp": 1786502553.862536,
-      "bankroll": 429.69,
-      "event": "won: UpTheBlues \u2014 Will CA Boca Juniors win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786502554.9864597,
-      "bankroll": 427.34,
-      "event": "lost: SDTrading \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
-    },
-    {
-      "timestamp": 1786502555.5958683,
-      "bankroll": 427.34,
-      "event": "won: RN1 \u2014 Will CA Boca Juniors win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786502559.6131082,
-      "bankroll": 427.34,
-      "event": "lost: ferrariChampions2026 \u2014 Will CA Boca Juniors win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786502560.3470488,
-      "bankroll": 427.34,
-      "event": "lost: swisstony \u2014 Will Ava\u00ed FC vs. CR Brasil end in a draw?"
-    },
-    {
-      "timestamp": 1786502561.4554708,
-      "bankroll": 427.34,
-      "event": "lost: swisstony \u2014 Will Ava\u00ed FC win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786502561.555674,
-      "bankroll": 427.34,
-      "event": "lost: swisstony \u2014 Will Ava\u00ed FC win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786502562.8866706,
-      "bankroll": 427.34,
-      "event": "won: swisstony \u2014 Will Ava\u00ed FC win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786502562.9868405,
-      "bankroll": 427.34,
-      "event": "won: swisstony \u2014 Will Ava\u00ed FC vs. CR Brasil end in a draw?"
-    },
-    {
-      "timestamp": 1786503739.141419,
-      "bankroll": 427.0,
-      "event": "lost: ferrariChampions2026 \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 6.5"
-    },
-    {
-      "timestamp": 1786504115.3321836,
-      "bankroll": 427.13,
-      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: cobblemon vs Gr\u00eamio Esports - Map 2 Winner"
-    },
-    {
-      "timestamp": 1786504118.3204322,
-      "bankroll": 427.13,
-      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: cobblemon vs Gr\u00eamio Esports - Map 2 Winner"
-    },
-    {
-      "timestamp": 1786504118.4206502,
-      "bankroll": 427.13,
-      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: cobblemon vs Gr\u00eamio Esports - Map 2 Winner"
-    },
-    {
-      "timestamp": 1786504742.9322104,
-      "bankroll": 427.13,
-      "event": "lost: swisstony \u2014 Will CR Brasil win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786504747.6599333,
-      "bankroll": 427.13,
-      "event": "won: swisstony \u2014 Will CR Brasil win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786504748.2092938,
-      "bankroll": 427.13,
-      "event": "lost: swisstony \u2014 Will CR Brasil win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786504809.376634,
-      "bankroll": 427.28,
-      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 8.5"
-    },
-    {
-      "timestamp": 1786504811.4122891,
-      "bankroll": 427.54,
-      "event": "won: swisstony \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 8.5"
-    },
-    {
-      "timestamp": 1786504811.813156,
-      "bankroll": 427.84,
-      "event": "won: swisstony \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 8.5"
-    },
-    {
-      "timestamp": 1786505053.0813768,
-      "bankroll": 427.84,
-      "event": "won: ferrariChampions2026 \u2014 LoL: RMD Gaming vs RED Academy - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786505365.5870044,
-      "bankroll": 425.67,
-      "event": "lost: BrotherObama \u2014 LoL: RMD Gaming vs RED Academy (BO3) - Circuito Desafiante Play-In"
-    },
-    {
-      "timestamp": 1786505365.6872315,
-      "bankroll": 421.8,
-      "event": "lost: BrotherObama \u2014 LoL: RMD Gaming vs RED Academy (BO3) - Circuito Desafiante Play-In"
-    },
-    {
-      "timestamp": 1786505369.7999885,
-      "bankroll": 421.8,
-      "event": "lost: BrotherObama \u2014 LoL: RMD Gaming vs RED Academy (BO3) - Circuito Desafiante Play-In"
-    },
-    {
-      "timestamp": 1786505370.1006386,
-      "bankroll": 421.8,
-      "event": "lost: BrotherObama \u2014 LoL: RMD Gaming vs RED Academy (BO3) - Circuito Desafiante Play-In"
-    },
-    {
-      "timestamp": 1786505989.9154036,
-      "bankroll": 423.18,
-      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
-    },
-    {
-      "timestamp": 1786505990.3550017,
-      "bankroll": 423.96,
-      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
-    },
-    {
-      "timestamp": 1786505996.1845374,
-      "bankroll": 423.96,
-      "event": "lost: Sassy-Bucket \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
-    },
-    {
-      "timestamp": 1786505998.7263918,
-      "bankroll": 422.92,
-      "event": "lost: Sassy-Bucket \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
-    },
-    {
-      "timestamp": 1786506002.0687099,
-      "bankroll": 423.49,
-      "event": "won: RN1 \u2014 Tampa Bay Rays vs. Athletics: O/U 10.5"
-    },
-    {
-      "timestamp": 1786506002.9705815,
-      "bankroll": 424.36,
-      "event": "won: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
-    },
-    {
-      "timestamp": 1786506003.0708158,
-      "bankroll": 407.8,
-      "event": "lost: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 10.5"
-    },
-    {
-      "timestamp": 1786506003.4716063,
-      "bankroll": 408.08,
-      "event": "won: swisstony \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
-    },
-    {
-      "timestamp": 1786506004.2310274,
-      "bankroll": 408.49,
-      "event": "won: swisstony \u2014 Tampa Bay Rays vs. Athletics: O/U 10.5"
-    },
-    {
-      "timestamp": 1786508179.9056008,
-      "bankroll": 408.85,
-      "event": "won: SDTrading \u2014 Spread: Texas Rangers (-1.5)"
-    },
-    {
-      "timestamp": 1786508743.690953,
-      "bankroll": 409.96,
-      "event": "won: RN1 \u2014 Spread: Tampa Bay Rays (-2.5)"
-    },
-    {
-      "timestamp": 1786508806.3224542,
-      "bankroll": 409.96,
-      "event": "won: quavoo \u2014 Spread: Tampa Bay Rays (-1.5)"
-    },
-    {
-      "timestamp": 1786509111.8143766,
-      "bankroll": 409.56,
-      "event": "lost: HomeRunHazard \u2014 Washington Mystics vs. Las Vegas Aces: O/U 168.5"
-    },
-    {
-      "timestamp": 1786509112.2394593,
-      "bankroll": 409.56,
-      "event": "lost: HomeRunHazard \u2014 Washington Mystics vs. Las Vegas Aces: O/U 168.5"
-    },
-    {
-      "timestamp": 1786509112.549708,
-      "bankroll": 409.56,
-      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Las Vegas Aces (-7.5)"
-    },
-    {
-      "timestamp": 1786509112.7501779,
-      "bankroll": 409.56,
-      "event": "lost: HomeRunHazard \u2014 Spread: Las Vegas Aces (-7.5)"
-    },
-    {
-      "timestamp": 1786509113.1034045,
-      "bankroll": 409.56,
-      "event": "won: HomeRunHazard \u2014 Spread: Milwaukee Brewers (-2.5)"
-    },
-    {
-      "timestamp": 1786509113.84538,
-      "bankroll": 410.1,
-      "event": "won: HomeRunHazard \u2014 Spread: Las Vegas Aces (-7.5)"
-    },
-    {
-      "timestamp": 1786509114.1917253,
-      "bankroll": 411.37,
-      "event": "won: wr0ngw4yb3tt0r \u2014 Washington Mystics vs. Las Vegas Aces: O/U 170.5"
-    },
-    {
-      "timestamp": 1786509125.130572,
-      "bankroll": 410.82,
-      "event": "lost: ferrariChampions2026 \u2014 Spread: Las Vegas Aces (-7.5)"
-    },
-    {
-      "timestamp": 1786509126.1323512,
-      "bankroll": 410.05,
-      "event": "lost: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 168.5"
-    },
-    {
-      "timestamp": 1786509126.3327823,
-      "bankroll": 410.64,
-      "event": "won: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 170.5"
-    },
-    {
-      "timestamp": 1786509126.7334921,
-      "bankroll": 411.82,
-      "event": "won: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 168.5"
-    },
-    {
-      "timestamp": 1786509127.0339165,
-      "bankroll": 413.34,
-      "event": "won: swisstony \u2014 Spread: Las Vegas Aces (-7.5)"
-    },
-    {
-      "timestamp": 1786509131.0990224,
-      "bankroll": 412.77,
-      "event": "lost: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 170.5"
-    },
-    {
-      "timestamp": 1786509131.2994182,
-      "bankroll": 410.4,
-      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 170.5"
-    },
-    {
-      "timestamp": 1786509131.7002008,
-      "bankroll": 411.4,
-      "event": "won: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 168.5"
-    },
-    {
-      "timestamp": 1786509131.8004339,
-      "bankroll": 410.94,
-      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 168.5"
-    },
-    {
-      "timestamp": 1786509132.0008414,
-      "bankroll": 409.08,
-      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 170.5"
-    },
-    {
-      "timestamp": 1786509132.1010585,
-      "bankroll": 404.41,
-      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 168.5"
-    },
-    {
-      "timestamp": 1786509132.2012908,
-      "bankroll": 405.62,
-      "event": "won: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 170.5"
-    },
-    {
-      "timestamp": 1786509132.3015213,
-      "bankroll": 404.87,
-      "event": "lost: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 168.5"
-    },
-    {
-      "timestamp": 1786509134.505667,
-      "bankroll": 404.21,
-      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 170.5"
-    },
-    {
-      "timestamp": 1786509134.6058736,
-      "bankroll": 392.38,
-      "event": "lost: 1winstreak1 \u2014 Spread: Las Vegas Aces (-7.5)"
-    },
-    {
-      "timestamp": 1786509240.6543198,
-      "bankroll": 392.78,
-      "event": "won: ferrariChampions2026 \u2014 Washington Mystics vs. Las Vegas Aces"
-    },
-    {
-      "timestamp": 1786509243.2376425,
-      "bankroll": 393.56,
-      "event": "won: swisstony \u2014 Washington Mystics vs. Las Vegas Aces"
-    },
-    {
-      "timestamp": 1786509243.4381058,
-      "bankroll": 394.02,
-      "event": "won: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces"
-    },
-    {
-      "timestamp": 1786509243.5383363,
-      "bankroll": 391.17,
-      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces"
-    },
-    {
-      "timestamp": 1786509243.8420959,
-      "bankroll": 392.47,
-      "event": "won: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 169.5"
-    },
-    {
-      "timestamp": 1786509244.1427612,
-      "bankroll": 391.98,
-      "event": "lost: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 169.5"
-    },
-    {
-      "timestamp": 1786509247.4232285,
-      "bankroll": 376.69,
-      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces"
-    },
-    {
-      "timestamp": 1786509247.5235944,
-      "bankroll": 374.93,
-      "event": "lost: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 169.5"
-    },
-    {
-      "timestamp": 1786509247.6238139,
-      "bankroll": 375.52,
-      "event": "won: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 169.5"
-    },
-    {
-      "timestamp": 1786509247.92442,
-      "bankroll": 375.03,
-      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 169.5"
-    },
-    {
-      "timestamp": 1786509250.0283802,
-      "bankroll": 373.63,
-      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 169.5"
-    },
-    {
-      "timestamp": 1786509251.139428,
-      "bankroll": 372.78,
-      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces"
-    },
-    {
-      "timestamp": 1786509306.383051,
-      "bankroll": 399.42,
-      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-2.5)"
-    },
-    {
-      "timestamp": 1786509306.7046685,
-      "bankroll": 402.73,
-      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-3.5)"
-    },
-    {
-      "timestamp": 1786509307.0371478,
-      "bankroll": 411.64,
-      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 6.5"
-    },
-    {
-      "timestamp": 1786509307.3647275,
-      "bankroll": 418.41,
-      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 5.5"
-    },
-    {
-      "timestamp": 1786509312.174435,
-      "bankroll": 424.44,
-      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 6.5"
-    },
-    {
-      "timestamp": 1786509314.3895268,
-      "bankroll": 428.3,
-      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 5.5"
-    },
-    {
-      "timestamp": 1786509361.9573772,
-      "bankroll": 432.0,
-      "event": "won: quavoo \u2014 Spread: Las Vegas Aces (-6.5)"
-    },
-    {
-      "timestamp": 1786509364.0015213,
-      "bankroll": 430.45,
-      "event": "lost: ferrariChampions2026 \u2014 Spread: Las Vegas Aces (-6.5)"
-    },
-    {
-      "timestamp": 1786509364.302105,
-      "bankroll": 430.91,
-      "event": "won: RN1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5"
-    },
-    {
-      "timestamp": 1786509368.0854967,
-      "bankroll": 430.23,
-      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 167.5"
-    },
-    {
-      "timestamp": 1786509368.1856194,
-      "bankroll": 429.52,
-      "event": "lost: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 167.5"
-    },
-    {
-      "timestamp": 1786509369.3878236,
-      "bankroll": 428.93,
-      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 167.5"
-    },
-    {
-      "timestamp": 1786509371.2170851,
-      "bankroll": 437.4,
-      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 7.5"
-    },
-    {
-      "timestamp": 1786509372.3551486,
-      "bankroll": 452.38,
-      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 7.5"
-    },
-    {
-      "timestamp": 1786509372.455323,
-      "bankroll": 448.07,
-      "event": "lost: wr0ngw4yb3tt0r \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 7.5"
-    },
-    {
-      "timestamp": 1786509422.9655085,
-      "bankroll": 448.09,
-      "event": "won: UpTheBlues \u2014 Spread: CD Universidad Cat\u00f3lica (-1.5)"
-    },
-    {
-      "timestamp": 1786509433.5684013,
-      "bankroll": 448.14,
-      "event": "won: ferrariChampions2026 \u2014 Club Bol\u00edvar vs. S\u00e3o Paulo FC: O/U 3.5"
-    },
-    {
-      "timestamp": 1786509435.0712652,
-      "bankroll": 448.15,
-      "event": "won: swisstony \u2014 Club Bol\u00edvar vs. S\u00e3o Paulo FC: O/U 3.5"
-    },
-    {
-      "timestamp": 1786509442.8607807,
-      "bankroll": 448.79,
-      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Colorado Rockies (-1.5)"
-    },
-    {
-      "timestamp": 1786509442.96101,
-      "bankroll": 446.5,
-      "event": "lost: 1winstreak1 \u2014 Spread: Colorado Rockies (-1.5)"
-    },
-    {
-      "timestamp": 1786509488.791405,
-      "bankroll": 445.02,
-      "event": "lost: RN1 \u2014 Will Club Bol\u00edvar win on 2026-08-11?"
-    },
-    {
-      "timestamp": 1786509489.944882,
-      "bankroll": 445.25,
-      "event": "won: ferrariChampions2026 \u2014 Estudiantes de La Plata vs. CD Universidad Cat\u00f3lica: O/U 1.5"
-    },
-    {
-      "timestamp": 1786509490.48445,
-      "bankroll": 446.39,
-      "event": "won: ferrariChampions2026 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5"
-    },
-    {
-      "timestamp": 1786509498.82991,
-      "bankroll": 448.36,
-      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5"
-    },
-    {
-      "timestamp": 1786509560.9904144,
-      "bankroll": 447.9,
-      "event": "lost: 1winstreak1 \u2014 Spread: Colorado Rockies (-2.5)"
-    },
-    {
-      "timestamp": 1786509561.090551,
-      "bankroll": 448.08,
-      "event": "won: RN1 \u2014 Spread: Colorado Rockies (-2.5)"
-    },
-    {
-      "timestamp": 1786509562.1432638,
-      "bankroll": 448.31,
-      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-1.5)"
-    },
-    {
-      "timestamp": 1786509682.8371348,
-      "bankroll": 446.92,
-      "event": "lost: 1winstreak1 \u2014 Houston Astros vs. San Francisco Giants: O/U 8.5"
-    },
-    {
-      "timestamp": 1786509741.8537889,
-      "bankroll": 446.92,
-      "event": "lost: ferrariChampions2026 \u2014 Spread: Houston Astros (-1.5)"
-    },
-    {
-      "timestamp": 1786509745.0604262,
-      "bankroll": 447.33,
-      "event": "won: 1winstreak1 \u2014 Spread: Houston Astros (-1.5)"
-    },
-    {
-      "timestamp": 1786509745.4833457,
-      "bankroll": 447.52,
-      "event": "won: 1winstreak1 \u2014 Houston Astros vs. San Francisco Giants: O/U 9.5"
-    },
-    {
-      "timestamp": 1786509933.9580274,
-      "bankroll": 446.96,
-      "event": "lost: 1winstreak1 \u2014 Houston Astros vs. San Francisco Giants: O/U 7.5"
-    },
-    {
-      "timestamp": 1786509998.5219686,
-      "bankroll": 446.96,
-      "event": "won: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 16.5"
-    },
-    {
-      "timestamp": 1786510043.4486842,
-      "bankroll": 447.4,
+      "timestamp": 1786513540.138984,
+      "bankroll": 429.87,
       "event": "won: quavoo \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 179.5"
     },
     {
-      "timestamp": 1786510045.0680075,
-      "bankroll": 447.4,
+      "timestamp": 1786513541.4045665,
+      "bankroll": 429.87,
       "event": "won: HomeRunHazard \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
     },
     {
-      "timestamp": 1786510045.4989371,
-      "bankroll": 447.4,
-      "event": "lost: HomeRunHazard \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
+      "timestamp": 1786513541.7568626,
+      "bankroll": 429.89,
+      "event": "won: UpTheBlues \u2014 Spread: CD Universidad Cat\u00f3lica (-1.5)"
     },
     {
-      "timestamp": 1786510045.84653,
-      "bankroll": 447.4,
-      "event": "lost: HomeRunHazard \u2014 Spread: Los Angeles Sparks (-2.5)"
+      "timestamp": 1786513542.1281676,
+      "bankroll": 429.89,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 8.5"
     },
     {
-      "timestamp": 1786510045.9468608,
-      "bankroll": 449.84,
-      "event": "won: HomeRunHazard \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
+      "timestamp": 1786513542.4629173,
+      "bankroll": 429.49,
+      "event": "lost: HomeRunHazard \u2014 Washington Mystics vs. Las Vegas Aces: O/U 168.5"
     },
     {
-      "timestamp": 1786510046.0471017,
-      "bankroll": 450.88,
-      "event": "won: HomeRunHazard \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
-    },
-    {
-      "timestamp": 1786510046.1473315,
-      "bankroll": 450.88,
-      "event": "won: HomeRunHazard \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
-    },
-    {
-      "timestamp": 1786510046.460255,
-      "bankroll": 451.37,
-      "event": "won: HomeRunHazard \u2014 Spread: Phoenix Mercury (-1.5)"
-    },
-    {
-      "timestamp": 1786510046.6607332,
-      "bankroll": 454.66,
-      "event": "won: HomeRunHazard \u2014 Spread: Los Angeles Sparks (-2.5)"
-    },
-    {
-      "timestamp": 1786510046.7609942,
-      "bankroll": 455.52,
-      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Sparks (-2.5)"
-    },
-    {
-      "timestamp": 1786510047.4480708,
-      "bankroll": 457.21,
-      "event": "won: wr0ngw4yb3tt0r \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 177.5"
-    },
-    {
-      "timestamp": 1786510047.5483484,
-      "bankroll": 457.62,
-      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Sparks (-2.5)"
-    },
-    {
-      "timestamp": 1786510054.1877623,
-      "bankroll": 457.62,
-      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Sparks (-2.5)"
-    },
-    {
-      "timestamp": 1786510054.7888927,
-      "bankroll": 457.16,
-      "event": "lost: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 177.5"
-    },
-    {
-      "timestamp": 1786510055.0895176,
-      "bankroll": 456.7,
-      "event": "lost: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 179.5"
-    },
-    {
-      "timestamp": 1786510055.4902925,
-      "bankroll": 457.25,
-      "event": "won: ferrariChampions2026 \u2014 Spread: Phoenix Mercury (-1.5)"
-    },
-    {
-      "timestamp": 1786510055.991338,
-      "bankroll": 457.67,
-      "event": "won: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 177.5"
-    },
-    {
-      "timestamp": 1786510056.692765,
-      "bankroll": 456.94,
-      "event": "lost: swisstony \u2014 Spread: Phoenix Mercury (-1.5)"
-    },
-    {
-      "timestamp": 1786510057.294163,
-      "bankroll": 458.13,
-      "event": "won: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
-    },
-    {
-      "timestamp": 1786510058.8382678,
-      "bankroll": 457.46,
-      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
-    },
-    {
-      "timestamp": 1786510059.4394903,
-      "bankroll": 456.35,
-      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 179.5"
-    },
-    {
-      "timestamp": 1786510059.6399224,
-      "bankroll": 457.12,
-      "event": "won: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
-    },
-    {
-      "timestamp": 1786510059.8402689,
-      "bankroll": 456.0,
-      "event": "lost: 1winstreak1 \u2014 Spread: Phoenix Mercury (-1.5)"
-    },
-    {
-      "timestamp": 1786510060.3411572,
-      "bankroll": 456.8,
-      "event": "won: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
-    },
-    {
-      "timestamp": 1786510060.4414055,
-      "bankroll": 456.25,
-      "event": "lost: swisstony \u2014 Spread: Phoenix Mercury (-1.5)"
-    },
-    {
-      "timestamp": 1786510060.5416443,
-      "bankroll": 455.75,
-      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
-    },
-    {
-      "timestamp": 1786510060.6418612,
-      "bankroll": 462.4,
-      "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Sparks (-2.5)"
-    },
-    {
-      "timestamp": 1786510061.142936,
-      "bankroll": 463.68,
-      "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Sparks (-2.5)"
-    },
-    {
-      "timestamp": 1786510061.6439438,
-      "bankroll": 463.14,
-      "event": "lost: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 177.5"
-    },
-    {
-      "timestamp": 1786510112.6366456,
-      "bankroll": 462.15,
-      "event": "lost: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
-    },
-    {
-      "timestamp": 1786510112.7369676,
-      "bankroll": 462.79,
-      "event": "won: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
-    },
-    {
-      "timestamp": 1786510114.054896,
-      "bankroll": 462.09,
-      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks"
-    },
-    {
-      "timestamp": 1786510114.455797,
-      "bankroll": 475.22,
-      "event": "won: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
-    },
-    {
-      "timestamp": 1786510116.50102,
-      "bankroll": 476.59,
-      "event": "won: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks"
-    },
-    {
-      "timestamp": 1786510116.6012661,
-      "bankroll": 475.69,
-      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks"
-    },
-    {
-      "timestamp": 1786510116.7015016,
-      "bankroll": 473.62,
-      "event": "lost: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
-    },
-    {
-      "timestamp": 1786510117.3026805,
-      "bankroll": 488.75,
-      "event": "won: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
-    },
-    {
-      "timestamp": 1786510117.4028347,
-      "bankroll": 482.18,
-      "event": "lost: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
-    },
-    {
-      "timestamp": 1786510117.8035405,
-      "bankroll": 484.47,
-      "event": "won: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
-    },
-    {
-      "timestamp": 1786510118.104199,
-      "bankroll": 489.51,
-      "event": "won: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
-    },
-    {
-      "timestamp": 1786510118.6051855,
-      "bankroll": 490.07,
-      "event": "won: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
-    },
-    {
-      "timestamp": 1786510118.7054257,
-      "bankroll": 482.7,
-      "event": "lost: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
-    },
-    {
-      "timestamp": 1786510120.208353,
-      "bankroll": 483.22,
-      "event": "won: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
-    },
-    {
-      "timestamp": 1786510360.2011983,
-      "bankroll": 483.22,
+      "timestamp": 1786513542.8238642,
+      "bankroll": 429.49,
       "event": "won: dv-pm \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
     },
     {
-      "timestamp": 1786510368.0747182,
-      "bankroll": 486.74,
-      "event": "won: ferrariChampions2026 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
+      "timestamp": 1786513542.9240098,
+      "bankroll": 429.49,
+      "event": "lost: HomeRunHazard \u2014 Washington Mystics vs. Las Vegas Aces: O/U 168.5"
     },
     {
-      "timestamp": 1786510426.6057396,
-      "bankroll": 487.12,
-      "event": "won: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 182.5"
+      "timestamp": 1786513543.269248,
+      "bankroll": 429.49,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Las Vegas Aces (-7.5)"
     },
     {
-      "timestamp": 1786510429.1657639,
-      "bankroll": 487.46,
-      "event": "won: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 182.5"
+      "timestamp": 1786513543.3694143,
+      "bankroll": 429.49,
+      "event": "lost: HomeRunHazard \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
     },
     {
-      "timestamp": 1786510429.4663992,
-      "bankroll": 487.01,
-      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 182.5"
+      "timestamp": 1786513543.469522,
+      "bankroll": 429.49,
+      "event": "lost: HomeRunHazard \u2014 Spread: Las Vegas Aces (-7.5)"
     },
     {
-      "timestamp": 1786510429.5666306,
-      "bankroll": 486.52,
-      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 182.5"
+      "timestamp": 1786513543.8161535,
+      "bankroll": 429.49,
+      "event": "won: HomeRunHazard \u2014 Spread: Milwaukee Brewers (-2.5)"
     },
     {
-      "timestamp": 1786510489.0747917,
-      "bankroll": 486.04,
-      "event": "lost: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 180.5"
+      "timestamp": 1786513544.1962967,
+      "bankroll": 429.49,
+      "event": "lost: HomeRunHazard \u2014 Spread: Los Angeles Sparks (-2.5)"
     },
     {
-      "timestamp": 1786510489.728313,
-      "bankroll": 486.58,
-      "event": "won: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 181.5"
+      "timestamp": 1786513544.296456,
+      "bankroll": 431.93,
+      "event": "won: HomeRunHazard \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
     },
     {
-      "timestamp": 1786510489.8285522,
-      "bankroll": 486.04,
-      "event": "lost: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 180.5"
+      "timestamp": 1786513544.3966126,
+      "bankroll": 432.97,
+      "event": "won: HomeRunHazard \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
     },
     {
-      "timestamp": 1786510490.6586764,
-      "bankroll": 485.49,
-      "event": "lost: swisstony \u2014 Spread: Las Vegas Aces (-8.5)"
+      "timestamp": 1786513544.7696853,
+      "bankroll": 432.97,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
     },
     {
-      "timestamp": 1786510491.7954948,
-      "bankroll": 484.98,
-      "event": "lost: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 180.5"
+      "timestamp": 1786513545.1570022,
+      "bankroll": 432.97,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
     },
     {
-      "timestamp": 1786510493.6469676,
-      "bankroll": 484.16,
-      "event": "lost: 1winstreak1 \u2014 Spread: Las Vegas Aces (-8.5)"
+      "timestamp": 1786513545.2571232,
+      "bankroll": 432.97,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
     },
     {
-      "timestamp": 1786510493.7471635,
-      "bankroll": 484.62,
-      "event": "won: 1winstreak1 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 181.5"
+      "timestamp": 1786513545.3572407,
+      "bankroll": 432.97,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
     },
     {
-      "timestamp": 1786511995.8245478,
-      "bankroll": 484.03,
-      "event": "lost: 1winstreak1 \u2014 Spread: Kansas City Royals (-2.5)"
+      "timestamp": 1786513545.4574144,
+      "bankroll": 432.97,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
     },
     {
-      "timestamp": 1786511996.425408,
-      "bankroll": 483.32,
-      "event": "lost: 1winstreak1 \u2014 Spread: Kansas City Royals (-2.5)"
+      "timestamp": 1786513545.5575457,
+      "bankroll": 432.97,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
     },
     {
-      "timestamp": 1786512054.3369458,
-      "bankroll": 482.72,
-      "event": "lost: quavoo \u2014 Spread: Los Angeles Dodgers (-1.5)"
+      "timestamp": 1786513545.657721,
+      "bankroll": 432.97,
+      "event": "won: HomeRunHazard \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 178.5"
     },
     {
-      "timestamp": 1786512054.53738,
-      "bankroll": 484.07,
-      "event": "won: swisstony \u2014 Spread: Los Angeles Dodgers (-1.5)"
+      "timestamp": 1786513545.7578263,
+      "bankroll": 433.51,
+      "event": "won: HomeRunHazard \u2014 Spread: Las Vegas Aces (-7.5)"
     },
     {
-      "timestamp": 1786512055.4689424,
-      "bankroll": 488.76,
-      "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+      "timestamp": 1786513546.1393962,
+      "bankroll": 434.78,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Washington Mystics vs. Las Vegas Aces: O/U 170.5"
     },
     {
-      "timestamp": 1786512056.0700057,
-      "bankroll": 488.27,
-      "event": "lost: swisstony \u2014 Spread: Los Angeles Dodgers (-1.5)"
+      "timestamp": 1786513546.806677,
+      "bankroll": 435.27,
+      "event": "won: HomeRunHazard \u2014 Spread: Phoenix Mercury (-1.5)"
     },
     {
-      "timestamp": 1786512057.3130822,
-      "bankroll": 491.38,
-      "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+      "timestamp": 1786513547.0074306,
+      "bankroll": 438.56,
+      "event": "won: HomeRunHazard \u2014 Spread: Los Angeles Sparks (-2.5)"
     },
     {
-      "timestamp": 1786512060.2751498,
-      "bankroll": 491.38,
-      "event": "lost: RN1 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+      "timestamp": 1786513547.1076174,
+      "bankroll": 439.43,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Sparks (-2.5)"
     },
     {
-      "timestamp": 1786512060.3753078,
-      "bankroll": 491.38,
-      "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+      "timestamp": 1786513547.4886124,
+      "bankroll": 440.81,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
     },
     {
-      "timestamp": 1786512061.3768418,
-      "bankroll": 491.52,
-      "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+      "timestamp": 1786513547.7924724,
+      "bankroll": 441.59,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
     },
     {
-      "timestamp": 1786512181.0601213,
-      "bankroll": 499.05,
+      "timestamp": 1786513548.15726,
+      "bankroll": 443.27,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 177.5"
+    },
+    {
+      "timestamp": 1786513548.2574058,
+      "bankroll": 443.69,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Sparks (-2.5)"
+    },
+    {
+      "timestamp": 1786513549.1511056,
+      "bankroll": 443.69,
+      "event": "lost: SDTrading \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786513549.2512136,
+      "bankroll": 443.69,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786513549.3513556,
+      "bankroll": 443.69,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786513549.5516207,
+      "bankroll": 443.69,
+      "event": "lost: SDTrading \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786513550.5263922,
+      "bankroll": 443.69,
+      "event": "won: UpTheBlues \u2014 Will CA Boca Juniors win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786513551.0164313,
+      "bankroll": 444.04,
+      "event": "won: SDTrading \u2014 Spread: Texas Rangers (-1.5)"
+    },
+    {
+      "timestamp": 1786513551.3993313,
+      "bankroll": 441.87,
+      "event": "lost: BrotherObama \u2014 LoL: RMD Gaming vs RED Academy (BO3) - Circuito Desafiante Play-In"
+    },
+    {
+      "timestamp": 1786513551.4994953,
+      "bankroll": 439.52,
+      "event": "lost: SDTrading \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786513551.5996017,
+      "bankroll": 435.65,
+      "event": "lost: BrotherObama \u2014 LoL: RMD Gaming vs RED Academy (BO3) - Circuito Desafiante Play-In"
+    },
+    {
+      "timestamp": 1786513552.0537846,
+      "bankroll": 435.65,
+      "event": "won: quavoo \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1786513552.1539454,
+      "bankroll": 435.65,
+      "event": "won: RN1 \u2014 Will CA Boca Juniors win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786513552.5115108,
+      "bankroll": 435.65,
+      "event": "won: RN1 \u2014 Will Fluminense FC vs. CS Independiente Rivadavia end in a draw?"
+    },
+    {
+      "timestamp": 1786513552.8596828,
+      "bankroll": 435.65,
+      "event": "lost: swisstony \u2014 Will CR Brasil win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786513553.2100015,
+      "bankroll": 435.65,
+      "event": "won: ferrariChampions2026 \u2014 LoL: RMD Gaming vs RED Academy - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786513553.5581443,
+      "bankroll": 435.78,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: cobblemon vs Gr\u00eamio Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786513555.3977592,
+      "bankroll": 435.78,
+      "event": "lost: ferrariChampions2026 \u2014 Will CA Boca Juniors win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786513555.4979,
+      "bankroll": 435.78,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: cobblemon vs Gr\u00eamio Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786513555.5980372,
+      "bankroll": 435.78,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: cobblemon vs Gr\u00eamio Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786513555.698184,
+      "bankroll": 435.78,
+      "event": "lost: Sassy-Bucket \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786513555.8985057,
+      "bankroll": 435.78,
+      "event": "won: swisstony \u2014 Will Fluminense FC vs. CS Independiente Rivadavia end in a draw?"
+    },
+    {
+      "timestamp": 1786513556.277752,
+      "bankroll": 435.78,
+      "event": "lost: swisstony \u2014 Will Ava\u00ed FC vs. CR Brasil end in a draw?"
+    },
+    {
+      "timestamp": 1786513556.4779873,
+      "bankroll": 435.78,
+      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786513556.578107,
+      "bankroll": 435.78,
+      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786513556.7783306,
+      "bankroll": 435.78,
+      "event": "lost: BrotherObama \u2014 LoL: RMD Gaming vs RED Academy (BO3) - Circuito Desafiante Play-In"
+    },
+    {
+      "timestamp": 1786513557.0787344,
+      "bankroll": 435.78,
+      "event": "lost: BrotherObama \u2014 LoL: RMD Gaming vs RED Academy (BO3) - Circuito Desafiante Play-In"
+    },
+    {
+      "timestamp": 1786513557.605691,
+      "bankroll": 435.78,
+      "event": "lost: swisstony \u2014 Will Ava\u00ed FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786513557.7058377,
+      "bankroll": 435.78,
+      "event": "lost: swisstony \u2014 Will Ava\u00ed FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786513558.2066057,
+      "bankroll": 435.78,
+      "event": "won: swisstony \u2014 Will CR Brasil win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786513558.5498018,
+      "bankroll": 435.78,
+      "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786513558.878068,
+      "bankroll": 435.78,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Houston Astros (-1.5)"
+    },
+    {
+      "timestamp": 1786513559.0783823,
+      "bankroll": 435.78,
+      "event": "lost: swisstony \u2014 Will CR Brasil win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786513559.1785283,
+      "bankroll": 435.78,
+      "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786513559.3787663,
+      "bankroll": 435.78,
+      "event": "lost: RN1 \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786513559.4789066,
+      "bankroll": 435.78,
+      "event": "lost: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786513559.912183,
+      "bankroll": 435.78,
+      "event": "won: swisstony \u2014 Will Fluminense FC vs. CS Independiente Rivadavia end in a draw?"
+    },
+    {
+      "timestamp": 1786513560.0122943,
+      "bankroll": 435.78,
+      "event": "won: swisstony \u2014 Will Ava\u00ed FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786513560.1124403,
+      "bankroll": 435.78,
+      "event": "won: swisstony \u2014 Will Ava\u00ed FC vs. CR Brasil end in a draw?"
+    },
+    {
+      "timestamp": 1786513560.212583,
+      "bankroll": 434.3,
+      "event": "lost: RN1 \u2014 Will Club Bol\u00edvar win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786513561.070176,
+      "bankroll": 434.56,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Seattle Mariners (-1.5)"
+    },
+    {
+      "timestamp": 1786513561.5554616,
+      "bankroll": 434.56,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Sparks (-2.5)"
+    },
+    {
+      "timestamp": 1786513561.6556153,
+      "bankroll": 433.52,
+      "event": "lost: Sassy-Bucket \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786513562.0266187,
+      "bankroll": 433.76,
+      "event": "won: ferrariChampions2026 \u2014 Estudiantes de La Plata vs. CD Universidad Cat\u00f3lica: O/U 1.5"
+    },
+    {
+      "timestamp": 1786513562.3950465,
+      "bankroll": 437.46,
+      "event": "won: quavoo \u2014 Spread: Las Vegas Aces (-6.5)"
+    },
+    {
+      "timestamp": 1786513563.0505767,
+      "bankroll": 437.12,
+      "event": "lost: ferrariChampions2026 \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 6.5"
+    },
+    {
+      "timestamp": 1786513563.1507251,
+      "bankroll": 438.25,
+      "event": "won: ferrariChampions2026 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786513563.250876,
+      "bankroll": 445.78,
       "event": "won: ferrariChampions2026 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5"
     },
     {
-      "timestamp": 1786512181.1603656,
-      "bankroll": 500.13,
+      "timestamp": 1786513563.604044,
+      "bankroll": 445.82,
+      "event": "won: ferrariChampions2026 \u2014 Club Bol\u00edvar vs. S\u00e3o Paulo FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786513563.704173,
+      "bankroll": 446.91,
       "event": "won: quavoo \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5"
     },
     {
-      "timestamp": 1786512183.7392766,
-      "bankroll": 499.44,
-      "event": "lost: 1winstreak1 \u2014 Spread: Kansas City Royals (-1.5)"
+      "timestamp": 1786513564.0658562,
+      "bankroll": 445.92,
+      "event": "lost: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
     },
     {
-      "timestamp": 1786512186.8067887,
-      "bankroll": 498.96,
-      "event": "lost: 1winstreak1 \u2014 Spread: Kansas City Royals (-1.5)"
+      "timestamp": 1786513564.1660116,
+      "bankroll": 445.46,
+      "event": "lost: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 177.5"
     },
     {
-      "timestamp": 1786512187.109667,
-      "bankroll": 503.91,
-      "event": "won: 1winstreak1 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 9.5"
+      "timestamp": 1786513564.2661572,
+      "bankroll": 446.1,
+      "event": "won: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks"
     },
     {
-      "timestamp": 1786512187.3099222,
-      "bankroll": 508.89,
-      "event": "won: HomeRunHazard \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 9.5"
+      "timestamp": 1786513564.629905,
+      "bankroll": 445.62,
+      "event": "lost: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 180.5"
     },
     {
-      "timestamp": 1786512187.410066,
-      "bankroll": 509.5,
-      "event": "won: 1winstreak1 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 9.5"
+      "timestamp": 1786513564.730059,
+      "bankroll": 445.16,
+      "event": "lost: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 179.5"
     },
     {
-      "timestamp": 1786512187.510267,
-      "bankroll": 510.23,
-      "event": "won: 1winstreak1 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 9.5"
+      "timestamp": 1786513565.0710382,
+      "bankroll": 445.56,
+      "event": "won: ferrariChampions2026 \u2014 Washington Mystics vs. Las Vegas Aces"
+    },
+    {
+      "timestamp": 1786513565.4329169,
+      "bankroll": 444.96,
+      "event": "lost: quavoo \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786513565.7608504,
+      "bankroll": 445.5,
+      "event": "won: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 181.5"
+    },
+    {
+      "timestamp": 1786513565.8609922,
+      "bankroll": 444.96,
+      "event": "lost: ferrariChampions2026 \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 180.5"
+    },
+    {
+      "timestamp": 1786513565.9610887,
+      "bankroll": 445.52,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Phoenix Mercury (-1.5)"
+    },
+    {
+      "timestamp": 1786513566.0612466,
+      "bankroll": 443.97,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Las Vegas Aces (-6.5)"
+    },
+    {
+      "timestamp": 1786513566.1614246,
+      "bankroll": 443.42,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Las Vegas Aces (-7.5)"
+    },
+    {
+      "timestamp": 1786513566.2615767,
+      "bankroll": 446.93,
+      "event": "won: ferrariChampions2026 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786513566.4618967,
+      "bankroll": 447.39,
+      "event": "won: RN1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5"
+    },
+    {
+      "timestamp": 1786513566.824527,
+      "bankroll": 447.78,
+      "event": "won: swisstony \u2014 Phoenix Mercury vs. Los Angeles Sparks: O/U 182.5"
+    },
+    {
+      "timestamp": 1786513566.924669,
+      "bankroll": 449.13,
+      "event": "won: swisstony \u2014 Spread: Los Angeles Dodgers (-1.5)"
     }
   ]
 }
