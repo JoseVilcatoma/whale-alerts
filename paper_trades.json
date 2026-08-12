@@ -80963,5 +80963,27 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786532684.4799838,
     "fills": 1
+  },
+  {
+    "timestamp": 1786532731,
+    "timestamp_added": 1786532731.6188538,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "usc-psg-av-2026-08-12-psg",
+    "title": "Will Paris Saint-Germain win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 377.1975,
+    "whale_pct": 0.653,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786532731.6188624,
+    "fills": 1
   }
 ]
