@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 12:57:14 (hora de Perú)
+Actualizado: 2026-08-12 12:59:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1524**  ($38,400,515 en total)
+- Apuestas registradas: **1536**  ($38,638,778 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 583
-- Apostadores distintos: 149
+- Pendientes: 595
+- Apostadores distintos: 150
 
 ### Balance
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 67 | 28% | $6,098,694 | -$789,178 |
 | Djdjdjekekek | 36 | 12 | 77 | 75% | $5,657,802 | +$573,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 7 | 36% | $2,392,102 | -$421,290 |
-| ferrariChampions2026 | 90 | 29 | 21 | 76% | $2,018,480 | +$113,934 |
+| ferrariChampions2026 | 90 | 29 | 25 | 76% | $2,061,910 | +$113,934 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
 | Weaseloftheweek | 11 | 2 | 7 | 85% | $1,636,724 | +$518,388 |
 | pleaseplease123 | 0 | 44 | 9 | 0% | $1,340,870 | -$1,082,423 |
@@ -60,18 +60,30 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | winwin518168 | 0 | 12 | 0 | 0% | $191,010 | -$191,010 |
 | xifutloong3 | 6 | 0 | 0 | ⚠️ 100% (6) | $190,324 | +$142,407 |
 | RN1 | 8 | 5 | 0 | 62% | $168,739 | +$11,250 |
+| bigspending | 0 | 0 | 2 | — | $167,075 | — |
 | basementdweller3000 | 0 | 0 | 9 | — | $164,772 | — |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
 | NemecGhudini | 3 | 2 | 5 | ⚠️ 60% (5) | $161,645 | -$17,067 |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,408 | +$115,433 |
 
-_(mostrando los 40 de mayor monto, de 149 en total)_
+_(mostrando los 40 de mayor monto, de 150 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Bot313 | Baltimore Orioles vs. Minnesota Twins: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $10,000 | — | ⏳ Pendiente |
+| Bot313 | Baltimore Orioles vs. Minnesota Twins: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $10,000 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.18 (85¢) | $11,214 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.19 (84¢) | $10,472 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.18 (85¢) | $11,244 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.19 (84¢) | $10,500 | — | ⏳ Pendiente |
+| ohehe | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.20 (83¢) | $30,944 | — | ⏳ Pendiente |
 | CORGI8 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.56 (64¢) | $10,102 | — | ⏳ Pendiente |
+| CORGI8 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.56 (64¢) | $10,102 | — | ⏳ Pendiente |
+| swisstony | Exact Score: Paris Saint-Germain 0 - 0 Aston Villa? | No | 1.06 (94¢) | $22,508 | — | ⏳ Pendiente |
+| bigspending | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $83,537 | — | ⏳ Pendiente |
+| 0way | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $10,578 | — | ⏳ Pendiente |
+| Daemon99 | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $17,163 | — | ⏳ Pendiente |
 | Daemon99 | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $17,163 | — | ⏳ Pendiente |
 | bigspending | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $83,537 | — | ⏳ Pendiente |
 | 0way | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $10,578 | — | ⏳ Pendiente |
@@ -119,15 +131,3 @@ _(mostrando los 40 de mayor monto, de 149 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $47,721 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Baltimore Orioles vs. Minnesota Twins: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $23,847 | — | ⏳ Pendiente |
 | fRibrenlc | Baltimore Orioles vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $10,222 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Baltimore Orioles vs. Minnesota Twins: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $23,847 | — | ⏳ Pendiente |
-| fRibrenlc | Baltimore Orioles vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $10,222 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Baltimore Orioles (-1.5) | Baltimore Orioles | 2.63 (38¢) | $15,450 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Spread: Baltimore Orioles (-1.5) | Minnesota Twins | 1.61 (62¢) | $10,343 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Baltimore Orioles (-1.5) | Baltimore Orioles | 2.63 (38¢) | $15,450 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Spread: Baltimore Orioles (-1.5) | Minnesota Twins | 1.61 (62¢) | $10,343 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Minnesota Twins | Baltimore Orioles | 2.00 (50¢) | $80,000 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Baltimore Orioles vs. Minnesota Twins | Minnesota Twins | 2.00 (50¢) | $79,396 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Baltimore Orioles vs. Minnesota Twins | Minnesota Twins | 2.00 (50¢) | $79,396 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.33 (30¢) | $49,857 | — | ⏳ Pendiente |
-| hansama231 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.43 (70¢) | $52,500 | — | ⏳ Pendiente |
-| casualbet2020 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.41 (71¢) | $29,650 | — | ⏳ Pendiente |
