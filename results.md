@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 20:51:56 (hora de Perú)
+Actualizado: 2026-08-11 20:54:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **311**  ($6,429,731 en total)
+- Apuestas registradas: **312**  ($6,443,231 en total)
 - Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 195
-- Apostadores distintos: 86
+- Pendientes: 196
+- Apostadores distintos: 87
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | monkeymashingkeyboard | 0 | 0 | 2 | — | $26,186 | — |
 | SevenTons | 0 | 0 | 2 | — | $25,996 | — |
 
-_(mostrando los 40 de mayor monto, de 86 en total)_
+_(mostrando los 40 de mayor monto, de 87 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| thecomplicatedguy | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.85 (54¢) | $13,500 | — | ⏳ Pendiente |
 | RN1 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.85 (54¢) | $14,411 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 2.17 (46¢) | $12,093 | — | ⏳ Pendiente |
 | RN1 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.85 (54¢) | $14,411 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 86 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Henrique Rocha | 3.12 (32¢) | $19,859 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Henrique Rocha | 3.12 (32¢) | $19,859 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Marcos Giron | 1.47 (68¢) | $50,018 | — | ⏳ Pendiente |
-| ughjbnk | Valorant: JD Gaming vs Trace Esports (BO3) - VCT China Stage 2 Play-Ins | JD Gaming | 1.79 (56¢) | $12,822 | — | ⏳ Pendiente |
