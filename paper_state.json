@@ -1,5 +1,5 @@
 {
-  "bankroll": 560.1224487241683,
+  "bankroll": 559.3559705676428,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18350,6 +18350,41 @@
       "timestamp": 1786563938.0041413,
       "bankroll": 560.12,
       "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 10.5"
+    },
+    {
+      "timestamp": 1786564437.4379017,
+      "bankroll": 560.18,
+      "event": "won: UpTheBlues \u2014 Will Paide Linnameeskond win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786564441.1453836,
+      "bankroll": 559.31,
+      "event": "lost: UpTheBlues \u2014 Will Debreceni VSC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786564441.4736419,
+      "bankroll": 558.38,
+      "event": "lost: UpTheBlues \u2014 Will SK Rapid Wien vs. Paide Linnameeskond end in a draw?"
+    },
+    {
+      "timestamp": 1786564441.8884263,
+      "bankroll": 560.02,
+      "event": "won: UpTheBlues \u2014 SK Rapid Wien vs. Paide Linnameeskond: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786564442.723868,
+      "bankroll": 560.33,
+      "event": "won: UpTheBlues \u2014 SK Rapid Wien vs. Paide Linnameeskond: O/U 0.5"
+    },
+    {
+      "timestamp": 1786564443.1255648,
+      "bankroll": 559.36,
+      "event": "lost: UpTheBlues \u2014 Spread: SK Rapid Wien (-2.5)"
+    },
+    {
+      "timestamp": 1786564447.1827037,
+      "bankroll": 559.36,
+      "event": "lost: UpTheBlues \u2014 Spread: FC K\u00f8benhavn (-2.5)"
     }
   ]
 }
