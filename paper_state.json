@@ -1,5 +1,5 @@
 {
-  "bankroll": 446.1711399488406,
+  "bankroll": 444.5211399488406,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18025,6 +18025,61 @@
       "timestamp": 1786515110.009963,
       "bankroll": 446.17,
       "event": "lost: quavoo \u2014 Will FC Cincinnati win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786517301.0639567,
+      "bankroll": 445.74,
+      "event": "lost: quavoo \u2014 Will Charlotte FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786517301.5357258,
+      "bankroll": 445.13,
+      "event": "lost: quavoo \u2014 Will Charlotte FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786517301.836224,
+      "bankroll": 444.52,
+      "event": "lost: quavoo \u2014 Will Charlotte FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786517302.6374345,
+      "bankroll": 444.52,
+      "event": "lost: quavoo \u2014 Will Charlotte FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786517303.638998,
+      "bankroll": 444.52,
+      "event": "lost: quavoo \u2014 Will Charlotte FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786517303.73917,
+      "bankroll": 444.52,
+      "event": "lost: quavoo \u2014 Will Charlotte FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786517303.9394763,
+      "bankroll": 444.52,
+      "event": "lost: quavoo \u2014 Will Charlotte FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786517304.0395885,
+      "bankroll": 444.52,
+      "event": "lost: quavoo \u2014 Will Charlotte FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786517304.1397521,
+      "bankroll": 444.52,
+      "event": "lost: quavoo \u2014 Will Charlotte FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786517304.2399042,
+      "bankroll": 444.52,
+      "event": "lost: quavoo \u2014 Will Charlotte FC win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786517304.340072,
+      "bankroll": 444.52,
+      "event": "lost: quavoo \u2014 Will Charlotte FC win on 2026-08-11?"
     }
   ]
 }
