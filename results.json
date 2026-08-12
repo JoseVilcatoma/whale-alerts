@@ -20281,5 +20281,44 @@
     "usd": 11901.329998000001,
     "odds_at_bet": 59,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1325,
+    "timestamp": 1786559770,
+    "username": "ThisAgain",
+    "wallet": "0x2cff41636fe21fad120fed603d54d4fdd96259db",
+    "slug": "wta-gauff-rybakin-2026-08-12",
+    "title": "National Bank Open: Coco Gauff vs Elena Rybakina",
+    "outcome": "Coco Gauff",
+    "side": "BUY",
+    "usd": 19979.4438,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1326,
+    "timestamp": 1786559770,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "wta-gauff-rybakin-2026-08-12",
+    "title": "National Bank Open: Coco Gauff vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 17019.5262,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1327,
+    "timestamp": 1786559774,
+    "username": "0x633e96a4b7ae543522358282eafa023fe61bd305-1783406206089",
+    "wallet": "0x633e96a4b7ae543522358282eafa023fe61bd305",
+    "slug": "mlb-bal-min-2026-08-12",
+    "title": "Baltimore Orioles vs. Minnesota Twins",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "usd": 14285.709997999998,
+    "odds_at_bet": 78,
+    "status": "pending"
   }
 ]
