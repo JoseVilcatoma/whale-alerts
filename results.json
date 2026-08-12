@@ -12097,5 +12097,18 @@
     "usd": 18002.3991,
     "odds_at_bet": 49,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 746,
+    "timestamp": 1786526173,
+    "username": "five5120",
+    "wallet": "0xc1c7bb8761105f6d33fc8d71dec31b5688a0f0a7",
+    "slug": "lol-edg-al-2026-08-12-game1",
+    "title": "LoL: EDward Gaming vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 17999.999999,
+    "odds_at_bet": 81,
+    "status": "pending"
   }
 ]
