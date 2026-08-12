@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 01:24:37 (hora de Perú)
+Actualizado: 2026-08-12 01:26:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $446.17
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 3 | 9 | 0 | +15.41 USD |
-| HomeRunHazard | 114 | 97 | 4 | +13.95 USD |
+| HomeRunHazard | 114 | 97 | 7 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | UpTheBlues | 244 | 150 | 10 | +5.17 USD |
@@ -447,6 +447,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 48% | 1.15 | ⏳ pendiente | — |
+| HomeRunHazard | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 52% | 4.58 | ⏳ pendiente | — |
+| HomeRunHazard | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 55% | 3.24 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 50% | 0.72 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 53% | 0.59 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 55% | 2.64 | ⏳ pendiente | — |
@@ -474,6 +477,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 0.96 | ✅ ganada | +1.08 |
 | ferrariChampions2026 | Club Bolívar vs. São Paulo FC: O/U 3.5 | Under (BUY) | 89% | 0.39 | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 6.67 | ✅ ganada | +7.52 |
-| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 47% | 1.01 | ✅ ganada | +1.14 |
-| ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 49% | 0.34 | ❌ perdida | -0.34 |
-| ferrariChampions2026 | Real Salt Lake vs. FC Juárez: O/U 2.5 | Over (BUY) | 60% | 0.37 | ⏳ pendiente | — |
