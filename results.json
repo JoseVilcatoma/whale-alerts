@@ -17272,5 +17272,44 @@
     "usd": 11761.026000000002,
     "odds_at_bet": 62,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1092,
+    "timestamp": 1786546002,
+    "username": "vananal0318",
+    "wallet": "0xb589734f08a5b12a7b6f30b782a5deeace3f91e3",
+    "slug": "lol-blg-jdg-2026-08-12",
+    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 10000.0,
+    "odds_at_bet": 80,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1093,
+    "timestamp": 1786546027,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 11843.9622,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1094,
+    "timestamp": 1786545930,
+    "username": "ohehe",
+    "wallet": "0xeac22222ef8d2be457c00101a1a4e4925ec5dddc",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 10904.648000092453,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]

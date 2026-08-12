@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 09:46:39 (hora de Perú)
+Actualizado: 2026-08-12 09:48:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1326**  ($29,856,214 en total)
+- Apuestas registradas: **1329**  ($29,888,963 en total)
 - Resueltas: **938** — 566 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 388
-- Apostadores distintos: 123
+- Pendientes: 391
+- Apostadores distintos: 124
 
 ### Balance
 
@@ -48,8 +48,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ThornyDevil | 2 | 1 | 6 | ⚠️ 67% (3) | $254,880 | +$2,354 |
 | mikesports | 7 | 8 | 0 | 47% | $243,869 | -$88,869 |
 | wr0ngw4yb3tt0r | 9 | 6 | 0 | 60% | $239,701 | +$13,912 |
+| ExplosiveNinja | 8 | 0 | 9 | 100% | $235,799 | +$137,489 |
 | five5120 | 2 | 1 | 12 | ⚠️ 67% (3) | $225,368 | -$15,925 |
-| ExplosiveNinja | 8 | 0 | 8 | 100% | $223,955 | +$137,489 |
 | Feromont | 9 | 0 | 0 | 100% | $208,666 | +$55,222 |
 | johnny234 | 3 | 4 | 7 | ⚠️ 43% (7) | $202,256 | -$21,018 |
 | winwin518168 | 0 | 12 | 0 | 0% | $191,010 | -$191,010 |
@@ -65,14 +65,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ...............................lala | 3 | 6 | 0 | 33% | $148,465 | -$64,383 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
 
-_(mostrando los 40 de mayor monto, de 123 en total)_
+_(mostrando los 40 de mayor monto, de 124 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.59 (63¢) | $11,844 | — | ⏳ Pendiente |
+| vananal0318 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.25 (80¢) | $10,000 | — | ⏳ Pendiente |
 | ohehe | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.61 (62¢) | $11,761 | — | ⏳ Pendiente |
 | ohehe | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.61 (62¢) | $11,274 | — | ⏳ Pendiente |
+| ohehe | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.67 (60¢) | $10,905 | — | ⏳ Pendiente |
 | ohehe | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.67 (60¢) | $10,905 | — | ⏳ Pendiente |
 | Lakersfan111 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.30 (77¢) | $11,550 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $46,286 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | skyman44 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.33 (75¢) | $37,500 | — | ⏳ Pendiente |
 | GreenBerry1337 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.33 (75¢) | $14,559 | — | ⏳ Pendiente |
 | GreenBerry1337 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.33 (75¢) | $14,559 | — | ⏳ Pendiente |
-| GreenBerry1337 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.33 (75¢) | $14,559 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.85 (26¢) | $12,812 | — | ⏳ Pendiente |
-| CongoleseBorat | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.37 (73¢) | $12,420 | +$340 | 💰 Vendida antes |
