@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 08:36:59 (hora de Perú)
+Actualizado: 2026-08-12 08:38:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1280**  ($28,436,155 en total)
+- Apuestas registradas: **1281**  ($28,472,677 en total)
 - Resueltas: **936** — 566 ganadas / 370 perdidas (**60%** de acierto)
-- Pendientes: 344
+- Pendientes: 345
 - Apostadores distintos: 119
 
 ### Balance
@@ -53,13 +53,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | five5120 | 2 | 1 | 9 | ⚠️ 67% (3) | $194,381 | -$15,925 |
 | winwin518168 | 0 | 12 | 0 | 0% | $191,010 | -$191,010 |
 | xifutloong3 | 6 | 0 | 0 | ⚠️ 100% (6) | $190,324 | +$142,407 |
+| Marcoli | 7 | 0 | 1 | ⚠️ 100% (7) | $188,944 | +$95,170 |
 | TAIWANNUMBERONE | 0 | 1 | 11 | ⚠️ 0% (1) | $186,262 | -$17,114 |
 | RN1 | 8 | 5 | 0 | 62% | $168,739 | +$11,250 |
 | fRibrenlc | 9 | 4 | 0 | 69% | $168,073 | +$46,634 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,408 | +$115,433 |
 | SineNooneEI | 1 | 1 | 10 | ⚠️ 50% (2) | $157,440 | +$14,033 |
-| Marcoli | 7 | 0 | 0 | ⚠️ 100% (7) | $152,422 | +$95,170 |
 | DonaldinhoTrumpito | 0 | 0 | 8 | — | $149,875 | — |
 | 0x076d…8d4c | 8 | 0 | 3 | 100% | $149,444 | +$45,411 |
 | ...............................lala | 3 | 6 | 0 | 33% | $148,465 | -$64,383 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 119 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Marcoli | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.47 (68¢) | $36,522 | — | ⏳ Pendiente |
 | suntori | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 9.09 (11¢) | $10,371 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.12 (89¢) | $40,852 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.12 (89¢) | $43,063 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 119 en total)_
 | ferrariChampions2026 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.19 (84¢) | $14,794 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.37 (73¢) | $27,037 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.37 (73¢) | $27,037 | — | ⏳ Pendiente |
-| AV23IUa | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.69 (59¢) | $17,252 | — | ⏳ Pendiente |
