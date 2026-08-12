@@ -18327,5 +18327,18 @@
     "usd": 11000.0,
     "odds_at_bet": 50,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1174,
+    "timestamp": 1786551826,
+    "username": "johnny234",
+    "wallet": "0xd38ad20037839959d89165cf448568d584b28d26",
+    "slug": "mlb-bal-min-2026-08-12",
+    "title": "Baltimore Orioles vs. Minnesota Twins",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "usd": 11000.0,
+    "odds_at_bet": 50,
+    "status": "pending"
   }
 ]
