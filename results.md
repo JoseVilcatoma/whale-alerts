@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 17:02:30 (hora de Perú)
+Actualizado: 2026-08-12 17:04:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1955**  ($53,026,716 en total)
+- Apuestas registradas: **1956**  ($53,037,716 en total)
 - Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
-- Pendientes: 606
+- Pendientes: 607
 - Apostadores distintos: 173
 
 ### Balance
@@ -52,9 +52,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x076d…8d4c | 8 | 0 | 11 | 100% | $343,000 | +$45,411 |
 | theowalcott | 21 | 0 | 1 | 100% | $333,694 | +$226,502 |
 | bigspending | 0 | 0 | 5 | — | $333,212 | — |
+| Feromont | 9 | 0 | 5 | 100% | $315,372 | +$55,222 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | casualbet2020 | 0 | 0 | 6 | — | $304,949 | — |
-| Feromont | 9 | 0 | 4 | 100% | $304,372 | +$55,222 |
 | johnny234 | 4 | 11 | 7 | 27% | $301,127 | -$101,100 |
 | fRibrenlc | 9 | 7 | 6 | 56% | $290,662 | +$15,968 |
 | basementdweller3000 | 6 | 3 | 6 | 67% | $282,034 | +$34,747 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Feromont | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.56 (64¢) | $11,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 3.03 (33¢) | $14,873 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.49 (67¢) | $25,023 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.49 (67¢) | $46,563 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 | highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $44,005 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.23 (81¢) | $11,635 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.23 (81¢) | $11,635 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.20 (83¢) | $13,200 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.20 (83¢) | $13,200 | — | ⏳ Pendiente |
