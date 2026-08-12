@@ -19120,5 +19120,44 @@
     "usd": 10342.995,
     "odds_at_bet": 62,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1235,
+    "timestamp": 1786555470,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 49857.47490159654,
+    "odds_at_bet": 30,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1236,
+    "timestamp": 1786555470,
+    "username": "hansama231",
+    "wallet": "0x381b9294c1b95b61d018ff56312fbcc4897c4d74",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 52500.0,
+    "odds_at_bet": 70,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1237,
+    "timestamp": 1786555470,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 29649.5361,
+    "odds_at_bet": 71,
+    "status": "pending"
   }
 ]
