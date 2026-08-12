@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 11:07:48 (hora de Perú)
+Actualizado: 2026-08-12 11:09:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1369**  ($31,605,788 en total)
+- Apuestas registradas: **1385**  ($31,954,681 en total)
 - Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 430
-- Apostadores distintos: 126
+- Pendientes: 446
+- Apostadores distintos: 129
 
 ### Balance
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 53 | 28% | $4,385,179 | -$789,178 |
-| Djdjdjekekek | 36 | 12 | 52 | 75% | $4,156,589 | +$573,956 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 54 | 28% | $4,405,923 | -$789,178 |
+| Djdjdjekekek | 36 | 12 | 57 | 75% | $4,350,532 | +$573,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 0 | 36% | $2,039,712 | -$421,290 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
 | ferrariChampions2026 | 90 | 29 | 11 | 76% | $1,857,753 | +$113,934 |
@@ -37,15 +37,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 10 | 16 | 2 | 38% | $545,354 | -$190,303 |
 | Talvez10 | 24 | 3 | 0 | 89% | $497,016 | +$224,365 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
-| Lakersfan111 | 1 | 3 | 23 | ⚠️ 25% (4) | $438,184 | -$28,993 |
+| Lakersfan111 | 1 | 3 | 24 | ⚠️ 25% (4) | $452,984 | -$28,993 |
 | ActionReaction | 0 | 0 | 14 | — | $376,692 | — |
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | theowalcott | 21 | 0 | 0 | 100% | $318,833 | +$226,502 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 0 | 10 | ⚠️ 100% (5) | $314,943 | +$87,105 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 0 | 9 | ⚠️ 100% (5) | $304,723 | +$87,105 |
 | Marcoli | 7 | 0 | 3 | ⚠️ 100% (7) | $273,944 | +$95,170 |
-| ExplosiveNinja | 8 | 0 | 11 | 100% | $259,021 | +$137,489 |
+| ExplosiveNinja | 8 | 0 | 12 | 100% | $269,771 | +$137,489 |
 | ThornyDevil | 2 | 1 | 6 | ⚠️ 67% (3) | $254,880 | +$2,354 |
 | mikesports | 7 | 8 | 0 | 47% | $243,869 | -$88,869 |
 | wr0ngw4yb3tt0r | 9 | 6 | 0 | 60% | $239,701 | +$13,912 |
@@ -65,12 +65,28 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x076d…8d4c | 8 | 0 | 3 | 100% | $149,444 | +$45,411 |
 | ...............................lala | 3 | 6 | 0 | 33% | $148,465 | -$64,383 |
 
-_(mostrando los 40 de mayor monto, de 126 en total)_
+_(mostrando los 40 de mayor monto, de 129 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.33 (43¢) | $10,750 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.38 (42¢) | $20,744 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.72 (58¢) | $57,745 | — | ⏳ Pendiente |
+| spnir | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.33 (43¢) | $12,900 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.75 (57¢) | $77,089 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 3.85 (26¢) | $21,973 | — | ⏳ Pendiente |
+| Lakersfan111 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $14,800 | — | ⏳ Pendiente |
+| GreatestTrader | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $14,319 | — | ⏳ Pendiente |
+| 0xA9C4b118095A4F67BA9ba461aAdF6a9cfE5e7433-1721318888203 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $15,540 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.79 (56¢) | $13,251 | — | ⏳ Pendiente |
+| CORGI8 | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.27 (44¢) | $10,412 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.33 (75¢) | $10,220 | — | ⏳ Pendiente |
+| GhostOfJupiter | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.33 (75¢) | $15,000 | — | ⏳ Pendiente |
+| 0xA9C4b118095A4F67BA9ba461aAdF6a9cfE5e7433-1721318888203 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.33 (75¢) | $15,825 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 4.00 (25¢) | $23,885 | — | ⏳ Pendiente |
+| PsR-T5 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.32 (76¢) | $14,440 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.79 (56¢) | $29,078 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.17 (46¢) | $10,194 | — | ⏳ Pendiente |
 | basementdweller3000 | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | MIBR | 2.22 (45¢) | $11,250 | — | ⏳ Pendiente |
@@ -115,19 +131,3 @@ _(mostrando los 40 de mayor monto, de 126 en total)_
 | vananal0318 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 1.25 (80¢) | $10,000 | — | ⏳ Pendiente |
 | ohehe | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.61 (62¢) | $11,761 | — | ⏳ Pendiente |
 | ohehe | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.61 (62¢) | $11,274 | — | ⏳ Pendiente |
-| ohehe | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.67 (60¢) | $10,905 | — | ⏳ Pendiente |
-| ohehe | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.67 (60¢) | $10,905 | — | ⏳ Pendiente |
-| Lakersfan111 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.30 (77¢) | $11,550 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $46,286 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $46,286 | — | ⏳ Pendiente |
-| basementdweller3000 | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | BetBoom Team | 2.17 (46¢) | $22,992 | — | ⏳ Pendiente |
-| basementdweller3000 | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | BetBoom Team | 2.17 (46¢) | $22,992 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $73,150 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | B8 | 2.56 (39¢) | $44,849 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | B8 | 2.56 (39¢) | $44,849 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $73,150 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | B8 | 2.56 (39¢) | $82,580 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $152,494 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $12,200 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $49,588 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.67 (60¢) | $26,993 | — | ⏳ Pendiente |
