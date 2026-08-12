@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 20:58:15 (hora de Perú)
+Actualizado: 2026-08-11 21:00:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **314**  ($6,472,267 en total)
+- Apuestas registradas: **316**  ($6,518,710 en total)
 - Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 198
+- Pendientes: 200
 - Apostadores distintos: 87
 
 ### Balance
@@ -25,8 +25,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 19 | 38% | $632,533 | -$139,198 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 21 | — | $571,139 | — |
 | AV23IUa | 4 | 0 | 14 | ⚠️ 100% (4) | $526,033 | +$109,102 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 19 | — | $524,696 | — |
 | ferrariChampions2026 | 23 | 0 | 11 | 100% | $511,245 | +$57,935 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 19 | 0 | 0 | 100% | $415,077 | +$195,517 |
 | pleaseplease123 | 0 | 0 | 12 | — | $333,073 | — |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 87 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.64 (61¢) | $18,888 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.61 (62¢) | $27,555 | — | ⏳ Pendiente |
 | paquitomillonario | Washington Mystics vs. Las Vegas Aces: O/U 170.5 | Over 170.5 | 1.82 (55¢) | $15,536 | — | ⏳ Pendiente |
 | thecomplicatedguy | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.85 (54¢) | $13,500 | — | ⏳ Pendiente |
 | thecomplicatedguy | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.85 (54¢) | $13,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 87 en total)_
 | Elaran1993 | Spread: Texas Rangers (-1.5) | Los Angeles Angels | 1.85 (54¢) | $13,110 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Texas Rangers (-1.5) | Texas Rangers | 2.17 (46¢) | $11,167 | — | ⏳ Pendiente |
 | Elaran1993 | Spread: Texas Rangers (-1.5) | Los Angeles Angels | 1.85 (54¢) | $13,110 | — | ⏳ Pendiente |
-| AV23IUa | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Marcos Giron | 1.47 (68¢) | $50,018 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Henrique Rocha | 3.12 (32¢) | $19,859 | — | ⏳ Pendiente |
