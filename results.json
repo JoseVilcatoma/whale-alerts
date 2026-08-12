@@ -12253,5 +12253,57 @@
     "usd": 17904.219998000004,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 758,
+    "timestamp": 1786528128,
+    "username": "five5120",
+    "wallet": "0xc1c7bb8761105f6d33fc8d71dec31b5688a0f0a7",
+    "slug": "lol-dnf-ns-2026-08-12",
+    "title": "LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 17904.219997354867,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 759,
+    "timestamp": 1786527975,
+    "username": "ThornyDevil",
+    "wallet": "0xa7590cd0d4a5620fe4651dc0e6569817e6b31119",
+    "slug": "lol-dnf-ns-2026-08-12",
+    "title": "LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 41260.91530320042,
+    "odds_at_bet": 57,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 760,
+    "timestamp": 1786528433,
+    "username": "Marcoli",
+    "wallet": "0xdbbbde184ab04018ce0373c0dbe4e5fd6be805a8",
+    "slug": "atp-su-pankin-2026-08-12",
+    "title": "Astana: Fajing Sun vs Semen Pankin",
+    "outcome": "Fajing Sun",
+    "side": "BUY",
+    "usd": 29999.999999,
+    "odds_at_bet": 62,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 761,
+    "timestamp": 1786528457,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-ts7-jjh-2026-08-12",
+    "title": "Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 17508.9611,
+    "odds_at_bet": 89,
+    "status": "pending"
   }
 ]
