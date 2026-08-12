@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 17:53:05 (hora de Perú)
+Actualizado: 2026-08-12 17:55:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2005**  ($54,158,458 en total)
+- Apuestas registradas: **2007**  ($54,186,561 en total)
 - Resueltas: **1353** — 804 ganadas / 549 perdidas (**59%** de acierto)
-- Pendientes: 652
+- Pendientes: 654
 - Apostadores distintos: 177
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 55 | 43% | $8,889,723 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 20 | 35% | $3,166,137 | -$564,452 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 21 | 35% | $3,183,478 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 47 | 77% | $2,601,386 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 34 | 0% | $2,283,534 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
@@ -47,9 +47,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
 | ExplosiveNinja | 18 | 2 | 7 | 90% | $378,581 | +$263,606 |
 | 0x076d…8d4c | 8 | 0 | 13 | 100% | $373,790 | +$45,411 |
+| theowalcott | 21 | 0 | 4 | 100% | $364,985 | +$226,502 |
 | Marcoli | 7 | 0 | 5 | ⚠️ 100% (7) | $358,944 | +$95,170 |
 | Feromont | 9 | 0 | 7 | 100% | $358,252 | +$55,222 |
-| theowalcott | 21 | 0 | 3 | 100% | $354,223 | +$226,502 |
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | bigspending | 0 | 0 | 5 | — | $333,212 | — |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 177 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.72 (58¢) | $17,341 | — | ⏳ Pendiente |
+| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes | 2.08 (48¢) | $10,762 | — | ⏳ Pendiente |
 | bloodmaster | LoL: The Otter Side vs NORTHERNGRADE ESPORTS (BO3) - LPLOL Group Stage | The Otter Side | 1.08 (93¢) | $18,081 | — | ⏳ Pendiente |
 | bloodmaster | LoL: The Otter Side vs NORTHERNGRADE ESPORTS (BO3) - LPLOL Group Stage | The Otter Side | 1.08 (93¢) | $18,081 | — | ⏳ Pendiente |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes | 2.04 (49¢) | $10,265 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 177 en total)_
 | AV23IUa | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $18,459 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.47 (68¢) | $19,907 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.47 (68¢) | $19,907 | — | ⏳ Pendiente |
-| AV23IUa | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $18,459 | — | ⏳ Pendiente |
-| johnny234 | Houston Astros vs. San Francisco Giants | San Francisco Giants | 1.92 (52¢) | $12,936 | — | ⏳ Pendiente |
