@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 23:38:32 (hora de Perú)
+Actualizado: 2026-08-11 23:40:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $448.36
-**Retorno acumulado:** -55.16%
+**Bankroll actual:** $448.31
+**Retorno acumulado:** -55.17%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
-| 1winstreak1 | 119 | 102 | 30 | +80.07 USD |
+| 1winstreak1 | 120 | 103 | 28 | +79.85 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 3 | 10 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 181 | 120 | 23 | -23.95 USD |
 | quavoo | 154 | 186 | 32 | -30.19 USD |
-| RN1 | 202 | 112 | 4 | -37.76 USD |
+| RN1 | 203 | 112 | 3 | -37.58 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
