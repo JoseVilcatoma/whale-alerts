@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 14:05:43 (hora de Perú)
+Actualizado: 2026-08-12 14:08:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1594**  ($40,552,308 en total)
+- Apuestas registradas: **1597**  ($40,707,505 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 653
+- Pendientes: 656
 - Apostadores distintos: 161
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 90 | 29 | 33 | 76% | $2,168,667 | +$113,934 |
 | AV23IUa | 23 | 21 | 32 | 52% | $1,957,489 | +$128,429 |
 | Weaseloftheweek | 11 | 2 | 7 | 85% | $1,636,724 | +$518,388 |
-| pleaseplease123 | 0 | 44 | 13 | 0% | $1,508,748 | -$1,082,423 |
+| pleaseplease123 | 0 | 44 | 14 | 0% | $1,545,380 | -$1,082,423 |
 | BreakTheBank | 0 | 12 | 5 | 0% | $1,184,279 | -$803,506 |
 | Lakersfan111 | 1 | 3 | 31 | ⚠️ 25% (4) | $653,923 | -$28,993 |
 | texaskid | 18 | 0 | 0 | 100% | $598,663 | +$455,165 |
@@ -48,6 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | musholius722 | 0 | 0 | 1 | — | $340,507 | — |
 | theowalcott | 21 | 0 | 0 | 100% | $318,833 | +$226,502 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 0 | 0 | 5 | — | $283,257 | — |
 | ExplosiveNinja | 8 | 0 | 13 | 100% | $281,127 | +$137,489 |
 | Marcoli | 7 | 0 | 3 | ⚠️ 100% (7) | $273,944 | +$95,170 |
 | ThornyDevil | 2 | 1 | 6 | ⚠️ 67% (3) | $254,880 | +$2,354 |
@@ -61,7 +62,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | casualbet2020 | 0 | 0 | 4 | — | $203,299 | — |
 | winwin518168 | 0 | 12 | 0 | 0% | $191,010 | -$191,010 |
 | xifutloong3 | 6 | 0 | 0 | ⚠️ 100% (6) | $190,324 | +$142,407 |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 0 | 0 | 4 | — | $177,555 | — |
 | 0x076d…8d4c | 8 | 0 | 5 | 100% | $173,246 | +$45,411 |
 | RN1 | 8 | 5 | 0 | 62% | $168,739 | +$11,250 |
 
@@ -71,7 +71,10 @@ _(mostrando los 40 de mayor monto, de 161 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | Philadelphia Phillies vs. St. Louis Cardinals | Philadelphia Phillies | 1.49 (67¢) | $12,862 | — | ⏳ Pendiente |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.45 (69¢) | $41,717 | — | ⏳ Pendiente |
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.47 (68¢) | $105,703 | — | ⏳ Pendiente |
+| pleaseplease123 | Tampa Bay Rays vs. Athletics | Athletics | 3.12 (32¢) | $36,633 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Athletics | Athletics | 3.12 (32¢) | $36,633 | — | ⏳ Pendiente |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.47 (68¢) | $105,703 | — | ⏳ Pendiente |
 | Daemon99 | Will Paris Saint-Germain vs. Aston Villa end in a draw? | No | 1.30 (77¢) | $20,952 | — | ⏳ Pendiente |
@@ -127,7 +130,4 @@ _(mostrando los 40 de mayor monto, de 161 en total)_
 | Bot313 | Baltimore Orioles vs. Minnesota Twins: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $10,000 | — | ⏳ Pendiente |
 | Bot313 | Baltimore Orioles vs. Minnesota Twins: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $10,000 | — | ⏳ Pendiente |
 | Bot313 | Baltimore Orioles vs. Minnesota Twins: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $10,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.19 (84¢) | $10,472 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.18 (85¢) | $11,214 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.18 (85¢) | $11,214 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.19 (84¢) | $10,472 | — | ⏳ Pendiente |
