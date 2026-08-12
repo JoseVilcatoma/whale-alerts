@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 02:02:05 (hora de Perú)
+Actualizado: 2026-08-12 02:04:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $444.52
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | donthackme | 0 | 0 | 9 | +0.00 USD |
-| Gaditima | 0 | 0 | 1 | +0.00 USD |
+| Gaditima | 0 | 0 | 2 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -436,6 +436,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lib-flu-cir-2026-08-11-draw | RN1, swisstony |
 | lib-flu-cir-2026-08-11-first-half-total-1pt5 | RN1, swisstony |
 | will-annual-inflation-be-3pt3-in-july-20260714150613270 | Gaditima, donthackme |
+| will-annual-inflation-be-3pt4-in-july-20260714150613271 | Gaditima, donthackme |
 | lib-flu-cir-2026-08-11-spread-home-1pt5 | ferrariChampions2026, swisstony |
 | lib-flu-cir-2026-08-11-total-0pt5 | RN1, swisstony |
 | mlb-cle-det-2026-08-11-spread-away-1pt5 | HomeRunHazard, RN1 |
@@ -449,6 +450,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Gaditima | Will annual inflation be 3.4% in July? | Yes (BUY) | 42% | 1.81 | ⏳ pendiente | — |
 | Gaditima | Will annual inflation be 3.3% in July? | Yes (BUY) | 40% | 3.83 | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 48% | 1.15 | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 52% | 4.58 | ⏳ pendiente | — |
@@ -478,4 +480,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.46 | ❌ perdida | -0.46 |
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 51% | 0.99 | ❌ perdida | -0.99 |
 | quavoo | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 47% | 0.96 | ✅ ganada | +1.08 |
-| ferrariChampions2026 | Club Bolívar vs. São Paulo FC: O/U 3.5 | Under (BUY) | 89% | 0.39 | ✅ ganada | +0.05 |
