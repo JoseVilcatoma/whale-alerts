@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 21:25:29 (hora de Perú)
+Actualizado: 2026-08-11 21:27:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **344**  ($6,975,190 en total)
+- Apuestas registradas: **346**  ($7,016,242 en total)
 - Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 228
+- Pendientes: 230
 - Apostadores distintos: 90
 
 ### Balance
@@ -25,8 +25,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 27 | — | $687,614 | — |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 20 | 38% | $648,954 | -$139,198 |
-| AV23IUa | 4 | 0 | 18 | ⚠️ 100% (4) | $613,464 | +$109,102 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 21 | 38% | $665,375 | -$139,198 |
+| AV23IUa | 4 | 0 | 19 | ⚠️ 100% (4) | $638,095 | +$109,102 |
 | ferrariChampions2026 | 23 | 0 | 15 | 100% | $568,849 | +$57,935 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 19 | 0 | 0 | 100% | $415,077 | +$195,517 |
 | pleaseplease123 | 0 | 0 | 16 | — | $381,874 | — |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 90 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Aleksandar Vukic | 1.67 (60¢) | $24,631 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Darwin Blanch | 2.50 (40¢) | $16,421 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Aleksandar Vukic | 1.67 (60¢) | $24,631 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Aleksandar Vukic vs Darwin Blanch | Darwin Blanch | 2.50 (40¢) | $16,421 | — | ⏳ Pendiente |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Martin Damm | 1.96 (51¢) | $12,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 90 en total)_
 | Sassy-Bucket | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $14,133 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $14,710 | — | ⏳ Pendiente |
 | Sassy-Bucket | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $14,133 | — | ⏳ Pendiente |
-| Sassy-Bucket | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $11,450 | — | ⏳ Pendiente |
-| Sassy-Bucket | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $11,450 | — | ⏳ Pendiente |
