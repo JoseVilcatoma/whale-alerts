@@ -1,5 +1,5 @@
 {
-  "bankroll": 448.0685645832317,
+  "bankroll": 448.355509010471,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18040,6 +18040,51 @@
       "timestamp": 1786509372.455323,
       "bankroll": 448.07,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 7.5"
+    },
+    {
+      "timestamp": 1786509422.9655085,
+      "bankroll": 448.09,
+      "event": "won: UpTheBlues \u2014 Spread: CD Universidad Cat\u00f3lica (-1.5)"
+    },
+    {
+      "timestamp": 1786509433.5684013,
+      "bankroll": 448.14,
+      "event": "won: ferrariChampions2026 \u2014 Club Bol\u00edvar vs. S\u00e3o Paulo FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786509435.0712652,
+      "bankroll": 448.15,
+      "event": "won: swisstony \u2014 Club Bol\u00edvar vs. S\u00e3o Paulo FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786509442.8607807,
+      "bankroll": 448.79,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Colorado Rockies (-1.5)"
+    },
+    {
+      "timestamp": 1786509442.96101,
+      "bankroll": 446.5,
+      "event": "lost: 1winstreak1 \u2014 Spread: Colorado Rockies (-1.5)"
+    },
+    {
+      "timestamp": 1786509488.791405,
+      "bankroll": 445.02,
+      "event": "lost: RN1 \u2014 Will Club Bol\u00edvar win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1786509489.944882,
+      "bankroll": 445.25,
+      "event": "won: ferrariChampions2026 \u2014 Estudiantes de La Plata vs. CD Universidad Cat\u00f3lica: O/U 1.5"
+    },
+    {
+      "timestamp": 1786509490.48445,
+      "bankroll": 446.39,
+      "event": "won: ferrariChampions2026 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786509498.82991,
+      "bankroll": 448.36,
+      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5"
     }
   ]
 }
