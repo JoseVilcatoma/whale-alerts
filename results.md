@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 05:59:25 (hora de Perú)
+Actualizado: 2026-08-12 06:01:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **967**  ($19,848,514 en total)
+- Apuestas registradas: **972**  ($19,911,795 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 178
+- Pendientes: 183
 - Apostadores distintos: 105
 
 ### Balance
@@ -54,13 +54,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | RN1 | 7 | 4 | 0 | 64% | $144,192 | +$24,012 |
 | 0x076d…8d4c | 7 | 0 | 3 | ⚠️ 100% (7) | $137,506 | +$37,453 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
+| Lakersfan111 | 1 | 0 | 9 | ⚠️ 100% (1) | $129,884 | +$9,167 |
 | DonaldinhoTrumpito | 0 | 0 | 6 | — | $112,406 | — |
 | Marcoli | 2 | 0 | 3 | ⚠️ 100% (2) | $111,211 | +$28,966 |
 | ExplosiveNinja | 0 | 0 | 9 | — | $109,231 | — |
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
 | Mylifeisover | 6 | 0 | 0 | ⚠️ 100% (6) | $106,449 | +$90,679 |
 | 0b1 | 6 | 0 | 0 | ⚠️ 100% (6) | $104,559 | +$21,905 |
-| Lakersfan111 | 1 | 0 | 7 | ⚠️ 100% (1) | $103,034 | +$9,167 |
 | phonesculptor | 0 | 8 | 0 | 0% | $91,088 | -$91,088 |
 | AGUGava | 5 | 2 | 0 | ⚠️ 71% (7) | $88,581 | +$26,063 |
 | five5120 | 2 | 0 | 4 | ⚠️ 100% (2) | $88,077 | +$2,075 |
@@ -72,8 +72,13 @@ _(mostrando los 40 de mayor monto, de 105 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $10,343 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $10,343 | — | ⏳ Pendiente |
 | Lakersfan111 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.50 (40¢) | $10,334 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.67 (60¢) | $15,000 | — | ⏳ Pendiente |
+| Lakersfan111 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.50 (40¢) | $10,334 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.67 (60¢) | $15,000 | — | ⏳ Pendiente |
+| Lakersfan111 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.78 (36¢) | $16,516 | — | ⏳ Pendiente |
+| 0x8d83598759 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.56 (64¢) | $11,088 | — | ⏳ Pendiente |
 | Lakersfan111 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.78 (36¢) | $16,516 | — | ⏳ Pendiente |
 | 0x8d83598759 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.56 (64¢) | $11,088 | — | ⏳ Pendiente |
 | SineNooneEI | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.28 (78¢) | $10,140 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 105 en total)_
 | MeiGuNiuBi | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $12,600 | — | ⏳ Pendiente |
 | johnny234 | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.61 (62¢) | $13,654 | — | ⏳ Pendiente |
 | johnny234 | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.61 (62¢) | $13,654 | — | ⏳ Pendiente |
-| johnny234 | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.61 (62¢) | $13,654 | — | ⏳ Pendiente |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: AL (-1.5) vs EDward Gaming (+1.5) | Anyones Legend | 1.45 (69¢) | $10,390 | — | ⏳ Pendiente |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: AL (-1.5) vs EDward Gaming (+1.5) | Anyones Legend | 1.45 (69¢) | $10,390 | — | ⏳ Pendiente |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: AL (-1.5) vs EDward Gaming (+1.5) | Anyone's Legend | 1.45 (69¢) | $10,390 | — | ⏳ Pendiente |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: NS (-1.5) vs DN SOOPers (+1.5) | DN SOOPers | 1.49 (67¢) | $10,050 | — | ⏳ Pendiente |
