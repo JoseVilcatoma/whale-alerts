@@ -79662,5 +79662,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786566003.260224,
     "fills": 1
+  },
+  {
+    "timestamp": 1786566043,
+    "timestamp_added": 1786566043.3290849,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-hou-sf-2026-08-12-spread-home-1pt5",
+    "title": "Spread: San Francisco Giants (-1.5)",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "whale_usd": 19.999999000000003,
+    "whale_pct": 0.136,
+    "paper_stake_usd": 0.76,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786566043.329095,
+    "fills": 1
   }
 ]
