@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 21:14:58 (hora de Perú)
+Actualizado: 2026-08-11 21:17:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **331**  ($6,740,075 en total)
+- Apuestas registradas: **335**  ($6,809,091 en total)
 - Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 215
+- Pendientes: 219
 - Apostadores distintos: 90
 
 ### Balance
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 25 | — | $652,598 | — |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 19 | 38% | $632,533 | -$139,198 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 23 | — | $617,582 | — |
-| ferrariChampions2026 | 23 | 0 | 13 | 100% | $532,648 | +$57,935 |
-| AV23IUa | 4 | 0 | 14 | ⚠️ 100% (4) | $526,033 | +$109,102 |
+| ferrariChampions2026 | 23 | 0 | 14 | 100% | $550,748 | +$57,935 |
+| AV23IUa | 4 | 0 | 15 | ⚠️ 100% (4) | $541,933 | +$109,102 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 19 | 0 | 0 | 100% | $415,077 | +$195,517 |
 | pleaseplease123 | 0 | 0 | 16 | — | $381,874 | — |
 | Weaseloftheweek | 3 | 1 | 1 | ⚠️ 75% (4) | $303,804 | +$7,132 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 90 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $16,254 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $18,762 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.85 (54¢) | $18,101 | — | ⏳ Pendiente |
+| AV23IUa | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | Luminosity | 1.89 (53¢) | $15,900 | — | ⏳ Pendiente |
 | RN1 | Cincinnati Open, Qualification: Dominika Salkova vs Anna Blinkova | Anna Blinkova | 1.16 (86¢) | $10,136 | — | ⏳ Pendiente |
 | RN1 | Cincinnati Open, Qualification: Dominika Salkova vs Anna Blinkova | Anna Blinkova | 1.16 (86¢) | $10,136 | — | ⏳ Pendiente |
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 90 en total)_
 | quavoo | Will Tigres de la UANL win on 2026-08-11? | Yes | 1.49 (67¢) | $14,472 | — | ⏳ Pendiente |
 | WTSA | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC | 1.79 (56¢) | $16,800 | — | ⏳ Pendiente |
 | mikesports | Will Tigres de la UANL vs. Vancouver Whitecaps FC end in a draw? | No | 1.20 (83¢) | $15,199 | — | ⏳ Pendiente |
-| mikesports | Will Tigres de la UANL vs. Vancouver Whitecaps FC end in a draw? | No | 1.20 (83¢) | $15,199 | — | ⏳ Pendiente |
-| mikesports | Will Vancouver Whitecaps FC win on 2026-08-11? | No | 1.16 (86¢) | $17,200 | — | ⏳ Pendiente |
-| tennischamp | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.56 (64¢) | $10,666 | — | ⏳ Pendiente |
-| tennischamp | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.56 (64¢) | $10,666 | — | ⏳ Pendiente |
