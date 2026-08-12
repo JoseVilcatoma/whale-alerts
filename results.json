@@ -26464,5 +26464,44 @@
     "usd": 17018.2772,
     "odds_at_bet": 76,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1822,
+    "timestamp": 1786576353,
+    "username": "afraz",
+    "wallet": "0xca6465345246f543b7cb3152d5f5f54096f84f43",
+    "slug": "atp-jodar-nakashi-2026-08-12",
+    "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 10601.359998787364,
+    "odds_at_bet": 81,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1823,
+    "timestamp": 1786576203,
+    "username": "Ditto321",
+    "wallet": "0x30c16e063c3be66d93acf14c06e2741e348f9f91",
+    "slug": "atp-jodar-nakashi-2026-08-12",
+    "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 15000.0,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1824,
+    "timestamp": 1786576117,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-nym-atl-2026-08-12",
+    "title": "New York Mets vs. Atlanta Braves",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 12602.5145,
+    "odds_at_bet": 37,
+    "status": "pending"
   }
 ]
