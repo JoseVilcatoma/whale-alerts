@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 07:02:55 (hora de Perú)
+Actualizado: 2026-08-12 07:04:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 29 | 16 | 11 | +189.61 USD |
+| BBQChickenisthebesttt | 29 | 16 | 13 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 114 | 97 | 7 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 249 | 151 | 11 | +5.66 USD |
+| UpTheBlues | 249 | 151 | 16 | +5.66 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
-| Djdjdjekekek | 5 | 12 | 7 | -116.01 USD |
+| Djdjdjekekek | 5 | 12 | 8 | -116.01 USD |
 | BrotherObama | 7 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
@@ -452,6 +452,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 28% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 63% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Inter Miami CF win on 2026-08-12? | No (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Club León FC win on 2026-08-12? | Yes (BUY) | 28% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Red Bull Bragantino vs. CA Mineiro: Red  | Under (BUY) | 22% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will SE Palmeiras vs. Club Cerro Porteño | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 53% | 0.00 | ⏳ pendiente | — |
@@ -474,11 +482,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 69% | 108.72 | ⏳ pendiente | — |
 | UpTheBlues | SK Rapid Wien vs. Paide Linnameeskond: O | Over (BUY) | 98% | 14.82 | ⏳ pendiente | — |
 | UpTheBlues | Will SK Rapid Wien win on 2026-08-12? | No (BUY) | 12% | 0.64 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 75% | 118.15 | ⏳ pendiente | — |
-| UpTheBlues | SK Rapid Wien vs. Paide Linnameeskond: B | No (BUY) | 59% | 2.37 | ⏳ pendiente | — |
-| UpTheBlues | Will SK Rapid Wien vs. Paide Linnameesko | Yes (BUY) | 8% | 0.93 | ⏳ pendiente | — |
-| UpTheBlues | Will Debreceni VSC win on 2026-08-12? | Yes (BUY) | 8% | 0.87 | ⏳ pendiente | — |
-| UpTheBlues | Will FC København win on 2026-08-12? | No (BUY) | 24% | 3.39 | ⏳ pendiente | — |
-| Gaditima | Valorant: All Gamers vs TEC Esports (BO3 | All Gamers (BUY) | 66% | 0.46 | ⏳ pendiente | — |
-| Gaditima | Will annual inflation be 3.3% in July? | No (BUY) | 54% | 3.53 | ⏳ pendiente | — |
-| Gaditima | Will annual inflation be 3.4% in July? | Yes (BUY) | 42% | 1.81 | ⏳ pendiente | — |
