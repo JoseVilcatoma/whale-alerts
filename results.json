@@ -8624,5 +8624,18 @@
     "usd": 10050.0,
     "odds_at_bet": 67,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 509,
+    "timestamp": 1786512209,
+    "username": "0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847",
+    "wallet": "0xcf609d3256f0f37f0595e5dc64012fa3a8fea6f5",
+    "slug": "lol-edg-al-2026-08-12-game-handicap-home-1pt5",
+    "title": "Game Handicap: AL (-1.5) vs EDward Gaming (+1.5)",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 10389.8415,
+    "odds_at_bet": 69,
+    "status": "pending"
   }
 ]
