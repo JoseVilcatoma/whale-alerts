@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 21:08:38 (hora de Perú)
+Actualizado: 2026-08-11 21:10:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **325**  ($6,645,320 en total)
+- Apuestas registradas: **327**  ($6,680,656 en total)
 - Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 209
-- Apostadores distintos: 89
+- Pendientes: 211
+- Apostadores distintos: 90
 
 ### Balance
 
@@ -45,10 +45,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 0 | 0 | 2 | — | $63,441 | — |
 | wr0ngw4yb3tt0r | 0 | 0 | 4 | — | $61,065 | — |
 | winwin518168 | 0 | 0 | 4 | — | $60,404 | — |
+| RN1 | 0 | 0 | 4 | — | $54,293 | — |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 0 | 3 | 1 | ⚠️ 0% (3) | $54,114 | -$24,454 |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 1 | 0 | 0 | ⚠️ 100% (1) | $53,136 | +$38,478 |
 | ...............................lala | 1 | 2 | 0 | ⚠️ 33% (3) | $49,488 | -$21,461 |
-| RN1 | 0 | 0 | 3 | — | $44,157 | — |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 3 | — | $43,772 | — |
 | 0x076d…8d4c | 1 | 0 | 2 | ⚠️ 100% (1) | $41,256 | +$1,092 |
 | AGUGava | 1 | 0 | 2 | ⚠️ 100% (1) | $37,194 | +$451 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jaytee158 | 2 | 0 | 0 | ⚠️ 100% (2) | $26,651 | +$4,349 |
 | Elaran1993 | 0 | 0 | 2 | — | $26,219 | — |
 
-_(mostrando los 40 de mayor monto, de 89 en total)_
+_(mostrando los 40 de mayor monto, de 90 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Cincinnati Open, Qualification: Dominika Salkova vs Anna Blinkova | Anna Blinkova | 1.16 (86¢) | $10,136 | — | ⏳ Pendiente |
+| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
 | mooseborzoi | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $10,547 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,333 | — | ⏳ Pendiente |
 | purplegatto | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $11,750 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 89 en total)_
 | AGUGava | National Bank Open: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 2.17 (46¢) | $11,500 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $26,152 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $26,152 | — | ⏳ Pendiente |
-| AV23IUa | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Marcos Giron | 1.47 (68¢) | $37,902 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Henrique Rocha | 3.12 (32¢) | $11,770 | — | ⏳ Pendiente |
