@@ -4116,5 +4116,57 @@
     "usd": 18887.9058,
     "odds_at_bet": 61,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 211,
+    "timestamp": 1786500041,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-kc-lad-2026-08-11-total-8pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 12067.355744,
+    "odds_at_bet": 53,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 212,
+    "timestamp": 1786500041,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-kc-lad-2026-08-11-total-8pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 10701.239999000001,
+    "odds_at_bet": 47,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 213,
+    "timestamp": 1786499967,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-tex-laa-2026-08-11",
+    "title": "Texas Rangers vs. Los Angeles Angels",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 18887.9058,
+    "odds_at_bet": 61,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 214,
+    "timestamp": 1786499922,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-tex-laa-2026-08-11",
+    "title": "Texas Rangers vs. Los Angeles Angels",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 27555.28,
+    "odds_at_bet": 62,
+    "status": "pending"
   }
 ]
