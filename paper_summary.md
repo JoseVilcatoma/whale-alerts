@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 23:59:07 (hora de Perú)
+Actualizado: 2026-08-12 00:01:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $484.62
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| 1winstreak1 | 132 | 111 | 9 | +105.07 USD |
+| 1winstreak1 | 132 | 111 | 10 | +105.07 USD |
 | dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 3 | 11 | +46.51 USD |
@@ -470,6 +470,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 74% | 1.73 | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 64% | 8.86 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: FUT Esports vs TYLOO (BO | TYLOO (BUY) | 41% | 1.25 | ⏳ pendiente | — |
 | 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 53% | 5.58 | ⏳ pendiente | — |
@@ -499,4 +500,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 73% | 0.63 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: MIBR vs Astralis (BO1) - | Astralis (BUY) | 54% | 18.87 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: NIP vs Legacy (BO1) - Es | Legacy (BUY) | 58% | 6.67 | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 56% | 4.97 | ⏳ pendiente | — |

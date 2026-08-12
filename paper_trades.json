@@ -80584,5 +80584,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786510544.1742585,
     "fills": 2
+  },
+  {
+    "timestamp": 1786510762,
+    "timestamp_added": 1786510762.2283115,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-kc-lad-2026-08-11-total-9pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 98.86999800000001,
+    "whale_pct": 0.357,
+    "paper_stake_usd": 1.73,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786510762.2283216,
+    "fills": 1
   }
 ]
