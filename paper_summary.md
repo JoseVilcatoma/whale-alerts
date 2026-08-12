@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:54:06 (hora de Perú)
+Actualizado: 2026-08-11 21:56:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $427.34
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 2 | 9 | 1 | +15.06 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 242 | 150 | 17 | +4.48 USD |
+| UpTheBlues | 242 | 150 | 20 | +4.48 USD |
 | HomeRunHazard | 104 | 92 | 15 | +4.38 USD |
 | Sassy-Bucket | 7 | 6 | 2 | +3.19 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -458,6 +458,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 94% | 1.56 | ⏳ pendiente | — |
+| UpTheBlues | Will Real Salt Lake win on 2026-08-11? | Yes (BUY) | 88% | 0.59 | ⏳ pendiente | — |
+| UpTheBlues | Real Salt Lake vs. FC Juárez: O/U 4.5 | Under (BUY) | 84% | 0.88 | ⏳ pendiente | — |
 | swisstony | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 77% | 0.87 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 52% | 0.67 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Kansas City Royals (-2.5) | Kansas City Royals (BUY) | 13% | 0.59 | ⏳ pendiente | — |
@@ -485,6 +488,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 76% | 0.89 | ⏳ pendiente | — |
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces | Washington Mystics (BUY) | 30% | 2.85 | ⏳ pendiente | — |
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 70% | 1.09 | ⏳ pendiente | — |
-| swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 49% | 1.13 | ⏳ pendiente | — |
-| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under (BUY) | 43% | 16.56 | ⏳ pendiente | — |
-| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 59% | 1.24 | ⏳ pendiente | — |
