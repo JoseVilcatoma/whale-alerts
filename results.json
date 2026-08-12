@@ -3973,5 +3973,57 @@
     "usd": 12797.996599999999,
     "odds_at_bet": 47,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 200,
+    "timestamp": 1786499124,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-mil-sd-2026-08-11",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 14411.470399999998,
+    "odds_at_bet": 54,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 201,
+    "timestamp": 1786499124,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-mil-sd-2026-08-11",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 12093.0596,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 202,
+    "timestamp": 1786498888,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-tb-oak-2026-08-11-total-10pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 23995.2,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 203,
+    "timestamp": 1786498888,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-tb-oak-2026-08-11-total-10pt5",
+    "title": "Tampa Bay Rays vs. Athletics: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 25994.8,
+    "odds_at_bet": 52,
+    "status": "pending"
   }
 ]
