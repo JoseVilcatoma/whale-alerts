@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 08:44:33 (hora de Perú)
+Actualizado: 2026-08-12 08:46:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1286**  ($28,626,976 en total)
+- Apuestas registradas: **1288**  ($28,683,662 en total)
 - Resueltas: **936** — 566 ganadas / 370 perdidas (**60%** de acierto)
-- Pendientes: 350
+- Pendientes: 352
 - Apostadores distintos: 120
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 45 | 28% | $3,706,888 | -$789,178 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 46 | 28% | $3,737,591 | -$789,178 |
 | Djdjdjekekek | 36 | 10 | 36 | 78% | $2,807,357 | +$578,460 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 0 | 36% | $2,039,712 | -$421,290 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
@@ -38,9 +38,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
 | Sassy-Bucket | 10 | 16 | 0 | 38% | $451,354 | -$190,303 |
 | Lakersfan111 | 1 | 3 | 22 | ⚠️ 25% (4) | $426,634 | -$28,993 |
+| ActionReaction | 0 | 0 | 13 | — | $355,126 | — |
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
-| ActionReaction | 0 | 0 | 12 | — | $329,143 | — |
 | theowalcott | 21 | 0 | 0 | 100% | $318,833 | +$226,502 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 0 | 8 | ⚠️ 100% (5) | $289,429 | +$87,105 |
@@ -72,6 +72,8 @@ _(mostrando los 40 de mayor monto, de 120 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | madwish355 | LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner | Bilibili Gaming | 1.64 (61¢) | $12,613 | — | ⏳ Pendiente |
+| ActionReaction | LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 2.63 (38¢) | $25,983 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner | Bilibili Gaming | 1.61 (62¢) | $30,703 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner | Bilibili Gaming | 1.61 (62¢) | $30,703 | — | ⏳ Pendiente |
 | ActionReaction | LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 2.63 (38¢) | $25,983 | — | ⏳ Pendiente |
 | Marcoli | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.45 (69¢) | $48,478 | — | ⏳ Pendiente |
@@ -128,6 +130,4 @@ _(mostrando los 40 de mayor monto, de 120 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.54 (65¢) | $88,454 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | M80 | 2.86 (35¢) | $47,559 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.54 (65¢) | $88,454 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | M80 | 3.03 (33¢) | $10,748 | — | ⏳ Pendiente |
-| Djdjdjekekek | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | M80 | 3.03 (33¢) | $10,748 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | M80 | 3.03 (33¢) | $10,748 | — | ⏳ Pendiente |
