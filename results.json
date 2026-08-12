@@ -8282,5 +8282,44 @@
     "usd": 10406.914700000001,
     "odds_at_bet": 35,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 482,
+    "timestamp": 1786503780,
+    "username": "coali10",
+    "wallet": "0x7bc14171ccb0d3e6bac219ec6a76211826e28db4",
+    "slug": "will-david-crowley-win-the-2026-wisconsin-governor-democratic-primary-election",
+    "title": "Will David Crowley win the 2026 Wisconsin Governor Democratic primary election?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 10406.914700983492,
+    "odds_at_bet": 35,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 483,
+    "timestamp": 1786503780,
+    "username": "DonaldinhoTrumpito",
+    "wallet": "0x7523cafcee7bcf2db9a79d80e0d79b88a9a54c4c",
+    "slug": "will-david-crowley-win-the-2026-wisconsin-governor-democratic-primary-election",
+    "title": "Will David Crowley win the 2026 Wisconsin Governor Democratic primary election?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 19187.9805,
+    "odds_at_bet": 65,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 484,
+    "timestamp": 1786503768,
+    "username": "DonaldinhoTrumpito",
+    "wallet": "0x7523cafcee7bcf2db9a79d80e0d79b88a9a54c4c",
+    "slug": "will-francesca-hong-win-the-2026-wisconsin-governor-democratic-primary-election",
+    "title": "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 18280.795000000002,
+    "odds_at_bet": 65,
+    "status": "pending"
   }
 ]
