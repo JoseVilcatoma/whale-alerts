@@ -17703,5 +17703,31 @@
     "usd": 10250.0,
     "odds_at_bet": 41,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1126,
+    "timestamp": 1786550341,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 13028.3822,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1127,
+    "timestamp": 1786550341,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-mibr-ast10-2026-08-12",
+    "title": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 15294.187800000002,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
