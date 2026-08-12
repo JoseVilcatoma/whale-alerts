@@ -13,12 +13,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
+| BBQChickenisthebesttt | 29 | 16 | 12 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| dv-pm | 4 | 5 | 0 | +89.49 USD |
+| dv-pm | 4 | 5 | 2 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
-| AV23IUa | 3 | 3 | 1 | +46.51 USD |
+| AV23IUa | 3 | 3 | 9 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 65 | 69 | 0 | +23.18 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -33,15 +33,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
-| jtwyslljy | 0 | 1 | 0 | +0.00 USD |
+| jtwyslljy | 0 | 1 | 3 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | donthackme | 0 | 0 | 9 | +0.00 USD |
-| Gaditima | 0 | 0 | 4 | +0.00 USD |
+| Gaditima | 0 | 0 | 5 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
-| Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
+| Weaseloftheweek | 0 | 2 | 2 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
@@ -53,11 +53,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
+| ferrariChampions2026 | 654 | 490 | 78 | -88.92 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
-| BrotherObama | 7 | 17 | 0 | -121.31 USD |
+| BrotherObama | 9 | 17 | 5 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
 
@@ -423,6 +424,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ucl-lyo-spp-2026-08-11-total-3pt5 | RN1, UpTheBlues, swisstony |
 | mlb-cle-det-2026-08-11-total-8pt5 | Talvez10, quavoo |
 | mlb-sea-nyy-2026-08-11-total-7pt5 | HomeRunHazard, RN1, SDTrading, ferrariChampions2026, wr0ngw4yb3tt0r |
+| clf-mun-lee-2026-08-12-mun | RN1, quavoo |
 | sud-boc-rec1-2026-08-11-spread-home-1pt5 | RN1, UpTheBlues, theowalcott |
 | sud-boc-rec1-2026-08-11-boc | RN1, UpTheBlues, ferrariChampions2026 |
 | sud-boc-rec1-2026-08-11-draw | UpTheBlues, ferrariChampions2026, swisstony |
@@ -445,6 +447,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-wsh-las-2026-08-11-spread-home-6pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
+| cs2-fut-tyloo-2026-08-12 | AV23IUa, UpTheBlues |
+| usc-psg-av-2026-08-12-psg | UpTheBlues, Weaseloftheweek |
+| wnba-chi-gsv-2026-08-12-total-166pt5 | HomeRunHazard, UpTheBlues |
+| lol-dnf-ns-2026-08-12 | BBQChickenisthebesttt, BrotherObama, ferrariChampions2026 |
+| lol-edg-al-2026-08-12 | BBQChickenisthebesttt, BrotherObama, ferrariChampions2026 |
+| cs2-ts7-jjh-2026-08-12 | AV23IUa, UpTheBlues |
+| lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, BrotherObama, jtwyslljy |
 
 ## Últimas 30 apuestas de papel (detalle)
 

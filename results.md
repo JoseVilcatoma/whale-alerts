@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 02:37:23 (hora de Perú)
+Actualizado: 2026-08-12 06:36:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **671**  ($13,799,617 en total)
-- Resueltas: **350** — 246 ganadas / 104 perdidas (**70%** de acierto)
-- Pendientes: 321
-- Apostadores distintos: 97
+- Apuestas registradas: **1013**  ($21,177,140 en total)
+- Resueltas: **790** — 486 ganadas / 304 perdidas (**62%** de acierto)
+- Pendientes: 223
+- Apostadores distintos: 112
 
 ### Balance
 
-- **Resultado de los apostadores: +$827,015** sobre $7,901,922 apostados (ROI **+10.5%**)
-- Copiando $100 fijo en cada una: **+$3,161** sobre $34,000 (ROI **+9.3%**)
+- **Resultado de los apostadores: +$458,519** sobre $16,870,601 apostados (ROI **+2.7%**)
+- Copiando $100 fijo en cada una: **+$2,360** sobre $77,800 (ROI **+3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,110 +24,110 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 0 | 34 | 100% | $1,277,326 | +$384,537 |
-| ferrariChampions2026 | 47 | 6 | 25 | 89% | $1,168,205 | +$93,281 |
-| AV23IUa | 12 | 5 | 25 | 71% | $1,140,129 | +$239,141 |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 16 | 29 | 43% | $1,131,395 | -$248,458 |
-| Djdjdjekekek | 0 | 2 | 20 | ⚠️ 0% (2) | $726,939 | -$62,629 |
-| pleaseplease123 | 0 | 12 | 16 | 0% | $700,196 | -$399,165 |
-| Weaseloftheweek | 8 | 2 | 0 | 80% | $607,608 | +$306,346 |
-| BreakTheBank | 0 | 8 | 0 | 0% | $535,671 | -$535,671 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 41 | 0 | 41% | $1,811,081 | -$218,949 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 21 | 28% | $1,670,421 | -$743,370 |
+| AV23IUa | 23 | 11 | 27 | 68% | $1,601,781 | +$348,929 |
+| ferrariChampions2026 | 79 | 25 | 2 | 76% | $1,555,768 | +$58,976 |
+| Djdjdjekekek | 27 | 3 | 11 | 90% | $1,228,050 | +$494,952 |
+| Weaseloftheweek | 11 | 2 | 3 | 85% | $1,218,338 | +$518,388 |
+| pleaseplease123 | 0 | 39 | 0 | 0% | $991,234 | -$991,234 |
+| BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
+| SDTrading | 25 | 6 | 0 | 81% | $566,130 | +$328,056 |
+| texaskid | 16 | 0 | 0 | 100% | $535,712 | +$405,912 |
+| Talvez10 | 24 | 3 | 0 | 89% | $497,016 | +$224,365 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
-| SDTrading | 12 | 4 | 6 | 75% | $402,921 | +$149,794 |
-| texaskid | 2 | 0 | 9 | ⚠️ 100% (2) | $364,455 | +$90,000 |
-| Talvez10 | 14 | 2 | 2 | 88% | $331,344 | +$124,946 |
+| Sassy-Bucket | 8 | 13 | 0 | 38% | $359,404 | -$150,563 |
+| HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
+| theowalcott | 21 | 0 | 0 | 100% | $318,833 | +$226,502 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
-| Sassy-Bucket | 0 | 0 | 15 | — | $252,153 | — |
-| HVAB | 6 | 0 | 0 | ⚠️ 100% (6) | $234,357 | +$36,057 |
-| theowalcott | 12 | 0 | 2 | 100% | $212,555 | +$115,484 |
-| mikesports | 2 | 2 | 5 | ⚠️ 50% (4) | $146,046 | -$16,049 |
-| fRibrenlc | 5 | 4 | 2 | 56% | $144,073 | +$5,745 |
-| wr0ngw4yb3tt0r | 0 | 2 | 7 | ⚠️ 0% (2) | $143,984 | -$22,712 |
-| xifutloong3 | 4 | 0 | 0 | ⚠️ 100% (4) | $126,883 | +$94,938 |
-| Feromont | 0 | 0 | 5 | — | $116,933 | — |
-| winwin518168 | 0 | 2 | 5 | ⚠️ 0% (2) | $110,606 | -$40,000 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 0 | 8 | 0 | 0% | $108,227 | -$70,245 |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 2 | 0 | 0 | ⚠️ 100% (2) | $106,272 | +$76,955 |
-| RN1 | 2 | 0 | 6 | ⚠️ 100% (2) | $104,310 | +$50,039 |
-| ...............................lala | 2 | 4 | 0 | ⚠️ 33% (6) | $98,977 | -$42,922 |
-| 0x076d…8d4c | 1 | 0 | 6 | ⚠️ 100% (1) | $95,350 | +$1,092 |
-| johnny234 | 2 | 0 | 4 | ⚠️ 100% (2) | $91,555 | +$21,984 |
-| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 6 | — | $87,544 | — |
-| DonaldinhoTrumpito | 0 | 0 | 4 | — | $74,938 | — |
-| ExplosiveNinja | 0 | 0 | 6 | — | $72,821 | — |
-| kibanachi | 4 | 0 | 0 | ⚠️ 100% (4) | $71,613 | +$12,017 |
-| Mylifeisover | 4 | 0 | 0 | ⚠️ 100% (4) | $70,966 | +$60,453 |
-| phonesculptor | 0 | 2 | 4 | ⚠️ 0% (2) | $69,925 | -$27,600 |
-| 0b1 | 4 | 0 | 0 | ⚠️ 100% (4) | $69,706 | +$14,603 |
-| AGUGava | 1 | 0 | 4 | ⚠️ 100% (1) | $62,888 | +$451 |
-| paquitomillonario | 0 | 2 | 2 | ⚠️ 0% (2) | $55,851 | -$24,779 |
-| Istaroth | 0 | 0 | 2 | — | $55,408 | — |
-| tennischamp | 2 | 0 | 3 | ⚠️ 100% (2) | $54,391 | +$1,685 |
-| BaccaratRoulette | 0 | 2 | 0 | ⚠️ 0% (2) | $54,120 | -$54,120 |
+| umeax | 0 | 0 | 2 | — | $234,739 | — |
+| mikesports | 3 | 3 | 7 | ⚠️ 50% (6) | $211,470 | -$24,073 |
+| wr0ngw4yb3tt0r | 7 | 6 | 0 | 54% | $209,577 | -$12,560 |
+| ActionReaction | 0 | 0 | 7 | — | $193,576 | — |
+| xifutloong3 | 6 | 0 | 0 | ⚠️ 100% (6) | $190,324 | +$142,407 |
+| Feromont | 7 | 0 | 0 | ⚠️ 100% (7) | $162,799 | +$43,867 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
+| johnny234 | 3 | 3 | 5 | ⚠️ 50% (6) | $162,310 | -$7,214 |
+| winwin518168 | 0 | 10 | 0 | 0% | $160,808 | -$160,808 |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,408 | +$115,433 |
+| ThornyDevil | 2 | 0 | 4 | ⚠️ 100% (2) | $158,751 | +$14,240 |
+| fRibrenlc | 8 | 4 | 0 | 67% | $156,073 | +$36,412 |
+| ...............................lala | 3 | 6 | 0 | 33% | $148,465 | -$64,383 |
+| RN1 | 7 | 4 | 0 | 64% | $144,192 | +$24,012 |
+| 0x076d…8d4c | 7 | 0 | 3 | ⚠️ 100% (7) | $137,506 | +$37,453 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 6 | — | $132,684 | — |
+| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
+| Lakersfan111 | 1 | 0 | 9 | ⚠️ 100% (1) | $129,884 | +$9,167 |
+| TAIWANNUMBERONE | 0 | 1 | 7 | ⚠️ 0% (1) | $123,809 | -$17,114 |
+| ExplosiveNinja | 0 | 0 | 10 | — | $122,231 | — |
+| DonaldinhoTrumpito | 0 | 0 | 6 | — | $112,406 | — |
+| Marcoli | 2 | 0 | 3 | ⚠️ 100% (2) | $111,211 | +$28,966 |
+| kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
+| Mylifeisover | 6 | 0 | 0 | ⚠️ 100% (6) | $106,449 | +$90,679 |
 
-_(mostrando los 40 de mayor monto, de 97 en total)_
+_(mostrando los 40 de mayor monto, de 112 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| ComingBack | Astana: Takuya Kumasaka vs Hayato Matsuoka | Hayato Matsuoka | 1.18 (85¢) | $12,752 | — | ⏳ Pendiente |
-| Djdjdjekekek | LoL: HANJIN BRION Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group | HANJIN BRION Challengers | 1.33 (75¢) | $11,250 | — | ⏳ Pendiente |
-| Djdjdjekekek | LoL: HANJIN BRION Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group | HANJIN BRION Challengers | 1.33 (75¢) | $11,250 | — | ⏳ Pendiente |
-| MeiGuNiuBi | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $12,600 | — | ⏳ Pendiente |
-| MeiGuNiuBi | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $12,600 | — | ⏳ Pendiente |
-| johnny234 | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.61 (62¢) | $13,654 | — | ⏳ Pendiente |
-| johnny234 | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.61 (62¢) | $13,654 | — | ⏳ Pendiente |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: AL (-1.5) vs EDward Gaming (+1.5) | Anyones Legend | 1.45 (69¢) | $10,390 | — | ⏳ Pendiente |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: AL (-1.5) vs EDward Gaming (+1.5) | Anyone's Legend | 1.45 (69¢) | $10,390 | — | ⏳ Pendiente |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: NS (-1.5) vs DN SOOPers (+1.5) | DN SOOPers | 1.49 (67¢) | $10,050 | — | ⏳ Pendiente |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Game Handicap: NS (-1.5) vs DN SOOPers (+1.5) | DN SOOPers | 1.49 (67¢) | $10,050 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 2.44 (41¢) | $13,328 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.69 (59¢) | $17,326 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.69 (59¢) | $17,326 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 2.44 (41¢) | $13,328 | — | ⏳ Pendiente |
-| 0x076d…8d4c | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.67 (60¢) | $11,937 | — | ⏳ Pendiente |
-| 0x076d…8d4c | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.67 (60¢) | $11,937 | — | ⏳ Pendiente |
-| johnny234 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 1.61 (62¢) | $13,804 | — | ⏳ Pendiente |
-| johnny234 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 1.61 (62¢) | $13,804 | — | ⏳ Pendiente |
-| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $20,666 | — | ⏳ Pendiente |
-| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $20,666 | — | ⏳ Pendiente |
-| AV23IUa | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.85 (54¢) | $10,800 | — | ⏳ Pendiente |
-| AV23IUa | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.92 (52¢) | $10,400 | — | ⏳ Pendiente |
-| AV23IUa | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.45 (69¢) | $13,800 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.25 (80¢) | $14,034 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.25 (80¢) | $14,034 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $12,072 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $13,288 | — | ⏳ Pendiente |
-| ililili1lil1i1 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 3.57 (28¢) | $15,664 | — | ⏳ Pendiente |
-| swisstony | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.25 (80¢) | $11,832 | — | ⏳ Pendiente |
-| Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | -$5,509 | 💰 Vendida antes |
-| Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | -$5,509 | 💰 Vendida antes |
-| coali10 | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | Yes | 2.86 (35¢) | $10,407 | — | ⏳ Pendiente |
-| DonaldinhoTrumpito | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | No | 1.54 (65¢) | $19,188 | — | ⏳ Pendiente |
-| DonaldinhoTrumpito | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | No | 1.54 (65¢) | $19,188 | — | ⏳ Pendiente |
-| coali10 | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | Yes | 2.86 (35¢) | $10,407 | — | ⏳ Pendiente |
-| DonaldinhoTrumpito | Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election? | Yes | 1.54 (65¢) | $18,281 | — | ⏳ Pendiente |
-| DonaldinhoTrumpito | Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election? | Yes | 1.54 (65¢) | $18,281 | — | ⏳ Pendiente |
-| 0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945 | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.20 (83¢) | $11,640 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.18 (85¢) | $15,685 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.18 (85¢) | $15,685 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.18 (85¢) | $10,130 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.18 (85¢) | $10,130 | — | ⏳ Pendiente |
-| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $57,182 | — | ⏳ Pendiente |
-| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $57,182 | — | ⏳ Pendiente |
-| ExplosiveNinja | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | GamerLegion | 2.08 (48¢) | $12,103 | — | ⏳ Pendiente |
-| ExplosiveNinja | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | GamerLegion | 2.08 (48¢) | $12,103 | — | ⏳ Pendiente |
-| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $47,191 | — | ⏳ Pendiente |
-| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $47,191 | — | ⏳ Pendiente |
-| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $83,298 | — | ⏳ Pendiente |
-| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $83,298 | — | ⏳ Pendiente |
-| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $10,193 | — | ⏳ Pendiente |
-| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $10,193 | — | ⏳ Pendiente |
-| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $17,468 | — | ⏳ Pendiente |
-| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $17,468 | — | ⏳ Pendiente |
-| Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.20 (83¢) | $64,864 | — | ⏳ Pendiente |
-| 0F62 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.19 (84¢) | $30,277 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 3.85 (26¢) | $17,333 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.35 (74¢) | $10,873 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.35 (74¢) | $12,259 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | KT Rolster | 2.70 (37¢) | $30,983 | — | ⏳ Pendiente |
+| ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.59 (63¢) | $52,261 | — | ⏳ Pendiente |
+| ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.59 (63¢) | $52,261 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | KT Rolster | 2.70 (37¢) | $30,983 | — | ⏳ Pendiente |
+| ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.59 (63¢) | $13,622 | — | ⏳ Pendiente |
+| ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.59 (63¢) | $13,622 | — | ⏳ Pendiente |
+| ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.59 (63¢) | $25,594 | — | ⏳ Pendiente |
+| retroactivesource | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.20 (83¢) | $20,981 | — | ⏳ Pendiente |
+| retroactivesource | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.20 (83¢) | $20,981 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.45 (69¢) | $30,115 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.82 (55¢) | $16,603 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.82 (55¢) | $16,603 | — | ⏳ Pendiente |
+| GreatestTrader | LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyones Legend | 1.30 (77¢) | $11,215 | — | ⏳ Pendiente |
+| GreatestTrader | LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 1.30 (77¢) | $11,215 | — | ⏳ Pendiente |
+| umeax | Will Paris Saint-Germain win on 2026-08-12? | No | 2.33 (43¢) | $117,370 | — | ⏳ Pendiente |
+| Weaseloftheweek | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.75 (57¢) | $150,464 | — | ⏳ Pendiente |
+| umeax | Will Paris Saint-Germain win on 2026-08-12? | No | 2.33 (43¢) | $117,370 | — | ⏳ Pendiente |
+| Weaseloftheweek | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.75 (57¢) | $150,464 | — | ⏳ Pendiente |
+| 88M | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.72 (58¢) | $11,849 | — | ⏳ Pendiente |
+| CORGI8 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.82 (55¢) | $15,192 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | magic | 2.22 (45¢) | $12,430 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.82 (55¢) | $14,600 | — | ⏳ Pendiente |
+| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.22 (45¢) | $10,994 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.82 (55¢) | $14,600 | — | ⏳ Pendiente |
+| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.22 (45¢) | $10,994 | — | ⏳ Pendiente |
+| ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.33 (43¢) | $18,109 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.75 (57¢) | $21,932 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.75 (57¢) | $21,932 | — | ⏳ Pendiente |
+| ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.33 (43¢) | $18,109 | — | ⏳ Pendiente |
+| ExplosiveNinja | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | JiJieHao | 1.54 (65¢) | $13,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $33,229 | — | ⏳ Pendiente |
+| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.70 (37¢) | $19,236 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $18,900 | — | ⏳ Pendiente |
+| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.70 (37¢) | $11,100 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $33,229 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.59 (63¢) | $18,900 | — | ⏳ Pendiente |
+| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.70 (37¢) | $19,236 | — | ⏳ Pendiente |
+| Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.70 (37¢) | $11,100 | — | ⏳ Pendiente |
+| midwicket72 | The Hundred, Women: Welsh Fire vs London Spirit | Welsh Fire | 1.45 (69¢) | $10,251 | — | ⏳ Pendiente |
+| SineNooneEI | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $11,860 | — | ⏳ Pendiente |
+| SineNooneEI | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $11,860 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $10,343 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.69 (59¢) | $10,343 | — | ⏳ Pendiente |
+| Lakersfan111 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.50 (40¢) | $10,334 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.67 (60¢) | $15,000 | — | ⏳ Pendiente |
+| Lakersfan111 | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | KT Rolster | 2.50 (40¢) | $10,334 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.67 (60¢) | $15,000 | — | ⏳ Pendiente |
+| Lakersfan111 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.78 (36¢) | $16,516 | — | ⏳ Pendiente |
+| 0x8d83598759 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.56 (64¢) | $11,088 | — | ⏳ Pendiente |
+| Lakersfan111 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | KT Rolster | 2.78 (36¢) | $16,516 | — | ⏳ Pendiente |
+| 0x8d83598759 | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.56 (64¢) | $11,088 | — | ⏳ Pendiente |
+| SineNooneEI | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.28 (78¢) | $10,140 | — | ⏳ Pendiente |
+| five5120 | LoL: EDward Gaming vs Anyone's Legend - Game 2 Winner | Anyone's Legend | 1.09 (92¢) | $10,400 | — | ⏳ Pendiente |
+| xfile | Will Paris Saint-Germain win on 2026-08-12? | No | 2.33 (43¢) | $12,900 | — | ⏳ Pendiente |
+| Weaseloftheweek | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.75 (57¢) | $47,307 | — | ⏳ Pendiente |
+| vip-kazah | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.18 (85¢) | $12,182 | — | ⏳ Pendiente |
+| vip-kazah | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.18 (85¢) | $12,182 | — | ⏳ Pendiente |
+| jackpeter888 | LoL: EDward Gaming vs Anyone's Legend - Game 2 Winner | Anyones Legend | 1.35 (74¢) | $11,152 | — | ⏳ Pendiente |
+| jackpeter888 | LoL: EDward Gaming vs Anyone's Legend - Game 2 Winner | Anyone's Legend | 1.35 (74¢) | $11,152 | — | ⏳ Pendiente |
+| Lakersfan111 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.33 (75¢) | $10,500 | — | ⏳ Pendiente |
