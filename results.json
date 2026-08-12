@@ -3358,5 +3358,31 @@
     "usd": 13109.56826,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 151,
+    "timestamp": 1786495414,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tex-laa-2026-08-11-spread-away-1pt5",
+    "title": "Spread: Texas Rangers (-1.5)",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 11167.40999914,
+    "odds_at_bet": 46,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 152,
+    "timestamp": 1786495414,
+    "username": "Elaran1993",
+    "wallet": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d",
+    "slug": "mlb-tex-laa-2026-08-11-spread-away-1pt5",
+    "title": "Spread: Texas Rangers (-1.5)",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 13109.568259860001,
+    "odds_at_bet": 54,
+    "status": "pending"
   }
 ]
