@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 21:19:10 (hora de Perú)
+Actualizado: 2026-08-11 21:21:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **335**  ($6,809,091 en total)
+- Apuestas registradas: **336**  ($6,821,091 en total)
 - Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 219
+- Pendientes: 220
 - Apostadores distintos: 90
 
 ### Balance
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Istaroth | 0 | 0 | 1 | — | $27,704 | — |
 | BaccaratRoulette | 0 | 1 | 0 | ⚠️ 0% (1) | $27,060 | -$27,060 |
 | thecomplicatedguy | 0 | 0 | 2 | — | $27,000 | — |
-| jaytee158 | 2 | 0 | 0 | ⚠️ 100% (2) | $26,651 | +$4,349 |
+| danielwolfmorales3pddb6dl6 | 0 | 1 | 1 | ⚠️ 0% (1) | $27,000 | -$15,000 |
 
 _(mostrando los 40 de mayor monto, de 90 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 90 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| danielwolfmorales3pddb6dl6 | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Martin Damm | 1.96 (51¢) | $12,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $16,254 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $18,762 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.85 (54¢) | $18,101 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 90 en total)_
 | winwin518168 | Spread: Los Angeles Sparks (-2.5) | Los Angeles Sparks | 2.04 (49¢) | $20,000 | — | ⏳ Pendiente |
 | quavoo | Will Tigres de la UANL win on 2026-08-11? | Yes | 1.49 (67¢) | $14,472 | — | ⏳ Pendiente |
 | WTSA | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC | 1.79 (56¢) | $16,800 | — | ⏳ Pendiente |
-| mikesports | Will Tigres de la UANL vs. Vancouver Whitecaps FC end in a draw? | No | 1.20 (83¢) | $15,199 | — | ⏳ Pendiente |

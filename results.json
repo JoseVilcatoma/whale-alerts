@@ -4363,5 +4363,18 @@
     "usd": 16253.6129,
     "odds_at_bet": 46,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 230,
+    "timestamp": 1786501180,
+    "username": "danielwolfmorales3pddb6dl6",
+    "wallet": "0xf377b9fb12a4b7507a4f997461a73eb30b564159",
+    "slug": "atp-damm-sakella-2026-08-11",
+    "title": "Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis",
+    "outcome": "Martin Damm",
+    "side": "BUY",
+    "usd": 11999.999999,
+    "odds_at_bet": 51,
+    "status": "pending"
   }
 ]
