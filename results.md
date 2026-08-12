@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 11:52:12 (hora de Perú)
+Actualizado: 2026-08-12 11:54:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1413**  ($32,832,345 en total)
+- Apuestas registradas: **1415**  ($32,855,703 en total)
 - Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 474
+- Pendientes: 476
 - Apostadores distintos: 131
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
 | ferrariChampions2026 | 90 | 29 | 12 | 76% | $1,867,794 | +$113,934 |
 | Weaseloftheweek | 11 | 2 | 5 | 85% | $1,416,109 | +$518,388 |
-| pleaseplease123 | 0 | 44 | 5 | 0% | $1,249,516 | -$1,082,423 |
+| pleaseplease123 | 0 | 44 | 6 | 0% | $1,259,984 | -$1,082,423 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
 | texaskid | 18 | 0 | 0 | 100% | $598,663 | +$455,165 |
 | SDTrading | 25 | 6 | 0 | 81% | $566,130 | +$328,056 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 131 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $10,468 | — | ⏳ Pendiente |
+| ArturitoFilito | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $12,890 | — | ⏳ Pendiente |
 | ArturitoFilito | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $12,890 | — | ⏳ Pendiente |
 | 0x99F0d31fdced5B3A0e5Ee2867730A6644a6C9495-1779037126382 | Exact Score: Paris Saint-Germain 0 - 0 Aston Villa? | No | 1.08 (93¢) | $15,064 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Hamburg: Raul Brancaccio vs Marvin Moeller | Marvin Moeller | 1.15 (87¢) | $10,041 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 131 en total)_
 | skyman44 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.33 (75¢) | $13,855 | — | ⏳ Pendiente |
 | skyman44 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.33 (75¢) | $13,855 | — | ⏳ Pendiente |
 | ActionReaction | LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs | TLN Pirates | 1.69 (59¢) | $21,565 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs | Ici Japon Corp. Esport | 2.44 (41¢) | $10,250 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs | Ici Japon Corp. Esport | 2.44 (41¢) | $10,250 | — | ⏳ Pendiente |
