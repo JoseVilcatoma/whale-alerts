@@ -79515,5 +79515,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786527694.269189,
     "fills": 1
+  },
+  {
+    "timestamp": 1786527809,
+    "timestamp_added": 1786527809.8221521,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-edg-al-2026-08-12-game1",
+    "title": "LoL: EDward Gaming vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "whale_usd": 630.6768000000001,
+    "whale_pct": 0.177,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786527809.8221626,
+    "fills": 1
   }
 ]
