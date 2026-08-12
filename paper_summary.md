@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 18:27:20 (hora de Perú)
+Actualizado: 2026-08-12 18:29:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $636.67
-**Retorno acumulado:** -36.33%
+**Bankroll actual:** $637.22
+**Retorno acumulado:** -36.28%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -29,8 +29,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
+| UpTheBlues | 255 | 157 | 9 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
-| UpTheBlues | 254 | 157 | 10 | +0.86 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
@@ -48,13 +48,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
-| quavoo | 158 | 209 | 2 | -28.31 USD |
-| RN1 | 202 | 112 | 8 | -39.02 USD |
+| quavoo | 159 | 209 | 1 | -28.16 USD |
+| RN1 | 202 | 112 | 10 | -39.02 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 10 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 12 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -454,12 +454,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lib-pal-cep-2026-08-12-pal | RN1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-12-spread-away-2pt5 | RN1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-bos-tor-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
+| lib-pal-cep-2026-08-12-total-0pt5 | RN1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-12-total-10pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| sud-tig-tor-2026-08-12-total-1pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Montevideo City Torque win on 2026- | Yes (BUY) | 69% | 0.64 | ⏳ pendiente | — |
+| RN1 | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 63% | 1.36 | ⏳ pendiente | — |
+| ferrariChampions2026 | CA Tigre vs. Montevideo City Torque: O/U | Under (BUY) | 55% | 1.45 | ⏳ pendiente | — |
+| RN1 | CA Tigre vs. Montevideo City Torque: O/U | Under (BUY) | 56% | 1.76 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 48% | 2.96 | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 53% | 9.64 | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 31% | 2.95 | ⏳ pendiente | — |
@@ -486,7 +492,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 73% | 3.07 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 44% | 6.29 | ❌ perdida | -6.29 |
 | wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 53% | 80.99 | ✅ ganada | +71.82 |
-| Sassy-Bucket | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 53% | 212.93 | ✅ ganada | +188.82 |
-| wr0ngw4yb3tt0r | Spread: Baltimore Orioles (-1.5) | Minnesota Twins (BUY) | 62% | 26.54 | ✅ ganada | +16.27 |
-| SDTrading | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| SDTrading | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
