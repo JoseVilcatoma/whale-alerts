@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 17:43:29 (hora de Perú)
+Actualizado: 2026-08-12 17:45:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1983**  ($53,617,851 en total)
+- Apuestas registradas: **1989**  ($53,835,305 en total)
 - Resueltas: **1353** — 804 ganadas / 549 perdidas (**59%** de acierto)
-- Pendientes: 630
+- Pendientes: 636
 - Apostadores distintos: 177
 
 ### Balance
@@ -24,14 +24,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 53 | 43% | $8,818,505 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 54 | 43% | $8,877,905 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 18 | 35% | $3,070,137 | -$564,452 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 19 | 35% | $3,118,137 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 47 | 77% | $2,601,386 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 33 | 0% | $2,224,661 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
 | Weaseloftheweek | 19 | 2 | 7 | 90% | $1,946,083 | +$872,236 |
-| BreakTheBank | 0 | 12 | 8 | 0% | $1,483,516 | -$803,506 |
+| BreakTheBank | 0 | 12 | 9 | 0% | $1,513,665 | -$803,506 |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
 | Sassy-Bucket | 14 | 16 | 3 | 47% | $699,014 | -$118,892 |
 | wr0ngw4yb3tt0r | 9 | 6 | 13 | 60% | $689,148 | +$13,912 |
@@ -55,15 +55,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | bigspending | 0 | 0 | 5 | — | $333,212 | — |
 | johnny234 | 4 | 11 | 8 | 27% | $317,917 | -$101,100 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
+| fRibrenlc | 9 | 7 | 7 | 56% | $305,328 | +$15,968 |
 | casualbet2020 | 0 | 0 | 6 | — | $304,949 | — |
-| fRibrenlc | 9 | 7 | 6 | 56% | $290,662 | +$15,968 |
 | basementdweller3000 | 6 | 3 | 6 | 67% | $282,034 | +$34,747 |
+| highnetworth | 0 | 0 | 6 | — | $268,224 | — |
 | five5120 | 7 | 9 | 2 | 44% | $266,115 | -$84,525 |
 | ThornyDevil | 2 | 6 | 1 | 25% | $254,880 | -$207,394 |
+| DonaldinhoTrumpito | 0 | 0 | 13 | — | $244,529 | — |
 | mikesports | 7 | 8 | 0 | 47% | $243,869 | -$88,869 |
-| DonaldinhoTrumpito | 0 | 0 | 12 | — | $232,162 | — |
 | TAIWANNUMBERONE | 11 | 1 | 3 | 92% | $217,012 | +$88,234 |
-| highnetworth | 0 | 0 | 5 | — | $215,351 | — |
 
 _(mostrando los 40 de mayor monto, de 177 en total)_
 
@@ -71,6 +71,12 @@ _(mostrando los 40 de mayor monto, de 177 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| DonaldinhoTrumpito | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $12,367 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $59,400 | — | ⏳ Pendiente |
+| fRibrenlc | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $14,667 | — | ⏳ Pendiente |
+| highnetworth | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 2.94 (34¢) | $52,872 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.67 (60¢) | $48,000 | — | ⏳ Pendiente |
+| BreakTheBank | Chicago Cubs vs. Washington Nationals | Washington Nationals | 2.50 (40¢) | $30,149 | — | ⏳ Pendiente |
 | 0x1670700a2A23d24Ae699fA523eBd90ADfa0d0B65-1768523373235 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.35 (74¢) | $10,615 | — | ⏳ Pendiente |
 | justbusiness1 | Will Orlando City SC win on 2026-08-12? | Yes | 1.82 (55¢) | $10,604 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Miami Marlins (-1.5) | Pittsburgh Pirates | 1.56 (64¢) | $11,818 | — | ⏳ Pendiente |
@@ -125,9 +131,3 @@ _(mostrando los 40 de mayor monto, de 177 en total)_
 | theowalcott | Will CA Tigre win on 2026-08-12? | No | 2.00 (50¢) | $14,861 | — | ⏳ Pendiente |
 | vtcchampion52 | Will Kai and Speed beat the Minecraft challenge by August 13? | Yes | 1.14 (88¢) | $13,779 | — | ⏳ Pendiente |
 | zb8 | Will Kai and Speed beat the Minecraft challenge by August 13? | Yes | 1.11 (90¢) | $18,419 | — | ⏳ Pendiente |
-| WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U 2.5 | Over 2.5 | 2.13 (47¢) | $10,103 | — | ⏳ Pendiente |
-| WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U 2.5 | Over 2.5 | 2.13 (47¢) | $10,103 | — | ⏳ Pendiente |
-| WTSA | Spread: SE Palmeiras (-1.5) | SE Palmeiras | 1.96 (51¢) | $22,554 | — | ⏳ Pendiente |
-| spnir | Spread: SE Palmeiras (-1.5) | Club Cerro Porteño | 2.04 (49¢) | $14,700 | — | ⏳ Pendiente |
-| pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $70,400 | — | ⏳ Pendiente |
-| monkeymashingkeyboard | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $23,500 | — | ⏳ Pendiente |
