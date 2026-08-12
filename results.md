@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 17:11:28 (hora de Perú)
+Actualizado: 2026-08-12 17:13:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1958**  ($53,065,516 en total)
+- Apuestas registradas: **1961**  ($53,119,954 en total)
 - Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
-- Pendientes: 609
+- Pendientes: 612
 - Apostadores distintos: 173
 
 ### Balance
@@ -29,12 +29,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 14 | 35% | $2,916,482 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 47 | 77% | $2,601,386 | +$168,085 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
-| pleaseplease123 | 0 | 44 | 27 | 0% | $2,067,863 | -$1,082,423 |
-| Weaseloftheweek | 19 | 2 | 6 | 90% | $1,931,349 | +$872,236 |
+| pleaseplease123 | 0 | 44 | 28 | 0% | $2,094,501 | -$1,082,423 |
+| Weaseloftheweek | 19 | 2 | 7 | 90% | $1,946,083 | +$872,236 |
 | BreakTheBank | 0 | 12 | 8 | 0% | $1,483,516 | -$803,506 |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
+| Sassy-Bucket | 14 | 16 | 3 | 47% | $699,014 | -$118,892 |
 | S-Works | 0 | 0 | 6 | — | $688,936 | — |
-| Sassy-Bucket | 14 | 16 | 2 | 47% | $685,948 | -$118,892 |
 | musholius722 | 0 | 0 | 2 | — | $681,015 | — |
 | wr0ngw4yb3tt0r | 9 | 6 | 12 | 60% | $652,580 | +$13,912 |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 0 | 0 | 10 | — | $606,368 | — |
@@ -71,8 +71,11 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $14,734 | — | ⏳ Pendiente |
+| Sassy-Bucket | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $13,066 | — | ⏳ Pendiente |
 | Sassy-Bucket | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $13,066 | — | ⏳ Pendiente |
 | Weaseloftheweek | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $14,734 | — | ⏳ Pendiente |
+| pleaseplease123 | New York Mets vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $26,638 | — | ⏳ Pendiente |
 | Feromont | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.56 (64¢) | $11,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 3.03 (33¢) | $14,873 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.49 (67¢) | $25,023 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 | ferrariChampions2026 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.11 (90¢) | $14,256 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $45,811 | — | ⏳ Pendiente |
 | highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $44,005 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $45,811 | — | ⏳ Pendiente |
-| highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $44,005 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.23 (81¢) | $11,635 | — | ⏳ Pendiente |
