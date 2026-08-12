@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:58:30 (hora de Perú)
+Actualizado: 2026-08-11 22:00:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $427.34
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 2 | 9 | 1 | +15.06 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 242 | 150 | 20 | +4.48 USD |
+| UpTheBlues | 242 | 150 | 21 | +4.48 USD |
 | HomeRunHazard | 104 | 92 | 15 | +4.38 USD |
 | Sassy-Bucket | 7 | 6 | 2 | +3.19 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 167 | 112 | 26 | -28.34 USD |
+| swisstony | 167 | 112 | 27 | -28.34 USD |
 | quavoo | 152 | 186 | 34 | -33.89 USD |
 | RN1 | 199 | 111 | 6 | -38.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -458,6 +458,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Spread: Vancouver Whitecaps FC (-1.5) | Tigres de la UANL (BUY) | 98% | 1.04 | ⏳ pendiente | — |
+| swisstony | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 74% | 0.85 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 94% | 1.56 | ⏳ pendiente | — |
 | UpTheBlues | Will Real Salt Lake win on 2026-08-11? | Yes (BUY) | 88% | 0.59 | ⏳ pendiente | — |
 | UpTheBlues | Real Salt Lake vs. FC Juárez: O/U 4.5 | Under (BUY) | 84% | 0.88 | ⏳ pendiente | — |
@@ -486,5 +488,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 45% | 1.06 | ⏳ pendiente | — |
 | swisstony | Spread: Las Vegas Aces (-7.5) | Las Vegas Aces (BUY) | 35% | 0.82 | ⏳ pendiente | — |
 | swisstony | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 76% | 0.89 | ⏳ pendiente | — |
-| 1winstreak1 | Washington Mystics vs. Las Vegas Aces | Washington Mystics (BUY) | 30% | 2.85 | ⏳ pendiente | — |
-| 1winstreak1 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 70% | 1.09 | ⏳ pendiente | — |
