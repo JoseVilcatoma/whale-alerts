@@ -77839,5 +77839,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786521364.786609,
     "fills": 1
+  },
+  {
+    "timestamp": 1786522212,
+    "timestamp_added": 1786522212.2600448,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-ns-2026-08-12-game1",
+    "title": "LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "whale_usd": 1992.1499999999999,
+    "whale_pct": 1.25,
+    "paper_stake_usd": 5.55,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786522212.2600517,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786522237,
+    "timestamp_added": 1786522238.2189043,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "clf-mun-lee-2026-08-12-mun",
+    "title": "Will Manchester United win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 505.8044,
+    "whale_pct": 0.116,
+    "paper_stake_usd": 0.51,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786522238.2189124,
+    "fills": 1
   }
 ]
