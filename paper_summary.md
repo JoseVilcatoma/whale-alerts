@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 23:53:01 (hora de Perú)
+Actualizado: 2026-08-11 23:55:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $486.74
-**Retorno acumulado:** -51.33%
+**Bankroll actual:** $484.62
+**Retorno acumulado:** -51.54%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,10 +15,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| 1winstreak1 | 131 | 110 | 11 | +105.43 USD |
+| 1winstreak1 | 132 | 111 | 9 | +105.07 USD |
 | dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| AV23IUa | 3 | 3 | 10 | +46.51 USD |
+| AV23IUa | 3 | 3 | 11 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | wr0ngw4yb3tt0r | 66 | 70 | 0 | +19.50 USD |
@@ -46,14 +46,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 186 | 127 | 11 | -24.56 USD |
+| swisstony | 188 | 131 | 5 | -25.84 USD |
 | quavoo | 155 | 186 | 31 | -29.75 USD |
 | RN1 | 203 | 112 | 3 | -37.58 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 642 | 480 | 7 | -99.21 USD |
+| ferrariChampions2026 | 643 | 482 | 4 | -99.68 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | BrotherObama | 7 | 17 | 0 | -121.31 USD |
@@ -469,6 +469,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: FUT Esports vs TYLOO (BO | TYLOO (BUY) | 41% | 1.25 | ⏳ pendiente | — |
 | 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 53% | 5.58 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Kansas City Royals (-1.5) | Kansas City Royals (BUY) | 17% | 0.48 | ⏳ pendiente | — |
 | UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.02 | ⏳ pendiente | — |
@@ -498,4 +499,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | Counter-Strike: NIP vs Legacy (BO1) - Es | Legacy (BUY) | 58% | 6.67 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 56% | 4.97 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 56% | 7.68 | ✅ ganada | +6.03 |
-| UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 70% | 0.65 | ⏳ pendiente | — |
