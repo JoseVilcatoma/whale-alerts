@@ -1,5 +1,5 @@
 {
-  "bankroll": 483.32083310657015,
+  "bankroll": 491.5249937810267,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18420,6 +18420,46 @@
       "timestamp": 1786511996.425408,
       "bankroll": 483.32,
       "event": "lost: 1winstreak1 \u2014 Spread: Kansas City Royals (-2.5)"
+    },
+    {
+      "timestamp": 1786512054.3369458,
+      "bankroll": 482.72,
+      "event": "lost: quavoo \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786512054.53738,
+      "bankroll": 484.07,
+      "event": "won: swisstony \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786512055.4689424,
+      "bankroll": 488.76,
+      "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786512056.0700057,
+      "bankroll": 488.27,
+      "event": "lost: swisstony \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786512057.3130822,
+      "bankroll": 491.38,
+      "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786512060.2751498,
+      "bankroll": 491.38,
+      "event": "lost: RN1 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786512060.3753078,
+      "bankroll": 491.38,
+      "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786512061.3768418,
+      "bankroll": 491.52,
+      "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Dodgers (-1.5)"
     }
   ]
 }

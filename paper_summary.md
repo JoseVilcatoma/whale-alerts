@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 00:20:10 (hora de Perú)
+Actualizado: 2026-08-12 00:22:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $483.32
-**Retorno acumulado:** -51.67%
+**Bankroll actual:** $491.52
+**Retorno acumulado:** -50.85%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| 1winstreak1 | 132 | 113 | 10 | +103.77 USD |
+| 1winstreak1 | 136 | 113 | 6 | +111.71 USD |
 | dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 3 | 11 | +46.51 USD |
@@ -46,9 +46,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 188 | 131 | 6 | -25.84 USD |
-| quavoo | 155 | 186 | 31 | -29.75 USD |
-| RN1 | 203 | 112 | 3 | -37.58 USD |
+| swisstony | 189 | 132 | 4 | -24.98 USD |
+| quavoo | 155 | 187 | 30 | -30.35 USD |
+| RN1 | 203 | 113 | 2 | -37.58 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -472,7 +472,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|---|---|
 | swisstony | Will Aston Villa win on 2026-08-12? | No (BUY) | 80% | 3.07 | ⏳ pendiente | — |
 | UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.90 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 93% | 1.95 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 93% | 1.95 | ✅ ganada | +0.15 |
 | 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 97% | 23.57 | ⏳ pendiente | — |
 | 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 74% | 1.73 | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 64% | 8.86 | ⏳ pendiente | — |
@@ -482,8 +482,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.02 | ⏳ pendiente | — |
 | UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.74 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Team Falcons vs K27 (BO1 | Team Falcons (BUY) | 79% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 24% | 0.00 | ⏳ pendiente | — |
-| RN1 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 24% | 0.00 | ✅ ganada | +0.00 |
+| RN1 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 75% | 0.00 | ❌ perdida | -0.00 |
 | 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 16.5 | Under (BUY) | 95% | 0.00 | ✅ ganada | +0.00 |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 57% | 5.11 | ✅ ganada | +3.85 |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 89% | 0.67 | ⏳ pendiente | — |

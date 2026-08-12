@@ -77236,8 +77236,8 @@
     "whale_pct": 0.141,
     "paper_stake_usd": 0.6,
     "odds_at_bet": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.6,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786500468.0367146,
@@ -77445,8 +77445,8 @@
     "whale_pct": 0.291,
     "paper_stake_usd": 1.25,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.35,
     "overlaps_with": [
       "quavoo"
     ],
@@ -78072,8 +78072,8 @@
     "whale_pct": 0.672,
     "paper_stake_usd": 2.87,
     "odds_at_bet": 38,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [
       "quavoo",
       "swisstony"
@@ -78247,8 +78247,8 @@
     "whale_pct": 0.114,
     "paper_stake_usd": 0.49,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.49,
     "overlaps_with": [
       "1winstreak1",
       "quavoo"
@@ -79067,8 +79067,8 @@
     "whale_pct": 1.547,
     "paper_stake_usd": 6.61,
     "odds_at_bet": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.11,
     "overlaps_with": [
       "quavoo",
       "swisstony"
@@ -80408,8 +80408,8 @@
     "whale_pct": 0.174,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "1winstreak1",
       "quavoo",
@@ -80432,7 +80432,7 @@
     "whale_pct": 0.131,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 24,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "RN1",
@@ -80642,8 +80642,8 @@
     "whale_pct": 0.402,
     "paper_stake_usd": 1.95,
     "odds_at_bet": 93,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.15,
     "overlaps_with": [
       "RN1",
       "quavoo",
