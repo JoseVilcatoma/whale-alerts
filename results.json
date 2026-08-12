@@ -16826,5 +16826,18 @@
     "usd": 10240.8381,
     "odds_at_bet": 81,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1057,
+    "timestamp": 1786543400,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-nym-atl-2026-08-12",
+    "title": "New York Mets vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 10043.669998,
+    "odds_at_bet": 61,
+    "status": "pending"
   }
 ]

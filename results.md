@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 09:03:03 (hora de Perú)
+Actualizado: 2026-08-12 09:05:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1292**  ($28,731,168 en total)
+- Apuestas registradas: **1293**  ($28,741,212 en total)
 - Resueltas: **936** — 566 ganadas / 370 perdidas (**60%** de acierto)
-- Pendientes: 356
+- Pendientes: 357
 - Apostadores distintos: 121
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 36 | 10 | 36 | 78% | $2,807,357 | +$578,460 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 0 | 36% | $2,039,712 | -$421,290 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
-| ferrariChampions2026 | 90 | 29 | 5 | 76% | $1,795,892 | +$113,934 |
+| ferrariChampions2026 | 90 | 29 | 6 | 76% | $1,805,935 | +$113,934 |
 | Weaseloftheweek | 11 | 2 | 5 | 85% | $1,416,109 | +$518,388 |
 | pleaseplease123 | 0 | 44 | 3 | 0% | $1,132,533 | -$1,082,423 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 121 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.64 (61¢) | $10,044 | — | ⏳ Pendiente |
 | five5120 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.23 (81¢) | $10,241 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.10 (91¢) | $11,761 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.10 (91¢) | $11,761 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 121 en total)_
 | 467j6yj | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.06 (94¢) | $21,242 | — | ⏳ Pendiente |
 | 467j6yj | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.06 (94¢) | $21,242 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | M80 | 2.86 (35¢) | $47,559 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.54 (65¢) | $88,454 | — | ⏳ Pendiente |
