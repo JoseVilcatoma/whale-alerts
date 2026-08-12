@@ -1,5 +1,5 @@
 {
-  "bankroll": 516.4309335769472,
+  "bankroll": 504.41659395430565,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18650,6 +18650,31 @@
       "timestamp": 1786572748.2933643,
       "bankroll": 516.43,
       "event": "lost: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-2.5)"
+    },
+    {
+      "timestamp": 1786573439.266219,
+      "bankroll": 515.14,
+      "event": "lost: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786573439.4665482,
+      "bankroll": 513.06,
+      "event": "lost: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786573439.5666811,
+      "bankroll": 503.99,
+      "event": "lost: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1786573502.276058,
+      "bankroll": 504.42,
+      "event": "won: RN1 \u2014 Will Manchester United win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786573502.8584464,
+      "bankroll": 504.42,
+      "event": "won: RN1 \u2014 Will Manchester United win on 2026-08-12?"
     }
   ]
 }
