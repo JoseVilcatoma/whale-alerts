@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 15:04:17 (hora de Perú)
+Actualizado: 2026-08-12 15:06:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1899**  ($51,746,839 en total)
+- Apuestas registradas: **1901**  ($51,836,655 en total)
 - Resueltas: **1341** — 796 ganadas / 545 perdidas (**59%** de acierto)
-- Pendientes: 558
+- Pendientes: 560
 - Apostadores distintos: 168
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 47 | 43% | $8,662,057 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 48 | 43% | $8,707,868 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 14 | 35% | $2,916,482 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 43 | 77% | $2,537,997 | +$168,085 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 168 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $45,811 | — | ⏳ Pendiente |
+| highnetworth | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $44,005 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.23 (81¢) | $11,635 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.23 (81¢) | $11,635 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.20 (83¢) | $13,200 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 168 en total)_
 | pleaseplease123 | Tampa Bay Rays vs. Athletics | Athletics | 3.12 (32¢) | $36,633 | — | ⏳ Pendiente |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.47 (68¢) | $105,703 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Athletics | Athletics | 3.12 (32¢) | $36,633 | — | ⏳ Pendiente |
-| pleaseplease123 | Tampa Bay Rays vs. Athletics | Athletics | 3.12 (32¢) | $36,633 | — | ⏳ Pendiente |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.47 (68¢) | $105,703 | — | ⏳ Pendiente |
