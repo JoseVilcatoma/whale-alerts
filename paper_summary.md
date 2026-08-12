@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 05:04:45 (hora de Perú)
+Actualizado: 2026-08-12 05:06:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 88 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 89 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | BrotherObama | 7 | 17 | 6 | -121.31 USD |
@@ -453,6 +453,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 59% | 0.00 | ⏳ pendiente | — |
@@ -482,4 +483,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: BIG vs Aurora Gaming (BO | BIG (BUY) | 79% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend -  | Anyone's Legend (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: EDward Gaming vs Anyone's Legend (B | EDward Gaming (BUY) | 22% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 78% | 0.00 | ⏳ pendiente | — |
