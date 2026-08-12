@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 09:33:30 (hora de Perú)
+Actualizado: 2026-08-12 09:35:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $449.56
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 29 | 16 | 13 | +189.61 USD |
+| BBQChickenisthebesttt | 29 | 16 | 15 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 4 | 5 | 4 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 114 | 97 | 7 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 249 | 151 | 21 | +5.66 USD |
+| UpTheBlues | 249 | 151 | 22 | +5.66 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
@@ -57,7 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | ferrariChampions2026 | 646 | 483 | 0 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
-| Djdjdjekekek | 5 | 12 | 10 | -116.01 USD |
+| Djdjdjekekek | 5 | 12 | 15 | -116.01 USD |
 | BrotherObama | 7 | 17 | 1 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
@@ -448,11 +448,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
+| lol-blg-jdg-2026-08-12 | BBQChickenisthebesttt, BrotherObama |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | San Marcos de Arica vs. Union San Felipe | Yes (BUY) | 44% | 0.00 | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 60% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 40% | 0.00 | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 38% | 0.00 | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | dv-pm | Cruzeiro EC vs. CR Flamengo: 1st Half O/ | Over (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 59% | 0.00 | ⏳ pendiente | — |
@@ -475,11 +484,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | Will GKS GieKSa Katowice win on 2026-08- | No (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 28% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Inter Miami CF win on 2026-08-12? | No (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will Club León FC win on 2026-08-12? | Yes (BUY) | 28% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Red Bull Bragantino vs. CA Mineiro: Red  | Under (BUY) | 22% | 0.00 | ⏳ pendiente | — |
-| UpTheBlues | Will SE Palmeiras vs. Club Cerro Porteño | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ⏳ pendiente | — |
