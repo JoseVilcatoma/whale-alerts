@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 20:33:07 (hora de Perú)
+Actualizado: 2026-08-11 20:35:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **287**  ($5,957,556 en total)
+- Apuestas registradas: **290**  ($5,997,849 en total)
 - Resueltas: **116** — 93 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 171
+- Pendientes: 174
 - Apostadores distintos: 86
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 18 | 38% | $608,538 | -$139,198 |
 | AV23IUa | 4 | 0 | 14 | ⚠️ 100% (4) | $526,033 | +$109,102 |
-| ferrariChampions2026 | 23 | 0 | 10 | 100% | $496,536 | +$57,935 |
+| ferrariChampions2026 | 23 | 0 | 11 | 100% | $511,245 | +$57,935 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 19 | 0 | 0 | 100% | $415,077 | +$195,517 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 11 | — | $347,753 | — |
 | Weaseloftheweek | 3 | 1 | 1 | ⚠️ 75% (4) | $303,804 | +$7,132 |
@@ -35,11 +35,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 0 | 0 | 11 | — | $201,460 | — |
 | Talvez10 | 0 | 0 | 9 | — | $165,672 | — |
 | TennisLove | 2 | 0 | 0 | ⚠️ 100% (2) | $152,883 | +$113,054 |
+| Sassy-Bucket | 0 | 0 | 8 | — | $118,908 | — |
 | Djdjdjekekek | 0 | 0 | 5 | — | $117,911 | — |
 | HVAB | 3 | 0 | 0 | ⚠️ 100% (3) | $117,178 | +$18,028 |
 | texaskid | 0 | 0 | 3 | — | $108,306 | — |
 | theowalcott | 0 | 0 | 7 | — | $106,278 | — |
-| Sassy-Bucket | 0 | 0 | 6 | — | $93,325 | — |
 | mikesports | 0 | 0 | 5 | — | $80,623 | — |
 | fRibrenlc | 3 | 2 | 0 | ⚠️ 60% (5) | $68,075 | +$8,937 |
 | xifutloong3 | 0 | 0 | 2 | — | $63,441 | — |
@@ -73,6 +73,9 @@ _(mostrando los 40 de mayor monto, de 86 en total)_
 |---|---|---|---|---|---|---|
 | ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $14,710 | — | ⏳ Pendiente |
 | Sassy-Bucket | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $14,133 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $14,710 | — | ⏳ Pendiente |
+| Sassy-Bucket | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $14,133 | — | ⏳ Pendiente |
+| Sassy-Bucket | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $11,450 | — | ⏳ Pendiente |
 | Sassy-Bucket | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $11,450 | — | ⏳ Pendiente |
 | winwin518168 | Washington Mystics vs. Las Vegas Aces | Washington Mystics | 3.33 (30¢) | $10,202 | — | ⏳ Pendiente |
 | winwin518168 | Washington Mystics vs. Las Vegas Aces | Washington Mystics | 3.33 (30¢) | $10,202 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 86 en total)_
 | AV23IUa | Cincinnati Open, Qualification: Kei Nishikori vs Francisco Comesana | Francisco Comesana | 1.75 (57¢) | $13,600 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Daniel Merida Aguilar vs Learner Tien | Learner Tien | 2.00 (50¢) | $27,284 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Daniel Merida Aguilar vs Learner Tien | Daniel Merida Aguilar | 2.00 (50¢) | $27,384 | — | ⏳ Pendiente |
-| pleaseplease123 | Tampa Bay Rays vs. Athletics | Athletics | 2.78 (36¢) | $27,550 | — | ⏳ Pendiente |
-| texaskid | Tampa Bay Rays vs. Athletics | Tampa Bay Rays | 1.56 (64¢) | $42,232 | — | ⏳ Pendiente |
-| AGUGava | National Bank Open: Naomi Osaka vs Elena Rybakina | Naomi Osaka | 1.59 (63¢) | $14,194 | +$451 | 💰 Vendida antes |
