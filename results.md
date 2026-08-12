@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 23:08:29 (hora de Perú)
+Actualizado: 2026-08-11 23:10:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **650**  ($13,516,855 en total)
+- Apuestas registradas: **652**  ($13,558,188 en total)
 - Resueltas: **348** — 246 ganadas / 102 perdidas (**71%** de acierto)
-- Pendientes: 302
+- Pendientes: 304
 - Apostadores distintos: 95
 
 ### Balance
@@ -43,6 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mikesports | 2 | 2 | 5 | ⚠️ 50% (4) | $146,046 | -$16,049 |
 | fRibrenlc | 5 | 4 | 2 | 56% | $144,073 | +$5,745 |
 | xifutloong3 | 4 | 0 | 0 | ⚠️ 100% (4) | $126,883 | +$94,938 |
+| Feromont | 0 | 0 | 5 | — | $116,933 | — |
 | winwin518168 | 0 | 2 | 5 | ⚠️ 0% (2) | $110,606 | -$40,000 |
 | wr0ngw4yb3tt0r | 0 | 2 | 5 | ⚠️ 0% (2) | $109,332 | -$22,712 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 0 | 8 | 0 | 0% | $108,227 | -$70,245 |
@@ -50,7 +51,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | RN1 | 2 | 0 | 6 | ⚠️ 100% (2) | $104,310 | +$50,039 |
 | ...............................lala | 2 | 4 | 0 | ⚠️ 33% (6) | $98,977 | -$42,922 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 6 | — | $87,544 | — |
-| Feromont | 0 | 0 | 3 | — | $75,600 | — |
 | DonaldinhoTrumpito | 0 | 0 | 4 | — | $74,938 | — |
 | ExplosiveNinja | 0 | 0 | 6 | — | $72,821 | — |
 | kibanachi | 4 | 0 | 0 | ⚠️ 100% (4) | $71,613 | +$12,017 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $20,666 | — | ⏳ Pendiente |
+| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $20,666 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.85 (54¢) | $10,800 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.92 (52¢) | $10,400 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.45 (69¢) | $13,800 | — | ⏳ Pendiente |
@@ -128,6 +130,4 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.85 (54¢) | $18,101 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $18,762 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.85 (54¢) | $18,101 | — | ⏳ Pendiente |
-| AV23IUa | Counter-Strike: BIG vs Aurora Gaming (BO1) - Esports World Cup Group A | Aurora Gaming | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
-| ExplosiveNinja | Counter-Strike: BIG vs Aurora Gaming (BO1) - Esports World Cup Group A | BIG | 2.63 (38¢) | $13,031 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: BIG vs Aurora Gaming (BO1) - Esports World Cup Group A | Aurora Gaming | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
