@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.5249937810267,
+  "bankroll": 510.22789513101344,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18460,6 +18460,46 @@
       "timestamp": 1786512061.3768418,
       "bankroll": 491.52,
       "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786512181.0601213,
+      "bankroll": 499.05,
+      "event": "won: ferrariChampions2026 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786512181.1603656,
+      "bankroll": 500.13,
+      "event": "won: quavoo \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786512183.7392766,
+      "bankroll": 499.44,
+      "event": "lost: 1winstreak1 \u2014 Spread: Kansas City Royals (-1.5)"
+    },
+    {
+      "timestamp": 1786512186.8067887,
+      "bankroll": 498.96,
+      "event": "lost: 1winstreak1 \u2014 Spread: Kansas City Royals (-1.5)"
+    },
+    {
+      "timestamp": 1786512187.109667,
+      "bankroll": 503.91,
+      "event": "won: 1winstreak1 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786512187.3099222,
+      "bankroll": 508.89,
+      "event": "won: HomeRunHazard \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786512187.410066,
+      "bankroll": 509.5,
+      "event": "won: 1winstreak1 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786512187.510267,
+      "bankroll": 510.23,
+      "event": "won: 1winstreak1 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 9.5"
     }
   ]
 }

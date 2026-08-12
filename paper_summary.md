@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 00:22:12 (hora de Perú)
+Actualizado: 2026-08-12 00:24:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $491.52
-**Retorno acumulado:** -50.85%
+**Bankroll actual:** $510.23
+**Retorno acumulado:** -48.98%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,16 +15,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| 1winstreak1 | 136 | 113 | 6 | +111.71 USD |
+| 1winstreak1 | 139 | 115 | 1 | +116.83 USD |
 | dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 3 | 11 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | wr0ngw4yb3tt0r | 66 | 70 | 0 | +19.50 USD |
+| HomeRunHazard | 115 | 97 | 0 | +18.93 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 3 | 9 | 0 | +15.41 USD |
-| HomeRunHazard | 114 | 97 | 1 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | UpTheBlues | 243 | 150 | 38 | +4.50 USD |
@@ -47,13 +47,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 189 | 132 | 4 | -24.98 USD |
-| quavoo | 155 | 187 | 30 | -30.35 USD |
+| quavoo | 156 | 187 | 29 | -29.27 USD |
 | RN1 | 203 | 113 | 2 | -37.58 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 643 | 482 | 4 | -99.68 USD |
+| ferrariChampions2026 | 644 | 482 | 3 | -92.16 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | BrotherObama | 7 | 17 | 0 | -121.31 USD |
@@ -473,12 +473,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Aston Villa win on 2026-08-12? | No (BUY) | 80% | 3.07 | ⏳ pendiente | — |
 | UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.90 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 93% | 1.95 | ✅ ganada | +0.15 |
-| 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 97% | 23.57 | ⏳ pendiente | — |
-| 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 74% | 1.73 | ⏳ pendiente | — |
-| HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 64% | 8.86 | ⏳ pendiente | — |
+| 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 97% | 23.57 | ✅ ganada | +0.73 |
+| 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 74% | 1.73 | ✅ ganada | +0.61 |
+| HomeRunHazard | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 64% | 8.86 | ✅ ganada | +4.98 |
 | AV23IUa | Counter-Strike: FUT Esports vs TYLOO (BO | TYLOO (BUY) | 41% | 1.25 | ⏳ pendiente | — |
-| 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 53% | 5.58 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Kansas City Royals (-1.5) | Kansas City Royals (BUY) | 17% | 0.48 | ⏳ pendiente | — |
+| 1winstreak1 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 53% | 5.58 | ✅ ganada | +4.95 |
+| 1winstreak1 | Spread: Kansas City Royals (-1.5) | Kansas City Royals (BUY) | 17% | 0.48 | ❌ perdida | -0.48 |
 | UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.02 | ⏳ pendiente | — |
 | UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.74 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Team Falcons vs K27 (BO1 | Team Falcons (BUY) | 79% | 0.00 | ⏳ pendiente | — |
