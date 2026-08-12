@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 18:16:57 (hora de Perú)
+Actualizado: 2026-08-12 18:19:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $505.76
-**Retorno acumulado:** -49.42%
+**Bankroll actual:** $636.67
+**Retorno acumulado:** -36.33%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,18 +13,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| Sassy-Bucket | 11 | 9 | 2 | +167.75 USD |
-| theowalcott | 17 | 4 | 24 | +143.32 USD |
+| Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
+| theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 67 | 70 | 4 | +104.98 USD |
-| dv-pm | 4 | 6 | 1 | +89.49 USD |
+| wr0ngw4yb3tt0r | 67 | 70 | 0 | +104.98 USD |
+| dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
+| 1winstreak1 | 107 | 87 | 2 | +60.51 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 3 | 9 | 2 | +15.41 USD |
-| HomeRunHazard | 118 | 99 | 9 | +12.70 USD |
+| HomeRunHazard | 114 | 98 | 6 | +11.88 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -49,13 +50,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 158 | 209 | 2 | -28.31 USD |
-| RN1 | 202 | 112 | 4 | -39.02 USD |
-| 1winstreak1 | 147 | 114 | 13 | -47.97 USD |
+| RN1 | 202 | 112 | 2 | -39.02 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 7 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 1 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 2 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -449,49 +449,39 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-phi-stl-2026-08-12-total-7pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
-| mlb-mil-sd-2026-08-12-total-8pt5 | 1winstreak1, SDTrading, dv-pm |
-| mlb-cle-det-2026-08-12-total-8pt5 | 1winstreak1, SDTrading |
-| mlb-phi-stl-2026-08-12-total-8pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
-| mlb-phi-stl-2026-08-12-total-9pt5 | 1winstreak1, HomeRunHazard |
-| lib-pal-cep-2026-08-12-spread-home-1pt5 | WTSA, ferrariChampions2026 |
-| lib-pal-cep-2026-08-12-total-2pt5 | WTSA, ferrariChampions2026 |
-| mlb-sea-nyy-2026-08-12-total-8pt5 | Sassy-Bucket, Weaseloftheweek, wr0ngw4yb3tt0r |
-| mlb-col-ari-2026-08-12-spread-away-1pt5 | 1winstreak1, HomeRunHazard |
-| mlb-mil-sd-2026-08-12-spread-away-2pt5 | 1winstreak1, HomeRunHazard |
-| mlb-mil-sd-2026-08-12-total-5pt5 | 1winstreak1, HomeRunHazard |
-| lib-cru-fla-2026-08-12-total-2pt5 | RN1, WTSA |
+| mlb-bos-tor-2026-08-12-total-7pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| RN1 | Cruzeiro EC vs. CR Flamengo: O/U 2.5 | Under (BUY) | 59% | 10.05 | ⏳ pendiente | — |
-| WTSA | Cruzeiro EC vs. CR Flamengo: O/U 2.5 | Over (BUY) | 41% | 66.63 | ⏳ pendiente | — |
-| RN1 | Will Red Bull Bragantino win on 2026-08- | Yes (BUY) | 35% | 0.92 | ⏳ pendiente | — |
-| RN1 | Will SE Palmeiras win on 2026-08-12? | Yes (BUY) | 67% | 1.02 | ⏳ pendiente | — |
-| RN1 | Will CA Platense win on 2026-08-12? | No (BUY) | 23% | 0.63 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 49% | 2.58 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres (BUY) | 82% | 3.74 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 48% | 1.16 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Miami Marlins (-1.5) | Miami Marlins (BUY) | 32% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: SE Palmeiras (-1.5) | Club Cerro Porteño (BUY) | 65% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 51% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 78% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: San Diego Padres (-1.5) | Milwaukee Brewers (BUY) | 82% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 78% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Detroit Tigers (-1.5) | Cleveland Guardians (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 35% | 0.00 | ⏳ pendiente | — |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 37% | 11.94 | ⏳ pendiente | — |
+| RN1 | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 37% | 1.36 | ⏳ pendiente | — |
+| RN1 | Red Bull Bragantino vs. CA Mineiro: O/U  | Under (BUY) | 42% | 0.66 | ⏳ pendiente | — |
+| 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 20% | 1.65 | ⏳ pendiente | — |
+| 1winstreak1 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 73% | 3.07 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 44% | 6.29 | ❌ perdida | -6.29 |
+| wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 53% | 80.99 | ✅ ganada | +71.82 |
+| Sassy-Bucket | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 53% | 212.93 | ✅ ganada | +188.82 |
+| wr0ngw4yb3tt0r | Spread: Baltimore Orioles (-1.5) | Minnesota Twins (BUY) | 62% | 26.54 | ✅ ganada | +16.27 |
+| SDTrading | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| SDTrading | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Spread: FC København (-2.5) | Debreceni VSC (BUY) | 69% | 0.00 | ❌ perdida | -0.00 |
+| UpTheBlues | Spread: CA Platense (-1.5) | CD Coquimbo Unido (BUY) | 79% | 0.00 | ⏳ pendiente | — |
+| BrotherObama | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 27% | 0.00 | ✅ ganada | +0.00 |
+| UpTheBlues | GKS GieKSa Katowice vs. MH Hapoel Tel Av | Over (BUY) | 72% | 0.00 | ✅ ganada | +0.00 |
+| UpTheBlues | Spread: Eintracht Frankfurt (-3.5) | Eintracht Frankfurt (BUY) | 28% | 0.00 | ✅ ganada | +0.00 |
+| dv-pm | Will GKS GieKSa Katowice win on 2026-08- | No (BUY) | 53% | 0.00 | ❌ perdida | -0.00 |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 28% | 0.00 | ❌ perdida | -0.00 |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 63% | 0.00 | ❌ perdida | -0.00 |
+| UpTheBlues | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 92% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Inter Miami CF win on 2026-08-12? | No (BUY) | 51% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will Club León FC win on 2026-08-12? | Yes (BUY) | 28% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Red Bull Bragantino vs. CA Mineiro: Red  | Under (BUY) | 22% | 0.00 | ⏳ pendiente | — |
+| UpTheBlues | Will SE Palmeiras vs. Club Cerro Porteño | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 72% | 0.00 | ❌ perdida | -0.00 |
+| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 60% | 0.00 | ❌ perdida | -0.00 |
+| jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ✅ ganada | +0.00 |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 53% | 0.00 | ❌ perdida | -0.00 |
+| jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ✅ ganada | +0.00 |

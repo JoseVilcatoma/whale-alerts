@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.75678930590783,
+  "bankroll": 636.6694033126214,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18342,474 +18342,104 @@
       "event": "won: BrotherObama \u2014 LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend"
     },
     {
-      "timestamp": 1786561561.6484847,
-      "bankroll": 561.31,
-      "event": "won: Sassy-Bucket \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 8.5"
-    },
-    {
-      "timestamp": 1786563938.0041413,
-      "bankroll": 560.12,
-      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 10.5"
-    },
-    {
-      "timestamp": 1786564437.4379017,
-      "bankroll": 560.18,
-      "event": "won: UpTheBlues \u2014 Will Paide Linnameeskond win on 2026-08-12?"
-    },
-    {
-      "timestamp": 1786564441.1453836,
-      "bankroll": 559.31,
-      "event": "lost: UpTheBlues \u2014 Will Debreceni VSC win on 2026-08-12?"
-    },
-    {
-      "timestamp": 1786564441.4736419,
-      "bankroll": 558.38,
-      "event": "lost: UpTheBlues \u2014 Will SK Rapid Wien vs. Paide Linnameeskond end in a draw?"
-    },
-    {
-      "timestamp": 1786564441.8884263,
-      "bankroll": 560.02,
-      "event": "won: UpTheBlues \u2014 SK Rapid Wien vs. Paide Linnameeskond: Both Teams to Score"
-    },
-    {
-      "timestamp": 1786564442.723868,
-      "bankroll": 560.33,
-      "event": "won: UpTheBlues \u2014 SK Rapid Wien vs. Paide Linnameeskond: O/U 0.5"
-    },
-    {
-      "timestamp": 1786564443.1255648,
-      "bankroll": 559.36,
-      "event": "lost: UpTheBlues \u2014 Spread: SK Rapid Wien (-2.5)"
-    },
-    {
-      "timestamp": 1786564447.1827037,
-      "bankroll": 559.36,
-      "event": "lost: UpTheBlues \u2014 Spread: FC K\u00f8benhavn (-2.5)"
-    },
-    {
-      "timestamp": 1786564752.5624774,
-      "bankroll": 559.36,
-      "event": "won: UpTheBlues \u2014 GKS GieKSa Katowice vs. MH Hapoel Tel Aviv: O/U 1.5"
-    },
-    {
-      "timestamp": 1786566315.4305344,
-      "bankroll": 558.72,
-      "event": "lost: UpTheBlues \u2014 Will SK Rapid Wien win on 2026-08-12?"
-    },
-    {
-      "timestamp": 1786566318.1553042,
-      "bankroll": 558.72,
-      "event": "won: UpTheBlues \u2014 Spread: Eintracht Frankfurt (-3.5)"
-    },
-    {
-      "timestamp": 1786566629.1073723,
-      "bankroll": 555.33,
-      "event": "lost: UpTheBlues \u2014 Will FC K\u00f8benhavn win on 2026-08-12?"
-    },
-    {
-      "timestamp": 1786566631.712746,
-      "bankroll": 555.33,
-      "event": "lost: dv-pm \u2014 Will GKS GieKSa Katowice win on 2026-08-12?"
-    },
-    {
-      "timestamp": 1786567066.153399,
-      "bankroll": 555.47,
-      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 6.5"
-    },
-    {
-      "timestamp": 1786567189.2299998,
-      "bankroll": 555.64,
-      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 11.5"
-    },
-    {
-      "timestamp": 1786567190.134634,
-      "bankroll": 553.4,
-      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 11.5"
-    },
-    {
-      "timestamp": 1786567191.336764,
-      "bankroll": 550.36,
-      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 11.5"
-    },
-    {
-      "timestamp": 1786567191.6372836,
-      "bankroll": 549.43,
-      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 11.5"
-    },
-    {
-      "timestamp": 1786567310.3017015,
-      "bankroll": 565.69,
-      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Baltimore Orioles (-1.5)"
-    },
-    {
-      "timestamp": 1786567311.194695,
-      "bankroll": 487.72,
-      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 13.5"
-    },
-    {
-      "timestamp": 1786567313.5926769,
-      "bankroll": 489.05,
-      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 13.5"
-    },
-    {
-      "timestamp": 1786567314.5232,
-      "bankroll": 490.06,
-      "event": "won: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 8.5"
-    },
-    {
-      "timestamp": 1786567315.9255774,
-      "bankroll": 490.29,
-      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 13.5"
-    },
-    {
-      "timestamp": 1786567316.3263211,
-      "bankroll": 490.44,
-      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 13.5"
-    },
-    {
-      "timestamp": 1786567501.7237656,
-      "bankroll": 491.32,
-      "event": "won: 1winstreak1 \u2014 Spread: Minnesota Twins (-1.5)"
-    },
-    {
-      "timestamp": 1786567502.15254,
-      "bankroll": 490.08,
-      "event": "lost: 1winstreak1 \u2014 Spread: Minnesota Twins (-2.5)"
-    },
-    {
-      "timestamp": 1786567562.136061,
-      "bankroll": 488.01,
-      "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
-    },
-    {
-      "timestamp": 1786567567.9061968,
-      "bankroll": 559.83,
-      "event": "won: wr0ngw4yb3tt0r \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
-    },
-    {
-      "timestamp": 1786567569.4087546,
-      "bankroll": 561.4,
-      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
-    },
-    {
-      "timestamp": 1786567570.5260198,
-      "bankroll": 562.24,
-      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 12.5"
-    },
-    {
-      "timestamp": 1786567571.0269043,
-      "bankroll": 562.74,
-      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 12.5"
-    },
-    {
-      "timestamp": 1786567571.545582,
-      "bankroll": 565.76,
-      "event": "won: 1winstreak1 \u2014 Spread: Minnesota Twins (-3.5)"
-    },
-    {
-      "timestamp": 1786567572.2724862,
-      "bankroll": 523.07,
-      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 12.5"
-    },
-    {
-      "timestamp": 1786567572.3727038,
-      "bankroll": 524.86,
-      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 12.5"
-    },
-    {
-      "timestamp": 1786567572.472902,
-      "bankroll": 523.03,
-      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 12.5"
-    },
-    {
-      "timestamp": 1786567572.6732223,
-      "bankroll": 523.28,
-      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 12.5"
-    },
-    {
-      "timestamp": 1786567572.8735862,
-      "bankroll": 523.33,
-      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 12.5"
-    },
-    {
-      "timestamp": 1786568631.2626948,
-      "bankroll": 523.81,
-      "event": "won: 1winstreak1 \u2014 Spread: Philadelphia Phillies (-1.5)"
-    },
-    {
-      "timestamp": 1786568694.270289,
-      "bankroll": 524.12,
-      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 9.5"
-    },
-    {
-      "timestamp": 1786568697.1054604,
-      "bankroll": 524.52,
-      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 9.5"
-    },
-    {
-      "timestamp": 1786568698.3458352,
-      "bankroll": 525.4,
-      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 9.5"
-    },
-    {
-      "timestamp": 1786568698.4460337,
-      "bankroll": 530.79,
-      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 9.5"
-    },
-    {
-      "timestamp": 1786568753.0025492,
-      "bankroll": 524.5,
-      "event": "lost: wr0ngw4yb3tt0r \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
-    },
-    {
-      "timestamp": 1786568753.5134344,
-      "bankroll": 532.07,
-      "event": "won: 1winstreak1 \u2014 Spread: St. Louis Cardinals (-1.5)"
-    },
-    {
-      "timestamp": 1786568755.385196,
-      "bankroll": 543.06,
-      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
-    },
-    {
-      "timestamp": 1786568755.4853396,
-      "bankroll": 543.55,
-      "event": "won: 1winstreak1 \u2014 Spread: St. Louis Cardinals (-1.5)"
-    },
-    {
-      "timestamp": 1786568756.5895326,
-      "bankroll": 543.81,
-      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
-    },
-    {
-      "timestamp": 1786568756.8900623,
-      "bankroll": 542.91,
-      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
-    },
-    {
-      "timestamp": 1786568757.7915502,
-      "bankroll": 542.01,
-      "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
-    },
-    {
-      "timestamp": 1786568757.8917336,
-      "bankroll": 541.13,
-      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
-    },
-    {
-      "timestamp": 1786568757.9919174,
-      "bankroll": 541.18,
-      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
-    },
-    {
-      "timestamp": 1786571431.5119627,
-      "bankroll": 571.71,
-      "event": "won: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
-    },
-    {
-      "timestamp": 1786571431.71231,
-      "bankroll": 570.05,
-      "event": "lost: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
-    },
-    {
-      "timestamp": 1786571431.8124888,
-      "bankroll": 570.94,
-      "event": "won: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
-    },
-    {
-      "timestamp": 1786571432.3132932,
-      "bankroll": 572.83,
-      "event": "won: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
-    },
-    {
-      "timestamp": 1786571555.9892333,
-      "bankroll": 571.83,
-      "event": "lost: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 10.5"
-    },
-    {
-      "timestamp": 1786572623.5275338,
-      "bankroll": 571.07,
-      "event": "lost: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-3.5)"
-    },
-    {
-      "timestamp": 1786572747.513145,
-      "bankroll": 568.24,
-      "event": "lost: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-2.5)"
-    },
-    {
-      "timestamp": 1786572747.613338,
-      "bankroll": 569.1,
-      "event": "won: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-2.5)"
-    },
-    {
-      "timestamp": 1786572748.1931527,
-      "bankroll": 557.02,
-      "event": "lost: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-1.5)"
-    },
-    {
-      "timestamp": 1786572748.2933643,
-      "bankroll": 516.43,
-      "event": "lost: 1winstreak1 \u2014 Spread: Tampa Bay Rays (-2.5)"
-    },
-    {
-      "timestamp": 1786573439.266219,
-      "bankroll": 515.14,
-      "event": "lost: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5"
-    },
-    {
-      "timestamp": 1786573439.4665482,
-      "bankroll": 513.06,
-      "event": "lost: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5"
-    },
-    {
-      "timestamp": 1786573439.5666811,
-      "bankroll": 503.99,
-      "event": "lost: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5"
-    },
-    {
-      "timestamp": 1786573502.276058,
-      "bankroll": 504.42,
+      "timestamp": 1786576633.965341,
+      "bankroll": 372.91,
       "event": "won: RN1 \u2014 Will Manchester United win on 2026-08-12?"
     },
     {
-      "timestamp": 1786573502.8584464,
-      "bankroll": 504.42,
-      "event": "won: RN1 \u2014 Will Manchester United win on 2026-08-12?"
-    },
-    {
-      "timestamp": 1786573941.8179054,
-      "bankroll": 478.67,
-      "event": "lost: Sassy-Bucket \u2014 Houston Astros vs. San Francisco Giants: O/U 8.5"
-    },
-    {
-      "timestamp": 1786574002.734813,
-      "bankroll": 476.79,
-      "event": "lost: 1winstreak1 \u2014 Spread: San Francisco Giants (-1.5)"
-    },
-    {
-      "timestamp": 1786574002.8350055,
-      "bankroll": 477.49,
-      "event": "won: 1winstreak1 \u2014 Spread: San Francisco Giants (-1.5)"
-    },
-    {
-      "timestamp": 1786574003.2340772,
-      "bankroll": 486.97,
-      "event": "won: 1winstreak1 \u2014 Houston Astros vs. San Francisco Giants: O/U 7.5"
-    },
-    {
-      "timestamp": 1786574003.9416451,
-      "bankroll": 495.22,
-      "event": "won: 1winstreak1 \u2014 Houston Astros vs. San Francisco Giants: O/U 7.5"
-    },
-    {
-      "timestamp": 1786574004.3464801,
-      "bankroll": 493.86,
-      "event": "lost: 1winstreak1 \u2014 Spread: Houston Astros (-1.5)"
-    },
-    {
-      "timestamp": 1786574065.0261388,
-      "bankroll": 492.75,
-      "event": "lost: 1winstreak1 \u2014 Spread: San Francisco Giants (-2.5)"
-    },
-    {
-      "timestamp": 1786574133.375941,
-      "bankroll": 487.96,
-      "event": "lost: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5"
-    },
-    {
-      "timestamp": 1786575685.4832623,
-      "bankroll": 487.96,
+      "timestamp": 1786576634.3265672,
+      "bankroll": 372.91,
       "event": "won: swisstony \u2014 Will Paris Saint-Germain vs. Aston Villa end in a draw?"
     },
     {
-      "timestamp": 1786575748.3946095,
-      "bankroll": 488.47,
-      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-2.5)"
+      "timestamp": 1786576634.4267483,
+      "bankroll": 372.91,
+      "event": "won: RN1 \u2014 Will Manchester United win on 2026-08-12?"
     },
     {
-      "timestamp": 1786575813.7755883,
-      "bankroll": 487.3,
-      "event": "lost: 1winstreak1 \u2014 Spread: Colorado Rockies (-1.5)"
+      "timestamp": 1786576635.1471279,
+      "bankroll": 372.97,
+      "event": "won: UpTheBlues \u2014 Will Paide Linnameeskond win on 2026-08-12?"
     },
     {
-      "timestamp": 1786575814.676819,
-      "bankroll": 487.9,
-      "event": "won: 1winstreak1 \u2014 Spread: Colorado Rockies (-1.5)"
+      "timestamp": 1786576635.5181518,
+      "bankroll": 370.9,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
     },
     {
-      "timestamp": 1786575815.2775934,
-      "bankroll": 487.9,
-      "event": "won: HomeRunHazard \u2014 Spread: Colorado Rockies (-1.5)"
+      "timestamp": 1786576637.9553814,
+      "bankroll": 367.51,
+      "event": "lost: UpTheBlues \u2014 Will FC K\u00f8benhavn win on 2026-08-12?"
     },
     {
-      "timestamp": 1786575815.47797,
-      "bankroll": 487.9,
-      "event": "won: 1winstreak1 \u2014 Spread: Colorado Rockies (-1.5)"
+      "timestamp": 1786576638.289465,
+      "bankroll": 366.64,
+      "event": "lost: UpTheBlues \u2014 Will Debreceni VSC win on 2026-08-12?"
     },
     {
-      "timestamp": 1786575817.1328743,
-      "bankroll": 488.33,
-      "event": "won: HomeRunHazard \u2014 Spread: Colorado Rockies (-1.5)"
+      "timestamp": 1786576638.8583455,
+      "bankroll": 365.71,
+      "event": "lost: UpTheBlues \u2014 Will SK Rapid Wien vs. Paide Linnameeskond end in a draw?"
     },
     {
-      "timestamp": 1786575873.5911813,
-      "bankroll": 487.74,
-      "event": "lost: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 10.5"
+      "timestamp": 1786576639.2328234,
+      "bankroll": 367.35,
+      "event": "won: UpTheBlues \u2014 SK Rapid Wien vs. Paide Linnameeskond: Both Teams to Score"
     },
     {
-      "timestamp": 1786575873.9895875,
-      "bankroll": 488.51,
-      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-1.5)"
+      "timestamp": 1786576639.5951917,
+      "bankroll": 366.71,
+      "event": "lost: UpTheBlues \u2014 Will SK Rapid Wien win on 2026-08-12?"
     },
     {
-      "timestamp": 1786575874.0897171,
-      "bankroll": 504.72,
-      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 10.5"
+      "timestamp": 1786576639.972748,
+      "bankroll": 367.02,
+      "event": "won: UpTheBlues \u2014 SK Rapid Wien vs. Paide Linnameeskond: O/U 0.5"
     },
     {
-      "timestamp": 1786575874.5857525,
-      "bankroll": 503.79,
-      "event": "lost: 1winstreak1 \u2014 Spread: Colorado Rockies (-2.5)"
+      "timestamp": 1786576640.3219323,
+      "bankroll": 366.05,
+      "event": "lost: UpTheBlues \u2014 Spread: SK Rapid Wien (-2.5)"
     },
     {
-      "timestamp": 1786575874.685865,
-      "bankroll": 504.47,
-      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-1.5)"
+      "timestamp": 1786576642.4030197,
+      "bankroll": 366.05,
+      "event": "lost: dv-pm \u2014 Will GKS GieKSa Katowice win on 2026-08-12?"
     },
     {
-      "timestamp": 1786575876.5824757,
-      "bankroll": 497.68,
-      "event": "lost: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 10.5"
+      "timestamp": 1786576642.768721,
+      "bankroll": 366.05,
+      "event": "won: UpTheBlues \u2014 Spread: Eintracht Frankfurt (-3.5)"
     },
     {
-      "timestamp": 1786575876.6826556,
-      "bankroll": 501.39,
-      "event": "won: 1winstreak1 \u2014 Spread: Colorado Rockies (-2.5)"
+      "timestamp": 1786576643.0978603,
+      "bankroll": 366.05,
+      "event": "won: UpTheBlues \u2014 GKS GieKSa Katowice vs. MH Hapoel Tel Aviv: O/U 1.5"
     },
     {
-      "timestamp": 1786575876.9831724,
-      "bankroll": 501.98,
-      "event": "won: 1winstreak1 \u2014 Spread: Colorado Rockies (-2.5)"
+      "timestamp": 1786576643.845174,
+      "bankroll": 366.05,
+      "event": "lost: UpTheBlues \u2014 Spread: FC K\u00f8benhavn (-2.5)"
     },
     {
-      "timestamp": 1786575877.0833557,
-      "bankroll": 503.11,
-      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 10.5"
+      "timestamp": 1786576645.2328155,
+      "bankroll": 382.31,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Baltimore Orioles (-1.5)"
     },
     {
-      "timestamp": 1786575877.584016,
-      "bankroll": 503.23,
-      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 10.5"
+      "timestamp": 1786576645.5769975,
+      "bankroll": 571.14,
+      "event": "won: Sassy-Bucket \u2014 Baltimore Orioles vs. Minnesota Twins: O/U 8.5"
     },
     {
-      "timestamp": 1786575877.684136,
-      "bankroll": 503.23,
-      "event": "won: 1winstreak1 \u2014 Colorado Rockies vs. Arizona Diamondbacks: O/U 10.5"
+      "timestamp": 1786576645.6771328,
+      "bankroll": 642.96,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5"
     },
     {
-      "timestamp": 1786576030.323409,
-      "bankroll": 505.76,
-      "event": "venta anticipada: Sassy-Bucket \u2014 Seattle Mariners vs. New York Yankees: O/U 8.5 (+2.53 USD)"
+      "timestamp": 1786576646.0283518,
+      "bankroll": 636.67,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Philadelphia Phillies vs. St. Louis Cardinals: O/U 8.5"
     }
   ]
 }
