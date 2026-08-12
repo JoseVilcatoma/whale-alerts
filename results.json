@@ -13516,5 +13516,31 @@
     "usd": 18220.3302,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 856,
+    "timestamp": 1786538078,
+    "username": "five5120",
+    "wallet": "0xc1c7bb8761105f6d33fc8d71dec31b5688a0f0a7",
+    "slug": "lol-blg-jdg-2026-08-12-game1",
+    "title": "LoL: Bilibili Gaming vs JD Gaming - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 19999.999999,
+    "odds_at_bet": 69,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 857,
+    "timestamp": 1786538079,
+    "username": "five5120",
+    "wallet": "0xc1c7bb8761105f6d33fc8d71dec31b5688a0f0a7",
+    "slug": "lol-blg-jdg-2026-08-12-game1",
+    "title": "LoL: Bilibili Gaming vs JD Gaming - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 19999.99999905,
+    "odds_at_bet": 69,
+    "status": "pending"
   }
 ]
