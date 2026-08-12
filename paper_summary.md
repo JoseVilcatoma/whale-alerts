@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 10:33:50 (hora de Perú)
+Actualizado: 2026-08-12 10:35:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $372.49
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | UpTheBlues | 249 | 151 | 39 | +5.66 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
-| Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
+| Sassy-Bucket | 7 | 8 | 1 | +2.15 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
@@ -446,6 +446,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-wsh-las-2026-08-11-spread-home-6pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
+| mlb-phi-stl-2026-08-12-total-7pt5 | HomeRunHazard, Sassy-Bucket |
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | col-rap-pai-2026-08-12-rap | UpTheBlues, dv-pm |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
@@ -455,6 +456,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 47% | 270.74 | ⏳ pendiente | — |
 | UpTheBlues | Will San Marcos de Arica vs. Union San F | No (BUY) | 81% | 1.08 | ⏳ pendiente | — |
 | UpTheBlues | SK Rapid Wien vs. Paide Linnameeskond: B | No (BUY) | 54% | 0.65 | ⏳ pendiente | — |
 | UpTheBlues | Will Debreceni VSC win on 2026-08-12? | No (BUY) | 93% | 6.63 | ⏳ pendiente | — |
@@ -484,4 +486,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 60% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 40% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - | PARIVISION (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Bilibili Gaming vs JD Gaming (BO3)  | JD Gaming (BUY) | 38% | 0.00 | ⏳ pendiente | — |
