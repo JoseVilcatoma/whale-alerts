@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 15:17:56 (hora de Perú)
+Actualizado: 2026-08-12 15:20:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $559.36
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | dv-pm | 4 | 5 | 2 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 88 | 40 | +59.32 USD |
+| 1winstreak1 | 107 | 88 | 43 | +59.32 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 65 | 69 | 3 | +23.18 USD |
@@ -455,6 +455,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 24% | 1.83 | ⏳ pendiente | — |
+| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 75% | 5.39 | ⏳ pendiente | — |
+| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 24% | 42.69 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: San Francisco Giants (-1.5) | San Francisco Giants (BUY) | 47% | 1.88 | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 97% | 4.72 | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 37% | 0.90 | ⏳ pendiente | — |
@@ -482,6 +485,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 71% | 0.75 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: St. Louis Cardinals (-1.5) | St. Louis Cardinals (BUY) | 82% | 2.26 | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 45% | 8.99 | ⏳ pendiente | — |
-| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 9.5 | Over (BUY) | 51% | 1.97 | ⏳ pendiente | — |
-| 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 54% | 1.85 | ⏳ pendiente | — |
-| dv-pm | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 54% | 5.54 | ⏳ pendiente | — |
