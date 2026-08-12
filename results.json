@@ -3436,5 +3436,18 @@
     "usd": 17150.0,
     "odds_at_bet": 49,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 157,
+    "timestamp": 1786496055,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-kc-lad-2026-08-11-total-8pt5",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 26151.6476,
+    "odds_at_bet": 52,
+    "status": "pending"
   }
 ]

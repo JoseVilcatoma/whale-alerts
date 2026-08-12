@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 19:53:47 (hora de Perú)
+Actualizado: 2026-08-11 19:55:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **264**  ($5,582,239 en total)
+- Apuestas registradas: **265**  ($5,608,391 en total)
 - Resueltas: **114** — 91 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 150
+- Pendientes: 151
 - Apostadores distintos: 84
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 11 | — | $347,753 | — |
 | Weaseloftheweek | 3 | 1 | 1 | ⚠️ 75% (4) | $303,804 | +$7,132 |
 | BreakTheBank | 0 | 0 | 4 | — | $267,835 | — |
-| pleaseplease123 | 0 | 0 | 7 | — | $227,132 | — |
+| pleaseplease123 | 0 | 0 | 8 | — | $253,284 | — |
 | SDTrading | 0 | 0 | 11 | — | $201,460 | — |
 | Talvez10 | 0 | 0 | 9 | — | $165,672 | — |
 | TennisLove | 2 | 0 | 0 | ⚠️ 100% (2) | $152,883 | +$113,054 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 84 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $26,152 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Marcos Giron | 1.47 (68¢) | $37,902 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Henrique Rocha | 3.12 (32¢) | $11,770 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open, Qualification: Mackenzie McDonald vs Yibing Wu | Mackenzie McDonald | 1.92 (52¢) | $17,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 84 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Toronto Blue Jays: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $16,955 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $22,040 | — | ⏳ Pendiente |
 | mikesports | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $18,774 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.72 (58¢) | $11,600 | — | ⏳ Pendiente |
