@@ -1,9 +1,9 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:14:44 (hora de Perú)
+Actualizado: 2026-08-11 21:16:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $429.42
+**Bankroll actual:** $429.43
 **Retorno acumulado:** -57.06%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 2 | 6 | 4 | +17.41 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 240 | 148 | 14 | +4.47 USD |
+| UpTheBlues | 241 | 150 | 11 | +4.48 USD |
 | HomeRunHazard | 98 | 89 | 24 | +4.38 USD |
 | Sassy-Bucket | 7 | 6 | 2 | +3.19 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -47,13 +47,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 163 | 109 | 11 | -28.34 USD |
-| quavoo | 152 | 185 | 32 | -33.89 USD |
+| quavoo | 152 | 186 | 31 | -33.89 USD |
 | RN1 | 197 | 110 | 6 | -38.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 629 | 471 | 25 | -101.53 USD |
+| ferrariChampions2026 | 629 | 471 | 29 | -101.53 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 7 | 13 | 4 | -115.27 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -381,10 +381,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-bos-tor-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-cin-cws-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket, wr0ngw4yb3tt0r |
 | col-csk1-pao-2026-08-11-pao | UpTheBlues, swisstony |
+| mlb-kc-lad-2026-08-11-total-7pt5 | dv-pm, ferrariChampions2026 |
 | mlb-chc-wsh-2026-08-11-total-8pt5 | HomeRunHazard, RN1, Talvez10, dv-pm, ferrariChampions2026, swisstony |
 | wnba-nyl-ind-2026-08-11-spread-home-3pt5 | quavoo, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-0pt5 | quavoo, swisstony |
-| wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| wnba-wsh-las-2026-08-11-spread-home-7pt5 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
 | ucl-kai-pls-2026-08-11-total-1pt5 | RN1, UpTheBlues, swisstony |
 | wnba-nyl-ind-2026-08-11-total-192pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | ucl-lyo-spp-2026-08-11-lyo | UpTheBlues, swisstony |
@@ -438,12 +439,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cle-det-2026-08-11-spread-away-1pt5 | HomeRunHazard, RN1 |
 | mlb-cle-det-2026-08-11-total-9pt5 | ferrariChampions2026, swisstony |
 | mlb-bos-tor-2026-08-11-spread-home-1pt5 | RN1, ferrariChampions2026 |
+| wnba-wsh-las-2026-08-11-spread-home-6pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Real Salt Lake vs. FC Juárez: O/U 2.5 | Over (BUY) | 62% | 0.58 | ⏳ pendiente | — |
+| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 52% | 3.81 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 52% | 0.55 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Las Vegas Aces (-6.5) | Washington Mystics (BUY) | 49% | 1.55 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Phoenix Mercury (-1.5) | Phoenix Mercury (BUY) | 49% | 0.53 | ⏳ pendiente | — |
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 48% | 0.54 | ⏳ pendiente | — |
 | ferrariChampions2026 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 51% | 0.57 | ⏳ pendiente | — |
@@ -470,7 +476,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 20% | 0.00 | ✅ ganada | +0.00 |
 | RN1 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 20% | 0.00 | ✅ ganada | +0.00 |
 | quavoo | Will Tigres de la UANL win on 2026-08-11 | Yes (BUY) | 67% | 1.70 | ⏳ pendiente | — |
-| quavoo | Will Tigres de la UANL vs. Vancouver Whi | Yes (BUY) | 17% | 2.19 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 23% | 0.62 | ✅ ganada | +2.08 |
-| quavoo | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 14% | 1.78 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Seattle Mariners (-1.5) | New York Yankees (BUY) | 61% | 0.41 | ⏳ pendiente | — |
