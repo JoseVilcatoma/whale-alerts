@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 09:23:42 (hora de Perú)
+Actualizado: 2026-08-12 09:25:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1296**  ($28,772,002 en total)
+- Apuestas registradas: **1298**  ($28,805,128 en total)
 - Resueltas: **936** — 566 ganadas / 370 perdidas (**60%** de acierto)
-- Pendientes: 360
-- Apostadores distintos: 121
+- Pendientes: 362
+- Apostadores distintos: 122
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ...............................lala | 3 | 6 | 0 | 33% | $148,465 | -$64,383 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
 
-_(mostrando los 40 de mayor monto, de 121 en total)_
+_(mostrando los 40 de mayor monto, de 122 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gggjajnsnn | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | JD Gaming | 2.86 (35¢) | $11,408 | — | ⏳ Pendiente |
+| suanlimao6 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.54 (65¢) | $21,718 | — | ⏳ Pendiente |
 | five5120 | LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.52 (66¢) | $10,506 | — | ⏳ Pendiente |
 | ferrariChampions2026 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.64 (61¢) | $10,044 | — | ⏳ Pendiente |
 | ferrariChampions2026 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.64 (61¢) | $10,044 | — | ⏳ Pendiente |
@@ -128,6 +130,4 @@ _(mostrando los 40 de mayor monto, de 121 en total)_
 | spnir | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.30 (77¢) | $13,885 | — | ⏳ Pendiente |
 | spnir | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.30 (77¢) | $13,885 | — | ⏳ Pendiente |
 | Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.30 (77¢) | $15,400 | — | ⏳ Pendiente |
-| Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.28 (78¢) | $11,700 | — | ⏳ Pendiente |
-| Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.28 (78¢) | $11,700 | — | ⏳ Pendiente |
 | Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.28 (78¢) | $11,700 | — | ⏳ Pendiente |
