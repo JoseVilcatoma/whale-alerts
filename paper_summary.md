@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 15:36:55 (hora de Perú)
+Actualizado: 2026-08-12 15:38:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $555.33
-**Retorno acumulado:** -44.47%
+**Bankroll actual:** $555.47
+**Retorno acumulado:** -44.45%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | dv-pm | 4 | 6 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 88 | 54 | +59.32 USD |
+| 1winstreak1 | 108 | 88 | 54 | +59.47 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 65 | 69 | 3 | +23.18 USD |
@@ -456,6 +456,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 76% | 17.06 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 69% | 1.98 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 57% | 0.90 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 31% | 1.36 | ⏳ pendiente | — |
@@ -474,7 +475,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 75% | 5.39 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 24% | 42.69 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: San Francisco Giants (-1.5) | San Francisco Giants (BUY) | 47% | 1.88 | ⏳ pendiente | — |
-| 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 97% | 4.72 | ⏳ pendiente | — |
+| 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 97% | 4.72 | ✅ ganada | +0.15 |
 | 1winstreak1 | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 37% | 0.90 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 72% | 0.93 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 21% | 4.79 | ⏳ pendiente | — |
@@ -485,4 +486,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 66% | 0.97 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Colorado Rockies (BUY) | 75% | 2.32 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 58% | 0.59 | ⏳ pendiente | — |
-| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 8.5 | Over (BUY) | 64% | 1.80 | ⏳ pendiente | — |
