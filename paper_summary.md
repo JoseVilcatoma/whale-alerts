@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 22:25:33 (hora de Perú)
+Actualizado: 2026-08-11 22:27:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $427.84
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 108 | 87 | 37 | +60.66 USD |
+| 1winstreak1 | 108 | 87 | 38 | +60.66 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -464,6 +464,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Colorado Rockies (-2.5) | Colorado Rockies (BUY) | 18% | 0.46 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 44% | 1.80 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 46% | 0.54 | ⏳ pendiente | — |
 | UpTheBlues | Real Salt Lake vs. FC Juárez: O/U 3.5 | Under (BUY) | 52% | 0.94 | ⏳ pendiente | — |
@@ -493,4 +494,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 60% | 0.50 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 49% | 1.11 | ⏳ pendiente | — |
 | swisstony | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 62% | 0.75 | ⏳ pendiente | — |
-| swisstony | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 47% | 1.07 | ⏳ pendiente | — |
