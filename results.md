@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 18:10:09 (hora de Perú)
+Actualizado: 2026-08-12 18:12:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2026**  ($54,593,363 en total)
+- Apuestas registradas: **2029**  ($54,655,741 en total)
 - Resueltas: **1353** — 804 ganadas / 549 perdidas (**59%** de acierto)
-- Pendientes: 673
-- Apostadores distintos: 177
+- Pendientes: 676
+- Apostadores distintos: 178
 
 ### Balance
 
@@ -27,10 +27,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 55 | 43% | $8,889,723 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 27 | 35% | $3,314,382 | -$564,452 |
-| ferrariChampions2026 | 105 | 32 | 48 | 77% | $2,620,749 | +$168,085 |
+| ferrariChampions2026 | 105 | 32 | 49 | 77% | $2,640,111 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 34 | 0% | $2,283,534 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
-| Weaseloftheweek | 19 | 2 | 8 | 90% | $1,978,497 | +$872,236 |
+| Weaseloftheweek | 19 | 2 | 9 | 90% | $2,010,911 | +$872,236 |
 | BreakTheBank | 0 | 12 | 10 | 0% | $1,543,814 | -$803,506 |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
 | wr0ngw4yb3tt0r | 9 | 6 | 14 | 60% | $725,898 | +$13,912 |
@@ -65,14 +65,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | DonaldinhoTrumpito | 0 | 0 | 13 | — | $244,529 | — |
 | TAIWANNUMBERONE | 11 | 1 | 3 | 92% | $217,012 | +$88,234 |
 
-_(mostrando los 40 de mayor monto, de 177 en total)_
+_(mostrando los 40 de mayor monto, de 178 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| afraz | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.23 (81¢) | $10,601 | — | ⏳ Pendiente |
 | Ditto321 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.67 (60¢) | $15,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | New York Mets vs. Atlanta Braves | New York Mets | 2.70 (37¢) | $12,603 | — | ⏳ Pendiente |
+| ferrariChampions2026 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 2.70 (37¢) | $19,362 | — | ⏳ Pendiente |
+| Weaseloftheweek | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.59 (63¢) | $32,414 | — | ⏳ Pendiente |
 | Weaseloftheweek | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.59 (63¢) | $32,414 | — | ⏳ Pendiente |
 | ferrariChampions2026 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 2.70 (37¢) | $19,362 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $36,750 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 177 en total)_
 | one8tyfive | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.67 (60¢) | $11,923 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $10,829 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $10,829 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $36,568 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.82 (55¢) | $33,228 | — | ⏳ Pendiente |
