@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 20:14:23 (hora de Perú)
+Actualizado: 2026-08-11 20:16:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $325.34
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| wr0ngw4yb3tt0r | 55 | 50 | 26 | +27.64 USD |
+| wr0ngw4yb3tt0r | 55 | 50 | 27 | +27.64 USD |
 | theowalcott | 7 | 4 | 10 | +25.74 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
@@ -47,13 +47,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 122 | 101 | 60 | -28.98 USD |
-| RN1 | 174 | 99 | 39 | -33.33 USD |
-| quavoo | 151 | 182 | 30 | -33.43 USD |
+| RN1 | 174 | 99 | 40 | -33.33 USD |
+| quavoo | 151 | 182 | 33 | -33.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 616 | 468 | 23 | -103.61 USD |
+| ferrariChampions2026 | 616 | 468 | 25 | -103.61 USD |
 | BrotherObama | 7 | 5 | 12 | -112.72 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
@@ -337,6 +337,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-chi-sea-2026-08-10-total-179pt5 | UpTheBlues, ferrariChampions2026 |
 | ucl-crv-hbs-2026-08-11-crv | UpTheBlues, dv-pm |
 | mlb-col-ari-2026-08-10-total-9pt5 | RN1, ferrariChampions2026, swisstony |
+| lec-tig-vwh-2026-08-11-vwh | UpTheBlues, quavoo |
 | mlb-kc-lad-2026-08-10-total-8pt5 | HomeRunHazard, ferrariChampions2026 |
 | wnba-chi-sea-2026-08-10-total-177pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-tb-oak-2026-08-10-spread-away-2pt5 | HomeRunHazard, swisstony |
@@ -433,11 +434,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lib-flu-cir-2026-08-11-total-0pt5 | RN1, swisstony |
 | mlb-cle-det-2026-08-11-spread-away-1pt5 | HomeRunHazard, RN1 |
 | mlb-cle-det-2026-08-11-total-9pt5 | ferrariChampions2026, swisstony |
+| mlb-bos-tor-2026-08-11-spread-home-1pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 20% | 0.00 | ⏳ pendiente | — |
+| RN1 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 20% | 0.00 | ⏳ pendiente | — |
+| quavoo | Will Tigres de la UANL win on 2026-08-11 | Yes (BUY) | 67% | 1.70 | ⏳ pendiente | — |
+| quavoo | Will Tigres de la UANL vs. Vancouver Whi | Yes (BUY) | 17% | 2.19 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Toronto Blue Jays (BUY) | 23% | 0.62 | ⏳ pendiente | — |
+| quavoo | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 14% | 1.78 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Seattle Mariners (-1.5) | New York Yankees (BUY) | 61% | 0.41 | ⏳ pendiente | — |
 | quavoo | Real Salt Lake vs. FC Juárez: Both Teams | Yes (BUY) | 64% | 0.45 | ⏳ pendiente | — |
 | quavoo | Will Tigres de la UANL win on 2026-08-11 | Yes (BUY) | 71% | 0.52 | ⏳ pendiente | — |
@@ -461,10 +470,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | quavoo | Columbus Crew vs. Pumas de la UNAM: O/U  | Over (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 59% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will CS Independiente Rivadavia win on 2 | No (BUY) | 85% | 0.00 | ⏳ pendiente | — |
-| RN1 | Will Fluminense FC win on 2026-08-11? | No (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| swisstony | Will Fluminense FC win on 2026-08-11? | No (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| RN1 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 76% | 0.00 | ⏳ pendiente | — |
