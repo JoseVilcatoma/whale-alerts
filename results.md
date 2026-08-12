@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 08:02:25 (hora de Perú)
+Actualizado: 2026-08-12 08:04:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1062**  ($22,385,620 en total)
+- Apuestas registradas: **1068**  ($23,001,451 en total)
 - Resueltas: **792** — 488 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 270
-- Apostadores distintos: 116
+- Pendientes: 276
+- Apostadores distintos: 118
 
 ### Balance
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 27 | 28% | $1,948,140 | -$743,370 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 28 | 28% | $2,355,620 | -$743,370 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 41 | 0 | 41% | $1,811,081 | -$218,949 |
+| Djdjdjekekek | 27 | 3 | 23 | 90% | $1,754,994 | +$494,952 |
 | AV23IUa | 23 | 11 | 29 | 68% | $1,636,286 | +$348,929 |
-| Djdjdjekekek | 27 | 3 | 21 | 90% | $1,588,570 | +$494,952 |
 | ferrariChampions2026 | 79 | 25 | 4 | 76% | $1,585,356 | +$58,976 |
 | Weaseloftheweek | 11 | 2 | 3 | 85% | $1,218,338 | +$518,388 |
 | pleaseplease123 | 0 | 39 | 2 | 0% | $1,024,640 | -$991,234 |
@@ -65,14 +65,20 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Marcoli | 2 | 0 | 3 | ⚠️ 100% (2) | $111,211 | +$28,966 |
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
 
-_(mostrando los 40 de mayor monto, de 116 en total)_
+_(mostrando los 40 de mayor monto, de 118 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| GreenBerry1337 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.33 (75¢) | $14,559 | — | ⏳ Pendiente |
+| CongoleseBorat | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.37 (73¢) | $12,420 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.85 (26¢) | $12,812 | — | ⏳ Pendiente |
+| Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.70 (27¢) | $153,612 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.37 (73¢) | $407,480 | — | ⏳ Pendiente |
 | Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.35 (74¢) | $14,800 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.85 (26¢) | $17,929 | — | ⏳ Pendiente |
+| GRINGOMATE | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.35 (74¢) | $14,948 | — | ⏳ Pendiente |
 | Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.30 (77¢) | $15,400 | — | ⏳ Pendiente |
 | spnir | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.30 (77¢) | $13,885 | — | ⏳ Pendiente |
 | spnir | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.30 (77¢) | $13,885 | — | ⏳ Pendiente |
@@ -125,9 +131,3 @@ _(mostrando los 40 de mayor monto, de 116 en total)_
 | ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.59 (63¢) | $52,261 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | KT Rolster | 2.70 (37¢) | $30,983 | — | ⏳ Pendiente |
 | ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.59 (63¢) | $13,622 | — | ⏳ Pendiente |
-| ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.59 (63¢) | $13,622 | — | ⏳ Pendiente |
-| ActionReaction | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.59 (63¢) | $25,594 | — | ⏳ Pendiente |
-| retroactivesource | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.20 (83¢) | $20,981 | — | ⏳ Pendiente |
-| retroactivesource | LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.20 (83¢) | $20,981 | — | ⏳ Pendiente |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.45 (69¢) | $30,115 | +$6,547 | 💰 Vendida antes |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.82 (55¢) | $16,603 | — | ⏳ Pendiente |
