@@ -77919,5 +77919,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786535420.141479,
     "fills": 3
+  },
+  {
+    "timestamp": 1786535441,
+    "timestamp_added": 1786535441.7375898,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-kt-dk-2026-08-12",
+    "title": "LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "whale_usd": 370.49760000000003,
+    "whale_pct": 1.831,
+    "paper_stake_usd": 8.26,
+    "odds_at_bet": 16,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786535442.161174,
+    "fills": 2
   }
 ]
