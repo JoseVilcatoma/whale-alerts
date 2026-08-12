@@ -16930,5 +16930,70 @@
     "usd": 11408.491499999998,
     "odds_at_bet": 35,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1065,
+    "timestamp": 1786545155,
+    "username": "basementdweller3000",
+    "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "B8",
+    "side": "BUY",
+    "usd": 12219.354,
+    "odds_at_bet": 42,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1066,
+    "timestamp": 1786545155,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 61624.4597,
+    "odds_at_bet": 58,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1067,
+    "timestamp": 1786545162,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 37392.087799999994,
+    "odds_at_bet": 59,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1068,
+    "timestamp": 1786545162,
+    "username": "basementdweller3000",
+    "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "B8",
+    "side": "BUY",
+    "usd": 12300.0,
+    "odds_at_bet": 41,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1069,
+    "timestamp": 1786545224,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-prv-b8-2026-08-12",
+    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 26992.577999999998,
+    "odds_at_bet": 60,
+    "status": "pending"
   }
 ]
