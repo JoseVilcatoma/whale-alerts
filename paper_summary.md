@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 18:31:28 (hora de Perú)
+Actualizado: 2026-08-12 18:33:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $637.22
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 67 | 70 | 3 | +104.98 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 9 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 11 | +60.51 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -452,9 +452,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-sea-nyy-2026-08-12-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-bos-tor-2026-08-12-total-7pt5 | RN1, ferrariChampions2026 |
 | lib-pal-cep-2026-08-12-pal | RN1, ferrariChampions2026 |
+| mlb-nym-atl-2026-08-12-spread-home-1pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-12-spread-away-2pt5 | RN1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-bos-tor-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
 | lib-pal-cep-2026-08-12-total-0pt5 | RN1, ferrariChampions2026 |
+| mlb-mil-sd-2026-08-12-total-5pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-12-total-10pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | sud-tig-tor-2026-08-12-total-1pt5 | RN1, ferrariChampions2026 |
 | mlb-cle-det-2026-08-12-spread-home-1pt5 | RN1, wr0ngw4yb3tt0r |
@@ -463,6 +465,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Atlanta Braves (-1.5) | New York Mets (BUY) | 55% | 71.82 | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Over (BUY) | 53% | 6.40 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Cleveland Guardians (-2.5) | Cleveland Guardians (BUY) | 14% | 1.07 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 24% | 1.84 | ⏳ pendiente | — |
 | RN1 | Spread: Detroit Tigers (-1.5) | Detroit Tigers (BUY) | 38% | 0.75 | ⏳ pendiente | — |
@@ -491,5 +495,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will CA Platense win on 2026-08-12? | Yes (BUY) | 78% | 2.01 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will SE Palmeiras win on 2026-08-12? | No (BUY) | 42% | 0.94 | ⏳ pendiente | — |
 | RN1 | Will SE Palmeiras win on 2026-08-12? | No (BUY) | 42% | 1.06 | ⏳ pendiente | — |
-| RN1 | Cruzeiro EC vs. CR Flamengo: O/U 2.5 | Under (BUY) | 57% | 5.21 | ⏳ pendiente | — |
-| 1winstreak1 | New York Mets vs. Atlanta Braves: O/U 8. | Over (BUY) | 54% | 4.55 | ⏳ pendiente | — |
