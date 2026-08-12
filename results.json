@@ -8334,5 +8334,18 @@
     "usd": 15699.999998999998,
     "odds_at_bet": 57,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 486,
+    "timestamp": 1786504252,
+    "username": "Winnerdinnerchickenjr",
+    "wallet": "0x408fe71e6b5401ecd6733970cb6f1a25e984b2f4",
+    "slug": "mlb-kc-lad-2026-08-11",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 15699.99999936,
+    "odds_at_bet": 57,
+    "status": "pending"
   }
 ]
