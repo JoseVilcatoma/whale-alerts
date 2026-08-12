@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 22:10:07 (hora de Perú)
+Actualizado: 2026-08-11 22:12:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **639**  ($13,369,530 en total)
+- Apuestas registradas: **640**  ($13,385,230 en total)
 - Resueltas: **348** — 246 ganadas / 102 perdidas (**71%** de acierto)
-- Pendientes: 291
-- Apostadores distintos: 94
+- Pendientes: 292
+- Apostadores distintos: 95
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BaccaratRoulette | 0 | 2 | 0 | ⚠️ 0% (2) | $54,120 | -$54,120 |
 | danielwolfmorales3pddb6dl6 | 0 | 2 | 2 | ⚠️ 0% (2) | $54,000 | -$30,000 |
 
-_(mostrando los 40 de mayor monto, de 94 en total)_
+_(mostrando los 40 de mayor monto, de 95 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | — | ⏳ Pendiente |
 | coali10 | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | Yes | 2.86 (35¢) | $10,407 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | No | 1.54 (65¢) | $19,188 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | No | 1.54 (65¢) | $19,188 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 94 en total)_
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
 | Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
-| mooseborzoi | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $10,547 | — | ⏳ Pendiente |
