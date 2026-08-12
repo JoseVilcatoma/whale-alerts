@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 16:40:11 (hora de Perú)
+Actualizado: 2026-08-12 16:42:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1935**  ($52,544,068 en total)
+- Apuestas registradas: **1937**  ($52,599,324 en total)
 - Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
-- Pendientes: 586
+- Pendientes: 588
 - Apostadores distintos: 173
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 105 | 32 | 46 | 77% | $2,586,796 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 27 | 0% | $2,067,863 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 21 | 58% | $2,012,237 | +$171,257 |
-| Weaseloftheweek | 19 | 2 | 1 | 90% | $1,767,431 | +$872,236 |
+| Weaseloftheweek | 19 | 2 | 2 | 90% | $1,804,150 | +$872,236 |
 | BreakTheBank | 0 | 12 | 8 | 0% | $1,483,516 | -$803,506 |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
 | S-Works | 0 | 0 | 6 | — | $688,936 | — |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $18,537 | — | ⏳ Pendiente |
+| Weaseloftheweek | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $36,719 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $31,294 | — | ⏳ Pendiente |
 | Weaseloftheweek | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 2.94 (34¢) | $20,400 | — | ⏳ Pendiente |
 | Parz1vaI | Will Kai and Speed beat the Minecraft challenge by August 12? | Yes | 1.16 (86¢) | $11,693 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 | icetera | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
 | one8tyfive | Will Paris Saint-Germain win on 2026-08-12? | No | 2.04 (49¢) | $14,686 | — | ⏳ Pendiente |
 | 0x760f…326a | Will Paris Saint-Germain win on 2026-08-12? | Yes | 2.00 (50¢) | $15,000 | — | ⏳ Pendiente |
-| 0x760f…326a | Will Paris Saint-Germain win on 2026-08-12? | Yes | 2.00 (50¢) | $15,000 | — | ⏳ Pendiente |
-| 0x076d…8d4c | Paris Saint-Germain vs. Aston Villa: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $29,197 | — | ⏳ Pendiente |
