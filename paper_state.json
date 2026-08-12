@@ -1,5 +1,5 @@
 {
-  "bankroll": 392.3750330374425,
+  "bankroll": 372.7768976800958,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -17905,6 +17905,66 @@
       "timestamp": 1786509134.6058736,
       "bankroll": 392.38,
       "event": "lost: 1winstreak1 \u2014 Spread: Las Vegas Aces (-7.5)"
+    },
+    {
+      "timestamp": 1786509240.6543198,
+      "bankroll": 392.78,
+      "event": "won: ferrariChampions2026 \u2014 Washington Mystics vs. Las Vegas Aces"
+    },
+    {
+      "timestamp": 1786509243.2376425,
+      "bankroll": 393.56,
+      "event": "won: swisstony \u2014 Washington Mystics vs. Las Vegas Aces"
+    },
+    {
+      "timestamp": 1786509243.4381058,
+      "bankroll": 394.02,
+      "event": "won: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces"
+    },
+    {
+      "timestamp": 1786509243.5383363,
+      "bankroll": 391.17,
+      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces"
+    },
+    {
+      "timestamp": 1786509243.8420959,
+      "bankroll": 392.47,
+      "event": "won: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 169.5"
+    },
+    {
+      "timestamp": 1786509244.1427612,
+      "bankroll": 391.98,
+      "event": "lost: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 169.5"
+    },
+    {
+      "timestamp": 1786509247.4232285,
+      "bankroll": 376.69,
+      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces"
+    },
+    {
+      "timestamp": 1786509247.5235944,
+      "bankroll": 374.93,
+      "event": "lost: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 169.5"
+    },
+    {
+      "timestamp": 1786509247.6238139,
+      "bankroll": 375.52,
+      "event": "won: swisstony \u2014 Washington Mystics vs. Las Vegas Aces: O/U 169.5"
+    },
+    {
+      "timestamp": 1786509247.92442,
+      "bankroll": 375.03,
+      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 169.5"
+    },
+    {
+      "timestamp": 1786509250.0283802,
+      "bankroll": 373.63,
+      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 169.5"
+    },
+    {
+      "timestamp": 1786509251.139428,
+      "bankroll": 372.78,
+      "event": "lost: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces"
     }
   ]
 }
