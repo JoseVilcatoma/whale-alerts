@@ -77453,5 +77453,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786501126.357358,
     "fills": 2
+  },
+  {
+    "timestamp": 1786501148,
+    "timestamp_added": 1786501148.963735,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "sud-bol-sao-2026-08-11-total-3pt5",
+    "title": "Club Bol\u00edvar vs. S\u00e3o Paulo FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 330.358,
+    "whale_pct": 0.155,
+    "paper_stake_usd": 0.67,
+    "odds_at_bet": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786501148.9637456,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786501239,
+    "timestamp_added": 1786501240.0698383,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-tb-oak-2026-08-11-spread-away-2pt5",
+    "title": "Spread: Tampa Bay Rays (-2.5)",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "whale_usd": 1258.6,
+    "whale_pct": 0.422,
+    "paper_stake_usd": 1.81,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786501240.0698466,
+    "fills": 1
   }
 ]
