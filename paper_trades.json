@@ -78731,5 +78731,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786561582.9972546,
     "fills": 3
+  },
+  {
+    "timestamp": 1786561854,
+    "timestamp_added": 1786561855.6543875,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-phi-stl-2026-08-12-spread-home-1pt5",
+    "title": "Spread: St. Louis Cardinals (-1.5)",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "whale_usd": 13.129999999999999,
+    "whale_pct": 0.402,
+    "paper_stake_usd": 2.26,
+    "odds_at_bet": 23,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786561855.6543975,
+    "fills": 1
   }
 ]
