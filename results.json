@@ -17560,5 +17560,18 @@
     "usd": 10035.37,
     "odds_at_bet": 79,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1115,
+    "timestamp": 1786547974,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 10035.37,
+    "odds_at_bet": 79,
+    "status": "pending"
   }
 ]
