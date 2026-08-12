@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 12:28:53 (hora de Perú)
+Actualizado: 2026-08-12 12:30:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $372.49
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 114 | 97 | 7 | +13.95 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 249 | 151 | 39 | +5.66 USD |
+| UpTheBlues | 249 | 151 | 21 | +5.66 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
@@ -445,11 +445,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-wsh-las-2026-08-11-spread-home-6pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
-| mlb-phi-stl-2026-08-12-total-7pt5 | HomeRunHazard, Sassy-Bucket |
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
-| col-rap-pai-2026-08-12-rap | UpTheBlues, dv-pm |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
-| lol-blg-jdg-2026-08-12 | BBQChickenisthebesttt, BrotherObama |
 
 ## Últimas 30 apuestas de papel (detalle)
 
