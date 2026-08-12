@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 06:05:11 (hora de Perú)
+Actualizado: 2026-08-12 06:07:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
-| Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
+| Weaseloftheweek | 0 | 2 | 1 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
@@ -447,6 +447,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 | cs2-fut-tyloo-2026-08-12 | AV23IUa, UpTheBlues |
+| usc-psg-av-2026-08-12-psg | UpTheBlues, Weaseloftheweek |
 | wnba-chi-gsv-2026-08-12-total-166pt5 | HomeRunHazard, UpTheBlues |
 | lol-dnf-ns-2026-08-12 | BBQChickenisthebesttt, BrotherObama, ferrariChampions2026 |
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, BrotherObama, ferrariChampions2026 |
@@ -457,6 +458,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | Will Paris Saint-Germain win on 2026-08- | Yes (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | APIA Leichhardt FC vs. Sydney United 58  | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | APIA Leichhardt FC vs. Sydney United 58  | Under (BUY) | 94% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 38% | 0.00 | ⏳ pendiente | — |
@@ -486,4 +488,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | Dplus KIA (BUY) | 64% | 0.00 | ⏳ pendiente | — |
 | UpTheBlues | Counter-Strike: FUT Esports vs TYLOO (BO | TYLOO (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | jtwyslljy | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | Dplus KIA (BUY) | 64% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers vs Nongshim Red Force (B | DN SOOPers (BUY) | 46% | 0.00 | ⏳ pendiente | — |
