@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 22:33:53 (hora de Perú)
+Actualizado: 2026-08-11 22:35:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $421.80
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 108 | 87 | 41 | +60.66 USD |
+| 1winstreak1 | 108 | 87 | 42 | +60.66 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 2 | 9 | 1 | +15.06 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 242 | 150 | 23 | +4.48 USD |
+| UpTheBlues | 242 | 150 | 24 | +4.48 USD |
 | HomeRunHazard | 104 | 92 | 15 | +4.38 USD |
 | Sassy-Bucket | 7 | 6 | 2 | +3.19 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -465,6 +465,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 63% | 0.58 | ⏳ pendiente | — |
+| 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 50% | 5.04 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Kansas City Royals (-1.5) | Kansas City Royals (BUY) | 17% | 0.69 | ⏳ pendiente | — |
 | UpTheBlues | Tigres de la UANL vs. Vancouver Whitecap | Under (BUY) | 66% | 1.62 | ⏳ pendiente | — |
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces | Washington Mystics (BUY) | 18% | 0.85 | ⏳ pendiente | — |
@@ -493,5 +495,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 68% | 6.61 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Kansas City Royals (-2.5) | Kansas City Royals (BUY) | 20% | 0.71 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 64% | 2.07 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 64% | 0.90 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Phoenix Mercury (-1.5) | Los Angeles Sparks (BUY) | 69% | 1.12 | ⏳ pendiente | — |
