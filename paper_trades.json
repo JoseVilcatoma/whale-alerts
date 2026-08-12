@@ -80045,5 +80045,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786506640.4019525,
     "fills": 1
+  },
+  {
+    "timestamp": 1786506645,
+    "timestamp_added": 1786506645.935866,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-vit-100t-2026-08-12",
+    "title": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "whale_usd": 4600.0,
+    "whale_pct": 1.759,
+    "paper_stake_usd": 7.19,
+    "odds_at_bet": 23,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786506645.9358761,
+    "fills": 1
   }
 ]
