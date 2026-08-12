@@ -13139,5 +13139,57 @@
     "usd": 30983.356,
     "odds_at_bet": 37,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 827,
+    "timestamp": 1786534182,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-kt-dk-2026-08-12-game2",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 2 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "usd": 30983.356,
+    "odds_at_bet": 37,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 828,
+    "timestamp": 1786534182,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-kt-dk-2026-08-12-game2",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 52260.768000000004,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 829,
+    "timestamp": 1786534174,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-kt-dk-2026-08-12-game2",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 13621.6216206,
+    "odds_at_bet": 63,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 830,
+    "timestamp": 1786533937,
+    "username": "retroactivesource",
+    "wallet": "0x85d53efdd055aa88fb00a914f5615bfd585545ee",
+    "slug": "lol-kt-dk-2026-08-12",
+    "title": "LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 20981.0139,
+    "odds_at_bet": 83,
+    "status": "pending"
   }
 ]
