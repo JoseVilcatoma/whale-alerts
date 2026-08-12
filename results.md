@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 11:56:19 (hora de Perú)
+Actualizado: 2026-08-12 11:58:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1415**  ($32,855,703 en total)
+- Apuestas registradas: **1417**  ($32,887,921 en total)
 - Resueltas: **939** — 567 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 476
+- Pendientes: 478
 - Apostadores distintos: 131
 
 ### Balance
@@ -27,8 +27,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 59 | 28% | $4,750,356 | -$789,178 |
 | Djdjdjekekek | 36 | 12 | 63 | 75% | $4,655,234 | +$573,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 0 | 36% | $2,039,712 | -$421,290 |
+| ferrariChampions2026 | 90 | 29 | 13 | 76% | $1,884,547 | +$113,934 |
 | AV23IUa | 23 | 21 | 30 | 52% | $1,882,498 | +$128,429 |
-| ferrariChampions2026 | 90 | 29 | 12 | 76% | $1,867,794 | +$113,934 |
 | Weaseloftheweek | 11 | 2 | 5 | 85% | $1,416,109 | +$518,388 |
 | pleaseplease123 | 0 | 44 | 6 | 0% | $1,259,984 | -$1,082,423 |
 | BreakTheBank | 0 | 12 | 0 | 0% | $803,506 | -$803,506 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 131 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mylifeisover | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 2.08 (48¢) | $15,465 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 1.92 (52¢) | $16,753 | — | ⏳ Pendiente |
 | pleaseplease123 | Philadelphia Phillies vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $10,468 | — | ⏳ Pendiente |
 | ArturitoFilito | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $12,890 | — | ⏳ Pendiente |
 | ArturitoFilito | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.35 (74¢) | $12,890 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 131 en total)_
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B | Astralis | 1.85 (54¢) | $15,294 | — | ⏳ Pendiente |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | 3DMAX | 4.00 (25¢) | $17,254 | — | ⏳ Pendiente |
 | skyman44 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.33 (75¢) | $13,855 | — | ⏳ Pendiente |
-| skyman44 | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.33 (75¢) | $13,855 | — | ⏳ Pendiente |
-| ActionReaction | LoL: Ici Japon Corp. Esport vs TLN Pirates (BO3) - LFL Playoffs | TLN Pirates | 1.69 (59¢) | $21,565 | — | ⏳ Pendiente |

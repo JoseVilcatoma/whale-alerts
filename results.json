@@ -18431,5 +18431,31 @@
     "usd": 12890.180106439999,
     "odds_at_bet": 74,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1182,
+    "timestamp": 1786553798,
+    "username": "Mylifeisover",
+    "wallet": "0x7542fa229f63a7bd8a9ca4584638004a39317a20",
+    "slug": "mlb-mil-sd-2026-08-12",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 15464.538461000002,
+    "odds_at_bet": 48,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1183,
+    "timestamp": 1786553798,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mil-sd-2026-08-12",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 16753.249999,
+    "odds_at_bet": 52,
+    "status": "pending"
   }
 ]
