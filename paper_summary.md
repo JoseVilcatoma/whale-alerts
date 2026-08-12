@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 22:42:22 (hora de Perú)
+Actualizado: 2026-08-11 22:44:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $408.49
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
-| 1winstreak1 | 109 | 88 | 45 | +44.96 USD |
+| 1winstreak1 | 109 | 88 | 46 | +44.96 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | wr0ngw4yb3tt0r | 60 | 68 | 8 | +18.95 USD |
@@ -468,6 +468,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 55% | 7.37 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 53% | 0.63 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 67% | 0.65 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 65% | 1.26 | ⏳ pendiente | — |
@@ -497,4 +498,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Los Angeles Sparks (BUY) | 52% | 6.57 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 56% | 1.63 | ⏳ pendiente | — |
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 45% | 12.38 | ⏳ pendiente | — |
-| swisstony | Spread: Vancouver Whitecaps FC (-1.5) | Tigres de la UANL (BUY) | 98% | 2.29 | ⏳ pendiente | — |
