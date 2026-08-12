@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 23:44:45 (hora de Perú)
+Actualizado: 2026-08-11 23:46:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $447.52
-**Retorno acumulado:** -55.25%
+**Bankroll actual:** $446.96
+**Retorno acumulado:** -55.30%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 29 | 16 | 0 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
-| 1winstreak1 | 122 | 104 | 25 | +79.06 USD |
+| 1winstreak1 | 123 | 105 | 23 | +78.50 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 3 | 10 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
@@ -475,7 +475,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | Counter-Strike: Team Falcons vs K27 (BO1 | Team Falcons (BUY) | 79% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 24% | 0.00 | ⏳ pendiente | — |
 | RN1 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 16.5 | Under (BUY) | 95% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 16.5 | Under (BUY) | 95% | 0.00 | ✅ ganada | +0.00 |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 57% | 5.11 | ✅ ganada | +3.85 |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 89% | 0.67 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: magic vs TheMongolz (BO1 | TheMongolz (BUY) | 54% | 0.57 | ⏳ pendiente | — |
@@ -489,7 +489,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | Counter-Strike: Team Falcons vs K27 (BO1 | Team Falcons (BUY) | 79% | 0.46 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: magic vs TheMongolz (BO1 | TheMongolz (BUY) | 54% | 0.91 | ⏳ pendiente | — |
 | 1winstreak1 | Houston Astros vs. San Francisco Giants: | Over (BUY) | 23% | 1.39 | ❌ perdida | -1.39 |
-| 1winstreak1 | Houston Astros vs. San Francisco Giants: | Over (BUY) | 31% | 0.56 | ⏳ pendiente | — |
+| 1winstreak1 | Houston Astros vs. San Francisco Giants: | Over (BUY) | 31% | 0.56 | ❌ perdida | -0.56 |
 | UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 96% | 1.16 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Vitality vs 100 Thieves  | 100 Thieves (BUY) | 23% | 7.19 | ⏳ pendiente | — |
 | UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 73% | 0.63 | ⏳ pendiente | — |
