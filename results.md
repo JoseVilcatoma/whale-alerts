@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 22:29:05 (hora de Perú)
+Actualizado: 2026-08-11 22:31:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **642**  ($13,412,762 en total)
+- Apuestas registradas: **645**  ($13,453,787 en total)
 - Resueltas: **348** — 246 ganadas / 102 perdidas (**71%** de acierto)
-- Pendientes: 294
+- Pendientes: 297
 - Apostadores distintos: 95
 
 ### Balance
@@ -25,8 +25,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 0 | 32 | 100% | $1,250,670 | +$384,537 |
+| ferrariChampions2026 | 47 | 6 | 23 | 89% | $1,140,136 | +$93,281 |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 16 | 29 | 43% | $1,131,395 | -$248,458 |
-| ferrariChampions2026 | 47 | 6 | 21 | 89% | $1,114,776 | +$93,281 |
 | AV23IUa | 12 | 5 | 22 | 71% | $1,105,129 | +$239,141 |
 | Djdjdjekekek | 0 | 2 | 18 | ⚠️ 0% (2) | $704,439 | -$62,629 |
 | pleaseplease123 | 0 | 12 | 16 | 0% | $700,196 | -$399,165 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $12,072 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $13,288 | — | ⏳ Pendiente |
+| ililili1lil1i1 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 3.57 (28¢) | $15,664 | — | ⏳ Pendiente |
 | swisstony | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.25 (80¢) | $11,832 | — | ⏳ Pendiente |
 | Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | — | ⏳ Pendiente |
 | Winnerdinnerchickenjr | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $15,700 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 95 en total)_
 | AV23IUa | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | Luminosity | 1.89 (53¢) | $15,900 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Luminosity vs GamerLegion (BO1) - Esports World Cup Group A | Luminosity | 1.89 (53¢) | $15,900 | — | ⏳ Pendiente |
 | RN1 | Cincinnati Open, Qualification: Dominika Salkova vs Anna Blinkova | Anna Blinkova | 1.16 (86¢) | $10,136 | — | ⏳ Pendiente |
-| RN1 | Cincinnati Open, Qualification: Dominika Salkova vs Anna Blinkova | Anna Blinkova | 1.16 (86¢) | $10,136 | — | ⏳ Pendiente |
-| RN1 | Cincinnati Open, Qualification: Dominika Salkova vs Anna Blinkova | Anna Blinkova | 1.16 (86¢) | $10,136 | — | ⏳ Pendiente |
-| Feromont | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
