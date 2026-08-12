@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 12:40:57 (hora de Perú)
+Actualizado: 2026-08-12 12:42:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $372.49
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 107 | 87 | 0 | +60.51 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
-| wr0ngw4yb3tt0r | 65 | 69 | 1 | +23.18 USD |
+| wr0ngw4yb3tt0r | 65 | 69 | 3 | +23.18 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 3 | 9 | 2 | +15.41 USD |
@@ -445,6 +445,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-wsh-las-2026-08-11-spread-home-6pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
+| mlb-phi-stl-2026-08-12-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
 
@@ -452,6 +453,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 44% | 6.29 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Philadelphia Phillies vs. St. Louis Card | Over (BUY) | 53% | 80.99 | ⏳ pendiente | — |
 | Sassy-Bucket | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 53% | 212.93 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Baltimore Orioles (-1.5) | Minnesota Twins (BUY) | 62% | 26.54 | ⏳ pendiente | — |
 | SDTrading | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 54% | 0.00 | ⏳ pendiente | — |
@@ -480,5 +483,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 55% | 0.00 | ❌ perdida | -0.00 |
 | Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 50% | 0.00 | ❌ perdida | -0.00 |
 | Djdjdjekekek | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 22% | 0.00 | ❌ perdida | -0.00 |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 48% | 0.00 | ❌ perdida | -0.00 |
-| Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 47% | 0.00 | ❌ perdida | -0.00 |
