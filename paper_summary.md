@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 14:17:50 (hora de Perú)
+Actualizado: 2026-08-12 14:19:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $561.31
@@ -13,12 +13,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
+| Sassy-Bucket | 8 | 8 | 1 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | dv-pm | 4 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 3 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 4 | +60.51 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 65 | 69 | 3 | +23.18 USD |
@@ -453,6 +453,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Houston Astros vs. San Francisco Giants: | Over (BUY) | 48% | 25.75 | ⏳ pendiente | — |
+| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Over (BUY) | 43% | 77.97 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 14% | 1.19 | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under (BUY) | 64% | 1.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: St. Louis Cardinals (-1.5) | St. Louis Cardinals (BUY) | 23% | 2.26 | ⏳ pendiente | — |
@@ -479,7 +481,5 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will SE Palmeiras vs. Club Cerro Porteño | Yes (BUY) | 19% | 0.00 | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 72% | 0.00 | ❌ perdida | -0.00 |
 | Djdjdjekekek | Counter-Strike: magic vs TheMongolz (BO1 | magic (BUY) | 60% | 0.00 | ❌ perdida | -0.00 |
-| jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ✅ ganada | +0.00 |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 53% | 0.00 | ❌ perdida | -0.00 |
 | jtwyslljy | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 36% | 0.00 | ✅ ganada | +0.00 |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 53% | 0.00 | ❌ perdida | -0.00 |
