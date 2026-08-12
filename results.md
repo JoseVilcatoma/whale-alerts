@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 14:00:55 (hora de Perú)
+Actualizado: 2026-08-12 14:03:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1583**  ($40,207,990 en total)
+- Apuestas registradas: **1590**  ($40,347,304 en total)
 - Resueltas: **941** — 569 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 642
+- Pendientes: 649
 - Apostadores distintos: 161
 
 ### Balance
@@ -24,14 +24,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 68 | 28% | $6,185,470 | -$789,178 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 18 | 47 | 69 | 28% | $6,198,873 | -$789,178 |
 | Djdjdjekekek | 36 | 12 | 77 | 75% | $5,657,802 | +$573,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 51 | 8 | 36% | $2,478,932 | -$421,290 |
 | ferrariChampions2026 | 90 | 29 | 33 | 76% | $2,168,667 | +$113,934 |
-| AV23IUa | 23 | 21 | 31 | 52% | $1,919,994 | +$128,429 |
+| AV23IUa | 23 | 21 | 32 | 52% | $1,957,489 | +$128,429 |
 | Weaseloftheweek | 11 | 2 | 7 | 85% | $1,636,724 | +$518,388 |
 | pleaseplease123 | 0 | 44 | 12 | 0% | $1,472,115 | -$1,082,423 |
-| BreakTheBank | 0 | 12 | 4 | 0% | $1,160,306 | -$803,506 |
+| BreakTheBank | 0 | 12 | 5 | 0% | $1,184,279 | -$803,506 |
 | Lakersfan111 | 1 | 3 | 31 | ⚠️ 25% (4) | $653,923 | -$28,993 |
 | texaskid | 18 | 0 | 0 | 100% | $598,663 | +$455,165 |
 | Sassy-Bucket | 12 | 16 | 1 | 43% | $585,618 | -$190,303 |
@@ -41,20 +41,20 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
 | S-Works | 0 | 0 | 4 | — | $459,291 | — |
 | ActionReaction | 0 | 0 | 14 | — | $376,692 | — |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 0 | 13 | ⚠️ 100% (5) | $364,415 | +$87,105 |
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | HongYunX | 0 | 0 | 2 | — | $346,005 | — |
 | musholius722 | 0 | 0 | 1 | — | $340,507 | — |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 0 | 12 | ⚠️ 100% (5) | $338,449 | +$87,105 |
 | theowalcott | 21 | 0 | 0 | 100% | $318,833 | +$226,502 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | ExplosiveNinja | 8 | 0 | 13 | 100% | $281,127 | +$137,489 |
 | Marcoli | 7 | 0 | 3 | ⚠️ 100% (7) | $273,944 | +$95,170 |
 | ThornyDevil | 2 | 1 | 6 | ⚠️ 67% (3) | $254,880 | +$2,354 |
 | mikesports | 7 | 8 | 0 | 47% | $243,869 | -$88,869 |
+| fRibrenlc | 9 | 4 | 5 | 69% | $234,478 | +$46,634 |
 | five5120 | 2 | 1 | 12 | ⚠️ 67% (3) | $225,368 | -$15,925 |
 | johnny234 | 3 | 4 | 9 | ⚠️ 43% (7) | $224,256 | -$21,018 |
-| fRibrenlc | 9 | 4 | 4 | 69% | $220,701 | +$46,634 |
 | Feromont | 9 | 0 | 1 | 100% | $218,857 | +$55,222 |
 | bigspending | 0 | 0 | 3 | — | $208,375 | — |
 | TAIWANNUMBERONE | 0 | 1 | 13 | ⚠️ 0% (1) | $206,762 | -$17,114 |
@@ -71,11 +71,18 @@ _(mostrando los 40 de mayor monto, de 161 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fRibrenlc | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.61 (62¢) | $13,778 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | paiN | 2.63 (38¢) | $25,966 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.61 (62¢) | $13,403 | — | ⏳ Pendiente |
 | BreakTheBank | Will Paris Saint-Germain win on 2026-08-12? | No | 2.56 (39¢) | $217,701 | — | ⏳ Pendiente |
 | musholius722 | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.64 (61¢) | $340,507 | — | ⏳ Pendiente |
 | AV23IUa | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.64 (61¢) | $37,496 | — | ⏳ Pendiente |
 | BreakTheBank | Will Paris Saint-Germain win on 2026-08-12? | No | 2.56 (39¢) | $23,973 | — | ⏳ Pendiente |
+| AV23IUa | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.64 (61¢) | $37,496 | — | ⏳ Pendiente |
+| BreakTheBank | Will Paris Saint-Germain win on 2026-08-12? | No | 2.56 (39¢) | $23,973 | — | ⏳ Pendiente |
 | tony-sopranchenko | Will Paris Saint-Germain vs. Aston Villa end in a draw? | No | 1.30 (77¢) | $10,626 | — | ⏳ Pendiente |
+| tony-sopranchenko | Will Paris Saint-Germain vs. Aston Villa end in a draw? | No | 1.30 (77¢) | $10,626 | — | ⏳ Pendiente |
+| PhoenixSuns | Will Aston Villa win on 2026-08-12? | No | 1.19 (84¢) | $14,073 | — | ⏳ Pendiente |
 | PhoenixSuns | Will Aston Villa win on 2026-08-12? | No | 1.19 (84¢) | $14,073 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.14 (88¢) | $86,776 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | 100 Thieves | 8.33 (12¢) | $13,286 | — | ⏳ Pendiente |
@@ -124,10 +131,3 @@ _(mostrando los 40 de mayor monto, de 161 en total)_
 | ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.18 (85¢) | $11,244 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.19 (84¢) | $10,500 | — | ⏳ Pendiente |
 | ohehe | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.20 (83¢) | $30,944 | — | ⏳ Pendiente |
-| ohehe | Counter-Strike: Wildcard vs FURIA (BO1) - Esports World Cup Group D | FURIA | 1.20 (83¢) | $30,944 | — | ⏳ Pendiente |
-| CORGI8 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.56 (64¢) | $10,102 | — | ⏳ Pendiente |
-| CORGI8 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.56 (64¢) | $10,102 | — | ⏳ Pendiente |
-| swisstony | Exact Score: Paris Saint-Germain 0 - 0 Aston Villa? | No | 1.06 (94¢) | $22,508 | — | ⏳ Pendiente |
-| bigspending | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.69 (59¢) | $83,537 | — | ⏳ Pendiente |
-| 0way | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $10,578 | — | ⏳ Pendiente |
-| Daemon99 | Will Paris Saint-Germain win on 2026-08-12? | No | 2.44 (41¢) | $17,163 | — | ⏳ Pendiente |
