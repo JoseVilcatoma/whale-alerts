@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 19:07:42 (hora de Perú)
+Actualizado: 2026-08-11 19:11:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **232**  ($4,974,778 en total)
+- Apuestas registradas: **235**  ($5,014,239 en total)
 - Resueltas: **114** — 91 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 118
+- Pendientes: 121
 - Apostadores distintos: 79
 
 ### Balance
@@ -25,12 +25,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | ferrariChampions2026 | 23 | 0 | 7 | 100% | $459,491 | +$57,935 |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 8 | 38% | $424,896 | -$139,198 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 9 | 38% | $435,158 | -$139,198 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 19 | 0 | 0 | 100% | $415,077 | +$195,517 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 11 | — | $347,753 | — |
 | Weaseloftheweek | 3 | 1 | 1 | ⚠️ 75% (4) | $303,804 | +$7,132 |
+| AV23IUa | 4 | 0 | 5 | ⚠️ 100% (4) | $280,573 | +$109,102 |
 | BreakTheBank | 0 | 0 | 4 | — | $267,835 | — |
-| AV23IUa | 4 | 0 | 3 | ⚠️ 100% (4) | $251,373 | +$109,102 |
 | pleaseplease123 | 0 | 0 | 7 | — | $227,132 | — |
 | SDTrading | 0 | 0 | 11 | — | $201,460 | — |
 | Talvez10 | 0 | 0 | 9 | — | $165,672 | — |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 79 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Tampa Bay Rays vs. Athletics: O/U 10.5 | Under 10.5 | 1.92 (52¢) | $15,600 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Kei Nishikori vs Francisco Comesana | Kei Nishikori | 2.33 (43¢) | $10,262 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open, Qualification: Kei Nishikori vs Francisco Comesana | Francisco Comesana | 1.75 (57¢) | $13,600 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Daniel Merida Aguilar vs Learner Tien | Learner Tien | 2.00 (50¢) | $27,284 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Daniel Merida Aguilar vs Learner Tien | Daniel Merida Aguilar | 2.00 (50¢) | $27,384 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Athletics | Athletics | 2.78 (36¢) | $27,550 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 79 en total)_
 | spnir | National Bank Open: Belinda Bencic vs Coco Gauff | Coco Gauff | 1.67 (60¢) | $12,000 | — | ⏳ Pendiente |
 | SevenTons | National Bank Open: Belinda Bencic vs Coco Gauff | Belinda Bencic | 2.56 (39¢) | $12,639 | — | ⏳ Pendiente |
 | beachboy4 | National Bank Open: Jakub Mensik vs Ben Shelton | Jakub Mensik | 2.44 (41¢) | $14,094 | -$14,094 | ❌ Perdida |
-| pleaseplease123 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.22 (45¢) | $85,000 | — | ⏳ Pendiente |
-| texaskid | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.82 (55¢) | $55,000 | — | ⏳ Pendiente |
-| monkeymashingkeyboard | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.82 (55¢) | $14,986 | — | ⏳ Pendiente |
