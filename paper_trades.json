@@ -78729,5 +78729,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786543491.0569894,
     "fills": 1
+  },
+  {
+    "timestamp": 1786544118,
+    "timestamp_added": 1786544119.2188466,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "cs2-bb3-faze-2026-08-12",
+    "title": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "whale_usd": 208.0,
+    "whale_pct": 0.679,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786544119.2188563,
+    "fills": 1
   }
 ]
