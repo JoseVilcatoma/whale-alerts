@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 17:00:13 (hora de Perú)
+Actualizado: 2026-08-12 17:02:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1952**  ($52,940,256 en total)
+- Apuestas registradas: **1955**  ($53,026,716 en total)
 - Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
-- Pendientes: 603
+- Pendientes: 606
 - Apostadores distintos: 173
 
 ### Balance
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 51 | 43% | $8,791,814 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 52 | 43% | $8,806,687 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 14 | 35% | $2,916,482 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 47 | 77% | $2,601,386 | +$168,085 |
+| AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
 | pleaseplease123 | 0 | 44 | 27 | 0% | $2,067,863 | -$1,082,423 |
-| AV23IUa | 33 | 24 | 24 | 58% | $2,059,445 | +$171,257 |
 | Weaseloftheweek | 19 | 2 | 5 | 90% | $1,916,615 | +$872,236 |
 | BreakTheBank | 0 | 12 | 8 | 0% | $1,483,516 | -$803,506 |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 3.03 (33¢) | $14,873 | — | ⏳ Pendiente |
+| AV23IUa | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.49 (67¢) | $25,023 | — | ⏳ Pendiente |
+| AV23IUa | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.49 (67¢) | $46,563 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $10,290 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.47 (68¢) | $22,439 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $18,459 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 | ferrariChampions2026 | Counter-Strike: Lynn Vision vs MOUZ (BO1) - Esports World Cup Group C | MOUZ | 1.23 (81¢) | $11,635 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.20 (83¢) | $13,200 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: 9z vs paiN (BO1) - Esports World Cup Group D | 9z | 1.20 (83¢) | $13,200 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $12,786 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Milwaukee Brewers vs. San Diego Padres: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $12,786 | — | ⏳ Pendiente |
-| 0x076d…8d4c | Will Paris Saint-Germain win on 2026-08-12? | No | 2.00 (50¢) | $12,656 | — | ⏳ Pendiente |

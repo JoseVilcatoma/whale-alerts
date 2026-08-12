@@ -25438,5 +25438,44 @@
     "usd": 19907.0612,
     "odds_at_bet": 68,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1742,
+    "timestamp": 1786571548,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-tien-shelton-2026-08-12",
+    "title": "National Bank Open: Learner Tien vs Ben Shelton",
+    "outcome": "Learner Tien",
+    "side": "BUY",
+    "usd": 14873.3112,
+    "odds_at_bet": 33,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1743,
+    "timestamp": 1786571548,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-tien-shelton-2026-08-12",
+    "title": "National Bank Open: Learner Tien vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 25023.3878,
+    "odds_at_bet": 67,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1744,
+    "timestamp": 1786571542,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-tien-shelton-2026-08-12",
+    "title": "National Bank Open: Learner Tien vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 46563.0302,
+    "odds_at_bet": 67,
+    "status": "pending"
   }
 ]
