@@ -1,5 +1,5 @@
 {
-  "bankroll": 421.7984053592642,
+  "bankroll": 408.4925092890761,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -17735,6 +17735,51 @@
       "timestamp": 1786505370.1006386,
       "bankroll": 421.8,
       "event": "lost: BrotherObama \u2014 LoL: RMD Gaming vs RED Academy (BO3) - Circuito Desafiante Play-In"
+    },
+    {
+      "timestamp": 1786505989.9154036,
+      "bankroll": 423.18,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786505990.3550017,
+      "bankroll": 423.96,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786505996.1845374,
+      "bankroll": 423.96,
+      "event": "lost: Sassy-Bucket \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786505998.7263918,
+      "bankroll": 422.92,
+      "event": "lost: Sassy-Bucket \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786506002.0687099,
+      "bankroll": 423.49,
+      "event": "won: RN1 \u2014 Tampa Bay Rays vs. Athletics: O/U 10.5"
+    },
+    {
+      "timestamp": 1786506002.9705815,
+      "bankroll": 424.36,
+      "event": "won: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786506003.0708158,
+      "bankroll": 407.8,
+      "event": "lost: 1winstreak1 \u2014 Tampa Bay Rays vs. Athletics: O/U 10.5"
+    },
+    {
+      "timestamp": 1786506003.4716063,
+      "bankroll": 408.08,
+      "event": "won: swisstony \u2014 Tampa Bay Rays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786506004.2310274,
+      "bankroll": 408.49,
+      "event": "won: swisstony \u2014 Tampa Bay Rays vs. Athletics: O/U 10.5"
     }
   ]
 }

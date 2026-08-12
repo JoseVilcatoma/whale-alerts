@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 22:38:02 (hora de Perú)
+Actualizado: 2026-08-11 22:40:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $421.80
-**Retorno acumulado:** -57.82%
+**Bankroll actual:** $408.49
+**Retorno acumulado:** -59.15%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -17,8 +17,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 108 | 87 | 46 | +60.66 USD |
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
+| 1winstreak1 | 109 | 88 | 44 | +44.96 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | wr0ngw4yb3tt0r | 60 | 68 | 8 | +18.95 USD |
@@ -26,10 +26,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 2 | 9 | 1 | +15.06 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 242 | 150 | 25 | +4.48 USD |
-| HomeRunHazard | 104 | 92 | 15 | +4.38 USD |
-| Sassy-Bucket | 7 | 6 | 2 | +3.19 USD |
+| HomeRunHazard | 106 | 92 | 13 | +6.54 USD |
+| UpTheBlues | 242 | 150 | 27 | +4.48 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
+| Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
@@ -46,9 +46,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 170 | 114 | 40 | -27.78 USD |
+| swisstony | 172 | 114 | 38 | -27.08 USD |
 | quavoo | 152 | 186 | 34 | -33.89 USD |
-| RN1 | 199 | 111 | 7 | -38.43 USD |
+| RN1 | 200 | 111 | 6 | -37.85 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -468,6 +468,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 67% | 0.65 | ⏳ pendiente | — |
+| UpTheBlues | Spread: Tigres de la UANL (-1.5) | Vancouver Whitecaps FC (BUY) | 65% | 1.26 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 68% | 4.17 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 42% | 4.31 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 58% | 20.68 | ⏳ pendiente | — |
@@ -496,5 +498,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Phoenix Mercury vs. Los Angeles Sparks | Phoenix Mercury (BUY) | 45% | 12.38 | ⏳ pendiente | — |
 | swisstony | Spread: Vancouver Whitecaps FC (-1.5) | Tigres de la UANL (BUY) | 98% | 2.29 | ⏳ pendiente | — |
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 46% | 0.49 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 47% | 0.45 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Los Angeles Sparks (-2.5) | Phoenix Mercury (BUY) | 58% | 9.19 | ⏳ pendiente | — |
