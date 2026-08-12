@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 17:50:12 (hora de Perú)
+Actualizado: 2026-08-12 17:52:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $487.96
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 9 | 5 | +165.22 USD |
-| theowalcott | 17 | 4 | 18 | +143.32 USD |
+| theowalcott | 17 | 4 | 21 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | wr0ngw4yb3tt0r | 67 | 70 | 0 | +104.98 USD |
 | dv-pm | 4 | 6 | 1 | +89.49 USD |
@@ -52,10 +52,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 202 | 112 | 0 | -39.02 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| 1winstreak1 | 136 | 110 | 23 | -62.81 USD |
+| 1winstreak1 | 136 | 110 | 25 | -62.81 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 1 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 2 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 2 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -454,6 +454,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-phi-stl-2026-08-12-total-8pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-phi-stl-2026-08-12-total-9pt5 | 1winstreak1, HomeRunHazard |
 | lib-pal-cep-2026-08-12-spread-home-1pt5 | WTSA, ferrariChampions2026 |
+| lib-pal-cep-2026-08-12-total-2pt5 | WTSA, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-12-total-8pt5 | Sassy-Bucket, Weaseloftheweek |
 | mlb-col-ari-2026-08-12-spread-away-1pt5 | 1winstreak1, HomeRunHazard |
 | mlb-mil-sd-2026-08-12-spread-away-2pt5 | 1winstreak1, HomeRunHazard |
@@ -463,6 +464,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: San Diego Padres (-1.5) | Milwaukee Brewers (BUY) | 82% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | SE Palmeiras vs. Club Cerro Porteño: O/U | Under (BUY) | 78% | 0.00 | ⏳ pendiente | — |
+| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Detroit Tigers (-1.5) | Cleveland Guardians (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 35% | 0.00 | ⏳ pendiente | — |
@@ -487,9 +494,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 15% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Milwaukee Brewers (-2.5) | San Diego Padres (BUY) | 85% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Colorado Rockies (-1.5) | Colorado Rockies (BUY) | 73% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Colorado Rockies (-1.5) | Colorado Rockies (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 60% | 0.18 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 23% | 1.61 | ⏳ pendiente | — |
-| Sassy-Bucket | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 47% | 0.00 | ⏳ pendiente | — |
