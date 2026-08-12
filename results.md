@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 22:01:56 (hora de Perú)
+Actualizado: 2026-08-11 22:03:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **631**  ($13,247,964 en total)
+- Apuestas registradas: **636**  ($13,321,654 en total)
 - Resueltas: **348** — 246 ganadas / 102 perdidas (**71%** de acierto)
-- Pendientes: 283
-- Apostadores distintos: 92
+- Pendientes: 288
+- Apostadores distintos: 94
 
 ### Balance
 
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 0 | 32 | 100% | $1,250,670 | +$384,537 |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 12 | 16 | 29 | 43% | $1,131,395 | -$248,458 |
+| ferrariChampions2026 | 47 | 6 | 21 | 89% | $1,114,776 | +$93,281 |
 | AV23IUa | 12 | 5 | 22 | 71% | $1,105,129 | +$239,141 |
-| ferrariChampions2026 | 47 | 6 | 19 | 89% | $1,088,961 | +$93,281 |
 | Djdjdjekekek | 0 | 2 | 18 | ⚠️ 0% (2) | $704,439 | -$62,629 |
 | pleaseplease123 | 0 | 12 | 16 | 0% | $700,196 | -$399,165 |
 | Weaseloftheweek | 8 | 2 | 0 | 80% | $607,608 | +$306,346 |
@@ -65,14 +65,19 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | danielwolfmorales3pddb6dl6 | 0 | 2 | 2 | ⚠️ 0% (2) | $54,000 | -$30,000 |
 | jaytee158 | 4 | 0 | 0 | ⚠️ 100% (4) | $53,301 | +$8,697 |
 
-_(mostrando los 40 de mayor monto, de 92 en total)_
+_(mostrando los 40 de mayor monto, de 94 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| DonaldinhoTrumpito | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | No | 1.54 (65¢) | $19,188 | — | ⏳ Pendiente |
+| coali10 | Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? | Yes | 2.86 (35¢) | $10,407 | — | ⏳ Pendiente |
+| DonaldinhoTrumpito | Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election? | Yes | 1.54 (65¢) | $18,281 | — | ⏳ Pendiente |
 | 0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945 | Cincinnati Open, Qualification: Martin Damm vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.20 (83¢) | $11,640 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.18 (85¢) | $15,685 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.18 (85¢) | $15,685 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.18 (85¢) | $10,130 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.18 (85¢) | $10,130 | — | ⏳ Pendiente |
 | Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $57,182 | — | ⏳ Pendiente |
 | Djdjdjekekek | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $57,182 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 92 en total)_
 | purplegatto | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $11,750 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,333 | — | ⏳ Pendiente |
 | mooseborzoi | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $10,547 | — | ⏳ Pendiente |
-| purplegatto | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $11,750 | — | ⏳ Pendiente |
-| pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,333 | — | ⏳ Pendiente |
-| pleaseplease123 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $12,333 | — | ⏳ Pendiente |
-| purplegatto | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $11,750 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $10,701 | — | ⏳ Pendiente |
