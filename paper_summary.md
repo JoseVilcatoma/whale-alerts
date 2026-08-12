@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 18:48:06 (hora de Perú)
+Actualizado: 2026-08-12 18:50:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $637.22
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 67 | 70 | 3 | +104.98 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 87 | 20 | +60.51 USD |
+| 1winstreak1 | 107 | 87 | 21 | +60.51 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 646 | 483 | 24 | -92.14 USD |
+| ferrariChampions2026 | 646 | 483 | 25 | -92.14 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -472,6 +472,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres (BUY) | 92% | 0.93 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Miami Marlins (-2.5) | Pittsburgh Pirates (BUY) | 38% | 0.82 | ⏳ pendiente | — |
 | RN1 | Will Montevideo City Torque win on 2026- | Yes (BUY) | 84% | 2.04 | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 71% | 0.89 | ⏳ pendiente | — |
 | 1winstreak1 | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 49% | 0.97 | ⏳ pendiente | — |
@@ -500,5 +502,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 33% | 0.72 | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 61% | 2.20 | ⏳ pendiente | — |
 | RN1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 67% | 2.02 | ⏳ pendiente | — |
-| RN1 | CA Platense vs. CD Coquimbo Unido: O/U 2 | Under (BUY) | 94% | 2.23 | ⏳ pendiente | — |
-| RN1 | CA Platense vs. CD Coquimbo Unido: O/U 1 | Under (BUY) | 49% | 1.78 | ⏳ pendiente | — |
