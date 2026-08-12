@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 23:03:07 (hora de Perú)
+Actualizado: 2026-08-11 23:05:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $408.49
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 3 | 9 | +46.51 USD |
-| 1winstreak1 | 109 | 88 | 50 | +44.96 USD |
+| 1winstreak1 | 109 | 88 | 51 | +44.96 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | wr0ngw4yb3tt0r | 60 | 68 | 8 | +18.95 USD |
@@ -469,6 +469,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 57% | 5.11 | ⏳ pendiente | — |
 | UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 89% | 0.67 | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: magic vs TheMongolz (BO1 | TheMongolz (BUY) | 54% | 0.57 | ⏳ pendiente | — |
 | UpTheBlues | Tigres de la UANL vs. Vancouver Whitecap | Under (BUY) | 80% | 0.58 | ⏳ pendiente | — |
@@ -498,4 +499,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 68% | 4.17 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. Arizona Diamondback | Over (BUY) | 42% | 4.31 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 58% | 20.68 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Colorado Rockies (BUY) | 87% | 1.58 | ⏳ pendiente | — |
