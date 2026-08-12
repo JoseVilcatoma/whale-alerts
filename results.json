@@ -25774,7 +25774,9 @@
     "side": "BUY",
     "usd": 15960.005599999999,
     "odds_at_bet": 77,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": -5803.64,
+    "precio_salida": 49
   },
   {
     "telegram_msg_id": 1768,
@@ -25995,7 +25997,9 @@
     "side": "BUY",
     "usd": 15960.005599999999,
     "odds_at_bet": 77,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": -5803.64,
+    "precio_salida": 49
   },
   {
     "telegram_msg_id": 1785,
@@ -26047,7 +26051,9 @@
     "side": "BUY",
     "usd": 14151.599000000002,
     "odds_at_bet": 38,
-    "status": "pending"
+    "status": "cerrada_venta",
+    "profit_usd": -5146.04,
+    "precio_salida": 49
   },
   {
     "telegram_msg_id": 1789,
