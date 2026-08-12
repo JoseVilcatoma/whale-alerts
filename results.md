@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 09:44:34 (hora de Perú)
+Actualizado: 2026-08-12 09:46:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1323**  ($29,822,275 en total)
+- Apuestas registradas: **1326**  ($29,856,214 en total)
 - Resueltas: **938** — 566 ganadas / 372 perdidas (**60%** de acierto)
-- Pendientes: 385
+- Pendientes: 388
 - Apostadores distintos: 123
 
 ### Balance
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ohehe | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.61 (62¢) | $11,761 | — | ⏳ Pendiente |
+| ohehe | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.61 (62¢) | $11,274 | — | ⏳ Pendiente |
+| ohehe | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.67 (60¢) | $10,905 | — | ⏳ Pendiente |
 | Lakersfan111 | Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C | Vitality | 1.30 (77¢) | $11,550 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $46,286 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C | PARIVISION | 1.64 (61¢) | $46,286 | — | ⏳ Pendiente |
@@ -127,7 +130,4 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | GreenBerry1337 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.33 (75¢) | $14,559 | — | ⏳ Pendiente |
 | GreenBerry1337 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.33 (75¢) | $14,559 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.85 (26¢) | $12,812 | — | ⏳ Pendiente |
-| CongoleseBorat | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.37 (73¢) | $12,420 | +$340 | 💰 Vendida antes |
-| Djdjdjekekek | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | K27 | 3.85 (26¢) | $12,812 | — | ⏳ Pendiente |
-| CongoleseBorat | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.37 (73¢) | $12,420 | — | ⏳ Pendiente |
 | CongoleseBorat | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.37 (73¢) | $12,420 | +$340 | 💰 Vendida antes |
