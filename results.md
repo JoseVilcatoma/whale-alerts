@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 15:59:05 (hora de Perú)
+Actualizado: 2026-08-12 16:01:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1921**  ($52,308,947 en total)
+- Apuestas registradas: **1924**  ($52,352,662 en total)
 - Resueltas: **1349** — 804 ganadas / 545 perdidas (**60%** de acierto)
-- Pendientes: 572
+- Pendientes: 575
 - Apostadores distintos: 171
 
 ### Balance
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 49 | 43% | $8,753,679 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 50 | 43% | $8,769,375 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 14 | 35% | $2,916,482 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 46 | 77% | $2,586,796 | +$168,085 |
-| pleaseplease123 | 0 | 44 | 26 | 0% | $2,051,023 | -$1,082,423 |
+| pleaseplease123 | 0 | 44 | 27 | 0% | $2,067,863 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 21 | 58% | $2,012,237 | +$171,257 |
 | Weaseloftheweek | 19 | 2 | 0 | 90% | $1,747,031 | +$872,236 |
 | BreakTheBank | 0 | 12 | 8 | 0% | $1,483,516 | -$803,506 |
@@ -73,6 +73,9 @@ _(mostrando los 40 de mayor monto, de 171 en total)_
 |---|---|---|---|---|---|---|
 | pleaseplease123 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $70,400 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 2.13 (47¢) | $23,500 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will SE Palmeiras win on 2026-08-12? | Yes | 1.35 (74¢) | $15,696 | — | ⏳ Pendiente |
+| pleaseplease123 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.17 (46¢) | $16,840 | — | ⏳ Pendiente |
+| DonaldinhoTrumpito | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.47 (68¢) | $11,179 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $29,668 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Washington Nationals: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $29,668 | — | ⏳ Pendiente |
 | 1winstreak1 | Houston Astros vs. San Francisco Giants | San Francisco Giants | 1.59 (63¢) | $17,622 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 171 en total)_
 | ferrariChampions2026 | Philadelphia Phillies vs. St. Louis Cardinals | St. Louis Cardinals | 1.14 (88¢) | $16,117 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks | Colorado Rockies | 2.63 (38¢) | $19,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks | Colorado Rockies | 2.63 (38¢) | $19,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Arizona Diamondbacks: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $23,500 | — | ⏳ Pendiente |
