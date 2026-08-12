@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 21:50:01 (hora de Perú)
+Actualizado: 2026-08-11 21:52:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $427.34
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 2 | 9 | 1 | +15.06 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| UpTheBlues | 242 | 150 | 13 | +4.48 USD |
+| UpTheBlues | 242 | 150 | 14 | +4.48 USD |
 | HomeRunHazard | 104 | 92 | 15 | +4.38 USD |
 | Sassy-Bucket | 7 | 6 | 2 | +3.19 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 167 | 112 | 21 | -28.34 USD |
+| swisstony | 167 | 112 | 22 | -28.34 USD |
 | quavoo | 152 | 186 | 33 | -33.89 USD |
 | RN1 | 199 | 111 | 6 | -38.43 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -376,6 +376,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-hle1-dnf-2026-08-11 | BBQChickenisthebesttt, BrotherObama, Lakersfan111, ferrariChampions2026 |
 | lol-nsea-dkc-2026-08-11 | BBQChickenisthebesttt, Lakersfan111 |
 | ucl-sf-agf-2026-08-11-agf | UpTheBlues, dv-pm, swisstony |
+| wnba-phx-la-2026-08-11-total-178pt5 | HomeRunHazard, swisstony |
 | lol-hle1-dnf-2026-08-11-game3 | BrotherObama, lzh1 |
 | lol-nsea-dkc-2026-08-11-game2 | BBQChickenisthebesttt, lzh1 |
 | mlb-bos-tor-2026-08-11-total-7pt5 | HomeRunHazard, Sassy-Bucket |
@@ -455,6 +456,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 35% | 0.64 | ⏳ pendiente | — |
+| UpTheBlues | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 94% | 3.24 | ⏳ pendiente | — |
 | UpTheBlues | Will Real Salt Lake win on 2026-08-11? | Yes (BUY) | 73% | 5.28 | ⏳ pendiente | — |
 | UpTheBlues | Will Real Salt Lake win on 2026-08-11? | Yes (BUY) | 73% | 1.90 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Kansas City Royals (BUY) | 38% | 2.87 | ⏳ pendiente | — |
@@ -483,5 +486,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Las Vegas Aces (-8.5) | Washington Mystics (BUY) | 55% | 0.55 | ⏳ pendiente | — |
 | quavoo | Counter-Strike: BIG vs Aurora Gaming (BO | BIG (BUY) | 39% | 1.30 | ⏳ pendiente | — |
 | RN1 | Tampa Bay Rays vs. Athletics: O/U 10.5 | Over (BUY) | 47% | 0.51 | ⏳ pendiente | — |
-| swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Over (BUY) | 55% | 0.51 | ⏳ pendiente | — |
-| RN1 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 62% | 1.81 | ⏳ pendiente | — |
