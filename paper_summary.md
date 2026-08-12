@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 20:53:42 (hora de Perú)
+Actualizado: 2026-08-11 20:56:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $308.86
-**Retorno acumulado:** -69.11%
+**Bankroll actual:** $302.54
+**Retorno acumulado:** -69.75%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,14 +20,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 3 | 3 | 0 | +46.51 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | theowalcott | 7 | 4 | 10 | +25.74 USD |
-| wr0ngw4yb3tt0r | 55 | 62 | 17 | +21.11 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 2 | 6 | 4 | +17.41 USD |
+| wr0ngw4yb3tt0r | 56 | 68 | 10 | +17.35 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| HomeRunHazard | 96 | 86 | 29 | +5.74 USD |
 | Sassy-Bucket | 3 | 6 | 6 | +3.19 USD |
+| HomeRunHazard | 96 | 88 | 27 | +2.87 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 125 | 102 | 56 | -28.98 USD |
 | RN1 | 175 | 100 | 38 | -33.33 USD |
-| quavoo | 151 | 184 | 32 | -34.20 USD |
+| quavoo | 152 | 185 | 30 | -33.89 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -460,7 +460,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | Real Salt Lake vs. FC Juárez: Both Teams | Yes (BUY) | 64% | 0.45 | ⏳ pendiente | — |
 | quavoo | Will Tigres de la UANL win on 2026-08-11 | Yes (BUY) | 71% | 0.52 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 53% | 1.51 | ⏳ pendiente | — |
-| HomeRunHazard | New York Liberty vs. Indiana Fever | New York Liberty (BUY) | 41% | 0.52 | ⏳ pendiente | — |
+| HomeRunHazard | New York Liberty vs. Indiana Fever | New York Liberty (BUY) | 41% | 0.52 | ❌ perdida | -0.52 |
 | RN1 | Will Club Bolívar win on 2026-08-11? | Yes (BUY) | 52% | 1.48 | ⏳ pendiente | — |
 | swisstony | Fluminense FC vs. CS Independiente Rivad | Under (BUY) | 96% | 0.00 | ⏳ pendiente | — |
 | RN1 | Will Fluminense FC win on 2026-08-11? | Yes (BUY) | 36% | 0.00 | ⏳ pendiente | — |

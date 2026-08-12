@@ -1,5 +1,5 @@
 {
-  "bankroll": 308.857487006328,
+  "bankroll": 302.53833494301534,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -16710,6 +16710,61 @@
       "timestamp": 1786499442.4410098,
       "bankroll": 308.86,
       "event": "won: swisstony \u2014 Spread: Detroit Tigers (-1.5)"
+    },
+    {
+      "timestamp": 1786499722.4124444,
+      "bankroll": 310.8,
+      "event": "won: wr0ngw4yb3tt0r \u2014 O/U 1.5 Rounds"
+    },
+    {
+      "timestamp": 1786499724.796734,
+      "bankroll": 310.8,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Indiana Fever (-3.5)"
+    },
+    {
+      "timestamp": 1786499724.896942,
+      "bankroll": 310.8,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Indiana Fever (-3.5)"
+    },
+    {
+      "timestamp": 1786499725.6232464,
+      "bankroll": 310.8,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 New York Liberty vs. Indiana Fever: O/U 192.5"
+    },
+    {
+      "timestamp": 1786499726.7224767,
+      "bankroll": 310.8,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 New York Liberty vs. Indiana Fever: O/U 192.5"
+    },
+    {
+      "timestamp": 1786499728.459275,
+      "bankroll": 308.45,
+      "event": "lost: HomeRunHazard \u2014 New York Liberty vs. Indiana Fever: O/U 192.5"
+    },
+    {
+      "timestamp": 1786499730.8240302,
+      "bankroll": 303.69,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Indiana Fever (-2.5)"
+    },
+    {
+      "timestamp": 1786499731.4886749,
+      "bankroll": 302.75,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 New York Liberty vs. Indiana Fever: O/U 190.5"
+    },
+    {
+      "timestamp": 1786499738.4863455,
+      "bankroll": 302.21,
+      "event": "lost: quavoo \u2014 Spread: Indiana Fever (-3.5)"
+    },
+    {
+      "timestamp": 1786499739.217219,
+      "bankroll": 303.06,
+      "event": "won: quavoo \u2014 New York Liberty vs. Indiana Fever"
+    },
+    {
+      "timestamp": 1786499761.999707,
+      "bankroll": 302.54,
+      "event": "lost: HomeRunHazard \u2014 New York Liberty vs. Indiana Fever"
     }
   ]
 }
