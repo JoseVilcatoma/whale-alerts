@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 18:02:46 (hora de Perú)
+Actualizado: 2026-08-12 18:05:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2021**  ($54,481,959 en total)
+- Apuestas registradas: **2024**  ($54,565,761 en total)
 - Resueltas: **1353** — 804 ganadas / 549 perdidas (**59%** de acierto)
-- Pendientes: 668
+- Pendientes: 671
 - Apostadores distintos: 177
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 55 | 43% | $8,889,723 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 26 | 35% | $3,288,872 | -$564,452 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 27 | 35% | $3,314,382 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 48 | 77% | $2,620,749 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 34 | 0% | $2,283,534 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
@@ -53,11 +53,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | bigspending | 0 | 0 | 5 | — | $333,212 | — |
+| mikesports | 7 | 8 | 4 | 47% | $324,717 | -$88,869 |
 | johnny234 | 4 | 11 | 8 | 27% | $317,917 | -$101,100 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | fRibrenlc | 9 | 7 | 7 | 56% | $305,328 | +$15,968 |
 | casualbet2020 | 0 | 0 | 6 | — | $304,949 | — |
-| mikesports | 7 | 8 | 3 | 47% | $295,331 | -$88,869 |
 | basementdweller3000 | 6 | 3 | 6 | 67% | $282,034 | +$34,747 |
 | highnetworth | 0 | 0 | 6 | — | $268,224 | — |
 | five5120 | 7 | 9 | 2 | 44% | $266,115 | -$84,525 |
@@ -77,6 +77,9 @@ _(mostrando los 40 de mayor monto, de 177 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $38,250 | — | ⏳ Pendiente |
 | justbusiness1 | Will CF Monterrey win on 2026-08-12? | Yes | 2.04 (49¢) | $28,905 | — | ⏳ Pendiente |
 | mikesports | Will CF Monterrey win on 2026-08-12? | No | 1.96 (51¢) | $29,386 | — | ⏳ Pendiente |
+| justbusiness1 | Will CF Monterrey win on 2026-08-12? | Yes | 2.04 (49¢) | $28,905 | — | ⏳ Pendiente |
+| mikesports | Will CF Monterrey win on 2026-08-12? | No | 1.96 (51¢) | $29,386 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.79 (56¢) | $25,511 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.79 (56¢) | $25,511 | — | ⏳ Pendiente |
 | mikesports | Will CF Monterrey win on 2026-08-12? | No | 1.96 (51¢) | $11,038 | — | ⏳ Pendiente |
 | theowalcott | Will CF Monterrey win on 2026-08-12? | Yes | 2.04 (49¢) | $10,556 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 177 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.82 (55¢) | $33,228 | — | ⏳ Pendiente |
 | Satisfied | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 2.22 (45¢) | $15,000 | — | ⏳ Pendiente |
 | Satisfied | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 2.22 (45¢) | $15,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.82 (55¢) | $33,228 | — | ⏳ Pendiente |
-| pleaseplease123 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 2.17 (46¢) | $14,302 | — | ⏳ Pendiente |
-| johnny234 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 1.85 (54¢) | $16,789 | — | ⏳ Pendiente |
