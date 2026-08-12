@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 15:26:26 (hora de Perú)
+Actualizado: 2026-08-12 15:28:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $558.72
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
 | dv-pm | 4 | 5 | 2 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| 1winstreak1 | 107 | 88 | 50 | +59.32 USD |
+| 1winstreak1 | 107 | 88 | 54 | +59.32 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | wr0ngw4yb3tt0r | 65 | 69 | 3 | +23.18 USD |
@@ -456,6 +456,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 31% | 1.36 | ⏳ pendiente | — |
+| 1winstreak1 | Houston Astros vs. San Francisco Giants: | Under (BUY) | 54% | 9.69 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Colorado Rockies (BUY) | 80% | 2.71 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Colorado Rockies (-2.5) | Colorado Rockies (BUY) | 39% | 0.93 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. St. Louis Card | Under (BUY) | 63% | 0.68 | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 58% | 2.61 | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 97% | 4.82 | ⏳ pendiente | — |
@@ -482,7 +486,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Tampa Bay Rays vs. Athletics: O/U 8.5 | Over (BUY) | 64% | 1.80 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Tampa Bay Rays (-3.5) | Athletics (BUY) | 47% | 0.76 | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 35% | 9.07 | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 60% | 1.25 | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 72% | 3.41 | ⏳ pendiente | — |
-| 1winstreak1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 31% | 2.08 | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Minnesota Twins: O | Under (BUY) | 30% | 2.24 | ⏳ pendiente | — |
