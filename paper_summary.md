@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 17:25:20 (hora de Perú)
+Actualizado: 2026-08-12 17:27:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $504.42
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 3 | 9 | 2 | +15.41 USD |
-| HomeRunHazard | 116 | 99 | 10 | +12.27 USD |
+| HomeRunHazard | 116 | 99 | 11 | +12.27 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -461,6 +461,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Colorado Rockies (-1.5) | Colorado Rockies (BUY) | 68% | 0.91 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres (BUY) | 68% | 0.00 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 31% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 74% | 0.00 | ⏳ pendiente | — |
@@ -490,4 +491,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 47.71 | ⏳ pendiente | — |
 | WTSA | SE Palmeiras vs. Club Cerro Porteño: O/U | Over (BUY) | 47% | 1.26 | ⏳ pendiente | — |
 | theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 1.14 | ⏳ pendiente | — |
-| theowalcott | Will CA Tigre win on 2026-08-12? | No (BUY) | 49% | 0.00 | ⏳ pendiente | — |
