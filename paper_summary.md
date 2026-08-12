@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 06:52:42 (hora de Perú)
+Actualizado: 2026-08-12 06:54:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $451.26
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 29 | 16 | 4 | +189.61 USD |
+| BBQChickenisthebesttt | 29 | 16 | 6 | +189.61 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | dv-pm | 4 | 5 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -450,6 +450,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 18% | 1.39 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 2 Wi | KT Rolster (BUY) | 36% | 67.57 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 16% | 8.26 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO3) - LCK | KT Rolster (BUY) | 16% | 62.31 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: EDward Gaming vs Anyone's Legend (B | Anyone's Legend (BUY) | 69% | 108.72 | ⏳ pendiente | — |
@@ -478,5 +480,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Phoenix Mercury vs. Los Angeles Sparks:  | Under (BUY) | 62% | 0.63 | ✅ ganada | +0.39 |
 | RN1 | Colorado Rockies vs. Arizona Diamondback | Under (BUY) | 54% | 0.54 | ✅ ganada | +0.46 |
 | ferrariChampions2026 | Real Salt Lake vs. FC Juárez: O/U 2.5 | Over (BUY) | 62% | 0.58 | ✅ ganada | +0.36 |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Over (BUY) | 52% | 3.81 | ✅ ganada | +3.52 |
-| ferrariChampions2026 | Spread: Las Vegas Aces (-7.5) | Washington Mystics (BUY) | 52% | 0.55 | ❌ perdida | -0.55 |
