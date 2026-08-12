@@ -25477,5 +25477,18 @@
     "usd": 46563.0302,
     "odds_at_bet": 67,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1745,
+    "timestamp": 1786572244,
+    "username": "Feromont",
+    "wallet": "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3",
+    "slug": "mlb-nym-atl-2026-08-12",
+    "title": "New York Mets vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 11000.0,
+    "odds_at_bet": 64,
+    "status": "pending"
   }
 ]
