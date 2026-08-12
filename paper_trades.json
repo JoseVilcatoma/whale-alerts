@@ -80242,5 +80242,70 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786529421.5043972,
     "fills": 4
+  },
+  {
+    "timestamp": 1786529462,
+    "timestamp_added": 1786529462.879567,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "auc-bjf-plf-2026-08-12-bjf",
+    "title": "Will Brunswick Juventus FC win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 96.0,
+    "whale_pct": 0.151,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786529462.8795753,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786529487,
+    "timestamp_added": 1786529487.513979,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnf-ns-2026-08-12",
+    "title": "LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "whale_usd": 577.7442,
+    "whale_pct": 0.158,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 22,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BBQChickenisthebesttt",
+      "BrotherObama"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786529487.5139866,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786529556,
+    "timestamp_added": 1786529556.7144377,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "wnba-chi-gsv-2026-08-12-total-166pt5",
+    "title": "Chicago Sky vs. Golden State Valkyries: O/U 166.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 67.32000000000001,
+    "whale_pct": 0.106,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786529556.7144456,
+    "fills": 1
   }
 ]
