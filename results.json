@@ -13282,5 +13282,18 @@
     "usd": 12800.0,
     "odds_at_bet": 64,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 838,
+    "timestamp": 1786535810,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-mgc-mglz-2026-08-12",
+    "title": "Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D",
+    "outcome": "magic",
+    "side": "BUY",
+    "usd": 10352.314800000002,
+    "odds_at_bet": 47,
+    "status": "pending"
   }
 ]
