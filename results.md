@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 05:53:03 (hora de Perú)
+Actualizado: 2026-08-12 05:55:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **961**  ($19,775,093 en total)
+- Apuestas registradas: **962**  ($19,785,233 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 172
+- Pendientes: 173
 - Apostadores distintos: 104
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 104 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SineNooneEI | Counter-Strike: Natus Vincere vs 3DMAX (BO1) - Esports World Cup Group D | Natus Vincere | 1.28 (78¢) | $10,140 | — | ⏳ Pendiente |
 | five5120 | LoL: EDward Gaming vs Anyone's Legend - Game 2 Winner | Anyone's Legend | 1.09 (92¢) | $10,400 | — | ⏳ Pendiente |
 | xfile | Will Paris Saint-Germain win on 2026-08-12? | No | 2.33 (43¢) | $12,900 | — | ⏳ Pendiente |
 | Weaseloftheweek | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.75 (57¢) | $47,307 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 104 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 2.44 (41¢) | $13,328 | -$13,328 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.69 (59¢) | $17,326 | +$12,040 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Dodgers | Kansas City Royals | 2.44 (41¢) | $13,328 | -$13,328 | ❌ Perdida |
-| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.69 (59¢) | $17,326 | +$12,040 | ✅ Ganada |
