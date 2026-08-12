@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 04:52:44 (hora de Perú)
+Actualizado: 2026-08-12 04:54:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **941**  ($19,407,438 en total)
+- Apuestas registradas: **945**  ($19,514,112 en total)
 - Resueltas: **789** — 485 ganadas / 304 perdidas (**61%** de acierto)
-- Pendientes: 152
+- Pendientes: 156
 - Apostadores distintos: 100
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 41 | 0 | 41% | $1,811,081 | -$218,949 |
-| AV23IUa | 23 | 11 | 25 | 68% | $1,566,763 | +$348,929 |
+| AV23IUa | 23 | 11 | 26 | 68% | $1,584,272 | +$348,929 |
 | ferrariChampions2026 | 79 | 25 | 2 | 76% | $1,555,768 | +$58,976 |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 44 | 12 | 28% | $1,456,503 | -$743,370 |
 | Djdjdjekekek | 27 | 3 | 5 | 90% | $1,145,391 | +$494,952 |
@@ -47,13 +47,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 11 | 0 | 8% | $162,341 | -$89,190 |
 | winwin518168 | 0 | 10 | 0 | 0% | $160,808 | -$160,808 |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,408 | +$115,433 |
+| ThornyDevil | 2 | 0 | 4 | ⚠️ 100% (2) | $158,751 | +$14,240 |
 | fRibrenlc | 8 | 4 | 0 | 67% | $156,073 | +$36,412 |
 | ...............................lala | 3 | 6 | 0 | 33% | $148,465 | -$64,383 |
 | RN1 | 7 | 4 | 0 | 64% | $144,192 | +$24,012 |
 | 0x076d…8d4c | 7 | 0 | 3 | ⚠️ 100% (7) | $137,506 | +$37,453 |
 | johnny234 | 3 | 3 | 3 | ⚠️ 50% (6) | $137,332 | -$7,214 |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | 0 | 0 | 9 | — | $131,316 | — |
-| ThornyDevil | 2 | 0 | 3 | ⚠️ 100% (2) | $117,490 | +$14,240 |
 | DonaldinhoTrumpito | 0 | 0 | 6 | — | $112,406 | — |
 | ExplosiveNinja | 0 | 0 | 9 | — | $109,231 | — |
 | kibanachi | 6 | 0 | 0 | ⚠️ 100% (6) | $107,419 | +$18,026 |
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | phonesculptor | 0 | 8 | 0 | 0% | $91,088 | -$91,088 |
 | AGUGava | 5 | 2 | 0 | ⚠️ 71% (7) | $88,581 | +$26,063 |
 | paquitomillonario | 0 | 6 | 0 | ⚠️ 0% (6) | $83,776 | -$83,776 |
+| Marcoli | 2 | 0 | 2 | ⚠️ 100% (2) | $81,211 | +$28,966 |
 | BaccaratRoulette | 0 | 3 | 0 | ⚠️ 0% (3) | $81,180 | -$81,180 |
-| danielwolfmorales3pddb6dl6 | 0 | 6 | 0 | ⚠️ 0% (6) | $81,000 | -$81,000 |
 
 _(mostrando los 40 de mayor monto, de 100 en total)_
 
@@ -71,9 +71,13 @@ _(mostrando los 40 de mayor monto, de 100 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A | Spirit | 1.12 (89¢) | $17,509 | — | ⏳ Pendiente |
+| Marcoli | Astana: Fajing Sun vs Semen Pankin | Fajing Sun | 1.61 (62¢) | $30,000 | — | ⏳ Pendiente |
+| five5120 | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.75 (57¢) | $17,904 | — | ⏳ Pendiente |
 | five5120 | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.75 (57¢) | $17,904 | — | ⏳ Pendiente |
 | NemecGhudini | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | DN SOOPers | 2.44 (41¢) | $14,350 | — | ⏳ Pendiente |
 | ThornyDevil | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.69 (59¢) | $42,983 | — | ⏳ Pendiente |
+| ThornyDevil | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.75 (57¢) | $41,261 | — | ⏳ Pendiente |
 | ThornyDevil | LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | Nongshim Red Force | 1.75 (57¢) | $41,261 | — | ⏳ Pendiente |
 | GRINGOMATE | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.72 (58¢) | $12,841 | — | ⏳ Pendiente |
 | GRINGOMATE | Counter-Strike: NIP vs Legacy (BO1) - Esports World Cup Group B | Legacy | 1.72 (58¢) | $12,841 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 100 en total)_
 | AV23IUa | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.92 (52¢) | $10,400 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B | FaZe | 1.92 (52¢) | $10,400 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.45 (69¢) | $13,800 | — | ⏳ Pendiente |
-| AV23IUa | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.45 (69¢) | $13,800 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.25 (80¢) | $14,034 | +$3,509 | ✅ Ganada |
-| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.25 (80¢) | $14,034 | +$3,509 | ✅ Ganada |
-| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 1.25 (80¢) | $14,034 | +$3,509 | ✅ Ganada |
