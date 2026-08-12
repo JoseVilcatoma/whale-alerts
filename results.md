@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 07:58:12 (hora de Perú)
+Actualizado: 2026-08-12 08:00:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1052**  ($22,171,718 en total)
+- Apuestas registradas: **1055**  ($22,212,703 en total)
 - Resueltas: **792** — 488 ganadas / 304 perdidas (**62%** de acierto)
-- Pendientes: 260
+- Pendientes: 263
 - Apostadores distintos: 116
 
 ### Balance
@@ -40,8 +40,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
 | theowalcott | 21 | 0 | 0 | 100% | $318,833 | +$226,502 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
+| Lakersfan111 | 1 | 0 | 13 | ⚠️ 100% (1) | $239,451 | +$9,167 |
 | umeax | 0 | 0 | 2 | — | $234,739 | — |
-| Lakersfan111 | 1 | 0 | 11 | ⚠️ 100% (1) | $212,351 | +$9,167 |
 | mikesports | 3 | 3 | 7 | ⚠️ 50% (6) | $211,470 | -$24,073 |
 | wr0ngw4yb3tt0r | 7 | 6 | 0 | 54% | $209,577 | -$12,560 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 0 | 7 | ⚠️ 100% (2) | $202,447 | +$8,887 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 116 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| spnir | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.30 (77¢) | $13,885 | — | ⏳ Pendiente |
+| Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.30 (77¢) | $15,400 | — | ⏳ Pendiente |
+| Lakersfan111 | Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B | Team Falcons | 1.28 (78¢) | $11,700 | — | ⏳ Pendiente |
 | 467j6yj | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.06 (94¢) | $21,242 | — | ⏳ Pendiente |
 | Djdjdjekekek | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | M80 | 2.86 (35¢) | $47,559 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A | G2 | 1.54 (65¢) | $88,454 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 116 en total)_
 | Weaseloftheweek | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.75 (57¢) | $150,464 | — | ⏳ Pendiente |
 | umeax | Will Paris Saint-Germain win on 2026-08-12? | No | 2.33 (43¢) | $117,370 | — | ⏳ Pendiente |
 | Weaseloftheweek | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.75 (57¢) | $150,464 | — | ⏳ Pendiente |
-| 88M | Will Paris Saint-Germain win on 2026-08-12? | Yes | 1.72 (58¢) | $11,849 | — | ⏳ Pendiente |
-| CORGI8 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | TheMongolz | 1.82 (55¢) | $15,192 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D | magic | 2.22 (45¢) | $12,430 | — | ⏳ Pendiente |

@@ -13702,5 +13702,44 @@
     "usd": 21241.729499999998,
     "odds_at_bet": 94,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 871,
+    "timestamp": 1786539566,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 11700.0,
+    "odds_at_bet": 78,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 872,
+    "timestamp": 1786539581,
+    "username": "spnir",
+    "wallet": "0xde8255bfde4de8ceefc7658462234da51ef8705d",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 13885.2329,
+    "odds_at_bet": 77,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 873,
+    "timestamp": 1786539581,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-fal2-k271-2026-08-12",
+    "title": "Counter-Strike: Team Falcons vs K27 (BO1) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 15400.0,
+    "odds_at_bet": 77,
+    "status": "pending"
   }
 ]
