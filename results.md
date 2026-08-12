@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-11 19:49:37 (hora de Perú)
+Actualizado: 2026-08-11 19:53:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **260**  ($5,498,418 en total)
+- Apuestas registradas: **264**  ($5,582,239 en total)
 - Resueltas: **114** — 91 ganadas / 23 perdidas (**80%** de acierto)
-- Pendientes: 146
-- Apostadores distintos: 83
+- Pendientes: 150
+- Apostadores distintos: 84
 
 ### Balance
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 16 | 38% | $584,998 | -$139,198 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 5 | 8 | 17 | 38% | $596,768 | -$139,198 |
 | ferrariChampions2026 | 23 | 0 | 9 | 100% | $481,826 | +$57,935 |
-| AV23IUa | 4 | 0 | 10 | ⚠️ 100% (4) | $416,230 | +$109,102 |
+| AV23IUa | 4 | 0 | 12 | ⚠️ 100% (4) | $471,131 | +$109,102 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 19 | 0 | 0 | 100% | $415,077 | +$195,517 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 11 | — | $347,753 | — |
 | Weaseloftheweek | 3 | 1 | 1 | ⚠️ 75% (4) | $303,804 | +$7,132 |
@@ -65,12 +65,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 0 | 2 | — | $23,866 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $23,121 | — |
 
-_(mostrando los 40 de mayor monto, de 83 en total)_
+_(mostrando los 40 de mayor monto, de 84 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Marcos Giron | 1.47 (68¢) | $37,902 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha | Henrique Rocha | 3.12 (32¢) | $11,770 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open, Qualification: Mackenzie McDonald vs Yibing Wu | Mackenzie McDonald | 1.92 (52¢) | $17,000 | — | ⏳ Pendiente |
+| KioskJammer | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 2.04 (49¢) | $17,150 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Texas Rangers (-1.5) | Texas Rangers | 2.17 (46¢) | $11,167 | — | ⏳ Pendiente |
 | Elaran1993 | Spread: Texas Rangers (-1.5) | Los Angeles Angels | 1.85 (54¢) | $13,110 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Texas Rangers (-1.5) | Texas Rangers | 2.17 (46¢) | $11,167 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 83 en total)_
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $22,040 | — | ⏳ Pendiente |
 | mikesports | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $18,774 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.72 (58¢) | $11,600 | — | ⏳ Pendiente |
-| xifutloong3 | Pittsburgh Pirates vs. Miami Marlins | Miami Marlins | 1.82 (55¢) | $27,441 | — | ⏳ Pendiente |
-| ferrariChampions2026 | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.11 (90¢) | $10,397 | +$1,155 | ✅ Ganada |
-| ferrariChampions2026 | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.11 (90¢) | $10,397 | +$1,155 | ✅ Ganada |
-| ferrariChampions2026 | National Bank Open: Jakub Mensik vs Ben Shelton | Ben Shelton | 1.15 (87¢) | $10,051 | +$1,502 | ✅ Ganada |

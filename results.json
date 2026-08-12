@@ -3384,5 +3384,57 @@
     "usd": 13109.568259860001,
     "odds_at_bet": 54,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 153,
+    "timestamp": 1786495854,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-mcdonal-wu-2026-08-11",
+    "title": "Cincinnati Open, Qualification: Mackenzie McDonald vs Yibing Wu",
+    "outcome": "Mackenzie McDonald",
+    "side": "BUY",
+    "usd": 16999.999999,
+    "odds_at_bet": 52,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 154,
+    "timestamp": 1786495879,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-giron-rocha-2026-08-11",
+    "title": "Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha",
+    "outcome": "Henrique Rocha",
+    "side": "BUY",
+    "usd": 11769.9328,
+    "odds_at_bet": 32,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 155,
+    "timestamp": 1786495880,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-giron-rocha-2026-08-11",
+    "title": "Cincinnati Open, Qualification: Marcos Giron vs Henrique Rocha",
+    "outcome": "Marcos Giron",
+    "side": "BUY",
+    "usd": 37901.6768,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 156,
+    "timestamp": 1786495650,
+    "username": "KioskJammer",
+    "wallet": "0x0e64bde21d716711fbe59095eb0c88fae55e336d",
+    "slug": "mlb-bos-tor-2026-08-11",
+    "title": "Boston Red Sox vs. Toronto Blue Jays",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 17150.0,
+    "odds_at_bet": 49,
+    "status": "pending"
   }
 ]
