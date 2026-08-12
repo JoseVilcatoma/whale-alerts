@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-11 23:30:14 (hora de Perú)
+Actualizado: 2026-08-11 23:32:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $409.96
-**Retorno acumulado:** -59.00%
+**Bankroll actual:** $392.38
+**Retorno acumulado:** -60.76%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -18,15 +18,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | 3 | 5 | 1 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 3 | 10 | +46.51 USD |
-| 1winstreak1 | 109 | 88 | 53 | +44.96 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
+| 1winstreak1 | 109 | 94 | 47 | +23.11 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
-| wr0ngw4yb3tt0r | 60 | 68 | 8 | +18.95 USD |
+| wr0ngw4yb3tt0r | 61 | 69 | 6 | +20.22 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 3 | 9 | 0 | +15.41 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| HomeRunHazard | 106 | 92 | 13 | +6.54 USD |
+| HomeRunHazard | 108 | 95 | 8 | +6.69 USD |
 | UpTheBlues | 242 | 150 | 38 | +4.48 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | Sassy-Bucket | 7 | 8 | 0 | +2.15 USD |
@@ -46,14 +46,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 172 | 114 | 38 | -27.08 USD |
+| swisstony | 177 | 117 | 30 | -23.67 USD |
 | quavoo | 153 | 186 | 33 | -33.89 USD |
 | RN1 | 201 | 111 | 6 | -36.74 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 635 | 474 | 20 | -101.74 USD |
+| ferrariChampions2026 | 635 | 475 | 19 | -102.29 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | Djdjdjekekek | 5 | 12 | 0 | -116.01 USD |
 | BrotherObama | 7 | 17 | 0 | -121.31 USD |
