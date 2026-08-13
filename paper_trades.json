@@ -2958,5 +2958,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786643301.87553,
     "fills": 1
+  },
+  {
+    "timestamp": 1786643450,
+    "timestamp_added": 1786643450.8475158,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "uel-bes-hra-2026-08-13-spread-home-2pt5",
+    "title": "Spread: Be\u015fikta\u015f JK (-2.5)",
+    "outcome": "FC Hradec Kr\u00e1lov\u00e9",
+    "side": "BUY",
+    "whale_usd": 716.112,
+    "whale_pct": 0.123,
+    "whale_value_at_open": 583600.8825,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786643450.847523,
+    "fills": 1
   }
 ]
