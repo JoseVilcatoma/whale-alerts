@@ -1,5 +1,5 @@
 {
-  "bankroll": 1017.3053994955524,
+  "bankroll": 1017.8849449500979,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -470,6 +470,16 @@
       "timestamp": 1786653000.510741,
       "bankroll": 1017.31,
       "event": "won: ferrariChampions2026 \u2014 LoL: Skillcamp Esport vs Karmine Corp Blue (BO3) - LFL Playoffs"
+    },
+    {
+      "timestamp": 1786653122.9780247,
+      "bankroll": 1017.64,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Dark Passage vs BoostGate Esports (BO3) - TCL Play-Ins"
+    },
+    {
+      "timestamp": 1786653123.178407,
+      "bankroll": 1017.88,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Dark Passage vs BoostGate Esports (BO3) - TCL Play-Ins"
     }
   ]
 }
