@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 17:48:03 (hora de Perú)
+Actualizado: 2026-08-13 17:50:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,112.96
@@ -17,12 +17,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
 | swisstony | 28 | 9 | 13 | +21.16 USD |
-| ferrariChampions2026 | 47 | 37 | 40 | +13.84 USD |
+| ferrariChampions2026 | 47 | 37 | 42 | +13.84 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| RN1 | 17 | 17 | 50 | +2.60 USD |
+| RN1 | 17 | 17 | 52 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
-| theowalcott | 0 | 0 | 9 | +0.00 USD |
+| theowalcott | 0 | 0 | 10 | +0.00 USD |
 | cigarettes | 0 | 0 | 2 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 4 | 8 | -3.07 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
@@ -71,6 +71,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Mirassol FC vs. LDU de Quito: O/U 2.5 | Over (BUY) | 40% | 0.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Will CR Vasco da Gama win on 2026-08-13? | No (BUY) | 45% | 0.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will Santos FC win on 2026-08-13? | No (BUY) | 38% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CR Vasco da Gama win on 2026-08-13? | No (BUY) | 46% | 0.00 | 0.3% | ⏳ pendiente | — |
+| theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 43% | 3.39 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will Santos FC win on 2026-08-13? | No (BUY) | 42% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Santos FC vs. CSyD Macará: O/U 3.5 | Over (BUY) | 44% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Santos FC win on 2026-08-13? | No (BUY) | 42% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -96,8 +101,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will CR Vasco da Gama win on 2026-08-13? | Yes (BUY) | 60% | 0.00 | 0.2% | ⏳ pendiente | — |
 | theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 43% | 74.66 | 8.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CR Vasco da Gama win on 2026-08-13? | No (BUY) | 40% | 1.21 | 0.1% | ⏳ pendiente | — |
-| RN1 | Will Mirassol FC win on 2026-08-13? | Yes (BUY) | 69% | 1.75 | 0.2% | ⏳ pendiente | — |
-| theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 41% | 115.72 | 10.3% | ⏳ pendiente | — |
-| RN1 | Santos FC vs. CSyD Macará: 1st Half O/U  | Under (BUY) | 63% | 2.04 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CSyD Macará win on 2026-08-13? | No (BUY) | 70% | 1.25 | 0.1% | ⏳ pendiente | — |
-| RN1 | Will Santos FC win on 2026-08-13? | Yes (BUY) | 40% | 7.12 | 0.6% | ⏳ pendiente | — |
