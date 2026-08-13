@@ -1,5 +1,5 @@
 {
-  "bankroll": 1118.0028065401468,
+  "bankroll": 1118.9013980894426,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -880,6 +880,11 @@
       "timestamp": 1786660263.0368426,
       "bankroll": 1118.0,
       "event": "lost: RN1 \u2014 Will FC Sion win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786660641.4607427,
+      "bankroll": 1118.9,
+      "event": "won: swisstony \u2014 RSC Anderlecht vs. PAOK: Both Teams to Score"
     }
   ]
 }

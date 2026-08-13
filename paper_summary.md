@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 17:35:23 (hora de Perú)
+Actualizado: 2026-08-13 17:37:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,118.00
-**Retorno acumulado:** +11.80%
+**Bankroll actual:** $1,118.90
+**Retorno acumulado:** +11.89%
 **Peor caída desde un máximo (drawdown):** 24.07%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 5
 
@@ -16,10 +16,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
-| swisstony | 26 | 9 | 15 | +18.94 USD |
+| swisstony | 27 | 9 | 14 | +19.84 USD |
 | ferrariChampions2026 | 47 | 37 | 32 | +13.84 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| RN1 | 17 | 17 | 37 | +2.60 USD |
+| RN1 | 17 | 17 | 38 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 4 | +0.00 USD |
@@ -68,6 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Santos FC vs. CSyD Macará: 1st Half O/U  | Under (BUY) | 63% | 2.04 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CSyD Macará win on 2026-08-13? | No (BUY) | 70% | 1.25 | 0.1% | ⏳ pendiente | — |
 | RN1 | Will Santos FC win on 2026-08-13? | Yes (BUY) | 40% | 7.12 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will LDU de Quito win on 2026-08-13? | No (BUY) | 90% | 4.06 | 0.4% | ⏳ pendiente | — |
@@ -97,4 +98,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 32% | 6.70 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will LDU de Quito win on 2026-08-13? | No (BUY) | 91% | 3.62 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Mirassol FC vs. LDU de Quito: O/U 1.5 | Over (BUY) | 86% | 1.21 | 0.1% | ⏳ pendiente | — |
-| RN1 | Will CR Vasco da Gama win on 2026-08-13? | Yes (BUY) | 62% | 1.29 | 0.1% | ⏳ pendiente | — |
