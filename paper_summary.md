@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 22:18:35 (hora de Perú)
+Actualizado: 2026-08-12 22:20:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $554.13
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 259 | 157 | 5 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
-|  | 3 | 0 | 6 | +0.42 USD |
+|  | 3 | 0 | 7 | +0.42 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 123 | 101 | 1 | -9.62 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 171 | 114 | 19 | -26.60 USD |
+| swisstony | 171 | 114 | 21 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | RN1 | 231 | 126 | 20 | -38.74 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -451,6 +451,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-chi-gsv-2026-08-12-total-164pt5 | HomeRunHazard, ferrariChampions2026, swisstony |
 | wnba-chi-gsv-2026-08-12-total-165pt5 | HomeRunHazard, ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
 | wnba-chi-gsv-2026-08-12-total-166pt5 | HomeRunHazard, swisstony |
+| wnba-min-por-2026-08-12-total-185pt5 | HomeRunHazard, swisstony |
+| wnba-min-por-2026-08-12-total-184pt5 | HomeRunHazard, swisstony |
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
 | lib-pal-cep-2026-08-12-draw | RN1, UpTheBlues |
@@ -505,6 +507,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+|  | Minnesota Lynx vs. PortlandFire | Minnesota Lynx (BUY) | 98% | 2.31 | ⏳ pendiente | — |
+| swisstony | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 95% | 0.89 | ⏳ pendiente | — |
+| swisstony | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 94% | 0.68 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | No (BUY) | 59% | 1.52 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 50% | 10.87 | ⏳ pendiente | — |
 | swisstony | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 85% | 1.64 | ⏳ pendiente | — |
@@ -532,6 +537,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | Will Hammarby Fotboll win on 2026-08-13? | Yes (BUY) | 55% | 8.57 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Querétaro FC win on 2026-08-12? | No (BUY) | 89% | 1.44 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 75% | 3.76 | ⏳ pendiente | — |
-| swisstony | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 75% | 1.30 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 26% | 0.66 | ⏳ pendiente | — |
-| ferrariChampions2026 | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 50% | 0.59 | ⏳ pendiente | — |
