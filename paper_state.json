@@ -1,5 +1,5 @@
 {
-  "bankroll": 595.0390211636674,
+  "bankroll": 963.0821246119433,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19660,6 +19660,11 @@
       "timestamp": 1786621859.0673473,
       "bankroll": 595.04,
       "event": "won: Weaseloftheweek \u2014 Game Handicap: TS (-1.5) vs Xtreme Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786622205.1431334,
+      "bankroll": 963.08,
+      "event": "venta anticipada: BBQChickenisthebesttt \u2014 LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group (+368.04 USD)"
     }
   ]
 }
