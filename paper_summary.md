@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 16:13:11 (hora de Perú)
+Actualizado: 2026-08-13 16:15:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $995.52
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | swisstony | 26 | 9 | 34 | +18.94 USD |
-| RN1 | 16 | 15 | 39 | +2.60 USD |
+| RN1 | 16 | 15 | 41 | +2.60 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 0 | 0 | 12 | +0.00 USD |
 | HomeRunHazard | 1 | 2 | 5 | -2.31 USD |
 | ferrariChampions2026 | 44 | 37 | 35 | -3.46 USD |
-| wr0ngw4yb3tt0r | 0 | 4 | 11 | -3.62 USD |
+| wr0ngw4yb3tt0r | 0 | 4 | 12 | -3.62 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 0 | 1 | 7 | -250.00 USD |
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col-qar-dyn-2026-08-13-total-2pt5 | RN1, swisstony |
 | uel-bes-hra-2026-08-13-spread-home-1pt5 | RN1, ferrariChampions2026, swisstony |
 | col-tob-par-2026-08-13-tob | ferrariChampions2026, swisstony |
-| mlb-bos-tor-2026-08-13-total-7pt5 | HomeRunHazard, Talvez10, ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-bos-tor-2026-08-13-total-7pt5 | HomeRunHazard, RN1, Talvez10, ferrariChampions2026, wr0ngw4yb3tt0r |
 | spl-abh-haz-2026-08-13-haz | RN1, swisstony |
 | cs2-lgc-faze-2026-08-13 | Lakersfan111, Nooserac, ferrariChampions2026 |
 | val-gx-fnc1-2026-08-13 | Nooserac, ferrariChampions2026 |
@@ -75,6 +75,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Washington Nationals (-2.5) | Chicago Cubs (BUY) | 69% | 0.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 52% | 0.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 68% | 0.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cardinals vs. Raiders | Cardinals (BUY) | 40% | 18.13 | 8.0% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 11.30 | 1.1% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 2.09 | 0.2% | ⏳ pendiente | — |
@@ -102,6 +105,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Santos FC vs. CSyD Macará: Santos FC O/U | Over (BUY) | 32% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Will AFC Ajax win on 2026-08-13? | Yes (BUY) | 86% | 0.00 | 0.2% | ⏳ pendiente | — |
 | UpTheBlues | Will AFC Ajax win on 2026-08-13? | Yes (BUY) | 86% | 0.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Shelbourne FC vs. AFC Ajax: O/U 3.5 | Under (BUY) | 46% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 98% | 0.00 | 0.1% | ✅ ganada | +0.00 |
-| RN1 | RSC Anderlecht vs. PAOK: O/U 5.5 | Under (BUY) | 82% | 0.00 | 0.4% | ⏳ pendiente | — |
