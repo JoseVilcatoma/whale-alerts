@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 20:17:44 (hora de Perú)
+Actualizado: 2026-08-12 20:19:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $569.51
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 203 | 114 | 51 | -40.72 USD |
+| RN1 | 203 | 114 | 52 | -40.72 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -482,6 +482,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 71% | 1.14 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Cleveland Guardians (-2.5) | Detroit Tigers (BUY) | 40% | 4.29 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 37% | 0.99 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 52% | 1.47 | ⏳ pendiente | — |
@@ -511,4 +512,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 62% | 1.28 | ⏳ pendiente | — |
 | RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 71% | 1.18 | ⏳ pendiente | — |
 | RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 71% | 0.91 | ⏳ pendiente | — |
-| RN1 | Will CR Flamengo win on 2026-08-12? | Yes (BUY) | 39% | 1.31 | ⏳ pendiente | — |

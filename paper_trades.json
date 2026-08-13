@@ -81457,5 +81457,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786583608.5498533,
     "fills": 4
+  },
+  {
+    "timestamp": 1786583934,
+    "timestamp_added": 1786583935.2128742,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-cru-fla-2026-08-12-fla",
+    "title": "Will CR Flamengo win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1048.6699999999998,
+    "whale_pct": 0.2,
+    "paper_stake_usd": 1.14,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786583935.2128818,
+    "fills": 1
   }
 ]
