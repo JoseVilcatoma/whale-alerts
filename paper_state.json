@@ -19625,6 +19625,16 @@
       "timestamp": 1786618702.0052462,
       "bankroll": 559.25,
       "event": "won: ferrariChampions2026 \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786619012.7343843,
+      "bankroll": 559.25,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Aurora vs GamerLegion - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786619013.180059,
+      "bankroll": 559.25,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Aurora vs GamerLegion (BO3) - The International Group Stage"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 06:02:20 (hora de Perú)
+Actualizado: 2026-08-13 06:04:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $559.25
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 0 | 1 | 0 | -46.49 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| ferrariChampions2026 | 678 | 517 | 5 | -68.75 USD |
+| ferrariChampions2026 | 678 | 519 | 3 | -68.75 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -524,7 +524,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Aurora vs GamerLegion (BO3) - Th | GamerLegion (BUY) | 18% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Aurora vs GamerLegion (BO3) - Th | GamerLegion (BUY) | 18% | 0.00 | ❌ perdida | -0.00 |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Vici Gaming - Gam | Vici Gaming (BUY) | 39% | 0.00 | ❌ perdida | -0.00 |
 | Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Vici Gaming - Gam | Vici Gaming (BUY) | 43% | 0.00 | ❌ perdida | -0.00 |
