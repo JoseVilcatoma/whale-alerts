@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 12:05:12 (hora de Perú)
+Actualizado: 2026-08-13 12:07:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **57**  ($3,357,431 en total)
-- Resueltas: **38** — 25 ganadas / 13 perdidas (**66%** de acierto)
+- Apuestas registradas: **58**  ($3,390,485 en total)
+- Resueltas: **39** — 26 ganadas / 13 perdidas (**67%** de acierto)
 - Pendientes: 19
 - Apostadores distintos: 26
 
 ### Balance
 
-- **Resultado de los apostadores: +$277,887** sobre $2,521,814 apostados (ROI **+11.0%**)
-- Copiando $100 fijo en cada una: **+$449** sobre $3,500 (ROI **+12.8%**)
+- **Resultado de los apostadores: +$283,141** sobre $2,547,467 apostados (ROI **+11.1%**)
+- Copiando $100 fijo en cada una: **+$469** sobre $3,600 (ROI **+13.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,13 +30,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 2 | 1 | 2 | ⚠️ 67% (3) | $224,457 | +$110,752 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | AV23IUa | 0 | 1 | 2 | ⚠️ 0% (1) | $123,836 | -$57,499 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 1 | ⚠️ 100% (1) | $112,254 | +$100,800 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 3 | — | $101,645 | — |
 | TennisLove | 0 | 0 | 1 | — | $100,000 | — |
 | highnetworth | 0 | 0 | 1 | — | $99,472 | — |
 | Marcoli | 0 | 1 | 1 | ⚠️ 0% (1) | $89,838 | -$40,000 |
 | NemecGhudini | 2 | 0 | 0 | ⚠️ 100% (2) | $86,190 | +$36,460 |
 | ferrariChampions2026 | 0 | 1 | 1 | ⚠️ 0% (1) | $80,628 | -$53,788 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 0 | ⚠️ 100% (1) | $79,200 | +$100,800 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 2 | 0 | 0 | ⚠️ 100% (2) | $72,000 | +$49,788 |
 | ohehe | 0 | 0 | 2 | — | $70,196 | — |
 | 111111111115 | 0 | 0 | 1 | — | $57,765 | — |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
 | Sassy-Bucket | 0 | 0 | 1 | — | $26,400 | — |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
-| madwish355 | 0 | 0 | 1 | — | $25,652 | — |
+| madwish355 | 1 | 0 | 0 | ⚠️ 100% (1) | $25,652 | +$5,254 |
 | Lakersfan111 | 1 | 0 | 0 | ⚠️ 100% (1) | $25,600 | +$14,400 |
 | vv-vv | 1 | 0 | 0 | ⚠️ 100% (1) | $25,318 | +$7,563 |
 
@@ -55,6 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Chicago White Sox | Cincinnati Reds | 2.22 (45¢) | $33,054 | — | ⏳ Pendiente |
 | Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $26,400 | — | ⏳ Pendiente |
 | ohehe | Counter-Strike: Team Falcons vs Astralis (BO3) - Esports World Cup Group B | Team Falcons | 1.23 (81¢) | $37,490 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Team Falcons vs Astralis (BO3) - Esports World Cup Group B | Team Falcons | 1.23 (81¢) | $29,388 | — | ⏳ Pendiente |
@@ -73,7 +74,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ohehe | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | BIG | 2.63 (38¢) | $32,706 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | BIG | 2.78 (36¢) | $25,537 | — | ⏳ Pendiente |
 | Marcoli | Hamburg: Andrej Nedic vs Carlos Taberner | Andrej Nedic | 1.15 (87¢) | $40,000 | -$40,000 | ❌ Perdida |
-| madwish355 | LoL: ThunderTalk Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.20 (83¢) | $25,652 | — | ⏳ Pendiente |
+| madwish355 | LoL: ThunderTalk Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.20 (83¢) | $25,652 | +$5,254 | ✅ Ganada |
 | vv-vv | LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $25,318 | +$7,563 | ✅ Ganada |
 | TennisLove | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.43 (70¢) | $100,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage | TEAM VISION | 1.67 (60¢) | $31,787 | +$21,191 | ✅ Ganada |
