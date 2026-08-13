@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 17:29:07 (hora de Perú)
+Actualizado: 2026-08-13 17:31:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,118.00
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 26 | 9 | 15 | +18.94 USD |
 | ferrariChampions2026 | 47 | 37 | 30 | +13.84 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| RN1 | 17 | 15 | 35 | +2.60 USD |
+| RN1 | 17 | 17 | 34 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 4 | +0.00 USD |
@@ -66,6 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Mirassol FC win on 2026-08-13? | Yes (BUY) | 70% | 1.85 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Santos FC win on 2026-08-13? | Yes (BUY) | 43% | 1.66 | 0.1% | ⏳ pendiente | — |
 | RN1 | Will Mirassol FC win on 2026-08-13? | Yes (BUY) | 70% | 1.60 | 0.1% | ⏳ pendiente | — |
 | RN1 | Will CSyD Macará win on 2026-08-13? | No (BUY) | 73% | 1.88 | 0.2% | ⏳ pendiente | — |
@@ -95,4 +96,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Mirassol FC vs. LDU de Quito end in | No (BUY) | 80% | 1.24 | 0.1% | ⏳ pendiente | — |
 | RN1 | Santos FC vs. CSyD Macará: 1st Half O/U  | Over (BUY) | 63% | 1.94 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 47% | 25.42 | 2.5% | ⏳ pendiente | — |
-| RN1 | Mirassol FC vs. LDU de Quito: O/U 1.5 | Over (BUY) | 63% | 2.28 | 0.2% | ⏳ pendiente | — |
