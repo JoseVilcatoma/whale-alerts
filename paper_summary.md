@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 01:23:32 (hora de Perú)
+Actualizado: 2026-08-13 01:25:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $581.29
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 |  | 3 | 1 | 2 | -1.88 USD |
-| Weaseloftheweek | 0 | 2 | 8 | -2.32 USD |
+| Weaseloftheweek | 0 | 2 | 12 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
@@ -501,6 +501,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK | BNK FEARX (BUY) | 58% | 508.25 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 64% | 1.14 | ⏳ pendiente | — |
@@ -520,7 +524,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 97% | 3.37 | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Will FC Dallas win on 2026-08-12? | No (BUY) | 85% | 2.20 | ✅ ganada | +0.39 |
 | ferrariChampions2026 | Spread: Minnesota Lynx (-12.5) | Portland Fire (BUY) | 50% | 0.81 | ✅ ganada | +0.81 |
-| ferrariChampions2026 | Spread: Minnesota Lynx (-11.5) | Portland Fire (BUY) | 46% | 0.74 | ✅ ganada | +0.87 |
-|  | Spread: Los Angeles FC (-1.5) | Querétaro FC (BUY) | 45% | 3.44 | ⏳ pendiente | — |
-| RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 75% | 0.61 | ✅ ganada | +0.20 |
-| ferrariChampions2026 | Deportivo Toluca FC vs. FC Dallas: O/U 3 | Under (BUY) | 52% | 0.71 | ❌ perdida | -0.71 |
