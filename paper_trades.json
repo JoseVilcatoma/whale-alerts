@@ -84848,5 +84848,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786636265.9468205,
     "fills": 2
+  },
+  {
+    "timestamp": 1786636290,
+    "timestamp_added": 1786636291.452665,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-cle-det-2026-08-13-total-8pt5",
+    "title": "Cleveland Guardians vs. Detroit Tigers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 77.28,
+    "whale_pct": 0.104,
+    "paper_stake_usd": 0.13,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786636291.4526727,
+    "fills": 1
   }
 ]

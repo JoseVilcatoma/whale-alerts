@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 10:51:18 (hora de Perú)
+Actualizado: 2026-08-13 10:53:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $120.18
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| wr0ngw4yb3tt0r | 72 | 74 | 7 | +111.09 USD |
+| wr0ngw4yb3tt0r | 72 | 74 | 8 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | ActionReaction | 2 | 1 | 0 | +46.03 USD |
@@ -506,6 +506,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.13 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.33 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.21 | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: FaZe (-1.5) vs Legacy (+1. | Legacy (BUY) | 73% | 0.13 | ⏳ pendiente | — |
@@ -535,4 +536,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Texas Rangers (-2.5) | Los Angeles Angels (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 54% | 0.00 | ⏳ pendiente | — |
