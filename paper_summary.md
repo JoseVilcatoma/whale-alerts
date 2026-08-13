@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 11:42:12 (hora de Perú)
+Actualizado: 2026-08-13 11:44:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 16 | +0.00 USD |
-| Lakersfan111 | 0 | 0 | 2 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 1 | +0.00 USD |
 
@@ -38,6 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Map Handicap: FaZe (-1.5) vs Legacy (+1. | Legacy (BUY) | 73% | 6.65 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dark Passage vs BoostGate Esports ( | Dark Passage (BUY) | 88% | 1.81 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. New York Liberty: | Under (BUY) | 49% | 6.15 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dark Passage vs BoostGate Esports ( | Dark Passage (BUY) | 88% | 2.44 | 0.2% | ⏳ pendiente | — |
@@ -67,4 +68,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Al Hazem SC win on 2026-08-13? | Yes (BUY) | 56% | 1.65 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Pcific Esports (BUY) | 75% | 1.30 | 0.1% | ⏳ pendiente | — |
 | swisstony | Qarabağ Ağdam FK vs. FK Dynamo Kyiv: O/U | Over (BUY) | 57% | 1.64 | 0.2% | ⏳ pendiente | — |
-| swisstony | FC Flora vs. Inter Club d'Escaldes: O/U  | Under (BUY) | 81% | 1.22 | 0.1% | ⏳ pendiente | — |
