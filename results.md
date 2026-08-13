@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 08:17:19 (hora de Perú)
+Actualizado: 2026-08-13 08:19:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **41**  ($2,682,739 en total)
+- Apuestas registradas: **42**  ($2,715,444 en total)
 - Resueltas: **33** — 21 ganadas / 12 perdidas (**64%** de acierto)
-- Pendientes: 8
-- Apostadores distintos: 20
+- Pendientes: 9
+- Apostadores distintos: 21
 
 ### Balance
 
@@ -39,6 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Marcoli | 0 | 0 | 1 | — | $40,000 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $35,335 | — |
 | hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
+| ohehe | 0 | 0 | 1 | — | $32,706 | — |
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
@@ -49,6 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ohehe | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | BIG | 2.63 (38¢) | $32,706 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | BIG | 2.78 (36¢) | $25,537 | — | ⏳ Pendiente |
 | Marcoli | Hamburg: Andrej Nedic vs Carlos Taberner | Andrej Nedic | 1.15 (87¢) | $40,000 | — | ⏳ Pendiente |
 | madwish355 | LoL: ThunderTalk Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.20 (83¢) | $25,652 | — | ⏳ Pendiente |
