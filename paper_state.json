@@ -1,5 +1,5 @@
 {
-  "bankroll": 582.8047415563949,
+  "bankroll": 582.4829768505125,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19405,6 +19405,16 @@
       "timestamp": 1786598947.7276242,
       "bankroll": 582.8,
       "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Texas Rangers (-1.5)"
+    },
+    {
+      "timestamp": 1786601469.3280938,
+      "bankroll": 582.09,
+      "event": "lost: ferrariChampions2026 \u2014 Deportivo Toluca FC vs. FC Dallas: O/U 3.5"
+    },
+    {
+      "timestamp": 1786601470.0219278,
+      "bankroll": 582.48,
+      "event": "won: ferrariChampions2026 \u2014 Will FC Dallas win on 2026-08-12?"
     }
   ]
 }

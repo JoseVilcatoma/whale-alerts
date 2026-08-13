@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 01:09:13 (hora de Perú)
+Actualizado: 2026-08-13 01:11:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $582.80
-**Retorno acumulado:** -41.72%
+**Bankroll actual:** $582.48
+**Retorno acumulado:** -41.75%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| ferrariChampions2026 | 673 | 500 | 2 | -68.43 USD |
+| ferrariChampions2026 | 674 | 501 | 0 | -68.75 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -509,12 +509,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 85% | 0.89 | ✅ ganada | +0.16 |
 |  | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 96% | 4.75 | ✅ ganada | +0.20 |
 |  | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 97% | 3.37 | ✅ ganada | +0.10 |
-| ferrariChampions2026 | Will FC Dallas win on 2026-08-12? | No (BUY) | 85% | 2.20 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will FC Dallas win on 2026-08-12? | No (BUY) | 85% | 2.20 | ✅ ganada | +0.39 |
 | ferrariChampions2026 | Spread: Minnesota Lynx (-12.5) | Portland Fire (BUY) | 50% | 0.81 | ✅ ganada | +0.81 |
 | ferrariChampions2026 | Spread: Minnesota Lynx (-11.5) | Portland Fire (BUY) | 46% | 0.74 | ✅ ganada | +0.87 |
 |  | Spread: Los Angeles FC (-1.5) | Querétaro FC (BUY) | 45% | 3.44 | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 75% | 0.61 | ✅ ganada | +0.20 |
-| ferrariChampions2026 | Deportivo Toluca FC vs. FC Dallas: O/U 3 | Under (BUY) | 52% | 0.71 | ⏳ pendiente | — |
+| ferrariChampions2026 | Deportivo Toluca FC vs. FC Dallas: O/U 3 | Under (BUY) | 52% | 0.71 | ❌ perdida | -0.71 |
 |  | Spread: Golden State Valkyries (-8.5) | Chicago Sky (BUY) | 51% | 2.30 | ❌ perdida | -2.30 |
 | ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 53% | 5.58 | ❌ perdida | -5.58 |
 | wr0ngw4yb3tt0r | Spread: Chicago White Sox (-3.5) | Cincinnati Reds (BUY) | 76% | 2.63 | ❌ perdida | -2.63 |
