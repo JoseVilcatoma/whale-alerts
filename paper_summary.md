@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 21:53:33 (hora de Perú)
+Actualizado: 2026-08-12 21:55:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $552.29
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 661 | 496 | 47 | -97.07 USD |
+| ferrariChampions2026 | 661 | 496 | 48 | -97.07 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -500,6 +500,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | Yes (BUY) | 54% | 0.67 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Golden State Valkyries (-9.5) | Golden State Valkyries (BUY) | 46% | 3.38 | ⏳ pendiente | — |
 |  | Will Hammarby Fotboll win on 2026-08-13? | Yes (BUY) | 55% | 8.57 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Querétaro FC win on 2026-08-12? | No (BUY) | 89% | 1.44 | ⏳ pendiente | — |
@@ -529,4 +530,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 35% | 0.70 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 49% | 0.75 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Minnesota Lynx (-13.5) | Minnesota Lynx (BUY) | 45% | 0.69 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Minnesota Lynx (-11.5) | Minnesota Lynx (BUY) | 54% | 0.83 | ⏳ pendiente | — |
