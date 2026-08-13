@@ -7668,5 +7668,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786662099.7571216,
     "fills": 1
+  },
+  {
+    "timestamp": 1786662184,
+    "timestamp_added": 1786662184.7615557,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-mvu-wu-2026-08-13",
+    "title": "LoL: Maryville University vs Winthrop University (BO3) - North American Challengers League Group Stage",
+    "outcome": "Winthrop University",
+    "side": "BUY",
+    "whale_usd": 785.7,
+    "whale_pct": 0.265,
+    "whale_value_at_open": 296709.1933,
+    "paper_stake_usd": 3.13,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "cigarettes"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786662184.7615647,
+    "fills": 1
   }
 ]
