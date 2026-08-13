@@ -84660,5 +84660,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786633304.8325698,
     "fills": 1
+  },
+  {
+    "timestamp": 1786635052,
+    "timestamp_added": 1786635052.9654863,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-sea-nyy-2026-08-13-spread-away-1pt5",
+    "title": "Spread: Seattle Mariners (-1.5)",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "whale_usd": 257.852,
+    "whale_pct": 0.173,
+    "paper_stake_usd": 1.72,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786635052.9654946,
+    "fills": 1
   }
 ]
