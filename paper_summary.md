@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 21:49:18 (hora de Perú)
+Actualizado: 2026-08-12 21:51:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $551.80
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 71 | 73 | 4 | +111.25 USD |
+| wr0ngw4yb3tt0r | 71 | 73 | 5 | +111.25 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 123 | 101 | 1 | -9.62 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 171 | 114 | 9 | -26.60 USD |
+| swisstony | 171 | 114 | 10 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | RN1 | 229 | 126 | 22 | -40.29 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -455,6 +455,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lib-pal-cep-2026-08-12-draw | RN1, UpTheBlues |
 | lec-mia-leo-2026-08-12-mia | UpTheBlues, ferrariChampions2026 |
 | lib-pal-cep-2026-08-12-cep | RN1, UpTheBlues |
+| wnba-chi-gsv-2026-08-12-total-167pt5 | UpTheBlues, swisstony |
 | mlb-sea-nyy-2026-08-12-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-bos-tor-2026-08-12-total-7pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-12-total-8pt5 | 1winstreak1, HomeRunHazard |
@@ -499,6 +500,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 75% | 3.76 | ⏳ pendiente | — |
+| swisstony | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 75% | 1.30 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 26% | 0.66 | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 50% | 0.59 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 73% | 2.45 | ⏳ pendiente | — |
@@ -527,5 +530,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 48% | 2.31 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 52% | 0.59 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Dallas win on 2026-08-12? | No (BUY) | 85% | 1.40 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 32% | 0.61 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Minnesota Lynx (-13.5) | Minnesota Lynx (BUY) | 43% | 0.69 | ⏳ pendiente | — |
