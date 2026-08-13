@@ -1,5 +1,5 @@
 {
-  "bankroll": 539.0924400640467,
+  "bankroll": 538.3824400640467,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19165,6 +19165,11 @@
       "timestamp": 1786592602.048132,
       "bankroll": 539.09,
       "event": "won: ferrariChampions2026 \u2014 Will Inter Miami CF win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786593470.6657927,
+      "bankroll": 538.38,
+      "event": "lost: ferrariChampions2026 \u2014 Will Orlando City SC win on 2026-08-12?"
     }
   ]
 }

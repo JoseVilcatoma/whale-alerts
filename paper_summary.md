@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 22:56:07 (hora de Perú)
+Actualizado: 2026-08-12 22:58:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $539.09
-**Retorno acumulado:** -46.09%
+**Bankroll actual:** $538.38
+**Retorno acumulado:** -46.16%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 260 | 157 | 4 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
-|  | 3 | 0 | 7 | +0.42 USD |
+|  | 3 | 0 | 8 | +0.42 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 665 | 496 | 92 | -94.62 USD |
+| ferrariChampions2026 | 665 | 497 | 91 | -95.33 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -509,6 +509,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+|  | Spread: FC Lugano (-1.5) | NSÍ Runavík (BUY) | 51% | 2.55 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | No (BUY) | 64% | 2.25 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Resilience - | TEAM VISION (BUY) | 72% | 2.37 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Club Puebla win on 2026-08-12? | No (BUY) | 83% | 0.93 | ⏳ pendiente | — |
@@ -538,4 +539,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 74% | 1.13 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming (BO3) | Team Falcons (BUY) | 80% | 4.64 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 42% | 2.55 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 41% | 1.99 | ⏳ pendiente | — |
