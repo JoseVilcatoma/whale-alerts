@@ -27592,5 +27592,18 @@
     "usd": 13798.199999999999,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1910,
+    "timestamp": 1786580241,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-svitoli-swiatek-2026-08-12",
+    "title": "National Bank Open: Elina Svitolina vs Iga Swiatek",
+    "outcome": "Iga Swiatek",
+    "side": "BUY",
+    "usd": 20515.4067,
+    "odds_at_bet": 67,
+    "status": "pending"
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 19:22:44 (hora de Perú)
+Actualizado: 2026-08-12 19:25:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2116**  ($56,994,012 en total)
+- Apuestas registradas: **2117**  ($57,014,528 en total)
 - Resueltas: **1360** — 808 ganadas / 552 perdidas (**59%** de acierto)
-- Pendientes: 756
+- Pendientes: 757
 - Apostadores distintos: 181
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 66 | 43% | $9,420,899 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 67 | 43% | $9,441,415 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 57 | 31% | $8,408,379 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 31 | 35% | $3,395,143 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 63 | 77% | $2,809,114 | +$168,085 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Elina Svitolina vs Iga Swiatek | Iga Swiatek | 1.49 (67¢) | $20,515 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Elina Svitolina vs Iga Swiatek | Iga Swiatek | 1.49 (67¢) | $20,515 | — | ⏳ Pendiente |
 | ferrariChampions2026 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.22 (82¢) | $13,597 | — | ⏳ Pendiente |
 | ferrariChampions2026 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.22 (82¢) | $13,597 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 | xifutloong3 | Cincinnati Reds vs. Chicago White Sox | Chicago White Sox | 1.61 (62¢) | $35,429 | — | ⏳ Pendiente |
 | icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $24,734 | — | ⏳ Pendiente |
 | icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $24,734 | — | ⏳ Pendiente |
-| icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $10,200 | — | ⏳ Pendiente |
 | icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $10,200 | — | ⏳ Pendiente |
