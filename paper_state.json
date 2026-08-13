@@ -1,5 +1,5 @@
 {
-  "bankroll": 592.3129046582145,
+  "bankroll": 561.0615775207051,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18980,6 +18980,411 @@
       "timestamp": 1786587406.840694,
       "bankroll": 592.31,
       "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 13.5"
+    },
+    {
+      "timestamp": 1786597673.073962,
+      "bankroll": 591.72,
+      "event": "lost: HomeRunHazard \u2014 Chicago Sky vs. Golden State Valkyries: O/U 165.5"
+    },
+    {
+      "timestamp": 1786597673.4161432,
+      "bankroll": 591.0,
+      "event": "lost: HomeRunHazard \u2014 Chicago Sky vs. Golden State Valkyries: O/U 166.5"
+    },
+    {
+      "timestamp": 1786597673.7653713,
+      "bankroll": 593.65,
+      "event": "won: HomeRunHazard \u2014 Minnesota Lynx vs. Portland Fire: O/U 186.5"
+    },
+    {
+      "timestamp": 1786597674.0811963,
+      "bankroll": 597.88,
+      "event": "won: HomeRunHazard \u2014 Minnesota Lynx vs. Portland Fire: O/U 185.5"
+    },
+    {
+      "timestamp": 1786597674.4115722,
+      "bankroll": 599.13,
+      "event": "won: HomeRunHazard \u2014 Minnesota Lynx vs. Portland Fire: O/U 184.5"
+    },
+    {
+      "timestamp": 1786597674.750484,
+      "bankroll": 599.13,
+      "event": "won: UpTheBlues \u2014 Will SE Palmeiras vs. Club Cerro Porte\u00f1o end in a draw?"
+    },
+    {
+      "timestamp": 1786597675.0975752,
+      "bankroll": 599.13,
+      "event": "won: UpTheBlues \u2014 Will Club Le\u00f3n FC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597675.4615881,
+      "bankroll": 599.13,
+      "event": "won: UpTheBlues \u2014 Will Inter Miami CF win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597675.8159852,
+      "bankroll": 599.13,
+      "event": "won: UpTheBlues \u2014 Chicago Sky vs. Golden State Valkyries: O/U 167.5"
+    },
+    {
+      "timestamp": 1786597676.196049,
+      "bankroll": 603.06,
+      "event": "won: RN1 \u2014 Cruzeiro EC vs. CR Flamengo: O/U 2.5"
+    },
+    {
+      "timestamp": 1786597676.5451958,
+      "bankroll": 591.41,
+      "event": "lost: RN1 \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786597676.836271,
+      "bankroll": 590.13,
+      "event": "lost: RN1 \u2014 Will SE Palmeiras vs. Club Cerro Porte\u00f1o end in a draw?"
+    },
+    {
+      "timestamp": 1786597676.9364083,
+      "bankroll": 586.1,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786597677.0365896,
+      "bankroll": 579.64,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786597677.4163902,
+      "bankroll": 579.93,
+      "event": "won: ferrariChampions2026 \u2014 Will Montevideo City Torque win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597677.5165863,
+      "bankroll": 581.09,
+      "event": "won: RN1 \u2014 Will Montevideo City Torque win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597677.6167316,
+      "bankroll": 581.53,
+      "event": "won: RN1 \u2014 Will SE Palmeiras vs. Club Cerro Porte\u00f1o end in a draw?"
+    },
+    {
+      "timestamp": 1786597677.9907994,
+      "bankroll": 580.82,
+      "event": "lost: ferrariChampions2026 \u2014 Will Orlando City SC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597678.090994,
+      "bankroll": 581.6,
+      "event": "won: ferrariChampions2026 \u2014 Will Inter Miami CF win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597678.191125,
+      "bankroll": 582.53,
+      "event": "won: 1winstreak1 \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786597678.5361376,
+      "bankroll": 578.63,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786597678.6363065,
+      "bankroll": 579.42,
+      "event": "won: ferrariChampions2026 \u2014 Will Inter Miami CF win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597678.960185,
+      "bankroll": 573.73,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Chicago White Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786597679.0603657,
+      "bankroll": 574.96,
+      "event": "won: RN1 \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786597679.385265,
+      "bankroll": 577.49,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Seattle Mariners (-1.5)"
+    },
+    {
+      "timestamp": 1786597679.485458,
+      "bankroll": 579.16,
+      "event": "won: RN1 \u2014 Spread: Seattle Mariners (-1.5)"
+    },
+    {
+      "timestamp": 1786597679.8387618,
+      "bankroll": 579.76,
+      "event": "won: ferrariChampions2026 \u2014 Inter Miami CF vs. Club Le\u00f3n FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786597679.9388933,
+      "bankroll": 575.31,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Seattle Mariners (-1.5)"
+    },
+    {
+      "timestamp": 1786597680.32146,
+      "bankroll": 573.55,
+      "event": "lost: RN1 \u2014 Will CA Platense vs. CD Coquimbo Unido end in a draw?"
+    },
+    {
+      "timestamp": 1786597680.4216468,
+      "bankroll": 571.09,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786597680.5217817,
+      "bankroll": 567.67,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786597680.6219673,
+      "bankroll": 568.06,
+      "event": "won: RN1 \u2014 Will Montevideo City Torque win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597680.7221496,
+      "bankroll": 568.16,
+      "event": "won: RN1 \u2014 Will CA Platense vs. CD Coquimbo Unido end in a draw?"
+    },
+    {
+      "timestamp": 1786597681.0992312,
+      "bankroll": 553.36,
+      "event": "lost: 1winstreak1 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 10.5"
+    },
+    {
+      "timestamp": 1786597681.4244845,
+      "bankroll": 551.17,
+      "event": "lost: AV23IUa \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597681.7885256,
+      "bankroll": 552.28,
+      "event": "won: RN1 \u2014 Cruzeiro EC vs. CR Flamengo: O/U 1.5"
+    },
+    {
+      "timestamp": 1786597682.1521735,
+      "bankroll": 562.47,
+      "event": "won: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597682.2523487,
+      "bankroll": 561.16,
+      "event": "lost: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597682.3525202,
+      "bankroll": 561.53,
+      "event": "won: RN1 \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597682.4526663,
+      "bankroll": 562.02,
+      "event": "won: RN1 \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597682.5528152,
+      "bankroll": 562.8,
+      "event": "won: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597682.6528952,
+      "bankroll": 563.18,
+      "event": "won: RN1 \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597682.7530725,
+      "bankroll": 560.61,
+      "event": "lost: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597682.8532548,
+      "bankroll": 558.74,
+      "event": "lost: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597682.9533808,
+      "bankroll": 557.33,
+      "event": "lost: HomeRunHazard \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 10.5"
+    },
+    {
+      "timestamp": 1786597683.053549,
+      "bankroll": 556.04,
+      "event": "lost: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597683.153679,
+      "bankroll": 556.33,
+      "event": "won: RN1 \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597683.514106,
+      "bankroll": 554.98,
+      "event": "lost: HomeRunHazard \u2014 Spread: New York Yankees (-2.5)"
+    },
+    {
+      "timestamp": 1786597683.9745774,
+      "bankroll": 553.99,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 10.5"
+    },
+    {
+      "timestamp": 1786597684.0747395,
+      "bankroll": 554.46,
+      "event": "won: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597684.6858263,
+      "bankroll": 554.87,
+      "event": "won: RN1 \u2014 Cruzeiro EC vs. CR Flamengo: O/U 0.5"
+    },
+    {
+      "timestamp": 1786597684.785947,
+      "bankroll": 555.34,
+      "event": "won: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597685.1283956,
+      "bankroll": 555.39,
+      "event": "won: ferrariChampions2026 \u2014 Spread: CR Flamengo (-1.5)"
+    },
+    {
+      "timestamp": 1786597685.2285714,
+      "bankroll": 555.51,
+      "event": "won: RN1 \u2014 Spread: CR Flamengo (-1.5)"
+    },
+    {
+      "timestamp": 1786597685.901894,
+      "bankroll": 557.79,
+      "event": "won: HomeRunHazard \u2014 Spread: Minnesota Lynx (-12.5)"
+    },
+    {
+      "timestamp": 1786597686.2605872,
+      "bankroll": 561.94,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Chicago White Sox (-3.5)"
+    },
+    {
+      "timestamp": 1786597686.360694,
+      "bankroll": 560.21,
+      "event": "lost: ferrariChampions2026 \u2014 Will CF Monterrey win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597686.460836,
+      "bankroll": 561.58,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Monterrey win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597686.818282,
+      "bankroll": 560.88,
+      "event": "lost: HomeRunHazard \u2014 Spread: Minnesota Lynx (-13.5)"
+    },
+    {
+      "timestamp": 1786597686.9183583,
+      "bankroll": 562.33,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Monterrey win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597687.0185566,
+      "bankroll": 563.8,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Monterrey win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597687.1187496,
+      "bankroll": 565.3,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Monterrey win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597687.2188938,
+      "bankroll": 568.79,
+      "event": "won: ferrariChampions2026 \u2014 Spread: New York Yankees (-2.5)"
+    },
+    {
+      "timestamp": 1786597687.3190644,
+      "bankroll": 565.55,
+      "event": "lost: HomeRunHazard \u2014 Spread: New York Yankees (-2.5)"
+    },
+    {
+      "timestamp": 1786597687.4191446,
+      "bankroll": 562.8,
+      "event": "lost: RN1 \u2014 Spread: New York Yankees (-2.5)"
+    },
+    {
+      "timestamp": 1786597687.519347,
+      "bankroll": 561.96,
+      "event": "lost: ferrariChampions2026 \u2014 Cruzeiro EC vs. CR Flamengo: O/U 1.5"
+    },
+    {
+      "timestamp": 1786597687.6194675,
+      "bankroll": 560.94,
+      "event": "lost: RN1 \u2014 Cruzeiro EC vs. CR Flamengo: O/U 1.5"
+    },
+    {
+      "timestamp": 1786597687.8197234,
+      "bankroll": 562.12,
+      "event": "won: RN1 \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597688.1611428,
+      "bankroll": 562.18,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Tempo vs. Dallas Wings"
+    },
+    {
+      "timestamp": 1786597688.261322,
+      "bankroll": 559.55,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Chicago White Sox (-3.5)"
+    },
+    {
+      "timestamp": 1786597688.5875025,
+      "bankroll": 557.25,
+      "event": "lost:  \u2014 Spread: Golden State Valkyries (-8.5)"
+    },
+    {
+      "timestamp": 1786597688.8657682,
+      "bankroll": 557.45,
+      "event": "won: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597689.4025695,
+      "bankroll": 558.32,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Minnesota Lynx (-11.5)"
+    },
+    {
+      "timestamp": 1786597689.5027509,
+      "bankroll": 559.13,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Minnesota Lynx (-12.5)"
+    },
+    {
+      "timestamp": 1786597689.7727785,
+      "bankroll": 559.24,
+      "event": "won:  \u2014 Toronto Tempo vs. Dallas Wings"
+    },
+    {
+      "timestamp": 1786597689.8729002,
+      "bankroll": 559.43,
+      "event": "won:  \u2014 Toronto Tempo vs. Dallas Wings"
+    },
+    {
+      "timestamp": 1786597689.973082,
+      "bankroll": 559.59,
+      "event": "won: swisstony \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597690.2353137,
+      "bankroll": 560.37,
+      "event": "won: swisstony \u2014 Cruzeiro EC vs. CR Flamengo: O/U 2.5"
+    },
+    {
+      "timestamp": 1786597690.603548,
+      "bankroll": 560.49,
+      "event": "won:  \u2014 Toronto Tempo vs. Dallas Wings"
+    },
+    {
+      "timestamp": 1786597690.703716,
+      "bankroll": 560.79,
+      "event": "won: swisstony \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786597691.01269,
+      "bankroll": 561.06,
+      "event": "won: swisstony \u2014 Will Cruzeiro EC win on 2026-08-12?"
     }
   ]
 }
