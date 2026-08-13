@@ -52,6 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 175 | 114 | 1 | -25.09 USD |
 | RN1 | 245 | 131 | 1 | -26.42 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
+| ferrariChampions2026 | 684 | 512 | 81 | -42.54 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -448,11 +449,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 | mlb-phi-stl-2026-08-12-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| wnba-chi-gsv-2026-08-12-total-164pt5 | HomeRunHazard, ferrariChampions2026, swisstony |
+| wnba-chi-gsv-2026-08-12-total-165pt5 | HomeRunHazard, ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
+| wnba-chi-gsv-2026-08-12-total-166pt5 | HomeRunHazard, swisstony, wr0ngw4yb3tt0r |
+| wnba-min-por-2026-08-12-total-185pt5 | HomeRunHazard, swisstony |
+| wnba-min-por-2026-08-12-total-184pt5 | HomeRunHazard, swisstony |
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
 | lib-pal-cep-2026-08-12-draw | RN1, UpTheBlues |
 | lec-mia-leo-2026-08-12-mia | UpTheBlues, ferrariChampions2026 |
 | lib-pal-cep-2026-08-12-cep | RN1, UpTheBlues |
+| wnba-chi-gsv-2026-08-12-total-167pt5 | UpTheBlues, swisstony |
 | mlb-sea-nyy-2026-08-12-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-bos-tor-2026-08-12-total-7pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-12-total-8pt5 | 1winstreak1, HomeRunHazard |
@@ -485,10 +492,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-sea-nyy-2026-08-12-total-13pt5 | HomeRunHazard, ferrariChampions2026 |
 | lib-cru-fla-2026-08-12-draw | RN1, ferrariChampions2026 |
 | lib-cru-fla-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
-| wnba-min-por-2026-08-12-spread-away-12pt5 | HomeRunHazard, ferrariChampions2026 |
+| wnba-min-por-2026-08-12-spread-away-12pt5 | HomeRunHazard, ferrariChampions2026, swisstony |
 | mlb-cin-cws-2026-08-12-spread-home-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| wnba-min-por-2026-08-12-spread-away-13pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-cin-cws-2026-08-12-total-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | wnba-tor-dal-2026-08-12 | , ferrariChampions2026 |
+| wnba-chi-gsv-2026-08-12-spread-home-8pt5 | , wr0ngw4yb3tt0r |
+| lec-tol-dal-2026-08-12-dal | ferrariChampions2026, swisstony |
+| lec-sdg-pue-2026-08-12-sdg | , ferrariChampions2026, swisstony |
+| dota2-flc-lgd-2026-08-12 | CORGI8, ferrariChampions2026 |
+| wnba-chi-gsv-2026-08-12 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| lec-tol-dal-2026-08-12-tol | ferrariChampions2026, swisstony |
+| wnba-chi-gsv-2026-08-12-spread-home-9pt5 | swisstony, wr0ngw4yb3tt0r |
+| wnba-min-por-2026-08-12 | , swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 

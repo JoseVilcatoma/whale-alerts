@@ -520,7 +520,8 @@ def build_ticket(username, trade, usd, odds, wallet):
         f"Cuota: {a_cuota(odds)} ({odds}¢ = {odds}% implícito)\n"
         f"Si gana cobra: ${usd + pago:,.0f} (+${pago:,.0f})\n"
         f"{stake_line(usd, wallet)}"
-        f"Operar: {market_url(trade)}"
+        f"Operar: {market_url(trade)}\n"
+        f"Verificar: https://polymarket.com/profile/{wallet}"
     )
 
 
@@ -537,11 +538,44 @@ def procesar_trade(trade, origen="stream"):
     if usd < WHALE_THRESHOLD:
         return False
 
-    key = f"{trade.get('transactionHash','')}_{trade.get('timestamp')}_{trade.get('asset')}_{trade.get('size')}"
-    if key in seen_keys:
+    # --- DEDUPLICACIÓN EN TRES CAPAS ---
+    # El mismo trade puede llegar por el websocket Y por el respaldo de API,
+    # con diferencias mínimas (decimales del monto, 1 segundo en el timestamp).
+    # Si no lo detectamos, el monto se duplica y TODA la tabla queda mal.
+    tx = (trade.get("transactionHash") or "").lower()
+    claves = []
+
+    # 1) El hash de transacción es el identificador único en la blockchain.
+    #    Si coincide, es literalmente la misma operación.
+    if tx:
+        claves.append(f"tx:{tx}")
+
+    # 2) Sin hash, o por si viniera distinto: identidad lógica del trade,
+    #    redondeando monto al dólar y agrupando el tiempo en ventanas de 10s
+    #    para absorber las diferencias entre fuentes.
+    claves.append("id:{}|{}|{}|{}|{}".format(
+        (trade.get("proxyWallet") or "").lower(),
+        trade.get("slug"),
+        trade.get("outcome"),
+        round((trade.get("size") or 0) * (trade.get("price") or 0)),
+        int((trade.get("timestamp") or 0) // 10),
+    ))
+
+    # 3) La misma ventana pero corrida 5 segundos, para el caso en que las dos
+    #    copias caigan justo a ambos lados del corte de la ventana.
+    claves.append("id:{}|{}|{}|{}|{}".format(
+        (trade.get("proxyWallet") or "").lower(),
+        trade.get("slug"),
+        trade.get("outcome"),
+        round((trade.get("size") or 0) * (trade.get("price") or 0)),
+        int(((trade.get("timestamp") or 0) + 5) // 10),
+    ))
+
+    if any(k in seen_keys for k in claves):
         return False
-    seen_keys.add(key)
-    if len(seen_keys) > 5000:
+    for k in claves:
+        seen_keys.add(k)
+    if len(seen_keys) > 20000:
         seen_keys.clear()
 
     username = (trade.get("name") or trade.get("pseudonym")
@@ -654,37 +688,93 @@ def procesar_trade(trade, origen="stream"):
     # Polymarket parte las órdenes grandes en varios pedazos que llegan como
     # trades separados. Sin esto, una sola decisión se registra 4-5 veces:
     # infla los conteos y distorsiona el % de acierto y el balance.
-    ahora = time.time()
+    # Usamos el timestamp del PROPIO trade (el que da Polymarket), no la hora
+    # en que lo procesamos: dos fills de la misma orden llegan con el mismo
+    # segundo o uno de diferencia, aunque el bot los procese con demora.
+    ts_trade = trade.get("timestamp") or time.time()
+
+    # Reservamos el lugar dentro del lock ANTES de mandar nada a Telegram, para
+    # que un segundo fill que llegue mientras tanto encuentre con qué fusionar.
     with lock:
         previa = next((x for x in results
                        if x["status"] == "pending"
                        and x["wallet"] == wallet
                        and x["slug"] == trade.get("slug")
                        and x["outcome"] == trade.get("outcome")
-                       and ahora - x.get("ultimo_fill", 0) < FILL_MERGE_WINDOW), None)
-    if previa:
-        with lock:
+                       and abs(ts_trade - (x.get("ultimo_fill") or 0)) < FILL_MERGE_WINDOW), None)
+        if previa:
             total_previo = previa.get("usd", 0) or 0
-            nuevo_total = total_previo + usd
-            # precio promedio ponderado por monto
-            previa["odds_at_bet"] = round(
-                (total_previo * previa["odds_at_bet"] + usd * precio_c) / nuevo_total)
-            previa["usd"] = nuevo_total
-            previa["ultimo_fill"] = ahora
-            previa["fills"] = previa.get("fills", 1) + 1
+            # ¿Es la MISMA operación llegando dos veces (por el stream y por el
+            # respaldo de API, con mínimas diferencias de redondeo), o un fill
+            # nuevo de una orden partida? Si el monto y el precio coinciden
+            # casi exacto, es un duplicado: se ignora, NO se suma.
+            if (abs(usd - total_previo) / max(total_previo, 1) < 0.01
+                    and precio_c == previa["odds_at_bet"]):
+                print(f"   ↳ duplicado ignorado de {username}: ${usd:,.0f} "
+                      f"(ya registrado, mismo monto y precio)")
+                globals()["_dup_detectado"] = True
+            else:
+                nuevo_total = total_previo + usd
+                previa["odds_at_bet"] = round(
+                    (total_previo * previa["odds_at_bet"] + usd * precio_c) / nuevo_total)
+                previa["usd"] = nuevo_total
+                previa["ultimo_fill"] = ts_trade
+                previa["fills"] = previa.get("fills", 1) + 1
+                print(f"   ↳ fill adicional de {username}: +${usd:,.0f} "
+                      f"(total ${nuevo_total:,.0f}, {previa['fills']} fills)")
             globals()["results_dirty"] = True
-        print(f"   ↳ fill adicional de {username}: +${usd:,.0f} "
-              f"(total ${nuevo_total:,.0f}, {previa['fills']} fills)")
+
+    if previa:
         return False
+
+    # Creamos el registro PRIMERO (dentro del lock) y mandamos el mensaje
+    # después. Así no queda ninguna ventana sin registro donde un fill
+    # simultáneo se escape.
+    log_result_pending(username, wallet, trade, usd, precio_c, None)
+    with lock:
+        registro = results[-1]
+        registro["ultimo_fill"] = ts_trade
+        registro["fills"] = 1
 
     print(f"{marca} — {username}: ${usd:,.0f} en {trade.get('title')}")
     msg_id = send_telegram(build_ticket(username, trade, usd, precio_c, wallet))
-    log_result_pending(username, wallet, trade, usd, precio_c, msg_id)
     with lock:
-        if results:
-            results[-1]["ultimo_fill"] = ahora
-            results[-1]["fills"] = 1
+        registro["telegram_msg_id"] = msg_id
     return True
+
+
+def auditar_montos():
+    """Revisa el archivo buscando señales de que algún monto está inflado por
+    duplicación. No corrige nada solo: avisa en el log para poder verificar
+    contra el perfil real en Polymarket. Una tabla con montos mal es peor que
+    no tener tabla, así que conviene enterarse temprano."""
+    from collections import defaultdict
+    grupos = defaultdict(list)
+    with lock:
+        copia = list(results)
+    for x in copia:
+        grupos[(x.get("wallet"), x.get("slug"), x.get("outcome"))].append(x)
+
+    sospechosos = 0
+    for clave, lista in grupos.items():
+        if len(lista) < 2:
+            continue
+        # Varios registros del mismo apostador+mercado+resultado: puede ser
+        # legítimo (entradas separadas en el tiempo) o duplicación.
+        lista.sort(key=lambda z: z.get("timestamp") or 0)
+        for a, b in zip(lista, lista[1:]):
+            dt = abs((b.get("timestamp") or 0) - (a.get("timestamp") or 0))
+            ma, mb = a.get("usd", 0) or 0, b.get("usd", 0) or 0
+            if dt <= 30 and abs(ma - mb) / max(ma, 1) < 0.01:
+                sospechosos += 1
+                print(f"[auditoría] ⚠️ posible duplicado: {a.get('username')} — "
+                      f"${ma:,.0f} y ${mb:,.0f} con {dt}s de diferencia en "
+                      f"{(a.get('title') or '')[:40]}", file=sys.stderr)
+    if sospechosos:
+        print(f"[auditoría] ⚠️ {sospechosos} par(es) sospechoso(s) — verificá "
+              f"contra el perfil en Polymarket antes de confiar en esos montos",
+              file=sys.stderr)
+    return sospechosos
 
 
 def recuperar_perdidas():
@@ -985,6 +1075,7 @@ def background_worker():
         if now - last_backup_check > BACKUP_INTERVAL:
             try:
                 recuperar_perdidas()
+                auditar_montos()
             except Exception as e:
                 print(f"[respaldo] falló, se reintenta luego: {e}", file=sys.stderr)
             last_backup_check = now
