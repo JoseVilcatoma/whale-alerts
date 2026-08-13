@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 22:04:02 (hora de Perú)
+Actualizado: 2026-08-12 22:06:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $554.13
@@ -49,14 +49,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 123 | 101 | 1 | -9.62 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 171 | 114 | 16 | -26.60 USD |
+| swisstony | 171 | 114 | 17 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | RN1 | 231 | 126 | 20 | -38.74 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 662 | 496 | 51 | -96.78 USD |
+| ferrariChampions2026 | 662 | 496 | 53 | -96.78 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -495,6 +495,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cin-cws-2026-08-12-total-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | wnba-tor-dal-2026-08-12 | , ferrariChampions2026 |
 | wnba-chi-gsv-2026-08-12-spread-home-8pt5 | , wr0ngw4yb3tt0r |
+| lec-tol-dal-2026-08-12-dal | ferrariChampions2026, swisstony |
 | lec-sdg-pue-2026-08-12-sdg | , swisstony |
 | wnba-chi-gsv-2026-08-12 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | lec-tol-dal-2026-08-12-tol | ferrariChampions2026, swisstony |
@@ -504,6 +505,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | No (BUY) | 51% | 0.97 | ⏳ pendiente | — |
+| swisstony | Will FC Dallas win on 2026-08-12? | No (BUY) | 96% | 9.62 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Seattle Sounders FC win on 2026-08- | No (BUY) | 63% | 0.70 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CD Guadalajara win on 2026-08-12? | No (BUY) | 61% | 0.61 | ⏳ pendiente | — |
 | swisstony | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 64% | 0.89 | ⏳ pendiente | — |
 | swisstony | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 35% | 0.65 | ⏳ pendiente | — |
@@ -531,6 +535,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 31% | 0.72 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 38% | 0.85 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Seattle Sounders FC win on 2026-08- | No (BUY) | 78% | 0.69 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 60% | 0.67 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | No (BUY) | 31% | 0.87 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 42% | 1.09 | ⏳ pendiente | — |
