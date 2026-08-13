@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 20:28:05 (hora de Perú)
+Actualizado: 2026-08-12 20:30:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $572.94
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 4 | 10 | 0 | +15.41 USD |
-| HomeRunHazard | 115 | 98 | 21 | +12.59 USD |
+| HomeRunHazard | 115 | 98 | 22 | +12.59 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -49,11 +49,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 204 | 115 | 53 | -40.79 USD |
+| RN1 | 204 | 115 | 54 | -40.79 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
-| ferrariChampions2026 | 647 | 484 | 25 | -89.97 USD |
+| ferrariChampions2026 | 647 | 484 | 26 | -89.97 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
@@ -466,7 +466,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sud-tig-tor-2026-08-12-tor | RN1, ferrariChampions2026 |
 | mlb-cle-det-2026-08-12-total-9pt5 | 1winstreak1, HomeRunHazard |
 | mlb-cle-det-2026-08-12-spread-home-1pt5 | RN1, wr0ngw4yb3tt0r |
-| mlb-cle-det-2026-08-12-spread-away-2pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-cle-det-2026-08-12-spread-away-2pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | sud-bra-cam-2026-08-12-total-1pt5 | RN1, ferrariChampions2026 |
 | mlb-mil-sd-2026-08-12-total-7pt5 | 1winstreak1, RN1 |
 | mlb-chc-wsh-2026-08-12-total-8pt5 | 1winstreak1, RN1 |
@@ -477,11 +477,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lib-cru-fla-2026-08-12-cru | AV23IUa, RN1 |
 | mlb-nym-atl-2026-08-12-total-9pt5 | HomeRunHazard, RN1 |
 | mlb-chc-wsh-2026-08-12-total-16pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| lib-cru-fla-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Spread: CR Flamengo (-1.5) | Cruzeiro EC (BUY) | 92% | 1.41 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: CR Flamengo (-1.5) | Cruzeiro EC (BUY) | 92% | 0.58 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Cleveland Guardians (-2.5) | Detroit Tigers (BUY) | 89% | 2.84 | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 49% | 2.63 | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 70% | 1.10 | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 47% | 4.99 | ⏳ pendiente | — |
@@ -509,6 +513,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 7. | Over (BUY) | 71% | 1.73 | ✅ ganada | +0.71 |
 | RN1 | New York Mets vs. Atlanta Braves: O/U 7. | Under (BUY) | 29% | 0.80 | ❌ perdida | -0.80 |
 | RN1 | New York Mets vs. Atlanta Braves: O/U 7. | Over (BUY) | 49% | 0.70 | ✅ ganada | +0.73 |
-| HomeRunHazard | Spread: Boston Red Sox (-1.5) | Toronto Blue Jays (BUY) | 73% | 1.18 | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 79% | 1.60 | ⏳ pendiente | — |
-| RN1 | Will CR Flamengo win on 2026-08-12? | Yes (BUY) | 34% | 1.29 | ⏳ pendiente | — |

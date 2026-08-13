@@ -81619,5 +81619,70 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786584374.7686663,
     "fills": 1
+  },
+  {
+    "timestamp": 1786584485,
+    "timestamp_added": 1786584485.5844042,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-cle-det-2026-08-12-spread-away-2pt5",
+    "title": "Spread: Cleveland Guardians (-2.5)",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 3186.2000000000003,
+    "whale_pct": 0.495,
+    "paper_stake_usd": 2.84,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786584485.5844135,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786584542,
+    "timestamp_added": 1786584543.1512,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lib-cru-fla-2026-08-12-spread-away-1pt5",
+    "title": "Spread: CR Flamengo (-1.5)",
+    "outcome": "Cruzeiro EC",
+    "side": "BUY",
+    "whale_usd": 647.6800000000001,
+    "whale_pct": 0.1,
+    "paper_stake_usd": 0.58,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786584543.151208,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786584542,
+    "timestamp_added": 1786584543.7918074,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-cru-fla-2026-08-12-spread-away-1pt5",
+    "title": "Spread: CR Flamengo (-1.5)",
+    "outcome": "Cruzeiro EC",
+    "side": "BUY",
+    "whale_usd": 1354.24,
+    "whale_pct": 0.247,
+    "paper_stake_usd": 1.41,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786584543.7918131,
+    "fills": 1
   }
 ]
