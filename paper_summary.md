@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 18:44:01 (hora de Perú)
+Actualizado: 2026-08-13 18:46:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,140.29
@@ -19,14 +19,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 2 | 3 | 1 | +75.24 USD |
 | swisstony | 36 | 10 | 9 | +21.58 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| ferrariChampions2026 | 56 | 50 | 50 | +10.27 USD |
-| RN1 | 20 | 23 | 49 | +2.60 USD |
+| ferrariChampions2026 | 56 | 50 | 53 | +10.27 USD |
+| RN1 | 24 | 23 | 45 | +2.60 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 15 | +0.00 USD |
 | cigarettes | 0 | 0 | 2 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 16 | +0.00 USD |
 | Nooserac | 1 | 1 | 0 | -0.08 USD |
-| wr0ngw4yb3tt0r | 0 | 7 | 10 | -15.12 USD |
+| wr0ngw4yb3tt0r | 0 | 7 | 11 | -15.12 USD |
 | Lakersfan111 | 0 | 3 | 0 | -45.49 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 1 | 6 | 0 | -250.00 USD |
@@ -68,7 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sud-vas-clo-2026-08-13-total-1pt5 | RN1, ferrariChampions2026, swisstony |
 | sud-san-mac-2026-08-13-total-2pt5 | RN1, UpTheBlues, ferrariChampions2026 |
 | sud-san-mac-2026-08-13-mac | RN1, UpTheBlues, ferrariChampions2026 |
-| lec-nyc-nec-2026-08-13-total-3pt5 | UpTheBlues, theowalcott |
+| lec-nyc-nec-2026-08-13-total-3pt5 | UpTheBlues, ferrariChampions2026, theowalcott |
 | lol-mvu-wu-2026-08-13 | cigarettes, ferrariChampions2026 |
 | sud-san-mac-2026-08-13-first-half-total-2pt5 | RN1, cigarettes |
 | sud-san-mac-2026-08-13-total-3pt5 | RN1, UpTheBlues, ferrariChampions2026 |
@@ -78,6 +78,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will New York City FC win on 2026-08-13? | No (BUY) | 44% | 0.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 36% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will New York City FC win on 2026-08-13? | Yes (BUY) | 55% | 0.00 | 0.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chargers vs. Texans | Texans (BUY) | 48% | 0.00 | 0.9% | ⏳ pendiente | — |
 | swisstony | Atlanta Dream vs. Connecticut Sun: O/U 1 | Under (BUY) | 67% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 61% | 0.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Union vs. Club Santos Lagun | Over (BUY) | 38% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -104,7 +108,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Santos FC vs. CSyD Macará: O/U 3.5 | Under (BUY) | 60% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Santos FC win on 2026-08-13? | No (BUY) | 39% | 0.00 | 0.3% | ⏳ pendiente | — |
 | UpTheBlues | Spread: CR Vasco da Gama (-1.5) | Club Olimpia (BUY) | 82% | 0.00 | 0.1% | ⏳ pendiente | — |
-| UpTheBlues | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Under (BUY) | 89% | 0.00 | 0.1% | ⏳ pendiente | — |
-| UpTheBlues | CR Vasco da Gama vs. Club Olimpia: O/U 3 | Under (BUY) | 97% | 0.00 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 61% | 0.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Mirassol FC vs. LDU de Quito: O/U 1.5 | Over (BUY) | 68% | 0.00 | 0.2% | ⏳ pendiente | — |
