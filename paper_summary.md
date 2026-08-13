@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 18:41:58 (hora de Perú)
+Actualizado: 2026-08-13 18:44:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,140.29
@@ -17,10 +17,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
 | 1winstreak1 | 2 | 3 | 1 | +75.24 USD |
-| swisstony | 36 | 10 | 8 | +21.58 USD |
+| swisstony | 36 | 10 | 9 | +21.58 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| ferrariChampions2026 | 56 | 48 | 50 | +10.27 USD |
-| RN1 | 19 | 22 | 51 | +2.60 USD |
+| ferrariChampions2026 | 56 | 50 | 50 | +10.27 USD |
+| RN1 | 20 | 23 | 49 | +2.60 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 15 | +0.00 USD |
 | cigarettes | 0 | 0 | 2 | +0.00 USD |
@@ -78,7 +78,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 52% | 0.00 | 1.1% | ⏳ pendiente | — |
+| swisstony | Atlanta Dream vs. Connecticut Sun: O/U 1 | Under (BUY) | 67% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 61% | 0.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia Union vs. Club Santos Lagun | Over (BUY) | 38% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 52% | 0.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 59% | 0.00 | 1.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Lions vs. Bengals | Bengals (BUY) | 65% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 64% | 3.33 | 7.1% | ⏳ pendiente | — |
@@ -105,6 +108,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | CR Vasco da Gama vs. Club Olimpia: O/U 3 | Under (BUY) | 97% | 0.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 61% | 0.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Mirassol FC vs. LDU de Quito: O/U 1.5 | Over (BUY) | 68% | 0.00 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Lions vs. Bengals | Bengals (BUY) | 74% | 0.73 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Santos FC vs. CSyD Macará: O/U 2.5 | Over (BUY) | 76% | 2.29 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Red Feet vs QUINTESSÊNCI | Red Feet (BUY) | 80% | 4.77 | 0.4% | ⏳ pendiente | — |
