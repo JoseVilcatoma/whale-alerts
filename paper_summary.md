@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 17:18:58 (hora de Perú)
+Actualizado: 2026-08-13 17:23:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,118.00
@@ -17,9 +17,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
 | swisstony | 26 | 9 | 15 | +18.94 USD |
-| ferrariChampions2026 | 47 | 37 | 26 | +13.84 USD |
+| ferrariChampions2026 | 47 | 37 | 28 | +13.84 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| RN1 | 17 | 15 | 22 | +2.60 USD |
+| RN1 | 17 | 15 | 29 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 4 | +0.00 USD |
@@ -58,12 +58,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col-nor-val-2026-08-13-total-4pt5 | RN1, ferrariChampions2026 |
 | uel-bes-hra-2026-08-13-total-1pt5 | ferrariChampions2026, swisstony |
 | mlb-chc-wsh-2026-08-13-total-7pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| sud-san-mac-2026-08-13-san | RN1, ferrariChampions2026 |
 | lib-mir-lqu-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
+| sud-vas-clo-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Santos FC vs. CSyD Macará: O/U 2.5 | Over (BUY) | 69% | 5.38 | 0.5% | ⏳ pendiente | — |
+| RN1 | Will Club Olimpia win on 2026-08-13? | No (BUY) | 90% | 3.47 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | CR Vasco da Gama vs. Club Olimpia: O/U 1 | Over (BUY) | 60% | 1.37 | 0.1% | ⏳ pendiente | — |
+| RN1 | CR Vasco da Gama vs. Club Olimpia: O/U 1 | Over (BUY) | 60% | 2.34 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will Mirassol FC win on 2026-08-13? | Yes (BUY) | 70% | 1.70 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Santos FC win on 2026-08-13? | Yes (BUY) | 50% | 2.10 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will Santos FC win on 2026-08-13? | Yes (BUY) | 50% | 2.05 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will LDU de Quito win on 2026-08-13? | No (BUY) | 91% | 3.60 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will Club Olimpia win on 2026-08-13? | No (BUY) | 89% | 3.53 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Mirassol FC vs. LDU de Quito: O/U 1.5 | Over (BUY) | 86% | 1.33 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 32% | 6.70 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will LDU de Quito win on 2026-08-13? | No (BUY) | 91% | 3.62 | 0.3% | ⏳ pendiente | — |
@@ -85,12 +96,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 7.74 | 0.8% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 50% | 92.67 | 9.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 50% | 12.05 | 1.2% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 8.94 | 0.9% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 7.72 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 40% | 6.05 | 0.5% | ❌ perdida | -6.05 |
-| ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 51% | 13.24 | 1.1% | ✅ ganada | +12.72 |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 49% | 1.81 | 0.1% | ❌ perdida | -1.81 |
-| swisstony | Spread: MH Beitar Jerusalem (-1.5) | FK Austria Wien (BUY) | 79% | 1.28 | 0.1% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 65% | 1.38 | 0.1% | ✅ ganada | +0.74 |
-| ferrariChampions2026 | Valorant: GIANTX vs Fnatic (BO3) - VCT E | Fnatic (BUY) | 84% | 5.23 | 0.4% | ✅ ganada | +1.00 |
-| swisstony | Will FC Inter Turku win on 2026-08-13? | No (BUY) | 96% | 1.94 | 0.2% | ⏳ pendiente | — |
