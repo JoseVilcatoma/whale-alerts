@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 12:11:24 (hora de Perú)
+Actualizado: 2026-08-13 12:13:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 34 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 41 | +0.00 USD |
 | RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 16 | +0.00 USD |
@@ -41,6 +41,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Astralis (BUY) | 17% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Cleveland Guardians (-2.5) | Cleveland Guardians (BUY) | 28% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 54% | 0.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Astralis (BUY) | 27% | 0.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Team Falcons (BUY) | 71% | 0.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Astralis (BUY) | 32% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe - Map 1 W | Legacy (BUY) | 27% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe - Map 1 W | FaZe (BUY) | 74% | 0.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe - Map 1 W | Legacy (BUY) | 25% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe - Map 1 W | FaZe (BUY) | 70% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -64,10 +71,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 56% | 0.00 | 0.2% | ⏳ pendiente | — |
 | Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 37% | 47.75 | 7.3% | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 52% | 137.29 | 13.7% | ⏳ pendiente | — |
-| Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 48% | 250.00 ⚠️ | 44.5% | ⏳ pendiente | — |
-| Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 56% | 23.49 | 2.3% | ⏳ pendiente | — |
-| Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 48% | 4.91 | 0.5% | ⏳ pendiente | — |
-| Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 48% | 1.31 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Dark Passage vs BoostGate Esports - | Dark Passage (BUY) | 91% | 1.25 | 0.1% | ⏳ pendiente | — |
-| Lakersfan111 | Map Handicap: FaZe (-1.5) vs Legacy (+1. | Legacy (BUY) | 73% | 6.65 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Dark Passage vs BoostGate Esports ( | Dark Passage (BUY) | 88% | 1.81 | 0.2% | ⏳ pendiente | — |
