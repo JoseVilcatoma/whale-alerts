@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 15:43:20 (hora de Perú)
+Actualizado: 2026-08-13 15:45:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **64**  ($3,651,403 en total)
+- Apuestas registradas: **65**  ($3,687,403 en total)
 - Resueltas: **51** — 33 ganadas / 18 perdidas (**65%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 29
 
 ### Balance
@@ -40,13 +40,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NemecGhudini | 2 | 0 | 0 | ⚠️ 100% (2) | $86,190 | +$36,460 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 2 | 0 | 0 | ⚠️ 100% (2) | $72,000 | +$49,788 |
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
+| xifutloong3 | 0 | 0 | 2 | — | $63,300 | — |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
 | 111111111115 | 0 | 0 | 1 | — | $57,765 | — |
 | wr0ngw4yb3tt0r | 1 | 0 | 0 | ⚠️ 100% (1) | $42,257 | +$53,782 |
 | hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
 | Mylifeisover | 0 | 0 | 1 | — | $32,241 | — |
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
-| xifutloong3 | 0 | 0 | 1 | — | $27,300 | — |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,026 | +$17,351 |
@@ -58,6 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| xifutloong3 | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.72 (58¢) | $36,000 | — | ⏳ Pendiente |
 | Mylifeisover | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.89 (53¢) | $32,241 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Todi (Doubles): Reymond/Sanchez vs Barrena/Kicker | Reymond/Sanchez | 1.67 (60¢) | $26,026 | +$17,351 | ✅ Ganada |
 | Sassy-Bucket | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.75 (57¢) | $112,737 | — | ⏳ Pendiente |
@@ -117,4 +118,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Elina Svitolina vs Iga Swiatek | Iga Swiatek | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | Weaseloftheweek | National Bank Open: Elina Svitolina vs Iga Swiatek | Elina Svitolina | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $46,170 | +$61,202 | ✅ Ganada |
-| AV23IUa | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.75 (57¢) | $57,499 | -$57,499 | ❌ Perdida |
