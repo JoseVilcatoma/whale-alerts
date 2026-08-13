@@ -84457,12 +84457,13 @@
     "whale_pct": 30.825,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786608400.0879776,
-    "fills": 4
+    "fills": 4,
+    "closed_price": 50
   },
   {
     "timestamp": 1786608511,
@@ -84575,5 +84576,118 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786608681.3745847,
     "fills": 2
+  },
+  {
+    "timestamp": 1786608707,
+    "timestamp_added": 1786608707.8126574,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ts8-xtreme-2026-08-13-game1",
+    "title": "Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 712.459,
+    "whale_pct": 0.395,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786608715.1159463,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786608707,
+    "timestamp_added": 1786608708.3536112,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-drx-fox1-2026-08-13-game1",
+    "title": "LoL: Kiwoom DRX vs BNK FEARX - Game 1 Winner",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "whale_usd": 1197.0350529999998,
+    "whale_pct": 0.664,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction",
+      "BBQChickenisthebesttt"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786608708.9101288,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786608716,
+    "timestamp_added": 1786608717.0011313,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-drx-fox1-2026-08-13-game1",
+    "title": "LoL: Kiwoom DRX vs BNK FEARX - Game 1 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 2250.0,
+    "whale_pct": 1.247,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction",
+      "BBQChickenisthebesttt"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786608719.8399954,
+    "fills": 7
+  },
+  {
+    "timestamp": 1786608746,
+    "timestamp_added": 1786608746.4393482,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ts8-xtreme-2026-08-13-game1",
+    "title": "Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 759.2413,
+    "whale_pct": 0.397,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786608759.5037801,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786608785,
+    "timestamp_added": 1786608785.4146647,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-drx-fox1-2026-08-13-game1",
+    "title": "LoL: Kiwoom DRX vs BNK FEARX - Game 1 Winner",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "whale_usd": 1132.202114,
+    "whale_pct": 0.599,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction",
+      "BBQChickenisthebesttt"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786608791.7342603,
+    "fills": 3
   }
 ]
