@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 20:36:17 (hora de Perú)
+Actualizado: 2026-08-12 20:38:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $572.94
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 4 | 10 | 0 | +15.41 USD |
-| HomeRunHazard | 115 | 98 | 24 | +12.59 USD |
+| HomeRunHazard | 115 | 98 | 26 | +12.59 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -49,11 +49,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 204 | 115 | 54 | -40.79 USD |
+| RN1 | 204 | 115 | 55 | -40.79 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
-| ferrariChampions2026 | 647 | 484 | 32 | -89.97 USD |
+| ferrariChampions2026 | 647 | 484 | 34 | -89.97 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
@@ -452,7 +452,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lec-mia-leo-2026-08-12-mia | UpTheBlues, ferrariChampions2026 |
 | lib-pal-cep-2026-08-12-cep | RN1, UpTheBlues |
 | mlb-sea-nyy-2026-08-12-total-8pt5 | 1winstreak1, ferrariChampions2026 |
-| mlb-bos-tor-2026-08-12-total-7pt5 | RN1, ferrariChampions2026 |
+| mlb-bos-tor-2026-08-12-total-7pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-12-total-8pt5 | 1winstreak1, HomeRunHazard |
 | lib-pal-cep-2026-08-12-pal | RN1, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-12-spread-home-1pt5 | 1winstreak1, ferrariChampions2026 |
@@ -475,14 +475,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-nym-atl-2026-08-12-total-7pt5 | 1winstreak1, HomeRunHazard, RN1 |
 | mlb-cle-det-2026-08-12-total-10pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | lib-cru-fla-2026-08-12-cru | AV23IUa, RN1 |
+| mlb-sea-nyy-2026-08-12-spread-home-2pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-12-total-9pt5 | HomeRunHazard, RN1 |
 | mlb-chc-wsh-2026-08-12-total-16pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| mlb-sea-nyy-2026-08-12-total-13pt5 | HomeRunHazard, ferrariChampions2026 |
 | lib-cru-fla-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 48% | 1.49 | ⏳ pendiente | — |
+| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 73% | 0.96 | ⏳ pendiente | — |
+| RN1 | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 59% | 2.75 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 60% | 3.24 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 40% | 2.33 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 34% | 0.77 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 34% | 0.76 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 35% | 0.78 | ⏳ pendiente | — |
@@ -508,8 +515,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 63% | 6.89 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 70% | 5.00 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 56% | 4.10 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 36% | 2.58 | ⏳ pendiente | — |
-| RN1 | Will Cruzeiro EC vs. CR Flamengo end in  | No (BUY) | 63% | 1.04 | ⏳ pendiente | — |
-| HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 49% | 3.04 | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 47% | 2.50 | ⏳ pendiente | — |
-| HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 8. | Under (BUY) | 56% | 2.38 | ⏳ pendiente | — |
