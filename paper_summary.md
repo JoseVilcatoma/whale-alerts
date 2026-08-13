@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 14:41:20 (hora de Perú)
+Actualizado: 2026-08-13 14:43:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,248.14
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | ferrariChampions2026 | 13 | 13 | 84 | +5.38 USD |
-| RN1 | 2 | 1 | 45 | +1.64 USD |
+| RN1 | 2 | 1 | 46 | +1.64 USD |
 | swisstony | 5 | 0 | 63 | +1.09 USD |
 | wr0ngw4yb3tt0r | 0 | 1 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ActionReaction | 0 | 0 | 8 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 6 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
-|  | 0 | 0 | 5 | +0.00 USD |
+|  | 0 | 0 | 7 | +0.00 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -58,11 +58,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col-nor-val-2026-08-13-total-4pt5 | RN1, ferrariChampions2026 |
 | uel-bes-hra-2026-08-13-total-1pt5 | ferrariChampions2026, swisstony |
 | mlb-sea-nyy-2026-08-13-total-5pt5 | HomeRunHazard, ferrariChampions2026 |
+| uel-csk1-mta-2026-08-13-total-4pt5 | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 58% | 0.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | PFK CSKA Sofia vs. MH Maccabi Tel Aviv:  | Over (BUY) | 44% | 0.00 | 0.1% | ⏳ pendiente | — |
+|  | Game Handicap: T1 (-1.5) vs Dplus KIA (+ | T1 (BUY) | 32% | 0.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | RSC Anderlecht vs. PAOK: O/U 2.5 | Over (BUY) | 100% | 0.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | ETO FC vs. Rīga FC: O/U 3.5 | Under (BUY) | 78% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 60% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -90,6 +94,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | PFK CSKA Sofia vs. MH Maccabi Tel Aviv:  | Under (BUY) | 95% | 1.64 | 0.1% | ⏳ pendiente | — |
 | swisstony | Will Al Diraiyah Saudi Club win on 2026- | No (BUY) | 92% | 3.44 | 0.3% | ⏳ pendiente | — |
 |  | FC Dinamo City vs. FK Auda: O/U 2.5 | Over (BUY) | 48% | 2.65 | 0.2% | ⏳ pendiente | — |
-| swisstony | KF Egnatia Rrogozhinë vs. Shamrock Rover | Over (BUY) | 92% | 1.58 | 0.1% | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 44% | 9.99 | 0.8% | ⏳ pendiente | — |
-| swisstony | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 90% | 5.72 | 0.5% | ⏳ pendiente | — |
