@@ -32118,5 +32118,18 @@
     "usd": 11600.0,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 2329,
+    "timestamp": 1786584962,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "dota2-flc-lgd-2026-08-12-game-handicap-away-1pt5",
+    "title": "Game Handicap: FLC (-1.5) vs LGD Gaming (+1.5)",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 12675.64,
+    "odds_at_bet": 59,
+    "status": "pending"
   }
 ]
