@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 21:55:35 (hora de Perú)
+Actualizado: 2026-08-12 21:57:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $552.29
-**Retorno acumulado:** -44.77%
+**Bankroll actual:** $554.13
+**Retorno acumulado:** -44.59%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 259 | 157 | 5 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
-|  | 3 | 0 | 4 | +0.42 USD |
+|  | 3 | 0 | 5 | +0.42 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
@@ -51,12 +51,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 10 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 229 | 126 | 22 | -40.29 USD |
+| RN1 | 231 | 126 | 20 | -38.74 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 661 | 496 | 48 | -97.07 USD |
+| ferrariChampions2026 | 662 | 496 | 48 | -96.78 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -500,6 +500,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+|  | Spread: FC Lugano (-1.5) | NSÍ Runavík (BUY) | 49% | 2.81 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 20% | 0.69 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | Yes (BUY) | 54% | 0.67 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Golden State Valkyries (-9.5) | Golden State Valkyries (BUY) | 46% | 3.38 | ⏳ pendiente | — |
 |  | Will Hammarby Fotboll win on 2026-08-13? | Yes (BUY) | 55% | 8.57 | ⏳ pendiente | — |
@@ -528,5 +530,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 51% | 0.74 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 49% | 0.71 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 35% | 0.70 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 49% | 0.75 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Minnesota Lynx (-13.5) | Minnesota Lynx (BUY) | 45% | 0.69 | ⏳ pendiente | — |

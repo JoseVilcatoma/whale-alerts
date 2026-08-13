@@ -79286,8 +79286,8 @@
     "whale_pct": 0.1,
     "paper_stake_usd": 0.64,
     "odds_at_bet": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.29,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786577299.8738995,
@@ -79534,8 +79534,8 @@
     "whale_pct": 0.469,
     "paper_stake_usd": 2.99,
     "odds_at_bet": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.16,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -80448,8 +80448,8 @@
     "whale_pct": 0.321,
     "paper_stake_usd": 2.04,
     "odds_at_bet": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.39,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -83389,6 +83389,48 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786589685.6830938,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786589754,
+    "timestamp_added": 1786589755.205384,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-chi-gsv-2026-08-12",
+    "title": "Chicago Sky vs. Golden State Valkyries",
+    "outcome": "Chicago Sky",
+    "side": "BUY",
+    "whale_usd": 691.7520000000001,
+    "whale_pct": 0.125,
+    "paper_stake_usd": 0.69,
+    "odds_at_bet": 20,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786589755.2053916,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786589798,
+    "timestamp_added": 1786589798.657761,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "col-nsi-lug-2026-08-13-spread-away-1pt5",
+    "title": "Spread: FC Lugano (-1.5)",
+    "outcome": "NS\u00cd Runav\u00edk",
+    "side": "BUY",
+    "whale_usd": 1170.423,
+    "whale_pct": 0.507,
+    "paper_stake_usd": 2.81,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786589798.6577864,
     "fills": 1
   }
 ]
