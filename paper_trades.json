@@ -81390,5 +81390,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786583161.56393,
     "fills": 2
+  },
+  {
+    "timestamp": 1786583396,
+    "timestamp_added": 1786583396.6128995,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-chc-wsh-2026-08-12-total-16pt5",
+    "title": "Chicago Cubs vs. Washington Nationals: O/U 16.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 949.9984000000001,
+    "whale_pct": 0.257,
+    "paper_stake_usd": 1.47,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786583396.6129072,
+    "fills": 1
   }
 ]
