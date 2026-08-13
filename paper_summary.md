@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 14:43:28 (hora de Perú)
+Actualizado: 2026-08-13 14:45:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,248.14
@@ -16,16 +16,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | ferrariChampions2026 | 13 | 13 | 84 | +5.38 USD |
-| RN1 | 2 | 1 | 46 | +1.64 USD |
+| RN1 | 2 | 1 | 47 | +1.64 USD |
 | swisstony | 5 | 0 | 63 | +1.09 USD |
 | wr0ngw4yb3tt0r | 0 | 1 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 8 | +0.00 USD |
-| HomeRunHazard | 0 | 0 | 6 | +0.00 USD |
+| HomeRunHazard | 0 | 0 | 7 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
-|  | 0 | 0 | 7 | +0.00 USD |
+|  | 0 | 0 | 8 | +0.00 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -64,6 +64,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Rangers FC vs. Jagiellonia Białystok: Te | Jagiellonia Białystok (BUY) | 28% | 0.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | HNK Hajduk Split vs. FK Žalgiris Vilnius | Under (BUY) | 90% | 0.00 | 0.1% | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 58% | 0.00 | 0.4% | ⏳ pendiente | — |
 |  | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 58% | 0.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | PFK CSKA Sofia vs. MH Maccabi Tel Aviv:  | Over (BUY) | 44% | 0.00 | 0.1% | ⏳ pendiente | — |
 |  | Game Handicap: T1 (-1.5) vs Dplus KIA (+ | T1 (BUY) | 32% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -91,6 +94,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Al Qadisiyah Saudi Club win on 2026 | No (BUY) | 53% | 0.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: FC Sheriff Tiraspol (-1.5) | FC St. Gallen (BUY) | 100% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 64% | 102.32 ⚠️ | 178.4% | ⏳ pendiente | — |
-| swisstony | PFK CSKA Sofia vs. MH Maccabi Tel Aviv:  | Under (BUY) | 95% | 1.64 | 0.1% | ⏳ pendiente | — |
-| swisstony | Will Al Diraiyah Saudi Club win on 2026- | No (BUY) | 92% | 3.44 | 0.3% | ⏳ pendiente | — |
-|  | FC Dinamo City vs. FK Auda: O/U 2.5 | Over (BUY) | 48% | 2.65 | 0.2% | ⏳ pendiente | — |
