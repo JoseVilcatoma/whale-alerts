@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 16:01:50 (hora de Perú)
+Actualizado: 2026-08-13 16:03:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **67**  ($3,741,390 en total)
+- Apuestas registradas: **68**  ($3,774,897 en total)
 - Resueltas: **55** — 34 ganadas / 21 perdidas (**62%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 29
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 9 | 2 | 0 | 82% | $850,620 | +$240,977 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
-| Weaseloftheweek | 2 | 3 | 1 | ⚠️ 40% (5) | $251,444 | +$11,449 |
+| Weaseloftheweek | 2 | 3 | 2 | ⚠️ 40% (5) | $284,952 | +$11,449 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 2 | ⚠️ 100% (1) | $139,254 | +$100,800 |
 | Sassy-Bucket | 1 | 0 | 1 | ⚠️ 100% (1) | $139,137 | +$28,600 |
@@ -58,6 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $33,507 | — | ⏳ Pendiente |
 | Weaseloftheweek | National Bank Open: Iga Swiatek vs Elena Rybakina | Elena Rybakina | 2.22 (45¢) | $26,987 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: GB (-2.5) | GB | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | xifutloong3 | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.72 (58¢) | $36,000 | — | ⏳ Pendiente |
@@ -117,4 +118,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.79 (56¢) | $53,788 | -$53,788 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.27 (44¢) | $42,257 | +$53,782 | ✅ Ganada |
 | b0c | National Bank Open: Elina Svitolina vs Iga Swiatek | Elina Svitolina | 1.72 (58¢) | $26,397 | -$26,397 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Elina Svitolina vs Iga Swiatek | Iga Swiatek | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
