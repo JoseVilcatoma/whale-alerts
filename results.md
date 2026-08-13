@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 11:50:52 (hora de Perú)
+Actualizado: 2026-08-13 11:52:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **56**  ($3,331,031 en total)
+- Apuestas registradas: **57**  ($3,357,431 en total)
 - Resueltas: **35** — 22 ganadas / 13 perdidas (**63%** de acierto)
-- Pendientes: 21
-- Apostadores distintos: 25
+- Pendientes: 22
+- Apostadores distintos: 26
 
 ### Balance
 
@@ -45,6 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
 | Mamagovorila | 0 | 0 | 1 | — | $27,652 | — |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
+| Sassy-Bucket | 0 | 0 | 1 | — | $26,400 | — |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
 | madwish355 | 0 | 0 | 1 | — | $25,652 | — |
 | Lakersfan111 | 0 | 0 | 1 | — | $25,600 | — |
@@ -54,6 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $26,400 | — | ⏳ Pendiente |
 | ohehe | Counter-Strike: Team Falcons vs Astralis (BO3) - Esports World Cup Group B | Team Falcons | 1.23 (81¢) | $37,490 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Team Falcons vs Astralis (BO3) - Esports World Cup Group B | Team Falcons | 1.23 (81¢) | $29,388 | — | ⏳ Pendiente |
 | 111111111115 | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | Legacy | 2.04 (49¢) | $57,765 | — | ⏳ Pendiente |
