@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 06:55:17 (hora de Perú)
+Actualizado: 2026-08-13 06:57:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $595.04
-**Retorno acumulado:** -40.50%
+**Bankroll actual:** $963.08
+**Retorno acumulado:** -3.69%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,8 +13,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| BBQChickenisthebesttt | 38 | 27 | 3 | +558.08 USD |
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
-| BBQChickenisthebesttt | 37 | 27 | 4 | +190.04 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | wr0ngw4yb3tt0r | 72 | 74 | 0 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
