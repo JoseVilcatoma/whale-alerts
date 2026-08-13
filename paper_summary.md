@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 12:34:06 (hora de Perú)
+Actualizado: 2026-08-13 12:36:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,13 +15,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 65 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 66 | +0.00 USD |
 | RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 16 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
-| ActionReaction | 0 | 0 | 6 | +0.00 USD |
+| ActionReaction | 0 | 0 | 7 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | SDTrading | 0 | 0 | 1 | +0.00 USD |
 
@@ -41,6 +41,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Pcific Esports (BUY) | 11% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 34% | 0.00 | 6.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: AS Omónoia Leukosías (-1.5) | AS Omónoia Leukosías (BUY) | 76% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 35% | 0.00 | 7.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Joblife (BUY) | 81% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -68,6 +70,4 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 72% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: 1 | Under (BUY) | 46% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Joblife (BUY) | 66% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Cleveland Guardians (-2.5) | Cleveland Guardians (BUY) | 28% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Astralis (BUY) | 17% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-2.5) | Cleveland Guardians (BUY) | 28% | 0.00 | 0.2% | ⏳ pendiente | — |
