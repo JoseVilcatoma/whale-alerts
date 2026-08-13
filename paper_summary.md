@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 07:07:44 (hora de Perú)
+Actualizado: 2026-08-13 07:09:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $963.08
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 38 | 27 | 6 | +558.08 USD |
+| BBQChickenisthebesttt | 38 | 27 | 10 | +558.08 USD |
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | wr0ngw4yb3tt0r | 72 | 74 | 0 | +111.09 USD |
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | UpTheBlues | 262 | 157 | 2 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
-| HomeRunHazard | 126 | 113 | 5 | +0.96 USD |
+| HomeRunHazard | 126 | 113 | 6 | +0.96 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
@@ -500,6 +500,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports (BO3)  | Hanwha Life Esports (BUY) | 25% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports (BO3)  | Hanwha Life Esports (BUY) | 25% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Las Vegas Aces (-7.5) | Las Vegas Aces (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 44% | 20.50 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 44% | 852.74 | ⏳ pendiente | — |
@@ -525,8 +530,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Team Yandex vs HULIGANI - Game 1 | HULIGANI (BUY) | 14% | 0.00 | ❌ perdida | -0.00 |
 | BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 61% | 21.54 | ✅ ganada | +13.77 |
 | BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 58% | 0.00 | ✅ ganada | +0.00 |
-| BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 58% | 0.00 | ✅ ganada | +0.00 |
-| ActionReaction | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 45% | 0.00 | 💰 vendida anticipada | -0.00 |
-| BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas ( | Ninjas in Pyjamas (BUY) | 52% | 10.21 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 26% | 0.00 | ❌ perdida | -0.00 |
-| ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 33% | 0.00 | ❌ perdida | -0.00 |
