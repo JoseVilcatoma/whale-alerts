@@ -1,5 +1,5 @@
 {
-  "bankroll": 993.424918050389,
+  "bankroll": 120.184918050389,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19705,6 +19705,41 @@
       "timestamp": 1786633313.4222364,
       "bankroll": 993.42,
       "event": "venta anticipada: Weaseloftheweek \u2014 Counter-Strike: BIG vs G2 - Map 2 Winner (+4.50 USD)"
+    },
+    {
+      "timestamp": 1786635204.7783897,
+      "bankroll": 140.68,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786635204.8785644,
+      "bankroll": 120.18,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786635204.978801,
+      "bankroll": 120.18,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786635205.0790257,
+      "bankroll": 120.18,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786635205.4795318,
+      "bankroll": 120.18,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786635205.5796618,
+      "bankroll": 120.18,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786635205.6797717,
+      "bankroll": 120.18,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner"
     }
   ]
 }
