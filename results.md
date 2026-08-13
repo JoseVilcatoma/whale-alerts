@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 22:48:08 (hora de Perú)
+Actualizado: 2026-08-12 22:50:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **18**  ($1,719,504 en total)
+- Apuestas registradas: **19**  ($1,746,222 en total)
 - Resueltas: **5** — 2 ganadas / 3 perdidas (**40%** de acierto)
-- Pendientes: 13
-- Apostadores distintos: 12
+- Pendientes: 14
+- Apostadores distintos: 13
 
 ### Balance
 
@@ -35,12 +35,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 0 | 0 | 1 | — | $53,788 | — |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | — | $42,257 | — |
 | lIlIlIllllIIIII | 0 | 0 | 1 | — | $31,285 | — |
+| 0F62 | 0 | 0 | 1 | — | $26,718 | — |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $26,718 | — | ⏳ Pendiente |
 | Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.38 (42¢) | $53,984 | — | ⏳ Pendiente |
 | S-Works | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.28 (78¢) | $312,000 | — | ⏳ Pendiente |
 | Djdjdjekekek | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 4.55 (22¢) | $95,671 | — | ⏳ Pendiente |
