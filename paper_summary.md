@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 16:52:52 (hora de Perú)
+Actualizado: 2026-08-13 16:54:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,002.72
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| swisstony | 27 | 9 | 33 | +18.94 USD |
+| swisstony | 27 | 9 | 34 | +18.94 USD |
 | RN1 | 16 | 16 | 40 | +2.60 USD |
 | wr0ngw4yb3tt0r | 1 | 5 | 11 | +1.52 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
@@ -77,6 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Mirassol FC vs. LDU de Quito: O/U 2.5 | Under (BUY) | 61% | 2.76 | 0.3% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 3.98 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Washington Nationals (-4.5) | Washington Nationals (BUY) | 69% | 0.00 | 17.3% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 57% | 9.77 | 12.7% | ⏳ pendiente | — |
@@ -106,4 +107,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 5.07 | 11.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 55% | 6.28 | 2.3% | ✅ ganada | +5.14 |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-1.5) | Toronto Blue Jays (BUY) | 49% | 0.00 | 2.8% | ❌ perdida | -0.00 |
-| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Toronto Blue Jays (BUY) | 68% | 0.00 | 1.1% | ⏳ pendiente | — |
