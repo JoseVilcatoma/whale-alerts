@@ -1,5 +1,5 @@
 {
-  "bankroll": 1248.1422655079868,
+  "bankroll": 1248.4694449951664,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -230,6 +230,56 @@
       "timestamp": 1786649864.9140885,
       "bankroll": 1248.14,
       "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786650616.3892193,
+      "bankroll": 1248.47,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786650617.4148731,
+      "bankroll": 1248.47,
+      "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786650618.6208713,
+      "bankroll": 1248.47,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786650619.2219589,
+      "bankroll": 1248.47,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786650619.9230356,
+      "bankroll": 1248.47,
+      "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786650620.0232294,
+      "bankroll": 1248.47,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786650621.0690866,
+      "bankroll": 1248.47,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786650621.1693177,
+      "bankroll": 1248.47,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786650621.569962,
+      "bankroll": 1248.47,
+      "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786650621.6701138,
+      "bankroll": 1248.47,
+      "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
     }
   ]
 }
