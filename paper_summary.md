@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 23:31:23 (hora de Perú)
+Actualizado: 2026-08-12 23:33:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $543.86
-**Retorno acumulado:** -45.61%
+**Bankroll actual:** $549.29
+**Retorno acumulado:** -45.07%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 71 | 74 | 10 | +110.26 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| AV23IUa | 3 | 4 | 1 | +45.27 USD |
+| AV23IUa | 3 | 5 | 0 | +43.08 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 261 | 157 | 3 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
-|  | 3 | 0 | 8 | +0.42 USD |
+|  | 4 | 0 | 7 | +0.47 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
@@ -44,19 +44,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| HomeRunHazard | 122 | 109 | 8 | -4.80 USD |
+| HomeRunHazard | 123 | 110 | 6 | -3.22 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
-| swisstony | 172 | 114 | 27 | -25.82 USD |
+| swisstony | 180 | 119 | 14 | -26.29 USD |
+| RN1 | 243 | 130 | 4 | -26.92 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 233 | 126 | 18 | -34.69 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 667 | 497 | 113 | -94.69 USD |
+| ferrariChampions2026 | 670 | 502 | 105 | -95.98 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
