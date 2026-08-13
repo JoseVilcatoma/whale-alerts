@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 11:38:10 (hora de Perú)
+Actualizado: 2026-08-13 11:40:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 18 | +0.00 USD |
 | RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
@@ -38,6 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Los Angeles Sparks vs. New York Liberty: | Under (BUY) | 49% | 6.15 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dark Passage vs BoostGate Esports ( | Dark Passage (BUY) | 88% | 2.44 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Pcific Esports (BUY) | 80% | 6.97 | 0.7% | ⏳ pendiente | — |
 | ActionReaction | LoL: Skillcamp Esport vs Karmine Corp Bl | Skillcamp Esport (BUY) | 28% | 250.00 ⚠️ | 31.2% | ⏳ pendiente | — |
@@ -67,4 +68,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Qarabağ Ağdam FK vs. FK Dynamo Kyiv: O/U | Over (BUY) | 57% | 1.64 | 0.2% | ⏳ pendiente | — |
 | swisstony | FC Flora vs. Inter Club d'Escaldes: O/U  | Under (BUY) | 81% | 1.22 | 0.1% | ⏳ pendiente | — |
 | swisstony | Ilves Tampere vs. HNK Rijeka: Both Teams | No (BUY) | 59% | 1.28 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: FC Lugano (-1.5) | FC Lugano (BUY) | 46% | 3.14 | 0.3% | ⏳ pendiente | — |
