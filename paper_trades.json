@@ -82084,5 +82084,69 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786585688.4934633,
     "fills": 1
+  },
+  {
+    "timestamp": 1786585732,
+    "timestamp_added": 1786585733.0937438,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-cru-fla-2026-08-12-cru",
+    "title": "Will Cruzeiro EC win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 564.3000000000001,
+    "whale_pct": 0.101,
+    "paper_stake_usd": 0.58,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786585733.0937526,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786585778,
+    "timestamp_added": 1786585779.1027627,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-tor-dal-2026-08-12",
+    "title": "Toronto Tempo vs. Dallas Wings",
+    "outcome": "Dallas Wings",
+    "side": "BUY",
+    "whale_usd": 628.0908400000001,
+    "whale_pct": 0.11,
+    "paper_stake_usd": 0.63,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786585779.1027858,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786585799,
+    "timestamp_added": 1786585800.2213483,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-cin-cws-2026-08-12-spread-home-3pt5",
+    "title": "Spread: Chicago White Sox (-3.5)",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "whale_usd": 1490.9407999999999,
+    "whale_pct": 0.455,
+    "paper_stake_usd": 2.63,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786585800.8691585,
+    "fills": 2
   }
 ]

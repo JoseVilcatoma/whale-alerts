@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 20:48:52 (hora de Perú)
+Actualizado: 2026-08-12 20:50:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $578.08
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 67 | 70 | 7 | +104.98 USD |
+| wr0ngw4yb3tt0r | 67 | 70 | 8 | +104.98 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
@@ -49,12 +49,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 204 | 115 | 56 | -40.79 USD |
+| RN1 | 204 | 115 | 57 | -40.79 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 647 | 485 | 37 | -90.79 USD |
+| ferrariChampions2026 | 647 | 485 | 38 | -90.79 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -482,12 +482,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-sea-nyy-2026-08-12-total-13pt5 | HomeRunHazard, ferrariChampions2026 |
 | lib-cru-fla-2026-08-12-draw | RN1, ferrariChampions2026 |
 | lib-cru-fla-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
+| mlb-cin-cws-2026-08-12-spread-home-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-cin-cws-2026-08-12-total-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Chicago White Sox (-3.5) | Cincinnati Reds (BUY) | 76% | 2.63 | ⏳ pendiente | — |
+| ferrariChampions2026 | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 91% | 0.63 | ⏳ pendiente | — |
+| RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 33% | 0.58 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Cruzeiro EC vs. CR Flamengo end in  | No (BUY) | 73% | 0.62 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 45% | 1.27 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 45% | 2.75 | ⏳ pendiente | — |
@@ -515,6 +519,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 47% | 4.99 | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 48% | 2.10 | ⏳ pendiente | — |
 | HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 8. | Under (BUY) | 75% | 1.04 | ❌ perdida | -1.04 |
-| RN1 | Spread: Toronto Blue Jays (-2.5) | Boston Red Sox (BUY) | 53% | 1.65 | ⏳ pendiente | — |
-| RN1 | Cruzeiro EC vs. CR Flamengo: O/U 0.5 | Over (BUY) | 73% | 1.12 | ⏳ pendiente | — |
-| RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 71% | 1.14 | ⏳ pendiente | — |
