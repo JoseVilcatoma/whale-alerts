@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 10:57:38 (hora de Perú)
+Actualizado: 2026-08-13 10:59:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **48**  ($2,932,245 en total)
+- Apuestas registradas: **51**  ($3,137,936 en total)
 - Resueltas: **35** — 22 ganadas / 13 perdidas (**63%** de acierto)
-- Pendientes: 13
-- Apostadores distintos: 22
+- Pendientes: 16
+- Apostadores distintos: 23
 
 ### Balance
 
@@ -27,17 +27,18 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 7 | 1 | 3 | 88% | $850,620 | +$219,658 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
+| Weaseloftheweek | 2 | 1 | 2 | ⚠️ 67% (3) | $224,457 | +$110,752 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
-| Weaseloftheweek | 2 | 1 | 1 | ⚠️ 67% (3) | $155,160 | +$110,752 |
 | TennisLove | 0 | 0 | 1 | — | $100,000 | — |
+| highnetworth | 0 | 0 | 1 | — | $99,472 | — |
 | Marcoli | 0 | 1 | 1 | ⚠️ 0% (1) | $89,838 | -$40,000 |
 | NemecGhudini | 2 | 0 | 0 | ⚠️ 100% (2) | $86,190 | +$36,460 |
 | AV23IUa | 0 | 1 | 1 | ⚠️ 0% (1) | $83,036 | -$57,499 |
 | ferrariChampions2026 | 0 | 1 | 1 | ⚠️ 0% (1) | $80,628 | -$53,788 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 0 | ⚠️ 100% (1) | $79,200 | +$100,800 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 2 | — | $72,258 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 0 | 1 | ⚠️ 100% (1) | $72,000 | +$19,613 |
 | wr0ngw4yb3tt0r | 1 | 0 | 0 | ⚠️ 100% (1) | $42,257 | +$53,782 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $35,335 | — |
 | hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
 | ohehe | 0 | 0 | 1 | — | $32,706 | — |
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
@@ -51,6 +52,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | Legacy | 2.00 (50¢) | $36,923 | — | ⏳ Pendiente |
+| Weaseloftheweek | Seattle Mariners vs. New York Yankees | New York Yankees | 1.67 (60¢) | $69,296 | — | ⏳ Pendiente |
+| highnetworth | Cincinnati Open: Martin Landaluce vs Jack Draper | Martin Landaluce | 1.92 (52¢) | $99,472 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Martin Landaluce vs Jack Draper | Jack Draper | 2.08 (48¢) | $49,812 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. New York Yankees | Seattle Mariners | 2.44 (41¢) | $34,704 | — | ⏳ Pendiente |
 | Weaseloftheweek | Seattle Mariners vs. New York Yankees | New York Yankees | 1.72 (58¢) | $30,006 | — | ⏳ Pendiente |
