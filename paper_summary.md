@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 09:55:16 (hora de Perú)
+Actualizado: 2026-08-13 09:57:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $988.92
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
-| Weaseloftheweek | 15 | 2 | 0 | -2.32 USD |
+| Weaseloftheweek | 15 | 2 | 1 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
@@ -499,12 +499,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tex-laa-2026-08-13-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-tex-laa-2026-08-13-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-atl-conn-2026-08-13-spread-away-9pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
-| cs2-big5-g2-2026-08-13-game2 | , ferrariChampions2026 |
+| cs2-big5-g2-2026-08-13-game2 | , Weaseloftheweek, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 54% | 40.53 | ⏳ pendiente | — |
 |  | Counter-Strike: Aurora Gaming vs M80 - M | Aurora Gaming (BUY) | 67% | 4.12 | ⏳ pendiente | — |
 | SDTrading | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 46% | 9.92 | ⏳ pendiente | — |
 |  | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 40% | 1.13 | ⏳ pendiente | — |
@@ -534,4 +535,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | Counter-Strike: BIG vs G2 (BO3) - Esport | BIG (BUY) | 36% | 16.89 | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Dream vs. Connecticut Sun: O/U 1 | Under (BUY) | 47% | 2.75 | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
