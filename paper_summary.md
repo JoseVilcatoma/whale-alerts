@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | UpTheBlues | 262 | 157 | 2 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
-| HomeRunHazard | 126 | 113 | 3 | +0.96 USD |
+| HomeRunHazard | 126 | 113 | 4 | +0.96 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
@@ -45,12 +45,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 11 | 2 | 4 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| TeGeeLP | 0 | 3 | 0 | -7.03 USD |
+| TeGeeLP | 0 | 3 | 3 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
 | swisstony | 175 | 115 | 0 | -26.28 USD |
-| RN1 | 245 | 132 | 0 | -27.46 USD |
+| RN1 | 245 | 132 | 4 | -27.46 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | CORGI8 | 0 | 1 | 0 | -46.49 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -59,7 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
-| BrotherObama | 8 | 17 | 0 | -121.31 USD |
+| BrotherObama | 8 | 17 | 2 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | Djdjdjekekek | 5 | 20 | 0 | -137.79 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
@@ -490,6 +490,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cin-cws-2026-08-12-spread-home-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-cin-cws-2026-08-12-total-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | wnba-tor-dal-2026-08-12 | , ferrariChampions2026 |
+| lol-drx-fox1-2026-08-13 | BBQChickenisthebesttt, BrotherObama, ferrariChampions2026 |
 | lol-wb-nip-2026-08-13 | BBQChickenisthebesttt, ferrariChampions2026 |
 | lol-wb-nip-2026-08-13-game1 | ActionReaction, BBQChickenisthebesttt, ferrariChampions2026 |
 | dota2-ts8-xtreme-2026-08-13-game1 | ActionReaction, ferrariChampions2026 |
