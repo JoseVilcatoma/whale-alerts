@@ -81304,8 +81304,8 @@
     "whale_pct": 0.181,
     "paper_stake_usd": 1.04,
     "odds_at_bet": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.04,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786583031.3866065,
@@ -82076,8 +82076,8 @@
     "whale_pct": 0.108,
     "paper_stake_usd": 0.62,
     "odds_at_bet": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.62,
     "overlaps_with": [
       "RN1"
     ],
