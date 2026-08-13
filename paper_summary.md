@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 03:30:13 (hora de Perú)
+Actualizado: 2026-08-13 03:32:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $591.96
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| BBQChickenisthebesttt | 33 | 27 | 7 | +140.48 USD |
+| BBQChickenisthebesttt | 33 | 27 | 9 | +140.48 USD |
 | wr0ngw4yb3tt0r | 72 | 74 | 0 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 2 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | CORGI8 | 0 | 0 | 1 | +0.00 USD |
-| ActionReaction | 2 | 0 | 7 | +0.00 USD |
+| ActionReaction | 2 | 0 | 9 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -501,6 +501,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | BNK FEARX (BUY) | 30% | 0.00 | ⏳ pendiente | — |
+| ActionReaction | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | Kiwoom DRX (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| ActionReaction | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | Kiwoom DRX (BUY) | 67% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | BNK FEARX (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | TeGeeLP | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 63% | 0.00 | ⏳ pendiente | — |
 | ActionReaction | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Just Players vs MOUZ NXT | Just Players (BUY) | 82% | 0.00 | ⏳ pendiente | — |
@@ -527,7 +531,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | Kiwoom DRX (BUY) | 49% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Team Spirit (BUY) | 68% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | BNK FEARX (BUY) | 60% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | Kiwoom DRX (BUY) | 35% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Team Spirit (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | BNK FEARX (BUY) | 63% | 0.00 | ⏳ pendiente | — |
