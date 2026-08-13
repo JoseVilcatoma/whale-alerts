@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 19:17:08 (hora de Perú)
+Actualizado: 2026-08-12 19:20:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2108**  ($56,884,493 en total)
+- Apuestas registradas: **2116**  ($56,994,012 en total)
 - Resueltas: **1360** — 808 ganadas / 552 perdidas (**59%** de acierto)
-- Pendientes: 748
+- Pendientes: 756
 - Apostadores distintos: 181
 
 ### Balance
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 65 | 43% | $9,400,384 | +$652,001 |
-| Djdjdjekekek | 36 | 82 | 53 | 31% | $8,354,392 | -$2,427,829 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 66 | 43% | $9,420,899 | +$652,001 |
+| Djdjdjekekek | 36 | 82 | 57 | 31% | $8,408,379 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 31 | 35% | $3,395,143 | -$564,452 |
-| ferrariChampions2026 | 105 | 32 | 62 | 77% | $2,795,517 | +$168,085 |
+| ferrariChampions2026 | 105 | 32 | 63 | 77% | $2,809,114 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 36 | 0% | $2,314,158 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
 | Weaseloftheweek | 19 | 2 | 9 | 90% | $2,010,911 | +$872,236 |
@@ -71,7 +71,10 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Elina Svitolina vs Iga Swiatek | Iga Swiatek | 1.49 (67¢) | $20,515 | — | ⏳ Pendiente |
 | ferrariChampions2026 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.22 (82¢) | $13,597 | — | ⏳ Pendiente |
+| ferrariChampions2026 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.22 (82¢) | $13,597 | — | ⏳ Pendiente |
+| Djdjdjekekek | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.89 (53¢) | $10,609 | — | ⏳ Pendiente |
 | Djdjdjekekek | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.89 (53¢) | $10,609 | — | ⏳ Pendiente |
 | Djdjdjekekek | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.72 (58¢) | $12,048 | — | ⏳ Pendiente |
 | Djdjdjekekek | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.72 (58¢) | $174,000 | — | ⏳ Pendiente |
@@ -80,6 +83,11 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 2.17 (46¢) | $30,946 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 2.22 (45¢) | $13,500 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 2.27 (44¢) | $15,473 | — | ⏳ Pendiente |
+| curie | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 2.38 (42¢) | $10,710 | — | ⏳ Pendiente |
+| Djdjdjekekek | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.72 (58¢) | $14,790 | — | ⏳ Pendiente |
+| curie | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 2.38 (42¢) | $10,710 | — | ⏳ Pendiente |
+| Djdjdjekekek | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.72 (58¢) | $14,790 | — | ⏳ Pendiente |
+| Djdjdjekekek | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.72 (58¢) | $13,798 | — | ⏳ Pendiente |
 | curie | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 2.38 (42¢) | $10,710 | — | ⏳ Pendiente |
 | Djdjdjekekek | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.72 (58¢) | $14,790 | — | ⏳ Pendiente |
 | Djdjdjekekek | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.72 (58¢) | $14,790 | — | ⏳ Pendiente |
@@ -123,11 +131,3 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 | icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $24,734 | — | ⏳ Pendiente |
 | icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $10,200 | — | ⏳ Pendiente |
 | icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $10,200 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Chicago White Sox | Chicago White Sox | 1.64 (61¢) | $20,333 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox | Cincinnati Reds | 2.56 (39¢) | $12,608 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox | Cincinnati Reds | 2.56 (39¢) | $12,608 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Chicago White Sox | Chicago White Sox | 1.64 (61¢) | $20,333 | — | ⏳ Pendiente |
-| kibanachi | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.11 (90¢) | $11,700 | — | ⏳ Pendiente |
-| kibanachi | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.11 (90¢) | $11,700 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $66,000 | — | ⏳ Pendiente |
-| highnetworth | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 2.94 (34¢) | $34,000 | — | ⏳ Pendiente |
