@@ -1402,5 +1402,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786639951.276672,
     "fills": 1
+  },
+  {
+    "timestamp": 1786639972,
+    "timestamp_added": 1786639972.8607864,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-cin-cws-2026-08-13-total-9pt5",
+    "title": "Cincinnati Reds vs. Chicago White Sox: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 411.07,
+    "whale_pct": 1.009,
+    "whale_value_at_open": 40721.6829,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786639972.860797,
+    "fills": 1
   }
 ]
