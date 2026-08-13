@@ -1,5 +1,5 @@
 {
-  "bankroll": 481.7467282327183,
+  "bankroll": 491.25241784008387,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18675,6 +18675,51 @@
       "timestamp": 1786586095.0095918,
       "bankroll": 481.75,
       "event": "won: HomeRunHazard \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 5.5"
+    },
+    {
+      "timestamp": 1786586282.0570388,
+      "bankroll": 479.17,
+      "event": "lost: HomeRunHazard \u2014 Chicago Cubs vs. Washington Nationals: O/U 15.5"
+    },
+    {
+      "timestamp": 1786586282.4883482,
+      "bankroll": 483.21,
+      "event": "won: HomeRunHazard \u2014 Chicago Cubs vs. Washington Nationals: O/U 15.5"
+    },
+    {
+      "timestamp": 1786586335.2849255,
+      "bankroll": 483.21,
+      "event": "won: UpTheBlues \u2014 Red Bull Bragantino vs. CA Mineiro: Red Bull Bragantino O/U 0.5"
+    },
+    {
+      "timestamp": 1786586337.4259374,
+      "bankroll": 482.55,
+      "event": "lost: RN1 \u2014 Red Bull Bragantino vs. CA Mineiro: O/U 0.5"
+    },
+    {
+      "timestamp": 1786586340.0303543,
+      "bankroll": 483.94,
+      "event": "won: RN1 \u2014 CA Tigre vs. Montevideo City Torque: O/U 1.5"
+    },
+    {
+      "timestamp": 1786586340.1305385,
+      "bankroll": 485.12,
+      "event": "won: ferrariChampions2026 \u2014 CA Tigre vs. Montevideo City Torque: O/U 1.5"
+    },
+    {
+      "timestamp": 1786586341.4132388,
+      "bankroll": 485.61,
+      "event": "won: RN1 \u2014 Red Bull Bragantino vs. CA Mineiro: O/U 1.5"
+    },
+    {
+      "timestamp": 1786586342.8485427,
+      "bankroll": 490.78,
+      "event": "won: ferrariChampions2026 \u2014 Red Bull Bragantino vs. CA Mineiro: O/U 1.5"
+    },
+    {
+      "timestamp": 1786586343.5497901,
+      "bankroll": 491.25,
+      "event": "won: ferrariChampions2026 \u2014 Red Bull Bragantino vs. CA Mineiro: O/U 1.5"
     }
   ]
 }
