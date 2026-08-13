@@ -80948,5 +80948,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786582213.9573278,
     "fills": 3
+  },
+  {
+    "timestamp": 1786582265,
+    "timestamp_added": 1786582265.7319357,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-cru-fla-2026-08-12-fla",
+    "title": "Will CR Flamengo win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1496.8000000000002,
+    "whale_pct": 0.3,
+    "paper_stake_usd": 1.87,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786582274.9735,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786582292,
+    "timestamp_added": 1786582292.5605848,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-cle-det-2026-08-12-total-10pt5",
+    "title": "Cleveland Guardians vs. Detroit Tigers: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1268.2354999999998,
+    "whale_pct": 0.227,
+    "paper_stake_usd": 1.41,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786582292.5605915,
+    "fills": 1
   }
 ]
