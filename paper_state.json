@@ -1,5 +1,5 @@
 {
-  "bankroll": 621.9189654025552,
+  "bankroll": 613.0189654025552,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18505,6 +18505,16 @@
       "timestamp": 1786580353.3680933,
       "bankroll": 621.92,
       "event": "lost: 1winstreak1 \u2014 Spread: Milwaukee Brewers (-2.5)"
+    },
+    {
+      "timestamp": 1786582416.6176088,
+      "bankroll": 619.9,
+      "event": "lost: RN1 \u2014 Chicago Cubs vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1786582419.9231822,
+      "bankroll": 613.02,
+      "event": "lost: 1winstreak1 \u2014 Chicago Cubs vs. Washington Nationals: O/U 8.5"
     }
   ]
 }
