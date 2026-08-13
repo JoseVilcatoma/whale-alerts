@@ -84596,5 +84596,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786632779.6116042,
     "fills": 1
+  },
+  {
+    "timestamp": 1786632905,
+    "timestamp_added": 1786632906.6558006,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "cs2-aur1-m80-2026-08-13-game2",
+    "title": "Counter-Strike: Aurora Gaming vs M80 - Map 2 Winner",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "whale_usd": 565.8799990000001,
+    "whale_pct": 0.417,
+    "paper_stake_usd": 4.12,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786632906.6558068,
+    "fills": 1
   }
 ]

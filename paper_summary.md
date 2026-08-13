@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 09:53:16 (hora de Perú)
+Actualizado: 2026-08-13 09:55:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $988.92
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 4 | 10 | 1 | +15.41 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-|  | 5 | 1 | 1 | +3.47 USD |
+|  | 5 | 1 | 2 | +3.47 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | UpTheBlues | 262 | 157 | 2 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
@@ -505,6 +505,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+|  | Counter-Strike: Aurora Gaming vs M80 - M | Aurora Gaming (BUY) | 67% | 4.12 | ⏳ pendiente | — |
 | SDTrading | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 46% | 9.92 | ⏳ pendiente | — |
 |  | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 40% | 1.13 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Aurora Gaming vs M80 - M | M80 (BUY) | 3% | 1.45 | ⏳ pendiente | — |
@@ -534,4 +535,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Atlanta Dream vs. Connecticut Sun: O/U 1 | Under (BUY) | 47% | 2.75 | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 72% | 0.00 | ⏳ pendiente | — |
