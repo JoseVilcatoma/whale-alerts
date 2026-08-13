@@ -1,5 +1,5 @@
 {
-  "bankroll": 1005.6371881249696,
+  "bankroll": 995.5216041522501,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -760,6 +760,61 @@
       "timestamp": 1786654827.198414,
       "bankroll": 1005.64,
       "event": "won: swisstony \u2014 Spread: G\u00f3rnik Zabrze (-1.5)"
+    },
+    {
+      "timestamp": 1786654880.3350816,
+      "bankroll": 977.7,
+      "event": "lost: RN1 \u2014 Spread: Be\u015fikta\u015f JK (-1.5)"
+    },
+    {
+      "timestamp": 1786654886.5909297,
+      "bankroll": 977.7,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Be\u015fikta\u015f JK (-1.5)"
+    },
+    {
+      "timestamp": 1786654889.3437686,
+      "bankroll": 979.22,
+      "event": "won: swisstony \u2014 Spread: Be\u015fikta\u015f JK (-1.5)"
+    },
+    {
+      "timestamp": 1786654891.8494184,
+      "bankroll": 976.86,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Cincinnati Reds (-4.5)"
+    },
+    {
+      "timestamp": 1786654945.6611044,
+      "bankroll": 976.86,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: AS Om\u00f3noia Leukos\u00edas (-1.5)"
+    },
+    {
+      "timestamp": 1786654946.1742656,
+      "bankroll": 976.86,
+      "event": "won: ferrariChampions2026 \u2014 Hammarby Fotboll vs. RKS Rak\u00f3w Cz\u0119stochowa: O/U 0.5"
+    },
+    {
+      "timestamp": 1786654947.2386875,
+      "bankroll": 976.86,
+      "event": "lost: ferrariChampions2026 \u2014 Hammarby Fotboll vs. RKS Rak\u00f3w Cz\u0119stochowa: O/U 1.5"
+    },
+    {
+      "timestamp": 1786654947.3388932,
+      "bankroll": 976.86,
+      "event": "lost: RN1 \u2014 Hammarby Fotboll vs. RKS Rak\u00f3w Cz\u0119stochowa: O/U 1.5"
+    },
+    {
+      "timestamp": 1786654952.1811736,
+      "bankroll": 983.42,
+      "event": "won: swisstony \u2014 Spread: AS Om\u00f3noia Leukos\u00edas (-1.5)"
+    },
+    {
+      "timestamp": 1786654952.2814054,
+      "bankroll": 991.57,
+      "event": "won: swisstony \u2014 Spread: AS Om\u00f3noia Leukos\u00edas (-1.5)"
+    },
+    {
+      "timestamp": 1786654952.3815386,
+      "bankroll": 995.52,
+      "event": "won: swisstony \u2014 Spread: AS Om\u00f3noia Leukos\u00edas (-1.5)"
     }
   ]
 }

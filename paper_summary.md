@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 16:00:47 (hora de Perú)
+Actualizado: 2026-08-13 16:02:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,005.64
-**Retorno acumulado:** +0.56%
-**Peor caída desde un máximo (drawdown):** 22.73%
+**Bankroll actual:** $995.52
+**Retorno acumulado:** -0.45%
+**Peor caída desde un máximo (drawdown):** 24.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 7
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,17 +15,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| RN1 | 15 | 12 | 43 | +30.54 USD |
+| swisstony | 26 | 8 | 35 | +18.94 USD |
+| RN1 | 15 | 14 | 41 | +2.60 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
 |  | 0 | 0 | 13 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 8 | +0.00 USD |
-| theowalcott | 0 | 0 | 8 | +0.00 USD |
-| swisstony | 22 | 8 | 39 | -1.25 USD |
-| wr0ngw4yb3tt0r | 0 | 3 | 11 | -1.26 USD |
+| theowalcott | 0 | 0 | 10 | +0.00 USD |
 | HomeRunHazard | 1 | 2 | 5 | -2.31 USD |
-| ferrariChampions2026 | 42 | 34 | 40 | -3.46 USD |
+| ferrariChampions2026 | 43 | 37 | 36 | -3.46 USD |
+| wr0ngw4yb3tt0r | 0 | 4 | 10 | -3.62 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 0 | 1 | 7 | -250.00 USD |
@@ -75,6 +75,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 2.82 | 0.3% | ⏳ pendiente | — |
+| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 3.10 | 0.4% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.78 | 0.6% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 7.24 | 0.7% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 5.07 | 11.9% | ⏳ pendiente | — |
@@ -103,5 +105,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Heart of Midlothian FC vs. Sport Lisboa  | Over (BUY) | 99% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 48% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Heart of Midlothian FC win on 2026- | Yes (BUY) | 66% | 9.57 | 0.8% | ⏳ pendiente | — |
-| UpTheBlues | Will Heart of Midlothian FC win on 2026- | No (BUY) | 33% | 1.64 | 0.5% | ⏳ pendiente | — |
-| RN1 | RSC Anderlecht vs. PAOK: O/U 5.5 | Under (BUY) | 81% | 1.59 | 0.1% | ⏳ pendiente | — |
