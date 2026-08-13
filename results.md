@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 08:13:14 (hora de Perú)
+Actualizado: 2026-08-13 08:15:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **40**  ($2,657,202 en total)
+- Apuestas registradas: **41**  ($2,682,739 en total)
 - Resueltas: **33** — 21 ganadas / 12 perdidas (**64%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 20
 
 ### Balance
@@ -31,9 +31,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 2 | 1 | 0 | ⚠️ 67% (3) | $125,154 | +$110,752 |
 | TennisLove | 0 | 0 | 1 | — | $100,000 | — |
 | NemecGhudini | 2 | 0 | 0 | ⚠️ 100% (2) | $86,190 | +$36,460 |
+| AV23IUa | 0 | 1 | 1 | ⚠️ 0% (1) | $83,036 | -$57,499 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 0 | ⚠️ 100% (1) | $79,200 | +$100,800 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 0 | 1 | ⚠️ 100% (1) | $72,000 | +$19,613 |
-| AV23IUa | 0 | 1 | 0 | ⚠️ 0% (1) | $57,499 | -$57,499 |
 | ferrariChampions2026 | 0 | 1 | 0 | ⚠️ 0% (1) | $53,788 | -$53,788 |
 | wr0ngw4yb3tt0r | 1 | 0 | 0 | ⚠️ 100% (1) | $42,257 | +$53,782 |
 | Marcoli | 0 | 0 | 1 | — | $40,000 | — |
@@ -49,6 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | BIG | 2.78 (36¢) | $25,537 | — | ⏳ Pendiente |
 | Marcoli | Hamburg: Andrej Nedic vs Carlos Taberner | Andrej Nedic | 1.15 (87¢) | $40,000 | — | ⏳ Pendiente |
 | madwish355 | LoL: ThunderTalk Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.20 (83¢) | $25,652 | — | ⏳ Pendiente |
 | vv-vv | LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $25,318 | — | ⏳ Pendiente |
