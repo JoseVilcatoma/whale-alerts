@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 14:20:34 (hora de Perú)
+Actualizado: 2026-08-13 14:22:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,248.14
@@ -17,8 +17,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | ferrariChampions2026 | 5 | 6 | 97 | +5.38 USD |
 | RN1 | 2 | 1 | 45 | +1.64 USD |
-| swisstony | 5 | 0 | 53 | +1.09 USD |
-| wr0ngw4yb3tt0r | 0 | 1 | 9 | +0.00 USD |
+| swisstony | 5 | 0 | 54 | +1.09 USD |
+| wr0ngw4yb3tt0r | 0 | 1 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
@@ -63,6 +63,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Will Al Shabab Saudi Club win on 2026-08 | No (BUY) | 84% | 0.00 | 0.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 48% | 0.00 | 0.2% | ⏳ pendiente | — |
 |  | Will Blackburn Rovers FC win on 2026-08- | No (BUY) | 85% | 0.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Spread: FC Thun (-1.5) | KF Víkingur (BUY) | 100% | 0.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | FC Vaduz vs. FC Inter Turku: O/U 4.5 | Under (BUY) | 78% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -91,5 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 65% | 1.38 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: GIANTX vs Fnatic (BO3) - VCT E | Fnatic (BUY) | 84% | 5.23 | 0.4% | ⏳ pendiente | — |
 | swisstony | Will FC Inter Turku win on 2026-08-13? | No (BUY) | 96% | 1.94 | 0.2% | ⏳ pendiente | — |
-| swisstony | RSC Anderlecht vs. PAOK: Both Teams to S | Yes (BUY) | 71% | 2.20 | 0.2% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Spirit vs Aurora (BO3) - Th | Aurora (BUY) | 45% | 206.34 | 16.6% | ⏳ pendiente | — |
