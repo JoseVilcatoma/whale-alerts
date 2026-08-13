@@ -1,5 +1,5 @@
 {
-  "bankroll": 1118.9013980894426,
+  "bankroll": 1112.9648407123934,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -885,6 +885,16 @@
       "timestamp": 1786660641.4607427,
       "bankroll": 1118.9,
       "event": "won: swisstony \u2014 RSC Anderlecht vs. PAOK: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786661206.8794959,
+      "bankroll": 1111.64,
+      "event": "lost: 1winstreak1 \u2014 Spread: Washington Nationals (-4.5)"
+    },
+    {
+      "timestamp": 1786661267.8955162,
+      "bankroll": 1112.96,
+      "event": "won: swisstony \u2014 Will RSC Anderlecht win on 2026-08-13?"
     }
   ]
 }
