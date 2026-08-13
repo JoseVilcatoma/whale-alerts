@@ -82887,5 +82887,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786602310.4607754,
     "fills": 2
+  },
+  {
+    "timestamp": 1786602452,
+    "timestamp_added": 1786602453.2590144,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-aur1-gl-2026-08-13-game2",
+    "title": "Dota 2: Aurora vs GamerLegion - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "whale_usd": 589.8412,
+    "whale_pct": 0.344,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 26,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786602453.2590218,
+    "fills": 1
   }
 ]
