@@ -85377,5 +85377,30 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786610039.9936726,
     "fills": 2
+  },
+  {
+    "timestamp": 1786610068,
+    "timestamp_added": 1786610068.8774023,
+    "username": "TeGeeLP",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-wb-nip-2026-08-13-game2",
+    "title": "LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 2 Winner",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "whale_usd": 821.183,
+    "whale_pct": 5.896,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction",
+      "BBQChickenisthebesttt",
+      "BrotherObama",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786610068.8774095,
+    "fills": 1
   }
 ]
