@@ -1,5 +1,5 @@
 {
-  "bankroll": 572.75855723929,
+  "bankroll": 572.9358945048928,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18545,6 +18545,41 @@
       "timestamp": 1786582973.6816485,
       "bankroll": 572.76,
       "event": "lost: 1winstreak1 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786583845.904506,
+      "bankroll": 573.89,
+      "event": "won: 1winstreak1 \u2014 Seattle Mariners vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786583848.7963603,
+      "bankroll": 570.94,
+      "event": "lost: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786583855.503321,
+      "bankroll": 569.51,
+      "event": "lost: 1winstreak1 \u2014 Seattle Mariners vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786584225.4424517,
+      "bankroll": 572.3,
+      "event": "won: 1winstreak1 \u2014 New York Mets vs. Atlanta Braves: O/U 7.5"
+    },
+    {
+      "timestamp": 1786584228.3651927,
+      "bankroll": 573.03,
+      "event": "won: RN1 \u2014 New York Mets vs. Atlanta Braves: O/U 7.5"
+    },
+    {
+      "timestamp": 1786584228.4653466,
+      "bankroll": 572.23,
+      "event": "lost: RN1 \u2014 New York Mets vs. Atlanta Braves: O/U 7.5"
+    },
+    {
+      "timestamp": 1786584228.565506,
+      "bankroll": 572.94,
+      "event": "won: HomeRunHazard \u2014 New York Mets vs. Atlanta Braves: O/U 7.5"
     }
   ]
 }
