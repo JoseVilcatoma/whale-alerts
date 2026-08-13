@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 13:03:13 (hora de Perú)
+Actualizado: 2026-08-13 13:05:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,10 +15,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 81 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 82 | +0.00 USD |
 | RN1 | 0 | 0 | 21 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
-| swisstony | 0 | 0 | 20 | +0.00 USD |
+| swisstony | 0 | 0 | 21 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 7 | +0.00 USD |
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | spl-abh-haz-2026-08-13-haz | RN1, swisstony |
 | cs2-lgc-faze-2026-08-13 | Lakersfan111, Nooserac, ferrariChampions2026 |
 | mlb-cin-cws-2026-08-13-total-8pt5 | SDTrading, Sassy-Bucket |
-| mlb-cin-cws-2026-08-13-total-9pt5 | Sassy-Bucket, wr0ngw4yb3tt0r |
+| mlb-cin-cws-2026-08-13-total-9pt5 | Sassy-Bucket, swisstony, wr0ngw4yb3tt0r |
 | uel-gor1-ftc-2026-08-13-gor1 | RN1, ferrariChampions2026 |
 | uel-ucr-kps-2026-08-13-total-2pt5 | RN1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-13-total-7pt5 | RN1, ferrariChampions2026 |
@@ -47,6 +47,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 90% | 0.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 66% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will FC Sion win on 2026-08-13? | No (BUY) | 40% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 80% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 51% | 0.00 | 1.6% | ⏳ pendiente | — |
@@ -75,5 +77,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Atlanta Dream vs. Connecticut Sun: O/U 1 | Under (BUY) | 49% | 0.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Cincinnati Reds (-1.5) | Cincinnati Reds (BUY) | 51% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Seattle Mariners (BUY) | 56% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will FC Nordsjælland win on 2026-08-13? | Yes (BUY) | 95% | 0.00 | 0.3% | ⏳ pendiente | — |
