@@ -78989,8 +78989,8 @@
     "whale_pct": 0.709,
     "paper_stake_usd": 4.51,
     "odds_at_bet": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.65,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786577014.144671,
@@ -79009,8 +79009,8 @@
     "whale_pct": 0.404,
     "paper_stake_usd": 2.57,
     "odds_at_bet": 37,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.57,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -79095,8 +79095,8 @@
     "whale_pct": 0.171,
     "paper_stake_usd": 1.09,
     "odds_at_bet": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.09,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786577056.4114287,
@@ -80572,8 +80572,8 @@
     "whale_pct": 0.229,
     "paper_stake_usd": 1.46,
     "odds_at_bet": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.1,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -81046,8 +81046,8 @@
     "whale_pct": 0.193,
     "paper_stake_usd": 1.18,
     "odds_at_bet": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.44,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -82309,6 +82309,50 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786586846.020247,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786586983,
+    "timestamp_added": 1786586983.5729554,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wnba-tor-dal-2026-08-12",
+    "title": "Toronto Tempo vs. Dallas Wings",
+    "outcome": "Dallas Wings",
+    "side": "BUY",
+    "whale_usd": 1394.021,
+    "whale_pct": 0.642,
+    "paper_stake_usd": 3.37,
+    "odds_at_bet": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786586983.5729651,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786587033,
+    "timestamp_added": 1786587033.8250835,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wnba-tor-dal-2026-08-12",
+    "title": "Toronto Tempo vs. Dallas Wings",
+    "outcome": "Dallas Wings",
+    "side": "BUY",
+    "whale_usd": 1973.119968,
+    "whale_pct": 0.903,
+    "paper_stake_usd": 4.75,
+    "odds_at_bet": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786587033.825093,
     "fills": 1
   }
 ]

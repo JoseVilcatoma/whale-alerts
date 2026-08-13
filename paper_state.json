@@ -1,5 +1,5 @@
 {
-  "bankroll": 525.6258478314032,
+  "bankroll": 526.1524198550695,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18905,6 +18905,31 @@
       "timestamp": 1786586969.9909546,
       "bankroll": 525.63,
       "event": "won: RN1 \u2014 Spread: Toronto Blue Jays (-2.5)"
+    },
+    {
+      "timestamp": 1786587023.6041765,
+      "bankroll": 528.27,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786587023.704345,
+      "bankroll": 525.7,
+      "event": "lost: RN1 \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786587028.1239538,
+      "bankroll": 526.14,
+      "event": "won: HomeRunHazard \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786587085.4124897,
+      "bankroll": 525.05,
+      "event": "lost: 1winstreak1 \u2014 Spread: Chicago Cubs (-1.5)"
+    },
+    {
+      "timestamp": 1786587087.5159485,
+      "bankroll": 526.15,
+      "event": "won: RN1 \u2014 Spread: Chicago Cubs (-1.5)"
     }
   ]
 }
