@@ -83369,8 +83369,8 @@
     "whale_pct": 322.997,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786606362.7510216,
@@ -83434,7 +83434,7 @@
     "whale_pct": 0.612,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -83456,7 +83456,7 @@
     "whale_pct": 1.172,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -83544,8 +83544,8 @@
     "whale_pct": 0.527,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction"
     ],
@@ -83566,8 +83566,8 @@
     "whale_pct": 0.296,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 39,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction"
     ],
@@ -83722,8 +83722,8 @@
     "whale_pct": 0.224,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 31,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction"
     ],
@@ -83744,7 +83744,7 @@
     "whale_pct": 2.559,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -83786,7 +83786,7 @@
     "whale_pct": 0.163,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -83828,7 +83828,7 @@
     "whale_pct": 0.388,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -83850,8 +83850,8 @@
     "whale_pct": 1.115,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction"
     ],
@@ -83892,8 +83892,8 @@
     "whale_pct": 0.155,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction"
     ],
@@ -83914,8 +83914,8 @@
     "whale_pct": 0.22,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction"
     ],
@@ -83936,8 +83936,8 @@
     "whale_pct": 0.44,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction"
     ],
@@ -83958,7 +83958,7 @@
     "whale_pct": 0.247,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 39,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -83980,7 +83980,7 @@
     "whale_pct": 0.441,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 39,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -84062,8 +84062,8 @@
     "whale_pct": 0.529,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction"
     ],
@@ -84104,8 +84104,8 @@
     "whale_pct": 0.252,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction"
     ],
@@ -84126,8 +84126,8 @@
     "whale_pct": 0.255,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction"
     ],
@@ -84148,7 +84148,7 @@
     "whale_pct": 0.153,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 36,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -84170,7 +84170,7 @@
     "whale_pct": 0.115,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 39,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -84192,8 +84192,8 @@
     "whale_pct": 0.307,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction"
     ],
@@ -84214,7 +84214,7 @@
     "whale_pct": 0.605,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 34,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -84236,7 +84236,7 @@
     "whale_pct": 0.131,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -84258,7 +84258,7 @@
     "whale_pct": 0.11,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -84280,8 +84280,8 @@
     "whale_pct": 0.134,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction"
     ],
@@ -84302,7 +84302,7 @@
     "whale_pct": 0.126,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -84344,7 +84344,7 @@
     "whale_pct": 0.338,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -84366,8 +84366,8 @@
     "whale_pct": 0.124,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 38,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction"
     ],
@@ -84388,7 +84388,7 @@
     "whale_pct": 0.208,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -84410,8 +84410,8 @@
     "whale_pct": 0.12,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction"
     ],
@@ -84432,7 +84432,7 @@
     "whale_pct": 0.442,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -84454,7 +84454,7 @@
     "whale_pct": 0.442,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -84542,7 +84542,7 @@
     "whale_pct": 0.651,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -84609,7 +84609,7 @@
     "whale_pct": 0.395,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 70,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -84677,7 +84677,7 @@
     "whale_pct": 0.397,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction"
@@ -84940,8 +84940,8 @@
     "whale_pct": 0.193,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 33,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction"
     ],
