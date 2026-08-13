@@ -5574,5 +5574,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786648202.8570364,
     "fills": 1
+  },
+  {
+    "timestamp": 1786648226,
+    "timestamp_added": 1786648227.0392678,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "uel-and-pao1-2026-08-13-spread-away-1pt5",
+    "title": "Spread: PAOK (-1.5)",
+    "outcome": "RSC Anderlecht",
+    "side": "BUY",
+    "whale_usd": 744.359995,
+    "whale_pct": 0.141,
+    "whale_value_at_open": 529475.6505,
+    "paper_stake_usd": 1.75,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786648227.039275,
+    "fills": 1
   }
 ]
