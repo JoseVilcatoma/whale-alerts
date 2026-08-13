@@ -332,5 +332,20 @@
     "status": "pending",
     "ultimo_fill": 1786602110,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 46,
+    "timestamp": 1786602157,
+    "username": "0xheavy888",
+    "wallet": "0xec981ed70ae69c5cbcac08c1ba063e734f6bafcd",
+    "slug": "dota2-liquid-vg-2026-08-13-game1",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 33407.191600000006,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1786602157,
+    "fills": 1
   }
 ]
