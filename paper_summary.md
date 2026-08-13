@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 18:54:32 (hora de Perú)
+Actualizado: 2026-08-13 18:56:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,140.29
@@ -19,15 +19,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 2 | 3 | 3 | +75.24 USD |
 | swisstony | 36 | 10 | 9 | +21.58 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| ferrariChampions2026 | 56 | 50 | 64 | +10.27 USD |
+| ferrariChampions2026 | 56 | 50 | 66 | +10.27 USD |
 | RN1 | 24 | 23 | 45 | +2.60 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 15 | +0.00 USD |
 | cigarettes | 0 | 0 | 2 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 16 | +0.00 USD |
-|  | 0 | 0 | 2 | +0.00 USD |
+|  | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 1 | 1 | 0 | -0.08 USD |
-| wr0ngw4yb3tt0r | 0 | 7 | 18 | -15.12 USD |
+| wr0ngw4yb3tt0r | 0 | 7 | 19 | -15.12 USD |
 | Lakersfan111 | 0 | 3 | 0 | -45.49 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 1 | 6 | 0 | -250.00 USD |
@@ -76,11 +76,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lib-mir-lqu-2026-08-13-total-2pt5 | , ferrariChampions2026 |
 | wnba-atl-conn-2026-08-13 | 1winstreak1, ferrariChampions2026, swisstony |
 | mlb-phi-min-2026-08-13-total-10pt5 | , 1winstreak1, ferrariChampions2026 |
+| wnba-atl-conn-2026-08-13-total-174pt5 | , swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Atlanta Dream vs. Connecticut Sun: O/U 1 | Under (BUY) | 67% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Red Feet vs QUINTESSÊNCI | QUINTESSÊNCIA (BUY) | 32% | 0.00 | 0.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Colts vs. Patriots | Patriots (BUY) | 44% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Red Feet vs QUINTESSÊNCI | QUINTESSÊNCIA (BUY) | 37% | 0.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 62% | 0.00 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 61% | 0.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Red Feet vs QUINTESSÊNCI | Red Feet (BUY) | 72% | 0.00 | 0.9% | ⏳ pendiente | — |
@@ -107,7 +112,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will New York City FC win on 2026-08-13? | No (BUY) | 44% | 0.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 36% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will New York City FC win on 2026-08-13? | Yes (BUY) | 55% | 0.00 | 0.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chargers vs. Texans | Texans (BUY) | 48% | 0.00 | 0.9% | ⏳ pendiente | — |
-| swisstony | Atlanta Dream vs. Connecticut Sun: O/U 1 | Under (BUY) | 67% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 61% | 0.00 | 1.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Philadelphia Union vs. Club Santos Lagun | Over (BUY) | 38% | 0.00 | 0.1% | ⏳ pendiente | — |
