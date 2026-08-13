@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 07:19:28 (hora de Perú)
+Actualizado: 2026-08-13 07:21:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **39**  ($2,617,202 en total)
+- Apuestas registradas: **40**  ($2,657,202 en total)
 - Resueltas: **33** — 21 ganadas / 12 perdidas (**64%** de acierto)
-- Pendientes: 6
-- Apostadores distintos: 19
+- Pendientes: 7
+- Apostadores distintos: 20
 
 ### Balance
 
@@ -36,6 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 0 | 1 | 0 | ⚠️ 0% (1) | $57,499 | -$57,499 |
 | ferrariChampions2026 | 0 | 1 | 0 | ⚠️ 0% (1) | $53,788 | -$53,788 |
 | wr0ngw4yb3tt0r | 1 | 0 | 0 | ⚠️ 100% (1) | $42,257 | +$53,782 |
+| Marcoli | 0 | 0 | 1 | — | $40,000 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $35,335 | — |
 | hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
@@ -48,6 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Marcoli | Hamburg: Andrej Nedic vs Carlos Taberner | Andrej Nedic | 1.15 (87¢) | $40,000 | — | ⏳ Pendiente |
 | madwish355 | LoL: ThunderTalk Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.20 (83¢) | $25,652 | — | ⏳ Pendiente |
 | vv-vv | LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $25,318 | — | ⏳ Pendiente |
 | TennisLove | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.43 (70¢) | $100,000 | — | ⏳ Pendiente |
