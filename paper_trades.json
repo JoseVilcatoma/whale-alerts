@@ -83224,8 +83224,8 @@
     "whale_pct": 53.656,
     "paper_stake_usd": 10.21,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 9.42,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786604833.6776934,
@@ -83394,8 +83394,8 @@
     "whale_pct": 0.145,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 29,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "BBQChickenisthebesttt"
     ],
@@ -84023,6 +84023,26 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786623904.5982835,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786624012,
+    "timestamp_added": 1786624012.8277721,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-bos-tor-2026-08-13-total-7pt5",
+    "title": "Boston Red Sox vs. Toronto Blue Jays: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 181.5197,
+    "whale_pct": 0.196,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786624012.8277812,
     "fills": 1
   }
 ]
