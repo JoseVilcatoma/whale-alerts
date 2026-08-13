@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 05:22:16 (hora de Perú)
+Actualizado: 2026-08-13 05:24:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $568.67
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 175 | 115 | 0 | -26.28 USD |
 | RN1 | 245 | 132 | 4 | -27.46 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| CORGI8 | 0 | 1 | 1 | -46.49 USD |
+| CORGI8 | 0 | 1 | 2 | -46.49 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | ferrariChampions2026 | 675 | 512 | 70 | -68.75 USD |
@@ -501,6 +501,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: TEAM VISION vs Team Falcons - Ga | Team Falcons (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | CORGI8 | Dota 2: TEAM VISION vs Team Falcons - Ga | Team Falcons (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Dota 2: TEAM VISION vs Team Falcons (BO3 | Team Falcons (BUY) | 40% | 7.06 | ⏳ pendiente | — |
 | Weaseloftheweek | Dota 2: TEAM VISION vs Team Falcons (BO3 | Team Falcons (BUY) | 39% | 1.34 | ⏳ pendiente | — |
@@ -530,4 +531,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | Kiwoom DRX (BUY) | 74% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 2 W | GamerLegion (BUY) | 35% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 39% | 0.00 | ⏳ pendiente | — |
