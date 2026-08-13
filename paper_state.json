@@ -1,5 +1,5 @@
 {
-  "bankroll": 584.0110576585932,
+  "bankroll": 591.964212420498,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19435,6 +19435,11 @@
       "timestamp": 1786603977.3881783,
       "bankroll": 584.01,
       "event": "won:  \u2014 Will San Diego FC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786605474.0804768,
+      "bankroll": 591.96,
+      "event": "venta anticipada: BBQChickenisthebesttt \u2014 LoL: KT Rolster Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group (+7.95 USD)"
     }
   ]
 }

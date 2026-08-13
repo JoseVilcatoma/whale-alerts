@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 02:17:12 (hora de Perú)
+Actualizado: 2026-08-13 02:19:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $584.01
-**Retorno acumulado:** -41.60%
+**Bankroll actual:** $591.96
+**Retorno acumulado:** -40.80%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| BBQChickenisthebesttt | 31 | 27 | 5 | +132.53 USD |
+| BBQChickenisthebesttt | 33 | 27 | 5 | +140.48 USD |
 | wr0ngw4yb3tt0r | 72 | 74 | 0 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -496,6 +496,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 61% | 21.54 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | ActionReaction | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas ( | Ninjas in Pyjamas (BUY) | 52% | 10.21 | ⏳ pendiente | — |
@@ -515,8 +517,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Vici Gaming - Gam | Team Liquid (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 2 W | GamerLegion (BUY) | 26% | 0.00 | ⏳ pendiente | — |
-| Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
