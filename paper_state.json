@@ -1,5 +1,5 @@
 {
-  "bankroll": 1017.8849449500979,
+  "bankroll": 1018.6280218731748,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -480,6 +480,11 @@
       "timestamp": 1786653123.178407,
       "bankroll": 1017.88,
       "event": "won: ferrariChampions2026 \u2014 LoL: Dark Passage vs BoostGate Esports (BO3) - TCL Play-Ins"
+    },
+    {
+      "timestamp": 1786653326.7488072,
+      "bankroll": 1018.63,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 17.5"
     }
   ]
 }
