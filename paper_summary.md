@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 00:28:10 (hora de Perú)
+Actualizado: 2026-08-13 00:30:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $559.40
-**Retorno acumulado:** -44.06%
+**Bankroll actual:** $582.80
+**Retorno acumulado:** -41.72%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 1 | +132.53 USD |
-| wr0ngw4yb3tt0r | 71 | 74 | 1 | +110.26 USD |
+| wr0ngw4yb3tt0r | 72 | 74 | 0 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 5 | 0 | +43.08 USD |
@@ -54,9 +54,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
+| ferrariChampions2026 | 673 | 500 | 2 | -68.43 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 672 | 500 | 3 | -91.01 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -498,7 +498,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 51% | 0.94 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 51% | 0.86 | ⏳ pendiente | — |
 | swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 91% | 2.71 | ✅ ganada | +0.27 |
-| wr0ngw4yb3tt0r | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 62% | 1.35 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 62% | 1.35 | ✅ ganada | +0.83 |
 | swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 89% | 2.42 | ✅ ganada | +0.30 |
 |  | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 97% | 3.94 | ✅ ganada | +0.12 |
 | CORGI8 | Dota 2: Team Falcons vs LGD Gaming (BO3) | LGD Gaming (BUY) | 19% | 46.49 | ⏳ pendiente | — |

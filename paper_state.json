@@ -1,5 +1,5 @@
 {
-  "bankroll": 559.4015775207051,
+  "bankroll": 582.8047415563949,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19395,6 +19395,16 @@
       "timestamp": 1786598631.2265048,
       "bankroll": 559.4,
       "event": "lost: ferrariChampions2026 \u2014 Will Cruzeiro EC vs. CR Flamengo end in a draw?"
+    },
+    {
+      "timestamp": 1786598945.2771444,
+      "bankroll": 581.98,
+      "event": "won: ferrariChampions2026 \u2014 Texas Rangers vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786598947.7276242,
+      "bankroll": 582.8,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Texas Rangers (-1.5)"
     }
   ]
 }
