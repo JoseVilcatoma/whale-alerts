@@ -28748,7 +28748,7 @@
     "side": "BUY",
     "usd": 18782.01999779029,
     "odds_at_bet": 75,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -28813,7 +28813,7 @@
     "side": "BUY",
     "usd": 14556.7331,
     "odds_at_bet": 91,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -28943,7 +28943,7 @@
     "side": "BUY",
     "usd": 24733.7335,
     "odds_at_bet": 85,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -28956,7 +28956,7 @@
     "side": "BUY",
     "usd": 10200.0,
     "odds_at_bet": 85,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -28969,7 +28969,7 @@
     "side": "BUY",
     "usd": 10200.0,
     "odds_at_bet": 85,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2168,
@@ -29008,7 +29008,7 @@
     "side": "BUY",
     "usd": 11700.0,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2171,
@@ -29047,7 +29047,7 @@
     "side": "BUY",
     "usd": 10164.06760030756,
     "odds_at_bet": 76,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2174,
@@ -29138,7 +29138,7 @@
     "side": "BUY",
     "usd": 17018.2772,
     "odds_at_bet": 76,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2181,
@@ -29151,7 +29151,7 @@
     "side": "BUY",
     "usd": 28525.975,
     "odds_at_bet": 50,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2182,
@@ -29164,7 +29164,7 @@
     "side": "BUY",
     "usd": 10601.359998787364,
     "odds_at_bet": 81,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2183,
@@ -29177,7 +29177,7 @@
     "side": "BUY",
     "usd": 15000.0,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2184,
@@ -29203,7 +29203,7 @@
     "side": "BUY",
     "usd": 19362.297197929343,
     "odds_at_bet": 37,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2186,
@@ -29216,7 +29216,7 @@
     "side": "BUY",
     "usd": 32413.644900000003,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2187,
@@ -29229,7 +29229,7 @@
     "side": "BUY",
     "usd": 38250.0,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -29242,7 +29242,7 @@
     "side": "BUY",
     "usd": 36750.0,
     "odds_at_bet": 49,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -29320,7 +29320,7 @@
     "side": "BUY",
     "usd": 12145.655700493202,
     "odds_at_bet": 58,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -29333,7 +29333,7 @@
     "side": "BUY",
     "usd": 17341.391,
     "odds_at_bet": 58,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -29398,7 +29398,7 @@
     "side": "BUY",
     "usd": 14151.599000000002,
     "odds_at_bet": 38,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -29411,7 +29411,7 @@
     "side": "BUY",
     "usd": 15552.1489002,
     "odds_at_bet": 71,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -29543,7 +29543,7 @@
     "side": "BUY",
     "usd": 15960.005599999999,
     "odds_at_bet": 77,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -29582,7 +29582,7 @@
     "side": "BUY",
     "usd": 36198.1375,
     "odds_at_bet": 49,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -29595,7 +29595,7 @@
     "side": "BUY",
     "usd": 35328.082500000004,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -29621,7 +29621,7 @@
     "side": "BUY",
     "usd": 11923.199999999999,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -29634,7 +29634,7 @@
     "side": "BUY",
     "usd": 10829.0901,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -29647,7 +29647,7 @@
     "side": "BUY",
     "usd": 51000.0,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -29660,7 +29660,7 @@
     "side": "BUY",
     "usd": 36567.9993,
     "odds_at_bet": 49,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -29725,7 +29725,7 @@
     "side": "BUY",
     "usd": 14734.0,
     "odds_at_bet": 53,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -29738,7 +29738,7 @@
     "side": "BUY",
     "usd": 13066.0,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -29816,7 +29816,7 @@
     "side": "BUY",
     "usd": 22438.742000000002,
     "odds_at_bet": 68,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2192,
@@ -29829,7 +29829,7 @@
     "side": "BUY",
     "usd": 10289.792,
     "odds_at_bet": 32,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2193,
@@ -29842,7 +29842,7 @@
     "side": "BUY",
     "usd": 18459.0656,
     "odds_at_bet": 32,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2194,
@@ -29855,7 +29855,7 @@
     "side": "BUY",
     "usd": 19907.0612,
     "odds_at_bet": 68,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2195,
@@ -29868,7 +29868,7 @@
     "side": "BUY",
     "usd": 12935.6136,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2196,
@@ -29907,7 +29907,7 @@
     "side": "BUY",
     "usd": 36719.1136,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2199,
@@ -29920,7 +29920,7 @@
     "side": "BUY",
     "usd": 18536.7552,
     "odds_at_bet": 48,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2200,
@@ -29972,7 +29972,7 @@
     "side": "BUY",
     "usd": 11692.559950353849,
     "odds_at_bet": 86,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2204,
@@ -29998,7 +29998,7 @@
     "side": "BUY",
     "usd": 13779.499260469423,
     "odds_at_bet": 88,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2206,
@@ -30011,7 +30011,7 @@
     "side": "BUY",
     "usd": 18419.464410867815,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2207,
@@ -30063,7 +30063,7 @@
     "side": "BUY",
     "usd": 70399.90000000001,
     "odds_at_bet": 53,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30076,7 +30076,7 @@
     "side": "BUY",
     "usd": 23500.0,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30115,7 +30115,7 @@
     "side": "BUY",
     "usd": 11179.274800000001,
     "odds_at_bet": 68,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30128,7 +30128,7 @@
     "side": "BUY",
     "usd": 29667.86660121585,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30141,7 +30141,7 @@
     "side": "BUY",
     "usd": 17622.36,
     "odds_at_bet": 63,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30167,7 +30167,7 @@
     "side": "BUY",
     "usd": 28999.999997329884,
     "odds_at_bet": 82,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30180,7 +30180,7 @@
     "side": "BUY",
     "usd": 12905.829997797182,
     "odds_at_bet": 54,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30193,7 +30193,7 @@
     "side": "BUY",
     "usd": 17189.56,
     "odds_at_bet": 80,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30206,7 +30206,7 @@
     "side": "BUY",
     "usd": 17271.24,
     "odds_at_bet": 87,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30219,7 +30219,7 @@
     "side": "BUY",
     "usd": 10553.674200832,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30232,7 +30232,7 @@
     "side": "BUY",
     "usd": 14256.0,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30245,7 +30245,7 @@
     "side": "BUY",
     "usd": 45811.0254,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30258,7 +30258,7 @@
     "side": "BUY",
     "usd": 44004.7146,
     "odds_at_bet": 49,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30271,7 +30271,7 @@
     "side": "BUY",
     "usd": 11634.84,
     "odds_at_bet": 81,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30284,7 +30284,7 @@
     "side": "BUY",
     "usd": 13200.32,
     "odds_at_bet": 83,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30297,7 +30297,7 @@
     "side": "BUY",
     "usd": 12785.83999935,
     "odds_at_bet": 55,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30310,7 +30310,7 @@
     "side": "BUY",
     "usd": 12656.34,
     "odds_at_bet": 50,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30323,7 +30323,7 @@
     "side": "BUY",
     "usd": 11929.73,
     "odds_at_bet": 50,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30336,7 +30336,7 @@
     "side": "BUY",
     "usd": 24184.52316031575,
     "odds_at_bet": 68,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30349,7 +30349,7 @@
     "side": "BUY",
     "usd": 13359.999998923862,
     "odds_at_bet": 50,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30362,7 +30362,7 @@
     "side": "BUY",
     "usd": 11104.87,
     "odds_at_bet": 50,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30375,7 +30375,7 @@
     "side": "BUY",
     "usd": 14999.999999040001,
     "odds_at_bet": 54,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30388,7 +30388,7 @@
     "side": "BUY",
     "usd": 30600.025302627124,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30401,7 +30401,7 @@
     "side": "BUY",
     "usd": 14686.152600000001,
     "odds_at_bet": 49,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30414,7 +30414,7 @@
     "side": "BUY",
     "usd": 15000.000000434999,
     "odds_at_bet": 50,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30427,7 +30427,7 @@
     "side": "BUY",
     "usd": 29197.07999919,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30440,7 +30440,7 @@
     "side": "BUY",
     "usd": 28052.09646981,
     "odds_at_bet": 49,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30453,7 +30453,7 @@
     "side": "BUY",
     "usd": 74145.26999901001,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30466,7 +30466,7 @@
     "side": "BUY",
     "usd": 71237.61235199,
     "odds_at_bet": 49,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30479,7 +30479,7 @@
     "side": "BUY",
     "usd": 37661.8476,
     "odds_at_bet": 87,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30492,7 +30492,7 @@
     "side": "BUY",
     "usd": 16116.9008,
     "odds_at_bet": 88,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30505,7 +30505,7 @@
     "side": "BUY",
     "usd": 31000.0,
     "odds_at_bet": 62,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30518,7 +30518,7 @@
     "side": "BUY",
     "usd": 19000.0,
     "odds_at_bet": 38,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30531,7 +30531,7 @@
     "side": "BUY",
     "usd": 26500.0,
     "odds_at_bet": 53,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2208,
@@ -30544,7 +30544,7 @@
     "side": "BUY",
     "usd": 23500.0,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2209,
@@ -30557,7 +30557,7 @@
     "side": "BUY",
     "usd": 11681.77999875,
     "odds_at_bet": 75,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2210,
@@ -30570,7 +30570,7 @@
     "side": "BUY",
     "usd": 51839.9658,
     "odds_at_bet": 86,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2211,
@@ -30583,7 +30583,7 @@
     "side": "BUY",
     "usd": 145555.8416,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2212,
@@ -30596,7 +30596,7 @@
     "side": "BUY",
     "usd": 92671.2048,
     "odds_at_bet": 48,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2213,
@@ -30609,7 +30609,7 @@
     "side": "BUY",
     "usd": 15000.0,
     "odds_at_bet": 48,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2214,
@@ -30622,7 +30622,7 @@
     "side": "BUY",
     "usd": 25086.8016,
     "odds_at_bet": 48,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2215,
@@ -30635,7 +30635,7 @@
     "side": "BUY",
     "usd": 10000.0,
     "odds_at_bet": 40,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2216,
@@ -30661,7 +30661,7 @@
     "side": "BUY",
     "usd": 11237.6984,
     "odds_at_bet": 31,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2218,
@@ -30674,7 +30674,7 @@
     "side": "BUY",
     "usd": 12741.491699999999,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2219,
@@ -30687,7 +30687,7 @@
     "side": "BUY",
     "usd": 12861.62999828,
     "odds_at_bet": 67,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2220,
@@ -30700,7 +30700,7 @@
     "side": "BUY",
     "usd": 41716.73999913,
     "odds_at_bet": 69,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2221,
@@ -30713,7 +30713,7 @@
     "side": "BUY",
     "usd": 105702.6544,
     "odds_at_bet": 68,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2222,
@@ -30726,7 +30726,7 @@
     "side": "BUY",
     "usd": 36632.5152,
     "odds_at_bet": 32,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2223,
@@ -30739,7 +30739,7 @@
     "side": "BUY",
     "usd": 20951.8673903,
     "odds_at_bet": 77,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2224,
@@ -30752,7 +30752,7 @@
     "side": "BUY",
     "usd": 25966.4982,
     "odds_at_bet": 38,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2225,
@@ -30765,7 +30765,7 @@
     "side": "BUY",
     "usd": 13777.64,
     "odds_at_bet": 62,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2226,
@@ -30778,7 +30778,7 @@
     "side": "BUY",
     "usd": 13402.7012,
     "odds_at_bet": 62,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2227,
@@ -30791,7 +30791,7 @@
     "side": "BUY",
     "usd": 340507.42999918,
     "odds_at_bet": 61,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30804,7 +30804,7 @@
     "side": "BUY",
     "usd": 217701.47163882002,
     "odds_at_bet": 39,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30817,7 +30817,7 @@
     "side": "BUY",
     "usd": 37495.55999906,
     "odds_at_bet": 61,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30830,7 +30830,7 @@
     "side": "BUY",
     "usd": 23972.57114694,
     "odds_at_bet": 39,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30843,7 +30843,7 @@
     "side": "BUY",
     "usd": 10626.0,
     "odds_at_bet": 77,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30856,7 +30856,7 @@
     "side": "BUY",
     "usd": 14073.359999999999,
     "odds_at_bet": 84,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30869,7 +30869,7 @@
     "side": "BUY",
     "usd": 13285.7076,
     "odds_at_bet": 12,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30882,7 +30882,7 @@
     "side": "BUY",
     "usd": 86775.92,
     "odds_at_bet": 88,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30895,7 +30895,7 @@
     "side": "BUY",
     "usd": 15874.6,
     "odds_at_bet": 85,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30908,7 +30908,7 @@
     "side": "BUY",
     "usd": 15874.6,
     "odds_at_bet": 85,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30921,7 +30921,7 @@
     "side": "BUY",
     "usd": 11289.951701036889,
     "odds_at_bet": 50,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30934,7 +30934,7 @@
     "side": "BUY",
     "usd": 29404.2,
     "odds_at_bet": 60,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30947,7 +30947,7 @@
     "side": "BUY",
     "usd": 10000.0,
     "odds_at_bet": 40,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30960,7 +30960,7 @@
     "side": "BUY",
     "usd": 22237.2889,
     "odds_at_bet": 41,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30973,7 +30973,7 @@
     "side": "BUY",
     "usd": 86829.8311,
     "odds_at_bet": 53,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -30986,7 +30986,7 @@
     "side": "BUY",
     "usd": 16334.995699999998,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -30999,7 +30999,7 @@
     "side": "BUY",
     "usd": 49799.78999999999,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31012,7 +31012,7 @@
     "side": "BUY",
     "usd": 10358.4,
     "odds_at_bet": 83,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31025,7 +31025,7 @@
     "side": "BUY",
     "usd": 14285.70999804,
     "odds_at_bet": 78,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31064,7 +31064,7 @@
     "side": "BUY",
     "usd": 11901.3299984,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31077,7 +31077,7 @@
     "side": "BUY",
     "usd": 11184.09069936967,
     "odds_at_bet": 82,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31090,7 +31090,7 @@
     "side": "BUY",
     "usd": 13100.800000000001,
     "odds_at_bet": 89,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31103,7 +31103,7 @@
     "side": "BUY",
     "usd": 46920.5256,
     "odds_at_bet": 52,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31116,7 +31116,7 @@
     "side": "BUY",
     "usd": 40722.6144,
     "odds_at_bet": 48,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31129,7 +31129,7 @@
     "side": "BUY",
     "usd": 10078.6042,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31155,7 +31155,7 @@
     "side": "BUY",
     "usd": 19999.999998379997,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31168,7 +31168,7 @@
     "side": "BUY",
     "usd": 13898.305083619998,
     "odds_at_bet": 41,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31181,7 +31181,7 @@
     "side": "BUY",
     "usd": 41300.0,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31194,7 +31194,7 @@
     "side": "BUY",
     "usd": 14001.040799999999,
     "odds_at_bet": 41,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31207,7 +31207,7 @@
     "side": "BUY",
     "usd": 10000.000000027625,
     "odds_at_bet": 50,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31220,7 +31220,7 @@
     "side": "BUY",
     "usd": 10000.000000313283,
     "odds_at_bet": 50,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31233,7 +31233,7 @@
     "side": "BUY",
     "usd": 10472.39025,
     "odds_at_bet": 84,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31246,7 +31246,7 @@
     "side": "BUY",
     "usd": 11214.333333519333,
     "odds_at_bet": 85,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31259,7 +31259,7 @@
     "side": "BUY",
     "usd": 11244.083333522833,
     "odds_at_bet": 85,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31272,7 +31272,7 @@
     "side": "BUY",
     "usd": 10500.0,
     "odds_at_bet": 84,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31285,7 +31285,7 @@
     "side": "BUY",
     "usd": 30944.350499999997,
     "odds_at_bet": 83,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31298,7 +31298,7 @@
     "side": "BUY",
     "usd": 10101.8304,
     "odds_at_bet": 64,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31311,7 +31311,7 @@
     "side": "BUY",
     "usd": 22507.649989999998,
     "odds_at_bet": 94,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31324,7 +31324,7 @@
     "side": "BUY",
     "usd": 83537.25039999999,
     "odds_at_bet": 59,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31337,7 +31337,7 @@
     "side": "BUY",
     "usd": 10578.0,
     "odds_at_bet": 41,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31350,7 +31350,7 @@
     "side": "BUY",
     "usd": 17162.6,
     "odds_at_bet": 41,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31363,7 +31363,7 @@
     "side": "BUY",
     "usd": 12953.14,
     "odds_at_bet": 58,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31376,7 +31376,7 @@
     "side": "BUY",
     "usd": 173002.36349729355,
     "odds_at_bet": 58,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2228,
@@ -31389,7 +31389,7 @@
     "side": "BUY",
     "usd": 57563.045399999995,
     "odds_at_bet": 42,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2229,
@@ -31402,7 +31402,7 @@
     "side": "BUY",
     "usd": 19999.99999989964,
     "odds_at_bet": 30,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2230,
@@ -31415,7 +31415,7 @@
     "side": "BUY",
     "usd": 44661.848,
     "odds_at_bet": 70,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2231,
@@ -31428,7 +31428,7 @@
     "side": "BUY",
     "usd": 17877.8264,
     "odds_at_bet": 56,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2232,
@@ -31441,7 +31441,7 @@
     "side": "BUY",
     "usd": 128172.2618,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2233,
@@ -31454,7 +31454,7 @@
     "side": "BUY",
     "usd": 44205.9962,
     "odds_at_bet": 53,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2234,
@@ -31467,7 +31467,7 @@
     "side": "BUY",
     "usd": 36739.282,
     "odds_at_bet": 53,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2235,
@@ -31480,7 +31480,7 @@
     "side": "BUY",
     "usd": 69500.53000716005,
     "odds_at_bet": 30,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2236,
@@ -31493,7 +31493,7 @@
     "side": "BUY",
     "usd": 19645.469899999996,
     "odds_at_bet": 70,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2237,
@@ -31506,7 +31506,7 @@
     "side": "BUY",
     "usd": 15555.4,
     "odds_at_bet": 70,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2238,
@@ -31519,7 +31519,7 @@
     "side": "BUY",
     "usd": 60462.85,
     "odds_at_bet": 70,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2239,
@@ -31532,7 +31532,7 @@
     "side": "BUY",
     "usd": 13490.0,
     "odds_at_bet": 71,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2240,
@@ -31545,7 +31545,7 @@
     "side": "BUY",
     "usd": 10650.0,
     "odds_at_bet": 71,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2241,
@@ -31558,7 +31558,7 @@
     "side": "BUY",
     "usd": 13502.484,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2242,
@@ -31571,7 +31571,7 @@
     "side": "BUY",
     "usd": 33678.573599999996,
     "odds_at_bet": 62,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2243,
@@ -31584,7 +31584,7 @@
     "side": "BUY",
     "usd": 10450.0,
     "odds_at_bet": 38,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2244,
@@ -31597,7 +31597,7 @@
     "side": "BUY",
     "usd": 162341.68550561977,
     "odds_at_bet": 30,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2245,
@@ -31610,7 +31610,7 @@
     "side": "BUY",
     "usd": 45571.399999999994,
     "odds_at_bet": 70,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2246,
@@ -31623,7 +31623,7 @@
     "side": "BUY",
     "usd": 210000.0,
     "odds_at_bet": 70,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2247,
@@ -31636,7 +31636,7 @@
     "side": "BUY",
     "usd": 44100.939999999995,
     "odds_at_bet": 71,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31649,7 +31649,7 @@
     "side": "BUY",
     "usd": 13647.2904,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31662,7 +31662,7 @@
     "side": "BUY",
     "usd": 10191.3861,
     "odds_at_bet": 51,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31675,7 +31675,7 @@
     "side": "BUY",
     "usd": 47720.68620348697,
     "odds_at_bet": 47,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31688,7 +31688,7 @@
     "side": "BUY",
     "usd": 40263.877400000005,
     "odds_at_bet": 53,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31701,7 +31701,7 @@
     "side": "BUY",
     "usd": 23846.918400000002,
     "odds_at_bet": 54,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31714,7 +31714,7 @@
     "side": "BUY",
     "usd": 10222.12,
     "odds_at_bet": 46,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31727,7 +31727,7 @@
     "side": "BUY",
     "usd": 15449.5194,
     "odds_at_bet": 38,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31740,7 +31740,7 @@
     "side": "BUY",
     "usd": 10342.995,
     "odds_at_bet": 62,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31753,7 +31753,7 @@
     "side": "BUY",
     "usd": 80000.0,
     "odds_at_bet": 50,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31766,7 +31766,7 @@
     "side": "BUY",
     "usd": 79396.06,
     "odds_at_bet": 50,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31779,7 +31779,7 @@
     "side": "BUY",
     "usd": 49857.47490159654,
     "odds_at_bet": 30,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31792,7 +31792,7 @@
     "side": "BUY",
     "usd": 52500.0,
     "odds_at_bet": 70,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31805,7 +31805,7 @@
     "side": "BUY",
     "usd": 29649.5361,
     "odds_at_bet": 71,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31818,7 +31818,7 @@
     "side": "BUY",
     "usd": 32070.740399999995,
     "odds_at_bet": 29,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31831,7 +31831,7 @@
     "side": "BUY",
     "usd": 15777.619999999999,
     "odds_at_bet": 71,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31844,7 +31844,7 @@
     "side": "BUY",
     "usd": 10650.0,
     "odds_at_bet": 71,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31857,7 +31857,7 @@
     "side": "BUY",
     "usd": 45142.9636,
     "odds_at_bet": 28,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31870,7 +31870,7 @@
     "side": "BUY",
     "usd": 18000.0,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31883,7 +31883,7 @@
     "side": "BUY",
     "usd": 72000.0,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31896,7 +31896,7 @@
     "side": "BUY",
     "usd": 10800.0,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31909,7 +31909,7 @@
     "side": "BUY",
     "usd": 51415.20309074077,
     "odds_at_bet": 20,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31922,7 +31922,7 @@
     "side": "BUY",
     "usd": 191510.40000000002,
     "odds_at_bet": 80,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31935,7 +31935,7 @@
     "side": "BUY",
     "usd": 11012.7192,
     "odds_at_bet": 84,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31948,7 +31948,7 @@
     "side": "BUY",
     "usd": 108672.31861826622,
     "odds_at_bet": 20,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": null,
@@ -31961,7 +31961,7 @@
     "side": "BUY",
     "usd": 422902.80000000005,
     "odds_at_bet": 80,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31974,7 +31974,7 @@
     "side": "BUY",
     "usd": 16779.0,
     "odds_at_bet": 85,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -31987,7 +31987,7 @@
     "side": "BUY",
     "usd": 13247.279999999999,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": null,
@@ -32000,7 +32000,7 @@
     "side": "BUY",
     "usd": 14673.6,
     "odds_at_bet": 90,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2248,
@@ -32013,7 +32013,7 @@
     "side": "BUY",
     "usd": 16730.271099999998,
     "odds_at_bet": 29,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2249,
@@ -32026,7 +32026,7 @@
     "side": "BUY",
     "usd": 24850.0,
     "odds_at_bet": 71,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2250,
@@ -32039,7 +32039,7 @@
     "side": "BUY",
     "usd": 11172.8156,
     "odds_at_bet": 71,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2251,
@@ -32052,7 +32052,7 @@
     "side": "BUY",
     "usd": 10240.709998439088,
     "odds_at_bet": 46,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2252,
@@ -32065,7 +32065,7 @@
     "side": "BUY",
     "usd": 176933.67349899927,
     "odds_at_bet": 28,
-    "status": "pending"
+    "status": "lost"
   },
   {
     "telegram_msg_id": 2253,
@@ -32078,7 +32078,7 @@
     "side": "BUY",
     "usd": 10800.0,
     "odds_at_bet": 72,
-    "status": "pending"
+    "status": "won"
   },
   {
     "telegram_msg_id": 2254,
@@ -32091,6 +32091,19 @@
     "side": "BUY",
     "usd": 21600.0,
     "odds_at_bet": 72,
+    "status": "won"
+  },
+  {
+    "telegram_msg_id": 2324,
+    "timestamp": 1786584827,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "dota2-flc-lgd-2026-08-12-game-handicap-away-1pt5",
+    "title": "Game Handicap: FLC (-1.5) vs LGD Gaming (+1.5)",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 10237.58,
+    "odds_at_bet": 58,
     "status": "pending"
   }
 ]
