@@ -654,36 +654,48 @@ def procesar_trade(trade, origen="stream"):
     # Polymarket parte las órdenes grandes en varios pedazos que llegan como
     # trades separados. Sin esto, una sola decisión se registra 4-5 veces:
     # infla los conteos y distorsiona el % de acierto y el balance.
-    ahora = time.time()
+    # Usamos el timestamp del PROPIO trade (el que da Polymarket), no la hora
+    # en que lo procesamos: dos fills de la misma orden llegan con el mismo
+    # segundo o uno de diferencia, aunque el bot los procese con demora.
+    ts_trade = trade.get("timestamp") or time.time()
+
+    # Reservamos el lugar dentro del lock ANTES de mandar nada a Telegram, para
+    # que un segundo fill que llegue mientras tanto encuentre con qué fusionar.
     with lock:
         previa = next((x for x in results
                        if x["status"] == "pending"
                        and x["wallet"] == wallet
                        and x["slug"] == trade.get("slug")
                        and x["outcome"] == trade.get("outcome")
-                       and ahora - x.get("ultimo_fill", 0) < FILL_MERGE_WINDOW), None)
-    if previa:
-        with lock:
+                       and abs(ts_trade - (x.get("ultimo_fill") or 0)) < FILL_MERGE_WINDOW), None)
+        if previa:
             total_previo = previa.get("usd", 0) or 0
             nuevo_total = total_previo + usd
-            # precio promedio ponderado por monto
             previa["odds_at_bet"] = round(
                 (total_previo * previa["odds_at_bet"] + usd * precio_c) / nuevo_total)
             previa["usd"] = nuevo_total
-            previa["ultimo_fill"] = ahora
+            previa["ultimo_fill"] = ts_trade
             previa["fills"] = previa.get("fills", 1) + 1
             globals()["results_dirty"] = True
+
+    if previa:
         print(f"   ↳ fill adicional de {username}: +${usd:,.0f} "
-              f"(total ${nuevo_total:,.0f}, {previa['fills']} fills)")
+              f"(total ${previa['usd']:,.0f}, {previa['fills']} fills)")
         return False
+
+    # Creamos el registro PRIMERO (dentro del lock) y mandamos el mensaje
+    # después. Así no queda ninguna ventana sin registro donde un fill
+    # simultáneo se escape.
+    log_result_pending(username, wallet, trade, usd, precio_c, None)
+    with lock:
+        registro = results[-1]
+        registro["ultimo_fill"] = ts_trade
+        registro["fills"] = 1
 
     print(f"{marca} — {username}: ${usd:,.0f} en {trade.get('title')}")
     msg_id = send_telegram(build_ticket(username, trade, usd, precio_c, wallet))
-    log_result_pending(username, wallet, trade, usd, precio_c, msg_id)
     with lock:
-        if results:
-            results[-1]["ultimo_fill"] = ahora
-            results[-1]["fills"] = 1
+        registro["telegram_msg_id"] = msg_id
     return True
 
 
