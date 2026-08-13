@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 02:14:01 (hora de Perú)
+Actualizado: 2026-08-13 02:16:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **28**  ($2,199,417 en total)
+- Apuestas registradas: **29**  ($2,233,577 en total)
 - Resueltas: **12** — 7 ganadas / 5 perdidas (**58%** de acierto)
-- Pendientes: 16
-- Apostadores distintos: 15
+- Pendientes: 17
+- Apostadores distintos: 16
 
 ### Balance
 
@@ -35,6 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 0 | 1 | 0 | ⚠️ 0% (1) | $53,788 | -$53,788 |
 | wr0ngw4yb3tt0r | 1 | 0 | 0 | ⚠️ 100% (1) | $42,257 | +$53,782 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $35,335 | — |
+| hansama231 | 0 | 0 | 1 | — | $34,160 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 1 | — | $32,000 | — |
 | lIlIlIllllIIIII | 0 | 0 | 1 | — | $31,285 | — |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
@@ -44,6 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hansama231 | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.64 (61¢) | $34,160 | — | ⏳ Pendiente |
 | NemecGhudini | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.67 (60¢) | $31,590 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.61 (62¢) | $32,000 | — | ⏳ Pendiente |
 | Djdjdjekekek | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Xtreme Gaming | 2.63 (38¢) | $74,600 | — | ⏳ Pendiente |
