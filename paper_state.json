@@ -1,5 +1,5 @@
 {
-  "bankroll": 1183.0848407123935,
+  "bankroll": 1183.4250938769505,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -915,6 +915,16 @@
       "timestamp": 1786661520.4882073,
       "bankroll": 1183.08,
       "event": "lost: 1winstreak1 \u2014 Chicago Cubs vs. Washington Nationals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786663140.4496717,
+      "bankroll": 1183.08,
+      "event": "won: swisstony \u2014 Rangers FC vs. Jagiellonia Bia\u0142ystok: O/U 0.5"
+    },
+    {
+      "timestamp": 1786663141.549929,
+      "bankroll": 1183.43,
+      "event": "won: swisstony \u2014 Spread: MH Beitar Jerusalem (-1.5)"
     }
   ]
 }

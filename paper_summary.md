@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 18:17:10 (hora de Perú)
+Actualizado: 2026-08-13 18:19:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,183.08
-**Retorno acumulado:** +18.31%
+**Bankroll actual:** $1,183.43
+**Retorno acumulado:** +18.34%
 **Peor caída desde un máximo (drawdown):** 24.07%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 5
 
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
 | 1winstreak1 | 1 | 3 | 2 | +74.91 USD |
-| swisstony | 28 | 9 | 13 | +21.16 USD |
+| swisstony | 30 | 9 | 11 | +21.50 USD |
 | ferrariChampions2026 | 47 | 37 | 64 | +13.84 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
 | RN1 | 17 | 17 | 58 | +2.60 USD |
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 0 | 0 | 2 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 15 | +0.00 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
-| wr0ngw4yb3tt0r | 0 | 5 | 9 | -15.12 USD |
+| wr0ngw4yb3tt0r | 0 | 5 | 10 | -15.12 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 0 | 1 | 6 | -250.00 USD |
 
@@ -77,6 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 61% | 0.00 | 1.5% | ⏳ pendiente | — |
 | UpTheBlues | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Under (BUY) | 90% | 0.00 | 0.2% | ⏳ pendiente | — |
 | UpTheBlues | Will Santos FC win on 2026-08-13? | No (BUY) | 40% | 0.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Santos FC vs. CSyD Macará: O/U 3.5 | Under (BUY) | 61% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -106,4 +107,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | CF América vs. Austin FC: Both Teams to  | No (BUY) | 45% | 1.45 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Will CSyD Macará win on 2026-08-13? | No (BUY) | 92% | 5.21 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CR Vasco da Gama win on 2026-08-13? | No (BUY) | 44% | 4.13 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Maryville University vs Winthrop Un | Winthrop University (BUY) | 83% | 1.24 | 0.1% | ⏳ pendiente | — |
