@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 11:17:42 (hora de Perú)
+Actualizado: 2026-08-13 11:19:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 5 | +0.00 USD |
-| RN1 | 0 | 0 | 9 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 7 | +0.00 USD |
+| RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -27,6 +27,9 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Ilves Tampere vs. HNK Rijeka: O/U 2.5 | Over (BUY) | 33% | 1.27 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Pcific Esports (BUY) | 56% | 1.31 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Universitatea Craiova CS (-1.5) | Universitatea Craiova CS (BUY) | 47% | 1.49 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Pcific Esports (BUY) | 60% | 4.23 | 0.4% | ⏳ pendiente | — |
 | RN1 | Qarabağ Ağdam FK vs. FK Dynamo Kyiv: O/U | Under (BUY) | 36% | 1.34 | 0.1% | ⏳ pendiente | — |
 | Talvez10 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 45% | 38.13 | 3.8% | ⏳ pendiente | — |
