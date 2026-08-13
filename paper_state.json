@@ -1,5 +1,5 @@
 {
-  "bankroll": 524.1626402842335,
+  "bankroll": 525.6258478314032,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18900,6 +18900,11 @@
       "timestamp": 1786586773.4217355,
       "bankroll": 524.16,
       "event": "lost: RN1 \u2014 Spread: Detroit Tigers (-1.5)"
+    },
+    {
+      "timestamp": 1786586969.9909546,
+      "bankroll": 525.63,
+      "event": "won: RN1 \u2014 Spread: Toronto Blue Jays (-2.5)"
     }
   ]
 }
