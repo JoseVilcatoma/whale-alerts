@@ -83370,5 +83370,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786589598.2138474,
     "fills": 1
+  },
+  {
+    "timestamp": 1786589684,
+    "timestamp_added": 1786589685.6830866,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-laf-que-2026-08-12-laf",
+    "title": "Will Los Angeles FC win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 668.1258,
+    "whale_pct": 0.121,
+    "paper_stake_usd": 0.67,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786589685.6830938,
+    "fills": 1
   }
 ]
