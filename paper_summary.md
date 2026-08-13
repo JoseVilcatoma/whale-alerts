@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 21:59:44 (hora de Perú)
+Actualizado: 2026-08-12 22:01:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $554.13
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 71 | 73 | 7 | +111.25 USD |
+| wr0ngw4yb3tt0r | 71 | 73 | 8 | +111.25 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 123 | 101 | 1 | -9.62 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 171 | 114 | 10 | -26.60 USD |
+| swisstony | 171 | 114 | 14 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | RN1 | 231 | 126 | 20 | -38.74 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -448,7 +448,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 | mlb-phi-stl-2026-08-12-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
-| wnba-chi-gsv-2026-08-12-total-164pt5 | HomeRunHazard, ferrariChampions2026 |
+| wnba-chi-gsv-2026-08-12-total-164pt5 | HomeRunHazard, ferrariChampions2026, swisstony |
 | wnba-chi-gsv-2026-08-12-total-165pt5 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
@@ -496,11 +496,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-chi-gsv-2026-08-12-spread-home-8pt5 | , wr0ngw4yb3tt0r |
 | lec-sdg-pue-2026-08-12-sdg | , swisstony |
 | wnba-chi-gsv-2026-08-12 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| lec-tol-dal-2026-08-12-tol | ferrariChampions2026, swisstony |
+| wnba-chi-gsv-2026-08-12-spread-home-9pt5 | swisstony, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 84% | 8.59 | ⏳ pendiente | — |
+| swisstony | Deportivo Toluca FC vs. FC Dallas: O/U 4 | Over (BUY) | 53% | 0.74 | ⏳ pendiente | — |
+| swisstony | Spread: Golden State Valkyries (-9.5) | Golden State Valkyries (BUY) | 33% | 0.62 | ⏳ pendiente | — |
+| swisstony | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 76% | 0.67 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Golden State Valkyries (-8.5) | Golden State Valkyries (BUY) | 47% | 0.93 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Golden State Valkyries (-8.5) | Golden State Valkyries (BUY) | 46% | 2.70 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Deportivo Toluca FC (-1.5) | FC Dallas (BUY) | 63% | 0.74 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | No (BUY) | 30% | 0.70 | ⏳ pendiente | — |
@@ -526,8 +533,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Deportivo Toluca FC vs. FC Dallas: O/U 3 | Over (BUY) | 72% | 0.59 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 68% | 1.89 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 68% | 1.82 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 34% | 2.40 | ⏳ pendiente | — |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 57% | 30.93 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Minnesota Lynx (-13.5) | Portland Fire (BUY) | 46% | 0.69 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 35% | 0.87 | ⏳ pendiente | — |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 57% | 32.81 | ⏳ pendiente | — |
