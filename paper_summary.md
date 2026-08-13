@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 12:59:08 (hora de Perú)
+Actualizado: 2026-08-13 13:01:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,10 +15,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 79 | +0.00 USD |
-| RN1 | 0 | 0 | 13 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 81 | +0.00 USD |
+| RN1 | 0 | 0 | 15 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
-| swisstony | 0 | 0 | 19 | +0.00 USD |
+| swisstony | 0 | 0 | 20 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 7 | +0.00 USD |
@@ -40,11 +40,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cin-cws-2026-08-13-total-9pt5 | Sassy-Bucket, wr0ngw4yb3tt0r |
 | uel-gor1-ftc-2026-08-13-gor1 | RN1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-13-total-7pt5 | RN1, ferrariChampions2026 |
+| col-hif-rak-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 53% | 0.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Spread: FK Jablonec (-1.5) | FK Rīgas Futbola Skola (BUY) | 87% | 0.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Hammarby Fotboll vs. RKS Raków Częstocho | Over (BUY) | 79% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hammarby Fotboll vs. RKS Raków Częstocho | Over (BUY) | 80% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 38% | 0.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 40% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 40% | 0.00 | 0.6% | ⏳ pendiente | — |
 | swisstony | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 74% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -70,8 +76,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Pcific Esports (BUY) | 24% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Pcific Esports (BUY) | 11% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 34% | 0.00 | 6.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: AS Omónoia Leukosías (-1.5) | AS Omónoia Leukosías (BUY) | 76% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 35% | 0.00 | 7.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Joblife (BUY) | 81% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Joblife (BUY) | 89% | 0.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 89% | 0.00 | 0.1% | ⏳ pendiente | — |
