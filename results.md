@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 22:43:38 (hora de Perú)
+Actualizado: 2026-08-12 22:46:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **19**  ($1,772,619 en total)
+- Apuestas registradas: **18**  ($1,719,504 en total)
 - Resueltas: **5** — 2 ganadas / 3 perdidas (**40%** de acierto)
-- Pendientes: 14
-- Apostadores distintos: 13
+- Pendientes: 13
+- Apostadores distintos: 12
 
 ### Balance
 
-- **Resultado de los apostadores: -$69,413** sobre $358,992 apostados (ROI **-19.3%**)
+- **Resultado de los apostadores: -$43,016** sobre $332,596 apostados (ROI **-12.9%**)
 - Copiando $100 fijo en cada una: **-$100** sobre $300 (ROI **-33.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -33,16 +33,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 0 | 0 | 1 | — | $57,499 | — |
 | NemecGhudini | 0 | 0 | 1 | — | $54,600 | — |
 | ferrariChampions2026 | 0 | 0 | 1 | — | $53,788 | — |
-| b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $52,793 | -$52,793 |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | — | $42,257 | — |
 | lIlIlIllllIIIII | 0 | 0 | 1 | — | $31,285 | — |
-| 0F62 | 0 | 0 | 1 | — | $26,718 | — |
+| b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0F62 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $26,718 | — | ⏳ Pendiente |
 | Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.38 (42¢) | $53,984 | — | ⏳ Pendiente |
 | S-Works | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.28 (78¢) | $312,000 | — | ⏳ Pendiente |
 | Djdjdjekekek | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 4.55 (22¢) | $95,671 | — | ⏳ Pendiente |
@@ -52,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.27 (44¢) | $79,200 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.79 (56¢) | $53,788 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.27 (44¢) | $42,257 | — | ⏳ Pendiente |
-| b0c | National Bank Open: Elina Svitolina vs Iga Swiatek | Elina Svitolina | 1.72 (58¢) | $52,793 | -$52,793 | ❌ Perdida |
+| b0c | National Bank Open: Elina Svitolina vs Iga Swiatek | Elina Svitolina | 1.72 (58¢) | $26,397 | -$26,397 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Elina Svitolina vs Iga Swiatek | Iga Swiatek | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | Weaseloftheweek | National Bank Open: Elina Svitolina vs Iga Swiatek | Elina Svitolina | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $46,170 | — | ⏳ Pendiente |
