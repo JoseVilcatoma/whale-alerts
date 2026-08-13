@@ -82601,12 +82601,13 @@
     "whale_pct": 2.226,
     "paper_stake_usd": 12.45,
     "odds_at_bet": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 7.31,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786598879.6596484,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 100
   },
   {
     "timestamp": 1786599105,
@@ -82621,12 +82622,13 @@
     "whale_pct": 0.196,
     "paper_stake_usd": 1.14,
     "odds_at_bet": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.64,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786599106.488328,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 100
   },
   {
     "timestamp": 1786601521,
@@ -83268,6 +83270,50 @@
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786605415.676264,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786605465,
+    "timestamp_added": 1786605466.004062,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-wb-nip-2026-08-13-game1",
+    "title": "LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "whale_usd": 631.799523,
+    "whale_pct": 2.1,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786605466.549014,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786605503,
+    "timestamp_added": 1786605504.1617403,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-wb-nip-2026-08-13-game1",
+    "title": "LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "whale_usd": 2777.0182,
+    "whale_pct": 10.939,
+    "paper_stake_usd": 21.54,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786605504.1617494,
     "fills": 1
   }
 ]
