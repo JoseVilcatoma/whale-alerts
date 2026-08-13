@@ -1,5 +1,5 @@
 {
-  "bankroll": 1248.7556178346726,
+  "bankroll": 1247.6756178346727,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -285,6 +285,11 @@
       "timestamp": 1786651561.066455,
       "bankroll": 1248.76,
       "event": "won: swisstony \u2014 FC Flora vs. Inter Club d'Escaldes: O/U 4.5"
+    },
+    {
+      "timestamp": 1786651621.557169,
+      "bankroll": 1247.68,
+      "event": "lost: RN1 \u2014 Will FC Flora win on 2026-08-13?"
     }
   ]
 }
