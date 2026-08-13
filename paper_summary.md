@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 19:44:21 (hora de Perú)
+Actualizado: 2026-08-12 19:46:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $621.92
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 203 | 112 | 42 | -37.65 USD |
+| RN1 | 203 | 112 | 44 | -37.65 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -475,6 +475,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 62% | 1.28 | ⏳ pendiente | — |
+| RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 71% | 1.18 | ⏳ pendiente | — |
 | RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 71% | 0.91 | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-12? | Yes (BUY) | 39% | 1.31 | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 53% | 11.49 | ⏳ pendiente | — |
@@ -503,5 +505,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will SE Palmeiras win on 2026-08-12? | Yes (BUY) | 85% | 2.46 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 49% | 2.46 | ⏳ pendiente | — |
 | RN1 | Will CA Platense vs. CD Coquimbo Unido e | No (BUY) | 90% | 1.76 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 56% | 4.45 | ⏳ pendiente | — |
-| RN1 | Pittsburgh Pirates vs. Miami Marlins: O/ | Under (BUY) | 52% | 1.05 | ⏳ pendiente | — |
