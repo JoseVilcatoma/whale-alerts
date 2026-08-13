@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 11:09:38 (hora de Perú)
+Actualizado: 2026-08-13 11:11:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 3 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 4 | +0.00 USD |
 | RN1 | 0 | 0 | 6 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -26,6 +26,7 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Tobyl FK win on 2026-08-13? | Yes (BUY) | 31% | 1.03 | 0.1% | ⏳ pendiente | — |
 | RN1 | Spread: Beşiktaş JK (-1.5) | Beşiktaş JK (BUY) | 52% | 27.94 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Joblife (BUY) | 58% | 1.38 | 0.1% | ⏳ pendiente | — |
 | RN1 | Will FC Flora win on 2026-08-13? | Yes (BUY) | 46% | 1.08 | 0.1% | ⏳ pendiente | — |
