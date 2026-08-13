@@ -1,5 +1,5 @@
 {
-  "bankroll": 582.4829768505125,
+  "bankroll": 581.2929768505124,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19415,6 +19415,11 @@
       "timestamp": 1786601470.0219278,
       "bankroll": 582.48,
       "event": "won: ferrariChampions2026 \u2014 Will FC Dallas win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786602098.4774091,
+      "bankroll": 581.29,
+      "event": "lost: swisstony \u2014 San Diego FC vs. Club Puebla: O/U 3.5"
     }
   ]
 }
