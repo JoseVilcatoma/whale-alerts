@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 09:32:35 (hora de Perú)
+Actualizado: 2026-08-13 09:34:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $988.92
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 0 | 1 | 1 | -46.49 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| ferrariChampions2026 | 679 | 521 | 3 | -68.74 USD |
+| ferrariChampions2026 | 679 | 521 | 5 | -68.74 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -503,6 +503,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 69% | 2.32 | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | BIG (BUY) | 30% | 1.58 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 69% | 1.50 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Aurora Gaming vs M80 - M | Aurora Gaming (BUY) | 89% | 20.23 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 81% | 0.00 | ⏳ pendiente | — |
@@ -531,5 +533,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports (BO3)  | Hanwha Life Esports (BUY) | 25% | 0.00 | ⏳ pendiente | — |
