@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 11:27:59 (hora de Perú)
+Actualizado: 2026-08-13 11:30:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,22 +15,31 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 10 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 14 | +0.00 USD |
 | RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
-| swisstony | 0 | 0 | 9 | +0.00 USD |
+| swisstony | 0 | 0 | 10 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 1 | +0.00 USD |
+| Nooserac | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
 | Mercado | Vigilados que coincidieron |
 |---|---|
+| mlb-cle-det-2026-08-13-total-8pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | col-qar-dyn-2026-08-13-total-2pt5 | RN1, swisstony |
+| mlb-bos-tor-2026-08-13-total-7pt5 | Talvez10, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Nooserac | Valorant: GIANTX vs Fnatic (BO3) - VCT E | Fnatic (BUY) | 70% | 2.48 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Pcific Esports (BUY) | 24% | 3.16 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 45% | 1.99 | 0.2% | ⏳ pendiente | — |
+| swisstony | Qarabağ Ağdam FK vs. FK Dynamo Kyiv: O/U | Under (BUY) | 44% | 1.10 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 46% | 3.05 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Milwaukee Brewers (BUY) | 61% | 3.96 | 0.4% | ⏳ pendiente | — |
 | Talvez10 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 45% | 34.64 | 3.5% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 48% | 26.29 | 2.6% | ⏳ pendiente | — |
 | swisstony | Will HNK Rijeka win on 2026-08-13? | Yes (BUY) | 45% | 1.68 | 0.2% | ⏳ pendiente | — |
@@ -55,9 +64,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Qarabağ Ağdam FK vs. FK Dynamo Kyiv: O/U | Over (BUY) | 92% | 3.75 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Tobyl FK win on 2026-08-13? | Yes (BUY) | 31% | 1.03 | 0.1% | ⏳ pendiente | — |
 | RN1 | Spread: Beşiktaş JK (-1.5) | Beşiktaş JK (BUY) | 52% | 27.94 | 2.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Joblife (BUY) | 58% | 1.38 | 0.1% | ⏳ pendiente | — |
-| RN1 | Will FC Flora win on 2026-08-13? | Yes (BUY) | 46% | 1.08 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Joblife (BUY) | 63% | 4.05 | 0.4% | ⏳ pendiente | — |
-| RN1 | Tobyl FK vs. FK Partizan Beograd: O/U 2. | Over (BUY) | 47% | 1.80 | 0.2% | ⏳ pendiente | — |
-| RN1 | Qarabağ Ağdam FK vs. FK Dynamo Kyiv: O/U | Under (BUY) | 51% | 26.48 | 2.6% | ⏳ pendiente | — |
-| RN1 | Spread: FC Midtjylland (-1.5) | Bohemian FC (BUY) | 39% | 1.98 | 0.2% | ⏳ pendiente | — |
