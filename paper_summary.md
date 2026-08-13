@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 20:30:08 (hora de Perú)
+Actualizado: 2026-08-12 20:32:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $572.94
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 4 | 10 | 0 | +15.41 USD |
-| HomeRunHazard | 115 | 98 | 22 | +12.59 USD |
+| HomeRunHazard | 115 | 98 | 23 | +12.59 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
-| ferrariChampions2026 | 647 | 484 | 26 | -89.97 USD |
+| ferrariChampions2026 | 647 | 484 | 28 | -89.97 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
@@ -483,6 +483,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will CF Monterrey win on 2026-08-12? | No (BUY) | 53% | 1.73 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Chicago White Sox (-3.5) | Chicago White Sox (BUY) | 45% | 3.40 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Minnesota Lynx (-12.5) | Portland Fire (BUY) | 48% | 2.10 | ⏳ pendiente | — |
 | RN1 | Spread: CR Flamengo (-1.5) | Cruzeiro EC (BUY) | 92% | 1.41 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: CR Flamengo (-1.5) | Cruzeiro EC (BUY) | 92% | 0.58 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Cleveland Guardians (-2.5) | Detroit Tigers (BUY) | 89% | 2.84 | ⏳ pendiente | — |
@@ -510,6 +513,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 9. | Under (BUY) | 68% | 0.97 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 81% | 1.35 | ⏳ pendiente | — |
 | RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 69% | 0.64 | ⏳ pendiente | — |
-| HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 7. | Over (BUY) | 71% | 1.73 | ✅ ganada | +0.71 |
-| RN1 | New York Mets vs. Atlanta Braves: O/U 7. | Under (BUY) | 29% | 0.80 | ❌ perdida | -0.80 |
-| RN1 | New York Mets vs. Atlanta Braves: O/U 7. | Over (BUY) | 49% | 0.70 | ✅ ganada | +0.73 |
