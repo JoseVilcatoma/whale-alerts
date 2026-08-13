@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 09:51:09 (hora de Perú)
+Actualizado: 2026-08-13 09:53:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $988.92
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
-| SDTrading | 4 | 10 | 0 | +15.41 USD |
+| SDTrading | 4 | 10 | 1 | +15.41 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 |  | 5 | 1 | 1 | +3.47 USD |
@@ -505,6 +505,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 46% | 9.92 | ⏳ pendiente | — |
 |  | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 40% | 1.13 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Aurora Gaming vs M80 - M | M80 (BUY) | 3% | 1.45 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 (BO3) - Esport | BIG (BUY) | 15% | 2.46 | ⏳ pendiente | — |
@@ -534,4 +535,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
