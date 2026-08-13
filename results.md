@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 04:45:43 (hora de Perú)
+Actualizado: 2026-08-13 04:47:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **34**  ($2,394,444 en total)
+- Apuestas registradas: **35**  ($2,434,444 en total)
 - Resueltas: **25** — 14 ganadas / 11 perdidas (**56%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 16
 
 ### Balance
@@ -31,12 +31,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 2 | 1 | 0 | ⚠️ 67% (3) | $125,154 | +$110,752 |
 | NemecGhudini | 1 | 0 | 1 | ⚠️ 100% (1) | $86,190 | +$15,400 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 0 | ⚠️ 100% (1) | $79,200 | +$100,800 |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 2 | — | $72,000 | — |
 | AV23IUa | 0 | 1 | 0 | ⚠️ 0% (1) | $57,499 | -$57,499 |
 | ferrariChampions2026 | 0 | 1 | 0 | ⚠️ 0% (1) | $53,788 | -$53,788 |
 | wr0ngw4yb3tt0r | 1 | 0 | 0 | ⚠️ 100% (1) | $42,257 | +$53,782 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $35,335 | — |
 | hansama231 | 0 | 0 | 1 | — | $34,160 | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 1 | — | $32,000 | — |
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
@@ -45,6 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage | TEAM VISION | 1.75 (57¢) | $40,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Aurora vs GamerLegion - Game 2 Winner | Aurora | 1.33 (75¢) | $42,284 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner | Team Spirit | 1.92 (52¢) | $27,545 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.59 (63¢) | $35,280 | — | ⏳ Pendiente |
