@@ -1,5 +1,5 @@
 {
-  "bankroll": 997.5806517712978,
+  "bankroll": 1002.7188335894796,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -865,6 +865,16 @@
       "timestamp": 1786657631.7823722,
       "bankroll": 997.58,
       "event": "won: ferrariChampions2026 \u2014 Valorant: GIANTX vs Fnatic (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786657834.3898683,
+      "bankroll": 997.58,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786657834.4901385,
+      "bankroll": 1002.72,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Boston Red Sox (-1.5)"
     }
   ]
 }

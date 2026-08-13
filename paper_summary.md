@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 16:48:34 (hora de Perú)
+Actualizado: 2026-08-13 16:50:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $997.58
-**Retorno acumulado:** -0.24%
+**Bankroll actual:** $1,002.72
+**Retorno acumulado:** +0.27%
 **Peor caída desde un máximo (drawdown):** 24.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 7
 
@@ -17,16 +17,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | swisstony | 27 | 9 | 33 | +18.94 USD |
 | RN1 | 16 | 16 | 40 | +2.60 USD |
+| wr0ngw4yb3tt0r | 1 | 5 | 11 | +1.52 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
 |  | 0 | 0 | 13 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 8 | +0.00 USD |
-| theowalcott | 0 | 0 | 23 | +0.00 USD |
+| theowalcott | 0 | 0 | 24 | +0.00 USD |
 | 1winstreak1 | 0 | 0 | 2 | +0.00 USD |
 | HomeRunHazard | 1 | 2 | 5 | -2.31 USD |
 | ferrariChampions2026 | 47 | 37 | 33 | -2.46 USD |
-| wr0ngw4yb3tt0r | 0 | 4 | 13 | -3.62 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 0 | 1 | 7 | -250.00 USD |
@@ -77,6 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 3.98 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Washington Nationals (-4.5) | Washington Nationals (BUY) | 69% | 0.00 | 17.3% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 57% | 9.77 | 12.7% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -103,7 +104,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.78 | 0.6% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 7.24 | 0.7% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 5.07 | 11.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 55% | 6.28 | 2.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-1.5) | Toronto Blue Jays (BUY) | 49% | 0.00 | 2.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 55% | 6.28 | 2.3% | ✅ ganada | +5.14 |
+| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-1.5) | Toronto Blue Jays (BUY) | 49% | 0.00 | 2.8% | ❌ perdida | -0.00 |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Toronto Blue Jays (BUY) | 68% | 0.00 | 1.1% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 17.4% | ⏳ pendiente | — |
