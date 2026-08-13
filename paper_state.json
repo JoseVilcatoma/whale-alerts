@@ -1,5 +1,5 @@
 {
-  "bankroll": 581.2929768505124,
+  "bankroll": 578.6529768505125,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19420,6 +19420,11 @@
       "timestamp": 1786602098.4774091,
       "bankroll": 581.29,
       "event": "lost: swisstony \u2014 San Diego FC vs. Club Puebla: O/U 3.5"
+    },
+    {
+      "timestamp": 1786603033.6992698,
+      "bankroll": 578.65,
+      "event": "lost: HomeRunHazard \u2014 Chicago Sky vs. Golden State Valkyries: O/U 164.5"
     }
   ]
 }
