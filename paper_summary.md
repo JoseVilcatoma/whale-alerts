@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 09:24:15 (hora de Perú)
+Actualizado: 2026-08-13 09:26:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $972.51
-**Retorno acumulado:** -2.75%
+**Bankroll actual:** $988.92
+**Retorno acumulado:** -1.11%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -13,12 +13,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 39 | 27 | 11 | +567.50 USD |
+| BBQChickenisthebesttt | 39 | 29 | 9 | +537.88 USD |
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | wr0ngw4yb3tt0r | 72 | 74 | 3 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
+| ActionReaction | 2 | 1 | 0 | +46.03 USD |
 | AV23IUa | 3 | 5 | 0 | +43.08 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -37,7 +38,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 2 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| ActionReaction | 1 | 1 | 1 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |

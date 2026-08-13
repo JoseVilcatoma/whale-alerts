@@ -1,5 +1,5 @@
 {
-  "bankroll": 972.5124542822731,
+  "bankroll": 988.9215847170557,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19685,6 +19685,21 @@
       "timestamp": 1786628733.596394,
       "bankroll": 972.51,
       "event": "lost: ferrariChampions2026 \u2014 LoL: Top Esports vs LGD Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786631173.8292115,
+      "bankroll": 952.66,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786631173.929398,
+      "bankroll": 942.89,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786631174.0295649,
+      "bankroll": 988.92,
+      "event": "won: ActionReaction \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner"
     }
   ]
 }
