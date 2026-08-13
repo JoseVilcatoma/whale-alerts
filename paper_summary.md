@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 11:52:37 (hora de Perú)
+Actualizado: 2026-08-13 11:54:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 1 | +0.00 USD |
-| Sassy-Bucket | 0 | 0 | 6 | +0.00 USD |
+| Sassy-Bucket | 0 | 0 | 7 | +0.00 USD |
 | SDTrading | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -41,6 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 37% | 0.00 | 1.0% | ⏳ pendiente | — |
 | Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 56% | 0.00 | 0.2% | ⏳ pendiente | — |
 | Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 37% | 47.75 | 7.3% | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 52% | 137.29 | 13.7% | ⏳ pendiente | — |
@@ -70,4 +71,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 45% | 1.99 | 0.2% | ⏳ pendiente | — |
 | swisstony | Qarabağ Ağdam FK vs. FK Dynamo Kyiv: O/U | Under (BUY) | 44% | 1.10 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 46% | 3.05 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Milwaukee Brewers (BUY) | 61% | 3.96 | 0.4% | ⏳ pendiente | — |
