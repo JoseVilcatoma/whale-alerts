@@ -218,5 +218,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786637341.824428,
     "fills": 2
+  },
+  {
+    "timestamp": 1786637470,
+    "timestamp_added": 1786637471.2951388,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "col-tob-par-2026-08-13-tob",
+    "title": "Will Tobyl FK win on 2026-08-13?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 529.7156,
+    "whale_pct": 0.103,
+    "whale_value_at_open": 511851.6763,
+    "paper_stake_usd": 1.03,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786637471.2951462,
+    "fills": 1
   }
 ]
