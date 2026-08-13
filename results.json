@@ -1129,5 +1129,20 @@
     "status": "pending",
     "ultimo_fill": 1786658900,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 147,
+    "timestamp": 1786660798,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-tex-laa-2026-08-13-total-7pt5",
+    "title": "Texas Rangers vs. Los Angeles Angels: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 77144.15000000001,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1786660798,
+    "fills": 1
   }
 ]
