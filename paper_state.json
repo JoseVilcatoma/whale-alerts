@@ -1,5 +1,5 @@
 {
-  "bankroll": 1266.6082791460224,
+  "bankroll": 1267.181773121926,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -410,6 +410,11 @@
       "timestamp": 1786652003.033643,
       "bankroll": 1266.61,
       "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786652124.5703628,
+      "bankroll": 1267.18,
+      "event": "won: swisstony \u2014 Will Abha Saudi Club win on 2026-08-13?"
     }
   ]
 }
