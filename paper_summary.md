@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 00:30:14 (hora de Perú)
+Actualizado: 2026-08-13 00:32:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $582.80
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| BBQChickenisthebesttt | 31 | 27 | 1 | +132.53 USD |
+| BBQChickenisthebesttt | 31 | 27 | 2 | +132.53 USD |
 | wr0ngw4yb3tt0r | 72 | 74 | 0 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -494,6 +494,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 64% | 1.14 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 63% | 12.45 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 51% | 0.94 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 51% | 0.86 | ⏳ pendiente | — |
@@ -523,4 +524,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 45% | 1.27 | ✅ ganada | +1.55 |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 45% | 2.75 | ✅ ganada | +3.36 |
 | RN1 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Under (BUY) | 66% | 1.02 | ❌ perdida | -1.02 |
-| ferrariChampions2026 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Under (BUY) | 67% | 0.84 | ❌ perdida | -0.84 |
