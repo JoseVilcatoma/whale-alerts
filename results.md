@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 16:20:15 (hora de Perú)
+Actualizado: 2026-08-13 16:22:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **70**  ($3,870,863 en total)
+- Apuestas registradas: **71**  ($3,920,542 en total)
 - Resueltas: **56** — 35 ganadas / 21 perdidas (**62%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 30
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 9 | 2 | 0 | 82% | $850,620 | +$240,977 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 9 | 2 | 1 | 82% | $900,299 | +$240,977 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 2 | 3 | 3 | ⚠️ 40% (5) | $342,952 | +$11,449 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
@@ -59,6 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Jan Choinski | Thiago Agustin Tirante | 1.15 (87¢) | $49,678 | — | ⏳ Pendiente |
 | aaditp | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 2.70 (37¢) | $37,966 | — | ⏳ Pendiente |
 | Weaseloftheweek | Chicago Cubs vs. Washington Nationals | Washington Nationals | 1.72 (58¢) | $58,000 | — | ⏳ Pendiente |
 | Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $33,507 | — | ⏳ Pendiente |
@@ -118,4 +119,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NemecGhudini | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.28 (78¢) | $54,600 | +$15,400 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.27 (79¢) | $135,183 | +$35,935 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.27 (44¢) | $79,200 | +$100,800 | ✅ Ganada |
-| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.79 (56¢) | $53,788 | -$53,788 | ❌ Perdida |
