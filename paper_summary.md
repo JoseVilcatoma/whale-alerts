@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 10:01:31 (hora de Perú)
+Actualizado: 2026-08-13 10:03:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $988.92
-**Retorno acumulado:** -1.11%
+**Bankroll actual:** $993.42
+**Retorno acumulado:** -0.66%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -27,8 +27,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 4 | 10 | 1 | +15.41 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-|  | 5 | 1 | 2 | +3.47 USD |
+|  | 5 | 1 | 3 | +3.47 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
+| Weaseloftheweek | 16 | 2 | 0 | +2.18 USD |
 | UpTheBlues | 262 | 157 | 2 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
 | HomeRunHazard | 126 | 113 | 25 | +0.96 USD |
@@ -42,7 +43,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
-| Weaseloftheweek | 15 | 2 | 1 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
@@ -505,7 +505,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| Weaseloftheweek | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 54% | 40.53 | ⏳ pendiente | — |
+|  | Map Handicap: FNC (-1.5) vs GIANTX (+1.5 | GIANTX (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| Weaseloftheweek | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 54% | 40.53 | 💰 vendida anticipada | +4.50 |
 |  | Counter-Strike: Aurora Gaming vs M80 - M | Aurora Gaming (BUY) | 67% | 4.12 | ⏳ pendiente | — |
 | SDTrading | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 46% | 9.92 | ⏳ pendiente | — |
 |  | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 40% | 1.13 | ⏳ pendiente | — |
@@ -534,4 +535,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 54% | 2.28 | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: BIG vs G2 (BO3) - Esport | BIG (BUY) | 36% | 16.89 | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Dream vs. Connecticut Sun: O/U 1 | Under (BUY) | 47% | 2.75 | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 53% | 0.00 | ⏳ pendiente | — |

@@ -84630,14 +84630,35 @@
     "whale_pct": 12.352,
     "paper_stake_usd": 40.53,
     "odds_at_bet": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 4.5,
     "overlaps_with": [
       "",
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786632919.453062,
-    "fills": 4
+    "fills": 4,
+    "closed_price": 60
+  },
+  {
+    "timestamp": 1786633303,
+    "timestamp_added": 1786633304.8325617,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "val-gx-fnc1-2026-08-13-map-handicap-home-1pt5",
+    "title": "Map Handicap: FNC (-1.5) vs GIANTX (+1.5)",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "whale_usd": 214.729999,
+    "whale_pct": 0.157,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786633304.8325698,
+    "fills": 1
   }
 ]
