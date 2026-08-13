@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:52:28 (hora de Perú)
+Actualizado: 2026-08-13 15:54:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,002.70
-**Retorno acumulado:** +0.27%
-**Peor caída desde un máximo (drawdown):** 22.63%
+**Bankroll actual:** $1,004.28
+**Retorno acumulado:** +0.43%
+**Peor caída desde un máximo (drawdown):** 22.73%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 7
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,17 +15,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| RN1 | 6 | 4 | 60 | +27.44 USD |
+| RN1 | 6 | 5 | 59 | +27.44 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
 |  | 0 | 0 | 13 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 8 | +0.00 USD |
 | theowalcott | 0 | 0 | 5 | +0.00 USD |
-| ferrariChampions2026 | 29 | 29 | 58 | -0.75 USD |
-| wr0ngw4yb3tt0r | 0 | 3 | 8 | -1.26 USD |
+| swisstony | 16 | 6 | 47 | -1.01 USD |
+| wr0ngw4yb3tt0r | 0 | 3 | 11 | -1.26 USD |
+| ferrariChampions2026 | 30 | 30 | 56 | -1.97 USD |
 | HomeRunHazard | 1 | 2 | 5 | -2.31 USD |
-| swisstony | 14 | 6 | 49 | -3.80 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 0 | 1 | 7 | -250.00 USD |
@@ -75,6 +75,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 55% | 6.28 | 2.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-1.5) | Toronto Blue Jays (BUY) | 49% | 0.00 | 2.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Toronto Blue Jays (BUY) | 68% | 0.00 | 1.1% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 17.4% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 ⚠️ | 31.9% | ⏳ pendiente | — |
@@ -102,6 +105,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 91% | 2.09 | 0.2% | ⏳ pendiente | — |
 |  | LoL: Anyone's Legend vs JD Gaming (BO3)  | JD Gaming (BUY) | 42% | 16.03 | 1.3% | ⏳ pendiente | — |
 | UpTheBlues | Will Jagiellonia Białystok win on 2026-0 | No (BUY) | 94% | 1.94 | 0.2% | ⏳ pendiente | — |
-| UpTheBlues | Will Shelbourne FC win on 2026-08-13? | No (BUY) | 98% | 2.18 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will Heart of Midlothian FC win on 2026- | No (BUY) | 88% | 1.47 | 0.1% | ⏳ pendiente | — |
-| RN1 | Will Rangers FC win on 2026-08-13? | No (BUY) | 83% | 1.98 | 0.2% | ⏳ pendiente | — |
