@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 18:50:19 (hora de Perú)
+Actualizado: 2026-08-13 18:52:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,140.29
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 2 | 3 | 3 | +75.24 USD |
 | swisstony | 36 | 10 | 9 | +21.58 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| ferrariChampions2026 | 56 | 50 | 59 | +10.27 USD |
+| ferrariChampions2026 | 56 | 50 | 61 | +10.27 USD |
 | RN1 | 24 | 23 | 45 | +2.60 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 15 | +0.00 USD |
@@ -81,6 +81,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 59% | 0.00 | 2.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Red Feet vs QUINTESSÊNCI | QUINTESSÊNCIA (BUY) | 30% | 0.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 49% | 0.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 55% | 0.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 59% | 0.00 | 1.4% | ⏳ pendiente | — |
@@ -109,5 +111,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Mirassol FC (-1.5) | LDU de Quito (BUY) | 80% | 3.36 | 0.3% | ⏳ pendiente | — |
 | swisstony | Atlanta Dream vs. Connecticut Sun | Atlanta Dream (BUY) | 91% | 2.75 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Union vs. Club Santos Lagun | Over (BUY) | 45% | 1.93 | 0.2% | ⏳ pendiente | — |
-| swisstony | Mirassol FC vs. LDU de Quito: O/U 1.5 | Under (BUY) | 48% | 2.84 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | CR Vasco da Gama vs. Club Olimpia: O/U 1 | Under (BUY) | 83% | 4.11 | 0.4% | ⏳ pendiente | — |
