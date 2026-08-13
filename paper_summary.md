@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 23:04:27 (hora de Perú)
+Actualizado: 2026-08-12 23:06:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $538.38
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 71 | 74 | 9 | +110.26 USD |
+| wr0ngw4yb3tt0r | 71 | 74 | 10 | +110.26 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 665 | 497 | 93 | -95.33 USD |
+| ferrariChampions2026 | 665 | 497 | 96 | -95.33 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -450,7 +450,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-phi-stl-2026-08-12-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-chi-gsv-2026-08-12-total-164pt5 | HomeRunHazard, ferrariChampions2026, swisstony |
 | wnba-chi-gsv-2026-08-12-total-165pt5 | HomeRunHazard, ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
-| wnba-chi-gsv-2026-08-12-total-166pt5 | HomeRunHazard, swisstony |
+| wnba-chi-gsv-2026-08-12-total-166pt5 | HomeRunHazard, swisstony, wr0ngw4yb3tt0r |
 | wnba-min-por-2026-08-12-total-185pt5 | HomeRunHazard, swisstony |
 | wnba-min-por-2026-08-12-total-184pt5 | HomeRunHazard, swisstony |
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
@@ -509,6 +509,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: BoomBoys vs OG - Game 1 Winner | BoomBoys (BUY) | 64% | 0.89 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Seattle Sounders FC win on 2026-08- | Yes (BUY) | 43% | 0.98 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CD Guadalajara win on 2026-08-12? | No (BUY) | 77% | 1.69 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 48% | 4.54 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Resilience - | Team Resilience (BUY) | 35% | 0.56 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Resilience - | Team Resilience (BUY) | 34% | 0.54 | ⏳ pendiente | — |
 |  | Spread: FC Lugano (-1.5) | NSÍ Runavík (BUY) | 51% | 2.55 | ⏳ pendiente | — |
@@ -535,7 +539,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Minnesota Lynx vs. PortlandFire | Minnesota Lynx (BUY) | 84% | 2.66 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 45% | 1.51 | ⏳ pendiente | — |
 | swisstony | Minnesota Lynx vs. PortlandFire | Minnesota Lynx (BUY) | 84% | 4.82 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 40% | 0.65 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 76% | 6.15 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 79% | 3.14 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 74% | 1.13 | ⏳ pendiente | — |
