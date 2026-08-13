@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:25:15 (hora de Perú)
+Actualizado: 2026-08-13 15:27:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,267.18
-**Retorno acumulado:** +26.72%
+**Bankroll actual:** $1,267.31
+**Retorno acumulado:** +26.73%
 **Peor caída desde un máximo (drawdown):** 11.24%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 6
 
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| RN1 | 5 | 3 | 56 | +27.44 USD |
-| ferrariChampions2026 | 21 | 27 | 67 | +4.60 USD |
+| RN1 | 6 | 3 | 56 | +27.44 USD |
+| ferrariChampions2026 | 22 | 27 | 67 | +4.72 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
@@ -67,11 +67,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col-gen-got-2026-08-13-total-2pt5 | , RN1 |
 | uel-hmi-ben-2026-08-13-hmi | RN1, UpTheBlues |
 | col-she1-aja-2026-08-13-aja | RN1, UpTheBlues |
+| uel-egn-shr-2026-08-13-total-5pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | KF Egnatia Rrogozhinë vs. Shamrock Rover | Under (BUY) | 35% | 0.05 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | KF Egnatia Rrogozhinë vs. Shamrock Rover | Over (BUY) | 66% | 1.33 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Heart of Midlothian FC vs. Sport Lisboa  | Under (BUY) | 91% | 0.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Santos FC vs. CSyD Macará: Santos FC O/U | Over (BUY) | 32% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Will AFC Ajax win on 2026-08-13? | Yes (BUY) | 86% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -100,5 +103,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Shamrock Rovers FC (-1.5) | KF Egnatia Rrogozhinë (BUY) | 100% | 3.04 | 0.2% | ⏳ pendiente | — |
 |  | Heart of Midlothian FC vs. Sport Lisboa  | Under (BUY) | 38% | 2.33 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Dream (-10.5) | Connecticut Sun (BUY) | 50% | 1.51 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 44% | 1.49 | 0.1% | ⏳ pendiente | — |
-|  | LoL: Anyone's Legend vs JD Gaming (BO3)  | JD Gaming (BUY) | 42% | 0.00 | 0.2% | ⏳ pendiente | — |

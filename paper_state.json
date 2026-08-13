@@ -1,5 +1,5 @@
 {
-  "bankroll": 1267.181773121926,
+  "bankroll": 1267.3053994955524,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -440,6 +440,16 @@
       "timestamp": 1786652690.4875822,
       "bankroll": 1267.18,
       "event": "won: swisstony \u2014 Spread: FK Jablonec (-1.5)"
+    },
+    {
+      "timestamp": 1786652746.2540915,
+      "bankroll": 1267.31,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Dark Passage vs BoostGate Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786652756.5712755,
+      "bankroll": 1267.31,
+      "event": "won: RN1 \u2014 Will FK R\u012bgas Futbola Skola vs. FK Jablonec end in a draw?"
     }
   ]
 }
