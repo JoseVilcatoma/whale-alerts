@@ -1,5 +1,5 @@
 {
-  "bankroll": 574.40855723929,
+  "bankroll": 572.75855723929,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18535,6 +18535,16 @@
       "timestamp": 1786582856.3433185,
       "bankroll": 574.41,
       "event": "lost: 1winstreak1 \u2014 Chicago Cubs vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1786582913.0749383,
+      "bankroll": 574.41,
+      "event": "lost: SDTrading \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786582973.6816485,
+      "bankroll": 572.76,
+      "event": "lost: 1winstreak1 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
     }
   ]
 }
