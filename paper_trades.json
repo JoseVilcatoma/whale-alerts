@@ -85481,5 +85481,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786596281.3999727,
     "fills": 1
+  },
+  {
+    "timestamp": 1786596414,
+    "timestamp_added": 1786596414.653647,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-ktc-nsea-2026-08-13",
+    "title": "LoL: KT Rolster Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+    "outcome": "KT Rolster Challengers",
+    "side": "BUY",
+    "whale_usd": 18.859649,
+    "whale_pct": 0.583,
+    "paper_stake_usd": 3.27,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786596414.653656,
+    "fills": 1
   }
 ]
