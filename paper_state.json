@@ -1,5 +1,5 @@
 {
-  "bankroll": 572.75855723929,
+  "bankroll": 569.5140366913448,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18545,6 +18545,21 @@
       "timestamp": 1786582973.6816485,
       "bankroll": 572.76,
       "event": "lost: 1winstreak1 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786583845.904506,
+      "bankroll": 573.89,
+      "event": "won: 1winstreak1 \u2014 Seattle Mariners vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786583848.7963603,
+      "bankroll": 570.94,
+      "event": "lost: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1786583855.503321,
+      "bankroll": 569.51,
+      "event": "lost: 1winstreak1 \u2014 Seattle Mariners vs. New York Yankees: O/U 8.5"
     }
   ]
 }
