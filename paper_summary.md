@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 12:07:12 (hora de Perú)
+Actualizado: 2026-08-13 12:09:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 22 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 28 | +0.00 USD |
 | RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 16 | +0.00 USD |
@@ -34,13 +34,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col-qar-dyn-2026-08-13-total-2pt5 | RN1, swisstony |
 | col-tob-par-2026-08-13-tob | ferrariChampions2026, swisstony |
 | mlb-bos-tor-2026-08-13-total-7pt5 | Talvez10, ferrariChampions2026 |
-| cs2-lgc-faze-2026-08-13 | Lakersfan111, Nooserac |
+| cs2-lgc-faze-2026-08-13 | Lakersfan111, Nooserac, ferrariChampions2026 |
 | mlb-cin-cws-2026-08-13-total-8pt5 | SDTrading, Sassy-Bucket |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 36% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Universitatea Craiova CS win on 202 | Yes (BUY) | 49% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Astralis (BUY) | 39% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Team Falcons (BUY) | 66% | 0.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Astralis (BUY) | 39% | 0.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Górnik Zabrze win on 2026-08-13? | No (BUY) | 57% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | Team Heretics Academy (BUY) | 56% | 0.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 45% | 0.00 | 7.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Pcific Esports (BUY) | 50% | 0.00 | 0.5% | ⏳ pendiente | — |
@@ -65,9 +71,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Joblife (BUY) | 28% | 1.21 | 0.1% | ⏳ pendiente | — |
 | swisstony | Will Tobyl FK win on 2026-08-13? | No (BUY) | 76% | 1.22 | 0.1% | ⏳ pendiente | — |
 | swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 4. | Under (BUY) | 95% | 2.67 | 0.3% | ⏳ pendiente | — |
-| swisstony | Will HNK Rijeka win on 2026-08-13? | Yes (BUY) | 46% | 1.79 | 0.2% | ⏳ pendiente | — |
-| swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 3. | Under (BUY) | 78% | 1.24 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Joblife (BUY) | 78% | 1.16 | 0.1% | ⏳ pendiente | — |
-| Nooserac | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 48% | 1.14 | 0.1% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 48% | 12.55 | 1.3% | ⏳ pendiente | — |
-| swisstony | Ilves Tampere vs. HNK Rijeka: Both Teams | No (BUY) | 65% | 2.54 | 0.3% | ⏳ pendiente | — |
