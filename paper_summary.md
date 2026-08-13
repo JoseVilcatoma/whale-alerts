@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 19:25:43 (hora de Perú)
+Actualizado: 2026-08-12 19:27:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $621.92
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 67 | 70 | 3 | +104.98 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
-| AV23IUa | 3 | 4 | 0 | +45.27 USD |
+| AV23IUa | 3 | 4 | 1 | +45.27 USD |
 | 1winstreak1 | 113 | 89 | 23 | +38.73 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
@@ -474,6 +474,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Will Cruzeiro EC win on 2026-08-12? | Yes (BUY) | 32% | 2.19 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 34% | 0.73 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 54% | 14.80 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago Cubs (-2.5) | Chicago Cubs (BUY) | 57% | 1.37 | ⏳ pendiente | — |
@@ -503,4 +504,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 86% | 0.85 | ✅ ganada | +0.14 |
 | ferrariChampions2026 | Inter Miami CF vs. Club León FC: O/U 2.5 | Over (BUY) | 54% | 0.71 | ⏳ pendiente | — |
 | RN1 | Spread: Seattle Mariners (-1.5) | New York Yankees (BUY) | 44% | 1.31 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Seattle Mariners (-1.5) | New York Yankees (BUY) | 44% | 1.99 | ⏳ pendiente | — |
