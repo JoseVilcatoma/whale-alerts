@@ -84443,5 +84443,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786608307.9210336,
     "fills": 1
+  },
+  {
+    "timestamp": 1786608383,
+    "timestamp_added": 1786608384.5763495,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-drx-fox1-2026-08-13-game1",
+    "title": "LoL: Kiwoom DRX vs BNK FEARX - Game 1 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 4311.099400000001,
+    "whale_pct": 30.825,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786608400.0879776,
+    "fills": 4
   }
 ]
