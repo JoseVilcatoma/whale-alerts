@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 21:34:51 (hora de Perú)
+Actualizado: 2026-08-12 21:36:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **13**  ($1,033,661 en total)
-- Resueltas: **0** — 0 ganadas / 0 perdidas (**0%** de acierto)
-- Pendientes: 13
+- Resueltas: **1** — 1 ganadas / 0 perdidas (**100%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 10
 
 ### Balance
 
-- **Resultado de los apostadores: +$0** sobre $0 apostados (ROI **+0.0%**)
+- **Resultado de los apostadores: +$2,000** sobre $70,000 apostados (ROI **+2.9%**)
 - Copiando $100 fijo en cada una: **+$0** sobre $0 (ROI **+0.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 0 | 1 | — | $186,199 | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | — | $79,200 | — |
 | Weaseloftheweek | 0 | 0 | 2 | — | $71,170 | — |
-| 0xheavy888 | 0 | 0 | 1 | — | $70,000 | — |
+| 0xheavy888 | 1 | 0 | 0 | ⚠️ 100% (1) | $70,000 | +$2,000 |
 | AV23IUa | 0 | 0 | 1 | — | $57,499 | — |
 | ferrariChampions2026 | 0 | 0 | 1 | — | $53,788 | — |
 | b0c | 0 | 0 | 2 | — | $52,793 | — |
@@ -50,5 +50,5 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.75 (57¢) | $57,499 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | BoomBoys | 1.43 (70¢) | $364,470 | — | ⏳ Pendiente |
 | Djdjdjekekek | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | OG | 3.33 (30¢) | $186,199 | — | ⏳ Pendiente |
-| 0xheavy888 | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | BoomBoys | 1.43 (70¢) | $70,000 | — | ⏳ Pendiente |
+| 0xheavy888 | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | BoomBoys | 1.43 (70¢) | $70,000 | +$2,000 | 💰 Vendida antes |
 | lIlIlIllllIIIII | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | BoomBoys | 1.33 (75¢) | $31,285 | — | ⏳ Pendiente |
