@@ -84680,5 +84680,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786635052.9654946,
     "fills": 1
+  },
+  {
+    "timestamp": 1786635597,
+    "timestamp_added": 1786635597.6984622,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-cle-det-2026-08-13-spread-home-1pt5",
+    "title": "Spread: Detroit Tigers (-1.5)",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 675.8,
+    "whale_pct": 0.433,
+    "paper_stake_usd": 0.52,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786635597.6984704,
+    "fills": 1
   }
 ]
