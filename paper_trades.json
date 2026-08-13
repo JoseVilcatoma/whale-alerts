@@ -7342,5 +7342,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786661487.394085,
     "fills": 3
+  },
+  {
+    "timestamp": 1786661569,
+    "timestamp_added": 1786661569.36221,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-kru1-bst1-2026-08-13",
+    "title": "Valorant: KR\u00dc Esports vs BESTIA (BO3) - VCT Americas Stage 2 Play-In",
+    "outcome": "KR\u00dc Esports",
+    "side": "BUY",
+    "whale_usd": 311.99580000000003,
+    "whale_pct": 0.108,
+    "whale_value_at_open": 288355.5916,
+    "paper_stake_usd": 1.28,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786661569.362217,
+    "fills": 1
   }
 ]
