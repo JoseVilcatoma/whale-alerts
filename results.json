@@ -272,5 +272,20 @@
     "status": "pending",
     "ultimo_fill": 1786589492.2266343,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 34,
+    "timestamp": 1786591918,
+    "username": "0F62",
+    "wallet": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+    "slug": "mlb-kc-lad-2026-08-12",
+    "title": "Kansas City Royals vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 26718.207599999998,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1786591918,
+    "fills": 1
   }
 ]
