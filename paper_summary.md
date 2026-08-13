@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 22:33:08 (hora de Perú)
+Actualizado: 2026-08-12 22:35:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $536.93
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 662 | 496 | 62 | -96.78 USD |
+| ferrariChampions2026 | 662 | 496 | 64 | -96.78 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -507,6 +507,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 42% | 0.66 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | LGD Gaming (BUY) | 40% | 0.68 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Iron Wing (BUY) | 60% | 2.69 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | LGD Gaming (BUY) | 45% | 0.59 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 51% | 1.12 | ⏳ pendiente | — |
@@ -535,5 +537,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Deportivo Toluca FC vs. FC Dallas: O/U 4 | Over (BUY) | 53% | 0.74 | ⏳ pendiente | — |
 | swisstony | Spread: Golden State Valkyries (-9.5) | Golden State Valkyries (BUY) | 33% | 0.62 | ⏳ pendiente | — |
 | swisstony | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 76% | 0.67 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Golden State Valkyries (-8.5) | Golden State Valkyries (BUY) | 47% | 0.93 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Golden State Valkyries (-8.5) | Golden State Valkyries (BUY) | 46% | 2.70 | ⏳ pendiente | — |
