@@ -7528,5 +7528,77 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786661827.8070695,
     "fills": 1
+  },
+  {
+    "timestamp": 1786661974,
+    "timestamp_added": 1786661975.0950346,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lec-nyc-nec-2026-08-13-total-3pt5",
+    "title": "New York City FC vs. Club Necaxa: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 888.06,
+    "whale_pct": 0.207,
+    "whale_value_at_open": 429936.5796,
+    "paper_stake_usd": 2.44,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "theowalcott"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786661976.8573422,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786661974,
+    "timestamp_added": 1786661975.6866846,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "lec-nyc-nec-2026-08-13-total-3pt5",
+    "title": "New York City FC vs. Club Necaxa: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 745.182456,
+    "whale_pct": 2.186,
+    "whale_value_at_open": 34084.9951,
+    "paper_stake_usd": 25.87,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786661976.920066,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786662015,
+    "timestamp_added": 1786662015.6685898,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "lec-nyc-nec-2026-08-13-total-3pt5",
+    "title": "New York City FC vs. Club Necaxa: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 69.23,
+    "whale_pct": 0.203,
+    "whale_value_at_open": 34084.9951,
+    "paper_stake_usd": 2.4,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786662015.6685975,
+    "fills": 1
   }
 ]

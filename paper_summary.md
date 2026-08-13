@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 17:58:26 (hora de Perú)
+Actualizado: 2026-08-13 18:00:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,183.08
@@ -23,8 +23,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 17 | 17 | 58 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
-| theowalcott | 0 | 0 | 10 | +0.00 USD |
+| theowalcott | 0 | 0 | 12 | +0.00 USD |
 | cigarettes | 0 | 0 | 2 | +0.00 USD |
+| UpTheBlues | 0 | 0 | 1 | +0.00 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
 | wr0ngw4yb3tt0r | 0 | 5 | 7 | -15.12 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
@@ -66,6 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sud-vas-clo-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
 | sud-san-mac-2026-08-13-total-2pt5 | RN1, ferrariChampions2026 |
 | sud-san-mac-2026-08-13-mac | RN1, ferrariChampions2026 |
+| lec-nyc-nec-2026-08-13-total-3pt5 | UpTheBlues, theowalcott |
 | lol-mvu-wu-2026-08-13 | cigarettes, ferrariChampions2026 |
 | sud-san-mac-2026-08-13-first-half-total-2pt5 | RN1, cigarettes |
 
@@ -73,6 +75,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 43% | 2.40 | 0.2% | ⏳ pendiente | — |
+| theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 43% | 25.87 | 2.2% | ⏳ pendiente | — |
+| UpTheBlues | New York City FC vs. Club Necaxa: O/U 3. | Under (BUY) | 57% | 2.44 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will CSyD Macará win on 2026-08-13? | No (BUY) | 92% | 4.04 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CR Vasco da Gama win on 2026-08-13? | Yes (BUY) | 54% | 1.85 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | BESTIA (BUY) | 24% | 3.38 | 0.3% | ⏳ pendiente | — |
@@ -100,6 +105,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | KRÜ Esports (BUY) | 48% | 0.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | BESTIA (BUY) | 48% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Santos FC vs. CSyD Macará: O/U 2.5 | Over (BUY) | 53% | 0.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Santos FC win on 2026-08-13? | No (BUY) | 64% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will Santos FC win on 2026-08-13? | No (BUY) | 64% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will Mirassol FC win on 2026-08-13? | Yes (BUY) | 68% | 0.00 | 0.2% | ⏳ pendiente | — |
