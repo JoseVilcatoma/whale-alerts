@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 23:56:11 (hora de Perú)
+Actualizado: 2026-08-12 23:58:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $555.25
-**Retorno acumulado:** -44.47%
+**Bankroll actual:** $558.05
+**Retorno acumulado:** -44.20%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| BBQChickenisthebesttt | 31 | 27 | 3 | +132.53 USD |
-| wr0ngw4yb3tt0r | 73 | 76 | 6 | +107.63 USD |
+| BBQChickenisthebesttt | 31 | 27 | 4 | +132.53 USD |
+| wr0ngw4yb3tt0r | 77 | 76 | 2 | +114.53 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 5 | 0 | +43.08 USD |
@@ -50,13 +50,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
 | RN1 | 245 | 131 | 1 | -26.42 USD |
-| swisstony | 183 | 121 | 9 | -27.18 USD |
+| swisstony | 184 | 122 | 7 | -27.76 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 676 | 504 | 97 | -91.52 USD |
+| ferrariChampions2026 | 681 | 512 | 84 | -95.03 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -509,6 +509,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 43% | 2.92 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 43% | 3.27 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 43% | 0.91 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 43% | 90.54 | ⏳ pendiente | — |
@@ -538,4 +539,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Resilience - | Team Resilience (BUY) | 35% | 0.56 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Resilience - | Team Resilience (BUY) | 34% | 0.54 | ⏳ pendiente | — |
 |  | Spread: FC Lugano (-1.5) | NSÍ Runavík (BUY) | 51% | 2.55 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | No (BUY) | 64% | 2.25 | ⏳ pendiente | — |

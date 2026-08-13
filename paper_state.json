@@ -1,5 +1,5 @@
 {
-  "bankroll": 555.2529897332306,
+  "bankroll": 558.0498356670171,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19530,6 +19530,101 @@
       "timestamp": 1786596963.790669,
       "bankroll": 555.25,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago Sky vs. Golden State Valkyries: O/U 166.5"
+    },
+    {
+      "timestamp": 1786597012.954494,
+      "bankroll": 554.64,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Sky vs. Golden State Valkyries"
+    },
+    {
+      "timestamp": 1786597013.706655,
+      "bankroll": 553.77,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Sky vs. Golden State Valkyries"
+    },
+    {
+      "timestamp": 1786597014.0071251,
+      "bankroll": 554.63,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Golden State Valkyries"
+    },
+    {
+      "timestamp": 1786597014.1073058,
+      "bankroll": 555.52,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Chicago Sky vs. Golden State Valkyries"
+    },
+    {
+      "timestamp": 1786597014.3076472,
+      "bankroll": 554.43,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Sky vs. Golden State Valkyries"
+    },
+    {
+      "timestamp": 1786597014.5079267,
+      "bankroll": 554.88,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Golden State Valkyries"
+    },
+    {
+      "timestamp": 1786597014.7082598,
+      "bankroll": 554.03,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Sky vs. Golden State Valkyries"
+    },
+    {
+      "timestamp": 1786597014.808458,
+      "bankroll": 553.31,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Sky vs. Golden State Valkyries"
+    },
+    {
+      "timestamp": 1786597014.9086576,
+      "bankroll": 552.52,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Sky vs. Golden State Valkyries"
+    },
+    {
+      "timestamp": 1786597015.0088973,
+      "bankroll": 553.42,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Golden State Valkyries"
+    },
+    {
+      "timestamp": 1786597015.109088,
+      "bankroll": 552.76,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Sky vs. Golden State Valkyries"
+    },
+    {
+      "timestamp": 1786597015.2092528,
+      "bankroll": 554.02,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Chicago Sky vs. Golden State Valkyries"
+    },
+    {
+      "timestamp": 1786597015.7100594,
+      "bankroll": 553.33,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Sky vs. Golden State Valkyries"
+    },
+    {
+      "timestamp": 1786597017.3125024,
+      "bankroll": 553.47,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Golden State Valkyries"
+    },
+    {
+      "timestamp": 1786597017.512885,
+      "bankroll": 553.87,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Golden State Valkyries"
+    },
+    {
+      "timestamp": 1786597020.1734986,
+      "bankroll": 552.03,
+      "event": "lost: swisstony \u2014 Spread: Golden State Valkyries (-10.5)"
+    },
+    {
+      "timestamp": 1786597074.1345701,
+      "bankroll": 556.0,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Golden State Valkyries (-9.5)"
+    },
+    {
+      "timestamp": 1786597074.7355616,
+      "bankroll": 557.26,
+      "event": "won: swisstony \u2014 Spread: Golden State Valkyries (-9.5)"
+    },
+    {
+      "timestamp": 1786597078.792875,
+      "bankroll": 558.05,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Golden State Valkyries (-9.5)"
     }
   ]
 }

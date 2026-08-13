@@ -82665,8 +82665,8 @@
     "whale_pct": 0.106,
     "paper_stake_usd": 0.61,
     "odds_at_bet": 32,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.61,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786588079.438528,
@@ -82899,8 +82899,8 @@
     "whale_pct": 0.156,
     "paper_stake_usd": 0.87,
     "odds_at_bet": 35,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.87,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786588254.3816292,
@@ -82981,8 +82981,8 @@
     "whale_pct": 0.329,
     "paper_stake_usd": 1.82,
     "odds_at_bet": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.86,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786588298.9697268,
@@ -83001,8 +83001,8 @@
     "whale_pct": 0.341,
     "paper_stake_usd": 1.89,
     "odds_at_bet": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.89,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -83043,8 +83043,8 @@
     "whale_pct": 0.197,
     "paper_stake_usd": 1.09,
     "odds_at_bet": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.09,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -83085,8 +83085,8 @@
     "whale_pct": 0.12,
     "paper_stake_usd": 0.67,
     "odds_at_bet": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.45,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -83127,8 +83127,8 @@
     "whale_pct": 0.153,
     "paper_stake_usd": 0.85,
     "odds_at_bet": 38,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.85,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -83149,8 +83149,8 @@
     "whale_pct": 0.131,
     "paper_stake_usd": 0.72,
     "odds_at_bet": 31,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.72,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -83171,8 +83171,8 @@
     "whale_pct": 0.143,
     "paper_stake_usd": 0.79,
     "odds_at_bet": 33,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.79,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -83216,8 +83216,8 @@
     "whale_pct": 0.444,
     "paper_stake_usd": 2.45,
     "odds_at_bet": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.91,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -83258,8 +83258,8 @@
     "whale_pct": 0.12,
     "paper_stake_usd": 0.66,
     "odds_at_bet": 26,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.66,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -83302,8 +83302,8 @@
     "whale_pct": 0.681,
     "paper_stake_usd": 3.76,
     "odds_at_bet": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.25,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -83364,8 +83364,8 @@
     "whale_pct": 0.613,
     "paper_stake_usd": 3.38,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.97,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786589598.2138474,
@@ -83404,8 +83404,8 @@
     "whale_pct": 0.125,
     "paper_stake_usd": 0.69,
     "odds_at_bet": 20,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.69,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -83553,8 +83553,8 @@
     "whale_pct": 0.112,
     "paper_stake_usd": 0.62,
     "odds_at_bet": 33,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.26,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -83958,8 +83958,8 @@
     "whale_pct": 0.156,
     "paper_stake_usd": 0.84,
     "odds_at_bet": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.15,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -84000,8 +84000,8 @@
     "whale_pct": 0.423,
     "paper_stake_usd": 2.27,
     "odds_at_bet": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.4,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -84597,8 +84597,8 @@
     "whale_pct": 0.341,
     "paper_stake_usd": 1.84,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.84,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786592644.164665,
@@ -84682,8 +84682,8 @@
     "whale_pct": 0.131,
     "paper_stake_usd": 0.7,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.79,
     "overlaps_with": [
       "swisstony"
     ],
@@ -85501,5 +85501,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786596414.653656,
     "fills": 1
+  },
+  {
+    "timestamp": 1786597031,
+    "timestamp_added": 1786597031.763146,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-ktc-nsea-2026-08-13",
+    "title": "LoL: KT Rolster Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+    "outcome": "KT Rolster Challengers",
+    "side": "BUY",
+    "whale_usd": 17.2,
+    "whale_pct": 0.529,
+    "paper_stake_usd": 2.92,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786597032.4586043,
+    "fills": 2
   }
 ]
