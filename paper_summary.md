@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 16:09:01 (hora de Perú)
+Actualizado: 2026-08-13 16:11:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $995.52
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | swisstony | 26 | 9 | 34 | +18.94 USD |
-| RN1 | 16 | 14 | 40 | +2.60 USD |
+| RN1 | 16 | 15 | 39 | +2.60 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 0 | 0 | 12 | +0.00 USD |
 | HomeRunHazard | 1 | 2 | 5 | -2.31 USD |
 | ferrariChampions2026 | 43 | 37 | 36 | -3.46 USD |
-| wr0ngw4yb3tt0r | 0 | 4 | 10 | -3.62 USD |
+| wr0ngw4yb3tt0r | 0 | 4 | 11 | -3.62 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 0 | 1 | 7 | -250.00 USD |
@@ -75,6 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Cardinals vs. Raiders | Cardinals (BUY) | 40% | 18.13 | 8.0% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 11.30 | 1.1% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 2.09 | 0.2% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 2.82 | 0.3% | ⏳ pendiente | — |
@@ -104,4 +105,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Shelbourne FC vs. AFC Ajax: O/U 3.5 | Under (BUY) | 46% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 98% | 0.00 | 0.1% | ✅ ganada | +0.00 |
 | RN1 | RSC Anderlecht vs. PAOK: O/U 5.5 | Under (BUY) | 82% | 0.00 | 0.4% | ⏳ pendiente | — |
-| UpTheBlues | Heart of Midlothian FC vs. Sport Lisboa  | Over (BUY) | 99% | 0.00 | 0.1% | ⏳ pendiente | — |

@@ -825,6 +825,11 @@
       "timestamp": 1786655010.4769247,
       "bankroll": 995.52,
       "event": "won: RN1 \u2014 Will Hammarby Fotboll win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786655449.3738456,
+      "bankroll": 995.52,
+      "event": "lost: RN1 \u2014 FK Dynama-Minsk vs. SC Braga: O/U 0.5"
     }
   ]
 }
