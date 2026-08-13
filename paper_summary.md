@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 17:27:06 (hora de Perú)
+Actualizado: 2026-08-13 17:29:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,118.00
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 26 | 9 | 15 | +18.94 USD |
 | ferrariChampions2026 | 47 | 37 | 30 | +13.84 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| RN1 | 17 | 15 | 30 | +2.60 USD |
+| RN1 | 17 | 15 | 35 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 4 | +0.00 USD |
@@ -66,6 +66,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Santos FC win on 2026-08-13? | Yes (BUY) | 43% | 1.66 | 0.1% | ⏳ pendiente | — |
+| RN1 | Will Mirassol FC win on 2026-08-13? | Yes (BUY) | 70% | 1.60 | 0.1% | ⏳ pendiente | — |
+| RN1 | Will CSyD Macará win on 2026-08-13? | No (BUY) | 73% | 1.88 | 0.2% | ⏳ pendiente | — |
+| RN1 | CR Vasco da Gama vs. Club Olimpia: O/U 1 | Over (BUY) | 56% | 8.26 | 0.7% | ⏳ pendiente | — |
+| RN1 | Will Santos FC win on 2026-08-13? | No (BUY) | 53% | 5.42 | 0.5% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Washington Nationals (-6.5) | Washington Nationals (BUY) | 95% | 6.36 | 0.6% | ⏳ pendiente | — |
 | RN1 | Mirassol FC vs. LDU de Quito: O/U 3.5 | Under (BUY) | 71% | 2.85 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | BESTIA (BUY) | 38% | 1.64 | 0.1% | ⏳ pendiente | — |
@@ -91,8 +96,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Santos FC vs. CSyD Macará: 1st Half O/U  | Over (BUY) | 63% | 1.94 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 47% | 25.42 | 2.5% | ⏳ pendiente | — |
 | RN1 | Mirassol FC vs. LDU de Quito: O/U 1.5 | Over (BUY) | 63% | 2.28 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will Santos FC win on 2026-08-13? | Yes (BUY) | 49% | 1.93 | 0.2% | ⏳ pendiente | — |
-| swisstony | Santos FC vs. CSyD Macará: O/U 5.5 | Under (BUY) | 89% | 1.91 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Las Vegas Aces (-6.5) | Washington Mystics (BUY) | 52% | 20.22 | 2.0% | ⏳ pendiente | — |
-| swisstony | Spread: Club Olimpia (-1.5) | CR Vasco da Gama (BUY) | 96% | 1.39 | 0.1% | ⏳ pendiente | — |
-| swisstony | Santos FC vs. CSyD Macará: 1st Half O/U  | Over (BUY) | 100% | 4.76 | 0.5% | ⏳ pendiente | — |
