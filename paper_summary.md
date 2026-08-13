@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:21:09 (hora de Perú)
+Actualizado: 2026-08-13 15:23:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,267.18
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| RN1 | 5 | 3 | 53 | +27.44 USD |
-| ferrariChampions2026 | 21 | 27 | 66 | +4.60 USD |
+| RN1 | 5 | 3 | 54 | +27.44 USD |
+| ferrariChampions2026 | 21 | 27 | 67 | +4.60 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 0 | 0 | 8 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
 |  | 0 | 0 | 13 | +0.00 USD |
-| UpTheBlues | 0 | 0 | 4 | +0.00 USD |
+| UpTheBlues | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 3 | 8 | -1.26 USD |
 | swisstony | 11 | 5 | 53 | -3.63 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
@@ -61,6 +61,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-sea-nyy-2026-08-13-total-5pt5 | HomeRunHazard, ferrariChampions2026 |
 | uel-ran1-jag-2026-08-13-total-1pt5 | RN1, swisstony |
 | uel-csk1-mta-2026-08-13-total-4pt5 | RN1, swisstony |
+| uel-hmi-ben-2026-08-13-total-1pt5 | RN1, UpTheBlues |
 | uel-hmi-ben-2026-08-13-ben | RN1, UpTheBlues |
 | mlb-chc-wsh-2026-08-13-total-7pt5 | RN1, ferrariChampions2026 |
 | col-gen-got-2026-08-13-total-2pt5 | , RN1 |
@@ -70,6 +71,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 98% | 0.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | RSC Anderlecht vs. PAOK: O/U 5.5 | Under (BUY) | 82% | 0.00 | 0.4% | ⏳ pendiente | — |
+| UpTheBlues | Heart of Midlothian FC vs. Sport Lisboa  | Over (BUY) | 99% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 48% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Heart of Midlothian FC win on 2026- | Yes (BUY) | 66% | 9.57 | 0.8% | ⏳ pendiente | — |
 | UpTheBlues | Will Heart of Midlothian FC win on 2026- | No (BUY) | 33% | 1.64 | 0.5% | ⏳ pendiente | — |
@@ -97,6 +101,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will FK Austria Wien vs. MH Beitar Jerus | No (BUY) | 78% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Rangers FC vs. Jagiellonia Białystok: O/ | Over (BUY) | 68% | 0.00 | 0.2% | ⏳ pendiente | — |
 |  | Rangers FC vs. Jagiellonia Białystok: Te | Jagiellonia Białystok (BUY) | 28% | 0.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | HNK Hajduk Split vs. FK Žalgiris Vilnius | Under (BUY) | 90% | 0.00 | 0.1% | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 58% | 0.00 | 0.4% | ⏳ pendiente | — |
-|  | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 58% | 0.00 | 0.4% | ⏳ pendiente | — |
