@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 17:02:03 (hora de Perú)
+Actualizado: 2026-08-13 17:04:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **73**  ($4,090,655 en total)
+- Apuestas registradas: **74**  ($4,117,679 en total)
 - Resueltas: **57** — 36 ganadas / 21 perdidas (**63%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 30
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 9 | 2 | 1 | 82% | $900,299 | +$240,977 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
-| Weaseloftheweek | 2 | 3 | 4 | ⚠️ 40% (5) | $421,558 | +$11,449 |
+| Weaseloftheweek | 2 | 3 | 5 | ⚠️ 40% (5) | $448,581 | +$11,449 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
 | AV23IUa | 0 | 2 | 2 | ⚠️ 0% (2) | $215,343 | -$83,036 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
@@ -59,6 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $27,024 | — | ⏳ Pendiente |
 | Weaseloftheweek | Philadelphia Phillies vs. Minnesota Twins | Minnesota Twins | 1.96 (51¢) | $78,606 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.82 (55¢) | $91,507 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Jan Choinski | Thiago Agustin Tirante | 1.15 (87¢) | $49,678 | — | ⏳ Pendiente |
@@ -118,4 +119,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.28 (78¢) | $312,000 | +$88,000 | ✅ Ganada |
 | Djdjdjekekek | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 4.55 (22¢) | $95,671 | -$95,671 | ❌ Perdida |
 | 0xheavy888 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.30 (77¢) | $60,801 | +$18,161 | ✅ Ganada |
-| NemecGhudini | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.28 (78¢) | $54,600 | +$15,400 | ✅ Ganada |

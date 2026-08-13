@@ -1099,5 +1099,20 @@
     "status": "pending",
     "ultimo_fill": 1786658404,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 145,
+    "timestamp": 1786658545,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "atp-shelton-nakashi-2026-08-13",
+    "title": "National Bank Open: Ben Shelton vs Brandon Nakashima",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 27023.6284,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1786658545,
+    "fills": 1
   }
 ]
