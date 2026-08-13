@@ -6422,5 +6422,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786650323.1293952,
     "fills": 1
+  },
+  {
+    "timestamp": 1786650341,
+    "timestamp_added": 1786650342.2613611,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-ran1-jag-2026-08-13-total-1pt5",
+    "title": "Rangers FC vs. Jagiellonia Bia\u0142ystok: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 977.84,
+    "whale_pct": 0.192,
+    "whale_value_at_open": 509152.4535,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786650342.2613707,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786650426,
+    "timestamp_added": 1786650427.5923038,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-aus-bei-2026-08-13-draw",
+    "title": "Will FK Austria Wien vs. MH Beitar Jerusalem end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 576.4200000000001,
+    "whale_pct": 0.113,
+    "whale_value_at_open": 510773.0079,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786650427.5923102,
+    "fills": 1
   }
 ]

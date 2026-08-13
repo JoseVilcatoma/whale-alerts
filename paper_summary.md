@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 14:45:33 (hora de Perú)
+Actualizado: 2026-08-13 14:47:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,248.14
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | ferrariChampions2026 | 13 | 13 | 84 | +5.38 USD |
-| RN1 | 2 | 1 | 47 | +1.64 USD |
+| RN1 | 2 | 1 | 49 | +1.64 USD |
 | swisstony | 5 | 0 | 63 | +1.09 USD |
 | wr0ngw4yb3tt0r | 0 | 1 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
@@ -58,12 +58,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col-nor-val-2026-08-13-total-4pt5 | RN1, ferrariChampions2026 |
 | uel-bes-hra-2026-08-13-total-1pt5 | ferrariChampions2026, swisstony |
 | mlb-sea-nyy-2026-08-13-total-5pt5 | HomeRunHazard, ferrariChampions2026 |
+| uel-ran1-jag-2026-08-13-total-1pt5 | RN1, swisstony |
 | uel-csk1-mta-2026-08-13-total-4pt5 | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will FK Austria Wien vs. MH Beitar Jerus | No (BUY) | 78% | 0.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Rangers FC vs. Jagiellonia Białystok: O/ | Over (BUY) | 68% | 0.00 | 0.2% | ⏳ pendiente | — |
 |  | Rangers FC vs. Jagiellonia Białystok: Te | Jagiellonia Białystok (BUY) | 28% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | HNK Hajduk Split vs. FK Žalgiris Vilnius | Under (BUY) | 90% | 0.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 58% | 0.00 | 0.4% | ⏳ pendiente | — |
@@ -92,5 +95,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: FC Thun (-1.5) | KF Víkingur (BUY) | 100% | 0.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | FC Vaduz vs. FC Inter Turku: O/U 4.5 | Under (BUY) | 78% | 0.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Will Al Qadisiyah Saudi Club win on 2026 | No (BUY) | 53% | 0.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Spread: FC Sheriff Tiraspol (-1.5) | FC St. Gallen (BUY) | 100% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 64% | 102.32 ⚠️ | 178.4% | ⏳ pendiente | — |
