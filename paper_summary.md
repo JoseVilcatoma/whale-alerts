@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 21:20:01 (hora de Perú)
+Actualizado: 2026-08-12 21:22:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $592.31
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 225 | 122 | 30 | -26.30 USD |
-| swisstony | 171 | 114 | 5 | -26.60 USD |
+| swisstony | 171 | 114 | 8 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -489,11 +489,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cin-cws-2026-08-12-spread-home-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-cin-cws-2026-08-12-total-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | wnba-tor-dal-2026-08-12 | , ferrariChampions2026 |
+| lec-sdg-pue-2026-08-12-sdg | , swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 52% | 2.75 | ⏳ pendiente | — |
+| swisstony | Will San Diego FC win on 2026-08-12? | Yes (BUY) | 56% | 0.59 | ⏳ pendiente | — |
+| swisstony | Spread: San Diego FC (-1.5) | Club Puebla (BUY) | 66% | 0.79 | ⏳ pendiente | — |
 | swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 91% | 2.71 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 62% | 1.35 | ⏳ pendiente | — |
 | swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 89% | 2.42 | ⏳ pendiente | — |
@@ -521,6 +525,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 45% | 2.75 | ✅ ganada | +3.36 |
 | RN1 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Under (BUY) | 66% | 1.02 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Under (BUY) | 67% | 0.84 | ⏳ pendiente | — |
-| ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 40% | 2.23 | ❌ perdida | -2.23 |
-| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 48% | 1.49 | ✅ ganada | +1.61 |
-| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 73% | 0.96 | ❌ perdida | -0.96 |
