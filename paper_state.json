@@ -1,5 +1,5 @@
 {
-  "bankroll": 963.0821246119433,
+  "bankroll": 972.5067399965587,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19665,6 +19665,16 @@
       "timestamp": 1786622205.1431334,
       "bankroll": 963.08,
       "event": "venta anticipada: BBQChickenisthebesttt \u2014 LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group (+368.04 USD)"
+    },
+    {
+      "timestamp": 1786624050.1015215,
+      "bankroll": 972.51,
+      "event": "won: BBQChickenisthebesttt \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786624050.2017722,
+      "bankroll": 972.51,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana"
     }
   ]
 }
