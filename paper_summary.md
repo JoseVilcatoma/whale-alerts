@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 09:18:01 (hora de Perú)
+Actualizado: 2026-08-13 09:20:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $972.51
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 39 | 27 | 11 | +567.50 USD |
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| wr0ngw4yb3tt0r | 72 | 74 | 2 | +111.09 USD |
+| wr0ngw4yb3tt0r | 72 | 74 | 3 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 5 | 0 | +43.08 USD |
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | UpTheBlues | 262 | 157 | 2 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
-| HomeRunHazard | 126 | 113 | 24 | +0.96 USD |
+| HomeRunHazard | 126 | 113 | 25 | +0.96 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
@@ -497,11 +497,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-gen-hle1-2026-08-13-game1 | ActionReaction, BBQChickenisthebesttt |
 | mlb-tex-laa-2026-08-13-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-tex-laa-2026-08-13-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| wnba-atl-conn-2026-08-13-spread-away-9pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Atlanta Dream (-9.5) | Connecticut Sun (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Las Vegas Aces (-7.5) | Las Vegas Aces (BUY) | 44% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Las Vegas Aces (-6.5) | Las Vegas Aces (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Miami Marlins (-1.5) | Pittsburgh Pirates (BUY) | 70% | 0.00 | ⏳ pendiente | — |
@@ -530,5 +533,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports (BO3)  | Hanwha Life Esports (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Las Vegas Aces (-7.5) | Las Vegas Aces (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 44% | 20.50 | ⏳ pendiente | — |
