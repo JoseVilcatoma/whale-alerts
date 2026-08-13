@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 06:26:46 (hora de Perú)
+Actualizado: 2026-08-13 06:28:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $559.25
-**Retorno acumulado:** -44.08%
+**Bankroll actual:** $595.04
+**Retorno acumulado:** -40.50%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
-| BBQChickenisthebesttt | 36 | 27 | 3 | +154.25 USD |
+| BBQChickenisthebesttt | 37 | 27 | 2 | +190.04 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | wr0ngw4yb3tt0r | 72 | 74 | 0 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
@@ -499,7 +499,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 48% | 33.04 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 48% | 33.04 | 💰 vendida anticipada | +35.79 |
 | ferrariChampions2026 | LoL: Top Esports vs LGD Gaming - Game 1  | Top Esports (BUY) | 51% | 1.16 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 49% | 1.12 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 84% | 0.00 | ✅ ganada | +0.00 |

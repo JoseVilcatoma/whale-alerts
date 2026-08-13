@@ -83632,13 +83632,14 @@
     "whale_pct": 6.035,
     "paper_stake_usd": 33.04,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 35.79,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786618750.8413343,
-    "fills": 11
+    "fills": 11,
+    "closed_price": 100
   }
 ]

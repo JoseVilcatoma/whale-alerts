@@ -1,5 +1,5 @@
 {
-  "bankroll": 559.2456878303341,
+  "bankroll": 595.0390211636674,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19635,6 +19635,11 @@
       "timestamp": 1786619013.180059,
       "bankroll": 559.25,
       "event": "lost: ferrariChampions2026 \u2014 Dota 2: Aurora vs GamerLegion (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786620495.2100976,
+      "bankroll": 595.04,
+      "event": "venta anticipada: BBQChickenisthebesttt \u2014 LoL: Top Esports vs LGD Gaming - Game 1 Winner (+35.79 USD)"
     }
   ]
 }
