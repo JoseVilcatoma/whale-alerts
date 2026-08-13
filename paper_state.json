@@ -1,5 +1,5 @@
 {
-  "bankroll": 549.2898422026822,
+  "bankroll": 557.1712288869351,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19395,6 +19395,51 @@
       "timestamp": 1786595590.2248673,
       "bankroll": 549.29,
       "event": "lost: swisstony \u2014 Spread: Minnesota Lynx (-12.5)"
+    },
+    {
+      "timestamp": 1786595641.9791353,
+      "bankroll": 550.4,
+      "event": "won: RN1 \u2014 Cruzeiro EC vs. CR Flamengo: O/U 1.5"
+    },
+    {
+      "timestamp": 1786595642.439071,
+      "bankroll": 550.82,
+      "event": "won: RN1 \u2014 Cruzeiro EC vs. CR Flamengo: O/U 0.5"
+    },
+    {
+      "timestamp": 1786595643.3088186,
+      "bankroll": 549.98,
+      "event": "lost: ferrariChampions2026 \u2014 Cruzeiro EC vs. CR Flamengo: O/U 1.5"
+    },
+    {
+      "timestamp": 1786595643.409061,
+      "bankroll": 548.96,
+      "event": "lost: RN1 \u2014 Cruzeiro EC vs. CR Flamengo: O/U 1.5"
+    },
+    {
+      "timestamp": 1786595705.0114033,
+      "bankroll": 551.61,
+      "event": "won: HomeRunHazard \u2014 Minnesota Lynx vs. Portland Fire: O/U 186.5"
+    },
+    {
+      "timestamp": 1786595705.3652987,
+      "bankroll": 555.84,
+      "event": "won: HomeRunHazard \u2014 Minnesota Lynx vs. Portland Fire: O/U 185.5"
+    },
+    {
+      "timestamp": 1786595705.7108831,
+      "bankroll": 557.08,
+      "event": "won: HomeRunHazard \u2014 Minnesota Lynx vs. Portland Fire: O/U 184.5"
+    },
+    {
+      "timestamp": 1786595714.112851,
+      "bankroll": 557.12,
+      "event": "won: swisstony \u2014 Minnesota Lynx vs. Portland Fire: O/U 184.5"
+    },
+    {
+      "timestamp": 1786595714.2130227,
+      "bankroll": 557.17,
+      "event": "won: swisstony \u2014 Minnesota Lynx vs. Portland Fire: O/U 185.5"
     }
   ]
 }
