@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 17:06:44 (hora de Perú)
+Actualizado: 2026-08-13 17:08:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,014.57
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| swisstony | 26 | 9 | 12 | +18.94 USD |
+| swisstony | 26 | 9 | 14 | +18.94 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
 | RN1 | 16 | 15 | 17 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 4 | +0.00 USD |
 | 1winstreak1 | 0 | 0 | 2 | +0.00 USD |
-| wr0ngw4yb3tt0r | 0 | 3 | 6 | -1.26 USD |
+| wr0ngw4yb3tt0r | 0 | 3 | 7 | -1.26 USD |
 | ferrariChampions2026 | 45 | 37 | 25 | -2.46 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
@@ -63,6 +63,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Las Vegas Aces (-6.5) | Washington Mystics (BUY) | 52% | 20.22 | 2.0% | ⏳ pendiente | — |
+| swisstony | Spread: Club Olimpia (-1.5) | CR Vasco da Gama (BUY) | 96% | 1.39 | 0.1% | ⏳ pendiente | — |
+| swisstony | Santos FC vs. CSyD Macará: 1st Half O/U  | Over (BUY) | 100% | 4.76 | 0.5% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Washington Nationals (-4.5) | Chicago Cubs (BUY) | 30% | 7.26 | 0.7% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 19.60 | 2.0% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 7.74 | 0.8% | ⏳ pendiente | — |
@@ -90,6 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 38% | 2.13 | 0.2% | ⏳ pendiente | — |
 | swisstony | AS Omónoia Leukosías vs. Lincoln Red Imp | Under (BUY) | 92% | 1.15 | 0.1% | ✅ ganada | +0.10 |
 | swisstony | Spread: AS Omónoia Leukosías (-1.5) | Lincoln Red Imps FC (BUY) | 46% | 3.37 | 0.3% | ✅ ganada | +3.96 |
-| swisstony | Beşiktaş JK vs. FC Hradec Králové: O/U 2 | Under (BUY) | 75% | 2.35 | 0.2% | ✅ ganada | +0.78 |
-| swisstony | Beşiktaş JK vs. FC Hradec Králové: O/U 1 | Under (BUY) | 36% | 1.13 | 0.1% | ✅ ganada | +2.01 |
-| ferrariChampions2026 | Beşiktaş JK vs. FC Hradec Králové: O/U 1 | Over (BUY) | 64% | 1.22 | 0.1% | ❌ perdida | -1.22 |
