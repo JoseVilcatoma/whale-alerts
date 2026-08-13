@@ -1070,5 +1070,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786638836.160767,
     "fills": 1
+  },
+  {
+    "timestamp": 1786638953,
+    "timestamp_added": 1786638954.2383797,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-jl-pcfic-2026-08-13-game2",
+    "title": "Valorant: Joblife vs Pcific Esports - Map 2 Winner",
+    "outcome": "Joblife",
+    "side": "BUY",
+    "whale_usd": 627.726866,
+    "whale_pct": 0.121,
+    "whale_value_at_open": 519868.8006,
+    "paper_stake_usd": 1.21,
+    "odds_at_bet": 28,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786638954.238385,
+    "fills": 1
   }
 ]
