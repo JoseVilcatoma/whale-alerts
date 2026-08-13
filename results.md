@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 19:14:26 (hora de Perú)
+Actualizado: 2026-08-12 19:17:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2107**  ($56,870,896 en total)
+- Apuestas registradas: **2108**  ($56,884,493 en total)
 - Resueltas: **1360** — 808 ganadas / 552 perdidas (**59%** de acierto)
-- Pendientes: 747
+- Pendientes: 748
 - Apostadores distintos: 181
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 65 | 43% | $9,400,384 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 53 | 31% | $8,354,392 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 31 | 35% | $3,395,143 | -$564,452 |
-| ferrariChampions2026 | 105 | 32 | 61 | 77% | $2,781,920 | +$168,085 |
+| ferrariChampions2026 | 105 | 32 | 62 | 77% | $2,795,517 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 36 | 0% | $2,314,158 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
 | Weaseloftheweek | 19 | 2 | 9 | 90% | $2,010,911 | +$872,236 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.22 (82¢) | $13,597 | — | ⏳ Pendiente |
 | Djdjdjekekek | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.89 (53¢) | $10,609 | — | ⏳ Pendiente |
 | Djdjdjekekek | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.72 (58¢) | $12,048 | — | ⏳ Pendiente |
 | Djdjdjekekek | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.72 (58¢) | $174,000 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 | kibanachi | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.11 (90¢) | $11,700 | — | ⏳ Pendiente |
 | kibanachi | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.11 (90¢) | $11,700 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $66,000 | — | ⏳ Pendiente |
-| highnetworth | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 2.94 (34¢) | $34,000 | — | ⏳ Pendiente |
 | highnetworth | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 2.94 (34¢) | $34,000 | — | ⏳ Pendiente |
