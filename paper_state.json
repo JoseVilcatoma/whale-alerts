@@ -560,6 +560,16 @@
       "timestamp": 1786654452.6388912,
       "bankroll": 1004.28,
       "event": "won: swisstony \u2014 Be\u015fikta\u015f JK vs. FC Hradec Kr\u00e1lov\u00e9: O/U 2.5"
+    },
+    {
+      "timestamp": 1786654510.37308,
+      "bankroll": 1004.28,
+      "event": "lost: RN1 \u2014 FC DAC 1904 Dunajsk\u00e1 Streda vs. FC Twente: O/U 4.5"
+    },
+    {
+      "timestamp": 1786654567.4125028,
+      "bankroll": 1004.28,
+      "event": "lost: ferrariChampions2026 \u2014 Will P\u00e1fos FC win on 2026-08-13?"
     }
   ]
 }
