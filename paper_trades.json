@@ -85329,5 +85329,53 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786609907.4275267,
     "fills": 1
+  },
+  {
+    "timestamp": 1786609949,
+    "timestamp_added": 1786609949.8443015,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-drx-fox1-2026-08-13-game1",
+    "title": "LoL: Kiwoom DRX vs BNK FEARX - Game 1 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 1827.2160000000001,
+    "whale_pct": 4.899,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786609949.8443117,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786610037,
+    "timestamp_added": 1786610038.1960075,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-wb-nip-2026-08-13-game2",
+    "title": "LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 2 Winner",
+    "outcome": "Weibo Gaming",
+    "side": "BUY",
+    "whale_usd": 2369.3012,
+    "whale_pct": 6.327,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction",
+      "BrotherObama",
+      "TeGeeLP",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786610039.9936726,
+    "fills": 2
   }
 ]
