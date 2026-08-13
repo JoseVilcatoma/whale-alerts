@@ -84290,5 +84290,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786629396.39731,
     "fills": 1
+  },
+  {
+    "timestamp": 1786629468,
+    "timestamp_added": 1786629468.8740182,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-wsh-las-2026-08-13-total-169pt5",
+    "title": "Washington Mystics vs. Las Vegas Aces: O/U 169.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 118.9188,
+    "whale_pct": 0.112,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786629468.8740265,
+    "fills": 1
   }
 ]
