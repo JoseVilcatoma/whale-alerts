@@ -1,9 +1,9 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 19:54:49 (hora de Perú)
+Actualizado: 2026-08-12 19:56:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $613.02
+**Bankroll actual:** $612.98
 **Retorno acumulado:** -38.70%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
-| 1winstreak1 | 113 | 90 | 22 | +31.85 USD |
+| 1winstreak1 | 114 | 90 | 21 | +32.86 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 203 | 113 | 47 | -39.67 USD |
+| RN1 | 203 | 114 | 47 | -40.72 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -470,6 +470,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-chc-wsh-2026-08-12-total-8pt5 | 1winstreak1, RN1 |
 | mlb-sea-nyy-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
 | mlb-pit-mia-2026-08-12-total-9pt5 | 1winstreak1, RN1 |
+| mlb-nym-atl-2026-08-12-total-7pt5 | 1winstreak1, RN1 |
 | mlb-cle-det-2026-08-12-total-10pt5 | 1winstreak1, HomeRunHazard |
 | lib-cru-fla-2026-08-12-cru | AV23IUa, RN1 |
 
@@ -477,6 +478,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | New York Mets vs. Atlanta Braves: O/U 7. | Over (BUY) | 49% | 0.70 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Toronto Blue Jays (BUY) | 73% | 1.18 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 79% | 1.60 | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-12? | Yes (BUY) | 34% | 1.29 | ⏳ pendiente | — |
@@ -506,4 +508,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Red Bull Bragantino vs. CA Mineiro: O/U  | Under (BUY) | 99% | 6.68 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres (BUY) | 92% | 0.93 | ✅ ganada | +0.08 |
 | ferrariChampions2026 | Spread: Miami Marlins (-2.5) | Pittsburgh Pirates (BUY) | 38% | 0.82 | ⏳ pendiente | — |
-| RN1 | Will Montevideo City Torque win on 2026- | Yes (BUY) | 84% | 2.04 | ⏳ pendiente | — |
