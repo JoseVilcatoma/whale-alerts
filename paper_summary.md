@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 20:03:11 (hora de Perú)
+Actualizado: 2026-08-12 20:05:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $572.76
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 4 | 10 | 0 | +15.41 USD |
-| HomeRunHazard | 114 | 98 | 15 | +11.88 USD |
+| HomeRunHazard | 114 | 98 | 16 | +11.88 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 203 | 114 | 50 | -40.72 USD |
+| RN1 | 203 | 114 | 51 | -40.72 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -480,6 +480,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Cruzeiro EC vs. CR Flamengo end in  | No (BUY) | 63% | 1.04 | ⏳ pendiente | — |
+| HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 49% | 3.04 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 47% | 2.50 | ⏳ pendiente | — |
 | HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 8. | Under (BUY) | 56% | 2.38 | ⏳ pendiente | — |
 | HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 9. | Under (BUY) | 73% | 4.70 | ⏳ pendiente | — |
@@ -508,5 +510,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 54% | 14.80 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago Cubs (-2.5) | Chicago Cubs (BUY) | 57% | 1.37 | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 55% | 29.80 | ❌ perdida | -29.80 |
-| 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 40% | 6.88 | ❌ perdida | -6.88 |
-| 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 65% | 8.77 | ❌ perdida | -8.77 |
