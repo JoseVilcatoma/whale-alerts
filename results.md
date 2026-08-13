@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 19:39:16 (hora de Perú)
+Actualizado: 2026-08-12 19:42:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2132**  ($57,388,328 en total)
+- Apuestas registradas: **2139**  ($57,551,999 en total)
 - Resueltas: **1360** — 808 ganadas / 552 perdidas (**59%** de acierto)
-- Pendientes: 772
+- Pendientes: 779
 - Apostadores distintos: 183
 
 ### Balance
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 70 | 43% | $9,494,210 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 71 | 43% | $9,512,184 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 57 | 31% | $8,408,379 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 31 | 35% | $3,395,143 | -$564,452 |
-| ferrariChampions2026 | 105 | 32 | 64 | 77% | $2,844,862 | +$168,085 |
+| ferrariChampions2026 | 105 | 32 | 65 | 77% | $2,880,611 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 36 | 0% | $2,314,158 | -$1,082,423 |
-| AV23IUa | 33 | 24 | 28 | 58% | $2,265,376 | +$171,257 |
+| AV23IUa | 33 | 24 | 29 | 58% | $2,309,230 | +$171,257 |
 | Weaseloftheweek | 19 | 2 | 9 | 90% | $2,010,911 | +$872,236 |
 | BreakTheBank | 0 | 12 | 10 | 0% | $1,543,814 | -$803,506 |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 0 | 0 | 17 | — | $932,324 | — |
@@ -45,17 +45,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ActionReaction | 12 | 3 | 2 | 80% | $476,501 | +$249,688 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 15 | 0 | 9 | 100% | $469,445 | +$179,259 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
+| highnetworth | 0 | 0 | 12 | — | $389,256 | — |
 | theowalcott | 21 | 0 | 6 | 100% | $386,097 | +$226,502 |
 | ExplosiveNinja | 18 | 2 | 7 | 90% | $378,581 | +$263,606 |
 | 0x076d…8d4c | 8 | 0 | 13 | 100% | $373,790 | +$45,411 |
-| highnetworth | 0 | 0 | 11 | — | $373,195 | — |
 | Marcoli | 7 | 0 | 5 | ⚠️ 100% (7) | $358,944 | +$95,170 |
 | Feromont | 9 | 0 | 7 | 100% | $358,252 | +$55,222 |
 | mikesports | 7 | 8 | 6 | 47% | $353,517 | -$88,869 |
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
+| fRibrenlc | 9 | 7 | 9 | 56% | $335,751 | +$15,968 |
 | bigspending | 0 | 0 | 5 | — | $333,212 | — |
-| fRibrenlc | 9 | 7 | 8 | 56% | $320,540 | +$15,968 |
 | johnny234 | 4 | 11 | 8 | 27% | $317,917 | -$101,100 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | casualbet2020 | 0 | 0 | 6 | — | $304,949 | — |
@@ -73,17 +73,24 @@ _(mostrando los 40 de mayor monto, de 183 en total)_
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.45 (69¢) | $17,420 | — | ⏳ Pendiente |
 | Nooserac | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.45 (69¢) | $17,250 | — | ⏳ Pendiente |
+| Nooserac | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.45 (69¢) | $17,250 | — | ⏳ Pendiente |
 | highnetworth | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 3.23 (31¢) | $10,333 | — | ⏳ Pendiente |
 | one8tyfive | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.45 (69¢) | $23,000 | — | ⏳ Pendiente |
+| ferrariChampions2026 | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.45 (69¢) | $35,749 | — | ⏳ Pendiente |
+| highnetworth | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 3.23 (31¢) | $16,061 | — | ⏳ Pendiente |
 | ferrariChampions2026 | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.45 (69¢) | $35,749 | — | ⏳ Pendiente |
 | highnetworth | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 3.23 (31¢) | $16,061 | — | ⏳ Pendiente |
 | highnetworth | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 3.23 (31¢) | $10,577 | — | ⏳ Pendiente |
 | swisstony | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.45 (69¢) | $23,543 | — | ⏳ Pendiente |
 | fRibrenlc | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.45 (69¢) | $15,211 | — | ⏳ Pendiente |
+| fRibrenlc | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.45 (69¢) | $15,211 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 3.45 (29¢) | $17,974 | — | ⏳ Pendiente |
+| AV23IUa | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.41 (71¢) | $43,854 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 3.45 (29¢) | $17,974 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.41 (71¢) | $43,854 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.41 (71¢) | $90,491 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 3.45 (29¢) | $17,400 | — | ⏳ Pendiente |
+| xabidaking | Set 1 Winner: Tien vs Shelton | Shelton | 1.52 (66¢) | $17,571 | — | ⏳ Pendiente |
 | xabidaking | Set 1 Winner: Tien vs Shelton | Shelton | 1.52 (66¢) | $17,571 | — | ⏳ Pendiente |
 | HyperwellNerdZ | Will Deportivo Toluca FC win on 2026-08-12? | Yes | 1.37 (73¢) | $17,365 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Elina Svitolina vs Iga Swiatek | Iga Swiatek | 1.49 (67¢) | $20,515 | — | ⏳ Pendiente |
@@ -124,10 +131,3 @@ _(mostrando los 40 de mayor monto, de 183 en total)_
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.79 (56¢) | $12,002 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.79 (56¢) | $58,315 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.10 (91¢) | $14,557 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.10 (91¢) | $14,557 | — | ⏳ Pendiente |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 2.44 (41¢) | $77,482 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.69 (59¢) | $106,958 | — | ⏳ Pendiente |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 2.44 (41¢) | $77,482 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.69 (59¢) | $106,958 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.69 (59¢) | $10,884 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.69 (59¢) | $10,884 | — | ⏳ Pendiente |
