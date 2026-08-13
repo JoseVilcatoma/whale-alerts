@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:39:53 (hora de Perú)
+Actualizado: 2026-08-13 15:41:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,011.98
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| RN1 | 6 | 3 | 59 | +27.44 USD |
-| ferrariChampions2026 | 27 | 27 | 62 | +5.30 USD |
+| RN1 | 6 | 3 | 60 | +27.44 USD |
+| ferrariChampions2026 | 27 | 28 | 61 | +5.30 USD |
 | HomeRunHazard | 1 | 0 | 7 | +0.74 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
@@ -73,6 +73,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | FC Dinamo City vs. FK Auda: O/U 4.5 | Under (BUY) | 86% | 0.13 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Shelbourne FC vs. AFC Ajax end in a | Yes (BUY) | 81% | 1.23 | 0.1% | ⏳ pendiente | — |
 | RN1 | Heart of Midlothian FC vs. Sport Lisboa  | Under (BUY) | 94% | 4.28 | 0.4% | ⏳ pendiente | — |
 | RN1 | HNK Hajduk Split vs. FK Žalgiris Vilnius | Under (BUY) | 84% | 1.31 | 0.1% | ⏳ pendiente | — |
@@ -102,4 +103,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 63% | 2.72 | 0.2% | ⏳ pendiente | — |
 | RN1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 48% | 2.70 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 48% | 9.47 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 49% | 7.82 | 0.6% | ⏳ pendiente | — |
