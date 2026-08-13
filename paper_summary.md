@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 14:28:51 (hora de Perú)
+Actualizado: 2026-08-13 14:30:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,248.14
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | ferrariChampions2026 | 7 | 11 | 90 | +5.38 USD |
 | RN1 | 2 | 1 | 45 | +1.64 USD |
-| swisstony | 5 | 0 | 55 | +1.09 USD |
+| swisstony | 5 | 0 | 56 | +1.09 USD |
 | wr0ngw4yb3tt0r | 0 | 1 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -63,6 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Will Al Shabab Saudi Club vs. Al Qadisiy | Yes (BUY) | 45% | 0.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Al Shabab Saudi Club vs. Al Qadisiyah Sa | Over (BUY) | 65% | 0.00 | 0.1% | ⏳ pendiente | — |
 |  | FC Dinamo City vs. FK Auda: O/U 2.5 | Over (BUY) | 35% | 0.00 | 0.4% | ⏳ pendiente | — |
 |  | Spread: AFC Ajax (-1.5) | AFC Ajax (BUY) | 67% | 0.00 | 0.3% | ⏳ pendiente | — |
@@ -92,4 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 40% | 6.05 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 51% | 13.24 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 49% | 1.81 | 0.1% | ⏳ pendiente | — |
-| swisstony | Spread: MH Beitar Jerusalem (-1.5) | FK Austria Wien (BUY) | 79% | 1.28 | 0.1% | ⏳ pendiente | — |
