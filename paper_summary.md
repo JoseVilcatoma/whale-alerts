@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 13:09:35 (hora de Perú)
+Actualizado: 2026-08-13 13:11:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
-| ferrariChampions2026 | 0 | 1 | 85 | +0.00 USD |
-| RN1 | 0 | 0 | 26 | +0.00 USD |
+| ferrariChampions2026 | 0 | 1 | 87 | +0.00 USD |
+| RN1 | 0 | 0 | 29 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 28 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -32,6 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cle-det-2026-08-13-total-8pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | col-tob-par-2026-08-13-total-3pt5 | RN1, swisstony |
 | col-qar-dyn-2026-08-13-total-2pt5 | RN1, swisstony |
+| uel-bes-hra-2026-08-13-spread-home-1pt5 | RN1, ferrariChampions2026 |
 | col-tob-par-2026-08-13-tob | ferrariChampions2026, swisstony |
 | mlb-bos-tor-2026-08-13-total-7pt5 | Talvez10, ferrariChampions2026 |
 | spl-abh-haz-2026-08-13-haz | RN1, swisstony |
@@ -48,6 +49,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will FC Sion win on 2026-08-13? | No (BUY) | 42% | 0.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Team Heretics Academy vs ⁠Movistar  | Team Heretics Academy (BUY) | 68% | 0.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Beşiktaş JK (-1.5) | Beşiktaş JK (BUY) | 58% | 0.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Will Hammarby Fotboll win on 2026-08-13? | No (BUY) | 77% | 0.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will KF Víkingur win on 2026-08-13? | Yes (BUY) | 37% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | KF Víkingur vs. FC Thun: O/U 4.5 | Over (BUY) | 88% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Universitatea Craiova CS win on 202 | Yes (BUY) | 60% | 0.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | FC Midtjylland vs. Bohemian FC: O/U 1.5 | Over (BUY) | 100% | 0.00 | 0.3% | ⏳ pendiente | — |
@@ -73,8 +79,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will RKS Raków Częstochowa win on 2026-0 | No (BUY) | 56% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 79% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 53% | 0.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Spread: FK Jablonec (-1.5) | FK Rīgas Futbola Skola (BUY) | 87% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Hammarby Fotboll vs. RKS Raków Częstocho | Over (BUY) | 79% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Hammarby Fotboll vs. RKS Raków Częstocho | Over (BUY) | 80% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 38% | 0.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 40% | 0.00 | 0.2% | ⏳ pendiente | — |
