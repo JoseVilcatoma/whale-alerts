@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 12:32:04 (hora de Perú)
+Actualizado: 2026-08-13 12:34:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,13 +15,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 63 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 65 | +0.00 USD |
 | RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 16 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
-| ActionReaction | 0 | 0 | 5 | +0.00 USD |
+| ActionReaction | 0 | 0 | 6 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | SDTrading | 0 | 0 | 1 | +0.00 USD |
 
@@ -41,6 +41,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: AS Omónoia Leukosías (-1.5) | AS Omónoia Leukosías (BUY) | 76% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 35% | 0.00 | 7.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Joblife (BUY) | 81% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Joblife (BUY) | 89% | 0.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 89% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 64% | 0.00 ⚠️ | 52.9% | ⏳ pendiente | — |
@@ -68,6 +71,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Cleveland Guardians (-2.5) | Cleveland Guardians (BUY) | 28% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Astralis (BUY) | 17% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-2.5) | Cleveland Guardians (BUY) | 28% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 54% | 0.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Astralis (BUY) | 27% | 0.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Team Falcons (BUY) | 71% | 0.00 | 0.3% | ⏳ pendiente | — |
