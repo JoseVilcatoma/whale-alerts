@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 14:37:10 (hora de Perú)
+Actualizado: 2026-08-13 14:39:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,248.14
@@ -15,9 +15,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| ferrariChampions2026 | 8 | 11 | 90 | +5.38 USD |
+| ferrariChampions2026 | 13 | 13 | 83 | +5.38 USD |
 | RN1 | 2 | 1 | 45 | +1.64 USD |
-| swisstony | 5 | 0 | 59 | +1.09 USD |
+| swisstony | 5 | 0 | 61 | +1.09 USD |
 | wr0ngw4yb3tt0r | 0 | 1 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -63,6 +63,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Will KF Shkëndija 79 win on 2026-08-13? | No (BUY) | 83% | 0.00 | 0.1% | ⏳ pendiente | — |
+| swisstony | Will PAOK win on 2026-08-13? | No (BUY) | 90% | 0.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | FC Sion vs. Noah FA: O/U 5.5 | Under (BUY) | 92% | 0.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | FK Austria Wien vs. MH Beitar Jerusalem: | Under (BUY) | 82% | 0.00 | 0.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 0.00 | 1.0% | ⏳ pendiente | — |
@@ -91,5 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Spread: Cincinnati Reds (-4.5) | Cincinnati Reds (BUY) | 46% | 2.36 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: PAOK (-1.5) | RSC Anderlecht (BUY) | 89% | 1.75 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 33% | 1.54 | 0.1% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 1.81 | 0.1% | ⏳ pendiente | — |
-| HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 34% | 1.51 | 0.1% | ⏳ pendiente | — |
