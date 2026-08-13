@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 16:42:23 (hora de Perú)
+Actualizado: 2026-08-13 16:44:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $995.52
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
 |  | 0 | 0 | 13 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 8 | +0.00 USD |
-| theowalcott | 0 | 0 | 20 | +0.00 USD |
+| theowalcott | 0 | 0 | 22 | +0.00 USD |
 | HomeRunHazard | 1 | 2 | 5 | -2.31 USD |
 | ferrariChampions2026 | 46 | 37 | 34 | -3.46 USD |
 | wr0ngw4yb3tt0r | 0 | 4 | 13 | -3.62 USD |
@@ -75,6 +75,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 0.1% | ⏳ pendiente | — |
+| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cardinals vs. Raiders | Cardinals (BUY) | 40% | 0.00 | 9.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 54% | 0.00 | 0.2% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -103,5 +105,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 ⚠️ | 31.9% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 6.2% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 21.4% | ⏳ pendiente | — |
-| RN1 | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Under (BUY) | 59% | 2.94 | 0.6% | ⏳ pendiente | — |
