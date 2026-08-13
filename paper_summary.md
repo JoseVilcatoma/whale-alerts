@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 07:05:41 (hora de Perú)
+Actualizado: 2026-08-13 07:07:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $963.08
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 38 | 27 | 3 | +558.08 USD |
+| BBQChickenisthebesttt | 38 | 27 | 6 | +558.08 USD |
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | wr0ngw4yb3tt0r | 72 | 74 | 0 | +111.09 USD |
@@ -500,6 +500,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 47% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 44% | 20.50 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 44% | 852.74 | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 66% | 1.28 | ⏳ pendiente | — |
 | HomeRunHazard | Washington Mystics vs. Las Vegas Aces | Washington Mystics (BUY) | 30% | 1.77 | ⏳ pendiente | — |
 | ActionReaction | LoL: Gen.G vs Hanwha Life Esports - Game | Gen.G (BUY) | 46% | 39.21 | ⏳ pendiente | — |
@@ -527,6 +530,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas ( | Ninjas in Pyjamas (BUY) | 52% | 10.21 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 26% | 0.00 | ❌ perdida | -0.00 |
 | ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 33% | 0.00 | ❌ perdida | -0.00 |
-| HomeRunHazard | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ✅ ganada | +0.00 |
-| Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ✅ ganada | +0.00 |
