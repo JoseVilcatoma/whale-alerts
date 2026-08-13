@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 10:59:38 (hora de Perú)
+Actualizado: 2026-08-13 11:01:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $120.18
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
 | swisstony | 175 | 115 | 10 | -26.28 USD |
-| RN1 | 245 | 132 | 1 | -27.46 USD |
+| RN1 | 245 | 132 | 2 | -27.46 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | CORGI8 | 0 | 1 | 1 | -46.49 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -507,6 +507,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | FC Flora vs. Inter Club d'Escaldes: O/U  | Over (BUY) | 54% | 0.79 | ⏳ pendiente | — |
 | RN1 | Tobyl FK vs. FK Partizan Beograd: O/U 1. | Over (BUY) | 81% | 0.19 | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: FaZe (-1.5) vs Legacy (+1. | Legacy (BUY) | 73% | 0.15 | ⏳ pendiente | — |
 | swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 2. | Over (BUY) | 46% | 0.13 | ⏳ pendiente | — |
@@ -536,4 +537,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 (BO3) - Esport | BIG (BUY) | 15% | 2.46 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 69% | 2.32 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | BIG (BUY) | 30% | 1.58 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 69% | 1.50 | ⏳ pendiente | — |
