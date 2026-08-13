@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 18:37:46 (hora de Perú)
+Actualizado: 2026-08-13 18:39:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,139.96
-**Retorno acumulado:** +14.00%
+**Bankroll actual:** $1,140.29
+**Retorno acumulado:** +14.03%
 **Peor caída desde un máximo (drawdown):** 24.07%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 5
 
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
-| 1winstreak1 | 1 | 3 | 2 | +74.91 USD |
+| 1winstreak1 | 2 | 3 | 1 | +75.24 USD |
 | swisstony | 36 | 10 | 7 | +21.58 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
 | ferrariChampions2026 | 56 | 48 | 47 | +10.27 USD |
