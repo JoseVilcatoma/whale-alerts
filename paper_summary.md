@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 19:40:14 (hora de Perú)
+Actualizado: 2026-08-12 19:44:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $621.92
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 203 | 112 | 38 | -37.65 USD |
+| RN1 | 203 | 112 | 42 | -37.65 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -469,11 +469,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-chc-wsh-2026-08-12-total-8pt5 | 1winstreak1, RN1 |
 | mlb-sea-nyy-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
 | mlb-pit-mia-2026-08-12-total-9pt5 | 1winstreak1, RN1 |
+| lib-cru-fla-2026-08-12-cru | AV23IUa, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 71% | 0.91 | ⏳ pendiente | — |
+| RN1 | Will CR Flamengo win on 2026-08-12? | Yes (BUY) | 39% | 1.31 | ⏳ pendiente | — |
+| RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 53% | 11.49 | ⏳ pendiente | — |
+| RN1 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Over (BUY) | 61% | 1.74 | ⏳ pendiente | — |
 | AV23IUa | Will Cruzeiro EC win on 2026-08-12? | Yes (BUY) | 32% | 2.19 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 34% | 0.73 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 54% | 14.80 | ⏳ pendiente | — |
@@ -500,7 +505,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will CA Platense vs. CD Coquimbo Unido e | No (BUY) | 90% | 1.76 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 56% | 4.45 | ⏳ pendiente | — |
 | RN1 | Pittsburgh Pirates vs. Miami Marlins: O/ | Under (BUY) | 52% | 1.05 | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 65% | 4.98 | ✅ ganada | +2.68 |
-| 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 86% | 0.85 | ✅ ganada | +0.14 |
-| ferrariChampions2026 | Inter Miami CF vs. Club León FC: O/U 2.5 | Over (BUY) | 54% | 0.71 | ⏳ pendiente | — |
-| RN1 | Spread: Seattle Mariners (-1.5) | New York Yankees (BUY) | 44% | 1.31 | ⏳ pendiente | — |
