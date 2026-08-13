@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 12:57:01 (hora de Perú)
+Actualizado: 2026-08-13 12:59:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 78 | +0.00 USD |
-| RN1 | 0 | 0 | 12 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 79 | +0.00 USD |
+| RN1 | 0 | 0 | 13 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 19 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -39,11 +39,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cin-cws-2026-08-13-total-8pt5 | SDTrading, Sassy-Bucket |
 | mlb-cin-cws-2026-08-13-total-9pt5 | Sassy-Bucket, wr0ngw4yb3tt0r |
 | uel-gor1-ftc-2026-08-13-gor1 | RN1, ferrariChampions2026 |
+| mlb-sea-nyy-2026-08-13-total-7pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 40% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 40% | 0.00 | 0.6% | ⏳ pendiente | — |
 | swisstony | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 74% | 0.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Spread: FK Jablonec (-1.5) | FK Rīgas Futbola Skola (BUY) | 83% | 0.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 69% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -72,5 +75,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Joblife (BUY) | 81% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Joblife (BUY) | 89% | 0.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 89% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 64% | 0.00 ⚠️ | 52.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 39% | 0.00 | 1.5% | ⏳ pendiente | — |

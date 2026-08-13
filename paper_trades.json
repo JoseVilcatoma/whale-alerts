@@ -3142,5 +3142,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786643637.1578653,
     "fills": 1
+  },
+  {
+    "timestamp": 1786643830,
+    "timestamp_added": 1786643830.6397202,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sea-nyy-2026-08-13-total-7pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3635.328,
+    "whale_pct": 0.579,
+    "whale_value_at_open": 627535.825,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786643830.6397297,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786643830,
+    "timestamp_added": 1786643831.3272426,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-sea-nyy-2026-08-13-total-7pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 780.4000000000001,
+    "whale_pct": 0.244,
+    "whale_value_at_open": 320480.5104,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786643831.3272517,
+    "fills": 1
   }
 ]
