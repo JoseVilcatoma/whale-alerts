@@ -12582,5 +12582,20 @@
     "status": "won",
     "ultimo_fill": 1786586064.0330968,
     "fills": 6
+  },
+  {
+    "telegram_msg_id": 2440,
+    "timestamp": 1786586294,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-tex-laa-2026-08-12",
+    "title": "Texas Rangers vs. Los Angeles Angels",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 26501.0715,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1786586294.6790867,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 20:56:53 (hora de Perú)
+Actualizado: 2026-08-12 20:58:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **884**  ($81,773,531 en total)
+- Apuestas registradas: **885**  ($81,800,032 en total)
 - Resueltas: **761** — 463 ganadas / 298 perdidas (**61%** de acierto)
-- Pendientes: 123
+- Pendientes: 124
 - Apostadores distintos: 184
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 33 | 38 | 14 | 46% | $13,937,672 | +$1,795,925 |
 | Djdjdjekekek | 8 | 35 | 2 | 19% | $12,218,005 | -$5,538,794 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 18 | 26 | 7 | 41% | $5,134,295 | -$1,752,916 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 18 | 26 | 8 | 41% | $5,160,797 | -$1,752,916 |
 | pleaseplease123 | 15 | 24 | 4 | 38% | $3,686,330 | -$247,354 |
 | ferrariChampions2026 | 40 | 11 | 8 | 78% | $3,607,708 | +$409,482 |
 | AV23IUa | 19 | 10 | 3 | 66% | $3,160,403 | +$152,353 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 184 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.22 (45¢) | $26,501 | — | ⏳ Pendiente |
 | Weaseloftheweek | Game Handicap: FLC (-1.5) vs LGD Gaming (+1.5) | Team Falcons | 1.69 (59¢) | $12,676 | — | ⏳ Pendiente |
 | Weaseloftheweek | Game Handicap: FLC (-1.5) vs LGD Gaming (+1.5) | Team Falcons | 1.72 (58¢) | $21,838 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Nigma Galaxy - Game 1 Winner | Iron Wing | 1.52 (66¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 184 en total)_
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox | Cincinnati Reds | 2.56 (39¢) | $37,824 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Chicago White Sox | Chicago White Sox | 1.64 (61¢) | $60,999 | — | ⏳ Pendiente |
 | kibanachi | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.11 (90¢) | $35,100 | +$3,900 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $125,400 | — | ⏳ Pendiente |
