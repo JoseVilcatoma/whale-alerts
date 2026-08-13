@@ -84084,5 +84084,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786624138.9061213,
     "fills": 1
+  },
+  {
+    "timestamp": 1786628900,
+    "timestamp_added": 1786628901.095406,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-bos-tor-2026-08-13-total-7pt5",
+    "title": "Boston Red Sox vs. Toronto Blue Jays: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 323.74080000000004,
+    "whale_pct": 0.319,
+    "paper_stake_usd": 2.28,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786628901.095416,
+    "fills": 1
   }
 ]
