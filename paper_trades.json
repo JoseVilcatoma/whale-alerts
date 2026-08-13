@@ -8003,5 +8003,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786656883.0065815,
     "fills": 1
+  },
+  {
+    "timestamp": 1786657186,
+    "timestamp_added": 1786657186.6728437,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-ari-lv-2026-08-14",
+    "title": "Cardinals vs. Raiders",
+    "outcome": "Cardinals",
+    "side": "BUY",
+    "whale_usd": 12000.0,
+    "whale_pct": 9.532,
+    "whale_value_at_open": 125885.9923,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786657186.672852,
+    "fills": 1
   }
 ]
