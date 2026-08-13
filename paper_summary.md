@@ -1,12 +1,12 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 11:36:10 (hora de Perú)
+Actualizado: 2026-08-13 11:38:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
 **Retorno acumulado:** +0.00%
 **Peor caída desde un máximo (drawdown):** 0.00%
-**Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
+**Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 1
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -15,12 +15,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 16 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 18 | +0.00 USD |
 | RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 16 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 2 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
+| ActionReaction | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -37,6 +38,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Dark Passage vs BoostGate Esports ( | Dark Passage (BUY) | 88% | 2.44 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Pcific Esports (BUY) | 80% | 6.97 | 0.7% | ⏳ pendiente | — |
+| ActionReaction | LoL: Skillcamp Esport vs Karmine Corp Bl | Skillcamp Esport (BUY) | 28% | 250.00 ⚠️ | 31.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Joblife (BUY) | 28% | 1.21 | 0.1% | ⏳ pendiente | — |
 | swisstony | Will Tobyl FK win on 2026-08-13? | No (BUY) | 76% | 1.22 | 0.1% | ⏳ pendiente | — |
 | swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 4. | Under (BUY) | 95% | 2.67 | 0.3% | ⏳ pendiente | — |
@@ -64,6 +68,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | FC Flora vs. Inter Club d'Escaldes: O/U  | Under (BUY) | 81% | 1.22 | 0.1% | ⏳ pendiente | — |
 | swisstony | Ilves Tampere vs. HNK Rijeka: Both Teams | No (BUY) | 59% | 1.28 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Lugano (-1.5) | FC Lugano (BUY) | 46% | 3.14 | 0.3% | ⏳ pendiente | — |
-| swisstony | Qarabağ Ağdam FK vs. FK Dynamo Kyiv: O/U | Under (BUY) | 40% | 1.24 | 0.1% | ⏳ pendiente | — |
-| swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 5. | Under (BUY) | 98% | 10.07 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Ilves Tampere vs. HNK Rijeka: O/U 1.5 | Over (BUY) | 60% | 1.32 | 0.1% | ⏳ pendiente | — |
