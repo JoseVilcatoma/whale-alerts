@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 01:20:17 (hora de Perú)
+Actualizado: 2026-08-13 01:22:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **21**  ($1,846,485 en total)
+- Apuestas registradas: **22**  ($1,912,485 en total)
 - Resueltas: **12** — 7 ganadas / 5 perdidas (**58%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 13
 
 ### Balance
@@ -25,8 +25,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 3 | ⚠️ 100% (1) | $599,702 | +$25,000 |
+| Djdjdjekekek | 0 | 1 | 3 | ⚠️ 0% (1) | $373,084 | -$18,620 |
 | S-Works | 0 | 0 | 1 | — | $312,000 | — |
-| Djdjdjekekek | 0 | 1 | 2 | ⚠️ 0% (1) | $307,084 | -$18,620 |
 | 0xheavy888 | 1 | 0 | 1 | ⚠️ 100% (1) | $130,801 | +$2,000 |
 | Weaseloftheweek | 2 | 1 | 0 | ⚠️ 67% (3) | $125,154 | +$110,752 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 0 | ⚠️ 100% (1) | $79,200 | +$100,800 |
@@ -42,6 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Vici Gaming | 3.03 (33¢) | $66,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 2.13 (47¢) | $75,049 | — | ⏳ Pendiente |
 | Djdjdjekekek | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 2.00 (50¢) | $25,214 | — | ⏳ Pendiente |
 | 0F62 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $26,718 | +$5,865 | ✅ Ganada |
