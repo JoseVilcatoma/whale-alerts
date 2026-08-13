@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 01:21:27 (hora de Perú)
+Actualizado: 2026-08-13 01:23:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $582.48
-**Retorno acumulado:** -41.75%
+**Bankroll actual:** $581.29
+**Retorno acumulado:** -41.87%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -42,14 +42,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 |  | 3 | 1 | 2 | -1.88 USD |
-| Weaseloftheweek | 0 | 2 | 5 | -2.32 USD |
+| Weaseloftheweek | 0 | 2 | 8 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
-| swisstony | 175 | 114 | 1 | -25.09 USD |
+| swisstony | 175 | 115 | 0 | -26.28 USD |
 | RN1 | 245 | 132 | 0 | -27.46 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -498,6 +498,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK | BNK FEARX (BUY) | 58% | 508.25 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 64% | 1.14 | ⏳ pendiente | — |
@@ -509,7 +512,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 89% | 2.42 | ✅ ganada | +0.30 |
 |  | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 97% | 3.94 | ✅ ganada | +0.12 |
 | CORGI8 | Dota 2: Team Falcons vs LGD Gaming (BO3) | LGD Gaming (BUY) | 19% | 46.49 | ⏳ pendiente | — |
-| swisstony | San Diego FC vs. Club Puebla: O/U 3.5 | Under (BUY) | 59% | 1.19 | ⏳ pendiente | — |
+| swisstony | San Diego FC vs. Club Puebla: O/U 3.5 | Under (BUY) | 59% | 1.19 | ❌ perdida | -1.19 |
 | swisstony | Cruzeiro EC vs. CR Flamengo: O/U 2.5 | Under (BUY) | 68% | 1.66 | ✅ ganada | +0.78 |
 |  | Will San Diego FC win on 2026-08-12? | Yes (BUY) | 55% | 1.41 | ⏳ pendiente | — |
 | swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 85% | 0.89 | ✅ ganada | +0.16 |
@@ -521,6 +524,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | Spread: Los Angeles FC (-1.5) | Querétaro FC (BUY) | 45% | 3.44 | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 75% | 0.61 | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Deportivo Toluca FC vs. FC Dallas: O/U 3 | Under (BUY) | 52% | 0.71 | ❌ perdida | -0.71 |
-|  | Spread: Golden State Valkyries (-8.5) | Chicago Sky (BUY) | 51% | 2.30 | ❌ perdida | -2.30 |
-| ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 53% | 5.58 | ❌ perdida | -5.58 |
-| wr0ngw4yb3tt0r | Spread: Chicago White Sox (-3.5) | Cincinnati Reds (BUY) | 76% | 2.63 | ❌ perdida | -2.63 |
