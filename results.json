@@ -724,5 +724,50 @@
     "status": "pending",
     "ultimo_fill": 1786635824,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 97,
+    "timestamp": 1786636486,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "mlb-sea-nyy-2026-08-13",
+    "title": "Seattle Mariners vs. New York Yankees",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 69296.358,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1786636486,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 98,
+    "timestamp": 1786635825,
+    "username": "highnetworth",
+    "wallet": "0xbb5fbe810633ab08d106b82db84418a0e2ca2e21",
+    "slug": "atp-landalu-draper-2026-08-13",
+    "title": "Cincinnati Open: Martin Landaluce vs Jack Draper",
+    "outcome": "Martin Landaluce",
+    "side": "BUY",
+    "usd": 99472.2404,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1786635825,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 99,
+    "timestamp": 1786636737,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-lgc-faze-2026-08-13",
+    "title": "Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "usd": 36922.725,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1786636737,
+    "fills": 1
   }
 ]
