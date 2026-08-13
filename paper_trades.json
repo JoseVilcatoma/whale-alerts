@@ -7861,5 +7861,77 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786656037.7006638,
     "fills": 1
+  },
+  {
+    "timestamp": 1786656124,
+    "timestamp_added": 1786656125.234966,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "sud-vas-clo-2026-08-13-total-2pt5",
+    "title": "CR Vasco da Gama vs. Club Olimpia: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 111.92999999999999,
+    "whale_pct": 0.211,
+    "whale_value_at_open": 53118.3965,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786656125.2349758,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786656145,
+    "timestamp_added": 1786656145.521409,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "sud-vas-clo-2026-08-13-total-2pt5",
+    "title": "CR Vasco da Gama vs. Club Olimpia: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 876.17,
+    "whale_pct": 1.649,
+    "whale_value_at_open": 53118.3965,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786656154.5238721,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786656181,
+    "timestamp_added": 1786656181.855253,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "sud-vas-clo-2026-08-13-total-2pt5",
+    "title": "CR Vasco da Gama vs. Club Olimpia: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 973.3399999999999,
+    "whale_pct": 1.832,
+    "whale_value_at_open": 53118.3965,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786656201.223069,
+    "fills": 3
   }
 ]
