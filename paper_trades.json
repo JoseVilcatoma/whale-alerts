@@ -6128,5 +6128,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786659741.0485241,
     "fills": 2
+  },
+  {
+    "timestamp": 1786659787,
+    "timestamp_added": 1786659787.8909886,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "sud-vas-clo-2026-08-13-total-1pt5",
+    "title": "CR Vasco da Gama vs. Club Olimpia: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 634.5214,
+    "whale_pct": 0.123,
+    "whale_value_at_open": 515069.6256,
+    "paper_stake_usd": 1.38,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786659787.8910046,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786659800,
+    "timestamp_added": 1786659801.704917,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-atl-conn-2026-08-13-spread-away-10pt5",
+    "title": "Spread: Atlanta Dream (-10.5)",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "whale_usd": 1804.9983,
+    "whale_pct": 1.21,
+    "whale_value_at_open": 149168.1124,
+    "paper_stake_usd": 13.53,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786659801.7049243,
+    "fills": 1
   }
 ]
