@@ -874,5 +874,20 @@
     "status": "pending",
     "ultimo_fill": 1786640757,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 111,
+    "timestamp": 1786642800,
+    "username": "Mamagovorila",
+    "wallet": "0x2a0de811e3a5efec355e10efd13b64e0be4fa75f",
+    "slug": "wta-krueger-boisson-2026-08-13",
+    "title": "Cincinnati Open: Ashlyn Krueger vs Lois Boisson",
+    "outcome": "Ashlyn Krueger",
+    "side": "BUY",
+    "usd": 32239.039998999997,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1786642800,
+    "fills": 1
   }
 ]
