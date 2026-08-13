@@ -6446,5 +6446,53 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786660362.4898076,
     "fills": 1
+  },
+  {
+    "timestamp": 1786660448,
+    "timestamp_added": 1786660449.1085827,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "sud-san-mac-2026-08-13-san",
+    "title": "Will Santos FC win on 2026-08-13?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 2447.116,
+    "whale_pct": 0.637,
+    "whale_value_at_open": 384446.7235,
+    "paper_stake_usd": 7.12,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786660451.1370914,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786660451,
+    "timestamp_added": 1786660452.0160885,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "sud-san-mac-2026-08-13-mac",
+    "title": "Will CSyD Macar\u00e1 win on 2026-08-13?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 543.9,
+    "whale_pct": 0.112,
+    "whale_value_at_open": 487051.5998,
+    "paper_stake_usd": 1.25,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786660452.0160997,
+    "fills": 1
   }
 ]
