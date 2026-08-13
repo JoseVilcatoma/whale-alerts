@@ -1,5 +1,5 @@
 {
-  "bankroll": 1181.2950938769504,
+  "bankroll": 1181.3759272102839,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -965,6 +965,56 @@
       "timestamp": 1786663391.796676,
       "bankroll": 1181.3,
       "event": "lost: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786663447.4906518,
+      "bankroll": 1181.3,
+      "event": "won: swisstony \u2014 Will FC Thun win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786663447.8241556,
+      "bankroll": 1181.3,
+      "event": "lost: RN1 \u2014 FC St. Gallen vs. FC Sheriff Tiraspol: O/U 4.5"
+    },
+    {
+      "timestamp": 1786663448.1639614,
+      "bankroll": 1181.3,
+      "event": "won: swisstony \u2014 FC Vaduz vs. FC Inter Turku: O/U 3.5"
+    },
+    {
+      "timestamp": 1786663448.5959425,
+      "bankroll": 1181.3,
+      "event": "won: swisstony \u2014 Will FC Thun win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786663449.0215523,
+      "bankroll": 1181.3,
+      "event": "won: RN1 \u2014 Spread: FC St. Gallen (-1.5)"
+    },
+    {
+      "timestamp": 1786663449.3705864,
+      "bankroll": 1181.3,
+      "event": "won: swisstony \u2014 FC Midtjylland vs. Bohemian FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786663450.4338503,
+      "bankroll": 1181.3,
+      "event": "lost: RN1 \u2014 KF Shk\u00ebndija 79 vs. Hibernian FC: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1786663450.8392787,
+      "bankroll": 1181.3,
+      "event": "lost: RN1 \u2014 FC Midtjylland vs. Bohemian FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786663451.1726105,
+      "bankroll": 1181.3,
+      "event": "won: RN1 \u2014 Will PFK CSKA Sofia win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786663453.2537708,
+      "bankroll": 1181.38,
+      "event": "won: swisstony \u2014 Will FC Inter Turku win on 2026-08-13?"
     }
   ]
 }
