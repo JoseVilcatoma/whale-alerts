@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 16:40:12 (hora de Perú)
+Actualizado: 2026-08-13 16:42:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $995.52
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | swisstony | 27 | 9 | 33 | +18.94 USD |
-| RN1 | 16 | 15 | 41 | +2.60 USD |
+| RN1 | 16 | 16 | 40 | +2.60 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
@@ -86,7 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 0.8% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 2.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Washington Nationals (-2.5) | Chicago Cubs (BUY) | 69% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 52% | 0.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 52% | 0.00 | 0.2% | ❌ perdida | -0.00 |
 | RN1 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 68% | 0.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cardinals vs. Raiders | Cardinals (BUY) | 40% | 18.13 | 8.0% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 11.30 | 1.1% | ⏳ pendiente | — |
