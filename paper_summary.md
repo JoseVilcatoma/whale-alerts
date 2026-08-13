@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 10:47:05 (hora de Perú)
+Actualizado: 2026-08-13 10:49:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $120.18
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
-| swisstony | 175 | 115 | 0 | -26.28 USD |
+| swisstony | 175 | 115 | 2 | -26.28 USD |
 | RN1 | 245 | 132 | 0 | -27.46 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | CORGI8 | 0 | 1 | 1 | -46.49 USD |
@@ -506,6 +506,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Tobyl FK vs. FK Partizan Beograd: Tobyl  | Under (BUY) | 43% | 0.32 | ⏳ pendiente | — |
+| swisstony | FK Buxoro vs. AGMK FC: O/U 1.5 | Under (BUY) | 34% | 0.12 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.73 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.83 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Detroit Tigers (-1.5) | Detroit Tigers (BUY) | 31% | 0.52 | ⏳ pendiente | — |
@@ -534,5 +536,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
