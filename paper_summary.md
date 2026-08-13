@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 21:26:16 (hora de Perú)
+Actualizado: 2026-08-12 21:28:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $581.79
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
-| ferrariChampions2026 | 658 | 493 | 24 | -88.82 USD |
+| ferrariChampions2026 | 658 | 493 | 28 | -88.82 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
@@ -487,6 +487,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lib-cru-fla-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
 | wnba-min-por-2026-08-12-spread-away-12pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-cin-cws-2026-08-12-spread-home-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| wnba-min-por-2026-08-12-spread-away-13pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-cin-cws-2026-08-12-total-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | wnba-tor-dal-2026-08-12 | , ferrariChampions2026 |
 | lec-sdg-pue-2026-08-12-sdg | , swisstony |
@@ -495,6 +496,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will FC Dallas win on 2026-08-12? | No (BUY) | 85% | 1.40 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 32% | 0.61 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Minnesota Lynx (-13.5) | Minnesota Lynx (BUY) | 43% | 0.69 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Minnesota Lynx (-11.5) | Minnesota Lynx (BUY) | 51% | 0.82 | ⏳ pendiente | — |
 | swisstony | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 52% | 2.75 | ⏳ pendiente | — |
 | swisstony | Will San Diego FC win on 2026-08-12? | Yes (BUY) | 56% | 0.59 | ⏳ pendiente | — |
 | swisstony | Spread: San Diego FC (-1.5) | Club Puebla (BUY) | 66% | 0.79 | ⏳ pendiente | — |
@@ -521,7 +526,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 91% | 0.63 | ⏳ pendiente | — |
 | RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 33% | 0.58 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Cruzeiro EC vs. CR Flamengo end in  | No (BUY) | 73% | 0.62 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 45% | 1.27 | ✅ ganada | +1.55 |
-| wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 45% | 2.75 | ✅ ganada | +3.36 |
-| RN1 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Under (BUY) | 66% | 1.02 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Under (BUY) | 67% | 0.84 | ⏳ pendiente | — |
