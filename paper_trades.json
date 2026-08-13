@@ -1202,5 +1202,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786639215.9474175,
     "fills": 1
+  },
+  {
+    "timestamp": 1786639426,
+    "timestamp_added": 1786639427.0905695,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-lgc-faze-2026-08-13-map-handicap-home-1pt5",
+    "title": "Map Handicap: FaZe (-1.5) vs Legacy (+1.5)",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "whale_usd": 2025.75,
+    "whale_pct": 0.665,
+    "whale_value_at_open": 304826.2311,
+    "paper_stake_usd": 6.65,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786639427.0905745,
+    "fills": 1
   }
 ]
