@@ -84554,5 +84554,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786631816.51831,
     "fills": 1
+  },
+  {
+    "timestamp": 1786632462,
+    "timestamp_added": 1786632462.6163776,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "cs2-big5-g2-2026-08-13-game2",
+    "title": "Counter-Strike: BIG vs G2 - Map 2 Winner",
+    "outcome": "G2",
+    "side": "BUY",
+    "whale_usd": 156.55,
+    "whale_pct": 0.115,
+    "paper_stake_usd": 1.13,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786632462.6163852,
+    "fills": 1
   }
 ]

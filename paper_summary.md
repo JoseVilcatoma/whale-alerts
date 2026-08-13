@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 09:47:01 (hora de Perú)
+Actualizado: 2026-08-13 09:49:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $988.92
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 4 | 10 | 0 | +15.41 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-|  | 5 | 1 | 0 | +3.47 USD |
+|  | 5 | 1 | 1 | +3.47 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | UpTheBlues | 262 | 157 | 2 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
@@ -499,11 +499,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tex-laa-2026-08-13-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-tex-laa-2026-08-13-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-atl-conn-2026-08-13-spread-away-9pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| cs2-big5-g2-2026-08-13-game2 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+|  | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 40% | 1.13 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Aurora Gaming vs M80 - M | M80 (BUY) | 3% | 1.45 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 (BO3) - Esport | BIG (BUY) | 15% | 2.46 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 69% | 2.32 | ⏳ pendiente | — |
@@ -533,4 +535,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 72% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
