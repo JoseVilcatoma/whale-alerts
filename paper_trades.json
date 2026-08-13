@@ -83533,5 +83533,50 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786606651.2385397,
     "fills": 1
+  },
+  {
+    "timestamp": 1786606736,
+    "timestamp_added": 1786606736.682058,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ts8-xtreme-2026-08-13-game1",
+    "title": "Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner",
+    "outcome": "Xtreme Gaming",
+    "side": "BUY",
+    "whale_usd": 558.118578,
+    "whale_pct": 0.296,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786606749.631097,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786606737,
+    "timestamp_added": 1786606738.2535012,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-wb-nip-2026-08-13-game1",
+    "title": "LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "whale_usd": 378.9324,
+    "whale_pct": 0.201,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction",
+      "BBQChickenisthebesttt"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786606738.2535112,
+    "fills": 1
   }
 ]
