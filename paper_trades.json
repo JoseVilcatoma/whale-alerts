@@ -83681,5 +83681,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786620580.6216047,
     "fills": 1
+  },
+  {
+    "timestamp": 1786620718,
+    "timestamp_added": 1786620718.7573714,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-gen-hle1-2026-08-13-game1",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 4637.8465,
+    "whale_pct": 8.094,
+    "paper_stake_usd": 39.21,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BBQChickenisthebesttt"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786620729.10011,
+    "fills": 2
   }
 ]
