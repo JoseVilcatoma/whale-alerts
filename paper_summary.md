@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 08:48:44 (hora de Perú)
+Actualizado: 2026-08-13 08:50:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $972.51
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 39 | 27 | 11 | +567.50 USD |
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| wr0ngw4yb3tt0r | 72 | 74 | 0 | +111.09 USD |
+| wr0ngw4yb3tt0r | 72 | 74 | 2 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 5 | 0 | +43.08 USD |
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | UpTheBlues | 262 | 157 | 2 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
-| HomeRunHazard | 126 | 113 | 13 | +0.96 USD |
+| HomeRunHazard | 126 | 113 | 16 | +0.96 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
@@ -495,11 +495,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dota2-ts8-xtreme-2026-08-13-game1 | ActionReaction, ferrariChampions2026 |
 | lol-tes-lgd-2026-08-13-game1 | BBQChickenisthebesttt, ferrariChampions2026 |
 | lol-gen-hle1-2026-08-13-game1 | ActionReaction, BBQChickenisthebesttt |
+| mlb-tex-laa-2026-08-13-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| mlb-tex-laa-2026-08-13-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 54% | 2.28 | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: BIG vs G2 (BO3) - Esport | BIG (BUY) | 36% | 16.89 | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Dream vs. Connecticut Sun: O/U 1 | Under (BUY) | 47% | 2.75 | ⏳ pendiente | — |
@@ -525,8 +532,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 40% | 19.85 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 48% | 33.04 | 💰 vendida anticipada | +35.79 |
 | ferrariChampions2026 | LoL: Top Esports vs LGD Gaming - Game 1  | Top Esports (BUY) | 51% | 1.16 | ❌ perdida | -1.16 |
-| ferrariChampions2026 | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 49% | 1.12 | ✅ ganada | +1.17 |
-| ferrariChampions2026 | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 84% | 0.00 | ✅ ganada | +0.00 |
-| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 39% | 0.00 | ❌ perdida | -0.00 |
-| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 43% | 0.00 | ❌ perdida | -0.00 |
-| ferrariChampions2026 | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 12% | 0.00 | ❌ perdida | -0.00 |
