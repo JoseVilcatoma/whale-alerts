@@ -1,9 +1,9 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 19:15:23 (hora de Perú)
+Actualizado: 2026-08-12 19:17:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $623.26
+**Bankroll actual:** $623.34
 **Retorno acumulado:** -37.67%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 0 | +45.27 USD |
-| 1winstreak1 | 112 | 88 | 23 | +40.07 USD |
+| 1winstreak1 | 113 | 88 | 24 | +40.15 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
@@ -474,6 +474,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 34% | 0.73 | ⏳ pendiente | — |
+| 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 54% | 14.80 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago Cubs (-2.5) | Chicago Cubs (BUY) | 57% | 1.37 | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 55% | 29.80 | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 40% | 6.88 | ⏳ pendiente | — |
@@ -485,7 +487,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will CA Platense vs. CD Coquimbo Unido e | Yes (BUY) | 94% | 1.53 | ⏳ pendiente | — |
 | 1winstreak1 | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 20% | 1.43 | ⏳ pendiente | — |
 | RN1 | Red Bull Bragantino vs. CA Mineiro: O/U  | Under (BUY) | 99% | 6.68 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres (BUY) | 92% | 0.93 | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres (BUY) | 92% | 0.93 | ✅ ganada | +0.08 |
 | ferrariChampions2026 | Spread: Miami Marlins (-2.5) | Pittsburgh Pirates (BUY) | 38% | 0.82 | ⏳ pendiente | — |
 | RN1 | Will Montevideo City Torque win on 2026- | Yes (BUY) | 84% | 2.04 | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. San Diego Padres:  | Under (BUY) | 71% | 0.89 | ✅ ganada | +0.36 |
@@ -502,5 +504,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Inter Miami CF vs. Club León FC: O/U 2.5 | Over (BUY) | 54% | 0.71 | ⏳ pendiente | — |
 | RN1 | Spread: Seattle Mariners (-1.5) | New York Yankees (BUY) | 44% | 1.31 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Seattle Mariners (-1.5) | New York Yankees (BUY) | 44% | 1.99 | ⏳ pendiente | — |
-| RN1 | Spread: Seattle Mariners (-2.5) | New York Yankees (BUY) | 58% | 1.70 | ⏳ pendiente | — |
-| RN1 | Will SE Palmeiras win on 2026-08-12? | Yes (BUY) | 85% | 0.72 | ⏳ pendiente | — |
