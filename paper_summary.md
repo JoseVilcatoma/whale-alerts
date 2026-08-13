@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 17:02:39 (hora de Perú)
+Actualizado: 2026-08-13 17:04:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,014.57
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 4 | +0.00 USD |
-| 1winstreak1 | 0 | 0 | 1 | +0.00 USD |
+| 1winstreak1 | 0 | 0 | 2 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 3 | 6 | -1.26 USD |
 | ferrariChampions2026 | 45 | 37 | 25 | -2.46 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
@@ -63,6 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Washington Nationals (-4.5) | Chicago Cubs (BUY) | 30% | 7.26 | 0.7% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 19.60 | 2.0% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 7.74 | 0.8% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 50% | 92.67 | 9.2% | ⏳ pendiente | — |
@@ -92,4 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Beşiktaş JK vs. FC Hradec Králové: O/U 2 | Under (BUY) | 75% | 2.35 | 0.2% | ✅ ganada | +0.78 |
 | swisstony | Beşiktaş JK vs. FC Hradec Králové: O/U 1 | Under (BUY) | 36% | 1.13 | 0.1% | ✅ ganada | +2.01 |
 | ferrariChampions2026 | Beşiktaş JK vs. FC Hradec Králové: O/U 1 | Over (BUY) | 64% | 1.22 | 0.1% | ❌ perdida | -1.22 |
-| swisstony | AS Omónoia Leukosías vs. Lincoln Red Imp | Under (BUY) | 83% | 2.53 | 0.2% | ✅ ganada | +0.52 |
