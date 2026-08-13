@@ -1,5 +1,5 @@
 {
-  "bankroll": 1269.8582791460224,
+  "bankroll": 1266.6082791460224,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -390,6 +390,26 @@
       "timestamp": 1786651936.2885985,
       "bankroll": 1269.86,
       "event": "won: RN1 \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 0.5"
+    },
+    {
+      "timestamp": 1786651996.0256147,
+      "bankroll": 1268.6,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786651997.5407882,
+      "bankroll": 1266.61,
+      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786651999.2077076,
+      "bankroll": 1266.61,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786652003.033643,
+      "bankroll": 1266.61,
+      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 8.5"
     }
   ]
 }
