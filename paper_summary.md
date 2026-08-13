@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 01:17:26 (hora de Perú)
+Actualizado: 2026-08-13 01:19:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $582.48
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 |  | 3 | 1 | 2 | -1.88 USD |
-| Weaseloftheweek | 0 | 2 | 2 | -2.32 USD |
+| Weaseloftheweek | 0 | 2 | 4 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
@@ -495,6 +495,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
+| Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK | BNK FEARX (BUY) | 58% | 508.25 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 64% | 1.14 | ⏳ pendiente | — |
@@ -522,5 +524,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 53% | 5.58 | ❌ perdida | -5.58 |
 | wr0ngw4yb3tt0r | Spread: Chicago White Sox (-3.5) | Cincinnati Reds (BUY) | 76% | 2.63 | ❌ perdida | -2.63 |
 | ferrariChampions2026 | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 91% | 0.63 | ✅ ganada | +0.06 |
-| RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 33% | 0.58 | ✅ ganada | +1.18 |
-| ferrariChampions2026 | Will Cruzeiro EC vs. CR Flamengo end in  | No (BUY) | 73% | 0.62 | ❌ perdida | -0.62 |
