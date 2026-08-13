@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 14:51:50 (hora de Perú)
+Actualizado: 2026-08-13 14:53:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,248.47
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | ferrariChampions2026 | 19 | 17 | 74 | +5.71 USD |
-| RN1 | 2 | 1 | 50 | +1.64 USD |
+| RN1 | 2 | 1 | 51 | +1.64 USD |
 | swisstony | 5 | 0 | 63 | +1.09 USD |
 | wr0ngw4yb3tt0r | 0 | 1 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
@@ -65,6 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 44% | 1.49 | 0.1% | ⏳ pendiente | — |
 |  | LoL: Anyone's Legend vs JD Gaming (BO3)  | JD Gaming (BUY) | 42% | 0.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 65% | 0.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Heart of Midlothian FC vs. Sport Lisboa  | Over (BUY) | 53% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -94,4 +95,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | Spread: AFC Ajax (-1.5) | AFC Ajax (BUY) | 67% | 0.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will Al Shabab Saudi Club win on 2026-08 | No (BUY) | 84% | 0.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 48% | 0.00 | 0.2% | ⏳ pendiente | — |
-|  | Will Blackburn Rovers FC win on 2026-08- | No (BUY) | 85% | 0.00 | 0.1% | ⏳ pendiente | — |
