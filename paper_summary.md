@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:14:50 (hora de Perú)
+Actualizado: 2026-08-13 15:16:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,266.61
-**Retorno acumulado:** +26.66%
+**Bankroll actual:** $1,267.18
+**Retorno acumulado:** +26.72%
 **Peor caída desde un máximo (drawdown):** 11.24%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 6
 
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| RN1 | 5 | 3 | 47 | +27.44 USD |
+| RN1 | 5 | 3 | 48 | +27.44 USD |
 | ferrariChampions2026 | 21 | 24 | 68 | +4.60 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
 |  | 0 | 0 | 10 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 3 | 8 | -1.26 USD |
-| swisstony | 10 | 5 | 54 | -4.20 USD |
+| swisstony | 11 | 5 | 53 | -3.63 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -66,6 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 63% | 2.72 | 0.2% | ⏳ pendiente | — |
 | RN1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 48% | 2.70 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 48% | 9.47 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 49% | 7.82 | 0.6% | ⏳ pendiente | — |
@@ -95,4 +96,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 0.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 38% | 0.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | Spread: Al Ahli Saudi Club (-1.5) | Al Diraiyah Saudi Club (BUY) | 71% | 0.00 | 0.1% | ⏳ pendiente | — |
-|  | Al Shabab Saudi Club vs. Al Qadisiyah Sa | Over (BUY) | 50% | 0.00 | 0.1% | ⏳ pendiente | — |
