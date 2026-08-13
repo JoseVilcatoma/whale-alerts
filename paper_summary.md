@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 23:43:40 (hora de Perú)
+Actualizado: 2026-08-12 23:45:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $557.17
-**Retorno acumulado:** -44.28%
+**Bankroll actual:** $561.22
+**Retorno acumulado:** -43.88%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| BBQChickenisthebesttt | 31 | 27 | 1 | +132.53 USD |
+| BBQChickenisthebesttt | 31 | 27 | 2 | +132.53 USD |
 | wr0ngw4yb3tt0r | 71 | 74 | 10 | +110.26 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 670 | 503 | 104 | -96.82 USD |
+| ferrariChampions2026 | 674 | 504 | 99 | -92.77 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -509,6 +509,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 43% | 0.91 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 43% | 90.54 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Los Angeles FC vs. Querétaro FC end | No (BUY) | 40% | 0.67 | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 4.89 | ⏳ pendiente | — |
@@ -538,4 +539,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | Spread: FC Lugano (-1.5) | NSÍ Runavík (BUY) | 51% | 2.55 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | No (BUY) | 64% | 2.25 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Resilience - | TEAM VISION (BUY) | 72% | 2.37 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Club Puebla win on 2026-08-12? | No (BUY) | 83% | 0.93 | ⏳ pendiente | — |
