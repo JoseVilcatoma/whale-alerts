@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 08:44:38 (hora de Perú)
+Actualizado: 2026-08-13 08:46:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $972.51
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 0 | 1 | 1 | -46.49 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| ferrariChampions2026 | 678 | 520 | 2 | -68.75 USD |
+| ferrariChampions2026 | 679 | 521 | 0 | -68.74 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -523,8 +523,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 41% | 9.77 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 40% | 19.85 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 48% | 33.04 | 💰 vendida anticipada | +35.79 |
-| ferrariChampions2026 | LoL: Top Esports vs LGD Gaming - Game 1  | Top Esports (BUY) | 51% | 1.16 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 49% | 1.12 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Top Esports vs LGD Gaming - Game 1  | Top Esports (BUY) | 51% | 1.16 | ❌ perdida | -1.16 |
+| ferrariChampions2026 | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 49% | 1.12 | ✅ ganada | +1.17 |
 | ferrariChampions2026 | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 84% | 0.00 | ✅ ganada | +0.00 |
 | ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 39% | 0.00 | ❌ perdida | -0.00 |
 | ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 43% | 0.00 | ❌ perdida | -0.00 |
