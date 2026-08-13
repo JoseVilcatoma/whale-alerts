@@ -83207,5 +83207,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786603469.717694,
     "fills": 1
+  },
+  {
+    "timestamp": 1786604832,
+    "timestamp_added": 1786604833.6776857,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-wb-nip-2026-08-13",
+    "title": "LoL: Weibo Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "whale_usd": 10400.0,
+    "whale_pct": 53.656,
+    "paper_stake_usd": 10.21,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786604833.6776934,
+    "fills": 1
   }
 ]
