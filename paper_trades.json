@@ -84442,15 +84442,15 @@
     "title": "Counter-Strike: Aurora Gaming vs M80 - Map 1 Winner",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 1164.3544000000002,
-    "whale_pct": 0.267,
-    "paper_stake_usd": 2.64,
-    "odds_at_bet": 88,
+    "whale_usd": 8904.655999999999,
+    "whale_pct": 2.045,
+    "paper_stake_usd": 20.23,
+    "odds_at_bet": 89,
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
-    "last_fill_at": 1786631302.7545104,
-    "fills": 1
+    "last_fill_at": 1786631316.5328317,
+    "fills": 4
   }
 ]

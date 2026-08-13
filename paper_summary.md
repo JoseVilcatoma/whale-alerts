@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 09:28:25 (hora de Perú)
+Actualizado: 2026-08-13 09:30:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $988.92
@@ -503,7 +503,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| ferrariChampions2026 | Counter-Strike: Aurora Gaming vs M80 - M | Aurora Gaming (BUY) | 88% | 2.64 | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Aurora Gaming vs M80 - M | Aurora Gaming (BUY) | 89% | 20.23 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 81% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Atlanta Dream (-9.5) | Connecticut Sun (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 53% | 0.00 | ⏳ pendiente | — |
