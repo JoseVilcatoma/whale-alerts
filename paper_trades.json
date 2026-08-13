@@ -2227,5 +2227,52 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786641552.6473668,
     "fills": 1
+  },
+  {
+    "timestamp": 1786641582,
+    "timestamp_added": 1786641582.7285485,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-lgc-faze-2026-08-13",
+    "title": "Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "whale_usd": 1064.0,
+    "whale_pct": 0.219,
+    "whale_value_at_open": 485671.1763,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 28,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111",
+      "Nooserac"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786641582.7285576,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786641604,
+    "timestamp_added": 1786641604.7994673,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cle-det-2026-08-13-total-7pt5",
+    "title": "Cleveland Guardians vs. Detroit Tigers: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 5702.0592,
+    "whale_pct": 1.174,
+    "whale_value_at_open": 485671.1763,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786641615.5357203,
+    "fills": 2
   }
 ]
