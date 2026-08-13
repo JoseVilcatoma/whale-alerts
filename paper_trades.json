@@ -83243,12 +83243,13 @@
     "whale_pct": 157.839,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786605307.5805736,
-    "fills": 17
+    "fills": 17,
+    "closed_price": 20
   },
   {
     "timestamp": 1786605415,
@@ -83315,5 +83316,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786605504.1617494,
     "fills": 1
+  },
+  {
+    "timestamp": 1786606249,
+    "timestamp_added": 1786606249.91334,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ty-huliga-2026-08-13-game1",
+    "title": "Dota 2: Team Yandex vs HULIGANI - Game 1 Winner",
+    "outcome": "HULIGANI",
+    "side": "BUY",
+    "whale_usd": 1731.4213809999999,
+    "whale_pct": 0.841,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 14,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786606254.749471,
+    "fills": 2
   }
 ]
