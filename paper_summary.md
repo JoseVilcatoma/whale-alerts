@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 17:31:16 (hora de Perú)
+Actualizado: 2026-08-13 17:33:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,118.00
@@ -17,9 +17,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
 | swisstony | 26 | 9 | 15 | +18.94 USD |
-| ferrariChampions2026 | 47 | 37 | 30 | +13.84 USD |
+| ferrariChampions2026 | 47 | 37 | 31 | +13.84 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| RN1 | 17 | 17 | 34 | +2.60 USD |
+| RN1 | 17 | 17 | 36 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 4 | +0.00 USD |
@@ -60,12 +60,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-chc-wsh-2026-08-13-total-7pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | sud-san-mac-2026-08-13-san | RN1, ferrariChampions2026 |
 | lib-mir-lqu-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
+| lib-mir-lqu-2026-08-13-lqu | RN1, ferrariChampions2026 |
 | sud-vas-clo-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will LDU de Quito win on 2026-08-13? | No (BUY) | 90% | 4.06 | 0.4% | ⏳ pendiente | — |
+| RN1 | Will CR Vasco da Gama win on 2026-08-13? | Yes (BUY) | 61% | 6.23 | 0.6% | ⏳ pendiente | — |
+| RN1 | Spread: LDU de Quito (-1.5) | Mirassol FC (BUY) | 97% | 3.26 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Mirassol FC win on 2026-08-13? | Yes (BUY) | 70% | 1.85 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Santos FC win on 2026-08-13? | Yes (BUY) | 43% | 1.66 | 0.1% | ⏳ pendiente | — |
 | RN1 | Will Mirassol FC win on 2026-08-13? | Yes (BUY) | 70% | 1.60 | 0.1% | ⏳ pendiente | — |
@@ -93,6 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will CR Vasco da Gama win on 2026-08-13? | Yes (BUY) | 62% | 1.29 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 50% | 3.80 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Santos FC win on 2026-08-13? | No (BUY) | 50% | 1.41 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Mirassol FC vs. LDU de Quito end in | No (BUY) | 80% | 1.24 | 0.1% | ⏳ pendiente | — |
-| RN1 | Santos FC vs. CSyD Macará: 1st Half O/U  | Over (BUY) | 63% | 1.94 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 47% | 25.42 | 2.5% | ⏳ pendiente | — |
