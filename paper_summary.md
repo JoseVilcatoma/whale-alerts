@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:35:43 (hora de Perú)
+Actualizado: 2026-08-13 15:37:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,018.63
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| RN1 | 6 | 3 | 57 | +27.44 USD |
+| RN1 | 6 | 3 | 59 | +27.44 USD |
 | ferrariChampions2026 | 27 | 27 | 62 | +5.30 USD |
 | HomeRunHazard | 1 | 0 | 7 | +0.74 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
@@ -73,6 +73,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Shelbourne FC vs. AFC Ajax end in a | Yes (BUY) | 81% | 1.23 | 0.1% | ⏳ pendiente | — |
+| RN1 | Heart of Midlothian FC vs. Sport Lisboa  | Under (BUY) | 94% | 4.28 | 0.4% | ⏳ pendiente | — |
 | RN1 | HNK Hajduk Split vs. FK Žalgiris Vilnius | Under (BUY) | 84% | 1.31 | 0.1% | ⏳ pendiente | — |
 | RN1 | KF Egnatia Rrogozhinë vs. Shamrock Rover | Under (BUY) | 35% | 0.05 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | KF Egnatia Rrogozhinë vs. Shamrock Rover | Over (BUY) | 66% | 1.33 | 0.1% | ⏳ pendiente | — |
@@ -101,5 +103,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 48% | 2.70 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 48% | 9.47 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 49% | 7.82 | 0.6% | ⏳ pendiente | — |
-| swisstony | Spread: Shamrock Rovers FC (-1.5) | KF Egnatia Rrogozhinë (BUY) | 100% | 3.04 | 0.2% | ⏳ pendiente | — |
-|  | Heart of Midlothian FC vs. Sport Lisboa  | Under (BUY) | 38% | 2.33 | 0.2% | ⏳ pendiente | — |
