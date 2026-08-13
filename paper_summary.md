@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 13:55:33 (hora de Perú)
+Actualizado: 2026-08-13 13:57:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,246.45
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| ferrariChampions2026 | 5 | 5 | 94 | +6.41 USD |
+| ferrariChampions2026 | 5 | 5 | 95 | +6.41 USD |
 | wr0ngw4yb3tt0r | 0 | 1 | 6 | +0.00 USD |
 | RN1 | 0 | 0 | 48 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 7 | +0.00 USD |
-| HomeRunHazard | 0 | 0 | 2 | +0.00 USD |
+| HomeRunHazard | 0 | 0 | 3 | +0.00 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 
@@ -39,6 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-bos-tor-2026-08-13-total-7pt5 | Talvez10, ferrariChampions2026 |
 | spl-abh-haz-2026-08-13-haz | RN1, swisstony |
 | cs2-lgc-faze-2026-08-13 | Lakersfan111, Nooserac, ferrariChampions2026 |
+| val-gx-fnc1-2026-08-13 | Nooserac, ferrariChampions2026 |
 | mlb-cin-cws-2026-08-13-total-8pt5 | SDTrading, Sassy-Bucket |
 | mlb-cin-cws-2026-08-13-total-9pt5 | Sassy-Bucket, swisstony, wr0ngw4yb3tt0r |
 | uel-gor1-ftc-2026-08-13-gor1 | RN1, ferrariChampions2026 |
@@ -59,6 +60,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 65% | 1.38 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: GIANTX vs Fnatic (BO3) - VCT E | Fnatic (BUY) | 84% | 5.23 | 0.4% | ⏳ pendiente | — |
 | swisstony | Will FC Inter Turku win on 2026-08-13? | No (BUY) | 96% | 1.94 | 0.2% | ⏳ pendiente | — |
 | swisstony | RSC Anderlecht vs. PAOK: Both Teams to S | Yes (BUY) | 71% | 2.20 | 0.2% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Spirit vs Aurora (BO3) - Th | Aurora (BUY) | 45% | 206.34 | 16.6% | ⏳ pendiente | — |
@@ -87,5 +90,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 22% | 0.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Spread: Górnik Zabrze (-1.5) | Ferencvárosi TC (BUY) | 73% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 30% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | FC Nordsjælland vs. KF Valur: O/U 4.5 | Over (BUY) | 43% | 0.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 61% | 0.00 | 0.1% | ⏳ pendiente | — |
