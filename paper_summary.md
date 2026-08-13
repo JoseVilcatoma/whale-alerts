@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 19:58:58 (hora de Perú)
+Actualizado: 2026-08-12 20:01:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $612.98
-**Retorno acumulado:** -38.70%
+**Bankroll actual:** $574.41
+**Retorno acumulado:** -42.56%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,12 +20,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
-| 1winstreak1 | 114 | 90 | 21 | +32.86 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 4 | 9 | 1 | +15.41 USD |
-| HomeRunHazard | 114 | 98 | 12 | +11.88 USD |
+| HomeRunHazard | 114 | 98 | 14 | +11.88 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -44,6 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
+| 1winstreak1 | 114 | 92 | 19 | -5.71 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
@@ -453,6 +453,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lib-pal-cep-2026-08-12-cep | RN1, UpTheBlues |
 | mlb-sea-nyy-2026-08-12-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-bos-tor-2026-08-12-total-7pt5 | RN1, ferrariChampions2026 |
+| mlb-nym-atl-2026-08-12-total-8pt5 | 1winstreak1, HomeRunHazard |
 | lib-pal-cep-2026-08-12-pal | RN1, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-12-spread-home-1pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-12-spread-away-2pt5 | 1winstreak1, RN1, ferrariChampions2026, wr0ngw4yb3tt0r |
@@ -479,6 +480,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 8. | Under (BUY) | 56% | 2.38 | ⏳ pendiente | — |
+| HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 9. | Under (BUY) | 73% | 4.70 | ⏳ pendiente | — |
 | RN1 | New York Mets vs. Atlanta Braves: O/U 9. | Under (BUY) | 69% | 0.72 | ⏳ pendiente | — |
 | HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 9. | Under (BUY) | 68% | 0.97 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 81% | 1.35 | ⏳ pendiente | — |
@@ -503,9 +506,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 34% | 0.73 | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 54% | 14.80 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago Cubs (-2.5) | Chicago Cubs (BUY) | 57% | 1.37 | ⏳ pendiente | — |
-| 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 55% | 29.80 | ⏳ pendiente | — |
+| 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 55% | 29.80 | ❌ perdida | -29.80 |
 | 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 40% | 6.88 | ❌ perdida | -6.88 |
-| 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 65% | 8.77 | ⏳ pendiente | — |
+| 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 65% | 8.77 | ❌ perdida | -8.77 |
 | 1winstreak1 | Spread: Chicago Cubs (-3.5) | Chicago Cubs (BUY) | 48% | 29.96 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Chicago Cubs (-5.5) | Chicago Cubs (BUY) | 23% | 10.42 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Chicago Cubs (-2.5) | Chicago Cubs (BUY) | 65% | 9.06 | ⏳ pendiente | — |
