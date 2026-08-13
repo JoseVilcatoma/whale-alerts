@@ -1,5 +1,5 @@
 {
-  "bankroll": 1004.2766726668257,
+  "bankroll": 1007.0271881249696,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -570,6 +570,106 @@
       "timestamp": 1786654567.4125028,
       "bankroll": 1004.28,
       "event": "lost: ferrariChampions2026 \u2014 Will P\u00e1fos FC win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786654629.1089528,
+      "bankroll": 1007.37,
+      "event": "won: RN1 \u2014 Spread: FC Midtjylland (-1.5)"
+    },
+    {
+      "timestamp": 1786654630.9587755,
+      "bankroll": 1007.37,
+      "event": "won: ferrariChampions2026 \u2014 Will G\u00f3rnik Zabrze win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786654631.6755373,
+      "bankroll": 1007.37,
+      "event": "won: ferrariChampions2026 \u2014 Be\u015fikta\u015f JK vs. FC Hradec Kr\u00e1lov\u00e9: O/U 0.5"
+    },
+    {
+      "timestamp": 1786654634.1180825,
+      "bankroll": 1007.37,
+      "event": "lost: RN1 \u2014 Will G\u00f3rnik Zabrze win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786654634.2183743,
+      "bankroll": 1007.37,
+      "event": "lost: ferrariChampions2026 \u2014 Will G\u00f3rnik Zabrze win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786654639.160612,
+      "bankroll": 1007.37,
+      "event": "won: ferrariChampions2026 \u2014 G\u00f3rnik Zabrze vs. Ferencv\u00e1rosi TC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786654642.2448375,
+      "bankroll": 1007.37,
+      "event": "won: swisstony \u2014 G\u00f3rnik Zabrze vs. Ferencv\u00e1rosi TC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786654642.4452236,
+      "bankroll": 1005.71,
+      "event": "lost: swisstony \u2014 G\u00f3rnik Zabrze vs. Ferencv\u00e1rosi TC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786654695.1675732,
+      "bankroll": 1005.71,
+      "event": "won: ferrariChampions2026 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 1.5"
+    },
+    {
+      "timestamp": 1786654697.1137233,
+      "bankroll": 1005.71,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Be\u015fikta\u015f JK (-2.5)"
+    },
+    {
+      "timestamp": 1786654698.0500379,
+      "bankroll": 1005.71,
+      "event": "won: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786654698.3504887,
+      "bankroll": 1005.71,
+      "event": "won: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786654698.4506814,
+      "bankroll": 1005.71,
+      "event": "won: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786654703.250032,
+      "bankroll": 1005.71,
+      "event": "lost: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786654703.3502307,
+      "bankroll": 1005.71,
+      "event": "lost: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786654703.5506196,
+      "bankroll": 1005.71,
+      "event": "lost: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786654703.9514198,
+      "bankroll": 1005.71,
+      "event": "lost: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786654705.1651359,
+      "bankroll": 1006.23,
+      "event": "won: swisstony \u2014 AS Om\u00f3noia Leukos\u00edas vs. Lincoln Red Imps FC: Lincoln Red Imps FC O/U 0.5"
+    },
+    {
+      "timestamp": 1786654705.6662054,
+      "bankroll": 1006.66,
+      "event": "won: swisstony \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786654705.7664049,
+      "bankroll": 1007.03,
+      "event": "won: swisstony \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
     }
   ]
 }
