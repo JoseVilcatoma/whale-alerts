@@ -919,5 +919,20 @@
     "status": "pending",
     "ultimo_fill": 1786645745,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 121,
+    "timestamp": 1786646135,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-bos-tor-2026-08-13",
+    "title": "Boston Red Sox vs. Toronto Blue Jays",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "usd": 112736.89139999998,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1786646135,
+    "fills": 1
   }
 ]

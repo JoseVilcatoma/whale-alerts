@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 13:35:05 (hora de Perú)
+Actualizado: 2026-08-13 13:37:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **61**  ($3,480,399 en total)
+- Apuestas registradas: **62**  ($3,593,135 en total)
 - Resueltas: **46** — 29 ganadas / 17 perdidas (**63%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 27
 
 ### Balance
@@ -29,6 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
 | Weaseloftheweek | 2 | 1 | 2 | ⚠️ 67% (3) | $224,457 | +$110,752 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
+| Sassy-Bucket | 0 | 0 | 2 | — | $139,137 | — |
 | AV23IUa | 0 | 2 | 1 | ⚠️ 0% (2) | $123,836 | -$83,036 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 1 | ⚠️ 100% (1) | $112,254 | +$100,800 |
 | ferrariChampions2026 | 1 | 1 | 1 | ⚠️ 50% (2) | $111,002 | -$49,777 |
@@ -46,7 +47,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
 | xifutloong3 | 0 | 0 | 1 | — | $27,300 | — |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
-| Sassy-Bucket | 0 | 0 | 1 | — | $26,400 | — |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
 | madwish355 | 1 | 0 | 0 | ⚠️ 100% (1) | $25,652 | +$5,254 |
 | Lakersfan111 | 1 | 0 | 0 | ⚠️ 100% (1) | $25,600 | +$14,400 |
@@ -56,6 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.75 (57¢) | $112,737 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | FaZe | 1.12 (89¢) | $30,374 | — | ⏳ Pendiente |
 | xifutloong3 | Seattle Mariners vs. New York Yankees | New York Yankees | 1.89 (53¢) | $27,300 | — | ⏳ Pendiente |
 | Mamagovorila | Cincinnati Open: Ashlyn Krueger vs Lois Boisson | Ashlyn Krueger | 2.08 (48¢) | $32,239 | — | ⏳ Pendiente |
@@ -115,4 +116,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.75 (57¢) | $57,499 | -$57,499 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | BoomBoys | 1.43 (70¢) | $364,470 | +$156,202 | ✅ Ganada |
 | Djdjdjekekek | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | OG | 3.33 (30¢) | $186,199 | -$18,620 | 💰 Vendida antes |
-| 0xheavy888 | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | BoomBoys | 1.43 (70¢) | $70,000 | +$2,000 | 💰 Vendida antes |
