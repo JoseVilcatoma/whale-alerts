@@ -1,5 +1,5 @@
 {
-  "bankroll": 538.3824400640467,
+  "bankroll": 543.8570108900888,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19175,6 +19175,31 @@
       "timestamp": 1786594468.972582,
       "bankroll": 538.38,
       "event": "won: UpTheBlues \u2014 Will Club Le\u00f3n FC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595395.9504042,
+      "bankroll": 542.31,
+      "event": "won: RN1 \u2014 Cruzeiro EC vs. CR Flamengo: O/U 2.5"
+    },
+    {
+      "timestamp": 1786595400.2722518,
+      "bankroll": 543.09,
+      "event": "won: swisstony \u2014 Cruzeiro EC vs. CR Flamengo: O/U 2.5"
+    },
+    {
+      "timestamp": 1786595459.5876725,
+      "bankroll": 543.14,
+      "event": "won: ferrariChampions2026 \u2014 Spread: CR Flamengo (-1.5)"
+    },
+    {
+      "timestamp": 1786595459.6878283,
+      "bankroll": 543.27,
+      "event": "won: RN1 \u2014 Spread: CR Flamengo (-1.5)"
+    },
+    {
+      "timestamp": 1786595467.553621,
+      "bankroll": 543.86,
+      "event": "won: ferrariChampions2026 \u2014 Minnesota Lynx vs. Portland Fire: O/U 183.5"
     }
   ]
 }
