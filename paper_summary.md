@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 07:19:57 (hora de Perú)
+Actualizado: 2026-08-13 07:22:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $963.08
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | UpTheBlues | 262 | 157 | 2 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
-| HomeRunHazard | 126 | 113 | 6 | +0.96 USD |
+| HomeRunHazard | 126 | 113 | 7 | +0.96 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
@@ -500,6 +500,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 41% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 50% | 0.00 | ⏳ pendiente | — |
@@ -529,4 +530,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Weibo Gaming vs Ninjas in Pyjamas ( | Weibo Gaming (BUY) | 29% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 18% | 0.00 | ❌ perdida | -0.00 |
 | ActionReaction | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 45% | 0.00 | ❌ perdida | -0.00 |
-| ferrariChampions2026 | Dota 2: Team Yandex vs HULIGANI - Game 1 | HULIGANI (BUY) | 14% | 0.00 | ❌ perdida | -0.00 |
