@@ -7933,5 +7933,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786656201.223069,
     "fills": 3
+  },
+  {
+    "timestamp": 1786656217,
+    "timestamp_added": 1786656217.5615757,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "sud-vas-clo-2026-08-13-total-2pt5",
+    "title": "CR Vasco da Gama vs. Club Olimpia: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 180.564,
+    "whale_pct": 0.332,
+    "whale_value_at_open": 54330.2232,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786656217.561586,
+    "fills": 1
   }
 ]
