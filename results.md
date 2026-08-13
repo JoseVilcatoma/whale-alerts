@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 11:40:35 (hora de Perú)
+Actualizado: 2026-08-13 11:42:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **53**  ($3,206,389 en total)
+- Apuestas registradas: **54**  ($3,264,154 en total)
 - Resueltas: **35** — 22 ganadas / 13 perdidas (**63%** de acierto)
-- Pendientes: 18
-- Apostadores distintos: 24
+- Pendientes: 19
+- Apostadores distintos: 25
 
 ### Balance
 
@@ -38,6 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 0 | ⚠️ 100% (1) | $79,200 | +$100,800 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 2 | — | $72,258 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 0 | 1 | ⚠️ 100% (1) | $72,000 | +$19,613 |
+| 111111111115 | 0 | 0 | 1 | — | $57,765 | — |
 | wr0ngw4yb3tt0r | 1 | 0 | 0 | ⚠️ 100% (1) | $42,257 | +$53,782 |
 | hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
 | ohehe | 0 | 0 | 1 | — | $32,706 | — |
@@ -53,6 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 111111111115 | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | Legacy | 2.04 (49¢) | $57,765 | — | ⏳ Pendiente |
 | Mamagovorila | Cincinnati Open: Martin Landaluce vs Jack Draper | Jack Draper | 1.85 (54¢) | $27,652 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | FaZe | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | Legacy | 2.00 (50¢) | $36,923 | — | ⏳ Pendiente |
