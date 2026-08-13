@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 12:52:52 (hora de Perú)
+Actualizado: 2026-08-13 12:54:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,10 +15,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 76 | +0.00 USD |
-| RN1 | 0 | 0 | 10 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 78 | +0.00 USD |
+| RN1 | 0 | 0 | 12 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
-| swisstony | 0 | 0 | 16 | +0.00 USD |
+| swisstony | 0 | 0 | 19 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 7 | +0.00 USD |
@@ -34,14 +34,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col-qar-dyn-2026-08-13-total-2pt5 | RN1, swisstony |
 | col-tob-par-2026-08-13-tob | ferrariChampions2026, swisstony |
 | mlb-bos-tor-2026-08-13-total-7pt5 | Talvez10, ferrariChampions2026 |
+| spl-abh-haz-2026-08-13-haz | RN1, swisstony |
 | cs2-lgc-faze-2026-08-13 | Lakersfan111, Nooserac, ferrariChampions2026 |
 | mlb-cin-cws-2026-08-13-total-8pt5 | SDTrading, Sassy-Bucket |
 | mlb-cin-cws-2026-08-13-total-9pt5 | Sassy-Bucket, wr0ngw4yb3tt0r |
+| uel-gor1-ftc-2026-08-13-gor1 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 74% | 0.00 | 0.1% | ⏳ pendiente | — |
+| swisstony | Spread: FK Jablonec (-1.5) | FK Rīgas Futbola Skola (BUY) | 83% | 0.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 69% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Górnik Zabrze win on 2026-08-13? | Yes (BUY) | 70% | 0.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will Al Hazem SC win on 2026-08-13? | No (BUY) | 25% | 0.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Will Górnik Zabrze win on 2026-08-13? | Yes (BUY) | 70% | 0.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 39% | 0.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Beşiktaş JK (-2.5) | FC Hradec Králové (BUY) | 72% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 78% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 79% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -65,10 +74,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 89% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 64% | 0.00 ⚠️ | 52.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 39% | 0.00 | 1.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 41% | 0.00 | 0.7% | ⏳ pendiente | — |
-| ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 58% | 0.00 | 14.9% | ⏳ pendiente | — |
-| ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 53% | 0.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Skillcamp Esport vs Karmine Corp Bl | Karmine Corp Blue (BUY) | 88% | 0.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Joblife (BUY) | 69% | 0.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Pcific Esports (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Skillcamp Esport vs Karmine Corp Bl | Karmine Corp Blue (BUY) | 88% | 0.00 | 0.8% | ⏳ pendiente | — |
