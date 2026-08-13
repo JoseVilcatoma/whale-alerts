@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 04:59:23 (hora de Perú)
+Actualizado: 2026-08-13 05:01:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $568.67
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
-| Weaseloftheweek | 15 | 2 | 1 | -2.32 USD |
+| Weaseloftheweek | 15 | 2 | 3 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 3 | -7.03 USD |
@@ -501,6 +501,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | Dota 2: TEAM VISION vs Team Falcons (BO3 | Team Falcons (BUY) | 40% | 7.06 | ⏳ pendiente | — |
+| Weaseloftheweek | Dota 2: TEAM VISION vs Team Falcons (BO3 | Team Falcons (BUY) | 39% | 1.34 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK | BNK FEARX (BUY) | 71% | 11.23 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX - Game 2 Wi | BNK FEARX (BUY) | 54% | 25.88 | ⏳ pendiente | — |
 | Weaseloftheweek | Dota 2: BoomBoys vs Iron Wing (BO3) - Th | BoomBoys (BUY) | 50% | 9.44 | ⏳ pendiente | — |
@@ -529,5 +531,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 2 W | GamerLegion (BUY) | 35% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | BNK FEARX (BUY) | 28% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | BNK FEARX (BUY) | 30% | 0.00 | ⏳ pendiente | — |
-| ActionReaction | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | Kiwoom DRX (BUY) | 66% | 0.00 | ⏳ pendiente | — |
