@@ -1,5 +1,5 @@
 {
-  "bankroll": 1014.5704763327013,
+  "bankroll": 1118.0028065401468,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -845,6 +845,31 @@
       "timestamp": 1786659076.215667,
       "bankroll": 1014.57,
       "event": "won: RN1 \u2014 Will FC Sion vs. Noah FA end in a draw?"
+    },
+    {
+      "timestamp": 1786659317.8938005,
+      "bankroll": 1061.17,
+      "event": "won: Talvez10 \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1786659318.6544552,
+      "bankroll": 1103.51,
+      "event": "won: Talvez10 \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1786659319.096404,
+      "bankroll": 1107.09,
+      "event": "won: ferrariChampions2026 \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1786659327.8133645,
+      "bankroll": 1105.28,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1786659327.913606,
+      "bankroll": 1118.0,
+      "event": "won: ferrariChampions2026 \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 7.5"
     }
   ]
 }
