@@ -82727,5 +82727,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786601957.7411108,
     "fills": 1
+  },
+  {
+    "timestamp": 1786602006,
+    "timestamp_added": 1786602006.963978,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "dota2-liquid-vg-2026-08-13-game-handicap-away-1pt5",
+    "title": "Game Handicap: Liquid (-1.5) vs Vici Gaming (+1.5)",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "whale_usd": 875.0,
+    "whale_pct": 0.414,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786602008.8556182,
+    "fills": 2
   }
 ]
