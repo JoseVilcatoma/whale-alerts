@@ -1,5 +1,5 @@
 {
-  "bankroll": 559.2456878303341,
+  "bankroll": 568.6703032149495,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19520,6 +19520,11 @@
       "timestamp": 1786614399.6228645,
       "bankroll": 559.25,
       "event": "lost: ferrariChampions2026 \u2014 Dota 2: Aurora vs GamerLegion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786614602.7970495,
+      "bankroll": 568.67,
+      "event": "venta anticipada: BBQChickenisthebesttt \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana (+9.42 USD)"
     }
   ]
 }

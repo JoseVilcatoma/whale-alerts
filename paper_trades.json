@@ -83234,12 +83234,13 @@
     "whale_pct": 53.656,
     "paper_stake_usd": 10.21,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 9.42,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786604833.6776934,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 100
   },
   {
     "timestamp": 1786605271,
