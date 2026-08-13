@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 22:28:58 (hora de Perú)
+Actualizado: 2026-08-12 22:31:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $536.93
@@ -49,14 +49,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
-| swisstony | 171 | 114 | 22 | -26.60 USD |
+| swisstony | 171 | 114 | 23 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | RN1 | 231 | 126 | 20 | -38.74 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 662 | 496 | 58 | -96.78 USD |
+| ferrariChampions2026 | 662 | 496 | 59 | -96.78 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -507,6 +507,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | LGD Gaming (BUY) | 37% | 2.83 | ⏳ pendiente | — |
+| swisstony | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 60% | 0.97 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 85% | 2.27 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 74% | 0.90 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 85% | 0.84 | ⏳ pendiente | — |
@@ -535,5 +537,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Deportivo Toluca FC (-1.5) | FC Dallas (BUY) | 63% | 0.74 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | No (BUY) | 30% | 0.70 | ⏳ pendiente | — |
 |  | Spread: FC Lugano (-1.5) | NSÍ Runavík (BUY) | 49% | 2.81 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 20% | 0.69 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | Yes (BUY) | 54% | 0.67 | ⏳ pendiente | — |
