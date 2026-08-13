@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 12:40:27 (hora de Perú)
+Actualizado: 2026-08-13 12:42:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 5 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 68 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 71 | +0.00 USD |
 | RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 16 | +0.00 USD |
@@ -42,6 +42,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: New York Yankees (-1.5) | Seattle Mariners (BUY) | 56% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will FC Nordsjælland win on 2026-08-13? | Yes (BUY) | 95% | 0.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hammarby Fotboll vs. RKS Raków Częstocho | Over (BUY) | 82% | 0.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Cincinnati Reds (-1.5) | Cincinnati Reds (BUY) | 52% | 0.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 38% | 0.00 | 2.7% | ⏳ pendiente | — |
@@ -69,6 +72,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 49% | 0.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Joblife (BUY) | 64% | 0.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 30% | 0.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Beşiktaş JK vs. FC Hradec Králové: O/U 0 | Over (BUY) | 93% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Cleveland Guardians (-2.5) | Cleveland Guardians (BUY) | 28% | 0.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 31% | 0.00 | 0.4% | ⏳ pendiente | — |
