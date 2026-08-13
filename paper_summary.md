@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 17:12:54 (hora de Perú)
+Actualizado: 2026-08-13 17:14:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,014.57
@@ -17,13 +17,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | swisstony | 26 | 9 | 15 | +18.94 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| RN1 | 17 | 15 | 18 | +2.60 USD |
+| RN1 | 17 | 15 | 19 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 4 | +0.00 USD |
 | 1winstreak1 | 0 | 0 | 2 | +0.00 USD |
-| wr0ngw4yb3tt0r | 0 | 3 | 7 | -1.26 USD |
+| wr0ngw4yb3tt0r | 0 | 3 | 8 | -1.26 USD |
 | ferrariChampions2026 | 45 | 37 | 25 | -2.46 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
@@ -63,6 +63,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Santos FC vs. CSyD Macará: 1st Half O/U  | Over (BUY) | 63% | 1.94 | 0.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 47% | 25.42 | 2.5% | ⏳ pendiente | — |
 | RN1 | Mirassol FC vs. LDU de Quito: O/U 1.5 | Over (BUY) | 63% | 2.28 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Santos FC win on 2026-08-13? | Yes (BUY) | 49% | 1.93 | 0.2% | ⏳ pendiente | — |
 | swisstony | Santos FC vs. CSyD Macará: O/U 5.5 | Under (BUY) | 89% | 1.91 | 0.2% | ⏳ pendiente | — |
@@ -91,5 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Rangers FC vs. Jagiellonia Białystok: O/ | Over (BUY) | 100% | 2.08 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 57% | 9.28 | 0.7% | ✅ ganada | +7.00 |
 | swisstony | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 81% | 1.56 | 0.1% | ✅ ganada | +0.37 |
-| swisstony | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 76% | 1.36 | 0.1% | ✅ ganada | +0.43 |
-| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 89% | 10.60 | 5.7% | ⏳ pendiente | — |
