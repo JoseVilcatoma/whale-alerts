@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 23:16:54 (hora de Perú)
+Actualizado: 2026-08-12 23:18:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $538.38
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 665 | 497 | 108 | -95.33 USD |
+| ferrariChampions2026 | 665 | 497 | 109 | -95.33 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -509,6 +509,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 67% | 0.99 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 50% | 4.41 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Seattle Sounders FC vs. CD Guadalaj | Yes (BUY) | 46% | 1.03 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming (BO3) | LGD Gaming (BUY) | 47% | 1.26 | ⏳ pendiente | — |
@@ -538,4 +539,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 41% | 0.55 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | Yes (BUY) | 34% | 0.73 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 44% | 0.63 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 60% | 1.08 | ⏳ pendiente | — |
