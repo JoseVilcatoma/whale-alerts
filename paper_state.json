@@ -1,5 +1,5 @@
 {
-  "bankroll": 1246.453935006435,
+  "bankroll": 1246.6166888002601,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -115,6 +115,26 @@
       "timestamp": 1786646813.6254673,
       "bankroll": 1246.45,
       "event": "won: swisstony \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786647677.3430429,
+      "bankroll": 1247.27,
+      "event": "won: RN1 \u2014 Tobyl FK vs. FK Partizan Beograd: O/U 3.5"
+    },
+    {
+      "timestamp": 1786647678.5730846,
+      "bankroll": 1246.06,
+      "event": "lost: RN1 \u2014 Tobyl FK vs. FK Partizan Beograd: O/U 3.5"
+    },
+    {
+      "timestamp": 1786647680.0626533,
+      "bankroll": 1246.27,
+      "event": "won: swisstony \u2014 Tobyl FK vs. FK Partizan Beograd: O/U 5.5"
+    },
+    {
+      "timestamp": 1786647682.4922805,
+      "bankroll": 1246.62,
+      "event": "won: swisstony \u2014 Tobyl FK vs. FK Partizan Beograd: O/U 3.5"
     }
   ]
 }
