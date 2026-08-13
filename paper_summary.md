@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 13:24:15 (hora de Perú)
+Actualizado: 2026-08-13 13:26:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,000.00
-**Retorno acumulado:** +0.00%
+**Bankroll actual:** $1,018.46
+**Retorno acumulado:** +1.85%
 **Peor caída desde un máximo (drawdown):** 0.00%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 4
 
@@ -14,15 +14,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| Sassy-Bucket | 5 | 0 | 5 | +18.46 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
-| ferrariChampions2026 | 0 | 1 | 98 | +0.00 USD |
+| ferrariChampions2026 | 0 | 1 | 100 | +0.00 USD |
 | RN1 | 0 | 0 | 48 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
-| swisstony | 0 | 0 | 28 | +0.00 USD |
+| swisstony | 0 | 0 | 33 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 7 | +0.00 USD |
-| Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | SDTrading | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -42,16 +42,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | uel-gor1-ftc-2026-08-13-gor1 | RN1, ferrariChampions2026 |
 | uel-ucr-kps-2026-08-13-ucr | RN1, ferrariChampions2026 |
 | uel-ucr-kps-2026-08-13-total-2pt5 | RN1, ferrariChampions2026 |
+| uel-omo-lin-2026-08-13-spread-home-1pt5 | ferrariChampions2026, swisstony |
+| mlb-cin-cws-2026-08-13-spread-away-1pt5 | swisstony, wr0ngw4yb3tt0r |
 | mlb-sea-nyy-2026-08-13-total-7pt5 | RN1, ferrariChampions2026 |
 | col-hif-rak-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
 | uel-paf-rbs-2026-08-13-total-5pt5 | RN1, ferrariChampions2026, swisstony |
 | uel-bes-hra-2026-08-13-total-2pt5 | RN1, ferrariChampions2026 |
+| uel-gor1-ftc-2026-08-13-total-1pt5 | ferrariChampions2026, swisstony |
 | col-nor-val-2026-08-13-total-4pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Spread: AS Omónoia Leukosías (-1.5) | Lincoln Red Imps FC (BUY) | 45% | 5.37 | 0.5% | ⏳ pendiente | — |
+| swisstony | Górnik Zabrze vs. Ferencvárosi TC: O/U 1 | Under (BUY) | 49% | 1.66 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 83% | 1.92 | 0.2% | ⏳ pendiente | — |
+| swisstony | Górnik Zabrze vs. Ferencvárosi TC: O/U 2 | Under (BUY) | 83% | 0.00 | 0.7% | ⏳ pendiente | — |
+| swisstony | Spread: Cincinnati Reds (-1.5) | Cincinnati Reds (BUY) | 72% | 0.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 22% | 0.00 | 0.4% | ⏳ pendiente | — |
+| swisstony | Spread: Górnik Zabrze (-1.5) | Ferencvárosi TC (BUY) | 73% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 30% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Nordsjælland vs. KF Valur: O/U 4.5 | Over (BUY) | 43% | 0.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 61% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -75,10 +85,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | FC Midtjylland vs. Bohemian FC: O/U 3.5 | Under (BUY) | 57% | 0.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Górnik Zabrze vs. Ferencvárosi TC: O/U 1 | Over (BUY) | 65% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Beşiktaş JK vs. FC Hradec Králové: O/U 2 | Under (BUY) | 53% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Team Heretics Academy vs ⁠Movistar  | Team Heretics Academy (BUY) | 65% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will Hammarby Fotboll vs. RKS Raków Częs | No (BUY) | 75% | 0.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | FC DAC 1904 Dunajská Streda vs. FC Twent | Under (BUY) | 81% | 0.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | KF Shkëndija 79 vs. Hibernian FC: 1st Ha | Over (BUY) | 59% | 0.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Beşiktaş JK vs. FC Hradec Králové: O/U 2 | Over (BUY) | 49% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will RKS Raków Częstochowa win on 2026-0 | Yes (BUY) | 62% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 26% | 0.00 | 1.0% | ⏳ pendiente | — |
