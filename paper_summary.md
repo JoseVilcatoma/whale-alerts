@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 21:45:06 (hora de Perú)
+Actualizado: 2026-08-12 21:47:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $551.80
@@ -49,14 +49,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 123 | 101 | 1 | -9.62 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 171 | 114 | 8 | -26.60 USD |
+| swisstony | 171 | 114 | 9 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | RN1 | 229 | 126 | 22 | -40.29 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 660 | 496 | 44 | -97.13 USD |
+| ferrariChampions2026 | 660 | 496 | 47 | -97.13 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -487,7 +487,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-sea-nyy-2026-08-12-total-13pt5 | HomeRunHazard, ferrariChampions2026 |
 | lib-cru-fla-2026-08-12-draw | RN1, ferrariChampions2026 |
 | lib-cru-fla-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
-| wnba-min-por-2026-08-12-spread-away-12pt5 | HomeRunHazard, ferrariChampions2026 |
+| wnba-min-por-2026-08-12-spread-away-12pt5 | HomeRunHazard, ferrariChampions2026, swisstony |
 | mlb-cin-cws-2026-08-12-spread-home-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | wnba-min-por-2026-08-12-spread-away-13pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-cin-cws-2026-08-12-total-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
@@ -499,6 +499,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 26% | 0.66 | ⏳ pendiente | — |
+| ferrariChampions2026 | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 50% | 0.59 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 73% | 2.45 | ⏳ pendiente | — |
+| swisstony | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 78% | 1.44 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 33% | 0.79 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 31% | 0.72 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 38% | 0.85 | ⏳ pendiente | — |
@@ -525,7 +529,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will FC Dallas win on 2026-08-12? | No (BUY) | 85% | 1.40 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 32% | 0.61 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Minnesota Lynx (-13.5) | Minnesota Lynx (BUY) | 43% | 0.69 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Minnesota Lynx (-11.5) | Minnesota Lynx (BUY) | 51% | 0.82 | ⏳ pendiente | — |
-| swisstony | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 52% | 2.75 | ⏳ pendiente | — |
-| swisstony | Will San Diego FC win on 2026-08-12? | Yes (BUY) | 56% | 0.59 | ⏳ pendiente | — |
-| swisstony | Spread: San Diego FC (-1.5) | Club Puebla (BUY) | 66% | 0.79 | ⏳ pendiente | — |

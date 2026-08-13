@@ -83179,5 +83179,92 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786589043.9667394,
     "fills": 1
+  },
+  {
+    "timestamp": 1786589111,
+    "timestamp_added": 1786589111.7570367,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-min-por-2026-08-12-spread-away-12pt5",
+    "title": "Spread: Minnesota Lynx (-12.5)",
+    "outcome": "Minnesota Lynx",
+    "side": "BUY",
+    "whale_usd": 818.259999,
+    "whale_pct": 0.262,
+    "paper_stake_usd": 1.44,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786589111.7570448,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786589210,
+    "timestamp_added": 1786589210.6855106,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-chi-gsv-2026-08-12",
+    "title": "Chicago Sky vs. Golden State Valkyries",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "whale_usd": 2405.754203,
+    "whale_pct": 0.444,
+    "paper_stake_usd": 2.45,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786589210.6855216,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786589211,
+    "timestamp_added": 1786589212.3800275,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-min-por-2026-08-12-total-183pt5",
+    "title": "Minnesota Lynx vs. Portland Fire: O/U 183.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 576.46,
+    "whale_pct": 0.106,
+    "paper_stake_usd": 0.59,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786589212.380037,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786589222,
+    "timestamp_added": 1786589223.1585732,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-chi-gsv-2026-08-12",
+    "title": "Chicago Sky vs. Golden State Valkyries",
+    "outcome": "Chicago Sky",
+    "side": "BUY",
+    "whale_usd": 649.095902,
+    "whale_pct": 0.12,
+    "paper_stake_usd": 0.66,
+    "odds_at_bet": 26,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786589223.1585803,
+    "fills": 1
   }
 ]
