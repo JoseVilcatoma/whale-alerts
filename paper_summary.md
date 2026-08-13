@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 23:54:01 (hora de Perú)
+Actualizado: 2026-08-12 23:56:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $561.22
-**Retorno acumulado:** -43.88%
+**Bankroll actual:** $555.25
+**Retorno acumulado:** -44.47%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 3 | +132.53 USD |
-| wr0ngw4yb3tt0r | 71 | 74 | 10 | +110.26 USD |
+| wr0ngw4yb3tt0r | 73 | 76 | 6 | +107.63 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 5 | 0 | +43.08 USD |
@@ -26,12 +26,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 4 | 10 | 0 | +15.41 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| HomeRunHazard | 126 | 110 | 3 | +4.91 USD |
+| HomeRunHazard | 126 | 112 | 1 | +3.60 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
-| UpTheBlues | 261 | 157 | 3 | +1.26 USD |
+| UpTheBlues | 262 | 157 | 2 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
-|  | 4 | 0 | 7 | +0.47 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
@@ -42,6 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
+|  | 4 | 1 | 6 | -1.83 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
@@ -49,14 +49,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
-| swisstony | 182 | 119 | 12 | -26.20 USD |
 | RN1 | 245 | 131 | 1 | -26.42 USD |
+| swisstony | 183 | 121 | 9 | -27.18 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 674 | 504 | 99 | -92.77 USD |
+| ferrariChampions2026 | 676 | 504 | 97 | -91.52 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -534,7 +534,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: BoomBoys vs OG - Game 1 Winner | BoomBoys (BUY) | 64% | 0.89 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Seattle Sounders FC win on 2026-08- | Yes (BUY) | 43% | 0.98 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CD Guadalajara win on 2026-08-12? | No (BUY) | 77% | 1.69 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 48% | 4.54 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 48% | 4.54 | ❌ perdida | -4.54 |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Resilience - | Team Resilience (BUY) | 35% | 0.56 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Resilience - | Team Resilience (BUY) | 34% | 0.54 | ⏳ pendiente | — |
 |  | Spread: FC Lugano (-1.5) | NSÍ Runavík (BUY) | 51% | 2.55 | ⏳ pendiente | — |
