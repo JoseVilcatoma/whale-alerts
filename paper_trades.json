@@ -84994,5 +84994,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786609064.6253772,
     "fills": 1
+  },
+  {
+    "timestamp": 1786609182,
+    "timestamp_added": 1786609183.540938,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-justpl-mouzn-2026-08-13",
+    "title": "Counter-Strike: Just Players vs MOUZ NXT (BO3) - NODWIN Clutch Series Play-In Group A",
+    "outcome": "Just Players",
+    "side": "BUY",
+    "whale_usd": 228.0,
+    "whale_pct": 0.619,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786609183.540946,
+    "fills": 1
   }
 ]
