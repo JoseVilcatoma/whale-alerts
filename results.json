@@ -814,5 +814,35 @@
     "status": "pending",
     "ultimo_fill": 1786639297,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 103,
+    "timestamp": 1786639518,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-fal2-ast10-2026-08-13",
+    "title": "Counter-Strike: Team Falcons vs Astralis (BO3) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 29387.537100000005,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1786639518,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 104,
+    "timestamp": 1786639523,
+    "username": "ohehe",
+    "wallet": "0xeac22222ef8d2be457c00101a1a4e4925ec5dddc",
+    "slug": "cs2-fal2-ast10-2026-08-13",
+    "title": "Counter-Strike: Team Falcons vs Astralis (BO3) - Esports World Cup Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 37489.991400000006,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1786639523,
+    "fills": 1
   }
 ]
