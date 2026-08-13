@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 14:35:04 (hora de Perú)
+Actualizado: 2026-08-13 14:37:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,248.14
@@ -15,16 +15,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| ferrariChampions2026 | 7 | 11 | 91 | +5.38 USD |
+| ferrariChampions2026 | 8 | 11 | 90 | +5.38 USD |
 | RN1 | 2 | 1 | 45 | +1.64 USD |
-| swisstony | 5 | 0 | 57 | +1.09 USD |
+| swisstony | 5 | 0 | 59 | +1.09 USD |
 | wr0ngw4yb3tt0r | 0 | 1 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 8 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 6 | +0.00 USD |
-| CORGI8 | 0 | 0 | 4 | +0.00 USD |
+| CORGI8 | 0 | 0 | 5 | +0.00 USD |
 |  | 0 | 0 | 5 | +0.00 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 
@@ -63,6 +63,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | FC Sion vs. Noah FA: O/U 5.5 | Under (BUY) | 92% | 0.00 | 0.1% | ⏳ pendiente | — |
+| swisstony | FK Austria Wien vs. MH Beitar Jerusalem: | Under (BUY) | 82% | 0.00 | 0.1% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 0.00 | 1.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 0.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 38% | 0.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | Spread: Al Ahli Saudi Club (-1.5) | Al Diraiyah Saudi Club (BUY) | 71% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -90,6 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 33% | 1.54 | 0.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 1.81 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 34% | 1.51 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 46% | 3.04 | 0.2% | ⏳ pendiente | — |
-| swisstony | RSC Anderlecht vs. PAOK: O/U 1.5 | Over (BUY) | 100% | 3.58 | 0.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 51% | 1.83 | 0.1% | ⏳ pendiente | — |
