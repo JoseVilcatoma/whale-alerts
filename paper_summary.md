@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 18:48:12 (hora de Perú)
+Actualizado: 2026-08-13 18:50:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,140.29
@@ -16,18 +16,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 1 | +377.33 USD |
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
-| 1winstreak1 | 2 | 3 | 2 | +75.24 USD |
+| 1winstreak1 | 2 | 3 | 3 | +75.24 USD |
 | swisstony | 36 | 10 | 9 | +21.58 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| ferrariChampions2026 | 56 | 50 | 53 | +10.27 USD |
+| ferrariChampions2026 | 56 | 50 | 59 | +10.27 USD |
 | RN1 | 24 | 23 | 45 | +2.60 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 15 | +0.00 USD |
 | cigarettes | 0 | 0 | 2 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 16 | +0.00 USD |
-|  | 0 | 0 | 1 | +0.00 USD |
+|  | 0 | 0 | 2 | +0.00 USD |
 | Nooserac | 1 | 1 | 0 | -0.08 USD |
-| wr0ngw4yb3tt0r | 0 | 7 | 13 | -15.12 USD |
+| wr0ngw4yb3tt0r | 0 | 7 | 14 | -15.12 USD |
 | Lakersfan111 | 0 | 3 | 0 | -45.49 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 1 | 6 | 0 | -250.00 USD |
@@ -75,11 +75,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sud-san-mac-2026-08-13-total-3pt5 | RN1, UpTheBlues, ferrariChampions2026 |
 | lib-mir-lqu-2026-08-13-total-2pt5 | , ferrariChampions2026 |
 | wnba-atl-conn-2026-08-13 | 1winstreak1, swisstony |
+| mlb-phi-min-2026-08-13-total-10pt5 | , 1winstreak1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 49% | 0.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 55% | 0.00 | 0.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 59% | 0.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Red Feet vs QUINTESSÊNCI | QUINTESSÊNCIA (BUY) | 59% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Club Necaxa win on 2026-08-13? | Yes (BUY) | 24% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 56% | 0.00 | 1.8% | ⏳ pendiente | — |
+|  | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 51% | 0.00 | 2.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 49% | 0.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia Union vs. Club Santos Lagun | Over (BUY) | 32% | 0.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 59% | 0.00 | 1.8% | ⏳ pendiente | — |
 |  | Mirassol FC vs. LDU de Quito: O/U 2.5 | Over (BUY) | 24% | 0.00 | 0.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 0.00 | 5.1% | ⏳ pendiente | — |
@@ -101,12 +111,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Philadelphia Union vs. Club Santos Lagun | Over (BUY) | 45% | 1.93 | 0.2% | ⏳ pendiente | — |
 | swisstony | Mirassol FC vs. LDU de Quito: O/U 1.5 | Under (BUY) | 48% | 2.84 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | CR Vasco da Gama vs. Club Olimpia: O/U 1 | Under (BUY) | 83% | 4.11 | 0.4% | ⏳ pendiente | — |
-| swisstony | CR Vasco da Gama vs. Club Olimpia: O/U 1 | Under (BUY) | 83% | 2.59 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 64% | 2.02 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | KRÜ Esports (BUY) | 85% | 1.96 | 2.5% | ⏳ pendiente | — |
-| UpTheBlues | Santos FC vs. CSyD Macará: O/U 2.5 | Over (BUY) | 88% | 1.75 | 0.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 61% | 0.00 | 1.5% | ⏳ pendiente | — |
-| UpTheBlues | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Under (BUY) | 90% | 0.00 | 0.2% | ⏳ pendiente | — |
-| UpTheBlues | Will Santos FC win on 2026-08-13? | No (BUY) | 40% | 0.00 | 0.1% | ⏳ pendiente | — |
-| UpTheBlues | Santos FC vs. CSyD Macará: O/U 3.5 | Under (BUY) | 61% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Santos FC vs. CSyD Macará: O/U 3.5 | Over (BUY) | 39% | 0.00 | 0.1% | ⏳ pendiente | — |
