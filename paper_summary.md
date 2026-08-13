@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 13:59:43 (hora de Perú)
+Actualizado: 2026-08-13 14:01:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,246.45
-**Retorno acumulado:** +24.65%
+**Bankroll actual:** $1,246.62
+**Retorno acumulado:** +24.66%
 **Peor caída desde un máximo (drawdown):** 11.24%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 5
 
@@ -16,15 +16,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | ferrariChampions2026 | 5 | 5 | 95 | +6.41 USD |
-| wr0ngw4yb3tt0r | 0 | 1 | 6 | +0.00 USD |
-| RN1 | 0 | 0 | 48 | +0.00 USD |
+| swisstony | 3 | 0 | 44 | +0.56 USD |
+| wr0ngw4yb3tt0r | 0 | 1 | 7 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
-| swisstony | 1 | 0 | 46 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 7 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 3 | +0.00 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
+| RN1 | 1 | 1 | 46 | -0.39 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col-qar-dyn-2026-08-13-total-2pt5 | RN1, swisstony |
 | uel-bes-hra-2026-08-13-spread-home-1pt5 | RN1, ferrariChampions2026, swisstony |
 | col-tob-par-2026-08-13-tob | ferrariChampions2026, swisstony |
-| mlb-bos-tor-2026-08-13-total-7pt5 | Talvez10, ferrariChampions2026 |
+| mlb-bos-tor-2026-08-13-total-7pt5 | Talvez10, ferrariChampions2026, wr0ngw4yb3tt0r |
 | spl-abh-haz-2026-08-13-haz | RN1, swisstony |
 | cs2-lgc-faze-2026-08-13 | Lakersfan111, Nooserac, ferrariChampions2026 |
 | val-gx-fnc1-2026-08-13 | Nooserac, ferrariChampions2026 |
@@ -60,6 +60,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 49% | 1.81 | 0.1% | ⏳ pendiente | — |
 | swisstony | Spread: MH Beitar Jerusalem (-1.5) | FK Austria Wien (BUY) | 79% | 1.28 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 65% | 1.38 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: GIANTX vs Fnatic (BO3) - VCT E | Fnatic (BUY) | 84% | 5.23 | 0.4% | ⏳ pendiente | — |
@@ -89,4 +90,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Górnik Zabrze vs. Ferencvárosi TC: O/U 2 | Under (BUY) | 83% | 0.00 | 0.7% | ⏳ pendiente | — |
 | swisstony | Spread: Cincinnati Reds (-1.5) | Cincinnati Reds (BUY) | 72% | 0.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 22% | 0.00 | 0.4% | ⏳ pendiente | — |
-| swisstony | Spread: Górnik Zabrze (-1.5) | Ferencvárosi TC (BUY) | 73% | 0.00 | 0.2% | ⏳ pendiente | — |
