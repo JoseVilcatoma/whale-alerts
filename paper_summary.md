@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 17:08:47 (hora de Perú)
+Actualizado: 2026-08-13 17:10:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,014.57
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| swisstony | 26 | 9 | 14 | +18.94 USD |
+| swisstony | 26 | 9 | 15 | +18.94 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
 | RN1 | 16 | 15 | 17 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
@@ -63,6 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Santos FC vs. CSyD Macará: O/U 5.5 | Under (BUY) | 89% | 1.91 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Las Vegas Aces (-6.5) | Washington Mystics (BUY) | 52% | 20.22 | 2.0% | ⏳ pendiente | — |
 | swisstony | Spread: Club Olimpia (-1.5) | CR Vasco da Gama (BUY) | 96% | 1.39 | 0.1% | ⏳ pendiente | — |
 | swisstony | Santos FC vs. CSyD Macará: 1st Half O/U  | Over (BUY) | 100% | 4.76 | 0.5% | ⏳ pendiente | — |
@@ -92,4 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 89% | 10.60 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 38% | 2.13 | 0.2% | ⏳ pendiente | — |
 | swisstony | AS Omónoia Leukosías vs. Lincoln Red Imp | Under (BUY) | 92% | 1.15 | 0.1% | ✅ ganada | +0.10 |
-| swisstony | Spread: AS Omónoia Leukosías (-1.5) | Lincoln Red Imps FC (BUY) | 46% | 3.37 | 0.3% | ✅ ganada | +3.96 |
