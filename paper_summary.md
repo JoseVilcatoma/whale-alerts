@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 12:21:42 (hora de Perú)
+Actualizado: 2026-08-13 12:23:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 53 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 59 | +0.00 USD |
 | RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 16 | +0.00 USD |
@@ -41,6 +41,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Skillcamp Esport vs Karmine Corp Bl | Karmine Corp Blue (BUY) | 88% | 0.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Joblife (BUY) | 69% | 0.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Pcific Esports (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Skillcamp Esport vs Karmine Corp Bl | Karmine Corp Blue (BUY) | 88% | 0.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Páfos FC win on 2026-08-13? | Yes (BUY) | 52% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Skillcamp Esport vs Karmine Corp Bl | Karmine Corp Blue (BUY) | 88% | 0.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 48% | 0.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 28% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 49% | 0.00 | 1.0% | ⏳ pendiente | — |
@@ -65,9 +71,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe - Map 1 W | FaZe (BUY) | 70% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe - Map 1 W | FaZe (BUY) | 73% | 0.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Astralis (BUY) | 27% | 0.00 | 0.2% | ⏳ pendiente | — |
-| Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 56% | 0.00 | 2.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe - Map 1 W | FaZe (BUY) | 69% | 0.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 36% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Universitatea Craiova CS win on 202 | Yes (BUY) | 49% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Astralis (BUY) | 39% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Team Falcons (BUY) | 66% | 0.00 | 0.3% | ⏳ pendiente | — |
