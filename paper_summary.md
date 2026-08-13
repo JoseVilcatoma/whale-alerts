@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 16:58:34 (hora de Perú)
+Actualizado: 2026-08-13 17:00:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,002.99
-**Retorno acumulado:** +0.30%
+**Bankroll actual:** $1,014.57
+**Retorno acumulado:** +1.46%
 **Peor caída desde un máximo (drawdown):** 24.07%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 5
 
@@ -16,12 +16,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | swisstony | 26 | 9 | 12 | +18.94 USD |
+| HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
 | RN1 | 16 | 15 | 17 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
-| HomeRunHazard | 1 | 0 | 2 | +0.74 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
-| theowalcott | 0 | 0 | 2 | +0.00 USD |
+| theowalcott | 0 | 0 | 4 | +0.00 USD |
 | 1winstreak1 | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 3 | 6 | -1.26 USD |
 | ferrariChampions2026 | 45 | 37 | 25 | -2.46 USD |
@@ -63,6 +63,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 19.60 | 2.0% | ⏳ pendiente | — |
+| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 7.74 | 0.8% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 50% | 92.67 | 9.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 50% | 12.05 | 1.2% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 8.94 | 0.9% | ⏳ pendiente | — |
@@ -78,9 +80,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | Dota 2: Team Spirit vs Aurora (BO3) - Th | Aurora (BUY) | 45% | 206.34 | 16.6% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Spirit vs Aurora (BO3) - Th | Aurora (BUY) | 45% | 311.61 ⚠️ | 40.6% | ⏳ pendiente | — |
 | swisstony | Will RSC Anderlecht win on 2026-08-13? | Yes (BUY) | 61% | 2.07 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 57% | 6.07 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 57% | 6.07 | 0.5% | ✅ ganada | +4.58 |
 | swisstony | Rangers FC vs. Jagiellonia Białystok: O/ | Over (BUY) | 100% | 2.08 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 57% | 9.28 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 57% | 9.28 | 0.7% | ✅ ganada | +7.00 |
 | swisstony | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 81% | 1.56 | 0.1% | ✅ ganada | +0.37 |
 | swisstony | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 76% | 1.36 | 0.1% | ✅ ganada | +0.43 |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 89% | 10.60 | 5.7% | ⏳ pendiente | — |
@@ -91,5 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Beşiktaş JK vs. FC Hradec Králové: O/U 1 | Under (BUY) | 36% | 1.13 | 0.1% | ✅ ganada | +2.01 |
 | ferrariChampions2026 | Beşiktaş JK vs. FC Hradec Králové: O/U 1 | Over (BUY) | 64% | 1.22 | 0.1% | ❌ perdida | -1.22 |
 | swisstony | AS Omónoia Leukosías vs. Lincoln Red Imp | Under (BUY) | 83% | 2.53 | 0.2% | ✅ ganada | +0.52 |
-| swisstony | Spread: AS Omónoia Leukosías (-1.5) | Lincoln Red Imps FC (BUY) | 46% | 6.94 | 0.7% | ✅ ganada | +8.15 |
-| swisstony | Spread: Beşiktaş JK (-1.5) | FC Hradec Králové (BUY) | 51% | 1.58 | 0.2% | ✅ ganada | +1.52 |

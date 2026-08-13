@@ -1,5 +1,5 @@
 {
-  "bankroll": 1002.9906517712977,
+  "bankroll": 1014.5704763327013,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -830,6 +830,16 @@
       "timestamp": 1786658105.5363572,
       "bankroll": 1002.99,
       "event": "lost: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 5.5"
+    },
+    {
+      "timestamp": 1786658395.0439942,
+      "bankroll": 1009.99,
+      "event": "won: HomeRunHazard \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 8.5"
+    },
+    {
+      "timestamp": 1786658395.2444158,
+      "bankroll": 1014.57,
+      "event": "won: HomeRunHazard \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 8.5"
     }
   ]
 }
