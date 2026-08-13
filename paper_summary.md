@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 16:02:51 (hora de Perú)
+Actualizado: 2026-08-13 16:04:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $995.52
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| swisstony | 26 | 8 | 35 | +18.94 USD |
-| RN1 | 15 | 14 | 41 | +2.60 USD |
+| swisstony | 26 | 9 | 34 | +18.94 USD |
+| RN1 | 16 | 14 | 40 | +2.60 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |

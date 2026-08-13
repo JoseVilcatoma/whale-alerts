@@ -815,6 +815,16 @@
       "timestamp": 1786654952.3815386,
       "bankroll": 995.52,
       "event": "won: swisstony \u2014 Spread: AS Om\u00f3noia Leukos\u00edas (-1.5)"
+    },
+    {
+      "timestamp": 1786655009.2604764,
+      "bankroll": 995.52,
+      "event": "lost: swisstony \u2014 Hammarby Fotboll vs. RKS Rak\u00f3w Cz\u0119stochowa: O/U 2.5"
+    },
+    {
+      "timestamp": 1786655010.4769247,
+      "bankroll": 995.52,
+      "event": "won: RN1 \u2014 Will Hammarby Fotboll win on 2026-08-13?"
     }
   ]
 }
