@@ -1,5 +1,5 @@
 {
-  "bankroll": 1183.4250938769505,
+  "bankroll": 1181.2950938769504,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -925,6 +925,46 @@
       "timestamp": 1786663141.549929,
       "bankroll": 1183.43,
       "event": "won: swisstony \u2014 Spread: MH Beitar Jerusalem (-1.5)"
+    },
+    {
+      "timestamp": 1786663386.8715858,
+      "bankroll": 1183.43,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Cincinnati Reds (-1.5)"
+    },
+    {
+      "timestamp": 1786663386.9717035,
+      "bankroll": 1183.43,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Cincinnati Reds (-1.5)"
+    },
+    {
+      "timestamp": 1786663387.6120894,
+      "bankroll": 1183.43,
+      "event": "won: swisstony \u2014 Spread: New York Yankees (-2.5)"
+    },
+    {
+      "timestamp": 1786663387.94738,
+      "bankroll": 1183.43,
+      "event": "lost: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786663388.0475342,
+      "bankroll": 1183.43,
+      "event": "lost: RN1 \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786663388.1476872,
+      "bankroll": 1183.43,
+      "event": "lost: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1786663391.596245,
+      "bankroll": 1183.43,
+      "event": "lost: swisstony \u2014 Spread: Cincinnati Reds (-1.5)"
+    },
+    {
+      "timestamp": 1786663391.796676,
+      "bankroll": 1181.3,
+      "event": "lost: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 7.5"
     }
   ]
 }
