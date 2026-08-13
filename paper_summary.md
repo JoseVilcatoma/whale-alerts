@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:08:39 (hora de Perú)
+Actualizado: 2026-08-13 15:10:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,247.68
-**Retorno acumulado:** +24.77%
+**Bankroll actual:** $1,269.44
+**Retorno acumulado:** +26.94%
 **Peor caída desde un máximo (drawdown):** 11.24%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 6
 
@@ -15,9 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| ferrariChampions2026 | 19 | 17 | 75 | +5.71 USD |
-| swisstony | 6 | 0 | 62 | +1.38 USD |
-| RN1 | 2 | 2 | 50 | +0.56 USD |
+| RN1 | 4 | 3 | 47 | +27.11 USD |
+| ferrariChampions2026 | 21 | 22 | 68 | +6.59 USD |
 | wr0ngw4yb3tt0r | 0 | 1 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -26,6 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 0 | 0 | 8 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
 |  | 0 | 0 | 9 | +0.00 USD |
+| swisstony | 9 | 5 | 54 | -4.29 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
