@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 20:44:37 (hora de Perú)
+Actualizado: 2026-08-12 20:46:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $578.45
-**Retorno acumulado:** -42.16%
+**Bankroll actual:** $578.90
+**Retorno acumulado:** -42.11%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -24,14 +24,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 4 | 10 | 0 | +15.41 USD |
-| HomeRunHazard | 116 | 98 | 25 | +13.02 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
+| HomeRunHazard | 116 | 100 | 23 | +9.60 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
+| 1winstreak1 | 118 | 95 | 12 | +4.11 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | UpTheBlues | 255 | 157 | 9 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
-| 1winstreak1 | 117 | 95 | 13 | +0.23 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
@@ -512,7 +512,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 70% | 1.10 | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 47% | 4.99 | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 48% | 2.10 | ⏳ pendiente | — |
-| HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 8. | Under (BUY) | 75% | 1.04 | ⏳ pendiente | — |
+| HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 8. | Under (BUY) | 75% | 1.04 | ❌ perdida | -1.04 |
 | RN1 | Spread: Toronto Blue Jays (-2.5) | Boston Red Sox (BUY) | 53% | 1.65 | ⏳ pendiente | — |
 | RN1 | Cruzeiro EC vs. CR Flamengo: O/U 0.5 | Over (BUY) | 73% | 1.12 | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 71% | 1.14 | ⏳ pendiente | — |
