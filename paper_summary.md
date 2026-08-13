@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 16:56:40 (hora de Perú)
+Actualizado: 2026-08-13 16:58:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,002.99
@@ -21,7 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 1 | 0 | 2 | +0.74 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
-| wr0ngw4yb3tt0r | 0 | 3 | 5 | -1.26 USD |
+| theowalcott | 0 | 0 | 2 | +0.00 USD |
+| 1winstreak1 | 0 | 0 | 1 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 3 | 6 | -1.26 USD |
 | ferrariChampions2026 | 45 | 37 | 25 | -2.46 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
@@ -36,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col-qar-dyn-2026-08-13-total-2pt5 | RN1, swisstony |
 | uel-bes-hra-2026-08-13-spread-home-1pt5 | RN1, ferrariChampions2026, swisstony |
 | col-tob-par-2026-08-13-tob | ferrariChampions2026, swisstony |
-| mlb-bos-tor-2026-08-13-total-7pt5 | HomeRunHazard, RN1, Talvez10, ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-bos-tor-2026-08-13-total-7pt5 | Talvez10, ferrariChampions2026, wr0ngw4yb3tt0r |
 | spl-abh-haz-2026-08-13-haz | RN1, swisstony |
 | cs2-lgc-faze-2026-08-13 | Lakersfan111, Nooserac, ferrariChampions2026 |
 | val-gx-fnc1-2026-08-13 | Nooserac, ferrariChampions2026 |
@@ -51,28 +53,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col-hif-rak-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
 | uel-ucr-kps-2026-08-13-total-3pt5 | RN1, swisstony |
 | uel-paf-rbs-2026-08-13-total-5pt5 | RN1, ferrariChampions2026, swisstony |
-| lol-hrts-koia-2026-08-13 | ActionReaction, ferrariChampions2026 |
 | uel-bes-hra-2026-08-13-total-2pt5 | RN1, ferrariChampions2026, swisstony |
 | uel-gor1-ftc-2026-08-13-total-1pt5 | ferrariChampions2026, swisstony |
 | col-nor-val-2026-08-13-total-4pt5 | RN1, ferrariChampions2026 |
 | uel-bes-hra-2026-08-13-total-1pt5 | ferrariChampions2026, swisstony |
-| mlb-sea-nyy-2026-08-13-total-5pt5 | HomeRunHazard, ferrariChampions2026 |
-| uel-ran1-jag-2026-08-13-total-1pt5 | RN1, swisstony |
-| uel-csk1-mta-2026-08-13-total-4pt5 | RN1, swisstony |
-| uel-hmi-ben-2026-08-13-total-1pt5 | RN1, UpTheBlues |
-| uel-hmi-ben-2026-08-13-ben | RN1, UpTheBlues |
-| mlb-chc-wsh-2026-08-13-total-7pt5 | RN1, ferrariChampions2026 |
-| col-gen-got-2026-08-13-total-2pt5 | , RN1 |
-| uel-hmi-ben-2026-08-13-hmi | RN1, UpTheBlues |
-| col-she1-aja-2026-08-13-aja | RN1, UpTheBlues |
-| uel-egn-shr-2026-08-13-total-5pt5 | RN1, ferrariChampions2026 |
-| sud-vas-clo-2026-08-13-total-2pt5 | RN1, theowalcott |
-| mlb-chc-wsh-2026-08-13-total-8pt5 | 1winstreak1, ferrariChampions2026 |
+| mlb-chc-wsh-2026-08-13-total-7pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 50% | 92.67 | 9.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 50% | 12.05 | 1.2% | ⏳ pendiente | — |
+| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 8.94 | 0.9% | ⏳ pendiente | — |
+| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 7.72 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 40% | 6.05 | 0.5% | ❌ perdida | -6.05 |
 | ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 51% | 13.24 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 49% | 1.81 | 0.1% | ⏳ pendiente | — |
@@ -99,7 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | AS Omónoia Leukosías vs. Lincoln Red Imp | Under (BUY) | 83% | 2.53 | 0.2% | ✅ ganada | +0.52 |
 | swisstony | Spread: AS Omónoia Leukosías (-1.5) | Lincoln Red Imps FC (BUY) | 46% | 6.94 | 0.7% | ✅ ganada | +8.15 |
 | swisstony | Spread: Beşiktaş JK (-1.5) | FC Hradec Králové (BUY) | 51% | 1.58 | 0.2% | ✅ ganada | +1.52 |
-| swisstony | Spread: AS Omónoia Leukosías (-1.5) | Lincoln Red Imps FC (BUY) | 45% | 5.37 | 0.5% | ✅ ganada | +6.56 |
-| swisstony | Górnik Zabrze vs. Ferencvárosi TC: O/U 1 | Under (BUY) | 49% | 1.66 | 0.2% | ❌ perdida | -1.66 |
-| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 83% | 1.92 | 0.2% | ⏳ pendiente | — |
-| swisstony | Górnik Zabrze vs. Ferencvárosi TC: O/U 2 | Under (BUY) | 83% | 0.00 | 0.7% | ✅ ganada | +0.00 |
