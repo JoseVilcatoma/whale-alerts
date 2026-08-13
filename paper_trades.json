@@ -5469,8 +5469,8 @@
     "whale_value_at_open": 124845.907,
     "paper_stake_usd": 12.05,
     "odds_at_bet": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -12.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -5491,8 +5491,8 @@
     "whale_value_at_open": 16345.1393,
     "paper_stake_usd": 92.67,
     "odds_at_bet": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 92.67,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -5801,8 +5801,8 @@
     "whale_value_at_open": 16822.3065,
     "paper_stake_usd": 3.8,
     "odds_at_bet": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -3.8,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -5893,8 +5893,8 @@
     "whale_value_at_open": 16868.5089,
     "paper_stake_usd": 6.7,
     "odds_at_bet": 32,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -6.7,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -7248,5 +7248,99 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786661389.6804433,
     "fills": 1
+  },
+  {
+    "timestamp": 1786661431,
+    "timestamp_added": 1786661432.0277138,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "sud-san-mac-2026-08-13-mac",
+    "title": "Will CSyD Macar\u00e1 win on 2026-08-13?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1417.72,
+    "whale_pct": 0.387,
+    "whale_value_at_open": 366345.8801,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786661432.027722,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786661475,
+    "timestamp_added": 1786661475.947853,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-kru1-bst1-2026-08-13",
+    "title": "Valorant: KR\u00dc Esports vs BESTIA (BO3) - VCT Americas Stage 2 Play-In",
+    "outcome": "KR\u00dc Esports",
+    "side": "BUY",
+    "whale_usd": 3571.4434730000003,
+    "whale_pct": 1.237,
+    "whale_value_at_open": 288717.0333,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786661476.549919,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786661480,
+    "timestamp_added": 1786661481.5419803,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "sud-san-mac-2026-08-13-first-half-total-2pt5",
+    "title": "Santos FC vs. CSyD Macar\u00e1: 1st Half O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1769.85855,
+    "whale_pct": 0.484,
+    "whale_value_at_open": 365603.8203,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "cigarettes"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786661485.9200053,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786661486,
+    "timestamp_added": 1786661486.7944088,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "sud-san-mac-2026-08-13-san",
+    "title": "Will Santos FC win on 2026-08-13?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 2089.1356,
+    "whale_pct": 0.571,
+    "whale_value_at_open": 365603.8203,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786661487.394085,
+    "fills": 3
   }
 ]

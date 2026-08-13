@@ -1,5 +1,5 @@
 {
-  "bankroll": 1112.9648407123934,
+  "bankroll": 1183.0848407123935,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -895,6 +895,26 @@
       "timestamp": 1786661267.8955162,
       "bankroll": 1112.96,
       "event": "won: swisstony \u2014 Will RSC Anderlecht win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786661518.4631047,
+      "bankroll": 1100.91,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago Cubs vs. Washington Nationals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786661518.5633044,
+      "bankroll": 1193.58,
+      "event": "won: 1winstreak1 \u2014 Chicago Cubs vs. Washington Nationals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786661520.0875914,
+      "bankroll": 1189.78,
+      "event": "lost: 1winstreak1 \u2014 Chicago Cubs vs. Washington Nationals: O/U 7.5"
+    },
+    {
+      "timestamp": 1786661520.4882073,
+      "bankroll": 1183.08,
+      "event": "lost: 1winstreak1 \u2014 Chicago Cubs vs. Washington Nationals: O/U 7.5"
     }
   ]
 }

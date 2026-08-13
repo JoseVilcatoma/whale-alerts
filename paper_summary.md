@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 17:50:06 (hora de Perú)
+Actualizado: 2026-08-13 17:52:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,112.96
-**Retorno acumulado:** +11.30%
+**Bankroll actual:** $1,183.08
+**Retorno acumulado:** +18.31%
 **Peor caída desde un máximo (drawdown):** 24.07%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 5
 
@@ -16,17 +16,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
+| 1winstreak1 | 1 | 3 | 1 | +74.91 USD |
 | swisstony | 28 | 9 | 13 | +21.16 USD |
-| ferrariChampions2026 | 47 | 37 | 42 | +13.84 USD |
+| ferrariChampions2026 | 47 | 37 | 43 | +13.84 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| RN1 | 17 | 17 | 52 | +2.60 USD |
+| RN1 | 17 | 17 | 55 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 10 | +0.00 USD |
 | cigarettes | 0 | 0 | 2 | +0.00 USD |
-| wr0ngw4yb3tt0r | 0 | 4 | 8 | -3.07 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
-| 1winstreak1 | 0 | 1 | 4 | -7.26 USD |
+| wr0ngw4yb3tt0r | 0 | 5 | 7 | -15.12 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 0 | 1 | 6 | -250.00 USD |
 
@@ -66,11 +66,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sud-vas-clo-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
 | sud-san-mac-2026-08-13-total-2pt5 | RN1, ferrariChampions2026 |
 | sud-san-mac-2026-08-13-mac | RN1, ferrariChampions2026 |
+| sud-san-mac-2026-08-13-first-half-total-2pt5 | RN1, cigarettes |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Santos FC win on 2026-08-13? | No (BUY) | 36% | 0.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Santos FC vs. CSyD Macará: 1st Half O/U  | Under (BUY) | 95% | 0.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | KRÜ Esports (BUY) | 81% | 0.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | Will CSyD Macará win on 2026-08-13? | No (BUY) | 92% | 0.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Mirassol FC vs. LDU de Quito: O/U 2.5 | Over (BUY) | 40% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Will CR Vasco da Gama win on 2026-08-13? | No (BUY) | 45% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Santos FC win on 2026-08-13? | No (BUY) | 38% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -97,7 +102,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Santos FC vs. CSyD Macará: O/U 2.5 | Over (BUY) | 58% | 0.00 | 0.1% | ⏳ pendiente | — |
 | cigarettes | LoL: Maryville University vs Winthrop Un | Winthrop University (BUY) | 43% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Santos FC vs. CSyD Macará: O/U 2.5 | Over (BUY) | 58% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CR Vasco da Gama win on 2026-08-13? | Yes (BUY) | 60% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will CR Vasco da Gama win on 2026-08-13? | Yes (BUY) | 60% | 0.00 | 0.2% | ⏳ pendiente | — |
-| theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 43% | 74.66 | 8.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CR Vasco da Gama win on 2026-08-13? | No (BUY) | 40% | 1.21 | 0.1% | ⏳ pendiente | — |
