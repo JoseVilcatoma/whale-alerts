@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 10:38:48 (hora de Perú)
+Actualizado: 2026-08-13 10:40:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $120.18
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 16 | 2 | 0 | +2.18 USD |
 | UpTheBlues | 262 | 157 | 2 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
-| HomeRunHazard | 126 | 113 | 26 | +0.96 USD |
+| HomeRunHazard | 126 | 113 | 27 | +0.96 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
@@ -505,6 +505,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Detroit Tigers (-1.5) | Detroit Tigers (BUY) | 31% | 0.52 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Seattle Mariners (-1.5) | New York Yankees (BUY) | 70% | 1.72 | ⏳ pendiente | — |
 |  | Map Handicap: FNC (-1.5) vs GIANTX (+1.5 | GIANTX (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 54% | 40.53 | 💰 vendida anticipada | +4.50 |
@@ -534,4 +535,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 54% | 2.28 | ⏳ pendiente | — |
-| CORGI8 | Counter-Strike: BIG vs G2 (BO3) - Esport | BIG (BUY) | 36% | 16.89 | ⏳ pendiente | — |
