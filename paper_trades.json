@@ -85421,5 +85421,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786594982.9748323,
     "fills": 2
+  },
+  {
+    "timestamp": 1786594998,
+    "timestamp_added": 1786594998.200982,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-laf-que-2026-08-12-draw",
+    "title": "Will Los Angeles FC vs. Quer\u00e9taro FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 400.0,
+    "whale_pct": 0.124,
+    "paper_stake_usd": 0.67,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786594998.2009897,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 23:23:03 (hora de Perú)
+Actualizado: 2026-08-12 23:25:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $538.38
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 665 | 497 | 114 | -95.33 USD |
+| ferrariChampions2026 | 665 | 497 | 115 | -95.33 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -509,6 +509,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Los Angeles FC vs. Querétaro FC end | No (BUY) | 40% | 0.67 | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 4.89 | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 36% | 3.86 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Los Angeles FC vs. Querétaro FC end | No (BUY) | 43% | 0.68 | ⏳ pendiente | — |
@@ -538,4 +539,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Resilience - | TEAM VISION (BUY) | 72% | 2.37 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Club Puebla win on 2026-08-12? | No (BUY) | 83% | 0.93 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 97% | 1.72 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 34% | 0.56 | ⏳ pendiente | — |
