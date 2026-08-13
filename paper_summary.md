@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 18:10:56 (hora de Perú)
+Actualizado: 2026-08-13 18:13:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,183.08
@@ -18,14 +18,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
 | 1winstreak1 | 1 | 3 | 2 | +74.91 USD |
 | swisstony | 28 | 9 | 13 | +21.16 USD |
-| ferrariChampions2026 | 47 | 37 | 54 | +13.84 USD |
+| ferrariChampions2026 | 47 | 37 | 56 | +13.84 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
 | RN1 | 17 | 17 | 58 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
-| theowalcott | 0 | 0 | 13 | +0.00 USD |
+| theowalcott | 0 | 0 | 15 | +0.00 USD |
 | cigarettes | 0 | 0 | 2 | +0.00 USD |
-| UpTheBlues | 0 | 0 | 5 | +0.00 USD |
+| UpTheBlues | 0 | 0 | 6 | +0.00 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
 | wr0ngw4yb3tt0r | 0 | 5 | 7 | -15.12 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
@@ -75,6 +75,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 53% | 4.85 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 53% | 5.25 | 0.4% | ⏳ pendiente | — |
+| theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 43% | 52.79 | 4.5% | ⏳ pendiente | — |
+| theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 43% | 9.12 | 0.8% | ⏳ pendiente | — |
+| UpTheBlues | CR Vasco da Gama vs. Club Olimpia: O/U 3 | Under (BUY) | 96% | 2.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Atlanta Dream vs. Connecticut Sun | Atlanta Dream (BUY) | 82% | 3.67 | 0.3% | ⏳ pendiente | — |
 | UpTheBlues | Will CSyD Macará win on 2026-08-13? | No (BUY) | 92% | 2.49 | 0.2% | ⏳ pendiente | — |
 | UpTheBlues | CF América vs. Austin FC: Both Teams to  | No (BUY) | 45% | 1.45 | 0.1% | ⏳ pendiente | — |
@@ -100,8 +105,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | KRÜ Esports (BUY) | 81% | 1.28 | 0.1% | ⏳ pendiente | — |
 | RN1 | Will Santos FC win on 2026-08-13? | No (BUY) | 36% | 0.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Santos FC vs. CSyD Macará: 1st Half O/U  | Under (BUY) | 95% | 0.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | KRÜ Esports (BUY) | 81% | 0.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Will CSyD Macará win on 2026-08-13? | No (BUY) | 92% | 0.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Mirassol FC vs. LDU de Quito: O/U 2.5 | Over (BUY) | 40% | 0.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Will CR Vasco da Gama win on 2026-08-13? | No (BUY) | 45% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will Santos FC win on 2026-08-13? | No (BUY) | 38% | 0.00 | 0.2% | ⏳ pendiente | — |
