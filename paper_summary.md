@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 00:07:35 (hora de Perú)
+Actualizado: 2026-08-13 00:09:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $610.54
-**Retorno acumulado:** -38.95%
+**Bankroll actual:** $561.06
+**Retorno acumulado:** -43.89%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| BBQChickenisthebesttt | 31 | 27 | 4 | +132.53 USD |
-| wr0ngw4yb3tt0r | 77 | 76 | 2 | +114.53 USD |
+| BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
+| wr0ngw4yb3tt0r | 71 | 74 | 1 | +110.26 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 5 | 0 | +43.08 USD |
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
-|  | 4 | 1 | 6 | -1.83 USD |
+|  | 3 | 1 | 2 | -1.88 USD |
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
@@ -49,13 +49,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
+| swisstony | 175 | 114 | 1 | -25.09 USD |
 | RN1 | 245 | 131 | 1 | -26.42 USD |
-| swisstony | 184 | 122 | 7 | -27.76 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | ferrariChampions2026 | 684 | 512 | 81 | -42.54 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
+| ferrariChampions2026 | 672 | 499 | 4 | -90.39 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
@@ -509,33 +510,33 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 43% | 2.92 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 43% | 3.27 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 43% | 0.91 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 43% | 90.54 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Los Angeles FC vs. Querétaro FC end | No (BUY) | 40% | 0.67 | ⏳ pendiente | — |
-| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 4.89 | ⏳ pendiente | — |
-| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 36% | 3.86 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Los Angeles FC vs. Querétaro FC end | No (BUY) | 43% | 0.68 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | No (BUY) | 61% | 0.63 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Querétaro FC win on 2026-08-12? | No (BUY) | 90% | 1.42 | ⏳ pendiente | — |
-| ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 67% | 0.99 | ⏳ pendiente | — |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 50% | 4.41 | ✅ ganada | +4.41 |
-| ferrariChampions2026 | Will Seattle Sounders FC vs. CD Guadalaj | Yes (BUY) | 46% | 1.03 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming (BO3) | LGD Gaming (BUY) | 47% | 1.26 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming (BO3) | LGD Gaming (BUY) | 48% | 1.71 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: BoomBoys vs OG - Game 1 Winner | BoomBoys (BUY) | 69% | 0.65 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Seattle Sounders FC vs. CD Guadalaj | No (BUY) | 54% | 1.04 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Seattle Sounders FC win on 2026-08- | No (BUY) | 85% | 2.24 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: BoomBoys vs OG - Game 1 Winner | BoomBoys (BUY) | 68% | 1.14 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Seattle Sounders FC vs. CD Guadalaj | Yes (BUY) | 34% | 0.70 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: BoomBoys vs OG - Game 1 Winner | BoomBoys (BUY) | 68% | 1.15 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming (BO3) | Team Falcons (BUY) | 49% | 1.16 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: BoomBoys vs OG - Game 1 Winner | BoomBoys (BUY) | 69% | 0.89 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: BoomBoys vs OG - Game 1 Winner | BoomBoys (BUY) | 64% | 0.89 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Seattle Sounders FC win on 2026-08- | Yes (BUY) | 43% | 0.98 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CD Guadalajara win on 2026-08-12? | No (BUY) | 77% | 1.69 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 48% | 4.54 | ❌ perdida | -4.54 |
-| ferrariChampions2026 | Dota 2: TEAM VISION vs Team Resilience - | Team Resilience (BUY) | 35% | 0.56 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: TEAM VISION vs Team Resilience - | Team Resilience (BUY) | 34% | 0.54 | ⏳ pendiente | — |
-|  | Spread: FC Lugano (-1.5) | NSÍ Runavík (BUY) | 51% | 2.55 | ⏳ pendiente | — |
+| swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 91% | 2.71 | ✅ ganada | +0.27 |
+| wr0ngw4yb3tt0r | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 62% | 1.35 | ⏳ pendiente | — |
+| swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 89% | 2.42 | ✅ ganada | +0.30 |
+|  | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 97% | 3.94 | ✅ ganada | +0.12 |
+| CORGI8 | Dota 2: Team Falcons vs LGD Gaming (BO3) | LGD Gaming (BUY) | 19% | 46.49 | ⏳ pendiente | — |
+| swisstony | San Diego FC vs. Club Puebla: O/U 3.5 | Under (BUY) | 59% | 1.19 | ⏳ pendiente | — |
+| swisstony | Cruzeiro EC vs. CR Flamengo: O/U 2.5 | Under (BUY) | 68% | 1.66 | ✅ ganada | +0.78 |
+|  | Will San Diego FC win on 2026-08-12? | Yes (BUY) | 55% | 1.41 | ⏳ pendiente | — |
+| swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 85% | 0.89 | ✅ ganada | +0.16 |
+|  | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 96% | 4.75 | ✅ ganada | +0.20 |
+|  | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 97% | 3.37 | ✅ ganada | +0.10 |
+| ferrariChampions2026 | Will FC Dallas win on 2026-08-12? | No (BUY) | 85% | 2.20 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Minnesota Lynx (-12.5) | Portland Fire (BUY) | 50% | 0.81 | ✅ ganada | +0.81 |
+| ferrariChampions2026 | Spread: Minnesota Lynx (-11.5) | Portland Fire (BUY) | 46% | 0.74 | ✅ ganada | +0.87 |
+|  | Spread: Los Angeles FC (-1.5) | Querétaro FC (BUY) | 45% | 3.44 | ⏳ pendiente | — |
+| RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 75% | 0.61 | ✅ ganada | +0.20 |
+| ferrariChampions2026 | Deportivo Toluca FC vs. FC Dallas: O/U 3 | Under (BUY) | 52% | 0.71 | ⏳ pendiente | — |
+|  | Spread: Golden State Valkyries (-8.5) | Chicago Sky (BUY) | 51% | 2.30 | ❌ perdida | -2.30 |
+| ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 53% | 5.58 | ❌ perdida | -5.58 |
+| wr0ngw4yb3tt0r | Spread: Chicago White Sox (-3.5) | Cincinnati Reds (BUY) | 76% | 2.63 | ❌ perdida | -2.63 |
+| ferrariChampions2026 | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 91% | 0.63 | ✅ ganada | +0.06 |
+| RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 33% | 0.58 | ✅ ganada | +1.18 |
+| ferrariChampions2026 | Will Cruzeiro EC vs. CR Flamengo end in  | No (BUY) | 73% | 0.62 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 45% | 1.27 | ✅ ganada | +1.55 |
+| wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 45% | 2.75 | ✅ ganada | +3.36 |
+| RN1 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Under (BUY) | 66% | 1.02 | ❌ perdida | -1.02 |
+| ferrariChampions2026 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Under (BUY) | 67% | 0.84 | ❌ perdida | -0.84 |
+| ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 40% | 2.23 | ❌ perdida | -2.23 |
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 48% | 1.49 | ✅ ganada | +1.61 |
+| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 73% | 0.96 | ❌ perdida | -0.96 |
