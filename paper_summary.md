@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 13:13:44 (hora de Perú)
+Actualizado: 2026-08-13 13:15:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
-| ferrariChampions2026 | 0 | 1 | 88 | +0.00 USD |
-| RN1 | 0 | 0 | 34 | +0.00 USD |
+| ferrariChampions2026 | 0 | 1 | 91 | +0.00 USD |
+| RN1 | 0 | 0 | 37 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 28 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -44,11 +44,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | uel-ucr-kps-2026-08-13-total-2pt5 | RN1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-13-total-7pt5 | RN1, ferrariChampions2026 |
 | col-hif-rak-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
+| uel-bes-hra-2026-08-13-total-2pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will PFK CSKA Sofia win on 2026-08-13? | No (BUY) | 85% | 0.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will FK Rīgas Futbola Skola vs. FK Jablo | No (BUY) | 92% | 0.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | FC Midtjylland vs. Bohemian FC: O/U 3.5 | Under (BUY) | 57% | 0.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Górnik Zabrze vs. Ferencvárosi TC: O/U 1 | Over (BUY) | 65% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Beşiktaş JK vs. FC Hradec Králové: O/U 2 | Under (BUY) | 53% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Team Heretics Academy vs ⁠Movistar  | Team Heretics Academy (BUY) | 65% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Hammarby Fotboll vs. RKS Raków Częs | No (BUY) | 75% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | FC DAC 1904 Dunajská Streda vs. FC Twent | Under (BUY) | 81% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | KF Shkëndija 79 vs. Hibernian FC: 1st Ha | Over (BUY) | 59% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -73,9 +80,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | FC St. Gallen vs. FC Sheriff Tiraspol: O | Under (BUY) | 59% | 0.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 80% | 0.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 79% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 60% | 0.00 | 0.1% | ⏳ pendiente | — |
-| swisstony | Will FC Thun win on 2026-08-13? | No (BUY) | 37% | 0.00 | 0.1% | ⏳ pendiente | — |
-| swisstony | Will Al Ahli Saudi Club win on 2026-08-1 | No (BUY) | 43% | 0.00 | 0.1% | ⏳ pendiente | — |
-| swisstony | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 90% | 0.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 66% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will FC Sion win on 2026-08-13? | No (BUY) | 40% | 0.00 | 0.2% | ⏳ pendiente | — |
