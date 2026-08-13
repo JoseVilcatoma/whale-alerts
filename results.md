@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 21:22:23 (hora de Perú)
+Actualizado: 2026-08-12 21:24:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **10**  ($858,416 en total)
+- Apuestas registradas: **12**  ($954,461 en total)
 - Resueltas: **0** — 0 ganadas / 0 perdidas (**0%** de acierto)
-- Pendientes: 10
-- Apostadores distintos: 7
+- Pendientes: 12
+- Apostadores distintos: 9
 
 ### Balance
 
@@ -29,13 +29,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 0 | 0 | 2 | — | $71,170 | — |
 | 0xheavy888 | 0 | 0 | 1 | — | $70,000 | — |
 | AV23IUa | 0 | 0 | 1 | — | $57,499 | — |
+| ferrariChampions2026 | 0 | 0 | 1 | — | $53,788 | — |
 | b0c | 0 | 0 | 2 | — | $52,793 | — |
+| wr0ngw4yb3tt0r | 0 | 0 | 1 | — | $42,257 | — |
 | lIlIlIllllIIIII | 0 | 0 | 1 | — | $31,285 | — |
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.79 (56¢) | $53,788 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.27 (44¢) | $42,257 | — | ⏳ Pendiente |
 | b0c | National Bank Open: Elina Svitolina vs Iga Swiatek | Elina Svitolina | 1.72 (58¢) | $26,397 | — | ⏳ Pendiente |
 | b0c | National Bank Open: Elina Svitolina vs Iga Swiatek | Elina Svitolina | 1.72 (58¢) | $26,397 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Elina Svitolina vs Iga Swiatek | Iga Swiatek | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
