@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 18:36:15 (hora de Perú)
+Actualizado: 2026-08-13 18:38:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **80**  ($4,372,736 en total)
+- Apuestas registradas: **81**  ($4,416,685 en total)
 - Resueltas: **66** — 40 ganadas / 26 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 33
 
 ### Balance
@@ -28,8 +28,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 3 | 3 | 5 | ⚠️ 50% (6) | $503,050 | +$53,449 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
+| AV23IUa | 1 | 2 | 2 | ⚠️ 33% (3) | $259,293 | -$43,836 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 0 | 2 | ⚠️ 100% (2) | $216,398 | +$141,199 |
-| AV23IUa | 1 | 2 | 1 | ⚠️ 33% (3) | $215,343 | -$43,836 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | Sassy-Bucket | 2 | 0 | 0 | ⚠️ 100% (2) | $139,137 | +$113,647 |
 | ferrariChampions2026 | 2 | 1 | 0 | ⚠️ 67% (3) | $111,002 | -$46,023 |
@@ -62,6 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | National Bank Open: Ben Shelton vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $43,950 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.49 (67¢) | $33,065 | — | ⏳ Pendiente |
 | Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $54,468 | — | ⏳ Pendiente |
 | BLAHBLAHBLAH-298 | National Bank Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.35 (74¢) | $32,609 | — | ⏳ Pendiente |
@@ -121,4 +122,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Vici Gaming | 2.50 (40¢) | $80,000 | -$80,000 | ❌ Perdida |
 | 0xheavy888 | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Team Liquid | 1.49 (67¢) | $33,407 | +$16,454 | ✅ Ganada |
 | Djdjdjekekek | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Vici Gaming | 3.03 (33¢) | $66,000 | -$66,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 2.13 (47¢) | $75,049 | -$75,049 | ❌ Perdida |
