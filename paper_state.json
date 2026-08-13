@@ -1,5 +1,5 @@
 {
-  "bankroll": 568.6703032149495,
+  "bankroll": 559.2456878303341,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19447,348 +19447,183 @@
       "event": "venta anticipada: ActionReaction \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner (+0.00 USD)"
     },
     {
-      "timestamp": 1786608809.7152908,
-      "bankroll": 591.96,
-      "event": "venta anticipada: ActionReaction \u2014 LoL: Kiwoom DRX vs BNK FEARX - Game 1 Winner (+0.00 USD)"
-    },
-    {
-      "timestamp": 1786609695.8406825,
-      "bankroll": 591.96,
-      "event": "venta anticipada: Weaseloftheweek \u2014 Game Handicap: Liquid (-1.5) vs Vici Gaming (+1.5) (+0.00 USD)"
-    },
-    {
-      "timestamp": 1786610847.5139596,
+      "timestamp": 1786618694.8671525,
       "bankroll": 545.47,
       "event": "lost: CORGI8 \u2014 Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage"
     },
     {
-      "timestamp": 1786610915.8533096,
-      "bankroll": 559.25,
-      "event": "venta anticipada: BBQChickenisthebesttt \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner (+13.77 USD)"
+      "timestamp": 1786618696.1927612,
+      "bankroll": 545.47,
+      "event": "won: Weaseloftheweek \u2014 Game Handicap: Liquid (-1.5) vs Vici Gaming (+1.5)"
     },
     {
-      "timestamp": 1786610948.9489694,
-      "bankroll": 559.25,
-      "event": "venta anticipada: BBQChickenisthebesttt \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 2 Winner (+0.00 USD)"
+      "timestamp": 1786618696.292909,
+      "bankroll": 545.47,
+      "event": "won: Weaseloftheweek \u2014 Game Handicap: Liquid (-1.5) vs Vici Gaming (+1.5)"
     },
     {
-      "timestamp": 1786612716.69799,
-      "bankroll": 559.25,
+      "timestamp": 1786618696.3930914,
+      "bankroll": 545.47,
+      "event": "won: Weaseloftheweek \u2014 Game Handicap: Liquid (-1.5) vs Vici Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786618696.4931924,
+      "bankroll": 545.47,
+      "event": "won: Weaseloftheweek \u2014 Game Handicap: Liquid (-1.5) vs Vici Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786618696.593324,
+      "bankroll": 545.47,
+      "event": "won: Weaseloftheweek \u2014 Game Handicap: Liquid (-1.5) vs Vici Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786618696.6934402,
+      "bankroll": 545.47,
+      "event": "won: Weaseloftheweek \u2014 Game Handicap: Liquid (-1.5) vs Vici Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786618696.7936094,
+      "bankroll": 545.47,
+      "event": "won: Weaseloftheweek \u2014 Game Handicap: Liquid (-1.5) vs Vici Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786618696.8937407,
+      "bankroll": 545.47,
+      "event": "won: Weaseloftheweek \u2014 Game Handicap: Liquid (-1.5) vs Vici Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786618696.993929,
+      "bankroll": 545.47,
+      "event": "won: Weaseloftheweek \u2014 Game Handicap: Liquid (-1.5) vs Vici Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786618697.0940282,
+      "bankroll": 545.47,
+      "event": "won: Weaseloftheweek \u2014 Game Handicap: Liquid (-1.5) vs Vici Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786618697.1941435,
+      "bankroll": 545.47,
+      "event": "won: Weaseloftheweek \u2014 Game Handicap: Liquid (-1.5) vs Vici Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786618697.884154,
+      "bankroll": 545.47,
       "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner"
     },
     {
-      "timestamp": 1786612717.29886,
-      "bankroll": 559.25,
+      "timestamp": 1786618698.2314255,
+      "bankroll": 545.47,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Aurora vs GamerLegion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786618698.331625,
+      "bankroll": 545.47,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Aurora vs GamerLegion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786618698.432142,
+      "bankroll": 545.47,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Aurora vs GamerLegion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786618698.532241,
+      "bankroll": 545.47,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Aurora vs GamerLegion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786618698.6324155,
+      "bankroll": 545.47,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Aurora vs GamerLegion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786618698.7325962,
+      "bankroll": 545.47,
       "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner"
     },
     {
-      "timestamp": 1786612717.4991307,
-      "bankroll": 559.25,
+      "timestamp": 1786618698.9329853,
+      "bankroll": 545.47,
       "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner"
     },
     {
-      "timestamp": 1786614398.5210564,
-      "bankroll": 559.25,
+      "timestamp": 1786618699.542675,
+      "bankroll": 545.47,
       "event": "lost: ferrariChampions2026 \u2014 Dota 2: Aurora vs GamerLegion - Game 1 Winner"
     },
     {
-      "timestamp": 1786614398.6211915,
-      "bankroll": 559.25,
+      "timestamp": 1786618699.6428585,
+      "bankroll": 545.47,
       "event": "lost: ferrariChampions2026 \u2014 Dota 2: Aurora vs GamerLegion - Game 1 Winner"
     },
     {
-      "timestamp": 1786614398.7213302,
+      "timestamp": 1786618700.1308837,
+      "bankroll": 545.47,
+      "event": "won: BBQChickenisthebesttt \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786618700.2310727,
+      "bankroll": 545.47,
+      "event": "won: BBQChickenisthebesttt \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786618700.3312569,
       "bankroll": 559.25,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Aurora vs GamerLegion - Game 1 Winner"
+      "event": "won: BBQChickenisthebesttt \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner"
     },
     {
-      "timestamp": 1786614398.8214834,
+      "timestamp": 1786618700.6860414,
       "bankroll": 559.25,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Aurora vs GamerLegion - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786614398.921748,
-      "bankroll": 559.25,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Aurora vs GamerLegion - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786614399.5226831,
-      "bankroll": 559.25,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Aurora vs GamerLegion - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786614399.6228645,
-      "bankroll": 559.25,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Aurora vs GamerLegion - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786614602.7970495,
-      "bankroll": 568.67,
-      "event": "venta anticipada: BBQChickenisthebesttt \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana (+9.42 USD)"
-    },
-    {
-      "timestamp": 1786615085.7327628,
-      "bankroll": 568.67,
-      "event": "venta anticipada: Weaseloftheweek \u2014 Game Handicap: TS (-1.5) vs Xtreme Gaming (+1.5) (+0.00 USD)"
-    },
-    {
-      "timestamp": 1786615583.2191052,
-      "bankroll": 568.67,
       "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Yandex vs HULIGANI - Game 1 Winner"
     },
     {
-      "timestamp": 1786615583.8202019,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Yandex vs HULIGANI - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617017.970817,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner"
-    },
-    {
-      "timestamp": 1786617018.2713087,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner"
-    },
-    {
-      "timestamp": 1786617018.4717214,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner"
-    },
-    {
-      "timestamp": 1786617018.772337,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner"
-    },
-    {
-      "timestamp": 1786617019.47379,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner"
-    },
-    {
-      "timestamp": 1786617019.5740125,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner"
-    },
-    {
-      "timestamp": 1786617019.774408,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner"
-    },
-    {
-      "timestamp": 1786617081.3623452,
-      "bankroll": 568.67,
+      "timestamp": 1786618701.004065,
+      "bankroll": 559.25,
       "event": "lost: ActionReaction \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
     },
     {
-      "timestamp": 1786617081.901745,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617082.0019643,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617082.3025467,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617082.4027617,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617083.0039544,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617083.104167,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617083.2043893,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617083.3045936,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617083.4048114,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617083.5050306,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617083.6051877,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617083.7053428,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617083.8055303,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617083.905735,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617084.355021,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617084.455242,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617084.5553958,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617084.6556084,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617084.7558563,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617084.8560722,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617084.9562929,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617085.0565116,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617085.1567256,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617085.2569456,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617085.3571625,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617085.5574718,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617085.6576865,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617085.757905,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617085.858123,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617085.9583452,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617086.0585525,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617086.359061,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617086.9209712,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617087.221579,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786617088.3235998,
-      "bankroll": 568.67,
-      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786618017.3031137,
-      "bankroll": 568.67,
+      "timestamp": 1786618701.104206,
+      "bankroll": 559.25,
       "event": "lost: ferrariChampions2026 \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner"
     },
     {
-      "timestamp": 1786618017.5035524,
-      "bankroll": 568.67,
+      "timestamp": 1786618701.3044443,
+      "bankroll": 559.25,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786618701.4045527,
+      "bankroll": 559.25,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786618701.5046513,
+      "bankroll": 559.25,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Yandex vs HULIGANI - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786618701.604788,
+      "bankroll": 559.25,
       "event": "lost: ferrariChampions2026 \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner"
     },
     {
-      "timestamp": 1786618017.603768,
-      "bankroll": 568.67,
+      "timestamp": 1786618701.7048857,
+      "bankroll": 559.25,
       "event": "lost: ferrariChampions2026 \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner"
     },
     {
-      "timestamp": 1786618017.7039855,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner"
+      "timestamp": 1786618701.805004,
+      "bankroll": 559.25,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
     },
     {
-      "timestamp": 1786618017.8042018,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner"
+      "timestamp": 1786618701.9051383,
+      "bankroll": 559.25,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner"
     },
     {
-      "timestamp": 1786618018.004617,
-      "bankroll": 568.67,
-      "event": "won: ferrariChampions2026 \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786618018.1048324,
-      "bankroll": 568.67,
+      "timestamp": 1786618702.0052462,
+      "bankroll": 559.25,
       "event": "won: ferrariChampions2026 \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner"
     }
   ]

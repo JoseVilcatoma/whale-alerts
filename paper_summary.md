@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 05:57:59 (hora de Perú)
+Actualizado: 2026-08-13 06:00:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $568.67
-**Retorno acumulado:** -43.13%
+**Bankroll actual:** $559.25
+**Retorno acumulado:** -44.08%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
-| BBQChickenisthebesttt | 39 | 27 | 11 | +163.67 USD |
+| BBQChickenisthebesttt | 36 | 27 | 3 | +154.25 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | wr0ngw4yb3tt0r | 72 | 74 | 0 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
@@ -37,12 +37,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 2 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-| ActionReaction | 2 | 1 | 8 | +0.00 USD |
+| ActionReaction | 1 | 1 | 0 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
-| Weaseloftheweek | 15 | 2 | 3 | -2.32 USD |
+| Weaseloftheweek | 11 | 2 | 4 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 3 | -7.03 USD |
@@ -52,10 +52,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 175 | 115 | 0 | -26.28 USD |
 | RN1 | 245 | 132 | 4 | -27.46 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| CORGI8 | 0 | 1 | 2 | -46.49 USD |
+| CORGI8 | 0 | 1 | 0 | -46.49 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| ferrariChampions2026 | 701 | 535 | 21 | -68.75 USD |
+| ferrariChampions2026 | 678 | 517 | 5 | -68.75 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -494,40 +494,39 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-wb-nip-2026-08-13 | BBQChickenisthebesttt, ferrariChampions2026 |
 | lol-wb-nip-2026-08-13-game1 | ActionReaction, BBQChickenisthebesttt, ferrariChampions2026 |
 | dota2-ts8-xtreme-2026-08-13-game1 | ActionReaction, ferrariChampions2026 |
-| lol-drx-fox1-2026-08-13-game1 | ActionReaction, BBQChickenisthebesttt, ferrariChampions2026 |
-| lol-wb-nip-2026-08-13-game2 | ActionReaction, BBQChickenisthebesttt, BrotherObama, TeGeeLP, ferrariChampions2026 |
+| lol-tes-lgd-2026-08-13-game1 | BBQChickenisthebesttt, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| HomeRunHazard | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming (BO3) - L | LGD Gaming (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 75% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming (BO3) - L | LGD Gaming (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming (BO3) - L | LGD Gaming (BUY) | 35% | 0.00 | ⏳ pendiente | — |
-| CORGI8 | Dota 2: TEAM VISION vs Team Falcons - Ga | Team Falcons (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| CORGI8 | Dota 2: TEAM VISION vs Team Falcons - Ga | Team Falcons (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| Weaseloftheweek | Dota 2: TEAM VISION vs Team Falcons (BO3 | Team Falcons (BUY) | 40% | 7.06 | ⏳ pendiente | — |
-| Weaseloftheweek | Dota 2: TEAM VISION vs Team Falcons (BO3 | Team Falcons (BUY) | 39% | 1.34 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK | BNK FEARX (BUY) | 71% | 11.23 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX - Game 2 Wi | BNK FEARX (BUY) | 54% | 25.88 | ⏳ pendiente | — |
-| Weaseloftheweek | Dota 2: BoomBoys vs Iron Wing (BO3) - Th | BoomBoys (BUY) | 50% | 9.44 | ⏳ pendiente | — |
-| RN1 | Counter-Strike: Just Players vs MOUZ NXT | MOUZ NXT (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| TeGeeLP | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 55% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 48% | 0.00 | 💰 vendida anticipada | +0.00 |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | BNK FEARX (BUY) | 30% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | BNK FEARX (BUY) | 30% | 0.00 | ⏳ pendiente | — |
-| ActionReaction | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | Kiwoom DRX (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| ActionReaction | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | Kiwoom DRX (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | BNK FEARX (BUY) | 45% | 0.00 | ⏳ pendiente | — |
-| TeGeeLP | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| ActionReaction | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| RN1 | Counter-Strike: Just Players vs MOUZ NXT | Just Players (BUY) | 82% | 0.00 | ⏳ pendiente | — |
-| ActionReaction | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 36% | 0.00 | ⏳ pendiente | — |
-| ActionReaction | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 36% | 0.00 | ⏳ pendiente | — |
-| ActionReaction | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | Kiwoom DRX (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| BrotherObama | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 38% | 0.00 | ⏳ pendiente | — |
-| TeGeeLP | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 62% | 0.00 | ⏳ pendiente | — |
-| RN1 | Counter-Strike: Just Players vs MOUZ NXT | Just Players (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| RN1 | Counter-Strike: Just Players vs MOUZ NXT | Just Players (BUY) | 76% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 48% | 33.04 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Top Esports vs LGD Gaming - Game 1  | Top Esports (BUY) | 51% | 1.16 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 49% | 1.12 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 84% | 0.00 | ✅ ganada | +0.00 |
+| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 39% | 0.00 | ❌ perdida | -0.00 |
+| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 43% | 0.00 | ❌ perdida | -0.00 |
+| ferrariChampions2026 | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 12% | 0.00 | ❌ perdida | -0.00 |
+| ferrariChampions2026 | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 13% | 0.00 | ❌ perdida | -0.00 |
+| ferrariChampions2026 | Dota 2: Team Yandex vs HULIGANI - Game 1 | HULIGANI (BUY) | 7% | 0.00 | ❌ perdida | -0.00 |
+| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Team Spirit (BUY) | 52% | 0.00 | ✅ ganada | +0.00 |
+| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Team Spirit (BUY) | 52% | 0.00 | ✅ ganada | +0.00 |
+| ferrariChampions2026 | LoL: Weibo Gaming vs Ninjas in Pyjamas ( | Weibo Gaming (BUY) | 29% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 18% | 0.00 | ❌ perdida | -0.00 |
+| ActionReaction | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 45% | 0.00 | ❌ perdida | -0.00 |
+| ferrariChampions2026 | Dota 2: Team Yandex vs HULIGANI - Game 1 | HULIGANI (BUY) | 14% | 0.00 | ❌ perdida | -0.00 |
+| BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 61% | 21.54 | ✅ ganada | +13.77 |
+| BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 58% | 0.00 | ✅ ganada | +0.00 |
+| BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 58% | 0.00 | ✅ ganada | +0.00 |
+| ActionReaction | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 45% | 0.00 | 💰 vendida anticipada | -0.00 |
+| BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas ( | Ninjas in Pyjamas (BUY) | 52% | 10.21 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 26% | 0.00 | ❌ perdida | -0.00 |
+| ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 33% | 0.00 | ❌ perdida | -0.00 |
+| HomeRunHazard | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
+| Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Aurora vs GamerLegion (BO3) - Th | GamerLegion (BUY) | 18% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Liquid vs Vici Gaming - Gam | Vici Gaming (BUY) | 39% | 0.00 | ❌ perdida | -0.00 |
+| Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Liquid vs Vici Gaming - Gam | Vici Gaming (BUY) | 43% | 0.00 | ❌ perdida | -0.00 |
+| ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 29% | 0.00 | ❌ perdida | -0.00 |
