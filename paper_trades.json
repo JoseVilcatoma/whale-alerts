@@ -83336,5 +83336,70 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786606254.749471,
     "fills": 2
+  },
+  {
+    "timestamp": 1786606341,
+    "timestamp_added": 1786606342.23313,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "dota2-ts8-xtreme-2026-08-13-game1",
+    "title": "Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner",
+    "outcome": "Xtreme Gaming",
+    "side": "BUY",
+    "whale_usd": 8998.168089,
+    "whale_pct": 322.997,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786606362.7510216,
+    "fills": 9
+  },
+  {
+    "timestamp": 1786606393,
+    "timestamp_added": 1786606393.3272223,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-wb-nip-2026-08-13-game1",
+    "title": "LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+    "outcome": "Weibo Gaming",
+    "side": "BUY",
+    "whale_usd": 1124.3984,
+    "whale_pct": 0.555,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 18,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction",
+      "BBQChickenisthebesttt"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786606393.8722312,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786606396,
+    "timestamp_added": 1786606396.2951162,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-wb-nip-2026-08-13",
+    "title": "LoL: Weibo Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana",
+    "outcome": "Weibo Gaming",
+    "side": "BUY",
+    "whale_usd": 293.58439999999996,
+    "whale_pct": 0.145,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BBQChickenisthebesttt"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786606396.2951243,
+    "fills": 1
   }
 ]
