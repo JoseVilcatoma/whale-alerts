@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 15:47:25 (hora de Perú)
+Actualizado: 2026-08-13 15:49:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **65**  ($3,687,403 en total)
-- Resueltas: **51** — 33 ganadas / 18 perdidas (**65%** de acierto)
-- Pendientes: 14
+- Resueltas: **55** — 34 ganadas / 21 perdidas (**62%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 29
 
 ### Balance
 
-- **Resultado de los apostadores: +$285,734** sobre $2,996,364 apostados (ROI **+9.5%**)
-- Copiando $100 fijo en cada una: **+$335** sobre $4,800 (ROI **+7.0%**)
+- **Resultado de los apostadores: +$209,070** sobre $3,157,670 apostados (ROI **+6.6%**)
+- Copiando $100 fijo en cada una: **+$179** sobre $5,200 (ROI **+3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 8 | 2 | 1 | 80% | $850,620 | +$191,038 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 9 | 2 | 0 | 82% | $850,620 | +$240,977 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
-| Weaseloftheweek | 2 | 1 | 2 | ⚠️ 67% (3) | $224,457 | +$110,752 |
+| Weaseloftheweek | 2 | 3 | 0 | ⚠️ 40% (5) | $224,457 | +$11,449 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | Sassy-Bucket | 1 | 0 | 1 | ⚠️ 100% (1) | $139,137 | +$28,600 |
 | AV23IUa | 0 | 2 | 1 | ⚠️ 0% (2) | $123,836 | -$83,036 |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NemecGhudini | 2 | 0 | 0 | ⚠️ 100% (2) | $86,190 | +$36,460 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 2 | 0 | 0 | ⚠️ 100% (2) | $72,000 | +$49,788 |
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
-| xifutloong3 | 0 | 0 | 2 | — | $63,300 | — |
+| xifutloong3 | 0 | 1 | 1 | ⚠️ 0% (1) | $63,300 | -$27,300 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
 | 111111111115 | 0 | 0 | 1 | — | $57,765 | — |
 | wr0ngw4yb3tt0r | 1 | 0 | 0 | ⚠️ 100% (1) | $42,257 | +$53,782 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Todi (Doubles): Reymond/Sanchez vs Barrena/Kicker | Reymond/Sanchez | 1.67 (60¢) | $26,026 | +$17,351 | ✅ Ganada |
 | Sassy-Bucket | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.75 (57¢) | $112,737 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | FaZe | 1.12 (89¢) | $30,374 | — | ⏳ Pendiente |
-| xifutloong3 | Seattle Mariners vs. New York Yankees | New York Yankees | 1.89 (53¢) | $27,300 | — | ⏳ Pendiente |
+| xifutloong3 | Seattle Mariners vs. New York Yankees | New York Yankees | 1.89 (53¢) | $27,300 | -$27,300 | ❌ Perdida |
 | Mamagovorila | Cincinnati Open: Ashlyn Krueger vs Lois Boisson | Ashlyn Krueger | 2.08 (48¢) | $32,239 | -$32,239 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Chicago White Sox | Cincinnati Reds | 2.22 (45¢) | $33,054 | — | ⏳ Pendiente |
 | Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $26,400 | +$28,600 | ✅ Ganada |
@@ -73,11 +73,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mamagovorila | Cincinnati Open: Martin Landaluce vs Jack Draper | Jack Draper | 1.85 (54¢) | $27,652 | -$27,652 | ❌ Perdida |
 | AV23IUa | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | FaZe | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | Legacy | 2.00 (50¢) | $36,923 | — | ⏳ Pendiente |
-| Weaseloftheweek | Seattle Mariners vs. New York Yankees | New York Yankees | 1.67 (60¢) | $69,296 | — | ⏳ Pendiente |
+| Weaseloftheweek | Seattle Mariners vs. New York Yankees | New York Yankees | 1.67 (60¢) | $69,296 | -$69,296 | ❌ Perdida |
 | highnetworth | Cincinnati Open: Martin Landaluce vs Jack Draper | Martin Landaluce | 1.92 (52¢) | $99,472 | +$91,821 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Martin Landaluce vs Jack Draper | Jack Draper | 2.08 (48¢) | $49,812 | -$49,812 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. New York Yankees | Seattle Mariners | 2.44 (41¢) | $34,704 | — | ⏳ Pendiente |
-| Weaseloftheweek | Seattle Mariners vs. New York Yankees | New York Yankees | 1.72 (58¢) | $30,006 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. New York Yankees | Seattle Mariners | 2.44 (41¢) | $34,704 | +$49,939 | ✅ Ganada |
+| Weaseloftheweek | Seattle Mariners vs. New York Yankees | New York Yankees | 1.72 (58¢) | $30,006 | -$30,006 | ❌ Perdida |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | G2 | 1.15 (87¢) | $26,841 | +$4,011 | ✅ Ganada |
 | Lakersfan111 | Counter-Strike: Aurora Gaming vs M80 - Map 1 Winner | Aurora Gaming | 1.56 (64¢) | $25,600 | +$14,400 | ✅ Ganada |
 | Marcoli | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.45 (69¢) | $49,838 | — | ⏳ Pendiente |
