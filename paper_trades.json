@@ -82663,12 +82663,13 @@
     "whale_pct": 5.854,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786601783.6736088,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 100
   },
   {
     "timestamp": 1786601823,
@@ -83074,12 +83075,13 @@
     "whale_pct": 3.687,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786602889.61754,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 100
   },
   {
     "timestamp": 1786602894,
@@ -83134,12 +83136,13 @@
     "whale_pct": 0.885,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786603072.48553,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 100
   },
   {
     "timestamp": 1786603187,
@@ -83154,12 +83157,13 @@
     "whale_pct": 1.222,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786603187.8187358,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 100
   },
   {
     "timestamp": 1786603209,
@@ -85467,6 +85471,29 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786611482.6729367,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786615111,
+    "timestamp_added": 1786615111.6454208,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-drx-fox1-2026-08-13",
+    "title": "LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 1062.664344,
+    "whale_pct": 1.974,
+    "paper_stake_usd": 11.23,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BrotherObama",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786615126.3656685,
     "fills": 2
   }
 ]
