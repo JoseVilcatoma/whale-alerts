@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:16:57 (hora de Perú)
+Actualizado: 2026-08-13 15:19:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,267.18
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| RN1 | 5 | 3 | 48 | +27.44 USD |
+| RN1 | 5 | 3 | 51 | +27.44 USD |
 | ferrariChampions2026 | 21 | 24 | 68 | +4.60 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ActionReaction | 0 | 0 | 8 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 8 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
-|  | 0 | 0 | 10 | +0.00 USD |
+|  | 0 | 0 | 12 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 3 | 8 | -1.26 USD |
 | swisstony | 11 | 5 | 53 | -3.63 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
@@ -61,11 +61,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | uel-ran1-jag-2026-08-13-total-1pt5 | RN1, swisstony |
 | uel-csk1-mta-2026-08-13-total-4pt5 | RN1, swisstony |
 | mlb-chc-wsh-2026-08-13-total-7pt5 | RN1, ferrariChampions2026 |
+| col-gen-got-2026-08-13-total-2pt5 | , RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Heart of Midlothian FC win on 2026- | No (BUY) | 88% | 1.47 | 0.1% | ⏳ pendiente | — |
+| RN1 | Will Rangers FC win on 2026-08-13? | No (BUY) | 83% | 1.98 | 0.2% | ⏳ pendiente | — |
+|  | KAA Gent vs. IFK Göteborg: O/U 2.5 | Over (BUY) | 32% | 2.19 | 0.2% | ⏳ pendiente | — |
+| RN1 | KAA Gent vs. IFK Göteborg: O/U 2.5 | Under (BUY) | 68% | 1.32 | 0.1% | ⏳ pendiente | — |
+|  | Will Viking FK win on 2026-08-14? | Yes (BUY) | 38% | 3.90 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 63% | 2.72 | 0.2% | ⏳ pendiente | — |
 | RN1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 48% | 2.70 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 48% | 9.47 | 0.7% | ⏳ pendiente | — |
@@ -91,8 +97,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will KF Shkëndija 79 win on 2026-08-13? | No (BUY) | 83% | 0.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Will PAOK win on 2026-08-13? | No (BUY) | 90% | 0.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | FC Sion vs. Noah FA: O/U 5.5 | Under (BUY) | 92% | 0.00 | 0.1% | ⏳ pendiente | — |
-| swisstony | FK Austria Wien vs. MH Beitar Jerusalem: | Under (BUY) | 82% | 0.00 | 0.1% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 0.00 | 1.0% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 0.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 38% | 0.00 | 0.8% | ⏳ pendiente | — |
-| swisstony | Spread: Al Ahli Saudi Club (-1.5) | Al Diraiyah Saudi Club (BUY) | 71% | 0.00 | 0.1% | ⏳ pendiente | — |
