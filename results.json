@@ -27059,5 +27059,44 @@
     "usd": 35428.5732,
     "odds_at_bet": 62,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1869,
+    "timestamp": 1786579418,
+    "username": "0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945",
+    "wallet": "0x6982049c65e98606f65a0ce71fdb9b61296da165",
+    "slug": "atp-smith-gill-2026-08-10",
+    "title": "Brownsburg: Colton Smith vs Felix Gill",
+    "outcome": "Felix Gill",
+    "side": "BUY",
+    "usd": 18782.019998,
+    "odds_at_bet": 75,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1870,
+    "timestamp": 1786579566,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-korneev-charaev-2026-08-12",
+    "title": "Cincinnati Open, Qualification: Alina Korneeva vs Alina Charaeva",
+    "outcome": "Alina Korneeva",
+    "side": "BUY",
+    "usd": 31907.6196,
+    "odds_at_bet": 68,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1871,
+    "timestamp": 1786579566,
+    "username": "0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57",
+    "wallet": "0xd8b4d1e58dc7d60ddc886bcb9d456eb5da887773",
+    "slug": "wta-korneev-charaev-2026-08-12",
+    "title": "Cincinnati Open, Qualification: Alina Korneeva vs Alina Charaeva",
+    "outcome": "Alina Charaeva",
+    "side": "BUY",
+    "usd": 19785.3888,
+    "odds_at_bet": 31,
+    "status": "pending"
   }
 ]
