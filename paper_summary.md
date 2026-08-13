@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:27:20 (hora de Perú)
+Actualizado: 2026-08-13 15:29:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,267.31
-**Retorno acumulado:** +26.73%
-**Peor caída desde un máximo (drawdown):** 11.24%
+**Bankroll actual:** $1,017.31
+**Retorno acumulado:** +1.73%
+**Peor caída desde un máximo (drawdown):** 21.51%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 6
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -20,7 +20,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
-| ActionReaction | 0 | 0 | 8 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 8 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
 |  | 0 | 0 | 13 | +0.00 USD |
@@ -28,6 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 0 | 3 | 8 | -1.26 USD |
 | swisstony | 13 | 5 | 51 | -3.63 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
+| ActionReaction | 0 | 1 | 7 | -250.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
