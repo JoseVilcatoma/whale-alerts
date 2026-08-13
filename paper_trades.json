@@ -84463,5 +84463,72 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786608400.0879776,
     "fills": 4
+  },
+  {
+    "timestamp": 1786608511,
+    "timestamp_added": 1786608512.2207742,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-drx-fox1-2026-08-13",
+    "title": "LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "whale_usd": 1999.9999990000001,
+    "whale_pct": 14.404,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BBQChickenisthebesttt"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786608512.2207818,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786608511,
+    "timestamp_added": 1786608512.7672002,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-drx-fox1-2026-08-13",
+    "title": "LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 2443.7968569999994,
+    "whale_pct": 1.391,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BBQChickenisthebesttt",
+      "BrotherObama"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786608512.767207,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786608520,
+    "timestamp_added": 1786608520.4800768,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ts8-xtreme-2026-08-13-game1",
+    "title": "Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 1143.109985,
+    "whale_pct": 0.651,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786608529.996914,
+    "fills": 4
   }
 ]
