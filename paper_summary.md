@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 13:01:11 (hora de Perú)
+Actualizado: 2026-08-13 13:03:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 81 | +0.00 USD |
-| RN1 | 0 | 0 | 15 | +0.00 USD |
+| RN1 | 0 | 0 | 21 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 20 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -39,6 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cin-cws-2026-08-13-total-8pt5 | SDTrading, Sassy-Bucket |
 | mlb-cin-cws-2026-08-13-total-9pt5 | Sassy-Bucket, wr0ngw4yb3tt0r |
 | uel-gor1-ftc-2026-08-13-gor1 | RN1, ferrariChampions2026 |
+| uel-ucr-kps-2026-08-13-total-2pt5 | RN1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-13-total-7pt5 | RN1, ferrariChampions2026 |
 | col-hif-rak-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
 
@@ -46,6 +47,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will FC Sion win on 2026-08-13? | No (BUY) | 40% | 0.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 80% | 0.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 51% | 0.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 52% | 0.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Will RKS Raków Częstochowa win on 2026-0 | No (BUY) | 56% | 0.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 79% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 53% | 0.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: FK Jablonec (-1.5) | FK Rīgas Futbola Skola (BUY) | 87% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Hammarby Fotboll vs. RKS Raków Częstocho | Over (BUY) | 79% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -70,9 +77,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Seattle Mariners (BUY) | 56% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Miami Marlins: O/ | Over (BUY) | 42% | 0.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Nordsjælland win on 2026-08-13? | Yes (BUY) | 95% | 0.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Hammarby Fotboll vs. RKS Raków Częstocho | Over (BUY) | 82% | 0.00 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Cincinnati Reds (-1.5) | Cincinnati Reds (BUY) | 52% | 0.00 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 38% | 0.00 | 2.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Pcific Esports (BUY) | 24% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Pcific Esports (BUY) | 11% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 34% | 0.00 | 6.4% | ⏳ pendiente | — |
