@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 14:32:59 (hora de Perú)
+Actualizado: 2026-08-13 14:35:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,248.14
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 8 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 6 | +0.00 USD |
-| CORGI8 | 0 | 0 | 3 | +0.00 USD |
+| CORGI8 | 0 | 0 | 4 | +0.00 USD |
 |  | 0 | 0 | 5 | +0.00 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 
@@ -63,6 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 0.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 38% | 0.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | Spread: Al Ahli Saudi Club (-1.5) | Al Diraiyah Saudi Club (BUY) | 71% | 0.00 | 0.1% | ⏳ pendiente | — |
 |  | Al Shabab Saudi Club vs. Al Qadisiyah Sa | Over (BUY) | 50% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -92,4 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 46% | 3.04 | 0.2% | ⏳ pendiente | — |
 | swisstony | RSC Anderlecht vs. PAOK: O/U 1.5 | Over (BUY) | 100% | 3.58 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 51% | 1.83 | 0.1% | ⏳ pendiente | — |
-| swisstony | Rangers FC vs. Jagiellonia Białystok: O/ | Over (BUY) | 87% | 1.78 | 0.1% | ⏳ pendiente | — |

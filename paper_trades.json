@@ -6086,5 +6086,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786649571.4288857,
     "fills": 1
+  },
+  {
+    "timestamp": 1786649674,
+    "timestamp_added": 1786649674.837597,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-xtreme-gl-2026-08-13",
+    "title": "Dota 2: Xtreme Gaming vs GamerLegion (BO3) - The International Group Stage",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "whale_usd": 274.638,
+    "whale_pct": 0.493,
+    "whale_value_at_open": 55722.9857,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 26,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786649674.8376038,
+    "fills": 1
   }
 ]
