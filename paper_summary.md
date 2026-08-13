@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 02:29:49 (hora de Perú)
+Actualizado: 2026-08-13 02:31:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $591.96
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 2 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | CORGI8 | 0 | 0 | 1 | +0.00 USD |
-| ActionReaction | 0 | 0 | 1 | +0.00 USD |
+| ActionReaction | 1 | 0 | 0 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| ferrariChampions2026 | 674 | 501 | 12 | -68.75 USD |
+| ferrariChampions2026 | 674 | 501 | 13 | -68.75 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -496,10 +496,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: Team Yandex vs HULIGANI - Game 1 | HULIGANI (BUY) | 14% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 61% | 21.54 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| ActionReaction | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 45% | 0.00 | ⏳ pendiente | — |
+| ActionReaction | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 45% | 0.00 | 💰 vendida anticipada | -0.00 |
 | BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas ( | Ninjas in Pyjamas (BUY) | 52% | 10.21 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 26% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 33% | 0.00 | ⏳ pendiente | — |
@@ -517,7 +518,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Vici Gaming - Gam | Team Liquid (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 2 W | GamerLegion (BUY) | 26% | 0.00 | ⏳ pendiente | — |
-| Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
