@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 10:57:34 (hora de Perú)
+Actualizado: 2026-08-13 10:59:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $120.18
@@ -42,14 +42,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
-| Lakersfan111 | 4 | 4 | 1 | -2.55 USD |
+| Lakersfan111 | 4 | 4 | 2 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
 | swisstony | 175 | 115 | 10 | -26.28 USD |
-| RN1 | 245 | 132 | 0 | -27.46 USD |
+| RN1 | 245 | 132 | 1 | -27.46 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | CORGI8 | 0 | 1 | 1 | -46.49 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -501,11 +501,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-tex-laa-2026-08-13-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-atl-conn-2026-08-13-spread-away-9pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | cs2-big5-g2-2026-08-13-game2 | , Weaseloftheweek, ferrariChampions2026 |
+| col-tob-par-2026-08-13-total-1pt5 | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Tobyl FK vs. FK Partizan Beograd: O/U 1. | Over (BUY) | 81% | 0.19 | ⏳ pendiente | — |
+| Lakersfan111 | Map Handicap: FaZe (-1.5) vs Legacy (+1. | Legacy (BUY) | 73% | 0.15 | ⏳ pendiente | — |
 | swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 2. | Over (BUY) | 46% | 0.13 | ⏳ pendiente | — |
 | swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 1. | Over (BUY) | 81% | 0.60 | ⏳ pendiente | — |
 | swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 4. | Under (BUY) | 94% | 0.17 | ⏳ pendiente | — |
@@ -534,5 +537,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 69% | 2.32 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | BIG (BUY) | 30% | 1.58 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 69% | 1.50 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Aurora Gaming vs M80 - M | Aurora Gaming (BUY) | 89% | 20.23 | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 81% | 0.00 | ⏳ pendiente | — |
