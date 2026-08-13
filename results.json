@@ -559,5 +559,20 @@
     "status": "pending",
     "ultimo_fill": 1786620289,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 83,
+    "timestamp": 1786622295,
+    "username": "vv-vv",
+    "wallet": "0xdf44c3e8ce0a3f66dd4cdf7688e1f23500d770f1",
+    "slug": "lol-gen-hle1-2026-08-13",
+    "title": "LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 25318.459998,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1786622295,
+    "fills": 1
   }
 ]
