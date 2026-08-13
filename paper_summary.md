@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 18:52:25 (hora de Perú)
+Actualizado: 2026-08-13 18:54:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,140.29
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 2 | 3 | 3 | +75.24 USD |
 | swisstony | 36 | 10 | 9 | +21.58 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| ferrariChampions2026 | 56 | 50 | 61 | +10.27 USD |
+| ferrariChampions2026 | 56 | 50 | 64 | +10.27 USD |
 | RN1 | 24 | 23 | 45 | +2.60 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 15 | +0.00 USD |
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 0 | 0 | 16 | +0.00 USD |
 |  | 0 | 0 | 2 | +0.00 USD |
 | Nooserac | 1 | 1 | 0 | -0.08 USD |
-| wr0ngw4yb3tt0r | 0 | 7 | 14 | -15.12 USD |
+| wr0ngw4yb3tt0r | 0 | 7 | 18 | -15.12 USD |
 | Lakersfan111 | 0 | 3 | 0 | -45.49 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 1 | 6 | 0 | -250.00 USD |
@@ -74,13 +74,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sud-san-mac-2026-08-13-first-half-total-2pt5 | RN1, cigarettes |
 | sud-san-mac-2026-08-13-total-3pt5 | RN1, UpTheBlues, ferrariChampions2026 |
 | lib-mir-lqu-2026-08-13-total-2pt5 | , ferrariChampions2026 |
-| wnba-atl-conn-2026-08-13 | 1winstreak1, swisstony |
+| wnba-atl-conn-2026-08-13 | 1winstreak1, ferrariChampions2026, swisstony |
 | mlb-phi-min-2026-08-13-total-10pt5 | , 1winstreak1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 62% | 0.00 | 1.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 61% | 0.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Red Feet vs QUINTESSÊNCI | Red Feet (BUY) | 72% | 0.00 | 0.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | LAC vs. HOU: O/U 37.5 | Over (BUY) | 51% | 0.00 | 6.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 62% | 0.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Atlanta Dream vs. Connecticut Sun | Atlanta Dream (BUY) | 94% | 0.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York City FC vs. Club Necaxa: O/U 2. | Over (BUY) | 52% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 59% | 0.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Red Feet vs QUINTESSÊNCI | QUINTESSÊNCIA (BUY) | 30% | 0.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 49% | 0.00 | 0.9% | ⏳ pendiente | — |
@@ -104,10 +111,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Atlanta Dream vs. Connecticut Sun: O/U 1 | Under (BUY) | 67% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 61% | 0.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Union vs. Club Santos Lagun | Over (BUY) | 38% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 52% | 0.00 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 59% | 0.00 | 1.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Lions vs. Bengals | Bengals (BUY) | 65% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 64% | 3.33 | 7.1% | ⏳ pendiente | — |
-| swisstony | Spread: Mirassol FC (-1.5) | LDU de Quito (BUY) | 80% | 3.36 | 0.3% | ⏳ pendiente | — |
-| swisstony | Atlanta Dream vs. Connecticut Sun | Atlanta Dream (BUY) | 91% | 2.75 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Philadelphia Union vs. Club Santos Lagun | Over (BUY) | 45% | 1.93 | 0.2% | ⏳ pendiente | — |
