@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 15:10:40 (hora de Perú)
+Actualizado: 2026-08-13 15:12:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **63**  ($3,619,161 en total)
-- Resueltas: **48** — 30 ganadas / 18 perdidas (**62%** de acierto)
+- Apuestas registradas: **64**  ($3,651,403 en total)
+- Resueltas: **49** — 31 ganadas / 18 perdidas (**63%** de acierto)
 - Pendientes: 15
-- Apostadores distintos: 28
+- Apostadores distintos: 29
 
 ### Balance
 
-- **Resultado de los apostadores: +$252,696** sobre $2,903,460 apostados (ROI **+8.7%**)
-- Copiando $100 fijo en cada una: **+$222** sobre $4,500 (ROI **+4.9%**)
+- **Resultado de los apostadores: +$270,046** sobre $2,929,486 apostados (ROI **+9.2%**)
+- Copiando $100 fijo en cada una: **+$288** sobre $4,600 (ROI **+6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,11 +44,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 0 | 0 | 1 | — | $57,765 | — |
 | wr0ngw4yb3tt0r | 1 | 0 | 0 | ⚠️ 100% (1) | $42,257 | +$53,782 |
 | hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
+| Mylifeisover | 0 | 0 | 1 | — | $32,241 | — |
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
 | xifutloong3 | 0 | 0 | 1 | — | $27,300 | — |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 1 | — | $26,026 | — |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,026 | +$17,351 |
 | madwish355 | 1 | 0 | 0 | ⚠️ 100% (1) | $25,652 | +$5,254 |
 | Lakersfan111 | 1 | 0 | 0 | ⚠️ 100% (1) | $25,600 | +$14,400 |
 | vv-vv | 1 | 0 | 0 | ⚠️ 100% (1) | $25,318 | +$7,563 |
@@ -57,7 +58,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Todi (Doubles): Reymond/Sanchez vs Barrena/Kicker | Reymond/Sanchez | 1.67 (60¢) | $26,026 | — | ⏳ Pendiente |
+| Mylifeisover | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.89 (53¢) | $32,241 | — | ⏳ Pendiente |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Todi (Doubles): Reymond/Sanchez vs Barrena/Kicker | Reymond/Sanchez | 1.67 (60¢) | $26,026 | +$17,351 | ✅ Ganada |
 | Sassy-Bucket | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.75 (57¢) | $112,737 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | FaZe | 1.12 (89¢) | $30,374 | — | ⏳ Pendiente |
 | xifutloong3 | Seattle Mariners vs. New York Yankees | New York Yankees | 1.89 (53¢) | $27,300 | — | ⏳ Pendiente |
@@ -116,4 +118,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | National Bank Open: Elina Svitolina vs Iga Swiatek | Elina Svitolina | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $46,170 | +$61,202 | ✅ Ganada |
 | AV23IUa | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.75 (57¢) | $57,499 | -$57,499 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | BoomBoys | 1.43 (70¢) | $364,470 | +$156,202 | ✅ Ganada |
