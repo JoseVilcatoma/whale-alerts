@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 12:23:47 (hora de Perú)
+Actualizado: 2026-08-13 12:25:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 0 | 0 | 16 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
-| ActionReaction | 0 | 0 | 2 | +0.00 USD |
+| ActionReaction | 0 | 0 | 4 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | SDTrading | 0 | 0 | 1 | +0.00 USD |
 
@@ -41,6 +41,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 58% | 0.00 | 14.9% | ⏳ pendiente | — |
+| ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 53% | 0.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Skillcamp Esport vs Karmine Corp Bl | Karmine Corp Blue (BUY) | 88% | 0.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Joblife (BUY) | 69% | 0.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Pcific Esports (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -69,5 +71,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe - Map 1 W | FaZe (BUY) | 74% | 0.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe - Map 1 W | Legacy (BUY) | 25% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe - Map 1 W | FaZe (BUY) | 70% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe - Map 1 W | FaZe (BUY) | 73% | 0.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Astralis (BUY) | 27% | 0.00 | 0.2% | ⏳ pendiente | — |
