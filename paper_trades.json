@@ -78321,7 +78321,7 @@
     "whale_pct": 0.131,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 19,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -79031,8 +79031,8 @@
     "whale_pct": 0.201,
     "paper_stake_usd": 1.28,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.28,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -79578,8 +79578,8 @@
     "whale_pct": 0.104,
     "paper_stake_usd": 0.67,
     "odds_at_bet": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.45,
     "overlaps_with": [
       "UpTheBlues"
     ],
