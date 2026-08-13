@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 11:19:45 (hora de Perú)
+Actualizado: 2026-08-13 11:21:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,18 +15,27 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 7 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 9 | +0.00 USD |
 | RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
+| swisstony | 0 | 0 | 4 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
-_Todavía no hubo coincidencias._
+| Mercado | Vigilados que coincidieron |
+|---|---|
+| col-qar-dyn-2026-08-13-total-2pt5 | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | FC Flora vs. Inter Club d'Escaldes: O/U  | Under (BUY) | 81% | 1.22 | 0.1% | ⏳ pendiente | — |
+| swisstony | Ilves Tampere vs. HNK Rijeka: Both Teams | No (BUY) | 59% | 1.28 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: FC Lugano (-1.5) | FC Lugano (BUY) | 46% | 3.14 | 0.3% | ⏳ pendiente | — |
+| swisstony | Qarabağ Ağdam FK vs. FK Dynamo Kyiv: O/U | Under (BUY) | 40% | 1.24 | 0.1% | ⏳ pendiente | — |
+| swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 5. | Under (BUY) | 98% | 10.07 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Ilves Tampere vs. HNK Rijeka: O/U 1.5 | Over (BUY) | 60% | 1.32 | 0.1% | ⏳ pendiente | — |
 | RN1 | Ilves Tampere vs. HNK Rijeka: O/U 2.5 | Over (BUY) | 33% | 1.27 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Pcific Esports (BUY) | 56% | 1.31 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Universitatea Craiova CS (-1.5) | Universitatea Craiova CS (BUY) | 47% | 1.49 | 0.1% | ⏳ pendiente | — |
