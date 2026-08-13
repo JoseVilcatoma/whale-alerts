@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 18:07:05 (hora de Perú)
+Actualizado: 2026-08-13 18:09:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **78**  ($4,285,202 en total)
-- Resueltas: **61** — 37 ganadas / 24 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **62** — 38 ganadas / 24 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 33
 
 ### Balance
 
-- **Resultado de los apostadores: +$270,309** sobre $3,467,668 apostados (ROI **+7.8%**)
-- Copiando $100 fijo en cada una: **+$149** sobre $5,800 (ROI **+2.6%**)
+- **Resultado de los apostadores: +$277,732** sobre $3,517,346 apostados (ROI **+7.9%**)
+- Copiando $100 fijo en cada una: **+$164** sobre $5,900 (ROI **+2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 9 | 2 | 1 | 82% | $900,299 | +$240,977 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 10 | 2 | 0 | 83% | $900,299 | +$248,400 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 3 | 3 | 4 | ⚠️ 50% (6) | $448,581 | +$53,449 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
@@ -69,7 +69,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $27,024 | — | ⏳ Pendiente |
 | Weaseloftheweek | Philadelphia Phillies vs. Minnesota Twins | Minnesota Twins | 1.96 (51¢) | $78,606 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.82 (55¢) | $91,507 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Jan Choinski | Thiago Agustin Tirante | 1.15 (87¢) | $49,678 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Jan Choinski | Thiago Agustin Tirante | 1.15 (87¢) | $49,678 | +$7,423 | ✅ Ganada |
 | aaditp | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 2.70 (37¢) | $37,966 | -$37,966 | ❌ Perdida |
 | Weaseloftheweek | Chicago Cubs vs. Washington Nationals | Washington Nationals | 1.72 (58¢) | $58,000 | +$42,000 | ✅ Ganada |
 | Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $33,507 | — | ⏳ Pendiente |
