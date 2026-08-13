@@ -1180,5 +1180,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786639184.0466185,
     "fills": 1
+  },
+  {
+    "timestamp": 1786639215,
+    "timestamp_added": 1786639215.947413,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dp-bgt-2026-08-13",
+    "title": "LoL: Dark Passage vs BoostGate Esports (BO3) - TCL Play-Ins",
+    "outcome": "Dark Passage",
+    "side": "BUY",
+    "whale_usd": 981.0855999999999,
+    "whale_pct": 0.181,
+    "whale_value_at_open": 540957.3607,
+    "paper_stake_usd": 1.81,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786639215.9474175,
+    "fills": 1
   }
 ]
