@@ -1,5 +1,5 @@
 {
-  "bankroll": 552.6344619633045,
+  "bankroll": 551.8011286299712,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19080,6 +19080,21 @@
       "timestamp": 1786588278.3799078,
       "bankroll": 552.63,
       "event": "lost: RN1 \u2014 Spread: New York Yankees (-2.5)"
+    },
+    {
+      "timestamp": 1786588842.630407,
+      "bankroll": 552.63,
+      "event": "won: UpTheBlues \u2014 Will SE Palmeiras vs. Club Cerro Porte\u00f1o end in a draw?"
+    },
+    {
+      "timestamp": 1786588844.2435515,
+      "bankroll": 551.35,
+      "event": "lost: RN1 \u2014 Will SE Palmeiras vs. Club Cerro Porte\u00f1o end in a draw?"
+    },
+    {
+      "timestamp": 1786588844.7618306,
+      "bankroll": 551.8,
+      "event": "won: RN1 \u2014 Will SE Palmeiras vs. Club Cerro Porte\u00f1o end in a draw?"
     }
   ]
 }
