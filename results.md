@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 19:00:59 (hora de Perú)
+Actualizado: 2026-08-12 19:03:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2060**  ($55,321,712 en total)
-- Resueltas: **1358** — 806 ganadas / 552 perdidas (**59%** de acierto)
-- Pendientes: 702
+- Apuestas registradas: **2075**  ($55,841,655 en total)
+- Resueltas: **1360** — 808 ganadas / 552 perdidas (**59%** de acierto)
+- Pendientes: 715
 - Apostadores distintos: 180
 
 ### Balance
 
-- **Resultado de los apostadores: -$263,263** sobre $32,066,703 apostados (ROI **-0.8%**)
+- **Resultado de los apostadores: -$247,763** sobre $32,096,703 apostados (ROI **-0.8%**)
 - Copiando $100 fijo en cada una: **-$943** sobre $131,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -24,20 +24,20 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 57 | 43% | $9,021,723 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 60 | 43% | $9,201,554 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 31 | 35% | $3,395,143 | -$564,452 |
-| ferrariChampions2026 | 105 | 32 | 51 | 77% | $2,667,269 | +$168,085 |
+| ferrariChampions2026 | 105 | 32 | 57 | 77% | $2,736,642 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 36 | 0% | $2,314,158 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
 | Weaseloftheweek | 19 | 2 | 9 | 90% | $2,010,911 | +$872,236 |
 | BreakTheBank | 0 | 12 | 10 | 0% | $1,543,814 | -$803,506 |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 0 | 0 | 14 | — | $806,249 | — |
 | wr0ngw4yb3tt0r | 9 | 6 | 16 | 60% | $751,114 | +$13,912 |
 | Sassy-Bucket | 16 | 16 | 3 | 50% | $724,219 | -$117,224 |
 | S-Works | 0 | 0 | 6 | — | $688,936 | — |
 | musholius722 | 0 | 0 | 2 | — | $681,015 | — |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 0 | 0 | 10 | — | $606,368 | — |
 | texaskid | 18 | 0 | 0 | 100% | $598,663 | +$455,165 |
 | SDTrading | 25 | 6 | 0 | 81% | $566,130 | +$328,056 |
 | HongYunX | 0 | 0 | 3 | — | $519,007 | — |
@@ -61,9 +61,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | casualbet2020 | 0 | 0 | 6 | — | $304,949 | — |
 | basementdweller3000 | 6 | 3 | 6 | 67% | $282,034 | +$34,747 |
 | five5120 | 7 | 9 | 2 | 44% | $266,115 | -$84,525 |
+| xifutloong3 | 6 | 0 | 2 | ⚠️ 100% (6) | $261,181 | +$142,407 |
 | ThornyDevil | 2 | 6 | 1 | 25% | $254,880 | -$207,394 |
 | DonaldinhoTrumpito | 0 | 0 | 13 | — | $244,529 | — |
-| TAIWANNUMBERONE | 11 | 1 | 3 | 92% | $217,012 | +$88,234 |
 
 _(mostrando los 40 de mayor monto, de 180 en total)_
 
@@ -71,6 +71,21 @@ _(mostrando los 40 de mayor monto, de 180 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 2.27 (44¢) | $73,806 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.79 (56¢) | $12,093 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.79 (56¢) | $12,002 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.79 (56¢) | $58,315 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.10 (91¢) | $14,557 | — | ⏳ Pendiente |
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 2.44 (41¢) | $77,482 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.69 (59¢) | $106,958 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.69 (59¢) | $10,884 | — | ⏳ Pendiente |
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 2.38 (42¢) | $19,611 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.72 (58¢) | $10,699 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.72 (58¢) | $12,005 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.72 (58¢) | $11,691 | — | ⏳ Pendiente |
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 2.38 (42¢) | $28,982 | — | ⏳ Pendiente |
+| xifutloong3 | Cincinnati Reds vs. Chicago White Sox | Chicago White Sox | 1.61 (62¢) | $35,429 | — | ⏳ Pendiente |
+| xifutloong3 | Cincinnati Reds vs. Chicago White Sox | Chicago White Sox | 1.61 (62¢) | $35,429 | — | ⏳ Pendiente |
 | icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $24,734 | — | ⏳ Pendiente |
 | icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $24,734 | — | ⏳ Pendiente |
 | icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $10,200 | — | ⏳ Pendiente |
@@ -101,8 +116,8 @@ _(mostrando los 40 de mayor monto, de 180 en total)_
 | tennischamp | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.32 (76¢) | $17,018 | — | ⏳ Pendiente |
 | afraz | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.23 (81¢) | $10,601 | — | ⏳ Pendiente |
 | afraz | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.23 (81¢) | $10,601 | — | ⏳ Pendiente |
-| Ditto321 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.67 (60¢) | $15,000 | — | ⏳ Pendiente |
-| Ditto321 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.67 (60¢) | $15,000 | — | ⏳ Pendiente |
+| Ditto321 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.67 (60¢) | $15,000 | +$7,750 | 💰 Vendida antes |
+| Ditto321 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.67 (60¢) | $15,000 | +$7,750 | 💰 Vendida antes |
 | Sassy-Bucket | New York Mets vs. Atlanta Braves | New York Mets | 2.70 (37¢) | $12,603 | — | ⏳ Pendiente |
 | Sassy-Bucket | New York Mets vs. Atlanta Braves | New York Mets | 2.70 (37¢) | $12,603 | — | ⏳ Pendiente |
 | ferrariChampions2026 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 2.70 (37¢) | $19,362 | — | ⏳ Pendiente |
@@ -116,18 +131,3 @@ _(mostrando los 40 de mayor monto, de 180 en total)_
 | justbusiness1 | Will CF Monterrey win on 2026-08-12? | Yes | 2.04 (49¢) | $28,905 | — | ⏳ Pendiente |
 | mikesports | Will CF Monterrey win on 2026-08-12? | No | 1.96 (51¢) | $29,386 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.79 (56¢) | $25,511 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.79 (56¢) | $25,511 | — | ⏳ Pendiente |
-| mikesports | Will CF Monterrey win on 2026-08-12? | No | 1.96 (51¢) | $11,038 | — | ⏳ Pendiente |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes | 2.04 (49¢) | $10,556 | — | ⏳ Pendiente |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes | 2.04 (49¢) | $10,556 | — | ⏳ Pendiente |
-| mikesports | Will CF Monterrey win on 2026-08-12? | No | 1.96 (51¢) | $11,038 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.72 (58¢) | $12,146 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.72 (58¢) | $12,146 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.72 (58¢) | $17,341 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.72 (58¢) | $17,341 | — | ⏳ Pendiente |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes | 2.08 (48¢) | $10,762 | — | ⏳ Pendiente |
-| bloodmaster | LoL: The Otter Side vs NORTHERNGRADE ESPORTS (BO3) - LPLOL Group Stage | The Otter Side | 1.08 (93¢) | $18,081 | — | ⏳ Pendiente |
-| bloodmaster | LoL: The Otter Side vs NORTHERNGRADE ESPORTS (BO3) - LPLOL Group Stage | The Otter Side | 1.08 (93¢) | $18,081 | — | ⏳ Pendiente |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes | 2.04 (49¢) | $10,265 | — | ⏳ Pendiente |
-| theowalcott | Will CF Monterrey win on 2026-08-12? | Yes | 2.04 (49¢) | $10,265 | — | ⏳ Pendiente |
-| 0x076d…8d4c | Will Inter Miami CF win on 2026-08-12? | No | 1.82 (55¢) | $15,395 | — | ⏳ Pendiente |
