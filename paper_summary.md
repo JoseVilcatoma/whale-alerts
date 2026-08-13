@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 14:16:23 (hora de Perú)
+Actualizado: 2026-08-13 14:18:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,248.14
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | ferrariChampions2026 | 5 | 6 | 97 | +5.38 USD |
 | RN1 | 2 | 1 | 45 | +1.64 USD |
-| swisstony | 5 | 0 | 49 | +1.09 USD |
+| swisstony | 5 | 0 | 53 | +1.09 USD |
 | wr0ngw4yb3tt0r | 0 | 1 | 9 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -63,6 +63,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Spread: FC Thun (-1.5) | KF Víkingur (BUY) | 100% | 0.00 | 0.3% | ⏳ pendiente | — |
+| swisstony | FC Vaduz vs. FC Inter Turku: O/U 4.5 | Under (BUY) | 78% | 0.00 | 0.1% | ⏳ pendiente | — |
+| swisstony | Will Al Qadisiyah Saudi Club win on 2026 | No (BUY) | 53% | 0.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Spread: FC Sheriff Tiraspol (-1.5) | FC St. Gallen (BUY) | 100% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 64% | 102.32 ⚠️ | 178.4% | ⏳ pendiente | — |
 | swisstony | PFK CSKA Sofia vs. MH Maccabi Tel Aviv:  | Under (BUY) | 95% | 1.64 | 0.1% | ⏳ pendiente | — |
 | swisstony | Will Al Diraiyah Saudi Club win on 2026- | No (BUY) | 92% | 3.44 | 0.3% | ⏳ pendiente | — |
@@ -89,7 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | RSC Anderlecht vs. PAOK: Both Teams to S | Yes (BUY) | 71% | 2.20 | 0.2% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Spirit vs Aurora (BO3) - Th | Aurora (BUY) | 45% | 206.34 | 16.6% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Spirit vs Aurora (BO3) - Th | Aurora (BUY) | 45% | 311.61 ⚠️ | 40.6% | ⏳ pendiente | — |
-| swisstony | Will RSC Anderlecht win on 2026-08-13? | Yes (BUY) | 61% | 2.07 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 57% | 6.07 | 0.5% | ⏳ pendiente | — |
-| swisstony | Rangers FC vs. Jagiellonia Białystok: O/ | Over (BUY) | 100% | 2.08 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 57% | 9.28 | 0.7% | ⏳ pendiente | — |
