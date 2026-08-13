@@ -1069,5 +1069,20 @@
     "status": "pending",
     "ultimo_fill": 1786656122,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 142,
+    "timestamp": 1786656226,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "wta-swiatek-rybakin-2026-08-13",
+    "title": "National Bank Open: Iga Swiatek vs Elena Rybakina",
+    "outcome": "Iga Swiatek",
+    "side": "BUY",
+    "usd": 91507.229,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1786656226,
+    "fills": 1
   }
 ]

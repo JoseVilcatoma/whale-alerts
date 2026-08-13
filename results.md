@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 16:22:20 (hora de Perú)
+Actualizado: 2026-08-13 16:24:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **71**  ($3,920,542 en total)
+- Apuestas registradas: **72**  ($4,012,049 en total)
 - Resueltas: **56** — 35 ganadas / 21 perdidas (**62%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 30
 
 ### Balance
@@ -28,10 +28,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 2 | 3 | 3 | ⚠️ 40% (5) | $342,952 | +$11,449 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
+| AV23IUa | 0 | 2 | 2 | ⚠️ 0% (2) | $215,343 | -$83,036 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 0 | 1 | ⚠️ 100% (2) | $139,254 | +$141,199 |
 | Sassy-Bucket | 1 | 0 | 1 | ⚠️ 100% (1) | $139,137 | +$28,600 |
-| AV23IUa | 0 | 2 | 1 | ⚠️ 0% (2) | $123,836 | -$83,036 |
 | ferrariChampions2026 | 1 | 1 | 1 | ⚠️ 50% (2) | $111,002 | -$49,777 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 0 | 1 | ⚠️ 100% (2) | $101,645 | +$19,963 |
 | TennisLove | 0 | 0 | 1 | — | $100,000 | — |
@@ -59,6 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | National Bank Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.82 (55¢) | $91,507 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Jan Choinski | Thiago Agustin Tirante | 1.15 (87¢) | $49,678 | — | ⏳ Pendiente |
 | aaditp | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 2.70 (37¢) | $37,966 | — | ⏳ Pendiente |
 | Weaseloftheweek | Chicago Cubs vs. Washington Nationals | Washington Nationals | 1.72 (58¢) | $58,000 | — | ⏳ Pendiente |
@@ -118,4 +119,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xheavy888 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.30 (77¢) | $60,801 | +$18,161 | ✅ Ganada |
 | NemecGhudini | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.28 (78¢) | $54,600 | +$15,400 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.27 (79¢) | $135,183 | +$35,935 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.27 (44¢) | $79,200 | +$100,800 | ✅ Ganada |
