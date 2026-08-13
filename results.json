@@ -904,5 +904,20 @@
     "status": "pending",
     "ultimo_fill": 1786644235,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 120,
+    "timestamp": 1786645745,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-lgc-faze-2026-08-13",
+    "title": "Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 30374.0891,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1786645745,
+    "fills": 1
   }
 ]
