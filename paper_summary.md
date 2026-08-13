@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 22:12:21 (hora de Perú)
+Actualizado: 2026-08-12 22:14:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $554.13
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 71 | 73 | 8 | +111.25 USD |
+| wr0ngw4yb3tt0r | 71 | 73 | 9 | +111.25 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 123 | 101 | 1 | -9.62 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 171 | 114 | 18 | -26.60 USD |
+| swisstony | 171 | 114 | 19 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | RN1 | 231 | 126 | 20 | -38.74 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -505,6 +505,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 50% | 10.87 | ⏳ pendiente | — |
+| swisstony | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 85% | 1.64 | ⏳ pendiente | — |
 | swisstony | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 85% | 0.60 | ⏳ pendiente | — |
 |  | Spread: FC Lugano (-1.5) | NSÍ Runavík (BUY) | 51% | 4.43 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CD Guadalajara win on 2026-08-12? | Yes (BUY) | 34% | 0.74 | ⏳ pendiente | — |
@@ -533,5 +535,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 26% | 0.66 | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 50% | 0.59 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 73% | 2.45 | ⏳ pendiente | — |
-| swisstony | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 78% | 1.44 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 33% | 0.79 | ⏳ pendiente | — |
