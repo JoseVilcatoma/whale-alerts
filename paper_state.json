@@ -1,5 +1,5 @@
 {
-  "bankroll": 592.3129046582145,
+  "bankroll": 581.78846021377,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18980,6 +18980,31 @@
       "timestamp": 1786587406.840694,
       "bankroll": 592.31,
       "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 13.5"
+    },
+    {
+      "timestamp": 1786587772.9296129,
+      "bankroll": 588.41,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786587773.8311107,
+      "bankroll": 585.95,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786587777.0044773,
+      "bankroll": 590.11,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Chicago White Sox (-3.5)"
+    },
+    {
+      "timestamp": 1786587778.507183,
+      "bankroll": 587.48,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Chicago White Sox (-3.5)"
+    },
+    {
+      "timestamp": 1786587834.458097,
+      "bankroll": 581.79,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Chicago White Sox (-1.5)"
     }
   ]
 }
