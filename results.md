@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 10:35:55 (hora de Perú)
+Actualizado: 2026-08-13 10:37:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **47**  ($2,882,433 en total)
-- Resueltas: **34** — 21 ganadas / 13 perdidas (**62%** de acierto)
-- Pendientes: 13
+- Resueltas: **35** — 22 ganadas / 13 perdidas (**63%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 22
 
 ### Balance
 
-- **Resultado de los apostadores: +$204,558** sobre $2,399,109 apostados (ROI **+8.5%**)
-- Copiando $100 fijo en cada una: **+$220** sobre $3,100 (ROI **+7.1%**)
+- **Resultado de los apostadores: +$212,121** sobre $2,424,427 apostados (ROI **+8.7%**)
+- Copiando $100 fijo en cada una: **+$250** sobre $3,200 (ROI **+7.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
 | madwish355 | 0 | 0 | 1 | — | $25,652 | — |
 | Lakersfan111 | 0 | 0 | 1 | — | $25,600 | — |
-| vv-vv | 0 | 0 | 1 | — | $25,318 | — |
+| vv-vv | 1 | 0 | 0 | ⚠️ 100% (1) | $25,318 | +$7,563 |
 
 ## Detalle de las últimas 60 apuestas
 
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | BIG | 2.78 (36¢) | $25,537 | — | ⏳ Pendiente |
 | Marcoli | Hamburg: Andrej Nedic vs Carlos Taberner | Andrej Nedic | 1.15 (87¢) | $40,000 | -$40,000 | ❌ Perdida |
 | madwish355 | LoL: ThunderTalk Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.20 (83¢) | $25,652 | — | ⏳ Pendiente |
-| vv-vv | LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $25,318 | — | ⏳ Pendiente |
+| vv-vv | LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $25,318 | +$7,563 | ✅ Ganada |
 | TennisLove | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.43 (70¢) | $100,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage | TEAM VISION | 1.67 (60¢) | $31,787 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage | TEAM VISION | 1.75 (57¢) | $40,000 | — | ⏳ Pendiente |
