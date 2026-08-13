@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 17:56:36 (hora de Perú)
+Actualizado: 2026-08-13 17:58:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **77**  ($4,252,593 en total)
+- Apuestas registradas: **78**  ($4,285,202 en total)
 - Resueltas: **61** — 37 ganadas / 24 perdidas (**61%** de acierto)
-- Pendientes: 16
-- Apostadores distintos: 32
+- Pendientes: 17
+- Apostadores distintos: 33
 
 ### Balance
 
@@ -46,6 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 1 | 0 | 0 | ⚠️ 100% (1) | $42,257 | +$53,782 |
 | aaditp | 0 | 1 | 0 | ⚠️ 0% (1) | $37,966 | -$37,966 |
 | hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
+| BLAHBLAHBLAH-298 | 0 | 0 | 1 | — | $32,609 | — |
 | Mylifeisover | 0 | 1 | 0 | ⚠️ 0% (1) | $32,241 | -$32,241 |
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
 | Nooserac | 0 | 0 | 1 | — | $30,691 | — |
@@ -61,6 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BLAHBLAHBLAH-298 | National Bank Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.35 (74¢) | $32,609 | — | ⏳ Pendiente |
 | Nooserac | Valorant: KRÜ Esports vs BESTIA (BO3) - VCT Americas Stage 2 Play-In | KRÜ Esports | 1.54 (65¢) | $30,691 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $77,144 | — | ⏳ Pendiente |
 | 0x760f…326a | National Bank Open: Iga Swiatek vs Elena Rybakina | Elena Rybakina | 2.22 (45¢) | $27,080 | — | ⏳ Pendiente |
@@ -120,4 +122,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 2.13 (47¢) | $75,049 | -$75,049 | ❌ Perdida |
 | Djdjdjekekek | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 2.00 (50¢) | $25,214 | -$25,214 | ❌ Perdida |
 | 0F62 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $26,718 | +$5,865 | ✅ Ganada |
-| Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.38 (42¢) | $53,984 | +$74,550 | ✅ Ganada |
