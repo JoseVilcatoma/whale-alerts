@@ -83669,5 +83669,47 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786606883.8953128,
     "fills": 2
+  },
+  {
+    "timestamp": 1786607010,
+    "timestamp_added": 1786607011.3885584,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-liquid-vg-2026-08-13-game2",
+    "title": "Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 3181.9501680000003,
+    "whale_pct": 1.729,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786607051.7963083,
+    "fills": 8
+  },
+  {
+    "timestamp": 1786607033,
+    "timestamp_added": 1786607033.9266703,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ts8-xtreme-2026-08-13-game1",
+    "title": "Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner",
+    "outcome": "Xtreme Gaming",
+    "side": "BUY",
+    "whale_usd": 401.2454,
+    "whale_pct": 0.224,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786607038.3880098,
+    "fills": 2
   }
 ]
