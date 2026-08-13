@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 18:23:32 (hora de Perú)
+Actualizado: 2026-08-13 18:25:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,181.30
-**Retorno acumulado:** +18.13%
+**Bankroll actual:** $1,181.38
+**Retorno acumulado:** +18.14%
 **Peor caída desde un máximo (drawdown):** 24.07%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 5
 
@@ -17,17 +17,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
 | 1winstreak1 | 1 | 3 | 2 | +74.91 USD |
-| swisstony | 31 | 10 | 9 | +21.50 USD |
+| swisstony | 36 | 10 | 4 | +21.58 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
 | ferrariChampions2026 | 47 | 40 | 62 | +11.71 USD |
-| RN1 | 17 | 18 | 57 | +2.60 USD |
+| RN1 | 19 | 21 | 52 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 15 | +0.00 USD |
 | cigarettes | 0 | 0 | 2 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 16 | +0.00 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
-| wr0ngw4yb3tt0r | 0 | 7 | 8 | -15.12 USD |
+| wr0ngw4yb3tt0r | 0 | 7 | 9 | -15.12 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 0 | 1 | 6 | -250.00 USD |
 
@@ -77,6 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 64% | 2.02 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | KRÜ Esports (BUY) | 85% | 1.96 | 2.5% | ⏳ pendiente | — |
 | UpTheBlues | Santos FC vs. CSyD Macará: O/U 2.5 | Over (BUY) | 88% | 1.75 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 61% | 0.00 | 1.5% | ⏳ pendiente | — |
@@ -106,4 +107,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | CR Vasco da Gama vs. Club Olimpia: O/U 3 | Under (BUY) | 96% | 2.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Atlanta Dream vs. Connecticut Sun | Atlanta Dream (BUY) | 82% | 3.67 | 0.3% | ⏳ pendiente | — |
 | UpTheBlues | Will CSyD Macará win on 2026-08-13? | No (BUY) | 92% | 2.49 | 0.2% | ⏳ pendiente | — |
-| UpTheBlues | CF América vs. Austin FC: Both Teams to  | No (BUY) | 45% | 1.45 | 0.1% | ⏳ pendiente | — |
