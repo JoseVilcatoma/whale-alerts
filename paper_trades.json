@@ -85072,5 +85072,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786636727.74264,
     "fills": 1
+  },
+  {
+    "timestamp": 1786636842,
+    "timestamp_added": 1786636842.7154388,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-flo-int-2026-08-13-total-2pt5",
+    "title": "FC Flora vs. Inter Club d'Escaldes: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1239.45,
+    "whale_pct": 0.654,
+    "paper_stake_usd": 0.79,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786636843.3153331,
+    "fills": 2
   }
 ]
