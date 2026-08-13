@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 16:19:23 (hora de Perú)
+Actualizado: 2026-08-13 16:21:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $995.52
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
 |  | 0 | 0 | 13 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 8 | +0.00 USD |
-| theowalcott | 0 | 0 | 14 | +0.00 USD |
+| theowalcott | 0 | 0 | 15 | +0.00 USD |
 | HomeRunHazard | 1 | 2 | 5 | -2.31 USD |
 | ferrariChampions2026 | 44 | 37 | 35 | -3.46 USD |
 | wr0ngw4yb3tt0r | 0 | 4 | 12 | -3.62 USD |
@@ -75,6 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 0.8% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 2.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Washington Nationals (-2.5) | Chicago Cubs (BUY) | 69% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -104,4 +105,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | KF Egnatia Rrogozhinë vs. Shamrock Rover | Under (BUY) | 35% | 0.05 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | KF Egnatia Rrogozhinë vs. Shamrock Rover | Over (BUY) | 66% | 1.33 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Heart of Midlothian FC vs. Sport Lisboa  | Under (BUY) | 91% | 0.00 | 0.1% | ⏳ pendiente | — |
-| UpTheBlues | Santos FC vs. CSyD Macará: Santos FC O/U | Over (BUY) | 32% | 0.00 | 0.1% | ⏳ pendiente | — |
