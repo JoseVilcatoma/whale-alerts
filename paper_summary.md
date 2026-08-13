@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 12:17:39 (hora de Perú)
+Actualizado: 2026-08-13 12:19:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 47 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 51 | +0.00 USD |
 | RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 16 | +0.00 USD |
@@ -41,6 +41,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 49% | 0.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Joblife (BUY) | 64% | 0.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 30% | 0.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Beşiktaş JK vs. FC Hradec Králové: O/U 0 | Over (BUY) | 93% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-2.5) | Cleveland Guardians (BUY) | 28% | 0.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 31% | 0.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 72% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -67,7 +71,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Team Falcons (BUY) | 66% | 0.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Astralis (BUY) | 39% | 0.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Górnik Zabrze win on 2026-08-13? | No (BUY) | 57% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | Team Heretics Academy (BUY) | 56% | 0.00 | 0.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 45% | 0.00 | 7.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports (BO3 | Pcific Esports (BUY) | 50% | 0.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe - Map 1 W | FaZe (BUY) | 77% | 0.00 | 0.1% | ⏳ pendiente | — |
