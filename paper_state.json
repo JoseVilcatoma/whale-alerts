@@ -1,5 +1,5 @@
 {
-  "bankroll": 476.49107628045437,
+  "bankroll": 481.7467282327183,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18655,6 +18655,26 @@
       "timestamp": 1786585973.4063962,
       "bankroll": 476.49,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago Cubs vs. Washington Nationals: O/U 16.5"
+    },
+    {
+      "timestamp": 1786586092.8840926,
+      "bankroll": 476.95,
+      "event": "won: HomeRunHazard \u2014 New York Mets vs. Atlanta Braves: O/U 9.5"
+    },
+    {
+      "timestamp": 1786586092.9842796,
+      "bankroll": 477.27,
+      "event": "won: RN1 \u2014 New York Mets vs. Atlanta Braves: O/U 9.5"
+    },
+    {
+      "timestamp": 1786586093.0844657,
+      "bankroll": 479.01,
+      "event": "won: HomeRunHazard \u2014 New York Mets vs. Atlanta Braves: O/U 9.5"
+    },
+    {
+      "timestamp": 1786586095.0095918,
+      "bankroll": 481.75,
+      "event": "won: HomeRunHazard \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 5.5"
     }
   ]
 }
