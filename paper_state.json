@@ -1,5 +1,5 @@
 {
-  "bankroll": 556.4794619633045,
+  "bankroll": 552.6344619633045,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19060,6 +19060,26 @@
       "timestamp": 1786588216.7305515,
       "bankroll": 556.48,
       "event": "won: RN1 \u2014 Will CA Platense vs. CD Coquimbo Unido end in a draw?"
+    },
+    {
+      "timestamp": 1786588276.4352212,
+      "bankroll": 555.13,
+      "event": "lost: HomeRunHazard \u2014 Spread: New York Yankees (-2.5)"
+    },
+    {
+      "timestamp": 1786588278.179605,
+      "bankroll": 558.62,
+      "event": "won: ferrariChampions2026 \u2014 Spread: New York Yankees (-2.5)"
+    },
+    {
+      "timestamp": 1786588278.2797632,
+      "bankroll": 555.38,
+      "event": "lost: HomeRunHazard \u2014 Spread: New York Yankees (-2.5)"
+    },
+    {
+      "timestamp": 1786588278.3799078,
+      "bankroll": 552.63,
+      "event": "lost: RN1 \u2014 Spread: New York Yankees (-2.5)"
     }
   ]
 }
