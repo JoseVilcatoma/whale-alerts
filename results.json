@@ -302,5 +302,20 @@
     "status": "pending",
     "ultimo_fill": 1786589492.2266343,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 25,
+    "timestamp": 1786590203,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "wta-gauff-rybakin-2026-08-12",
+    "title": "National Bank Open: Coco Gauff vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 26992.1012,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1786590203.8168993,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 22:01:29 (hora de Perú)
+Actualizado: 2026-08-12 22:03:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **20**  ($1,691,916 en total)
+- Apuestas registradas: **21**  ($1,718,909 en total)
 - Resueltas: **2** — 1 ganadas / 1 perdidas (**50%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 12
 
 ### Balance
@@ -28,8 +28,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 0 | 0 | 1 | — | $312,000 | — |
 | Djdjdjekekek | 0 | 1 | 1 | ⚠️ 0% (1) | $281,870 | -$18,620 |
 | 0xheavy888 | 1 | 0 | 1 | ⚠️ 100% (1) | $130,801 | +$2,000 |
+| Weaseloftheweek | 0 | 0 | 3 | — | $98,162 | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | — | $79,200 | — |
-| Weaseloftheweek | 0 | 0 | 2 | — | $71,170 | — |
 | AV23IUa | 0 | 0 | 1 | — | $57,499 | — |
 | NemecGhudini | 0 | 0 | 2 | — | $54,600 | — |
 | ferrariChampions2026 | 0 | 0 | 1 | — | $53,788 | — |
@@ -41,6 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.38 (42¢) | $26,992 | — | ⏳ Pendiente |
 | S-Works | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.28 (78¢) | $312,000 | — | ⏳ Pendiente |
 | Djdjdjekekek | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 4.55 (22¢) | $95,671 | — | ⏳ Pendiente |
 | 0xheavy888 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.30 (77¢) | $60,801 | — | ⏳ Pendiente |
