@@ -80906,5 +80906,47 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786581981.2004073,
     "fills": 1
+  },
+  {
+    "timestamp": 1786582211,
+    "timestamp_added": 1786582211.6719396,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-cru-fla-2026-08-12-cru",
+    "title": "Will Cruzeiro EC win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 667.7406,
+    "whale_pct": 0.137,
+    "paper_stake_usd": 0.85,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786582211.6719475,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786582212,
+    "timestamp_added": 1786582213.2741117,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-cru-fla-2026-08-12-fla",
+    "title": "Will CR Flamengo win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 2009.3042,
+    "whale_pct": 0.413,
+    "paper_stake_usd": 2.57,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786582213.9573278,
+    "fills": 3
   }
 ]
