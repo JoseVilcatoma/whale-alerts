@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 13:40:54 (hora de Perú)
+Actualizado: 2026-08-13 13:43:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,018.46
-**Retorno acumulado:** +1.85%
-**Peor caída desde un máximo (drawdown):** 0.00%
+**Bankroll actual:** $1,158.74
+**Retorno acumulado:** +15.87%
+**Peor caída desde un máximo (drawdown):** 10.59%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 4
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| Sassy-Bucket | 5 | 0 | 5 | +18.46 USD |
+| Sassy-Bucket | 8 | 0 | 2 | +296.03 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
 | ferrariChampions2026 | 0 | 1 | 103 | +0.00 USD |
 | RN1 | 0 | 0 | 48 | +0.00 USD |
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 7 | +0.00 USD |
-| SDTrading | 0 | 0 | 1 | +0.00 USD |
+| SDTrading | 0 | 1 | 0 | -137.29 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
