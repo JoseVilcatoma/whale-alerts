@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 13:22:08 (hora de Perú)
+Actualizado: 2026-08-13 13:24:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
-| ferrariChampions2026 | 0 | 1 | 95 | +0.00 USD |
-| RN1 | 0 | 0 | 46 | +0.00 USD |
+| ferrariChampions2026 | 0 | 1 | 98 | +0.00 USD |
+| RN1 | 0 | 0 | 48 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 28 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -46,13 +46,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col-hif-rak-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
 | uel-paf-rbs-2026-08-13-total-5pt5 | RN1, ferrariChampions2026, swisstony |
 | uel-bes-hra-2026-08-13-total-2pt5 | RN1, ferrariChampions2026 |
+| col-nor-val-2026-08-13-total-4pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 30% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | FC Nordsjælland vs. KF Valur: O/U 4.5 | Over (BUY) | 43% | 0.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 61% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 75% | 0.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | FC Nordsjælland vs. KF Valur: O/U 4.5 | Over (BUY) | 45% | 0.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 77% | 0.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 63% | 0.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 63% | 0.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 72% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 63% | 0.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 64% | 0.00 | 0.6% | ⏳ pendiente | — |
@@ -76,8 +82,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Beşiktaş JK vs. FC Hradec Králové: O/U 2 | Over (BUY) | 49% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will RKS Raków Częstochowa win on 2026-0 | Yes (BUY) | 62% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 26% | 0.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | Will FC Sion win on 2026-08-13? | No (BUY) | 42% | 0.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Team Heretics Academy vs ⁠Movistar  | Team Heretics Academy (BUY) | 68% | 0.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Beşiktaş JK (-1.5) | Beşiktaş JK (BUY) | 58% | 0.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Will Hammarby Fotboll win on 2026-08-13? | No (BUY) | 77% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will KF Víkingur win on 2026-08-13? | Yes (BUY) | 37% | 0.00 | 0.2% | ⏳ pendiente | — |
