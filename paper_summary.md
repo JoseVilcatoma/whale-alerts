@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 11:34:06 (hora de Perú)
+Actualizado: 2026-08-13 11:36:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 15 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 16 | +0.00 USD |
 | RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 16 | +0.00 USD |
@@ -37,6 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Joblife (BUY) | 28% | 1.21 | 0.1% | ⏳ pendiente | — |
 | swisstony | Will Tobyl FK win on 2026-08-13? | No (BUY) | 76% | 1.22 | 0.1% | ⏳ pendiente | — |
 | swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 4. | Under (BUY) | 95% | 2.67 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will HNK Rijeka win on 2026-08-13? | Yes (BUY) | 46% | 1.79 | 0.2% | ⏳ pendiente | — |
@@ -66,4 +67,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Qarabağ Ağdam FK vs. FK Dynamo Kyiv: O/U | Under (BUY) | 40% | 1.24 | 0.1% | ⏳ pendiente | — |
 | swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 5. | Under (BUY) | 98% | 10.07 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ilves Tampere vs. HNK Rijeka: O/U 1.5 | Over (BUY) | 60% | 1.32 | 0.1% | ⏳ pendiente | — |
-| RN1 | Ilves Tampere vs. HNK Rijeka: O/U 2.5 | Over (BUY) | 33% | 1.27 | 0.1% | ⏳ pendiente | — |
