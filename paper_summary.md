@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 10:51:18 (hora de Perú)
+Actualizado: 2026-08-13 10:55:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $120.18
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| wr0ngw4yb3tt0r | 72 | 74 | 7 | +111.09 USD |
+| wr0ngw4yb3tt0r | 72 | 74 | 8 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | ActionReaction | 2 | 1 | 0 | +46.03 USD |
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
-| swisstony | 175 | 115 | 2 | -26.28 USD |
+| swisstony | 175 | 115 | 3 | -26.28 USD |
 | RN1 | 245 | 132 | 0 | -27.46 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | CORGI8 | 0 | 1 | 1 | -46.49 USD |
@@ -506,6 +506,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 2. | Under (BUY) | 55% | 0.16 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.13 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.33 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.21 | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: FaZe (-1.5) vs Legacy (+1. | Legacy (BUY) | 73% | 0.13 | ⏳ pendiente | — |
@@ -534,5 +536,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Spread: Miami Marlins (-1.5) | Pittsburgh Pirates (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 52% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Texas Rangers (-2.5) | Los Angeles Angels (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 54% | 0.00 | ⏳ pendiente | — |
