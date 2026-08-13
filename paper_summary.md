@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 13:05:19 (hora de Perú)
+Actualizado: 2026-08-13 13:07:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,10 +15,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 82 | +0.00 USD |
-| RN1 | 0 | 0 | 21 | +0.00 USD |
+| ferrariChampions2026 | 0 | 1 | 83 | +0.00 USD |
+| RN1 | 0 | 0 | 26 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
-| swisstony | 0 | 0 | 21 | +0.00 USD |
+| swisstony | 0 | 0 | 27 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 7 | +0.00 USD |
@@ -39,6 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cin-cws-2026-08-13-total-8pt5 | SDTrading, Sassy-Bucket |
 | mlb-cin-cws-2026-08-13-total-9pt5 | Sassy-Bucket, swisstony, wr0ngw4yb3tt0r |
 | uel-gor1-ftc-2026-08-13-gor1 | RN1, ferrariChampions2026 |
+| uel-ucr-kps-2026-08-13-ucr | RN1, ferrariChampions2026 |
 | uel-ucr-kps-2026-08-13-total-2pt5 | RN1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-13-total-7pt5 | RN1, ferrariChampions2026 |
 | col-hif-rak-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
@@ -47,6 +48,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Spread: FC St. Gallen (-1.5) | FC St. Gallen (BUY) | 72% | 0.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will Universitatea Craiova CS win on 202 | No (BUY) | 39% | 0.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Will FC Thun win on 2026-08-13? | No (BUY) | 65% | 0.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Will FC St. Gallen win on 2026-08-13? | Yes (BUY) | 90% | 0.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | FC Vaduz vs. FC Inter Turku: O/U 3.5 | Over (BUY) | 58% | 0.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Páfos FC vs. FC Red Bull Salzburg: O/U 5 | Under (BUY) | 94% | 0.00 | 0.1% | ⏳ pendiente | — |
+| swisstony | Hammarby Fotboll vs. RKS Raków Częstocho | Over (BUY) | 47% | 0.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | FC St. Gallen vs. FC Sheriff Tiraspol: O | Under (BUY) | 59% | 0.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 80% | 0.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 79% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 60% | 0.00 | 0.1% | ⏳ pendiente | — |
+| swisstony | Will FC Thun win on 2026-08-13? | No (BUY) | 37% | 0.00 | 0.1% | ⏳ pendiente | — |
+| swisstony | Will Al Ahli Saudi Club win on 2026-08-1 | No (BUY) | 43% | 0.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 90% | 0.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 66% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will FC Sion win on 2026-08-13? | No (BUY) | 40% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -64,16 +78,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 40% | 0.00 | 0.6% | ⏳ pendiente | — |
 | swisstony | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 74% | 0.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Spread: FK Jablonec (-1.5) | FK Rīgas Futbola Skola (BUY) | 83% | 0.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 69% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Górnik Zabrze win on 2026-08-13? | Yes (BUY) | 70% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will Al Hazem SC win on 2026-08-13? | No (BUY) | 25% | 0.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Will Górnik Zabrze win on 2026-08-13? | Yes (BUY) | 70% | 0.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 39% | 0.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Beşiktaş JK (-2.5) | FC Hradec Králové (BUY) | 72% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 78% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 79% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 79% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 79% | 0.00 | 0.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Atlanta Dream vs. Connecticut Sun: O/U 1 | Under (BUY) | 49% | 0.00 | 0.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Cincinnati Reds (-1.5) | Cincinnati Reds (BUY) | 51% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: New York Yankees (-1.5) | Seattle Mariners (BUY) | 56% | 0.00 | 0.1% | ⏳ pendiente | — |

@@ -1,4 +1,10 @@
 {
   "bankroll": 1000.0,
-  "history": []
+  "history": [
+    {
+      "timestamp": 1786644369.622281,
+      "bankroll": 1000.0,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Reds vs. Chicago White Sox: 1st 5 Innings O/U 4.5"
+    }
+  ]
 }
