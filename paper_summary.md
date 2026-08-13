@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 17:14:55 (hora de Perú)
+Actualizado: 2026-08-13 17:16:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,014.57
-**Retorno acumulado:** +1.46%
+**Bankroll actual:** $1,118.00
+**Retorno acumulado:** +11.80%
 **Peor caída desde un máximo (drawdown):** 24.07%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 5
 
@@ -15,16 +15,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
+| Talvez10 | 2 | 0 | 0 | +88.94 USD |
 | swisstony | 26 | 9 | 15 | +18.94 USD |
+| ferrariChampions2026 | 47 | 37 | 24 | +13.84 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| RN1 | 17 | 15 | 19 | +2.60 USD |
+| RN1 | 17 | 15 | 20 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
-| Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 4 | +0.00 USD |
 | 1winstreak1 | 0 | 0 | 2 | +0.00 USD |
-| wr0ngw4yb3tt0r | 0 | 3 | 8 | -1.26 USD |
-| ferrariChampions2026 | 45 | 37 | 25 | -2.46 USD |
+| wr0ngw4yb3tt0r | 0 | 4 | 7 | -3.07 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 0 | 1 | 6 | -250.00 USD |
@@ -63,6 +63,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Santos FC win on 2026-08-13? | No (BUY) | 50% | 1.41 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Mirassol FC vs. LDU de Quito end in | No (BUY) | 80% | 1.24 | 0.1% | ⏳ pendiente | — |
 | RN1 | Santos FC vs. CSyD Macará: 1st Half O/U  | Over (BUY) | 63% | 1.94 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 47% | 25.42 | 2.5% | ⏳ pendiente | — |
 | RN1 | Mirassol FC vs. LDU de Quito: O/U 1.5 | Over (BUY) | 63% | 2.28 | 0.2% | ⏳ pendiente | — |
@@ -79,8 +81,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 8.94 | 0.9% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 7.72 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 40% | 6.05 | 0.5% | ❌ perdida | -6.05 |
-| ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 51% | 13.24 | 1.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 49% | 1.81 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 51% | 13.24 | 1.1% | ✅ ganada | +12.72 |
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 49% | 1.81 | 0.1% | ❌ perdida | -1.81 |
 | swisstony | Spread: MH Beitar Jerusalem (-1.5) | FK Austria Wien (BUY) | 79% | 1.28 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 65% | 1.38 | 0.1% | ✅ ganada | +0.74 |
 | ferrariChampions2026 | Valorant: GIANTX vs Fnatic (BO3) - VCT E | Fnatic (BUY) | 84% | 5.23 | 0.4% | ✅ ganada | +1.00 |
@@ -91,5 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will RSC Anderlecht win on 2026-08-13? | Yes (BUY) | 61% | 2.07 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 57% | 6.07 | 0.5% | ✅ ganada | +4.58 |
 | swisstony | Rangers FC vs. Jagiellonia Białystok: O/ | Over (BUY) | 100% | 2.08 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 57% | 9.28 | 0.7% | ✅ ganada | +7.00 |
-| swisstony | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 81% | 1.56 | 0.1% | ✅ ganada | +0.37 |
