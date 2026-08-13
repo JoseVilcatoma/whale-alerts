@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 17:37:33 (hora de Perú)
+Actualizado: 2026-08-13 17:39:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,118.90
@@ -17,12 +17,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
 | swisstony | 27 | 9 | 14 | +19.84 USD |
-| ferrariChampions2026 | 47 | 37 | 32 | +13.84 USD |
+| ferrariChampions2026 | 47 | 37 | 34 | +13.84 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| RN1 | 17 | 17 | 38 | +2.60 USD |
+| RN1 | 17 | 17 | 40 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
-| theowalcott | 0 | 0 | 4 | +0.00 USD |
+| theowalcott | 0 | 0 | 6 | +0.00 USD |
 | 1winstreak1 | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 4 | 8 | -3.07 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
@@ -60,6 +60,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-chc-wsh-2026-08-13-total-7pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | sud-san-mac-2026-08-13-san | RN1, ferrariChampions2026 |
 | lib-mir-lqu-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
+| sud-vas-clo-2026-08-13-vas | RN1, ferrariChampions2026 |
 | lib-mir-lqu-2026-08-13-lqu | RN1, ferrariChampions2026 |
 | sud-vas-clo-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
 | sud-san-mac-2026-08-13-mac | RN1, ferrariChampions2026 |
@@ -68,6 +69,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will CR Vasco da Gama win on 2026-08-13? | Yes (BUY) | 60% | 0.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will CR Vasco da Gama win on 2026-08-13? | Yes (BUY) | 60% | 0.00 | 0.2% | ⏳ pendiente | — |
+| theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 43% | 74.66 | 8.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CR Vasco da Gama win on 2026-08-13? | No (BUY) | 40% | 1.21 | 0.1% | ⏳ pendiente | — |
+| RN1 | Will Mirassol FC win on 2026-08-13? | Yes (BUY) | 69% | 1.75 | 0.2% | ⏳ pendiente | — |
+| theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 41% | 115.72 | 10.3% | ⏳ pendiente | — |
 | RN1 | Santos FC vs. CSyD Macará: 1st Half O/U  | Under (BUY) | 63% | 2.04 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CSyD Macará win on 2026-08-13? | No (BUY) | 70% | 1.25 | 0.1% | ⏳ pendiente | — |
 | RN1 | Will Santos FC win on 2026-08-13? | Yes (BUY) | 40% | 7.12 | 0.6% | ⏳ pendiente | — |
@@ -92,9 +99,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Mirassol FC win on 2026-08-13? | Yes (BUY) | 70% | 1.70 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Santos FC win on 2026-08-13? | Yes (BUY) | 50% | 2.10 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Santos FC win on 2026-08-13? | Yes (BUY) | 50% | 2.05 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will LDU de Quito win on 2026-08-13? | No (BUY) | 91% | 3.60 | 0.3% | ⏳ pendiente | — |
-| RN1 | Will Club Olimpia win on 2026-08-13? | No (BUY) | 89% | 3.53 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Mirassol FC vs. LDU de Quito: O/U 1.5 | Over (BUY) | 86% | 1.33 | 0.1% | ⏳ pendiente | — |
-| 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 32% | 6.70 | 0.6% | ⏳ pendiente | — |
-| RN1 | Will LDU de Quito win on 2026-08-13? | No (BUY) | 91% | 3.62 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Mirassol FC vs. LDU de Quito: O/U 1.5 | Over (BUY) | 86% | 1.21 | 0.1% | ⏳ pendiente | — |
