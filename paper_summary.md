@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 20:23:56 (hora de Perú)
+Actualizado: 2026-08-12 20:25:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $572.94
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 4 | 10 | 0 | +15.41 USD |
-| HomeRunHazard | 115 | 98 | 19 | +12.59 USD |
+| HomeRunHazard | 115 | 98 | 20 | +12.59 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
-| ferrariChampions2026 | 647 | 484 | 23 | -89.97 USD |
+| ferrariChampions2026 | 647 | 484 | 25 | -89.97 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
@@ -482,6 +482,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 47% | 4.99 | ⏳ pendiente | — |
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 48% | 2.10 | ⏳ pendiente | — |
+| HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 8. | Under (BUY) | 75% | 1.04 | ⏳ pendiente | — |
 | RN1 | Spread: Toronto Blue Jays (-2.5) | Boston Red Sox (BUY) | 53% | 1.65 | ⏳ pendiente | — |
 | RN1 | Cruzeiro EC vs. CR Flamengo: O/U 0.5 | Over (BUY) | 73% | 1.12 | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 71% | 1.14 | ⏳ pendiente | — |
@@ -509,6 +512,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will CR Flamengo win on 2026-08-12? | Yes (BUY) | 34% | 1.29 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 54% | 1.41 | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-12? | Yes (BUY) | 33% | 1.87 | ⏳ pendiente | — |
-| RN1 | Will CR Flamengo win on 2026-08-12? | Yes (BUY) | 33% | 2.57 | ⏳ pendiente | — |
-| RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 69% | 0.85 | ⏳ pendiente | — |
-| RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 62% | 1.28 | ⏳ pendiente | — |
