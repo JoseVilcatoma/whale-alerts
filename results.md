@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 20:01:56 (hora de Perú)
+Actualizado: 2026-08-12 20:04:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2144**  ($57,625,311 en total)
+- Apuestas registradas: **2153**  ($57,812,649 en total)
 - Resueltas: **1360** — 808 ganadas / 552 perdidas (**59%** de acierto)
-- Pendientes: 784
+- Pendientes: 793
 - Apostadores distintos: 183
 
 ### Balance
@@ -24,13 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 71 | 43% | $9,512,184 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 72 | 43% | $9,534,684 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 57 | 31% | $8,408,379 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 31 | 35% | $3,395,143 | -$564,452 |
-| ferrariChampions2026 | 105 | 32 | 66 | 77% | $2,898,020 | +$168,085 |
+| ferrariChampions2026 | 105 | 32 | 68 | 77% | $2,942,902 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 36 | 0% | $2,314,158 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 29 | 58% | $2,309,230 | +$171,257 |
-| Weaseloftheweek | 19 | 2 | 9 | 90% | $2,010,911 | +$872,236 |
+| Weaseloftheweek | 19 | 2 | 12 | 90% | $2,086,091 | +$872,236 |
 | BreakTheBank | 0 | 12 | 10 | 0% | $1,543,814 | -$803,506 |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 0 | 0 | 17 | — | $932,324 | — |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ActionReaction | 12 | 3 | 2 | 80% | $476,501 | +$249,688 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 15 | 0 | 9 | 100% | $469,445 | +$179,259 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 21 | 0 | 0 | 100% | $466,051 | +$219,166 |
-| 0x076d…8d4c | 8 | 0 | 14 | 100% | $393,211 | +$45,411 |
+| 0x076d…8d4c | 8 | 0 | 15 | 100% | $412,632 | +$45,411 |
 | highnetworth | 0 | 0 | 12 | — | $389,256 | — |
 | theowalcott | 21 | 0 | 6 | 100% | $386,097 | +$226,502 |
 | ExplosiveNinja | 18 | 2 | 7 | 90% | $378,581 | +$263,606 |
@@ -71,8 +71,17 @@ _(mostrando los 40 de mayor monto, de 183 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees | Seattle Mariners | 2.22 (45¢) | $27,473 | — | ⏳ Pendiente |
+| Weaseloftheweek | Seattle Mariners vs. New York Yankees | New York Yankees | 1.82 (55¢) | $33,575 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. New York Yankees | Seattle Mariners | 2.22 (45¢) | $22,500 | — | ⏳ Pendiente |
+| Weaseloftheweek | Seattle Mariners vs. New York Yankees | New York Yankees | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
+| 0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945 | Brownsburg: Joel Schwaerzler vs Andres Andrade | Andres Andrade | 1.19 (84¢) | $12,873 | — | ⏳ Pendiente |
+| Weaseloftheweek | Seattle Mariners vs. New York Yankees | New York Yankees | 1.82 (55¢) | $14,105 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.08 (93¢) | $17,409 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.08 (93¢) | $17,409 | — | ⏳ Pendiente |
 | swisstony | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $12,482 | — | ⏳ Pendiente |
+| swisstony | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.52 (66¢) | $12,482 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Brownsburg: Joel Schwaerzler vs Andres Andrade | Andres Andrade | 1.15 (87¢) | $19,421 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Brownsburg: Joel Schwaerzler vs Andres Andrade | Andres Andrade | 1.15 (87¢) | $19,421 | — | ⏳ Pendiente |
 | 0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945 | Brownsburg: Joel Schwaerzler vs Andres Andrade | Andres Andrade | 1.15 (87¢) | $12,000 | — | ⏳ Pendiente |
 | 0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945 | Brownsburg: Joel Schwaerzler vs Andres Andrade | Andres Andrade | 1.15 (87¢) | $12,000 | — | ⏳ Pendiente |
@@ -122,12 +131,3 @@ _(mostrando los 40 de mayor monto, de 183 en total)_
 | curie | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 2.38 (42¢) | $10,710 | — | ⏳ Pendiente |
 | Djdjdjekekek | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.72 (58¢) | $13,798 | — | ⏳ Pendiente |
 | mikesports | Will Nashville SC win on 2026-08-12? | No | 1.39 (72¢) | $14,400 | — | ⏳ Pendiente |
-| mikesports | Will Nashville SC win on 2026-08-12? | No | 1.39 (72¢) | $14,400 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 1.67 (60¢) | $11,068 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 1.67 (60¢) | $11,068 | — | ⏳ Pendiente |
-| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Cincinnati Open, Qualification: Alina Korneeva vs Alina Charaeva | Alina Charaeva | 3.23 (31¢) | $19,785 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Alina Korneeva vs Alina Charaeva | Alina Korneeva | 1.47 (68¢) | $31,908 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Alina Korneeva vs Alina Charaeva | Alina Korneeva | 1.47 (68¢) | $31,908 | — | ⏳ Pendiente |
-| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Cincinnati Open, Qualification: Alina Korneeva vs Alina Charaeva | Alina Charaeva | 3.23 (31¢) | $19,785 | — | ⏳ Pendiente |
-| 0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945 | Brownsburg: Colton Smith vs Felix Gill | Felix Gill | 1.33 (75¢) | $18,782 | — | ⏳ Pendiente |
-| 0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945 | Brownsburg: Colton Smith vs Felix Gill | Felix Gill | 1.33 (75¢) | $18,782 | — | ⏳ Pendiente |
