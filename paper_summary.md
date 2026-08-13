@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 22:16:30 (hora de Perú)
+Actualizado: 2026-08-12 22:18:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $554.13
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 662 | 496 | 54 | -96.78 USD |
+| ferrariChampions2026 | 662 | 496 | 55 | -96.78 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -505,6 +505,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | No (BUY) | 59% | 1.52 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 50% | 10.87 | ⏳ pendiente | — |
 | swisstony | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 85% | 1.64 | ⏳ pendiente | — |
 | swisstony | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 85% | 0.60 | ⏳ pendiente | — |
@@ -534,4 +535,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 75% | 1.30 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 26% | 0.66 | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 50% | 0.59 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 73% | 2.45 | ⏳ pendiente | — |
