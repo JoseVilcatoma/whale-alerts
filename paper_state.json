@@ -415,6 +415,21 @@
       "timestamp": 1786652124.5703628,
       "bankroll": 1267.18,
       "event": "won: swisstony \u2014 Will Abha Saudi Club win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786652377.0104692,
+      "bankroll": 1267.18,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1786652377.4529328,
+      "bankroll": 1267.18,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1786652377.7533844,
+      "bankroll": 1267.18,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-2.5)"
     }
   ]
 }

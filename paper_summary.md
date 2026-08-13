@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:19:05 (hora de Perú)
+Actualizado: 2026-08-13 15:21:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,267.18
@@ -15,15 +15,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| RN1 | 5 | 3 | 51 | +27.44 USD |
-| ferrariChampions2026 | 21 | 24 | 68 | +4.60 USD |
+| RN1 | 5 | 3 | 53 | +27.44 USD |
+| ferrariChampions2026 | 21 | 27 | 66 | +4.60 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 8 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 8 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
-|  | 0 | 0 | 12 | +0.00 USD |
+|  | 0 | 0 | 13 | +0.00 USD |
+| UpTheBlues | 0 | 0 | 4 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 3 | 8 | -1.26 USD |
 | swisstony | 11 | 5 | 53 | -3.63 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
@@ -60,13 +61,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-sea-nyy-2026-08-13-total-5pt5 | HomeRunHazard, ferrariChampions2026 |
 | uel-ran1-jag-2026-08-13-total-1pt5 | RN1, swisstony |
 | uel-csk1-mta-2026-08-13-total-4pt5 | RN1, swisstony |
+| uel-hmi-ben-2026-08-13-ben | RN1, UpTheBlues |
 | mlb-chc-wsh-2026-08-13-total-7pt5 | RN1, ferrariChampions2026 |
 | col-gen-got-2026-08-13-total-2pt5 | , RN1 |
+| uel-hmi-ben-2026-08-13-hmi | RN1, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 48% | 0.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will Heart of Midlothian FC win on 2026- | Yes (BUY) | 66% | 9.57 | 0.8% | ⏳ pendiente | — |
+| UpTheBlues | Will Heart of Midlothian FC win on 2026- | No (BUY) | 33% | 1.64 | 0.5% | ⏳ pendiente | — |
+| RN1 | RSC Anderlecht vs. PAOK: O/U 5.5 | Under (BUY) | 81% | 1.59 | 0.1% | ⏳ pendiente | — |
+| UpTheBlues | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 91% | 2.09 | 0.2% | ⏳ pendiente | — |
+|  | LoL: Anyone's Legend vs JD Gaming (BO3)  | JD Gaming (BUY) | 42% | 16.03 | 1.3% | ⏳ pendiente | — |
+| UpTheBlues | Will Jagiellonia Białystok win on 2026-0 | No (BUY) | 94% | 1.94 | 0.2% | ⏳ pendiente | — |
+| UpTheBlues | Will Shelbourne FC win on 2026-08-13? | No (BUY) | 98% | 2.18 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Heart of Midlothian FC win on 2026- | No (BUY) | 88% | 1.47 | 0.1% | ⏳ pendiente | — |
 | RN1 | Will Rangers FC win on 2026-08-13? | No (BUY) | 83% | 1.98 | 0.2% | ⏳ pendiente | — |
 |  | KAA Gent vs. IFK Göteborg: O/U 2.5 | Over (BUY) | 32% | 2.19 | 0.2% | ⏳ pendiente | — |
@@ -89,11 +100,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | HNK Hajduk Split vs. FK Žalgiris Vilnius | Under (BUY) | 90% | 0.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 58% | 0.00 | 0.4% | ⏳ pendiente | — |
 |  | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 58% | 0.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | PFK CSKA Sofia vs. MH Maccabi Tel Aviv:  | Over (BUY) | 44% | 0.00 | 0.1% | ⏳ pendiente | — |
-|  | Game Handicap: T1 (-1.5) vs Dplus KIA (+ | T1 (BUY) | 32% | 0.00 | 0.1% | ⏳ pendiente | — |
-| swisstony | RSC Anderlecht vs. PAOK: O/U 2.5 | Over (BUY) | 100% | 0.00 | 0.1% | ⏳ pendiente | — |
-| swisstony | ETO FC vs. Rīga FC: O/U 3.5 | Under (BUY) | 78% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 60% | 0.00 | 0.1% | ⏳ pendiente | — |
-| swisstony | Will KF Shkëndija 79 win on 2026-08-13? | No (BUY) | 83% | 0.00 | 0.1% | ⏳ pendiente | — |
-| swisstony | Will PAOK win on 2026-08-13? | No (BUY) | 90% | 0.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | FC Sion vs. Noah FA: O/U 5.5 | Under (BUY) | 92% | 0.00 | 0.1% | ⏳ pendiente | — |
