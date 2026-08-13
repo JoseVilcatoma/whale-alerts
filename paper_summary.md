@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 13:28:24 (hora de Perú)
+Actualizado: 2026-08-13 13:30:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,018.46
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 5 | 0 | 5 | +18.46 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
-| ferrariChampions2026 | 0 | 1 | 101 | +0.00 USD |
+| ferrariChampions2026 | 0 | 1 | 103 | +0.00 USD |
 | RN1 | 0 | 0 | 48 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 40 | +0.00 USD |
@@ -56,6 +56,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 89% | 10.60 | 5.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 38% | 2.13 | 0.2% | ⏳ pendiente | — |
 | swisstony | AS Omónoia Leukosías vs. Lincoln Red Imp | Under (BUY) | 92% | 1.15 | 0.1% | ⏳ pendiente | — |
 | swisstony | Spread: AS Omónoia Leukosías (-1.5) | Lincoln Red Imps FC (BUY) | 46% | 3.37 | 0.3% | ⏳ pendiente | — |
 | swisstony | Beşiktaş JK vs. FC Hradec Králové: O/U 2 | Under (BUY) | 75% | 2.35 | 0.2% | ⏳ pendiente | — |
@@ -84,5 +86,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will KF Víkingur win on 2026-08-13? | Yes (BUY) | 34% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Páfos FC vs. FC Red Bull Salzburg: O/U 5 | Under (BUY) | 72% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Páfos FC vs. FC Red Bull Salzburg: O/U 5 | Under (BUY) | 72% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will FC Drita win on 2026-08-13? | Yes (BUY) | 85% | 0.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Will FC Sion vs. Noah FA end in a draw? | No (BUY) | 76% | 0.00 | 0.2% | ⏳ pendiente | — |
