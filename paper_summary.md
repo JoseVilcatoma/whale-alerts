@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 10:34:38 (hora de Perú)
+Actualizado: 2026-08-13 10:36:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $120.18
@@ -62,7 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Spicer | 5 | 5 | 0 | -122.15 USD |
 | Djdjdjekekek | 5 | 20 | 0 | -137.79 USD |
 | TAIWANNUMBERONE | 26 | 40 | 0 | -295.71 USD |
-| BBQChickenisthebesttt | 39 | 36 | 2 | -335.36 USD |
+| BBQChickenisthebesttt | 39 | 38 | 0 | -335.36 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
