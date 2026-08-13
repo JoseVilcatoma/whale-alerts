@@ -870,6 +870,16 @@
       "timestamp": 1786659327.913606,
       "bankroll": 1118.0,
       "event": "won: ferrariChampions2026 \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1786660261.3930535,
+      "bankroll": 1118.0,
+      "event": "lost: RN1 \u2014 Will FC Sion win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786660263.0368426,
+      "bankroll": 1118.0,
+      "event": "lost: RN1 \u2014 Will FC Sion win on 2026-08-13?"
     }
   ]
 }
