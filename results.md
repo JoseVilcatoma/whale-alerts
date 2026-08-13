@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 23:16:36 (hora de Perú)
+Actualizado: 2026-08-12 23:18:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **20**  ($1,771,436 en total)
+- Apuestas registradas: **21**  ($1,846,485 en total)
 - Resueltas: **5** — 2 ganadas / 3 perdidas (**40%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 13
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 2 | ⚠️ 100% (1) | $524,654 | +$25,000 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 3 | ⚠️ 100% (1) | $599,702 | +$25,000 |
 | S-Works | 0 | 0 | 1 | — | $312,000 | — |
 | Djdjdjekekek | 0 | 1 | 2 | ⚠️ 0% (1) | $307,084 | -$18,620 |
 | 0xheavy888 | 1 | 0 | 1 | ⚠️ 100% (1) | $130,801 | +$2,000 |
@@ -42,6 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 2.13 (47¢) | $75,049 | — | ⏳ Pendiente |
 | Djdjdjekekek | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 2.00 (50¢) | $25,214 | — | ⏳ Pendiente |
 | 0F62 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $26,718 | — | ⏳ Pendiente |
 | Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.38 (42¢) | $53,984 | — | ⏳ Pendiente |
