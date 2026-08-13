@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 20:05:17 (hora de Perú)
+Actualizado: 2026-08-12 20:07:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $572.76
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 4 | 10 | 0 | +15.41 USD |
-| HomeRunHazard | 114 | 98 | 16 | +11.88 USD |
+| HomeRunHazard | 114 | 98 | 20 | +11.88 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -480,6 +480,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 63% | 6.89 | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 70% | 5.00 | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 56% | 4.10 | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 36% | 2.58 | ⏳ pendiente | — |
 | RN1 | Will Cruzeiro EC vs. CR Flamengo end in  | No (BUY) | 63% | 1.04 | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 49% | 3.04 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 47% | 2.50 | ⏳ pendiente | — |
@@ -506,7 +510,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 53% | 11.49 | ⏳ pendiente | — |
 | RN1 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Over (BUY) | 61% | 1.74 | ⏳ pendiente | — |
 | AV23IUa | Will Cruzeiro EC win on 2026-08-12? | Yes (BUY) | 32% | 2.19 | ⏳ pendiente | — |
-| 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Under (BUY) | 34% | 0.73 | ⏳ pendiente | — |
-| 1winstreak1 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 54% | 14.80 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Chicago Cubs (-2.5) | Chicago Cubs (BUY) | 57% | 1.37 | ⏳ pendiente | — |
-| 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 55% | 29.80 | ❌ perdida | -29.80 |
