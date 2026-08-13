@@ -1,5 +1,5 @@
 {
-  "bankroll": 514.4509323285984,
+  "bankroll": 519.6862364938463,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18755,6 +18755,36 @@
       "timestamp": 1786586469.9531887,
       "bankroll": 514.45,
       "event": "lost: HomeRunHazard \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1786586522.4499424,
+      "bankroll": 513.38,
+      "event": "lost: 1winstreak1 \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1786586523.8706393,
+      "bankroll": 514.84,
+      "event": "won: RN1 \u2014 SE Palmeiras vs. Club Cerro Porte\u00f1o: O/U 1.5"
+    },
+    {
+      "timestamp": 1786586526.2403927,
+      "bankroll": 514.91,
+      "event": "won: RN1 \u2014 Red Bull Bragantino vs. CA Mineiro: O/U 2.5"
+    },
+    {
+      "timestamp": 1786586528.9446921,
+      "bankroll": 521.35,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1786586529.645757,
+      "bankroll": 521.7,
+      "event": "won: HomeRunHazard \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1786586584.9929762,
+      "bankroll": 519.69,
+      "event": "lost: RN1 \u2014 Will CA Platense win on 2026-08-12?"
     }
   ]
 }
