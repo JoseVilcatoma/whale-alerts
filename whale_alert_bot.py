@@ -69,6 +69,9 @@ SOLO_DEPORTES = os.environ.get("SOLO_DEPORTES", "1") not in ("0", "false", "no")
 # Ventana para fusionar los pedazos ("fills") de una misma orden grande.
 # Polymarket parte las órdenes: sin esto, una decisión cuenta 4-5 veces.
 FILL_MERGE_WINDOW = float(os.environ.get("FILL_MERGE_WINDOW", "120"))
+# No alertar operaciones más viejas que esto (en minutos). Protege sobre todo
+# al respaldo por API, que trae historial y podría avisar de partidos ya jugados.
+MAX_EDAD_MINUTOS = float(os.environ.get("MAX_EDAD_MINUTOS", "20"))
 # Ignorar apuestas a resultados ya casi definidos: a 95¢ (cuota 1.05) no se
 # está prediciendo nada, se recoge el último centavo, y eso infla el % de
 # acierto sin decir nada de la habilidad del apostador.
@@ -570,6 +573,23 @@ def procesar_trade(trade, origen="stream"):
     if dias > MAX_DIAS_RESOLUCION:
         print(f"[omitida] {username}: ${usd:,.0f} pero resuelve en ~{dias:.0f} días "
               f"— {trade.get('title')}")
+        return False
+
+    # Antigüedad de la operación: el respaldo por API trae historial, y sin
+    # esto puede alertar apuestas de partidos que ya terminaron hace horas.
+    ts = trade.get("timestamp") or 0
+    edad_min = (time.time() - ts) / 60 if ts else 0
+    if edad_min > MAX_EDAD_MINUTOS:
+        print(f"[omitida] {username}: ${usd:,.0f} — la operación es de hace "
+              f"{edad_min:.0f} min, demasiado vieja para alertar")
+        return False
+
+    # ¿El mercado sigue abierto? Si Polymarket ya lo cerró, el evento terminó
+    # y no tiene sentido alertar la apuesta.
+    mercado_actual = get_market(trade.get("slug"))
+    if mercado_actual and mercado_actual.get("closed"):
+        print(f"[omitida] {username}: ${usd:,.0f} — el mercado ya está cerrado "
+              f"en Polymarket: {trade.get('title')}")
         return False
 
     marca = "🐋 EN VIVO" if origen == "stream" else "🐋 RECUPERADA"
