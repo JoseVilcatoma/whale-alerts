@@ -27605,5 +27605,18 @@
     "usd": 20515.4067,
     "odds_at_bet": 67,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1911,
+    "timestamp": 1786580542,
+    "username": "HyperwellNerdZ",
+    "wallet": "0xb4eea1c82f0c4cf7e02e69212bd447a63314cc59",
+    "slug": "lec-tol-dal-2026-08-12-tol",
+    "title": "Will Deportivo Toluca FC win on 2026-08-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 17365.261899999998,
+    "odds_at_bet": 73,
+    "status": "pending"
   }
 ]
