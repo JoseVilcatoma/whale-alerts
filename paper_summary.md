@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 23:06:31 (hora de Perú)
+Actualizado: 2026-08-12 23:08:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $538.38
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 665 | 497 | 96 | -95.33 USD |
+| ferrariChampions2026 | 665 | 497 | 100 | -95.33 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -509,6 +509,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Seattle Sounders FC vs. CD Guadalaj | Yes (BUY) | 34% | 0.70 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: BoomBoys vs OG - Game 1 Winner | BoomBoys (BUY) | 68% | 1.15 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming (BO3) | Team Falcons (BUY) | 49% | 1.16 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: BoomBoys vs OG - Game 1 Winner | BoomBoys (BUY) | 69% | 0.89 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: BoomBoys vs OG - Game 1 Winner | BoomBoys (BUY) | 64% | 0.89 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Seattle Sounders FC win on 2026-08- | Yes (BUY) | 43% | 0.98 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CD Guadalajara win on 2026-08-12? | No (BUY) | 77% | 1.69 | ⏳ pendiente | — |
@@ -535,7 +539,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 73% | 0.62 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 43% | 0.56 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 71% | 1.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 43% | 0.81 | ⏳ pendiente | — |
-| swisstony | Minnesota Lynx vs. PortlandFire | Minnesota Lynx (BUY) | 84% | 2.66 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 45% | 1.51 | ⏳ pendiente | — |
-| swisstony | Minnesota Lynx vs. PortlandFire | Minnesota Lynx (BUY) | 84% | 4.82 | ⏳ pendiente | — |
