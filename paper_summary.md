@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 03:09:28 (hora de Perú)
+Actualizado: 2026-08-13 03:11:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $591.96
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| BBQChickenisthebesttt | 33 | 27 | 5 | +140.48 USD |
+| BBQChickenisthebesttt | 33 | 27 | 6 | +140.48 USD |
 | wr0ngw4yb3tt0r | 72 | 74 | 0 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| ferrariChampions2026 | 674 | 501 | 65 | -68.75 USD |
+| ferrariChampions2026 | 674 | 501 | 66 | -68.75 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -494,11 +494,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-wb-nip-2026-08-13 | BBQChickenisthebesttt, ferrariChampions2026 |
 | lol-wb-nip-2026-08-13-game1 | ActionReaction, BBQChickenisthebesttt, ferrariChampions2026 |
 | dota2-ts8-xtreme-2026-08-13-game1 | ActionReaction, ferrariChampions2026 |
+| lol-drx-fox1-2026-08-13-game1 | ActionReaction, BBQChickenisthebesttt, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | BNK FEARX (BUY) | 63% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | Kiwoom DRX (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Team Spirit (BUY) | 61% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK | BNK FEARX (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | BrotherObama | LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK | Kiwoom DRX (BUY) | 42% | 0.00 | ⏳ pendiente | — |
@@ -527,5 +530,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming (BO | Team Spirit (BUY) | 53% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Team Spirit (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Team Spirit (BUY) | 39% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 58% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 58% | 0.00 | ⏳ pendiente | — |
