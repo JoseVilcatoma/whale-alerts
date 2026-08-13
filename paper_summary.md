@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 10:55:33 (hora de Perú)
+Actualizado: 2026-08-13 10:57:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $120.18
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
-| swisstony | 175 | 115 | 3 | -26.28 USD |
+| swisstony | 175 | 115 | 10 | -26.28 USD |
 | RN1 | 245 | 132 | 0 | -27.46 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | CORGI8 | 0 | 1 | 1 | -46.49 USD |
@@ -506,6 +506,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 2. | Over (BUY) | 46% | 0.13 | ⏳ pendiente | — |
+| swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 1. | Over (BUY) | 81% | 0.60 | ⏳ pendiente | — |
+| swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 4. | Under (BUY) | 94% | 0.17 | ⏳ pendiente | — |
+| swisstony | Tobyl FK vs. FK Partizan Beograd: Both T | Yes (BUY) | 53% | 0.15 | ⏳ pendiente | — |
+| swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 2. | Under (BUY) | 55% | 0.16 | ⏳ pendiente | — |
+| swisstony | Will Tobyl FK win on 2026-08-13? | Yes (BUY) | 69% | 0.16 | ⏳ pendiente | — |
+| swisstony | Tobyl FK vs. FK Partizan Beograd: Both T | Yes (BUY) | 52% | 0.15 | ⏳ pendiente | — |
 | swisstony | Tobyl FK vs. FK Partizan Beograd: O/U 2. | Under (BUY) | 55% | 0.16 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.13 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.33 | ⏳ pendiente | — |
@@ -529,10 +536,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 69% | 1.50 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Aurora Gaming vs M80 - M | Aurora Gaming (BUY) | 89% | 20.23 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 81% | 0.00 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Atlanta Dream (-9.5) | Connecticut Sun (BUY) | 47% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 53% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Las Vegas Aces (-7.5) | Las Vegas Aces (BUY) | 44% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Las Vegas Aces (-6.5) | Las Vegas Aces (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Miami Marlins (-1.5) | Pittsburgh Pirates (BUY) | 70% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 52% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
