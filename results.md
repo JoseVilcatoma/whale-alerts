@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 08:58:34 (hora de Perú)
+Actualizado: 2026-08-13 09:00:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **43**  ($2,765,283 en total)
+- Apuestas registradas: **44**  ($2,790,883 en total)
 - Resueltas: **33** — 21 ganadas / 12 perdidas (**64%** de acierto)
-- Pendientes: 10
-- Apostadores distintos: 21
+- Pendientes: 11
+- Apostadores distintos: 22
 
 ### Balance
 
@@ -44,12 +44,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
 | madwish355 | 0 | 0 | 1 | — | $25,652 | — |
+| Lakersfan111 | 0 | 0 | 1 | — | $25,600 | — |
 | vv-vv | 0 | 0 | 1 | — | $25,318 | — |
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Lakersfan111 | Counter-Strike: Aurora Gaming vs M80 - Map 1 Winner | Aurora Gaming | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
 | Marcoli | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.45 (69¢) | $49,838 | — | ⏳ Pendiente |
 | ohehe | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | BIG | 2.63 (38¢) | $32,706 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | BIG | 2.78 (36¢) | $25,537 | — | ⏳ Pendiente |
