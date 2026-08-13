@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 22:08:11 (hora de Perú)
+Actualizado: 2026-08-12 22:10:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $554.13
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 259 | 157 | 5 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
-|  | 3 | 0 | 5 | +0.42 USD |
+|  | 3 | 0 | 6 | +0.42 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 662 | 496 | 53 | -96.78 USD |
+| ferrariChampions2026 | 662 | 496 | 54 | -96.78 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -505,6 +505,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+|  | Spread: FC Lugano (-1.5) | NSÍ Runavík (BUY) | 51% | 4.43 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CD Guadalajara win on 2026-08-12? | Yes (BUY) | 34% | 0.74 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | No (BUY) | 51% | 0.97 | ⏳ pendiente | — |
 | swisstony | Will FC Dallas win on 2026-08-12? | No (BUY) | 96% | 9.62 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Seattle Sounders FC win on 2026-08- | No (BUY) | 63% | 0.70 | ⏳ pendiente | — |
@@ -533,5 +535,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 78% | 1.44 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 33% | 0.79 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 31% | 0.72 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 38% | 0.85 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Seattle Sounders FC win on 2026-08- | No (BUY) | 78% | 0.69 | ⏳ pendiente | — |
