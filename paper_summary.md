@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:41:57 (hora de Perú)
+Actualizado: 2026-08-13 15:44:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,011.98
-**Retorno acumulado:** +1.20%
-**Peor caída desde un máximo (drawdown):** 21.92%
+**Bankroll actual:** $1,011.80
+**Retorno acumulado:** +1.18%
+**Peor caída desde un máximo (drawdown):** 21.93%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 6
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| RN1 | 6 | 3 | 60 | +27.44 USD |
-| ferrariChampions2026 | 27 | 28 | 61 | +5.30 USD |
+| RN1 | 6 | 4 | 60 | +27.44 USD |
+| ferrariChampions2026 | 28 | 28 | 60 | +5.30 USD |
 | HomeRunHazard | 1 | 0 | 7 | +0.74 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 0 | 0 | 13 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 8 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 3 | 8 | -1.26 USD |
-| swisstony | 13 | 5 | 51 | -3.63 USD |
+| swisstony | 14 | 6 | 49 | -3.80 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 0 | 1 | 7 | -250.00 USD |
@@ -73,6 +73,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Under (BUY) | 59% | 2.94 | 0.6% | ⏳ pendiente | — |
 | RN1 | FC Dinamo City vs. FK Auda: O/U 4.5 | Under (BUY) | 86% | 0.13 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Shelbourne FC vs. AFC Ajax end in a | Yes (BUY) | 81% | 1.23 | 0.1% | ⏳ pendiente | — |
 | RN1 | Heart of Midlothian FC vs. Sport Lisboa  | Under (BUY) | 94% | 4.28 | 0.4% | ⏳ pendiente | — |
@@ -84,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will AFC Ajax win on 2026-08-13? | Yes (BUY) | 86% | 0.00 | 0.2% | ⏳ pendiente | — |
 | UpTheBlues | Will AFC Ajax win on 2026-08-13? | Yes (BUY) | 86% | 0.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Shelbourne FC vs. AFC Ajax: O/U 3.5 | Under (BUY) | 46% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 98% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 98% | 0.00 | 0.1% | ✅ ganada | +0.00 |
 | RN1 | RSC Anderlecht vs. PAOK: O/U 5.5 | Under (BUY) | 82% | 0.00 | 0.4% | ⏳ pendiente | — |
 | UpTheBlues | Heart of Midlothian FC vs. Sport Lisboa  | Over (BUY) | 99% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 48% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -102,4 +103,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | Will Viking FK win on 2026-08-14? | Yes (BUY) | 38% | 3.90 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 63% | 2.72 | 0.2% | ⏳ pendiente | — |
 | RN1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 48% | 2.70 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 48% | 9.47 | 0.7% | ⏳ pendiente | — |

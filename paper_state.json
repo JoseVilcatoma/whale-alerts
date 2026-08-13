@@ -1,5 +1,5 @@
 {
-  "bankroll": 1011.9780218731748,
+  "bankroll": 1011.8044504446034,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -495,6 +495,26 @@
       "timestamp": 1786653623.9759862,
       "bankroll": 1011.98,
       "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786653808.3298347,
+      "bankroll": 1013.27,
+      "event": "won: swisstony \u2014 Will Al Hazem SC win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786653808.429964,
+      "bankroll": 1011.8,
+      "event": "lost: swisstony \u2014 Will Al Hazem SC win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786653812.6738694,
+      "bankroll": 1011.8,
+      "event": "lost: RN1 \u2014 Will Al Hazem SC win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786653835.3279493,
+      "bankroll": 1011.8,
+      "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 4.5"
     }
   ]
 }
