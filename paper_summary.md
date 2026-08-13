@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 01:43:54 (hora de Perú)
+Actualizado: 2026-08-13 01:45:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $578.65
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| ferrariChampions2026 | 674 | 501 | 11 | -68.75 USD |
+| ferrariChampions2026 | 674 | 501 | 12 | -68.75 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -494,6 +494,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 26% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 33% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ⏳ pendiente | — |
@@ -523,4 +524,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK | BNK FEARX (BUY) | 58% | 508.25 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 64% | 1.14 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 63% | 12.45 | ⏳ pendiente | — |
