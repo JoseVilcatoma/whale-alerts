@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 08:53:00 (hora de Perú)
+Actualizado: 2026-08-13 08:55:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $972.51
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | UpTheBlues | 262 | 157 | 2 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
-| HomeRunHazard | 126 | 113 | 17 | +0.96 USD |
+| HomeRunHazard | 126 | 113 | 19 | +0.96 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
@@ -502,6 +502,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Texas Rangers (-2.5) | Los Angeles Angels (BUY) | 66% | 0.00 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
@@ -530,5 +532,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Washington Mystics vs. Las Vegas Aces | Washington Mystics (BUY) | 30% | 1.77 | ⏳ pendiente | — |
 | ActionReaction | LoL: Gen.G vs Hanwha Life Esports - Game | Gen.G (BUY) | 46% | 39.21 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 41% | 9.77 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 40% | 19.85 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 48% | 33.04 | 💰 vendida anticipada | +35.79 |
