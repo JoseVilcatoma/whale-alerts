@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:56:36 (hora de Perú)
+Actualizado: 2026-08-13 15:58:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,004.28
-**Retorno acumulado:** +0.43%
+**Bankroll actual:** $1,007.03
+**Retorno acumulado:** +0.70%
 **Peor caída desde un máximo (drawdown):** 22.73%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 7
 
@@ -15,16 +15,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| RN1 | 6 | 6 | 58 | +27.44 USD |
+| RN1 | 10 | 11 | 49 | +30.54 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
 |  | 0 | 0 | 13 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 8 | +0.00 USD |
-| theowalcott | 0 | 0 | 5 | +0.00 USD |
-| swisstony | 16 | 6 | 47 | -1.01 USD |
+| theowalcott | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 3 | 11 | -1.26 USD |
-| ferrariChampions2026 | 30 | 31 | 55 | -1.97 USD |
+| swisstony | 20 | 7 | 42 | -1.35 USD |
+| ferrariChampions2026 | 35 | 32 | 49 | -1.97 USD |
 | HomeRunHazard | 1 | 2 | 5 | -2.31 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
@@ -75,6 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 5.07 | 11.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 55% | 6.28 | 2.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-1.5) | Toronto Blue Jays (BUY) | 49% | 0.00 | 2.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Boston Red Sox (-2.5) | Toronto Blue Jays (BUY) | 68% | 0.00 | 1.1% | ⏳ pendiente | — |
@@ -104,4 +105,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | RSC Anderlecht vs. PAOK: O/U 5.5 | Under (BUY) | 81% | 1.59 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 91% | 2.09 | 0.2% | ⏳ pendiente | — |
 |  | LoL: Anyone's Legend vs JD Gaming (BO3)  | JD Gaming (BUY) | 42% | 16.03 | 1.3% | ⏳ pendiente | — |
-| UpTheBlues | Will Jagiellonia Białystok win on 2026-0 | No (BUY) | 94% | 1.94 | 0.2% | ⏳ pendiente | — |
