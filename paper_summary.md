@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 11:25:54 (hora de Perú)
+Actualizado: 2026-08-13 11:27:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -17,8 +17,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 10 | +0.00 USD |
 | RN1 | 0 | 0 | 10 | +0.00 USD |
-| Talvez10 | 0 | 0 | 1 | +0.00 USD |
-| swisstony | 0 | 0 | 7 | +0.00 USD |
+| Talvez10 | 0 | 0 | 2 | +0.00 USD |
+| swisstony | 0 | 0 | 9 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -30,6 +31,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 45% | 34.64 | 3.5% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 48% | 26.29 | 2.6% | ⏳ pendiente | — |
+| swisstony | Will HNK Rijeka win on 2026-08-13? | Yes (BUY) | 45% | 1.68 | 0.2% | ⏳ pendiente | — |
+| swisstony | Will Abha Saudi Club win on 2026-08-13? | No (BUY) | 83% | 2.80 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will Al Hazem SC win on 2026-08-13? | No (BUY) | 39% | 1.47 | 0.1% | ⏳ pendiente | — |
 | swisstony | Will Al Hazem SC win on 2026-08-13? | Yes (BUY) | 56% | 1.65 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Pcific Esports (BUY) | 75% | 1.30 | 0.1% | ⏳ pendiente | — |
@@ -56,6 +61,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Tobyl FK vs. FK Partizan Beograd: O/U 2. | Over (BUY) | 47% | 1.80 | 0.2% | ⏳ pendiente | — |
 | RN1 | Qarabağ Ağdam FK vs. FK Dynamo Kyiv: O/U | Under (BUY) | 51% | 26.48 | 2.6% | ⏳ pendiente | — |
 | RN1 | Spread: FC Midtjylland (-1.5) | Bohemian FC (BUY) | 39% | 1.98 | 0.2% | ⏳ pendiente | — |
-| RN1 | Tobyl FK vs. FK Partizan Beograd: O/U 3. | Under (BUY) | 80% | 3.27 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Joblife (BUY) | 48% | 2.98 | 0.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 1.26 | 0.1% | ⏳ pendiente | — |
