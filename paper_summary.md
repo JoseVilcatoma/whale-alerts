@@ -1,12 +1,12 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 11:50:29 (hora de Perú)
+Actualizado: 2026-08-13 11:52:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
 **Retorno acumulado:** +0.00%
 **Peor caída desde un máximo (drawdown):** 0.00%
-**Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 1
+**Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 2
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 1 | +0.00 USD |
-| Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
+| Sassy-Bucket | 0 | 0 | 6 | +0.00 USD |
+| SDTrading | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -34,11 +35,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col-tob-par-2026-08-13-tob | ferrariChampions2026, swisstony |
 | mlb-bos-tor-2026-08-13-total-7pt5 | Talvez10, ferrariChampions2026 |
 | cs2-lgc-faze-2026-08-13 | Lakersfan111, Nooserac |
+| mlb-cin-cws-2026-08-13-total-8pt5 | SDTrading, Sassy-Bucket |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 56% | 0.00 | 0.2% | ⏳ pendiente | — |
+| Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 37% | 47.75 | 7.3% | ⏳ pendiente | — |
+| SDTrading | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 52% | 137.29 | 13.7% | ⏳ pendiente | — |
+| Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 48% | 250.00 ⚠️ | 44.5% | ⏳ pendiente | — |
+| Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 56% | 23.49 | 2.3% | ⏳ pendiente | — |
+| Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 48% | 4.91 | 0.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 48% | 1.31 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dark Passage vs BoostGate Esports - | Dark Passage (BUY) | 91% | 1.25 | 0.1% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: FaZe (-1.5) vs Legacy (+1. | Legacy (BUY) | 73% | 6.65 | 0.7% | ⏳ pendiente | — |
@@ -63,9 +71,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Qarabağ Ağdam FK vs. FK Dynamo Kyiv: O/U | Under (BUY) | 44% | 1.10 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 46% | 3.05 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Milwaukee Brewers (BUY) | 61% | 3.96 | 0.4% | ⏳ pendiente | — |
-| Talvez10 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 45% | 34.64 | 3.5% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 48% | 26.29 | 2.6% | ⏳ pendiente | — |
-| swisstony | Will HNK Rijeka win on 2026-08-13? | Yes (BUY) | 45% | 1.68 | 0.2% | ⏳ pendiente | — |
-| swisstony | Will Abha Saudi Club win on 2026-08-13? | No (BUY) | 83% | 2.80 | 0.3% | ⏳ pendiente | — |
-| swisstony | Will Al Hazem SC win on 2026-08-13? | No (BUY) | 39% | 1.47 | 0.1% | ⏳ pendiente | — |
-| swisstony | Will Al Hazem SC win on 2026-08-13? | Yes (BUY) | 56% | 1.65 | 0.2% | ⏳ pendiente | — |
