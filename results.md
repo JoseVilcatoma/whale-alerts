@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 19:06:09 (hora de Perú)
+Actualizado: 2026-08-12 19:09:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2078**  ($55,912,130 en total)
+- Apuestas registradas: **2090**  ($56,275,473 en total)
 - Resueltas: **1360** — 808 ganadas / 552 perdidas (**59%** de acierto)
-- Pendientes: 718
+- Pendientes: 730
 - Apostadores distintos: 180
 
 ### Balance
@@ -24,16 +24,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 61 | 43% | $9,233,461 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 64 | 43% | $9,386,884 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 46 | 31% | $8,017,244 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 31 | 35% | $3,395,143 | -$564,452 |
-| ferrariChampions2026 | 105 | 32 | 57 | 77% | $2,736,642 | +$168,085 |
+| ferrariChampions2026 | 105 | 32 | 61 | 77% | $2,781,920 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 36 | 0% | $2,314,158 | -$1,082,423 |
 | AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
 | Weaseloftheweek | 19 | 2 | 9 | 90% | $2,010,911 | +$872,236 |
 | BreakTheBank | 0 | 12 | 10 | 0% | $1,543,814 | -$803,506 |
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 0 | 0 | 17 | — | $932,324 | — |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 0 | 0 | 14 | — | $806,249 | — |
 | wr0ngw4yb3tt0r | 9 | 6 | 16 | 60% | $751,114 | +$13,912 |
 | Sassy-Bucket | 16 | 16 | 3 | 50% | $724,219 | -$117,224 |
 | S-Works | 0 | 0 | 6 | — | $688,936 | — |
@@ -71,19 +71,31 @@ _(mostrando los 40 de mayor monto, de 180 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Cincinnati Open, Qualification: Alina Korneeva vs Alina Charaeva | Alina Charaeva | 3.23 (31¢) | $19,785 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Alina Korneeva vs Alina Charaeva | Alina Korneeva | 1.47 (68¢) | $31,908 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Alina Korneeva vs Alina Charaeva | Alina Korneeva | 1.47 (68¢) | $31,908 | — | ⏳ Pendiente |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Cincinnati Open, Qualification: Alina Korneeva vs Alina Charaeva | Alina Charaeva | 3.23 (31¢) | $19,785 | — | ⏳ Pendiente |
+| 0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945 | Brownsburg: Colton Smith vs Felix Gill | Felix Gill | 1.33 (75¢) | $18,782 | — | ⏳ Pendiente |
 | 0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945 | Brownsburg: Colton Smith vs Felix Gill | Felix Gill | 1.33 (75¢) | $18,782 | — | ⏳ Pendiente |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 2.27 (44¢) | $73,806 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.79 (56¢) | $12,093 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.79 (56¢) | $12,002 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.79 (56¢) | $58,315 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.10 (91¢) | $14,557 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.10 (91¢) | $14,557 | — | ⏳ Pendiente |
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 2.44 (41¢) | $77,482 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.69 (59¢) | $106,958 | — | ⏳ Pendiente |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 2.44 (41¢) | $77,482 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.69 (59¢) | $106,958 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.69 (59¢) | $10,884 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.69 (59¢) | $10,884 | — | ⏳ Pendiente |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 2.38 (42¢) | $19,611 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.72 (58¢) | $10,699 | — | ⏳ Pendiente |
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 2.38 (42¢) | $19,611 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.72 (58¢) | $10,699 | — | ⏳ Pendiente |
+| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 2.38 (42¢) | $28,982 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.72 (58¢) | $11,691 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.72 (58¢) | $12,005 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.72 (58¢) | $12,005 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.72 (58¢) | $11,691 | — | ⏳ Pendiente |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 2.38 (42¢) | $28,982 | — | ⏳ Pendiente |
@@ -119,15 +131,3 @@ _(mostrando los 40 de mayor monto, de 180 en total)_
 | tennischamp | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.32 (76¢) | $17,018 | — | ⏳ Pendiente |
 | afraz | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.23 (81¢) | $10,601 | — | ⏳ Pendiente |
 | afraz | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.23 (81¢) | $10,601 | — | ⏳ Pendiente |
-| Ditto321 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.67 (60¢) | $15,000 | +$7,750 | 💰 Vendida antes |
-| Ditto321 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.67 (60¢) | $15,000 | +$7,750 | 💰 Vendida antes |
-| Sassy-Bucket | New York Mets vs. Atlanta Braves | New York Mets | 2.70 (37¢) | $12,603 | — | ⏳ Pendiente |
-| Sassy-Bucket | New York Mets vs. Atlanta Braves | New York Mets | 2.70 (37¢) | $12,603 | — | ⏳ Pendiente |
-| ferrariChampions2026 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 2.70 (37¢) | $19,362 | — | ⏳ Pendiente |
-| Weaseloftheweek | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.59 (63¢) | $32,414 | — | ⏳ Pendiente |
-| Weaseloftheweek | National Bank Open: Rafael Jodar vs Brandon Nakashima | Rafael Jodar | 1.59 (63¢) | $32,414 | — | ⏳ Pendiente |
-| ferrariChampions2026 | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 2.70 (37¢) | $19,362 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Seattle Mariners vs. New York Yankees: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $36,750 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. New York Yankees: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $38,250 | — | ⏳ Pendiente |
-| justbusiness1 | Will CF Monterrey win on 2026-08-12? | Yes | 2.04 (49¢) | $28,905 | — | ⏳ Pendiente |
-| mikesports | Will CF Monterrey win on 2026-08-12? | No | 1.96 (51¢) | $29,386 | — | ⏳ Pendiente |
