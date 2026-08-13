@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 21:49:14 (hora de Perú)
+Actualizado: 2026-08-12 21:51:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **18**  ($1,284,245 en total)
+- Apuestas registradas: **20**  ($1,488,081 en total)
 - Resueltas: **2** — 1 ganadas / 1 perdidas (**50%** de acierto)
-- Pendientes: 16
-- Apostadores distintos: 11
+- Pendientes: 18
+- Apostadores distintos: 12
 
 ### Balance
 
@@ -25,7 +25,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 4 | — | $524,654 | — |
-| Djdjdjekekek | 0 | 1 | 0 | ⚠️ 0% (1) | $186,199 | -$18,620 |
+| Djdjdjekekek | 0 | 1 | 1 | ⚠️ 0% (1) | $234,035 | -$18,620 |
+| S-Works | 0 | 0 | 1 | — | $156,000 | — |
 | 0xheavy888 | 1 | 0 | 1 | ⚠️ 100% (1) | $130,801 | +$2,000 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | — | $79,200 | — |
 | Weaseloftheweek | 0 | 0 | 2 | — | $71,170 | — |
@@ -40,6 +41,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| S-Works | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.28 (78¢) | $156,000 | — | ⏳ Pendiente |
+| Djdjdjekekek | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 4.55 (22¢) | $47,836 | — | ⏳ Pendiente |
 | 0xheavy888 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.30 (77¢) | $60,801 | — | ⏳ Pendiente |
 | NemecGhudini | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.28 (78¢) | $27,300 | — | ⏳ Pendiente |
 | NemecGhudini | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.28 (78¢) | $27,300 | — | ⏳ Pendiente |
