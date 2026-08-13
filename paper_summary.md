@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 18:21:25 (hora de Perú)
+Actualizado: 2026-08-13 18:23:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,183.43
-**Retorno acumulado:** +18.34%
+**Bankroll actual:** $1,181.30
+**Retorno acumulado:** +18.13%
 **Peor caída desde un máximo (drawdown):** 24.07%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 5
 
@@ -17,17 +17,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
 | 1winstreak1 | 1 | 3 | 2 | +74.91 USD |
-| swisstony | 30 | 9 | 11 | +21.50 USD |
-| ferrariChampions2026 | 47 | 37 | 65 | +13.84 USD |
+| swisstony | 31 | 10 | 9 | +21.50 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| RN1 | 17 | 17 | 58 | +2.60 USD |
+| ferrariChampions2026 | 47 | 40 | 62 | +11.71 USD |
+| RN1 | 17 | 18 | 57 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 15 | +0.00 USD |
 | cigarettes | 0 | 0 | 2 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 16 | +0.00 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
-| wr0ngw4yb3tt0r | 0 | 5 | 10 | -15.12 USD |
+| wr0ngw4yb3tt0r | 0 | 7 | 8 | -15.12 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 0 | 1 | 6 | -250.00 USD |
 
