@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 03:01:06 (hora de Perú)
+Actualizado: 2026-08-13 03:03:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $591.96
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| ferrariChampions2026 | 674 | 501 | 58 | -68.75 USD |
+| ferrariChampions2026 | 674 | 501 | 61 | -68.75 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -498,7 +498,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
-| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Team Spirit (BUY) | 55% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 37% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Team Spirit (BUY) | 61% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 38% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Team Spirit (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming (BO | Xtreme Gaming (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Team Spirit (BUY) | 47% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 51% | 0.00 | ⏳ pendiente | — |
@@ -525,6 +528,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Team Spirit (BUY) | 54% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Vici Gaming - Gam | Vici Gaming (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Team Spirit (BUY) | 67% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Liquid vs Vici Gaming - Gam | Vici Gaming (BUY) | 35% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Team Spirit (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 31% | 0.00 | ⏳ pendiente | — |
