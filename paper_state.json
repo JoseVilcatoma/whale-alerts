@@ -1,5 +1,5 @@
 {
-  "bankroll": 1248.4694449951664,
+  "bankroll": 1248.7556178346726,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -280,6 +280,11 @@
       "timestamp": 1786650621.6701138,
       "bankroll": 1248.47,
       "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786651561.066455,
+      "bankroll": 1248.76,
+      "event": "won: swisstony \u2014 FC Flora vs. Inter Club d'Escaldes: O/U 4.5"
     }
   ]
 }

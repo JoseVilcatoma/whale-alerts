@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:04:27 (hora de Perú)
+Actualizado: 2026-08-13 15:06:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,248.47
-**Retorno acumulado:** +24.85%
+**Bankroll actual:** $1,248.76
+**Retorno acumulado:** +24.88%
 **Peor caída desde un máximo (drawdown):** 11.24%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 6
 
@@ -15,9 +15,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| ferrariChampions2026 | 19 | 17 | 74 | +5.71 USD |
+| ferrariChampions2026 | 19 | 17 | 75 | +5.71 USD |
 | RN1 | 2 | 1 | 51 | +1.64 USD |
-| swisstony | 5 | 0 | 63 | +1.09 USD |
+| swisstony | 6 | 0 | 62 | +1.38 USD |
 | wr0ngw4yb3tt0r | 0 | 1 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -65,6 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Atlanta Dream (-10.5) | Connecticut Sun (BUY) | 50% | 1.51 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 44% | 1.49 | 0.1% | ⏳ pendiente | — |
 |  | LoL: Anyone's Legend vs JD Gaming (BO3)  | JD Gaming (BUY) | 42% | 0.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 65% | 0.00 | 0.5% | ⏳ pendiente | — |
@@ -94,4 +95,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | FC Dinamo City vs. FK Auda: O/U 2.5 | Over (BUY) | 35% | 0.00 | 0.4% | ⏳ pendiente | — |
 |  | Spread: AFC Ajax (-1.5) | AFC Ajax (BUY) | 67% | 0.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will Al Shabab Saudi Club win on 2026-08 | No (BUY) | 84% | 0.00 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 48% | 0.00 | 0.2% | ⏳ pendiente | — |
