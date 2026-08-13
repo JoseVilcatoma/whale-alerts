@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 12:37:59 (hora de Perú)
+Actualizado: 2026-08-13 12:40:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **58**  ($3,390,485 en total)
+- Apuestas registradas: **59**  ($3,422,724 en total)
 - Resueltas: **39** — 26 ganadas / 13 perdidas (**67%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 26
 
 ### Balance
@@ -39,11 +39,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 0 | 1 | 1 | ⚠️ 0% (1) | $80,628 | -$53,788 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 2 | 0 | 0 | ⚠️ 100% (2) | $72,000 | +$49,788 |
 | ohehe | 0 | 0 | 2 | — | $70,196 | — |
+| Mamagovorila | 0 | 0 | 2 | — | $59,891 | — |
 | 111111111115 | 0 | 0 | 1 | — | $57,765 | — |
 | wr0ngw4yb3tt0r | 1 | 0 | 0 | ⚠️ 100% (1) | $42,257 | +$53,782 |
 | hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
-| Mamagovorila | 0 | 0 | 1 | — | $27,652 | — |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
 | Sassy-Bucket | 0 | 0 | 1 | — | $26,400 | — |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
@@ -55,6 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mamagovorila | Cincinnati Open: Ashlyn Krueger vs Lois Boisson | Ashlyn Krueger | 2.08 (48¢) | $32,239 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Chicago White Sox | Cincinnati Reds | 2.22 (45¢) | $33,054 | — | ⏳ Pendiente |
 | Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $26,400 | — | ⏳ Pendiente |
 | ohehe | Counter-Strike: Team Falcons vs Astralis (BO3) - Esports World Cup Group B | Team Falcons | 1.23 (81¢) | $37,490 | — | ⏳ Pendiente |
