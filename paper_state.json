@@ -1,5 +1,5 @@
 {
-  "bankroll": 554.1263209014057,
+  "bankroll": 536.9263209014058,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19130,6 +19130,21 @@
       "timestamp": 1786589788.1019297,
       "bankroll": 554.13,
       "event": "won: RN1 \u2014 Will Montevideo City Torque win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786591408.1004093,
+      "bankroll": 539.33,
+      "event": "lost: 1winstreak1 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 10.5"
+    },
+    {
+      "timestamp": 1786591409.2022552,
+      "bankroll": 537.92,
+      "event": "lost: HomeRunHazard \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 10.5"
+    },
+    {
+      "timestamp": 1786591409.6028845,
+      "bankroll": 536.93,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 10.5"
     }
   ]
 }

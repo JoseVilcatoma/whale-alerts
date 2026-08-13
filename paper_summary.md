@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 22:22:48 (hora de Perú)
+Actualizado: 2026-08-12 22:24:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $554.13
-**Retorno acumulado:** -44.59%
+**Bankroll actual:** $536.93
+**Retorno acumulado:** -46.31%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 71 | 73 | 9 | +111.25 USD |
+| wr0ngw4yb3tt0r | 71 | 74 | 8 | +110.26 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
@@ -44,11 +44,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| HomeRunHazard | 122 | 108 | 9 | -3.39 USD |
+| HomeRunHazard | 122 | 109 | 8 | -4.80 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| 1winstreak1 | 123 | 101 | 1 | -9.62 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
+| 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
 | swisstony | 171 | 114 | 22 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | RN1 | 231 | 126 | 20 | -38.74 USD |
