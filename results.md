@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 11:59:01 (hora de Perú)
+Actualizado: 2026-08-13 12:01:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **57**  ($3,357,431 en total)
-- Resueltas: **36** — 23 ganadas / 13 perdidas (**64%** de acierto)
-- Pendientes: 21
+- Resueltas: **38** — 25 ganadas / 13 perdidas (**66%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 26
 
 ### Balance
 
-- **Resultado de los apostadores: +$226,521** sobre $2,450,027 apostados (ROI **+9.2%**)
-- Copiando $100 fijo en cada una: **+$307** sobre $3,300 (ROI **+9.3%**)
+- **Resultado de los apostadores: +$277,887** sobre $2,521,814 apostados (ROI **+11.0%**)
+- Copiando $100 fijo en cada una: **+$449** sobre $3,500 (ROI **+12.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 7 | 1 | 3 | 88% | $850,620 | +$219,658 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 8 | 1 | 2 | 89% | $850,620 | +$240,849 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
 | Weaseloftheweek | 2 | 1 | 2 | ⚠️ 67% (3) | $224,457 | +$110,752 |
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NemecGhudini | 2 | 0 | 0 | ⚠️ 100% (2) | $86,190 | +$36,460 |
 | ferrariChampions2026 | 0 | 1 | 1 | ⚠️ 0% (1) | $80,628 | -$53,788 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 0 | ⚠️ 100% (1) | $79,200 | +$100,800 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 0 | 1 | ⚠️ 100% (1) | $72,000 | +$19,613 |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 2 | 0 | 0 | ⚠️ 100% (2) | $72,000 | +$49,788 |
 | ohehe | 0 | 0 | 2 | — | $70,196 | — |
 | 111111111115 | 0 | 0 | 1 | — | $57,765 | — |
 | wr0ngw4yb3tt0r | 1 | 0 | 0 | ⚠️ 100% (1) | $42,257 | +$53,782 |
@@ -76,8 +76,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | madwish355 | LoL: ThunderTalk Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.20 (83¢) | $25,652 | — | ⏳ Pendiente |
 | vv-vv | LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $25,318 | +$7,563 | ✅ Ganada |
 | TennisLove | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.43 (70¢) | $100,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage | TEAM VISION | 1.67 (60¢) | $31,787 | — | ⏳ Pendiente |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage | TEAM VISION | 1.75 (57¢) | $40,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage | TEAM VISION | 1.67 (60¢) | $31,787 | +$21,191 | ✅ Ganada |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage | TEAM VISION | 1.75 (57¢) | $40,000 | +$30,175 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Aurora vs GamerLegion - Game 2 Winner | Aurora | 1.33 (75¢) | $42,284 | +$14,095 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner | Team Spirit | 1.92 (52¢) | $27,545 | +$25,426 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.59 (63¢) | $35,280 | +$20,720 | ✅ Ganada |
