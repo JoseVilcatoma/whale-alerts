@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 10:42:58 (hora de Perú)
+Actualizado: 2026-08-13 10:45:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $120.18
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| wr0ngw4yb3tt0r | 72 | 74 | 3 | +111.09 USD |
+| wr0ngw4yb3tt0r | 72 | 74 | 4 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | ActionReaction | 2 | 1 | 0 | +46.03 USD |
@@ -490,6 +490,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cin-cws-2026-08-12-spread-home-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-cin-cws-2026-08-12-total-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | wnba-tor-dal-2026-08-12 | , ferrariChampions2026 |
+| mlb-cle-det-2026-08-13-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | lol-wb-nip-2026-08-13 | BBQChickenisthebesttt, ferrariChampions2026 |
 | lol-wb-nip-2026-08-13-game1 | ActionReaction, BBQChickenisthebesttt, ferrariChampions2026 |
 | dota2-ts8-xtreme-2026-08-13-game1 | ActionReaction, ferrariChampions2026 |
@@ -505,6 +506,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.83 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Detroit Tigers (-1.5) | Detroit Tigers (BUY) | 31% | 0.52 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Seattle Mariners (-1.5) | New York Yankees (BUY) | 70% | 1.72 | ⏳ pendiente | — |
 |  | Map Handicap: FNC (-1.5) vs GIANTX (+1.5 | GIANTX (BUY) | 57% | 0.00 | ⏳ pendiente | — |
@@ -534,4 +536,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 56% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 54% | 2.28 | ⏳ pendiente | — |
