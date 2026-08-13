@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 01:37:48 (hora de Perú)
+Actualizado: 2026-08-13 01:39:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $578.65
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
 |  | 3 | 1 | 2 | -1.88 USD |
-| Weaseloftheweek | 0 | 2 | 13 | -2.32 USD |
+| Weaseloftheweek | 0 | 2 | 15 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
@@ -494,6 +494,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ⏳ pendiente | — |
+| Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Aurora vs GamerLegion (BO3) - Th | GamerLegion (BUY) | 18% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Vici Gaming - Gam | Vici Gaming (BUY) | 39% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ⏳ pendiente | — |
@@ -522,5 +524,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 63% | 12.45 | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 51% | 0.94 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 51% | 0.86 | ⏳ pendiente | — |
-| swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 91% | 2.71 | ✅ ganada | +0.27 |
-| wr0ngw4yb3tt0r | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 62% | 1.35 | ✅ ganada | +0.83 |
