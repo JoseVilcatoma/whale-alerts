@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 21:24:27 (hora de Perú)
+Actualizado: 2026-08-12 21:26:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **12**  ($954,461 en total)
+- Apuestas registradas: **13**  ($1,033,661 en total)
 - Resueltas: **0** — 0 ganadas / 0 perdidas (**0%** de acierto)
-- Pendientes: 12
-- Apostadores distintos: 9
+- Pendientes: 13
+- Apostadores distintos: 10
 
 ### Balance
 
@@ -26,6 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 2 | — | $389,470 | — |
 | Djdjdjekekek | 0 | 0 | 1 | — | $186,199 | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | — | $79,200 | — |
 | Weaseloftheweek | 0 | 0 | 2 | — | $71,170 | — |
 | 0xheavy888 | 0 | 0 | 1 | — | $70,000 | — |
 | AV23IUa | 0 | 0 | 1 | — | $57,499 | — |
@@ -38,6 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.27 (44¢) | $79,200 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.79 (56¢) | $53,788 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.27 (44¢) | $42,257 | — | ⏳ Pendiente |
 | b0c | National Bank Open: Elina Svitolina vs Iga Swiatek | Elina Svitolina | 1.72 (58¢) | $26,397 | — | ⏳ Pendiente |
