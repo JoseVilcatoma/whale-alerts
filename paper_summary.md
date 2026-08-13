@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 14:12:10 (hora de Perú)
+Actualizado: 2026-08-13 14:14:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,248.14
@@ -17,13 +17,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | ferrariChampions2026 | 5 | 6 | 97 | +5.38 USD |
 | RN1 | 2 | 1 | 45 | +1.64 USD |
-| swisstony | 5 | 0 | 45 | +1.09 USD |
-| wr0ngw4yb3tt0r | 0 | 1 | 8 | +0.00 USD |
+| swisstony | 5 | 0 | 47 | +1.09 USD |
+| wr0ngw4yb3tt0r | 0 | 1 | 9 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 7 | +0.00 USD |
-| HomeRunHazard | 0 | 0 | 5 | +0.00 USD |
+| HomeRunHazard | 0 | 0 | 6 | +0.00 USD |
 | CORGI8 | 0 | 0 | 3 | +0.00 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col-qar-dyn-2026-08-13-total-2pt5 | RN1, swisstony |
 | uel-bes-hra-2026-08-13-spread-home-1pt5 | RN1, ferrariChampions2026, swisstony |
 | col-tob-par-2026-08-13-tob | ferrariChampions2026, swisstony |
-| mlb-bos-tor-2026-08-13-total-7pt5 | Talvez10, ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-bos-tor-2026-08-13-total-7pt5 | HomeRunHazard, Talvez10, ferrariChampions2026, wr0ngw4yb3tt0r |
 | spl-abh-haz-2026-08-13-haz | RN1, swisstony |
 | cs2-lgc-faze-2026-08-13 | Lakersfan111, Nooserac, ferrariChampions2026 |
 | val-gx-fnc1-2026-08-13 | Nooserac, ferrariChampions2026 |
@@ -61,6 +61,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | KF Egnatia Rrogozhinë vs. Shamrock Rover | Over (BUY) | 92% | 1.58 | 0.1% | ⏳ pendiente | — |
+| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 44% | 9.99 | 0.8% | ⏳ pendiente | — |
+| swisstony | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 90% | 5.72 | 0.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Cincinnati Reds (-4.5) | Cincinnati Reds (BUY) | 46% | 2.36 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: PAOK (-1.5) | RSC Anderlecht (BUY) | 89% | 1.75 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 33% | 1.54 | 0.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 1.81 | 0.1% | ⏳ pendiente | — |
@@ -87,7 +91,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 76% | 1.36 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 89% | 10.60 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 38% | 2.13 | 0.2% | ⏳ pendiente | — |
-| swisstony | AS Omónoia Leukosías vs. Lincoln Red Imp | Under (BUY) | 92% | 1.15 | 0.1% | ⏳ pendiente | — |
-| swisstony | Spread: AS Omónoia Leukosías (-1.5) | Lincoln Red Imps FC (BUY) | 46% | 3.37 | 0.3% | ⏳ pendiente | — |
-| swisstony | Beşiktaş JK vs. FC Hradec Králové: O/U 2 | Under (BUY) | 75% | 2.35 | 0.2% | ⏳ pendiente | — |
-| swisstony | Beşiktaş JK vs. FC Hradec Králové: O/U 1 | Under (BUY) | 36% | 1.13 | 0.1% | ⏳ pendiente | — |
