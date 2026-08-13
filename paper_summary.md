@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 11:15:40 (hora de Perú)
+Actualizado: 2026-08-13 11:17:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 4 | +0.00 USD |
-| RN1 | 0 | 0 | 8 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 5 | +0.00 USD |
+| RN1 | 0 | 0 | 9 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -27,6 +27,8 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Pcific Esports (BUY) | 60% | 4.23 | 0.4% | ⏳ pendiente | — |
+| RN1 | Qarabağ Ağdam FK vs. FK Dynamo Kyiv: O/U | Under (BUY) | 36% | 1.34 | 0.1% | ⏳ pendiente | — |
 | Talvez10 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 45% | 38.13 | 3.8% | ⏳ pendiente | — |
 | RN1 | Tobyl FK vs. FK Partizan Beograd: O/U 3. | Over (BUY) | 38% | 1.21 | 0.1% | ⏳ pendiente | — |
 | RN1 | Qarabağ Ağdam FK vs. FK Dynamo Kyiv: O/U | Over (BUY) | 92% | 3.75 | 0.4% | ⏳ pendiente | — |
