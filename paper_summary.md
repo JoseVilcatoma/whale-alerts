@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:48:14 (hora de Perú)
+Actualizado: 2026-08-13 15:50:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,002.70
@@ -21,8 +21,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
 |  | 0 | 0 | 13 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 8 | +0.00 USD |
-| theowalcott | 0 | 0 | 4 | +0.00 USD |
-| ferrariChampions2026 | 28 | 29 | 59 | -0.75 USD |
+| theowalcott | 0 | 0 | 5 | +0.00 USD |
+| ferrariChampions2026 | 29 | 29 | 58 | -0.75 USD |
 | wr0ngw4yb3tt0r | 0 | 3 | 8 | -1.26 USD |
 | HomeRunHazard | 1 | 2 | 5 | -2.31 USD |
 | swisstony | 14 | 6 | 49 | -3.80 USD |
@@ -75,6 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 17.4% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 ⚠️ | 31.9% | ⏳ pendiente | — |
 | theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 6.2% | ⏳ pendiente | — |
@@ -104,4 +105,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Shelbourne FC win on 2026-08-13? | No (BUY) | 98% | 2.18 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Heart of Midlothian FC win on 2026- | No (BUY) | 88% | 1.47 | 0.1% | ⏳ pendiente | — |
 | RN1 | Will Rangers FC win on 2026-08-13? | No (BUY) | 83% | 1.98 | 0.2% | ⏳ pendiente | — |
-|  | KAA Gent vs. IFK Göteborg: O/U 2.5 | Over (BUY) | 32% | 2.19 | 0.2% | ⏳ pendiente | — |
