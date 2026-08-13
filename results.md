@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 15:41:19 (hora de Perú)
+Actualizado: 2026-08-13 15:43:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **64**  ($3,651,403 en total)
-- Resueltas: **49** — 31 ganadas / 18 perdidas (**63%** de acierto)
-- Pendientes: 15
+- Resueltas: **51** — 33 ganadas / 18 perdidas (**65%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 29
 
 ### Balance
 
-- **Resultado de los apostadores: +$270,046** sobre $2,929,486 apostados (ROI **+9.2%**)
-- Copiando $100 fijo en cada una: **+$288** sobre $4,600 (ROI **+6.3%**)
+- **Resultado de los apostadores: +$285,734** sobre $2,996,364 apostados (ROI **+9.5%**)
+- Copiando $100 fijo en cada una: **+$335** sobre $4,800 (ROI **+7.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,13 +33,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 0 | 2 | 1 | ⚠️ 0% (2) | $123,836 | -$83,036 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 1 | ⚠️ 100% (1) | $112,254 | +$100,800 |
 | ferrariChampions2026 | 1 | 1 | 1 | ⚠️ 50% (2) | $111,002 | -$49,777 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 1 | 0 | 2 | ⚠️ 100% (1) | $101,645 | +$13,069 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 0 | 1 | ⚠️ 100% (2) | $101,645 | +$19,963 |
 | TennisLove | 0 | 0 | 1 | — | $100,000 | — |
 | highnetworth | 1 | 0 | 0 | ⚠️ 100% (1) | $99,472 | +$91,821 |
 | Marcoli | 0 | 1 | 1 | ⚠️ 0% (1) | $89,838 | -$40,000 |
 | NemecGhudini | 2 | 0 | 0 | ⚠️ 100% (2) | $86,190 | +$36,460 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 2 | 0 | 0 | ⚠️ 100% (2) | $72,000 | +$49,788 |
-| ohehe | 0 | 1 | 1 | ⚠️ 0% (1) | $70,196 | -$32,706 |
+| ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
 | 111111111115 | 0 | 0 | 1 | — | $57,765 | — |
 | wr0ngw4yb3tt0r | 1 | 0 | 0 | ⚠️ 100% (1) | $42,257 | +$53,782 |
@@ -66,8 +66,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mamagovorila | Cincinnati Open: Ashlyn Krueger vs Lois Boisson | Ashlyn Krueger | 2.08 (48¢) | $32,239 | -$32,239 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Chicago White Sox | Cincinnati Reds | 2.22 (45¢) | $33,054 | — | ⏳ Pendiente |
 | Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $26,400 | +$28,600 | ✅ Ganada |
-| ohehe | Counter-Strike: Team Falcons vs Astralis (BO3) - Esports World Cup Group B | Team Falcons | 1.23 (81¢) | $37,490 | — | ⏳ Pendiente |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Team Falcons vs Astralis (BO3) - Esports World Cup Group B | Team Falcons | 1.23 (81¢) | $29,388 | — | ⏳ Pendiente |
+| ohehe | Counter-Strike: Team Falcons vs Astralis (BO3) - Esports World Cup Group B | Team Falcons | 1.23 (81¢) | $37,490 | +$8,794 | ✅ Ganada |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Team Falcons vs Astralis (BO3) - Esports World Cup Group B | Team Falcons | 1.23 (81¢) | $29,388 | +$6,893 | ✅ Ganada |
 | 111111111115 | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | Legacy | 2.04 (49¢) | $57,765 | — | ⏳ Pendiente |
 | Mamagovorila | Cincinnati Open: Martin Landaluce vs Jack Draper | Jack Draper | 1.85 (54¢) | $27,652 | -$27,652 | ❌ Perdida |
 | AV23IUa | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | FaZe | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
