@@ -8462,5 +8462,52 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786663095.3710768,
     "fills": 1
+  },
+  {
+    "timestamp": 1786663169,
+    "timestamp_added": 1786663169.7566187,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "sud-san-mac-2026-08-13-total-2pt5",
+    "title": "Santos FC vs. CSyD Macar\u00e1: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 674.369996,
+    "whale_pct": 0.148,
+    "whale_value_at_open": 454857.7498,
+    "paper_stake_usd": 1.75,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786663169.7566288,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786663171,
+    "timestamp_added": 1786663172.2563264,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-kru1-bst1-2026-08-13",
+    "title": "Valorant: KR\u00dc Esports vs BESTIA (BO3) - VCT Americas Stage 2 Play-In",
+    "outcome": "KR\u00dc Esports",
+    "side": "BUY",
+    "whale_usd": 7627.9,
+    "whale_pct": 2.478,
+    "whale_value_at_open": 307776.1549,
+    "paper_stake_usd": 1.96,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786663172.2563345,
+    "fills": 1
   }
 ]
