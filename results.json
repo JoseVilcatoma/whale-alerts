@@ -784,5 +784,20 @@
     "status": "pending",
     "ultimo_fill": 1786637071,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 101,
+    "timestamp": 1786638285,
+    "username": "Mamagovorila",
+    "wallet": "0x2a0de811e3a5efec355e10efd13b64e0be4fa75f",
+    "slug": "atp-landalu-draper-2026-08-13",
+    "title": "Cincinnati Open: Martin Landaluce vs Jack Draper",
+    "outcome": "Jack Draper",
+    "side": "BUY",
+    "usd": 27652.389999000003,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1786638285,
+    "fills": 1
   }
 ]
