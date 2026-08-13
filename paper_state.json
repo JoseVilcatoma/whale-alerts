@@ -1,5 +1,5 @@
 {
-  "bankroll": 648.0119529328125,
+  "bankroll": 623.2580958373377,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18460,6 +18460,41 @@
       "timestamp": 1786579916.12649,
       "bankroll": 648.01,
       "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 5.5"
+    },
+    {
+      "timestamp": 1786580105.148532,
+      "bankroll": 648.01,
+      "event": "won: SDTrading \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1786580112.599947,
+      "bankroll": 617.3,
+      "event": "lost: 1winstreak1 \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 7.5"
+    },
+    {
+      "timestamp": 1786580113.1241317,
+      "bankroll": 618.67,
+      "event": "won: RN1 \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 7.5"
+    },
+    {
+      "timestamp": 1786580113.5248542,
+      "bankroll": 620.07,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 7.5"
+    },
+    {
+      "timestamp": 1786580115.277077,
+      "bankroll": 620.21,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 9.5"
+    },
+    {
+      "timestamp": 1786580115.3772693,
+      "bankroll": 622.89,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 7.5"
+    },
+    {
+      "timestamp": 1786580116.773751,
+      "bankroll": 623.26,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 7.5"
     }
   ]
 }
