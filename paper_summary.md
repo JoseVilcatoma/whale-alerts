@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 21:57:41 (hora de Perú)
+Actualizado: 2026-08-12 21:59:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $554.13
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 71 | 73 | 6 | +111.25 USD |
+| wr0ngw4yb3tt0r | 71 | 73 | 7 | +111.25 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 662 | 496 | 48 | -96.78 USD |
+| ferrariChampions2026 | 662 | 496 | 50 | -96.78 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -493,6 +493,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-min-por-2026-08-12-spread-away-13pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-cin-cws-2026-08-12-total-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | wnba-tor-dal-2026-08-12 | , ferrariChampions2026 |
+| wnba-chi-gsv-2026-08-12-spread-home-8pt5 | , wr0ngw4yb3tt0r |
 | lec-sdg-pue-2026-08-12-sdg | , swisstony |
 | wnba-chi-gsv-2026-08-12 | ferrariChampions2026, wr0ngw4yb3tt0r |
 
@@ -500,6 +501,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Golden State Valkyries (-8.5) | Golden State Valkyries (BUY) | 46% | 2.70 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Deportivo Toluca FC (-1.5) | FC Dallas (BUY) | 63% | 0.74 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | No (BUY) | 30% | 0.70 | ⏳ pendiente | — |
 |  | Spread: FC Lugano (-1.5) | NSÍ Runavík (BUY) | 49% | 2.81 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 20% | 0.69 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | Yes (BUY) | 54% | 0.67 | ⏳ pendiente | — |
@@ -527,6 +531,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Minnesota Lynx (-13.5) | Portland Fire (BUY) | 46% | 0.69 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 35% | 0.87 | ⏳ pendiente | — |
 | ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 57% | 32.81 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 51% | 0.74 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 49% | 0.71 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 35% | 0.70 | ⏳ pendiente | — |
