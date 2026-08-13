@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 05:51:17 (hora de Perú)
+Actualizado: 2026-08-13 05:53:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $568.67
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | UpTheBlues | 262 | 157 | 2 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
-| HomeRunHazard | 126 | 113 | 3 | +0.96 USD |
+| HomeRunHazard | 126 | 113 | 4 | +0.96 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
@@ -501,6 +501,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| HomeRunHazard | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming (BO3) - L | LGD Gaming (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 75% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming (BO3) - L | LGD Gaming (BUY) | 39% | 0.00 | ⏳ pendiente | — |
@@ -530,4 +531,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 62% | 0.00 | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Just Players vs MOUZ NXT | Just Players (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Just Players vs MOUZ NXT | Just Players (BUY) | 76% | 0.00 | ⏳ pendiente | — |
-| ActionReaction | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 72% | 0.00 | ⏳ pendiente | — |
