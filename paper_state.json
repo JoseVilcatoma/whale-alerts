@@ -1,5 +1,5 @@
 {
-  "bankroll": 572.9358945048928,
+  "bankroll": 578.4484836878618,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18580,6 +18580,21 @@
       "timestamp": 1786584228.565506,
       "bankroll": 572.94,
       "event": "won: HomeRunHazard \u2014 New York Mets vs. Atlanta Braves: O/U 7.5"
+    },
+    {
+      "timestamp": 1786585216.2302825,
+      "bankroll": 578.75,
+      "event": "won: 1winstreak1 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786585222.1514406,
+      "bankroll": 578.02,
+      "event": "lost: 1winstreak1 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786585223.9787445,
+      "bankroll": 578.45,
+      "event": "won: HomeRunHazard \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 9.5"
     }
   ]
 }
