@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 18:29:39 (hora de Perú)
+Actualizado: 2026-08-13 18:31:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,139.96
@@ -17,9 +17,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
 | 1winstreak1 | 1 | 3 | 2 | +74.91 USD |
-| swisstony | 36 | 10 | 4 | +21.58 USD |
+| swisstony | 36 | 10 | 7 | +21.58 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| ferrariChampions2026 | 56 | 48 | 45 | +10.27 USD |
+| ferrariChampions2026 | 56 | 48 | 47 | +10.27 USD |
 | RN1 | 19 | 22 | 51 | +2.60 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 15 | +0.00 USD |
@@ -62,21 +62,27 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sud-vas-clo-2026-08-13-total-2pt5 | UpTheBlues, theowalcott |
 | mlb-chc-wsh-2026-08-13-total-7pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | sud-san-mac-2026-08-13-san | RN1, UpTheBlues, ferrariChampions2026 |
-| lib-mir-lqu-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
+| lib-mir-lqu-2026-08-13-total-1pt5 | RN1, ferrariChampions2026, swisstony |
 | sud-vas-clo-2026-08-13-vas | RN1, ferrariChampions2026 |
 | lib-mir-lqu-2026-08-13-lqu | RN1, ferrariChampions2026 |
-| sud-vas-clo-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
+| sud-vas-clo-2026-08-13-total-1pt5 | RN1, ferrariChampions2026, swisstony |
 | sud-san-mac-2026-08-13-total-2pt5 | RN1, UpTheBlues, ferrariChampions2026 |
 | sud-san-mac-2026-08-13-mac | RN1, UpTheBlues, ferrariChampions2026 |
 | lec-nyc-nec-2026-08-13-total-3pt5 | UpTheBlues, theowalcott |
 | lol-mvu-wu-2026-08-13 | cigarettes, ferrariChampions2026 |
 | sud-san-mac-2026-08-13-first-half-total-2pt5 | RN1, cigarettes |
 | sud-san-mac-2026-08-13-total-3pt5 | RN1, UpTheBlues, ferrariChampions2026 |
+| wnba-atl-conn-2026-08-13 | 1winstreak1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Atlanta Dream vs. Connecticut Sun | Atlanta Dream (BUY) | 91% | 2.75 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia Union vs. Club Santos Lagun | Over (BUY) | 45% | 1.93 | 0.2% | ⏳ pendiente | — |
+| swisstony | Mirassol FC vs. LDU de Quito: O/U 1.5 | Under (BUY) | 48% | 2.84 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | CR Vasco da Gama vs. Club Olimpia: O/U 1 | Under (BUY) | 83% | 4.11 | 0.4% | ⏳ pendiente | — |
+| swisstony | CR Vasco da Gama vs. Club Olimpia: O/U 1 | Under (BUY) | 83% | 2.59 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 64% | 2.02 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | KRÜ Esports (BUY) | 85% | 1.96 | 2.5% | ⏳ pendiente | — |
 | UpTheBlues | Santos FC vs. CSyD Macará: O/U 2.5 | Over (BUY) | 88% | 1.75 | 0.1% | ⏳ pendiente | — |
@@ -102,8 +108,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Santos FC win on 2026-08-13? | Yes (BUY) | 66% | 7.29 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 53% | 4.85 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 53% | 5.25 | 0.4% | ⏳ pendiente | — |
-| theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 43% | 52.79 | 4.5% | ⏳ pendiente | — |
-| theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 43% | 9.12 | 0.8% | ⏳ pendiente | — |
-| UpTheBlues | CR Vasco da Gama vs. Club Olimpia: O/U 3 | Under (BUY) | 96% | 2.00 | 0.2% | ⏳ pendiente | — |
-| 1winstreak1 | Atlanta Dream vs. Connecticut Sun | Atlanta Dream (BUY) | 82% | 3.67 | 0.3% | ⏳ pendiente | — |
-| UpTheBlues | Will CSyD Macará win on 2026-08-13? | No (BUY) | 92% | 2.49 | 0.2% | ⏳ pendiente | — |
