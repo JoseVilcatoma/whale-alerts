@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 20:40:17 (hora de Perú)
+Actualizado: 2026-08-12 20:42:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2466**  ($67,763,975 en total)
+- Apuestas registradas: **2469**  ($67,798,488 en total)
 - Resueltas: **2118** — 1293 ganadas / 825 perdidas (**61%** de acierto)
-- Pendientes: 348
+- Pendientes: 351
 - Apostadores distintos: 184
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 167 | 36 | 35 | 82% | $3,445,400 | +$400,165 |
 | pleaseplease123 | 24 | 59 | 13 | 29% | $2,893,432 | -$508,680 |
 | AV23IUa | 50 | 34 | 9 | 60% | $2,581,405 | +$98,659 |
-| Weaseloftheweek | 25 | 5 | 15 | 83% | $2,348,332 | +$915,877 |
+| Weaseloftheweek | 25 | 5 | 18 | 83% | $2,382,845 | +$915,877 |
 | BreakTheBank | 0 | 23 | 3 | 0% | $1,873,200 | -$1,782,753 |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 7 | 6 | 11 | 54% | $1,425,181 | -$96,185 |
 | wr0ngw4yb3tt0r | 30 | 6 | 11 | 83% | $1,146,792 | +$716,210 |
@@ -73,7 +73,10 @@ _(mostrando los 40 de mayor monto, de 184 en total)_
 |---|---|---|---|---|---|---|
 | Weaseloftheweek | Game Handicap: FLC (-1.5) vs LGD Gaming (+1.5) | Team Falcons | 1.69 (59¢) | $10,408 | — | ⏳ Pendiente |
 | Weaseloftheweek | Game Handicap: FLC (-1.5) vs LGD Gaming (+1.5) | Team Falcons | 1.69 (59¢) | $12,676 | — | ⏳ Pendiente |
+| Weaseloftheweek | Game Handicap: FLC (-1.5) vs LGD Gaming (+1.5) | Team Falcons | 1.69 (59¢) | $12,676 | — | ⏳ Pendiente |
 | Weaseloftheweek | Game Handicap: FLC (-1.5) vs LGD Gaming (+1.5) | Team Falcons | 1.72 (58¢) | $11,600 | — | ⏳ Pendiente |
+| Weaseloftheweek | Game Handicap: FLC (-1.5) vs LGD Gaming (+1.5) | Team Falcons | 1.72 (58¢) | $11,600 | — | ⏳ Pendiente |
+| Weaseloftheweek | Game Handicap: FLC (-1.5) vs LGD Gaming (+1.5) | Team Falcons | 1.72 (58¢) | $10,238 | — | ⏳ Pendiente |
 | Weaseloftheweek | Game Handicap: FLC (-1.5) vs LGD Gaming (+1.5) | Team Falcons | 1.72 (58¢) | $10,238 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Nigma Galaxy - Game 1 Winner | Iron Wing | 1.52 (66¢) | $15,000 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Nigma Galaxy - Game 1 Winner | Iron Wing | 1.52 (66¢) | $15,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 184 en total)_
 | fRibrenlc | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.45 (69¢) | $15,211 | — | ⏳ Pendiente |
 | fRibrenlc | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.45 (69¢) | $15,211 | — | ⏳ Pendiente |
 | fRibrenlc | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.45 (69¢) | $15,211 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 3.45 (29¢) | $17,974 | — | ⏳ Pendiente |
-| AV23IUa | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.41 (71¢) | $43,854 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 3.45 (29¢) | $17,974 | — | ⏳ Pendiente |
