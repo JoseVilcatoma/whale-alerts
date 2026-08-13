@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 21:05:27 (hora de Perú)
+Actualizado: 2026-08-12 21:07:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $535.60
-**Retorno acumulado:** -46.44%
+**Bankroll actual:** $524.16
+**Retorno acumulado:** -47.58%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 69 | 71 | 5 | +113.15 USD |
+| wr0ngw4yb3tt0r | 70 | 71 | 4 | +114.55 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
@@ -47,14 +47,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| RN1 | 223 | 120 | 34 | -25.54 USD |
+| RN1 | 223 | 121 | 33 | -26.29 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| 1winstreak1 | 118 | 98 | 9 | -70.62 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
-| ferrariChampions2026 | 654 | 489 | 29 | -81.16 USD |
+| ferrariChampions2026 | 654 | 489 | 32 | -81.16 USD |
+| 1winstreak1 | 118 | 100 | 7 | -82.71 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
@@ -483,6 +483,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-sea-nyy-2026-08-12-total-13pt5 | HomeRunHazard, ferrariChampions2026 |
 | lib-cru-fla-2026-08-12-draw | RN1, ferrariChampions2026 |
 | lib-cru-fla-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
+| wnba-min-por-2026-08-12-spread-away-12pt5 | HomeRunHazard, ferrariChampions2026 |
 | mlb-cin-cws-2026-08-12-spread-home-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-cin-cws-2026-08-12-total-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 
@@ -490,6 +491,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will FC Dallas win on 2026-08-12? | No (BUY) | 85% | 2.20 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Minnesota Lynx (-12.5) | Portland Fire (BUY) | 50% | 0.81 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Minnesota Lynx (-11.5) | Portland Fire (BUY) | 46% | 0.74 | ⏳ pendiente | — |
 |  | Spread: Los Angeles FC (-1.5) | Querétaro FC (BUY) | 45% | 3.44 | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 75% | 0.61 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. FC Dallas: O/U 3 | Under (BUY) | 52% | 0.71 | ⏳ pendiente | — |
@@ -517,6 +521,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will CF Monterrey win on 2026-08-12? | No (BUY) | 53% | 1.73 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chicago White Sox (-3.5) | Chicago White Sox (BUY) | 45% | 3.40 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Minnesota Lynx (-12.5) | Portland Fire (BUY) | 48% | 2.10 | ⏳ pendiente | — |
-| RN1 | Spread: CR Flamengo (-1.5) | Cruzeiro EC (BUY) | 92% | 1.41 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: CR Flamengo (-1.5) | Cruzeiro EC (BUY) | 92% | 0.58 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Cleveland Guardians (-2.5) | Detroit Tigers (BUY) | 89% | 2.84 | ✅ ganada | +0.35 |
