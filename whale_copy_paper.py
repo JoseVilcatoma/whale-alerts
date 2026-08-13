@@ -14,10 +14,13 @@ Qué hace, en criollo:
   4. Guarda cada apuesta simulada como "pending" y, cuando el mercado
      resuelve, calcula si esa posición de papel ganó o perdió y ACTUALIZA
      el bankroll simulado.
-  5. No aplica ningún tope por mercado ni límite de pérdida todavía —eso se
-     define después de ver los datos de las primeras semanas—, pero SÍ deja
+  5. No aplica tope por mercado ni límite de pérdida todavía —eso se define
+     después de ver los datos de las primeras semanas—, pero SÍ deja
      registrado cuándo dos o más vigilados apostaron al mismo mercado el
      mismo día, para poder calibrar ese tope más adelante con datos reales.
+     SÍ aplica un tope de seguridad por posición individual (ver
+     MAX_SINGLE_POSITION_PCT abajo) para blindarse de datos de portafolio
+     erróneos o desactualizados de la API de Polymarket.
   6. No toca ninguna wallet real, no firma nada, no gasta nada. Es 100%
      simulación — todo el "dinero" de este script es un número en un
      archivo JSON.
@@ -36,6 +39,11 @@ Variables de entorno (todas opcionales, tienen default):
                                 menos de este % de SU portafolio, para no
                                 replicar "ruido" de apuestas chiquitas
                                 (default 0.1)
+  MAX_SINGLE_POSITION_PCT    - tope de seguridad: ninguna posición de papel
+                                puede superar este % del bankroll simulado,
+                                sin importar qué % calculemos para la
+                                ballena (protege contra datos de portafolio
+                                erróneos/desactualizados) (default 25)
   LB_CATEGORY                 - igual que el bot de alertas (default OVERALL)
   LEADERBOARD_REFRESH_SECONDS - cada cuánto se recalculan los 5 vigilados
                                  (default 900 = 15 min)
@@ -79,6 +87,7 @@ INITIAL_BANKROLL = float(os.environ.get("INITIAL_BANKROLL", "1000"))
 TOP_N_CANDIDATES = int(os.environ.get("TOP_N_CANDIDATES", "30"))
 TOP_K_REPLICATE = int(os.environ.get("TOP_K_REPLICATE", "10"))
 MIN_TRADE_PCT = float(os.environ.get("MIN_TRADE_PCT", "0.1"))
+MAX_SINGLE_POSITION_PCT = float(os.environ.get("MAX_SINGLE_POSITION_PCT", "25"))
 MIN_WHALE_PORTFOLIO = float(os.environ.get("MIN_WHALE_PORTFOLIO", "2000"))
 MAX_DAYS_TO_RESOLUTION = float(os.environ.get("MAX_DAYS_TO_RESOLUTION", "1"))  # solo mercados que resuelven el mismo día
 MIN_SHORT_TERM_SHARE = float(os.environ.get("MIN_SHORT_TERM_SHARE", "0.3"))  # % mínimo de sus apuestas recientes que deben ser de corto plazo
@@ -198,9 +207,7 @@ def is_sports_market(market):
     """Detecta si un mercado es de deportes/esports. Polymarket marca
     internamente los mercados deportivos con un campo 'sports' — si está
     presente, es 100% seguro que es deporte, sin importar el idioma del
-    título o de qué liga se trate (esto es lo que hacía que ligas de
-    fútbol fuera de las 5-6 grandes que tenía a mano, como el Brasileirão,
-    se colaran como "no deportivo"). Las etiquetas y palabras clave quedan
+    título o de qué liga se trate. Las etiquetas y palabras clave quedan
     como respaldo por si ese campo no viene en la respuesta."""
     if not market:
         return False
@@ -253,8 +260,7 @@ def get_alltime_realized_pnl(wallet, max_positions=200):
     hasta 50 por página, así que pagino. Ordeno por fecha (no por PnL) para
     no sesgar: si alguien tiene más de max_positions posiciones cerradas en
     su vida, me quedo con las más RECIENTES, no con "las que más le
-    convienen mostrar" — pedir por PnL descendente escondería justo las
-    pérdidas grandes que este chequeo busca detectar.
+    convienen mostrar".
     Devuelve (pnl_total, ganadas, perdidas) o None si falla la consulta."""
     pnl_total = 0.0
     ganadas = perdidas = 0
@@ -339,9 +345,8 @@ def compute_top5_by_roi():
     """Junta candidatos de semana+mes (por PnL en $, igual que el bot de
     alertas), descarta a los de portafolio muy chico (artefacto de %), a
     los que no operan mayormente en corto plazo, y a los que no tienen un
-    historial ganador sostenido a largo plazo (evita casos como texaskid:
-    buen mes puntual viniendo de un historial muy negativo). De los que
-    quedan, se queda con los 5 mejores por % de rendimiento reciente."""
+    historial ganador sostenido a largo plazo. De los que quedan, se queda
+    con los 5 mejores por % de rendimiento reciente."""
     candidates = {}
     for period in LB_PERIODS:
         try:
@@ -364,24 +369,24 @@ def compute_top5_by_roi():
         value = get_portfolio_value(w)
         if pnl is None or not value or value < MIN_WHALE_PORTFOLIO:
             descartados_portafolio += 1
-            continue  # portafolio casi vacío -> el % se dispara sin ser real habilidad, se descarta
+            continue
 
         historico = get_alltime_realized_pnl(w)
         if historico is not None and historico[0] <= 0:
             descartados_historico += 1
-            continue  # buen mes/semana puntual, pero en su historial completo pierde más de lo que gana
+            continue
 
         ratio = short_term_trade_ratio(w)
         if ratio is None or ratio < MIN_SHORT_TERM_SHARE:
             descartados_cortoplazo += 1
-            continue  # no opera mayormente en mercados de corto plazo, no nos sirve para este bot
+            continue
 
         roi_pct = pnl / value * 100
         scored.append((w, t.get("userName", "anon"), roi_pct, ratio))
 
     print(f"[ranking][diagnóstico] candidatos totales: {total_candidatos} | "
           f"descartados por portafolio chico (<${MIN_WHALE_PORTFOLIO:.0f}): {descartados_portafolio} | "
-          f"descartados por historial completo negativo (pierde más de lo que gana): {descartados_historico} | "
+          f"descartados por historial completo negativo: {descartados_historico} | "
           f"descartados por no ser mayormente corto plazo/deportes (<{MIN_SHORT_TERM_SHARE*100:.0f}%): {descartados_cortoplazo} | "
           f"sobrevivientes finales: {len(scored)}")
 
@@ -416,12 +421,13 @@ def build_summary_md():
 
     total_return_pct = (bankroll - INITIAL_BANKROLL) / INITIAL_BANKROLL * 100
 
-    # coincidencias: mismo mercado, 2+ vigilados, dentro de las últimas 24h
     overlaps = {}
     for tr in trades:
         key = tr["slug"]
         overlaps.setdefault(key, set()).add(tr["username"])
     overlap_markets = {k: v for k, v in overlaps.items() if len(v) > 1}
+
+    recortados_tope = sum(1 for tr in trades if tr.get("recortado_por_tope"))
 
     hora_peru = time.gmtime(time.time() - 5 * 3600)
     lines = [
@@ -433,6 +439,7 @@ def build_summary_md():
         f"**Bankroll actual:** ${bankroll:,.2f}",
         f"**Retorno acumulado:** {total_return_pct:+.2f}%",
         f"**Peor caída desde un máximo (drawdown):** {max_drawdown_pct():.2f}%",
+        f"**Posiciones recortadas por el tope de seguridad ({MAX_SINGLE_POSITION_PCT:.0f}% máx. por posición):** {recortados_tope}",
         "",
         "_Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._",
         "",
@@ -454,16 +461,18 @@ def build_summary_md():
         lines.append("_Todavía no hubo coincidencias._")
 
     lines += ["", "## Últimas 30 apuestas de papel (detalle)", "",
-               "| Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |",
-               "|---|---|---|---|---|---|---|"]
+               "| Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |",
+               "|---|---|---|---|---|---|---|---|"]
     for tr in sorted(trades, key=lambda t: t["timestamp_added"], reverse=True)[:30]:
         estado = {"pending": "⏳ pendiente", "won": "✅ ganada", "lost": "❌ perdida",
                   "cerrada_venta": "💰 vendida anticipada"}.get(tr["status"], tr["status"])
         resultado = f"{tr['profit_usd']:+,.2f}" if tr["status"] != "pending" else "—"
         titulo = (tr.get("title") or "(sin título)")[:40]
+        marca_tope = " ⚠️" if tr.get("recortado_por_tope") else ""
         lines.append(
             f"| {tr.get('username','')} | {titulo} | {tr.get('outcome','')} ({tr.get('side','')}) | "
-            f"{tr.get('odds_at_bet',0)}% | {tr.get('paper_stake_usd',0):,.2f} | {estado} | {resultado} |"
+            f"{tr.get('odds_at_bet',0)}% | {tr.get('paper_stake_usd',0):,.2f}{marca_tope} | "
+            f"{tr.get('whale_pct',0):.1f}% | {estado} | {resultado} |"
         )
 
     SUMMARY_FILE.write_text("\n".join(lines) + "\n")
@@ -483,7 +492,8 @@ def send_telegram(text):
 
 
 # ---------- registrar y resolver posiciones de papel ----------
-def log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, odds, recortado=False):
+def log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, odds,
+                     recortado_bankroll=False, recortado_tope=False, whale_value_at_open=None):
     global trades_dirty
     slug = trade.get("slug")
     same_day_others = sorted({
@@ -503,12 +513,14 @@ def log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, 
             "side": trade.get("side") or "",
             "whale_usd": whale_usd,
             "whale_pct": round(whale_pct, 3),
+            "whale_value_at_open": whale_value_at_open,
             "paper_stake_usd": round(paper_stake, 2),
             "odds_at_bet": odds,
             "status": "pending",
             "profit_usd": 0.0,
             "overlaps_with": same_day_others,
-            "recortado_por_bankroll": recortado,
+            "recortado_por_bankroll": recortado_bankroll,
+            "recortado_por_tope": recortado_tope,
             "last_fill_at": time.time(),
             "fills": 1,
         })
@@ -519,7 +531,9 @@ def log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, 
     aviso += f"Mercado: {trade.get('title','')}\n"
     aviso += f"Apuesta a: {trade.get('outcome','')} ({trade.get('side','')})\n"
     aviso += f"Precio al momento de apostar: {odds}%\n"
-    if recortado:
+    if recortado_tope:
+        aviso += f"⚠️ Recortado por tope de seguridad ({MAX_SINGLE_POSITION_PCT:.0f}% máx. por posición)\n"
+    if recortado_bankroll:
         aviso += "⚠️ Recortado: no había suficiente bankroll disponible para replicar el % completo\n"
     if same_day_others:
         aviso += f"⚠️ Coincide hoy con: {', '.join(same_day_others)}\n"
@@ -545,7 +559,7 @@ def resolve_pending_trades():
             time.sleep(0.1)
             continue
         stake = tr["paper_stake_usd"]
-        odds = tr["odds_at_bet"] / 100.0  # precio 0-1 al momento de apostar
+        odds = tr["odds_at_bet"] / 100.0
         if result == "won" and odds > 0:
             profit = stake * (1 - odds) / odds
         else:
@@ -574,9 +588,7 @@ def on_ws_open(ws):
 def close_position_early(username, wallet, trade, sell_price_pct):
     """Cuando la ballena vende (SELL), busca las posiciones de papel
     pendientes que tengamos abiertas para esa misma wallet+mercado+resultado
-    y las cierra YA, al precio actual — igual que hace la ballena en la
-    vida real al tomar ganancia (o cortar pérdida) antes de que el mercado
-    resuelva."""
+    y las cierra YA, al precio actual."""
     global bankroll, trades_dirty
     slug = trade.get("slug")
     outcome = trade.get("outcome")
@@ -640,7 +652,6 @@ def on_ws_message(ws, message):
     odds = round((trade.get("price") or 0) * 100)
     side = (trade.get("side") or "").upper()
 
-    # SELL: no abre nada nuevo, intenta cerrar lo que ya teníamos replicado
     if side == "SELL":
         cerro_algo = close_position_early(username, wallet, trade, odds)
         if not cerro_algo:
@@ -648,14 +659,13 @@ def on_ws_message(ws, message):
                   f"posición de papel abierta ahí — se ignora")
         return
 
-    # BUY: sigue la lógica de siempre, abrir una posición de papel nueva
     whale_usd = (trade.get("size") or 0) * (trade.get("price") or 0)
     whale_value = get_portfolio_value(wallet)
     if not whale_value or whale_value <= 0:
         return
     whale_pct = whale_usd / whale_value * 100
     if whale_pct < MIN_TRADE_PCT:
-        return  # apuesta demasiado chica para el propio portafolio del vigilado, se ignora como ruido
+        return
 
     market = get_market(trade.get("slug"))
     days_left = days_to_resolution(market)
@@ -667,15 +677,27 @@ def on_ws_message(ws, message):
         print(f"🧪 PAPER — {username}: se ignora, no es un mercado de deportes/esports — {trade.get('title')}")
         return
 
-    merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds)
+    merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds, whale_value)
 
 
-def merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds):
+def merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds, whale_value_now):
     """Si la misma ballena ya tiene una compra reciente (dentro de
     FILL_MERGE_WINDOW_SECONDS) en el mismo mercado+resultado, la suma a esa
-    posición en vez de abrir una nueva — así una compra grande que Polymarket
-    ejecuta en varios pedacitos no compite contra sí misma por el bankroll
-    disponible."""
+    posición en vez de abrir una nueva.
+
+    IMPORTANTE (acá estaba el bug que inflaba el % por encima de 100%):
+    para el % combinado de varios fills SIEMPRE se usa el valor del
+    portafolio de la ballena tomado en el momento en que se abrió la
+    posición (whale_value_at_open) — nunca uno más nuevo. Si en vez de eso
+    se vuelve a consultar /value en cada fill, ese valor ya refleja la
+    plata que la ballena gastó en los fills anteriores (más baja), y dividir
+    el monto TOTAL acumulado entre un número cada vez más chico produce
+    porcentajes sin sentido (se vieron casos de más de 100%, imposibles en
+    la realidad).
+
+    Además, sin importar cómo dé el cálculo, se aplica un tope de seguridad
+    (MAX_SINGLE_POSITION_PCT) para que ninguna posición individual pueda
+    comerse una porción irracional del bankroll simulado."""
     global trades_dirty
     slug = trade.get("slug")
     outcome = trade.get("outcome")
@@ -689,34 +711,47 @@ def merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds):
 
     if existente:
         combined_whale_usd = existente["whale_usd"] + whale_usd
-        whale_value = get_portfolio_value(wallet)
-        combined_pct = combined_whale_usd / whale_value * 100 if whale_value else whale_pct
-        desired_total = combined_pct / 100 * bankroll
+        # Usamos el valor de portafolio congelado en el fill 1, NO uno nuevo.
+        whale_value_base = existente.get("whale_value_at_open") or whale_value_now
+        combined_pct = combined_whale_usd / whale_value_base * 100 if whale_value_base else whale_pct
+        capped_pct = min(combined_pct, MAX_SINGLE_POSITION_PCT)
+        recortado_tope = capped_pct < combined_pct
+
+        desired_total = capped_pct / 100 * bankroll
         available = max(0.0, bankroll - allocated)
         faltante = max(0.0, desired_total - existente["paper_stake_usd"])
         adicional = min(faltante, available)
         nuevo_stake_total = existente["paper_stake_usd"] + adicional
+        recortado_bankroll = adicional < faltante
         nuevo_odds = odds
         if nuevo_stake_total > 0:
             nuevo_odds = round((existente["paper_stake_usd"] * existente["odds_at_bet"] + adicional * odds) / nuevo_stake_total)
         with lock:
             existente["paper_stake_usd"] = round(nuevo_stake_total, 2)
             existente["whale_usd"] = combined_whale_usd
-            existente["whale_pct"] = round(combined_pct, 3)
+            existente["whale_pct"] = round(combined_pct, 3)  # se guarda el % real (sin recortar), para que quede a la vista
             existente["odds_at_bet"] = nuevo_odds
             existente["last_fill_at"] = now
             existente["fills"] = existente.get("fills", 1) + 1
-            if adicional < faltante:
+            if recortado_bankroll:
                 existente["recortado_por_bankroll"] = True
+            if recortado_tope:
+                existente["recortado_por_tope"] = True
             trades_dirty = True
+        nota = ""
+        if recortado_tope:
+            nota += f" [% real {combined_pct:.1f}%, recortado a {MAX_SINGLE_POSITION_PCT:.0f}% por tope de seguridad]"
         print(f"🧪 PAPER — {username}: fill adicional fusionado en {trade.get('title')} "
-              f"(+${adicional:,.2f}, total ${nuevo_stake_total:,.2f}, {existente['fills']} fills)")
+              f"(+${adicional:,.2f}, total ${nuevo_stake_total:,.2f}, {existente['fills']} fills){nota}")
         return
+
+    capped_pct = min(whale_pct, MAX_SINGLE_POSITION_PCT)
+    recortado_tope = capped_pct < whale_pct
 
     with lock:
         available = max(0.0, bankroll - allocated)
-    desired_stake = whale_pct / 100 * bankroll
-    recortado = desired_stake > available
+    desired_stake = capped_pct / 100 * bankroll
+    recortado_bankroll = desired_stake > available
     paper_stake = min(desired_stake, available)
 
     if paper_stake <= 0:
@@ -724,9 +759,15 @@ def merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds):
               f"(${allocated:,.2f} ya comprometidos en posiciones pendientes)")
         return
 
-    nota = " [recortado por falta de bankroll disponible]" if recortado else ""
+    nota = ""
+    if recortado_tope:
+        nota += f" [% real {whale_pct:.1f}%, recortado a {MAX_SINGLE_POSITION_PCT:.0f}% por tope de seguridad]"
+    if recortado_bankroll:
+        nota += " [recortado por falta de bankroll disponible]"
     print(f"🧪 PAPER — {username}: {whale_pct:.2f}% -> ${paper_stake:,.2f} en {trade.get('title')}{nota}")
-    log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, odds, recortado)
+    log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, odds,
+                     recortado_bankroll=recortado_bankroll, recortado_tope=recortado_tope,
+                     whale_value_at_open=whale_value_now)
 
 
 def on_ws_error(ws, error):
@@ -759,12 +800,6 @@ def save_and_commit():
                   f"bajando cambios ajenos y quedándonos con nuestra versión de los paper_* si hay choque...",
                   file=sys.stderr)
             os.system("git fetch origin main")
-            # Usamos merge (no rebase) con estrategia "ours" para los hunks
-            # que choquen: como los archivos paper_* se recalculan enteros
-            # desde la memoria en cada ciclo, no hay nada que perder
-            # prefiriendo siempre nuestra versión más reciente si hay un
-            # conflicto real de contenido (por ejemplo, si quedó una
-            # corrida vieja del mismo bot corriendo en paralelo).
             merge_ok = os.system('git merge --no-edit -X ours origin/main') == 0
             if not merge_ok:
                 os.system("git merge --abort")
@@ -842,10 +877,6 @@ def background_worker():
                 save_and_commit()
                 last_save = now
 
-            # Si ya se cumplió el tiempo máximo de corrida, forzamos el cierre
-            # del websocket para que el hilo principal salga de run_forever()
-            # y el bot pueda terminar prolijo (guardar todo) en vez de que
-            # GitHub lo mate de un tirón sin guardar nada.
             if now - run_start > MAX_RUNTIME_SECONDS and current_ws is not None:
                 print("[paper] tiempo máximo alcanzado, cerrando para terminar prolijo...")
                 try:
