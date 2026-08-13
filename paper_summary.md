@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 18:00:27 (hora de Perú)
+Actualizado: 2026-08-13 18:02:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,183.08
@@ -18,12 +18,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
 | 1winstreak1 | 1 | 3 | 1 | +74.91 USD |
 | swisstony | 28 | 9 | 13 | +21.16 USD |
-| ferrariChampions2026 | 47 | 37 | 48 | +13.84 USD |
+| ferrariChampions2026 | 47 | 37 | 50 | +13.84 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
 | RN1 | 17 | 17 | 58 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
-| theowalcott | 0 | 0 | 12 | +0.00 USD |
+| theowalcott | 0 | 0 | 13 | +0.00 USD |
 | cigarettes | 0 | 0 | 2 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 1 | +0.00 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
@@ -75,6 +75,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Philadelphia Union win on 2026-08-1 | No (BUY) | 45% | 2.40 | 0.2% | ⏳ pendiente | — |
+| theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 43% | 4.06 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Philadelphia Union win on 2026-08-1 | No (BUY) | 45% | 2.41 | 0.2% | ⏳ pendiente | — |
 | theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 43% | 2.40 | 0.2% | ⏳ pendiente | — |
 | theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 43% | 25.87 | 2.2% | ⏳ pendiente | — |
 | UpTheBlues | New York City FC vs. Club Necaxa: O/U 3. | Under (BUY) | 57% | 2.44 | 0.2% | ⏳ pendiente | — |
@@ -102,6 +105,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | Santos FC vs. CSyD Macará: 1st Half O/U  | Under (BUY) | 91% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Santos FC vs. CSyD Macará end in a  | No (BUY) | 69% | 0.00 | 3.7% | ⏳ pendiente | — |
 | RN1 | Will Mirassol FC win on 2026-08-13? | Yes (BUY) | 70% | 0.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | KRÜ Esports (BUY) | 48% | 0.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | BESTIA (BUY) | 48% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Santos FC vs. CSyD Macará: O/U 2.5 | Over (BUY) | 53% | 0.00 | 0.8% | ⏳ pendiente | — |
