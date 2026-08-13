@@ -5544,5 +5544,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786658385.0681632,
     "fills": 3
+  },
+  {
+    "timestamp": 1786658672,
+    "timestamp_added": 1786658673.7177825,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-chc-wsh-2026-08-13-spread-home-4pt5",
+    "title": "Spread: Washington Nationals (-4.5)",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "whale_usd": 126.84999900000001,
+    "whale_pct": 0.715,
+    "whale_value_at_open": 17737.3458,
+    "paper_stake_usd": 7.26,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786658673.7177896,
+    "fills": 1
   }
 ]
