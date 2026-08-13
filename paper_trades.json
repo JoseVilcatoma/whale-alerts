@@ -83944,5 +83944,69 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786591336.5457532,
     "fills": 1
+  },
+  {
+    "timestamp": 1786591546,
+    "timestamp_added": 1786591546.3826761,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-chi-gsv-2026-08-12",
+    "title": "Chicago Sky vs. Golden State Valkyries",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "whale_usd": 783.9805,
+    "whale_pct": 0.156,
+    "paper_stake_usd": 0.84,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786591546.382686,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786591555,
+    "timestamp_added": 1786591555.6814685,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-flc-lgd-2026-08-12-game1",
+    "title": "Dota 2: Team Falcons vs LGD Gaming - Game 1 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "whale_usd": 845.8806230000001,
+    "whale_pct": 0.168,
+    "paper_stake_usd": 0.9,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786591555.6814759,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786591579,
+    "timestamp_added": 1786591579.9404578,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-chi-gsv-2026-08-12",
+    "title": "Chicago Sky vs. Golden State Valkyries",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "whale_usd": 2127.601,
+    "whale_pct": 0.423,
+    "paper_stake_usd": 2.27,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786591579.9404652,
+    "fills": 1
   }
 ]
