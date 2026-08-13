@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 11:03:48 (hora de Perú)
+Actualizado: 2026-08-13 11:05:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **51**  ($3,137,936 en total)
+- Apuestas registradas: **52**  ($3,178,736 en total)
 - Resueltas: **35** — 22 ganadas / 13 perdidas (**63%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 23
 
 ### Balance
@@ -29,11 +29,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
 | Weaseloftheweek | 2 | 1 | 2 | ⚠️ 67% (3) | $224,457 | +$110,752 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
+| AV23IUa | 0 | 1 | 2 | ⚠️ 0% (1) | $123,836 | -$57,499 |
 | TennisLove | 0 | 0 | 1 | — | $100,000 | — |
 | highnetworth | 0 | 0 | 1 | — | $99,472 | — |
 | Marcoli | 0 | 1 | 1 | ⚠️ 0% (1) | $89,838 | -$40,000 |
 | NemecGhudini | 2 | 0 | 0 | ⚠️ 100% (2) | $86,190 | +$36,460 |
-| AV23IUa | 0 | 1 | 1 | ⚠️ 0% (1) | $83,036 | -$57,499 |
 | ferrariChampions2026 | 0 | 1 | 1 | ⚠️ 0% (1) | $80,628 | -$53,788 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 0 | ⚠️ 100% (1) | $79,200 | +$100,800 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 2 | — | $72,258 | — |
@@ -52,6 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | FaZe | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | Legacy | 2.00 (50¢) | $36,923 | — | ⏳ Pendiente |
 | Weaseloftheweek | Seattle Mariners vs. New York Yankees | New York Yankees | 1.67 (60¢) | $69,296 | — | ⏳ Pendiente |
 | highnetworth | Cincinnati Open: Martin Landaluce vs Jack Draper | Martin Landaluce | 1.92 (52¢) | $99,472 | — | ⏳ Pendiente |
