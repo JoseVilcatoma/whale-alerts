@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 21:04:48 (hora de Perú)
+Actualizado: 2026-08-12 21:06:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **887**  ($81,857,819 en total)
+- Apuestas registradas: **889**  ($81,957,819 en total)
 - Resueltas: **767** — 465 ganadas / 302 perdidas (**61%** de acierto)
-- Pendientes: 120
-- Apostadores distintos: 185
+- Pendientes: 122
+- Apostadores distintos: 186
 
 ### Balance
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 33 | 39 | 13 | 46% | $13,937,672 | +$1,764,534 |
-| Djdjdjekekek | 8 | 35 | 2 | 19% | $12,218,005 | -$5,538,794 |
+| Djdjdjekekek | 8 | 35 | 3 | 19% | $12,248,005 | -$5,538,794 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 18 | 26 | 9 | 41% | $5,187,298 | -$1,752,916 |
 | pleaseplease123 | 15 | 24 | 4 | 38% | $3,686,330 | -$247,354 |
 | ferrariChampions2026 | 40 | 11 | 8 | 78% | $3,607,708 | +$409,482 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ThornyDevil | 1 | 3 | 1 | ⚠️ 25% (4) | $339,124 | -$291,637 |
 | tennischamp | 5 | 0 | 0 | ⚠️ 100% (5) | $328,316 | +$77,032 |
 
-_(mostrando los 40 de mayor monto, de 185 en total)_
+_(mostrando los 40 de mayor monto, de 186 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xheavy888 | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | BoomBoys | 1.43 (70¢) | $70,000 | — | ⏳ Pendiente |
+| Djdjdjekekek | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | OG | 3.33 (30¢) | $30,000 | — | ⏳ Pendiente |
 | lIlIlIllllIIIII | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | BoomBoys | 1.33 (75¢) | $31,285 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.22 (45¢) | $26,501 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.22 (45¢) | $26,501 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 185 en total)_
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 2.38 (42¢) | $525,838 | — | ⏳ Pendiente |
 | xifutloong3 | Cincinnati Reds vs. Chicago White Sox | Chicago White Sox | 1.61 (62¢) | $35,429 | — | ⏳ Pendiente |
 | xifutloong3 | Cincinnati Reds vs. Chicago White Sox | Chicago White Sox | 1.61 (62¢) | $106,286 | — | ⏳ Pendiente |
-| icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $115,001 | +$20,294 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox | Cincinnati Reds | 2.56 (39¢) | $37,824 | — | ⏳ Pendiente |
