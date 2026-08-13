@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 07:09:47 (hora de Perú)
+Actualizado: 2026-08-13 07:11:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $963.08
@@ -13,7 +13,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BBQChickenisthebesttt | 38 | 27 | 10 | +558.08 USD |
+| BBQChickenisthebesttt | 38 | 27 | 12 | +558.08 USD |
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | wr0ngw4yb3tt0r | 72 | 74 | 0 | +111.09 USD |
@@ -500,6 +500,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 41% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports (BO3)  | Hanwha Life Esports (BUY) | 25% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports (BO3)  | Hanwha Life Esports (BUY) | 25% | 0.00 | ⏳ pendiente | — |
@@ -528,5 +530,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 18% | 0.00 | ❌ perdida | -0.00 |
 | ActionReaction | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 45% | 0.00 | ❌ perdida | -0.00 |
 | ferrariChampions2026 | Dota 2: Team Yandex vs HULIGANI - Game 1 | HULIGANI (BUY) | 14% | 0.00 | ❌ perdida | -0.00 |
-| BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 61% | 21.54 | ✅ ganada | +13.77 |
-| BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 58% | 0.00 | ✅ ganada | +0.00 |
