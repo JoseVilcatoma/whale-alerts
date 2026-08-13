@@ -84399,5 +84399,49 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786608164.8244658,
     "fills": 1
+  },
+  {
+    "timestamp": 1786608289,
+    "timestamp_added": 1786608290.5316603,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ts8-xtreme-2026-08-13-game1",
+    "title": "Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 782.9217000000001,
+    "whale_pct": 0.442,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786608290.5316684,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786608307,
+    "timestamp_added": 1786608307.921026,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ts8-xtreme-2026-08-13-game1",
+    "title": "Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 782.9217000000001,
+    "whale_pct": 0.442,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786608307.9210336,
+    "fills": 1
   }
 ]
