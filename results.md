@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 01:26:27 (hora de Perú)
+Actualizado: 2026-08-13 01:28:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **23**  ($1,945,892 en total)
+- Apuestas registradas: **24**  ($2,025,892 en total)
 - Resueltas: **12** — 7 ganadas / 5 perdidas (**58%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 13
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 3 | ⚠️ 100% (1) | $599,702 | +$25,000 |
-| Djdjdjekekek | 0 | 1 | 3 | ⚠️ 0% (1) | $373,084 | -$18,620 |
+| Djdjdjekekek | 0 | 1 | 4 | ⚠️ 0% (1) | $453,084 | -$18,620 |
 | S-Works | 0 | 0 | 1 | — | $312,000 | — |
 | 0xheavy888 | 1 | 0 | 2 | ⚠️ 100% (1) | $164,208 | +$2,000 |
 | Weaseloftheweek | 2 | 1 | 0 | ⚠️ 67% (3) | $125,154 | +$110,752 |
@@ -42,6 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Vici Gaming | 2.50 (40¢) | $80,000 | — | ⏳ Pendiente |
 | 0xheavy888 | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Team Liquid | 1.49 (67¢) | $33,407 | — | ⏳ Pendiente |
 | Djdjdjekekek | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Vici Gaming | 3.03 (33¢) | $66,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 2.13 (47¢) | $75,049 | — | ⏳ Pendiente |
