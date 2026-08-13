@@ -79708,8 +79708,8 @@
     "whale_pct": 0.111,
     "paper_stake_usd": 0.71,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.71,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786577858.8169906,
@@ -84912,5 +84912,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786593352.0475464,
     "fills": 3
+  },
+  {
+    "timestamp": 1786593488,
+    "timestamp_added": 1786593488.9231517,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "col-nsi-lug-2026-08-13-spread-away-1pt5",
+    "title": "Spread: FC Lugano (-1.5)",
+    "outcome": "NS\u00cd Runav\u00edk",
+    "side": "BUY",
+    "whale_usd": 659.315,
+    "whale_pct": 0.474,
+    "paper_stake_usd": 2.55,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786593488.9231591,
+    "fills": 1
   }
 ]
