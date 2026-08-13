@@ -1,5 +1,5 @@
 {
-  "bankroll": 1139.9592925818827,
+  "bankroll": 1140.294029423988,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -1150,6 +1150,11 @@
       "timestamp": 1786663695.7166915,
       "bankroll": 1139.96,
       "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786664379.7625933,
+      "bankroll": 1140.29,
+      "event": "won: 1winstreak1 \u2014 Spread: Washington Nationals (-6.5)"
     }
   ]
 }
