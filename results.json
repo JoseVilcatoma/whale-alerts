@@ -362,5 +362,20 @@
     "status": "pending",
     "ultimo_fill": 1786602456,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 48,
+    "timestamp": 1786603779,
+    "username": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-aur1-m80-2026-08-13",
+    "title": "Counter-Strike: Aurora Gaming vs M80 (BO3) - Esports World Cup Group A",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "usd": 35335.0587,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1786603779,
+    "fills": 1
   }
 ]
