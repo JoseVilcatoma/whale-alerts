@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 02:22:23 (hora de Perú)
+Actualizado: 2026-08-13 02:24:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **30**  ($2,263,084 en total)
-- Resueltas: **12** — 7 ganadas / 5 perdidas (**58%** de acierto)
+- Apuestas registradas: **31**  ($2,289,335 en total)
+- Resueltas: **13** — 7 ganadas / 6 perdidas (**54%** de acierto)
 - Pendientes: 18
 - Apostadores distintos: 16
 
 ### Balance
 
-- **Resultado de los apostadores: +$141,895** sobre $692,211 apostados (ROI **+20.5%**)
+- **Resultado de los apostadores: +$132,079** sobre $766,811 apostados (ROI **+17.2%**)
 - Copiando $100 fijo en cada una: **+$247** sobre $1,000 (ROI **+24.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 4 | ⚠️ 100% (1) | $629,209 | +$25,000 |
-| Djdjdjekekek | 0 | 1 | 5 | ⚠️ 0% (1) | $527,684 | -$18,620 |
+| Djdjdjekekek | 0 | 2 | 5 | ⚠️ 0% (2) | $553,935 | -$28,436 |
 | S-Works | 0 | 0 | 1 | — | $312,000 | — |
 | 0xheavy888 | 1 | 0 | 2 | ⚠️ 100% (1) | $164,208 | +$2,000 |
 | Weaseloftheweek | 2 | 1 | 0 | ⚠️ 67% (3) | $125,154 | +$110,752 |
@@ -45,11 +45,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: Aurora vs GamerLegion - Game 1 Winner | GamerLegion | 1.43 (70¢) | $26,251 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.59 (63¢) | $29,507 | — | ⏳ Pendiente |
 | hansama231 | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.64 (61¢) | $34,160 | — | ⏳ Pendiente |
 | NemecGhudini | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.67 (60¢) | $31,590 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.61 (62¢) | $32,000 | — | ⏳ Pendiente |
-| Djdjdjekekek | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Xtreme Gaming | 2.63 (38¢) | $74,600 | — | ⏳ Pendiente |
+| Djdjdjekekek | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Xtreme Gaming | 2.63 (38¢) | $74,600 | -$9,816 | 💰 Vendida antes |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Aurora Gaming vs M80 (BO3) - Esports World Cup Group A | Aurora Gaming | 1.37 (73¢) | $35,335 | — | ⏳ Pendiente |
 | Djdjdjekekek | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Vici Gaming | 2.50 (40¢) | $80,000 | — | ⏳ Pendiente |
 | 0xheavy888 | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Team Liquid | 1.49 (67¢) | $33,407 | — | ⏳ Pendiente |
