@@ -83157,5 +83157,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786588962.8769293,
     "fills": 1
+  },
+  {
+    "timestamp": 1786589043,
+    "timestamp_added": 1786589043.966732,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-chi-gsv-2026-08-12",
+    "title": "Chicago Sky vs. Golden State Valkyries",
+    "outcome": "Chicago Sky",
+    "side": "BUY",
+    "whale_usd": 755.9970000000001,
+    "whale_pct": 0.143,
+    "paper_stake_usd": 0.79,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786589043.9667394,
+    "fills": 1
   }
 ]

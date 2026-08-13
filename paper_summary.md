@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 21:43:01 (hora de Perú)
+Actualizado: 2026-08-12 21:45:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $551.80
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 660 | 496 | 43 | -97.13 USD |
+| ferrariChampions2026 | 660 | 496 | 44 | -97.13 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -499,6 +499,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 33% | 0.79 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 31% | 0.72 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 38% | 0.85 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Seattle Sounders FC win on 2026-08- | No (BUY) | 78% | 0.69 | ⏳ pendiente | — |
@@ -528,4 +529,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 52% | 2.75 | ⏳ pendiente | — |
 | swisstony | Will San Diego FC win on 2026-08-12? | Yes (BUY) | 56% | 0.59 | ⏳ pendiente | — |
 | swisstony | Spread: San Diego FC (-1.5) | Club Puebla (BUY) | 66% | 0.79 | ⏳ pendiente | — |
-| swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 91% | 2.71 | ⏳ pendiente | — |
