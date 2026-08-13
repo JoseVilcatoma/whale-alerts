@@ -1,12 +1,12 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 12:27:55 (hora de Perú)
+Actualizado: 2026-08-13 12:30:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
 **Retorno acumulado:** +0.00%
 **Peor caída desde un máximo (drawdown):** 0.00%
-**Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 3
+**Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 4
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -15,13 +15,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 61 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 62 | +0.00 USD |
 | RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 16 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
-| ActionReaction | 0 | 0 | 4 | +0.00 USD |
+| ActionReaction | 0 | 0 | 5 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | SDTrading | 0 | 0 | 1 | +0.00 USD |
 
@@ -41,6 +41,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 89% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 64% | 0.00 ⚠️ | 52.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 39% | 0.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 41% | 0.00 | 0.7% | ⏳ pendiente | — |
 | ActionReaction | LoL: Team Heretics Academy vs ⁠Movistar  | ⁠Movistar KOI Fénix (BUY) | 58% | 0.00 | 14.9% | ⏳ pendiente | — |
@@ -69,5 +71,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Astralis (BUY) | 27% | 0.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Team Falcons (BUY) | 71% | 0.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Team Falcons vs Astralis | Astralis (BUY) | 32% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe - Map 1 W | Legacy (BUY) | 27% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe - Map 1 W | FaZe (BUY) | 74% | 0.00 | 0.3% | ⏳ pendiente | — |
