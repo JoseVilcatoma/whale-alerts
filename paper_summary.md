@@ -1,9 +1,9 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 19:54:49 (hora de Perú)
+Actualizado: 2026-08-12 19:58:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $613.02
+**Bankroll actual:** $612.98
 **Retorno acumulado:** -38.70%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
@@ -20,12 +20,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
-| 1winstreak1 | 113 | 90 | 22 | +31.85 USD |
+| 1winstreak1 | 114 | 90 | 21 | +32.86 USD |
 | greyoctober | 12 | 14 | 0 | +29.76 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 33 | 0 | +20.63 USD |
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 4 | 9 | 1 | +15.41 USD |
-| HomeRunHazard | 114 | 98 | 9 | +11.88 USD |
+| HomeRunHazard | 114 | 98 | 12 | +11.88 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 203 | 113 | 47 | -39.67 USD |
+| RN1 | 203 | 114 | 50 | -40.72 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -470,13 +470,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-chc-wsh-2026-08-12-total-8pt5 | 1winstreak1, RN1 |
 | mlb-sea-nyy-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
 | mlb-pit-mia-2026-08-12-total-9pt5 | 1winstreak1, RN1 |
+| mlb-nym-atl-2026-08-12-total-7pt5 | 1winstreak1, HomeRunHazard, RN1 |
 | mlb-cle-det-2026-08-12-total-10pt5 | 1winstreak1, HomeRunHazard |
 | lib-cru-fla-2026-08-12-cru | AV23IUa, RN1 |
+| mlb-nym-atl-2026-08-12-total-9pt5 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | New York Mets vs. Atlanta Braves: O/U 9. | Under (BUY) | 69% | 0.72 | ⏳ pendiente | — |
+| HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 9. | Under (BUY) | 68% | 0.97 | ⏳ pendiente | — |
+| HomeRunHazard | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 81% | 1.35 | ⏳ pendiente | — |
+| RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 69% | 0.64 | ⏳ pendiente | — |
+| HomeRunHazard | New York Mets vs. Atlanta Braves: O/U 7. | Over (BUY) | 71% | 1.73 | ⏳ pendiente | — |
+| RN1 | New York Mets vs. Atlanta Braves: O/U 7. | Under (BUY) | 29% | 0.80 | ⏳ pendiente | — |
+| RN1 | New York Mets vs. Atlanta Braves: O/U 7. | Over (BUY) | 49% | 0.70 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Toronto Blue Jays (BUY) | 73% | 1.18 | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 79% | 1.60 | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-12? | Yes (BUY) | 34% | 1.29 | ⏳ pendiente | — |
@@ -500,10 +509,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Spread: Chicago Cubs (-3.5) | Chicago Cubs (BUY) | 48% | 29.96 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago Cubs (-5.5) | Chicago Cubs (BUY) | 23% | 10.42 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago Cubs (-2.5) | Chicago Cubs (BUY) | 65% | 9.06 | ⏳ pendiente | — |
-| RN1 | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 57% | 1.46 | ⏳ pendiente | — |
-| RN1 | Will CA Platense vs. CD Coquimbo Unido e | Yes (BUY) | 94% | 1.53 | ⏳ pendiente | — |
-| 1winstreak1 | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 20% | 1.43 | ⏳ pendiente | — |
-| RN1 | Red Bull Bragantino vs. CA Mineiro: O/U  | Under (BUY) | 99% | 6.68 | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres (BUY) | 92% | 0.93 | ✅ ganada | +0.08 |
-| ferrariChampions2026 | Spread: Miami Marlins (-2.5) | Pittsburgh Pirates (BUY) | 38% | 0.82 | ⏳ pendiente | — |
-| RN1 | Will Montevideo City Torque win on 2026- | Yes (BUY) | 84% | 2.04 | ⏳ pendiente | — |
