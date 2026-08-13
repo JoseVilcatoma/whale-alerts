@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 13:20:02 (hora de Perú)
+Actualizado: 2026-08-13 13:22:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
-| ferrariChampions2026 | 0 | 1 | 92 | +0.00 USD |
-| RN1 | 0 | 0 | 41 | +0.00 USD |
+| ferrariChampions2026 | 0 | 1 | 95 | +0.00 USD |
+| RN1 | 0 | 0 | 46 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 28 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -44,12 +44,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | uel-ucr-kps-2026-08-13-total-2pt5 | RN1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-13-total-7pt5 | RN1, ferrariChampions2026 |
 | col-hif-rak-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
+| uel-paf-rbs-2026-08-13-total-5pt5 | RN1, ferrariChampions2026, swisstony |
 | uel-bes-hra-2026-08-13-total-2pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 77% | 0.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 63% | 0.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 72% | 0.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 63% | 0.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 64% | 0.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Will KF Víkingur win on 2026-08-13? | Yes (BUY) | 34% | 0.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Páfos FC vs. FC Red Bull Salzburg: O/U 5 | Under (BUY) | 72% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Páfos FC vs. FC Red Bull Salzburg: O/U 5 | Under (BUY) | 72% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will FC Drita win on 2026-08-13? | Yes (BUY) | 85% | 0.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will FC Sion vs. Noah FA end in a draw? | No (BUY) | 76% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | FK Dynama-Minsk vs. SC Braga: O/U 0.5 | Over (BUY) | 69% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -72,11 +81,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Beşiktaş JK (-1.5) | Beşiktaş JK (BUY) | 58% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Will Hammarby Fotboll win on 2026-08-13? | No (BUY) | 77% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will KF Víkingur win on 2026-08-13? | Yes (BUY) | 37% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | KF Víkingur vs. FC Thun: O/U 4.5 | Over (BUY) | 88% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Universitatea Craiova CS win on 202 | Yes (BUY) | 60% | 0.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | FC Midtjylland vs. Bohemian FC: O/U 1.5 | Over (BUY) | 100% | 0.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Spread: FC St. Gallen (-1.5) | FC St. Gallen (BUY) | 72% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will Universitatea Craiova CS win on 202 | No (BUY) | 39% | 0.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Will FC Thun win on 2026-08-13? | No (BUY) | 65% | 0.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Will FC St. Gallen win on 2026-08-13? | Yes (BUY) | 90% | 0.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | FC Vaduz vs. FC Inter Turku: O/U 3.5 | Over (BUY) | 58% | 0.00 | 0.2% | ⏳ pendiente | — |
