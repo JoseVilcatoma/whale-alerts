@@ -1,5 +1,5 @@
 {
-  "bankroll": 1181.3759272102839,
+  "bankroll": 1139.9592925818827,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -1015,6 +1015,141 @@
       "timestamp": 1786663453.2537708,
       "bankroll": 1181.38,
       "event": "won: swisstony \u2014 Will FC Inter Turku win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786663690.6712828,
+      "bankroll": 1178.24,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: FC Lugano (-1.5)"
+    },
+    {
+      "timestamp": 1786663691.025546,
+      "bankroll": 1151.95,
+      "event": "lost: Lakersfan111 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786663691.4600987,
+      "bankroll": 1139.4,
+      "event": "lost: Lakersfan111 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786663691.5602546,
+      "bankroll": 1138.26,
+      "event": "lost: Nooserac \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786663691.9887276,
+      "bankroll": 1138.26,
+      "event": "won: ActionReaction \u2014 LoL: Team Heretics Academy vs \u2060Movistar KOI F\u00e9nix - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786663692.2907426,
+      "bankroll": 1138.26,
+      "event": "won: ferrariChampions2026 \u2014 Will Universitatea Craiova CS win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786663692.3910413,
+      "bankroll": 1138.26,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786663692.491187,
+      "bankroll": 1138.26,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786663692.5913794,
+      "bankroll": 1138.26,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786663692.6915452,
+      "bankroll": 1138.26,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786663692.7917397,
+      "bankroll": 1138.26,
+      "event": "lost: ActionReaction \u2014 LoL: Team Heretics Academy vs \u2060Movistar KOI F\u00e9nix - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786663692.8919241,
+      "bankroll": 1138.26,
+      "event": "lost: ActionReaction \u2014 LoL: Team Heretics Academy vs \u2060Movistar KOI F\u00e9nix - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786663692.9921026,
+      "bankroll": 1138.26,
+      "event": "lost: ActionReaction \u2014 LoL: Team Heretics Academy vs \u2060Movistar KOI F\u00e9nix - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786663693.0922463,
+      "bankroll": 1138.26,
+      "event": "lost: ActionReaction \u2014 LoL: Team Heretics Academy vs \u2060Movistar KOI F\u00e9nix - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786663693.192395,
+      "bankroll": 1138.26,
+      "event": "lost: ActionReaction \u2014 LoL: Team Heretics Academy vs \u2060Movistar KOI F\u00e9nix - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786663693.712016,
+      "bankroll": 1138.26,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786663694.0126312,
+      "bankroll": 1138.26,
+      "event": "lost: RN1 \u2014 Will Universitatea Craiova CS win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786663694.1128726,
+      "bankroll": 1138.26,
+      "event": "won: ferrariChampions2026 \u2014 Will Universitatea Craiova CS win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786663694.4142823,
+      "bankroll": 1138.26,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786663694.8150187,
+      "bankroll": 1138.26,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786663695.1155274,
+      "bankroll": 1138.26,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786663695.2157679,
+      "bankroll": 1138.26,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786663695.3159795,
+      "bankroll": 1138.26,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786663695.416143,
+      "bankroll": 1138.26,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786663695.5163565,
+      "bankroll": 1138.26,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786663695.6165068,
+      "bankroll": 1138.65,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786663695.7166915,
+      "bankroll": 1139.96,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B"
     }
   ]
 }

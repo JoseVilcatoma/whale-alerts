@@ -499,8 +499,8 @@
     "whale_value_at_open": 493637.5806,
     "paper_stake_usd": 3.14,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -3.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -699,8 +699,8 @@
     "whale_value_at_open": 292170.7463,
     "paper_stake_usd": 26.29,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -26.29,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -925,8 +925,8 @@
     "whale_value_at_open": 300564.1852,
     "paper_stake_usd": 12.55,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -12.55,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -947,8 +947,8 @@
     "whale_value_at_open": 565001.3768,
     "paper_stake_usd": 1.14,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.14,
     "overlaps_with": [
       "Lakersfan111"
     ],
@@ -1551,7 +1551,7 @@
     "whale_value_at_open": 2408.0395,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -1661,7 +1661,7 @@
     "whale_value_at_open": 453340.1705,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -1683,8 +1683,8 @@
     "whale_value_at_open": 442339.1639,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 36,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Lakersfan111",
       "Nooserac"
@@ -2104,8 +2104,8 @@
     "whale_value_at_open": 490203.4288,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 31,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Lakersfan111",
       "Nooserac"
@@ -2173,8 +2173,8 @@
     "whale_value_at_open": 480906.9431,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 30,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Lakersfan111",
       "Nooserac"
@@ -2242,8 +2242,8 @@
     "whale_value_at_open": 485671.1763,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 28,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Lakersfan111",
       "Nooserac"
@@ -2421,8 +2421,8 @@
     "whale_value_at_open": 2423.8711,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -2443,8 +2443,8 @@
     "whale_value_at_open": 2423.8711,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -2509,8 +2509,8 @@
     "whale_value_at_open": 2704.6363,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": true,
@@ -2597,8 +2597,8 @@
     "whale_value_at_open": 4257.8948,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 35,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -2641,8 +2641,8 @@
     "whale_value_at_open": 4837.4584,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 34,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -3451,7 +3451,7 @@
     "whale_value_at_open": 578847.5738,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 66,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "Lakersfan111",
@@ -3745,8 +3745,8 @@
     "whale_value_at_open": 331794.2087,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 39,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -3813,7 +3813,7 @@
     "whale_value_at_open": 490226.6071,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "RN1"
@@ -3971,8 +3971,8 @@
     "whale_value_at_open": 499924.3993,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 26,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Lakersfan111",
       "Nooserac"
@@ -4262,7 +4262,7 @@
     "whale_value_at_open": 532180.7861,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 77,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "Lakersfan111",
@@ -4468,7 +4468,7 @@
     "whale_value_at_open": 536066.3625,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "Lakersfan111",
@@ -4515,7 +4515,7 @@
     "whale_value_at_open": 538462.0253,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 77,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "Lakersfan111",
@@ -4562,7 +4562,7 @@
     "whale_value_at_open": 538462.0253,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "Lakersfan111",
@@ -4633,8 +4633,8 @@
     "whale_value_at_open": 546309.0553,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 30,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Lakersfan111",
       "Nooserac"
@@ -4680,8 +4680,8 @@
     "whale_value_at_open": 553295.3734,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 22,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "Lakersfan111",
       "Nooserac"
@@ -4751,8 +4751,8 @@
     "whale_value_at_open": 556114.1582,
     "paper_stake_usd": 1.92,
     "odds_at_bet": 83,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.39,
     "overlaps_with": [
       "Lakersfan111",
       "Nooserac"
@@ -5036,8 +5036,8 @@
     "whale_value_at_open": 536361.1257,
     "paper_stake_usd": 10.6,
     "odds_at_bet": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.31,
     "overlaps_with": [
       "Lakersfan111",
       "Nooserac"
