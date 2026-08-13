@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 19:28:13 (hora de Perú)
+Actualizado: 2026-08-12 19:31:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2117**  ($57,014,528 en total)
+- Apuestas registradas: **2118**  ($57,031,893 en total)
 - Resueltas: **1360** — 808 ganadas / 552 perdidas (**59%** de acierto)
-- Pendientes: 757
-- Apostadores distintos: 181
+- Pendientes: 758
+- Apostadores distintos: 182
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ThornyDevil | 2 | 6 | 1 | 25% | $254,880 | -$207,394 |
 | DonaldinhoTrumpito | 0 | 0 | 13 | — | $244,529 | — |
 
-_(mostrando los 40 de mayor monto, de 181 en total)_
+_(mostrando los 40 de mayor monto, de 182 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HyperwellNerdZ | Will Deportivo Toluca FC win on 2026-08-12? | Yes | 1.37 (73¢) | $17,365 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Elina Svitolina vs Iga Swiatek | Iga Swiatek | 1.49 (67¢) | $20,515 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Elina Svitolina vs Iga Swiatek | Iga Swiatek | 1.49 (67¢) | $20,515 | — | ⏳ Pendiente |
 | ferrariChampions2026 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.22 (82¢) | $13,597 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 | xifutloong3 | Cincinnati Reds vs. Chicago White Sox | Chicago White Sox | 1.61 (62¢) | $35,429 | — | ⏳ Pendiente |
 | icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $24,734 | — | ⏳ Pendiente |
 | icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $24,734 | — | ⏳ Pendiente |
-| icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $10,200 | — | ⏳ Pendiente |
