@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 14:05:56 (hora de Perú)
+Actualizado: 2026-08-13 14:08:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,248.14
@@ -17,8 +17,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | ferrariChampions2026 | 5 | 6 | 96 | +5.38 USD |
 | RN1 | 2 | 1 | 45 | +1.64 USD |
-| swisstony | 5 | 0 | 42 | +1.09 USD |
-| wr0ngw4yb3tt0r | 0 | 1 | 7 | +0.00 USD |
+| swisstony | 5 | 0 | 44 | +1.09 USD |
+| wr0ngw4yb3tt0r | 0 | 1 | 8 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
@@ -60,6 +60,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | RSC Anderlecht vs. PAOK: O/U 1.5 | Over (BUY) | 100% | 3.58 | 0.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 51% | 1.83 | 0.1% | ⏳ pendiente | — |
+| swisstony | Rangers FC vs. Jagiellonia Białystok: O/ | Over (BUY) | 87% | 1.78 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 40% | 6.05 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 51% | 13.24 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 49% | 1.81 | 0.1% | ⏳ pendiente | — |
@@ -87,6 +90,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: AS Omónoia Leukosías (-1.5) | Lincoln Red Imps FC (BUY) | 46% | 6.94 | 0.7% | ⏳ pendiente | — |
 | swisstony | Spread: Beşiktaş JK (-1.5) | FC Hradec Králové (BUY) | 51% | 1.58 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: AS Omónoia Leukosías (-1.5) | Lincoln Red Imps FC (BUY) | 45% | 5.37 | 0.5% | ⏳ pendiente | — |
-| swisstony | Górnik Zabrze vs. Ferencvárosi TC: O/U 1 | Under (BUY) | 49% | 1.66 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 83% | 1.92 | 0.2% | ⏳ pendiente | — |
-| swisstony | Górnik Zabrze vs. Ferencvárosi TC: O/U 2 | Under (BUY) | 83% | 0.00 | 0.7% | ⏳ pendiente | — |
