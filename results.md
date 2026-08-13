@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 03:07:06 (hora de Perú)
+Actualizado: 2026-08-13 03:09:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **33**  ($2,352,160 en total)
-- Resueltas: **13** — 7 ganadas / 6 perdidas (**54%** de acierto)
-- Pendientes: 20
+- Resueltas: **15** — 9 ganadas / 6 perdidas (**60%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 16
 
 ### Balance
 
-- **Resultado de los apostadores: +$132,079** sobre $766,811 apostados (ROI **+17.2%**)
-- Copiando $100 fijo en cada una: **+$247** sobre $1,000 (ROI **+24.7%**)
+- **Resultado de los apostadores: +$298,709** sobre $1,162,567 apostados (ROI **+25.7%**)
+- Copiando $100 fijo en cada una: **+$323** sobre $1,200 (ROI **+26.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 6 | ⚠️ 100% (1) | $692,035 | +$25,000 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 2 | 0 | 5 | ⚠️ 100% (2) | $692,035 | +$181,202 |
 | Djdjdjekekek | 0 | 2 | 5 | ⚠️ 0% (2) | $553,935 | -$28,436 |
 | S-Works | 0 | 0 | 1 | — | $312,000 | — |
 | 0xheavy888 | 1 | 0 | 2 | ⚠️ 100% (1) | $164,208 | +$2,000 |
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 1 | — | $35,335 | — |
 | hansama231 | 0 | 0 | 1 | — | $34,160 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 1 | — | $32,000 | — |
-| lIlIlIllllIIIII | 0 | 0 | 1 | — | $31,285 | — |
+| lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
 
@@ -74,7 +74,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | National Bank Open: Elina Svitolina vs Iga Swiatek | Elina Svitolina | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $46,170 | +$61,202 | ✅ Ganada |
 | AV23IUa | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.75 (57¢) | $57,499 | -$57,499 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | BoomBoys | 1.43 (70¢) | $364,470 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | BoomBoys | 1.43 (70¢) | $364,470 | +$156,202 | ✅ Ganada |
 | Djdjdjekekek | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | OG | 3.33 (30¢) | $186,199 | -$18,620 | 💰 Vendida antes |
 | 0xheavy888 | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | BoomBoys | 1.43 (70¢) | $70,000 | +$2,000 | 💰 Vendida antes |
-| lIlIlIllllIIIII | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | BoomBoys | 1.33 (75¢) | $31,285 | — | ⏳ Pendiente |
+| lIlIlIllllIIIII | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | BoomBoys | 1.33 (75¢) | $31,285 | +$10,428 | ✅ Ganada |
