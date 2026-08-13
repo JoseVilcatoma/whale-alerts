@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 21:15:52 (hora de Perú)
+Actualizado: 2026-08-12 21:17:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $593.74
-**Retorno acumulado:** -40.63%
+**Bankroll actual:** $592.31
+**Retorno acumulado:** -40.77%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -26,10 +26,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 4 | 10 | 0 | +15.41 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| HomeRunHazard | 122 | 105 | 12 | +4.24 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | UpTheBlues | 258 | 157 | 6 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
+| HomeRunHazard | 122 | 106 | 11 | +1.20 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 | SnakeBall | 7 | 3 | 0 | +0.17 USD |
 | donthackme | 8 | 1 | 0 | +0.11 USD |
@@ -50,12 +50,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 225 | 122 | 30 | -26.30 USD |
-| swisstony | 171 | 114 | 3 | -26.60 USD |
+| swisstony | 171 | 114 | 4 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
-| ferrariChampions2026 | 656 | 490 | 29 | -82.54 USD |
+| ferrariChampions2026 | 657 | 490 | 28 | -80.93 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
@@ -494,6 +494,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 89% | 2.42 | ⏳ pendiente | — |
 |  | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 97% | 3.94 | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Falcons vs LGD Gaming (BO3) | LGD Gaming (BUY) | 19% | 46.49 | ⏳ pendiente | — |
 | swisstony | San Diego FC vs. Club Puebla: O/U 3.5 | Under (BUY) | 59% | 1.19 | ⏳ pendiente | — |
@@ -519,8 +520,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Under (BUY) | 66% | 1.02 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Under (BUY) | 67% | 0.84 | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 40% | 2.23 | ❌ perdida | -2.23 |
-| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 48% | 1.49 | ⏳ pendiente | — |
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 48% | 1.49 | ✅ ganada | +1.61 |
 | HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 73% | 0.96 | ❌ perdida | -0.96 |
 | RN1 | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 59% | 2.75 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 60% | 3.24 | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 40% | 2.33 | ⏳ pendiente | — |
