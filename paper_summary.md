@@ -1,12 +1,12 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 13:53:26 (hora de Perú)
+Actualizado: 2026-08-13 13:55:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,246.45
 **Retorno acumulado:** +24.65%
 **Peor caída desde un máximo (drawdown):** 11.24%
-**Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 4
+**Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 5
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -19,11 +19,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 0 | 1 | 6 | +0.00 USD |
 | RN1 | 0 | 0 | 48 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
-| swisstony | 1 | 0 | 43 | +0.00 USD |
+| swisstony | 1 | 0 | 45 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 7 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 2 | +0.00 USD |
+| CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -58,6 +59,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Will FC Inter Turku win on 2026-08-13? | No (BUY) | 96% | 1.94 | 0.2% | ⏳ pendiente | — |
+| swisstony | RSC Anderlecht vs. PAOK: Both Teams to S | Yes (BUY) | 71% | 2.20 | 0.2% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Spirit vs Aurora (BO3) - Th | Aurora (BUY) | 45% | 206.34 | 16.6% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Spirit vs Aurora (BO3) - Th | Aurora (BUY) | 45% | 311.61 ⚠️ | 40.6% | ⏳ pendiente | — |
 | swisstony | Will RSC Anderlecht win on 2026-08-13? | Yes (BUY) | 61% | 2.07 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 57% | 6.07 | 0.5% | ⏳ pendiente | — |
 | swisstony | Rangers FC vs. Jagiellonia Białystok: O/ | Over (BUY) | 100% | 2.08 | 0.2% | ⏳ pendiente | — |
@@ -84,7 +89,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 30% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Nordsjælland vs. KF Valur: O/U 4.5 | Over (BUY) | 43% | 0.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 61% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 75% | 0.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | FC Nordsjælland vs. KF Valur: O/U 4.5 | Over (BUY) | 45% | 0.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 77% | 0.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 63% | 0.00 | 1.9% | ⏳ pendiente | — |
