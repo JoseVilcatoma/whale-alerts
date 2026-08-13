@@ -1,5 +1,5 @@
 {
-  "bankroll": 561.2219624776686,
+  "bankroll": 555.2529897332306,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19465,6 +19465,71 @@
       "timestamp": 1786596263.927009,
       "bankroll": 561.22,
       "event": "won: ferrariChampions2026 \u2014 Will CF Monterrey win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786596950.6276069,
+      "bankroll": 560.63,
+      "event": "lost: HomeRunHazard \u2014 Chicago Sky vs. Golden State Valkyries: O/U 165.5"
+    },
+    {
+      "timestamp": 1786596950.9863853,
+      "bankroll": 559.91,
+      "event": "lost: HomeRunHazard \u2014 Chicago Sky vs. Golden State Valkyries: O/U 166.5"
+    },
+    {
+      "timestamp": 1786596951.3655467,
+      "bankroll": 559.91,
+      "event": "won: UpTheBlues \u2014 Chicago Sky vs. Golden State Valkyries: O/U 167.5"
+    },
+    {
+      "timestamp": 1786596952.0433855,
+      "bankroll": 557.61,
+      "event": "lost:  \u2014 Spread: Golden State Valkyries (-8.5)"
+    },
+    {
+      "timestamp": 1786596953.460889,
+      "bankroll": 558.16,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Golden State Valkyries: O/U 165.5"
+    },
+    {
+      "timestamp": 1786596953.5610716,
+      "bankroll": 555.85,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago Sky vs. Golden State Valkyries: O/U 165.5"
+    },
+    {
+      "timestamp": 1786596954.1160574,
+      "bankroll": 556.56,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Sky vs. Golden State Valkyries: O/U 165.5"
+    },
+    {
+      "timestamp": 1786596955.8186429,
+      "bankroll": 555.26,
+      "event": "lost: swisstony \u2014 Chicago Sky vs. Golden State Valkyries: O/U 167.5"
+    },
+    {
+      "timestamp": 1786596957.383122,
+      "bankroll": 558.43,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Golden State Valkyries (-8.5)"
+    },
+    {
+      "timestamp": 1786596957.483339,
+      "bankroll": 559.48,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Golden State Valkyries (-8.5)"
+    },
+    {
+      "timestamp": 1786596957.9840798,
+      "bankroll": 560.68,
+      "event": "won: swisstony \u2014 Chicago Sky vs. Golden State Valkyries: O/U 165.5"
+    },
+    {
+      "timestamp": 1786596958.0842872,
+      "bankroll": 559.79,
+      "event": "lost: swisstony \u2014 Chicago Sky vs. Golden State Valkyries: O/U 166.5"
+    },
+    {
+      "timestamp": 1786596963.790669,
+      "bankroll": 555.25,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago Sky vs. Golden State Valkyries: O/U 166.5"
     }
   ]
 }
