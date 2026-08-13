@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 20:46:39 (hora de Perú)
+Actualizado: 2026-08-12 20:48:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $578.90
-**Retorno acumulado:** -42.11%
+**Bankroll actual:** $578.08
+**Retorno acumulado:** -42.19%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -53,8 +53,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
-| ferrariChampions2026 | 647 | 484 | 37 | -89.97 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
+| ferrariChampions2026 | 647 | 485 | 37 | -90.79 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -480,6 +480,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-nym-atl-2026-08-12-total-9pt5 | HomeRunHazard, RN1 |
 | mlb-chc-wsh-2026-08-12-total-16pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-sea-nyy-2026-08-12-total-13pt5 | HomeRunHazard, ferrariChampions2026 |
+| lib-cru-fla-2026-08-12-draw | RN1, ferrariChampions2026 |
 | lib-cru-fla-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
 | mlb-cin-cws-2026-08-12-total-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 
@@ -487,6 +488,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Cruzeiro EC vs. CR Flamengo end in  | No (BUY) | 73% | 0.62 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 45% | 1.27 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 45% | 2.75 | ⏳ pendiente | — |
 | RN1 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Under (BUY) | 66% | 1.02 | ⏳ pendiente | — |
@@ -516,4 +518,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Spread: Toronto Blue Jays (-2.5) | Boston Red Sox (BUY) | 53% | 1.65 | ⏳ pendiente | — |
 | RN1 | Cruzeiro EC vs. CR Flamengo: O/U 0.5 | Over (BUY) | 73% | 1.12 | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 71% | 1.14 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Cleveland Guardians (-2.5) | Detroit Tigers (BUY) | 40% | 4.29 | ⏳ pendiente | — |
