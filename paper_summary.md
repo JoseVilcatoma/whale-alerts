@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 21:13:45 (hora de Perú)
+Actualizado: 2026-08-12 21:15:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $594.41
-**Retorno acumulado:** -40.56%
+**Bankroll actual:** $593.74
+**Retorno acumulado:** -40.63%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 70 | 71 | 4 | +114.55 USD |
+| wr0ngw4yb3tt0r | 71 | 71 | 3 | +117.91 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
@@ -36,7 +36,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 2 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-|  | 0 | 0 | 5 | +0.00 USD |
+|  | 0 | 0 | 6 | +0.00 USD |
+| CORGI8 | 0 | 0 | 1 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -49,12 +50,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 225 | 122 | 30 | -26.30 USD |
-| swisstony | 171 | 114 | 1 | -26.60 USD |
+| swisstony | 171 | 114 | 3 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| ferrariChampions2026 | 655 | 489 | 31 | -78.51 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
+| ferrariChampions2026 | 656 | 490 | 29 | -82.54 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
@@ -455,6 +456,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-sea-nyy-2026-08-12-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-bos-tor-2026-08-12-total-7pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-12-total-8pt5 | 1winstreak1, HomeRunHazard |
+| lib-cru-fla-2026-08-12-total-2pt5 | RN1, swisstony |
 | lib-pal-cep-2026-08-12-pal | RN1, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-12-spread-home-1pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-12-spread-away-2pt5 | 1winstreak1, RN1, ferrariChampions2026, wr0ngw4yb3tt0r |
@@ -492,6 +494,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+|  | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 97% | 3.94 | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Falcons vs LGD Gaming (BO3) | LGD Gaming (BUY) | 19% | 46.49 | ⏳ pendiente | — |
+| swisstony | San Diego FC vs. Club Puebla: O/U 3.5 | Under (BUY) | 59% | 1.19 | ⏳ pendiente | — |
+| swisstony | Cruzeiro EC vs. CR Flamengo: O/U 2.5 | Under (BUY) | 68% | 1.66 | ⏳ pendiente | — |
 |  | Will San Diego FC win on 2026-08-12? | Yes (BUY) | 55% | 1.41 | ⏳ pendiente | — |
 | swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 85% | 0.89 | ⏳ pendiente | — |
 |  | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 96% | 4.75 | ⏳ pendiente | — |
@@ -503,13 +509,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 75% | 0.61 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. FC Dallas: O/U 3 | Under (BUY) | 52% | 0.71 | ⏳ pendiente | — |
 |  | Spread: Golden State Valkyries (-8.5) | Chicago Sky (BUY) | 51% | 2.30 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 53% | 5.58 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 53% | 5.58 | ❌ perdida | -5.58 |
 | wr0ngw4yb3tt0r | Spread: Chicago White Sox (-3.5) | Cincinnati Reds (BUY) | 76% | 2.63 | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 91% | 0.63 | ⏳ pendiente | — |
 | RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 33% | 0.58 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Cruzeiro EC vs. CR Flamengo end in  | No (BUY) | 73% | 0.62 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 45% | 1.27 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 45% | 2.75 | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 45% | 1.27 | ✅ ganada | +1.55 |
+| wr0ngw4yb3tt0r | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 45% | 2.75 | ✅ ganada | +3.36 |
 | RN1 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Under (BUY) | 66% | 1.02 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Under (BUY) | 67% | 0.84 | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 40% | 2.23 | ❌ perdida | -2.23 |
@@ -518,7 +524,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 59% | 2.75 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 60% | 3.24 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 40% | 2.33 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 34% | 0.77 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 34% | 0.76 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 35% | 0.78 | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Minnesota Lynx (-13.5) | Minnesota Lynx (BUY) | 47% | 0.70 | ⏳ pendiente | — |
