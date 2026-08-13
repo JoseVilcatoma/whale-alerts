@@ -1,5 +1,5 @@
 {
-  "bankroll": 543.8570108900888,
+  "bankroll": 549.2898422026822,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19200,6 +19200,201 @@
       "timestamp": 1786595467.553621,
       "bankroll": 543.86,
       "event": "won: ferrariChampions2026 \u2014 Minnesota Lynx vs. Portland Fire: O/U 183.5"
+    },
+    {
+      "timestamp": 1786595517.892599,
+      "bankroll": 541.67,
+      "event": "lost: AV23IUa \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595518.3378062,
+      "bankroll": 551.86,
+      "event": "won: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595518.4379835,
+      "bankroll": 550.55,
+      "event": "lost: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595518.5381758,
+      "bankroll": 550.92,
+      "event": "won: RN1 \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595518.6383617,
+      "bankroll": 551.4,
+      "event": "won: RN1 \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595518.7385318,
+      "bankroll": 552.18,
+      "event": "won: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595518.8387182,
+      "bankroll": 552.57,
+      "event": "won: RN1 \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595518.9388647,
+      "bankroll": 550.0,
+      "event": "lost: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595519.039046,
+      "bankroll": 548.13,
+      "event": "lost: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595519.139209,
+      "bankroll": 546.84,
+      "event": "lost: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595519.2393913,
+      "bankroll": 547.12,
+      "event": "won: RN1 \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595519.6535165,
+      "bankroll": 547.59,
+      "event": "won: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595519.8539016,
+      "bankroll": 548.06,
+      "event": "won: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595520.5082188,
+      "bankroll": 547.36,
+      "event": "lost: HomeRunHazard \u2014 Spread: Minnesota Lynx (-13.5)"
+    },
+    {
+      "timestamp": 1786595521.2093005,
+      "bankroll": 548.54,
+      "event": "won: RN1 \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595521.5098321,
+      "bankroll": 548.74,
+      "event": "won: RN1 \u2014 Will CR Flamengo win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595521.94882,
+      "bankroll": 549.61,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Minnesota Lynx (-11.5)"
+    },
+    {
+      "timestamp": 1786595522.249362,
+      "bankroll": 549.77,
+      "event": "won: swisstony \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595522.6500518,
+      "bankroll": 550.07,
+      "event": "won: swisstony \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595522.8504097,
+      "bankroll": 550.33,
+      "event": "won: swisstony \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786595523.424761,
+      "bankroll": 552.87,
+      "event": "won: swisstony \u2014 Minnesota Lynx vs. Portland Fire: O/U 187.5"
+    },
+    {
+      "timestamp": 1786595523.5249836,
+      "bankroll": 552.05,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Minnesota Lynx (-11.5)"
+    },
+    {
+      "timestamp": 1786595523.625144,
+      "bankroll": 551.36,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Minnesota Lynx (-13.5)"
+    },
+    {
+      "timestamp": 1786595524.1258726,
+      "bankroll": 550.53,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Minnesota Lynx (-11.5)"
+    },
+    {
+      "timestamp": 1786595524.226044,
+      "bankroll": 549.84,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Minnesota Lynx (-13.5)"
+    },
+    {
+      "timestamp": 1786595524.9272854,
+      "bankroll": 550.65,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Minnesota Lynx (-13.5)"
+    },
+    {
+      "timestamp": 1786595530.997878,
+      "bankroll": 550.7,
+      "event": "won:  \u2014 Minnesota Lynx vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786595532.4002821,
+      "bankroll": 550.82,
+      "event": "won: swisstony \u2014 Minnesota Lynx vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786595532.6006327,
+      "bankroll": 551.07,
+      "event": "won: swisstony \u2014 Minnesota Lynx vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786595533.602247,
+      "bankroll": 551.99,
+      "event": "won: swisstony \u2014 Minnesota Lynx vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786595533.8026044,
+      "bankroll": 552.49,
+      "event": "won: swisstony \u2014 Minnesota Lynx vs. PortlandFire"
+    },
+    {
+      "timestamp": 1786595581.2768204,
+      "bankroll": 554.77,
+      "event": "won: HomeRunHazard \u2014 Spread: Minnesota Lynx (-12.5)"
+    },
+    {
+      "timestamp": 1786595582.7562952,
+      "bankroll": 555.58,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Minnesota Lynx (-12.5)"
+    },
+    {
+      "timestamp": 1786595584.2251892,
+      "bankroll": 554.83,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Minnesota Lynx (-12.5)"
+    },
+    {
+      "timestamp": 1786595586.0283926,
+      "bankroll": 553.39,
+      "event": "lost: swisstony \u2014 Spread: Minnesota Lynx (-12.5)"
+    },
+    {
+      "timestamp": 1786595588.9669333,
+      "bankroll": 552.79,
+      "event": "lost: swisstony \u2014 Spread: Minnesota Lynx (-12.5)"
+    },
+    {
+      "timestamp": 1786595589.0671217,
+      "bankroll": 551.15,
+      "event": "lost: swisstony \u2014 Spread: Minnesota Lynx (-12.5)"
+    },
+    {
+      "timestamp": 1786595589.567971,
+      "bankroll": 550.26,
+      "event": "lost: swisstony \u2014 Spread: Minnesota Lynx (-12.5)"
+    },
+    {
+      "timestamp": 1786595590.2248673,
+      "bankroll": 549.29,
+      "event": "lost: swisstony \u2014 Spread: Minnesota Lynx (-12.5)"
     }
   ]
 }
