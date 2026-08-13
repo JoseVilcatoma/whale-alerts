@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:23:14 (hora de Perú)
+Actualizado: 2026-08-13 15:25:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,267.18
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| RN1 | 5 | 3 | 54 | +27.44 USD |
+| RN1 | 5 | 3 | 56 | +27.44 USD |
 | ferrariChampions2026 | 21 | 27 | 67 | +4.60 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -24,9 +24,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 0 | 0 | 8 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
 |  | 0 | 0 | 13 | +0.00 USD |
-| UpTheBlues | 0 | 0 | 5 | +0.00 USD |
+| UpTheBlues | 0 | 0 | 8 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 3 | 8 | -1.26 USD |
-| swisstony | 11 | 5 | 53 | -3.63 USD |
+| swisstony | 13 | 5 | 51 | -3.63 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -66,11 +66,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-chc-wsh-2026-08-13-total-7pt5 | RN1, ferrariChampions2026 |
 | col-gen-got-2026-08-13-total-2pt5 | , RN1 |
 | uel-hmi-ben-2026-08-13-hmi | RN1, UpTheBlues |
+| col-she1-aja-2026-08-13-aja | RN1, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Heart of Midlothian FC vs. Sport Lisboa  | Under (BUY) | 91% | 0.00 | 0.1% | ⏳ pendiente | — |
+| UpTheBlues | Santos FC vs. CSyD Macará: Santos FC O/U | Over (BUY) | 32% | 0.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Will AFC Ajax win on 2026-08-13? | Yes (BUY) | 86% | 0.00 | 0.2% | ⏳ pendiente | — |
+| UpTheBlues | Will AFC Ajax win on 2026-08-13? | Yes (BUY) | 86% | 0.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Shelbourne FC vs. AFC Ajax: O/U 3.5 | Under (BUY) | 46% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 98% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | RSC Anderlecht vs. PAOK: O/U 5.5 | Under (BUY) | 82% | 0.00 | 0.4% | ⏳ pendiente | — |
 | UpTheBlues | Heart of Midlothian FC vs. Sport Lisboa  | Over (BUY) | 99% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -96,8 +102,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Atlanta Dream (-10.5) | Connecticut Sun (BUY) | 50% | 1.51 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 44% | 1.49 | 0.1% | ⏳ pendiente | — |
 |  | LoL: Anyone's Legend vs JD Gaming (BO3)  | JD Gaming (BUY) | 42% | 0.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 65% | 0.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Heart of Midlothian FC vs. Sport Lisboa  | Over (BUY) | 53% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will FK Austria Wien vs. MH Beitar Jerus | No (BUY) | 78% | 0.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Rangers FC vs. Jagiellonia Białystok: O/ | Over (BUY) | 68% | 0.00 | 0.2% | ⏳ pendiente | — |
-|  | Rangers FC vs. Jagiellonia Białystok: Te | Jagiellonia Białystok (BUY) | 28% | 0.00 | 0.1% | ⏳ pendiente | — |

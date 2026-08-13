@@ -430,6 +430,16 @@
       "timestamp": 1786652377.7533844,
       "bankroll": 1267.18,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1786652689.8863342,
+      "bankroll": 1267.18,
+      "event": "won: swisstony \u2014 Spread: FK Jablonec (-1.5)"
+    },
+    {
+      "timestamp": 1786652690.4875822,
+      "bankroll": 1267.18,
+      "event": "won: swisstony \u2014 Spread: FK Jablonec (-1.5)"
     }
   ]
 }
