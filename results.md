@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 10:09:26 (hora de Perú)
+Actualizado: 2026-08-13 10:11:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **45**  ($2,817,723 en total)
+- Apuestas registradas: **46**  ($2,847,730 en total)
 - Resueltas: **33** — 21 ganadas / 12 perdidas (**64%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 22
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
-| Weaseloftheweek | 2 | 1 | 0 | ⚠️ 67% (3) | $125,154 | +$110,752 |
+| Weaseloftheweek | 2 | 1 | 1 | ⚠️ 67% (3) | $155,160 | +$110,752 |
 | TennisLove | 0 | 0 | 1 | — | $100,000 | — |
 | Marcoli | 0 | 0 | 2 | — | $89,838 | — |
 | NemecGhudini | 2 | 0 | 0 | ⚠️ 100% (2) | $86,190 | +$36,460 |
@@ -51,6 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | Seattle Mariners vs. New York Yankees | New York Yankees | 1.72 (58¢) | $30,006 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | G2 | 1.15 (87¢) | $26,841 | — | ⏳ Pendiente |
 | Lakersfan111 | Counter-Strike: Aurora Gaming vs M80 - Map 1 Winner | Aurora Gaming | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
 | Marcoli | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.45 (69¢) | $49,838 | — | ⏳ Pendiente |
