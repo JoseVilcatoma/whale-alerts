@@ -1,5 +1,5 @@
 {
-  "bankroll": 612.9785572392899,
+  "bankroll": 574.40855723929,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18525,6 +18525,16 @@
       "timestamp": 1786582608.6009283,
       "bankroll": 612.98,
       "event": "won: 1winstreak1 \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 9.5"
+    },
+    {
+      "timestamp": 1786582855.9825249,
+      "bankroll": 604.21,
+      "event": "lost: 1winstreak1 \u2014 Chicago Cubs vs. Washington Nationals: O/U 10.5"
+    },
+    {
+      "timestamp": 1786582856.3433185,
+      "bankroll": 574.41,
+      "event": "lost: 1winstreak1 \u2014 Chicago Cubs vs. Washington Nationals: O/U 9.5"
     }
   ]
 }
