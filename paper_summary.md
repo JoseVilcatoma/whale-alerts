@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:12:48 (hora de Perú)
+Actualizado: 2026-08-13 15:14:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,269.86
-**Retorno acumulado:** +26.99%
+**Bankroll actual:** $1,266.61
+**Retorno acumulado:** +26.66%
 **Peor caída desde un máximo (drawdown):** 11.24%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 6
 
@@ -15,9 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| RN1 | 5 | 3 | 46 | +27.44 USD |
-| ferrariChampions2026 | 21 | 22 | 68 | +6.59 USD |
-| wr0ngw4yb3tt0r | 0 | 1 | 10 | +0.00 USD |
+| RN1 | 5 | 3 | 47 | +27.44 USD |
+| ferrariChampions2026 | 21 | 24 | 68 | +4.60 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
@@ -25,7 +24,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 0 | 0 | 8 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
 |  | 0 | 0 | 10 | +0.00 USD |
-| swisstony | 10 | 5 | 53 | -4.20 USD |
+| wr0ngw4yb3tt0r | 0 | 3 | 8 | -1.26 USD |
+| swisstony | 10 | 5 | 54 | -4.20 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -60,11 +60,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-sea-nyy-2026-08-13-total-5pt5 | HomeRunHazard, ferrariChampions2026 |
 | uel-ran1-jag-2026-08-13-total-1pt5 | RN1, swisstony |
 | uel-csk1-mta-2026-08-13-total-4pt5 | RN1, swisstony |
+| mlb-chc-wsh-2026-08-13-total-7pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 48% | 2.70 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 48% | 9.47 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 49% | 7.82 | 0.6% | ⏳ pendiente | — |
+| swisstony | Spread: Shamrock Rovers FC (-1.5) | KF Egnatia Rrogozhinë (BUY) | 100% | 3.04 | 0.2% | ⏳ pendiente | — |
 |  | Heart of Midlothian FC vs. Sport Lisboa  | Under (BUY) | 38% | 2.33 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Dream (-10.5) | Connecticut Sun (BUY) | 50% | 1.51 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 44% | 1.49 | 0.1% | ⏳ pendiente | — |
@@ -91,7 +96,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 38% | 0.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | Spread: Al Ahli Saudi Club (-1.5) | Al Diraiyah Saudi Club (BUY) | 71% | 0.00 | 0.1% | ⏳ pendiente | — |
 |  | Al Shabab Saudi Club vs. Al Qadisiyah Sa | Over (BUY) | 50% | 0.00 | 0.1% | ⏳ pendiente | — |
-| swisstony | Will Al Shabab Saudi Club vs. Al Qadisiy | Yes (BUY) | 45% | 0.00 | 0.1% | ⏳ pendiente | — |
-| swisstony | Al Shabab Saudi Club vs. Al Qadisiyah Sa | Over (BUY) | 65% | 0.00 | 0.1% | ⏳ pendiente | — |
-|  | FC Dinamo City vs. FK Auda: O/U 2.5 | Over (BUY) | 35% | 0.00 | 0.4% | ⏳ pendiente | — |
-|  | Spread: AFC Ajax (-1.5) | AFC Ajax (BUY) | 67% | 0.00 | 0.3% | ⏳ pendiente | — |
