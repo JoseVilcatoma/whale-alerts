@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 15:57:46 (hora de Perú)
+Actualizado: 2026-08-13 15:59:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **65**  ($3,687,403 en total)
+- Apuestas registradas: **67**  ($3,741,390 en total)
 - Resueltas: **55** — 34 ganadas / 21 perdidas (**62%** de acierto)
-- Pendientes: 10
+- Pendientes: 12
 - Apostadores distintos: 29
 
 ### Balance
@@ -27,11 +27,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 9 | 2 | 0 | 82% | $850,620 | +$240,977 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
-| Weaseloftheweek | 2 | 3 | 0 | ⚠️ 40% (5) | $224,457 | +$11,449 |
+| Weaseloftheweek | 2 | 3 | 1 | ⚠️ 40% (5) | $251,444 | +$11,449 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 2 | ⚠️ 100% (1) | $139,254 | +$100,800 |
 | Sassy-Bucket | 1 | 0 | 1 | ⚠️ 100% (1) | $139,137 | +$28,600 |
 | AV23IUa | 0 | 2 | 1 | ⚠️ 0% (2) | $123,836 | -$83,036 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 1 | ⚠️ 100% (1) | $112,254 | +$100,800 |
 | ferrariChampions2026 | 1 | 1 | 1 | ⚠️ 50% (2) | $111,002 | -$49,777 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 0 | 1 | ⚠️ 100% (2) | $101,645 | +$19,963 |
 | TennisLove | 0 | 0 | 1 | — | $100,000 | — |
@@ -58,6 +58,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | National Bank Open: Iga Swiatek vs Elena Rybakina | Elena Rybakina | 2.22 (45¢) | $26,987 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: GB (-2.5) | GB | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | xifutloong3 | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.72 (58¢) | $36,000 | — | ⏳ Pendiente |
 | Mylifeisover | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.89 (53¢) | $32,241 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Todi (Doubles): Reymond/Sanchez vs Barrena/Kicker | Reymond/Sanchez | 1.67 (60¢) | $26,026 | +$17,351 | ✅ Ganada |
@@ -116,5 +118,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.27 (44¢) | $42,257 | +$53,782 | ✅ Ganada |
 | b0c | National Bank Open: Elina Svitolina vs Iga Swiatek | Elina Svitolina | 1.72 (58¢) | $26,397 | -$26,397 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Elina Svitolina vs Iga Swiatek | Iga Swiatek | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
-| Weaseloftheweek | National Bank Open: Elina Svitolina vs Iga Swiatek | Elina Svitolina | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
-| Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $46,170 | +$61,202 | ✅ Ganada |
