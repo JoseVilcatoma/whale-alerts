@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 10:49:11 (hora de Perú)
+Actualizado: 2026-08-13 10:51:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $120.18
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| wr0ngw4yb3tt0r | 72 | 74 | 5 | +111.09 USD |
+| wr0ngw4yb3tt0r | 72 | 74 | 7 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | ActionReaction | 2 | 1 | 0 | +46.03 USD |
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
-| Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
+| Lakersfan111 | 4 | 4 | 1 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
@@ -506,6 +506,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.33 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.21 | ⏳ pendiente | — |
+| Lakersfan111 | Map Handicap: FaZe (-1.5) vs Legacy (+1. | Legacy (BUY) | 73% | 0.13 | ⏳ pendiente | — |
 | swisstony | Tobyl FK vs. FK Partizan Beograd: Tobyl  | Under (BUY) | 43% | 0.32 | ⏳ pendiente | — |
 | swisstony | FK Buxoro vs. AGMK FC: O/U 1.5 | Under (BUY) | 34% | 0.12 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 46% | 0.73 | ⏳ pendiente | — |
@@ -533,6 +536,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Texas Rangers (-2.5) | Los Angeles Angels (BUY) | 66% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 54% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 57% | 0.00 | ⏳ pendiente | — |
-| HomeRunHazard | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 49% | 0.00 | ⏳ pendiente | — |
