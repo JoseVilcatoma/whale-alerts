@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 04:57:17 (hora de Perú)
+Actualizado: 2026-08-13 04:59:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $568.67
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
-| BBQChickenisthebesttt | 39 | 27 | 6 | +163.67 USD |
+| BBQChickenisthebesttt | 39 | 27 | 7 | +163.67 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | wr0ngw4yb3tt0r | 72 | 74 | 0 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
 | VD721lsj4938Dk388 | 0 | 1 | 0 | -1.79 USD |
-| Weaseloftheweek | 11 | 2 | 5 | -2.32 USD |
+| Weaseloftheweek | 15 | 2 | 1 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 3 | -7.03 USD |
@@ -501,6 +501,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK | BNK FEARX (BUY) | 71% | 11.23 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX - Game 2 Wi | BNK FEARX (BUY) | 54% | 25.88 | ⏳ pendiente | — |
 | Weaseloftheweek | Dota 2: BoomBoys vs Iron Wing (BO3) - Th | BoomBoys (BUY) | 50% | 9.44 | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Just Players vs MOUZ NXT | MOUZ NXT (BUY) | 45% | 0.00 | ⏳ pendiente | — |
@@ -530,4 +531,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | BNK FEARX (BUY) | 28% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | BNK FEARX (BUY) | 30% | 0.00 | ⏳ pendiente | — |
 | ActionReaction | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | Kiwoom DRX (BUY) | 66% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 2 W | GamerLegion (BUY) | 31% | 0.00 | ⏳ pendiente | — |
