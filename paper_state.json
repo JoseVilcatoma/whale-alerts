@@ -1,5 +1,5 @@
 {
-  "bankroll": 1165.149880952381,
+  "bankroll": 1246.453935006435,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -95,6 +95,26 @@
       "timestamp": 1786646679.599045,
       "bankroll": 1165.15,
       "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786646803.3407717,
+      "bankroll": 1246.45,
+      "event": "won: Sassy-Bucket \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786646803.4409251,
+      "bankroll": 1246.45,
+      "event": "won: Sassy-Bucket \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786646809.7927053,
+      "bankroll": 1246.45,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1786646813.6254673,
+      "bankroll": 1246.45,
+      "event": "won: swisstony \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 9.5"
     }
   ]
 }
