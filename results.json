@@ -1024,5 +1024,20 @@
     "status": "pending",
     "ultimo_fill": 1786654913,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 138,
+    "timestamp": 1786655053,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "mlb-chc-wsh-2026-08-13",
+    "title": "Chicago Cubs vs. Washington Nationals",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 57999.99999999999,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1786655053,
+    "fills": 1
   }
 ]
