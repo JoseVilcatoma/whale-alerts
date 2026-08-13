@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 14:07:33 (hora de Perú)
+Actualizado: 2026-08-13 14:09:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **62**  ($3,593,135 en total)
+- Apuestas registradas: **63**  ($3,619,161 en total)
 - Resueltas: **47** — 30 ganadas / 17 perdidas (**64%** de acierto)
-- Pendientes: 15
-- Apostadores distintos: 27
+- Pendientes: 16
+- Apostadores distintos: 28
 
 ### Balance
 
@@ -48,6 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 0 | 0 | 1 | — | $27,300 | — |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 1 | — | $26,026 | — |
 | madwish355 | 1 | 0 | 0 | ⚠️ 100% (1) | $25,652 | +$5,254 |
 | Lakersfan111 | 1 | 0 | 0 | ⚠️ 100% (1) | $25,600 | +$14,400 |
 | vv-vv | 1 | 0 | 0 | ⚠️ 100% (1) | $25,318 | +$7,563 |
@@ -56,6 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Todi (Doubles): Reymond/Sanchez vs Barrena/Kicker | Reymond/Sanchez | 1.67 (60¢) | $26,026 | — | ⏳ Pendiente |
 | Sassy-Bucket | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.75 (57¢) | $112,737 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | FaZe | 1.12 (89¢) | $30,374 | — | ⏳ Pendiente |
 | xifutloong3 | Seattle Mariners vs. New York Yankees | New York Yankees | 1.89 (53¢) | $27,300 | — | ⏳ Pendiente |
@@ -115,4 +117,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $46,170 | +$61,202 | ✅ Ganada |
 | AV23IUa | National Bank Open: Coco Gauff vs Elena Rybakina | Coco Gauff | 1.75 (57¢) | $57,499 | -$57,499 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | BoomBoys | 1.43 (70¢) | $364,470 | +$156,202 | ✅ Ganada |
-| Djdjdjekekek | Dota 2: BoomBoys vs OG (BO3) - The International Group Stage | OG | 3.33 (30¢) | $186,199 | -$18,620 | 💰 Vendida antes |
