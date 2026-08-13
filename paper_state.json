@@ -1,5 +1,5 @@
 {
-  "bankroll": 637.2201175983356,
+  "bankroll": 648.0119529328125,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18450,6 +18450,16 @@
       "timestamp": 1786577279.4760442,
       "bankroll": 637.22,
       "event": "won: UpTheBlues \u2014 Will Paris Saint-Germain win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786579913.555022,
+      "bankroll": 642.34,
+      "event": "won: ferrariChampions2026 \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 5.5"
+    },
+    {
+      "timestamp": 1786579916.12649,
+      "bankroll": 648.01,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. San Diego Padres: O/U 5.5"
     }
   ]
 }
