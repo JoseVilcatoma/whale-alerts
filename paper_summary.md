@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 14:39:16 (hora de Perú)
+Actualizado: 2026-08-13 14:41:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,248.14
@@ -15,9 +15,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| ferrariChampions2026 | 13 | 13 | 83 | +5.38 USD |
+| ferrariChampions2026 | 13 | 13 | 84 | +5.38 USD |
 | RN1 | 2 | 1 | 45 | +1.64 USD |
-| swisstony | 5 | 0 | 61 | +1.09 USD |
+| swisstony | 5 | 0 | 63 | +1.09 USD |
 | wr0ngw4yb3tt0r | 0 | 1 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -63,6 +63,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | RSC Anderlecht vs. PAOK: O/U 2.5 | Over (BUY) | 100% | 0.00 | 0.1% | ⏳ pendiente | — |
+| swisstony | ETO FC vs. Rīga FC: O/U 3.5 | Under (BUY) | 78% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 60% | 0.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Will KF Shkëndija 79 win on 2026-08-13? | No (BUY) | 83% | 0.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Will PAOK win on 2026-08-13? | No (BUY) | 90% | 0.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | FC Sion vs. Noah FA: O/U 5.5 | Under (BUY) | 92% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -90,6 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | KF Egnatia Rrogozhinë vs. Shamrock Rover | Over (BUY) | 92% | 1.58 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 44% | 9.99 | 0.8% | ⏳ pendiente | — |
 | swisstony | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 90% | 5.72 | 0.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Cincinnati Reds (-4.5) | Cincinnati Reds (BUY) | 46% | 2.36 | 0.2% | ⏳ pendiente | — |
-| swisstony | Spread: PAOK (-1.5) | RSC Anderlecht (BUY) | 89% | 1.75 | 0.1% | ⏳ pendiente | — |
-| HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 33% | 1.54 | 0.1% | ⏳ pendiente | — |
