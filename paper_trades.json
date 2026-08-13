@@ -7789,5 +7789,53 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786655690.3119504,
     "fills": 1
+  },
+  {
+    "timestamp": 1786655891,
+    "timestamp_added": 1786655891.5150478,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "sud-vas-clo-2026-08-13-total-2pt5",
+    "title": "CR Vasco da Gama vs. Club Olimpia: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1230.0,
+    "whale_pct": 2.398,
+    "whale_value_at_open": 51300.7113,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786655891.5150585,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786655926,
+    "timestamp_added": 1786655926.9143941,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "sud-vas-clo-2026-08-13-total-2pt5",
+    "title": "CR Vasco da Gama vs. Club Olimpia: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 424.35,
+    "whale_pct": 0.827,
+    "whale_value_at_open": 51300.7113,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786655939.1512713,
+    "fills": 2
   }
 ]
