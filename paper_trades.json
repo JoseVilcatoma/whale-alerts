@@ -80360,8 +80360,8 @@
     "whale_pct": 0.358,
     "paper_stake_usd": 2.28,
     "odds_at_bet": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.79,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786578301.6533267,
@@ -81069,8 +81069,8 @@
     "whale_pct": 0.114,
     "paper_stake_usd": 0.7,
     "odds_at_bet": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.73,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -81091,8 +81091,8 @@
     "whale_pct": 0.13,
     "paper_stake_usd": 0.8,
     "odds_at_bet": 29,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.8,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -81113,8 +81113,8 @@
     "whale_pct": 0.282,
     "paper_stake_usd": 1.73,
     "odds_at_bet": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.71,
     "overlaps_with": [
       "1winstreak1",
       "RN1"
@@ -81496,6 +81496,26 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786584106.3420978,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786584160,
+    "timestamp_added": 1786584160.4914746,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-bos-tor-2026-08-12-spread-home-2pt5",
+    "title": "Spread: Toronto Blue Jays (-2.5)",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "whale_usd": 1531.2,
+    "whale_pct": 0.29,
+    "paper_stake_usd": 1.65,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786584160.4914806,
     "fills": 1
   }
 ]
