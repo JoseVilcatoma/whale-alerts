@@ -83227,5 +83227,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786604833.6776934,
     "fills": 1
+  },
+  {
+    "timestamp": 1786605271,
+    "timestamp_added": 1786605271.3756158,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-wb-nip-2026-08-13-game1",
+    "title": "LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+    "outcome": "Weibo Gaming",
+    "side": "BUY",
+    "whale_usd": 3940.2163590000005,
+    "whale_pct": 138.175,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786605301.1965938,
+    "fills": 14
   }
 ]
