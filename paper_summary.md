@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 22:20:38 (hora de Perú)
+Actualizado: 2026-08-12 22:22:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $554.13
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 123 | 101 | 1 | -9.62 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 171 | 114 | 21 | -26.60 USD |
+| swisstony | 171 | 114 | 22 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | RN1 | 231 | 126 | 20 | -38.74 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
@@ -507,6 +507,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 77% | 0.89 | ⏳ pendiente | — |
 |  | Minnesota Lynx vs. PortlandFire | Minnesota Lynx (BUY) | 98% | 2.31 | ⏳ pendiente | — |
 | swisstony | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 95% | 0.89 | ⏳ pendiente | — |
 | swisstony | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 94% | 0.68 | ⏳ pendiente | — |
@@ -536,4 +537,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Spread: Golden State Valkyries (-9.5) | Golden State Valkyries (BUY) | 46% | 3.38 | ⏳ pendiente | — |
 |  | Will Hammarby Fotboll win on 2026-08-13? | Yes (BUY) | 55% | 8.57 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Querétaro FC win on 2026-08-12? | No (BUY) | 89% | 1.44 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 75% | 3.76 | ⏳ pendiente | — |
