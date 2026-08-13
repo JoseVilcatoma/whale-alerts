@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 13:15:54 (hora de Perú)
+Actualizado: 2026-08-13 13:17:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
-| ferrariChampions2026 | 0 | 1 | 91 | +0.00 USD |
-| RN1 | 0 | 0 | 37 | +0.00 USD |
+| ferrariChampions2026 | 0 | 1 | 92 | +0.00 USD |
+| RN1 | 0 | 0 | 38 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 28 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -50,6 +50,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 77% | 0.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will FC St. Gallen win on 2026-08-13? | Yes (BUY) | 74% | 0.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will PFK CSKA Sofia win on 2026-08-13? | No (BUY) | 85% | 0.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will FK Rīgas Futbola Skola vs. FK Jablo | No (BUY) | 92% | 0.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | FC Midtjylland vs. Bohemian FC: O/U 3.5 | Under (BUY) | 57% | 0.00 | 0.3% | ⏳ pendiente | — |
@@ -78,5 +80,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Páfos FC vs. FC Red Bull Salzburg: O/U 5 | Under (BUY) | 94% | 0.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Hammarby Fotboll vs. RKS Raków Częstocho | Over (BUY) | 47% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | FC St. Gallen vs. FC Sheriff Tiraspol: O | Under (BUY) | 59% | 0.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 80% | 0.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 79% | 0.00 | 0.1% | ⏳ pendiente | — |

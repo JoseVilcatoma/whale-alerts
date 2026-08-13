@@ -4225,5 +4225,52 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786644946.4542453,
     "fills": 1
+  },
+  {
+    "timestamp": 1786644977,
+    "timestamp_added": 1786644977.658107,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-stg-she-2026-08-13-stg",
+    "title": "Will FC St. Gallen win on 2026-08-13?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1717.21,
+    "whale_pct": 0.514,
+    "whale_value_at_open": 334179.5762,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786644978.3000672,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786645011,
+    "timestamp_added": 1786645011.8853817,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-lgc-faze-2026-08-13",
+    "title": "Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "whale_usd": 1080.708391,
+    "whale_pct": 0.203,
+    "whale_value_at_open": 532180.7861,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111",
+      "Nooserac"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786645011.8853922,
+    "fills": 1
   }
 ]
