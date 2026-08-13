@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 21:11:39 (hora de Perú)
+Actualizado: 2026-08-12 21:13:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $526.15
-**Retorno acumulado:** -47.38%
+**Bankroll actual:** $594.41
+**Retorno acumulado:** -40.56%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -25,8 +25,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 4 | 10 | 0 | +15.41 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
-| HomeRunHazard | 122 | 104 | 13 | +9.24 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
+| HomeRunHazard | 122 | 105 | 12 | +4.24 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | UpTheBlues | 258 | 157 | 6 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | cigarettes | 1 | 0 | 0 | +0.09 USD |
 | jtwyslljy | 2 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
-|  | 0 | 0 | 4 | +0.00 USD |
+|  | 0 | 0 | 5 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -45,16 +45,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
+| 1winstreak1 | 122 | 101 | 2 | -10.55 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | RN1 | 225 | 122 | 30 | -26.30 USD |
-| swisstony | 171 | 114 | 0 | -26.60 USD |
+| swisstony | 171 | 114 | 1 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | ferrariChampions2026 | 655 | 489 | 31 | -78.51 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
-| 1winstreak1 | 118 | 101 | 6 | -83.80 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
@@ -475,7 +475,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-pit-mia-2026-08-12-total-9pt5 | 1winstreak1, RN1 |
 | mlb-nym-atl-2026-08-12-total-7pt5 | 1winstreak1, HomeRunHazard, RN1 |
 | mlb-cle-det-2026-08-12-total-10pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
-| lib-cru-fla-2026-08-12-cru | AV23IUa, RN1 |
+| lib-cru-fla-2026-08-12-cru | AV23IUa, RN1, swisstony |
 | lib-cru-fla-2026-08-12-total-1pt5 | RN1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-12-spread-home-2pt5 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-nym-atl-2026-08-12-total-9pt5 | HomeRunHazard, RN1 |
@@ -492,6 +492,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+|  | Will San Diego FC win on 2026-08-12? | Yes (BUY) | 55% | 1.41 | ⏳ pendiente | — |
+| swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 85% | 0.89 | ⏳ pendiente | — |
 |  | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 96% | 4.75 | ⏳ pendiente | — |
 |  | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 97% | 3.37 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Dallas win on 2026-08-12? | No (BUY) | 85% | 2.20 | ⏳ pendiente | — |
@@ -520,5 +522,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 34% | 0.76 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 35% | 0.78 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Minnesota Lynx (-13.5) | Minnesota Lynx (BUY) | 47% | 0.70 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CF Monterrey win on 2026-08-12? | Yes (BUY) | 37% | 0.80 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CF Monterrey win on 2026-08-12? | No (BUY) | 53% | 1.73 | ⏳ pendiente | — |

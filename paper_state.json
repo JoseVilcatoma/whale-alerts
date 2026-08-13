@@ -1,5 +1,5 @@
 {
-  "bankroll": 526.1524198550695,
+  "bankroll": 594.4054046582146,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18930,6 +18930,31 @@
       "timestamp": 1786587087.5159485,
       "bankroll": 526.15,
       "event": "won: RN1 \u2014 Spread: Chicago Cubs (-1.5)"
+    },
+    {
+      "timestamp": 1786587212.5608373,
+      "bankroll": 531.03,
+      "event": "won: 1winstreak1 \u2014 Spread: Chicago Cubs (-2.5)"
+    },
+    {
+      "timestamp": 1786587212.9148672,
+      "bankroll": 565.92,
+      "event": "won: 1winstreak1 \u2014 Spread: Chicago Cubs (-5.5)"
+    },
+    {
+      "timestamp": 1786587213.2681415,
+      "bankroll": 598.37,
+      "event": "won: 1winstreak1 \u2014 Spread: Chicago Cubs (-3.5)"
+    },
+    {
+      "timestamp": 1786587213.368298,
+      "bankroll": 599.41,
+      "event": "won: 1winstreak1 \u2014 Spread: Chicago Cubs (-2.5)"
+    },
+    {
+      "timestamp": 1786587215.609205,
+      "bankroll": 594.41,
+      "event": "lost: HomeRunHazard \u2014 Chicago Cubs vs. Washington Nationals: O/U 17.5"
     }
   ]
 }
