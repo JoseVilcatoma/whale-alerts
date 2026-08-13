@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 03:26:07 (hora de Perú)
+Actualizado: 2026-08-13 03:28:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $591.96
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 2 | 1 | 0 | +0.00 USD |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 4 | 0 | +0.00 USD |
 | CORGI8 | 0 | 0 | 1 | +0.00 USD |
-| ActionReaction | 2 | 0 | 6 | +0.00 USD |
+| ActionReaction | 2 | 0 | 7 | +0.00 USD |
 | VeryLucky888 | 2 | 1 | 0 | -0.03 USD |
 | Anjun | 0 | 1 | 0 | -0.24 USD |
 |  | 3 | 1 | 0 | -0.30 USD |
@@ -46,12 +46,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 15 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| TeGeeLP | 0 | 3 | 1 | -7.03 USD |
+| TeGeeLP | 0 | 3 | 2 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
 | swisstony | 175 | 115 | 0 | -26.28 USD |
-| RN1 | 245 | 132 | 2 | -27.46 USD |
+| RN1 | 245 | 132 | 3 | -27.46 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -501,6 +501,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| TeGeeLP | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 63% | 0.00 | ⏳ pendiente | — |
+| ActionReaction | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 39% | 0.00 | ⏳ pendiente | — |
+| RN1 | Counter-Strike: Just Players vs MOUZ NXT | Just Players (BUY) | 82% | 0.00 | ⏳ pendiente | — |
 | ActionReaction | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | ActionReaction | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 36% | 0.00 | ⏳ pendiente | — |
 | ActionReaction | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | Kiwoom DRX (BUY) | 72% | 0.00 | ⏳ pendiente | — |
@@ -528,6 +531,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | Kiwoom DRX (BUY) | 35% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Team Spirit (BUY) | 70% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | BNK FEARX (BUY) | 63% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | Kiwoom DRX (BUY) | 37% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Team Spirit (BUY) | 61% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK | BNK FEARX (BUY) | 58% | 0.00 | ⏳ pendiente | — |
