@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 13:11:40 (hora de Perú)
+Actualizado: 2026-08-13 13:13:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
-| ferrariChampions2026 | 0 | 1 | 87 | +0.00 USD |
-| RN1 | 0 | 0 | 29 | +0.00 USD |
+| ferrariChampions2026 | 0 | 1 | 88 | +0.00 USD |
+| RN1 | 0 | 0 | 34 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 28 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
@@ -49,6 +49,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Hammarby Fotboll vs. RKS Raków Częs | No (BUY) | 75% | 0.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | FC DAC 1904 Dunajská Streda vs. FC Twent | Under (BUY) | 81% | 0.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | KF Shkëndija 79 vs. Hibernian FC: 1st Ha | Over (BUY) | 59% | 0.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Beşiktaş JK vs. FC Hradec Králové: O/U 2 | Over (BUY) | 49% | 0.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will RKS Raków Częstochowa win on 2026-0 | Yes (BUY) | 62% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | Legacy (BUY) | 26% | 0.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Will FC Sion win on 2026-08-13? | No (BUY) | 42% | 0.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team Heretics Academy vs ⁠Movistar  | Team Heretics Academy (BUY) | 68% | 0.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Beşiktaş JK (-1.5) | Beşiktaş JK (BUY) | 58% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -73,9 +79,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 90% | 0.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 66% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will FC Sion win on 2026-08-13? | No (BUY) | 40% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 80% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 51% | 0.00 | 1.6% | ⏳ pendiente | — |
-| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 52% | 0.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Will RKS Raków Częstochowa win on 2026-0 | No (BUY) | 56% | 0.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 79% | 0.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 53% | 0.00 | 0.2% | ⏳ pendiente | — |
