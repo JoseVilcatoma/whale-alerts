@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 03:48:09 (hora de Perú)
+Actualizado: 2026-08-13 03:50:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **34**  ($2,394,444 en total)
-- Resueltas: **15** — 9 ganadas / 6 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Resueltas: **22** — 13 ganadas / 9 perdidas (**59%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 16
 
 ### Balance
 
-- **Resultado de los apostadores: +$298,709** sobre $1,162,567 apostados (ROI **+25.7%**)
-- Copiando $100 fijo en cada una: **+$323** sobre $1,200 (ROI **+26.9%**)
+- **Resultado de los apostadores: +$260,271** sobre $1,921,085 apostados (ROI **+13.5%**)
+- Copiando $100 fijo en cada una: **+$136** sobre $1,900 (ROI **+7.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 2 | 0 | 6 | ⚠️ 100% (2) | $734,318 | +$181,202 |
-| Djdjdjekekek | 0 | 2 | 5 | ⚠️ 0% (2) | $553,935 | -$28,436 |
-| S-Works | 0 | 0 | 1 | — | $312,000 | — |
-| 0xheavy888 | 1 | 0 | 2 | ⚠️ 100% (1) | $164,208 | +$2,000 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 3 | 1 | 4 | ⚠️ 75% (4) | $734,318 | +$142,087 |
+| Djdjdjekekek | 0 | 4 | 3 | ⚠️ 0% (4) | $553,935 | -$149,321 |
+| S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
+| 0xheavy888 | 2 | 0 | 1 | ⚠️ 100% (2) | $164,208 | +$20,161 |
 | Weaseloftheweek | 2 | 1 | 0 | ⚠️ 67% (3) | $125,154 | +$110,752 |
-| NemecGhudini | 0 | 0 | 2 | — | $86,190 | — |
+| NemecGhudini | 1 | 0 | 1 | ⚠️ 100% (1) | $86,190 | +$15,400 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 0 | ⚠️ 100% (1) | $79,200 | +$100,800 |
 | AV23IUa | 0 | 1 | 0 | ⚠️ 0% (1) | $57,499 | -$57,499 |
 | ferrariChampions2026 | 0 | 1 | 0 | ⚠️ 0% (1) | $53,788 | -$53,788 |
@@ -58,15 +58,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Vici Gaming | 2.50 (40¢) | $80,000 | — | ⏳ Pendiente |
 | 0xheavy888 | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Team Liquid | 1.49 (67¢) | $33,407 | — | ⏳ Pendiente |
 | Djdjdjekekek | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Vici Gaming | 3.03 (33¢) | $66,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 2.13 (47¢) | $75,049 | — | ⏳ Pendiente |
-| Djdjdjekekek | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 2.00 (50¢) | $25,214 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 2.13 (47¢) | $75,049 | -$75,049 | ❌ Perdida |
+| Djdjdjekekek | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 2.00 (50¢) | $25,214 | -$25,214 | ❌ Perdida |
 | 0F62 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $26,718 | +$5,865 | ✅ Ganada |
 | Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.38 (42¢) | $53,984 | +$74,550 | ✅ Ganada |
-| S-Works | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.28 (78¢) | $312,000 | — | ⏳ Pendiente |
-| Djdjdjekekek | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 4.55 (22¢) | $95,671 | — | ⏳ Pendiente |
-| 0xheavy888 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.30 (77¢) | $60,801 | — | ⏳ Pendiente |
-| NemecGhudini | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.28 (78¢) | $54,600 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.27 (79¢) | $135,183 | — | ⏳ Pendiente |
+| S-Works | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.28 (78¢) | $312,000 | +$88,000 | ✅ Ganada |
+| Djdjdjekekek | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 4.55 (22¢) | $95,671 | -$95,671 | ❌ Perdida |
+| 0xheavy888 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.30 (77¢) | $60,801 | +$18,161 | ✅ Ganada |
+| NemecGhudini | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.28 (78¢) | $54,600 | +$15,400 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.27 (79¢) | $135,183 | +$35,935 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.27 (44¢) | $79,200 | +$100,800 | ✅ Ganada |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.79 (56¢) | $53,788 | -$53,788 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.27 (44¢) | $42,257 | +$53,782 | ✅ Ganada |
