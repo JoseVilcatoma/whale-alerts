@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 14:18:31 (hora de Perú)
+Actualizado: 2026-08-13 14:20:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,248.14
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ActionReaction | 0 | 0 | 8 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 6 | +0.00 USD |
 | CORGI8 | 0 | 0 | 3 | +0.00 USD |
-|  | 0 | 0 | 1 | +0.00 USD |
+|  | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -63,6 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Will Blackburn Rovers FC win on 2026-08- | No (BUY) | 85% | 0.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Spread: FC Thun (-1.5) | KF Víkingur (BUY) | 100% | 0.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | FC Vaduz vs. FC Inter Turku: O/U 4.5 | Under (BUY) | 78% | 0.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Will Al Qadisiyah Saudi Club win on 2026 | No (BUY) | 53% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -92,4 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will FC Inter Turku win on 2026-08-13? | No (BUY) | 96% | 1.94 | 0.2% | ⏳ pendiente | — |
 | swisstony | RSC Anderlecht vs. PAOK: Both Teams to S | Yes (BUY) | 71% | 2.20 | 0.2% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Spirit vs Aurora (BO3) - Th | Aurora (BUY) | 45% | 206.34 | 16.6% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Spirit vs Aurora (BO3) - Th | Aurora (BUY) | 45% | 311.61 ⚠️ | 40.6% | ⏳ pendiente | — |
