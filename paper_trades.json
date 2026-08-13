@@ -81412,5 +81412,50 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786583396.6129072,
     "fills": 1
+  },
+  {
+    "timestamp": 1786583606,
+    "timestamp_added": 1786583606.6446083,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-cle-det-2026-08-12-total-10pt5",
+    "title": "Cleveland Guardians vs. Detroit Tigers: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 370.0,
+    "whale_pct": 0.172,
+    "paper_stake_usd": 0.99,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786583606.6446154,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786583606,
+    "timestamp_added": 1786583607.3248997,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-cle-det-2026-08-12-spread-away-2pt5",
+    "title": "Spread: Cleveland Guardians (-2.5)",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 1612.1493,
+    "whale_pct": 0.75,
+    "paper_stake_usd": 4.29,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786583608.5498533,
+    "fills": 4
   }
 ]

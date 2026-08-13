@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 20:11:29 (hora de Perú)
+Actualizado: 2026-08-12 20:13:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $572.76
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 67 | 70 | 4 | +104.98 USD |
+| wr0ngw4yb3tt0r | 67 | 70 | 6 | +104.98 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
@@ -466,13 +466,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sud-tig-tor-2026-08-12-tor | RN1, ferrariChampions2026 |
 | mlb-cle-det-2026-08-12-total-9pt5 | 1winstreak1, HomeRunHazard |
 | mlb-cle-det-2026-08-12-spread-home-1pt5 | RN1, wr0ngw4yb3tt0r |
+| mlb-cle-det-2026-08-12-spread-away-2pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | sud-bra-cam-2026-08-12-total-1pt5 | RN1, ferrariChampions2026 |
 | mlb-mil-sd-2026-08-12-total-7pt5 | 1winstreak1, RN1 |
 | mlb-chc-wsh-2026-08-12-total-8pt5 | 1winstreak1, RN1 |
 | mlb-sea-nyy-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
 | mlb-pit-mia-2026-08-12-total-9pt5 | 1winstreak1, RN1 |
 | mlb-nym-atl-2026-08-12-total-7pt5 | 1winstreak1, HomeRunHazard, RN1 |
-| mlb-cle-det-2026-08-12-total-10pt5 | 1winstreak1, HomeRunHazard |
+| mlb-cle-det-2026-08-12-total-10pt5 | 1winstreak1, HomeRunHazard, wr0ngw4yb3tt0r |
 | lib-cru-fla-2026-08-12-cru | AV23IUa, RN1 |
 | mlb-nym-atl-2026-08-12-total-9pt5 | HomeRunHazard, RN1 |
 | mlb-chc-wsh-2026-08-12-total-16pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -481,6 +482,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Cleveland Guardians (-2.5) | Detroit Tigers (BUY) | 40% | 4.29 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Cleveland Guardians vs. Detroit Tigers:  | Over (BUY) | 37% | 0.99 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 52% | 1.47 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 63% | 6.89 | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 70% | 5.00 | ⏳ pendiente | — |
@@ -509,5 +512,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 71% | 1.18 | ⏳ pendiente | — |
 | RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 71% | 0.91 | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-12? | Yes (BUY) | 39% | 1.31 | ⏳ pendiente | — |
-| RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 53% | 11.49 | ⏳ pendiente | — |
-| RN1 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Over (BUY) | 61% | 1.74 | ⏳ pendiente | — |
