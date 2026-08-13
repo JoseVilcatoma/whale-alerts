@@ -83389,8 +83389,8 @@
     "whale_pct": 0.555,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 18,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction",
       "BBQChickenisthebesttt"
@@ -83498,8 +83498,8 @@
     "whale_pct": 0.21,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 13,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction",
       "BBQChickenisthebesttt"
@@ -83521,8 +83521,8 @@
     "whale_pct": 0.274,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 12,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "ActionReaction",
       "BBQChickenisthebesttt"
@@ -83588,7 +83588,7 @@
     "whale_pct": 0.201,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 84,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction",
@@ -83611,7 +83611,7 @@
     "whale_pct": 3.267,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 86,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction",
@@ -83656,7 +83656,7 @@
     "whale_pct": 1.377,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 86,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction",
@@ -83679,7 +83679,7 @@
     "whale_pct": 1.367,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 86,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ActionReaction",
@@ -85645,15 +85645,15 @@
     "title": "LoL: Top Esports vs LGD Gaming (BO3) - LPL Group Ascend",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "whale_usd": 1064.5206,
-    "whale_pct": 1.546,
+    "whale_usd": 1173.06,
+    "whale_pct": 1.703,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 38,
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
-    "last_fill_at": 1786617904.4802532,
-    "fills": 1
+    "last_fill_at": 1786617915.9642906,
+    "fills": 2
   }
 ]
